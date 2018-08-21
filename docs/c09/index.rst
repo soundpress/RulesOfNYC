@@ -21188,39 +21188,6 @@ The Director may determine certain classes of alleged violations as appropriate 
 
 
 
-Chapter 42: Office of the City Sheriff
---------------------------------------------------
-
-
-
-*§ 42-01 Fees for the Release of Stolen Motor Vehicles.* ::
-
-
-Any stolen motor vehicle seized by the City Sheriff pursuant to section four hundred twenty-four of the Vehicle and Traffic Law shall be released to the owner upon payment of the following fees: 1.  Seventy dollars for towing the vehicle from the place where the vehicle was recovered to the storage yard; 2.  Fifteen dollars a day for the first three days of storage; and 3.  Seventeen dollars a day for the fourth day of storage and for each day thereafter.
-
-
-
-
-
-
-*§ 42-02 Abandoned Vehicles.* ::
-
-
-Any stolen motor vehicle which is unclaimed after notice of the recovery of such vehicle is mailed to the owner shall be considered to be an abandoned vehicle and shall be disposed of in accordance with section twelve hundred twenty-four of the Vehicle and Traffic Law.
-
-
-
-
-
-
-*§ 42-03 Personal Property.* ::
-
-
-The City Sheriff shall inventory and hold onto all personal property which is found in a stolen motor vehicle. Any such property that fits the definition of an instrument under subdivision 2 of section 251 of the Personal Property Law, and any other personal property with a value of $20.00 or more, shall be turned over to the police property clerk subsequent to the determination under § 40-02 of these rules that a stolen motor vehicle is an abandoned vehicle, but prior to disposal of the vehicle.
-
-
-
-
 Chapter 40: Rules Relating To the Sale of Tax Liens
 --------------------------------------------------
 
@@ -21320,6 +21287,39 @@ Example: Under the Administrative Code, real property tax liens that are on prop
          (C) if there have been no documents filed with the Surrogate's Court and no fiduciary has been appointed by the Surrogate's Court with respect to the decedent's estate, documentation issued by a government agency which, in the determination of the Department of Finance, substantiates the claim that the beneficiary is an heir of the decedent and inherited the real property or a share of the real property for which an installment agreement is sought, making such beneficiary an owner of the property.
 
 
+
+
+
+
+Chapter 42: Office of the City Sheriff
+--------------------------------------------------
+
+
+
+*§ 42-01 Fees for the Release of Stolen Motor Vehicles.* ::
+
+
+Any stolen motor vehicle seized by the City Sheriff pursuant to section four hundred twenty-four of the Vehicle and Traffic Law shall be released to the owner upon payment of the following fees: 1.  Seventy dollars for towing the vehicle from the place where the vehicle was recovered to the storage yard; 2.  Fifteen dollars a day for the first three days of storage; and 3.  Seventeen dollars a day for the fourth day of storage and for each day thereafter.
+
+
+
+
+
+
+*§ 42-02 Abandoned Vehicles.* ::
+
+
+Any stolen motor vehicle which is unclaimed after notice of the recovery of such vehicle is mailed to the owner shall be considered to be an abandoned vehicle and shall be disposed of in accordance with section twelve hundred twenty-four of the Vehicle and Traffic Law.
+
+
+
+
+
+
+*§ 42-03 Personal Property.* ::
+
+
+The City Sheriff shall inventory and hold onto all personal property which is found in a stolen motor vehicle. Any such property that fits the definition of an instrument under subdivision 2 of section 251 of the Personal Property Law, and any other personal property with a value of $20.00 or more, shall be turned over to the police property clerk subsequent to the determination under § 40-02 of these rules that a stolen motor vehicle is an abandoned vehicle, but prior to disposal of the vehicle.
 
 
 
@@ -21442,125 +21442,6 @@ Section 11-128 of the Administrative Code of the City of New York authorizes the
 (c) Notwithstanding any other provision of this section, where real property taxes are paid for more than one taxpayer by a single bill or paid by a single entity, including but not limited to a mortgage escrow agent as defined in paragraph c of subdivision four of section fifteen hundred nineteen of the charter of the city of New York, if the total amount paid is equal to or greater than three hundred thousand dollars annually, such amount shall be used to determine whether the taxpayer or entity is required to pay the real property taxes by electronic funds transfer.
 
 (d) For purposes of these rules, "electronic funds transfer" shall mean any transfer of funds, other than a transaction originated by check, draft or similar paper instrument, which is initiated through an electronic terminal, telephonic instrument or computer or magnetic tape so as to order, instruct or authorize a financial institution to debit or credit an account.
-
-
-
-
-Chapter 46: the Real Property Tax Surcharge On Certain Class One Properties
---------------------------------------------------
-
-
-
-*§ 46-01 Definitions.* ::
-
-
-Unless the context requires otherwise, as used in these rules:
-
-Administrative Code. "Administrative Code" means the Administrative Code of the City of New York.
-
-Basic STAR. "Basic STAR" means the school tax relief exemption from real property taxes as defined in paragraph (a) of subdivision 2 of sectiion 425 of the Real Property Tax Law.
-
-Class one property. "Class one property" means real property classified as class one property pursuant to section 1802 of the Real Property Tax Law.
-
-Commissioner. "Commissioner" means the Commissioner of Finance of the City of New York or the designee of the Commissioner.
-
-Department. "Department" means the New York City Department of Finance.
-
-Fiscal year. "Fiscal year" means the period beginning July 1 and ending the following June 30.
-
-Real property tax surcharge or surcharge. "Real property tax surcharge" or "surcharge" means the real property tax surcharge imposed under section 307-a of the Real Property Tax Law and section 11-238 of the Administrative Code.
-
-STAR exemption. "STAR exemption" means the school tax relief exemption from real property taxes pursuant to section 425 of the Real Property Tax Law.
-
-
-
-
-
-
-*§ 46-02 Certification.* ::
-
-
-(a)  Certification of exclusion from surcharge; timing of application.
-
-   (1) Property to which surcharge applies. As provided for by New York State Real Property Tax Law § 307-a and New York City Administrative Code § 11-238, a real property tax surcharge is imposed on certain class one property, excluding vacant land, that provides rental income and is not the primary residence of the owner or owners of such class one property or the primary residence of the parent or child of such owner or owners. The surcharge shall be a lien on the subject property, and may be collected in any manner provided by law. The property shall be deemed to be the primary residence of the owner or owners if the property would be eligible to receive the STAR exemption, regardless of whether the property is currently receiving the exemption. Property owners who have registered to receive the STAR exemption (or other exemption from real property tax administered by the Department of Finance for which primary residency is a requirement) are not required to file an additional certification under paragraph (2) of this subdivision in order to be excluded from the surcharge.
-
-   (2) Who must file certification. In order to obtain exclusion from the surcharge, property owners not registered to receive the STAR exemption (or other exemption from real property tax administered by the Department of Finance for which primary residency is a requirement) who are eligible for exclusion from the surcharge as set forth in Administrative Code § 11-238 or New York State Real Property Tax Law § 307-a shall complete an application on which they certify to the Commissioner that their property is eligible for exclusion from the requirement of the surcharge based on the use of the property as of the applicable taxable status date for the fiscal year for which exclusion from the surcharge is sought. This application and certification of eligibility for exclusion shall be on a form provided by the Department of Finance.
-
-   (3) Timing of certification. A certification of eligibility for exclusion from the surcharge must be filed with the Department no later than March 15 immediately prior to the fiscal year for which the owner is applying for exclusion from the surcharge. The Commissioner may, from time to time in the discretion of the Commissioner, require recertification from the owner.
-
-   (4) Special rule for fiscal year 2004. Notwithstanding any other provision of this subdivision, a certification of eligibility for exclusion from the surcharge for fiscal year 2004  must be filed with the Department no later than March 15, 2004, and must be based on the use of the property as of the date of the certification.
-
-   (5) Certification upon conveyance of property or interest therein. The Department may make the form for certification under these rules a part of the real property transfer tax return or an attachment thereto and in such case a certification shall be completed and filed with any such return that is filed with the Department.
-
-(b) Certification Requirements.
-
-   (1) By application provided pursuant to paragraph (2) of subdivision (a) of this section, the owner shall certify that the class one property is the primary residence of at least one owner.
-
-   (2) If the subject property is not the primary residence of at least one owner, then the owner must certify, and may be required to provide proof as set forth under subdivision (b) of section 46-03 of these rules, that such property is the primary residence of such owner's or owners' parent or child. Such owner or owners may also be required to provide certification as to the resident's or residents' relationship to the owner or owners and such proof of the relationship as the Commissioner deems acceptable.
-
-   (3) If the subject property is not so used as provided for in paragraphs (1) and (2) of this subdivision, the owner or owners must certify that such owner or owners receive no rental income of any kind, or in any manner or form, whatsoever, from the use of such property. The Department of Finance may require that the owner provide the Commissioner with a copy of the owner's or owners' most recent federal or New York State or New York City personal income tax return(s) together with this certification.
-
-   (4) Owners making the above listed certification(s) to the Department of Finance shall make such certifications under penalty of perjury, subject to audit and subject to the penalties set forth in Administrative Code § 11-238(d), including the imposition of an additional penalty tax of $500.00 against the subject property.
-
-
-
-
-
-
-*§ 46-03 Proof of Primary Residency.* ::
-
-
-(a)  Generally. Where requested, the burden shall be on the owner or owners to establish that the property is their primary residence. While a person may have one or more residences, there can be only one primary residence, and the owner, upon request, must establish that the subject property is an owner's or owners' primary residence.
-
-(b) Where an owner certifies that a property is an owner's or owners' primary residence, or the primary residence of the owner's or owners' parent or child, the Department of Finance may request, and such owner or owners shall be required to furnish, proof of primary residency. Forms of proof that will be considered by the Commissioner shall include, but are not limited to the following:
-
-   (1) a valid driver's license;
-
-   (2) copy of a federal or New York State Personal Income Tax Return;
-
-   (3) a copy of a utility bill or 911 service listing;
-
-   (4) a voter registration card;
-
-   (5) a social security statement;
-
-   (6) an automobile registration;
-
-   (7) a recent tax bill addressed to the owner at the property address;
-
-   (8) a recent bank statement; and
-
-   (9) other forms of proof that the Commissioner deems acceptable. In determining whether an owner has demonstrated primary residency, the Commissioner need not base the determination on any single factor and, in addition to the above forms of proof, the Commissioner may consider the length of time the person has resided on the property, and other conduct and behavior that provide evidence as to which property is the owner's or owners' primary residence.
-
-(c) Failure to furnish proof of primary residency promptly and to the satisfaction of the Commissioner, upon request, shall result in the denial of the application for exclusion from the surcharge due to primary residency and, as a result, the imposition of the surcharge plus any interest accrued from the date on which the surcharge would have been due and payable but for the filing of the application for exclusion, plus any penalties that may be imposed as set forth in Administrative Code § 11-238(d), including the imposition of an additional penalty tax of $500.00 against the subject property. Any amounts imposed pursuant to this subdivision shall be a lien on the subject property, and may be collected in any manner provided by law.
-
-(d) Where an owner makes a certification that the property is the primary residence of an owner's or owners' parent or child, the owner or owners making this certification may be required to furnish to the Department of Finance at least two forms of proof of residency of their parent or child as may be required under subdivision (b) of this section, plus any such proof deemed acceptable by the Commissioner as to the relationship of the owner or owners to such parent or child.
-
-
-
-
-
-
-*§ 46-04 Audit.* ::
-
-
-The Department of Finance may audit such certifications and require and verify proof of residence or absence of rental income provided in connection with a certification. In the course of such audit, the Commissioner may request, consider and verify additional forms of proof of primary residence or absence of rental income. If following an audit, the Commissioner determines that an owner who provided a certification pursuant to paragraph (2) of subdivision (a) of section 46-02 of these rules should have been required to pay the surcharge, the surcharge shall be imposed on the property, together with interest accrued as of the date that the surcharge would have been due and payable but for the filing of the application and certification of eligibility for exclusion, plus any penalties that may be imposed as set forth in Administrative Code § 11-238(d), including the imposition of an additional penalty tax of $500.00 against the subject property. Any amounts imposed pursuant to this section shall be a lien on the subject property, and may be collected in any manner provided by law.
-
-
-
-
-
-
-*§ 46-05 Change in Eligibility.* ::
-
-
-(a)  Notification to Commissioner. The owner or owners of the property shall notify the Commissioner in the event that (1) a property that was granted an exclusion from the surcharge based on its use as a primary residence of the owner or owners or the parent or child of the owner or owners ceases to be used as the primary residence of the owner or owners or the parent or child of the owner or owners, or (2) a property that was granted an exclusion based on the fact that it does not produce rental income begins to produce rental income.
-
-(b) Effect of mid-year change in eligibility.
-
-   (1) Mid-year change in use of property excluded from surcharge. Where a determination that a property was eligible for exclusion was based on the status of the property prior to the commencement of a fiscal year for which exclusion was granted, then in the event that a cessation of use for an excluded purpose occurs prior to the end of such fiscal year, the property will remain excluded from the surcharge for the remainder of such fiscal year.
-
-   (2) Mid-year change in use of property subject to surcharge. In the event that a property that is subject to the surcharge for a fiscal year based on the status of the property prior to the commencement of such fiscal year first meets the requirements for eligibility for exclusion based on a change in use prior to the end of such fiscal year, the property will remain subject to the surcharge for the remainder of such fiscal year, and the property will become eligible for exclusion for the next succeeding fiscal year, subject to the certification requirements of these rules.
 
 
 
@@ -21690,6 +21571,125 @@ These rules shall be deemed to be incorporated into any judgment of foreclosure 
 
 
 If any sentence, paragraph, section or part of these rules shall be adjudged invalid by a court of competent jurisdiction such judgment shall not impair or invalidate the remainder thereof but shall be confined to that part.
+
+
+
+
+Chapter 46: the Real Property Tax Surcharge On Certain Class One Properties
+--------------------------------------------------
+
+
+
+*§ 46-01 Definitions.* ::
+
+
+Unless the context requires otherwise, as used in these rules:
+
+Administrative Code. "Administrative Code" means the Administrative Code of the City of New York.
+
+Basic STAR. "Basic STAR" means the school tax relief exemption from real property taxes as defined in paragraph (a) of subdivision 2 of sectiion 425 of the Real Property Tax Law.
+
+Class one property. "Class one property" means real property classified as class one property pursuant to section 1802 of the Real Property Tax Law.
+
+Commissioner. "Commissioner" means the Commissioner of Finance of the City of New York or the designee of the Commissioner.
+
+Department. "Department" means the New York City Department of Finance.
+
+Fiscal year. "Fiscal year" means the period beginning July 1 and ending the following June 30.
+
+Real property tax surcharge or surcharge. "Real property tax surcharge" or "surcharge" means the real property tax surcharge imposed under section 307-a of the Real Property Tax Law and section 11-238 of the Administrative Code.
+
+STAR exemption. "STAR exemption" means the school tax relief exemption from real property taxes pursuant to section 425 of the Real Property Tax Law.
+
+
+
+
+
+
+*§ 46-02 Certification.* ::
+
+
+(a)  Certification of exclusion from surcharge; timing of application.
+
+   (1) Property to which surcharge applies. As provided for by New York State Real Property Tax Law § 307-a and New York City Administrative Code § 11-238, a real property tax surcharge is imposed on certain class one property, excluding vacant land, that provides rental income and is not the primary residence of the owner or owners of such class one property or the primary residence of the parent or child of such owner or owners. The surcharge shall be a lien on the subject property, and may be collected in any manner provided by law. The property shall be deemed to be the primary residence of the owner or owners if the property would be eligible to receive the STAR exemption, regardless of whether the property is currently receiving the exemption. Property owners who have registered to receive the STAR exemption (or other exemption from real property tax administered by the Department of Finance for which primary residency is a requirement) are not required to file an additional certification under paragraph (2) of this subdivision in order to be excluded from the surcharge.
+
+   (2) Who must file certification. In order to obtain exclusion from the surcharge, property owners not registered to receive the STAR exemption (or other exemption from real property tax administered by the Department of Finance for which primary residency is a requirement) who are eligible for exclusion from the surcharge as set forth in Administrative Code § 11-238 or New York State Real Property Tax Law § 307-a shall complete an application on which they certify to the Commissioner that their property is eligible for exclusion from the requirement of the surcharge based on the use of the property as of the applicable taxable status date for the fiscal year for which exclusion from the surcharge is sought. This application and certification of eligibility for exclusion shall be on a form provided by the Department of Finance.
+
+   (3) Timing of certification. A certification of eligibility for exclusion from the surcharge must be filed with the Department no later than March 15 immediately prior to the fiscal year for which the owner is applying for exclusion from the surcharge. The Commissioner may, from time to time in the discretion of the Commissioner, require recertification from the owner.
+
+   (4) Special rule for fiscal year 2004. Notwithstanding any other provision of this subdivision, a certification of eligibility for exclusion from the surcharge for fiscal year 2004  must be filed with the Department no later than March 15, 2004, and must be based on the use of the property as of the date of the certification.
+
+   (5) Certification upon conveyance of property or interest therein. The Department may make the form for certification under these rules a part of the real property transfer tax return or an attachment thereto and in such case a certification shall be completed and filed with any such return that is filed with the Department.
+
+(b) Certification Requirements.
+
+   (1) By application provided pursuant to paragraph (2) of subdivision (a) of this section, the owner shall certify that the class one property is the primary residence of at least one owner.
+
+   (2) If the subject property is not the primary residence of at least one owner, then the owner must certify, and may be required to provide proof as set forth under subdivision (b) of section 46-03 of these rules, that such property is the primary residence of such owner's or owners' parent or child. Such owner or owners may also be required to provide certification as to the resident's or residents' relationship to the owner or owners and such proof of the relationship as the Commissioner deems acceptable.
+
+   (3) If the subject property is not so used as provided for in paragraphs (1) and (2) of this subdivision, the owner or owners must certify that such owner or owners receive no rental income of any kind, or in any manner or form, whatsoever, from the use of such property. The Department of Finance may require that the owner provide the Commissioner with a copy of the owner's or owners' most recent federal or New York State or New York City personal income tax return(s) together with this certification.
+
+   (4) Owners making the above listed certification(s) to the Department of Finance shall make such certifications under penalty of perjury, subject to audit and subject to the penalties set forth in Administrative Code § 11-238(d), including the imposition of an additional penalty tax of $500.00 against the subject property.
+
+
+
+
+
+
+*§ 46-03 Proof of Primary Residency.* ::
+
+
+(a)  Generally. Where requested, the burden shall be on the owner or owners to establish that the property is their primary residence. While a person may have one or more residences, there can be only one primary residence, and the owner, upon request, must establish that the subject property is an owner's or owners' primary residence.
+
+(b) Where an owner certifies that a property is an owner's or owners' primary residence, or the primary residence of the owner's or owners' parent or child, the Department of Finance may request, and such owner or owners shall be required to furnish, proof of primary residency. Forms of proof that will be considered by the Commissioner shall include, but are not limited to the following:
+
+   (1) a valid driver's license;
+
+   (2) copy of a federal or New York State Personal Income Tax Return;
+
+   (3) a copy of a utility bill or 911 service listing;
+
+   (4) a voter registration card;
+
+   (5) a social security statement;
+
+   (6) an automobile registration;
+
+   (7) a recent tax bill addressed to the owner at the property address;
+
+   (8) a recent bank statement; and
+
+   (9) other forms of proof that the Commissioner deems acceptable. In determining whether an owner has demonstrated primary residency, the Commissioner need not base the determination on any single factor and, in addition to the above forms of proof, the Commissioner may consider the length of time the person has resided on the property, and other conduct and behavior that provide evidence as to which property is the owner's or owners' primary residence.
+
+(c) Failure to furnish proof of primary residency promptly and to the satisfaction of the Commissioner, upon request, shall result in the denial of the application for exclusion from the surcharge due to primary residency and, as a result, the imposition of the surcharge plus any interest accrued from the date on which the surcharge would have been due and payable but for the filing of the application for exclusion, plus any penalties that may be imposed as set forth in Administrative Code § 11-238(d), including the imposition of an additional penalty tax of $500.00 against the subject property. Any amounts imposed pursuant to this subdivision shall be a lien on the subject property, and may be collected in any manner provided by law.
+
+(d) Where an owner makes a certification that the property is the primary residence of an owner's or owners' parent or child, the owner or owners making this certification may be required to furnish to the Department of Finance at least two forms of proof of residency of their parent or child as may be required under subdivision (b) of this section, plus any such proof deemed acceptable by the Commissioner as to the relationship of the owner or owners to such parent or child.
+
+
+
+
+
+
+*§ 46-04 Audit.* ::
+
+
+The Department of Finance may audit such certifications and require and verify proof of residence or absence of rental income provided in connection with a certification. In the course of such audit, the Commissioner may request, consider and verify additional forms of proof of primary residence or absence of rental income. If following an audit, the Commissioner determines that an owner who provided a certification pursuant to paragraph (2) of subdivision (a) of section 46-02 of these rules should have been required to pay the surcharge, the surcharge shall be imposed on the property, together with interest accrued as of the date that the surcharge would have been due and payable but for the filing of the application and certification of eligibility for exclusion, plus any penalties that may be imposed as set forth in Administrative Code § 11-238(d), including the imposition of an additional penalty tax of $500.00 against the subject property. Any amounts imposed pursuant to this section shall be a lien on the subject property, and may be collected in any manner provided by law.
+
+
+
+
+
+
+*§ 46-05 Change in Eligibility.* ::
+
+
+(a)  Notification to Commissioner. The owner or owners of the property shall notify the Commissioner in the event that (1) a property that was granted an exclusion from the surcharge based on its use as a primary residence of the owner or owners or the parent or child of the owner or owners ceases to be used as the primary residence of the owner or owners or the parent or child of the owner or owners, or (2) a property that was granted an exclusion based on the fact that it does not produce rental income begins to produce rental income.
+
+(b) Effect of mid-year change in eligibility.
+
+   (1) Mid-year change in use of property excluded from surcharge. Where a determination that a property was eligible for exclusion was based on the status of the property prior to the commencement of a fiscal year for which exclusion was granted, then in the event that a cessation of use for an excluded purpose occurs prior to the end of such fiscal year, the property will remain excluded from the surcharge for the remainder of such fiscal year.
+
+   (2) Mid-year change in use of property subject to surcharge. In the event that a property that is subject to the surcharge for a fiscal year based on the status of the property prior to the commencement of such fiscal year first meets the requirements for eligibility for exclusion based on a change in use prior to the end of such fiscal year, the property will remain subject to the surcharge for the remainder of such fiscal year, and the property will become eligible for exclusion for the next succeeding fiscal year, subject to the certification requirements of these rules.
 
 
 
@@ -22438,139 +22438,6 @@ The Department will notify the applicant concerning the determination rendered b
 
 
 
-Chapter 56: Real Property Tax Abatement for Major Capital Improvements for Certain Class 2 Properties
---------------------------------------------------
-
-
-
-*§ 56-01 Definitions.* ::
-
-
-(a) "Class two building" means any building in a special assessing unit classified as class two pursuant to subdivision 1 of Section 1802 of the Real Property Tax Law.
-
-(b) "Commissioner" means the Commissioner of Finance of the City of New York.
-
-(c) "Department" means the Department of Finance of the City of New York.
-
-(d) "DHCR" is the New York State Division of Housing and Community Renewal.
-
-(e) "DRIE" is the Disability Rent Increase Exemption program.
-
-(f) "Eligible Building" means a class two building that is subject to either:
-
-   (i) the emergency housing rent control law; or
-
-   (ii) the rent and rehabilitation law of the City of New York enacted, pursuant to the emergency housing rent control law or to the emergency tenant protection act of nineteen seventy-four.
-
-(g) "J-51 Program" is the tax exemption and abatement program governed by Section 489 of the Real Property Tax Law, Section 11-243 of the Administrative Code of the City of New York and 28 RCNY Chapter 5.
-
-(h) "Major Capital Improvement" ("MCI") – is an improvement or installation to a building subject to either the emergency housing rent control law or the rent and rehabilitation law of the City of New York enacted under the local emergency housing rent control law or under the emergency tenant protection act of 1974 for which DHCR has granted approval for a rent increase to a building owner. MCI increases apply to building-wide improvements, not to individual apartment improvements.
-
-(i) "SCRIE" is the Senior Citizen Rent Increase Exemption program.
-
-
-
-
-
-
-
-
-*§ 56-02 Amount of Abatement.* ::
-
-
-An eligible building shall receive an abatement of real property taxes as provided in these rules.
-
-(a) The amount of such tax abatement shall be calculated as follows:
-
-   (i) 0.5, multiplied by
-
-   (ii) the total approved cost of the MCI order issued by DHCR, multiplied by
-
-   (iii) a fraction, where the numerator equals the increase, of the amortization schedule of the improvement established by the rent act of 2015, measured in months, and where the denominator equals the total new amortization period for the MCI established by the rent act of 2015 applied to the eligible building, measured in months.
-
-(b) For eligible buildings with 35 or fewer residential units, the new amortization schedule for an MCI order increases from 7 to 8 years. For example: The property owner replaces a boiler of an eligible building, which costs the owner $10,000.
-
-   0.5 x $10,000 [approved cost of MCI order] = $5,000.
-
-   $5,000 x (12 months)/ (96 months) [8 year amortization schedule] =
-
-   $5,000 x 0.125 =$625.
-
-   The MCI tax abatement for the building is $625.
-
-(c) For eligible buildings with more than 35 residential units, the new amortization schedule for an MCI order increases from 7 to 9 years. For example: The property owner replaces a boiler of an eligible building, which costs the owner $10,000.
-
-   0.5 x $10,000 [approved cost of MCI order] =$5,000.
-
-   $5,000 x (24 months/108 months) [9 year amortization schedule] =
-
-   $5,000 x 0.222 = $1,111.
-
-   The MCI tax abatement for the building is $1,111.
-
-(d) The department will adjust the amount of the abatement if the DHCR MCI order is amended in the future. However, the original owner will not receive an adjustment in the abatement amount if the MCI was amended after the sale of the real property. If an MCI is amended after the sale, the new owner may apply for an adjustment to the abatement.
-
-(e) The department will adjust the amount of the abatement if a subsequent assessment reduction by the New York City Tax Commission or a court of appropriate jurisdiction changes the amount of the abatement that would have been calculated under these rules.
-
-
-
-
-
-
-
-
-*§ 56-03 Application for Abatement.* ::
-
-
-(a) Except as allowed by paragraph (b) of this subdivision, an MCI tax abatement application must be submitted electronically to the department by the building owner or his or her designated representative and include all information requested by the department. The submission must follow the format required by the department and follow the instructions for submission of the application as described on the department's website. The information required by the application will include, but is not limited to:
-
-   (i) the amount of the MCI order approved by DHCR
-
-   (ii) the number of residential units in the eligible building.
-
-(b) Request for waiver of electronic filing requirement. The Commissioner may waive the requirement of an electronic filing for good cause. A request for waiver of the electronic filing requirement must be made in writing. Any filing in paper format must be filed with the department at the address designated by the department.
-
-(c) The department may request, in writing, additional information from an MCI tax abatement applicant concerning their application. The applicant will be notified in a written notice whether their application is granted or denied. If the MCI tax abatement application is denied, the notice will mention the reasons for the department's decision and inform the applicant of their right to appeal the decision. The appeal must be submitted by the applicant or his or her designee to the Commissioner within 60 days of the posting of notice by mail.
-
-(d) Building owners must submit MCI tax abatement applications for MCI tax abatements within five years after the date of the order issued by DHCR granting an MCI rent increase. After this period, a building owner will not be eligible for any MCI tax abatement benefits for that MCI order.
-
-(e) An MCI tax abatement application may not be submitted and an MCI tax abatement will not be granted for MCI orders dated prior to June 15, 2015.
-
-(f) If multiple MCI orders are issued by DHCR for an eligible building the building owner must submit a separate application to the department for each MCI order .
-
-(g) A building owner may withdraw an MCI tax abatement application submitted to the department prior to May 15th of a calendar year Applications which are not withdrawn by May 15th will be reviewed by the department.
-
-
-
-
-
-
-
-
-*§ 56-04 Administration of Abatement.* ::
-
-
-(a) An MCI tax abatement will be for a term of one tax year and is not renewable for any subsequent tax years. An MCI tax abatement or a portion thereof cannot be carried over to the next tax year if the MCI tax abatement reduces the tax liability to an amount below $0. An MCI tax abatement is not refundable but applied only as a credit.
-
-(b) The date an approved MCI tax abatement is applied depends on the date the MCI tax abatement application is received by the department. An approved application received by the department before May 15th of a calendar year will be applied in the tax year starting on July 1st of that calendar year. Approved applications received on or after May 15th of a calendar year will be applied in the tax year starting on July 1st of the following calendar year.
-
-(c) An MCI tax abatement will not reduce or offset any other tax benefit provided, calculated or approved by the City of New York or the State of New York. The MCI tax abatement will be applied prior to the application of SCRIE or DRIE credits or J-51 program abatements.
-
-(d) An MCI tax abatement is compatible with other tax benefits unless specifically prohibited by statute. A building is not eligible to receive an abatement if it receiving benefits under Sections 420-c, 421-a, and 421-g of the Real Property Tax Law, or any other provision that prohibits the receipt of other benefits.
-
-(e) If multiple applications are submitted for the same tax lot, the MCI tax abatement will be calculated using the number of units specified in the MCI order issued by DHCR applicable to the building that is the subject of the individual application.
-
-(f) If an MCI tax abatement is approved for a building that is included within multiple tax lots, each lot will be allocated a fraction of the abatement proportional to each lot's percentage of the total combined actual assessed value of the lots for the tax year that the abatement is applied.
-
-(g) If an apportionment or merger occurs after an MCI order is issued by DHCR, the department will make the appropriate allocation of the MCI tax abatement to the successor tax lots.
-
-(h) In enacting the MCI tax abatement the department in no way intends to affect the legal status of any apartment in an eligible building. Should it ever be determined that the receipt of an MCI tax abatement will affect the legal status of an apartment in a building, such as subjecting a decontrolled apartment to rent regulation, the building owner may withdraw its pending application for an MCI tax abatement or renounce an MCI tax abatement that has been received. Such renunciation by the building owner shall be deemed to void the MCI tax abatement ab initio. If an eligible building owner renounces an MCI tax abatement received, the building owner shall have thirty (30) days to pay the revised tax bill without interest being imposed.
-
-
-
-
-
-
 Chapter 55: Adjudication of Certain Notices of Violation and Sealing of Premises
 --------------------------------------------------
 
@@ -22747,4 +22614,137 @@ Respondents who admit to the offenses or are found in violation by OATH may be s
 
 
 **Schedule B**
+
+Chapter 56: Real Property Tax Abatement for Major Capital Improvements for Certain Class 2 Properties
+--------------------------------------------------
+
+
+
+*§ 56-01 Definitions.* ::
+
+
+(a) "Class two building" means any building in a special assessing unit classified as class two pursuant to subdivision 1 of Section 1802 of the Real Property Tax Law.
+
+(b) "Commissioner" means the Commissioner of Finance of the City of New York.
+
+(c) "Department" means the Department of Finance of the City of New York.
+
+(d) "DHCR" is the New York State Division of Housing and Community Renewal.
+
+(e) "DRIE" is the Disability Rent Increase Exemption program.
+
+(f) "Eligible Building" means a class two building that is subject to either:
+
+   (i) the emergency housing rent control law; or
+
+   (ii) the rent and rehabilitation law of the City of New York enacted, pursuant to the emergency housing rent control law or to the emergency tenant protection act of nineteen seventy-four.
+
+(g) "J-51 Program" is the tax exemption and abatement program governed by Section 489 of the Real Property Tax Law, Section 11-243 of the Administrative Code of the City of New York and 28 RCNY Chapter 5.
+
+(h) "Major Capital Improvement" ("MCI") – is an improvement or installation to a building subject to either the emergency housing rent control law or the rent and rehabilitation law of the City of New York enacted under the local emergency housing rent control law or under the emergency tenant protection act of 1974 for which DHCR has granted approval for a rent increase to a building owner. MCI increases apply to building-wide improvements, not to individual apartment improvements.
+
+(i) "SCRIE" is the Senior Citizen Rent Increase Exemption program.
+
+
+
+
+
+
+
+
+*§ 56-02 Amount of Abatement.* ::
+
+
+An eligible building shall receive an abatement of real property taxes as provided in these rules.
+
+(a) The amount of such tax abatement shall be calculated as follows:
+
+   (i) 0.5, multiplied by
+
+   (ii) the total approved cost of the MCI order issued by DHCR, multiplied by
+
+   (iii) a fraction, where the numerator equals the increase, of the amortization schedule of the improvement established by the rent act of 2015, measured in months, and where the denominator equals the total new amortization period for the MCI established by the rent act of 2015 applied to the eligible building, measured in months.
+
+(b) For eligible buildings with 35 or fewer residential units, the new amortization schedule for an MCI order increases from 7 to 8 years. For example: The property owner replaces a boiler of an eligible building, which costs the owner $10,000.
+
+   0.5 x $10,000 [approved cost of MCI order] = $5,000.
+
+   $5,000 x (12 months)/ (96 months) [8 year amortization schedule] =
+
+   $5,000 x 0.125 =$625.
+
+   The MCI tax abatement for the building is $625.
+
+(c) For eligible buildings with more than 35 residential units, the new amortization schedule for an MCI order increases from 7 to 9 years. For example: The property owner replaces a boiler of an eligible building, which costs the owner $10,000.
+
+   0.5 x $10,000 [approved cost of MCI order] =$5,000.
+
+   $5,000 x (24 months/108 months) [9 year amortization schedule] =
+
+   $5,000 x 0.222 = $1,111.
+
+   The MCI tax abatement for the building is $1,111.
+
+(d) The department will adjust the amount of the abatement if the DHCR MCI order is amended in the future. However, the original owner will not receive an adjustment in the abatement amount if the MCI was amended after the sale of the real property. If an MCI is amended after the sale, the new owner may apply for an adjustment to the abatement.
+
+(e) The department will adjust the amount of the abatement if a subsequent assessment reduction by the New York City Tax Commission or a court of appropriate jurisdiction changes the amount of the abatement that would have been calculated under these rules.
+
+
+
+
+
+
+
+
+*§ 56-03 Application for Abatement.* ::
+
+
+(a) Except as allowed by paragraph (b) of this subdivision, an MCI tax abatement application must be submitted electronically to the department by the building owner or his or her designated representative and include all information requested by the department. The submission must follow the format required by the department and follow the instructions for submission of the application as described on the department's website. The information required by the application will include, but is not limited to:
+
+   (i) the amount of the MCI order approved by DHCR
+
+   (ii) the number of residential units in the eligible building.
+
+(b) Request for waiver of electronic filing requirement. The Commissioner may waive the requirement of an electronic filing for good cause. A request for waiver of the electronic filing requirement must be made in writing. Any filing in paper format must be filed with the department at the address designated by the department.
+
+(c) The department may request, in writing, additional information from an MCI tax abatement applicant concerning their application. The applicant will be notified in a written notice whether their application is granted or denied. If the MCI tax abatement application is denied, the notice will mention the reasons for the department's decision and inform the applicant of their right to appeal the decision. The appeal must be submitted by the applicant or his or her designee to the Commissioner within 60 days of the posting of notice by mail.
+
+(d) Building owners must submit MCI tax abatement applications for MCI tax abatements within five years after the date of the order issued by DHCR granting an MCI rent increase. After this period, a building owner will not be eligible for any MCI tax abatement benefits for that MCI order.
+
+(e) An MCI tax abatement application may not be submitted and an MCI tax abatement will not be granted for MCI orders dated prior to June 15, 2015.
+
+(f) If multiple MCI orders are issued by DHCR for an eligible building the building owner must submit a separate application to the department for each MCI order .
+
+(g) A building owner may withdraw an MCI tax abatement application submitted to the department prior to May 15th of a calendar year Applications which are not withdrawn by May 15th will be reviewed by the department.
+
+
+
+
+
+
+
+
+*§ 56-04 Administration of Abatement.* ::
+
+
+(a) An MCI tax abatement will be for a term of one tax year and is not renewable for any subsequent tax years. An MCI tax abatement or a portion thereof cannot be carried over to the next tax year if the MCI tax abatement reduces the tax liability to an amount below $0. An MCI tax abatement is not refundable but applied only as a credit.
+
+(b) The date an approved MCI tax abatement is applied depends on the date the MCI tax abatement application is received by the department. An approved application received by the department before May 15th of a calendar year will be applied in the tax year starting on July 1st of that calendar year. Approved applications received on or after May 15th of a calendar year will be applied in the tax year starting on July 1st of the following calendar year.
+
+(c) An MCI tax abatement will not reduce or offset any other tax benefit provided, calculated or approved by the City of New York or the State of New York. The MCI tax abatement will be applied prior to the application of SCRIE or DRIE credits or J-51 program abatements.
+
+(d) An MCI tax abatement is compatible with other tax benefits unless specifically prohibited by statute. A building is not eligible to receive an abatement if it receiving benefits under Sections 420-c, 421-a, and 421-g of the Real Property Tax Law, or any other provision that prohibits the receipt of other benefits.
+
+(e) If multiple applications are submitted for the same tax lot, the MCI tax abatement will be calculated using the number of units specified in the MCI order issued by DHCR applicable to the building that is the subject of the individual application.
+
+(f) If an MCI tax abatement is approved for a building that is included within multiple tax lots, each lot will be allocated a fraction of the abatement proportional to each lot's percentage of the total combined actual assessed value of the lots for the tax year that the abatement is applied.
+
+(g) If an apportionment or merger occurs after an MCI order is issued by DHCR, the department will make the appropriate allocation of the MCI tax abatement to the successor tax lots.
+
+(h) In enacting the MCI tax abatement the department in no way intends to affect the legal status of any apartment in an eligible building. Should it ever be determined that the receipt of an MCI tax abatement will affect the legal status of an apartment in a building, such as subjecting a decontrolled apartment to rent regulation, the building owner may withdraw its pending application for an MCI tax abatement or renounce an MCI tax abatement that has been received. Such renunciation by the building owner shall be deemed to void the MCI tax abatement ab initio. If an eligible building owner renounces an MCI tax abatement received, the building owner shall have thirty (30) days to pay the revised tax bill without interest being imposed.
+
+
+
+
+
 

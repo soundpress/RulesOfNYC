@@ -3577,35 +3577,6 @@ Person. "Person" shall mean any natural person, firm, copartnership, association
 
 
 
-Chapter 7: Enforcement of Certain Matters Within the Jurisdiction of the Environmental Control Board
---------------------------------------------------
-
-
-
-*§ 7-01 Service of Notice of Violations.* ::
-
-
-Service of a notice of violation of any provisions of the Charter or Administrative Code, the enforcement of which is the responsibility of the Commissioner of Sanitation shall be made in the same manner as is prescribed for service of process by Article three of the Civil Practice Law and Rules or Article three of the Business Corporation Law; or by affixing such notice in a conspicuous place to the premises the occupancy of which caused such violation, provided that such notice may only be affixed where a reasonable attempt has been made to deliver such notice to a person in such premises upon whom service may be made as provided for by Article three of the Civil Practice Law and Rules or Article three of the Business Corporation Law. When a copy has been so affixed, a copy shall be mailed to the person at the address of such premises and if the person designated in the notice of violation is the owner or agent of the building with respect to which such violation was issued and the identity of and an address for such person is contained in any of the files specified in subdivisions (a), (b) and (c) below, a copy of the notice shall also be mailed:
-
-(a) to the person registered with the Department of Housing Preservation and Development as the owner or agent of the building, at the address filed with such Department in compliance with Article 2 of Subchapter 4 of Chapter 2 of Title 27 of the Administrative Code; or
-
-(b) to the person designated as owner or agent of the building or designated to receive real property tax or water bills for the building, at the address for such person contained in one of the files compiled by the Department of Finance for the purpose of the assessment or collection of real property taxes and water charges or in the file compiled by the Department of Finance from real property transfer forms filed with the City Register upon the sale or transfer of real property; or
-
-(c) to the person described as owner or agent of the building, at the address for such person contained in the files of the Department of Sanitation compiled and maintained for the purpose of the enforcement of the provisions of the Charter and Administrative Code over which the Environmental Control Board has jurisdiction.
-
-
-
-
-
-
-*§ 7-02 Proof of Service.* ::
-
-
-Proof of such service shall be filed with the Environmental Control Board within twenty days; service shall be completed within ten days after such filing.
-
-
-
-
 Chapter 6: Vacant Lots
 --------------------------------------------------
 
@@ -3653,6 +3624,266 @@ Every owner of property shall take whatever action may be necessary to maintain 
 
 
 Nothing contained herein shall be deemed to prevent the Commissioner from acting on any request by the Commissioner of Health made pursuant to § 17-147 of the Administrative Code of the City of New York.
+
+
+
+
+Chapter 7: Enforcement of Certain Matters Within the Jurisdiction of the Environmental Control Board
+--------------------------------------------------
+
+
+
+*§ 7-01 Service of Notice of Violations.* ::
+
+
+Service of a notice of violation of any provisions of the Charter or Administrative Code, the enforcement of which is the responsibility of the Commissioner of Sanitation shall be made in the same manner as is prescribed for service of process by Article three of the Civil Practice Law and Rules or Article three of the Business Corporation Law; or by affixing such notice in a conspicuous place to the premises the occupancy of which caused such violation, provided that such notice may only be affixed where a reasonable attempt has been made to deliver such notice to a person in such premises upon whom service may be made as provided for by Article three of the Civil Practice Law and Rules or Article three of the Business Corporation Law. When a copy has been so affixed, a copy shall be mailed to the person at the address of such premises and if the person designated in the notice of violation is the owner or agent of the building with respect to which such violation was issued and the identity of and an address for such person is contained in any of the files specified in subdivisions (a), (b) and (c) below, a copy of the notice shall also be mailed:
+
+(a) to the person registered with the Department of Housing Preservation and Development as the owner or agent of the building, at the address filed with such Department in compliance with Article 2 of Subchapter 4 of Chapter 2 of Title 27 of the Administrative Code; or
+
+(b) to the person designated as owner or agent of the building or designated to receive real property tax or water bills for the building, at the address for such person contained in one of the files compiled by the Department of Finance for the purpose of the assessment or collection of real property taxes and water charges or in the file compiled by the Department of Finance from real property transfer forms filed with the City Register upon the sale or transfer of real property; or
+
+(c) to the person described as owner or agent of the building, at the address for such person contained in the files of the Department of Sanitation compiled and maintained for the purpose of the enforcement of the provisions of the Charter and Administrative Code over which the Environmental Control Board has jurisdiction.
+
+
+
+
+
+
+*§ 7-02 Proof of Service.* ::
+
+
+Proof of such service shall be filed with the Environmental Control Board within twenty days; service shall be completed within ten days after such filing.
+
+
+
+
+Chapter 8: Transport, Storage and Disposal of Asbestos Waste
+--------------------------------------------------
+
+
+
+*§ 8-01 Purpose and Intent.* ::
+
+
+These Rules and Regulations are intended to protect the lives and well-being of the inhabitants of this City against the grave and pervasive danger posed by inhalation of airborne asbestos. Medical studies have established that there is no known safe level of exposure to asbestos and that several life threatening diseases can result from such exposure. They include:
+
+(a) asbestosis, a noncancerous scarring of the lung tissues which can lead to cardiac failure and death;
+
+(b) lung cancer; and
+
+(c) mesothelioma, a rare cancer of the lining of the chest and abdomen. In construing and enforcing the provisions of these Rules and Regulations, it shall be no defense that a person charged with a duty herein who failed to fulfill that duty lacked any of the culpable mental states enumerated in the Penal Law, Section 15.05. The responsibilities herein created are ones of strict liability.
+
+
+
+
+
+
+*§ 8-02 Definitions.* ::
+
+
+Asbestos. "Asbestos" means any hydrated mineral silicate separable into commercially usable fibers, including but not limited to the asbestiform varieties of chrysotile, amosite, crocidolite, anthophyllite-asbestos, actinoliteasbestos and tramolite-asbestos, or any combination thereof.
+
+Cause or permit. "Cause or permit" means to contract, agree, authorize, allow or otherwise arrange, either directly or indirectly, with another person.
+
+Commissioner. "Commissioner" means the Commissioner of the New York City Department of Sanitation or his authorized delegate.
+
+Department. "Department" means the New York City Department of Sanitation.
+
+Disposal. "Disposal" means the dumping, depositing, spilling or placing of waste containing asbestos onto or into any land or water so that such waste containing asbestos may enter the environment or be emitted into the air or discharged into any waters including groundwaters. It includes the abandonment of waste containing asbestos at the site of generation or elsewhere.
+
+Friable. "Friable" means material which hand or other mechanical pressure can crumble, pulverize or reduce to powder when dry.
+
+Leak-tight container. "Leak-tight container" means any portable device in which waste containing asbestos is stored, transported, disposed of or otherwise handled which does not permit the escape of visible emissions of asbestos dust into the air. A leak-tight container must bear the following warning:
+
+CAUTION Contains Asbestos Avoid Opening or Breaking Container
+
+Breathing Asbestos is Hazardous to Your Health or another warning label authorized by federal law or regulation. A leak-tight container must be sufficiently durable in nature to withstand penetration of its contents by piercing, chemical disintegration, or otherwise, during its expected use, which may include storage, transport and disposal. For a plastic bag to be deemed a leak-tight container, the plastic must be six mil or thicker, and the bag must be sealed securely with tape or knotted tightly into itself.
+
+Person. "Person" means an individual, trust, estate, firm, joint stock company, corporation (including a government corporation), partnership, association, municipality, commission, political subdivision of a municipality, department or bureau of a municipal government, any intercounty body, or any other legal entity.
+
+Present for disposal. "Present for disposal" means to transport or cause to transport waste containing asbestos to a site for disposal.
+
+Present for storage at the site of generation. "Present for storage at the site of generation" means to complete production of waste containing asbestos. Production is deemed to be completed as to the waste containing asbestos produced, when sufficient waste containing asbestos to fill a single leak-tight container of the type being used at a particular site of generation has been produced, at the end of each work shift, or once each working day, whichever occurs soonest.
+
+Present for storage away from the site of generation. "Present for storage away from the site of generation" means to complete transport of waste containing asbestos from one holding place to another. It refers to the time of arrival at the latter holding place.
+
+Present for transport. "Present for transport" means to move waste containing asbestos away from the site of generation or other storage place out to a street or into a vehicle or a vehicular container and does not end until transport commences.
+
+Site of generation. "Site of generation" means the building, facility or premises at which waste containing asbestos was produced.
+
+Storage. "Storage" means the holding of waste containing asbestos for a temporary period at the site of generation or at another stationary place including a non-moving vehicle or vehicular container at the end of which the waste containing asbestos is moved elsewhere. It commences immediately after presentation for storage.
+
+Transport. "Transport" means the movement of waste containing asbestos by air, rail, ground or water.
+
+Visible emissions of asbestos dust into the air. "Visible emissions of asbestos dust into the air" mean any emissions containing particles of asbestos that are visually detectable without the aid of instruments. This does not include condensed uncombined water vapor.
+
+Waste. "Waste" means any material which has served its original intended use and is customarily discarded, is a manufacturing byproduct and is customarily discarded, or has actually been discarded.
+
+Waste containing asbestos and waste which contains asbestos. "Waste containing asbestos" and "waste which contains asbestos" means any waste which has been produced as a result of any industrial or commercial activity, as long as the material of which such waste is composed is not less than 1% friable asbestos by weight, such as, but not limited to, boilers, pipes, soundproofing, thermal insulation, fireproofing, floor, ceiling or roofing tiles, plaster, beams, girders, walls, ceilings, brake linings, and disposable clothing, equipment and supplies used during the process of removing asbestos.
+
+Wet down. "Wet down" means to saturate waste containing asbestos with water which has been treated, in accordance with the directions of the manufacturer, with a wetting agent.
+
+Wetting agent. "Wetting agent" means a surfactant which, when added to water, will enhance its qualities of penetration and adhesion. It should be 50% polyoxyethylene ester and 50% polyoxyethylene ether, or the equivalent and must not be a hazardous waste as defined in applicable federal and state regulations.
+
+
+
+
+
+
+*§ 8-03 Presenting for Storage.* ::
+
+
+No person shall present for storage waste containing asbestos or cause or permit any person to present for storage waste containing asbestos, except in accordance with the provisions of this section.
+
+(a) Any person presenting for storage waste containing asbestos or causing or permitting any person to present for storage waste containing asbestos at the site of generation shall at the time of such presentation:
+
+   (1) wet down such waste containing asbestos in a manner sufficient to prevent all visible emissions of asbestos dust into the air;
+
+   (2) seal or cause to seal while wet such waste containing asbestos in a leak-tight container;
+
+   (3) keep or cause to keep such waste containing asbestos separate from any other waste.
+
+(b) Any person presenting for storage waste containing asbestos or causing or permitting any person to present for storage waste containing asbestos away from the site of generation, shall at the time of such presentation:
+
+   (1) ensure or cause to ensure that such waste containing asbestos has been wet down in a manner sufficient to prevent all visible emissions of asbestos dust into the air and has been sealed while wet in a leak-tight container;
+
+   (2) examine or cause the examination of the leak-tight container holding such waste containing asbestos so as to ensure that there are no visible emissions of asbestos dust into the air or breaks in the container. The examination shall be conducted in a manner reasonably calculated to minimize disturbance of and damage to the leak-tight container. If such examination reveals visible emissions of asbestos dust into the air or breaks in the container, the person presenting for storage the waste containing asbestos or causing or permitting to present for storage the waste containing asbestos shall immediately wet down or cause to wet down the waste containing asbestos and shall immediately thereafter repackage or cause to repackage the waste containing asbestos and the defective container into a leak-tight container so as to prevent further emissions of asbestos dust into the air. Such wetting down and repackaging shall be conducted in a place and manner which minimize potential exposure of the public to asbestos;
+
+   (3) keep or cause to keep the waste containing asbestos separate from any other waste.
+
+
+
+
+
+
+*§ 8-04 Storage Procedures.* ::
+
+
+No person shall store waste containing asbestos or cause or permit any person to store waste containing asbestos except in accordance with the provisions of this section.
+
+(a) Any person storing waste containing asbestos or causing or permitting any person to store waste containing asbestos shall:
+
+   (1) ensure or cause to ensure that such waste containing asbestos has been wet down in a manner sufficient to prevent all visible emissions of asbestos dust into the air and has been sealed while wet in a leak-tight container;
+
+   (2) examine or cause the examination of the leak-tight container holding such waste containing asbestos not less than once in every 24 hour period (including non-work periods), so as to ensure that there are no visible emissions of asbestos dust into the air or breaks in the container. The examination shall be conducted in a manner reasonably calculated to minimize disturbance of and damage to the leak-tight container. If such examination reveals visible emissions of asbestos dust into the air or a break in the container, or if such emissions or breaks occur at any other time during storage, the person storing waste containing asbestos or causing or permitting such storage shall immediately wet down or cause to wet down the waste containing asbestos and shall immediately thereafter repackage or cause to repackage the defective container into a leak-tight container so as to prevent further emissions of asbestos dust into the air. Such wetting down and repackaging shall be conducted in a place and manner which minimize potential exposure of the public to asbestos;
+
+   (3) maintain or cause to maintain a supply of spare leak-tight containers adequate to repackage any which may break during storage at each storage location;
+
+   (4) maintain or cause to maintain at each storage location an adequate supply or access thereto of water treated with a wetting agent to wet down the waste containing asbestos in any leak-tight container which may break during storage;
+
+   (5) keep or cause to keep such waste containing asbestos separate from any other waste;
+
+   (6) where the leak-tight container used to store waste containing asbestos is breakable, such as a plastic bag, keep or cause to keep that container within an enclosed, locked area, so as to guard against random acts of entry.
+
+(b) No person shall store or cause or permit any person to store waste containing asbestos in a quantity greater than or equal to 50 cubic yards without authorization from the Department. At least two weeks prior to the commencement of such storage, the person planning such storage or planning to cause or permit such storage shall file or cause to file a written request for authorization of such storage with the Department using as a model the form obtainable from the Department at the address set forth thereon by certified or registered mail. If the Department does not respond within two weeks to the written request for authorization then such storage is deemed authorized. Authorization does not derogate from the duty to fully comply with the provisions of this Section. Authorization from the Department, when otherwise required in this Section, is needed as to each storage location.
+
+   (1) Any person storing or causing or permitting any person to store waste containing asbestos in a quantity greater than or equal to 50 cubic yards shall:
+
+      (i) keep or cause to keep at the storage site a record of each examination required by § 8-04(a)(2), made contemporaneously with each such examination and signed by the individual who performed each such examination;
+
+      (ii) make available or cause this record to be made available to the Commissioner at his request; and
+
+      (iii) maintain or cause to maintain this record for at least one year after the waste containing asbestos has been disposed.
+
+   (2) If the work giving rise to the storage of 50 cubic yards or more of waste containing asbestos is of a sudden and emergency nature which precludes making a written request for authorization at least two weeks prior to the commencement of such work because compliance with such requirement would threaten the public health and safety due to the delay it would engender, then the person storing or causing or permitting the storage of the waste containing asbestos produced as a result of such work shall file a written request for authorization of such storage as early as possible, using as a model the form obtainable from the Department, at the address set forth thereon, by certified or registered mail.
+
+   (3) If storage of 50 cubic yards or more of waste containing asbestos commenced before the effective date of these Rules and Regulations, then a written request for authorization shall be filed by the person storing or causing or permitting such storage, using as a model the form obtainable from the agency at the address set forth thereon by certified or registered mail no later than one month after the effective date of these Rules and Regulations.
+
+
+
+
+
+
+*§ 8-05 Presenting for Transport.* ::
+
+
+No person shall present for transport waste containing asbestos or cause or permit any person to present for transport waste containing asbestos except in accordance with the provisions of this section. Any person presenting for transport waste containing asbestos or causing or permitting any person to present for transport waste containing asbestos shall at the time of such presentation:
+
+(a) ensure or cause to ensure that such waste containing asbestos has been wet down in a manner sufficient to prevent all visible emissions of asbestos dust into the air and has been sealed while wet in a leak-tight container;
+
+(b) examine or cause the examination of the leak-tight container holding such waste containing asbestos so as to ensure that there are no visible emissions of asbestos dust into the air or breaks in the container. The examination shall be conducted in a manner reasonably calculated to minimize disturbance of and damage to the leak-tight container. If such examination reveals visible emissions of asbestos dust into the air or breaks in the container the person presenting for transport the waste containing asbestos or causing or permitting to present for transport the waste containing asbestos shall immediately wet down or cause to wet down the waste containing asbestos and shall immediately thereafter repackage or cause to repackage the waste containing asbestos and the defective container into a leak-tight container so as to prevent further emissions of asbestos dust into the air. Such wetting down and repackaging shall be conducted in a place and manner which minimize potential exposure of the public to asbestos;
+
+(c) keep or cause to keep the waste containing asbestos separate from any other waste; (d) ensure or cause to ensure that the person transporting the waste containing asbestos holds:
+
+   (1) a valid permit issued pursuant to Section 27-0305 of the Environmental Conservation Law of the State of New York, unless the transporter is exempted or excepted pursuant to Section 27-0305; and
+
+   (2) a valid permit or license issued pursuant to §§ 20-332 et seq. of the Administrative Code of the City of New York.
+
+
+
+
+
+
+*§ 8-06 Transport Procedures.* ::
+
+
+No person shall transport waste containing asbestos or cause or permit any person to transport waste containing asbestos except in accordance with the provisions of this section. Any person transporting or causing or permitting transport of waste containing asbestos shall:
+
+(a) ensure or cause to ensure that such waste containing asbestos has been wet down in a manner sufficient to prevent all visible emissions of asbestos dust into the air and has been sealed while wet in a leak-tight container;
+
+(b) examine or cause the examination of the leak-tight container holding such waste containing asbestos not less than once in every 24 hour period (including non-work periods), so as to ensure that there are no visible emissions of asbestos dust into the air or breaks in the container. The examination shall be conducted in a manner reasonably calculated to minimize disturbance of and damage to the leak-tight container. If such examination reveals visible emissions of asbestos dust into the air or breaks in the container, or if such emissions or breaks occur at any other time during transport, the person transporting waste containing asbestos or causing or permitting the transport of waste containing asbestos shall immediately wet down or cause to wet down the waste containing asbestos and shall immediately thereafter repackage or cause to repackage the waste containing asbestos and the defective container into a leak-tight container so as to prevent further emissions of asbestos dust into the air. Such wetting down and repackaging shall be conducted in a place and manner which minimize potential exposure of the public to asbestos;
+
+(c) carry or cause to carry a supply of spare leak-tight containers adequate to repackage any which may break during transport on each vehicle used to transport waste containing asbestos;
+
+(d) carry or cause to carry an adequate supply of water treated with a wetting agent to wet down the waste containing asbestos in any leak-tight container which may break during transport on each vehicle used to transport waste containing asbestos;
+
+(e) keep or cause to keep such waste containing asbestos separate from any other waste;
+
+(f) tightly enclose or cause to tightly enclose that portion of the vehicle holding the waste containing asbestos so as to protect it from inclement weather;
+
+(g) hold a valid permit issued pursuant to Section 27-0305 of the Environmental Conservation Law of the State of New York, unless he is exempted or excepted pursuant to Section 27-0305;
+
+(h) hold a valid permit issued pursuant to §§ 20-332 et seq. of the Administrative Code of the City of New York.
+
+
+
+
+
+
+*§ 8-07 Presenting for Disposal.* ::
+
+
+No person shall present for disposal waste containing asbestos or cause or permit any person to present for disposal waste containing asbestos except in accordance with the provisions of this section. Any person presenting for disposal or causing or permitting any person to present for disposal waste containing asbestos shall:
+
+(a) do so only at a site approved by the Commissioner for this purpose;
+
+(b) comply with or cause the compliance with all requirements of applicable Department operations orders issued pursuant to § 16-131 of the Administrative Code of the City of New York;
+
+(c) ensure or cause to ensure that such waste containing asbestos has been wet down sufficiently to prevent all visible emissions of asbestos dust into the air and has been sealed while wet in a leak-tight container;
+
+(d) examine or cause the examination of the leak-tight container holding such waste containing asbestos so as to ensure that there are no visible emissions of asbestos dust into the air or breaks in the container. The examination shall be conducted in a manner reasonably calculated to minimize disturbance of and damage to the leak-tight container. If such examination reveals visible emissions of asbestos dust into the air or breaks in the container the person presenting for disposal the waste containing asbestos or causing or permitting to present for disposal the waste containing asbestos shall immediately wet down or cause to wet down the waste containing asbestos and shall immediately thereafter repackage or cause to repackage the waste containing asbestos and the defective container into a leak-tight container so as to prevent further emissions of asbestos dust into the air. Such wetting down and repackaging shall be conducted in a place and manner which minimize potential exposure of the public to asbestos and which are acceptable to the Commissioner;
+
+(e) keep or cause to keep the waste containing asbestos separate from any other waste.
+
+
+
+
+
+
+*§ 8-08 Asbestos Abandonment Prohibited.* ::
+
+
+No person shall abandon waste containing asbestos or cause or permit any person to abandon waste containing asbestos under any circumstances whatsoever.
+
+
+
+
+
+
+*§ 8-09 Applicability of Other Laws and Inconsistency with Them.* ::
+
+
+These Rules and Regulations do not derogate from any other duties or responsibilities existing under Federal, State or City laws. To the extent they are inconsistent, Federal and State laws shall be controlling.
+
+
+
+
+
+
+*§ 8-10 Severability.* ::
+
+
+If any portion of these Rules and Regulations are lawfully determined to be invalid, such determination shall not affect the validity of the remaining portions.
 
 
 
@@ -3932,237 +4163,6 @@ The Departments of Sanitation, Housing Preservation and Development and Health f
 
 
 This order may be amended or repealed only upon joint order of the Department of Health, the Department of Housing Preservation and Development and the Department of Sanitation pursuant to § 1043 of the New York City Charter. § 51-66 effective August 29, 1973.
-
-
-
-
-Chapter 8: Transport, Storage and Disposal of Asbestos Waste
---------------------------------------------------
-
-
-
-*§ 8-01 Purpose and Intent.* ::
-
-
-These Rules and Regulations are intended to protect the lives and well-being of the inhabitants of this City against the grave and pervasive danger posed by inhalation of airborne asbestos. Medical studies have established that there is no known safe level of exposure to asbestos and that several life threatening diseases can result from such exposure. They include:
-
-(a) asbestosis, a noncancerous scarring of the lung tissues which can lead to cardiac failure and death;
-
-(b) lung cancer; and
-
-(c) mesothelioma, a rare cancer of the lining of the chest and abdomen. In construing and enforcing the provisions of these Rules and Regulations, it shall be no defense that a person charged with a duty herein who failed to fulfill that duty lacked any of the culpable mental states enumerated in the Penal Law, Section 15.05. The responsibilities herein created are ones of strict liability.
-
-
-
-
-
-
-*§ 8-02 Definitions.* ::
-
-
-Asbestos. "Asbestos" means any hydrated mineral silicate separable into commercially usable fibers, including but not limited to the asbestiform varieties of chrysotile, amosite, crocidolite, anthophyllite-asbestos, actinoliteasbestos and tramolite-asbestos, or any combination thereof.
-
-Cause or permit. "Cause or permit" means to contract, agree, authorize, allow or otherwise arrange, either directly or indirectly, with another person.
-
-Commissioner. "Commissioner" means the Commissioner of the New York City Department of Sanitation or his authorized delegate.
-
-Department. "Department" means the New York City Department of Sanitation.
-
-Disposal. "Disposal" means the dumping, depositing, spilling or placing of waste containing asbestos onto or into any land or water so that such waste containing asbestos may enter the environment or be emitted into the air or discharged into any waters including groundwaters. It includes the abandonment of waste containing asbestos at the site of generation or elsewhere.
-
-Friable. "Friable" means material which hand or other mechanical pressure can crumble, pulverize or reduce to powder when dry.
-
-Leak-tight container. "Leak-tight container" means any portable device in which waste containing asbestos is stored, transported, disposed of or otherwise handled which does not permit the escape of visible emissions of asbestos dust into the air. A leak-tight container must bear the following warning:
-
-CAUTION Contains Asbestos Avoid Opening or Breaking Container
-
-Breathing Asbestos is Hazardous to Your Health or another warning label authorized by federal law or regulation. A leak-tight container must be sufficiently durable in nature to withstand penetration of its contents by piercing, chemical disintegration, or otherwise, during its expected use, which may include storage, transport and disposal. For a plastic bag to be deemed a leak-tight container, the plastic must be six mil or thicker, and the bag must be sealed securely with tape or knotted tightly into itself.
-
-Person. "Person" means an individual, trust, estate, firm, joint stock company, corporation (including a government corporation), partnership, association, municipality, commission, political subdivision of a municipality, department or bureau of a municipal government, any intercounty body, or any other legal entity.
-
-Present for disposal. "Present for disposal" means to transport or cause to transport waste containing asbestos to a site for disposal.
-
-Present for storage at the site of generation. "Present for storage at the site of generation" means to complete production of waste containing asbestos. Production is deemed to be completed as to the waste containing asbestos produced, when sufficient waste containing asbestos to fill a single leak-tight container of the type being used at a particular site of generation has been produced, at the end of each work shift, or once each working day, whichever occurs soonest.
-
-Present for storage away from the site of generation. "Present for storage away from the site of generation" means to complete transport of waste containing asbestos from one holding place to another. It refers to the time of arrival at the latter holding place.
-
-Present for transport. "Present for transport" means to move waste containing asbestos away from the site of generation or other storage place out to a street or into a vehicle or a vehicular container and does not end until transport commences.
-
-Site of generation. "Site of generation" means the building, facility or premises at which waste containing asbestos was produced.
-
-Storage. "Storage" means the holding of waste containing asbestos for a temporary period at the site of generation or at another stationary place including a non-moving vehicle or vehicular container at the end of which the waste containing asbestos is moved elsewhere. It commences immediately after presentation for storage.
-
-Transport. "Transport" means the movement of waste containing asbestos by air, rail, ground or water.
-
-Visible emissions of asbestos dust into the air. "Visible emissions of asbestos dust into the air" mean any emissions containing particles of asbestos that are visually detectable without the aid of instruments. This does not include condensed uncombined water vapor.
-
-Waste. "Waste" means any material which has served its original intended use and is customarily discarded, is a manufacturing byproduct and is customarily discarded, or has actually been discarded.
-
-Waste containing asbestos and waste which contains asbestos. "Waste containing asbestos" and "waste which contains asbestos" means any waste which has been produced as a result of any industrial or commercial activity, as long as the material of which such waste is composed is not less than 1% friable asbestos by weight, such as, but not limited to, boilers, pipes, soundproofing, thermal insulation, fireproofing, floor, ceiling or roofing tiles, plaster, beams, girders, walls, ceilings, brake linings, and disposable clothing, equipment and supplies used during the process of removing asbestos.
-
-Wet down. "Wet down" means to saturate waste containing asbestos with water which has been treated, in accordance with the directions of the manufacturer, with a wetting agent.
-
-Wetting agent. "Wetting agent" means a surfactant which, when added to water, will enhance its qualities of penetration and adhesion. It should be 50% polyoxyethylene ester and 50% polyoxyethylene ether, or the equivalent and must not be a hazardous waste as defined in applicable federal and state regulations.
-
-
-
-
-
-
-*§ 8-03 Presenting for Storage.* ::
-
-
-No person shall present for storage waste containing asbestos or cause or permit any person to present for storage waste containing asbestos, except in accordance with the provisions of this section.
-
-(a) Any person presenting for storage waste containing asbestos or causing or permitting any person to present for storage waste containing asbestos at the site of generation shall at the time of such presentation:
-
-   (1) wet down such waste containing asbestos in a manner sufficient to prevent all visible emissions of asbestos dust into the air;
-
-   (2) seal or cause to seal while wet such waste containing asbestos in a leak-tight container;
-
-   (3) keep or cause to keep such waste containing asbestos separate from any other waste.
-
-(b) Any person presenting for storage waste containing asbestos or causing or permitting any person to present for storage waste containing asbestos away from the site of generation, shall at the time of such presentation:
-
-   (1) ensure or cause to ensure that such waste containing asbestos has been wet down in a manner sufficient to prevent all visible emissions of asbestos dust into the air and has been sealed while wet in a leak-tight container;
-
-   (2) examine or cause the examination of the leak-tight container holding such waste containing asbestos so as to ensure that there are no visible emissions of asbestos dust into the air or breaks in the container. The examination shall be conducted in a manner reasonably calculated to minimize disturbance of and damage to the leak-tight container. If such examination reveals visible emissions of asbestos dust into the air or breaks in the container, the person presenting for storage the waste containing asbestos or causing or permitting to present for storage the waste containing asbestos shall immediately wet down or cause to wet down the waste containing asbestos and shall immediately thereafter repackage or cause to repackage the waste containing asbestos and the defective container into a leak-tight container so as to prevent further emissions of asbestos dust into the air. Such wetting down and repackaging shall be conducted in a place and manner which minimize potential exposure of the public to asbestos;
-
-   (3) keep or cause to keep the waste containing asbestos separate from any other waste.
-
-
-
-
-
-
-*§ 8-04 Storage Procedures.* ::
-
-
-No person shall store waste containing asbestos or cause or permit any person to store waste containing asbestos except in accordance with the provisions of this section.
-
-(a) Any person storing waste containing asbestos or causing or permitting any person to store waste containing asbestos shall:
-
-   (1) ensure or cause to ensure that such waste containing asbestos has been wet down in a manner sufficient to prevent all visible emissions of asbestos dust into the air and has been sealed while wet in a leak-tight container;
-
-   (2) examine or cause the examination of the leak-tight container holding such waste containing asbestos not less than once in every 24 hour period (including non-work periods), so as to ensure that there are no visible emissions of asbestos dust into the air or breaks in the container. The examination shall be conducted in a manner reasonably calculated to minimize disturbance of and damage to the leak-tight container. If such examination reveals visible emissions of asbestos dust into the air or a break in the container, or if such emissions or breaks occur at any other time during storage, the person storing waste containing asbestos or causing or permitting such storage shall immediately wet down or cause to wet down the waste containing asbestos and shall immediately thereafter repackage or cause to repackage the defective container into a leak-tight container so as to prevent further emissions of asbestos dust into the air. Such wetting down and repackaging shall be conducted in a place and manner which minimize potential exposure of the public to asbestos;
-
-   (3) maintain or cause to maintain a supply of spare leak-tight containers adequate to repackage any which may break during storage at each storage location;
-
-   (4) maintain or cause to maintain at each storage location an adequate supply or access thereto of water treated with a wetting agent to wet down the waste containing asbestos in any leak-tight container which may break during storage;
-
-   (5) keep or cause to keep such waste containing asbestos separate from any other waste;
-
-   (6) where the leak-tight container used to store waste containing asbestos is breakable, such as a plastic bag, keep or cause to keep that container within an enclosed, locked area, so as to guard against random acts of entry.
-
-(b) No person shall store or cause or permit any person to store waste containing asbestos in a quantity greater than or equal to 50 cubic yards without authorization from the Department. At least two weeks prior to the commencement of such storage, the person planning such storage or planning to cause or permit such storage shall file or cause to file a written request for authorization of such storage with the Department using as a model the form obtainable from the Department at the address set forth thereon by certified or registered mail. If the Department does not respond within two weeks to the written request for authorization then such storage is deemed authorized. Authorization does not derogate from the duty to fully comply with the provisions of this Section. Authorization from the Department, when otherwise required in this Section, is needed as to each storage location.
-
-   (1) Any person storing or causing or permitting any person to store waste containing asbestos in a quantity greater than or equal to 50 cubic yards shall:
-
-      (i) keep or cause to keep at the storage site a record of each examination required by § 8-04(a)(2), made contemporaneously with each such examination and signed by the individual who performed each such examination;
-
-      (ii) make available or cause this record to be made available to the Commissioner at his request; and
-
-      (iii) maintain or cause to maintain this record for at least one year after the waste containing asbestos has been disposed.
-
-   (2) If the work giving rise to the storage of 50 cubic yards or more of waste containing asbestos is of a sudden and emergency nature which precludes making a written request for authorization at least two weeks prior to the commencement of such work because compliance with such requirement would threaten the public health and safety due to the delay it would engender, then the person storing or causing or permitting the storage of the waste containing asbestos produced as a result of such work shall file a written request for authorization of such storage as early as possible, using as a model the form obtainable from the Department, at the address set forth thereon, by certified or registered mail.
-
-   (3) If storage of 50 cubic yards or more of waste containing asbestos commenced before the effective date of these Rules and Regulations, then a written request for authorization shall be filed by the person storing or causing or permitting such storage, using as a model the form obtainable from the agency at the address set forth thereon by certified or registered mail no later than one month after the effective date of these Rules and Regulations.
-
-
-
-
-
-
-*§ 8-05 Presenting for Transport.* ::
-
-
-No person shall present for transport waste containing asbestos or cause or permit any person to present for transport waste containing asbestos except in accordance with the provisions of this section. Any person presenting for transport waste containing asbestos or causing or permitting any person to present for transport waste containing asbestos shall at the time of such presentation:
-
-(a) ensure or cause to ensure that such waste containing asbestos has been wet down in a manner sufficient to prevent all visible emissions of asbestos dust into the air and has been sealed while wet in a leak-tight container;
-
-(b) examine or cause the examination of the leak-tight container holding such waste containing asbestos so as to ensure that there are no visible emissions of asbestos dust into the air or breaks in the container. The examination shall be conducted in a manner reasonably calculated to minimize disturbance of and damage to the leak-tight container. If such examination reveals visible emissions of asbestos dust into the air or breaks in the container the person presenting for transport the waste containing asbestos or causing or permitting to present for transport the waste containing asbestos shall immediately wet down or cause to wet down the waste containing asbestos and shall immediately thereafter repackage or cause to repackage the waste containing asbestos and the defective container into a leak-tight container so as to prevent further emissions of asbestos dust into the air. Such wetting down and repackaging shall be conducted in a place and manner which minimize potential exposure of the public to asbestos;
-
-(c) keep or cause to keep the waste containing asbestos separate from any other waste; (d) ensure or cause to ensure that the person transporting the waste containing asbestos holds:
-
-   (1) a valid permit issued pursuant to Section 27-0305 of the Environmental Conservation Law of the State of New York, unless the transporter is exempted or excepted pursuant to Section 27-0305; and
-
-   (2) a valid permit or license issued pursuant to §§ 20-332 et seq. of the Administrative Code of the City of New York.
-
-
-
-
-
-
-*§ 8-06 Transport Procedures.* ::
-
-
-No person shall transport waste containing asbestos or cause or permit any person to transport waste containing asbestos except in accordance with the provisions of this section. Any person transporting or causing or permitting transport of waste containing asbestos shall:
-
-(a) ensure or cause to ensure that such waste containing asbestos has been wet down in a manner sufficient to prevent all visible emissions of asbestos dust into the air and has been sealed while wet in a leak-tight container;
-
-(b) examine or cause the examination of the leak-tight container holding such waste containing asbestos not less than once in every 24 hour period (including non-work periods), so as to ensure that there are no visible emissions of asbestos dust into the air or breaks in the container. The examination shall be conducted in a manner reasonably calculated to minimize disturbance of and damage to the leak-tight container. If such examination reveals visible emissions of asbestos dust into the air or breaks in the container, or if such emissions or breaks occur at any other time during transport, the person transporting waste containing asbestos or causing or permitting the transport of waste containing asbestos shall immediately wet down or cause to wet down the waste containing asbestos and shall immediately thereafter repackage or cause to repackage the waste containing asbestos and the defective container into a leak-tight container so as to prevent further emissions of asbestos dust into the air. Such wetting down and repackaging shall be conducted in a place and manner which minimize potential exposure of the public to asbestos;
-
-(c) carry or cause to carry a supply of spare leak-tight containers adequate to repackage any which may break during transport on each vehicle used to transport waste containing asbestos;
-
-(d) carry or cause to carry an adequate supply of water treated with a wetting agent to wet down the waste containing asbestos in any leak-tight container which may break during transport on each vehicle used to transport waste containing asbestos;
-
-(e) keep or cause to keep such waste containing asbestos separate from any other waste;
-
-(f) tightly enclose or cause to tightly enclose that portion of the vehicle holding the waste containing asbestos so as to protect it from inclement weather;
-
-(g) hold a valid permit issued pursuant to Section 27-0305 of the Environmental Conservation Law of the State of New York, unless he is exempted or excepted pursuant to Section 27-0305;
-
-(h) hold a valid permit issued pursuant to §§ 20-332 et seq. of the Administrative Code of the City of New York.
-
-
-
-
-
-
-*§ 8-07 Presenting for Disposal.* ::
-
-
-No person shall present for disposal waste containing asbestos or cause or permit any person to present for disposal waste containing asbestos except in accordance with the provisions of this section. Any person presenting for disposal or causing or permitting any person to present for disposal waste containing asbestos shall:
-
-(a) do so only at a site approved by the Commissioner for this purpose;
-
-(b) comply with or cause the compliance with all requirements of applicable Department operations orders issued pursuant to § 16-131 of the Administrative Code of the City of New York;
-
-(c) ensure or cause to ensure that such waste containing asbestos has been wet down sufficiently to prevent all visible emissions of asbestos dust into the air and has been sealed while wet in a leak-tight container;
-
-(d) examine or cause the examination of the leak-tight container holding such waste containing asbestos so as to ensure that there are no visible emissions of asbestos dust into the air or breaks in the container. The examination shall be conducted in a manner reasonably calculated to minimize disturbance of and damage to the leak-tight container. If such examination reveals visible emissions of asbestos dust into the air or breaks in the container the person presenting for disposal the waste containing asbestos or causing or permitting to present for disposal the waste containing asbestos shall immediately wet down or cause to wet down the waste containing asbestos and shall immediately thereafter repackage or cause to repackage the waste containing asbestos and the defective container into a leak-tight container so as to prevent further emissions of asbestos dust into the air. Such wetting down and repackaging shall be conducted in a place and manner which minimize potential exposure of the public to asbestos and which are acceptable to the Commissioner;
-
-(e) keep or cause to keep the waste containing asbestos separate from any other waste.
-
-
-
-
-
-
-*§ 8-08 Asbestos Abandonment Prohibited.* ::
-
-
-No person shall abandon waste containing asbestos or cause or permit any person to abandon waste containing asbestos under any circumstances whatsoever.
-
-
-
-
-
-
-*§ 8-09 Applicability of Other Laws and Inconsistency with Them.* ::
-
-
-These Rules and Regulations do not derogate from any other duties or responsibilities existing under Federal, State or City laws. To the extent they are inconsistent, Federal and State laws shall be controlling.
-
-
-
-
-
-
-*§ 8-10 Severability.* ::
-
-
-If any portion of these Rules and Regulations are lawfully determined to be invalid, such determination shall not affect the validity of the remaining portions.
 
 
 
@@ -4573,33 +4573,6 @@ Chapter 13: Cessation of Operation and Removal and Sealing of Refuse Burning Equ
 
 
 
-Chapter 15: Residential Enforcement Routing
---------------------------------------------------
-
-
-
-*§ 15-01 Designation of Enforcement Routing Hours for Residential Buildings.* ::
-
-
-(a)  Purpose. The purpose of this chapter is to designate two (2) one-hour periods each day when the Department will conduct citywide enforcement routing for residential premises pursuant to § 16-118.1 of the Administrative Code of the City of New York.
-
-(b) Definition. For purposes of this chapter, "citywide enforcement routing for residential premises" means enforcement by authorized Department representatives of subdivision two of § 16-118 of the Administrative Code of the City of New York, as such subdivision relates to cleaning of sidewalks, flagging, curbstones and roadway areas by owners, lessees, tenants, occupants or persons in charge of residential premises.
-
-(c) Hours of Residential Enforcement Routing. The Department establishes the periods from 8:00 A.M. to 9:00 A.M. and from 6:00 P.M. to 7:00 P.M. as the two (2) one-hour periods during which time the Department will conduct citywide enforcement routing for residential premises.
-
-
-
-
-
-
-*§ 15-02 Applicability.* ::
-
-
-This chapter shall apply only to residential premises and shall not apply to commercial premises. The schedule for citywide enforcement routing for commercial premises in effect as of the effective date of this chapter shall continue in effect until such time as such schedule is changed by the Department in accordance with § 16-118.1 of the Administrative Code of the City of New York.
-
-
-
-
 Chapter 14: Street Events
 --------------------------------------------------
 
@@ -4743,6 +4716,33 @@ At least one week prior to the street event, the sponsor or his or her represent
 (a) In addition to or as an alternative to penalties prescribed in any other provisions of law or rule, any person who violates any of the provisions of subdivision c of Section 14-01 of this chapter shall be liable for a civil penalty of not less than fifty dollars nor more than one hundred dollars.
 
 (b) The civil penalties prescribed in paragraph one of this subdivision shall be recoverable in a civil action brought in the name of the Commissioner or in a proceeding returnable before the Environmental Control Board.
+
+
+
+
+Chapter 15: Residential Enforcement Routing
+--------------------------------------------------
+
+
+
+*§ 15-01 Designation of Enforcement Routing Hours for Residential Buildings.* ::
+
+
+(a)  Purpose. The purpose of this chapter is to designate two (2) one-hour periods each day when the Department will conduct citywide enforcement routing for residential premises pursuant to § 16-118.1 of the Administrative Code of the City of New York.
+
+(b) Definition. For purposes of this chapter, "citywide enforcement routing for residential premises" means enforcement by authorized Department representatives of subdivision two of § 16-118 of the Administrative Code of the City of New York, as such subdivision relates to cleaning of sidewalks, flagging, curbstones and roadway areas by owners, lessees, tenants, occupants or persons in charge of residential premises.
+
+(c) Hours of Residential Enforcement Routing. The Department establishes the periods from 8:00 A.M. to 9:00 A.M. and from 6:00 P.M. to 7:00 P.M. as the two (2) one-hour periods during which time the Department will conduct citywide enforcement routing for residential premises.
+
+
+
+
+
+
+*§ 15-02 Applicability.* ::
+
+
+This chapter shall apply only to residential premises and shall not apply to commercial premises. The schedule for citywide enforcement routing for commercial premises in effect as of the effective date of this chapter shall continue in effect until such time as such schedule is changed by the Department in accordance with § 16-118.1 of the Administrative Code of the City of New York.
 
 
 
