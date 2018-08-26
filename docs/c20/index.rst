@@ -2500,6 +2500,1442 @@ Chapter 55: For-Hire Drivers [Repealed]
 
 
 
+Chapter 57: Commuter Van Drivers
+--------------------------------------------------
+
+
+
+*§ 57-01 Scope of this Chapter.* ::
+
+
+(a) To establish procedures for the licensing and regulation of Commuter Van Drivers who operate for hire into, out of or within New York City.
+
+(b) To establish operating rules to protect the customers and the public.
+
+(c) To establish appropriate penalties for the violation of these rules.
+
+
+
+
+
+
+*§ 57-02 Penalties.* ::
+
+
+(a) Unlicensed Activity.
+
+   (1) Unlicensed Activity is the act of providing or advertising the provision of any Commission-regulated for hire transportation service by:
+
+      (i) Any Licensee whose License is suspended, revoked, expired and not yet renewed, or
+
+      (ii) Any person who does not hold a Valid License or Authorization from the Commission as a for hire driver, for the for hire vehicle, or for the for hire service, as applicable.
+
+   (2) Unlicensed Activity specifically includes the activities listed in § 19-506 and § 19-528 of the Administrative Code, and can subject the violator to the seizure and possible forfeiture of the vehicle involved.
+
+(b) Specific Penalties. If there are specific penalties for violating a Rule, they will be shown at the end of the Rule. The penalty section also states whether the violator must attend the Hearing.
+
+(c) Payment of Fines.
+
+   (1) Fines are due not later than 30 days after the Respondent is found guilty of or pleads guilty to the violation, unless:
+
+      (i) the Respondent files an appeal of the decision issued by the Taxi and Limousine Tribunal within the time required by 48 RCNY Chapter 5, in which case the payment of the fines will be deferred until 30 days after the date of the appeal decision.
+
+   (2) If the fine is not paid by the close of business on the date due, the Commission will notify the Respondent in writing that the Respondent's License will be suspended in 10 business days of the date of the notification until the fine is paid, unless the Respondent demonstrates to the Commission, in person or in writing, that the fine has been paid.
+
+(d) Mandatory Penalties.
+
+   (1) The following cumulative violations will result in mandatory revocation: 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - Section
+      - Topic
+      - Cumulative Violation Criteria
+      - Penalty, after opportunity for Hearing
+    * - 35 RCNY § 57-19(b)
+      - Pick Up and Discharging Passengers
+      - Failure to comply three or more times within six months
+      - Revocation of Drivers License
+    * - 35 RCNY § 57-12(c)
+      - Use or attempt to use physical force
+      - Failure to comply three or more times within six months
+      - Revocation of Drivers License
+    * - 35 RCNY § 57-11(c)
+      - Suspension of license under"Bus Driver"Driver Rules
+      - Driver's license is suspended under Article 19-A § 509-c(2)(d) twice within a three year period, for accumulating nine or more points within an 18-month period
+      - Revocation of Drivers License
+~
+
+
+
+ 
+
+   (2) A Driver who has had his or her License revoked under any of these mandatory penalties is not permitted to apply for a new License for a period of one year after the date of revocation
+
+
+
+
+
+
+*§ 57-03 Definitions Specific to this Chapter.* ::
+
+
+(a) Applicant in this Chapter means an Applicant for an original or renewal Commuter Van Driver's License.
+
+(b) Application in this chapter refers to an application for a Commuter Van Driver's License including all documentation and other information submitted as part of the application.
+
+(c) Authorized means that a Commuter Van Service has been given permission to operate by the Commission.
+
+(d) Commuter Van Driver's License means a License to drive a Commuter Van Vehicle.
+
+(e) Commuter Van Vehicle. A motor vehicle having a seating capacity of at least nine (9) but not more than twenty (20) passengers that has been licensed by the TLC to carry passengers for hire in an Authorized Commuter Van Service.
+
+(f) Commuter Van Service. A service that is Authorized by the Commission to use Commuter Vans to provide transportation into, out of, or within New York City:
+
+   (1) on a prearranged, regular daily basis,
+
+   (2) over non-specified or irregular routes, and
+
+   (3) between a zone in a residential neighborhood and a location which will be a work related central location, a mass transit or mass transportation facility, a shopping center, recreational facility or airport.
+
+(g) Driver in this Chapter refers to a Commuter Van Driver.
+
+(h) License in this Chapter means a Commuter Van Driver's License.
+
+(i) Person with a Disability is an individual with a physical or mental impairment or incapacity, including a person who uses a wheelchair, crutches, three-wheeled motorized scooter, other mobility aid, or a Service Animal, but who can transfer from such a mobility aid to a Taxicab, For-Hire Vehicle or Commuter Van with or without reasonable assistance.
+
+(j) Service Animal. A guide dog, signal dog or any other animal trained specifically to work or to perform tasks for a Person with a Disability, including, but not limited to, guiding individuals with visual impairments, alerting individuals with hearing impairments to intruders or sounds, providing minimal protection or rescue work, pulling a wheelchair or retrieving dropped items.
+
+
+
+
+
+
+
+
+*§ 57-04 Licensing – General Requirements.* ::
+
+
+(a) [Reserved.] Age.
+
+(b) [Reserved.] Identification.
+
+(c) Chauffeur's License. An Applicant must hold a Valid Chauffeur's License.
+
+(d) Qualified "Bus Driver" Under Article 19-A. An Applicant for a Commuter Van Driver's License must:
+
+   (1) Meet the qualifications of Article 19-A of the NYS Vehicle and Traffic Laws for the operation of a bus, as that article defines "bus," and
+
+   (2) Submit a copy of the affidavit filed with the NYS Department of Motor Vehicles certifying that the driver has done so.
+
+(e) Fitness for the Job. The Applicant must demonstrate to the satisfaction of the Commission that he or she is fit and able to drive the Commuter Van for which the License is sought.
+
+(f) Familiar with Geography. An Applicant must demonstrate to the satisfaction of the Commission that he or she is familiar with the geography and streets of the area in which he or she intends to operate a Commuter Van.
+
+(g) [Reserved.] Pass Drug Test.
+
+(h) Fingerprinting for Determining Good Moral Character.
+
+   (1) The Applicant must be fingerprinted so that the Commission can obtain criminal history records from the New York State Division of Criminal Justice Services.
+
+   (2) The Applicant must pay any processing fee required by the State.
+
+(i) [Reserved.] Agreement to Accept Service of Process.
+
+(j) Training.
+
+   (1) Defensive Driving Course.
+
+      (i) Applicants for a new Commuter Van Driver’s License must hold a current certificate of completion that was issued no more than three years prior to the application date for the required hours of instruction in a Defensive Driving Course.
+
+      (ii) Applicants for a renewal Commuter Van Driver’s License must hold a current certificate of completion that was issued no more than three years prior to the application date for the required hours of instruction in a Defensive Driving Course dated within three years prior to the date of the renewal application.
+
+(k) [Reserved.] Unique Requirements/Exceptions for NY Police Officers.
+
+(l) Payment of Fines and Fees.
+
+   (1) An Applicant, including an applicant for a renewal License, must pay, and provide proof of payment of, any outstanding fines or fees owed by the Applicant to
+
+      (i) the Commission,
+
+      (ii) NYC Department of Finance's Parking Violations Bureau,
+
+      (iii) NYC Department of Finance's Red Light Camera Unit,
+
+      (iv) NYS DMV's Traffic Violations Bureau and
+
+      (v) any of their successor agencies.
+
+   (2) This requirement includes payment of fines and fees owed as of the date of the application by
+
+      (i) any Business Entity Persons of the Applicant
+
+      (ii) any Business Entity of which the Applicant is a Business Entity Person, and
+
+      (iii) any Business Entity of which a Business Entity Person of Applicant is also a Business Entity Person.
+
+   (3) An Applicant, including an Applicant for a renewal License, must pay any fines related to their failure to surrender a previously revoked License (of any type), unless the Applicant can demonstrate in person or in writing that the License has been surrendered.
+
+(m) Address. An Applicant must give the Commission the Applicant's current Mailing Address and a current and valid E-mail Address.
+
+(n) Material Changes in the Application. The Applicant must inform the Chairperson of any material change in the information submitted as part of the Application while the Application is pending. Material changes include, but are not limited to:
+
+   (1) Changes in Applicant's Chauffeur's License status;
+
+   (2) Mailing address;
+
+   (3) Additional criminal convictions;
+
+   (4) Additional DMV convictions, including convictions for the offense of operating a motor vehicle while impaired by alcohol or drugs; or
+
+   (5) Any change to the information provided or submitted with the Application.
+
+(o) Summary of Driving Record. An Applicant whose driver’s license has been issued by a state other than New York or who has held a driver’s license issued by a state other than New York within the two years prior to the date of the Application, must provide the Commission with an abstract of his or her driving record from the state that issued the Applicant’s driver’s license, dated no more than 90 days prior to the date of the Application, covering at least the two years prior to the date of the Application.
+
+
+
+
+
+
+
+
+*§ 57-05 Licensing – Probationary Licenses. [Reserved]* ::
+
+
+(a) Original (new) License Term. An original Commuter Van Driver's License will be Valid for three years from the date it is issued.
+
+(b) Renewal License Term. A License issued to a renewing Applicant will be Valid for three years from the date that the previous License expired.
+
+(c) When to File for Renewal.
+
+   (1) A renewing Applicant must file a completed application at least 30 days before the expiration date of the License. The review of applications submitted fewer than 30 days before the expiration date may not be completed until after the expiration date of the License. Licenses are not Valid and cannot be used to drive a Vehicle after the License expiration date until the application for renewal is approved by the Commission.
+
+   (2) A renewing Applicant can file a completed application up to 180 days after the expiration date as a “late application", if the Applicant pays a late fee of $25. When a late application is submitted, the License will remain expired and not Valid to drive a Vehicle until the application for renewal is approved by the Commission.
+
+   (3) Application Submission Date.
+
+      (i) Applications filed online: The date of submission is the date an application is filed online.
+
+      (ii) Applications filed in person: The date of submission is the date an application is filed in person.
+
+   (4) A License cannot be renewed more than 180 days after the expiration date.
+
+(d) Suspended Licenses.
+
+   (1) If a License is suspended, the Licensee must apply for renewal as required in subdivision (c) of this section to renew the License. Failure to complete the renewal requirements means that the License cannot be renewed.
+
+   (2) A License that is suspended is not Valid and cannot be used until the suspension ends. This is true even if the Applicant has filed an application for a renewal.
+
+
+
+
+
+
+
+
+*§ 57-07 Licensing – License and Administrative Fees.* ::
+
+
+(a) Fee for License. The fee for a Commuter Van Driver's License will be $84 annually.
+
+(b) When Fee is Paid. The fee for an original or renewal License must be paid when the Applicant files the application.
+
+(c) No Refund if Application Denied. The Commission will not refund fees if it denies or disapproves an application.
+
+(d) Late Filing Fee. The Commission will charge an additional fee of $25 for a late filing of a renewal application, if it allows the filing at all.
+
+(e) License Replacement Fee. The Commission will charge an additional fee of $25 for each License it issues to replace a lost or mutilated License.
+
+
+
+
+
+
+*§ 57-08 Licensing – Procedures and Causes for Denial.* ::
+
+
+(a) Fit to Hold a License – Applicant. The Chairperson will deny the original or renewal License of any Applicant who fails to demonstrate that they are Fit to Hold a License. The Chairperson will inform the Applicant, in writing, of the specific reason(s) for this denial. The decision to deny a license Application is in the discretion of the Chairperson.
+
+(b) Fit to Hold a License – Licensee. If at any time the Chairperson is notified that a Driver no longer meets the requirements for licensure, the Chairperson can deny Driver's renewal application or may seek to suspend or revoke his or her License.
+
+(c) Denial of an Application. The Chairperson can reject or deny a new Application for a License for the reasons specified in this section. If, at the time of submission of an Application by the Applicant, the Chairperson identifies that the Applicant meets the criteria in this section, the Chairperson will reject the Application and no Application fees will be accepted. If the Application is accepted by the Chairperson, no Application fees will be refunded.
+
+   (1) Three-Year Ban. The Chairperson can deny an Application if, during the previous three years, the Applicant has committed:
+
+      (i) Any act, as prohibited by these Rules, of driving a TLC licensed vehicle while impaired by intoxicating liquor (regardless of its alcoholic content), or Drugs.
+
+      (ii) Any act, as prohibited by these Rules, of bribery, fraud, material misrepresentation, theft, threat against a person, harassment, abuse, or use of physical force.
+
+      (iii) Any act, as prohibited by these Rules, involving the possession of a Weapon in a vehicle licensed under these Rules.
+
+      (iv) Any act, as prohibited by these Rules, resulting in the revocation of a prior License, unless the prior License was revoked pursuant to the mandatory penalties set forth in 35 RCNY § 80-02(e).
+
+         1. The three-year ban will apply if, while license revocation charges were pending, a prior License expired or was surrendered to the Chairperson.
+
+         2. Special Consideration for Critical Driver Program and Persistent Violator Program Revocations. After a minimum of one year from the date the Critical Driver or Persistent Violator summons is issued, an Applicant may request a waiver of the three-year ban from the Chairperson. This request can only be made if the Applicant's driving record reflects no more than three points for violations that occurred during the three year period preceding the date of the request for the waiver.
+
+   (2) One-Year Ban. The Chairperson can deny an Application if, during the previous one year, the Applicant has committed:
+
+      (i) More than three traffic Collisions within a single year. The one-year ban will be counted from the date of the last Collision.
+
+      (ii) Prior Application Denied. The Chairperson will deny an Application that is submitted within one year after the submission of a prior Application, if the previous Application was denied because the Applicant was found not Fit to Hold a License. The one-year ban will be counted from the date the prior application was submitted to the Commission.
+
+      (iii) Illegal use of Drugs, as determined by the Commission following a drug test required by the Commission. This includes where the drug test result was unchallenged or unsuccessfully challenged. The one-year ban will run from the date of the failed drug test.
+
+   (3) Other Reasons for Denial of an Application.
+
+      (i) Mistake or Omission in the Application. The Chairperson can deny an Application if the Application includes any material mistake or omission, or if the Applicant fails to inform the Chairperson of any material change in the Application.
+
+      (ii) Eligible for Critical Driver Penalty. The Chairperson can deny an Application if the Applicant would if licensed be subject to License suspension or revocation under the Critical Driver Program at the time the Application is submitted.
+
+         (1) For purposes of this subparagraph, TLC will consider DMV points accrued no earlier than 15 months prior to the date of the application in order to determine whether the new applicant meets the Critical Driver Program standard.
+
+      (iii) Pendency of Criminal Charges. The Chairperson will defer consideration of an Application if the Applicant has criminal charges pending. If the charges are not resolved within 90 days after the submission of the Application, the Application will be denied.
+
+   (4) Settlements. When settling charges which may result in the revocation of a License, the Chairperson and the Respondent in that proceeding may agree to a ban on applying for a new License different than that provided for in these rules, provided that the agreement is in writing.
+
+(d) Failure to Complete Application Requirements.
+
+   (1) The Chairperson will deny an Application for a new License if the Applicant has not completed all the requirements of an Application within 90 days of the date the application is filed.
+
+   (2) The Chairperson will deny an Application for a renewal License if the Applicant has not completed all the requirements of an Application within 180 days after the expiration date of the prior License.
+
+   (3) The Chairperson will not deny an Application under this Rule if completion is delayed because the Chairperson has not issued a final decision and the Applicant has complied with any requests made by the Chairperson.
+
+(e) Additional Consideration of an Application. If a review of the Application leads the Chairperson to believe that the Applicant may not be Fit to Hold a License, the Chairperson may seek additional information from the Applicant. This request for additional information may be an in-person interview, telephone call, letter, e-mail, or other method of communication. This additional consideration may result in the denial of the Application. Failure to provide any requested information within the time frame requested, or failure to appear at a scheduled interview will result in a denial of the application.
+
+
+
+
+
+
+
+
+*§ 57-09 Licensing – Transfer of License.* ::
+
+
+(a) A Commuter Van Driver's License is not assignable or transferable.
+
+
+
+
+
+
+*§ 57-10 Licensing – Care of Licenses.* ::
+
+
+(a) Loss or Theft of License. A Driver, within 72 hours (not counting holidays and weekends), must notify the Commission of the loss or theft of his Commuter Van Driver's License. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 57-10(a)
+      - Fine: $50
+      - Appearance NOT Required 
+~
+
+
+
+ 
+
+(b) Unreadable License. A Driver must immediately surrender any unreadable or unrecognizable Commuter Van Driver's License to the Commission. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 57-10(b)
+      - Fine: $50
+      - Appearance NOT Required 
+~
+
+
+
+ 
+
+(c) No Alteration. A Driver must not alter in any way any portion of his Commuter Van Driver's License or the attached photograph. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 57-10(c)
+      - Fine: $50
+      - Appearance NOT Required 
+~
+
+
+
+ 
+
+(d) Keep Likeness Updated. Whenever a Driver's physical appearance has changed to any significant extent, the Driver must contact the Commission and arrange to have a new photograph of him- or herself taken at the Commission offices. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 57-10(d)
+      - Fine: $50
+      - Appearance NOT Required
+~
+
+
+
+ 
+
+(e) Surrender of License. A Driver must surrender his or her License to the Commission immediately upon revocation of the License. The License must be surrendered within thirty days of the date of revocation. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 57-10 (e)
+      - Fine: $1,000 to be paid if Driver applies for a new License of any type.
+      - Appearance N/A
+~
+
+
+
+ 
+
+
+
+
+
+
+*§ 57-11 Comply with Laws – Unlicensed Activity Prohibited.* ::
+
+
+(a) Driver Must Be Licensed. A person must not operate a for-hire Commuter Van without having a Valid Commuter Van Driver's License. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 57-11(a)
+      - Fine: $400.
+      - Appearance NOT Required
+~
+
+
+
+ 
+
+(b) Driver Must Have a Valid Chauffeur's License. A driver must not operate a Commuter Van unless he or she possesses a Valid Chauffeur's License. The License of a Driver who operates a Commuter Van without a valid Chauffer's License will be summarily suspended. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 57-11(b)
+      - Fine: $400 and Suspension until compliance.
+      - Appearance NOT Required
+~
+
+
+
+ 
+
+(c) Driver Must Be in Compliance with Article 19-A. A Commuter Van Driver must be in compliance with Article 19-A of the New York State Vehicle and Traffic Law. Driving a Commuter Van in noncompliance with Article 19-A is considered to be the same as if the individual were driving a Commuter Van without a Valid Commuter Van License. The License of a Driver who operates a Commuter Van in noncompliance with Article 19-A will be summarily suspended. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 57-11(c)
+      - Fine: $400 and Suspension until compliance.
+      - Appearance NOT Required
+~
+
+
+
+ 
+
+(d) Commuter Van Must Be Licensed and Authorized. A Commuter Van Driver must not operate a Commuter Van unless it is:
+
+   (1) Licensed by the Commission
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 57-11(d)(1)
+      - Fine: $300
+      - Appearance NOT Required
+~
+
+
+
+ 
+
+   (2) Operating under an Authorized and Valid Commuter Van Service. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 57-11(d)(2)
+      - Fine: $1,000 first violation; $2,000 subsequent violations within 24 months
+      - Appearance NOT Required
+~
+
+
+
+ 
+
+(e) Shall Not Advertise Vehicle as Commuter Van Service. No person will operate any vehicle bearing the words "Commuter Van Service," "van service," "Commuter Van," "van" or other similar designation unless all of the following are true:
+
+   (1) The person has:
+
+      A. A Commuter Van Drivers License
+
+      B. A Valid state driver's license;
+
+   (2) The vehicle is:
+
+      A. Licensed as a Commuter Van
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 57-11(e)(1)&amp;(2)(A)
+      - Fine: $500 first violation; $1,000 subsequent violations within 24 months
+      - Appearance NOT Required
+~
+
+
+
+ 
+
+      B. Operating under an Authorized and Valid Commuter Van Service. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 57-11(e)(2)(B)
+      - Fine: $1,000 first violation; $2,000 subsequent violations within 24 months
+      - Appearance NOT Required
+~
+
+
+
+ 
+
+(f) Driving with an Expired License. A person who drives an authorized, Licensed Commuter Van after his or her Commuter Van Driver's License expires, or before the Commission issues a renewal License is guilty of driving without a License, and will be subject to the penalties for violation of 35 RCNY § 57-11(a).
+
+
+
+
+
+
+
+
+*§ 57-12 Comply with Laws – Proper Conduct.* ::
+
+
+(a) No Bribery.
+
+   (1) Must Not Offer Bribe. A Driver or any person acting as his representative must not offer or give any gift, gratuity or thing of value to any member, employee, or representative of the Commission or any public servant who is charged with the administration or enforcement of this chapter or any traffic rule or law.
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 57-12(a)(1)
+      - Fine: $10,000 and revocation.
+      - Appearance Required
+~
+
+
+
+ 
+
+   (2) Report Request for Bribe. A Commuter Van Driver must immediately report to the Commission and to the New York City Department of Investigation any request or demand for a gift, gratuity or thing of value by any employee, representative or member of the Commission or any public servant who is charged with the administration or enforcement of this chapter or any traffic rule or law.
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 57-12(a)(2)
+      - Fine: $1,000 and/or suspension up to 30 days or revocation
+      - Appearance Required
+~
+
+
+
+ 
+
+(b) No Fraud, Misrepresentation. While performing the duties and responsibilities of a Driver, a Driver must not commit or attempt to commit, any act of fraud, misrepresentation or theft. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 57-12(b)
+      - Fine: $350-1,000 and/or suspension up to 60 days or revocation.
+      - Appearance Required
+~
+
+
+
+ 
+
+(c) Use or Threat of Physical Force. While performing the duties and responsibilities of a Driver or any act in connection with those duties, a Driver must not use or attempt to use any physical force against any person nor harm or distract any Service Animal. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 57-12(c)
+      - Fine: $500-$1,500 and or suspension up to 60 days or revocation.
+      - Appearance Required 
+~
+
+
+
+ 
+
+(d) Report Criminal Conviction. A Driver must notify the Commission within five calendar days after any criminal conviction of the Driver. The notice must be in writing and must be accompanied by a certified copy of the certificate of disposition issued by the clerk of the court explaining what happened as a result of the conviction. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 57-12(d)
+      - Fine: $100 if plead guilty before a hearing; $250 if found guilty following a hearing.
+      - Appearance NOT Required
+~
+
+
+
+ 
+
+(e) Cooperate with Law Enforcement and the Commission. Commuter Van Drivers must:
+
+   (1) Answer all questions truthfully and comply as directed with all communications, directives and summonses from the Commission or any other person or entity authorized to enforce the provisions of Chapter 5 of Title 19 of the Administrative Code relating to Commuter Vans; 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 57-12(e)(1)
+      - Fine: $300 and Suspension until compliance
+      - Appearance Required
+~
+
+
+
+ 
+
+   (2) Produce any documents required by this section to be kept in the Commuter Van upon the demand of any authorized person or entity; and 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 57-12(e)(2)
+      - Fine: $300 if plead guilty before a hearing; $400 if found guilty following a hearing.
+      - Appearance NOT Required
+~
+
+
+
+ 
+
+   (3) Produce any document required by this chapter to be kept by no later than 10 days following a request from the Commission. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 57-12(e)(3)
+      - Fine: $300 and Suspension until compliance
+      - Appearance Required
+~
+
+
+
+ 
+
+   (4) (i) A Driver must report any change of Mailing Address and E-mail Address to the Commission in person or by mail within ten days.
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 57-12(e)(4)(i)
+      - Fine: $100
+      - Appearance NOT Required
+~
+
+
+
+ 
+
+      (ii) Any communication from the Commission is sufficient if sent to the last Mailing Address provided by the Driver.
+
+(f) No Willful Acts of Omission. While performing the duties and responsibilities of a Licensee, a Licensee must not deliberately fail to perform, alone or with another, any act where this failure is against the best interests of the public, although not specifically mentioned in these rules. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 57-12(f)
+      - Fine: $150-$350 and/or suspension up to 30 days or revocation.
+      - Appearance Required
+~
+
+
+
+ 
+
+(g) No Willful Acts of Commission. While performing the duties and responsibilities of a Licensee, a Licensee must not deliberately perform or attempt to perform, alone or with another, any act that is against the best interests of the public, although not specifically mentioned in these rules. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 57-12(g)
+      - Fine: $150-$350 and/or suspension up to 30 days or revocation.
+      - Appearance Required
+~
+
+
+
+ 
+
+(h) Courtesy. A Licensee will be courteous to Passengers. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 57-12(h)
+      - Fine: $200 if plead guilty before a hearing; $300 if found guilty following a hearing.
+      - Appearance NOT Required
+~
+
+
+
+ 
+
+      (i) Threats, Harassment, Abuse. While performing the duties and responsibilities of a Licensee, a Licensee must not threaten, harass, or abuse any person, and must not distract or attempt to distract any Service Animal. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 57-12(i)
+      - Fine: $350-$1,000 and/or suspension up to 30 days or revocation.
+      - Appearance Required
+~
+
+
+
+ 
+
+(j) Facilitation of Sex Trafficking with a Vehicle. A Licensee must not Facilitate Sex Trafficking with a Vehicle. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 57-12(j)
+      - Fine: $10,000 and revocation.
+      - Appearance NOT Required
+~
+
+
+
+ 
+
+(k) Sexual Harassment. While performing the duties and responsibilities of a Licensee, a Licensee must not engage in the sexual harassment of any person.
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 57-12(k)
+      - Fine: $1,000 and mandatory suspension of 30 days and/or revocation.Points: 3
+      - Appearance Required
+~
+
+
+
+ 
+
+(l) Sexual Contact. While performing the duties and responsibilities of a Licensee, a Licensee must not engage in sexual contact with any person.
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 57-12(l)
+      - Fine: $2,000 and mandatory revocation.
+      - Appearance Required
+~
+
+
+
+ 
+
+
+
+
+
+
+
+
+*§ 57-13 Comply with Laws – Traffic Laws &amp; Miscellaneous.* ::
+
+
+(a) Critical Driver's Program ("Points" in this Section refers to points assessed by the Department of Motor Vehicles). In addition to any other action the Commission might take, the following penalties will be enforced as part of the Commission's Critical Driver's Program:
+
+   (1) License Suspension. If, within a 15-month period, a Driver accumulates six or more points but fewer than ten points on his or her driver's license (whether issued by New York or another state), the Commission will suspend the Driver's Commuter Van Driver's License for 30 days.
+
+   (2) License Revocation. If, within a 15-month period, a Driver accumulates 10 or more points on his or her driver's license (whether issued by New York or another state), the Commission will revoke the Driver's Commuter Van Driver's License.
+
+   (3) Review of Driver Fitness. The Commission can at any time review the fitness of a Driver to continue to be licensed following any moving violation, Collision, or other driving-related incident and can seek to impose other, additional, and/or more severe penalties or take any other action permitted under these Rules.
+
+   (4) 15-Month Period. When determining whether a suspension or revocation is required based on the accumulation of points in a 15-month period, the Commission will count backwards 15 months from the date of the most recent conviction for the violation carrying points that is cited in the summons issued under this section.
+
+   (5) Date of Point Accumulation. For the purpose of this rule, points assigned by the Department of Motor Vehicles for any violation will be counted as of the date of conviction.
+
+   (6) Multiple Points from a Single Incident. A Driver can be fined points against his or her license for multiple violations arising from a single incident. For the purpose of calculating points that might lead to a License suspension or revocation, the Commission will count the single violation with the highest point total, if a Driver has accumulated points for multiple violations arising from a single incident.
+
+   (7) Point Reduction for Voluntary Course Completion.
+
+      (i) Before suspending or revoking a Driver's License, the Commission will, for purposes of the Critical Driver's Program, deduct three points from the total points that appear on the Licensee's driving record maintained by the DMV, or equivalent licensing agency of the state which issued such license, of any Licensee who voluntarily attends and satisfactorily completes a Defensive Driving Course. Such point reduction will count only towards points accumulated by the Licensee as a result of the conviction for violations that occurred within 15 months prior to the date of the completion of the course, counting from the date of conviction. In order for the Defensive Driving Course to reduce the Licensee's Critical Driver Program points, the course must be satisfactorily completed prior to the adjudication of the Critical Driver summons. Completion of the Defensive Driving Course after the adjudication of a Critical Driver Program summons will reduce the Licensee's Critical Driver's Program points only after the Licensee completes his or her suspension. If the Licensee's driver's license was issued by a state other than New York, the Licensee must submit a recent driving abstract from the state of licensure.
+
+      (ii) The Driver must furnish the Commission with proof when the course was taken and that the course was satisfactorily completed before the Commission will reduce the Driver's point total.
+
+      (iii) If the Commission has already suspended or revoked the Driver's License, the point reduction will not change the Commission's decision.
+
+      (iv) The Commission will not reduce the total points of any Driver more than once in any 18-month period.
+
+(b) [Reserved.]
+
+(c) Compliance with Traffic Laws. A Commuter Van Driver must comply with all applicable traffic laws, rules and regulations. The Commission will impose fines and penalties in addition to any fines and penalties imposed by the underlying law as follows:
+
+   (1) Laws, rules or regulations governing stationary vehicles. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 57-13(c)(1)
+      - Fine: $100 if plead guilty before a hearing; $200 if found guilty following a hearing.
+      - Appearance NOT Required
+~
+
+
+
+ 
+
+   (2) Laws, rules or regulations governing moving vehicles, other than hazardous moving violations defined by paragraph (3) of this subdivision. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 57-13(c)(2)
+      - Fine: $200 if plead guilty before a hearing; $300 if found guilty following a hearing.
+      - Appearance NOT Required
+~
+
+
+
+ 
+
+   (3) Laws, rules or regulations governing moving vehicles that involve hazardous moving violations, defined as follows:
+
+      •     speeding;
+
+      •     failing to stop for school bus;
+
+      •     following too closely (tailgating);
+
+      •     inadequate brakes, either your own vehicle or your employer's vehicle;
+
+      •     failing to yield right of way; traffic signal violation; stop sign violation;
+
+      •     yield sign violation; railroad crossing violation; improper passing;
+
+      •     unsafe lane change; driving left of center; driving in wrong direction; and
+
+      •     leaving scene of a Collision involving property damage or injury to animal.
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 57-13(c)(3)
+      - Fine: $300 if plead guilty before a hearing; $400 if found guilty following a hearing, for each violation below.
+      - Appearance NOT Required
+~
+
+
+
+ 
+
+
+
+
+
+
+
+
+*§ 57-14 Operations – Passenger and Driver Safety.* ::
+
+
+(a) Reckless Driving Rule. A Driver must not operate a Commuter Van in a manner or at a speed that unreasonably endangers users of other vehicles, pedestrians, or the Passengers. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 57-14(a)
+      - Fine: $350-$1,000 and/or suspension up to 30 days, or revocation if Driver is found guilty of having violated this rule more than three times within an 18-month period
+      - Appearance Required
+~
+
+
+
+ 
+
+(b) Use of Electronic Communication Device.
+
+   (1) A Driver must not Use an Electronic Communication Device while operating a Vehicle. A Driver can Use an Electronic Communication Device only while the Vehicle is lawfully standing or parked.
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 57-14(b)(1)
+      - Fine: $250 if plead guilty before a hearing; $350 if found guilty following a hearing, and suspension.
+      - Appearance NOT Required
+~
+
+
+
+ 
+
+   (2) In addition to the penalties provided above for any violation of this Rule, a Driver convicted of a violation of this Rule must complete a Distracted Driving Course no later than 60 days after the date of conviction. The license of a Driver who does not complete the Distracted Driving Course within the 60 day period will be suspended until compliance. Penalty: Suspension until compliance if course not completed within 60 days of the date of conviction. The Driver must provide proof that the course was completed.
+
+   (3) Affirmative Defense. A Driver can offer an affirmative defense to a charge of Using an Electronic Communication Device under this Rule if all of the following are true:
+
+      (i) The communication was to an emergency response operator;
+
+      (ii) The communication reports an imminent threat to life or property;
+
+      (iii) The Driver could not safely stop the Vehicle to make the report; and
+
+      (iv) The Driver provides documentary proof of communication with an emergency response provider.
+
+(c) (1) Report Before Leaving Scene. A Driver who knows or should have known that a Collision involving the Driver's Commuter Van resulted in personal injury to another or damage to another's property, must stop before leaving the scene of the Collision, and if the other involved party is present, must:
+
+      (i) Show his or her Chauffeur's License, Commuter Van Driver's License, and Vehicle License to the party sustaining the damage.
+
+      (ii) Give the other involved party his or her name, Chauffeur's License number, the Vehicle owner's name, the affiliated Commuter Van Service name and telephone number, Commuter Van Driver's License number, and Vehicle License number, as well as the name of the Vehicle's insurance carrier and the insurance policy number. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 57-14(c)(1)
+      - Fine: $350 and/or suspension up to 30 days or revocation if Driver is found guilty of having violated this rule more than three times within a 12-month period.
+      - Appearance Required
+~
+
+
+
+ 
+
+   (2) Notify Commuter Vans Service of Collision. If the Driver is involved in a Collision, the Driver must immediately report the Collision to the owner of the Commuter Van Service.
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 57-14(c)(2)
+      - Fine: $100
+      - Appearance NOT Required
+~
+
+
+
+ 
+
+(d) Serious Crashes. A serious crash is one in which any person has suffered Critical Injury or death. "Critical Injury," for purposes of this section, means any injury determined to be critical by the emergency medical service personnel responding to such crash.
+
+   (i) If a Driver has been issued a summons for or charged with one or more traffic related violations or crimes in a serious crash, the Driver's License may be Summarily Suspended, upon a finding that the Driver's conduct was a substantial cause of the Serious Crash. Upon conviction of the Driver of one or more of the violations or crimes stated in the summons or charges and upon a determination that one or more of the violations or crimes for which conviction occurred was a cause of Critical Injury or death, the License will be revoked. A Summary Suspension pursuant to this section may be lifted pursuant to this Title or upon dismissal of all such charges or upon a finding of not guilty of all of the stated traffic related violations and crimes, except that the Chairperson may continue to suspend the license pursuant to an investigation into the Driver's fitness, and such license may be revoked if the Driver is found not Fit to Hold a License (see subdivision (ii)). This section does not limit in any way the Chairperson's authority to Summarily Suspend a Driver for other reasons.
+
+   (ii) After any Serious Crash of which the TLC is notified involving a Driver operating a Licensed Vehicle, the TLC will review whether the Driver is Fit to Hold a License under 35 RCNY § 57-08(b). The TLC can seek Suspension or Revocation of the Driver's License and can Summarily Suspend the Driver's License while any fitness review or enforcement action is pending, in accordance with 35 RCNY § 68-15 of this Title.
+
+
+
+
+
+
+
+
+*§ 57-15 Operations – General Rules.* ::
+
+
+(a) [Reserved.] No Weapons.
+
+(b) Driver Neat &amp; Clean. A Driver must be clean and neat in dress and person and present a professional appearance. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 57-15(b)
+      - Fine: $25
+      - Appearance NOT Required
+~
+
+
+
+ 
+
+(c) No smoking. A Driver must not smoke in a Commuter Van. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 57-15(c)
+      - Fine: $25
+      - Appearance NOT Required
+~
+
+
+
+ 
+
+(d) [Reserved.] No locking rear doors.
+
+(e) [Reserved.]
+
+(f) [Reserved.] Have E-ZPass.
+
+(g) No Overcharging Customers.
+
+   (1) A Commuter Van Driver will not charge or attempt to charge a customer more than the fare that was approved in advance by the dispatcher.
+
+   (2) A Commuter Van Driver will not charge or attempt to charge any additional fees for transporting a Person with a Disability, for a Service Animal accompanying a Person with a Disability, or for wheelchairs or other mobility aids. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 57-15(g)
+      - Fine: $100-$250 and order restitution for any overcharge passenger
+      - Appearance Required
+~
+
+
+
+ 
+
+   (3) No Driver is permitted to ask or require a Passenger to tip. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 57-15(g)(3)
+      - Fine: $50
+      - Appearance NOT Required
+~
+
+
+
+ 
+
+(h) [Reserved.] Non-paying Customers.
+
+(i) [Reserved.] No Overloading Vehicle.
+
+(j) [Reserved.] Use of Front Seat.
+
+(k) [Reserved.] Luggage.
+
+(l) [Reserved.] No Property.
+
+(m) [Reserved.] No `Marketing' to Passengers.
+
+(n) [Reserved.] Handling Passengers with Infectious Diseases.
+
+(o) A Commuter Van Driver must not engage in horn-honking that violates traffic rules and regulations. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 57-15(o)
+      - Fine: $50
+      - Appearance NOT Required
+~
+
+
+
+ 
+
+
+
+
+
+
+*§ 57-16 Operations – Comply with Reasonable Passenger Requests.* ::
+
+
+(a) [Reserved.]. Shortest Route Absent Reasonable Passenger Request.
+
+(b) [Reserved.] Request to Change Destination or Terminate.
+
+(c) [Reserved.] Request for Driver's Name, License Number.
+
+(d) [Reserved.] Request for Receipt.
+
+(e) Passenger Requests on Audio.
+
+   (1) All audio equipment controlled by the Driver must be turned on or off at the request of the Passengers.
+
+   (2) The Passengers have the right to select what is played on the audio equipment.
+
+   (3) The audio equipment must not be played if any Passenger objects.
+
+   (4) Whether or not the Vehicle is in use, an audio device must be played at normal volume only, and must comply with all noise laws and regulations. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 57-16(e)
+      - Fine: $25
+      - Appearance NOT Required
+~
+
+
+
+ 
+
+(f) Passenger Requests on Air Conditioning. A Driver must turn on or off heating or air-conditioning equipment at the request of the Passengers. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 57-16(f)
+      - Fine: $25
+      - Appearance NOT Required
+~
+
+
+
+ 
+
+
+
+
+
+
+*§ 57-17 Operations – Method of Payment. [Reserved]* ::
+
+
+(a) Solicitation of Passengers. A Commuter Van Driver must only transport passengers on a pre-arranged basis.
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 57-19(a)
+      - Fine: $50
+      - Appearance NOT Required
+~
+
+
+
+ 
+
+(b) Limitations on Passenger Pick-up. A Commuter Van Driver must not perform or allow the pick up or discharge passengers:
+
+   (1) Outside of the geographic area specified in the Commuter Van Service Authorization, or
+
+   (2) Along any route of a City of New York or private bus line. Exception: This restriction does not apply to the pick up or discharge of passengers along bus routes in the borough of Manhattan south of Chambers Street by drivers for commuter van services which on July 1, 1992 had authority from the New York State Department of Transportation to pick up or discharge passengers along bus routes in such area, provided that the scope of operations by such commuter van services along bus routes in such area shall not exceed the scope of such operations prior to July 1, 1992.
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 57-19(b)
+      - Fine: $75 first and second violation; Revocation for third violation within six months (see Mandatory Penalties, 35 RCNY § 57-02(d))
+      - Appearance NOT Required
+~
+
+
+
+
+
+
+
+
+
+
+*§ 57-20 Operations – Refusing Passengers.* ::
+
+
+(a) Must Not Refuse. Unless justified, a Driver who is dispatched must not refuse by words, gestures or any other means, to transport a person who has prearranged the trip and the destination is within Commuter Van Service's Authorized jurisdiction. This includes a passenger accompanied by a Service Animal. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 57-20(a)
+      - Fine: $200-$350 for first violation; $350-$500 for each subsequent violation within 36 months
+      - Appearance Required
+~
+
+
+
+ 
+
+(b) Justification for Refusal. Justifiable grounds for refusing to transport passengers include:
+
+   (1) The passenger has a weapon
+
+   (2) The passenger has a package or some article that the Driver reasonably believes could injure others or damage the Commuter Van Vehicle.
+
+   (3) The passenger is accompanied by an animal which is not properly or adequately secured in a kennel case or other suitable container. (This provision does not apply to Service Animals accompanying Persons with Disabilities.)
+
+   (4) The passenger is intoxicated or disorderly. (A Driver must not, however, refuse to provide service solely because a disability results in annoying, offensive or inconvenient behavior).
+
+   (5) The passenger has refused a request by the Commuter Van Driver to stop smoking.
+
+      (i) The Driver may discharge a passenger who refuses to stop smoking after the Driver made the request.
+
+      (ii) If a Driver discharges the passenger, it must be at a safe location.
+
+(c) Attendants for Disabled Passengers.
+
+   (1) A Commuter Van Driver must not require a Person with a Disability to be accompanied by an attendant.
+
+   (2) If a Person with a Disability is accompanied by an attendant, a Driver must not charge or attempt to charge an additional fare for transporting the attendant. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 57-20(c)
+      - Fine: $100-$250 and order restitution for any overcharge to the passenger
+      - Appearance Required 
+~
+
+
+
+ 
+
+(d) Luggage and Mobility Aids. A Commuter Van Driver must not refuse to transport a passenger's wheelchair, crutches or other mobility aid. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 57-20(d)
+      - Fine: $200-$350
+      - Appearance Required
+~
+
+
+
+ 
+
+
+
+
+
+
+*§ 57-21 Operations – Cooperation with Issuing Jurisdictions. [Reserved]* ::
+
+
+(a) [Reserved.] 3-Minute Idle.
+
+(b) [Reserved.] Inspect Condition.
+
+(c) [Reserved.] No On-street Maintenance Other than Emergency.
+
+(d) Clean Interior. A Driver during his or her work shift must keep the Vehicle's interior clean and scent free. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 57-22(d)
+      - Fine: $25
+      - Appearance NOT Required
+~
+
+
+
+ 
+
+(e) [Reserved.] Exterior Clean and Identification Visible.
+
+(f) [Reserved.] No Unauthorized Equipment.
+
+(g) [Reserved.] No Unauthorized Signing.
+
+
+
+
+
+
+*§ 57-23 Vehicles – Items Required to be in the Vehicle During Operation.* ::
+
+
+(a) Items in Vehicle. A Commuter Van Driver must not operate a Commuter Van unless the following are present in the vehicle:
+
+   (1) The Commuter Van License;
+
+   (2) The Driver's Commuter Van Driver's License (this must be mounted in a protective holder behind the Driver's seat);
+
+   (3) The Authorization to operate a Commuter Van Service, or a legible photocopy; and
+
+   (4) The vehicle registration and evidence of current liability insurance.
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 57-23(a)(1)-(4)
+      - Fine: $25 per missing item; maximum penalty $50
+      - Appearance NOT Required
+~
+
+
+
+
+
+
+
+
+
+
+*§ 57-24 Vehicles – Written Trip Records. [Reserved]* ::
+
+
+
+
+
+
+
 Chapter 56: Paratransit Drivers
 --------------------------------------------------
 
@@ -4492,1442 +5928,6 @@ Chapter 56: Paratransit Drivers
       (ii) 35 RCNY § 80-27(b) of these Rules if the points are Persistent Violator Program points assessed by the Commission upon a violation of the Commission's Rules,
 
 and the Driver may incur the penalties specified as a result. A Paratransit Driver's License can be suspended or revoked as provided in 35 RCNY § 80-27 as if it were a TLC Driver License.
-
-
-
-
-
-
-Chapter 57: Commuter Van Drivers
---------------------------------------------------
-
-
-
-*§ 57-01 Scope of this Chapter.* ::
-
-
-(a) To establish procedures for the licensing and regulation of Commuter Van Drivers who operate for hire into, out of or within New York City.
-
-(b) To establish operating rules to protect the customers and the public.
-
-(c) To establish appropriate penalties for the violation of these rules.
-
-
-
-
-
-
-*§ 57-02 Penalties.* ::
-
-
-(a) Unlicensed Activity.
-
-   (1) Unlicensed Activity is the act of providing or advertising the provision of any Commission-regulated for hire transportation service by:
-
-      (i) Any Licensee whose License is suspended, revoked, expired and not yet renewed, or
-
-      (ii) Any person who does not hold a Valid License or Authorization from the Commission as a for hire driver, for the for hire vehicle, or for the for hire service, as applicable.
-
-   (2) Unlicensed Activity specifically includes the activities listed in § 19-506 and § 19-528 of the Administrative Code, and can subject the violator to the seizure and possible forfeiture of the vehicle involved.
-
-(b) Specific Penalties. If there are specific penalties for violating a Rule, they will be shown at the end of the Rule. The penalty section also states whether the violator must attend the Hearing.
-
-(c) Payment of Fines.
-
-   (1) Fines are due not later than 30 days after the Respondent is found guilty of or pleads guilty to the violation, unless:
-
-      (i) the Respondent files an appeal of the decision issued by the Taxi and Limousine Tribunal within the time required by 48 RCNY Chapter 5, in which case the payment of the fines will be deferred until 30 days after the date of the appeal decision.
-
-   (2) If the fine is not paid by the close of business on the date due, the Commission will notify the Respondent in writing that the Respondent's License will be suspended in 10 business days of the date of the notification until the fine is paid, unless the Respondent demonstrates to the Commission, in person or in writing, that the fine has been paid.
-
-(d) Mandatory Penalties.
-
-   (1) The following cumulative violations will result in mandatory revocation: 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - Section
-      - Topic
-      - Cumulative Violation Criteria
-      - Penalty, after opportunity for Hearing
-    * - 35 RCNY § 57-19(b)
-      - Pick Up and Discharging Passengers
-      - Failure to comply three or more times within six months
-      - Revocation of Drivers License
-    * - 35 RCNY § 57-12(c)
-      - Use or attempt to use physical force
-      - Failure to comply three or more times within six months
-      - Revocation of Drivers License
-    * - 35 RCNY § 57-11(c)
-      - Suspension of license under"Bus Driver"Driver Rules
-      - Driver's license is suspended under Article 19-A § 509-c(2)(d) twice within a three year period, for accumulating nine or more points within an 18-month period
-      - Revocation of Drivers License
-~
-
-
-
- 
-
-   (2) A Driver who has had his or her License revoked under any of these mandatory penalties is not permitted to apply for a new License for a period of one year after the date of revocation
-
-
-
-
-
-
-*§ 57-03 Definitions Specific to this Chapter.* ::
-
-
-(a) Applicant in this Chapter means an Applicant for an original or renewal Commuter Van Driver's License.
-
-(b) Application in this chapter refers to an application for a Commuter Van Driver's License including all documentation and other information submitted as part of the application.
-
-(c) Authorized means that a Commuter Van Service has been given permission to operate by the Commission.
-
-(d) Commuter Van Driver's License means a License to drive a Commuter Van Vehicle.
-
-(e) Commuter Van Vehicle. A motor vehicle having a seating capacity of at least nine (9) but not more than twenty (20) passengers that has been licensed by the TLC to carry passengers for hire in an Authorized Commuter Van Service.
-
-(f) Commuter Van Service. A service that is Authorized by the Commission to use Commuter Vans to provide transportation into, out of, or within New York City:
-
-   (1) on a prearranged, regular daily basis,
-
-   (2) over non-specified or irregular routes, and
-
-   (3) between a zone in a residential neighborhood and a location which will be a work related central location, a mass transit or mass transportation facility, a shopping center, recreational facility or airport.
-
-(g) Driver in this Chapter refers to a Commuter Van Driver.
-
-(h) License in this Chapter means a Commuter Van Driver's License.
-
-(i) Person with a Disability is an individual with a physical or mental impairment or incapacity, including a person who uses a wheelchair, crutches, three-wheeled motorized scooter, other mobility aid, or a Service Animal, but who can transfer from such a mobility aid to a Taxicab, For-Hire Vehicle or Commuter Van with or without reasonable assistance.
-
-(j) Service Animal. A guide dog, signal dog or any other animal trained specifically to work or to perform tasks for a Person with a Disability, including, but not limited to, guiding individuals with visual impairments, alerting individuals with hearing impairments to intruders or sounds, providing minimal protection or rescue work, pulling a wheelchair or retrieving dropped items.
-
-
-
-
-
-
-
-
-*§ 57-04 Licensing – General Requirements.* ::
-
-
-(a) [Reserved.] Age.
-
-(b) [Reserved.] Identification.
-
-(c) Chauffeur's License. An Applicant must hold a Valid Chauffeur's License.
-
-(d) Qualified "Bus Driver" Under Article 19-A. An Applicant for a Commuter Van Driver's License must:
-
-   (1) Meet the qualifications of Article 19-A of the NYS Vehicle and Traffic Laws for the operation of a bus, as that article defines "bus," and
-
-   (2) Submit a copy of the affidavit filed with the NYS Department of Motor Vehicles certifying that the driver has done so.
-
-(e) Fitness for the Job. The Applicant must demonstrate to the satisfaction of the Commission that he or she is fit and able to drive the Commuter Van for which the License is sought.
-
-(f) Familiar with Geography. An Applicant must demonstrate to the satisfaction of the Commission that he or she is familiar with the geography and streets of the area in which he or she intends to operate a Commuter Van.
-
-(g) [Reserved.] Pass Drug Test.
-
-(h) Fingerprinting for Determining Good Moral Character.
-
-   (1) The Applicant must be fingerprinted so that the Commission can obtain criminal history records from the New York State Division of Criminal Justice Services.
-
-   (2) The Applicant must pay any processing fee required by the State.
-
-(i) [Reserved.] Agreement to Accept Service of Process.
-
-(j) Training.
-
-   (1) Defensive Driving Course.
-
-      (i) Applicants for a new Commuter Van Driver’s License must hold a current certificate of completion that was issued no more than three years prior to the application date for the required hours of instruction in a Defensive Driving Course.
-
-      (ii) Applicants for a renewal Commuter Van Driver’s License must hold a current certificate of completion that was issued no more than three years prior to the application date for the required hours of instruction in a Defensive Driving Course dated within three years prior to the date of the renewal application.
-
-(k) [Reserved.] Unique Requirements/Exceptions for NY Police Officers.
-
-(l) Payment of Fines and Fees.
-
-   (1) An Applicant, including an applicant for a renewal License, must pay, and provide proof of payment of, any outstanding fines or fees owed by the Applicant to
-
-      (i) the Commission,
-
-      (ii) NYC Department of Finance's Parking Violations Bureau,
-
-      (iii) NYC Department of Finance's Red Light Camera Unit,
-
-      (iv) NYS DMV's Traffic Violations Bureau and
-
-      (v) any of their successor agencies.
-
-   (2) This requirement includes payment of fines and fees owed as of the date of the application by
-
-      (i) any Business Entity Persons of the Applicant
-
-      (ii) any Business Entity of which the Applicant is a Business Entity Person, and
-
-      (iii) any Business Entity of which a Business Entity Person of Applicant is also a Business Entity Person.
-
-   (3) An Applicant, including an Applicant for a renewal License, must pay any fines related to their failure to surrender a previously revoked License (of any type), unless the Applicant can demonstrate in person or in writing that the License has been surrendered.
-
-(m) Address. An Applicant must give the Commission the Applicant's current Mailing Address and a current and valid E-mail Address.
-
-(n) Material Changes in the Application. The Applicant must inform the Chairperson of any material change in the information submitted as part of the Application while the Application is pending. Material changes include, but are not limited to:
-
-   (1) Changes in Applicant's Chauffeur's License status;
-
-   (2) Mailing address;
-
-   (3) Additional criminal convictions;
-
-   (4) Additional DMV convictions, including convictions for the offense of operating a motor vehicle while impaired by alcohol or drugs; or
-
-   (5) Any change to the information provided or submitted with the Application.
-
-(o) Summary of Driving Record. An Applicant whose driver’s license has been issued by a state other than New York or who has held a driver’s license issued by a state other than New York within the two years prior to the date of the Application, must provide the Commission with an abstract of his or her driving record from the state that issued the Applicant’s driver’s license, dated no more than 90 days prior to the date of the Application, covering at least the two years prior to the date of the Application.
-
-
-
-
-
-
-
-
-*§ 57-05 Licensing – Probationary Licenses. [Reserved]* ::
-
-
-(a) Original (new) License Term. An original Commuter Van Driver's License will be Valid for three years from the date it is issued.
-
-(b) Renewal License Term. A License issued to a renewing Applicant will be Valid for three years from the date that the previous License expired.
-
-(c) When to File for Renewal.
-
-   (1) A renewing Applicant must file a completed application at least 30 days before the expiration date of the License. The review of applications submitted fewer than 30 days before the expiration date may not be completed until after the expiration date of the License. Licenses are not Valid and cannot be used to drive a Vehicle after the License expiration date until the application for renewal is approved by the Commission.
-
-   (2) A renewing Applicant can file a completed application up to 180 days after the expiration date as a “late application", if the Applicant pays a late fee of $25. When a late application is submitted, the License will remain expired and not Valid to drive a Vehicle until the application for renewal is approved by the Commission.
-
-   (3) Application Submission Date.
-
-      (i) Applications filed online: The date of submission is the date an application is filed online.
-
-      (ii) Applications filed in person: The date of submission is the date an application is filed in person.
-
-   (4) A License cannot be renewed more than 180 days after the expiration date.
-
-(d) Suspended Licenses.
-
-   (1) If a License is suspended, the Licensee must apply for renewal as required in subdivision (c) of this section to renew the License. Failure to complete the renewal requirements means that the License cannot be renewed.
-
-   (2) A License that is suspended is not Valid and cannot be used until the suspension ends. This is true even if the Applicant has filed an application for a renewal.
-
-
-
-
-
-
-
-
-*§ 57-07 Licensing – License and Administrative Fees.* ::
-
-
-(a) Fee for License. The fee for a Commuter Van Driver's License will be $84 annually.
-
-(b) When Fee is Paid. The fee for an original or renewal License must be paid when the Applicant files the application.
-
-(c) No Refund if Application Denied. The Commission will not refund fees if it denies or disapproves an application.
-
-(d) Late Filing Fee. The Commission will charge an additional fee of $25 for a late filing of a renewal application, if it allows the filing at all.
-
-(e) License Replacement Fee. The Commission will charge an additional fee of $25 for each License it issues to replace a lost or mutilated License.
-
-
-
-
-
-
-*§ 57-08 Licensing – Procedures and Causes for Denial.* ::
-
-
-(a) Fit to Hold a License – Applicant. The Chairperson will deny the original or renewal License of any Applicant who fails to demonstrate that they are Fit to Hold a License. The Chairperson will inform the Applicant, in writing, of the specific reason(s) for this denial. The decision to deny a license Application is in the discretion of the Chairperson.
-
-(b) Fit to Hold a License – Licensee. If at any time the Chairperson is notified that a Driver no longer meets the requirements for licensure, the Chairperson can deny Driver's renewal application or may seek to suspend or revoke his or her License.
-
-(c) Denial of an Application. The Chairperson can reject or deny a new Application for a License for the reasons specified in this section. If, at the time of submission of an Application by the Applicant, the Chairperson identifies that the Applicant meets the criteria in this section, the Chairperson will reject the Application and no Application fees will be accepted. If the Application is accepted by the Chairperson, no Application fees will be refunded.
-
-   (1) Three-Year Ban. The Chairperson can deny an Application if, during the previous three years, the Applicant has committed:
-
-      (i) Any act, as prohibited by these Rules, of driving a TLC licensed vehicle while impaired by intoxicating liquor (regardless of its alcoholic content), or Drugs.
-
-      (ii) Any act, as prohibited by these Rules, of bribery, fraud, material misrepresentation, theft, threat against a person, harassment, abuse, or use of physical force.
-
-      (iii) Any act, as prohibited by these Rules, involving the possession of a Weapon in a vehicle licensed under these Rules.
-
-      (iv) Any act, as prohibited by these Rules, resulting in the revocation of a prior License, unless the prior License was revoked pursuant to the mandatory penalties set forth in 35 RCNY § 80-02(e).
-
-         1. The three-year ban will apply if, while license revocation charges were pending, a prior License expired or was surrendered to the Chairperson.
-
-         2. Special Consideration for Critical Driver Program and Persistent Violator Program Revocations. After a minimum of one year from the date the Critical Driver or Persistent Violator summons is issued, an Applicant may request a waiver of the three-year ban from the Chairperson. This request can only be made if the Applicant's driving record reflects no more than three points for violations that occurred during the three year period preceding the date of the request for the waiver.
-
-   (2) One-Year Ban. The Chairperson can deny an Application if, during the previous one year, the Applicant has committed:
-
-      (i) More than three traffic Collisions within a single year. The one-year ban will be counted from the date of the last Collision.
-
-      (ii) Prior Application Denied. The Chairperson will deny an Application that is submitted within one year after the submission of a prior Application, if the previous Application was denied because the Applicant was found not Fit to Hold a License. The one-year ban will be counted from the date the prior application was submitted to the Commission.
-
-      (iii) Illegal use of Drugs, as determined by the Commission following a drug test required by the Commission. This includes where the drug test result was unchallenged or unsuccessfully challenged. The one-year ban will run from the date of the failed drug test.
-
-   (3) Other Reasons for Denial of an Application.
-
-      (i) Mistake or Omission in the Application. The Chairperson can deny an Application if the Application includes any material mistake or omission, or if the Applicant fails to inform the Chairperson of any material change in the Application.
-
-      (ii) Eligible for Critical Driver Penalty. The Chairperson can deny an Application if the Applicant would if licensed be subject to License suspension or revocation under the Critical Driver Program at the time the Application is submitted.
-
-         (1) For purposes of this subparagraph, TLC will consider DMV points accrued no earlier than 15 months prior to the date of the application in order to determine whether the new applicant meets the Critical Driver Program standard.
-
-      (iii) Pendency of Criminal Charges. The Chairperson will defer consideration of an Application if the Applicant has criminal charges pending. If the charges are not resolved within 90 days after the submission of the Application, the Application will be denied.
-
-   (4) Settlements. When settling charges which may result in the revocation of a License, the Chairperson and the Respondent in that proceeding may agree to a ban on applying for a new License different than that provided for in these rules, provided that the agreement is in writing.
-
-(d) Failure to Complete Application Requirements.
-
-   (1) The Chairperson will deny an Application for a new License if the Applicant has not completed all the requirements of an Application within 90 days of the date the application is filed.
-
-   (2) The Chairperson will deny an Application for a renewal License if the Applicant has not completed all the requirements of an Application within 180 days after the expiration date of the prior License.
-
-   (3) The Chairperson will not deny an Application under this Rule if completion is delayed because the Chairperson has not issued a final decision and the Applicant has complied with any requests made by the Chairperson.
-
-(e) Additional Consideration of an Application. If a review of the Application leads the Chairperson to believe that the Applicant may not be Fit to Hold a License, the Chairperson may seek additional information from the Applicant. This request for additional information may be an in-person interview, telephone call, letter, e-mail, or other method of communication. This additional consideration may result in the denial of the Application. Failure to provide any requested information within the time frame requested, or failure to appear at a scheduled interview will result in a denial of the application.
-
-
-
-
-
-
-
-
-*§ 57-09 Licensing – Transfer of License.* ::
-
-
-(a) A Commuter Van Driver's License is not assignable or transferable.
-
-
-
-
-
-
-*§ 57-10 Licensing – Care of Licenses.* ::
-
-
-(a) Loss or Theft of License. A Driver, within 72 hours (not counting holidays and weekends), must notify the Commission of the loss or theft of his Commuter Van Driver's License. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 57-10(a)
-      - Fine: $50
-      - Appearance NOT Required 
-~
-
-
-
- 
-
-(b) Unreadable License. A Driver must immediately surrender any unreadable or unrecognizable Commuter Van Driver's License to the Commission. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 57-10(b)
-      - Fine: $50
-      - Appearance NOT Required 
-~
-
-
-
- 
-
-(c) No Alteration. A Driver must not alter in any way any portion of his Commuter Van Driver's License or the attached photograph. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 57-10(c)
-      - Fine: $50
-      - Appearance NOT Required 
-~
-
-
-
- 
-
-(d) Keep Likeness Updated. Whenever a Driver's physical appearance has changed to any significant extent, the Driver must contact the Commission and arrange to have a new photograph of him- or herself taken at the Commission offices. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 57-10(d)
-      - Fine: $50
-      - Appearance NOT Required
-~
-
-
-
- 
-
-(e) Surrender of License. A Driver must surrender his or her License to the Commission immediately upon revocation of the License. The License must be surrendered within thirty days of the date of revocation. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 57-10 (e)
-      - Fine: $1,000 to be paid if Driver applies for a new License of any type.
-      - Appearance N/A
-~
-
-
-
- 
-
-
-
-
-
-
-*§ 57-11 Comply with Laws – Unlicensed Activity Prohibited.* ::
-
-
-(a) Driver Must Be Licensed. A person must not operate a for-hire Commuter Van without having a Valid Commuter Van Driver's License. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 57-11(a)
-      - Fine: $400.
-      - Appearance NOT Required
-~
-
-
-
- 
-
-(b) Driver Must Have a Valid Chauffeur's License. A driver must not operate a Commuter Van unless he or she possesses a Valid Chauffeur's License. The License of a Driver who operates a Commuter Van without a valid Chauffer's License will be summarily suspended. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 57-11(b)
-      - Fine: $400 and Suspension until compliance.
-      - Appearance NOT Required
-~
-
-
-
- 
-
-(c) Driver Must Be in Compliance with Article 19-A. A Commuter Van Driver must be in compliance with Article 19-A of the New York State Vehicle and Traffic Law. Driving a Commuter Van in noncompliance with Article 19-A is considered to be the same as if the individual were driving a Commuter Van without a Valid Commuter Van License. The License of a Driver who operates a Commuter Van in noncompliance with Article 19-A will be summarily suspended. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 57-11(c)
-      - Fine: $400 and Suspension until compliance.
-      - Appearance NOT Required
-~
-
-
-
- 
-
-(d) Commuter Van Must Be Licensed and Authorized. A Commuter Van Driver must not operate a Commuter Van unless it is:
-
-   (1) Licensed by the Commission
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 57-11(d)(1)
-      - Fine: $300
-      - Appearance NOT Required
-~
-
-
-
- 
-
-   (2) Operating under an Authorized and Valid Commuter Van Service. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 57-11(d)(2)
-      - Fine: $1,000 first violation; $2,000 subsequent violations within 24 months
-      - Appearance NOT Required
-~
-
-
-
- 
-
-(e) Shall Not Advertise Vehicle as Commuter Van Service. No person will operate any vehicle bearing the words "Commuter Van Service," "van service," "Commuter Van," "van" or other similar designation unless all of the following are true:
-
-   (1) The person has:
-
-      A. A Commuter Van Drivers License
-
-      B. A Valid state driver's license;
-
-   (2) The vehicle is:
-
-      A. Licensed as a Commuter Van
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 57-11(e)(1)&amp;(2)(A)
-      - Fine: $500 first violation; $1,000 subsequent violations within 24 months
-      - Appearance NOT Required
-~
-
-
-
- 
-
-      B. Operating under an Authorized and Valid Commuter Van Service. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 57-11(e)(2)(B)
-      - Fine: $1,000 first violation; $2,000 subsequent violations within 24 months
-      - Appearance NOT Required
-~
-
-
-
- 
-
-(f) Driving with an Expired License. A person who drives an authorized, Licensed Commuter Van after his or her Commuter Van Driver's License expires, or before the Commission issues a renewal License is guilty of driving without a License, and will be subject to the penalties for violation of 35 RCNY § 57-11(a).
-
-
-
-
-
-
-
-
-*§ 57-12 Comply with Laws – Proper Conduct.* ::
-
-
-(a) No Bribery.
-
-   (1) Must Not Offer Bribe. A Driver or any person acting as his representative must not offer or give any gift, gratuity or thing of value to any member, employee, or representative of the Commission or any public servant who is charged with the administration or enforcement of this chapter or any traffic rule or law.
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 57-12(a)(1)
-      - Fine: $10,000 and revocation.
-      - Appearance Required
-~
-
-
-
- 
-
-   (2) Report Request for Bribe. A Commuter Van Driver must immediately report to the Commission and to the New York City Department of Investigation any request or demand for a gift, gratuity or thing of value by any employee, representative or member of the Commission or any public servant who is charged with the administration or enforcement of this chapter or any traffic rule or law.
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 57-12(a)(2)
-      - Fine: $1,000 and/or suspension up to 30 days or revocation
-      - Appearance Required
-~
-
-
-
- 
-
-(b) No Fraud, Misrepresentation. While performing the duties and responsibilities of a Driver, a Driver must not commit or attempt to commit, any act of fraud, misrepresentation or theft. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 57-12(b)
-      - Fine: $350-1,000 and/or suspension up to 60 days or revocation.
-      - Appearance Required
-~
-
-
-
- 
-
-(c) Use or Threat of Physical Force. While performing the duties and responsibilities of a Driver or any act in connection with those duties, a Driver must not use or attempt to use any physical force against any person nor harm or distract any Service Animal. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 57-12(c)
-      - Fine: $500-$1,500 and or suspension up to 60 days or revocation.
-      - Appearance Required 
-~
-
-
-
- 
-
-(d) Report Criminal Conviction. A Driver must notify the Commission within five calendar days after any criminal conviction of the Driver. The notice must be in writing and must be accompanied by a certified copy of the certificate of disposition issued by the clerk of the court explaining what happened as a result of the conviction. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 57-12(d)
-      - Fine: $100 if plead guilty before a hearing; $250 if found guilty following a hearing.
-      - Appearance NOT Required
-~
-
-
-
- 
-
-(e) Cooperate with Law Enforcement and the Commission. Commuter Van Drivers must:
-
-   (1) Answer all questions truthfully and comply as directed with all communications, directives and summonses from the Commission or any other person or entity authorized to enforce the provisions of Chapter 5 of Title 19 of the Administrative Code relating to Commuter Vans; 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 57-12(e)(1)
-      - Fine: $300 and Suspension until compliance
-      - Appearance Required
-~
-
-
-
- 
-
-   (2) Produce any documents required by this section to be kept in the Commuter Van upon the demand of any authorized person or entity; and 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 57-12(e)(2)
-      - Fine: $300 if plead guilty before a hearing; $400 if found guilty following a hearing.
-      - Appearance NOT Required
-~
-
-
-
- 
-
-   (3) Produce any document required by this chapter to be kept by no later than 10 days following a request from the Commission. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 57-12(e)(3)
-      - Fine: $300 and Suspension until compliance
-      - Appearance Required
-~
-
-
-
- 
-
-   (4) (i) A Driver must report any change of Mailing Address and E-mail Address to the Commission in person or by mail within ten days.
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 57-12(e)(4)(i)
-      - Fine: $100
-      - Appearance NOT Required
-~
-
-
-
- 
-
-      (ii) Any communication from the Commission is sufficient if sent to the last Mailing Address provided by the Driver.
-
-(f) No Willful Acts of Omission. While performing the duties and responsibilities of a Licensee, a Licensee must not deliberately fail to perform, alone or with another, any act where this failure is against the best interests of the public, although not specifically mentioned in these rules. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 57-12(f)
-      - Fine: $150-$350 and/or suspension up to 30 days or revocation.
-      - Appearance Required
-~
-
-
-
- 
-
-(g) No Willful Acts of Commission. While performing the duties and responsibilities of a Licensee, a Licensee must not deliberately perform or attempt to perform, alone or with another, any act that is against the best interests of the public, although not specifically mentioned in these rules. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 57-12(g)
-      - Fine: $150-$350 and/or suspension up to 30 days or revocation.
-      - Appearance Required
-~
-
-
-
- 
-
-(h) Courtesy. A Licensee will be courteous to Passengers. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 57-12(h)
-      - Fine: $200 if plead guilty before a hearing; $300 if found guilty following a hearing.
-      - Appearance NOT Required
-~
-
-
-
- 
-
-      (i) Threats, Harassment, Abuse. While performing the duties and responsibilities of a Licensee, a Licensee must not threaten, harass, or abuse any person, and must not distract or attempt to distract any Service Animal. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 57-12(i)
-      - Fine: $350-$1,000 and/or suspension up to 30 days or revocation.
-      - Appearance Required
-~
-
-
-
- 
-
-(j) Facilitation of Sex Trafficking with a Vehicle. A Licensee must not Facilitate Sex Trafficking with a Vehicle. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 57-12(j)
-      - Fine: $10,000 and revocation.
-      - Appearance NOT Required
-~
-
-
-
- 
-
-(k) Sexual Harassment. While performing the duties and responsibilities of a Licensee, a Licensee must not engage in the sexual harassment of any person.
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 57-12(k)
-      - Fine: $1,000 and mandatory suspension of 30 days and/or revocation.Points: 3
-      - Appearance Required
-~
-
-
-
- 
-
-(l) Sexual Contact. While performing the duties and responsibilities of a Licensee, a Licensee must not engage in sexual contact with any person.
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 57-12(l)
-      - Fine: $2,000 and mandatory revocation.
-      - Appearance Required
-~
-
-
-
- 
-
-
-
-
-
-
-
-
-*§ 57-13 Comply with Laws – Traffic Laws &amp; Miscellaneous.* ::
-
-
-(a) Critical Driver's Program ("Points" in this Section refers to points assessed by the Department of Motor Vehicles). In addition to any other action the Commission might take, the following penalties will be enforced as part of the Commission's Critical Driver's Program:
-
-   (1) License Suspension. If, within a 15-month period, a Driver accumulates six or more points but fewer than ten points on his or her driver's license (whether issued by New York or another state), the Commission will suspend the Driver's Commuter Van Driver's License for 30 days.
-
-   (2) License Revocation. If, within a 15-month period, a Driver accumulates 10 or more points on his or her driver's license (whether issued by New York or another state), the Commission will revoke the Driver's Commuter Van Driver's License.
-
-   (3) Review of Driver Fitness. The Commission can at any time review the fitness of a Driver to continue to be licensed following any moving violation, Collision, or other driving-related incident and can seek to impose other, additional, and/or more severe penalties or take any other action permitted under these Rules.
-
-   (4) 15-Month Period. When determining whether a suspension or revocation is required based on the accumulation of points in a 15-month period, the Commission will count backwards 15 months from the date of the most recent conviction for the violation carrying points that is cited in the summons issued under this section.
-
-   (5) Date of Point Accumulation. For the purpose of this rule, points assigned by the Department of Motor Vehicles for any violation will be counted as of the date of conviction.
-
-   (6) Multiple Points from a Single Incident. A Driver can be fined points against his or her license for multiple violations arising from a single incident. For the purpose of calculating points that might lead to a License suspension or revocation, the Commission will count the single violation with the highest point total, if a Driver has accumulated points for multiple violations arising from a single incident.
-
-   (7) Point Reduction for Voluntary Course Completion.
-
-      (i) Before suspending or revoking a Driver's License, the Commission will, for purposes of the Critical Driver's Program, deduct three points from the total points that appear on the Licensee's driving record maintained by the DMV, or equivalent licensing agency of the state which issued such license, of any Licensee who voluntarily attends and satisfactorily completes a Defensive Driving Course. Such point reduction will count only towards points accumulated by the Licensee as a result of the conviction for violations that occurred within 15 months prior to the date of the completion of the course, counting from the date of conviction. In order for the Defensive Driving Course to reduce the Licensee's Critical Driver Program points, the course must be satisfactorily completed prior to the adjudication of the Critical Driver summons. Completion of the Defensive Driving Course after the adjudication of a Critical Driver Program summons will reduce the Licensee's Critical Driver's Program points only after the Licensee completes his or her suspension. If the Licensee's driver's license was issued by a state other than New York, the Licensee must submit a recent driving abstract from the state of licensure.
-
-      (ii) The Driver must furnish the Commission with proof when the course was taken and that the course was satisfactorily completed before the Commission will reduce the Driver's point total.
-
-      (iii) If the Commission has already suspended or revoked the Driver's License, the point reduction will not change the Commission's decision.
-
-      (iv) The Commission will not reduce the total points of any Driver more than once in any 18-month period.
-
-(b) [Reserved.]
-
-(c) Compliance with Traffic Laws. A Commuter Van Driver must comply with all applicable traffic laws, rules and regulations. The Commission will impose fines and penalties in addition to any fines and penalties imposed by the underlying law as follows:
-
-   (1) Laws, rules or regulations governing stationary vehicles. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 57-13(c)(1)
-      - Fine: $100 if plead guilty before a hearing; $200 if found guilty following a hearing.
-      - Appearance NOT Required
-~
-
-
-
- 
-
-   (2) Laws, rules or regulations governing moving vehicles, other than hazardous moving violations defined by paragraph (3) of this subdivision. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 57-13(c)(2)
-      - Fine: $200 if plead guilty before a hearing; $300 if found guilty following a hearing.
-      - Appearance NOT Required
-~
-
-
-
- 
-
-   (3) Laws, rules or regulations governing moving vehicles that involve hazardous moving violations, defined as follows:
-
-      •     speeding;
-
-      •     failing to stop for school bus;
-
-      •     following too closely (tailgating);
-
-      •     inadequate brakes, either your own vehicle or your employer's vehicle;
-
-      •     failing to yield right of way; traffic signal violation; stop sign violation;
-
-      •     yield sign violation; railroad crossing violation; improper passing;
-
-      •     unsafe lane change; driving left of center; driving in wrong direction; and
-
-      •     leaving scene of a Collision involving property damage or injury to animal.
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 57-13(c)(3)
-      - Fine: $300 if plead guilty before a hearing; $400 if found guilty following a hearing, for each violation below.
-      - Appearance NOT Required
-~
-
-
-
- 
-
-
-
-
-
-
-
-
-*§ 57-14 Operations – Passenger and Driver Safety.* ::
-
-
-(a) Reckless Driving Rule. A Driver must not operate a Commuter Van in a manner or at a speed that unreasonably endangers users of other vehicles, pedestrians, or the Passengers. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 57-14(a)
-      - Fine: $350-$1,000 and/or suspension up to 30 days, or revocation if Driver is found guilty of having violated this rule more than three times within an 18-month period
-      - Appearance Required
-~
-
-
-
- 
-
-(b) Use of Electronic Communication Device.
-
-   (1) A Driver must not Use an Electronic Communication Device while operating a Vehicle. A Driver can Use an Electronic Communication Device only while the Vehicle is lawfully standing or parked.
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 57-14(b)(1)
-      - Fine: $250 if plead guilty before a hearing; $350 if found guilty following a hearing, and suspension.
-      - Appearance NOT Required
-~
-
-
-
- 
-
-   (2) In addition to the penalties provided above for any violation of this Rule, a Driver convicted of a violation of this Rule must complete a Distracted Driving Course no later than 60 days after the date of conviction. The license of a Driver who does not complete the Distracted Driving Course within the 60 day period will be suspended until compliance. Penalty: Suspension until compliance if course not completed within 60 days of the date of conviction. The Driver must provide proof that the course was completed.
-
-   (3) Affirmative Defense. A Driver can offer an affirmative defense to a charge of Using an Electronic Communication Device under this Rule if all of the following are true:
-
-      (i) The communication was to an emergency response operator;
-
-      (ii) The communication reports an imminent threat to life or property;
-
-      (iii) The Driver could not safely stop the Vehicle to make the report; and
-
-      (iv) The Driver provides documentary proof of communication with an emergency response provider.
-
-(c) (1) Report Before Leaving Scene. A Driver who knows or should have known that a Collision involving the Driver's Commuter Van resulted in personal injury to another or damage to another's property, must stop before leaving the scene of the Collision, and if the other involved party is present, must:
-
-      (i) Show his or her Chauffeur's License, Commuter Van Driver's License, and Vehicle License to the party sustaining the damage.
-
-      (ii) Give the other involved party his or her name, Chauffeur's License number, the Vehicle owner's name, the affiliated Commuter Van Service name and telephone number, Commuter Van Driver's License number, and Vehicle License number, as well as the name of the Vehicle's insurance carrier and the insurance policy number. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 57-14(c)(1)
-      - Fine: $350 and/or suspension up to 30 days or revocation if Driver is found guilty of having violated this rule more than three times within a 12-month period.
-      - Appearance Required
-~
-
-
-
- 
-
-   (2) Notify Commuter Vans Service of Collision. If the Driver is involved in a Collision, the Driver must immediately report the Collision to the owner of the Commuter Van Service.
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 57-14(c)(2)
-      - Fine: $100
-      - Appearance NOT Required
-~
-
-
-
- 
-
-(d) Serious Crashes. A serious crash is one in which any person has suffered Critical Injury or death. "Critical Injury," for purposes of this section, means any injury determined to be critical by the emergency medical service personnel responding to such crash.
-
-   (i) If a Driver has been issued a summons for or charged with one or more traffic related violations or crimes in a serious crash, the Driver's License may be Summarily Suspended, upon a finding that the Driver's conduct was a substantial cause of the Serious Crash. Upon conviction of the Driver of one or more of the violations or crimes stated in the summons or charges and upon a determination that one or more of the violations or crimes for which conviction occurred was a cause of Critical Injury or death, the License will be revoked. A Summary Suspension pursuant to this section may be lifted pursuant to this Title or upon dismissal of all such charges or upon a finding of not guilty of all of the stated traffic related violations and crimes, except that the Chairperson may continue to suspend the license pursuant to an investigation into the Driver's fitness, and such license may be revoked if the Driver is found not Fit to Hold a License (see subdivision (ii)). This section does not limit in any way the Chairperson's authority to Summarily Suspend a Driver for other reasons.
-
-   (ii) After any Serious Crash of which the TLC is notified involving a Driver operating a Licensed Vehicle, the TLC will review whether the Driver is Fit to Hold a License under 35 RCNY § 57-08(b). The TLC can seek Suspension or Revocation of the Driver's License and can Summarily Suspend the Driver's License while any fitness review or enforcement action is pending, in accordance with 35 RCNY § 68-15 of this Title.
-
-
-
-
-
-
-
-
-*§ 57-15 Operations – General Rules.* ::
-
-
-(a) [Reserved.] No Weapons.
-
-(b) Driver Neat &amp; Clean. A Driver must be clean and neat in dress and person and present a professional appearance. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 57-15(b)
-      - Fine: $25
-      - Appearance NOT Required
-~
-
-
-
- 
-
-(c) No smoking. A Driver must not smoke in a Commuter Van. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 57-15(c)
-      - Fine: $25
-      - Appearance NOT Required
-~
-
-
-
- 
-
-(d) [Reserved.] No locking rear doors.
-
-(e) [Reserved.]
-
-(f) [Reserved.] Have E-ZPass.
-
-(g) No Overcharging Customers.
-
-   (1) A Commuter Van Driver will not charge or attempt to charge a customer more than the fare that was approved in advance by the dispatcher.
-
-   (2) A Commuter Van Driver will not charge or attempt to charge any additional fees for transporting a Person with a Disability, for a Service Animal accompanying a Person with a Disability, or for wheelchairs or other mobility aids. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 57-15(g)
-      - Fine: $100-$250 and order restitution for any overcharge passenger
-      - Appearance Required
-~
-
-
-
- 
-
-   (3) No Driver is permitted to ask or require a Passenger to tip. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 57-15(g)(3)
-      - Fine: $50
-      - Appearance NOT Required
-~
-
-
-
- 
-
-(h) [Reserved.] Non-paying Customers.
-
-(i) [Reserved.] No Overloading Vehicle.
-
-(j) [Reserved.] Use of Front Seat.
-
-(k) [Reserved.] Luggage.
-
-(l) [Reserved.] No Property.
-
-(m) [Reserved.] No `Marketing' to Passengers.
-
-(n) [Reserved.] Handling Passengers with Infectious Diseases.
-
-(o) A Commuter Van Driver must not engage in horn-honking that violates traffic rules and regulations. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 57-15(o)
-      - Fine: $50
-      - Appearance NOT Required
-~
-
-
-
- 
-
-
-
-
-
-
-*§ 57-16 Operations – Comply with Reasonable Passenger Requests.* ::
-
-
-(a) [Reserved.]. Shortest Route Absent Reasonable Passenger Request.
-
-(b) [Reserved.] Request to Change Destination or Terminate.
-
-(c) [Reserved.] Request for Driver's Name, License Number.
-
-(d) [Reserved.] Request for Receipt.
-
-(e) Passenger Requests on Audio.
-
-   (1) All audio equipment controlled by the Driver must be turned on or off at the request of the Passengers.
-
-   (2) The Passengers have the right to select what is played on the audio equipment.
-
-   (3) The audio equipment must not be played if any Passenger objects.
-
-   (4) Whether or not the Vehicle is in use, an audio device must be played at normal volume only, and must comply with all noise laws and regulations. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 57-16(e)
-      - Fine: $25
-      - Appearance NOT Required
-~
-
-
-
- 
-
-(f) Passenger Requests on Air Conditioning. A Driver must turn on or off heating or air-conditioning equipment at the request of the Passengers. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 57-16(f)
-      - Fine: $25
-      - Appearance NOT Required
-~
-
-
-
- 
-
-
-
-
-
-
-*§ 57-17 Operations – Method of Payment. [Reserved]* ::
-
-
-(a) Solicitation of Passengers. A Commuter Van Driver must only transport passengers on a pre-arranged basis.
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 57-19(a)
-      - Fine: $50
-      - Appearance NOT Required
-~
-
-
-
- 
-
-(b) Limitations on Passenger Pick-up. A Commuter Van Driver must not perform or allow the pick up or discharge passengers:
-
-   (1) Outside of the geographic area specified in the Commuter Van Service Authorization, or
-
-   (2) Along any route of a City of New York or private bus line. Exception: This restriction does not apply to the pick up or discharge of passengers along bus routes in the borough of Manhattan south of Chambers Street by drivers for commuter van services which on July 1, 1992 had authority from the New York State Department of Transportation to pick up or discharge passengers along bus routes in such area, provided that the scope of operations by such commuter van services along bus routes in such area shall not exceed the scope of such operations prior to July 1, 1992.
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 57-19(b)
-      - Fine: $75 first and second violation; Revocation for third violation within six months (see Mandatory Penalties, 35 RCNY § 57-02(d))
-      - Appearance NOT Required
-~
-
-
-
-
-
-
-
-
-
-
-*§ 57-20 Operations – Refusing Passengers.* ::
-
-
-(a) Must Not Refuse. Unless justified, a Driver who is dispatched must not refuse by words, gestures or any other means, to transport a person who has prearranged the trip and the destination is within Commuter Van Service's Authorized jurisdiction. This includes a passenger accompanied by a Service Animal. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 57-20(a)
-      - Fine: $200-$350 for first violation; $350-$500 for each subsequent violation within 36 months
-      - Appearance Required
-~
-
-
-
- 
-
-(b) Justification for Refusal. Justifiable grounds for refusing to transport passengers include:
-
-   (1) The passenger has a weapon
-
-   (2) The passenger has a package or some article that the Driver reasonably believes could injure others or damage the Commuter Van Vehicle.
-
-   (3) The passenger is accompanied by an animal which is not properly or adequately secured in a kennel case or other suitable container. (This provision does not apply to Service Animals accompanying Persons with Disabilities.)
-
-   (4) The passenger is intoxicated or disorderly. (A Driver must not, however, refuse to provide service solely because a disability results in annoying, offensive or inconvenient behavior).
-
-   (5) The passenger has refused a request by the Commuter Van Driver to stop smoking.
-
-      (i) The Driver may discharge a passenger who refuses to stop smoking after the Driver made the request.
-
-      (ii) If a Driver discharges the passenger, it must be at a safe location.
-
-(c) Attendants for Disabled Passengers.
-
-   (1) A Commuter Van Driver must not require a Person with a Disability to be accompanied by an attendant.
-
-   (2) If a Person with a Disability is accompanied by an attendant, a Driver must not charge or attempt to charge an additional fare for transporting the attendant. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 57-20(c)
-      - Fine: $100-$250 and order restitution for any overcharge to the passenger
-      - Appearance Required 
-~
-
-
-
- 
-
-(d) Luggage and Mobility Aids. A Commuter Van Driver must not refuse to transport a passenger's wheelchair, crutches or other mobility aid. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 57-20(d)
-      - Fine: $200-$350
-      - Appearance Required
-~
-
-
-
- 
-
-
-
-
-
-
-*§ 57-21 Operations – Cooperation with Issuing Jurisdictions. [Reserved]* ::
-
-
-(a) [Reserved.] 3-Minute Idle.
-
-(b) [Reserved.] Inspect Condition.
-
-(c) [Reserved.] No On-street Maintenance Other than Emergency.
-
-(d) Clean Interior. A Driver during his or her work shift must keep the Vehicle's interior clean and scent free. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 57-22(d)
-      - Fine: $25
-      - Appearance NOT Required
-~
-
-
-
- 
-
-(e) [Reserved.] Exterior Clean and Identification Visible.
-
-(f) [Reserved.] No Unauthorized Equipment.
-
-(g) [Reserved.] No Unauthorized Signing.
-
-
-
-
-
-
-*§ 57-23 Vehicles – Items Required to be in the Vehicle During Operation.* ::
-
-
-(a) Items in Vehicle. A Commuter Van Driver must not operate a Commuter Van unless the following are present in the vehicle:
-
-   (1) The Commuter Van License;
-
-   (2) The Driver's Commuter Van Driver's License (this must be mounted in a protective holder behind the Driver's seat);
-
-   (3) The Authorization to operate a Commuter Van Service, or a legible photocopy; and
-
-   (4) The vehicle registration and evidence of current liability insurance.
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 57-23(a)(1)-(4)
-      - Fine: $25 per missing item; maximum penalty $50
-      - Appearance NOT Required
-~
-
-
-
-
-
-
-
-
-
-
-*§ 57-24 Vehicles – Written Trip Records. [Reserved]* ::
-
 
 
 
@@ -18217,6 +18217,3078 @@ A Base Owner must not dispatch a Vehicle from its Base unless the Vehicle is in 
 
 
 
+Chapter 61: Commuter Van Vehicles and Owners
+--------------------------------------------------
+
+
+
+
+**Subchapter 61A: Commuter-Van Vehicle Owners**
+
+
+
+*§ 61A-01 Scope of this Sub-chapter.* ::
+
+
+(a) To establish the procedures and requirements for obtaining and maintaining a Commuter-Van Vehicle Owner's License.
+
+(b) To provide penalties for violation of the requirements of maintaining a Commuter-Van Vehicle Owner's License.
+
+(c) All Rules in this sub-chapter apply to the Commuter-Van Vehicle Owner, and the penalties included will be assessed against the Commuter-Van Vehicle Owner. When a Rule references that another party is also responsible, unless otherwise clearly stated, the responsibility is joint and several and both parties may be held entirely responsible for a violation of the Rule.
+
+
+
+
+
+
+*§ 61A-02 Penalties.* ::
+
+
+(a) Unlicensed Activity.
+
+   (1) Unlicensed Activity is the act of providing or advertising the provision of any Commission-regulated for hire transportation service by:
+
+      (i) Any Licensee whose License is suspended, revoked, expired and not yet renewed, or
+
+      (ii) Any person who does not hold a Valid License or Authorization from the Commission as a for hire driver, for the for hire vehicle, or for the for hire service, as applicable.
+
+   (2) Unlicensed Activity specifically includes the activities listed in § 19-506 and § 19-528 of the Administrative Code, and can subject the violator to the seizure and possible forfeiture of the vehicle involved.
+
+(b) Specific Penalties. If there are specific penalties for violating a Rule, they are shown at the end of the Rule. The penalty section also states whether the violator must attend the Hearing.
+
+(c) Payment of Fines.
+
+   (1) Fines are due not later than 30 days after the Respondent is found guilty of or pleads guilty to the violation, unless:
+
+      (i) the Respondent files an appeal of the decision issued by the Taxi and Limousine Tribunal within the time required by 48 RCNY Chapter 5, in which case the payment of the fines will be deferred until 30 days after the date of the appeal decision.
+
+   (2) If the fine is not paid by the close of business on the date due, the Commission will notify the Respondent in writing that the Respondent's License will be suspended in 10 business days of the date of the notification until the fine is paid, unless the Respondent demonstrates to the Commission, in person or in writing, that the fine has been paid.
+
+(d) Effect of Suspension or Revocation of Service Authorization on Affiliated Commuter-Van Vehicle Owners.
+
+   (1) Any Vehicle affiliated with a Commuter-Van Service whose Authorization has been suspended or revoked will have its License suspended or revoked if the suspension or revocation was based in whole or in part on the actions of the Commuter-Van Vehicle.
+
+   (2) If the suspension or revocation was not based on the actions of the Commuter-Van Vehicle, the Vehicle's License will remain Valid. However, the Vehicle must not operate until it has formed an affiliation with another authorized Commuter-Van Service.
+
+(e) Mandatory Penalties.
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - Section
+      - Violation
+      - Cumulative Criteria
+      - Penalty, after opportunity for Hearing
+    * - 35 RCNY § 61A-11(b)
+      - Failure to maintain proper insurance
+      - Failure to maintain the required liability insurance three or more times within one year.
+      - Revocation of Vehicle License
+    * - 35 RCNY § 61A-26
+      - Failure to comply with safety inspection requirements
+      - Operating without complying with any safety inspection requirement three or more times within one year.
+      - Revocation of Vehicle License
+~
+
+
+
+ 
+
+
+
+
+
+
+*§ 61A-03 Definitions Specific to this Sub-chapter.* ::
+
+
+(a) Applicant in this Sub-chapter means an Applicant for an original or renewal Commuter-Van Vehicle License.
+
+(b) Authorization means the Commission's approval to operate a Commuter-Van Service within the geographic boundaries specified by the Commission.
+
+(c) Driver in this Sub-chapter refers to a Commuter-Van Vehicle Driver.
+
+(d) License in this Sub-chapter means a Commuter-Van Vehicle License.
+
+(e) Official Bus Route in this Sub-chapter means the route, including all stops, traveled upon by a bus line that is operated by:
+
+   (1) The New York City Transit Authority
+
+   (2) The City of New York, or
+
+   (3) A private bus company that has been approved by local law or Charter provision enacted in accordance with § 80-4* of the Transportation Law.
+
+(f) Owner in this Sub-chapter refers to a Commuter-Van Vehicle Owner. An Owner can be a Business Entity or a person. The term Owner in this Sub-chapter, in addition to complete ownership of the Vehicle, includes those individuals or entities with the following ownership interests:
+
+   (1) Entitlement to the use and possession of a Vehicle subject to a security interest held by another, regardless of the terms of the contract. (Owner does NOT include any party with a security interest in a Vehicle that is not in that party's possession.)
+
+   (2) The right, by any lessee or bailee, to exclusive use of the Vehicle for more than 30 days.
+
+(g) Vehicle, when used alone in this Sub-chapter, means a Licensed Commuter-Van Vehicle.
+
+
+
+
+
+
+
+
+*§ 61A-04 Licensing – General Requirements.* ::
+
+
+(a) [Reserved.] ID.
+
+(b) [Reserved.] Age.
+
+(c) Fingerprinting to Verify Good Moral Character.
+
+   (1) An Applicant for a Commuter-Van License must be fingerprinted for the purpose of securing criminal history records from the NYS Division of Criminal Justice Services.
+
+   (2) Fingerprints will be taken of all of the Applicant's Limited Business Entity Persons.
+
+   (3) If the Applicant intends to add or change any additional Limited Business Entity Persons, the Applicant must apply for the Commission's approval within five days of the change or addition.
+
+   (4) Any additional Limited Business Entity Persons must be fingerprinted either before or during the Commission's approval process.
+
+   (5) The Applicant must pay any processing fee required by the State.
+
+(d) Fitness to Hold License. No Commuter-Van License can be issued or renewed unless an Applicant demonstrates that the Applicant is Fit to Hold a License to operate a Commuter-Van Vehicle.
+
+(e) Designate Drivers as Agents for Service. An Applicant must agree that any Driver who operates one of Owner's Commuter-Van Vehicles will be considered an agent of the Owner for purposes of accepting service of any and all legal process issued by any department of the City of New York.
+
+(f) Vehicle Liability Insurance. No Commuter-Van Vehicle License will be issued or renewed unless the Applicant proves that the Vehicle is properly registered and has the insurance coverage required in 35 RCNY § 61A-11.
+
+(g) Forms and Filing. An application for a Commuter-Van Vehicle License or renewal must be submitted on forms provided by the Commission, signed by the applicant, and personally filed with the Commission.
+
+(h) Payment of Fines and Fees.
+
+   (1) An Applicant, including an applicant for a renewal License, must pay, and provide proof of payment of, any outstanding fines or fees owed by the Applicant to
+
+      (i) the Commission,
+
+      (ii) NYC Department of Finance's Parking Violations Bureau,
+
+      (iii) NYC Department of Finance's Red Light Camera Unit,
+
+      (iv) NYS DMV's Traffic Violations Bureau and
+
+      (v) any of their successor agencies.
+
+   (2) This requirement includes payment of fines and fees owed as of the date of the application by
+
+      (i) any Business Entity Persons of the Applicant
+
+      (ii) any Business Entity of which the Applicant is a Business Entity Person, and
+
+      (iii) any Business Entity of which a Business Entity Person of Applicant is also a Business Entity Person.
+
+   (3) An Applicant, including an Applicant for a renewal License, must pay any fines related to their failure to surrender a previously revoked License (of any type), unless the Applicant can demonstrate in person or in writing that the License has been surrendered.
+
+(i) Business Entities. An Applicant which is a Business Entity must provide the following documents:
+
+   (1) Partnerships. If the Applicant is a partnership, it must file with its application a certified copy of the partnership certificate from the clerk of the county where the partnership's principal place of business is located.
+
+   (2) Corporations. If the Applicant is a corporation, it must file with its application:
+
+      (i) A certified copy of its certificate of incorporation
+
+      (ii) A list of officers and shareholders
+
+      (iii) A certified copy of the minutes of the meeting at which the current officers were elected.
+
+   (3) Limited Liability Companies (LLCs). If the Applicant is a limited liability company, it must file with its application:
+
+      (i) A copy of its articles of organization
+
+      (ii) A copy of its operating agreement
+
+      (iii) A list of the members, with the percentages of the Applicant owned by each.
+
+(j) Address. An Applicant must give the Commission the Applicant's current Mailing Address.
+
+(k) Commercial Motor Vehicle Tax.
+
+   (1) An Applicant, including an applicant for a renewal License, must pay the Commercial Motor Vehicle Tax applicable to the Applicant's Vehicle. If the Applicant has not made payment to the NYS DMV, the Applicant must pay the Commercial Motor Vehicle Tax to the Commission.
+
+   (2) An Applicant who has already paid the Commercial Motor Vehicle Tax must provide proof of payment in the form of a copy of the New York State issued registration receipt or a receipt from the New York City Department of Finance.
+
+
+
+
+
+
+*§ 61A-05 Licensing – Term of License.* ::
+
+
+(a) New Licenses. The term of a new Vehicle License is two years.
+
+(b) Renewals. The renewal term of a Vehicle License is two years from the date on which the previous License expired.
+
+(c) When to File for Renewal.
+
+   (1) A renewing Applicant must file a completed application at least 30 days before the expiration date of the License. The review of applications submitted fewer than 30 days before the expiration date will not be completed until after the expiration date of the License. Licenses are not Valid after the License expiration date until the application for renewal is approved by the Commission.
+
+   (2) A renewing Applicant can file a completed application up to 60 days after the expiration date as a “late application", if the Applicant pays a late fee of $25. When a late application is submitted, the License will remain expired and not Valid until the application for renewal is approved by the Commission.
+
+   (3) Application Submission Date.
+
+      (i) Applications filed online: The date of submission is the date an application is filed online.
+
+      (ii) Applications filed in person: The date of submission is the date an application is filed in person.
+
+   (4) A License cannot be renewed more than 60 days after the expiration date.
+
+(d) Suspended Licenses.
+
+   (1) If a License is suspended, the Licensee must apply for renewal as required in (c) above if the Licensee wants to renew the License. Failure to complete the renewal requirements means that the License cannot be renewed.
+
+   (2) A License that is suspended is not Valid and cannot be used until the suspension ends. This is true even if the Applicant has filed an application for a renewal.
+
+
+
+
+
+
+
+
+*§ 61A-06 Licensing – Fees.* ::
+
+
+(a) Fee for License. The fee for a Commuter-Van Vehicle License will be $275 annually.
+
+(b) When Fee is Paid. The fee for an original or renewal License must be paid at the time the application is filed.
+
+(c) No Refund if Application Denied.
+
+   (1) The Commission will not refund the application fee if it denies or disapproves the application.
+
+   (2) However, if disapproval of the Vehicle License is based on disapproval of the affiliated Commuter-Van Service Authorization, the vehicle application fee will be refunded.
+
+(d) License Replacement Fee. The Commission will charge an additional fee of $25 for each License it issues to replace a lost or mutilated License.
+
+(e) Vehicle Transfer Fees.
+
+   (1) A Vehicle Licensee can change the Vehicle's affiliation from one Commuter-Van Service Authorization to another after approval by the Chairperson and payment of a $25 fee.
+
+   (2) A Vehicle Licensee can transfer the License from one vehicle to another after approval by the by the Chairperson and payment of a $25 fee.
+
+   (3) A Vehicle Licensee can replace the license plates on the Vehicle after approval by the Chairperson and payment of a $25 fee.
+
+   (4) A Vehicle Licensee can transfer the license plates from one vehicle to another after approval by the Chairperson and payment of a $25 fee.
+
+   (5) A Vehicle Licensee must pay a separate fee for each type of vehicle transfer. This is true even if the Vehicle Licensee wants to do several types of vehicle transfer all at one time.
+
+(f) Late Filing Fee. The Commission will charge an additional fee of $25 for a late filing of a renewal application, if it allows the filing at all.
+
+(g) Commercial Motor Vehicle Tax.
+
+   (1) For Licenses Issued on or after June 1, 2012 if Tax NOT paid to NYS DMV.
+
+      (i) The Commercial Motor Vehicle Tax for each Vehicle will be $800, to be paid with the application for the license.
+
+      (ii) No additional payment will be required for any replacement Vehicle during the renewal License Period.
+
+      (iii) If the Applicant paid the Commercial Motor Vehicle Tax directly to NYS DMV, this paragraph does not apply.
+
+   (2) At License Renewal for Licenses Expiring on or after June 1, 2012 if Tax NOT paid to NYS DMV.
+
+      (i) The Commercial Motor Vehicle Tax for each Vehicle will be $800 for each renewal License period. The tax must be paid with the renewal application.
+
+      (ii) No additional payment will be required for any replacement Vehicle during the renewal License Period.
+
+      (iii) If the Applicant paid the Commercial Motor Vehicle Tax directly to NYS DMV, this paragraph does not apply.
+
+   (3) Interim Payments for licenses expiring on or after June 1, 2012 and before June 1, 2014 if Tax NOT paid to NYS DMV. An interim payment of the Commercial Motor Vehicle Tax is due on June 1, 2012 for licenses expiring on or after June 1, 2012 and before June 1, 2014, provided that the Licensee has not paid the Commercial Motor Vehicle Tax to the NYS DMV.
+
+      (ii) The amount of the interim payment is: 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - If a license expires during:
+      - The licensee must make an interim payment of:
+    * - June, July or August 2012
+      - $100 
+    * - September, October or November 2012
+      - $200 
+    * - December 2012, January 2013 or February 2013
+      - $300 
+    * - March, April or May 2013
+      - $400 
+    * - June, July or August 2013
+      - $500 
+    * - September, October or November 2013
+      - $600 
+    * - December 2013, January 2014 or February 2014
+      - $700 
+    * - March, April or May 2014
+      - $800 
+~
+
+ 
+
+   (4) Refunds.
+
+      (i) The Commission will not refund any payment of Commercial Motor Vehicle Tax.
+
+      (ii) Applications for refunds, including but not limited to refunds upon transfer, surrender or termination, must be made to the NYC Department of Finance. The application will be reviewed in accordance with the Administrative Code and the Rules of the NYC Department of Finance.
+
+
+
+
+
+
+*§ 61A-07 Licensing – Causes for Denial.* ::
+
+
+(a) Material Misrepresentation. The Commission can deny an application if the Applicant has made a material false statement or concealed a material fact relating to the application.
+
+(b) Conduct Prohibited by Rules. The Commission can deny an application if the Applicant has engaged in any conduct that would be a basis for suspension or revocation of the License under the Rules in this sub-chapter.
+
+(c) Failure to Complete Application Requirements.
+
+   (1) The Chairperson will deny an application for a new License if the Applicant has not completed all the requirements of an application within 45 days of the date the application is filed.
+
+   (2) The Chairperson will deny an application for a renewal License if the Applicant has not completed all the requirements of an application within 60 days of the expiration date of the prior License.
+
+   (3) The Chairperson will not deny an application under this Rule if completion is delayed because the Chairperson has not issued a final decision and the Applicant has complied with any requests made by the Chairperson.
+
+(d) Refusal to Renew. The Commission can refuse to renew a Commuter-Van Vehicle License for additional reasons, including but not limited to:
+
+   (1) The Applicant or any of its Limited Business Entity Persons or employees has violated any provision of these Rules or any of the rules relating to commuter van service in Chapter 5, Title 19 of the Administrative Code.
+
+   (2) The Applicant or any of its Limited Business Entity Persons or employees has engaged in any fraud or misrepresentation in connection with providing any transportation service.
+
+   (3) The Applicant or any of its Limited Business Entity Persons has failed to pay any penalty that has been properly imposed under these Rules.
+
+   (4) The Applicant or any of its Limited Business Entity Persons has been convicted of a crime that the Commission believes has a direct bearing upon the Applicant's fitness or ability to perform the functions required of a Commuter-Van Vehicle Owner, or has been convicted of any offense that under Article 23-A of the NYS Correction Law would provide a basis for the Commission to refuse to renew or to suspend or revoke a Commuter-Van Vehicle License.
+
+   (5) The Applicant has failed to maintain the conditions of operation that apply to Commuter-Van Vehicle License.
+
+   (6) The Applicant or any of its Limited Business Entity Persons or employees has engaged in discrimination according to the provisions of § 8-107 of the Administrative Code.
+
+(e) Additional Consideration of an Application. If a review of the application leads the Chairperson to believe that the Applicant may not be Fit to Hold a License, the Chairperson may seek additional information from the Applicant. This request for additional information may be an in-person interview, telephone call, letter, e-mail, or other method of communication. This additional consideration may result in the denial of the application. Failure to provide any requested information within the time frame requested, or failure to appear at a scheduled interview will result in a denial of the application.
+
+(f) Commercial Motor Vehicle Tax.
+
+   (1) The Commission will deny an application, including a renewal application, if the Applicant owes the Commercial Motor Vehicle Tax required under subdivision (e) of 35 RCNY§ 61A-13 of this Chapter on any Vehicle subject to the application.
+
+   (2) Payment of the Commercial Motor Vehicle Tax amount described in paragraph (1) of this subdivision is a condition to issuance of a License, including a renewal License, and the maintaining of such License.
+
+
+
+
+
+
+
+
+*§ 61A-08 Licensing – Transfer of License.* ::
+
+
+(a) Not Transferable. A Commuter-Van License is not assignable or transferable.
+
+
+
+
+
+
+*§ 61A-09 Licensing – Care of Licenses. [Reserved]* ::
+
+
+(a) Vehicle Must Be Licensed. A Commuter-Van Vehicle Owner must not allow a vehicle to be operated within the City of New York as a Commuter Van if the vehicle does not have a Valid License from the Commission. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 61A-10(a)
+      - Fine: $500 – first violation; $1,000 – subsequent violation within twenty-four months
+      - Appearance Required 
+~
+
+
+
+ 
+
+(b) Vehicle Must Be Affiliated with Authorized Commuter-Van Service. A Commuter-Van Vehicle Owner must not allow Owner's Vehicle to be operated within the City of New York unless it is affiliated with a Validly Authorized Commuter-Van Service. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 61A-10(b)
+      - Fine: $1,000 – first violation; $2,000 – subsequent violation within twenty-four months
+      - Appearance NOT Required
+~
+
+
+
+ 
+
+(c) Vehicle Must Be Registered and Insured. Failure to comply with the registration or insurance requirements established in this Sub-chapter will create an automatic License suspension as of the date the compliance lapsed, and any operation of the Vehicle during this time will be considered unlicensed activity. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 61A-10(c)
+      - Fine: $500 – first violation; $1,000 – subsequent violation within twenty-four months
+      - Appearance Required
+~
+
+
+
+ 
+
+(d) Driver Must Be Licensed. The Commuter-Van Vehicle Owner is responsible for ensuring that anyone operating a Commuter-Van Vehicle in the operation of a Commuter-Van Service has:
+
+   (1) A Valid driver's license that qualifies as a Chauffeur's License, and
+
+   (2) A Valid Commuter-Van Driver's License.
+
+   (3) The License of an Owner who allows a Commuter Van to be operated by anyone without a valid Chauffer's License and a valid Commuter-Van Driver's License will be summarily suspended. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 61A-10(d)
+      - Fine: $500 and Suspension of Commuter-Van license until compliance
+      - Appearance Required
+~
+
+
+
+ 
+
+(e) No Person Can Operate an Unlicensed Commuter-Van Vehicle or Service. No person is allowed to operate or to allow anyone else to operate a vehicle bearing the words "Commuter-Van service", "van service", "Commuter-Van", "van" or other similar designation unless:
+
+   (1) The vehicle is a Validly Licensed Commuter Van Vehicle
+
+   (2) The Vehicle is affiliated with a Validly Authorized Commuter-Van Service, and
+
+   (3) The Vehicle is driven by a Validly Licensed Commuter-Van Driver. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 61A-10(e)(1) and (3)
+      - Fine: $500 – first violation; $1,000 – subsequent violation within twenty-four months
+      - Appearance NOT Required
+    * - 35 RCNY § 61A-10(e)(2)
+      - Fine: $1,000 first violation; $2,000 subsequent violations within 24 months
+      - Appearance NOT Required
+~
+
+
+
+ 
+
+(f) Special Procedures Relating to Unlicensed Commuter-Van Operations.
+
+   (1) The Commission will notify the NYS Commissioner of Motor Vehicles upon finding a person liable for:
+
+      (i) Operating a vehicle without a Valid Commuter-Van Vehicle License, or
+
+      (ii) Operating a vehicle that is not affiliated with an Authorized Commuter-Van Service.
+
+   (2) Until notified that the violation has been corrected, the Motor Vehicle Commissioner can:
+
+      (i) Suspend the vehicle's registration,
+
+      (ii) Deny any application for the vehicle's registration or registration renewal,
+
+      (iii) Take any other action permitted under law.
+
+   (3) The Commission will also notify the NYS Department of Finance.
+
+
+
+
+
+
+
+
+*§ 61A-11 Comply with Laws – Vehicle Insurance Coverage.* ::
+
+
+(a) Joint Responsibility. The Commuter-Van Vehicle Owner is liable for ensuring that every Commuter-Van Vehicle owned and operated by Owner is in compliance with the insurance requirements set forth in this 35 RCNY § 61A-11. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 61A-11(a)
+      - Fine: $300 and/or revocation of Commuter-Van license
+      - Appearance Required
+~
+
+
+
+ 
+
+(b) Surety Bond or Policy of Insurance. No Commuter-Van Vehicle can be used in the operation of a Commuter-Van Service unless it is covered by a surety bond or a policy of insurance approved as to form by the Commission and issued by a solvent and responsible company authorized to do business in this State by the Superintendent of Insurance. Coverage must be in at least the following amounts:
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - Type of Liability
+      - Minimum Coverage Required
+      - 
+    * - Commuter-Van for 12 Passengers or Fewer 
+      - Commuter-Van for 13-20 Passengers
+      - 
+    * - • For personal injury or death to one person
+      - $100,000 
+      - $100,000 
+    * - • For personal injury or death to one person in one accident
+      - $300,000 
+      - $500,000 
+    * - • Maximum for each person in one accident
+      - $100,000 
+      - $100,000 
+    * - • For property damage
+      - $50,000 
+      - $50,000 
+~
+
+
+
+ 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 61A-11(b)
+      - Fine: $300 and suspension until complianceThree or more violations within one year: License revocation (see Mandatory Penalties 35 RCNY § 61A-02(e))
+      - Appearance Required 
+~
+
+
+
+ 
+
+(c) Remain in Effect Until Terminated. Surety bonds and certificates of insurance must specify that coverage will remain in effect continuously until terminated as provided in this Sub-chapter.
+
+(d) Conditions for Replacement of Bonds or Insurance. Surety bonds or certificates of insurance may be replaced, and the liability of the retiring surety or insurer will be considered terminated as of the effective date of its replacement, provided that the replacement surety bond or certificate of insurance meets all of the following conditions:
+
+   (1) The new surety bond or certificate of insurance is acceptable to the Commission.
+
+   (2) The Commuter-Van Service Owner or an authorized employee of the Commuter-Van service submits, in duplicate, a letter authorizing the replacement surety bond or certificate of insurance and verifying its effective date.
+
+   (3) The effective date must coincide with the effective date specified in the letter of authorization, and that date may not be more than 30 days before the date the Commission receives the letter of authorization and replacement certificate.
+
+(e) Provision for Continuing Liability. Every surety bond or certificate of insurance must contain a provision for a continuing liability after a claim has been successfully filed and recovered against the bond or insurance.
+
+(f) Notice of Cancellation to the Commission.
+
+   (1) Every surety bond or certificate of insurance must include a provision that cancellation will not be effective until at least 30 days after the Commission has been properly notified in writing of the party's intention to cancel.
+
+   (2) Proper notification must be given on or in the relevant Form K – Uniform Notice of Cancellation of Motor Carrier Insurance Policies or Form L – Uniform Notice of Cancellation of Motion Carrier Surety Bonds. Copies of these forms are available at Commission offices.
+
+   (3) If a cancelled insurance policy or bond is reinstated:
+
+      (i) A new certificate, in the form required by subdivision (d) of this section, must be filed with the Commission, and
+
+      (ii) The new certificate must have the relevant phrase "REINSTATEMENT OF INSURANCE POLICY" or "REINSTATEMENT OF BOND" typed or printed on it in capital letters, as shown.
+
+(g) Forms. Certificates of insurance and other forms necessary for filing can be obtained from the Commission.
+
+(h) Contract is Required. No surety bond or certificate of insurance can be filed with the Commission unless a direct contractual relationship exists between the Commuter-Van Vehicle Licensee (or the Authorized Commuter-Van Service) and the insurance or bonding company making the filing.
+
+(i) Commission's Right to Refuse. The Commission can at any time refuse to accept any surety bond or certificate of insurance if in the judgment of the Commission it does not provide adequate protection for the public.
+
+
+
+
+
+
+*§ 61A-12 Comply with Laws – Proper Conduct.* ::
+
+
+(a) No Bribery. An Applicant or Licensee must not directly or indirectly offer or give any gift, gratuity or thing of value to any employee, representative or member of the Commission or any other public servant who is charged with the administration or enforcement of this sub-chapter or any traffic rule or law. All administrative hearings on this matter will be referred to OATH. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 61A-12(a)
+      - Fine: $1,000 and/orsuspension or revocation
+      - Appearance Required
+~
+
+
+
+ 
+
+(b) Report Request for Gift. A Licensee must immediately report to the Commission and to the New York City Department of Investigation any request or demand for a gift, gratuity or thing of value by any employee, representative or member of the Commission or any other public servant who is charged with the administration or enforcement of this sub-chapter or any traffic rule or law. All administrative hearings on this matter will be referred to OATH. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 61A-12(b)
+      - Fine: $1,000 and/orsuspension or revocation
+      - Appearance Required
+~
+
+
+
+ 
+
+(c) No Threat or Use of Physical Force. While performing the duties and responsibilities of a Licensee or any act in connection with those duties, a Licensee must not use or attempt to use any physical force against a person or Service Animal and must not distract or attempt to distract any Service Animal. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 61A-12(c)
+      - Fine: $50 – $350 and/orsuspension or revocation
+      - Appearance Required
+~
+
+
+
+ 
+
+(d) Report Criminal Conviction.
+
+   (1) A Licensee must notify the Commission within five calendar days after any criminal conviction of the Licensee, individually or, if the Licensee is a Business Entity, of any Limited Business Entity Person.
+
+   (2) The notice must be in writing and must be accompanied by a certified copy of the certificate of disposition issued by the clerk of the court explaining what happened as a result of the conviction. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 61A-12(d)
+      - Fine: $100
+      - Appearance NOT Required
+~
+
+
+
+ 
+
+(e) Cooperate with the Commission. A Commuter-Van Vehicle Owner must:
+
+   (1) Truthfully answer all questions and comply with all communications, directives, and summonses issued by the Commission or its representatives. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 61A-12(e)(1)
+      - Fine: $300 and Suspension until compliance
+      - Appearance Required
+~
+
+
+
+ 
+
+   (2) Produce or be responsible for instructing the Driver of Owner's Commuter-Van Vehicle to produce any documents required to be kept in the Commuter-Van upon the demand of the Commission or its representatives. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 61A-12(e)(2)
+      - Fine: $50-$150
+      - Appearance Required
+~
+
+
+
+ 
+
+   (3) Produce any other document the Owner is required to keep no later than 10 days following a request from the Commission. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 61A-12(e)(3)
+      - Fine: $75-$350 and/orsuspension until compliance
+      - Appearance Required
+~
+
+
+
+ 
+
+   (4) Aid the Commission to obtain information regarding any Commuter-Van Driver operating a Commuter-Van owned by the Owner. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 61A-12(e)(4)
+      - Fine: $75-$350 and/orsuspension until compliance
+      - Appearance Required
+~
+
+
+
+ 
+
+   (5) Respond to any contact from the Commission within 48 hours, seven days a week. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 61A-12(e)(5)
+      - Fine: $500
+      - Appearance NOT Required
+~
+
+
+
+ 
+
+(f) No Willful Acts of Omission. While performing the duties and responsibilities of a Commuter-Van Vehicle Owner, a Licensee must not deliberately fail to perform, alone or with another, any act where this failure is against the best interests of the public. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 61A-12 (f)
+      - Fine: $150-$350 and/orsuspension up to 30 days or revocation
+      - Appearance Required
+~
+
+
+
+ 
+
+(g) No Willful Acts of Commission. While performing the duties and responsibilities of a Commuter-Van Vehicle Owner, a Licensee must not deliberately perform or attempt to perform, alone or with another, any act that is against the best interests of the public. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 61A-12 (g)
+      - Fine: $150-$350 and/orsuspension up to 30 days or revocation
+      - Appearance Required
+~
+
+
+
+ 
+
+(h) Fraud, Misrepresentation, Theft. While performing the duties and responsibilities of a Commuter-Van Vehicle Owner, a Licensee must not commit or attempt to commit, any act of fraud, misrepresentation or theft. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 61A-12 (h)
+      - Fine: $350-$1,000 andsuspension up to 60 days or revocation
+      - Appearance Required
+~
+
+
+
+ 
+
+(i) Facilitation of Sex Trafficking with a Vehicle. A Commuter-Van Vehicle Owner must not Facilitate Sex Trafficking with a Vehicle. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 61A-12(i)
+      - Fine: $10,000 and revocation.
+      - Appearance NOT Required
+~
+
+
+
+ 
+
+(j)  Retaliation.
+
+   (1) A Commuter Van Vehicle Owner must not retaliate against any Driver for making a good faith complaint against any Owner.
+
+   (2) Retaliation will be broadly construed, and will include imposing any adverse condition or consequence on the Driver or withholding or withdrawing any beneficial condition or consequence from the Driver.
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 61A-12(j)
+      - Fine: $1,000 plus restitution to the driver for losses for the first violation and a fine of $10,000 plus restitution to the driver for the second violation within five years.
+      - Appearance NOT Required
+~
+
+
+
+ 
+
+
+
+
+
+
+
+
+*§ 61A-13 Comply with Laws – Miscellaneous.* ::
+
+
+(a) Commission Rules. The following actions can result in suspension or revocation of an Owner's Commuter-Van Service Authorization:
+
+   (1) The Owner or any of its Limited Business Entity Persons or employees violates any provision of these Rules or any of the rules relating to Commuter-Van Vehicles or Service in Chapter 5, Title 19 of the Administrative Code.
+
+   (2) The Owner or any of its Limited Business Entity Persons or employees engages in any fraud or misrepresentation in connection with providing any transportation service.
+
+   (3) The Owner or any of its Limited Business Entity Persons fails to pay any penalty that has been properly imposed under these Rules.
+
+   (4) The Owner or any of its Limited Business Entity Persons is convicted of a crime that the Commission believes has a direct bearing upon the Owner's fitness or ability to perform the functions required of a Commuter-Van Service Owner.
+
+   (5) The Owner fails to maintain the conditions of operation that apply to Commuter-Van Vehicle Owners.
+
+   (6) The Owner or any of its Limited Business Entity Persons or employees engages in discrimination according to the provisions of § 8-107 of the Administrative Code.
+
+(b) Workers Compensation. A Commuter-Van Vehicle Owner must comply with all provisions of the NYS Workers' Compensation Law and regulations with respect to coverage of and benefits to eligible persons. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 61A-13(b)
+      - Fine: $25 for each day of non-compliance, and either suspension until compliance or license revocation.
+      - Appearance Required
+~
+
+
+
+ 
+
+(c) Disability Laws. The Commuter-Van Vehicle Owner must ensure that all new Commuter-Van Vehicles comply with the applicable provisions of law regarding accessibility to Persons with Disabilities. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 61A-13(c)
+      - Fine: $200-$350
+      - Appearance Required
+~
+
+
+
+ 
+
+(d) Motor Vehicle Registration Laws. A Commuter-Van Vehicle Owner must ensure that no Commuter-Van Vehicle is used in the operation of a Commuter-Van Service unless the Vehicle is in compliance with the registration requirements of the NYS Vehicle and Traffic Law. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 61A-13(d)
+      - Fine: $300 and suspension of the Commuter-Van license until compliance
+      - Appearance Required
+~
+
+
+
+ 
+
+(e) Commercial Motor Vehicle Tax.
+
+   (1) An Owner must pay the Commercial Motor Vehicle Tax due as described in paragraphs (2) and (3) of this subdivision on an Owner's Vehicle as and when required by the Commission in these Rules.
+
+   (2) An Owner must pay the amounts required in subdivision (g) of 35 RCNY § 61A-06, including interim payments if any.
+
+   (3) An Owner must also pay any additional Commercial Motor Vehicle Tax amount for any tax year or period which the New York City Department of Finance has notified the Commission is due and unpaid. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 61A-13(e)
+      - Fine: $400 and suspensionuntil compliance
+      - Appearance NOT Required 
+~
+
+
+
+ 
+
+
+
+
+
+
+*§ 61A-14 Operations – Business Premises. [Reserved]* ::
+
+
+(a) No Pick-Ups Outside Authorized Area. No Commuter-Van Vehicle Owner will permit the pick up or discharge of passengers outside of the geographical area established in the Commuter-Van Service Owner's Authorization.
+
+(b) No Pick-Ups Along Bus Routes.
+
+   (1) Restriction. No Commuter-Van Vehicle Owner will permit the pick up or discharge of passengers along any Official Bus Route.
+
+   (2) Grandfathered Exception.
+
+      (i) This restriction will not apply to the pick up and discharge of passengers along bus routes in Manhattan, south of Chambers Street, by Commuter-Van Service Owners that had authority on July 1, 1992 from the NYS Department of Transportation to pick up and discharge passengers along bus routes in that area.
+
+      (ii) The scope of operations by the exempted Commuter-Van Service, however, must not exceed the scope of its operations prior to July 1, 1992. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 61A-16(a), (b)
+      - Fine: $50 if plead guilty before a hearing; $100 if found guilty following a hearing.
+      - Appearance NOT Required
+~
+
+
+
+ 
+
+(c) Service Must Be Pre-Arranged. No Commuter-Van Vehicle Owner will permit transportation service unless the service is prearranged.
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 61A-16(c)
+      - Fine: $50 if plead guilty before a hearing; $75 if found guilty following a hearing.
+      - Appearance NOT Required
+~
+
+
+
+ 
+
+(d) Multiple Person Liability. The Commuter-Van Vehicle Owner is liable for violating this 35 RCNY § 61A-16 even when the actual violation has been unilaterally committed by the Commuter-Van Driver.
+
+(e) Clean Vehicle. A Commuter-Van Vehicle Owner must keep the Vehicle clean inside and out. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 61A-16(e)
+      - Fine: $50
+      - Appearance NOT Required
+~
+
+
+
+ 
+
+
+
+
+
+
+
+
+*§ 61A-17 Operations – Responsibility with Respect to Drivers.* ::
+
+
+(a) Prohibit Disability Discrimination by Drivers. A Vehicle Owner must not allow a Driver to discriminate unlawfully against Persons with Disabilities. Such discrimination includes, but is not limited to:
+
+   (1) Refusing to serve Persons with Disabilities,
+
+   (2) Refusing to load and unload the mobility aids of Persons with Disabilities, and
+
+   (3) Imposing any charge in addition to the authorized fare for the transportation of Persons with Disabilities, service animals, wheelchairs, or other mobility aids.
+
+(b) Multiple Person Liability. The Commuter-Van Vehicle Owner will be liable for violating this Rule even when the actual violation has been unilaterally committed by the Commuter-Van Driver. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 61A-17
+      - Fine: $200-$350
+      - Appearance Required
+~
+
+
+
+ 
+
+
+
+
+
+
+*§ 61A-18 Records – Trip Record Information. [Reserved]* ::
+
+
+
+
+
+
+
+
+
+*§ 61A-19 Records – Current Contact Information.* ::
+
+
+(a) Current Phone Number for Immediate Access. A Commuter-Van Vehicle Owner must maintain on file with the Commission a current telephone number (connected to an answering machine or recording device), pager number, answering service number or a number for any similar means of telephone contact that allows the Vehicle Owner to be reached by the Commission on a 24-hour basis. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 61A-19(a)
+      - Fine: $100
+      - Appearance NOT Required
+~
+
+
+
+ 
+
+(b) Mailing Address and E-mail Address.
+
+   (1) A Commuter-Van Vehicle Owner must have a current E-mail Address at all times.
+
+   (2) A Commuter-Van Vehicle Owner must report any change of Mailing Address or E-mail address to the Commission in person or by mail within ten days.
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 61A-19(b)(2)
+      - Fine: $100
+      - Appearance NOT Required
+~
+
+
+
+ 
+
+   (3) Any communication from the Commission is sufficient if sent to the last Mailing Address provided by the Commuter-Van Vehicle Owner.
+
+
+
+
+
+
+
+
+*§ 61A-20 Records – Additional Records to be Maintained. [Reserved]* ::
+
+
+(a) Advertising Must State Commission Licensed and Authorized. No one is permitted to advertise Commuter-Van services unless the advertisement states CONSPICUOUSLY that the Commuter-Van Vehicle is Licensed by the Commission and includes the affiliated Commuter-Van Service Authorization number. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 61A-24(a)
+      - Fine: $50
+      - Appearance NOT Required
+~
+
+
+
+ 
+
+
+
+
+
+
+*§ 61A-25 Vehicle Condition – Inspections.* ::
+
+
+(a) Inspection by NYS Department of Transportation. A Commuter-Van Vehicle must not be operated as a Commuter-Van Vehicle unless it has been inspected by the NYS Department of Transportation. Provisions and requirements for this inspection can be found in the safety provisions (§ 140) of the NYS Transportation Law or as modified by an agreement between the NYS Department of Transportation and the Commission, as provided in NYS Transportation Law § 80(5)(a)(1). 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 61A-25(a)
+      - Fine: $300
+      - Appearance NOT Required
+~
+
+
+
+ 
+
+(b) Display Inspection Certificate. All Commuter-Van Vehicles must display the inspection certificate. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 61A-25(b)
+      - Fine: $100
+      - Appearance NOT Required
+~
+
+
+
+ 
+
+
+
+
+
+
+*§ 61A-26 Vehicle Condition – Meets Safety Standards.* ::
+
+
+(a) No Commuter-Van Vehicle can be used in a Commuter-Van Service unless it meets the vehicle safety standards prescribed by rule or regulation of the NYS Commissioner of Transportation according to § 140 of the NYS Transportation Law. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 61A-26(a)
+      - Fine: $100-$500 and/or suspension or revocation of Commuter-Van LicenseThree or more violations within one year: License revocation (see Mandatory Penalties 35 RCNY § 61A-02(e))
+      - Appearance Required
+~
+
+
+
+ 
+
+(b) Seat Belts. Each Commuter-Van Vehicle must have seat belts that are clearly visible, accessible, and in good working order. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 61A-26(b)
+      - Fine: $100
+      - Appearance NOT Required
+~
+
+
+
+ 
+
+(c) [Reserved.] Shoulder Belts Required.
+
+(d) [Reserved.] Correct Defect Directives.
+
+(e) [Reserved.] Daily Personal Inspection by Owner.
+
+
+
+
+
+
+*§ 61A-27 Vehicles – Markings and Displays.* ::
+
+
+(a) Required Exterior ID Markings. All Commuter-Van Vehicles must have the following information conspicuously painted on each side of the exterior of the Vehicle in letters at least 3 inches in height:
+
+   (1) The exact name and address of the Commuter-Van Service next to the word OPERATOR;
+
+   (2) The Commuter-Van Vehicle Owner's exact name next to the word OWNER; and
+
+   (3) A Vehicle License number. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 61A-27(a)
+      - Fine: $50
+      - Appearance NOT Required
+~
+
+
+
+ 
+
+   (4) The required information must be in English. The information can also be in another language.
+
+(b) Required Interior ID Markings.
+
+   (1) A sign with the information listed above (in subdivision (a)) must be placed in the interior of the Vehicle clearly visible from all Passenger seats in the Vehicle.
+
+   (2) The sign must include the statement that any complaints can be submitted to the Taxi and Limousine Commission by calling "311" or through the Commission's website: http://nyc.gov/taxi. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 61A-27(b)
+      - Fine: $50
+      - Appearance NOT Required
+~
+
+
+
+ 
+
+   (3) The required information must be in English. The information can also be in another language.
+
+(c) Valid Commission Decal.
+
+   (1) Each time a Commuter-Van Vehicle License is issued or renewed or transferred to a new Vehicle, the Vehicle must be taken to a Commission inspection facility to have four decals affixed to the Vehicle.
+
+   (2) No Commuter-Van Vehicle License is Valid unless the Vehicle has the appropriate, undamaged decals in each of the following locations:
+
+      (i) The lower right corner of the front windshield
+
+      (ii) The center of the rear window
+
+      (iii) One on each of the rear-most side windows. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 61A-27(c)
+      - First violation in a 1-monthperiod: $500Second and subsequent violations within a 12-month period: $1,000 and suspension of the Commuter-Van License until compliance
+      - Appearance NOT Required
+~
+
+
+
+ 
+
+(d) Commuter Van Decal.
+
+   (1) All Commuter Van vehicles must permanently affix and display the Commuter Van Decal, whose dimensions are 21.7 inches wide by 11 inches high, and the TLC License Number Decal, whose dimensions are 2.5 inches high:
+
+      (i) Driver side front door (Required).
+
+         A. Commuter Van Decal. The decal must be placed centered left to right and located in the upper half of the flat surface between the door trim and door handle and parallel to the door trim.
+
+         B. License Number Decal. The decal must be placed centered left to right and horizontally below the Commuter Van Decal.
+
+      (ii) Passenger side front door (Required).
+
+         A. Commuter Van Decal. The decal must be placed centered left to right and located in the upper half of the flat surface between the door trim and door handle and parallel to the door trim.
+
+         B. License Number Decal. The decal must be placed centered left to right and horizontally below the Commuter Van Decal.
+
+   (2) All Commuter Van vehicles may permanently affix and display on the rear door of the vehicle an optional Commuter Van Decal, whose dimensions are 21.7 inches wide by 11 inches high, , and an optional TLC License Number Decal, whose dimensions are 2.5 inches high:
+
+      (i) Rear door (Optional).
+
+         A. Commuter Van Decal. The decal must be placed centered left to right and located in the upper half of the flat surface between the door trim and door handle and parallel to the door trim.
+
+         B. License Number Decal. The decal must be placed centered left to right and horizontally below the Commuter Van Decal.
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 61A-27(d)
+      - Fine: $100
+      - Appearance NOT Required
+~
+
+
+
+ 
+
+(e) Vehicle Cannot Be Yellow. A Commuter-Van Vehicle must not be operated in a Commuter-Van Service if the Vehicle is painted, in whole or in part, any shade of taxicab yellow.
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 61A-27(e)
+      - Fine: $100
+      - Appearance NOT Required
+~
+
+
+
+ 
+
+(f) Required Sticker. Each Commuter-Van Vehicle must display an internal safety sticker, with the following inscription: "Turning? People are Crossing." The dimensions of the sticker are 3.5 inches wide by 2.5 inches high. The sticker must be obtained pursuant to the instructions on the Commission's website or through other appropriate means announced on the website. The sticker must be placed in the Vehicle as follows:
+
+   (1) On the inside of the front windshield, in the center and adjacent to the top of the windshield directly behind the rearview mirror.
+
+   (2) In such a manner not to obstruct the driver's view. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 61A-27(f)(1) and (2)
+      - Fine: $75
+      - Appearance NOT Required
+~
+
+
+
+ 
+
+(g) Optional Sticker. Commuter-Van Vehicles may display an optional external sticker, with the following inscription: "The choices you make behind the wheel matter." The dimensions of the sticker are 15 inches wide by 4 inches wide. The sticker may be obtained pursuant to the instructions on the Commission's website or through other appropriate means announced on the website. If displayed, the sticker must be placed on the Vehicle as follows:
+
+   (1) On the rear bumper of the vehicle.
+
+(h) Required Sticker. Each Commuter-Van Vehicle must display an internal safety sticker, with the following inscription: "ATTENTION: Assaulting A Driver Is Punishable By Up to Twenty-Five Years in Prison." The dimensions of the sticker are 8.0 inches wide by 2.0 inches high. The sticker must be obtained pursuant to the instructions on the Commission's website or through other appropriate means announced on the website. The sticker must be placed in the Vehicle as follows:
+
+   (1) Incorporated into the Commuter-Van Bill of Rights.
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 61A-27(h)(1)
+      - Fine: $50 if plead guilty before a hearing, $75 if found guilty following a hearing
+      - Appearance NOT Required
+~
+
+
+
+ 
+
+(i)  Optional Sticker. Each Commuter-Van Vehicle may display an external safety sticker, with the following inscription: “Taxi and Limousine Drivers Are Protected By New York State Law ATTENTION: Assaulting A Driver Is Punishable By Up to Twenty-Five Years in Prison.” The dimensions of the sticker are 3.5 inches wide by 3.5 inches high. The sticker may be obtained pursuant to the instructions on the Commission’s website or through other appropriate means announced on the website. The sticker must be placed in the Vehicle as follows:
+
+   (1) Exterior, on a door or a side window.
+
+(j) Required Decal. Each Commuter-Van Vehicle with Hearing Induction Loop capability must display a Hearing Induction Loop Decal. The decal will feature the International Symbol of Access for Hearing Loss, described as the profile of an ear with a wide diagonal line running from the bottom left to the top right. The symbol contrast shall be light on dark or dark on light. A "T" will be placed in the lower right-hand corner of the decal. The decal will be placed as follows:
+
+   (1) As directed by the Chairperson. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 61A-27(j)(1)
+      - Fine: $50 if plead guilty before a hearing, $75 if found guilty following a hearing
+      - Appearance NOT Required
+~
+
+
+
+
+
+
+
+
+
+
+*§ 61A-28 Vehicles – Items Required to be in the Vehicle.* ::
+
+
+(a) Commuter-Van Vehicles must carry the following inside the Vehicle any time the Vehicle is in operation:
+
+   (1) The Commuter-Van Vehicle License;
+
+   (2) The Driver's Commuter-Van Driver's License (this must be mounted in a protective holder behind the Driver's seat);
+
+   (3) The Authorization to operate a Commuter-Van Service, or a legible photocopy; and
+
+   (4) The Vehicle registration and evidence of current liability insurance.
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 61A-28(a)
+      - Fine: $25 per missing item; maximum penalty $50
+      - Appearance NOT Required
+~
+
+
+
+ 
+
+(b) Commuter-Van Passengers' Bill of Rights.
+
+   (1) Every Vehicle Owner must post a Commuter-Van Passengers' Bill of Rights in a form and format prescribed by the Commission.
+
+   (2) The Commission will post the proper form and format on its Web site or will provide the information through other appropriate means that will be posted on its Web site.
+
+   (3) The Commuter-Van Passengers' Bill of Rights must be placed in a protective holder attached to the back of the front Passenger's seat. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 61A-28(b)
+      - Fine: $100
+      - Appearance NOT Required
+~
+
+
+
+ 
+
+
+
+
+
+
+
+
+*§ 61A-29 Vehicle Equipment.* ::
+
+
+(a) Two-Way Radio. A Commuter-Van Vehicle Owner that uses a two-way radio or other communications system must be in compliance with all regulations of the Federal Communications Commission relating to the communication system. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 61A-29(a)
+      - Fine: $100
+      - Appearance NOT Required
+~
+
+
+
+ 
+
+(b) Heating and Air Conditioning. A Commuter-Van Vehicle must be equipped with functioning heating and air conditioning equipment. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 61A-29(b)
+      - Fine: $50
+      - Appearance NOT Required
+~
+
+
+
+ 
+
+
+
+
+
+
+
+**Subchapter 61B: Commuter-Van Service Owners**
+
+
+
+*§ 61B-01 Scope of this Sub-chapter.* ::
+
+
+(a) To establish the procedures and requirements for obtaining and maintaining Authorization for a Commuter-Van Service.
+
+(b) To provide penalties for violation of the requirements of maintaining Authorization for a Commuter-Van Service.
+
+(c) The Rules in this sub-chapter apply, primarily, to the Commuter-Van Service Owner. When a Rule references that another party is also responsible, unless otherwise clearly stated, the responsibility is joint and several and both parties may be held entirely responsible for a violation of the Rule.
+
+
+
+
+
+
+*§ 61B-02 Penalties.* ::
+
+
+(a) Unlicensed Activity.
+
+   (1) Unlicensed Activity is the act of providing or advertising the provision of any Commission-regulated for hire transportation service by:
+
+      (i) Any Licensee or holder of an Authorization whose License or Authorization is suspended, revoked, or expired and not yet renewed, or
+
+      (ii) Any person who does not hold a Valid License or Authorization from the Commission as a for hire driver, or for the for hire vehicle, or for the for hire service, as applicable.
+
+(b) Specific Penalties. If there are specific penalties for violating a Rule, they are shown at the end of the Rule. The penalty section also states whether the violator must attend the Hearing.
+
+(c) Payment of Fines.
+
+   (1) Fines are due not later than 30 days after the Respondent is found guilty of or pleads guilty to the violation, unless:
+
+      (i) the Respondent files an appeal of the decision issued by the Taxi and Limousine Tribunal within the time required by 48 RCNY Chapter 5, in which case the payment of the fines will be deferred until 30 days after the date of the appeal decision.
+
+   (2) If the fine is not paid by the close of business on the date due, the Commission will notify the Respondent in writing that the Respondent's License will be suspended in 10 business days of the date of the notification until the fine is paid, unless the Respondent demonstrates to the Commission, in person or in writing, that the fine has been paid.
+
+(d) Mandatory Penalties.
+
+   (1) The following cumulative violations will result in mandatory revocation:
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - Section
+      - Violation
+      - Cumulative Criteria
+      - Penalty, after opportunity for Hearing
+    * - 35 RCNY § 61B-11(b)
+      - Failure to maintain proper insurance
+      - Each of a group of 30% of the total number of Vehicles affiliated with the Service violates three or more times within 12 months
+      - Revocation of Service Authorization
+    * - 35 RCNY § 61B-26
+      - Failure to comply with any safety inspection requiremen
+      - Each of a group of 30% of the total number of Vehicles affiliated with the Service violates three or more times within 12 months
+      - Revocation of Service Authorization
+    * - 35 RCNY § 61B-10(a)
+      - Operating a Vehicle without a Commuter-Van Drivers License
+      - Any Driver driving for the Service commits three or more violations within six months
+      - Revocation of Service Authorization
+    * - 35 RCNY § 61B-10(c)
+      - Drivers operating a vehicle without any one of the licenses necessary to operate a Commuter Van
+      - The number of violations is equal to 90% (rounded up) of the Service's Vehicles, or 5, whichever is greater
+      - Revocation of Service Authorization
+~
+
+
+
+ 
+
+   (2) A Service that has had its Authorization revoked under any of these mandatory penalties is not permitted to apply for a new Authorization for a period of six months after the date of revocation.
+
+
+
+
+
+
+*§ 61B-03 Definitions Specific to this Sub-chapter.* ::
+
+
+(a) Applicant in this Sub-chapter means an applicant for an original Commuter-Van Service Authorization or its renewal.
+
+(b) Authorization means the Commission's approval to operate a Commuter-Van Service within the geographic boundaries specified by the Commission. An Authorization is a License.
+
+(c) Business Entity is a sole proprietorship, partnership, limited liability company or corporation.
+
+(d) Driver in this Sub-chapter refers to a Commuter-Van Vehicle Driver.
+
+(e) Finding of Public Need means a determination that a Commuter-Van Service being proposed will be required either now or in the future for the convenience and necessity of the public.
+
+(f) Limited Business Entity Persons are all Business Entity Persons except shareholders holding less than 10% of the stock of the Business Entity.
+
+(g) New York City will be abbreviated NYC or the City.
+
+(h) New York State will be abbreviated NYS.
+
+(i) Official Bus Route in this Sub-chapter means the route, including all stops, traveled upon by a bus line that is operated by:
+
+   (1) The New York City Transit Authority
+
+   (2) The City of New York, or
+
+   (3) A private bus company that has been approved by local law or Charter provision enacted in accordance with § 80-4 of the Transportation Law.
+
+(j) Owner, when used alone in this Sub-chapter, means a Commuter-Van Service Owner.
+
+(k) Vehicle, when used alone in this Sub-chapter, means a Licensed Commuter-Van Vehicle.
+
+
+
+
+
+
+
+
+*§ 61B-04 Authorization – Requirements.* ::
+
+
+(a) [Reserved.] ID.
+
+(b) [Reserved.] Age.
+
+(c) Fingerprinting to Verify Good Moral Character.
+
+   (1) An Applicant for a new Service Authorization must be fingerprinted for the purpose of securing criminal history records from the NYS Division of Criminal Justice Services.
+
+   (2) An Applicant for a renewal of a Service Authorization must be fingerprinted when a new Finding of Public Need is also required.
+
+   (3) Fingerprints will be taken of all of the Applicant's Limited Business Entity Persons.
+
+   (4) If the Applicant intends to add or change any additional Limited Business Entity Persons, the Applicant must apply for the Commission's approval within five days of the change or addition, and those additional Limited Business Entity Persons must be fingerprinted either before or during the Commission's approval process.
+
+   (5) The Applicant must pay any processing fee required by the State.
+
+(d) Fitness to Hold Authorization. No Commuter-Van Service Authorization can be issued or renewed unless an Applicant demonstrates to the satisfaction of the Commission that the Applicant is Fit to Hold a License (Authorization) to operate a Commuter-Van Service.
+
+(e) Designate Driver as Agent for Service. An Applicant must agree that any Commuter-Van Driver who drives for Owner's Commuter-Van Service will be considered an agent of the Service Owner for purposes of accepting service of any and all legal process issued by any department of the City of New York.
+
+(f) Forms and Filing. An application for a Commuter-Van Service Authorization or renewal must be submitted on forms provided by the Commission, signed by the applicant, and personally filed with the Commission.
+
+(g) Certification of Compliance with ADA. An applicant for an Authorization to operate a Commuter-Van Service or its renewal must certify by affidavit, annually, that the Commuter-Van Service is in compliance with Title III of the Federal Americans With Disabilities Act of 1990 (42 U.S.C. §§ 12101 et seq.).
+
+(h) Certification of Compliance with Federal Omnibus Testing Act. An Applicant for an Authorization to operate a Commuter-Van Service or for its renewal must certify by affidavit, annually, that the Commuter-Van Service is in compliance with all applicable provisions of section 5 of the Federal Omnibus Transportation Testing Act of 1991 , as amended, and all regulations relating to the Act.
+
+(i) A "Finding of Public Need".
+
+   (1) The Commission cannot issue an Authorization to operate a Commuter-Van Service unless the NYC Commissioner of Transportation makes a Finding of Public Need.
+
+   (2) Role of the Commission:
+
+      (i) The Commission will forward any new application for Authorization to operate a Commuter-Van Service (or a renewal application that requires a new Finding of Public Need) to the NYC Commissioner of Transportation.
+
+      (ii) The application must include the following information:
+
+         A. The geographic area proposed to be served by the Applicant;
+
+         B. The maximum number of vehicles to be operated; and
+
+         C. The capacity of each vehicle.
+
+      (iii) The Applicant has the burden of demonstrating that the proposed service will be required now or in the future for the convenience and necessity of the public.
+
+   (3) Role of the NYC Commissioner of Transportation.
+
+      (i) The Commissioner of Transportation may request that the Applicant provide additional information relevant to his or her determination but shall not require statements of public support as part of the application.
+
+      (ii) The Commissioner of Transportation must:
+
+         A. Consult with the NYS Department of Transportation,
+
+         B. Provide a notice of the application for publication in the City Record
+
+         C. Allow for public comment for a period not to exceed 60 days after the date of publication of the notice.
+
+         D. Notify the New York City Transit Authority and all City Council members and community boards representing any portion of the geographic area set forth in the application.
+
+      (iii) If a city bus line or the New York City Transit Authority initiates a protest by timely submitting objections to the application for a Finding of Public Need, the Commissioner of Transportation will evaluate their objections as follows:
+
+         A. The adequacy of the existing transit and mass transportation facilities to meet the transportation needs of any particular segment of the general public for the proposed service; and
+
+         B. The impact that the proposed operation may have on any existing transit or mass transportation facilities.
+
+      (iv) If the Commissioner of Transportation makes a Finding of Public Need, the Finding must specify the geographic area where service is authorized and the number of Commuter-Van Vehicles authorized to be used in providing the service.
+
+   (4) Term of a Finding of Public Need.
+
+      (i) A Finding of Public Need will be in effect until the Authorization granted by the Commission is revoked or such determination of the Finding of Public Need is revoked by the Commissioner of Transportation.
+
+      (ii) Upon the revocation of an authorization, no authorization to operate a commuter Van service shall be renewed unless a new determination of public need is made by the Commissioner of Transportation.
+
+(j) Payment of Fines and Fees.
+
+   (1) An Applicant, including an applicant for a renewal License, must pay, and provide proof of payment of, any outstanding fines or fees owed by the Applicant to
+
+      (i) the Commission,
+
+      (ii) NYC Department of Finance's Parking Violations Bureau,
+
+      (iii) NYC Department of Finance's Red Light Camera Unit,
+
+      (iv) NYS DMV's Traffic Violations Bureau and
+
+      (v) any of their successor agencies.
+
+   (2) This requirement includes payment of fines and fees owed as of the date of the application by
+
+      (i) any Business Entity Persons of the Applicant
+
+      (ii) any Business Entity of which the Applicant is a Business Entity Person, and
+
+      (iii) any Business Entity of which a Business Entity Person of Applicant is also a Business Entity Person.
+
+   (3) An Applicant, including an Applicant for a renewal License, must pay any fines related to their failure to surrender a previously revoked License (of any type), unless the Applicant can demonstrate in person or in writing that the License has been surrendered.
+
+(k) Business Entities. An Applicant which is a Business Entity must provide the following documents:
+
+   (1) Partnerships. If the Applicant is a partnership, it must file with its application a certified copy of the partnership certificate from the clerk of the county where the partnership's principal place of business is located.
+
+   (2) Corporations. If the Applicant is a corporation, it must file with its application:
+
+      (i) A certified copy of its certificate of incorporation
+
+      (ii) A list of officers and shareholders
+
+      (iii) A certified copy of the minutes of the meeting at which the current officers were elected.
+
+   (3) Limited Liability Companies (LLCs). If the Applicant is a limited liability company, it must file with its application:
+
+      (i) A copy of its articles of organization
+
+      (ii) A copy of its operating agreement
+
+      (iii) A list of the members, with the percentages of the Applicant owned by each.
+
+(l) Address. An Applicant must give the Commission the Applicant's current Mailing Address and Email Address.
+
+
+
+
+
+
+
+
+*§ 61B-05 Authorization – Term of Authorization.* ::
+
+
+(a) New Authorizations. A new Commuter-Van Service Authorization will remain in effect until the authorization is revoked by the Commission or by the Commissioner of Transportation.
+
+(b) TLC License Renewals. The renewal term of the TLC license is two years from the date on which the previous license expired.
+
+(c) No Temporary Authorization. The Commission will not issue a temporary authorization to operate a Commuter-Van Service.
+
+(d) When to File for Renewal.
+
+   (1) A renewing Applicant must file a completed application at least 60 days before the expiration date of the license.
+
+   (2) Application Submission Date.
+
+      (i) Applications filed online: The date of submission is the date an application is filed online.
+
+      (ii) Applications filed by mail: The date of submission is the postmark date.
+
+      (iii) Applications filed in person: The date of submission is the date an application is filed in person.
+
+   (3) The Commission will not accept a renewal application after the expiration date of the license. If the application is not filed before the expiration date, the license cannot be renewed.
+
+(e) Suspended Licenses.
+
+   (1) If an Authorization is suspended, the Licensee must file for renewal as required in (c) above if the Licensee wants to renew the Authorization. Failure to complete the renewal requirements means that the Authorization cannot be renewed.
+
+   (2) An Authorization that is suspended is not Valid and cannot be used until the suspension ends. This is true even if the Applicant has filed an application for a renewal.
+
+
+
+
+
+
+
+
+*§ 61B-06 Authorization Fees.* ::
+
+
+(a) Fee for Authorization. The fee for a Commuter Van Service Authorization will be $275 annually.
+
+(b) When Fee is Paid. The fee for an original or renewal Authorization must be paid at the time the application is filed.
+
+(c) No Refund if Application Denied. The Commission will not refund fees if it denies or disapproves the application.
+
+(d) Authorization Replacement Fee. The fee to replace any lost, damaged or destroyed Authorization is $25.
+
+
+
+
+
+
+
+
+*§ 61B-07 Authorization – Causes for Denial.* ::
+
+
+(a) Material Misrepresentation. The Commission can deny an application for Authorization if the Applicant has made a material false statement or concealed a material fact relating to the information required on the application.
+
+(b) Conduct Prohibited by Rules. The Commission can deny an application if the Applicant has engaged in any conduct that would be a basis for suspension or revocation of the Authorization under the Rules in this sub-chapter.
+
+(c) Prior Unlicensed Activity. The Commission will deny an application for an Authorization if the Applicant has been found guilty of operating a Commuter-Van Service without Authorization two times within a six-month period prior to the date of application.
+
+(d) Failure to Complete Application Requirements.
+
+   (1) The Chairperson will deny an application for a new Authorization if the Applicant has not completed all the requirements of an application within 90 days of the date the application is filed.
+
+   (2) The Chairperson will deny an application for a renewal Authorization if the Applicant has not completed all the requirements of an application by the expiration date of the prior Authorization.
+
+   (3) The Chairperson will not deny an application under this Rule if completion is delayed because the Chairperson has not issued a final decision and the Applicant has complied with any requests made by the Chairperson.
+
+(e) Refusal to Renew. The Commission may refuse to renew a Commuter-Van Service Authorization for additional reasons, including but not limited to:
+
+   (1) The Applicant or any of its Limited Business Entity Persons or employees has violated any provision of these Rules or any of the rules relating to commuter van service in Chapter 5, Title 19 of the Administrative Code.
+
+   (2) The Applicant or any of its Limited Business Entity Persons or employees has engaged in any fraud or misrepresentation in connection with providing any transportation service.
+
+   (3) The Applicant or any of its Limited Business Entity Persons has failed to pay any penalty that has been properly imposed under these Rules.
+
+   (4) The Applicant or any of its Limited Business Entity Persons has been convicted of a crime that the Commission believes has a direct bearing upon the Applicant's fitness or ability to perform the functions required of a Commuter-Van Service Owner, or has been convicted of any offense that under Article 23-A of the NYS Correction Law would provide a basis for the Commission to refuse to renew or to suspend or revoke a Commuter-Van Service Authorization.
+
+   (5) The Applicant has failed to maintain the conditions of operation that apply to Commuter-Van Service Owners.
+
+   (6) The Applicant or any of its Limited Business Entity Persons or employees has engaged in discrimination according to the provisions of § 8-107 of the Administrative Code.
+
+(f) Additional Consideration of an Application. If a review of the application leads the Chairperson to believe that the Applicant may not be Fit to Hold a License (Authorization), the Chairperson may seek additional information from the Applicant. This request for additional information may be an in-person interview, telephone call, letter, e-mail, or other method of communication. This additional consideration may result in the denial of the application.
+
+
+
+
+
+
+*§ 61B-08 Licensing – Transfer of License.* ::
+
+
+(a) Not Transferrable or Assignable Without Approval. An authorization to operate a Commuter-Van Service will not be assignable or transferable unless otherwise provided by the Commission.
+
+
+
+
+
+
+*§ 61B-09 Licensing – Care of Licenses.* ::
+
+
+(a) If the Authorization for a Commuter-Van Service is lost, damaged, or destroyed, the Owner must provide the Commission with a statement of what happened and any proof that the Commission requires.
+
+(b) The Commission can issue a duplicate or substitute Authorization upon the Owner's payment of a $25 fee.
+
+
+
+
+
+
+*§ 61B-10 Comply with Laws – No Unlicensed Activity.* ::
+
+
+(a) Vehicle Must Be Licensed. A Commuter-Van Service Owner must not allow an vehicle to be operated within the City of New York (meaning performing passenger pick-up and drop-off wholly within New York City) if the vehicle does not have a Valid Commuter-Van License from the Commission. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 61B-10(a)
+      - Fine: $500 – first violation; $1,000 – subsequent violation within twenty-four months
+      - Appearance Required 
+~
+
+
+
+ 
+
+(b) Vehicle Must Be Affiliated with Authorized Commuter-Van Service. A Commuter-Van Service Owner must not operate a Commuter-Van Vehicle within the City of New York unless it is affiliated with the Owner's Commuter-Van Service. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 61B-10(b)
+      - Fine: $500 – first violation; $1,000 – subsequent violation within twenty-four monthsMultiple violations: See Mandatory Penalties (35 RCNY § 61B-02(d))
+      - Appearance Required
+~
+
+
+
+ 
+
+(c) Driver Must Be Licensed. The Commuter-Van Service Owner is responsible for ensuring that anyone operating a Commuter-Van Vehicle affiliated with the Owner's Service has:
+
+   (1) A Valid driver's license that qualifies as a Chauffeur's License, and
+
+   (2) A Valid Commuter-Van Driver's License.
+
+   (3) The License of a Consumer-Van Service Owner who allows a Commuter Van Vehicle affiliated with the Owner's Service to be operated by anyone without a valid Chauffer's License and a valid Commuter-Van Driver's License will be summarily suspended. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 61B-10(c)
+      - Fine: $500 and Suspension of Commuter-Van license until complianceMultiple violations: See Mandatory Penalties (35 RCNY § 61B-02(d))
+      - Appearance Required
+~
+
+
+
+ 
+
+(d) No Person Can Operate an Unlicensed Commuter-Van Vehicle or Service.
+
+   (1) No person is allowed to operate or to allow anyone else to operate his or her vehicle bearing the words "Commuter-Van service," "van service," "Commuter-Van," "van" or other similar designation unless:
+
+      (i) The vehicle is a Validly Licensed Commuter Van Vehicle
+
+      (ii) The Vehicle is affiliated with a Validly Authorized Commuter-Van Service, and
+
+      (iii) The Vehicle is driven by a Validly Licensed Commuter-Van Driver.
+
+   (2) A "License" that has expired and has not yet been renewed is not a "Valid License" and operating with an expired License is considered "unlicensed activity." 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 61B-10(d)
+      - Fine: $500 – first violation; $1,000 – subsequent violation within twenty-four months
+      - Appearance Required
+~
+
+
+
+ 
+
+(e) Special Procedures Relating to Unlicensed Commuter-Van Operations.
+
+   (1) The Commission will notify the NYS Commissioner of Motor Vehicles upon finding a person liable for:
+
+      (i) Operating a vehicle without a Valid Commuter-Van Vehicle License, or
+
+      (ii) Operating a vehicle that is not affiliated with an Authorized Commuter-Van Service.
+
+   (2) Until notified that the violation has been corrected, the Motor Vehicle Commissioner can:
+
+      (i) Suspend the vehicle's registration,
+
+      (ii) Deny any application for the vehicle's registration or registration renewal,
+
+      (iii) Take any other action permitted under law.
+
+   (3) The Commission will also notify the NYS Department of Finance.*
+
+
+
+
+
+
+*§ 61B-11 Comply with Laws – Insurance Coverage.* ::
+
+
+(a) Joint Responsibility. The Commuter-Van Service owner must ensure that no Commuter-Van will be used in the Commuter-Van Service unless such vehicle is in compliance with the insurance requirements set forth in this 35 RCNY § 61B-11. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 61B-11(a)
+      - Fine: $300 and/or revocation of Commuter-Van licenseIf each one of a group of at least 30% of the Vehicles affiliated with a Commuter-Van Service fails to maintain liability insurance three times within a 12 month period, the Service's Authorization will be revoked
+      - Appearance Required
+~
+
+
+
+ 
+
+(b) Surety Bond or Policy of Insurance. No Commuter-Van Vehicle can be used in the operation of a Commuter-Van Service unless it is covered by a surety bond or a policy of insurance approved as to form by the Commission and issued by a solvent and responsible company authorized to do business in this State by the Superintendent of Insurance. Coverage must be in at least the following amounts: 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - Type of Liability
+      - Minimum Coverage Required
+      - 
+    * - Commuter-Van for 12 Passengers Or Fewer 
+      - Commuter-Van for 13-20 Passengers
+      - 
+    * - • For personal injury or death to one person
+      - $100,000 
+      - $100,000 
+    * - • For personal injury or death to one person in one accident
+      - $300,000 
+      - $500,000 
+    * - • Maximum for each person in one accident
+      - $100,000 
+      - $100,000 
+    * - • For property damage
+      - $50,000 
+      - $50,000 
+~
+
+
+
+ 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 61B-11(b)
+      - Fine: $300 and suspension until complianceMultiple violations: See Mandatory Penalties (35 RCNY § 61B-02(d))
+      - Appearance Required 
+~
+
+
+
+ 
+
+(c) Remain in Effect Until Terminated. Surety bonds and certificates of insurance must specify that coverage will remain in effect continuously until terminated as provided in this Sub-chapter.
+
+(d) Conditions for Replacement of Bonds or Insurance. Surety bonds or certificates of insurance may be replaced, and the liability of the retiring surety or insurer will be considered terminated as of the effective date of its replacement, provided that the replacement surety bond or certificate of insurance meets all of the following conditions:
+
+   (1) The new surety bond or certificate of insurance is acceptable to the Commission.
+
+   (2) The Commuter-Van Service Owner or an authorized employee of the van service submits, in duplicate, a letter authorizing the replacement surety bond or certificate of insurance and verifying its effective date.
+
+   (3) The effective date must coincide with the effective date specified in the letter of authorization, and that date may not be more than 30 days before the date the Commission receives the letter of authorization and replacement certificate.
+
+(e) Provision for Continuing Liability. Every surety bond or certificate of insurance must contain a provision for a continuing liability even after a claim has been successfully filed and recovered against the bond or insurance.
+
+(f) Notice of Cancellation to the Commission.
+
+   (1) Every surety bond or certificate of insurance must include a provision that cancellation will not be effective until at least 30 days after the Commission has been properly notified in writing of the party's intention to cancel.
+
+   (2) Proper notification must be given on or in the relevant Form K – Uniform Notice of Cancellation of Motor Carrier Insurance Policies or Form L – Uniform Notice of Cancellation of Motion Carrier Surety Bonds. Copies of these forms are available at Commission offices.
+
+   (3) If a cancelled insurance policy or bond is reinstated:
+
+      (i) A new certificate, in the form required by subdivision (d) of this section, must be filed with the Commission, and
+
+      (ii) The new certificate must have the relevant phrase "REINSTATEMENT OF INSURANCE POLICY" or "REINSTATEMENT OF BOND" typed or printed on it in capital letters, as shown.
+
+(g) Forms. Certificates of insurance and other forms necessary for filing can be obtained from the Commission.
+
+(h) Contract is Required. No surety bond or certificate of insurance can be filed with the Commission unless a direct contractual relationship exists between the Authorized Commuter-Van Service (or the Commuter-Van Vehicle Licensee) and the insurance or bonding company making the filing.
+
+(i) Commission's Right to Refuse. The Commission can at any time refuse to accept any surety bond or certificate of insurance if in the judgment of the Commission it does not provide adequate protection for the public.
+
+
+
+
+
+
+*§ 61B-12 Comply with Laws – Personal Conduct.* ::
+
+
+(a) No Bribery. A Commuter-Van Service Owner must not directly or indirectly offer or give any gift, gratuity or thing of value to any employee, representative or member of the Commission or any public servant who is charged with the administration or enforcement of this sub-chapter or any traffic rule or law. All administrative hearings on this matter will be referred to OATH. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 61B-12(a)
+      - Fine: $1,000 and/or suspension or revocation
+      - Appearance Required
+~
+
+
+
+ 
+
+(b) Report Request for Gift. A Commuter-Van Service Owner must immediately report to the Commission and to the New York City Department of Investigation any request or demand for a gift, gratuity or thing of value by any employee, representative or member of the Commission or any public servant who is charged with the administration or enforcement of this sub-chapter or any traffic rule or law. All administrative hearings on this matter will be referred to OATH. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 61B-12(b)
+      - Fine: $1,000 and/or suspension or revocation
+      - Appearance Required
+~
+
+
+
+ 
+
+(c) No Threat or Use of Physical Force. While performing the duties and responsibilities of an Authorized Commuter-Van Service Owner, or any act in connection with those duties, an Owner must not use or attempt to use any physical force against a person or Service Animal and must not distract or attempt to distract any Service Animal. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 61B-12(c)
+      - Fine: $50 – $350 and/or suspension or revocation
+      - Appearance Required
+~
+
+
+
+ 
+
+(d) Report Criminal Conviction.
+
+   (1) A Commuter-Van Service Owner must notify the Commission within five calendar days after any criminal conviction of the Licensee, individually or, if the Owner is a Business Entity, of any Limited Business Entity Person.
+
+   (2) The notice must be in writing and must be accompanied by a certified copy of the certificate of disposition issued by the clerk of the court explaining what happened as a result of the conviction. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 61B-12(d)
+      - Fine: $100
+      - Appearance NOT Required
+~
+
+
+
+ 
+
+(e) Cooperate with TLC. A Commuter-Van Service Owner must:
+
+   (1) Truthfully answer all questions and comply with all communications, directives, and summonses issued by the Commission or its representatives; 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 61B-12(e)(1)
+      - Fine: $300 and Suspension until compliance
+      - Appearance Required
+~
+
+
+
+ 
+
+   (2) Produce or be responsible for instructing Drivers working in association with Owner's Commuter-Van Service to produce any documents required to be kept in the Commuter-Van Vehicle upon the demand of the Commission or its representatives; 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 61B-12(e)(2)
+      - Fine: $50-$150
+      - Appearance Required
+~
+
+
+
+ 
+
+   (3) Produce any other document the Owner is required to keep no later than 10 days following a request from the Commission; 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 61B-12(e)(3)
+      - Fine: $75-$350 and/or suspension until compliance
+      - Appearance Required
+~
+
+
+
+ 
+
+   (4) Aid the Commission to obtain information regarding any Commuter-Van Driver or Commuter-Van Vehicle affiliated with the Owner's Commuter-Van Service. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 61B-12(e)(4)
+      - Fine: $75-$350 and/or suspension until compliance
+      - Appearance Required
+~
+
+
+
+ 
+
+   (5) Respond to any contact from the Commission within 48 hours, seven days a week. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 61B-12(e)(5)
+      - Fine: $500
+      - Appearance NOT Required
+~
+
+
+
+ 
+
+(f) No Willful Acts of Omission. While performing the duties and responsibilities of a Commuter-Van Vehicle Owner, a Licensee must not deliberately fail to perform, alone or with another, any act where this failure is against the best interests of the public. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 61B-12 (f)
+      - Fine: $150-$350 and/orsuspension up to 30 days or revocation
+      - Appearance Required
+~
+
+
+
+ 
+
+(g) No Willful Acts of Commission. While performing the duties and responsibilities of a Commuter-Van Vehicle Owner, a Licensee must not deliberately perform or attempt to perform, alone or with another, any act that is against the best interests of the public. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 61B-12 (g)
+      - Fine: $150-$350 and/orsuspension up to 30 days or revocation
+      - Appearance Required
+~
+
+
+
+ 
+
+(h) Fraud, Misrepresentation, Theft. While performing the duties and responsibilities of a Commuter-Van Service Owner, a Licensee must not commit or attempt to commit, any act of fraud, misrepresentation or theft. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 61B-12 (h)
+      - Fine: $350-$1,000 andsuspension up to 60 days or revocation
+      - Appearance Required
+~
+
+
+
+ 
+
+(i) Facilitation of Sex Trafficking with a Vehicle. A Commuter-Van Service Owner must not Facilitate Sex Trafficking with a Vehicle. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 61B-12(i)
+      - Fine: $10,000 and revocation.
+      - Appearance NOT Required
+~
+
+
+
+ 
+
+(j) Retaliation.
+
+   (1) A Commuter Van Service Owner must not retaliate against any Driver for making a good faith complaint against any Owner.
+
+   (2) Retaliation will be broadly construed, and will include imposing any adverse condition or consequence on the Driver or withholding or withdrawing any beneficial condition or consequence from the Driver.
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 61B-12(j)
+      - Fine: $1,000 plus restitution to the driver for losses for the first violation and a fine of $10,000 plus restitution to the driver for the second violation within five years.
+      - Appearance NOT Required
+~
+
+
+
+ 
+
+
+
+
+
+
+
+
+*§ 61B-13 Comply with Laws – Miscellaneous.* ::
+
+
+(a) Commission Rules. The following actions can result in suspension or revocation of an Owner's Commuter-Van Service Authorization:
+
+   (1) The Owner or any of its Limited Business Entity Persons or employees violates any provision of these Rules or any of the rules relating to Commuter-Van Service in Chapter 5, Title 19 of the Administrative Code.
+
+   (2) The Owner or any of its Limited Business Entity Persons or employees engages in any fraud or misrepresentation in connection with providing any transportation service.
+
+   (3) The Owner or any of its Limited Business Entity Persons fails to pay any penalty that has been properly imposed under these Rules.
+
+   (4) The Owner or any of its Limited Business Entity Persons is convicted of a crime that the Commission believes has a direct bearing upon the Owner's fitness or ability to perform the functions required of a Commuter-Van Service Owner.
+
+   (5) The Owner fails to maintain the conditions of operation that apply to Commuter-Van Service Owners.
+
+   (6) The Owner or any of its Limited Business Entity Persons or employees engages in discrimination according to the provisions of § 8-107 of the Administrative Code.
+
+(b) Workers Compensation. A Commuter-Van Service Owner must comply with all provisions of the NYS Workers' Compensation Laws and regulations with respect to coverage of and benefits to eligible persons. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 61B-13(b)
+      - Fine: $25 for each day of non-compliance, and either suspension until compliance or license revocation.
+      - Appearance Required
+~
+
+
+
+ 
+
+(c) Disability Laws. A Commuter-Van Service Owner must ensure that any new Commuter-Van Vehicle purchased or leased by the Commuter-Van Service complies with all applicable provisions of law regarding accessibility to Persons with Disabilities. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 61B-13(c)
+      - Fine: $200-$350
+      - Appearance Required
+~
+
+
+
+ 
+
+(d) Motor Vehicle Registration Laws. A Commuter-Van Service Owner must ensure that no Commuter-Van is used in the operation of a Commuter-Van Service unless the Vehicle is in compliance with the registration requirements of the NYS Vehicle and Traffic Law. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 61B-13(d)
+      - Fine: $300 and suspension of the Commuter-Van license until compliance
+      - Appearance Required
+~
+
+
+
+ 
+
+
+
+
+
+
+*§ 61B-14 Operations – Business Premises. [Reserved]* ::
+
+
+(a) No Pick-Ups Outside Authorized Area. No Commuter-Van Service Owner will permit the pick up or discharge of passengers outside of the geographical area established in the Owner's Authorization. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 61B-16(a)
+      - Fine: $50 if plead guiltybefore a hearing; $100 if found guilty following a hearing.
+      - Appearance NOT Required
+~
+
+
+
+ 
+
+(b) No Pick-Ups Along Bus Routes.
+
+   (1) Restriction. No Commuter-Van Service Owner will permit the pick up or discharge of passengers along any Official Bus Route. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 61B-16(b)(1)
+      - Fine: $50 if plead guiltybefore a hearing; $100 if found guilty following a hearing.
+      - Appearance NOT Required
+~
+
+
+
+ 
+
+   (2) Grandfathered Exception.
+
+      (i) This restriction will not apply to the pick up and discharge of passengers along bus routes in Manhattan, south of Chambers Street, by Commuter-Van Service Owners that had authority on July 1, 1992 from the NYS Department of Transportation to pick up and discharge passengers along bus routes in that area
+
+      (ii) The scope of operations by the exempted Commuter-Van Service, however, must not exceed the scope of its operations prior to July 1, 1992.
+
+(c) Service Must Be Pre-Arranged. No Commuter-Van Service Owner will permit transportation service unless the service is prearranged and the prearrangement is shown on the Passenger Manifest. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 61B-16(c)
+      - Fine: $50 if plead guiltybefore a hearing; $100 if found guilty following a hearing.
+      - Appearance NOT Required
+~
+
+
+
+ 
+
+(d) Multiple Person Liability. The Commuter-Van Service Owner is liable for violating this Rule even when the actual violation has been unilaterally committed by the Commuter-Van Driver.
+
+
+
+
+
+
+*§ 61B-17 Operations – Responsibility with Respect to Drivers.* ::
+
+
+(a) Prohibit Disability Discrimination by Drivers. A Commuter-Van Service Owner must not allow a Driver to discriminate unlawfully against Persons with Disabilities. Such discrimination includes, but is not limited to:
+
+   (1) Refusing to serve Persons with Disabilities,
+
+   (2) Refusing to load and unload the mobility aids of Persons with Disabilities, and
+
+   (3) Imposing any charge in addition to the authorized fare for the transportation of Persons with Disabilities, service animals, wheelchairs, or other mobility aids.
+
+(b) Multiple Person Liability. The Commuter-Van Service Owner will be liable for violating this Rule even when the actual violation has been unilaterally committed by the Commuter-Van Driver. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 61B-17
+      - Fine: $200-$350
+      - Appearance Required
+~
+
+
+
+ 
+
+
+
+
+
+
+*§ 61B-18 Records – Trip Record Information.* ::
+
+
+(a) Commuter-Van Service. The Commuter-Van Service Owner is responsible for ensuring that the following records are kept:
+
+   (1) The number of passengers each Commuter-Van Vehicle affiliated with the Commuter-Van Service picks up each day.
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 61B-18(a)(1)
+      - Fine: $50
+      - Appearance NOT Required
+~
+
+
+
+ 
+
+   (2) The records required by this paragraph must be kept for a period of one year and will be subject to inspection by authorized officers or employees of the Commission during regular business hours.
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 61B-18(a)(2)
+      - Fine: $300
+      - Appearance NOT Required
+~
+
+
+
+ 
+
+
+
+
+
+
+
+
+*§ 61B-19 Records – Current Contact Information.* ::
+
+
+(a) Current Phone Number for Immediate Access. A Commuter-Van Service Owner must maintain on file with the Commission a current telephone number (connected to an answering machine or recording device), pager number, answering service number or a number for any similar means of telephone contact that allows the Vehicle Owner to be reached by the Commission on a 24- hour basis. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 61B-19(a)
+      - Fine: $100
+      - Appearance NOT Required
+~
+
+
+
+ 
+
+(b) Mailing and Email Address.
+
+   (1) A Commuter-Van Service Owner must have a working Email Address at all times.
+
+   (2) A Commuter-Van Service Owner must report any change of Mailing Address or Email Address to the Commission in person or by mail within ten days. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 61B-19(b)(1)-(2)
+      - Fine: $100
+      - Appearance NOT Required
+~
+
+
+
+ 
+
+   (3) Any communication from the Commission is sufficient if sent to the last Mailing Address provided by the Commuter-Van Service Owner.
+
+   (4) Any communication from the Commission, except notices and summonses for which the manner of service is specified in 35 RCNY § 68-05, is sufficient if sent by email to the last Email Address provided by the Commuter-Van Service Owner.
+
+
+
+
+
+
+*§ 61B-20 Records – Additional Records to be Maintained.* ::
+
+
+The Commuter-Van Service Owner is responsible for keeping the following records:
+
+(a) A list of all Vehicles currently operating under the Service Owner's Authorization, and information about each vehicle including, but not limited to the following:
+
+   (1) The Vehicle Owner's name, mailing address, and home telephone number,
+
+   (2) The Vehicle's registration number,
+
+   (3) The Vehicle's Commuter-Van License number,
+
+   (4) The Department of Motor Vehicles license plate number of the Vehicle,
+
+   (5) The name of the Vehicle's insurance carrier and the policy number, and
+
+   (6) The dates of inspection of the Vehicle and the outcome of each inspection. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 61B-20(a)
+      - Fine: $300
+      - Appearance NOT Required
+~
+
+
+
+ 
+
+(b) The records required by this paragraph must be kept for a period of one year and will be subject to inspection by authorized officers or employees of the Commission during regular business hours. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 61B-20(b)
+      - Fine: $300
+      - Appearance NOT Required
+~
+
+
+
+ 
+
+
+
+
+
+
+*§ 61B-21 Reporting Requirements. [Reserved]* ::
+
+
+(a) Advertising to State TLC Licensed/Authorized. No one is permitted to advertise Commuter-Van services unless the advertisement states CONSPICUOUSLY that the Commuter-Van Vehicle is Licensed by the Commission and includes the affiliated Commuter-Van Service Authorization number. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 61B-24(a)
+      - Fine: $50
+      - Appearance NOT Required
+~
+
+
+
+ 
+
+
+
+
+
+
+*§ 61B-25 Vehicle Condition – Inspections.* ::
+
+
+(a) Inspection by NYS Department of Transportation. The Commuter-Van Service Owner will be responsible for compliance with the following provisions:
+
+   (1) A Commuter-Van Vehicle must not be operated as a Commuter-Van Vehicle unless it has been inspected by the NYS Department of Transportation.
+
+   (2) Provisions and requirements for this inspection can be found in the safety provisions (§ 140) of the NYS Transportation Law or as modified by an agreement between the NYS Department of Transportation and the Commission, as provided in NYS Transportation Law § 80(5)(a)(1). 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 61B-25(a)
+      - Fine: $300
+      - Appearance NOT Required
+~
+
+
+
+ 
+
+(b) All Commuter-Van Vehicles must display the inspection certificate. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 61B-25(b)
+      - Fine: $100
+      - Appearance NOT Required
+~
+
+
+
+ 
+
+
+
+
+
+
+*§ 61B-26 Vehicle Condition – Meets Safety Standards.* ::
+
+
+(a) No Commuter-Van Vehicle can be used in a Commuter-Van Service unless it meets the vehicle safety standards prescribed by rule or regulation of the NYS Commissioner of Transportation according to § 140 of the NYS Transportation Law. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 61B-26(a)
+      - Fine: $100-$500 and/or suspension or revocation of Commuter-Van licenseMultiple violations: See Mandatory Penalties(35 RCNY § 61B-02(d))
+      - Appearance Required
+~
+
+
+
+ 
+
+
+
+
+
+
+*§ 61B-27 Vehicles – Markings and Displays.* ::
+
+
+(a) Required Exterior ID Markings. All Commuter-Van Vehicles must have the following information conspicuously painted on each side of the exterior of the vehicle in letters at least 3 inches in height:
+
+   (1) The exact name and address of the Commuter-Van Service next to the word OPERATOR;
+
+   (2) The Commuter-Van Vehicle Owner's exact name next to the word OWNER; and
+
+   (3) A Vehicle License number. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 61B-27(a)
+      - Fine: $50
+      - Appearance NOT Required
+~
+
+
+
+ 
+
+(b) Required Interior ID Markings.
+
+   (1) A sign with the information listed above (in subdivision (a)) must be placed in the interior of the Vehicle clearly visible from all Passenger seats in the Vehicle.
+
+   (2) The sign must include the statement that any complaints can be submitted to the Taxi and Limousine Commission by calling "311" or through the Commission's website, http://nyc.gov/taxi. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 61B-27(b)
+      - Fine: $50
+      - Appearance NOT Required
+~
+
+
+
+ 
+
+(c) Valid TLC Decal.
+
+   (1) Each time a Commuter-Van Vehicle License is issued or renewed or transferred to a new Vehicle, the Vehicle must be taken to a Commission inspection facility to have four decals affixed to the Vehicle.
+
+   (2) No Commuter-Van Vehicle License is Valid unless the Vehicle has the appropriate, undamaged decals in each of the following locations:
+
+      (i) The lower right corner of the front windshield
+
+      (ii) The center of the rear window
+
+      (iii) One on each of the rear-most side windows. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 61B-27(c)
+      - First violation in a 12-monthperiod: $500Second and subsequent violations within a 12-month period: $1,000 and suspension of the Commuter-Van License until compliance
+      - Appearance NOT Required
+    * - Third violation within a 12-month period: revocation of Commuter-Van Service Authorization
+      - Appearance Required
+~
+
+
+
+
+      - (d) Commuter Van Decal.
+
+   (1) All Commuter Van vehicles must permanently affix and display the Commuter Van Decal, whose dimensions are 21.7 inches wide by 11 inches high, and the TLC License Number Decal, whose dimensions are 2.5 inches high:
+
+      (i) Driver side front door (Required).
+
+         A. Commuter Van Decal. The decal must be placed centered left to right and located in the upper half of the flat surface between the door trim and door handle and parallel to the door trim.
+
+         B. License Number Decal. The decal must be placed centered left to right and horizontally below the Commuter Van Decal.
+
+      (ii) Passenger side front door (Required).
+
+         A. Commuter Van Decal. The decal must be placed centered left to right and located in the upper half of the flat surface between the door trim and door handle and parallel to the door trim.
+
+         B. License Number Decal. The decal must be placed centered left to right and horizontally below the Commuter Van Decal.
+
+   (2) All Commuter Van vehicles may permanently affix and display on the rear door of the vehicle an optional Commuter Van Decal, whose dimensions are 21.7 inches wide by 11 inches high, , and an optional TLC License Number Decal, whose dimensions are 2.5 inches high:
+
+      (i) Rear door (Optional).
+
+         A. Commuter Van Decal. The decal must be placed centered from left to right and located in the upper half of the flat surface between the door trim and door handle and parallel to the door trim.
+
+         B. License Number Decal. The decal must be placed centered left to right and horizontally below the Commuter Van Decal.
+
+ 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 61B-27(d)
+      - Fine: $100
+      - Appearance NOT Required
+~
+
+
+
+ 
+
+(e) Vehicle Cannot Be Yellow. A Commuter-Van Vehicle must not be operated in a Commuter-Van Service if the Vehicle is painted, in whole or in part, any shade of taxicab yellow.
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 61B-27(e)
+      - Fine: $100
+      - Appearance NOT Required
+~
+
+
+
+ 
+
+(f) Required Sticker. Each Commuter-Van Vehicle must display an internal safety sticker, with the following inscription: "Turning? People are Crossing." The dimensions of the sticker are 3.5 inches wide by 2.5 inches high. The sticker must be obtained pursuant to the instructions on the Commission's website or through other appropriate means announced on the website. The sticker must be placed in the Vehicle as follows:
+
+   (1) On the inside of the front windshield, in the center and adjacent to the top of the windshield directly behind the rearview mirror.
+
+   (2) In such a manner not to obstruct the driver's view. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 61B-27(f)(1) and (2)
+      - Fine: $75
+      - Appearance NOT Required
+~
+
+
+
+ 
+
+(g) Optional Sticker. Commuter-Van Vehicles may display an optional external sticker, with the following inscription: "The choices you make behind the wheel matter." The dimensions of the sticker are 15 inches wide by 4 inches wide. The sticker may be obtained pursuant to the instructions on the Commission's website or through other appropriate means announced on the website. If displayed, the sticker must be placed on the Vehicle as follows:
+
+   (1) On the rear bumper of the vehicle.
+
+(h) Required Sticker. Each Commuter-Van Vehicle must display an internal safety sticker, with the following inscription: "ATTENTION: Assaulting A Driver Is Punishable By Up to Twenty-Five Years in Prison." The dimensions of the sticker are 8.0 inches wide by 2.0 inches high. The sticker must be obtained pursuant to the instructions on the Commission's website or through other appropriate means announced on the website. The sticker must be placed in the Vehicle as follows:
+
+   (1) Incorporated into the Commuter-Van Bill of Rights.
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 61B-27(h)(1)
+      - Fine: $50 if plead guilty before a hearing, $75 if found guilty following a hearing
+      - Appearance NOT Required
+~
+
+
+
+ 
+
+(i) Optional Sticker. Each Commuter-Van Vehicle may display an external safety sticker, with the following inscription: “Taxi and Limousine Drivers Are Protected By New York State Law ATTENTION: Assaulting A Driver Is Punishable By Up to Twenty-Five Years in Prison.” The dimensions of the sticker are 3.5 inches wide by 3.5 inches high. The sticker may be obtained pursuant to the instructions on the Commission’s website or through other appropriate means announced on the website. The sticker must be placed in the Vehicle as follows:
+
+   (1) Exterior, on a door or a side window.
+
+(j) Required Decal. Each Commuter-Van Vehicle with Hearing Induction Loop capability must display a Hearing Induction Loop Decal. The decal will feature the International Symbol of Access for Hearing Loss, described as the profile of an ear with a wide diagonal line running from the bottom left to the top right. The symbol contrast shall be light on dark or dark on light. A "T" will be placed in the lower right-hand corner of the decal. The decal will be placed as follows:
+
+   (1) As directed by the Chairperson. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 61B-27(j)(1)
+      - Fine: $50 if plead guilty before a hearing, $75 if found guilty following a hearing
+      - Appearance NOT Required
+~
+
+
+
+ 
+
+
+
+
+
+
+
+
+*§ 61B-28 Vehicles – Items Required to be in the Vehicle.* ::
+
+
+(a) Commuter-Van Vehicles must carry the following inside the Vehicle any time the Vehicle is in operation:
+
+   (1) The Commuter-Van Vehicle License;
+
+   (2) The Driver's Commuter-Van Driver's License;
+
+   (3) The Authorization to operate a Commuter-Van Service, or legible photocopy; and
+
+   (4) The Vehicle registration and evidence of current liability insurance.
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 61B-28(a)
+      - Fine: $25 per missing item; maximum penalty $50
+      - Appearance NOT Required
+~
+
+
+
+ 
+
+
+
+
+
+
+
+
+*§ 61B-29 Vehicle Equipment.* ::
+
+
+(a) Two-Way Radio. A Commuter-Van Vehicle Owner that uses a two-way radio or other communications system must be in compliance with all regulations of the Federal Communications Commission relating to the communication system. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 61B-29(a)
+      - Fine: $100
+      - Appearance NOT Required
+~
+
+
+
+ 
+
+
+
+
 Chapter 60: Paratransit Vehicles and Bases
 --------------------------------------------------
 
@@ -21774,3078 +24846,6 @@ NOTE: When the Electronic Trip Record System is operable, the Driver will use th
     * - 35 RCNY § 60B-33(c)(2)
       - Fine: $250
       - Appearance Required
-~
-
-
-
- 
-
-
-
-
-Chapter 61: Commuter Van Vehicles and Owners
---------------------------------------------------
-
-
-
-
-**Subchapter 61A: Commuter-Van Vehicle Owners**
-
-
-
-*§ 61A-01 Scope of this Sub-chapter.* ::
-
-
-(a) To establish the procedures and requirements for obtaining and maintaining a Commuter-Van Vehicle Owner's License.
-
-(b) To provide penalties for violation of the requirements of maintaining a Commuter-Van Vehicle Owner's License.
-
-(c) All Rules in this sub-chapter apply to the Commuter-Van Vehicle Owner, and the penalties included will be assessed against the Commuter-Van Vehicle Owner. When a Rule references that another party is also responsible, unless otherwise clearly stated, the responsibility is joint and several and both parties may be held entirely responsible for a violation of the Rule.
-
-
-
-
-
-
-*§ 61A-02 Penalties.* ::
-
-
-(a) Unlicensed Activity.
-
-   (1) Unlicensed Activity is the act of providing or advertising the provision of any Commission-regulated for hire transportation service by:
-
-      (i) Any Licensee whose License is suspended, revoked, expired and not yet renewed, or
-
-      (ii) Any person who does not hold a Valid License or Authorization from the Commission as a for hire driver, for the for hire vehicle, or for the for hire service, as applicable.
-
-   (2) Unlicensed Activity specifically includes the activities listed in § 19-506 and § 19-528 of the Administrative Code, and can subject the violator to the seizure and possible forfeiture of the vehicle involved.
-
-(b) Specific Penalties. If there are specific penalties for violating a Rule, they are shown at the end of the Rule. The penalty section also states whether the violator must attend the Hearing.
-
-(c) Payment of Fines.
-
-   (1) Fines are due not later than 30 days after the Respondent is found guilty of or pleads guilty to the violation, unless:
-
-      (i) the Respondent files an appeal of the decision issued by the Taxi and Limousine Tribunal within the time required by 48 RCNY Chapter 5, in which case the payment of the fines will be deferred until 30 days after the date of the appeal decision.
-
-   (2) If the fine is not paid by the close of business on the date due, the Commission will notify the Respondent in writing that the Respondent's License will be suspended in 10 business days of the date of the notification until the fine is paid, unless the Respondent demonstrates to the Commission, in person or in writing, that the fine has been paid.
-
-(d) Effect of Suspension or Revocation of Service Authorization on Affiliated Commuter-Van Vehicle Owners.
-
-   (1) Any Vehicle affiliated with a Commuter-Van Service whose Authorization has been suspended or revoked will have its License suspended or revoked if the suspension or revocation was based in whole or in part on the actions of the Commuter-Van Vehicle.
-
-   (2) If the suspension or revocation was not based on the actions of the Commuter-Van Vehicle, the Vehicle's License will remain Valid. However, the Vehicle must not operate until it has formed an affiliation with another authorized Commuter-Van Service.
-
-(e) Mandatory Penalties.
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - Section
-      - Violation
-      - Cumulative Criteria
-      - Penalty, after opportunity for Hearing
-    * - 35 RCNY § 61A-11(b)
-      - Failure to maintain proper insurance
-      - Failure to maintain the required liability insurance three or more times within one year.
-      - Revocation of Vehicle License
-    * - 35 RCNY § 61A-26
-      - Failure to comply with safety inspection requirements
-      - Operating without complying with any safety inspection requirement three or more times within one year.
-      - Revocation of Vehicle License
-~
-
-
-
- 
-
-
-
-
-
-
-*§ 61A-03 Definitions Specific to this Sub-chapter.* ::
-
-
-(a) Applicant in this Sub-chapter means an Applicant for an original or renewal Commuter-Van Vehicle License.
-
-(b) Authorization means the Commission's approval to operate a Commuter-Van Service within the geographic boundaries specified by the Commission.
-
-(c) Driver in this Sub-chapter refers to a Commuter-Van Vehicle Driver.
-
-(d) License in this Sub-chapter means a Commuter-Van Vehicle License.
-
-(e) Official Bus Route in this Sub-chapter means the route, including all stops, traveled upon by a bus line that is operated by:
-
-   (1) The New York City Transit Authority
-
-   (2) The City of New York, or
-
-   (3) A private bus company that has been approved by local law or Charter provision enacted in accordance with § 80-4* of the Transportation Law.
-
-(f) Owner in this Sub-chapter refers to a Commuter-Van Vehicle Owner. An Owner can be a Business Entity or a person. The term Owner in this Sub-chapter, in addition to complete ownership of the Vehicle, includes those individuals or entities with the following ownership interests:
-
-   (1) Entitlement to the use and possession of a Vehicle subject to a security interest held by another, regardless of the terms of the contract. (Owner does NOT include any party with a security interest in a Vehicle that is not in that party's possession.)
-
-   (2) The right, by any lessee or bailee, to exclusive use of the Vehicle for more than 30 days.
-
-(g) Vehicle, when used alone in this Sub-chapter, means a Licensed Commuter-Van Vehicle.
-
-
-
-
-
-
-
-
-*§ 61A-04 Licensing – General Requirements.* ::
-
-
-(a) [Reserved.] ID.
-
-(b) [Reserved.] Age.
-
-(c) Fingerprinting to Verify Good Moral Character.
-
-   (1) An Applicant for a Commuter-Van License must be fingerprinted for the purpose of securing criminal history records from the NYS Division of Criminal Justice Services.
-
-   (2) Fingerprints will be taken of all of the Applicant's Limited Business Entity Persons.
-
-   (3) If the Applicant intends to add or change any additional Limited Business Entity Persons, the Applicant must apply for the Commission's approval within five days of the change or addition.
-
-   (4) Any additional Limited Business Entity Persons must be fingerprinted either before or during the Commission's approval process.
-
-   (5) The Applicant must pay any processing fee required by the State.
-
-(d) Fitness to Hold License. No Commuter-Van License can be issued or renewed unless an Applicant demonstrates that the Applicant is Fit to Hold a License to operate a Commuter-Van Vehicle.
-
-(e) Designate Drivers as Agents for Service. An Applicant must agree that any Driver who operates one of Owner's Commuter-Van Vehicles will be considered an agent of the Owner for purposes of accepting service of any and all legal process issued by any department of the City of New York.
-
-(f) Vehicle Liability Insurance. No Commuter-Van Vehicle License will be issued or renewed unless the Applicant proves that the Vehicle is properly registered and has the insurance coverage required in 35 RCNY § 61A-11.
-
-(g) Forms and Filing. An application for a Commuter-Van Vehicle License or renewal must be submitted on forms provided by the Commission, signed by the applicant, and personally filed with the Commission.
-
-(h) Payment of Fines and Fees.
-
-   (1) An Applicant, including an applicant for a renewal License, must pay, and provide proof of payment of, any outstanding fines or fees owed by the Applicant to
-
-      (i) the Commission,
-
-      (ii) NYC Department of Finance's Parking Violations Bureau,
-
-      (iii) NYC Department of Finance's Red Light Camera Unit,
-
-      (iv) NYS DMV's Traffic Violations Bureau and
-
-      (v) any of their successor agencies.
-
-   (2) This requirement includes payment of fines and fees owed as of the date of the application by
-
-      (i) any Business Entity Persons of the Applicant
-
-      (ii) any Business Entity of which the Applicant is a Business Entity Person, and
-
-      (iii) any Business Entity of which a Business Entity Person of Applicant is also a Business Entity Person.
-
-   (3) An Applicant, including an Applicant for a renewal License, must pay any fines related to their failure to surrender a previously revoked License (of any type), unless the Applicant can demonstrate in person or in writing that the License has been surrendered.
-
-(i) Business Entities. An Applicant which is a Business Entity must provide the following documents:
-
-   (1) Partnerships. If the Applicant is a partnership, it must file with its application a certified copy of the partnership certificate from the clerk of the county where the partnership's principal place of business is located.
-
-   (2) Corporations. If the Applicant is a corporation, it must file with its application:
-
-      (i) A certified copy of its certificate of incorporation
-
-      (ii) A list of officers and shareholders
-
-      (iii) A certified copy of the minutes of the meeting at which the current officers were elected.
-
-   (3) Limited Liability Companies (LLCs). If the Applicant is a limited liability company, it must file with its application:
-
-      (i) A copy of its articles of organization
-
-      (ii) A copy of its operating agreement
-
-      (iii) A list of the members, with the percentages of the Applicant owned by each.
-
-(j) Address. An Applicant must give the Commission the Applicant's current Mailing Address.
-
-(k) Commercial Motor Vehicle Tax.
-
-   (1) An Applicant, including an applicant for a renewal License, must pay the Commercial Motor Vehicle Tax applicable to the Applicant's Vehicle. If the Applicant has not made payment to the NYS DMV, the Applicant must pay the Commercial Motor Vehicle Tax to the Commission.
-
-   (2) An Applicant who has already paid the Commercial Motor Vehicle Tax must provide proof of payment in the form of a copy of the New York State issued registration receipt or a receipt from the New York City Department of Finance.
-
-
-
-
-
-
-*§ 61A-05 Licensing – Term of License.* ::
-
-
-(a) New Licenses. The term of a new Vehicle License is two years.
-
-(b) Renewals. The renewal term of a Vehicle License is two years from the date on which the previous License expired.
-
-(c) When to File for Renewal.
-
-   (1) A renewing Applicant must file a completed application at least 30 days before the expiration date of the License. The review of applications submitted fewer than 30 days before the expiration date will not be completed until after the expiration date of the License. Licenses are not Valid after the License expiration date until the application for renewal is approved by the Commission.
-
-   (2) A renewing Applicant can file a completed application up to 60 days after the expiration date as a “late application", if the Applicant pays a late fee of $25. When a late application is submitted, the License will remain expired and not Valid until the application for renewal is approved by the Commission.
-
-   (3) Application Submission Date.
-
-      (i) Applications filed online: The date of submission is the date an application is filed online.
-
-      (ii) Applications filed in person: The date of submission is the date an application is filed in person.
-
-   (4) A License cannot be renewed more than 60 days after the expiration date.
-
-(d) Suspended Licenses.
-
-   (1) If a License is suspended, the Licensee must apply for renewal as required in (c) above if the Licensee wants to renew the License. Failure to complete the renewal requirements means that the License cannot be renewed.
-
-   (2) A License that is suspended is not Valid and cannot be used until the suspension ends. This is true even if the Applicant has filed an application for a renewal.
-
-
-
-
-
-
-
-
-*§ 61A-06 Licensing – Fees.* ::
-
-
-(a) Fee for License. The fee for a Commuter-Van Vehicle License will be $275 annually.
-
-(b) When Fee is Paid. The fee for an original or renewal License must be paid at the time the application is filed.
-
-(c) No Refund if Application Denied.
-
-   (1) The Commission will not refund the application fee if it denies or disapproves the application.
-
-   (2) However, if disapproval of the Vehicle License is based on disapproval of the affiliated Commuter-Van Service Authorization, the vehicle application fee will be refunded.
-
-(d) License Replacement Fee. The Commission will charge an additional fee of $25 for each License it issues to replace a lost or mutilated License.
-
-(e) Vehicle Transfer Fees.
-
-   (1) A Vehicle Licensee can change the Vehicle's affiliation from one Commuter-Van Service Authorization to another after approval by the Chairperson and payment of a $25 fee.
-
-   (2) A Vehicle Licensee can transfer the License from one vehicle to another after approval by the by the Chairperson and payment of a $25 fee.
-
-   (3) A Vehicle Licensee can replace the license plates on the Vehicle after approval by the Chairperson and payment of a $25 fee.
-
-   (4) A Vehicle Licensee can transfer the license plates from one vehicle to another after approval by the Chairperson and payment of a $25 fee.
-
-   (5) A Vehicle Licensee must pay a separate fee for each type of vehicle transfer. This is true even if the Vehicle Licensee wants to do several types of vehicle transfer all at one time.
-
-(f) Late Filing Fee. The Commission will charge an additional fee of $25 for a late filing of a renewal application, if it allows the filing at all.
-
-(g) Commercial Motor Vehicle Tax.
-
-   (1) For Licenses Issued on or after June 1, 2012 if Tax NOT paid to NYS DMV.
-
-      (i) The Commercial Motor Vehicle Tax for each Vehicle will be $800, to be paid with the application for the license.
-
-      (ii) No additional payment will be required for any replacement Vehicle during the renewal License Period.
-
-      (iii) If the Applicant paid the Commercial Motor Vehicle Tax directly to NYS DMV, this paragraph does not apply.
-
-   (2) At License Renewal for Licenses Expiring on or after June 1, 2012 if Tax NOT paid to NYS DMV.
-
-      (i) The Commercial Motor Vehicle Tax for each Vehicle will be $800 for each renewal License period. The tax must be paid with the renewal application.
-
-      (ii) No additional payment will be required for any replacement Vehicle during the renewal License Period.
-
-      (iii) If the Applicant paid the Commercial Motor Vehicle Tax directly to NYS DMV, this paragraph does not apply.
-
-   (3) Interim Payments for licenses expiring on or after June 1, 2012 and before June 1, 2014 if Tax NOT paid to NYS DMV. An interim payment of the Commercial Motor Vehicle Tax is due on June 1, 2012 for licenses expiring on or after June 1, 2012 and before June 1, 2014, provided that the Licensee has not paid the Commercial Motor Vehicle Tax to the NYS DMV.
-
-      (ii) The amount of the interim payment is: 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - If a license expires during:
-      - The licensee must make an interim payment of:
-    * - June, July or August 2012
-      - $100 
-    * - September, October or November 2012
-      - $200 
-    * - December 2012, January 2013 or February 2013
-      - $300 
-    * - March, April or May 2013
-      - $400 
-    * - June, July or August 2013
-      - $500 
-    * - September, October or November 2013
-      - $600 
-    * - December 2013, January 2014 or February 2014
-      - $700 
-    * - March, April or May 2014
-      - $800 
-~
-
- 
-
-   (4) Refunds.
-
-      (i) The Commission will not refund any payment of Commercial Motor Vehicle Tax.
-
-      (ii) Applications for refunds, including but not limited to refunds upon transfer, surrender or termination, must be made to the NYC Department of Finance. The application will be reviewed in accordance with the Administrative Code and the Rules of the NYC Department of Finance.
-
-
-
-
-
-
-*§ 61A-07 Licensing – Causes for Denial.* ::
-
-
-(a) Material Misrepresentation. The Commission can deny an application if the Applicant has made a material false statement or concealed a material fact relating to the application.
-
-(b) Conduct Prohibited by Rules. The Commission can deny an application if the Applicant has engaged in any conduct that would be a basis for suspension or revocation of the License under the Rules in this sub-chapter.
-
-(c) Failure to Complete Application Requirements.
-
-   (1) The Chairperson will deny an application for a new License if the Applicant has not completed all the requirements of an application within 45 days of the date the application is filed.
-
-   (2) The Chairperson will deny an application for a renewal License if the Applicant has not completed all the requirements of an application within 60 days of the expiration date of the prior License.
-
-   (3) The Chairperson will not deny an application under this Rule if completion is delayed because the Chairperson has not issued a final decision and the Applicant has complied with any requests made by the Chairperson.
-
-(d) Refusal to Renew. The Commission can refuse to renew a Commuter-Van Vehicle License for additional reasons, including but not limited to:
-
-   (1) The Applicant or any of its Limited Business Entity Persons or employees has violated any provision of these Rules or any of the rules relating to commuter van service in Chapter 5, Title 19 of the Administrative Code.
-
-   (2) The Applicant or any of its Limited Business Entity Persons or employees has engaged in any fraud or misrepresentation in connection with providing any transportation service.
-
-   (3) The Applicant or any of its Limited Business Entity Persons has failed to pay any penalty that has been properly imposed under these Rules.
-
-   (4) The Applicant or any of its Limited Business Entity Persons has been convicted of a crime that the Commission believes has a direct bearing upon the Applicant's fitness or ability to perform the functions required of a Commuter-Van Vehicle Owner, or has been convicted of any offense that under Article 23-A of the NYS Correction Law would provide a basis for the Commission to refuse to renew or to suspend or revoke a Commuter-Van Vehicle License.
-
-   (5) The Applicant has failed to maintain the conditions of operation that apply to Commuter-Van Vehicle License.
-
-   (6) The Applicant or any of its Limited Business Entity Persons or employees has engaged in discrimination according to the provisions of § 8-107 of the Administrative Code.
-
-(e) Additional Consideration of an Application. If a review of the application leads the Chairperson to believe that the Applicant may not be Fit to Hold a License, the Chairperson may seek additional information from the Applicant. This request for additional information may be an in-person interview, telephone call, letter, e-mail, or other method of communication. This additional consideration may result in the denial of the application. Failure to provide any requested information within the time frame requested, or failure to appear at a scheduled interview will result in a denial of the application.
-
-(f) Commercial Motor Vehicle Tax.
-
-   (1) The Commission will deny an application, including a renewal application, if the Applicant owes the Commercial Motor Vehicle Tax required under subdivision (e) of 35 RCNY§ 61A-13 of this Chapter on any Vehicle subject to the application.
-
-   (2) Payment of the Commercial Motor Vehicle Tax amount described in paragraph (1) of this subdivision is a condition to issuance of a License, including a renewal License, and the maintaining of such License.
-
-
-
-
-
-
-
-
-*§ 61A-08 Licensing – Transfer of License.* ::
-
-
-(a) Not Transferable. A Commuter-Van License is not assignable or transferable.
-
-
-
-
-
-
-*§ 61A-09 Licensing – Care of Licenses. [Reserved]* ::
-
-
-(a) Vehicle Must Be Licensed. A Commuter-Van Vehicle Owner must not allow a vehicle to be operated within the City of New York as a Commuter Van if the vehicle does not have a Valid License from the Commission. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 61A-10(a)
-      - Fine: $500 – first violation; $1,000 – subsequent violation within twenty-four months
-      - Appearance Required 
-~
-
-
-
- 
-
-(b) Vehicle Must Be Affiliated with Authorized Commuter-Van Service. A Commuter-Van Vehicle Owner must not allow Owner's Vehicle to be operated within the City of New York unless it is affiliated with a Validly Authorized Commuter-Van Service. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 61A-10(b)
-      - Fine: $1,000 – first violation; $2,000 – subsequent violation within twenty-four months
-      - Appearance NOT Required
-~
-
-
-
- 
-
-(c) Vehicle Must Be Registered and Insured. Failure to comply with the registration or insurance requirements established in this Sub-chapter will create an automatic License suspension as of the date the compliance lapsed, and any operation of the Vehicle during this time will be considered unlicensed activity. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 61A-10(c)
-      - Fine: $500 – first violation; $1,000 – subsequent violation within twenty-four months
-      - Appearance Required
-~
-
-
-
- 
-
-(d) Driver Must Be Licensed. The Commuter-Van Vehicle Owner is responsible for ensuring that anyone operating a Commuter-Van Vehicle in the operation of a Commuter-Van Service has:
-
-   (1) A Valid driver's license that qualifies as a Chauffeur's License, and
-
-   (2) A Valid Commuter-Van Driver's License.
-
-   (3) The License of an Owner who allows a Commuter Van to be operated by anyone without a valid Chauffer's License and a valid Commuter-Van Driver's License will be summarily suspended. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 61A-10(d)
-      - Fine: $500 and Suspension of Commuter-Van license until compliance
-      - Appearance Required
-~
-
-
-
- 
-
-(e) No Person Can Operate an Unlicensed Commuter-Van Vehicle or Service. No person is allowed to operate or to allow anyone else to operate a vehicle bearing the words "Commuter-Van service", "van service", "Commuter-Van", "van" or other similar designation unless:
-
-   (1) The vehicle is a Validly Licensed Commuter Van Vehicle
-
-   (2) The Vehicle is affiliated with a Validly Authorized Commuter-Van Service, and
-
-   (3) The Vehicle is driven by a Validly Licensed Commuter-Van Driver. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 61A-10(e)(1) and (3)
-      - Fine: $500 – first violation; $1,000 – subsequent violation within twenty-four months
-      - Appearance NOT Required
-    * - 35 RCNY § 61A-10(e)(2)
-      - Fine: $1,000 first violation; $2,000 subsequent violations within 24 months
-      - Appearance NOT Required
-~
-
-
-
- 
-
-(f) Special Procedures Relating to Unlicensed Commuter-Van Operations.
-
-   (1) The Commission will notify the NYS Commissioner of Motor Vehicles upon finding a person liable for:
-
-      (i) Operating a vehicle without a Valid Commuter-Van Vehicle License, or
-
-      (ii) Operating a vehicle that is not affiliated with an Authorized Commuter-Van Service.
-
-   (2) Until notified that the violation has been corrected, the Motor Vehicle Commissioner can:
-
-      (i) Suspend the vehicle's registration,
-
-      (ii) Deny any application for the vehicle's registration or registration renewal,
-
-      (iii) Take any other action permitted under law.
-
-   (3) The Commission will also notify the NYS Department of Finance.
-
-
-
-
-
-
-
-
-*§ 61A-11 Comply with Laws – Vehicle Insurance Coverage.* ::
-
-
-(a) Joint Responsibility. The Commuter-Van Vehicle Owner is liable for ensuring that every Commuter-Van Vehicle owned and operated by Owner is in compliance with the insurance requirements set forth in this 35 RCNY § 61A-11. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 61A-11(a)
-      - Fine: $300 and/or revocation of Commuter-Van license
-      - Appearance Required
-~
-
-
-
- 
-
-(b) Surety Bond or Policy of Insurance. No Commuter-Van Vehicle can be used in the operation of a Commuter-Van Service unless it is covered by a surety bond or a policy of insurance approved as to form by the Commission and issued by a solvent and responsible company authorized to do business in this State by the Superintendent of Insurance. Coverage must be in at least the following amounts:
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - Type of Liability
-      - Minimum Coverage Required
-      - 
-    * - Commuter-Van for 12 Passengers or Fewer 
-      - Commuter-Van for 13-20 Passengers
-      - 
-    * - • For personal injury or death to one person
-      - $100,000 
-      - $100,000 
-    * - • For personal injury or death to one person in one accident
-      - $300,000 
-      - $500,000 
-    * - • Maximum for each person in one accident
-      - $100,000 
-      - $100,000 
-    * - • For property damage
-      - $50,000 
-      - $50,000 
-~
-
-
-
- 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 61A-11(b)
-      - Fine: $300 and suspension until complianceThree or more violations within one year: License revocation (see Mandatory Penalties 35 RCNY § 61A-02(e))
-      - Appearance Required 
-~
-
-
-
- 
-
-(c) Remain in Effect Until Terminated. Surety bonds and certificates of insurance must specify that coverage will remain in effect continuously until terminated as provided in this Sub-chapter.
-
-(d) Conditions for Replacement of Bonds or Insurance. Surety bonds or certificates of insurance may be replaced, and the liability of the retiring surety or insurer will be considered terminated as of the effective date of its replacement, provided that the replacement surety bond or certificate of insurance meets all of the following conditions:
-
-   (1) The new surety bond or certificate of insurance is acceptable to the Commission.
-
-   (2) The Commuter-Van Service Owner or an authorized employee of the Commuter-Van service submits, in duplicate, a letter authorizing the replacement surety bond or certificate of insurance and verifying its effective date.
-
-   (3) The effective date must coincide with the effective date specified in the letter of authorization, and that date may not be more than 30 days before the date the Commission receives the letter of authorization and replacement certificate.
-
-(e) Provision for Continuing Liability. Every surety bond or certificate of insurance must contain a provision for a continuing liability after a claim has been successfully filed and recovered against the bond or insurance.
-
-(f) Notice of Cancellation to the Commission.
-
-   (1) Every surety bond or certificate of insurance must include a provision that cancellation will not be effective until at least 30 days after the Commission has been properly notified in writing of the party's intention to cancel.
-
-   (2) Proper notification must be given on or in the relevant Form K – Uniform Notice of Cancellation of Motor Carrier Insurance Policies or Form L – Uniform Notice of Cancellation of Motion Carrier Surety Bonds. Copies of these forms are available at Commission offices.
-
-   (3) If a cancelled insurance policy or bond is reinstated:
-
-      (i) A new certificate, in the form required by subdivision (d) of this section, must be filed with the Commission, and
-
-      (ii) The new certificate must have the relevant phrase "REINSTATEMENT OF INSURANCE POLICY" or "REINSTATEMENT OF BOND" typed or printed on it in capital letters, as shown.
-
-(g) Forms. Certificates of insurance and other forms necessary for filing can be obtained from the Commission.
-
-(h) Contract is Required. No surety bond or certificate of insurance can be filed with the Commission unless a direct contractual relationship exists between the Commuter-Van Vehicle Licensee (or the Authorized Commuter-Van Service) and the insurance or bonding company making the filing.
-
-(i) Commission's Right to Refuse. The Commission can at any time refuse to accept any surety bond or certificate of insurance if in the judgment of the Commission it does not provide adequate protection for the public.
-
-
-
-
-
-
-*§ 61A-12 Comply with Laws – Proper Conduct.* ::
-
-
-(a) No Bribery. An Applicant or Licensee must not directly or indirectly offer or give any gift, gratuity or thing of value to any employee, representative or member of the Commission or any other public servant who is charged with the administration or enforcement of this sub-chapter or any traffic rule or law. All administrative hearings on this matter will be referred to OATH. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 61A-12(a)
-      - Fine: $1,000 and/orsuspension or revocation
-      - Appearance Required
-~
-
-
-
- 
-
-(b) Report Request for Gift. A Licensee must immediately report to the Commission and to the New York City Department of Investigation any request or demand for a gift, gratuity or thing of value by any employee, representative or member of the Commission or any other public servant who is charged with the administration or enforcement of this sub-chapter or any traffic rule or law. All administrative hearings on this matter will be referred to OATH. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 61A-12(b)
-      - Fine: $1,000 and/orsuspension or revocation
-      - Appearance Required
-~
-
-
-
- 
-
-(c) No Threat or Use of Physical Force. While performing the duties and responsibilities of a Licensee or any act in connection with those duties, a Licensee must not use or attempt to use any physical force against a person or Service Animal and must not distract or attempt to distract any Service Animal. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 61A-12(c)
-      - Fine: $50 – $350 and/orsuspension or revocation
-      - Appearance Required
-~
-
-
-
- 
-
-(d) Report Criminal Conviction.
-
-   (1) A Licensee must notify the Commission within five calendar days after any criminal conviction of the Licensee, individually or, if the Licensee is a Business Entity, of any Limited Business Entity Person.
-
-   (2) The notice must be in writing and must be accompanied by a certified copy of the certificate of disposition issued by the clerk of the court explaining what happened as a result of the conviction. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 61A-12(d)
-      - Fine: $100
-      - Appearance NOT Required
-~
-
-
-
- 
-
-(e) Cooperate with the Commission. A Commuter-Van Vehicle Owner must:
-
-   (1) Truthfully answer all questions and comply with all communications, directives, and summonses issued by the Commission or its representatives. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 61A-12(e)(1)
-      - Fine: $300 and Suspension until compliance
-      - Appearance Required
-~
-
-
-
- 
-
-   (2) Produce or be responsible for instructing the Driver of Owner's Commuter-Van Vehicle to produce any documents required to be kept in the Commuter-Van upon the demand of the Commission or its representatives. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 61A-12(e)(2)
-      - Fine: $50-$150
-      - Appearance Required
-~
-
-
-
- 
-
-   (3) Produce any other document the Owner is required to keep no later than 10 days following a request from the Commission. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 61A-12(e)(3)
-      - Fine: $75-$350 and/orsuspension until compliance
-      - Appearance Required
-~
-
-
-
- 
-
-   (4) Aid the Commission to obtain information regarding any Commuter-Van Driver operating a Commuter-Van owned by the Owner. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 61A-12(e)(4)
-      - Fine: $75-$350 and/orsuspension until compliance
-      - Appearance Required
-~
-
-
-
- 
-
-   (5) Respond to any contact from the Commission within 48 hours, seven days a week. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 61A-12(e)(5)
-      - Fine: $500
-      - Appearance NOT Required
-~
-
-
-
- 
-
-(f) No Willful Acts of Omission. While performing the duties and responsibilities of a Commuter-Van Vehicle Owner, a Licensee must not deliberately fail to perform, alone or with another, any act where this failure is against the best interests of the public. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 61A-12 (f)
-      - Fine: $150-$350 and/orsuspension up to 30 days or revocation
-      - Appearance Required
-~
-
-
-
- 
-
-(g) No Willful Acts of Commission. While performing the duties and responsibilities of a Commuter-Van Vehicle Owner, a Licensee must not deliberately perform or attempt to perform, alone or with another, any act that is against the best interests of the public. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 61A-12 (g)
-      - Fine: $150-$350 and/orsuspension up to 30 days or revocation
-      - Appearance Required
-~
-
-
-
- 
-
-(h) Fraud, Misrepresentation, Theft. While performing the duties and responsibilities of a Commuter-Van Vehicle Owner, a Licensee must not commit or attempt to commit, any act of fraud, misrepresentation or theft. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 61A-12 (h)
-      - Fine: $350-$1,000 andsuspension up to 60 days or revocation
-      - Appearance Required
-~
-
-
-
- 
-
-(i) Facilitation of Sex Trafficking with a Vehicle. A Commuter-Van Vehicle Owner must not Facilitate Sex Trafficking with a Vehicle. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 61A-12(i)
-      - Fine: $10,000 and revocation.
-      - Appearance NOT Required
-~
-
-
-
- 
-
-(j)  Retaliation.
-
-   (1) A Commuter Van Vehicle Owner must not retaliate against any Driver for making a good faith complaint against any Owner.
-
-   (2) Retaliation will be broadly construed, and will include imposing any adverse condition or consequence on the Driver or withholding or withdrawing any beneficial condition or consequence from the Driver.
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 61A-12(j)
-      - Fine: $1,000 plus restitution to the driver for losses for the first violation and a fine of $10,000 plus restitution to the driver for the second violation within five years.
-      - Appearance NOT Required
-~
-
-
-
- 
-
-
-
-
-
-
-
-
-*§ 61A-13 Comply with Laws – Miscellaneous.* ::
-
-
-(a) Commission Rules. The following actions can result in suspension or revocation of an Owner's Commuter-Van Service Authorization:
-
-   (1) The Owner or any of its Limited Business Entity Persons or employees violates any provision of these Rules or any of the rules relating to Commuter-Van Vehicles or Service in Chapter 5, Title 19 of the Administrative Code.
-
-   (2) The Owner or any of its Limited Business Entity Persons or employees engages in any fraud or misrepresentation in connection with providing any transportation service.
-
-   (3) The Owner or any of its Limited Business Entity Persons fails to pay any penalty that has been properly imposed under these Rules.
-
-   (4) The Owner or any of its Limited Business Entity Persons is convicted of a crime that the Commission believes has a direct bearing upon the Owner's fitness or ability to perform the functions required of a Commuter-Van Service Owner.
-
-   (5) The Owner fails to maintain the conditions of operation that apply to Commuter-Van Vehicle Owners.
-
-   (6) The Owner or any of its Limited Business Entity Persons or employees engages in discrimination according to the provisions of § 8-107 of the Administrative Code.
-
-(b) Workers Compensation. A Commuter-Van Vehicle Owner must comply with all provisions of the NYS Workers' Compensation Law and regulations with respect to coverage of and benefits to eligible persons. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 61A-13(b)
-      - Fine: $25 for each day of non-compliance, and either suspension until compliance or license revocation.
-      - Appearance Required
-~
-
-
-
- 
-
-(c) Disability Laws. The Commuter-Van Vehicle Owner must ensure that all new Commuter-Van Vehicles comply with the applicable provisions of law regarding accessibility to Persons with Disabilities. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 61A-13(c)
-      - Fine: $200-$350
-      - Appearance Required
-~
-
-
-
- 
-
-(d) Motor Vehicle Registration Laws. A Commuter-Van Vehicle Owner must ensure that no Commuter-Van Vehicle is used in the operation of a Commuter-Van Service unless the Vehicle is in compliance with the registration requirements of the NYS Vehicle and Traffic Law. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 61A-13(d)
-      - Fine: $300 and suspension of the Commuter-Van license until compliance
-      - Appearance Required
-~
-
-
-
- 
-
-(e) Commercial Motor Vehicle Tax.
-
-   (1) An Owner must pay the Commercial Motor Vehicle Tax due as described in paragraphs (2) and (3) of this subdivision on an Owner's Vehicle as and when required by the Commission in these Rules.
-
-   (2) An Owner must pay the amounts required in subdivision (g) of 35 RCNY § 61A-06, including interim payments if any.
-
-   (3) An Owner must also pay any additional Commercial Motor Vehicle Tax amount for any tax year or period which the New York City Department of Finance has notified the Commission is due and unpaid. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 61A-13(e)
-      - Fine: $400 and suspensionuntil compliance
-      - Appearance NOT Required 
-~
-
-
-
- 
-
-
-
-
-
-
-*§ 61A-14 Operations – Business Premises. [Reserved]* ::
-
-
-(a) No Pick-Ups Outside Authorized Area. No Commuter-Van Vehicle Owner will permit the pick up or discharge of passengers outside of the geographical area established in the Commuter-Van Service Owner's Authorization.
-
-(b) No Pick-Ups Along Bus Routes.
-
-   (1) Restriction. No Commuter-Van Vehicle Owner will permit the pick up or discharge of passengers along any Official Bus Route.
-
-   (2) Grandfathered Exception.
-
-      (i) This restriction will not apply to the pick up and discharge of passengers along bus routes in Manhattan, south of Chambers Street, by Commuter-Van Service Owners that had authority on July 1, 1992 from the NYS Department of Transportation to pick up and discharge passengers along bus routes in that area.
-
-      (ii) The scope of operations by the exempted Commuter-Van Service, however, must not exceed the scope of its operations prior to July 1, 1992. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 61A-16(a), (b)
-      - Fine: $50 if plead guilty before a hearing; $100 if found guilty following a hearing.
-      - Appearance NOT Required
-~
-
-
-
- 
-
-(c) Service Must Be Pre-Arranged. No Commuter-Van Vehicle Owner will permit transportation service unless the service is prearranged.
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 61A-16(c)
-      - Fine: $50 if plead guilty before a hearing; $75 if found guilty following a hearing.
-      - Appearance NOT Required
-~
-
-
-
- 
-
-(d) Multiple Person Liability. The Commuter-Van Vehicle Owner is liable for violating this 35 RCNY § 61A-16 even when the actual violation has been unilaterally committed by the Commuter-Van Driver.
-
-(e) Clean Vehicle. A Commuter-Van Vehicle Owner must keep the Vehicle clean inside and out. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 61A-16(e)
-      - Fine: $50
-      - Appearance NOT Required
-~
-
-
-
- 
-
-
-
-
-
-
-
-
-*§ 61A-17 Operations – Responsibility with Respect to Drivers.* ::
-
-
-(a) Prohibit Disability Discrimination by Drivers. A Vehicle Owner must not allow a Driver to discriminate unlawfully against Persons with Disabilities. Such discrimination includes, but is not limited to:
-
-   (1) Refusing to serve Persons with Disabilities,
-
-   (2) Refusing to load and unload the mobility aids of Persons with Disabilities, and
-
-   (3) Imposing any charge in addition to the authorized fare for the transportation of Persons with Disabilities, service animals, wheelchairs, or other mobility aids.
-
-(b) Multiple Person Liability. The Commuter-Van Vehicle Owner will be liable for violating this Rule even when the actual violation has been unilaterally committed by the Commuter-Van Driver. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 61A-17
-      - Fine: $200-$350
-      - Appearance Required
-~
-
-
-
- 
-
-
-
-
-
-
-*§ 61A-18 Records – Trip Record Information. [Reserved]* ::
-
-
-
-
-
-
-
-
-
-*§ 61A-19 Records – Current Contact Information.* ::
-
-
-(a) Current Phone Number for Immediate Access. A Commuter-Van Vehicle Owner must maintain on file with the Commission a current telephone number (connected to an answering machine or recording device), pager number, answering service number or a number for any similar means of telephone contact that allows the Vehicle Owner to be reached by the Commission on a 24-hour basis. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 61A-19(a)
-      - Fine: $100
-      - Appearance NOT Required
-~
-
-
-
- 
-
-(b) Mailing Address and E-mail Address.
-
-   (1) A Commuter-Van Vehicle Owner must have a current E-mail Address at all times.
-
-   (2) A Commuter-Van Vehicle Owner must report any change of Mailing Address or E-mail address to the Commission in person or by mail within ten days.
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 61A-19(b)(2)
-      - Fine: $100
-      - Appearance NOT Required
-~
-
-
-
- 
-
-   (3) Any communication from the Commission is sufficient if sent to the last Mailing Address provided by the Commuter-Van Vehicle Owner.
-
-
-
-
-
-
-
-
-*§ 61A-20 Records – Additional Records to be Maintained. [Reserved]* ::
-
-
-(a) Advertising Must State Commission Licensed and Authorized. No one is permitted to advertise Commuter-Van services unless the advertisement states CONSPICUOUSLY that the Commuter-Van Vehicle is Licensed by the Commission and includes the affiliated Commuter-Van Service Authorization number. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 61A-24(a)
-      - Fine: $50
-      - Appearance NOT Required
-~
-
-
-
- 
-
-
-
-
-
-
-*§ 61A-25 Vehicle Condition – Inspections.* ::
-
-
-(a) Inspection by NYS Department of Transportation. A Commuter-Van Vehicle must not be operated as a Commuter-Van Vehicle unless it has been inspected by the NYS Department of Transportation. Provisions and requirements for this inspection can be found in the safety provisions (§ 140) of the NYS Transportation Law or as modified by an agreement between the NYS Department of Transportation and the Commission, as provided in NYS Transportation Law § 80(5)(a)(1). 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 61A-25(a)
-      - Fine: $300
-      - Appearance NOT Required
-~
-
-
-
- 
-
-(b) Display Inspection Certificate. All Commuter-Van Vehicles must display the inspection certificate. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 61A-25(b)
-      - Fine: $100
-      - Appearance NOT Required
-~
-
-
-
- 
-
-
-
-
-
-
-*§ 61A-26 Vehicle Condition – Meets Safety Standards.* ::
-
-
-(a) No Commuter-Van Vehicle can be used in a Commuter-Van Service unless it meets the vehicle safety standards prescribed by rule or regulation of the NYS Commissioner of Transportation according to § 140 of the NYS Transportation Law. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 61A-26(a)
-      - Fine: $100-$500 and/or suspension or revocation of Commuter-Van LicenseThree or more violations within one year: License revocation (see Mandatory Penalties 35 RCNY § 61A-02(e))
-      - Appearance Required
-~
-
-
-
- 
-
-(b) Seat Belts. Each Commuter-Van Vehicle must have seat belts that are clearly visible, accessible, and in good working order. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 61A-26(b)
-      - Fine: $100
-      - Appearance NOT Required
-~
-
-
-
- 
-
-(c) [Reserved.] Shoulder Belts Required.
-
-(d) [Reserved.] Correct Defect Directives.
-
-(e) [Reserved.] Daily Personal Inspection by Owner.
-
-
-
-
-
-
-*§ 61A-27 Vehicles – Markings and Displays.* ::
-
-
-(a) Required Exterior ID Markings. All Commuter-Van Vehicles must have the following information conspicuously painted on each side of the exterior of the Vehicle in letters at least 3 inches in height:
-
-   (1) The exact name and address of the Commuter-Van Service next to the word OPERATOR;
-
-   (2) The Commuter-Van Vehicle Owner's exact name next to the word OWNER; and
-
-   (3) A Vehicle License number. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 61A-27(a)
-      - Fine: $50
-      - Appearance NOT Required
-~
-
-
-
- 
-
-   (4) The required information must be in English. The information can also be in another language.
-
-(b) Required Interior ID Markings.
-
-   (1) A sign with the information listed above (in subdivision (a)) must be placed in the interior of the Vehicle clearly visible from all Passenger seats in the Vehicle.
-
-   (2) The sign must include the statement that any complaints can be submitted to the Taxi and Limousine Commission by calling "311" or through the Commission's website: http://nyc.gov/taxi. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 61A-27(b)
-      - Fine: $50
-      - Appearance NOT Required
-~
-
-
-
- 
-
-   (3) The required information must be in English. The information can also be in another language.
-
-(c) Valid Commission Decal.
-
-   (1) Each time a Commuter-Van Vehicle License is issued or renewed or transferred to a new Vehicle, the Vehicle must be taken to a Commission inspection facility to have four decals affixed to the Vehicle.
-
-   (2) No Commuter-Van Vehicle License is Valid unless the Vehicle has the appropriate, undamaged decals in each of the following locations:
-
-      (i) The lower right corner of the front windshield
-
-      (ii) The center of the rear window
-
-      (iii) One on each of the rear-most side windows. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 61A-27(c)
-      - First violation in a 1-monthperiod: $500Second and subsequent violations within a 12-month period: $1,000 and suspension of the Commuter-Van License until compliance
-      - Appearance NOT Required
-~
-
-
-
- 
-
-(d) Commuter Van Decal.
-
-   (1) All Commuter Van vehicles must permanently affix and display the Commuter Van Decal, whose dimensions are 21.7 inches wide by 11 inches high, and the TLC License Number Decal, whose dimensions are 2.5 inches high:
-
-      (i) Driver side front door (Required).
-
-         A. Commuter Van Decal. The decal must be placed centered left to right and located in the upper half of the flat surface between the door trim and door handle and parallel to the door trim.
-
-         B. License Number Decal. The decal must be placed centered left to right and horizontally below the Commuter Van Decal.
-
-      (ii) Passenger side front door (Required).
-
-         A. Commuter Van Decal. The decal must be placed centered left to right and located in the upper half of the flat surface between the door trim and door handle and parallel to the door trim.
-
-         B. License Number Decal. The decal must be placed centered left to right and horizontally below the Commuter Van Decal.
-
-   (2) All Commuter Van vehicles may permanently affix and display on the rear door of the vehicle an optional Commuter Van Decal, whose dimensions are 21.7 inches wide by 11 inches high, , and an optional TLC License Number Decal, whose dimensions are 2.5 inches high:
-
-      (i) Rear door (Optional).
-
-         A. Commuter Van Decal. The decal must be placed centered left to right and located in the upper half of the flat surface between the door trim and door handle and parallel to the door trim.
-
-         B. License Number Decal. The decal must be placed centered left to right and horizontally below the Commuter Van Decal.
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 61A-27(d)
-      - Fine: $100
-      - Appearance NOT Required
-~
-
-
-
- 
-
-(e) Vehicle Cannot Be Yellow. A Commuter-Van Vehicle must not be operated in a Commuter-Van Service if the Vehicle is painted, in whole or in part, any shade of taxicab yellow.
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 61A-27(e)
-      - Fine: $100
-      - Appearance NOT Required
-~
-
-
-
- 
-
-(f) Required Sticker. Each Commuter-Van Vehicle must display an internal safety sticker, with the following inscription: "Turning? People are Crossing." The dimensions of the sticker are 3.5 inches wide by 2.5 inches high. The sticker must be obtained pursuant to the instructions on the Commission's website or through other appropriate means announced on the website. The sticker must be placed in the Vehicle as follows:
-
-   (1) On the inside of the front windshield, in the center and adjacent to the top of the windshield directly behind the rearview mirror.
-
-   (2) In such a manner not to obstruct the driver's view. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 61A-27(f)(1) and (2)
-      - Fine: $75
-      - Appearance NOT Required
-~
-
-
-
- 
-
-(g) Optional Sticker. Commuter-Van Vehicles may display an optional external sticker, with the following inscription: "The choices you make behind the wheel matter." The dimensions of the sticker are 15 inches wide by 4 inches wide. The sticker may be obtained pursuant to the instructions on the Commission's website or through other appropriate means announced on the website. If displayed, the sticker must be placed on the Vehicle as follows:
-
-   (1) On the rear bumper of the vehicle.
-
-(h) Required Sticker. Each Commuter-Van Vehicle must display an internal safety sticker, with the following inscription: "ATTENTION: Assaulting A Driver Is Punishable By Up to Twenty-Five Years in Prison." The dimensions of the sticker are 8.0 inches wide by 2.0 inches high. The sticker must be obtained pursuant to the instructions on the Commission's website or through other appropriate means announced on the website. The sticker must be placed in the Vehicle as follows:
-
-   (1) Incorporated into the Commuter-Van Bill of Rights.
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 61A-27(h)(1)
-      - Fine: $50 if plead guilty before a hearing, $75 if found guilty following a hearing
-      - Appearance NOT Required
-~
-
-
-
- 
-
-(i)  Optional Sticker. Each Commuter-Van Vehicle may display an external safety sticker, with the following inscription: “Taxi and Limousine Drivers Are Protected By New York State Law ATTENTION: Assaulting A Driver Is Punishable By Up to Twenty-Five Years in Prison.” The dimensions of the sticker are 3.5 inches wide by 3.5 inches high. The sticker may be obtained pursuant to the instructions on the Commission’s website or through other appropriate means announced on the website. The sticker must be placed in the Vehicle as follows:
-
-   (1) Exterior, on a door or a side window.
-
-(j) Required Decal. Each Commuter-Van Vehicle with Hearing Induction Loop capability must display a Hearing Induction Loop Decal. The decal will feature the International Symbol of Access for Hearing Loss, described as the profile of an ear with a wide diagonal line running from the bottom left to the top right. The symbol contrast shall be light on dark or dark on light. A "T" will be placed in the lower right-hand corner of the decal. The decal will be placed as follows:
-
-   (1) As directed by the Chairperson. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 61A-27(j)(1)
-      - Fine: $50 if plead guilty before a hearing, $75 if found guilty following a hearing
-      - Appearance NOT Required
-~
-
-
-
-
-
-
-
-
-
-
-*§ 61A-28 Vehicles – Items Required to be in the Vehicle.* ::
-
-
-(a) Commuter-Van Vehicles must carry the following inside the Vehicle any time the Vehicle is in operation:
-
-   (1) The Commuter-Van Vehicle License;
-
-   (2) The Driver's Commuter-Van Driver's License (this must be mounted in a protective holder behind the Driver's seat);
-
-   (3) The Authorization to operate a Commuter-Van Service, or a legible photocopy; and
-
-   (4) The Vehicle registration and evidence of current liability insurance.
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 61A-28(a)
-      - Fine: $25 per missing item; maximum penalty $50
-      - Appearance NOT Required
-~
-
-
-
- 
-
-(b) Commuter-Van Passengers' Bill of Rights.
-
-   (1) Every Vehicle Owner must post a Commuter-Van Passengers' Bill of Rights in a form and format prescribed by the Commission.
-
-   (2) The Commission will post the proper form and format on its Web site or will provide the information through other appropriate means that will be posted on its Web site.
-
-   (3) The Commuter-Van Passengers' Bill of Rights must be placed in a protective holder attached to the back of the front Passenger's seat. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 61A-28(b)
-      - Fine: $100
-      - Appearance NOT Required
-~
-
-
-
- 
-
-
-
-
-
-
-
-
-*§ 61A-29 Vehicle Equipment.* ::
-
-
-(a) Two-Way Radio. A Commuter-Van Vehicle Owner that uses a two-way radio or other communications system must be in compliance with all regulations of the Federal Communications Commission relating to the communication system. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 61A-29(a)
-      - Fine: $100
-      - Appearance NOT Required
-~
-
-
-
- 
-
-(b) Heating and Air Conditioning. A Commuter-Van Vehicle must be equipped with functioning heating and air conditioning equipment. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 61A-29(b)
-      - Fine: $50
-      - Appearance NOT Required
-~
-
-
-
- 
-
-
-
-
-
-
-
-**Subchapter 61B: Commuter-Van Service Owners**
-
-
-
-*§ 61B-01 Scope of this Sub-chapter.* ::
-
-
-(a) To establish the procedures and requirements for obtaining and maintaining Authorization for a Commuter-Van Service.
-
-(b) To provide penalties for violation of the requirements of maintaining Authorization for a Commuter-Van Service.
-
-(c) The Rules in this sub-chapter apply, primarily, to the Commuter-Van Service Owner. When a Rule references that another party is also responsible, unless otherwise clearly stated, the responsibility is joint and several and both parties may be held entirely responsible for a violation of the Rule.
-
-
-
-
-
-
-*§ 61B-02 Penalties.* ::
-
-
-(a) Unlicensed Activity.
-
-   (1) Unlicensed Activity is the act of providing or advertising the provision of any Commission-regulated for hire transportation service by:
-
-      (i) Any Licensee or holder of an Authorization whose License or Authorization is suspended, revoked, or expired and not yet renewed, or
-
-      (ii) Any person who does not hold a Valid License or Authorization from the Commission as a for hire driver, or for the for hire vehicle, or for the for hire service, as applicable.
-
-(b) Specific Penalties. If there are specific penalties for violating a Rule, they are shown at the end of the Rule. The penalty section also states whether the violator must attend the Hearing.
-
-(c) Payment of Fines.
-
-   (1) Fines are due not later than 30 days after the Respondent is found guilty of or pleads guilty to the violation, unless:
-
-      (i) the Respondent files an appeal of the decision issued by the Taxi and Limousine Tribunal within the time required by 48 RCNY Chapter 5, in which case the payment of the fines will be deferred until 30 days after the date of the appeal decision.
-
-   (2) If the fine is not paid by the close of business on the date due, the Commission will notify the Respondent in writing that the Respondent's License will be suspended in 10 business days of the date of the notification until the fine is paid, unless the Respondent demonstrates to the Commission, in person or in writing, that the fine has been paid.
-
-(d) Mandatory Penalties.
-
-   (1) The following cumulative violations will result in mandatory revocation:
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - Section
-      - Violation
-      - Cumulative Criteria
-      - Penalty, after opportunity for Hearing
-    * - 35 RCNY § 61B-11(b)
-      - Failure to maintain proper insurance
-      - Each of a group of 30% of the total number of Vehicles affiliated with the Service violates three or more times within 12 months
-      - Revocation of Service Authorization
-    * - 35 RCNY § 61B-26
-      - Failure to comply with any safety inspection requiremen
-      - Each of a group of 30% of the total number of Vehicles affiliated with the Service violates three or more times within 12 months
-      - Revocation of Service Authorization
-    * - 35 RCNY § 61B-10(a)
-      - Operating a Vehicle without a Commuter-Van Drivers License
-      - Any Driver driving for the Service commits three or more violations within six months
-      - Revocation of Service Authorization
-    * - 35 RCNY § 61B-10(c)
-      - Drivers operating a vehicle without any one of the licenses necessary to operate a Commuter Van
-      - The number of violations is equal to 90% (rounded up) of the Service's Vehicles, or 5, whichever is greater
-      - Revocation of Service Authorization
-~
-
-
-
- 
-
-   (2) A Service that has had its Authorization revoked under any of these mandatory penalties is not permitted to apply for a new Authorization for a period of six months after the date of revocation.
-
-
-
-
-
-
-*§ 61B-03 Definitions Specific to this Sub-chapter.* ::
-
-
-(a) Applicant in this Sub-chapter means an applicant for an original Commuter-Van Service Authorization or its renewal.
-
-(b) Authorization means the Commission's approval to operate a Commuter-Van Service within the geographic boundaries specified by the Commission. An Authorization is a License.
-
-(c) Business Entity is a sole proprietorship, partnership, limited liability company or corporation.
-
-(d) Driver in this Sub-chapter refers to a Commuter-Van Vehicle Driver.
-
-(e) Finding of Public Need means a determination that a Commuter-Van Service being proposed will be required either now or in the future for the convenience and necessity of the public.
-
-(f) Limited Business Entity Persons are all Business Entity Persons except shareholders holding less than 10% of the stock of the Business Entity.
-
-(g) New York City will be abbreviated NYC or the City.
-
-(h) New York State will be abbreviated NYS.
-
-(i) Official Bus Route in this Sub-chapter means the route, including all stops, traveled upon by a bus line that is operated by:
-
-   (1) The New York City Transit Authority
-
-   (2) The City of New York, or
-
-   (3) A private bus company that has been approved by local law or Charter provision enacted in accordance with § 80-4 of the Transportation Law.
-
-(j) Owner, when used alone in this Sub-chapter, means a Commuter-Van Service Owner.
-
-(k) Vehicle, when used alone in this Sub-chapter, means a Licensed Commuter-Van Vehicle.
-
-
-
-
-
-
-
-
-*§ 61B-04 Authorization – Requirements.* ::
-
-
-(a) [Reserved.] ID.
-
-(b) [Reserved.] Age.
-
-(c) Fingerprinting to Verify Good Moral Character.
-
-   (1) An Applicant for a new Service Authorization must be fingerprinted for the purpose of securing criminal history records from the NYS Division of Criminal Justice Services.
-
-   (2) An Applicant for a renewal of a Service Authorization must be fingerprinted when a new Finding of Public Need is also required.
-
-   (3) Fingerprints will be taken of all of the Applicant's Limited Business Entity Persons.
-
-   (4) If the Applicant intends to add or change any additional Limited Business Entity Persons, the Applicant must apply for the Commission's approval within five days of the change or addition, and those additional Limited Business Entity Persons must be fingerprinted either before or during the Commission's approval process.
-
-   (5) The Applicant must pay any processing fee required by the State.
-
-(d) Fitness to Hold Authorization. No Commuter-Van Service Authorization can be issued or renewed unless an Applicant demonstrates to the satisfaction of the Commission that the Applicant is Fit to Hold a License (Authorization) to operate a Commuter-Van Service.
-
-(e) Designate Driver as Agent for Service. An Applicant must agree that any Commuter-Van Driver who drives for Owner's Commuter-Van Service will be considered an agent of the Service Owner for purposes of accepting service of any and all legal process issued by any department of the City of New York.
-
-(f) Forms and Filing. An application for a Commuter-Van Service Authorization or renewal must be submitted on forms provided by the Commission, signed by the applicant, and personally filed with the Commission.
-
-(g) Certification of Compliance with ADA. An applicant for an Authorization to operate a Commuter-Van Service or its renewal must certify by affidavit, annually, that the Commuter-Van Service is in compliance with Title III of the Federal Americans With Disabilities Act of 1990 (42 U.S.C. §§ 12101 et seq.).
-
-(h) Certification of Compliance with Federal Omnibus Testing Act. An Applicant for an Authorization to operate a Commuter-Van Service or for its renewal must certify by affidavit, annually, that the Commuter-Van Service is in compliance with all applicable provisions of section 5 of the Federal Omnibus Transportation Testing Act of 1991 , as amended, and all regulations relating to the Act.
-
-(i) A "Finding of Public Need".
-
-   (1) The Commission cannot issue an Authorization to operate a Commuter-Van Service unless the NYC Commissioner of Transportation makes a Finding of Public Need.
-
-   (2) Role of the Commission:
-
-      (i) The Commission will forward any new application for Authorization to operate a Commuter-Van Service (or a renewal application that requires a new Finding of Public Need) to the NYC Commissioner of Transportation.
-
-      (ii) The application must include the following information:
-
-         A. The geographic area proposed to be served by the Applicant;
-
-         B. The maximum number of vehicles to be operated; and
-
-         C. The capacity of each vehicle.
-
-      (iii) The Applicant has the burden of demonstrating that the proposed service will be required now or in the future for the convenience and necessity of the public.
-
-   (3) Role of the NYC Commissioner of Transportation.
-
-      (i) The Commissioner of Transportation may request that the Applicant provide additional information relevant to his or her determination but shall not require statements of public support as part of the application.
-
-      (ii) The Commissioner of Transportation must:
-
-         A. Consult with the NYS Department of Transportation,
-
-         B. Provide a notice of the application for publication in the City Record
-
-         C. Allow for public comment for a period not to exceed 60 days after the date of publication of the notice.
-
-         D. Notify the New York City Transit Authority and all City Council members and community boards representing any portion of the geographic area set forth in the application.
-
-      (iii) If a city bus line or the New York City Transit Authority initiates a protest by timely submitting objections to the application for a Finding of Public Need, the Commissioner of Transportation will evaluate their objections as follows:
-
-         A. The adequacy of the existing transit and mass transportation facilities to meet the transportation needs of any particular segment of the general public for the proposed service; and
-
-         B. The impact that the proposed operation may have on any existing transit or mass transportation facilities.
-
-      (iv) If the Commissioner of Transportation makes a Finding of Public Need, the Finding must specify the geographic area where service is authorized and the number of Commuter-Van Vehicles authorized to be used in providing the service.
-
-   (4) Term of a Finding of Public Need.
-
-      (i) A Finding of Public Need will be in effect until the Authorization granted by the Commission is revoked or such determination of the Finding of Public Need is revoked by the Commissioner of Transportation.
-
-      (ii) Upon the revocation of an authorization, no authorization to operate a commuter Van service shall be renewed unless a new determination of public need is made by the Commissioner of Transportation.
-
-(j) Payment of Fines and Fees.
-
-   (1) An Applicant, including an applicant for a renewal License, must pay, and provide proof of payment of, any outstanding fines or fees owed by the Applicant to
-
-      (i) the Commission,
-
-      (ii) NYC Department of Finance's Parking Violations Bureau,
-
-      (iii) NYC Department of Finance's Red Light Camera Unit,
-
-      (iv) NYS DMV's Traffic Violations Bureau and
-
-      (v) any of their successor agencies.
-
-   (2) This requirement includes payment of fines and fees owed as of the date of the application by
-
-      (i) any Business Entity Persons of the Applicant
-
-      (ii) any Business Entity of which the Applicant is a Business Entity Person, and
-
-      (iii) any Business Entity of which a Business Entity Person of Applicant is also a Business Entity Person.
-
-   (3) An Applicant, including an Applicant for a renewal License, must pay any fines related to their failure to surrender a previously revoked License (of any type), unless the Applicant can demonstrate in person or in writing that the License has been surrendered.
-
-(k) Business Entities. An Applicant which is a Business Entity must provide the following documents:
-
-   (1) Partnerships. If the Applicant is a partnership, it must file with its application a certified copy of the partnership certificate from the clerk of the county where the partnership's principal place of business is located.
-
-   (2) Corporations. If the Applicant is a corporation, it must file with its application:
-
-      (i) A certified copy of its certificate of incorporation
-
-      (ii) A list of officers and shareholders
-
-      (iii) A certified copy of the minutes of the meeting at which the current officers were elected.
-
-   (3) Limited Liability Companies (LLCs). If the Applicant is a limited liability company, it must file with its application:
-
-      (i) A copy of its articles of organization
-
-      (ii) A copy of its operating agreement
-
-      (iii) A list of the members, with the percentages of the Applicant owned by each.
-
-(l) Address. An Applicant must give the Commission the Applicant's current Mailing Address and Email Address.
-
-
-
-
-
-
-
-
-*§ 61B-05 Authorization – Term of Authorization.* ::
-
-
-(a) New Authorizations. A new Commuter-Van Service Authorization will remain in effect until the authorization is revoked by the Commission or by the Commissioner of Transportation.
-
-(b) TLC License Renewals. The renewal term of the TLC license is two years from the date on which the previous license expired.
-
-(c) No Temporary Authorization. The Commission will not issue a temporary authorization to operate a Commuter-Van Service.
-
-(d) When to File for Renewal.
-
-   (1) A renewing Applicant must file a completed application at least 60 days before the expiration date of the license.
-
-   (2) Application Submission Date.
-
-      (i) Applications filed online: The date of submission is the date an application is filed online.
-
-      (ii) Applications filed by mail: The date of submission is the postmark date.
-
-      (iii) Applications filed in person: The date of submission is the date an application is filed in person.
-
-   (3) The Commission will not accept a renewal application after the expiration date of the license. If the application is not filed before the expiration date, the license cannot be renewed.
-
-(e) Suspended Licenses.
-
-   (1) If an Authorization is suspended, the Licensee must file for renewal as required in (c) above if the Licensee wants to renew the Authorization. Failure to complete the renewal requirements means that the Authorization cannot be renewed.
-
-   (2) An Authorization that is suspended is not Valid and cannot be used until the suspension ends. This is true even if the Applicant has filed an application for a renewal.
-
-
-
-
-
-
-
-
-*§ 61B-06 Authorization Fees.* ::
-
-
-(a) Fee for Authorization. The fee for a Commuter Van Service Authorization will be $275 annually.
-
-(b) When Fee is Paid. The fee for an original or renewal Authorization must be paid at the time the application is filed.
-
-(c) No Refund if Application Denied. The Commission will not refund fees if it denies or disapproves the application.
-
-(d) Authorization Replacement Fee. The fee to replace any lost, damaged or destroyed Authorization is $25.
-
-
-
-
-
-
-
-
-*§ 61B-07 Authorization – Causes for Denial.* ::
-
-
-(a) Material Misrepresentation. The Commission can deny an application for Authorization if the Applicant has made a material false statement or concealed a material fact relating to the information required on the application.
-
-(b) Conduct Prohibited by Rules. The Commission can deny an application if the Applicant has engaged in any conduct that would be a basis for suspension or revocation of the Authorization under the Rules in this sub-chapter.
-
-(c) Prior Unlicensed Activity. The Commission will deny an application for an Authorization if the Applicant has been found guilty of operating a Commuter-Van Service without Authorization two times within a six-month period prior to the date of application.
-
-(d) Failure to Complete Application Requirements.
-
-   (1) The Chairperson will deny an application for a new Authorization if the Applicant has not completed all the requirements of an application within 90 days of the date the application is filed.
-
-   (2) The Chairperson will deny an application for a renewal Authorization if the Applicant has not completed all the requirements of an application by the expiration date of the prior Authorization.
-
-   (3) The Chairperson will not deny an application under this Rule if completion is delayed because the Chairperson has not issued a final decision and the Applicant has complied with any requests made by the Chairperson.
-
-(e) Refusal to Renew. The Commission may refuse to renew a Commuter-Van Service Authorization for additional reasons, including but not limited to:
-
-   (1) The Applicant or any of its Limited Business Entity Persons or employees has violated any provision of these Rules or any of the rules relating to commuter van service in Chapter 5, Title 19 of the Administrative Code.
-
-   (2) The Applicant or any of its Limited Business Entity Persons or employees has engaged in any fraud or misrepresentation in connection with providing any transportation service.
-
-   (3) The Applicant or any of its Limited Business Entity Persons has failed to pay any penalty that has been properly imposed under these Rules.
-
-   (4) The Applicant or any of its Limited Business Entity Persons has been convicted of a crime that the Commission believes has a direct bearing upon the Applicant's fitness or ability to perform the functions required of a Commuter-Van Service Owner, or has been convicted of any offense that under Article 23-A of the NYS Correction Law would provide a basis for the Commission to refuse to renew or to suspend or revoke a Commuter-Van Service Authorization.
-
-   (5) The Applicant has failed to maintain the conditions of operation that apply to Commuter-Van Service Owners.
-
-   (6) The Applicant or any of its Limited Business Entity Persons or employees has engaged in discrimination according to the provisions of § 8-107 of the Administrative Code.
-
-(f) Additional Consideration of an Application. If a review of the application leads the Chairperson to believe that the Applicant may not be Fit to Hold a License (Authorization), the Chairperson may seek additional information from the Applicant. This request for additional information may be an in-person interview, telephone call, letter, e-mail, or other method of communication. This additional consideration may result in the denial of the application.
-
-
-
-
-
-
-*§ 61B-08 Licensing – Transfer of License.* ::
-
-
-(a) Not Transferrable or Assignable Without Approval. An authorization to operate a Commuter-Van Service will not be assignable or transferable unless otherwise provided by the Commission.
-
-
-
-
-
-
-*§ 61B-09 Licensing – Care of Licenses.* ::
-
-
-(a) If the Authorization for a Commuter-Van Service is lost, damaged, or destroyed, the Owner must provide the Commission with a statement of what happened and any proof that the Commission requires.
-
-(b) The Commission can issue a duplicate or substitute Authorization upon the Owner's payment of a $25 fee.
-
-
-
-
-
-
-*§ 61B-10 Comply with Laws – No Unlicensed Activity.* ::
-
-
-(a) Vehicle Must Be Licensed. A Commuter-Van Service Owner must not allow an vehicle to be operated within the City of New York (meaning performing passenger pick-up and drop-off wholly within New York City) if the vehicle does not have a Valid Commuter-Van License from the Commission. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 61B-10(a)
-      - Fine: $500 – first violation; $1,000 – subsequent violation within twenty-four months
-      - Appearance Required 
-~
-
-
-
- 
-
-(b) Vehicle Must Be Affiliated with Authorized Commuter-Van Service. A Commuter-Van Service Owner must not operate a Commuter-Van Vehicle within the City of New York unless it is affiliated with the Owner's Commuter-Van Service. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 61B-10(b)
-      - Fine: $500 – first violation; $1,000 – subsequent violation within twenty-four monthsMultiple violations: See Mandatory Penalties (35 RCNY § 61B-02(d))
-      - Appearance Required
-~
-
-
-
- 
-
-(c) Driver Must Be Licensed. The Commuter-Van Service Owner is responsible for ensuring that anyone operating a Commuter-Van Vehicle affiliated with the Owner's Service has:
-
-   (1) A Valid driver's license that qualifies as a Chauffeur's License, and
-
-   (2) A Valid Commuter-Van Driver's License.
-
-   (3) The License of a Consumer-Van Service Owner who allows a Commuter Van Vehicle affiliated with the Owner's Service to be operated by anyone without a valid Chauffer's License and a valid Commuter-Van Driver's License will be summarily suspended. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 61B-10(c)
-      - Fine: $500 and Suspension of Commuter-Van license until complianceMultiple violations: See Mandatory Penalties (35 RCNY § 61B-02(d))
-      - Appearance Required
-~
-
-
-
- 
-
-(d) No Person Can Operate an Unlicensed Commuter-Van Vehicle or Service.
-
-   (1) No person is allowed to operate or to allow anyone else to operate his or her vehicle bearing the words "Commuter-Van service," "van service," "Commuter-Van," "van" or other similar designation unless:
-
-      (i) The vehicle is a Validly Licensed Commuter Van Vehicle
-
-      (ii) The Vehicle is affiliated with a Validly Authorized Commuter-Van Service, and
-
-      (iii) The Vehicle is driven by a Validly Licensed Commuter-Van Driver.
-
-   (2) A "License" that has expired and has not yet been renewed is not a "Valid License" and operating with an expired License is considered "unlicensed activity." 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 61B-10(d)
-      - Fine: $500 – first violation; $1,000 – subsequent violation within twenty-four months
-      - Appearance Required
-~
-
-
-
- 
-
-(e) Special Procedures Relating to Unlicensed Commuter-Van Operations.
-
-   (1) The Commission will notify the NYS Commissioner of Motor Vehicles upon finding a person liable for:
-
-      (i) Operating a vehicle without a Valid Commuter-Van Vehicle License, or
-
-      (ii) Operating a vehicle that is not affiliated with an Authorized Commuter-Van Service.
-
-   (2) Until notified that the violation has been corrected, the Motor Vehicle Commissioner can:
-
-      (i) Suspend the vehicle's registration,
-
-      (ii) Deny any application for the vehicle's registration or registration renewal,
-
-      (iii) Take any other action permitted under law.
-
-   (3) The Commission will also notify the NYS Department of Finance.*
-
-
-
-
-
-
-*§ 61B-11 Comply with Laws – Insurance Coverage.* ::
-
-
-(a) Joint Responsibility. The Commuter-Van Service owner must ensure that no Commuter-Van will be used in the Commuter-Van Service unless such vehicle is in compliance with the insurance requirements set forth in this 35 RCNY § 61B-11. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 61B-11(a)
-      - Fine: $300 and/or revocation of Commuter-Van licenseIf each one of a group of at least 30% of the Vehicles affiliated with a Commuter-Van Service fails to maintain liability insurance three times within a 12 month period, the Service's Authorization will be revoked
-      - Appearance Required
-~
-
-
-
- 
-
-(b) Surety Bond or Policy of Insurance. No Commuter-Van Vehicle can be used in the operation of a Commuter-Van Service unless it is covered by a surety bond or a policy of insurance approved as to form by the Commission and issued by a solvent and responsible company authorized to do business in this State by the Superintendent of Insurance. Coverage must be in at least the following amounts: 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - Type of Liability
-      - Minimum Coverage Required
-      - 
-    * - Commuter-Van for 12 Passengers Or Fewer 
-      - Commuter-Van for 13-20 Passengers
-      - 
-    * - • For personal injury or death to one person
-      - $100,000 
-      - $100,000 
-    * - • For personal injury or death to one person in one accident
-      - $300,000 
-      - $500,000 
-    * - • Maximum for each person in one accident
-      - $100,000 
-      - $100,000 
-    * - • For property damage
-      - $50,000 
-      - $50,000 
-~
-
-
-
- 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 61B-11(b)
-      - Fine: $300 and suspension until complianceMultiple violations: See Mandatory Penalties (35 RCNY § 61B-02(d))
-      - Appearance Required 
-~
-
-
-
- 
-
-(c) Remain in Effect Until Terminated. Surety bonds and certificates of insurance must specify that coverage will remain in effect continuously until terminated as provided in this Sub-chapter.
-
-(d) Conditions for Replacement of Bonds or Insurance. Surety bonds or certificates of insurance may be replaced, and the liability of the retiring surety or insurer will be considered terminated as of the effective date of its replacement, provided that the replacement surety bond or certificate of insurance meets all of the following conditions:
-
-   (1) The new surety bond or certificate of insurance is acceptable to the Commission.
-
-   (2) The Commuter-Van Service Owner or an authorized employee of the van service submits, in duplicate, a letter authorizing the replacement surety bond or certificate of insurance and verifying its effective date.
-
-   (3) The effective date must coincide with the effective date specified in the letter of authorization, and that date may not be more than 30 days before the date the Commission receives the letter of authorization and replacement certificate.
-
-(e) Provision for Continuing Liability. Every surety bond or certificate of insurance must contain a provision for a continuing liability even after a claim has been successfully filed and recovered against the bond or insurance.
-
-(f) Notice of Cancellation to the Commission.
-
-   (1) Every surety bond or certificate of insurance must include a provision that cancellation will not be effective until at least 30 days after the Commission has been properly notified in writing of the party's intention to cancel.
-
-   (2) Proper notification must be given on or in the relevant Form K – Uniform Notice of Cancellation of Motor Carrier Insurance Policies or Form L – Uniform Notice of Cancellation of Motion Carrier Surety Bonds. Copies of these forms are available at Commission offices.
-
-   (3) If a cancelled insurance policy or bond is reinstated:
-
-      (i) A new certificate, in the form required by subdivision (d) of this section, must be filed with the Commission, and
-
-      (ii) The new certificate must have the relevant phrase "REINSTATEMENT OF INSURANCE POLICY" or "REINSTATEMENT OF BOND" typed or printed on it in capital letters, as shown.
-
-(g) Forms. Certificates of insurance and other forms necessary for filing can be obtained from the Commission.
-
-(h) Contract is Required. No surety bond or certificate of insurance can be filed with the Commission unless a direct contractual relationship exists between the Authorized Commuter-Van Service (or the Commuter-Van Vehicle Licensee) and the insurance or bonding company making the filing.
-
-(i) Commission's Right to Refuse. The Commission can at any time refuse to accept any surety bond or certificate of insurance if in the judgment of the Commission it does not provide adequate protection for the public.
-
-
-
-
-
-
-*§ 61B-12 Comply with Laws – Personal Conduct.* ::
-
-
-(a) No Bribery. A Commuter-Van Service Owner must not directly or indirectly offer or give any gift, gratuity or thing of value to any employee, representative or member of the Commission or any public servant who is charged with the administration or enforcement of this sub-chapter or any traffic rule or law. All administrative hearings on this matter will be referred to OATH. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 61B-12(a)
-      - Fine: $1,000 and/or suspension or revocation
-      - Appearance Required
-~
-
-
-
- 
-
-(b) Report Request for Gift. A Commuter-Van Service Owner must immediately report to the Commission and to the New York City Department of Investigation any request or demand for a gift, gratuity or thing of value by any employee, representative or member of the Commission or any public servant who is charged with the administration or enforcement of this sub-chapter or any traffic rule or law. All administrative hearings on this matter will be referred to OATH. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 61B-12(b)
-      - Fine: $1,000 and/or suspension or revocation
-      - Appearance Required
-~
-
-
-
- 
-
-(c) No Threat or Use of Physical Force. While performing the duties and responsibilities of an Authorized Commuter-Van Service Owner, or any act in connection with those duties, an Owner must not use or attempt to use any physical force against a person or Service Animal and must not distract or attempt to distract any Service Animal. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 61B-12(c)
-      - Fine: $50 – $350 and/or suspension or revocation
-      - Appearance Required
-~
-
-
-
- 
-
-(d) Report Criminal Conviction.
-
-   (1) A Commuter-Van Service Owner must notify the Commission within five calendar days after any criminal conviction of the Licensee, individually or, if the Owner is a Business Entity, of any Limited Business Entity Person.
-
-   (2) The notice must be in writing and must be accompanied by a certified copy of the certificate of disposition issued by the clerk of the court explaining what happened as a result of the conviction. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 61B-12(d)
-      - Fine: $100
-      - Appearance NOT Required
-~
-
-
-
- 
-
-(e) Cooperate with TLC. A Commuter-Van Service Owner must:
-
-   (1) Truthfully answer all questions and comply with all communications, directives, and summonses issued by the Commission or its representatives; 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 61B-12(e)(1)
-      - Fine: $300 and Suspension until compliance
-      - Appearance Required
-~
-
-
-
- 
-
-   (2) Produce or be responsible for instructing Drivers working in association with Owner's Commuter-Van Service to produce any documents required to be kept in the Commuter-Van Vehicle upon the demand of the Commission or its representatives; 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 61B-12(e)(2)
-      - Fine: $50-$150
-      - Appearance Required
-~
-
-
-
- 
-
-   (3) Produce any other document the Owner is required to keep no later than 10 days following a request from the Commission; 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 61B-12(e)(3)
-      - Fine: $75-$350 and/or suspension until compliance
-      - Appearance Required
-~
-
-
-
- 
-
-   (4) Aid the Commission to obtain information regarding any Commuter-Van Driver or Commuter-Van Vehicle affiliated with the Owner's Commuter-Van Service. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 61B-12(e)(4)
-      - Fine: $75-$350 and/or suspension until compliance
-      - Appearance Required
-~
-
-
-
- 
-
-   (5) Respond to any contact from the Commission within 48 hours, seven days a week. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 61B-12(e)(5)
-      - Fine: $500
-      - Appearance NOT Required
-~
-
-
-
- 
-
-(f) No Willful Acts of Omission. While performing the duties and responsibilities of a Commuter-Van Vehicle Owner, a Licensee must not deliberately fail to perform, alone or with another, any act where this failure is against the best interests of the public. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 61B-12 (f)
-      - Fine: $150-$350 and/orsuspension up to 30 days or revocation
-      - Appearance Required
-~
-
-
-
- 
-
-(g) No Willful Acts of Commission. While performing the duties and responsibilities of a Commuter-Van Vehicle Owner, a Licensee must not deliberately perform or attempt to perform, alone or with another, any act that is against the best interests of the public. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 61B-12 (g)
-      - Fine: $150-$350 and/orsuspension up to 30 days or revocation
-      - Appearance Required
-~
-
-
-
- 
-
-(h) Fraud, Misrepresentation, Theft. While performing the duties and responsibilities of a Commuter-Van Service Owner, a Licensee must not commit or attempt to commit, any act of fraud, misrepresentation or theft. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 61B-12 (h)
-      - Fine: $350-$1,000 andsuspension up to 60 days or revocation
-      - Appearance Required
-~
-
-
-
- 
-
-(i) Facilitation of Sex Trafficking with a Vehicle. A Commuter-Van Service Owner must not Facilitate Sex Trafficking with a Vehicle. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 61B-12(i)
-      - Fine: $10,000 and revocation.
-      - Appearance NOT Required
-~
-
-
-
- 
-
-(j) Retaliation.
-
-   (1) A Commuter Van Service Owner must not retaliate against any Driver for making a good faith complaint against any Owner.
-
-   (2) Retaliation will be broadly construed, and will include imposing any adverse condition or consequence on the Driver or withholding or withdrawing any beneficial condition or consequence from the Driver.
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 61B-12(j)
-      - Fine: $1,000 plus restitution to the driver for losses for the first violation and a fine of $10,000 plus restitution to the driver for the second violation within five years.
-      - Appearance NOT Required
-~
-
-
-
- 
-
-
-
-
-
-
-
-
-*§ 61B-13 Comply with Laws – Miscellaneous.* ::
-
-
-(a) Commission Rules. The following actions can result in suspension or revocation of an Owner's Commuter-Van Service Authorization:
-
-   (1) The Owner or any of its Limited Business Entity Persons or employees violates any provision of these Rules or any of the rules relating to Commuter-Van Service in Chapter 5, Title 19 of the Administrative Code.
-
-   (2) The Owner or any of its Limited Business Entity Persons or employees engages in any fraud or misrepresentation in connection with providing any transportation service.
-
-   (3) The Owner or any of its Limited Business Entity Persons fails to pay any penalty that has been properly imposed under these Rules.
-
-   (4) The Owner or any of its Limited Business Entity Persons is convicted of a crime that the Commission believes has a direct bearing upon the Owner's fitness or ability to perform the functions required of a Commuter-Van Service Owner.
-
-   (5) The Owner fails to maintain the conditions of operation that apply to Commuter-Van Service Owners.
-
-   (6) The Owner or any of its Limited Business Entity Persons or employees engages in discrimination according to the provisions of § 8-107 of the Administrative Code.
-
-(b) Workers Compensation. A Commuter-Van Service Owner must comply with all provisions of the NYS Workers' Compensation Laws and regulations with respect to coverage of and benefits to eligible persons. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 61B-13(b)
-      - Fine: $25 for each day of non-compliance, and either suspension until compliance or license revocation.
-      - Appearance Required
-~
-
-
-
- 
-
-(c) Disability Laws. A Commuter-Van Service Owner must ensure that any new Commuter-Van Vehicle purchased or leased by the Commuter-Van Service complies with all applicable provisions of law regarding accessibility to Persons with Disabilities. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 61B-13(c)
-      - Fine: $200-$350
-      - Appearance Required
-~
-
-
-
- 
-
-(d) Motor Vehicle Registration Laws. A Commuter-Van Service Owner must ensure that no Commuter-Van is used in the operation of a Commuter-Van Service unless the Vehicle is in compliance with the registration requirements of the NYS Vehicle and Traffic Law. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 61B-13(d)
-      - Fine: $300 and suspension of the Commuter-Van license until compliance
-      - Appearance Required
-~
-
-
-
- 
-
-
-
-
-
-
-*§ 61B-14 Operations – Business Premises. [Reserved]* ::
-
-
-(a) No Pick-Ups Outside Authorized Area. No Commuter-Van Service Owner will permit the pick up or discharge of passengers outside of the geographical area established in the Owner's Authorization. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 61B-16(a)
-      - Fine: $50 if plead guiltybefore a hearing; $100 if found guilty following a hearing.
-      - Appearance NOT Required
-~
-
-
-
- 
-
-(b) No Pick-Ups Along Bus Routes.
-
-   (1) Restriction. No Commuter-Van Service Owner will permit the pick up or discharge of passengers along any Official Bus Route. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 61B-16(b)(1)
-      - Fine: $50 if plead guiltybefore a hearing; $100 if found guilty following a hearing.
-      - Appearance NOT Required
-~
-
-
-
- 
-
-   (2) Grandfathered Exception.
-
-      (i) This restriction will not apply to the pick up and discharge of passengers along bus routes in Manhattan, south of Chambers Street, by Commuter-Van Service Owners that had authority on July 1, 1992 from the NYS Department of Transportation to pick up and discharge passengers along bus routes in that area
-
-      (ii) The scope of operations by the exempted Commuter-Van Service, however, must not exceed the scope of its operations prior to July 1, 1992.
-
-(c) Service Must Be Pre-Arranged. No Commuter-Van Service Owner will permit transportation service unless the service is prearranged and the prearrangement is shown on the Passenger Manifest. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 61B-16(c)
-      - Fine: $50 if plead guiltybefore a hearing; $100 if found guilty following a hearing.
-      - Appearance NOT Required
-~
-
-
-
- 
-
-(d) Multiple Person Liability. The Commuter-Van Service Owner is liable for violating this Rule even when the actual violation has been unilaterally committed by the Commuter-Van Driver.
-
-
-
-
-
-
-*§ 61B-17 Operations – Responsibility with Respect to Drivers.* ::
-
-
-(a) Prohibit Disability Discrimination by Drivers. A Commuter-Van Service Owner must not allow a Driver to discriminate unlawfully against Persons with Disabilities. Such discrimination includes, but is not limited to:
-
-   (1) Refusing to serve Persons with Disabilities,
-
-   (2) Refusing to load and unload the mobility aids of Persons with Disabilities, and
-
-   (3) Imposing any charge in addition to the authorized fare for the transportation of Persons with Disabilities, service animals, wheelchairs, or other mobility aids.
-
-(b) Multiple Person Liability. The Commuter-Van Service Owner will be liable for violating this Rule even when the actual violation has been unilaterally committed by the Commuter-Van Driver. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 61B-17
-      - Fine: $200-$350
-      - Appearance Required
-~
-
-
-
- 
-
-
-
-
-
-
-*§ 61B-18 Records – Trip Record Information.* ::
-
-
-(a) Commuter-Van Service. The Commuter-Van Service Owner is responsible for ensuring that the following records are kept:
-
-   (1) The number of passengers each Commuter-Van Vehicle affiliated with the Commuter-Van Service picks up each day.
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 61B-18(a)(1)
-      - Fine: $50
-      - Appearance NOT Required
-~
-
-
-
- 
-
-   (2) The records required by this paragraph must be kept for a period of one year and will be subject to inspection by authorized officers or employees of the Commission during regular business hours.
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 61B-18(a)(2)
-      - Fine: $300
-      - Appearance NOT Required
-~
-
-
-
- 
-
-
-
-
-
-
-
-
-*§ 61B-19 Records – Current Contact Information.* ::
-
-
-(a) Current Phone Number for Immediate Access. A Commuter-Van Service Owner must maintain on file with the Commission a current telephone number (connected to an answering machine or recording device), pager number, answering service number or a number for any similar means of telephone contact that allows the Vehicle Owner to be reached by the Commission on a 24- hour basis. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 61B-19(a)
-      - Fine: $100
-      - Appearance NOT Required
-~
-
-
-
- 
-
-(b) Mailing and Email Address.
-
-   (1) A Commuter-Van Service Owner must have a working Email Address at all times.
-
-   (2) A Commuter-Van Service Owner must report any change of Mailing Address or Email Address to the Commission in person or by mail within ten days. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 61B-19(b)(1)-(2)
-      - Fine: $100
-      - Appearance NOT Required
-~
-
-
-
- 
-
-   (3) Any communication from the Commission is sufficient if sent to the last Mailing Address provided by the Commuter-Van Service Owner.
-
-   (4) Any communication from the Commission, except notices and summonses for which the manner of service is specified in 35 RCNY § 68-05, is sufficient if sent by email to the last Email Address provided by the Commuter-Van Service Owner.
-
-
-
-
-
-
-*§ 61B-20 Records – Additional Records to be Maintained.* ::
-
-
-The Commuter-Van Service Owner is responsible for keeping the following records:
-
-(a) A list of all Vehicles currently operating under the Service Owner's Authorization, and information about each vehicle including, but not limited to the following:
-
-   (1) The Vehicle Owner's name, mailing address, and home telephone number,
-
-   (2) The Vehicle's registration number,
-
-   (3) The Vehicle's Commuter-Van License number,
-
-   (4) The Department of Motor Vehicles license plate number of the Vehicle,
-
-   (5) The name of the Vehicle's insurance carrier and the policy number, and
-
-   (6) The dates of inspection of the Vehicle and the outcome of each inspection. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 61B-20(a)
-      - Fine: $300
-      - Appearance NOT Required
-~
-
-
-
- 
-
-(b) The records required by this paragraph must be kept for a period of one year and will be subject to inspection by authorized officers or employees of the Commission during regular business hours. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 61B-20(b)
-      - Fine: $300
-      - Appearance NOT Required
-~
-
-
-
- 
-
-
-
-
-
-
-*§ 61B-21 Reporting Requirements. [Reserved]* ::
-
-
-(a) Advertising to State TLC Licensed/Authorized. No one is permitted to advertise Commuter-Van services unless the advertisement states CONSPICUOUSLY that the Commuter-Van Vehicle is Licensed by the Commission and includes the affiliated Commuter-Van Service Authorization number. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 61B-24(a)
-      - Fine: $50
-      - Appearance NOT Required
-~
-
-
-
- 
-
-
-
-
-
-
-*§ 61B-25 Vehicle Condition – Inspections.* ::
-
-
-(a) Inspection by NYS Department of Transportation. The Commuter-Van Service Owner will be responsible for compliance with the following provisions:
-
-   (1) A Commuter-Van Vehicle must not be operated as a Commuter-Van Vehicle unless it has been inspected by the NYS Department of Transportation.
-
-   (2) Provisions and requirements for this inspection can be found in the safety provisions (§ 140) of the NYS Transportation Law or as modified by an agreement between the NYS Department of Transportation and the Commission, as provided in NYS Transportation Law § 80(5)(a)(1). 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 61B-25(a)
-      - Fine: $300
-      - Appearance NOT Required
-~
-
-
-
- 
-
-(b) All Commuter-Van Vehicles must display the inspection certificate. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 61B-25(b)
-      - Fine: $100
-      - Appearance NOT Required
-~
-
-
-
- 
-
-
-
-
-
-
-*§ 61B-26 Vehicle Condition – Meets Safety Standards.* ::
-
-
-(a) No Commuter-Van Vehicle can be used in a Commuter-Van Service unless it meets the vehicle safety standards prescribed by rule or regulation of the NYS Commissioner of Transportation according to § 140 of the NYS Transportation Law. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 61B-26(a)
-      - Fine: $100-$500 and/or suspension or revocation of Commuter-Van licenseMultiple violations: See Mandatory Penalties(35 RCNY § 61B-02(d))
-      - Appearance Required
-~
-
-
-
- 
-
-
-
-
-
-
-*§ 61B-27 Vehicles – Markings and Displays.* ::
-
-
-(a) Required Exterior ID Markings. All Commuter-Van Vehicles must have the following information conspicuously painted on each side of the exterior of the vehicle in letters at least 3 inches in height:
-
-   (1) The exact name and address of the Commuter-Van Service next to the word OPERATOR;
-
-   (2) The Commuter-Van Vehicle Owner's exact name next to the word OWNER; and
-
-   (3) A Vehicle License number. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 61B-27(a)
-      - Fine: $50
-      - Appearance NOT Required
-~
-
-
-
- 
-
-(b) Required Interior ID Markings.
-
-   (1) A sign with the information listed above (in subdivision (a)) must be placed in the interior of the Vehicle clearly visible from all Passenger seats in the Vehicle.
-
-   (2) The sign must include the statement that any complaints can be submitted to the Taxi and Limousine Commission by calling "311" or through the Commission's website, http://nyc.gov/taxi. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 61B-27(b)
-      - Fine: $50
-      - Appearance NOT Required
-~
-
-
-
- 
-
-(c) Valid TLC Decal.
-
-   (1) Each time a Commuter-Van Vehicle License is issued or renewed or transferred to a new Vehicle, the Vehicle must be taken to a Commission inspection facility to have four decals affixed to the Vehicle.
-
-   (2) No Commuter-Van Vehicle License is Valid unless the Vehicle has the appropriate, undamaged decals in each of the following locations:
-
-      (i) The lower right corner of the front windshield
-
-      (ii) The center of the rear window
-
-      (iii) One on each of the rear-most side windows. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 61B-27(c)
-      - First violation in a 12-monthperiod: $500Second and subsequent violations within a 12-month period: $1,000 and suspension of the Commuter-Van License until compliance
-      - Appearance NOT Required
-    * - Third violation within a 12-month period: revocation of Commuter-Van Service Authorization
-      - Appearance Required
-~
-
-
-
-
-      - (d) Commuter Van Decal.
-
-   (1) All Commuter Van vehicles must permanently affix and display the Commuter Van Decal, whose dimensions are 21.7 inches wide by 11 inches high, and the TLC License Number Decal, whose dimensions are 2.5 inches high:
-
-      (i) Driver side front door (Required).
-
-         A. Commuter Van Decal. The decal must be placed centered left to right and located in the upper half of the flat surface between the door trim and door handle and parallel to the door trim.
-
-         B. License Number Decal. The decal must be placed centered left to right and horizontally below the Commuter Van Decal.
-
-      (ii) Passenger side front door (Required).
-
-         A. Commuter Van Decal. The decal must be placed centered left to right and located in the upper half of the flat surface between the door trim and door handle and parallel to the door trim.
-
-         B. License Number Decal. The decal must be placed centered left to right and horizontally below the Commuter Van Decal.
-
-   (2) All Commuter Van vehicles may permanently affix and display on the rear door of the vehicle an optional Commuter Van Decal, whose dimensions are 21.7 inches wide by 11 inches high, , and an optional TLC License Number Decal, whose dimensions are 2.5 inches high:
-
-      (i) Rear door (Optional).
-
-         A. Commuter Van Decal. The decal must be placed centered from left to right and located in the upper half of the flat surface between the door trim and door handle and parallel to the door trim.
-
-         B. License Number Decal. The decal must be placed centered left to right and horizontally below the Commuter Van Decal.
-
- 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 61B-27(d)
-      - Fine: $100
-      - Appearance NOT Required
-~
-
-
-
- 
-
-(e) Vehicle Cannot Be Yellow. A Commuter-Van Vehicle must not be operated in a Commuter-Van Service if the Vehicle is painted, in whole or in part, any shade of taxicab yellow.
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 61B-27(e)
-      - Fine: $100
-      - Appearance NOT Required
-~
-
-
-
- 
-
-(f) Required Sticker. Each Commuter-Van Vehicle must display an internal safety sticker, with the following inscription: "Turning? People are Crossing." The dimensions of the sticker are 3.5 inches wide by 2.5 inches high. The sticker must be obtained pursuant to the instructions on the Commission's website or through other appropriate means announced on the website. The sticker must be placed in the Vehicle as follows:
-
-   (1) On the inside of the front windshield, in the center and adjacent to the top of the windshield directly behind the rearview mirror.
-
-   (2) In such a manner not to obstruct the driver's view. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 61B-27(f)(1) and (2)
-      - Fine: $75
-      - Appearance NOT Required
-~
-
-
-
- 
-
-(g) Optional Sticker. Commuter-Van Vehicles may display an optional external sticker, with the following inscription: "The choices you make behind the wheel matter." The dimensions of the sticker are 15 inches wide by 4 inches wide. The sticker may be obtained pursuant to the instructions on the Commission's website or through other appropriate means announced on the website. If displayed, the sticker must be placed on the Vehicle as follows:
-
-   (1) On the rear bumper of the vehicle.
-
-(h) Required Sticker. Each Commuter-Van Vehicle must display an internal safety sticker, with the following inscription: "ATTENTION: Assaulting A Driver Is Punishable By Up to Twenty-Five Years in Prison." The dimensions of the sticker are 8.0 inches wide by 2.0 inches high. The sticker must be obtained pursuant to the instructions on the Commission's website or through other appropriate means announced on the website. The sticker must be placed in the Vehicle as follows:
-
-   (1) Incorporated into the Commuter-Van Bill of Rights.
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 61B-27(h)(1)
-      - Fine: $50 if plead guilty before a hearing, $75 if found guilty following a hearing
-      - Appearance NOT Required
-~
-
-
-
- 
-
-(i) Optional Sticker. Each Commuter-Van Vehicle may display an external safety sticker, with the following inscription: “Taxi and Limousine Drivers Are Protected By New York State Law ATTENTION: Assaulting A Driver Is Punishable By Up to Twenty-Five Years in Prison.” The dimensions of the sticker are 3.5 inches wide by 3.5 inches high. The sticker may be obtained pursuant to the instructions on the Commission’s website or through other appropriate means announced on the website. The sticker must be placed in the Vehicle as follows:
-
-   (1) Exterior, on a door or a side window.
-
-(j) Required Decal. Each Commuter-Van Vehicle with Hearing Induction Loop capability must display a Hearing Induction Loop Decal. The decal will feature the International Symbol of Access for Hearing Loss, described as the profile of an ear with a wide diagonal line running from the bottom left to the top right. The symbol contrast shall be light on dark or dark on light. A "T" will be placed in the lower right-hand corner of the decal. The decal will be placed as follows:
-
-   (1) As directed by the Chairperson. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 61B-27(j)(1)
-      - Fine: $50 if plead guilty before a hearing, $75 if found guilty following a hearing
-      - Appearance NOT Required
-~
-
-
-
- 
-
-
-
-
-
-
-
-
-*§ 61B-28 Vehicles – Items Required to be in the Vehicle.* ::
-
-
-(a) Commuter-Van Vehicles must carry the following inside the Vehicle any time the Vehicle is in operation:
-
-   (1) The Commuter-Van Vehicle License;
-
-   (2) The Driver's Commuter-Van Driver's License;
-
-   (3) The Authorization to operate a Commuter-Van Service, or legible photocopy; and
-
-   (4) The Vehicle registration and evidence of current liability insurance.
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 61B-28(a)
-      - Fine: $25 per missing item; maximum penalty $50
-      - Appearance NOT Required
-~
-
-
-
- 
-
-
-
-
-
-
-
-
-*§ 61B-29 Vehicle Equipment.* ::
-
-
-(a) Two-Way Radio. A Commuter-Van Vehicle Owner that uses a two-way radio or other communications system must be in compliance with all regulations of the Federal Communications Commission relating to the communication system. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 61B-29(a)
-      - Fine: $100
-      - Appearance NOT Required
 ~
 
 
@@ -32331,6 +32331,39 @@ This chapter is informational in nature and does not provide for any penalties.
 
 
 
+Chapter 76: Information Security Rules For Taxicab Technology Service Providers [Repealed]
+--------------------------------------------------
+
+
+
+*§ 76-01 Scope of the Chapter. [Repealed]* ::
+
+
+
+
+
+
+
+
+
+*§ 76-02 Definitions Specific to this Chapter. [Repealed]* ::
+
+
+
+
+
+
+
+
+
+*§ 76-03 Information Security Requirements. [Repealed]* ::
+
+
+
+
+
+
+
 Chapter 75: Rules For Authorization of Taxicab Technology Service Providers [Repealed]
 --------------------------------------------------
 
@@ -32577,39 +32610,6 @@ Chapter 75: Rules For Authorization of Taxicab Technology Service Providers [Rep
 
 
 *§ 75-25 Technical Requirements – Taxicab Technology System (TPEP). [Repealed]* ::
-
-
-
-
-
-
-
-Chapter 76: Information Security Rules For Taxicab Technology Service Providers [Repealed]
---------------------------------------------------
-
-
-
-*§ 76-01 Scope of the Chapter. [Repealed]* ::
-
-
-
-
-
-
-
-
-
-*§ 76-02 Definitions Specific to this Chapter. [Repealed]* ::
-
-
-
-
-
-
-
-
-
-*§ 76-03 Information Security Requirements. [Repealed]* ::
 
 
 

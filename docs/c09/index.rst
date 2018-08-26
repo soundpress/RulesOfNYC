@@ -21188,6 +21188,39 @@ The Director may determine certain classes of alleged violations as appropriate 
 
 
 
+Chapter 42: Office of the City Sheriff
+--------------------------------------------------
+
+
+
+*§ 42-01 Fees for the Release of Stolen Motor Vehicles.* ::
+
+
+Any stolen motor vehicle seized by the City Sheriff pursuant to section four hundred twenty-four of the Vehicle and Traffic Law shall be released to the owner upon payment of the following fees: 1.  Seventy dollars for towing the vehicle from the place where the vehicle was recovered to the storage yard; 2.  Fifteen dollars a day for the first three days of storage; and 3.  Seventeen dollars a day for the fourth day of storage and for each day thereafter.
+
+
+
+
+
+
+*§ 42-02 Abandoned Vehicles.* ::
+
+
+Any stolen motor vehicle which is unclaimed after notice of the recovery of such vehicle is mailed to the owner shall be considered to be an abandoned vehicle and shall be disposed of in accordance with section twelve hundred twenty-four of the Vehicle and Traffic Law.
+
+
+
+
+
+
+*§ 42-03 Personal Property.* ::
+
+
+The City Sheriff shall inventory and hold onto all personal property which is found in a stolen motor vehicle. Any such property that fits the definition of an instrument under subdivision 2 of section 251 of the Personal Property Law, and any other personal property with a value of $20.00 or more, shall be turned over to the police property clerk subsequent to the determination under § 40-02 of these rules that a stolen motor vehicle is an abandoned vehicle, but prior to disposal of the vehicle.
+
+
+
+
 Chapter 40: Rules Relating To the Sale of Tax Liens
 --------------------------------------------------
 
@@ -21287,39 +21320,6 @@ Example: Under the Administrative Code, real property tax liens that are on prop
          (C) if there have been no documents filed with the Surrogate's Court and no fiduciary has been appointed by the Surrogate's Court with respect to the decedent's estate, documentation issued by a government agency which, in the determination of the Department of Finance, substantiates the claim that the beneficiary is an heir of the decedent and inherited the real property or a share of the real property for which an installment agreement is sought, making such beneficiary an owner of the property.
 
 
-
-
-
-
-Chapter 42: Office of the City Sheriff
---------------------------------------------------
-
-
-
-*§ 42-01 Fees for the Release of Stolen Motor Vehicles.* ::
-
-
-Any stolen motor vehicle seized by the City Sheriff pursuant to section four hundred twenty-four of the Vehicle and Traffic Law shall be released to the owner upon payment of the following fees: 1.  Seventy dollars for towing the vehicle from the place where the vehicle was recovered to the storage yard; 2.  Fifteen dollars a day for the first three days of storage; and 3.  Seventeen dollars a day for the fourth day of storage and for each day thereafter.
-
-
-
-
-
-
-*§ 42-02 Abandoned Vehicles.* ::
-
-
-Any stolen motor vehicle which is unclaimed after notice of the recovery of such vehicle is mailed to the owner shall be considered to be an abandoned vehicle and shall be disposed of in accordance with section twelve hundred twenty-four of the Vehicle and Traffic Law.
-
-
-
-
-
-
-*§ 42-03 Personal Property.* ::
-
-
-The City Sheriff shall inventory and hold onto all personal property which is found in a stolen motor vehicle. Any such property that fits the definition of an instrument under subdivision 2 of section 251 of the Personal Property Law, and any other personal property with a value of $20.00 or more, shall be turned over to the police property clerk subsequent to the determination under § 40-02 of these rules that a stolen motor vehicle is an abandoned vehicle, but prior to disposal of the vehicle.
 
 
 
@@ -22438,6 +22438,139 @@ The Department will notify the applicant concerning the determination rendered b
 
 
 
+Chapter 56: Real Property Tax Abatement for Major Capital Improvements for Certain Class 2 Properties
+--------------------------------------------------
+
+
+
+*§ 56-01 Definitions.* ::
+
+
+(a) "Class two building" means any building in a special assessing unit classified as class two pursuant to subdivision 1 of Section 1802 of the Real Property Tax Law.
+
+(b) "Commissioner" means the Commissioner of Finance of the City of New York.
+
+(c) "Department" means the Department of Finance of the City of New York.
+
+(d) "DHCR" is the New York State Division of Housing and Community Renewal.
+
+(e) "DRIE" is the Disability Rent Increase Exemption program.
+
+(f) "Eligible Building" means a class two building that is subject to either:
+
+   (i) the emergency housing rent control law; or
+
+   (ii) the rent and rehabilitation law of the City of New York enacted, pursuant to the emergency housing rent control law or to the emergency tenant protection act of nineteen seventy-four.
+
+(g) "J-51 Program" is the tax exemption and abatement program governed by Section 489 of the Real Property Tax Law, Section 11-243 of the Administrative Code of the City of New York and 28 RCNY Chapter 5.
+
+(h) "Major Capital Improvement" ("MCI") – is an improvement or installation to a building subject to either the emergency housing rent control law or the rent and rehabilitation law of the City of New York enacted under the local emergency housing rent control law or under the emergency tenant protection act of 1974 for which DHCR has granted approval for a rent increase to a building owner. MCI increases apply to building-wide improvements, not to individual apartment improvements.
+
+(i) "SCRIE" is the Senior Citizen Rent Increase Exemption program.
+
+
+
+
+
+
+
+
+*§ 56-02 Amount of Abatement.* ::
+
+
+An eligible building shall receive an abatement of real property taxes as provided in these rules.
+
+(a) The amount of such tax abatement shall be calculated as follows:
+
+   (i) 0.5, multiplied by
+
+   (ii) the total approved cost of the MCI order issued by DHCR, multiplied by
+
+   (iii) a fraction, where the numerator equals the increase, of the amortization schedule of the improvement established by the rent act of 2015, measured in months, and where the denominator equals the total new amortization period for the MCI established by the rent act of 2015 applied to the eligible building, measured in months.
+
+(b) For eligible buildings with 35 or fewer residential units, the new amortization schedule for an MCI order increases from 7 to 8 years. For example: The property owner replaces a boiler of an eligible building, which costs the owner $10,000.
+
+   0.5 x $10,000 [approved cost of MCI order] = $5,000.
+
+   $5,000 x (12 months)/ (96 months) [8 year amortization schedule] =
+
+   $5,000 x 0.125 =$625.
+
+   The MCI tax abatement for the building is $625.
+
+(c) For eligible buildings with more than 35 residential units, the new amortization schedule for an MCI order increases from 7 to 9 years. For example: The property owner replaces a boiler of an eligible building, which costs the owner $10,000.
+
+   0.5 x $10,000 [approved cost of MCI order] =$5,000.
+
+   $5,000 x (24 months/108 months) [9 year amortization schedule] =
+
+   $5,000 x 0.222 = $1,111.
+
+   The MCI tax abatement for the building is $1,111.
+
+(d) The department will adjust the amount of the abatement if the DHCR MCI order is amended in the future. However, the original owner will not receive an adjustment in the abatement amount if the MCI was amended after the sale of the real property. If an MCI is amended after the sale, the new owner may apply for an adjustment to the abatement.
+
+(e) The department will adjust the amount of the abatement if a subsequent assessment reduction by the New York City Tax Commission or a court of appropriate jurisdiction changes the amount of the abatement that would have been calculated under these rules.
+
+
+
+
+
+
+
+
+*§ 56-03 Application for Abatement.* ::
+
+
+(a) Except as allowed by paragraph (b) of this subdivision, an MCI tax abatement application must be submitted electronically to the department by the building owner or his or her designated representative and include all information requested by the department. The submission must follow the format required by the department and follow the instructions for submission of the application as described on the department's website. The information required by the application will include, but is not limited to:
+
+   (i) the amount of the MCI order approved by DHCR
+
+   (ii) the number of residential units in the eligible building.
+
+(b) Request for waiver of electronic filing requirement. The Commissioner may waive the requirement of an electronic filing for good cause. A request for waiver of the electronic filing requirement must be made in writing. Any filing in paper format must be filed with the department at the address designated by the department.
+
+(c) The department may request, in writing, additional information from an MCI tax abatement applicant concerning their application. The applicant will be notified in a written notice whether their application is granted or denied. If the MCI tax abatement application is denied, the notice will mention the reasons for the department's decision and inform the applicant of their right to appeal the decision. The appeal must be submitted by the applicant or his or her designee to the Commissioner within 60 days of the posting of notice by mail.
+
+(d) Building owners must submit MCI tax abatement applications for MCI tax abatements within five years after the date of the order issued by DHCR granting an MCI rent increase. After this period, a building owner will not be eligible for any MCI tax abatement benefits for that MCI order.
+
+(e) An MCI tax abatement application may not be submitted and an MCI tax abatement will not be granted for MCI orders dated prior to June 15, 2015.
+
+(f) If multiple MCI orders are issued by DHCR for an eligible building the building owner must submit a separate application to the department for each MCI order .
+
+(g) A building owner may withdraw an MCI tax abatement application submitted to the department prior to May 15th of a calendar year Applications which are not withdrawn by May 15th will be reviewed by the department.
+
+
+
+
+
+
+
+
+*§ 56-04 Administration of Abatement.* ::
+
+
+(a) An MCI tax abatement will be for a term of one tax year and is not renewable for any subsequent tax years. An MCI tax abatement or a portion thereof cannot be carried over to the next tax year if the MCI tax abatement reduces the tax liability to an amount below $0. An MCI tax abatement is not refundable but applied only as a credit.
+
+(b) The date an approved MCI tax abatement is applied depends on the date the MCI tax abatement application is received by the department. An approved application received by the department before May 15th of a calendar year will be applied in the tax year starting on July 1st of that calendar year. Approved applications received on or after May 15th of a calendar year will be applied in the tax year starting on July 1st of the following calendar year.
+
+(c) An MCI tax abatement will not reduce or offset any other tax benefit provided, calculated or approved by the City of New York or the State of New York. The MCI tax abatement will be applied prior to the application of SCRIE or DRIE credits or J-51 program abatements.
+
+(d) An MCI tax abatement is compatible with other tax benefits unless specifically prohibited by statute. A building is not eligible to receive an abatement if it receiving benefits under Sections 420-c, 421-a, and 421-g of the Real Property Tax Law, or any other provision that prohibits the receipt of other benefits.
+
+(e) If multiple applications are submitted for the same tax lot, the MCI tax abatement will be calculated using the number of units specified in the MCI order issued by DHCR applicable to the building that is the subject of the individual application.
+
+(f) If an MCI tax abatement is approved for a building that is included within multiple tax lots, each lot will be allocated a fraction of the abatement proportional to each lot's percentage of the total combined actual assessed value of the lots for the tax year that the abatement is applied.
+
+(g) If an apportionment or merger occurs after an MCI order is issued by DHCR, the department will make the appropriate allocation of the MCI tax abatement to the successor tax lots.
+
+(h) In enacting the MCI tax abatement the department in no way intends to affect the legal status of any apartment in an eligible building. Should it ever be determined that the receipt of an MCI tax abatement will affect the legal status of an apartment in a building, such as subjecting a decontrolled apartment to rent regulation, the building owner may withdraw its pending application for an MCI tax abatement or renounce an MCI tax abatement that has been received. Such renunciation by the building owner shall be deemed to void the MCI tax abatement ab initio. If an eligible building owner renounces an MCI tax abatement received, the building owner shall have thirty (30) days to pay the revised tax bill without interest being imposed.
+
+
+
+
+
+
 Chapter 55: Adjudication of Certain Notices of Violation and Sealing of Premises
 --------------------------------------------------
 
@@ -22614,137 +22747,4 @@ Respondents who admit to the offenses or are found in violation by OATH may be s
 
 
 **Schedule B**
-
-Chapter 56: Real Property Tax Abatement for Major Capital Improvements for Certain Class 2 Properties
---------------------------------------------------
-
-
-
-*§ 56-01 Definitions.* ::
-
-
-(a) "Class two building" means any building in a special assessing unit classified as class two pursuant to subdivision 1 of Section 1802 of the Real Property Tax Law.
-
-(b) "Commissioner" means the Commissioner of Finance of the City of New York.
-
-(c) "Department" means the Department of Finance of the City of New York.
-
-(d) "DHCR" is the New York State Division of Housing and Community Renewal.
-
-(e) "DRIE" is the Disability Rent Increase Exemption program.
-
-(f) "Eligible Building" means a class two building that is subject to either:
-
-   (i) the emergency housing rent control law; or
-
-   (ii) the rent and rehabilitation law of the City of New York enacted, pursuant to the emergency housing rent control law or to the emergency tenant protection act of nineteen seventy-four.
-
-(g) "J-51 Program" is the tax exemption and abatement program governed by Section 489 of the Real Property Tax Law, Section 11-243 of the Administrative Code of the City of New York and 28 RCNY Chapter 5.
-
-(h) "Major Capital Improvement" ("MCI") – is an improvement or installation to a building subject to either the emergency housing rent control law or the rent and rehabilitation law of the City of New York enacted under the local emergency housing rent control law or under the emergency tenant protection act of 1974 for which DHCR has granted approval for a rent increase to a building owner. MCI increases apply to building-wide improvements, not to individual apartment improvements.
-
-(i) "SCRIE" is the Senior Citizen Rent Increase Exemption program.
-
-
-
-
-
-
-
-
-*§ 56-02 Amount of Abatement.* ::
-
-
-An eligible building shall receive an abatement of real property taxes as provided in these rules.
-
-(a) The amount of such tax abatement shall be calculated as follows:
-
-   (i) 0.5, multiplied by
-
-   (ii) the total approved cost of the MCI order issued by DHCR, multiplied by
-
-   (iii) a fraction, where the numerator equals the increase, of the amortization schedule of the improvement established by the rent act of 2015, measured in months, and where the denominator equals the total new amortization period for the MCI established by the rent act of 2015 applied to the eligible building, measured in months.
-
-(b) For eligible buildings with 35 or fewer residential units, the new amortization schedule for an MCI order increases from 7 to 8 years. For example: The property owner replaces a boiler of an eligible building, which costs the owner $10,000.
-
-   0.5 x $10,000 [approved cost of MCI order] = $5,000.
-
-   $5,000 x (12 months)/ (96 months) [8 year amortization schedule] =
-
-   $5,000 x 0.125 =$625.
-
-   The MCI tax abatement for the building is $625.
-
-(c) For eligible buildings with more than 35 residential units, the new amortization schedule for an MCI order increases from 7 to 9 years. For example: The property owner replaces a boiler of an eligible building, which costs the owner $10,000.
-
-   0.5 x $10,000 [approved cost of MCI order] =$5,000.
-
-   $5,000 x (24 months/108 months) [9 year amortization schedule] =
-
-   $5,000 x 0.222 = $1,111.
-
-   The MCI tax abatement for the building is $1,111.
-
-(d) The department will adjust the amount of the abatement if the DHCR MCI order is amended in the future. However, the original owner will not receive an adjustment in the abatement amount if the MCI was amended after the sale of the real property. If an MCI is amended after the sale, the new owner may apply for an adjustment to the abatement.
-
-(e) The department will adjust the amount of the abatement if a subsequent assessment reduction by the New York City Tax Commission or a court of appropriate jurisdiction changes the amount of the abatement that would have been calculated under these rules.
-
-
-
-
-
-
-
-
-*§ 56-03 Application for Abatement.* ::
-
-
-(a) Except as allowed by paragraph (b) of this subdivision, an MCI tax abatement application must be submitted electronically to the department by the building owner or his or her designated representative and include all information requested by the department. The submission must follow the format required by the department and follow the instructions for submission of the application as described on the department's website. The information required by the application will include, but is not limited to:
-
-   (i) the amount of the MCI order approved by DHCR
-
-   (ii) the number of residential units in the eligible building.
-
-(b) Request for waiver of electronic filing requirement. The Commissioner may waive the requirement of an electronic filing for good cause. A request for waiver of the electronic filing requirement must be made in writing. Any filing in paper format must be filed with the department at the address designated by the department.
-
-(c) The department may request, in writing, additional information from an MCI tax abatement applicant concerning their application. The applicant will be notified in a written notice whether their application is granted or denied. If the MCI tax abatement application is denied, the notice will mention the reasons for the department's decision and inform the applicant of their right to appeal the decision. The appeal must be submitted by the applicant or his or her designee to the Commissioner within 60 days of the posting of notice by mail.
-
-(d) Building owners must submit MCI tax abatement applications for MCI tax abatements within five years after the date of the order issued by DHCR granting an MCI rent increase. After this period, a building owner will not be eligible for any MCI tax abatement benefits for that MCI order.
-
-(e) An MCI tax abatement application may not be submitted and an MCI tax abatement will not be granted for MCI orders dated prior to June 15, 2015.
-
-(f) If multiple MCI orders are issued by DHCR for an eligible building the building owner must submit a separate application to the department for each MCI order .
-
-(g) A building owner may withdraw an MCI tax abatement application submitted to the department prior to May 15th of a calendar year Applications which are not withdrawn by May 15th will be reviewed by the department.
-
-
-
-
-
-
-
-
-*§ 56-04 Administration of Abatement.* ::
-
-
-(a) An MCI tax abatement will be for a term of one tax year and is not renewable for any subsequent tax years. An MCI tax abatement or a portion thereof cannot be carried over to the next tax year if the MCI tax abatement reduces the tax liability to an amount below $0. An MCI tax abatement is not refundable but applied only as a credit.
-
-(b) The date an approved MCI tax abatement is applied depends on the date the MCI tax abatement application is received by the department. An approved application received by the department before May 15th of a calendar year will be applied in the tax year starting on July 1st of that calendar year. Approved applications received on or after May 15th of a calendar year will be applied in the tax year starting on July 1st of the following calendar year.
-
-(c) An MCI tax abatement will not reduce or offset any other tax benefit provided, calculated or approved by the City of New York or the State of New York. The MCI tax abatement will be applied prior to the application of SCRIE or DRIE credits or J-51 program abatements.
-
-(d) An MCI tax abatement is compatible with other tax benefits unless specifically prohibited by statute. A building is not eligible to receive an abatement if it receiving benefits under Sections 420-c, 421-a, and 421-g of the Real Property Tax Law, or any other provision that prohibits the receipt of other benefits.
-
-(e) If multiple applications are submitted for the same tax lot, the MCI tax abatement will be calculated using the number of units specified in the MCI order issued by DHCR applicable to the building that is the subject of the individual application.
-
-(f) If an MCI tax abatement is approved for a building that is included within multiple tax lots, each lot will be allocated a fraction of the abatement proportional to each lot's percentage of the total combined actual assessed value of the lots for the tax year that the abatement is applied.
-
-(g) If an apportionment or merger occurs after an MCI order is issued by DHCR, the department will make the appropriate allocation of the MCI tax abatement to the successor tax lots.
-
-(h) In enacting the MCI tax abatement the department in no way intends to affect the legal status of any apartment in an eligible building. Should it ever be determined that the receipt of an MCI tax abatement will affect the legal status of an apartment in a building, such as subjecting a decontrolled apartment to rent regulation, the building owner may withdraw its pending application for an MCI tax abatement or renounce an MCI tax abatement that has been received. Such renunciation by the building owner shall be deemed to void the MCI tax abatement ab initio. If an eligible building owner renounces an MCI tax abatement received, the building owner shall have thirty (30) days to pay the revised tax bill without interest being imposed.
-
-
-
-
-
 

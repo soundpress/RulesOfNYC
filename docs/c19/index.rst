@@ -1066,6 +1066,10 @@ When a respondent is found to be in violation of any of the following provisions
       - Altering an intercity bus permit (SECOND OR SUBSEQUENT OFFENSE)
       - 2,500
       - 2,500
+    * - 34 RCNY § 4-12(p)(ii)
+      - Failure to register a business using a bicycle for commercial purposes with the Department
+      - 100
+      - 100
     * - 34 RCNY § 4-16(b), (c), (d), and (e)
       - Failure to comply with DOT Pedestrian Plaza Rules
       - 500
@@ -1451,135 +1455,135 @@ Chapter 4: Traffic Rules and Regulations
 
 (a)Vehicle and Traffic Law definitions apply. Whenever any words and phrases used in these rules are not defined herein but are defined in Article 1 of the New York State Vehicle and Traffic Law, any such definition shall be deemed to apply to such words and phrases used herein.
 
-(b) Definitions. The following words and phrases, when used in these rules, shall, for the purpose of these rules, have the meanings respectively ascribed to them as follows:
+(b) Definitions. The following words and phrases, when used in these rules, shall, for the purpose of these rules, have the following meanings:
 
-   Bicycle. A "bicycle" shall mean every two- or three-wheeled device upon which a person or persons may ride, propelled by human power through a belt, a chain or gears, with such wheels in a tandem or tricycle, except that it shall not include such a device having solid tires and intended for use only on a sidewalk by pre-teenage children. For the purposes of these rules the term bicycle includes a pedal-assist bicycle as defined in this section.
+   Bicycle. "Bicycle" means every two- or three-wheeled device upon which a person or persons may ride, propelled by human power through a belt, a chain or gears, with such wheels in a tandem or tricycle, except that it will not include such a device having solid tires and intended for use only on a sidewalk by pre-teenage children. For the purposes of these rules the term bicycle includes a pedal-assist bicycle as defined in this section.
 
-   Bicycle sharing system. The term “bicycle sharing system” means a network of self-service and publicly available bicycles in which a bicycle trip begins and/or ends on any public highway in the City of New York.
+   Bicycle sharing system. The term "bicycle sharing system" means a network of self-service and publicly available bicycles in which a bicycle trip begins and/or ends on any public highway in the City of New York.
 
-   Bus. A "bus" shall mean every motor vehicle having a seating capacity of more than fifteen passengers, in addition to the operator, and used for the transportation of persons, and every charter bus, school bus and sight-seeing bus, regardless of seating capacity, as defined below.
+   Bus. "Bus" means every motor vehicle having a seating capacity of more than fifteen passengers, in addition to the operator, and used for the transportation of persons, and every charter bus, school bus and sight-seeing bus, regardless of seating capacity, as defined below.
 
-      (i) Charter bus. A "charter bus" shall mean a bus transporting passengers for compensation in chartered party.
+      (i) Charter bus. The term "charter bus" means a bus transporting passengers for compensation in a chartered party.
 
-      (ii) School bus. A "school bus" shall mean every motor vehicle regardless of seating capacity owned by a public or governmental agency or private school and operated for the transportation of pupils, teachers and other persons acting in a supervisory capacity, to or from school or school activities or privately owned and operated on a regular basis for compensation for the transportation of pupils, teachers and other persons acting in a supervisory capacity to or from school or school activities.
+      (ii) School bus. The term "school bus" means every motor vehicle regardless of seating capacity owned by a public or governmental agency or private school and operated for the transportation of pupils, teachers and other persons acting in a supervisory capacity, to or from school or school activities, or privately owned and operated on a regular basis for compensation for the transportation of pupils, teachers and other persons acting in a supervisory capacity to or from school or school activities.
 
-      (iii) Sight-seeing bus. A "sight-seeing bus" shall mean a bus for hire carrying passengers from a fixed point in the City of New York, at which point the passengers embark and are generally discharged to a place or places of interest or amusement in the City of New York, and including a charter bus, as defined in these rules, when engaged in a sight-seeing operation.
+      (iii) Sight-seeing bus. The term "sight-seeing bus" means a bus for hire carrying passengers from a fixed point in the City of New York, at which point the passengers embark and are generally discharged to a place or places of interest or amusement in the City of New York, and including a charter bus, as defined in these rules, when engaged in a sight-seeing operation.
 
-   Chartered party. A "chartered party" means a group of persons who, pursuant to a common purpose and under a single contract and at a fixed charge, have acquired exclusive use of a bus to travel together as a group to a specific destination or for a particular itinerary either agreed upon in advance or modified after having left the place of origin by such group.
+   Chartered party. The term "chartered party" means a group of persons who, pursuant to a common purpose and under a single contract and at a fixed charge, have acquired exclusive use of a bus to travel together as a group to a specific destination or for a particular itinerary either agreed upon in advance or modified after having left the place of origin by such group.
 
    Commercial vehicle.
 
-      (i) For purposes of parking, standing and stopping rules, a vehicle shall not be deemed a commercial vehicle or a truck unless:
+      (i) For purposes of parking, standing and stopping rules, a vehicle will not be deemed a commercial vehicle or a truck unless:
 
          (A) it bears commercial plates; and
 
-         (B) it is permanently altered by having all seats and seat fittings, except the front seats, removed to facilitate the transportation of property, except that for vehicles designed with a passenger cab and a cargo area separated by a partition, the seating capacity within the cab shall not be considered in determining whether the vehicle is properly altered; and
+         (B) it is permanently altered by having all seats and seat fittings, except the front seats, removed to facilitate the transportation of property, except that for vehicles designed with a passenger cab and a cargo area separated by a partition, the seating capacity within the cab will not be considered in determining whether the vehicle is properly altered; and
 
          (C) it displays the registrant's name and address permanently affixed in characters at least three inches high on both sides of the vehicle, with such display being in a color contrasting with that of the vehicle and placed approximately midway vertically on doors or side panels.
 
-      (ii) For the purposes of rules other than parking, stopping and standing rules, a vehicle designed, maintained, or used primarily for the transportation of property, or for the provision of commercial services and bearing commercial plates shall be deemed a commercial vehicle.
+      (ii) For the purposes of rules other than parking, stopping and standing rules, a vehicle designed, maintained, or used primarily for the transportation of property, or for the provision of commercial services and bearing commercial plates will be deemed a commercial vehicle.
 
-      (iii) Vehicles bearing commercial or equivalent registration plates from other states or countries shall not be deemed trucks or commercial vehicles unless they are permanently altered and marked as required in (i)(B) and (C) of this definition, above.
+      (iii) Vehicles bearing commercial or equivalent registration plates from other states or countries will not be deemed trucks or commercial vehicles unless they are permanently altered and marked as required in (i)(B) and (C) of this definition, above.
 
-   Commissioner. The "Commissioner" shall mean the Commissioner of the New York City Department of Transportation or his/her authorized designee.
+   Commissioner. "Commissioner" means the Commissioner of the New York City Department of Transportation or his/her authorized designee.
 
-   Commuter Van. A van, which: (i) is used as part of a commuter van service as defined in section 19-502(q) of the New York City Administrative Code; (ii) has a seating capacity of at least nine passengers but not more than twenty passengers or such greater capacity as the Taxi and Limousine Commission may establish by rule; (iii) carries passengers for hire in the City; (iv) is duly licensed as a commuter van by the Taxi and Limousine Commission; and (v) is not permitted to accept hails from prospective passengers in the street.
+   Commuter Van. The term "commuter van" means a van which: (i) is used as part of a commuter van service as defined in Section 19-502(q) of the New York City Administrative Code; (ii) has a seating capacity of at least nine passengers but not more than twenty passengers or such greater capacity as the New York City Taxi and Limousine Commission may establish by rule; (iii) carries passengers for hire in the City; (iv) is duly licensed as a commuter van by the New York City Taxi and Limousine Commission; and (v) is not permitted to accept hails from prospective passengers in the street.
 
    Crosswalk.
 
-      (i) Marked crosswalk. That part of a roadway defined by two parallel lines or highlighted by a pattern of lines (perpendicular, parallel or diagonal used either separately or in combination) that is intended to guide pedestrians into proper crossing paths.
+      (i) Marked crosswalk. The term "marked crosswalk" means that part of a roadway defined by two parallel lines or highlighted by a pattern of lines (perpendicular, parallel or diagonal used either separately or in combination) that is intended to guide pedestrians into proper crossing paths.
 
-      (ii) Unmarked crosswalk. That part of a roadway, other than a marked crosswalk, which is included within the extensions of the sidewalk lines between opposite sides of the roadway at an intersection, provided that (A) the roadway crosses through the intersection rather than ending at the intersection, and/or (B) all traffic on the opposing roadway is controlled by a traffic control device.
+      (ii) Unmarked crosswalk. The term "unmarked crosswalk" means that part of a roadway, other than a marked crosswalk, that is included within the extensions of the sidewalk lines between opposite sides of the roadway at an intersection, provided that (A) the roadway crosses through the intersection rather than ending at the intersection, and/or (B) all traffic on the opposing roadway is controlled by a traffic control device.
 
-   Cruising. The term "cruising" shall mean the movement of any vehicle on any street in search of prospective passengers who may wish to hire the vehicle.
+   Cruising. "Cruising" means the movement of any vehicle on any street in search of prospective passengers who may wish to hire the vehicle.
 
-   Dedicated use sign. The term “dedicated use sign” shall mean a curb regulation sign that allows a designated vehicle to use the regulated block face. Other vehicles may not stand or park at these locations.
+   Dedicated use sign. The term "dedicated use sign" shall mean a curb regulation sign that allows a designated vehicle to use the regulated block face. Other vehicles may not stand or park at these locations.
 
-   Department. The term "Department" shall mean the Department of Transportation.
+   Department. "Department" means the New York City Department of Transportation.
 
-   Designated Activities. The term "Designated Activities" shall mean commercial activities, entertainment or performances by individuals or groups, posing for or taking photographs or videos, and vending expressive matter, where any form of compensation, donation, or gratuity is requested or accepted.
+   Designated Activities. The term "Designated Activities" means commercial activities, entertainment or performances by individuals or groups, posing for or taking photographs or videos, and vending expressive matter, where any form of compensation, donation, or gratuity is requested or accepted.
 
-   Designated Activity Zone. The term "Designated Activity Zone" shall mean an area in a pedestrian plaza designated as such by the Department by signage and/or markings in which individuals conduct Designated Activities.
+   Designated Activity Zone. The term "Designated Activity Zone" means an area in a pedestrian plaza designated as such by the Department by signage and/or markings in which individuals conduct Designated Activities.
 
-   Driveway. Every entrance or exit authorized pursuant to applicable law and used by vehicular traffic to or from lands or buildings abutting a roadway.
+   Driveway. "Driveway" means every entrance or exit authorized, pursuant to applicable law and used by vehicular traffic to or from lands or buildings abutting a roadway.
 
-   D/S Decals. "D/S Decals" shall mean valid non-transferable service vehicle decals or delivery vehicle decals issued by the City of New York that are affixed to the inside of the operator's side of the windshields of vehicles bearing "A", "C" or "D" series license plates issued by the U.S. Department of State.
+   D/S Decals. "D/S Decals" means valid nontransferable service vehicle decals or delivery vehicle decals issued by the City of New York that are affixed to the inside of the operator's side of the windshields of vehicles bearing "A", "C" or "D" series license plates issued by the U.S. Department of State.
 
-   Electronic communication device. An “electronic communication device” shall mean any electronic equipment approved by the Department capable of transmitting information via telephone, cable, fiber, satellite or antenna to the Department for payment at parking spaces where payment for such space is requested. This includes but is not limited to mobile or vehicle mounted computers with an on-line connection, mobile or cellular phones, personal digital assistants, or any other electronic communication device approved by the Department.
+   Electronic communication device. The term "electronic communication device" means any electronic equipment approved by the Department capable of transmitting information via telephone, cable, fiber, satellite or antenna to the Department for payment at parking spaces where payment for such space is requested. This includes but is not limited to mobile or vehicle mounted computers with an on-line connection, mobile or cellular phones, personal digital assistants, or any other electronic communication device approved by the Department.
 
-   Emergency vehicle (authorized). An "emergency vehicle (authorized)" shall mean every police vehicle, fire vehicle, emergency ambulance service vehicle, and every other emergency vehicle as defined in § 101 of the Vehicle and Traffic Law.
+   Emergency vehicle (authorized). The term "emergency vehicle (authorized)" means every police vehicle, fire vehicle, emergency ambulance service vehicle, and every other emergency vehicle as defined in § 101 of the Vehicle and Traffic Law.
 
-   Expressive Matter. The term "expressive matter" shall mean materials or objects with expressive content, such as newspapers, books, or other similar written matter and visual art such as paintings, prints, photography, or sculpture.
+   Expressive Matter. The term "expressive matter" means materials or objects with expressive content, such as newspapers, books, or other similar written matter and visual art such as paintings, prints, photography, or sculpture.
 
-   For-hire vehicle. A "for-hire vehicle" shall mean a motor vehicle, licensed by the Taxi and Limousine Commission, for hire in the City, used for the carriage of passengers by prearrangement only and designed to carry fewer than nine passengers, including but not limited to livery vehicles, and excepting taxis or wheelchair accessible vans.
+   For-hire vehicle. The term "for-hire vehicle" means a motor vehicle, licensed by the New York City Taxi and Limousine Commission, for hire in the City, used for the carriage of passengers by prearrangement only and designed to carry fewer than nine passengers, including but not limited to livery vehicles, and excepting taxis or wheelchair accessible vans.
 
-   High Occupancy Vehicle (HOV). HOV shall mean a vehicle, except a truck as defined in 34 RCNY § 4-13(a)(1) of these rules, with two or more occupants, the number of which is specified by signs placed on express lanes on highways or bridges, pursuant to 34 RCNY § 4-07(k) of these rules.
+   High Occupancy Vehicle (HOV). The term "HOV" means a vehicle, except a truck as defined in 34 RCNY § 4-13(a)(1), with two or more occupants, the number of which is specified by signs placed on express lanes on highways or bridges, pursuant to 34 RCNY § 4-07(k).
 
-   Holidays. A "holiday," when used on traffic control devices, shall mean the days on which the following holidays are officially celebrated: New Year's Day, Memorial Day, Independence Day, Labor Day, Thanksgiving Day and Christmas Day.
+   Holidays. "Holiday" when used on traffic control devices means the days on which the following holidays are officially celebrated: New Year's Day, Memorial Day, Independence Day, Labor Day, Thanksgiving Day and Christmas Day.
 
-   Horse drawn vehicle. A "horse drawn vehicle" shall mean a vehicle drawn by a horse and used for the carriage of passengers for compensation. Where signs limit parking to horse drawn vehicles, only those vehicles licensed by the New York City Department of Consumer Affairs will be permitted.
+   Horse drawn vehicle. The term "horse drawn vehicle" means a vehicle drawn by a horse and used for the carriage of passengers for compensation. Where signs limit parking to horse drawn vehicles, only those vehicles licensed by the New York City Department of Consumer Affairs will be permitted.
 
-   Impounded vehicle. A vehicle is considered "impounded" when the City of New York takes it into custody by taking any action inconsistent with the free use of the vehicle by the motorist, including, but not limited to, beginning to attach an immobilization device such as a "boot" or a hook on a Department of Transportation tow truck to the vehicle.
+   Impounded vehicle. A vehicle is considered "impounded" when the City of New York takes it into custody by taking any action preventing the free use of the vehicle by the motorist, including, but not limited to, beginning to attach to the vehicle an immobilization device such as a "boot" or a hook on a Department of Transportation tow truck.
 
-   Intercity bus. An "intercity bus" means a bus that transports the general public between the City of New York and any location outside the City of New York in scheduled bus service. Such term does not include a school bus, a bus providing public transportation, or a charter bus.
+   Intercity bus. The term "intercity bus" means a bus that transports the general public between the City of New York and any location outside the City of New York in scheduled bus service. Such term does not include a school bus, a bus providing public transportation, or a charter bus.
 
-   Law enforcement officer. A "law enforcement officer" shall mean a police officer or any authorized agent of the Department of Transportation.
+   Law enforcement officer. The term "law enforcement officer" means a police officer or any authorized agent of the Department of Transportation.
 
-   Limited use vehicle. A "limited use vehicle" shall mean a motor vehicle, other than a motorcycle, which has a maximum performance speed of not more than forty miles per hour.
+   Limited use vehicle. The term "limited use vehicle" means a motor vehicle, other than a motorcycle, which has a maximum performance speed of forty miles per hour.
 
-   Marginal street. A "marginal street" shall mean any street, road, place, area or way adjoining or adjacent to waterfront property and designated as a marginal street, wharf or place on a plan or map adopted pursuant to law.
+   Marginal street. The term "marginal street" means any street, road, place, area or way adjoining or adjacent to waterfront property and designated as a marginal street, wharf or place on a plan or map adopted, pursuant to law.
 
-   Motor vehicle. A "motor vehicle" shall mean every vehicle operated or driven upon a public highway which is propelled by any power other than muscular power, except as otherwise provided in § 125 of the Vehicle and Traffic Law.
+   Motor vehicle. The term "motor vehicle" means every vehicle operated or driven upon a public highway which is propelled by any power other than muscular power, except as otherwise provided in § 125 of the Vehicle and Traffic Law.
 
-   Official time standard. The term "official time standard" shall mean whenever certain hours are named in these rules or on traffic control devices they shall mean standard time or daylight-saving time, whichever may be in current use in this city.
+   Official time standard. The term "official time standard" means, whenever certain hours are named in these rules or on traffic control devices, standard time or daylight-saving time, whichever may be in current use in the City of New York.
 
-   Parking. "Parking" shall mean the standing of a vehicle, whether occupied or not, otherwise than temporarily for the purpose of and while actually engaged in loading or unloading property or passengers.
+   Parking. "Parking" means the standing of a vehicle, whether occupied or not, otherwise than temporarily for the purpose of and while actually engaged in loading or unloading property or passengers.
 
-   Parking meter. A “parking meter” shall mean an electronic parking meter that dispenses timed receipts that must be displayed on the dashboard of a motor vehicle or in a visible and secure place on a motorcycle or as otherwise described within these rules.
+   Parking meter. The term "parking meter" means an electronic parking meter that dispenses timed receipts that must be displayed on the dashboard of a motor vehicle or in a visible and secure place on a motorcycle or as otherwise described within these rules.
 
-   Passenger car. The term "passenger car" when used on traffic control devices, shall mean a motor vehicle designed and used for conveying not more than eight people and shall include motorcycles designed and used only for conveying people.
+   Passenger car. The term "passenger car" when used on traffic control devices means a motor vehicle designed and used for conveying not more than eight people and includes motorcycles designed and used only for conveying people.
 
-   Pedal-assist bicycle. A “pedal-assist bicycle” shall mean a bicycle equipped with fully operable pedals and an electric motor of less than seven hundred fifty watts (one horsepower) whereby such electric motor engages only when the operator is pedaling and the rate of speed of the bicycle is less than 20 miles per hour, and disengages or ceases to function when (i) the operator applies the brakes, (ii) the operator stops pedaling, or (iii) the bicycle achieves a speed of twenty miles per hour. A pedal-assist bicycle shall not be equipped with any throttle capacity or have any additional motorized equipment affixed to it.
+   Pedal-assist bicycle. A "pedal-assist bicycle" shall mean a bicycle equipped with fully operable pedals and an electric motor of less than seven hundred fifty watts (one horsepower) whereby such electric motor engages only when the operator is pedaling and the rate of speed of the bicycle is less than 20 miles per hour, and disengages or ceases to function when (i) the operator applies the brakes, (ii) the operator stops pedaling, or (iii) the bicycle achieves a speed of twenty miles per hour. A pedal-assist bicycle shall not be equipped with any throttle capacity or have any additional motorized equipment affixed to it.
 
-   Pedestrian countdown display. A "pedestrian countdown display" shall mean any automated digital reading used in a crosswalk that displays, at the beginning of the flashing upraised hand signal, the number of seconds remaining until the termination of such signal.
+   Pedestrian countdown display. The term "pedestrian countdown display" means any automated digital reading used in a crosswalk that displays, at the beginning of the flashing upraised hand signal, the number of seconds remaining until the termination of such signal.
 
-   Pedestrian Flow Zone. The term "Pedestrian Flow Zone" shall mean an area designated as such by the Department by signage and/or markings for the safe and continuous movement of pedestrian traffic.
+   Pedestrian Flow Zone. The term "Pedestrian Flow Zone" means an area designated as such by the Department by signage and/or markings for the safe and continuous movement of pedestrian traffic.
 
-   Pedestrian Plaza. The term "pedestrian plaza" shall mean an area designated by the Department as such for pedestrian circulation, use and enjoyment on property under the jurisdiction of the Department including, but not limited to, property mapped as a public place or property within the bed of a roadway, and which may contain amenities such as tables, seating, trees, plants, lighting, bike racks, or public art.
+   Pedestrian Plaza. The term "pedestrian plaza" means an area designated by the Department as such for pedestrian circulation, use and enjoyment on property under the jurisdiction of the Department including, but not limited to, property mapped as a public place or property within the bed of a roadway, and which may contain amenities such as tables, seating, trees, plants, lighting, bike racks, or public art.
 
-   Pedestrian Plaza Partner. The term "pedestrian plaza partner" shall mean an organization selected by the Department to assist with functions related to pedestrian plazas pursuant to a non-exclusive agreement with the Department, which may include, but is not limited to, a maintenance agreement or concession agreement.
+   Pedestrian Plaza Partner. The term "pedestrian plaza partner" means an organization selected by the Department to assist with functions related to pedestrian plazas, pursuant to a nonexclusive agreement with the Department, which may include, but is not limited to, a maintenance agreement or concession agreement.
 
-   Pedicab. A “pedicab” shall mean a bicycle as defined in the vehicle and traffic law or other device that is designed and constructed to transport or carry passengers, that is solely propelled by human power, and that is operated to transport passengers for hire.
+   Pedicab. "Pedicab" means a bicycle as defined in the vehicle and traffic law or other device that is designed and constructed to transport or carry passengers, that is solely propelled by human power, and that is operated to transport passengers for hire.
 
-   Person. “Person” means a natural person, partnership, corporation, limited liability company, association or any other entity.
+   Person. "Person" means a natural person, partnership, corporation, limited liability company, association or any other entity.
 
-   Public highway. The term “public highway” means any highway, road, street, avenue, alley, public place, public driveway or any other public way.
+   Public highway. The term "public highway" means any highway, road, street, avenue, alley, public place, public driveway or any other public way.
 
-   Public transportation. "Public transportation" means:
+   Public transportation. The term "Public transportation" means:
 
-      (i) mass transportation services provided to the general public by any public benefit corporation constituting a transportation authority, or a subsidiary thereof, or any public transportation corporation constituted as an instrumentality of a state, or a subsidiary thereof, directly or through a contract with another entity; or
+      (i) mass transportation services provided to the general public by any public benefit corporation constituting a transportation authority, or a subsidiary thereof, or any public transportation corporation constituted as an instrumentality of a State, or a subsidiary thereof, directly or through a contract with another entity; or
 
-      (ii) mass transportation services provided to the general public by any county, city, town or village directly or through a contract with another entity pursuant to section one hundred nineteen-r of the general municipal law, or provided to the general public by another state or any county, city, town or village in a state other than New York directly or through a contract with another entity pursuant to a similar law of such other state.
+      (ii) mass transportation services provided to the general public by any county, City, town or village directly or through a contract with another entity, pursuant to section one hundred nineteen-r of the general municipal law, or provided to the general public by another state or any county, City, town or village in a State other than New York directly or through a contract with another entity, pursuant to a similar law of such other State.
 
-   Service vehicle. A "Service vehicle" shall mean a commercial vehicle used for providing commercial services other than making pickups and deliveries, but shall not include a vehicle bearing "A", "C" or "D" series license plates issued by the U.S. Department of State and displaying a valid non-transferable service vehicle decal issued by the City of New York that is affixed to the inside of the operator's side of the windshield.
+   Service vehicle. The term "Service vehicle" means a commercial vehicle used for providing commercial services other than making pickups and deliveries, but does not include a vehicle bearing "A", "C" or "D" series license plates issued by the U.S. Department of State and displaying a valid non-transferable service vehicle decal issued by the City of New York that is affixed to the inside of the operator's side of the windshield.
 
-   Sidewalk. A "sidewalk" shall mean that portion of a street, whether paved or unpaved, between the curb lines or the lateral lines of a roadway and the adjacent property lines intended for the use of pedestrians. Where it is not clear which section is intended for the use of pedestrians, the sidewalk will be deemed to be that portion of the street between the building line and the curb.
+   Sidewalk. "Sidewalk" means that portion of a street, whether paved or unpaved, between the curb lines or the lateral lines of a roadway and the adjacent property lines intended for the use of pedestrians. Where it is not clear which section is intended for the use of pedestrians, the sidewalk will be deemed to be that portion of the street between the building line and the curb.
 
-   Standing. The term "standing" shall mean the stopping of a vehicle, whether occupied or not, otherwise than temporarily for the purpose of and while actually engaged in receiving or discharging passengers.
+   Standing. "Standing" means the stopping of a vehicle, whether occupied or not, otherwise than temporarily for the purpose of and while actually engaged in receiving or discharging passengers.
 
-   Stopping. The term "stopping" shall mean any halting, even momentarily of a vehicle, whether occupied or not.
+   Stopping. "Stopping" means any halting, even momentarily of a vehicle, whether occupied or not.
 
-   Taxi. A “taxi” shall mean a motor vehicle used for the carriage of passengers for compensation, equipped with a taxi meter, painted yellow or green and displaying a current medallion or other license issued by the New York City Taxi and Limousine Commission.
+   Taxi. A "taxi" means a motor vehicle used for the carriage of passengers for compensation, equipped with a taxi meter, painted yellow or green and displaying a current medallion or other license issued by the New York City Taxi and Limousine Commission.
 
-   Transitway. A "transitway" shall mean any roadway or series of roadways designated for the exclusive use of buses or taxis or such other designated high occupancy vehicles as may be permitted, during certain hours of the day, with access to such roadway(s) limited to one block thereof to other vehicles for the purpose of delivery of goods or services or the picking up or dropping off of passengers.
+   Transitway. A "transitway" means any roadway or series of roadways designated for the exclusive use of buses or taxis or such other designated high occupancy vehicles as may be permitted, during certain hours of the day, with access to such roadway(s) limited to one block thereof to other vehicles for the purpose of delivery of goods or services or the picking up or dropping off of passengers.
 
-   Truck. For the purposes of parking, standing and stopping rules, a "truck" is a commercial vehicle, as defined in paragraph (i) of the definition of commercial vehicle, above, except that, for the purposes of parking, standing and stopping rules in the area bounded by 35th Street on the south, 41st Street on the north, Avenue of the Americas on the east, and 8th Avenue on the west, all inclusive, in the Borough of Manhattan, between the hours of 7 a.m. to 7 p.m., a vehicle shall not be deemed a truck unless it complies with the provisions of 34 RCNY § 4-13(a)(1) of these rules.
+   Truck. For the purposes of parking, standing and stopping rules, a "truck" is a commercial vehicle, as defined in Paragraph (i) of the definition of commercial vehicle, above, except that, for the purposes of parking, standing and stopping rules in the area bounded by 35th Street on the south, 41st Street on the north, Avenue of the Americas on the east, and 8th Avenue on the west, all inclusive, in the Borough of Manhattan, between the hours of 7:00 A.M. to 7:00 P.M., a vehicle is not be deemed a truck unless it complies with the provisions of 34 RCNY § 4-13(a)(1).
 
-   Vehicle. A "vehicle" shall mean every device in, upon, or by which any person or property is or may be transported or drawn upon a highway, except devices moved by human power or used exclusively upon stationary rails or tracks.
+   Vehicle. A "vehicle" means every device in, upon, or by which any person or property is or may be transported or drawn upon a highway, except devices moved by human power or used exclusively upon stationary rails or tracks.
 
-   Waterfront property. The term "waterfront property" shall mean all waterfront property, city or privately owned, between salt water and the next adverse owner. An adverse owner is the first private owner of property not designated as waterfront property.
+   Waterfront property. The term "waterfront property" means all waterfront property, City or privately owned, between salt water and the next adverse owner. An adverse owner is the first private owner of property not designated as waterfront property.
 
-   Wharf property. The term "wharf property" shall mean all wharves, piers, decks and bulkheads and structures thereon and slips and basins, the land beneath any of the foregoing, and all rights, privileges and easements appurtenant thereto and land under water in the port of the City of New York, and such upland or made land adjacent thereto owned by the City of New York as is vested in or may be assigned to the Department of Business Services of the City of New York.
+   Wharf property. The term "wharf property" means all wharves, piers, decks and bulkheads and structures thereon and slips and basins, the land beneath any of the foregoing, and all rights, privileges and easements appurtenant thereto and land under water in the port of the City of New York, and such upland or made land adjacent thereto owned by the City of New York as is vested in or may be assigned to the Department of Small Business Services of the City of New York.
 
 
 
@@ -3193,75 +3197,93 @@ Chapter 4: Traffic Rules and Regulations
 
    (3) Bicycles permitted on both sides of 40-foot wide one-way roadways. Any person operating a bicycle upon a roadway that carries traffic in one direction only and is at least 40 feet wide may ride as near as is practicable to either the left or the right hand curb or edge of such roadway, provided that bicycles are not prohibited from using said roadway.
 
-   (4) Bicycle safety poster.
+   (4) Business using a bicycle for commercial purposes.
 
-      (i) For purposes of this subsection, a "business using a bicycle for commercial purposes" shall mean a person, firm, partnership, joint venture, association, corporation, or other entity that engages in the course of its business, either on behalf of itself or others, in delivering packages, parcels, papers or articles of any type by bicycle. This paragraph (4) shall not apply to persons under the age of sixteen who use a bicycle only to deliver daily newspapers or circulars.
+      (i) Definitions. For purposes of this paragraph, the following terms have the following meanings:
 
-      (ii) Every business using a bicycle for commercial purposes shall post one or more bicycle safety posters at each business site using the bicycle for commercial purposes.
+         (A) "Business using a bicycle for commercial purposes" means a person, firm, partnership, joint venture, association, corporation, or other entity that, either on behalf of itself or others, delivers packages, parcels, papers or articles of any type by bicycle.
 
-      (iii) The bicycle safety poster shall be in English, Spanish and any other language spoken predominately by any bicycle operator utilized by the business. It shall be clear, prominent, and large enough to be visible to the bicycle operators and patrons of the business, however, at a minimum the poster must be in size 10 font on 11x17 size paper.
+         (B) "Bicycle operator" means a person who delivers packages, parcels, papers, or articles of any type by bicycle on behalf of a business using a bicycle for commercial purposes and who is paid by such business.
 
-      (iv) The poster shall be printed in a manner to be legible even to the colorblind.
+      (ii) Registration information. A business using a bicycle for commercial purposes that does not have a site within the City of New York that is open and available to the public must register with the Department and provide, upon a form prescribed by the Department, the following information:
 
-      (v) An example of the poster shall be made available on the Department's website.
+         (A) the name under which such business is authorized to do business in the State, pursuant to the Business Corporation Law;
 
-      (vi) The poster shall consist of a header or title, which shall appear at the top of the poster, Sections 1 through 4, and a footer, which shall appear at the bottom of the poster, as more fully described below:
+         (B) the name of the owner of such business;
 
-         (A) Header/Title: Commercial Bicyclist Safety
+         (C) the registered agent upon whom process against such business may be served and the address of such agent, or, if the business has designated the Secretary of State as its agent for receiving such process, the post office address to which the Secretary of State may mail a copy of such process;
 
-         (B) Section 1: This poster must be displayed where delivery cyclists will easily see it. Sections § 10-157 and § 10-157.1 of the New York City Administrative Code regulate businesses using a bicycle for commercial purposes. The responsibilities listed below are imposed by law. Failure to comply with these requirements may subject violators to legal sanctions.
+         (D) the list of entities such business is providing services for;
 
-         (C) Section 2: Commercial bicyclists must obey all traffic laws and rules. These laws include, but are not limited to, the following requirements:
+         (E) the roster with such business’s bicycle operator information as required by § 10-157(d) of the New York City Administrative Code, and
 
-            •   Yield to pedestrians.
+         (F) any other information requested by the Department.
 
-            •   Ride in the direction of traffic
+      (iii) Bicycle safety poster or notice. Every business using a bicycle for commercial purposes must post at least one bicycle safety poster at each business site using a bicycle for commercial purposes; provided, however, that if such business has only a post office address within the City, such business must provide a written notice to each of its bicycle operators.
 
-            •   Stay off the sidewalk
+         (A) The bicycle safety poster or notice must be in English, Spanish and any other language spoken predominately by any bicycle operator utilized by the business. The poster must be clear, prominent, and large enough to be visible to the bicycle operators and patrons of the business; however, the size of the poster must be printed in at least 10 point font and on paper that is at least 11 inches x 17 inches.
 
-            •   Stop at all red lights and stop signs
+         (B) The poster must be printed in a manner so as to be legible even to people who are colorblind.
 
-            •   Do not wear more than one earphone while riding
+         (C) An example of the type of poster required to be posted must be made available on the Department's website.
 
-            •   Use a white headlight and red taillight at night
+         (D) The poster must consist of a header or title, which will appear at the top of the poster, Sections 1 through 4, and a footer, which will appear at the bottom of the poster, as more fully described below:
 
-         (D) Section 3: Commercial bicyclists must:
+            1. Header/Title: Commercial Bicyclist Safety
 
-            •   Wear retro-reflective upper body apparel with the business's name and bicyclist's 3 -digit ID number on the back in lettering at least 1 inch high.
+            2. Section 1: This poster must be displayed where delivery cyclists will easily see it. Sections 10-157 and 10-157.1 of the New York City Administrative Code regulate businesses using a bicycle for commercial purposes. The responsibilities listed below are imposed by law. Failure to comply with these requirements may subject violators to legal sanctions.
 
-            •   Wear a bicycle helmet in good condition
+            3. Section 2: Commercial bicyclists must obey all traffic laws and rules. These laws include, but are not limited to, the following requirements:
 
-            •   Carry a business ID card at all times when riding on behalf of the business, which includes the information below:
+               • Yield to pedestrians.
 
-            •   Business name, address and phone number
+               • Ride in the direction of traffic
 
-            •   Bicyclist's name, photo and 3 -digit ID number
+               • Stay off the sidewalk
 
-            •   Business owners must provide the above items.
+               • Stop at all red lights and stop signs
 
-         (E) Section 4: Business owners who employ commercial bicyclists must:
+               • Do not wear more than one earphone while riding
 
-            •   Equip each commercial bicycle with the following, in addition to the items required above:
+               • Use a white headlight and red taillight at night
 
-            •   A bell or other audible device
+            4. Section 3: Commercial bicyclists must:
 
-            •   White headlight and red taillight
+               • Wear retro-reflective outermost upper body apparel with the business's name and bicyclist's 3 -digit ID number on the back in lettering at least 1 inch high.
 
-            •   Reflex reflectors
+               • Wear a bicycle helmet that is in good condition
 
-            •   Brakes
+                  o Every business using a bicycle for commercial purposes must provide or ensure the availability of protective headgear for each of its bicycle operators at no cost to such operators.
 
-            •   Metal or plastic sign in good condition at least 3 inches by 5 inches with the business's name and a unique bicycle ID number for each bicycle in lettering at least 1 inch high. The sign must be affixed to the rear or both sides of the bicycle.
+               • Carry a business ID card at all times when making deliveries or operating a bicycle on behalf of the business, which includes the information below:
 
-            •   Make available at the site a roster to include each cyclist's:
+                  o Business name, address and phone number
 
-               •   Name, residence address, date of employment and, where applicable, date of discharge from employment
+                  o Bicycle operator's name, photo and 3 -digit ID number
 
-               •   Unique 3-digit ID number
+               • Every business using a bicycle for commercial purposes must provide the above items.
 
-               •   Confirmation of cyclist's completed review of DOT Commercial Bicyclist Safety course
+            5. Section 4: Every business using a bicycle for commercial purposes must:
 
-         (F) Footer: For more, please visit nyc.gov/bikes
+               • Equip each commercial bicycle with the following, in addition to the items required above:
+
+                  o A bell or other audible device
+
+                  o White headlight and red taillight
+
+                  o Reflex reflectors
+
+                  o Brakes
+
+               • Maintain a roster of its bicycle operators, which includes each bicyclist's:
+
+                  o Name, home address, employment start date and, where applicable, date of discharge
+
+                  o Unique 3-digit ID number
+
+                  o Date of completion of DOT Commercial Bicyclist Safety course
+
+            6. Footer: For more information, please visit nyc.gov/bikes
 
    (5) Additional requirements for pedal-assist bicycles.
 
