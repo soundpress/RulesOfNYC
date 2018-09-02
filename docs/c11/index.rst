@@ -494,85 +494,6 @@ Chapter 3: Application
 
 
 
-Chapter 5: Fee For Applications To Correct Assessments
---------------------------------------------------
-
-
-
-*§ 5-01 [Fee Authorized*]* ::
-
-
-The Tax Commission shall charge and collect the fee set forth in this chapter.
-
-
-
-
-
-
-*§ 5-02 Fee.* ::
-
-
-For purposes of this chapter "Fee" shall mean the amount charged to an applicant for reviewing applications as provided in this chapter.
-
-
-
-
-
-
-*§ 5-03 Imposition of Fee.* ::
-
-
-(a) The Fee shall be imposed on applications for properties having an assessed value of $2 million or more when the application is scheduled for review. An application shall be deemed to be "scheduled for review":
-
-   (i) for applications filed by group representatives, when the application first appears on a calendar page; and
-
-   (ii) for applications filed by self-represented applicants and non-group representatives, when a notice that the application has been scheduled for review has been mailed.
-
-(b) For purposes of this chapter "assessed value" shall mean the assessed value or actual assessed value shown on the notice of property value issued by the Department of Finance or, where a notice of revised property value has been issued by the Department of Finance, the assessed value shown on that revised notice. Where a single application covers multiple condominium units, the assessed value for purposes of this chapter shall mean the aggregate assessed value shown on such notice for all units covered by the application.
-
-
-
-
-
-
-*§ 5-04 Amount of Fee.* ::
-
-
-The amount of the Fee shall be one hundred seventy-five dollars.
-
-
-
-
-
-
-*§ 5-05 Exemption.* ::
-
-
-An application for which review has been waived prior to being scheduled for review shall be exempt from the Fee.
-
-
-
-
-
-
-*§ 5-06 Payment and Collection of Fee.* ::
-
-
-Unless the Tax Commission provides otherwise, the Fee shall be included on a Statement of Account or real property tax bill issued after the application has been scheduled for review. The Department of Finance shall administer the billing and collection of the Fee on behalf of the Tax Commission.
-
-
-
-
-
-
-*§ 5-07 Non-Payment of Fee.* ::
-
-
-Notwithstanding any other provision of these rules to the contrary, if any Fee remains outstanding, the Tax Commission may revoke an offer and restore the matter to its prior status, or decline to schedule an application for review.
-
-
-
-
 Chapter 4: Review and Determination
 --------------------------------------------------
 
@@ -1040,6 +961,85 @@ The Tax Commission may deny or discontinue review of an application on any of th
 (e) In the event that a City agency must take possession of an original record for official purposes, its authorized agent shall request such record in writing from Counsel.
 
 (f) In the event that a City agency requires a copy of a record for official purposes, its authorized agent shall request it from Counsel.
+
+
+
+
+Chapter 5: Fee For Applications To Correct Assessments
+--------------------------------------------------
+
+
+
+*§ 5-01 [Fee Authorized*]* ::
+
+
+The Tax Commission shall charge and collect the fee set forth in this chapter.
+
+
+
+
+
+
+*§ 5-02 Fee.* ::
+
+
+For purposes of this chapter "Fee" shall mean the amount charged to an applicant for reviewing applications as provided in this chapter.
+
+
+
+
+
+
+*§ 5-03 Imposition of Fee.* ::
+
+
+(a) The Fee shall be imposed on applications for properties having an assessed value of $2 million or more when the application is scheduled for review. An application shall be deemed to be "scheduled for review":
+
+   (i) for applications filed by group representatives, when the application first appears on a calendar page; and
+
+   (ii) for applications filed by self-represented applicants and non-group representatives, when a notice that the application has been scheduled for review has been mailed.
+
+(b) For purposes of this chapter "assessed value" shall mean the assessed value or actual assessed value shown on the notice of property value issued by the Department of Finance or, where a notice of revised property value has been issued by the Department of Finance, the assessed value shown on that revised notice. Where a single application covers multiple condominium units, the assessed value for purposes of this chapter shall mean the aggregate assessed value shown on such notice for all units covered by the application.
+
+
+
+
+
+
+*§ 5-04 Amount of Fee.* ::
+
+
+The amount of the Fee shall be one hundred seventy-five dollars.
+
+
+
+
+
+
+*§ 5-05 Exemption.* ::
+
+
+An application for which review has been waived prior to being scheduled for review shall be exempt from the Fee.
+
+
+
+
+
+
+*§ 5-06 Payment and Collection of Fee.* ::
+
+
+Unless the Tax Commission provides otherwise, the Fee shall be included on a Statement of Account or real property tax bill issued after the application has been scheduled for review. The Department of Finance shall administer the billing and collection of the Fee on behalf of the Tax Commission.
+
+
+
+
+
+
+*§ 5-07 Non-Payment of Fee.* ::
+
+
+Notwithstanding any other provision of these rules to the contrary, if any Fee remains outstanding, the Tax Commission may revoke an offer and restore the matter to its prior status, or decline to schedule an application for review.
 
 
 

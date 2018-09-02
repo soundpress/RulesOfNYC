@@ -4573,33 +4573,6 @@ Chapter 13: Cessation of Operation and Removal and Sealing of Refuse Burning Equ
 
 
 
-Chapter 15: Residential Enforcement Routing
---------------------------------------------------
-
-
-
-*§ 15-01 Designation of Enforcement Routing Hours for Residential Buildings.* ::
-
-
-(a)  Purpose. The purpose of this chapter is to designate two (2) one-hour periods each day when the Department will conduct citywide enforcement routing for residential premises pursuant to § 16-118.1 of the Administrative Code of the City of New York.
-
-(b) Definition. For purposes of this chapter, "citywide enforcement routing for residential premises" means enforcement by authorized Department representatives of subdivision two of § 16-118 of the Administrative Code of the City of New York, as such subdivision relates to cleaning of sidewalks, flagging, curbstones and roadway areas by owners, lessees, tenants, occupants or persons in charge of residential premises.
-
-(c) Hours of Residential Enforcement Routing. The Department establishes the periods from 8:00 A.M. to 9:00 A.M. and from 6:00 P.M. to 7:00 P.M. as the two (2) one-hour periods during which time the Department will conduct citywide enforcement routing for residential premises.
-
-
-
-
-
-
-*§ 15-02 Applicability.* ::
-
-
-This chapter shall apply only to residential premises and shall not apply to commercial premises. The schedule for citywide enforcement routing for commercial premises in effect as of the effective date of this chapter shall continue in effect until such time as such schedule is changed by the Department in accordance with § 16-118.1 of the Administrative Code of the City of New York.
-
-
-
-
 Chapter 14: Street Events
 --------------------------------------------------
 
@@ -4743,6 +4716,33 @@ At least one week prior to the street event, the sponsor or his or her represent
 (a) In addition to or as an alternative to penalties prescribed in any other provisions of law or rule, any person who violates any of the provisions of subdivision c of Section 14-01 of this chapter shall be liable for a civil penalty of not less than fifty dollars nor more than one hundred dollars.
 
 (b) The civil penalties prescribed in paragraph one of this subdivision shall be recoverable in a civil action brought in the name of the Commissioner or in a proceeding returnable before the Environmental Control Board.
+
+
+
+
+Chapter 15: Residential Enforcement Routing
+--------------------------------------------------
+
+
+
+*§ 15-01 Designation of Enforcement Routing Hours for Residential Buildings.* ::
+
+
+(a)  Purpose. The purpose of this chapter is to designate two (2) one-hour periods each day when the Department will conduct citywide enforcement routing for residential premises pursuant to § 16-118.1 of the Administrative Code of the City of New York.
+
+(b) Definition. For purposes of this chapter, "citywide enforcement routing for residential premises" means enforcement by authorized Department representatives of subdivision two of § 16-118 of the Administrative Code of the City of New York, as such subdivision relates to cleaning of sidewalks, flagging, curbstones and roadway areas by owners, lessees, tenants, occupants or persons in charge of residential premises.
+
+(c) Hours of Residential Enforcement Routing. The Department establishes the periods from 8:00 A.M. to 9:00 A.M. and from 6:00 P.M. to 7:00 P.M. as the two (2) one-hour periods during which time the Department will conduct citywide enforcement routing for residential premises.
+
+
+
+
+
+
+*§ 15-02 Applicability.* ::
+
+
+This chapter shall apply only to residential premises and shall not apply to commercial premises. The schedule for citywide enforcement routing for commercial premises in effect as of the effective date of this chapter shall continue in effect until such time as such schedule is changed by the Department in accordance with § 16-118.1 of the Administrative Code of the City of New York.
 
 
 

@@ -4422,139 +4422,6 @@ Chapter 48: Construction Superintendents [Repealed]
 
 
 
-Chapter 50: Distributed Energy Resource Standards
---------------------------------------------------
-
-
-
-*§ 50-01 Requirements for the Installation of High-Pressure Natural Gas-Fired Microturbine Systems.* ::
-
-
-(a) General requirements. All microturbine systems shall comply with the following general requirements:
-
-   (1) Description.
-
-      (i) The Microturbine System shall include one or more combustion-based turbine-driven electrical generators with 500 kW or less capacity, natural gas compressing equipment, heat recovery devices, electrical power distribution devices, gas vents or chimneys and associated appurtenances.
-
-      (ii) Microturbine systems shall utilize natural gas at an inlet pressure to the system of not greater than 3 psig, and shall boost the gas pressure to an inlet pressure to the combustion device of greater than 15 psig within the unit or room enclosure.
-
-      (iii) The total nominal electrical capacity at standardized operating conditions of all microturbine systems located within a single building shall not exceed 2,000 kW.
-
-   (2) Listing or MEA approval. For microturbines with external compressors, the compressor shall be MEA-approved and all components of the compressor and the microturbine shall be listed by a nationally recognized testing laboratory approved by the Commissioner. For microturbines with the compressor integrated with other elements into the unit, the integrated unit as well as each of its components shall be listed by a nationally recognized testing laboratory approved by the Commissioner.
-
-   (3) Utility ruling. The applicant shall consult the appropriate utility company regarding the characteristics of existing gas and electrical service to the site before installing the microturbine system. The applicant shall provide to the Department prior to plan approval either documentation from the utility company confirming that the electrical interconnection requirements have been preliminarily satisfied or an affidavit from the owner that there will be no interconnection with the electrical grid.
-
-   (4) Filing and permit. Plans for the complete microturbine system installation shall be approved by the New York City Department of Buildings and a work permit shall be obtained. A set of the approved plans shall be provided to the Fire Department.
-
-   (5) Installation.
-
-      (i) Regulation. Installation of microturbine systems shall be in accordance with all applicable requirements of the New York City Building Code, the New York City Electrical Code, and Reference Standards. NFPA 37 shall also apply, except where the Codes or these Rules are more restrictive. Such regulations include, but are not limited to the following: fuel gas piping, egress, fire protection, fire detection, electrical power, ventilation, and gas vent or chimney.
-
-      (ii) External compressor. For microturbines with an external compressor, the following requirements shall be satisfied:
-
-         A. Gas connections between the compressor and the turbine shall be solid-welded; no threaded joints shall be permitted.
-
-         B. A flame arrestor shall be installed upstream of the gas compressor to prevent flame propagating to the natural gas fuel distribution lines.
-
-         C. The length of gas piping connecting the gas compressor with the combustion device, both of which shall be in the same room, shall not exceed 12 feet.
-
-      (iii) Annunciation. All annunciations shall be provided locally and remotely to indicate any abnormal conditions in the system. The remote panel shall be located in a continuously supervised area on the premises.
-
-      (iv) Automatic gas shut-off. Gas supply to the microturbine shall be provided with an automatic shut-off valve that is activated by a malfunction alarm from any component of the microturbine system.
-
-      (v) Remotely and manually controlled emergency gas shut-off. A normally closed solenoid gas shut-off valve shall be located immediately after the branch connection providing dedicated service to the microturbine installation. The valve shall be manually controlled at the valve and remotely controlled both outside the door(s) to the microturbine room and at a supervised location. The gas shut-off valve and the controls shall each be clearly identified with signage indicating "emergency gas shut-off to microturbine."
-
-      (vi) Fuel shut-off valve diagram. A diagram shall be conspicuously posted on any door or gate leading to a microturbine indicating the locations of all manual and automatic fuel shut-off valves.
-
-      (vii) Security. The microturbine shall be provided with adequate protection from theft, tampering and unauthorized use. Access to microturbine systems shall be restricted by locked doors but shall be readily accessible for maintenance, repair and Fire Department access. Microturbines shall be adequately protected from vehicle impact.
-
-      (viii) Manufacturer's requirements. All manufacturer's requirements and recommendations shall be satisfied.
-
-      (ix) Signage. Signage clearly stating "HIGH PRESSURE GAS" shall be posted on or in front of the microturbine or microturbine system, and on the outside of all doors accessing any microturbine room.
-
-      (x) Existing buildings. For installation of microturbines in existing buildings, a structural evaluation of the method of support of the microturbine system shall be performed by a licensed engineer. Vibration isolation shall be provided for the microturbine system as required to mitigate vibration impact on the building structure.
-
-   (6) Inspection. Gas piping serving the microturbine shall be inspected by the Department. No self-certification of inspection shall be permitted. The inspection shall include a pipe integrity pressure test of all distribution piping. Installation and assembly of all system components shall be subject to a controlled inspection, in accordance with Section 27-132 of the New York City Building Code. Gas will be turned on only after successful completion of all testing.
-
-   (7) Fire Department permit. A Fire Department permit is required to operate the equipment.
-
-   (8) Fire Department Certificate of Fitness. A certificate of fitness ("C of F") holder, as authorized by the Fire Department, shall be required on the premises during regular business hours. The C of F holder shall be trained by the manufacturer or his authorized agent to shut down the equipment in an emergency.
-
-   (9) Service contract. The owner shall obtain a service contract from the microturbine manufacturer or a service company qualified by the manufacturer upon approval of the microturbine installation, and shall maintain it during the life of the installation.
-
-(b) Permitted locations.
-
-   (1) Outdoors at grade, on a roof or on a roof setback, within an integral weatherproof or lightweight enclosure acceptable to the manufacturer, subject to the following:
-
-      (i) Clearances. All components of the microturbine system shall be located a minimum of 4 feet from a wall or parapet, 8 feet from any building opening, including any door, operable window or intake opening and 5 feet from any exhaust termination or chimney. All microturbine systems located at grade shall satisfy the following clearances:
-
-         A. 50 feet from any subway entrance, exit, vent or other opening;
-
-         B. 20 feet from any above-ground flammable or combustible liquid storage tank;
-
-         C. 10 feet from any lot line, except 4 feet from any lot line in and adjacent to a manufacturing district;
-
-         D. 5 feet from any vent or fill line of any flammable or combustible liquid storage tank;
-
-         E. 5 feet from any parked motor vehicle.
-
-      (ii) Enclosure. All microturbine system components shall be contained within integral weather-proof enclosures pursuant to the listing of the device. The unit enclosure or the lightweight constructed enclosure shall be provided with a gas detection system with an alarm that annunciates in a supervised location. Equipment not directly associated with the microturbine system shall not be permitted in the same enclosure.
-
-   (2) Within a dedicated Mechanical Equipment Penthouse classified as Occupancy Group D-2, and subject to the following:
-
-      (i) Enclosure. The mechanical equipment penthouse shall be enclosed within 2-hour fire-resistance rated walls.
-
-      (ii) Fire suppression. The equipment room shall be fully sprinklered or provided with an equivalent fire suppression system acceptable to the Commissioner.
-
-      (iii) Mechanical ventilation. Mechanical ventilation shall be provided for the mechanical equipment penthouse at a rate sufficient to dissipate sensible heat released from the microturbine system in accordance with the manufacturer's recommendations, at a rate adequate to dilute the microturbine system rated flow rate of fuel gas below 25 percent of the lower flammability limit (LFL) of the fuel gas, or at an exhaust and make-up air rate of 80 times the maximum leakage rate of natural gas from the high-pressure system within the room at standard temperature and pressure based on the rated capacity of the gas compressor, whichever is greater. The ventilation rate shall not be less than required to maintain the ambient room temperature within the manufacturer's recommendations but shall not exceed 104 degrees Fahrenheit. Proper distribution of exhaust and make-up air must be provided to prevent pockets of increased gas concentration, including exhaust points high in the room to address the lighter-than-air properties of natural gas. Mechanical ventilation shall operate continuously.
-
-      (iv) Gas detection and alarm. The mechanical equipment penthouse shall be provided with a gas detection system with an alarm that annunciates in a supervised location. The gas detection system shall also trip the microturbine.
-
-      (v) Lighting. The mechanical equipment penthouse shall be provided with adequate lighting in accordance with the New York City Building Code.
-
-      (vi) Other equipment. Equipment not directly associated with the microturbine system, including but not limited to gas meters, shall not be permitted within the mechanical equipment penthouse.
-
-      (vii) Storage. No combustible materials shall be stored in the mechanical equipment penthouse.
-
-   (3) Within a dedicated room in a building, subject to the following:
-
-      (i) Capacity. The total installed rated capacity of the microturbine system in the room shall not exceed 1,000 kW.
-
-      (ii) Enclosure. The microturbine room shall be enclosed within 2-hour fire-resistance rated walls.
-
-      (iii) Fire suppression. The equipment room shall be fully sprinklered or provided with an equivalent fire suppression system acceptable to the Commissioner.
-
-      (iv) Mechanical ventilation. Mechanical ventilation shall be provided for the microturbine room at a rate sufficient to dissipate sensible heat released from the microturbine system in accordance with the manufacturer's recommendations, at a rate adequate to dilute the microturbine system rated flow rate of fuel gas below 25 percent of the lower flammability limit (LFL) of the fuel gas, or at an exhaust and make-up air rate of 80 times the maximum leakage rate of natural gas from the high-pressure system within the room at standard temperature and pressure based on the rated capacity of the gas compressor, whichever is greater. The ventilation rate shall not be less than required to maintain the ambient room temperature within manufacturer's recommendations but not to exceed 104 degrees Fahrenheit. Proper distribution of exhaust and make-up air must be provided to prevent pockets of increased gas concentration, including exhaust points high in the room, to address the lighter-than-air properties of natural gas. Mechanical ventilation shall operate continuously.
-
-      (v) Gas detection and alarm. The microturbine room shall be provided with a gas detection system with an alarm that annunciates in a supervised location. The gas detection system shall also trip the microturbine.
-
-      (vi) Lighting. The microturbine room shall be provided with adequate lighting in accordance with the New York City Building Code.
-
-      (vii) Other equipment. Equipment not directly associated with the microturbine system, including but not limited to gas meters, shall not be permitted within the microturbine room.
-
-      (viii) Storage. No combustible materials shall be stored in the microturbine room.
-
-   (4) Within a boiler or other mechanical equipment room of a building, subject to the following:
-
-      (i) Capacity. The total installed rated capacity of the microturbine system in this room shall not exceed 500 kW.
-
-      (ii) Enclosure. The mechanical equipment room shall be enclosed within 2-hour fire-resistance rated walls.
-
-      (iii) Fire suppression. The mechanical equipment room shall be fully sprinklered or provided with an equivalent fire suppression system acceptable to the Commissioner.
-
-      (iv) Mechanical ventilation. Mechanical ventilation shall be provided for the mechanical equipment room at the rate sufficient to dissipate sensible heat released from all gas-burning equipment located within the mechanical equipment room in accordance with the microturbine manufacturer's recommendations, at a rate adequate to dilute the microturbine system rated flow rate of fuel gas below 25 percent of the lower flammability limit (LFL) of the fuel gas, or at an exhaust and make-up air rate of 80 times the maximum leakage rate of natural gas from the high-pressure system within the room at standard temperature and pressure based on the rated capacity of the gas compressor, whichever is greater. The ventilation rate shall not be less than required to maintain the ambient room temperature within the manufacturer's recommendations but shall not exceed 104 degrees Fahrenheit. Proper distribution of exhaust and make-up air must be provided to prevent pockets of increased gas concentration, including exhaust points high in the room, to address the lighter-than-air properties of natural gas. Mechanical ventilation shall operate continuously.
-
-      (v) Gas detection and alarm. The mechanical equipment room shall be provided with a gas detection system with an alarm that annunciates in a supervised location. The gas detection system shall also trip the microturbine.
-
-      (vi) Lighting. The mechanical equipment room shall be provided with adequate lighting in accordance with the New York City Building Code.
-
-      (vii) Gas meters shall not be permitted within the mechanical equipment room.
-
-      (viii) Storage. No combustible materials, including fuels, shall be stored in the mechanical equipment room.
-
-
-
-
 Chapter 49: Outdoor Signs
 --------------------------------------------------
 
@@ -4959,6 +4826,139 @@ Absent evidence that revenue from the sign is clearly incidental to the revenue 
 (a) Signs that direct attention to a business on the zoning lot that is primarily operating a storage or warehouse use for business activities conducted off the zoning lot, and that storage or warehouse use occupies less than the full building on the zoning lot; or
 
 (b) All signs, other than non-commercial, larger than 200 square feet, unless it is apparent from the copy and/or depictions on the sign that it is used to direct the attention of vehicular and pedestrian traffic to the business on the zoning lot.
+
+
+
+
+Chapter 50: Distributed Energy Resource Standards
+--------------------------------------------------
+
+
+
+*§ 50-01 Requirements for the Installation of High-Pressure Natural Gas-Fired Microturbine Systems.* ::
+
+
+(a) General requirements. All microturbine systems shall comply with the following general requirements:
+
+   (1) Description.
+
+      (i) The Microturbine System shall include one or more combustion-based turbine-driven electrical generators with 500 kW or less capacity, natural gas compressing equipment, heat recovery devices, electrical power distribution devices, gas vents or chimneys and associated appurtenances.
+
+      (ii) Microturbine systems shall utilize natural gas at an inlet pressure to the system of not greater than 3 psig, and shall boost the gas pressure to an inlet pressure to the combustion device of greater than 15 psig within the unit or room enclosure.
+
+      (iii) The total nominal electrical capacity at standardized operating conditions of all microturbine systems located within a single building shall not exceed 2,000 kW.
+
+   (2) Listing or MEA approval. For microturbines with external compressors, the compressor shall be MEA-approved and all components of the compressor and the microturbine shall be listed by a nationally recognized testing laboratory approved by the Commissioner. For microturbines with the compressor integrated with other elements into the unit, the integrated unit as well as each of its components shall be listed by a nationally recognized testing laboratory approved by the Commissioner.
+
+   (3) Utility ruling. The applicant shall consult the appropriate utility company regarding the characteristics of existing gas and electrical service to the site before installing the microturbine system. The applicant shall provide to the Department prior to plan approval either documentation from the utility company confirming that the electrical interconnection requirements have been preliminarily satisfied or an affidavit from the owner that there will be no interconnection with the electrical grid.
+
+   (4) Filing and permit. Plans for the complete microturbine system installation shall be approved by the New York City Department of Buildings and a work permit shall be obtained. A set of the approved plans shall be provided to the Fire Department.
+
+   (5) Installation.
+
+      (i) Regulation. Installation of microturbine systems shall be in accordance with all applicable requirements of the New York City Building Code, the New York City Electrical Code, and Reference Standards. NFPA 37 shall also apply, except where the Codes or these Rules are more restrictive. Such regulations include, but are not limited to the following: fuel gas piping, egress, fire protection, fire detection, electrical power, ventilation, and gas vent or chimney.
+
+      (ii) External compressor. For microturbines with an external compressor, the following requirements shall be satisfied:
+
+         A. Gas connections between the compressor and the turbine shall be solid-welded; no threaded joints shall be permitted.
+
+         B. A flame arrestor shall be installed upstream of the gas compressor to prevent flame propagating to the natural gas fuel distribution lines.
+
+         C. The length of gas piping connecting the gas compressor with the combustion device, both of which shall be in the same room, shall not exceed 12 feet.
+
+      (iii) Annunciation. All annunciations shall be provided locally and remotely to indicate any abnormal conditions in the system. The remote panel shall be located in a continuously supervised area on the premises.
+
+      (iv) Automatic gas shut-off. Gas supply to the microturbine shall be provided with an automatic shut-off valve that is activated by a malfunction alarm from any component of the microturbine system.
+
+      (v) Remotely and manually controlled emergency gas shut-off. A normally closed solenoid gas shut-off valve shall be located immediately after the branch connection providing dedicated service to the microturbine installation. The valve shall be manually controlled at the valve and remotely controlled both outside the door(s) to the microturbine room and at a supervised location. The gas shut-off valve and the controls shall each be clearly identified with signage indicating "emergency gas shut-off to microturbine."
+
+      (vi) Fuel shut-off valve diagram. A diagram shall be conspicuously posted on any door or gate leading to a microturbine indicating the locations of all manual and automatic fuel shut-off valves.
+
+      (vii) Security. The microturbine shall be provided with adequate protection from theft, tampering and unauthorized use. Access to microturbine systems shall be restricted by locked doors but shall be readily accessible for maintenance, repair and Fire Department access. Microturbines shall be adequately protected from vehicle impact.
+
+      (viii) Manufacturer's requirements. All manufacturer's requirements and recommendations shall be satisfied.
+
+      (ix) Signage. Signage clearly stating "HIGH PRESSURE GAS" shall be posted on or in front of the microturbine or microturbine system, and on the outside of all doors accessing any microturbine room.
+
+      (x) Existing buildings. For installation of microturbines in existing buildings, a structural evaluation of the method of support of the microturbine system shall be performed by a licensed engineer. Vibration isolation shall be provided for the microturbine system as required to mitigate vibration impact on the building structure.
+
+   (6) Inspection. Gas piping serving the microturbine shall be inspected by the Department. No self-certification of inspection shall be permitted. The inspection shall include a pipe integrity pressure test of all distribution piping. Installation and assembly of all system components shall be subject to a controlled inspection, in accordance with Section 27-132 of the New York City Building Code. Gas will be turned on only after successful completion of all testing.
+
+   (7) Fire Department permit. A Fire Department permit is required to operate the equipment.
+
+   (8) Fire Department Certificate of Fitness. A certificate of fitness ("C of F") holder, as authorized by the Fire Department, shall be required on the premises during regular business hours. The C of F holder shall be trained by the manufacturer or his authorized agent to shut down the equipment in an emergency.
+
+   (9) Service contract. The owner shall obtain a service contract from the microturbine manufacturer or a service company qualified by the manufacturer upon approval of the microturbine installation, and shall maintain it during the life of the installation.
+
+(b) Permitted locations.
+
+   (1) Outdoors at grade, on a roof or on a roof setback, within an integral weatherproof or lightweight enclosure acceptable to the manufacturer, subject to the following:
+
+      (i) Clearances. All components of the microturbine system shall be located a minimum of 4 feet from a wall or parapet, 8 feet from any building opening, including any door, operable window or intake opening and 5 feet from any exhaust termination or chimney. All microturbine systems located at grade shall satisfy the following clearances:
+
+         A. 50 feet from any subway entrance, exit, vent or other opening;
+
+         B. 20 feet from any above-ground flammable or combustible liquid storage tank;
+
+         C. 10 feet from any lot line, except 4 feet from any lot line in and adjacent to a manufacturing district;
+
+         D. 5 feet from any vent or fill line of any flammable or combustible liquid storage tank;
+
+         E. 5 feet from any parked motor vehicle.
+
+      (ii) Enclosure. All microturbine system components shall be contained within integral weather-proof enclosures pursuant to the listing of the device. The unit enclosure or the lightweight constructed enclosure shall be provided with a gas detection system with an alarm that annunciates in a supervised location. Equipment not directly associated with the microturbine system shall not be permitted in the same enclosure.
+
+   (2) Within a dedicated Mechanical Equipment Penthouse classified as Occupancy Group D-2, and subject to the following:
+
+      (i) Enclosure. The mechanical equipment penthouse shall be enclosed within 2-hour fire-resistance rated walls.
+
+      (ii) Fire suppression. The equipment room shall be fully sprinklered or provided with an equivalent fire suppression system acceptable to the Commissioner.
+
+      (iii) Mechanical ventilation. Mechanical ventilation shall be provided for the mechanical equipment penthouse at a rate sufficient to dissipate sensible heat released from the microturbine system in accordance with the manufacturer's recommendations, at a rate adequate to dilute the microturbine system rated flow rate of fuel gas below 25 percent of the lower flammability limit (LFL) of the fuel gas, or at an exhaust and make-up air rate of 80 times the maximum leakage rate of natural gas from the high-pressure system within the room at standard temperature and pressure based on the rated capacity of the gas compressor, whichever is greater. The ventilation rate shall not be less than required to maintain the ambient room temperature within the manufacturer's recommendations but shall not exceed 104 degrees Fahrenheit. Proper distribution of exhaust and make-up air must be provided to prevent pockets of increased gas concentration, including exhaust points high in the room to address the lighter-than-air properties of natural gas. Mechanical ventilation shall operate continuously.
+
+      (iv) Gas detection and alarm. The mechanical equipment penthouse shall be provided with a gas detection system with an alarm that annunciates in a supervised location. The gas detection system shall also trip the microturbine.
+
+      (v) Lighting. The mechanical equipment penthouse shall be provided with adequate lighting in accordance with the New York City Building Code.
+
+      (vi) Other equipment. Equipment not directly associated with the microturbine system, including but not limited to gas meters, shall not be permitted within the mechanical equipment penthouse.
+
+      (vii) Storage. No combustible materials shall be stored in the mechanical equipment penthouse.
+
+   (3) Within a dedicated room in a building, subject to the following:
+
+      (i) Capacity. The total installed rated capacity of the microturbine system in the room shall not exceed 1,000 kW.
+
+      (ii) Enclosure. The microturbine room shall be enclosed within 2-hour fire-resistance rated walls.
+
+      (iii) Fire suppression. The equipment room shall be fully sprinklered or provided with an equivalent fire suppression system acceptable to the Commissioner.
+
+      (iv) Mechanical ventilation. Mechanical ventilation shall be provided for the microturbine room at a rate sufficient to dissipate sensible heat released from the microturbine system in accordance with the manufacturer's recommendations, at a rate adequate to dilute the microturbine system rated flow rate of fuel gas below 25 percent of the lower flammability limit (LFL) of the fuel gas, or at an exhaust and make-up air rate of 80 times the maximum leakage rate of natural gas from the high-pressure system within the room at standard temperature and pressure based on the rated capacity of the gas compressor, whichever is greater. The ventilation rate shall not be less than required to maintain the ambient room temperature within manufacturer's recommendations but not to exceed 104 degrees Fahrenheit. Proper distribution of exhaust and make-up air must be provided to prevent pockets of increased gas concentration, including exhaust points high in the room, to address the lighter-than-air properties of natural gas. Mechanical ventilation shall operate continuously.
+
+      (v) Gas detection and alarm. The microturbine room shall be provided with a gas detection system with an alarm that annunciates in a supervised location. The gas detection system shall also trip the microturbine.
+
+      (vi) Lighting. The microturbine room shall be provided with adequate lighting in accordance with the New York City Building Code.
+
+      (vii) Other equipment. Equipment not directly associated with the microturbine system, including but not limited to gas meters, shall not be permitted within the microturbine room.
+
+      (viii) Storage. No combustible materials shall be stored in the microturbine room.
+
+   (4) Within a boiler or other mechanical equipment room of a building, subject to the following:
+
+      (i) Capacity. The total installed rated capacity of the microturbine system in this room shall not exceed 500 kW.
+
+      (ii) Enclosure. The mechanical equipment room shall be enclosed within 2-hour fire-resistance rated walls.
+
+      (iii) Fire suppression. The mechanical equipment room shall be fully sprinklered or provided with an equivalent fire suppression system acceptable to the Commissioner.
+
+      (iv) Mechanical ventilation. Mechanical ventilation shall be provided for the mechanical equipment room at the rate sufficient to dissipate sensible heat released from all gas-burning equipment located within the mechanical equipment room in accordance with the microturbine manufacturer's recommendations, at a rate adequate to dilute the microturbine system rated flow rate of fuel gas below 25 percent of the lower flammability limit (LFL) of the fuel gas, or at an exhaust and make-up air rate of 80 times the maximum leakage rate of natural gas from the high-pressure system within the room at standard temperature and pressure based on the rated capacity of the gas compressor, whichever is greater. The ventilation rate shall not be less than required to maintain the ambient room temperature within the manufacturer's recommendations but shall not exceed 104 degrees Fahrenheit. Proper distribution of exhaust and make-up air must be provided to prevent pockets of increased gas concentration, including exhaust points high in the room, to address the lighter-than-air properties of natural gas. Mechanical ventilation shall operate continuously.
+
+      (v) Gas detection and alarm. The mechanical equipment room shall be provided with a gas detection system with an alarm that annunciates in a supervised location. The gas detection system shall also trip the microturbine.
+
+      (vi) Lighting. The mechanical equipment room shall be provided with adequate lighting in accordance with the New York City Building Code.
+
+      (vii) Gas meters shall not be permitted within the mechanical equipment room.
+
+      (viii) Storage. No combustible materials, including fuels, shall be stored in the mechanical equipment room.
 
 
 
