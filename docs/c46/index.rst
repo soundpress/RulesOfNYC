@@ -5324,7 +5324,7 @@ Underutilization. "Underutilization" means a statistically significant disparity
 
       (v) a contract for a procurement of information technology that is within the small purchase limits established by rule of the Procurement Policy Board.
 
-      (vi) a contract for Client Services, as defined above;* except that nothing in this section shall prevent the Commissioner in the Commissioner's sole discretion from requiring an employment report from a Client Services agency that has contracted with the City if the Commissioner believes that the Client Services agency is in violation of the equal employment requirements of City, State or Federal law.
+      (vi) a contract for Client Services, as defined above; except that nothing in this section shall prevent the Commissioner in the Commissioner's sole discretion from requiring an employment report from a Client Services agency that has contracted with the City if the Commissioner believes that the Client Services agency is in violation of the equal employment requirements of City, State or Federal law.
 
    (3) Unless otherwise provided by law, an Employment Report shall not be required on a preaward basis for an emergency contract awarded pursuant to Executive Order No. 2 (2nd) (1970), as amended, the City Charter § 315 or the General Municipal Law § 103(4). In such cases, the contracting agency shall promptly notify the Office of the award of such a contract by submission of a copy of the documentation submitted to the Law Department. In the event of an emergency not covered under the foregoing provisions, the contracting agency head will notify the Director in writing requesting a waiver of the preaward submission requirements. Said request must contain a statement of reason for such waiver request.
 
@@ -5922,7 +5922,9 @@ Section 1. Purpose. It is the purpose of this Order to ensure equal employment o
 
       (i) If the Bureau notifies the contracting agency and the contractor within five business days after the receipt by the Bureau of the employment report that the contractor has failed to submit a complete employment report, the Director may require the contracting agency to disapprove the contractor unless such deficiency is corrected in a timely manner;
 
-      (ii) If the Bureau notifies the contracting agency and the contractor within fifteen business days of the receipt by the Bureau of the completed employment report that the Bureau has found reason to believe that the contractor is not in substantial compliance with applicable legal requirements and the provisions of this Order, the Bureau shall promptly take such action as may be necessary to remedy the contractor's noncompliance as provided by this Order. Provided that a contracting agency may award a requirements contract or an open market purchase agreement prior to review by the Bureau of the contractor's employment report, but may not make a purchase order against such contract or agreement until it has first transmitted such contractor's employment report to the Bureau and the Bureau has completed its review in the manner provided by this section.
+      (ii) If the Bureau notifies the contracting agency and the contractor within fifteen business days of the receipt by the Bureau of the completed employment report that the Bureau has found reason to believe that the contractor is not in substantial compliance with applicable legal requirements and the provisions of this Order, the Bureau shall promptly take such action as may be necessary to remedy the contractor's noncompliance as provided by this Order.
+
+      Provided that a contracting agency may award a requirements contract or an open market purchase agreement prior to review by the Bureau of the contractor's employment report, but may not make a purchase order against such contract or agreement until it has first transmitted such contractor's employment report to the Bureau and the Bureau has completed its review in the manner provided by this section.
 
 (c) Employment Program. The Bureau may require a contractor to adopt and adhere to a program designed to ensure equal employment opportunity.
 
@@ -7312,25 +7314,27 @@ Each agency head will designate a deputy commissioner or other executive officer
 
    (13) Substitution of the MBE, WBE and/or EBE subcontractor whose participation was necessary to achieve a participation goal will be permitted only with approval of the contracting agency, and only in the following circumstances:
 
-(A) Unavailability after receipt of reasonable notice to proceed;
+      (A) Unavailability after receipt of reasonable notice to proceed;
 
-(B) Poor performance;
+      (B) Poor performance;
 
-(C) Financial incapacity;
+      (C) Financial incapacity;
 
-(D) Refusal by the subcontractor to honor the bid or proposal price or scope;
+      (D) Refusal by the subcontractor to honor the bid or proposal price or scope;
 
-(E) Mistake of fact or law about the elements of the scope of work of a solicitation where a reasonable price cannot be agreed;
+      (E) Mistake of fact or law about the elements of the scope of work of a solicitation where a reasonable price cannot be agreed;
 
-(F) Failure of the subcontractor to meet insurance, licensing, or bonding requirements;
+      (F) Failure of the subcontractor to meet insurance, licensing, or bonding requirements;
 
-(G) The subcontractor's withdrawal of its bid or proposal;
+      (G) The subcontractor's withdrawal of its bid or proposal;
 
-(H) Revocation of the subcontractor's certification as an MBE, WBE or EBE;
+      (H) Revocation of the subcontractor's certification as an MBE, WBE or EBE;
 
-(I) The contractor becomes aware of information negatively reflecting on the subcontractor's business integrity;
+      (I) The contractor becomes aware of information negatively reflecting on the subcontractor's business integrity;
 
-(J) Other circumstances allowed by the agency after consultation with the division. Where the contractor has established the basis for substitution to the satisfaction of the contract compliance officer, it must make good faith efforts to substitute with a subcontractor which can be counted toward achievement of the relevant goal. If the contractor plans to hire a subcontractor on any scope of work that was not previously disclosed in the compliance plan, the contractor must obtain approval of the agency M/WBE officer and must make good faith efforts to ensure that MBEs, WBEs and/or EBEs have a reasonable opportunity to bid on the new scope of work.
+      (J) Other circumstances allowed by the agency after consultation with the division.
+
+   Where the contractor has established the basis for substitution to the satisfaction of the contract compliance officer, it must make good faith efforts to substitute with a subcontractor which can be counted toward achievement of the relevant goal. If the contractor plans to hire a subcontractor on any scope of work that was not previously disclosed in the compliance plan, the contractor must obtain approval of the agency M/WBE officer and must make good faith efforts to ensure that MBEs, WBEs and/or EBEs have a reasonable opportunity to bid on the new scope of work.
 
    (14) For each contract in which a contracting agency has established participation goals, the agency will evaluate and assess the contractor's performance in meeting each such goal. Such evaluation and assessment must be a part of the contractor's overall contract performance evaluation required pursuant to § 333 of the charter.
 
@@ -7342,41 +7346,41 @@ Each agency head will designate a deputy commissioner or other executive officer
 *§ 11-67 Determining Credit for MBE, WBE and EBE Participation.* ::
 
 
-(1)  An agency's achievement of its annual goals will be calculated as follows:
+(1)  An agency's achievement of its annual goals will be calculated as follows:
 
-(a) The dollar amount that an agency has paid or is obligated to pay to a prime contractor which is an MBE, WBE or EBE, reduced by the dollar amount the contractor has paid or is obligated to pay its direct subcontractors upon their completion of work, will be credited toward the relevant goal. Where an agency has paid or is obligated to pay a prime contractor that is both an MBE and a WBE, such amount will be credited toward the relevant goal for MBEs or the goal for WBEs.
+   (a) The dollar amount that an agency has paid or is obligated to pay to a prime contractor which is an MBE, WBE or EBE, reduced by the dollar amount the contractor has paid or is obligated to pay its direct subcontractors upon their completion of work, will be credited toward the relevant goal. Where an agency has paid or is obligated to pay a prime contractor that is both an MBE and a WBE, such amount will be credited toward the relevant goal for MBEs or the goal for WBEs.
 
-(b) Except as provided in subparagraph (c) of this paragraph, the total dollar amount that a prime contractor of any agency has paid or is obligated to pay to a direct subcontractor that is an MBE, WBE or EBE will be credited toward the relevant goal. Where such a contractor has paid or is obligated to pay a direct subcontractor that is both an MBE and a WBE, such amount will be credited toward the relevant goal for MBEs or the goal for WBEs.
+   (b) Except as provided in subparagraph (c) of this paragraph, the total dollar amount that a prime contractor of any agency has paid or is obligated to pay to a direct subcontractor that is an MBE, WBE or EBE will be credited toward the relevant goal. Where such a contractor has paid or is obligated to pay a direct subcontractor that is both an MBE and a WBE, such amount will be credited toward the relevant goal for MBEs or the goal for WBEs.
 
-(c) In the case of contracts of the types identified pursuant to subparagraph (l) of this paragraph, the total dollar amount that a prime contractor of an agency has paid or is obligated to pay a direct subcontractor that is an MBE, WBE, or EBE, reduced by the dollar amount the direct subcontractor has paid or is obligated to pay its indirect subcontractors upon completion of work, will be credited toward the relevant goal. Where such a contractor has paid or is obligated to pay a direct contractor that is both an MBE and a WBE, such amount will be credited toward the relevant goal for MBEs or the goal for WBEs.
+   (c) In the case of contracts of the types identified pursuant to subparagraph (l) of this paragraph, the total dollar amount that a prime contractor of an agency has paid or is obligated to pay a direct subcontractor that is an MBE, WBE, or EBE, reduced by the dollar amount the direct subcontractor has paid or is obligated to pay its indirect subcontractors upon completion of work, will be credited toward the relevant goal. Where such a contractor has paid or is obligated to pay a direct contractor that is both an MBE and a WBE, such amount will be credited toward the relevant goal for MBEs or the goal for WBEs.
 
-(d) In the case of contracts of the types identified pursuant to subparagraph (l) of this paragraph, the total dollar amount that a direct subcontractor of the prime contractor has paid or is obligated to pay to an indirect subcontractor that is an MBE, WBE or EBE will be credited toward the relevant goal. Where such a contractor has paid or is obligated to pay an indirect contractor that is both an MBE and a WBE, such amount will be credited toward the relevant goal for MBEs or the goal for WBEs.
+   (d) In the case of contracts of the types identified pursuant to subparagraph (l) of this paragraph, the total dollar amount that a direct subcontractor of the prime contractor has paid or is obligated to pay to an indirect subcontractor that is an MBE, WBE or EBE will be credited toward the relevant goal. Where such a contractor has paid or is obligated to pay an indirect contractor that is both an MBE and a WBE, such amount will be credited toward the relevant goal for MBEs or the goal for WBEs.
 
-(e) For requirements contracts, credit will be given for the actual dollar amount paid under the contract.
+   (e) For requirements contracts, credit will be given for the actual dollar amount paid under the contract.
 
-(f) Where one or more MBEs, WBEs or EBEs is participating in a qualified joint venture, the amounts that the joint venture is required to pay its direct subcontractors will be subtracted as provided in subparagraph (a) of this paragraph, and then a percentage of the remaining dollar amount of the contract equal to the percentage of total profit to which MBEs, WBEs or EBEs are entitled pursuant to the joint venture agreement will be credited toward the relevant goal. Where such a participant in a joint venture is both an MBE and a WBE, such amount will be credited toward the relevant goal for MBEs or the goal for WBEs.
+   (f) Where one or more MBEs, WBEs or EBEs is participating in a qualified joint venture, the amounts that the joint venture is required to pay its direct subcontractors will be subtracted as provided in subparagraph (a) of this paragraph, and then a percentage of the remaining dollar amount of the contract equal to the percentage of total profit to which MBEs, WBEs or EBEs are entitled pursuant to the joint venture agreement will be credited toward the relevant goal. Where such a participant in a joint venture is both an MBE and a WBE, such amount will be credited toward the relevant goal for MBEs or the goal for WBEs.
 
-(g) No credit will be given for participation in a contract by an MBE, WBE or EBE that does not perform a commercially useful function.
+   (g) No credit will be given for participation in a contract by an MBE, WBE or EBE that does not perform a commercially useful function.
 
-(h) No credit will be given for the participation in a contract by any company that has not been certified as an MBE, WBE or EBE in accordance with § 1304 of the charter.
+   (h) No credit will be given for the participation in a contract by any company that has not been certified as an MBE, WBE or EBE in accordance with § 1304 of the charter.
 
-(i) In the case of a contract for which the contractor is paid on a commission basis, the dollar amount of the contract may be determined on the basis of the commission earned or reasonably anticipated to be earned under the contract.
+   (i) In the case of a contract for which the contractor is paid on a commission basis, the dollar amount of the contract may be determined on the basis of the commission earned or reasonably anticipated to be earned under the contract.
 
-(j) No credit will be given to a contractor for participation in a contract by a graduate MBE, WBE or EBE.
+   (j) No credit will be given to a contractor for participation in a contract by a graduate MBE, WBE or EBE.
 
-(k) The participation of a certified company will not be credited toward more than one participation goal.
+   (k) The participation of a certified company will not be credited toward more than one participation goal.
 
-(l) The city chief procurement officer may identify types of contracts where payments to indirect subcontractors will be credited toward the relevant participation goals.
+   (l) The city chief procurement officer may identify types of contracts where payments to indirect subcontractors will be credited toward the relevant participation goals.
 
-   (2) A contractor's achievement of its participation goals established in its utilization plan will be calculated as follows:
+(2) A contractor's achievement of its participation goals established in its utilization plan will be calculated as follows:
 
-(a) A contractor's use of direct subcontractors and their indirect subcontractors toward achievement of each goal established in its utilization plan will be calculated in the same manner as described for calculating the achievement of agency utilization goals as described in paragraph (1) of this subdivision, except that a contractor's use of a subcontractor that is both an MBE and a WBE will not be credited toward the contractor's achievement of more than one goal;
+   (a) A contractor's use of direct subcontractors and their indirect subcontractors toward achievement of each goal established in its utilization plan will be calculated in the same manner as described for calculating the achievement of agency utilization goals as described in paragraph (1) of this subdivision, except that a contractor's use of a subcontractor that is both an MBE and a WBE will not be credited toward the contractor's achievement of more than one goal;
 
-(b) An agency must permit a contractor that is an MBE, WBE or EBE to count its own participation toward fulfillment of the relevant participation goal, provided that the value of such a contractor's participation be determined by subtracting from the total value of the contract any amounts that the contractor pays to direct subcontractors, and provided further that a contractor that is both an MBE and a WBE will not be credited for its participation toward more than one goal;
+   (b) An agency must permit a contractor that is an MBE, WBE or EBE to count its own participation toward fulfillment of the relevant participation goal, provided that the value of such a contractor's participation be determined by subtracting from the total value of the contract any amounts that the contractor pays to direct subcontractors, and provided further that a contractor that is both an MBE and a WBE will not be credited for its participation toward more than one goal;
 
-(c) No credit will be given to the contractor for the participation of a company that is not certified in accordance with § 1304 of the charter before the date that the subcontractor completes the work under the subcontract.
+   (c) No credit will be given to the contractor for the participation of a company that is not certified in accordance with § 1304 of the charter before the date that the subcontractor completes the work under the subcontract.
 
-(d) An agency will permit a contractor that is a qualified joint venture to count a percentage of its own participation toward fulfillment of the relevant participation goal. The value of such a contractor's participation will be determined by subtracting from the total value of the contract any amounts that the contractor pays to direct subcontractors, and then multiplying the remainder by the percentage to be applied to total profit to determine the amount to which an MBE, WBE or EBE is entitled pursuant to the joint venture agreement; provided that where such a participant in a joint venture is both an MBE and a WBE, such amount will not be credited toward more than one goal.
+   (d) An agency will permit a contractor that is a qualified joint venture to count a percentage of its own participation toward fulfillment of the relevant participation goal. The value of such a contractor's participation will be determined by subtracting from the total value of the contract any amounts that the contractor pays to direct subcontractors, and then multiplying the remainder by the percentage to be applied to total profit to determine the amount to which an MBE, WBE or EBE is entitled pursuant to the joint venture agreement; provided that where such a participant in a joint venture is both an MBE and a WBE, such amount will not be credited toward more than one goal.
 
 
 

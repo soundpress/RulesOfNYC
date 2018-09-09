@@ -1407,7 +1407,9 @@ All deliveries of fuel oil to purchasers thereof, from vehicle tanks equipped wi
 *§ 3-95 Contents of Printer Tickets.* ::
 
 
-Such printer tickets shall be consecutively numbered and shall contain the following: date of delivery, name of the customer and the delivery address, truck number, sales number, grade, price per gallon and quantity of the oil delivered and the driver's signature; except that on those truck meters not equipped to print a sales number, the driver must have the initial totalizer readings recorded in ink or typed on his -daily route sheet, and the original totalizer numbers must be kept in the office; or the printer shall print totalizer readings on the delivery ticket; provided, further, that the price per gallon may be omitted on the copy of the delivery ticket required to be left at the point of delivery if a second copy of the delivery ticket, on which the price per gallon is recorded, is mailed or delivered to the purchaser of the fuel oil within 24 hours of delivery.
+Such printer tickets shall be consecutively numbered and shall contain the following: date of delivery, name of the customer and the delivery address, truck number, at least the last six digits of the Vehicle Identification Number, sales number, grade, price per gallon and quantity of the oil delivered and the driver's signature; except that on those truck meters not equipped to print a sales number, the driver must have the initial totalizer readings recorded in ink or typed on his -daily route sheet, and the original totalizer numbers must be kept in the office; or the printer shall print totalizer readings on the delivery ticket; provided, further, that the price per gallon may be omitted on the copy of the delivery ticket required to be left at the point of delivery if a second copy of the delivery ticket, on which the price per gallon is recorded, is mailed or delivered to the purchaser of the fuel oil within 48 hours of delivery.
+
+
 
 
 
@@ -1478,6 +1480,18 @@ When fuel oil is purchased for resale, or is sold, offered for sale or delivered
 
 
 Any person engaged in the business of or owning a vehicle used for the delivery of gasoline, kerosene or petroleum products, other than liquefied petroleum gases, in the City of New York, shall submit for inspection, at least annually, at a location and time designated by the Commissioner, the measuring devices and the vehicle tanks used as measures employed to determine the quantity delivered; provided, further, that measuring devices, which have been repaired or condemned and repaired, or whose security seals have been broken, for any reason whatsoever, shall be submitted for reinspection at a location and time designated by the Commissioner and that such procedure shall be applicable to any change or modification of a tank measure.
+
+
+
+
+
+
+*§ 3-103 Inspection of Printer Tickets.* ::
+
+
+Any person engaged in the business of delivering fuel oil to purchasers in the City of New York from vehicle tanks equipped with meters must retain a copy of each printer ticket for a period of two years after the corresponding delivery is made. At the time of inspection by the Department, the person must produce, upon request, a copy of any printer ticket delivered to a consumer within the past two years.
+
+
 
 
 
@@ -5556,7 +5570,9 @@ All records required to be retained shall be kept at the provider's principal pl
 *§ 5-261 Requirements for Written Agreements.* ::
 
 
-The statements required to be included in written agreements pursuant to § 20-772 of the New York City Administrative Code shall all be included together in a box that is set off from the rest of the text of the written agreement. The text of the required statements shall be in at least twelve (12) point type. The box containing the required statements shall appear immediately above the place for the consumer's signature.
+The statements required to be included in written agreements pursuant to subdivisions one through seven and nine through twelve of § 20-777 of the New York City Administrative Code shall all be included together in a box that is set off from the rest of the text of the written agreement. The text of the required statements shall be in at least twelve (12) point font. The box containing the required statements shall appear immediately above the place for the consumer's signature.
+
+
 
 
 
@@ -5566,31 +5582,21 @@ The statements required to be included in written agreements pursuant to § 20-7
 *§ 5-262 Completing Form Preparation Declaration.* ::
 
 
-Every immigration service consultant shall complete and sign the form preparation declaration contained on any form that was directly or indirectly prepared by such consultant as part of the service for which the consumer is charged a fee under the written agreement required by § 20-772.
+Every immigration assistance service provider shall complete and sign the form preparation declaration contained on any form that was directly or indirectly prepared by such provider as part of the service for which the consumer is charged a fee under the written agreement required by § 20-777.
 
 
 
 
 
 
-*§ 5-263 Requirements Concerning Posting of Signs.* ::
 
 
-(a)  The text in the signs required to be posted by § 20-773 of the New York City Administrative Code shall be in type large enough to be clearly legible and visible from where a provider or its agent transact business with a consumer.
+*§ 5-263 Exemption Obtained by Fraud or Misrepresentation.* ::
 
-(b) Every provider shall conspicuously post where he or she transacts business with a consumer a sign, at least 11 inches by 17 inches with letters at least 1-inch high, reading as follows, in English and in every other language in which business is transacted with consumers:
 
-   If you have a complaint about this business, contact:
+Any person or organization that obtained by fraud or misrepresentation any status set forth in § 20-775(b)(1) - (7) of the New York City Administrative Code, which otherwise would have entitled such person or organization to an exemption from regulation as a provider of immigration assistance services pursuant to Subchapter 14-a of Chapter 5 of Title 20 of the New York City Administrative Code, shall be deemed to have been a provider of immigration services and never exempt from such regulation.
 
-   The New York City Department of Consumer Affairs (Insert the Department's current address.)
 
-   (Insert current telephone number and current web address to which complaints may be sent within a box in bold faced type.)
-
-   Business name: (insert legal name of business).
-
-   Business address: (insert address of business).
-
-   Business phone: (insert current business phone number).
 
 
 
@@ -5600,9 +5606,11 @@ Every immigration service consultant shall complete and sign the form preparatio
 *§ 5-264 Disclosure of Surety Maintained by Provider.* ::
 
 
-(a) Every provider shall post a sign that shall be not less than eleven (11) inches by seventeen (17) inches in dimension stating that the provider is by law required to maintain in full force a surety in the principal amount of $50,000.00 and the name, address and telephone number where a claim against such surety is required to be filed. Such sign shall be conspicuously displayed in the area where it will be clearly visible to consumers entering and leaving the premises.
+(a)  Every immigration assistance service provider shall post a sign that shall be not less than eleven (11) inches by seventeen (17) inches in dimension stating that the provider is by law required to maintain in full force and effect, for the entire period during which the provider provides immigration assistance service and for one year after the provider ceases to do business as an immigration assistance service provider, a surety bond, contract of indemnity, or irrevocable letter of credit, payable to the people of the City of New York, in the principal amount of $50,000.00. The sign must also include the name, address and telephone number where a claim against such surety bond, contract of indemnity, or irrevocable letter of credit is required to be filed. Such sign shall be conspicuously displayed in the area where it will be clearly visible to consumers entering and leaving the premises.
 
-(b) Every provider shall also furnish to each consumer upon signing a contract the same information required to be posted on such sign. The information shall be furnished to each consumer on a separate sheet of paper in at least twelve (12) point bold faced type and in a color that contrasts sharply with the color of the paper.
+(b) Every immigration assistance service provider shall also furnish to each consumer, upon signing a contract, the same information required to be posted on such sign. The information shall be furnished to each consumer on a separate sheet of paper in at least twelve (12) point bold faced font and in a color that contrasts sharply with the color of the paper.
+
+
 
 
 

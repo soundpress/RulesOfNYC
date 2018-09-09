@@ -2916,7 +2916,9 @@ Equipment Acceptance Requirements
 
    (1) All installations, including pre-existing equipment, must be required to operate such that upon evaluation of performance tests (as outlined in subdivision (e) below) it is determined that they meet the following minimum requirements:
 
-   (2) When the boiler is fired at 80 to 110 percent of the burner's maximum operational oil/gas delivery rate as specified in the application, provided that this is less than the burner's maximum design oil/gas delivery rate, oil burning installations must have a combustion efficiency of at least 83 percent and gas burning installations must have a combustion efficiency of at least 80 percent. Dual-fuel installations must meet the requirements for each respective fuel. Oil fired installations which cannot achieve a combustion efficiency of at least 83 percent but which can achieve a combustion efficiency of at least 80 percent will have no more than one renewal cycle (three years) in which to perform necessary alterations to bring the equipment into compliance. Gas fired installations which cannot achieve a combustion efficiency of at least 80 percent will have one renewal cycle (three years) in which to perform necessary alterations to bring the equipment into compliance.
+   (2) When the boiler is fired at 80 to 110 percent of the burner's maximum operational oil/gas delivery rate as specified in the application, provided that this is less than the burner's maximum design oil/gas delivery rate, oil burning installations must have a combustion efficiency of at least 83 percent and gas burning installations must have a combustion efficiency of at least 80 percent. Dual-fuel installations must meet the requirements for each respective fuel.
+
+      Oil fired installations which cannot achieve a combustion efficiency of at least 83 percent but which can achieve a combustion efficiency of at least 80 percent will have no more than one renewal cycle (three years) in which to perform necessary alterations to bring the equipment into compliance. Gas fired installations which cannot achieve a combustion efficiency of at least 80 percent will have one renewal cycle (three years) in which to perform necessary alterations to bring the equipment into compliance.
 
    (3) When the boiler is fired at 80 to 110 percent of the burner's maximum operational oil/gas delivery rate as specified in the application, provided that this is less than the burner's maximum design oil/gas delivery rate, the maximum acceptable smoke reading must be smoke spot no. 3 in accordance with ASTM International Standard D2156-09.
 
@@ -2986,7 +2988,9 @@ H (feet) is the height of the stack.
 
 ΔP ≥ H × (ΔDr/H)
 
-where ΔP, ΔDr/H, and H are defined in (B). The static pressure is measured at the boiler outlet. The barometric damper or manual damper is gradually opened until the calculated DP is measured. The barometric damper is then returned to its original setting and the manual damper is then returned to its initial position and fixed. The department will review alternative demonstrations of adequate pressure differential if they comply with 2009 ASHRAE Fundamentals Chapter 21, and are stamped by a professional engineer.
+where ΔP, ΔDr/H, and H are defined in (B).
+
+The static pressure is measured at the boiler outlet. The barometric damper or manual damper is gradually opened until the calculated DP is measured. The barometric damper is then returned to its original setting and the manual damper is then returned to its initial position and fixed. The department will review alternative demonstrations of adequate pressure differential if they comply with 2009 ASHRAE Fundamentals Chapter 21, and are stamped by a professional engineer.
 
    (5) The smoke reading must be determined and recorded in accordance with ASTM D2156 (2009).
 
@@ -5859,11 +5863,13 @@ Editor's note: The amendment from City Record 3/15/2017 purported to add definit
 *§ 15-02 Best Available Retrofit Technology Determination.* ::
 
 
-Pursuant to section 24-163.4 of the Code, any diesel fuel-powered motor vehicle having a gross vehicle weight rating of more than 8,500 pounds that is owned or operated by a City agency must utilize the Best Available Retrofit Technology ("BART"), as defined in  15 RCNY § 15-01. In making their selections, agencies are directed to consult the EPA and CARB verified lists at http://www.epa.gov/ otaq/retrofit/retroverifiedlist.htm and http://www.arb.ca.gov/diesel/verdev/back-ground.htm. City agencies must select BART for their diesel fuel-powered motor vehicles in accordance with 15 RCNY § 15-05. City agencies must notify the Department of their selections, and the Department will make a determination as to whether the BART selected may be utilized for the vehicle, engine and application for which it was selected. The Department will notify the selecting agency of its determination. City agencies are not required to select BART for their diesel fuel-powered motor vehicles in the following circumstances:
+Pursuant to section 24-163.4 of the Code, any diesel fuel-powered motor vehicle having a gross vehicle weight rating of more than 8,500 pounds that is owned or operated by a City agency must utilize the Best Available Retrofit Technology ("BART"), as defined in 15 RCNY § 15-01. In making their selections, agencies are directed to consult the EPA and CARB verified lists at http://www.epa.gov/ otaq/retrofit/retroverifiedlist.htm and http://www.arb.ca.gov/diesel/verdev/back-ground.htm.
 
-   (1) If a vehicle will be retired within the next 12 months, the vehicle does not have to be retrofitted if vehicle usage is limited to 2000 miles; if the agency does not limit such usage to 2,000 miles, a DOC must be installed; and
+City agencies must select BART for their diesel fuel-powered motor vehicles in accordance with 15 RCNY § 15-05. City agencies must notify the Department of their selections, and the Department will make a determination as to whether the BART selected may be utilized for the vehicle, engine and application for which it was selected. The Department will notify the selecting agency of its determination. City agencies are not required to select BART for their diesel fuel-powered motor vehicles in the following circumstances:
 
-   (2) If a vehicle will be retired within the next 36 months, the vehicle must have a DOC installed, and vehicle usage must be limited to yearly mileage of 3,000 miles or 30% of the mileage averaged over the last three years, whichever is less. Agencies that are retiring their vehicles pursuant to this section must provide the odometer or hour-meter reading and date it was taken to the Department and must maintain a mileage log for the vehicle(s).
+(1) If a vehicle will be retired within the next 12 months, the vehicle does not have to be retrofitted if vehicle usage is limited to 2000 miles; if the agency does not limit such usage to 2,000 miles, a DOC must be installed; and
+
+(2) If a vehicle will be retired within the next 36 months, the vehicle must have a DOC installed, and vehicle usage must be limited to yearly mileage of 3,000 miles or 30% of the mileage averaged over the last three years, whichever is less. Agencies that are retiring their vehicles pursuant to this section must provide the odometer or hour-meter reading and date it was taken to the Department and must maintain a mileage log for the vehicle(s).
 
 
 
@@ -5873,7 +5879,7 @@ Pursuant to section 24-163.4 of the Code, any diesel fuel-powered motor vehicle 
 *§ 15-03 Motor Vehicles That Are Not Subject to BART.* ::
 
 
-Any diesel fuel-powered motor vehicle having a gross vehicle weight rating of more than 8,500 pounds that is owned or operated by a City agency and that is equipped with an engine certified to the applicable 2007 United States Environmental Protection Agency standard for particulate matter as set forth in section 86.007-11 of title 40 of the code of federal regulations or to any subsequent United States environmental protection agency standard for such pollutant that is at least as stringent, shall not be required to utilize the BART as defined in  15 RCNY § 15-01.
+Any diesel fuel-powered motor vehicle having a gross vehicle weight rating of more than 8,500 pounds that is owned or operated by a City agency and that is equipped with an engine certified to the applicable 2007 United States Environmental Protection Agency standard for particulate matter as set forth in section 86.007-11 of title 40 of the code of federal regulations or to any subsequent United States environmental protection agency standard for such pollutant that is at least as stringent, shall not be required to utilize the BART as defined in 15 RCNY § 15-01.
 
 
 
@@ -6814,7 +6820,9 @@ The following rules apply to any permitted occupation or use of New York City pr
 *§ 17-03 Applications and Application Fees.* ::
 
 
-(a) Applications may be obtained from the DEP website, from any authorized DEP employee or on request by calling DEP at (914) 742-2076. Prior to submission of the application, applicants must discuss their Permit request at the telephone number above with a staff member of the Land Use Permit Office or any other authorized DEP employee. Applications may then be hand-delivered to an authorized DEP employee or submitted by United States Postal Service (USPS) mail to: NYC Department of Environmental Protection Land Use Permit Office 465 Columbus Avenue Valhalla, NY 10595 Notification of the availability of internet application submission will be posted on the DEP website.
+(a) Applications may be obtained from the DEP website, from any authorized DEP employee or on request by calling DEP at (914) 742-2076. Prior to submission of the application, applicants must discuss their Permit request at the telephone number above with a staff member of the Land Use Permit Office or any other authorized DEP employee. Applications may then be hand-delivered to an authorized DEP employee or submitted by United States Postal Service (USPS) mail to: NYC Department of Environmental Protection Land Use Permit Office 465 Columbus Avenue Valhalla, NY 10595
+
+Notification of the availability of internet application submission will be posted on the DEP website.
 
 (b) All applications for Permits must be accompanied by a non-refundable application fee of twenty-five dollars ($25.00) payable to the order of "The City of New York" by money order or check unless such fee is waived pursuant to Section 17-07(c). Notification of the availability of payment by credit card will be posted on the DEP website.
 
@@ -6920,7 +6928,7 @@ DEP reserves the rights of its employees, contractors and other persons approved
 .. list-table::
     :header-rows: 1
 
-    * - 
+    * -  
       - Category
       - Permit Fee
     * - Access over City Property This includes, but shall not be limited to, temporary or permanent physical access ways such as driveways, logging roads and construction entranceways. 
@@ -6931,7 +6939,7 @@ DEP reserves the rights of its employees, contractors and other persons approved
       - $95.03 
     * - •
       - Each 300 feet in length, or part thereof, additional fee per foot of width over 10 feet, Non- Commercial uses $19.00
-      - 
+      -  
     * - •
       - Each 300 feet in length, or part thereof, for widths less than or equal to 10 feet, Commercial Uses
       - $190.08
@@ -7021,7 +7029,7 @@ DEP reserves the rights of its employees, contractors and other persons approved
       - $475.27 
     * - •
       - A separate Water Supply Agreement with specific costs for water withdrawal may also be required
-      - 
+      -  
     * - Subsurface Utilities or Facilities (Public Service Corp.)
       - 
       - 
@@ -7121,7 +7129,7 @@ DEP reserves the rights of its employees, contractors and other persons approved
     * - •
       - Additional Permit fees for Aqueduct Crossings
       - 10% of property value of area used plus reimbursement of taxes
-    * - Small Transsformers and Regulators
+    * - Small Transformers and Regulators
       - 
       - 
     * - •
@@ -7150,7 +7158,7 @@ DEP reserves the rights of its employees, contractors and other persons approved
       - $76.03 
     * - •
       - Aerial, Buried, or Submarine Fiber Optic Cable (any size)
-      - 
+      -  
     * - •
       - Each 300 feet in length, or part thereof, for each wire
       - $76.03
@@ -7234,7 +7242,7 @@ DEP reserves the rights of its employees, contractors and other persons approved
       - $10.00
     * - •
       - Other Non-Commercial uses (Permit fee double for commercial use):
-      - 
+      -  
     * - •
       - Less than or equal to 5,000 square feet
       - $250.00
@@ -7445,7 +7453,7 @@ Such revocation, other than for DEP's need to use its land for water supply purp
 *§ 17-10 Permittee's Improvements to be Removed and City Property Restored on Notice of Permit Revocation or Permit Termination.* ::
 
 
-Upon Permit revocation, any improvements belonging to the permittee must be removed from City property, at the permittee's expense, within thirty (30) days of such revocation unless otherwise authorized by DEP in writing. The property must be restored by the permittee or DEP in accordance with Section 17-08(c) of these Rules within thirty (30) days of revocation or as otherwise agreed upon. Any improvement(s) remaining on City property beyond thirty (30) days of the written notice shall be considered abandoned and title to such improvement(s) shall become vested in the City, at the City's option. Should the City elect to take title, the improvement(s) shall be disposed as the Commissioner may direct in lieu of any other procedure for the disposition of abandoned property required or permitted by law, and the former permittee waives any right to assert a claim against DEP pursuant to the provisions of the New York State Personal Property Law, Abandoned Property Law or any such other procedure. DEP shall seek reimbursement for any costs incurred for the removal of any such improvement(s) and shall also seek forfeiture of any bond provided.
+Upon Permit revocation, any improvements belonging to the permittee must be removed from City property, at the permittee's expense, within thirty (30) days of such revocation unless otherwise authorized by DEP in writing. The property must be restored by the permittee or DEP in accordance with 15 RCNY § 17-08(c) within thirty (30) days of revocation or as otherwise agreed upon. Any improvement(s) remaining on City property beyond thirty (30) days of the written notice shall be considered abandoned and title to such improvement(s) shall become vested in the City, at the City's option. Should the City elect to take title, the improvement(s) shall be disposed as the Commissioner may direct in lieu of any other procedure for the disposition of abandoned property required or permitted by law, and the former permittee waives any right to assert a claim against DEP pursuant to the provisions of the New York State Personal Property Law, Abandoned Property Law or any such other procedure. DEP shall seek reimbursement for any costs incurred for the removal of any such improvement(s) and shall also seek forfeiture of any bond provided.
 
 
 
@@ -11160,7 +11168,9 @@ Subject to review by the Department, the degree of hazard shall be determined by
 
    (2) Placement of MTU or temporary remote receptacle. Placement of the MTU shall comply with the following guidelines:
 
-      (i) Location. The MTU shall be located on the front or side exterior of the building, unless such building and an immediately adjacent building have aluminum siding or other signal reflective material in which case the MTU shall be located on the front exterior only. The MTU must be located above ground level, and must not be placed behind permanently-sited large metal objects. All wire splices shall be sealed with gel caps. For apartment or office buildings with glass, marble or other similar facades, a smaller optional remote antenna MTU is available from the Department, or the MTU may be located inside a building if transmissions can be received by the AMR system. The location of the MTU must be indicated in the meter permit as returned to the Department. For all underground meter installations, the remote pad shall be mounted in the meter pit lid or some support or structure immediately adjacent to the pit, to allow meter readings without opening the lid.
+      (i) Location. The MTU shall be located on the front or side exterior of the building, unless such building and an immediately adjacent building have aluminum siding or other signal reflective material in which case the MTU shall be located on the front exterior only. The MTU must be located above ground level, and must not be placed behind permanently-sited large metal objects. All wire splices shall be sealed with gel caps. For apartment or office buildings with glass, marble or other similar facades, a smaller optional remote antenna MTU is available from the Department, or the MTU may be located inside a building if transmissions can be received by the AMR system. The location of the MTU must be indicated in the meter permit as returned to the Department.
+
+         For all underground meter installations, the remote pad shall be mounted in the meter pit lid or some support or structure immediately adjacent to the pit, to allow meter readings without opening the lid.
 
       (ii) Height. The receptacle shall be set at forty-two (42) inches above ground, but may be set between twelve (12) and sixty (60) inches if circumstances preclude a better height. Receptacles may be installed beyond these limits only when approved in writing by the Department.
 
@@ -14691,7 +14701,7 @@ Chapter 31: Rule Governing House/site Connections To the Sewer System
 
 
 
-*§ 31-01** Applicability and Scope.* ::
+*§ 31-01 Applicability and Scope.* ::
 
 
 (a) Applicability.
@@ -14702,175 +14712,175 @@ Chapter 31: Rule Governing House/site Connections To the Sewer System
 
 (b) Definitions. For the purposes of this Rule, the following definitions apply:
 
-Agency. "Agency" means an agency of the City.
+   Agency. "Agency" means an agency of the City.
 
-Allowable flow. "Allowable flow" means the storm flow from developments based on existing sewer design criteria that can be released into an existing storm of combined sewer.
+   Allowable flow. "Allowable flow" means the storm flow from developments based on existing sewer design criteria that can be released into an existing storm of combined sewer.
 
-Allowable sewer or drain. "Allowable sewer or drain" means an existing sewer or drain built in accordance with a City drainage plan or an approved Drainage proposal, and is the approved outlet to receive Flow from the site of an existing or a proposed development.
+   Allowable sewer or drain. "Allowable sewer or drain" means an existing sewer or drain built in accordance with a City drainage plan or an approved Drainage proposal, and is the approved outlet to receive Flow from the site of an existing or a proposed development.
 
-Alteration map. "Alteration map" means a map showing proposed changes to the City map.
+   Alteration map. "Alteration map" means a map showing proposed changes to the City map.
 
-A.N.S.I. "A.N.S.I." means the American National Standards Institute.
+   A.N.S.I. "A.N.S.I." means the American National Standards Institute.
 
-Applicant. "Applicant" means the Owner of an existing or a proposed development or his or her legally designated representative.
+   Applicant. "Applicant" means the Owner of an existing or a proposed development or his or her legally designated representative.
 
-Applicant's offering plan. "Applicant's offering plan" or "Applicant's offering prospectus" means the set of legal documents setting forth the rights, privileges, and duties of purchasers of shares in the Applicant's proposed development, and which is submitted to the New York State Department of Law in accordance with the requirements of Section 352-e of the New York State General Business Law.
+   Applicant's offering plan. "Applicant's offering plan" or "Applicant's offering prospectus" means the set of legal documents setting forth the rights, privileges, and duties of purchasers of shares in the Applicant's proposed development, and which is submitted to the New York State Department of Law in accordance with the requirements of Section 352-e of the New York State General Business Law.
 
-Approved outlet. "Approved outlet" means an existing storm, sanitary or combined sewer or drain built to receive flow from a development.
+   Approved outlet. "Approved outlet" means an existing storm, sanitary or combined sewer or drain built to receive flow from a development.
 
-As-built drawing or Record drawing. "As-built drawing" or "Record drawing" means a map or a drawing which represents the actual constructed state of a City sewer, a Private sewer, or a Private drain and appurtenances.
+   As-built drawing or Record drawing. "As-built drawing" or "Record drawing" means a map or a drawing which represents the actual constructed state of a City sewer, a Private sewer, or a Private drain and appurtenances.
 
-A.S.T.M. "A.S.T.M." means the American Standards for the Testing of Materials, latest edition.
+   A.S.T.M. "A.S.T.M." means the American Standards for the Testing of Materials, latest edition.
 
-Available sewer or drain. "Available sewer or drain" means an existing fronting sewer or drain which has existing adequate capacity for use by an existing or a proposed development.
+   Available sewer or drain. "Available sewer or drain" means an existing fronting sewer or drain which has existing adequate capacity for use by an existing or a proposed development.
 
-Block. "Block" means a tract of land bounded by consecutive intersecting streets.
+   Block. "Block" means a tract of land bounded by consecutive intersecting streets.
 
-Building. "Building" means a structure having a specific Block and Lot (or tax sub-lot). In general, a structure will be considered a Building if it has a separate entrance from an outdoor area.
+   Building. "Building" means a structure having a specific Block and Lot (or tax sub-lot). In general, a structure will be considered a Building if it has a separate entrance from an outdoor area.
 
-BWSO. "BWSO" means the Bureau of Water &amp; Sewer Operations or its successor.
+   BWSO. "BWSO" means the Bureau of Water &amp; Sewer Operations or its successor.
 
-Catch basin. "Catch basin" means a structure designed to collect and convey stormwater runoff to a Storm sewer, a Combined sewer, or an approved outlet by means of a catch basin connection pipe.
+   Catch basin. "Catch basin" means a structure designed to collect and convey stormwater runoff to a Storm sewer, a Combined sewer, or an approved outlet by means of a catch basin connection pipe.
 
-City. "City" means the City of New York.
+   City. "City" means the City of New York.
 
-City drainage plan. "City drainage plan" or "drainage plan" means a plan for the proper sewage and drainage of the City of New York, or any part thereof, prepared and adopted in accordance with Section 24-503 of the Administrative Code of the City of New York.
+   City drainage plan. "City drainage plan" or "drainage plan" means a plan for the proper sewage and drainage of the City of New York, or any part thereof, prepared and adopted in accordance with Section 24-503 of the Administrative Code of the City of New York.
 
-City map. "City map" means the City map referred to in Sections 198 and 199 of the City Charter.
+   City map. "City map" means the City map referred to in Sections 198 and 199 of the City Charter.
 
-Code. "Code" means the Administrative Code of the City of New York.
+   Code. "Code" means the Administrative Code of the City of New York.
 
-Combined sewage. "Combined sewage" means a combination of Sanitary sewage, industrial wastewater and stormwater runoff.
+   Combined sewage. "Combined sewage" means a combination of Sanitary sewage, industrial wastewater and stormwater runoff.
 
-Combined sewer. "Combined sewer" means a sewer receiving a combination of sanitary and/or industrial wastewater and stormwater runoff.
+   Combined sewer. "Combined sewer" means a sewer receiving a combination of sanitary and/or industrial wastewater and stormwater runoff.
 
-Combined sewer connection. "Combined sewer connection" means a Sewer connection which extends from the property line and conveys both Sanitary sewage and storm water runoff to a Combined sewer or drain.
+   Combined sewer connection. "Combined sewer connection" means a Sewer connection which extends from the property line and conveys both Sanitary sewage and storm water runoff to a Combined sewer or drain.
 
-Commissioner. "Commissioner" means the Commissioner of the New York City Department of Environmental Protection.
+   Commissioner. "Commissioner" means the Commissioner of the New York City Department of Environmental Protection.
 
-Condominium association. "Condominium association" means the legal entity comprising the present and future unit-Owners of a condominium development and established in accordance with Article 9-B of the New York State Real Property Law.
+   Condominium association. "Condominium association" means the legal entity comprising the present and future unit-Owners of a condominium development and established in accordance with Article 9-B of the New York State Real Property Law.
 
-Connection permit. "Connection permit" means a written authorization issued by the DEP to connect to an existing sewer or drain or an approved outlet.
+   Connection permit. "Connection permit" means a written authorization issued by the DEP to connect to an existing sewer or drain or an approved outlet.
 
-Contractor. "Contractor" means an entity retained by the Owner/Applicant to construct a facility.
+   Contractor. "Contractor" means an entity retained by the Owner/Applicant to construct a facility.
 
-Contributory drainage area. "Contributory drainage area" means a drainage area bounded by the ridge lines of the furthest boundaries from which flow reaches a point of discharge.
+   Contributory drainage area. "Contributory drainage area" means a drainage area bounded by the ridge lines of the furthest boundaries from which flow reaches a point of discharge.
 
-DEP. "DEP" means the New York City Department of Environmental Protection or its successor Agency.
+   DEP. "DEP" means the New York City Department of Environmental Protection or its successor Agency.
 
-Detention system. "Detention system" means a structure designed to store an accumulation of stormwater runoff and release it at a controlled rate into an approved outlet sewer system of limited capacity.
+   Detention system. "Detention system" means a structure designed to store an accumulation of stormwater runoff and release it at a controlled rate into an approved outlet sewer system of limited capacity.
 
-Direct discharge. "Direct discharge" means a discharge by means of a sewer connection to a City sewer, a Private sewer, a Private drain, or an approved outlet fronting the property.
+   Direct discharge. "Direct discharge" means a discharge by means of a sewer connection to a City sewer, a Private sewer, a Private drain, or an approved outlet fronting the property.
 
-DOB. "DOB" means the New York City Department of Buildings or its successor Agency.
+   DOB. "DOB" means the New York City Department of Buildings or its successor Agency.
 
-DOF. "DOF" means the New York City Department of Finance or its successor Agency.
+   DOF. "DOF" means the New York City Department of Finance or its successor Agency.
 
-DOT. "DOT" means the New York City Department of Transportation or its successor Agency.
+   DOT. "DOT" means the New York City Department of Transportation or its successor Agency.
 
-Drainage proposal. "Drainage proposal" means a plan showing a proposed sewerage system to serve an existing or a proposed development and Contributory drainage area that does not conform to the City drainage plan.
+   Drainage proposal. "Drainage proposal" means a plan showing a proposed sewerage system to serve an existing or a proposed development and Contributory drainage area that does not conform to the City drainage plan.
 
-Dwelling unit. "Dwelling unit" means one or more rooms in a Building that are arranged, designed, used or intended for use by one family.
+   Dwelling unit. "Dwelling unit" means one or more rooms in a Building that are arranged, designed, used or intended for use by one family.
 
-Finally mapped street. "Finally mapped street" means a street as shown on the City map.
+   Finally mapped street. "Finally mapped street" means a street as shown on the City map.
 
-Flow. "Flow" means a continuous movement of storm water or wastewater.
+   Flow. "Flow" means a continuous movement of storm water or wastewater.
 
-Fronting. "Fronting" means an existing sewer or drain abutting an existing or proposed development.
+   Fronting. "Fronting" means an existing sewer or drain abutting an existing or proposed development.
 
-Groundwater. "Groundwater" means any existing water in subsoil stratums, including water from springs and natural underground streams, but excluding water from wells used for the delivery of potable or processed water.
+   Groundwater. "Groundwater" means any existing water in subsoil stratums, including water from springs and natural underground streams, but excluding water from wells used for the delivery of potable or processed water.
 
-Groundwater table. "Groundwater table" means the actual depth of ground water below surface.
+   Groundwater table. "Groundwater table" means the actual depth of ground water below surface.
 
-Homeowners' association. "Homeowners' association" means the legal entity compromising the present and future homeowners/unit owners of a development.
+   Homeowners' association. "Homeowners' association" means the legal entity compromising the present and future homeowners/unit owners of a development.
 
-House connection proposal. "House connection proposal" means a plan showing proposed Sewer connection(s) to a City sewer, a Private sewer, a Private drain, or an approved outlet to serve Fee Simple One (1), Two (2) or Three (3) Family Dwelling Units.
+   House connection proposal. "House connection proposal" means a plan showing proposed Sewer connection(s) to a City sewer, a Private sewer, a Private drain, or an approved outlet to serve Fee Simple One (1), Two (2) or Three (3) Family Dwelling Units.
 
-Indirect discharge. "Indirect discharge" means a discharge into a City sewer, a Private sewer, or an approved outlet by means other than a direct discharge.
+   Indirect discharge. "Indirect discharge" means a discharge into a City sewer, a Private sewer, or an approved outlet by means other than a direct discharge.
 
-Industrial waste. "Industrial waste" means any liquid, gaseous or solid substance, or a combination thereof, resulting from any process of industry, manufacturing, trade or business, or from the development or recovery of natural resources.
+   Industrial waste. "Industrial waste" means any liquid, gaseous or solid substance, or a combination thereof, resulting from any process of industry, manufacturing, trade or business, or from the development or recovery of natural resources.
 
-Inspector. "Inspector" means a DEP or DOB sewer connection inspector.
+   Inspector. "Inspector" means a DEP or DOB sewer connection inspector.
 
-Internal drain. "Internal drain" means a drainage system under the jurisdiction of the DOB and which is not located in a Final mapped street, a Record street or an Easement under the jurisdiction of the DEP.
+   Internal drain. "Internal drain" means a drainage system under the jurisdiction of the DOB and which is not located in a Final mapped street, a Record street or an Easement under the jurisdiction of the DEP.
 
-Intercepting sewer. "Intercepting sewer" or "Interceptor sewer" means a sewer which, during dry weather, receives the dry-weather flow from a number of transverse Sanitary or Combined sewers and conveys such Flow to a wastewater pollution control plant. During storms, it receives predetermined quantities of dry-weather flow mixed with stormwater and conveys Combined sewage to a wastewater pollution control plant.
+   Intercepting sewer. "Intercepting sewer" or "Interceptor sewer" means a sewer which, during dry weather, receives the dry-weather flow from a number of transverse Sanitary or Combined sewers and conveys such Flow to a wastewater pollution control plant. During storms, it receives predetermined quantities of dry-weather flow mixed with stormwater and conveys Combined sewage to a wastewater pollution control plant.
 
-Interceptor-collector. "Interceptor-collector" means an Intercepting sewer which also serves as a local Sanitary sewer.
+   Interceptor-collector. "Interceptor-collector" means an Intercepting sewer which also serves as a local Sanitary sewer.
 
-Legally designated representative. "Legally designated representative" means a Professional Engineer or Registered Architect licensed by the State of New York who represents the Owner in connection with a proposal, plan, or application.
+   Legally designated representative. "Legally designated representative" means a Professional Engineer or Registered Architect licensed by the State of New York who represents the Owner in connection with a proposal, plan, or application.
 
-Licensed Master Plumber. "Licensed Master Plumber" means a plumber licensed to perform plumbing work within the City by the City agency having jurisdiction over such licensing.
+   Licensed Master Plumber. "Licensed Master Plumber" means a plumber licensed to perform plumbing work within the City by the City agency having jurisdiction over such licensing.
 
-Lot. "Lot" means a tax lot as shown on the Tax map of the City.
+   Lot. "Lot" means a tax lot as shown on the Tax map of the City.
 
-Mapping action. "Mapping action" means a proceeding to change the City map pursuant to the New York City Charter.
+   Mapping action. "Mapping action" means a proceeding to change the City map pursuant to the New York City Charter.
 
-Non-plumbing work. "Non-plumbing work" means any work not referenced in the definition of "Plumbing Work" as set forth in Section 28-401.3 of the Code, including excavation work, construction work or any other work not classified as piping work.
+   Non-plumbing work. "Non-plumbing work" means any work not referenced in the definition of "Plumbing Work" as set forth in Section 28-401.3 of the Code, including excavation work, construction work or any other work not classified as piping work.
 
-Opinion of dedication. "Opinion of dedication" means an opinion by the Corporation Counsel that a street is an open and continuously traveled street dedicated for public use.
+   Opinion of dedication. "Opinion of dedication" means an opinion by the Corporation Counsel that a street is an open and continuously traveled street dedicated for public use.
 
-Owner. "Owner" means any individual, firm, corporation, company, association, society, institution or any other legal entity that owns the property, appurtenances, and easements compromising an existing or a proposed development.
+   Owner. "Owner" means any individual, firm, corporation, company, association, society, institution or any other legal entity that owns the property, appurtenances, and easements compromising an existing or a proposed development.
 
-Private drain. "Private drain" means a private sanitary, stormwater, or combined drain that is constructed in a Finally mapped street, a Record street, or an easement and discharges into an approved outlet.
+   Private drain. "Private drain" means a private sanitary, stormwater, or combined drain that is constructed in a Finally mapped street, a Record street, or an easement and discharges into an approved outlet.
 
-Private pumping station. "Private pumping station" means a privately owned, operated, and maintained wastewater collection facility required for the pumping of sanitary or stormwater runoff or Combined sewage to a Private force main.
+   Private pumping station. "Private pumping station" means a privately owned, operated, and maintained wastewater collection facility required for the pumping of sanitary or stormwater runoff or Combined sewage to a Private force main.
 
-Private force main. "Private force main" means a privately owned, operated and maintained pressurized pipe designated to receive the wastewater discharged from a Private pumping station and to convey it under pressure to a point of discharge.
+   Private force main. "Private force main" means a privately owned, operated and maintained pressurized pipe designated to receive the wastewater discharged from a Private pumping station and to convey it under pressure to a point of discharge.
 
-Private sewage treatment plant. "Private sewage treatment plant" means a privately owned, operated and maintained wastewater collection facility located on private property that is used for the physical, chemical, and/or biological treatment of wastewater.
+   Private sewage treatment plant. "Private sewage treatment plant" means a privately owned, operated and maintained wastewater collection facility located on private property that is used for the physical, chemical, and/or biological treatment of wastewater.
 
-Private sewer. "Private sewer" means a private sanitary, stormwater, or combined sewer that is designed and constructed in accordance with the requirements of the City drainage plan to serve a specific development and is located in a Finally mapped street, a Record street, or a sewer easement, and discharges into an approved outlet.
+   Private sewer. "Private sewer" means a private sanitary, stormwater, or combined sewer that is designed and constructed in accordance with the requirements of the City drainage plan to serve a specific development and is located in a Finally mapped street, a Record street, or a sewer easement, and discharges into an approved outlet.
 
-Private sewer plan or private drain plan. "Private sewer plan" or "Private drain plan" means a construction plan for the installation of Private sewers or Private drains and appurtenances thereto.
+   Private sewer plan or private drain plan. "Private sewer plan" or "Private drain plan" means a construction plan for the installation of Private sewers or Private drains and appurtenances thereto.
 
-Record street. "Record street" means a street that appears on the Tax map of the City, but is not a Finally mapped street.
+   Record street. "Record street" means a street that appears on the Tax map of the City, but is not a Finally mapped street.
 
-Repair/relay. "Repair/relay" means complete, substantial, or partial repair or replacement of any existing Sewer connection.
+   Repair/relay. "Repair/relay" means complete, substantial, or partial repair or replacement of any existing Sewer connection.
 
-Retention system. "Retention system" means a structure designed to store an accumulation of stormwater runoff and dispose of it onsite.
+   Retention system. "Retention system" means a structure designed to store an accumulation of stormwater runoff and dispose of it onsite.
 
-Rule. "Rule" means all the standards and requirements of the DEP governing connection to the sewer system, as contained herein.
+   Rule. "Rule" means all the standards and requirements of the DEP governing connection to the sewer system, as contained herein.
 
-Runoff. "Runoff" means overland stormwater flow that is not absorbed into the ground.
+   Runoff. "Runoff" means overland stormwater flow that is not absorbed into the ground.
 
-Sanitary sewage. "Sanitary sewage" means bodily waste, swimming pool discharge, wash water, or similar waste which is discharged into a Sanitary sewer or a Combined sewer.
+   Sanitary sewage. "Sanitary sewage" means bodily waste, swimming pool discharge, wash water, or similar waste which is discharged into a Sanitary sewer or a Combined sewer.
 
-Sanitary sewer. "Sanitary sewer" means a sewer which conveys Sanitary sewage and/or industrial waste.
+   Sanitary sewer. "Sanitary sewer" means a sewer which conveys Sanitary sewage and/or industrial waste.
 
-Sanitary sewer connection. "Sanitary sewer connection" means a Sewer connection which extends from the property line of a building and conveys only Sanitary sewage to a Sanitary sewer/drain or a Combined sewer/drain.
+   Sanitary sewer connection. "Sanitary sewer connection" means a Sewer connection which extends from the property line of a building and conveys only Sanitary sewage to a Sanitary sewer/drain or a Combined sewer/drain.
 
-Seepage basin. "Seepage basin" means a drainage structure constructed in the street area designed to dispose of street storm water runoff collected by catch basins and catch basin connections at locations where storm or combined sewer do not exit.
+   Seepage basin. "Seepage basin" means a drainage structure constructed in the street area designed to dispose of street storm water runoff collected by catch basins and catch basin connections at locations where storm or combined sewer do not exit.
 
-Sewer certification. "Sewer certification" or "Sewer availability certification" means a house connection proposal application or site connection proposal application to certify the adequacy of the existing abutting sewer to receive site storm and sanitary discharge from a development.
+   Sewer certification. "Sewer certification" or "Sewer availability certification" means a house connection proposal application or site connection proposal application to certify the adequacy of the existing abutting sewer to receive site storm and sanitary discharge from a development.
 
-Sewer connection. "Sewer connection" means that part of a sanitary, stormwater, or combined sewer disposal pipe which extends from the property line of a Building to an existing City sewer, a Private sewer, a Private drain, or an approved outlet under the jurisdiction of the DEP.
+   Sewer connection. "Sewer connection" means that part of a sanitary, stormwater, or combined sewer disposal pipe which extends from the property line of a Building to an existing City sewer, a Private sewer, a Private drain, or an approved outlet under the jurisdiction of the DEP.
 
-Sewer easement. "Sewer easement" means a nonpossessory interest in private property, which allows for the limited right to use the property that is designated for the construction and maintenance of a drainage facility such as a City sewer, a Private drain, a Watercourse, a Watercourse diversion, or related structures.
+   Sewer easement. "Sewer easement" means a nonpossessory interest in private property, which allows for the limited right to use the property that is designated for the construction and maintenance of a drainage facility such as a City sewer, a Private drain, a Watercourse, a Watercourse diversion, or related structures.
 
-Site connection proposal. "Site connection proposal" means a plan showing proposed Sewer connection(s) from existing or proposed developments other than Fee Simple of One (1), Two (2) or Three (3) Family Dwelling Units to a City sewer, a Private sewer, a Private drain, or an approved outlet.
+   Site connection proposal. "Site connection proposal" means a plan showing proposed Sewer connection(s) from existing or proposed developments other than Fee Simple of One (1), Two (2) or Three (3) Family Dwelling Units to a City sewer, a Private sewer, a Private drain, or an approved outlet.
 
-Special conditions. "Special conditions" mean and include, but is not limited to, the construction or use of a Private sewage treatment plant, a Private on-site pumping station, a private on-site Detention basin, a private Watercourse diversion by an open channel or closed piping, or a proposed development requiring a Mapping action.
+   Special conditions. "Special conditions" mean and include, but is not limited to, the construction or use of a Private sewage treatment plant, a Private on-site pumping station, a private on-site Detention basin, a private Watercourse diversion by an open channel or closed piping, or a proposed development requiring a Mapping action.
 
-Storm sewer. "Storm sewer" means a sewer which conveys only stormwater.
+   Storm sewer. "Storm sewer" means a sewer which conveys only stormwater.
 
-Stormwater. "Stormwater" means the excess water running off the surface of a drainage area during, and immediately following, a period of precipitation.
+   Stormwater. "Stormwater" means the excess water running off the surface of a drainage area during, and immediately following, a period of precipitation.
 
-Stormwater release rate. "Stormwater release rate" means the rate at which stormwater is released from a site, calculated in terms of cubic feet per second (cfs) or as a percentage of the Allowable Flow, which is also calculated in terms of cfs.
+   Stormwater release rate. "Stormwater release rate" means the rate at which stormwater is released from a site, calculated in terms of cubic feet per second (cfs) or as a percentage of the Allowable Flow, which is also calculated in terms of cfs.
 
-Stormwater sewer connection. "Stormwater sewer connection" means a Sewer connection, which extends from the property line of a Building and conveys stormwater runoff to a Storm sewer/drain, or Combined sewer/drain or an approved outlet.
+   Stormwater sewer connection. "Stormwater sewer connection" means a Sewer connection, which extends from the property line of a Building and conveys stormwater runoff to a Storm sewer/drain, or Combined sewer/drain or an approved outlet.
 
-Tax map. "Tax map" means the Tax map of the City as defined and referred to in Section 11-203 of the Administrative Code of the City of New York.
+   Tax ma   p. "Tax map" means the Tax map of the City as defined and referred to in Section 11-203 of the Administrative Code of the City of New York.
 
-Tentative lot. "Tentative lot" means a proposed tax lot as shown on the "Request to Real Property Assessment, Department of Surveying, Division for Tentative Lot Numbers".
+   Tentative lot. "Tentative lot" means a proposed tax lot as shown on the "Request to Real Property Assessment, Department of Surveying, Division for Tentative Lot Numbers".
 
-Water Board. "Water Board" means the New York City Water Board.
+   Water Board. "Water Board" means the New York City Water Board.
 
-Watercourse. "Watercourse" means a natural or artificial channel, a visible path or an active trench, which carries stormwater runoff from a Contributory drainage area.
+   Watercourse. "Watercourse" means a natural or artificial channel, a visible path or an active trench, which carries stormwater runoff from a Contributory drainage area.
 
-Watercourse diversion. "Watercourse diversion" means the re-routing of an existing Watercourse by either open channel or closed piping.
+   Watercourse diversion. "Watercourse diversion" means the re-routing of an existing Watercourse by either open channel or closed piping.
 
-Water service connection. "Water service connection" – The pipe from the street water main or other source of water supply to the building served.
+   Water service connection. "Water service connection" – The pipe from the street water main or other source of water supply to the building served.
 
 (c) Variances.
 
@@ -15015,7 +15025,7 @@ Water service connection. "Water service connection" – The pipe from the stree
 
 
 
-*§ 31-04* Standards for Issuance of Permits.* ::
+*§ 31-04 Standards for Issuance of Permits.* ::
 
 
 (a) Permits.
@@ -15293,7 +15303,7 @@ Water service connection. "Water service connection" – The pipe from the stree
 
 
 
-*§ 31-07* Inspections.* ::
+*§ 31-07 Inspections.* ::
 
 
 (a) General Requirements.
@@ -15352,7 +15362,7 @@ Water service connection. "Water service connection" – The pipe from the stree
 
    (3) If an Owner believes that a repair order has been issued in error or that exigent circumstances exist such that shutting off the tap/wet connection of the premises would result in extreme hardship, the Owner may apply by letter to the Commissioner who shall make a final determination as to whether the repair order was issued in error or whether exigent circumstances exist warranting an abeyance of issuance of the repair order.
 
-   (4) A Licensed Master Plumber shall obtain a sewer connection repair permit prior to performing work pursuant to a repair order on a sewer connection or in compliance with sections 31-04(a)(4) and 31-08(a) of this Rule. Upon completion of all necessary repairs by the Licensed Master Plumber and approval by the DEP, a Licensed Master Plumber shall obtain a tap/wet connection permit to restore the water service.
+   (4) A Licensed Master Plumber shall obtain a sewer connection repair permit prior to performing work pursuant to a repair order on a sewer connection or in compliance with 15 RCNY §§ 31-04(a)(4) and 31-08(a). Upon completion of all necessary repairs by the Licensed Master Plumber and approval by the DEP, a Licensed Master Plumber shall obtain a tap/wet connection permit to restore the water service.
 
    (5) When the water service is shut off by the DEP, the Owner must engage a Licensed Master Plumber to assume responsibility for the excavation over the tap or wet connection. If the Owner fails to engage a Licensed Master Plumber, the water service will remain shut off, the excavation will be backfilled, and the street will be properly restored.
 
@@ -16239,6 +16249,93 @@ A master environmental hazard remediation technician registration shall expire f
 
 
 The program covered by these rules is a voluntary registration program. Registration as a Master Environmental Remediation Technician does not replace any license, permit or certification required by any federal, state or local law or rules for the work referenced by such registration and a person who is not registered as a Master Environmental Remediation technician may perform any work otherwise authorized by law as if this program were not in effect. Registration pursuant to this program is based on documentation provided by the applicant. The department does not independently verify such documentation or the qualifications of registrants to perform the work referenced by such registration.
+
+
+
+
+Chapter 36: Cure Period for Certain Air and Noise Code Violations
+--------------------------------------------------
+
+
+
+*§ 36-01 Definitions* ::
+
+
+As used in this Chapter, the following terms are defined as follows:
+
+(a) "Board" means the New York City Environmental Control Board.
+
+(b) "Code" means the New York City Administrative Code.
+
+(c) "Commissioner" means the Commissioner of the Department of Environmental Protection.
+
+(d) "Department" means the New York City Department of Environmental Protection.
+
+
+
+
+
+
+*§ 36-02 Certification of Cure – Violation of Section 24-165* ::
+
+
+(a) Pursuant to subdivision g of § 24-165 of the Code, the Commissioner may recommend to the Board that no civil penalty be imposed for a first violation of such section provided that, within 45 days after the return date, the respondent admits liability and files a certification with the Department containing the information and documentation prescribed in subdivision b of this section.
+
+(b)  The certification required by subdivision a of this section must be made by a licensed oil burner installer in a notarized letter to the Department that includes:
+
+   (1) A certification that the air contaminant recorder is functioning properly and is in compliance with § 24-165 of the Code; and
+
+   (2) A description of the work that was done to bring the device into compliance.
+
+(c) If the Commissioner accepts the certification required by this section, he or she will recommend to the Board that no civil penalty be imposed for the violation. The violation may still serve as a predicate for purposes of imposing penalties for subsequent violations of § 24-165 of the Code.
+
+
+
+
+
+
+*§ 36-03 Certification of Cure – Violation of Section 24-166.* ::
+
+
+(a) Pursuant to subdivision (c) of § 24-166 of the Code, the Commissioner may recommend to the Board that no civil penalty be imposed for a first violation of such section provided that, within 45 days after the return date, the respondent admits liability and files a certification with the Department containing the information and documentation prescribed in subdivision b of this section.
+
+(b) The certification required by subdivision (a) of this section must be made by a licensed oil burner installer in a notarized letter to the Department that includes:
+
+   (1) A certification that the combustion shutoff is functioning properly and is in compliance with § 24-166 of the Code; and
+
+   (2) A description of the work that was done to bring the device into compliance.
+
+(c) If the Commissioner accepts the certification required by this section, he or she will recommend to the Board that no civil penalty be imposed for the violation. The violation may still serve as a predicate for purposes of imposing penalties for subsequent violations of § 24-166 of the Code.
+
+
+
+
+
+
+*§ 36-04 Certification of Cure – Violation of Section 24-227.* ::
+
+
+(a) Pursuant to paragraph (d) of § 24-227 of the Code, the Commissioner may recommend to the Board that no civil penalty be imposed for a first violation of such section provided that, within 45 days after the return date, the respondent admits liability and files a certification with the Department containing the information and documentation prescribed in subdivision b of this section.
+
+(b) The certification required by subdivision (a) of this section must be made by a contractor or consultant retained by the owner of the circulation device in a notarized letter to the Department that includes:
+
+   (1) A certification that the circulation device is in compliance with the sound levels set forth in § 24-227 of the Code;
+
+   (2) A description of all permanent improvements and modifications made to achieve compliance with such sound levels, including but not limited to, the installation of appropriate sound insulation, isolators, suspension mounting and/or sound mitigation devices or materials, and diagrams of such work, together with copies of all bills and receipts for such work; and
+
+   (3) All sound level measurements taken at a location within the two closest receiving properties abutting the establishment and/or in a location specified by the Department. If there is difficulty gaining entry to any receiving property, the Department must be informed and will set an alternate location. All such measurements must be performed by a noise consultant or contractor. In the alternative, the respondent may request the Department to take measurements.
+
+(c)  If the Commissioner determines that the work described in the certification required by this section is insufficient to correct the violation, the Commissioner may not recommend a zero penalty. If the Commissioner accepts the certification required by this section, he or she will recommend to the Board that no civil penalty be imposed for the violation. Such violation may still serve as a predicate for purposes of imposing penalties for subsequent violations of § 24-227 of the Code.
+
+
+
+
+
+
+*§ 36-05 Effect of Certification.* ::
+
+
+Before the Commissioner recommends that no civil penalty be imposed for a first violation pursuant to 15 RCNY § 36-02, 36-03, or 36-04, the Department may independently verify the documentation submitted by a respondent or the qualifications of the licensed oil burner installer, consultant, or contractor who performs the required corrective measures.
 
 
 

@@ -957,7 +957,13 @@ Selections of tenants or cooperators must be made from this list in chronologica
 
 (i) Occupancy priorities. The following occupancy priorities shall apply to all housing companies:
 
-   (1) First priority. Tenant/cooperators currently residing in a development whose household composition renders them eligible for a larger or smaller apartment shall be given first priority for an internal transfer. First preference shall be given to tenant/cooperators who are moving to a smaller apartment. No priority shall be given to residents seeking additional apartments for members of their household, or for non-resident family members or any other parties. The housing company shall maintain an internal transfer list by apartment size, listed in chronological order by date of receipt of transfer request. If, at any time, a tenant/cooperator's name has been omitted from the internal transfer list in error, and said tenant/cooperator can present adequate documentation satisfactory to the housing company or its managing agent to substantiate an earlier request for a transfer, said tenant/cooperator's name shall be inserted into the internal list in the corrected date order. Insertions to the internal transfer list shall be submitted to HPD for prior written approval. A tenant/cooperator on an internal transfer list, whose household composition so changes as to render him or her ineligible for the apartment size requested, shall be placed on the appropriate size apartment list as of the date when the change occurred or the date the original request is made, whichever is later; provided, however, that, except for enlargement of a household due to birth or adoption, the change to a larger household composition must have occurred at least one year prior to placement on the internal transfer list. If a tenant/cooperator is offered an apartment as an internal transfer and he or she is no longer eligible for that size apartment due to a change in household composition, his or her name shall then be placed on the appropriate size apartment list as of the date when the change occurred which made him or her ineligible. The tenant/cooperator must meet the occupancy standards for the size apartment requested at the time that he or she places his or her name on the internal transfer list and must have been in residence for a period of no less than one year before he or she may request a transfer to a larger apartment. The income affidavit submitted by the tenant/cooperator on file with the housing company or its managing agent must reflect a sufficient number of occupants to warrant a transfer at the time of his or her request, as well as when an apartment is offered. The housing company or its managing agent shall deny a transfer to the tenant/cooperator if he or she fails to satisfy these requirements. No transfer request will be accepted based on pregnancy. No transfer of apartments shall be effected if the tenant/cooperator seeking the transfer is in arrears in rent/carrying charges, surcharges, capital assessments, submetering charges or any other fees or charges. The housing company shall advise the tenant/cooperator in writing of its denial of a request for transfer. The tenant/cooperator shall be required to pay a surcharge effective the first day of the month following his or her residency in the new apartment if his or her income exceeds the maximum allowable for that apartment.
+   (1) First priority. Tenant/cooperators currently residing in a development whose household composition renders them eligible for a larger or smaller apartment shall be given first priority for an internal transfer. First preference shall be given to tenant/cooperators who are moving to a smaller apartment. No priority shall be given to residents seeking additional apartments for members of their household, or for non-resident family members or any other parties. The housing company shall maintain an internal transfer list by apartment size, listed in chronological order by date of receipt of transfer request. If, at any time, a tenant/cooperator's name has been omitted from the internal transfer list in error, and said tenant/cooperator can present adequate documentation satisfactory to the housing company or its managing agent to substantiate an earlier request for a transfer, said tenant/cooperator's name shall be inserted into the internal list in the corrected date order. Insertions to the internal transfer list shall be submitted to HPD for prior written approval.
+
+   A tenant/cooperator on an internal transfer list, whose household composition so changes as to render him or her ineligible for the apartment size requested, shall be placed on the appropriate size apartment list as of the date when the change occurred or the date the original request is made, whichever is later; provided, however, that, except for enlargement of a household due to birth or adoption, the change to a larger household composition must have occurred at least one year prior to placement on the internal transfer list. If a tenant/cooperator is offered an apartment as an internal transfer and he or she is no longer eligible for that size apartment due to a change in household composition, his or her name shall then be placed on the appropriate size apartment list as of the date when the change occurred which made him or her ineligible.
+
+   The tenant/cooperator must meet the occupancy standards for the size apartment requested at the time that he or she places his or her name on the internal transfer list and must have been in residence for a period of no less than one year before he or she may request a transfer to a larger apartment. The income affidavit submitted by the tenant/cooperator on file with the housing company or its managing agent must reflect a sufficient number of occupants to warrant a transfer at the time of his or her request, as well as when an apartment is offered. The housing company or its managing agent shall deny a transfer to the tenant/cooperator if he or she fails to satisfy these requirements. No transfer request will be accepted based on pregnancy. No transfer of apartments shall be effected if the tenant/cooperator seeking the transfer is in arrears in rent/carrying charges, surcharges, capital assessments, submetering charges or any other fees or charges. The housing company shall advise the tenant/cooperator in writing of its denial of a request for transfer.
+
+   The tenant/cooperator shall be required to pay a surcharge effective the first day of the month following his or her residency in the new apartment if his or her income exceeds the maximum allowable for that apartment.
 
    (2) Second priority. Pursuant to § 31(7) of the Private Housing Finance Law, preference in admission to a project with an open waiting list, as determined by HPD, shall be given to persons who are veterans as such term is defined pursuant to § 85 of the Civil Service Law or their surviving spouses, and for projects with a closed list, as determined by HPD, preference shall be given upon the opening of the waiting list to such veterans or surviving spouses that are selected in the lottery for such opened waiting list. This preference in admission shall only be provided to veterans or surviving spouses whose names appear on the waiting list as the applicants of record and who have identified themselves as the heads of household on their applications. The inclusion of a veteran or surviving spouse as a member of the household shall not entitle any other applicant of record to this preference in admission.
 
@@ -1215,7 +1221,11 @@ In no event shall evidence of a sexual relationship between such persons be requ
 
 (d) General requirements.
 
-   (1) In the event that a tenant/cooperator fails to return a fully completed affidavit by April 30th of each year, the income of such tenant/cooperator will be presumed to have exceeded the maximum allowable income by 150 percent or more. Written notice will be given informing such tenant/cooperator that the maximum surcharge will be imposed effective July 1st. In the event completed income affidavits are submitted after April 30th but prior to June 30th, the maximum surcharge will not be imposed. However a non-refundable administrative charge, payable to the housing company, will be applied. This charge cannot exceed $50.00. The housing company may remit half of any such charge collected to the managing agent to compensate for the additional administrative work. In the event fully completed income affidavits are submitted after June 30th, a correction to the maximum surcharge billing will be made effective the first day of the month following the submission of such income affidavit. However, a non-refundable administrative charge, payable to the housing company, will be applied. This charge cannot exceed $150.00 for each month after June 30th in which the tenant/cooperator has not submitted a fully completed income affidavit. This charge must be made payable to the housing company. The housing company may remit half of any such charge collected to the managing agent, in accordance with the terms of the applicable contract, to compensate for the additional administrative work. In extenuating circumstances, HPD may permit reimbursement of excess surcharge to the tenant/cooperator. For purposes of this paragraph, an income affidavit in which the tenant/cooperator's household income is not disclosed is not a fully completed income affidavit.
+   (1) In the event that a tenant/cooperator fails to return a fully completed affidavit by April 30th of each year, the income of such tenant/cooperator will be presumed to have exceeded the maximum allowable income by 150 percent or more. Written notice will be given informing such tenant/cooperator that the maximum surcharge will be imposed effective July 1st. In the event completed income affidavits are submitted after April 30th but prior to June 30th, the maximum surcharge will not be imposed. However a non-refundable administrative charge, payable to the housing company, will be applied. This charge cannot exceed $50.00. The housing company may remit half of any such charge collected to the managing agent to compensate for the additional administrative work.
+
+   In the event fully completed income affidavits are submitted after June 30th, a correction to the maximum surcharge billing will be made effective the first day of the month following the submission of such income affidavit. However, a non-refundable administrative charge, payable to the housing company, will be applied. This charge cannot exceed $150.00 for each month after June 30th in which the tenant/cooperator has not submitted a fully completed income affidavit. This charge must be made payable to the housing company. The housing company may remit half of any such charge collected to the managing agent, in accordance with the terms of the applicable contract, to compensate for the additional administrative work. In extenuating circumstances, HPD may permit reimbursement of excess surcharge to the tenant/cooperator.
+
+   For purposes of this paragraph, an income affidavit in which the tenant/cooperator's household income is not disclosed is not a fully completed income affidavit.
 
    (2) [Reserved.]
 
@@ -1371,11 +1381,23 @@ In no event shall evidence of a sexual relationship between such persons be requ
 
    (1-a) Periodically, HPD will require each housing company to submit a physical condition report prepared by an independent qualified consultant acceptable to HPD. The report will determine the physical condition of the property and all appurtenant equipment. The report must specify all items and equipment that are in need of repair or replacement or which have exceeded their useful lives or are projected to need repair or replacement within five years. The report must also include a plan to address its findings, including an explanation of how any necessary work will be financed.
 
-   (2) Contracts for building services, repairs, replacements, redecorating or improvements and supplies shall be let on the basis of lowest cost compatible with quality of performance, material and workmanship, on the basis of no less than three competitive bids, according to the following schedule: Contracts over $100,000 shall be submitted for HPD written approval. The housing company's submission shall include the three bids plus a contract executed by the successful bidder as well as the other documents as set forth below. Notwithstanding the foregoing, HPD reserves the right to require any individual housing company to submit for approval any or all contracts over $5,000. In the case of a mutual housing company, the submission shall be accompanied by
+   (2) Contracts for building services, repairs, replacements, redecorating or improvements and supplies shall be let on the basis of lowest cost compatible with quality of performance, material and workmanship, on the basis of no less than three competitive bids, according to the following schedule:
+
+   Contracts over $100,000 shall be submitted for HPD written approval. The housing company's submission shall include the three bids plus a contract executed by the successful bidder as well as the other documents as set forth below.
+
+   Notwithstanding the foregoing, HPD reserves the right to require any individual housing company to submit for approval any or all contracts over $5,000.
+
+   In the case of a mutual housing company, the submission shall be accompanied by
 
       (i) a certified copy of resolution of the housing company's Board of Directors acknowledged by the Secretary of the Corporation, approving the contract, bearing the housing company's corporate seal and
 
-      (ii) the housing company's attorney's certification that the proposed contract is in compliance with the rules of HPD. In the case of a rental development, the president or managing general partner of the housing company or his or her duly authorized designee must sign the contract. The following language shall be included in all contracts for building services, repairs, replacements, redecorating and improvements: "Material, equipment and workmanship shall be subject to the inspection and approval of HPD or its duly authorized agent at the discretion of HPD during the progress of the work and before final payment is made on the contract." Every contract subject to HPD approval shall contain the following language: "This agreement is subject to written approval by HPD. No work shall commence until this agreement is approved by HPD."
+      (ii) the housing company's attorney's certification that the proposed contract is in compliance with the rules of HPD.
+
+   In the case of a rental development, the president or managing general partner of the housing company or his or her duly authorized designee must sign the contract.
+
+   The following language shall be included in all contracts for building services, repairs, replacements, redecorating and improvements: "Material, equipment and workmanship shall be subject to the inspection and approval of HPD or its duly authorized agent at the discretion of HPD during the progress of the work and before final payment is made on the contract."
+
+   Every contract subject to HPD approval shall contain the following language: "This agreement is subject to written approval by HPD. No work shall commence until this agreement is approved by HPD."
 
    (3) The housing company or its managing agent shall require that all firms performing work on the housing company's behalf, supply evidence in the form of a certificate of insurance for workers' compensation and commercial general liability, naming the housing company and HPD as additional insured parties. For contracts subject to HPD approval, such certificates must be submitted to HPD for its written approval before any such contract is executed by the housing company. The liability limits for workers' compensation shall be statutory, and the commercial general liability insurance shall be in standard comprehensive general liability form, naming the housing company and HPD as additional insureds, against all claims for bodily injury, death or property damage in an amount not less than $1,000,000 per occurrence, $2,000,000 annual aggregate for bodily injury and property damages.
 
@@ -1459,7 +1481,9 @@ In no event shall evidence of a sexual relationship between such persons be requ
 
    (2) Disbursements. No disbursements from the capital repair and replacement reserve account can be made without prior written authorization by HPD.
 
-(b) Bank resolutions. The resolution filed with the bank shall contain, in addition to the clauses required by the bank, the following clauses: Further resolved, that withdrawals from such reserve account be accompanied by "Authorization for Expenditure of Funds" signed by a designated HPD official of, and that duplicate copies of monthly bank statements shall be forwarded to HPD's Division of Housing Supervision, upon HPD's request; that when an investment in securities is contemplated, withdrawal shall be made upon presentation of "Authorization for Expenditure of Funds;" that the bank shall make the investment, shall hold the securities in safekeeping and shall deposit to such account the proceeds realized on either liquidation or redemption. Further resolved, that this resolution shall remain in full force and effect unless and until revoked with HPD's written consent. A certified copy of the housing company's resolution opening the bank account and a photocopy of the housing company's signature card filed with the bank shall be submitted to HPD's Division of Housing Supervision.
+(b) Bank resolutions. The resolution filed with the bank shall contain, in addition to the clauses required by the bank, the following clauses: Further resolved, that withdrawals from such reserve account be accompanied by "Authorization for Expenditure of Funds" signed by a designated HPD official of, and that duplicate copies of monthly bank statements shall be forwarded to HPD's Division of Housing Supervision, upon HPD's request; that when an investment in securities is contemplated, withdrawal shall be made upon presentation of "Authorization for Expenditure of Funds;" that the bank shall make the investment, shall hold the securities in safekeeping and shall deposit to such account the proceeds realized on either liquidation or redemption.
+
+Further resolved, that this resolution shall remain in full force and effect unless and until revoked with HPD's written consent. A certified copy of the housing company's resolution opening the bank account and a photocopy of the housing company's signature card filed with the bank shall be submitted to HPD's Division of Housing Supervision.
 
 (c) Investments. The capital repair and replacement reserve account shall be held in Federally insured interest-bearing bank accounts and/or interest bearing Federal obligations in a form approved in writing by HPD.
 
@@ -1889,7 +1913,13 @@ In no event shall evidence of a sexual relationship between such persons be requ
 
    (5) Where applicable, the rental housing company shall provide evidence that it has appropriately preregistered all apartments with DHCR, indicating current rents for each apartment and services provided to the tenants as of the date of dissolution and/or reconstitution.
 
-   (6) Mutual housing companies-special meeting. A board of directors of a mutual housing company considering dissolution and/or reconstitution pursuant to § 35 shall call a special meeting in conformance with the mutual housing company by-law requirements for the purpose of ascertaining shareholder interest in dissolution and/or reconstitution. The secretary of the board of directors shall submit to HPD a certified resolution stating that not less than a majority of the dwelling units represented at such special meeting approved an expenditure of funds in a specified amount not to exceed $100,000 for the purpose of the preparation of a written feasibility study that will be distributed to each shareholder no later than sixty days after the preparation of such written feasibility study is completed, unless the by-laws of the company mandate a greater affirmative vote. Each dwelling unit shall be entitled to one vote regardless of the number of shares allocated to such dwelling unit, the number of shareholders holding such shares, or the provisions regarding voting in such mutual housing company's certificate of incorporation or by-laws. Said resolution shall include language as follows: "This resolution authorizes the board of directors to take steps necessary to prepare a written feasibility study investigating dissolution and/or reconstitution that will be distributed to each shareholder no later than sixty days after the preparation of such written feasibility study is completed. This resolution authorizes the expenditure of $__________ for such study, and notifies the shareholders that there are Private Housing Finance Law requirements for dissolution and/or reconstitution. This resolution also advises the shareholders that any additional expenditure of funds for such study will require a separate shareholder approval in accordance with the same voting procedures and cannot exceed $100,000 at any one time, and that the New York State Department of Law requirements must be met prior to actual dissolution and/or reconstitution." A certified copy of the resolution shall be submitted to HPD within seven (7) business days after such vote. Expenditure of funds authorized above shall require prior written approval of HPD. The feasibility study prepared in accordance with such resolution shall investigate dissolution and/or reconstitution and shall include, but not be limited to:
+   (6) Mutual housing companies-special meeting. A board of directors of a mutual housing company considering dissolution and/or reconstitution pursuant to § 35 shall call a special meeting in conformance with the mutual housing company by-law requirements for the purpose of ascertaining shareholder interest in dissolution and/or reconstitution. The secretary of the board of directors shall submit to HPD a certified resolution stating that not less than a majority of the dwelling units represented at such special meeting approved an expenditure of funds in a specified amount not to exceed $100,000 for the purpose of the preparation of a written feasibility study that will be distributed to each shareholder no later than sixty days after the preparation of such written feasibility study is completed, unless the by-laws of the company mandate a greater affirmative vote. Each dwelling unit shall be entitled to one vote regardless of the number of shares allocated to such dwelling unit, the number of shareholders holding such shares, or the provisions regarding voting in such mutual housing company's certificate of incorporation or by-laws. Said resolution shall include language as follows:
+
+   "This resolution authorizes the board of directors to take steps necessary to prepare a written feasibility study investigating dissolution and/or reconstitution that will be distributed to each shareholder no later than sixty days after the preparation of such written feasibility study is completed. This resolution authorizes the expenditure of $__________ for such study, and notifies the shareholders that there are Private Housing Finance Law requirements for dissolution and/or reconstitution. This resolution also advises the shareholders that any additional expenditure of funds for such study will require a separate shareholder approval in accordance with the same voting procedures and cannot exceed $100,000 at any one time, and that the New York State Department of Law requirements must be met prior to actual dissolution and/or reconstitution."
+
+   A certified copy of the resolution shall be submitted to HPD within seven (7) business days after such vote. Expenditure of funds authorized above shall require prior written approval of HPD.
+
+   The feasibility study prepared in accordance with such resolution shall investigate dissolution and/or reconstitution and shall include, but not be limited to:
 
       (i) a physical condition survey of the mutual housing company development prepared by a licensed engineer or architect projecting such development's capital needs and the costs thereof for the next ten years from the date of such survey;
 
@@ -3669,7 +3699,15 @@ Zoning Resolution. "Zoning Resolution" means the Zoning Resolution of the City, 
 *§ 5-07.1 New Eligibility Requirements for Conversions, Alterations or Improvements Completed On or After December 31, 2011.* ::
 
 
-(a) Definitions. For purposes of this section 5-07.1, the following terms shall have the following meanings: Program for the Development of Affordable Housing. "Program for the Development of Affordable Housing" means housing that complies with the requirements of a grant, loan or subsidy from any federal, state or local agency or instrumentality and of the Act or these Rules to provide the requisite percentage of its units as units affordable to and available for occupancy by individuals whose incomes do not exceed a specified limit. Exempt Cooperatives and Condominiums. "Exempt Cooperatives and Condominiums" means multiple dwellings, Buildings and structures (a) owned and operated by Mutual Companies, (b) owned and operated by Mutual Redevelopment Companies, (c) developed as a planned community and owned as two separate Condominiums containing a total of ten thousand or more dwelling units, or (d) Cooperatives or Condominiums that have an average assessed value of less than thirty thousand dollars ($30,000) per dwelling unit. Inspection Fee. "Inspection Fee" means two times the actual cost of inspecting any Conversion, Alteration or Improvement claimed in an application for benefits pursuant to this chapter. Substantial Governmental Assistance. "Substantial Governmental Assistance" means (a) grants, loans or subsidies from any federal, state or local agency or instrumentality in furtherance of a program for the development of affordable housing approved by HPD, including, without limitation, financing or insurance provided by the state of New York mortgage agency or the New York city residential mortgage insurance corporation; or (b) a written agreement between an HDFC and HPD limiting the income of persons entitled to purchase shares or rent housing accommodation therein.
+(a) Definitions. For purposes of this section 5-07.1, the following terms shall have the following meanings:
+
+   Program for the Development of Affordable Housing. "Program for the Development of Affordable Housing" means housing that complies with the requirements of a grant, loan or subsidy from any federal, state or local agency or instrumentality and of the Act or these Rules to provide the requisite percentage of its units as units affordable to and available for occupancy by individuals whose incomes do not exceed a specified limit.
+
+   Exempt Cooperatives and Condominiums. "Exempt Cooperatives and Condominiums" means multiple dwellings, Buildings and structures (a) owned and operated by Mutual Companies, (b) owned and operated by Mutual Redevelopment Companies, (c) developed as a planned community and owned as two separate Condominiums containing a total of ten thousand or more dwelling units, or (d) Cooperatives or Condominiums that have an average assessed value of less than thirty thousand dollars ($30,000) per dwelling unit. Inspection Fee.
+
+   "Inspection Fee" means two times the actual cost of inspecting any Conversion, Alteration or Improvement claimed in an application for benefits pursuant to this chapter.
+
+   Substantial Governmental Assistance. "Substantial Governmental Assistance" means (a) grants, loans or subsidies from any federal, state or local agency or instrumentality in furtherance of a program for the development of affordable housing approved by HPD, including, without limitation, financing or insurance provided by the state of New York mortgage agency or the New York city residential mortgage insurance corporation; or (b) a written agreement between an HDFC and HPD limiting the income of persons entitled to purchase shares or rent housing accommodation therein.
 
 (b) With respect to Conversions, Alterations or Improvements completed on or after December 31, 2011:
 
@@ -17742,43 +17780,43 @@ To Report a Utility Outage Con Edison 24-hour hotline: 800-752-6633  LIPA 24-hou
 
 BUILDING UTILITY OUTAGE   
 
-Not applicable, OR
+__ Not applicable, OR
 
-During the current utility outage, the following services will be provided to building occupants:
+__ During the current utility outage, the following services will be provided to building occupants:
 
-drinking water  
+__ drinking water  
 
-this building utilizes a water pump – please conserve water by:________________________________________
+__ this building utilizes a water pump – please conserve water by:________________________________________
 
-corridor, egress and common area lighting
+__ corridor, egress and common area lighting
 
-fire safety and protection
+__ fire safety and protection
 
-elevator service
+__ elevator service
 
-cell phone chargers are located at:________________________________________
+__ cell phone chargers are located at:________________________________________
 
-hot water
+__ hot water
 
-heat
+__ heat
 
-Air conditioning
+__ Air conditioning
 
 EMERGENCY EVACUATION EVENT
 
-Not applicable, OR
+__ Not applicable, OR
 
-This building IS NOT located in an emergency evacuation zone; or
+__ This building IS NOT located in an emergency evacuation zone; or
 
-This building IS located in emergency evacuation zone number________________________________________.
+__ This building IS located in emergency evacuation zone number________________________________________.
 
-The nearest designated evacuation center is located at:________________________________________
+__ The nearest designated evacuation center is located at:________________________________________
 
 HIGH WIND EVENT
 
-Not applicable, OR
+__ Not applicable, OR
 
-All non-permanent objects such as furniture and flower pots must be removed from the roof, balconies, and any other outside platform or window.
+__ All non-permanent objects such as furniture and flower pots must be removed from the roof, balconies, and any other outside platform or window.
 
 ADDITIONAL INFORMATION (Owners may add any additional information here)
 
@@ -17797,7 +17835,9 @@ Every owner of a multiple dwelling shall post the following notice in at least 1
 
 HOUSING INFORMATION GUIDE FOR TENANTS AND OWNERS
 
-A housing information guide, the "ABCs of Housing," is available on the New York City Department of Housing Preservation and Development's website at www.nyc.gov/hpd. This guide is also available in print by calling 311. The guide contains information about the following topics:
+A housing information guide, the "ABCs of Housing," is available on the New York City Department of Housing Preservation and Development's website at www.nyc.gov/hpd. This guide is also available in print by calling 311.
+
+The guide contains information about the following topics:
 
 •   Eviction•   Heat and hot water•   Pest management•   Tenant organizations•   Rent-regulated leases•   Rental assistance for elderly or disabled tenants•   Housing discrimination•   Repairs and maintenance•   Tenant response to owner notifications•   Access for owner inspections and repair•   Free and low-cost legal services
 
@@ -17805,7 +17845,9 @@ A housing information guide, the "ABCs of Housing," is available on the New York
 
 GUIA DE INFORMACION DE VIVIENDA PARA INQUILINOS Y DUEÑOS
 
-Un guia de informacion de vivienda los "ABC's de Vivienda" esta disponible en la pagina web del Departamento de Preservacion de Viviendas y Desarrollo de la Ciudad de Nueva York en www.nyc.gov/hpd. Este guia imprimido también esta disponible llamando al 311. El gua contiene informacion sobre los siguientes temas:
+Un guia de informacion de vivienda los "ABC's de Vivienda" esta disponible en la pagina web del Departamento de Preservacion de Viviendas y Desarrollo de la Ciudad de Nueva York en www.nyc.gov/hpd. Este guia imprimido también esta disponible llamando al 311.
+
+El gua contiene informacion sobre los siguientes temas:
 
 •   Desalojo•   Calefaccion y agua caliente•   Manejo de plagas•   Organizacion de inquilinos•   Alquilar de arrendamientos regulados•   Asistencia de alquiler para ancianos o inquilinos deshabilitados•   Discriminacion de vivienda•   Reparaciones y mantenimiento•   Respuesta de Inquilinos a notificaciones del dueño•   Acceso para inspecciones de dueños para reparaciones•   Servicios legales gratis y a bajo costo
 

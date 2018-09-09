@@ -539,9 +539,9 @@ Green cart has the meaning set forth in § 17-306(s) of the Administrative Code 
 
 Mobile food commissary or other facility approved by the Department means either
 
-      (i) A commissary that complies with the requirements of Articles 81 and § 89.27 of the Health Code, or
+   (i) A commissary that complies with the requirements of Articles 81 and § 89.27 of the Health Code, or
 
-      (ii) Another facility providing storage and/or cleaning of no more than four Class D or Class E mobile food vending units, nor more than one food truck, in accordance with § 6-08 of this Chapter.
+   (ii) Another facility providing storage and/or cleaning of no more than four Class D or Class E mobile food vending units, nor more than one food truck, in accordance with 24 RCNY § 6-08.
 
 Mobile food vending unit means a food service establishment as defined in Article 81 of the Health Code located in a pushcart or truck, self or otherwise propelled, used to store, prepare, display, serve or sell food, or distribute food free of charge to the public, for consumption in a place other than in or on the unit. Any such pushcart or food truck is deemed a mobile food vending unit whether operated indoors or outdoors, on public, private or restricted space. A mobile food vending unit does not mean a stand or a booth.
 
@@ -551,15 +551,15 @@ Potentially hazardous food has the meaning set forth in Article 81 of the Health
 
 Pre-permit inspection by the Department means the inspection of a mobile food vending unit in which the Department determines that the unit has been constructed and equipped in accordance with this Chapter. A pre-permit inspection by the Department is required:
 
-      (i) Before the issuance of a new or renewed mobile food vending permit and decal;
+   (i) Before the issuance of a new or renewed mobile food vending permit and decal;
 
-      (ii) When a permittee seeks to replace a mobile food vending unit with another unit;
+   (ii) When a permittee seeks to replace a mobile food vending unit with another unit;
 
-      (iii) When a permittee seeks to amend a permit classification from non-processing to processing or processing to non-processing;
+   (iii) When a permittee seeks to amend a permit classification from non-processing to processing or processing to non-processing;
 
-      (iv) When a mobile food vending unit has sustained a material alteration, as defined in § 89.03 (e) of the Health Code; or
+   (iv) When a mobile food vending unit has sustained a material alteration, as defined in § 89.03(e) of the Health Code; or
 
-      (v) When any permit decal has been removed.
+   (v) When any permit decal has been removed.
 
 Processing means transforming food into the form in which it is to be served to the mobile food vending unit patron, including, but not limited to, by means of slicing, dicing, grating, portioning, blending, mixing, combining, cooking and reheating, or otherwise treating food in such a way as to create a risk that it may become adulterated if improperly handled. Portioning by butchering is not allowed; food may be processed on a mobile food vending unit only in accordance with Article 89 of the Health Code. A person who processes food on a mobile food vending unit is not a manufacturer, as that term is defined in Administrative Code § 17-306 (p), or successor provision of law.
 
@@ -651,7 +651,7 @@ Mobile food vending units must be constructed and equipped so that they may be m
 
    (4) Mechanically refrigerated equipment and containers where ice is used must be equipped with an indirect waste connection, in accordance with Health Code § 81.20, that drains into the waste tank.
 
-      (i) Hand washing, ware washing and food washing.
+(i) Hand washing, ware washing and food washing.
 
    (1) Hand wash sink. When required by Table 1 of § 6-05 of this Chapter, mobile food vending units must be equipped with a separate hand wash sink or with one compartment of a multi-compartment sink that is used only for hand washing and no other purpose. The hand wash sink must:
 
@@ -659,7 +659,9 @@ Mobile food vending units must be constructed and equipped so that they may be m
 
       (B) Dispense potable running water;
 
-      (C) Have a dispenser valve or faucet which provides a constant flow of water when opened; (D) Be supplied by a potable water storage tank constructed of food grade material that holds at least five (5) gallons of water;
+      (C) Have a dispenser valve or faucet which provides a constant flow of water when opened;
+
+      (D) Be supplied by a potable water storage tank constructed of food grade material that holds at least five (5) gallons of water;
 
       (E) Be equipped with supplies of soap and paper towels or other single-use hand drying device; and
 
@@ -715,7 +717,7 @@ Mobile food vending units must be constructed and equipped so that they may be m
 
 (b) Permit subject to revocation; mobile food vending units subject to seizure. Persons who prepare, process or serve foods from a mobile food vending unit that is not equipped in accordance with the requirements specified for the unit's permit classification as set forth in this section will be deemed to be vending without a permit. Such units and their contents are subject to seizure, removal of the permit decal or insignia, and any other sanctions prescribed by applicable law, including but not limited to, provisions of Article 89 of the Health Code.
 
-Table 1. Supply and Equipment Requirements for Mobile Food Vending Units 
+Table 1. Supply and Equipment Requirements for Mobile Food Vending Units
 
  
 
@@ -4501,109 +4503,6 @@ After July 1, 2013, carpet sellers may only sell carpet or carpet cushion that c
 
 
 
-Chapter 32: Dogs in Outdoor Dining Areas
---------------------------------------------------
-
-
-
-*§ 32-01 Definitions.* ::
-
-
-When used in this Chapter, the following terms have the following meanings:
-
-(a) Animal nuisance. Animal nuisances include, but are not limited to, animal feces, urine, blood, body parts, carcasses, vomitus and pervasive odors; animals carrying, or ill with, diseases communicable to persons or other animals; and dangerous dogs.
-
-(b) Food has the same meaning as in Article 71 of the New York City Health Code (Health Code).
-
-(c) Food service establishment means an establishment with outdoor dining areas that is permitted by the Department pursuant to Health Code § 81.05.
-
-(d) Licensed means that the dog's owner has obtained the dog license required by Chapter 115 of the Laws of 1894, as amended, or that the owner, if not a resident of New York City, has obtained a license to own or harbor the dog as required by the laws of the jurisdiction in which the owner resides.
-
-(e) Outdoor dining area means an area operated and controlled by a food service establishment that is located outdoors and is used by patrons of the establishment to dine. Such areas include, but are not limited to, (i) a licensed unenclosed sidewalk café as defined in the § 20-223(c) of the Administrative Code of the City of New York (Administrative Code) or successor provision, and (ii) an outdoor dining area not located on a sidewalk that is accessed directly from the street or through a passage of the establishment, if such passage is completely separated from any dining, food preparation or food, equipment or utensil storage areas of the establishment. An enclosed sidewalk café, as defined in § 20-223(b) of the Administrative Code, is not an outdoor dining area.
-
-(f) Permittee means the person or entity holding a permit issued pursuant to § 81.05 of the Health Code to operate a food service establishment that has a designated outdoor dining area.
-
-(g) Service dog means a dog that is individually trained to do work or perform tasks for the benefit of an individual with a disability.
-
-(h) Under control of the dog's owner means that the dog is on the floor of the outdoor dining area, within arm's length reach of the owner, and is (i) on a leash securely held by the owner, (ii) a leash tied to a table or chair leg, or (iii) in a crate.
-
-
-
-
-
-
-
-
-*§ 32-02 Permittee policies and procedures; required control measures.* ::
-
-
-(a) Permittee's discretion. A permittee may choose to allow dogs that are not service dogs to accompany their owners in the outdoor dining areas of the permittee's establishment, in accordance with § 1352-e of the New York State Public Health Law and this Chapter. A permittee is not obligated to allow dogs, other than service dogs, to be in outdoor dining areas of an establishment and nothing in these rules shall give a dog owner the right to bring a dog into any establishment where dogs are prohibited by the owner or this Chapter.
-
-(b) Required control measures. Permittees who choose to allow dogs other than service dogs to be with their owners in outdoor dining areas must comply with this Chapter, and may impose any restrictions or additional control measures that they deem necessary for controlling dogs in their outdoor dining areas.
-
-   (1) Removal of dogs. The permittee must request that a dog owner remove from the establishment any dog that menaces, threatens or bites any person or other dog. The permittee shall not serve a dog owner who refuses to comply with a request to remove such a dog.
-
-   (2) Injury reports. A permittee must report to the Department any bite or other injury to a person caused by a dog within 24 hours of the injury. The report must be submitted to "311" by telephone or electronically. The report must include the name, address and phone number of the dog's owner, the dog's license number, and the name, address and phone number of the person bitten. Permittees must call "911" immediately following an injury to a person when the owner of a dog that bites or causes other injury refuses to provide the owner's contact information.
-
-   (3) Access limited to outdoor dining areas. Dogs other than service dogs are not allowed in any area of a food service establishment that is not an outdoor dining area as defined in § 32-01 of this Chapter.
-
-   (4) Aisle space. Dogs may not obstruct the 36-inch aisle space between tables in unenclosed sidewalk cafés, as required by 10 RCNY § 2-55(a), or successor provision.
-
-
-
-
-
-
-
-
-*§ 32-03 Signage.* ::
-
-
-A permittee who allows dogs that are not service dogs to accompany their owners in outdoor dining areas must post a sign at or near the entrance to the food service establishment with the following statement:
-
-Companion dogs are only allowed in certain outdoor dining area(s) of this establishment.
-
-Only service dogs are allowed in other parts of this establishment.
-
-Your companion dog must be licensed and currently vaccinated against rabies to remain in the outdoor dining area with you.
-
-You are responsible for controlling your dog at all times.
-
-An establishment that chooses not to allow dogs, other than service dogs, to accompany their owners is not required to post any signage regarding its policy toward dogs.
-
-
-
-
-
-
-
-
-*§ 32-04 Physical facilities and sanitation.* ::
-
-
-(a) Facilities to be clean, sanitary. In accordance with Article 81 of the Health Code, the New York State Agriculture and Markets Law and rules of the Commissioner of the State Department of Agriculture and Markets, permittees must maintain outdoor dining areas in a clean and sanitary condition at all times. Dogs must not be allowed to touch any dining table surfaces.
-
-(b) Animal nuisances to be removed immediately. Animal nuisances must be removed immediately by establishment employees who do not also prepare or serve food. Areas contaminated with such nuisances must be cleaned and sanitized immediately upon the removal of the nuisance. Animal nuisances must be disposed of in accordance with applicable law.
-
-(c) Barriers. If an outdoor dining area where dogs other than service dogs are permitted abuts a sidewalk, the permittee must create a physical barrier or use other means to effectively limit contact between dogs in the outdoor dining area and dogs and people on the sidewalk.
-
-
-
-
-
-
-
-
-*§ 32-05 Penalties.* ::
-
-
-Violations of this Chapter shall be cited and shall have the same penalties imposed as other violations of § 81.25 of the Health Code, or successor provision, listed in Appendix 23-C of Chapter 23 of this title.
-
-
-
-
-
-
 Chapter 31: Drinking Water Tank Inspections
 --------------------------------------------------
 
@@ -4719,6 +4618,109 @@ APPENDIX 31-ABUILDING DRINKING WATER TANK PENALTIES
 ~
 
  
+
+
+
+
+
+
+Chapter 32: Dogs in Outdoor Dining Areas
+--------------------------------------------------
+
+
+
+*§ 32-01 Definitions.* ::
+
+
+When used in this Chapter, the following terms have the following meanings:
+
+(a) Animal nuisance. Animal nuisances include, but are not limited to, animal feces, urine, blood, body parts, carcasses, vomitus and pervasive odors; animals carrying, or ill with, diseases communicable to persons or other animals; and dangerous dogs.
+
+(b) Food has the same meaning as in Article 71 of the New York City Health Code (Health Code).
+
+(c) Food service establishment means an establishment with outdoor dining areas that is permitted by the Department pursuant to Health Code § 81.05.
+
+(d) Licensed means that the dog's owner has obtained the dog license required by Chapter 115 of the Laws of 1894, as amended, or that the owner, if not a resident of New York City, has obtained a license to own or harbor the dog as required by the laws of the jurisdiction in which the owner resides.
+
+(e) Outdoor dining area means an area operated and controlled by a food service establishment that is located outdoors and is used by patrons of the establishment to dine. Such areas include, but are not limited to, (i) a licensed unenclosed sidewalk café as defined in the § 20-223(c) of the Administrative Code of the City of New York (Administrative Code) or successor provision, and (ii) an outdoor dining area not located on a sidewalk that is accessed directly from the street or through a passage of the establishment, if such passage is completely separated from any dining, food preparation or food, equipment or utensil storage areas of the establishment. An enclosed sidewalk café, as defined in § 20-223(b) of the Administrative Code, is not an outdoor dining area.
+
+(f) Permittee means the person or entity holding a permit issued pursuant to § 81.05 of the Health Code to operate a food service establishment that has a designated outdoor dining area.
+
+(g) Service dog means a dog that is individually trained to do work or perform tasks for the benefit of an individual with a disability.
+
+(h) Under control of the dog's owner means that the dog is on the floor of the outdoor dining area, within arm's length reach of the owner, and is (i) on a leash securely held by the owner, (ii) a leash tied to a table or chair leg, or (iii) in a crate.
+
+
+
+
+
+
+
+
+*§ 32-02 Permittee policies and procedures; required control measures.* ::
+
+
+(a) Permittee's discretion. A permittee may choose to allow dogs that are not service dogs to accompany their owners in the outdoor dining areas of the permittee's establishment, in accordance with § 1352-e of the New York State Public Health Law and this Chapter. A permittee is not obligated to allow dogs, other than service dogs, to be in outdoor dining areas of an establishment and nothing in these rules shall give a dog owner the right to bring a dog into any establishment where dogs are prohibited by the owner or this Chapter.
+
+(b) Required control measures. Permittees who choose to allow dogs other than service dogs to be with their owners in outdoor dining areas must comply with this Chapter, and may impose any restrictions or additional control measures that they deem necessary for controlling dogs in their outdoor dining areas.
+
+   (1) Removal of dogs. The permittee must request that a dog owner remove from the establishment any dog that menaces, threatens or bites any person or other dog. The permittee shall not serve a dog owner who refuses to comply with a request to remove such a dog.
+
+   (2) Injury reports. A permittee must report to the Department any bite or other injury to a person caused by a dog within 24 hours of the injury. The report must be submitted to "311" by telephone or electronically. The report must include the name, address and phone number of the dog's owner, the dog's license number, and the name, address and phone number of the person bitten. Permittees must call "911" immediately following an injury to a person when the owner of a dog that bites or causes other injury refuses to provide the owner's contact information.
+
+   (3) Access limited to outdoor dining areas. Dogs other than service dogs are not allowed in any area of a food service establishment that is not an outdoor dining area as defined in § 32-01 of this Chapter.
+
+   (4) Aisle space. Dogs may not obstruct the 36-inch aisle space between tables in unenclosed sidewalk cafés, as required by 10 RCNY § 2-55(a), or successor provision.
+
+
+
+
+
+
+
+
+*§ 32-03 Signage.* ::
+
+
+A permittee who allows dogs that are not service dogs to accompany their owners in outdoor dining areas must post a sign at or near the entrance to the food service establishment with the following statement:
+
+Companion dogs are only allowed in certain outdoor dining area(s) of this establishment.
+
+Only service dogs are allowed in other parts of this establishment.
+
+Your companion dog must be licensed and currently vaccinated against rabies to remain in the outdoor dining area with you.
+
+You are responsible for controlling your dog at all times.
+
+An establishment that chooses not to allow dogs, other than service dogs, to accompany their owners is not required to post any signage regarding its policy toward dogs.
+
+
+
+
+
+
+
+
+*§ 32-04 Physical facilities and sanitation.* ::
+
+
+(a) Facilities to be clean, sanitary. In accordance with Article 81 of the Health Code, the New York State Agriculture and Markets Law and rules of the Commissioner of the State Department of Agriculture and Markets, permittees must maintain outdoor dining areas in a clean and sanitary condition at all times. Dogs must not be allowed to touch any dining table surfaces.
+
+(b) Animal nuisances to be removed immediately. Animal nuisances must be removed immediately by establishment employees who do not also prepare or serve food. Areas contaminated with such nuisances must be cleaned and sanitized immediately upon the removal of the nuisance. Animal nuisances must be disposed of in accordance with applicable law.
+
+(c) Barriers. If an outdoor dining area where dogs other than service dogs are permitted abuts a sidewalk, the permittee must create a physical barrier or use other means to effectively limit contact between dogs in the outdoor dining area and dogs and people on the sidewalk.
+
+
+
+
+
+
+
+
+*§ 32-05 Penalties.* ::
+
+
+Violations of this Chapter shall be cited and shall have the same penalties imposed as other violations of § 81.25 of the Health Code, or successor provision, listed in Appendix 23-C of Chapter 23 of this title.
 
 
 

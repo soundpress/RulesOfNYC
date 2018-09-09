@@ -546,7 +546,7 @@ A cost reimbursement contract shall be used only when the ACCO determines that i
 
    (8) Copies of the Plan submitted by the ACCO shall be made available for public review by the CCPO, no later than October 1.
 
-(d) Determination and Approvals. Prior to issuing a solicitation for a multi-term contract, the ACCO, with the approval of the HHS Accelerator Director for those procurements procured pursuant to Section 3-16 of these Rules, shall make a determination that:
+(d) Determination and Approvals. Prior to issuing a solicitation for a multi-term contract, the ACCO, with the approval of the HHS Accelerator Director for those procurements procured pursuant to 9 RCNY § 3-16, shall make a determination that:
 
    (1) it is anticipated that the needs of the client population will continue beyond one year, and
 
@@ -760,7 +760,7 @@ Prior to vendor selection, the ACCO shall determine that the contract price is f
 
    (2) Obligation to file questionnaires. VENDEX questionnaires shall be completed and filed by the contractor at least once within each three year period within which such contractor does business with the City. Each contractor shall certify at the time of award of each contract that all the information submitted within such three year period is current, accurate and complete. In the event that changes have occurred within the three year period, the contractor shall update, prior to contract award, any previously-submitted VENDEX questionnaire to supply any changed information, and shall certify that both the updated and unchanged information is current, accurate and complete. If VENDEX questionnaires have not been submitted within three years, then such questionnaires shall be completed and filed:
 
-      (i) by applicants, at the time of an application for inclusion on a prequalified list, provided that this requirement shall not apply to applications under HHS Accelerator pursuant to Rule 3-16;
+      (i) by applicants, at the time of an application for inclusion on a prequalified list, provided that this requirement shall not apply to applications under HHS Accelerator pursuant to 9 RCNY § 3-16;
 
       (ii) by contractors, when requested by an agency or by the CCPO, but in any event before the Recommendation for Award is approved or not later than:
 
@@ -772,13 +772,13 @@ Prior to vendor selection, the ACCO shall determine that the contract price is f
 
    (3) Late filing of information: when permitted. The VENDEX questionnaire may be submitted within thirty days after registration of the contract as provided in paragraph (4) of this subdivision in the following circumstances:
 
-      (i) emergency procurements as defined by § 3-06 of these Rules;
+      (i) emergency procurements as defined by 9 RCNY § 3-06 ;
 
-      (ii) accelerated purchases as defined by § 3-07 of these Rules;
+      (ii) accelerated purchases as defined by 9 RCNY § 3-07;
 
       (iii) on a contract-by-contract basis where the CCPO, upon the written request of the ACCO, has determined that expedited procurement action is required due to urgent circumstances;
 
-      (iv) buy-against procurements pursuant to § 4-07 of these Rules where the contractor has not previously submitted a VENDEX questionnaire; and
+      (iv) buy-against procurements pursuant to 9 RCNY § 4-07 where the contractor has not previously submitted a VENDEX questionnaire; and
 
       (v) on a contract-by-contract basis with respect to information not required by local law where the CCPO, upon the written request of the ACCO, has determined that a specific portion of the information required by the questionnaire but not by local law is not accessible to the contractor despite good faith efforts to complete the filing in a timely fashion. The determination shall set forth with particularity the information which may be submitted late and the reasons for the later completion of the filing, and shall include the specific date by which the information shall be submitted.
 
@@ -870,7 +870,7 @@ Prior to vendor selection, the ACCO shall determine that the contract price is f
 
    (3) The determination of non-responsibility shall be included in the VENDEX database.
 
-      (i) Determination of non-responsibility. An agency letting a contract by competitive sealed bid or competitive sealed bid from prequalified vendors may find the lowest responsive bidder(s) to be non-responsible in accordance with § 2-08 of these Rules.
+(i) Determination of non-responsibility. An agency letting a contract by competitive sealed bid or competitive sealed bid from prequalified vendors may find the lowest responsive bidder(s) to be non-responsible in accordance with § 2-08 of these Rules.
 
 (j) Notice. After making a determination of non-responsibility, the ACCO shall notify the lowest bidder in writing of that determination. The notification shall state the reasons upon which the determination is based and shall inform the bidder of the right to appeal the determination of non-responsibility to the Agency Head and subsequently to the Mayor, and of the procedure for taking such appeals. The notification shall also contain the following statement:
 
@@ -958,7 +958,7 @@ The vendor shall also send a copy of its appeal to the New York City Comptroller
 
 (a)  Policy. The Contracting Officer shall prepare a Recommendation for Award under the following circumstances:
 
-   (1) procurements for goods and services exceeding $10,000 and construction and construction-related services exceeding $15,000 awarded by sole source procedures pursuant to § 3-05 of these Rules, and
+   (1) procurements for goods and services exceeding $10,000 and construction and construction-related services exceeding $15,000 awarded by sole source procedures pursuant to 9 RCNY § 3-05, and
 
    (2) all other procurements exceeding the small purchase limits.
 
@@ -970,7 +970,7 @@ The vendor shall also send a copy of its appeal to the New York City Comptroller
 
    (3) if other than competitive sealed bidding, a summary of method of procurement used;
 
-   (4) if award is made to the bidder whose bid represents the best value to the City pursuant to § 3-02(o) of this title, a summary of the criteria used in determining best value;
+   (4) if award is made to the bidder whose bid represents the best value to the City pursuant to 9 RCNY § 3-02(o), a summary of the criteria used in determining best value;
 
    (5) date solicitation mailed;
 
@@ -1036,7 +1036,7 @@ The vendor shall also send a copy of its appeal to the New York City Comptroller
 
    (1) The following contracts or exercise of a renewal option in the following contracts are exempt from the requirements of this section:
 
-      (i) contracts to be awarded by competitive sealed bidding, except where the basis for award is best value to the City pursuant to 3-02 (o);
+      (i) contracts to be awarded by competitive sealed bidding, except where the basis for award is best value to the City pursuant to 9 RCNY § 3-02(o);
 
       (ii) contracts to be awarded by competitive sealed bidding from prequalified lists,
 
@@ -1173,7 +1173,7 @@ Chapter 3: Methods of Source Selection
 
    (1) Methods of source selection for which "Special Case" determination is required: A "Special Case" determination is required for each case in which one of the following methods of source selection is used:
 
-      (i) Competitive sealed bidding from prequalified vendors, except as provided in § 3-10(a);
+      (i) Competitive sealed bidding from prequalified vendors, except as provided in 9 RCNY § 3-10(a);
 
       (ii) Competitive sealed bidding where the award will be made to the bidder whose bid represents the best value to the City;
 
@@ -1209,7 +1209,7 @@ Chapter 3: Methods of Source Selection
 
       (viii) to test and evaluate the feasibility and application of innovative procurement methods not currently used by the City or provided for in these Rules.
 
-   (3) Source Selection in a Special Case. Upon determining that there is a special case, the Contracting Officer shall select the most competitive alternate method of source selection among those listed in Section 3-01 above which is practicable and advantageous to the City.
+   (3) Source Selection in a Special Case. Upon determining that there is a special case, the Contracting Officer shall select the most competitive alternate method of source selection among those listed in 9 RCNY § 3-01 above which is practicable and advantageous to the City.
 
    (4) Special case determination. The determination that there is a special case, and the reasons that the method of source selection is the most competitive that is appropriate under the circumstances, shall be made in writing in advance of issuing solicitations, as part of any presolicitation review required by these Rules, and shall be approved by the ACCO. Procurements by negotiated acquisition shall require the written approval of the CCPO prior to initiating negotiations.
 
@@ -1239,7 +1239,7 @@ Chapter 3: Methods of Source Selection
 
          (A) for construction, a statement that award shall be made to the lowest responsive and responsible bidder;
 
-         (B) for purchase of goods and standard services, a statement that award shall be made to the lowest responsive and responsible bidder or to the bidder whose bid represents the best value to the City by optimizing quality, cost and efficiency. If award will be made on the basis of best value to the City, such statement shall include how best value will be determined in accordance with 3-02(o);
+         (B) for purchase of goods and standard services, a statement that award shall be made to the lowest responsive and responsible bidder or to the bidder whose bid represents the best value to the City by optimizing quality, cost and efficiency. If award will be made on the basis of best value to the City, such statement shall include how best value will be determined in accordance with 9 RCNY § 3-02(o);
 
       (v) if not included in the bid documents, a notice of where vendors may obtain a copy of all contractual terms and conditions or other project-related material;
 
@@ -1297,7 +1297,7 @@ Chapter 3: Methods of Source Selection
 
 (d) Bidder Submissions.
 
-   (1) Bid Form and Content. The IFB shall provide a form on which the bidder shall insert the bid price, or other information requested, if any, pursuant to 3-02 (o)(1), and shall sign and submit along with all other necessary submissions. Bids shall be typewritten or written legibly in ink. Erasures or alterations shall be initialed by the signer in ink. All bids shall be signed in ink. The bid invitation also shall require that the bid be submitted in a sealed envelope, addressed as required in the bid documents, on or before the time and at the place designated in the bid documents. If so provided in the solicitation, sealed bids may be submitted electronically. Where award will be made to the bidder whose bid represents the best value to the City, the IFB may also provide that other information requested, if any, may be submitted up to thirty (30) days from the bid opening by all bidders whose bids are to be considered pursuant to 3-02(o)(1)(iii).
+   (1) Bid Form and Content. The IFB shall provide a form on which the bidder shall insert the bid price, or other information requested, if any, pursuant to 9 RCNY § 3-02(o)(1), and shall sign and submit along with all other necessary submissions. Bids shall be typewritten or written legibly in ink. Erasures or alterations shall be initialed by the signer in ink. All bids shall be signed in ink. The bid invitation also shall require that the bid be submitted in a sealed envelope, addressed as required in the bid documents, on or before the time and at the place designated in the bid documents. If so provided in the solicitation, sealed bids may be submitted electronically. Where award will be made to the bidder whose bid represents the best value to the City, the IFB may also provide that other information requested, if any, may be submitted up to thirty (30) days from the bid opening by all bidders whose bids are to be considered pursuant to 9 RCNY § 3-02(o)(1)(iii).
 
    (2) Bid Samples and Descriptive Literature. The IFB shall state that the submission of bid samples and descriptive literature, regardless of any attempt by a bidder to condition the bid, will not be deemed to vary any of the provisions of the IFB.
 
@@ -1407,7 +1407,7 @@ Chapter 3: Methods of Source Selection
 
    (1) Receipt. Upon its receipt, each bid and modification shall be time- and date-stamped, but not opened, and stored in a secure place until the time and date set for bid opening. Before bid opening the agency may not disclose the identity of any bidder.
 
-   (2) Opening and Recording. Bids and modifications shall be opened publicly, at the time, date, and place designated in the IFB. The name of each bidder, the bid price, and such other information as is deemed appropriate shall be read aloud or otherwise made available. These requirements may be met through access to a computer terminal at the location where bids are to be opened, provided that paper documents are available upon request at the time of bid opening. This information also shall be recorded at the time of bid opening. The bids shall be tabulated or a bid abstract prepared and made available for public inspection. The opened bids shall be available for public inspection at a reasonable time after bid opening but in any case before vendor selection except to the extent the bidder designates trade secrets or other proprietary data to be confidential. Material so designated shall accompany the bid and shall be readily separable from the bid in order to facilitate public inspection of the nonconfidential portion of the bid. Prices, makes, and model or catalog numbers of the items offered, deliveries, and terms of payment shall be publicly available at a reasonable time after bid opening but in any event before vendor selection regardless of any designation to the contrary at the time of bid opening. For bids on construction contracts submitted in accordance with Section 3-02 (b)(2)(xx)(J) of these Rules, the sealed list of subcontractors submitted with the low bid shall be opened after such low bid has been announced and the names of the subcontractors shall be announced. The sealed lists of subcontractors submitted by all other bidders pursuant to Section 3-02 (b)(2)(xx)(J) of these Rules shall be returned to such bidders unopened after the contract award.
+   (2) Opening and Recording. Bids and modifications shall be opened publicly, at the time, date, and place designated in the IFB. The name of each bidder, the bid price, and such other information as is deemed appropriate shall be read aloud or otherwise made available. These requirements may be met through access to a computer terminal at the location where bids are to be opened, provided that paper documents are available upon request at the time of bid opening. This information also shall be recorded at the time of bid opening. The bids shall be tabulated or a bid abstract prepared and made available for public inspection. The opened bids shall be available for public inspection at a reasonable time after bid opening but in any case before vendor selection except to the extent the bidder designates trade secrets or other proprietary data to be confidential. Material so designated shall accompany the bid and shall be readily separable from the bid in order to facilitate public inspection of the nonconfidential portion of the bid. Prices, makes, and model or catalog numbers of the items offered, deliveries, and terms of payment shall be publicly available at a reasonable time after bid opening but in any event before vendor selection regardless of any designation to the contrary at the time of bid opening. For bids on construction contracts submitted in accordance with 9 RCNY § 3-02(b)(2)(xx)(J), the sealed list of subcontractors submitted with the low bid shall be opened after such low bid has been announced and the names of the subcontractors shall be announced. The sealed lists of subcontractors submitted by all other bidders pursuant to 9 RCNY § 3-02(b)(2)(xx)(J) shall be returned to such bidders unopened after the contract award.
 
    (3) Confidential data. The ACCO shall examine the bids to determine the validity of any requests for nondisclosure of trade secrets and other proprietary data identified in writing. Nondisclosure is permissible only if approved by Agency Counsel. Any decision not to honor a request for confidentiality shall be communicated in writing to the bidder making the submission.
 
@@ -1415,7 +1415,7 @@ Chapter 3: Methods of Source Selection
 
    (1) General. Correction or withdrawal of a bid because of an inadvertent, non-judgmental mistake in the bid requires careful consideration to protect the integrity of the competitive bidding system, and to assure fairness. If the mistake is attributable to an error in judgment, the bid may not be corrected. Bid correction or withdrawal by reason of a non-judgmental mistake is permissible, but only to the extent that it is not contrary to the interest of the City or the fair treatment of other bidders.
 
-   (2) Mistakes discovered before opening. A bidder may correct mistakes discovered before the time and date set for bid opening by withdrawing or correcting the bid as provided in § 3-02(j) of these Rules.
+   (2) Mistakes discovered before opening. A bidder may correct mistakes discovered before the time and date set for bid opening by withdrawing or correcting the bid as provided in 9 RCNY § 3-02(j).
 
    (3) Confirmation of bid. When the Contracting Officer knows or has reason to conclude after bids have been publicly opened that a mistake has been made, such officer shall request from the bidder written verification of the bid. If the bidder alleges mistake, the bid may be corrected or withdrawn upon approval of the ACCO if the following conditions are met:
 
@@ -1443,7 +1443,7 @@ Chapter 3: Methods of Source Selection
 
    (5) Determinations required. When a bid is corrected or withdrawn, or correction or withdrawal is denied, the ACCO shall prepare a determination showing that the relief was granted or denied in accordance with these Rules.
 
-(n) Withdrawal of bids. Except as provided for in § 3-02(j) a bidder may not withdraw its bid before the expiration of forty-five days after the date of the opening of bids; thereafter, a bidder may withdraw its bid only in writing and in advance of an actual award.
+(n) Withdrawal of bids. Except as provided for in 9 RCNY § 3-02(j) a bidder may not withdraw its bid before the expiration of forty-five days after the date of the opening of bids; thereafter, a bidder may withdraw its bid only in writing and in advance of an actual award.
 
 (o) Bid Evaluation and Vendor Selection.
 
@@ -1473,7 +1473,7 @@ Chapter 3: Methods of Source Selection
 
    (2) Negotiation with the apparent lowest responsive and responsible bidder or responsive and responsible bidder providing best value. Upon determination of the apparent lowest responsive and responsible bidder or responsive and responsible bidder providing best value, pursuant to 3-02(0)(1), and prior to award, the Contracting Officer may elect to open negotiations with the selected vendor in an effort to improve the bid to the City with respect to the price only if award will be made to the lowest responsive and responsible bidder, or if award will be made to the responsive and responsible bidder whose bid represents the best value to the City, with respect to any of the factors considered in determining best value. In the event the apparent winning bidder declines to negotiate, the Contracting Officer may elect to either award the contract to the apparent winning bidder or may, upon written approval by the ACCO, reject all bids in accordance with this section. The result of negotiations, if any, shall be documented in the Recommendation for Award.
 
-   (3) Award. Upon the determination of the apparent winning bidder pursuant to 3-02(o)(1), a Recommendation for Award shall be approved by the ACCO and the contract shall be awarded to that bidder. Where the award is based on best value to the City, the ACCO shall set forth in the Recommendation for Award the reasons that the bid represents the best value to the City and the factors considered by the agency.
+   (3) Award. Upon the determination of the apparent winning bidder pursuant to 9 RCNY § 3-02(o)(1), a Recommendation for Award shall be approved by the ACCO and the contract shall be awarded to that bidder. Where the award is based on best value to the City, the ACCO shall set forth in the Recommendation for Award the reasons that the bid represents the best value to the City and the factors considered by the agency.
 
 (p) Low tie bids.
 
@@ -1505,9 +1505,9 @@ Chapter 3: Methods of Source Selection
 
    (2) Method.
 
-      (i) Multiple awards may be made for contracts for goods or standard services, pursuant to competitive sealed bids where award is made based on price only, or based on best value pursuant to the criteria set forth in 3-02(o)(1), in conjunction with the procedures prescribed in this subdivision. The IFB shall also state the procedures and criteria to be used in selecting the vendor to perform on an individual task order or goods to be purchased pursuant to an individual purchase order. The agency may:
+      (i) Multiple awards may be made for contracts for goods or standard services, pursuant to competitive sealed bids where award is made based on price only, or based on best value pursuant to the criteria set forth in 9 RCNY § 3-02(o)(1), in conjunction with the procedures prescribed in this subdivision. The IFB shall also state the procedures and criteria to be used in selecting the vendor to perform on an individual task order or goods to be purchased pursuant to an individual purchase order. The agency may:
 
-         (a) select the vendor that represents the best value to the City for that particular task order or purchase order, as determined pursuant to 3-02(o), based on each vendor's bid, or
+         (a) select the vendor that represents the best value to the City for that particular task order or purchase order, as determined pursuant to 9 RCNY § 3-02(o), based on each vendor's bid, or
 
          (b) the agency may solicit offers for each task order or purchase order from all awarded vendors. If the agency solicits offers for each task order or purchase order, each vendor shall receive each solicitation and have a reasonable opportunity to compete to provide the standard services or goods. The agency may set forth an alternative method of assigning task orders or purchase orders if it is determined by the CCPO to be in the City's best interest and is set forth in the IFB. In the event that such alternative method is used for standard services, each vendor with a contract shall receive notice of assignment of each task order at the time each task order is issued, regardless of whether each vendor with a contract received the solicitation for the task order.
 
@@ -1669,7 +1669,7 @@ Chapter 3: Methods of Source Selection
 
    (1) Notice of solicitation.
 
-      (i) Distribution. RFPs or notices of their availability and their notices of solicitation must be posted on the City's website in a location that is accessible to the public simultaneously with their publication. RFPs and their notices of solicitation must also be electronically mailed to a sufficient number of vendors, including all vendors on the appropriate citywide bidders list established by the CCPO pursuant to § 3-02(f) at least twenty (20) days prior to the due date, or within the time frames authorized by § 3-03(h). An agency may, upon request of a vendor, provide RFPs or notices by mail, fax, hand delivery, or otherwise. RFPs or notices of their availability may be electronically sent to vendors on agency-specific bidders lists, in addition to the appropriate citywide bidders list maintained by the CCPO, only with approval of the CCPO. For those proposals which are subject to § 6-129 of the New York City Administrative Code (M/WBE and EBE program), a minimum of twenty seven (27) days prior to the due date must be provided.
+      (i) Distribution. RFPs or notices of their availability and their notices of solicitation must be posted on the City's website in a location that is accessible to the public simultaneously with their publication. RFPs and their notices of solicitation must also be electronically mailed to a sufficient number of vendors, including all vendors on the appropriate citywide bidders list established by the CCPO pursuant to 9 RCNY § 3-02(f) at least twenty (20) days prior to the due date, or within the time frames authorized by 9 RCNY § 3-03(h). An agency may, upon request of a vendor, provide RFPs or notices by mail, fax, hand delivery, or otherwise. RFPs or notices of their availability may be electronically sent to vendors on agency-specific bidders lists, in addition to the appropriate citywide bidders list maintained by the CCPO, only with approval of the CCPO. For those proposals which are subject to § 6-129 of the New York City Administrative Code (M/WBE and EBE program), a minimum of twenty seven (27) days prior to the due date must be provided.
 
       (ii) Publication. This subparagraph applies to RFPs above the small purchase limits except that it does not apply where vendors will be solicited from a PQL.
 
@@ -1721,9 +1721,9 @@ Chapter 3: Methods of Source Selection
 
    (1) Pre-proposal or pre-solicitation conferences. Pre-proposal or pre-solicitation conferences may be conducted in the manner set forth in § 3-02 of these Rules.
 
-   (2) Amendments to RFPs. Amendments to RFPs may be made in the manner set forth in § 3-02 of these Rules.
+   (2) Amendments to RFPs. Amendments to RFPs may be made in the manner set forth in 9 RCNY § 3-02.
 
-   (3) Modification or withdrawal of proposals. Proposals may be modified or withdrawn prior to the established due date in the manner set forth in § 3-02 of these Rules. The established due date is either the time and date announced for receipt of proposals or receipt of modifications to proposals, if any, or if discussions have begun, it is the time and date by which best and final offers must be submitted.
+   (3) Modification or withdrawal of proposals. Proposals may be modified or withdrawn prior to the established due date in the manner set forth in 9 RCNY § 3-02. The established due date is either the time and date announced for receipt of proposals or receipt of modifications to proposals, if any, or if discussions have begun, it is the time and date by which best and final offers must be submitted.
 
    (4) Late proposals and modifications. Any proposal or modification received after the established due date and time at the place designated for receipt is late and may be accepted only in the manner set forth in paragraphs (5) through (8) below.
 
@@ -1813,15 +1813,15 @@ Chapter 3: Methods of Source Selection
 
       (ii) Minor informalities. Minor informalities, unless otherwise corrected by an offeror, shall be treated in accordance with § 3-02(m)(3)(i) of these Rules.
 
-      (iii) Correction of mistakes. If discussions are not held or if the best and final offers upon which award will be made have been received, mistakes may be corrected and the intended correct offer considered only in accordance with § 3-02(m)(3)(ii) of these Rules.
+      (iii) Correction of mistakes. If discussions are not held or if the best and final offers upon which award will be made have been received, mistakes may be corrected and the intended correct offer considered only in accordance with 9 RCNY § 3-02(m)(3)(ii).
 
    (3) Mistakes discovered after vendor selection. Mistakes shall not be corrected after vendor selection except in accordance with § 3-02(m)(4) of these Rules.
 
-   (4) Determinations required. When a proposal is corrected or withdrawn, or correction or withdrawal is denied, a determination shall be prepared in accordance with § 3-02(m)(5) of these Rules.
+   (4) Determinations required. When a proposal is corrected or withdrawn, or correction or withdrawal is denied, a determination shall be prepared in accordance with 9 RCNY § 3-02(m)(5).
 
 (j) Multiple Award Task Order Contracts.
 
-   (1) Determination. Multiple award task order contracts for goods or services may be awarded upon a determination by the ACCO that it is in the best interest of the City to award multiple contracts for services to multiple contractors and to allocate work among such contractors through a task order system. If an agency intends such contracts to be available for use by other City agencies, the provisions of Section 3-14 (Contracts for Services) shall also apply. The criteria to be considered by the ACCO in making such determination may include the following: the nature of the services to be procured; the expected frequency of task order issuance; the capacity of vendors to provide all of the required services within the required timeframes; and the potential advantage of multiple contracts (e.g., more favorable terms; more competitive pricing, etc.).
+   (1) Determination. Multiple award task order contracts for goods or services may be awarded upon a determination by the ACCO that it is in the best interest of the City to award multiple contracts for services to multiple contractors and to allocate work among such contractors through a task order system. If an agency intends such contracts to be available for use by other City agencies, the provisions of 9 RCNY § 3-14 (Contracts for Services) shall also apply. The criteria to be considered by the ACCO in making such determination may include the following: the nature of the services to be procured; the expected frequency of task order issuance; the capacity of vendors to provide all of the required services within the required timeframes; and the potential advantage of multiple contracts (e.g., more favorable terms; more competitive pricing, etc.).
 
    (2) Method.
 
@@ -2001,13 +2001,13 @@ Chapter 3: Methods of Source Selection
 
 (b) Determination. Prior to entering into sole source negotiations, the ACCO shall make a determination that there is only one source for the required good, service, or construction.
 
-   (1) Such determination shall include a description of the process by which the agency made such determination, a description of the efforts made to ensure that offers were solicited from other sources, and where applicable, a statement of intended actions to develop competition in the future. The agency shall also perform a presolicitation review pursuant to § 2-02.
+   (1) Such determination shall include a description of the process by which the agency made such determination, a description of the efforts made to ensure that offers were solicited from other sources, and where applicable, a statement of intended actions to develop competition in the future. The agency shall also perform a presolicitation review pursuant to 9 RCNY § 2-02.
 
    (2) A copy of the determination shall be forwarded within five (5) days of completion to the Comptroller.
 
 (c) Public notice.
 
-   (1) Notice of intent to enter into sole source negotiations. If expressions of interest are received they shall be evaluated and, if it appears that the good, service, or construction is available from more than a single source, a solicitation shall be issued in accordance with Chapter 3 of these Rules.
+   (1) Notice of intent to enter into sole source negotiations. If expressions of interest are received they shall be evaluated and, if it appears that the good, service, or construction is available from more than a single source, a solicitation shall be issued in accordance with 9 RCNY Chapter 3.
 
       (i) Frequency. After the ACCO determines that this procurement method will be used, notice of the intent to enter into negotiations shall be published in the City Record for five (5) consecutive editions no fewer than ten calendar days before negotiations are expected to begin and shall be posted on the City's website in a location that is accessible by the public simultaneously with its publication. Such notice shall solicit expressions of interest from vendors qualified to compete on that procurement or in the future. This subdivision shall not apply in cases where Corporation Counsel has provided a written statement that such notice may jeopardize pending litigation or collective bargaining.
 
@@ -2069,7 +2069,7 @@ Chapter 3: Methods of Source Selection
 
    (2) The Agency shall obtain the prior approval of the Comptroller and the Corporation Counsel.
 
-   (3) The Agency shall submit at the earliest practicable time a determination of the basis of the emergency and the selection of the contractor, as set forth in § 3-06(e)(3) of these Rules to the Comptroller and the Corporation Counsel for approval as soon as possible.
+   (3) The Agency shall submit at the earliest practicable time a determination of the basis of the emergency and the selection of the contractor, as set forth in 9 RCNY § 3-06(e)(3) to the Comptroller and the Corporation Counsel for approval as soon as possible.
 
 (d) Source selection. The procedure used shall assure that the required items are procured in time to meet the emergency. Given this constraint, such competition as is possible and practicable shall be obtained.
 
@@ -2077,7 +2077,7 @@ Chapter 3: Methods of Source Selection
 
    (1) Solicitations pursuant to a finding of emergency are not required to be published in the City Record.
 
-   (2) The agency shall publish notice of the award of the emergency contract in accordance with § 3-06(f).
+   (2) The agency shall publish notice of the award of the emergency contract in accordance with 9 RCNY § 3-06(f).
 
    (3) A determination of the basis for the emergency and the selection of the vendor must be filed with the Corporation Counsel and the Comptroller, and must further be submitted to the City Council no later than fifteen days following the contract award. The determination must include:
 
@@ -2147,7 +2147,7 @@ Chapter 3: Methods of Source Selection
 
 (c) Designation of specific commodities within eligible markets. The CCPO, based upon written application by an ACCO, shall select those specific commodities within eligible markets subject to accelerated procurement. The CCPO may also, at his/her discretion, select specific commodities for accelerated procurements. In either case, the selected commodities shall have been and continue to be in short supply and/or have experienced and continue to experience short-term price fluctuations. The CCPO shall document the reasons why such specific commodities are selected and the duration and conditions under which these commodities shall remain subject to accelerated procurement. The CCPO shall further issue the approvals necessary to implement any changes to the specific commodities list and shall publish quarterly in the City Record a list of all commodities designated for accelerated procurement. The scheduling and content of such notice shall be determined by the CCPO.
 
-(d) Methods of procurement. Accelerated procurements shall be made in accordance with § 3-01 of these Rules.
+(d) Methods of procurement. Accelerated procurements shall be made in accordance with 9 RCNY § 3-01.
 
 (e) Exemptions from certain requirements. Accelerated procurements are exempt from the following requirements:
 
@@ -2341,7 +2341,7 @@ Chapter 3: Methods of Source Selection
 *§ 3-10 Prequalification.* ::
 
 
-(a)  Policy. Prequalification allows an agency to evaluate the qualifications of vendors for provision of particular categories of goods, services, construction, or construction-related services (including subcategories based on expertise, size, dollar size of project, or other factors as determined by the ACCO) before issuing a solicitation for a specific contract. Except for procurements for construction, a procurement using a PQL shall be considered a "special case" under these Rules. This Section does not apply to the prequalification of vendors through HHS Accelerator pursuant to Section 3-16.
+(a)  Policy. Prequalification allows an agency to evaluate the qualifications of vendors for provision of particular categories of goods, services, construction, or construction-related services (including subcategories based on expertise, size, dollar size of project, or other factors as determined by the ACCO) before issuing a solicitation for a specific contract. Except for procurements for construction, a procurement using a PQL shall be considered a "special case" under these Rules. This Section does not apply to the prequalification of vendors through HHS Accelerator pursuant to 9 RCNY § 3-16.
 
 (b) "Special Case" Determination. Prior to using a PQL for a procurement of goods, services or construction-related services, the ACCO shall make a determination that such procurement is a "special case" that requires the use of a PQL, that the list is composed of vendors that have been prequalified to provide the specified item(s) to be procured, and that the particular PQL is accurate, complete, and current. The ACCO may permit joint ventures of two or more prequalified vendors from one or more PQLs, or may combine PQLs for a solicitation. Use of a PQL for a procurement of construction does not require a special case determination.
 
@@ -2413,13 +2413,13 @@ Chapter 3: Methods of Source Selection
 
       (i) Minimum requirement. When selective solicitation is used, it is essential that a minimum level of competition be sought.
 
-      (ii) Random selective solicitation. Except as otherwise permitted by §§ 3-03(h) and 3-04(b) of these Rules, bids or proposals shall be solicited from a minimum of eight vendors, selected at random from the PQL.
+      (ii) Random selective solicitation. Except as otherwise permitted by 9 RCNY §§ 3-03(h) and 3-04(b), bids or proposals shall be solicited from a minimum of eight vendors, selected at random from the PQL.
 
-      (iii) Rotational selective solicitation. Rotational selective solicitation is permitted for construction and construction-related services pursuant to § 3-03(h)of these Rules.
+      (iii) Rotational selective solicitation. Rotational selective solicitation is permitted for construction and construction-related services pursuant to 9 RCNY § 3-03(h).
 
-      (iv) Selective solicitation based on a determination that a vendor(s) is the best qualified. In the case of construction or construction-related services where selective solicitation based on a determination that a vendor(s) is the best qualified pursuant to §§ 3-03(h) and 3-04(b) of these Rules will be utilized, the evaluation committee established pursuant to § 3-03(g) of these Rules or a separate committee, composed of no fewer than three persons with knowledge, expertise, and experience to make a fair and reasonable evaluation of the vendors, shall select a minimum of five vendors evaluated as being the best qualified for the construction or construction-related service. The committee shall make a determination of the basis for selecting each vendor.
+      (iv) Selective solicitation based on a determination that a vendor(s) is the best qualified. In the case of construction or construction-related services where selective solicitation based on a determination that a vendor(s) is the best qualified pursuant to 9 RCNY §§ 3-03(h) and 3-04(b) will be utilized, the evaluation committee established pursuant to 9 RCNY § 3-03(g) or a separate committee, composed of no fewer than three persons with knowledge, expertise, and experience to make a fair and reasonable evaluation of the vendors, shall select a minimum of five vendors evaluated as being the best qualified for the construction or construction-related service. The committee shall make a determination of the basis for selecting each vendor.
 
-      (v) Selective solicitation and multiple awards. Where the solicitation will result in the award of multiple contracts, the minimum number of vendors solicited shall be proportional to the number of anticipated awards (e.g., where two contracts are to be awarded, the agency must select a minimum of sixteen vendors, except that in the case of construction-related services to be procured pursuant to § 3-03(h)(2)(i)(B) of these Rules, the agency must only select a minimum of six vendors; in the case of construction-related services to be procured pursuant to § 3-03(h)(2)(ii) of these Rules where selection based on a "best qualified" determination is utilized, either alone or in combination with random and/or rotational selective solicitation, the agency must only select a minimum of ten vendors).
+      (v) Selective solicitation and multiple awards. Where the solicitation will result in the award of multiple contracts, the minimum number of vendors solicited shall be proportional to the number of anticipated awards (e.g., where two contracts are to be awarded, the agency must select a minimum of sixteen vendors, except that in the case of construction-related services to be procured pursuant to 9 RCNY § 3-03(h)(2)(i)(B), the agency must only select a minimum of six vendors; in the case of construction-related services to be procured pursuant to 9 RCNY § 3-03(h)(2)(ii) where selection based on a "best qualified" determination is utilized, either alone or in combination with random and/or rotational selective solicitation, the agency must only select a minimum of ten vendors).
 
 (j) Prequalification not a finding of responsibility. The fact that a vendor has been prequalified does not in and of itself represent a finding of responsibility for a particular procurement. Between the time of bid opening or receipt of proposals and contract award, the ACCO may determine that a prequalified vendor is not responsible and, as such, should be removed from the PQL.
 
@@ -2699,7 +2699,7 @@ Chapter 3: Methods of Source Selection
 
       (ii) Following the analysis in subparagraph (i) of this paragraph, each Investment Consultant shall provide a written report describing the basis for its recommendations of qualified Investment Managers for further consideration by the evaluation committee.
 
-   (2) Evaluation Committee. An evaluation committee consisting of no fewer than three persons with knowledge, expertise, and experience sufficient to make a fair and reasonable evaluation shall be established. The ACCO shall require each member of the evaluation committee to submit a signed statement, in a format approved by the CCPO, agreeing to prohibitions on any conflicts of interest. The evaluation committee may include outside evaluators pursuant to section 3-03(g)(1)(b) of this chapter.
+   (2) Evaluation Committee. An evaluation committee consisting of no fewer than three persons with knowledge, expertise, and experience sufficient to make a fair and reasonable evaluation shall be established. The ACCO shall require each member of the evaluation committee to submit a signed statement, in a format approved by the CCPO, agreeing to prohibitions on any conflicts of interest. The evaluation committee may include outside evaluators pursuant to 9 RCNY § 3-03(g)(1)(b).
 
    (3) Shortlist of Investment Managers.
 
@@ -2725,7 +2725,7 @@ Chapter 3: Methods of Source Selection
 
          (D) Any oral clarification of a proposal shall be confirmed in writing by the Investment Manager.
 
-      (v) Best and Final Offers. Best and final offers are the revised and corrected final offers submitted by Investment Managers after discussions, if any, have been held. The ACCO shall establish a common date and time for the submission of best and final offers. Best and final offers shall be submitted only once unless the ACCO makes a determination that it is in the Retirement System's best interest to conduct additional discussions and/or require another submission of best and final offers. All best and final offers shall be handled in accordance with the control procedures contained in Section 3-03(f)(9) of this section. Best and final offers shall be evaluated in accordance with this subdivision and the Notice of Search.
+      (v) Best and Final Offers. Best and final offers are the revised and corrected final offers submitted by Investment Managers after discussions, if any, have been held. The ACCO shall establish a common date and time for the submission of best and final offers. Best and final offers shall be submitted only once unless the ACCO makes a determination that it is in the Retirement System's best interest to conduct additional discussions and/or require another submission of best and final offers. All best and final offers shall be handled in accordance with the control procedures contained in 9 RCNY § 3-03(f)(9). Best and final offers shall be evaluated in accordance with this subdivision and the Notice of Search.
 
       (vi) Report to Board of Trustees. The Evaluation Committee, in consultation with the Investment Consultants, shall provide the Board of Trustees of the participating Retirement System(s) or its delegee with a written report summarizing the evaluation of all firms on the Shortlist of Investment Managers and at least two optimized portfolio recommendations prior to the Board of Trustees making a determination on the award of contract(s).
 
@@ -2789,7 +2789,7 @@ Chapter 3: Methods of Source Selection
 
 (a) Policy.
 
-   (1) Client services contracts must be procured through HHS Accelerator unless the HHS Accelerator Director authorizes, with the approval of the CCPO, the use of a different procurement method. Notwithstanding the above, the authorization of the HHS Accelerator Director is not required for procurements pursuant to Section 1-02(d); Section 1-02(e); Section 3-04(b)(2)(iii); Section 3-05; Section 3-06; Section 3-08; Section 3-09; and Section 3-13.
+   (1) Client services contracts must be procured through HHS Accelerator unless the HHS Accelerator Director authorizes, with the approval of the CCPO, the use of a different procurement method. Notwithstanding the above, the authorization of the HHS Accelerator Director is not required for procurements pursuant to 9 RCNY § 1-02(d); 9 RCNY § 1-02(e); 9 RCNY § 3-04(b)(2)(iii); 9 RCNY § 3-05; 9 RCNY § 3-06; 9 RCNY § 3-08; 9 RCNY § 3-09; and 9 RCNY § 3-13.
 
    (2) The HHS Accelerator Director prequalifies vendors by evaluating their qualifications to provide client services (including subcategories of specific client services). When procuring client services pursuant to this Section, an agency must issue a solicitation for a specific contract to HHS Accelerator prequalified vendors in accordance with the provisions of this Section. The ACCO may permit joint ventures of two or more prequalified vendors. A procurement using HHS Accelerator is considered a "special case" under these Rules without the requirement for a further determination.
 
@@ -2843,7 +2843,7 @@ Chapter 3: Methods of Source Selection
 
    (5) Appeal to OATH. The decision of the HHS Accelerator Director shall be final unless appealed to OATH. If a vendor wishes to contest the HHS Accelerator Director's decision, it may appeal to OATH, which shall hear and take final action in the matter in accordance with its rules. The petition to OATH shall be filed by the vendor within fifteen days of the date of the decision. Supporting documentation, if any, shall be included. The vendor shall, at the same time, send a copy of its appeal to the HHS Accelerator Director, CCPO, and Comptroller's Office. The HHS Accelerator Director shall forward a copy of all appeal-related documents within fourteen days of its receipt of the copy of the vendor's appeal to OATH. During the pendency of the appeal, an Agency may proceed with the solicitation. OATH shall review the decision and determine whether that decision is arbitrary or capricious and whether it is based on substantial evidence. Copies of OATH's determination shall be sent to the vendor, HHS Accelerator Director, Comptroller's Office, and, where the decision results in the revocation of prequalification, to the CCPO for any modifications to the VENDEX database.
 
-(h) Prequalification Not a Finding of Responsibility. That a vendor has been prequalified does not imply a finding of responsibility for a particular procurement. Between the time of receipt of proposals or bid opening and contract award, the ACCO may determine that a prequalified vendor is not responsible for a particular procurement pursuant to Section 2-08. If the ACCO makes such determination, in addition to the requirements of Section 2-08, he or she must also notify the HHS Accelerator Director, who will then determine whether a vendor should be removed from the PQL.
+(h) Prequalification Not a Finding of Responsibility. That a vendor has been prequalified does not imply a finding of responsibility for a particular procurement. Between the time of receipt of proposals or bid opening and contract award, the ACCO may determine that a prequalified vendor is not responsible for a particular procurement pursuant to 9 RCNY § 2-08. If the ACCO makes such determination, in addition to the requirements of 9 RCNY § 2-08, he or she must also notify the HHS Accelerator Director, who will then determine whether a vendor should be removed from the PQL.
 
 (i) Solicitation from HHS Accelerator PQL. The solicitation of bids or proposals through HHS Accelerator is limited to vendors on the HHS Accelerator PQL who are prequalified in the specific category(ies) of client services being solicited. The solicitation of bids or proposals through HHS Accelerator must be publicly advertised to provide notice to vendors of the solicitation and an opportunity to apply for prequalification in order to submit a proposal.
 
@@ -2951,7 +2951,7 @@ Chapter 3: Methods of Source Selection
 
 (n) Public notice.
 
-   (1) Notice of solicitation. When RFPs, notices of their availability or notices of solicitation are published, they must also be simultaneously posted on the City's website in a location that is accessible to the public. An agency may, upon a vendor's request, provide RFPs or notices electronically. Notices of solicitation and copies of the CS-RFP must be delivered electronically at least twenty days prior to the due date to all vendors prequalified through HHS Accelerator for the applicable category(ies), unless a selective solicitation is being utilized pursuant section 3-16(j). Vendors must respond to the solicitation electronically via the HHS Accelerator System.
+   (1) Notice of solicitation. When RFPs, notices of their availability or notices of solicitation are published, they must also be simultaneously posted on the City's website in a location that is accessible to the public. An agency may, upon a vendor's request, provide RFPs or notices electronically. Notices of solicitation and copies of the CS-RFP must be delivered electronically at least twenty days prior to the due date to all vendors prequalified through HHS Accelerator for the applicable category(ies), unless a selective solicitation is being utilized pursuant 9 RCNY § 3-16(j). Vendors must respond to the solicitation electronically via the HHS Accelerator System.
 
    (2) Notice of Vendor Selection.
 
@@ -2973,11 +2973,11 @@ Chapter 3: Methods of Source Selection
 
 (o) CS-RFP Handling Procedures.
 
-   (1) Pre-Proposal or Pre-Solicitation Conferences. Pre-proposal or pre- solicitation conferences may be conducted as set forth in Section 3-02 of these Rules.
+   (1) Pre-Proposal or Pre-Solicitation Conferences. Pre-proposal or pre- solicitation conferences may be conducted as set forth in 9 RCNY § 3-02.
 
-   (2) Amendments to CS-RFPs. Amendments to CS-RFPs may be made as set forth in Section 3-02 of these Rules and will be issued by the Agency through HHS Accelerator.
+   (2) Amendments to CS-RFPs. Amendments to CS-RFPs may be made as set forth in 9 RCNY § 3-02 and will be issued by the Agency through HHS Accelerator.
 
-   (3) Modification or Withdrawal of Proposals. Proposals may be modified or withdrawn prior to the established due date as set forth in Section 3-02 of these Rules. The established due date is either the time and date announced for receipt of proposals or receipt of modifications to proposals, if any, or if discussions have begun, the time and date by which best and final offers must be submitted.
+   (3) Modification or Withdrawal of Proposals. Proposals may be modified or withdrawn prior to the established due date as set forth in 9 RCNY § 3-02. The established due date is either the time and date announced for receipt of proposals or receipt of modifications to proposals, if any, or if discussions have begun, the time and date by which best and final offers must be submitted.
 
    (4) Late Proposals and Modifications. Any proposal or modification received after the established due date and time at the place designated for receipt is late and may be accepted only as set forth in paragraphs (5) through (8) below.
 
@@ -3033,7 +3033,7 @@ Chapter 3: Methods of Source Selection
 
       (v) The ACCO may request best and final offers on the whole proposal or on any one or combination of its component parts (e.g., price, technical qualifications, approach, and/or capability). The request must be the same for all proposers.
 
-      (vi) Best and final offers must be evaluated in accordance with subdivision 3-16(q).
+      (vi) Best and final offers must be evaluated in accordance with 9 RCNY § 3-16(q).
 
 (q) Mistakes in Proposals.
 
@@ -3043,13 +3043,13 @@ Chapter 3: Methods of Source Selection
 
       (i) During Discussions Prior to Best and Final Offers. Once discussions are commenced with any proposer or after best and final offers are requested, any offeror may correct any mistake by modifying or withdrawing the proposal until the time and date set for receipt of best and final offers.
 
-      (ii) Minor Informalities. Minor informalities, unless otherwise corrected by an offeror, must be treated in accordance with Section 3-02(m)(3)(i) of these Rules.
+      (ii) Minor Informalities. Minor informalities, unless otherwise corrected by an offeror, must be treated in accordance with 9 RCNY § 3-02(m)(3)(i).
 
-      (iii) Correction of Mistakes. If discussions are not held or if the best and final offers upon which award will be made have been received, mistakes may be corrected and the intended correct offer considered only in accordance with Section 3-02(m)(3)(ii) of these Rules.
+      (iii) Correction of Mistakes. If discussions are not held or if the best and final offers upon which award will be made have been received, mistakes may be corrected and the intended correct offer considered only in accordance with 9 RCNY § 3-02(m)(3)(ii).
 
-   (3) Mistakes Discovered After Vendor Selection. Mistakes may not be corrected after vendor selection except in accordance with Section 3-02(m)(4) of these Rules.
+   (3) Mistakes Discovered After Vendor Selection. Mistakes may not be corrected after vendor selection except in accordance with 9 RCNY § 3-02(m)(4).
 
-   (4) Determinations Required. When a proposal is corrected or withdrawn, or correction or withdrawal is denied, a determination must be prepared in accordance with Section 3-02(m)(5) of these Rules.
+   (4) Determinations Required. When a proposal is corrected or withdrawn, or correction or withdrawal is denied, a determination must be prepared in accordance with 9 RCNY § 3-02(m)(5).
 
 (r) Vendor Selection and Documentation. The ACCO must make a determination showing the basis on which the contract award was made to the responsible proposer whose proposal was determined to be the most advantageous to the City, taking into consideration the price and other criteria in the RFP. This determination must be included in a Recommendation for Award. Each Recommendation for Award must include at a minimum the following information:
 

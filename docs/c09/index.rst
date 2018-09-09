@@ -17486,7 +17486,7 @@ Chapter 33: Filing of Income and Expense Statements
 
 (a) Purpose. 
 
-   (1) Title 11, Chapter 2, § 11-208.1 of the Administrative Code of the City of New York requires owners of designated income-producing properties to file annual income and expense statements with the Department of Finance. The income and expense statement must be filed by electronic means in accordance with the provisions of subdivision (b) of § 33-02 of these rules. The annual filing of income and expense statements is necessary to improve the accuracy of assessments of income-producing properties, reduce the number of administrative and judicial review proceedings challenging tentative assessed valuations, ensure the equitable distribution of the intra-class tax burden, substantially reduce tax refunds to be paid by the City of New York, and ultimately to achieve fairness in the assessment process.
+   (1) Title 11, Chapter 2, § 11-208.1 of the Administrative Code of the City of New York requires owners of designated income-producing properties to file annual income and expense statements with the Department of Finance. The income and expense statement must be filed by electronic means in accordance with the provisions of subdivision (b) of 19 RCNY § 33-02. The annual filing of income and expense statements is necessary to improve the accuracy of assessments of income-producing properties, reduce the number of administrative and judicial review proceedings challenging tentative assessed valuations, ensure the equitable distribution of the intra-class tax burden, substantially reduce tax refunds to be paid by the City of New York, and ultimately to achieve fairness in the assessment process.
 
    (2) These regulations govern the administration of the filing of income and expense statements as authorized by Title 11, Chapter 2, § 11-208.1 of the Administrative Code of the City of New York.
 
@@ -17660,21 +17660,21 @@ Chapter 33: Filing of Income and Expense Statements
 
    (3) Owners of income-producing property shall file an income and expense statement which indicates whether they maintain their books and records using the cash or accrual method of accounting.
 
-   (4) Where the owner of the property has not owned the property and is without knowledge of the income and expenses of the operation of the property for the entire year for which the income and expense statement is required, then an income and expense statement will not be required for such year. However, the owner may be required to file a claim of exclusion pursuant to paragraph (3) of subdivision (e) of section 33-02 of these rules.
+   (4) Where the owner of the property has not owned the property and is without knowledge of the income and expenses of the operation of the property for the entire year for which the income and expense statement is required, then an income and expense statement will not be required for such year. However, the owner may be required to file a claim of exclusion pursuant to paragraph (3) of subdivision (e) of 19 RCNY § 33-02.
 
    (5) In addition to the income and expense statement, for any year, the Commissioner of Finance may require owners of income-producing property with a tentative actual assessed value at or above an amount determined by the Commissioner to file an addendum to the income and expense statement in a format determined by the Commissioner, containing rent roll information for a period determined by the Commissioner. The addendum will not be required for a property with a tentative actual assessed value of less than $750,000 for the tax year during which filing of the income and expense statement is required. Any addendum required by this paragraph shall be considered to be a part of the income and expense statement and any filing requirement contained in these rules for the income and expense statement shall also be applicable to the addendum.
 
 (d) Other filing requirements. 
 
-   (1) An owner of income-producing property will not be required to file an income and expense statement if the net lessee of the property files an income and expense statement for the property which contains complete information relating to the operation of the property, i.e., information from all net lessees of the property which reports all income derived from the property. Should both the owner and the net lessee fail to file a properly completed income and expense statement pursuant to § 33-02(e) of these regulations, then the owner will be subject to the penalties provided in § 33-03 of these regulations.
+   (1) An owner of income-producing property will not be required to file an income and expense statement if the net lessee of the property files an income and expense statement for the property which contains complete information relating to the operation of the property, i.e., information from all net lessees of the property which reports all income derived from the property. Should both the owner and the net lessee fail to file a properly completed income and expense statement pursuant to 19 RCNY § 33-02(e), then the owner will be subject to the penalties provided in 19 RCNY § 33-03.
 
-   (2) Properties for which an income and expense statement is filed by a net lessee will not be included on the list provided to the Tax Commission pursuant to § 33-03(b) of these regulations.
+   (2) Properties for which an income and expense statement is filed by a net lessee will not be included on the list provided to the Tax Commission pursuant to 19 RCNY § 33-03(b).
 
    (3) Owners of income-producing property must file an income and expense statement notwithstanding the fact that the building was vacant for all or part of the calendar or fiscal year preceding the deadline for filing such statement, unless as of the deadline for filing the income and expense statement, the property is vacant due to an impending demolition and has no existing leases.
 
    (4) The owner of a building situated on land that it leases must file an income and expense statement for the building. The owner of land subject to a ground lease must file a separate income and expense statement for the land unless the owner of a building situated on the leased land provides the leasehold rent for the building on his or her income and expense statement.
 
-   (5) Property leased by a subsidiary from a parent corporation is not considered owner-occupied for purposes of § 33-01(b)(2)(iv) of these regulations unless the subsidiary is wholly (100 percent) owned by the parent corporation. If a subsidiary is not wholly (100 percent) owned by the parent corporation, the parent corporation must file an income and expense statement for property leased to the subsidiary.
+   (5) Property leased by a subsidiary from a parent corporation is not considered owner-occupied for purposes of 19 RCNY § 33-01(b)(2)(iv) unless the subsidiary is wholly (100 percent) owned by the parent corporation. If a subsidiary is not wholly (100 percent) owned by the parent corporation, the parent corporation must file an income and expense statement for property leased to the subsidiary.
 
    (6) Owners of residential condominium with commercial and/or professional space, and owners of residential cooperative buildings with more than 2,500 square feet of commercial and/or professional space, must file an income and expense statement, but income and expense information is required only for the commercial and/or professional portion of the property.
 
@@ -17688,21 +17688,21 @@ Chapter 33: Filing of Income and Expense Statements
 
       (iii) any such property that was added to inventory during the reporting year, including any such property the construction of which remained in progress as of the end of the reporting year.
 
-   (9) Notwithstanding the provisions of § 33-01(b)(1)(xv) and § 33-01(b)(2)(vi), for space in a condominium or cooperative building that represents units that have not been sold and remain owned by the sponsor, the property owner must file an income and expense statement that includes rent roll information in a format determined by the Commissioner of Finance, but this requirement will not apply unless at least ten percent in the aggregate of the total number of units in the condominium or cooperative building remain unsold and remain owned by the sponsor (or if a condominium or cooperative consists of more than one building governed by the same board of managers or directors, at least 10% of the units in the buildings in the aggregate remain unsold and remain owned by the sponsor).
+   (9) Notwithstanding the provisions of 19 RCNY § 33-01(b)(1)(xv) and 19 RCNY § 33-01(b)(2)(vi), for space in a condominium or cooperative building that represents units that have not been sold and remain owned by the sponsor, the property owner must file an income and expense statement that includes rent roll information in a format determined by the Commissioner of Finance, but this requirement will not apply unless at least ten percent in the aggregate of the total number of units in the condominium or cooperative building remain unsold and remain owned by the sponsor (or if a condominium or cooperative consists of more than one building governed by the same board of managers or directors, at least 10% of the units in the buildings in the aggregate remain unsold and remain owned by the sponsor).
 
 (e) Failure to file. 
 
-   (1) The failure of an owner of income-producing property to submit a form RPIE by the filing deadline shall subject the owner to the penalties provided in § 33-03 of these regulations.
+   (1) The failure of an owner of income-producing property to submit a form RPIE by the filing deadline shall subject the owner to the penalties provided in 19 RCNY § 33-03.
 
-   (2) Notwithstanding the submission of a form RPIE by an owner, for purposes of § 33-03 of these rules, the term "failure to file an income and expense statement" may include, but not be limited to:
+   (2) Notwithstanding the submission of a form RPIE by an owner, for purposes of 19 RCNY § 33-03, the term "failure to file an income and expense statement" may include, but not be limited to:
 
-      (i) failure to file in the electronic format prepared by the Department of Finance, or, in the event that the electronic filing requirement is waived by the Commissioner under § 33-02(b)(2) of these rules, failure to use the forms prepared by the Department of Finance;
+      (i) failure to file in the electronic format prepared by the Department of Finance, or, in the event that the electronic filing requirement is waived by the Commissioner under 19 RCNY § 33-02(b)(2), failure to use the forms prepared by the Department of Finance;
 
       (ii) failure to submit a separate income and expense statement for each parcel (consolidated statements may be submitted only for contiguous condominium lots operated as a single entity);
 
       (iii) failure to complete forms in a legible manner;
 
-      (iv) failure to submit an addendum, when required under § 33-02(c)(5) of these rules;
+      (iv) failure to submit an addendum, when required under 19 RCNY § 33-02(c)(5);
 
       (v) failure to file a substantially complete and accurate income and expense statement which shall include but shall not be limited to:
 
@@ -17710,21 +17710,21 @@ Chapter 33: Filing of Income and Expense Statements
 
          (B) failure to provide a complete and accurate and itemized list of income and expense data; or
 
-      (vi) in the event that the electronic filing requirement is waived by the Commissioner under § 33-02(b)(2) of these rules, failure to use the forms prepared by the Department of Finance, or failure to submit an income and expense statement containing the original signature of the owner(s) (the signature of an agent is anot acceptable unless a power of attorney is attached to the statement).
+      (vi) in the event that the electronic filing requirement is waived by the Commissioner under 19 RCNY § 33-02(b)(2), failure to use the forms prepared by the Department of Finance, or failure to submit an income and expense statement containing the original signature of the owner(s) (the signature of an agent is anot acceptable unless a power of attorney is attached to the statement).
 
-   (3) (i) Owners of property who contend that they are excluded from the filing requirement based on any provision of paragraph (2) of subdivision (b) of section 33-01 of these rules, other than subparagraphs (i), (ii), (iii) or (vii) of such paragraph (2), must file with the Department of Finance a claim of exclusion on a form prepared by the Department, no later than the first day of June each year for as long as the owner claims that the property is excluded from the filing requirement. If the first day of June falls on a Saturday, Sunday or City of New York holiday, the deadline for filing will be the next business day.
+   (3) (i) Owners of property who contend that they are excluded from the filing requirement based on any provision of paragraph (2) of subdivision (b) of 19 RCNY § 33-01, other than subparagraphs (i), (ii), (iii) or (vii) of such paragraph (2), must file with the Department of Finance a claim of exclusion on a form prepared by the Department, no later than the first day of June each year for as long as the owner claims that the property is excluded from the filing requirement. If the first day of June falls on a Saturday, Sunday or City of New York holiday, the deadline for filing will be the next business day.
 
       (ii) In addition to the requirements of subparagraph (i) of this paragraph, owners of properties who claim that they are excluded from the filing requirement, and are required to file a claim of exclusion, must file a claim of exclusion on a form prepared by the Department no later than the June 1 that immediately follows the date on which the owner took title to the property. If the first day of June falls on a Saturday, Sunday or City of New York holiday, the deadline for filing will be the next business day.
 
-      (iii) Owners who erroneously claim to be excluded from the filing requirements shall be subject to the penalties set forth in § 11-208.1 of the Administrative Code and § 33-03 of these rules for failure to file an income and expense statement. Owners whose claim of exclusion is approved by the Department must notify the Department of any subsequent change in the physical condition or use of their property which would result in their being required to file an income and expense statement in future years. Failure to notify the Department of Finance of such a change may result in the imposition of penalties for the year(s) in which an income and expense statement was required.
+      (iii) Owners who erroneously claim to be excluded from the filing requirements shall be subject to the penalties set forth in § 11-208.1 of the Administrative Code and 19 RCNY § 33-03 for failure to file an income and expense statement. Owners whose claim of exclusion is approved by the Department must notify the Department of any subsequent change in the physical condition or use of their property which would result in their being required to file an income and expense statement in future years. Failure to notify the Department of Finance of such a change may result in the imposition of penalties for the year(s) in which an income and expense statement was required.
 
-      (iv) Owners of property who are required to file a claim of exclusion pursuant to paragraph (3) of subdivision (e) of section 33-02 of these rules who file neither a timely claim of exclusion nor a timely income and expense statement will be subject to the penalties set forth in section 11-208.1 of the Administrative Code and section 33-03 of these rules.
+      (iv) Owners of property who are required to file a claim of exclusion pursuant to paragraph (3) of subdivision (e) of 19 RCNY § 33-02 who file neither a timely claim of exclusion nor a timely income and expense statement will be subject to the penalties set forth in section 11-208.1 of the Administrative Code and 19 RCNY § 33-03.
 
       (v) The Commissioner may for good cause extend the deadlines provided in subparagraphs (i) and (ii) of this paragraph for filing a claim of exclusion by a period not to exceed thirty days, except that with respect to residential class two properties held in the cooperative or condominium form of ownership, by a period not to exceed sixty days.
 
-      (vi) Notwithstanding the submission of a claim of exclusion by an owner, for purposes of section 33-03 of these rules, the term "failure to file a claim of exclusion" may include, but not be limited to:
+      (vi) Notwithstanding the submission of a claim of exclusion by an owner, for purposes of 19 RCNY § 33-03, the term "failure to file a claim of exclusion" may include, but not be limited to:
 
-         (A) failure to file in the electronic format prepared by the Department of Finance, or, in the event that the electronic filing requirement is waived by the Commissioner under paragraph (2) of subdivision (b) of section 33-02 of these rules, failure to use the forms prepared by the Department of Finance;
+         (A) failure to file in the electronic format prepared by the Department of Finance, or, in the event that the electronic filing requirement is waived by the Commissioner under paragraph (2) of subdivision (b) of 19 RCNY § 33-02, failure to use the forms prepared by the Department of Finance;
 
          (B) failure to submit a claim of exclusion containing the original signature of the owner or owners, or the signature of an agent accompanied by a power of attorney authorization);
 
@@ -17786,7 +17786,7 @@ Chapter 33: Filing of Income and Expense Statements
 
       (iii) one thousand dollars for failure to submit a claim of exclusion in three consecutive years or more.
 
-   (5) Any penalties prescribed in subdivision (a) of section 33-03 of these rules when entered in the records of the Department of Finance will be a lien on the real property as to which the statement or claim was required to be filed and will continue to be a lien until paid. The lien may be enforced by tax lien sale, in rem foreclosure, or any other means provided by law for enforcement of tax liens.
+   (5) Any penalties prescribed in subdivision (a) of 19 RCNY § 33-03 when entered in the records of the Department of Finance will be a lien on the real property as to which the statement or claim was required to be filed and will continue to be a lien until paid. The lien may be enforced by tax lien sale, in rem foreclosure, or any other means provided by law for enforcement of tax liens.
 
    (6) If any penalty imposed under this subdivision is not paid within thirty days from the date it is entered in the records of the Department of Finance, interest will accrue on the amount of the penalty at the rate applicable to the affected real property for delinquent real property taxes, calculated from the date of entry to the date of payment.
 
@@ -17796,7 +17796,7 @@ Chapter 33: Filing of Income and Expense Statements
 
 (b) Denial of tax commission hearing. The Department of Finance shall provide to the Tax Commission a list of the income-producing properties whose owners failed to file an income and expense statement for use by the Tax Commission in determining if a hearing on any objection to the assessment of property shall be denied by the Tax Commission, pursuant to § 11-208.1, subdivision d, paragraph (2) of the Administrative Code.
 
-(c) Subpoena of income and expense data. In the event that an income and expense statement has not been timely filed pursuant to § 33-02 of these regulations, the Commissioner of Finance may compel by subpoena the production of the books and records of the owner relevant to the income and expenses of the property, and may make an application to any court of competent jurisdiction for an order compelling the owner to furnish the required income and expense statement.
+(c) Subpoena of income and expense data. In the event that an income and expense statement has not been timely filed pursuant to 19 RCNY § 33-02, the Commissioner of Finance may compel by subpoena the production of the books and records of the owner relevant to the income and expenses of the property, and may make an application to any court of competent jurisdiction for an order compelling the owner to furnish the required income and expense statement.
 
 
 
@@ -17810,7 +17810,7 @@ Chapter 33: Filing of Income and Expense Statements
 
    (1) Notice of failure to file timely statements and opportunity to cure.
 
-      (i) Owners of income-producing property who fail to file a timely income and expense statement or, where required, a claim of exclusion, in compliance with section 11-208.1 of the Administrative Code and these rules will be notified of such failure to comply and of the opportunity for a hearing prior to the imposition of the penalties contained in section 33-03 of these rules.
+      (i) Owners of income-producing property who fail to file a timely income and expense statement or, where required, a claim of exclusion, in compliance with section 11-208.1 of the Administrative Code and these rules will be notified of such failure to comply and of the opportunity for a hearing prior to the imposition of the penalties contained in 19 RCNY § 33-03.
 
       (ii) Except as provided in subparagraph (iii) of this paragraph, the notice will also provide that such owners may avoid penalties for failure to file by filing a properly completed income and expense statement or, where required, a claim of exclusion, no later than thirty days following the date of the notice.
 
@@ -17848,13 +17848,13 @@ Chapter 33: Filing of Income and Expense Statements
 
       (ii) Any party may request the severance of a case relating to another parcel when such parcel is not owned or controlled by the same owner or identical issues of fact or law are not involved.
 
-      (iii) Consolidation, joinder or severance of any case or issue shall be permitted at the discretion of the hearing officer, subject to the provisions of § 33-06 of these rules.
+      (iii) Consolidation, joinder or severance of any case or issue shall be permitted at the discretion of the hearing officer, subject to the provisions of 19 RCNY § 33-06.
 
    (9) All final decisions rendered by the Commissioner of Finance are reviewable under article 78 of the Civil Practice Law and Rules.
 
    (10) Ex parte communications. There shall be no ex parte communication with respect to the merits of any pending case between any party and the hearing officer.
 
-   (11) Burden of proof. The petitioner shall have the burden of establishing each fact relevant to a determination of the matters reviewable under § 33-04(g).
+   (11) Burden of proof. The petitioner shall have the burden of establishing each fact relevant to a determination of the matters reviewable under 19 RCNY § 33-04(g).
 
 (b) Hearings without personal appearance. A petition for a hearing without a personal appearance may be made by mail or by the Department of Finance internet website in accordance with this subdivision. In addition to the provisions of subdivision (a) of this section, the provisions of this subdivision shall apply to hearings that do not require a personal appearance.
 
@@ -17912,7 +17912,7 @@ Chapter 33: Filing of Income and Expense Statements
 
       (ii) No decision or determination shall be made except upon consideration of the record as a whole and as supported by the evidence. In the discretion of the hearing officer, technical rules of evidence need not be applied. However, effect shall be given to the rules of privilege recognized by law. Objections to evidentiary offers may be made and shall be noted in the record.
 
-   (5) Failure to appear. A default shall be entered upon the failure of the petitioner to appear at a hearing or at any adjourned date thereof, provided the petitioner has been given notice of the hearing date, and no written postponement has been granted pursuant to § 33-04(c)(3). In the event of a default, the hearing shall be concluded and a final determination shall be issued pursuant to § 33-04(c)(7) based on the record, if any, previously made.
+   (5) Failure to appear. A default shall be entered upon the failure of the petitioner to appear at a hearing or at any adjourned date thereof, provided the petitioner has been given notice of the hearing date, and no written postponement has been granted pursuant to 19 RCNY § 33-04(c)(3). In the event of a default, the hearing shall be concluded and a final determination shall be issued pursuant to 19 RCNY § 33-04(c)(7) based on the record, if any, previously made.
 
    (6) Hearing record. Hearings shall be transcribed verbatim or recorded by electronic recording devices. A copy of the transcript or electronic recording may be purchased at such rates as may be fixed by the Commissioner of Finance. If any party deems the hearing record to be inaccurate in any material respect, that party shall promptly notify the other parties and the hearing officer not later than five calendar days from receipt of the hearing record, specifying the portions of the record believed to be inaccurate.
 
@@ -17954,7 +17954,7 @@ Chapter 33: Filing of Income and Expense Statements
 
          (C) the cause of such delay.
 
-      (iii) If the envelope or wrapper containing the document has a postmark made by the United States Postal Service in addition to the postmark not so made, the postmark which was not made by the United States Postal Service will be disregarded, and whether the envelope was timely mailed will be determined solely by applying the provision of § 33-05(a).
+      (iii) If the envelope or wrapper containing the document has a postmark made by the United States Postal Service in addition to the postmark not so made, the postmark which was not made by the United States Postal Service will be disregarded, and whether the envelope was timely mailed will be determined solely by applying the provision of 19 RCNY § 33-05(a).
 
    (3) Registered and certified mailing.
 
@@ -20253,9 +20253,9 @@ Administrative law judges (ALJ's). "Administrative law judges," or "ALJ's" are p
 
 Business entity. "Business entity" means a corporation, partnership, organization or other entity engaged in business, but does not include an individual person or persons.
 
-Car rental program. "Car rental program" means a voluntary enrollment program whereby a lessor, upon registering vehicles and paying fees in accordance with § 39-11(b) of these rules, receives computer-generated hearing logs and can schedule hearings in PVB's Commercial Adjudication Unit (CAU).
+Car rental program. "Car rental program" means a voluntary enrollment program whereby a lessor, upon registering vehicles and paying fees in accordance with 19 RCNY § 39-11(b), receives computer-generated hearing logs and can schedule hearings in PVB's Commercial Adjudication Unit (CAU).
 
-Commercial Abatement Program. "Commercial Abatement Program" means a voluntary enrollment program whereby commercial organizations that are enrolled in the Fleet Program and meet the eligibility criteria established in § 39-03.2 of these rules, but are not eligible for the Stipulated Fine Program pursuant to § 39-03.1 of these rules, waive their right to challenge parking summonses and agree to pay a reduced fine amount for each summons, pursuant to § 39-03.2 of these rules.
+Commercial Abatement Program. "Commercial Abatement Program" means a voluntary enrollment program whereby commercial organizations that are enrolled in the Fleet Program and meet the eligibility criteria established in 19 RCNY § 39-03.2, but are not eligible for the Stipulated Fine Program pursuant to 19 RCNY § 39-03.1, waive their right to challenge parking summonses and agree to pay a reduced fine amount for each summons, pursuant to 19 RCNY § 39-03.2 of these rules.
 
 Commercial Organization. "Commercial Organization" means any business entity that is an owner or lessee of at least one vehicle that is used exclusively for the delivery of goods or services.
 
@@ -20263,35 +20263,35 @@ Director. Whenever used, the term "Director" shall refer to the head of the Park
 
 Fiscal year. "Fiscal year" means a period of one year commencing on the first day of July and terminating on the thirtieth day of June.
 
-Fleet Program. "Fleet Program" means a voluntary enrollment program whereby commercial organizations receive computer-generated hearing logs and can schedule hearings in the Parking Violation Bureau's (PVB's) Commercial Adjudication Unit (CAU) pursuant to § 39-03 of these rules.
+Fleet Program. "Fleet Program" means a voluntary enrollment program whereby commercial organizations receive computer-generated hearing logs and can schedule hearings in the Parking Violation Bureau's (PVB's) Commercial Adjudication Unit (CAU) pursuant to 19 RCNY § 39-03.
 
 Lessee. "Lessee" means any person, corporation, firm, partnership, agency, association or organization that rents, bails, leases or contracts for the use of one or more vehicles and has the exclusive use thereof for any period of time.
 
-Lessor. "Lessor" means any person, corporation, firm, partnership, agency, association or organization engaged in the business of renting or leasing vehicles to any lessee or bailee under a rental agreement, lease or otherwise, wherein the said lessee or bailee has the exclusive use of said vehicle for any period of time. "Lessor" shall be construed to include the "owner," as defined in this § 39-01, of a vehicle rented or leased in a vehicle renting or leasing business wherein the said lessee or bailee has the exclusive use of said vehicle for any period of time; provided, however, that a lessee of a vehicle shall not be construed to be a lessor even if it is a registrant or co-registrant of a vehicle.
+Lessor. "Lessor" means any person, corporation, firm, partnership, agency, association or organization engaged in the business of renting or leasing vehicles to any lessee or bailee under a rental agreement, lease or otherwise, wherein the said lessee or bailee has the exclusive use of said vehicle for any period of time. "Lessor" shall be construed to include the "owner," as defined in this 19 RCNY § 39-01, of a vehicle rented or leased in a vehicle renting or leasing business wherein the said lessee or bailee has the exclusive use of said vehicle for any period of time; provided, however, that a lessee of a vehicle shall not be construed to be a lessor even if it is a registrant or co-registrant of a vehicle.
 
 Long-term lease. "Long-term lease" means a lease for a term of one year or more.
 
 Notice of violation (summons). "Notice of violation" shall mean:
 
-(1) A form or duplicate thereof prepared and distributed by the Bureau substantially completed and sworn to or affirmed by authorized issuing agents which shall constitute a notice of violation when served as hereinafter provided.
+   (1) A form or duplicate thereof prepared and distributed by the Bureau substantially completed and sworn to or affirmed by authorized issuing agents which shall constitute a notice of violation when served as hereinafter provided.
 
-(2) For purposes of this definition, authorized issuing agents shall be members of the Police Department, Fire Department, Department of Transportation, Traffic Enforcement Agents, Department of Sanitation, the Sheriff, Under Sheriff and Deputy Sheriffs of the Department of Finance's Office of the City Sheriff, Fraud and Associate Fraud Investigators of the Department of Finance, Department of Business Services, Business Integrity Commission, New York City Housing Authority Police, Port Authority of New York and New Jersey Police, Police of the Metropolitan Transportation Authority and its subsidiary authorities, United States Park Police, Department of Buildings Special Patrolmen, State Regional Park Police, Taxi and Limousine Commission, Waterfront Commission of New York Harbor, Department of Parks and Recreation, Department of Correction, Roosevelt Island Security Organization, Sea Gate Association Police, Snug Harbor Rangers with peace officer status, officers of the Co-op City Department of Public Safety, Amtrak Police Officers, Office of Court Administration Court Officers, Department of Health Police Officers, Health and Hospitals Corporation Police Officers, New York State Office of Mental Health Safety Officers, New York State Office of Mental Retardation and Developmental Disabilities Police Officers, Triborough Bridge and Tunnel Authority Police Officers, State University Maritime College Public Safety Officers, Department of Environmental Protection Police Officers, managers of the New York City Transit Authority, and Officers of the Federal Protective Service of the United States Department of Homeland Security.
+   (2) For purposes of this definition, authorized issuing agents shall be members of the Police Department, Fire Department, Department of Transportation, Traffic Enforcement Agents, Department of Sanitation, the Sheriff, Under Sheriff and Deputy Sheriffs of the Department of Finance's Office of the City Sheriff, Fraud and Associate Fraud Investigators of the Department of Finance, Department of Business Services, Business Integrity Commission, New York City Housing Authority Police, Port Authority of New York and New Jersey Police, Police of the Metropolitan Transportation Authority and its subsidiary authorities, United States Park Police, Department of Buildings Special Patrolmen, State Regional Park Police, Taxi and Limousine Commission, Waterfront Commission of New York Harbor, Department of Parks and Recreation, Department of Correction, Roosevelt Island Security Organization, Sea Gate Association Police, Snug Harbor Rangers with peace officer status, officers of the Co-op City Department of Public Safety, Amtrak Police Officers, Office of Court Administration Court Officers, Department of Health Police Officers, Health and Hospitals Corporation Police Officers, New York State Office of Mental Health Safety Officers, New York State Office of Mental Retardation and Developmental Disabilities Police Officers, Triborough Bridge and Tunnel Authority Police Officers, State University Maritime College Public Safety Officers, Department of Environmental Protection Police Officers, managers of the New York City Transit Authority, and Officers of the Federal Protective Service of the United States Department of Homeland Security.
 
-(3) For purposes of this definition, authorized issuing agents shall also include special patrolmen appointed by the police commissioner pursuant to subdivision (c) of § 14-106 of the Administrative Code of the City of New York to do special duty at Parkchester South Condominium, at the New York City Hunts Point Terminal Market in the borough of the Bronx, Stuyvesant Town in the borough of Manhattan, and various facilities under the jurisdiction of the Department of Citywide Administrative Services.
+   (3) For purposes of this definition, authorized issuing agents shall also include special patrolmen appointed by the police commissioner pursuant to subdivision (c) of § 14-106 of the Administrative Code of the City of New York to do special duty at Parkchester South Condominium, at the New York City Hunts Point Terminal Market in the borough of the Bronx, Stuyvesant Town in the borough of Manhattan, and various facilities under the jurisdiction of the Department of Citywide Administrative Services.
 
 Operator. Whenever used, the term "operator" shall mean any person, corporation, firm, agency, association or organization that uses, operates or is responsible for a vehicle at the time the violation occurs, with or without the permission of the owner, and an owner who operates his or her or its own vehicle.
 
 Owner. "Owner" means any person, corporation, partnership, firm, agency, association, lessor or organization who at the time of the issuance of a notice of violation in connection with a vehicle operated in the City of New York:
 
-(1) is the beneficial or equitable owner of such vehicle; or
+   (1) is the beneficial or equitable owner of such vehicle; or
 
-(2) has the title to such vehicle; or
+   (2) has the title to such vehicle; or
 
-(3) is the registrant or co-registrant of such vehicle which is registered with the Department of Motor Vehicles of this state or any other state, territory, district, province, nation or other jurisdiction; or
+   (3) is the registrant or co-registrant of such vehicle which is registered with the Department of Motor Vehicles of this state or any other state, territory, district, province, nation or other jurisdiction; or
 
-(4) used such vehicle in its vehicle renting and/or leasing business; or
+   (4) used such vehicle in its vehicle renting and/or leasing business; or
 
-(5) is an owner of such vehicle as defined by sections 128 or 2101(a) of the Vehicle and Traffic Law.
+   (5) is an owner of such vehicle as defined by sections 128 or 2101(a) of the Vehicle and Traffic Law.
 
 Parking violations. "Parking violations" are traffic infractions constituting a violation of any law, rule or regulation providing for or regulating the parking, stopping or standing of a vehicle.
 
@@ -20305,7 +20305,7 @@ Primary filing. "Primary filing" means the initial filing of registration plate 
 
 Respondent. Whenever used, the term "respondent" shall mean the person charged with a parking violation.
 
-Stipulated Fine Program. "Stipulated Fine Program" means a voluntary enrollment program whereby commercial organizations that make expeditious pick-ups, deliveries and/or service calls and that are enrolled in the Fleet Program and meet the eligibility criteria established in § 39-03.1 of these rules, waive their right to challenge parking summonses and agree to pay a reduced fine amount for each summons, pursuant to § 39-03.1 of these rules.
+Stipulated Fine Program. "Stipulated Fine Program" means a voluntary enrollment program whereby commercial organizations that make expeditious pick-ups, deliveries and/or service calls and that are enrolled in the Fleet Program and meet the eligibility criteria established in 19 RCNY § 39-03.1, waive their right to challenge parking summonses and agree to pay a reduced fine amount for each summons, pursuant to 19 RCNY § 39-03.1.
 
 Supervising and senior administrative law judges. "Supervising and senior administrative law judges" are persons appointed by the Commissioner of Transportation thus far, or appointed by the Commissioner of Finance thus far and from now on, to hear and determine charges of parking violations, assist the Director in the supervision and administration of the work of the Bureau, and when so designated by the Director, be members of the Appeals Board of the Bureau.
 
@@ -20321,7 +20321,7 @@ Supervising and senior administrative law judges. "Supervising and senior admini
 
 (a) Contents.
 
-   (1) The notice of violation (summons) shall be in such form as may be prescribed by the Director and shall contain the registration plate number, the type of registration, the state of registration, the date of expiration, a description of the vehicle, a general statement of the violation alleged, including a reference to § 4-08 of title 34 of the official compilation of Rules of the City of New York or applicable provision of the Vehicle and Traffic Law or of the Administrative Code of the City of New York or any other law or rule, information as to the days and hours the applicable rule or provision is in effect, unless always in effect pursuant to the rule or provision and where appropriate the word "all" when the days and/or hours in effect are every day and/or twenty-four hours a day, the date, time and particular place of occurrence, and, if a meter violation, the meter number. A mere listing of a meter number in cases of charged meter violations shall not be a sufficient description of a particular place of occurrence of the charged violation.
+   (1) The notice of violation (summons) shall be in such form as may be prescribed by the Director and shall contain the registration plate number, the type of registration, the state of registration, the date of expiration, a description of the vehicle, a general statement of the violation alleged, including a reference to 34 RCNY § 4-08 or applicable provision of the Vehicle and Traffic Law or of the Administrative Code of the City of New York or any other law or rule, information as to the days and hours the applicable rule or provision is in effect, unless always in effect pursuant to the rule or provision and where appropriate the word "all" when the days and/or hours in effect are every day and/or twenty-four hours a day, the date, time and particular place of occurrence, and, if a meter violation, the meter number. A mere listing of a meter number in cases of charged meter violations shall not be a sufficient description of a particular place of occurrence of the charged violation.
 
    (2) Where the plate type or the expiration date are not shown on either the registration plates or sticker of a vehicle or where the registration sticker of a vehicle is covered, faded, defaced or mutilated so that it is unreadable, the plate type or the expiration date may be omitted from the notice of violation, provided that such condition is so described and inserted on the notice of violation.
 
@@ -20339,7 +20339,9 @@ Supervising and senior administrative law judges. "Supervising and senior admini
 
 (d) Certified copies of notice of violation (summons). The Bureau shall provide, upon request of the respondent or his or her attorney or authorized agent, certified copies of summonses issued to that respondent. The fee for such certified copies shall be one dollar ($1.00) per copy. The Director may prescribe procedures for application for such copies, and/or the waiving of the aforementioned charge.
 
-(e) 1) Notice of violation (summons) Copies. A respondent is entitled to one request of up to five free summons copies (in judgment or not in judgment). Beginning with copy number 6 in any single request, or any additional requests within thirty days of the previous request, there will be a charge of $1.00 per summons copy. This rule applies to all respondents, including commercial organizations, except as provided in paragraph (2) of this subdivision. Note that the respondent is entitled to only five free copies per request, not per plate.
+(e) (1) Notice of violation (summons) Copies. A respondent is entitled to one request of up to five free summons copies (in judgment or not in judgment). Beginning with copy number 6 in any single request, or any additional requests within thirty days of the previous request, there will be a charge of $1.00 per summons copy.
+
+   This rule applies to all respondents, including commercial organizations, except as provided in paragraph (2) of this subdivision. Note that the respondent is entitled to only five free copies per request, not per plate.
 
    (2) Indigent respondents. Notwithstanding any other provision of this subdivision, a Senior Hearing Administrative Law Judge, a Supervising Administrative Law Judge, the Chief Administrative Law Judge, the Special Counsel for Adjudications, the First Deputy Commissioner of Finance or the Commissioner of Finance may authorize, without fee, the provision of summons copies to which a fee is otherwise applicable under this subdivision, to a respondent who is a natural person for the purpose of defending against a charged parking violation or moving to open a default judgment, upon the respondent making affidavit or sworn statement on the record that the respondent is unable to pay the fee and demonstrating the indigence of the respondent. Such affidavit or sworn statement shall also state the reason the copy of each summons that was served at the time of occurrence is unavailable and, in the case of a motion to open default judgment, the basis of excusable neglect.
 
@@ -20361,7 +20363,7 @@ Supervising and senior administrative law judges. "Supervising and senior admini
 
 (e) The company is liable for any summonses issued to plates it has enrolled in the Fleet Program, including summonses issued during enrollment to leased vehicles not registered by the company.
 
-(f) Within 60 days from the Department of Finance system entry date for the summons, the company must pay the fine for each summons it does not contest. If the company wishes to contest a summons at an in-person hearing, the company must request a hearing, in accordance with § 39-08 of this chapter, and be prepared to arrange to appear at such hearing, within 60 days from the Department of Finance system entry date for the summons.
+(f) Within 60 days from the Department of Finance system entry date for the summons, the company must pay the fine for each summons it does not contest. If the company wishes to contest a summons at an in-person hearing, the company must request a hearing, in accordance with 19 RCNY § 39-08, and be prepared to arrange to appear at such hearing, within 60 days from the Department of Finance system entry date for the summons.
 
 (g) Continual and excessive adjournment requests may constitute cause for disenrollment from the PVB Fleet Program. If a hearing adjournment is granted and marked "final" by PVB, no further adjournments will be granted except for extraordinary circumstances.
 
@@ -20375,7 +20377,7 @@ Supervising and senior administrative law judges. "Supervising and senior admini
 
 (l) The company is required to file a termination form within thirty days after an enrolled plate is disenrolled from the PVB Fleet Program. The company's liability under subparagraph (e) for summonses issued after the date of disenrollment shall cease upon the date the termination form is filed at PVB, unless the company is otherwise liable for such summonses.
 
-(m) Failure to satisfy summonses that enter judgment status, where such judgment(s) total in the aggregate, including interest, more than $350, or comply with the procedural requirements of this § 39-03, will result in termination of the company's enrollment in the Fleet Program.
+(m) Failure to satisfy summonses that enter judgment status, where such judgment(s) total in the aggregate, including interest, more than $350, or comply with the procedural requirements of this 19 RCNY § 39-03, will result in termination of the company's enrollment in the Fleet Program.
 
 (n) Fee for Fleet Program Enrollment. The annual non-refundable fee for enrollment in the Fleet Program is $1.50 per plate.
 
@@ -20389,7 +20391,9 @@ Supervising and senior administrative law judges. "Supervising and senior admini
 
    (3) the continued failure to pay the summons fine amount for an additional 45 days beyond the period stated in paragraph (2) of this subdivision will result in a further penalty of $30.00 in addition to the penalties provided in paragraphs (1) and (2) of this subdivision; and
 
-   (4) the continued failure to pay the summons fine amount for an additional 7 days beyond the period stated in paragraph (3) of this subdivision will result in the entry of a judgment against the owner in the fine amount as provided in § 39-05 of these rules plus the penalties provided in paragraphs (1), (2) and (3) of this subdivision. The penalties set forth in subdivision (a) of § 39-07 of this title shall not apply to any company subject to this subdivision.
+   (4) the continued failure to pay the summons fine amount for an additional 7 days beyond the period stated in paragraph (3) of this subdivision will result in the entry of a judgment against the owner in the fine amount as provided in 19 RCNY § 39-05 plus the penalties provided in paragraphs (1), (2) and (3) of this subdivision.
+
+   The penalties set forth in subdivision (a) of 19 RCNY § 39-07 shall not apply to any company subject to this subdivision.
 
 
 
@@ -20399,11 +20403,11 @@ Supervising and senior administrative law judges. "Supervising and senior admini
 *§ 39-03.1 Program of Stipulated Fines for Vehicles Enrolled in the Fleet Program.* ::
 
 
-(a) Agreement; waiver of right to contest notices of violation. Notwithstanding any inconsistent provision of § 39-05 of these rules, the Commissioner of Finance may enter into agreements with the owners of vehicles with commercial plates enrolled in the Fleet Program for the payment of stipulated fines in accordance with a reduced fine schedule for parking violations set forth in the agreement ("stipulated fine amounts"). Such stipulated fine amounts shall not apply to enrolled vehicles unless the owner of such vehicles enters into a written agreement with the Commissioner, in advance, in which the owner agrees to waive the right to contest all notices of violation issued against such owner's enrolled vehicles during a stated period of time and to pay the stipulated fine amounts for all such violations. This waiver includes any right to challenge or otherwise contest any such summonses that have become due and payable at the unreduced full amount pursuant to the enforcement provisions set forth in the agreement and in subdivision (e) of this section.
+(a) Agreement; waiver of right to contest notices of violation. Notwithstanding any inconsistent provision of 19 RCNY § 39-05, the Commissioner of Finance may enter into agreements with the owners of vehicles with commercial plates enrolled in the Fleet Program for the payment of stipulated fines in accordance with a reduced fine schedule for parking violations set forth in the agreement ("stipulated fine amounts"). Such stipulated fine amounts shall not apply to enrolled vehicles unless the owner of such vehicles enters into a written agreement with the Commissioner, in advance, in which the owner agrees to waive the right to contest all notices of violation issued against such owner's enrolled vehicles during a stated period of time and to pay the stipulated fine amounts for all such violations. This waiver includes any right to challenge or otherwise contest any such summonses that have become due and payable at the unreduced full amount pursuant to the enforcement provisions set forth in the agreement and in subdivision (e) of this section.
 
 (b) Eligibility for Stipulated Fine Program. To be eligible for the Stipulated Fine Program, the owner must own or lease one or more commercial vehicles enrolled in the Fleet Program that make expeditious pick-ups, deliveries and/or service calls.
 
-(c) Failure to pay fines. The agreement described in subdivision (a) of this section shall further provide that if the owner fails to satisfy summonses that enter judgment status, where such judgment(s) total in the aggregate, including interest, more than $350: (1) such summonses shall be subject to enforcement action pursuant to the provisions of this title and applicable law, including but not limited to the imposition of all fines and penalties provided for in subdivision (e) of this section; (2) the owner will be removed from the Stipulated Fine Program and Fleet Program; and (3) the agreement will be null and void with respect to all future summonses, and future summonses will be subject to the penalties provided in § 39-07 of these rules to the same extent and in the same manner as if such agreement had not been in effect.
+(c) Failure to pay fines. The agreement described in subdivision (a) of this section shall further provide that if the owner fails to satisfy summonses that enter judgment status, where such judgment(s) total in the aggregate, including interest, more than $350: (1) such summonses shall be subject to enforcement action pursuant to the provisions of this title and applicable law, including but not limited to the imposition of all fines and penalties provided for in subdivision (e) of this section; (2) the owner will be removed from the Stipulated Fine Program and Fleet Program; and (3) the agreement will be null and void with respect to all future summonses, and future summonses will be subject to the penalties provided in 19 RCNY § 39-07 to the same extent and in the same manner as if such agreement had not been in effect.
 
 (d) Discretion of Commissioner. Enrollment in this program shall be voluntary and shall be subject to termination at the discretion of the Commissioner. This program shall be established and shall remain in effect at the pleasure of the Commissioner.
 
@@ -20415,7 +20419,7 @@ Supervising and senior administrative law judges. "Supervising and senior admini
 
    (3) The continued failure to pay the stipulated fine amount for an additional 45 days beyond the period stated in paragraph (2) of this subdivision will result in a further penalty of $30 in addition to the penalties provided in paragraphs (1) and (2) of this subdivision.
 
-   (4) The continued failure to pay the stipulated fine amount for an additional 7 days beyond the period stated in paragraph (3) of this subdivision will result in the entry of a judgment against the owner in the original unreduced fine amount as provided in § 39-05 of these rules, plus the penalties provided in paragraphs (1), (2) and (3) of this subdivision.
+   (4) The continued failure to pay the stipulated fine amount for an additional 7 days beyond the period stated in paragraph (3) of this subdivision will result in the entry of a judgment against the owner in the original unreduced fine amount as provided in 19 RCNY § 39-05, plus the penalties provided in paragraphs (1), (2) and (3) of this subdivision.
 
 
 
@@ -20425,9 +20429,9 @@ Supervising and senior administrative law judges. "Supervising and senior admini
 *§ 39-03.2 Program of Commercial Abatements for Vehicles Enrolled in the Fleet Program.* ::
 
 
-(a) Agreement; waiver of right to contest notices of violation. Notwithstanding any inconsistent provision of § 39-05 of these rules, the Commissioner of Finance may enter into agreements with the owners of vehicles with commercial plates enrolled in the Fleet Program that are not eligible for the Stipulated Fine Program under § 39-03.1 of these rules, for the payment of fines in accordance with a reduced fine schedule for parking violations set forth in the agreement ("commercial abatement fine amounts"). Such commercial abatement fine amounts will not apply to enrolled vehicles unless the owner of such vehicles enters into a written agreement with the Commissioner, in advance, in which the owner agrees to waive the right to contest all notices of violation issued against such owner's enrolled vehicles during a stated period of time and to pay the commercial abatement fine amounts for all such violations. This waiver includes any right to challenge or otherwise contest any such violations that have become due and payable at the unreduced full amount pursuant to the enforcement provisions set forth in the agreement and in subdivision (d) of this section.
+(a) Agreement; waiver of right to contest notices of violation. Notwithstanding any inconsistent provision of 19 RCNY § 39-05, the Commissioner of Finance may enter into agreements with the owners of vehicles with commercial plates enrolled in the Fleet Program that are not eligible for the Stipulated Fine Program under 19 RCNY § 39-03.1 of these rules, for the payment of fines in accordance with a reduced fine schedule for parking violations set forth in the agreement ("commercial abatement fine amounts"). Such commercial abatement fine amounts will not apply to enrolled vehicles unless the owner of such vehicles enters into a written agreement with the Commissioner, in advance, in which the owner agrees to waive the right to contest all notices of violation issued against such owner's enrolled vehicles during a stated period of time and to pay the commercial abatement fine amounts for all such violations. This waiver includes any right to challenge or otherwise contest any such violations that have become due and payable at the unreduced full amount pursuant to the enforcement provisions set forth in the agreement and in subdivision (d) of this section.
 
-(b) Failure to pay fines. The agreement described in subdivision (a) of this section shall further provide that if the owner fails to satisfy summonses that enter judgment status, where such judgment(s) total in the aggregate, including interest, more than $350: (1) such summonses will be subject to enforcement action pursuant to the provisions of this title and applicable law, including but not limited to the imposition of all fines and penalties provided for in subdivision (d) of this section; (2) the owner will be removed from the Commercial Abatement Program and Fleet Program; and (3) the agreement will be null and void with respect to all future summonses, and future summonses will be subject to the penalties provided in § 39-07 of these rules to the same extent and in the same manner as if such agreement had not been in effect.
+(b) Failure to pay fines. The agreement described in subdivision (a) of this section shall further provide that if the owner fails to satisfy summonses that enter judgment status, where such judgment(s) total in the aggregate, including interest, more than $350: (1) such summonses will be subject to enforcement action pursuant to the provisions of this title and applicable law, including but not limited to the imposition of all fines and penalties provided for in subdivision (d) of this section; (2) the owner will be removed from the Commercial Abatement Program and Fleet Program; and (3) the agreement will be null and void with respect to all future summonses, and future summonses will be subject to the penalties provided in 19 RCNY § 39-07 to the same extent and in the same manner as if such agreement had not been in effect.
 
 (c) Discretion of Commissioner. Enrollment in this program is voluntary and will be subject to termination at the discretion of the Commissioner. This program is established and will remain in effect at the pleasure of the Commissioner.
 
@@ -20439,7 +20443,7 @@ Supervising and senior administrative law judges. "Supervising and senior admini
 
    (3) The continued failure to pay the commercial abatement fine amount for an additional 45 days beyond the period stated in paragraph (2) of this subdivision will result in a further penalty of $30 in addition to the penalties provided in paragraphs (1) and (2) of this subdivision.
 
-   (4) The continued failure to pay the commercial abatement fine amount for an additional 7 days beyond the period stated in paragraph (3) of this subdivision will result in the entry of a judgment against the owner in the original unreduced fine amount as provided in § 39-05 of these rules plus the penalties provided in paragraphs (1), (2) and (3) of this subdivision.
+   (4) The continued failure to pay the commercial abatement fine amount for an additional 7 days beyond the period stated in paragraph (3) of this subdivision will result in the entry of a judgment against the owner in the original unreduced fine amount as provided in 19 RCNY § 39-05 plus the penalties provided in paragraphs (1), (2) and (3) of this subdivision.
 
 
 
@@ -20453,11 +20457,13 @@ Supervising and senior administrative law judges. "Supervising and senior admini
 
    (1) A plea shall be entered within thirty days after service of the notice of violation (summons).
 
-   (2) A plea may be entered in person or by representative at any borough hearing office listed in § 39-08(a) of this chapter or by ordinary mail.
+   (2) A plea may be entered in person or by representative at any borough hearing office listed in 19 RCNY § 39-08(a) or by ordinary mail.
 
    (3) The Bureau shall not reject any plea entered by mail if received by the Bureau within thirty days after service of the notice of violation (summons).
 
-(b) Mailed pleas; completion of plea form. Pleas by mail entered by the respondent shall be made by: (1) Entering the desired plea on the plea form on the back of the summons;
+(b) Mailed pleas; completion of plea form. Pleas by mail entered by the respondent shall be made by:
+
+   (1) Entering the desired plea on the plea form on the back of the summons;
 
    (2) Entering his or her name and address in the space provided on the plea form;
 
@@ -20465,7 +20471,7 @@ Supervising and senior administrative law judges. "Supervising and senior admini
 
    (4) Mailing the notice of violation (summons) with the plea form completed, by appropriate form of mail, to the mailing address stated on the notice of violation (summons).
 
-(c) Pleas of guilty; payment. Pleas of guilty shall be accompanied by a check or money order for the payment in full of the scheduled fines as listed in § 39-05 and § 39-06 and the penalties as listed in § 39-07 of these rules.
+(c) Pleas of guilty; payment. Pleas of guilty shall be accompanied by a check or money order for the payment in full of the scheduled fines as listed in 19 RCNY § 39-05 and 19 RCNY § 39-06 and the penalties as listed in 19 RCNY § 39-07.
 
 (d) Pleas requesting hearings.
 
@@ -20587,17 +20593,17 @@ When a civil emergency other than a snow emergency affecting traffic conditions 
 
    (3) Upon entry of a plea more than 75 days after date of summons or upon entry of default, final determination or judgment  .  .  .  penalties as noted in paragraphs (1) and (2) and additional penalty of $30.00.
 
-   (4) Upon failure to either pay in full within 7 days, the amount of fine and penalties fixed by an administrative law judge after a determination sustaining the charges, or otherwise comply with the provisions of § 39-12 of these rules, the scheduled fine amount shall be restored and additional penalties shall become due in accordance with the amounts set forth in paragraphs (1), (2) and (3) of this subdivision as if there had been no plea or appearance.
+   (4) Upon failure to either pay in full within 7 days, the amount of fine and penalties fixed by an administrative law judge after a determination sustaining the charges, or otherwise comply with the provisions of 19 RCNY § 39-12, the scheduled fine amount shall be restored and additional penalties shall become due in accordance with the amounts set forth in paragraphs (1), (2) and (3) of this subdivision as if there had been no plea or appearance.
 
 (b) Abatement of penalties. Upon a showing of good cause, made by the respondent under oath or on affirmation, any additional penalty assessed against such respondent may be abated in whole or in part. Procedures for such abatement may be fixed by the Director.
 
 (c) Lessors.
 
-   (1) Lessors of a vehicle registered with the Bureau under § 39-11(b) who otherwise comply with the provisions of § 39-11(b) shall not be liable for penalties imposed pursuant to this § 39-07.
+   (1) Lessors of a vehicle registered with the Bureau under 19 RCNY § 39-11(b) who otherwise comply with the provisions of 19 RCNY § 39-11(b) shall not be liable for penalties imposed pursuant to this 19 RCNY § 39-07.
 
-   (2) A lessor of a vehicle registered with the Bureau under § 39-11(b) shall be liable for penalties imposed pursuant to this section only as provided in § 39-11(b), unless such penalties shall be abated as provided in § 39-07(b).
+   (2) A lessor of a vehicle registered with the Bureau under 19 RCNY § 39-11(b) shall be liable for penalties imposed pursuant to this section only as provided in 19 RCNY § 39-11(b), unless such penalties shall be abated as provided in 19 RCNY § 39-07(b).
 
-(d) Vehicle release penalties. For non-payment of a vehicle release penalty pursuant to § 4-08(a)(9) of chapter 4 of title 34, the Parking Violations Bureau may assess additional penalties in the same manner and in the same amounts as set forth in subdivision (a) of this section.
+(d) Vehicle release penalties. For non-payment of a vehicle release penalty pursuant to 34 RCNY § 4-08(a)(9), the Parking Violations Bureau may assess additional penalties in the same manner and in the same amounts as set forth in subdivision (a) of this section.
 
 
 
@@ -20619,13 +20625,15 @@ When a civil emergency other than a snow emergency affecting traffic conditions 
 
    (2) The Director, in his or her discretion, may set additional times and days for hearings or limit, reduce or vary the time and days for hearings, to meet the needs of the Bureau, upon appropriate notice to the public.
 
+   (3) Reserved.
+
 (c) Hearing examiner to preside. Every hearing shall be held before an Administrative Law Judge, Senior Administrative Law Judge, or Supervising Administrative Law Judge. All hearings shall be public.
 
 (d) Counsel.
 
    (1) A respondent may be represented by counsel.
 
-   (2) Appearance by Counsel shall not be recognized unless such attorney shall have filed a proper notice of appearance. The notice of appearance shall contain the name, office address and telephone number of the attorney. No other attorney shall be permitted to appear for the respondent in such matter without an order in writing or made at open hearing by an administrative law judge. (See § 39-09 – Representatives at Parking Violations Bureau Hearings)
+   (2) Appearance by Counsel shall not be recognized unless such attorney shall have filed a proper notice of appearance. The notice of appearance shall contain the name, office address and telephone number of the attorney. No other attorney shall be permitted to appear for the respondent in such matter without an order in writing or made at open hearing by an administrative law judge. (See 19 RCNY § 39-09 – Representatives at Parking Violations Bureau Hearings)
 
 (e) Substantial evidence required. No charge may be established except upon proof by substantial credible evidence.
 
@@ -20657,15 +20665,25 @@ When a civil emergency other than a snow emergency affecting traffic conditions 
 
 (a) Brokers.
 
-   (1) Definitions. Broker. "Broker" means a person who:
+   (1) Definitions.
 
-      (i) is not the owner or operator of the summonsed vehicle;
+      Broker. "Broker" means a person who:
 
-      (ii) represents another person or firm;
+         (i) is not the owner or operator of the summonsed vehicle;
 
-      (iii) requests a hearing three or more times within any six month period; and
+         (ii) represents another person or firm;
 
-      (iv) is not an employee of the respondent (as defined in § 39-09(b)(1)).
+         (iii) requests a hearing three or more times within any six month period; and
+
+         (iv) is not an employee of the respondent (as defined in 19 RCNY § 39-09(b)(1)).
+
+   Brokerage Company. “Brokerage Company” means a corporation, company, partnership or entity that:
+
+         (i) is not the owner or operator of the summonsed vehicle;
+
+         (ii) engages brokers to represent another person or firm; and
+
+         (iii) requests a hearing three or more times within any six month period.
 
    (2) Rules and authorization. The rules set forth in paragraph (8) of subdivision (a) of this section apply to brokers appearing before the Department in any capacity, which include but are not limited to: the fleet program, stipulated fine program, commercial abatement program, car rental program, hearings by mail, CAU hearings, and scheduling and billing.
 
@@ -20729,17 +20747,17 @@ When a civil emergency other than a snow emergency affecting traffic conditions 
 
       (xii) Brokers must not request any Department clerical staff to perform non-routine tasks. All such requests must be addressed directly to and approved by the CAU Manager. "Nonroutine" means anything out of the regular processing stream.
 
-   (9) Penalty for violation of these rules. Any broker who willfully or repeatedly violates these rules may be barred from representing clients at PVB in any capacity. The Commissioner may, after providing notice to the broker and an opportunity to be heard, suspend the broker for up to five years from appearing before the Department in any capacity, except that the broker may appear on parking violations issued in the broker's name. Such notice will inform the broker of the reasons for the proposed suspension and that the broker has the right to present information as to why the broker should not be suspended to the Commissioner, or his or her designee, within 10 business days of delivery of the notice by hand or 15 business days of the posting of notice by mail. Any suspension will apply solely to the broker unless the Department has evidence that the standard practice of the broker's company was to commit infractions in its interactions with the Department regardless of the broker involved.
+   (9) Penalty for violation of these rules. Any broker or brokerage company who willfully or repeatedly violates these rules may be barred from representing clients at PVB in any capacity. The Commissioner may, after providing notice to the broker and, if the brokerage company is also subject to suspension, the brokerage company, and an opportunity to be heard, suspend the broker for any period up to life from appearing before the Department in any capacity, except that the broker may appear on parking violations issued in the broker's name, and/or suspend a brokerage company for any period up to and until the dissolution of the brokerage company from appearing before the Department in any capacity, except that the brokerage company may appear on parking violations issued in the brokerage company's name. Such notice(s) will inform the broker and, if the brokerage company is subject to suspension, the brokerage company, of the reasons for the proposed suspension and that the broker and the brokerage company, if the brokerage company is subject to suspension, has the right to present information as to why the broker and/or brokerage company should not be suspended to the Commissioner, or his or her designee, within 10 business days of delivery of the notice by hand or 15 business days of the posting of notice by mail. Any suspension of a broker will apply solely to the broker unless the Department has evidence either that the brokerage company which employed the broker had knowledge of the broker's infractions and did not inform the Department or that the standard practice of such brokerage company was to commit infractions in its interactions with the Department regardless of the broker involved. Any suspension of a brokerage company will apply to all brokers employed by the brokerage company for the period during which those brokers remain employed by the brokerage company. Any brokerage company shall be barred from representing clients at PVB in any capacity when a broker subject to a life suspension is employed by, engaged by, is subcontracted to, consults with or has any ownership interest in, such brokerage company.
 
 (b) Employees.
 
    (1) Definitions.
 
-Employee. As used in these regulations, the term "employee" refers to a person who:
+      Employee. As used in these regulations, the term "employee" refers to a person who:
 
-      (i) is a principal, partner, officer or salaried employee of the respondent; (ii) was not the operator of vehicle at the time it was summonsed; and
+         (i) is a principal, partner, officer or salaried employee of the respondent; (ii) was not the operator of vehicle at the time it was summonsed; and
 
-      (iii) is not a broker (as defined in § 39-09(a)(1)).
+         (iii) is not a broker (as defined in 19 RCNY § 39-09(a)(1)).
 
    (2) Rules and authorization. The rules set forth in paragraph (8) of subdivision (b) of this section apply to employees appearing before the Department in any capacity, which include but are not limited to: the fleet program, stipulated fine program, commercial abatement program, car rental program, hearings by mail, CAU hearings, and scheduling and billing.
 
@@ -20757,7 +20775,7 @@ Employee. As used in these regulations, the term "employee" refers to a person w
 
    (5) Hearing logs. For vehicles not in the Fleet Program or Car Rental Program, employees shall be responsible for the proper preparation of the hearing log as per instruction of the CAU manager.
 
-   (6) Summons copy fees. Companies represented by employees are subject to the same summons copy fees as the general public (§ 39-02(e)).
+   (6) Summons copy fees. Companies represented by employees are subject to the same summons copy fees as the general public (19 RCNY § 39-02(e)).
 
    (7) Hearing procedures.
 
@@ -20803,21 +20821,21 @@ Employee. As used in these regulations, the term "employee" refers to a person w
 
       (xii) Employees must not request any Department clerical staff to perform non-routine tasks. All such requests must be addressed directly to and approved by the CAU Manager. "Non-routine" means anything out of the regular processing stream.
 
-   (9) Penalty for violation of these rules. Any employee who willfully or repeatedly violates these rules may be barred from representing his or her employer at PVB in any capacity. The Commissioner may, after providing notice to the employee and an opportunity to be heard, suspend the employee for up to five years from appearing before the Department in any capacity, except that the employee may appear on parking violations issued in the employee's name. Such notice will inform the employee of the reasons for the proposed suspension and that the employee has the right to present information as to why the employee should not be suspended to the Commissioner, or his or her designee, within 10 business days of delivery notice by hand or 15 business days of the posting of notice by mail. Any suspension will apply solely to the employee unless the Department has evidence that the standard practice of the employee's company was to commit infractions in its interactions with the Department regardless of the employee involved.
+   (9) Penalty for violation of these rules. Any employee who willfully or repeatedly violates these rules may be barred from representing his or her employer at PVB in any capacity. The Commissioner may, after providing notice to the employee and an opportunity to be heard, suspend the employee for any period up to life from appearing before the Department in any capacity, except that the employee may appear on parking violations issued in the employee's name. Such notice will inform the employee of the reasons for the proposed suspension and that the employee has the right to present information as to why the employee should not be suspended to the Commissioner, or his or her designee, within 10 business days of delivery of notice by hand or 15 business days of the posting of notice by mail. Any suspension will apply solely to the employee unless the Department has evidence either that the standard practice of the employer was to commit infractions in its interactions with the Department regardless of the employee involved or that the employer had knowledge of the employee's infractions and did not inform the Department.
 
-(c) Unpaid representatives.
+(c) Unpaid representatives. 
 
    (1) Definitions.
 
-Unpaid representative. An "unpaid representative" is a person who:
+      Unpaid representative. An "unpaid representative" is a person who:
 
-      (i) is not the owner or operator of the summonsed vehicle;
+         (i) is not the owner or operator of the summonsed vehicle;
 
-      (ii) represents another person or firm;
+         (ii) represents another person or firm;
 
-      (iii) is not a broker (as defined in § 39-09(a)(1)) or employee (as defined in § 39-09(b)(1)); (iv) is not representing the respondent as an attorney; and
+         (iii) is not a broker (as defined in 19 RCNY § 39-09(a)(1)) or employee (as defined in 19 RCNY § 39-09(b)(1)); (iv) is not representing the respondent as an attorney; and
 
-      (v) receives no fee or other payment for representing respondents at PVB.
+         (v) receives no fee or other payment for representing respondents at PVB.
 
    (2) Authorization for summonses not in judgment. Prior to any hearing involving summonses not in judgment, an unpaid representative must file with the Department of Finance a signed and notarized designation from the respondent that the representative is authorized to represent the respondent.
 
@@ -20875,7 +20893,7 @@ Unpaid representative. An "unpaid representative" is a person who:
 
    (2) Notice shall be served on the owner by mail to the last known registered address within two years of the time that the enforcing authority discovers, or could with reasonable diligence have discovered, that the dismissal was procured due to the knowing fraud, false testimony, misrepresentation, or other misconduct, or the knowing alteration of a notice of parking violation, by the person so charged or his or her agent, employee or representative. Such notice shall fix a time when and place where a hearing shall be held before an administrative law judge to determine whether or not dismissal of a charged parking violation shall be set aside. Such notice shall set forth the basis for setting aside the dismissal and advise the owner that failure to appear at the date and time indicated in such notice shall be deemed an admission of liability and shall result in the setting aside of the dismissal and entry of a determination on the charged parking violation. Such notice shall also contain a warning that civil penalties may be imposed for the violation pursuant to this subdivision and that a default judgment may be entered thereon.
 
-   (3) Upon a finding by an administrative law judge that the dismissal of a charged parking violation has been procured due to the knowing fraud, false testimony, misrepresentation, or other misconduct, or the knowing alteration of a notice of parking violation, by the person so charged or his or her agent, employee or representative, the dismissal shall be set aside and a determination may be rendered against the owner on the charged parking violation. The administrative law judge may impose monetary penalties for the charged parking violation of up to three times the scheduled fine for the violation pursuant to section 39-05 and three times the additional penalties that may be imposed for failure to respond to a notice of violation pursuant to section 39-07. The administrative law judge shall also impose, without multiplying, the surcharge authorized by section 1809-a of the Vehicle and Traffic Law. For purposes of determining the amount of such additional penalties, the administrative law judge shall disregard the plea that procured the dismissal that has been set aside and shall calculate such penalties as if there had been no plea or appearance in the proceeding. In any proceeding under this subdivision to set aside a determination and to impose penalties for the violation, it shall not be necessary for the administrative law judge to find that the owner personally committed the unlawful acts that procured the dismissal of the violation.
+   (3) Upon a finding by an administrative law judge that the dismissal of a charged parking violation has been procured due to the knowing fraud, false testimony, misrepresentation, or other misconduct, or the knowing alteration of a notice of parking violation, by the person so charged or his or her agent, employee or representative, the dismissal shall be set aside and a determination may be rendered against the owner on the charged parking violation. The administrative law judge may impose monetary penalties for the charged parking violation of up to three times the scheduled fine for the violation pursuant to 19 RCNY § 39-05 and three times the additional penalties that may be imposed for failure to respond to a notice of violation pursuant to 19 RCNY § 39-07. The administrative law judge shall also impose, without multiplying, the surcharge authorized by section 1809-a of the Vehicle and Traffic Law. For purposes of determining the amount of such additional penalties, the administrative law judge shall disregard the plea that procured the dismissal that has been set aside and shall calculate such penalties as if there had been no plea or appearance in the proceeding. In any proceeding under this subdivision to set aside a determination and to impose penalties for the violation, it shall not be necessary for the administrative law judge to find that the owner personally committed the unlawful acts that procured the dismissal of the violation.
 
    (4) Failure to appear at the hearing in response to a notice issued pursuant to this subdivision, or to pay, within 7 days, the amount assessed by an administrative law judge pursuant to paragraph 3, shall be deemed to be an admission of liability for the charged parking violation as set forth in the original notice of violation, and a default judgment may be entered against the owner in the maximum amount set forth in paragraph 3 of this subdivision.
 
@@ -21021,9 +21039,9 @@ Unpaid representative. An "unpaid representative" is a person who:
 *§ 39-13 Certification to Motor Vehicle Commissioner.* ::
 
 
-(a) Certification of final determinations. In the event a respondent shall have failed to comply with the provisions of § 39-10(h) of this chapter in connection with final determinations or judgments entered on three or more summonses served within a period of eighteen months, the Bureau shall certify such fact to the Commissioner of Motor Vehicles of the State of New York.
+(a) Certification of final determinations. In the event a respondent shall have failed to comply with the provisions of 19 RCNY § 39-10(h) in connection with final determinations or judgments entered on three or more summonses served within a period of eighteen months, the Bureau shall certify such fact to the Commissioner of Motor Vehicles of the State of New York.
 
-(b) Notification to respondent. Upon such certification, the Bureau shall notify the respondent by registered or certified mail, return receipt requested, that such certification has been made and identifying the judgments or final determinations covered. The notification shall further inform the respondent that the Commissioner of Motor Vehicles will deny any registration or renewal of registration of respondent's vehicle until proof is provided that the respondent has complied with the provisions of § 39-10(h) of these rules in connection with all judgments or Final Determinations for which the respondent is liable.
+(b) Notification to respondent. Upon such certification, the Bureau shall notify the respondent by registered or certified mail, return receipt requested, that such certification has been made and identifying the judgments or final determinations covered. The notification shall further inform the respondent that the Commissioner of Motor Vehicles will deny any registration or renewal of registration of respondent's vehicle until proof is provided that the respondent has complied with the provisions of 19 RCNY § 39-10(h) in connection with all judgments or Final Determinations for which the respondent is liable.
 
 
 
@@ -21041,7 +21059,7 @@ Unpaid representative. An "unpaid representative" is a person who:
 
 (b) Additional period for mailing. In computing any times under this chapter, an additional three days shall be added if mail is used.
 
-(c) Notwithstanding subdivisions (a) and (b) of this § 39-14, the payment or response required by § 39-04(a) of this chapter must be received by the due date.
+(c) Notwithstanding subdivisions (a) and (b) of this 19 RCNY § 39-14, the payment or response required by 19 RCNY § 39-04(a) must be received by the due date.
 
 (d) Extensions. The period of time in which any act required by this chapter is to be performed, may be extended by the Director or his or her designees for good cause, prior to the expiration of the original time period.
 
@@ -21165,7 +21183,7 @@ The Director may determine certain classes of alleged violations as appropriate 
 
       (ix) pedestrian ramp violation.
 
-(d) The provisions of this section will not affect the Program of Stipulated Fines for Vehicles Enrolled in the Fleet Program pursuant to § 39-03.1 of these rules.
+(d) The provisions of this section will not affect the Program of Stipulated Fines for Vehicles Enrolled in the Fleet Program pursuant to 19 RCNY § 39-03.1.
 
 
 
@@ -21240,7 +21258,9 @@ The Commissioner, on behalf of the City of New York, may sell tax liens, either 
 
    (1) Definition of default: The property owner or other eligible person will be in default of such agreement, if any installment required under an installment agreement remains unpaid for a period of six months from the date payment is required to be made under subdivision (c) of this section, or if any other tax or charge that becomes due on the property during the term of such agreement remains unpaid in whole or in part for a period of six months.
 
-   (2) Consequences of default; cure of default: In the event of default of an installment agreement pursuant to paragraph (1) of this subdivision, the agreement may be cancelled and the tax lien(s) on the property that were required to be paid under the agreement, including any tax liens that became due during the term of the agreement, may be sold. However, such default may be cured upon payment, prior to the date of the first tax lien sale that occurs following a default, of all past due installments required by the agreement, and all other charges that became due during the term of the agreement that are past due and unpaid at the time of the default, including interest and fees.
+   (2) Consequences of default; cure of default: In the event of default of an installment agreement pursuant to paragraph (1) of this subdivision, the agreement may be cancelled and the tax lien(s) on the property that were required to be paid under the agreement, including any tax liens that became due during the term of the agreement, may be sold.
+
+   However, such default may be cured upon payment, prior to the date of the first tax lien sale that occurs following a default, of all past due installments required by the agreement, and all other charges that became due during the term of the agreement that are past due and unpaid at the time of the default, including interest and fees.
 
    (3) Bar from executing future installment agreements: If a default is not cured as described in paragraph (2) of this subdivision prior to the date of the first tax lien sale that occurs following such default, the owner of the affected property and any other eligible person acting on behalf of the owner will not be eligible to enter into an installment agreement with the Department of Finance for the affected property for five years from the date of such sale, unless there is a finding of extenuating circumstances by the Department of Finance as described in paragraph (4) of this subdivision.
 
@@ -21258,7 +21278,9 @@ The Commissioner, on behalf of the City of New York, may sell tax liens, either 
 
 (g) Property with multiple qualifying tax liens; installment agreements with the Department of Environmental Protection. Notwithstanding the execution of an installment agreement with the Department of Finance, any tax liens that are not made subject to the installment agreement with the Department of Finance will remain subject to the laws regarding eligibility for the sale of tax liens.
 
-Example: Under the Administrative Code, real property tax liens that are on property classified as class two, that is not a condominium or cooperative, may be sold if the real property tax liens are at least one year past due. Also under the Administrative Code, for the same type of class two property, tax liens for water and sewer charges may be sold if the liens have been unpaid for at least one year and total at least $1,000. If such a class two property has real property tax liens that have been unpaid for at least one year, and also has water and sewer liens that have been unpaid for at least one year and total at least $1,000, the Department of Finance will cancel the tax lien sale of those real property tax liens when the owner of the property or other eligible person enters into an installment agreement with the Department of Finance to pay the unpaid real property tax liens that are subject to the proposed tax lien sale. However, the water and sewer liens may still be sold in a tax lien sale unless they are paid or the owner or other eligible person enters into an installment agreement with the Department of Environmental Protection to pay those water and sewer liens pursuant to that agency's rules for installment agreements.
+Example: Under the Administrative Code, real property tax liens that are on property classified as class two, that is not a condominium or cooperative, may be sold if the real property tax liens are at least one year past due. Also under the Administrative Code, for the same type of class two property, tax liens for water and sewer charges may be sold if the liens have been unpaid for at least one year and total at least $1,000.
+
+If such a class two property has real property tax liens that have been unpaid for at least one year, and also has water and sewer liens that have been unpaid for at least one year and total at least $1,000, the Department of Finance will cancel the tax lien sale of those real property tax liens when the owner of the property or other eligible person enters into an installment agreement with the Department of Finance to pay the unpaid real property tax liens that are subject to the proposed tax lien sale. However, the water and sewer liens may still be sold in a tax lien sale unless they are paid or the owner or other eligible person enters into an installment agreement with the Department of Environmental Protection to pay those water and sewer liens pursuant to that agency's rules for installment agreements.
 
 (h) Effect on in rem foreclosure. Entering into an installment agreement pursuant to section 11-322(b) of the Administrative Code and this section will have no effect on whether a property will be excluded or severed from an in rem foreclosure action brought under Chapter 4 of Title 11 of the Administrative Code. Notwithstanding any other provision of these rules, the terms of installment agreements entered into with the Department of Finance that affect whether a property will be included in an in rem foreclosure action will continue to be governed by the provisions of Chapter 4 of Title 11 of the Administrative Code.
 
@@ -21977,7 +21999,7 @@ Unless the context requires otherwise, as used in this chapter:
 *§ 50-04 Abatement percentage.* ::
 
 
-(a) Primary residence abatement. The amount of the abatement for dwelling units eligible for the primary residence abatement as set forth in subdivision (a) of § 50-03 of this title will be the following percentage of the real property taxes attributable to or due on such dwelling units:
+(a) Primary residence abatement. The amount of the abatement for dwelling units eligible for the primary residence abatement as set forth in subdivision (a) of 19 RCNY § 50-03 will be the following percentage of the real property taxes attributable to or due on such dwelling units:
 
    (1) Dwelling units in property whose average unit assessed value is less than or equal to $50,000:
 
@@ -22005,7 +22027,7 @@ Unless the context requires otherwise, as used in this chapter:
 
    (4) Dwelling units in property whose average unit assessed value is more than $60,000: for fiscal years 2012/13, 2013/14 and 2014/15, 17.5%.
 
-(b) Non-primary residence abatement. The amount of the abatement for any dwelling units eligible for the non-primary residence abatement as provided in subdivision (b) of § 50-03 of this title will be the following percentage of the real property taxes attributable to or due on such dwelling units:
+(b) Non-primary residence abatement. The amount of the abatement for any dwelling units eligible for the non-primary residence abatement as provided in subdivision (b) of 19 RCNY § 50-03 will be the following percentage of the real property taxes attributable to or due on such dwelling units:
 
    (1) Dwelling units in property whose average unit assessed value is less than or equal to $15,000:
 
@@ -22077,7 +22099,7 @@ Example 2: To determine the abatement for B's dwelling unit for fiscal year 2013
 *§ 50-06 Primary residence.* ::
 
 
-(a) Primary residence of owner. For purposes of determining eligibility for the primary residence abatement as described in subdivision (a) of § 50-03 of this title, a dwelling unit must serve as the primary residence of one or more of the owners of the dwelling unit as of the taxable status date for the fiscal year to which the abatement applies, and the conveyance of a dwelling unit subsequent to such taxable status date will not affect eligibility of the dwelling unit for the abatement for the fiscal year to which the taxable status date applies.
+(a) Primary residence of owner. For purposes of determining eligibility for the primary residence abatement as described in subdivision (a) of 19 RCNY § 50-03, a dwelling unit must serve as the primary residence of one or more of the owners of the dwelling unit as of the taxable status date for the fiscal year to which the abatement applies, and the conveyance of a dwelling unit subsequent to such taxable status date will not affect eligibility of the dwelling unit for the abatement for the fiscal year to which the taxable status date applies.
 
 (b) Presumption of primary residence.
 
@@ -22089,7 +22111,7 @@ Example 2: To determine the abatement for B's dwelling unit for fiscal year 2013
 
    (2) Notwithstanding the presumption provided in this subdivision, the Commissioner may determine based on additional facts that a dwelling unit is not the primary residence of one or more of the owners of the dwelling unit.
 
-   (3) If the Commissioner determines that a dwelling unit will not be presumed to serve as the primary residence of one or more of the owners of the dwelling unit because the dwelling unit does not meet either of the criteria contained in paragraph (1) of this subdivision, the owner may file a supplemental application as described in subdivision (c) of § 50-05 of this title to prove eligibility for the primary residence abatement.
+   (3) If the Commissioner determines that a dwelling unit will not be presumed to serve as the primary residence of one or more of the owners of the dwelling unit because the dwelling unit does not meet either of the criteria contained in paragraph (1) of this subdivision, the owner may file a supplemental application as described in subdivision (c) of 19 RCNY § 50-05 to prove eligibility for the primary residence abatement.
 
 (c) Ownership of dwelling unit by entity other than an individual. Notwithstanding any other provision of these rules, for purposes of this chapter and § 467-a of the Real Property Tax Law, a dwelling unit can be the primary residence only of individuals, and cannot be the primary residence of a corporation, partnership or any other entity.
 
@@ -22125,7 +22147,7 @@ Example 2: To determine the abatement for B's dwelling unit for fiscal year 2013
 
    (1) Erroneous abatement. If the Commissioner determines that a unit that received the abatement was not entitled to receive such abatement (an "erroneous abatement"), then the Commissioner will restore the real property taxes abated by the erroneous abatement.
 
-   (2) Erroneous denial of abatement. If the Commissioner determines that a dwelling unit was incorrectly denied an abatement to which the unit was entitled, then the Commissioner will apply the abatement in accordance with the procedures set forth in § 24-04 of this title to an installment or installments of real property taxes of the condominium dwelling unit or the cooperative apartment corporation property in which the affected cooperative apartment corporation dwelling unit is located in the amount of the abatement to which the dwelling unit was entitled. The Commissioner will mail a notice of the application of the abatement, which may be in the form of a statement of account or an amended bill for real property taxes, to the address for the affected condominium dwelling unit or cooperative apartment corporation property on record with the Department for mailing statements of account or real property tax bills.
+   (2) Erroneous denial of abatement. If the Commissioner determines that a dwelling unit was incorrectly denied an abatement to which the unit was entitled, then the Commissioner will apply the abatement in accordance with the procedures set forth in 19 RCNY § 24-04 to an installment or installments of real property taxes of the condominium dwelling unit or the cooperative apartment corporation property in which the affected cooperative apartment corporation dwelling unit is located in the amount of the abatement to which the dwelling unit was entitled. The Commissioner will mail a notice of the application of the abatement, which may be in the form of a statement of account or an amended bill for real property taxes, to the address for the affected condominium dwelling unit or cooperative apartment corporation property on record with the Department for mailing statements of account or real property tax bills.
 
 (b) Erroneously calculated abatement.
 
@@ -22133,7 +22155,7 @@ Example 2: To determine the abatement for B's dwelling unit for fiscal year 2013
 
    (2) Insufficient abatement.
 
-      (A) Abatement credit. If the Commissioner determines that a dwelling unit received an abatement in an amount less than the amount to which the dwelling unit was actually entitled, then the Commissioner will apply an abatement credit in accordance with the procedures set forth in § 24-04 of this title to the real property taxes of the condominium dwelling unit or the cooperative apartment corporation property in which the affected cooperative apartment corporation dwelling unit is located, in an amount equal to the difference between the abatement originally granted and the amount to which the dwelling unit was actually entitled. The Commissioner will mail a notice of the application of the abatement credit, which may be in the form of a statement of account or an amended bill for real property taxes, to the address for the affected condominium dwelling unit or cooperative apartment corporation property on record with the Department for mailing statements of account or real property tax bills.
+      (A) Abatement credit. If the Commissioner determines that a dwelling unit received an abatement in an amount less than the amount to which the dwelling unit was actually entitled, then the Commissioner will apply an abatement credit in accordance with the procedures set forth in 19 RCNY § 24-04 to the real property taxes of the condominium dwelling unit or the cooperative apartment corporation property in which the affected cooperative apartment corporation dwelling unit is located, in an amount equal to the difference between the abatement originally granted and the amount to which the dwelling unit was actually entitled. The Commissioner will mail a notice of the application of the abatement credit, which may be in the form of a statement of account or an amended bill for real property taxes, to the address for the affected condominium dwelling unit or cooperative apartment corporation property on record with the Department for mailing statements of account or real property tax bills.
 
       (B) Application of abatement credit as timely payment of installment. If the installment of real property taxes to which the Commissioner applies the abatement credit became due and payable during the fiscal year as to which the Commissioner determines that there is an abatement credit, or during any fiscal year thereafter, the Commissioner may apply the abatement credit as if the credit were a timely payment of the tax installment to which the credit is applied, such that no interest will accrue on the amount of the tax installment satisfied by the abatement credit.
 

@@ -2687,23 +2687,27 @@ LPC. "LPC" shall mean the Landmarks Preservation Commission acting in its agency
 *§ 12-07 Implementation Rules for the District Master Plan for the Fieldston Historic District.* ::
 
 
-(a) Introduction. The implementation rules ("Rules") for The District Master Plan for the Fieldston Historic District ("District Master Plan") are promulgated to assist building owners in applying to the Landmarks Preservation Commission ("LPC") for approval of applications to undertake various types of work on properties located within the Fieldston Historic District, including additions, outbuildings, window replacement, heating, venting and air conditioning, and work on or affecting significant landscape improvements. The Rules set forth herein permit the LPC staff to issue Authorizations to Proceed ("ATP") for work that complies with the approved District Master Plan. Work that is not in accordance with the requirements of the District Master Plan will be reviewed by the Commission in accordance with its usual review procedures under the Landmarks Law. The provisions of the District Master Plan will take precedence over other rules that are not specifically tailored to the Fieldston Historic District. The objective of the District Master Plan is to provide owners and architects with design criteria which will allow timely review of proposed alterations while protecting the architecturally and historically significant features of the buildings, significant landscape improvements and the historic district's sense of place. The District Master Plan will cover all buildings in the Fieldston Historic District.
+(a) Introduction. The implementation rules ("Rules") for The District Master Plan for the Fieldston Historic District ("District Master Plan") are promulgated to assist building owners in applying to the Landmarks Preservation Commission ("LPC") for approval of applications to undertake various types of work on properties located within the Fieldston Historic District, including additions, outbuildings, window replacement, heating, venting and air conditioning, and work on or affecting significant landscape improvements. The Rules set forth herein permit the LPC staff to issue Authorizations to Proceed ("ATP") for work that complies with the approved District Master Plan. Work that is not in accordance with the requirements of the District Master Plan will be reviewed by the Commission in accordance with its usual review procedures under the Landmarks Law. The provisions of the District Master Plan will take precedence over other rules that are not specifically tailored to the Fieldston Historic District.
+
+The objective of the District Master Plan is to provide owners and architects with design criteria which will allow timely review of proposed alterations while protecting the architecturally and historically significant features of the buildings, significant landscape improvements and the historic district's sense of place. The District Master Plan will cover all buildings in the Fieldston Historic District.
 
 (b) Definitions. As used in these Rules, the following terms shall have the following meanings:
 
-Authorization to Proceed and ATP. "Authorization to Proceed" and "ATP" shall mean an authorization to proceed as described in section 12-01(f) of these Rules.
+   Authorization to Proceed and ATP. "Authorization to Proceed" and "ATP" shall mean an authorization to proceed as described in section 12-01(f) of these Rules.
 
-Commission. "Commission" shall mean the appointed Commissioners, established by section 3020 of the New York City Charter.
+   Commission. "Commission" shall mean the appointed Commissioners, established by section 3020 of the New York City Charter.
 
-District Master Plan. "District Master Plan" shall mean the District Master Plan for the Fieldston Historic District approved by the Commission as a Certificate of Appropriateness. A copy of the District Master Plan may be reviewed at the Commission's offices by appointment or downloaded from the Commission's website: www.nyc.gov/landmarks
+   District Master Plan. "District Master Plan" shall mean the District Master Plan for the Fieldston Historic District approved by the Commission as a Certificate of Appropriateness. A copy of the District Master Plan may be reviewed at the Commission's offices by appointment or downloaded from the Commission's website: www.nyc.gov/landmarks
 
-Landmarks Law. "Landmarks Law" shall refer to section 3020 of the New York City Charter and Chapter 3 of Title 25 of the Administrative Code of the City of New York.
+   Landmarks Law. "Landmarks Law" shall refer to section 3020 of the New York City Charter and Chapter 3 of Title 25 of the Administrative Code of the City of New York.
 
-Landscape Improvement. "Landscape Improvement" shall mean a physical betterment of real property or any part thereof, consisting of natural or artificial landscape, including but not limited to grade, body of water, mature tree, walkway, road, plaza, wall, fence, step, fountain or sculpture.
+   Landscape Improvement. "Landscape Improvement" shall mean a physical betterment of real property or any part thereof, consisting of natural or artificial landscape, including but not limited to grade, body of water, mature tree, walkway, road, plaza, wall, fence, step, fountain or sculpture.
 
-LPC. "LPC" shall mean the Landmarks Preservation Commission acting in its agency capacity to implement the Landmarks Law.
+   LPC. "LPC" shall mean the Landmarks Preservation Commission acting in its agency capacity to implement the Landmarks Law.
 
-Rules. "Rules" shall mean these implementation rules for the Fieldston Historic District. Terms not otherwise defined in these rules or the District Master Plan shall have the meanings given them in the Landmarks Law.
+   Rules. "Rules" shall mean these implementation rules for the Fieldston Historic District.
+
+Terms not otherwise defined in these rules or the District Master Plan shall have the meanings given them in the Landmarks Law.
 
 (c) Eligible Buildings. All buildings in the Fieldston Historic District are subject to the District Master Plan.
 

@@ -1084,7 +1084,7 @@ Pursuant to Administrative Code § 19-506.1, a Respondent may move to vacate a d
 
 
 
-Chapter 6: OATH Hearings Division--Rules of Practice
+Chapter 6: OATH Hearings Division - Rules of Practice
 --------------------------------------------------
 
 

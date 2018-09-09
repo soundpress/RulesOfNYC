@@ -33,7 +33,7 @@ This Chapter is informational in nature and does not contain penalties.
 *§ 51-03 Definitions.* ::
 
 
-Accessible Conversion Start Date is the date which is the earlier of (1) the date on which there is available an Accessible Taxicab Model that meets the specifications of  35 RCNY § 67-05.2 and the requirements of § 19-533 of the Administrative Code, as certified by the Chairperson, or (2) January 1, 2016. To the extent possible, the Chairperson will place a notice of the Accessible Conversion Start Date on the Commission's Web site at least 60 days prior to the Accessible Conversion Start Date.
+Accessible Conversion Start Date is the date which is the earlier of (1) the date on which there is available an Accessible Taxicab Model that meets the specifications of 35 RCNY § 67-05.2 and the requirements of § 19-533 of the Administrative Code, as certified by the Chairperson, or (2) January 1, 2016. To the extent possible, the Chairperson will place a notice of the Accessible Conversion Start Date on the Commission's Web site at least 60 days prior to the Accessible Conversion Start Date.
 
 Accessible Medallion is a Restricted Medallion valid for use only with an Accessible Taxicab.
 
@@ -19116,6 +19116,21 @@ Requirements (a) through (e) apply to an individual Applicant and to all of a Bu
 
    (1) A Vehicle Owner must promptly and truthfully answer all questions and comply with all communications, directives, and summonses issued by the Commission or its representatives.
 
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 60A-12(j)(1)
+      - Fine: $300 and suspension until compliance
+      - Appearance Required
+~
+
+
+
+ 
+
    (2) A Vehicle Owner must respond to any contact from the Commission within forty-eight hours, seven days a week. 
 
  
@@ -19124,7 +19139,7 @@ Requirements (a) through (e) apply to an individual Applicant and to all of a Bu
 .. list-table::
     :header-rows: 1
 
-    * - 35 RCNY § 60A-12 (j)(2)
+    * - 35 RCNY § 60A-12(j)(2)
       - Fine: $500
       - Appearance NOT required
 ~
@@ -34448,7 +34463,9 @@ NOTE: If an E-Hail App Provider charges a per-trip fee for use of the E-Hail App
 
 All of the following conditions apply with regard to an E-Hail Application Provider's making an E-Hail Application available for use:
 
-(a) The E-Hail Application Provider must not make an E-Hail Application available for use unless the E-Hail Application has been approved by the Commission pursuant to this Chapter and the E-Hail Application to be used is identical to the E-Hail Application that was approved; (b) No modification will be made to any Vehicle to install or mount a device on which the E-Hail Application is to be used without the permission of the Chairperson and the approval of the device and its installation and/or mounting in the Vehicle. 
+(a) The E-Hail Application Provider must not make an E-Hail Application available for use unless the E-Hail Application has been approved by the Commission pursuant to this Chapter and the E-Hail Application to be used is identical to the E-Hail Application that was approved;
+
+(b) No modification will be made to any Vehicle to install or mount a device on which the E-Hail Application is to be used without the permission of the Chairperson and the approval of the device and its installation and/or mounting in the Vehicle. 
 
  
 
