@@ -55,7 +55,7 @@ Chapter 1: Administration
 
    (3) Any amendments to the provisions of law consolidated in each such section are indicated by underlining, and, if terms defined in the Fire Code or rules are used, by italics.
 
-(f) Other Provisions of Law Applicable to Pre-Existing Facilities and Conditions. Pre-existing facilities and conditions shall comply with all applicable laws, rules and regulations, including provisions of law not consolidated in Chapter 48 of the rules.
+(f) Other Provisions of Law Applicable to Pre-Existing Facilities and Conditions. Pre-existing facilities and conditions shall comply with all applicable laws, rules and regulations, including provisions of law not consolidated in 3 RCNY Chapter 48.
 
 (g) Projects In Progress.
 

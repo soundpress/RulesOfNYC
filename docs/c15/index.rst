@@ -3449,7 +3449,7 @@ Zoning Resolution. "Zoning Resolution" means the Zoning Resolution of the City, 
 
    (2) Maximum annual and aggregate abatement.
 
-      (i) In all cases not qualifying for the enriched abatement described in § 5-06(c)(1), the maximum annual and aggregate abatement for each of the eligible projects listed in § 5-03(a) is as follows:
+      (i) In all cases not qualifying for the enriched abatement described in § 5-06(c)(1), the maximum annual and aggregate abatement for each of the eligible projects listed in § 5-03(a) is as follows: 
 
  
 
@@ -3561,7 +3561,7 @@ Zoning Resolution. "Zoning Resolution" means the Zoning Resolution of the City, 
 
 (d) Tax abatement limitations. 
 
-   (1) Dollar limit. For conversions, alterations or improvements commenced on or after September 15, 1983, except in special circumstances enumerated in paragraphs (2) and (3) of this subdivision (d), the certified reasonable cost of a conversion, alteration or improvement eligible for abatement shall not exceed the amounts specified in the following table:
+   (1) Dollar limit. For conversions, alterations or improvements commenced on or after September 15, 1983, except in special circumstances enumerated in paragraphs (2) and (3) of this subdivision (d), the certified reasonable cost of a conversion, alteration or improvement eligible for abatement shall not exceed the amounts specified in the following table: 
 
  
 
@@ -3729,7 +3729,7 @@ Zoning Resolution. "Zoning Resolution" means the Zoning Resolution of the City, 
 
 The following allowances apply to Conversions, Alterations or Improvements for which the Commencement of Construction occurred after June 1, 1997 and which were completed prior to December 31, 2011. For Conversions, Alterations or Improvements for which Commencement of Construction occurred on or before June 1, 1997, the Itemized Cost Breakdown Schedule in effect as of the date of such Commencement of Construction shall apply, except in the case of asbestos abatement, for which the allowance set forth below shall apply to all applications pending on or submitted after November 1, 1997.
 
-Maximum Allowance for All Buildings 
+Maximum Allowance for All Buildings
 
  
 
@@ -4433,7 +4433,7 @@ Maximum Allowance for All Buildings
 
 (g) Landmarks Projects Only
 
-   Items of work listed on this schedule only   per § 5-03(a)(5)
+   Items of work listed on this schedule only per 28 RCNY § 5-03(a)(5)
 
  
 
@@ -4541,8 +4541,8 @@ Maximum Allowance for All Buildings
       - 
       - 
       - 
-    * - 
-      - 
+    * -  
+      -  
       - Item
       - Units
       - Allowance for Non-targeted Areas
@@ -4753,9 +4753,7 @@ Maximum Allowance for All Buildings
 
 The following allowances apply to Conversions, Alterations or Improvements that are completed on or after December 31, 2011.
 
-Maximum Allowance for All Buildings 
-
-(a) General Construction.
+Maximum Allowance for All Buildings
 
  
 
@@ -4763,68 +4761,74 @@ Maximum Allowance for All Buildings
 .. list-table::
     :header-rows: 1
 
+    * - (a) General Construction.
+      - 
+      - 
+      - 
+      - 
+      - 
     * - 
       - Item
       - 
       - Units
       - Allowance
       - 
-    * - 
+    * - Non-SGA Condo/Coops1
+      - Rentals &amp; SGA Condo/Coops2
       - 
       - 
       - 
-      - Non-SGACondo/Coops1
-      - Rentals &amp; SGACondo/Coops2
+      - 
     * - # *
-      -   (1)
+      - (1)
       - Asbestos abatement3
-      - 
-      - See table
+      -  
+      - See table 
       - See table
     * - # *
-      -   (2)
+      - (2)
       - Boiler room enclosure
       - sq. ft.
       - 7.50
       - 7.50
     * - # *
-      -   (3)
+      - (3)
       - Bulkhead
       - sq. ft.
       - 8.50
       - 12.39
-    * - 
-      -   (4)
+    * -  
+      - (4)
       - Ceiling, cellar (fireproof gyp bd)
       - sq. ft.
       - 1.60
       - 1.60
-    * - 
-      -   (5)
+    * -  
+      - (5)
       - Ceilings, gypsum board or plaster
       - rooms
       - 280.00
       - 280.00
     * - # *
-      -   (6)
+      - (6)
       - Cement wash or parge waterproofing
       - sq. ft.
       - 1.00
       - 1.00
     * - # *
-      -   (7)
+      - (7)
       - Chimney, masonry
       - floors
       - 1,200.00
       - 1,319.18
     * - #
-      -   (8)
+      - (8)
       - Concrete, structural slab4
       - cu. yd.
       - 500.00
       - 500.00
     * - #
-      -   (9)
+      - (9)
       - Concrete, structural foundation4
       - cu. yd.
       - 250.00
@@ -4835,58 +4839,58 @@ Maximum Allowance for All Buildings
       - sq. ft.
       - 4.00
       - 4.00
-    * -    *
+    * -    *
       - (11)
       - Abatement of lead-based paint hazards6
-      - 
+      -  
       - See Itemized Cost Breakdown Schedule for Abatement of Lead-Based Paint Hazards in (g) below
       - See Itemized Cost Breakdown Schedule for Abatement of Lead-Based Paint Hazards in (g) below
-    * - 
+    * -  
       - (12)
       - Demolition &amp; removal allowance7
       - rooms
       - 200.00
       - 200.00
-    * - 
-      - 
+    * -  
       - Doors (incl. frame and hardware)
       - 
-      - 
-      - 
-    * -    *
+      -  
+      -  
+      -  
+    * -    *
       - (13)
-      - Main entrance and lobby
+      -  Main entrance and lobby
       - set
       - 4,000.00
       - 4,000.00
-    * -    *
+    * -    *
       - (14)
-      - Hollow metal
+      -  Hollow metal
       - doors
       - 475.00
       - 475.00
-    * -    **
+    * -    **
       - (15)
-      - Storm
+      -  Storm
       - doors
       - 180.00
       - 180.00
-    * - 
+    * -  
       - (16)
       - Dumbwaiters sealed
       - units
       - 110.00
       - 110.00
-    * - 
+    * -  
       - (17)
       - Entrance, stoops, steps, concrete
       - risers
       - 225.00
       - 225.00
-    * -    *
+    * -    *
       - (18)
       - Fire escapes
-      - Flights
+      - flights
       - 2,000.00
       - 2,000.00
     * - #
@@ -4895,7 +4899,7 @@ Maximum Allowance for All Buildings
       - joists
       - 165.00
       - 165.00
-    * -    **
+    * -    **
       - (20)
       - Insulation, wall (thermal only)
       - sq. ft.
@@ -4907,7 +4911,7 @@ Maximum Allowance for All Buildings
       - floors
       - 40.00
       - 72.10
-    * -    *
+    * -    *
       - (22)
       - Lintel replacement
       - units
@@ -4925,13 +4929,13 @@ Maximum Allowance for All Buildings
       - lin. ft.
       - 135.00
       - 135.00
-    * - 
+    * -  
       - (25)
       - Partitions, gypsum board or plaster
       - rooms
       - 600.00
       - 600.00
-    * - 
+    * -  
       - (26)
       - Partitions, framing
       - rooms
@@ -4949,7 +4953,7 @@ Maximum Allowance for All Buildings
       - lin. ft.
       - 25.00
       - 30.14
-    * -    *
+    * -    *
       - (29)
       - Refuse chute, complete
       - floors
@@ -4961,13 +4965,13 @@ Maximum Allowance for All Buildings
       - sq. ft.
       - 1.25
       - 1.25
-    * - 
+    * -  
       - (31)
       - Skylight including screens9
       - units
       - 1,300.00
       - 1,300.00
-    * - 
+    * -  
       - (32)
       - Stairs, steel
       - flights
@@ -4979,398 +4983,398 @@ Maximum Allowance for All Buildings
       - lbs.
       - 1.50
       - 1.50
-    * -    **
+    * -    **
       - (34)
       - Window, insulating glass
       - units
       - 175.00
       - 367.50
-    * -    **
+    * -    **
       - (35)
       - Window, insulating glass over 24 sf
       - sq. ft.
       - 10.00
       - 21.00
-    * -    **
+    * -    **
       - (36)
       - Window, storm with screen
       - units
       - 65.00
       - 65.00
-    * -    *
+    * -    *
       - (37)
       - Window guards, approved security
       - units
       - 175.00
       - 175.00
-    * -    *
+    * -    *
       - (38)
       - Window guards, childproof
       - units
       - 25.00
       - 25.00
-~
-
- 
-
-(b) Elevator.
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
+    * -  
+      -  
+      -  
+      -  
+      -  
+      -  
+    * - (b) Elevator.
+      - 
+      - 
+      - 
+      - 
+      - 
     * - 
       - Item
       - 
       - Units
       - Allowance
       - 
-    * - 
+    * - Non-SGA Condo/Coops1
+      - Rentals &amp; SGA Condo/Coops2
       - 
       - 
       - 
-      - Non-SGACondo/Coops1
-      - Rentals &amp; SGACondo/Coops2
-    * -    *
-      -   (1)
+      - 
+    * -    *
+      - (1)
       - New elevator, complete
-      - unitsfloors
-      - 45,000.00+7,000.00
-      - 45,000.00+7,000.00
-    * -    *
-      -   (2)
+      - units + floors
+      - 45,000.00 + 7,000.00 
+      - 45,000.00 + 7,000.00
+    * -    *
+      - (2)
       - Convert manual to automatic10
       - units
       - 7,000.00
       - 7,000.00
-    * - 
-      - 
+    * -  
       - Elevator, partial
       - 
-      - 
-      - 
-    * -    *
-      -   (3)
+      -  
+      -  
+      -  
+    * -    *
+      - (3)
       -  Motor11
       - motor
       - 3,500.00
       - 3,500.00
-    * -    *
-      -   (4)
+    * -    *
+      - (4)
       -  Traction machine11
       - units
       - 10,000.00
       - 10,000.00
-    * -    *
-      -   (5)
+    * -    *
+      - (5)
       -  Two-speed or variable controller11
       - each
       - 8,000.00
       - 8,000.00
-    * -    *
-      -   (6)
+    * -    *
+      - (6)
       -  Cables
       - floors
       - 400.00
       - 400.00
-    * -    *
-      -   (7)
-      -  Shaftway door
+    * -    *
+      - (7)
+      -  Shaftway floor
       - doors
       - 800.00
       - 800.00
-    * -    *
-      -   (8)
+    * -    *
+      - (8)
       -  Floor call station
       - floors
       - 200.00
       - 200.00
-    * -    *
-      -   (9)
+    * -    *
+      - (9)
       -  Interlocks
       - each
       - 280.00
       - 280.00
-    * -    *
+    * -    *
       - (10)
       -  Door operator
       - units
       - 2,500.00
       - 2,500.00
-    * -    *
+    * -    *
       - (11)
-      -  Car reline cab
+      - Car reline cab
       - units
       - 4,200.00
       - 4,200.00
-~
-
- 
-
-(c) Plumbing. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
+    * -  
+      -  
+      -  
+      -  
+      -  
+      -  
+    * - (c) Plumbing.
+      - 
+      - 
+      - 
+      - 
+      - 
     * - 
       - Item
       - 
       - Units
       - Allowance
       - 
-    * - 
+    * - Non-SGA Condo/Coops1
+      - Rentals &amp; SGA Condo/Coops2
       - 
       - 
       - 
-      - Non-SGACondo/Coops1
-      - Rentals &amp; SGACondo/Coops2
+      - 
     * - # *
-      -   (1)
+      - (1)
       - Hot water heater/tank (input)
       - MBH
       - See table
       - See table
     * - # **
-      -   (3)
+      - (2)
       - Insulation, pipe (also for heating)
       - lin. ft.
       - 2.50
       - 2.50
-    * - 
-      - 
+    * -  
       - Piping
       - 
-      - 
-      - 
-    * -    *
-      -   (3)
-      - Water main, risers, branches
+      -  
+      -  
+      -  
+    * -    *
+      - (3)
+      -  Water main, risers, branches
       - d.u.
       - 1,700.00
       - 3,570.00
-    * -    *
-      -   (4)
-      - Waste and vent (complete)
+    * -    *
+      - (4)
+      -  Waste and vent (complete)
       - d.u.
       - 1,500.00
       - 1,500.00
     * - # *
-      -   (5)
-      - Water service, street connect12
+      - (5)
+      -  Water service, street connect12
       - lin. ft.
       - 110.00
       - 110.00
     * - # *
-      -   (6)
-      - Sewer, street connection
+      - (6)
+      -  Sewer, street connection
       - lin. ft.
       - 200.00
       - 200.00
-    * -    *
-      -   (7)
-      - Gas, risers and connections
+    * -    *
+      - (7)
+      -  Gas, risers and connections
       - d.u.
       - 275.00
       - 287.70
-    * -    *
-      -   (8)
+    * -    *
+      - (8)
       - Sprinklers, piping and heads
       - heads
       - 220.00
       - 220.00
     * - # *
-      -   (9)
+      - (9)
       - Standpipe
       - floor
       - 600.00
       - 1,260.00
-    * -    *
+    * -    *
       - (10)
       - Tank, water storage
       - gallon
       - 1.50
       - 1.50
-~
-
- 
-
-(d) Heating. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
+    * -  
+      -  
+      -  
+      -  
+      -  
+      -  
+    * - (d) Heating.
+      - 
+      - 
+      - 
+      - 
+      - 
     * - 
       - Item
       - 
       - Units
       - Allowance
       - 
-    * - 
+    * - Non-SGA Condo/Coops1
+      - Rentals &amp; SGA Condo/Coops2
       - 
       - 
       - 
-      - Non-SGACondo/Coops1
-      - Rentals &amp; SGACondo/ Coops2
+      - 
     * - # **
-      -   (1)
+      - (1)
       - Boiler-burner (output)13
       - MBH
-      - See table
+      - See table 
       - See table
     * - # **
-      -   (2)
+      - (2)
       - Boiler (output)
       - MBH
       - See table
       - See table
     * - # **
-      -   (3)
+      - (3)
       - Burner (output)13
       - MBH
       - See table
       - See table
-    * - 
-      -   (4)
+    * -  
+      - (4)
       - Convectors or radiators
       - units
       - 250.00
       - 306.60
     * - # *
-      -   (5)
+      - (5)
       - Electronic boiler control system
       - units
       - 2,500.00
-      - 2500.00
+      - 2,500.00
     * - # *
-      -   (6)
+      - (6)
       - Metal boiler stack
       - floors
       - 400.00
       - 535.92
     * - # *
-      -   (7)
+      - (7)
       - Oil tank
       - gallon
       - See table
       - See table
-    * -    *
-      -   (8)
+    * -    *
+      - (8)
       - Piping, heat mains, risers, branch
       - rooms
       - 220.00
       - 352.10
-~
-
- 
-
-(e) Electric. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
+    * -  
+      -  
+      -  
+      -  
+      -  
+      -  
+    * - (e) Electric.
+      - 
+      - 
+      - 
+      - 
+      -  
     * - 
       - Item
       - 
       - Units
       - Allowance
       - 
-    * - 
+    * - Non-SGA Condo/Coops1
+      - Rentals &amp; SGA Condo/Coops2
       - 
       - 
       - 
-      - Non-SGACondo/Coops1
-      - Rentals &amp; SGACondo/Coops2
-    * -    *
-      -   (1)
+      - 
+    * -    *
+      -  (1)
       - All new apartment wiring
-      - d.u.+room
-      - 400.00+420.00*
-      - 400.00+420.00*
-    * -    *
-      -   (2)
+      - d.u. + room
+      - 400.00 + 420.00* 
+      - 400.00 + 420.00*
+    * -    *
+      -  (2)
       - Apartment wiring only, adequate(risers and meters separate)
       - d.u.
       - 370.00
       - 370.00
-    * -    *
-      -   (3)
+    * -    *
+      -  (3)
       - Service equipment and risers
-      - 
-      - 
-      - 
-    * - 
-      - 
-      -  Electric service equipment
-      - 
-      - 
-      - 
-    * -    *
-      - 
-      -  with individual meter
-      - entry+d.u.
-      - 1,500.00+160.00
-      - 1,500.00+160.00
-    * -    *
-      - 
-      -  with master meter
-      - entry+d.u.
-      - 1,500.00+110.00
-      - 1,500.00+110.00
-    * -    *
-      - 
-      -  Apartment panel
+      -  
+      -  
+      -  
+    * -  
+      -  
+      -   Electric service equipment
+      -  
+      -  
+      -  
+    * -    *
+      -  
+      -     with individual meter
+      - entry + d.u.
+      - 1,500.00 + 160.00
+      - 1,500.00 + 160.00
+    * -    *
+      -  
+      -     with master meter
+      - entry + d.u.
+      - 1,500.00 + 110.00
+      - 1,500.00 + 110.00
+    * -    *
+      -  
+      -   Apartment panel
       - d.u.
       - 300.00
       - 300.00
-    * - 
-      - 
-      - Risers
-      - 
-      - 
-      - 
-    * -    *
-      - 
-      -  with individual meter
+    * -  
+      -  
+      -   Risers
+      -  
+      -  
+      -  
+    * -    *
+      -  
+      -     with individual meter
       - d.u.
       - 500.00
       - 500.00
-    * -    *
-      - 
-      -  with master meter
+    * -    *
+      -  
+      -     with master meter
       - d.u.
       - 350.00
       - 350.00
-    * - 
-      -   (4)
+    * -  
+      -  (4)
       - Outlet on new circuit
       - circuit
       - 100.00
       - 100.00
-    * -    *
-      -   (5)
-      - Smoke/carbon monoxide detectorcombination (hard wired)
+    * -    *
+      -  (5)
+      - Smoke / carbon monoxide detector combination (hard wired)
       - d.u.
       - 100.00
       - 100.00
-    * -    *
-      -   (6)
+    * -    *
+      -  (6)
       - Submetering installation14
       - d.u.
       - 280.00
       - 280.00
     * - #
-      -   (7)
+      -  (7)
       - Cogeneration equipment15
       - kilowatt
       - 400.00
@@ -5381,9 +5385,7 @@ Maximum Allowance for All Buildings
 
 (f) Landmarks Projects Only.
 
-   Items of work listed on this schedule only per § 5-03(a)(5)
-
- 
+Items of work listed on this schedule only per 28 RCNY § 5-03(a)(5)
 
  
 
@@ -5391,7 +5393,7 @@ Maximum Allowance for All Buildings
 .. list-table::
     :header-rows: 1
 
-    * - Boiler/Burner Table (maximum allowance) 
+    * - Boiler/Burner Table(maximum allowance)
       - 
       - 
       - 
@@ -5400,21 +5402,21 @@ Maximum Allowance for All Buildings
       - 
       - 
     * - Items
-      - 0-1,999 MBH
-      - 2,000-5,999 MBH
+      - 0 - 1,999 MBH
+      - 2,000 - 5,999 MBH
       - ≥ 6,000 MBH
     * - Boiler-burner13
-      - $1,500$16.50/MBH
-      - $20,000$7.25/MBH
-      - $47,600$2.65/MBH
+      - $1,500 + $16.50/MBH
+      - $20,000 + $7.25/MBH
+      - $47,600 + $2.65/MBH
     * - Burner13
-      - $500$4.75/MBH
-      - $6,000$2.00/MBH
-      - $8,300$1.65/MBH
-    * - Boiler (existingburner)
-      - $1,000$11.75/MBH
-      - $14,000$5.25/MBH
-      - $39,300$1.00/MBH
+      - $500 + $4.75/MBH
+      - $6,000 + $2.00/MBH
+      - $8,300 + $1.65/MBH
+    * - Boiler (existing burner)
+      - $1,000 + $11.75/MBH
+      - $14,000 + $5.25/MBH
+      - $39,300 + $1.00/MBH
 ~
 
 
@@ -5433,25 +5435,25 @@ Maximum Allowance for All Buildings
       - 
       - 
     * - Items
-      - 0-749 MBH
-      - 750-1,999 MBH
-      - 2,000-5,999 MBH
+      - 0 - 749 MBH
+      - 750 - 1,999 MBH
+      - 2,000 - 5,999 MBH
       - ≥ 6,000 MBH
     * - Boiler-burner13
-      - $8,895$13.90/MBH
-      - $8,895+$13.90/MBH
-      - $19,700$8.50/MBH
-      - $19,700+$8.50/MBH 
+      - $8,895 + $13.90/MBH
+      - $8,895 + $13.90/MBH
+      - $19,700 + $8.50/MBH
+      - $19,700 + $8.50/MBH 
     * - Burner13
-      - $3,450.$0.82/MBH
-      - $500+$4.75/MBH
-      - $6,000$2.00/MBH
-      - $8,300+$1.65/MBH
+      - $3,450 + $0.82/MBH
+      - $500 + $4.75/MBH
+      - $6,000 + $2.00/MBH
+      - $8,300 + $1.65/MBH
     * - Boiler (existing burner)
-      - $5,445+$13.08/MBH
-      - $8,395+$9.15/MBH
-      - $13,700+$6.50/MBH
-      - $11,400+$6.85/MBH
+      - $5,445 + $13.08/MBH
+      - $8,395 + $9.15/MBH
+      - $13,700 + $6.50/MBH
+      - $11,400 + $6.85/MBH
 ~
 
 
@@ -5464,38 +5466,26 @@ Maximum Allowance for All Buildings
 .. list-table::
     :header-rows: 1
 
-    * - Domestic Hot Water Table (maximum allowance) Non-SGA Condo/Coops1
+    * - Domestic Hot Water Table(maximum allowance)
+      - 
+    * - Non-SGA Condo/Coops1
       - 
     * - Input in MBH
       - Allowance
-    * - 0-600
-      - $460 9.10/MBH 
-    * -   &gt;600
-      - $1,900 6.70/MBH
-~
-
-
-
- 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
+    * - 0 - 600
+      - $460 + 9.10/MBH 
+    * - &gt; 600
+      - $1,900 + 6.70/MBH
     * - Rentals &amp; SGA Condo/Coops2
       - 
     * - Input in MBH
       - Allowance
-    * - 0-599
-      - $2,700 + $30.49/MBH 
-    * - 600
+    * - 0 - 599
+      - $2,700 + $30.49/MBH
+    * - &gt; 600
       - $13,326.51 + $10.90/MBH
 ~
 
-
-
  
 
  
@@ -5504,38 +5494,26 @@ Maximum Allowance for All Buildings
 .. list-table::
     :header-rows: 1
 
-    * - Oil Tank Table(maximum allowance) Non-SGA Condo/Coops1
+    * - Oil Tank Table(maximum allowance)
+      - 
+    * - Non-SGA Condo/Coops1
       - 
     * - Size in Gallons
       - Allowance
-    * - 0-4000
-      - $500. $1.10/gal. 
-    * - &gt;4000
-      - $2,900 $0.50/gal.
-~
-
-
-
- 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
+    * - 0 - 4000
+      - $500 + $1.10/gal.
+    * - &gt; 4000
+      - $2,900 + $0.50/gal.
     * - Rentals &amp; SGA Condo/Coops2
       - 
     * - Size in Gallons
       - Allowance
     * - 0-3,999
-      - $3,775 + $1.60/gal. 
+      - $3,775 + $1.60/gal.
     * - ≥ 4000
       - $6,975 + $0.80/gal.
 ~
 
-
-
  
 
  
@@ -5544,41 +5522,27 @@ Maximum Allowance for All Buildings
 .. list-table::
     :header-rows: 1
 
-    * - Asbestos Abatement Table(maximum allowance) Non-SGA Condo/Coops1
+    * - Asbestos Abatement Table(maximum allowance)
       - 
-    * - Removal Units
-      - Allowance
-    * - Internal Linear Feet
-      - $1,600. + $11/lin. ft. 
-    * - Internal Square Feet
-      - $1,600. + $11/sq. ft.
-~
-
-
-
- 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - Rentals &amp; SGA Condo/Coops2
+    * - Non-SGA Condo/Coops1
       - 
     * - Removal Units
       - Allowance
     * - Internal Linear Feet
       - $1,600 + $11/lin. ft. 
     * - Internal Square Feet
-      - $1,600. + $11/sq. ft.
+      - $1,600 + $11/sq. ft.
+    * - Rentals &amp; SGA Condo/Coops2
+      - 
+    * - Removal Units
+      - Allowance
+    * - Internal Linear Feet
+      - $1,600 + $11/lin. ft.
+    * - Internal Square Feet
+      - $1,600 + $11/sq. ft.
 ~
 
-
-
  
-
-(g) Abatement of Lead-Based Paint Hazards6
 
  
 
@@ -5586,163 +5550,169 @@ Maximum Allowance for All Buildings
 .. list-table::
     :header-rows: 1
 
+    * - (g) Abatement of Lead-Based Paint Hazards6
+      - 
+      - 
+      - 
+      - 
+      - 
     * - 
       - Item
       - 
       - Units
       - Allowance
       - 
-    * - 
-      - 
-      - 
-      - 
-      - Non-targeted Areas
+    * - Non-targeted Areas
       - Targeted Areas
-    * - # *
+      - 
+      - 
+      - 
+      - 
+    * -    *
       - (1)
       - Inspection for Lead-Based Paint Hazards16
-      - d.u. commonarea17
+      - d.u. common area17
       - 400.00
-      - 400.00
-    * -    *
+      - 400.00 
+    * -    *
       - (2)
       - Risk Assessment of Lead-Based Paint Hazards16
-      - d.u. commonarea18
+      - d.u. common area18
       - 250.00
       - 250.00
-    * -    *
+    * -    *
       - (3)
       - Ceilings, lamination
       - rooms
       - 320.00
       - 420.00
-    * -    *
+    * -    *
       - (4)
       - Ceilings, common area, lamination
       - sq. ft.
       - 1.80
       - 2.50
-    * -    *
+    * -    *
       - (5)
       - Doors (incl. frame and hardware), main entrance and lobby
       - set
       - 4,600.00
       - 5,000.00
-    * -    *
+    * -    *
       - (6)
       - Doors (incl. frame and hardware), hollow metal
       - doors
       - 550.00
       - 800.00
-    * -    *
+    * -    *
       - (7)
       - Doors (incl. frame and hardware), wood swing
       - doors
       - 155.00
       - 350.00
-    * -    *
+    * -    *
       - (8)
-      - Doors (incl. frame and hardware), bi-fold closet
+      - Doors (incl. frame and hardware), bi- fold closet
       - bi-fold
       - 125.00
       - 300.00
-    * -    *
+    * -    *
       - (9)
       - Sliding closet (2 doors, incl. frame and hardware)
       - set
       - 145.00
       - 300.00
-    * -    *
+    * -    *
       - (10)
       - Flooring, finished wood
       - rooms
       - 575.00
       - 1,250.00
-    * -    *
+    * -    *
       - (11)
       - Flooring, resilient w/underlayment
       - rooms
       - 515.00
       - 585.00
-    * -    *
+    * -    *
       - (12)
       - Partitions, gypsum board or plaster
       - rooms
       - 690.00
       - 1,170.00
-    * -    *
+    * -    *
       - (13)
       - Partitions, common area
       - sq. ft.
       - 1.80
       - 2.50
-    * -    *
+    * -    *
       - (14)
       - Stairs, steel (incl. risers, pans, railings, stringers, &amp; newel posts), stripped
       - steps
       - 45.00
       - 60.00
-    * -    *
+    * -    *
       - (15)
       - Window, insulating glass
       - units
       - 200.00
       - 425.00
-    * -    *
+    * -    *
       - (16)
       - Window, insulating glass over 24 sf
       - sq. ft.
       - 12.00
       - 30.00
-    * -    *
+    * -    *
       - (17)
       - Convectors or radiators, new
       - units
       - 260.00
       - 275.00
-    * -    *
+    * -    *
       - (18)
       - Convectors or radiators, stripped
       - units
       - 115.00
       - 150.00
-    * -    *
+    * -    *
       - (19)
       - Risers, stripped
       - lin. ft.
       - 15.00
       - 20.00
-    * -    *
+    * -    *
       - (20)
       - Kitchen cabinets19
       - lin. ft.
       - 65.00
       - 75.00
-    * -    *
+    * -    *
       - (21)
       - Kitchen cabinets, base &amp; counter19
       - lin. ft.
       - 80.00
       - 105.00
-    * -    *
+    * -    *
       - (22)
       - Medicine cabinets (incl. mirror)20
       - units
       - 95.00
       - 125.00
-    * -    *
+    * -    *
       - (23)
       - Remove and install window sill
       - units
       - 115.00
       - 150.00
-    * -    *
+    * -    *
       - (24)
       - Remove and install baseboard, wood molding
       - lin. ft.
       - 2.50
       - 3.50
-    * -    *
+    * -    *
       - (25)
       - Remove and install closet shelf and pole
       - set
@@ -5760,7 +5730,7 @@ Maximum Allowance for All Buildings
 
 1  The Maximum CRC contained in this column is available to multiple dwellings, Buildings or structures that are owned as a Cooperative or Condominium and that have an average assessed value of less than thirty thousand dollars per dwelling unit.
 
-2  The Maximum CRC contained in this column is available to multiple dwellings, Buildings or structures that are (a) owned and operated as rental developments, (b) owned and operated by Mutual Companies, (c) owned and operated by Mutual Redevelopment Companies, (d) developed as a planned community and owned as two separate Condominiums containing a total of ten thousand or more dwelling units, or (e) owned as a Cooperative or Condominium for which the Alterations or Improvements for which such multiple dwelling, Building or structure has applied for J-51 benefits were carried out with Substantial Governmental Assistance as such term is defined in Section 5-07.1(a) of this chapter.
+2  The Maximum CRC contained in this column is available to multiple dwellings, Buildings or structures that are (a) owned and operated as rental developments, (b) owned and operated by Mutual Companies, (c) owned and operated by Mutual Redevelopment Companies, (d) developed as a planned community and owned as two separate Condominiums containing a total of ten thousand or more dwelling units, or (e) owned as a Cooperative or Condominium for which the Alterations or Improvements for which such multiple dwelling, Building or structure has applied for J-51 benefits were carried out with Substantial Governmental Assistance as such term is defined in 28 RCNY § 5-07.1(a).
 
 3  For (1) removal or encapsulation of any friable asbestos when done as part of a substantial rehabilitation requiring an alteration permit, or (2) for removal of asbestos Thermal System Insulation (TSI) on other rehabilitation or (3) for removal of other friable asbestos (and not roofing, siding or flooring) pursuant to a report from a certified asbestos inspector describing condition, quantity and location of asbestos containing materials to be removed including microscopic analysis. TSI means insulation applied to heating, ventilation or air conditioning systems, hot or cold domestic water systems for the purpose of preventing heat transfer or water condensation. TSI shall include insulation on boilers, water tanks, air handling equipment and ducts, piping, pipe fittings or valves.
 
@@ -5768,7 +5738,9 @@ Maximum Allowance for All Buildings
 
 5  This item includes inner walkways, courtyards, cellar slabs and the public sidewalk.
 
-6  "For construction commenced on or after August 2, 2004, requires (a) "an abatement" of lead-based paint hazards, as defined in 40 Code of Federal Regulations part 745 or any successor regulations, in any existing dwelling, including any vacant or occupied dwelling unit or any common area, and (b) proof of lead-based paint hazards pursuant to an "inspection" and/or "risk assessment", as defined in 40 Code of Federal Regulations part 745 or any successor regulations. Notwithstanding the foregoing, no such benefit shall be given for (a) any abatement performed to comply with a notice of violation issued for a violation of article fourteen of subchapter two of chapter two of title 27 of the Administrative Code, or (b) any abatement performed in a dwelling unit or in the common areas in such dwelling unless all of the lead-based paint hazards identified in such dwelling unit or in all of the common areas in such dwelling have been abated. Furthermore, the deleading of lead-based paint hazards pursuant to a NYC Dept. of Health and Mental Hygiene order that is commenced prior to August 2, 2004 will continue to be eligible for J-51 benefits provided that there is an approved contract and sign-off. The allowance for such deleading of lead-based paint hazards will be per contract."
+6  “For construction commenced on or after August 2, 2004, requires (a) “”an abatement”” of lead-based paint hazards, as defined in 40 Code of Federal Regulations part 745 or any successor regulations, in any existing dwelling, including any vacant or occupied dwelling unit or any common area, and (b) proof of lead-based paint hazards pursuant to an “inspection” and/or “risk assessment”, as defined in 40 Code of Federal Regulations part 745 or any successor regulations. Notwithstanding the foregoing, no such benefit shall be given for (a) any abatement performed to comply with a notice of violation issued for a violation of article fourteen of subchapter two of chapter two of title 27 of the Administrative Code, or (b) any abatement performed in a dwelling unit or in the common areas in such dwelling unless all of the lead-based paint hazards identified in such dwelling unit or in all of the common areas in such dwelling have been abated.
+
+Furthermore, the deleading of lead-based paint hazards pursuant to a NYC Dept. of Health and Mental Hygiene order that is commenced prior to August 2, 2004 will continue to be eligible for J-51 benefits provided that there is an approved contract and sign-off. The allowance for such deleading of lead-based paint hazards will be per contract.”
 
 7  For substantial alterations and conversions only. The maximum quantity for this item is the number of new rooms created in the space where the demolition was done.
 
@@ -5780,13 +5752,15 @@ Maximum Allowance for All Buildings
 
 11  For buildings over eight stories the approved quantity shall be equal to the actual quantity increased by 10 percent for each floor over eight.
 
-12  For water service 2 1/2" in diameter or greater than approved length shall be equal to one and one-half times the actual installed length.
+12  For water service 2 1/2” in diameter or greater than approved length shall be equal to one and one-half times the actual installed length.
 
-13  Oil, gas, or combination burner. 14  For submetering, the owner must comply with the rent decrease requirements of DHCR, and the project must consist of a building-wide submetering in all individual dwelling units.
+13  Oil, gas, or combination burner.
 
-15  This item requires an affidavit from an engineer or architect certifying the installation of a natural gas-fired electric cogeneration system or the conversion or modification of an existing oil-fired cogeneration system to a natural gas-fired electric cogeneration system. Such affidavit also must provide that the waste heat from the cogeneration unit is used for heating domestic hot water or space heating or cooling of the residential units.
+14  For submetering, the owner must comply with the rent decrease requirements of DHCR, and the project must consist of a building-wide submetering in all individual dwelling units.
 
-16  In order to qualify for benefits for Inspection for Lead-Based Paint Hazards or Risk Assessment of Lead-Based Paint Hazards, (a) the inspection or risk assessment must be an "inspection" or "risk assessment" as defined in 40 Code of Federal Regulations part 745 or any successor regulations, (b) the inspection or risk assessment must have determined that lead-based paint hazards exist in such dwelling, including any vacant or occupied dwelling unit or any common area, and (c) an "abatement" of lead-based paint hazards, as defined in 40 Code of Federal Regulations part 745 or any successor regulations, must have been performed in response to such inspection or risk assessment determination. Notwithstanding the foregoing, no such benefit shall be given for the inspection or risk assessment of a dwelling unit or common area if (a) any abatement performed in a dwelling unit or common area in response to such inspection or risk assessment determination was also performed to comply with a notice of violation issued for a violation of article fourteen of subchapter two of chapter two of title 27 of the Administrative Code, or (b) all of the lead-based paint hazards identified in such dwelling unit or in all of the common areas in such dwelling by such inspection or risk assessment have not been abated. Furthermore, such benefits for inspection or risk assessment of lead-based paint hazards shall only be given for such inspections or risk assessments commenced on or after August 2, 2004.
+15  This item requires an affidavit from an engineer or architect certifying the installation of a natural gas-fired electric cogeneration system or the conversion or modification of an existing oil-fired cogeneration system to a natural gasfired electric cogeneration system. Such affidavit also must provide that the waste heat from the cogeneration unit is used for heating domestic hot water or space heating or cooling of the residential units.
+
+16  In order to qualify for benefits for Inspection for Lead-Based Paint Hazards or Risk Assessment of Lead-Based Paint Hazards, (a) the inspection or risk assessment must be an “inspection” or “risk assessment” as defined in 40 Code of Federal Regulations part 745 or any successor regulations, (b) the inspection or risk assessment must have determined that lead-based paint hazards exist in such dwelling, including any vacant or occupied dwelling unit or any common area, and (c) an “abatement” of lead-based paint hazards, as defined in 40 Code of Federal Regulations part 745 or any successor regulations, must have been performed in response to such inspection or risk assessment determination. Notwithstanding the foregoing, no such benefit shall be given for the inspection or risk assessment of a dwelling unit or common area if (a) any abatement performed in a dwelling unit or common area in response to such inspection or risk assessment determination was also performed to comply with a notice of violation issued for a violation of article fourteen of subchapter two of chapter two of title 27 of the Administrative Code, or (b) all of the leadbased paint hazards identified in such dwelling unit or in all of the common areas in such dwelling by such inspection or risk assessment have not been abated. Furthermore, such benefits for inspection or risk assessment of lead-based paint hazards shall only be given for such inspections or risk assessments commenced on or after August 2, 2004.
 
 17  For dwellings with no more than three stories, the allowance for both non-targeted areas and targeted areas for inspection of all of the common areas in such dwelling is $400. For dwellings with four to six stories, the allowance for both non-targeted areas and targeted areas for inspection of all of the common areas in such dwelling is $800. For dwellings with at least seven stories, the allowance for both non-targeted areas and targeted areas for inspection of all of the common areas in such dwelling is $1,200.
 
@@ -18284,6 +18258,8 @@ Monitoring Contract. "Monitoring Contract" means a contract between the applican
 
 (iii) requires the Marketing Monitor to submit quarterly rent rolls for all Affordable Housing Units in the Eligible Multiple Dwelling to the Agency.
 
+Motel or Tourist Cabin. “Motel or Tourist Cabin” shall have the meaning set forth in Section 12-10 of the Zoning Resolution.
+
 Multiple Dwelling Law. "Multiple Dwelling Law" means the Multiple Dwelling Law of the State of New York.
 
 Notice of Intent. "Notice of Intent" means a notice of intent to begin marketing the Affordable Housing Units through Housing Connect seven months prior to the Completion Date and that, in addition to any other documentation required in the Notice of Intent, includes as exhibits: (i) the affordability option elected pursuant to the Act, (ii) the unit mix proposed to satisfy subparagraph (ii) of paragraph (g) of the Act or, in accordance with such subparagraph, the claimed exemption from such unit mix requirements, and (iii) the unit distribution proposed to satisfy subparagraph (i) of paragraph (g) of the Act and 28 RCNY § 51-03.
@@ -18401,10 +18377,12 @@ g. Each tenant of an Affordable Housing Unit shall be offered a rent stabilized 
 
 
 
-*§ 51-05 Hotel Prohibition.* ::
+*§ 51-05 Hotels, Motels and Tourist Cabins.* ::
 
 
-No Eligible Multiple Dwelling that is operated as a Hotel shall be eligible for Affordable New York Housing Program Benefits.
+a. Eligible Sites located on land that contained dwelling units designated as Motel rooms or as Tourist Cabins on the certificate of occupancy in effect three years prior to the Commencement Date shall not be subject to paragraph (i) of the Act with respect to any dwelling units in such Motel or Tourist Cabin that existed on such date and that were thereafter demolished, removed or reconfigured.
+
+b. No Eligible Multiple Dwelling that is operated as a Hotel shall be eligible for Affordable New York Housing Program Benefits.
 
 
 

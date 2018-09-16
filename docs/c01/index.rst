@@ -637,7 +637,7 @@ If, after the community board's sixty (60) day review period, the applicant make
 *§ 1-08 City Environmental Quality Review (CEQR).* ::
 
 
-Applications for variances and special permits filed at the Board, in accordance with Mayoral Executive Order No. 91 of 1977, as amended, the Rules for City Environmental Quality Review, Title 62, Chapter 5, §§ 5-01 et seq. of the Rules of the City of New York ("CEQR"), and the State Environmental Quality Review Act regulations, 6 NYCRR Part 617, and any subsequent amendments thereto, will be subject to CEQR unless the Board determines that the application is for a Type II action and thus not subject to environmental review, or is otherwise exempt from CEQR in accordance with such regulations.
+Applications for variances and special permits filed at the Board, in accordance with Mayoral Executive Order No. 91 of 1977, as amended, the Rules for City Environmental Quality Review, 62 RCNY §§ 5-01 et seq. ("CEQR"), and the State Environmental Quality Review Act regulations, 6 NYCRR Part 617, and any subsequent amendments thereto, will be subject to CEQR unless the Board determines that the application is for a Type II action and thus not subject to environmental review, or is otherwise exempt from CEQR in accordance with such regulations.
 
 
 
@@ -691,7 +691,7 @@ After the applicant files the application on the appropriate calendar, the Board
 
 (b) Conditional Negative Declaration: Proposed conditional negative declarations will be transmitted to the applicant in advance of the Board's resolution regarding the proposed action. Upon receipt of the applicant's signature and agreement to the prescribed conditions, the Board will publish the conditional negative declaration and the EAS in the City Record and any other required publications, followed by a thirty (30) day public comment period. If, after the comment period, the Board determines that a draft Environmental Impact Statement (EIS) is not required, the Board will issue its CEQR determination concurrently with the resolution on the proposed action, and the conditional negative declaration will be stated in the resolution. If the Board determinesthat a draft EIS is required, the Board will issue a positive declaration, and a draft EIS will be required.
 
-(c) Positive Declaration: If the CEQR determination is a positive declaration then the Board will issue such determination prior to its issuance of a resolution on the proposed action. Positive declarations will be transmitted to the applicant along with a request that the applicant prepare a draft EIS, in accordance with Mayoral Executive Order No. 91 of 1977, as amended, the Rules for City Environmental Quality Review, Title 62, Chapter 5, §§ 5-01 et seq. of the Rules of the City of New York ("CEQR"), and the State Environmental Quality Review Act regulations, 6 NYCRR Part 617, and any subsequent amendments thereto. The Board's negative declarations, conditional negative declarations, and positive declarations will be circulated to the individuals and agencies required by the Rules for City Environmental Quality Review, Title 62, Chapter 6, § 6-07 (City Planning Commission Review) of the Rules of the City of New York.
+(c) Positive Declaration: If the CEQR determination is a positive declaration then the Board will issue such determination prior to its issuance of a resolution on the proposed action. Positive declarations will be transmitted to the applicant along with a request that the applicant prepare a draft EIS, in accordance with Mayoral Executive Order No. 91 of 1977, as amended, the Rules for City Environmental Quality Review,  62 RCNY §§ 5-01 et seq. ("CEQR"), and the State Environmental Quality Review Act regulations, 6 NYCRR Part 617, and any subsequent amendments thereto. The Board's negative declarations, conditional negative declarations, and positive declarations will be circulated to the individuals and agencies required by the Rules for City Environmental Quality Review, 62 RCNY § 6-07 (City Planning Commission Review).
 
 
 
@@ -1262,13 +1262,13 @@ Chapter 5: Dry Cleaning Establishments
 
    (5) No non-conforming existing dry cleaning establishment shall be enlarged or extended unless such extension or enlargement be made in conformity with the provisions of the Zoning Resolution and may include a coin-operated dry cleaning establishment by complying with these rules.
 
-   (6) All coin-operated dry cleaning units shall be installed in a diked area all parts of which shall be impervious to the solvent used in such units. The diked section shall consist of a four inch curb above the floor. All solvent spillage into the diked area shall be conducted by gravity flow, or by an automatic pump, where cellar space is not available into a tank which shall be equipped with a leak proof pump and closed piping system, to pump the solvent back to the dry cleaning units. Such tanks shall be constructed of not less than 14 U.S. Gauge Steel, or where the tank capacity is 275 gallons or larger, tanks shall be constructed in accordance with the Oil Burner rules (§ 16-01) of the Board of Standards and Appeals. The said tank or tanks shall be of sufficient capacity to accept all solvent contained in the largest tank or interconnected group of tanks in the dry cleaning unit or units which it services.
+   (6) All coin-operated dry cleaning units shall be installed in a diked area all parts of which shall be impervious to the solvent used in such units. The diked section shall consist of a four inch curb above the floor. All solvent spillage into the diked area shall be conducted by gravity flow, or by an automatic pump, where cellar space is not available into a tank which shall be equipped with a leak proof pump and closed piping system, to pump the solvent back to the dry cleaning units. Such tanks shall be constructed of not less than 14 U.S. Gauge Steel, or where the tank capacity is 275 gallons or larger, tanks shall be constructed in accordance with the Oil Burner rules (2 RCNY § 16-01) of the Board of Standards and Appeals. The said tank or tanks shall be of sufficient capacity to accept all solvent contained in the largest tank or interconnected group of tanks in the dry cleaning unit or units which it services.
 
 (d) Restrictions on area. 
 
    (1) No coin-operated dry cleaning establishment shall have a gross floor area exceeding 2,000 square feet to be used for dry cleaning, and incidental operations, including space used for pressing, finishing, storage and for the service of customers. The square foot area limitation shall apply to the aggregate of all space so used on all floors and mezzanines of the premises involved above the cellar or basement thereof. Additional space may be used on a lower floor which is either a basement or cellar provided that on such floor there shall be no dry cleaning and no storage of recently cleaned articles. Such additional space may include ordinary storage, boilers, compressors, pumps and filtration equipment.
 
-   (2) In calculating the gross floor area pursuant to § 5-01(d)(1), the area restriction shall not include the area used by lawful non-dry cleaning operations of a multiple use type of service establishment, nor shall this subdivision apply to any premises where use group 16 is permitted by the Zoning Resolution.
+   (2) In calculating the gross floor area pursuant to 2 RCNY § 5-01(d)(1), the area restriction shall not include the area used by lawful non-dry cleaning operations of a multiple use type of service establishment, nor shall this subdivision apply to any premises where use group 16 is permitted by the Zoning Resolution.
 
 (e) Egress. The means of egress from all coin-operated dry cleaning establishments shall be in conformity with the provisions of the Building Code and all laws, rules and regulations applicable. In addition thereto, all establishments shall conform to the following:
 
@@ -1280,7 +1280,7 @@ Chapter 5: Dry Cleaning Establishments
 
    (1) Unless otherwise specifically exempted by Law, no boiler shall be permitted in the same area or space where dry cleaning units are located unless such boiler shall be enclosed in a one-hour fireproof enclosure.
 
-   (2) All ceilings of all such boiler rooms as provided in § 5-01(f)(1) shall be fire-retarded with one-hour fire resistive material.
+   (2) All ceilings of all such boiler rooms as provided in 2 RCNY § 5-01(f)(1) shall be fire-retarded with one-hour fire resistive material.
 
    (3) All openings from any such dry cleaning establishment on the course of a fire escape shall be equipped with a fireproof self-closing door or fireproof window assembly.
 
@@ -1294,7 +1294,7 @@ Chapter 5: Dry Cleaning Establishments
 
       (i) received and stored in metal containers not exceeding 55 gallons each and pumped directly into a dry cleaning unit or units by means of a detachable leakproof pump and pipe system, or
 
-      (ii) received and stored in a tank or tanks constructed in accordance with the Oil Burner rules (§ 16-01) of the Board of Standards and Appeals and pumped directly into a dry cleaning unit or units by means of a closed leakproof pipe and pump system.
+      (ii) received and stored in a tank or tanks constructed in accordance with the Oil Burner rules (2 RCNY § 16-01) of the Board of Standards and Appeals and pumped directly into a dry cleaning unit or units by means of a closed leakproof pipe and pump system.
 
    (8) In any coin-operated dry cleaning establishment, no member of the general public shall be permitted to make use of any device employing live steam or heat for pressing or finishing.
 
@@ -1314,15 +1314,15 @@ Chapter 5: Dry Cleaning Establishments
 
       (ii) Suspended oil or gas fired heating units, approved by the Board may be installed provided that they are located at least 7'-0" above the floor and at least 5'-0", measured horizontally, from any dry cleaning equipment.
 
-   (2) Coin-operated dry-cleaning establishments shall be equipped with adequate ventilation to provide at least four (4) completed changes of air volume an hour. The minimum ventilation specified here shall be maintained at all times when the coin-operated dry cleaning establishment is open. This ventilation system, which includes the scavenger ducts required under § 5-01(g)(7), shall be arranged to draw air from the public area into the service area and exhaust it from the service area to the outer air.
+   (2) Coin-operated dry-cleaning establishments shall be equipped with adequate ventilation to provide at least four (4) completed changes of air volume an hour. The minimum ventilation specified here shall be maintained at all times when the coin-operated dry cleaning establishment is open. This ventilation system, which includes the scavenger ducts required under 2 RCNY § 5-01(g)(7), shall be arranged to draw air from the public area into the service area and exhaust it from the service area to the outer air.
 
    (3) All dry cleaning units must be provided with facilities to cause an inward flow of 100 cubic feet of air per minute through the loading door of any such units when the same is open.
 
-   (4) Emergency ventilation of the service area back of coin-operated dry cleaning units shall be provided so that in emergencies a minimum of one air change per minute of the enclosed service area will be provided. Where this ventilation is for use in emergencies only and is not operated at other times, the requirements of § 5-01(g)(8) relating to the terminus of direct equipment exhausts shall not apply.
+   (4) Emergency ventilation of the service area back of coin-operated dry cleaning units shall be provided so that in emergencies a minimum of one air change per minute of the enclosed service area will be provided. Where this ventilation is for use in emergencies only and is not operated at other times, the requirements of 2 RCNY § 5-01(g)(8) relating to the terminus of direct equipment exhausts shall not apply.
 
    (5) All coin-operated dry cleaning establishments shall have sufficient ventilation so as to prevent an excessive concentration of solvent vapors in the dry cleaning establishment. An excessive concentration of solvent vapors shall be that which exceeds 100 parts of solvent vapors per one million parts of air during any working day.
 
-   (6) In meeting all ventilation requirements provided for in these rules, the following shall apply: A power exhaust system shall be provided for the removal of toxic vapors consisting of: at least one individual exhaust on each dry cleaning unit; scavenger ducts located on each dry cleaning unit; scavenger ducts located at each unit; power exhaust fans for the space behind such unit; and air intakes located at the front of each such unit. Such intake openings shall be located not more than five feet above the floor, and shall have a minimum free area of 50 sq. in. for each machine. All exhaust facilities shall be sealed and air tight and constructed in such manner so that all solvent vapors shall be discharged mechanically to the open air in the manner specified in § 5-01(g)(8)(i) through (iv) hereof. All exhaust facilities, other than the emergency ventilation required by § 5-01(g)(4), shall be operated continually while the premises are open to the public. Provisions must be made by air intakes to replace air exhausted from the establishments to the outside.
+   (6) In meeting all ventilation requirements provided for in these rules, the following shall apply: A power exhaust system shall be provided for the removal of toxic vapors consisting of: at least one individual exhaust on each dry cleaning unit; scavenger ducts located on each dry cleaning unit; scavenger ducts located at each unit; power exhaust fans for the space behind such unit; and air intakes located at the front of each such unit. Such intake openings shall be located not more than five feet above the floor, and shall have a minimum free area of 50 sq. in. for each machine. All exhaust facilities shall be sealed and air tight and constructed in such manner so that all solvent vapors shall be discharged mechanically to the open air in the manner specified in 2 RCNY § 5-01(g)(8)(i) through (iv) hereof. All exhaust facilities, other than the emergency ventilation required by 2 RCNY § 5-01(g)(4), shall be operated continually while the premises are open to the public. Provisions must be made by air intakes to replace air exhausted from the establishments to the outside.
 
    (7) A scavenger duct shall be provided in the service area at each unit and shall be designed to pick up vapors surrounding the equipment near the floor. The suction inlet for these scavenger ducts shall be located not less than two or more than six inches above the floor and shall exhaust 100 cubic feet of air per minute. The scavenger duct shall not be less than 3" in diameter.
 
@@ -1384,7 +1384,7 @@ Chapter 5: Dry Cleaning Establishments
 
    Dry cleaning. For the purpose of these rules "dry cleaning" shall be deemed to be the insertion, into a dry cleaning machine or unit, of textiles, fabrics, garments or other articles for the purpose of cleaning them by the use of solvents (other than water) with a flash point of not less than 138.2 degrees Fahrenheit when tested in a Tagliabue open cut tester, and the removal of same from such machine by an employee or owner-operator of a dry cleaning establishment, with a rail, counter, or other divider separating the dry cleaning units from the customer space.
 
-   Dry cleaning establishment. For the purpose of these rules a "dry cleaning establishment" shall be deemed to be a non-coin-operated retail establishment used for dry cleaning, (as defined in § 5-02(a) "dry cleaning" of these rules) dealing directly with ultimate consumers, limited to 2,000 square feet of floor area per establishment and wherein the total aggregate dry load capacity of the dry cleaning machines shall not exceed 60 lbs. This definition and § 5-02(c)(1)(i) shall not apply to any premises where Use Group 16 is permitted.
+   Dry cleaning establishment. For the purpose of these rules a "dry cleaning establishment" shall be deemed to be a non-coin-operated retail establishment used for dry cleaning, (as defined in 2 RCNY § 5-02(a) "dry cleaning" of these rules) dealing directly with ultimate consumers, limited to 2,000 square feet of floor area per establishment and wherein the total aggregate dry load capacity of the dry cleaning machines shall not exceed 60 lbs. This definition and 2 RCNY § 5-02(c)(1)(i) shall not apply to any premises where Use Group 16 is permitted.
 
    Dry cleaning establishment using a combustible solvent and dry cleaning establishments using a non-combustible solvent. The terms "dry cleaning establishment using a combustible solvent" and "dry cleaning establishments using a non-combustible solvent" as used in these rules shall refer to the solvent used as the detergent in the dry cleaning units.
 
@@ -1422,13 +1422,13 @@ Chapter 5: Dry Cleaning Establishments
 
    (1) (i) No dry cleaning establishment shall have a gross floor area exceeding 2,000 square feet to be used for dry cleaning and incidental operations, including space used for pressing, finishing, storage and for the service of customers. The square foot area limitation shall apply to the aggregate of all space so used on all floors and mezzanines of the premises involved above the cellar or basement thereof. Additional space may be used on a lower floor which is either a basement or cellar provided that on such floor there shall be no dry cleaning and no storage of recently cleaned articles. Such additional space may include ordinary storage, boilers, compressors, pumps and filtration equipment.
 
-      (ii) In calculating the gross floor area of a non-coin-operated dry cleaning establishment pursuant to § 5-02(c)(1)(i) such gross floor area in a multiple use type of service establishment, shall not include the area used for lawful non-dry-cleaning operations.
+      (ii) In calculating the gross floor area of a non-coin-operated dry cleaning establishment pursuant to 2 RCNY § 5-02(c)(1)(i) such gross floor area in a multiple use type of service establishment, shall not include the area used for lawful non-dry-cleaning operations.
 
    (2) No non-coin-operated retail dry cleaning establishment using a combustible solvent shall be permitted within any building which is:
 
       (i) of wood frame (class 4) construction; or
 
-      (ii) which is classified as a public building pursuant to § 26-235 of the Administrative Code except when located in a portion of such building completely separated from the public use portion by unpierced fire-proof construction having a 3 hour fire rating provided § 5-02(c)(2)(iii) is complied with; or
+      (ii) which is classified as a public building pursuant to § 26-235 of the Administrative Code except when located in a portion of such building completely separated from the public use portion by unpierced fire-proof construction having a 3 hour fire rating provided 2 RCNY § 5-02(c)(2)(iii) is complied with; or
 
       (iii) where any part of such establishment is within 20 feet of the public use portion of a public building.
 
@@ -1442,17 +1442,17 @@ Chapter 5: Dry Cleaning Establishments
 
       (ii) the boiler or boilers shall be enclosed in a one hour fire resistive enclosure with a one-hour fireproof self-closing door opening into a ventilated vestibule similarly enclosed and entered by a one-hour fireproof self-closing door opening into the interior of the premises or establishment.
 
-   (2) The ceiling of all such boiler rooms as required in § 5-02(e)(1) and the adjoining entrance vestibule referred to in § 5-02(e)(1)(ii) above, shall be fire-retarded with one-hour fire resistive material.
+   (2) The ceiling of all such boiler rooms as required in § 5-02(e)(1) and the adjoining entrance vestibule referred to in 2 RCNY § 5-02(e)(1)(ii) above, shall be fire-retarded with one-hour fire resistive material.
 
    (3) Non-fireproof partitions and ceilings within six feet of any dry cleaning unit using a combustible solvent shall be fire-retarded with one-hour fire resistive materials and doors and with two approved automatic wet pipe sprinkler heads located over each cleaning unit; these sprinkler heads may have their source of supply from the house water system.
 
    (4) All openings from any such dry cleaning establishment, using a combustible solvent, leading to a fire escape shall be equipped with a one-hour fireproof self-closing door or fireproof window assembly.
 
-   (5) Except as provided in § 5-02(e)(1), there shall not be employed in any such dry cleaning establishment using a combustible solvent any device or apparatus employing flame or fire or which is likely to produce an exposed spark except electric apparatus placed at least five feet above the floor, or approved type of "explosion proof electric motors." In such establishments all lighting shall be fitted with keyless sockets and all switches and receptacles shall be placed at least four feet above the floor. Nothing contained in this paragraph (5) or § 5-02(e)(1) shall prohibit the installation of any gas, or oil-fired heating device of a type approved by the Board for use in garages or in combustible or explosive atmospheres.
+   (5) Except as provided in 2 RCNY § 5-02(e)(1), there shall not be employed in any such dry cleaning establishment using a combustible solvent any device or apparatus employing flame or fire or which is likely to produce an exposed spark except electric apparatus placed at least five feet above the floor, or approved type of "explosion proof electric motors." In such establishments all lighting shall be fitted with keyless sockets and all switches and receptacles shall be placed at least four feet above the floor. Nothing contained in this paragraph (5) or 2 RCNY § 5-02(e)(1) shall prohibit the installation of any gas, or oil-fired heating device of a type approved by the Board for use in garages or in combustible or explosive atmospheres.
 
    (6) In an establishment using a non-combustible solvent, no direct-fired clothes dryer shall be located within 25' of a dry cleaning unit unless an incombustible vapor tight partition (which may contain glass), equipped with self-closing doors, is provided between the dry cleaning unit and the flame producing device. This partition may provide either complete or partial separation, provided that any partial separation is so arranged that the line of air travel around the partition from the dry cleaners to the dryers is a minimum of 25'.
 
-      (i) The 25 feet separation between dry cleaning units and direct fired clothes dryers as required by § 5-02(e)(6) may be reduced to 15 feet where a solid incombustible vapor-tight partition is constructed extending from the top of direct-fired clothes dryers to the ceiling and all portions of the dryer enclosures are solid, except for self-closing access doors, so that vapors from the dry cleaning units cannot reach the dryer flame, provided adequate fresh air for combustion and drying is supplied to the dryers from the outer air.
+      (i) The 25 feet separation between dry cleaning units and direct fired clothes dryers as required by 2 RCNY § 5-02(e)(6) may be reduced to 15 feet where a solid incombustible vapor-tight partition is constructed extending from the top of direct-fired clothes dryers to the ceiling and all portions of the dryer enclosures are solid, except for self-closing access doors, so that vapors from the dry cleaning units cannot reach the dryer flame, provided adequate fresh air for combustion and drying is supplied to the dryers from the outer air.
 
       (ii) Nothing contained in these rules shall prohibit the installation of suspended gas or oil-fired heaters approved by the Board, provided that such heaters are located at least 7' above the floor, and at least 5' (measured horizontally) from any dry cleaning unit using a non-combustible solvent.
 
@@ -1466,7 +1466,7 @@ Chapter 5: Dry Cleaning Establishments
 
       (i) received and stored in metal containers not exceeding 55 gallons each and pumped directly into a dry cleaning unit or units by means of a detachable leakproof pump and pipe system, or
 
-      (ii) received and stored in a tank or tanks constructed in accordance with the Oil Burner rules (§ 16-01) of the Board of Standards and Appeals, and pumped directly into a dry cleaning unit or units by means of a closed leakproof pipe and pump system.
+      (ii) received and stored in a tank or tanks constructed in accordance with the Oil Burner rules (2 RCNY § 16-01) of the Board of Standards and Appeals, and pumped directly into a dry cleaning unit or units by means of a closed leakproof pipe and pump system.
 
    (11) All non-coin-operated retail dry cleaning establishments shall be provided with at least two portable dry chemical fire extinguishers of not less than five pounds capacity each. The Fire Department shall have jurisdiction over the location of these fire extinguishers and shall make periodic inspection to insure that the fire extinguishers are in proper working order, and that proper housekeeping conditions are maintained on the premises and that the dry cleaning solvent used shall be of the type for which the dry cleaning unit was approved by the Board.
 
@@ -1540,7 +1540,7 @@ In connection with Article II, § 4, Subsection 53, Subdivision (a) of the Zonin
 
    (1) It shall be unlawful to use any premises for any hereafter established dry cleaning establishments without filing plans of that portion of the premises to be so used with the Department of Buildings and obtain its approval. Any prior approval shall be in compliance with this rule.
 
-   (2) The requirements of § 5-04(c)(1) shall not apply to existing dry cleaning establishments.
+   (2) The requirements of 2 RCNY § 5-04(c)(1) shall not apply to existing dry cleaning establishments.
 
    (3) No dry cleaning unit shall be installed unless such unit is approved by the Board of Standards and Appeals.
 
@@ -1580,19 +1580,19 @@ In connection with Article II, § 4, Subsection 53, Subdivision (a) of the Zonin
 
          (B) the boiler or boilers shall be enclosed in a 3-hour masonry enclosure with a one-hour fireproof self-closing door which opens into a ventilated vestibule similarly enclosed and entered by a one-hour fireproof self-closing door opening onto the interior of the premises or establishment.
 
-      (ii) The ceiling of all such boiler rooms as required in § 5-04(f)(1)(i) and the adjoining entrance vestibule referred to in § 5-04(f)(1)(i)(B) above shall be fire-retarded with one-hour fire resistive material.
+      (ii) The ceiling of all such boiler rooms as required in 2 RCNY § 5-04(f)(1)(i) and the adjoining entrance vestibule referred to in 2 RCNY § 5-04(f)(1)(i)(B) above shall be fire-retarded with one-hour fire resistive material.
 
    (2) Non-fireproof enclosing partitions and ceilings within six feet of any dry cleaning unit shall be fire-retarded with one-hour fire resistive materials and doors and with two approved automatic wet pipe sprinkler heads located over the cleaning unit which may have its source of supply from the house water system.
 
    (3) All openings from any such dry cleaning establishment leading to a fire escape shall be equipped with a one-hour fireproof self-closing door or fireproof window assembly.
 
-   (4) Except as provided in § 5-04(f)(1)(i), there shall not be employed in any such dry cleaning establishments any device or apparatus employing flame or fire which is likely to produce an exposed spark except electric apparatus placed at least five feet above the floor, or approved type of "explosion proof electric motors". In such establishments all lighting shall be fitted with keyless sockets and all switches and receptacles shall be placed at least four feet above the floor. Nothing contained in this paragraph (4) or § 5-04(f)(1)(i) shall prohibit the installation of any gas, oil or electric heating device of a type approved by the Fire Commissioner under such conditions as he shall prescribe.
+   (4) Except as provided in 2 RCNY § 5-04(f)(1)(i), there shall not be employed in any such dry cleaning establishments any device or apparatus employing flame or fire which is likely to produce an exposed spark except electric apparatus placed at least five feet above the floor, or approved type of "explosion proof electric motors". In such establishments all lighting shall be fitted with keyless sockets and all switches and receptacles shall be placed at least four feet above the floor. Nothing contained in this paragraph (4) or 2 RCNY § 5-04(f)(1)(i) shall prohibit the installation of any gas, oil or electric heating device of a type approved by the Fire Commissioner under such conditions as he shall prescribe.
 
 (g) Fire prevention – Class A establishments. All hereafter established Class A dry cleaning establishments shall comply with the following, except that this subdivision (g) shall not apply to those establishments created prior to the effective date of these rules:
 
    (1) Unless otherwise specifically exempted by law, no power or heating boiler shall be permitted in the same area or space where dry cleaning units are located unless such boiler or boilers shall be enclosed in a one-hour fireproof partition and entered by a one-hour fireproof self-closing door whether from the interior of the premises or establishments or to the outer air.
 
-   (2) All ceilings of all such boiler rooms as provided in § 5-04(g)(1) shall be fire-retarded with one-hour fire resistive material.
+   (2) All ceilings of all such boiler rooms as provided in 2 RCNY § 5-04(g)(1) shall be fire-retarded with one-hour fire resistive material.
 
    (3) All openings from any such dry cleaning establishment leading to a fire escape shall be equipped with a fireproof self-closing door or fireproof window assembly.
 
@@ -1626,7 +1626,7 @@ In connection with Article II, § 4, Subsection 53, Subdivision (a) of the Zonin
 
       (iv) All direct equipment exhausts or vents shall be provided with mesh lint arrestors which shall be kept clean unless lint traps are provided on the units, and
 
-      (v) The requirements of § 5-04(i)(3)(i) and (iii) shall not apply to those establishments created prior to the effective date of these rules.
+      (v) The requirements of 2 RCNY § 5-04(i)(3)(i) and (iii) shall not apply to those establishments created prior to the effective date of these rules.
 
 (j) Operating precautions. 
 
@@ -1786,9 +1786,9 @@ The term "contents" as used above means articles, goods, wares and merchandise, 
 
    (2) Where there are occupancies on any story or part of a story involving the storage or use below the top story of the following materials and exceeding the amount specified, and there are more than 5 persons employed at manufacturing above such occupancy, the interior stairway serving as required means of egress shall be enclosed on that story with fire resisting material from floor to under side of floor above, including any exposed stair soffits, landings and passageways; openings shall be provided with approved self-closing fire doors. Nitrocellulose in any shape or form, 10 lbs. Volatile flammable oils, 1 gal. Volatile flammable mixtures, 5 gals. Combustible mixtures, 10 gals. Paints, varnishes and lacquers, 10 gals. Upholstering or mattresses, manufacturing or repairing. Cotton, rag and paper sorting, 1 ton. Paper box manufacturing. Restaurants and lunch rooms with cooking (not including tea, coffee or similar beverages). The Board shall rule upon new occupancies as they arise and pass upon points under dispute. When more than two stories are to be segregated, as above, the entire stairway shall be enclosed in fire-resisting material where there are more than 5 persons employed at manufacturing above the first story.
 
-   (3) Required exits and enclosures of stairways in two-story factory buildings. Required Exits – in every two-story factory building erected prior to October 1, 1913, in which more than five persons are employed at manufacturing, there shall be provided from each story at least two means of exit or escape from fire remote from each other, one of which from every floor above or below grade shall lead to or open on an interior stairway which shall be enclosed, as hereinafter provided, or on an exterior enclosed stairway. The other may lead to such a stairway, or to a horizontal or grade exit, or to an exterior screened stairway, or to a fire escape conforming to § 273, Labor Law, or § 7-01(a)(2) of these rules. Except that exit door shall be a fire door, with substantial steps to the sills properly secured when sill is more than 8 inches above the floor level; and where there is no safe egress from the roof, a gooseneck ladder shall be provided from top balcony to the roof, except on the front of buildings. Unobstructed egress from the foot of the fire escape or exterior screened stairway shall be as required by § 273, Labor Law, or to open adjoining yard with egress to the street. No point on any floor of such building shall be more than one hundred and fifty (150) feet distant from such an exit.
+   (3) Required exits and enclosures of stairways in two-story factory buildings. Required Exits – in every two-story factory building erected prior to October 1, 1913, in which more than five persons are employed at manufacturing, there shall be provided from each story at least two means of exit or escape from fire remote from each other, one of which from every floor above or below grade shall lead to or open on an interior stairway which shall be enclosed, as hereinafter provided, or on an exterior enclosed stairway. The other may lead to such a stairway, or to a horizontal or grade exit, or to an exterior screened stairway, or to a fire escape conforming to § 273, Labor Law, or 2 RCNY § 7-01(a)(2). Except that exit door shall be a fire door, with substantial steps to the sills properly secured when sill is more than 8 inches above the floor level; and where there is no safe egress from the roof, a gooseneck ladder shall be provided from top balcony to the roof, except on the front of buildings. Unobstructed egress from the foot of the fire escape or exterior screened stairway shall be as required by § 273, Labor Law, or to open adjoining yard with egress to the street. No point on any floor of such building shall be more than one hundred and fifty (150) feet distant from such an exit.
 
-   (4) Enclosure of stairways. In two-story buildings where there are occupancies on any story or part of a story involving the storage or use below the top story of any of the materials exceeding the amounts specified in § 7-01(a)(2) and there are more than 5 persons employed at manufacturing above such occupancy, all interior stairways serving as required means of exit shall be enclosed from the lowest point of such stairway to the ceiling of the first floor by partitions of fire-resisting material, unless the building is provided with a wet sprinkler system, in which case such enclosure of stairways shall not be required. Such enclosures shall lead directly to a door opening outwardly to a street or road, or an open area affording unobstructed passage to a street or road. All openings in such enclosure shall be provided with fire doors equipped with self-closing devices. All reference herein to "Enclosure of Stairways" shall be considered as applying only to required stairways.
+   (4) Enclosure of stairways. In two-story buildings where there are occupancies on any story or part of a story involving the storage or use below the top story of any of the materials exceeding the amounts specified in 2 RCNY § 7-01(a)(2) and there are more than 5 persons employed at manufacturing above such occupancy, all interior stairways serving as required means of exit shall be enclosed from the lowest point of such stairway to the ceiling of the first floor by partitions of fire-resisting material, unless the building is provided with a wet sprinkler system, in which case such enclosure of stairways shall not be required. Such enclosures shall lead directly to a door opening outwardly to a street or road, or an open area affording unobstructed passage to a street or road. All openings in such enclosure shall be provided with fire doors equipped with self-closing devices. All reference herein to "Enclosure of Stairways" shall be considered as applying only to required stairways.
 
    (5) Storage of combustible material within factory stairway enclosures. In all factory buildings no articles or wares of any nature shall be kept or stored inside the limits of any stairway enclosure or unenclosed stairway, or on the landings, platforms or passageways connected therewith.
 
@@ -1818,7 +1818,7 @@ The term "contents" as used above means articles, goods, wares and merchandise, 
 
    (1) Interior stairways. All interior stairways not conforming to the requirements of the Labor Law or rules of the Board of Standards and Appeals may be retained, provided that egress to same is maintained unobstructed, halls are properly lighted, and all landings, passageways, etc., are maintained free and unobstructed. An easily operated panic bolt or other similar device may be installed at street exit door.
 
-   (2) Exterior screened stairways. Exterior screened stairways not serving as a required means of egress shall be maintained structurally safe and properly painted, exits thereto and all platforms and passageways thereof shall be maintained unobstructed, and egress from termination shall be provided for substandard fire escapes in § 7-02(a).
+   (2) Exterior screened stairways. Exterior screened stairways not serving as a required means of egress shall be maintained structurally safe and properly painted, exits thereto and all platforms and passageways thereof shall be maintained unobstructed, and egress from termination shall be provided for substandard fire escapes in 2 RCNY § 7-02(a).
 
    (3) Horizontal bridges. Horizontal bridges and party wall balconies between buildings shall be maintained structurally safe and properly painted, and access thereto and all passageways thereof shall be maintained unobstructed.
 
@@ -1959,7 +1959,9 @@ Chapter 8: Fire Alarms
 
    (1) Sources of electrical energy used in operating fire alarm signal systems shall be:
 
-      (i) Generated electric power, not exceeding a potential of 250 volts, including: (A) Central Stations
+      (i) Generated electric power, not exceeding a potential of 250 volts, including:
+
+         (A) Central Stations
 
          (B) Isolated Plants
 
@@ -2372,7 +2374,7 @@ FIRE DRILL ORGANIZATION
 
 (i) Duties of Squad Monitors. The Squad Monitors, as soon as the alarm is sounded, shall see that the employees under their charge quickly form into line, two abreast, and numbering not more than thirty to each squad. They shall see that all aisles and passageways are cleared of obstructions. Note: Chairs, stools, baskets, etc., should be pushed under or placed on top of work benches. Monitors shall proceed at the head of their respective squads to the exit assigned, and then march up or down the stairs or to other exits as directed by the Exit Guards. On reaching the sidewalk monitors shall keep their squads in order and lead them a reasonable distance from the building, so as not to cause congestion and interference with fire apparatus. When the proper signal is given they shall return to their respective floors at head of their squads. Monitors will at all times see that those under their charge conduct themselves in a respectable and orderly manner.
 
-(j) Holding of drills. Fire drills shall be held at least once each month at varied hours of the day, and all of the occupants shall participate therein simultaneously. Such drills shall conduct all occupants to a place of safety. Where dual operation interior fire alarm systems are installed as permitted under § 8-01(l) of the Interior Fire Alarm rules of the Board of Standards and Appeals, the fire drill conducted each month shall include all of the persons on the premises engaged at work for a factory, and drills shall be conducted at least twice each year in which all of the persons on the premises shall participate simultaneously.
+(j) Holding of drills. Fire drills shall be held at least once each month at varied hours of the day, and all of the occupants shall participate therein simultaneously. Such drills shall conduct all occupants to a place of safety. Where dual operation interior fire alarm systems are installed as permitted under 2 RCNY § 8-01(l) of the Interior Fire Alarm rules of the Board of Standards and Appeals, the fire drill conducted each month shall include all of the persons on the premises engaged at work for a factory, and drills shall be conducted at least twice each year in which all of the persons on the premises shall participate simultaneously.
 
 (k) Duties of owner. It shall be the duty of the owner, lessee or tenant of the building or his authorized agent or their representatives to personally observe that the "Fire Drill" is held simultaneously on every floor of the building and the participation therein of every occupant of such building. Any fire drill in which all of the occupants do not participate shall not be considered as complying with the law, except as otherwise provided in these rules. The person or persons representing the owner, lessee or tenant who supervises the fire drill at the building shall submit to an examination by the Bureau of Fire Prevention as to their experience and general fitness for such duties, and shall be so certified in writing by the Fire Commissioner.
 
@@ -2613,7 +2615,7 @@ Chapter 10: Fire Extinguishing Systems and Appliances
 
    (1) Automatic Wet Pipe Systems, in which all pipes and sprinkler heads are at all times filled with water;
 
-   (2) Automatic Dry Pipe Systems, in which the pipes and sprinkler heads are filled with air, either compressed or at atmospheric pressure, and the water supply is controlled by a Dry Pipe Valve as defined in § 10-02(11)(5) of these rules.
+   (2) Automatic Dry Pipe Systems, in which the pipes and sprinkler heads are filled with air, either compressed or at atmospheric pressure, and the water supply is controlled by a Dry Pipe Valve as defined in 2 RCNY § 10-02(11)(5).
 
    (3) Non-Automatic Systems, in which all pipes and sprinkler heads are maintained dry, equipped with a siamese fire department connection. An automatic thermostatic or pneumatic fire alarm with direct connection to Central Office of one of the operating fire alarm companies or Fire Department Headquarters shall be provided in connection with all non-automatic sprinkler systems.
 
@@ -3213,11 +3215,11 @@ Chapter 12: Fireproofing
 
 (a) Scope. These requirements apply to flameproofed combustible materials used for decorative or other purposes within special occupancy structures as defined in § 27-4266 and other places of public assembly as provided in § 27-4266.
 
-(b) General requirements. It shall be unlawful for any person to use any decorations, drape, curtain or scenery used for artistic enhancement, which is made of combustible material, unless painted or saturated with a non-combustible material or liquid or otherwise rendered safe against fire to the satisfaction of the Fire Commissioner and in accordance with the requirements of these rules, in any building of a public character, including a hotel, theatre, restaurant, public hall, department store, and a building used or intended to be used for purposes of public assembly, amusement or instruction, and a building where large numbers of persons congregate  except as exempted in § 12-02(g). After flameproofing, such processing as ironing, sewing and normal handling shall have no detrimental effects on the treatment of the material.
+(b) General requirements. It shall be unlawful for any person to use any decorations, drape, curtain or scenery used for artistic enhancement, which is made of combustible material, unless painted or saturated with a non-combustible material or liquid or otherwise rendered safe against fire to the satisfaction of the Fire Commissioner and in accordance with the requirements of these rules, in any building of a public character, including a hotel, theatre, restaurant, public hall, department store, and a building used or intended to be used for purposes of public assembly, amusement or instruction, and a building where large numbers of persons congregate  except as exempted in 2 RCNY § 12-02(g). After flameproofing, such processing as ironing, sewing and normal handling shall have no detrimental effects on the treatment of the material.
 
 (c) Approval of materials and methods used in flameproofing textiles, etc. No materials or methods for flameproofing combustible materials for use under these rules shall be used unless approved by the Board.
 
-(d) Flameproofing properties. The flameproofed material, when subjected to the test described in § 12-02(e), shall meet the following requirements as to fire-retardant prop- erties.
+(d) Flameproofing properties. The flameproofed material, when subjected to the test described in 2 RCNY § 12-02(e), shall meet the following requirements as to fire-retardant prop- erties.
 
    (1) Flashing. No flashing shall occur at any time on the length of the test specimen. A flashing due to fuzz or bad edges may be disregarded.
 
@@ -3227,7 +3229,7 @@ Chapter 12: Fireproofing
 
 (e) Tests. Tests for each specific installation of originally treated combustible material, or any re-tests thereof, shall be made by the Fire Commissioner, or in a laboratory approved by him, in accordance with the requirements of these rules.
 
-   (1) Sampling for test specimens. Samples of each variety of material and for every kind of treatment shall be subject to separate tests. Samples shall be of sufficient size to furnish test specimens provided for in § 12-02(e)(2). At least three samples shall be furnished for every 500 square feet or fraction thereof.
+   (1) Sampling for test specimens. Samples of each variety of material and for every kind of treatment shall be subject to separate tests. Samples shall be of sufficient size to furnish test specimens provided for in 2 RCNY § 12-02(e)(2). At least three samples shall be furnished for every 500 square feet or fraction thereof.
 
    (2) Test specimens. Specimens for test shall be 2 in. wide and 12 1/2 in. long and shall be numbered on one end. Test specimens shall be carefully cut from at least three different places in the material to provide a minimum of three test specimens from each material for testing.
 
@@ -3237,11 +3239,11 @@ Chapter 12: Fireproofing
 
    (5) Apparatus for flame test. The apparatus shall consist of a ring stand 20 inches high with an adjustable clamp housed in a metal shield 12 inches square and 20 inches high, open in front and at both ends and a Bunsen or Tirrill gas burner which shall have a tube of 3/8-inch inside diameter.
 
-   (6) Flame test. A whipped test specimen shall be taken from the closed container required in § 12-02(e)(4) and suspended vertically with one-half inch of the numbered end in a clip held in a clamp on the ring stand so that the test specimen shall hang vertically within and near the center of the metal shield required in § 12-02(e)(5). The lower end of the test specimen shall be three-quarters of an inch above the top of the gas burner on which the air supply is shut off completely and adjusted to give a luminous flame 1 1/2 inches long. The flame shall be applied for 12 seconds, then withdrawn. The result of the test for duration of flame and duration of glow of the three test specimens shall each be averaged and recorded. Flashing, if any, shall be noted.
+   (6) Flame test. A whipped test specimen shall be taken from the closed container required in 2 RCNY § 12-02(e)(4) and suspended vertically with one-half inch of the numbered end in a clip held in a clamp on the ring stand so that the test specimen shall hang vertically within and near the center of the metal shield required in 2 RCNY § 12-02(e)(5). The lower end of the test specimen shall be three-quarters of an inch above the top of the gas burner on which the air supply is shut off completely and adjusted to give a luminous flame 1 1/2 inches long. The flame shall be applied for 12 seconds, then withdrawn. The result of the test for duration of flame and duration of glow of the three test specimens shall each be averaged and recorded. Flashing, if any, shall be noted.
 
-(f) Approval and certification. The approval of materials that have been flameproofed, as provided in § 12-02(a) and tested as required in § 12-02(e) with flameproofing properties as given in § 12-02(d), shall be limited to one year. An affidavit by the person, firm or corporation flameproofing the combustible materials shall be filed with the Fire Commissioner stating that the flameproofing compound and method complies with the approval of the Board, with calendar number thereof, and including the date of treatment and warranted period of effectiveness of the flameproofing. The Fire Commissioner may require check tests at any time. Upon the termination of the approval, as provided for in § 12-02(f), a retest of the flameproofed combustible materials shall conform to the following:
+(f) Approval and certification. The approval of materials that have been flameproofed, as provided in 2 RCNY § 12-02(a) and tested as required in 2 RCNY § 12-02(e) with flameproofing properties as given in 2 RCNY § 12-02(d), shall be limited to one year. An affidavit by the person, firm or corporation flameproofing the combustible materials shall be filed with the Fire Commissioner stating that the flameproofing compound and method complies with the approval of the Board, with calendar number thereof, and including the date of treatment and warranted period of effectiveness of the flameproofing. The Fire Commissioner may require check tests at any time. Upon the termination of the approval, as provided for in 2 RCNY § 12-02(f), a retest of the flameproofed combustible materials shall conform to the following:
 
-   Flameproofed materials shall withstand a test of at least 400°F., as measured by a pyrometer, or other acceptable method, for approximately one minute's duration by means of an open flame. Under such test, the flameproofed material shall not flash or support combustion and shall not glow outside of the char if a char is set up by the open flame. Material found not to conform to these requirements shall be removed and replaced with materials conforming to the requirements of § 12-02(d).
+   Flameproofed materials shall withstand a test of at least 400°F., as measured by a pyrometer, or other acceptable method, for approximately one minute's duration by means of an open flame. Under such test, the flameproofed material shall not flash or support combustion and shall not glow outside of the char if a char is set up by the open flame. Material found not to conform to these requirements shall be removed and replaced with materials conforming to the requirements of 2 RCNY § 12-02(d).
 
 (g) Exemption. These rules shall not be construed to apply to merchandise for sale or displayed for sale, to guest rooms in hotels, to offices, to works of art in museums, nor to churches or places of religious worship.
 
@@ -3447,7 +3449,7 @@ Chapter 16: Oil Burning Equipment
 
    Industrial installations. "Industrial installations" shall mean oil burner installations for industrial purposes under same requirements as for Commercial Installations.
 
-   Oil. "Oil" shall mean any liquid mixture, substance or compound derived from petroleum, including kerosene and fuel oil as defined in § 26-47.0 of the  Administrative Code and § 16-01(c).
+   Oil. "Oil" shall mean any liquid mixture, substance or compound derived from petroleum, including kerosene and fuel oil as defined in § 26-47.0 of the  Administrative Code and 2 RCNY § 16-01(c).
 
    Oil burning equipment. "Oil burning equipment" shall mean any device including burners, oil burning heaters, internal combustion engines used for heating; power or other purposes designed for and/or using oil as defined in these rules.
 
@@ -3739,7 +3741,7 @@ Two hundred and seventy-five (275) gallon tanks shall be located so as not to in
 
    (4) A remote control shall be provided whereby the flow of oil to any burner can be stopped, and such remote control shall be located outside the entrance to the room in which the burner is located and as close to such entrance as practical, except when outside location is impracticable such control may be located immediately inside the room in which the burner is located if such location is accessible at all times. All such controls shall be legibly labeled "Remote Control for Oil Burner." On auxiliary storage tanks used with manually operated burners such remote control may be installed on feed lines between tank and burner.
 
-   (5) Except as provided by § 16-01(d)(2) of these rules for approved combination burner and storage container devices, pressure in storage tank or container for the purpose of discharging oil is prohibited.
+   (5) Except as provided by 2 RCNY § 16-01(d)(2) for approved combination burner and storage container devices, pressure in storage tank or container for the purpose of discharging oil is prohibited.
 
    (6) In systems where either steam or air is used for atomizing the oil, the oil and the atomizing supply shall be interlocked, so that in case of the interruption of the atomizing supply, the supply of oil will immediately be cut off. Except that this requirement shall not apply to air and oil supply units directly connected to a common driver.
 
@@ -3761,7 +3763,7 @@ Two hundred and seventy-five (275) gallon tanks shall be located so as not to in
 
       (iii) No certificate of approval shall be issued by the Commissioner of Buildings and no fuel oil storage permit shall be issued by the Fire Commissioner until the installer has furnished a certified statement to the Commissioner of Buildings that the installation complies with all requirements, and that the CO2 content of the flue gas by actual test of the completed installation is not less than 8 percent without smoking.
 
-   (2) Plans to be filed where structural considerations are involved. The installer shall file with the Commissioner of Buildings plans showing the size and location of all storage tanks having a capacity greater than 275 gallons where such tanks are to be installed either inside of buildings in or below the lowest floor level or outside of buildings below ground. Plans, however, shall be filed where 275 gallon tanks are to be buried and for all multiple dwellings and for all places of public assembly. All such plans shall show compliance with all structural requirements and shall show all salient features of the installation. Plans shall also be approved by the New York City Transit Authority within the limitation in § 16-01(f)(5)(i) for all tanks located in or outside of buildings along the line of subways under its jurisdiction.
+   (2) Plans to be filed where structural considerations are involved. The installer shall file with the Commissioner of Buildings plans showing the size and location of all storage tanks having a capacity greater than 275 gallons where such tanks are to be installed either inside of buildings in or below the lowest floor level or outside of buildings below ground. Plans, however, shall be filed where 275 gallon tanks are to be buried and for all multiple dwellings and for all places of public assembly. All such plans shall show compliance with all structural requirements and shall show all salient features of the installation. Plans shall also be approved by the New York City Transit Authority within the limitation in 2 RCNY § 16-01(f)(5)(i) for all tanks located in or outside of buildings along the line of subways under its jurisdiction.
 
    (3) Inspection and tests of installations of storage tanks and piping.
 
@@ -3781,9 +3783,9 @@ Two hundred and seventy-five (275) gallon tanks shall be located so as not to in
 
       (v) All piping conveying oil from a transfer pump to a burner subjected to a pressure in excess of 50 lbs. per sq. inch shall be tested for a pressure of 1 1/2 times the working pressure.
 
-   (4) Fee for permit and test of storage tanks and piping. When application for permit for the storage of fuel oil is made, as provided for in § 16-01(j)(1), a fee covering the permit shall be paid to the Fire Department in accordance with the schedule given in the Administrative Code.
+   (4) Fee for permit and test of storage tanks and piping. When application for permit for the storage of fuel oil is made, as provided for in 2 RCNY § 16-01(j)(1), a fee covering the permit shall be paid to the Fire Department in accordance with the schedule given in the Administrative Code.
 
-   (5) Except as otherwise provided for in § 16-01(k), oil burning installations shall be inspected as required by the Commissioner of Buildings and if it is determined that the installation complies with the requirements of the Administrative Code, the rules of the Board of Standards and Appeals and all laws and regulations applicable thereto, a certificate of approval shall be issued by the Commissioner of Buildings.
+   (5) Except as otherwise provided for in 2 RCNY § 16-01(k), oil burning installations shall be inspected as required by the Commissioner of Buildings and if it is determined that the installation complies with the requirements of the Administrative Code, the rules of the Board of Standards and Appeals and all laws and regulations applicable thereto, a certificate of approval shall be issued by the Commissioner of Buildings.
 
 (k) Inspection of installations with not more than six (6) gallons' storage capacity. All installations of burners with not more than six (6) gallons' storage capacity except where such installations are made in dwellings shall be reported by installer to the Fire Commissioner giving location of building in which installation is made, name and address of owner and/or occupant name and address of installer and the make and approval number of burner. Such reported installations shall be inspected as required by the Administrative Code.
 
@@ -3817,11 +3819,11 @@ Two hundred and seventy-five (275) gallon tanks shall be located so as not to in
 
    (1) Cards giving complete instructions for the care and operation of the system shall be permanently fixed near the apparatus in readable condition. Where burners or oil-burning heaters designed for use with storage of not more than six (6) gallons' capacity are installed, there shall also be posted a copy of the specifications under which it was approved by the Board of Standards and Appeals in addition to the instruction card herein provided for.
 
-   (2) Except as provided below in the next paragraph every heating system in which the oil is preheated or systems not fully automatic when operating shall be under the direct supervision of a person holding a certificate of fitness issued by the Fire Commissioner and who shall be in the building at all times while the burners are in operation, except, that a person holding a certificate of qualification as a licensed engineer or as a licensed fireman issued after May 1, 1941, under the provisions of § C 26-213.0 of the Administrative Building Code, or a person with such license issued prior to May 1, 1941, carrying an endorsement to reading "Oil Burners" shall not be required to obtain such certificate. The holder of a certificate of fitness, licensed engineer or licensed fireman shall be present in the boiler room when there is a manual closing or opening of valves or when a boiler is put into operation including the start of operation after repairs or adjustments are made. The provisions of § 16-01(o)(2) shall not apply to heating systems in residential occupancies where the building or the building units are contiguous on a site or plot under common ownership, and when such systems are equipped with approved, fully automatic, self-checking electrical safety controls which will shut down the system or systems within five (5) seconds following oil flame failure. The collective number of such heating systems, while in operation, shall be under the care and supervision of one person holding a certificate of fitness issued by the Fire Commissioner and who is regularly employed on full time, and resides on the premises, and whose employment has as one of its purposes the operating and maintenance of the oil burner, except that a person holding a certificate of qualification as a licensed engineer or as a licensed fireman issued after May 1, 1941 under the provision of § C26-213.0 of the Administrative Building Code or a person with such license issued prior to May 1, 1941 carrying an endorsement reading "Oil Burner, shall not be required to obtain such certificate. The safety controls shall be reset for burner operation only by the person holding the certificate of fitness or license referred to in this section, or by an installer holding a certificate of license issued by the Commissioner of Buildings for the installation of such oil burning equipment."
+   (2) Except as provided below in the next paragraph every heating system in which the oil is preheated or systems not fully automatic when operating shall be under the direct supervision of a person holding a certificate of fitness issued by the Fire Commissioner and who shall be in the building at all times while the burners are in operation, except, that a person holding a certificate of qualification as a licensed engineer or as a licensed fireman issued after May 1, 1941, under the provisions of § C 26-213.0 of the Administrative Building Code, or a person with such license issued prior to May 1, 1941, carrying an endorsement to reading "Oil Burners" shall not be required to obtain such certificate. The holder of a certificate of fitness, licensed engineer or licensed fireman shall be present in the boiler room when there is a manual closing or opening of valves or when a boiler is put into operation including the start of operation after repairs or adjustments are made. The provisions of 2 RCNY § 16-01(o)(2) shall not apply to heating systems in residential occupancies where the building or the building units are contiguous on a site or plot under common ownership, and when such systems are equipped with approved, fully automatic, self-checking electrical safety controls which will shut down the system or systems within five (5) seconds following oil flame failure. The collective number of such heating systems, while in operation, shall be under the care and supervision of one person holding a certificate of fitness issued by the Fire Commissioner and who is regularly employed on full time, and resides on the premises, and whose employment has as one of its purposes the operating and maintenance of the oil burner, except that a person holding a certificate of qualification as a licensed engineer or as a licensed fireman issued after May 1, 1941 under the provision of § C26-213.0 of the Administrative Building Code or a person with such license issued prior to May 1, 1941 carrying an endorsement reading "Oil Burner, shall not be required to obtain such certificate. The safety controls shall be reset for burner operation only by the person holding the certificate of fitness or license referred to in this section, or by an installer holding a certificate of license issued by the Commissioner of Buildings for the installation of such oil burning equipment."
 
 (p) Modification. When, for any reason, it may be impracticable to comply strictly with the foregoing rules, the administrative official having jurisdiction shall have power to accept substitute methods provided the spirit and substance of these rules shall be complied with.
 
-(q) Existing installations. Oil burner systems heretofore installed and duly approved as complying with all laws and rules then applicable thereto shall be deemed acceptable, provided there have been no subsequent alterations to the apparatus, except as to § 16-01(o)(2).
+(q) Existing installations. Oil burner systems heretofore installed and duly approved as complying with all laws and rules then applicable thereto shall be deemed acceptable, provided there have been no subsequent alterations to the apparatus, except as to 2 RCNY § 16-01(o)(2).
 
 
 
@@ -4045,7 +4047,7 @@ Chapter 18: Paints, Varnishes, Lacquers and Other Flammable Surface Coatings
 
       (iv) Mixing or thinning of coating materials shall be conducted in a storage building or storage room, except that containers of total capacity not exceeding ten gallons may be opened and their contents mixed in the spray room or room in which booths are located while the air exhaust system is operating.
 
-      (v) Working supplies sufficient for not more than one day's use but not exceeding twenty gallons to each booth, nor a total of hundred gallons, may be kept in the spray room or room in which spray booths are located; covers of containers must be kept thereon when such containers are not actually in use. This amount is in addition to the amount allowed in § 18-01(f)(1)(vii).
+      (v) Working supplies sufficient for not more than one day's use but not exceeding twenty gallons to each booth, nor a total of hundred gallons, may be kept in the spray room or room in which spray booths are located; covers of containers must be kept thereon when such containers are not actually in use. This amount is in addition to the amount allowed in 2 RCNY § 18-01(f)(1)(vii).
 
       (vi) Gravity feed material containers for supplying spray guns shall not exceed ten gallons in capacity and shall be supported by wire cables or metal brackets having a factor of safety of four when filled with the heaviest spraying materials used.
 
@@ -4053,9 +4055,9 @@ Chapter 18: Paints, Varnishes, Lacquers and Other Flammable Surface Coatings
 
       (viii) The installation of all electrical wiring, switches, lighting and all other electrical equipment, and the provisions of these rules against carrying matches or smoking and prohibiting flame or spark-producing devices, shall also apply to storage or mixing rooms.
 
-   (2) Storage of materials where nitro cellulose products are manufactured. Storage of spraying, dipping and immersing materials shall be as provided in § 18-01(f)(1)(i) through (iii), but in a building in which nitro cellulose products are manufactured, stored or kept the amount shall be not over twenty-five (25) gallons as per § 27-4200, subdivision (h) of the Administrative Code.
+   (2) Storage of materials where nitro cellulose products are manufactured. Storage of spraying, dipping and immersing materials shall be as provided in 2 RCNY § 18-01(f)(1)(i) through (iii), but in a building in which nitro cellulose products are manufactured, stored or kept the amount shall be not over twenty-five (25) gallons as per § 27-4200, subdivision (h) of the Administrative Code.
 
-   (3) Sprinklers. Sprinkler heads shall be provided in all spray, dip or immersing spaces and storage rooms and shall be installed in accordance with the Sprinkler rules of the Board of Standards and Appeals § 10-02, except in non-sprinklered buildings where sprinkler connection may be made to the house water supply, provided the size of the house water supply line is adequate for the number of sprinkler heads.
+   (3) Sprinklers. Sprinkler heads shall be provided in all spray, dip or immersing spaces and storage rooms and shall be installed in accordance with the Sprinkler rules of the Board of Standards and Appeals (2 RCNY § 10-02), except in non-sprinklered buildings where sprinkler connection may be made to the house water supply, provided the size of the house water supply line is adequate for the number of sprinkler heads.
 
    (4) Maintenance of sprinkler heads. Sprinkler heads in spraying, dipping and immersing spaces shall be cleaned at least once a week under the supervision of the person holding the certificate of fitness and a coating of light grease or vaseline shall be applied after each cleaning to prevent the formation of a hard deposit and render the sprinkler useless in case of fire. The use of paper bags or other materials about sprinkler heads is prohibited.
 
@@ -4081,48 +4083,48 @@ Chapter 18: Paints, Varnishes, Lacquers and Other Flammable Surface Coatings
 .. list-table::
     :header-rows: 1
 
-    * - § 18-01(a)(3)(iv)
+    * - 2 RCNY § 18-01(a)(3)(iv)
       - Heating of Rooms.
-    * - § 18-01(c)(1)
+    * - 2 RCNY § 18-01(c)(1)
       - Air Exhaust System.
-    * - § 18-01(c)(2)
+    * - 2 RCNY § 18-01(c)(2)
       - Air Supply and Mixing.
-    * - § 18-01(d)
+    * - 2 RCNY § 18-01(d)
       - Specifications for Spray Booths, Spray Rooms,Dip and Immersing Rooms, New Drying Equipment, and Material Storage Rooms.
-    * - § 18-01(d)(1)(iii)
+    * - 2 RCNY § 18-01(d)(1)(iii)
       - Surfacing of Booths.
-    * - § 18-01(d)(1)(v)
+    * - 2 RCNY § 18-01(d)(1)(v)
       - Surfacing of Metal in Booths.
-    * - § 18-01(d)(3)(ii)
+    * - 2 RCNY § 18-01(d)(3)(ii)
       - Maintenance of Ducts.
-    * - § 18-01(d)(4)(vi)
+    * - 2 RCNY § 18-01(d)(4)(vi)
       - Method of Induced Draft.
-    * - § 18-01(d)(5)(i)
+    * - 2 RCNY § 18-01(d)(5)(i)
       - Electrical Equipment.
-    * - § 18-01(d)(5)(ii)
+    * - 2 RCNY § 18-01(d)(5)(ii)
       - Electrical Lighting.
-    * - § 18-01(e)(1)
+    * - 2 RCNY § 18-01(e)(1)
       - Certificate of Fitness.
-    * - § 18-01(e)(2)
+    * - 2 RCNY § 18-01(e)(2)
       - Smoking, Matches, etc.
-    * - § 18-01(e)(6)
+    * - 2 RCNY § 18-01(e)(6)
       - Maintenance of Equipment.
-    * - § 18-01(e)(7)
+    * - 2 RCNY § 18-01(e)(7)
       - Cleaning Implements.
-    * - § 18-01(e)(9)
+    * - 2 RCNY § 18-01(e)(9)
       - Fire Appliances.
-    * - § 18-01(e)(10)
+    * - 2 RCNY § 18-01(e)(10)
       - Accumulation and disposal of waste materials.
-    * - § 18-01(e)(12)
+    * - 2 RCNY § 18-01(e)(12)
       - Motor vehicles in booths or rooms.
-    * - § 18-01(e)(13)
+    * - 2 RCNY § 18-01(e)(13)
       - Spraying Elevator Cabs.
-    * - § 18-01(f)
+    * - 2 RCNY § 18-01(f)
       - Material, Storage and Mixing.
-    * - § 18-01(g)
+    * - 2 RCNY § 18-01(g)
       - General Requirements.
-    * - § 18-01(h)
-      - Section 18-01(f)(1), (2), (3) and (4) may not be applied in fireproof buildings equipped with an approved existing automatic sprinkler system where the general conditions of cleanliness are properly maintained at all times.
+    * - 2 RCNY § 18-01(h)
+      - 2 RCNY § 18-01(f)(1), (2), (3) and (4) may not be applied in fireproof buildings equipped with an approved existing automatic sprinkler system where the general conditions of cleanliness are properly maintained at all times.
 ~
 
  
@@ -4209,7 +4211,7 @@ Chapter 21: Refrigeration Systems
 
       (i) The system shall be completely purged of all Freon and the lubricating oil replaced with fresh oil suitable for use in refrigeration.
 
-      (ii) The system shall be thoroughly cleansed, dehydrated and tested for tightness and leaks by pressure immediately after methyl chloride is added. After the system has been purged as provided in § 21-01(c)(3)(i) and before methyl chloride is added, special tubes shall be attached on the feed side of the line, containing either silica gel (high test solid material specifically designed for refrigerant drying), activated alumina or suitable drying agent to insure thorough dryness of the refrigerant.
+      (ii) The system shall be thoroughly cleansed, dehydrated and tested for tightness and leaks by pressure immediately after methyl chloride is added. After the system has been purged as provided in 2 RCNY § 21-01(c)(3)(i) and before methyl chloride is added, special tubes shall be attached on the feed side of the line, containing either silica gel (high test solid material specifically designed for refrigerant drying), activated alumina or suitable drying agent to insure thorough dryness of the refrigerant.
 
       (iii) Expansion valves shall be reset or replaced as required.
 
@@ -4255,7 +4257,7 @@ Chapter 23: Smoking
 
 (a) Permit.
 
-   (1) Prohibition. No person shall smoke, or carry a lighted cigar or cigarette in any factory as defined in Article 1, § 2, of the State Labor Law, nor in any portion of a factory, within the City of New York, except in such protected portions or special classes of occupancies as are specified in § 23-01(b) of these rules, and then only after the issuance of a permit by the Fire Commissioner. It shall be the joint and several duty of the owner and of the lessee or lessees of the building containing such factory or factories to cause to be posted in each and every entrance hall, stairhall or room throughout the building, as well as in every elevator-car, in English, and also in such other language or languages as the Fire Commissioner shall direct, a notice of such prohibition, and the penalty for its violation.
+   (1) Prohibition. No person shall smoke, or carry a lighted cigar or cigarette in any factory as defined in Article 1, § 2, of the State Labor Law, nor in any portion of a factory, within the City of New York, except in such protected portions or special classes of occupancies as are specified in 2 RCNY § 23-01(b), and then only after the issuance of a permit by the Fire Commissioner. It shall be the joint and several duty of the owner and of the lessee or lessees of the building containing such factory or factories to cause to be posted in each and every entrance hall, stairhall or room throughout the building, as well as in every elevator-car, in English, and also in such other language or languages as the Fire Commissioner shall direct, a notice of such prohibition, and the penalty for its violation.
 
    (2) Application. Application for such permit shall be made only by the owner of the building on suitable blank forms to be furnished by the Fire Commissioner.
 
@@ -4318,7 +4320,7 @@ Chapter 24: Veneering Materials
 
    (2) Veneer materials shall not be credited with contributing to the total wall thickness, the stress resisting sections, or to the fire resistive value of the composite construction unless specifically approved by the Board for any given combination of materials.
 
-   (3) Veneer materials shall not be used to support vertical loads other than the veneering material above unless permitted otherwise as provided for in § 24-01(b)3(3). Where openings occur the veneer shall be supported by substantial lintels of incombustible materials.
+   (3) Veneer materials shall not be used to support vertical loads other than the veneering material above unless permitted otherwise as provided for in 2 RCNY § 24-01(b)3(3). Where openings occur the veneer shall be supported by substantial lintels of incombustible materials.
 
    (4) All joints between masonry veneer materials shall be filled flush with mortar or approved mastic cement. Around wall openings the joints between the veneer and backing material shall be filled flush with similar materials. Gypsum shall not be used in veneer exposed to the weather except for temporary tacking and supplementary to the anchorage and cement mortar requirements set forth in these rules.
 
@@ -4911,7 +4913,7 @@ Figure 9.
 
       Class 4       Shop and Field – For arc welding in all positions of sheet steels or strip steels or both, including cold-formed members, 0.1345 inches (3.416 mm), 10 gauge or less in thickness. Such welding may involve connections of sheet steel or strip steel, or both, to thicker supporting structural members.
 
-   (4) Qualification requirements. The Commissioner of Buildings shall promulgate qualification requirements pursuant to § 26-134 of the Administrative Code. Pending promulgation of said requirements, § 25-01(f)(4) of these rules may be applicable.
+   (4) Qualification requirements. The Commissioner of Buildings shall promulgate qualification requirements pursuant to § 26-134 of the Administrative Code. Pending promulgation of said requirements, 2 RCNY § 25-01(f)(4) may be applicable.
 
    (5) Re-test. In case a welder fails to meet the requirements of one or more test welds, a re-test may be allowed under the following conditions:
 
@@ -5026,9 +5028,9 @@ Chapter 26: Liquefiers and Converters
 
    (1) Test reports for liquefiers, other than redesigned portable cylinders, shall show all information called for in paragraph 23, I. C. C. Specification 3A, except as follows:
 
-      (i) "Marks stamped into shoulder of cylinder." This shall be as per § 26-01(k) "Marking" hereinafter specified. Actual markings shall be shown on test report.
+      (i) "Marks stamped into shoulder of cylinder." This shall be as per 2 RCNY § 26-01(k) "Marking" hereinafter specified. Actual markings shall be shown on test report.
 
-      (ii) "Record of hydrostatic tests." This shall be as per § 26-01(i) "Testing" hereinafter specified.
+      (ii) "Record of hydrostatic tests." This shall be as per 2 RCNY § 26-01(i) "Testing" hereinafter specified.
 
       (iii) Statement shall be furnished that liquefier covered in said test report comply with these rules, and Certificate of Approval Number for the type of liquefier covered in said test report.
 
@@ -5062,7 +5064,7 @@ Chapter 26: Liquefiers and Converters
 
       (xiv) A statement that after assembly each liquefier was given an open hydrostatic test to 3,000 lbs. and this pressure was held for at least two minutes without showing a pressure recession of more than 75 lbs.
 
-      (xv) The liquefier was marked as follows: (See § 26-01(k) "Marking" for requirements).
+      (xv) The liquefier was marked as follows: (See 2 RCNY § 26-01(k) "Marking" for requirements).
 
       (xvi) A statement that these liquefiers conform to these rules, and that the type of liquefier had been approved under New York City Fire Department Certificate of Approval Number...
 
@@ -5142,7 +5144,7 @@ Chapter 26: Liquefiers and Converters
 
 
 
-   (2) The thread of the device shall be designed with a factor of safety of not less than 4 at a test pressure of 3,000 lbs. per sq. in. and the wall thickness after cutting thread shall not be less than that specified in § 26-01(e)(1).
+   (2) The thread of the device shall be designed with a factor of safety of not less than 4 at a test pressure of 3,000 lbs. per sq. in. and the wall thickness after cutting thread shall not be less than that specified in 2 RCNY § 26-01(e)(1).
 
 (f) Conversion of portable cylinders for liquefier use. Seamless portable cylinders made to I. C. C. Specification 3 or 3A for oxygen or carbon dioxide and originally designed and used for the transportation of compressed or liquefied gases shall be acceptable for alteration or conversion into carbon dioxide liquefiers only under the following conditions:
 
@@ -5178,7 +5180,7 @@ TABLE I.
 
 
 
-   (5) No cylinders designed and used for a portable container shall have the thickness of the side wall reduced by any cutting of threads in the process of conversion into a liquefier, except as specified in § 26-01(e)(2).
+   (5) No cylinders designed and used for a portable container shall have the thickness of the side wall reduced by any cutting of threads in the process of conversion into a liquefier, except as specified in 2 RCNY § 26-01(e)(2).
 
    (6) If the closure is formed by using a portion of the former bottom as a seat, this shall only be permissible if the dimensions of the liquefier conform to those shown in Tables II, III and IV.
 

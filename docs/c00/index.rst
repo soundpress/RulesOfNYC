@@ -676,7 +676,7 @@ Table 2. Volume of Coarse Lightweight Aggregate per Cubic Yard of Concrete***
 
    (4) Necessary for field testing and inspection:
 
-      (i) Thermometer, 0 degrees-200 degrees F.
+      (i) Thermometer, 0 degrees - 200 degrees F.
 
       (ii) Scale, 100 lbs. capacity.
 
@@ -1420,7 +1420,7 @@ The communication and alarm system, acceptable to the Commissioner of Buildings,
 *§ 15-05 Filing and Approval of a Fire Safety Plan for Buildings Containing Transient Occupants Such as Hotels and Motels.* ::
 
 
-(a) Number of occupants. These rules and regulations shall apply to buildings or parts thereof classified in Article 11 of Subchapter 3 of Chapter 1 to Title 27 of the Administrative Code of the City of New York as occupancy group J-l, J-2 occupied or arranged to be occupied in whole or part by a transient occupancy. For the purpose of these rules and regulations, buildings or parts thereof which contain a total of more than 30 sleeping rooms or can accommodate a total of more than 30 lodgers, or contains more than 15 sleeping rooms or can accommodate more than 15 lodgers above the first or ground story, used for living or sleeping purposes by the same person or persons for a period of ninety days or less shall be considered as being occupied by a transient occupancy. Such buildings shall include but are not limited to buildings occupied as hotels, motels, lodging houses, dormitories and single room occupancies. All such buildings occupied or arranged to be occupied in whole or part by a transient occupancy, regardless of the number of sleeping rooms or accommodations, over 75 feet in height, shall comply with these rules and regulations. The owner or other person having charge of such building shall file a Fire Safety Plan with the Fire Department indicating compliance with § 15-05(b) within 30 days after the effective date of these rules and regulations. The owner or other person shall resubmit the revised Fire Safety Plan for approval within 30 days after receiving comments from the Fire Department. Upon approval, the Fire Safety Plan shall be immediately put into effect. The owner or other person having charge of such building shall comply with 1 RCNY §§ 15-05(c)(1) to 15-04(c)(5) within 30 days of the effective date of these rules and regulations.
+(a) Number of occupants. These rules and regulations shall apply to buildings or parts thereof classified in Article 11 of Subchapter 3 of Chapter 1 to Title 27 of the Administrative Code of the City of New York as occupancy group J-l, J-2 occupied or arranged to be occupied in whole or part by a transient occupancy. For the purpose of these rules and regulations, buildings or parts thereof which contain a total of more than 30 sleeping rooms or can accommodate a total of more than 30 lodgers, or contains more than 15 sleeping rooms or can accommodate more than 15 lodgers above the first or ground story, used for living or sleeping purposes by the same person or persons for a period of ninety days or less shall be considered as being occupied by a transient occupancy. Such buildings shall include but are not limited to buildings occupied as hotels, motels, lodging houses, dormitories and single room occupancies. All such buildings occupied or arranged to be occupied in whole or part by a transient occupancy, regardless of the number of sleeping rooms or accommodations, over 75 feet in height, shall comply with these rules and regulations. The owner or other person having charge of such building shall file a Fire Safety Plan with the Fire Department indicating compliance with 1 RCNY § 15-05(b) within 30 days after the effective date of these rules and regulations. The owner or other person shall resubmit the revised Fire Safety Plan for approval within 30 days after receiving comments from the Fire Department. Upon approval, the Fire Safety Plan shall be immediately put into effect. The owner or other person having charge of such building shall comply with 1 RCNY §§ 15-05(c)(1) to 15-04(c)(5) within 30 days of the effective date of these rules and regulations.
 
 (b) Details of fire safety plan. 
 
@@ -1520,7 +1520,7 @@ The communication and alarm system, acceptable to the Commissioner of Buildings,
 
    (7) Electric meters. Where direct current (DC) electric meters of public utility companies are present or installed on partitions of public halls the fire-retarding shall continue unbroken behind the meters or the meters shall be mounted on a heavy slate back or non-magnetic fireproof equivalent, such as transite, asbestos board, etc., against which fire-retarding finished up tightly.
 
-   (8) Partitions in Class B converted dwellings. Where fire retarding is required in any Class B converted dwelling referred to in 1 RCNY § 15-07(a)(7), both sides of all enclosure partitions of entrance halls, stair halls and public halls throughout such building shall be fire-retarded in accordance with the method set forth in §§ 15-07(b)(1) or (b)(2) or said partitions shall be fire-retarded in accordance with the provisions of 1 RCNY §§ 15-07(b)(3) or (b)(4).
+   (8) Partitions in Class B converted dwellings. Where fire retarding is required in any Class B converted dwelling referred to in 1 RCNY § 15-07(a)(7), both sides of all enclosure partitions of entrance halls, stair halls and public halls throughout such building shall be fire-retarded in accordance with the method set forth in 1 RCNY §§ 15-07(b)(1) or (b)(2) or said partitions shall be fire-retarded in accordance with the provisions of 1 RCNY §§ 15-07(b)(3) or (b)(4).
 
    (9) Partitions in altered old law tenements. In any old law tenement where the occupancy is increased on any story, the enclosing partitions of any entrance hall, stair hall or public hall on the story where the occupancy has been increased, shall be fire-retarded on both sides. Such requirements shall apply only to the walls of the entrance hall, stair hall or public hall adjoining the altered apartment. The enclosing partitions of such halls other than those adjoining the altered apartment and the partitions on any story where the occupancy has not been increased, shall be fire-retarded on the hall side. The method of fire-retarding shall be as set forth in 1 RCNY §§ 15-07(b)(1) or (b)(2), or said partitions shall be fire-retarded in accordance with the provisions of 1 RCNY §§ 15-07(b)(3) or (b)(4).
 
@@ -1570,7 +1570,7 @@ The communication and alarm system, acceptable to the Commissioner of Buildings,
 
 (a) Intent. The fire-retarding rules herewith set forth are approved by the Department of Buildings for the existing multiple dwellings where the ceilings of the cellar or other lowest story is required, by § 85 and § 240, subdivision 3, Multiple Dwelling Law, and by § 27-2044, Housing Maintenance Code, to be fire-retarded in a manner approved by the Department of Buildings.
 
-   (1) It is the intent of the law to provide a continuous fire-retarded covering over the entire ceiling of the cellar, or other lowest story, so as to prevent fire communicating with upper stories of a multiple dwelling. Where there is a space less than four feet six inches (4'-6") in height from the ground or floor level to the underside of the first tier of beams, such space shall be considered as an "air space" and not as a cellar. However, when such space opens to a cellar where fire-retarding of the ceiling is required, then such space shall be separated from the cellar with a partition constructed of incombustible material in which there is provided self-closing door and assembly having a fire-resistive rating of at least one hour. Where the ceiling of the cellar or other lowest story is required to be fire-retarded, all openings in such ceilings for stairways not located directly under a main stair, also openings in ceiling such as pipe shafts, vent shafts, unenclosed dumbwaiter shafts, disused flues, etc., shall be properly closed. (Private stairs within duplex apartments extending into cellar or basement are not required to be enclosed.) New partitions erected to enclose existing stair referred to in the preceding paragraph shall be of incombustible materials. Existing partitions enclosing any such stair will be acceptable where same are of incombustible materials or where same are fire-retarded on both sides in accordance with the methods set forth in 1 RCNY § 15-07(b)(1) or (b)(2) and with materials conforming with the requirement of 1 RCBT § 15-07(i). Door openings in such enclosure partitions shall be equipped with self-closing protective assemblies having fire-resistive ratings of at least one hour. When existing shafts, including dumbwaiter shafts, extend below the ceiling a distance less than one-half (1/2) the height of the cellar, such shafts shall be considered as being part of the cellar ceiling and the enclosures of said shafts shall be fire-retarded in the same manner as required for cellar ceilings. All existing shafts, including dumbwaiter shafts, which extend below the ceiling a distance more than one-half (1/2) the height of the cellar shall be enclosed with incombustible materials. All shafts referred to in this paragraph shall have adequate cleanout at base consisting of fire-proof self-closing door and assembly having a fire-resistive rating of at least one hour. Where new partitions or enclosures are erected in a cellar they shall be constructed of incombustible materials.
+   (1) It is the intent of the law to provide a continuous fire-retarded covering over the entire ceiling of the cellar, or other lowest story, so as to prevent fire communicating with upper stories of a multiple dwelling. Where there is a space less than four feet six inches (4'-6") in height from the ground or floor level to the underside of the first tier of beams, such space shall be considered as an "air space" and not as a cellar. However, when such space opens to a cellar where fire-retarding of the ceiling is required, then such space shall be separated from the cellar with a partition constructed of incombustible material in which there is provided self-closing door and assembly having a fire-resistive rating of at least one hour. Where the ceiling of the cellar or other lowest story is required to be fire-retarded, all openings in such ceilings for stairways not located directly under a main stair, also openings in ceiling such as pipe shafts, vent shafts, unenclosed dumbwaiter shafts, disused flues, etc., shall be properly closed. (Private stairs within duplex apartments extending into cellar or basement are not required to be enclosed.) New partitions erected to enclose existing stair referred to in the preceding paragraph shall be of incombustible materials. Existing partitions enclosing any such stair will be acceptable where same are of incombustible materials or where same are fire-retarded on both sides in accordance with the methods set forth in 1 RCNY § 15-07(b)(1) or (b)(2) and with materials conforming with the requirement of 1 RCNY § 15-07(i). Door openings in such enclosure partitions shall be equipped with self-closing protective assemblies having fire-resistive ratings of at least one hour. When existing shafts, including dumbwaiter shafts, extend below the ceiling a distance less than one-half (1/2) the height of the cellar, such shafts shall be considered as being part of the cellar ceiling and the enclosures of said shafts shall be fire-retarded in the same manner as required for cellar ceilings. All existing shafts, including dumbwaiter shafts, which extend below the ceiling a distance more than one-half (1/2) the height of the cellar shall be enclosed with incombustible materials. All shafts referred to in this paragraph shall have adequate cleanout at base consisting of fire-proof self-closing door and assembly having a fire-resistive rating of at least one hour. Where new partitions or enclosures are erected in a cellar they shall be constructed of incombustible materials.
 
    (2) Wood girders, columns, posts, etc. The fire-retarding material of ceiling of cellar or other lowest story shall be carried down and around all non-fireproof ceiling projections, such as wood girders, etc., which are less than six inches by six inches (6" × 6") in dimension. The fire-retarding material also shall be turned down at least three inches (3") on all non-fire-retarding columns, posts, etc., which are less than six inches (6") in diameter.
 
@@ -2195,7 +2195,7 @@ These regulations shall apply to high pressure steam piping system which is defi
 
       (v) Copies of the certified welder qualification reports shall be maintained by the responsible welding agency and the company performing the welding, and shall be made available upon request to the Department of Buildings.
 
-      (vi) No reports from any welding inspection agency shall be accepted unless such agency has first requested and obtained from this Office in accordance with § 25-01(q)(1) of the Board of Standards and Appeals Welding Rules.
+      (vi) No reports from any welding inspection agency shall be accepted unless such agency has first requested and obtained from this Office in accordance with 2 RCNY § 25-01(q)(1) of the Board of Standards and Appeals Welding Rules.
 
       (vii) (A) All piping over 3 inches shall be butt welded. Piping 3 inches and under may be socket welded or threaded.
 
@@ -2500,7 +2500,7 @@ Greenhouse. A greenhouse shall be defined as a glass or slow burning plastic enc
 
    (7) the greenhouse shall be constructed of non-combustible materials and glazed with plain or wire glass or slow burning plastic,
 
-   (8) the glass or slow burning plastic constructed roof shall be capable of supporting the live load prescribed in § 27-561 (a) of the Building Code.
+   (8) the glass or slow burning plastic constructed roof shall be capable of supporting the live load prescribed in § 27-561(a) of the Building Code.
 
 (c) Attached accessory noncommercial greenhouse. An attached accessory noncommercial greenhouse is a permitted obstruction in a required rear yard or rear yard equivalent, pursuant to § 23-44(b) of the Zoning Resolution when it complies with the following conditions:
 
@@ -3303,10 +3303,10 @@ Table B Maximum Support Spacing Distance Inline Sprinkler Head Drop Tee
     * - 1"(25mm) 
       - 5' (1.525m) 
       - 4' (1.220m) 
-    * - 11/4"(32mm) 
+    * - 1-1/4"(32mm) 
       - 6' (1.830m) 
       - 5' (1.525m) 
-    * - 11/2"-3"(38-76mm)  
+    * - 1-1/2"-3"(38-76mm)  
       - 7' (2.135m) 
       - 7' (2.135m) 
 ~
@@ -3710,7 +3710,7 @@ Chapter 35: Electrical Inspection
 
    (2) Where the commissioner or his designee, in his or her discretion, deems the certification of the agency shall be revoked, the agency shall be entitled to a hearing before the Office of Administrative Trials and Hearings as provided by rules promulgated by the department.
 
-   (3) Where the commissioner or his designee, in his or her discretion, deems that continued certification of the agency would be likely to create a condition of imminent peril to public safety, the revocation determination shall be effective immediately. In such an instance, the agency shall be entitled to a hearing pursuant to 1 RCNY § 35-01(b)(21 of the rules at the next available scheduled hearing session before the Office of Administrative Trials and Hearings.
+   (3) Where the commissioner or his designee, in his or her discretion, deems that continued certification of the agency would be likely to create a condition of imminent peril to public safety, the revocation determination shall be effective immediately. In such an instance, the agency shall be entitled to a hearing pursuant to 1 RCNY § 35-01(b)(2) at the next available scheduled hearing session before the Office of Administrative Trials and Hearings.
 
 (c) Contractual obligation. 
 
@@ -4105,7 +4105,7 @@ Vent connector. A "vent connector" is a pipe connecting an appliance with the fl
 
 (a) On or before November 1, 1958, in any tenement and converted dwelling which contains ten or more apartments, and on or before November 1, 1959, in other tenements and converted dwellings, any gas-fueled water heater installed prior to December 18, 1957, if of a type not approved by the Department of Health, shall be replaced by a supply of hot water or by a water heater approved by said department.
 
-(b) On or before the applicable dates given in § 40-40(a), gas-fueled dwellings described in said paragraph shall be made to comply with all the applicable requirements of 1 RCNY §§ 40-33 through 40-39, and all gas-fueled water heaters that have water heaters installed prior to December 18, 1957, in tenements and converted dwellings' sleeping rooms shall be removed.
+(b) On or before the applicable dates given in 1 RCNY § 40-40(a), gas-fueled dwellings described in said paragraph shall be made to comply with all the applicable requirements of 1 RCNY §§ 40-33 through 40-39, and all gas-fueled water heaters that have water heaters installed prior to December 18, 1957, in tenements and converted dwellings' sleeping rooms shall be removed.
 
 (c) Any gas-fueled water heater so designed and arranged that it heats water in pipe coils placed at a distance from the hot water storage tank, installed prior to December 18, 1957, may be maintained in tenements and converted dwellings described in subdivision (a) of this section on and after the applicable dates given in said rule only if it is of a type approved by the Department of Health. However, no gas-fueled water heater shall be maintained in a sleeping room or bathroom.
 
@@ -4344,9 +4344,9 @@ Chapter 46: Authorized Representatives
 
    (6) Qualified boiler inspectors are authorized to perform boiler inspections under section 27-793(b) of the code and rules promulgated thereunder;
 
-   (7) Private elevator inspection agencies certified under 1 RCNY section 11-01 of the rules of this Department are authorized to perform and witness elevator inspections and tests in accordance with code provisions; and
+   (7) Private elevator inspection agencies certified under 1 RCNY § 11-01 are authorized to perform and witness elevator inspections and tests in accordance with code provisions; and
 
-   (8) Private electrical inspection agencies certified under 1 RCNY section 35-01 of the rules of this Department are authorized to perform electrical inspections.
+   (8) Private electrical inspection agencies certified under 1 RCNY § 35-01 are authorized to perform electrical inspections.
 
 (b) The authorized representatives listed in subdivision (a) above shall identify themselves by producing copies of their applicable licenses or certifications and shall maintain liability insurance in accordance with applicable code requirements.
 
@@ -4459,7 +4459,7 @@ Affiliate outdoor advertising companies. The term "affiliate outdoor advertising
 
 Affiliated outdoor advertising company. The term "affiliated outdoor advertising company" or "affiliated OAC" shall mean a single OAC that has authorized a responsible affiliate to act on its behalf for registration in accordance with this chapter.
 
-Applicant. The term "applicant" shall mean an OAC that has filed an application for registration with the Department as required by § 26-260 of the Administrative Code and subchapter B of this chapter. Except where application is made pursuant to 1 RCNY § 49-12(a)(3) of this chapter, the party holding fee or the dominant lease to a sign, sign structure or sign location, shall act as the applicant. With respect to an application for registration filed on behalf of an affiliated OAC the term "applicant" shall mean the responsible affiliate.
+Applicant. The term "applicant" shall mean an OAC that has filed an application for registration with the Department as required by § 26-260 of the Administrative Code and subchapter B of this chapter. Except where application is made pursuant to 1 RCNY § 49-12(a)(3), the party holding fee or the dominant lease to a sign, sign structure or sign location, shall act as the applicant. With respect to an application for registration filed on behalf of an affiliated OAC the term "applicant" shall mean the responsible affiliate.
 
 Approach. The term "approach" as found within the description of arterial highways indicated within appendix C of the Zoning Resolution, shall mean that portion of a roadway connecting the local street network to a bridge or tunnel and from which there is no entry or exit to such network.
 
@@ -4485,7 +4485,7 @@ Responsible officer. The term "responsible officer" shall mean an officer or off
 
 Sign. The term "sign" shall mean a sign as defined in § 12-10 of the Zoning Resolution. Such term shall not include any sign erected upon property not subject to Department jurisdiction. Each sign face shall be a sign.
 
-Sign inventory. The term "sign inventory" shall mean the list of signs, sign structures and sign locations under the control of an OAC, responsible affiliate or affiliated OACs as required and specified by § 26-261 of the Administrative Code and 1 RCNY § 49-15 of this chapter.
+Sign inventory. The term "sign inventory" shall mean the list of signs, sign structures and sign locations under the control of an OAC, responsible affiliate or affiliated OACs as required and specified by § 26-261 of the Administrative Code and 1 RCNY § 49-15.
 
 Sign location. The term "sign location" shall mean sign location as defined by § 26-259(f) of the Administrative Code.
 
@@ -4538,11 +4538,11 @@ If any clause, sentence, paragraph, section or part of this rule or the applicat
 *§ 49-11 Effective Dates.* ::
 
 
-(a) On and after the 60th day after the effective date of this chapter, it shall be unlawful for an OAC to engage in the outdoor advertising business, or, by way of advertising, promotions or other methods, hold itself out as engaging in the outdoor advertising business, unless such OAC is registered with and has been issued a registration number by the Department and such registration has not expired or been revoked. Notwithstanding the foregoing provision, an OAC that is in existence on the effective date of this chapter may continue to do business as an OAC pending the issuance of a registration number if such OAC has filed a registration application pursuant to 1 RCNY § 49-12 of this chapter on or prior to the 60th day after the effective date of this chapter and such application has not been rejected by the Department in accordance with subdivision c of such section.
+(a) On and after the 60th day after the effective date of this chapter, it shall be unlawful for an OAC to engage in the outdoor advertising business, or, by way of advertising, promotions or other methods, hold itself out as engaging in the outdoor advertising business, unless such OAC is registered with and has been issued a registration number by the Department and such registration has not expired or been revoked. Notwithstanding the foregoing provision, an OAC that is in existence on the effective date of this chapter may continue to do business as an OAC pending the issuance of a registration number if such OAC has filed a registration application pursuant to 1 RCNY § 49-12 on or prior to the 60th day after the effective date of this chapter and such application has not been rejected by the Department in accordance with subdivision c of such section.
 
-(b) On and after the 60th day after the effective date of this chapter, it shall be unlawful for an OAC to sell or otherwise transfer control of a sign, sign structure, or sign location or any right of such OAC to sell, lease, market, manage, or otherwise make space on a sign, or sign structure, or at a sign location available to others for advertising purposes, to an OAC other than one that is registered in accordance with this chapter and that has been issued a registration number by the Department and such registration has not expired or been revoked, or to a OAC that has timely filed for registration pursuant to 1 RCNY § 49-12 of this chapter and such application has not been rejected by the Department.
+(b) On and after the 60th day after the effective date of this chapter, it shall be unlawful for an OAC to sell or otherwise transfer control of a sign, sign structure, or sign location or any right of such OAC to sell, lease, market, manage, or otherwise make space on a sign, or sign structure, or at a sign location available to others for advertising purposes, to an OAC other than one that is registered in accordance with this chapter and that has been issued a registration number by the Department and such registration has not expired or been revoked, or to a OAC that has timely filed for registration pursuant to 1 RCNY § 49-12 and such application has not been rejected by the Department.
 
-(c) On and after the 60th day after the effective date of this chapter it shall be unlawful to erect, alter, install, maintain, attach, affix, paint on, or in any other manner represent on a building or premises any sign that is under the control of an OAC unless such OAC is registered in accordance with this chapter, and has been issued a registration number by the Department and such registration has not expired or been revoked or, with respect to an OAC that is in existence on the effective date of this chapter, such OAC has filed a registration application pursuant to 1 RCNY § 49-12 of this chapter on or prior to the 60th day after the effective date of this chapter and such application has not been rejected by the Department in accordance with subdivision c of such section.
+(c) On and after the 60th day after the effective date of this chapter it shall be unlawful to erect, alter, install, maintain, attach, affix, paint on, or in any other manner represent on a building or premises any sign that is under the control of an OAC unless such OAC is registered in accordance with this chapter, and has been issued a registration number by the Department and such registration has not expired or been revoked or, with respect to an OAC that is in existence on the effective date of this chapter, such OAC has filed a registration application pursuant to 1 RCNY § 49-12 on or prior to the 60th day after the effective date of this chapter and such application has not been rejected by the Department in accordance with subdivision c of such section.
 
 
 
@@ -4562,7 +4562,7 @@ If any clause, sentence, paragraph, section or part of this rule or the applicat
 
 (b) The Department shall accept applications complying with the provisions of these rules and other applicable law. An OAC registration number shall be issued to the applicant of each accepted registration application. Where the application is for the renewal of an existing registration, the applicant shall be notified of such acceptance.
 
-(c) The Department may reject an application for registration or for the renewal of registration if it finds that the application, including the accompanying listing of sign inventory required by 1 RCNY § 49-15 of this chapter, is not complete and accurate or all required documents have not been submitted with the application. Before rejecting an application, the Department shall provide the applicant with an explanation of the deficiency and a period of time, but not more than 45 days, within which the applicant may submit a corrected application and any missing documents. Upon written request and for good cause, the Commissioner may extend the time for submitting a corrected application.
+(c) The Department may reject an application for registration or for the renewal of registration if it finds that the application, including the accompanying listing of sign inventory required by 1 RCNY § 49-15, is not complete and accurate or all required documents have not been submitted with the application. Before rejecting an application, the Department shall provide the applicant with an explanation of the deficiency and a period of time, but not more than 45 days, within which the applicant may submit a corrected application and any missing documents. Upon written request and for good cause, the Commissioner may extend the time for submitting a corrected application.
 
 (d) An OAC registration number issued by the Department pursuant to this section shall not be transferable.
 
@@ -4602,13 +4602,13 @@ If any clause, sentence, paragraph, section or part of this rule or the applicat
 *§ 49-15 Sign Inventory to be Submitted with Registration Application.* ::
 
 
-(a) In addition to the information and documentation required by 1 RCNY § 49-12(a) of this chapter, an applicant shall submit, pursuant to § 26-261 of the Administrative Code, a sign inventory that shall include all signs, sign structures and sign locations located (1) within a distance of 900 linear feet from and within view of an arterial highway; or (2) within 200 linear feet from and within view of a public park of one-half acre or more. Such sign inventory shall be filed together with the registration application and each renewal registration application. The sign inventory submitted in connection with the renewal registration application shall include all material changes since the last registration or renewal registration application, and shall be accompanied by a statement that identifies all material changes since such prior registration. A registration application or renewal application submitted without such sign inventory or statement shall not be considered complete and may be rejected in accordance with subdivision (c) of 1 RCNY § 49-12 of this chapter.
+(a) In addition to the information and documentation required by 1 RCNY § 49-12(a), an applicant shall submit, pursuant to § 26-261 of the Administrative Code, a sign inventory that shall include all signs, sign structures and sign locations located (1) within a distance of 900 linear feet from and within view of an arterial highway; or (2) within 200 linear feet from and within view of a public park of one-half acre or more. Such sign inventory shall be filed together with the registration application and each renewal registration application. The sign inventory submitted in connection with the renewal registration application shall include all material changes since the last registration or renewal registration application, and shall be accompanied by a statement that identifies all material changes since such prior registration. A registration application or renewal application submitted without such sign inventory or statement shall not be considered complete and may be rejected in accordance with subdivision (c) of 1 RCNY § 49-12.
 
 (b) A sign inventory submitted by a responsible affiliate on behalf of:
 
-   (1) an affiliated OAC, in accordance with subdivision (a)(2) of 1 RCNY § 49-12 of this chapter, shall include all signs, sign structures and sign locations under the shared control of such responsible affiliate and affiliated OAC; or,
+   (1) an affiliated OAC, in accordance with subdivision (a)(2) of 1 RCNY § 49-12, shall include all signs, sign structures and sign locations under the shared control of such responsible affiliate and affiliated OAC; or,
 
-   (2) every affiliated OAC, in accordance with subdivision (a)(3) of 1 RCNY § 49-12 of this chapter, shall include all signs, sign structures and sign locations under the control of such responsible affiliate and every affiliated OAC.
+   (2) every affiliated OAC, in accordance with subdivision (a)(3) of 1 RCNY § 49-12, shall include all signs, sign structures and sign locations under the control of such responsible affiliate and every affiliated OAC.
 
 (c) The sign inventory shall be accompanied by a signed statement of a responsible officer of the OAC or, if applicable, the responsible affiliate, stating that the listing of its inventory is a complete listing of all signs, sign structures and sign locations under its control, subject to § 26-261 of the Administrative Code.
 
@@ -4622,7 +4622,7 @@ If any clause, sentence, paragraph, section or part of this rule or the applicat
 
    (4) The height in feet and inches of the highest portion of each sign and sign structure above the curb level.
 
-   (5) Each sign shall be identified as either "advertising" or "non-advertising." To the extent a sign is a non-conforming sign, it must further be identified as "non-conforming advertising" or "non-conforming non-advertising." A sign identified as "non-conforming advertising" or "non-conforming non-advertising" shall be submitted to the Department for confirmation of its non-conforming status, pursuant to 1 RCNY § 49-16 of this chapter.
+   (5) Each sign shall be identified as either "advertising" or "non-advertising." To the extent a sign is a non-conforming sign, it must further be identified as "non-conforming advertising" or "non-conforming non-advertising." A sign identified as "non-conforming advertising" or "non-conforming non-advertising" shall be submitted to the Department for confirmation of its non-conforming status, pursuant to 1 RCNY § 49-16.
 
    (6) For each accessory sign, the name and mailing address of the business to which the sign directs attention, the nature of such business and the square footage of the floor space occupied by such business on the zoning lot.
 
@@ -4765,7 +4765,7 @@ Signs and/or sign structures that are not claimed in accordance with the procedu
 *§ 49-41 Application Requirements.* ::
 
 
-(a) An application to erect, alter or install a sign and/or sign structure in an area that is subject to inclusion on the sign inventory as set forth in 1 RCNY § 49-15 of this chapter that is larger than 200 square feet shall be accompanied by the following documentation:
+(a) An application to erect, alter or install a sign and/or sign structure in an area that is subject to inclusion on the sign inventory as set forth in 1 RCNY § 49-15 that is larger than 200 square feet shall be accompanied by the following documentation:
 
    (1) A detailed description and/or drawing of the proposed sign, including its size;
 
@@ -4773,7 +4773,7 @@ Signs and/or sign structures that are not claimed in accordance with the procedu
 
    (3) A statement indicating whether the proposed sign and/or sign structure will be within view of a public park of one-half acre or more or of an arterial highway.
 
-   (4) A statement indicating the distance in feet to each public park of one-half acre or more that is within 200 feet of the proposed sign, and to each road designated as an arterial highway, that is within 900 feet of such proposed sign. Distance to the public park or arterial highway shall be calculated as set forth in 1 RCNY § 49-15(d)(1) of the chapter;
+   (4) A statement indicating the distance in feet to each public park of one-half acre or more that is within 200 feet of the proposed sign, and to each road designated as an arterial highway, that is within 900 feet of such proposed sign. Distance to the public park or arterial highway shall be calculated as set forth in 1 RCNY § 49-15(d)(1);
 
    (5) A statement whether the proposed sign is to be "advertising," "accessory" to a business, or "non-commercial."
 
@@ -5033,6 +5033,19 @@ Chapter 52: Notification To the Department of Commencement of Work Pursuant To A
 
 
 
+Chapter 400: Special Detailed Requirements Based On Use and Occupancy
+--------------------------------------------------
+
+
+
+*§ 403-01 Impact Resistant Stair and Elevator Shaft Enclosures. [Repealed]* ::
+
+
+
+
+
+
+
 Chapter 300: Use and Occupancy Classification
 --------------------------------------------------
 
@@ -5120,19 +5133,6 @@ Figure 1 Summary chart of fire safety requirements
 (e) Certificate of occupancy. An amended certificate of occupancy need not be obtained in order to occupy an otherwise lawful apartment for use as a student apartment.
 
 (f) Records. The college or university shall maintain records at the building that contains any student apartment, identifying the unit numbers of student apartments, the maximum number of students housed in each such unit, whether the students are post-graduate or are permitted to be undergraduate, and where applicable, whether the apartment was first occupied as a student apartment prior to July 1, 2009. Such records shall be available for inspection by the Department, the Fire Department, and the Department of Housing Preservation and Development. The college or university may be required to produce further records to substantiate compliance with this section.
-
-
-
-
-Chapter 400: Special Detailed Requirements Based On Use and Occupancy
---------------------------------------------------
-
-
-
-*§ 403-01 Impact Resistant Stair and Elevator Shaft Enclosures. [Repealed]* ::
-
-
-
 
 
 
@@ -5365,9 +5365,7 @@ Figure 7
 
  
 
-Figure 8
-
- 
+Figure 8 
 
 
 
@@ -5401,11 +5399,11 @@ For the purposes of this subchapter, the following terms are defined as follows:
 
 Amusement device or ride. A device or combination of devices or elements that carry, convey, or direct a person(s) over or through a fixed or restricted course, or within a defined area, for the primary purpose of amusement or entertainment.
 
-Exceptions. For the purposes of this subchapter, the following are not considered to be amusement devices:
+   Exceptions. For the purposes of this subchapter, the following are not considered to be amusement devices:
 
-(a) Any single passenger, coin-operated amusement device that is manually, mechanically, or electrically operated, does not normally require the supervision or services of a device operator, and is customarily placed, individually or in groups, in a public location.
+      (a) Any single passenger, coin-operated amusement device that is manually, mechanically, or electrically operated, does not normally require the supervision or services of a device operator, and is customarily placed, individually or in groups, in a public location.
 
-(b) Locomotives weighing more than 7 tons (3178 kg), operating on a track of any length, the gage of which is 3 feet (914 mm) or greater, and the weight of which is 60 pounds (927.24 kg) per yard (1006 mm).
+      (b) Locomotives weighing more than 7 tons (3178 kg), operating on a track of any length, the gage of which is 3 feet (914 mm) or greater, and the weight of which is 60 pounds (927.24 kg) per yard (1006 mm).
 
 Amusement device operator. Any person or persons actually engaged in or directly controlling the operations of an amusement device or ride, including the start, stop or speed of the amusement device.
 
@@ -5477,7 +5475,7 @@ Temporary. Lasting for a period of time equal to or less than 14 calendar days f
 
       (i) The name, address and signature of the amusement device owner.
 
-      (ii) Complete application and engineering plans signed and sealed by a registered design professional including other reports required by Section 3005-10 of this rule and the manual. Engineering plans, dimensioned to scale, must identify parts and components of amusement devices including, but not limited to bars, cables, chains, ropes, rods, pipes, girders, braces, fittings, fasteners, trusses, pressure vessels, pressure piping, gears, clutches, speed reducers, welds, bearings, couplings, shaftings, axles, hangers, pivots, carriers (such as tubs, cars, chairs, gondolas, or seating and carrying apparatus of any description) and safety bars, belts, harnesses, chains, gates or other restraining, containing, or retaining devices.
+      (ii) Complete application and engineering plans signed and sealed by a registered design professional including other reports required by 1 RCNY § 3005-10 and the manual. Engineering plans, dimensioned to scale, must identify parts and components of amusement devices including, but not limited to bars, cables, chains, ropes, rods, pipes, girders, braces, fittings, fasteners, trusses, pressure vessels, pressure piping, gears, clutches, speed reducers, welds, bearings, couplings, shaftings, axles, hangers, pivots, carriers (such as tubs, cars, chairs, gondolas, or seating and carrying apparatus of any description) and safety bars, belts, harnesses, chains, gates or other restraining, containing, or retaining devices.
 
       (iii) Foundation support and details signed and sealed by a registered design professional.
 
@@ -5715,7 +5713,7 @@ The assembly and disassembly of an amusement device must be performed by or unde
 .. list-table::
     :header-rows: 1
 
-    * - "THE FOLLOWING PEOPLE SHOULD NOT RIDE THIS AMUSEMENT DEVICE:People under the influence of alcohol.People under the influence of drugs or medications that could impair judgment.People with heart conditions.Pregnant women.People with disabilities that may interfere with their safety during the operation of the amusement device.People with motion sickness.People with any physical ailments that could be aggravated by this amusement device."
+    * - "THE FOLLOWING PEOPLE SHOULD NOT RIDE THIS AMUSEMENT DEVICE:People under the influence of alcohol.People under the influence of drugs or medications that could impair judgment.People with heart conditions.Pregnant women.People with disabilities that may interfere with their safety during the operation of the  amusement device.People with motion sickness.People with any physical ailments that could be aggravated by this amusement device."
 ~
 
 
@@ -5830,7 +5828,7 @@ The assembly and disassembly of an amusement device must be performed by or unde
 
    (1) Passenger-carrying amusement devices, interior and exterior parts. All interior and exterior parts of passenger carrying amusement devices, with which a passenger may come in contact, must be smooth and rounded, free from sharp, rough or splintered edges and corners, and have no protruding studs, bolts, screws or other projections that might cause injury. Interior parts that a passenger may be thrown onto by the action of the amusement device must be sufficiently padded to prevent injury, in accordance with the device's operating manual.
 
-   (2) Restraining devices and/or containing devices. Passenger restraining or containing devices must be inspected daily in accordance with paragraph (4) of subdivision (f) of Section 3005-10 and maintained as needed to ensure they are fully functional before the operation of the ride.
+   (2) Restraining devices and/or containing devices. Passenger restraining or containing devices must be inspected daily in accordance with paragraph (4) of subdivision (f) of 1 RCNY § 3005-10 and maintained as needed to ensure they are fully functional before the operation of the ride.
 
    (3) Self-powered amusement devices. Amusement devices that are self-powered by the passenger must have the driving mechanism securely guarded to prevent passengers from gaining access to the mechanism. The driving mechanism must also be secured in a manner that will prevent passengers with long hair, clothing, or accessories from becoming tangled in the mechanism.
 
@@ -5872,7 +5870,7 @@ The assembly and disassembly of an amusement device must be performed by or unde
 
 (b) Inspection and testing notification. The owner or amusement park operator of a permanent amusement device must provide notice to the Department by phone, fax or email that the device is ready to be inspected and tested. Notice must be provided at least thirty (30) business days prior to the proposed date of inspection and test.
 
-Exception. Inflatable rides are not tested. Certificates of competency are issued instead, based on criteria described in paragraph (2) of subdivision (h) of Section 3005-03.
+Exception. Inflatable rides are not tested. Certificates of competency are issued instead, based on criteria described in paragraph (2) of subdivision (h) of 1 RCNY § 3005-03.
 
 (c) Fees. Refer to Section 28-112.8 of the Administrative Code for fees related to inspections and related required filings.
 
@@ -6263,7 +6261,7 @@ Table 1General Inspections
 .. list-table::
     :header-rows: 1
 
-    * - 
+    * -  
       - Requirement 
       - Minimum Schedule of Inspections
     * - (1)
@@ -6275,25 +6273,25 @@ Table 1General Inspections
     * - (3)
       - When a building is being constructed or demolished at a height greater than 75 feet (22.86 m), verify that a standpipe system is available and in readiness at all times for use by the Fire Department.
       - Daily
-    * - 
+    * -  
       - (i) Verify the standpipe is in place at each story below the construction or demolition floor. For the purposes of this section, the construction floor shall be the stripping operation floor, except for steel construction, in which case it shall be the uppermost finished and walkable concrete floor; for demolition the demolition floor shall be the floor being demolished.
       - Daily
-    * - 
+    * -  
       - (ii) Verify that valves are in place at each story below the construction or demolition floor.
       - Daily
-    * - 
+    * -  
       - (iii) Verify that the standpipe is capped.
       - Daily
-    * - 
+    * -  
       - (iv) Verify that standpipes are connected to a water source, as applicable, and a siamese connection.
       - Daily
-    * - 
+    * -  
       - (v) Verify that siamese hose connections are not obstructed.
       - Daily
-    * - 
+    * -  
       - (vi) Verify siamese hose connections are marked by a red light and a sign reading,"Standpipe Siamese Connection."
       - Daily
-    * - 
+    * -  
       - (vii) Verify that no breach exists by visually tracing standpipe risers, cross connections and siamese connections.
       - Weekly
     * - (4)
@@ -6323,7 +6321,7 @@ Table 2 Safety Netting Inspections
 .. list-table::
     :header-rows: 1
 
-    * - 
+    * -  
       - Requirement 
       - Minimum Schedule of Inspections
     * - (1)
@@ -6358,7 +6356,7 @@ Table 3 Maintenance of Site and Adjacent Area Inspections
 .. list-table::
     :header-rows: 1
 
-    * - 
+    * -  
       - Requirement 
       - Minimum Schedule of Inspections
     * - (1)
@@ -6390,7 +6388,7 @@ Table 4 Housekeeping Inspections
 .. list-table::
     :header-rows: 1
 
-    * - 
+    * -  
       - Requirement
       - Minimum Schedule of Inspections 
     * - (1)
@@ -6422,7 +6420,7 @@ Table 5 Removal and Storage of Material Inspections
 .. list-table::
     :header-rows: 1
 
-    * - 
+    * -  
       - Requirement 
       - Minimum Schedule of Inspections
     * - (1)
@@ -6440,11 +6438,11 @@ Table 5 Removal and Storage of Material Inspections
     * - (5)
       - Verify that no material hangs over the edge of a building unless banded and braced for relocation by the end of the workday, except on the floor of the stripping operation and on floors designated as the lumber or steel mill.
       - Daily
-    * - 
+    * -  
       - (i)  On the floor of the stripping operation, verify that material that overhangs the floor is banded and braced, overhangs by not more than one-third of its length, and is relocated by the next workday for concrete operations.
       - Daily
-    * - 
-      -  (ii)  Where the steel mill and lumber mill are located, verify that any material that overhangs is relocated by the next workday.
+    * -  
+      - (ii)  Where the steel mill and lumber mill are located, verify that any material that overhangs is relocated by the next workday.
       - Daily
 ~
 
@@ -6458,7 +6456,7 @@ Table 6 Protection of Sidewalks Inspections
 .. list-table::
     :header-rows: 1
 
-    * - 
+    * -  
       - Requirement 
       - Minimum Schedule of Inspections
     * - (1)
@@ -6500,7 +6498,7 @@ Table 7 Warning Signs and Lights Inspections
 .. list-table::
     :header-rows: 1
 
-    * - 
+    * -  
       - Requirement
       - Minimum Schedule of Inspections 
     * - (1)
@@ -6523,7 +6521,7 @@ Table 8 Scaffolds, Structural Ramps, Runways and Platform Inspections
 .. list-table::
     :header-rows: 1
 
-    * - 
+    * -  
       - Requirement 
       - Minimum Schedule of Inspections 
     * - (1)
@@ -6543,7 +6541,7 @@ Table 9 Material Handling and Hoisting Equipment Inspections
 .. list-table::
     :header-rows: 1
 
-    * - 
+    * -  
       - Requirement 
       - Minimum Schedule of Inspections
     * - (1)
@@ -6567,21 +6565,21 @@ Table 9 Material Handling and Hoisting Equipment Inspections
     * - (7)
       - Verify that flagmen/women are present to stop pedestrian and/or vehicular traffic during the following intermittent operations:
       - As appropriate
-    * - 
+    * -  
       - (i)  During all lifting and hoisting operations;
-      - 
-    * - 
+      -  
+    * -  
       - (ii)  When trucks enter and exit the site;
-      - 
-    * - 
+      -  
+    * -  
       - (iii)  When materials are being lifted over the sidewalk shed;
-      - 
-    * - 
+      -  
+    * -  
       - (iv)  When dangerous operations, e.g., blasting, occur;
-      - 
-    * - 
+      -  
+    * -  
       - (v)  When the sidewalk and/or street is temporarily closed.
-      - 
+      -  
 ~
 
  
@@ -7980,7 +7978,7 @@ On and after December 31, 2014, all individuals who install, adjust, repair, mai
 
             4. Corresponding vertical loads at the foundation.
 
-         Such data must be calculated in accordance with ASCE 7- 2005, and be provided at Exposures B, C, and D. The maximum free standing height must be clearly indicated, and must be based on a 98 mph out-of-service wind, or a 45 mph in-service wind when such in-service wind produces a lower free standing height.
+         Such data must be calculated in accordance with ASCE 7-2005, and be provided at Exposures B, C, and D. The maximum free standing height must be clearly indicated, and must be based on a 98 mph out-of-service wind, or a 45 mph in-service wind when such in-service wind produces a lower free standing height.
 
          Special conditions in which the crane may not be used or installed (e.g. crane configuration, height, exposure, etc.) must be clearly indicated.
 
@@ -7992,7 +7990,7 @@ On and after December 31, 2014, all individuals who install, adjust, repair, mai
 
          (B) The manuals and load rating charts filed as part of the prototype application are in accordance with the requirements of paragraph (2) of subdivision (e) of this section.
 
-         (C) For a tower crane, other than a self-erecting tower crane, the data provided per subparagraph (viii) of paragraph (1) of subdivision (d) of this section conforms to ASCE 7- 2005.
+         (C) For a tower crane, other than a self-erecting tower crane, the data provided per subparagraph (viii) of paragraph (1) of subdivision (d) of this section conforms to ASCE 7-2005.
 
          (D) For a crane, the crane, in all configurations for which approval is sought, successfully passed the prototype testing required by paragraph (3) of subdivision (e) of this section.
 
@@ -8220,13 +8218,13 @@ On and after December 31, 2014, all individuals who install, adjust, repair, mai
 
             1. The following applies to equipment with cantilevered booms (such as telescopic boom cranes): All tests listed in SAE J1063 - 1993, Table 1, must be performed to load all critical structural elements to their respective limits. All the strength margins listed in SAE J1063 - 1993. Table 2 must be met.
 
-            2. The following applies to equipment with pendant supported lattice booms: All the tests listed in SAE J987 -2003. Table 1, must be performed to load all critical structural elements to their respective limits. All the strength margins listed in SAE J987 - 2003, Table 2 must be met.
+            2. The following applies to equipment with pendant supported lattice booms: All the tests listed in SAE J987-2003. Table 1, must be performed to load all critical structural elements to their respective limits. All the strength margins listed in SAE J987 - 2003, Table 2 must be met.
 
          (B) Test Option B: EN 13000. All testing and verification requirements of EN 13000 (2004) must be met. In applying EN 13000 (2004), the following additional requirements must be met:
 
             1. The following applies to equipment with cantilevered booms (such as telescopic boom cranes): The analysis methodology, such as computer modeling, must demonstrate that all load cases listed in SAE J1063 - 1993 meet the strength margins listed in SAE J1063-1993 Table 2.
 
-            2. The following applies to equipment with pendant supported lattice booms: The analysis methodology, such as computer modeling, must demonstrate that all load cases listed in SAE J987 - 2003 meet the strength margins listed in SAE J987- 2003 Table 2.
+            2. The following applies to equipment with pendant supported lattice booms: The analysis methodology, such as computer modeling, must demonstrate that all load cases listed in SAE J987 - 2003 meet the strength margins listed in SAE J987-2003 Table 2.
 
             3. Analysis verification. The physical testing requirements under SAE J1063 - 1993 and SAE J987 - 2003 must be met unless the reliability of the analysis methodology, such as computer modeling, has been demonstrated by a documented history of verification through strain gauge measuring or strain gauge measuring in combination with other physical testing.
 
@@ -10273,7 +10271,7 @@ Table 1
       - American Concrete Institute38800 Country Club DriveFarmington Hills, MI 48331
       - 
     * - StandardReferenceNumber
-      - 
+      -  
       - Referenced in codesection number
     * - 318 – 11
       - Building Code Requirements for Structural Concrete
@@ -10308,7 +10306,7 @@ Table 2
       - American National Standards Institute25 West 43rd Street, Fourth FloorNew York, NY 10036 
       - 
     * - StandardReferenceNumber
-      - 
+      -  
       - Referenced in codesection number
     * - A10.4 – 07
       - Safety Requirements for Personnel Hoists
@@ -11479,19 +11477,6 @@ Chapter 4000: Electrical Code
 
 
 
-Chapter 7000: Mechanical Code
---------------------------------------------------
-
-
-
-*§ 7000-01 National Fire Protection Association, Flammable Combustible Code Edition Amendment. [Repealed]* ::
-
-
-
-
-
-
-
 Chapter 6000: Fuel Gas Code
 --------------------------------------------------
 
@@ -11503,6 +11488,19 @@ Chapter 6000: Fuel Gas Code
 
 
 *§ 6008-01 American Society of Mechanical Engineers ("ASME"), Boiler &amp; Pressure Vessel Code Edition Amendment. [Repealed]* ::
+
+
+
+
+
+
+
+Chapter 7000: Mechanical Code
+--------------------------------------------------
+
+
+
+*§ 7000-01 National Fire Protection Association, Flammable Combustible Code Edition Amendment. [Repealed]* ::
 
 
 
