@@ -1953,7 +1953,7 @@ Chapter 11: Environmental Preferable Purchasing Program
 
    (40) "Monitoring and control instrument" means any heating regulator, smoke detector, thermostat, device for measuring, weighing or adjusting any device for use in a household or laboratory and any other monitoring and control instrument used in industrial installations.
 
-   (41) "Multi-function device" means any physically integrated device or a combination of functionally integrated components that performs the function of a copier as well as the functions* at least one of the following devices: printer, facsimile machine or scanner.
+   (41) "Multi-function device" means any physically integrated device or a combination of functionally integrated components that performs the function of a copier as well as the functions of at least one of the following devices: printer, facsimile machine or scanner.
 
    (42) "Nonflat paint" means any coating that registers a gloss of 5 or greater on a 60 degree meter and a gloss of 15 or greater on an 85 degree meter.
 

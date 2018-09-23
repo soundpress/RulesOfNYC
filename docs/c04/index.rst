@@ -19,115 +19,115 @@ Chapter 1: General Provisions
 
 (e) Definitions.
 
-Acceptable Brands List. An acceptable brands list is a list of manufacturer's name(s), brand name(s), or model and catalogue numbers, based on a written specification. It is arrived at by a systematic and formal process that includes public notice and certain tests or other criterion for comparing or examining and approving products for inclusion on the list.
+   Acceptable Brands List. An acceptable brands list is a list of manufacturer's name(s), brand name(s), or model and catalogue numbers, based on a written specification. It is arrived at by a systematic and formal process that includes public notice and certain tests or other criterion for comparing or examining and approving products for inclusion on the list.
 
-Acceptance. (i) Acknowledgment of an offer. (ii) Acknowledgment that a delivery meets contract requirements.
+   Acceptance. (i) Acknowledgment of an offer. (ii) Acknowledgment that a delivery meets contract requirements.
 
-ACCO. An acronym that stands for Agency Chief Contracting Officer. Position delegated authority by the Agency Head to organize and supervise the procurement activity of subordinate agency staff in conjunction with the CCPO.
+   ACCO. An acronym that stands for Agency Chief Contracting Officer. Position delegated authority by the Agency Head to organize and supervise the procurement activity of subordinate agency staff in conjunction with the CCPO.
 
-Agency Contract File. Those file(s) that contain information pertaining to the solicitation, award, and administration of each contract.
+   Agency Contract File. Those file(s) that contain information pertaining to the solicitation, award, and administration of each contract.
 
-Agency Head. A term referring to heads of city, county, borough, or other office, administration, department, division, bureau, board, or commission, or a corporation, institution or agency of government, the expenses of which are paid in whole or in part from the City treasury.
+   Agency Head. A term referring to heads of city, county, borough, or other office, administration, department, division, bureau, board, or commission, or a corporation, institution or agency of government, the expenses of which are paid in whole or in part from the City treasury.
 
-Alternative Bid/Proposal. Response to a solicitation offering an alternative to the requirements of specifications set forth in the solicitation.
+   Alternative Bid/Proposal. Response to a solicitation offering an alternative to the requirements of specifications set forth in the solicitation.
 
-Alternative Procurement Method. Any method of procurement other than competitive sealed bid.
+   Alternative Procurement Method. Any method of procurement other than competitive sealed bid.
 
-Appeal. A formal request to redress an administrative decision.
+   Appeal. A formal request to redress an administrative decision.
 
-Best and Final Offers. The revised and corrected final proposals submitted by vendors after discussions and negotiations have been held by the procuring agency.
+   Best and Final Offers. The revised and corrected final proposals submitted by vendors after discussions and negotiations have been held by the procuring agency.
 
-Bid. An offer, as a price, whether for payment or acceptance. A tender given specifically to a prospective purchaser upon request, usually in competition with other bidders.
+   Bid. An offer, as a price, whether for payment or acceptance. A tender given specifically to a prospective purchaser upon request, usually in competition with other bidders.
 
-Bidder. Any vendor submitting a competitive bid in response to a solicitation.
+   Bidder. Any vendor submitting a competitive bid in response to a solicitation.
 
-Bidders/Proposers List. A list maintained for the purposes of setting out the names and addresses of vendors from whom bids and proposals can be solicited.
+   Bidders/Proposers List. A list maintained for the purposes of setting out the names and addresses of vendors from whom bids and proposals can be solicited.
 
-Brand Name Only Specification. A specification that cites the brand name, model number, or some other designation that identifies a specific product to be offered exclusive of others.
+   Brand Name Only Specification. A specification that cites the brand name, model number, or some other designation that identifies a specific product to be offered exclusive of others.
 
-Brand Name or Equal Specification. A specification that cites brand name, model number, etc., as representing quality and performance called for, and inviting bids on comparable items or products of any manufacturer.
+   Brand Name or Equal Specification. A specification that cites brand name, model number, etc., as representing quality and performance called for, and inviting bids on comparable items or products of any manufacturer.
 
-Business. Any corporation, firm, company, organization, partnership, individual, sole proprietorship, joint stock company, joint venture, or any other private legal entity including not-for-profit organizations.
+   Business. Any corporation, firm, company, organization, partnership, individual, sole proprietorship, joint stock company, joint venture, or any other private legal entity including not-for-profit organizations.
 
-Buy-Against. The process by which, as part of contract administration, an agency obtains goods and services to fulfill its requirements after a vendor defaults or fails to fulfill its contract responsibilities.
+   Buy-Against. The process by which, as part of contract administration, an agency obtains goods and services to fulfill its requirements after a vendor defaults or fails to fulfill its contract responsibilities.
 
-CCPO. An acronym that stands for City Chief Procurement Officer. Position delegated authority by the Mayor to coordinate and oversee the procurement activity of Mayoral agency staff, including the ACCOs.
+   CCPO. An acronym that stands for City Chief Procurement Officer. Position delegated authority by the Mayor to coordinate and oversee the procurement activity of Mayoral agency staff, including the ACCOs.
 
-CDRB. An acronym that stands for Contract Dispute Resolution Board.
+   CDRB. An acronym that stands for Contract Dispute Resolution Board.
 
-Change Order. Any alteration, change, amendment, or modification to any contract or agreement approved as required by law or rule.
+   Change Order. Any alteration, change, amendment, or modification to any contract or agreement approved as required by law or rule.
 
-Charter. The New York City Charter.
+   Charter. The New York City Charter.
 
-City. City of New York.
+   City. City of New York.
 
-City Retirement System or Retirement System. One of the defined benefit retirement plans that offers benefits defined by law for participating City employees. City Retirement System shall include pension related funds, such as the variable supplements funds, that provide non-pension benefits to City employees.
+   City Retirement System or Retirement System. One of the defined benefit retirement plans that offers benefits defined by law for participating City employees. City Retirement System shall include pension related funds, such as the variable supplements funds, that provide non-pension benefits to City employees.
 
-Client Services. Programs contracted for by the City of New York on behalf of third- party clients, including programs to provide social services, health or medical services, housing and shelter assistance services, legal services, employment assistance services, and vocational, educational, or recreational programs. Client services are sometimes referred to as "human services" and government agencies whose primary missions involve the award and administration of such contracts, or provision of the same or similar services by agency employees, are sometimes referred to as "human services agencies." Examples of client services include, but are not limited to, day care, foster care, mental health treatment, operation of senior centers, home care, employment training, homeless assistance, preventive services, health maintenance organizations, youth services, and the like.
+   Client Services. Programs contracted for by the City of New York on behalf of third- party clients, including programs to provide social services, health or medical services, housing and shelter assistance services, legal services, employment assistance services, and vocational, educational, or recreational programs. Client services are sometimes referred to as "human services" and government agencies whose primary missions involve the award and administration of such contracts, or provision of the same or similar services by agency employees, are sometimes referred to as "human services agencies." Examples of client services include, but are not limited to, day care, foster care, mental health treatment, operation of senior centers, home care, employment training, homeless assistance, preventive services, health maintenance organizations, youth services, and the like.
 
-Competitive Sealed Bidding. The source selection method in which sealed bids are publicly solicited and opened and a contract is awarded to the lowest responsive, responsible bidder.
+   Competitive Sealed Bidding. The source selection method in which sealed bids are publicly solicited and opened and a contract is awarded to the lowest responsive, responsible bidder.
 
-Competitive Sealed Proposals. The source selection method in which a solicitation is made to potential vendors, and between receipt of proposals and award, discussions with vendors may take place to resolve uncertainties in the proposal, advise vendors of deficiencies in meeting the agency's requirements, allow for resulting price changes, etc.
+   Competitive Sealed Proposals. The source selection method in which a solicitation is made to potential vendors, and between receipt of proposals and award, discussions with vendors may take place to resolve uncertainties in the proposal, advise vendors of deficiencies in meeting the agency's requirements, allow for resulting price changes, etc.
 
-Completion Contracts. Contracts entered into by an agency with a vendor for completion of all or part of the work of a construction contract. Completion contracts shall not be considered new procurements.
+   Completion Contracts. Contracts entered into by an agency with a vendor for completion of all or part of the work of a construction contract. Completion contracts shall not be considered new procurements.
 
-Construction. The process of constructing, reconstructing, demolishing, excavating, renovating, altering, improving, rehabilitating, or repairing any building, facility, or physical structure of any kind, excluding the performance of routine maintenance.
+   Construction. The process of constructing, reconstructing, demolishing, excavating, renovating, altering, improving, rehabilitating, or repairing any building, facility, or physical structure of any kind, excluding the performance of routine maintenance.
 
-Construction Management Contract. A form of construction contract that provides that the vendor is to furnish management and supervisory services necessary for the construction of facilities that may also include construction services and the ability to award the underlying construction contracts.
+   Construction Management Contract. A form of construction contract that provides that the vendor is to furnish management and supervisory services necessary for the construction of facilities that may also include construction services and the ability to award the underlying construction contracts.
 
-Construction-Related Services. Those services that may reasonably be required in the planning, design, or construction of real property or other public improvements. Such services shall include, but not be limited to, such services as architecture, engineering, construction supervision, construction management, planning, surveys and reports, testing and investigation, and printing and blueprinting.
+   Construction-Related Services. Those services that may reasonably be required in the planning, design, or construction of real property or other public improvements. Such services shall include, but not be limited to, such services as architecture, engineering, construction supervision, construction management, planning, surveys and reports, testing and investigation, and printing and blueprinting.
 
-Contract. A written agreement between the City and a vendor in an amount generally in excess of the small purchase limits that gives rise to obligations that are enforced and recognized by law.
+   Contract. A written agreement between the City and a vendor in an amount generally in excess of the small purchase limits that gives rise to obligations that are enforced and recognized by law.
 
-Contracting Officer. Any person duly authorized to enter into and administer contracts and make determinations with respect thereto. The term also includes an authorized representative acting within limits of authority.
+   Contracting Officer. Any person duly authorized to enter into and administer contracts and make determinations with respect thereto. The term also includes an authorized representative acting within limits of authority.
 
-Contractor. Any person having a contract with a governmental body.
+   Contractor. Any person having a contract with a governmental body.
 
-Conviction. A legal determination of guilt in any United States jurisdiction relative to a criminal offense that constitutes a felony or misdemeanor including a guilty plea or a plea of nolo contendere.
+   Conviction. A legal determination of guilt in any United States jurisdiction relative to a criminal offense that constitutes a felony or misdemeanor including a guilty plea or a plea of nolo contendere.
 
-Cost Analysis. The process of examining the reasonableness of a vendor's price by evaluation of the separate cost elements and proposed profit in part on the basis of cost data supplied and certified by the vendor. Cost analysis is used on contract actions (including change orders) where price cannot be determined as fair and reasonable by using price analysis alone.
+   Cost Analysis. The process of examining the reasonableness of a vendor's price by evaluation of the separate cost elements and proposed profit in part on the basis of cost data supplied and certified by the vendor. Cost analysis is used on contract actions (including change orders) where price cannot be determined as fair and reasonable by using price analysis alone.
 
-Day(s). Calendar day unless otherwise specifically stated in the applicable rule.
+   Day(s). Calendar day unless otherwise specifically stated in the applicable rule.
 
-DCAS. An acronym that stands for Department of Citywide Administrative Services.
+   DCAS. An acronym that stands for Department of Citywide Administrative Services.
 
-DDC. An acronym that stands for Department of Design and Construction.
+   DDC. An acronym that stands for Department of Design and Construction.
 
-Debarment. Exclusion for cause of a vendor from consideration for future business for a specified period of time as determined by OATH.
+   Debarment. Exclusion for cause of a vendor from consideration for future business for a specified period of time as determined by OATH.
 
-DEFO. An acronym that stands for Division of Economic and Financial Opportunity of the Department of Business Services.
+   DEFO. An acronym that stands for Division of Economic and Financial Opportunity of the Department of Business Services.
 
-Discussion. The process that enhances understanding of the City's requirements in conjunction with the vendor's proposals and capabilities to arrive at the best price prior to Best and Final Offers in a Competitive Sealed Proposal method of procurement.
+   Discussion. The process that enhances understanding of the City's requirements in conjunction with the vendor's proposals and capabilities to arrive at the best price prior to Best and Final Offers in a Competitive Sealed Proposal method of procurement.
 
-DLS. An acronym that stands for Division of Labor Services of the Department of Small Business Services.
+   DLS. An acronym that stands for Division of Labor Services of the Department of Small Business Services.
 
-DOI. An acronym that stands for Department of Investigation.
+   DOI. An acronym that stands for Department of Investigation.
 
-DSBS. An acronym that stands for Department of Small Business Services.
+   DSBS. An acronym that stands for Department of Small Business Services.
 
-Emergency. An unforeseen danger to life, safety, property, or a necessary service.
+   Emergency. An unforeseen danger to life, safety, property, or a necessary service.
 
-Equal Employment Opportunity/EEO. The treatment of all employees and job applicants without unlawful discrimination as to race, creed, color, national origin, sex, age, disability, marital status, sexual orientation, or citizenship status in all employment decisions, including but not limited to recruitment, hiring, compensation, fringe benefits, training and apprenticeship, promotion, upgrading, demotion, downgrading, transfer, lay-off, termination, and all other terms and conditions of employment as required by federal, state, and local laws and executive orders.
+   Equal Employment Opportunity/EEO. The treatment of all employees and job applicants without unlawful discrimination as to race, creed, color, national origin, sex, age, disability, marital status, sexual orientation, or citizenship status in all employment decisions, including but not limited to recruitment, hiring, compensation, fringe benefits, training and apprenticeship, promotion, upgrading, demotion, downgrading, transfer, lay-off, termination, and all other terms and conditions of employment as required by federal, state, and local laws and executive orders.
 
-Executed. When referring to a contract, the point at which all requirements for effectiveness of the contract have been fulfilled, including all required signatures and approvals, prior to registration by the Comptroller.
+   Executed. When referring to a contract, the point at which all requirements for effectiveness of the contract have been fulfilled, including all required signatures and approvals, prior to registration by the Comptroller.
 
-FISA. An acronym that stands for Financial Information Services Agency.
+   FISA. An acronym that stands for Financial Information Services Agency.
 
-FMS. An acronym that stands for Financial Management System.
+   FMS. An acronym that stands for Financial Management System.
 
-FOIL. An acronym that stands for Freedom of Information Law.
+   FOIL. An acronym that stands for Freedom of Information Law.
 
-Goods. All personal property, including but not limited to equipment, materials, printing, and insurance, excluding land or a permanent interest in land.
+   Goods. All personal property, including but not limited to equipment, materials, printing, and insurance, excluding land or a permanent interest in land.
 
-Governmental Body. Any department, office, commission, council, board, bureau, committee, institution, legislative body, agency, government corporation, or other establishment or official for the executive or legislative branches of the government of the City of New York whose operations are paid for out of the City treasury or out of the monies under the control of assessed or collected by the City or the majority of the members of whose board are City officials or are individuals appointed directly or indirectly by City officials.
+   Governmental Body. Any department, office, commission, council, board, bureau, committee, institution, legislative body, agency, government corporation, or other establishment or official for the executive or legislative branches of the government of the City of New York whose operations are paid for out of the City treasury or out of the monies under the control of assessed or collected by the City or the majority of the members of whose board are City officials or are individuals appointed directly or indirectly by City officials.
 
-Grant. A cash transfer made by a government entity to another government entity, a quasi-public entity, a private organization, or an individual, for use by the recipient in accomplishing objectives established by the recipient. A grant is permissible only to accomplish a public purpose authorized by federal, state, or City law. A grant may be conditional, although awarded without other consideration. Federal and state grants are identified specifically by formula or specific allocations in law or in the annual operating budget act, bond authorizations, or other acts of Congress or the state legislature. Grants can be distinguished from procurement contracts, which call for the vendor to produce specific end products or to deliver specific goods or services. While there are requirements under a grant that result in an executed agreement between the grantor and grantee, this document is not a contract for services.
+   Grant. A cash transfer made by a government entity to another government entity, a quasi-public entity, a private organization, or an individual, for use by the recipient in accomplishing objectives established by the recipient. A grant is permissible only to accomplish a public purpose authorized by federal, state, or City law. A grant may be conditional, although awarded without other consideration. Federal and state grants are identified specifically by formula or specific allocations in law or in the annual operating budget act, bond authorizations, or other acts of Congress or the state legislature. Grants can be distinguished from procurement contracts, which call for the vendor to produce specific end products or to deliver specific goods or services. While there are requirements under a grant that result in an executed agreement between the grantor and grantee, this document is not a contract for services.
 
-HHS (Health and Human Services) Accelerator. HHS Accelerator is an office that facilitates the central management of the procurement process for client services and contractual relationships with client services vendors by creating and maintaining a web-based document vault for client services vendors; by creating and maintaining a centralized, electronic and web-accessible categorization system of services provided for all City agencies; by prequalifying client services providers; and by managing procurements for client services.
+   HHS (Health and Human Services) Accelerator. HHS Accelerator is an office that facilitates the central management of the procurement process for client services and contractual relationships with client services vendors by creating and maintaining a web-based document vault for client services vendors; by creating and maintaining a centralized, electronic and web-accessible categorization system of services provided for all City agencies; by prequalifying client services providers; and by managing procurements for client services.
 
-HHS Accelerator Director. A position designated by the Mayor to head HHS Accelerator with regard to procurements conducted through HHS Accelerator.
+   HHS Accelerator Director. A position designated by the Mayor to head HHS Accelerator with regard to procurements conducted through HHS Accelerator.
 
-Human Services/Client Services. Services contracted for by an agency on behalf of third party clients, including programs to provide social services such as:
+   Human Services/Client Services. Services contracted for by an agency on behalf of third party clients, including programs to provide social services such as:
 
       (i) day care,
 
@@ -157,81 +157,81 @@ Human Services/Client Services. Services contracted for by an agency on behalf o
 
       (xiv) recreation programs.
 
-IFB. An acronym that stands for Invitation for Bids.
+   IFB. An acronym that stands for Invitation for Bids.
 
-Improper Conduct. Includes but is not limited to intentional or grossly negligent billing irregularities, submitting false or frivolous or exaggerated claims, the falsification of documents or records, the willful destruction of documents or records the vendor had an obligation to maintain, bribery, use of false deceptive statements to obtain some benefit, causing competition to be restrained or limited, misrepresentation, falsely claiming to be a minority or small business, violations of ethical standards established by the New York City Conflicts of Interest Board or the Procurement Policy Board, and other dishonesty incident to obtaining, prequalifying for, or performing any contract or modification thereof.
+   Improper Conduct. Includes but is not limited to intentional or grossly negligent billing irregularities, submitting false or frivolous or exaggerated claims, the falsification of documents or records, the willful destruction of documents or records the vendor had an obligation to maintain, bribery, use of false deceptive statements to obtain some benefit, causing competition to be restrained or limited, misrepresentation, falsely claiming to be a minority or small business, violations of ethical standards established by the New York City Conflicts of Interest Board or the Procurement Policy Board, and other dishonesty incident to obtaining, prequalifying for, or performing any contract or modification thereof.
 
-In Ink. A provision specifying the use of a pen to satisfy all signature and initialing requirements. Wherever these Rules provide that an action be taken "in ink," this requirement may be satisfied, if provided for in the solicitation, through the use of electronic signatures.
+   In Ink. A provision specifying the use of a pen to satisfy all signature and initialing requirements. Wherever these Rules provide that an action be taken "in ink," this requirement may be satisfied, if provided for in the solicitation, through the use of electronic signatures.
 
-In Writing. Paper or electronic documents, as defined in the solicitation, unless otherwise stated.
+   In Writing. Paper or electronic documents, as defined in the solicitation, unless otherwise stated.
 
-Information Technology. Systems or components thereof including, but not limited to, hardware, software, firmware, and telecommunications that integrate and process data; and services including, but not limited to, planning, counsulting, project managing, developing requirements definitions, analyzing, designing, programming, testing, training, implementing, as well as conversion capacity management and quality assurance for the purpose of using, creating, maintaining, operating, or repairing computer systems or networks or computer systems or components thereof.
+   Information Technology. Systems or components thereof including, but not limited to, hardware, software, firmware, and telecommunications that integrate and process data; and services including, but not limited to, planning, counsulting, project managing, developing requirements definitions, analyzing, designing, programming, testing, training, implementing, as well as conversion capacity management and quality assurance for the purpose of using, creating, maintaining, operating, or repairing computer systems or networks or computer systems or components thereof.
 
-Inspection. The process of checking material purchased against specifications to insure standards are met.
+   Inspection. The process of checking material purchased against specifications to insure standards are met.
 
-Inspector. The individual responsible for inspection in accordance with a prescribed inspection procedure.
+   Inspector. The individual responsible for inspection in accordance with a prescribed inspection procedure.
 
-Intergovernmental Purchase. The issuance of a purchase order or contract to procure goods, services, or construction through the United States General Services Administration, any other federal agency, the New York State Office of General Services, any other state agency or in cooperation with another public agency subject to the rules set forth herein.
+   Intergovernmental Purchase. The issuance of a purchase order or contract to procure goods, services, or construction through the United States General Services Administration, any other federal agency, the New York State Office of General Services, any other state agency or in cooperation with another public agency subject to the rules set forth herein.
 
-Investigative or Confidential Services. Services provided by law enforcement, scientific, and/or legal consultants, or other experts or professionals that are necessary in connection with an official matter within the scope of the acquiring agency's authority and that directly or indirectly relate to a pending or contemplated case, trial, litigation, or confidential or sensitive investigation or negotiation for which such services of the nature and kind envisioned herein are ordinarily used.
+   Investigative or Confidential Services. Services provided by law enforcement, scientific, and/or legal consultants, or other experts or professionals that are necessary in connection with an official matter within the scope of the acquiring agency's authority and that directly or indirectly relate to a pending or contemplated case, trial, litigation, or confidential or sensitive investigation or negotiation for which such services of the nature and kind envisioned herein are ordinarily used.
 
-Investment Consultant. The investment consultant(s) engaged for the purpose of providing investment consulting services to a City Retirement System and selected by the Board of a City Retirement System to participate in an Investment Manager Search.
+   Investment Consultant. The investment consultant(s) engaged for the purpose of providing investment consulting services to a City Retirement System and selected by the Board of a City Retirement System to participate in an Investment Manager Search.
 
-Investment Manager. A firm that makes investments in portfolios of publicly held securities on behalf of one or more City Retirement Systems.
+   Investment Manager. A firm that makes investments in portfolios of publicly held securities on behalf of one or more City Retirement Systems.
 
-Investment Manager Search. A method of source selection for investment management services for the City Retirement Systems under which candidates for consideration of potential award of a contract are identified through the review and screening of industry databases, in accordance with procedures specified in this chapter.
+   Investment Manager Search. A method of source selection for investment management services for the City Retirement Systems under which candidates for consideration of potential award of a contract are identified through the review and screening of industry databases, in accordance with procedures specified in this chapter.
 
-Invitation for Bids (IFB). All documents, whether attached or incorporated by reference, utilized in soliciting a bid. Usually used in connection with Competitive Sealed Bidding.
+   Invitation for Bids (IFB). All documents, whether attached or incorporated by reference, utilized in soliciting a bid. Usually used in connection with Competitive Sealed Bidding.
 
-LBE. Locally Based Business Enterprise program established under New York City Local Law 49 for the year 1984 as amended by New York City Local Law 25 for the year 1989 which provides assistance to small, economically-disadvantaged construction firms meeting the stated economic criteria regardless of race or sex.
+   LBE. Locally Based Business Enterprise program established under New York City Local Law 49 for the year 1984 as amended by New York City Local Law 25 for the year 1989 which provides assistance to small, economically-disadvantaged construction firms meeting the stated economic criteria regardless of race or sex.
 
-M/WBE. An acronym that stands for Minority and Women Owned Business Enterprise. A business enterprise authorized to do business in the State that has been certified by the program established pursuant to §1304 of the New York City Charter, including sole proprietorships, partnerships, and corporations, in which (i) at least fifty-one percent of the ownership interest is held by United States citizens or permanent resident aliens who are either minority group members or women, (ii) the ownership interest of such person is real, substantial, and continuing, and (iii) such persons have and exercise the authority to control independently the day-to-day business decisions of the enterprise.
+   M/WBE. An acronym that stands for Minority and Women Owned Business Enterprise. A business enterprise authorized to do business in the State that has been certified by the program established pursuant to §1304 of the New York City Charter, including sole proprietorships, partnerships, and corporations, in which (i) at least fifty-one percent of the ownership interest is held by United States citizens or permanent resident aliens who are either minority group members or women, (ii) the ownership interest of such person is real, substantial, and continuing, and (iii) such persons have and exercise the authority to control independently the day-to-day business decisions of the enterprise.
 
-May. Denotes the permissive.
+   May. Denotes the permissive.
 
-Negotiation. The deliberation and discussion of the terms of a proposed agreement; the act of settling or arranging the terms and conditions of a bargain, sale, or business transaction.
+   Negotiation. The deliberation and discussion of the terms of a proposed agreement; the act of settling or arranging the terms and conditions of a bargain, sale, or business transaction.
 
-Negotiated Acquisition. A method of source selection under which procurements can be made through negotiation due to circumstances and subject to conditions, as specified in these Rules, in which it is not practicable and/or advantageous to the City to make the procurement through competitive sealed bidding or competitive sealed proposals. The use of negotiated acquisition requires CCPO approval.
+   Negotiated Acquisition. A method of source selection under which procurements can be made through negotiation due to circumstances and subject to conditions, as specified in these Rules, in which it is not practicable and/or advantageous to the City to make the procurement through competitive sealed bidding or competitive sealed proposals. The use of negotiated acquisition requires CCPO approval.
 
-Non-Commodity Data Processing Equipment, Products, and Services. Includes, but is not limited to, mainframes, and related peripheral equipment such as disk storage, tape storage, and associated controllers, sophisticated switching equipment, integrated systems, operating software, major applications software, and all data processing consultant services, all of which require a high level of planning, expertise, and coordination of a technical and physical nature.
+   Non-Commodity Data Processing Equipment, Products, and Services. Includes, but is not limited to, mainframes, and related peripheral equipment such as disk storage, tape storage, and associated controllers, sophisticated switching equipment, integrated systems, operating software, major applications software, and all data processing consultant services, all of which require a high level of planning, expertise, and coordination of a technical and physical nature.
 
-Non-Responsive Bid. A bid that does not conform to the requirements of the Invitation for Bids.
+   Non-Responsive Bid. A bid that does not conform to the requirements of the Invitation for Bids.
 
-Notice of Award. Process of notifying successful vendors of an intended contract award.
+   Notice of Award. Process of notifying successful vendors of an intended contract award.
 
-Notice of Search. All documents, whether attached or incorporated by reference, used for notifying Investment Managers of the opportunity to participate in the Investment Manager Search method of procurement.
+   Notice of Search. All documents, whether attached or incorporated by reference, used for notifying Investment Managers of the opportunity to participate in the Investment Manager Search method of procurement.
 
-OATH. An acronym that stands for Office of Administrative Trials and Hearings.
+   OATH. An acronym that stands for Office of Administrative Trials and Hearings.
 
-OMB. An acronym that stands for the Office of Management and Budget.
+   OMB. An acronym that stands for the Office of Management and Budget.
 
-Offer. The act of one person that gives another person the legal power to create a contract to which both of them are parties.
+   Offer. The act of one person that gives another person the legal power to create a contract to which both of them are parties.
 
-Offeror. A person submitting an offer.
+   Offeror. A person submitting an offer.
 
-Officer. An individual holding a position of authority either in government or business.
+   Officer. An individual holding a position of authority either in government or business.
 
-Partner. One of two or more persons heading the same partnership.
+   Partner. One of two or more persons heading the same partnership.
 
-Person. Any business, individual, partnership, corporation, union, firm, company, committee, club, other organization, governmental body, or group of individuals.
+   Person. Any business, individual, partnership, corporation, union, firm, company, committee, club, other organization, governmental body, or group of individuals.
 
-Phased Design and Construction. A method in which construction is begun when appropriate portions have been designed, but before substantial design of the entire structure has been completed.
+   Phased Design and Construction. A method in which construction is begun when appropriate portions have been designed, but before substantial design of the entire structure has been completed.
 
-PIN. An acronym that stands for Procurement Identification Number. A unique identifying number for each solicitation or contract notification, which must be consistently used by an agency each time any action related to the procurement is published, commencing with the first time a publication related to that procurement is advertised. The first three digits of the PIN shall be the agency budget code.
+   PIN. An acronym that stands for Procurement Identification Number. A unique identifying number for each solicitation or contract notification, which must be consistently used by an agency each time any action related to the procurement is published, commencing with the first time a publication related to that procurement is advertised. The first three digits of the PIN shall be the agency budget code.
 
-PPB. An acronym that stands for Procurement Policy Board.
+   PPB. An acronym that stands for Procurement Policy Board.
 
-PQL. An acronym that stands for prequalified list.
+   PQL. An acronym that stands for prequalified list.
 
-Prequalification. The screening of potential vendors in which a purchaser may consider factors such as financial capability, reputation, and management in order to develop a list of prospective vendors qualified to be sent invitations to bid or requests for proposals.
+   Prequalification. The screening of potential vendors in which a purchaser may consider factors such as financial capability, reputation, and management in order to develop a list of prospective vendors qualified to be sent invitations to bid or requests for proposals.
 
-Prevailing Market Price. Prices commonly paid by the public either through a standard price list or catalogue.
+   Prevailing Market Price. Prices commonly paid by the public either through a standard price list or catalogue.
 
-Price Analysis. The process of examining and evaluating a proposed price without evaluating its separate cost elements and proposed profit. Examples of price analysis techniques that may be appropriate to use to determine whether a proposed price is fair and reasonable include, but are not limited to, comparing proposed prices received in response to a solicitation; comparing current proposed prices to prior proposed prices and contract prices; applying rough yardsticks, i.e., rough order of magnitude (e.g., dollars/lb., price/horsepower), to a proposed price to highlight inconsistencies that would warrant further review; comparing proposed prices with competitive price lists, published market prices of commodities, similar indexes, discounts or rebate arrangements, and comparing proposed prices with cost estimates prepared by City personnel charged with cost estimating.
+   Price Analysis. The process of examining and evaluating a proposed price without evaluating its separate cost elements and proposed profit. Examples of price analysis techniques that may be appropriate to use to determine whether a proposed price is fair and reasonable include, but are not limited to, comparing proposed prices received in response to a solicitation; comparing current proposed prices to prior proposed prices and contract prices; applying rough yardsticks, i.e., rough order of magnitude (e.g., dollars/lb., price/horsepower), to a proposed price to highlight inconsistencies that would warrant further review; comparing proposed prices with competitive price lists, published market prices of commodities, similar indexes, discounts or rebate arrangements, and comparing proposed prices with cost estimates prepared by City personnel charged with cost estimating.
 
-Procurement. Buying, purchasing, renting, leasing, or otherwise acquiring any goods, services, or construction. It also includes all functions that pertain to the obtaining of any good, service, or construction, including planning, description of requirements, solicitation and selection of sources, preparation and award of contract, and all phases of contract administration, including receipt and acceptance, evaluation of performance, and final payment.
+   Procurement. Buying, purchasing, renting, leasing, or otherwise acquiring any goods, services, or construction. It also includes all functions that pertain to the obtaining of any good, service, or construction, including planning, description of requirements, solicitation and selection of sources, preparation and award of contract, and all phases of contract administration, including receipt and acceptance, evaluation of performance, and final payment.
 
-Professional Services. Services other than human/client services that require specialized skills and the exercise of judgment, including but not limited to:
+   Professional Services. Services other than human/client services that require specialized skills and the exercise of judgment, including but not limited to:
 
       (i) accountants,
 
@@ -245,73 +245,73 @@ Professional Services. Services other than human/client services that require sp
 
       (vi) construction management services.
 
-Proposal. An offer made by one person to another as a basis for negotiations for entering into a contract.
+   Proposal. An offer made by one person to another as a basis for negotiations for entering into a contract.
 
-Proposal Evaluation Criteria. Factors, usually weighted, relating to management capability, technical capability, manner of meeting performance requirements, price, and other important considerations used to evaluate which vendor in a competitive negotiation has made the most advantageous offer.
+   Proposal Evaluation Criteria. Factors, usually weighted, relating to management capability, technical capability, manner of meeting performance requirements, price, and other important considerations used to evaluate which vendor in a competitive negotiation has made the most advantageous offer.
 
-Proposer. A person submitting a proposal in response to a Request for Proposal.
+   Proposer. A person submitting a proposal in response to a Request for Proposal.
 
-Protest. A complaint about a governmental action or decision concerning procurement brought by an interested party to the appropriate administrative section with the intention of achieving a remedial result.
+   Protest. A complaint about a governmental action or decision concerning procurement brought by an interested party to the appropriate administrative section with the intention of achieving a remedial result.
 
-Public Notice. Advertisement and announcement of contract actions with the intended purpose of increasing competition; broadening industry participation; assisting small, disadvantaged, and minority- or woman-owned businesses; and monitoring of City procurement activities.
+   Public Notice. Advertisement and announcement of contract actions with the intended purpose of increasing competition; broadening industry participation; assisting small, disadvantaged, and minority- or woman-owned businesses; and monitoring of City procurement activities.
 
-Public Opening. The process of opening and reading bids, conducted at the time and place specified in the Invitation of Bids and/or the advertisement and in the presence of anyone who wishes to attend.
+   Public Opening. The process of opening and reading bids, conducted at the time and place specified in the Invitation of Bids and/or the advertisement and in the presence of anyone who wishes to attend.
 
-Purchase Description. The words used in a solicitation to describe the goods, services, or construction to be purchased, including any performance, physical, or technical requirements. Unless the context requires otherwise, the terms "purchase description," "purchase specification," and "specification" may be used interchangeably.
+   Purchase Description. The words used in a solicitation to describe the goods, services, or construction to be purchased, including any performance, physical, or technical requirements. Unless the context requires otherwise, the terms "purchase description," "purchase specification," and "specification" may be used interchangeably.
 
-Purchase Order. An official document of the City directing the vendor to perform. A purchase order formalizes a purchase transaction with a vendor for purchases generally at or below the small purchase limits unless the purchase order is placed against an existing contract.
+   Purchase Order. An official document of the City directing the vendor to perform. A purchase order formalizes a purchase transaction with a vendor for purchases generally at or below the small purchase limits unless the purchase order is placed against an existing contract.
 
-Registration. The process through which the Comptroller (1) encumbers funds to insure that monies are available to pay vendors upon the satisfactory completion of contract work; (2) maintains a registry of City contracts and agreements; (3) presents objections if, in the Comptroller's judgment, there is sufficient reason to believe that there is possible corruption in the letting of the contract or that the proposed contractor is involved in corrupt activity, and (4) tracks City expenditures and revenues associated with those contracts and agreements.
+   Registration. The process through which the Comptroller (1) encumbers funds to insure that monies are available to pay vendors upon the satisfactory completion of contract work; (2) maintains a registry of City contracts and agreements; (3) presents objections if, in the Comptroller's judgment, there is sufficient reason to believe that there is possible corruption in the letting of the contract or that the proposed contractor is involved in corrupt activity, and (4) tracks City expenditures and revenues associated with those contracts and agreements.
 
-Responsible Bidder or Proposer. A vendor who has the capability in all respects to perform in full the contract requirements, and the business integrity and reliability that will assure good faith performance.
+   Responsible Bidder or Proposer. A vendor who has the capability in all respects to perform in full the contract requirements, and the business integrity and reliability that will assure good faith performance.
 
-Responsive Bidder or Proposer. A vendor whose bid or proposal conforms to the terms set out by the City in the solicitation.
+   Responsive Bidder or Proposer. A vendor whose bid or proposal conforms to the terms set out by the City in the solicitation.
 
-RFP. An acronym that stands for Request for Proposals. All documents, whether attached or incorporated by reference, used for soliciting competitive proposals.
+   RFP. An acronym that stands for Request for Proposals. All documents, whether attached or incorporated by reference, used for soliciting competitive proposals.
 
-Rule. As used herein, the statement or communication that prescribes mandatory standards for the procurement of goods, services, and construction.
+   Rule. As used herein, the statement or communication that prescribes mandatory standards for the procurement of goods, services, and construction.
 
-Sealed Bid. A bid that has been submitted in response to an Invitation for Bids in a sealed envelope to prevent its contents being revealed or known before the deadline for the submission of all bids. If so provided in the IFB, sealed bids may be submitted electronically, provided they are submitted in a manner that prevents the contents being revealed or known prior to the date and time set for opening of bids.
+   Sealed Bid. A bid that has been submitted in response to an Invitation for Bids in a sealed envelope to prevent its contents being revealed or known before the deadline for the submission of all bids. If so provided in the IFB, sealed bids may be submitted electronically, provided they are submitted in a manner that prevents the contents being revealed or known prior to the date and time set for opening of bids.
 
-Service Contract. A contract that calls for a vendor's time and effort rather than for delivery of goods and construction. The term as defined here does not include employment agreements or collective bargaining agreements.
+   Service Contract. A contract that calls for a vendor's time and effort rather than for delivery of goods and construction. The term as defined here does not include employment agreements or collective bargaining agreements.
 
-Services. The furnishing of labor, time, or effort by a vendor. This term shall not include employment agreements or collective bargaining agreements.
+   Services. The furnishing of labor, time, or effort by a vendor. This term shall not include employment agreements or collective bargaining agreements.
 
-Shall. Denotes the imperative.
+   Shall. Denotes the imperative.
 
-Shortlist of Investment Managers. The list of recommended Investment Managers that received multiple recommendations from the Investment Consultants.
+   Shortlist of Investment Managers. The list of recommended Investment Managers that received multiple recommendations from the Investment Consultants.
 
-Single Bid/Proposal. The only bid/proposal received in response to an Invitation for Bids/Request for Proposals.
+   Single Bid/Proposal. The only bid/proposal received in response to an Invitation for Bids/Request for Proposals.
 
-Small Purchases. Any procurement at or below the small purchase limits.
+   Small Purchases. Any procurement at or below the small purchase limits.
 
-Sole Source Procurement. An award of a contract for a good, service, or construction to the only source for the required good, service, or construction.
+   Sole Source Procurement. An award of a contract for a good, service, or construction to the only source for the required good, service, or construction.
 
-Solicitation. The process of notifying prospective vendors that a governmental body wishes to receive bids or proposals for furnishing goods, services, or construction. The process may consist of public advertising, mailing invitations for bids or requests for proposals, posting notices, telephone or facsimile messages to prospective vendors, or all of these.
+   Solicitation. The process of notifying prospective vendors that a governmental body wishes to receive bids or proposals for furnishing goods, services, or construction. The process may consist of public advertising, mailing invitations for bids or requests for proposals, posting notices, telephone or facsimile messages to prospective vendors, or all of these.
 
-Special Case. A situation in which it is either not practicable or not advantageous to the City to use competitive sealed bidding as defined in § 312 of the Charter.
+   Special Case. A situation in which it is either not practicable or not advantageous to the City to use competitive sealed bidding as defined in § 312 of the Charter.
 
-Specification. A description of what the purchaser seeks to buy and, subsequently, what a vendor must be responsive to in order to be considered for award of a contract. A specification may be a description of the physical or functional characteristics, or the nature of a good, service, or construction. It may include a description of any requirements for inspecting, testing, or preparing a good, service, or construction item for delivery; also Purchase Description.
+   Specification. A description of what the purchaser seeks to buy and, subsequently, what a vendor must be responsive to in order to be considered for award of a contract. A specification may be a description of the physical or functional characteristics, or the nature of a good, service, or construction. It may include a description of any requirements for inspecting, testing, or preparing a good, service, or construction item for delivery; also Purchase Description.
 
-Standard Services. Services other than professional services and human/client services such as custodial services, security guard services, stenography services and office machine repair.
+   Standard Services. Services other than professional services and human/client services such as custodial services, security guard services, stenography services and office machine repair.
 
-State. State of New York.
+   State. State of New York.
 
-Suspension. An agency decision to exclude a vendor from consideration for award of contracts for a period not exceeding three months plus any extensions pending a debarment determination by OATH.
+   Suspension. An agency decision to exclude a vendor from consideration for award of contracts for a period not exceeding three months plus any extensions pending a debarment determination by OATH.
 
-Time. Unless otherwise stated in these Rules, time shall be designated in calendar days.
+   Time. Unless otherwise stated in these Rules, time shall be designated in calendar days.
 
-Unsolicited Proposal. A written proposal submitted to an agency on the initiative of the proposer for the purpose of obtaining a contract with the City and which is not in response to a formal or informal request. Advertising material, commercial product offers, or technical correspondence are not considered unsolicited proposals.
+   Unsolicited Proposal. A written proposal submitted to an agency on the initiative of the proposer for the purpose of obtaining a contract with the City and which is not in response to a formal or informal request. Advertising material, commercial product offers, or technical correspondence are not considered unsolicited proposals.
 
-User. An individual or entity for which goods, services, or construction are to be purchased.
+   User. An individual or entity for which goods, services, or construction are to be purchased.
 
-VENDEX. A computerized citywide system providing comprehensive contract management information.
+   VENDEX. A computerized citywide system providing comprehensive contract management information.
 
-Vendor. An actual or potential contractor.
+   Vendor. An actual or potential contractor.
 
-WBE. (See M/WBE).
+   WBE. (See M/WBE).
 
-Year. Unless otherwise indicated in these Rules, the word "year" as it relates to terms of contracts shall mean the City's fiscal year.
+   Year. Unless otherwise indicated in these Rules, the word "year" as it relates to terms of contracts shall mean the City's fiscal year.
 
 
 
@@ -742,9 +742,9 @@ Prior to vendor selection, the ACCO shall determine that the contract price is f
 
       Contract. Any agreement between an agency, elected official, or the Council and a contractor, or any agreement between such a contractor and a subcontractor which:
 
-      (i) is for the provision of goods, services, or construction and has a value that when aggregated with the values of all other such agreements with the same contractor or subcontractor and any franchises or concessions awarded to such contractor or subcontractor during the immediately preceding twelve-month period is valued at $100,000 or more, or
+         (i) is for the provision of goods, services, or construction and has a value that when aggregated with the values of all other such agreements with the same contractor or subcontractor and any franchises or concessions awarded to such contractor or subcontractor during the immediately preceding twelve-month period is valued at $100,000 or more, or
 
-      (ii) is for the provision of goods, services, construction, or construction-related services, is awarded to a sole source, and is valued at $10,000 or more.
+         (ii) is for the provision of goods, services, construction, or construction-related services, is awarded to a sole source, and is valued at $10,000 or more.
 
       Contractor. All individuals, sole proprietorships, partnerships, joint ventures, or corporations who enter into a contract, as defined herein, with an agency, an elected official, or the Council.
 
@@ -802,7 +802,7 @@ Prior to vendor selection, the ACCO shall determine that the contract price is f
 
       (v) the basis for finding the sufficient information concerning the prospective contractor is otherwise available to permit the determination of responsibility absent the exempted information. In these cases the CCPO shall state the reasons that granting the exemption serves the best interests of the City and shall provide a copy of this determination to the Comptroller within five days.
 
-   (6) Exemption: sole source. In the case of a specific contract awarded in accordance with the sole source provision of § 3-05 of these Rules where a contractor refuses to supply some portion of the required information, but the need for the goods, services, or construction is such that is in the best interests of the City that the contract be awarded, the CCPO may exempt the contractor from the requirement for some specifically identified portion of information required by local law concerning the creation and maintenance of a computerized data base upon the written application of the ACCO setting forth with particularity:
+   (6) Exemption: sole source. In the case of a specific contract awarded in accordance with the sole source provision of 9 RCNY § 3-05 where a contractor refuses to supply some portion of the required information, but the need for the goods, services, or construction is such that is in the best interests of the City that the contract be awarded, the CCPO may exempt the contractor from the requirement for some specifically identified portion of information required by local law concerning the creation and maintenance of a computerized data base upon the written application of the ACCO setting forth with particularity:
 
       (i) the efforts to obtain the required information;
 
@@ -870,7 +870,7 @@ Prior to vendor selection, the ACCO shall determine that the contract price is f
 
    (3) The determination of non-responsibility shall be included in the VENDEX database.
 
-(i) Determination of non-responsibility. An agency letting a contract by competitive sealed bid or competitive sealed bid from prequalified vendors may find the lowest responsive bidder(s) to be non-responsible in accordance with § 2-08 of these Rules.
+(i) Determination of non-responsibility. An agency letting a contract by competitive sealed bid or competitive sealed bid from prequalified vendors may find the lowest responsive bidder(s) to be non-responsible in accordance with 9 RCNY § 2-08 of these Rules.
 
 (j) Notice. After making a determination of non-responsibility, the ACCO shall notify the lowest bidder in writing of that determination. The notification shall state the reasons upon which the determination is based and shall inform the bidder of the right to appeal the determination of non-responsibility to the Agency Head and subsequently to the Mayor, and of the procedure for taking such appeals. The notification shall also contain the following statement:
 
@@ -1467,11 +1467,11 @@ Chapter 3: Methods of Source Selection
 
          (6) record of compliance with all federal, State and local laws, rules, licensing requirements, where applicable, and executive orders, including but not limited to compliance with existing labor standards and prevailing wage laws.
 
-         The ACCO, or committee, may consider any and all information related to such factors in determining best value and may require additional information to be submitted by the bidders with the bid, or alternatively, within up to thirty (30) days from the bid opening from all bidders whose bids are to be considered pursuant to in 3-02(o)(1)(iii). If a committee is used to evaluate the bids, then written evaluation forms shall be completed to record the evaluation of the bids and shall be signed and dated by all members of the committee.
+         The ACCO, or committee, may consider any and all information related to such factors in determining best value and may require additional information to be submitted by the bidders with the bid, or alternatively, within up to thirty (30) days from the bid opening from all bidders whose bids are to be considered pursuant to in 9 RCNY § 3-02(o)(1)(iii). If a committee is used to evaluate the bids, then written evaluation forms shall be completed to record the evaluation of the bids and shall be signed and dated by all members of the committee.
 
       (iv) If award will be made based on best value, a certified M/WBE in a group for which there is a goal established pursuant to section 6-129 of the New York City Administrative Code must, except with the permission of the CCPO, be given a price preference of 10% and will be evaluated as if the bid price were 10% lower.
 
-   (2) Negotiation with the apparent lowest responsive and responsible bidder or responsive and responsible bidder providing best value. Upon determination of the apparent lowest responsive and responsible bidder or responsive and responsible bidder providing best value, pursuant to 3-02(0)(1), and prior to award, the Contracting Officer may elect to open negotiations with the selected vendor in an effort to improve the bid to the City with respect to the price only if award will be made to the lowest responsive and responsible bidder, or if award will be made to the responsive and responsible bidder whose bid represents the best value to the City, with respect to any of the factors considered in determining best value. In the event the apparent winning bidder declines to negotiate, the Contracting Officer may elect to either award the contract to the apparent winning bidder or may, upon written approval by the ACCO, reject all bids in accordance with this section. The result of negotiations, if any, shall be documented in the Recommendation for Award.
+   (2) Negotiation with the apparent lowest responsive and responsible bidder or responsive and responsible bidder providing best value. Upon determination of the apparent lowest responsive and responsible bidder or responsive and responsible bidder providing best value, pursuant to 9 RCNY § 3-02(0)(1), and prior to award, the Contracting Officer may elect to open negotiations with the selected vendor in an effort to improve the bid to the City with respect to the price only if award will be made to the lowest responsive and responsible bidder, or if award will be made to the responsive and responsible bidder whose bid represents the best value to the City, with respect to any of the factors considered in determining best value. In the event the apparent winning bidder declines to negotiate, the Contracting Officer may elect to either award the contract to the apparent winning bidder or may, upon written approval by the ACCO, reject all bids in accordance with this section. The result of negotiations, if any, shall be documented in the Recommendation for Award.
 
    (3) Award. Upon the determination of the apparent winning bidder pursuant to 9 RCNY § 3-02(o)(1), a Recommendation for Award shall be approved by the ACCO and the contract shall be awarded to that bidder. Where the award is based on best value to the City, the ACCO shall set forth in the Recommendation for Award the reasons that the bid represents the best value to the City and the factors considered by the agency.
 
@@ -1719,7 +1719,7 @@ Chapter 3: Methods of Source Selection
 
 (f) RFP handling procedures.
 
-   (1) Pre-proposal or pre-solicitation conferences. Pre-proposal or pre-solicitation conferences may be conducted in the manner set forth in § 3-02 of these Rules.
+   (1) Pre-proposal or pre-solicitation conferences. Pre-proposal or pre-solicitation conferences may be conducted in the manner set forth in 9 RCNY § 3-02.
 
    (2) Amendments to RFPs. Amendments to RFPs may be made in the manner set forth in 9 RCNY § 3-02.
 
@@ -1811,11 +1811,11 @@ Chapter 3: Methods of Source Selection
 
       (i) During discussions prior to best and final offers. Once discussions are commenced with any proposer or after best and final offers are requested, any offeror may correct any mistake by modifying or withdrawing the proposal until the time and date set for receipt of best and final offers.
 
-      (ii) Minor informalities. Minor informalities, unless otherwise corrected by an offeror, shall be treated in accordance with § 3-02(m)(3)(i) of these Rules.
+      (ii) Minor informalities. Minor informalities, unless otherwise corrected by an offeror, shall be treated in accordance with 9 RCNY § 3-02(m)(3)(i).
 
       (iii) Correction of mistakes. If discussions are not held or if the best and final offers upon which award will be made have been received, mistakes may be corrected and the intended correct offer considered only in accordance with 9 RCNY § 3-02(m)(3)(ii).
 
-   (3) Mistakes discovered after vendor selection. Mistakes shall not be corrected after vendor selection except in accordance with § 3-02(m)(4) of these Rules.
+   (3) Mistakes discovered after vendor selection. Mistakes shall not be corrected after vendor selection except in accordance with 9 RCNY § 3-02(m)(4).
 
    (4) Determinations required. When a proposal is corrected or withdrawn, or correction or withdrawal is denied, a determination shall be prepared in accordance with 9 RCNY § 3-02(m)(5).
 
@@ -2395,7 +2395,7 @@ Chapter 3: Methods of Source Selection
 
    (3) Updated PQLs. When using a PQL for a procurement, publication of notice soliciting vendors for such list shall have occurred within one year of the solicitation.
 
-(f) Questionnaire. To apply for inclusion on a PQL, a vendor must complete and submit an agency-developed prequalification questionnaire. At least once every two years, and at the time of submitting any bid or proposal in response to a solicitation from a PQL, vendors shall affirm that there has been no change in the information included in the prequalification questionnaire, or shall supply such changed information. With respect to any PQL used in connection with contract awards pursuant to § 1-02(e) of these Rules, such affirmation by vendors that there has been no change in the information included in the prequalification questionnaire (or the supplying of such changed information) shall occur at the time of contract award.
+(f) Questionnaire. To apply for inclusion on a PQL, a vendor must complete and submit an agency-developed prequalification questionnaire. At least once every two years, and at the time of submitting any bid or proposal in response to a solicitation from a PQL, vendors shall affirm that there has been no change in the information included in the prequalification questionnaire, or shall supply such changed information. With respect to any PQL used in connection with contract awards pursuant to 9 RCNY § 1-02(e), such affirmation by vendors that there has been no change in the information included in the prequalification questionnaire (or the supplying of such changed information) shall occur at the time of contract award.
 
 (g) Making the Prequalification Decision. Prequalification questionnaires shall be reviewed by the ACCO and other agency personnel with knowledge, expertise, and experience sufficient to make a fair and reasonable determination, as appropriate. The ACCO shall have ninety days from the date of submission of a properly completed prequalification questionnaire to approve or deny prequalification.
 
@@ -3116,7 +3116,7 @@ Chapter 4: Contract Administration
 
       (iii) extensions of a contract term for good and sufficient cause for a cumulative period not to exceed one year from the date of expiration of the current contract. Requirements contracts shall be subject to this limitation;
 
-      (iv) extensions of a contract term pursuant to Section 3-11(d)(2) of these Rules;
+      (iv) extensions of a contract term pursuant to 9 RCNY § 3-11(d)(2);
 
       (v) changes in delivery location;
 
@@ -3128,7 +3128,7 @@ Chapter 4: Contract Administration
 
    (3) Small purchases. Changes to small purchases shall not bring the total value of the procurement to an amount greater than the small purchase limits.
 
-   (4) Subcontracts. Changes to construction subcontracts shall be made in accordance with § 4-13(d) of these Rules.
+   (4) Subcontracts. Changes to construction subcontracts shall be made in accordance with 9 RCNY § 4-13(d).
 
 (c) Adjustments of price or time for performance. The vendor may be entitled to a price adjustment for extra work performed or to be performed pursuant to a written change order. If any part of the contract work is necessarily delayed by a change order, the vendor may be entitled to an extension of time for performance. Adjustments to price shall be validated for reasonableness by using appropriate price and cost analysis.
 
@@ -3158,7 +3158,7 @@ Chapter 4: Contract Administration
 
 (b) Goods and services.
 
-   (1) An extension of time may be granted only by the ACCO of the agency that awarded the contract upon written application by the contractor. An extension pursuant to this section may be granted only for performance based contracts (such as for the delivery of goods or deliverable based services) and this section does not apply to extensions pursuant to Section 4-02 or renewals pursuant to Section 4-04 of these Rules. For contracts consisting of separate deliverable based elements (such as task or purchase orders pursuant to a requirements contract), an extension pursuant to this section may be made only for such deliverable based elements (such as task or purchase orders) and not the underlying contract.
+   (1) An extension of time may be granted only by the ACCO of the agency that awarded the contract upon written application by the contractor. An extension pursuant to this section may be granted only for performance based contracts (such as for the delivery of goods or deliverable based services) and this section does not apply to extensions pursuant to 9 RCNY § 4-02 or renewals pursuant to 9 RCNY § 4-04. For contracts consisting of separate deliverable based elements (such as task or purchase orders pursuant to a requirements contract), an extension pursuant to this section may be made only for such deliverable based elements (such as task or purchase orders) and not the underlying contract.
 
    (2) The ruling of the ACCO is final and binding as to the allowance of an extension, and the number of days allowed.
 
@@ -3226,9 +3226,9 @@ Chapter 4: Contract Administration
 
 (b) Renewals Not Permitted. Unless specifically contracted for, as in contracts containing an option to renew, renewals shall not be permitted where:
 
-   (1) additional quantities of goods are required, except in the case of goods acquired through requirements contracts (which shall be subject to the contract term extension limitations in Section 4-02(b)(1)(iii), or
+   (1) additional quantities of goods are required, except in the case of goods acquired through requirements contracts (which shall be subject to the contract term extension limitations in 9 RCNY § 4-02(b)(1)(iii), or
 
-   (2) except as provided in Sections 4-02(b)(1)(ii) and 4-02(b)(1)(iii), a continuation of types of services is required, the procurements shall be made by new solicitations by one of the appropriate methods of source selection set forth in these Rules.
+   (2) except as provided in 9 RCNY § 4-02(b)(1)(ii) and 9 RCNY § 4-02(b)(1)(iii), a continuation of types of services is required, the procurements shall be made by new solicitations by one of the appropriate methods of source selection set forth in these Rules.
 
 (c) Recommendation for Renewal. The Contracting Officer shall prepare a Recommendation for Renewal which shall be approved by the ACCO. The Recommendation for Renewal shall include the following documentation:
 
@@ -3330,13 +3330,13 @@ The CCPO (in the case of construction and certain services), and the DCAS (in th
 
 (b) Definitions. In this section, the following words have the meanings indicated.
 
-Applicable Interest Rate. Interest shall be the maximum amount allowed by law or such lower uniform interest rate as may be set jointly by the Comptroller and OMB.
+   Applicable Interest Rate. Interest shall be the maximum amount allowed by law or such lower uniform interest rate as may be set jointly by the Comptroller and OMB.
 
-Designated Billing Office. The office or employee designated in the contract to which a proper invoice is to be submitted by a contractor.
+   Designated Billing Office. The office or employee designated in the contract to which a proper invoice is to be submitted by a contractor.
 
-Discount Date. The date by which, if payment is made, a specified invoice payment reduction, or discount, can be taken.
+   Discount Date. The date by which, if payment is made, a specified invoice payment reduction, or discount, can be taken.
 
-Invoice Received or Acceptance Date ("IRA Date") – Goods and Services.
+   Invoice Received or Acceptance Date ("IRA Date") – Goods and Services.
 
       (i) For purposes of determining a payment due date for goods and services and the date on which interest will begin to accrue and for no other purpose, an invoice received or acceptance date ("IRA date") is defined as the later of :
 
@@ -3348,15 +3348,15 @@ Invoice Received or Acceptance Date ("IRA Date") – Goods and Services.
 
             ((b))  a longer acceptance period is required by law or included in the contract to afford the agency a practicable opportunity to inspect, test, and accept the goods or evaluate the services (in which case the date of actual acceptance or the date on which such longer acceptance period ends shall substitute for the seventh day after the delivery or performance date).
 
-Invoice Received or Acceptance Date ("IRA Date") – Construction and Construction-Related Services. For construction, for purpose of determining a payment due date and the date on which interest will begin to accrue and for no other purpose, an invoice received or acceptance date ("IRA date") is defined as the date when the field engineer certifies on the payment requisition that the work has been accepted.
+   Invoice Received or Acceptance Date ("IRA Date") – Construction and Construction-Related Services. For construction, for purpose of determining a payment due date and the date on which interest will begin to accrue and for no other purpose, an invoice received or acceptance date ("IRA date") is defined as the date when the field engineer certifies on the payment requisition that the work has been accepted.
 
-Proper Invoice. A written request for a contract payment that is submitted by a vendor in good faith setting forth the description, price, and quantity of goods or services delivered or rendered, in such form and supported by such documentation as an agency may require, and any other documents required by contract.
+   Proper Invoice. A written request for a contract payment that is submitted by a vendor in good faith setting forth the description, price, and quantity of goods or services delivered or rendered, in such form and supported by such documentation as an agency may require, and any other documents required by contract.
 
-Required Payment Date or Interest Eligibility Date. The date by which a contract payment must be made in order for an agency not to become liable for interest payments.
+   Required Payment Date or Interest Eligibility Date. The date by which a contract payment must be made in order for an agency not to become liable for interest payments.
 
-Receiving Report. This report may be used by a receiving unit to inform others, such as the purchasing, warehousing, accounting, and quality assurance departments, of the receipt of goods purchased or acceptance of services rendered. A receiving unit may, in some cases, also verify that goods and services conform to specification requirements and may include on the receiving report evidence of the acceptance of the goods and services.
+   Receiving Report. This report may be used by a receiving unit to inform others, such as the purchasing, warehousing, accounting, and quality assurance departments, of the receipt of goods purchased or acceptance of services rendered. A receiving unit may, in some cases, also verify that goods and services conform to specification requirements and may include on the receiving report evidence of the acceptance of the goods and services.
 
-Retainage. The right of the City pursuant to a contract and/or law to withhold from the invoice and retain a specified percentage of payment until such time as it is to be released pursuant to the contract and/or law.
+   Retainage. The right of the City pursuant to a contract and/or law to withhold from the invoice and retain a specified percentage of payment until such time as it is to be released pursuant to the contract and/or law.
 
 (c) Standards for prompt payment.
 
@@ -3534,11 +3534,11 @@ Retainage. The right of the City pursuant to a contract and/or law to withhold f
 
    (1) The ACCO shall select from the following alternatives the most competitive alternative appropriate under the circumstances. The ACCO shall document the reasons that this is the most competitive alternative appropriate under the circumstances. The following methods, in decreasing order of competitiveness may be used:
 
-      (i) solicitation of sealed bids through public notice. Notice of the availability of the IFB shall be publicly advertised at least once in the City Record. Individual notice to bidders in accordance with § 3-02(e) of these Rules shall not be required, but the published notice shall contain all the information required by § 3-02(e);
+      (i) solicitation of sealed bids through public notice. Notice of the availability of the IFB shall be publicly advertised at least once in the City Record. Individual notice to bidders in accordance with 9 RCNY § 3-02(e) shall not be required, but the published notice shall contain all the information required by 9 RCNY § 3-02(e);
 
       (ii) award to either the next lowest responsive and responsible bidder or next most advantageous responsive and responsible proposer on the original solicitation at a price agreed upon between the bidder or proposer and the City;
 
-      (iii) solicitation of sealed bids or proposals from a prequalified list prepared in accordance with § 3-10 of these Rules;
+      (iii) solicitation of sealed bids or proposals from a prequalified list prepared in accordance with 9 RCNY § 3-10;
 
       (iv) solicitation of sealed bids or proposals from a Special Completion Contract Bidders or Proposers List. The ACCO may develop a list of available vendors competent to perform the completion contract and seek bids or proposals from at least three such vendors; or
 
@@ -3784,7 +3784,7 @@ Retainage. The right of the City pursuant to a contract and/or law to withhold f
 
    (5) the existing terms of the contract should be enforced in some manner by the agency administering the contract.
 
-(c) Transmittal of determination. The Borough President shall transmit to the Agency Head of the agency administering the contract a copy of the determination and recommendation made pursuant to subdivision 4-11(b) above.
+(c) Transmittal of determination. The Borough President shall transmit to the Agency Head of the agency administering the contract a copy of the determination and recommendation made pursuant to 9 RCNY § 4-11(b).
 
 (d) Time period for recommendation affecting renewal of contract. In the case of a recommendation that a contract should not be renewed or should be modified at the time of renewal, such recommendation shall be made to the Agency Head at least one hundred and twenty days prior to the expiration of the contract.
 
@@ -3822,11 +3822,11 @@ Retainage. The right of the City pursuant to a contract and/or law to withhold f
 
    (i) No contract shall be implemented until the procedures set forth in Charter § 328 have been followed.
 
-   (ii) In the circumstance wherein an expiring contract for client services is to be replaced by a new contract awarded from an RFP pursuant to Section 3-03 or via HHS Accelerator pursuant to Section 3-16, renewed pursuant to Section 4-04 or extended pursuant to Sections 3-04(b)(2)(iii) or 4-02(b)(1)(iii), the agency should notify the selected vendor of its selection by no later than ninety (90) days prior to the expiration date of the contract that is to be replaced, renewed or extended. Earlier notification is preferable, particularly where the agency anticipates that the vendor will be required to file a new VENDEX questionnaire pursuant to Section 2-08(e)(2). In addition, where an agency proposes to continue services by means of a new RFP award, the Notice of Solicitation for such RFP should be published by the agency pursuant to Section 3-03(d), or by the HHS Accelerator Director pursuant to Section 3-16(b)(1), by no later than two hundred fifty (250) days prior to the expiration of the contracts to be replaced.
+   (ii) In the circumstance wherein an expiring contract for client services is to be replaced by a new contract awarded from an RFP pursuant to 9 RCNY § 3-03 or via HHS Accelerator pursuant to 9 RCNY § 3-16, renewed pursuant to 9 RCNY § 4-04 or extended pursuant to 9 RCNY §§ 3-04(b)(2)(iii) or 4-02(b)(1)(iii), the agency should notify the selected vendor of its selection by no later than ninety (90) days prior to the expiration date of the contract that is to be replaced, renewed or extended. Earlier notification is preferable, particularly where the agency anticipates that the vendor will be required to file a new VENDEX questionnaire pursuant to 9 RCNY § 2-08(e)(2). In addition, where an agency proposes to continue services by means of a new RFP award, the Notice of Solicitation for such RFP should be published by the agency pursuant to 9 RCNY § 3-03(d), or by the HHS Accelerator Director pursuant to 9 RCNY § 3-16(b)(1), by no later than two hundred fifty (250) days prior to the expiration of the contracts to be replaced.
 
 (b) Timeliness of submission for registration.
 
-   (i) The provisions of this subdivision shall apply to client service contracts and extensions: contracts awarded by negotiated acquisition where there is a compelling need to extend the contract one or more times beyond the cumulative twelve-month limit, pursuant to § 3-04(b)(2)(iii); contracts for which no public hearing is required pursuant to these Rules because they do not differ materially in terms and conditions from contracts currently held by the City where the parties to such contracts are the same, pursuant to § 2-11(b)(3); extensions of contract terms for a cumulative period not to exceed one year, pursuant to § 4-02(b)(1)(iii); and renewal contracts, pursuant to § 4-04. Notwithstanding the above, contracts awarded pursuant to § 1-02(e) shall not be subject to the provisions of this subdivision.
+   (i) The provisions of this subdivision shall apply to client service contracts and extensions: contracts awarded by negotiated acquisition where there is a compelling need to extend the contract one or more times beyond the cumulative twelve-month limit, pursuant to 9 RCNY § 3-04(b)(2)(iii); contracts for which no public hearing is required pursuant to these Rules because they do not differ materially in terms and conditions from contracts currently held by the City where the parties to such contracts are the same, pursuant to 9 RCNY § 2-11(b)(3); extensions of contract terms for a cumulative period not to exceed one year, pursuant to 9 RCNY § 4-02(b)(1)(iii); and renewal contracts, pursuant to 9 RCNY § 4-04. Notwithstanding the above, contracts awarded pursuant to 9 RNCY § 1-02(e) shall not be subject to the provisions of this subdivision.
 
    (ii) Any agency that submits such a contract or extension to the Comptroller for registration after the start date of such contract shall be deemed to have submitted the contract in an untimely manner, unless the ACCO determines that the vendor's conduct constituted a material cause of such late submission. The ACCO shall not make such a determination against a vendor unless the agency met the timely notification set forth in subdivision (a)(ii) above, i.e., by notifying the vendor at least ninety (90) days prior to the expiration of the contract to be replaced.
 
@@ -3834,7 +3834,7 @@ Retainage. The right of the City pursuant to a contract and/or law to withhold f
 
 (d) Interest payments.
 
-   (i) An agency required to make interest payments under this Section shall make them for the period commencing thirty (30) days after the start date of the contract and ending with the date the contract is registered. Interest payments shall be made only to reimburse the vendor for interest actually incurred by the vendor pursuant to a loan taken out by the vendor; where such loan was used and interest incurred because of the untimely registration of a contract. The rate at which such interest is reimbursed shall not exceed the maximum rate allowed by law or the rate set jointly by the Comptroller and OMB pursuant to § 4-06, whichever is lower. The amount of the loan on which the interest payments are based shall not be greater than the amount due under the contract prior to registration. No interest shall be paid if the vendor had been previously offered an interest-free loan in connection with the contract in question, but declined to accept it.
+   (i) An agency required to make interest payments under this Section shall make them for the period commencing thirty (30) days after the start date of the contract and ending with the date the contract is registered. Interest payments shall be made only to reimburse the vendor for interest actually incurred by the vendor pursuant to a loan taken out by the vendor; where such loan was used and interest incurred because of the untimely registration of a contract. The rate at which such interest is reimbursed shall not exceed the maximum rate allowed by law or the rate set jointly by the Comptroller and OMB pursuant to 9 RCNY § 4-06, whichever is lower. The amount of the loan on which the interest payments are based shall not be greater than the amount due under the contract prior to registration. No interest shall be paid if the vendor had been previously offered an interest-free loan in connection with the contract in question, but declined to accept it.
 
    (ii) The Comptroller and OMB may, for a limited period of time not to exceed thirty days per calendar year, jointly defer the City's obligation to pay interest when the City is experiencing a shortage of cash. In such event, the CCPO shall provide, at the earliest practicable opportunity, written notice to ACCOs of this action and its expected duration. Notice of this action shall be published by the CCPO in the City Record as soon as is practicable after such determination is made, not to exceed thirty days. The CCPO shall provide similar written notice of subsequent action either to extend or cancel this period of deferral.
 
@@ -3862,7 +3862,7 @@ Retainage. The right of the City pursuant to a contract and/or law to withhold f
 
    (3) The Agency shall notify the vendor within thirty days whether preliminary approval has been granted. If preliminary approval is granted the vendor shall provide such documentation as may be requested by the agency to show that the proposed subcontractor has the necessary facilities, skill, integrity, past experience and financial resources to perform the required work, including, as applicable, but not limited to:
 
-      (i) Completed VENDEX questionnaires, if and as required under Rule 2-08(e);
+      (i) Completed VENDEX questionnaires, if and as required under 9 RCNY § 2-08(e);
 
       (ii) References;
 
@@ -3872,9 +3872,9 @@ Retainage. The right of the City pursuant to a contract and/or law to withhold f
 
    (4) Upon receipt of all relevant documentation, the agency shall notify the vendor in writing whether the proposed subcontractor is approved. If the proposed subcontractor is not approved, the vendor may submit another proposed subcontractor unless the vendor decides to do the work. No subcontractor shall be permitted to perform work unless approved by the agency.
 
-(e) Change of Subcontractor. For construction contracts where a list of subcontractors has been submitted in accordance with Section 3-02 (b)(xx)(J)* of these Rules, any change of subcontractor or agreed-upon amount to be paid to a subcontractor shall require the approval of the City upon a showing of a legitimate construction need for such change. A legitimate construction need shall include, but not be limited to, a change in project specifications, a change in construction material costs, a change to subcontractor status as determined to Section 222 (2)(e) of the New York State Labor Law, or the subcontractor has become otherwise unwilling, unable or unavailable to perform the subcontract. Documents relating to the City's approval of changes of subcontractors pursuant to this subdivision shall be open to public inspection.
+(e) Change of Subcontractor. For construction contracts where a list of subcontractors has been submitted in accordance with 9 RCNY § 3-02 (b)(xx)(J), any change of subcontractor or agreed-upon amount to be paid to a subcontractor shall require the approval of the City upon a showing of a legitimate construction need for such change. A legitimate construction need shall include, but not be limited to, a change in project specifications, a change in construction material costs, a change to subcontractor status as determined to Section 222(2)(e) of the New York State Labor Law, or the subcontractor has become otherwise unwilling, unable or unavailable to perform the subcontract. Documents relating to the City's approval of changes of subcontractors pursuant to this subdivision shall be open to public inspection.
 
-(f) Payment. Payment to subcontractors shall be made in accordance with Section 4-06(e)(2) of these Rules.
+(f) Payment. Payment to subcontractors shall be made in accordance with 9 RCNY § 4-06(e)(2).
 
 (g) Privity. The approval by the City of a subcontractor shall not establish privity between that subcontractor and the City or relieve the vendor of any obligations under the contract.
 

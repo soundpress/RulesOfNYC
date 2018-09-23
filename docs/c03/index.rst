@@ -67,14 +67,14 @@ Chapter 1: License Enforcement
 
 
 
- 
+
 
 
 .. list-table::
     :header-rows: 1
 
     * - Amusement Devices, Arcades and Operators
-      - January 16 of Even Years
+      - January 16 of Even Years 
     * - Auctioneer and Night Auction Sales
       - June 15 of Even Years
     * - Billiard Room
@@ -636,234 +636,6 @@ Fees for the testing and measuring of weights and measures and weighing and meas
 *§ 3-28 Inspection Fees for Testing and Sealing Weighing and Measuring Devices.* ::
 
 
-(a) Scales.
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 
-      - Fees 
-    * - (1)  33 lb. or lower capacity
-      -  $  20.00
-    * - (2)  Over 33 lbs., up to and including 661 lbs
-      -  40.00
-    * - (3)  Over 661 lbs., up to and including 3,307 lbs.
-      -  100.00
-    * - (4)  Over 3,307 lbs., up to and including 15,432 lbs.
-      -  140.00
-    * - (5)  Over 15,432 lbs., up to and including 50,705 lbs.
-      -  160.00
-    * - (6)  Over 50,706 lbs.
-      -  200.00
-    * - (7)  Tank, barch and crane scales
-      -  400.00
-~
-
- 
-
-(b) Weights – field.
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - (1)  Up to and including 11 lbs., 5 weights or fewer
-      -  $    8.00
-    * - (2)  Up to and including 11 lbs., 6 weights or more
-      -  16.00
-    * - (3)  Over 11 lbs., 5 weights or fewer
-      -  20.00
-    * - (4)  Over 11 lbs., 6 weights or more
-      -  24.00
-~
-
-
-
- 
-
-(c) Linear field measures (yard stick).
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - (1)  Up to 39 in., 5 units or fewer
-      -  $    4.00
-    * - (2)  Up to 39 in., 6 units or more
-      -  12.00
-    * - (3)  Measuregraph
-      -  24.00
-    * - (4)  Wire and cordage
-      -  50.00
-~
-
-
-
- 
-
-(d) Liquid measures and devices.
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - (1)  Liquid measures, 5 gallons or less
-      -  $    8.00
-    * - (2)  Liquid pump (hand operated) 5 gallons or less
-      -  20.00
-~
-
-
-
- 
-
-(e) Petroleum dispensing and measuring devices.
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - (1)  Single dispensing devices
-      -  $  20.00
-    * - (2)  Dual dispensing devices
-      -  40.00
-    * - (3)  Blend dispensing devices
-      -  40.00
-    * - (4)  Grease and oil devices
-      -  8.00
-~
-
-
-
- 
-
-(f) Vehicles.
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - (1)  Meter systems, 79 gallons per minute or less
-      -  $100.00
-    * - (2)  Meter systems, over 79 gallons per minute
-      -  150.00
-    * - (3)  Marker check and seal compartments
-      -  40.00
-    * -  (i)  Up to and including 600 gallon capacity
-      -  100.00
-    * -  (ii)  600 gallon up to and including 1500 gallon capacity
-      -  200.00
-    * -  (iii)  Over 1500 gallon capacity
-      -  280.00
-~
-
-
-
- 
-
-(g) Stationary petroleum metering systems.
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - (1)  Up to 106 gallons per minute
-      -  $100.00
-    * - (2)  Over 106 gallons per minute, up to and including 528 gallons per minute
-      -  150.00
-    * - (3)  Over 528 gallons per minute, up to and including 1057 gallons per minute
-      -  150.00
-    * - (4)  Over 1057 gallons per minute
-      -  150.00
-~
-
-
-
- 
-
-(h) Laboratory fees – testing and calibration.
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - (1) Weights.
-      -  
-    * -  (i) 5 lbs. or less
-      -  $    6.00
-    * -  (ii) Over 5 lbs., up to and inducing 25 lbs.
-      -  10.00
-    * -  (iii) Over 25 lbs., up to and including 50 lbs.
-      -  10.00
-    * -  (iv) Over 50 lbs., up to and including 500 lbs.
-      -  12.00
-    * -  (v) Over 500 lbs.
-      -  35.00
-    * -  (vi)  Weight kits up to and including 32 lbs. (not exceeding 26 pieces)
-      -  70.00
-    * -  (vii)  Weight kits up to and including 12 lbs. (not exceeding 16 pieces)
-      -  40.00
-    * - (2) Liquid test measure
-      -  15.00
-    * - (3) Precision glassware
-      -  15.00
-    * - (4) Provors
-      -  
-    * -  (i) Up to and including 106 gallons
-      -  70.00
-    * -  (ii) Over 106 gallons up to and including 350 gallons
-      -  100.00
-    * -  (iii) Over 350 gallons
-      -  150.00
-    * - (5) Linear measures (steel tapes)
-      -  
-    * -  (i) Up to and including 50 feet
-      -  30.00
-    * -  (ii) 50 feet or more
-      -  40.00 
-~
-
- 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - (i) Timing devices 
-      - $  10.00
-~
-
-
-
- 
-
-
-
-
-
-
-*§ 3-29 Installation of Weighing and Measuring Devices.* ::
-
-
 Every commercial establishment using a weighing or measuring device, weight or measure to determine the quantity of a product sold, offered for sale, purchased or offered for purchase, or to determine a service charge based on weight or measure of any kind shall submit in writing to the department a notice of the installation of any additional new, used, rebuilt or repaired weighing or measuring device or the substitution of a new, used or rebuilt weighing or measuring device subsequent to the last inspection, testing and sealing of the devices on the premises. Such notice shall be submitted within three days of such installation.
 
 
@@ -929,7 +701,7 @@ Candy in containers must be marked to show the net weight of the contents.
 
 (a) Definitions and standards of identity.
 
-Melloream or a vegetable oil blend. As used in this section, the terms "melloream" or a "vegetable oil blend" mean any substance, mixture or compound regardless of the name by which it is represented, which contains vegetable fats or oils and proteins derived from animal or vegetable sources, and whose appearance, odor and taste is similar to cream, half and half, milk or a mixture of milk and cream, to the point of rendering these products difficult to differentiate from each other.
+   Melloream or a vegetable oil blend. As used in this section, the terms "melloream" or a "vegetable oil blend" mean any substance, mixture or compound regardless of the name by which it is represented, which contains vegetable fats or oils and proteins derived from animal or vegetable sources, and whose appearance, odor and taste is similar to cream, half and half, milk or a mixture of milk and cream, to the point of rendering these products difficult to differentiate from each other.
 
 (b) Labeling of melloream and vegetable oil blends. Whenever the brand name of melloream or a vegetable oil blend, as defined in subdivision (a) appears on the container so conspicuously as to be seen under customary conditions of purchase, there shall immediately and conspicuously precede or follow the brand name or product designation, without intervening written, printed or graphic matter, in letters at least one-third the size of the brand name on a contrasting background, any one of the following statements: "melloream," "a vegetable oil blend," "a vegetable oil product," "not a dairy product," "contains no milk or milk fat." There shall also appear on the label an accurate list of ingredients.
 
@@ -1001,7 +773,7 @@ The use of the term "fresh" or any other term of similar import shall not be dee
 *§ 3-51 Weights and Size of Eggs.* ::
 
 
-Terms designating weight and size must be applied to each lot of eggs in connection with a sale, offering for sale or advertisement for sale. The following terms shall be used according to the weights given:
+Terms designating weight and size must be applied to each lot of eggs in connection with a sale, offering for sale or advertisement for sale. The following terms shall be used according to the weights given: 
 
  
 
@@ -1754,7 +1526,7 @@ Any licensed repairman who elects to use initials, abbreviations, trademarks or 
 *§ 4-04 Employees' Identification Number or Letter.* ::
 
 
-Each licensed repairman (company) shall, if he or it employs more than one repairman or serviceman, assign an identification number or letter to each such individual. Said identification number or letter must also be imprinted upon the security seal in addition to the information required in § 4-02 above.
+Each licensed repairman (company) shall, if he or it employs more than one repairman or serviceman, assign an identification number or letter to each such individual. Said identification number or letter must also be imprinted upon the security seal in addition to the information required in 6 RCNY § 4-02.
 
 
 
@@ -1791,10 +1563,10 @@ City of New York [in 16-point bold type] [Insert name], Mayor
 
 
 
-*§ 4-11* Size of Sign.* ::
+*§ 4-11 Size of Sign.* ::
 
 
-The sign containing the information specified in § 4-11 of this subchapter shall not be smaller than eleven inches in length and eight and one-half inches in height, and the letters shall be printed in the font type identified above in italics.
+The sign containing the information specified in 6 RCNY § 4-10 shall not be smaller than eleven inches in length and eight and one-half inches in height, and the letters shall be printed in the font type identified above in italics.
 
 
 
@@ -2061,7 +1833,7 @@ Selector valves on each truck used for making a delivery of gasoline shall be cl
 
    (7) If service of gasoline or diesel motor fuel may be made from more than one side of a pump or dispensing device, the Sign shall be so constructed as to be visible from each side from which dispensing takes place or a Sign shall be posted on each side that dispensing takes place.
 
-   (8) Each pump which dispenses more than two grades of gasoline shall display a sign which shall be not less than 13 inches in height and 26 inches in width and shall contain the total selling price and a price breakdown box for each grade of gasoline dispensed, and shall satisfy the following conditions and paragraphs (4), (6) and (7) of this § 4-63(a): (i) The width space of the sign shall be equally divided among all of the grades of gasoline dispensed.
+   (8) Each pump which dispenses more than two grades of gasoline shall display a sign which shall be not less than 13 inches in height and 26 inches in width and shall contain the total selling price and a price breakdown box for each grade of gasoline dispensed, and shall satisfy the following conditions and paragraphs (4), (6) and (7) of this 6 RCNY § 4-63(a): (i) The width space of the sign shall be equally divided among all of the grades of gasoline dispensed.
 
       (ii) Each grade subdivision of the sign shall be composed of two units. One shall contain the total selling price and the other shall contain the price breakdown box.
 
@@ -2308,7 +2080,7 @@ Processed meats and meat products labeled by a person other than the retailer, s
 *§ 4-87 Wholesale Labels.* ::
 
 
-Containers of processed meats and meat products which are not individually labeled, when sold or offered for sale at wholesale, shall be labeled as to net weight and labeled as to moisture content in accordance with the provisions of § 4-82 of these rules and regulations. In lieu of such moisture content labeling, said containers may be labeled with the statement, "all products comply with applicable maximum moisture requirements of New York City Law."
+Containers of processed meats and meat products which are not individually labeled, when sold or offered for sale at wholesale, shall be labeled as to net weight and labeled as to moisture content in accordance with the provisions of 6 RCNY § 4-82. In lieu of such moisture content labeling, said containers may be labeled with the statement, "all products comply with applicable maximum moisture requirements of New York City Law."
 
 
 
@@ -2318,7 +2090,7 @@ Containers of processed meats and meat products which are not individually label
 *§ 4-88 Delivery Invoices and Inventory Sheets.* ::
 
 
-Every person transporting or delivering processed meats or meat products shall have available for inspection by the Commissioner or his authorized representatives all purchase and sales invoices of such processed meats or meat products. Every route salesman shall, in lieu of such invoices, have available for such inspection a written inventory of all the processed meats and meat products originally loaded on the vehicle operated by him and all invoices of his sales therefrom. All such invoices and inventory sheets shall contain the statement or statements required by § 4-84 of these rules and regu- lations.
+Every person transporting or delivering processed meats or meat products shall have available for inspection by the Commissioner or his authorized representatives all purchase and sales invoices of such processed meats or meat products. Every route salesman shall, in lieu of such invoices, have available for such inspection a written inventory of all the processed meats and meat products originally loaded on the vehicle operated by him and all invoices of his sales therefrom. All such invoices and inventory sheets shall contain the statement or statements required by 6 RCNY § 4-84.
 
 
 
@@ -2328,7 +2100,7 @@ Every person transporting or delivering processed meats or meat products shall h
 *§ 4-89 Bulk Parts and Cuts.* ::
 
 
-Every bulk part or cut of a processed meat and meat product, offered for sale or sold at retail, shall be labeled as to moisture content in accordance with the provisions of § 4-82 of these rules and regulations and such labeling as to moisture content shall be identical to the labeling of the whole processed meat or meat product, except that a clear and conspicuous placard or sign stating that "all products comply with applicable maximum moisture requirements of New York City Law," at or near such meat, shall be sufficient to fulfill the requirements of this rule and regulation.
+Every bulk part or cut of a processed meat and meat product, offered for sale or sold at retail, shall be labeled as to moisture content in accordance with the provisions of 6 RCNY § 4-82 and such labeling as to moisture content shall be identical to the labeling of the whole processed meat or meat product, except that a clear and conspicuous placard or sign stating that "all products comply with applicable maximum moisture requirements of New York City Law," at or near such meat, shall be sufficient to fulfill the requirements of this rule and regulation.
 
 
 
@@ -2338,7 +2110,7 @@ Every bulk part or cut of a processed meat and meat product, offered for sale or
 *§ 4-90 Retail Containers.* ::
 
 
-An individual processed meat or meat product, in a consumer size container, shall be labeled as to net weight and labeled as to moisture content in accordance with the provisions of § 4-82 of these rules and regulations. The label on such a container shall bear the name and address of the packer, manufacturer, distributor or wholesaler, or the official inspection or Health Department permit number of the establishment in which the product was packaged in such container.
+An individual processed meat or meat product, in a consumer size container, shall be labeled as to net weight and labeled as to moisture content in accordance with the provisions of 6 RCNY § 4-82. The label on such a container shall bear the name and address of the packer, manufacturer, distributor or wholesaler, or the official inspection or Health Department permit number of the establishment in which the product was packaged in such container.
 
 
 
@@ -2452,7 +2224,7 @@ The valid photo identification that a dealer of etching acid shall request from 
 *§ 4-111 Definitions.* ::
 
 
-For the purposes of the application of these §§ 4-111 through 4-114 (unless the context indicates otherwise) the following definitions apply:
+For the purposes of the application of these 6 RCNY §§ 4-111 through 4-114 (unless the context indicates otherwise) the following definitions apply:
 
 Sell or offer to sell. "Sell" or "offer to sell" shall mean the act of selling, displaying, or offering for sale by a retailer or retail entity to the public for off-premises human consumption.
 
@@ -2464,11 +2236,11 @@ Sell or offer to sell. "Sell" or "offer to sell" shall mean the act of selling, 
 *§ 4-112 Display of Required Information.* ::
 
 
-(a) On the containers of all foods specified in § 4-113 below there shall be stamped, printed or otherwise plainly and conspicuously marked, a statement indicating recommended conditions and methods of storage.
+(a) On the containers of all foods specified in 6 RCNY § 4-113 there shall be stamped, printed or otherwise plainly and conspicuously marked, a statement indicating recommended conditions and methods of storage.
 
-(b) On the containers of all foods specified in § 4-113 below there shall be stamped, printed or otherwise plainly and conspicuously marked either the last day or date of sale or the last day or date for recommended usage.
+(b) On the containers of all foods specified in 6 RCNY § 4-113 there shall be stamped, printed or otherwise plainly and conspicuously marked either the last day or date of sale or the last day or date for recommended usage.
 
-(c) The information required in subdivisions (a) and (b) of this § 4-112 shall be clearly marked on each and every package or item as follows:
+(c) The information required in subdivisions (a) and (b) of this 6 RCNY § 4-112 shall be clearly marked on each and every package or item as follows:
 
    (1) the information shall appear on the top cover or principal panel of its container, or, on a label affixed thereto; or
 
@@ -2482,7 +2254,7 @@ Sell or offer to sell. "Sell" or "offer to sell" shall mean the act of selling, 
 *§ 4-113 Perishable Foods Covered.* ::
 
 
-The following commodities shall be labeled in accordance with the provisions of § 20-685 of the Administrative Code "Perishable foods," and § 4-112 governing the labeling of perishable foods:
+The following commodities shall be labeled in accordance with the provisions of § 20-685 of the Administrative Code "Perishable foods," and 6 RCNY § 4-112 governing the labeling of perishable foods:
 
 (a) Eggs – Grade AA, Grade A and Grade B shell eggs.
 
@@ -2536,7 +2308,7 @@ The following commodities shall be labeled in accordance with the provisions of 
 
 (c) This subchapter shall not include products made from products after the date marked where such secondary products are the result of an additional processing stage.
 
-(d) Upon written application to the Commissioner, and upon a showing of exceptional circumstances, a manufacturer or processor may be granted an extension in writing, not to exceed six months, in which to comply, in whole or in part, with the requirements of § 4-112 above. In the event that a manufacturer or processor has substantially complied with § 4-112 above during the previously granted extension period, but exceptional circumstances exist which render full compliance during the extension period impossible, impracticable, or create undue financial hardship, a manufacturer or processor may apply in writing to the Commissioner for an additional final extension in order to fully comply with § 4-112. Any request for an additional final extension must be supported by evidence of exceptional circumstances and substantial compliance during the previously granted extension period. The granting of a further extension, if any, shall be in the discretion of the Commissioner.
+(d) Upon written application to the Commissioner, and upon a showing of exceptional circumstances, a manufacturer or processor may be granted an extension in writing, not to exceed six months, in which to comply, in whole or in part, with the requirements of 6 RCNY § 4-112. In the event that a manufacturer or processor has substantially complied with 6 RCNY § 4-112 during the previously granted extension period, but exceptional circumstances exist which render full compliance during the extension period impossible, impracticable, or create undue financial hardship, a manufacturer or processor may apply in writing to the Commissioner for an additional final extension in order to fully comply with 6 RCNY § 4-112. Any request for an additional final extension must be supported by evidence of exceptional circumstances and substantial compliance during the previously granted extension period. The granting of a further extension, if any, shall be in the discretion of the Commissioner.
 
 
 
@@ -2621,11 +2393,11 @@ Item. "Item" means goods and services.
 
 Legal name. "Legal name" means:
 
-   (1) the true corporate name of a corporation; or
+(1) the true corporate name of a corporation; or
 
-   (2) the name of at least one partner of a partnership; or
+(2) the name of at least one partner of a partnership; or
 
-   (3) the name of at least one owner of a business that is not a corporation or a partnership.
+(3) the name of at least one owner of a business that is not a corporation or a partnership.
 
 Seller. "Seller" means any individual or business that offers to sell or lease consumer goods or services. "Seller" includes manufacturers, wholesalers, and others who are responsible for any act or practice regulated by this code.
 
@@ -2637,7 +2409,7 @@ Seller. "Seller" means any individual or business that offers to sell or lease c
 *§ 5-06 The Word "Free" and Similar Representations.* ::
 
 
-(a) Scope. This section governs the use of the words "free," "gift," "given without charge," "bonus," "1¢ additional," and any other terms which imply that an item, as defined in § 5-01, is free or offered at a nominal cost in the sale or offering for sale of any consumer goods or services. It governs signs inside stores, storefront advertising, handbills and all other types of written advertisement, but not advertising on packages placed thereon by a person or entity other than the retailer. In this section, the word "free" refers to any word or phrase of similar meaning. A "free offer" is an offer involving the use of any such word or phrase.
+(a) Scope. This section governs the use of the words "free," "gift," "given without charge," "bonus," "1¢ additional," and any other terms which imply that an item, as defined in 6 RCNY § 5-01, is free or offered at a nominal cost in the sale or offering for sale of any consumer goods or services. It governs signs inside stores, storefront advertising, handbills and all other types of written advertisement, but not advertising on packages placed thereon by a person or entity other than the retailer. In this section, the word "free" refers to any word or phrase of similar meaning. A "free offer" is an offer involving the use of any such word or phrase.
 
 (b) Disclosure of conditions on free offers. A seller who imposes a condition on a free offer must describe the condition clearly and conspicuously. The description of every condition on a free offer must be placed near the word "free." An asterisk or other symbol near the word "free," which refers the customer to a footnote containing conditions, does not satisfy this section. This condition must be in print at least half as large as the print used for the word "free."
 
@@ -2851,11 +2623,11 @@ Merchants who accept payment from a consumer that will be applied to the purchas
 
 (a) Definitions. 
 
-Audio equipment. "Audio equipment" means any apparatus or equipment that is used for sound reproduction, including but not limited to amplifiers, phonographs, radios, receivers, speakers, tape players, tape recorders and turntables. Audio equipment does not include prerecorded or blank audio recording tape or records.
+   Audio equipment. "Audio equipment" means any apparatus or equipment that is used for sound reproduction, including but not limited to amplifiers, phonographs, radios, receivers, speakers, tape players, tape recorders and turntables. Audio equipment does not include prerecorded or blank audio recording tape or records.
 
-Photographic equipment. "Photographic equipment" means any apparatus or equipment used for the taking of photographs, including but not limited to cameras, camera cases, lenses and tripods. "Photographic equipment" does not include film, photograph albums or apparatus or equipment used to develop or enlarge photographs.
+   Photographic equipment. "Photographic equipment" means any apparatus or equipment used for the taking of photographs, including but not limited to cameras, camera cases, lenses and tripods. "Photographic equipment" does not include film, photograph albums or apparatus or equipment used to develop or enlarge photographs.
 
-Video equipment. "Video equipment" means televisions and any apparatus or equipment that is used in the process of producing images on a television set, including but not limited to video disk players, video game units and cartridges, video tape players and video tape recorders. "Video equipment" does not include prerecorded video discs and tapes or blank video tapes.
+   Video equipment. "Video equipment" means televisions and any apparatus or equipment that is used in the process of producing images on a television set, including but not limited to video disk players, video game units and cartridges, video tape players and video tape recorders. "Video equipment" does not include prerecorded video discs and tapes or blank video tapes.
 
 (b) Receipts. A seller must:
 
@@ -2915,7 +2687,7 @@ Video equipment. "Video equipment" means televisions and any apparatus or equipm
 
 (a) A contract for consumer goods or services may not be described as non-cancellable, unless the seller has performed all its obligations at the time the consumer signs the contract.
 
-(b) A contract that complies with § 5-34(a) may describe the fee or penalty that will be imposed if the consumer cancels, or may state that the consumer who does not perform his or her obligations under the contract will be responsible to the seller for damages.
+(b) A contract that complies with 6 RCNY § 5-34(a) may describe the fee or penalty that will be imposed if the consumer cancels, or may state that the consumer who does not perform his or her obligations under the contract will be responsible to the seller for damages.
 
 
 
@@ -2927,7 +2699,7 @@ Video equipment. "Video equipment" means televisions and any apparatus or equipm
 
 (a) Definition.
 
-Manufacturer's suggested retail price. "Manufacturer's suggested retail price" means the list price, catalog price or any other retail price recommended by the manufacturer.
+   Manufacturer's suggested retail price. "Manufacturer's suggested retail price" means the list price, catalog price or any other retail price recommended by the manufacturer.
 
 (b) A seller who sells or offers to sell any new item for more than the manufacturer's suggested retail price must:
 
@@ -2981,7 +2753,7 @@ Sellers of consumer goods and services must comply with all provisions of New Yo
 
 (c) Unconscionable sales practices. A seller of items the Commissioner has declared in short supply may not:
 
-   (1) increase prices in excess of an amount reflecting normal market fluctuations, except in accordance with the exemption rules in § 5-38(e);
+   (1) increase prices in excess of an amount reflecting normal market fluctuations, except in accordance with the exemption rules in 6 RCNY § 5-38(e);
 
    (2) require consumers to purchase another item in order to get the item in short supply, if no additional purchase was required before the shortage;
 
@@ -3083,7 +2855,7 @@ It is a deceptive trade practice for any seller to collect sales tax on the sale
 
 (c) Records. A business which reserves vehicles for consumers must maintain procedures reasonably calculated to fulfill those reservations. This includes maintaining records of all reservations, and of the scheduled return times of all rented vehicles. These records must be preserved for at least 6 months, and shall be made available for inspection and copying by the Department of Consumer Affairs.
 
-(d) Required sign. A motor vehicle rental business which rents vehicles to consumers must conspicuously display on the business premises a sign or notice entitled "Department of Consumer Affairs Consumer Protection Law Rule." The sign shall be not less than twelve (12) inches by eighteen (18) inches in dimension, with letters thereon to be not less than one (1) inch high. The sign must inform consumers of their rights under § 5-46(a) and it must contain the following words: "To report complaints, contact the New York City Department of Consumer Affairs, (Insert the Department's current address), Complaint Phone: (Insert the Department's current complaint telephone number)." The following statement complies with this requirement:
+(d) Required sign. A motor vehicle rental business which rents vehicles to consumers must conspicuously display on the business premises a sign or notice entitled "Department of Consumer Affairs Consumer Protection Law Rule." The sign shall be not less than twelve (12) inches by eighteen (18) inches in dimension, with letters thereon to be not less than one (1) inch high. The sign must inform consumers of their rights under 6 RCNY § 5-46(a) and it must contain the following words: "To report complaints, contact the New York City Department of Consumer Affairs, (Insert the Department's current address), Complaint Phone: (Insert the Department's current complaint telephone number)." The following statement complies with this requirement:
 
    If you have made a reservation for a car (or truck), that reservation must be honored at the price originally promised, within one-half hour of the time originally promised, unless you are told when you make the reservation that it is not guaranteed. To report complaints, contact the New York City Department of Consumer Affairs, (Insert the Department's current address), Complaint Phone: (Insert the Department's current complaint telephone number).
 
@@ -3097,9 +2869,9 @@ It is a deceptive trade practice for any seller to collect sales tax on the sale
 
 (a) Definitions.
 
-Jewelry. "Jewelry" means unset rare gems, precious stones and semi-precious stones, and articles for personal wear which contain rare gems, precious stones or semi-precious stones.
+   Jewelry. "Jewelry" means unset rare gems, precious stones and semi-precious stones, and articles for personal wear which contain rare gems, precious stones or semi-precious stones.
 
-Standard of monetary value. "Standard of monetary value" means the basis for measurement such as retail replacement value, wholesale value, or resale value.
+   Standard of monetary value. "Standard of monetary value" means the basis for measurement such as retail replacement value, wholesale value, or resale value.
 
 (b) Jewelry appraisals – requirements.
 
@@ -3113,7 +2885,7 @@ Standard of monetary value. "Standard of monetary value" means the basis for mea
 
       (iv) that the appraiser does not guarantee that it will buy the item from the consumer if the consumer desires to resell it in the future. (If the appraiser is willing to make such a guarantee, then it must state the price at which it will buy the item.) This disclosure need not be made if the appraiser never buys jewelry from members of the public.
 
-   (2) Example: The following notice would satisfy the requirements of § 5-47(b), in the case of an appraiser who also buys from the public and who is not willing to make any guarantees concerning purchase:
+   (2) Example: The following notice would satisfy the requirements of 6 RCNY § 5-47(b), in the case of an appraiser who also buys from the public and who is not willing to make any guarantees concerning purchase:
 
       Notice – This appraisal tells you the approximate price at which you could replace this article with comparable merchandise at a retail jewelry store which normally sells jewelry of like quality. You should not expect to be able to sell the article for this amount. The opinions of appraisers concerning value vary by up to 25 percent. This company does not promise to buy the article from you at the appraised value or at any fraction of the appraised value.
 
@@ -3155,15 +2927,15 @@ Standard of monetary value. "Standard of monetary value" means the basis for mea
 
 (b) In this section, substitute items of "equal or better" quality means items that are substantially similar to the items ordered, that fit the purposes for which the ordered items were intended; and that are not normally offered by the seller at a lower price than the price of the ordered items.
 
-(c) § 5-48(a) does not apply to:
+(c) 6 RCNY § 5-48(a) does not apply to:
 
    (1) items ordered under an open-end credit plan (as defined in the federal Truth-in-Lending law) or under any other credit plan which was opened prior to the mail order in question and which permits the consumer to make future purchases; or
 
    (2) items, such as quarterly magazines, which by their nature are not produced until a future date, and so cannot be stocked at the time of the order; or
 
-   (3) installments, other than the first, of items ordered for serial delivery, such as magazine subscriptions. The 30-day period of § 5-48(a) does not apply when all advertising for the item conspicuously specifies a different time period by which delivery may be expected. One week after this specified time elapses, the requirements of § 5-48(a) must be met.
+   (3) installments, other than the first, of items ordered for serial delivery, such as magazine subscriptions. The 30-day period of 6 RCNY § 5-48(a) does not apply when all advertising for the item conspicuously specifies a different time period by which delivery may be expected. One week after this specified time elapses, the requirements of 6 RCNY § 5-48(a) must be met.
 
-(d) Any mail order seller using a Post Office Box address or Private Mail Service Box in its advertisements or promotional material (including order blanks and forms) must conspicuously disclose both the legal name of the company in accordance with § 5-01 "Legal Name" and the complete street address from which the business is actually conducted on all advertisements and promotional material.
+(d) Any mail order seller using a Post Office Box address or Private Mail Service Box in its advertisements or promotional material (including order blanks and forms) must conspicuously disclose both the legal name of the company in accordance with 6 RCNY § 5-01 "Legal Name" and the complete street address from which the business is actually conducted on all advertisements and promotional material.
 
 
 
@@ -3195,7 +2967,7 @@ Standard of monetary value. "Standard of monetary value" means the basis for mea
 
       (ii) a new estimated delivery date or range of delivery dates; and
 
-      (iii) the consumer's options, as set forth in § 5-50(d), if delivery is not made by the latest estimated delivery date on the order. The seller does not need to notify the consumer of a delay in delivery if the delay is caused entirely by the consumer.
+      (iii) the consumer's options, as set forth in 6 RCNY § 5-50(d), if delivery is not made by the latest estimated delivery date on the order. The seller does not need to notify the consumer of a delay in delivery if the delay is caused entirely by the consumer.
 
 (c) Seller's extension of time due to strike. When a delay in a delivery is caused by a strike, the seller is entitled to an additional amount of time equal to the duration of the strike to make the delivery.
 
@@ -3263,7 +3035,7 @@ Retail food stores shall obey the Federal Trade Commission Trade Regulations ent
 
    (3) performed by persons required to be licensed as television, radio or audio equipment repairers under the Administrative Code of the City of New York.
 
-(b) Repairs under $15. When a repairer says repairs will cost $15 or less (including all charges), the repairer's final bill may not exceed that estimate by more than 20 percent. §§ 5-54(c) and 5-54(d) do not apply to these repairs.
+(b) Repairs under $15. When a repairer says repairs will cost $15 or less (including all charges), the repairer's final bill may not exceed that estimate by more than 20 percent. 6 RCNY §§ 5-54(c) and 5-54(d) do not apply to these repairs.
 
 (c) Repairs made outside the home.
 
@@ -3271,7 +3043,7 @@ Retail food stores shall obey the Federal Trade Commission Trade Regulations ent
 
       (i) A repairer who takes possession of a consumer's property must immediately give the consumer a receipt and a written estimate. The receipt must contain:
 
-         (A) the legal name and the address of the repairer, disclosed in accordance with § 5-01 "Legal Name"
+         (A) the legal name and the address of the repairer, disclosed in accordance with 6 RCNY § 5-01 "Legal Name"
 
          (B) the name and signature of the person who actually takes the item;
 
@@ -3337,7 +3109,7 @@ Retail food stores shall obey the Federal Trade Commission Trade Regulations ent
 
    (1) When repairs are done in the consumer's home, the repairer must give the consumer an estimate (in writing if the consumer wishes) and get his or her permission to proceed, before starting repairs. The estimate must include parts, labor and all other charges which the consumer will have to pay.
 
-   (2) The repairer must give the consumer a written final bill that itemizes all charges, in the manner prescribed in § 5-54(c)(2)(v), and discloses the legal name of the repairer in accordance with § 5-01 "Legal Name". In addition, the bill must legibly state the name of the person who actually did the repair. The bill may not exceed the estimate by more than 20 percent.
+   (2) The repairer must give the consumer a written final bill that itemizes all charges, in the manner prescribed in 6 RCNY § 5-54(c)(2)(v), and discloses the legal name of the repairer in accordance with 6 RCNY § 5-01 "Legal Name". In addition, the bill must legibly state the name of the person who actually did the repair. The bill may not exceed the estimate by more than 20 percent.
 
    (3) The repairer must give to the consumer all replaced parts, except the repairer may simply show and offer to the consumer parts in the following categories:
 
@@ -3379,7 +3151,7 @@ Retail food stores shall obey the Federal Trade Commission Trade Regulations ent
 
    (3) use of the device on a fire escape window may subject the user to a fine by the Department of Buildings.
 
-(b) The tag or label required by this section must bear the word "WARNING" in boldface upper-case type at least one-quarter inch tall. The following warning complies with this regulation:
+(b) The tag or label required by this section must bear the word "WARNING" in boldface upper-case type at least one-quarter inch tall. The following warning complies with this regulation: 
 
  
 
@@ -3422,9 +3194,9 @@ Retail food stores shall obey the Federal Trade Commission Trade Regulations ent
 
 (a) Definitions. 
 
-Container. "Container" means an item which contains food or a food product, including cans, bottles, cartons, bags, boxes, wrappers and tubes.
+   Container. "Container" means an item which contains food or a food product, including cans, bottles, cartons, bags, boxes, wrappers and tubes.
 
-Food or food product. "Food or food product" means food, drink, confectionery or condiment, used or intended for use by humans or animals, including all substances or ingredients to be added to food for any purpose.
+   Food or food product. "Food or food product" means food, drink, confectionery or condiment, used or intended for use by humans or animals, including all substances or ingredients to be added to food for any purpose.
 
 (b) No food product may be offered for sale if contained in:
 
@@ -3462,13 +3234,13 @@ Food or food product. "Food or food product" means food, drink, confectionery or
 
 (a) Definitions. 
 
-Franchise. "Franchise" means a right to use the franchisor's trademark, tradename, brand name, or other mark of identity to suggest a substantial association with the franchisor.
+   Franchise. "Franchise" means a right to use the franchisor's trademark, tradename, brand name, or other mark of identity to suggest a substantial association with the franchisor.
 
-Franchisee. "Franchisee" means a person receiving a franchise.
+   Franchisee. "Franchisee" means a person receiving a franchise.
 
-Franchisor. "Franchisor" means a person giving a franchise.
+   Franchisor. "Franchisor" means a person giving a franchise.
 
-Subfranchisee. "Subfranchisee" means a person to whom a franchisee gives the right to use a franchise.
+   Subfranchisee. "Subfranchisee" means a person to whom a franchisee gives the right to use a franchise.
 
 (b) Required disclosures.
 
@@ -3476,7 +3248,7 @@ Subfranchisee. "Subfranchisee" means a person to whom a franchisee gives the rig
 
       (i) that the franchisor, franchisee or subfranchisee are separate business entities; and
 
-      (ii) the legal name and address of the party given* the franchise, and the legal name of the franchisee and subfranchisee, if any, disclosed in accordance with § 5-01 "Legal Name." These disclosures need not be made on credit card receipts if there is a sign conspicuously disclosing them at all cash registers or at the place where credit card transactions occur.
+      (ii) the legal name and address of the party given* the franchise, and the legal name of the franchisee and subfranchisee, if any, disclosed in accordance with 6 RCNY § 5-01 "Legal Name." These disclosures need not be made on credit card receipts if there is a sign conspicuously disclosing them at all cash registers or at the place where credit card transactions occur.
 
    (2) A franchisor, franchisee or subfranchisee must conspicuously disclose:
 
@@ -3484,9 +3256,9 @@ Subfranchisee. "Subfranchisee" means a person to whom a franchisee gives the rig
 
       (ii) wherever a warranty or guarantee appears, that the terms of the guarantee or warranty apply only to certain franchise outlets, if such is the case;
 
-      (iii) that there has been a change in ownership of the franchise outlet, if such is the case, unless upon the change of ownership the name of the franchise was substantially altered. The disclosure required by § 5-60(b)(2)(iii) need only be made during the first ninety days after the transfer of ownership.
+      (iii) that there has been a change in ownership of the franchise outlet, if such is the case, unless upon the change of ownership the name of the franchise was substantially altered. The disclosure required by 6 RCNY § 5-60(b)(2)(iii) need only be made during the first ninety days after the transfer of ownership.
 
-(c) Partial exemption. A franchisee or subfranchisee need not make the disclosures otherwise required by §§ 5-60(b)(1) and 5-60(b)(2)(iii) if the franchisor is liable to customers of the franchisee or subfranchisee for items sold by the franchisee or subfranchisee.
+(c) Partial exemption. A franchisee or subfranchisee need not make the disclosures otherwise required by 6 RCNY §§ 5-60(b)(1) and 5-60(b)(2)(iii) if the franchisor is liable to customers of the franchisee or subfranchisee for items sold by the franchisee or subfranchisee.
 
 
 
@@ -3540,7 +3312,7 @@ Subfranchisee. "Subfranchisee" means a person to whom a franchisee gives the rig
 
 (a) Definition.
 
-Caterer. "Caterer" means any person or business engaged in serving food or beverages for private functions in New York City.
+   Caterer. "Caterer" means any person or business engaged in serving food or beverages for private functions in New York City.
 
 (b) Cancellation. 
 
@@ -3578,9 +3350,9 @@ Caterer. "Caterer" means any person or business engaged in serving food or bever
 
    (3) the representation must state that no guarantee is made that a person will earn the stated salary or income, unless the seller makes such a guarantee.
 
-(b) In a written or printed advertisement, the information required by §§ 5-64(a)(1), (2) and (3) must be disclosed in lettering as large as the numerals of the stated salary or income.
+(b) In a written or printed advertisement, the information required by 6 RCNY §§ 5-64(a)(1), (2) and (3) must be disclosed in lettering as large as the numerals of the stated salary or income.
 
-(c) The words "EARN $ .... " or "EARN UP TO $ ...." or words of similar meaning represent that a person who attends the training course will earn the stated salary or income within the meaning of § 5-64(a).
+(c) The words "EARN $ .... " or "EARN UP TO $ ...." or words of similar meaning represent that a person who attends the training course will earn the stated salary or income within the meaning of 6 RCNY § 5-64(a).
 
 (d) If a vocational school or a paid provider of vocational instruction advertises or states that a training course includes job placement service:
 
@@ -3588,7 +3360,7 @@ Caterer. "Caterer" means any person or business engaged in serving food or bever
 
    (2) the advertisement or representation must state whether job placement is guaranteed and, where no guarantee is given, the advertiser must make bona fide attempts to seek potential employers for its students.
 
-(e) In a written or printed advertisement, the information required by §§ 5-64(d)(1) and (2) must be disclosed in lettering as large as the lettering indicating the existence of the placement service.
+(e) In a written or printed advertisement, the information required by 6 RCNY § 5-64(d)(1) and (2) must be disclosed in lettering as large as the lettering indicating the existence of the placement service.
 
 (f) Any advertisement or representation that a school or course has been approved by any government agency must indicate the terms of that approval, particularly as the approval applies to the quality of instruction and the truth of the statements contained in the advertisement or representation. For example, an advertisement or representation shall not state "V.A. Approved," but must state, if such is the case: "V.A. education loans may be used for tuition. V.A. does not review nor guarantee the quality of instruction, nor does it guarantee the truth of the statements in this advertisement."
 
@@ -3618,11 +3390,11 @@ Caterer. "Caterer" means any person or business engaged in serving food or bever
 
 (a) Definitions.
 
-Certified public accountant and public accountant. "Certified Public Accountant" and "Public Accountant" mean any individual who fits within the definitions set forth in Article 149 of the Education Law.
+   Certified public accountant and public accountant. "Certified Public Accountant" and "Public Accountant" mean any individual who fits within the definitions set forth in Article 149 of the Education Law.
 
-Income tax return or tax return. "Income tax return" or "tax return" means a federal, state or city tax return of a natural person, including joint returns and all related schedules.
+   Income tax return or tax return. "Income tax return" or "tax return" means a federal, state or city tax return of a natural person, including joint returns and all related schedules.
 
-Tax preparer. "Tax Preparer" means any individual or business that prepares any income tax return, for a fee, to obtain or retain clients, or in connection with the sale of items or services. It does not include an individual employed to prepare tax returns by another individual or business entity if that individual makes clear that he or she is only an employee and that his or her employer will sign the taxpayer's return.
+   Tax preparer. "Tax Preparer" means any individual or business that prepares any income tax return, for a fee, to obtain or retain clients, or in connection with the sale of items or services. It does not include an individual employed to prepare tax returns by another individual or business entity if that individual makes clear that he or she is only an employee and that his or her employer will sign the taxpayer's return.
 
 (b) Prohibited practices. Tax preparers may not:
 
@@ -3740,7 +3512,7 @@ Dealer at a flea market. A "dealer at a flea market" means a person or business 
 
    (3) the date of the purchase;
 
-   (4) the legal name and address of the seller in accordance with § 5-01 "Legal Name."
+   (4) the legal name and address of the seller in accordance with 6 RCNY § 5-01 "Legal Name."
 
 (c) Recordkeeping. A dealer at a flea market must retain exact copies of all receipts issued to consumers for a period of three years after the time a receipt was issued. Copies of such receipts issued during the previous calendar month and during the current calendar month must be made available to the Commissioner or his authorized representative upon request. All other receipts required to be retained by this subdivision (c) must be produced upon ten days notice.
 
@@ -3772,7 +3544,7 @@ Dealer at a flea market. A "dealer at a flea market" means a person or business 
 
    (3) Any person who is either employed by an in-patient hospital facility, or employed by a person currently licensed to practice medicine in the state of New York, and who is acting within the course of his or her employment.
 
-(f) Any persons claiming an exemption under § 5-69(e) must possess on their persons documentation supporting their claimed exemption at all times while offering blood pressure reading services.
+(f) Any persons claiming an exemption under 6 RCNY § 5-69(e) must possess on their persons documentation supporting their claimed exemption at all times while offering blood pressure reading services.
 
 
 
@@ -3858,7 +3630,7 @@ Dealer at a flea market. A "dealer at a flea market" means a person or business 
 
 (a)  Definitions.
 
-Box cutter. "Box cutter" means any knife consisting of a razor blade, retractable, nonretractable, or detachable in segments, attached to or contained within a plastic or metal housing, including utility knives, snap-off knives, and box cart cutters.
+   Box cutter. "Box cutter" means any knife consisting of a razor blade, retractable, nonretractable, or detachable in segments, attached to or contained within a plastic or metal housing, including utility knives, snap-off knives, and box cart cutters.
 
 (b) It is an unconscionable practice for any person to engage in the illegal conduct of:
 
@@ -3956,7 +3728,7 @@ It is an unconscionable and deceptive trade practice for a debt collector to att
 
       (i) informs the debt collector that he or she is not authorized to accept process for the consumer; or
 
-      (ii) fails to respond to the debt collector's inquiry about the attorney's authority to accept process within a reasonable period of time after the inquiry. The employer of a debt collector may not be held liable in any action brought under § 5-77(a)(3) or (5) if the employer shows by a preponderance of the evidence that the violation was not intentional and resulted despite the maintenance or procedures reasonably adapted to avoid any such violation.
+      (ii) fails to respond to the debt collector's inquiry about the attorney's authority to accept process within a reasonable period of time after the inquiry. The employer of a debt collector may not be held liable in any action brought under 6 RCNY § 5-77(a)(3) or (5) if the employer shows by a preponderance of the evidence that the violation was not intentional and resulted despite the maintenance or procedures reasonably adapted to avoid any such violation.
 
 (b) Communication in connection with debt collection. A debt collector, in connection with the collection of a debt, shall not:
 
@@ -3968,9 +3740,9 @@ It is an unconscionable and deceptive trade practice for a debt collector to att
 
       (iii) at the consumer's place of employment if the debt collector knows or has reason to know that the consumer's employer or supervisor prohibits the consumer from receiving such a communication; or
 
-      (iv) with excessive frequency. In the absence of knowledge of circumstances to the contrary, a debt collector shall assume that more than twice during a seven-calendar-day period is excessively frequent. In making its calculation, the debt collector need not include any communication between a consumer and the debt collector which is in response to an oral or written communication from the consumer, or returned unopened mail, or a message left with a party other than one who is responsible for the debt as long as the message is limited to a telephone number, the name of the debt collector and a request that one who is responsible for the debt telephone the debt collector; or any communication which is required by law or chosen from among alternatives of which one is required by law. The employer of a debt collector may not be held liable in any action brought under § 5-77(b)(1)(ii)-(iv) if the employer shows by a preponderance of the evidence that the violation was not intentional and resulted despite maintenance of procedures reasonably adapted to avoid any such violation.
+      (iv) with excessive frequency. In the absence of knowledge of circumstances to the contrary, a debt collector shall assume that more than twice during a seven-calendar-day period is excessively frequent. In making its calculation, the debt collector need not include any communication between a consumer and the debt collector which is in response to an oral or written communication from the consumer, or returned unopened mail, or a message left with a party other than one who is responsible for the debt as long as the message is limited to a telephone number, the name of the debt collector and a request that one who is responsible for the debt telephone the debt collector; or any communication which is required by law or chosen from among alternatives of which one is required by law. The employer of a debt collector may not be held liable in any action brought under 6 RCNY § 5-77(b)(1)(ii)-(iv) if the employer shows by a preponderance of the evidence that the violation was not intentional and resulted despite maintenance of procedures reasonably adapted to avoid any such violation.
 
-   (2) In order to collect a debt, and except as provided by § 5-77(a), communicate with any person other than the consumer, his or her attorney, a consumer reporting agency if otherwise permitted by law, the creditor, the attorney of the creditor, a debt collector to whom or to whose employer the debt has been assigned for collection, a creditor who assigned the debt for collection, the attorney of that debt collector, or the attorney for that debt collector's employer, without the prior written consent of the consumer given directly to the debt collector after the institution of debt collection procedures, or without the prior written consent of the consumer's attorney or without the express permission of a court of competent jurisdiction, or as reasonably necessary to effectuate a postjudgment judicial remedy.
+   (2) In order to collect a debt, and except as provided by 6 RCNY § 5-77(a), communicate with any person other than the consumer, his or her attorney, a consumer reporting agency if otherwise permitted by law, the creditor, the attorney of the creditor, a debt collector to whom or to whose employer the debt has been assigned for collection, a creditor who assigned the debt for collection, the attorney of that debt collector, or the attorney for that debt collector's employer, without the prior written consent of the consumer given directly to the debt collector after the institution of debt collection procedures, or without the prior written consent of the consumer's attorney or without the express permission of a court of competent jurisdiction, or as reasonably necessary to effectuate a postjudgment judicial remedy.
 
    (3) Communicate with any person other than the consumer's attorney, a consumer reporting agency if otherwise permitted by law, the creditor, the attorney of the creditor, a debt collector to whom or to whose employer the debt has been assigned for collection, a creditor who assigned the debt for collection, or the attorney of that debt collector or the attorney for that debt collector's employer in a manner which would violate any provision of this part if such person were a consumer.
 
@@ -3986,7 +3758,7 @@ It is an unconscionable and deceptive trade practice for a debt collector to att
 
       (ii) respond to each subsequent oral or written communication from the consumer.
 
-   (5) For the purpose of § 5-77(b)(1)-(4), the term "consumer" includes the consumer's parent (if the consumer is a minor), guardian, executor, administrator, spouse (unless the debt collector knows or has reason to know that the consumer is legally separated from or no longer living with his or her spouse), or an individual authorized by the consumer to make purchases against the account which is the subject of the collection efforts. A request that the debt collector cease further communication, provided for under § 5-77(b)(4), if made by the consumer's spouse or an individual authorized by the consumer to make purchases against the account, only affects the debt collector's ability to communicate further with the person making the request.
+   (5) For the purpose of 6 RCNY § 5-77(b)(1)-(4), the term "consumer" includes the consumer's parent (if the consumer is a minor), guardian, executor, administrator, spouse (unless the debt collector knows or has reason to know that the consumer is legally separated from or no longer living with his or her spouse), or an individual authorized by the consumer to make purchases against the account which is the subject of the collection efforts. A request that the debt collector cease further communication, provided for under 6 RCNY § 5-77(b)(4), if made by the consumer's spouse or an individual authorized by the consumer to make purchases against the account, only affects the debt collector's ability to communicate further with the person making the request.
 
 (c) Harassment or abuse. A debt collector, in connection with the collection of a debt, shall not engage in conduct the natural consequence of which is to harass, oppress or abuse any person in connection with a debt. Such conduct includes:
 
@@ -4000,7 +3772,7 @@ It is an unconscionable and deceptive trade practice for a debt collector to att
 
    (5) the publication of a list of consumers who allegedly refuse to pay debts, except to another employee of the debt collector's employer or to a consumer reporting agency or to persons meeting the requirements of 15 U.S.C. § 1681a(f) or 15 U.S.C. § 1681b(3); or
 
-   (6) except as provided by § 5-77(a), the placement of telephone calls without meaningful disclosure of the caller's identity.
+   (6) except as provided by 6 RCNY § 5-77(a), the placement of telephone calls without meaningful disclosure of the caller's identity.
 
 (d) False or misleading representations. A debt collector, in connection with the collection of a debt, shall not make any false, deceptive, or misleading representation. Such representations include:
 
@@ -4036,7 +3808,7 @@ It is an unconscionable and deceptive trade practice for a debt collector to att
 
    (14) after institution of debt collection procedures, the false representation of the character, amount or legal status of any debt, or any services rendered or compensation which may be lawfully received by any debt collector for the collection of a debt, except that the employer of a debt collector may not be held liable in any action brought under this provision if the employer shows by a preponderance of the evidence that the violation was not intentional and occurred despite the maintenance of procedures reasonably adapted to avoid any such violation;
 
-   (15) except as otherwise provided under § 5-77(a) and except for any communication which is required by law or chosen from among alternatives of which one is required by law, the failure to disclose clearly in all communications made to collect a debt or to obtain information about a consumer, that the debt collector is attempting to collect a debt and that any information obtained will be used for that purpose;
+   (15) except as otherwise provided under 6 RCNY § 5-77(a) and except for any communication which is required by law or chosen from among alternatives of which one is required by law, the failure to disclose clearly in all communications made to collect a debt or to obtain information about a consumer, that the debt collector is attempting to collect a debt and that any information obtained will be used for that purpose;
 
    (16) the use of any name that is not the debt collector's actual name; provided that a debt collector may use a name other than his actual name if he or she uses only that name in communications with respect to a debt and if the debt collector's employer has the name on file so that the true identity of the debt collector can be ascertained; or
 
@@ -4060,19 +3832,19 @@ It is an unconscionable and deceptive trade practice for a debt collector to att
 
    (5) after institution of debt collection procedures, when communicating with a consumer by use of the mails or telegram, using any language or symbol other than the debt collector's address on any envelope, or using any language or symbol that indicates the debt collector is in the debt collection business or that the communication relates to the collection of a debt on a postcard, except that a debt collector may use his or her business name or the name of a department within his or her organization as long as any name used does not connote debt collection;
 
-   (6) after institution of debt collection procedures, communicating with a consumer regarding a debt without identifying himself or herself and his or her employer or communicating in writing with a consumer regarding a debt without identifying himself or herself by name and address and in accordance with § 5-77(e)(5); or
+   (6) after institution of debt collection procedures, communicating with a consumer regarding a debt without identifying himself or herself and his or her employer or communicating in writing with a consumer regarding a debt without identifying himself or herself by name and address and in accordance with 6 RCNY § 5-77(e)(5); or
 
    (7) after institution of debt collection procedures, if a consumer owes multiple debts of which any one or portion of one is disputed, and the consumer makes a single payment with respect to such debts:
 
       (i) applying a payment to a disputed portion of any debt; or
 
-      (ii) unless otherwise provided by law or contract, failing to apply such payments in accordance with the consumer's instructions accompanying payment. If payment is made by mail, the consumer's instructions must be written. Any communication by a creditor made pursuant to § 5-77(e)(7)(ii) shall not be deemed communication for the purpose of § 5-77(b)(1)(iv). The employer of a debt collector may not be held liable in any action brought under § 5-77(e)(7) if the employer shows by a preponderance of the evidence that the violation was not intentional and resulted despite maintenance of procedures reasonably adapted to avoid any such violation; or
+      (ii) unless otherwise provided by law or contract, failing to apply such payments in accordance with the consumer's instructions accompanying payment. If payment is made by mail, the consumer's instructions must be written. Any communication by a creditor made pursuant to 6 RCNY § 5-77(e)(7)(ii) shall not be deemed communication for the purpose of 6 RCNY § 5-77(b)(1)(iv). The employer of a debt collector may not be held liable in any action brought under 6 RCNY § 5-77(e)(7) if the employer shows by a preponderance of the evidence that the violation was not intentional and resulted despite maintenance of procedures reasonably adapted to avoid any such violation; or
 
    (8) engaging in any conduct prohibited by New York General Business Law §§ 601(2) or (4).
 
 (f) Validation of debts.
 
-   (1) Upon acceleration of the unpaid balance of the debt or demand for the full balance due, the following validation procedures shall be followed by debt collectors who are creditors or who are employed by creditors as defined by 15 U.S.C. § 1602(f) [;Truth in Lending Act]; but who are not required to comply with 15 U.S.C. § 1637(a)(8) [;Fair Credit Billing Act];, and who do not provide consumers with an opportunity to dispute the debt which is substantially the same as that outlined in 15 U.S.C. § 1637(a)(8) and regulations promulgated thereunder: Within five days of any further attempt by the creditor itself to collect the debt, it shall send the customer a written notice containing:
+   (1) Upon acceleration of the unpaid balance of the debt or demand for the full balance due, the following validation procedures shall be followed by debt collectors who are creditors or who are employed by creditors as defined by 15 U.S.C. § 1602(f) [Truth in Lending Act]; but who are not required to comply with 15 U.S.C. § 1637(a)(8) [;Fair Credit Billing Act];, and who do not provide consumers with an opportunity to dispute the debt which is substantially the same as that outlined in 15 U.S.C. § 1637(a)(8) and regulations promulgated thereunder: Within five days of any further attempt by the creditor itself to collect the debt, it shall send the customer a written notice containing:
 
       (i) the amount of the debt;
 
@@ -4082,7 +3854,7 @@ It is an unconscionable and deceptive trade practice for a debt collector to att
 
          (A) make appropriate corrections in the account and transmit to the consumer notification of such corrections and an explanation of any change and, if the consumer so requests, copies of documentary evidence of the consumer's indebtedness; or
 
-         (B) send a written explanation or clarification to the consumer, after having conducted an investigation, setting forth to the extent applicable the reason why the creditor believes the account of the consumer was correctly shown in the written notice required by § 5-77(f)(1) and, upon the consumer's request, provide copies of documentary evidence of the consumer's indebtedness. In the case of a billing error where the consumer alleges that the creditor's billing statement reflects goods not delivered in accordance with the agreement made at the time of the transaction, a creditor may not construe such amount to be correctly shown unless it determines that such goods were actually delivered, mailed, or otherwise sent to the consumer and provides the consumer with a statement of such determination.
+         (B) send a written explanation or clarification to the consumer, after having conducted an investigation, setting forth to the extent applicable the reason why the creditor believes the account of the consumer was correctly shown in the written notice required by 6 RCNY § 5-77(f)(1) and, upon the consumer's request, provide copies of documentary evidence of the consumer's indebtedness. In the case of a billing error where the consumer alleges that the creditor's billing statement reflects goods not delivered in accordance with the agreement made at the time of the transaction, a creditor may not construe such amount to be correctly shown unless it determines that such goods were actually delivered, mailed, or otherwise sent to the consumer and provides the consumer with a statement of such determination.
 
       (iv) if the debt collector is not the original creditor, a statement that, upon the consumer's written request within the thirty-day period, sent to the address designated by the debt collector in the notice, the debt collector will provide the consumer with the name and address of the original creditor;
 
@@ -4102,11 +3874,11 @@ It is an unconscionable and deceptive trade practice for a debt collector to att
 
       (vi) an address to which the consumer should send any writing which disputes the validity of the debt or any portion thereof or any writing requesting the name and address of the original creditor.
 
-   (3) If, pursuant to §§ 5-77(f)(1) or 5-77(f)(2) of this Regulation the consumer notifies the debt collector in writing within the thirty-day period that the debt, or any portion thereof, is disputed, or that the consumer requests the name and address of the original creditor, the debt collector shall not attempt to collect the amount in dispute until the debt collector obtains and mails to the consumer verification of the debt or a copy of the judgment or the name and address of the original creditor. The debt collector shall maintain for one year from the date the notice was mailed, records containing documentation of the date such notice was mailed, the date the response, if any, was received and any action taken following such response.
+   (3) If, pursuant to 6 RCNY §§ 5-77(f)(1) or 5-77(f)(2) of this Regulation the consumer notifies the debt collector in writing within the thirty-day period that the debt, or any portion thereof, is disputed, or that the consumer requests the name and address of the original creditor, the debt collector shall not attempt to collect the amount in dispute until the debt collector obtains and mails to the consumer verification of the debt or a copy of the judgment or the name and address of the original creditor. The debt collector shall maintain for one year from the date the notice was mailed, records containing documentation of the date such notice was mailed, the date the response, if any, was received and any action taken following such response.
 
-   (4) The failure of a consumer to dispute the validity of a debt under § 5-77(f) shall not be construed by any court as an admission of liability by the consumer.
+   (4) The failure of a consumer to dispute the validity of a debt under 6 RCNY § 5-77(f) shall not be construed by any court as an admission of liability by the consumer.
 
-(g) Liability. The employer of a debt collector is liable for the debt collector's violation of § 5-77. A debt collector who is employed by another to collect or attempt to collect debts shall not be held liable for violation of § 5-77.
+(g) Liability. The employer of a debt collector is liable for the debt collector's violation of 6 RCNY § 5-77. A debt collector who is employed by another to collect or attempt to collect debts shall not be held liable for violation of 6 RCNY § 5-77.
 
 
 
@@ -4150,19 +3922,19 @@ Advertiser. Where the "advertiser" is a chain store, the requirements of this pa
 
 Advertiser's bona fide selling price. "Advertiser's bona fide selling price" shall mean the immediately preceding price at which the same item or service was actually offered for sale to the public by the advertiser for a reasonably substantial period of time in the recent regular course of the advertiser's business, unless an earlier time period is clearly specified, and not a price charged for the purpose of establishing a fictitious higher price on which a deceptive comparison might be based.
 
-   (1) "Recent regular course of business" shall mean the current selling season on seasonal goods; or, on services or non-seasonal goods, the period of the current model or twelve months, whichever is shorter.
+(1) "Recent regular course of business" shall mean the current selling season on seasonal goods; or, on services or non-seasonal goods, the period of the current model or twelve months, whichever is shorter.
 
-   (2) It is prima facie evidence that a selling price for a service or an item is bona fide if:
+(2) It is prima facie evidence that a selling price for a service or an item is bona fide if:
 
-      (i) the item was offered for a reasonably substantial period of time and a substantial quantity of sales were made at that price, or
+   (i) the item was offered for a reasonably substantial period of time and a substantial quantity of sales were made at that price, or
 
-      (ii) if a substantial number of sales was not made at such price, that the item was openly offered for sale to the public for a reasonably substantial period of time and that such offering price was reasonable based upon the manner in which such items were displayed or offered for sale, and such other factors as the mark-up reflected in such price and the price of comparable items.
+   (ii) if a substantial number of sales was not made at such price, that the item was openly offered for sale to the public for a reasonably substantial period of time and that such offering price was reasonable based upon the manner in which such items were displayed or offered for sale, and such other factors as the mark-up reflected in such price and the price of comparable items.
 
 Genuine. "Genuine," when used in this part with such phrases as "open stock price," "list price," "suggested retail price," and "catalog price" shall mean that the price is one at which substantial quantities of the identical merchandise have actually been sold to the public within the recent regular course of business, by the advertiser or principal retail outlets within the New York City trading area, or, if identical merchandise is not available in the New York City trading area, in principal retail outlets in other similar trading areas provided that the fact is disclosed. During the first two weeks after a new model or item has been introduced, a "list price," "suggested retail price" or "catalog price" may be considered "genuine" only if:
 
-   (1) the list price, suggested retail price or catalog price for the last previous model was genuine, or,
+(1) the list price, suggested retail price or catalog price for the last previous model was genuine, or,
 
-   (2) where no previous model existed, the list price, suggested retail price or catalog price for other similar goods, produced by the same manufacturer and sold in the preceding selling season or twelve month period, was genuine. Where no previous model or similar goods existed or where the manufacturer has not previously made use of list price or suggested retail price, the list price, suggested retail price or catalog price may be used for up to thirty days after introduction of the new model or item after which time, the advertiser must be able to demonstrate that the price is genuine.
+(2) where no previous model existed, the list price, suggested retail price or catalog price for other similar goods, produced by the same manufacturer and sold in the preceding selling season or twelve month period, was genuine. Where no previous model or similar goods existed or where the manufacturer has not previously made use of list price or suggested retail price, the list price, suggested retail price or catalog price may be used for up to thirty days after introduction of the new model or item after which time, the advertiser must be able to demonstrate that the price is genuine.
 
 In-store. "In-store" representation shall mean any written statement, visual description, advertisement, or other written representation of any kind, or any oral statement by a demonstrator which is made inside the interior premises of the merchant.
 
@@ -4172,9 +3944,9 @@ Out-of-store. "Out-of-store" representations shall mean any oral or written stat
 
 Retail market price. "Retail market price" shall mean:
 
-   (1) the price at which substantial sales of the same article or service are presently being made in principal retail outlets in the New York City trading area, or
+(1) the price at which substantial sales of the same article or service are presently being made in principal retail outlets in the New York City trading area, or
 
-   (2) where no substantial sales have been made, the bona fide, usual and customary selling price of the item or service as offered in principal retail outlets in the New York City trading area.
+(2) where no substantial sales have been made, the bona fide, usual and customary selling price of the item or service as offered in principal retail outlets in the New York City trading area.
 
 
 
@@ -4198,7 +3970,7 @@ An out-of-store representation or advertisement containing words or numbers indi
 
 (a) Such limiting language should be sufficiently precise to permit consumers to distinguish the applicable merchandise or services. This can be accomplished only by setting forth the brand, price, style, type, model, class or category, as appropriate in the context of the out-of-store representation or advertisement. Vague language such as "percentage off some merchandise" does not comply with this requirement. An advertisement shall be construed to apply to every piece of merchandise (or every service) within that category, type, make, model, (etc.).
 
-   Examples: 
+Examples: 
 
    (1) "Brand X aluminum tennis rackets." Acceptable. 
 
@@ -4214,19 +3986,25 @@ An out-of-store representation or advertisement containing words or numbers indi
 
       (ii) a storewide sale in a broad cross-section of departments; or
 
-      (iii) one or more established departments, but less than all of the merchandise or services in such departments, the terms "selected," "many," "representative," "assorted," or terms of similar import, may be used as limiting language to comply with identification requirement of this section, provided that a meaningful percentage of such merchandise or services is so offered. "Meaningful percentage" shall mean an amount of merchandise that will meet reasonable consumer expectations created by the advertisement. For § 5-88(b)(1)(i), it shall be prima facie evidence of a violation of the meaningful percentage requirement if at least 15 percent of such brands, styles, types, models, classes or categories identified are not on sale, provided however, that the advertiser shall be permitted to show that under the particular circumstances involved the amount on sale was not deceptive.
+      (iii) one or more established departments, but less than all of the merchandise or services in such departments, the terms "selected," "many," "representative," "assorted," or terms of similar import, may be used as limiting language to comply with identification requirement of this section, provided that a meaningful percentage of such merchandise or services is so offered. "Meaningful percentage" shall mean an amount of merchandise that will meet reasonable consumer expectations created by the advertisement. For 5 RCNY § 5-88(b)(1)(i), it shall be prima facie evidence of a violation of the meaningful percentage requirement if at least 15 percent of such brands, styles, types, models, classes or categories identified are not on sale, provided however, that the advertiser shall be permitted to show that under the particular circumstances involved the amount on sale was not deceptive.
 
    (2) In the absence of words of limitation, an advertisement shall be construed to apply to every piece of merchandise or every service within that category, type, make, model, etc.
 
-      Examples:
+   Examples: 
 
-      (i) "Numerous pottery vases" complies if at least 15 percent of the pottery vases are on sale, unless the advertiser can demonstrate that under the particular circumstances involved the amount on sale, in light of the advertisement itself, is not deceptive.       (ii) "Assistant Managers' birthday sale – storewide savings on selected merchandise" complies if the amount of merchandise on sale meets reasonable consumer expectations created by the advertisement.       (iii) "Representative low-cut tennis sneakers" complies provided 15 per cent of the types of brands, makes or etc., are on sale, unless the advertiser can demonstrate that under the particular circumstances involved the amount on sale in light of the advertisement itself was not deceptive.       (iv) "Special grouping of Misses' slacks, regularly $20 now $15" complies if at least 15 percent of all Misses' slacks regularly $20 are now $15 unless the advertiser can demonstrate that under the particular circumstances involved the amount on sale, in light of the advertisement itself, was not deceptive.       (v) "Reduction on many items in the Sporting Goods and Luggage Department" complies if the amount of merchandise on sale in each department meets reasonable consumer expectations created by the advertisement.
+      (i) "Numerous pottery vases" complies if at least 15 percent of the pottery vases are on sale, unless the advertiser can demonstrate that under the particular circumstances involved the amount on sale, in light of the advertisement itself, is not deceptive.
+
+      (ii) "Assistant Managers' birthday sale – storewide savings on selected merchandise" complies if the amount of merchandise on sale meets reasonable consumer expectations created by the advertisement.
+
+      (iii) "Representative low-cut tennis sneakers" complies provided 15 per cent of the types of brands, makes or etc., are on sale, unless the advertiser can demonstrate that under the particular circumstances involved the amount on sale in light of the advertisement itself was not deceptive.
+
+      (iv) "Special grouping of Misses' slacks, regularly $20 now $15" complies if at least 15 percent of all Misses' slacks regularly $20 are now $15 unless the advertiser can demonstrate that under the particular circumstances involved the amount on sale, in light of the advertisement itself, was not deceptive.
+
+      (v) "Reduction on many items in the Sporting Goods and Luggage Department" complies if the amount of merchandise on sale in each department meets reasonable consumer expectations created by the advertisement.
 
 (c) An out-of-store representation or advertisement concerning a storewide sale or a sale in a broad cross-section of departments which displays, pictures, or mentions specific items which are on sale must also disclose whether the items displayed, pictured or mentioned are the only ones on sale. If they are not the only ones on sale, the advertisement must disclose the extent to which items not displayed, pictured or mentioned are on sale.
 
-   Example: "Semi-annual White Sale – These and many other savings" complies if the complete supply of all pictured items is on sale and a meaningful percentage of the ether sale items is offered at a savings.
-
-HISTORICAL NOTE Section in original publication July 1, 1991.
+Example: "Semi-annual White Sale – These and many other savings" complies if the complete supply of all pictured items is on sale and a meaningful percentage of the ether sale items is offered at a savings. 
 
 
 
@@ -4264,15 +4042,15 @@ or other similar terms implying that the purchaser is paying a lower price than 
 
    "percent off" "formerly .., now ..." "reduced" "reduced to" "regularly..., now ..." "now only" "save $ ..." "was ..., now ..., "item now $ ..."
 
-or any similar term implying a reduction from a prior price charged by the advertiser, the price to which the reduced offering price is being compared must be the advertiser's bona fide selling price for that item or service unless the advertiser clearly discloses another basis of comparison or qualification.
+   or any similar term implying a reduction from a prior price charged by the advertiser, the price to which the reduced offering price is being compared must be the advertiser's bona fide selling price for that item or service unless the advertiser clearly discloses another basis of comparison or qualification.
 
 (b) Intermediate reductions. If the term "originally," or any similar term, is used in any advertisement, the price stated as the "original" price must be the advertiser's bona fide selling price for the same article or service prior to intermediate reductions, and the price immediately prior to the current reduction must be disclosed, unless intermediate reductions are clearly indicated by the language used.
 
-   Example: "Originally $75; then $68; now $65" "Earlier this year $75; now $65" "Further reduced to $50."
+   Example: "Originally $75; then $68; now $65" "Earlier this year $75; now $65" "Further reduced to $50." 
 
 (c) Comparison not recent. If a claim is based on a past bona fide selling price of the advertiser prior to the recent, regular course of business, the advertiser must clearly disclose that fact.
 
-   Example: "Last year $40, now $20."
+   Example: "Last year $40, now $20." 
 
 
 
@@ -4286,7 +4064,7 @@ or any similar term implying a reduction from a prior price charged by the adver
 
    "value" "nationally advertised at" "sold nationally at" "made to sell for" "woven to sell for" "elsewhere"
 
-or other similar terms implying a generally accepted value or price are used with regard to any item or service, then the price to which the reduced offering price is being compared must be the retail market price of the item or service. Furthermore, the terms "value," "nationally advertised at," or "sold nationally at" or any similar terms implying a generally accepted value or price in a national market may be used only
+   or other similar terms implying a generally accepted value or price are used with regard to any item or service, then the price to which the reduced offering price is being compared must be the retail market price of the item or service. Furthermore, the terms "value," "nationally advertised at," or "sold nationally at" or any similar terms implying a generally accepted value or price in a national market may be used only
 
    (1) in relation to articles or services whose prices have been nationally advertised to the consuming public and
 
@@ -4338,7 +4116,7 @@ or other similar term implying comparison with non-identical merchandise is used
 
    "Savings of ____ % to ____ %" "____ % to ____ % off"
 
-or other similar terms to indicate a price range, then:
+   or other similar terms to indicate a price range, then:
 
    (1) the minimum percentage reduction must be stated as conspicuously as the maximum percentage reduction; and
 
@@ -4346,23 +4124,19 @@ or other similar terms to indicate a price range, then:
 
    (3) "out-of-store" advertisements must disclose which of the above standards was or were used (if a single advertisement relates to merchandise or services offered at reductions according to different standards, it must disclose which standards apply to which types of merchandise or services);
 
-      Example:
-
-      "____ % to ____ % off the manufacturer's price" "____ % to ____ % off last year's price."
+      Example:  "____ % to ____ % off the manufacturer's price" "____ % to ____ % off last year's price." 
 
    (4) at least 15 percent of all types, models, or categories of items or services on sale in the advertised category must in fact be reduced by the maximum percentage reduction and a representative number of other models or types or services must be offered at various points in the range significantly separated and representatively scattered.
 
-      Example:
+      Example: "PORTABLE RADIOS AND TELEVISIONS 10%-50% off our former prices" 
 
-      "PORTABLE RADIOS AND TELEVISIONS 10%-50% off our former prices"
-
-Complies if at least 15 percent of all models of portable radios and televisions available are selling at 50 percent off, and a representative number of the remaining models are offered at various points between 10 and 50 percent representatively scattered throughout that range.
+      Complies if at least 15 percent of all models of portable radios and televisions available are selling at 50 percent off, and a representative number of the remaining models are offered at various points between 10 and 50 percent representatively scattered throughout that range.
 
 (b) If the terms:
 
    "discounts from ..... %" "up to ...... % off" "as high as" "save up to ..... %"
 
-or other similar terms are used to advertise a range of reductions with no specified minimum reduction,
+   or other similar terms are used to advertise a range of reductions with no specified minimum reduction,
 
    (1) the prices used for comparison must be the advertiser's bona fide selling price, the retail market price, or a genuine list, suggested price for the same articles or services, unless another basis or a qualification is clearly stated;
 
@@ -4372,11 +4146,9 @@ or other similar terms are used to advertise a range of reductions with no speci
 
    (4) a representative number of the remaining models or types or services must be offered at various points representatively scattered throughout the range from the stated maximum percentage reduction to the bottom of the range, or the majority of such other models or types or services must be offered at points in the higher portion of the range.
 
-      Example:
+      Example: "BRAND Y CASSETTE TAPE RECORDERS" "Up to 30 percent off" 
 
-      "BRAND Y CASSETTE TAPE RECORDERS" "Up to 30 percent off"
-
-Complies if at least 15 percent of all models of Brand Y Cassette tape recorders available are selling at 30 percent off and the remaining models are offered at various points representatively scattered throughout the range below 30 percent or the majority of the remaining models are offered at points in the higher portion of the range. If the range is 0-30 percent, the majority of the remaining models would have to be offered above 15 percent; if the range is 10-30 percent, the majority would have to be offered above 20 percent.
+      Complies if at least 15 percent of all models of Brand Y Cassette tape recorders available are selling at 30 percent off and the remaining models are offered at various points representatively scattered throughout the range below 30 percent or the majority of the remaining models are offered at points in the higher portion of the range. If the range is 0-30 percent, the majority of the remaining models would have to be offered above 15 percent; if the range is 10-30 percent, the majority would have to be offered above 20 percent.
 
 (c) If terms such as "formerly $ ..... to $ ..... ; now $ ....." are used, the maximum price in the range of advertised former prices must represent the advertiser's bona fide selling price for at least 15 percent of all the types, models or services advertised. Bona fide selling prices for the other items or services must have been at levels representatively scattered through the range of advertised former prices.
 
@@ -4406,7 +4178,7 @@ Complies if at least 15 percent of all models of Brand Y Cassette tape recorders
 
 (a) If the advertiser uses "combination offers," in which he offers his product in combination with one or more additional articles or services at a stated price, and claims that the combined articles or services have a "value" greater than the total advertised selling price of the individual items, the total "value" claimed must not be greater than the total of the retail market prices of the articles and services as sold separately.
 
-(b) If none of the combination articles is being sold in the New York City trading area and the comparison is based on comparable merchandise, the phrase "comparable value" may be used only if it complies with § 5-93.
+(b) If none of the combination articles is being sold in the New York City trading area and the comparison is based on comparable merchandise, the phrase "comparable value" may be used only if it complies with 6 RCNY § 5-93.
 
 (c) If one or more of the articles offered in combination is in general retail distribution, but one or more is not, comparative prices for the articles may be stated separately, according to the facts.
 
@@ -4434,7 +4206,7 @@ A retailer may not use the words "discount," "bargain," "warehouse," "bargain ba
 
 (b) all items not presently being sold for at least 5 percent less than genuine catalog, list, suggested or retail market price, are clearly and conspicuously designated as non-discount items. This requirement of designation may be satisfied by segregation of identified non-discount items, shelf labels, or other prominent signs, a listing of non-discount items clearly and conspicuously displayed in the relevant department, or a standardized sticker or tag with a clear and conspicuous explanation that the item to which it is affixed is a non-discount item.
 
-   Example: A shoe department in a retail store sells brands X, Y, and Z shoes. Brand X is sold at less than retail market price, and brands Y and Z are sold at retail market price. In the last previous selling season, 35 percent of all shoe sales came from the sale of brand X shoes. The store is in compliance with this article. But if less than 35 percent of all sales came from sales of brand X shoes, brands Y and Z must be conspicuously designated as nondiscount items in order for the department to be called "discount shoe department."
+   Example: A shoe department in a retail store sells brands X, Y, and Z shoes. Brand X is sold at less than retail market price, and brands Y and Z are sold at retail market price. In the last previous selling season, 35 percent of all shoe sales came from the sale of brand X shoes. The store is in compliance with this article. But if less than 35 percent of all sales came from sales of brand X shoes, brands Y and Z must be conspicuously designated as nondiscount items in order for the department to be called "discount shoe department." 
 
 
 
@@ -4464,9 +4236,7 @@ The retailer either must have in stock or on order, or be prepared to supply wit
 *§ 5-101 Inherently Misleading Terms.* ::
 
 
-The following inherently misleading terms are prohibited in retail advertising:
-
-"our list price" below "manufacturer's wholesale cost" "manufacturer's cost"
+The following inherently misleading terms are prohibited in retail advertising:  "our list price" below "manufacturer's wholesale cost" "manufacturer's cost"
 
 
 
@@ -4488,7 +4258,7 @@ All disclosures and words of limitation or qualification required by this part s
 
 (a) Each person who advertises or represents the existence of a discount, reduction or savings shall for three months maintain records demonstrating compliance with this part at his principal place of business within the City of New York or at a location where such records are normally maintained by such person.
 
-   Example: An advertiser who advertises "20 percent off Brand X cameras" must maintain records demonstrating that the reduction is from the bona fide selling price. If the cameras were last sold at such lower price eleven months ago, the advertiser must retain the records indicating the earlier price. These records must be kept for a period of three months after the sale is over.
+Example: An advertiser who advertises "20 percent off Brand X cameras" must maintain records demonstrating that the reduction is from the bona fide selling price. If the cameras were last sold at such lower price eleven months ago, the advertiser must retain the records indicating the earlier price. These records must be kept for a period of three months after the sale is over. 
 
 (b) Where the Commissioner of Consumer Affairs or her delegate requests a person to produce by mail information or records to demonstrate compliance with this part, and the information, or original, carbon, photographic or electrostatic copies of the records are available in the company's files, the person shall mail a copy of such information to the person requesting it within seven business days after receipt of the request unless such time period is extended by the Chief of the Law Enforcement Division. Where the information is available to the person but not in his possession, or where the record must be reconstructed (e.g., where they have been stored in the memory bank of a computer), the person shall mail a copy of such information to the person requesting it within a reasonable period of time, not to exceed sixty business days, after receipt of the request unless such time period is extended by the Chief of the Law Enforcement Division. In lieu of mailing requested information or records to the Commissioner, a person may grant access to the files for purpose of examination and to copy documentary evidence by advising the Commissioner in writing within 5 business days after receipt of the request that such access will be granted provided the information or records are kept in New York City.
 
@@ -4499,10 +4269,10 @@ All disclosures and words of limitation or qualification required by this part s
 
 
 
-*§ 5-104 Regulations §§ 5-06 and 5-12 not Affected.* ::
+*§ 5-104 Regulations 6 RCNY §§ 5-06 and 5-12 Not Affected.* ::
 
 
-Nothing in this part repeals or modifies §§ 5-06 and 5-12 or any portion thereof. In the event of any inconsistency, the advertiser should comply with the requirements of §§ 5-06 or 5-12, as the case may be.
+Nothing in this part repeals or modifies 6 RCNY §§ 5-06 and 5-12 or any portion thereof. In the event of any inconsistency, the advertiser should comply with the requirements of 6 RCNY §§ 5-06 or 5-12, as the case may be.
 
 
 
@@ -4512,7 +4282,7 @@ Nothing in this part repeals or modifies §§ 5-06 and 5-12 or any portion there
 *§ 5-105 Exemptions.* ::
 
 
-(a) Except as provided in § 5-92, this part does not apply to advertisements printed or packaging material prepared by a manufacturer outside of the City of New York unless such advertisements were requested or ordered by the advertiser located within the City of New York.
+(a) Except as provided in 6 RCNY § 5-92, this part does not apply to advertisements printed or packaging material prepared by a manufacturer outside of the City of New York unless such advertisements were requested or ordered by the advertiser located within the City of New York.
 
 (b) This part does not apply to advertising placed prior to its effective date, nor, until four months after its effective date, to non-periodical advertising displays in existence and used by the advertiser prior to the effective date.
 
@@ -4539,7 +4309,7 @@ This regulation may be cited as Consumer Protection Law Regulations, Part 7.
 *§ 5-111 Definitions.* ::
 
 
-As used in the following §§ 5-111-5-114:
+As used in the following 6 RCNY §§ 5-111 - 5-114:
 
 Retail entity. "Retail entity" shall mean any person, partnership, corporation or other organization engaged in the sale, display or offering for sale of consumer commodities at retail from one or more retail establishments. For the purposes of these regulations, retail establishments owned or controlled by different persons, partnerships, corporations or other organizations, but associated together for the purpose of sharing a trade name or advertising expenses or for joint or cooperative purchase of merchandise or services, shall not constitute a single retail entity.
 
@@ -4559,7 +4329,7 @@ Self service. "Self service" shall mean the offering or display of consumer comm
 
 (b) § 20-709 of the Administrative Code, "Display of Price per Measure," shall not apply to any consumer commodity packaged without a declaration of volume, weight, quantity or other appropriate size declaration.
 
-(c) § 20-709 of the Administrative Code, "Display of Price per Measure," shall not apply to any consumer commodity sold in one, two, five, or ten units of the applicable standard measure designated in § 5-113(b) below.
+(c) § 20-709 of the Administrative Code, "Display of Price per Measure," shall not apply to any consumer commodity sold in one, two, five, or ten units of the applicable standard measure designated in 6 RCNY § 5-113(b).
 
 (d) § 20-709 of the Administrative Code, "Display of Price per Measure," shall not apply to any consumer commodity whose method of sale is governed by § 191, § 193, or § 193-d of the New York Agriculture and Markets Law.
 
@@ -4577,9 +4347,9 @@ Self service. "Self service" shall mean the offering or display of consumer comm
 
 (a) Price or measure shall be expressed in terms of dollars or cents, as applicable, carried to three digits. If the price is $1.00 or over, it is to be stated to the nearest full cent, provided that said price is rounded off from one-half cent or over to the next higher cent; and, if less than one-half cent, reduced to the next lower cent.
 
-   Example: "$1.35 per pound." If the price is less than $1.00, it should be stated to the nearest tenth of a cent.
+   Example: "$1.35 per pound." If the price is less than $1.00, it should be stated to the nearest tenth of a cent. 
 
-   Example: "24.8¢ per pound."
+   Example: "24.8¢ per pound." 
 
 (b) Price per measure shall be expressed as follows:
 
@@ -4659,7 +4429,7 @@ The following commodities shall be labelled in accordance with the provisions of
 
 (q) Dishwashing and laundry soaps and detergents.
 
-(r) Scouting powders. The above regulations shall be known as Truth-in-Pricing Regulations § 5-111 to § 5-114.
+(r) Scouting powders. The above regulations shall be known as Truth-in-Pricing Regulations 6 RCNY § 5-111 to § 5-114.
 
 
 
@@ -4671,21 +4441,21 @@ The following commodities shall be labelled in accordance with the provisions of
 
 (a) Definitions. Whenever used in these guidelines, the following terms shall be deemed to mean and include:
 
-Commissioner. The Commissioner of the Department of Consumer Affairs of the City of New York.
+   Commissioner. The Commissioner of the Department of Consumer Affairs of the City of New York.
 
-Consumer Protection Law. New York City Local Law 83 of 1969, as the same has, or may hereafter be, amended.
+   Consumer Protection Law. New York City Local Law 83 of 1969, as the same has, or may hereafter be, amended.
 
-Department. The Department of Consumer Affairs of the City of New York.
+   Department. The Department of Consumer Affairs of the City of New York.
 
-Identical items of merchandise. "Identical items of merchandise" shall " mean a single unit of merchandise available for purchase that is of the same brand and is the same as another unit of merchandise in every other way. For the purpose of these guidelines, items of merchandise that have different prices but have no other differences shall be deemed identical.
+   Identical items of merchandise. "Identical items of merchandise" shall " mean a single unit of merchandise available for purchase that is of the same brand and is the same as another unit of merchandise in every other way. For the purpose of these guidelines, items of merchandise that have different prices but have no other differences shall be deemed identical.
 
-Item of merchandise. "Item of merchandise" shall mean a single unit of merchandise available for purchase.
+   Item of merchandise. "Item of merchandise" shall mean a single unit of merchandise available for purchase.
 
-Multiple pricing. "Multiple pricing" shall mean the practice of having identical items of merchandise, as above defined, available for sale at a particular time for more than one price. For purposes of these guidelines, a difference in price achieved by the use of discount coupons, quantity purchases or the like shall not be deemed an instance of multiple pricing.
+   Multiple pricing. "Multiple pricing" shall mean the practice of having identical items of merchandise, as above defined, available for sale at a particular time for more than one price. For purposes of these guidelines, a difference in price achieved by the use of discount coupons, quantity purchases or the like shall not be deemed an instance of multiple pricing.
 
-Retail food store. "Retail food store" shall mean a store which has as its principal line of business the sale at retail of a broad range of food items.
+   Retail food store. "Retail food store" shall mean a store which has as its principal line of business the sale at retail of a broad range of food items.
 
-Truth-In-Pricing Law. "Truth-In-Pricing Law" shall mean New York City Local Law 14 of 1971, as the same has, or may hereafter be, amended.
+   Truth-In-Pricing Law. "Truth-In-Pricing Law" shall mean New York City Local Law 14 of 1971, as the same has, or may hereafter be, amended.
 
 (b) Consumer Protection Law. It is the enforcement policy of the Department of Consumer Affairs in interpreting the Consumer Protection Law that Multiple Pricing is a deceptive trade practice except where each of the following conditions are complied with:
 
@@ -4695,7 +4465,7 @@ Truth-In-Pricing Law. "Truth-In-Pricing Law" shall mean New York City Local Law 
 
       (i) the number of consumer entrances to such store, or
 
-      (ii) five signs. In addition, a smaller sign shall be placed at each cash register clearly visible to the consumer advising the consumer of the store's program of Multiple Pricing. At least two (2) weeks prior to termination of Multiple Pricing, a retail store shall so notify its customers in New York City. Such notification shall include the conspicuous posting of signs indicating such intended termination in compliance with the second paragraph of this § 5-115(b).
+      (ii) five signs. In addition, a smaller sign shall be placed at each cash register clearly visible to the consumer advising the consumer of the store's program of Multiple Pricing. At least two (2) weeks prior to termination of Multiple Pricing, a retail store shall so notify its customers in New York City. Such notification shall include the conspicuous posting of signs indicating such intended termination in compliance with the second paragraph of this 6 RCNY § 5-115(b).
 
    (3) Retail food store internal operations.
 
@@ -4717,9 +4487,9 @@ Truth-In-Pricing Law. "Truth-In-Pricing Law" shall mean New York City Local Law 
 
          (A) lower priced items are grouped together and
 
-         (B) lower priced items are placed nearest to the consumer. On a surface which is parallel to the store floor, such as shelf merchandise, such lower priced items will be placed towards the front edge of the shelf with higher priced items behind. Where items are stacked vertically, as in freezer cabinets, the lower priced items will be stacked on top of the higher priced items and grouped at the front of the vertical space allocated to such items. If any type of physical separation of multiple priced merchandise is instituted this must be applied uniformly throughout the store and must be disclosed on the store signs referred to in § 5-115(b)(2) and also at each point of sale of the item. As an example, if items at a lower price are placed on a different shelf such sign shall be placed where the higher priced item is and where the lower priced item is.
+         (B) lower priced items are placed nearest to the consumer. On a surface which is parallel to the store floor, such as shelf merchandise, such lower priced items will be placed towards the front edge of the shelf with higher priced items behind. Where items are stacked vertically, as in freezer cabinets, the lower priced items will be stacked on top of the higher priced items and grouped at the front of the vertical space allocated to such items. If any type of physical separation of multiple priced merchandise is instituted this must be applied uniformly throughout the store and must be disclosed on the store signs referred to in 6 RCNY § 5-115(b)(2) and also at each point of sale of the item. As an example, if items at a lower price are placed on a different shelf such sign shall be placed where the higher priced item is and where the lower priced item is.
 
-      (vi) In all places where multiple priced items are offered for sale some clear identifying symbol shall be conspicuously displayed at the point of sale to indicate the availability of merchandise at a lower price. This requirement shall apply whether or not the retail food store is subject to the requirements of the Truth-In-Pricing Law. The symbol and the fact that the symbol designates the presence of lower priced merchandise shall be disclosed in the signs referred to in § 5-115(b)(2).
+      (vi) In all places where multiple priced items are offered for sale some clear identifying symbol shall be conspicuously displayed at the point of sale to indicate the availability of merchandise at a lower price. This requirement shall apply whether or not the retail food store is subject to the requirements of the Truth-In-Pricing Law. The symbol and the fact that the symbol designates the presence of lower priced merchandise shall be disclosed in the signs referred to in 6 RCNY § 5-115(b)(2).
 
    (4) Advertising.
 
@@ -4733,13 +4503,13 @@ Truth-In-Pricing Law. "Truth-In-Pricing Law" shall mean New York City Local Law 
 
       (v) When retail food stores are subject to a common ownership, as in a chain, or though not commonly owned, participate in an advertising program under some common name covering more than one store, if one or more stores in the group is not utilizing Multiple Pricing, each store not using Multiple Pricing shall be specifically identified. Such statements as "... not available in certain stores" will not be permissible.
 
-      (vi) If merchandise is available at a price lower than the advertised price, it shall be sold at the price shown on the item of merchandise. Having merchandise available for sale at a price lower than the sale price is a violation of § 5-115(b)(4)(ii) hereof and selling such merchandise at such lower price shall not cure any such violation.
+      (vi) If merchandise is available at a price lower than the advertised price, it shall be sold at the price shown on the item of merchandise. Having merchandise available for sale at a price lower than the sale price is a violation of 6 RCNY § 5-115(b)(4)(ii) hereof and selling such merchandise at such lower price shall not cure any such violation.
 
 (c) Unit pricing. In stores subject to the requirement of the Truth-In-Pricing Law, unit pricing stickers will be prepared which indicate in all instances either
 
    (1) unit pricing data at each price at which an item is being sold, or
 
-   (2) unit pricing information at the highest price that an item of merchandise is being sold and some method of clearly identifying at each place, where any merchandise is being sold at multiple prices that some of the same merchandise is available at a lower price. That method of disclosure shall be set out and explained in the signs referred to in § 5-115(b)(2).
+   (2) unit pricing information at the highest price that an item of merchandise is being sold and some method of clearly identifying at each place, where any merchandise is being sold at multiple prices that some of the same merchandise is available at a lower price. That method of disclosure shall be set out and explained in the signs referred to in 6 RCNY § 5-115(b)(2).
 
 (d) Notification of the department. Any retail food store intending to use Multiple Pricing shall advise the Department in writing sent certified mail addressed to the Commissioner at 42 Broadway, New York, N.Y. 10004. Such notice shall be mailed at least one (1) business day prior to initiating such program. Such notice shall be accompanied by copies of all instructions given to store employees concerning procedures which affect Multiple Pricing together with copies of any and all advertising materials discussing Multiple Pricing to be used by any retail food store or group of retail food stores. Retail food stores shall have the duty to notify the Commissioner when they intend to use any instructions or advertising materials not previously submitted to the Department. Notification of the Department pursuant to this paragraph shall not imply review of, or consent to the use of, such material by the Department. Any retail food store intending to terminate Multiple Pricing shall advise the Department in writing sent certified mail addressed to the Commissioner at 42 Broadway, New York, N.Y. 10004. Such notice shall be mailed at least two (2) weeks prior to terminating such program.
 
@@ -4867,7 +4637,7 @@ The retail price, which is required to be prominently displayed on caskets and o
 
    Example: A caller inquiring about caskets may be told by the provider of funeral services: "We have caskets ranging in price from $(price) for a (description, model, brand) to $(price) for a (description, model, brand)."
 
-If there is no variation in price for an item or service, then the provider of funeral services must give the caller a specific price.
+   If there is no variation in price for an item or service, then the provider of funeral services must give the caller a specific price.
 
 (c) A provider of funeral services need not provide to a telephone caller price information for items and services on the General Price List under the heading of "CASH ADVANCES."
 
@@ -5033,7 +4803,7 @@ The Department of Consumer Affairs shall make available to all dealers signs whi
 *§ 5-194 Substitute Signs.* ::
 
 
-Any dealer who wishes to post a sign other than the one supplied by the Department may do so, provided that the sign so substituted is approved by the Commissioner prior to its posting. To be approved, substitute signs shall be at least eleven inches by seventeen inches in size and shall contain language that is similar in import to that required by § 5-192. Dealers may expand upon, but may not omit, any of the language required by § 5-192. To obtain prior approval for a substitute sign, a dealer shall submit to the Department a true representation of the sign for which approval is being sought. The type for the heading on substitute signs shall not be smaller than three quarters (3/4) of an inch in size. The type for the text on substitute signs shall not be smaller than one half (l/2) of an inch in size.
+Any dealer who wishes to post a sign other than the one supplied by the Department may do so, provided that the sign so substituted is approved by the Commissioner prior to its posting. To be approved, substitute signs shall be at least eleven inches by seventeen inches in size and shall contain language that is similar in import to that required by 6 RCNY § 5-192. Dealers may expand upon, but may not omit, any of the language required by 6 RCNY § 5-192. To obtain prior approval for a substitute sign, a dealer shall submit to the Department a true representation of the sign for which approval is being sought. The type for the heading on substitute signs shall not be smaller than three quarters (3/4) of an inch in size. The type for the text on substitute signs shall not be smaller than one half (l/2) of an inch in size.
 
 
 
@@ -5145,27 +4915,27 @@ The sign required to be posted pursuant to § 20-745 of the Administrative Code 
 
 No collateral loan broker shall charge or exact a fee other than that permitted by § 44 of the General Business Law, except that the collateral loan broker may charge a reasonable fee for:
 
-   (1) insuring the articles from injury, fire, theft, burglary, robbery and other contingencies; and
+(1) insuring the articles from injury, fire, theft, burglary, robbery and other contingencies; and
 
-   (2) extra care actually given when specifically requested by the customer and only if such fee does not exceed the following amounts:
+(2) extra care actually given when specifically requested by the customer and only if such fee does not exceed the following amounts:
 
-      (i) Storage of furs, fur coats, fragile, delicate or bulky items: $25.00.
+   (i) Storage of furs, fur coats, fragile, delicate or bulky items: $25.00.
 
-      (ii) Storage of art objects including paintings, sculptures and all works in any other medium for sizes not to exceed 36 inches by 36 inches: $25.00 plus any costs actually incurred for special crating and packaging; and for sizes exceeding the foregoing: an amount separately agreed to by the parties.
+   (ii) Storage of art objects including paintings, sculptures and all works in any other medium for sizes not to exceed 36 inches by 36 inches: $25.00 plus any costs actually incurred for special crating and packaging; and for sizes exceeding the foregoing: an amount separately agreed to by the parties.
 
-      (iii) Vault storage for stamp or coin collection: $20.00.
+   (iii) Vault storage for stamp or coin collection: $20.00.
 
-      (iv) Vault storage for jewelry: 2 percent of the amount of the loan not to exceed $20.00; if the loan exceeds $1,000: an amount separately agreed to by the parties.
+   (iv) Vault storage for jewelry: 2 percent of the amount of the loan not to exceed $20.00; if the loan exceeds $1,000: an amount separately agreed to by the parties.
 
-      (v) Transportation of pledged items to and from the vault either by courier(s) or vehicle(s), together with security therefore: one percent of the amount loaned.
+   (v) Transportation of pledged items to and from the vault either by courier(s) or vehicle(s), together with security therefore: one percent of the amount loaned.
 
-      (vi) Special handling or wrapping of cameras and photographic equipment: $5.00.
+   (vi) Special handling or wrapping of cameras and photographic equipment: $5.00.
 
-      (vii) Special handling of musical instruments: $5.00 for standard size; instruments exceeding standard size: by separate agreement of the parties.
+   (vii) Special handling of musical instruments: $5.00 for standard size; instruments exceeding standard size: by separate agreement of the parties.
 
-      (viii) Special handling of radios, hi-fi's, VCR's, stereos and television equipment: $10.00.
+   (viii) Special handling of radios, hi-fi's, VCR's, stereos and television equipment: $10.00.
 
-      (ix) Special handling for other electrical apparatus, including computers: $10.00.
+   (ix) Special handling for other electrical apparatus, including computers: $10.00.
 
 
 
@@ -5442,7 +5212,7 @@ Vocational guidance or counseling services. "Vocational guidance or counseling s
 *§ 5-250 Display of Sign.* ::
 
 
-Every licensee must post conspicuously at his or her place of business a sign, at least 12 inches by 18 inches in dimension with letters at least 1-inch high, reading as follows:
+Every licensee must post conspicuously at his or her place of business a sign, at least 12 inches by 18 inches in dimension with letters at least 1-inch high, reading as follows: 
 
  
 
@@ -5757,35 +5527,45 @@ Chapter 7: Office of Labor Policy and Standards
 
 
 
-**Subchapter A: [Reserved]**
+**Subchapter A: Office of Labor Policy and Standards**
 
 
 
+*7-101 Definitions.* ::
 
-**Subchapter B: Earned Sick Time**
 
+(a) As used in this subchapter, the following terms have the following meanings:
 
+   "Employee" means any person who meets the definition of "employee," as defined by Section 20-912 of the Code, "eligible grocery employee," as defined by Section 22-507 of the Code, "fast food employee," as defined by Section 20-1201 or 20-1301 of the Code, or "retail employee," as defined by Section 20-1201 of the Code.
 
-*§ 7-01 Definitions.* ::
+   "Employer" means any person who meets the definition of "employer," as defined by Section 20-912 of the Code, "successor grocery employer" or "incumbent grocery employer," as defined by Section 22-507 of the Code, "fast food employer," as defined by Section 20-1201 or 20-1301 of the Code, or "retail employer," as defined by Section 20-1201 of the Code.
 
+   "Freelancers Law and rules" means Chapter 10 of Title 20 of the Code and Subchapter E of this chapter.
 
-(a) As used in this subchapter, the terms "calendar year," "domestic worker," "employee," "employer," "health care provider," "paid sick time," and "sick time" shall have the same meanings as set forth in section 20-912 of the Administrative Code.
+   "OLPS laws and rules" means Chapters 8, 12, and 13 of Title 20 and Section 22-507 of the Code and Subchapters A, B, D, F, and G of this chapter.
 
-(b) As used in this subchapter, the term "temporary help firm" means an organization that recruits and hires its own employees and assigns those employees to perform work or services for another organization to: (i) support or supplement the other organization's workforce; (ii) provide assistance in special work situations including, but not limited to, employee absences, skill shortages or seasonal workloads; or (iii) perform special assignments or projects.
+   "Transportation Benefits Law and rules" means Chapter 9 of Title 20 of the Code and Subchapter C of this chapter.
 
+(b) As used in the OLPS laws and rules, the following terms have the following meanings:
 
+   "Code" means the Administrative Code of the City of New York.
 
+   "Department" means the New York City Department of Consumer Affairs.
 
+   "Director" means the director of the office of labor standards established, pursuant to Section 20-a of the charter.
 
+   "Joint employer" means each of two or more employers who has some control over the work or working conditions of an employee or employees. Joint employers may be separate and distinct individuals or entities with separate owners, managers and facilities. A determination of whether or not a joint employment relationship exists will not often be decided by the application of any single criterion; rather the entire relationship shall be viewed in its totality.
 
+   "Office" means the office of labor standards established, pursuant to Section 20-a of the New York City Charter and referred to as the Office of Labor Policy and Standards.
 
+   "Supplements" means all remuneration for employment paid in any medium other than cash, or reimbursement for expenses, or any payments which are not ‘wages' within the meaning of the New York State Labor Law, including, but not limited to, health, welfare, non-occupational disability, retirement, vacation benefits, holiday pay, life insurance, and apprenticeship training.
 
-*§ 7-02 Business Size.* ::
+   "Temporary help firm" means an employer that recruits and hires its own employees and assigns those employees to perform work or services for another organization to: (i) support or supplement the other organization's workforce; (ii) provide assistance in special work situations including, but not limited to, employee absences, skill shortages, or seasonal workloads; or (iii) perform special assignments or projects.
 
+   "Work week" means a fixed and regularly recurring period of 168 hours or seven consecutive 24 hour periods; it may begin on any day of the week and any hour of the day, and need not coincide with a calendar week.
 
-(a) Business size for an employer that has operated for less than one year shall be determined by counting the number of employees performing work for an employer for compensation per week, provided that if the number of employees fluctuates between less than five employees and five or more employees per week, business size may be determined for the current calendar year based on the average number of employees per week who worked for compensation for each week during the 80 days immediately preceding the date the employee used sick time.
+   "Written" or "writing" means a hand-written or machine-printed or printable communication in physical or electronic format, including a communication that is maintained or transmitted electronically, such as a text message.
 
-(b) Business size for an employer that has operated for one year or more is determined by counting the number of employees working for the employer per week at the time the employee uses sick time, unless the number of employees fluctuates, in which case business size may be determined for the current calendar year based on the average number of employees per week during the previous calendar year. For purposes of this subdivision, "fluctuates" means that at least three times in the most recent calendar quarter the number of employees working for an employer fluctuated between less than five employees and five or more employees.
 
 
 
@@ -5793,77 +5573,297 @@ Chapter 7: Office of Labor Policy and Standards
 
 
 
+*§ 7-102 Construction.* ::
 
-*§ 7-03 Joint employers and temporary help firms.* ::
 
+This chapter shall be liberally construed to permit the Office to accomplish the purposes contained in Section 20-a of the New York City Charter. The provisions of this subchapter shall not be construed to supersede any other provision of the OLPS laws and rules, the Freelancers Law and rules, or the Transportation Benefits Law and rules.
 
-(a) Where two or more employers have some control over the work or working conditions of an employee, the employers may be treated as a "joint employer" of the employee for purposes of complying with chapter 8 of title 20 of the Administrative Code ("the Earned Sick Time Act"). Joint employers may be separate and distinct entities with separate owners, managers and facilities.
 
-(b) Every employer deemed to be a joint employer must count each employee jointly employed in determining the number of employees performing work for compensation for the employer under the Earned Sick Time Act. For example, an employer who jointly employs three workers and also has three employees under its sole control has six employees for purposes of the Earned Sick Time Act and must provide paid sick time.
 
-(c) In discharging their joint obligations under the Earned Sick Time Act, joint employers may allocate responsibility for the requirements of such Act among themselves.
 
-(d) Except as limited by subdivision (f) of this section, all covered joint employers are responsible, individually and jointly, for compliance with all applicable provisions of the Earned Sick Time Act and satisfaction of any penalties imposed for any violation thereof, regardless of any agreement among joint employers.
 
-(e) If an employee is employed jointly by two or more joint employers, all of the employee's work for each of the joint employers will be considered as a single employment for purposes of accrual and use of sick time under the Earned Sick Time Act.
 
-(f) Notwithstanding any other provision of this section, where a temporary help firm places a temporary employee in an organization, the temporary help firm shall be solely responsible for compliance with all of the provisions of the Earned Sick Time Act for that temporary employee. For example, a temporary help firm that has 100 employees placed in several different organizations must provide paid sick time to each of its employees placed at the other organizations, regardless of the size of the organization where the temporary help firm places the employee.
 
 
+*§ 7-103 Severability.* ::
 
 
+The rules contained in this chapter shall be separate and severable. If any word, clause, sentence, paragraph, subdivision, section, or portion of these rules or the application thereof to any person, employer, employee, or circumstance is contrary to a Local, State or Federal law or held to be invalid, it shall not affect the validity of the remainder of the rules or the validity of the application of the rules to other persons or circumstances.
 
 
 
 
-*§ 7-04 Employees.* ::
 
 
-(a) An employee is entitled to the protections of the Earned Sick Time Act regardless of immigration status.
 
-(b) An individual is "employed for hire within the city of New York for more than eighty hours in a calendar year" for purposes of section 20-912(f) of the Administrative Code if the individual performs work, including work performed by telecommuting, for more than eighty hours while the individual is physically located in New York City, regardless of where the employer is located.
 
-   i. Example: An individual who only performs work while physically located outside of New York City, even if the employer is based in New York City, is not "employed for hire within the city of New York" for purposes of section 20-912(f) for hours worked outside New York City.
+*§ 7-104 Complainants and Witnesses.* ::
 
-   ii. Example: An individual performs twenty hours of work in New Jersey and sixty hours of work in New York City in a calendar year. The twenty hours of work performed by the employee in New Jersey do not count towards the employee's eighty hours of work for purposes of section 20-912(f).
 
+(a) All people, regardless of immigration status, may access resources provided by the Office.
 
+(b) Any person who meets the definition of employee in 6 RCNY § 7-101 is entitled to the rights and protections provided by this Subchapter to employees and any applicable provision of the OLPS laws and rules, regardless of immigration status.
 
+(c) The Office shall conduct its work without inquiring into the immigration status of complainants and witnesses.
 
+(d) The Office shall maintain confidential the identity of a complainant or natural person providing information relevant to enforcement of the OLPS laws and rules and the Transportation Benefits Law and rules, unless disclosure is necessary for resolution of the investigation or matter, or otherwise required by law, and the Office, to the extent practicable, notifies such complainant or natural person that the Office will be disclosing such person's identity before such disclosure.
 
+(e) For purposes of effectuating subdivision (d) of this section, the Office shall keep confidential any information that may be used to identify, contact, or locate a single person, or to identify an individual in context.
 
 
 
-*§ 7-05 Minimum increments and fixed intervals for the use of sick time.* ::
 
 
-(a) Unless otherwise in conflict with state or federal law or regulations, an employee may decide how much earned sick time to use, provided however, that an employer may set a minimum increment for the use of sick time, not to exceed four hours per day, provided such minimum increment is reasonable under the circumstances.
 
-   (i) Example: An employee has worked eighty hours and more than one hundred twenty calendar days have passed since the employee's first day of work for the employer. The employer has set a minimum increment of four hours per day for use of sick time. The employee has not yet accrued four hours of time, but is entitled to use the time he or she has already accrued. Under these circumstances, it would not be "reasonable under the circumstances" for the employer to require the employee to use a minimum of four hours of sick time as the minimum increment.
 
-   (ii) Example: An employee is scheduled to work from 8:00 am to 4:00 pm Mondays. She schedules a doctor's appointment for 9:00 am on a Monday and notifies her employer of her intent to use sick time and return to work the same day. The employer's written sick time policies require a four hour minimum increment of sick time used per day. If she does not go to work before her appointment, she should appear for work by 12:00 pm.
 
-(b) An employer may set fixed periods of thirty minutes or any smaller amount of time for the use of accrued sick time beyond the minimum increment described in subdivision (a) of this section and may require fixed start times for such intervals.
+*§ 7-105 Joint Employers.* ::
 
-      Example: The employee in Example (ii) of subdivision (a) of this section arrives to work at 12:17pm. Under her employer's written sick time policies, employees must use sick time in half-hour intervals that start on the hour or half-hour. The employer can require the employee to use four-and-a-half hours of her accrued sick time and require her to begin work at 12:30 pm. Similarly, if the employee wanted to leave work at 8:40 am to go to her 9:00 am doctor's appointment, the employer could require the employee to stop work at 8:30 am.
 
+(a) Joint employers are individually and jointly liable for violations of all applicable OLPS laws and rules and satisfaction of any penalties or restitution imposed on a joint employer for any violation thereof, regardless of any agreement among joint employers to the contrary.
 
+(b) A joint employer must count every employee it employs for hire or permits to work, whether joint or not, in determining the number of employees employed for hire or permitted to work for the employer. For example, a joint employer who employs three workers from a temporary help firm and also has three permanent employees under its sole control has six employees for purposes of the OLPS laws and rules.
 
 
 
 
 
 
-*§ 7-06 Employee notification of use of sick time.* ::
 
 
-(a) An employer may require an employee to provide reasonable notice of the need to use sick time.
+*§ 7-106 Determining Damages Based on Lost Earnings.* ::
 
-(b) An employer that requires notice of the need to use sick time where the need is not foreseeable shall provide a written policy that contains procedures for the employee to provide notice as soon as practicable. Examples of such procedures may include, but are not limited to, instructing the employee to: (1) call a designated phone number at which an employee can leave a message; (2) follow a uniform call-in procedure; or (3) use another reasonable and accessible means of communication identified by the employer. Such procedures for employees to give notice of the need to use sick time when the need is not foreseeable may not include any requirement that an employee appear in person at a worksite or deliver any document to the employer prior to using sick time.
+
+(a) The following provisions apply to the extent necessary in circumstances described in paragraphs (1) and (2) below for the calculation of damages based on lost earnings in an administrative enforcement action:
+
+   (1) When an employer pays a flat rate of pay for work performed, regardless of the number of hours actually worked, an employee's hourly rate of pay shall be based on the most recent hourly rate paid to the employee for the applicable pay period, calculated by adding together the employee's total earnings, including tips, commissions, and supplements, for the most recent work week in which no sick time or other leave was taken and dividing that sum by the number of hours spent performing work during such work week or forty hours, whichever amount of hours is less.
+
+   (2) If an employee performs more than one job for the same employer or the employee's rate of pay fluctuates for a single job, the hourly rate of pay shall be the rate of pay that the employee would have been paid during the time that employee would have been performing work but for the employee's absence.
+
+(b) If the methods for calculating the hourly rate described in subdivision (a) produce an hourly rate that is below the full hourly minimum wage, then the employee's lost earnings shall be based on the full hourly minimum wage.
+
+
+
+
+
+
+
+
+*§ 7-107 Required Notices and Postings.* ::
+
+
+(a) For any notice created by the Office that is made available on the City's website and that is then required by a provision of the OLPS laws and rules to be provided to an employee or posted in the workplace, an employer must provide and/or post such notice in English and in any language spoken as a primary language by at least five percent of employees at the employer's location, provided that the Director has made the notice available in such language. Employers covered by the Earned Safe and Sick Time Act, Chapter 8 of Title 20 of the Code, are required to comply with this subdivision in addition to the requirement, pursuant to Section 20-919 of the Code that an employer provide the notice of rights in an employee's primary language.
+
+(b) (1) For any notice that is not created by the Office and made available on the City's website, that is required to be provided to an employee and/or posted in the workplace by a provision of the OLPS laws and rules, an employer must provide and/or post such notice in English and in any language that the employer customarily uses to communicate with the employee.
+
+   (2) For any notice that is not created by the Office and made available on the City's website, that is required to be posted in the workplace by a provision of the OLPS laws and rules, an employer must post such notice in English and in any language that the employer customarily uses to communicate with any of the employees at that location.
+
+(c) Any notice, policy, or other writing that is required by a provision of the OLPS laws and rules to be personally provided to an employee must be provided by a method that reasonably ensures personal receipt by the employee and that is consistent with any other applicable law or rule that specifically addresses a method of delivery.
+
+(d) Any notice, policy or, other writing that is required to be posted, pursuant to a provision of the OLPS laws and rules must be posted in a printed format in a conspicuous place accessible to employees where notices to employees are customarily posted, pursuant to State and Federal laws and, except for notices created by the Office, in a form customarily used by the employer to communicate with employees.
+
+(e) An employer that places employees to perform work off-site or at dispersed job-sites, such as in private homes, building security posts, or on delivery routes, must comply with any applicable requirement to post a notice, policy or other writing contained in the OLPS laws and rules by providing employees with the required notice personally upon commencement of employment, within fourteen (14) days of the effective date of any changes to the required posting, and upon request by the employee, in addition to the requirements in subdivision (c) of this section.
+
+
+
+
+
+
+
+
+*§ 7-108 Retaliation.* ::
+
+
+(a) No person shall take any adverse action against an employee that penalizes an employee for, or is reasonably likely to deter an employee from, exercising or attempting to exercise rights under the OLPS laws and rules or interfere with an employee's exercise of rights under the OLPS laws and rules.
+
+(b) Taking an adverse action includes, but is not limited to threatening, intimidating, disciplining, discharging, demoting, suspending, or harassing an employee, reducing the hours of pay of an employee, informing another employer than an employee has engaged in activities protected by the OLPS laws and rules, discriminating against the employee, including actions related to perceived immigration status or work authorization, and maintenance or application of an absence control policy that counts protected leave as an absence that may lead to or result in an adverse action.
+
+(c) An employee need not explicitly refer to a provision of the OLPS laws and rules to be protected from an adverse action.
+
+(d) The Office may establish a causal connection between the exercise, attempted exercise, or anticipated exercise of rights protected by the OLPS laws and rules and an employer's adverse action against an employee or a group of employees by indirect or direct evidence.
+
+(e)  For purposes of this section, retaliation is established when the Office shows that a protected activity was a motivating factor for an adverse action, whether or not other factors motivated the adverse action.
+
+
+
+
+
+
+
+
+*§ 7-109 Enforcement and Penalties.* ::
+
+
+(a) The Office may open an investigation to determine compliance with laws enforced by the Office on its own initiative or based on a complaint, except as otherwise provided by Section 20-1309 of Chapter 13 of Title 20 of the Code.
+
+(b) Whether it was issued in person, via mail, or, on written consent of the employer, email, an employer must respond to a written request for information or records by providing the Office with true, accurate, and contemporaneously-made records or information within the following timeframes, except as provided in subdivision (c) of this section, subdivision (c) of Section 20-924 of the Code, 6 RCNY § 7-213 or other applicable law:
+
+   (1) For an initial request for information or records, the employer shall
+
+      i. Within ten (10) days of the date that the request for information was received by the employer provide the following information, if applicable:
+
+         A. the employer's correct legal name and business form;
+
+         B. the employer's trade name or DBA;
+
+         C. the names and addresses of other businesses associated with the employer;
+
+         D. the employer's Federal Employer Identification Number;
+
+         E. the employer's addresses where business is conducted;
+
+         F. the employer's headquarters and principal place of business addresses;
+
+         G. the name, phone number, email address, and mailing address of the owners, officers, directors, principals, members, partners and/or stockholders of more than 10 percent of the outstanding stock of the employer business and their titles;
+
+         H. the name, phone number, email address, and mailing address of the individuals who have operational control over the business;
+
+         I. the name, phone number, email address, and mailing address of the individuals who supervise employees;
+
+         J. the name and contact information of the individual who the office should contact regarding an investigation of the business and an affirmation granting authority to act; and
+
+      ii. Within fourteen (14) days of the date of that the initial request for information or records was received, provide the remaining information or records requested in that initial request.
+
+   (2) For all requests for information or records after the initial request, an employer must respond within the timeframe prescribed by the Office in the request, which shall not exceed fourteen (14) days from the date that the request was received by the employer, unless a longer timeframe has been agreed to by the Office.
+
+   (3) Upon good cause shown, the Director may extend response timeframes required, pursuant to this subdivision.
+
+(c) An employer shall respond to a written request for information or records by providing the Office with true, accurate, and contemporaneously-made records or information in a lesser amount of time than provided in paragraphs 2 and 3 of subdivision b of this section if agreed to by the parties or the Office has reason to believe that:
+
+   (1) The employer will destroy or falsify records;
+
+   (2) The employer is closing, selling, or transferring its business, disposing of assets or is about to declare bankruptcy;
+
+   (3) The employer is the subject of a government investigation or enforcement action or proceeding related to wages and hours, unemployment insurance, workers' compensation, discrimination, OLPS laws and rules, the Freelancers Law and rules, or the Transportation Benefits Law and rules; or
+
+   (4) More immediate access to records is necessary to prevent or remedy retaliation against employees.
+
+(d) In accordance with applicable law, the Office may resolve or attempt to resolve an investigation at any point through settlement upon terms that are satisfactory to the Office.
+
+(e) The Office may issue a notice of violation to an employer who fails to provide true and accurate information or records requested by the Office in connection with an investigation.
+
+(f) An employer who fails to timely and fully respond to the request for information or records that is the subject of a notice of violation issued under subdivision (e) of this section on or before the first scheduled appearance date is subject to a penalty of five hundred dollars, in addition to any penalties or remedies imposed as a result of the Office's investigation.
+
+(g) The employer may cure a notice of violation issued in accordance with subdivision (e) of this section without the penalty imposed in connection with subdivision (f) by:
+
+   (1) producing the requested information or records on or before the first scheduled appearance date; or
+
+   (2) resolving, to the satisfaction of the Office on or before the first scheduled appearance date, the investigation that is the basis for the request for information or records.
+
+(h) A finding that an employer has an official or unofficial policy or practice that denies a right established or protected by the OLPS laws and rules shall constitute a violation of the applicable provision of the OLPS laws and rules for each and every employee subject to such policy or practice.
+
+
+
+
+
+
+
+
+*§ 7-110 Service.* ::
+
+
+Service of documents issued by the Office to employers, including written requests for information or records and notices of violation, shall be made in a manner reasonably calculated to achieve actual notice to the employer. The following are presumed to be reasonably calculated to achieve actual notice: (i) personal service on the employer; (ii) personal service on the employer by regular first-class mail, certified mail, return receipt requested, or private mail delivery services, such as UPS, to an employer's last known business address; or (iii) if an employer has so consented, facsimile, email, including an attachment to an email.
+
+
+
+
+
+
+
+
+*§ 7-111 Recordkeeping.* ::
+
+
+(a) An employer's failure to maintain, retain, or produce a record that is required to be maintained under the OLPS laws and rules that is relevant to a material fact alleged by the Office in a notice of violation issued, pursuant to a provision of the OLPS laws and rules creates a reasonable inference that such fact is true, unless a rebuttable presumption or other adverse inference is provided by applicable law.
+
+(b) An employer that produces records to the department or Office in response to a request for information affirms that the records produced are true and accurate.
+
+
+
+
+
+
+
+
+
+**Subchapter B: Earned Safe and Sick Time**
+
+
+
+*§ 7-201 Definitions.* ::
+
+
+(a) As used in this chapter, the terms "calendar year," "employee," "employer," "health care provider," "paid safe/sick time," "safe time," and "sick time" shall have the same meanings as set forth in Section 20-912 of the Administrative Code.
+
+(b) As used in the Earned Safe and Sick Time Act and in this subchapter, the term "domestic worker" means a person who provides care for a child, companionship for a sick, convalescing or elderly person, housekeeping, or any other domestic service in a home or residence whenever such person is directly and solely employed to provide such service by an individual or private household. The term "domestic worker" does not include any person who is employed by an agency whenever such person provides services as an employee of such agency, regardless of whether such person is jointly employed by an individual or private household in the provision of such services.
+
+
+
+
+
+
+
+
+*§ 7-202 Business Size.* ::
+
+
+(a) Business size for an employer that has operated for less than one year shall be determined by counting the number of employees performing work for an employer for compensation per week, provided that if the number of employees fluctuates between less than five employees and five or more employees per week, business size may be determined for the current calendar year based on the average number of employees per week who worked for compensation for each week during the 80 days immediately preceding the date the employee used safe time or sick time.
+
+(b) Business size for an employer that has operated for one year or more is determined by counting the number of employees working for the employer per week at the time the employee uses safe time or sick time, unless the number of employees fluctuates, in which case business size may be determined for the current calendar year based on the average number of employees per week during the previous calendar year. For purposes of this section, "fluctuates" means that at least three times in the most recent calendar quarter the number of employees working for an employer fluctuated between less than five employees and five or more employees.
+
+
+
+
+
+
+
+
+*§ 7-203 Employees.* ::
+
+
+An individual is "employed for hire within the City of New York for more than eighty hours in a calendar year" for purposes of Section 20-912(f) of the Administrative Code if the individual performs work, including work performed by telecommuting, for more than eighty hours while the individual is physically located in New York City, regardless of where the employer is located.
+
+i. Example: An individual who only performs work while physically located outside of New York City, even if the employer is based in New York City, is not "employed for hire within the City of New York" for purposes of Section 20-912(f) for hours worked outside New York City.
+
+ii. Example: An individual performs twenty hours of work in New Jersey and sixty hours of work in New York City in a calendar year. The twenty hours of work performed by the employee in New Jersey do not count towards the employee's eighty hours of work for purposes of Section 20-912(f).
+
+
+
+
+
+
+
+
+*§ 7-204 Minimum Increments and Fixed Intervals for the Use of Safe Time and Sick Time.* ::
+
+
+(a) Unless otherwise in conflict with State or Federal law or regulations, an employee may decide how much earned safe time or sick time to use, provided however, that an employer may set a minimum increment for the use of safe time and sick time, not to exceed four hours per day, provided such minimum increment is reasonable under the circumstances.
+
+   (i) Example: An employee has worked eighty hours and more than one hundred twenty calendar days have passed since the employee's first day of work for the employer. The employer has set a minimum increment of four hours per day for use of safe time and sick time. The employee has not yet accrued four hours of time, but is entitled to use the time he or she has already accrued. Under these circumstances, it would not be "reasonable under the circumstances" for the employer to require the employee to use a minimum of four hours of safe time or sick time as the minimum increment.
+
+   (ii) Example: An employee is scheduled to work from 8:00 A.M. to 4:00 P.M. Mondays. She schedules a doctor's appointment for 9:00 A.M. on a Monday and notifies her employer of her intent to use sick time and return to work the same day. The employer's written sick time policies require a four hour minimum increment of sick time used per day. If she does not go to work before her appointment, she should appear for work by 12:00 P.M.
+
+(b) An employer may set fixed periods of thirty minutes or any smaller amount of time for the use of accrued safe time or sick time beyond the minimum increment described in subdivision (a) of this section and may require fixed start times for such intervals.
+
+   Example: The employee in Example (ii) of subdivision (a) of this section arrives to work at 12:17 P.M. Under her employer's written sick time policies, employees must use sick time in half-hour intervals that start on the hour or half-hour. The employer can require the employee to use four-and-a-half hours of her accrued sick time and require her to begin work at 12:30 P.M. Similarly, if the employee wanted to leave work at 8:40 A.M. to go to her 9:00 A.M. doctor's appointment, the employer could require the employee to stop work at 8:30 A.M.
+
+
+
+
+
+
+
+
+*§ 7-205 Employee Notification of Use of Safe Time or Sick Time.* ::
+
+
+(a) An employer may require an employee to provide reasonable notice of the need to use safe time or sick time.
+
+(b) An employer that requires notice of the need to use safe time or sick time where the need is not foreseeable shall provide a written policy that contains procedures for the employee to provide notice as soon as practicable. Examples of such procedures may include, but are not limited to, instructing the employee to: (1) call a designated phone number at which an employee can leave a message; (2) follow a uniform call-in procedure; or (3) use another reasonable and accessible means of communication identified by the employer. Such procedures for employees to give notice of the need to use safe time or sick time when the need is not foreseeable may not include any requirement that an employee appear in person at a worksite or deliver any document to the employer prior to using safe time or sick time.
 
 (c) In determining when notice is practicable in a given situation, an employer must consider the individual facts and circumstances of the situation.
 
-(d) An employer that requires notice of the need to use sick time where the need is foreseeable shall have a written policy for the employee to provide reasonable notice. Such policy shall not require more than seven days notice prior to the date such sick time is to begin. The employer may require that such notice be in writing.
+(d) An employer that requires notice of the need to use safe time or sick time where the need is foreseeable shall have a written policy for the employee to provide reasonable notice. Such policy shall not require more than seven days’ notice prior to the date such safe time or sick time is to begin. The employer may require that such notice be in writing.
 
 
 
@@ -5872,12 +5872,12 @@ Chapter 7: Office of Labor Policy and Standards
 
 
 
-*§ 7-07 Documentation from licensed health care provider.* ::
+*§ 7-206 Documentation from Licensed Health Care Provider.* ::
 
 
-(a) When an employee's use of sick time results in an absence of more than three consecutive work days, an employer may require reasonable written documentation that the use of sick time was for a purpose authorized under section 20-914(a) of the Administrative Code. Written documentation signed by a licensed health care provider indicating the need for the amount of sick time taken shall be considered reasonable documentation. "Work days" means the days or parts of days the employee would have worked had the employee not used sick time.
+(a) When an employee’s use of sick time results in an absence of more than three consecutive work days, an employer may require reasonable written documentation that the use of sick time was for a purpose authorized under Section 20-914(a) of the Administrative Code. Written documentation signed by a licensed health care provider indicating the need for the amount of sick time taken shall be considered reasonable documentation. “Work days” as used in this subdivision and in Section 20-914(a)(2) of the Administrative Code means the days or parts of days the employee would have worked had the employee not used sick time.
 
-(b) If an employer requires an employee to provide written documentation from a licensed health care provider when the employee's use of sick time resulted in an absence of more than three consecutive work days, the employee shall be allowed a minimum of seven days from the date he or she returns to work to obtain such documentation. The employee is responsible for the cost of such documentation not covered by insurance or any other benefit plan.
+(b) If an employer requires an employee to provide written documentation from a licensed health care provider when the employee’s use of sick time resulted in an absence of more than three consecutive work days, the employee shall be allowed a minimum of seven days from the date he or she returns to work to obtain such documentation. The employee is responsible for the cost of such documentation not covered by insurance or any other benefit plan.
 
 (c) If an employee provides written documentation from a licensed health care provider in accordance with subdivision (a) of this section, an employer may not require an employee to obtain documentation from a second licensed health care provider indicating the need for sick time in the amount used by the employee.
 
@@ -5888,56 +5888,42 @@ Chapter 7: Office of Labor Policy and Standards
 
 
 
-*§ 7-08 Domestic workers.* ::
+*§ 7-207 Domestic Workers.* ::
 
 
-(a) Domestic workers who have worked for the same employer for at least one year and who work more than 80 hours in a calendar year will be entitled to two days of paid sick time per year, as provided in this section.
+(a) Domestic workers who have worked for the same employer for at least one year and who work more than 80 hours in a calendar year will be entitled to two days of paid safe/sick time per year, as provided in this section.
 
-(b) The two days of paid sick time must be calculated in the manner that paid days of rest for domestic workers are calculated pursuant to New York State Labor Law section 161(1).
+(b) The two days of paid safe/sick time must be calculated in the manner that paid days of rest for domestic workers are calculated, pursuant to New York State Labor Law Section 161(1).
 
-(c) A domestic worker described in subdivision (a) of this section is entitled to two days of paid sick time on the next date that such domestic worker is entitled to a paid day or days of rest under New York State Labor Law section 161(1), and annually thereafter.
+(c) A domestic worker described in subdivision (a) of this section is entitled to two days of paid safe/sick time on the next date that such domestic worker is entitled to a paid day or days of rest under New York State Labor Law Section 161(1), and annually thereafter.
 
-(d) Sick time accrued by a domestic worker will carry over to the next calendar year.
-
-
-
+(d) Safe time and sick time accrued by a domestic worker will carry over to the next calendar year.
 
 
 
 
 
-*§ 7-09 Rate of pay.* ::
 
 
-(a) Except as provided in subdivision (b) of this section, when using paid sick time, an employee shall be compensated at the same hourly rate that the employee would have earned at the time the paid sick time is taken.
 
-(b) If the employee uses sick time during hours that would have been designated as overtime, the employer is not required to pay the overtime rate of pay.
+*§ 7-208 Rate of Pay for Safe Time and Sick Time.* ::
 
-(c) An employee is not entitled to compensation for lost tips or gratuities, provided, however, that an employer must pay an employee whose salary is based in whole or in part on tips or gratuities at least the full minimum wage.
+
+(a) Except as provided in subdivision (b) of this section, when using paid safe/sick time, an employee shall be compensated at the same hourly rate that the employee would have earned at the time the paid safe/sick time is taken.
+
+(b) If the employee uses paid safe/sick time during hours that would have been designated as overtime, the employer is not required to pay the overtime rate of pay.
+
+(c) An employee is not entitled to compensation for lost tips or gratuities, provided, however, that an employer must pay an employee whose hourly rate of pay or salary is based in whole or in part on tips or gratuities at least the full minimum wage.
 
 (d) For employees who are paid on a commission (whether base wage plus commission or commission only), the hourly rate of pay shall be the base wage or minimum wage, whichever is greater.
 
-(e) For employees who are paid on a piecework basis (whether base wage plus piecework or piecework only), the employer shall calculate the employee's rate of pay by adding together the employee's total earnings from all sources for the most recent workweek in which no sick time was taken and dividing that sum by the number of hours spent performing the work during such workweek. For purposes of this subdivision, "workweek" means a fixed and regularly recurring period of 168 hours, or seven consecutive 24-hour periods.
+(e) When an employer pays a flat rate of pay for work performed, regardless of the number of hours actually worked, an employee's hourly rate of pay shall be based on the most recent hourly rate paid to the employee for the applicable pay period, calculated by adding together the employee's total earnings, including tips, commissions, and supplements, for the most recent work week in which no safe time or sick time or other leave was taken and dividing that sum by the number of hours spent performing work during such work week or forty hours, whichever amount of hours is less.
 
-(f) If an employee performs more than one job for the same employer or the employee's rate of pay fluctuates for a single job, the rate of pay shall be the rate of pay that the employee would have been paid during the time the employee used the sick time.
+(f) If an employee performs more than one job for the same employer or the employee's rate of pay fluctuates for a single job, the rate of pay shall be the rate of pay that the employee would have been paid during the time the employee used the safe time or sick time.
 
-(g) An employer is not required to pay cash in lieu of supplements for sick time used if remuneration for employment includes supplements. The fact that an employer pays cash in lieu of supplements to an employee does not relieve the employer of the requirements of the Earned Sick Time Act. For the purposes of this subdivision, "supplements" has the same meaning as provided in section 220(5)(b) of New York State Labor Law.
+(g) An employer is not required to pay cash in lieu of supplements for safe time or sick time used if remuneration for employment includes supplements. The fact that an employer pays cash in lieu of supplements to an employee does not relieve the employer of the requirements of the Earned Safe and Sick Time Act.
 
-(h) Under no circumstance can the employer pay the employee less than the minimum wage for paid sick time.
-
-
-
-
-
-
-
-
-*§ 7-10 Payment of sick time.* ::
-
-
-(a) Sick time must be paid no later than the payday for the next regular payroll period beginning after the sick time was used by the employee.
-
-(b) If the employer has asked for written documentation or verification of use of sick time pursuant to section 20-914(c) or 20-914(d) of the Administrative Code, the employer is not required to pay sick time until the employee has provided such documentation or verification.
+(h) Under no circumstance can the employer pay the employee less than the minimum wage for paid safe/sick time.
 
 
 
@@ -5946,60 +5932,12 @@ Chapter 7: Office of Labor Policy and Standards
 
 
 
-*§ 7-11 Employer's sale of business.* ::
+*§ 7-209 Payment of Safe/Sick Time.* ::
 
 
-(a) If an employer sells its business or the business is otherwise acquired by another business, an employee will retain and may use all accrued sick time if the employee continues to perform work within the City of New York for the successor employer.
+(a) Safe time and sick time must be paid no later than the payday for the next regular payroll period beginning after the safe time or sick time was used by the employee.
 
-(b) If the successor employer has fewer than five employees, and the former employer had more than five employees, the employee is entitled to use and be compensated for unused sick time accrued while working for the former employer, until such sick time is exhausted.
-
-(c) A successor employer must provide employees with its written sick time policies at the time of sale or acquisition, or as soon as practicable thereafter, which shall include a policy that complies with this section.
-
-
-
-
-
-
-
-
-*§ 7-12 Written sick time policies.* ::
-
-
-(a) Every employer must distribute or post written policies on sick time and follow such written sick time policies. An employer's written sick time policies must meet or exceed all of the requirements of the Earned Sick Time Act and this Title and state at a minimum:
-
-   (1) The employer's method of calculating sick time as follows:
-
-      (i) If an employer provides employees with an amount of sick time that meets or exceeds the requirements of the Earned Sick Time Act on or before the employee's 120th day of employment and on the first day of each new calendar year, which for the purposes of this section is defined as "frontloaded sick time," then the employer's written sick time policy must specify the amount of frontloaded sick time to be provided;
-
-      (ii) If the employer does not apply frontloaded sick time, then the employer's written sick time policy must specify when accrual of sick time starts, the rate at which an employee accrues sick time and the maximum number of hours an employee may accrue in a calendar year;
-
-   (2) The employer's policies regarding the use of sick time, including any limitations or conditions the employer places on the use of sick time, such as:
-
-      (i) Any requirement that an employee provide notice of a need to use sick time;
-
-      (ii) Any requirement for written documentation or verification of the use of sick time in accordance with Sections 20-914(c) or 20-914(d) of the Administrative Code, and the employer's policy regarding any consequences of an employee's failure or delay in providing such documentation or verification;
-
-      (iii) Any reasonable minimum increment or fixed period for the use of accrued sick time; and
-
-      (iv) Any policy on discipline for employee misuse of sick time under Section 7-16 of this Title; and
-
-   (3) The employer's policy regarding carry-over of unused sick time at the end of an employer's calendar year in accordance with Section 20-913(h) of the Administrative Code;
-
-(b) Employers must provide written notice of sick time policies using a delivery method that reasonably ensures that employees receive the policies. For example, an employer may comply with this subdivision by:
-
-   (1) distributing the policies to each employee personally, by regular mail or by email;
-
-   (2) distributing through company newspapers or newsletters, inclusion with paychecks, inclusion in employee handbooks or manuals, or posting on the company intranet;
-
-   (3) posting the policies in a conspicuous place where notices to employees are customarily posted; or
-
-   (4) using any means of distribution or posting that the employer uses in order to comply with section 195(5) of the New York State Labor Law.
-
-(c) Nothing in this subchapter shall prevent an employer from making exceptions to its written sick time policy for individual employees that are more generous to the employee than the terms of the employer's written policy.
-
-(d) Requirements relating to an employer's additional and separate obligation to provide employees with a Notice of Rights under the Earned Sick Time Act are set forth in section 20-919 of the Administrative Code. An employer may not distribute the Notice of Rights required by Section 20-919 of the Administrative Code instead of distributing or posting its own written sick time policies as required by this section.
-
-(e) An employer that has not provided to the employee a copy of its written policy along with any forms or procedures required by the employer related to the use of sick time shall not deny sick time or payment of sick time to the employee based on non-compliance with such a policy.
+(b) If the employer has asked for written documentation or verification of use of safe time or sick time, pursuant to Section 20-914(a), 20-914(b) or 20-914(d) of the Administrative Code, the employer is not required to pay safe time or sick time until the employee has provided such documentation or verification.
 
 
 
@@ -6008,10 +5946,70 @@ Chapter 7: Office of Labor Policy and Standards
 
 
 
-*§ 7-13 Employer records.* ::
+*§ 7-210 Employer's Sale of Business.* ::
 
 
-(a) Employers must retain records demonstrating compliance with the requirements of the Earned Sick Time Act, including records of any policies required pursuant to this subchapter, for a period of three years unless otherwise required by any other law, rule or regulation.
+(a) If an employer sells its business or the business is otherwise acquired by another business, an employee will retain and may use all accrued safe time and sick time if the employee continues to perform work within the City of New York for the successor employer.
+
+(b) If the successor employer has fewer than five employees, and the former employer had more than five employees, the employee is entitled to use and be compensated for unused safe time and sick time accrued while working for the former employer, until such safe time and sick time is exhausted.
+
+(c) A successor employer must provide employees with its written safe time and sick time policies at the time of sale or acquisition, or as soon as practicable thereafter, which shall include a policy that complies with this section.
+
+
+
+
+
+
+
+
+*§ 7-211 Employer’s Written Safe Time and Sick Time Policies.* ::
+
+
+(a) Every employer shall maintain written safe time and sick time policies in a single writing and follow such written safe time and sick time policies except as allowed in subdivision (d) of this section.
+
+(b) Every employer must distribute its written safe time and sick time policies personally upon commencement of employment, within 14 days of the effective date of any changes to the policy, and upon request by the employee.
+
+(c) An employer's written safe time and sick time policies must meet or exceed all of the requirements of the Earned Safe and Sick Time Act and this chapter and state at a minimum:
+
+   (1) The employer's method of calculating safe time and sick time as follows:
+
+      (i) If an employer provides employees with an amount of safe time and sick time that meets or exceeds the requirements of the Earned Safe and Sick Time Act on or before the employee's 120th day of employment and on the first day of each new calendar year, which for the purposes of this section is defined as "frontloaded safe time and sick time," then the employer's written safe time and sick time policy must specify the amount of frontloaded safe time and sick time to be provided;
+
+      (ii) If the employer does not apply frontloaded safe time and sick time, then the employer's written safe time and sick time policy must specify when accrual of safe time and sick time starts, the rate at which an employee accrues safe time and sick time and the maximum number of hours an employee may accrue in a calendar year;
+
+   (2) The employer's policies regarding the use of safe time and sick time, including any limitations or conditions the employer places on the use of safe time and sick time, such as:
+
+      (i) Any requirement that an employee provide notice of a need to use safe time and sick time and the procedures for doing so in accordance with 6 RCNY § 7-205;
+
+      (ii) Any requirement for written documentation or verification of the use of safe time and sick time in accordance with Sections 20-914(a)(2), 20-914(b)(2), or 20-914(d) of the Administrative Code, and the employer's policy regarding any consequences of an employee's failure or delay in providing such documentation or verification;
+
+      (iii) Any reasonable minimum increment or fixed period for the use of accrued safe time and sick time;
+
+      (iv) Any policy on discipline for employee misuse of safe time and sick time under 6 RCNC § 7-215; and
+
+      (v) A description of the confidentiality requirements of Section 20-921 of the Administrative Code.
+
+   (3) The employer's policy regarding carry-over of unused safe time and sick time at the end of an employer's calendar year in accordance with Section 20-913(h) of the Administrative Code; and,
+
+   (4) If an employer uses a term other than "safe/sick time" or "safe and sick time" to describe leave provided by the employer to meet the requirements of the Earned Safe and Sick Time Act, the employer's policy must state that such leave may be used by an employee for any of the purposes set forth in the Earned Safe and Sick Time Act without any condition prohibited by the Earned Safe and Sick Time Act. Terms used to describe such leave may include, but are not necessarily limited to, "paid time off" ("PTO"), vacation time, personal days, or days of rest.
+
+(d) Nothing in this chapter shall prevent an employer from making exceptions to its written safe time and sick time policy for individual employees that are more generous to the employee than the terms of the employer's written policy.
+
+(e) Requirements relating to an employer's additional and separate obligation to provide employees with a Notice of Rights under the Earned Safe and Sick Time Act are set forth in Section 20-919 of the Administrative Code. An employer may not distribute the Notice of Rights required by Section 20-919 of the Administrative Code or any other department writing in lieu of distributing or posting its own written safe time and sick time policies as required by this section.
+
+(f) An employer that has not provided to the employee a copy of its written safe time and sick time policies along with any forms or procedures required by the employer related to the use of safe time and sick time shall not deny safe time or sick time or payment of safe time or sick time to the employee based on non-compliance with such a policy.
+
+
+
+
+
+
+
+
+*§ 7-212 Employer Records.* ::
+
+
+(a) Employers must retain records demonstrating compliance with the requirements of the Earned Safe and Sick Time Act, including records of any policies required, pursuant to this Chapter, for a period of three years unless otherwise required by any other law, rule or regulation.
 
 (b) An employer must maintain, in an accessible format, contemporaneous, true, and accurate records that show, for each employee:
 
@@ -6019,29 +6017,26 @@ Chapter 7: Office of Labor Policy and Standards
 
    (2) The hours worked each week by the employee, unless the employee is exempt from the overtime requirements of New York State labor laws and regulations and has a regular work week of forty hours or more;
 
-   (3) The date and time of each instance of sick time used by the employee and the amount paid for each instance;
+   (3) The date and time of each instance of safe time or sick time used by the employee and the amount paid for each instance;
 
    (4) Any change in the material terms of employment specific to the employee; and
 
-   (5) The date that the Notice of Rights as set forth in section 20-919 of the Administrative Code was provided to the employee and proof that the Notice of Rights was received by the employee.
+   (5) The date that the Notice of Rights as set forth in Section 20-919 of the Administrative Code was provided to the employee and proof that the Notice of Rights was received by the employee.
 
-(c) If the department issues a subpoena or document demand, an employer shall provide the department with access to records documenting its compliance with the requirements of the Earned Sick Time Act and the provisions of this subchapter, upon appropriate notice, at the department's office.
+(c) If the office issues a written request for information or records, an employer shall provide the office with such information or records, upon appropriate notice, at the department's office. Alternately, an employer shall provide the office with access to such information or records upon appropriate notice and at a mutually agreeable time of day at the employer's place of business.
 
-(d) Alternately, in the absence of a subpoena or document demand, an employer shall provide the department with access to records upon appropriate notice and at a mutually agreeable time of day at the employer's place of business.
-
-(e) "Appropriate notice" shall mean 30 days' written notice, unless the employer agrees to a lesser amount of time or the department has reason to believe that:
+(d) "Appropriate notice" shall mean 30 days' written notice, unless the employer agrees to a lesser amount of time, the office's request for the information or records is a second or subsequent request made to the same employer during the same investigation or case as the first request, or the office has reason to believe that:
 
    (1) the employer will destroy or falsify records;
 
    (2) the employer is closing, selling or transferring its business, disposing of assets or is about to declare bankruptcy;
 
-   (3) the employer is the subject of a government investigation or enforcement action or proceeding related to wages and hours, unemployment insurance, workers' compensation or discrimination; or
+   (3) the employer is the subject of a government investigation or enforcement action or proceeding related to wages and hours, unemployment insurance, workers' compensation, discrimination, or an OLPS law or rule; or
 
    (4) more immediate access to records is necessary to prevent retaliation against employees.
 
-(f) The department will make two attempts by letter, email or telephone to arrange a mutually agreeable time of day for the employer to provide access to its records in accordance with subdivision (d) of this section. If these attempts are not successful, the department may set a time to access records at the employer's place of business during regular business hours, upon two days' notice.
+(e) The office will make two attempts by letter, email or telephone to arrange a mutually agreeable time of day for the employer to provide access to its records in accordance with subdivision (d) of this section. If these attempts are not successful, the office may set a time to access records at the employer's place of business during regular business hours, upon two days' notice.
 
-(g) An employer's failure to maintain, retain or produce a record otherwise required to be maintained under these rules that is relevant to a material fact alleged by the department in a notice of hearing issued pursuant to the Earned Sick Time Act or these rules creates a reasonable inference that such fact is true.
 
 
 
@@ -6049,109 +6044,396 @@ Chapter 7: Office of Labor Policy and Standards
 
 
 
+*§ 7-213 Enforcement and Penalties.* ::
 
-*§ 7-14 Enforcement and penalties.* ::
 
+(a) A finding that an employer has an official or unofficial policy or practice of not providing or refusing to allow the use of safe time or sick time as required under the Earned Safe and Sick Time Act constitutes a violation of Section 20-913 of the Administrative Code for each and every employee affected by the policy and will be subject to penalties as provided in Section 20-924(e) of the Code.
 
-(a) The department may issue a notice of violation after conducting an investigation pursuant to section 20-924(c) of the Administrative Code.
+(b) For purposes of Section 20-924(e) of the Administrative Code, penalties shall be imposed on a per employee basis.
 
-(b) Additionally, the department may issue a notice of violation to an employer who fails to respond to a complaint or provide information requested by the Department in connection with a complaint, as required by section 20-924(c) of the Administrative Code, or who fails to provide records or access to records as required by section 20-920 of the Administrative Code provided that:
+(c) If an employer, as a matter of policy or practice, does not allow accrual of safe time and sick time as required under the Earned Safe and Sick Time Act, the relief granted to each and every employee affected by the policy or practice must include either application of 40 hours of safe time and sick time to the employee's safe time and sick time balance or, where such information is known, application of the number of hours of safe time and sick time the employee should have accrued to the employee's safe time and sick time balance, provided that such balance does not exceed 80 hours.
 
-   (1) the department makes two written attempts to obtain the response to the complaint, requested information or records, or access to records; and
 
-   (2) the department notifies the employer that failure to respond to the complaint, or provide requested information, records or access to records will result in a notice of violation charging the employer with failure to maintain, retain, or produce records and failure to comply with the requirements of the Earned Sick Time Act.
 
-(c) An employer who fails to respond to the notice of violation issued under subdivision (b) of this section on or before the hearing date is subject to a penalty of five hundred dollars, in addition to any penalties or remedies imposed as a result of the department's investigation of the complaint.
 
-(d) The employer may cure a notice of violation issued in accordance with subdivision (b) of this section without the penalty imposed in connection with subdivision (c) by:
 
-   (1) producing the requested information or records on or before the first scheduled hearing date; or
 
-   (2) resolving to the satisfaction of the department on or before the first scheduled hearing date the employee complaint that is the basis for the request for a response to the complaint.
 
-(e) The department may conduct an investigation on its own initiative where the department has reason to believe that the facts and circumstances of an employer's practices related to the Earned Sick Time Act warrant investigation, including where:
 
-   (1) the employer has a history of non-compliance with the Earned Sick Time Act, including failure to comply with settlements or orders of the department, or the department has reason to believe that the employer engages in a pattern of violations of the Earned Sick Time Act;
+*§ 7-214 Accrual, Hours Worked and Carry Over.* ::
 
-   (2) the department has reason to believe that the employer fails to pay minimum wage, prevailing wage, engages in discriminatory practices or retaliation, misclassifies employees as independent contractors or denies undocumented employees sick time required under the Earned Sick Time Act; or
 
-   (3) the investigation is part of a coordinated enforcement effort with other state, local or federal agencies to protect employee rights.
+(a) If an employee is scheduled and available to work for an on-call shift and is compensated for the scheduled time regardless of whether the employee works, the scheduled time constitutes hours worked for the purposes of accrual under the Earned Safe and Sick Time Act.
 
-(f) A finding that an employer has an official or unofficial policy or practice of not providing or refusing to allow the use of sick time as required under the Earned Sick Time Act constitutes a violation of Section 20-913 of the Administrative Code for each and every employee affected by the policy and will be subject to penalties as provided in Section 20-924(e) of the Code.
+(b) For employees who are paid on a piecework basis, accrual of safe time and sick time is measured by the actual length of time spent performing work.
 
-(g) For purposes of Section 20-924(e) of the Administrative Code, penalties shall be imposed on a per employee basis.
+(c) For employees who are paid on a commission basis, accrual of safe time and sick time is measured by the actual length of time spent performing work.
 
-(h) If an employer, as a matter of policy or practice, does not allow accrual of sick time as required under the Earned Sick Time Act, the relief granted to each and every employee affected by the policy or practice must include either application of 40 hours of sick time to the employee's sick time balance or, where such information is known, application of the number of hours of sick time the employee should have accrued to the employee's sick time balance, provided that such balance does not exceed 80 hours.
+(d) For employees with indeterminate shift lengths (e.g. a shift defined by business needs), an employer shall base the hours of safe time or sick time used upon the hours worked by the replacement employee for the same shift. If this method is not possible, the hours of safe time or sick time must be based on the hours worked by the employee when the employee most recently worked the same shift in the past.
 
+(e) If an employee is rehired within six months of separation from employment and had not reached the required 120 days to begin using accrued safe time and sick time under Section 20-913(d)(1) of the Administrative Code at the time the employee separated from employment, upon resumption of employment, the employee shall be credited at least his or her previous calendar days towards the 120 day waiting period. For the purposes of this subdivision, "waiting period" shall mean the time period described in Section 20-913(d)(1) of the Administrative Code between the start of employment and the 120th calendar day following the start of employment or July 30, 2014, whichever is later, except for that an employer is not required to allow an employee to begin to use safe time before May 5, 2018.
 
+(f) An employee may carry over up to 40 hours of unused safe and sick time from one calendar year to the next, unless the employer has a policy of paying employees for unused safe time and sick time at the end of the calendar year in which such time is accrued and providing the employee with an amount of paid safe time and sick time that meets or exceeds the requirements of the Earned Safe and Sick Time Act for such employee for the immediately subsequent calendar year on the first day of such year in accordance with Section 20-913(h) of the Administrative Code. Regardless of the number of hours an employee carried over from the previous calendar year, an employer is only required to allow employees to accrue up to 40 hours of safe time and sick time in a calendar year. If an employee's safe time and sick time balance exceeds 40 hours in a single calendar year, an employer is only required to allow the employee to use up to 40 hours in such calendar year.
 
+   Example: An employee accrues 40 hours of safe time and sick time in calendar year one and uses 20 hours of safe time and sick time in calendar year one. She carries over 20 hours from calendar year one to calendar year two, accrues 40 hours in calendar year two, and does not use any hours in calendar year two. Her safe time and sick leave balance at the end of calendar year two is 60 hours (20 hours from calendar year two plus 40 hours from calendar year two). She may carry over 40 of those 60 hours into calendar year three and accrue another 40 hours in calendar year three.
 
 
 
 
 
-*§ 7-15 Accrual, hours worked and carry over.* ::
 
 
-(a) If an employee is scheduled and available to work for an on-call shift and is compensated for the scheduled time regardless of whether the employee works, the scheduled time constitutes hours worked for the purposes of accrual under the Earned Sick Time Act.
 
-(b) For employees who are paid on a piecework basis, accrual of sick time is measured by the actual length of time spent performing work.
+*§ 7-215 Employee Abuse of Safe Time and Sick Time.* ::
 
-(c) For employees who are paid on a commission basis, accrual of sick time is measured by the actual length of time spent performing work.
 
-(d) For employees with indeterminate shift lengths (e.g. a shift defined by business needs), an employer shall base the hours of sick time used upon the hours worked by the replacement employee for the same shift. If this method is not possible, the hours of sick time must be based on the hours worked by the employee when the employee most recently worked the same shift in the past.
+An employer may take disciplinary action, up to and including termination, against an employee who uses safe time or sick time provided under the Earned Safe and Sick Time Act for purposes other than those described in Sections 20-914(a) and Section 20-914(b) of the Administrative Code. Indications of abuse of safe time and sick time may include, but are not limited to a pattern of: (1) use of unscheduled safe time and sick time on or adjacent to weekends, regularly scheduled days off, holidays, vacation or pay day, (2) taking scheduled safe time and sick time on days when other leave has been denied, and (3) taking safe time and sick time on days when the employee is scheduled to work a shift or perform duties perceived as undesirable.
 
-(e) If an employee is rehired within six months of separation from employment and had not reached the required 120 days to begin using accrued sick time under section 20-913(d)(1) of the Administrative Code at the time the employee separated from employment, upon resumption of employment, the employee shall be credited at least his or her previous calendar days towards the 120 day waiting period. For the purposes of this subdivision, "waiting period" shall mean the time period described in section 20-913(d)(1) of the Administrative Code between the start of employment or the effective date of the Earned Sick Time Act, whichever is later, and the 120th calendar day following the start of employment or the effective date of the Earned Sick Time Act, whichever is later.
 
-(f) An employee may carry over up to 40 hours of unused sick time from one calendar year to the next, unless the employer has a policy of paying employees for unused sick time at the end of the calendar year in which such time is accrued and providing the employee with an amount of paid sick time that meets or exceeds the requirements of the Earned Sick Time Act for such employee for the immediately subsequent calendar year on the first day of such year in accordance with Section 20-913(h) of the Administrative Code. Regardless of the number of hours an employee carried over from the previous calendar year, an employer is only required to allow employees to accrue up to 40 hours of sick time in a calendar year. If an employee's sick time balance exceeds 40 hours in a single calendar year, an employer is only required to allow the employee to use up to 40 hours in such calendar year.
 
-      Example: An employee accrues 40 hours of sick time in calendar year one and uses 20 hours of sick time in calendar year one. She carries over 20 hours from calendar year one to calendar year two, accrues 40 hours in calendar year two, and does not use any hours in calendar year two. Her sick leave balance at the end of calendar year two is 60 hours (20 hours from calendar year two plus 40 hours from calendar year two). She may carry over 40 of those 60 hours into calendar year three and accrue another 40 hours in calendar year three.
 
 
 
 
 
 
+**Subchapter C: Transportation Benefits**
 
 
-*§ 7-16 Employee abuse of sick time.* ::
 
+*§ 7-301 Definitions.* ::
 
-An employer may take disciplinary action, up to and including termination, against an employee who uses sick time provided under the Earned Sick Time Act for purposes other than those described in section 20-914(a) of the Administrative Code. Indications of abuse of sick leave may include, but are not limited to a pattern of: (1) use of unscheduled sick time on or adjacent to weekends, regularly scheduled days off, holidays, vacation or pay day, (2) taking scheduled sick time on days when other leave has been denied, and (3) taking sick time on days when the employee is scheduled to work a shift or perform duties perceived as undesirable.
 
+As used in this chapter and, where applicable, in the Transportation Benefits Law, the following terms have the following meanings:
 
+"Chain business" means a group of establishments that share a common owner or principal who owns a majority of each establishment where such establishments (i) engage in the same business or (ii) operate pursuant to franchise agreements with the same franchisor as defined in general business law section 681.
 
+"Commuter highway vehicle" means a "commuter highway vehicle" as such term is defined in Section 132(f)(5)(B) of the Internal Revenue Code.
 
+"Cure period" means the ninety-day period immediately following a finding of a first violation.
 
+"Department" means the Department of Consumer Affairs of the City of New York.
 
+"Employee" means an "employee," "manual worker," "railroad worker," "commission salesman," or "clerical or other worker" as such terms are defined in § 190 of the New York State Labor Law. "Employee" does not include partners, sole proprietors, independent contractors, or two-percent shareholders of S-corporations.
 
+"Employer" means an "employer" as such term is defined in § 190 of the New York State Labor Law and that employs twenty or more full-time employees in New York City. The common owner or principal of a chain business shall be considered the employer of the full-time employees of such chain business.
 
-*§ 7-17 Retaliation.* ::
+"First violation" means the first finding by the administrative tribunal that a particular employer has violated the Transportation Benefits Law since July 1, 2016.
 
+"Full-time employee" means an employee who has worked an average of 30 hours or more per week in the most recent four weeks as of any date of counting, any portion of which was in New York City, for a single employer.
 
-(a) For the purposes of Section 20-912(p) of the Earned Sick Time Act, "an adverse employment action" means any act that is reasonably likely to deter an employee from exercising rights guaranteed under the Earned Sick Time Act.
+"Earnings" shall have the same meaning as the term "gross income" as used in § 132 of the Internal Revenue Code.
 
-(b) The department may establish a causal connection between an employee's exercise of rights guaranteed under the Earned Sick Time Act and an employer's adverse employment action indirectly, such as with evidence that the protected activity was followed closely by the adverse employment action, or directly, with evidence of retaliatory animus directed towards an employee by an employer. Retaliation is established when the department shows that a protected activity was a motivating factor for an adverse employment action, even when other factors also motivated the adverse employment action.
+"Month" means an employer's regularly established fiscal month.
 
+"Recidivist violation" means any new finding by the administrative tribunal that a particular employer has violated the Transportation Benefits Law, after the first finding by the administrative tribunal that the employer had violated the Transportation Benefits Law since July 1, 2016.
 
+"Subsequent violation" means each continuous thirty-day period after the expiration of the cure period, or after the finding of a recidivist violation by the administrative tribunal, in which the employer has not demonstrated to the department's satisfaction that it is complying with the Transportation Benefits Law.
 
+"Temporary help firm" means an employer that recruits, hires and supplies employees to perform work or services for another organization to: (i) support or supplement the other organization's workforce; (ii) provide assistance in special work situations including, but not limited to, employee absences, skill shortages or seasonal workloads; or (iii) perform special assignments or projects.
 
+"Transportation Benefits Law" means Chapter 9 of Title 20 of the Administrative Code of the City of New York.
 
+"Transportation fringe benefits" means qualified transportation fringe benefits, other than qualified parking, that may be purchased using pre-tax earnings in accordance with § 132 of the Internal Revenue Code.
 
+"Week" means an employer's regularly established payroll week.
 
 
 
-**Subchapter C: [Reserved]**
 
 
 
 
-**Subchapter D: [Reserved]**
 
+*§ 7-302 Determination of Size of Employer.* ::
 
 
+(a) An employer's number of full-time employees is determined by calculating the average number of full-time employees for the most recent consecutive three- month period, provided that for an employer that has operated for less than three months, the number of full-time employees is determined by calculating the average number of full-time employees per week for the period of time in which the employer has been in operation.
 
-**Subchapter E: [Reserved]**
+(b) Full-time employees at all of an employer's or a chain business's locations in New York City shall be counted in determining the number of full-time employees of the employer.
+
+
+
+
+
+
+
+
+*§ 7-303 Temporary Help Firms.* ::
+
+
+(a) Where a temporary help firm supplies a full-time employee to another organization, the temporary help firm shall be the employer of the full-time employee for purposes of the Transportation Benefits Law and must comply with its provisions, regardless of the size of the other organization.
+
+(b) To determine the number of hours worked each week by an employee working for a temporary help firm, the employer must aggregate the number of hours worked by the employee in the most recent four weeks at all placements.
+
+
+
+
+
+
+
+
+*§ 7-304 Employee Eligibility.* ::
+
+
+(a) An employer must offer its full-time employees the opportunity to use pre-tax earnings to purchase transportation fringe benefits by January 1, 2016, or four weeks after such employee's commencement of employment as a full-time employee of the employer, whichever is later.
+
+(b) If an employer's work force is reduced to fewer than 20 full-time employees, the employer must continue to offer the opportunity to use pre-tax earnings to purchase transportation fringe benefits to full-time employees who were employer's full-time employees before the work force was reduced.
+
+
+
+
+
+
+
+
+*§ 7-305 Maximum Deductions.* ::
+
+
+Employers must offer full-time employees the opportunity to use the maximum amount of pre-tax earnings permitted under federal law for the purchase of transportation fringe benefits.
+
+
+
+
+
+
+
+
+*§ 7-306 Recordkeeping Requirements.* ::
+
+
+Employers must retain records for two years sufficient to demonstrate (i) that each full-time employee eligible for transportation fringe benefits pursuant to the Transportation Benefits Law and this chapter was offered the opportunity to use pre-tax earnings to purchase transportation fringe benefits in accordance with this chapter; or (ii) records sufficient to demonstrate that the employer provides, at the employer's expense, a transit pass or similar form of payment for transportation on public or privately-owned mass transit or in a commuter highway vehicle at the maximum federal transportation fringe benefit amount that may be excluded from pre-tax earnings. Employers may use the form provided by the department and available on the department's website to document compliance.
+
+
+
+
+
+
+
+
+*§ 7-307 Employer-Funded Transportation Benefits.* ::
+
+
+(a) As an alternative to offering the opportunity to use pre-tax earnings to purchase transportation fringe benefits, an employer may provide at the employer's expense a transit pass or similar form of payment for transportation on public or privately-owned mass transit or in a commuter highway vehicle.
+
+(b) If the employer-provided transit pass or similar form of payment is less than the maximum transportation fringe benefit that may be excluded from pre-tax earnings under federal law, then the employer must offer employees the opportunity to use pre-tax earnings to purchase transportation fringe benefits for an amount equal to the difference between the value of the employer-provided transit pass or similar form of payment and the maximum amount that may be excluded from gross earnings under federal law.
+
+
+
+
+
+
+
+
+*§ 7-308 Financial Hardship Exemption.* ::
+
+
+(a) The department may waive the requirements of the Transportation Benefits Law for an employer if such employer demonstrates to the department's satisfaction that offering the opportunity to use pre-tax earnings to purchase transportation fringe benefits would be a financial hardship for such employer.
+
+(b) To qualify for a waiver, an employer must present compelling evidence that complying with the Transportation Benefits Law would be impracticable and create a severe financial hardship.
+
+
+
+
+
+
+
+
+*§ 7-309 Enforcement and Penalties.* ::
+
+
+(a) The department may issue a notice of violation pursuant to section 20-926(b) of the Administrative Code.
+
+(b) Any employer found to be in violation of the Transportation Benefits Law will be liable for a civil penalty of two-hundred fifty dollars payable to the city of New York for the first violation, for any and each subsequent violation, and for any and each recidivist violation.
+
+(c) A civil penalty will not be imposed on an employer for the first violation if the employer demonstrates to the satisfaction of the department within the cure period that it is complying with the Transportation Benefits Law.
+
+(d) For the purposes of this section, "satisfaction of the department" with reference to an employer's compliance with the Transportation Benefits Law means proof that the employer has offered its full time employees the opportunity to use pre-tax earnings to purchase transportation fringe benefits or that the employer provides, at the employer's expense, a transit pass, or similar form of payment, for transportation on public or privately-owned mass transit or in a commuter highway vehicle at the maximum federal transportation benefit amount that may be excluded from pre-tax earnings.
+
+(e) An employer seeking to demonstrate that it is complying with the Transportation Benefits Law may do so by submitting the compliance form provided by the department and available on the department's website. The department may require submission of additional information, including documentary evidence, reasonably necessary to prove that a first violation was cured within the cure period.
+
+
+
+
+
+
+
+
+
+**Subchapter D: Displaced Grocery Workers**
+
+
+
+*§ 7-401 Definitions.* ::
+
+
+(a) As used in this chapter, the following terms have the same meanings as set forth in section 22-507 of the Administrative Code: "change in control," "city," "department," "eligible grocery employee," "grocery establishment," "incumbent grocery employer," "person," "successor grocery employer," and "transitional employment period."
+
+(b) As used in this chapter, the following terms shall have the following meanings:
+
+   "Continuous employment" means uninterrupted employment. Separations from employment six months or less in duration for any reason, including, but not limited to, transfer from a grocery establishment that is subject to a change in control to a grocery establishment with the same incumbent grocery employer, paid or unpaid leaves of absence, paid or unpaid time off, and work schedule changes, shall not constitute interruptions in employment.
+
+   "Grocery employer" means incumbent grocery employers and successor grocery employers.
+
+   "Grocery Worker Retention Act" means section 22-507 of the Administrative Code.
+
+
+
+
+
+
+
+
+*§ 7-402 Eligible Grocery Employees.* ::
+
+
+(a) For purposes of the definition of "eligible grocery employee" in section 22-507(a) of the Administrative Code, "a period" means "a period of continuous employment."
+
+(b) For purposes of section 22-507(a) of the Administrative Code, "confidential employee" means "confidential employee" as defined in the federal Labor Management Relations Act, 22 U.S.C. § 4102(6).
+
+(c) An employee's length of continuous employment at a grocery establishment with the same incumbent grocery employer as the grocery establishment subject to a change in control preceding an employee's transfer to the grocery establishment subject to a change in control shall count towards that employee's continuous employment at the grocery establishment subject to the change in control.
+
+
+
+
+
+
+
+
+*§ 7-403 Determining Seniority.* ::
+
+
+For purposes of section 22-507(b)(3) of the Administrative Code, an employee attains seniority as a result of that employee's length of continuous employment in the grocery establishment subject to a change in control, regardless of job position and regardless of full-time or part-time status, or, in the case of an employee transferred to a grocery establishment subject to a change in control, that employee's total length of continuous employment in any of the incumbent grocery employer's grocery establishments.
+
+
+
+
+
+
+
+
+*§ 7-404 Recordkeeping.* ::
+
+
+(a) Grocery employers must retain records demonstrating compliance with the requirements of the Grocery Worker Retention Act for a period of three years unless otherwise required by any other law, rule, or regulation.
+
+(b) Incumbent grocery employers must maintain, in an accessible format, contemporaneous, true, and accurate records that document:
+
+   (1) The list of eligible grocery employees required under section 22-507(b)(1)(A) of the Administrative Code, the date the list was provided to the successor grocery employer, and written proof that the list was provided to the successor grocery employer; and
+
+   (2) The notice of change in control required under section 22-507(b)(1)(B) of the Administrative Code, the date it was posted, and proof of posting.
+
+(c) Successor grocery employers must maintain, in an accessible format, contemporaneous, true, and accurate records that document:
+
+   (1) The list of eligible grocery employees received by the successor grocery employer pursuant to section 22-507(b)(1)(A) of the Administrative Code and the date it was received, and the names of those eligible employees retained for the transitional employment period pursuant to section 22-507(b)(2) of the Administrative Code;
+
+   (2) The preferential hiring list required under section 22-507(b)(3) of the Administrative Code, the date eligible employees on the preferential hiring list were given the right of first refusal to jobs that become available during the transitional employment period, and proof that the right of first refusal was given; and
+
+   (3) The written performance evaluations as required under section 22-507(b)(5) of the Administrative Code.
+
+
+
+
+
+
+
+
+*§ 7-405 Enforcement.* ::
+
+
+(a) If the grocery employer fails to timely respond to, written request for information or records from the department, a grocery employer must provide the department with access to records and at a mutually agreeable time of day at the employer's place of business.
+
+(b) The department will make two attempts by any combination of letter, email, or telephone to arrange a mutually agreeable time of day for the grocery employer to provide access to its records in accordance with subdivision (b) of this section. If these attempts are not successful, the department may set a time to access records at the grocery employer's place of business during regular business hours, upon two days' notice to the grocery employer.
+
+(c) The grocery employer may cure a notice of violation issued to a grocery employer for failure to provide requested information, records or access to records as required by 6 RCNY § 7-405  without penalty by producing the requested information or records on or before the first scheduled hearing date.
+
+(d) The department may settle a complaint at any time prior to the conclusion of an adjudication. Prior to settling any complaint filed by an eligible grocery employee, pursuant to Section 22-507(d)(1), the department shall provide each complainant with notice of the proposed settlement.
+
+(e) A complainant who intends to opt out of a settlement, pursuant to Section 22-507(d)(1)(E) of the Administrative Code must do so in writing to the department. A complainant who intends to withdraw his or her complaint with the department, pursuant to Section 22-507(d)(2) of the Administrative Code must do so in writing to the department prior to bringing a civil action.
+
+
+
+
+
+
+
+
+
+**Subchapter E: Freelance Workers**
+
+
+
+*§ 7-501 Definitions.* ::
+
+
+(a) As used in this chapter, the terms “director,” “freelance worker,” and “hiring party” shall have the same meanings as set forth in Section 20-927 of the Administrative Code.
+
+(b) As used in this chapter, the term “adverse action” means any action by a hiring party, their actual or apparent agent, or any other person acting directly or indirectly on behalf of a hiring party, that would constitute a threat, intimidation, discipline, harassment, denial of a work opportunity, or discrimination, or any other act that penalizes a freelance worker for, or is reasonably likely to deter a freelance worker from, exercising or attempting to exercise any right guaranteed under Chapter 10 of Title 20 of the Administrative Code (“the Freelance Isn’t Free Act”).
+
+
+
+
+
+
+
+
+*§ 7-502 Coverage.* ::
+
+
+A freelance worker is entitled to the protections of the Freelance Isn’t Free Act regardless of immigration status.
+
+
+
+
+
+
+
+
+*§ 7-503 Contract Value.* ::
+
+
+(a) For purposes of Section 20-928(a) of the Administrative Code, the value of a contract between a freelance worker and hiring party, either by itself or when aggregated with all other agreements for services between the same hiring party and freelance worker during the 120 days immediately preceding the agreement that constitutes the contract, shall include the reasonable value of all actual or anticipated services, costs for supplies, and any other expenses under the contract.
+
+(b) For purposes of Section 20-933(b) of the Administrative Code, the value of the underlying contract between a freelance worker and hiring party shall include the reasonable value of all services performed and/or anticipated, and reasonable costs for supplies and any other expenses reasonably incurred by the freelance worker.
+
+
+
+
+
+
+
+
+*§ 7-504 Retaliation.* ::
+
+
+(a) Retaliation shall include but is not limited to any adverse action relating to perceived immigration status or work authorization.
+
+(b) A freelance worker may establish a causal connection between the exercise of rights guaranteed under the Freelance Isn’t Free Act and a hiring party’s adverse action either circumstantially, such as with evidence that the protected activity was followed closely by the adverse action, or directly, with evidence of an intention by a hiring party to retaliate against a freelance worker. For purposes of Section 20-930 of the Administrative Code, retaliation may be established when a freelance worker shows that the exercise or attempt to exercise any right under the Freelance Isn’t Free Act was a motivating factor for an adverse action, even if other factors also motivated the adverse action.
+
+(c) Any person who denies a work opportunity to a freelance worker who exercises or attempts to exercise any right guaranteed under the Freelance Isn’t Free Act, or that takes any action reasonably likely to deter a freelance worker from exercising or attempting to exercise any such right, shall be liable for retaliation regardless of whether that person previously has been a party to a contract with the freelance worker or has been the subject of a complaint by the freelance worker.
+
+
+
+
+
+
+
+
+*§ 7-505 Waivers of Rights.* ::
+
+
+(a) Any contract entered into by a hiring party and freelance worker shall not include any prospective waiver or limitation of rights under the Freelance Isn’t Free Act. Any such waiver or limitation shall be invalid as a matter of law.
+
+(b) If a contract includes language that waives or limits a freelance worker’s right to participate in or receive money or any other relief from any class, collective, or representative proceeding, said waiver or limitation is void.
+
+(c) Wherever a hiring party asks a freelance worker to waive or limit, via contract, any other procedural right normally afforded to a party in a civil or administrative action, any such contractual waivers and limitations are void under Section 20-935 of the Administrative Code. Such rights include but are not limited to procedural rights of parties to a civil action established by the New York Civil Practice Law and Rules, the Federal Rules of Evidence, and the Federal Rules of Civil Procedure.
+
+(d) A freelance worker has the right to disclose the terms of a contract with a hiring party to the director. Any private contractual agreement that purports to waive or limit a freelance worker’s right to communicate the terms of such a contract to the director is void as against public policy
+
+
+
+
+
 
 
 
@@ -6418,7 +6700,7 @@ Any agreement by an employee with the intent to prospectively waive or limit the
 
    “Pay Deductions Law” means Title 20, Chapter 13 of the New York City Administrative Code.
 
-   “Valid authorization” means a written authorization from a fast food employee to deduct wages from the fast food employee’s paycheck for remittance to a not-for-profit that complies with Section 20-1302 of the New York City Administrative Code and Section 15-03 of these Rules.
+   "Valid authorization" means a written authorization from a fast food employee to deduct wages from the fast food employee's paycheck for remittance to a not-for-profit that complies with Section 20-1302 of the New York City Administrative Code and 6 RCNY §§ 7-702 and 7-703.
 
 (c) As used in this subchapter, the following terms have the same meaning as set forth in Section 20-1301 of the Pay Deductions Law: “fast food employee,” “fast food employer,” “fast food establishment,” “not-for-profit,” and “office.”
 
@@ -6709,167 +6991,6 @@ Any agreement by a fast food employee with the intent to prospectively waive or 
 
 
 
-Chapter 8: Transportation Benefits
---------------------------------------------------
-
-
-
-*§ 8-01 Definitions.* ::
-
-
-As used in this chapter and, where applicable, in the Transportation Benefits Law, the following terms have the following meanings:
-
-"Chain business" means a group of establishments that share a common owner or principal who owns a majority of each establishment where such establishments (i) engage in the same business or (ii) operate pursuant to franchise agreements with the same franchisor as defined in general business law section 681.
-
-"Commuter highway vehicle" means a "commuter highway vehicle" as such term is defined in Section 132(f)(5)(B) of the Internal Revenue Code.
-
-"Cure period" means the ninety-day period immediately following a finding of a first violation.
-
-"Department" means the Department of Consumer Affairs of the City of New York.
-
-"Employee" means an "employee," "manual worker," "railroad worker," "commission salesman," or "clerical or other worker" as such terms are defined in § 190 of the New York State Labor Law. "Employee" does not include partners, sole proprietors, independent contractors, or two-percent shareholders of S-corporations.
-
-"Employer" means an "employer" as such term is defined in § 190 of the New York State Labor Law and that employs twenty or more full-time employees in New York City. The common owner or principal of a chain business shall be considered the employer of the full-time employees of such chain business.
-
-"First violation" means the first finding by the administrative tribunal that a particular employer has violated the Transportation Benefits Law since July 1, 2016.
-
-"Full-time employee" means an employee who has worked an average of 30 hours or more per week in the most recent four weeks as of any date of counting, any portion of which was in New York City, for a single employer.
-
-"Earnings" shall have the same meaning as the term "gross income" as used in § 132 of the Internal Revenue Code.
-
-"Month" means an employer's regularly established fiscal month.
-
-"Recidivist violation" means any new finding by the administrative tribunal that a particular employer has violated the Transportation Benefits Law, after the first finding by the administrative tribunal that the employer had violated the Transportation Benefits Law since July 1, 2016.
-
-"Subsequent violation" means each continuous thirty-day period after the expiration of the cure period, or after the finding of a recidivist violation by the administrative tribunal, in which the employer has not demonstrated to the department's satisfaction that it is complying with the Transportation Benefits Law.
-
-"Temporary help firm" means an employer that recruits, hires and supplies employees to perform work or services for another organization to: (i) support or supplement the other organization's workforce; (ii) provide assistance in special work situations including, but not limited to, employee absences, skill shortages or seasonal workloads; or (iii) perform special assignments or projects.
-
-"Transportation Benefits Law" means Chapter 9 of Title 20 of the Administrative Code of the City of New York.
-
-"Transportation fringe benefits" means qualified transportation fringe benefits, other than qualified parking, that may be purchased using pre-tax earnings in accordance with § 132 of the Internal Revenue Code.
-
-"Week" means an employer's regularly established payroll week.
-
-
-
-
-
-
-
-
-*§ 8-02 Determination of Size of Employer.* ::
-
-
-(a) An employer's number of full-time employees is determined by calculating the average number of full-time employees for the most recent consecutive three- month period, provided that for an employer that has operated for less than three months, the number of full-time employees is determined by calculating the average number of full-time employees per week for the period of time in which the employer has been in operation.
-
-(b) Full-time employees at all of an employer's or a chain business's locations in New York City shall be counted in determining the number of full-time employees of the employer.
-
-
-
-
-
-
-
-
-*§ 8-03 Temporary Help Firms.* ::
-
-
-(a) Where a temporary help firm supplies a full-time employee to another organization, the temporary help firm shall be the employer of the full-time employee for purposes of the Transportation Benefits Law and must comply with its provisions, regardless of the size of the other organization.
-
-(b) To determine the number of hours worked each week by an employee working for a temporary help firm, the employer must aggregate the number of hours worked by the employee in the most recent four weeks at all placements.
-
-
-
-
-
-
-
-
-*§ 8-04 Employee Eligibility.* ::
-
-
-(a) An employer must offer its full-time employees the opportunity to use pre-tax earnings to purchase transportation fringe benefits by January 1, 2016, or four weeks after such employee's commencement of employment as a full-time employee of the employer, whichever is later.
-
-(b) If an employer's work force is reduced to fewer than 20 full-time employees, the employer must continue to offer the opportunity to use pre-tax earnings to purchase transportation fringe benefits to full-time employees who were employer's full-time employees before the work force was reduced.
-
-
-
-
-
-
-
-
-*§ 8-05 Maximum Deductions.* ::
-
-
-Employers must offer full-time employees the opportunity to use the maximum amount of pre-tax earnings permitted under federal law for the purchase of transportation fringe benefits.
-
-
-
-
-
-
-
-
-*§ 8-06 Recordkeeping Requirements.* ::
-
-
-Employers must retain records for two years sufficient to demonstrate (i) that each full-time employee eligible for transportation fringe benefits pursuant to the Transportation Benefits Law and this chapter was offered the opportunity to use pre-tax earnings to purchase transportation fringe benefits in accordance with this chapter; or (ii) records sufficient to demonstrate that the employer provides, at the employer's expense, a transit pass or similar form of payment for transportation on public or privately-owned mass transit or in a commuter highway vehicle at the maximum federal transportation fringe benefit amount that may be excluded from pre-tax earnings. Employers may use the form provided by the department and available on the department's website to document compliance.
-
-
-
-
-
-
-
-
-*§ 8-07 Employer-Funded Transportation Benefits.* ::
-
-
-(a) As an alternative to offering the opportunity to use pre-tax earnings to purchase transportation fringe benefits, an employer may provide at the employer's expense a transit pass or similar form of payment for transportation on public or privately-owned mass transit or in a commuter highway vehicle.
-
-(b) If the employer-provided transit pass or similar form of payment is less than the maximum transportation fringe benefit that may be excluded from pre-tax earnings under federal law, then the employer must offer employees the opportunity to use pre-tax earnings to purchase transportation fringe benefits for an amount equal to the difference between the value of the employer-provided transit pass or similar form of payment and the maximum amount that may be excluded from gross earnings under federal law.
-
-
-
-
-
-
-
-
-*§ 8-08 Financial Hardship Exemption.* ::
-
-
-(a) The department may waive the requirements of the Transportation Benefits Law for an employer if such employer demonstrates to the department's satisfaction that offering the opportunity to use pre-tax earnings to purchase transportation fringe benefits would be a financial hardship for such employer.
-
-(b) To qualify for a waiver, an employer must present compelling evidence that complying with the Transportation Benefits Law would be impracticable and create a severe financial hardship.
-
-
-
-
-
-
-
-
-*§ 8-09 Enforcement and Penalties.* ::
-
-
-(a) The department may issue a notice of violation pursuant to section 20-926(b) of the Administrative Code.
-
-(b) Any employer found to be in violation of the Transportation Benefits Law will be liable for a civil penalty of two-hundred fifty dollars payable to the city of New York for the first violation, for any and each subsequent violation, and for any and each recidivist violation.
-
-(c) A civil penalty will not be imposed on an employer for the first violation if the employer demonstrates to the satisfaction of the department within the cure period that it is complying with the Transportation Benefits Law.
-
-(d) For the purposes of this section, "satisfaction of the department" with reference to an employer's compliance with the Transportation Benefits Law means proof that the employer has offered its full time employees the opportunity to use pre-tax earnings to purchase transportation fringe benefits or that the employer provides, at the employer's expense, a transit pass, or similar form of payment, for transportation on public or privately-owned mass transit or in a commuter highway vehicle at the maximum federal transportation benefit amount that may be excluded from pre-tax earnings.
-
-(e) An employer seeking to demonstrate that it is complying with the Transportation Benefits Law may do so by submitting the compliance form provided by the department and available on the department's website. The department may require submission of additional information, including documentary evidence, reasonably necessary to prove that a first violation was cured within the cure period.
-
-
-
-
-
-
 Chapter 9: Prevailing Wage Law
 --------------------------------------------------
 
@@ -7118,137 +7239,6 @@ The commencement or pendency of a civil action by one or more employees of a Cov
 
 
 For purposes of section 4 of subdivision d of the Prevailing Wage Law, "other appropriate relief" shall include an order to (i) reinstate an employee or offer the employee a position comparable to their former position, (ii) reverse any adverse employment action, including demotion, reassignment or reduction in hours, (iii) cease retaliatory practices and institute measures to prevent such conduct in the future, (iv) pay the wages and, if applicable, the monetary equivalent of the benefits that the employee subjected to retaliation or discrimination would have been granted or paid but for the adverse employment actions by the Covered Employer, or (v) pay additional amounts to the extent necessary to compensate employees for additional tax liability resulting from a lump sum payment of back wages in a single year.
-
-
-
-
-
-
-Chapter 10: Displaced Grocery Workers
---------------------------------------------------
-
-
-
-*§ 10-01 Definitions.* ::
-
-
-(a) As used in this chapter, the following terms have the same meanings as set forth in section 22-507 of the Administrative Code: "change in control," "city," "department," "eligible grocery employee," "grocery establishment," "incumbent grocery employer," "person," "successor grocery employer," and "transitional employment period."
-
-(b) As used in this chapter, the following terms shall have the following meanings:
-
-   "Appropriate notice" means 30 days' written notice to the grocery employer, unless the grocery employer agrees to a lesser amount of time or the department has reason to believe that:
-
-      (i) the grocery employer will destroy or falsify records;
-
-      (ii) the grocery employer is closing, selling, or transferring its business, disposing of assets, or is about to declare bankruptcy;
-
-      (iii) the grocery employer is the subject of a government investigation or enforcement action or proceeding related to wages and hours, unemployment insurance, workers' compensation, discrimination, or paid sick leave; or
-
-      (iv) more immediate access to records is necessary to prevent retaliation against employees for exercising their rights under the Grocery Worker Retention Act.
-
-   "Continuous employment" means uninterrupted employment. Separations from employment six months or less in duration for any reason, including, but not limited to, transfer from a grocery establishment that is subject to a change in control to a grocery establishment with the same incumbent grocery employer, paid or unpaid leaves of absence, paid or unpaid time off, and work schedule changes, shall not constitute interruptions in employment.
-
-   "Grocery employer" means incumbent grocery employers and successor grocery employers.
-
-   "Grocery Worker Retention Act" means section 22-507 of the Administrative Code.
-
-
-
-
-
-
-
-
-*§ 10-02 Eligible Grocery Employees.* ::
-
-
-(a) For purposes of the definition of "eligible grocery employee" in section 22-507(a) of the Administrative Code, "a period" means "a period of continuous employment."
-
-(b) For purposes of section 22-507(a) of the Administrative Code, "confidential employee" means "confidential employee" as defined in the federal Labor Management Relations Act, 22 U.S.C. § 4102(6).
-
-(c) An employee's length of continuous employment at a grocery establishment with the same incumbent grocery employer as the grocery establishment subject to a change in control preceding an employee's transfer to the grocery establishment subject to a change in control shall count towards that employee's continuous employment at the grocery establishment subject to the change in control.
-
-
-
-
-
-
-
-
-*§ 10-03 Incumbent grocery employer's posting of notice of change in control.* ::
-
-
-The incumbent grocery employer may meet the posting requirement of section 22-507(b)(1)(B) of the Administrative Code by posting the required notice of change in control conspicuously in prominent and accessible places customarily frequented by the employees at the grocery establishment subject to a change in control. Each incumbent grocery employer must take reasonable steps to ensure that such notice is not altered, defaced, or covered by other material.
-
-
-
-
-
-
-
-
-*§ 10-04 Determining Seniority.* ::
-
-
-For purposes of section 22-507(b)(3) of the Administrative Code, an employee attains seniority as a result of that employee's length of continuous employment in the grocery establishment subject to a change in control, regardless of job position and regardless of full-time or part-time status, or, in the case of an employee transferred to a grocery establishment subject to a change in control, that employee's total length of continuous employment in any of the incumbent grocery employer's grocery establishments.
-
-
-
-
-
-
-
-
-*§ 10-05 Recordkeeping.* ::
-
-
-(a) Grocery employers must retain records demonstrating compliance with the requirements of the Grocery Worker Retention Act for a period of three years unless otherwise required by any other law, rule, or regulation.
-
-(b) Incumbent grocery employers must maintain, in an accessible format, contemporaneous, true, and accurate records that document:
-
-   (1) The list of eligible grocery employees required under section 22-507(b)(1)(A) of the Administrative Code, the date the list was provided to the successor grocery employer, and written proof that the list was provided to the successor grocery employer; and
-
-   (2) The notice of change in control required under section 22-507(b)(1)(B) of the Administrative Code, the date it was posted, and proof of posting.
-
-(c) Successor grocery employers must maintain, in an accessible format, contemporaneous, true, and accurate records that document:
-
-   (1) The list of eligible grocery employees received by the successor grocery employer pursuant to section 22-507(b)(1)(A) of the Administrative Code and the date it was received, and the names of those eligible employees retained for the transitional employment period pursuant to section 22-507(b)(2) of the Administrative Code;
-
-   (2) The preferential hiring list required under section 22-507(b)(3) of the Administrative Code, the date eligible employees on the preferential hiring list were given the right of first refusal to jobs that become available during the transitional employment period, and proof that the right of first refusal was given; and
-
-   (3) The written performance evaluations as required under section 22-507(b)(5) of the Administrative Code.
-
-
-
-
-
-
-
-
-*§ 10-06 Enforcement.* ::
-
-
-(a) If the department issues a subpoena or document demand upon appropriate notice, a grocery employer must provide the department with access to records documenting its compliance with the requirements of the Grocery Worker Retention Act and the provisions of this chapter at the department's office.
-
-(b) If the grocery employer fails to timely respond to the subpoena or document demand issued, a grocery employer must provide the department with access to records and at a mutually agreeable time of day at the employer's place of business.
-
-(c) The department will make two attempts by any combination of letter, email, or telephone to arrange a mutually agreeable time of day for the grocery employer to provide access to its records in accordance with subdivision (b) of this section. If these attempts are not successful, the department may set a time to access records at the grocery employer's place of business during regular business hours, upon two days' notice to the grocery employer.
-
-(d) A grocery employer's failure to maintain, retain, or produce pursuant to a subpoena or document demand by the department any record otherwise required to be maintained under these rules that is relevant to a material fact alleged by the department in a notice of violation issued pursuant to the Grocery Worker Retention Act or these rules will create a reasonable inference that such fact is true.
-
-(e) The department, after conducting an investigation pursuant to section 22-507(d)(1)(A) of the Administrative Code, may issue a notice of violation for any violation of the Grocery Worker Retention Act.
-
-(f) Additionally, the department may issue a notice of violation to a grocery employer who fails to provide records or access to records as required by 6 RCNY § 10-05, provided that the department notifies the grocery employer that failure to provide requested information, records, or access to records may result in a notice of violation charging the grocery employer with failure to maintain, retain, or produce records as required by the Grocery Worker Retention Act.
-
-(g) A grocery employer who fails to respond to the notice of violation issued under subdivision (f) of this section on or before the hearing date is subject to a penalty of five hundred dollars, in addition to any penalties or remedies imposed as a result of the department's investigation of the complaint.
-
-(h) The grocery employer may cure a notice of violation issued in accordance with subdivision (f) of this section without penalty by producing the requested information or records on or before the first scheduled hearing date.
-
-(i) The department may settle a complaint at any time prior to the conclusion of an adjudication. Prior to settling any complaint, the department shall provide each complainant with notice of the proposed settlement.
-
-(j) A complainant who intends to opt out of a settlement pursuant to section 22-507(d)(1)(E) of the Administrative Code must do so in writing to the department.
-
-(k) A complainant who intends to withdraw his or her complaint with the department pursuant to section 22-507(d)(2) of the Administrative Code must do so in writing to the department prior to bringing a civil action.
 
 
 
@@ -7521,83 +7511,6 @@ For purposes of section 2 of subdivision g of the Living Wage Law, "other approp
 (iv) pay the wages and, if applicable, the monetary equivalent of the benefits that the Employee subjected to retaliation or discrimination would have been granted or paid but for the adverse employment actions by the Covered Employer or Additional Covered Employer, or
 
 (v) pay additional amounts to the extent necessary to compensate Employees for additional tax liability resulting from a lump sum payment of back wages in a single year.
-
-
-
-
-
-
-Chapter 12: Freelance Workers
---------------------------------------------------
-
-
-
-*§ 12-01 Definitions.* ::
-
-
-(a) As used in this chapter, the terms “director,” “freelance worker,” and “hiring party” shall have the same meanings as set forth in Section 20-927 of the Administrative Code.
-
-(b) As used in this chapter, the term “adverse action” means any action by a hiring party, their actual or apparent agent, or any other person acting directly or indirectly on behalf of a hiring party, that would constitute a threat, intimidation, discipline, harassment, denial of a work opportunity, or discrimination, or any other act that penalizes a freelance worker for, or is reasonably likely to deter a freelance worker from, exercising or attempting to exercise any right guaranteed under Chapter 10 of Title 20 of the Administrative Code (“the Freelance Isn’t Free Act”).
-
-
-
-
-
-
-
-
-*§ 12-02 Coverage.* ::
-
-
-A freelance worker is entitled to the protections of the Freelance Isn’t Free Act regardless of immigration status.
-
-
-
-
-
-
-
-
-*§ 12-03 Contract Value.* ::
-
-
-(a) For purposes of Section 20-928(a) of the Administrative Code, the value of a contract between a freelance worker and hiring party, either by itself or when aggregated with all other agreements for services between the same hiring party and freelance worker during the 120 days immediately preceding the agreement that constitutes the contract, shall include the reasonable value of all actual or anticipated services, costs for supplies, and any other expenses under the contract.
-
-(b) For purposes of Section 20-933(b) of the Administrative Code, the value of the underlying contract between a freelance worker and hiring party shall include the reasonable value of all services performed and/or anticipated, and reasonable costs for supplies and any other expenses reasonably incurred by the freelance worker.
-
-
-
-
-
-
-
-
-*§ 12-04 Retaliation.* ::
-
-
-(a) Retaliation shall include but is not limited to any adverse action relating to perceived immigration status or work authorization.
-
-(b) A freelance worker may establish a causal connection between the exercise of rights guaranteed under the Freelance Isn’t Free Act and a hiring party’s adverse action either circumstantially, such as with evidence that the protected activity was followed closely by the adverse action, or directly, with evidence of an intention by a hiring party to retaliate against a freelance worker. For purposes of Section 20-930 of the Administrative Code, retaliation may be established when a freelance worker shows that the exercise or attempt to exercise any right under the Freelance Isn’t Free Act was a motivating factor for an adverse action, even if other factors also motivated the adverse action.
-
-(c) Any person who denies a work opportunity to a freelance worker who exercises or attempts to exercise any right guaranteed under the Freelance Isn’t Free Act, or that takes any action reasonably likely to deter a freelance worker from exercising or attempting to exercise any such right, shall be liable for retaliation regardless of whether that person previously has been a party to a contract with the freelance worker or has been the subject of a complaint by the freelance worker.
-
-
-
-
-
-
-
-
-*§ 12-05 Waivers of Rights.* ::
-
-
-(a) Any contract entered into by a hiring party and freelance worker shall not include any prospective waiver or limitation of rights under the Freelance Isn’t Free Act. Any such waiver or limitation shall be invalid as a matter of law.
-
-(b) If a contract includes language that waives or limits a freelance worker’s right to participate in or receive money or any other relief from any class, collective, or representative proceeding, said waiver or limitation is void.
-
-(c) Wherever a hiring party asks a freelance worker to waive or limit, via contract, any other procedural right normally afforded to a party in a civil or administrative action, any such contractual waivers and limitations are void under Section 20-935 of the Administrative Code. Such rights include but are not limited to procedural rights of parties to a civil action established by the New York Civil Practice Law and Rules, the Federal Rules of Evidence, and the Federal Rules of Civil Procedure.
-
-(d) A freelance worker has the right to disclose the terms of a contract with a hiring party to the director. Any private contractual agreement that purports to waive or limit a freelance worker’s right to communicate the terms of such a contract to the director is void as against public policy
 
 
 

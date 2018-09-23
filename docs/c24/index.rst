@@ -1165,7 +1165,9 @@ Chapter 1: Correctional Facilities
 
    (5) the inmate has engaged in serious or persistent violence; or
 
-   (6) the inmate, while in Department custody or otherwise incarcerated, has engaged in repeated activity or behavior of a gravity and degree of danger similar to the acts described in paragraphs (1) through (5) of this subdivision, and such activity or behavior has a direct, identifiable and adverse impact on the safety and security of the facility, such as repeated acts of arson. Provided, however, that, where the Department is permitted to consider an inmate's activity occurring or actions committed at a time when the inmate was incarcerated, such activity or actions must have occurred within the preceding five (5) years. Where the Department is permitted to consider an inmate's activity occurring or actions committed at a time when the inmate was not incarcerated, such activity or actions must have occurred within the preceding two (2) years.
+   (6) the inmate, while in Department custody or otherwise incarcerated, has engaged in repeated activity or behavior of a gravity and degree of danger similar to the acts described in paragraphs (1) through (5) of this subdivision, and such activity or behavior has a direct, identifiable and adverse impact on the safety and security of the facility, such as repeated acts of arson.
+
+Provided, however, that, where the Department is permitted to consider an inmate's activity occurring or actions committed at a time when the inmate was incarcerated, such activity or actions must have occurred within the preceding five (5) years. Where the Department is permitted to consider an inmate's activity occurring or actions committed at a time when the inmate was not incarcerated, such activity or actions must have occurred within the preceding two (2) years.
 
 (c) Exclusions.
 

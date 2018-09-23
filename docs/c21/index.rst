@@ -1337,6 +1337,41 @@ All licensees shall be required to sign an acknowledgment that they shall be res
 
 
 
+Chapter 6: Use of Amber Lights By Volunteer Civilian Patrol Members
+--------------------------------------------------
+
+
+
+*§ 6-01 Possession and Use of Amber Lights by Volunteer Civilian Patrol Members.* ::
+
+
+(a) Only a member of a Civilian Observation Patrol sponsored by the New York City Police Department shall be eligible for a permit to possess and use an amber light pursuant to these Regulations.
+
+(b) The Deputy Commissioner in charge of Community Affairs is responsible for the administration of the amber light program.
+
+(c) Applications to obtain amber light permits will be available at and processed through the precinct in which the patrol is located.
+
+(d) The permit to possess and use an amber light will be an authorization stamped on a civilian observation patrol identification card.
+
+(e) The only type of amber light that is permitted is one that is portable with a subdued yellow light either placed on the dashboard or roof of a civilian observation patrol car by suction cups or magnets. Permit holders may possess only one such amber light.
+
+(f) The permit to possess and use an amber light on a vehicle is non-transferable and automatically expires when the holder ceases to be a member of the Civilian Observation Patrol Group listed on his application.
+
+(g) Only a steady non-revolving amber light will be operated while the volunteer is involved in patrol observation duty except a rotating or revolving amber light may be used under the following circumstances:
+
+   (1) At the scene of accidents.
+
+   (2) At the scene of any incident when the light is necessary to alert oncoming vehicle or to summon assistance.
+
+   (3) When necessary to alert persons of the imminent danger of a criminal act.
+
+(h) Permittees will obey all traffic regulations at all times while on patrol and all directions of a police officer with respect to the use of amber lights. A permit must be produced when requested by a police officer.
+
+(i) Failure to abide by these Rules and Regulations may result in the suspension or revocation of a permit to possess an amber light.
+
+
+
+
 Chapter 5: Handgun Licenses
 --------------------------------------------------
 
@@ -2292,41 +2327,6 @@ All licensees shall be required to sign an acknowledgment that they shall be res
 
 
 
-Chapter 6: Use of Amber Lights By Volunteer Civilian Patrol Members
---------------------------------------------------
-
-
-
-*§ 6-01 Possession and Use of Amber Lights by Volunteer Civilian Patrol Members.* ::
-
-
-(a) Only a member of a Civilian Observation Patrol sponsored by the New York City Police Department shall be eligible for a permit to possess and use an amber light pursuant to these Regulations.
-
-(b) The Deputy Commissioner in charge of Community Affairs is responsible for the administration of the amber light program.
-
-(c) Applications to obtain amber light permits will be available at and processed through the precinct in which the patrol is located.
-
-(d) The permit to possess and use an amber light will be an authorization stamped on a civilian observation patrol identification card.
-
-(e) The only type of amber light that is permitted is one that is portable with a subdued yellow light either placed on the dashboard or roof of a civilian observation patrol car by suction cups or magnets. Permit holders may possess only one such amber light.
-
-(f) The permit to possess and use an amber light on a vehicle is non-transferable and automatically expires when the holder ceases to be a member of the Civilian Observation Patrol Group listed on his application.
-
-(g) Only a steady non-revolving amber light will be operated while the volunteer is involved in patrol observation duty except a rotating or revolving amber light may be used under the following circumstances:
-
-   (1) At the scene of accidents.
-
-   (2) At the scene of any incident when the light is necessary to alert oncoming vehicle or to summon assistance.
-
-   (3) When necessary to alert persons of the imminent danger of a criminal act.
-
-(h) Permittees will obey all traffic regulations at all times while on patrol and all directions of a police officer with respect to the use of amber lights. A permit must be produced when requested by a police officer.
-
-(i) Failure to abide by these Rules and Regulations may result in the suspension or revocation of a permit to possess an amber light.
-
-
-
-
 Chapter 7: Radio Receiving Set Permits
 --------------------------------------------------
 
@@ -2657,7 +2657,11 @@ Chapter 9: Certificate of Conduct
 *§ 9-01 Instructions for Obtaining a Certificate of Conduct.* ::
 
 
-An applicant for a Certificate of Conduct must apply in person at the Public Inquiry &amp; Request Section, located at One Police Plaza, New York, New York, Room 152-A, Monday through Friday, from 9:00 A.M. to 3:00 P.M. except for legal holidays. An applicant will be fingerprinted only at the Public Inquiry &amp; Request Section and will be required to present a fifty ($50.00) dollar Money Order or Certified Check payable to the New York City Police Department, or a valid credit card. This fee covers fingerprinting and application processing costs. Processing takes approximately ten working days. A Certificate of Conduct may not be issued without the taking of fingerprints. In cases where the taking of fingerprints is an impossibility due to the applicant's physical condition, where the applicant is aged or infirm, or where other conditions exist as determined by the Commissioner that would render the taking of fingerprints a physical hardship, the Department may issue a Police Clearance Letter. Police Clearance Letters will be issued for immigration purposes only and will be issued based solely on a criminal record search using the applicant's name and date of birth. Police Clearance Letters will not be provided directly to the applicant; instead, the Department will deliver the Police Clearance Letter to the United States Department of Homeland Security. Applicants requiring a Police Clearance Letter must pay the same fee that Certificate of Conduct applicants pay.
+An applicant for a Certificate of Conduct must apply in person at the Public Inquiry &amp; Request Section, located at One Police Plaza, New York, New York, Room 152-A, Monday through Friday, from 9:00 A.M. to 3:00 P.M. except for legal holidays.
+
+An applicant will be fingerprinted only at the Public Inquiry &amp; Request Section and will be required to present a fifty ($50.00) dollar Money Order or Certified Check payable to the New York City Police Department, or a valid credit card. This fee covers fingerprinting and application processing costs. Processing takes approximately ten working days. A Certificate of Conduct may not be issued without the taking of fingerprints.
+
+In cases where the taking of fingerprints is an impossibility due to the applicant's physical condition, where the applicant is aged or infirm, or where other conditions exist as determined by the Commissioner that would render the taking of fingerprints a physical hardship, the Department may issue a Police Clearance Letter. Police Clearance Letters will be issued for immigration purposes only and will be issued based solely on a criminal record search using the applicant's name and date of birth. Police Clearance Letters will not be provided directly to the applicant; instead, the Department will deliver the Police Clearance Letter to the United States Department of Homeland Security. Applicants requiring a Police Clearance Letter must pay the same fee that Certificate of Conduct applicants pay.
 
 
 
@@ -3895,7 +3899,13 @@ Police Commissioner. "Police Commissioner" or "Commissioner" means the Police Co
 
 (a) Upon substantiation by the Civilian Complaint Review Board (CCRB) of one or more FADO allegations contained in a civilian complaint against a uniformed member of the NYPD, CCRB shall notify the Police Commissioner of the substantiation and CCRB's disciplinary recommendation. Subject to the provisions of subdivision (b) of this section, civilian complaints found to be substantiated by the CCRB in which CCRB has recommended that Charges and Specifications be preferred shall be prosecuted by the CCRB pursuant to a Memorandum of Understanding (MOU) executed on April 2, 2012 by the CCRB and the Department during the period that such MOU is applicable.
 
-(b) In those limited circumstances where the Commissioner determines that CCRB's prosecution of Charges and Specifications in a substantiated case would be detrimental to the Department's disciplinary process, the Commissioner shall notify CCRB of this determination. These instances shall be limited to cases in which 1) there are parallel or related criminal investigations, or 2) when, in the case of an officer with no disciplinary history or prior substantiated CCRB complaints, and based on such officer's record and disciplinary history, the interests of justice would not be served. Any request by the Commissioner for the CCRB to refrain from prosecution of Charges and Specifications in accordance with this section shall be made in writing to the CCRB, include a detailed explanation for such request and a statement detailing what discipline if any the Police Commissioner would pursue on such uniformed officer. The CCRB may reject such request to refrain from prosecution within five business days of receipt of such request. Such rejection shall be made in writing and include a statement rebutting the Commissioner's explanation for his or her request. The Commissioner may deny such rejection within five business days of receipt of such rejection. Such denial shall be made in writing to CCRB and include a detailed response to CCRB's rebuttal. Upon receipt of such denial the CCRB shall refrain from further prosecution of the case.
+(b) In those limited circumstances where the Commissioner determines that CCRB's prosecution of Charges and Specifications in a substantiated case would be detrimental to the Department's disciplinary process, the Commissioner shall notify CCRB of this determination. These instances shall be limited to cases in which 1) there are parallel or related criminal investigations, or 2) when, in the case of an officer with no disciplinary history or prior substantiated CCRB complaints, and based on such officer's record and disciplinary history, the interests of justice would not be served.
+
+Any request by the Commissioner for the CCRB to refrain from prosecution of Charges and Specifications in accordance with this section shall be made in writing to the CCRB, include a detailed explanation for such request and a statement detailing what discipline if any the Police Commissioner would pursue on such uniformed officer.
+
+The CCRB may reject such request to refrain from prosecution within five business days of receipt of such request. Such rejection shall be made in writing and include a statement rebutting the Commissioner's explanation for his or her request.
+
+The Commissioner may deny such rejection within five business days of receipt of such rejection. Such denial shall be made in writing to CCRB and include a detailed response to CCRB's rebuttal. Upon receipt of such denial the CCRB shall refrain from further prosecution of the case.
 
 
 

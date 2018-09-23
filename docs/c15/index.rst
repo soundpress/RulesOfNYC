@@ -9379,7 +9379,7 @@ This chapter describes the process for making objections to municipal charges th
 
 (c) The "statement date" listed on the Department of Finance's billing application detail for a statement of account shall be presumptive evidence that such statement of account was mailed within five business days of the statement date to the person or entity registered with the Department of Finance.
 
-(d) All objections to a charge on a statement of account shall be submitted in writing or electronically. Each objection shall be addressed to the Department to the attention of the Research and Reconciliation Unit, 100 Gold Street,New York, N.Y. 10038 or to www.hpderp@hpd.nyc.gov.
+(d) All objections to a charge on a statement of account shall be submitted in writing or electronically. Each objection shall be addressed to the Department to the attention of the Research and Reconciliation Unit, 100 Gold Street,New York, N.Y. 10038 or to hpderp@hpd.nyc.gov.
 
 (e) Each objection to a charge on a statement of account shall:
 
@@ -17748,7 +17748,7 @@ EMERGENCY NOTIFICATION: PLEASE READ ALL EMERGENCIES: Building Personnel Contacts
 
 In An Emergency 911: Emergencies Call 911 when you are in immediate danger, there is a fire on the premises, you witness a crime in progress, or if you have a serious injury or life-threatening medical condition.
 
-Contacting the City 311: City Information Call 311  or visit www.NYC.gov when you need access to non-emergency services or information about City government programs. Do not call 311 for emergencies. If you have special needs and need assistance to evacuate, contact the City at 311. Persons with special needs may also find information on line at the Office of Emergency Management's website: www.nyc.gov/oem.
+Contacting the City 311: City Information Call 311  or visit www.nyc.gov when you need access to non-emergency services or information about City government programs. Do not call 311 for emergencies. If you have special needs and need assistance to evacuate, contact the City at 311. Persons with special needs may also find information on line at the Office of Emergency Management's website: www.nyc.gov/oem.
 
 To Report a Utility Outage Con Edison 24-hour hotline: 800-752-6633  LIPA 24-hour hotline: 800-490-0075  National Grid 24-hour hotline: 718-643-4050 
 

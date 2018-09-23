@@ -723,7 +723,7 @@ Before an application is docketed and a calendar number is assigned, the applica
 *§ 1-09.3 Drawings and Other Exhibits.* ::
 
 
-All drawings submitted with an application must be properly titled, numbered, dimensioned, dated, drawn to scale, and must otherwise conform to the applicable instructions. All drawings must be clear and bear a legible seal and signature of a registered architect or licensed professional engineer. All drawings and other exhibits, unless otherwise accepted by the executive director, must be on 81/2 x 14 inch sheets or on 11 x 17 inch sheets that are folded to 81/2 x 11 inches.
+All drawings submitted with an application must be properly titled, numbered, dimensioned, dated, drawn to scale, and must otherwise conform to the applicable instructions. All drawings must be clear and bear a legible seal and signature of a registered architect or licensed professional engineer. All drawings and other exhibits, unless otherwise accepted by the executive director, must be on 8-1/2 x 14 inch sheets or on 11 x 17 inch sheets that are folded to 8-1/2 x 11 inches.
 
 
 
@@ -1224,6 +1224,2135 @@ All doors for which approved automatic operators which open by swinging inwardly
 
 
 
+Chapter 3: Construction
+--------------------------------------------------
+
+
+
+*§ 3-01 Fire Resistive Construction.* ::
+
+
+Until this Board adopts rules to supplement §§ 260-265 inclusive and 272 of the Labor Law, the pertinent requirements of Article 11 of Chapter one of Title 27 of the Administrative (Building) Code of New York City shall govern in lieu of rules as to fire resistive construction in such buildings as come within the purview of the State Labor Law.
+
+
+
+
+
+
+*§ 3-02 Alteration, Repair, Excavation for and Demolition of Buildings.** ::
+
+
+(a) Scope. These rules shall be applicable to all structures or any parts thereof coming within the purview of the Administrative Building Code and the Labor Law and shall include scaffolding, hoists, ladders, derricks and other equipment as may be used in the erection, alteration, repair, excavation for or demolition of a structure or any part thereof.
+
+(b) Enforcement. The enforcement of these rules shall be by the agencies of the City of New York, having jurisdiction. Where the terms "Commissioner," "Superintendent" or "Department" occur in these rules, they are intended to refer to the Department of Buildings, unless specifically designated otherwise.
+
+(c) Permits and notices thereof. Permits for the erection or alteration of a structure or any part thereof shall meet the requirements of § C26-161.0, for the removal or repair of a structure or any part thereof, § C26-193.0, and for demolition of any structure or part thereof, § C26-168.0.
+
+(d) Definitions.
+
+   Alteration (§ C26-11.0). The term "alteration," as applied to a building or structure, shall mean any change or rearrangement in the structural parts or existing facilities of any such building or structure, or any enlargement thereof, whether by extension on any side or by any increase in height, or the moving of such building or structure from one location or position to another.
+
+   Approved. The term "approved" shall mean any material device or method of construction as may be approved by the Board. See § C26-14.0.
+
+   Bearer. The term "bearer" shall mean a scaffold member upon which the platform rests and which is supported by ledgers.
+
+   Board. The term "Board" shall mean the Board of Standards and Appeals of The City of New York. See § C26-25.0.
+
+   Boatswain's Chair. The term "boatswain's chair" shall mean a seat supported by rope slings attached to a suspension rope and designed to accommodate one workman in a sitting position.
+
+   Construction (§ C26-41.0). The term "construction" shall mean and include alterations, repairs and operations incidental to construction. The foregoing definition is taken from the Administrative Building Code, but for the purposes of these rules, construction shall be further defined as erection, alteration, repair, renovation or demolition of any building or structure and any excavation work in connection therewith.
+
+   Construction Site. The term "construction site" shall mean that area within which construction operations are performed and shall include contiguous areas affected by the construction.
+
+   Curb (§ C26-45.0).
+
+      (i) The term "curb," when used in defining the height of a structure, shall mean the legally established level on the curb in front of the structure, measured at the center of such front. When a building faces on more than one street, the term "curb" shall mean the average of the legally established level of the curbs at the center of each front.
+
+      (ii) The term "curb," when used in fixing the depth of an excavation, shall mean the legal curb level at the nearest point of that curb which is nearest to the point of the excavation in question.
+
+   Curb Levels (§ C26-45.1). Where no curb has been established, a curb level shall be established by the agency empowered to fix curb levels. § C26-45.2. When an open unoccupied space in front of any multiple dwelling is above the curb level, and also extends along the entire street lot line on any street and is not less than five feet in depth, the level of such open unoccupied space shall be considered the curb level, provided it is not more than three feet above the level of the established curb in front of the building measured at the center of such front.
+
+   Legal Curb Level (§ C26-89.0). The term "legal curb level" shall mean the curb level established by the borough president for Class 4 residence structures. See § C26-254.0i.
+
+   Demolition. The term "demolition" applied to a building or structure mean the taking down or razing of the structure to any level.
+
+   Elevator (§ C26-60.O).
+
+      (i) The term "elevator" shall mean a hoisting and lowering mechanism equipped with a cab or platform which moves in guides in a substantially vertical direction.
+
+      (ii) The term "elevator" shall exclude dumbwaiters, hoists, endless belts, conveyors, chains, buckets and similar machines used for the purpose of elevating materials, and tiering or piling machines.
+
+   Equipment. The term "equipment" shall mean all types of construction machinery, including tools, derricks, hoists, elevators and other material handling equipment, scaffolds, platforms, runways, ladders and all similar equipment, safeguards, protective devices as may be used in construction operations.
+
+   Erection. The term "erection" shall mean the construction of any structure.
+
+   Guard Rail or Railing. "Guard rail or railing" shall mean a guard rail or railing complying with the requirements of 2 RCNY § 3-02(j)(13).
+
+   Hoist. The term "hoist" shall mean a hand or power-operated device capable of raising or lowering a platform, cage, bucket, sling or hook.
+
+   Horse. The term "horse" shall mean an assembly consisting of a bearer with four or more legs fastened and braced thereto in a manner to provide a rigid, stable and portable support for working platforms.
+
+   Inspection. The term "inspection" shall mean inspection by the borough superintendent, unless specifically designated otherwise herein.
+
+   Ladder. The term "ladder" shall mean an item of equipment designed to provide means of ascending or descending and consisting of side rails joined at suitable equal intervals by cross pieces called rungs, cleats or treads.
+
+      (i) Cleat Ladder. The term "cleat ladder" shall mean a one-section ladder having steps formed of cleats housed into the narrow face of the side rails.
+
+      (ii) Construction or Builder's Ladder. The term "construction or builder's ladder" shall mean a single or straight ladder consisting of but one section.
+
+      (iii) Crawling Board or Chicken Ladder. The term "crawling board or chicken ladder" shall mean a single plank or board to which cleats are nailed at proper intervals.
+
+      (iv) Extension Ladder. The term "extension ladder" shall mean a ladder of two or more sections traveling in guides or brackets, which are so arranged that the ladder may be adjustable to various lengths.
+
+      (v) Extension Trestle Ladder. The term "extension trestle ladder" shall mean a ladder consisting of a trestle ladder with an additional single ladder section having parallel sides, which is fastened to the top of the trestle ladder but which can be adjusted to various heights.
+
+      (vi) Sectional Ladder. The term "sectional ladder" shall mean a ladder consisting of two or more sections so constructed that the sections can be combined end to end so as to function as a single ladder.
+
+      (vii) Single Ladder. The term "single ladder" shall mean a ladder of but one section, the side rails of which may be constructed so as to be parallel or so constructed as to have a wider spread at the bottom.
+
+      (viii) Step-ladder. The term "step-ladder" shall mean a ladder with wide flat steps secured to the side rails and constructed with a hinged section so as to be self-supporting.
+
+      (ix) Trestle Ladder. The term "trestle ladder" shall mean a ladder consisting of two similar single ladder sections hinged together at the top and which, when used with the sections spread, is self-supporting.
+
+   Ledger. The term "ledger" shall mean the scaffold member which extends from post to post and which supports the put-logs or bearers and forms a tie between the posts.
+
+   Put-Log. The term "put-log" shall mean the scaffold member of a single pole scaffold, which is supported at one end by a ledger and at the other end by the wall and is used for supporting the platform.
+
+   Ramp. The term "ramp" shall mean an inclined runway.
+
+   Repair. The term "repair" as applied to a building or structure shall mean the replacing of parts of said structure damaged or defective or requiring removal and replacement for any cause.
+
+   Roofing Bracket. The term "roofing bracket" shall mean a bracket used in sloped roof construction, having sharp points or provisions for nailing to prevent slipping or which is supported by ropes passing over the ridge and secured to a permanent object.
+
+   Runway. The term "runway" shall mean an aisle or walkway constructed or maintained as a passageway.
+
+   Scaffold. The term "scaffold" shall mean any elevated platform used for supporting workmen, material or both.
+
+      (i) Bricklayer's Square Scaffold. The term "bricklayer's square scaffold" shall mean a scaffold, the platform of which is composed of planks supported on built-up squares, secured to each other by diagonal bracing.
+
+      (ii) Carpenter's Bracket Scaffold. The term "carpenter's bracket scaffold" shall mean a scaffold the platform of which is composed of planks supported in triangular shaped brackets firmly secured to the side of the building.
+
+      (iii) Heavy Duty Scaffold. The term "heavy duty scaffold" shall mean a scaffold designed and constructed to carry a working load of seventy-five (75) pounds per square foot, such as intended for the use of stone masons or other similar trades, which supports in addition to the workmen a supply of heavy building material.
+
+      (iv) Horse Scaffold. The term "horse scaffold" shall mean a scaffold the platform of which is supported by horses as defined in 2 RCNY § 3-02(d) "Horse."
+
+      (v) Independent Pole Scaffold. The term "independent pole scaffold" shall mean a scaffold supported from the base of a double row of uprights, independent of support from the walls, and constructed of uprights, ledgers, horizontal bearers, etc.
+
+      (vi) Ladder Jack Scaffold. The term "ladder jack scaffold" shall mean a scaffold the platform of which is supported by appropriately designed brackets or jacks attached to the side rails of ladders.
+
+      (vii) Light Duty Scaffold. The term "light duty scaffold" shall mean a scaffold designed and constructed to carry a working load of twenty-five (25) pounds per square foot, such as intended for the use of carpenters, painters or others of similar trades, which supports no load other than the workmen and a minimum amount of lightweight material.
+
+      (viii) Needle Beam Scaffold or Riveter's Scaffold. The term "needle beam scaffold or riveter's scaffold" shall mean a scaffold consisting of a plank platform supported by parallel horizontal beams which are supported by and swung on ropes.
+
+      (ix) Outrigger Scaffold. The term "outrigger scaffold" shall mean a scaffold the platform of which is supported by outriggers projecting from the walls of the building with the inner end of the outrigger anchored within the building.
+
+      (x) Regular Duty Scaffold. The term "regular duty scaffold" shall mean a scaffold such as designed for the use of bricklayers, plasterers or others of similar trades, which supports in addition to workmen a moderate amount of material.
+
+      (xi) Single Pole Scaffold. The term "single pole scaffold" shall mean a scaffold supported from the base with but one row of uprights located at the outer edge of the platform. The platform is supported by cross beams or put-logs, the outer ends of which are supported on ledgers secured to the uprights and the inner ends are anchored in or on the wall.
+
+      (xii) Suspended Scaffold. The term "suspended scaffold" shall mean a scaffold, the platform of which is supported from above at more than two points by wire cables or suspended from overhead outriggers which are securely anchored to the frame of the structure, and which platform is raised or lowered by the use of hoisting devices located on the outriggers or on the platform.
+
+      (xiii) Swinging Scaffold. The term "swinging scaffold" shall mean a scaffold, the platform of which is supported by stirrups or hangers at not more than two points and which is suspended from overhead supports so as to permit the raising or lowering of the platform to a desired position.
+
+      (xiv) Window Jack Scaffold. The term "window jack scaffold" shall mean a scaffold the platform of which is supported by a properly designed bracket jack or outrigger which projects through a window opening.
+
+   Securely. The term "securely" shall mean that the object or member referred to is so fastened in place that the fastening in connection therewith is sufficiently strong to safely perform the required function.
+
+   Structure (§ C26-147.0). The term "structure" shall mean a building or construction of any kind.
+
+   Tier. The term "tier" shall mean a story or the structural framework of the floor level of a story.
+
+(e) General requirements.
+
+   (1) Inspection of devices and equipment. Before any scaffold, ladder, hoist, derrick, ramp, walkway or other equipment is used on any construction site, such equipment shall be inspected by the contractor or other competent person designated by him. Such inspection shall be thoroughly and carefully made and every defect or unsafe condition shall be corrected before using. Any unsafe equipment shall be precluded from use by posting the words "unsafe for use" thereon. Every scaffold, ladder, hoist, derrick or other equipment and every safety device and safeguard shall be maintained in good working condition at all times. The results of an inspection of all scaffolds are to be certified to the borough superintendent. See § 240 Labor Law.
+
+   (2) Construction and maintenance of equipment and safeguards.
+
+      (i) (§ C26-555.0) All devices or equipment which are used in connection with the performance of work and regulated by this subdivision (e) shall be constructed, installed and maintained in a substantial manner and so operated as to give proper protection to persons and shall not be removed, altered, weakened, or rendered inoperative so long as they are needed or in use, except as provided in § C26-553.0, unless so ordered by a person in responsible charge of the operation.
+
+      (ii) Metal or fireproofed wood scaffolding tested as provided in §§ C26-331.0 to C26-339.0, shall be used in all construction, repair or partial demolition in public buildings in which persons are bedridden or detained or in which the occupancies are similar.
+
+      (iii) Metal or fireproofed wood, tested as provided in §§ C26-331.0 to C26-339.0, or other incombustible material approved by the Board, shall be used in the construction of all contractors' shanties.
+
+   (3) Responsibility of employees and other persons for protection of the public and workmen. (§ C26-553.0 a.) It shall be unlawful to remove or render inoperative any safeguard or sanitary convenience now provided, except where necessary during the actual installation of work or for the purpose of immediately repairing or adjusting such safeguards or conveniences, in which case they shall be immediately replaced. Every person shall be responsible for carrying out all rules which immediately concern or affect his conduct and shall use safety devices furnished for his protection.
+
+   (4) (i) Fire extinguishers and fire protection. At all times during construction operations, ready access to all fire hydrants and to outside connections for standpipes, sprinklers or other fire extinguishing equipment shall be provided and maintained and no material or equipment shall be placed within five (5) feet of such hydrant or connection. When buildings exceed 3 stories, a safe interior stairway or ladder located in each stair-well and properly secured at top and bottom shall be maintained. Where a wood scaffold more than forty (40) feet in height is erected there shall be provided on each floor not less than one approved 2 1/2 gallon fire extinguisher located in a position readily accessible to the scaffold. Suitable placards indicating that fire extinguishers are kept in designated places shall be posted in conspicuous places. At least one 40 gallon water cask with 4 approved round bottom buckets or a safety bucket tank and 5 buckets or one 2 1/2 gallon fire extinguisher shall be provided on each story and cellar for each 2,500 square feet of floor area. In cold weather extinguishers shall be of the non-freezing type and bucket tanks and water casks shall be provided with a sufficient amount of calcium chloride or other approved material to prevent freezing. Similar additional fire extinguishers shall be provided alongside each shed or locker room used by painters, carpenters and plumbers. All loose paint, etc., shall be stored overnight in approved storage bins and all overalls, jumpers, etc., in approved metal lockers. All oakum and other combustible material kept in mechanics' lockers shall be stored in a metal cabinet. All combustible waste material and debris shall be removed from the building after each day's work.
+
+      (ii) Fire guards.
+
+         (A) A person holding a "Certificate of Fitness" issued by the Fire Department shall be required to be on duty in the capacity of a fire guard during all hours when operations are not in progress except between midnight and 8:00 a.m. at construction, alteration or demolition sites which exceed 10,000 square feet when fronting on one street or 20,000 square feet when fronting on more than one street or where the building exceeds 75 feet in height.
+
+         (B) The fire guards shall be familiar with the location and use of (a) Nearest street fire alarm boxes and other acceptable means of transmitting an alarm of fire, and (b) The fire extinguishing equipment required to be on the site.
+
+         (C) For the purpose of this subparagraph (ii), the term "alteration" shall be defined as any change or re-arrangement of the structural parts or existing facilities that necessitates the vacating of more than 50 percent of the building during the progress of the work. The term "site" shall mean the ground area of the building under construction, alteration or demolition.
+
+         (D) When the construction, alteration or demolition site exceeds the area limitations set forth in subparagraph (ii)(A) of this paragraph (4), at least one additional fire guard shall be on duty for each additional 10,000 square feet or 20,000 square feet respectively.
+
+         (E) When the site of the building actually under construction, alteration or demolition plus adjacent areas used for the storage of building materials or salvage building materials is completely enclosed by a substantial fence, the area limitations in subparagraphs (A) and (D) above shall be increased by 50 percent.
+
+   (5) Standpipe systems in structures in course of erection (§ C26-1435.0).
+
+      (i) In structures under erection for which a standpipe system will be required, provision shall be made for the use of standpipes by the Fire Department whenever the construction has progressed so that floors are in place above the seventh story or more than seventy-five feet above the curb level. The standpipe equipment thus provided may be a temporary installation.
+
+      (ii) A temporary standpipe system shall be one which may be used for water supply during the construction operations. Temporary risers shall be at least four inches in diameter for structures of less than four hundred fifty feet in height and at least six inches in diameter for structures four hundred fifty feet or more in height. There shall be as many risers as will be required for the permanent system. Each such riser shall have a Siamese hose connection at the street level and be equipped on each floor enclosed in exterior walls with hose outlets equipped with two and one-half inch hose valves. The installations shall be made so that each riser, cross-connection and branch line shall be watertight when work is not being done on the system. The location of the Siamese hose connection shall be placarded, kept free from obstruction, and indicated by a red light.
+
+   (6) Elevators for Fire Department use in incompleted structures (§ C26-1434.0). In structures in course of erection where the work has progressed to a height of more than one hundred fifty feet, at least one elevator used for carrying passengers or employees shall be kept in readiness at all times for Fire Department use, and a competent elevator operator shall be available at all times unless the elevator is equipped with devices such that it can be safely operated by the Fire Department.
+
+   (7) Salamanders and other heating devices. Salamanders and similar heating devices shall not be set up and used in any space which has not at least one window opening, unless each such heating device shall be provided with a sheet metal hood and a sheet metal pipe, extending from the hood to the outside air, to carry off the gases of combustion. Heating devices shall not be set directly upon combustible material but shall rest on beds of earth, sand or ashes not less than three (3) inches in thickness or on heavy metal plates, adequately insulated from the combustible material. The legs of the heating device shall rest on the insulating material. Such insulation shall extend beyond the device not less than two (2) feet on all sides. Salamanders shall not be set up less than five (5) feet, in a horizontal direction, from any combustible material. Every heating device shall have not less than a five (5) foot clearance over head. All tarpaulins or canvas coverings shall be maintained not less than ten (10) feet from the heating device and such tarpaulins or canvas coverings shall be securely fastened to prevent their being blown toward the salamander or heating device. Wherever salamanders or other heating devices are used, fire protective equipment shall be maintained on each floor irrespective of area during the usage of such heating devices. Salamanders used to prevent concrete or other materials from freezing shall be provided with water pans.
+
+   (8) Electrical hazards. All electrical wiring and electrical equipment shall be installed and maintained in accordance with the provisions of the Electrical Code, Chapter 3 of Title 27, Administrative Code and temporary wiring rules supplemental thereto. (Chapter 34 of the Department of Buildings Rules.)
+
+   (9) Guarding of machinery (§ C26-554.0). All dangerous moving parts of machines shall, where practicable, be adequately guarded. All keys, set-screws, bolts or similar projections on shafts, pulleys, gears, collars, or couplings and other revolving members, where such projections are not counter-sunk or protected by location from accidental contact by a workman, shall be protected by smooth cylindrical safety sleeves of wood or metal surrounding the projection, or shall be guarded by a stationary enclosure of sheet metal, rigid wire mesh, rigid expanded metal or other similar material having openings which shall not exceed one-half (1/2) inch mesh.
+
+   (10) Power driven saws. All portable power-driven hand-operated saws which are not mounted upon saw tables shall be equipped with guards above the base plate which will completely protect the operator from contact with the saw when in motion and with self-adjusting guards below the base plate which will completely cover the saw to the full depth of the teeth when the saw is removed from the cut, or equally effective guards shall be provided. Electrically driven portable saws shall also be subject to the requirements of 2 RCNY § 3-02(j)(19)(iii), "Electrical tools". Every power driven saw which is mounted with a saw table shall be equipped with a guard which shall cover the saw to such an extent so as to preclude contact with any part of the teeth of the saw which are more than two (2) inches above the saw table and which are not protected by the spreader or similar device. In operation, the guard shall automatically rise by pressure from the material or shall be so placed that as the saw cuts the material, the distance from the material to the underside of the guard does not exceed one-half (1/2) inch. The exposed teeth of the saw blade beneath the table shall be effectively guarded. Every circular saw used for ripping shall be provided with a spreader securely fastened in position and with an effective device to prevent the kicking back of the material.
+
+   (11) Mixing machines. The revolving blades of mixing machines of the trough type shall be guarded with a substantial woven wire or iron enclosure having openings not more than one-half (1/2) inch mesh.
+
+   (12) Sprockets, gears and friction-disc drives. Sprockets, gears and friction-disc drives, which are not protected by location from accidental contact by the workman, shall be completely enclosed or shall be provided with channel guards having side flanges extending beyond the roots of the teeth.
+
+   (13) Belts, pulleys and fly-wheels. All belts, except conveyor belts, and all pulleys and fly-wheels shall have all of their parts which are less than seven (7) feet above a floor or other working platform, or runway, and which parts are not protected from accidental contact by workmen because of location, guarded by substantial enclosures or by a standard railing and toeboard which shall be so installed as to prevent workmen from approaching within a horizontal distance of eighteen (18) inches from such belt, pulley and fly-wheel. Enclosures required under this paragraph (13) may be temporarily removed when starting the machine or for the purpose of adjustment or maintenance, but such enclosure shall be replaced immediately thereafter.
+
+   (14) Other power driven machines. Power driven machines not specifically covered by these rules shall be constructed, installed and maintained in a substantial manner, and operated and installed so as to afford adequate protection.
+
+   (15) Dust. All operations on every construction site shall be so conducted as to prevent, by safe and effective means, the raising of dust in such quantities as to obstruct the vision or impair the health of workmen. In sand-blasting of buildings, adequate provision shall be made to collect the dust and prevent its spread. In demolition work materials causing dusting shall be wetted down.
+
+   (16) Sidewalk sheds, barricades and other protection.
+
+      (i) Protection of sidewalks (§ C26-557.0). Whenever a structure is to be constructed to exceed forty feet in height above the curb or whenever a structure more than twenty-five feet in height above the lowest point of the curb, is to be demolished, unless the street is officially closed during the construction or demolition, the owner shall erect and maintain safeguards during the period, as defined below, of such work as follows:
+
+      (ii) Sidewalk sheds required (§ C26-557.0,1).
+
+         (A) If a structure is to be erected to a height exceeding forty feet above the curb, or if the structure to be demolished is more than twenty-five feet in height above the curb, then if the horizontal distance from the structure to the inside edge of the sidewalk, or to the inside edge of a temporary sidewalk erected by permission of the local authority having jurisdiction, is equal to one-half or less of the height of the structure, a substantial sidewalk shed shall be constructed over the sidewalk or temporary sidewalk in front of the structure.
+
+         (B) (a) Regardless of the horizontal distance from the structure to sidewalk or temporary sidewalk, sidewalk sheds of adequate dimensions shall be erected when building materials are being moved over the sidewalk by means of derrick, hoist or chute. The extent of such sidewalk sheds shall be as required by the superintendent.
+
+            (b) Whenever any material or debris is moved or shifted by means of a derrick, hoist, chute or similar device over any sidewalk, passageway or walkway, which is not barred or closed to the workmen or to the public, a sidewalk shed shall be constructed over such sidewalk, passageway or walkway as provided for in 2 RCNY § 3-02(e)(16)(iii) "Design of Sidewalk Sheds."
+
+      (iii) Design of sidewalk sheds (§ C26-557.0,2).
+
+         (A) Sidewalk sheds, where required, shall extend the entire length of the sidewalk in front of the structure, except that where construction work or demolition work on a structure erected before January first, nineteen hundred thirty-eight, involves only a portion of the structure, the superintendent shall prescribe the extent of sidewalk shed protection required.
+
+         (B) (a) Such sidewalk shed shall be capable of sustaining safely a minimum live load of one hundred fifty pounds per square foot, but if such sidewalk shed is used for overhead storage of material, it shall be capable of sustaining safely a minimum live load of three hundred pounds per square foot. The members of the sidewalk shed shall be so connected, and such adequate bracing, shall be provided as may be necessary to resist the displacement of members or the distortion of the framework. The deck of the shed shall be built tight and of ample width, and where deemed necessary by the superintendent, shall extend over the entire width of the sidewalk, except for clearances of two feet from the building line and one foot from the curb. Such shed may extend beyond the curb to such extent as may, on the recommendation of the superintendent, be approved by the local authority having jurisdiction. If posts supporting the deck of the shed are placed beyond the curb, such posts shall be protected from displacement.
+
+            (b) Sidewalk sheds shall not be less than eight (8) feet in height in the clear.
+
+      (iv) Protection of ends and sides of sidewalk sheds (§ C26-557.0,3).
+
+         (A) The outer side and ends of the deck of the shed shall be provided with substantial railings and toe boards, except that, in connection with the demolition of a structure originally more than twenty-five feet in height, or in connection with the erection of a structure which is to exceed seventy-five feet in height, the outer side and ends of the deck of the shed shall be provided with a substantial vertical enclosure, at least forty-two inches high, of boards, laid close, or of galvanized wire screen at least No. 16 steel wire gauge, and of a mesh which will reject a ball five-eighths of an inch in diameter. Temporary openings shall be permitted in the railing or enclosure for handling material.
+
+         (B) With the consent of the owners of the adjoining property, the deck and protective guards of the sidewalk shed shall be extended parallel with the curb at least five feet beyond the ends of the face of the structure, or a protection the full width of the shed extending upward at an angle of forty-five degrees from the ends of the deck and outward a horizontal distance of at least five feet beyond the ends of the face of the structure. Such sloping protection shall be constructed with substantial outriggers, bearing on and securely attached to the deck of the shed. The decking of this latter protection shall be of closely laid boards or galvanized wire screen of at least No. 16 steel wire gauge and with a mesh which will reject a five-eighths inch ball. When such sloping end protection is installed, it shall take the place of the railing or enclosure required at the ends of the shed deck.
+
+      (v) Pedestrian passageways under sidewalk sheds (§ C26-557.0,4). Adequate passageways on the sidewalk shall be provided for pedestrians. Unless the top deck of the sidewalk shed is built solidly against the face of the structure in such a manner that no material can fall on the sidewalk, the side of the sidewalk shed toward the structure shall be sealed in a substantial manner with wood or other suitable material to a minimum height of eight feet above the sidewalk, except for such sliding gates, or gates swinging inward, as may be necessary for the proper prosecution of the work.
+
+      (vi) When sidewalk sheds are to be erected (§ C26-557.0,5).
+
+         (A) When a sidewalk shed is required in connection with the erection of a structure, the construction of the structure shall stop at forty feet above the curb, unless and until such sidewalk shed has been completed. Such shed shall remain in place until the structure is enclosed, sash is glazed above the second story, masonry is cleaned down and all outside handling of material above the second story is completed.
+
+         (B) When a sidewalk shed is required in connection with the demolition of a structure, such sidewalk shed shall be completed before performing any work of demolition.
+
+      (vii) Lighting of sidewalk sheds (§ C26-557.0,6). The under side of the sidewalk shed shall have sufficient natural or artificial light to insure safety, which light shall be maintained at all times.
+
+      (viii) Fences permitted in lieu of sidewalk sheds (C26-557.0,7). If the structure to be demolished is more than twenty-five feet high above the curb, or if the structure is to be erected to a height exceeding forty feet above the curb, and if the horizontal distance from the structure to the inside edge of the sidewalk or relocated temporary sidewalk is between one-half and three-quarters of the height of the structure, a shed shall be constructed over the sidewalk as described above, or, in place of such shed, a substantial fence shall be constructed along the inside edge of such sidewalk or relocated temporary sidewalk or along the inside edge of the roadway, if permission to close the sidewalk has been granted by the superintendent. Such fence may be constructed outside of the curb to such extent as may, on the recommendation of the superintendent, be approved by the borough president, but in any event, such fence at its ends shall be returned to within two feet of the building line. Such fence shall be at least six feet high of wood or other suitable material and shall be built solid for its entire length, except for such openings provided with sliding gates, or gates swinging inward, as may be necessary for the proper prosecution of the work.
+
+      (ix) Railings permitted in lieu of sidewalk sheds or fences (§ C26-557.0,8).
+
+         (A) If a structure to be demolished is more than twenty-five feet high above the curb, or if the structure is to be erected to a height exceeding forty feet above the curb, and if the horizontal distance from the structure to the inside edge of the sidewalk or relocated temporary sidewalk is three-quarters of the height of the structure or more, a shed or fence shall be constructed as described above, or in place of such shed or fence, a substantial railing shall be constructed along the inside edge of the roadway, if permission has been granted to close the sidewalk. Such railing at its ends shall be returned to within two feet of the building line and shall be continuous for its entire length, except for such openings, provided with movable bars as may be necessary for the proper prosecution of the work.
+
+         (B) At the discretion of the superintendent, thrustout platforms or other suitable protections may be substituted for sidewalk sheds, fences and railings during alterations or under other conditions which in his judgment permit of such substitution. It shall be unlawful to use such thrustout platforms or other protections for the storage of material.
+
+      (x) Foot bridges (§ C26-558.0). When a foot bridge is used to support the temporary sidewalk in front of a structure during construction or demolition, it shall be substantially built to sustain safely a minimum live load of one hundred fifty pounds per square foot. Such foot bridge shall be provided with hand-rails on both sides and shall be provided at both ends with substantial steps with hand-rails or with inclined ramps with hand-rails and with cleats to prevent slipping.
+
+      (xi) Sidewalk sheds – when to remove. Sidewalk sheds shall remain in place until the structure is completed as provided in 2 RCNY § 3-02(e)(16)(vi) or in the case of demolished portions, until the building or structure has been razed to a point within the height of the shed.
+
+      (xii) Protection of floor openings (§ C26-555.1). All floor openings within a building in the course of construction shall be enclosed or fenced in on all sides by a barrier of suitable height, except on those sides which may be used for the handling of materials hoisted through such openings, or at which stairs or ladders land; provided, that such sides, other than landings, shall be guarded by an adjustable barrier not less than three nor more than four feet from the floor and not less than two feet from the edge of such opening. This requirement shall also apply to structures being repaired, altered or demolished. For additional requirement as to floor openings in buildings being demolished see 2 RCNY § 3-02(i)(15).
+
+      (xiii) Danger signs and lights. Every material pile, every obstruction to the public on a sidewalk or on a street, and every excavation or opening immediately adjacent to a street or public thoroughfare unless protected by a standard guard rail shall be indicated during daylight hours by red flags or signs placed at intervals of not more than twenty (20) feet. During twilight hours and during the night there shall be provided at such point where a sign or a flag is required, a red lantern, red light or an oil flare, which shall be kept burning from sundown to sunrise. Danger signs shall also be provided when hoisting material over the sidewalk or street.
+
+      (xiv) Slippery and other unsafe conditions. Every sidewalk, walkway, runway, passageway, stairway, scaffold, platform and every other working area shall be maintained free from ice, grease and other conditions which may render such surface slippery and dangerous. All such places shall be kept free from debris and shall be maintained in safe condition without obstructions which may constitute a tripping or falling hazard.
+
+      (xv) Illumination. Every sidewalk, passageway, walkway, runway, stairway and every working area shall at all times during use be provided with natural or artificial illumination of not less than two (2) foot candle intensity measured at the floor or walking surface. See Table I.
+
+      (xvi) Sizes and stresses of materials to be used over all protective equipment. Materials, sizes and stresses shall be as provided in 2 RCNY § 3-02(j)(2).
+
+      (xvii) Protection of trees. No trees outside the building line shall be disturbed or removed without the permission of the Commissioner of Parks and Recreation. Adequate protection of sufficient height shall be provided around the trunks of all trees on all street fronts of the construction site, as defined in 2 RCNY § 3-02(d) "Construction site." No caustic or acid materials shall be mixed within ten feet of any tree.
+
+   (17) Storage of material and equipment.
+
+      (i) Building material.
+
+         (A) Permit (§ 19-122(a)* Administrative Code). The president of each borough shall have power to grant permits to builders to occupy not more than one-third of the roadway of any street with building material if, in his opinion, the interests and conveniences of the public will not suffer thereby. At the time of placing such material in the street, the permit, so granted shall forthwith be posted in a conspicuous space on or near the material and shall be kept there so as to be readily accessible to inspection.
+
+         (B) Conditions (§ 19-122(b)** Administrative Code). Such permits shall provide expressly that they are given upon condition that the sidewalks and gutters shall at all times be kept clear and unobstructed, and that all dirt and rubbish shall be promptly removed from time to time by the person obtaining such permit. All such permits may be revoked by the borough president, at pleasure.
+
+         (C) Deposit (§ 19-122(c)*** Administrative Code). It shall be unlawful to grant any such permit to any builder unless, at the time such permit is granted, he shall have on deposit with the borough president the sum of fifty dollars as a guarantee that he will promptly comply with the conditions of all permits which may so be granted, including the prompt removal of all dirt and rubbish placed upon the street from time to time, and also for the prompt removal of any building material placed upon any street thereunder, after the expiration or revocation of any such permit. Each borough president is authorized and empowered to use so much of the moneys so deposited as may be required to effect the prompt removal of such dirt or rubbish as may, from time to time, be left upon the streets by the person making the deposit, and also for the purpose of removing any building material which may remain thereon, after the expiration or revocation of any permit under which it was so placed. In case any such deposit shall become impaired or exhausted, through use by a borough president in the removal of dirt, rubbish, or building material, the amount shall be made up immediately, to the sum of fifty dollars, on notice from the borough president, and, in default thereof, all permits theretofore issued to the builder failing to comply with such notice shall be revoked, and no permit shall be thereafter granted to him until such deposit be made good. Any builder may at any time withdraw his deposit if at the time he holds no unexpired permits and has fully complied with all the conditions of all such permits. Otherwise he shall be entitled only to withdraw and receive as much of the deposit as may remain unexpended after the provisions of this subparagraph (C), relative to the use of such money for the removal of dirt, rubbish or building material, as the case may be, have been carried into effect.
+
+         (D) Restrictions (§ 19-122(d)* Administrative Code). In a street upon which there is a railroad, materials shall not be placed nearer to the track than two (2) feet. In no case shall building material be placed upon, nor shall mortar, cement or other material be mixed upon, the pavement of a street paved with asphalt, asphalt block or wood, except under a permit issued by the borough president having jurisdiction, which shall contain a provision that such pavement shall be protected by first laying planks thereon. Borough presidents, or other officers issuing permits to builders to use the streets, shall insert in each such permit a clause requiring compliance with this provision.
+
+         (E) Unauthorized obstructions (§ 19-122(e)** Administrative Code). Whenever any wood, timber, stone, iron or other building material has been or shall be placed in or upon any street, without a permit, the borough president having jurisdiction shall forthwith cause the same to be taken up and removed.
+
+      (ii) All building material shall be stored in a safe and orderly manner, and so located that such piles of material do not obstruct any passageway, walkway, stairway, or sidewalk. Material or equipment shall not be stored upon a temporary or permanent floor in such quantity as to exceed the safe carrying capacity of the floor. Scaffolds and similar working platforms are not to be used as a storage space for material or equipment.
+
+   (18) Storage and disposal of debris.
+
+      (i) All debris, waste material and the like shall be stored as required under 2 RCNY § 3-02(e)(17). Broken glass and sharp metal objects shall be removed to a location which will eliminate the possibility of accidental contact by workmen. Boards, planks, and timbers, unless stored in a location remote from accidental contact by workmen, shall have all nails hammered down or removed.
+
+      (ii) Cellars may be permanently filled to grade with clean debris, such as mortar, plaster, brick, stone or other incombustible material that will not cause voids in the fill. (See 2 RCNY § 3-02(f)(12)).
+
+   (19) Corrosive substances. All lime, acid, and other corrosive substances shall be so stored and so used as not to endanger the workmen or the public.
+
+   (20) Employees' welfare. There shall be provided on every construction site a sufficient number of temporary water closets, chemical toilets, or privies at the rate of not less than one (1) unit for each 30 persons or fraction thereof. There shall be provided in adequate locations a sufficient supply of faucets connected to the city mains for drinking water. Facilities shall be provided to render first aid and an adequate first aid kit shall be kept in the job supervisor's office at all times. There shall be prominently posted in the job supervisor's office a list of doctors, phone number and the address of the nearest hospital. Suitable approved protective equipment shall be provided for every employee engaged in operations hazardous to the eyes and head and all employees when so engaged shall be required to wear or use such equipment.
+
+   (21) Life-lines, safety-belts or life-nets. Where it is not practical to afford other means of protection as provided in these rules, life lines and safety belts shall be provided for workmen exposed to the danger of falling from locations where the combination of adequate footing and holding on with the hands does not exist, such as on steep roofs, narrow ledges, high parapets, skeleton beams, etc. However, this paragraph (21) shall not apply to regular structural steel erectors, riggers, elevator constructors and those of similar trade whose work is of such nature that the use of such life line and safety belt would produce an additional hazard or where a life net safety barrier or other adequate protection has been provided for such workmen. Every life-line, safety-belt or life-net shall be of an approved type and shall be inspected in accordance with 2 RCNY § 3-02(e)(1), "Inspection of devices and equipment" at least once each week.
+
+   (22) Housekeeping. Every sidewalk, stairway, passageway, ramp and similar walkway shall be kept free and clear from material, supplies and obstructions of every kind. Tools and materials shall not be strewn about on floors or platforms or in any working area. Protruding nails and sharp projections shall be removed, hammered down, bent over, or otherwise guarded to prevent injury by accidental contact.
+
+(f) Excavation operations. 
+
+   (1) Owner (§ C26-383.0). The responsibility of affording any license referred to in §§ C26-383.0 through C26-390.0, and §§ C26-561.0 through C26-570.0, shall rest upon the owner but in case the tenant of any such owner fails or refuses to permit such owner to afford such license, such failure shall be a cause to the owner for dispossessing such tenant through proceedings provided in the civil practice act for recovering possession of real property. In case the duty devolves upon such owner to make his premises safe under any of the provisions of §§ C26-383.0 through C26-390.0 and §§ C26-561.0 through C26-570.0, such owner shall have a like remedy against a tenant of a part of the premises.
+
+   (2) Excavations affecting adjoining property (§ C26-384.0a). Temporary support of adjoining property. Any person causing any excavation to be made shall provide such sheet piling and bracing as may be necessary to prevent the earth of adjoining property from caving in before permanent supports have been provided for the sides of such excavation.
+
+   (3) Permanent support of adjoining property (§ C26-384.0b). Whenever provisions are lacking for the permanent support of the sides of an excavation in accordance with the provisions of § C26-563.0, a person causing such excavation to be made shall build a retaining wall at his own expense and on his own land. Such retaining wall shall be carried to a height sufficient to retain the adjoining earth, shall be properly coped and shall be provided with a substantial guard rail or fence four feet high.
+
+   (4) License to enter adjoining premises (§ C26-384.0c). For the purposes of 2 RCNY § 3-02(f)(2) and (3), any person causing an excavation to be made shall be afforded the license necessary to enter the adjoining premises. If such license is not afforded, the owner of the adjoining premises shall have the responsibility of providing temporary and permanent support of his premises at his own expense, and for that purpose such owner shall be afforded the license necessary to enter the premises where such excavation is to be made.
+
+   (5) Excavations affecting adjoining structures.
+
+      (i) Excavations more than ten feet deep (§ C26-385.0a). Whenever an excavation is carried to a depth of more than ten feet below the curb, the person who causes such excavation to be made shall, if afforded the license necessary to enter the adjoining premises, at all times and at his own expense, preserve and protect from injury any structure the safety of which may be affected by such part of the excavation as extends more than ten feet below the curb, and such person shall support the adjoining structure by proper foundations, whether or not such structure is more than ten feet below the curb. If the necessary license is not afforded to the person causing the excavation to be made, it shall be the duty of the owner who fails to afford such license to make the structure safe, and to support such structure by proper foundations, and such owner shall, if it is necessary for such purpose, be afforded the license necessary to enter the premises where such excavation is to be made.
+
+      (ii) Excavations ten feet or less in depth (§ C26-385.0b). The owner of any structure the safety of which may be affected by an excavation, shall preserve and protect such structure from injury and shall support such structure by proper foundations, except as otherwise provided in 2 RCNY § 3-02(f)(5)(i) and shall, if it is necessary for such purpose, be afforded the license necessary to enter the premises where the excavation is to be made.
+
+      (iii) Support of party walls (§ C26-385.0c). In case an adjoining party wall is intended to be used by the person who causes an excavation to be made, and such party wall is in good condition and sufficient for the uses of the existing and proposed buildings, such person shall, at his own expense, preserve such party wall from injury and support it by proper foundations, so that it shall be and remain practically as safe as it was before the excavation was commenced.
+
+      (iv) Weather protection (§ C26-385.0d). Where permission has been given under this paragraph (5) to any person to enter any adjoining structure, such person shall provide for such adjoining structure adequate protection against any danger of injury due to the elements which may result from such entry.
+
+   (6) Conduct of excavating operations. All excavation work in connection with the erection, repair, construction or alteration, of any building or structure shall be conducted in a thoroughly workmanlike and safe manner. All equipment used in connection with excavation work shall be inspected, erected and maintained in safe working condition, during the entire time of the excavation work as provided in 2 RCNY § 3-02(e)(1).
+
+   (7) Structures unsafe at commencement of excavation or demolition (§ C26-386.0). If the person who causes an excavation to be made or an existing structure to be demolished has reason to believe an adjoining structure is unsafe, such person shall forthwith report his belief in writing to the superintendent, who shall cause an inspection of such premises to be made, and if such structure is found unsafe, he shall declare such structure unsafe and shall cause it to be repaired as provided in §§ C26-193.0 through C26-201.0.
+
+   (8) Physical examination of adjoining property prior to and during excavation or demolition (§ C26-387.0). A license to enter upon adjoining property for the purpose of physical examination of such property, prior to the commencement and at reasonable periods, during the progress of the excavation or demolition, shall be afforded by the owner and tenants of such adjoining property to the persons causing such excavation or demolition to be made.
+
+   (9) Protection at excavations (§ C26-389.0). Guards or fences shall be provided along the open sides of excavations, except that, in the discretion of the superintendent, such guards or fences may be omitted from any side or sides other than such as are adjacent to streets or public passageways. Suitable means of exit from excavations shall be provided. Railing, fence or solid enclosure shall not be less than forty-two (42) inches in height. Such portions of the railing as are adjacent to a public thoroughfare shall be provided with danger lights at night. From every excavation there shall be provided at all times ladders, stairways or ramps to provide for the safe access to, and egress from, such excavation. Such ladders, stairways or ramps shall be in compliance with the requirements of 2 RCNY § 3-02(j) relating to such means of access or egress and shall be installed in sufficient number and in such location as to be readily accessible. Such means of access or egress shall not be more than one hundred (100) feet from any point in the excavation.
+
+   (10) Shoring, bracing and sheet-piling. The sides of every open excavation five (5) feet or more in depth where the earth is not sloped to the angle of repose of the material and where because of the composition of the soil, climatic conditions, depth of excavation or construction operations there may be produced an unsafe condition, shall be securely held by adequate timber bracing. Bracing for trenches shall be at least as provided in Table A and Table B.
+
+TABLE A MINIMUM SIZES OF BRACING AND SHEET-PILING FOR NARROW TRENCHES 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - TRENCHES – Not more than four (4) feet in width.
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+    * -  
+      -  – Sheet-piling –
+      - 
+      -  – Stringers –
+      - 
+      -  – Cross Bracing –
+      - 
+    * - Depth of trench in feet 
+      - Size 
+      - Horizontal spacing 
+      -  Size 
+      - Vertical spacing 
+      - Size 
+      - Horizontal spacing 
+    * - 
+      - (a) Hard and Solid Soil 
+      - 
+      - 
+      - 
+      - 
+      - 
+    * - 5'-10'
+      - 2×6 
+      - 6 feet 
+      - 2×6 
+      - 6 feet 
+      - 2×6 
+      - 6 feet 
+    * - 10'-15'
+      - 2×6 
+      - 4 feet 
+      - 2×6 
+      - 6 feet 
+      - 2×6 
+      - 5 feet 
+    * - More than 15'
+      - 2×6 
+      - tight 
+      - 4×8 
+      - 4 feet 
+      - 4×8 
+      - 6 feet 
+    * -  
+      - (b) Soil Likely to Crack or Crumble 
+      - 
+      - 
+      - 
+      - 
+      - 
+    * - 5'-10'
+      - 2×6 
+      - 3 feet 
+      - 2×6 
+      - 5 feet 
+      - 2×6 
+      - 5 feet 
+    * - 10'-15'
+      - 2×6 
+      - 2 feet 
+      - 2×6 
+      - 4 feet 
+      - 2×6 
+      - 4 feet 
+    * - More than 15'
+      - 2×6 
+      - tight 
+      - 4×10 
+      - 4 feet 
+      - 4×10 
+      - 6 feet 
+    * - 
+      - (c) Soft, Sandy, Filled-in or Loose Soil 
+      - 
+      - 
+      - 
+      - 
+      - 
+    * - 5'-10'
+      - 2×6 
+      - tight 
+      - 4×6 
+      - 6 feet 
+      - 4×6 
+      - 6 feet 
+    * - 10'-15'
+      - 2×6 
+      - tight 
+      - 4×6 
+      - 5 feet 
+      - 4×6 
+      - 6 feet 
+    * - More than 15'
+      - 2×6 
+      - tight 
+      - 4×12 
+      - 4 feet 
+      - 4×12 
+      - 6 feet 
+    * - 
+      - (d) Where Hydrostatic Pressure Exists 
+      - 
+      - 
+      - 
+      - 
+      - 
+    * - To 10'
+      - 2×6 
+      - tight 
+      - 6×8 
+      - 4 feet 
+      - 6×8 
+      - 6 feet 
+    * - More than 10'
+      - 3×6 
+      - tight 
+      - 6×10 
+      - 4 feet
+      - 6×10 
+      - 6 feet 
+    * - Steel sheet-piling and bracing, of equivalent strength may be substituted for wood sheet-piling and timber bracing. 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+~
+
+ 
+
+TABLE B MINIMUM SIZES OF BRACING AND SHEET – PILING FOR WIDE TRENCHES 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - TRENCHES – Not more than eight (8) feet in width. 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+    * -  
+      -  – Sheet-piling –
+      - 
+      -  – Stringers –
+      - 
+      -  – Cross Bracing –
+      - 
+    * - Depth of trench in feet
+      - Size 
+      - Horizontal spacing 
+      -  Size 
+      - Vertical spacing 
+      - Size 
+      - Horizontal spacing 
+    * - 
+      - (a) Hard and Solid Soil 
+      - 
+      - 
+      - 
+      - 
+      - 
+    * - 5'-10'
+      - 2×6 
+      - 6 feet 
+      - 4×6 
+      - 4 feet 
+      - 4×6 
+      - 6 feet 
+    * - 10'-20'
+      - 2×6 
+      - tight 
+      - 6×6 
+      - 4 feet 
+      - 6×6 
+      - 6 feet 
+    * - More than 20'
+      - 2×6 
+      - tight 
+      - 6×8 
+      - 4 feet 
+      - 6×8 
+      - 6 feet 
+    * - 
+      - (b) Soil Likely to Crack or Crumble 
+      - 
+      - 
+      - 
+      - 
+      - 
+    * - 5'-10'
+      - 2×6 
+      - 3 feet 
+      - 4×6 
+      - 4 feet 
+      - 4×6 
+      - 6 feet 
+    * - 10'-20'
+      - 2×6 
+      - tight 
+      - 6×6 
+      - 4 feet 
+      - 6×6 
+      - 6 feet 
+    * - More than 20'
+      - 2×6 
+      - tight 
+      - 6×8 
+      - 4 feet 
+      - 6×8 
+      - 6 feet 
+    * - 
+      - (c) Soft, Sandy, Filled-in or Loose Soil 
+      - 
+      - 
+      - 
+      - 
+      - 
+    * - 5'-10'
+      - 2×6 
+      - tight 
+      - 4×6 
+      - 4 feet 
+      - 4×6 
+      - 6 feet 
+    * - 10'-20'
+      - 2×6 
+      - tight 
+      - 6×6 
+      - 4 feet 
+      - 6×6 
+      - 6 feet 
+    * - More than 20'
+      - 2×6 
+      - tight 
+      - 6×8 
+      - 4 feet 
+      - 6×8 
+      - 6 feet 
+    * - 
+      - (d) Where Hydrostatic Pressure Exists 
+      - 
+      - 
+      - 
+      - 
+      - 
+    * - To 10'
+      - 2×6 
+      - tight 
+      - 6×8 
+      - 4 feet 
+      - 6×8 
+      - 6 feet 
+    * - More than 10'
+      - 3×6 
+      - tight 
+      - 8×10 
+      - 4 feet 
+      - 6×10 
+      - 6 feet 
+    * - Steel sheet-piling and bracing, of equivalent strength may be substituted for wood sheet-piling and timber bracing.
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+~
+
+ 
+
+   (11) Placing of construction material. Excavated material, building material and superimposed loads such as equipment, etc., shall not be placed closer to the edge of the excavation than a distance equal to 1 1/2 times the depth of such excavation, unless the sides of the excavation have been sheet-piled and shored to provide for such superimposed loads. Such sheetpiling shall extend above the natural level of the ground to a sufficient height to prevent any loose material from falling into the excavation.
+
+   (12) Abandoned foundations – safety and protection (§ C26-390.0). Any abandoned foundation which shall become unsafe, menacing or dangerous to life or limb, shall be filled in, as the superintendent may require, with clean ashes, sand or earth or otherwise made safe and secure. (See 2 RCNY § 3-02(e)(18)(ii))
+
+(g) Erection of buildings and structures.
+
+   (1) Compliance with plans, laws and regulations (§ C26-178.0).
+
+      (i) It shall be unlawful to construct any structure, or any plumbing, except in accordance with the approved detailed statement of specifications and plans, for which the permit was issued, or any approved amendment thereof. A certified copy of the approved plans shall be kept at all times on the premises from the commencement of the work to the completion thereof, except that this requirement may be waived by the superintendent where he deems compliance with it is unnecessary.
+
+      (ii) Permits for construction or equipment of a structure issued by the superintendent shall be deemed to incorporate the proviso that the applicant, his agent, employees or contractors shall use only approved materials, appliances and methods of construction and shall carry out the proposed work in accordance with the approved plans and with all requirements of this section and any other laws or regulations applicable thereto, whether specified or not.
+
+   (2) Loading of structures during construction or demolition (§ C26-551.0). It shall be unlawful to load or cause to be loaded any structure, or any temporary support or scaffolding or any sidewalk or sidewalk shed or bridge or any device or equipment, during construction or demolition, in excess of its safe carrying capacity.
+
+   (3) Permits for construction or alteration (§ C26-161.0).
+
+      (i) Before the construction or alteration of any structure or any part of a structure, shall be commenced and before the construction or alteration of the plumbing of any structure or premises shall be commenced, the owner, or registered architect or licensed professional engineer employed by the owner, shall submit to the superintendent a statement in triplicate, on appropriate blanks furnished by the superintendent, describing the proposed work, and such computations, plans, and detail drawings as the superintendent may require. Such statement shall constitute an application for a permit. Such statement shall be accompanied by a further statement in writing, sworn to before a notary public or commissioner of deeds, giving the full name and residence of each of the owners of the structure, proposed structure or premises, and, except as otherwise herein provided in §§ C26-161.0 through C26-188.0, by a diagram of the lot or lots showing the established grade and the existing surface elevation of the street, if any, on which the construction is to be made, the exact location of any proposed new construction and of all existing structures that are to remain including information as to the occupancy of such structures.
+
+      (ii) In the case of an interior alteration or a minor exterior alteration to an existing structure the filing of a lot diagram shall not be required unless the superintendent deems it to be necessary because of special conditions.
+
+      (iii) In the case of minor alterations which do not involve a structural change and which in the opinion of the superintendent do not require the filing of plans, a statement describing such minor alterations shall be submitted to the superintendent on such form as he may designate.
+
+      (iv) When plans are required to be filed, and such plans contemplate structural changes or structural work affecting public health or safety, they shall be accompanied by an affidavit of a licensed architect or a licensed professional engineer stating that he has supervised the preparation of the plans and that to the best of his knowledge and belief the structure, if built in accordance with the plans, will conform to the Administrative Building Code and to the rules of the board, and will not conflict with any provision of the charter, the multiple dwelling law, the labor law, the general city law, the building zone resolution, or any other provision of law applicable thereto, except as specifically noted otherwise.
+
+      (v) If a licensed professional engineer has been employed in the preparation of the structural or mechanical design, the structural or mechanical plans shall be accompanied by his affidavit stating that the structural or mechanical design drawings prepared under his supervision, to the best of his knowledge and belief, conform with the laws governing building construction, except as specifically noted otherwise.
+
+      (vi) If there are practical difficulties or unnecessary hardships in the way of carrying out the strict letter of the law, the affidavit of the licensed architect or licensed professional engineer shall state the nature of such difficulties or hardships.
+
+      (vii) Before a permit is issued, the owner or his authorized agent shall furnish the commissioner with the name and address of the person who is to supervise the construction, in accordance with § C26-187.0, with power of substitution upon written notice to the commissioner.
+
+   (4) Conduct of operations. All work in connection with the erection, repair or alteration of any building or structure shall be conducted in a thoroughly workmanlike and safe manner. All equipment used in connection with construction operations shall be provided, erected and maintained in safe working condition during the entire term of the construction, as provided in 2 RCNY § 3-02(j), "Equipment".
+
+   (5) Protection of construction from cold weather.
+
+      (i) Concrete. It shall be unlawful to deposit concrete which has a temperature of less than 50° Fahrenheit. The concrete shall be maintained at a temperature of at least 50° Fahrenheit for at least 72 hours or until it has thoroughly hardened. § C26-502.0,d. For high early strength cement concrete such temperature shall be maintained for not less than 24 hours. Adequate equipment shall be provided for heating the concrete materials and protecting the concrete during freezing weather. The heat furnished during the curing period shall be saturated with moist vapor by means of pans of water used with salamanders or steam lines. All concrete materials including reinforcing steel and forms shall be free from frost. The protection used during the curing shall remain in place and intact for a period of at least 24 hours after the artificial heating has been discontinued. The use of admixtures for the prevention of freezing shall not be permitted.
+
+      (ii) Masonry protection during freezing weather. Masonry shall be protected against freezing until such time as the setting of the cementing material has advanced far enough to prevent any displacement of such masonry. It shall be unlawful to use any frozen material or to build upon any frozen masonry or frozen soil. § C26-414.0. All bricks and mortar material shall be protected from the elements and free of ice, and prior to use shall have all frost or ice removed. After the mortar has been mixed it shall be maintained at a temperature of not less than 35° Fahrenheit from the time it is mixed until it is placed in the masonry. All work shall be protected against freezing for a period of 48 hours by means of enclosures and artificial heat similar to that provided for in 2 RCNY § 3-02(g)(5)(i) "Concrete". The use of admixtures for the prevention of freezing shall not be permitted.
+
+      (iii) Plastering in freezing weather. When plastering is in progress and until such plastering has become thoroughly dry, the structure shall be enclosed and heated in freezing weather. § C26-467.0,c. The enclosures and methods of heating and ventilating shall be as provided for in "Concrete" 2 RCNY § 3-02(g)(5)(i) and "Salamanders", 2 RCNY § 3-02(e)(7).
+
+   (6) Temporary floors in buildings in the course of construction. Buildings or structures or skeleton construction. In buildings or structures of skeleton steel construction a temporary floor filling, or floor filling forms, except for temporary shaftway openings, shall be installed as the erection progresses and there shall be not more than eight (8) stories of erected steel above the uppermost floor filling. A temporary plank floor shall be provided not less than two (2) tiers below the tier of beams on any skeleton steel structure, on which bolting, riveting, welding or painting is being done and at every other floor level at which the permanent floor filling or the floor filling forms have not been provided. Such temporary flooring shall cover the entire tier of beams, except for such spaces as are required for access to ladders and stairways and for hoisting purposes. The planks for such temporary floor shall be free from protruding nails and splinters and shall be not less than two (2) inches in thickness for a span of up to and including ten (10) feet. The planks shall be laid close together, supported on a solid bearing, and the ends over-lapped at least four (4) inches and securely fastened to the framework of the structure. In buildings or structures having wood floor construction rough flooring shall be laid on each tier of joists as the structure progresses and the floor next below where any work is being performed shall be entirely floored over, except for such spaces as are required for access to ladders and stairways and for hoisting purposes. Such rough flooring shall consist of boards not less than seven-eighths (7/8) inch in thickness. In non-fireproof buildings, where stair halls or floor areas are of fireproof construction, the floor arch forms shall be installed as the work progresses which shall be not more than two (2) stories below the story on which any brickwork or masonry is being erected.
+
+   (7) Temporary stairs. In every building or structure, the permanent stairways shall be installed as soon as working conditions permit but when work on a building has progressed to a height of more than fifty (50) feet above grade and it is found impracticable to install permanent stairways, one temporary stairway extending from grade to the top of the structure, and continued up as the work progresses, shall be installed and shall remain in place until the permanent stairways shall have been completed. Such temporary stairs shall be in compliance with the requirements of 2 RCNY § 3-02(e)(4) and (j)(11). Where permanent or temporary stairways or suitable ramps or runways are not provided, ladders shall be provided to give access to all floors. Such ladders shall remain in place until the temporary or permanent stairs are provided and are ready for use.
+
+(h) Repair and alteration operations.
+
+   (1) Removal or repair of structures (§ C26-193.0). Any structure or part of a structure or premises that from any cause may at any time become dangerous or unsafe, structurally or as a fire hazard, shall be taken down and removed or made safe and secure. A vacant building unguarded or open at door or window shall be deemed dangerous or unsafe as a fire hazard within the meaning of this article.
+
+   (2) Ordinary repairs excepted from permit requirements (§ C26-171.0).
+
+      (i) Ordinary repairs to structures may be made without application or notice to the superintendent, but such repairs shall not include the cutting away of any wall or any portion thereof, the removal or cutting of any beams or supports, or the removal, change or closing of any stairway or required means of exit.
+
+      (ii) Ordinary repairs to the plumbing system may be made without application or notice to the superintendent, but such repairs shall not include addition to, or alteration, replacement or relocation of any standpipe piping, water distribution piping, house sewer, private sewer, or drainage system including leaders, or any soil, waste or vent pipe, or any gas distribution system.
+
+   (3) Conduct of repair and alteration operations. All work in connection with the repair or alteration of a building or structure shall be conducted in a thoroughly workmanlike and safe manner. All equipment used in connection with repair and alteration operations shall be inspected as provided for in 2 RCNY § 3-02(e)(1), erected and maintained in good working condition during the entire time of the operations as provided in 2 RCNY § 3-02(j). The operations to be performed shall be in accordance with the pertinent provisions of these rules.
+
+      (i) Demolition operations. 
+
+   (1) Notice to demolish (§ C26-168.0). Before any structure or part of a structure is demolished, a statement in writing, on appropriate blanks to be furnished by the department, which shall constitute a notice to demolish, shall be submitted to the superintendent by the owner or any person authorized by the owner, giving the full name and residence of each of the owners of the structure to be demolished, the name and business address of the person who is to do the work and such other information respecting the structure as the superintendent may require. Such notice shall be submitted before the work of demolition is commenced and the superintendent shall issue a permit upon approval of such notice. Where a building is to be partly demolished, the provisions of § C26-161.0 shall be complied with.
+
+   (2) Loading of structures during demolition. Precautions to be observed in the loading of structures during demolition shall be in accordance with 2 RCNY § 3-02(g)(2). Before any material is stored on any floor, the existing flooring adjacent to the bearing walls shall be removed and ends of floor beams in the bearing walls shall be carefully examined as to their condition and the amount of bearing on the bearing wall. If they are found to be in poor condition or with insufficient bearing, no material shall be deposited on the floor until these beams are shored from the cellar floor through each successive floor. No bearing partition shall be removed from any floor until the floor beams on the next floor above have been removed and lowered. All header beams and headers at stair openings and chimneys shall be carefully examined and if necessary shall be shored from the cellar floor through the successive floors.
+
+   (3) Conduct of demolition operations. All demolition operations and equipment in connection with the construction, erection, repair, alteration or razing of any building or structure shall be conducted in a thoroughly workmanlike and safe manner as provided in 2 RCNY § 3-02(g)(4). Demolition shall proceed systematically floor by floor and all work on upper floors shall be completed before supporting members and stair and shaft enclosures below are disturbed. Work on an upper floor shall be considered completed when the steel has been exposed even if the steel has not been dismembered and removed. All enclosed stairs and enclosed shafts in a building under demolition shall be maintained enclosed on all floors except on the uppermost floor being demolished. Demolition of these enclosures shall proceed only on the uppermost floors and only when general demolition of the uppermost floor has been started. All hand rails and bannisters on stairs shall be left in place on each floor until actual demolition of the floor is in process.
+
+   (4) Adjoining building protection.
+
+      (i) Protection of adjacent structures. Structures unsafe at commencement of excavation or demolition shall comply with requirements of 2 RCNY § 3-02(f)(7) and (8). No further demolition shall be performed at that point until an approval to continue such work has been issued by the superintendent.
+
+      (ii) Protection of party walls during demolition (§ C26-568.0).
+
+         (A) Party walls. When a structure containing a party wall is being demolished, the owner of the demolished structure shall, at his own expense, bend over the anchors at the beam ends in the standing wall and shall brick in all open beam holes.
+
+         (B) Party wall fire escape balconies. No party wall balcony fire exit shall be demolished or removed when such demolition or removal will destroy the full effectiveness of such party wall balconies as means of egress, unless and until the owner of the structure from which the party wall balcony is to be removed has erected or legally obligates himself to erect on the structure to be deprived of a required means of egress, a legal fire escape meeting the requirements of the superintendent. All beams in party walls shall be cut off close to the walls and stub ends removed without weakening masonry and beam pockets cleaned of loose mortar, and bricked up and bonded into the wall with sound brick and cement mortar. Tee anchors shall be provided on each sixth floor beam or sixth roof beam, except that the Borough Superintendent may require closer spacing of such anchors when required for the safety of these walls. Roofing material of adjoining buildings shall be bent over and flashed. All door or other openings in party walls shall be adequately sealed. Cornices where cut shall be properly sealed. Parapet and front and rear walls where disturbed shall be pointed up and made weather tight. All exposed furring, lath and plaster on party walls shall be removed. Roofs, skylights and flues of adjoining buildings shall be protected from damage from demolition by the demolition contractor provided he is granted the necessary license to enter the adjoining premises for that purpose.
+
+   (5) Removal of gas, electric and water service.
+
+      (i) All gas, electric, water, steam and other supply lines shall be shut off and capped as required by the appropriate City agencies, before starting demolition, except that where it is necessary to maintain any power, water, gas or electric lines during demolition, such lines shall be protected as required by the appropriate City agencies.
+
+      (ii) Sewer connections to be sealed (§ C26-553.0). When a structure which has connections with a sewer is demolished, all sewer connections shall be sealed off in a manner satisfactory to the borough president.
+
+   (6) Precautions before commencing demolition. Before demolition is started, the cellar and all floors shall be thoroughly cleared of all furniture and other combustible personal property and all fixtures and equipment which would cause voids in the fill removed. If the cellar is to be filled to grade, the existing cellar floor shall be broken up to provide ground drainage and prevent accumulation of water. If the cellar is not to be filled, adequate cellar drainage shall be provided.
+
+   (7) Removal of glass. Before the commencement of the actual demolition, all glass in windows, doors, skylights and glazed windows and glass in furnishings shall be removed.
+
+   (8) Boarding of windows and exterior wall openings. Every window or other opening in the exterior walls of any structure more than twenty-five (25) feet in height, unless such window or opening is so located as to preclude the possibility of injury to any person by material which may fall from such window or opening, shall be boarded up or otherwise substantially covered.
+
+   (9) Access to floors. There shall be provided at all times, safe access to and egress from every building and every floor in every building in course of demolition by means of unobstructed hallways, stairways or ladder runs so enclosed or so located as to protect the persons using them from falling materials. Access to any floor, except the top or working floor, of any building in the course of demolition shall be closed off unless the floor above is intact and all vertical openings are enclosed by a tight enclosure of not less than two (2) inch planking.
+
+   (10) Demolition of walls. Demolition shall proceed in an orderly manner and the work on the upper stories shall be completed before any of the supporting structural members on the lower stories are disturbed. Sections of masonry walls shall not be loosened or permitted to fall in such masses upon the floors of the building as to exceed the safe carrying capacity of such floors. No wall, chimney or other structural part shall be left in such condition that it may topple over due to wind, vibration or any other cause.
+
+   (11) Mechanical method of demolition. The mechanical method of demolition, whereby the wrecking of a building or part thereof, is accomplished by smashing the walls or floors with a heavy weight suspended by a cable from a boom or hoist, or whereby the walls are collapsed by the use of a power shovel, tractor or other mechanical contrivance, shall be permitted only in accordance with the following requirements.
+
+      (i) The building or structure or remaining portion thereof shall be not more than eighty (80) feet in height.
+
+      (ii) The zone of demolition as applied to a specific demolition operation shall be that area determined by the Superintendent.
+
+      (iii) Unless permitted by the Superintendent, such method shall not be used where any building occupied by one or more persons is located within the zone of demolition.
+
+      (iv) Such method shall not be used where access may be had to any space within the zone of demolition by persons other than the workmen performing demolition operations.
+
+      (v) Workmen performing demolition operations may enter buildings or spaces within the zone of demolition but such workmen, however, shall not be permitted on or within the structure being demolished nor shall such workmen, excepting the operating crew, be permitted within the zone of demolition while the mechanical device as above described is in actual operation.
+
+      (vi) Fences constructed in compliance with 2 RCNY § 3-02(e)(16)(viii) shall be erected to prevent persons other than workmen from entering the zone as established by the Superintendent.
+
+      (vii) The controls of mechanical devices used in such method of demolition shall be located and operated a safe and reasonable distance from the point of demolition.
+
+      (viii) Where a swinging weight is used the supporting cables shall be of such length or shall be so restrained that it is not possible for the weight to swing against any structure other than the structure being demolished.
+
+      (ix) The Superintendent may modify the requirements of this paragraph (11), if in his opinion circumstances of a specific operation warrant a modification and may impose greater restrictions and protective measures.
+
+   (12) Demolition of structural steel and heavy timbers. Steel construction and heavy timber construction shall be demolished column length by column length and tier by tier. Every structural member which is being dismembered shall not be under any load other than its own weight and such member shall be chained or lashed in place to prevent any uncontrolled swinging or dropping. Large structural members shall not be thrown or dropped from the building. However, when permitted by the superintendent, such members shall be slowly and carefully lowered by hoists equipped with adequate brakes and nonreversing safety devices.
+
+   (13) Demolition of floor arches. Before demolishing any floor arch, debris and other material shall be removed from the arch and from the surrounding floor area within a distance of twenty (20) feet from such arch. Planks not less than 2 × 9 in cross-section shall be laid close together with a span not more than 10 ft. for the workmen to stand on while breaking down floor arches between beams. Such planks shall be so located as to provide a safe support for the workmen should the arch between the beams collapse.
+
+   (14) Removal of material. Debris, bricks and other material shall not be thrown from floors to the ground or thrown from upper floors to lower floors but shall be removed
+
+      (i) by means of chutes constructed in compliance with 2 RCNY § 3-02(j)(27);
+
+      (ii) by means of buckets or hoists; or
+
+      (iii) through openings in the floors of the buildings in compliance with 2 RCNY § 3-02(i)(15) "Floor Openings." Large pieces of debris or structural members shall be slowly lowered to the ground or sidewalk bridges. The ground area to which material are lowered shall be barricaded and warning signs posted.
+
+   (15) Floor openings. The aggregate area of openings in any floor of a building in the course of demolition shall not exceed twenty-five (25) per cent of the entire floor area of such floor. The person in charge of demolition operations shall provide sheet-piling, shoring, bracing or such other means as may be necessary to insure the stability of the walls and to prevent any wall from collapsing due to the pressure of the accumulated material. Every opening used for the removal of debris in every floor except the top or working floor, shall be provided with a tight enclosure from floor to floor, equivalent to that afforded by planking not less than two inches in thickness. As an alternative in building when not more than six stories in height, such openings may be protected by a tight temporary covering equivalent to that afforded by planks not less than two inches in thickness and laid close. Wherever such covering has been temporarily removed to permit debris removal floor openings shall be protected by standard guard rails or railings constructed in accordance with 2 RCNY § 3-02(j)(10) and (13). No person shall be permitted access to within a horizontal distance of twenty feet from any opening through which debris is being dropped. Such covering shall be promptly replaced in position upon the ceasing of such work at the end of each work day. Every opening not used for the removal of debris in any floor shall be solidly planked over. Openings in the top or working floor more than sixteen (16) inches in least dimension shall be protected on all sides, except the side at which debris is deposited, by a guard rail or railing, or the sides of the opening shall be roped off at a distance of not less than two (2) feet from the edge of the opening by not less than a one-half (1/2) inch diameter rope securely tied to provide a guard of a height equivalent to that provided by the railing. Wherever men are employed in any work on a wall and a floor opening on the working floor is located immediately below the point at which such men are working there shall be provided a tight flooring not less than five (5) feet in width immediately adjacent to such wall.
+
+   (16) Demolition requiring scaffolds. Whenever workmen are engaged in the removal of any part of the building or structure, which part is more than twelve (12) feet above a floor, platform or the ground, there shall be provided for such workmen suitable scaffolds constructed in accordance with 2 RCNY § 3-02(j)(3) "Scaffolds" or life-lines and safety-belts, or life-nets in accordance with 2 RCNY § 3-02(e)(21) "Life-lines and Safety-belts or Life-nets".
+
+   (17) Catch platforms (§ C26-559.0).
+
+      (i) During the demolition of the exterior walls of a structure, originally more than seventy feet in height, catch platforms shall be erected along the street fronts and over public passageways. Such catch platforms shall be erected and maintained not more than three stories or 35 feet below the story from which the exterior walls are being removed until such demolition has progressed to within three stories of the ground level. They shall be constructed of planking laid close without openings between the planks or between the plank and the wall. The outside edge of the platforms shall be at least five feet horizontally from the wall of the structure and shall be higher than the inside edge. The supports shall consist of yellow pine or spruce outriggers three inches by twelve inches, placed on edge, and secured against turning, spaced not more than ten feet apart. Each outrigger shall have ample bearing on the structure and the inside end shall be adequately secured. The planking shall be at least two inches thick. Plank shall lap the supports at least one foot at each end or shall be secured to the supports to prevent displacement.
+
+      (ii) A fence of galvanized wire netting of at least No. 18 steel wire gauge and with mesh which will reject a ball five-eighths of an inch in diameter or of one inch boards laid close shall be provided along the outer edge and ends of the catch platform. Such fence shall be supported by substantial posts not more than ten feet apart, shall be pitched outward at an angle approximately forty-five degrees from the horizontal and shall be at least forty-six inches high, measured along the slope of the fence above the planking of the catch platform with which the fencing shall make a tight connection.
+
+      (iii) Catch platforms may be constructed of other materials and following other designs, if they provide strength and security from falling material equal to that provided by the details specified above, and are approved by the superintendent.
+
+      (iv) It shall be unlawful to use catch platforms for the storage of materials.
+
+   (18) Storage of material. Material shall not be stored on catch platforms, working platforms, floors or stairways of the building to be demolished, except that any one floor of a building may be used for the temporary storage of material when such floor is of such strength as to safely support the load to be super-imposed. Storage spaces shall not interfere with access to any stairway or passageway and suitable barricades shall be provided so as to prevent material from sliding or rebounding into any space used by the workmen or the public. All material shall be safely piled in such locations as will not interfere with any work nor present any hazard. Combustible debris and waste material from demolition shall not be allowed to accumulate in any area of the demolition site. Combustible material and combustible waste material in excess of 15 cu. yds. shall be removed daily before the close of the day's work.
+
+   (19) Burning at site. No debris shall be burned at the site.
+
+   (20) Fire Protection and Fire Extinguishers. In structures undergoing demolition which have existing standpipe systems, such system shall be maintained as dry standpipes. When demolition is started, the standpipe risers shall be capped above the outlet on the floor immediately below the floor being demolished so as to maintain the standpipe system on all lower floors for Fire Department use. Standpipe hose, nozzles and spanners are not required to be maintained and may be removed at any time. Siamese hose connections shall be kept free from obstruction and shall be marked by a metal sign reading, "Standpipe Siamese Connection" and by a red light at night. The standpipe system may be used for water supply necessary to demolition operations. In freezing weather such standpipe system shall be completely drained after use to prevent freezing. Existing standpipe system shall not be utilized to convey compressed air unless the standpipe system consists of two or more risers in which event one of the risers may be used to convey compressed air to any floor or portion of the premises upon application to and permission from the Fire Department. In structures undergoing demolition which have existing sprinkler systems with Siamese hose connections, such system shall be maintained as a non-automatic sprinkler system. When demolition starts, the sprinkler risers shall be capped immediately below the floor being demolished so as to maintain the sprinkler system on all lower floors for Fire Department use. Siamese hose connections shall be kept free from obstruction and shall be marked by a metal sign reading "Sprinkler Siamese Connection" and by a red light at night. At least one 40-gallon water cask with 4 buckets or one 2 1/2 gallon fire extinguisher shall be provided on each story for each 5,000 sq. ft. of floor area. In cold weather, extinguishers shall be of non-freezing type and water casks shall be provided with calcium chloride or other approved material to prevent freezing. In lieu of the water casks or extinguishers, a charged hose line may be provided on each floor. This hose line must be of sufficient length to reach all parts of the floor.
+
+(j) Equipment. 
+
+   (1) Responsibility of employees and other persons for protection of the public and workmen. Where men are working on a scaffold with other men engaged above, the scaffold shall have a tight overhead covering of planking not less than two (2) inches in thickness or other material equivalent in strength and suitability as a protection to the men working on the scaffold. Where the type of work involved would render it hazardous and in lieu thereof may permit the catch platform at a higher level. Runways or ladders shall be erected to platforms of scaffolds five (5) feet or more in height. Every scaffold platform ten (10) feet or more above the ground or a floor, except platforms covering the entire floor space of a room within a building or the platforms of needle beam scaffolds or platforms on which the men working thereon are provided with life-lines and safety-belts in compliance with 2 RCNY § 3-02(e)(21) "Life-lines and Safety-belts or Life-nets", shall be provided with a guard rail and a toeboard. The guard rail may be of wood not less than 2" × 3" in cross-section, or other material of equal strength, properly secured at intervals of not more than ten (10) feet. The guard rail shall be not less than thirty-four (34) inches above the platform of the scaffold and shall extend the entire length of the scaffold. A toeboard not less than 1" × 8" in cross-section shall be provided or the space between the guard rail and the platform may be enclosed with a wire screen composed of not less than No. 18 Steel Wire Gauge with a one-half (1/2) inch mesh.
+
+   (2) Materials.
+
+      (i) Sizes and stresses of materials used for protection of the public and workmen (§ C26-556.0).
+
+         (A) The sizes mentioned in this subdivision (j) are minimum requirements, except that lumber sizes are nominal or commercial sizes before dressing. Where wood is specified in this subdivision (j), members of iron, steel or other material of equivalent strength, rigidity and suitability may be substituted.
+
+         (B) Where sizes are not specifically mentioned in this subdivision (j), the equipment and safeguards when of a temporary nature and not subjected to serious shock may be designed using such stresses as may be approved by the superintendent, but at most thirty-three percent above the stresses provided in this section for similar material when used in permanent structures.
+
+      (ii) Lumber and timber. All lumber and timber used for the construction of ladders, scaffolds, ramps, runways, railing and other safeguards, except where otherwise required in these rules shall be either Red, White or Sitka Spruce; Douglas Fir; Norway Pine; West Coast Hemlock or other woods equivalent in strength and suitability. All lumber and timber shall be sound and shall not contain defects such as ring shakes, large or loose knots or other defects which may materially impair the strength of the piece for the purpose for which it is to be used. Where sectional dimensions of lumber are given, lumber of different sectional dimensions may be used, if equivalent in strength and suitability. Except for the dimensions of material given in 2 RCNY § 3-02(j)(6) "Ladders", which are actual dimensions, all dimensions for lumber and timber in these rules are nominal or trade dimensions. All lumber and timber shall be fastened at the various joints with sufficient nails or bolts of a suitable size to produce a secure joint, capable of withstanding the required load to be superimposed on same. Refer to Table II, Size and Number of Nails.
+
+   (3) Scaffolds.
+
+      (i) Construction and maintenance of equipment and safeguards (§ C26-555.0). All devices or equipment which are used in connection with the performance of work and regulated by this subdivision (j), shall be constructed, installed and maintained in a substantial manner and so operated as to give proper protection to persons and shall not be removed, altered, weakened, or rendered inoperative so long as they are needed or in use, except as provided in § C26-553.0, unless so ordered by a person in responsible charge of the operation.
+
+      (ii) Erection of scaffolds. Only skilled workmen shall be employed in the erection or dismantling of scaffolds. They shall work under the supervision of a competent superintendent or foreman who shall take such precautions as may be necessary to insure safety. Every scaffold damaged or weakened from any cause shall be immediately repaired and workmen shall not be permitted to use the scaffold until such repairs have been completed. No scaffold shall be altered or removed while it is in use. Precautions shall be taken so that no material shall be delivered or stored upon a scaffold to such an extent as to overload or subject the scaffold to loads which it is not capable of supporting. Barrels, boxes, piles of brick or stone or other unstable objects or material shall not be used for the support of scaffolds or the planking of scaffolds.
+
+   (4) Wood scaffolds. All lumber used in the construction of scaffolds shall be of spruce, Douglas Fir, long-leaf yellow pine, Oregon pine or other species of equivalent strength and durability. The material shall be sound; straight grained; free from cross grain, shakes, large, loose or dead knots or other defects which may impair its strength or durability. All nails used in the construction of scaffolds, stages and supports shall be of ample size and length and used in sufficient quantities at each connection to fully develop the strength of each member in compliance with 2 RCNY § 3-02(j)(2)(ii) "Lumber and Timber." All nails shall be driven full length.
+
+   (5) Pole scaffold requirements. Scaffold poles shall be plumb and shall foot on a foundation equivalent to that offered by planking not less than nine (9) inches in width and two (2) inches in thickness. The footing shall be secured against any lateral movement. Where poles are spliced with wood cleats, the squared end of the upper section shall rest upon the squared end of the lower section and the two ends shall be fastened rigidly together with not less than two (2) wood cleats each not less than three (3) feet in length. The cleats shall be placed at right angles to each other and shall overlap the abutting ends of the pole equally and the combined sectional area of the cleats shall be not less than fifty (50) percent of the cross sectional area of the pole. A put-log shall be located adjacent to each pole and shall be nailed or otherwise securely fastened to the pole or to the ledger on which it rests. Pole scaffolds shall be firmly and adequately braced in such a manner as to preclude swaying or swinging away from the building. Diagonal bracing shall be provided to prevent the poles from moving in a direction parallel with the wall. Diagonal bracing shall be so installed that every spliced section of every pole is connected with the adjacent poles. Planking shall be laid with the edges close together so that the platform will be tight with no spaces through which tools or fragments of material may fall, except that on interior scaffolds, the platforms of which cover the entire room area, there may be provided a two (2) inch space between planking for ventilation purposes. Where planks are butt end to end, parallel put-logs or bearers shall be provided not more than eight (8) inches apart so that one put-log or bearer will support the end of one plank and the other put-log or bearer, the end of the other plank. Where platform planks over-lap, the ends of both the upper and lower planks shall over-lap the put-log or bearer by at least six (6) inches. Planking shall project over the end put-log not less than six (6) inches but not more than eighteen (18) inches. Inclined platform planking shall be nailed at each bearing. When a new working level is desired, the old platform shall be left undisturbed until the new working level is framed. As the platform level is abandoned with the progress of the work, the bearers, put-logs and ledgers upon which the platform previously rested shall not be removed but shall be left in place to brace and stiffen the poles.
+
+      (i) Single pole scaffolds. Before any wood scaffold more than eighty (80) feet in height is erected, plans showing the design and the sizes of all structural members of such scaffold shall be submitted to the borough superintendent for his approval. Every single pole scaffold shall be constructed with members of a size not less than that given in Table C, "Minimum Size and Maximum Spacing of Members of Single Pole Scaffolds."
+
+TABLE C MINIMUM SIZE AND MAXIMUM SPACING OF MEMBERS OF SINGLE POLE SCAFFOLDS No. 1 LIGHT DUTY SCAFFOLDS 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * -  Type of use
+      - Light duty 
+      - 
+      - 
+      - 
+    * -  Uniformly distributed load
+      - Not to exceed 25 lbs. per sq. ft. 
+      - 
+      - 
+      - 
+    * - Max. height of scaffold
+      - 20' 
+      - 40' 
+      - 60' 
+      - 80' Top 60' Lower Sect. 
+    * - Poles or uprights (min.)
+      - 2 × 4 
+      - 3 × 4 
+      - 4 × 4 
+      - 4 × 4 4 × 6 
+    * - Pole foundation (min.)
+      - 
+      - 
+      - 2 × 9 
+      - 
+    * - Max. pole spacing (longitudinal)
+      - 
+      - 
+      - 10'-0"
+      - 
+    * - Max. width of scaffold
+      - 
+      - 
+      - 5'-0"
+      - 
+    * -  Bearers or putlogs (min.)
+      - 
+      - 3 × 4 or 2 × 6 (on edge)
+      - 
+      - 
+    * - Ledgers (minimum): With 1 1/4"plank
+      - 
+      - 
+      - 1 1/4 × 9 (on edge) 
+      - 
+    * -  With 2"plank
+      - 
+      - 
+      - 1 × 6 (on edge) 
+      - 
+    * - Vertical spacing of ledgers (max.)
+      - 
+      - 
+      - 7'-0"
+      - 
+    * - Non-supporting stringers
+      - 
+      - 
+      - 1 × 4 
+      - 
+    * - Tie-ins
+      - 
+      - 
+      - 1 × 4 
+      - 
+    * - Bracing
+      - 
+      - 
+      - 1 × 4 
+      - 
+    * - Planking: Not more than 6' span
+      - 
+      - 
+      - 1 1/4 × 9 
+      - 
+    * -  More than 6' span
+      - 
+      - 
+      - 2 × 9 
+      - 
+    * - Toeboards
+      - 
+      - 
+      - 1 × 8 
+      - 
+    * - Guard rails
+      - 
+      - 
+      - 2 × 4 
+      - 
+~
+
+ 
+
+TABLE C MINIMUM SIZE AND MAXIMUM SPACING OF MEMBERS OF SINGLE POLE SCAFFOLDS No. 2 REGULAR DUTY SCAFFOLDS
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - Type of use
+      - Regular duty 
+      - 
+      - 
+      - 
+    * -  Uniformly distributed load
+      - Not to exceed 50 lbs. per sq. ft. 
+      - 
+      - 
+      - 
+    * - Max. height of scaffold
+      - 20' 
+      - 40' 
+      - 60' 
+      - 80' Top 60' Lower Sect. 
+    * - Poles or uprights (min.)
+      - 3 × 4 or 2 × 6 
+      - 4 × 4 
+      - 4 × 6 
+      - 4 × 6 6 × 6 
+    * - Pole foundation (min.)
+      - 
+      - 
+      - 2 × 9 
+      - 
+    * - Max. pole spacing (longitudinal)
+      - 
+      - 
+      - 10'-0"
+      - 
+    * - Max. width of scaffold
+      - 
+      - 5'-0"
+      - 
+      - 8'-0"
+    * -  Bearers or putlogs (min.)
+      - 
+      - 3 × 4 or 2 × 8 (on edge)
+      - 
+      - 
+    * - 
+      - 
+      - 3 × 5 or 2 × 9 (on edge)
+      - 
+      - 
+    * - Max. spacing of bearers or putlogs
+      - 
+      - 
+      - 6'-0"
+      - 
+    * - Ledgers (minimum)
+      - 
+      - 
+      - 2 × 9 (on edge) 
+      - 
+    * - Vertical spacing of ledgers (max.)
+      - 
+      - 
+      - 9'-0"
+      - 
+    * - Non-supporting stringers
+      - 
+      - 
+      -  1 × 6 or 1 1/4 × 4 
+      - 
+    * - Tie-ins
+      - 
+      - 
+      - 1 × 6 
+      - 
+    * - Bracing
+      - 
+      - 
+      - 1 × 6 
+      - 
+    * - Planking
+      - 
+      - 
+      - 2 × 9 
+      - 
+    * - Toeboards
+      - 
+      - 
+      - 2 × 9 
+      - 
+    * - Guard rails
+      - 
+      - 
+      - 2 × 4 
+      - 
+~
+
+ 
+
+Between toeboard and guard rail 1/2" wire mesh composed of No. 18 Steel Wire Gauge.
+
+TABLE C MINIMUM SIZE AND MAXIMUM SPACING OF MEMBERS OF SINGLE POLE SCAFFOLDS No. 3 HEAVY DUTY SCAFFOLDS 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * -  Type of use
+      - Heavy duty 
+      - 
+      - 
+      - 
+    * -  Uniformly distributed load
+      - Not to exceed 75 lbs. per sq. ft. 
+      - 
+      - 
+      - 
+    * - Max. height of scaffold
+      - 20' 
+      - 40' 
+      - 60' 
+      - 80'Top 60' Lower Sect. 
+    * - Poles or uprights (min.)
+      - 3 × 4 or 2 × 6 
+      - 4 × 4 
+      - 4 × 6 
+      - 4 × 6 6 × 6 
+    * - Pole foundation (min.)
+      - 
+      - 
+      - 2 × 9 
+      - 
+    * - Max. pole spacing (longitudinal)
+      - 
+      - 
+      - 6'-0"
+      - 
+    * - Max. width of scaffold
+      - 
+      - 5'-0"
+      - 
+      - 8'-0"
+    * -  Bearers or putlogs (min.)
+      - 
+      - 3 × 5 
+      - 3 × 6 or 2 × 9 (on edge)
+      - 
+    * - Ledgers (min.)
+      - 
+      - 
+      - 2 × 9 (on edge) 
+      - 
+    * - Vertical spacing of ledgers (max.)
+      - 
+      - 
+      - 6'-6"
+      - 
+    * - Non-supporting stringers
+      - 
+      - 
+      - 2 × 4 
+      - 
+    * - Tie-ins
+      - 
+      - 
+      - 1 × 6 
+      - 
+    * - Bracing
+      - 
+      - 
+      - 1 × 6 
+      - 
+    * - Planking
+      - 
+      - 
+      - 2 × 9 
+      - 
+    * - Toeboards
+      - 
+      - 
+      - 2 × 9 
+      - 
+    * - Guard rails
+      - 
+      - 
+      - 2 × 4 
+      - 
+~
+
+ 
+
+Ledgers shall not be spliced between poles but shall over-lap the poles by at least four (4) inches. When put-logs or bearers are used and the ledgers are lapped, bearing-blocks shall be nailed to the poles to support the ledger. All put-logs shall be set with the greater dimension vertical and shall be long enough to project beyond the outer edge of the poles by at least twelve (12) inches. Put-logs shall be supported on the ledger and located against the sides of the poles and nailed to either the pole or the ledger. The other end of the put-log shall rest in the wall of the building with at least a four (4) inch bearing and shall not be notched or cut down, except in "light duty" scaffolds. Diagonal bracing shall be provided for the entire outside face of the scaffold.
+
+      (ii) Independent pole scaffolds. Before any wood scaffold more than eighty (80) feet in height is erected, plans showing the design and the sizes of all structural members of such scaffold shall be submitted to the borough superintendent for his approval. Every independent pole scaffold shall be constructed with members of a size not less than that given in Table D, "Minimum Size Maximum Spacing of Members of Independent Pole-Scaffolds." Ledgers shall not be spliced between poles but shall over-lap the poles by at least four (4) inches. When put-logs or bearers are used and the ledgers are lapped, bearing blocks shall be nailed to the pole to support the ledger. Bearers shall be set with their greater dimensions vertical and long enough to project over the ledgers beyond the outer row of poles by at least twelve (12) inches and beyond the inner row of poles by at least two (2) inches. Bearers shall be supported on the ledgers and located against the sides of the poles and nailed to the poles. Diagonal bracing shall be provided for the entire outside face of the scaffold and for the entire inside face, except that on working levels such diagonal bracing on the inside face may be omitted. Free standing independent pole scaffolds shall have a minimum base dimension of not less than twenty-five (25) percent of the height of the scaffold.
+
+TABLE D MINIMUM SIZE AND MAXIMUM SPACING OF MEMBERS OF INDEPENDENT POLE SCAFFOLDS No. 1 LIGHT DUTY SCAFFOLDS 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * -  Type of use
+      - Light duty 
+      - 
+      - 
+      - 
+    * -  Uniformly distributed load
+      - Not to exceed 25 lbs. per sq. ft. 
+      - 
+      - 
+      - 
+    * - Max. height of scaffold
+      - 20' 
+      - 40' 
+      - 60' 
+      - 80'Top 60' Lower Sect. 
+    * - Poles or uprights (min.)
+      - 2 × 4 
+      - 3 × 4 or 2 × 6 
+      - 4 × 4 
+      - 4 × 4 4 × 6 
+    * - Pole foundation (min.)
+      - 
+      - 
+      - 2 × 9 
+      - 
+    * - Max. pole spacing (longitudinal):With 1 1/4 × 9 ledgers
+      - 
+      - 
+      - 6'-0"
+      - 
+    * -  With 2x9 ledgers
+      - 
+      - 
+      - 10'-0"
+      - 
+    * - Max. pole spacing (transverse)
+      - 
+      - 
+      - 10'-0"
+      - 
+    * - Ledgers (minimum)
+      - 
+      - 
+      - 1 1/4 × 9 (on edge) 
+      - 
+    * - Vertical spacing of ledgers (max.)
+      - 
+      - 
+      - 7'-0"
+      - 
+    * - Non-supporting stringers
+      - 
+      - 
+      - 1 × 4 
+      - 
+    * - Bearers (minimum)
+      - 
+      - 
+      - 1 1/4 × 9 (on edge) 
+      - 
+    * - Bracing
+      - 
+      - 
+      - 1 × 4 
+      - 
+    * - Planking: Not more than 6' span
+      - 
+      - 
+      - 1 1/4 × 9 
+      - 
+    * -  More than 6' span
+      - 
+      - 
+      - 2 × 9 
+      - 
+    * - Toeboards
+      - 
+      - 
+      - 1 × 8 
+      - 
+    * - Guard rails
+      - 
+      - 
+      - 2 × 4 
+      - 
+~
+
+ 
+
+TABLE D MINIMUM SIZE AND MAXIMUM SPACING OF MEMBERS OF INDEPENDENT POLE SCAFFOLDS No. 2 REGULAR DUTY SCAFFOLDS
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * -  Type of use
+      - Regular duty 
+      - 
+      - 
+      - 
+    * -  Uniformly distributed load
+      - Not to exceed 50 lbs. per sq. ft. 
+      - 
+      - 
+      - 
+    * - Max. height of scaffold
+      - 20' 
+      - 40' 
+      - 60' 
+      - 80'Top 60' Lower Sect. 
+    * - Poles or uprights (min.)
+      - 3 × 4 or 2 × 6 
+      - 4 × 4 
+      - 4 × 6 
+      - 4 × 6 6 × 6 
+    * - Pole foundation (min.)
+      - 
+      - 
+      - 2 × 9 
+      - 
+    * - Max. pole spacing (longitudinal)
+      - 
+      - 
+      - 10'-0"
+      - 
+    * - Max. pole spacing (transverse)
+      - 
+      - 
+      - 10'-0"
+      - 
+    * - Ledgers (minimum)
+      - 
+      - 
+      - 2 × 9 (on edge) 
+      - 
+    * - Vertical spacing of ledgers
+      - 
+      - 
+      - 6'-0"
+      - 
+    * - Bearers (minimum)
+      - 
+      - 
+      - 2 × 9 (on edge) 
+      - 
+    * - Non-supporting stringers
+      - 
+      - 
+      - 1 1/4 × 4 or 1 × 6 
+      - 
+    * - Bracing
+      - 
+      - 
+      - 1 × 6 
+      - 
+    * - Planking: Not more than 6' span
+      - 
+      - 
+      - 1 1/4 × 9 
+      - 
+    * -  More than 6' span
+      - 
+      - 
+      - 2 × 9 
+      - 
+    * - Toeboards
+      - 
+      - 
+      - 2 × 9 
+      - 
+    * - Guard rails
+      - 
+      - 
+      - 2 × 4 
+      - 
+~
+
+ 
+
+Between toeboard and guard rail 1/2" wire mesh composed of No. 18 Steel Wire Gauge.
+
+TABLE D MINIMUM SIZE AND MAXIMUM SPACING OF MEMBERS OF INDEPENDENT POLE SCAFFOLDS No. 3 HEAVY DUTY SCAFFOLDS 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * -  Type of use
+      - Heavy duty 
+      - 
+      - 
+      - 
+    * -  Uniformly distributed load
+      - Not to exceed 75 lbs. per sq. ft. 
+      - 
+      - 
+      - 
+    * - Max. height of scaffold
+      - 20' 
+      - 40' 
+      - 60' 
+      -  80'Top 60' Lower Sect. 
+    * - Poles or uprights (min.)
+      - 4 × 4 
+      - 4 × 4 
+      - 4 × 6 
+      - 4 × 6 6 × 6 
+    * - Pole foundation (min.)
+      - 
+      - 
+      - 2 × 9 
+      - 
+    * - Max. pole spacing (longitudinal)
+      - 
+      - 
+      - 6'-0"
+      - 
+    * - Max. pole spacing (transverse)
+      - 
+      - 
+      - 10'-0"
+      - 
+    * - Ledgers (minimum)
+      - 
+      - 
+      - 2×9 (on edge) 
+      - 
+    * - Vertical spacing of ledgers
+      - 
+      - 
+      - 4'-6"
+      - 
+    * - Bearers (minimum)
+      - 
+      - 
+      - 2×9 (on edge) 
+      - 
+    * - Non-supporting stringers
+      - 
+      - 
+      - 1 1/4 × 9 
+      - 
+    * - Bracing
+      - 
+      - 
+      - 1 × 6 
+      - 
+    * - Planking
+      - 
+      - 
+      - 2 × 9 
+      - 
+    * - Toeboards
+      - 
+      - 
+      - 2 × 9 
+      - 
+    * - Guard rails
+      - 
+      - 
+      - 2 × 4 
+      - 
+~
+
+ 
+
+      (iii) Outrigger scaffolds. Outrigger scaffolds shall have heavy timber outriggers not less than 3 inches × 10 inches set on edge projecting through the wall or window opening not more than six (6) feet from the face of the building, with the inner end extending into the building and securely fastened in place and braced to prevent tipping or turning. Outriggers shall be spaced not more than ten (10) feet on centers. The platform shall be constructed of planks not less than 2 inches × 9 inches securely nailed to the outriggers and laid tight except that a three (3) inch gap along the wall of the building may be permitted. The ends of the planks shall not project more than eighteen (18) inches beyond the outrigger. Every outrigger scaffold shall be provided with a standard railing and toeboard, 2 RCNY § 3-02(j)(13). The uprights for the standard railing shall be securely braced to the outrigger. The space between the toeboard and the railing shall be filled in with a wire screen composed of not less than No. 18 Steel Wire Gauge with a one-half (1/2) inch mesh.
+
+      (iv) Swinging scaffolds. The platform of every swinging scaffold shall be not less than twenty (20) inches nor more than thirty (30) inches in width. Each end of the platform shall be supported by a steel or iron stirrup or hanger formed to support the platform and shall have a loop to support the guard rail and a loop or eye at the top for securing the supporting hook on the block. The hanger or stirrup shall be placed not less than six (6) inches nor more than eighteen (18) inches from the end of the platform. The guard rails shall be of wood not less than 2 × 3 in. cross-section or of other material of such size and shape as to provide equivalent strength and rigidity. The guard rail shall be not less than thirty-four (34) inches nor more than forty-eight (48) inches above the platform, shall be properly supported at intervals of not more than ten (10) feet and shall extend for the full length of the platform. A toeboard not less than 1 × 4 in. cross-section shall be provided on the outside edge of the platform. The supporting hooks or roof-irons shall be of steel or wrought iron not less than seven-eighths (7/8) inch in diameter, or the equivalent, and shall be securely anchored during use. Plow steel cable not less than one-half (1/2) inch in diameter or the equivalent shall connect the upper block to the supporting hook or roof iron. Where rope is used for the support of the swinging scaffolds, it shall be not less than three-quarters (3/4) inch in diameter, first quality unspliced Manila rope, or its equivalent in strength and suitability. Rope suspended scaffolds shall not be permitted for or near any work where acid is used or where the upper block is more than one hundred (100) feet above the platform. Rope suspended swinging scaffolds shall be limited to light duty use. Every swinging scaffold, the platform of which is more than one hundred (100) feet below the upper supporting block, shall be equipped with an approved device to raise, lower and hold the scaffold in position. The upper supporting block on all swinging scaffolds shall be secured with a shackle. All ropes, cable, blocks, slings, hangers and other supporting parts shall be capable of safely sustaining the loads to which they will be subjected with a factor of safety of four (4). All ropes, slings and cable shall be tested after every installation and before any workman is permitted on the scaffold and every ten (10) days thereafter if the scaffold is in use continuously. A record of such test shall be kept, such record to specify the time and place of the test. The platforms of swinging scaffolds shall be lashed or secured to hold them in position and to prevent their swaying from the building. Rollers or fenders may be used to prevent the scaffold from marring the face of the building. Two (2) or more swinging scaffolds shall not be combined into one (1) by bridging the distance between them with planks or with any other form of construction. Not more than two (2) men shall be permitted to work on any swinging scaffold at any one time. The platform of every swinging scaffold shall be one of the three following types:
+
+         (A) the ladder type, consisting of boards upon a horizontal ladder the sides of which are parallel,
+
+         (B) the plank type, consisting of planks supported on the stirrups or hangers, or
+
+         (C) the beam type, consisting of longitudinal side stringers, with cross beams set on edge and spaced not more than four (4) feet apart on which the longitudinal platform planks are laid.
+
+      (v) Ladder type platforms – type 1. The side stringers of the horizontal supporting ladder shall be of clear spruce or other material equivalent in strength and durability. The rungs shall be of straight grained oak, ash or hickory not less than one and one-eighth (1 1/8) inches in diameter with seven-eighths (7/8) inch tenons mortised into the side stringers at least seven-eighths (7/8) of an inch. The stringers shall be tied together with tie rods not less than one-quarter (1/4) inch in diameter located not more than five (5) feet apart passing through the stringers and riveted up tight against washers at both ends. The platform shall be of sufficient width to fill the space between the sides of the ladder and shall be securely fastened to the hangers by U-bolts passing around the hangers and bolted up tight or by other equivalent means. The ladder type platform shall be constructed in accordance with the schedule listed in Table E, "Schedule for Ladder Type Platforms."
+
+TABLE E SCHEDULE FOR LADDER TYPE PLATFORMS
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 
+      - Length of Platform 
+      - 
+      - 
+      - 
+      - 
+    * - 
+      - 15'-0"
+      - 16'-0"
+      - 18'-0"
+      - 20'-0"
+      - 24'-0"
+    * - Width (max)
+      - 30"
+      - 30"
+      - 30"
+      - 30"
+      - 30"
+    * - Cross section of side stringers (min.)
+      - 
+      - 
+      - 
+      - 
+      - 
+    * -  (a) at ends (ins.)
+      - 1 7/8 × 2 3/4 
+      - 1 7/8 × 2 3/4
+      - 1 7/8 × 3 
+      - 1 7/8 × 3 
+      - 1 7/8 × 3 
+    * -  (b) at middle (ins.)
+      - 1 7/8 × 3 3/4 
+      - 1 7/8 × 3 3/4 
+      - 1 7/8 × 4 
+      - 1 7/8 × 4 
+      - 1 7/8 × 4 1/2
+    * - Rungs (min.)
+      - 
+      - 
+      - 
+      - 
+      - 
+    * -  (a) number
+      - 10 
+      - 11 
+      - 12 
+      - 13 
+      - 16 
+    * -  (b) diameter (ins.)
+      - 1 1/8
+      - 1 1/8
+      - 1 1/8
+      - 1 1/8
+      - 1 1/8 
+    * - Tie Rods (min.)
+      - 
+      - 
+      - 
+      - 
+      - 
+    * -  (a) number
+      - 4 
+      - 4 
+      - 4 
+      - 4 
+      - 5 
+    * -  (b) diameter (ins.)
+      - 1/4
+      - 1/4
+      - 1/4
+      - 1/4
+      - 1/4
+    * - Flooring (ins.)(min.)
+      - 1/2 × 3 
+      - 1/2 × 3 
+      - 1/2 × 3 
+      - 1/2 × 3 
+      - 1/2 × 3 
+~
+
+ 
+
+      (vi) Plank type platforms – type 2. Plank platforms shall be composed of planks of uniform thickness and such planks shall be not less than two (2) inches in thickness and eight (8) inches in width. The planks shall extend not less than six (6) inches nor more than eighteen (18) inches beyond the supporting hangers and a bar shall be nailed across the platform on the underside at each end to prevent the platform from slipping off the hanger. Where two (2) or more planks are used they shall be fastened together by cleats not less than 1 inch × 6 inches nailed on the underside at intervals of not more than four (4) feet. Planks shall not be spliced. The clear span of the platform planks between supports shall not exceed ten (10) feet.
+
+      (vii) Beam type platforms – type 3. Beam platforms shall have side stringers of straight grained lumber not less than 2 inches × 6 inches set on edge. The stringers shall be supported on the stirrups or hangers and the clear span between hangers shall not exceed sixteen (16) feet. The ends of the stringers shall extend beyond the hangers not less than six (6) inches nor more than eighteen (18) inches and shall be bolted to the hangers by U-bolts passing around the hangers and bolted to the stringers. The platform shall be supported on 2 inch × 6 inch cross beams cut in between the side stringers, securely nailed thereto, and spaced not more than four (4) feet on centers. The platform shall be framed of material not less than 1 inch × 6 inches nailed tight together and extended to the outside face of the stringers. The ends of all platform boards shall rest on the cross beams and shall be securely nailed.
+
+      (viii) Suspended scaffolds. Suspended scaffolds shall be equipped with an approved hoisting machine of either the platform or overhead type securely fastened either to the bearers or to the outrigger as the design warrants. The outrigger shall be equivalent in strength to a standard 7-inch 15.3 lb. steel I-beam; shall be not less than fifteen (15) feet in length and shall be securely anchored to the building by U-bolts and anchor plates or by beam-clamp connections or by other equally effective methods. The outrigger shall project not more than six (6) feet, six (6) inches beyond the bearing point unless the outriggers are doubled or increased in size proportionally. The spacing between outriggers shall not exceed ten (10) feet. Outriggers shall be set with the web in a vertical position and the platforms shall be supported by steel wire cables not less than one-half (1/2) inch in diameter which shall be securely fastened to the outriggers by steel shackles or by other equally effective means. The other ends of the steel suspension cables shall be securely attached to the hoisting machines. The shackles supporting the outside cable of every suspended scaffold shall be placed not more than six (6) feet from the bearing of the outrigger and the shackles supporting the inner cable shall be placed not more than two (2) feet beyond the bearing point of the outrigger. The platforms shall be limited to eight (8) feet in width. The platform plank shall be not less than one and one-quarter (1 1/4) inches in thickness for a six (6) foot span or two (2) inches in thickness for a ten (10) foot span. Such planking shall be laid tight; shall be securely fastened to the bearers and shall overlap the supporting bearers at each end of the scaffold by not more than eighteen (18) inches. Each platform bearer shall be of steel equivalent in strength to that offered by a pair of 2 × 2 × 3/16 standard angles. The outside edge of the platform shall be protected by a guard rail and railing as provided for in 2 RCNY § 3-02(j)(13). The space between the toeboard and the railing shall be filled with wire netting formed of No. 18 Steel Wire Gauge with a one-half (1/2) inch mesh. An overhead protection shall be provided for all suspended scaffolds. This overhead protection shall consist of planking not less than two (2) inches in thickness, placed at a height of not more than ten (10) feet above the working platform and maintained at all times while men are at work on the scaffold. Substantial strap-iron hooks or other effective means shall be employed to prevent the scaffold from swaying away from the structure.
+
+      (ix) Horse scaffolds. Horse scaffolds shall be limited to three (3) tiers of horses or a total height of not more than fourteen (14) feet. Horses shall be made of sound, straight-grain material, rigidly braced, having members of a size not less than those given in the following schedule:
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - Members 
+      - Dimensions
+    * - Horizontal member of bearer
+      - 3"× 4"
+    * - Legs
+      - 1 1/4"× 4 1/4"
+    * - Longitudinal Braces
+      - 1 1/4"× 4"
+    * - Half diagonal Braces
+      - 1 1/4"× 2 1/4"
+~
+
+
+
+ 
+
+All horse scaffolds shall be set on substantial and level foundations equivalent to that afforded by planking not less than two (2) inches in thickness. Horses shall be spaced not more than six (6) feet apart for heavy duty scaffolds, not more than eight (8) feet apart for regular duty scaffolds, and not more than ten (10) feet apart for light duty scaffolds. Planks shall be laid with their edges close together and so arranged that the planks cannot tip or cause the horses to spread. Where successive rows of horses are used, each horse shall be placed directly above the horse in the tier below. On all horse scaffolds more than one (1) row in height, the planks shall be nailed to the horses and the legs of the horses shall be nailed to the planks on which they rest. Where horse scaffolds are erected on an outrigger scaffold platform, the platform shall be of sufficient width to permit the horses to stand squarely upon it. Every horse erected on an outrigger scaffold shall be directly above the outrigger and shall have its legs nailed to the platform plank and the planking forming the platforms shall be nailed to the backs of the horses.
+
+      (x) Carpenters' bracket scaffolds. Carpenters' bracket scaffolds shall be limited to light duty use and shall be constructed of triangular framed portable brackets and platforms of planks. The brackets shall be of metal or of straight-grained dressed material not less than 2 inch × 3 inch mortised together and bolted. The supporting bolt shall be not less than five-eighths (5/8) inch in diameter, securely fastened to the bracket, and of sufficient length to extend well inside the studs and shall be provided with a washer and a lever handle nut. The bracket shall be erected by passing the bolt through a 2 inch × 6 inch timber laid horizontally across the inside of two (2) studs and then tightening the bolt by means of the lever handle nut. The platform shall be not less than twenty (20) inches in width and shall be composed of planking not less than two (2) inches in thickness laid tight together and overlapping the bracket by not less than six (6) inches nor more than eighteen (18) inches. Brackets shall be placed not more than nine (9) feet apart. The brackets shall have their supporting bolts or hooks near the top of the bracket.
+
+      (xi) Bricklayers' square scaffolds. Bricklayers' square scaffolds shall not be used as heavy duty scaffolds and shall be composed of framed wood squares or jacks constructed of clear material. The squares shall not be larger than five (5) feet wide and five (5) feet high and the minimum size of members shall be not less than those specified in the following schedule:
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - Members 
+      - Dimensions
+    * - Bearers or horizontal members
+      - 2"× 6"
+    * - Legs
+      - 2"× 6"
+    * - Braces at corners
+      - 1"× 6"
+    * - Braces diagonally from center frame
+      - 1"× 8"
+~
+
+
+
+ 
+
+The squares or jacks shall be braced on both sides of each corner with 1 inch × 6 inch bracing-pieces cut in the form of a triangle. The squares shall have braces 1 inch × 8 inches in size on both sides running from the center of each member to the center of the adjacent member. The squares shall be set not more than five (5) feet apart for heavy duty scaffolds nor more than eight (8) feet apart for light duty scaffolds. One inch × 8 inch bracing extending from the bottom of one square to the top of the next adjacent square shall be provided on both the front and rear sides of the scaffold. Bricklayer's square scaffolds shall be limited in height to three (3) tiers or fifteen (15) feet. Platform planks shall be not less than two (2) inches in thickness. The ends of the planks shall overlap on the back of the squares and each plank shall be supported by not less than three (3) squares. Planks shall overlap the squares by not less than six (6) inches and not more than six (6) inches. Square scaffolds when built up in rows shall be so constructed that the squares shall be directly one above the other. The upper rows shall stand on continuous rows of planks laid across the next lower rows and nailed down and cleated on the under side of the supporting square to prevent the movement of the planks or the swaying of the scaffold. The scaffold shall be set up on a level and unyielding foundation equivalent to that offered by 2 inch × 9 inch planking.
+
+      (xii) Needle beam scaffolds. Needle beam scaffolds shall be used only for the support of men doing riveting, plastering, pointing and other similar work and shall not be used for the storage of any materials. The needle beams shall be not less than 4 inches × 6 inches in size with the greater dimension vertical and shall be of one length and provided with intermediate supports or hangers. Ropes used for the support of needle beams shall be first class Manila fibre not less than one (1) inch in diameter and attached to the needle beams by a "square hitch" which shall be so tied as to prevent the needle beam from rolling or otherwise becoming displaced. Provision shall be made to prevent the rope from slipping off the end of the beam. Where the span between the needle beams is ten (10) feet or less the platform planks shall be not less than two (2) inches in thickness and shall be increased in thickness as the span is increased. Platform planks shall be not less than two (2) feet longer than the span between needle beams. Platforms shall be not less than four (4) planks in width or more than six (6) feet wide. Where needle beam scaffolds are used where one beam is higher than the other or where the planks are not level, the platform shall be secured against slipping.
+
+      (xiii) Boatswain's chair. Boatswain's chairs shall be attached by means of a sling to a suspension rope or cable, securely fastened to an overhead fixed object or passed through an overhead block securely fastened, with the free end attached to a fixed and easily accessible object and the chair raised or lowered as necessary by the workman with or without the aid of helpers. The chair itself shall have a seat not less than two (2) feet long by ten (10) inches wide and two (2) inches in thickness. Cleats shall be substantially secured to each end of the seat.
+
+      (xiv) Ladder jack scaffolds. All ladder jack scaffolds shall be limited to light duty use and shall be of an approved type and shall be clamped or otherwise securely fastened to the ladder and shall be so designed that the loads on the planking shall be transmitted through the jack and to the side rails of the ladder and not through the rungs. Ladder jack scaffolds shall be limited in height to twenty (20) feet above grade or a permanent floor. All ladders used in conjunction with ladder jacks shall be designed and constructed in accordance with the requirements of 2 RCNY § 3-02(j)(6) "Ladders." Ladders used in conjunction with ladder jacks shall be so placed, fastened, held, or equipped with approved devices, as to prevent slipping. Platform planks shall be not less than two (2) inches in thickness and shall overlap the bearing surface by not less than twelve (12) inches. The span between supports shall be limited to ten (10) feet. Not more than two (2) persons shall be permitted to occupy any ladder jack scaffold at any one time.
+
+      (xv) Window jack scaffolds. All window jacks shall be of an approved type and shall be used only for the purpose of working at the window opening through which the jack is placed. Window jacks shall be constructed to sustain a working load of not less than two hundred (200) pounds with a factor of safety of four (4) and not more than one person shall be permitted on a window jack scaffold at any one time. Window jacks shall not be used as the supporting element of scaffolds or other devices and the placing of planks between one window jack and the jack of an adjacent window shall be prohibited. Window jack scaffolds shall be limited to light duty use and shall be provided with a protective rail unless safety belts as required by 2 RCNY § 3-02(e)(21), "Life-lines, Safety-belts or Life-nets," shall be provided for the workmen.
+
+      (xvi) Roofing brackets. Roofing brackets shall be triangular in shape; the diagonal member sloped to fit the pitch of the roof and the horizontal member level to support the platform. Roofing brackets shall be securely supported by means of ropes of first class Manila grade not less than three-fourths (3/4) inch in diameter passing over the ridgepole of the building, or by nails of adequate size, or by means of pointed projectors driven their full length into the frame of the roof. Where roofing brackets are used on roofs which are more than twenty (20) feet from the ground to the eaves, and where such roof lacks a parapet and has a slope greater than three (3) inches in one (1) foot, a substantial scaffold platform shall be provided within two (2) feet of the eaves and of sufficient width to extend at least two (2) feet beyond the projection of the eaves. Such platform shall be equipped with a guard rail but as an alternative to the installation of such a platform each man working on the roof shall be provided with a life-line in accordance with the requirements of 2 RCNY § 3-02(e)(21) "Life-lines, Safety-belts or Life-nets."
+
+      (xvii) Crawling boards or chicken ladders. Crawling boards or chicken ladders shall not be less than eight (8) inches in width and not less than one (1) inch in thickness and shall be provided with nailed cross-strips or cleats not less than 1 inch × 1 1/2 inches and as long as the width of the board itself. The board shall be laid on the roof so that its length extends from the ridgepole to the eaves and the upper end shall be securely fastened to the ridge with hooks, cleats or equivalent means. When crawling boards are used on roofs where the pitch is more than three (3) inches in one (1) foot, catch platforms or life-lines as required in 2 RCNY § 3-02(j)(5)(xvi), "Roofing Brackets" shall be provided.
+
+      (xviii) Metal scaffolds and equipment. The manufacturers of any type of metal scaffolds and equipment which has been in successful use or the adequacy of which has been shown by test, shall have the right to present the data on which their design is based, to the Board for special consideration. The Board shall investigate the data so submitted and shall consider issuing an approval setting forth the conditions under which it may be used.
+
+      (xix) Power operated scaffolds. Records of the inspection, servicing and maintenance of all power operated scaffolds shall be kept by the user. These records are to be as prescribed by the Commissioner of Buildings and are to be made available whenever called for by the Commissioner.
+
+   (6) Ladders.
+
+      (i) Requirements. Except where either permanent or temporary stairways or suitable ramps or runways are provided, ladders shall be used to give access to all floors and to all platforms or scaffolds where work is being performed five (5) feet or more above the ground or above a permanent or temporary floor. Such ladders shall be left in place until the permanent or temporary stairways are completed and ready for use.
+
+      (ii) Side rails. Ladders shall have parallel or spreading side rails constructed of Eastern or Sitka spruce, oak, Douglas fir or material equivalent in strength and durability. Side rails shall be made of thoroughly seasoned material free from shakes, cross breaks, checks over six (6) inches in length or more than one-half (1/2) inch deep, decay or other weakening defects. Side rails shall be dressed on all sides, shall be free from splinters, and all sharp edges shall be rounded. The cross grain in wood side rails shall not exceed a slope of one (1) in twelve (12). Knots shall not appear in the narrow faces of side rails. In the side face of side rails, knots shall not exceed one-half (1/2) inch in diameter and shall not be closer than one-half (1/2) inch to the edge of the side rail.
+
+      (iii) Rungs, steps or cleats. Rungs, steps or cleats shall be made of white ash, oak, hickory or other thoroughly seasoned material and free from shakes, pitch pockets, injurious checks, knots, decay or other defects. The cross grain in rungs, cleats and treads shall not exceed a slope of one (1) in fifteen (15). A uniform step spacing shall be used which shall not exceed fourteen (14) inches. Wood rungs shall be inserted in holes bored in the side rails which holes shall extend through the side rails or to within three-sixteenths (3/16) inch of the outside face of the rail. All holes for rungs shall be located on the center line of the side face of the side rails and the size of the holes shall be such as to insure a driving fit for the rung. Wood treads shall be equal in width to the depth of the side rails and shall be inserted into the side rails not less than three-sixteenths (3/16) inch, fastened thereto by nails or screws, and further secured by braces, bolts, tie rods or the equivalent. Wood cleats shall be not less than 3/4 × 3 inches in cross-section and shall be housed into the side rails not less than one-half (1/2) inch and nailed to each rail with two (2) 10d wire nails or the equivalent.
+
+      (iv) Single ladders. Portable single or straight ladders shall be limited to thirty (30) feet in length. The width between side rails at the base shall be not less than twelve (12) inches for ladders up to and including twelve (12) feet in length and for longer ladders this width shall be increased not less than one-quarter (1/4) inch for each additional foot of length. Single or straight ladders shall be provided with treads, rungs or cleats in accordance with the requirements of 2 RCNY § 3-02(j)(6)(iii) "Rungs, Steps or Cleats." The minimum dimensions of members of single or straight ladders shall be as specified in Table G, "Schedules for Single or Straight Ladders."
+
+TABLE G SCHEDULES FOR SINGLE OR STRAIGHT LADDERSNo. 1 – CONSTRUCTION OR BUILDERS' LADDERS
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - Length of Side Rail (feet)
+      - Minimum dimensions of Side Rails (inches) 
+      - 
+      - 
+      - 
+    * -  – At bottom –
+      - 
+      -  – At top –
+      - 
+      - 
+    * - Thickness 
+      - Depth 
+      - Thickness 
+      - Depth 
+      - 
+    * - Up to and incl. 12'
+      - 1 1/2"
+      - 2 3/4"
+      - 1 3/8"
+      - 2 1/4"
+    * - Over 12' to and incl. 18'
+      - 1 5/8"
+      - 3"
+      - 1 3/8"
+      - 2 3/4"
+    * - Over 18' to and incl. 22'
+      - 1 3/4"
+      - 3 1/4"
+      - 1 1/2"
+      - 2 3/4"
+    * - Over 22' to and incl. 30'
+      - 1 7/8"
+      - 3 5/8"
+      - 1 5/8"
+      - 3"
+~
+
+
+
+ 
+
+No. 2 – RECTANGULAR LADDERS
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - Length of Side Rail (feet)
+      - Minimum dimensions of Side Rails
+      - 
+    * - Thickness (inches) 
+      - Depth (inches) 
+      - 
+    * - Up to and incl. 19'
+      - 1 1/8"
+      - 2 1/2"
+    * - Over 19' to and incl. 23'
+      - 1 1/8"
+      - 2 5/8"
+    * - Over 23' to and incl. 25'
+      - 1 1/8"
+      - 2 3/4"
+    * - Over 25' to and incl. 27'
+      - 1 1/4"
+      - 2 3/4"
+    * - Over 27' to and incl. 30'
+      - 1 1/4"
+      - 2 7/8"
+    * - Note: The end depth at the top shall be not less than 2 1/4"and the thickness at the top end not less than 1 1/8". 
+      - 
+      - 
+~
+
+ 
+
+No.3 – CLEAT LADDERS
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - Length of Side Rail (feet)
+      - Minimum dimensions of Side Rails
+      - 
+    * - Thickness (inches) 
+      - Depth (inches) 
+      - 
+    * - Up to and incl. 19'
+      - 1 5/8"
+      - 3 5/8"
+    * - Over 19' up to incl. 30'
+      - 1 5/8"
+      - 5 5/8"
+~
+
+
+
+ 
+
+      (v) Extension ladders. Every extension ladder shall be composed of not more than three (3) sections. The fully extended working length of the ladder shall not exceed fifty-five (55) feet. Every extension ladder shall be equipped with metal guides and a metal shackle and pulley. Each slide section of every extension ladder shall be raised and lowered by means of a rope and pulley and shall be equipped with two (2) automatic locks of an approved type. The minimum dimensions of the members of extension ladders shall be specified in Table H, "Schedule for Extension Ladders."
+
+TABLE H SCHEDULE FOR EXTENSION LADDERS
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * -  Full extended length of ladder (feet) 
+      - Minimum dimensions  – of side rails –
+      - 
+      - 
+      - Minimum distance between side rails at bottom (inches) 
+    * - Thickness (inches)
+      - Dept (inches)
+      - Min. lap (feet)
+      - 
+      - 
+    * - Up to and incl. 19'
+      - 1 1/8"
+      - 2 1/2"
+      - 3' 
+      - 14 1/2"
+    * - Over 19' up to and incl. 23'
+      - 1 1/8"
+      - 2 5/8"
+      - 3' 
+      - 14 1/2"
+    * - Over 23' up to and incl. 25'
+      - 1 1/8"
+      - 2 3/4"
+      - 3' 
+      - 15"
+    * - Over 25' up to and incl. 27'
+      - 1 1/4"
+      - 2 3/4"
+      - 3' 
+      - 15"
+    * - Over 27' up to and incl. 30' 
+      - 1 1/4"
+      - 2 7/8"
+      - 3' 
+      - 16"
+    * - Over 30' up to and incl. 33'
+      - 1 5/16"
+      - 3"
+      - 3' 
+      - 16"
+    * - Over 33' up to and incl. 38'
+      - 1 5/16"
+      - 3 1/4"
+      - 3' 
+      - 17"
+    * - Over 38' up to and incl. 42'
+      - 1 3/8"
+      - 3 1/2"
+      - 4' 
+      - 17"
+    * - Over 42' up to and incl. 45'
+      - 1 1/2"
+      - 3 1/2"
+      - 4' 
+      - 18"
+    * - Over 45' up to and incl. 52'
+      - 1 5/8"
+      - 3 3/4"
+      - 5'* 
+      - 18"
+    * - Over 52' up to and incl. 55'
+      - 1 3/4"
+      - 3 3/4"
+      - 5'* 
+      - 18"
+~
+
+ 
+
+* For a three-section extension ladder each lap may be four (4) feet.
+
+      (vi) Sectional ladders.The fully extended working length of every sectional ladder shall be limited to thirty (30) feet. The minimum dimensions of side rails shall be not less than the following:
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - Length of Ladder (in feet) 
+      - – Side Rail –
+      - 
+    * - Thickness (inches) 
+      - Depth (inches) 
+      - 
+    * - Up to and incl. 21'
+      - 1 1/8"
+      - 2 3/4"
+    * - Over 21' to and incl. 30'
+      - 1 -1/8"
+      - 3 1/8"
+~
+
+
+
+ 
+
+Every connection joint of every sectional ladder shall be not less than one (1) foot and shall provide a good fit without binding or unnecessary play. The grooved ends of the sections shall be reinforced with a metal plate, of not less than No. 18 U.S. Gauge properly secured thereto, and a rivet above the groove extending through the depth of the rail. Every sectional ladder shall be provided with rungs in accordance with the requirements of 2 RCNY § 3-02(j)(6)(iii), "Rungs, Steps or Cleats."
+
+      (vii) Step ladders. Step ladders shall be limited to twenty (20) feet in length (of side rail). Every step ladder shall have members of a size and section of not less than the following:
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - Length of Ladder (in feet) 
+      - – Side Rail –
+      - 
+    * - Thickness (inches) 
+      - Depth (inches) 
+      - 
+    * - Up to and incl. 10'
+      - 25/32"
+      - 2 3/4"
+    * - Over 10' to and incl. 12'
+      - 25/32"
+      - 3"
+    * - Over 12' to and incl. 16'
+      - 25/32"
+      - 3 1/4"
+    * - Over 16' to and incl. 20'
+      - 1"
+      - 3 1/4"
+~
+
+
+
+ 
+
+Note: Where the tread gain or step inset is more than 1/8 Æ the size of the side rail shall be increased proportionally.
+
+The minimum width between side rails inside to inside at the top step shall be not less than twelve (12) inches, with an increase in width toward the bottom of not less than one (1) inch for each foot of ladder length.
+
+Every step ladder shall be so constructed that in the open position all treads or steps are level. The front section shall have a minimum slope of three and one-half (3 1/2) inches and the back section a minimum slope of two (2) inches for each foot of side rail length.
+
+A locking device or spreader to hold the front and back sections of the ladder in the open position shall be an integral part of every step ladder. Metal hinges shall join the front and rear sections of every step ladder at the top.
+
+The steps shall be treads or rungs in compliance with 2 RCNY § 3-02(j)(6)(iii), "Rungs, Steps or Cleats." Rungs or lateral cross bracing shall be used to stiffen the back section and where the back section is not provided with steps or rungs but is rigidly braced, the depth of the side rail of the rear section may be one (1) inch less than that given in the above schedule.
+
+      (viii) Trestle ladders. Trestle ladders shall be limited to twenty (20) feet in length (of side rail). Extension trestle ladders shall be limited to a total height of twenty (20) feet. The dimensions of side rails of trestle ladders and the bases of extension trestle ladders shall be not less than the following:
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - Length of Side Rails (in feet) 
+      - Minimum Thickness (inches) 
+      - Minimum Depth (inches) 
+    * - Up to and incl. 12'
+      - 15/16"
+      - 2 1/2"
+    * - Over 12' to and incl. 16'
+      - 15/16"
+      - 2 3/4"
+    * - Over 16' to and incl. 20'
+      - 15/16"
+      - 3 1/4"
+~
+
+
+
+ 
+
+The dimensions of side rails of the extension section shall be not less than the following:
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - Length of Side Rails (in feet) 
+      - Minimum Thickness (inches) 
+      - Minimum Depth (inches) 
+    * - Up to and incl. 12'
+      - 15/16"
+      - 2 1/2"
+    * - Over 12'
+      - 15/16"
+      - 2 3/4"
+~
+
+
+
+ 
+
+The distance between side rails of trestle ladders shall not be not less than twelve (12) inches. The spread of the side rails for trestle ladders, and for the bases of extension trestle ladders shall be not less than one (1) inch per foot of length of ladder. The extension sections shall have parallel side rails. Trestle ladders and the base sections of extension trestle ladders shall be so spread that the length of the trestle base at the bottom, inside to inside, is not less than five and one-half (5-1/2) inches per foot of length of ladder. Substantial metal hinges shall join the front and back sections of every trestle ladder at the top, and a locking device or spreader to hold the ladder in an open position shall be a component part of each ladder. An approved locking device shall be used to attach and secure the extension ladder to the trestle base. When extension trestle ladders are used in connection with a scaffold all component parts of the scaffold shall be securely and rigidly braced.
+
+      (ix) Use of ladders. Every portable ladder when in use shall be inclined to such a pitch that the horizontal distance from the base of the ladder to the point of support is not less than one-fourth (1/4) the length of the ladder, unless both the upper and lower ends of the ladder are securely fastened to a rigid and permanent support. Ladders shall be maintained in good condition at all times. The joint between the steps and side rails shall be tight; all hardware and footings shall be securely attached, and the moving parts shall operate freely without binding or undue play. Portable ladders shall be so placed that the side rails have a secure footing. The top rests for ladders shall be reasonably rigid and shall have ample strength to support the applied load. Ladders shall not be spliced together to provide a longer ladder. Ladders shall not be placed on boxes, barrels or other unstable objects to obtain additional height, but shall rest on firm and level surfaces to prevent slipping or overturning. Every ladder more than fifteen (15) feet in length shall, during use, be securely lashed to some stationary object or held in place by a workman. Every ladder, except free-standing step ladders and trestle ladders, shall be equipped with approved non-slip shoes or bases or otherwise adequately secured or placed to prevent slipping. Side rails of ladders shall extend not less than forty-two (42) inches above the floor, platform or landing which they serve. Every ladder which serves a floor, platform or landing shall be securely fastened both at the top and at the bottom so that it cannot move in any direction. Ladders shall not be used in lieu of scaffolds and only such work shall be performed by a workman on a ladder as will permit said workman to maintain a secure hand-grip on the ladder with one hand; except that a ladder may be used for performing such work as may be performed through the rungs of the ladder. Ladders shall be smooth and free from projecting nails, splinters and slivers.
+
+   (7) Runways and ramps. Runways and ramps shall be substantially constructed and securely braced and supported. Runways and ramps for the use of vehicles shall have a width of not less than twelve (12) feet and shall be provided with timber curbs not less than 8 inches × 8 inches placed parallel to, and secured to, the sides of the runway or ramp. The planking shall be not less than three (3) inches in thickness. Runways and ramps for the use of workmen shall be not less than eighteen (18) inches in width and shall be constructed of planking not less than two (2) inches in thickness, substantially supported and braced to prevent excessive spring or deflection. Planking for runways and ramps shall be laid close and shall be butt joined and securely nailed. Runways or ramps for the use of workmen and located more than seven (7) feet above a floor or platform shall be provided on the open sides with a standard railing and toeboard in compliance with the requirements of 2 RCNY § 3-02(j)(13), "Guard rail and railing; Standard railing and toeboard". Runways used for wheel-barrows, hand-carts or hand-trucks shall be not less than thirty-six (36) inches in width. Ramps shall have a slope not exceeding one (1) in four (4) and the total rise of a continuous ramp shall not exceed twelve (12) feet, unless broken by horizontal landings at least four (4) feet in length. If the slope is greater than one (1) in eight (8), the ramp shall be provided with cleats spaced not more than fourteen (14) inches apart and securely fastened to the planking to afford a foot-hold. Spaces in the cleats may be provided for the passage of the wheels of vehicles.
+
+   (8) Platforms.
+
+      (i) Platforms used as working areas, or for the unloading of wheel-barrows, hand-trucks or carts, shall have a floor of planking not less than two (2) inches in thickness. Platforms used for trucks shall have planking not less than three (3) inches in thickness. Every platform more than ten (10) feet above the ground or above a floor shall be provided with a guard rail and railing, in compliance with 2 RCNY § 3-02(j)(13), "Guard rail and railing; Standard railing and toeboard", except that the side of a platform used for the loading or unloading of vehicles may be protected by a timber curb not less than 8 inches × 8 inches for heavy vehicles or 4 inches × 4 inches for wheel-barrows and hand-trucks in lieu of such standard railing and toeboard.
+
+      (ii) Design and construction of forms. The design and construction of forms shall conform to the following requirements:
+
+         (A) Forms shall conform to the shape, lines, and dimensions of the member as called for on the plans. Forms shall be substantial and sufficiently tight to prevent leakage of mortar; and shall be properly braced or tied together so as to maintain position and shape and insure safety to workmen and passerby. Temporary openings shall be provided where necessary to facilitate cleaning and inspection immediately before depositing concrete.
+
+         (B) Where the height of the shores exceeds ten feet, adequate diagonal bracing shall be provided in both longitudinal and transverse directions. In addition, adequate diagonal braces shall be provided at the ends of the framework. Diagonal bracing shall extend from the top to bottom of shores.
+
+         (C) The unbraced length of wood shores supporting forms shall not exceed fifty times the least dimension. Metal shores or frames shall be approved by the Board of Standards and Appeals and shall be installed in accordance with the approval of the board. Shores shall be adequately secured at the top and shall be properly wedged at top or bottom, if required.
+
+         (D) Where shores rest upon the ground, adequate mud sills, or other bases, shall be provided to support the shores adequately.
+
+         (E) Qualified workmen shall be detailed constantly during the placing of concrete to insure that there is no movement of shores, braces or other supports. The name of the foreman in charge of the formwork shall be posted in the field office of the contractor.
+
+         (F) The individual, firm or corporation who does the concrete work shall be responsible for the adequate design and construction of all forms used in the construction of the building. Wherever the shore height exceeds fourteen feet, or the load on the forms exceeds one hundred fifty pounds per square foot, or power buggies are used, or two stage shores are used, the individual, firm or corporation who does the concrete work shall certify to the department that the form design has been checked and approved as adequate by a licensed professional engineer who has had at least five years of experience as a structural engineer, and that the forms have been constructed in conformance with the design which was checked and approved by the said engineer.
+
+   (9) Elevated walkways. Elevated walkways used for passage from place to place by workmen shall be constructed in compliance with the requirements of 2 RCNY § 3-02(j)(7), "Runways and Ramps."
+
+   (10) Floor openings. Every floor opening shall be guarded by a Standard Railing and Toeboard in compliance with 2 RCNY § 3-02(j)(13), "Guard rail and railing; standard railing and toeboard," or as an alternative, the openings may be planked over with planks laid close, and such planking shall be not less than two (2) inches in thickness. Wherever railings or planking have been temporarily omitted or removed to permit the installation of work or the handling of material, such railings or planking shall be promptly and properly replaced in position upon the ceasing of such work or the handling of such material.
+
+   (11) Stairways. Where a building has progressed to the extent that floor conditions permit the installation of the permanent stairways but where it has not been practicable to install such permanent stairways, there shall be installed at least one temporary stairway for the entire height of the structure, which stairway shall be continued up as the work progresses and shall remain in place until the permanent stairways shall have been installed. Such temporary stairways shall have treads of not less than 2 inch × 10 inch plank and stringers of not less than 2 inch × 10 inch plank. Temporary stairways shall be not less than three (3) feet in width and shall be substantially constructed and rigidly braced. Stairways more than five (5) feet in width shall be provided with an intermediate stringer. Stairways with steel treads and landings which are to be afterward filled in with concrete or other tread surfacing, shall be provided with temporary wooden treads carefully fitted in place and extending to the edge of the metal nosing and over the full width of the treads and landings. Skeleton iron stairs shall have wooden treads not less than two (2) inches in thickness. All treads and landings shall be free from protruding nails, debris or other materials. The stairwells of temporary wooden stairways and permanent stairways on which the enclosure or guard rail has not been erected shall be provided on all open sides with a standard railing and toeboard in compliance with 2 RCNY § 3-02(j)(13), "Guard rail and railing; standard railing and toeboard." Temporary stairs shall have an unbroken vertical rise of not more than twelve (12) feet. Every stairway shall be provided with handrails not less than thirty (30) inches nor more than forty (40) inches high, measured vertically from the tread to the top of the rail.
+
+   (12) Catch platforms. Catch platforms shall be constructed as provided for in 2 RCNY § 3-02(i)(17).
+
+   (13) Guard rail and railing; standard railing and toeboard. A guard rail shall be a wood or metal railing not less than thirty-six (36) inches or more than forty-eight (48) inches in height and shall be provided with an intermediate rail midway between the top rail and the floor, constructed in a substantial manner, smooth, and free from protruding nails, splinters, or slivers. The uprights shall be not less than 2 inches × 4 inches, or the equivalent, spaced not more than eight (8) feet apart. The top rail shall be not less than 2 inches × 4 inches, or the equivalent, and the mid-rail not less than 1 inch × 4 inches. A guard rail, if of wood, shall be not less than 1 inch × 6 inches. The railing shall be installed on edge, securely fastened to uprights spaced not more than eight (8) feet apart, and so installed that no open space exists between the floor and the toeboard and that the clear height from the floor level to the top edge of the railing is not less than five (5) inches. Such barriers shall not be placed closer than two (2) feet of any opening. See 2 RCNY § 3-02(e)(16)(xii). A standard railing shall be a wood or metal railing not less than thirty-six (36) inches or more than forty-eight (48) inches in height and shall be provided with an intermediate rail midway between the top rail and the floor, constructed in a substantial manner, smooth, and free from protruding nails, splinters, or slivers. The uprights shall be not less than 2" × 4", or the equivalent, spaced not more than eight (8) feet apart. The top rail shall be not less than 2" × 4", or the equivalent, and the mid-rail not less than 1" × 4". A standard toeboard, if of wood, shall be not less than 1" × 6". The toeboard shall be installed on edge, securely fastened to uprights spaced not more than eight (8) feet apart, and so installed that no open space exists between the floor and the toeboard and that the clear height from the floor level to the top edge of the toeboard is not less than five (5) inches.
+
+   (14) Use of elevators. Every temporary elevator car used for carrying workmen shall have the hoistway, in which it travels, completely enclosed for its entire height and all openings into such hoistway shall be protected with self-latching or manually latched doors locked on the hoistway side. Controls shall be so arranged that the car cannot travel while car door is open. The car shall be enclosed on all sides and the entrance shall be provided with a door or gate which must be closed before the car can be put in motion. The top of each elevator car shall be provided with a strong and substantial cover openable from the inside of the car. The elevator machinery and controls shall be housed as a protection against accidents and the weather and the entrance kept locked against unauthorized entrance. In all other respects the construction and use of elevators shall comply with the requirements of the Administrative Building Code.
+
+   (15) Hoistways. At least two (2) sides of every material hoistway within any building or structure shall be enclosed at each floor for the full story height with wire netting of not less than No. 18 Steel Wire Gauge with a one-half (1/2) inch mesh or with other material affording equivalent strength and protection, and secured to uprights so spaced as to provide a strong and substantial enclosure. The enclosure shall extend not less than two (2) feet in front of the hoistway unless the entrances to the hoistway are protected by gates. All openings into the hoistway shall be protected by hinged or pivoted bars not less than 2 inches × 4 inches in cross section, placed at a height of not less than three (3) feet nor more than four (4) feet above the floor and located not closer than two (2) feet from the hoistway. In lieu of such shaftway bars and the extension of the hoistway enclosure to two (2) feet beyond the end of the hoistway openings, substantial gates shall be installed within four (4) inches of the face of the hoistway. Such gates shall have a maximum space between slats of two (2) inches and shall be so constructed that the top shall be not less than five and one-half (5 1/2) feet above the floor and the bottom not more than two (2) inches above the floor. Where bars alone are used for protection, a standard toeboard shall be installed on every open side whenever material is not being handled from that side. Hoistways, in which cars for the use of workmen travel, shall be protected as provided in 2 RCNY § 3-02(j)(14), "Use of Elevators." A protective covering of planking or heavy wire netting shall be provided above the overhead work of all hoists to prevent objects from falling into the hoistway. Where it is necessary for men to work within or at an elevator shaft, hoistway or stairwell during the construction, demolition, repair or renovation of the building or structure, and where material may fall into such hoistway or shaft, an overhead protective covering shall be provided not more than two (2) stories above the level at which such men are working. In addition a similar protection shall be installed not more than one (1) story below such point at which men are working. Such protective covering shall be equivalent in strength and suitability to that provided by planking two (2) inches in thickness laid with not more than one-fourth (1/4) inch space between planks and extending for the full area of the hoistway. Enclosures of wire mesh, or wood slats not more than two (2) inches apart, shall be installed to prevent ingress to the space under any hoist or elevator.
+
+   (16) Hoists, material.
+
+      (i) Interior hoistways. All material hoistways within a building or structure shall be protected as provided in 2 RCNY § 3-02(j)(15), "Hoistways."
+
+      (ii) Outside hoist towers. The car and counterweight shall be provided with safety devices capable of stopping and sustaining the car with its capacity load whenever the safeties are applied and capable of sustaining the counterweights in the event the counterweight ropes should break. There shall be a floor under the hoistway and above the thoroughfare of such construction as will withstand without failure the impact of the car with rated load or the counterweight descending at governor tripping speed.
+
+      (iii) Material hoists. Construction of hoist towers. Material hoist towers shall be constructed of strong, sound timber or of structural steel, supported by a firm foundation of such dimensions as to adequately distribute the load and so as not to exceed the safe bearing capacity of the ground upon which it stands. Hoist towers shall be plumb, and shall be securely braced to ensure stability and rigidity. Such towers shall be anchored to the building at intervals of not more than twenty-five (25) feet or shall be properly guyed by means of steel cables not less than one-half (1/2) inch in diameter, securely fastened to suitable and adequate anchorages. Hoist towers shall be erected and dismantled only by experienced men. Hoist towers shall be erected only to a height necessary for immediate needs and shall be extended in height only when construction work has progressed sufficiently to provide for the anchorage and bracing hereto fore required.
+
+      (iv) Enclosure of hoist towers and bucket hoistways. Hoist towers shall be enclosed on all sides at grade and on all sides adjacent to or within three (3) feet of any floor, landing, scaffold or walkway to a height of not less than eight (8) feet. The enclosure shall be by means of wire mesh or slatted partitions adequately supported, braced and secured so as to provide a substantial enclosure. Wire mesh shall be not less than No. 18 Gauge with openings not exceeding one-half (1/2) inch. Wood slats shall be not less than three-fourths (3/4) inch in thickness and spaced not more than two (2) inches. When outside hoisting buckets are used a barricade shall be provided at grade to permit a minimum clearance of 5 feet from all working parts. Chutes of bucket hoistway towers shall be substantially constructed and securely braced, and properly pitched so that the material will flow by gravity. A pit shall be provided at the bottom of the tower so that any spilling from the bucket shall fall below the blocking on which the bucket rests while being filled.
+
+      (v) Entrances to hoist towers. All entrances to hoist towers shall be protected by substantial gates which, when closed, shall guard the full width of the landing entrance. Gates shall be not less than sixty-six (66) inches in height and located not more than four (4) inches from the hoistway line and may have an under-clearance of not more than two (2) inches. Gates of grille, lattice or other open work, shall have openings of not more than two (2) inches. Gates shall be equipped with latches or locks openable from the hoistway side only. Where it is impractical to provide gates, the landing entrance for its full width shall be protected by hinged bars not less than two (2) inches by four (4) inches or equivalent, located two (2) feet from the hoistway line. Hinged bars shall be located not less than thirty-six (36) inches nor more than forty-eight (48) inches from the floor. Where hinged bars are installed, the hoistway enclosure shall be extended to two (2) feet beyond the hoistway line. Every hoistway gate or bar shall be kept closed except when the entrance is in use.
+
+      (vi) Hoist cars. The platform of hoist cars shall be enclosed from floor to crosshead with a solid enclosure on all sides not used for loading and unloading. At the crosshead a protective covering of planking shall be provided to protect workmen from falling material. Such protective covering may have a hinged section to provide for lengthy material. Blocks and cleats shall be securely fastened to the floor of hoist cars to prevent accidental rolling of wheel-barrows or the shifting of other equipment.
+
+      (vii) Hoisting machinery. Hoisting machinery shall not be loaded beyond rated capacity. Brakes shall be provided which shall be properly maintained and shall be capable of stopping the machine and holding one hundred and fifty (150) percent of the rated capacity. Automechanical non-reversing brakes shall also be provided on each hoist. Hoisting machinery shall be adequately protected against the weather and falling material. The guide rails of hoists shall be of steel or sound wood securely fastened at intervals so as not to deflect more than one quarter (1/4) inch under normal operation.
+
+      (viii) Operation of hoist. Workmen shall be prohibited from riding on any material hoist and a sign to that effect shall be conspicuously posted at every landing. Only competent, authorized men shall operate hoists. The operation of every hoist shall be controlled by a signal system. Manual signals may be used where the engineman or operator is in a position to see the signalman, but where men are loading or unloading at more than one level or where the signalman cannot readily be seen, a mechanical or electrical signal system shall be provided and used. Such signals shall be the signals used for operation of derricks and cranes as provided in 2 RCNY § 3-02(j)(20)(i), "Signals."
+
+   (17) Workmen's hoist. Requirements. Workmen's hoists may be used when they are of a type approved by the Board. Individual applications for approval shall include all details of the construction of the hoistway, hoisting equipment, controls, safety devices and all other appurtenances.
+
+   (18) Derricks and Cranes.
+
+      (i) Requirements. Derricks shall be so constructed, erected and operated that no part shall be stressed beyond the working strength or capacity for which it is designed. Before erection, all blocks, shackles, sheaves and the various devices on the mast and boom shall be thoroughly inspected. The foot-block of every derrick shall be securely supported and firmly anchored against movement in any direction. Substantial shores shall be placed against the foot-blocks of the derrick to take the pull of the hoisting engine. The top of the mast on guy derricks more than twenty-five (25) feet in height shall be steadied by not less than six (6) cables equally spaced and with equal tension in the guys. All cables shall be inspected before being used and any cable showing excessive rust or a breakage of wires as great as ten (10) percent of wires in any three (3) foot section shall be discarded. The ends of the cables shall be placed in thimbles and secured to the guy plates by means of shackles. The cable end shall be clamped by not less than three (3) "U" clamps. Derricks shall be supported on a firm foundation. On soft soil the foot-blocks shall be placed on substantial timbers of sufficient length to distribute the load so as not to exceed the safe bearing capacity of the soil. Where a derrick is used on the floors of a building, timbers shall be placed under the foot-blocks so that derrick loads shall be transmitted to the structural frame of the building. The booms and masts of every derrick or crane shall be constructed of selected Douglas fir or yellow pine, or shall be of steel or other material equivalent in strength and durability. Cast iron shall not be used for members or parts subjected to tension. Guy wires shall be attached to strong permanent construction or to substantial "dead men," securely anchored in the ground. On derricks which have a boom longer than the mast the gudgeon-pin, mast-top and goose-neck shall be securely fastened to the top of the mast to prevent the pulling out of these parts when the boom is raised. There shall be posted, in a conspicuous place on every derrick or crane, a sign showing the maximum safe lifting capacity of such derrick or crane. The engines of every derrick and crane shall be of ample capacity and shall be equipped with brakes capable of sustaining one hundred and fifty (150) percent of the rated load for stopping and holding such loads in any position. Automechanical non-reversing brakes shall also be included in each hoist.
+
+      (ii) Breast derricks. Breast derricks shall be guyed from both the front and the rear of the derrick. Where a front guy is not possible because of the use to which the derrick is put, provision shall be made to prevent the derrick from tipping over backward. Breast derricks which are operated by hand power shall have handgrips securely and positively fastened to the shaft and a ratchet and pawl shall be provided which will engage the gear and hold the load at any desired height.
+
+      (iii) Operation. Derricks shall be operated by a person skilled in the use of the particular type of derrick. The operator shall cause a dally inspection and lubrication of the crane or derrick to be made. When the work is stopped or when the derrick or crane is not in operation, the boom shall be lowered to a horizontal position or securely tied in place to prevent accidental dropping or swaying of the boom. Loads shall not be lifted or swung over any person and no one shall be permitted to walk under any load. On loads which have a tendency to swing freely, there shall be attached a tag-line or guide rope to control such swing. No person shall ride on derrick loads, slings or hooks.
+
+      (iv) Cables, block and tackle, slings, hooks and clamps. All cables, chains, ropes, blocks and similar tackle shall be of sufficient size and strength to safely raise, lower or sustain the load for which it is intended, in any position of operation. Unless otherwise provided for in the Administrative Building Code, the maximum allowable working load of new cables, chains, ropes and blocks shall be based on information furnished by the manufacturer of such equipment. All hooks shall be of forged steel. Hooks that have become deformed by overloading shall not be used again, and unless such hooks have been repaired and properly heat treated, a new hook shall be substituted. Sheaves and blocks shall be frequently inspected and kept well lubricated. Sheaves that have become worn, chipped or otherwise damaged shall not be used. Sheaves and blocks designed for use with Manila rope shall not be used with wire cables. Cables, and blocks used to change the direction of cables, located near any floor or in the close proximity to any working area, shall be enclosed or otherwise effectively guarded against accidental contact by the workmen. Cable which is kinked or badly rusted or which has ten (10) per cent or more of its wires broken or damaged in any three (3) foot section shall be discarded. Cables shall be securely fastened to their drums by zinc plugs or other suitable clamps and at least two (2) full turns of the cable shall remain on the winding drum at all times. Cables shall be fastened to an object by looping the cable around the object and clamping the end by means of "U" type cable clamps. Such clamps shall be spaced so that the distance between centers is not less than six (6) times the diameter of the cable and not less than three (3) clamps shall be used on every connection. The clamps shall be so attached that the "U" part of the bolt is over the short end of the cable with the middle clamp placed in reverse to end clamps.
+
+      (v) Rope. Rope shall be of first quality long fibred Manila rope. Frozen rope shall be carefully thawed out before being used and shall be stored in a dry place. Before any rope is used it shall be carefully inspected for abrasions and severe wear. Rope which has been exposed to acid shall not be used. Ropes shall not be made fast to sharp objects or surfaces which may cut into the strands of the rope.
+
+      (vi) Chains. Chains which have deformed links or links which are stretched from their original length shall not be used. Chains shall not be allowed to kink. All repairs to chains shall be made by an experienced blacksmith or chain-wright, except that alloy steel chains shall be repaired by the manufacturer of such chains.
+
+      (vii) Cranes operating from public streets. No crane shall be permitted to operate from a public street without a permit issued by the president of the borough in accordance with law. When such crane is permitted, the borough superintendent may permit the omission of the sidewalk bridge, but shall provide such barricades and other safeguards as he deems necessary.
+
+   (19) Tools.
+
+      (i) Hand Tools. All hand tools shall be kept in the best possible condition. Edged tools shall be kept sharp, and hammers, sledges, cold chisels, drills and other similar tools shall be dressed frequently to remove burrs or mushroomed heads. Tools with split or loose handles shall be immediately discarded or repaired. Hand tools shall not be permitted to lie about so as to form a tripping or falling hazard.
+
+      (ii) Pneumatic Tools. Pneumatic hand tools shall be equipped with a device to hold the tool-point in the machine and shall have operating triggers or sleeves so installed that the tool can be operated only while in the hands of the workman. Pipe lines and air hose shall be frequently inspected and all defects remedied immediately. Hose shall be of the non-kinking type and shall be securely and positively attached to the tool. Adjustments to pneumatic tools or the removing or connecting of air hose shall not be done until it has been ascertained that no air under pressure is being supplied to the hose or tool. Air hose and pipe shall be located so as not to constitute a tripping hazard and shall be protected from contact with moving objects and from abrasion by sharp edges or surfaces.
+
+      (iii) Electrical Tools. Electrically operated tools shall be grounded or shall be provided with a three (3) conductor cord which shall be of oil and water resistant construction. One wire of the three (3) conductor cord shall be attached to the frame of the tool and the other end grounded. Electric tools shall be provided with a safety trigger of such a type that the tool can be operated only while in the hands of the workman. Such safety trigger shall be so located on the tool as to prevent accidental starting of the motor when the tool is laid on a floor or platform. Periodic examination shall be made of every electrical tool, and the cord thereof, and any abrasion, break or kink shall be immediately repaired. The cord of every electric tool shall not be so placed as to constitute a tripping hazard, nor shall it be placed where it may be subjected to damage by sharp objects or moving vehicles.
+
+      (iv) General. Tools shall not be permitted to lie about so as to constitute a tripping or falling hazard. All tools shall be used for the purposes intended and shall be removed from the site when the need for such tools no longer exists.
+
+   (20) Engines.
+
+      (i) Signals. Every engine shall be operated in response to manual signals or to the following visible or audible signal code:
+
+         (A) For platform, bucket and similar hoists the following signals shall be used:
+
+            1 bell(or light)- to stop            2 bells (or lights) – to raise            3 bells (or lights) – to lower            4 bells (or lights) – to lower slowly
+
+         (B) For hoisting cables or the cables controlling the boom movements of derricks or cranes, the following visible or audible signals shall be used:
+
+            1 bell(or light)- to stop            2 bells (or lights) – to raise            3 bells (or lights) – to lower            4 bells (or lights) – to move the boom to the right            5 bells (or lights) – to move the boom to the left
+
+         (C) Where the signalman has a clear and unobstructed view of the operations of a hoist, crane or derrick, and where the operator has a clear and unobstructed view of the signalman, a manual system of signaling may be used. Such manual system shall be universally understood by those engaged in the specific hoisting operations. A copy of the signal code shall be posted in a conspicuous place adjacent to the hoisting controls. All wires, cords or other devices used in connection with signal systems shall be protected against unauthorized or unintentional use, breakage or interference.
+
+      (ii) Protection of Operator. The operator of every engine shall be protected from injury by falling objects by an overhead protection equivalent to that provided by planking not less than two (2) inches thick, laid tight. Where the engineman's station is so located that the very location of his station eliminates the danger of any injury from falling objects, such overhead protection may be dispensed with. The exhaust from every internal combustion engine or steam engine shall be piped to the outer air and shall discharge at a height not less than three (3) feet above the head of the operator. Steam and smoke shall not be discharged so as to interfere with the vision of the operator. Internal combustion engines shall be stopped and all open flame light in the vicinity of the engines shall be extinguished before filling any fuel tanks.
+
+      (iii) Boilers. Every boiler shall be constructed, installed, inspected and maintained in accordance with the provisions of the Administrative Building Code and the rules of the Board.
+
+      (iv) Hoisting Engines. Hoisting engines shall be set on a firm foundation securely anchored against movement in any direction. The engines shall be of sufficient power to lift the load intended. A sign or plate giving the maximum load which it can hoist shall be posted in a conspicuous place near every hoist engine. Every hoist engine shall be equipped with brakes which will effectively hold and sustain in any position a load one hundred and fifty (150) percent of the rated load. Dogs or pawls shall be provided to hold the load when it is suspended for any considerable length of time.
+
+   (21) Power Excavators. Every power shovel or excavator shall be carefully placed and located. Where the ground is soft or uneven, substantial timbering or planking shall be used to provide a firm foundation. The shovel shall be so located on the timbering and planking as to distribute the load uniformly. The operator of every shovel shall be protected, by a cab or other suitable means, from injury by falling loads, cinders, steam or water. No person except the operating crew shall be permitted on a shovel while the shovel is in operation. No person, other than the pitmen and excavating crew, shall be permitted to stand in back of the shovel or within range of the swing of the dipper while the shovel is in operation or being moved to a new location. Shovels when not in use shall be left with the dipper or bucket on the ground and all lubricating, greasing and repairing of equipment shall be performed with the machine at rest.
+
+   (22) Pile Drivers. Every pile driver shall be firmly supported on substantial timbers where deemed necessary. Frequent inspections shall be made of the ground on which the pile driver rests as well as of adjoining ground and any evidence of movement or displacement of the ground shall be immediately provided for. All pile driving equipment shall be inspected daily before the start of work and every defect shall be immediately corrected before beginning operations. The operator of every pile driver shall be protected from falling objects, steam, cinders and water by a substantial covering. Each member of the pile driving crew shall be experienced in the work he is to do and the operation shall be in charge of a competent foreman or other authorized person, who, alone, shall direct the work and give the operating signals. The preparation of the piles shall be done at a safe distance from the driving operation. During the hoisting of the piles, all persons not actually engaged in operating the equipment and handling the piles shall be kept from the area. When a pile driver is not in use, the hammer shall be chocked or blocked in the leads. The operator of every pile driver shall remain at his post when the work is stopped until the hammer has been chocked or blocked in the leads, or has been lowered and is resting on a driven pile or on the ground. Where steam hammers are used, the steam hose shall be securely and positively connected to the hammer and such hose shall be lashed, or otherwise fastened, to the hammer independently of the connection. Steam lines shall be controlled by shut-off valves located within easy reach of the operator. Driving plates, cushions and striking-heads shall be securely and positively fastened to the top of the pile in such a manner as to prevent their dislodgment during driving operations. A strong ladder shall be firmly secured to the leads of the pile driver. Such ladder shall extend from the bottom of the leads to the overhead sheaves. Working platforms consisting of not less than two (2) inch planking, laid tight, shall be provided on all levels of the leads at which it is necessary for men to work. Such platforms shall be provided with a guard rail or railing on all sides, except on the hammer or lead side of the platform. An opening not more than twenty-four (24) inches in width may be provided for access to the ladder.
+
+   (23) Concrete Mixers. Concrete mixers provided with an elevated charging skip shall be operated by experienced men only. Each time before the skip is raised or lowered, the operator shall satisfy himself that no workman is within the danger area.
+
+   (24) Rock Drills. Rock drills of the self-supporting type shall be firmly erected. The air hose to every drill shall be securely and positively connected to the drill.
+
+   (25) Explosives.
+
+      (i) Storage, Sales, Transportation, Use or Possession of Explosives, Generally .
+
+         (A) Permit. It shall be unlawful to transport, store, sell, deliver, use or have in possession any explosive without a permit. But no permit shall be granted to any person other than a citizen of the United States.
+
+         (B) Guncotton and Soluble Cotton. It shall be unlawful to transport, store or sell any guncotton or soluble cotton except in watertight metal vessels, containing no more than ten pounds, dry weight, and at least twenty percent of water.
+
+         (C) Nitro-glycerine. It shall be unlawful for any person to transport, store, keep, sell, deliver, use or have in his possession any liquid nitro-glycerine, or to store, transport or use, between the first day of November and the 15th day of March, any explosive which will freeze or deteriorate at a temperature higher than ten degrees above zero Fahrenheit; provided, that permits may be issued for the transportation and sale of nitro-glycerine in the form of tablets, pills or granules, in quantities not exceeding ten thousand pieces, containing no more than one-fiftieth of a grain each. No explosives containing nitro-glycerine, and not intended for use within the city, shall be stored or kept therein or landed at or upon any dock, pier or bulkhead thereof, except as prescribed by the commissioner.
+
+         (D) Transportation or Delivery. It shall be unlawful to transport or deliver any explosive between sunset and sunrise, or in a completed tunnel or subway under land or waters, or in or upon any public conveyance nor shall any explosive be transported through, in or upon any street, except in the manner provided in section 27-4034 of the Administrative Code.
+
+         (E) Supervision. It shall be unlawful to bring into the city, or transport, store, deliver or use any explosive therein unless same shall be continually under the care and supervision of one or more persons, each holding a certificate of fitness.
+
+         (F) Unapproved Kinds, Types or Brands. No permit shall be issued for the bringing into the city for the transportation, storage, sale or use therein, of any explosive which is not of a type, kind or brand that has been examined, tested and approved by the commissioner.
+
+      (ii) Blasting Operations.
+
+         (A) No person other than one experienced in the use of explosives and duly authorized by the person in charge of the job shall fire shots. Blasting shall be done only by means of electric shot firing equipment.
+
+         (B) At least three minutes before firing a blast, the blaster shall give warning thereof by directing competent workmen, holding a red flag, to be stationed at a safe and reasonable distance from the blast at each avenue of approach or points of danger. All persons shall be required to retire a safe distance and to remain at such distance until directed to return by the blaster or person firing the shot.
+
+         (C) Blasting charges shall be tamped only by means of wooden tamping rods and explosives shall be placed, or set into place, by steady even pressure only. Strokes or blows with the tamping rod are prohibited and no tamping rod which is frayed or split shall be used. Immediately after loading and tamping a hole and before firing the blast, the rock to be blasted shall be covered on all exposed sides with a strong woven matting composed of rope not less than one and one-half (1 1/2) inches in diameter or of wire rope not less than one-half (1/2) inch in diameter, which woven matting shall be of such size and weight as to prevent any particles from being projected into the air by the blast. Such protection may be omitted, however, where a single drill hole is fired at one time and where the nearest road, street, sidewalk or other thoroughfare, or the nearest occupied building is more than one hundred (100) feet from the charge to be exploded.
+
+         (D) Only men experienced in the use of explosives and duly authorized by the person in charge of the job, shall fire blasts.
+
+         (E) No person shall be allowed to deepen holes which have previously contained explosives. After a blast is fired, no workman shall approach the side of the blast until a sufficient length of time has elapsed to permit falling material to drop and for the smoke, fumes and dust to be dissipated or blown away. Where a charge has failed to explode, no one shall approach the charge, except the person conducting the blasting. Explosives shall not be extracted from a hole which has once been charged; the tamping, only, may be withdrawn sufficiently to allow a mis-shot to be fired by the insertion of a fresh additional charge of primer. In case of a misfire the blasting leads shall be disconnected before any person is permitted to approach the charge.
+
+         (F) When there is doubt that all shots have been fired, no one shall return to the working area within thirty minutes when electric delayed detonators are used, or within fifteen minutes when instantaneous electric detonators are used, and then only when so directed by the blaster.
+
+   (26) Welding and Cutting.
+
+      (i) Requirements. All welding and cutting shall be in accordance with the "Arc and gas welding and oxygen cutting of steel" located in 2 RCNY § 25-01.
+
+      (ii) Gas Cylinders. All welding and cutting shall be performed by operators who hold a certificate of qualification, issued in accordance with the "Arc and gas welding and oxygen cutting of steel" located in 2 RCNY § 25-01. All cylinders used for the shipment of compressed gases or oxygen shall be constructed, maintained, and marked in accordance with the regulations of the Interstate Commerce Commission. Cylinders shall be stored away from open flames, radiators and other sources of heat and so arranged or placed that they will not be knocked over or damaged by passing or falling objects. Cylinders, unless other suitable provision has been made to prevent their upsetting during use, shall be securely lashed to a stationary object. During use every cylinder shall have the cylinder valve key or wrench left in place on the valve spindle. All cylinders shall be used and stored in an upright position. Cylinders containing oxygen shall not be stored when not in use, near cylinders containing any gas or near highly combustible material or near oil or grease. Cylinders shall be carefully moved and then only after closing the cylinder valves. Regulators or reducing valves shall be tightly connected with a gas tight connection. Gas or oxygen cylinders shall not be used unless equipped with the proper regulator or automatic reducing valve. All valves shall be opened by hand. Cylinders when empty shall have their valves closed and marked with a tag or sign indicating that the tank is empty.
+
+      (iii) Hose and Hose Connections. All hose shall be first quality rubber hose having a sufficient number of plies of fabric to withstand the service for which it is employed. Oxygen hose shall have fittings of a different size or shall be of a color different from that of hose used for gas connections. Hose connections shall be of either the ferrule or clamp type and shall be capable of withstanding, without leakage, a pressure equal to twice the maximum delivery pressure of the pressure regulators provided on the system. Hose shall be protected from damage by trucks and by moving objects and shall be so placed as not to constitute a falling or tripping hazard. All hose shall be carefully examined at frequent intervals for leaks, worn places and loose connections and any such defects shall be immediately repaired.
+
+      (iv) Torches. Torches shall be lighted by means of friction lighters, pilot flames or similar sources of ignition and not by the use of matches. When torches are changed or when the welding is stopped longer than 5 minutes, all cylinder valves shall be closed. Momentary stoppage may be controlled at the torch valves. Such torches shall be of approved types.
+
+      (v) Protection for Workmen. All persons engaged in welding or cutting operations shall be supplied with and shall wear eye protection equipment of an approved type provided with properly colored lenses fitted in suitable goggles. Such lenses and goggles shall protect the eyes of the worker not only from the heat and glare of the work but also from particles of hot metal which may fly during the operation. Operators engaged in continuous operations for long periods of time shall be supplied with and shall wear fire resisting gauntlet gloves and aprons. Adequate protection shall be provided to protect the welder from heavy winds and such enclosures so provided shall be arranged to permit adequate ventilation. No welding shall be carried on in any confined space unless adequately ventilated. Metal structural members carrying any stress other than their own weight shall not be cut. Before the cutting of any large or heavy structural member, such member shall be secured or supported by ropes, cables, chains or other equivalent means to prevent the dropping or swinging of the member.
+
+      (vi) Welding Fire Hazards. Oily and greasy substances shall be kept from the cylinders, hoses and torches. Cylinder valves and connections shall not be lubricated. Whenever a welding or cutting operation is performed in such a location that the possibility of flying particles of metal or sparks may shower a workman, there shall be provided a substantial and incombustible screen immediately below or around the welding operation. Whenever welding operations are performed and there is in the vicinity any combustible material, there shall be provided, within easy reach of the operators, at least one approved fire extinguisher or fire pails filled with water.
+
+   (27) Chutes for the Removal of Debris. Wooden or metal chutes provided for the removal of brick or other loose material or debris and which are at an angle of more than forty-five (45) degrees with the horizontal, shall be entirely enclosed on all sides, except openings formed in the chutes at the floor levels and used for the receiving of material. Openings shall not exceed forty-eight (48) inches in height, measured along the wall of the chute, and all openings, except the top opening shall be closed when not in use. Chutes at an angle of less than forty-five (45) degrees with the horizontal may be open on the upper side. Every chute more than 24 inches in maximum inside dimension shall be constructed of not less than two (2) inch thick planking, or of not less than three-sixteenth (3/16) inch metal; shall have metal bottoms where the material strikes the chute, and shall be rigidly supported throughout its height. A strong gate shall be constructed at the lower end of ever chute to control the loading of material into trucks and to close the chute at all other times. Splash-boards or baffles shall be erected to prevent materials from rebounding into the street or under the sidewalk shed. A bumper or curb not less than 4" × 4" in section shall be provided at each chute opening where such opening is level with or below the floor or platform. Every space between the chute and the edge of the opening in the floor or platform shall be solidly planked. Danger signs shall be placed in a conspicuous position at the discharge end of every chute to warn the workmen and public. Prior to the erection or use of any chute, or alteration of a building approval of its structural supports shall be obtained. Such supports in the case of class 1 and class 2 buildings shall be of incombustible material.
+
+   (28) Wheel-barrows, Carts and Hand-trucks. Wheel-barrows, carts and hand-trucks shall be substantially constructed and braced to withstand the loads to be carried. The handles of all wheel-barrows, carts and hand-trucks shall be smooth. Cracked, split or otherwise damaged handles shall be immediately replaced. Wheel-barrows, carts and hand-trucks shall not be stored or left unattended in a passageway or other place where they may constitute an obstruction or tripping hazard.
+
+   (29) Trucks. All parts and accessories of trucks shall be kept in good repair and safe condition, and material piled on trucks for transportation shall be limited to that amount which can be safely transported without spilling or jarring the material loose. Material shall not project beyond the sides of the truck. Loads which cannot be fully contained within the body of the truck shall be secured by means of chains, cables, ropes or other effective means.
+
+TABLE I LIGHT INTENSITY
+
+The following size Mazda type lamps at the corresponding distances from the surface to be illuminated will produce approximately a two (2) foot candle intensity on such surface.*
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * -  Mazda type lamps size
+      -  – Distance from lamp to surface (in feet) – 
+      - 
+      - 
+    * - Bare lamp; no reflection from walls 
+      - Lamp in reflector; no reflection from walls 
+      - Lamp in reflecting fixture; white surfaces, white walls 
+      - 
+    * - 60 watts
+      - 6' 
+      - 8' 
+      - 12' 
+    * - 100 watts
+      - 8' 
+      - 10' 
+      - 16' 
+    * - 150 watts
+      - 10'
+      - 12' 
+      - 20' 
+    * - 200 watts
+      - 12'
+      - 14' 
+      - 24' 
+~
+
+
+
+* Because of various factors such as reflecting power of nearby walls and surfaces, type of fixture, age of lamp, etc., the values given here are approximate.
+
+TABLE II SIZE AND NUMBER OF NAILS 
+
+It may be assumed that a secure joint is a joint or connection in which the smaller member is nailed to a member of equal size or to a larger member by not less than the following number and sizes of nails, driven to their full length:
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - Thickness of Smaller Member(inches) 
+      - Trade Size of Nail 
+      - Length of Nail (inches) 
+    * - 1"
+      - 8d 
+      - 2 1/2"
+    * - 2"
+      - 20d 
+      - 4"
+    * - 3"
+      - 60d 
+      - 6"
+    * - 4"
+      -  – 
+      - 8"
+~
+
+
+
+TABLE II (Continued)
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - Width of Smaller Member (inches) 
+      - Minimum Number of Nails Required 
+    * - 4"
+      - 2 nails 
+    * - 6"
+      - 3 nails 
+    * - 8"
+      - 4 nails 
+    * - 10"
+      - 5 nails 
+    * - 12"
+      - 5 nails 
+~
+
+
+
+ 
+
+TABLE III MAXIMUM SPAN FOR SCAFFOLD PLANK 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - Thickness of Plank (in inches) 
+      - Span of Plank (in feet) 
+    * - 1 1/4"
+      - 6'-0"
+    * - 2"
+      - 10'-0"
+~
+
+
+
+ 
+
+
+
+
 Chapter 5: Dry Cleaning Establishments
 --------------------------------------------------
 
@@ -1232,7 +3361,7 @@ Chapter 5: Dry Cleaning Establishments
 *§ 5-01 Coin-Operated Dry Cleaning Establishments.* ::
 
 
-(a) Application of rules. These rules shall be deemed to apply only to coin-operated dry cleaning establishments pursuant to Article 111, Chapter 2, §§ 32-15 A and 32-25 D of the Zoning Resolution effective December 15, 1961. These rules shall not be deemed to modify or repeal Chapter 4 of Title 27 of the Administrative Code of the City of New York or the Rules Governing Dry Cleaning Establishments adopted by the Board of Standards and Appeals under Calendar Number 432.62-SR (§ 5-02).
+(a) Application of rules. These rules shall be deemed to apply only to coin-operated dry cleaning establishments pursuant to Article 111, Chapter 2, §§ 32-15 A and 32-25 D of the Zoning Resolution effective December 15, 1961. These rules shall not be deemed to modify or repeal Chapter 4 of Title 27 of the Administrative Code of the City of New York or the Rules Governing Dry Cleaning Establishments adopted by the Board of Standards and Appeals under Calendar Number 432.62-SR (2 RCNY § 5-02).
 
 (b) Definitions.
 
@@ -1442,7 +3571,7 @@ Chapter 5: Dry Cleaning Establishments
 
       (ii) the boiler or boilers shall be enclosed in a one hour fire resistive enclosure with a one-hour fireproof self-closing door opening into a ventilated vestibule similarly enclosed and entered by a one-hour fireproof self-closing door opening into the interior of the premises or establishment.
 
-   (2) The ceiling of all such boiler rooms as required in § 5-02(e)(1) and the adjoining entrance vestibule referred to in 2 RCNY § 5-02(e)(1)(ii) above, shall be fire-retarded with one-hour fire resistive material.
+   (2) The ceiling of all such boiler rooms as required in 2 RCNY § 5-02(e)(1) and the adjoining entrance vestibule referred to in 2 RCNY § 5-02(e)(1)(ii) above, shall be fire-retarded with one-hour fire resistive material.
 
    (3) Non-fireproof partitions and ceilings within six feet of any dry cleaning unit using a combustible solvent shall be fire-retarded with one-hour fire resistive materials and doors and with two approved automatic wet pipe sprinkler heads located over each cleaning unit; these sprinkler heads may have their source of supply from the house water system.
 
@@ -1699,7 +3828,25 @@ The foregoing schedule calls for a total of 160 hours a week. The elevator opera
 
 (d) Is familiar with each premises to which they respond.
 
-(e) Is knowledgeable in the use of the mobile radio. When the Agency receives a telephone notice of alarm from a central station, it shall immediately dispatch a qualified elevator operator with keys to the building and to the elevator who shall open the building and place the elevator in operating condition and assist the Fire Department in gaining access to any portion of the building. Such elevator operator shall have for his use a motor vehicle furnished by such Agency kept in a building or open lot or street within 100 feet of the office of the Agency. Such motor vehicle shall be one of two maintained by the Agency at each office exclusively for responding to alarms and shall be equipped with mobile radios capable of receiving and transmitting with their office. In the office of the Agency at least two elevator operators shall be available to respond to alarms. There shall be a key board in each office with keys to the entrance door and elevator kept properly tagged for all buildings being served by the Agency. In the event there are several elevators in a building, the owner shall specify, subject to the approval of the Fire Department and the Board, which elevator or elevators, not exceeding two, shall be available under this service and such available elevator or elevators shall be parked at the first floor. Hoistway doors leading thereto shall be equipped with a parking lock or other device satisfactory to the Department of Buildings, so arranged as to prevent the opening of the doors from the landing side with the service key unless the car is at the landing and such key shall open no other door. A duplicate of such parking lock key shall be maintained in a break glass box in the lobby adjacent to such available elevators. Power for available elevators shall be on at all times, controlled by a switch in the car and there shall be installed at the main power switch in the main panel board, or in the motor room, a disconnecting switch so arranged that the switch can be readily disconnected for service, repair and inspection, and in any emergency. To accomplish this, a standard approved type cabinet switch shall be used and the cabinet and projecting handle for the manual application of the switch shall be locked in a closed position with a key to the lock contained in a break-glass box located adjacent to the switch with a sign conspicuously displayed on the switch cabinet cover that such switch is locked in a closed position in accordance with this section and that the key located in the adjacent break-glass box may be used to obtain access to such switch for repair, service and inspection purposes only or in the event of emergency. Each building subject to the provisions of this section shall be inspected by the Agency at least twice each week and records kept of such inspections; and that at such inspections the elevator doors, keys and other equipment pertaining to the operation of the service shall be examined to maintain safe conditions. In order to insure familiarity with, and knowledge of each building, these inspections shall be the responsibility of, and shall be carried out by those employees who have been designated as qualified elevator operators whose duties are responding to alarms in accordance with this section. The inspections shall be conducted after the normal business hours of the building. The Agency shall keep such records and forward reports of its service as the Fire Commissioner shall require. In the event an Agency providing the response service is to be changed, the request for change shall be in the form of an application to the Board of Standards and Appeals to amend a previous resolution relating to the specific building where a change in the agency providing the response service is to take place. A copy of the application to amend shall be submitted to the Fire Department at the time of filing with the Board. The terms of this section shall be applied only upon the filing of an appeal by an owner of a building of the type and within the area described, for a variance based on a decision of the Fire Commissioner and favorable action taken by the Board. In the event the owner of a premises which is subject to a variance conditioned upon the terms of this section discontinues the service with the Agency, the Agency shall immediately notify the Fire Commissioner in writing. The term of variance granted hereunder shall not exceed ten (10) years from the date of the variance. During such term, the Board reserves the right to amend the requirements.
+(e) Is knowledgeable in the use of the mobile radio.
+
+When the Agency receives a telephone notice of alarm from a central station, it shall immediately dispatch a qualified elevator operator with keys to the building and to the elevator who shall open the building and place the elevator in operating condition and assist the Fire Department in gaining access to any portion of the building. Such elevator operator shall have for his use a motor vehicle furnished by such Agency kept in a building or open lot or street within 100 feet of the office of the Agency. Such motor vehicle shall be one of two maintained by the Agency at each office exclusively for responding to alarms and shall be equipped with mobile radios capable of receiving and transmitting with their office. In the office of the Agency at least two elevator operators shall be available to respond to alarms. There shall be a key board in each office with keys to the entrance door and elevator kept properly tagged for all buildings being served by the Agency.
+
+In the event there are several elevators in a building, the owner shall specify, subject to the approval of the Fire Department and the Board, which elevator or elevators, not exceeding two, shall be available under this service and such available elevator or elevators shall be parked at the first floor. Hoistway doors leading thereto shall be equipped with a parking lock or other device satisfactory to the Department of Buildings, so arranged as to prevent the opening of the doors from the landing side with the service key unless the car is at the landing and such key shall open no other door. A duplicate of such parking lock key shall be maintained in a break glass box in the lobby adjacent to such available elevators.
+
+Power for available elevators shall be on at all times, controlled by a switch in the car and there shall be installed at the main power switch in the main panel board, or in the motor room, a disconnecting switch so arranged that the switch can be readily disconnected for service, repair and inspection, and in any emergency. To accomplish this, a standard approved type cabinet switch shall be used and the cabinet and projecting handle for the manual application of the switch shall be locked in a closed position with a key to the lock contained in a break-glass box located adjacent to the switch with a sign conspicuously displayed on the switch cabinet cover that such switch is locked in a closed position in accordance with this section and that the key located in the adjacent break-glass box may be used to obtain access to such switch for repair, service and inspection purposes only or in the event of emergency.
+
+Each building subject to the provisions of this section shall be inspected by the Agency at least twice each week and records kept of such inspections; and that at such inspections the elevator doors, keys and other equipment pertaining to the operation of the service shall be examined to maintain safe conditions. In order to insure familiarity with, and knowledge of each building, these inspections shall be the responsibility of, and shall be carried out by those employees who have been designated as qualified elevator operators whose duties are responding to alarms in accordance with this section. The inspections shall be conducted after the normal business hours of the building.
+
+The Agency shall keep such records and forward reports of its service as the Fire Commissioner shall require.
+
+In the event an Agency providing the response service is to be changed, the request for change shall be in the form of an application to the Board of Standards and Appeals to amend a previous resolution relating to the specific building where a change in the agency providing the response service is to take place.
+
+A copy of the application to amend shall be submitted to the Fire Department at the time of filing with the Board.
+
+The terms of this section shall be applied only upon the filing of an appeal by an owner of a building of the type and within the area described, for a variance based on a decision of the Fire Commissioner and favorable action taken by the Board.
+
+In the event the owner of a premises which is subject to a variance conditioned upon the terms of this section discontinues the service with the Agency, the Agency shall immediately notify the Fire Commissioner in writing. The term of variance granted hereunder shall not exceed ten (10) years from the date of the variance. During such term, the Board reserves the right to amend the requirements.
 
 
 
@@ -1763,14 +3910,14 @@ Chapter 7: Factories
       - Contents noncombustible and sprinkler 
     * - Three 
       - Stairways Enclosed 
-      - 
-      - 
-      - 
+      -  
+      -  
+      -  
     * - Four 
       - Stairways Enclosed 
       - Stairways Enclosed 
-      - 
-      - 
+      -  
+      -  
     * - Five 
       - Stairways Enclosed 
       - Stairways Enclosed 
@@ -1899,7 +4046,7 @@ Chapter 8: Fire Alarms
 
    (1) Non-coded closed circuit fire alarm systems shall be permitted only in a factory building not exceeding five (5) stories in height having not more than twenty-five hundred (2,500) square feet in area in any one story and having not more than one hundred (100) persons in a single factory; nor more than fifty (50) persons in a multiple tenant factory above the first or ground floor.
 
-   (2) Coded closed circuit systems shall be required in a factory building exceeding the requirements of § 8-01(f)(1).
+   (2) Coded closed circuit systems shall be required in a factory building exceeding the requirements of 2 RCNY § 8-01(f)(1).
 
    (3) Special fire alarm signal systems shall be permitted in factory buildings at the direction of the Commissioner.
 
@@ -2005,7 +4152,7 @@ Chapter 8: Fire Alarms
 
    (3) In systems using break glass type stations, at least one (1) extra glass for each station in the system shall be kept on the premises.
 
-   (4) Each fire alarm system shall be in the charge of a person holding a Certificate of Fitness issued by the Commissioner. It shall be his responsibility to observe the provisions of § 8-01(p).
+   (4) Each fire alarm system shall be in the charge of a person holding a Certificate of Fitness issued by the Commissioner. It shall be his responsibility to observe the provisions of 2 RCNY § 8-01(p).
 
 (q) Alarm boxes. 
 
@@ -2187,7 +4334,7 @@ Chapter 8: Fire Alarms
 
    (3) Wood battery cabinets shall be constructed of the first grade of kiln dried wood and not less than seven-eighths (7/8) of an inch thick and shall be provided with self-closing door and approved lock. The shelves shall not be less than seven-eighths (7/8) of an inch thick properly fastened and secured to prevent sagging. The cabinet shall be of substantial construction painted on the interior with three (3) coats of asphaltum compound and on the exterior with three (3) coats of lead paint or two (2) coats of varnish.
 
-   (4) Storage batteries may be placed on enameled metal battery racks, provided the batteries are installed in a place where they will not be subject to mechanical injury, and will be ventilated as required in § 8-01(m)(5)(ii).
+   (4) Storage batteries may be placed on enameled metal battery racks, provided the batteries are installed in a place where they will not be subject to mechanical injury, and will be ventilated as required in 2 RCNY § 8-01(m)(5)(ii).
 
 (z) Painting of equipment. All enclosing cases for fire alarm apparatus shall be finished in fire department red, except where special permission is given by the Commissioner to deviate from this requirement.
 
@@ -2249,110 +4396,110 @@ FIRE DRILL ORGANIZATION
     :header-rows: 1
 
     * - Premises  
-      - 
-      - 
-      - 
+      -  
+      -  
+      -  
     * - Name of concern  
-      - 
-      - 
-      - 
+      -  
+      -  
+      -  
     * - Building No. 
-      - 
+      -  
       -  Story  
-      - 
+      -  
     * - FOREMAN OR PERSON IN CHARGE 
-      - 
-      - 
-      - 
+      -  
+      -  
+      -  
     * - Regular
-      - 
+      -  
       - Substitute 
-      - 
+      -  
     * - WATCHMAN 
+      -  
       - 
       - 
-      - 
-    * - 
+    * -  
       - 
       - 
       - 
     * - MALE SEARCHER 
-      - 
-      - 
-      - 
+      -  
+      -  
+      -  
     * - FEMALE SEARCHER 
-      - 
-      - 
-      - 
+      -  
+      -  
+      -  
     * - STREET ALARM BOX RUNNER 
-      - 
-      - 
-      - 
+      -  
+      -  
+      -  
     * - FIRE BRIGADE 
+      -  
+      - 
+      - 
+    * -  
       - 
       - 
       - 
-    * - 
-      - 
-      - 
-      - 
-    * - 
+    * -  
       - 
       - 
       - 
     * - EXIT GUARDS 
-      - 
-      - 
-      - 
-    * - 
+      -  
+      -  
+      -  
+    * -  
       -  Exit 
-      - 
-      - 
-    * - 
+      -  
+      -  
+    * -  
       -  Exit 
-      - 
-      - 
-    * - 
+      -  
+      -  
+    * -  
       -  Exit 
-      - 
-      - 
-    * - 
+      -  
+      -  
+    * -  
       -  Exit 
-      - 
-      - 
-    * - 
+      -  
+      -  
+    * -  
       -  Exit 
-      - 
-      - 
-    * - 
+      -  
+      -  
+    * -  
       -  Exit 
-      - 
-      - 
+      -  
+      -  
     * - SQUAD MONITORS 
-      - 
-      - 
-      - 
-    * - 
+      -  
+      -  
+      -  
+    * -  
       -  Squad No. 1 
       - 
       - 
-    * - 
+    * -  
       -  Squad No. 2 
       - 
       - 
-    * - 
+    * -  
       -  Squad No. 3 
       - 
       - 
-    * - 
+    * -  
       -  Squad No. 4 
       - 
       - 
-    * - 
+    * -  
       -  Squad No. 5 
       - 
       - 
-    * - 
+    * -  
       -  Squad No. 6 
       - 
       - 
@@ -2657,7 +4804,7 @@ Chapter 10: Fire Extinguishing Systems and Appliances
 
 (l) Public water system. Direct connection to the city water supply shall be capable of furnishing water, at not less than fifteen (15) pounds per square inch static pressure at the highest line of sprinklers below the main roof.
 
-   (1) Where the average pressure from the city water supply does not comply with this subdivision (l) but is sufficient to give at least five pounds at the highest line of sprinklers as determined by test, an automatic, electrically driven pump installed for the purpose of boosting or increasing the city water pressure in the sprinkler system may be accepted under the following conditions: Pump to be a single stage, centrifugal, of approved design, to be of not less than 500 gallons per minute capacity and to otherwise comply with § 10-02(m).
+   (1) Where the average pressure from the city water supply does not comply with this subdivision (l) but is sufficient to give at least five pounds at the highest line of sprinklers as determined by test, an automatic, electrically driven pump installed for the purpose of boosting or increasing the city water pressure in the sprinkler system may be accepted under the following conditions: Pump to be a single stage, centrifugal, of approved design, to be of not less than 500 gallons per minute capacity and to otherwise comply with 2 RCNY § 10-02(m).
 
    (2) Pump to be automatic, arranged to maintain 25 pounds at highest line of sprinklers at rated capacity and to be under the supervision and directly connected to the office of one of the fire alarm companies which is connected to Fire Department headquarters.
 
@@ -2679,7 +4826,7 @@ Chapter 10: Fire Extinguishing Systems and Appliances
 
 (q) Sprinkler systems classified. 
 
-   (1) One Source Systems, supplied with water from any one of the automatic sources or the automatic supervised fire pump specified in § 10-02(l); and
+   (1) One Source Systems, supplied with water from any one of the automatic sources or the automatic supervised fire pump specified in 2 RCNY § 10-02(l); and
 
    (2) Two Source Systems, supplied with water from a combination of any two of the automatic sources; two pressure tanks with a total water capacity twice that required for a one source supply; direct connection to the city water supply on two different streets, so located that the closing of the controlling valve on one main will not eliminate the main on the other street; or a direct connection to the city water supply and one of the auxiliary sources provided the water supply connection is at least six (6) inches in size, the main is fed both ways and a two (2) inch test pipe at the top of the sprinkler riser shows a flowing pressure of fifteen (15) pounds per square inch between the hours of six a.m. to six p.m.
 
@@ -2773,17 +4920,17 @@ Chapter 10: Fire Extinguishing Systems and Appliances
       - 1 head 
     * - 1 inch
       - 2 heads 
-    * - 11/4 inch
+    * - 1 1/4 inch
       - 3 heads 
-    * - 11/2 inch
+    * - 1 1/2 inch
       - 5 heads 
     * - 2 inch
       - 10 heads 
-    * - 21/2 inch
+    * - 2 1/2 inch
       - 20 heads 
     * - 3 inch
       - 36 heads 
-    * - 31/2 inch
+    * - 3 1/2 inch
       - 55 heads 
     * - 4 inch
       - 80 heads 
@@ -2811,13 +4958,13 @@ Chapter 10: Fire Extinguishing Systems and Appliances
       - Maximum No. of Heads Allowed
     * - 1 inch
       - 1 head 
-    * - 11/4 inch
+    * - 1 1/4 inch
       - 2 heads 
-    * - 11/2 inch
+    * - 1 1/2 inch
       - 3 heads 
     * - 2 inch
       - 4 heads 
-    * - 21/2 inch
+    * - 2 1/2 inch
       - 6 heads 
     * - 3 inch
       - 9 heads 
@@ -2845,13 +4992,13 @@ Chapter 10: Fire Extinguishing Systems and Appliances
 
     * - Size of Pipe
       - Maximum No. of Heads Allowed
-    * - 11/4 inch
+    * - 1 1/4 inch
       - 1 head 
-    * - 11/2 inch
+    * - 1 1/2 inch
       - 2 heads 
     * - 2 inch
       - 3 heads 
-    * - 21/2 inch
+    * - 2 1/2 inch
       - 4 heads 
     * - 3 inch
       - 6 heads 
@@ -2873,7 +5020,7 @@ When it is desired to use pipe of larger size than eight (8) inches in diameter,
 
 (cc) Feed mains. The size of feed mains shall not be less than the size of riser and shall be arranged to run as direct as possible from source of water supply to riser. Feed mains for stair or other towers without approved stops between floors, when piped on independent riser, shall be of sufficient size to accommodate the total number of sprinklers in such tower.
 
-(dd) Risers. There shall be one or more separate risers in each building and in each section of the building divided by fire walls. Risers shall be arranged to provide "Center Central" or "Side Central" supply to feed main. Each riser shall be of sufficient size to supply all the heads on said riser in one story, according to the schedule of pipe sizes in § 10-02(r). If the conditions warrant, special permission will be granted allowing the heads in a fire section of small area to be fed from the risers in another section, provided the total number of heads in such area does not exceed the following number per floor:
+(dd) Risers. There shall be one or more separate risers in each building and in each section of the building divided by fire walls. Risers shall be arranged to provide "Center Central" or "Side Central" supply to feed main. Each riser shall be of sufficient size to supply all the heads on said riser in one story, according to the schedule of pipe sizes in 2 RCNY § 10-02(r). If the conditions warrant, special permission will be granted allowing the heads in a fire section of small area to be fed from the risers in another section, provided the total number of heads in such area does not exceed the following number per floor:
 
    (1) For standard one-half (1/2) inch heads, 48.
 
@@ -2881,7 +5028,7 @@ When it is desired to use pipe of larger size than eight (8) inches in diameter,
 
    (3) For Conran one and one-quarter (1 1/4) inch heads, 8. Risers shall not be located close to windows, properly protected from mechanical injury and freezing and shall be properly supported on foundations and by floor plates, clamps, couplings or approved hangers.
 
-(ee) Connections prohibited. No connections, such as for sill cocks, house service or hose outlets, shall be made with a sprinkler system riser or any part thereof except as provided for in § 10-02(l).
+(ee) Connections prohibited. No connections, such as for sill cocks, house service or hose outlets, shall be made with a sprinkler system riser or any part thereof except as provided for in 2 RCNY § 10-02(l).
 
 (ff) Air lock adjustment. Where gravity and pressure tanks feed through a common discharge pipe or "dead riser" to the foot of a riser and an air lock is likely to develop the discharge pipe of the gravity tank shall connect with the discharge pipe, or "dead riser," forty (40) feet below the bottom of the pressure tank.
 
@@ -2909,27 +5056,27 @@ When it is desired to use pipe of larger size than eight (8) inches in diameter,
 
       (i) When "Type A" valve is installed, the air pressure in sprinkler systems under such dry-pipe valve control shall not exceed forty (40) pounds per square inch, nor be permitted to fall below twenty-five (25) pounds per square inch, nor shall it be less than one-sixth (1/6) of the water pressure in any case. The air compressor shall have a capacity of not less than eleven (11) cubic feet per minute and the air supply for the pump shall be taken, if possible, from a room containing dry air, or it shall be passed through a drying chamber containing calcium chloride, in order to avoid the introduction of moisture into the system. The air pressure on such dry-pipe systems shall be maintained throughout the year. Not more than the following number of heads shall be controlled by one "Type A" dry-pipe valve:
 
-      (ii) For standard one-half (1/2) inch heads     400
+      (ii) For standard one-half (1/2) inch heads.....400
 
-      (iii) For Conran one (1) inch heads     100
+      (iii) For Conran one (1) inch heads.....100
 
-      (iv) For Conran one and one-quarter (1 1/4) inch heads      64
+      (iv) For Conran one and one-quarter (1 1/4) inch heads.....64
 
    Where equipped with an approved quick-opening device the following number of heads may be controlled by one "Type A" dry-pipe valve:
 
-      (v) For Conran one (1) inch heads     150
+      (v) For Conran one (1) inch heads.....150
 
-      (vii) For Conran one and one-quarter (1 1/4) inch heads     96
+      (vii) For Conran one and one-quarter (1 1/4) inch heads.....96
 
       (viii) When "Type B" valve is installed the actuating alarm system shall be designed to operate at a temperature lower than that required to open the sprinkler heads, and all connections between the alarm system and the dry-pipe valve shall be adequately protected against injury of any kind. When required by the administrative official having jurisdiction, the dead end of every feed main in such dry-pipe system shall be provided with an air relief valve or vent, so constructed as to be normally open in order to permit the free escape of air from the system, but to close automatically against the escape of water. Not more than the following number of heads shall be controlled by one "Type B" dry-pipe valve:
 
-      (ix) For standard one-half (1/2) inch heads     600
+      (ix) For standard one-half (1/2) inch heads.....600
 
-      (x) For Conran one (1) inch heads     150
+      (x) For Conran one (1) inch heads.....150
 
-      (xi) For Conran one and one-quarter (1 1/4) inch heads      96
+      (xi) For Conran one and one-quarter (1 1/4) inch heads.....96
 
-   (6) Alarm valve. All automatic wet pipe sprinkler systems shall be equipped with an alarm valve so constructed that a flow of water through a one-half (1/2) inch orifice will operate an electric or mechanical gong. When an electrically operated alarm is installed in connection with an alarm valve or dry pipe valve, the installation shall be made in conformity with the provision of § 10-02(mm).
+   (6) Alarm valve. All automatic wet pipe sprinkler systems shall be equipped with an alarm valve so constructed that a flow of water through a one-half (1/2) inch orifice will operate an electric or mechanical gong. When an electrically operated alarm is installed in connection with an alarm valve or dry pipe valve, the installation shall be made in conformity with the provision of 2 RCNY § 10-02(mm).
 
 (mm) High and low water. Electric Alarm on Gravity and Pressure Tanks. All gravity tanks shall be equipped with a device to indicate when the water falls below or rises above the normal level in the tank, with an indicator and alarm located in the engineers' room near the pump. All gravity and pressure tanks shall be equipped with a high and low alarm as hereinafter specified. The high and low gravity and the high and low pressure electric alarm shall be so constructed and arranged that when the water falls below or rises above the normal level in the gravity tank, and when the pressure falls below or rises above the predetermined level in the pressure tank, an audible and visible signal will be given in either the pump room or engineer's room. The audible signaling device for high and low water and high and low pressure electric alarm shall consist of a vibrating gong of at least 3 inches in diameter of the enclosed type and arranged for conduit installation, the same to be operated automatically from an approved device indicating the level of water in the gravity tank and from the pressure gauge of pressure tank. The audible signaling device for the alarm and dry pipe valves shall consist of an enclosed type 6-inch vibrating gong arranged for conduit installation. A closed circuit annunciator shall be provided in connection with the alarm system. The high and low toll-tale electric connections shall be so constructed that it will not be affected by moisture and the parts shall be heavy and rugged. The float shall be of approved type. All wiring shall be installed in iron or steel conduits and the installation shall be in accordance with the provisions of Chapter 9 of the Code of Ordinances. Only approved closed circuit systems shall be installed. Control panels to operate the signaling equipment must be approved by the Board of Standards and Appeals. The control cabinet shall be located in the engineer's or pump room where it will be under the supervision of the person in charge of the sprinkler system. The following sources of energy may be employed and are given in their order of preference:
 
@@ -2951,9 +5098,9 @@ When it is desired to use pipe of larger size than eight (8) inches in diameter,
 
 (rr) Types of buildings. 
 
-   (1) Non-fireproof business buildings. Automatic sprinklers required in non-fireproof business buildings under the provisions of Chapter 5, Article 4, Section 72, Subdivision L, Code of Ordinances, shall consist of at least a One Automatic Source System, except buildings used as freight depots, car barns, stables, garages, factories and grain elevators which sprinkler systems shall be supplied by any two of the automatic sources or one of the automatic sources and a fire pump as described in § 10-02(l) and (m).
+   (1) Non-fireproof business buildings. Automatic sprinklers required in non-fireproof business buildings under the provisions of Chapter 5, Article 4, Section 72, Subdivision L, Code of Ordinances, shall consist of at least a One Automatic Source System, except buildings used as freight depots, car barns, stables, garages, factories and grain elevators which sprinkler systems shall be supplied by any two of the automatic sources or one of the automatic sources and a fire pump as described in 2 RCNY § 10-02(l) and (m).
 
-   (2) Department stores. Wet sprinkler systems shall be required in all department stores and where the floor area on any story or cellar exceeds 20,000 square feet, the system shall be supplied by two of the automatic sources as provided for in § 10-02(q).
+   (2) Department stores. Wet sprinkler systems shall be required in all department stores and where the floor area on any story or cellar exceeds 20,000 square feet, the system shall be supplied by two of the automatic sources as provided for in 2 RCNY § 10-02(q).
 
    (3) Factories and other buildings. Where the Labor Law or the Code of Ordinances require automatic sprinkler systems, or where any of the requirements of the Labor Law or Code of Ordinances are waived because of the installation of an automatic sprinkler system, such sprinkler systems, unless specifically otherwise required by the Fire Commissioner, Code of Ordinances, Labor Law, or these rules, shall have at least the following sources of supply installed in accordance with these rules:
 
@@ -2965,9 +5112,9 @@ When it is desired to use pipe of larger size than eight (8) inches in diameter,
 
    (4) Theatre buildings. Automatic sprinklers required in theatre buildings under the provisions of Chapter 5, Article 25, Section 524, Code of Ordinances, shall consist of at least a One Automatic Source Automatic System.
 
-   (5) Firework storage. Automatic sprinklers required in buildings in which fireworks are stored or sold under the provisions of Chapter 10, Article 6, Section 92, Code of Ordinances, shall consist of either of the two automatic sources as provided in § 10-02(q).
+   (5) Firework storage. Automatic sprinklers required in buildings in which fireworks are stored or sold under the provisions of Chapter 10, Article 6, Section 92, Code of Ordinances, shall consist of either of the two automatic sources as provided in 2 RCNY § 10-02(q).
 
-   (6) Nitro-cellulose products. Automatic sprinklers as required in buildings in which nitro-cellulose products are stored under the provisions of Chapter 10, Article 19, Section 232, Code of Ordinances, shall consist of a system supplied from both approved gravity tank supply and an approved pressure tank supply, except that no change shall be required in supplies to automatic sprinkler equipments previously approved by the Fire Commissioner as two source systems, in conformity with the provisions of this paragraph (6) as in force up to December 1, 1921. In buildings wherein are stored or handled only limited quantities of nitro-cellulose products, not exceeding 500 pounds, the automatic sprinklers may consist of either of the two automatic sources as provided for in § 10-02(q).
+   (6) Nitro-cellulose products. Automatic sprinklers as required in buildings in which nitro-cellulose products are stored under the provisions of Chapter 10, Article 19, Section 232, Code of Ordinances, shall consist of a system supplied from both approved gravity tank supply and an approved pressure tank supply, except that no change shall be required in supplies to automatic sprinkler equipments previously approved by the Fire Commissioner as two source systems, in conformity with the provisions of this paragraph (6) as in force up to December 1, 1921. In buildings wherein are stored or handled only limited quantities of nitro-cellulose products, not exceeding 500 pounds, the automatic sprinklers may consist of either of the two automatic sources as provided for in 2 RCNY § 10-02(q).
 
    (7) Flammable motion-picture films. Automatic sprinklers, required in buildings in which flammable motion-picture films are stored under the provisions of Chapter 10, Article 20, Section 241, Code of Ordinances, shall consist of a system supplied from both an approved gravity tank supply and an approved pressure tank supply except that no change shall be required in supplies to automatic sprinkler equipments previously approved by the Fire Commissioner as two source systems in conformity with the provisions of this paragraph (7) as in force up to December 1, 1921.
 
@@ -3043,7 +5190,7 @@ When it is desired to use pipe of larger size than eight (8) inches in diameter,
 
 (p) Suction tanks. Suction tanks shall be of at least 5000 gallons effective water capacity reserved for fire pump use exclusively and shall be constructed of steel or reinforced concrete, located in the cellar, or in the basement or lowest story if there is no cellar under the building. The Fire Commissioner may permit suction tanks to be located in a separate enclosure or building provided they are accessible and in his judgment such location will be more practicable. Suction tanks shall be fed by a connection at least 3 inches in diameter taken direct from the public street main. The supply shall enter the suction tank above the top or through the side near the top of the tank and shall be controlled by a bronze ball cock and copper float.
 
-(q) Pressure tanks. Pressure tanks shall contain the quantities of water as specified for gravity tanks, but in no case may a tank have a capacity in excess of 9,000 gallons. Pressure tanks shall be located in the top story or penthouse and shall be properly protected against freezing. The tank shall be kept two-thirds full of water under a pressure of 30 lbs. per square inch and shall be so located and proportioned that a pressure of not less than 15 lbs. per square inch will be available at the hose outlet in the highest story. The air compressor shall be of sufficient capacity to increase the air pressure at an average of one pound in two minutes in each pressure tank. The connection to riser or risers, the emergency drain and the means of access to tank shall be as required for gravity tank in § 10-03(l). Pressure and water level gauges shall be required. The means of supplying water shall be as required for gravity tanks except that filling must be done without reducing the pressure in the tank.
+(q) Pressure tanks. Pressure tanks shall contain the quantities of water as specified for gravity tanks, but in no case may a tank have a capacity in excess of 9,000 gallons. Pressure tanks shall be located in the top story or penthouse and shall be properly protected against freezing. The tank shall be kept two-thirds full of water under a pressure of 30 lbs. per square inch and shall be so located and proportioned that a pressure of not less than 15 lbs. per square inch will be available at the hose outlet in the highest story. The air compressor shall be of sufficient capacity to increase the air pressure at an average of one pound in two minutes in each pressure tank. The connection to riser or risers, the emergency drain and the means of access to tank shall be as required for gravity tank in 2 RCNY § 10-03(l). Pressure and water level gauges shall be required. The means of supplying water shall be as required for gravity tanks except that filling must be done without reducing the pressure in the tank.
 
 (r) Support for tanks. Tanks of more than 500 gallons capacity hereafter placed in or on any building shall be supported on masonry, reinforced concrete or steel construction of sufficient strength and carried to a proper foundation as provided for in § 428 of Chapter 5 of the Code of Ordinances.
 
@@ -3129,7 +5276,7 @@ When it is desired to use pipe of larger size than eight (8) inches in diameter,
 
 (uu) Siamese connections. Fire Department siamese connection shall be as hereinafter stated in this subdivision.
 
-   (1) The body of the siamese may be of cast iron, cast steel, brass or any other suitable metals of sufficient strength to comply with § 10-03(uu)(8). All movable parts, clappers, swivels and all bolts, washers, nuts, screws and pin bearings and all swivel bearings shall be of a non-corrodable metal.
+   (1) The body of the siamese may be of cast iron, cast steel, brass or any other suitable metals of sufficient strength to comply with 2 RCNY § 10-03(uu)(8). All movable parts, clappers, swivels and all bolts, washers, nuts, screws and pin bearings and all swivel bearings shall be of a non-corrodable metal.
 
    (2) Clapper valve seats shall be made of non-corrodable metal and shall be machined to insure a tight seat for clapper valves.
 
@@ -3583,29 +5730,29 @@ Chapter 16: Oil Burning Equipment
 
       (ii) The minimum thickness of shell or bottom plates shall be 1/4 inch and the minimum thickness of roof plates 1/8 inch. The thickness of shell plates shall be figured in accordance with the following formula:
 
-               t = P × r × F            T × E 
+         t  =   P × r × F         T × E 
 
-P equals head pressure at bottom of ring under consideration.
+         P equals head pressure at bottom of ring under consideration.
 
-r equals radius of shell in inches.
+         r equals radius of shell in inches.
 
-F equals factor of safety (taken as 5).
+         F equals factor of safety (taken as 5).
 
-T equals tensile strength of plate in pounds per square inch (55,000 pounds per square inch).
+         T equals tensile strength of plate in pounds per square inch (55,000 pounds per square inch).
 
-E equals efficiency of vertical joint in ring under consideration (calculations to be based on formulas as given in Bulletin No. 14 of the New York State Industrial Commission).
+         E equals efficiency of vertical joint in ring under consideration (calculations to be based on formulas as given in Bulletin No. 14 of the New York State Industrial Commission).
 
       (iii) Roof plates shall have single lap riveted or welded watertight seams and the roof shall be built to shed water. Bottom plates shall have single lap riveted or welded seams. Shell plate seams shall be designed with proper efficiency to meet requirements of above formulas for shell plates.
 
       (iv) In all cases, steel tanks for the storage of fuel oil must be built metal to metal. No filler of any kind will be permitted.
 
-   (5) Storage containers. Storage containers for oil of six (6) gallons capacity or less used in connection with burners or oil-burning heaters shall be designed to withstand a hydrostatic pressure test of five (5) pounds per square inch without permanent deformation, rupture or leakage and shall be approved as provided in § 16-01(d)(2). Glass storage containers shall not exceed three gallons capacity, protected with a metal jacket provided with hand grips and designed to be rigidly fastened to stand or wall and shall be approved as provided in § 16-01(d)(2).
+   (5) Storage containers. Storage containers for oil of six (6) gallons capacity or less used in connection with burners or oil-burning heaters shall be designed to withstand a hydrostatic pressure test of five (5) pounds per square inch without permanent deformation, rupture or leakage and shall be approved as provided in 2 RCNY § 16-01(d)(2). Glass storage containers shall not exceed three gallons capacity, protected with a metal jacket provided with hand grips and designed to be rigidly fastened to stand or wall and shall be approved as provided in 2 RCNY § 16-01(d)(2).
 
 (f) Location of tanks. 
 
    (1) Inside of buildings, above ground.
 
-      (i) Storage tanks having a capacity of two hundred and seventy-five (275) gallons and auxiliary tanks may be installed above ground in or on the lowest story of a building, provided such tanks shall be mounted on substantial incombustible supports, with tank permanently attached thereto, and located not less than seven feet (7') of clear unobstructed space measured horizontally from any furnace or source of exposed flame unless tank is protected as provided for in § 16-01(f)(1)(ii). Such storage tanks inside buildings shall have an individual capacity of not more than two hundred and seventy-five (275) gallons capacity and not more than two such tanks each of two hundred and seventy-five (275) gallons capacity may be connected to one burner provided the installation also complies with § 16-01(h)(1). Not more than two (2) two hundred and seventy-five (275) gallons storage tanks shall be installed in a building above ground without protection as provided for in § 16-01(f)(1)(ii).
+      (i) Storage tanks having a capacity of two hundred and seventy-five (275) gallons and auxiliary tanks may be installed above ground in or on the lowest story of a building, provided such tanks shall be mounted on substantial incombustible supports, with tank permanently attached thereto, and located not less than seven feet (7') of clear unobstructed space measured horizontally from any furnace or source of exposed flame unless tank is protected as provided for in 2 RCNY § 16-01(f)(1)(ii). Such storage tanks inside buildings shall have an individual capacity of not more than two hundred and seventy-five (275) gallons capacity and not more than two such tanks each of two hundred and seventy-five (275) gallons capacity may be connected to one burner provided the installation also complies with 2 RCNY § 16-01(h)(1). Not more than two (2) two hundred and seventy-five (275) gallons storage tanks shall be installed in a building above ground without protection as provided for in 2 RCNY § 16-01(f)(1)(ii).
 
       (ii) Storage tanks having a capacity of more than two hundred and seventy-five (275) gallons, when installed inside of buildings shall be located on the lowest floor level and all portions of such tanks above the floor shall be protected by not less than four inches (4") of masonry with weep holes along the bottom one inch in diameter not more than 3 ft. apart. The masonry walls of a structure may be used as part of the protection. Storage tanks may be placed in a protective enclosure having solid masonry walls not less than eight inches (8") thickness and of dimension not less than fifteen inches (15") greater on all sides than the outside dimensions of the storage tanks. The walls of enclosure shall be carried up to a height not less than two feet (2') above the top of the tank or to the ceiling where the ceiling is less than two feet (2') above the top of the tank. A fireproof access door shall be installed in the enclosure above the point where the enclosure has a capacity equal to the largest tank installed, and for each additional 10 feet or fraction thereof by which the longest inside dimension of the enclosure exceeds 35 feet an additional fireproof access door shall be similarly installed at one or more intervals of not less than 10 feet. Columns, pipes, or similar obstructions, may project into the required fifteen inches (15") of space within the enclosure, provided that access door or doors are so arranged that all portions of the enclosure are accessible. The ceiling above the tank enclosure shall be either fireproof or fire-retarded.
 
@@ -3717,7 +5864,7 @@ Two hundred and seventy-five (275) gallon tanks shall be located so as not to in
 
 (h) Valves and control of oil flow. 
 
-   (1) Each supply line from storage tanks of two hundred and seventy-five (275) gallons' capacity and from auxiliary storage tanks shall be provided with a shut-off valve at the tank, and may be connected by a common feed pipe with a shut-off valve at the burner and when connected to burners designed for gravity feed, shall be provided with an approved constant level device. Such tanks shall be on the same level and with a common fill pipe complying with § 16-01(g)(4) and a common vent pipe complying with § 16-01(g)(3). All valves shall be brass gate or globe valves of 125 lbs. per sq. in. rating.
+   (1) Each supply line from storage tanks of two hundred and seventy-five (275) gallons' capacity and from auxiliary storage tanks shall be provided with a shut-off valve at the tank, and may be connected by a common feed pipe with a shut-off valve at the burner and when connected to burners designed for gravity feed, shall be provided with an approved constant level device. Such tanks shall be on the same level and with a common fill pipe complying with 2 RCNY § 16-01(g)(4) and a common vent pipe complying with 2 RCNY § 16-01(g)(3). All valves shall be brass gate or globe valves of 125 lbs. per sq. in. rating.
 
    (2) Each supply line for storage tanks of more than two hundred and seventy-five (275) gallons' capacity, shall be provided with a shut-off valve at the burner and where the top of the tank is above the oil inlet connection to the burner and/or transfer pump, shall be provided with an approved anti-syphon device located at the highest point in the supply line, except that where heavy oil (No. 6 Commercial Standard Grade) having a viscosity of one hundred (100) seconds or more Saybolt Furol at one hundred and twenty-two degrees Fahrenheit (122° F.) is used, the anti-syphon device shall not be required. No anti-syphon device shall be required where a foot valve is installed at the inlet of the suction line.
 
@@ -3809,7 +5956,7 @@ Two hundred and seventy-five (275) gallon tanks shall be located so as not to in
 
    (4) Burners and all accessories, including tanks and piping shall be maintained oil tight and kept clear at all times.
 
-   (5) The floor beneath boiler or furnace and within two (2) feet in all directions, shall be protected by fireproof construction or a protection consisting of a 1/8 inch steel plate covered with 1/2 inch sheet asbestos and 4 inches of terra cotta. Suspended furnaces shall comply with the requirements of § 16-01(n)(2).
+   (5) The floor beneath boiler or furnace and within two (2) feet in all directions, shall be protected by fireproof construction or a protection consisting of a 1/8 inch steel plate covered with 1/2 inch sheet asbestos and 4 inches of terra cotta. Suspended furnaces shall comply with the requirements of 2 RCNY § 16-01(n)(2).
 
    (6) Oil burning devices designed for installation with storage of not more than six (6) gallons shall be set level and firmly anchored. The floor beneath stoves or any such heating devices shall be protected by a shield of 1/2"asbestos or equivalent extending at least twelve inches (12") beyond the projected area of such device where required within the specific approval of each burner. Approved safety cans only shall be used for the storage and filling of oil containers. The fuel oil used for these burners shall be range oil or No. 1 or No. 2 fuel oil. The manufacturer or installer of these burners shall within 48 hours after each installation notify the Fire Department in writing of the name of the person to whom this burner is sold and the address of the premises where installed.
 
@@ -3850,17 +5997,17 @@ Chapter 17: Opening Protective Assemblies
 
    (3) Opening Protective Assemblies shall be inspected at the place of manufacture on a regular and frequent basis by a recognized testing laboratory approved by the Board of Standards and Appeals or the Department of Buildings as having proper facilities; or it may be inspected under the direction of a Licensed Professional Engineer (P.E.) or Registered Architect (R.A.), in accordance with the provisions of § 27-329 of the Administrative (Building) Code.
 
-   (4) The authorized inspector (authorization as detailed in § 17-01(c)(3)) shall inspect the assembly in sufficient detail during production to assure that the completed units comply in all respects with the Approved or Accepted specifications on file at the Board of Standards and Appeals or at the MEA Division of the Department of Buildings, and thereby authorize a label indicating such compliance.
+   (4) The authorized inspector (authorization as detailed in 2 RCNY § 17-01(c)(3)) shall inspect the assembly in sufficient detail during production to assure that the completed units comply in all respects with the Approved or Accepted specifications on file at the Board of Standards and Appeals or at the MEA Division of the Department of Buildings, and thereby authorize a label indicating such compliance.
 
 (d) Labeling requirements. 
 
    (1) Every Approved or Accepted Opening Protective Assembly, prior to its installation in a building under the provisions of the Administrative (Building) Code, shall have affixed to it an identification label displaying either the Board of Standards and Appeals Calendar Number, as Approved, or the MEA Number, as Accepted.
 
-   (2) The inspection label affixed to the Opening Protective Assembly as required by § 17-01(c)(4) must be made of metal and include the name and address of the manufacturer, a trade name or descriptive name, a serial number, a model number, if any, the fire resistive rating, and the name of the inspection agency or laboratory, or Licensed Professional Engineer or Registered Architect, who performed the inspection.
+   (2) The inspection label affixed to the Opening Protective Assembly as required by 2 RCNY § 17-01(c)(4) must be made of metal and include the name and address of the manufacturer, a trade name or descriptive name, a serial number, a model number, if any, the fire resistive rating, and the name of the inspection agency or laboratory, or Licensed Professional Engineer or Registered Architect, who performed the inspection.
 
    (3) The information required on both the identification label and the inspection label shall be impressed on the metal plates and shall be readily visible and legible at all times. The plates shall be securely attached, by mechanical means, to the Opening Protective Assembly.
 
-   (4) The two labels required by § 17-01(d)(1) and (2) may be combined into one label provided that all information required for both labels is included in a legible manner.
+   (4) The two labels required by 2 RCNY § 17-01(d)(1) and (2) may be combined into one label provided that all information required for both labels is included in a legible manner.
 
 (e) Construction and installation. 
 
@@ -3883,11 +6030,11 @@ Chapter 18: Paints, Varnishes, Lacquers and Other Flammable Surface Coatings
 
 (a) Application. 
 
-   (1) No person, firm or corporation shall spray, dip or immerse any article or thing within the City of New York with any flammable paints, varnishes, lacquers or any other flammable or combustible substances, mixtures or compounds commonly used for painting, varnishing, staining or similar purposes except in conformance with these rules, and under a permit issued by the Fire Commissioner. Where the quantity of spraying, dipping or immersing materials used in a day does not exceed two quarts, except for spraying as performed under § 18-01(e)(13), and the total amount of material stored does not exceed twenty gallons, these rules shall not apply.
+   (1) No person, firm or corporation shall spray, dip or immerse any article or thing within the City of New York with any flammable paints, varnishes, lacquers or any other flammable or combustible substances, mixtures or compounds commonly used for painting, varnishing, staining or similar purposes except in conformance with these rules, and under a permit issued by the Fire Commissioner. Where the quantity of spraying, dipping or immersing materials used in a day does not exceed two quarts, except for spraying as performed under 2 RCNY § 18-01(e)(13), and the total amount of material stored does not exceed twenty gallons, these rules shall not apply.
 
    (2) Applications. Application for the required permit to store and use the above-mentioned materials shall be made to the Fire Commissioner on forms prescribed by him and shall contain such information as he may require. When a spray, dipping, immersing, storage or mixing room is to be installed, an application shall be filed with and approved by the Borough Superintendent before a permit is issued by the Fire Commis- sioner.
 
-   (3) Restrictions. No spraying, dipping or immersing of any article or thing within the City of New York with any flammable paints, varnishes, lacquers or any other flammable substances, mixtures or compounds commonly used for painting, varnishing, staining or similar purposes shall be permitted in any premises or portion thereof as follows: (i) Which is occupied as a class A or B multiple dwelling or a dwelling for one or two-families, except where a location is provided which is separated by fireproof construction from the residential occupancy and ventilated as provided in § 18-01(c).
+   (3) Restrictions. No spraying, dipping or immersing of any article or thing within the City of New York with any flammable paints, varnishes, lacquers or any other flammable substances, mixtures or compounds commonly used for painting, varnishing, staining or similar purposes shall be permitted in any premises or portion thereof as follows: (i) Which is occupied as a class A or B multiple dwelling or a dwelling for one or two-families, except where a location is provided which is separated by fireproof construction from the residential occupancy and ventilated as provided in 2 RCNY § 18-01(c).
 
       (ii) Which is occupied as a place of public assembly except trade schools where the buildings are of Class I or Class II construction and spraying, dipping or immersing are demonstrated for instruction purposes only.
 
@@ -3905,7 +6052,7 @@ Chapter 18: Paints, Varnishes, Lacquers and Other Flammable Surface Coatings
 
    Dipping room. The term "Dipping Room" when used in these rules shall mean a fully-enclosed ventilated room approved for such use in which any article or thing is dipped, or immersed in any flammable paints, varnishes, lacquers or any other flammable substances, mixtures, or compounds commonly used for painting, varnishing, staining or similar purposes is carried on.
 
-   Fireproof or fire-resisting partitions. The term "Fireproof or Fire-Resisting Partitions" used in these rules shall mean the standards set in the Labor Law and the rules of the Board of Standards and Appeals for factory buildings (§ 7-01). All openings in this type of partition shall only be equipped with self-closing fireproof assemblies.
+   Fireproof or fire-resisting partitions. The term "Fireproof or Fire-Resisting Partitions" used in these rules shall mean the standards set in the Labor Law and the rules of the Board of Standards and Appeals for factory buildings (2 RCNY § 7-01). All openings in this type of partition shall only be equipped with self-closing fireproof assemblies.
 
    Permit. The term "Permit" when used in these rules shall mean the written permission issued to a person, firm or corporation by the Fire Commissioner, to store and use materials covered by §§ 27-4011 and 27-4093 of the Administrative Code and these rules.
 
@@ -3919,11 +6066,11 @@ Chapter 18: Paints, Varnishes, Lacquers and Other Flammable Surface Coatings
 
 (c) Ventilation. 
 
-   (1) Spraying or dipping spaces shall be ventilated when in operation so that the movement of air shall be at least one hundred (100') linear feet per minute in the breathing zone of the operator and be of sufficient capacity to prevent the accumulation of mist or vapors. For requirements of ventilation of storage rooms see § 18-0l(d)(4)(i).
+   (1) Spraying or dipping spaces shall be ventilated when in operation so that the movement of air shall be at least one hundred (100') linear feet per minute in the breathing zone of the operator and be of sufficient capacity to prevent the accumulation of mist or vapors. For requirements of ventilation of storage rooms see 2 RCNY § 18-01(d)(4)(i).
 
    (2) Air shall be admitted to the spraying, dipping or immersing spaces in an amount equal to the capacity of the fan or fans and in such a manner as to avoid short-circuiting the path of air in the working zone of such spaces. Exhaust fans shall be kept running constantly while spraying, mixing or dipping. Exhaust fan control shall be interconnected with spray gun so as to operate simultaneously. Exhaust fans shall, in addition, be arranged to operate independently of spray gun. Ventilation Equipment shall be kept in operation for a sufficient length of time thereafter to exhaust all vapors, fumes or residues of spraying materials from the spray booth, dip space or drying room. Air admitted to the spraying, dipping, immersing, drying spaces or storage rooms shall be fresh air taken from the outside of the building.
 
-   (3) Equipment. Motors shall be located outside of spraying, dipping or immersing spaces except as provided in § 18-01(d).
+   (3) Equipment. Motors shall be located outside of spraying, dipping or immersing spaces except as provided in 2 RCNY § 18-01(d).
 
 (d) Specification for spray booths, spray rooms, dip and immersing rooms, drying equipment and material storage rooms. 
 
@@ -3941,7 +6088,7 @@ Chapter 18: Paints, Varnishes, Lacquers and Other Flammable Surface Coatings
 
       (vi) All spraying, dipping or immersing spaces shall be so constructed that at least three (3) feet of clear working space shall always be maintained for each operator spraying, dipping or immersing the material being processed.
 
-   (2) Storage rooms. Storage rooms shall be constructed of fireproof or fire resisting material and shall have a window opening to the outer air but such window shall not be on a lot line, enclosed court, nor opposite within twenty feet of windows of adjacent buildings nor part of the same premises, such window openings to be fireproofed and lower half provided with open louvers or ventilated by metal duct or fan at least 8 inches in diameter. The floors of all storage rooms shall be of incombustible non-ferrous materials. The sill of the door shall be at least 6 inches above the finished floor. All doors to be tin-clad, approved, fireproof and self-closing. The lighting equipment shall comply with § 18-01(d)(5)(ii)(B) and shall have an electric switch located outside the room. Immediately adjacent to such room shall be provided such portable fire extinguishing equipment for use within the storage room as the Fire Commissioner shall direct.
+   (2) Storage rooms. Storage rooms shall be constructed of fireproof or fire resisting material and shall have a window opening to the outer air but such window shall not be on a lot line, enclosed court, nor opposite within twenty feet of windows of adjacent buildings nor part of the same premises, such window openings to be fireproofed and lower half provided with open louvers or ventilated by metal duct or fan at least 8 inches in diameter. The floors of all storage rooms shall be of incombustible non-ferrous materials. The sill of the door shall be at least 6 inches above the finished floor. All doors to be tin-clad, approved, fireproof and self-closing. The lighting equipment shall comply with 2 RCNY § 18-01(d)(5)(ii)(B) and shall have an electric switch located outside the room. Immediately adjacent to such room shall be provided such portable fire extinguishing equipment for use within the storage room as the Fire Commissioner shall direct.
 
    (3) Drying equipment.
 
@@ -3989,7 +6136,7 @@ Chapter 18: Paints, Varnishes, Lacquers and Other Flammable Surface Coatings
 
    (5) Electrical equipment and lighting fixtures.
 
-      (i) No motors, switches, rheostats, lamps, fluorescent light or other electrical equipment shall be located in spray, dipping or immersing rooms or within ten (10') feet of the open end of any spray compartment, spray booth, immersing or dipping space unless such electrical equipment be of a type approved for use in explosive atmosphere and where a conduit leads from a hazardous location to a non-hazardous location, the conduit shall be sealed off by an approved sealing compound. Except that alternating current induction motors of the totally enclosed type, having no brushes make and break contacts, collectors or other arcing or sparking parts may be located within ten (10') feet of a spray booth, spray compartment or dipping space when approved by the administrative official having jurisdiction. No open flame shall be used within 25 ft. of spray, dip or coating space or paint storage room or cabinet except when separated by fireproof construction, except as provided in § 18-01(d)(3)(i) "gas fired drying ovens" and § 18-01(d)(3)(ii)(D) electric infra- red dry ovens. Nothing herein contained, nor in § 18-01(g)(5) shall prohibit the use of electrostatic paint spraying equipment of a type approved by the Board under such conditions as the Board shall prescribe in its approval.
+      (i) No motors, switches, rheostats, lamps, fluorescent light or other electrical equipment shall be located in spray, dipping or immersing rooms or within ten (10') feet of the open end of any spray compartment, spray booth, immersing or dipping space unless such electrical equipment be of a type approved for use in explosive atmosphere and where a conduit leads from a hazardous location to a non-hazardous location, the conduit shall be sealed off by an approved sealing compound. Except that alternating current induction motors of the totally enclosed type, having no brushes make and break contacts, collectors or other arcing or sparking parts may be located within ten (10') feet of a spray booth, spray compartment or dipping space when approved by the administrative official having jurisdiction. No open flame shall be used within 25 ft. of spray, dip or coating space or paint storage room or cabinet except when separated by fireproof construction, except as provided in 2 RCNY § 18-01(d)(3)(i) "gas fired drying ovens" and 2 RCNY § 18-01(d)(3)(ii)(D) electric infra-red dry ovens. Nothing herein contained, nor in 2 RCNY § 18-01(g)(5) shall prohibit the use of electrostatic paint spraying equipment of a type approved by the Board under such conditions as the Board shall prescribe in its approval.
 
       (ii) Lighting fixtures.
 
@@ -4129,7 +6276,7 @@ Chapter 18: Paints, Varnishes, Lacquers and Other Flammable Surface Coatings
 
  
 
-      (i) Permits and plans. Before a permit is issued by the Fire Commissioner, plans shall be filed with the Borough Superintendent, stating name, address, floor and space where the painting, dipping or spraying processes or storage room are to be installed. Such plan shall include a complete layout of the proposed installation and shall clearly indicate the location of all exterior wall openings, in premises and adjacent buildings, exits, chimneys, vent openings and proposed processes. Plans shall be filed with the Borough Superintendent for storage and mixing rooms. Such plans shall show the complete floor plan of the proposed equipment and the location of the proposed equipment with respect to the storage and mixing rooms, exterior wall openings, in premises and adjacent buildings, exits and all chimneys within 20 feet of storage rooms and vent openings.
+(i) Permits and plans. Before a permit is issued by the Fire Commissioner, plans shall be filed with the Borough Superintendent, stating name, address, floor and space where the painting, dipping or spraying processes or storage room are to be installed. Such plan shall include a complete layout of the proposed installation and shall clearly indicate the location of all exterior wall openings, in premises and adjacent buildings, exits, chimneys, vent openings and proposed processes. Plans shall be filed with the Borough Superintendent for storage and mixing rooms. Such plans shall show the complete floor plan of the proposed equipment and the location of the proposed equipment with respect to the storage and mixing rooms, exterior wall openings, in premises and adjacent buildings, exits and all chimneys within 20 feet of storage rooms and vent openings.
 
 
 
@@ -4178,7 +6325,7 @@ Chapter 19: Plastic Pipe and Fittings
 
    (2) Fittings shall be marked on the body or hub on opposite sides. The marking shall consist of the manufacturer's name or trade mark and the symbol PVC or ABS and the type designation (I or II) for PVC and the symbol of the National Sanitation Foundation Drain Waste Vent.
 
-   (3) In addition to the markings as required under § 19-01(f)(1) and (2), all pipe and fittings shall bear the labeling required under the conditions of approval by the Board and Section P102.2b of RS16 of the Building Code of the City of New York.
+   (3) In addition to the markings as required under 2 RCNY § 19-01(f)(1) and (2), all pipe and fittings shall bear the labeling required under the conditions of approval by the Board and Section P102.2b of RS16 of the Building Code of the City of New York.
 
 (g) Installation. Installation of pipe and fittings shall be in accordance with the provisions of Section P102.2b of RS16 of the Building Code of the City of New York.
 
@@ -4295,7 +6442,7 @@ Chapter 23: Smoking
 
       Stone or monumental works;
 
-provided that in any case:
+   provided that in any case:
 
       (i) The building is not of wooden construction;
 
@@ -4589,7 +6736,7 @@ Chapter 25: Welding
 
 (e) Board of Examiners for welders. 
 
-   (1) The Board of Examiners for Welders shall be appointed by the Commissioner of Buildings from members of the staff of the Department as recommended by the Borough Superintendents. All certificates of qualification issued shall be uniform for the five Boroughs. There shall be a separate certificate for electric arc welding, and for gas welding, which certificates shall not be interchangeable and shall apply specifically to the type of work to be done and shall be issued in accordance with § 25-01(f).
+   (1) The Board of Examiners for Welders shall be appointed by the Commissioner of Buildings from members of the staff of the Department as recommended by the Borough Superintendents. All certificates of qualification issued shall be uniform for the five Boroughs. There shall be a separate certificate for electric arc welding, and for gas welding, which certificates shall not be interchangeable and shall apply specifically to the type of work to be done and shall be issued in accordance with 2 RCNY § 25-01(f).
 
    (2) Welders to be qualified. No person shall perform welding work on any structural member of a structure without having obtained a certificate of qualification from the Board of Examiners for Welders.
 
@@ -4702,7 +6849,7 @@ Figure 6. Fillet-Weld-Soundness Test Specimen.
 
       (v) The convex surface of each specimen tested shall be examined for the appearance of cracks or other open defects. Any specimen in which a crack or other open defect is present after bending, exceeding 1/8 inch measured in any direction, shall be considered as having failed. Cracks occurring on the corners of the specimen during testing shall not be considered unless there is definite evidence that they result from slag inclusions or other internal defects.
 
-      (vi) In the foregoing tests, base material and filler metal, conforming to the specifications listed in § 25-01(h), in an amount adequate to provide for the removal of the required specimens shall be provided. A minimum of 1 1/8 inches from the end of each test weld shall be discarded before removing the test specimens. All welds shall conform to the general requirements of good workmanship and the particular practices set forth in § 25-01(g).
+      (vi) In the foregoing tests, base material and filler metal, conforming to the specifications listed in 2 RCNY § 25-01(h), in an amount adequate to provide for the removal of the required specimens shall be provided. A minimum of 1 1/8 inches from the end of each test weld shall be discarded before removing the test specimens. All welds shall conform to the general requirements of good workmanship and the particular practices set forth in 2 RCNY § 25-01(g).
 
       (vii) Welder qualification tests shall be manual shielded metal-arc welding, using base material conforming to ASTM A36-67 and filler metal conforming to AWS Group Designation F 4 using ASTM E70XX, low hydrogen electrodes. When welders are so qualified they shall be permitted without further testing to weld weldable grades of steel prescribed in the Administrative Building Code or approved by the Board.
 
@@ -4804,7 +6951,7 @@ Figure 8. Acceptable and Defective Weld Profiles.
 
       (ii) Each welding inspector shall have three years experience in the field of welding and/or welding inspection in order to be certified by the Commissioner of Buildings and he shall be issued an identification card which shall be displayed upon request by the representative of the Dept. of Buildings. Welding inspectors shall have in their possession welding gauges for visual inspection.
 
-   (2) The agency as provided for in § 25-01(j)(1) shall take adequate means to assure that the preparing, oxygen cutting, assembling and welding of the joints of the structure conform to the design and that the resulting structure is free from deficiencies and injurious defects. He shall keep and submit daily to the registered architect or licensed professional engineer responsible for the work and to the Building Commissioner adequate records of the progress of the work, of difficulties experienced, and of his decision of acceptance and rejection. His records shall allocate a definite and personal responsibility for his acceptance of every weld as to size, location, type of filler metal used and quality of workmanship, and shall evidence that no weld called for in the design has been omitted. He shall require that each welder place his identification symbol on his work, and the inspector after inspecting each weld shall do likewise.
+   (2) The agency as provided for in 2 RCNY § 25-01(j)(1) shall take adequate means to assure that the preparing, oxygen cutting, assembling and welding of the joints of the structure conform to the design and that the resulting structure is free from deficiencies and injurious defects. He shall keep and submit daily to the registered architect or licensed professional engineer responsible for the work and to the Building Commissioner adequate records of the progress of the work, of difficulties experienced, and of his decision of acceptance and rejection. His records shall allocate a definite and personal responsibility for his acceptance of every weld as to size, location, type of filler metal used and quality of workmanship, and shall evidence that no weld called for in the design has been omitted. He shall require that each welder place his identification symbol on his work, and the inspector after inspecting each weld shall do likewise.
 
       (i) He shall inspect for defects and irregularities, plate cracks adjacent to or behind welds, crater cracks or cracks in the weld metal.
 
@@ -4872,9 +7019,9 @@ Figure 8. Acceptable and Defective Weld Profiles.
 
 (n) The Board of Examiners for welders. 
 
-   (1) The Board of Examiners for Welders shall be appointed by the Commissioner of Buildings from members of the staff of the department. All welders' licenses issued shall be uniform for the five boroughs and shall be issued in accordance with § 25-01(o).
+   (1) The Board of Examiners for Welders shall be appointed by the Commissioner of Buildings from members of the staff of the department. All welders' licenses issued shall be uniform for the five boroughs and shall be issued in accordance with 2 RCNY § 25-01(o).
 
-   (2) Welders to be licensed. No person shall perform welding work on any structural members of a structure without having obtained a welder's license from the Board of Examiners for Welders except as provided in § 25-01(n)(3).
+   (2) Welders to be licensed. No person shall perform welding work on any structural members of a structure without having obtained a welder's license from the Board of Examiners for Welders except as provided in 2 RCNY § 25-01(n)(3).
 
       (i) Before a welder's license may be issued authorizing a person to perform welding work on a structural member of a structure the person applying for such certificate shall have been qualified as provided in § 27-616(b)(1).
 
@@ -4895,7 +7042,7 @@ Figure 9.
 
    (1) Before the examiners for welders shall issue a welder's license, the applicant shall pass the applicable tests prescribed by the Department of Personnel. Where welders are to perform welding work outside of New York City on structures to be erected in the City of New York and said welders do not possess valid New York City welders' licenses, documentary evidence from a testing laboratory, acceptable to the Commissioner of Buildings, and to the engineer or architect designated for controlled inspection, attesting that the applicant has passed the prescribed qualification test is acceptable for a specific structure.
 
-   (2) The foregoing provisions of § 25-01(o)(1) are not intended to prohibit the re-testing of an applicant who has failed previous tests. Further, a welder qualified to perform welding outside of New York City by a testing laboratory may be required to re-qualify when he does not possess a valid New York City welder's license and said re-qualification is ordered by the testing laboratory and/or the engineer or architect responsible for controlled inspection of welding work.
+   (2) The foregoing provisions of 2 RCNY § 25-01(o)(1) are not intended to prohibit the re-testing of an applicant who has failed previous tests. Further, a welder qualified to perform welding outside of New York City by a testing laboratory may be required to re-qualify when he does not possess a valid New York City welder's license and said re-qualification is ordered by the testing laboratory and/or the engineer or architect responsible for controlled inspection of welding work.
 
    (3) Classifications of licenses:
 
@@ -4955,15 +7102,15 @@ Figure 9.
 
    (5) The architect or engineer shall give consideration to inspection requirements of all welded joints that are critical to the integrity of the structure.
 
-      (i) Any nondestructive testing deemed necessary to assure the adequacy of critical welds shall be shown on the plans. This testing shall be in accordance with § 25-01(r)(1) and (2).
+      (i) Any nondestructive testing deemed necessary to assure the adequacy of critical welds shall be shown on the plans. This testing shall be in accordance with 2 RCNY § 25-01(r)(1) and (2).
 
-      (ii) In critical joints where there is high restraint to the shrinkage of large welds that apply strains in the thru-thickness direction of the material, nondestructive testing for lamellar tearing of the base metal behind the weld shall be specified. . These joints shall be shown on the plans and inspection procedures shall be in accordance with § 25-01(r)(2).
+      (ii) In critical joints where there is high restraint to the shrinkage of large welds that apply strains in the thru-thickness direction of the material, nondestructive testing for lamellar tearing of the base metal behind the weld shall be specified. . These joints shall be shown on the plans and inspection procedures shall be in accordance with 2 RCNY § 25-01(r)(2).
 
-      (iii) To insure general weld quality, the architect or engineer shall specify a quality control program of 25% selection of other less critical groove and butt welds to be checked by nondestructive testing. The method of inspection shall be shown on the plans and be in accordance with § 25-01(r)(1) and (2). For those welds over 24 inches in length which are specified for inspection only one quarter of their length need be examined. However, if in the opinion of the architect or engineer, nondestructive testing is not required, he shall so specify on the plans.
+      (iii) To insure general weld quality, the architect or engineer shall specify a quality control program of 25% selection of other less critical groove and butt welds to be checked by nondestructive testing. The method of inspection shall be shown on the plans and be in accordance with 2 RCNY § 25-01(r)(1) and (2). For those welds over 24 inches in length which are specified for inspection only one quarter of their length need be examined. However, if in the opinion of the architect or engineer, nondestructive testing is not required, he shall so specify on the plans.
 
 (r) Nondestructive testing. 
 
-   (1) Nondestructive testing of weld metal area, as defined by AWS A3.0-69 may be specified by the architect or engineer designated for control inspection to augment other inspection requirements, or may be required by the Commissioner of Buildings should there be evidence as to the inadequacy of any welding. Nondestructive testing specified in § 25-01(q)(5) shall be required.
+   (1) Nondestructive testing of weld metal area, as defined by AWS A3.0-69 may be specified by the architect or engineer designated for control inspection to augment other inspection requirements, or may be required by the Commissioner of Buildings should there be evidence as to the inadequacy of any welding. Nondestructive testing specified in 2 RCNY § 25-01(q)(5) shall be required.
 
    (2) Nondestructive testing of welds shall conform with the requirements of Section 6.7 Nondestructive Testing of AWS D1.1-72 Structural Welding Code, 1972 and AWS D1.1-Rev. 1-73, 1973 Revisions to Structural Welding Code. Other methods of nondestructive testing acceptable to the Commissioner of Buildings consistent with good practice may be used. Where required by these rules or by the plans, the following ultrasonic inspection procedure shall be followed:
 
@@ -4995,7 +7142,7 @@ Figure 9.
 
 (b) Nondestructive testing and inspection. 
 
-   (1) Ultrasonic testing shall be the primary method of testing electroslag welds with radiography being used only for evaluation of questionable discontinuities in accordance with the Board's rules for Arc and Gas Welding and Oxygen Cutting of Steel § 25-01, covering the specifications for design, fabrication and inspection of arc and gas welded steel structures and the qualification of welders and supervisors, § 25-01(q)(5)(i), (r)(1), (r)(2) and (r)(3).
+   (1) Ultrasonic testing shall be the primary method of testing electroslag welds with radiography being used only for evaluation of questionable discontinuities in accordance with the Board's rules for Arc and Gas Welding and Oxygen Cutting of Steel 2 RCNY § 25-01, covering the specifications for design, fabrication and inspection of arc and gas welded steel structures and the qualification of welders and supervisors, 2 RCNY § 25-01(q)(5)(i), (r)(1), (r)(2) and (r)(3).
 
    (2) Welds subject to levels of shear or tensile stresses in excess of 50 percent of permissible stresses shall be subject to examination and nondestructive testing over 100 percent of such length of the joint.
 
@@ -5060,7 +7207,7 @@ Chapter 26: Liquefiers and Converters
 
       (xii) A statement that the above cylinders before conversion into liquefiers were tested in a water jacket in accordance with these rules and I. C. C. Regulations and the results appear above.
 
-      (xiii) A statement that the top thickness, opening for cover plate and distance across the corner where the side wall meets the bottom and at 45° to the side wall, was measured and the dimensions were found to conform with § 26-01(f)(6), (7), (8) and (9).
+      (xiii) A statement that the top thickness, opening for cover plate and distance across the corner where the side wall meets the bottom and at 45° to the side wall, was measured and the dimensions were found to conform with 2 RCNY § 26-01(f)(6), (7), (8) and (9).
 
       (xiv) A statement that after assembly each liquefier was given an open hydrostatic test to 3,000 lbs. and this pressure was held for at least two minutes without showing a pressure recession of more than 75 lbs.
 
@@ -5217,11 +7364,11 @@ TABLE III.
     * - Type 
       - Maximum Opening Permitted 
     * - 220 ft. oxygen
-      - 61/8 in. × 71/8 in. 
+      - 6 1/8 in. × 7 1/8 in. 
     * - 200 ft. oxygen
-      - 61/8 in. × 71/8 in. 
+      - 6 1/8 in. × 7 1/8 in. 
     * - 50 lbs. CO2
-      - 53/4 in. × 63/4 in.
+      - 5 3/4 in. × 6 3/4 in.
 ~
 
 
@@ -5239,11 +7386,11 @@ TABLE IV.
     * - Type 
       - Minimum Thickness across corner at Point where the outside of the side wall meets the inside radius of bottom and at 45° to side 
     * - 220 ft. oxygen
-      - 5/8 in. 
+      - 5/8 in.
     * - 200 ft. oxygen
-      - 5/8 in. 
+      - 5/8 in.
     * - 50 lbs. CO2
-      - 5/8 in. 
+      - 5/8 in.
 ~
 
 

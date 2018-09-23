@@ -675,3 +675,17 @@ The Chair has the authority to create committees and/or subcommittees to assist 
 
 
 
+
+
+*§ 1-56 Authority given to the Executive Director.* ::
+
+
+The authority given under these Rules to the Executive Director shall
+
+(a) except in relation to 38-A RCNY § 1-14(b), be exercisable either by the Executive Director or by such members of the senior staff of the Board as the Executive Director may from time to time designate, and
+
+(b) be subject to such limitations as the Board may by resolution from time to time determine.
+
+
+
+

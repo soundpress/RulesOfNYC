@@ -1571,7 +1571,7 @@ These regulations shall be applicable also to examinations conducted by the Depa
 
 (c) Filing fees.
 
-   (1) Except as provided in paragraph (2) of this subdivision, the filing fees shall be:
+   (1) Except as provided in paragraph (2) of this subdivision, the filing fees shall be: 
 
  
 

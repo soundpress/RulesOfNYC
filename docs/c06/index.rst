@@ -24,7 +24,7 @@ Chapter 1: Asbestos Control Program
 
 (e) No person shall knowingly make a false statement or submit a false document to the Department as to any matter concerning an asbestos project or any document required to be filed under these rules.
 
-(f) The department may inspect at a reasonable time and in a reasonable manner anything which affects or may affect the emission or release of asbestos fibers or the disturbance of asbestos-containing material, including but not limited to the premises where an asbestos project is being conducted, or the premises for which a notification has been filed under § 1-21-§ 1-26 of these Rules, or the premises where an application has been filed with the Department of Buildings for a plan or permit approval.
+(f) The department may inspect at a reasonable time and in a reasonable manner anything which affects or may affect the emission or release of asbestos fibers or the disturbance of asbestos-containing material, including but not limited to the premises where an asbestos project is being conducted, or the premises for which a notification has been filed under 15 RCNY § 1-21 - 15 RCNY § 1-26 of these Rules, or the premises where an application has been filed with the Department of Buildings for a plan or permit approval.
 
 (g) No person shall interfere with or obstruct any employee of the Department in the performance of their official duties, including but not limited to the performance of inspections.
 
@@ -40,9 +40,9 @@ Chapter 1: Asbestos Control Program
 
 (j) (1)  Any person, including but not limited to contractors, building owners, and air monitoring companies, who is in violation of or fails to comply with any provision of these rules or the terms and conditions of any variance issued pursuant to these rules shall be subject to the issuance of notice(s) of violation and other civil and criminal enforcement actions pursuant to Title 24, Chapter 1, Subchapter 9 of the Administrative Code of the City of New York.
 
-   (2) The maximum civil penalty for any violation of a lettered subsection of these rules, pursuant to a notice of violation returnable before the Environmental Control Board, shall be $10,000, except that a violation of section 1-26 shall carry a maximum penalty of $15,000.
+   (2) The maximum civil penalty for any violation of a lettered subsection of these rules, pursuant to a notice of violation returnable before the Environmental Control Board, shall be $10,000, except that a violation of 15 RCNY § 1-26 shall carry a maximum penalty of $15,000.
 
-   (3) DEP may deny any application for an asbestos abatement permit pursuant to section 1-26 of these rules, or a variance application pursuant to section 1-03 of these rules, where any party to the asbestos project, including but not limited to the abatement contractor, building owner, and air monitoring company, has docketed, unpaid civil penalties imposed by the Environmental Control Board for violations of these rules, sections 24-146.1 and 24-146.3 of the Administrative Code, or NYSDOL ICR 56.
+   (3) DEP may deny any application for an asbestos abatement permit pursuant to 15 RCNY § 1-26, or a variance application pursuant to 15 RCNY § 1-03, where any party to the asbestos project, including but not limited to the abatement contractor, building owner, and air monitoring company, has docketed, unpaid civil penalties imposed by the Environmental Control Board for violations of these rules, sections 24-146.1 and 24-146.3 of the Administrative Code, or NYSDOL ICR 56.
 
 
 
@@ -286,7 +286,7 @@ Work site. "Work site" shall mean premises where asbestos abatement activity is 
 
    (3) A written proposal setting forth the alternative procedures the applicant will employ to satisfy each requirement as modified; and
 
-   (4) A copy of any asbestos project notification previously filed. If the applicant has not previously filed an asbestos project notification, such notification shall be filed with the application together with the applicable fee specified in § 1-25(c).
+   (4) A copy of any asbestos project notification previously filed. If the applicant has not previously filed an asbestos project notification, such notification shall be filed with the application together with the applicable fee specified in 15 RCNY § 1-25(c).
 
    (5) A sketch or drawing illustrating the proposed modification.
 
@@ -306,7 +306,7 @@ Work site. "Work site" shall mean premises where asbestos abatement activity is 
 
    (3) The maximum fee: $1800.
 
-(e) Section categories shall be as follows:
+(e) Section categories shall be as follows: 
 
  
 
@@ -335,14 +335,14 @@ Work site. "Work site" shall mean premises where asbestos abatement activity is 
     * - Clean-up Procedures
       - 111-112 
       - 56-9 
-    * - Pre-Demolition Abatement ActivityProcedures
+    * - Pre-Demolition Abatement Activity Procedures
       - 120-129 
       -  – 
 ~
 
  
 
-(f) Any variance from the prohibition on concurrent abatement and full demolition or story removal set forth in § 1-126 shall only be approved after notification and consultation with FDNY and DOB.
+(f) Any variance from the prohibition on concurrent abatement and full demolition or story removal set forth in 15 RCNY § 1-126 shall only be approved after notification and consultation with FDNY and DOB.
 
 (g) Any violation of the terms of any variance issued under this section shall be considered a violation of the lettered subdivision modified by the variance.
 
@@ -399,7 +399,7 @@ Work site. "Work site" shall mean premises where asbestos abatement activity is 
 
 (a)  This section shall apply to individuals involved in the construction of the containment barriers of a work area (e.g., carpenters), or who otherwise enter the contained work area for a limited period of time to perform certain specialized tasks in preparation for, or ancillary to, the actual abatement (e.g., electricians); and for whom asbestos handler certification would otherwise be required. This section shall not apply to individuals performing abatement handling of ACM.
 
-(b) The department shall issue a restricted asbestos handler certificate, in the form of a photo identification card which shall be valid for two years from the date of issuance to applicants who comply with the requirements of § 1-11(b)(1)-(4), except that the fee shall be $50.
+(b) The department shall issue a restricted asbestos handler certificate, in the form of a photo identification card which shall be valid for two years from the date of issuance to applicants who comply with the requirements of 15 RCNY § 1-11(b)(1) - (4), except that the fee shall be $50.
 
 (c) An individual certified as a restricted asbestos handler by the department shall perform only those particular job functions specified by the department in the application for certification.
 
@@ -471,7 +471,7 @@ Work site. "Work site" shall mean premises where asbestos abatement activity is 
 
    (2) A non-certified individual may participate in an asbestos survey being conducted by a NYC certified investigator only if such individual works in the presence of the investigator and under his/her direct and continuing supervision.
 
-   (3) The investigator shall assume that some or all of the areas investigated contain ACM, and for each area that is not assumed to contain ACM, collect and submit for analysis bulk samples in accordance with §§ 1-36, 1-37 and 1-44 and EPA publications 560/5-85-024 and 560/5-85-030A, and 40 C.F.R. Part 763.86.
+   (3) The investigator shall assume that some or all of the areas investigated contain ACM, and for each area that is not assumed to contain ACM, collect and submit for analysis bulk samples in accordance with 15 RCNY §§ 1-36, 1-37 and 1-44 and EPA publications 560/5-85-024 and 560/5-85-030A, and 40 C.F.R. Part 763.86.
 
 (b) The department shall qualify applicants to be asbestos investigators. The applicant shall satisfy one of the following five sets of conditions:
 
@@ -566,11 +566,11 @@ Work site. "Work site" shall mean premises where asbestos abatement activity is 
 *§ 1-21 Size and Scope of Asbestos Project.* ::
 
 
-(a) For the purpose of determining whether there has been compliance with any reporting or filing requirement established in §§ 1-22 through 1-27, the size and scope of the overall project shall control, with particular reference to the total amount of asbestos-containing material which will be disturbed. Such requirements may not lawfully be avoided or lessened through the performance of work in incremental or piecemeal fashion.
+(a) For the purpose of determining whether there has been compliance with any reporting or filing requirement established in 15 RCNY §§ 1-22 through 1-27, the size and scope of the overall project shall control, with particular reference to the total amount of asbestos-containing material which will be disturbed. Such requirements may not lawfully be avoided or lessened through the performance of work in incremental or piecemeal fashion.
 
 (b) When alternative calculations (i.e., linear feet and square feet) of the size and scope of an asbestos project result in that project coming within the definition of more than one sub- classification of asbestos project, the calculation with the higher absolute number shall determine the sub-classification of asbestos project procedures to be followed.
 
-(c) For the purpose of §§ 1-21 through 1-27, the term "work" shall be understood as in the common construction usage, i.e. not specifically related to asbestos abatement activities.
+(c) For the purpose of 15 RCNY §§ 1-21 through 1-27, the term "work" shall be understood as in the common construction usage, i.e. not specifically related to asbestos abatement activities.
 
 
 
@@ -592,11 +592,11 @@ Work site. "Work site" shall mean premises where asbestos abatement activity is 
 
    (1) Asbestos Assessment Report. If the building (or portions thereof) affected by the work are free of asbestos-containing material or the amount of ACM to be abated constitutes a minor project, an asbestos assessment report (Form ACP-5) completed, signed, and sealed by a DEP-certified asbestos investigator, along with a fee of $47.00 shall be submitted to DEP prior to construction document approval and to any amendment of the construction document approval which increases the scope of the project to include (a) work area(s) not previously covered.
 
-   (2) Asbestos Exemption Certification. If the work is exempt pursuant to section 1-23(b) of these rules, an asbestos exemption certification (Form ASB4) completed, signed, and sealed by the applicant for a DOB permit shall be submitted to DOB prior to construction document approval and to any amendment of the construction document approval which increases the scope of the project to include (a) work area(s) not previously covered.
+   (2) Asbestos Exemption Certification. If the work is exempt pursuant to 15 RCNY § 1-23(b), an asbestos exemption certification (Form ASB4) completed, signed, and sealed by the applicant for a DOB permit shall be submitted to DOB prior to construction document approval and to any amendment of the construction document approval which increases the scope of the project to include (a) work area(s) not previously covered.
 
    (3) Asbestos Project Completion Form. If an asbestos project has been performed and satisfactorily completed in accordance with these rules, a copy of the asbestos project completion form issued to the building owner or its authorized representative by DEP shall be submitted to DOB prior to the issuance of a DOB permit and to any amendment of the underlying construction document approval which increases the scope of the project to include (a) work area(s) not previously covered.
 
-   (4) An Asbestos Project Conditional Completion Form. If an asbestos project has been performed but would be subject to the procedures of section 1-26(c)(2)(ii), a copy of the asbestos project conditional completion form issued to the building owner or its authorized representative by DEP shall be submitted to DOB prior to the issuance of a DOB permit and to any amendment of the underlying construction document approval which increases the scope of the project to include (a) work area(s) not previously covered.
+   (4) An Asbestos Project Conditional Completion Form. If an asbestos project has been performed but would be subject to the procedures of 15 RCNY § 1-26(c)(2)(ii), a copy of the asbestos project conditional completion form issued to the building owner or its authorized representative by DEP shall be submitted to DOB prior to the issuance of a DOB permit and to any amendment of the underlying construction document approval which increases the scope of the project to include (a) work area(s) not previously covered.
 
 
 
@@ -606,9 +606,9 @@ Work site. "Work site" shall mean premises where asbestos abatement activity is 
 *§ 1-23 Alterations/Renovations/Modifications.* ::
 
 
-(a) As early as possible before an alteration, renovation, modification, demolition, or plumbing work takes place, or changes in such work occur, the building owner shall be responsible for having an asbestos survey performed by a DEP-certified asbestos investigator to determine the absence or presence of asbestos-containing material which may be disturbed during the course of the work. The owner of the building or authorized agent shall comply with the notification requirements of section 1-25 regarding asbestos-containing material.
+(a) As early as possible before an alteration, renovation, modification, demolition, or plumbing work takes place, or changes in such work occur, the building owner shall be responsible for having an asbestos survey performed by a DEP-certified asbestos investigator to determine the absence or presence of asbestos-containing material which may be disturbed during the course of the work. The owner of the building or authorized agent shall comply with the notification requirements of 15 RCNY § 1-25 regarding asbestos-containing material.
 
-(b) Asbestos Exemption Certification (ASB4 Form). Where the work to be performed requires a permit to be issued by the Department of Buildings, an asbestos exemption certification (ASB4 Form) may be submitted to the Department of Buildings in accordance with section 1-22(b)(2) of these rules where the applicant for construction document approval certifies that:
+(b) Asbestos Exemption Certification (ASB4 Form). Where the work to be performed requires a permit to be issued by the Department of Buildings, an asbestos exemption certification (ASB4 Form) may be submitted to the Department of Buildings in accordance with 15 RCNY § 1-22(b)(2) where the applicant for construction document approval certifies that:
 
    (1) the permit sought does not involve the performance of any physical work, such as permits for zoning lot subdivisions, zoning lot reapportionment, or changes in the certificate of occupancy; or
 
@@ -616,9 +616,9 @@ Work site. "Work site" shall mean premises where asbestos abatement activity is 
 
    (3) the activities being performed include work on one of the following: Awnings Cranes not anchored to building or structure Emergency power not involving hard wiring, e.g. battery packs Exterior concrete work (e.g. sidewalks, curb cuts, traffic islands) except if waterproofing compound is present Exterior scaffolding not anchored to building or structure Exterior trenching and drainage Ground-mounted flagpoles New storefronts in existing masonry openings (no disturbance of existing building) Radio antennas (free-standing towers) Relocating free-standing parking lot sheds Replacing rooftop air conditioning (no modification of ductwork or disturbance of building) Roadway asphalt Sealing unsafe or abandoned buildings with cinderblock and mortar Sidewalk sheds, bridges, fences, elevators, hoists and café signs (no penetration of building materials) Street furniture, e.g. candy or newsstands, bus shelters, kiosks Installation of new outdoor swimming pool Free-standing tents Erection of temporary structures (e.g. trailers) with electric/water lines only
 
-(c) Asbestos Assessment Report (ACP-5 Form). If, after a survey performed by a DEP-certified asbestos investigator, it is determined that the building (or portion thereof) affected by the work is free of asbestos-containing material or the amount of ACM to be abated constitutes a minor project, said asbestos investigator shall complete, sign, and affix his or her seal to the asbestos assessment report (ACP-5 Form) which shall be submitted with an fee of $47.00 DEP in accordance with section 1-22(b)(1) of these rules.
+(c) Asbestos Assessment Report (ACP-5 Form). If, after a survey performed by a DEP-certified asbestos investigator, it is determined that the building (or portion thereof) affected by the work is free of asbestos-containing material or the amount of ACM to be abated constitutes a minor project, said asbestos investigator shall complete, sign, and affix his or her seal to the asbestos assessment report (ACP-5 Form) which shall be submitted with an fee of $47.00 DEP in accordance with 15 RCNY § 1-22(b)(1).
 
-(d) Asbestos Project Completion Form. Where the work to be performed constitutes an asbestos project, an asbestos project notification (ACP-7 Form) shall be submitted to DEP in accordance with the provisions of section 1-25 of these rules. Upon completion of the asbestos project and submission of all required documentation to DEP, DEP shall issue an asbestos project completion form to the building owner or its authorized representative.
+(d) Asbestos Project Completion Form. Where the work to be performed constitutes an asbestos project, an asbestos project notification (ACP-7 Form) shall be submitted to DEP in accordance with the provisions of 15 RCNY § 1-25. Upon completion of the asbestos project and submission of all required documentation to DEP, DEP shall issue an asbestos project completion form to the building owner or its authorized representative.
 
 
 
@@ -690,9 +690,9 @@ Work site. "Work site" shall mean premises where asbestos abatement activity is 
 
 (b) Work Place Safety Plan.
 
-   (1) Plan required. For projects requiring an asbestos abatement permit due to one or more of the activities listed in (a)(1-9), the building owner or its authorized representative shall submit, together with the asbestos project notification, a work place safety plan (WPSP) and any other applicable construction documents, which shall be prepared by a registered design professional, and a permit fee as specified in subsection (g).
+   (1) Plan required. For projects requiring an asbestos abatement permit due to one or more of the activities listed in (a)(1) - (9), the building owner or its authorized representative shall submit, together with the asbestos project notification, a work place safety plan (WPSP) and any other applicable construction documents, which shall be prepared by a registered design professional, and a permit fee as specified in subsection (g).
 
-   (2) Plan not required. For projects requiring an asbestos abatement permit due to one or more of the activities listed in (a)(10-13), the building owner or its authorized representative shall submit, together with the asbestos project notification, all applicable asbestos abatement permit construction documents, and a permit fee as specified in subsection (g).
+   (2) Plan not required. For projects requiring an asbestos abatement permit due to one or more of the activities listed in (a)(10) - (13), the building owner or its authorized representative shall submit, together with the asbestos project notification, all applicable asbestos abatement permit construction documents, and a permit fee as specified in subsection (g).
 
       (i) If the WPSP is being submitted pursuant to subsection (a)(9), it shall also set forth the sequencing of the proposed work. The WPSP shall not be approved unless it provides for a buffer of four floors or an adequate buffer as determined by the commissioner between the abatement and the demolition or floor removal work.
 
@@ -816,7 +816,7 @@ Work site. "Work site" shall mean premises where asbestos abatement activity is 
 
    (7) Such other factors as the department may determine are relevant for that project.
 
-(c) An asbestos project notification (ACP-7 Form) shall be submitted to DEP in accordance with the provisions of section 1-25 of these rules as soon as possible, but not later than 48 hours after the project begins. In such cases, the ACP-7 Form shall be accompanied by a cover letter including the following information:
+(c) An asbestos project notification (ACP-7 Form) shall be submitted to DEP in accordance with the provisions of 15 RCNY § 1-25 as soon as possible, but not later than 48 hours after the project begins. In such cases, the ACP-7 Form shall be accompanied by a cover letter including the following information:
 
    (1) that the project is an emergency asbestos project;
 
@@ -824,7 +824,7 @@ Work site. "Work site" shall mean premises where asbestos abatement activity is 
 
    (3) the DEP emergency control number issued at the time of the telephone notification; and
 
-   (4) a description of the scope of work. With respect to projects commenced under this section, the department, based on inspection by the department and other relevant agencies, may exempt the emergency project from the requirements of section 1-26. Any such exemption will be confirmed in writing by the department.
+   (4) a description of the scope of work. With respect to projects commenced under this section, the department, based on inspection by the department and other relevant agencies, may exempt the emergency project from the requirements of 15 RCNY § 1-26. Any such exemption will be confirmed in writing by the department.
 
 
 
@@ -834,7 +834,7 @@ Work site. "Work site" shall mean premises where asbestos abatement activity is 
 *§ 1-28 Record Keeping Requirements for Investigators.* ::
 
 
-(a) The asbestos investigator shall maintain a permanent record as required under this section for every building survey/hazard assessment for asbestos that is conducted pursuant to or submitted in accordance with §§ 1-22 through 1-27 of this chapter.
+(a) The asbestos investigator shall maintain a permanent record as required under this section for every building survey/hazard assessment for asbestos that is conducted pursuant to or submitted in accordance with 15 RCNY §§ 1-22 through 1-27.
 
 (b) For each building survey/hazard assessment conducted prior to preparation of either the asbestos project notification (ACP-7) or asbestos assessment report (ACP-5), the investigator shall compile a record which shall include at a minimum:
 
@@ -848,7 +848,7 @@ Work site. "Work site" shall mean premises where asbestos abatement activity is 
 
    (5) A chain of custody for all bulk samples collected as part of the survey.
 
-(c) The investigator shall indicate in each record all instances in which work was performed by a non-certified individual pursuant to § 1-16(a)(2), and shall include such individual's name, address, telephone number, and a specific description of all activities performed by such individual.
+(c) The investigator shall indicate in each record all instances in which work was performed by a non-certified individual pursuant to 15 RCNY § 1-16(a)(2), and shall include such individual's name, address, telephone number, and a specific description of all activities performed by such individual.
 
 (d) The investigator shall maintain these records for thirty (30) years.
 
@@ -915,7 +915,7 @@ Work site. "Work site" shall mean premises where asbestos abatement activity is 
 *§ 1-31 Performance of Air and Bulk Sampling, Monitoring and Analysis.* ::
 
 
-Air sampling, monitoring, and analysis on asbestos projects, and bulk sampling and analysis to determine asbestos content, shall be performed in accordance with the provisions of the following §§ 1-31 through 1-45 inclusive.
+Air sampling, monitoring, and analysis on asbestos projects, and bulk sampling and analysis to determine asbestos content, shall be performed in accordance with the provisions of the following 15 RCNY §§ 1-31 through 1-45 inclusive.
 
 
 
@@ -995,7 +995,7 @@ Air sampling, monitoring, and analysis on asbestos projects, and bulk sampling a
 *§ 1-41 Air Sampling Schedule.* ::
 
 
-(a) At a minimum, air sampling shall be conducted in accordance with the following schedule:
+(a) At a minimum, air sampling shall be conducted in accordance with the following schedule: 
 
  
 
@@ -1003,36 +1003,17 @@ Air sampling, monitoring, and analysis on asbestos projects, and bulk sampling a
 .. list-table::
     :header-rows: 1
 
-    * - Abatement Activity 
-      - 
-      - Pre-Abatement 
-      - 
-      - During Abatement 
-      - 
+    * - Abatement Activity
+      - Pre-Abatement
+      - During Abatement
       - Post-Abatement 
-~
-
-
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - Equal to or Greater than 10,000 ft.2 or 10,000 linear ft. of ACM per work area
-      - 
+    * - Equal to or Greater than 10,000 ft.2or 10,000 linear ft. of ACM per work area
       - PCM 
-      - 
       - PCM 
-      - 
       - TEM 
-    * - Less than 10,000 ft.2 or 10,000 linear ft. of ACM
-      - 
+    * - Less than 10,000 ft.2or 10,000 linear ft. of ACM
       - PCM 
-      - 
       - PCM 
-      - 
       - PCM 
 ~
 
@@ -1051,8 +1032,8 @@ Air sampling, monitoring, and analysis on asbestos projects, and bulk sampling a
       - Pre- Abatement 
       - During Abatement
       - Post-Abatement 
-    * -  
-      - Large Asbestos Projects
+    * - Large Asbestos Projects
+      - 
       - 
       - 
       - 
@@ -1076,8 +1057,8 @@ Air sampling, monitoring, and analysis on asbestos projects, and bulk sampling a
       - 10 
       - 5c
       - 10d
-    * -  
-      - Small Asbestos Projects
+    * - Small Asbestos Projects
+      - 
       - 
       - 
       - 
@@ -1106,8 +1087,8 @@ Air sampling, monitoring, and analysis on asbestos projects, and bulk sampling a
       - 6 
       - 3c
       - 6d
-    * -  
-      - Minor Projects
+    * - Minor Projects
+      - 
       - 
       - 
       - 
@@ -1287,9 +1268,9 @@ Monitoring requirements and procedures for other than post-abatement clearance a
 
 (b) If possible, ambient samplers should be placed about 6 feet above the ground surface in reasonable proximity to the building and away from obstructions and drafts that may unduly affect airflow. For outdoor samples, if access to electricity and concerns about security dictate a rooftop site, locations near vents and other structures on the roof which would unduly affect airflow shall be avoided.
 
-(c) Samples shall have a chain of custody record. The project air sampling log required pursuant to section 1-37(f) of these rules does not satisfy the chain of custody requirement.
+(c) Samples shall have a chain of custody record. The project air sampling log required pursuant to 15 RCNY § 1-37(f) does not satisfy the chain of custody requirement.
 
-(d) In accordance with the above criteria, area samples (see § 1-41) shall conform to the following schedule:
+(d) In accordance with the above criteria, area samples (see 15 RCNY § 1-41) shall conform to the following schedule: 
 
  
 
@@ -1297,7 +1278,7 @@ Monitoring requirements and procedures for other than post-abatement clearance a
 .. list-table::
     :header-rows: 1
 
-    * - Area Samples forAnalysis by
+    * - Area Samples for Analysis by
       - Minimum Volume 
       - Flow Rate 
     * - PCM 25 mm
@@ -1329,7 +1310,7 @@ Post-abatement clearance air monitoring requirements are as follows:
 
 (a) (1)  Sampling shall not begin until a visual inspection, conducted by a project monitor who is independent of the abatement contractor and by the asbestos handler supervisor, confirms that all containerized waste has been removed from work and holding areas and there is no visible ACM debris or residue on or about all abated surfaces; and
 
-   (2) Sampling shall not begin until at least 1 hour after the area is dry from the third cleaning (see § 1-112(e)) and no visible pools of water or condensation remain. For pre-demolition asbestos abatement activity, sampling shall begin 2 hours after the area is dry and no visible pools of water or condensation remain.
+   (2) Sampling shall not begin until at least 1 hour after the area is dry from the third cleaning (see 15 RCNY § 1-112(e)) and no visible pools of water or condensation remain. For pre-demolition asbestos abatement activity, sampling shall begin 2 hours after the area is dry and no visible pools of water or condensation remain.
 
 (b) Samplers shall be placed at random around the work area. If the work area contains the number of rooms equivalent to the number of required samples based on floor area, a sampler shall be placed in each room. When the number of rooms is greater than the required number of samples a representative sample of rooms shall be selected.
 
@@ -1347,7 +1328,7 @@ Post-abatement clearance air monitoring requirements are as follows:
 
    (3) Turn off the pump and then the fan(s) when sampling is completed.
 
-(e) For post-abatement monitoring, area samples shall conform to the following schedule:
+(e) For post-abatement monitoring, area samples shall conform to the following schedule: 
 
  
 
@@ -1355,7 +1336,7 @@ Post-abatement clearance air monitoring requirements are as follows:
 .. list-table::
     :header-rows: 1
 
-    * - Area Samples forAnalysis by
+    * - Area Samples for Analysis by
       - Minimum Volume 
       - Flow Rate 
     * - PCM 
@@ -1479,14 +1460,14 @@ Laboratory analyses and reporting shall be considered evidence of compliance wit
 .. list-table::
     :header-rows: 1
 
-    * - DANGER ASBESTOS CANCER AND LUNG DISEASE HAZARD AUTHORIZED PERSONNEL ONLY RESPIRATORS AND PROTECTIVE CLOTHING ARE REQUIRED IN THIS AREA 
+    * - DANGERASBESTOS CANCER AND LUNG DISEASEHAZARDAUTHORIZED PERSONNEL ONLYRESPIRATORS AND PROTECTIVE CLOTHING ARE REQUIRED IN THIS AREA 
 ~
 
 
 
  
 
-(h) Warning labels shall be affixed to all waste containers containing asbestos material in and shall bear the following information:
+(h) Warning labels shall be affixed to all waste containers containing asbestos material in and shall bear the following information: 
 
  
 
@@ -1494,7 +1475,7 @@ Laboratory analyses and reporting shall be considered evidence of compliance wit
 .. list-table::
     :header-rows: 1
 
-    * - DANGER CONTAINS ASBESTOS FIBERS AVOID CREATING DUST CANCER AND LUNG DISEASE HAZARD 
+    * - DANGERCONTAINS ASBESTOS FIBERSAVOID CREATING DUSTCANCER AND LUNG DISEASE HAZARD 
 ~
 
 
@@ -1548,7 +1529,7 @@ The materials and equipment used during allabatement activities shall conform wi
 *§ 1-71 Applicability.* ::
 
 
-In addition to sections 1-01 through 1-61, the following sections 1-81 through 1-83, 1-91 through 1-94 and 1-111 and 1-112 shall apply to all asbestos projects. Sections 1-101 through 1-110 shall apply to all asbestos abatement activities.
+In addition to 15 RCNY §§ 1-01 through 1-61, the following 15 RCNY §§ 1-81 through 1-83, 1-91 through 1-94 and 1-111 and 1-112 shall apply to all asbestos projects. 15 RCNY §§ 1-101 through 1-110 shall apply to all asbestos abatement activities.
 
 
 
@@ -1562,7 +1543,7 @@ The following procedures shall be followed during the conduct of abatement activ
 
 (a) The building owner or designated representative shall provide notification to all occupants of the work place and immediate adjacent areas of the asbestos project. Information provided in the notification shall include contractor, project location and size, amount and type of ACM, abatement procedure, dates of expected occurrence and the Call Center "311" for government information and services. Postings of this notification shall be in English and Spanish, at eye level, in a conspicuous, well-lit place, at the entrances to the work place and immediate adjacent areas. The notice shall have the following heading: NOTICE OF ASBESTOS ABATEMENT, in a minimum of one inch sans serif, gothic or block style lettering, with the balance of the lettering of the notice to be of the same type lettering in a minimum of one quarter inch size. The notices shall be posted 7 calendar days prior to the start of the project and shall remain posted until clearance air monitoring is satisfactorily concluded. A lessee initiating an asbestos project shall give 10 calendar days notice to the owner of the subject building.
 
-(b) A floor plan showing the areas of the building under abatement and the location of all fire exits in said areas shall be prominently posted in the building lobby or comparable location, along with a notice stating the location within the building of the negative air cutoff switch required under section 1-91(f) of these rules, if applicable.
+(b) A floor plan showing the areas of the building under abatement and the location of all fire exits in said areas shall be prominently posted in the building lobby or comparable location, along with a notice stating the location within the building of the negative air cutoff switch required under 15 RCNY § 1-91(f), if applicable.
 
 (c) The work place shall be vacated by the occupants prior to work place preparation and until successful clearance air monitoring.
 
@@ -1584,9 +1565,9 @@ The following procedures shall be followed during the conduct of abatement activ
 
    (2) Removal by the above procedures shall be limited to a maximum of a one foot wide strip running the length and/or height of the partition and is allowed only to facilitate erection of the partitions.
 
-(g) All boilers and other equipment within the work area shall be shut down, locked out, and tagged out and the burner/boiler/equipment accesses and openings shall be sealed in accordance with § 1-81(n) until abatement activities are complete. If the boiler or other exhausted equipment will be subject to abatement, all breeching, stacks, columns, flues, shafts, and double-walled enclosures serving as exhausts or vents shall be segregated from the affected boiler or equipment and sealed airtight to eliminate potential chimney effects within the work area. Heating, Ventilation and Air Conditioning (HVAC) System Isolation methods are listed below in order of preference; the more complex and potentially problematic methods maybe used when the more preferred procedures are impractical.
+(g) All boilers and other equipment within the work area shall be shut down, locked out, and tagged out and the burner/boiler/equipment accesses and openings shall be sealed in accordance with 15 RCNY § 1-81(n) until abatement activities are complete. If the boiler or other exhausted equipment will be subject to abatement, all breeching, stacks, columns, flues, shafts, and double-walled enclosures serving as exhausts or vents shall be segregated from the affected boiler or equipment and sealed airtight to eliminate potential chimney effects within the work area. Heating, Ventilation and Air Conditioning (HVAC) System Isolation methods are listed below in order of preference; the more complex and potentially problematic methods maybe used when the more preferred procedures are impractical.
 
-   (1) shut down and lock out HVAC systems and install isolation barriers (see § 1-81(n)) to prevent contamination and fiber dispersal to other areas of the structure, or
+   (1) shut down and lock out HVAC systems and install isolation barriers (see 15 RCNY § 1-81(n)) to prevent contamination and fiber dispersal to other areas of the structure, or
 
    (2) isolate locally and provide temporary HVAC, or
 
@@ -1734,11 +1715,11 @@ The following procedures shall be followed for removal of asbestos-containing wa
 
    (1) the holding area of the waste decontamination enclosure system may branch off from the equipment/decontamination room (see Illustration III). Thus constructed, the equipment room alternates as a waste washroom. In this case the waste washroom shall be equipped with a catch basin and a drain, installed to collect and deliver waste water to either the shower drain or a separate holding vessel from where it is filtered, or
 
-   (2) where total asbestos-containing material disturbed in the asbestos project is less than 1,000 linear feet or 1,000 square feet, the shower room may be used as a waste washroom and shall be equipped as set forth in section 1-83(b)(1), and
+   (2) where total asbestos-containing material disturbed in the asbestos project is less than 1,000 linear feet or 1,000 square feet, the shower room may be used as a waste washroom and shall be equipped as set forth in 15 RCNY § 1-83(b)(1), and
 
       (i) the clean room, in the configuration shown in Illustration I, may not be used for waste storage but may be used for waste transfer to carts, which are stored outside the clean room in a designated holding area.
 
-(c) The waste decontamination enclosure system shall be constructed to meet the requirements of §§ 1-82 (a), (c), (d), (e), (g)(3) and (h).
+(c) The waste decontamination enclosure system shall be constructed to meet the requirements of 15 RCNY §§ 1-82(a), (c), (d), (e), (g)(3) and (h).
 
 
 
@@ -1748,11 +1729,11 @@ The following procedures shall be followed for removal of asbestos-containing wa
 *§ 1-84 Small Asbestos Project Worker and Waste Decontamination Enclosure System.* ::
 
 
-The following alternative to §§ 1-82 and 1-83 shall be applicable for small projects only:
+The following alternative to 15 RCNY §§ 1-82 and 1-83 shall be applicable for small projects only:
 
-(a) The worker decontamination enclosure system shall consist of, as a minimum, an equipment room, a shower room, and a clean room separated from each other and from the work area by curtained doorways. Equipment storage, personal gross decontamination and removal of disposable clothing shall occur in the equipment room prior to entering the shower. All other requirements set forth in § 1-82 and § 1-92 shall apply.
+(a) The worker decontamination enclosure system shall consist of, as a minimum, an equipment room, a shower room, and a clean room separated from each other and from the work area by curtained doorways. Equipment storage, personal gross decontamination and removal of disposable clothing shall occur in the equipment room prior to entering the shower. All other requirements set forth in 15 RCNY § 1-82 and 15 RCNY § 1-92 shall apply.
 
-(b) For small asbestos projects with only one exit from the work area, the shower room may be used as a waste washroom. The clean room shall not be used for waste storage. All other requirements set forth in §§ 1-83 and 1-93 shall apply.
+(b) For small asbestos projects with only one exit from the work area, the shower room may be used as a waste washroom. The clean room shall not be used for waste storage. All other requirements set forth in 15 RCNY §§ 1-83 and 1-93 shall apply.
 
 
 
@@ -1852,7 +1833,7 @@ The following procedures shall be followed whenever equipment or containers are 
 
 (b) Where the waste decontamination enclosure system is part of the worker decontamination enclosure system (see Illustration III), waste removal shall not occur during worker shift changes or when workers are showering or changing. Care shall be taken to prevent short circuiting and cycling of air outward through the shower and clean room.
 
-(c) Where only one means of egress exists and the shower room is used as a waste washroom, workers are to be stationed in each room/area of the decontamination enclosure to transfer/process (see subdivisions (d), (h) and (I) of this section) the containers and equipment to or from adjacent sections. These workers are not to cross into the adjacent areas/rooms until the waste/equipment transfer is finished for that period and the workers have gone through decontaminations required by § 1-92 of this chapter. The clean room/holding area workers shall have entered from uncontaminated areas with appropriate personal protective equipment; or prior to the start of waste transfer, these workers shall have exited the work area, fully decontaminated, and subsequently donned clean personal protective equipment.
+(c) Where only one means of egress exists and the shower room is used as a waste washroom, workers are to be stationed in each room/area of the decontamination enclosure to transfer/process (see subdivisions (d), (h) and (I) of this section) the containers and equipment to or from adjacent sections. These workers are not to cross into the adjacent areas/rooms until the waste/equipment transfer is finished for that period and the workers have gone through decontaminations required by 15 RCNY § 1-92. The clean room/holding area workers shall have entered from uncontaminated areas with appropriate personal protective equipment; or prior to the start of waste transfer, these workers shall have exited the work area, fully decontaminated, and subsequently donned clean personal protective equipment.
 
 (d) External surfaces of contaminated containers and equipment shall be cleaned by wet cleaning and/or HEPA vacuuming in the work area before transferring such items into the decontamination enclosure system. Contaminated workers shall not enter the washroom during this procedure.
 
@@ -1888,7 +1869,7 @@ The following procedures shall be followed during the conduct of abatement activ
 
 (e) Inspections, observations, and unusual incidents (e.g. barrier damage, contamination beyond the work area, etc.) shall be documented in the log by the asbestos handler supervisor.
 
-(f) The daily inspection to ensure that exits have been checked against exterior blockage or impediments to exiting as per section 1-81(t) shall be documented in the log book.
+(f) The daily inspection to ensure that exits have been checked against exterior blockage or impediments to exiting as per 15 RCNY § 1-81(t) shall be documented in the log book.
 
 (g) If exits are found blocked, abatement activities shall stop until the blockage is cleared.
 
@@ -1900,7 +1881,7 @@ The following procedures shall be followed during the conduct of abatement activ
 *§ 1-101 Applicability.* ::
 
 
-The following §§ 1-102 through 1-110 inclusive shall apply to all abatement activities.
+The following 15 RCNY §§ 1-102 through 1-110 inclusive shall apply to all abatement activities.
 
 
 
@@ -1936,7 +1917,7 @@ The following procedures shall be followed for the encapsulation of ACM:
 
 (a) All material used for repair or encapsulation of asbestos-containing material shall have a flame spread rating, fireproofing, and smoke characteristics similar to the material being encapsulated. The encapsulate shall not alter the insulating characteristics of the material subject to encapsulation, and shall comply with current fire proofing standards and the encapsulate shall not add excess weight to the material increasing the potential that the material may lose cohesion or adhesion.
 
-(b) Loose or hanging asbestos-containing materials shall be removed in accordance with the requirements of § 1-102: "Disturbance, Handling, and Removal."
+(b) Loose or hanging asbestos-containing materials shall be removed in accordance with the requirements of 15 RCNY § 1-102: "Disturbance, Handling, and Removal."
 
 (c) Only pigmented (non-transparent) encapsulants shown to be ratable as acceptable or marginally acceptable on the basis of Battelle Columbus Laboratory test procedures and rating requirements developed under the 1978 USEPA contract shall be used for encapsulation.
 
@@ -1986,7 +1967,7 @@ The following procedures shall be followed for the encapsulation of ACM:
 
 The following procedures shall be followed for the enclosure of ACM:
 
-(a) Loose and hanging asbestos-containing materials that may be disturbed during the installation of hangers or other support/framing materials for the enclosure shall be removed by wet methods in accordance with § 1-102: "Disturbance, Handling, and Removal".
+(a) Loose and hanging asbestos-containing materials that may be disturbed during the installation of hangers or other support/framing materials for the enclosure shall be removed by wet methods in accordance with 15 RCNY § 1-102: "Disturbance, Handling, and Removal".
 
 (b) After installation of hangers, brackets or other enclosure supports and before installation of enclosure materials, damaged areas of fireproofing/thermal insulation shall be repaired using a replacement material.
 
@@ -2012,13 +1993,13 @@ The following procedures shall be followed for the enclosure of ACM:
 
 The following procedures shall be followed during the conduct of abatement activities:
 
-(a) Glovebag procedures shall be done using commercially available glovebags of 6-mil clear plastic, appropriately sized for the project. Glovebag procedures may only be used in conjunction with the full containment of the work area (see § 1-81) or the tent procedure (see § 1-106). Glovebags may not be shifted and shall not be moved from the initial surface to another surface, or reinstalled on the initial surface once removed.
+(a) Glovebag procedures shall be done using commercially available glovebags of 6-mil clear plastic, appropriately sized for the project. Glovebag procedures may only be used in conjunction with the full containment of the work area (see 15 RCNY § 1-81) or the tent procedure (see 15 RCNY § 1-106). Glovebags may not be shifted and shall not be moved from the initial surface to another surface, or reinstalled on the initial surface once removed.
 
 (b) The glovebag procedure shall be performed in accordance with the following:
 
    (1) All necessary tools and materials shall be brought into the work area before the glovebag procedure begins.
 
-   (2) Air monitoring shall be conducted in accordance with §§ 1-31 through 1-45.
+   (2) Air monitoring shall be conducted in accordance with 15 RNCY §§ 1-31 through 1-45.
 
    (3) Glovebag procedures shall be conducted by workers specifically trained in glovebag procedures and equipped with appropriate personal protective equipment.
 
@@ -2048,11 +2029,11 @@ The following procedures shall be followed during the conduct of abatement activ
 
    (14) A 6-mil plastic bag shall be slipped around the glovebag while it is still attached to the surface. The bag shall be detached from the surface by removing the tape or cutting the top with blunt scissors.
 
-   (15) The asbestos-containing waste, the clean-up materials, and protective clothing shall be wetted sufficiently, double-bagged minimizing air content, sealed separately, and disposed of in conformance with §§ 1-93 and 1-102 of this chapter.
+   (15) The asbestos-containing waste, the clean-up materials, and protective clothing shall be wetted sufficiently, double-bagged minimizing air content, sealed separately, and disposed of in conformance with 15 RCNY §§ 1-93 and 1-102.
 
 (c) [Reserved.]
 
-(d) Glovebag procedures may only be utilized as part of a large or small asbestos project within full containment as set forth in section 1-81 of this chapter, or inside a tent constructed in accordance with section 1-106 of this chapter.
+(d) Glovebag procedures may only be utilized as part of a large or small asbestos project within full containment as set forth in 15 RCNY § 1-81, or inside a tent constructed in accordance with 15 RCNY § 1-106.
 
 
 
@@ -2064,19 +2045,19 @@ The following procedures shall be followed during the conduct of abatement activ
 
 Tent Procedures shall be conducted as follows:
 
-(a) Tent procedures shall be limited to the removal of less than 260 linear feet and 160 square feet of ACM and shall not result in disturbance of ACM during tent erection. Tent procedures may be used as part of a large asbestos project only as provided for in section 1-81(f) or in conjunction with the glovebag procedure set forth in section 1-105 of these rules. Multiple tent enclosures may be used as part of a large asbestos project only in conjunction with the use of the glovebag procedure.
+(a) Tent procedures shall be limited to the removal of less than 260 linear feet and 160 square feet of ACM and shall not result in disturbance of ACM during tent erection. Tent procedures may be used as part of a large asbestos project only as provided for in 15 RCNY § 1-81(f) or in conjunction with the glovebag procedure set forth in 15 RCNY § 1-105. Multiple tent enclosures may be used as part of a large asbestos project only in conjunction with the use of the glovebag procedure.
 
 (b) Tent procedures shall be accomplished in a constructed or commercially available fire retardant plastic tent, plasticizing and sealing all surfaces not being abated within the tent periphery forming an enclosure. The tent shall be of fire retardant 6-mil plastic at a minimum, with seams heat-sealed, or double-folded, stapled and taped airtight and then taped flush with the adjacent tent wall. This is a single use barrier that shall not be reused once dismantled or collapsed.
 
 (c) There shall be an airlock at the entrance to the tent, unless there is an attached worker or waste decontamination system.
 
-(d) Asbestos handlers involved in the tent procedure shall wear personal protective equipment as specified in § 1-51(c), plus a second disposable suit. All street clothes shall be removed and stored in a clean room within the work site. The personal protective equipment with two disposable suits shall be used for installation of the tent and throughout the procedure if a decontamination unit with a shower is not contiguous to the work area. If a decontamination unit (with shower and clean room at a minimum) is contiguous to the work area, only one disposable suit shall be required; in this case, prior to exiting the tent the worker shall HEPA vacuum and wet clean the disposable suit.
+(d) Asbestos handlers involved in the tent procedure shall wear personal protective equipment as specified in 15 RCNY § 1-51(c), plus a second disposable suit. All street clothes shall be removed and stored in a clean room within the work site. The personal protective equipment with two disposable suits shall be used for installation of the tent and throughout the procedure if a decontamination unit with a shower is not contiguous to the work area. If a decontamination unit (with shower and clean room at a minimum) is contiguous to the work area, only one disposable suit shall be required; in this case, prior to exiting the tent the worker shall HEPA vacuum and wet clean the disposable suit.
 
 (e) The tent shall be attached to the surface to produce an airtight seal except for an appropriate section to allow for make-up air into the tent.
 
-(f) Negative pressure ventilation equipment shall be used to continuously exhaust the enclosed area as specified under § 1-91, Engineering Controls.
+(f) Negative pressure ventilation equipment shall be used to continuously exhaust the enclosed area as specified under 15 RCNY § 1-91, Engineering Controls.
 
-(g) Removal of ACM shall be by wet methods in accordance with § 1-102.
+(g) Removal of ACM shall be by wet methods in accordance with 15 RCNY § 1-102.
 
 (h) ACM removed shall be placed in a leak-tight container without dropping it.
 
@@ -2098,7 +2079,7 @@ Tent Procedures shall be conducted as follows:
 
 (n) The tent shall be collapsed inward, enclosing the contaminated clothing. This contaminated material shall be disposed of in another plastic bag. The HEPA vacuum shall be decontaminated and sealed.
 
-(o) Glovebag procedures for removal of material within the tent for any sized project shall follow the rules set forth in § 1-105.
+(o) Glovebag procedures for removal of material within the tent for any sized project shall follow the rules set forth in 15 RCNY § 1-105.
 
 
 
@@ -2108,7 +2089,7 @@ Tent Procedures shall be conducted as follows:
 *§ 1-107 Foam Procedure for Roof Removal.* ::
 
 
-(a) These procedures apply only to the removal of asbestos-containing roofing material (ACRM) from exterior roof surfaces. The work area on the roof shall be cordoned off with clearly visible barriers such as caution tape, and only authorized persons shall have access. All sections of these rules shall be followed in conjunction with this section with the exception of, § 1-81(m), § 1-81(p), § 1-91, § 1-102(b), § 1-112(d), and § 1-112(e).
+(a) These procedures apply only to the removal of asbestos-containing roofing material (ACRM) from exterior roof surfaces. The work area on the roof shall be cordoned off with clearly visible barriers such as caution tape, and only authorized persons shall have access. All sections of these rules shall be followed in conjunction with this section with the exception of, 15 RCNY § 1-81(m), 15 RCNY § 1-81(p), 15 RCNY § 1-91, 15 RCNY § 1-102(b), 15 RCNY § 1-112(d), and 15 RCNY § 1-112(e).
 
 (b) The foam or viscous liquid shall be non-toxic, shall not require special respiratory protection for handling, and shall not affect the handling and disposal of the waste.
 
@@ -2120,7 +2101,7 @@ Tent Procedures shall be conducted as follows:
 
 (f) Abatement shall not be carried out during adverse weather conditions (e.g. precipitation, high winds, ambient temperature below 32 degrees Fahrenheit, etc.).
 
-(g) The worker decontamination unit may be attached to each work area at an entry/exit from each work area in accordance with section 1-82, or may be remote, in which case the work area shall be equipped with an airlock at the entrance. In addition to the shower head(s), the shower room shall be equipped with a flexible hose for waste decontamination for removal of less than 1,000 square feet of ACRM. For 1,000 square feet or more of ACRM removal, a separate waste decontamination facility as per section 1-83 shall be located at an entry/exit from each work area. Remote holding areas for the asbestos containing waste shall comply with Title 16, Chapter 8, Rules of the City of New York (16 RCNY §§ 8.01 et seq.)
+(g) The worker decontamination unit may be attached to each work area at an entry/exit from each work area in accordance with 15 RCNY § 1-82, or may be remote, in which case the work area shall be equipped with an airlock at the entrance. In addition to the shower head(s), the shower room shall be equipped with a flexible hose for waste decontamination for removal of less than 1,000 square feet of ACRM. For 1,000 square feet or more of ACRM removal, a separate waste decontamination facility as per 15 RCNY § 1-83 shall be located at an entry/exit from each work area. Remote holding areas for the asbestos containing waste shall comply with Title 16, Chapter 8, Rules of the City of New York (16 RCNY §§ 8.01 et seq.)
 
 (h) Movable objects shall be removed from the work area, or kept in place and wrapped in one sheet of fire retardant 6 mil plastic sheeting.
 
@@ -2148,7 +2129,7 @@ Tent Procedures shall be conducted as follows:
 *§ 1-108 Foam/Viscous Liquid Use in Flooring Removal.* ::
 
 
-(a) These procedures only apply to the removal of surface flooring material including vinyl asbestos floor tiles (VAT), ACM floor coverings (e.g., linoleum) and associated mastics and adhesives, where the only ACM being abated in the work area is flooring material. All sections of these rules shall be followed in conjunction with this section with the exception of [;§ 1-41(c), § 1-41(d),]; § 1-81(m), § 1-81(p), § 1-91(c), § 1-91(h), § 1-102(b), § 1-112(d), and § 1-112(e).
+(a) These procedures only apply to the removal of surface flooring material including vinyl asbestos floor tiles (VAT), ACM floor coverings (e.g., linoleum) and associated mastics and adhesives, where the only ACM being abated in the work area is flooring material. All sections of these rules shall be followed in conjunction with this section with the exception of 15 RCNY § 1-81(m), 15 RCNY § 1-81(p), 15 RCNY § 1-91(c), 15 RCNY § 1-91(h), 15 RCNY § 1-102(b), 15 RCNY § 1-112(d), and 15 RCNY § 1-112(e).
 
 (b) The foam or viscous liquid shall be non-toxic, shall not require special respiratory protection for handling, and shall not affect the handling and disposal of the waste.
 
@@ -2190,7 +2171,7 @@ Paints
 
 Sealants for coping stone caps or clay roofing tiles
 
- All applicable sections of these rules shall be followed in conjunction with this section except sections 1-81(p), 1-91, and 1-112(d, e, g, and h).
+ All applicable sections of these rules shall be followed in conjunction with this section except 15 RCNY §§ 1-81(p), 1-91, and 1-112(d), (e), (g), and (h).
 
 (a) The work area shall be prepared as follows:
 
@@ -2315,7 +2296,7 @@ Additional clean-up procedures shall be performed in the order set forth below p
 *§ 1-120 Applicability of Regulations to Pre-Demolition Abatement Activities.* ::
 
 
-The following regulations shall apply to pre-demolition abatement activities:
+The following regulations shall apply to pre-demolition abatement activities: 
 
  
 
@@ -2323,27 +2304,27 @@ The following regulations shall apply to pre-demolition abatement activities:
 .. list-table::
     :header-rows: 1
 
-    * - §§ 1-01 through 1-61
+    * - 15 RCNY §§ 1-01 through 1-61
       - General Regulations 
-    * - 1-82
+    * - 15 RCNY § 1-82
       - Worker Decontamination Enclosure System
-    * - 1-83
+    * - 15 RCNY § 1-83
       - Waste Decontamination Enclosure System
-    * - 1-91 through 1-94
+    * - 15 RCNY § 1-91 through 1-94
       - Work Place Procedures
-    * - 1-102
+    * - 15 RCNY § 1-102
       - ACM Disturbance, Handling and Removal Procedures
-    * - 1-105
+    * - 15 RCNY § 1-105
       - Glovebag Procedure
-    * - 1-106
+    * - 15 RCNY § 1-106
       - Tent Procedure
-    * - 1-107
+    * - 15 RCNY § 1-107
       - Foam Procedure for Roof Removal
-    * - 1-108
+    * - 15 RCNY § 1-108
       - Foam/Viscous Liquid Use in Flooring Removal
-    * - 1-109
+    * - 15 RCNY § 1-109
       - Abatement from Vertical Exterior Surfaces
-    * - 1-120 through 1-128
+    * - 15 RCNY § 1-120 through 1-128
       - Pre-Demolition Abatement Activity Procedures
 ~
 
@@ -2413,7 +2394,7 @@ The following work area preparation shall be followed during the conduct of pre-
 *§ 1-126 ACM Procedures: Order of Work.* ::
 
 
-No ACM removal shall be performed in a building concurrently with the full demolition of such building or with the removal of one or more stories of such building, except as otherwise provided in these rules pursuant to §§ 1-03 and 1-26. This subsection shall not apply to emergency work being performed pursuant to article 215 of chapter 2 of title 28 of the administrative code.
+No ACM removal shall be performed in a building concurrently with the full demolition of such building or with the removal of one or more stories of such building, except as otherwise provided in these rules pursuant to 15 RCNY §§ 1-03 and 1-26. This subsection shall not apply to emergency work being performed pursuant to article 215 of chapter 2 of title 28 of the administrative code.
 
 
 
@@ -2467,7 +2448,7 @@ The following final clean-up procedures for pre-demolition abatement shall be pe
 .. list-table::
     :header-rows: 1
 
-    * - TITLE 15 DEPARTMENT OF ENVIRONMENTAL PROTECTION
+    * - TITLE 15 DEPARTMENT OF ENVIRONMENTAL PROTECTION 
       - 
     * - Appendix  B
       - System Specific Water Quality Characteristics
@@ -2481,7 +2462,7 @@ The following final clean-up procedures for pre-demolition abatement shall be pe
 
  
 
-ILLUSTRATIONS*
+ILLUSTRATIONS
 
 
 
@@ -2654,20 +2635,28 @@ In order for a registration or work permit to be issued an application must be f
 
 (63) Transition section. "Transition section" means a section of duct, breeching or stack used to connect these elements with structures of different cross-sectional dimensions. The required length for such transition section must conform with:
 
-L = 4(D
+   L = 4(D
+								
 								1
+								
 								-D
+								
 								2
+								
 								)
 
-Where,
+   Where,
 
-D
+      D
+								
 								1
+								
 								 = the diameter (or equivalent diameter) of the larger cross-sectional structures.
 
-D
+      D
+								
 								2
+								
 								 = the diameter (or equivalent diameter) of the smaller cross-sectional structures.
 
 (64) Venting Calculations: "Venting calculations" means calculations that determine the acceptance of the combustion air supply and boiler flue gas venting. These calculations include:
@@ -2970,25 +2959,25 @@ Equipment Acceptance Requirements
 
          (B) When a power operated draft regulator is used, the pressure differential measured across the damper must be equal to or greater than the value obtained when the height of the stack (H) is multiplied by ΔDr/H, i.e.
 
-ΔP ≥ H × (ΔDr/H)
+            ΔP ≥ H × (ΔDr/H)
 
-where,
+            where,
 
-ΔP (inches H
+               ΔP (inches H
 								2
 								O) is the pressure differential measured across the power operated draft regulator damper.
 
-ΔDr/H (inches H
+               ΔDr/H (inches H
 								2
 								O/ft) is the differential draft per foot obtained from Table I using the outside ambient temperature measured when the performance test was conducted.
 
-H (feet) is the height of the stack.
+               H (feet) is the height of the stack.
 
          (C) When a barometric or manual damper is used, the theoretical pressure differential caused by the barometric or manual damper must be equal to or greater than the value obtained when the height of the stack is multiplied by ΔDr/H, i.e.
 
-ΔP ≥ H × (ΔDr/H)
+            ΔP ≥ H × (ΔDr/H)
 
-where ΔP, ΔDr/H, and H are defined in (B).
+            where ΔP, ΔDr/H, and H are defined in (B).
 
 The static pressure is measured at the boiler outlet. The barometric damper or manual damper is gradually opened until the calculated DP is measured. The barometric damper is then returned to its original setting and the manual damper is then returned to its initial position and fixed. The department will review alternative demonstrations of adequate pressure differential if they comply with 2009 ASHRAE Fundamentals Chapter 21, and are stamped by a professional engineer.
 
@@ -3030,7 +3019,7 @@ An owner of equipment that is required to have a certificate of operation must p
 
    (1) The combustion efficiency test must be performed using a qualified combustion analyzer that has passed an annual calibration test. The results of the annual calibration test must be kept and be submitted within five business days if requested by the department. If the minimum combustion efficiencies are not achieved, it is the responsibility of the owner to ensure proper maintenance and repairs occur.
 
-   (2) The equipment used must conform with the following requirements:
+   (2) The equipment used must conform with the following requirements: 
 
  
 
@@ -3038,7 +3027,7 @@ An owner of equipment that is required to have a certificate of operation must p
 .. list-table::
     :header-rows: 1
 
-    * - 
+    * -  
       - Accuracy 
       - Resolution
     * - Oxygen (O2)
@@ -3056,7 +3045,7 @@ An owner of equipment that is required to have a certificate of operation must p
 
  
 
-An optional test using the following standards may be applied as provided in the following chart:
+An optional test using the following standards may be applied as provided in the following chart: 
 
  
 
@@ -3064,14 +3053,14 @@ An optional test using the following standards may be applied as provided in the
 .. list-table::
     :header-rows: 1
 
-    * - 
+    * -  
       - Accuracy 
       - Resolution
     * - Carbon Monoxide (CO)
       - + 2 ppm at 0.0 to 39.9 ppm+ 5% at 40.0 to 500 ppm
       - 0.1 ppm
     * - Nitric Oxide (NO)
-      - + 5 ppm at 0-100 ppm+ 5% 101-2000 ppm
+      - + 5 ppm at 0 - 100 ppm+ 5% 101 - 2,000 ppm
       - 1 ppm
 ~
 
@@ -3241,7 +3230,7 @@ Several factors affect the location of the chimney outlet including the need to 
 
       For receptors located below the chimney outlet, the chimney outlet must not be located within the minimum radial distance specified in Table II.
 
-      In those instances where the above is applicable, the following statement must be provided as a plan note in place of the statement required in 15 RCNY § 2-04(c)(2)(iv)-(vi): "The minimum radial distance from the centerline of the existing chimney to an acceptable receptor location (a) located at a height equal to or greater than the chimney outlet is ________ ft. and (b) located below the chimney outlet is ________ ft.," with the distance specified.
+      In those instances where the above is applicable, the following statement must be provided as a plan note in place of the statement required in 15 RCNY § 2-04(c)(2)(iv) - (vi): "The minimum radial distance from the centerline of the existing chimney to an acceptable receptor location (a) located at a height equal to or greater than the chimney outlet is ________ ft. and (b) located below the chimney outlet is ________ ft.," with the distance specified.
 
 (c) Whenever a building is erected, enlarged, or increased in height so that any receptor location in such building is within the minimum radial distance, as specified in Table II, of any previously constructed chimneys, the owner of such new or altered building must have the responsibility of altering such chimneys to make them conform with subdivision (a) of this section above. This must not apply to chimneys no longer connected to combustion equipment.
 
@@ -3344,7 +3333,7 @@ Chapter 3: Cessation of Operation and Removal and Sealing of Refuse Burning Equi
 
    (1) Purusant to Local Law 39 of 1989, effective June 28, 1993, all owners of refuse burning equipment shall cease the operation of and remove and seal such refuse burning equipment.
 
-   (2) Compliance with prohibition. All such owners shall comply with the prohibition set forth in subdivision (a)(1) by either removal of all auxiliary burners and sealing of all doors to refuse burning equipment, or by conversion of the charging chute for such refuse burning equipment to a refuse chute in accordance with all applicable Department of Buildings laws and rules. For the purposes of this paragraph "sealing" means the removal of incinerator grates and compliance with subdivision (e) of § 24-01 of Chapter 24 of the Rules of Department of Buildings of the City of New York governing fireproofing.
+   (2) Compliance with prohibition. All such owners shall comply with the prohibition set forth in subdivision (a)(1) by either removal of all auxiliary burners and sealing of all doors to refuse burning equipment, or by conversion of the charging chute for such refuse burning equipment to a refuse chute in accordance with all applicable Department of Buildings laws and rules. For the purposes of this paragraph "sealing" means the removal of incinerator grates and compliance with subdivision (e) of 1 RCNY § 24-01 of Chapter 24 of the Rules of Department of Buildings of the City of New York governing fireproofing.
 
    (3) Unless otherwise required by law, no owner of refuse burning equipment shall be required to install a refuse compacting system upon the cessation of operation and the removal and sealing of such refuse burning equipment.
 
@@ -3451,7 +3440,7 @@ Vapor control system. "Vapor control system" shall mean a system that prevents e
 
    (4) No person shall install, alter, test or repair underground equipment for storage, underground storage systems, underground tanks and underground piping and valves for gasoline except by or under direct supervision of a person who has first secured from the Commissioner of the Fire Department of the City of New York a Certificate of License to make such installation, alteration, test or repair. A written application for alteration to any part of existing underground equipment and/or underground storage systems shall be made to the Fire Department according to the requirements of § 27-4062(d)of the Administrative Code of the City of New York.
 
-(b) Certificate of Registration. Owners and/or operators of gasoline dispensing sites who are required to comply under § 4-03(a) shall apply for a Certificate of Registration and pay a fee for each registration or renewal thereof according to § 24-140(c) of the New York City Administrative Code within 10 days of the effective date of this regulation.
+(b) Certificate of Registration. Owners and/or operators of gasoline dispensing sites who are required to comply under 15 RCNY § 4-03(a) shall apply for a Certificate of Registration and pay a fee for each registration or renewal thereof according to § 24-140(c) of the New York City Administrative Code within 10 days of the effective date of this regulation.
 
 (c) Exemptions. 
 
@@ -3503,7 +3492,7 @@ Vapor control system. "Vapor control system" shall mean a system that prevents e
 *§ 4-05 Leakage.* ::
 
 
-During the loading or unloading of a gasoline transport vehicle subject to this chapter, leakage from any component of the gasoline transport vehicle or the vapor collection or control systems shall not equal or exceed 20 percent of the lower explosive limit (LEL measured as propane) when measured at a distance of one inch with a combustible gas detector. There shall be no avoidable visible liquid leak from such components. Components of the transport vehicle or vapor collection or control systems include all piping, seals, hoses, connections, pressure-vacuum seals, and other possible leak sources. The combustible gas detector used for determining compliance with this standard shall have a minimum range of 0-100 percent of the LEL as propane, a probe with an internal diameter of 1/4 inch (0.625 cm), and a response time less than 8 seconds with sampling line and probe attached. The combustible gas detector must be properly calibrated prior to testing.
+During the loading or unloading of a gasoline transport vehicle subject to this chapter, leakage from any component of the gasoline transport vehicle or the vapor collection or control systems shall not equal or exceed 20 percent of the lower explosive limit (LEL measured as propane) when measured at a distance of one inch with a combustible gas detector. There shall be no avoidable visible liquid leak from such components. Components of the transport vehicle or vapor collection or control systems include all piping, seals, hoses, connections, pressure-vacuum seals, and other possible leak sources. The combustible gas detector used for determining compliance with this standard shall have a minimum range of 0 - 100 percent of the LEL as propane, a probe with an internal diameter of 1/4 inch (0.625 cm), and a response time less than 8 seconds with sampling line and probe attached. The combustible gas detector must be properly calibrated prior to testing.
 
 
 
@@ -3602,7 +3591,7 @@ Chapter 5: Criteria Used For Upgrading Existing Apartment House Incinerators
 
 (f) Plot plan must show the building location and dimensions, the flue discharge point, and the location, distances, and heights of all buildings within a reasonable distance. Layouts shall include plan and elevation of incinerator room clearly showing the incinerator, the location and size of fixed ventilation to the outer air. Drawings shall also include a roof plan and elevation showing the flue, and other roof structures such as water tanks, penthouses, etc. The furnace, gas burner, automatic draft controls, flues, etc., shall be shown by plan and elevation cross-sections.
 
-(g) Section 24-124(a) and (b) of the New York City Air Pollution Control [;Administrative]; Code requires that a Professional Engineer or Registered Architect certify that the application is accurate and that the equipment covered will comply with the requirements of the law. The application and appurtenant drawings, specification sheets and amendments, must also be impressed with the seal of the certifier.
+(g) Section 24-124(a) and (b) of the New York City Air Pollution Control Code requires that a Professional Engineer or Registered Architect certify that the application is accurate and that the equipment covered will comply with the requirements of the law. The application and appurtenant drawings, specification sheets and amendments, must also be impressed with the seal of the certifier.
 
 (h) A separate application is required for each unit of equipment or control apparatus, unless identical units of equipment or control apparatus are to be installed, altered, or operated in an identical manner in the same building.
 
@@ -3784,7 +3773,7 @@ Chapter 5: Criteria Used For Upgrading Existing Apartment House Incinerators
 
       (iv) Set controls for the operation cycle.
 
-      (v) Set the timing mechanism for 4 or more burns per day: For example: 6-7 a.m., 2-3 p.m., 7-8 p.m., 10-11 p.m..
+      (v) Set the timing mechanism for 4 or more burns per day: For example: 6 - 7 a.m., 2 - 3 p.m., 7 - 8 p.m., 10 - 11 p.m..
 
       (vi) It may be necessary to make seasonal adjustments in the choice of operating periods.
 
@@ -3814,7 +3803,7 @@ Chapter 5: Criteria Used For Upgrading Existing Apartment House Incinerators
 
 Note: Report immediately any malfunctioning or deterioration to owner or agent.
 
-Table 1. Flue Fed Incinerators—100 to 1,000 Rooms—Manual Grates 
+Table 1. Flue Fed Incinerators — 100 to 1,000 Rooms — Manual Grates 
 
  
 
@@ -3823,7 +3812,7 @@ Table 1. Flue Fed Incinerators—100 to 1,000 Rooms—Manual Grates
     :header-rows: 1
 
     * - No. of Rooms or population per incinerator
-      - 
+      -  
       - 100
       - 200
       - 300
@@ -4304,7 +4293,7 @@ Tuition. "Tuition" shall mean the charge for instruction at an approved school, 
 
 (b) Educational institutions, industry and labor organizations shall only employ instructors experienced in teaching the operation and supervision of residual fuel oil burning or refuse burning equipment.
 
-(c) A copy of each instructor's resume which demonstrates the experience required in § 10-05(a) and a letter from the training institution attesting to the instructor's competence to teach the course shall be submitted to the department prior to commencement of the course.
+(c) A copy of each instructor's resume which demonstrates the experience required in 15 RCNY § 10-05(a) and a letter from the training institution attesting to the instructor's competence to teach the course shall be submitted to the department prior to commencement of the course.
 
 
 
@@ -4423,7 +4412,7 @@ This Rule applies to all new and existing dry cleaning facilities in the City of
 
    (29) Dry-to-dry vented machine. Dry cleaning equipment in which washing, extraction, and drying are all performed in the same single unit and in which fresh air is introduced into the drum in the last step of the drying cycle and exhausted to the outdoor atmosphere, either directly or through a control device (2nd generation equipment).
 
-   (30) Environmental Training Program. An initial course or a refresher course of the Environmental Training Program, described in § 12-14 of this Rule and § 232.14 of Title 6 of the Codes, Rules, and Regulations of the State of New York for owners and operators of perc dry cleaning operations that has been authorized by the New York State Department of Environmental Conservation or the Department.
+   (30) Environmental Training Program. An initial course or a refresher course of the Environmental Training Program, described in 15 RCNY § 12-14 and § 232.14 of Title 6 of the Codes, Rules, and Regulations of the State of New York for owners and operators of perc dry cleaning operations that has been authorized by the New York State Department of Environmental Conservation or the Department.
 
    (31) Equivalent closed-loop vapor recovery system. A device or combination of devices that achieves, in practice, a perc recovery performance equal to or exceeding that of refrigerated condensers.
 
@@ -4451,7 +4440,7 @@ This Rule applies to all new and existing dry cleaning facilities in the City of
 
    (43) Local exhaust ventilation system. A mechanical exhaust ventilation system connected directly to a dry cleaning machine or other related dry cleaning equipment. For example, the exhaust system on a door fan for a third generation machine constitutes a local exhaust ventilation system.
 
-   (44) Major source. A dry cleaning facility that emits or has the potential to emit more than 9.1 megagrams per year (10 tons per year) of perc to the atmosphere. In lieu of measuring a facility's potential to emit perc or determining a facility's potential to emit perc, a dry cleaning facility is a major source if: (1) it includes only dry-to-dry machine(s) and has a total yearly perc consumption greater than 8,000 liters (2,100 gallons) as determined according to § 12-12, subdivision (b); or, (2) it includes only transfer machine system(s) or both dry-to-dry machine(s) and transfer machine system(s) and has a total yearly perc consumption greater than 6,800 liters (1,800 gallons) as determined according to § 12-12, subdivision (b).
+   (44) Major source. A dry cleaning facility that emits or has the potential to emit more than 9.1 megagrams per year (10 tons per year) of perc to the atmosphere. In lieu of measuring a facility's potential to emit perc or determining a facility's potential to emit perc, a dry cleaning facility is a major source if: (1) it includes only dry-to-dry machine(s) and has a total yearly perc consumption greater than 8,000 liters (2,100 gallons) as determined according to 15 RCNY § 12-12, subdivision (b); or, (2) it includes only transfer machine system(s) or both dry-to-dry machine(s) and transfer machine system(s) and has a total yearly perc consumption greater than 6,800 liters (1,800 gallons) as determined according to 15 RCNY § 12-12, subdivision (b).
 
    (44-a) Material safety data sheet. The material safety data sheet as defined in section 24-702 of the Administrative Code of the City of New York.
 
@@ -4569,7 +4558,7 @@ This Rule applies to all new and existing dry cleaning facilities in the City of
 
 (g) The use of immersion heaters to evaporate solvent from the untreated water effluent of solvent water separators is prohibited.
 
-(h) Except as provided in § 12-05 of this Rule, the installation, construction, alteration, modification, or operation of a perc dry cleaning facility without first obtaining an installation or alteration permit or an operating certificate issued by the Department in accordance with the requirements of § 12-15 of this Rule is prohibited.
+(h) Except as provided in 15 RCNY § 12-05, the installation, construction, alteration, modification, or operation of a perc dry cleaning facility without first obtaining an installation or alteration permit or an operating certificate issued by the Department in accordance with the requirements of 15 RCNY § 12-15 is prohibited.
 
 (i) Venting of perc emissions from dry cleaning equipment or emission control devices into the workroom or facility is prohibited.
 
@@ -4581,7 +4570,7 @@ This Rule applies to all new and existing dry cleaning facilities in the City of
 *§ 12-05 Pre-Permitting Requirements for Existing Facilities.* ::
 
 
-Existing facilities with a valid operating certificate(s) issued by the Department must comply with the following requirements in accordance with the timeframes established in this section in advance of applying for and obtaining an operating certificate amendment(s) required under § 12-15. Prior approvals from the Department are not needed for construction of room enclosures, vapor barriers, general exhaust ventilation systems, or changes in vent stack locations. New facilities must comply with all the applicable requirements contained in this section at the time of installation.
+Existing facilities with a valid operating certificate(s) issued by the Department must comply with the following requirements in accordance with the timeframes established in this section in advance of applying for and obtaining an operating certificate amendment(s) required under 15 RCNY § 12-15. Prior approvals from the Department are not needed for construction of room enclosures, vapor barriers, general exhaust ventilation systems, or changes in vent stack locations. New facilities must comply with all the applicable requirements contained in this section at the time of installation.
 
 (a) Room enclosures, vapor barriers, and general exhaust ventilation.
 
@@ -4591,7 +4580,7 @@ Existing facilities with a valid operating certificate(s) issued by the Departme
 
       (ii) Designed and operated to maintain a negative pressure at each opening at all times that the machine is operating.
 
-   (2) Co-located dry cleaning facilities must be equipped with a vapor barrier or room enclosure(s) and general exhaust ventilation that meets the design and performance requirements established in § 12-06, subdivision (a), of this Rule by the following dates:
+   (2) Co-located dry cleaning facilities must be equipped with a vapor barrier or room enclosure(s) and general exhaust ventilation that meets the design and performance requirements established in 15 RCNY § 12-06, subdivision (a), by the following dates:
 
       (i) transfer machines – immediately upon the effective date of this Rule.
 
@@ -4603,21 +4592,21 @@ Existing facilities with a valid operating certificate(s) issued by the Departme
 
    (3) The facility owner shall notify the Department by mail no later than 30 days after the installation of the required vapor barrier and general exhaust ventilation system and certify that it meets all regulatory requirements. Such notification shall be sent by certified mail to the Department.
 
-(b) Relocation of emission points. The relocation of process ventilation emission point(s) to the outdoor atmosphere must comply with the retrofitting requirements and be completed by the deadlines established under § 12-06(b)(3) and (b)(6).
+(b) Relocation of emission points. The relocation of process ventilation emission point(s) to the outdoor atmosphere must comply with the retrofitting requirements and be completed by the deadlines established under 15 RCNY § 12-06(b)(3) and (b)(6).
 
-(c) Public information notice. The facility owner must post a copy of the notice required under § 12-18 of this Rule immediately.
+(c) Public information notice. The facility owner must post a copy of the notice required under 15 RCNY § 12-18 immediately.
 
-(d) Leak inspection. The facility owner must initiate the leak inspection requirements established in § 12-07 of this Rule immediately upon the effective date of this Rule.
+(d) Leak inspection. The facility owner must initiate the leak inspection requirements established in 15 RCNY § 12-07 immediately upon the effective date of this Rule.
 
-(e) Operation and maintenance. The facility owner must initiate all operation and maintenance requirements which apply to dry cleaning machines and existing emission control systems established in § 12-08 of this Rule immediately upon the effective date of this Rule. However, all requirements established under § 12-08 that are already in effect pursuant to the National Perchloroethylene Air Emission Standards for Dry Cleaning Facilities in Title 40, Part 63, Subpart M of the Code of Federal Regulations continue to be in effect.
+(e) Operation and maintenance. The facility owner must initiate all operation and maintenance requirements which apply to dry cleaning machines and existing emission control systems established in 15 RCNY § 12-08 immediately upon the effective date of this Rule. However, all requirements established under 15 RCNY § 12-08 that are already in effect pursuant to the National Perchloroethylene Air Emission Standards for Dry Cleaning Facilities in Title 40, Part 63, Subpart M of the Code of Federal Regulations continue to be in effect.
 
-(f) Compliance inspections. The compliance inspection requirements under § 12-16 of this Rule are effective immediately upon the effective date of this Rule. Facility owners must initiate the first compliance inspection at their facility immediately upon the effective date of this Rule.
+(f) Compliance inspections. The compliance inspection requirements under 15 RCNY § 12-16 are effective immediately upon the effective date of this Rule. Facility owners must initiate the first compliance inspection at their facility immediately upon the effective date of this Rule.
 
-(g) Recordkeeping. The facility owner must initiate all applicable recordkeeping required under § 12-12 of this Rule immediately upon the effective date of this Rule. Such recordkeeping must cover all requirements established under § 12-12 for dry cleaning systems and facilities in general and must also comply with requirements for specific dry cleaning machine types and emission control systems. However, all requirements established under § 12-12 that are already in effect pursuant to the National Perchloroethylene Air Emission Standards for Dry Cleaning Facilities in Title 40, Part 63, Subpart M of the Code of Federal Regulations, continue to be in effect.
+(g) Recordkeeping. The facility owner must initiate all applicable recordkeeping required under 15 RCNY § 12-12 immediately upon the effective date of this Rule. Such recordkeeping must cover all requirements established under 15 RCNY § 12-12 for dry cleaning systems and facilities in general and must also comply with requirements for specific dry cleaning machine types and emission control systems. However, all requirements established under 15 RCNY § 12-12 that are already in effect pursuant to the National Perchloroethylene Air Emission Standards for Dry Cleaning Facilities in Title 40, Part 63, Subpart M of the Code of Federal Regulations, continue to be in effect.
 
-(h) Perc-contaminated wastewater management. Facilities must comply with the perc-contaminated wastewater management requirements under § 12-09 of this Rule and under chapter 19 of Title 15 of the Rules of the City of New York governing the use of the public sewer system by no later than May 15, 1998.
+(h) Perc-contaminated wastewater management. Facilities must comply with the perc-contaminated wastewater management requirements under 15 RCNY § 12-09 and under 15 RCNY Chapter 19 governing the use of the public sewer system by no later than May 15, 1998.
 
-(i) Hazardous waste management and emergency response. The hazardous waste management requirements under § 12-10 of this Rule and the emergency response requirements under § 12-11 of this Rule are effective immediately upon the effective date of this Rule.
+(i) Hazardous waste management and emergency response. The hazardous waste management requirements under 15 RCNY § 12-10 and the emergency response requirements under 15 RCNY § 12-11 are effective immediately upon the effective date of this Rule.
 
 
 
@@ -4661,7 +4650,7 @@ Existing facilities with a valid operating certificate(s) issued by the Departme
 
       (iv) The refrigerated condenser must be operated with a diverter valve.
 
-      (v) Equivalent closed-loop vapor recovery systems or other control device must use a technology that has been demonstrated, pursuant to the requirements of § 12-17 of this Rule, to achieve at least 90 percent by weight emission reduction based upon the amount of perc entering and leaving the control device.
+      (v) Equivalent closed-loop vapor recovery systems or other control device must use a technology that has been demonstrated, pursuant to the requirements of 15 RCNY § 12-17, to achieve at least 90 percent by weight emission reduction based upon the amount of perc entering and leaving the control device.
 
    (6) A secondary control system must:
 
@@ -4883,7 +4872,7 @@ Existing facilities with a valid operating certificate(s) issued by the Departme
 
    (2) all equipment referenced in paragraph (a)(1) of this section must be properly calibrated.
 
-(b) The following components of the dry cleaning system must be inspected weekly for perceptible liquid and vapor leaks and for proper operation as required by § 12-08* of this Rule (operation and maintenance requirements) while the dry cleaning system is operating:
+(b) The following components of the dry cleaning system must be inspected weekly for perceptible liquid and vapor leaks and for proper operation as required by 15 RCNY § 12-08 (operation and maintenance requirements) while the dry cleaning system is operating:
 
    (1) hose and pipe connections, fittings, couplings and valves;
 
@@ -4911,7 +4900,7 @@ Existing facilities with a valid operating certificate(s) issued by the Departme
 
 (d) The temperature of the vapor stream on the inlet and outlet side of a refrigerated condenser must be measured weekly and recorded on the checklist.
 
-(e) Preparedness and prevention equipment and conditions as required in paragraph (d)(7) of § 12-08 of this Rule must be inspected weekly to ensure proper operation and maintenance. A notation must be made on the checklist at the time of inspection.
+(e) Preparedness and prevention equipment and conditions as required in paragraph (d)(7) of 15 RCNY § 12-08 must be inspected weekly to ensure proper operation and maintenance. A notation must be made on the checklist at the time of inspection.
 
 (f) The inward air velocity for a loading door fan must be checked weekly with a portable velometer or equivalent measurement instrument. A notation of the instrument reading must be made on the checklist.
 
@@ -4959,7 +4948,7 @@ Existing facilities with a valid operating certificate(s) issued by the Departme
 
       (i) Refrigerated condensers must be operated in accordance with manufacturer's specifications.
 
-      (ii) Integral refrigerated condensers must be operated to ensure that exhaust gases are recirculated until the air-vapor stream temperature is 45°F or less at the outlet. The difference between the temperature of the air-perc gas vapor stream entering and exiting the refrigerated condenser must be greater than or equal to 20°F (11.1°C). The temperature differential must be determined at least weekly with a thermometer with a temperature range of from 32°F (0°C) to 120°F (48.9°C) to an accuracy of ±2°F (1.1°C) (see § 12-07 of this Rule).
+      (ii) Integral refrigerated condensers must be operated to ensure that exhaust gases are recirculated until the air-vapor stream temperature is 45°F or less at the outlet. The difference between the temperature of the air-perc gas vapor stream entering and exiting the refrigerated condenser must be greater than or equal to 20°F (11.1°C). The temperature differential must be determined at least weekly with a thermometer with a temperature range of from 32°F (0°C) to 120°F (48.9°C) to an accuracy of ±2°F (1.1°C) (see 15 RCNY § 12-07).
 
       (iii) Vapor adsorbers used with a primary control system or secondary control system must be operated to ensure that exhaust gases are recirculated at the temperature specified for optimum adsorption.
 
@@ -4979,7 +4968,7 @@ Existing facilities with a valid operating certificate(s) issued by the Departme
 
       (i) Refrigerated condensers must be operated in accordance with manufacturer's specifications.
 
-      (ii) Integral and external refrigerated condensers must be operated to ensure that exhaust gases are recirculated until the air-vapor stream temperature is 45°F or less at the outlet. The difference between the temperature of the air-perc gas vapor stream entering and exiting the refrigerated condenser must be greater than or equal to 20°F (11.1°C). The temperature differential must be determined at least weekly with a thermometer with a temperature range of from 32°F (0°C) to 120°F (48.9°C) to an accuracy of ±2°F (1.1°C) (see § 12-07 of this Rule).
+      (ii) Integral and external refrigerated condensers must be operated to ensure that exhaust gases are recirculated until the air-vapor stream temperature is 45°F or less at the outlet. The difference between the temperature of the air-perc gas vapor stream entering and exiting the refrigerated condenser must be greater than or equal to 20°F (11.1°C). The temperature differential must be determined at least weekly with a thermometer with a temperature range of from 32°F (0°C) to 120°F (48.9°C) to an accuracy of ±2°F (1.1°C) (see 15 RCNY § 12-07).
 
       (iii) Vapor adsorbers used when the machine has been retrofitted as a fourth generation machine must be operated to ensure that exhaust gases are recirculated at the temperature specified by the manufacturer for optimum adsorption.
 
@@ -5117,7 +5106,7 @@ Perc-contaminated wastewater generated by all new and existing facilities subjec
 *§ 12-10 Hazardous Waste Management.* ::
 
 
-(a)  Any perc-contaminated wastes generated must be managed in accordance with Parts 370 through 376 of Title 6 of the Codes, Rules, and Regulations of the State of New York. Perc-contaminated wastewater must be handled as provided in § 12-09 of this Rule.
+(a)  Any perc-contaminated wastes generated must be managed in accordance with Parts 370 through 376 of Title 6 of the Codes, Rules, and Regulations of the State of New York. Perc-contaminated wastewater must be handled as provided in 15 RCNY § 12-09.
 
 (b) All perc-contaminated wastes (including spent cartridge filters, spent carbon, still bottoms, and lint) must be stored in tightly sealed containers, which are impermeable to the solvent, so that no perc is emitted to the atmosphere.
 
@@ -5143,13 +5132,13 @@ Perc-contaminated wastewater generated by all new and existing facilities subjec
 
       (ii) temporary dikes, berms and containment devices must be placed in areas where spills are most likely to occur and procedures for preventing spill migration must be established and followed.
 
-   (2) For new dry cleaning equipment, a spill containment system must be installed under the equipment as specified in paragraph (a)(7) of § 12-06 of this Rule. This spill tank shall be capable of holding 125% of the capacity of the largest perc tank or vessel that is part of the dry cleaning machine.
+   (2) For new dry cleaning equipment, a spill containment system must be installed under the equipment as specified in paragraph (a)(7) of 15 RCNY § 12-06. This spill tank shall be capable of holding 125% of the capacity of the largest perc tank or vessel that is part of the dry cleaning machine.
 
 (b) In the event of a perc release, the owner, operator or a designee must take all reasonable measures to ensure the release is contained. These measures must include, where applicable, stopping processes and operations, increasing room exhaust ventilation, collecting and containing released perc and removing and maintaining containers.
 
 (c) If the facility owner and/or operator knows or has reason to know of any release of one (1) pound or more of perc (1 pound of perc is equivalent to 0.0740 gallons of perc), a fire, or an explosion, then the facility owner and/or operator shall report the perc release, fire, or explosion to the Department immediately and shall also comply with all other reporting requirements of chapter 11 of Title 15 of the Rules of the City of New York governing Hazardous Substances Emergency Response.
 
-(d) Any emergency response action must be recorded as specified in § 12-12 of this Rule. This record must include, at a minimum:
+(d) Any emergency response action must be recorded as specified in 15 RCNY § 12-12. This record must include, at a minimum:
 
    (1) The date, duration and nature of any malfunction, spill or incident of the dry cleaning system;
 
@@ -5167,7 +5156,7 @@ Perc-contaminated wastewater generated by all new and existing facilities subjec
 
 (a)  Operators of all dry cleaning facilities or their designees must record the following:
 
-   (1) The date, duration and nature of any malfunction, spill, incident, or emergency response at the facility as outlined in paragraph (d) of § 12-11 of this Rule;
+   (1) The date, duration and nature of any malfunction, spill, incident, or emergency response at the facility as outlined in paragraph (d) of 15 RCNY § 12-11;
 
    (2) The date of maintenance on any air cleaning component or exhaust system (such as the regeneration and/or replacement of the carbon in a carbon adsorber);
 
@@ -5193,23 +5182,23 @@ Perc-contaminated wastewater generated by all new and existing facilities subjec
 
       (iii) The total sum calculated is the yearly perc consumption at the facility.
 
-(c) Each owner or operator of a dry cleaning facility must record the following information on an inspection checklist as described in § 12-07 of this Rule.
+(c) Each owner or operator of a dry cleaning facility must record the following information on an inspection checklist as described in 15 RCNY § 12-07.
 
    (1) The dates when the dry cleaning system components are inspected for perceptible leaks as specified under the inspection and testing requirements, and the name or location of dry cleaning system components where perceptible leaks are detected;
 
-   (2) The date, time and colorimetric detector tube monitoring results as specified in § 12-07 of this Rule, if a carbon adsorber is used for primary or secondary emission control;
+   (2) The date, time and colorimetric detector tube monitoring results as specified in 15 RCNY § 12-07, if a carbon adsorber is used for primary or secondary emission control;
 
-   (3) The date, time and temperature sensor monitoring results for refrigerated condensers, as specified in § 12-07 of this Rule; and,
+   (3) The date, time and temperature sensor monitoring results for refrigerated condensers, as specified in 15 RCNY § 12-07; and,
 
-   (4) The dates of repair and records of written or verbal orders for repair parts to demonstrate compliance with the inspection and testing requirements in § 12-07 of this Rule.
+   (4) The dates of repair and records of written or verbal orders for repair parts to demonstrate compliance with the inspection and testing requirements in 15 RCNY § 12-07.
 
-(d) Each owner or operator of a dry cleaning facility must retain on-site copies of the operation and maintenance checklists required under § 12-08 of this Rule and compliance inspection reporting forms required under § 12-16 of this Rule.
+(d) Each owner or operator of a dry cleaning facility must retain on-site copies of the operation and maintenance checklists required under 15 RCNY § 12-08 and compliance inspection reporting forms required under 15 RCNY § 12-16.
 
 (e) Each owner or operator of a dry cleaning facility must retain on-site a copy of the design specifications and the operating manuals for each dry cleaning system and each emission control device located at the dry cleaning facility.
 
 (f) All records must be maintained on-site for at least five years and must be made available to the Department upon written or verbal request.
 
-(g) In addition to the permitting requirements of § 12-15 of this Rule, new facilities, or facilities installing new equipment, must submit to the Department a copy of the compliance report submitted to the New York State Department of Environmental Conservation within 30 days of commencing operation to certify compliance with the federal National Emission Standard for Hazardous Air Pollutants requirements. This statement must include:
+(g) In addition to the permitting requirements of 15 RCNY § 12-15, new facilities, or facilities installing new equipment, must submit to the Department a copy of the compliance report submitted to the New York State Department of Environmental Conservation within 30 days of commencing operation to certify compliance with the federal National Emission Standard for Hazardous Air Pollutants requirements. This statement must include:
 
    (1) The name and address of the owner or operator;
 
@@ -5223,7 +5212,7 @@ Perc-contaminated wastewater generated by all new and existing facilities subjec
 
    (6) A statement certifying that all information contained in the statement is accurate and true.
 
-(h) In addition to the permitting requirements of § 12-15 of this Rule, facilities exceeding the consumption thresholds identified in Title 40 of the Code of Federal Regulations subchapter 63.620(d), (e), or (g) must submit to the Department a copy of the compliance report submitted to the New York State Department of Environmental Conservation within 30 days of the compliance deadline of 180 days certifying compliance with any additional federal requirements. This statement must include:
+(h) In addition to the permitting requirements of 15 RCNY § 12-15, facilities exceeding the consumption thresholds identified in Title 40 of the Code of Federal Regulations subchapter 63.620(d), (e), or (g) must submit to the Department a copy of the compliance report submitted to the New York State Department of Environmental Conservation within 30 days of the compliance deadline of 180 days certifying compliance with any additional federal requirements. This statement must include:
 
    (1) The name and address of the owner or operator;
 
@@ -5247,7 +5236,7 @@ Perc-contaminated wastewater generated by all new and existing facilities subjec
 
 (a)  Prohibitions and requirements. The provisions of this section will be effective 60 days after the date that the first qualifying testing program is approved by the New York State Department of Environmental Conservation or its agent.
 
-   (1) Only the following kinds of dry cleaning equipment are permitted to be installed in perc dry cleaning facilities subject to this Rule: new closed-loop dry cleaning machines; converted dry cleaning machines; door fan systems; or, add-on secondary control systems which meet the design and performance standards in § 12-06 of this Rule and testing requirements of this section. Unless otherwise specified in this Rule, the dry cleaning equipment as manufactured and installed must comply in all respects with the unit upon which certification by the New York State Department of Environmental Conservation or its agent was based.
+   (1) Only the following kinds of dry cleaning equipment are permitted to be installed in perc dry cleaning facilities subject to this Rule: new closed-loop dry cleaning machines; converted dry cleaning machines; door fan systems; or, add-on secondary control systems which meet the design and performance standards in 15 RCNY § 12-06 and testing requirements of this section. Unless otherwise specified in this Rule, the dry cleaning equipment as manufactured and installed must comply in all respects with the unit upon which certification by the New York State Department of Environmental Conservation or its agent was based.
 
    (2) Any manufacturer or vendor of any new closed-loop dry cleaning equipment that is to be installed in and used by a dry cleaning facility in New York City must apply for and receive certification from the New York State Department of Environmental Conservation or its agent that the equipment to be installed and operated complies in all respects with the performance standards and the testing requirements of Part 232 of Title 6 of the Codes, Rules, and Regulations of the State of New York. Such certification must include the operating parameters under which the equipment was tested to receive certification.
 
@@ -5317,9 +5306,9 @@ Perc-contaminated wastewater generated by all new and existing facilities subjec
 *§ 12-15 Permits and Certificates.* ::
 
 
-(a)  Alterations or Modifications to Existing Certificated Dry Cleaning Facilities Required by § 12-05 of this Rule. Any person who owns or operates an existing perc dry cleaning facility which has a valid operating certificate and who is required to perform alterations or modifications in order to comply with the requirements of § 12-05 of this Rule shall submit to the Department by means of certified mail a copy of the same notice submitted to the New York State Department of Environmental Conservation in accordance with the requirements of § 232.5(a)(3) of Title 6 of the Official Compilation of Codes, Rules, and Regulations of the State of New York.
+(a)  Alterations or Modifications to Existing Certificated Dry Cleaning Facilities Required by 15 RCNY § 12-05. Any person who owns or operates an existing perc dry cleaning facility which has a valid operating certificate and who is required to perform alterations or modifications in order to comply with the requirements of 15 RCNY § 12-05 shall submit to the Department by means of certified mail a copy of the same notice submitted to the New York State Department of Environmental Conservation in accordance with the requirements of § 232.5(a)(3) of Title 6 of the Official Compilation of Codes, Rules, and Regulations of the State of New York.
 
-(b) New Installations that are Not Major Sources of Perc and Alterations or Modifications to Existing Certificated Dry Cleaning Facilities. No person may install or construct a new perc dry cleaning facility or undertake alterations or modifications to an existing certificated perc dry cleaning facility, except for alterations or modifications required by § 12-05 of this Rule, without first submitting an application on a form to be supplied by the Department and obtaining an installation or alteration permit. All installation and alteration permit applications shall reference any process application number(s) previously assigned to the facility by the Department and shall also include a copy of the facility's New York State Department of Environmental Conservation air permit or registration. Except as provided for by subdivision (c) of this section, the Department shall issue an installation or alteration permit or an operating certificate to any new or existing perc dry cleaning facility that the Department determines is in full compliance with all the provisions, requirements, and standards of this Rule.
+(b) New Installations that are Not Major Sources of Perc and Alterations or Modifications to Existing Certificated Dry Cleaning Facilities. No person may install or construct a new perc dry cleaning facility or undertake alterations or modifications to an existing certificated perc dry cleaning facility, except for alterations or modifications required by 15 RCNY § 12-05, without first submitting an application on a form to be supplied by the Department and obtaining an installation or alteration permit. All installation and alteration permit applications shall reference any process application number(s) previously assigned to the facility by the Department and shall also include a copy of the facility's New York State Department of Environmental Conservation air permit or registration. Except as provided for by subdivision (c) of this section, the Department shall issue an installation or alteration permit or an operating certificate to any new or existing perc dry cleaning facility that the Department determines is in full compliance with all the provisions, requirements, and standards of this Rule.
 
 (c) New Installations that are Major Sources of Perc. The Department may grant an installation permit to a new dry cleaning facility that will be a major source of perc only after the Department has determined that the proposed dry cleaning facility is in full compliance with the provisions, requirements, and standards of this Rule and that the proposed dry cleaning facility will not cause detriment to the health, safety, welfare or comfort of any person. The Department may impose such additional permit and/or certificate terms and conditions as it determines may be necessary to protect the health, safety, welfare, or comfort of any person. In addition to the requirements of this section, any new perc dry cleaning facility which is a major source of perc must comply with all requirements under federal and state law including, but not limited to, the National Emission Standard for Hazardous Air Pollutants for Perchloroethylene Dry Cleaning Facilities and shall also obtain a Title V permit as required by the Federal Clean Air Act.
 
@@ -5349,7 +5338,7 @@ Perc-contaminated wastewater generated by all new and existing facilities subjec
 
       (iii) a certified industrial hygienist.
 
-   (2) Must possess a Dry Cleaner Owner/Manager certification in accordance with § 12-14 of this Rule and complete other appropriate training as specified by the New York State Department of Environmental Conservation on topics related to inspections.
+   (2) Must possess a Dry Cleaner Owner/Manager certification in accordance with 15 RCNY § 12-14 and complete other appropriate training as specified by the New York State Department of Environmental Conservation on topics related to inspections.
 
    (3) Must not be engaged in the sales or marketing of dry cleaning equipment. Must not be engaged in providing services to the dry cleaning industry. Employees of trade associations may not conduct inspections, but trade associations may solicit bids for performing inspections on behalf of their members.
 
@@ -5357,7 +5346,7 @@ Perc-contaminated wastewater generated by all new and existing facilities subjec
 
 (e) Analysis of air samples collected by passive sampling devices or the equivalent must be conducted by a laboratory certified by the Environmental Laboratory Approval Program (ELAP) of the New York State Department of Health.
 
-(f) The inspection will verify that the NOTICE required by § 12-18 of this Rule is posted in a conspicuous location in the facility.
+(f) The inspection will verify that the NOTICE required by 15 RCNY § 12-18 is posted in a conspicuous location in the facility.
 
 (g) After the inspection is completed, the registered inspector must provide a completed inspection reporting form to the Department and to the facility owner within 45 days of the inspection.
 
@@ -5367,7 +5356,7 @@ Perc-contaminated wastewater generated by all new and existing facilities subjec
 
    (1) Make available upon request the most recent completed inspection reporting form to interested individuals for review on premises during normal business hours.
 
-   (2) If the inspection reveals a leak or malfunction, the facility must be repaired within the timeframes established in § 12-07 of this Rule and reinspected within one month.
+   (2) If the inspection reveals a leak or malfunction, the facility must be repaired within the timeframes established in 15 RCNY § 12-07 and reinspected within one month.
 
 
 
@@ -5377,7 +5366,7 @@ Perc-contaminated wastewater generated by all new and existing facilities subjec
 *§ 12-17 Equivalency.* ::
 
 
-Any person requesting that use of alternative equipment or procedures be considered as equivalent to the requirements under § 12-06* of this Rule shall make an application to the New York State Department of Environmental Conservation in accordance with the requirements of § 232.17 of Title 6 of the Codes, Rules, and Regulations of the State of New York and shall submit a copy of the New York State Department of Environmental Conservation's equivalency determination to the Department.
+Any person requesting that use of alternative equipment or procedures be considered as equivalent to the requirements under 15 RCNY § 12-06 shall make an application to the New York State Department of Environmental Conservation in accordance with the requirements of § 232.17 of Title 6 of the Codes, Rules, and Regulations of the State of New York and shall submit a copy of the New York State Department of Environmental Conservation's equivalency determination to the Department.
 
 
 
@@ -5822,7 +5811,7 @@ Chapter 15: Rules Concerning the Use of Ultra Low Sulfur Diesel Fuel and Emissio
 *§ 15-01 Definitions.* ::
 
 
-Best available retrofit technology. "Best available retrofit technology" shall mean a technology, verified by the United States environmental protection agency or the California air resources board, for reducing the emission of pollutants that achieves reductions in particulate matter emissions at the highest classification level for diesel emission control strategies, as set forth in § 15-04 of subchapter B of this chapter, that is applicable to the particular engine and application. Such technology shall also, at a reasonable cost, achieve the greatest reduction in emissions of nitrogen oxides at such particulate matter reduction level and shall in no event result in a net increase in the emissions of either particulate matter or nitrogen oxides.
+Best available retrofit technology. "Best available retrofit technology" shall mean a technology, verified by the United States environmental protection agency or the California air resources board, for reducing the emission of pollutants that achieves reductions in particulate matter emissions at the highest classification level for diesel emission control strategies, as set forth in 15 RCNY § 15-04, that is applicable to the particular engine and application. Such technology shall also, at a reasonable cost, achieve the greatest reduction in emissions of nitrogen oxides at such particulate matter reduction level and shall in no event result in a net increase in the emissions of either particulate matter or nitrogen oxides.
 
 CARB. “CARB” shall mean the California Air Resources Board.
 
@@ -5842,7 +5831,7 @@ Motor vehicle. "Motor vehicle" shall mean a vehicle operated or driven upon a pu
 
 Person. "Person" shall mean any natural person, co-partnership, firm, company, association, joint stock association, corporation or other like organization.
 
-Reasonable cost. "Reasonable cost" shall mean that such technology does not cost greater than thirty percent more than other technology applicable to the particular engine and application that falls within the same classification level for diesel emission control strategies, as set forth in § 15-04 of subchapter B of this chapter, when considering the cost of the strategies, themselves, and the cost of installation.
+Reasonable cost. "Reasonable cost" shall mean that such technology does not cost greater than thirty percent more than other technology applicable to the particular engine and application that falls within the same classification level for diesel emission control strategies, as set forth in 15 RCNY § 15-04, when considering the cost of the strategies, themselves, and the cost of installation.
 
 Ultra low sulfur diesel fuel. "Ultra low sulfur diesel fuel" shall mean diesel fuel that has a sulfur content of no more than fifteen parts per million.
 
@@ -5958,11 +5947,11 @@ The following rules shall apply to all recreational use of the New York City lan
 
 All terms shall have the same meaning as in the New York State Environmental Conservation Law ("ECL") unless defined differently as follows:
 
-(a) Access Permit. "Access Permit" means an instrument of registration and permission to access certain City Property for recreational use as further described in § 16-03 herein.
+(a) Access Permit. "Access Permit" means an instrument of registration and permission to access certain City Property for recreational use as further described in 15 RCNY § 16-03.
 
 (b) Boat Storage Area. "Boat Storage Area" means a location on land designated by NYCDEP for boats to be stored when not on the water.
 
-(c) Boat Tag. "Boat Tag" means an instrument of permission issued for the purpose of allowing Access Permit holders to store a boat for use when Fishing on City Property, as further described in § 16-05 herein.
+(c) Boat Tag. "Boat Tag" means an instrument of permission issued for the purpose of allowing Access Permit holders to store a boat for use when Fishing on City Property, as further described in 15 RCNY § 16-05.
 
 (d) City. "City" means the City of New York.
 
@@ -5974,7 +5963,7 @@ All terms shall have the same meaning as in the New York State Environmental Con
 
 (h) Fishing Area. "Fishing Area" means a location designated by NYCDEP as available for Fishing to holders of valid Access Permits.
 
-(i) Group Access Permit. "Group Access Permit" means an instrument of registration and permission for groups to temporarily access certain City Property for recreational use without each member having to obtain an individual Access Permit, as further described in § 16-12 herein.
+(i) Group Access Permit. "Group Access Permit" means an instrument of registration and permission for groups to temporarily access certain City Property for recreational use without each member having to obtain an individual Access Permit, as further described in 15 RCNY § 16-12.
 
 (j) Group. "Group" means any congregation of individuals in excess of six (6) people and shall not consist of more than thirty (30) individuals.
 
@@ -5984,7 +5973,7 @@ All terms shall have the same meaning as in the New York State Environmental Con
 
 (m) Guest. "Guest" means a person accompanying a valid Access Permit holder aged 18 or older onto City Property.
 
-(n) Guest Pass. "Guest Pass" means an instrument of registration and permission for Guests of valid Access Permit holders to temporarily access certain City Property for recreational use as further described in § 16-10 herein.
+(n) Guest Pass. "Guest Pass" means an instrument of registration and permission for Guests of valid Access Permit holders to temporarily access certain City Property for recreational use as further described in 15 RCNY § 16-10.
 
 (o) Hiking. "Hiking" means foot travel including hiking, walking, running, cross-country skiing, snowshoeing, bird watching, nature observation and photography.
 
@@ -6000,11 +5989,11 @@ All terms shall have the same meaning as in the New York State Environmental Con
 
 (u) Public Map. "Public Map" means a map produced by NYCDEP to convey information to Access Permit holders and the public.
 
-(v) Recreational Boat Tag. "Recreational Boat Tag" means an instrument of permission issued for the purpose of allowing Access Permit holders to use and store boats for use when boating on Recreational Boating Areas, as further described in § 16-07 herein.
+(v) Recreational Boat Tag. "Recreational Boat Tag" means an instrument of permission issued for the purpose of allowing Access Permit holders to use and store boats for use when boating on Recreational Boating Areas, as further described in 15 RCNY § 16-07.
 
 (w) Recreational Boating Area. "Recreational Boating Area" means a location designated by NYCDEP that is available for boating that does not require boat occupants to be plausibly engaged in the activity of Fishing.
 
-(x) Vehicle Tag. "Vehicle Tag" means an instrument of permission issued in support of an Access Permit for the purpose of allowing visitors to park a vehicle on City Property while accessing City Property for recreational use, as further described in § 16-11 herein.
+(x) Vehicle Tag. "Vehicle Tag" means an instrument of permission issued in support of an Access Permit for the purpose of allowing visitors to park a vehicle on City Property while accessing City Property for recreational use, as further described in 15 RCNY § 16-11.
 
 (y) Water Supply. "Water Supply" means the New York City public water supply system, and includes all watercourses, wetlands, reservoirs, reservoir stems and controlled lakes tributary thereto.
 
@@ -6122,7 +6111,7 @@ All persons 16 years of age and older must complete an application for and recei
 
 Due to the threat of Water Supply contamination by organisms such as zebra mussel larvae that may be introduced to City waters by boats previously used in contaminated waters, all boats used on City Property shall be registered and steam cleaned by NYCDEP or its designees, when available, as listed on the NYCDEP website, and stored on-site in Boat Storage Areas designated by NYCDEP. All boats on City Property must have a valid Boat Tag affixed thereto.
 
-(a) Application. Boat Tag applications shall be available at the same locations as Access Permit applications as indicated in § 16-03(a) above.
+(a) Application. Boat Tag applications shall be available at the same locations as Access Permit applications as indicated in 15 RCNY § 16-03(a).
 
 (b) Required Information. A Boat Tag application shall require the following information:
 
@@ -6164,7 +6153,7 @@ Due to the threat of Water Supply contamination by organisms such as zebra musse
 
    (9) Upon completion of the boat cleaning and processing appointment, the boat owner shall immediately place the registered boat on the appropriate water body or at the assigned Boat Storage Area without storing or placing the boat in any other location or water body.
 
-(f) Eligible Boats. Boats eligible for Boat Tags shall be aluminum or metal-alloy row boats, except boats on record as having had valid Boat Tags that were issued initially prior to March 31, 2006 may be wooden or fiberglass row boats. Only rowboats that are a minimum of 11'6" in length and 42" in width and are a maximum of 16' in length are permitted on City Property. Other vessels, including but not limited to sailboats, motorized boats, canoes, kayaks, sculls, inflatable boats and collapsible boats are prohibited, except as provided in § 16-07 of these rules.
+(f) Eligible Boats. Boats eligible for Boat Tags shall be aluminum or metal-alloy row boats, except boats on record as having had valid Boat Tags that were issued initially prior to March 31, 2006 may be wooden or fiberglass row boats. Only rowboats that are a minimum of 11'6" in length and 42" in width and are a maximum of 16' in length are permitted on City Property. Other vessels, including but not limited to sailboats, motorized boats, canoes, kayaks, sculls, inflatable boats and collapsible boats are prohibited, except as provided in 15 RCNY § 16-07.
 
 (g) Rejection. Grounds for rejection of a Boat Tag application include the following:
 
@@ -6192,7 +6181,7 @@ Due to the threat of Water Supply contamination by organisms such as zebra musse
 
    (1) The current boat owner shall put the following information in writing to NYCDEP: the current boat owner's Access Permit number and name; the reservoir or lake and specific Boat Storage Area where the boat is currently stored; the boat number issued by NYCDEP; the name of the person to whom ownership is being transferred; the valid Access Permit number of the person to whom ownership is being transferred; the signature of the current boat owner and the date of signature.
 
-   (2) The new owner shall complete a Boat Tag application for the boat, in accordance with § 16-05.
+   (2) The new owner shall complete a Boat Tag application for the boat, in accordance with 15 RCNY § 16-05.
 
    (3) The current owner shall mail the transfer information together with the Boat Tag application completed by the new owner to NYCDEP at the address indicated on the application.
 
@@ -6242,7 +6231,7 @@ Due to the threat of Water Supply contamination by organisms such as zebra musse
 
 People with valid Access Permits and valid New York State fishing licenses, where applicable, may Fish on City Property from boats with valid Boat Tags in accordance with the following rules.
 
-(a) Relationship to Fishing and Fishing Area Rules. All Fishing and Fishing Area rules set forth in § 16-04 of these rules shall apply to all Fishing by boat.
+(a) Relationship to Fishing and Fishing Area Rules. All Fishing and Fishing Area rules set forth in 15 RCNY § 16-04 shall apply to all Fishing by boat.
 
 (b) Use. Boats with valid Boat Tags shall be used at Fishing Areas only for purposes of Fishing. All boat occupants shall be in possession of valid New York State fishing licenses when required by State law; at least minimum Fishing equipment including a pole, line, and a hook and bait or a lure; and shall be plausibly engaged in the activity of Fishing while using a boat on Fishing Areas.
 
@@ -6266,7 +6255,7 @@ People with valid Access Permits and valid New York State fishing licenses, wher
 *§ 16-07 Recreational Boating Areas.* ::
 
 
-NYCDEP may, in its discretion, designate portions of, or entire City reservoirs and controlled lakes as Recreational Boating Areas that may be entered and used for boating by persons with valid Access Permits. Such Recreational Boating Areas allow, but do not require, boat occupants to be plausibly engaged in the activity of Fishing. For purposes of this section, individuals shall comply with all provisions of this Chapter with the exception of § 16-05 and § 16-06. Recreational Boating Areas and launch sites shall be designated by NYCDEP on sign postings, on the NYCDEP website, on Public Maps, and/or in other publications and notices available from NYCDEP and at local sporting outfitters. In compliance with both the State Environmental Quality Review Act and the City Environmental Quality Review requirements, NYCDEP will undertake environmental reviews for each reservoir it proposes to designate a Recreational Boating Area on prior to making such designation, including a review of any cumulative impact of such designation in the watershed.
+NYCDEP may, in its discretion, designate portions of, or entire City reservoirs and controlled lakes as Recreational Boating Areas that may be entered and used for boating by persons with valid Access Permits. Such Recreational Boating Areas allow, but do not require, boat occupants to be plausibly engaged in the activity of Fishing. For purposes of this section, individuals shall comply with all provisions of this Chapter with the exception of 15 RCNY § 16-05 and 15 RCNY § 16-06. Recreational Boating Areas and launch sites shall be designated by NYCDEP on sign postings, on the NYCDEP website, on Public Maps, and/or in other publications and notices available from NYCDEP and at local sporting outfitters. In compliance with both the State Environmental Quality Review Act and the City Environmental Quality Review requirements, NYCDEP will undertake environmental reviews for each reservoir it proposes to designate a Recreational Boating Area on prior to making such designation, including a review of any cumulative impact of such designation in the watershed.
 
 (a) Season. Access to Recreational Boating Areas begins at sunrise on the Friday immediately preceding Memorial Day weekend, is available seven (7) days a week from sunrise to sunset and ends on Columbus Day at sunset except as otherwise restricted on NYCDEP sign postings, the NYCDEP website, Public Maps, and/or in other publi- cations or notices.
 
@@ -6274,7 +6263,7 @@ NYCDEP may, in its discretion, designate portions of, or entire City reservoirs 
 
    (1) Eligibility. Boats eligible for Recreational Boat Tags include canoes, sculls, small sailboats with removable center/dagger boards and jonboats that measure no less than eleven feet five inches (11 5) in length and kayaks that measure no less than nine feet (9) in length. Inflatable boats, collapsible boats and motorized boats are prohibited. NYCDEP may, at its discretion, add to or delete from the list of boats eligible for Recreational Boat Tags. Changes to the list shall be designated by NYCDEP on sign postings, on the NYCDEP website, on Public Maps, and/or in other publications and notices available from NYCDEP and at local sporting outfitters.
 
-   (2) Term. At the option of the applicant, Recreational Boat Tags shall be valid for one of the following terms: (i) one through seven days ("temporary"); or (ii) from sunrise on the Friday immediately preceding Memorial Day weekend through sunset on Columbus Day ("season") unless revoked or suspended pursuant to § 16-19(e). Recreational Boat Tags shall only remain valid so long as the boat owner's Access Permit is valid. If an Access Permit holder's Access Permit and/or Recreational Boat Tag is suspended or revoked, he or she must remove the boat within 24 hours of the suspension date in the company of a NYCDEP representative.
+   (2) Term. At the option of the applicant, Recreational Boat Tags shall be valid for one of the following terms: (i) one through seven days ("temporary"); or (ii) from sunrise on the Friday immediately preceding Memorial Day weekend through sunset on Columbus Day ("season") unless revoked or suspended pursuant to 15 RCNY § 16-19(e). Recreational Boat Tags shall only remain valid so long as the boat owner's Access Permit is valid. If an Access Permit holder's Access Permit and/or Recreational Boat Tag is suspended or revoked, he or she must remove the boat within 24 hours of the suspension date in the company of a NYCDEP representative.
 
    (3) Application. Recreational Boat Tag applications shall be available at the same locations as Access Permit applications, including instantly on the NYCDEP website, and may also be available at local hotels, motels, B&amp;Bs, sporting outfitters and other merchants designated by NYCDEP for processing boats for use in Recreational Boating Areas.
 
@@ -6400,7 +6389,7 @@ NYCDEP may, in its discretion, designate portions of, or entire City reservoirs 
 
 Guest Passes are for temporary access for the recreational use of certain City Property. A valid Access Permit holder aged 18 or older may host up to two (2) Guests on City Property who would otherwise require a valid Access Permit, provided that the Guests are each in possession of a valid Guest Pass. Guests may participate in Watershed recreational opportunities, other than hunting, while accompanied by a person who has a valid Access Permit. Sponsoring Access Permit holders are responsible for the conduct and safety of their Guests and are liable for any violations of these rules by a Guest.
 
-(a) Application. The Guest Pass is a fully completed Access Permit application signed by the Guest, or signed by the Guest's parent or legal guardian if the Guest is under 18, and carried by the Guest, which shall be available as indicated in § 16-03(a) above. No application fee is required.
+(a) Application. The Guest Pass is a fully completed Access Permit application signed by the Guest, or signed by the Guest's parent or legal guardian if the Guest is under 18, and carried by the Guest, which shall be available as indicated in 15 RCNY § 16-03(a). No application fee is required.
 
 (b) Required Information. A valid Guest Pass shall consist of an Access Permit application completed and signed by the Guest in permanent ink and containing the following required information:
 
@@ -6466,7 +6455,7 @@ Group Access Permits of limited duration are available for Groups of between sev
 
 (a) Term. Group Access Permits may be issued for a term of one day to three consecutive months.
 
-(b) Application. Applicants for a Group Access Permit must fully complete a Group Access Permit application and submit it to the address on the application. Group Access Permit applications and waivers shall be available at the same locations as indicated in § 16-03(a) above. No application fee is required.
+(b) Application. Applicants for a Group Access Permit must fully complete a Group Access Permit application and submit it to the address on the application. Group Access Permit applications and waivers shall be available at the same locations as indicated in 15 RCNY § 16-03(a). No application fee is required.
 
 (c) Required Information. The following information shall be required on or with the Group Access Permit application:
 
@@ -6528,7 +6517,7 @@ Group Access Permits of limited duration are available for Groups of between sev
 *§ 16-13 Public Access Areas.* ::
 
 
-NYCDEP may, in its discretion, designate portions of City Property as Public Access Areas that may be entered and used by the public for recreational uses as allowed by New York State law without the requirement of having a valid NYCDEP Access Permit or Vehicle Tag. Public Access Areas are not subject to these rules except for those set forth in this section and in sections 16-01 (Scope and Purpose), 16-02 (Definitions), 16-15 (Restricted Areas), 16-16 (General Rules), 16-17 (Prohibitions), 16-18 (Regulated Activities), 16-19 (Permit Suspension and Revocation), 16-20 (Conformance with State and Local Laws), and 16-21 (Unenforceability). Public Access Areas shall be designated by NYCDEP on sign postings and, when applicable, on the NYCDEP website, on Public Maps, and/or in other publications and notices.
+NYCDEP may, in its discretion, designate portions of City Property as Public Access Areas that may be entered and used by the public for recreational uses as allowed by New York State law without the requirement of having a valid NYCDEP Access Permit or Vehicle Tag. Public Access Areas are not subject to these rules except for those set forth in this section and in 15 RCNY §§ 16-01 (Scope and Purpose), 16-02 (Definitions), 16-15 (Restricted Areas), 16-16 (General Rules), 16-17 (Prohibitions), 16-18 (Regulated Activities), 16-19 (Permit Suspension and Revocation), 16-20 (Conformance with State and Local Laws), and 16-21 (Unenforceability). Public Access Areas shall be designated by NYCDEP on sign postings and, when applicable, on the NYCDEP website, on Public Maps, and/or in other publications and notices.
 
 (a) Fishing. Fishing is allowed in Public Access Areas, subject to the following:
 
@@ -6556,7 +6545,7 @@ NYCDEP may, in its discretion, designate portions of City Property as Public Acc
 *§ 16-14 Designated Use Areas.* ::
 
 
-NYCDEP may, in its discretion, designate portions of City Property as Designated Use Areas that may be entered and used by the public for specified recreational uses without the requirement of having a valid NYCDEP Access Permit or Vehicle Tag. Where Fishing is allowed in Designated Use Areas, it is subject to the rules for Fishing specified above in § 16-04, except for the requirement for an Access Permit set forth in § 16-04(a). Where Hiking is allowed in Designated Use Areas, it is subject to the rules for Hiking specified above in § 16-09, except for the requirement for an Access Permit set forth in § 16-09(a). Designated Use Areas are not otherwise subject to these rules except for those set forth in this section and in sections 16-01 (Scope and Purpose), 16-02 (Definitions), 16-15 (Restricted Areas), 16-16 (General Rules), 16-17 (Prohibitions), 16-18 (Regulated Activities), 16-19 (Permit Suspension and Revocation), 16-20 (Conformance with State and Local Laws), and 16-21 (Unenforceability).
+NYCDEP may, in its discretion, designate portions of City Property as Designated Use Areas that may be entered and used by the public for specified recreational uses without the requirement of having a valid NYCDEP Access Permit or Vehicle Tag. Where Fishing is allowed in Designated Use Areas, it is subject to the rules for Fishing specified above in 15 RCNY § 16-04, except for the requirement for an Access Permit set forth in 15 RCNY § 16-04(a). Where Hiking is allowed in Designated Use Areas, it is subject to the rules for Hiking specified above in 15 RCNY § 16-09, except for the requirement for an Access Permit set forth in 15 RCNY § 16-09(a). Designated Use Areas are not otherwise subject to these rules except for those set forth in this section and in 15 RCNY §§ 16-01 (Scope and Purpose), 16-02 (Definitions), 16-15 (Restricted Areas), 16-16 (General Rules), 16-17 (Prohibitions), 16-18 (Regulated Activities), 16-19 (Permit Suspension and Revocation), 16-20 (Conformance with State and Local Laws), and 16-21 (Unenforceability).
 
 (a) Locations. Designated Use Areas are posted with signs and, when applicable, otherwise designated as such by NYCDEP on Public Maps, the NYCDEP website, and/or in other NYCDEP publications.
 
@@ -6652,7 +6641,7 @@ The activities and uses enumerated in this section shall be regulated on all Cit
 
 (d) Posting of Notices, Signs and Marking of Trails. The posting of signs, notices or the marking of trails without express written permission from NYCDEP is prohibited. Temporary markings for purposes of tracking game may be used, but must be removed within forty-eight (48) hours of placement.
 
-(e) Tents and Other Structures. Tents and other temporary or permanent structures, except for temporary tree stands, temporary hunting blinds, and temporary ice fishing windbreaks, are not allowed on City Property and are subject to removal at the owner's expense and risk. Temporary tree stands may be used on Hunting Areas in accordance with § 16-08(h) and in Public Access Areas.
+(e) Tents and Other Structures. Tents and other temporary or permanent structures, except for temporary tree stands, temporary hunting blinds, and temporary ice fishing windbreaks, are not allowed on City Property and are subject to removal at the owner's expense and risk. Temporary tree stands may be used on Hunting Areas in accordance with 15 RCNY § 16-08(h) and in Public Access Areas.
 
 (f) Motor Vehicle Access. Trucks, automobiles, all-terrain vehicles, motorcycles, snowmobiles and all other motorized vehicles, including aircraft, are prohibited on all City Property unless allowed by NYCDEP on postings, Public Maps and/or notices or by express written permission. Vehicles that are: (1) blocking gates or entryways, (2) found in areas posted with "No Parking" signs, (3) found in any unauthorized area on City Property, or (4) found without a valid NYCDEP Vehicle Tag on any City Property other than a Public Access Area or a Designated Use Area, are subject to removal and storage at the owner's expense and risk.
 
@@ -6707,18 +6696,18 @@ Any violation of these rules by an Access Permit holder or by any person accompa
     * - Applicable Rules Section
       - Violations Subsection 
       - Access Permit Suspension Term
-    * - 16-08, 16-11, 16-18
-      - Tree stands (§ 16-08, § 16-18(a)(1)); Hunting Blinds (§ 16-08(h)); Shooting lanes (§ 16-18(a)(1)); Vehicle Tags (§ 16-11(c))
-      - 2-6 months
-    * - 16-04, 16-05, 16-07, 16-08, 16-09, 16-10, 16-17, 16-18
-      - Season (§ 16-04(e),§ 16-06(d), § 16-07(a), § 16-08(c), (h), § 16-09(d), § 16-13(e), § 16-14(c)); Means (§ 16-04(f)); Equipment (§ 16-04(h), (i), § 16-05(p), § 16-06(f), § 16-07(k), § 16-08(k), § 16-13(a), § 16-17(g), § 16-18(a)(1),(b),(e)); Litter (§ 16-04(i), § 16-17(a)); Entrails (§ 16-04(j), § 16-08(g)); Ice Fishing (§ 16-04(d),(h)(2),(3), (5)); Boat Tag (§ 16-05(i),(q),(r),(s), § 16-07(d),(f)); Boat Storage (§ 16-05(n),(o),(p),(s), § 16-07(d),(f)); Boat Condition (§ 16-06(e),§ 16-07(m)); Unsafe Operation (§ 16-06(e),(f),(g),§ 16-07(k),(l),(m)); Restricted Areas (§ 16-05(s), § 16-07(f), § 16-15)
-      - 4 Months-1 year
-    * - 16-13, 16-14
-      - Public Access Areas (§ 16-13(a), (b), (e)); Designated Use Areas (§ 16-14(b), (c))
-      - 1-3 years or Revocation
-    * - 16-15, 16-17, 16-18
-      - Restricted Areas (§ 16-15); Camping (§ 16-17(d)); Fires (§ 16-17(e)); Motorized Equipment (§ 16-04(h)(5), § 16-13(a)(2), § 16-17(g)); Natural Resources (§ 16-18(a)); Trapping (§ 16-18(g))
-      - 20 months-5 years
+    * - 15 RCNY §§ 16-08, 16-11, 16-18
+      - Tree stands (15 RCNY §§ 16-08, 16-18(a)(1)); Hunting Blinds (15 RCNY § 16-08(h)); Shooting lanes (15 RCNY § 16-18(a)(1)); Vehicle Tags (15 RCNY § 16-11(c))
+      - 2 - 6 months
+    * - 15 RCNY §§ 16-04, 16-05, 16-07, 16-08, 16-09, 16-10, 16-17, 16-18
+      - Season (15 RCNY §§ 16-04(e), 16-06(d), 16-07(a), 16-08(c), (h), 16-09(d), 16-13(e), 16-14(c)); Means (15 RCNY § 16-04(f)); Equipment (15 RCNY §§ 16-04(h), (i), 16-05(p), 16-06(f), 16-07(k), 16-08(k), 16-13(a), 16-17(g), 16-18(a)(1),(b),(e)); Litter (15 RCNY §§ 16-04(i), 16-17(a)); Entrails (15 RCNY §§ 16-04(j), 16-08(g)); Ice Fishing (15 RCNY § 16-04(d),(h)(2),(3), (5)); Boat Tag (15 RCNY §§ 16-05(i),(q),(r),(s), 16-07(d),(f)); Boat Storage (15 RCNY §§ 16-05(n),(o),(p),(s), 16-07(d),(f)); Boat Condition (15 RCNY §§ 16-06(e), 16-07(m)); Unsafe Operation (15 RCNY §§ 16-06(e),(f),(g), 16-07(k),(l),(m)); Restricted Areas (15 RCNY §§ 16-05(s), 16-07(f), 16-15)
+      - 4 months - 1 year
+    * - 15 RCNY §§ 16-13, 16-14
+      - Public Access Areas (15 RCNY § 16-13(a), (b), (e)); Designated Use Areas (15 RCNY § 16-14(b), (c))
+      - 1 - 3 years or revocation
+    * - 15 RCNY §§ 16-15, 16-17, 16-18
+      - Restricted Areas (15 RCNY § 16-15); Camping (15 RCNY § 16-17(d)); Fires (15 RCNY § 16-17(e)); Motorized Equipment (15 RCNY §§ 16-04(h)(5), 16-13(a)(2), 16-17(g)); Natural Resources (15 RCNY § 16-18(a)); Trapping (15 RCNY § 16-18(g))
+      - 20 months - 5 years
 ~
 
 
@@ -6824,11 +6813,11 @@ The following rules apply to any permitted occupation or use of New York City pr
 
 Notification of the availability of internet application submission will be posted on the DEP website.
 
-(b) All applications for Permits must be accompanied by a non-refundable application fee of twenty-five dollars ($25.00) payable to the order of "The City of New York" by money order or check unless such fee is waived pursuant to Section 17-07(c). Notification of the availability of payment by credit card will be posted on the DEP website.
+(b) All applications for Permits must be accompanied by a non-refundable application fee of twenty-five dollars ($25.00) payable to the order of "The City of New York" by money order or check unless such fee is waived pursuant to 15 RCNY § 17-07(c). Notification of the availability of payment by credit card will be posted on the DEP website.
 
 (c) Applications must contain all materials related to the Permit request, including but not limited to detailed plans, sketches, maps and surveys that show the areas of the proposed uses and adjacent City property boundaries. If DEP deems necessary, the applicant will be required to provide additional plans, engineering drawings or other documents.
 
-(d) Permit fees are set forth in Section 17-07.
+(d) Permit fees are set forth in 15 RCNY § 17-07.
 
 
 
@@ -6920,7 +6909,7 @@ DEP reserves the rights of its employees, contractors and other persons approved
 
 (d) Application and Permit fees shall not be waived for any projects that include requests for Commercial or individual uses.
 
-(e) The schedule of Permit fees is listed below.
+(e) The schedule of Permit fees is listed below. 
 
  
 
@@ -6928,9 +6917,19 @@ DEP reserves the rights of its employees, contractors and other persons approved
 .. list-table::
     :header-rows: 1
 
-    * -  
-      - Category
+    * - Category
+      - 
       - Permit Fee
+~
+
+
+
+
+
+
+.. list-table::
+    :header-rows: 1
+
     * - Access over City Property This includes, but shall not be limited to, temporary or permanent physical access ways such as driveways, logging roads and construction entranceways. 
       - 
       - 
@@ -6939,7 +6938,7 @@ DEP reserves the rights of its employees, contractors and other persons approved
       - $95.03 
     * - •
       - Each 300 feet in length, or part thereof, additional fee per foot of width over 10 feet, Non- Commercial uses $19.00
-      -  
+      - 
     * - •
       - Each 300 feet in length, or part thereof, for widths less than or equal to 10 feet, Commercial Uses
       - $190.08
@@ -6981,7 +6980,7 @@ DEP reserves the rights of its employees, contractors and other persons approved
       - 
     * - •
       - Paved or unpaved surfaces
-      - 331/3% of gross receipts derived from commuter parking fees plus reimbursement of taxes
+      - 33 1/3% of gross receipts derived from commuter parking fees plus reimbursement of taxes
     * - Non-Commuter Parking
       - 
       - 
@@ -7029,7 +7028,7 @@ DEP reserves the rights of its employees, contractors and other persons approved
       - $475.27 
     * - •
       - A separate Water Supply Agreement with specific costs for water withdrawal may also be required
-      -  
+      - 
     * - Subsurface Utilities or Facilities (Public Service Corp.)
       - 
       - 
@@ -7158,7 +7157,7 @@ DEP reserves the rights of its employees, contractors and other persons approved
       - $76.03 
     * - •
       - Aerial, Buried, or Submarine Fiber Optic Cable (any size)
-      -  
+      - 
     * - •
       - Each 300 feet in length, or part thereof, for each wire
       - $76.03
@@ -7242,7 +7241,7 @@ DEP reserves the rights of its employees, contractors and other persons approved
       - $10.00
     * - •
       - Other Non-Commercial uses (Permit fee double for commercial use):
-      -  
+      - 
     * - •
       - Less than or equal to 5,000 square feet
       - $250.00
@@ -7377,7 +7376,7 @@ DEP reserves the rights of its employees, contractors and other persons approved
       - 
     * - •
       - Anodes and Rectifiers, each
-      -  $15.86 
+      - $15.86 
     * - •
       - Splice Boxes, each
       - $3.17
@@ -7505,7 +7504,7 @@ Chapter 18: Protection from Contamination, Degradation and Pollution of the New 
 
 (b) These rules and regulations repeal in their entirety and supersede the Rules and Regulations for the Department of Water Supply, Gas and Electricity of the City of New York enacted the 11th day of June, 1953.
 
-(c) These rules and regulations are hereby enacted pursuant to the authority vested in the Commissioner of the Department of Environmental Protection, as set forth in § 18-13.
+(c) These rules and regulations are hereby enacted pursuant to the authority vested in the Commissioner of the Department of Environmental Protection, as set forth in 15 RCNY § 18-13.
 
 
 
@@ -7591,7 +7590,7 @@ These rules and regulations are promulgated pursuant to Article 11 of the New Yo
 
 (d) These rules and regulations apply to noncomplying regulated activities that are required to come into compliance with these rules and regulations as set forth in these rules and regulations.
 
-(e) The boundaries of the New York City watershed have been delineated on United States Geological Survey maps, which are available for inspection at the offices of the local representatives of the Department listed in § 18-15 of this subchapter. A map of the watershed is provided in Appendix 18-A of this Part for reference purposes only.
+(e) The boundaries of the New York City watershed have been delineated on United States Geological Survey maps, which are available for inspection at the offices of the local representatives of the Department listed in 15 RCNY § 18-15. A map of the watershed is provided in Appendix 18-A of this Part for reference purposes only.
 
 
 
@@ -7607,7 +7606,7 @@ These rules and regulations are promulgated pursuant to Article 11 of the New Yo
 
    (2) New York City Department of Environmental Protection Regulatory and Engineering Programs      71 Smith Avenue      Kingston, New York 12401      Telephone: (845) 340-7215
 
-(b) Petitions for appeal of a determination issued by the Department in accordance with § 18-28 and petitions for a hearing on a cease and desist order issued by the Department in accordance with § 18-29 must be submitted to the address listed in paragraph (1), with a copy to the address listed in paragraph (2).
+(b) Petitions for appeal of a determination issued by the Department in accordance with 15 RCNY § 18-28 and petitions for a hearing on a cease and desist order issued by the Department in accordance with 15 RCNY § 18-29 must be submitted to the address listed in paragraph (1), with a copy to the address listed in paragraph (2).
 
    (1) New York City Office of Administrative Trials and Hearings      40 Rector Street      New York, New York 10006-1705      Telephone: (212) 442-4900
 
@@ -7659,7 +7658,7 @@ These rules and regulations are promulgated pursuant to Article 11 of the New Yo
 
    (15) Clear cutting means cutting all of the trees, not just selected trees, within a specified boundary designated by the owner of the property.
 
-   (16) Coliform restricted basin means the drainage basin of a reservoir or controlled lake in which the coliform standards as set forth in § 18-48(c) or (d) of Subchapter D are exceeded as determined by the Department pursuant to its annual review conducted under § 18-48(e) of Subchapter D.
+   (16) Coliform restricted basin means the drainage basin of a reservoir or controlled lake in which the coliform standards as set forth in 15 RCNY § 18-48(c) or (d) are exceeded as determined by the Department pursuant to its annual review conducted under 15 RCNY § 18-48(e).
 
    (17) Combined sewer system means a structure used for conveying both sewage and stormwater.
 
@@ -7687,7 +7686,7 @@ These rules and regulations are promulgated pursuant to Article 11 of the New Yo
 
    (29) Designated Main Street Area means a defined area of limited size located within the East of Hudson Watershed which is an existing center of commercial, industrial, residential, or mixed use and which has been defined and designated by a local government in the East of Hudson Watershed and approved by the Department pursuant to these rules and regulations.
 
-   (30) Designated Village Center means an area in the Croton System described by the metes and bounds of a village center, whether or not located in an incorporated village, designated by a local government(s) in a Comprehensive Croton Water Quality Protection Plan prepared and agreed to in accordance with § 18-82 of these rules and regulations by submitting to the Department a description of the metes and bounds of such proposed Designated Village Center, a map of the described area, and a statement of the features which qualify the area as a Designated Village Center. A Designated Village Center must be an existing center of commercial, residential or mixed uses.
+   (30) Designated Village Center means an area in the Croton System described by the metes and bounds of a village center, whether or not located in an incorporated village, designated by a local government(s) in a Comprehensive Croton Water Quality Protection Plan prepared and agreed to in accordance with 15 RCNY § 18-82 by submitting to the Department a description of the metes and bounds of such proposed Designated Village Center, a map of the described area, and a statement of the features which qualify the area as a Designated Village Center. A Designated Village Center must be an existing center of commercial, residential or mixed uses.
 
    (31) Discharge means the intentional or unintentional disposal, deposit, injection, emission, application, dumping, spilling, leaking, washing off, release, running off, draining or placing of any solid, semi-solid, liquid, or any other non-gaseous waste or other substance into or onto any land or water or into any sewer system so that such waste or other substance may directly or indirectly enter into any watercourse, wetland, reservoir, reservoir stem, controlled lake or groundwater.
 
@@ -7781,7 +7780,7 @@ These rules and regulations are promulgated pursuant to Article 11 of the New Yo
 
    (76) Offset means a reduction in the discharge of phosphorus into a drainage basin which is surplus, quantifiable, permanent, and enforceable, as defined herein:
 
-      (i) Surplus means that the reduction in phosphorus is not otherwise required by federal, state or local law, including these rules and regulations, or pursuant to the terms of any judgment, decree or order of any court, administrative tribunal or governmental agency, or pursuant to any watershed protection program funded by the Department, except as provided in subparagraphs 18-83(a)(3) and 18-84(a)(3).
+      (i) Surplus means that the reduction in phosphorus is not otherwise required by federal, state or local law, including these rules and regulations, or pursuant to the terms of any judgment, decree or order of any court, administrative tribunal or governmental agency, or pursuant to any watershed protection program funded by the Department, except as provided in 15 RCNY §§ 18-83(a)(3) and 18-84(a)(3).
 
       (ii) Quantifiable means that a reasonable basis exists for calculating and verifying the amount of the reduction in phosphorus.
 
@@ -7805,7 +7804,7 @@ These rules and regulations are promulgated pursuant to Article 11 of the New Yo
 
    (84) Petroleum product means oil or petroleum of any kind and in any form including, but not limited to, oil, petroleum, fuel oil, oil sludge, oil refuse, oil mixed with other wastes and crude oils, gasoline and kerosene.
 
-   (85) Phosphorus restricted basin means (i) the drainage basin of a source water reservoir in which the phosphorus load to the reservoir results in the phosphorus concentration in the reservoir exceeding 15 micrograms per liter, or (ii) the drainage basin of a reservoir other than a source water reservoir or of a controlled lake in which the phosphorus load to the reservoir or controlled lake results in the phosphorus concentration in the reservoir or controlled lake exceeding 20 micrograms per liter in both instances as determined by the Department pursuant to its annual review conducted under § 18-48(e) of Subchapter D.
+   (85) Phosphorus restricted basin means (i) the drainage basin of a source water reservoir in which the phosphorus load to the reservoir results in the phosphorus concentration in the reservoir exceeding 15 micrograms per liter, or (ii) the drainage basin of a reservoir other than a source water reservoir or of a controlled lake in which the phosphorus load to the reservoir or controlled lake results in the phosphorus concentration in the reservoir or controlled lake exceeding 20 micrograms per liter in both instances as determined by the Department pursuant to its annual review conducted under 15 RCNY § 18-48(e).
 
    (86) Photic zone means the region of a lake that receives light, where photosynthesis takes place. The photic zone extends down to a depth where photosynthetic activity and respiration are balanced due to the available light, or to one percent surface illumination.
 
@@ -7819,9 +7818,9 @@ These rules and regulations are promulgated pursuant to Article 11 of the New Yo
 
    (91) Redevelopment project means the reconstruction or modification of any previously developed land such as residential, commercial, industrial, or road/highway, which involves soil disturbance. Redevelopment is distinguished from new development in that new development refers to construction on land which has not been substantially developed. The term "redevelopment project" specifically applies to areas previously developed with impervious surfaces.
 
-   (92) Regulated activity means any activity to which these rules and regulations apply, as described in subdivisions (a)-(d) of § 18-14 of Subchapter A of these rules and regulations.
+   (92) Regulated activity means any activity to which these rules and regulations apply, as described in subdivisions (a)-(d) of 15 RCNY § 18-14.
 
-   (93) Remediation means the repair or replacement, other than routine repair or maintenance as described in § 18-38(a)(9)(iii) of Subchapter C, of a subsurface sewage treatment system that is failing.
+   (93) Remediation means the repair or replacement, other than routine repair or maintenance as described in 15 RCNY § 18-38(a)(9)(iii), of a subsurface sewage treatment system that is failing.
 
    (94) Reservoir means any natural or artificial impoundment of water owned or controlled by the City which is tributary to the City Water supply system.
 
@@ -7861,7 +7860,7 @@ These rules and regulations are promulgated pursuant to Article 11 of the New Yo
 
    (112) Stormwater management practice means a stormwater pond, stormwater wetland (also known as a constructed wetland), infiltration system, filter practice, or open channel used primarily for managing and/or treating stormwater, including a Department approved alternative stormwater management practice.
 
-   (113) Stormwater Project Review Committee ("Committee") means a Committee formed in each Town or Village in the watershed to assist the Department in implementing subdivisions 18-39(b) and (c) of Subchapter C, and consisting of the following four Committee members: a representative of the Department, who shall act as chairperson; a representative of the New York State Department of Environmental Conservation from the region in which the activity requiring a stormwater pollution prevention plan is proposed to be located; a representative of the Town or Village in which the activity requiring a stormwater pollution prevention plan is proposed to be located or if no one is designated by the Town, or if the activity is proposed for a village, the Village, a representative of the appropriate County Planning Department, provided, however, that a Town, or if the activity is proposed for a village, the Village, may at any time designate a representative to replace the one designated by the County Planning Department; and a representative of the County Department of Health from the County in which the activity requiring a stormwater pollution prevention plan is proposed to be located, or in a County without a County Department of Health, a representative of the County Soil and Water Conservation Service.
+   (113) Stormwater Project Review Committee ("Committee") means a Committee formed in each Town or Village in the watershed to assist the Department in implementing 15 RCNY § 18-39(b) and (c), and consisting of the following four Committee members: a representative of the Department, who shall act as chairperson; a representative of the New York State Department of Environmental Conservation from the region in which the activity requiring a stormwater pollution prevention plan is proposed to be located; a representative of the Town or Village in which the activity requiring a stormwater pollution prevention plan is proposed to be located or if no one is designated by the Town, or if the activity is proposed for a village, the Village, a representative of the appropriate County Planning Department, provided, however, that a Town, or if the activity is proposed for a village, the Village, may at any time designate a representative to replace the one designated by the County Planning Department; and a representative of the County Department of Health from the County in which the activity requiring a stormwater pollution prevention plan is proposed to be located, or in a County without a County Department of Health, a representative of the County Soil and Water Conservation Service.
 
    (114) Stormwater retrofit means any construction of a structural stormwater management practice in a previously developed area, the modification of a structural stormwater management practice, or the implementation of a nonstructural practice to improve stormwater management and/or stormwater treatment over current conditions.
 
@@ -7887,17 +7886,19 @@ These rules and regulations are promulgated pursuant to Article 11 of the New Yo
 
    (125) Wastewater treatment plant means any facility which treats sewage or discharges treated effluent not intended to receive further treatment in the watershed, and which requires a permit under Titles 7 or 8 of Article 17 of the Environmental Conservation Law. A wastewater treatment plant is installed for the purpose of treating, neutralizing, stabilizing or disposing of sewage by removal of contaminants accomplished by unit operations or processes or by a combination of such operations and processes as may be applicable to a given design for a wastewater treatment plant. Wastewater treatment plants shall not include intermediate sized sewage treatment systems as defined in these rules and regulations.
 
-   (126) Water Quality Volume (WQv) means the storage needed to capture and treat 90% of the average annual stormwater runoff volume. WQv is calculated as follows:          WQv = (P)(Rv)(A)            12       where:
+   (126) Water Quality Volume (WQv) means the storage needed to capture and treat 90% of the average annual stormwater runoff volume. WQv is calculated as follows:      WQv = (P)(Rv)(A)            12
 
-      WQv = water quality volume (in acre-feet)
+      where:
 
-      P = 90% Rain Event Number (A map of the 90% Rainfall in New York State appears in the most recent Watershed Water Quality Annual Report.)
+         WQv = water quality volume (in acre-feet)
 
-      Rv = 0.05 + 0.009(I), where I is percent impervious cover
+         P = 90% Rain Event Number (A map of the 90% Rainfall in New York State appears in the most recent Watershed Water Quality Annual Report.)
 
-      A = site area in acres
+         Rv = 0.05 + 0.009(I), where I is percent impervious cover
 
-A minimum WQv of 0.2 inches per acre shall be met at residential sites that have less than 17% impervious cover.
+         A = site area in acres
+
+      A minimum WQv of 0.2 inches per acre shall be met at residential sites that have less than 17% impervious cover.
 
    (127) Water supply means the New York City public water supply system, and includes all watercourses, wetlands, reservoirs, reservoir stems and controlled lakes tributary thereto.
 
@@ -7907,7 +7908,7 @@ A minimum WQv of 0.2 inches per acre shall be met at residential sites that have
 
    (130) Watershed Agricultural Council means the Watershed Agricultural Council for the New York City Watershed, Inc., a not-for-profit organization with its principal place of business at 33195 State Highway 10, Walton, New York 13856.
 
-   (131) Watershed Water Quality Annual Report means the report prepared annually by the Department in accordance with § 18-48 of these Rules and Regulations. The Watershed Water Quality Annual Report includes the results of its annual review of its reservoirs and controlled lakes as described in § 18-48 of these Rules and Regulations as well as the current New York State rainfall values for the one- and ten-year, twenty-four hour storms and a map of the 90% rainfall in New York State.
+   (131) Watershed Water Quality Annual Report means the report prepared annually by the Department in accordance with 15 RCNY § 18-48. The Watershed Water Quality Annual Report includes the results of its annual review of its reservoirs and controlled lakes as described in 15 RCNY § 18-48 as well as the current New York State rainfall values for the one- and ten-year, twenty-four hour storms and a map of the 90% rainfall in New York State.
 
    (132) West of Hudson watershed means the Ashokan, Cannonsville, Pepacton, Neversink, Rondout, and Schoharie Reservoirs and their drainage basins.
 
@@ -7978,7 +7979,7 @@ The following laws, guidance documents, regulations or technical material have b
 
    (4) Failure to comply with the conditions of any approval issued by the Department under these rules and regulations shall be a violation of these rules and regulations.
 
-   (5) The Department may order that a regulated activity cease, and/or a facility where such regulated activity is taking place be closed or removed, if such regulated activity is causing contamination to or degradation of the water supply, such that the activity is a threat to the life, health, or safety of water supply users that requires immediate corrective action. Any person who receives such an order may request a hearing on such order in the manner provided in § 18-29.
+   (5) The Department may order that a regulated activity cease, and/or a facility where such regulated activity is taking place be closed or removed, if such regulated activity is causing contamination to or degradation of the water supply, such that the activity is a threat to the life, health, or safety of water supply users that requires immediate corrective action. Any person who receives such an order may request a hearing on such order in the manner provided in 15 RCNY § 18-29.
 
 
 
@@ -7988,7 +7989,7 @@ The following laws, guidance documents, regulations or technical material have b
 *§ 18-22 Procedures for Notification and/or Reporting.* ::
 
 
-Where any notification, application or reporting to the Department required by these rules and regulations is to be made in writing, it shall be sent by certified mail to both the local Department representative in the portion of the watershed in which the regulated activity takes place and to the Engineering Section. Addresses are listed in § 18-15 of Subchapter A of these rules and regulations.
+Where any notification, application or reporting to the Department required by these rules and regulations is to be made in writing, it shall be sent by certified mail to both the local Department representative in the portion of the watershed in which the regulated activity takes place and to the Engineering Section. Addresses are listed in 15 RCNY § 18-15.
 
 
 
@@ -8010,9 +8011,9 @@ Where any notification, application or reporting to the Department required by t
 
 (b) The applicant shall meet the following requirements:
 
-   (1) No person shall undertake any activity listed in § 18-14 of Subchapter A of these rules and regulations which requires the review and approval of the Department without first obtaining written approval from the Department, except where a temporary emergency approval has been obtained from the Department pursuant to § 18-24 of this Subchapter.
+   (1) No person shall undertake any activity listed in 15 RCNY § 18-14 which requires the review and approval of the Department without first obtaining written approval from the Department, except where a temporary emergency approval has been obtained from the Department pursuant to 15 RCNY § 18-24.
 
-   (2) Any person proposing to undertake any activity listed in § 18-14 of Subchapter A of these rules and regulations which requires the review and approval of the Department, shall submit to the Department, at the address of the Department representative for the area where the regulated activity is to be undertaken set forth in § 18-15 of Subchapter A of these rules and regulations, an application for review and approval which includes a plan of the activity which meets the requirements of this Subchapter and any additional requirements for the specific activity set forth in these rules and regulations. Failure by the applicant to submit information to the Department or to follow the Department procedures set forth in these rules and regulations is sufficient grounds to deny the approval.
+   (2) Any person proposing to undertake any activity listed in 15 RCNY § 18-14 which requires the review and approval of the Department, shall submit to the Department, at the address of the Department representative for the area where the regulated activity is to be undertaken set forth in 15 RCNY § 18-15, an application for review and approval which includes a plan of the activity which meets the requirements of this Subchapter and any additional requirements for the specific activity set forth in these rules and regulations. Failure by the applicant to submit information to the Department or to follow the Department procedures set forth in these rules and regulations is sufficient grounds to deny the approval.
 
    (3) Any person seeking approval of an activity may be subject to such terms and conditions as the Department may require, including time limitations and limitations on transfer of the approval given by the Department.
 
@@ -8030,9 +8031,9 @@ Where any notification, application or reporting to the Department required by t
 
 (c) An application shall contain the following information:
 
-   (1) An application for the review and approval of any activity listed in § 18-14 of Subchapter A of these rules and regulations shall provide a description of the activity, the location and topography of the area of the activity, identification of any existing structures at the location, and any engineering, construction or other plans which detail the methods to be used in undertaking the activity such that it shall meet the requirements of this Subchapter and any additional requirements for the specific activity set forth in these rules and regulations.
+   (1) An application for the review and approval of any activity listed in 15 RCNY § 18-14 shall provide a description of the activity, the location and topography of the area of the activity, identification of any existing structures at the location, and any engineering, construction or other plans which detail the methods to be used in undertaking the activity such that it shall meet the requirements of this Subchapter and any additional requirements for the specific activity set forth in these rules and regulations.
 
-   (2) An application for review and approval of any activity listed in § 18-14 of Subchapter A of these rules and regulations shall include a copy of any Environmental Assessment Form (EAF), and either a Draft Environmental Impact Statement (DEIS) or a determination of nonsignificance by the lead agency, where such documents are prepared pursuant to Article 8 of the Environmental Conservation Law and the rules and regulations promulgated thereunder.
+   (2) An application for review and approval of any activity listed in 15 RCNY § 18-14 shall include a copy of any Environmental Assessment Form (EAF), and either a Draft Environmental Impact Statement (DEIS) or a determination of nonsignificance by the lead agency, where such documents are prepared pursuant to Article 8 of the Environmental Conservation Law and the rules and regulations promulgated thereunder.
 
    (3) When a regulated activity requires a related approval from any other agency or more than one approval from the Department, the application for review and approval shall include a list of such approvals which the applicant knows to be required, and a statement of the status of any required approval at the time of filing of the application with the Department.
 
@@ -8040,7 +8041,7 @@ Where any notification, application or reporting to the Department required by t
 
 (d) Review and Approval Procedures:
 
-   (1) The applicant proposing to engage in any activity listed in § 18-14 of Subchapter A of these rules and regulations which requires the review and approval of the Department shall certify in writing that she or he believes that the application is complete and in compliance with the requirements of this Subchapter and any additional requirements for the specific activity set forth in these rules and regulations.
+   (1) The applicant proposing to engage in any activity listed in 15 RCNY § 18-14 which requires the review and approval of the Department shall certify in writing that she or he believes that the application is complete and in compliance with the requirements of this Subchapter and any additional requirements for the specific activity set forth in these rules and regulations.
 
    (2) An application is complete when it is determined by the Department to contain sufficient information for the purpose of commencing review of the application. The Department retains the right to seek additional information in order to enable the Department to make a determination pursuant to these rules and regulations. Within ten (10) days of receiving an application for review and approval of a conventional individual sewage treatment system to be installed on an individual lot which is not within a subdivision, or within twenty (20) days of receiving any other type of application for review or approval, the Department shall either:
 
@@ -8050,13 +8051,13 @@ Where any notification, application or reporting to the Department required by t
 
       (iii) Except in cases where the applicant has submitted false or misleading information or where a change in relevant law has occurred or changes have been proposed for the project, the Department may require further information based only upon the additional information submitted by the applicant or new issues raised by such information. In addition, the Department may also require further information based on a change in ownership of the property, the identity of the applicant, or the identity of the applicant's owners, principals, shareholders, directors, or officers.
 
-   (3) If the Department fails to notify an applicant in writing of its determination as to the completeness or incompleteness of the application within the time periods set forth in paragraph (d)(2) of this subdivision, the applicant may notify the Department of its failure by means of certified mail, return receipt requested, to the local Department representative identified in § 18-15 who is responsible for processing the application and a copy to the Engineering Section. If the Department fails to notify the applicant of its determination as to the completeness or incompleteness of the application within ten (10) business days of receiving the notice, the application shall be deemed complete as of the eleventh day.
+   (3) If the Department fails to notify an applicant in writing of its determination as to the completeness or incompleteness of the application within the time periods set forth in paragraph (d)(2) of this subdivision, the applicant may notify the Department of its failure by means of certified mail, return receipt requested, to the local Department representative identified in 15 RCNY § 18-15 who is responsible for processing the application and a copy to the Engineering Section. If the Department fails to notify the applicant of its determination as to the completeness or incompleteness of the application within ten (10) business days of receiving the notice, the application shall be deemed complete as of the eleventh day.
 
    (4) The Department shall notify the applicant in writing of its determination within twenty (20) days of determining that an application for review and approval of a conventional individual sewage treatment system to be installed on an individual lot which is not within a subdivision is complete pursuant to the procedures set forth in paragraph (d)(2) of this subdivision unless the Department and the applicant mutually agree in writing upon an extension of the twenty (20) day review period. If, during the twenty (20) day review period, the Department requests revisions to the application, the review period shall be suspended from the date such request is made until the date on which the Department receives such revisions, provided that the Department shall have no fewer than ten (10) days from the date of receipt to issue a determination.
 
    (5) For all applications for review and approval, other than for a conventional individual sewage treatment system to be installed on an individual lot which is not within a subdivision, the Department shall notify an applicant in writing of its determination within forty-five (45) days of notifying the applicant that the application is complete pursuant to the procedures set forth in paragraph (d)(2) of this subdivision unless the Department and the applicant mutually agree in writing upon an extension of the forty-five (45) day review period. If, during the forty-five (45) day review period, the Department requests revisions to the application, the review period shall be suspended from the date such request is made until the date on which the Department receives such revisions, provided that the Department shall have no fewer than ten (10) days from the date of receipt to issue a determination.
 
-   (6) If the Department fails to notify an applicant in writing of its determination within the twenty (20) day time period as set forth in paragraph (d)(4) of this subdivision or the forty-five (45) day time period as set forth in paragraph (d)(5) of this subdivision, the applicant may notify the Department of its failure by means of certified mail, return receipt requested to the local Department representative identified in § 18-15 of Subchapter A of these rules and regulations who is responsible for processing the application and a copy to Regulatory and Engineering Programs. The notice shall contain the applicant's name, location of the proposed project, the office in which the application was filed, and a statement that a decision is sought in accordance with this subdivision. Any notice failing to provide this information will not invoke this provision.
+   (6) If the Department fails to notify an applicant in writing of its determination within the twenty (20) day time period as set forth in paragraph (d)(4) of this subdivision or the forty-five (45) day time period as set forth in paragraph (d)(5) of this subdivision, the applicant may notify the Department of its failure by means of certified mail, return receipt requested to the local Department representative identified in 15 RCNY § 18-15 who is responsible for processing the application and a copy to Regulatory and Engineering Programs. The notice shall contain the applicant's name, location of the proposed project, the office in which the application was filed, and a statement that a decision is sought in accordance with this subdivision. Any notice failing to provide this information will not invoke this provision.
 
       (i) If the Department fails to notify the applicant of its decision within ten (10) business days of the receipt of such notice, the application shall be deemed approved subject to the standard terms and conditions applicable to such an approval.
 
@@ -8074,7 +8075,7 @@ Where any notification, application or reporting to the Department required by t
 *§ 18-24 Emergency Procedures.* ::
 
 
-(a)  Notwithstanding any other provision of this Subchapter, where an expedited review and approval of a regulated activity is necessary to respond to an imminent threat to the health and safety of humans or animals, or to respond to a substantial imminent threat to property, an applicant seeking such review and approval shall notify the Department by telephone at the office of the local representative listed in § 18-15 of Subchapter A of these rules and regulations, and shall meet with the Department within 24 hours. At the meeting the applicant shall present to the representative of the Department such available information regarding the regulated activity as would otherwise be required in a written application for review and approval of the regulated activity. Additionally, the applicant shall provide an explanation of the nature of the imminent threat that necessitates the expedited review. The Department shall review the information supplied by the applicant and shall issue a temporary determination to approve or disapprove the application within 24 hours of receipt of the information required by this subdivision.
+(a)  Notwithstanding any other provision of this Subchapter, where an expedited review and approval of a regulated activity is necessary to respond to an imminent threat to the health and safety of humans or animals, or to respond to a substantial imminent threat to property, an applicant seeking such review and approval shall notify the Department by telephone at the office of the local representative listed in 15 RCNY § 18-15, and shall meet with the Department within 24 hours. At the meeting the applicant shall present to the representative of the Department such available information regarding the regulated activity as would otherwise be required in a written application for review and approval of the regulated activity. Additionally, the applicant shall provide an explanation of the nature of the imminent threat that necessitates the expedited review. The Department shall review the information supplied by the applicant and shall issue a temporary determination to approve or disapprove the application within 24 hours of receipt of the information required by this subdivision.
 
    (1) An applicant shall not be required to notify the Department before undertaking the routine repair and maintenance of a subsurface sewage treatment system, including, but not limited to, the pump-out of a septic tank, the repair of a broken lateral, the leveling of a distribution box, or the removal of a blockage.
 
@@ -8092,7 +8093,7 @@ Where any notification, application or reporting to the Department required by t
 
 (a)  If a proposed regulated activity requires one or more Department reviews or approvals, or the preparation of an Environmental Impact Statement pursuant to the State Environmental Quality Review Act, the prospective applicant may request an optional pre-application conference with the appropriate Department staff as a means of clarifying application procedures to be followed in order to comply with the requirements set forth in these rules and regulations.
 
-(b) The request for a pre-application conference should be made at the earliest possible stage of the applicant's planning process. Such request shall be made in writing to the Department representative for the area where the regulated activity is to be undertaken, as set forth in § 18-15 of Subchapter A of these rules and regulations. A mutually agreed upon time and place shall be scheduled for the pre-application conference.
+(b) The request for a pre-application conference should be made at the earliest possible stage of the applicant's planning process. Such request shall be made in writing to the Department representative for the area where the regulated activity is to be undertaken, as set forth in 15 RCNY § 18-15. A mutually agreed upon time and place shall be scheduled for the pre-application conference.
 
 (c) In order to assist the prospective applicant, prior to the preapplication conference, the prospective applicant shall submit to the Department representative the following information:
 
@@ -8172,7 +8173,7 @@ Where any notification, application or reporting to the Department required by t
 
       (iii) Transfer, sale, or lease of a residence or business provided further that the noncomplying regulated activity is not changed to a different noncomplying regulated activity, unless approved by the Department, and provided that such transfer, sale or lease occurs within three years of the offering for sale or lease of the residence or business.
 
-   (5) Should any noncomplying regulated activity cause contamination to or degradation of the water supply, such that the activity is a threat to the life, health, or safety of water supply users, the Commissioner may order that such noncomplying regulated activity conform either in whole or in part to the requirements of these rules and regulations, immediately or within a limited period of time at the Commissioner's discretion, or be discontinued immediately. Any person who receives such an order may request a hearing on such order in the manner provided in § 18-29.
+   (5) Should any noncomplying regulated activity cause contamination to or degradation of the water supply, such that the activity is a threat to the life, health, or safety of water supply users, the Commissioner may order that such noncomplying regulated activity conform either in whole or in part to the requirements of these rules and regulations, immediately or within a limited period of time at the Commissioner's discretion, or be discontinued immediately. Any person who receives such an order may request a hearing on such order in the manner provided in 15 RCNY § 18-29.
 
    (6) Any owner or operator of a noncomplying regulated activity who was not required by these rules and regulations to notify the Department pursuant to paragraph (1) of subdivision (b) of this section, may request, in writing, a determination from the Department that such property or activity is a noncomplying regulated activity. The written request shall include all of the information required in such paragraph. The Department shall determine, based upon the submission, whether the property or activity is a noncomplying regulated activity, and shall notify the owner or operator of such determination in writing.
 
@@ -8254,7 +8255,7 @@ Where any notification, application or reporting to the Department required by t
 
 (c) A petition for a hearing shall not stay compliance with the cease and desist order, and it shall continue to be the duty of the petitioner to discontinue the activity pursuant to the terms of the order. Failure to do so shall be a violation of the order and these rules and regulations.
 
-(d) At the hearing, the petitioner shall have the burden of proving that the activity that is the subject of the order does not come within the provisions of § 18-21(a)(5) and § 18-27(a)(5) of these rules and regulations.
+(d) At the hearing, the petitioner shall have the burden of proving that the activity that is the subject of the order does not come within the provisions of 15 RCNY § 18-21(a)(5) and 15 RCNY § 18-27(a)(5).
 
 (e) The failure of the petitioner to appear at the time, date and place set forth in the notice of hearing shall constitute a default of the right to a hearing on the cease and desist order. The Department shall provide a notice of default in writing to the petitioner within five (5) days of the petitioner's failure to appear.
 
@@ -8405,8 +8406,8 @@ Unless otherwise permitted by these rules and regulations, a discharge, or stora
 .. list-table::
     :header-rows: 1
 
-    * - SPDES PermittedTotal Flow(Gallons/day)
-      - TotalPhosphorus Limit(mg/l)
+    * - SPDES Permitted Total Flow(Gallons/day)
+      - Total Phosphorus Limit(mg/l)
     * - ≤ 50,000
       - 1.0
     * - &gt; 50,000 and &lt; 500,000
@@ -8431,17 +8432,17 @@ Unless otherwise permitted by these rules and regulations, a discharge, or stora
 
    (14) Any approval of a new or expanded wastewater treatment plant issued by the Department shall expire and thereafter be null and void unless construction is completed within five (5) years of the date of issuance of such approval or any extended period of time approved by the Department upon good cause shown. Following expiration of the approval, the plans for the wastewater treatment plants may be resubmitted to the Department for consideration for a new approval.
 
-(b) Requirements for wastewater treatment plants located within phosphorus restricted basins. No new wastewater treatment plants with surface discharges, or expansions of existing wastewater treatment plants with surface discharges, shall be allowed in a phosphorus restricted basin. A variance from this provision may be sought in accordance with the requirements set forth in § 18-61(d) of Subchapter F.
+(b) Requirements for wastewater treatment plants located within phosphorus restricted basins. No new wastewater treatment plants with surface discharges, or expansions of existing wastewater treatment plants with surface discharges, shall be allowed in a phosphorus restricted basin. A variance from this provision may be sought in accordance with the requirements set forth in 15 RCNY § 18-61(d).
 
-(c) Requirements for wastewater treatment plants located in coliform restricted basins. No new wastewater treatment plants with surface discharges, or expansions of existing wastewater treatment plants with surface discharges, shall be allowed in a coliform restricted basin. A variance from this provision may be sought in accordance with the requirements set forth in § 18-61(d)(1) of Subchapter F.
+(c) Requirements for wastewater treatment plants located in coliform restricted basins. No new wastewater treatment plants with surface discharges, or expansions of existing wastewater treatment plants with surface discharges, shall be allowed in a coliform restricted basin. A variance from this provision may be sought in accordance with the requirements set forth in 15 RCNY § 18-61(d)(1).
 
 (d) Treatment requirements for wastewater treatment plants located within the 60 day travel time to intake.
 
-   (1) The map indicating the demarcation line for the watershed areas that are located within the 60 day travel time to intake appears in Appendix 18-A. Large detailed maps of such areas are available to be reviewed by the public during business hours at the regional offices listed in § 18-15 of Subchapter A.
+   (1) The map indicating the demarcation line for the watershed areas that are located within the 60 day travel time to intake appears in Appendix 18-A. Large detailed maps of such areas are available to be reviewed by the public during business hours at the regional offices listed in 15 RCNY § 18-15.
 
    (2) Within the 60 day travel time to the intake the following requirements are applicable:
 
-      (i) New wastewater treatment plants with surface discharges, or expansions of existing wastewater treatment plants with surface discharges, are prohibited except as provided in § 18-82(e). A variance from this provision may be sought in accordance with the requirements set forth in § 18-61(e);
+      (i) New wastewater treatment plants with surface discharges, or expansions of existing wastewater treatment plants with surface discharges, are prohibited except as provided in 15 RCNY § 18-82(e). A variance from this provision may be sought in accordance with the requirements set forth in 15 RCNY § 18-61(e);
 
       (ii) Existing wastewater treatment plants with SPDES permitted surface discharges may continue to operate provided the wastewater treatment plant provides sand filtration or a Department-approved alternative technology to sand filtration, disinfection, phosphorus removal, and microfiltration or a Department-approved equivalent technology to microfiltration, as required by these rules and regulations;
 
@@ -8449,7 +8450,7 @@ Unless otherwise permitted by these rules and regulations, a discharge, or stora
 
 (e) Treatment requirements for wastewater treatment plants located in the watershed and beyond the 60 day travel time to intake.
 
-   (1) The map indicating the demarcation line for the watershed areas that are located beyond the 60 day travel time to intake appears in Appendix 18-A. Large detailed maps of such areas are available to be reviewed by the public during business hours at the regional offices listed in § 18-15 of Subchapter A.
+   (1) The map indicating the demarcation line for the watershed areas that are located beyond the 60 day travel time to intake appears in Appendix 18-A. Large detailed maps of such areas are available to be reviewed by the public during business hours at the regional offices listed in 15 RCNY § 18-15.
 
    (2) Beyond the 60 day travel time to the intake the following requirements are applicable:
 
@@ -8507,7 +8508,7 @@ Unless otherwise permitted by these rules and regulations, a discharge, or stora
 
       (iii) Whenever an owner or operator of a wastewater treatment plant deposits securities or other obligations with the City of New York, in lieu of a performance bond, it shall be with the understanding that the Comptroller of the City of New York, or his or her successors, may sell and use the proceeds thereof for any purpose for which the principal or surety on such bond would be liable under the terms of the approval. If money is deposited with the Comptroller, the owner or operator of the wastewater treatment plant shall not be entitled to receive interest on such money from the City of New York.
 
-   (8) The transfer of any approval or permit issued by the Department for the construction and/or operation of any wastewater treatment plant shall require Department approval. The Department shall approve such transfer provided that the transferee demonstrates sufficient financial, technical, and professional capability to construct, operate and/or maintain the subject wastewater treatment plant in compliance with applicable laws, as cited in § 18-36(a)(1), the provisions of these rules and regulations, and the terms and conditions of any approval or permit granted by the Department.
+   (8) The transfer of any approval or permit issued by the Department for the construction and/or operation of any wastewater treatment plant shall require Department approval. The Department shall approve such transfer provided that the transferee demonstrates sufficient financial, technical, and professional capability to construct, operate and/or maintain the subject wastewater treatment plant in compliance with applicable laws, as cited in 15 RCNY § 18-36(a)(1), the provisions of these rules and regulations, and the terms and conditions of any approval or permit granted by the Department.
 
 (g) Application requirements.
 
@@ -8551,7 +8552,7 @@ Unless otherwise permitted by these rules and regulations, a discharge, or stora
 
 (d) Except for the owner of an individual or two family residence, the owner of any property which will be served by a new sewer connection to a sewer system, or by any alteration or modification of a sewer connection to a sewer system, shall submit all plans or designs for such sewer connection or such alteration or modification to the Department prior to or simultaneously with the delivery of the notice to the Department required under paragraph (d)(1) below. The owner of an individual or two family residence to be served by a new sewer connection to a sewer system, or by an alteration or modification of a sewer connection to a sewer system, shall not be required to submit the plans or designs for such sewer connection or such alteration or modification to the Department, unless specifically requested by the Department. If so requested, such owner shall submit such plans or designs to the Department prior to or simultaneously with the delivery of the notice to the Department required under paragraph (d)(1) below or, if the request is made by the Department after such notice has been given, within ten (10) days after such request has been made.
 
-   (1) The owner of any property which will be served by a new sewer connection to a sewer system, or by an alteration or modification of a sewer connection to a sewer system, shall notify the Department 48 hours prior to the installation of such sewer connection or of such alteration or modification, and provide an opportunity to the Department to observe the work. If required or requested pursuant to subsection 18-37(d), the owner shall submit to the Department all plans or designs for such sewer connection or for such alteration or modification prior to or simultaneously with the delivery of such notice to the Department.
+   (1) The owner of any property which will be served by a new sewer connection to a sewer system, or by an alteration or modification of a sewer connection to a sewer system, shall notify the Department 48 hours prior to the installation of such sewer connection or of such alteration or modification, and provide an opportunity to the Department to observe the work. If required or requested pursuant to 15 RCNY § 18-37(d), the owner shall submit to the Department all plans or designs for such sewer connection or for such alteration or modification prior to or simultaneously with the delivery of such notice to the Department.
 
 (e) The design, construction and plans for a new sewer system or sewer extension shall require the review and approval of the Department. Any proposed alteration or modification of a sewer system, including a sewer system that is a noncomplying regulated activity, shall require the review and approval of the Department.
 
@@ -8621,7 +8622,7 @@ Unless otherwise permitted by these rules and regulations, a discharge, or stora
 
    (5) Raised systems, as described in 10 NYCRR Part 75 and Appendix 75-A, are allowed on undeveloped lots not located in a subdivision or on undeveloped residential lots located in a subdivision which was approved prior to the effective date of these rules and regulations, where site conditions are not suitable for a conventional system provided that:
 
-      (i) The system shall be located at least 250 feet from any watercourse or wetland and 500 feet from any reservoir, reservoir stem or controlled lake provided that the greater limiting distance for raised systems does not preclude construction on the subject lot or lots of the use proposed by the applicant, and further provided that the site conditions and the subsurface sewage treatment system comply with the other provisions of these rules and regulations and other applicable Federal, State and local laws, as cited in § 18-38(a)(1); or
+      (i) The system shall be located at least 250 feet from any watercourse or wetland and 500 feet from any reservoir, reservoir stem or controlled lake provided that the greater limiting distance for raised systems does not preclude construction on the subject lot or lots of the use proposed by the applicant, and further provided that the site conditions and the subsurface sewage treatment system comply with the other provisions of these rules and regulations and other applicable Federal, State and local laws, as cited in 15 RCNY § 18-38(a)(1); or
 
       (ii) Raised systems which cannot meet the limiting distances set forth in subparagraph (i) due to size or location of the lot shall be located at the greatest limiting distance possible within the property lines and at least 100 feet from any watercourse or wetland and 300 feet from any reservoir, reservoir stem or controlled lake.
 
@@ -8765,7 +8766,7 @@ Unless otherwise permitted by these rules and regulations, a discharge, or stora
 
    (7) The following requirements are applicable to creation of an impervious surface within a designated village center:
 
-      (i) A local government in the Croton System may delineate an area within the local government's boundaries to be a "designated village center" in a Comprehensive Croton Water Quality Protection Plan prepared and agreed to in accordance with § 18-82 of these rules and regulations. Such designated village center shall comply with the requirements of this paragraph with regard to the construction of impervious surfaces.
+      (i) A local government in the Croton System may delineate an area within the local government's boundaries to be a "designated village center" in a Comprehensive Croton Water Quality Protection Plan prepared and agreed to in accordance with 15 RCNY § 18-82. Such designated village center shall comply with the requirements of this paragraph with regard to the construction of impervious surfaces.
 
       (ii) Within a designated village center the construction of a new impervious surface within the limiting distance of 100 feet of a watercourse or wetland, or within the limiting distance of 300 feet of a reservoir, reservoir stem, or controlled lake requires the review and approval of the Department. An approval issued by the Department pursuant to this subparagraph shall contain a determination by the Department that there is no reasonable alternative to the creation of the proposed new impervious surface within the applicable limiting distance and that the best available measures have been taken to prevent adverse impacts on the quality of the drinking water supply.
 
@@ -8831,7 +8832,7 @@ Unless otherwise permitted by these rules and regulations, a discharge, or stora
 
    (1) When any activity listed in paragraph (3) of subdivision (b) of this section is proposed to be undertaken in the drainage basin of a terminal reservoir, as identified in the watershed maps in Appendix 18-A, the stormwater pollution prevention plan shall include analysis of coliform runoff, before and after the land disturbance activity.
 
-      (i) If such proposed activity causes or contributes to the contravention of the coliform standard set forth in § 18-48(b)(1) of Subchapter D, the stormwater pollution prevention plan shall not be approved by the Department, unless the measures required by the stormwater pollution prevention plan in conjunction with any other controls to be imposed that limit future land disturbance at the site, including but not limited to property easements, restrictive covenants, zoning laws and development by-laws, will prevent the contribution of additional coliform.
+      (i) If such proposed activity causes or contributes to the contravention of the coliform standard set forth in 15 RCNY § 18-48(b)(1), the stormwater pollution prevention plan shall not be approved by the Department, unless the measures required by the stormwater pollution prevention plan in conjunction with any other controls to be imposed that limit future land disturbance at the site, including but not limited to property easements, restrictive covenants, zoning laws and development by-laws, will prevent the contribution of additional coliform.
 
    (2) Stormwater Conveyance Measures. Stormwater pollution prevention plans prepared pursuant to this section shall provide for the maintenance of natural drainage systems, including perennial and intermittent streams, and the use of swales and drainage ditches in an open condition to the maximum extent practicable. A stormwater pollution prevention plan shall ensure that any closed stormwater conveyance measures are sized appropriately to convey, at a minimum, the 10-year, 24-hour storm flow.
 
@@ -8861,7 +8862,7 @@ Unless otherwise permitted by these rules and regulations, a discharge, or stora
 
       (ii) The information required in a Notice of Intent under New York State Department of Environmental Conservation SPDES General Permit No. GP-0-10-001.
 
-   (2) When the Department notifies an applicant that an application for approval of a stormwater pollution prevention plan is complete pursuant to subdivision 18-23(d)(2) and (3) of Subchapter B, the Department shall also issue a written notification to the Stormwater Project Review Committee ("Committee") for the Town(s) or Village in which the activity requiring preparation of the stormwater pollution prevention plan is proposed to be located, of the Department's receipt of a complete application.
+   (2) When the Department notifies an applicant that an application for approval of a stormwater pollution prevention plan is complete pursuant to 15 RCNY § 18-23(d)(2) and (3), the Department shall also issue a written notification to the Stormwater Project Review Committee ("Committee") for the Town(s) or Village in which the activity requiring preparation of the stormwater pollution prevention plan is proposed to be located, of the Department's receipt of a complete application.
 
       (i) If requested by one or more members of the Committee, the Department shall submit a copy of the complete application to the Committee for its review and shall convene a meeting, in person or by telephone, of the Committee.
 
@@ -8873,7 +8874,7 @@ Unless otherwise permitted by these rules and regulations, a discharge, or stora
 
       (ii) If the Department's Committee member disagrees with the majority recommendation of the Committee, the application, together with the written recommendation of the Committee, shall be submitted to the Commissioner of the Department for review and a determination. The Commissioner shall issue a written record of decision setting forth the basis for the determination and responding to any contrary written recommendations submitted by any member of the Committee.
 
-      (iii) If the Committee fails to make a recommendation to the Department at least fifteen (15) days prior to the date the Department is required to notify an applicant in writing of its determination pursuant to subdivision 18-23(d)(5) of Subchapter B, the Department may proceed to issue its determination and the Department shall not be required by these rules and regulations to further consult with or consider the comments of the Committee or any member of the Committee.
+      (iii) If the Committee fails to make a recommendation to the Department at least fifteen (15) days prior to the date the Department is required to notify an applicant in writing of its determination pursuant to 15 RCNY § 18-23(d)(5), the Department may proceed to issue its determination and the Department shall not be required by these rules and regulations to further consult with or consider the comments of the Committee or any member of the Committee.
 
    (4) Failure of any Committee member, other than the Department Committee member, to act in accordance with the procedures or within the time frames set forth in these rules and regulations, shall relieve the Department of any obligation to consult with or consider the comments of the Committee member. Failure of any Committee member, other than the Department Committee member, to act in accordance with the procedures or within the time frames set forth in these rules and regulations, shall not invalidate any determination issued by the Department.
 
@@ -8937,7 +8938,7 @@ Unless otherwise permitted by these rules and regulations, a discharge, or stora
 
 (c) Only construction and demolition debris that is recognizable uncontaminated concrete, asphalt pavement, brick, soil, stone, trees or stumps, wood chips, or yard waste may be used as fill in the watershed.
 
-(d) All new solid waste management facilities, or altered or modified existing solid waste management facilities within the limiting distance of 300 feet of a watercourse or wetland, or within the limiting distance of 500 feet of a reservoir, reservoir stem, or controlled lake, are required to submit stormwater pollution prevention plans to the Department for review and approval, in accordance with § 18-39(b)(3)(v) of these rules and regulations.
+(d) All new solid waste management facilities, or altered or modified existing solid waste management facilities within the limiting distance of 300 feet of a watercourse or wetland, or within the limiting distance of 500 feet of a reservoir, reservoir stem, or controlled lake, are required to submit stormwater pollution prevention plans to the Department for review and approval, in accordance with 15 RCNY § 18-39(b)(3)(v).
 
 
 
@@ -9096,7 +9097,7 @@ Unless otherwise permitted by these rules and regulations, the discharge or use,
 
    (5) Except for a variance granted for an alteration or modification of a noncomplying regulated activity, a grant of a variance for a regulated activity shall not be deemed to make such activity a noncomplying regulated activity under these rules and regulations.
 
-(b) An appeal of a denial of a variance for a regulated activity or a denial of a variance for an alteration or modification of a noncomplying regulated activity may be made in the manner specified in § 18-28 of Subchapter B of these rules and regulations.
+(b) An appeal of a denial of a variance for a regulated activity or a denial of a variance for an alteration or modification of a noncomplying regulated activity may be made in the manner specified in 15 RCNY § 18-28.
 
 (c) Failure to comply with any condition of a variance for a regulated activity, or for a variance for an alteration or modification of a noncomplying regulated activity shall be a violation of these rules and regulations. The Department shall review the terms and conditions of each variance granted at least once every five years to determine whether the terms and conditions of the variance have been complied with.
 
@@ -9108,7 +9109,7 @@ Unless otherwise permitted by these rules and regulations, the discharge or use,
 
 (e) Variances Within the 60 Day Travel Time to Intake in the Croton System.
 
-   (1) The Department may grant a variance from the prohibition set forth in § 18-36(d)(2)(i) against locating a new wastewater treatment plant or expanding an existing wastewater treatment plant in the Croton System, within the 60 day travel time to intake, where the Department has made the following determinations:
+   (1) The Department may grant a variance from the prohibition set forth in 15 RCNY § 18-36(d)(2)(i) against locating a new wastewater treatment plant or expanding an existing wastewater treatment plant in the Croton System, within the 60 day travel time to intake, where the Department has made the following determinations:
 
       (i) One of the following situations is present:
 
@@ -9175,7 +9176,7 @@ Unless otherwise permitted by these rules and regulations, the discharge or use,
 *§ 18-71 Certification of Administrative Programs.* ::
 
 
-(a)  The local government of a town, city, village or county may apply to the Department, care of the Engineering Section (see § 18-15), for certification of a program to administer specific provisions of these rules and regulations.
+(a)  The local government of a town, city, village or county may apply to the Department, care of the Engineering Section (see 15 RCNY § 18-15), for certification of a program to administer specific provisions of these rules and regulations.
 
 (b) A local government's proposed program for administration of specific provisions of these rules and regulations may include processing and review of, and determinations on, applications for approval of specific regulated activities.
 
@@ -9251,7 +9252,7 @@ Unless otherwise permitted by these rules and regulations, the discharge or use,
 *§ 18-75 Certification of Enforcement Programs.* ::
 
 
-(a)  The local government of a town, city, village or county may apply to the Department, care of the Engineering Section (see § 18-15) for certification of a program to enforce specific provisions of these rules and regulations.
+(a)  The local government of a town, city, village or county may apply to the Department, care of the Engineering Section (see 15 RCNY § 18-15) for certification of a program to enforce specific provisions of these rules and regulations.
 
 (b) A local government's proposed program for enforcement of specific provisions of these rules and regulations may include the following:
 
@@ -9273,7 +9274,7 @@ Unless otherwise permitted by these rules and regulations, the discharge or use,
 
    (6) Any other information requested by the Department.
 
-(d) The Department shall review an application for certification in accordance with the procedures set forth in subdivision (d) of § 18-71. A determination to certify shall be based upon a finding by the Department that the resources, funding and enforcement program proposed by the applicant will provide a level of efficiency and effective protection of the water supply equal to that which would otherwise be provided by the Department under these rules and regulations. Any memorandum of understanding for an enforcement program shall provide that the designated enforcement personnel of the local government shall be agents of the Department for purposes of enforcement of specific provisions of these rules and regulations, and provided further, that such memorandum of understanding shall state that the Department shall retain the authority to enforce these rules and regulations in addition to any enforcement by the local government.
+(d) The Department shall review an application for certification in accordance with the procedures set forth in subdivision (d) of 15 RCNY § 18-71. A determination to certify shall be based upon a finding by the Department that the resources, funding and enforcement program proposed by the applicant will provide a level of efficiency and effective protection of the water supply equal to that which would otherwise be provided by the Department under these rules and regulations. Any memorandum of understanding for an enforcement program shall provide that the designated enforcement personnel of the local government shall be agents of the Department for purposes of enforcement of specific provisions of these rules and regulations, and provided further, that such memorandum of understanding shall state that the Department shall retain the authority to enforce these rules and regulations in addition to any enforcement by the local government.
 
 
 
@@ -9334,7 +9335,7 @@ Nothing in this Subchapter shall be construed to allow the designated administra
 *§ 18-81 Local Government Stormwater Protection Plans.* ::
 
 
-(a)  A local government of a town, village, or county in the watershed may submit to the Department for review and approval a proposed local government stormwater protection plan ("Stormwater Plan") to undertake all or some aspects of watershed protection as set forth in § 18-39 of these rules and regulations. The Stormwater Plan may be submitted individually by a local government or jointly with one or more adjoining local government(s) in accordance with the requirements of this Subchapter.
+(a)  A local government of a town, village, or county in the watershed may submit to the Department for review and approval a proposed local government stormwater protection plan ("Stormwater Plan") to undertake all or some aspects of watershed protection as set forth in 15 RCNY § 18-39. The Stormwater Plan may be submitted individually by a local government or jointly with one or more adjoining local government(s) in accordance with the requirements of this Subchapter.
 
    (1) Within 90 days of receipt by the Department of a proposed Stormwater Plan, the Department shall review the proposed Stormwater Plan to determine whether it meets the requirements of this Section and notify the local government, in writing, whether the proposed Stormwater Plan is approved;
 
@@ -9342,15 +9343,15 @@ Nothing in this Subchapter shall be construed to allow the designated administra
 
    (3) If the Department fails to notify the local government(s) within ten (10) business days of the receipt of such notice the Stormwater Plan shall be deemed approved subject to the terms and conditions set forth in the most recent submission by the local government(s).
 
-(b) Pursuant to the terms and conditions of an approved Stormwater Plan, the Department may issue a waiver from specific provisions of § 18-39 of these rules and regulations, including the prohibition of construction of an impervious surface within the limiting distance of 100 feet of a watercourse or wetland or within the limiting distance of 300 feet of a reservoir, reservoir stem or controlled lake, for all applicants of projects located within some or all of the geographical area of the local government(s). The Department may issue such waivers after a local government(s) has an approved Stormwater Plan.
+(b) Pursuant to the terms and conditions of an approved Stormwater Plan, the Department may issue a waiver from specific provisions of 15 RCNY § 18-39, including the prohibition of construction of an impervious surface within the limiting distance of 100 feet of a watercourse or wetland or within the limiting distance of 300 feet of a reservoir, reservoir stem or controlled lake, for all applicants of projects located within some or all of the geographical area of the local government(s). The Department may issue such waivers after a local government(s) has an approved Stormwater Plan.
 
 (c) An approvable Stormwater Plan shall include:
 
-   (1) The specific provision(s) of § 18-39 of these rules and regulations from which the waiver is sought;
+   (1) The specific provision(s) of 15 RCNY § 18-39 from which the waiver is sought;
 
    (2) A description of the metes and bounds of the geographical area (town, village, county, or part thereof) for which the waiver is sought, including a map of the described area;
 
-   (3) Mechanisms to be established by the local government that are at least as protective of the watershed reservoir drainage basin in which the waiver will be effective as the specific provisions of § 18-39 of these rules and regulations from which the waiver is sought;
+   (3) Mechanisms to be established by the local government that are at least as protective of the watershed reservoir drainage basin in which the waiver will be effective as the specific provisions of 15 RCNY § 18-39 from which the waiver is sought;
 
    (4) A commitment by the local government(s) to implement each element of the Stormwater Plan in accordance with the terms of the Stormwater Plan and a schedule for implementation of all elements of the Stormwater Plan;
 
@@ -9384,9 +9385,9 @@ Nothing in this Subchapter shall be construed to allow the designated administra
 
 (f) Once the Stormwater Plan is approved by the Department, the Stormwater Plan shall be considered valid and effective.
 
-   (1) The local governments proposing the Stormwater Plan may, upon written notice to the City, modify the plan at any time after it has been agreed upon. If the Stormwater Plan is proposed to be modified, the Department shall make a determination within 60 days of notice of the proposed modification, whether the Stormwater Plan as modified shall continue to be valid and effective. In making such a determination, the Department shall consider whether the Stormwater Plan as modified, taken as a whole, continues to be at least as protective of the watershed as the specific provisions of § 18-39 of these rules and regulations from which the waiver applies. The Stormwater Plan shall continue to be valid and effective during the period the Department's review of any proposed modification. If the Department determines that the proposed modification would cause the Stormwater Plan to be not as protective as the provisions of § 18-39 of these rules and regulations which are being waived, the Department shall so notify the local government(s). The existing and approved Stormwater Plan will then remain valid and effective until and unless the local government(s) implemented the proposed changes to the Stormwater Plan.
+   (1) The local governments proposing the Stormwater Plan may, upon written notice to the City, modify the plan at any time after it has been agreed upon. If the Stormwater Plan is proposed to be modified, the Department shall make a determination within 60 days of notice of the proposed modification, whether the Stormwater Plan as modified shall continue to be valid and effective. In making such a determination, the Department shall consider whether the Stormwater Plan as modified, taken as a whole, continues to be at least as protective of the watershed as the specific provisions of 15 RCNY § 18-39 from which the waiver applies. The Stormwater Plan shall continue to be valid and effective during the period the Department's review of any proposed modification. If the Department determines that the proposed modification would cause the Stormwater Plan to be not as protective as the provisions of 15 RCNY § 18-39 which are being waived, the Department shall so notify the local government(s). The existing and approved Stormwater Plan will then remain valid and effective until and unless the local government(s) implemented the proposed changes to the Stormwater Plan.
 
-   (2) If at any time the Department determines that the local government's administration of all or part of the Stormwater Plan is not as protective as the provisions of § 18-39 of these rules and regulations which are being waived, the Department may revoke or modify the Stormwater Plan after notice has been given to the local government and an opportunity to meet and discuss the problem has been provided.
+   (2) If at any time the Department determines that the local government's administration of all or part of the Stormwater Plan is not as protective as the provisions of 15 RCNY § 18-39 which are being waived, the Department may revoke or modify the Stormwater Plan after notice has been given to the local government and an opportunity to meet and discuss the problem has been provided.
 
    (3) Upon a final determination to revoke the Stormwater Plan the waivers issued thereunder shall be void and the watershed rules and regulations contained herein shall be applicable in the area of the watershed that was previously exempt pursuant to the waivers issued under the Stormwater Plan.
 
@@ -9400,7 +9401,7 @@ Nothing in this Subchapter shall be construed to allow the designated administra
 *§ 18-82 Watershed Planning in the Croton System.* ::
 
 
-(a)  Notwithstanding the prohibitions set forth in § 18-36 on new or expanded wastewater treatment plants with surface discharges within the sixty day travel time to intake or within phosphorus restricted basins, the Department shall allow for the preparation and implementation of a Comprehensive Croton System Water Quality Protection Plan ("Croton Plan") and an accompanying phosphorus offset program and diversion credit program in accordance with this § 18-82. Section 18-82 is independent of, does not govern, and is not governed by, § 18-81.
+(a)  Notwithstanding the prohibitions set forth in 15 RCNY § 18-36 on new or expanded wastewater treatment plants with surface discharges within the sixty day travel time to intake or within phosphorus restricted basins, the Department shall allow for the preparation and implementation of a Comprehensive Croton System Water Quality Protection Plan ("Croton Plan") and an accompanying phosphorus offset program and diversion credit program in accordance with this 15 RCNY § 18-82. 15 RCNY § 18-82 is independent of, does not govern, and is not governed by, 15 RCNY § 18-81.
 
 (b) (1) At the request of Dutchess, Putnam or Westchester County, and in partnership with Dutchess, Putnam or Westchester County, and the municipalities located in the Croton system watershed, the Department shall prepare or assist in the preparation of a Croton Plan only in a participating County or Counties which:
 
@@ -9448,9 +9449,9 @@ Nothing in this Subchapter shall be construed to allow the designated administra
 
       (v) With respect to future land use issues, identification of mechanisms to ensure the improvement and protection of water quality is taken into consideration by the local government and that the local government agrees to use best efforts to implement such mechanisms; and
 
-      (vi) At the option of the local government, designation of "village centers" as provided for in § 18-39(a)(7)(i) of these rules and regulations.
+      (vi) At the option of the local government, designation of "village centers" as provided for in 15 RCNY § 18-39(a)(7)(i).
 
-(d) (1) If a County requests, pursuant to § 18-82(b), that a Croton Plan be developed within five (5) years of the effective date of these rules and regulations, the Department, in partnership with the participating Counties and municipalities, and in consultation with the New York State Department of Health, shall complete a draft Croton Plan and release such draft Croton Plan for public review and comment. If a Croton Plan has been prepared by a County and its municipalities, the County and municipalities, in partnership with the Department and in consultation with the New York State Department of Health, shall complete a draft Croton Plan within five (5) years of the effective date of these rules and regulations and release such draft Croton Plan for public review and comment. The Department, the participating Counties and municipalities shall consider and respond to comments received from the public in preparing the final Croton Plan.
+(d) (1) If a County requests, pursuant to 15 RCNY § 18-82(b), that a Croton Plan be developed within five (5) years of the effective date of these rules and regulations, the Department, in partnership with the participating Counties and municipalities, and in consultation with the New York State Department of Health, shall complete a draft Croton Plan and release such draft Croton Plan for public review and comment. If a Croton Plan has been prepared by a County and its municipalities, the County and municipalities, in partnership with the Department and in consultation with the New York State Department of Health, shall complete a draft Croton Plan within five (5) years of the effective date of these rules and regulations and release such draft Croton Plan for public review and comment. The Department, the participating Counties and municipalities shall consider and respond to comments received from the public in preparing the final Croton Plan.
 
    (2) Within six (6) months after the release of the draft Croton Plan, the final Croton Plan shall be agreed to by the Department and the Counties and municipalities which participated in the preparation of the Croton Plan, and in consultation with the New York State Department of Health. In determining whether to agree to the Croton Plan, the Department will consider the Croton Plan, including the level of commitments therein, taken as a whole and consistent with subsection (d) of this section, meets the overall goals of the Croton Plan, set forth in subsection (b) of this section. The Department will not approve or disapprove individual components of the Croton Plan. The Department and the participating Counties and municipalities shall make a reasonable effort to resolve any and all issues which preclude their agreement to the Croton Plan. The five (5) year period referred to in paragraph (1) above, and/or the six (6) month period referred to in this paragraph (2) may be extended by agreement of the Department and the participating Counties and municipalities. In addition, the participating Counties and municipalities may, at any time, agree to discontinue the development of the Croton Plan.
 
@@ -9480,9 +9481,9 @@ Nothing in this Subchapter shall be construed to allow the designated administra
 
       (i) The total volume (or flow) of surface discharge from such new wastewater treatment plant or expansion of an existing wastewater treatment plant, together with the total volume of surface discharges from all other new wastewater treatment plants and expansions of wastewater treatment plants which have been permitted in the subject County pursuant to this subparagraph (i), shall not, in the aggregate, exceed 10 percent of the total volume (or flow) of surface discharge from wastewater treatment plants located in the Croton system, within the subject County, which previously discharged into the Croton system but have been permanently diverted, since the effective date of these rules and regulations, to a discharge point outside of the Watershed. The Department may approve applications to construct new wastewater treatment plants with surface discharges pursuant to this subdivision prior to the permanent diversion of wastewater, and allow construction to begin on such new wastewater treatment plants, provided that the wastewater treatment plant may not commence operation until the diversion for which the credit is received has actually occurred; or
 
-      (ii) In phosphorus restricted basins located outside of the sixty day travel time, provided that the Department has determined pursuant to § 18-84, based upon the results of the pilot programs set forth in §§ 18-82(g) and 18-83(a), or of other studies conducted within the watershed, that the phosphorus offsets sought by the pilot programs have been achieved, the Department may require that for each one (1) kilogram of projected increase in the phosphorus load resulting from the proposed new wastewater treatment plant, together with any accompanying non-point source runoff, is actually offset by at least three (3) kilograms of reductions in phosphorus loading within the basin within which the proposed project is located, including reductions from measures identified in and implemented in accordance with the Croton Plan pursuant to paragraph (c)(8) above, and otherwise eligible for an offset hereunder, whether the source of the offsets is in the same basin or within an upstream, hydrologically connected phosphorus restricted basin.
+      (ii) In phosphorus restricted basins located outside of the sixty day travel time, provided that the Department has determined pursuant to 15 RCNY § 18-84, based upon the results of the pilot programs set forth in 15 RCNY §§ 18-82(g) and 18-83(a), or of other studies conducted within the watershed, that the phosphorus offsets sought by the pilot programs have been achieved, the Department may require that for each one (1) kilogram of projected increase in the phosphorus load resulting from the proposed new wastewater treatment plant, together with any accompanying non-point source runoff, is actually offset by at least three (3) kilograms of reductions in phosphorus loading within the basin within which the proposed project is located, including reductions from measures identified in and implemented in accordance with the Croton Plan pursuant to paragraph (c)(8) above, and otherwise eligible for an offset hereunder, whether the source of the offsets is in the same basin or within an upstream, hydrologically connected phosphorus restricted basin.
 
-   (5) With respect to any new or expanded wastewater treatment plant allowed pursuant to this subdivision (e), the Department will not impose additional requirements on the siting of such new or expanded wastewater treatment plant other than the requirements specifically set forth in these rules and regulations applicable to all wastewater treatment plants, the requirements of this subdivision (e), and, with respect to new or expanded wastewater treatment plants in phosphorus restricted basins relying on phosphorus offsets, the requirements of any phosphorus offset program pursuant to §§ 18-82(g), 18-83(a) and 18-84.
+   (5) With respect to any new or expanded wastewater treatment plant allowed pursuant to this subdivision (e), the Department will not impose additional requirements on the siting of such new or expanded wastewater treatment plant other than the requirements specifically set forth in these rules and regulations applicable to all wastewater treatment plants, the requirements of this subdivision (e), and, with respect to new or expanded wastewater treatment plants in phosphorus restricted basins relying on phosphorus offsets, the requirements of any phosphorus offset program pursuant to 15 RCNY §§ 18-82(g), 18-83(a) and 18-84.
 
 (f) (1) A County or municipality wishing to participate in the preparation of the Croton Plan shall indicate its intention to participate by written notice to the Department given within one year of the effective date of these rules and regulations. Such notice shall include a commitment by the subject County or municipality to cooperate with the Department in generating and analyzing the data and information reasonably necessary to address the Croton Plan elements identified in subdivision (c) above, and an agreement to minimize the use of offsets as a basis for new wastewater treatment plants or expansions of existing wastewater treatment plants pursuant to subdivision (e), to the extent that the economic and social needs of such County or municipality can be reasonably addressed without the use of such offsets.
 
@@ -9498,7 +9499,7 @@ Nothing in this Subchapter shall be construed to allow the designated administra
 
    (2) The applicant demonstrates, and commits to take action to insure, that for every one (1) kilogram of projected increase in the phosphorus load resulting from the new wastewater treatment plant and accompanying non-point source runoff, there will be an offset which achieves at least three (3) kilograms of reduction in phosphorus within the basin in which the new wastewater treatment plant is located, whether the source of the offset is in the same basin or within an upstream hydrologically connected phosphorus restricted basin;
 
-   (3) All new wastewater treatment plants proposed to be constructed pursuant to this pilot program shall be reviewed and approved by the Department in accordance with § 18-36 of these rules and regulations;
+   (3) All new wastewater treatment plants proposed to be constructed pursuant to this pilot program shall be reviewed and approved by the Department in accordance with 15 RCNY § 18-36;
 
    (4) No more than three (3) wastewater treatment plants with surface discharges may be located in the Croton system in Putnam County pursuant to this pilot program. The total capacity, as constructed, for the three (3) proposed wastewater treatment plants shall not exceed a maximum of 150,000 gpd aggregate surface discharge; and
 
@@ -9540,13 +9541,13 @@ Nothing in this Subchapter shall be construed to allow the designated administra
 *§ 18-84 Permanent Phosphorus Offset Program.* ::
 
 
-(a)  Upon completion of the pilot programs set forth in §§ 18-82(g) and 18-83(a), the Department may determine, based on the results of the pilot program or of other studies conducted in the Watershed that:
+(a)  Upon completion of the pilot programs set forth in 15 RCNY §§ 18-82(g) and 18-83(a), the Department may determine, based on the results of the pilot program or of other studies conducted in the Watershed that:
 
-   (1) Phosphorus offsets sought pursuant to §§ 18-82(g) and 18-83(a) have been achieved and that a permanent phosphorus offset program should be established, with such conditions as may be appropriate based on the results of the pilot program or other studies conducted in the Watershed.
+   (1) Phosphorus offsets sought pursuant to 15 RCNY §§ 18-82(g) and 18-83(a) have been achieved and that a permanent phosphorus offset program should be established, with such conditions as may be appropriate based on the results of the pilot program or other studies conducted in the Watershed.
 
-      (i) Pending completion of any necessary rulemaking for the continuation of a permanent phosphorus offset program, including any appropriate modifications thereto, the Department may allow the construction of new wastewater treatment plants with surface discharges into phosphorus restricted basins located outside of the sixty day travel time on a case-by-case basis pursuant to the standards set forth in subsection 18-61 and subject to such conditions as may be appropriate based upon the results of the pilot program and other studies conducted in the watershed; or
+      (i) Pending completion of any necessary rulemaking for the continuation of a permanent phosphorus offset program, including any appropriate modifications thereto, the Department may allow the construction of new wastewater treatment plants with surface discharges into phosphorus restricted basins located outside of the sixty day travel time on a case-by-case basis pursuant to the standards set forth in 15 RCNY § 18-61 and subject to such conditions as may be appropriate based upon the results of the pilot program and other studies conducted in the watershed; or
 
-   (2) There is insufficient data on which to make a determination that phosphorus offsets have been achieved; therefore, the time frame for the pilot programs shall be extended for a period not to exceed five years to allow for the acquisition of further data. Nothing contained in this subdivision shall allow for an increase in the number or size of the wastewater treatment plants allowed pursuant to the pilot programs as set forth in §§ 18-82(g) and 18-83(a).
+   (2) There is insufficient data on which to make a determination that phosphorus offsets have been achieved; therefore, the time frame for the pilot programs shall be extended for a period not to exceed five years to allow for the acquisition of further data. Nothing contained in this subdivision shall allow for an increase in the number or size of the wastewater treatment plants allowed pursuant to the pilot programs as set forth in 15 RCNY §§ 18-82(g) and 18-83(a).
 
    (3) In the West of Hudson watershed, in any permanent phosphorus offset program, provided the applicant demonstrates, and commits to take action to insure, that every one (1) kilogram of projected increase in the phosphorus load resulting from the new wastewater treatment plant or the expansion of an existing plant, and the accompanying non-point source runoff will be actually offset by at least three (3) kilograms of reductions in phosphorus loading within the basin in which such new wastewater treatment plant, or the expansion of an existing plant, is located, the applicant may use as an offset any phosphorus reduction funded by the Catskill Fund for the Future or achieved from stormwater pollution prevention measures installed on existing structures or impervious surfaces in a village center or hamlet and funded by the Department.
 
@@ -9567,6 +9568,26 @@ The provisions of these rules and regulations shall be severable, and if any ite
 
 
 
+
+
+
+
+**Appendix A Watershed Maps**
+
+
+
+
+**Appendix B System Specific Water Quality Characteristics**
+
+
+
+
+**Appendix C Tests for Analytical Determination of Concentrations of Elements**
+
+
+
+
+**Appendix D Hazardous Waste and Pesticide Standards [Repealed]**
 
 Chapter 19: Use of the Public Sewers
 --------------------------------------------------
@@ -9668,7 +9689,7 @@ ppb. "ppb" shall mean parts per billion by volume in air or by weight in water.
 
 Premises. "Premises" shall mean any parcel of real property including land, improvements or appurtenances, such as buildings.
 
-Pretreatment. "Pretreatment" shall mean any measures to be taken by a user of the public sewer that are necessary in order that the characteristics or amounts of substances discharged to a public sewer, either directly or indirectly, comply with §§ 19-03 or 19-04 of this chapter, including but not limited to the alteration of plant or processes, the installation of equipment and/or the implementation of procedures designed to reduce or eliminate the discharge of pollutants and toxic substances or eliminate any discharge so that compliance with §§ 19-03 or 19-04 is attained.
+Pretreatment. "Pretreatment" shall mean any measures to be taken by a user of the public sewer that are necessary in order that the characteristics or amounts of substances discharged to a public sewer, either directly or indirectly, comply with 15 RCNY §§ 19-03 or 19-04, including but not limited to the alteration of plant or processes, the installation of equipment and/or the implementation of procedures designed to reduce or eliminate the discharge of pollutants and toxic substances or eliminate any discharge so that compliance with 15 RCNY §§ 19-03 or 19-04 is attained.
 
 Private sewer. "Private sewer" shall mean a sewer located either in public or private property, which is privately owned and is controlled by public authority to the extent provided by law.
 
@@ -9818,7 +9839,7 @@ Water separator. "Water separator" shall mean a vessel that uses gravity to phys
 
    (5) Oil sludges, waste oil, motor oil, diesel and other fuels, dielectric fluid, brake fluid, transmission fluid, hydraulic fluid, or other similar substances;
 
-   (6) Non-polar material, as defined in § 19-01, in concentrations greater than 50 mg/L for any given time;
+   (6) Non-polar material, as defined in 15 RCNY § 19-01, in concentrations greater than 50 mg/L for any given time;
 
    (7) Coal tar, its derivatives and waste;
 
@@ -9844,7 +9865,7 @@ Water separator. "Water separator" shall mean a vessel that uses gravity to phys
 
       (ii) violate the toxic discharge limits to be set by the Commissioner, contained in a list to be maintained by the Commissioner and which may be published from time to time in the City Record, or
 
-      (iii) violate any discharge limit contained in § 19-04(a) or ordered pursuant to § 19-04(b).
+      (iii) violate any discharge limit contained in 15 RCNY § 19-04(a) or ordered pursuant to 15 RCNY § 19-04(b).
 
    (12) Any liquids or wastes containing pollutants of such quality and/or quantity that become burdensome in the operation and maintenance of a sewage treatment plant;
 
@@ -9961,13 +9982,13 @@ Water separator. "Water separator" shall mean a vessel that uses gravity to phys
 
       (ii) A plan of the property showing accurately all sewers, drains and house sewer connections;
 
-      (iii) A laboratory determination of the characteristics of the wastewater discharged to a public sewer, if required by the Commissioner. Such a laboratory determination shall be made at the expense of the applicant, and when the applicant has neither the facilities nor professional personnel to properly perform this laboratory determination in accordance with the methods prescribed in the definition of laboratory determination under § 19-01 of this chapter, he shall have the laboratory determination performed and attested to by a person or agency of recognized professional standing. The samples of wastewater for which a laboratory determination is to be made shall be taken in accordance with the direction of the Commissioner and the results shall be transmitted to the Commissioner.
+      (iii) A laboratory determination of the characteristics of the wastewater discharged to a public sewer, if required by the Commissioner. Such a laboratory determination shall be made at the expense of the applicant, and when the applicant has neither the facilities nor professional personnel to properly perform this laboratory determination in accordance with the methods prescribed in the definition of laboratory determination under 15 RCNY § 19-01, he shall have the laboratory determination performed and attested to by a person or agency of recognized professional standing. The samples of wastewater for which a laboratory determination is to be made shall be taken in accordance with the direction of the Commissioner and the results shall be transmitted to the Commissioner.
 
-(d) For discharges which conform or are expected to conform to § 19-03 or 19-04 herein, the Commissioner, nevertheless, may require the installation and maintenance, by a date set by the Commissioner, at the sole expense of the user of the public sewer, of facilities or equipment for the measurement and sampling by departmental personnel of wastewater discharged to a public sewer.
+(d) For discharges which conform or are expected to conform to 15 RCNY § 19-03 or 19-04 herein, the Commissioner, nevertheless, may require the installation and maintenance, by a date set by the Commissioner, at the sole expense of the user of the public sewer, of facilities or equipment for the measurement and sampling by departmental personnel of wastewater discharged to a public sewer.
 
-(e) No person shall cause or allow a new connection to a public sewer of premises, in which one or more establishments that will discharge industrial wastes or other wastes, as defined in this chapter, are to be located, without a written permit from the Commissioner, pursuant to § 24-509 of the Administrative Code. No such permit shall issue unless the Commissioner shall have determined that the characteristics of such discharges will comply with the provisions of § 19-03 or 19-04 herein and approves such connection. If pretreatment is required in order that the discharge to the public sewer comply with § 19-03 or 19-04 herein, review and/or approval by the Commissioner of plans for such pretreatment shall be limited by him or her to the determination of whether such plans conform in principle to the accepted practices in the field of wastewater treatment. No such permit or approval shall be deemed to waive, nor shall any such permit or approval be held to limit the power of the Commissioner to enforce any requirements of these or any other regulations of the Administrative Code or of any other law. The Department, by such permit or approval, shall not incur any liabilities or obligations for the failure of the effluent from such pretreatment to comply with this chapter or any other regulations, the Administrative Code or any other law.
+(e) No person shall cause or allow a new connection to a public sewer of premises, in which one or more establishments that will discharge industrial wastes or other wastes, as defined in this chapter, are to be located, without a written permit from the Commissioner, pursuant to § 24-509 of the Administrative Code. No such permit shall issue unless the Commissioner shall have determined that the characteristics of such discharges will comply with the provisions of 15 RCNY § 19-03 or 19-04 herein and approves such connection. If pretreatment is required in order that the discharge to the public sewer comply with 15 RCNY § 19-03 or 19-04 herein, review and/or approval by the Commissioner of plans for such pretreatment shall be limited by him or her to the determination of whether such plans conform in principle to the accepted practices in the field of wastewater treatment. No such permit or approval shall be deemed to waive, nor shall any such permit or approval be held to limit the power of the Commissioner to enforce any requirements of these or any other regulations of the Administrative Code or of any other law. The Department, by such permit or approval, shall not incur any liabilities or obligations for the failure of the effluent from such pretreatment to comply with this chapter or any other regulations, the Administrative Code or any other law.
 
-(f) For a non-residential direct or indirect discharger of animal fats and/or vegetable oils that either (a) requires a new sewer-connection permit and/or approval, or (b) requires a filing at the New York City Department of Buildings for an alteration and/or repair or the like, of an operation listed in § 19-11(a) of these Rules, or (c) requires the installation of a grease interceptor pursuant to any section of these Rules or any other regulations or law, the Commissioner shall allow a New York State Professional Engineer or a New York State Registered Architect to submit to the Department an application that includes, at a minimum, plans containing grease interceptor sizing calculations and a statement certifying that the sizing and design of any required grease interceptor complies with § 19-11 of these Rules. A sworn Affidavit of Completion shall be submitted to the Department by a New York City Licensed Master Plumber in accordance with all applicable requirements. The sworn affidavit must affirm that the grease interceptor was installed and is operating in accordance with the self-certification application. The owner and/or operator of the establishment where the grease interceptor is installed shall remain liable for the proper installation, operation and maintenance of the interceptor, and shall be subject to the applicable fines, penalties and other sanctions provided in § 24-524 of the Administrative Code of the City of New York if the interceptor is not installed, operated and maintained in conformance with applicable provisions of the Administrative Code and Rules of the Department. No such self-certification shall be deemed to waive, nor shall any such self-certification be held to limit the power of the Commissioner to enforce any requirements of these or any other regulations, or of the Administrative Code or of any other law. The Department shall not incur any liabilities or obligations for the failure of the effluent from such self-certified premises to comply with this chapter or any other regulations, the Administrative Code or any other law.
+(f) For a non-residential direct or indirect discharger of animal fats and/or vegetable oils that either (a) requires a new sewer-connection permit and/or approval, or (b) requires a filing at the New York City Department of Buildings for an alteration and/or repair or the like, of an operation listed in 15 RCNY § 19-11(a), or (c) requires the installation of a grease interceptor pursuant to any section of these Rules or any other regulations or law, the Commissioner shall allow a New York State Professional Engineer or a New York State Registered Architect to submit to the Department an application that includes, at a minimum, plans containing grease interceptor sizing calculations and a statement certifying that the sizing and design of any required grease interceptor complies with 15 RCNY § 19-11. A sworn Affidavit of Completion shall be submitted to the Department by a New York City Licensed Master Plumber in accordance with all applicable requirements. The sworn affidavit must affirm that the grease interceptor was installed and is operating in accordance with the self-certification application. The owner and/or operator of the establishment where the grease interceptor is installed shall remain liable for the proper installation, operation and maintenance of the interceptor, and shall be subject to the applicable fines, penalties and other sanctions provided in § 24-524 of the Administrative Code of the City of New York if the interceptor is not installed, operated and maintained in conformance with applicable provisions of the Administrative Code and Rules of the Department. No such self-certification shall be deemed to waive, nor shall any such self-certification be held to limit the power of the Commissioner to enforce any requirements of these or any other regulations, or of the Administrative Code or of any other law. The Department shall not incur any liabilities or obligations for the failure of the effluent from such self-certified premises to comply with this chapter or any other regulations, the Administrative Code or any other law.
 
 
 
@@ -10205,7 +10226,7 @@ Water separator. "Water separator" shall mean a vessel that uses gravity to phys
 
 (c) Department requests for comments and their submission by claimants.
 
-   (1) The Department shall give written notice to each business asserting a claim, in accordance with § 19-09(b)(1), stating that written comments, as described in § 19-09(c)(5), must be submitted no later than 15 business days after receipt by the business of the request for comments. The request for comments will indicate the address of the appropriate Department official to whom comments should be sent, and will also state that failure to submit timely comments will be construed as a waiver of the claim. This notice by the Department shall be made in such a manner that the fact and date of receipt may be verified.
+   (1) The Department shall give written notice to each business asserting a claim, in accordance with 15 RCNY § 19-09(b)(1), stating that written comments, as described in 15 RCNY § 19-09(c)(5), must be submitted no later than 15 business days after receipt by the business of the request for comments. The request for comments will indicate the address of the appropriate Department official to whom comments should be sent, and will also state that failure to submit timely comments will be construed as a waiver of the claim. This notice by the Department shall be made in such a manner that the fact and date of receipt may be verified.
 
    (2) The comment period may be extended, if, before comments are due, a written request for an extension has been made and approved by the Department.
 
@@ -10361,7 +10382,7 @@ Water separator. "Water separator" shall mean a vessel that uses gravity to phys
 
  
 
-Note: Aggregate volume is the maximum volume (e.g. length times width times height to the overflow if rectangular) in cubic inches of all fixtures, vessels and receptables that may flow simultaneously through the interceptor. * Subject to the sizing requirements specified in § 19-11(i) through (p). If a premises contains fixtures listed in Table I and fixtures, vessels and/or receptacles listed in Table II, all of which are tributary to the same grease interceptor, then the method for determining the minimum grease interceptor retaining capacity, in pounds, shall be to separately calculate the retaining capacities for the fixtures in Table I, and the fixtures, vessels and/or receptacles in Table II. These retaining capacities shall then be added together to obtain the total minimum grease interceptor retaining capacity required for such premises. If the aggregate volumes listed in Tables I and II are exceeded then a New York State Licensed Professional Engineer or a New York State Registered Architect shall extrapolate the appropriate grease interceptor sizing requirements.
+Note: Aggregate volume is the maximum volume (e.g. length times width times height to the overflow if rectangular) in cubic inches of all fixtures, vessels and receptables that may flow simultaneously through the interceptor. * Subject to the sizing requirements specified in 15 RCNY § 19-11(i) through (p). If a premises contains fixtures listed in Table I and fixtures, vessels and/or receptacles listed in Table II, all of which are tributary to the same grease interceptor, then the method for determining the minimum grease interceptor retaining capacity, in pounds, shall be to separately calculate the retaining capacities for the fixtures in Table I, and the fixtures, vessels and/or receptacles in Table II. These retaining capacities shall then be added together to obtain the total minimum grease interceptor retaining capacity required for such premises. If the aggregate volumes listed in Tables I and II are exceeded then a New York State Licensed Professional Engineer or a New York State Registered Architect shall extrapolate the appropriate grease interceptor sizing requirements.
 
 (d) Vented flow control fittings shall be installed to insure that the flow capacity of the grease interceptor, as specified by the manufacturer, is not exceeded. Flow-control valves and/or fittings that are manually adjustable may not be used to limit flow to an interceptor.
 
@@ -10401,7 +10422,7 @@ Note: Aggregate volume is the maximum volume (e.g. length times width times heig
 
 (s) Notwithstanding any other provision of this section, (1) existing grease interceptors shall conform to the specific requirements of this section no later than one year after the effective date of this section and (2) grease interceptors installed after the effective date of this section pursuant to an application filed before such effective date shall conform to the specific requirements of this section no later than 90 days after such effective date.
 
-(t) Notwithstanding anything contained in § 19-11 the Commissioner, in his discretion, may require any grease interceptor to be installed, at any time, and to have a retention capacity equal to those listed in Tables I and/or II.
+(t) Notwithstanding anything contained in 15 RCNY § 19-11 the Commissioner, in his discretion, may require any grease interceptor to be installed, at any time, and to have a retention capacity equal to those listed in Tables I and/or II.
 
 
 
@@ -10488,7 +10509,7 @@ Chapter 20: Governing and Restricting the Use and Supply of Water
 *§ 20-01 Permits.* ::
 
 
-(a)  General information. Subject to the provisions of this chapter, permits will be issued for the following purposes upon receipt of proper applications and permit fees:
+(a) General information. Subject to the provisions of this chapter, permits will be issued for the following purposes upon receipt of proper applications and permit fees:
 
    Hydrant, Use of
 
@@ -10520,7 +10541,7 @@ Chapter 20: Governing and Restricting the Use and Supply of Water
 
 All work under a permit shall be performed by the permittee and/or persons directly employed and supervised by the permittee.
 
-(b) Issuance. Permit applications shall be submitted, and permits shall be obtained before commencement of any work requiring a permit. Where permits involving plumbing work are required, such permits will be issued only to Licensed Master Plumbers, and to plumbers in the employ of municipal, state or federal agencies and authorities. Permits to set, reset, repair, or disconnect a water meter on service pipes with a diameter of less than one and one-half (11/2) inches may be issued to persons who may lawfully perform such work under § 20-05(c) of these Rules. Meter repair permits may also be issued to meter repair companies for repair on the premises of water meters.
+(b) Issuance. Permit applications shall be submitted, and permits shall be obtained before commencement of any work requiring a permit. Where permits involving plumbing work are required, such permits will be issued only to Licensed Master Plumbers, and to plumbers in the employ of municipal, state or federal agencies and authorities. Permits to set, reset, repair, or disconnect a water meter on service pipes with a diameter of less than one and one-half (11/2) inches may be issued to persons who may lawfully perform such work under 15 RCNY § 20-05(c). Meter repair permits may also be issued to meter repair companies for repair on the premises of water meters.
 
    (1) Any work performed without a permit as required by these Rules shall be a violation.
 
@@ -10544,7 +10565,7 @@ All work under a permit shall be performed by the permittee and/or persons direc
 
 (f) Emergency repairs.
 
-   (1) A Licensed Master Plumber may perform emergency repairs where a defective service or defective interior piping results in leakage of City water and/or immediate danger to the public safety. All required permits must be obtained in accordance with the provisions of § 20-01(b)(2).
+   (1) A Licensed Master Plumber may perform emergency repairs where a defective service or defective interior piping results in leakage of City water and/or immediate danger to the public safety. All required permits must be obtained in accordance with the provisions of 15 RCNY § 20-01(b)(2).
 
    (2) Where it is necessary to open a street for emergency repairs, a Licensed Master Plumber shall obtain an emergency permit from DOT or the agency having jurisdiction to authorize such an opening.
 
@@ -10560,7 +10581,7 @@ All work under a permit shall be performed by the permittee and/or persons direc
 *§ 20-02 Taps to City Water Mains.* ::
 
 
-(a)  Separate supply. A separate corporation stop (tap) and service pipe shall be installed for each building supplied with City water, except for buildings that have service pipes supplied by internal water mains as described in § 20-03 (b). One tax lot cannot be supplied with water from another tax lot. Siamese corporation stops (taps) or service pipes on the inlet side of the main house control valve are prohibited. A service pipe connected to the City main by a T-connection, or by any means other than a corporation stop (tap) or a wet connection, shall be controlled by a gate valve placed in the service pipe, and located within two (2) feet of the point of connection to the main.
+(a)  Separate supply. A separate corporation stop (tap) and service pipe shall be installed for each building supplied with City water, except for buildings that have service pipes supplied by internal water mains as described in 15 RCNY § 20-03(b). One tax lot cannot be supplied with water from another tax lot. Siamese corporation stops (taps) or service pipes on the inlet side of the main house control valve are prohibited. A service pipe connected to the City main by a T-connection, or by any means other than a corporation stop (tap) or a wet connection, shall be controlled by a gate valve placed in the service pipe, and located within two (2) feet of the point of connection to the main.
 
 (b) Connections to city mains.
 
@@ -10580,7 +10601,7 @@ All work under a permit shall be performed by the permittee and/or persons direc
 
    (1) No corporation stop (tap) or wet connection shall be inserted on a fitting or within twenty-four (24) inches of a hub, fitting, hydrant branch, dead end, etc.
 
-   (2) The minimum spacing interval for corporation stops (taps) and wet connections shall be twelve (12) inches for both three quarter (3/4) inch and one (1) inch corporation stops (taps), and eighteen (18) inches for one and one-half (11/2) and two (2) inch corporation stops (taps) and wet connections.
+   (2) The minimum spacing interval for corporation stops (taps) and wet connections shall be twelve (12) inches for both three quarter (3/4) inch and one (1) inch corporation stops (taps), and eighteen (18) inches for one and one-half (1 1/2) and two (2) inch corporation stops (taps) and wet connections.
 
    (3) No corporation stop (tap) or wet connection shall be installed below the horizontal diameter of the main.
 
@@ -10606,7 +10627,7 @@ All work under a permit shall be performed by the permittee and/or persons direc
 
 (i) Use of tap location electrical indicator. When a building is to be demolished and the Tap Location Electrical Indicator Permit has been obtained, the Department will assist a Licensed Master Plumber in locating a tap through the use of an electrical indicator. If the indicator fails to locate the tap within five (5) feet of the expected location, the Licensed Master Plumber will be relieved of the obligation to plug and destroy the tap. No refund or credit of the permit fee will be granted if the indicator fails to locate the tap.
 
-(j) Sizes of corporation stops (taps) and services pipes. The size of the corporation stop (tap) and service pipe to supply a premise shall be determined by the water demand load (gpm) of the premises, as determined by fixture units. In premises used for commercial and industrial purposes, where it is not feasible to determine the size of the tap and service pipe as indicated above, these sizes shall be determined solely by the water demand load (gpm) of the premises. (Tables for determining the appropriate sizes of taps and service pipes are found in Appendix Tables #1, #2 and #3.) The minimum tap shall be three quarter (3/4) inch, and the service pipe shall be at least one (1) inch in diameter. Unless otherwise approved by the Department, all taps shall be the same size as their corresponding service pipes and the goosenecks required by § 20-03(n) shall be the same size as the service pipes.
+(j) Sizes of corporation stops (taps) and services pipes. The size of the corporation stop (tap) and service pipe to supply a premise shall be determined by the water demand load (gpm) of the premises, as determined by fixture units. In premises used for commercial and industrial purposes, where it is not feasible to determine the size of the tap and service pipe as indicated above, these sizes shall be determined solely by the water demand load (gpm) of the premises. (Tables for determining the appropriate sizes of taps and service pipes are found in Appendix Tables #1, #2 and #3.) The minimum tap shall be three quarter (3/4) inch, and the service pipe shall be at least one (1) inch in diameter. Unless otherwise approved by the Department, all taps shall be the same size as their corresponding service pipes and the goosenecks required by 15 RCNY § 20-03(n) shall be the same size as the service pipes.
 
 (k) Fire connections and supply.
 
@@ -10616,9 +10637,9 @@ All work under a permit shall be performed by the permittee and/or persons direc
 
       (ii) For fire service pipes larger than four (4) inches in diameter, the size of the wet connection shall be one size smaller than the size of the fire service pipe.
 
-   (2) Combined service pipes/dual fire and domestic service pipes. A connection for domestic purposes may be made from a fire service pipe only upon approval of the Department of Buildings. For such installations, valve(s) and meter(s) must be installed as required by § 20-05 of these Rules.
+   (2) Combined service pipes/dual fire and domestic service pipes. A connection for domestic purposes may be made from a fire service pipe only upon approval of the Department of Buildings. For such installations, valve(s) and meter(s) must be installed as required by 15 RCNY § 20-05.
 
-   (3) Prohibitions. Fire service pipes shall not be cross-connected with any system of piping except as described in § 20-02(1)(2).
+   (3) Prohibitions. Fire service pipes shall not be cross-connected with any system of piping except as described in 15 RCNY § 20-02(1)(2).
 
 (l) Appointments for tapping, wet connections, and inspections.
 
@@ -10668,7 +10689,7 @@ All work under a permit shall be performed by the permittee and/or persons direc
 
    (1) Design stage approval for internal water mains shall be obtained from both the Department and the Department of Buildings. Approval for a meter shall be obtained from the Department's Bureau of Customer Services and for RPZ settings from the Department's Bureau of Water and Sewer Operations (Cross Connection Control Unit). Requests for approval shall be made by a New York State-Licensed Professional Engineer or Registered Architect.
 
-   (2) Internal water mains shall have, in addition to any meters required by § 20-05 (a), an approved meter and backflow prevention device in a meter vault or above-ground enclosure ("hot box") installed inside the property within two (2) feet of the property line. After installation, such meters at the property line will be owned, maintained, repaired and read by the Department. If a private street in a development remains privately owned, then the meter at the property line shall be used for billing and any individual meters in the development shall be deemed the owner's submeters. If the City assumes possession of a private street in a development, then the meter at the property line shall be used solely for monitoring purposes and any individual meters in the development shall be used for billing.
+   (2) Internal water mains shall have, in addition to any meters required by 15 RCNY § 20-05(a), an approved meter and backflow prevention device in a meter vault or above-ground enclosure ("hot box") installed inside the property within two (2) feet of the property line. After installation, such meters at the property line will be owned, maintained, repaired and read by the Department. If a private street in a development remains privately owned, then the meter at the property line shall be used for billing and any individual meters in the development shall be deemed the owner's submeters. If the City assumes possession of a private street in a development, then the meter at the property line shall be used solely for monitoring purposes and any individual meters in the development shall be used for billing.
 
    (3) Design stage approval to install and repair internal water mains will be issued under the following conditions:
 
@@ -10752,7 +10773,7 @@ All work under a permit shall be performed by the permittee and/or persons direc
 
 (m) Gooseneck and offset swing joints on service pipe connections. Each brass or copper tubing service pipe must have at least three (3) feet of copper tubing formed in a gooseneck connection to the corporation stop (tap) and laid to the right hand facing the tap, as shown in Appendix Figure #2. Each brass service pipe with threaded joints shall be installed as shown in Appendix Figure #2. No offset swing joint shall be made for ductile iron connections. Swing joints and/or goosenecks shall be located at the corporation stop (tap) or wet connection, and may also be placed immediately outside a building laid to the right hand facing the building where the building is constructed on a pile foundation or other unyielding support.
 
-(n) Service pipe depth. All service pipes shall be installed at a depth of at least three and one-half (31/2) feet, no more than six (6) feet below ground, unless a written waiver is obtained from the Department. Where a service pipe is installed with less than three and one-half (31/2) feet of cover, it must be insulated and protected in accordance with the requirements described in § 20-03(y). A service pipe shall not be laid within six (6) inches of any other sub-surface structure, conduit or pipe. A service pipe shall not be laid directly below, and parallel with, any sub-surface structure, conduit or pipe.
+(n) Service pipe depth. All service pipes shall be installed at a depth of at least three and one-half (31/2) feet, no more than six (6) feet below ground, unless a written waiver is obtained from the Department. Where a service pipe is installed with less than three and one-half (31/2) feet of cover, it must be insulated and protected in accordance with the requirements described in 15 RCNY § 20-03(y). A service pipe shall not be laid within six (6) inches of any other sub-surface structure, conduit or pipe. A service pipe shall not be laid directly below, and parallel with, any sub-surface structure, conduit or pipe.
 
 (o) Service in construction trench. Service pipes laid in a construction trench shall be supported and protected from settlement.
 
@@ -10762,7 +10783,7 @@ All work under a permit shall be performed by the permittee and/or persons direc
 
 (r) Test of service pipe. Each new or repaired service pipe shall be subject to a pressure test performed under street main pressure. This test shall be conducted by the Licensed Master Plumber in the presence of a Department inspector. All service pipes and appurtenances shall remain uncovered for the duration of the test for observance of leakage.
 
-(s) Service pipe repairs. A new service pipe must be installed where more than one-half (1/2) of an existing service pipe is in need of a repair or when any repairs are required and the existing service pipe is lead, galvanized steel or galvanized iron. All repairs must conform with the standards described in § 20-03 of these Rules.
+(s) Service pipe repairs. A new service pipe must be installed where more than one-half (1/2) of an existing service pipe is in need of a repair or when any repairs are required and the existing service pipe is lead, galvanized steel or galvanized iron. All repairs must conform with the standards described in 15 RCNY § 20-03.
 
 (t) Service pipe damaged by electrolysis, galvanic action or other local conditions. When a service pipe has been damaged by electrolysis, galvanic action or other local conditions, it shall be repaired and protected against such damage in a manner approved by the Department.
 
@@ -10772,9 +10793,9 @@ All work under a permit shall be performed by the permittee and/or persons direc
 
 (w) Replacement of old service pipes upon establishment of new water service. If a tap or wet connection has been destroyed or shut off due to vacancy of a building, the service pipe must be replaced as part of any new tap or wet connection unless the existing service pipe is less than 40 years old, has a functioning curb valve and is neither lead, galvanized steel or galvanized iron.
 
-(x) Installation of a meter on unmetered properties whenever a domestic service pipe is replaced, repaired or relaid. Whenever a domestic or combined service pipe for an unmetered property is installed, replaced, repaired or relaid, a water meter shall be installed to cover the entire premises in accordance with § 20-05 of these Rules. When the work is not performed under emergency conditions, DEP will indicate on the permit that the property is unmetered. When the service pipe relay, repair or replacement occurs on an emergency basis, the Licensed Master Plumber may install a set of meter inlet and outlet valves and a spool piece of a length similar to the displacement meter for that size service if the Licensed Master Plumber does not have a meter available for installation at the time of the emergency visit. If the property owner will not allow the installation of a water meter as part of the service replacement, installation, repair or relay, the Licensed Master Plumber must return the meter permit completed but include a statement that the owner would not allow the installation of a meter.
+(x) Installation of a meter on unmetered properties whenever a domestic service pipe is replaced, repaired or relaid. Whenever a domestic or combined service pipe for an unmetered property is installed, replaced, repaired or relaid, a water meter shall be installed to cover the entire premises in accordance with 15 RCNY § 20-05. When the work is not performed under emergency conditions, DEP will indicate on the permit that the property is unmetered. When the service pipe relay, repair or replacement occurs on an emergency basis, the Licensed Master Plumber may install a set of meter inlet and outlet valves and a spool piece of a length similar to the displacement meter for that size service if the Licensed Master Plumber does not have a meter available for installation at the time of the emergency visit. If the property owner will not allow the installation of a water meter as part of the service replacement, installation, repair or relay, the Licensed Master Plumber must return the meter permit completed but include a statement that the owner would not allow the installation of a meter.
 
-(y) Insulation. Insulation, where required by § 20-03(n), shall be cellular glass insulation manufactured in accordance with ATSM C552 "Standard Specification for Cellular Glass Thermal Insulation", where a quality system for manufacturing, inspecting and testing insulation is certified in accordance with the requirements of ISO 9002. The insulation shall be fabricated in half sections wherever possible. For large diameter piping where half sections are not practical, curved sidewall segments are preferred. Wherever possible, the insulation should be factory jacketed with a 70 mil thick self-sealing high polymer asphaltic membrane with an integral glass scrim and aluminized mylar film on the surface. Mastic finish shall be pitcote 300 or an asphalt cutback mastic. Reinforcing fabric shall be an open mesh polymer fabric with 6 x 5.5 mesh per inch configuration. Sealant shall be a nonsetting butyl sealant with a minimum 85% solids content. The Department shall maintain a list of approved insulation materials. Alternate materials may be submitted for approval by the Department.
+(y) Insulation. Insulation, where required by 15 RCNY § 20-03(n), shall be cellular glass insulation manufactured in accordance with ATSM C552 "Standard Specification for Cellular Glass Thermal Insulation", where a quality system for manufacturing, inspecting and testing insulation is certified in accordance with the requirements of ISO 9002. The insulation shall be fabricated in half sections wherever possible. For large diameter piping where half sections are not practical, curved sidewall segments are preferred. Wherever possible, the insulation should be factory jacketed with a 70 mil thick self-sealing high polymer asphaltic membrane with an integral glass scrim and aluminized mylar film on the surface. Mastic finish shall be pitcote 300 or an asphalt cutback mastic. Reinforcing fabric shall be an open mesh polymer fabric with 6 x 5.5 mesh per inch configuration. Sealant shall be a nonsetting butyl sealant with a minimum 85% solids content. The Department shall maintain a list of approved insulation materials. Alternate materials may be submitted for approval by the Department.
 
 
 
@@ -10882,11 +10903,11 @@ Subject to review by the Department, the degree of hazard shall be determined by
 
       (vi) Where the meter is inoperable, has not accurately measured the water supplied to the premises, or has not been maintained in good working order during the entire period of building operations, the charge for water consumed during building construction shall be established as provided by the New York City Water Board in accordance with the Water and Wastewater Rate Schedule.
 
-   (4) All water used in the construction of buildings less than six (6) stories in height shall either be metered or be supplied by a hydrant permitted in accordance with § 20-08. If water used during construction is metered, the meter shall be placed as described in § 20-05(a)(3). Permit applications for temporary water service during construction shall include the name and contact information for the Licensed Master Plumber or construction management company.
+   (4) All water used in the construction of buildings less than six (6) stories in height shall either be metered or be supplied by a hydrant permitted in accordance with 15 RCNY § 20-08. If water used during construction is metered, the meter shall be placed as described in 15 RCNY § 20-05(a)(3). Permit applications for temporary water service during construction shall include the name and contact information for the Licensed Master Plumber or construction management company.
 
    (5) Metering of fire service pipes and combined service pipes.
 
-      (i) Fire service pipes: Fire service pipes in premises supplied with City water shall have an approved double detector check assembly. Fire service pipes of two-and-one-half (21/2) inches in diameter shall be provided with meter, valves, and fittings required for a three (3) inch service pipe. Fire service pipes supplying hydrants shall have fire service meters.
+      (i) Fire service pipes: Fire service pipes in premises supplied with City water shall have an approved double detector check assembly. Fire service pipes of two-and-one-half (2 1/2) inches in diameter shall be provided with meter, valves, and fittings required for a three (3) inch service pipe. Fire service pipes supplying hydrants shall have fire service meters.
 
       (ii) Service pipes supplying both domestic and fire protection uses: DOB-approved combined services three inches (3") or larger in diameter shall have either a single fire service meter at the head of the service or, if separation between domestic and fire service piping branches occurs within sight of the head of the service, a meter approved for domestic service on the domestic service piping branch to domestic end uses and a double detector check assembly on the fire service piping branch serving fire protection equipment. Domestic services three inches (3") or larger in diameter with fire sprinkler heads shall use a fire service meter. Domestic services smaller than three inches (3") in diameter with fire sprinkler heads shall have a meter approved by the Department. Pumped services to house tanks where the fire protection design is met by the volume of water in the house tank shall use a turbine type or electronic type meter.
 
@@ -10902,7 +10923,7 @@ Subject to review by the Department, the degree of hazard shall be determined by
 
    (3) After acceptance by the Department of the meter work, indicated by installation of a seal, or after one year from the return of a completed permit with access to the property available for the Department to inspect the work, whichever comes first, such meters will be owned, maintained, repaired and read by the Department. If access to the property is not made available to the Department, a denial of access notice shall be issued to the property owner.
 
-   (4) Design approval for water meter installations shall be obtained from the Department's Bureau of Customer Services as required by Sections 603.3 and 603.5 of the New York City Plumbing Code. Approval of a backflow prevention design as required by § 20-04 shall not constitute approval of the meter installation.
+   (4) Design approval for water meter installations shall be obtained from the Department's Bureau of Customer Services as required by Sections 603.3 and 603.5 of the New York City Plumbing Code. Approval of a backflow prevention design as required by 15 RCNY § 20-04 shall not constitute approval of the meter installation.
 
 (c) Work on small meters.
 
@@ -10984,7 +11005,7 @@ Subject to review by the Department, the degree of hazard shall be determined by
 
    (1) A meter shall be restricted to a size and type that will insure accurate registration on the basis of the water requirements of the premises, or portion of the premises, to be metered. For residential premises, the permit applicant shall perform a fixture count and develop a peak flow estimate using Appendix Tables #1 and #2. The meter shall be sized according to Appendix Table #8. For non-residential premises, the flow rate shall be based on the analysis of a Licensed Professional Engineer or Registered Architect. The meter shall be sized according to that flow rate and Appendix Table #8.
 
-   (2) A meter shall not be larger than the service pipe supplying the meter, the piping in the meter setting, or the water distribution piping in the building, unless specifically approved in writing by the Department or as noted in § 20-05(a)(5) for two-and-one-half (21/2) inch fire services or combined services. If two meters both cover the calculated peak flow rate, the smaller of the two meters shall be used unless approved in writing by the Department. Unless a fixture count and flow analysis, as described in § 20-05(g)(1), has been approved by the Department, a one- or two-family home with gravity-flush water closets shall not have a meter on a domestic service without fire sprinklers larger than three-quarters (3/4) inch and three-, four-, five- and six-family homes shall not have a meter on a domestic service larger than one (1) inch. Exceptions to these requirements, and the use of Appendix Table #8 for meter sizing, will be considered by the Department only when a building's plumbing system uses only street water pressure and documented incoming water pressure is less than 35 psi for buildings four (4) through six (6) stories high, or less than 30 psi for buildings less than four (4) stories in height.
+   (2) A meter shall not be larger than the service pipe supplying the meter, the piping in the meter setting, or the water distribution piping in the building, unless specifically approved in writing by the Department or as noted in 15 RCNY § 20-05(a)(5) for two-and-one-half (2 1/2) inch fire services or combined services. If two meters both cover the calculated peak flow rate, the smaller of the two meters shall be used unless approved in writing by the Department. Unless a fixture count and flow analysis, as described in 15 RCNY § 20-05(g)(1), has been approved by the Department, a one- or two-family home with gravity-flush water closets shall not have a meter on a domestic service without fire sprinklers larger than three-quarters (3/4)) inch and three-, four-, five- and six-family homes shall not have a meter on a domestic service larger than one (1) inch. Exceptions to these requirements, and the use of Appendix Table #8 for meter sizing, will be considered by the Department only when a building's plumbing system uses only street water pressure and documented incoming water pressure is less than 35 psi for buildings four (4) through six (6) stories high, or less than 30 psi for buildings less than four (4) stories in height.
 
    (3) The minimum size meter for new installations and replacements shall be five-eighths (5/8) inch.
 
@@ -11002,15 +11023,15 @@ Subject to review by the Department, the degree of hazard shall be determined by
 
    (2) No fittings capable of a branch connection shall be permitted in the section of pipe upstream of the meter or meter setter with the exception of an approved strainer. The strainer shall be located immediately before the inlet side of the meter. The service pipe between the point of entry and the meter setting shall be kept visible. No fittings, devices, or equipment shall be permitted in the section of pipe upstream or downstream of the meter that interferes with the required laminar flow through the meter.
 
-   (3) If conditions exist that prevent the setting of a meter in accordance with the above requirements, the meter may be set outside the building in a meter pit, vault or above-ground meter box (See § 20-05(k)).
+   (3) If conditions exist that prevent the setting of a meter in accordance with the above requirements, the meter may be set outside the building in a meter pit, vault or above-ground meter box (See 15 RCNY § 20-05(k)).
 
    (4) Meter settings shall have an inlet valve immediately upstream of the meter and any strainer, and an outlet valve downstream of the meter. For meters two (2) inches in size or smaller, the valves shall be full-port ball valves. For meters larger than two (2) inches in size, the valves shall be rising stem, resilient seated, and epoxy-coated gate valves. If a backflow prevention device is located after the meter setting and both the backflow prevention device and meter setting are located on the same floor of a building, then an outlet valve serving both the backflow prevention device and meter setting may be placed immediately after the device. If the backflow prevention device and meter setting are located on different floors of a building, each set of equipment shall have its own outlet valve and test tee.
 
-      (i) Except for meters two (2) inches or smaller where space constraints prevent any approved meter technology from being installed with an inlet valve, or as noted in § 20-05(a)(5), a house control valve shall not be used in lieu of a meter inlet valve.
+      (i) Except for meters two (2) inches or smaller where space constraints prevent any approved meter technology from being installed with an inlet valve, or as noted in 15 RCNY § 20-05(a)(5), a house control valve shall not be used in lieu of a meter inlet valve.
 
       (ii) A meter outlet valve is not required for fire meters on a dedicated fire service or the fire service branch of a combined service, for a Detector Check Valve Assembly or if the property has approved backflow prevention equipment which includes an outlet valve.
 
-      (iii) A plain tip test tee shall be provided before the meter outlet valve or incorporated into the design of the meter outlet valve. For meters up to two (2) inches in diameter, the test tee shall be the same size as the meter. For meters larger than two (2) inches in diameter, the test tee shall be two (2) inches. An exception shall be provided for installations using an outlet valve that incorporates an one-and-a-half (11/2) inch rather than two (2) inch test tee into the design of its two (2) inch outlet valve. Factory-fabricated setters five-eights (5/8) inch through two (2) inches shall have test ports as described in paragraph 6 of this subdivision. Test port plugs on meter bodies shall be drilled for seal wire. Test tees are not to be used as connections for domestic service. Where a meter is placed in a pit alongside a sewer trap, the meter test tee shall be located outside of the pit in an accessible location.
+      (iii) A plain tip test tee shall be provided before the meter outlet valve or incorporated into the design of the meter outlet valve. For meters up to two (2) inches in diameter, the test tee shall be the same size as the meter. For meters larger than two (2) inches in diameter, the test tee shall be two (2) inches. An exception shall be provided for installations using an outlet valve that incorporates an one-and-a-half (1 1/2) inch rather than two (2) inch test tee into the design of its two (2) inch outlet valve. Factory-fabricated setters five-eights (5/8) inch through two (2) inches shall have test ports as described in paragraph 6 of this subdivision. Test port plugs on meter bodies shall be drilled for seal wire. Test tees are not to be used as connections for domestic service. Where a meter is placed in a pit alongside a sewer trap, the meter test tee shall be located outside of the pit in an accessible location.
 
    (5) Connections shall be made by coupling, union, flange union or approved compression fittings and bored for sealing with holes not less than three thirty-seconds (3/32) of an inch in diameter. Compression fittings are permitted for three quarter (3/4) inch through two (2) inch meters only. Unions, couplings or compression fittings that permit removal of the meter and/or setter without breaking the seal wire are prohibited. Grooved end mechanical pipe joining systems are not permitted between the meter inlet valve and the outlet side of the meter. If used on the service side of the house valve, such systems shall be drilled for seal wire. In all other circumstances, pipe joining specifications shall conform to the New York City Plumbing Code. All water meter settings of two (2) inches and smaller sizes shall utilize valves and fittings constructed of bronze with a lead content that shall not exceed current NSF/ANSI Standard 61 limits. Bolts, studs, nuts, screws and other external fastening devices shall be made of a bronze alloy or stainless steel conforming to AWWA standards, and shall be designed for easy removal following lengthy service. Above-ground, indoor service pipe, including the meter setting and any backflow prevention device, shall comply with standards for water distribution pipe contained in the New York City Plumbing Code.
 
@@ -11080,9 +11101,9 @@ Subject to review by the Department, the degree of hazard shall be determined by
 
          (c)Extra heavy lids and covers shall be used for driveway and sidewalk applications.
 
-         (d)For three quarter (3/4) inch and one (1) inch meter sets, covers shall fit on twenty (20) inch nominal I.D. meter vaults. Covers shall have thirteen and one-half (131/2) inch to fifteen (15) inch openings and lid sizes.
+         (d)For three quarter (3/4) inch and one (1) inch meter sets, covers shall fit on twenty (20) inch nominal I.D. meter vaults. Covers shall have thirteen and one-half (13 1/2) inch to fifteen (15) inch openings and lid sizes.
 
-         (e)For one and one-half (11/2) inch and two (2) inch meter sets, covers shall fit on thirty-six (36) inch nominal I.D. meter vaults. Covers shall have eighteen (18) inch to fifteen (15) inch openings and lid sizes.
+         (e)For one and one-half (1 1/2) inch and two (2) inch meter sets, covers shall fit on thirty-six (36) inch nominal I.D. meter vaults. Covers shall have eighteen (18) inch to fifteen (15) inch openings and lid sizes.
 
    (4) Meter valuts for meters 3" and larger. For meters three (3) inches in size and larger, a meter vault shall be constructed as follows (See Appendix Figures #11 through #17 for typical meter pit and vault installation details):
 
@@ -11116,21 +11137,21 @@ Subject to review by the Department, the degree of hazard shall be determined by
 
 (l) Metering condominium and homeowners' association developments.
 
-   (1) An individual water meter to be read by the Department shall be installed for each separately-owned dwelling unit in all new condominium and homeowners' associations structures of three (3) stories or less when each such unit is supplied with hot water and space heat by its own separate domestic hot water heater and space heating system, and not by a common water heater or space heater. If fire protection sprinklers are present they shall be supplied by a separate dedicated service pipe. Any hose bib or irrigation supply shall be connected to one of the unit's metered branches. Such individual water meters shall be located in a common location immediately after the point of entry in each structure, with each meter clearly labeled as to the unit it supplies. MTUs shall be mounted on the exterior walls of the building. New and existing condominiums and homeowners' associations structures of six (6) stories or fewer with in-unit hot water heaters and space heating systems may apply to install individual water meters at their cost and in the same manner and governed by the same conditions as meters for new condominiums and homeowners' associations structures of three (3) stories or fewer, unless the work is physically impractical or the owners do not agree to individual water meters or required MTU placement. Such existing structures requesting individual water meters shall not be in arrears with their water or sewer accounts or payment agreements at the time of application to the Department. The Department shall set specific written requirements for such applications. For all cases, if there are building common end uses, such as but not limited to irrigation and heating boilers, then individual water meters in the name of the condominium or homeowners' association shall be installed for those uses. Properties served by internal water mains shall be metered as specified in § 20-05(a)(ii).
+   (1) An individual water meter to be read by the Department shall be installed for each separately-owned dwelling unit in all new condominium and homeowners' associations structures of three (3) stories or less when each such unit is supplied with hot water and space heat by its own separate domestic hot water heater and space heating system, and not by a common water heater or space heater. If fire protection sprinklers are present they shall be supplied by a separate dedicated service pipe. Any hose bib or irrigation supply shall be connected to one of the unit's metered branches. Such individual water meters shall be located in a common location immediately after the point of entry in each structure, with each meter clearly labeled as to the unit it supplies. MTUs shall be mounted on the exterior walls of the building. New and existing condominiums and homeowners' associations structures of six (6) stories or fewer with in-unit hot water heaters and space heating systems may apply to install individual water meters at their cost and in the same manner and governed by the same conditions as meters for new condominiums and homeowners' associations structures of three (3) stories or fewer, unless the work is physically impractical or the owners do not agree to individual water meters or required MTU placement. Such existing structures requesting individual water meters shall not be in arrears with their water or sewer accounts or payment agreements at the time of application to the Department. The Department shall set specific written requirements for such applications. For all cases, if there are building common end uses, such as but not limited to irrigation and heating boilers, then individual water meters in the name of the condominium or homeowners' association shall be installed for those uses. Properties served by internal water mains shall be metered as specified in 15 RCNY § 20-05(a)(ii).
 
-   (2) Condominiums and homeowners' associations that cannot be individually metered as described in § 20-05(l)(1) shall have a meter at the point of entry of the water service for the building or buildings, except that those properties served by internal water mains shall be metered as specified in § 20-05(a)(ii).
+   (2) Condominiums and homeowners' associations that cannot be individually metered as described in 15 RCNY § 20-05(l)(1) shall have a meter at the point of entry of the water service for the building or buildings, except that those properties served by internal water mains shall be metered as specified in 15 RCNY § 20-05(a)(ii).
 
    (3) Each individual unit/meter shall have its own account under the "75XX" joint condominium lot.
 
 (m) Removal.
 
-   (1) If a meter has been disconnected without securing a permit as per § 20-05(b) and § 20-05(c), it shall not be reset but shall be replaced with a new meter approved by the Department.
+   (1) If a meter has been disconnected without securing a permit as per 15 RCNY § 20-05(b) and 15 RCNY § 20-05(c), it shall not be reset but shall be replaced with a new meter approved by the Department.
 
-   (2) When a tap or wet connection is destroyed on a metered service pipe (See § 20-02 (g) and § 20-02 (h)), the meter shall be removed under permit and returned to the Department.
+   (2) When a tap or wet connection is destroyed on a metered service pipe (See 15 RCNY § 20-02(g) and 15 RCNY § 20-02(h)), the meter shall be removed under permit and returned to the Department.
 
    (3) If a meter is moved, a permit shall be obtained to report the new location. Relocation of a meter from an outdoor pit to an indoor location shall include filling the pit with clean sand and restoring the surface in kind.
 
-(n) Seals. A seal placed by the Department for the protection of any meter, valve, fitting or other water connection shall not be tampered with or defaced. The seal shall not be broken except after securing a permit from the Department. Breaking the seal without such a permit shall be a violation, except for emergency repairs as described in § 20-01(f). The Department may also remove the meter for testing and resetting or replacement. The customer shall be responsible for safeguarding and protecting the seal and the meter. Application of a seal on a new or replacement meter shall denote approval by the Department.
+(n) Seals. A seal placed by the Department for the protection of any meter, valve, fitting or other water connection shall not be tampered with or defaced. The seal shall not be broken except after securing a permit from the Department. Breaking the seal without such a permit shall be a violation, except for emergency repairs as described in 15 RCNY § 20-01(f). The Department may also remove the meter for testing and resetting or replacement. The customer shall be responsible for safeguarding and protecting the seal and the meter. Application of a seal on a new or replacement meter shall denote approval by the Department.
 
 (o) Meter shut-off. Where water is obtained through more than one (1) meter, and where tests indicate accurate registration is not being obtained by reason of the divided delivery of water, the Department may, at its discretion, shut off and seal the meter(s) to ensure accuracy of registration.
 
@@ -11262,7 +11283,7 @@ Subject to review by the Department, the degree of hazard shall be determined by
 
    (9) Meters larger than one (1) inch. Any parts of service pipes which are installed without excavation of a trench need not be made available for inspection.
 
-(c) Inspection waiver. For domestic water service pipe installations where inspections are not mandatory, as described in § 20-07 (b), the Licensed Master Plumber shall request an inspection as described in § 20-02 (l) and § 20-02 (m). The Department in its discretion may waive such inspections. If the Department waives an inspection, the Licensed Master Plumber must submit the tap location with certification that all work was performed in accordance with these Rules and all other applicable rules.
+(c) Inspection waiver. For domestic water service pipe installations where inspections are not mandatory, as described in 15 RCNY § 20-07(b), the Licensed Master Plumber shall request an inspection as described in 15 RCNY § 20-02(l) and 15 RCNY § 20-02(m). The Department in its discretion may waive such inspections. If the Department waives an inspection, the Licensed Master Plumber must submit the tap location with certification that all work was performed in accordance with these Rules and all other applicable rules.
 
 (d) Fee for inspections. A fee shall be paid for each inspection in accordance with the Water and Wastewater Rate Schedule of the New York City Water Board.
 
@@ -11302,7 +11323,7 @@ Subject to review by the Department, the degree of hazard shall be determined by
 
    (1) Prohibition of Use as a Source of Energy. The use of the pressure or flow of water as a source of energy is prohibited, except when specifically approved by the Department.
 
-   (2) Restrictions on Use for Coolant Purposes. The use of City water for coolant purposes in industrial and commercial equipment is prohibited, except with the use of an approved "water conservation device," in accordance with § 20-06.
+   (2) Restrictions on Use for Coolant Purposes. The use of City water for coolant purposes in industrial and commercial equipment is prohibited, except with the use of an approved "water conservation device," in accordance with 15 RCNY § 20-06.
 
    (3) Required Recirculation in Fountains, Ornamental Pools, Aquariums and Similar Structures. Display fountains, ornamental pools, aquariums, and similar structures using water in excess of the rate of one-half (1/2) gpm shall be recirculated.
 
@@ -11362,7 +11383,7 @@ Subject to review by the Department, the degree of hazard shall be determined by
 *§ 20-09 Enforcement.* ::
 
 
-Any person who is in violation of or fails to comply with any provision, standard or requirement of these Rules or the terms and conditions of any permit issued pursuant to these Rules shall be subject to the issuance of notice(s) of violation and other civil or criminal enforcement action(s) pursuant to the provisions of § 24-346 of the Administrative Code of the City of New York, including but not limited to payment of civil penalties and compliance with orders of the Commissioner and/or the Environmental Control Board. In addition to any civil and criminal enforcement pursuant to § 24-346 of the Administrative Code of the City of New York, the Department may refuse to issue permits to any person who is in violation of, or fails to comply with, any provision, standard or requirement of these Rules or the terms and conditions of any permit, in accordance with Section 20-01(c) of these Rules.
+Any person who is in violation of or fails to comply with any provision, standard or requirement of these Rules or the terms and conditions of any permit issued pursuant to these Rules shall be subject to the issuance of notice(s) of violation and other civil or criminal enforcement action(s) pursuant to the provisions of § 24-346 of the Administrative Code of the City of New York, including but not limited to payment of civil penalties and compliance with orders of the Commissioner and/or the Environmental Control Board. In addition to any civil and criminal enforcement pursuant to § 24-346 of the Administrative Code of the City of New York, the Department may refuse to issue permits to any person who is in violation of, or fails to comply with, any provision, standard or requirement of these Rules or the terms and conditions of any permit, in accordance with 15 RCNY § 20-01(c).
 
 
 
@@ -11581,6 +11602,11 @@ Wet connection. The hardware required to install a connection larger than two (2
 
 
 
+
+
+
+**APPENDIX**
+
 Chapter 21: Drought Emergency Rules
 --------------------------------------------------
 
@@ -11604,7 +11630,7 @@ The provisions of this subchapter apply to all stages of Drought Emergency in th
 *§ 21-02 Definitions.* ::
 
 
-Acceptable Irrigation Controller. "Acceptable Irrigation Controller" means a microprocessor-based controller for the valve(s) of an irrigation system that can be programmed for the various time and date intervals set forth in § 21-09(e), 21-10(e) and 21-11(e) of these Rules, and that incorporates a rain sensor, soil moisture sensor or evapo-transpiration control.
+Acceptable Irrigation Controller. "Acceptable Irrigation Controller" means a microprocessor-based controller for the valve(s) of an irrigation system that can be programmed for the various time and date intervals set forth in 15 RCNY § 21-09(e), 21-10(e) and 21-11(e), and that incorporates a rain sensor, soil moisture sensor or evapo-transpiration control.
 
 Active Source. "Active source" means any sprinkling device or system and any device that delivers water under pressure.
 
@@ -11622,7 +11648,7 @@ Drought emergency. "Drought emergency" as declared by the commissioner, exists w
 
 ECB. "ECB" means the New York City Environmental Control Board.
 
-Health care facilities. "Health care facilities" means hospitals, hospices, medical clinics, physician's offices, nursing homes or any other facility caring for persons who are ill, aged or infirm, where, in the opinion of the commissioner, relief from the prohibition contained in § 21-10(j) is necessary to protect the health and well-being of such persons.
+Health care facilities. "Health care facilities" means hospitals, hospices, medical clinics, physician's offices, nursing homes or any other facility caring for persons who are ill, aged or infirm, where, in the opinion of the commissioner, relief from the prohibition contained in 15 RCNY § 21-10(j) is necessary to protect the health and well-being of such persons.
 
 Non-turf plants. "Non-turf plants" means all plants excluding turf.
 
@@ -11640,7 +11666,7 @@ Well water. "Well water" means water drawn from a subsurface well under permit f
 *§ 21-03 Sanctions.* ::
 
 
-(a)  Violations of the rules contained in this chapter or any variances granted pursuant to § 21-04 of these rules, shall be punishable by fines and penalties established by the Administrative Code, §§ 24-337 and 24-346, and may be returnable before the ECB.
+(a)  Violations of the rules contained in this chapter or any variances granted pursuant to 15 RCNY § 21-04, shall be punishable by fines and penalties established by the Administrative Code, §§ 24-337 and 24-346, and may be returnable before the ECB.
 
 (b) In addition to any penalties that may be imposed by the ECB, where a leak and waste notice has been served in accordance with § 24-337 of the Administrative Code and the condition to which such notice relates has not been corrected, a fine of up to fifty dollars per day may be imposed by the commissioner.
 
@@ -11676,7 +11702,7 @@ Well water. "Well water" means water drawn from a subsurface well under permit f
 
    (2) The applicant may appeal only the issue of whether the Variance Board abused its discretion in denying a request for a variance or in imposing a substantial condition in a grant of a variance.
 
-   (3) Upon review of any appeal filed pursuant to § 21-04(e), the Commissioner may, in his/her discretion, grant a variance relieving a person or entity from compliance with any of the requirements of the rules. In connection with any variance that may be granted, the Commissioner may impose such terms and conditions as deemed appropriate. Appeals shall be processed in a timely fashion, and determinations shall not be unreasonably withheld or delayed.
+   (3) Upon review of any appeal filed pursuant to 15 RCNY § 21-04(e), the Commissioner may, in his/her discretion, grant a variance relieving a person or entity from compliance with any of the requirements of the rules. In connection with any variance that may be granted, the Commissioner may impose such terms and conditions as deemed appropriate. Appeals shall be processed in a timely fashion, and determinations shall not be unreasonably withheld or delayed.
 
    (4) The filing of an appeal shall not relieve the petitioner from complying with any requirements of the rules of this subchapter, and shall not immunize any person or entity from any civil or criminal prosecution or sanction authorized under such rules.
 
@@ -11700,9 +11726,9 @@ At any time after the actual declaration of a Phase I Drought Emergency, the Com
 *§ 21-06 "Save Water" Signage.* ::
 
 
-(a)  Introduction. Immediately upon the declaration of any stage of Drought Emergency by the Commissioner, "Save Water" signs, as described below, shall be prominently posted in every building or premises connected to the city water system or in which city water is used, in the locations specified below. It shall be the responsibility of every person or entity owning, using, leasing, managing, operating or controlling any such building or premises to assure that such signs are properly posted. The provisions set forth in this § 21-06 do not apply to one-, two-, three- or four-family dwellings.
+(a)  Introduction. Immediately upon the declaration of any stage of Drought Emergency by the Commissioner, "Save Water" signs, as described below, shall be prominently posted in every building or premises connected to the city water system or in which city water is used, in the locations specified below. It shall be the responsibility of every person or entity owning, using, leasing, managing, operating or controlling any such building or premises to assure that such signs are properly posted. The provisions set forth in this 15 RCNY § 21-06 do not apply to one-, two-, three- or four-family dwellings.
 
-(b) Sign size and content. Such signs required pursuant to § 21-06(a) above shall not be less than 6 inches by 9 inches in size. The heading "Save Water" on the signs should be in letters not less than three-quarters inch (3/4") in height. The signs shall include the following wording and may include any artwork or additional language, related to water conservation, which may be desired by the person or entity posting the sign:
+(b) Sign size and content. Such signs required pursuant to 15 RCNY § 21-06(a) above shall not be less than 6 inches by 9 inches in size. The heading "Save Water" on the signs should be in letters not less than three-quarters inch (3/4") in height. The signs shall include the following wording and may include any artwork or additional language, related to water conservation, which may be desired by the person or entity posting the sign:
 
    SAVE WATER    Report Leaks and Water Waste    Call 311
 
@@ -11746,11 +11772,11 @@ No person shall cause, permit or allow the use of well water for any purpose for
 
 (b) there are no cross-connections and all swing-joint connections have been replaced by permanent rigid piping or the connection to the city system has been sealed; and
 
-(c) signs are prominently displayed, not less than 81/2 by 11 inches in size and with lettering not less than one inch in height, bearing the following wording including the permit number:
+(c) signs are prominently displayed, not less than 8 1/2 by 11 inches in size and with lettering not less than one inch in height, bearing the following wording including the permit number:
 
    DROUGHT EMERGENCY    PRIVATE WELL WATER IN USE    HEALTH DEPT PERMIT NO.  ____________
 
- The permission to use well water granted by this § 21-07 may be revoked by the commissioner for any violation of the foregoing conditions, or of these rules, or of any applicable laws, rules or regulations.
+ The permission to use well water granted by this 15 RCNY § 21-07 may be revoked by the commissioner for any violation of the foregoing conditions, or of these rules, or of any applicable laws, rules or regulations.
 
 
 
@@ -11771,11 +11797,11 @@ Upon declaration of the Commissioner of a Stage I Drought Emergency, no person o
 
 (b) The use of city water to wash any vehicle (including any aircraft, watercraft or land vehicle whether on- or off-road), provided that this provision shall not be construed to prohibit the reasonable use of city water for washing of such vehicles where mandated by law or for health or safety purposes;
 
-(c) The use of city water to spray, wash or wet any hard or paved surfaces, including, but not limited to, streets, sidewalks, driveways, outdoor areaways (including any recreational areas, whether at ground level or on a structure), parking areas or outdoor steps. This provision, however, shall not be construed to prohibit the washing of such surfaces, particularly the exterior surface of a building, where such washing is required as part of repairs mandated by the Administrative Code or to protect the health and safety of the public, assuming such use is consistent with the provisions set forth in § 24-332 of the Administrative Code of the City of New York and § 20-08(a)(5) of Title 15 of the Rules of the City of New York;
+(c) The use of city water to spray, wash or wet any hard or paved surfaces, including, but not limited to, streets, sidewalks, driveways, outdoor areaways (including any recreational areas, whether at ground level or on a structure), parking areas or outdoor steps. This provision, however, shall not be construed to prohibit the washing of such surfaces, particularly the exterior surface of a building, where such washing is required as part of repairs mandated by the Administrative Code or to protect the health and safety of the public, assuming such use is consistent with the provisions set forth in § 24-332 of the Administrative Code of the City of New York and 15 RCNY § 20-08(a)(5);
 
 (d) The use of city water for any ornamental or aesthetic purpose, including, but not limited to, use in fountains, artificial waterfalls, reflecting pools, lakes and ponds, unless the pond or lake is a habitat for animals living in such body of water prior to the declaration of a drought emergency. In the case where city water is not used, a sign not less than 6 inches by 9 inches must be prominently posted at the location indicating that the water being used in such fountain, waterfall, pool, lake or pond is not city water;
 
-(e) In accordance with the provisions set forth in § 20-08(a)(5) of Title 15 of the Rules of the City of New York, the use of city water by means of a hose or other active source to water any turf or any non-turf plants, except that:
+(e) In accordance with the provisions set forth in 15 RCNY § 20-08(a)(5), the use of city water by means of a hose or other active source to water any turf or any non-turf plants, except that:
 
    (1) city water may be used to water any turf, except for golf course fairways, from 7:00 a.m. to 9:00 a.m. and from 7:00 p.m. to 9:00 p.m., on the following schedule:
 
@@ -11791,9 +11817,9 @@ Upon declaration of the Commissioner of a Stage I Drought Emergency, no person o
 
       (ii) At odd-numbered addresses, city water may be used during the above specified hours on odd-numbered days of the month;
 
-   (4) If hand-held containers or a water conserving irrigation systems with an acceptable irrigation automatic controller is utilized, city water may be used for any two two-hour periods on the appropriate day of the month as set forth above, provided that, for water-conserving irrigation systems, these time periods are indicated on the signage mandated by § 21-07 of these Rules;
+   (4) If hand-held containers or a water conserving irrigation systems with an acceptable irrigation automatic controller is utilized, city water may be used for any two two-hour periods on the appropriate day of the month as set forth above, provided that, for water-conserving irrigation systems, these time periods are indicated on the signage mandated by 15 RCNY § 21-07;
 
-(f) The opening or use of any fire hydrant, or of the city water therefrom, for any purpose other than fire protection, except in accordance with the terms and conditions set forth in a permit obtained from the Department, in accordance with the provisions set forth in § 20-08(b) of Title 15 of the Rules of the City of New York;
+(f) The opening or use of any fire hydrant, or of the city water therefrom, for any purpose other than fire protection, except in accordance with the terms and conditions set forth in a permit obtained from the Department, in accordance with the provisions set forth in 15 RCNY § 20-08(b);
 
 (g) The serving of water from the city water system to any patron of a restaurant, club, hotel, café, cafeteria or other public place where food is served or offered for sale, unless specifically requested by such patron;
 
@@ -11820,19 +11846,19 @@ Upon declaration of the Commissioner of a Stage II Drought Emergency, no person 
 
 (b) The use of city water to wash any vehicle (including any aircraft, watercraft or land vehicle whether on- or off-road), provided that this provision shall not be construed to prohibit the reasonable use of city water for washing of such vehicles where mandated by law or for health or safety purposes;
 
-(c) The use of city water to spray, wash or wet any hard or paved surfaces, including, but not limited to, streets, sidewalks, driveways, outdoor areaways (including any recreational areas, whether at ground level or on a structure), parking areas or outdoor steps. This provision, however, shall not be construed to prohibit the washing of such surfaces, particularly the exterior surface of a building, where such washing is required as part of repairs mandated by the Administrative Code or to protect the health and safety of the public, as determined by the Commissioner, assuming such use is consistent with the provisions set forth in § 24-332 of the Administrative Code of the City of New York and § 20-08(a)(5) of Title 15 of the Rules of the City of New York;
+(c) The use of city water to spray, wash or wet any hard or paved surfaces, including, but not limited to, streets, sidewalks, driveways, outdoor areaways (including any recreational areas, whether at ground level or on a structure), parking areas or outdoor steps. This provision, however, shall not be construed to prohibit the washing of such surfaces, particularly the exterior surface of a building, where such washing is required as part of repairs mandated by the Administrative Code or to protect the health and safety of the public, as determined by the Commissioner, assuming such use is consistent with the provisions set forth in § 24-332 of the Administrative Code of the City of New York and 15 RCNY § 20-08(a)(5);
 
 (d) The use of water from any source for any ornamental or aesthetic purpose, including, but not limited to, use in fountains, artificial waterfalls, reflecting pools, lakes and ponds, unless the pond or lake is a habitat for animals living in such body of water prior to the drought emergency;
 
-(e) In accordance with the provisions set forth in § 20-08(a)(5) of Title 15 of the Rules of the City of New York, the use of city water by means of a hose or other active source to water any turf or any other non-turf plants, except that:
+(e) In accordance with the provisions set forth in 15 RCNY § 20-08(a)(5), the use of city water by means of a hose or other active source to water any turf or any other non-turf plants, except that:
 
    (1) newly seeded or newly sodded turf (excluding golf course fairways) or newly planted non-turf plants may be irrigated with city water on the day of planting and for the first day following planting;
 
    (2) if hand-held hoses equipped with automatic shut-off nozzles or in-line hose flow regulators that effectively limit water output to a maximum flow rate of five gallons per minute at eighty pounds per square inch; or water-conserving low-flow/low pressure irrigation systems are utilized, city water may be used to water non-turf plants in accordance with the schedule set forth in subchapter B above;
 
-   (3) if hand-held containers or a water conserving irrigation system with an acceptable irrigation controller is utilized, city water may be used to water non-turf plants for any two two-hour periods on the appropriate day of the month as set forth in Subchapter B above, provided that, for water-conserving irrigation systems, these time periods are indicated on the signage mandated by § 21-07 of these Rules;
+   (3) if hand-held containers or a water conserving irrigation system with an acceptable irrigation controller is utilized, city water may be used to water non-turf plants for any two two-hour periods on the appropriate day of the month as set forth in Subchapter B above, provided that, for water-conserving irrigation systems, these time periods are indicated on the signage mandated by 15 RCNY § 21-07;
 
-(f) The opening or use of any fire hydrant, or of the city water therefrom, for any purpose other than fire protection, except in accordance with the terms and conditions set forth in a permit obtained from the Department, in accordance with the provisions set forth in § 20-08(b) of Title 15 of the Rules of the City of New York;
+(f) The opening or use of any fire hydrant, or of the city water therefrom, for any purpose other than fire protection, except in accordance with the terms and conditions set forth in a permit obtained from the Department, in accordance with the provisions set forth in 15 RCNY § 20-08(b);
 
 (g) The serving of water from the city water system to any patron of a restaurant, club, hotel, café, cafeteria or other public place where food is served or offered for sale, unless specifically requested by such patron;
 
@@ -11859,19 +11885,19 @@ Upon declaration of the Commissioner of a Stage III Drought Emergency, no person
 
 (b) The use of city water to wash any vehicle (including any aircraft, watercraft or land vehicle whether on- or off-road), provided that this provision shall not be construed to prohibit the reasonable use of city water for washing of such vehicles where mandated by law or for health or safety purposes;
 
-(c) The use of city water to spray, wash or wet any hard or paved surfaces, including, but not limited to, streets, sidewalks, driveways, outdoor areaways (including any recreational areas, whether at ground level or on a structure), parking areas or outdoor steps. This provision, however, shall not be construed to prohibit the washing of such surfaces, particularly the exterior surface of a building, where such washing is required as part of repairs mandated by the Administrative Code or to protect the health and safety of the public, as determined by the Commissioner, assuming such use is consistent with the provisions set forth in § 24-332 of the Administrative Code of the City of New York and § 20-08(a)(5) of Title 15 of the Rules of the City of New York;
+(c) The use of city water to spray, wash or wet any hard or paved surfaces, including, but not limited to, streets, sidewalks, driveways, outdoor areaways (including any recreational areas, whether at ground level or on a structure), parking areas or outdoor steps. This provision, however, shall not be construed to prohibit the washing of such surfaces, particularly the exterior surface of a building, where such washing is required as part of repairs mandated by the Administrative Code or to protect the health and safety of the public, as determined by the Commissioner, assuming such use is consistent with the provisions set forth in § 24-332 of the Administrative Code of the City of New York and 15 RCNY § 20-08(a)(5);
 
 (d) The use of water from any source for any ornamental or aesthetic purpose, including, but not limited to, use in fountains, artificial waterfalls, reflecting pools, lakes and ponds;
 
-(e) In accordance with the provisions set forth in § 20-08(a)(5) of Title 15 of the Rules of the City of New York, the use of city water by means of a hose or other active source to water any turf or any other non-turf plants, except that:
+(e) In accordance with the provisions set forth in 15 RCNY § 20-08(a)(5), the use of city water by means of a hose or other active source to water any turf or any other non-turf plants, except that:
 
    (1) newly seeded or newly sodded turf (excluding golf course fairways) or newly planted non-turf plants may be irrigated with city water on the day of planting;
 
    (2) if hand-held hoses equipped with nozzle tips or in-line hose flow regulators that effectively limit water output to a maximum flow rate of five gallons per minute at eighty pounds per square inch or water conserving irrigation systems are utilized, city water may be used to water non-turf plants only in accordance with the schedule set forth in subchapter B above;
 
-   (3) if hand-held containers or a water-conserving irrigation systems with an acceptable irrigation controller is utilized, city water may be used to water non-turf plants for any two two-hour periods on the appropriate day of the month as set forth in Subchapter B above, provided that, for water-conserving irrigation systems, these time periods are indicated on the signage mandated by § 21-07 of these Rules;
+   (3) if hand-held containers or a water-conserving irrigation systems with an acceptable irrigation controller is utilized, city water may be used to water non-turf plants for any two two-hour periods on the appropriate day of the month as set forth in Subchapter B above, provided that, for water-conserving irrigation systems, these time periods are indicated on the signage mandated by 15 RCNY § 21-07;
 
-(f) The opening or use of any fire hydrant, or of the city water therefrom, for any purpose other than fire protection, except in accordance with the terms and conditions set forth in a permit obtained from the Department, in accordance with the provisions set forth in § 20-08(b) of Title 15 of the Rules of the City of New York;
+(f) The opening or use of any fire hydrant, or of the city water therefrom, for any purpose other than fire protection, except in accordance with the terms and conditions set forth in a permit obtained from the Department, in accordance with the provisions set forth in 15 RCNY § 20-08(b);
 
 (g) The serving of water from the city water system to any patron of a restaurant, club, hotel, café, cafeteria or other public place where food is served or offered for sale, unless specifically requested by such patron;
 
@@ -11898,7 +11924,7 @@ Chapter 22: Withdrawal of Water from the New York City Water Supply System
 
 (a) Written application to the New York City Department of Environmental Protection by the authorized official of the Water District or Municipality for permission to connect to and obtain water from the New York City water supply system.
 
-(b) Two certified copies of the resolution designating and authorizing an official to make an application to and to execute an agreement with the New York City Department of Environmental Protection on behalf of the Water District or Municipality (Draft resolution attached – see § 22-01(j)).
+(b) Two certified copies of the resolution designating and authorizing an official to make an application to and to execute an agreement with the New York City Department of Environmental Protection on behalf of the Water District or Municipality (Draft resolution attached – see 15 RCNY § 22-01(j)).
 
 (c) Two certified copies of the resolution adopted by the Town Board establishing the Water District.
 
@@ -12097,13 +12123,13 @@ Chapter 23: Construction of Private Sewers Or Private Drains
 
    (13) a copy of all applicable permits and approvals required by other federal, state, or local laws and regulations including the city's Uniform Land Use Review Procedure (ULURP);
 
-   (14) all applicable legal documentation required by this section and § 23-03(c);
+   (14) all applicable legal documentation required by this section and 15 RCNY § 23-03(c);
 
    (15) paper prints prepared in accordance with the requirements of Appendix A-2; and
 
-   (16) the Department's review fee for drainage proposals in accordance with § 23-08;
+   (16) the Department's review fee for drainage proposals in accordance with 15 RCNY § 23-08;
 
-(c) Additional requirements for the submission of drainage proposals and private drain plans involving special conditions. In addition to the requirements of subdivision (b) of this section, owners submitting drainage proposals and private drain plans incorporating any of the following special conditions shall be required to file the additional information and documentation as specified below. Such documentation shall conform to the applicable requirements of § 23-03 of this rule.
+(c) Additional requirements for the submission of drainage proposals and private drain plans involving special conditions. In addition to the requirements of subdivision (b) of this section, owners submitting drainage proposals and private drain plans incorporating any of the following special conditions shall be required to file the additional information and documentation as specified below. Such documentation shall conform to the applicable requirements of 15 RCNY § 23-03.
 
    (1) Use of proposed private sewage treatment plants or proposed private pumping stations in residential districts serving 50 or more dwelling units. Drainage proposals and private drain plans in residential districts where proposed private sanitary drains will discharge into a proposed private sewage treatment plant or a proposed private pumping station which is not owned and operated by the department and serves 50 or more dwelling units shall include the following additional information and documentation:
 
@@ -12127,9 +12153,9 @@ Chapter 23: Construction of Private Sewers Or Private Drains
 
       (vi) a properly recorded declaration of maintenance obligating the owner and all successors-in-interest to maintain the private sewage treatment plant or private pumping station and all appurtenances thereto;
 
-      (vii) security in an amount determined by the department in accordance with § 23-04 of this rule shall be deposited with the comptroller's office guaranteeing the continuous and proper maintenance of the private sewage treatment plant or private pumping station for as long as such sewage treatment plant or pumping station remains in use; and
+      (vii) security in an amount determined by the department in accordance with 15 RCNY § 23-04 shall be deposited with the comptroller's office guaranteeing the continuous and proper maintenance of the private sewage treatment plant or private pumping station for as long as such sewage treatment plant or pumping station remains in use; and
 
-      (viii) the owner's liability insurance in an amount determined by the department in accordance with § 23-04 of this rule certified by the owner's liability insurance company.
+      (viii) the owner's liability insurance in an amount determined by the department in accordance with 15 RCNY § 23-04 certified by the owner's liability insurance company.
 
    (2) Use of existing private sewage treatment plants or existing private pumping stations. Drainage proposals and private drain plans incorporating the use of an existing private sewage treatment plant or an existing private pumping station which is not owned and operated by the department shall include the following additional information and documentation:
 
@@ -12155,15 +12181,15 @@ Chapter 23: Construction of Private Sewers Or Private Drains
 
       (iii) a properly recorded declaration of maintenance obligating the owner and all successors-in-interest to maintain the private on-site detention basin and all appurtenances thereto;
 
-      (iv) security in an amount determined by the department in accordance with § 23-04 of this rule shall be deposited with the comptroller's office guaranteeing the continuous and proper maintenance of the private on-site detention basin for as long as such detention basin remains in use; and
+      (iv) security in an amount determined by the department in accordance with 15 RCNY § 23-04 shall be deposited with the comptroller's office guaranteeing the continuous and proper maintenance of the private on-site detention basin for as long as such detention basin remains in use; and
 
-      (v) the owner's liability insurance in an amount determined by the department in accordance with § 23-04 of this rule certified by the owner's liability insurance company.
+      (v) the owner's liability insurance in an amount determined by the department in accordance with 15 RCNY § 23-04 certified by the owner's liability insurance company.
 
    (4) Watercourse diversions. Drainage proposals and private drain plans incorporating watercourse diversions which function as the outlet for the stormwater runoff from the upstream contributory drainage area shall include the following additional information and documentation:
 
       (i) a properly recorded declaration of sewer easement establishing and delineating a sewer easement in favor of the department;
 
-      (ii) a properly recorded declaration of maintenance obligating the owner and all successors-in-interest to maintain the watercourse diversion and all appurtenances thereto; (iii)  a security deposit in an amount determined by the department in accordance with § 23-04 of this rule shall be deposited with the comptroller's office guaranteeing the continuous and proper maintenance of the proposed watercourse diversion for as long as such watercourse diversion remains in use; and
+      (ii) a properly recorded declaration of maintenance obligating the owner and all successors-in-interest to maintain the watercourse diversion and all appurtenances thereto; (iii)  a security deposit in an amount determined by the department in accordance with 15 RCNY § 23-04 shall be deposited with the comptroller's office guaranteeing the continuous and proper maintenance of the proposed watercourse diversion for as long as such watercourse diversion remains in use; and
 
       (iv) all hydraulic computations relative to the design of the watercourse diversion or piping.
 
@@ -12185,7 +12211,7 @@ Chapter 23: Construction of Private Sewers Or Private Drains
 
 (b) General requirements for title reports and title insurance policies. All title reports and title insurance policies required by this rule shall be prepared and written by a title insurance company licensed to do business in the State of New York. All title insurance policies shall name the city as the insured and shall contain a technical description of the metes and bounds of the proposed development and the bed of street areas for which the city has no title or opinion of dedication for public use from the corporation counsel.
 
-(c) Additional legal documentation requirements for drainage proposals or private sewer plans relating to the status of streets. In addition to the requirements of § 23-02, owners submitting drainage proposals or private sewer plans relating to the status of streets shall file the additional information and legal documentation as specified below.
+(c) Additional legal documentation requirements for drainage proposals or private sewer plans relating to the status of streets. In addition to the requirements of 15 RCNY § 23-02, owners submitting drainage proposals or private sewer plans relating to the status of streets shall file the additional information and legal documentation as specified below.
 
    (1) Owners proposing to construct a private sewer or private drain in a city-owned street shall also submit a letter from the office of the appropriate borough president verifying that title to the street in which a private sewer or private drain is to be constructed has vested in the city.
 
@@ -12193,7 +12219,7 @@ Chapter 23: Construction of Private Sewers Or Private Drains
 
       (i) a title report verifying the owner's ownership of the subject street(s);
 
-      (ii) a title insurance policy in an amount determined by the department in accordance with § 23-04 of this rule insuring the city of the owner's right to construct the proposed private sewer or private drain as delineated on the drainage proposal or private sewer or private drain plan; and
+      (ii) a title insurance policy in an amount determined by the department in accordance with 15 RCNY § 23-04 insuring the city of the owner's right to construct the proposed private sewer or private drain as delineated on the drainage proposal or private sewer or private drain plan; and
 
       (iii) a properly recorded declaration of public use-irrevocable street opening irrevocably opening the street(s) for public use.
 
@@ -12201,7 +12227,7 @@ Chapter 23: Construction of Private Sewers Or Private Drains
 
       (i) a title report verifying the ownership of the subject streets;
 
-      (ii) a title insurance policy in an amount determined by the department in accordance with § 23-04 of this rule insuring the city of the owner's right to construct the proposed private sewer or private drain as delineated on the drainage proposal or private sewer or private drain plan;
+      (ii) a title insurance policy in an amount determined by the department in accordance with 15 RCNY § 23-04 insuring the city of the owner's right to construct the proposed private sewer or private drain as delineated on the drainage proposal or private sewer or private drain plan;
 
       (iii) either:
 
@@ -12211,41 +12237,41 @@ Chapter 23: Construction of Private Sewers Or Private Drains
 
       (iv) a properly recorded declaration of maintenance obligating the owner and all successors-in-interest to maintain the private sewer or private drain if the street is not to be continuously opened for public use; and
 
-      (v) a security deposit in an amount determined by the department in accordance with § 23-04 of this rule if the street is not to be continuously opened for public use.
+      (v) a security deposit in an amount determined by the department in accordance with 15 RCNY § 23-04 if the street is not to be continuously opened for public use.
 
    (4) Owners proposing to construct a private sewer or private drain in finally mapped or record street(s) of unknown ownership shall also submit the following:
 
       (i) a title report verifying that the finally mapped or subject streets are of unknown ownership;
 
-      (ii) a title insurance policy in an amount determined by the department in accordance with § 23-04 of this rule insuring the city of the owner's right to construct the proposed private sewer or private drain as delineated on the drainage proposal or private sewer or private drain plan;
+      (ii) a title insurance policy in an amount determined by the department in accordance with 15 RCNY § 23-04 insuring the city of the owner's right to construct the proposed private sewer or private drain as delineated on the drainage proposal or private sewer or private drain plan;
 
       (iii) a properly recorded declaration of maintenance obligating the owner and all successors-in-interest to maintain the private sewer or private drain if the street is not to be continuously opened for public use; and
 
-      (iv) a security deposit in an amount determined by the department in accordance with § 23-04 of this Rule if the street is not to be continuously opened for public use.
+      (iv) a security deposit in an amount determined by the department in accordance with 15 RCNY § 23-04 if the street is not to be continuously opened for public use.
 
    (5) Owners proposing to construct a private sewer or private drain part of which will traverse the owner's property shall also submit the following:
 
       (i) a title report verifying the ownership of the subject property;
 
-      (ii) a title insurance policy in an amount determined by the department in accordance with § 23-04 of this rule insuring the city of the owner's right to construct the proposed private sewer or private drain as delineated on the drainage proposal or private sewer or private drain plan;
+      (ii) a title insurance policy in an amount determined by the department in accordance with 15 RCNY § 23-04 insuring the city of the owner's right to construct the proposed private sewer or private drain as delineated on the drainage proposal or private sewer or private drain plan;
 
       (iii) a properly recorded declaration of sewer easement establishing and delineating a sewer easement in favor of the department;
 
       (iv) a properly recorded declaration of maintenance obligating the owner and all successors-in-interest to maintain the private sewer or private drain and all appurtenances thereto; and
 
-      (v) a security deposit in an amount determined by the department in accordance with § 23-04 of this rule guaranteeing the continuous and proper maintenance of the proposed private sewer or private drain for as long as such private sewer or private drain remains in use.
+      (v) a security deposit in an amount determined by the department in accordance with 15 RCNY § 23-04 guaranteeing the continuous and proper maintenance of the proposed private sewer or private drain for as long as such private sewer or private drain remains in use.
 
    (6) Owners proposing to construct a private sewer or private drain part of which will traverse property of another shall also submit the following:
 
       (i) a title report verifying the ownership of the subject property and/or street(s);
 
-      (ii) a title insurance policy in an amount determined by the department in accordance with § 23-04 of this Rule insuring the city of the owner's right to construct the proposed private sewer or private drain as delineated on the drainage proposal or private sewer or private drain plan;
+      (ii) a title insurance policy in an amount determined by the department in accordance with 15 RCNY § 23-04 insuring the city of the owner's right to construct the proposed private sewer or private drain as delineated on the drainage proposal or private sewer or private drain plan;
 
       (iii) a properly recorded sewer easement agreement granting the owner the right to construct the proposed private sewer or private drain;
 
       (iv) a properly recorded declaration of maintenance obligating the owner and successors-in-interest to maintain the private sewer or private drain and all appurtenances thereto; and
 
-      (v) a security deposit in an amount determined by the department in accordance with § 23-04 of this rule guaranteeing the continuous and proper maintenance of the proposed private sewer or private drain for as long as such private sewer or private drain remains in use.
+      (v) a security deposit in an amount determined by the department in accordance with 15 RCNY § 23-04 guaranteeing the continuous and proper maintenance of the proposed private sewer or private drain for as long as such private sewer or private drain remains in use.
 
    (7) Owners proposing to construct a private sewer or private drain in a Record street which is not a finally mapped street shall submit all documents required by paragraphs (3) or (4) of this section and a certified copy of a variance issued by the Board of Standards and Appeals for proposed construction on lots not fronting a finally mapped street or a determination from the Department of Buildings that no such variance is required.
 
@@ -12315,7 +12341,7 @@ Chapter 23: Construction of Private Sewers Or Private Drains
 
       (iv) the dimensions and total area of the streets and/or sewer easements to be covered by the title insurance policy.
 
-   (2) The dollar amount of security deposits required by this rule shall be equal to the linear footage of the private sewer or private drain multiplied by seven, provided, however, that in no event shall the total amount of the required security deposit be less than five thousand dollars. The department may increase the required amount of security deposit in situations involving special conditions as outlined in § 23-02(c). All maintenance securities shall be deposited with the comptroller's office and shall be in a form acceptable to the comptroller.
+   (2) The dollar amount of security deposits required by this rule shall be equal to the linear footage of the private sewer or private drain multiplied by seven, provided, however, that in no event shall the total amount of the required security deposit be less than five thousand dollars. The department may increase the required amount of security deposit in situations involving special conditions as outlined in 15 RCNY § 23-02(c). All maintenance securities shall be deposited with the comptroller's office and shall be in a form acceptable to the comptroller.
 
    (3) The dollar amount of performance and maintenance bonds shall be an amount that is equal to the cost of construction, as determined by the department, of the proposed private sewers or private drains.
 
@@ -12397,13 +12423,13 @@ Chapter 23: Construction of Private Sewers Or Private Drains
 
    (13) copies of all permits or approvals required by federal, state, and other local laws and regulations;
 
-   (14) proof of compliance with all legal documentation required by § 23-03(c) all insurance and security requirements of § 23-04 of this rule;
+   (14) proof of compliance with all legal documentation required by 15 RCNY § 23-03(c) all insurance and security requirements of 15 RCNY § 23-04;
 
    (15) a sworn affidavit executed by the owner of the proposed development stating that he or she has submitted all the required legal documents and affidavits required for final approval of the proposed private sewer or private drain and attesting to the truth and validity of such legal documents and affidavits;
 
-   (16) paper prints prepared in accordance with Appendix A-3 of this rule; and
+   (16) paper prints prepared in accordance with Appendix A-3; and
 
-   (17) the department's review fee for private sewer or private drains in accordance with § 23-08 of this rule;
+   (17) the department's review fee for private sewer or private drains in accordance with 15 RCNY § 23-08;
 
 (c) Standard for approval of private sewer or private drain plans. The department shall approve a private sewer or private drain plans only after that the department has determined that such plans are complete and have been designed and will be constructed in full compliance with all standards, requirements, and provisions of this rule and the department's most recent design criteria.
 
@@ -12445,7 +12471,7 @@ Chapter 23: Construction of Private Sewers Or Private Drains
 
    (4) a signed and notarized copy of the construction contract between the owner and his or her private sewer or private drain contractor including the contractor's bid;
 
-   (5) an insurance policy complying with the requirements of sections 23-03 and 23-04 this rule provided by the owner or his or her contractor and submitted directly by the owner or his or her contractor or their insurance broker to the department's borough records office;
+   (5) an insurance policy complying with the requirements of 15 RCNY §§ 23-03 and 23-04 provided by the owner or his or her contractor and submitted directly by the owner or his or her contractor or their insurance broker to the department's borough records office;
 
    (6) performance and maintenance bonds posted by the owner or the owner's contractor in the amount specified on the owner's approved private sewer or private drain plan;
 
@@ -12532,6 +12558,46 @@ Chapter 23: Construction of Private Sewers Or Private Drains
 
 
 
+
+
+
+**Appendix A-1 Standards for the Design of Private Sewers or Private Drains**
+
+
+
+
+**Appendix A-2 Requirements for the Preparation and Submission of Drainage Proposal Plans**
+
+
+
+
+**Appendix A-3 Requirements for the Preparation of Private Sewer or Private Drain Plans**
+
+
+
+
+**Appendix A-4 Requirements for Standard Notes on Private Sewer or Private Drain Plans**
+
+
+
+
+**Appendix A-5 Requirements for Specific Notes on Private Sewer or Private Drain Plans**
+
+
+
+
+**Appendix A-6 Requirements for the Preparation of the Survey of the Proposed Development and the Location and Route of the Private Sewers or Private Drains**
+
+
+
+
+**Appendix A-7 Requirements for the Preparation of the Professional Engineer or Registered Architect's Cost Estimate**
+
+
+
+
+**Appendix A-8 Requirements for the Preparation of the Boring Logs and Boring Reports**
+
 Chapter 24: [Contamination of Tax Lot By Hazardous Materials Or Hazardous Waste; Placement and Removal of An (E) Designation On Tax Lot In Connection With Zoning Map Amendment]
 --------------------------------------------------
 
@@ -12540,7 +12606,7 @@ Chapter 24: [Contamination of Tax Lot By Hazardous Materials Or Hazardous Waste;
 *§ 24-01 Authority.* ::
 
 
-This chapter is promulgated pursuant to §§ 15 (e), 1403 and 1404 of the Charter of the City of New York and in accordance with § 11-15 of the Zoning Resolution of the City of New York.
+This chapter is promulgated pursuant to §§ 15(e), 1403 and 1404 of the Charter of the City of New York and in accordance with § 11-15 of the Zoning Resolution of the City of New York.
 
 
 
@@ -12590,9 +12656,9 @@ Department. "Department" shall mean the New York City Department of Environmenta
 
 Development. "Development", or "Develop" shall mean:
 
-1. with respect to hazardous materials, the development of a new structure, an enlargement, extension or change of use with respect to an existing structure involving a residential or community facility use, and/or any work on a tax lot(s) that involves soil disturbance, including, but not limited to grading or excavation related to the construction or alteration of a new or existing structure(s) on a tax lot(s), and
+   1. with respect to hazardous materials, the development of a new structure, an enlargement, extension or change of use with respect to an existing structure involving a residential or community facility use, and/or any work on a tax lot(s) that involves soil disturbance, including, but not limited to grading or excavation related to the construction or alteration of a new or existing structure(s) on a tax lot(s), and
 
-2. with respect to air quality and noise, development of a new structure, or a change of use, enlargement, extension or alteration of an existing structure(s) on a tax lot(s).
+   2. with respect to air quality and noise, development of a new structure, or a change of use, enlargement, extension or alteration of an existing structure(s) on a tax lot(s).
 
 Development Site. "Development Site" shall mean a tax lot(s) located within the area of a proposed Zoning Amendment or Zoning Action and which is proposed to be developed by the applicant for such Zoning Amendment or Zoning Action or which the Lead Agency has identified pursuant to CEQR as likely to be developed as a direct consequence of the Zoning Amendment or Zoning Action.
 
@@ -12648,9 +12714,9 @@ Project Site. "Project Site" shall mean a tax lot(s) that is under the control o
 
 Qualified Environmental Professional (QEP). "Qualified environmental professional" (QEP) means a person who possesses sufficient specific education, training, and experience necessary to exercise professional judgment to develop opinions and conclusions regarding the presence of releases or threatened releases to the surface or subsurface of a property or off-site areas, sufficient to meet the objectives and performance factors for the areas of practice identified by this chapter. Such a person must:
 
-1. Hold a current professional engineer's or a professional geologist's license or registration issued by any state, or hold a baccalaureate degree or higher in engineering or geology and have the equivalent of three years of full-time relevant experience in site investigation and remediation of the type detailed in this chapter; or
+   1. Hold a current professional engineer's or a professional geologist's license or registration issued by any state, or hold a baccalaureate degree or higher in engineering or geology and have the equivalent of three years of full-time relevant experience in site investigation and remediation of the type detailed in this chapter; or
 
-2. Be a site remediation professional licensed or certified by the federal government, any state or a recognized accrediting agency, to perform investigation or remediation tasks consistent with office guidance, and have the equivalent of three years of full-time relevant experience.
+   2. Be a site remediation professional licensed or certified by the federal government, any state or a recognized accrediting agency, to perform investigation or remediation tasks consistent with office guidance, and have the equivalent of three years of full-time relevant experience.
 
 Tax Lot. "Tax Lot" shall mean a tax lot identified by parcel number on the official tax maps of the City of New York.
 
@@ -12694,7 +12760,7 @@ a. The Lead Agency may prepare or may cause to be prepared a preliminary screeni
 
 b. Based on the visual or historical documentation prepared under subdivision (a) with respect to lots not under the ownership or control of the person seeking the Zoning Amendment or Zoning Action, the Lead Agency may determine that an (E) Designation should be placed on the tax lot(s) identified under subdivision (a) in connection with the approval of the Zoning Amendment or Zoning Action. In making such determination, the Lead Agency may consult with the Department, and the Lead Agency will inform the Department and OER of such determination.
 
-c. A Phase I Environmental Site Assessment pursuant to § 24-05 shall not be required prior to placement of an (E) Designation on a lot pursuant to this Section unless the lot is under the ownership or control of the applicant for the Zoning Amendment or Zoning Action.
+c. A Phase I Environmental Site Assessment pursuant to 15 RCNY § 24-05 shall not be required prior to placement of an (E) Designation on a lot pursuant to this Section unless the lot is under the ownership or control of the applicant for the Zoning Amendment or Zoning Action.
 
 
 
@@ -12704,7 +12770,7 @@ c. A Phase I Environmental Site Assessment pursuant to § 24-05 shall not be req
 *§ 24-05 Phase I Environmental Site Assessment.* ::
 
 
-a. For any Development Site that is under the control or ownership of the applicant and that, following review of visual or historical documentation pursuant to § 24-04, warrants a hazardous materials assessment, the Lead Agency shall conduct, or shall cause to be conducted, a Phase I Environmental Site Assessment (Phase I ESA) consistent with the current American Society of Testing and Materials (ASTM) Phase I ESA standard.
+a. For any Development Site that is under the control or ownership of the applicant and that, following review of visual or historical documentation pursuant to 15 RCNY § 24-04, warrants a hazardous materials assessment, the Lead Agency shall conduct, or shall cause to be conducted, a Phase I Environmental Site Assessment (Phase I ESA) consistent with the current American Society of Testing and Materials (ASTM) Phase I ESA standard.
 
 b. The Phase I ESA may be limited to:
 
@@ -12732,7 +12798,7 @@ a. Before an applicant may receive a building permit from DOB for any Developmen
 
    (1) Complete a Phase II Environmental Site Assessment (Phase II ESA) in accordance with this section to determine the level and extent of contamination at the proposed Project Site; or
 
-   (2) Submit to OER historical, regulatory or other evidence that a Phase II ESA is not required for the proposed Development, which OER shall review in accordance with § 24-09.
+   (2) Submit to OER historical, regulatory or other evidence that a Phase II ESA is not required for the proposed Development, which OER shall review in accordance with 15 RCNY § 24-09.
 
 b. The applicant shall prepare and submit to OER a Phase II Investigative Work Plan to implement an ASTM compliant or otherwise OER-approvable Phase II ESA, prepared in accordance with the CEQR Technical Manual. Such Work Plan shall be prepared using an OER-approved format and must also include:
 
@@ -12768,7 +12834,7 @@ d. Where applicable and at a minimum, the following procedures or requirements s
 
    (5) Samples from sites on the DEC Registry of Inactive Hazardous Waste Sites shall use a laboratory certified under EPA's Contract Laboratory Program or DEC's Analytical Services Program (ASP).
 
-e. OER will review the Work Plan submitted pursuant to subdivisions (b) and (c) of this section in accordance with § 24-09.
+e. OER will review the Work Plan submitted pursuant to subdivisions (b) and (c) of this section in accordance with 15 RCNY § 24-09.
 
 f. The applicant shall implement the Work Plan as approved by OER.
 
@@ -12816,15 +12882,15 @@ g. Upon completion of the Phase II ESA, a report entitled "Phase II ESA Report" 
 
 h. The applicant may submit a Remedial Action Plan with the Phase II ESA Report.
 
-i. OER will review the Phase II ESA Report in accordance with § 24-09.
+i. OER will review the Phase II ESA Report in accordance with 15 RCNY § 24-09.
 
 j. Upon completion of its review of the Phase II ESA Report, OER will determine whether a Remedial Action Plan and site-specific Construction HASP (CHASP) is required.
 
    (1) If OER determines that a Remedial Action Plan is not required, OER will issue a notice of no objection to DOB;
 
-   (2) If a Remedial Action Plan and CHASP have been submitted, OER will review it in accordance with §§ 24-07 and 24-09;
+   (2) If a Remedial Action Plan and CHASP have been submitted, OER will review it in accordance with 15 RCNY §§ 24-07 and 24-09;
 
-   (3) If OER determines that a Remedial Action Plan and CHASP are required and a Remedial Action Plan and CHASP has not already been submitted by the applicant, the applicant shall submit a Remedial Action Plan and CHASP for review by OER in accordance with §§ 24-07 and 24-09.
+   (3) If OER determines that a Remedial Action Plan and CHASP are required and a Remedial Action Plan and CHASP has not already been submitted by the applicant, the applicant shall submit a Remedial Action Plan and CHASP for review by OER in accordance with 15 RCNY §§ 24-07 and 24-09.
 
 
 
@@ -12838,7 +12904,7 @@ j. Upon completion of its review of the Phase II ESA Report, OER will determine 
 
 a. Preparation of the Remedial Action Plan.
 
-   (1) Before an applicant may receive a building permit from DOB for any Development on a tax lot(s) subject to an (E) Designation or an Environmental Restrictive Declaration, where OER has determined that a Remedial Action Plan is required pursuant to § 24-06, the applicant shall prepare a Remedial Action Plan and CHASP. The Remedial Action Plan shall address contamination identified in the Phase II ESA Report to the satisfaction of OER, including, but not limited to:
+   (1) Before an applicant may receive a building permit from DOB for any Development on a tax lot(s) subject to an (E) Designation or an Environmental Restrictive Declaration, where OER has determined that a Remedial Action Plan is required pursuant to 15 RCNY § 24-06, the applicant shall prepare a Remedial Action Plan and CHASP. The Remedial Action Plan shall address contamination identified in the Phase II ESA Report to the satisfaction of OER, including, but not limited to:
 
       (i) Elevated levels of contaminants pursuant to applicable DEC standards, criteria, and guidance;
 
@@ -12856,7 +12922,7 @@ a. Preparation of the Remedial Action Plan.
 
    (2) In preparing a Remedial Action Plan, the applicant shall use templates provided by OER and consider appropriate remediation techniques, including, but not limited to, those set forth in the CEQR Technical Manual. The Remedial Action Plan shall include a list of all remedial action objectives and explain how the proposed remedial action achieves these objectives.
 
-   (3) OER shall review the Remedial Action Plan in accordance with § 24-09.
+   (3) OER shall review the Remedial Action Plan in accordance with 15 RCNY § 24-09.
 
    (4) In conjunction with its review of the Remedial Action Plan, OER may require the execution of a Declaration of Covenants and Restrictions by the title holder for the tax lot(s) subject to the (E) Designation or the Environmental Restrictive Declaration, which shall be recorded against the property prior to the issuance of a notice of satisfaction.
 
@@ -12876,7 +12942,7 @@ b. Implementation of the Remedial Action Plan.
 
    (2) The applicant shall ensure that field oversight of the remedial action is performed by a professional engineer, a QEP, or a trained associate under the direct supervision of a professional engineer or QEP, and that the field oversight of engineering controls is performed by a professional engineer or a trained associate under the direct supervision of a professional engineer.
 
-   (3) After OER has reviewed and approved the Remedial Action Plan in accordance with § 24-09, OER will issue a notice to proceed which authorizes DOB to issue such building permit or permits as are necessary to implement the approved remedial action. In no event, however, shall the applicant receive from DOB a temporary certificate of occupancy or a certificate of occupancy until OER issues a notice of satisfaction pursuant to paragraph (2) of subsection (c) of this section.
+   (3) After OER has reviewed and approved the Remedial Action Plan in accordance with 15 RCNY § 24-09, OER will issue a notice to proceed which authorizes DOB to issue such building permit or permits as are necessary to implement the approved remedial action. In no event, however, shall the applicant receive from DOB a temporary certificate of occupancy or a certificate of occupancy until OER issues a notice of satisfaction pursuant to paragraph (2) of subsection (c) of this section.
 
       (i) If the proposed Development of the tax lot is altered in any way after the Remedial Action Plan is approved and before the remedial action is completed and prior to any Development, OER's approval of the Remedial Action Plan is invalidated, and the applicant must submit a new or amended Remedial Action Plan for approval or demonstrate to OER that the previously approved Remedial Action Plan is appropriate.
 
@@ -12888,15 +12954,15 @@ b. Implementation of the Remedial Action Plan.
 
          (a) Any written request for an extension shall explain the circumstances for the delay in implementation of the Remedial Action Plan.
 
-         (b) OER shall review a written request for an extension by the applicant in accordance with § 24-09.
+         (b) OER shall review a written request for an extension by the applicant in accordance with 15 RCNY § 24-09.
 
       (ii) If an approval for a Remedial Action Plan expires, the Applicant shall:
 
-         (a) Submit a new Remedial Action Plan for OER review in accordance with § 24-09; or
+         (a) Submit a new Remedial Action Plan for OER review in accordance with 15 RCNY § 24-09; or
 
          (b) Submit a written request for a renewed approval of the expired Remedial Action Plan.
 
-   (1) OER will review a new Remedial Action Plan or a request for a renewed approval in accordance with § 24-09.
+   (1) OER will review a new Remedial Action Plan or a request for a renewed approval in accordance with 15 RCNY § 24-09.
 
    (2) OER shall have the right to inspect any tax lot(s) subject to remediation pursuant to this chapter consistent with applicable health and safety regulations, and the applicant shall allow any such inspection by OER.
 
@@ -12954,7 +13020,7 @@ d. Each payment shall be in the form of a personal, business or certified check 
 
 The applicant shall include the OER project number and/or project name on the certified check.
 
-e. At the request of the applicant, OER will meet with the applicant regarding (1) the required contents of any plan or report required pursuant to §§ 24-06 and 24-07 of this chapter, and (2) the timeline to meet program milestones to expedite such work.
+e. At the request of the applicant, OER will meet with the applicant regarding (1) the required contents of any plan or report required pursuant to 15 RCNY §§ 24-06 and 24-07, and (2) the timeline to meet program milestones to expedite such work.
 
 f. Upon initial receipt of a submission required pursuant to this chapter, including plans and reports, OER will review such submission and attempt to provide written comments within thirty (30) days of receipt of such initial submission.
 
@@ -12990,7 +13056,7 @@ b. Discovery of evidence of "reportable quantities" of hazardous materials or ha
 *§ 24-11 Lead Agency Records/Agency Consultation.* ::
 
 
-a. The Lead Agency shall maintain a single file containing copies of all Phase I ESA Reports issued pursuant to § 24-05 of this rule, together with the relevant Environmental Assessment Statement, Environmental Impact Statement, or other CEQR determinations made in connection therewith.
+a. The Lead Agency shall maintain a single file containing copies of all Phase I ESA Reports issued pursuant to 15 RCNY § 24-05, together with the relevant Environmental Assessment Statement, Environmental Impact Statement, or other CEQR determinations made in connection therewith.
 
 b. The Department, DCP, and OEC shall meet and confer on a periodic basis concerning the implementation of this rule.
 
@@ -13069,6 +13135,11 @@ d. Completion of the Remedial Action Plan.
 
 
 
+
+
+
+**Appendix A List of Facilities, Activities or Conditions Requiring Assessment**
+
 Chapter 25: Rules Concerning the Use of Emissions Control Technology On Sight-seeing Buses A
 --------------------------------------------------
 
@@ -13082,13 +13153,13 @@ Chapter 25: Rules Concerning the Use of Emissions Control Technology On Sight-se
 *§ 25-01 Definitions.* ::
 
 
-Best available retrofit technology (BART). "Best available retrofit technology" (BART) shall mean a technology, verified by the United States environmental protection agency or the California air resources board, for reducing the emission of pollutants that achieves reductions in particulate matter emissions at the highest classification level for diesel emission control strategies, as set forth in § 25-04 of subchapter B of this chapter, that is applicable to the particular engine and application. Such technology shall also, at a reasonable cost, achieve the greatest reduction in emissions of nitrogen oxides at such particulate matter reduction level and shall in no event result in a net increase in the emissions of either particulate matter or nitrogen oxides.
+Best available retrofit technology (BART). "Best available retrofit technology" (BART) shall mean a technology, verified by the United States environmental protection agency or the California air resources board, for reducing the emission of pollutants that achieves reductions in particulate matter emissions at the highest classification level for diesel emission control strategies, as set forth in 15 RCNY § 25-04, that is applicable to the particular engine and application. Such technology shall also, at a reasonable cost, achieve the greatest reduction in emissions of nitrogen oxides at such particulate matter reduction level and shall in no event result in a net increase in the emissions of either particulate matter or nitrogen oxides.
 
 Commissioner. "Commissioner" shall mean the Commissioner of the New York City Department of Environmental Protection or her designee.
 
 Person. "Person" shall mean any natural person, partnership, firm, company, association, joint stock association, corporation or other legal entity.
 
-Reasonable cost. "Reasonable cost" shall mean that such technology does not cost greater than thirty percent more than other technology applicable to the particular engine and application that falls within the same classification level for diesel emission control strategies, as set forth in § 25-04 of subchapter B of this chapter, when considering the cost of the strategies, themselves, and the cost of installation.
+Reasonable cost. "Reasonable cost" shall mean that such technology does not cost greater than thirty percent more than other technology applicable to the particular engine and application that falls within the same classification level for diesel emission control strategies, as set forth in 15 RCNY § 25-04, when considering the cost of the strategies, themselves, and the cost of installation.
 
 Sight-seeing bus. "Sight-seeing bus" shall mean a motor vehicle designed to comfortably seat and carry eight or more passengers operating for hire from a fixed point in the city of New York to a place or places of interest or amusements, and shall also include a vehicle, designed as aforesaid which by oral or written contract is let and hired or otherwise engaged for its exclusive use for a specific or special trip or excursion from a starting point within the city of New York.
 
@@ -13176,7 +13247,7 @@ No owner or operator of a sight-seeing bus subject to this chapter shall be requ
 
    (1) Identification of the required BART;
 
-   (2) An explanation as to why the applicable BART is unavailable. Such explanation must include all documentation generated in the BART selection process described in § 25-05 of this chapter;
+   (2) An explanation as to why the applicable BART is unavailable. Such explanation must include all documentation generated in the BART selection process described in 15 RCNY § 25-05;
 
    (3) Identification of a technology for reducing the emission of pollutants, if any, that is available and appropriate for such vehicle, which may include a technology that does not appear on the EPA or CARB verified lists, and that, if available and appropriate, will be used instead of the BART.
 
@@ -13199,7 +13270,7 @@ No owner or operator of a sight-seeing bus subject to this chapter shall be requ
 
 
 
-Chapter 26: Rules Concerning the Use of Ultra-low Sulfur Diesel Fuel and Emissions Control Technology On Vehicles That Transport Children To and from School
+Chapter 26: Rules Concerning the Use of Ultra-low Sulfur Diesel Fuel and Emissions Control Technology on Vehicles That Transport Children to and from School
 --------------------------------------------------
 
 
@@ -13212,7 +13283,7 @@ Chapter 26: Rules Concerning the Use of Ultra-low Sulfur Diesel Fuel and Emissio
 *§ 26-01 Definitions.* ::
 
 
-Best available retrofit technology. "Best available retrofit technology" shall mean a technology, verified by the United States environmental protection agency or the California air resources board, for reducing the emission of pollutants that achieves reductions in particulate matter emissions at the highest classification level for diesel emission control strategies, as set forth in § 26-04 of subchapter B of this chapter, that is applicable to the particular engine and application. Such technology shall also, at a reasonable cost, achieve the greatest reduction in emissions of nitrogen oxides at such particulate matter reduction level and shall in no event result in a net increase in the emissions of either particulate matter or nitrogen oxides.
+Best available retrofit technology. "Best available retrofit technology" shall mean a technology, verified by the United States environmental protection agency or the California air resources board, for reducing the emission of pollutants that achieves reductions in particulate matter emissions at the highest classification level for diesel emission control strategies, as set forth in 15 RCNY § 26-04, that is applicable to the particular engine and application. Such technology shall also, at a reasonable cost, achieve the greatest reduction in emissions of nitrogen oxides at such particulate matter reduction level and shall in no event result in a net increase in the emissions of either particulate matter or nitrogen oxides.
 
 Commissioner. "Commissioner" shall mean the Commissioner of the New York City Department of Environmental Protection or his or her designee.
 
@@ -13220,7 +13291,7 @@ Department of education. "Department of education" shall mean the New York city 
 
 Person. "Person" shall mean any natural person, partnership, firm, company, association, joint stock association, corporation or other legal entity.
 
-Reasonable cost. "Reasonable cost" shall mean that such technology does not cost greater than thirty percent more than other technology applicable to the particular engine and application that falls within the same classification level for diesel emission control strategies, as set forth in § 26-04 of subchapter B of this chapter, when considering the cost of the strategies, themselves, and the cost of installation.
+Reasonable cost. "Reasonable cost" shall mean that such technology does not cost greater than thirty percent more than other technology applicable to the particular engine and application that falls within the same classification level for diesel emission control strategies, as set forth in 15 RCNY § 26-04, when considering the cost of the strategies, themselves, and the cost of installation.
 
 School bus. "School bus" means any vehicle operated pursuant to a school bus contract, designed to transport ten or more children at one time, of the designation "Type C bus" or "Type D bus" as set forth in 17 NYCRR §§ 720.1(Z) and (AA), and used to transport children to or from any school located in the city of New York, and excluding any vehicle utilized primarily to transport children with special educational needs who do not travel to and from school in vehicles used to transport general education students.
 
@@ -13364,7 +13435,7 @@ Chapter 27: Rules Concerning the Use of Ultra Low Sulfur Diesel Fuel and Emissio
 *§ 27-01 Definitions.* ::
 
 
-Best available retrofit technology. "Best available retrofit technology" means a technology, verified by the United States environmental protection agency or the California air resources board, for reducing the emission of pollutants that achieves reductions in particulate matter emissions at the highest classification level for diesel emission control strategies, as set forth in § 27-04 of subchapter B of this chapter, that is applicable to the particular engine and application. Such technology shall also, at a reasonable cost, achieve the greatest reduction in emissions of nitrogen oxides at such particulate matter reduction level and shall in no event result in a net increase in the emissions of either particulate matter or nitrogen oxides.
+Best available retrofit technology. "Best available retrofit technology" means a technology, verified by the United States environmental protection agency or the California air resources board, for reducing the emission of pollutants that achieves reductions in particulate matter emissions at the highest classification level for diesel emission control strategies, as set forth in 15 RCNY § 27-04, that is applicable to the particular engine and application. Such technology shall also, at a reasonable cost, achieve the greatest reduction in emissions of nitrogen oxides at such particulate matter reduction level and shall in no event result in a net increase in the emissions of either particulate matter or nitrogen oxides.
 
 City agency. "City agency" means a city, county, borough, administration, department, division, bureau, board or commission, or a corporation, institution or agency of government, the expenses of which are paid in whole or in part from the city treasury.
 
@@ -13382,7 +13453,7 @@ Operate primarily within the city of New York. "Operate primarily within the cit
 
 Person. "Person" means any natural person, co-partnership, firm, company, association, joint stock association, corporation or other like organization.
 
-Reasonable cost. "Reasonable cost" shall mean that such technology does not cost greater than thirty percent more than other technology applicable to the particular engine and application that falls within the same classification level for diesel emission control strategies, as set forth in § 27-04, when considering the cost of the strategies, themselves, and the cost of installation.
+Reasonable cost. "Reasonable cost" shall mean that such technology does not cost greater than thirty percent more than other technology applicable to the particular engine and application that falls within the same classification level for diesel emission control strategies, as set forth in 15 RCNY § 27-04, when considering the cost of the strategies, themselves, and the cost of installation.
 
 Recyclable materials. "Recyclable materials" means solid waste that may be separated, collected, processed, marketed and returned to the economy in the form of raw materials or products, including but not limited to types of metal, glass, paper, plastic, food waste, tires and yard waste.
 
@@ -13559,7 +13630,7 @@ New York City Department of Environmental Protection Bureau of Environmental Com
 *§ 28-101 Required Noise Mitigation Measures for General Construction.* ::
 
 
-a. The responsible party shall self-certify in its Construction Noise Mitigation Plan that all construction tools and equipment have been maintained so that they operate at normal manufacturer's operating specifications, including at peak loading. Such self-certification shall be indicated on the Construction Noise Mitigation Plan form required by § 28-100 of this chapter. Upon a DEP inspection of the work site, DEP shall use the noise level guidelines in the Federal Highway Administration Roadway Construction Noise Model User's Guide, Jan. 2006, page 3, located in the Appendix to this chapter, as a means of identifying equipment that may be the cause of a noise complaint. If an individual piece of equipment is identified by DEP as exceeding the level specified in such Guide located in the Appendix to this chapter, upon notification by DEP, the responsible party shall have the option of: (i) performing maintenance to demonstrate a good faith effort, notwithstanding the model year of the equipment, to mitigate the noise by a measurable level acceptable to the Department, (ii) replacing the equipment with equipment that complies with said level, or (iii) filing an Alternative Noise Mitigation Plan pursuant to 15 RCNY § 28-104, within five business days of said inspection. If the responsible party elects to perform maintenance pursuant to option (i), but cannot demonstrate within five business days a reduction in noise by a measurable level acceptable to the Department, such party shall pursue one of the other two options to the satisfaction of the Department. The failure to exercise and complete one of such three options within five business days of said inspection shall be a violation of this rule.
+a. The responsible party shall self-certify in its Construction Noise Mitigation Plan that all construction tools and equipment have been maintained so that they operate at normal manufacturer's operating specifications, including at peak loading. Such self-certification shall be indicated on the Construction Noise Mitigation Plan form required by 15 RCNY § 28-100. Upon a DEP inspection of the work site, DEP shall use the noise level guidelines in the Federal Highway Administration Roadway Construction Noise Model User's Guide, Jan. 2006, page 3, located in the Appendix to this chapter, as a means of identifying equipment that may be the cause of a noise complaint. If an individual piece of equipment is identified by DEP as exceeding the level specified in such Guide located in the Appendix to this chapter, upon notification by DEP, the responsible party shall have the option of: (i) performing maintenance to demonstrate a good faith effort, notwithstanding the model year of the equipment, to mitigate the noise by a measurable level acceptable to the Department, (ii) replacing the equipment with equipment that complies with said level, or (iii) filing an Alternative Noise Mitigation Plan pursuant to 15 RCNY § 28-104, within five business days of said inspection. If the responsible party elects to perform maintenance pursuant to option (i), but cannot demonstrate within five business days a reduction in noise by a measurable level acceptable to the Department, such party shall pursue one of the other two options to the satisfaction of the Department. The failure to exercise and complete one of such three options within five business days of said inspection shall be a violation of this rule.
 
 b. All construction equipment being operated on site must be equipped with the appropriate manufacturer's noise reduction device(s), including, but not limited to, a manufacturer's muffler (or equivalently rated material) that is free of rust, holes and exhaust leaks.
 
@@ -13577,7 +13648,7 @@ h. The contractor shall create and utilize a noise mitigation training program, 
 
 i. When work is planned near sensitive receptors, including but not limited to facilities such as schools, hospitals, places of worship, and homes for the aging, the responsible party shall cooperate with the facility owner or operator to coordinate the work schedule so as to minimize the noise impact on the facility.
 
-j. A DEP inspector may visit a construction site to examine the Noise Mitigation Plan upon receiving a complaint, or as a matter of routine inspection, to ensure that the responsible party is complying with such Plan. A responsible party found not to be complying with such Plan shall be provided a cure period of three business days to correct the condition or to file an Alternative Noise Mitigation Plan under § 28-104 of this chapter. If the condition is not corrected nor an Alternative Noise Mitigation Plan filed with DEP within three business days, then a Notice of Violation shall be issued against the responsible party. Said violations may be issued on-site or by mail. Notwithstanding the preceding sentences in this subdivision, there shall be no cure period afforded with respect to compliance with 15 RCNY §§ 28-100; 28-101(a), (b), (e), (f), (h); 28-104; 28-105; and 28-106(a), (b), (d) (g) &amp; (i).
+j. A DEP inspector may visit a construction site to examine the Noise Mitigation Plan upon receiving a complaint, or as a matter of routine inspection, to ensure that the responsible party is complying with such Plan. A responsible party found not to be complying with such Plan shall be provided a cure period of three business days to correct the condition or to file an Alternative Noise Mitigation Plan under 15 RCNY § 28-104. If the condition is not corrected nor an Alternative Noise Mitigation Plan filed with DEP within three business days, then a Notice of Violation shall be issued against the responsible party. Said violations may be issued on-site or by mail. Notwithstanding the preceding sentences in this subdivision, there shall be no cure period afforded with respect to compliance with 15 RCNY §§ 28-100; 28-101(a), (b), (e), (f), (h); 28-104; 28-105; and 28-106(a), (b), (d) (g) &amp; (i).
 
 k. Construction activities may take place during the hours of 7:00 a.m. to 6:00 p.m. on weekdays. At all other times, the permitee shall obtain after-hours authorization, pursuant to 15 RCNY § 28-103.
 
@@ -13599,7 +13670,7 @@ o. Technical terms in these rules are defined in the Noise Code or in 15 RCNY §
 
 The devices listed in this section require additional noise mitigation. A responsible party using any of these devices shall mitigate the noise by following the rules set forth in this section for the specific device. There are five categories of devices:
 
-a. Impact Equipment: Pile Drivers, Jackhammers, Hoe Rams, Blasting.b. Earth Moving Devices: Vacuum Excavators.c. Construction Trucks: Dump Trucks.d. Stationary Devices: Cranes, Auger Drills, Street Plates, Backup Alarms.e. Manual Devices: Concrete Saws. If the responsible party cannot in good faith comply with the noise mitigation rules for each device, the responsible party shall file with DEP an Alternative Noise Mitigation Plan in accordance with § 28-104 of this chapter.
+a. Impact Equipment: Pile Drivers, Jackhammers, Hoe Rams, Blasting.b. Earth Moving Devices: Vacuum Excavators.c. Construction Trucks: Dump Trucks.d. Stationary Devices: Cranes, Auger Drills, Street Plates, Backup Alarms.e. Manual Devices: Concrete Saws. If the responsible party cannot in good faith comply with the noise mitigation rules for each device, the responsible party shall file with DEP an Alternative Noise Mitigation Plan in accordance with 15 RCNY § 28-104.
 
 a. Impact Equipment.
 
@@ -13637,7 +13708,7 @@ a. Impact Equipment.
 
          ii. The noise barrier shall be long and tall enough to completely block the line of sight between the pile driver and any indoor receptor within 200 feet and that is a maximum of 20 feet above grade level, when work occurs. The barrier should be placed as close to the actual pile driving work as feasible. Greater noise attenuation occurs when barriers are placed as close as possible to the noise source.
 
-         iii. Where applicable, portable noise shields made of steel frames wrapped with noise curtain material, such as SoundSeal model BBC-13-2, or equivalently rated material, shall be hoisted up into position on the crane's second cable to form a noise barrier in the direction of sensitive receptors. The shield shall be large enough to completely block the line of sight between the receptors and the pile driver, and shall be lowered to the ground as the pile is being driven in order to maintain the shielding effect. Such portable noise shield shall be utilized when the pile driver is higher than any barrier at the site required under § 28-101(g) of this chapter.
+         iii. Where applicable, portable noise shields made of steel frames wrapped with noise curtain material, such as SoundSeal model BBC-13-2, or equivalently rated material, shall be hoisted up into position on the crane's second cable to form a noise barrier in the direction of sensitive receptors. The shield shall be large enough to completely block the line of sight between the receptors and the pile driver, and shall be lowered to the ground as the pile is being driven in order to maintain the shielding effect. Such portable noise shield shall be utilized when the pile driver is higher than any barrier at the site required under 15 RCNY § 28-101(g).
 
          iv. Alternative barriers may be utilized in accordance with site-specific conditions. For example, shipping container (Conex) boxes or truck trailers may be positioned along the edge of the work site to form an effective semi-permanent noise barrier. Sufficient space at the site is necessary, as these containers are generally 8 feet wide by 8 feet tall and can be double-stacked to form a noise barrier 16 feet in height. The gaps between and/or under container boxes shall be filled-in with heavy vinyl noise curtains or similar materials. It should be noted that gaps and spaces are one of the primary contributors to degrading a noise barrier's performance.
 
@@ -13977,7 +14048,7 @@ New York City Department of Environmental Protection Bureau of Environmental Com
 *§ 28-106 Required Noise Mitigation Measures for Utilities.* ::
 
 
-a. A utility company conducting construction activity shall self-certify in its Construction Noise Mitigation Plan that all construction tools and equipment have been maintained so that they operate at normal manufacturer's operating specifications, including at peak loading. Such self-certification shall be indicated on the Construction Noise Mitigation Plan form required by § 28-100 of this chapter. Upon a DEP inspection of the work site, DEP shall use the noise level guidelines in the Federal Highway Administration Roadway Construction Noise Model User's Guide, Jan. 2006, page 3, located in the Appendix to this chapter, as a means of identifying equipment that may be the cause of a noise complaint. If an individual piece of equipment is identified by DEP as exceeding the level specified in such Guide located in the Appendix to this chapter, upon notification by DEP, the responsible party shall have the option of: (i) performing maintenance to demonstrate a good faith effort, notwithstanding the model year of the equipment, to mitigate the noise by a measurable level acceptable to the Department, (ii) replacing the equipment with equipment that complies with said level, or (iii) filing an Alternative Noise Mitigation Plan pursuant to § 28-104 of this chapter, within five business days of said inspection. If the responsible party elects to perform maintenance pursuant to option (i), but cannot demonstrate within five business days a reduction in noise by a measurable level acceptable to the Department, such party shall pursue one of the other two options to the satisfaction of the Department. The failure to exercise and complete one of such three options within five business days of said inspection shall be a violation of this rule.
+a. A utility company conducting construction activity shall self-certify in its Construction Noise Mitigation Plan that all construction tools and equipment have been maintained so that they operate at normal manufacturer's operating specifications, including at peak loading. Such self-certification shall be indicated on the Construction Noise Mitigation Plan form required by 15 RCNY § 28-100. Upon a DEP inspection of the work site, DEP shall use the noise level guidelines in the Federal Highway Administration Roadway Construction Noise Model User's Guide, Jan. 2006, page 3, located in the Appendix to this chapter, as a means of identifying equipment that may be the cause of a noise complaint. If an individual piece of equipment is identified by DEP as exceeding the level specified in such Guide located in the Appendix to this chapter, upon notification by DEP, the responsible party shall have the option of: (i) performing maintenance to demonstrate a good faith effort, notwithstanding the model year of the equipment, to mitigate the noise by a measurable level acceptable to the Department, (ii) replacing the equipment with equipment that complies with said level, or (iii) filing an Alternative Noise Mitigation Plan pursuant to 15 RCNY § 28-104, within five business days of said inspection. If the responsible party elects to perform maintenance pursuant to option (i), but cannot demonstrate within five business days a reduction in noise by a measurable level acceptable to the Department, such party shall pursue one of the other two options to the satisfaction of the Department. The failure to exercise and complete one of such three options within five business days of said inspection shall be a violation of this rule.
 
 b. All tools and equipment being operated on site must be equipped with the appropriate manufacturer's noise reduction device. These devices, including but not limited to portable compressors and other such pneumatic tools, such as jackhammers/pavement breakers, shall be equipped with a standard muffler and jacket, free from air or exhaust leaks.
 
@@ -13997,17 +14068,17 @@ i. Notification shall be given to residents within 200 feet of the construction 
 
 j. The permit-holder shall respond to all noise complaints and/or official notice from DEP the same day as received or the next day if received after regular utility work hours or as may be required by DEP.
 
-k. All new vehicles will be phased in with the installation of quieter backup warning devices in accordance with paragraph 4 of subdivision d of § 28-102 of this chapter.
+k. All new vehicles will be phased in with the installation of quieter backup warning devices in accordance with paragraph 4 of subdivision d of 15 RCNY § 28-102.
 
 l. A formal noise mitigation training program shall be established and implemented for all field-worker supervisory personnel including sub-contractor supervisors. Supervisory personnel shall field-train all field workers in an effort to minimize construction noise.
 
 m. When work is planned near sensitive receptors, including but not limited to schools, hospitals, places of worship, homes for the aging, etc., the permit-holder shall cooperate with the facility owner/operator to coordinate the work whenever possible so as to minimize the impact on the facility and the utility shall use quieter devices and other noise mitigation methods, such as blankets and barriers.
 
-n. A DEP Inspector may visit the site to examine the Utility Noise Mitigation Plan upon receiving a complaint and may require further action to reduce the level of noise. The responsible party will be provided a 24-hour cure period to correct the condition or to file an Alternative Noise Mitigation Plan under § 28-104 of this chapter. If the condition is not corrected after 24 hours or if an Alternative Noise Mitigation Plan is not filed with DEP, a Notice of Violation shall be issued. However, there shall be no 24-hour cure period with respect to compliance with §§ 28-100, 28-101(a), (b), (f), or (h); § 28-104; § 28-105; and §§ 28-106(a), (b), (d), (g), or (i) of this chapter.
+n. A DEP Inspector may visit the site to examine the Utility Noise Mitigation Plan upon receiving a complaint and may require further action to reduce the level of noise. The responsible party will be provided a 24-hour cure period to correct the condition or to file an Alternative Noise Mitigation Plan under 15 RCNY § 28-104. If the condition is not corrected after 24 hours or if an Alternative Noise Mitigation Plan is not filed with DEP, a Notice of Violation shall be issued. However, there shall be no 24-hour cure period with respect to compliance with 15 RCNY §§ 28-100, 28-101(a), (b), (f), or (h), 28-104, 28-105, and 28-106(a), (b), (d), (g), or (i).
 
-o. Perimeter noise barriers shall be used as set forth in § 28-101(g) of this chapter. All gaps and spaces in the semi-permanent or temporary barriers shall be filled with noise attenuation material, and such barriers shall be placed as close as possible to the noise source to promote greater noise attenuation.
+o. Perimeter noise barriers shall be used as set forth in 15 RCNY § 28-101(g). All gaps and spaces in the semi-permanent or temporary barriers shall be filled with noise attenuation material, and such barriers shall be placed as close as possible to the noise source to promote greater noise attenuation.
 
-p. Utilities that engage in non-emergency, long-term projects, defined as continuous work that cannot be completed within 15 calendar days when there is a dedicated lane, shall be required to comply with §§ 28-100 to 28-104 of this chapter. Work shall be considered continuous even though there may be a cessation of activities for 24 hours or less during the project.
+p. Utilities that engage in non-emergency, long-term projects, defined as continuous work that cannot be completed within 15 calendar days when there is a dedicated lane, shall be required to comply with 15 RCNY §§ 28-100 to 28-104. Work shall be considered continuous even though there may be a cessation of activities for 24 hours or less during the project.
 
 
 
@@ -14119,7 +14190,7 @@ Sound Transmission Class (STC). The "Sound Transmission Class", or "STC rating",
 *§ 28-109 Appendix – Federal Highway Administration Roadway Construction Noise Model User's Guide, Jan. 2006.* ::
 
 
-CA/T Equipment 50 ft Noise Emission Reference Levels and Usage Factors  – All noise levels expressed in A-weighted decibels with RMS "slow" time constant 
+CA/T Equipment 50 ft Noise Emission Reference Levels and Usage Factors – All noise levels expressed in A-weighted decibels with RMS "slow" time constant
 
  
 
@@ -14131,8 +14202,18 @@ CA/T Equipment 50 ft Noise Emission Reference Levels and Usage Factors  – All 
       - Equipment Description
       - Impact Device? 
       - Usage Factor (%)
-      - Spec 721.560 Lmax @ 50ft (dBA, slow)
-      - Actual Measured Lmax @ 50ft (dBA, slow)
+      - Spec 721.560 Lmax@ 50ft (dBA, slow)
+      - Actual Measured Lmax@ 50ft (dBA, slow)
+~
+
+
+
+
+
+
+.. list-table::
+    :header-rows: 1
+
     * - A
       - All Other Equipment &gt; 5 HP
       - No 
@@ -14506,7 +14587,7 @@ c. "Commissioner" shall mean the Commissioner of the Department of Environmental
 
 d. "Department" shall mean the New York City Department of Environmental Protection.
 
-e. "Noise Consultant" shall mean any person on the "Approved Noise Consultants" list maintained by DEP whose appearance on such list was obtained in accordance with § 29-101 of this chapter.
+e. "Noise Consultant" shall mean any person on the "Approved Noise Consultants" list maintained by DEP whose appearance on such list was obtained in accordance with 15 RCNY § 29-101.
 
 
 
@@ -14964,7 +15045,7 @@ Chapter 31: Rule Governing House/site Connections To the Sewer System
 
    (5) Sewer certification applications shall show the proposed sanitary discharge; the proposed developed site storm flow; the allowable flow from the site; and/or the stormwater release rate from the site, in accordance with the following:
 
-      (i) Computation of allowable flow to be discharged into stormwater or combined sewers or drains shall be based on either the City drainage plan or an approved drainage proposal under which the existing sewers or drains were constructed. Computation of the stormwater release rate shall be in accordance with Section 31-03(a)(1) for connections in a combined sewer system.
+      (i) Computation of allowable flow to be discharged into stormwater or combined sewers or drains shall be based on either the City drainage plan or an approved drainage proposal under which the existing sewers or drains were constructed. Computation of the stormwater release rate shall be in accordance with 15 RCNY § 31-03(a)(1) for connections in a combined sewer system.
 
       (ii) Developed site storm flow shall be computed using the rational method for the total site area, with rainfall intensity of 5.95 inches per hour and the weighted runoff coefficient (Cw) based on the site development.
 
@@ -15340,7 +15421,7 @@ Chapter 31: Rule Governing House/site Connections To the Sewer System
 
    (1) A certificate of inspection shall be issued for each permit granted by the DEP upon: (i) successful completion of an inspection; and
 
-      (ii) compliance with all applicable requirements in sections 31-04, 31-05, and 31-07 of this Rule.
+      (ii) compliance with all applicable requirements in 15 RCNY §§ 31-04, 31-05, and 31-07.
 
    (2) For sewer certifications with multiple permits, a certificate of inspection shall be issued for each unit.
 
@@ -15531,6 +15612,77 @@ Please refer to the New York City Water Board Water and Wastewater Rate Schedule
 
 
 Please refer to the New York City Water Board Water and Wastewater Rate Schedule, Part IX – Customer Account Information and Complaint Resolution, Section 2, Complaint Resolution and Appeal Process for existing procedures governing challenges to the validity of any sewer rent, sewer surcharge, or water rent charge.
+
+
+
+
+Chapter 35: Voluntary Master Environmental Hazard Remediation Technician Registration Program
+--------------------------------------------------
+
+
+
+*§ 35-01 Definitions.* ::
+
+
+"Certificate of completion" means any license, certificate, diploma or other NYC Department of Environmental Protection approved documentation indicating that the applicant has satisfactorily completed department approved training programs or courses by a department approved training provider or providers.
+
+"Master environmental hazard remediation technician" means a person registered with the NYC Department of Environmental Protection after successfully presenting to the commissioner current documentation of having completed required environmental remediation training programs or courses from a department approved training provider as demonstrated by a certificate of completion.
+
+"Training provider" means training programs or courses approved by the department covering topics identified in section 24-1002 of the administrative code conducted by any entity approved by the NYC Department of Environmental Protection, including but not limited to: a registered New York State Department of Labor apprenticeship program, an educational institution or school chartered, licensed, or registered by the New York state education department, or the institute of inspection, cleaning, and restoration certification. Each program or course must be offered by an instructor or institution authorized by the appropriate governing authority to conduct such training.
+
+
+
+
+
+
+*§ 35-02 Requirements for Registration.* ::
+
+
+(a) For an applicant to be eligible to become a master environmental hazard remediation technician, he/she must meet all of the qualifications set forth in section 24-1002(a) of the administrative code.
+
+(b) All licenses or certifications held by a master environmental hazard remediation technician associated with asbestos handling and lead training must remain current for the applicant to be eligible for registration. The master environmental hazard remediation technician's registration will not be considered valid if the applicant does not possess a valid certificate from the New York State Department of Labor for asbestos handling, and a United States Environmental Protection Agency certification in lead.
+
+(c) The applicant must complete a registration form that will be available on the NYC Department of Environmental Protection website that contains the following information at a minimum:
+
+   (1) Names of Training Providers.
+
+   (2) Names of Training Programs or Courses Completed.
+
+   (3) Number of Hours Attended Programs or Courses.
+
+   (4) Certificates of Completion.
+
+
+
+
+
+
+*§ 35-03 Expiration Date.* ::
+
+
+A master environmental hazard remediation technician registration shall expire four years from the applicant's most recent birthday at the time the application is submitted.
+
+
+
+
+
+
+*§ 35-04 Fees for Registration.* ::
+
+
+(a) The fee to register with the department as a master environmental hazard remediation technician shall be $375.
+
+(b) The fee to renew the master environmental hazard remediation technician registration shall be $375.
+
+
+
+
+
+
+*§ 35-05 Effect of Certification.* ::
+
+
+The program covered by these rules is a voluntary registration program. Registration as a Master Environmental Remediation Technician does not replace any license, permit or certification required by any federal, state or local law or rules for the work referenced by such registration and a person who is not registered as a Master Environmental Remediation technician may perform any work otherwise authorized by law as if this program were not in effect. Registration pursuant to this program is based on documentation provided by the applicant. The department does not independently verify such documentation or the qualifications of registrants to perform the work referenced by such registration.
 
 
 
@@ -16178,77 +16330,6 @@ The fees for equipment approvals are as follows:
  
 
 
-
-
-
-
-Chapter 35: Voluntary Master Environmental Hazard Remediation Technician Registration Program
---------------------------------------------------
-
-
-
-*§ 35-01 Definitions.* ::
-
-
-"Certificate of completion" means any license, certificate, diploma or other NYC Department of Environmental Protection approved documentation indicating that the applicant has satisfactorily completed department approved training programs or courses by a department approved training provider or providers.
-
-"Master environmental hazard remediation technician" means a person registered with the NYC Department of Environmental Protection after successfully presenting to the commissioner current documentation of having completed required environmental remediation training programs or courses from a department approved training provider as demonstrated by a certificate of completion.
-
-"Training provider" means training programs or courses approved by the department covering topics identified in section 24-1002 of the administrative code conducted by any entity approved by the NYC Department of Environmental Protection, including but not limited to: a registered New York State Department of Labor apprenticeship program, an educational institution or school chartered, licensed, or registered by the New York state education department, or the institute of inspection, cleaning, and restoration certification. Each program or course must be offered by an instructor or institution authorized by the appropriate governing authority to conduct such training.
-
-
-
-
-
-
-*§ 35-02 Requirements for Registration.* ::
-
-
-(a) For an applicant to be eligible to become a master environmental hazard remediation technician, he/she must meet all of the qualifications set forth in section 24-1002(a) of the administrative code.
-
-(b) All licenses or certifications held by a master environmental hazard remediation technician associated with asbestos handling and lead training must remain current for the applicant to be eligible for registration. The master environmental hazard remediation technician's registration will not be considered valid if the applicant does not possess a valid certificate from the New York State Department of Labor for asbestos handling, and a United States Environmental Protection Agency certification in lead.
-
-(c) The applicant must complete a registration form that will be available on the NYC Department of Environmental Protection website that contains the following information at a minimum:
-
-   (1) Names of Training Providers.
-
-   (2) Names of Training Programs or Courses Completed.
-
-   (3) Number of Hours Attended Programs or Courses.
-
-   (4) Certificates of Completion.
-
-
-
-
-
-
-*§ 35-03 Expiration Date.* ::
-
-
-A master environmental hazard remediation technician registration shall expire four years from the applicant's most recent birthday at the time the application is submitted.
-
-
-
-
-
-
-*§ 35-04 Fees for Registration.* ::
-
-
-(a) The fee to register with the department as a master environmental hazard remediation technician shall be $375.
-
-(b) The fee to renew the master environmental hazard remediation technician registration shall be $375.
-
-
-
-
-
-
-*§ 35-05 Effect of Certification.* ::
-
-
-The program covered by these rules is a voluntary registration program. Registration as a Master Environmental Remediation Technician does not replace any license, permit or certification required by any federal, state or local law or rules for the work referenced by such registration and a person who is not registered as a Master Environmental Remediation technician may perform any work otherwise authorized by law as if this program were not in effect. Registration pursuant to this program is based on documentation provided by the applicant. The department does not independently verify such documentation or the qualifications of registrants to perform the work referenced by such registration.
 
 
 

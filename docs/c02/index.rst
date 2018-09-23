@@ -397,13 +397,13 @@ Chapter 1: Administration
 
 (b) Penalty Schedule. The penalty schedule, annexed hereto as Appendix A, sets forth six (6) types of penalties, three for first violations and three for second and subsequent violations.
 
-   (1) First violation penalty. This penalty will be applied to the first violation committed by the respondent, provided that the respondent appears at OATH in response to the violation. Violations for which the respondent timely certifies correction (in the manner and by the date specified on the FDNY Summons, in accordance with Administrative Code § 15-230 and 3 RCNY § 109-01) and the Department accepts proof of correction, do not require an appearance by either party and are not subject to civil penalty.
+   (1) First violation penalty. This penalty will be applied to the first violation committed by the respondent, provided that the respondent appears at OATH in response to the violation. Violations for which the respondent timely certifies correction (in the manner and by the date specified on the FDNY Summons, in accordance with Administrative Code § 15-230 and R109-01) and the Department accepts proof of correction, do not require an appearance by either party and are not subject to civil penalty.
 
    (2) First violation mitigated penalty. This reduced penalty will be applied to a first violation, provided that the respondent appears at OATH in response to the violation and establishes that the violating condition has been corrected on or before the hearing date set forth on the FDNY Summons.
 
    (3) First violation maximum penalty. This is the maximum penalty provided by law for a first violation. It will be imposed when the respondent defaults on the violation or otherwise fails to appear or respond to a violation.
 
-   (4) Second/subsequent violation penalty. This penalty will be applied to the second and each subsequent violation committed by the same respondent, for the same provision of law, rule, regulation or Violation Category within 18 months of the first violation, as set forth in Administrative Code § 15-229(a), provided that the respondent appears at OATH in response to the violation. All second and subsequent violations require an appearance and are subject to penalty. Special provisions apply to FDNY Summons for unnecessary and unwarranted alarms, as set forth in 3 RCNY § 907-01.
+   (4) Second/subsequent violation penalty. This penalty will be applied to the second and each subsequent violation committed by the same respondent, for the same provision of law, rule, regulation or Violation Category within 18 months of the first violation, as set forth in Administrative Code § 15-229(a), provided that the respondent appears at OATH in response to the violation. All second and subsequent violations require an appearance and are subject to penalty. Special provisions apply to FDNY Summons for unnecessary and unwarranted alarms, as set forth in R907-01.
 
    (5) Second/subsequent violation mitigated penalty. This reduced penalty will be applied to a second and each subsequent violation, provided that the respondent appears at OATH in response to the violation and establishes that the violating condition has been corrected prior to the hearing.
 
@@ -960,7 +960,7 @@ APPENDIX A TO 3 RCNY § 109-03FDNY SUMMONS PENALTY TABLE
 
          (7) have satisfactorily completed a training course accredited by the Department in refrigerating systems and related technology, of at least 200 hours duration, at least 25 hours of which shall have involved practical skills exercises/hands-on demonstrations.
 
-   (2) Renewal applications. On or after January 1, 2016, the holder of a certificate of qualification who has not successfully completed a course that addressed issues of building operation, maintenance and recordkeeping, as set forth in R113-07(c)(2)(V), shall, at the time of the next renewal of such certificate, present evidence of the successful completion of such a course. Such course shall be conducted by an institution or program accredited by the Department pursuant to R113-04 and 113-12. Applicants that can demonstrate that they have successfully completed a continuing education course in building operations, maintenance and recordkeeping in connection with the renewal of their certificate of fitness for fire safety director, as set forth in R113-02(c)(7), shall be deemed to have satisfied this requirement.
+   (2) Renewal applications. On or after January 1, 2016, the holder of a certificate of qualification who has not successfully completed a course that addressed issues of building operation, maintenance and recordkeeping, as set forth in R113-07(c)(2)(V), shall, at the time of the next renewal of such certificate, present evidence of the successful completion of such a course. Such course shall be conducted by an institution or program accredited by the Department pursuant to R113-04 and R113-12. Applicants that can demonstrate that they have successfully completed a continuing education course in building operations, maintenance and recordkeeping in connection with the renewal of their certificate of fitness for fire safety director, as set forth in R113-02(c)(7), shall be deemed to have satisfied this requirement.
 
    (3) Registration of work locations.
 
@@ -1808,7 +1808,7 @@ APPENDIX A TO 3 RCNY § 109-03FDNY SUMMONS PENALTY TABLE
 
       (B) Fire Code construction site provisions (FC Chapter 14 and 3 RCNY Chapter 14).
 
-      (C) All construction site fire safety requirements, as set forth in 3 RCNY 1401-01(c).
+      (C) All construction site fire safety requirements, as set forth in 3 RCNY § 1401-01(c).
 
 (d) Course Administration and Completion.
 
@@ -1832,7 +1832,7 @@ APPENDIX A TO 3 RCNY § 109-03FDNY SUMMONS PENALTY TABLE
 
    (1) Certification or experience. Applicants shall hold or possess:
 
-      (A) A site safety manager or site safety coordinator certificate issued by the Department of Buildings pursuant to BC3310.5 and Department of Buildings rule 1 RCNY 104-08; or
+      (A) A site safety manager or site safety coordinator certificate issued by the Department of Buildings pursuant to BC3310.5 and Department of Buildings rule 1 RCNY § 104-08; or
 
       (B) At least three (3) years of full-time experience within the past six (6) years prior to the date of the application: (1)  working for a governmental agency or a construction, design or consulting firm; (2)  at construction sites upon which "major buildings" (as that term is defined in BC3310.2) are being constructed; and (3)  with responsibility for construction site safety and/or supervision of construction; or
 
@@ -1840,7 +1840,7 @@ APPENDIX A TO 3 RCNY § 109-03FDNY SUMMONS PENALTY TABLE
 
       (D) At least ten (10) years of full-time experience within the past 15 years prior to the date of the application working as a firefighter or fire officer in a paid fire department.
 
-   (2) Training Course. Applicants shall successfully complete a construction site fire safety manager training course conducted by an educator or educational institution or program accredited by the Department pursuant to R113-04 and 113-10.
+   (2) Training Course. Applicants shall successfully complete a construction site fire safety manager training course conducted by an educator or educational institution or program accredited by the Department pursuant to R113-04 and R113-10.
 
 (d) Application Procedures. Application for a construction site fire safety manager certificate of fitness shall be made in accordance with R113-01.
 
@@ -2072,7 +2072,7 @@ APPENDIX A TO 3 RCNY § 109-03FDNY SUMMONS PENALTY TABLE
 
    (4) maintenance of the liability insurance policy required by the Fire Code or rules.
 
-(d) Special Qualifications. In addition to general qualifications set forth in 3 RCNY § 115-01(c), applicants for the following company certificates shall possess and satisfactorily demonstrate to the Department that the company, its principals and officers, possess the following qualifications:
+(d) Special Qualifications. In addition to general qualifications set forth in R115-01(c), applicants for the following company certificates shall possess and satisfactorily demonstrate to the Department that the company, its principals and officers, possess the following qualifications:
 
    (1) Blasting contractor certificates.
 
@@ -2156,13 +2156,13 @@ APPENDIX A TO 3 RCNY § 109-03FDNY SUMMONS PENALTY TABLE
 
       (F) A list of any permits issued to the company, its principals or officers, including the Department account numbers; and
 
-      (G) The name, address and contact information for the agent for receipt of process required by 3 RCNY § 115-01(b)(3).
+      (G) The name, address and contact information for the agent for receipt of process required by R115-01(b)(3).
 
    (9) Renewal applications. Renewal applications shall disclose any changes in the company's principals and officers, offices and facilities, roster of certificate of fitness holders, and permits; disclose any violations, judgments, criminal convictions and penalties since the last date of filing; and include a copy of all current licenses and certificates.
 
-(f) Special Application Requirements. In addition to the general application requirements set forth in 3 RCNY § 115-01(e), applications for the following company certificates shall include the following information and documentation:
+(f) Special Application Requirements. In addition to the general application requirements set forth in R115-01(e), applications for the following company certificates shall include the following information and documentation:
 
-   (1) Central station certificates of operation. Applicants for such a company certificate shall include a copy of the listing or approval required by 3 RCNY § 115-01(d)(2);
+   (1) Central station certificates of operation. Applicants for such a company certificate shall include a copy of the listing or approval required by R115-01(d)(2);
 
    (2) Fireworks contractor certificates. Application for such a company certificate shall include a list of the fireworks displays conducted by the company, its principals or officers, in the three-year period prior to the date of filing, setting forth the date and location of such fireworks displays, and the number and types of fireworks discharged, including proof satisfactory to the Department that the company, its principals or officers, have safely conducted fireworks displays in urban or other confined settings comparable to those found in New York City;
 
@@ -2186,7 +2186,7 @@ APPENDIX A TO 3 RCNY § 109-03FDNY SUMMONS PENALTY TABLE
 
       (D) A written agreement, executed by a principal or officer of the company, in the form specified by the Department, that sets forth terms and conditions for use, by the company and its personnel, of portable radios that operate on Department frequencies, including compliance with FCC regulations and other applicable, laws, rules and regulations, and the authority of the Department to direct the company and its personnel to immediately discontinue operating on the frequencies and to submit the company's portable radios to the Department for removal of Department programming.
 
-(h) Special Insurance Requirements. In addition to the general insurance requirements set forth in 3 RCNY § 115-01(g), applicants for, and holders of, the following company certificates shall comply with the following insurance requirements:
+(h) Special Insurance Requirements. In addition to the general insurance requirements set forth in R115-01(g), applicants for, and holders of, the following company certificates shall comply with the following insurance requirements:
 
    (1) Blasting contractor certificates. Applicants for, and holders of, blasting contractor certificates shall maintain a liability insurance policy in an amount not less than five million dollars ($5,000,000). Such insurance policy shall name the City of New York and the New York City Fire Department as additional insured parties, provide that the limit of coverage applicable to the named insured is equally applicable to the additional insured parties, and shall provide for notice to the Department at least thirty (30) days prior to any cancellation or termination of such policy. Such insurance policy shall provide coverage at least as broad as set forth in the most recent edition of ISO Forms CG 2012 or CG 2026.
 
@@ -2208,7 +2208,7 @@ APPENDIX A TO 3 RCNY § 109-03FDNY SUMMONS PENALTY TABLE
 
    (5) the failure to obtain or maintain any license or other approval required by a federal, state or City agency to engage in the business or activity requiring the company certificate;
 
-   (6) the failure to promptly notify the Department of any change in the designated agent for receipt of process, pursuant to 3 RCNY § 115-01(b)(3), or applicant's or certificate holder's contact information, or any other notification required pursuant to 3 RCNY § 115-01(b)(4);
+   (6) the failure to promptly notify the Department of any change in the designated agent for receipt of process, pursuant to R115-01(b)(3), or applicant's or certificate holder's contact information, or any other notification required pursuant to R115-01(b)(4);
 
    (7) misrepresenting the company, its principals, officers or employees, to be Department officials, employees or agents, including representing that the company, its principals, officers or employees, possess the authority to enforce the Fire Code or the rules, or wearing the uniform or insignia of the Department or similar attire or insignia that may mislead the public; or
 
@@ -2238,7 +2238,7 @@ APPENDIX A TO 3 RCNY § 109-03FDNY SUMMONS PENALTY TABLE
 
       (B) Company certificate for commercial cooking exhaust system servicing: proof of compliance for commercial cooking exhaust system inspection and cleaning.
 
-   (2) Issuance procedure. An authorized representative of a business holding a company certificate shall submit a written request (in such form or manner as prescribed by the Department) to the Public Certification Unit of the Bureau of Fire Prevention for issuance of proof of compliance. The Department will coordinate the purchase of the proof of compliance from an authorized vendor. Price, order and payment arrangements will be published on the Department's website (www.nyc.gov/fdny) and are subject to change. Minimum order sizes may apply. Except as otherwise provided in 3 RCNY § 115-02(d)(6), the purchase price is non-refundable and the proof of compliance is not returnable.
+   (2) Issuance procedure. An authorized representative of a business holding a company certificate shall submit a written request (in such form or manner as prescribed by the Department) to the Public Certification Unit of the Bureau of Fire Prevention for issuance of proof of compliance. The Department will coordinate the purchase of the proof of compliance from an authorized vendor. Price, order and payment arrangements will be published on the Department's website (www.nyc.gov/fdny) and are subject to change. Minimum order sizes may apply. Except as otherwise provided in R115-02(d)(6), the purchase price is non-refundable and the proof of compliance is not returnable.
 
 (d) Use of Proof of Compliance.
 
@@ -2252,13 +2252,13 @@ APPENDIX A TO 3 RCNY § 109-03FDNY SUMMONS PENALTY TABLE
 
    (5) Unauthorized use and misuse. Unauthorized use of proof of compliance, by a company or individual other than the company to which the proof of compliance was issued (and its authorized representatives), and misuse of proof of compliance, by the company to which it was issued (and its authorized representatives):
 
-      (A) is a violation of the Fire Code, this Section, 3 RCNY § 113-01 and 3 RCNY § 115-01;
+      (A) is a violation of the Fire Code, this Section, R113-01 and R115-01;
 
       (B) may result in imposition of a civil or criminal penalty;
 
       (C) may result in denial of an application for a company certificate or certificate of fitness; and
 
-      (D) constitutes misconduct within the meaning of 3 RCNY § 113-01(g) and 3 RCNY § 115-01(i), and may result in suspension, revocation and/or non-renewal of a company certificate and/or certificate of fitness.
+      (D) constitutes misconduct within the meaning of R113-01(g) and R115-01(i), and may result in suspension, revocation and/or non-renewal of a company certificate and/or certificate of fitness.
 
    (6) Changes in business operations. A company certificate holder to which proof of compliance has been issued must provide at least 10 business days' advance notice in writing to the Public Certification Unit of the Bureau of Fire Prevention any change in ownership, office location, or other information required by the application for issuance of the proof of compliance. If permanently discontinuing business operations, the company certificate holder may obtain a full refund of unused proof of compliance (not to exceed 4,000 items) by giving notice of discontinuance of business operations to the Public Certification Unit, and returning the unused proof of compliance, within 10 business days of discontinuing business operations.
 
@@ -2270,9 +2270,9 @@ APPENDIX A TO 3 RCNY § 109-03FDNY SUMMONS PENALTY TABLE
 
       (B) supplied by the company to individual certificate of fitness holders employed by the company and authorized to conduct the regulated activity and affix the proof of compliance;
 
-      (C) used to document the conduct of the regulated activity, as set forth in 3 RCNY § 115-02(e)(2) and (3); and
+      (C) used to document the conduct of the regulated activity, as set forth in R115-02(e)(2) and (3); and
 
-      (D) lost or stolen, and the date such loss or theft was reported to the Department, as set forth in 3 RCNY § 115-02(d)(4).
+      (D) lost or stolen, and the date such loss or theft was reported to the Department, as set forth in R115-02(d)(4).
 
    (2) Each holder of a company certificate for commercial cooking exhaust cleaning shall maintain a record of the following information to document use of proof of compliance (in accordance with FC107.7):
 
@@ -3188,7 +3188,7 @@ Chapter 5: Fire Operations Features
 
 (b) Definitions. The following terms shall, for purposes of this section and as used elsewhere in the rules, have the meanings shown herein:
 
-   Appendix Q. Section 24.5.2 of Appendix Q to the Building Code, as codified in Department of Buildings rule 1 RCNY 3616-04. Appendix Q amends NFPA Standard 72, a Referenced Standard to the Building Code and Fire Code.
+   Appendix Q. Section 24.5.2 of Appendix Q to the Building Code, as codified in Department of Buildings rule 1 RCNY § 3616-04. Appendix Q amends NFPA Standard 72, a Referenced Standard to the Building Code and Fire Code.
 
    ARC system. An in-building auxiliary radio communication system.
 
@@ -3410,7 +3410,7 @@ Chapter 5: Fire Operations Features
 .. list-table::
     :header-rows: 1
 
-    * - 3 RCNY 511-01Table 1Commissioning Test and Periodic Maintenance Requirements for In-Building Auxiliary Radio Communication Systems
+    * - 3 RCNY § 511-01Table 1Commissioning Test and Periodic Maintenance Requirements for In-Building Auxiliary Radio Communication Systems
     * - ARC System Component/System Malfunction
     * - Dedicated Radio Console
     * - Control unit
@@ -3458,7 +3458,7 @@ Chapter 6: Building Services and Systems
 
 
 
-*§ 601-609 [Reserved]* ::
+*§ 603-01 Fuel-oil Transfer Supervision and Maintenance. [Repealed]* ::
 
 
 (a) Scope. This section sets forth requirements and procedures for the removal of lubricating oil from refrigerating systems that use more than 200 pounds of ammonia as a refrigerant, referred to in this section as "ammonia refrigerating systems." 
@@ -3469,7 +3469,8 @@ Chapter 6: Building Services and Systems
 
    (2) Alteration of ammonia refrigerating systems shall be performed in accordance with applicable provisions of the Construction Codes. 
 
-   (3) Operators of ammonia refrigerating systems containing 500 or more pounds of ammonia shall develop and maintain a risk management plan in compliance with Administrative Code § 24-718 and Department of Environmental Protection rules, as set forth in 15 RCNY Chapter 41. In accordance with those provisions, the risk management plan shall address whether the written procedure required by 6 RCNY § 606-01(d)(2) for manual removal of lubricating oil mitigates the risk of accidental refrigerant release. 
+   (3) Operators of ammonia refrigerating systems containing 500 or more pounds of ammonia shall develop and maintain a risk management plan in compliance with Administrative Code § 24-718 and Department of Environmental Protection rules, as set forth in 15 RCNY Chapter 41. In accordance with those provisions, the risk management plan shall address whether the written procedure required by 6 RCNY § 606-01
+								(d)(2) for manual removal of lubricating oil mitigates the risk of accidental refrigerant release. 
 
 (c) Supervision Requirements.
 
@@ -3477,13 +3478,16 @@ Chapter 6: Building Services and Systems
 
    (2) Lubricating oil removal operations. 
 
-      (A) Automatic removal system. An ammonia refrigerating system equipped to remove lubricating oil from system piping and equipment by means of a rigid-piped automatic oil return or transfer system does not require manual removal of lubricating oil. If for any reason lubricating oil is manually removed from such a system, the removal process shall be conducted in accordance with 6 RCNY § 606-01(c)(2)(B) and (d)(2). 
+      (A) Automatic removal system. An ammonia refrigerating system equipped to remove lubricating oil from system piping and equipment by means of a rigid-piped automatic oil return or transfer system does not require manual removal of lubricating oil. If for any reason lubricating oil is manually removed from such a system, the removal process shall be conducted in accordance with 6 RCNY § 606-01
+								(c)(2)(B) and (d)(2). 
 
       (B) Manual removal from system. The manual removal of lubricating oil from an ammonia refrigerating system that allows such oil to collect in system piping and equipment outside of the compressor shall be conducted in accordance with the following procedures: 
 
-         (1) If the ammonia refrigerating system is equipped with dual shut-off valves in series, the second valve in the direction of flow from the system is a self-closing valve that closes upon release of manual pressure or other approved automatic shut-off device, and the oil is removed from the system through such valves, the oil removal process shall be personally conducted by at least one certificate of qualification holder who has been trained in the written oil removal procedure required by 6 RCNY § 606-01(d)(2). Absent an imminent threat to life or safety, such certificate of qualification holder shall not leave the removal process unattended while it is ongoing. 
+         (1) If the ammonia refrigerating system is equipped with dual shut-off valves in series, the second valve in the direction of flow from the system is a self-closing valve that closes upon release of manual pressure or other approved automatic shut-off device, and the oil is removed from the system through such valves, the oil removal process shall be personally conducted by at least one certificate of qualification holder who has been trained in the written oil removal procedure required by 6 RCNY § 606-01
+								(d)(2). Absent an imminent threat to life or safety, such certificate of qualification holder shall not leave the removal process unattended while it is ongoing. 
 
-         (2) If the ammonia refrigerating system is not equipped with such dual shut-off valves, the oil removal process shall be personally conducted by a certificate of qualification holder who has been trained in the written oil removal procedure required by 6 RCNY § 606-01(d)(2). A second certificate of qualification holder trained in such procedure shall monitor the oil removal process from a location in direct line of sight of the removal process, with ready access to a means of egress to the outdoors. Absent an imminent threat to life or safety, neither certificate of qualification holder may leave the oil removal process unattended while it is ongoing. 
+         (2) If the ammonia refrigerating system is not equipped with such dual shut-off valves, the oil removal process shall be personally conducted by a certificate of qualification holder who has been trained in the written oil removal procedure required by 6 RCNY § 606-01
+								(d)(2). A second certificate of qualification holder trained in such procedure shall monitor the oil removal process from a location in direct line of sight of the removal process, with ready access to a means of egress to the outdoors. Absent an imminent threat to life or safety, neither certificate of qualification holder may leave the oil removal process unattended while it is ongoing. 
 
 (d) Operational Requirements.
 
@@ -3495,9 +3499,11 @@ Chapter 6: Building Services and Systems
 
       (B) Each certificate of qualification holder participating in the oil removal process shall be provided with and use all safety and personal protective equipment required to safely conduct such process, including equipment required by United States Occupational Safety and Health Administration regulations; and 
 
-      (C) If a single certificate of qualification holder is required by 6 RCNY § 606-01(c)(2), a telephone not requiring a coin to operate shall be immediately available to ensure immediate notification to the Department in the event of an emergency; or 
+      (C) If a single certificate of qualification holder is required by 6 RCNY § 606-01
+								(c)(2), a telephone not requiring a coin to operate shall be immediately available to ensure immediate notification to the Department in the event of an emergency; or 
 
-      (D) If two (2) certificate of qualification holders are required by 6 RCNY § 606-01(c)(2): 
+      (D) If two (2) certificate of qualification holders are required by 6 RCNY § 606-01
+								(c)(2): 
 
          (1) each certificate of qualification holder shall be equipped with a portable two-way radio or other approved means of communication between the two, and a telephone not requiring a coin to operate shall be immediately available to the certificate of qualification holder monitoring the oil removal process to ensure immediate notification to the Department in the event of an emergency. In the event of an emergency, the certificate of qualification holder monitoring the oil removal process shall make the required notification to the Department prior to rendering assistance; 
 
@@ -3507,13 +3513,14 @@ Chapter 6: Building Services and Systems
 
 (e) Recordkeeping Requirements. 
 
-   (1) A certificate of qualification holder responsible for supervision of the operation of an ammonia refrigerating system shall document the periodic servicing of such refrigerating system and all removals of lubricating oil from such refrigerating system, by making appropriate entries in the refrigerating system operator logbook required by FC606.1.3. Such entries shall include the names and company affiliations of the persons who serviced the system; the names and certificate of qualification numbers of the certificate of qualification holders who conducted and/or monitored the oil removal process; and any notifications to the Department pursuant to 6 RCNY § 606-01(d)(2)(D)(3). 
+   (1) A certificate of qualification holder responsible for supervision of the operation of an ammonia refrigerating system shall document the periodic servicing of such refrigerating system and all removals of lubricating oil from such refrigerating system, by making appropriate entries in the refrigerating system operator logbook required by FC606.1.3. Such entries shall include the names and company affiliations of the persons who serviced the system; the names and certificate of qualification numbers of the certificate of qualification holders who conducted and/or monitored the oil removal process; and any notifications to the Department pursuant to 6 RCNY § 606-01
+								(d)(2)(D)(3). 
 
    (2) The certificate of qualification holder responsible for supervision of the operation of an ammonia refrigerating system shall document the training of all persons involved in the manual removal of lubricating oil from such system. 
 
    (3) Such records shall be maintained in accordance with FC107.7. 
 
- 
+
 
 
 
@@ -4663,7 +4670,7 @@ Chapter 14: Fire Safety During Construction, Alteration and Demolition
 
       (A) authorizing, supervising and/or monitoring materials, operations and facilities regulated by the Fire Code;
 
-      (B) in accordance with FC1408.1, regularly inspecting the construction site for fire safety purposes, including compliance with the code and rule provisions set forth in R1401-01(c), 1403-01 and 1405-01;
+      (B) in accordance with FC1408.1, regularly inspecting the construction site for fire safety purposes, including compliance with the code and rule provisions set forth in R1401-01(c), R1403-01 and R1405-01;
 
       (C) performing the duties of the impairment coordinator required by FC901.7, the responsible person required by FC2603.2.2, and the Fire Department liaison required by FC2703.9.1.1, or ensuring that such persons are designated and monitoring the performance of their duties;
 
@@ -5050,7 +5057,7 @@ Chapter 26: Welding and Other Hot Work
 
    (2) Partition. Hot work may be conducted behind a noncombustible screen that is positioned and of sufficient size to prevent the passage of sparks, slag and heat from the hot work area. Such protection may be provided by a noncombustible draw curtain affixed by rollers to an overhead monorail. Such curtain shall be in close contact with the floor at all points, and sufficiently long so as to completely enclose the motor vehicle being worked upon. The curtain shall form the third and fourth sides of the enclosure, with the exterior wall of the building forming the first and second sides.
 
-(d) Outdoor Hot Work Areas. In lieu of, or in addition to, complying with the requirements of R2604-02(c), the owner of a repair garage may apply for Department approval of the use of an outdoor area for hot work operations. When such outdoor area is used in lieu of satisfying the requirements of R2604-01(c), the owner shall submit an affidavit or other approved form or documentation attesting that all hot work operations will be conducted in a designated outdoor area on the premises, or, with the written permission of the property owner, on an adjoining or nearby premises. Such outdoor area shall not be a sidewalk, public street or private road, and shall be otherwise acceptable for such purposes pursuant to FC2601.3.
+(d) Outdoor Hot Work Areas. In lieu of, or in addition to, complying with the requirements of R2604-01(c), the owner of a repair garage may apply for Department approval of the use of an outdoor area for hot work operations. When such outdoor area is used in lieu of satisfying the requirements of R2604-01(c), the owner shall submit an affidavit or other approved form or documentation attesting that all hot work operations will be conducted in a designated outdoor area on the premises, or, with the written permission of the property owner, on an adjoining or nearby premises. Such outdoor area shall not be a sidewalk, public street or private road, and shall be otherwise acceptable for such purposes pursuant to FC2601.3.
 
 
 
@@ -5199,7 +5206,7 @@ Chapter 27: Hazardous Materials--General Provisions
 
    (5) If wheel pockets are used, they shall be formed by a three-quarter inch (3/4") hardwood box over adequate hardwood framing.
 
-   (6) Bulletproofing protection shall be provided. Each motor vehicle shall be protected against shots fired from a high powered rifle by a minimum protection of one and one-half inch (11/2") 7039-T-63 aluminum thirty five-hundredths inch (35/100") ceramic armor with one-quarter inch (1/4") approved fiberglass backing, eight (8) inches of sand or approved equivalent. Such protection may be provided by lining the entire cargo space with such materials, or by placing a cabinet constructed of such materials within the cargo space. If a cabinet is used, then the top of the cabinet shall be arranged as a blow-out panel, and all explosives carried shall be within the cabinet.
+   (6) Bulletproofing protection shall be provided. Each motor vehicle shall be protected against shots fired from a high powered rifle by a minimum protection of one and one-half inch (1 1/2") 7039-T-63 aluminum thirty five-hundredths inch (35/100") ceramic armor with one-quarter inch (1/4") approved fiberglass backing, eight (8) inches of sand or approved equivalent. Such protection may be provided by lining the entire cargo space with such materials, or by placing a cabinet constructed of such materials within the cargo space. If a cabinet is used, then the top of the cabinet shall be arranged as a blow-out panel, and all explosives carried shall be within the cabinet.
 
 (d) Vehicle Capacity.
 
@@ -5590,7 +5597,7 @@ Chapter 30: Compressed Gases
 
       (B) The filling of a carbon dioxide container from any source shall be performed by a person holding a certificate of fitness.
 
-   (4) Installer certification of installation or repair. For any newly-installed carbon dioxide beverage dispensing system using more than 400 pounds (3,496 SCF) of carbon dioxide, alteration of such a system (including replacement of piping), and/or inspection or repair of such a system after activation of an emergency alarm or other release of carbon dioxide at or above the exposure limits referenced in 3 RCNY § 3004-01(c)(1)(G)(2), the installer shall complete and submit to the Bureau of Fire Prevention (by emailing to DistrictOfficeHeadquarters@fdny.nyc.gov) an affidavit in a form approved by the Department certifying that the system is in good working order and setting forth the following information, and such other information and documentation as the Department may require:
+   (4) Installer certification of installation or repair. For any newly-installed carbon dioxide beverage dispensing system using more than 400 pounds (3,496 SCF) of carbon dioxide, alteration of such a system (including replacement of piping), and/or inspection or repair of such a system after activation of an emergency alarm or other release of carbon dioxide at or above the exposure limits referenced in R3004-01(c)(1)(G)(2), the installer shall complete and submit to the Bureau of Fire Prevention (by emailing to DistrictOfficeHeadquarters@fdny.nyc.gov) an affidavit in a form approved by the Department certifying that the system is in good working order and setting forth the following information, and such other information and documentation as the Department may require:
 
       (A) New/altered systems:
 
@@ -5614,7 +5621,7 @@ Chapter 30: Compressed Gases
 
 (c) Design and Installation Requirements.
 
-   (1) Compliance with applicable standards. Carbon dioxide beverage dispensing systems shall be designed and installed in accordance with IFC Section 5307, NFPA Standard 55, and any other applicable standards, as set forth in 3 RCNY § 3004.01(b)(1), including compliance with the following requirements:
+   (1) Compliance with applicable standards. Carbon dioxide beverage dispensing systems shall be designed and installed in accordance with IFC Section 5307, NFPA Standard 55, and any other applicable standards, as set forth in R3004.01(b)(1), including compliance with the following requirements:
 
       (A) Containers designed for storage of low pressure, liquefied carbon dioxide;
 
@@ -5656,7 +5663,7 @@ Chapter 30: Compressed Gases
 
    (3) Outdoor storage containers. Carbon dioxide storage containers for carbon dioxide beverage dispensing systems may be installed outdoors with prior Department approval. Application for approval of the installation shall be made to the Technology Management Unit of the Bureau of Fire Prevention, and shall include a site diagram and photographs showing the proposed location of the installation, distances to all building entrances, openings and lot lines, below-grade areas (including manholes), adjoining property uses, security measures, and such other information and documentation as the Department may require.
 
-(d) Operational and Maintenance Requirements. Carbon dioxide beverage dispensing systems shall be operated and maintained in accordance with IFC Section 5307, NFPA Standard 55, and any other applicable standards, as set forth in 3 RCNY § 3004.01(b)(1), and in compliance with the following additional safety requirements:
+(d) Operational and Maintenance Requirements. Carbon dioxide beverage dispensing systems shall be operated and maintained in accordance with IFC Section 5307, NFPA Standard 55, and any other applicable standards, as set forth in R3004.01(b)(1), and in compliance with the following additional safety requirements:
 
    (1) Signage.
 
@@ -5692,7 +5699,7 @@ Chapter 30: Compressed Gases
 
       (D) Importance of immediately reporting to the certificate of fitness holder any damage to, or malfunction of, the system and ensuring that the system is inspected, and if necessary, repaired, on an expedited basis; and
 
-      (E) Importance of immediately reporting and acting upon any release of carbon dioxide as set forth in 3 RCNY § 3004-01(d)(5).
+      (E) Importance of immediately reporting and acting upon any release of carbon dioxide as set forth in R3004-01(d)(5).
 
    (5) Notification of carbon dioxide leak. Upon activation of the carbon dioxide beverage dispensing detection and alarm system indicating an immediate threat to life or safety, or a release of carbon dioxide from the beverage dispensing system in a location without a functioning carbon dioxide detection and alarm system, the following steps must be taken:
 
@@ -5702,11 +5709,11 @@ Chapter 30: Compressed Gases
 
       (C) Notify the certificate of fitness holder;
 
-      (D) Discontinue use of the carbon dioxide beverage dispensing system until a qualified installer has certified that it has been restored to good working order, by completing an affidavit pursuant to 3 RCNY § 3004.01(b)(4).
+      (D) Discontinue use of the carbon dioxide beverage dispensing system until a qualified installer has certified that it has been restored to good working order, by completing an affidavit pursuant to R3004.01(b)(4).
 
 (e) Recordkeeping. The owner or certificate of fitness holder shall maintain on the premises in accordance with FC107 the following documentation:
 
-   (1) A copy of the Installer's Affidavit for new and altered systems, as set forth in 3 RCNY § 3004.01(b)(4);
+   (1) A copy of the Installer's Affidavit for new and altered systems, as set forth in R3004.01(b)(4);
 
    (2) A copy of the Installer's Affidavit for any emergency alarm activation/ carbon dioxide release;
 
@@ -5807,7 +5814,7 @@ Chapter 34: Flammable and Combustible Liquids
 
       (A) Certificate requirements. Precision testing of underground storage systems shall be conducted by a person holding a certificate of license or under the general supervision of a certificate of license holder. Such person shall be trained and knowledgeable in the use of the precision test equipment and procedures for the conduct of the particular precision test. Any person conducting such test under the supervision of a certificate of license holder shall hold a certificate of fitness for such precision test. A separate certificate of fitness shall be obtained for each type of precision test system.
 
-      (B) Presence on premises. The certificate holder conducting the precision test shall remain on the premises while such test is being conducted and until the system has been returned to good working order in accordance with R3402-02(c)(1)(C)*.
+      (B) Presence on premises. The certificate holder conducting the precision test shall remain on the premises while such test is being conducted and until the system has been returned to good working order in accordance with R3402-02(c)(1)(C).
 
 (c) Operational Requirements.
 
@@ -5941,7 +5948,7 @@ Chapter 34: Flammable and Combustible Liquids
 
    (1) Fuel oil piping systems and boilers shall be designed and installed in compliance with the requirements of the Mechanical Code. The power-generating equipment, and all electrical devices, equipment and systems on the trailer shall be designed and installed in compliance with the requirements of the Building Code and the Electrical Code. Documentation of compliance with such codes shall be submitted to the Department in an approved form.
 
-   (2) Fuel oil storage tanks shall be constructed in accordance with the requirements of the Mechanical Code. No more than 1,200 gallons of fuel oil shall be stored on the trailer. Use of a mobile trailer with a fuel storage tank with a maximum fuel storage capacity exceeding 1,200 gallons may be authorized by the Department. The owner or operator of the mobile trailer shall first make application to the Technology Management Unit of the Bureau of Fire Prevention for review of the design of the mobile trailer, tank installation and/or heating or power-generating equipment or system and any other relevant considerations, and approval of its use. The Department may approve use of such a non-conforming mobile trailer subject to such terms and conditions as it may deem necessary and appropriate given the mobile trailer's excess fuel storage capacity, including requiring a site-specific permit, irrespective of the provisions of 3 RCNY § 3405-01(b)(2).
+   (2) Fuel oil storage tanks shall be constructed in accordance with the requirements of the Mechanical Code. No more than 1,200 gallons of fuel oil shall be stored on the trailer. Use of a mobile trailer with a fuel storage tank with a maximum fuel storage capacity exceeding 1,200 gallons may be authorized by the Department. The owner or operator of the mobile trailer shall first make application to the Technology Management Unit of the Bureau of Fire Prevention for review of the design of the mobile trailer, tank installation and/or heating or power-generating equipment or system and any other relevant considerations, and approval of its use. The Department may approve use of such a non-conforming mobile trailer subject to such terms and conditions as it may deem necessary and appropriate given the mobile trailer's excess fuel storage capacity, including requiring a site-specific permit, irrespective of the provisions of R3405-01(b)(2).
 
    (3) A clearly identified and readily accessible remote control shut-down switch for the oil burning equipment shall be provided inside the trailer, immediately accessible upon entry.
 
@@ -6689,7 +6696,7 @@ Table 1 (R3809-01)
 
    (3) Street fairs. An LPG permit shall be obtained from the Department for the storage, handling or use of LPG in conjunction with any street fair, bazaar, carnival, concert, festival or similar outdoor public gathering, as set forth in FC105.6 and R403-01. Application for such LPG permit shall be made by the sponsor or promoter of the event.
 
-   (4) Availability of piped natural gas. An LPG permit will not be issued by the Department for a stationary LPG installation located in an area where access to piped natural gas is available, except as provided in R3809-01(k)*. Any LPG storage and use pursuant to a permit issued after March 1, 2000 for a stationary LPG installation located in an area where access to piped natural gas is not available shall be discontinued and all LPG containers removed from the premises within five years of the date such access becomes available, and no such permit shall be renewed beyond such five-year period.
+   (4) Availability of piped natural gas. An LPG permit will not be issued by the Department for a stationary LPG installation located in an area where access to piped natural gas is available, except as provided in R3809-01(k). Any LPG storage and use pursuant to a permit issued after March 1, 2000 for a stationary LPG installation located in an area where access to piped natural gas is not available shall be discontinued and all LPG containers removed from the premises within five years of the date such access becomes available, and no such permit shall be renewed beyond such five-year period.
 
 (e) Supervision.
 
@@ -6773,7 +6780,7 @@ Table 1 (R3809-01)
 
 (h) Indoor LPG Storage.
 
-   (1) Except as provided in R3809-01(k)*, indoor storage of any LPG container with a capacity greater than sixteen and four tenths ounces (16.4 oz.) is prohibited in any residential occupancy and in any building where an outdoor location for such LPG container is available.
+   (1) Except as provided in R3809-01(k), indoor storage of any LPG container with a capacity greater than sixteen and four tenths ounces (16.4 oz.) is prohibited in any residential occupancy and in any building where an outdoor location for such LPG container is available.
 
    (2) All indoor storage of LPG containers with an individual capacity greater than sixteen and four tenths ounces (16.4 oz.) authorized by this section shall be stored in a separate room that conforms to the requirements of R3809-01(h). Any such room shall be:
 
@@ -7029,7 +7036,7 @@ Table 1 (R3809-01)
 
       (D) Flexible metallic hoses and/or tubing may be used where flexibility is required for commercial oil burner ignition or cooking operations, provided that the hose or tubing is designed for use with LPG, and the length of hose or tubing does not exceed six (6) feet.
 
-      (E) LPG storage and use for the purposes authorized by R3809-01(j)(7) is subject to the prohibition set forth in FC3805.3(10), and shall be discontinued in compliance with the requirements of R3809-01(k)(2)*.
+      (E) LPG storage and use for the purposes authorized by R3809-01(j)(7) is subject to the prohibition set forth in FC3805.3(10), and shall be discontinued in compliance with the requirements of R3809-01(k)(2).
 
    (8) Moored vessels. Residentially occupied vessels moored in marinas which store, handle and use LPG for space heating and cooking purposes shall comply with the following requirements:
 
@@ -7236,7 +7243,7 @@ Auxiliary fire alarm system. The re-transmission or other reporting to the Depar
 
 (c) Schedule of Fees. Each central station company or proprietary central station company that is engaged in the operation of auxiliary fire alarm systems shall pay an amount which shall equal the product of the fee prescribed below, multiplied by the number of terminals (also known as "assignments"). The Department shall annually bill each entity for an amount based on the number of terminals in operation at any time during the period from the first day of July through the last day of June, and that amount shall be payable by the first day of the month of October. The fees shall be as follows:
 
-Annual Fee Per Class E or Class J Terminal (pursuant to 1968 Building Code Occupancy Group E – Business and Occupancy Group J – Residential (Administrative Code §§ 27-253 and 27-263)) $135.00
+Annual Fee Per Class E or Class J Terminal (pursuant to 1968 Building Code Occupancy Group E – Business and Occupancy Group J – Residential (Administrative Code §§ 27-253 and 27-263)).....$135.00
 
 Annual Fee Per Terminal All Other Types of Systems $ 45.00
 
@@ -7285,7 +7292,7 @@ The Department shall, at the beginning of each quarter, bill each entity for an 
 
 (b) Definition. The following term shall, for purposes of this section and used elsewhere in the rules, have the meanings shown herein:
 
-Auxiliary Fire Alarm System. The re-transmission or other reporting to the Department of alarm signals from the monitoring of fire alarm systems by a central station company, proprietary central station, or any other person or company that receives compensation or derives any other financial benefit therefrom.
+   Auxiliary Fire Alarm System. The re-transmission or other reporting to the Department of alarm signals from the monitoring of fire alarm systems by a central station company, proprietary central station, or any other person or company that receives compensation or derives any other financial benefit therefrom.
 
 (c) Required Compensation. Each central station company shall pay to the Department, on an annual basis, or such other basis as the Department may require or authorize, its proportionate share of the cost associated with its use of the Department's fire alarm communications system, as calculated in accordance with the provisions of this section.
 
@@ -7621,6 +7628,4864 @@ NFPA 45-2004. The provisions of NFPA 45-2004, Standard on Fire Protection for La
       38.21. Section 12.3.2.3 is renumbered as 14.5.2.3, except replace "In educational and instructional laboratories where experiments are conducted by students, the" with "The", replace "be responsible for conducting" with "conduct", and insert "conducted by students" between the words "experiment" and "to".
 
 
+
+
+
+
+Chapter 48: Pre-existing Facilities
+--------------------------------------------------
+
+
+
+*§ 4802-01 Pre-Existing Definitions.* ::
+
+
+(a) Scope. This section sets forth definitions of terms used in the Fire Prevention Code and former Fire Department rules in effect on June 30, 2008 that are consolidated in Chapter 48 of the rules.
+
+(b) Definitions.
+
+   Board of Standards and Appeals. New York City Board of Standards and Appeals.
+
+   Department of Buildings. New York City Department of Buildings.
+
+   Department of Small Business Services. New York City Department of Small Business Services.
+
+   Multiple dwelling. A multiple dwelling, as defined in subdivision seven of section four of the multiple dwelling law, including any portion of such dwelling used for other than living or sleeping purposes, or for any business, commercial or other non-residential purpose. (Fire Prevention Code, former Administrative Code § 27-4002(27a))
+
+   Structure. Any building or construction of any kind. (Fire Prevention Code, former Administrative Code § 27-4002(38)(c))
+
+
+
+
+
+
+*§ 4803-01 General Precautions Against Fire in Pre-Existing Facilities.* ::
+
+
+(a) Scope. This section consolidates the Fire Prevention Code and former Fire Department rules in effect on June 30, 2008 that are applicable to the design and installation of fire safety precautions in pre-existing facilities.
+
+(b) Definitions. [Reserved.]
+
+(c) Boatyards, Marinas and Similar Facilities. Boatyards, marinas and similar facilities in compliance with former Fire Department rule 3 RCNY § 5-01 are allowed and would be approved under the provisions of the Fire Code and the rules, and accordingly, such facilities shall be designed and installed in compliance with the requirements of R301-01, except that in pre-existing facilities with fire apparatus access roads less than 38 feet wide, such fire apparatus access roads shall be continued in compliance with the provisions of former Fire Department rule 3 RCNY § 5-01(b) until such time as such facilities may be required to comply with the Fire Code and the rules with respect to such access roads.
+
+   (1) Former Fire Department Rule 3 RCNY § 5-01(b)
+
+      § 5-01 Fire Protection of Boatyards, Marinas and Similar Occupancies.
+
+      (b) For firefighting purposes, adequate unobstructed aisles and cross aisles of at least 20 foot width shall be provided for both length and width of premises and maintained clear in all directions so that no point in the yard is further than 75 feet from an access aisle in any direction.
+
+(d) Automotive salvage and wrecking facilities. Automotive salvage and wrecking facilities in compliance with former Fire Department rule 3 RCNY § 4-01 are allowed and would be approved under the provisions of the Fire Code and the rules, and accordingly, such facilities shall be designed and installed in compliance with the requirements of FC316, except that in pre-existing facilities with fire apparatus access roads less than 38 feet wide, such fire apparatus access roads shall be continued in compliance with the provisions of the former Fire Department rule 3 RCNY § 4-01(e)(2)(i) until such time as such facilities may be required to comply with the Fire Code and the rules with respect to such access roads.
+
+   (1) Former Fire Department Rule 3 RCNY § 4-01(e)(2)(i)
+
+      § 4-01 Fire Protection of Automotive Salvage and Wrecking Establishments.
+
+      (e) Fire protection requirements.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+         (2) Access and separation.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+            (i) Driveways having a minimum width of fifteen feet shall be provided and shall be so spaced that a maximum grid system of not over fifty feet by one hundred feet is produced. Driveways shall be maintained unobstructed to provide access for Fire Department equipment.
+
+
+
+
+
+
+*§ 4804-01 Pre-Existing Emergency Planning and Preparedness.* ::
+
+
+(a) Scope. This section consolidates the Fire Prevention Code and former Fire Department rules in effect on June 30, 2008 that are applicable to the design and installation of pre-existing facilities for purposes of emergency planning and preparedness.
+
+(b) Definitions. [Reserved.]
+
+(c) General Provisions. Pre-existing facilities, the design and installation of which for emergency planning and preparedness purposes would not be allowed or approved under the Fire Code, but which, pursuant to FC102.3 and R102-01, may be continued with respect to such emergency planning and preparedness under the applicable laws, rules and regulations in effect prior to the Fire Code, shall continue to comply with the provisions of such laws, rules and regulations, including former Fire Department rules 3 RCNY 34-02, as applicable, with respect to such emergency planning and preparedness, until such time as such facilities may be required to comply with the Fire Code and the rules with respect to the design and installation of such emergency planning and preparedness.
+
+(d) Life Safety Requirements for Schools with Physically Handicapped Students.
+
+   (1) Former Fire Department Rule 3 RCNY § 34-02.
+
+      § 34-02 Life Safety Requirements for Schools with Physically Handicapped Students. The following life safety requirements shall apply to those public schools included in the Board of Education, Division of School Buildings, ABR/COH Facilities Accessibility Program which is contained in the Jose P. vs Ambach, et al. (Index No. 79 Civ. 270) judgment plan, appendices and stipulations and shall apply to private preschools through secondary schools.
+
+      (a) Buildings to be of class 1 (1938 [Administrative] Building Code) construction, or Group 1A, lB, or 1C (1968 Administrative Code), shall conform to the structural, service equipment and occupancy requirement of Chapter 1 of Title 27 of the [Administrative] 1968 Building Code and to the regulations of the Department of Buildings.
+
+. . . . . . . . . .
+
+      (c) At no time shall occupancy by non-ambulatory students be permitted in basement or cellar area of school unless entire area of basement or cellar is fully sprinklered by a wet automatic sprinkler system (electrical rooms excluded).
+
+         (1) Where terrain configuration places cellar or basement Holdings Area(s) in a position that affords accessibility to Fire Department personnel, sprinkler requirements as per subdivision (c) above, may be waived. Such relief is subject to approval of Bureau of Fire Prevention.
+
+         (2) Where terrain configuration places cellar or basement space intended for use by non-ambulatory student on a level where egress may be made directly and unencumbered to the exterior of the building via exits constructed for such purpose, the Holding Area(s) requirements in such cellar or basement space may be waived. Relief from Holding Area(s) provision in this case is subject to approval of Bureau of Fire Prevention.
+
+      (d) Holding Area(s) shall be provided on each floor above and below grade level where occupancy by non-ambulatory students is to be permitted.
+
+         (1) Holding Area(s) shall be designated room(s) fully enclosed in non-combustible partitions with all door openings therein either of non-combustible material or of solid wood construction located adjacent to an exit stairwell. Egress from the Holding Area(s) shall be by way of a corridor. These rooms shall be provided with a 2-way voice communication system acceptable to the Fire Commissioner that shall be connected to both the custodian's office and the principal's office. The communication system shall be properly maintained in working order at all times. Inspections, test maintenance and record keeping requirements shall be the responsibility of the person holding the certificate of fitness for [the Interior Fire Alarm System] supervision of fire alarm system maintenance, and shall conform to the requirements of [§ 27-4265(g) of the Administrative Code] FC901.6.1.
+
+         (2) Holding Area(s) shall face on a street accessible to Fire Department apparatus and be free from physical impediments (e.g. trees) that may interfere with the positioning of Fire Department apparatus.
+
+         (3) Windows in Holding Area(s) designated [from] for removal of handicapped students shall provide, when opened, an area free of obstructions that is at least 32" wide and 48" high accessible to Fire Department equipment. Such windows shall be readily openable without the use of a key.
+
+         (4) Window sills on windows designated for removal of handicapped students shall be not more than 36" above the floor level of associated Holding Area(s) and shall be painted red, inside and outside, with a sign attached outside, top window pane. This sign shall read "F.D. ACCESS" and shall be not less than 12" × 18" in size. Sign shall be made of metal or other durable non-combustible material with 4" red lettering in bold type on a white background. Sign shall be properly maintained.
+
+         (5) Holding Area(s) shall line up vertically on the facade of each floor of the building.
+
+         (6) Doors leading to Holding Area(s) shall be provided with a sign 5" x 18". This sign shall read "HOLDING AREA". Sign shall be made of metal or other durable non-combustible material with 3" red lettering in bold type on a white background. Signs shall be mounted on the lower half of the door and be properly maintained.
+
+         (7) Holding Area(s) shall have movable seats and desks and be capable of holding the total number of wheelchairs required to use the Holding Area. Minimum net floor area shall be calculated at 25 square feet per wheelchair and be free of all encumbrances.
+
+         (8) Holding Area(s) shall have ceilings and floors which have a minimum one and one-half hour fire rating. Walls shall have a minimum one hour fire rating and all door openings shall be equipped with appropriately rated fire-proof self-closing doors with a minimal vision panel. The maximum size of vision panel shall be 144 square inches. No opening shall be permitted in wall, ceilings or floors unless properly protected.
+
+         (9) Holding Area(s) shall be [equipped with a 2 1/2 gallon pressurized water extinguisher] provided with a portable fire extinguisher with at least a 2-A rating. . . . . .
+
+         (10) All ducts/vents which breach or otherwise cause integrity of Holding Area to be violated shall be equipped with an approved combination smoke/heat damper.
+
+         (11) Smoke barriers, in accordance with the provisions of § 27-369(c) of the [Administrative] 1968 Building Code, shall be provided in corridors. Such smoke barriers shall separate the Holding Area and the adjacent exit stairwell from the rest of the building. Doors in such smoke barriers shall comply with the provisions of § 27-371(c) of the [Administrative] 1968 Building Code except that these smoke stop doors may also be left open if they are arranged to close automatically by an approved smoke detector on the ceiling immediately adjacent to and on both sides of the doors.
+
+      (e) The auditorium shall be fitted to accommodate all persons using wheelchairs in attendance. These accommodations shall be immediately adjacent to and at the same level as a main exit. Existing required aisles, passageways and exits shall not be reduced or obstructed, and legal occupant load shall not be exceeded.
+
+      (f) All existing and newly installed elevators shall be equipped with [firemen] firefighter service keys to conform with Fire Department requirements.
+
+      (g) Interior Fire Alarm system shall be provided with visual warning signals in addition to the required gongs. Such visual warning signals shall be visible from any location in all corridors and in unsupervised rooms occupied by handicapped students. The visual signal shall be on a separate circuit and control panel. Visual signal shall continue flashing after the four rounds of the Fire Alarm box have run out, and must be manually reset.
+
+
+
+
+
+
+*§ 4809-01 Fire Protection Systems in Pre-Existing Facilities.* ::
+
+
+(a) Scope. This section consolidates the Fire Prevention Code and former Fire Department rules in effect on June 30, 2008 that are applicable to the design and installation of fire protection systems in pre-existing facilities.
+
+(b) Definitions. [Reserved.]
+
+(c) General Provisions. Pre-existing facilities with fire protection systems the design and installation of which would not be allowed or approved under the Fire Code, but which, pursuant to FC102.3 and R102-01, may be continued with respect to such fire protection systems under the applicable laws, rules and regulations in effect prior to the Fire Code, shall continue to comply with the provisions of such laws, rules and regulations, including former Fire Department rules 3 RCNY 15-04, 17-01(d)(3)(iii), 17-07 and 17-08, as applicable, with respect to such fire protection systems, until such time as such facilities may be required to comply with the Fire Code and the rules with respect to the design and installation of such fire protection systems.
+
+(d) Commercial Cooking Fire Extinguishing Systems.
+
+   (1) Former Fire Department Rule 3 RCNY § 15-04
+
+      § 15-04 Extinguishing Systems for Hoods, Vent Pipes, Flues or Ducts*
+
+      [*FOOTNOTE IN ORIGINAL: Section is applicable to systems installed on or after 12/14/62 but before 12/6/68. Systems or system changes made post 12/6/68 shall be in accordance with RS 13-3 (Building Code) and NYC Administrative Code §§ 27-4275 &amp; 27-779.]
+
+      (a) Plans. The installer or occupant shall submit three (3) sets of paper cloth drawings to the Bureau of Fire Prevention for approval before any work is commenced. These shall show the entire installation in plan and section, viz: all hoods; ducts; dampers; heat detector units; pipes; nozzles; fans; gas controls; automatic trip devices; manual operating controls; all other details for compliance with these regulations.
+
+      (b) Tests. The completed system shall be tested by the installer or occupant, at his or her own risk, in the presence of a Fire Department representative before an approval shall be issued.
+
+      (c) Cleaning. The hood and exhaust ducts shall be thoroughly cleaned and be in good repair before the system is installed. They shall be so maintained at all times.
+
+      (d) Operation and control. The extinguishing system shall be automatic or both automatic and manual in operation. The manual controls shall be accessibly located at least ten (10) feet from the range and sealed in the closed position with a light wire seal or a break glass control. A sign to indicate the purpose of such valve or control shall be affixed thereto. The automatic operation shall be arranged to shut off the gas, exhaust fans and close the dampers in the exhaust system. The automatic releasing equipment and heat detecting units shall be Underwriters Laboratories approved.
+
+      . . . . . . . . . .
+
+      (f) Location of nozzles and heat detectors. The entire duct system and any deep frying units shall be provided with an adequate number of nozzles. One nozzle shall be installed at the inlet of each duct and one at the inlet side of the damper. Duct nozzles shall not exceed ten (10) feet on centers. Heat detecting units shall be located at all duct inlets.
+
+      . . . . . . . . . .
+
+      (h) Carbon dioxide.
+
+         (1) Where carbon dioxide is used: There shall be provided at least one fifty (50) pound cylinder of such gas for each installation up to four hundred (400) cubic feet of hood and duct volume up to the damper. For every additional four hundred (400) cubic feet, or portion thereof, an additional fifty (50) pound cylinder shall be installed.
+
+         (2) Electrical requirements for the installation of thermostatic detection systems and the operation of safety devices when carbon dioxide systems are used as the extinguishing agent in hoods, vent pipes, flues or ducts to exhaust interior cooking spaces are:
+
+            (i) Plans. The plans submitted for approval shall have marked thereon the location of the thermostatic detectors, the damper locations, all alarms, the electrical and mechanical operations of the safety devices as hereby required.
+
+            (ii) Equipment approval. All the electrical equipment shall be approved by the Board of Standards and Appeals or the Underwriters Laboratory for the installation for the class of detection, operation and alarm.
+
+            (iii) Wiring. The electrical equipment shall be operated on closed circuits, 120 volt systems. The wire shall be rubber covered RHW #14 AWG, installed in rigid iron or steel conduits.
+
+            (iv) Operation requirements.
+
+               (A) The thermostatic device shall be either of a type that is manually reset or the control system shall be so arranged that some manual operation is required to restart the fan after the thermostat has operated. The thermostats shall operate on a 350°F. temperature. The thermostats shall be installed in a manner to enable the removal of the thermostat for repair or testing.
+
+               (B) A light, normally on, installed within the hood installation room, to give indication that the source of current for the carbon dioxide system is out of service shall be required.
+
+               (C) An alarm bell will be required when two or more 50 lb. carbon dioxide cylinders are required. The alarm shall sound upon the operation of the thermostatic device.
+
+               (D) An emergency manual control, preferably in the form of a break glass station, to operate the system is required.
+
+               (E) The fan shut down, gas valve closure, damper operations may be electrically or mechanically operated to operate the electric controls.
+
+      (i) Fine water spray. Where a fine water spray is used: All pipe sizes shall conform with and all valve sizes shall conform to the Building Code of the City of New York. The minimum static pressure at the highest nozzle shall not be less than thirty (30) p.s.i. One half (1/2) inch open, wide pattern nozzles shall be installed throughout. A water flow alarm may be installed if desired.
+
+      (j) Steam. Where steam is used: A continuous source of steam supply of not less than fifteen (15) p.s.i. shall be provided. The pipe sizes at the source of supply shall not be less than one and one-half (l 1/2) inches in diameter and not less than three quarter (3/4) inch for the last steam jet or outlet. Such outlet shall be a standard one-half (1/2) inch open sprinkler head. The pipe fittings and valve shall be steam standard. A control valve sealed open shall be located at the source of steam supply. A steam trap shall be installed on the steam line in such a location so as to remove all condensation up to the automatic control valve located at or near the ranges or ducts.
+
+      (k) Application. These rules shall apply to all new installations and to existing systems hereafter altered in any manner.
+
+(e) Fire Alarm Systems.
+
+   (1) Former Fire Department Rule 3 RCNY § 17-07
+
+   § 17-07 Installation of Interior Fire Alarm Signal Systems in Multiple Dwellings Having Single Room Occupancies.
+
+      (a) In every such building there shall be provided an adequate and reliable electric, closed circuit interior fire alarm system in accordance with the requirements of the Fire Commissioner.
+
+         (1) Buildings exceeding six stories in height, or having more than five thousand square feet in area in any one story, shall be provided with a coded system.
+
+         (2) Buildings not exceeding six stories in height, or having more than five thousand (5,000) square feet in area in any one story, shall be provided with a coded system or a non-coded system.
+
+      (b) The interior fire alarm system shall be installed in a workmanlike manner and in accordance with standard trade practices.
+
+      (c) The alarm system shall be so arranged and connected that the operation of any fire alarm station shall sound an alarm on the sounding devices simultaneously throughout the premises.
+
+      (d) Sending stations.
+
+         (1) There shall be provided, on each story, and in the basement at least one fire alarm sending station located in a natural path of escape from fire at a readily accessible location designated by the Fire Chief and Commissioner, which always shall be kept unobstructed.
+
+         (2) Additional sending stations may be required where the travel distance from any one point, on the floor, exceeds one hundred and fifty (150) feet to the fire alarm station. (Not more than twenty (20) stations will be permitted on any one circuit or loop.)
+
+      (e) Sounding devices.
+
+         (1) There shall be provided sufficient sounding devices, such as bells, gongs, horns, or whistles, so that the signals will be clearly audible to all the occupants of the building. In no case shall the sounding devices be less than two (2) in number.
+
+         (2) Not more than fourteen (14) direct, nor more than ten (10) alternating current gongs will be permitted on any one gong circuit.
+
+      (f) Control board.
+
+         (1) There shall be provided in the basement pump room, engine room of janitors quarters, an approved control board designed to operate the alarm system.
+
+         (2) The control board shall be provided with an approved type trouble bell so connected that any disarrangement of the circuit wiring will sound a distinctive signal continually.
+
+      (g) Wiring.
+
+         (1) All electric wiring for the interior fire alarm system shall be of copper, rubber insulated, protected by a braid, and be not less than number 14 Brown &amp; Sharpe wire gauge. The wiring shall be protected from mechanical injury by standard weight, rigid iron conduit, properly bonded and grounded.
+
+         (2) The conduit shall be grounded to a water pipe by at least number 10 B. &amp; S. gauge copper wire and approved copper ground clamps.
+
+      (h) Sources of electric energy.
+
+         (1) The source of energy used to operate the interior fire alarm system shall be obtained from the public service companies' mains, and shall not exceed a potential of 240 volts, either alternating or direct current.
+
+         (2) When energy cannot be obtained from a central station power system, storage batteries in duplicate may be accepted when specifically approved by the Fire Chief and Commissioner.
+
+         (3) When energy is supplied by a central station power system, the fire alarm cutout shall be the first connection, and as near as possible to the electric meter registering current consumed by the hall lighting system.
+
+         (4) The fusible cutout shall be contained in a sealed or locked metal cabinet painted Fire Department red, and stenciled, "Interior Fire Alarm." Not less than fifteen (15) ampere, enclosed type cartridge fuse will be accepted. Screw plug fuses are prohibited.
+
+      (i) Layout. Before the installation or extension of any fire alarm system, specifications thereof, showing complete details of the proposed installation shall be submitted by the owner or agent to the Fire Chief and Commissioner for examination and approval.
+
+      (j) Instruction cards.
+
+         (1) There shall be provided an approved instruction card, properly marked, framed under glass and securely mounted at each fire alarm station.
+
+         (2) The location of the nearest street fire alarm box or the quarters of the nearest engine or truck company shall be shown on this card.
+
+      (k) Watchmen's time detector system.
+
+         (1) There shall be provided an approved system of watchmen's time detectors to record the movements or patrol of the watchmen.
+
+         (2) The watchmen's time detector stations shall be so located that the watchman will be compelled to cover all public portions of the premises at least once every two hours to record complete round of signals upon the watchman's time detector clock.
+
+. . . . . . . . . .
+
+   (2) Former Fire Department Rule 3 RCNY § 17-08
+
+. . . . . . . . . .
+
+(f) Watchman's Time Detector Systems and Watchman Service.
+
+   (1) Former Fire Department Rule 3 RCNY § 41-01
+
+      § 17-08 Telegraphic Alarm Communications in Theaters, Opera Houses and Concert Halls.
+
+      (a) By virtue of the authority vested in the Fire Commissioner under § 15-127(b)(1) of the Administrative Code, telegraphic communication to the Fire Department shall be required from theaters, opera houses, concert halls and similar places of amusement if such occupancies are provided with a stage, scenery and dressing rooms, seating capacity exceeds 299 persons and live performances are presented. The telegraphic communication (alarm box) shall be tested daily and prior to each performance and maintained unobstructed and in proper working order at all times.
+
+      (b) Telegraphic alarm communications to the Fire Department shall not be required from motion picture theaters or common show motion picture theaters. A motion picture theater is a public hall or room in which motion pictures are displayed, in which the seating capacity does not exceed 600 persons and in which no stage or scenery is provided. A common show motion picture theater is a theater, with or without stage, scenery and dressing rooms, in which the seating capacity exceeds 600 persons and motion pictures only are exhibited.
+
+      (c) A common show motion picture theater provided with stage, scenery and dressing rooms may periodically present live performances. In so doing, such occupancies convert to live performance theaters and as such, telegraphic communications to the Fire Department shall be required in accordance with subdivision (a) above, except that such telegraphic communications shall not be required if six or less live performances are presented annually and the following is complied with:
+
+         (1) Licensee shall notify the Bureau of Fire Prevention, in writing, at least five (5) days in advance of the time and dates of such live performances.
+
+         (2) A non-coin operated telephone without connection through any switchboard shall be installed backstage prior to any live performance. This telephone shall be for the exclusive purpose of transmitting a telephone alarm in the event of fire or other emergency. A card of instructions for reporting a fire or other emergency to the Fire Department shall be posted at the location of the telephone. Such card shall be approved by the Bureau of Fire Prevention.
+
+         (3) Two (2) competent persons in the employ of the licensee shall be constantly available during the live performances to perform the following emergency duties:
+
+            (i) One (1) such person shall remain near the backstage telephone during the performance for the exclusive purpose of transmitting an alarm via the phone in the event of fire in the theater. Such person shall not be required to perform any other duties during the live presentation.
+
+            (ii) The second person shall be assigned by the licensee as a "street box runner" who shall be familiar with the nearest city fire alarm box and how to operate same. He or she shall be required to perform no other duties during the live presentation than to transmit any necessary alarm from the street box.
+
+      (d) Any of the foregoing notwithstanding, theaters constructed in accordance with the provisions of the 1968 Building Code shall be provided with telegraphic alarm communications to the Fire Department, as required by the 1968 Building Code as follows:
+
+         (1) All occupancies classified by the Department of Buildings as F-1a occupancies, regardless of seating capacity. F-1a occupancy is an occupancy in which persons assembled comprise a seated or otherwise passive audience to a performance or presentation and have their attention focused in a common direction and in which scenery and scenic elements are used. (§ 27-255) Typical occupancies are theaters, playhouses and opera houses (§ 27-239-Table 3-2). F-1a occupancies shall be provided with an emergency control panel located in stage area equipped with an alarm system and intercom system connected to manager's office, the dressing rooms, and to supervisory central fire station. (§ 27-546(b)(10)). Emergency control panel in F-la occupancies shall be manned in accordance with the requirements of the Fire Department. Since the fire control panel alarm system is a required system, a person holding a Certificate of Fitness shall be required. (§§ 27-546(b)(1) and 27-4265(g)).
+
+         (2) All occupancies classified by the Department of Buildings as F-3 or F-4 occupancies, having stages with scenery or scenic elements, regardless of seating capacity. F-3 occupancy is an occupancy in which persons assembled are physically active and do not have a common center of attention (§ 27-257). Typical occupancies are exhibition halls, galleries and museums. (§ 27-239-Table 3-2) F-4 occupancy is an occupancy in which persons assemble for dancing, eating or for a combination of dancing, eating, drinking, or entertainment. (§ 27-258) Typical occupancies are night clubs, cabarets, dance halls and banquet halls. (§ 27-239-Table 3-2) Section 27-549(a) of the Building (Administrative) Code provides that F-3 or F-4 occupancies having stages with scenery of scenic elements regardless of capacity shall comply with the provisions of the Building (Administrative) Code applicable to F-la occupancies. As indicated in subdivision (d)(1) above emergency control panels with an alarm system connected to a control station is required in F-la occupancies. A Certificate of Fitness is required for person manning such emergency control panel. Note: Theater management shall be required to record Certificate of Fitness information in the Theater Inspection Log Book. See § 31-04 of these rules.
+
+      (e) When non-required telegraphic alarm communication systems are installed, such systems shall be maintained in proper working order or shall be removed from the premises.
+
+      § 41-01 Installation of Watchman's Time Detector Systems and [Watchman] Night Watch Service.
+
+      (a) [Watchman] Night watch. In every building used or occupied as a hotel, lodging house, public or private hospital or asylum there shall be employed by the owner or proprietor, or other person having the charge or management thereof, one or more [watchmen] night watch whose exclusive duty it shall be to visit every portion of such building at regular and frequent intervals, as hereafter provided under regulations established by the commissioner, for the purpose of detecting fire, or other danger, and giving timely warning thereof to the occupants of the building. There shall be provided a [watchman's] night watch clock or other device to be approved by the commissioner, by means of which the movements of the [watchman] night watch may be recorded. The commissioner may, however, in his or her discretion, accept an automatic fire alarm system in lieu of [watchmen] night watch and time detectors.
+
+      (b) Scope. This section shall apply to all hotels and lodging houses and single room occupancies as defined in the Multiple Dwelling Law, to all public and private hospitals and asylums having more than 15 rooms or accommodating more than 15 patients or inmates above the first or ground story, and to all Turkish or special treatment bath-houses where there are sleeping accommodations for more than 15 persons on the premises.
+
+      (c) [Watchman] Night watch service. [Watchman] Night watch service shall be performed every night. Patrol tours shall be made at least every two hours, beginning at 10 P.M. and continuing until the day staff of employees have assumed their duties. Persons employed as [watchmen] night watch shall be physically and mentally competent to perform required duties and shall not be assigned to any other work that will interfere or prevent them from making their proper tours. A proprietor, clerk or other employee may be permitted to serve as a [watchman] night watch in a lodging house, provided his or her duties are such as will not interfere with proper performance of tours.
+
+      (d) Time detectors, types.
+
+         (1) Central station system, approved by commissioner. Central station system shall consist of watch-boxes of approved type, used for no other purpose and located so watchman in making rounds must visit every portion of the building (see partial occupancy). Boxes shall be arranged so fire signals distinct from watch signals may be sent from each station installed. Before acceptance of any system operating through a central station, the company furnishing such service shall file with the Bureau of Fire Prevention a general description of the apparatus it proposes to install, together with sample boxes and such detailed information and drawings necessary to the complete understanding of the operation of the system. Diagrams showing means of delivering signals to patrol and fire headquarters shall also be furnished.
+
+         (2) Local or private station system, approved by Commissioner. Local or private station system. Approved single station clocks or a portable [watchman's] night watch clock may be used to record the movements of [watchmen] the night watch. Single station clock for each station, or portable clock, shall be so located as to compel watchmen to visit every portion of the building in making tours. (See partial occupancy). Records shall be made by embossing or perforating paper dials which shall be clearly legible. Dials shall be of sufficient size so that time at which record is made can be accurately determined. Both single stations and portable clocks shall be made so that watch record dials cannot be seen without opening case, also the opening or closing of the case will make distinctive record on the dial of such action. Keys for portable clocks shall be of a type difficult to duplicate and shall be of a pattern susceptible to variations tending to reduce the probability that a set of keys fitted for one clock will operate other clocks. Key stations shall be fixed so that they cannot be removed without giving evidence of the fact.
+
+      (e) Numbering of stations. Stations shall be numbered in the order that the [watchman] night watch is required to make his or her patrol. The location number and order of stations shall be subject to the approval of the Bureau of Fire Prevention.
+
+      (f) Reports of [watchman] night watch service. Central station system companies shall furnish such daily reports to the Bureau of Fire Prevention as may be required, of all buildings equipped by them with time detectors. Where either single station clocks or portable watchmen's clocks are used, records shall be maintained for at least thirty (30) days which shall be subject to inspection by the fire department. The insertion and removal of record dials from the time clock, indicating the hours of [watchman] night watch patrol shall be performed by owner, proprietor or supervisor only. [Watchmen] Night watch shall not be permitted to perform this function. Each dial shall be dated upon insertion and removal from the time clocks and initialled by person charged with this duty. Only one dial may be inserted in the clock at any one time.
+
+      (g) Exception. Where an automatic closed circuit, automatic thermostatic fire alarm system, or an automatic wet sprinkler system is installed to cover all portions of the building and are so arranged that the operation of either system will sound all of the gongs on the interior fire alarm system, a watchman's time detector system [of time detectors] shall not be required.
+
+      (h) Existing installations. Time detectors heretofore installed in compliance with orders of the commissioner may be accepted in lieu of the above requirements, provided they are properly maintained so as to render the service intended.
+
+      (i) Partial occupancy of building. Where any hotel, lodging house, hospital or asylum occupies only a portion of a building and such portion does not include all of the floors above and below ground levels, provisions shall be made whereby [watchmen] night watch shall cover all portions so occupied and, in addition, all portions which are at the same level above or below the floors occupied by the hotel, lodging house, hospital or asylum.
+
+
+
+
+
+
+*§ 4810-01 Means of Egress in Pre-Existing Facilities.* ::
+
+
+(a) Scope. This section consolidates the Fire Prevention Code and former rules in effect on June 30, 2008, that are applicable to the design and installation of means of egress in pre-existing facilities.
+
+(b) Definitions. [Reserved.]
+
+(c) General Provisions. Pre-existing facilities with means of egress the design and installation of which would not be allowed or approved under the Fire Code, but that, pursuant to FC102.3 and R102-01, may be continued with respect to such means of egress under the applicable laws, rules and regulations in effect prior to the Fire Code, shall continue to comply with the provisions of such laws, rules and regulations, including former Fire Department rule 3 RCNY 17-05, until such time as such facilities may be required to comply with the Fire Code and the rules with respect to the design and installation of such means of egress.
+
+(d) Electro-Magnetic Door Holders.
+
+   (1) Former Fire Department Rule 3 RCNY § 17-05
+
+      § 17-05 Voluntary Installation of Electro-Magnetic Door Holders.
+
+      (a) Scope. To provide rules for the installation of electro-magnetic door holders or similar approved devices and to carry out the provisions of the Board of Standards and Appeals resolution as adopted under Cal. 109-63 S.A., printed in Bulletin No. 11, Vol. L, dated March 18, 1965.
+
+      (b) Definitions.
+
+         Approved. "Approved" shall mean by the Board of Standards and Appeals and bearing the label indicating such approval.
+
+         Electro-Magnetic Door Holders. "Electro-magnetic door holders" are a hold-open device for swinging fire doors to be utilized with approved self-closing door closers and automatic detection, or sensing devices, and/or approved interior fire alarm system, whichever applies.
+
+         Voluntary Installations. "Voluntary installations" are installations which are not required by any law, regulations, or violation.
+
+. . . . . . . . . .
+
+      (d) Permissible installations.
+
+         (1) Electro-magnetic door holders may only be installed for double swinging fire and smoke barrier doors installed by order of the Fire Department to sub-divide corridors for fire and smoke barriers.
+
+         (2) Where other doors are required to be closed, or to be self-closing by any provisions of the Administrative Code, the installation of such devices may only be made after the Board of Standards and Appeals has granted permission for specific locations.
+
+      (e) Electrical requirements.
+
+         (1) The electro-magnetic device shall be so interconnected that the operation of the interior fire alarm system shall de-energize the device thereby permitting the doors to close.
+
+         (2) The control system shall be of a closed circuit type.
+
+         (3) The control release panel which shall consist of relays, terminal plates, etc., of approved type mounted in an approved manner.
+
+         (4) A master relay shall be installed to lock the system in a non-operating condition until set manually.
+
+         (5) For every fifteen electro-magnetic door holders a separate contact or relay shall be installed.
+
+         (6) A trouble relay which will indicate any defects in the control system shall be provided. A trouble bell shall be installed which will indicate any defects and shall be actuated by the trouble relay. Such system shall be connected to the house side of the current transformer buss, through an approved cut-out without use of transformers, or rectifiers utilizing 120-208 volt service.
+
+         (7) A test means shall be provided to test the system and to operate the system manually.
+
+         (8) The equipment and installation shall be in conformance with interior fire alarm requirements and as stated in the Board of Standards and Appeals rules governing the installation of interior fire alarm systems (§ 811 of the B.S.A. rules).
+
+
+
+
+
+
+*§ 4822-01 Pre-Existing Motor Fuel-Dispensing Facilities and Repair Garages.* ::
+
+
+(a) Scope. This section consolidates the Fire Prevention Code and Fire Department rules in effect on June 30, 2008, that are applicable to the design and installation of pre-existing motor fuel-dispensing facilities and repair garages.
+
+(b) Definitions. [Reserved.]
+
+(c) Facilities in Compliance With Former Fire Department Rules in Effect on June 30, 2008. Liquid motor fuel storage and dispensing facilities, marine liquid motor fuel-dispensing facilities, compressed natural gas motor fuel-dispensing facilities, and repair garages in compliance with former Fire Department rules 3 RCNY § 21-20, 21-21, 23-01, and/or 26-01, as applicable, in effect on June 30, 2008, are allowed and would be approved under the provisions of the Fire Code and the rules, and accordingly, such facilities shall be designed and installed in compliance with the requirements of FC Chapter 22 and the rules, except that where the distance of vent lines and fill and vapor recovery connections to lot lines in pre-existing liquid motor fuel-dispensing facilities and marine motor fuel-dispensing facilities is not in compliance with FC 3404.2.7.3.3 and 3404.2.7.5.2, compliance with such clearance distance requirements is not required until such time as such facilities are required to comply with the Fire Code and the rules with respect to such clearance distances.
+
+(d) Pre-Existing Facilities. Liquid motor fuel-dispensing facilities, marine fuel-dispensing facilities and CNG motor fuel-dispensing facilities lawfully not in compliance with former Fire Department rules 3 RCNY § 21-20, 21-21 and/or 23-01, as applicable, in effect on June 30, 2008, shall be designed and installed in compliance with applicable laws, rules and regulations, as set forth in R102-01(c)(3). Pre-existing firehouses with diesel motor fuel dispensing systems shall continue to comply with the requirements set forth in former Fire Department rule 3 RCNY § 21-14 until such time as such facilities are required to comply with the Fire Code and the rules with respect to the design and installation of such motor fuel dispensing systems.
+
+(e) Diesel Liquid Motor Fuel Dispensing Systems in Existing Firehouses.
+
+   (1) Former Fire Department Rule 3 RCNY § 21-14
+
+      § 21-14 Installation of Diesel Fuel Storage Systems in Existing Firehouses.
+
+         (a) Scope.
+
+            (1) No person or agency shall install diesel fuel oil storage equipment for use in existing firehouses except as provided in these rules.
+
+            (2) These rules shall not apply to installations in other than existing firehouses.
+
+            (3) All installations made under these rules shall be made by a licensed installer.
+
+            (4) For the purpose of these rules the term "licensed installer" shall be interpreted to mean a person licensed to install fuel oil systems or gasoline storage systems or a licensed plumber.
+
+         (b) General requirements.
+
+            (1) Diesel storage systems for existing firehouses shall consist of two (2) tanks of 275 gallons capacity or one (1) tank of 550 gallons capacity. See subdivision (m) of this section for schematic drawing of installation.
+
+            (2) Two (2) tank systems shall be equipped with valves to permit each tank to be isolated from the other.
+
+            (3) All installations shall conform with the provisions of Article 17 of Subchapter 14 of Chapter 1 of Title 27 of the Administrative Code insofar as they apply to the installation of storage tanks except as hereinafter provided for.
+
+         (c) Oil permitted. Oil stored in storage systems installed under these rules shall be diesel fuel oil as defined in § 27-4002(10)(b) of the Administrative Code of the City of New York.
+
+         (d) Material and construction of tanks.
+
+            (1) All tanks for the storage of diesel fuel oil shall be built of steel plates made by the open hearth or basic oxygen process. Such plates shall be free from physical imperfections, such as laminations, cracks, mill scale, etc. All steel must be new, in good condition and free from rust.
+
+            (2) All tanks shall be welded. Flanges or other pipe connections shall be sealed. Filler of any kind between plates is prohibited.
+
+            (3) Plate thickness.
+
+               (i) Tanks of 275 gallons capacity shall have a minimum thickness of shell and head plate No. 10 manufacturer's standard gauge (.134") steel plate.
+
+               (ii) Tanks of 550 gallons capacity shall be subject to the following requirements:
+
+                  (A) Tanks 36" in diameter and less-at least 1/4" shell and 1/4" heads.
+
+                  (B) Tanks 37" to 72" in diameter-at least 1/4" shell and 5/16" heads.
+
+            (4) Tanks shall be cylindrical, oval, elongated oval or round and shall have dished heads with a curvature the radius of which is not greater than the diameter of the tank. Dished heads shall be formed with an adequate cylindrical extension rim to provide a welding surface.
+
+            (5) At time of installation all storage tanks shall bear a permanently fixed plate, spot-welded or equivalent, bearing the name of tank manufacturer, the gauge of material and capacity of tank. All shop fabricated storage tanks shall be installed without structural alteration.
+
+            (6) All openings shall be through the top of the storage tanks except that tanks shall be provided with a 1" capped opening in the bottom for cleaning and protection against corrosion.
+
+            (7) Tanks shall be painted with two (2) coats black asphaltum and stenciled with the lettering "Diesel Fuel Only." Letters to be white and 4" high.
+
+         (e) Location of tanks.
+
+            (1) Storage tanks shall be installed in the cellar above ground. Bottom of tanks shall be 12" above slab mounted on substantial incombustible supports and located not less than seven feet (7') of clear unobstructed space measured horizontally from any furnace or source of exposed flame unless protected as provided in §§ 27-829(a)(2) or (3) of the Administrative Code and at least two feet (2') from any surface where the temperature exceeds 165 deg. F.
+
+            (2) Tanks shall be located as near as practicable below the location of the dispensing pump which shall be located on the apparatus floor.
+
+         (f) Piping.
+
+            (1) Materials.
+
+               (i) All piping shall be new, standard, full-weight black steel, properly marked and duly approved.
+
+               (ii) Fittings shall be malleable iron.
+
+            (2) Installation.
+
+               (i) Piping shall be run in a substantial and workmanlike manner. Exposed piping shall be protected against mechanical injury and shall be securely supported with rigid metal fasteners or hangers. Pitch shall be a minimum 1/2" per 10' to tanks.
+
+               (ii) Fill suction and vent line connections to tanks shall have swing joints.
+
+               (iii) All joints shall be made with Litharge and Glycerine or Board of Standards and Appeals approved pipe joint compound.
+
+            (3) Vent pipe.
+
+               (i) An open vent of steel, without trap and draining to the tank, shall be provided for each storage tank. The lower end of the vent pipe shall not extend through the top of the storage tank more than one inch (1"). Cross connection between vent pipe and fill pipe is prohibited.
+
+               (ii) Vent pipes may not be run into a common header.
+
+               (iii) Vent pipes shall not be less than one and one-quarter inches (1 1/4") in diameter.
+
+               (iv) Vent pipes shall be provided with an approved weatherproof hood having a free area of not less than the pipe size area and shall terminate not less than two feet (2') nor more than twelve feet (12') above the fill pipe terminal. Vent pipe terminal shall be visible from location of the fill pipe terminal.
+
+               (v) Each tank shall be equipped with a "Scully Vent Alarm" or equal and shall be audible from the location of the fill pipe terminal.
+
+            (4) Fill pipe.
+
+               (i) Fill pipe shall terminate outside the building. The fill pipe terminal shall be located on the building wall a minimum eighteen inches (18") and a maximum two feet (2') above grade and at least (2') from any building opening and five feet (5') from any subway grating at or below the level of the fill pipe terminal.
+
+               (ii) A common fill pipe and header shall be installed in two (2) tank systems. The area of a common header pipe shall be no smaller than the largest branch fill pipe. Where a common fill pipe and header is installed, a shut-off valve shall be installed at each tank. Valve shall be sealed open. See § 21-14(m) for schematic drawing of installation.
+
+               (iii) Fill pipe terminal shall be 2" or 3" left hand thread "Flagg Fill Pipe Terminal," Board of Standards and Appeals Calendar No. 345-35-SA or approved equal. The outer flange of the fill pipe terminal or the seal cap shall be provided with letters reading "Diesel Oil" and the calendar number under which the fill pipe terminal and the seal cap have been approved. Where there is a storage system of a volatile flammable oil and/or a storage system for fuel oil and a storage system for diesel fuel oil is to be used in the same premises, the terminal of the diesel oil fill pipe shall be provided with a left hand thread and the fill pipe fitting shall be a different size than the fill pipe(s) for the volatile flammable oil system and/or the fuel oil system. In lieu of the foregoing fill boxes may be of a type approved by the Board of Standards and Appeals and shall have cast in its cover an identifying name or symbol to differentiate between fuel oil for heating and diesel oil as motor fuel.
+
+               (iv) A porcelain enameled metal sign with 2" lettering reading "Diesel Oil" shall be permanently attached two feet (2') above the fill box on an adjacent wall.
+
+               (v) Where the top of the storage tank is above the fill pipe terminal, the fill pipe shall have connected to the top of the tank and be provided with a shut-off valve and swing check valve which shall be located at the fill pipe terminal, or the shut-off valve may be located inside the building at or below the level of the fill pipe terminal, in an accessible location.
+
+            (5) Suction lines.
+
+               (i) Suction lines shall be one and one-half inch (1 1/2") black steel.
+
+               (ii) Suction lines shall extend to within four inches (4") of the bottom of each tank.
+
+               (iii) In two (2) tank systems suction lines from each tank shall be run into a common header. Where a common suction line and header is installed, a check valve and a shut-off valve shall be installed at each tank. See § 21-14(m) for schematic drawing of installation.
+
+         (g) Valves and control of oil flow.
+
+            (1) All valves shall be brass gate type suitable for use with oil.
+
+            (2) In a two (2) tank system, a shut-off valve shall be installed in the suction line and in the fill line to each tank. Valves shall be sealed open. See § 21-14(m) for schematic drawing of installation.
+
+            (3) A check valve shall be installed in the suction line to each tank. See § 21-14(m) for schematic drawing of installation. All check valves shall be angle check double poppet, similar to Buckeye No. 464 or approved equal.
+
+         (h) Oil level indicating devices and test wells.
+
+            (1) Oil level indicating devices.
+
+               (i) Individual approved direct reading liquid level gauges shall be mounted on each tank calibrated in gallons to the rated capacity of each tank.
+
+               (ii) Oil level indicating devices shall be constructed of substantial materials so designed that there can be no leakage of oil or oil vapor.
+
+            (2) Test wells shall not be permitted. Unused tank openings shall be permanently sealed to prevent removal of plugs or cover
+
+         (i) Dispensing pump.
+
+            (1) Specifications.
+
+               (i) Pump shall be electric, not-computer, explosion proof type, model #U535 of the A.O. Smith Corporation (Board of Standards and Appeals Calendar No. 483-55-SA) or approved equal. All parts of pumps coming in contact with liquid shall be either galvanized or brass.
+
+               (ii) Pump shall be equipped with a discharge register and fitted with a tumbler lock equipped with two (2) keys.
+
+               (iii) Pump shall be equipped with a filter having a replaceable element (WIX or equivalent), fifteen feet (15') of hose and an automatic shut-off nozzle. Hose and nozzle shall be of a type approved by the Board of Standards and Appeals for use in dispensing diesel fuel.
+
+               (iv) Pump shall be equipped with a crank for manual operation in case of power failure.
+
+               (v) Pump to have words "Diesel Fuel" stenciled across the front panel in white letters 1" high.
+
+            (2) Location.
+
+               (i) Pump shall be located on the apparatus floor in a location near apparatus doors and convenient for supplying tanks of motor vehicles directly by means of dispensing hose.
+
+               (ii) Where practicable, pump shall be located above the storage tank which shall be located in the cellar.
+
+               (iii) Pump shall be mounted on a concrete pad 30" long by 18" wide by 12" high.
+
+         (j) Permits, plans and inspection of storage tanks and piping.
+
+            (1) Permits. No diesel fuel oil storage system installed under these rules shall be operated until it is inspected and approved by a representative of the fire commissioner except that temporary operation shall be permitted upon the filing by the licensed installer of a certified statement that such equipment and the installation conforms with the plan for the installation and with applicable provisions of law.
+
+            (2) Plans.
+
+               (i) Plans for the installation of diesel fuel oil storage tanks in existing firehouses shall be prepared by the Fire Department buildings unit and submitted to the Bureau of Fire Prevention for approval before installation of the system. All such plans shall show compliance with these rules.
+
+               (ii) Plans for the installation of diesel fuel storage tanks in existing firehouses being remodeled under a modernization program shall be prepared by the agency charged with the modernization and shall be submitted by such agency to the Bureau of Fire Prevention for approval before installation of the system. All such plans shall show compliance with these rules.
+
+         (k) Fire protection. Tanks, pumps and piping shall be maintained oil tight and kept clear at all times.
+
+      . . . . . . . . . .
+
+         (m) Schematic drawings.
+
+            (1) Schematic drawing for two (2) 275 gallon tanks.
+
+            (2) Schematic drawing for 550 gallon tank.
+
+
+
+
+.. image:: http://library.amlegal.com/nxt/gateway.dll?f=id$id=rules0-0-0-128-img$3.0$p=
+
+ 
+
+
+
+
+.. image:: http://library.amlegal.com/nxt/gateway.dll?f=id$id=rules0-0-0-130-img$3.0$p=
+
+ 
+
+
+
+
+
+
+*§ 4827-01 Storage of Hazardous Materials in Pre-Existing Facilities.* ::
+
+
+(a) Scope. This section consolidates the New York City Fire Prevention Code and former Fire Department rules in effect on June 30, 2008, that are applicable to the design and installation of hazardous material installations in pre-existing facilities.
+
+(b) Definitions. The following terms shall, for purposes of this section and as used elsewhere in Chapter 48 of the rules, have the meanings shown herein:
+
+   Retail drug store. A store or building used for the compounding and dispensing, usually in the form of physicians' prescriptions, or for the selling of small quantities of medicinal preparations, proprietary articles, drugs, chemicals, oils, volatile solvents and other substances which, alone or in combination with any other article or substance, are of a highly combustible, flammable or explosive nature. (Fire Prevention Code, former Administrative Code § 27-4002(35))
+
+   Technical establishment. A building or place where explosive, flammable or highly combustible substances are produced, used or stored for use, or where chemicals or other materials entering into the production of such substances are stored or used, excepting those establishments which are specifically treated under other classifications in subchapters one through twenty-seven of this chapter. (Fire Prevention Code, former Administrative Code § 27-4002(39))
+
+   Tenement house. A class A multiple dwelling as defined in subdivision four of section four of the multiple dwelling law. (Fire Prevention Code, former Administrative Code § 27-4002(40))
+
+(c) General Provisions. Pre-existing facilities with hazardous material installations the design and installation of which would not be allowed or approved under the Fire Code, but which, pursuant to FC102.3 and R102-01, may be continued with respect to such hazardous material installations under the applicable laws, rules and regulations in effect prior to the Fire Code, and shall continue to comply with the provisions of such laws, rules and regulations, including former Administrative Code §§ 27-4234, 27-4236, 27-4237, 27-4238, 27-4240, 27-4241, 27-4242 and 27-4246, and former Fire Department rules 3 RCNY §§ 10-01, 15-05 and 34-01, as applicable, until such time as such facilities may be required to comply with the Fire Code and the rules with respect to their design and installation.
+
+(d) Technical Establishments.
+
+   (1) Former Administrative Code § 27-4234.
+
+      § 27-4234 Restrictions. It shall be unlawful to store for use, or to use in any technical establishment any liquid acetylene, acetylide of copper or other metallic acetylide; fulminate of mercury, or any other fulminate or fulminating compound; nitroglycerine; chloride of nitrogen; amide or amine; blasting powder; smokeless powder; or gunpowder in any form; or any volatile product of petroleum (except rhigoline) having a boiling point lower than sixty degrees Fahrenheit.
+
+(e) Wholesale Drug Stores and Drug and Chemical Supply Houses.
+
+   (1) Former Administrative Code § 27-4237.
+
+      § 27-4237 Restrictions. No permit shall be issued for a wholesale drug store or drug and chemical supply house in any building:
+
+      1. Which is situated within fifty feet of the nearest wall of any building which is occupied as a school, hospital, theatre, or other place of public amusement or assembly;
+
+      2. Which is not equipped with a fire extinguishing system approved by the commissioner;
+
+      3. Where the building does not comply with the requirement of the building code regulating high hazard occupancies for buildings erected after the sixth day of December, nineteen hundred sixty-eight; or where a building or building section erected prior thereto is not fully equipped with an approved automatic sprinkler system.
+
+   (2) Former Administrative Code § 27-4238.
+
+      § 27-4238 Laboratory.
+
+      a. Construction. The operation of compounding medicinal preparations, proprietary articles and similar materials, or analyzing or testing drugs, chemicals, medicinal preparations, proprietary articles and similar materials, when explosive or flammable substances are required, shall be conducted only in a room or part of the premises designed and constructed in accordance with all applicable provisions of the building code.
+
+. . . . . . . . . .
+
+   (3) Former Administrative Code § 27-4240.
+
+      § 27-4240 Prohibited materials. It shall be unlawful to manufacture or store in a wholesale drug store or drug and chemical supply house any of the following substances:
+
+      1. Acetylide of copper;
+
+      2. Amide or amine explosive;
+
+      3. Chloride of nitrogen;
+
+      4. Colored fire in any form;
+
+      5. Cymogene or any volatile product of petroleum (except rhigoline) or coal tar having a boiling point lower than sixty degrees Fahrenheit;
+
+      6. Flashlight powders;
+
+      7. Fulminate or any fulminating compound;
+
+      8. Guncotton;
+
+      9. Gunpowder in any form;
+
+      10. Liquid acetylene;
+
+      11. Nitro-glycerine, except in official U. S. pharmacopoeia solution, or in the form of pills, tablets, or granules containing not more than one-fiftieth of a grain each;
+
+      12. Picrates;
+
+      13. Potassium chlorate in admixture with organic substances or with phosphorus or sulphur; provided that this restriction shall not apply to the manufacture or storage of tablets of chlorate of potash intended for use solely for medicinal purposes;
+
+      14. Rubber shoddy.
+
+   (4) Former Administrative Code § 27-4241.
+
+      § 27-4241 Quantities of supplies allowed. No permit shall be issued for the storage in a wholesale drug store or drug and chemical supply house of any of the following substances in quantities greater than those set forth in the following schedule:
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 1. Explosives. 
+      -  
+    * - Amyl nitrate in bottles 
+      - 25 pounds
+    * - Amyl nitrate in pearls 
+      - 100 gross
+    * - Carbon bisulphide 
+      - 50 pounds
+    * - Collodions 
+      - 100 pounds in all
+    * - Gases, liquefied:
+      -  
+    * -  Anhydrous ammonia 
+      - 2 cylinders
+    * -  Carbon dioxide 
+      - 2 cylinders
+    * -  Nitrous oxide 
+      - 2 cylinders
+    * -  Oxygen 
+      - 2 cylinders
+    * -  Sulphur dioxide 
+      - 2 cylinders
+    * - Nitroglycerine, one percent solution in alcohol 
+      - 20 pounds
+    * - Picric acid 
+      - 25 pounds
+    * - Soluble cotton 
+      - 25 pounds in all
+    * - 2. Volatile flammable liquids (insoluble). 
+      -  
+    * - Benzine, benzole or naphthas of any kind 
+      - 150 gallons in all
+    * - Coal tar 
+      - 1 barrel
+    * - Coal tar oils (heavy) 
+      - 10 barrels
+    * - Crude petroleum 
+      - 1 barrel
+    * - Ethyl chloride and other ethers 
+      - 200 pounds in all
+    * - Ether, nitrous 
+      - 100 pounds in five pound packages or less 
+    * - Ether, sulphuric 
+      - 500 pounds
+    * - Rhigoline 
+      - 2 dozen one pound tins
+    * - Varnishes, lacquers, etc. 
+      - 275 gallons in all
+    * - Wood creosote 
+      - 5 barrels
+    * -  3. Volatile flammable liquids (soluble). 
+      -  
+    * - Acetone 
+      - 1 barrel
+    * - Alcohol, denatured 
+      - 10 barrels
+    * - Alcohol, ethyl 
+      - 10 barrels
+    * - Alcohol, methyl 
+      - 10 barrels
+    * - Aldehyde, ethyl 
+      - 5 gallons
+    * -  4. Non-volatile flammable liquids (insoluble). 
+      -  
+    * - Amyl acetate 
+      - 10 barrels
+    * - Amyl alcohol 
+      - 10 barrels
+    * - Aniline oil 
+      - 5 drums
+    * - Cumol 
+      - 5 barrels
+    * - Essential oils 
+      - 10,000 pounds in all 
+    * - Kerosene 
+      - 1 barrel
+    * - Nitrobenzole 
+      - 5 drums
+    * - Terebene 
+      - 100 pounds
+    * - Toluol 
+      - 350 pounds
+    * - Turpentine 
+      - 10 barrels
+    * - Xylol 
+      - 100 pounds
+    * - 5. Non-volatile flammable liquids (soluble). 
+      -  
+    * - Glycerine 
+      - 5,000 pounds
+    * - 6. Combustible solids. 
+      -  
+    * - Metallic magnesium 
+      - 100 pounds
+    * - Phosphorus 
+      - 11 pounds
+    * - Phosphorus, red 
+      - 11 pounds
+    * - Sulphur 
+      - 25 barrels in all
+    * - 7. Gums, resins, pitch, etc. 
+      -  
+    * - Burgundy pitch 
+      - 5,000 pounds
+    * - Camphor 
+      - 8,000 pounds
+    * - Gum thus 
+      - 5 barrels
+    * - Naphthaline 
+      - 50 barrels in all
+    * - Pitch (coal tar pitch) 
+      - 2 barrels
+    * - Resins, balsams and other varnish gums 
+      - 8,000 pounds in all
+    * - Rosin 
+      - 5 barrels
+    * - Shellac 
+      - 2,500 pounds
+    * - Stockholm tar 
+      - 1,000 pounds
+    * - Tar, refined (wood) 
+      - 10 barrels
+    * - Venice turpentine 
+      - 2,000 pounds
+    * - 8. Combustible fibres and powders (vegetable).
+      -  
+    * - Cotton, absorbent 
+      - 2,000 pounds
+    * - Cotton batting 
+      - 10 bales
+    * - Excelsior 
+      - 25 bales
+    * - Flax 
+      - 20 bales
+    * - Jute 
+      - 25 bales
+    * - Lampblack 
+      - 10 barrels
+    * - Lycopodium 
+      - 2,000 pounds
+    * - Oakum 
+      - 2 bales
+    * - Pulverized charcoal 
+      - 10 barrels
+    * - Sawdust 
+      - 15 bags
+    * - Straw, packing 
+      - 10 bales
+    * - 9. Dangerously corrosive acids. 
+      -  
+    * - Anhydrous acetic 
+      - 500 pounds
+    * - Carbolic 
+      - 15,000 pounds
+    * - Glacial acetic 
+      - 2,000 pounds
+    * - Hydrochloric 
+      - 15 carboys
+    * - Hydrofluoric 
+      - 500 pounds
+    * - Sulphuric 
+      - 15 carboys
+    * - 10. Acids. 
+      -  
+    * - Chromic 
+      - 100 pounds
+    * - Iodic 
+      - 5 pounds
+    * - Nitric 
+      - 3 carboys
+    * - Nitric, fuming 
+      - 25 pounds
+    * - Periodic 
+      - 2 pounds
+    * - 11. Peroxides. 
+      -  
+    * - Barium 
+      - 2 casks
+    * - Calcium 
+      - 100 pounds
+    * - Hydrogen, U.S.P. 
+      - 5,000 pounds
+    * - Other hydrogen peroxides, over three percent, not to exceed fifteen percent 
+      - 500 pounds 
+    * - Potassium 
+      - 10 pounds
+    * - Sodium 
+      - 25 pounds
+    * - 12. Chlorates. 
+      -  
+    * - Barium 
+      - 500 pounds
+    * - Other metallic 
+      - 100 pounds in all
+    * - Potassium 
+      - 1,000 pounds
+    * - Sodium 
+      - 1,000 pounds
+    * - 13. Perchlorates. 
+      -  
+    * - Potassium 
+      - 10 pounds
+    * - Other metallic perchlorates 
+      - 10 pounds in all
+    * - 14. Permanganates. 
+      -  
+    * - Potassium 
+      - 1,000 pounds
+    * - Sodium 
+      - 100 pounds
+    * - Other metallic permanganates 
+      - 100 pounds in all
+    * - 15. Nitrates. 
+      -  
+    * - Barium 
+      - 1,200 pounds
+    * - Bismuth subnitrate 
+      - 2,500 pounds
+    * - Cobalt 
+      - 1,000 pounds
+    * - Copper 
+      - 100 pounds
+    * - Iron, ferric 
+      - 200 pounds
+    * - Mercury (mercuric) 
+      - 100 pounds
+    * - Mercury (mercurous) 
+      - 10 pounds
+    * - Potassium 
+      - 2,000 pounds
+    * - Silver 
+      - 50 pounds
+    * - Sodium 
+      - 1,000 pounds
+    * - Strontium 
+      - 1,200 pounds
+    * - Other metallic 
+      - 500 pounds in all
+    * - 16. Metallic oxides. 
+      -  
+    * - Lead binoxide 
+      - 25 pounds
+    * - Lead (litharge) 
+      - 1,200 pounds
+    * - Lead (red) 
+      - 500 pounds
+    * - Mercury; yellow precipitate (mercurous) 
+      - 200 pounds
+    * - Mercury; red precipitate (mercuric) 
+      - 100 pounds
+    * - Silver 
+      - 10 pounds
+    * - 17. Substances made dangerous by contact with other substances.
+      -  
+    * - Calcium carbide 
+      - 60 pounds
+    * - Metallic potassium 
+      - 5 pounds
+    * - Metallic sodium
+      - 5 pounds
+    * - All other metals of the alkalies or alkalone earths
+      - 5 pounds in all
+    * - Phosphides 
+      - 10 pounds
+    * - Unslaked lime 
+      - 2 barrels
+    * - Zinc dust 
+      - 100 pounds
+~
+
+ 
+
+The commissioner may, in his or her discretion and when no unusual hazard is presented thereby, authorize the storage of greater quantities than those set forth in the foregoing schedule, or the storage of other substances not specified therein.
+
+   (5) Former Administrative Code § 27-4242.
+
+      § 27-4242 Storage.
+
+      . . . . . . . . . .
+
+      b. Liquids. The storage of acids or liquid chemicals which may cause explosions or combustion by flowing into, upon or among chemicals or other substances, shall be provided with safety catch basins or a similar device, so that, in case of the leakage of such acids or liquids, no danger to life or property will result. Carboys containing nitric acid shall be stored only in premises designed and constructed in accordance with all applicable provisions of the building code; and it shall be unlawful to permit sawdust, hay, excelsior, or any organic substance, or other acids or chemicals in close proximity to such carboys or stocks of nitric acid. A sufficient quantity of sand or infusorial earth shall be provided for absorbing all waste liquids from floors.
+
+      . . . . . . . . . .
+
+   (6) Former Fire Department Rule 3 RCNY § 15-05.
+
+      § 15-05 Fire Protection in Wholesale Drug and Chemical Supply Houses. The following shall be deemed to be in compliance with § 27-4237(3) of the Administrative Code of the City of New York:
+
+      . . . . . . . . . .
+
+      (d) Where such storage does not exceed 75 percent of the quantities allowed in § 27-4241, Administrative Code. For each 2,500 square feet of floor area or major portion thereof:
+
+      . . . . . . . . . .
+
+      Thermostatic alarm
+
+      (e) Where the storage exceeds 75 percent of the allowable quantity, an automatic sprinkler system is required.
+
+      (f) When the building exceeds four stories, an automatic sprinkler system is required.
+
+      (g) In any building where explosives and flammable substances are used or handled, if the area exceeds 5,000 square feet per floor an automatic sprinkler system is required.
+
+      (h) In any building exceeding 10,000 square feet per floor, an automatic sprinkler system is required.
+
+(f) Retail Drug Stores.
+
+   (1) Former Administrative Code § 27-4246.
+
+      § 27-4246 Quantities of supplies allowed. It shall be unlawful to store, sell or use in a retail drug store any of the following substances in quantities greater than those set forth in the following schedule:
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * -  1. Acids. 
+      -   
+    * - Carbolic 
+      - 100  pounds
+    * - Hydrochloric 
+      -  200  pounds
+    * -  Nitric 
+      -  15  pounds
+    * - Picric 
+      -  1  ounce
+    * - Sulphuric 
+      -  200  pounds
+    * - 2. Volatile flammable liquids. 
+      -  
+    * - Acetone 
+      - 5  pounds
+    * - Amyl acetate 
+      - 1  gallon
+    * - Amyl alcohol 
+      - 1  gallon
+    * - Amyl nitrate 
+      - 2 ounces in one ounce bottles six dozen pearls
+    * - Ethyl alcohol 
+      - 1  barrel
+    * - Benzine, benzole and naphtha of any kind 
+      - 5 gallons in four ounce bottles or pint tins
+    * - Carbon bisulphide 
+      - 3  pounds
+    * - Collodion 
+      - 5  pounds
+    * - Denatured alcohol 
+      - 1  barrel
+    * - Ether, sulphuric 
+      - 5  pounds
+    * - Methyl alcohol 
+      - 1  barrel
+    * - Other ethers, in all 
+      - 2  pounds
+    * - Turpentine 
+      - 1  barrel
+    * - 3. Flammable liquids. 
+      -  
+    * - Essential oils 
+      - 100  pounds in all
+    * - Glycerine 
+      - 500  pounds
+    * - Pine tar 
+      - 10  pounds
+    * - 4. Combustible solids. 
+      -  
+    * - Aluminum (powder) 
+      - 1  pound
+    * - Balsams and resins 
+      - 50  pounds in all
+    * - Camphor 
+      - 350  pounds
+    * - Charcoal, powdered 
+      - 10  pounds
+    * - Lampblack 
+      - 10  pounds
+    * - Magnesium (powder) 
+      - 8  ounces
+    * - Magnesium (ribbon) 
+      - 8  ounces
+    * - Naphthalene 
+      - 4  barrels
+    * - Phosphorus, red 
+      - 2  ounces
+    * - Phosphorus, yellow 
+      - 1  ounce
+    * - Rosin 
+      - 10  pounds
+    * - Sulphur and brimstone 
+      - 250  pounds in all
+    * - 5. Combustible fibres. 
+      -  
+    * - Cotton, absorbent 
+      - 150  pounds in cartons
+    * - Cotton, batts 
+      - 10 pounds in closed boxes or other containers
+    * - Cotton, loose 
+      - 5 pounds in closed boxes or other containers
+    * - Excelsior, hay and straw 
+      - 2 bales (except in stores located in tenement houses)
+    * - Lint 
+      - 10 pounds in closed boxes or other containers
+    * - Oakum 
+      - 10 pounds in closed boxes or other containers
+    * - 6. Oxidizers. 
+      -  
+    * - Barium peroxide 
+      - 1  pound
+    * - Bismuth subnitrate 
+      - 20  pounds
+    * - Calcium peroxide 
+      - 5  pounds
+    * - Chromic acid 
+      - 1  pound
+    * - Lead oxide (red) 
+      - 5  pounds
+    * - Lime, unslaked 
+      - 200  pounds in sealed metal cans
+    * - All other metallic bichromates or chromates 
+      - 50  pounds in all
+    * - Mercuric oxide (red) 
+      - 2  pounds
+    * - Mercurous oxide 
+      - 2  pounds
+    * - Mercury nitrate 
+      - 1  pound
+    * - Phosphides 
+      - 10  ounces in all
+    * - Potassium bichromate 
+      - 10  pounds
+    * - Potassium chlorate 
+      - 25 pounds in five pound containers or less
+    * - Potassium nitrate 
+      - 50  pounds
+    * - Potassium perchlorate 
+      - 1  ounce
+    * - Potassium permanganate 
+      - 5  pounds
+    * - Silver nitrate 
+      - 1  pound
+    * - Silver oxide 
+      - 1  ounce
+    * - Sodium bichromate 
+      - 10  pounds
+    * - Sodium chlorate 
+      - 5  pounds
+    * - Sodium nitrate 
+      - 25  pounds
+    * - Sodium permanganate 
+      - 1  pound
+~
+
+ 
+
+The commissioner may, in his or her discretion, when no extra hazard is permitted thereby, authorize the storage of larger quantities of substances than those set forth in the foregoing schedule, or of other explosives or flammable substances not specifically named therein.
+
+(g) Non-Production Chemical Laboratories.
+
+   (1) Former Fire Department Rule 3 RCNY § 10-01.
+
+      § 10-01 Storage and Use of Chemicals, Acids and Gases in College, University, Hospital, Research and Commercial Laboratories.
+
+      (a) Definitions.
+
+      . . . . . . . . . .
+
+      Laboratory. Laboratory means a generic term denoting a building, space, equipment or operation, wherein testing, research or experimental work is conducted and shall include laboratories used for instructional purposes.
+
+      Laboratory Building. Laboratory building means a structure consisting wholly or principally of one or more laboratory units.
+
+      Laboratory Unit. Laboratory unit means an enclosed, fire rated space used for testing, research, experimental or educational purposes. Laboratory units may or may not include offices, lavoratories, and other contiguous rooms maintained for, or used by, laboratory personnel, and corridors within the units. It may contain one or more separate laboratory work areas.
+
+      Laboratory Work Area. Laboratory work area means a room or space within a laboratory unit for testing, analysis, research, instruction, or similar activities which involve the use of chemicals or gases. A work area may or may not be enclosed.
+
+         Exception: This section shall not apply to physical, electronic, instrument or similar laboratories which use small quantities (less than 32 oz. flammable liquids, 0.5 lb. oxidizing materials, and 0.15 cu.ft. water container capacity of flammable gases) for incidental purposes such as cleaning, maintenance or repair and these substances are not used directly in experimental chemical research work.
+
+      . . . . . . . . . .
+
+      Storage Cabinet. Storage cabinet means a cabinet for the storage of not more than 60 gallons of flammable liquid which is designed and constructed in accordance with "OSHA General Industry Standards-Flammable and Combustible Liquids".
+
+      Storage Room. Storage room means a room where chemicals or gases regulated by this directive are stored and not otherwise used or reacted.
+
+      Unstable (Reactive) Chemical. Unstable (reactive) chemical means a substance, other than one classified as an explosive or blasting agent, which will vigorously and energetically react, is potentially explosive, will polymerize or decompose instantaneously, undergo uncontrollable auto-reaction or can be exploded by heat, shock, pressure or combinations thereof. Examples are: organic peroxides, nitromethane, and ammonium nitrate.
+
+      . . . . . . . . . .
+
+      (d) Storage.
+
+         (1) Storage of chemicals for use in individual laboratory units shall be in accordance with Table I below. Any amounts in addition to the maxima set forth in Table I below shall be at the discretion of the Commissioner and shall be in storage cabinets.
+
+         (2) Determination of the fire rating of laboratory unit enclosures shall be in accordance with the criteria of the Building Code, except that, in partitions not required to have a fire rating under the provisions of that Code, fire dampers shall not be required to be installed in existing ducts penetrating existing laboratory partitions.
+
+         (3) Storage of volatile flammable oils shall be in accordance with Table I of this section.
+
+Table I Maximum Laboratory Unit Storage Limits
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - Lab Type 
+      - Fire Rating 
+      - Fire Protection 
+      - Flammable Liquids and
+      - Flammable Solids
+      - Oxidizing Materials 
+      - Unstable Reactive 
+    * - I 
+      - 2 Hours 
+      - Sprinklers 
+      - 30 gals 
+      - 15 lbs 
+      - 50 lbs 
+      - 12 lbs 
+    * - II 
+      - 1 Hour 
+      - Sprinklers 
+      - 25 gals 
+      - 10 lbs 
+      - 40 lbs 
+      - 6 lbs 
+    * - III 
+      - 2 Hours 
+      - No Sprinklers 
+      - 20 gals 
+      - 6 lbs 
+      - 30 lbs 
+      - 3 lbs 
+    * - IV 
+      - 1 Hour 
+      - No Sprinklers 
+      - 15 gals 
+      - 3 lbs 
+      - 20 lbs 
+      - 2 lbs 
+~
+
+
+
+ 
+
+. . . . . . . . . .
+
+         (5) Storage and use of flammable gases within laboratory units shall be in accordance with Table II below, except that no storage of flammable gases shall be allowed in any laboratory unit where there is not an on-going operation requiring their use. On-going operations shall allow storage of flammable gases sufficient to meet the operating requirements of the equipment in that laboratory unit plus an equal reserve.
+
+Table II Storage of Flammable Gases
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - Area of Laboratory in square feet** 
+      - up to 500 sq. ft. 
+      - per additional 100 sq. ft.
+      - Maximum per Laboratory Unit 
+    * - Maximum Capacity 
+      - 9.24 
+      - 1.54
+      - 15.4
+~
+
+
+
+ **Water container capacity
+
+. . . . . . . . . .
+
+         (9) Storage rooms shall be of a minimum 2 hour rated construction and shall be provided with:
+
+            (i) a constant mechanical exhaust system to the exterior capable of providing at least six changes of air per hour;
+
+            (ii) a sill at the doorway (except that no sill shall be required at doorways of flammable gas storage rooms);
+
+            (iii) a sprinkler system providing at least one head per 90 sq. ft.
+
+. . . . . . . . . .
+
+         (13) All fixed electrical equipment within cold rooms where flammable liquids or flammable gases are used shall be explosion proof in accordance with subdivision (f)(3) of this section. Cold rooms shall not be used for storage of principal stock of flammable gases or flammable liquids.
+
+      (e) Signs and warning placards.
+
+         (1) A sign prohibiting smoking shall be conspicuously posted at the exterior of entrances to storage and laboratory areas and within such areas.
+
+         (2) Signs with RED letters of minimum size two inches high by three-eighths inch stroke on a contrasting background shall be posted at entrances to areas:
+
+            (i) Where materials which react with water are stored or used.
+
+            (ii) Where flammable gases or explosives are stored or used.
+
+         (3) Warning placards in conformance with Federal, State and Local regulations shall be posted at entrances to areas:
+
+            (i) Where radioactive material is stored or used;
+
+            (ii) Where biohazardous material is stored or used;
+
+            (iii) Where poisonous gases are stored or used.
+
+         (4) The outside of each chemical laboratory unit door shall have a sign, as detailed below, or metal or other durable material, with RED letters on a white background which shall be located in the area of the mid-point of the height of the door.
+
+
+
+
+.. image:: http://library.amlegal.com/nxt/gateway.dll?f=id$id=rules0-0-0-132-img$3.0$p=
+
+ 
+
+      (f) Fire prevention and protection.
+
+         (1) In laboratories and storage rooms which are sprinkled, the protection area per sprinkler head shall not exceed 90 sq. ft., except that the protection area per sprinkler head shall not exceed 100 sq. ft. where the system is hydraulically designed.
+
+         (2) In existing buildings, water supply to sprinkler systems may be taken off existing standpipes provided that the system is hydraulically designed.
+
+         (3) All electrical equipment in all flammable liquid and all flammable gas storage rooms shall conform with the requirements of the New York City Electrical Code set forth in § 27-3198(4), Administrative Code, irrespective of whether such room would be classified as a Class I Location by § 27-3197(1) of such code.
+
+         (4) Laboratory units and laboratory work areas shall be considered as unclassified electrically with respect to § 27-3197 of the Administrative Code.
+
+         (5) Fume hoods shall be provided and utilized in conformance with these requirements and those of such other agencies as have jurisdiction over operations and special storage conditions which give off noxious odors or flammable or poisonous vapors, or radioactive materials.
+
+         (6) Fume hoods shall be so vented that a minimum average face velocity of 100 feet per minute, with minimum face velocity at any point not less than 75 feet per minute, is provided.
+
+         (7) Fume hoods shall be located away from doors, windows that may be opened, principal traffic lanes or room air outlets or returns which may cause drafts sufficient to interfere with exhaust operations of fume hoods.
+
+         (8) Every fume hood used for handling perchloric acids, strong oxidizing agents or highly reactive chemicals shall be served by an independent duct.
+
+         (9) Common ducts may be permitted for fume hoods in the same laboratory unit. Hoods in different laboratory units shall not have their ducts combined. Hoods in common ducts must be so arranged or equipped that exhaust from one duct cannot be forced out through any other hood served by the common duct.
+
+         (10) Exhaust ducts shall have the minimum number of turns, bends or obstructions as is practical, and shall have adequate air movement in the duct for the number of hoods vented by that duct and sufficient to prevent any back up into the hood.
+
+         (11) Washdown provisions shall be provided for hoods and ducts in which perchloric acid is heated above ambient temperature and in which vapors are not trapped or scrubbed before entering the hood exhaust system.
+
+         (12) Exhaust fans for ducts shall, wherever possible, be located outside the building and as close as possible to the terminal so that negative pressure is maintained in ducts within the building.
+
+         (13) A system of explosion hazard control consisting of explosion prevention, explosion suppression, explosion venting, area ventilation, extinguishment system(s), barrier protection, separation and isolation, remove controlled apparatus or any combination thereof, shall be provided in laboratories or storage rooms where any of the following conditions occur:
+
+            (i) Storage of materials which in themselves are readily capable of detonation or of an explosive decomposition or explosive reaction at normal ambient temperature and pressure.
+
+            (ii) Use of materials which explode, violently decompose or produce rapid increases in pressure and temperature upon:
+
+               (A) Vacuum distillation;
+
+               (B) Being subjected to slight or moderate shock;
+
+               (C) Exposure to ultraviolet or visible light;
+
+               (D) Exposure to pressure or more than one atmosphere;
+
+               (E) Exposure to temperature in excess of 122(degrees)F. or 50(degrees)C.;
+
+               (F) Exposure to air;
+
+               (G) Increase in the concentration above which the substance is not longer stable;
+
+               (H) Standing (i.e. spontaneously).
+
+            (iii) Highly exothermic reactions which also involve rapid increases in pressure, such as certain polymerizations, oxidations, nitrations, peroxidations, hydrations, or organometallic reactions.
+
+            (iv) Use or formation of materials whose chemical structure or functional group indicate potential hazard, but whose properties have not been established. Examples would be triple bonds, epoxy radicals, nitro and [;nitroso]; nitrous compounds, and peroxides.
+
+         (14) The commissioner shall evaluate the method of explosion hazard control, on an individual basis, considering in each instance the following criteria:
+
+            (i) The nature and quantity of the constituent material(s);
+
+            (ii) The nature of the process;
+
+            (iii) The potential energy release;
+
+            (iv) Isolation of the equipment;
+
+            (v) The particular physical location and exposures.
+
+. . . . . . . . . .
+
+   (2) Former Fire Department Rule 3 RCNY § 34-01
+
+      § 34-01 Storage and Use of Limited Quantities of Chemicals, Acids, and Flammables for Instruction Purposes in [Public High] Schools Through the Twelfth Grade. 
+
+      (a) No liquefied chlorine may be stored in any school.
+
+      (b) No more than five (5) gallons of volatile flammable oils derived from petroleum, shale oil or coal tar should be stored at any one time.
+
+      (c) No more than twenty-five (25) pounds of potassium and/or sodium chlorate is permitted to be stored.
+
+      (d) No chemicals or substances as listed under §§ 27-4240 and 27-4234 of the Administrative Code should be stored in a school.
+
+. . . . . . . . . .
+
+      (i) The storage of dangerous chemicals, volatile flammable oils and liquids shall be confined to metal cabinets vented at top and bottom. A cardholder should be provided for a visible record of the contents and maximum amount stored therein; also, a caution sign, if applicable to read: "In case of fire do not use water."
+
+. . . . . . . . . .
+
+Note: The foregoing rules shall be the basis for the issuance of Fire Department permits to schools throughout the City of New York.
+
+      (l) Listed below are the maximum quantities of combustibles and dangerous chemicals which may be stored in [public high] schools through the twelfth grade:
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - Explosives
+      - 
+    * - Picric Acid 
+      - 1 lb. 
+    * - Carbon Bisulphide 
+      - 10 lbs.
+    * - Carbon Dioxide 
+      - 1 lb.
+    * - Anhydrous Ammonia 
+      - 1 lb.
+    * - Sulphur Dioxide 
+      - 1 lb.
+    * - Nitrous Oxide 
+      - 1 lb.
+    * - Oxygen 
+      - 1 lb.
+~
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - Volatile Flammable Liquids (Insoluble)
+      - 
+    * - Crude Petroleum 
+      - 2 lbs. 
+    * - Benzine, Benzola or Naphthas of any kind 
+      - 2 lbs.
+    * - Ether, Sulphuric 
+      - 10 lbs.
+    * - Varnishes, Lacquers, etc. 
+      - 2 lbs.
+~
+
+
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - Volatile Flammable Liquids (Soluble)
+      - 
+    * - Acetone 
+      - 1 lb. 
+    * - Alcohol, Denatured 
+      - 5 gals.
+    * - Aylcohol, Methyl 
+      - 5 gals.
+~
+
+
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - Non-Volatile Flammable Liquids (Insoluble)
+      - 
+    * - Amyl Acetate 
+      - 2 lbs. 
+    * - Amyl Alcohol 
+      - 2 lbs.
+    * - Aniline Oil 
+      - 1 lb.
+~
+
+
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - Non-Volatile Flammable Liquids (Insoluble)
+      - 
+    * - Kerosene 
+      - 2 lbs. 
+    * - Turpentine 
+      - 1/2 gal.
+    * - Tuluol 
+      - 1 gal.
+    * - Xylol 
+      - 1 gal.
+    * - Essential Oils 
+      - 2 lbs.
+~
+
+
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - Non-Volatile Flammable Liquids (Soluble)
+      - 
+    * - Glycerine 
+      - 5 lbs. 
+~
+
+
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - Combustible Solids
+      - 
+    * - Phospherous 
+      - 1/4 lb. 
+    * - Phospherous, Red 
+      - 5 lbs.
+    * - Sulphur 
+      - 15 lbs.
+    * - Metallic Magnesium 
+      - 1 lb.
+~
+
+
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - Gums, Resins, Pitch, Etc.
+      - 
+    * - Camphor 
+      - 1 lb. 
+    * - Resin 
+      - 11 lb.
+    * - Venice Turpentine 
+      - 1 lb.
+    * - Naphthaline 
+      - 1 lb.
+    * - Shellac 
+      - 1 lb.
+~
+
+
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - Combustible Fibres and Powders (Vegetable)
+      - 
+    * - Pulverized Charcoal 
+      - 5 lbs. 
+    * - Cotton, Absorbent 
+      - 5 lbs.
+    * - Lampblack 
+      - 2 lbs.
+    * - Lycopodium 
+      - 1 lb.
+~
+
+
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - Dangerously Corrosive Acids
+      - 
+    * - Glacial Acetic Acid 
+      - 5 gals. 
+    * - Hydrofluoric Acid 
+      - 1 lb.
+    * - Hydrochloric Acid 
+      - 12 gals.
+    * - Sulphuric Acid 
+      - 12 gals.
+    * - Carbolic Acid 
+      - 1 lb.
+~
+
+
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - Acids
+      - 
+    * - Acid, Chromic 
+      - 1 lb. 
+    * - Acid, Nitric 
+      - 12 gals.
+~
+
+
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - Peroxides
+      - 
+    * - Hydrogen Peroxide, U.S.P. 
+      - 0 lbs. 
+    * - Sodium Peroxide 
+      - 2 lbs.
+    * - Barium Peroxide 
+      - 2 lbs.
+    * - Other Hydrogen Peroxides over 3 percent, not to exceed 15 percent
+      - 5 lbs.
+~
+
+
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - Chlorates
+      - 
+    * - Potassium Chlorate 
+      - 15 lbs. 
+~
+
+
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - Permanganates
+      - 
+    * - Potassium Permanganates 
+      - 1 lb. 
+~
+
+
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - Nitrates
+      - 
+    * - Barium Nitrate 
+      - 1 lb. 
+    * - Stontium Nitrate 
+      - 1 lb.
+~
+
+
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - Cobalt Nitrate 
+      - 1 lb. 
+    * - Copper Nitrate 
+      - 1 lb.
+    * - Iron Nitrate, Ferric Mercury Nitrate (mercuric)
+      - 1 lb.
+    * - Mercury Nitrate (mercurous)
+      - lb.
+    * - Potassium Nitrate 
+      - 10 lbs.
+    * - Silver Nitrate 
+      - 5 lbs.
+    * - Sodium Nitrate 
+      - 15 lbs.
+    * - Other Metallic Nitrates 
+      - 5 lbs.
+~
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - Metallic Oxides
+      - 
+    * - Lead Oxide (red) 
+      - 5 lbs. 
+    * - Lead Oxide (Litharge) 
+      - 10 lbs.
+    * - Oxide of Mercury red precipitate (mercuric)
+      - 10 lbs.
+    * - Oxide of Mercury; yellow precipitate (mercurous)
+      - 5 lbs.
+~
+
+
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - Substances Made Dangerous by Contact with Other Substances
+      - 
+    * - Calcium Carbide 
+      - 5 lbs. 
+    * - Metallic Potassium 
+      - 1/2 lb.
+    * - All other Metals of the Alkalies or Alkaline Earths
+      - 2 lbs.
+    * - Metallic Sodium 
+      - 1/2 lb.
+    * - Zinc Dust 
+      - 5 lbs.
+    * - Slaked Lime 
+      - 25 lbs.
+~
+
+
+
+ 
+
+
+
+
+
+
+*§ 4828-01 Storage of Aerosols in Pre-Existing Facilities.* ::
+
+
+(a) Scope. This section consolidates the New York City Fire Prevention Code and former Fire Department rules in effect on June 30, 2008, that are applicable to the design and installation of aerosol storage in pre-existing facilities.
+
+(b) Definitions. The following terms shall, for purposes of this section and as used elsewhere in Chapter 48 of the rules, have the meanings shown herein:
+
+   Combustible pressurized product. A pressurized product that has a flashpoint at or above 100 degrees Fahrenheit and below 300 degrees Fahrenheit, or where a flame projection exceeds three (3) inches but not more than eighteen (18) inches at full valve opening when tested by a method described in the regulations of the United States Department of Transportation, as set forth in Title 49, Part 173 of the Code of Federal Regulations. (Former Fire Department rule 3 RCNY 32-01(b))
+
+   Extremely flammable pressurized product. A pressurized product that has a flashpoint below 20 degrees Fahrenheit and where a flashback (a flame extending back to the dispenser) is obtained at any degree of the valve opening when tested by a method described in the regulations of the United States Consumer Product Safety Commission, as set forth in Title 16, Part 1500 of the Code of Federal Regulations. (Former Fire Department rule 3 RCNY 32-01(b))
+
+   Flammable pressurized product. A pressurized product that has a flashpoint at or above 20 degrees Fahrenheit and below 100 degrees Fahrenheit, or where a flame projection exceeds eighteen (18) inches at full valve opening or a flashback (a flame extending back to the dispenser) is obtained at any degree of valve opening when tested by a method described in the regulations of the United States Consumer Product Safety Commission, as set forth in Title 16, Part 1500, of the Code of Federal Regulations, or the regulations of the United States Department of Transportation, as set forth in Title 49, Part 173 of the Code of Federal Regulations. (Former Fire Department rule 3 RCNY 32-01(b))
+
+   Pressurized product. The product in a pressurized container with a propellant that causes the product to be expelled from the container through a valve. This term includes all such products, irrespective of the ingredients of the product, the type of propellant, or form in which the product is dispensed. (Former Fire Department rule 3 RCNY 32-01(b))
+
+(c) General Provisions. Pre-existing facilities with aerosol storage the design and installation of which would not be allowed or approved under the Fire Code, but which, pursuant to FC102.3 and R102-01, may be continued with respect to such aerosol storage under the applicable laws, rules and regulations in effect prior to the Fire Code, shall continue to comply with the provisions of such laws, rules and regulations, including former Fire Department rule 3 RCNY § 32-01, until such time as such facilities may be required to comply with the Fire Code and the rules with respect to their design and installation.
+
+(d) Pressurized Products.
+
+   (1) Former Fire Department Rule 3 RCNY § 32-01.
+
+      § 32-01 Manufacture, Storage and Use of Pressurized Products.
+
+. . . . . . . . . .
+
+      (e) Storage and use requirements.
+
+. . . . . . . . . .
+
+         (2) Combustible, flammable or extremely flammable pressurized products in quantities exceeding the following amounts shall comply with the following additional storage requirements:
+
+            (i) Combustible, flammable or extremely flammable pressurized products in quantities exceeding a total of fifty (50) gallons but not more than a total of two hundred (200) gallons shall be stored in an area protected by an automatic fire sprinkler system, an area having natural ventilation, or an area which is vented to the outdoors by a duct having a cross-section of at least eight (8) inches.
+
+            (ii) Combustible, flammable or extremely flammable pressurized products in quantities exceeding a total of two hundred (200) gallons shall be stored as follows:
+
+               (A) in non-combustible (fireproof) buildings, in a fireproof storage room, unless the building is equipped with an automatic fire sprinkler system or other fire extinguishing system approved by the Department;
+
+               (B) in combustible (non-fireproof) buildings, in a fire-resistive storage room that is vented to the outdoors and that is equipped with an automatic fire sprinkler system or other extinguishing system approved by the Department.
+
+
+
+
+
+
+*§ 4829-01 Storage of Combustible Fibers in Pre-Existing Facilities.* ::
+
+
+(a) Scope. This section consolidates the New York City Fire Prevention Code and former Fire Department rules in effect on June 30, 2008, that are applicable to the design and installation of combustible fiber storage in pre-existing facilities.
+
+(b) Definitions. [Reserved.]
+
+(c) Facilities in Compliance With Former Fire Department Rules in Effect on June 30, 2008.
+
+   (1) Combustible fiber storage on waterfront structures. Combustible fiber storage on waterfront structures in compliance with former Fire Department rule 3 RCNY § 30-01 in effect on June 30, 2008, is allowed and would be approved under the provisions of the Fire Code and the rules, and accordingly, such facilities shall be designed and installed in compliance with the requirements of FC2906.
+
+
+
+
+
+
+*§ 4830-01 Storage of Compressed Gases in Pre-Existing Facilities.* ::
+
+
+(a) Scope. This section consolidates the Fire Prevention Code and former Fire Department rules in effect on June 30, 2008, that are applicable to the design and installation of compressed gas installations in pre-existing facilities.
+
+(b) Definitions. [Reserved.]
+
+(c) General Provisions. Pre-existing facilities with compressed gas installations the design and installation of which would not be allowed or approved under the Fire Code, but that, pursuant to FC102.3 and R102-01, may be continued with respect to such compressed gas installations under the applicable laws, rules and regulations in effect prior to the Fire Code, shall continue to comply with the provisions of such laws, rules and regulations, including former Fire Department rules 3 RCNY 12-03, 23-10, 23-06 and 23-07, as applicable, until such time as such facilities may be required to comply with the Fire Code and the rules with respect to such compressed gas installations.
+
+(d) Medical Gases.
+
+   (1) Former Fire Department Rule 3 RCNY § 12-03
+
+      § 12-03 Storage of Oxygen Cylinders for Use in Institutional Occupancies.
+
+. . . . . . . . . .
+
+      (c) Storage of oxygen cylinders.
+
+         (1) When outdoor storage or a separate storage building is not feasible, oxygen cylinders shall be stored in an approved storage room.
+
+            (i) The storage room shall conform to the Building Code, but shall have a fire resistive rating of at least one (1) hour.
+
+            (ii) Storage room shall be provided with natural outside ventilation consisting of an open louvre having an area equivalent to at least one percent of the storage room area, or, in lieu thereof an adequate mechanical exhaust system shall be provided. Control for mechanical exhaust system to be located outside of the storage room. Ventilation shall conform to the Building Cede, but shall not be less than the foregoing requirements.
+
+            (iii) Storage room to have fireproof door without louvres.
+
+            (iv) A sign shall be provided on the outside of the door to the storage room reading:
+
+               OXYGEN STORAGE                NO SMOKING-NO OPEN FLAMES
+
+               [lettering] Lettering shall not be less than two (2) inches in height and shall be either RED ON A WHITE or WHITE ON A RED background.
+
+            (v) All electric lights, switches, relays and other electrical equipment shall be vapor proof design if such equipment is located in the storage room.
+
+            (vi) Oxygen Storage Rooms shall not communicate directly with anesthetizing locations or storage locations for combustible or flammable anesthetic agents.
+
+         (2) Liquid oxygen cylinders may be stored only on special permit of the Fire Commissioner under such conditions as he or she deems necessary.
+
+         (3) When outdoor storage is utilized for oxygen cylinders: Cylinders shall be protected against extremes of weather, and from the ground beneath to prevent rusting.
+
+            (i) During winter, cylinders shall be protected against accumulation of ice and snow.
+
+            (ii) During summer, cylinders shall be screened against the continuous direct rays of the sun.
+
+      (d) General storage rules.
+
+         (1) Oxygen cylinders shall not be stored with flammable gases, oils, grease, etc.
+
+         (2) Cylinders to be properly secured to prevent damage and away from sources of heat.
+
+         (3) An oxygen cylinder for immediate and emergency use may be kept on each floor in a cabinet, closet or room. (This is in addition to cylinders in actual use.)
+
+. . . . . . . . . .
+
+         (6)  No recharging of cylinders to be conducted on premises.
+
+. . . . . . . . . .
+
+   (2) Former Fire Department Rule 3 RCNY § 23-10
+
+      § 23-10 Design, Construction and Erection of Central Oxygen and Nitrous Oxide Piping Systems in Hospitals.
+
+      (a) Scope. This section applies only to installations made prior to the Department of Buildings taking jurisdiction on December 6, 1968 over these type installations as specified in Section P114.12 of Reference Standard 16.
+
+      (b) General.
+
+         (1) Piping systems herein described must not be used for the distribution of combustible anesthetic gases.
+
+         (2) Where oxygen or nitrous oxide piping is exposed, it shall be painted green for oxygen service and blue for nitrous oxide service.
+
+         (3) All current rules published by the National Fire Protection Association under chapter "Recommended Safe Practices for Hospital Operating Rooms", and rules adopted by the Compressed Gas Association, Inc., shall be observed insofar as applicable for the construction and use of central piping systems. In addition to these rules, the following guide specifications shall be observed:
+
+      (c) Manifold room.
+
+         (1) All electrical lights, switches, relays, and other electrical equipment shall be of vapor proof design if such equipment is located in the manifold room.
+
+         (2) Manifold room shall have fireproof door without louvres. Provide lettering on outside of door leading to manifold room. Letters are to be not less than 2 inches high, reading "Oxygen Room-No Smoking".
+
+         (3) Provide exhaust system for ventilating manifold room. If natural outside ventilation is not provided, provide adequate mechanical exhaust system. Control for mechanical exhaust system shall be outside of manifold room.
+
+. . . . . . . . . .
+
+      (d) Manifold header.
+
+         (1) Manifold shall be of substantial design. Manifold and header controls shall be securely bolted to wall or floor by means of substantial supports.
+
+         (2) Manifold header shall be constructed of bronze or brass. High pressure headers, fitting and connecting coils shall be capable of withstanding a test pressure of not less than 4,000 pounds per square inch.
+
+         (3) Leads of connections attaching cylinders to manifold shall be of annealed brass, bronze or copper and of suitable strength and flexibility. Check valve to be provided in each lead to prevent backflow.
+
+         (4) Approved type pressure reducing valves shall be installed in manifold assembly to maintain a delivery pressure of not more than 50 pounds per square inch in the distribution system. Pressure gauges marked "Oxygen" or "Nitrous Oxide" respectively shall be provided in conspicuous location in order to permit observation of delivery pressure.
+
+         (5) A built-in pressure relief valve shall be provided on the reduced side of the manifold header. Relief valve shall be set at not over 100 pounds per square inch. Discharge of relief valve shall be piped to outside air.
+
+         (6) Means shall be provided to prevent the connection of nitrous oxide cylinders to an oxygen manifold and vice versa.
+
+. . . . . . . . . .
+
+      (e) Distribution system.
+
+         (1) Oxygen or nitrous oxide distribution piping shall be standard full weight iron pipe size, brass or copper pipe with substantial brass or copper fittings or copper tubing type K or B with approved fittings and shall be made clean before installation and protected against mechanical injury. Proper allowance shall be made for expansion and contraction, jarring and vibration. Brass used for piping shall have a copper content of not less than 83 percent.
+
+. . . . . . . . . .
+
+         (3) Threads shall be in accordance with American type pipe thread standards. Threaded joints shall be screwed and soldered or screwed with litharge and glyserine. Threadless type joints shall be brazed with high temperature brazing alloy.
+
+         (4) Provide shut-off valve for each individual vertical riser. Shut-off valve shall be located in a conspicuous location. Shut-off valve shall be mounted in a wall box. Cover of box shall be marked, "Riser shut-off valve oxygen service do not dose except in emergency." Cover of box shall have locking means with key for opening box in separate receptacle, mounted next to the shut-off box.
+
+         (5) Pipe shafts for vertical risers shall be vented at the top except such shafts which are not open between floors and in which piping is carried through sleeves packed with oil free incombustible material at the floor levels.
+
+         (6) Horizontal distributing branches taken off main risers on each floor shall be provided with a shut-off valve or shut-off valves so that oxygen service for an entire floor or section of a floor may be shut off without affecting service on other floors. Such shut-off valve shall be provided in each branch line for every twelve outlets or for every hundred feet of branch line, passageway between furthermost outlet and shut-off valve to be unobstructed.
+
+         (7) Floor shut-off valves shall be located in conspicuous manner and in easy reach, properly marked, either recessed or exposed, or
+
+         (8) The following may be substituted as conforming with paragraphs (4) and (7) of subdivision (e) above: A valve box fitted with an emergency replaceable polystyrene window with a pull ring assembly, which can be snapped out in an emergency. This door window shall be lettered "Caution-Oxygen or Nitrous Oxide Valve. Close only in emergency-Pull ring to break window."
+
+      (f) Outlet valves and outlet boxes.
+
+         (1) For operating rooms and anesthesia rooms.
+
+            (i) For each operating or anesthesia room provide a separate shut-off valve so that shutting off gas supply to one operating or anesthesia room will not affect the supply to others. Valves shall be located on the outside of such rooms and be accessible at all times for use in emergency. Valves shall be mounted in recessed boxes or in such manner that they are protected against mechanical injury. Valves shall be of acceptable type and marked to prohibit tampering or inadvertent closing.
+
+            (ii) Where oxygen is piped in combination with other anesthetic gases, individual wall outlets shall be fitted with safety keyed outlet valves so as to prohibit the accidental connection of an oxygen line to a nitrous oxide line and vice versa. Safety keyed outlet valves shall be automatically closed when safety key on the take-off line is disconnected from the outlet valve.
+
+            (iii) Where oxygen only is piped to operating or anesthesia rooms, not combined with other anesthetic gases, an approved type oxygen wall outlet valve with dust cap and chain is acceptable.
+
+         (2) Wall outlets in patient and treatment rooms.
+
+            (i) An approved type oxygen and shut-off valve with dust cap and chain, or an automatic safety keyed outlet valve, or a combination of both shall be provided exposed or in a flush mounted recessed wall box so that various accessories may be connected to such outlet valves.
+
+. . . . . . . . . .
+
+      (g) Alarm systems. A closed circuit electrical operating alarm system shall be provided that will give a visible and audible signal when the pressure in the system varies eight pounds above or below the normal line pressure of 50 pounds. All equipment shall be approved by the Board of Standards and Appeals of the City of New York. All wiring shall be installed standard weight rigid iron conduit, and conductors shall be not less than #14 gauge copper wire. Alarm indicating panel shall be located in a strategic location in the hospital where it is under observation at all times. The system shall be connected to the house side of the owner's lighting meter through an approved 3-wire National Electric Code (N.E.C.) cartridge fuse cut-out having a removable strap or neutral bar. This cut-out cabinet shall be painted red, provided with a lock and stenciled "OXYGEN ALARM".
+
+. . . . . . . . . .
+
+(e) Anhydrous Ammonia.
+
+   (1) Former Fire Department Rule 3 RCNY § 23-06
+
+      § 23-06 Storage and Use of Ammonia with Dissociating Equipment.
+
+      (a) Location. Location, of a tank, is to be approved by the Department of Buildings after a site inspection by a representative of the fire department.
+
+      (b) Storage.
+
+         (1) Storage of ammonia in cylinders shall be in an area of masonry which has been approved by the Department of Buildings. This area shall be independently vented to the outer air.
+
+         (2) Storage of ammonia in tanks.
+
+            (i) Tanks may be located above ground outside of buildings.
+
+            (ii) Such tanks shall be provided with: Protection against the sun's rays; electrical groundings; protection against damage by a barrier satisfactory to the fire commissioner; a water deluge system over the tank; a remote control for such deluge system; a vandal-proof fence which will surround the tank.
+
+         (3) Tanks located inside the buildings shall be equipped with both manual and automatic deluge systems.
+
+      (c) Piping and valves.
+
+         (1) All piping shall be extra heavy black steel properly supported and protected against mechanical injury and atmospheric corrosion and all fittings and valves forged or cast steel (not galvanized).
+
+. . . . . . . . . .
+
+         (3) Provide dual relief valves from NH3 storage tank so that either relief valve may be removed for servicing without impairing protection of tank.
+
+         (4) All relief valves shall discharge in vent line piped at least 10' above roof of building and above any exposure within 25'. Such vents shall be equipped with rain caps.
+
+      (d) Ammonia dissociators.
+
+         (1) All dissociators or ovens used with dissociated ammonia, hydrogen or hydrogen-nitrogen mixtures shall be approved for such use by the Board of Standards and Appeals.
+
+         (2) All dissociator rooms shall be fireproof or fire resistive, sprinklered, and have independent fixed ventilation which shall conform with § 27-4131 of the Administrative Code.
+
+. . . . . . . . . .
+
+         (4) Each oven or dissociator shall be vented to the outer air by rigid steel piping or a sheet metal duct with all joints tight.
+
+      (e) General requirements.
+
+         (1) Ammonia storage tanks shall meet the specifications of the American Society of Mechanical Engineers, or be approved by the Board of Standards and Appeals for such purposes.
+
+. . . . . . . . . .
+
+         (3) Ammonia storage tanks shall not exceed 1,000 gallons in capacity.
+
+         (4) Tanks shall not be filled to more than 54% waterweight of capacity (approximately 85% by volume).
+
+         (5) Liquid outlets from tanks shall be protected with excess flow valves.
+
+. . . . . . . . . .
+
+         (7) Instruction cards or operating charts shall be posted at or near the storage tanks, dissociators and ovens.
+
+. . . . . . . . . .
+
+         (9) No mercury manometers or mercury seals shall be used at any time.
+
+         (10) All premises wherein ammonia in bulk is stored or used shall have at least twelve (12) sulphur tapers ready for use in event of a leak.
+
+   (2) Former Fire Department Rule 3 RCNY § 23-07
+
+      § 23-07 Storage and Use of Anhydrous Ammonia for Duplicating Machines.
+
+      (a) Scope. This section shall be applicable whether or not a permit is required under Chapter 4 of Title 27 of the Administrative Code. In cases of a conflict of this section with the requirements of the Board of Standards and Appeals, the latter shall prevail.
+
+      (b) Appliance shall be approved by New York City Board of Standards and Appeals and bear a permanently affixed label indicating such approval and its calendar number. Installation shall comply with the requirements of that resolution.
+
+      (c) Only one cylinder of anhydrous ammonia, not exceeding 150 lbs. capacity shall be used, except that each machine may have one reserve cylinder in the use area when properly manifolded to a pressure relief valve in accordance with § 23-07(d) and the supply valve is in the open position. All cylinders shall be secured by chain or other suitable means to prevent accidental toppling. Machines using a cylinder of 8 lbs. net weight or less of anhydrous ammonia, in addition to the permitted manifolded reserve, may have an additional 8 lbs. reserve supply, without manifold, in the use area in a metal cabinet marked in accordance with § 23-07(i).
+
+      (d) Relief valves shall be provided for anhydrous ammonia machines and such valves shall be set at not over 250 p.s.i. Relief valves shall be piped to a safe location in outer air by not less than 1/2 inch pipe. Piping to the outer air is not required for machines using a cylinder of eight pounds net weight or less if its relief valve is piped into an absorber.
+
+      (e) An excess flow valve shall be installed in the lines at or near the cylinder outlet; however, an excess flow valve is not required where a fitting is used with an orifice diameter, of a #60 drill size or less, properly installed.
+
+      (f) Systems using anhydrous ammonia cylinders, any of which exceed 8 lbs., shall be exhausted directly to a safe location in outer air through a duct of 4" minimum diameter. Air flow is to be insured by a mechanical blower with a minimum capacity of 175 cubic feet per minute incorporated into the machine. The provision of ventilation shall comply with Chapter 1 of Title 27 of the Administrative Code.
+
+      (g) (1)  In addition to those permitted in § 23-07(c), reserve anhydrous ammonia cylinders stored shall not exceed a total of 300 lbs. net weight of anhydrous ammonia for use by any single occupant. Such storage shall be outdoors – protected from sun and all mechanical injury when such outside storage is permitted by the Zoning Resolution and is approved by the Department of Buildings or Department of [Ports and Trade] Small Business Services – or indoors in a separate room with ventilation to the outer air through a duct of 4" minimum diameter with inlet near ceiling. Plans for reserve storage rooms are to be approved by Department of Buildings or Department of [Ports and Trade] Small Business Services before construction is commenced, with a copy of approved plans to be filed with the Bureau of Fire Prevention. The door to the reserve storage room is to be self-closing and vapor tight if such doors lead to the interior of the building.
+
+         (2) The reserve storage room shall be equipped with open sprinkler heads which are placed in operation by a properly labelled valve located outside the storage room. The sprinkler line may be connected to house water supply in non-sprinkler buildings if lines are of adequate size according to the Administrative (Building) Code.
+
+. . . . . . . . . .
+
+      (i) Warning signs shall be posted to be visible when entering rooms where anhydrous ammonia is used or stored. Such signs shall be visible whether doors are open or closed in accordance with the following format:
+
+ 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 
+    * - NOTICE
+    * - 
+    * - THIS AREA CONTAINS ANHYDROUS AMMONIA
+    * - 
+    * - IN CASE OF AN AMMONIA LEAK OR IF 
+    * - 
+    * - A VERY STRONG AMMONIA ODOR IS PRESENT 
+    * - 
+    * - 1. CALL THE FIRE DEPT. (PHONE # ________________)
+    * - 
+    * - 2. A NON-COIN PHONE MAY BE FOUND AT ________________
+    * - 
+    * - 3. NOTIFY ALL PERSONNEL TO EVACUATE THE AREA
+    * - 
+    * - 4. SHUT OFF ALL OPEN FLAMES
+    * - 
+    * - 5. DO NOT SHUT OFF THE DUPLICATING MACHINE SINCE THAT WOULD SHUT OFF THE BLOWER PROVIDING HELPFUL AIR EXHAUST
+    * - 
+    * - 6. CLOSE ALL DOORS TO ADJOINING AREA
+~
+
+ 
+
+. . . . . . . . . .
+
+      (k) All open flames shall be shut off in the event of an anhydrous ammonia leak.
+
+      (l) Twelve sulphur tapers, litmus paper or unexposed Diazo sensitized paper shall be provided readily accessible and located in the vicinity of the machine and reserve storage room. Such materials shall be in suitable condition to detect ammonia leaks.
+
+      (m) A permanent chart listing safety precautions for handling anhydrous ammonia shall be posted at storage facility and where machine is used.
+
+      (n) The emergency number for the fire department shall be posted in a conspicuous and permanent manner.
+
+      (o) All relief devices, except as provided in § 23-07(d) shall be piped directly to the outer air. Such piping shall be adequately secured and protected from physical damage. There shall be no shut-off valves in this piping.
+
+      (p) Detailed instructions for the operation of the anhydrous ammonia system shall be posted in a conspicuous and permanent manner.
+
+      (q) The anhydrous ammonia cylinder shall be connected to the duplicating machines with high pressure stainless steel flexible connector rated at 4500 p.s.i. bursting pressure and/or with synthetic rubber hose with braid reinforcement with bursting pressure rating of 1750 p.s.i. and/or with equivalent rigid iron or steel pipe.
+
+      (r) All appurtenances such as flow meters, pressure regulators and pressure gauges shall be suitable for pressure involved and constructed of material suitable for use with anhydrous ammonia.
+
+
+
+
+
+
+*§ 4831-01 Storage of Corrosive Materials in Pre-Existing Facilities.* ::
+
+
+(a) Scope. This section consolidates the New York City Fire Prevention Code and former Fire Department rules in effect on June 30, 2008, that are applicable to the design and installation of corrosive material storage in pre-existing facilities.
+
+(b) Definitions. [Reserved.]
+
+(c) General Provisions. Pre-existing facilities with corrosive material storage the design and installation of which would not be allowed or approved under the Fire Code, but which, pursuant to FC102.3 and R102-01, may be continued with respect to such corrosive material storage under the applicable laws, rules and regulations in effect prior to the Fire Code, shall continue to comply with the provisions of such laws, rules and regulations, including former Fire Department rule 3 RCNY § 1-01, until such time as such facilities may be required to comply with the Fire Code and the rules with respect to their design and installation.
+
+(d) Acids.
+
+   (1) Former Fire Department Rule 3 RCNY § 1-01.
+
+      § 1-01 Tanks Used for Bulk Storage of Acids.
+
+. . . . . . . . . .
+
+      (b) Storage tanks.
+
+. . . . . . . . . .
+
+         (2) All new or relocated acid storage tanks shall be provided with acid proof dikes capable of holding the full contents of the tank or tanks within the dike in the event of leakage or rupture of the tanks or associated piping.
+
+         (3) New or relocated acid storage tanks shall not be permitted in the basement, cellar or sub-cellar of any structure.
+
+         (4) New, relocated or altered acid storage tanks shall be provided with excess flow valves for all bottom take-offs except where all bottom take-off piping terminates within the containing dike.
+
+         (5) All new and existing acid storage tanks shall be provided with adequate vents, not less than 11/4 inches for tanks up to 1,100 gallons, and not less than 2 inches for tanks of 1,100 gallons or more.
+
+
+
+
+
+
+*§ 4832-01 Storage of Cryogenic Fluids in Pre-Existing Facilities.* ::
+
+
+(a) Scope. This section consolidates the Fire Prevention Code and former Fire Department rules in effect on June 30, 2008, that are applicable to the design and installation of cryogenic fluid installations in pre-existing facilities.
+
+(b) Definitions. [Reserved.]
+
+(c) General Provisions. Pre-existing facilities with cryogenic fluid installations the design and installation of which would not be allowed or approved under the Fire Code, but which, pursuant to FC102.3 and R102-01, may be continued with respect to such cryogenic fluid installations under the applicable laws, rules and regulations in effect prior to the Fire Code, shall continue to comply with the provisions of such laws, rules and regulations, including former Fire Department rule 3 RCNY 23-03, until such time as such facilities may be required to comply with the Fire Code and rules with respect to such cryogenic fluid installations.
+
+(d) Liquefied Natural Gas.
+
+   (1) Former Fire Department Rule 3 RCNY § 23-03
+
+      § 23-03 Manufacture, Storage, Transportation, Delivery and Processing of Liquefied Natural Gas.
+
+      (a) Scope. This section has been developed for New York City because of the congested air patterns, high population density and numerous underground subways, tunnels, sewers and other conduits indigenous to this locality. This section shall apply to all liquefied natural gas installations both constructed and operated after the date of promulgation and to the safety of operation, to alterations or redesign of existing facilities not covered by existing criteria. This section shall be applicable also to the waterborne transportation and delivery of LNG as it relates to land based facilities. In all matters not specifically provided for herein, the Regulations of the Department of Transportation and the Public Service Commission of the State of New York, and NFPA STD 59A, 1975 shall apply.
+
+      (b) Definitions.
+
+         Agency Having Jurisdiction. Agency having jurisdiction means the local authority having responsibility as prescribed in the Charter and Administrative Code of the City of New York, e.g., Fire Department, Department of Buildings, Department of [Ports and Trade] Small Business Services.
+
+         Approved. Approved means sanctioned by the agency having jurisdiction for use or operation, after inspection, test or acceptance of data supporting the safety and/or effectiveness of the design, equipment or process.
+
+         Barge (LNG). Barge is a vessel, with or without its own propulsion system, inspected and approved by the U.S. Coast Guard for transportation and delivery of LNG on waterways within the Port of New York.
+
+         Barrel. Barrel is a unit of volume equal to 42 U.S. gallons.
+
+         Berm. Berm is a concrete or compacted earth structure constructed directly against or closely surrounding the container to a height 10 per cent in excess of the design liquid level to serve as the primary impounding area.
+
+         Deriming (defrosting or deicing). Deriming (defrosting or deicing) means the removal by heat and evaporation, sublimation, or solution of accumulated constituents which form solids, e.g., water and CO2 from the low temperature process equipment.
+
+         Design Pressure. Design pressure is the pressure used in the design of equipment, container or vessel for the purpose of determining the minimum permissible thickness of physical characteristics of its different parts. When applicable static heads shall be included in the design pressure to determine the thickness of any specific part.
+
+         Dike. Dike is compacted earth, a concrete, or other non-combustible structure used to establish an impounding area suitable for containing the fluids involved.
+
+         Fail Safe. Fail safe is the design feature which provides for safe condition in the event of malfunction of control devices, detection of fire or gas leak or interruption of any energy source.
+
+         Impounding area. Impounding area is an area which limits by dikes, berms or natural topography, the containment of spilled LNG, flammable refrigerants or other low flash liquids.
+
+         Incombustible or Non-combustible. Incombustible or non-combustible means a material which, in the form in which it is used in construction, will not ignite and burn when subjected to fire. However, any material which liberates flammable gas when heated to any temperature up to 1380 degrees Fahrenheit for five minutes shall not be considered non-combustible. No material shall be considered non-combustible which is subject to increase in combustibility beyond the limits established above, through the effects of age, fabrication or erection techniques, moisture, or other interior or exterior atmospheric conditions.
+
+         Installations. Installations includes tanks, liquefication and vaporization facilities, processing equipment, piping and associated loading and unloading facilities, and all fire protection.
+
+         Liquefied Natural Gas (LNG). Liquefied natural gas means a gas in the liquid state composed predominately of methane and which may contain minor quantities of ethane, propane, nitrogen or other components common to natural gas.
+
+         Maximum Allowable Working Pressure. Maximum allowable working pressure means the maximum gage pressure permissible at the bottom of completed equipment, container or vessel in its operating position for a design temperature.
+
+         psia. PSIA is pounds per square inch absolute.
+
+         psig. PSIG is pounds per square gage.
+
+         Primary Components. Primary components, in general, include those whose failure would permit leakage of the liquid being stored, those exposed to a temperature between -60°F and -270°F, and those subject to thermal shock. The primary components shall include, but will not be limited to, the following parts of a double-wall tank; shell plates, bottom plates, knuckle plates, compression rings, shell stiffeners, manways, and nozzles including reinforcement shell anchors, pipe, tubing, forgings, and boltings on both inner and outer tank and the roof plates of the inner tank. All LNG liquid and vapor piping and fittings shall be considered primary components.
+
+         Process Equipment. Process equipment means all systems required to condition, liquefy, or vaporize natural gas in all areas of application referred to in these regulations.
+
+         Risk Analysis. Risk analysis means a methodology of assessment of an identified hazard utilizing a systematic evaluation of failure modes, probabilities and consequences resulting in quantitative data supporting recommendations for corrective action.
+
+         Secondary Components. Secondary components, in general, include those which will normally not be in contact with the refrigerated liquid being stored, those exposed to product vapors and having a design metal temperature of -60°F or higher.
+
+         Service Building. Service building is a building used for office, maintenance, shops, electrical distribution, garage or storage.
+
+         Tanker (LNG). Tanker means an ocean-going vessel, inspected and approved by the U.S. Coast Guard for the transportation and delivery of LNG.
+
+         Tanks.
+
+         (i) LNG storage vessels. LNG vessels or containers of more than 2,500 gallons capacity operating at not more than 2.5 PSIG.
+
+         (ii) Process, satellite, or similar tanks. LNG vessels or containers with a capacity of 2,500 gallons or less.
+
+      (c) Plant site. 
+
+         (1) Minimum clearances. Minimum clearances shall be maintained between LNG containers, flammable refrigerant storage tanks, flammable liquid storage tanks, building, structures and plant equipment and plant property lines as prescribed in the chart of minimum distance requirements (Figure 1), unless otherwise provided in these regulations. Siting of tanks shall further be based on radiation and vapor dispersions studies made by competent authorities prior to approval of site plans in order to establish the minimum distance of the property line and to critical occupancies.
+
+Thermal radiation and vapor dispersion study. A thermal radiation and vapor dispersion study shall be submitted, prepared by recognized experts in thermodynamics, selected by the owner and acceptable to the Fire Department. The study should include vapor dispersion characteristics resulting from spills caused by total failure modes of the storage tanks, or equipment, or piping. The study should show equilibrium temperatures within a radius of 1,500' of the tank, at wind velocities of O0, 30, and 60 mph, at points where R = 1,500', 1,200' and 1,000', 800', 600', 500', 400', 300', 200' and 100' from flame surface (innertank wall) in events where an entire tank or group of tanks are involved in a fire. Attention shall also be given to the possibility of local overheating and fires in impounding areas.
+
+Table 1
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 
+      - LNG Container 
+      - Impounded Liquid 
+      - Process Equipment 6
+      - Vaporizers 
+      - Process Contr. Houses 
+      - Fire Pump House Fire Prot. Control 
+      - Marine Transfer Facilities 
+      - Critical Occupancy 
+      - Service Buildings 
+      - Property Line or Navigable Water 
+      - Boil-Off Compressors 
+      - Flare Stacks or Ignition Source 
+      - Sewers, Undergrd. Ducts, Drains 
+    * - LNG Container
+      - 2  250 
+      - 
+      - 5250 
+      - 5250 
+      - 500 
+      - 500 
+      - 5  250 
+      - 11000 
+      - 250 
+      - 2250 
+      - 100 
+      - 2250 
+      - 500 
+    * - Impounded Liq.
+      - 
+      - 
+      - 150 
+      - 150 
+      - 2250 
+      - 500 
+      -   250 
+      - 11000 
+      - 250 
+      - 2200 
+      - 
+      - 250 
+      -   50 
+    * - ProcessEquipment 6
+      - 5  250 
+      -   150 
+      - 
+      - 100 
+      - 3100 
+      - 200 
+      -   250 
+      -   250 
+      - 100 
+      - 100 
+      - 
+      - 100 
+      - 
+    * - Vaporizers
+      - 5  250 
+      -   150 
+      - 100 
+      - 
+      - 200 
+      - 200 
+      -   250 
+      -   250 
+      - 200 
+      - 100 
+      - 100 
+      - 100 
+      - 
+    * - Process Contr.Houses
+      -   500 
+      - 2  250 
+      - 3100 
+      - 200 
+      - 
+      - 
+      -   250 
+      -   150 
+      - 100 
+      - 
+      - 100 
+      - 250 
+      - 
+    * - Fire Pump HouseFire Prot. Contr.
+      -   500 
+      -   500 
+      - 200 
+      - 200 
+      - 
+      - 
+      -   200 
+      -   100 
+      - 100 
+      - 
+      - 100 
+      - 250 
+      - 
+    * - Marine Trans.Facilities
+      - 5  250 
+      -   250 
+      - 250 
+      - 250 
+      - 250 
+      - 200 
+      - 
+      - 1000 
+      - 4100 
+      - 100 
+      - 200 
+      - 250 
+      - 
+    * - CriticalOccupancy
+      - 11000 
+      - 11000 
+      - 250 
+      - 250 
+      - 150 
+      - 100 
+      - 1000 
+      - 
+      - 
+      - 
+      - 100 
+      - 250 
+      - 
+    * - ServiceBuildings
+      -   250 
+      -   250 
+      - 100 
+      - 200 
+      - 100 
+      - 100 
+      - 4  100 
+      - 
+      - 
+      - 
+      - 100 
+      - 100 
+      - 
+    * - Property Line orNavigable Water
+      - 2  250 
+      - 2  200 
+      - 100 
+      - 100 
+      - 
+      - 
+      -   100 
+      - 
+      - 
+      - 
+      - 100 
+      - 100 
+      - 
+    * - Boil-OffCompressor
+      -   100 
+      - 
+      - 
+      - 100 
+      - 100 
+      - 100 
+      -   200 
+      -   100 
+      - 100 
+      - 100 
+      - 
+      - 100 
+      - 
+    * - Flare Stacks orIgnition Source
+      - 2  250 
+      -   250 
+      - 100 
+      - 100 
+      - 250 
+      - 250 
+      -   250 
+      -   250 
+      - 100 
+      - 100 
+      - 100 
+      - 
+      - 
+    * - Sewers, Undergrd.Ducts, Drains
+      -   500 
+      -   50 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+~
+
+ 
+
+Figure 1.
+
+Notes:
+
+            1. Hospitals, schools, places of assembly, bridges, tunnels, etc.
+
+            2. Or one and a quarter tank diameters, whichever is greater, except that tanks of not more than 2500 gallons shall be spaced according to the diameter criteria, but not less than 100 feet.
+
+            3. Except where a four-hour unpierced wall separates the control room from flammable liquid handling and explosion venting is provided.
+
+            4. For vessels up to 30,000 bbls. cap. Increase to 200 feet for vessels up to 50,000 bbls. and increase to 300 feet for vessels in excess of 50,000 bbls.
+
+            5. Or one tank diameter, which ever is greater.
+
+            6. Includes cold box.
+
+         (2) Site plans.
+
+            (i) Proposed site plan. A proposed site plan shall be filed with the Fire Department indicating all major characteristics of the site, showing plant buildings, tanks, containers, dikes, process areas, transfer areas, major LNG piping, lot lines, shore lines, and exposures within 1,500' of lot lines. Such aerial photos as the Fire Department may require shall be included. Site plans shall include underground channels, such as conduits, pipelines, drainage ditches, and similar channels.
+
+            (ii) Soil selection. LNG tanks, cold boxes, piping and supports, and other cryogenic equipment shall be properly sited, designed and constructed so that no damage from freezing or heaving of the soil will develop. The soil shall be selected, prepared, and protected in accordance with the requirements of the agency having jurisdiction. (Department of [;Ports and Trade]; Small Business Services or Department of Buildings.)
+
+            (iii) Protection of site. Plant sites shall be protected from the forces of nature as flooding by rains, high tides, or soil erosion by grading, draining and dikes. Grass, weeds, trees, or undergrowth shall be cleared within 25 feet of any piping, container, or process equipment.
+
+         (3) Facility description. A complete description of the facility shall be filed with the site plan, indicating LNG tanks and sizes, method of liquefaction and vaporization, other methods of acquiring LNG, and fire extinguishing systems. Also included shall be a detailed analysis of the typical product to be stored.
+
+         (4) Roads. At least two all-weather roads shall be provided at least 20 feet in width providing access to all areas of the facility. The roads shall be designed in accordance with the specifications of the American Association of State Highway Officials for a uniformly distributed load of 600 pounds per square foot or for the maximum vehicular wheel load that could be imposed thereon, whichever develops the greater stresses. Such design shall take into consideration the weight, height, and turning radius of the heaviest vehicles of the fire department which may have occasion to use the roads. Current specifications of such vehicles shall be obtained from the fire department. Equipment shall be provided to maintain the roads free of snow and ice accumulations and shall at all times be maintained in serviceable condition. Entry gates at least as wide as the road shall be located remote from each other to provide alternate means of access to the plant.
+
+         (5) Fences. A protective fence of incombustible material shall be erected at the property line, at least eight feet in height, having locked gates openable only to authorized persons on proper identification.
+
+      (d) Tank site – design, general. 
+
+         (1) Berm height. The maximum height from the ground level to the top of the berm shall be 60 feet and the minimum ratio of the diameter of the container to maximum liquid level shall be 3:1 (See Figure 2).
+
+         (2) Tanks over 2,500 gallons. LNG stored in tanks over 2,500 gallons shall be protected from spillage by quadruple containment, i.e., a primary cryogenic container, a secondary cryogenic container, a concrete or earth berm which shall serve both as a tertiary container and primary impounding area, and lastly an outer dike or impounding area which shall constitute the secondary impounding area.
+
+            (i) Tanks over 2,500 to 100,000 gallons. Tanks over 2,500 gallon capacity to 100,000 gallons shall be enclosed in a berm of compacted earth suitably protected against soil erosion or a reinforced concrete berm. The outer shell shall be adequately protected against corrosion.
+
+            (ii) Tanks over 100,000 gallons. Tanks over 100,000 gallon capacity shall be enclosed in reinforced concrete berm designed to withstand (without damage to the primary container) the impact of the heaviest aircraft which can operate to or from any airport within a radius of ten miles at a speed of 200 knots. The effectiveness of the berm in providing such protection shall be proven by a finite element analysis or block analysis or other acceptable method.
+
+      (e) Impounding areas, berms, dikes. Every LNG container shall be located within both primary and secondary impounding areas or dikes, except that tanks with capacity of not over 2,500 gallons need only a primary impounding area or dike.
+
+         (1) Impounding areas.
+
+            (i) Impounding area. The impounding area formed by dikes or natural topography shall slope away from the tank to a basin provided for minor spills and shall further slope away from waterways or property lines. Cryogenically suitable approved pumps manually controlled and piping on incombustible and cryogenically suitable supports shall be used to return such spills to a tank where possible.
+
+            (ii) Impounding area construction. Impounding areas shall not contain underground channels, drains, conduits, or sewers. If disposal of storm water is required, it shall be pumped over the dikes by means of fixed piping and manually controlled.
+
+         (2) Impounding areas formed by dikes or natural topography.
+
+            (i) Capacity. The minimum capacity of the area shall be 150 percent of the maximum liquid capacity of the container. LNG piping and processing equipment for which the area is provided; except that 250 percent or greater capacity shall be required where foaming, vigorous boiling or other expansion phenomena may be encountered.
+
+            (ii) Container restrictions. Not more than one container shall be installed in a single dike and the maximum ratio of highest liquid level in the container to the height of the dike at the required capacity level shall be 2:1 (See Figure 2).
+
+         (3) Siting of primary impounding areas for containers 2,500 gallons or less (not bermed). Provision shall be made to prevent a radiation flux from a fire over the primary impounding area from exceeding 1500 BTU/HR/Ft2 at ground level at a property line which can be built upon, when ambient atmospheric conditions are zero wind speed, 70 degrees Fahrenheit temperature and 50 percent relative humidity. Such radiation flux of 1500 BTU/HR/Ft2 is about the level at which protection for humans should be provided. This provision may be complied with, if siting shall be in accordance with Figure 1 or with the formula: d1 = two times the square root of A (whichever is greater) where d1 is the distance in feet from the nearest edge of impounded liquid in the primary impounding area to process equipment, vaporizers, service buildings, process and fire control houses, transfer facilities, ignition sources or to the property line which may be built upon or to a navigable waterway, (but the minimum distance to the near edge of such waterway or property line shall be 200 feet) and A = surface areas of impounded liquid.
+
+
+
+
+.. image:: http://library.amlegal.com/nxt/gateway.dll?f=id$id=rules0-0-0-134-img$3.0$p=
+
+ 
+
+Figure 2. Ratio of dike height to liquid level. 
+
+         (4) Siting of primary impounding areas for containers over 2,500 gallons (bermed). In the case of bermed tanks, provision shall also be made to prevent a radiation flux from a fire over the primary impounding area from exceeding 1500 BTU/HR/Ft2 at ground level at a property line, which can be built upon, when ambient atmospheric conditions are zero wind speed, 70 degrees Fahrenheit temperature, and 50 percent relative humidity. This provision may be complied with if siting shall be in accordance with Figure 1 or the following formula: d2 = one and one-quarter times the square root of A (whichever is greater). A = the cross-sectional area of the inner diameter of the berm, d2 = distance in feet from the nearest edge of liquid in the impounding area to process equipment, service buildings, vaporizers, ignition sources, process and fire control houses and to other LNG containers or to a transfer facility. Notwithstanding the foregoing, the edge of any impounded LNG shall not be closer than 1,000 feet to any critical occupancy such as a school, hospital, place of assembly, bridge, or tunnel.
+
+         (5) Berms. Berms of reinforced concrete shall be at least ten feet thick, liquid tight, and strong enough to meet the requirement of § 23-03(e)(4). Berms of compacted earth shall be at least ten feet wide at the top and have a slope of 1:1 1/2. Two steel or concrete access stairways from the base to the top of the berm shall be erected diametrically opposite each other.
+
+         (6) Dikes.
+
+            (i) Dikes shall be constructed of compacted earth or concrete capable of withstanding thermal shock through a temperature range of -260 degrees Fahrenheit to 1800 degrees Fahrenheit and capable of withstanding full hydraulic head and hydraulic surge.
+
+            (ii) Dikes shall be liquid tight without openings for pipes. Access roads and ramps for construction, maintenance, and fire protection vehicles are required to pass over the top of the dikes.
+
+            (iii) Secondary impounding areas shall be provided for each tank over 2500 gallon capacity.
+
+         (7) Surrounding areas.
+
+            (i) No sewers, underground ducts, or drains will be permitted within 500 feet of the LNG storage tank, or 50 feet of any impounding area.
+
+            (ii) Drainage shall be accomplished by grading, normal evaporation, or by non-automatic means to a safe location. Where impounding areas are to be drained, all drainage piping shall pass over the top of the dike.
+
+            (iii) The following areas shall be graded and drained in a manner that will minimize the possibility of endangering personnel, structures, or equipment, or adjoining property through accidental spills or leaks.
+
+               (A) Process areas.
+
+               (B) Vaporization areas.
+
+               (C) In-plant LNG, flammable liquid, and flammable refrigerant transfer areas.
+
+               (D) Areas surrounding flammable refrigerant and flammable liquid storage tanks.
+
+      (f) Spacing of equipment and structures. Minimum clearances shall be maintained for equipment and structures as noted in this subdivision (f). All equipment and structures referred to in this subdivision (f) shall conform to the minimum clearances as presented in Figure 1.
+
+         (1) Vaporizers.
+
+            (i) Vaporizers shall be located at least 100 feet from process equipment, boil-off compressors, flare stacks, property lines or navigable waters, flammable storage of 2,500 gallons or less, and loading or unloading connections other than marine transfer facilities; at least 150 feet from any impounding area; at least 200 feet from service buildings, process control houses or fire protection control facilities; and at least 250 feet from marine transfer facilities, critical occupancy or flammable storage over 2,500 gallons.
+
+            (ii) Vaporizers and their primary heat sources shall be located at least 100 feet from any source of ignition.
+
+            (iii) No vaporizer shall be located in an enclosed structure or building, unless such enclosure is satisfactorily ventilated and provided with combustible gas detection, alarm and shut down as per § 23-03(g)(2)(ii) is in conformance with §§ 23-03(g)(1)(i) and 23-03(g)(1)(ii) for construction and explosion venting, is provided with an explosion suppression system conforming with NFPA-69 of 1973 and applicable resolution of the Board of Standards and Appeals, and with all electrical equipment and lighting conforming with the New York City Electrical Code for operation in hazardous atmospheres; supplementary heating of the enclosure shall be only by means suitable for hazardous atmospheres.
+
+         (2) Multiple vaporizers.
+
+            (i) Clearance in multiple heated vaporizer installations shall be as recommended by the manufacturer, but not less than five feet.
+
+            (ii) In multiple vaporizer installations, an adjacent vaporizer or primary heat source shall not be considered to be a source of ignition.
+
+            (iii) Process heaters or other units of fired equipment are not considered to be sources of ignition with respect to vaporizer siting provided they are interlocked so they cannot operate when a vaporizer is operating or when the piping system serving the vaporizer is either cooled down or in the process of cooling down.
+
+         (3) Process equipment. Process equipment containing LNG, refrigerants, flammable liquids or gases shall be located at least 100 feet from sources of ignition, property line which may be built on, control rooms, offices, shops, or other occupied structures; at least 200 feet from fire protection control center; and at least 250 feet from marine transfer facilities or critical occupancy buildings, except that control rooms may be located in a building housing flammable gas compressors if construction complies with § 23-03(g)(2).
+
+         (4) Fired equipment and sources of ignition. Fire equipment (other than vaporizers) or other sources of ignition shall be located at least 250 feet from any impounding area, container, transfer facility, fire pump house and control, process control house, or critical occupancy; and at least 100 feet from process equipment, vaporizers, service buildings, property line which may be built on, and boil-off compressors, except as provided in § 23-03(f)(2)(iii).
+
+         (5) Loading and unloading facility.
+
+            (i) A pier or dock for pipeline transfer of LNG shall be located so that any tanker or barge moored thereto for loading, unloading, or containing gas shall be located at least 1000 feet from any bridge over a navigable waterway or critical occupancy; at least 250 feet from LNG storage containers, impounding areas, process equipment, process control houses, vaporizers, flare stacks or ignition sources; at least 200 feet from fire pump houses, fire protection control facilities or boil-off compressors; and at least 100 feet from service buildings, property line, or any structure intended for human occupancy for vessels having a capacity up to 30,000 barrels of LNG; 200 feet for vessels having a capacity of 50,000 barrels except for plant structures essential to transfer operations.
+
+            (ii) LNG and flammable liquid loading and unloading connections other than marine shall be at least 250 feet from sources of ignition, except as provided in § 23-03(f)(1)(i) process areas, control buildings, and storage containers; and 200 feet from other occupied buildings. This does not apply to structures or equipment directly associated with the transfer operation.
+
+         (6) LNG storage containers. LNG storage containers shall be sited in accordance with Figure 1, except as may be modified under § 23-03(c)(1). LNG storage containers shall be located at least 1000 feet from any critical occupancy; at least 500 feet from process control houses, fire pump houses, fire protection control facilities and sewers, underground ducts or drains; at least 250 feet or one and one-quarter tank diameters, whichever is greater, from another LNG container, property line, navigable water, flare stack or ignition source; at least 250 feet or one tank diameter, whichever is greater, from process equipment, vaporizers or marine transfer facilities; and at least 250 feet from any service building.
+
+         (7) LNG impounding areas. LNG primary impounding areas shall be located in accordance with Figure 1 or distances derived from §§ 23-03(e)(3) or 23-03(e)(4), whichever is greater. All impounding areas shall be located at least 1000 feet from any critical occupancy; 500 feet from fire pump house or fire protection control facilities; 250 feet from any process control house, service building, marine transfer facility, flare stack or ignition source; 200 feet from any property line or navigable water; 150 feet from process equipment or vaporizer; and 50 feet from any sewers, underground ducts or drains.
+
+         (8) Boil-off compressors. Boil-off compressors shall be located at least 200 feet from marine transfer facilities and at least 100 feet from storage tanks, vaporizers, process control houses, fire pump house, service building, critical occupancy, property lines, or navigable waters, or to flare stacks or ignition sources.
+
+         (9) Process control houses. Process control houses shall be located at least 500 feet from LNG containers; 250 feet from any impounding area, marine transfer facility, flare stack or ignition source; 200 feet from any vaporizer; 150 feet from critical occupancy; and 100 feet from service buildings, boil-off compressors or process equipment.
+
+         (10) Fire protection. Fire pump house and fire protection control facilities shall be located at least 500 feet from LNG containers; 250 feet from any impounding area, marine transfer facility, flare stack or ignition source; 200 feet from any vaporizer; and 100 feet from critical occupancy or service buildings.
+
+      (g) Buildings and structures. 
+
+         (1) Construction.
+
+            (i) General. All buildings and structures shall be of non-combustible construction classified as Group I in the Administrative Code, § 27-274. Buildings or structural enclosures in which LNG, flammable refrigerants or flammable gases are handled, stored or used shall be of lightweight non-combustible construction Class I-E with non-load bearing walls, and explosion venting conforming to the requirements of NFPA STD 68-1974 and the Department of Buildings as specified in the Administrative Code, § 27-401.
+
+            (ii) Prohibited areas. All such buildings shall be built on grade without below grade areas.
+
+         (2) Rooms containing flammables or cryogenic fluids.
+
+            (i) General. If rooms containing cryogenic or flammable fluids are located within or attached to building in which such fluids are not handled, i.e., control rooms, shops, etc., there will be permitted one common wall which shall be Class I-A construction, or four-hour fire resistance rating without openings, and designed to withstand an explosive force of at least 100 psf. and shall be gas-tight.
+
+            (ii) Explosion protection. Such rooms shall be further protected against explosion by installation of the following equipment:
+
+               (A) Exhaust system. A continuously operation high and low level mechanical exhaust system capable of venting at the rate of at least 1 cfm of air per square foot of floor area. This shall be a dual rate system which will double its exhaust capability on detection of a flammable gas or vapor of 10 per cent Lower Explosive Limit (LEL), such detector shall then initiate the Emergency Shut Down (ESD) at 25 per cent LEL. The exhaust system shall extend to all areas, pits or floor depressions.
+
+               (B) Ventilators. A system of open ridge ventilators shall be provided.
+
+      (h) Process systems. 
+
+         (1) Process equipment locations. Processing equipment containing LNG, flammable refrigerants or gases shall be located outdoors, insofar as possible, to facilitate manual fire fighting, and dispersal of accidentally released liquids and gases. When necessary to locate such systems indoors, buildings shall comply with § 23-03(g).
+
+         (2) Pumps and compressors.
+
+            (i) Materials of construction. Pumps and compressors shall be constructed of materials suitable for the conditions of temperature, pressure, and use which they are expected to encounter and shall be approved and certified to the Fire Department as hereinafter provided.
+
+            (ii) Valves. Every pump and compressor shall be valved so that it can be isolated for maintenance. In addition, when installed in parallel, each discharge line shall have a check valve.
+
+            (iii) Pressure relief. Pump and compressors shall be provided with a pressure relieving device on the discharge to limit the pressure to the maximum safe working pressure of the casing and downstream equipment.
+
+            (iv) Vent and relief valves. Each pump shall be provided with an adequate vent and relief valve which will prevent over- pressuring the pump casing during the maximum possible rate of cooldown.
+
+            (v) Pump installation. Pumps used for transfer of liquids at temperatures below -20 degrees Fahrenheit shall be provided with suitable means of precooling to reduce the effect of thermal shock.
+
+            (vi) Foundation and sumps. The foundations and sumps for cryogenic pumps shall be of incombustible construction, designed and constructed to prevent frost heaving.
+
+         (3) Flammable refrigerant and liquid storage. Installation of storage tanks for flammable refrigerants and liquids shall comply with the requirements of Chapter 4 of Title 27 of the Administrative Code.
+
+         (4) Process equipment.
+
+            (i) Siting. Process equipment shall be sited in accordance with the distance requirements of § 23-03(f).
+
+            (ii) Boilers. Boilers shall be designed, fabricated, approved, and certified in accordance with the requirements of the Administrative (Building) Code.
+
+            (iii) Heat exchangers. Shell and tube heat exchangers shall be designed, fabricated, tested, inspected, approved, and certified by the manufacturer in accordance with the requirements of the Tubular Exchanger Mfrs. Assoc. (TEMA) 1968 edition. Certification certificates shall be filed with the Fire Department. The shells and internals of all exchangers shall be pressure tested, inspected, and stamped in accordance with Section VIII, Division 1, of the ASME Boiler and Pressure Vessel Code, 1971 edition, when such components fall within the jurisdiction of this code. A copy of the ASME certification of test and inspection shall be filed with the Fire Department.
+
+            (iv) Engine and turbines. Installation of internal combustion engines or gas turbines shall comply with the requirements of Chapter 1 of Title 27 of the Administrative Code and NFPA 37, 1970 (Installation and Use of Stationary Combustion Engines and Gas Turbines).
+
+            (v) Boiloff and flash gas systems.
+
+               (A) A boiloff and flash gas handling system separate from container relief valves shall be installed for the safe disposal of vapors generated in the process equipment and LNG containers.
+
+               (B) LNG containers shall have their boiloff and flash gases discharge safely to atmosphere or closed system, designed to prevent inbreathing of air.
+
+               (C) Provision may be made to introduce natural gas or nitrogen into the containers in the event a vacuum is experienced if the natural gas so introduced will not create a flammable mixture in the container.
+
+            (vi) Process equipment supports. Where the structural stability of process equipment is essential to plant safety, the supports for the equipment shall be protected against a two hour fire exposure or be protected against cold liquid or both, if they are subject to such exposures.
+
+         (5) Depressurizing equipment.
+
+            (i) Emergency depressurization. Provisions shall be made for depressurizing equipment containing gases and liquids in case of fire, failure of the equipment or similar emergency. Emergency controls for depressurization shall be readily accessible and suitably designated.
+
+            (ii) Gas and liquid disposal. Gases in the processing equipment shall be vented to the flare stack and LNG shall be relieved to a dump tank or holding reservoir, which shall be vented to the flare stack. The liquid dump tank or holding reservoir shall be of cryogenically suited material large enough to contain all LNG in the processing equipment. Construction shall be in accordance with Subchapter 17 of Chapter 4 of Title 27 of the Administrative Code. The tank or holding reservoir shall be protected against fire by being buried or enclosed in 4-hour rated material, unless it can be proven to the satisfaction of the Fire Department that the anticipated amount of LNG can be quickly vaporized and relieved to the flare stack, and no LNG will accumulate.
+
+            (iii) Compression equipment vents. Compression equipment handling flammable gases shall be provided with adequate vents piped to relieve to the flare line.
+
+         (6) Cold box construction. The cold box structure and equipment shall be constructed of incombustible material. Cold boxes shall be considered as flammable gas containers for the purpose of purging and shall be subject to the regulations relative thereto as contained in this regulation. If a flammable gas-air mixture is detected in the cold box, inert purge gas shall be introduced until a flammable mixture no longer exists.
+
+         (7) Air injection. Air shall not be injected or introduced by the owner into the plant inlet gas stream.
+
+         (8) Process report. A process report shall be filed with the Fire Department, for review; such report shall contain the following:
+
+            (i) Process information on incoming feed gas treatment, refrigeration, liquefaction, vaporization, deriming, and odorization.
+
+            (ii) Basis for approval of all equipment used with reference to the standards of construction, e.g., ASME, ANSI, Chapter 4 of Title 27 of the Administrative Code, and Chapter 1 of Title 27 of the Administrative Code.
+
+            (iii) All other items specified in § 23-03(u)(5)(ii).
+
+      (i) Stationary LNG containers, general.
+
+         (1) Primary container.
+
+            (i) Suitability for service. The primary container for LNG shall be cryogenically suited material. All materials in direct contact with LNG shall be physically, chemically, and thermally compatible with LNG. NFPA STD 59A-1975, § 423, shall be used as a guide in such determination. Storage containers for LNG shall be designed for the minimum temperature of LNG to be stored at atmospheric pressure. Container foundations shall be capable of withstanding contact with LNG so as not to threaten structural integrity.
+
+            (ii) Structural design. Structural design shall be predicated on the density of the product to be stored but not less than 29.3 pounds per cubic foot and suitable allowance made for the requirements of hydropneumatic testing found in § 23-03(s) of these regulations. No product with a density greater than that for which the container has been designed shall be stored until permission has been obtained from the Fire Department based on supporting data and calculations and approvals granted by the Department of Buildings and/or Department of [Ports and Trade] Small Business Services. If deemed applicable by the Department of Buildings and/or Department of [Ports and Trade] Small Business Services, seismic loads shall be considered in the design.
+
+            (iii) Insulation. Insulation in both non-load bearing and load-bearing areas shall be incombustible. Exposed insulation shall contain, or be inherently a vapor barrier, be water free and resist dislodgement by fire hose streams. An outer shell used to contain loose insulation shall be constructed of steel or concrete. Exposed weatherproofing shall be incombustible. No combustible or flammable adhesives for insulations shall be used.
+
+         (2) Inspections, general. Prior to initial operation, containers shall be inspected to assure compliance with the engineering design and with the material, fabrication, assembly, and test procedures of this regulation. These inspections and tests shall be made by the operator and his or her designated employee in the presence of and witnessed by representatives of the Fire Department, Department of [Ports and Trade] Small Business Services, Department of Buildings or other agencies having jurisdiction. Testing of LNG containers shall be conducted in accordance with the requirements contained in § 23-03(s) of these regulations.
+
+         (3) Maximum pressure. The operator shall specify the maximum allowable working pressure which shall include a satisfactory margin above the operating pressure, and the maximum allowable vacuum.
+
+         (4) LNG tank marking. Each container shall be identified by the installation of a permanent and legible plate at the ground level approach, with the following information:
+
+            (i) Builder's name and date built.
+
+            (ii) Nominal liquid capacity in barrels.
+
+            (iii) Design pressure for methane gas at top of tank.
+
+            (iv) Maximum permissible density of liquid to be stored.
+
+            (v) Maximum level to which container may be filled with stored liquid and with water for testing purposes.
+
+            (vi) Maximum temperatures in degrees Fahrenheit for which container was designed.
+
+         (5) Tank penetrations. Penetrations of storage containers shall be through the roof only and all such penetrations shall be marked so as to be clearly identifiable as to function under all operating conditions.
+
+         (6) Maximum capacity. The maximum capacity of any LNG tank shall be 300,000 barrels.
+
+         (7) Prohibited tank types. The following types of tanks shall be prohibited:
+
+            (i) "Frozen hole" inground containers.
+
+            (ii) Tanks of more than 2,500 gallons capacity designed to operate at more than 2.5 psig.
+
+      (j) Metal containers. 
+
+         (1) General. Metal containers shall be 9 per cent nickel steel alloy, stainless steel, aluminum, or other metal authorized under Section VIII, Division 1, ASME Boiler and Pressure Vessel Code, 1971 edition, for use at -260 degrees Fahrenheit. The use of a non-rigid container or liner is prohibited. Metallic tanks shall be fabricated in accordance with the requirements of API STD 620, Appendix Q, July 1973 or equivalent, except as herein modified.
+
+         (2) Foundations. Above ground LNG containers shah be supported on suitable concrete foundations designed to comply with Chapter 1 of Title 27 of the Administrative Code and API Standard 620, Appendix Q, July 1973, for a container to be tested with water to the top of the shell. The design shall be done by an engineer qualified in this specialty and reviewed and filed with the Department of [Ports and Trade] Small Business Services or Department of Buildings by a professional engineer licensed in the State of New York, and a copy of the approved plan filed with the Fire Department.
+
+         (3) Containers designed for 15 psig or less. Welded primary and secondary containers designed for not more than 15 psig shall comply with API Standard 620, Appendix Q, July 1973 except as herein modified. All welds shall be made by welders licensed by the Department of Buildings under Article 3 of Subchapter 2 of Chapter 1 of Title 26 of the Administrative Code. All butt welds shall be 100 per cent radiographed (horizontal and vertical). Lap welds shall be subjected to a vacuum box test as per API 620, July 1973. A solution vacuum box test shall also be made of the inner and outer tank bottom corner welds, inner tank reinforcing plate to shell welds, reinforcing plate to neck welds and neck-to-shell welds. Magnetic particle or other acceptable methods shall be permitted where other methods are impractical, subject to the approval of the Fire Department and Department of Buildings and/or Department of [Ports and Trade] Small Business Services. All fluxes used in welding shall be thoroughly removed.
+
+         (4) Containers designed for more than 15 psig.
+
+            (i) General. Containers shall be double-walled with inner container holding the LNG surrounded by insulation contained by the outer jacket. The insulation shall be evacuated or purged.
+
+            (ii) Inner container. The inner container shall be fabricated of material authorized by the ASME Boiler and Pressure Vessel Code, Section VIII, Division 1, 1971 edition, for cryogenic liquids at -260 degrees Fahrenheit. The inner container shall be of welded construction conforming to the ASME Boiler and Pressure Vessel Code, Section VIII, Division 1, 1971 edition, and designed for a pressure not less than total of working pressure, LNG hydrostatic head and vacuum, if any. The inner container shall be supported concentrically within the jacket by a system capable of sustaining the maximum loads.
+
+            (iii) Outer jacket. The outer jacket shall be of welded steel construction in accordance with the ASME Boiler and Pressure Vessel Code, Section VIII, Division 1, 1971 edition. In the case of positive pressure purge, the jacket shall be designed to be capable of structurally supporting the inner tank and insulation and maximum positive pressure of the purge gas; in the case of vacuum use the jacket shall be designed to resist an external pressure at not less than 15 psig. The jacket shall be equipped with a relief device functioning at a pressure not greater than the internal design pressure of the jacket, the external design pressure of the inner tank or 25 psi, whichever is less.
+
+            (iv) Thermal barriers. Thermal barriers shall be provided between cold lines and the jacket. Only incombustible insulation compatible with LNG and natural gas shall be used between the inner container and jacket. Such insulation shall be water free, capable of withstanding thermal cycling between -260 degrees Fahrenheit and 1800 degrees Fahrenheit without decomposition, embrittlement, settling or deterioration, and chemically non-reactive with LNG or natural gas. The inner container shall be designed to withstand without collapsing, the external pressure of the insulation and purge gas.
+
+            (v) Support systems. Support systems shall be designed with due consideration to expansion and contraction of the inner container and all thermal stresses created. Saddles and legs shall be designed to withstand the effects of LNG fires, spills, wind loads, shipping loads, erection loads and seismic loads, and accidents attributable to motor vehicles.
+
+         (5) Internal lines. Internal lines between the inner container and the jacket shall be designed for the pressure rating of the inner container and allowance made for thermal stresses created. No bellows shall be permitted in the annular space. All such internal lines shall be of materials acceptable under the ASME Boiler and Pressure Vessel Code, Section VIII, Division 1, 1971 edition, for cryogenic liquid at -260 degrees Fahrenheit.
+
+      (k) Concrete containers. Prestressed concrete containers. This subdivision k applies to the design and construction of prestressed concrete containers for any operating pressure, whether externally or internally insulated and for prestressed concrete walls or berms surrounding any container. Non-metallic tanks shall be prefabricated or poured in place reinforced concrete. After the concrete has attained 90 per cent of 28-day strength the tank shall be post-stressed with steel wires, both vertically and circumferentially for tank walls and floors to assure that concrete will remain in compression during all phases of tank operation. Except as modified in these regulations, construction, materials, and tests shall be in accord with applicable ACI, ASTM, and API specifications enumerated in §§ 423 and 424 of Standard 59A-1975 of the NFPA code. The Department of Buildings or Department of [Ports and Trade] Small Business Services shall provide surveillance and inspection to insure compliance with the applicable requirements and shall require such tests and engineering data as it deems necessary and appropriate.
+
+         (1) Foundations. Concrete LNG containers shall be supported on foundations of concrete, steel or combination which shall have been designed and constructed in accordance with recognized structural engineering practices to ensure a stable foundation. Anchorage shall be provided to counteract flotation forces unless it can be proven to the satisfaction of the Department of Buildings and/or Department of [Ports and Trade] Small Business Services that such is not necessary. All exposed steel shall be fireproofed with concrete or insulation resistant to dislodgement by hose streams, and shall have a minimum fire-resistant rating of 4 hours. The foundations shall be designed to support the concrete tank filled with water to the top of the shell during tests. The design shall be done by an engineer qualified in this specialty and reviewed and filed with the Department of [Ports and Trade] Small Business Services or Department of Buildings by a professional engineer licensed in the State of New York, and a copy of the approved plan filed with the Fire Department.
+
+         (2) Container construction.
+
+            (i) Design and construction of the container shall comply with applicable provisions of Chapter 1 of Title 27, Administrative Code and/or recognized standards accepted by the Department of Buildings and/or Department of [Ports and Trade] Small Business Services to provide maximum safety. No construction on any container shall begin until such agency shall have certified to the Fire Department that the container, as designed, does meet the required standards and is satisfactory for the storage of LNG, has provided the Fire Department with such data concerning the container which the Fire Department deems necessary, and after the Fire Department has indicated, in return, its acceptance of the design. Materials subject to LNG temperature shall be selected, specified, tested, and utilized in accordance with the requirements of the Fire Department and the Department of Buildings and/or Department of [Ports and Trade] Small Business Services based on recognized engineering standards. The tank shall be designed to withstand testing by filling with water to the top of the shell.
+
+            (ii) The use of the alternative materials of construction may be approved by the Department of Buildings and/or Department of [Ports and Trade] Small Business Services provided that after due investigation such agency is satisfied that such substitutions provide, at least, an equivalent degree of safety and further provided that the Fire Department concurs in such substitution.
+
+            (iii) Roof structures and suspended ceilings shall be of materials suitable for cryogenic temperatures and so constructed as to prevent total roof collapse in the event of internal fire. Roof guides shall be incorporated into the structure to minimize the possibility of the roof falling into the tank in the event of pressure surge within the container.
+
+            (iv) The seal between the wall and floor shall be of a type acceptable to the Fire Department and the Department of [Ports and Trade] Small Business Services and/or Department of Buildings. It shall not be a corrugated type expansion seal.
+
+      (l) Container purging. 
+
+         (1) Purging. Purging shall be conducted by experienced and qualified personnel under the direction of an experienced engineer competent in this specialty, who shall prepare a written procedure for review and acceptance by the Fire Department prior to the start of purging. Responsibility and authority for the purging operations should be vested in a person who is familiar with the properties and nature of the materials involved and the construction and function of the equipment to be purged. [He] The person should be capable of deciding how the purging should be done and of judging whether it is proceeding satisfactorily and when it is properly completed. He or she should be able to detect any hazards and to decide how best to overcome any difficulties that might arise. He or she should plan and discuss the schedule of the entire operation with operating, maintenance, engineering, testing and safety personnel involved.
+
+         (2) Container into service. Prior to placing an LNG container into service the air must be displaced by an inert gas such as nitrogen in an acceptable manner so that at no time will there be a flammable mixture in the container.
+
+         (3) Container out of service. Prior to taking a container out of service the natural gas shall be purged with an inert gas such as nitrogen in a safe manner. All tank interior maintenance and repairs shall be performed in an atmosphere of inert gas.
+
+         (4) Purging operation.
+
+            (i) During purging operation the interior of the container shall be continuously monitored for the presence of oxygen and flammable gas.
+
+            (ii) Good organization, planning and preparation with full agreement of all concerned are essential for a successful purging project. The following factors must be decided upon:
+
+               (A) Equipment to be purged and how it should be separated.
+
+               (B) Inerts to be used, how obtainable, and how introduced and vented.
+
+               (C) Method for testing completeness of the purging and end point to be attained.
+
+               (D) Selection and assignment of a responsible supervisor and operating personnel.
+
+               (E) Preparation of a written "procedure," detailing the sequence of all operations related to the purging, including the time of performance and estimated duration.
+
+            (iii) Selection of the time for performing the purging may be affected by many factors not directly related to the operation itself, such as: demands and loads, availability of personnel to perform the repair work or task for which the purging is undertaken, and weather conditions. It is desirable to start the purge operation at a time that will permit completion of purging, the introduction and removal of the inerts and the return to service of the system during daylight hours.
+
+            (iv) When more than one unit or piece of equipment is involved, the purging should be broken down into several successive operations, with their sequence definitely decided upon and their timing clearly calculated and scheduled. Each successive part of a large scale operation may well be considered a separate purging. It is important to set down the decisions reached in a written "procedure" which is definite as to consecutive steps. For instance, that no valve is left open when it should be closed or vice versa.
+
+            (v) After review and acceptance of the written procedure by the Fire Department, the purging supervisor may proceed with the selection of those required to assist in the operation. All should then be instructed together in the work to be done. Each [man] person should understand what he or she is to do and its importance in relation to the work others must perform.
+
+            (vi) Those selected to aid in the purging operation should have definite responsibilities. For example, one [man] person may be made responsible for the production and continuity of supply of inerts, a second, who has analytical and chemical testing training, responsible for the testing of the contents in or escaping from the purged chambers. These [men] persons should concentrate all their attention on their indicated duties and should not be expected to perform any other tasks. As many other [men] persons as deemed necessary should be assigned for the general purging operations.
+
+      (m) Cooldown procedure.
+
+         (1) Cooling down shall be limited to a rate and distribution pattern which will not cause allowable thermal stresses in the container and LNG piping to be exceeded.
+
+         (2) Cooldown shall be conducted by qualified and experienced personnel under the supervision of an engineer competent in this procedure.
+
+         (3) The container, associated piping and joints shall be under continuous surveillance to detect any failures or leaks.
+
+      (n) Pressure and vacuum control.
+
+         (1) General. LNG containers and associated equipment and piping shall be provided with means of maintaining pressure and vacuum within design limits by admitting or discharging natural gas as needed. The means provided for the admission and release of gas as required in this subdivision (n) shall be acceptable to the Fire Department.
+
+         (2) Sizing. Sizing such pressure control devices shall include consideration of, (but not limited to), the following factors:
+
+            (i) For pressure.
+
+               (A) Loss of refrigeration.
+
+               (B) Failure of a control device or other deviation from normal operation.
+
+               (C) Vapor displacement and flash vaporization including thermal roll-over during and subsequent to filling, and flash vaporization resulting from pump recirculation.
+
+               (D) Drop in barometric pressure.
+
+               (E) Exposure to fire or radiation from fire, or other heat source.
+
+            (ii) For vacuum.
+
+               (A) Withdrawal of liquid at maximum rate.
+
+               (B) Withdrawal of vapor at maximum compressor suction rate.
+
+               (C) Rise in barometric pressure.
+
+               (D) Reduction in vapor pressure resulting from the introduction of sub-cooled LNG into the vapor space.
+
+         (3) Vents. In addition to the pressure control means required under the foregoing, LNG containers shall be provided with dual sets of direct acting pressure and vacuum vents communicating with the atmosphere, with each set sized for total relief. Fire exposure must be considered in the sizing of pressure relief vents.
+
+         (4) Vent calculations. Copies of venting and relief valve calculations for LNG storage tanks and equipment shall be furnished to the Fire Department.
+
+      (o) Vaporization. 
+
+         (1) General. There are various classifications of vaporizers. This subdivision (o) describes these classifications and their associated equipment.
+
+            (i) Heated vaporizers. Heated vaporizers are those vaporizers which derive their heat from the combustion of fuel, electric power, or waste heat and can be of direct fired, indirect fired, or remote fired.
+
+            (ii) Ambient vaporizers. Ambient vaporizers are those vaporizers deriving their heat from natural sources.
+
+            (iii) Process vaporizers. Process vaporizers are those which derive their heat from another thermodynamic or chemical process or in such a fashion as to conserve or utilize the refrigeration from the LNG.
+
+         (2) Prohibited vaporizers. Flammable heat transporting mediums are prohibited for any type of vaporizer, except that natural gas may be used in derime heaters.
+
+         (3) Design and materials of construction. ASME Boiler and Pressure Vessel Code, Section VIII, Division 1, 1971 edition shall govern the design, fabrication and inspection of vaporizers. Materials used shall be suitable for the temperatures and pressures to which they may be exposed. Vaporizer heat exchangers. Vaporizer heat exchangers shall be designed for a working pressure at least equal to the maximum discharge pressure of the LNG pump or pressurized container system supplying them, whichever is greater.
+
+         (4) Vaporizer and vaporizer piping valves.
+
+            (i) Automatic equipment. Automatic equipment acceptable to the Fire Department shall be provided to prevent discharge of LNG or gas into a distribution system at a temperature above or below the design temperature of the sendout system.
+
+            (ii) Block valves. Manifolded vaporizers shall have both inlet and discharge block valves at each vaporizer.
+
+            (iii) Discharge and relief valves materials and construction. The discharge valve of each vaporizer and piping components and relief valves upstream of that valve shall be suitable for operation at LNG temperatures.
+
+            (iv) Inlet valves. In order to prevent a leak of LNG into idle vaporizers there shall be two inlet valves and a safe means of disposal of gas which may be trapped between them shall be provided.
+
+            (v) Heat source shut-off valves. Each heated vaporizer shall be provided with heat source shut-off valves at the vaporizer and at a point at least fifty feet distant.
+
+            (vi) Vaporizer shut-off valve. The LNG line to each vaporizer shall be provided with a shut-off valve at least fifty feet distant from the vaporizer operable from a remote point and manually at its installed location.
+
+            (vii) Derime heater shut-off valves. If natural gas is used with a derime heater, shut-off valves shall be provided to both feed and discharge lines, located at least fifty feet from the heater.
+
+            (viii) Relief devices.
+
+               (A) Each vaporizer and/or heater shall be provided with a safety relief valve providing an effective rate of discharge. Relief valve calculations shall be submitted to the Fire Department for review and acceptance and shall include allowance for pressures developed due to fire exposure. The relief valve capacity of vaporizers shall be such that the relief valve(s) will discharge 150% of rated vaporizer natural gas flow capacity without allowing the pressure to rise more than 10% above the vaporizer maximum allowable working pressure.
+
+               (B) Relief valves on heated vaporizers shall be located so that they are not subjected to normal operating temperatures in excess of their design temperature.
+
+         (5) Safety controls. In order to assure safe operation, heated vaporizers shall be provided with fully automatic, fail-safe controls, electrically classified by New York City Administrative (Electrical) Code to operate in hazardous atmospheres, to accomplish the following where applicable:
+
+            (i) Prepurge for 1 3/4 minutes with air or inert gas heat exchanges of combustible gases. Purge timer, solenoid control pilot and fuel gas valves and ignition time limit switch to be provided.
+
+            (ii) Startup on low fire start by pilot only, with burners then lit by pilot as they open.
+
+            (iii) Monitor for process temperature, pressure and/or flow with shutdown if any parameter is exceeded.
+
+            (iv) Monitor flue gases with flue gas analyzer to detect gas or unburned fuel, also to report surplus oxygen.
+
+            (v) Shutdown on insufficient air. Combustion air blower and combustion air pressure switch to be provided for combustion air blower and fuel gas and combustion air proportional control valve to be provided.
+
+            (vi) Shutdown on electrical malfunction.
+
+            (vii) Shutdown on flame failure of pilot or burner.
+
+            (viii) Shutdown on high stack temperature (no restart possible until the temperature returns to normal operating temperature).
+
+            (ix) Vary burner gas and air input with LNG flow rate to maintain output process temperature within prescribed limits. (Automatic proportional temperature control).
+
+            (x) Alert manager of the plant in event the door is opened for any reason, by means of a tamper control with supervisory signal to be provided in the electrical panel box. (This is to guard against by-passing of controls by any operator).
+
+            (xi) Prevent over firing of unit by use of a combustion air blower designed with limited capacity.
+
+      (p) Piping. 
+
+         (1) Design and materials. General.
+
+            (i) Design. The design and fabrication of piping systems shall comply with American National Standard (ANSI) B31.3 "Petroleum Refinery Piping," except as modified by this subdivision (p).
+
+            (ii) Materials. All materials, including gaskets and thread compounds shall be suitable for the temperatures to which they may be exposed, including fire. A materials list shall be prepared and submitted to the Fire Department for review and acceptance.
+
+         (2) Seamless pipe. Seamless pipe, only, shall be used for process and transfer piping handling LNG, flammable refrigerants, flammable liquids or gases, except that welded pipe may be used if seamless pipe is not available in the size required and if the weld and heat affected zone complies with ANSI B31.3 Subsection 3232.2 (impact tests) and is non-destructively examined in a manner acceptable to the Fire Department. Furnace lap-welded, furnace butt-welded or spiral-welded pipe is not acceptable for flammable gas, refrigerant or LNG. All fluxes used in welding shall be thoroughly removed.
+
+         (3) Threaded pipe. Threaded pipe shall be at least Schedule 80, but no threaded pipe over 2 inches nominal pipe size shall be used for flammable liquid or gas, and all such threaded joints used must be seal-welded, or sealed by other means acceptable to the Fire Department. No threaded pipe shall be used for cryogenic service.
+
+         (4) Thermal expansion. Thermal expansion shall be provided for by means of piping bends, loops or offsets. Expansion joints of the bellows, slip, and ball type are prohibited for lines handling flammable liquids or gases.
+
+         (5) Prohibited materials. A liquid line on a storage container, coldbox or other major item of insulated equipment external to the outer shell or jacket whose failure can release a significant quantity of flammable fluid shall not be made of aluminum, copper or copper alloy, or other material that has low resistance to flame temperatures.
+
+         (6) Prohibited fabrication. Socket welds on piping shall be prohibited except for branch connections not over 2 inches diameter; threaded pipe joints not seal welded, expanded, flared, compression, caulked, brazed and soldered joints are prohibited except as permitted in §§ 23-03(p)(3) and 2313(p)(7). Flange joints shall be held to a minimum. Butt-welded joints shall be used wherever possible.
+
+         (7) Pipe fittings.
+
+            (i) General.
+
+               (A) Metals may be joined for cryogenic service by silver brazing. Silver brazing may be used on copper to copper joints, copper to copper alloys, and copper to stainless steel. Dissimilar metals may be joined by flanges or transition joint techniques which have been proven by test.
+
+               (B) The number of threaded or flanged joints shall be held to a minimum and used only where absolutely necessary, such as material transitions, instrument connections or where required for maintenance.
+
+               (C) Care shall be taken to insure the tightness of all bolted connections. Spring washers or other devices designed to compensate for the contraction and expansion of bolted connections during normal operating cycles shall be used where required.
+
+            (ii) Threaded nipples. Threaded nipples shall be at least Schedule 80.
+
+            (iii) Malleable iron. Malleable iron fittings are permitted only in auxiliary systems for oil, water, air, etc., and shall not be used to convey flammable refrigerants, gases, or liquids.
+
+            (iv) Plugs. Solid plugs or bull plugs made of at least Schedule 80 seamless pipe shall be used for threaded plugs.
+
+            (v) Flanges. Flanges shall be butt welded to the piping. All flanges shall be raised face and shall be concentric serrated in conformance with Manufacturers Standardization Society of the Valve and Fitting Industry, MSS-SP-6, 1963.
+
+         (8) Gaskets. Gaskets on piping conveying LNG, flammable refrigerants or gases shall be metal, metal jacketed or retained spiral wound.
+
+         (9) Prohibited conditions. The following practices and conditions shall be prohibited:
+
+            (i) Compression-type couplings shall not be used where they will be subjected to temperatures below minus 20 degrees Fahrenheit (minus 28.9 degrees Centigrade), unless such couplings meet the requirements of 318 of ANSI B31.3.
+
+            (ii) Threaded pipe shall be avoided for service temperatures below -20 degrees Fahrenheit. Where permitted, threaded joints shall be sealed as per § 23-03(p)(3).
+
+            (iii) No bends in fittings beyond those which are designed or fabricated into the fitting are permitted.
+
+         (10) Valves.
+
+            (i) General. In addition to complying with ANSI B31.3, Section 307, valves shall comply with ANSI B31.5 or B31.8 or API 6D if design conditions fall within their scope.
+
+            (ii) Extended bonnet valves.
+
+               (A) Extended bonnet valves with or without bellows seals shall be used for service temperatures below -50 degrees Fahrenheit.
+
+               (B) Extended bonnet valves shall be installed with stems positioned above the horizontal.
+
+            (iii) Shut-off valves.
+
+               (A) Shut-off valves shall be provided on all LNG, flammable refrigerant, flammable liquid and flammable gas containers, tank and vessel connections, except those for relief valves, those for liquid level gaging devices, and those that are blanked or plugged. Shut-off valves shall be located as close as possible to the containers or vessels they protect.
+
+               (B) The design and installation of an internal valve shall be such that any failure of the penetrating nozzle from outside stresses will be beyond the shut-off seats of the internal valve.
+
+               (C) The number of shut-off valves shall be the minimum required for safe and efficient operation.
+
+            (iv) Blocking and manual valves.
+
+               (A) Required automatic blocking valves. Automatic blocking valves of "fail safe" type shall be installed in addition to manual valves to limit and isolate leaks, and to protect the plant in case of fire or other emergency, as follows: (a) Natural gas feed line to the liquefaction system (where it enters plant). (b) Natural gas feed line to the derime heater. (c) LNG fill line from the cold box to the LNG container (at cold box). (d) LNG withdrawal lines to booster pumps from tank (at the pumps, at the tank and at the dike). (e) LNG feed line to the vaporizers (at vaporizer). (f) Natural gas line outlet from vaporizers to sendout line (at vaporizer). (g) Natural gas vapor boil-off line from tank to process area (near tank). (h) Discharge line of refrigerant compressor. (i) Additional valves for isolation shall be installed as required by the Fire Department.
+
+               (B) Automatic blocking valve operation and activation. These valves shall be capable of manual operation and shall operate automatically on: (a) Detection of fire at tank, dike, vaporizer or process area or fire endangering the valve. (b) Indication of over-pressure (beyond maximum operating pressure) or under-pressure (leak or rupture). (c) Actuation of emergency shut-down system, manually, or automatically at process control house or other selected sites. (d) Manual operation of natural gas control valve.
+
+            (v) Safety and relief valves.
+
+               (A) Safety and relief valves shall be arranged to prevent damage. No shut-off valves are permitted in a line of relief. Relief valve settings shall be sealed.
+
+               (B) A thermal expansion relief valve shall be installed to prevent overpressure in any section of a liquid pipeline which can be isolated by valves. Thermal expansion relief valves shall be set to operate above the maximum normal operating pressure and less than the rated test pressure of the line it protects.
+
+               (C) Discharge from such valves shall be directed to minimize hazard to personnel and equipment. Flammable liquids and gases shall be discharged to the plant system connected to an operating flare stack.
+
+            (vi) Valve installation. Valves and other control valves shall be installed so that their operation will not be affected by icing.
+
+            (vii) Valve identification. Valves shall be identified at their locations by a number and where feasible a brief statement of its function.
+
+         (11) Pipe supports and piping insulation.
+
+            (i) Pipe supports. Supports for piping shall be capable of withstanding a two-hour fire exposure except that supports subject to exposure to cryogenic liquid or essential to plant safety shall be capable of withstanding such exposure without excessive heat transfer which can affect piping restraints due to icing, or embrittlement of supporting steel, and to a fire of four hours duration.
+
+            (ii) Piping insulation. Piping insulation shall be of incombustible material; where space limitation or other conditions are such as to make the use of incombustible insulation impracticable, then insulation having a flame spread rating of 25 or less per ASTM-E-84 may be used, providing that such insulation is covered with at least two inches of incombustible material held in place by a metal covering and stainless steel strapping when permitted by the Fire Department.
+
+         (12) Pipe identification. Process, fuel, high pressure steam, fire protection and other critical piping shall be identified by color coding, painting or labeling, subject to the approval of the Fire Department.
+
+         (13) Welding.
+
+            (i) Certification of welders. Only certified welders shall be employed and certifications of welders filed with the Fire Department. Piping welders shall be certified by their employers after qualifying under Section IX-ASME Boiler and Pressure Vessel Code 1971, or Standard for Welding Pipelines  1968.
+
+            (ii) Radiographic inspection. All welded joints on flammable liquid or gas piping shall be subjected to radiographic testing by an outside person or firm qualified to perform radiographic testing under Section IX-ASME Boiler and Pressure Vessel Code (1971) or API Standard 1104. Certifications on acceptance or rejection of each weld shall be filed with the Fire Department by the owner.
+
+            (iii) Visual inspection. All welded joints shall be subject to visual examination, over the entire O.D. and I.D. (with mirrors or other means) by the welding inspector employed by the owners.
+
+            (iv) Supplementary inspection. Supplementary examinations for soundness shall be made as required by the Fire Department of welds on pipe and fittings conveying cryogenic liquids, high heat and high pressure flammable liquids or flammable gases, and flammable refrigerants. These shall include:
+
+               (A) Ultrasonic over entire O.D. and/or
+
+               (B) Liquid penetrant over entire O.D. (for non-magnetic material), and/or
+
+               (C) Magnetic particle test for magnetic material.
+
+               (D) Welds shall be rejected for cracks and unworkmanlike welding.
+
+            (v) Practices and techniques. The following practices and techniques shall be observed:
+
+               (A) Scabs, slivers, seams, laps, tears, abrasions, and mechanical marks must be removed within the minimum wall thickness.
+
+               (B) When welding impact tested materials, qualified welding procedures shall be used to minimize degradation of the low temperature properties of the material.
+
+               (C) When welding to thin wall pipe, techniques shall be exercised to avoid burn-through.
+
+               (D) Electric arc or inert gas-shielded welding shall be used in piping for service below -20 degrees Fahrenheit.
+
+         (14) Weld identification. Weld identification markings for pipe which will be subject to service temperatures below -20 degrees Fahrenheit shall comply with the following:
+
+            (i) Marking shall be made with a material compatible with the basic material or with a round-bottom low stress die, except that materials less than one-quarter inch thick shall not be die-stamped.
+
+            (ii) Aluminum shall be marked with chalk wax-base crayons or marking inks containing organic coloring.
+
+         (15) Testing of piping.
+
+            (i) Pressure tests shall be made of all piping in accordance with § 23-03(s) of these rules relating to the procedures. Carbon and low alloy steel piping shall not be pressure tested at metal temperatures below 35 degrees Fahrenheit.
+
+            (ii) Such tests shall be made in the presence of a representative of the fire department and the written results thereof promptly filed with the fire department.
+
+            (iii) Records of such tests shall include clear identification of the piping, pressure, test medium, temperature thereof, ambient temperature, duration and shall remain a permanent record.
+
+         (16) Purging of piping systems. Purging of air or gas shall be done in a safe manner. ANSI B31.8, Section 841.285 may be used as a guide. Blow down and purge connections shall be provided to facilitate purging of process and flammable gas piping.
+
+         (17) Corrosion control.
+
+            (i) Underground and submerged piping shall be protected and maintained in accordance with the principles of the National Association of Corrosion Engineers Standard RP-01-69 (1972 Revision), Control of External Corrosion of Underground or Submerged Metallic Piping System.
+
+            (ii) Precautions shall be taken for the protection of austentic stainless steel and aluminum alloys to prevent corrosion and pitting from corrosive atmospheric and industrial media during storage, construction, fabrication, testing and service. These media include but are not limited to chlorides and compounds of sulphur or nitrogen. Where insulation materials can cause corrosion of aluminum or stainless steel, suitable inhibitors or water-proof barriers shall be utilized.
+
+      (q) Instrumentation and electrical services. 
+
+         (1) Liquid level gaging. LNG containers. Each LNG container shall be equipped with approved liquid level gaging devices acceptable to the fire department.
+
+            (i) High level alarm. Each LNG container shall be equipped with approved liquid level alarm separate from the liquid level gaging device which will sound at the control house and at the marine unloading station when the liquid level is at 95 percent of the maximum filling height. In addition, a visible alarm shall be provided in the control board at the control house and marine station.
+
+            (ii) High level cut-off device. A high level cut-off device in addition to the alarm shall be provided to automatically reduce the flow of LNG to the container at 95 percent and cut it off at 98 percent.
+
+            (iii) Try cocks. No liquid try cocks are permitted.
+
+         (2) Liquid level gaging. Tanks for refrigerants and/or flammable process fluids. Each refrigerant and/or flammable process fluid tank shall be equipped with approved liquid level gaging devices acceptable to the fire department.
+
+            (i) High level alarm and cut-off device. Each storage tank shall be equipped with a liquid level gage and a high liquid level alarm and automatic cutoff as in §§ 23-03(q)(1)(i) and 23-03(q)(1)(ii).
+
+            (ii) Try cocks. No liquid try cocks are permitted.
+
+         (3) Pressure gages.
+
+            (i) LNG containers and other pressure vessels. Each LNG container and pressure vessel shall be equipped with a pressure gage connected to the container above the maximum liquid level. The LNG container shall also be provided with a pressure recorder.
+
+            (ii) Liquefaction systems. Pressure gages shall be placed upstream and downstream of process equipment where trace contaminants in the feed stream may deposit, as an aid to the scheduling of deriming operations.
+
+         (4) Vacuum gages. Vacuum jacketed equipment shall be provided with instruments for checking the absolute pressure in the annular space.
+
+         (5) Temperature indicators. Temperature monitoring devices shall be provided in various locations of the LNG Plant as follows:
+
+            (i) LNG containers. Temperature monitoring devices shall be provided in LNG containers to assist in controlling temperatures when placing the container in service and for calibrating liquid level gages.
+
+            (ii) Vaporizers. Vaporizers shall be provided with indicators to monitor inlet temperatures of LNG, outlet temperatures of vaporized gas and heating medium fluids and stack temperatures.
+
+            (iii) Liquefaction systems. Liquefaction systems shall be provided with temperature monitoring devices upstream and downstream of process equipment.
+
+            (iv) Foundations. Temperature monitoring equipment and heating cables shall be provided where foundations supporting cryogenic containers and equipment could be adversely affected by freezing or frost heaving of the ground.
+
+         (6) Additional instrumentation. In addition to the foregoing there shall be provided sufficient temperature measuring instruments for floor, inner tank wall, outer tank insulation, roof and hung ceiling, and other indicators such as wall movement transducers, strain gages, etc., that the Fire Department may require, to assure the prompt detection of an LNG leak or variation from the normal operating parameters in any container.
+
+         (7) Emergency shut-down. 
+
+            (i) Power or instrument air failure. Instrumentation for liquefaction, storage and vaporization facilities shall be designed so that in the event of power failure or instrument air failure the system will go into a "fail safe" condition until the system can be reactivated or secured.
+
+            (ii) Automatic shut-down. Provision shall be made for automatic shut-down of major items of equipment (e.g., compressors of a liquefaction facility, liquid send-out pumps and vaporizers and isolation valves), manually from several locations remote from the equipment and accessible in an emergency, and automatically in the event of fire detection or a major leak. In addition on fire detection, the emergency shut-down shall include automatic activation of the extinguishing system in the area of detection, and shall include automatic notification to the Fire Department via a central office. The emergency shut-down shall be accompanied by audible and visible trouble signal at the control house and sounding of the plant alarm.
+
+         (8) Electrical equipment.
+
+            (i) General. Electrical equipment and wiring shall be of the type specified by and installed in accordance with the New York City Electrical (Administrative) Code and a certificate of inspection issued by the Bureau of Electrical Control shall be filed with the Fire Department. Where the New York City Electrical (Administrative) Code makes no provisions, NFPA Std. 70 shall apply. All alarm, detection, and communication systems shall conform to § 23-03(t)(7)(i)(B).
+
+            (ii) Secondary electrical power. A secondary source of electrical power shall be provided sufficient for LNG control, venting, plant shut down, operation of fire protection equipment (including fire pumps). Gas turbine or diesel drive may be accepted as satisfying this requirement. Such secondary power supply shall be so installed and arranged to provide for an uninterruptible switchover from primary to secondary power supply in case of primary power supply failure.
+
+            (iii) Electrical grounding. All tanks, piping, and equipment shall be electrically grounded.
+
+            (iv) Lightning protection. LNG storage tanks shall be protected against lightning in accordance with the New York City Electrical (Administrative) Code and NFPA Std. 78. An affidavit shall be filed to this effect with the Fire Department.
+
+            (v) Warning light. An explosion-proof red or amber warning light of adequate intensity shall be provided at the dome of the tank.
+
+            (vi) Stray currents. If stray currents may be present, or if impressed currents are used in loading or unloading systems (e.g., cathodic protection) protective measures to prevent ignition shall be taken in accordance with "Protection Against Ignitions Arising Out of Static Lightning and Stray Currents"- API-RP 2003 (1967). Particular attention shall be given to protection of underground lines and structures from accelerated corrosion, and the use of insulated flanges to prevent currents or use of bonding cables to prevent potential differences at pipe and equipment interfaces.
+
+            (vii) Lighting. Lighting of adequate intensity shall be provided for all parts of the plant including the access roads to, and in the plant, and such lighting shall conform to the New York City Electrical (Administrative) Code.
+
+      (r) Transfer of LNG and refrigerants. 
+
+         (1) Scope. This subdivision (r) applies to the transfer of refrigerants, flammable liquids and flammable gases between storage containers or tanks and points of receipt or shipment as permitted by pipeline, tank car, tank vehicle or marine vessel, with the following restrictions:
+
+            (i) LNG shall be received or shipped by Coast Guard approved marine vessel only, except where other means of transportation is permitted by the Fire Department.
+
+            (ii) Flammable or combustible liquids, gases, or refrigerants shall be received only by approved pipeline or permitted trucks complying with the specifications of the Fire Department or by Coast Guard approved marine vessels.
+
+            (iii) Liquefied flammable gases shall be received only by Coast Guard approved marine vessels unless in containers complying with Subchapter 17 of Chapter 4 of Title 27 of the Administrative Code.
+
+            (iv) Non-flammable gases, whether liquefied or not, shall be received only in permitted trucks complying with the specifications of the Fire Department, tank cars or Coast Guard approved marine vessels.
+
+            (v) Transfer facilities shall comply with the appropriate provisions of these regulations relating to siting, piping systems, fire protection and instrumentation and to specific provisions of this subdivision (r).
+
+         (2) LNG compatibility. LNG being transferred into storage containers shall be compatible with that already in the container. Means shall be provided to prevent stratification which may result in rollover and extensive evolution of vapor. The means of accomplishing this objective shall be stated in the operating manual, which shall be acceptable to the Fire Department.
+
+         (3) Odorization. No gas in liquid or gaseous state shall be transferred into or out of the plant, effective January 1, 1979, unless it is satisfactorily odorized.
+
+         (4) Piping system. The transfer lines shall comply with the requirements of this subdivision (r).
+
+            (i) Blocking valves. Blocking valves shall be provided at the extremities of marine liquid transfer lines. The valves at the discharging end may be manually operated. The valves at the receiving end shall be capable of remote shutdown and provided with "fail safe" features.
+
+            (ii) Precooling. Provision shall be made for precooling transfer lines used to convey cryogenic liquids.
+
+            (iii) Check valves. Check valves shall be provided as required in transfer systems and located as close as possible to the point of connection to any system from which backflow can occur.
+
+            (iv) Vent line. A vent line of sufficient capacity shall be provided for LNG transfer lines, fabricated of cryogenically suited materials, connected to the high point of the transfer line and vented to the flare system.
+
+            (v) Supports. The liquid and vent lines shall be supported on incombustible supports. When steel is used, insulation shall be provided at points of contact. Cryogenic lines shall be insulated with incombustible insulation for personnel protection.
+
+            (vi) Vent valve and pressure gage location. Vent valves and pressure gages shall be provided equidistant along LNG lines at approximately 1000 foot intervals.
+
+            (vii) Transfer line fabrication. Transfer lines shall be fabricated of materials suited for the service intended, welded and 100 per cent of all welds radiographed; when radiography is not possible, other non-destructive tests may be used. Expansion loops may be installed with flanges and gaskets and made up with suitable stainless steel bolts. Piping shall conform to § 23-03(p) and stress level shall not exceed 40 percent of specified minimum yield strength.
+
+            (viii) Drains. A drain or bleeder valve shall be provided to empty piping after block valves are closed.
+
+            (ix) Pipe routing. Where piping passes under roadways, ramps shall be provided and suitable protection to protect the pipe from impact loads. Such protection shall be in the form of a steel casing so that the transfer piping can be monitored for leaks.
+
+         (5) Pump and compressor drive.
+
+            (i) Suitability. Pumps and compressors shall be designed and tested for the service temperatures and pressures to which they may be subjected.
+
+            (ii) Signal lights. Signal lights shall be provided at the loading or unloading area to indicate when a remotely located pump or compressor used for loading or unloading is idle or in operation.
+
+            (iii) Parallel pumps. When pumps are in parallel, each pump suction and discharge line shall contain a block valve designed for at least the maximum operating pressure of the system. If centrifugal pumps are used, a check valve shall be placed between each pump discharge and the outlet block valve.
+
+            (iv) Shutdown devices. In addition to the locally mounted devices for shut-down of the pump or compressor drive, a remote device readily accessible to the certificate of fitness holder supervising the transfer shall be provided to shut down the pump or compressor in emergency. Remotely located pumps and compressors used for loading marine vessels shall be provided with controls at the loading area and at the pump or compressor site for shutdown.
+
+         (6) Marine shipping and receiving.
+
+            (i) General. Design, construction and operation of piers, docks and wharves shall comply with the requirements of the Department of [Ports and Trade] Small Business Services and the U.S. Coast Guard.
+
+            (ii) General cargo. General cargo, other than ships stores for the LNG tanker shall not be handled over the pier within 200 feet of the transfer connection and no cargo shall be handled while LNG or flammable liquids are being transferred. Ship bunkering shall not be done simultaneously with LNG loading or unloading operations.
+
+            (iii) Vehicle traffic. Vehicle traffic is prohibited on the pier or dock while transfer operations are in progress. Suitable warning signs and barricades shall be posted at all points of access to the pier when transfer operations are in progress.
+
+            (iv) Pipeline location. Pipelines shall be located on the pier in such manner that they are not exposed to physical damage from any source.
+
+            (v) Isolation valves and bleed connections. Isolation valving and bleed connections shall be provided at the loading or unloading manifold for both liquid and vapor return lines so that hoses and arms can be blocked off, drained or pumped out and depressured before disconnecting. Valves shall be located at the point of hose or arm connection to the manifold. Bleeds or vents shall discharge to a safe area such as the line to the flare stack.
+
+            (vi) Block valves. In addition to the isolation valves at the manifold, each vapor return and liquid transfer line shall be provided with a readily accessible block valve, on shore where the line approaches the dock or pier. Where there is more than one line, valves shall be grouped close enough for fast manual operation but not so dose that fire at one valve would endanger personnel required to operate the others. Valves shall be identified as to service. Valves shall be power operated from a remote point as well as manual.
+
+            (vii) Check valves. Pipelines used for liquid unloading only shall be provided with check valves adjacent to the manifold isolation valve.
+
+            (viii) Vapor return line. Either the vapor return line shall connect to the vessel's vapor return connection, or a safe means for vapor removal shall be provided.
+
+            (ix) Loading arms and hoses. Loading arms and hoses shall be constructed of material suitable for the product conveyed and the pressures to be encountered. Connections shall be capable of being disconnected quickly without product loss. Hoses shall be approved for the service and designed for a bursting pressure of not less than five times the working pressure.
+
+            (x) Type of hose and pipe. Flexible metallic hose or pipe and swivel joints shall be used. Couplings shall be suitable for operating conditions and fabricated of durable materials.
+
+            (xi) Loading arm supports. Loading arms and hoses shall be adequately supported. The design of counter-weights shall take into consideration the formation of ice.
+
+            (xii) Hose testing. Hoses shall be tested at least semi-annually to the maximum pump pressure of relief valve setting and shall be visibly inspected before each use for damage or defects.
+
+            (xiii) Vessel transfer precautions. Prior to transfers, an English-speaking officer of the vessel in charge of cargo transfer and the shore terminal supervisor shall personally inspect their respective facilities to ensure that transfer equipment is in proper working condition. After being satisfied that their inspections disclose no defect or cause for concern, they shall agree on safe transfer procedures and review the emergency procedures, including verification of ship-to-shore communi- cations.
+
+         (7) Additional precautions. In addition to the fixed fire protection required by these regulations the following precautions and procedures shall be followed in regard to marine loading or unloading of LNG:
+
+            (i) At least 72 hours before the arrival of any tanker or barge, the Coast Guard and the New York Fire Department shall be notified of the date, time and point of entering the Port of New York for the purpose of organizing an escort for the vessel, if required, or standby fire protection.
+
+            (ii) No loaded vessel shall enter the Port or traverse its waters after sundown or before sunrise, or in inclement weather without the approval of the Coast Guard and concurrence by the Fire Department.
+
+            (iii) Except as permitted by the Coast Guard no loaded vessel shall enter the Port if hazard exists due to heavy traffic, congestion, or waterfront fires which endanger passage.
+
+            (iv) No vessel shall be docked for loading or unloading until inspected and certified by the Coast Guard.
+
+            (v) Except as permitted by the Coast Guard no vessel shall enter the Port under unfavorable tide conditions. Sufficient tug-boats to control the vessel shall be provided at all times.
+
+            (vi) Half-hourly patrols of the transfer line shall be made by operating personnel with certificates of fitness equipped with 2-way radio and portable dry chemical extinguishers and lights shall be available.
+
+            (vii) Means shall be provided at the pier to transmit an alarm to the Fire Department.
+
+            (viii) A dry chemical fire truck conforming to § 23-03(t)(4)(vi) with operating personnel shall be stationed on the pier near the LNG manifold, continuously during LNG transfer.
+
+            (ix) Vessels and loading arms shall be electrically bonded.
+
+            (x) Warning signs in lettering large enough to be seen from the channel shall be posted at each end of the pier or dock to inform approaching vessels of the transfer operation.
+
+            (xi) No vessel larger than 30,000 barrel capacity shall transfer LNG on a dead-end waterway.
+
+            (xii) A barrier acceptable to the Fire Department and the Coast Guard shall be provided on the water side of the barge or tanker to protect against collision impact while docked. Such barrier may be of either permanent or temporary nature.
+
+         (8) Tank vehicle loading and unloading facilities.
+
+            (i) Loading facility. Loading and unloading facilities shall comply with the applicable provisions of Chapters 1 and 4 of Title 27 of the Administrative Code and applicable provisions of the Zoning Resolution.
+
+            (ii) Tank vehicles. Tank vehicles shall load or unload flammable or combustible liquids only after they have been inspected and authorized by the fire department and when in charge of a person with a certificate of fitness.
+
+         (9) Pipeline deliveries of flammable or combustible liquids.
+
+            (i) Pipelines. Petroleum pipelines delivering flammable or combustible liquids to LNG plants or related facilities shall comply with the regulations of the fire department.
+
+            (ii) Storage tanks. Tankage for the storage of flammable or combustible liquids and/or petroleum products for LNG plants or related facilities shall comply with the applicable requirements of Subchapter 8 of Chapter 4 of Title 27 of the Administrative Code.
+
+         (10) Communications. Communications shall be provided at a loading or unloading location so that the operator can be in contact with other remotely located personnel who are associated with the loading or unloading operation and with the control house. Communication shall be by means of telephone, public address or two-way radio with audible alarm signals which can be heard throughout the plant actuated at the control house in case of emergency.
+
+      (s) Testing and testing procedures. Testing and testing procedures shall conform to the requirements of this subdivision (s).
+
+         (1) System testing. System and sub-systems of piping in the plant, previously tested hydrostatically or pneumatically, and equipment interconnected by such piping, will be combined to form total integrated systems as dictated by process and plant operation conditions, and given a pneumatic holding test in the presence of a fire department inspector to assure tightness of the system and its joints. The test pressure for each system shall be the highest pressure possible (above operating pressure) which will not disturb relief valves at their normal settings, nor machinery seals, nor exceed equipment design limitations. Systems to be tested prior to any plant start-up operation shall include (but not be limited to):
+
+            (i) Natural gas pretreatment and liquefaction system
+
+            (ii) Natural gas boiloff, recondenser and recompression system
+
+            (iii) LNG product sendout system
+
+            (iv) LNG loading and unloading systems
+
+            (v) Vent header collection system
+
+            (vi) Instrument air system
+
+            (vii) Nitrogen purge system
+
+            (viii) Cooling water system Test charts and affidavits covering these tests shall be submitted to the fire department.
+
+         (2) LNG containers 15 PSIG or less.
+
+            (i) Initial container tests. The double and single roof containers operating at 15 PSIG or less shall be tested before placing in operation by filling with water to the top of the shell and applying an overload air pressure of 1.25 times the pressure for which the vapor space is designed. Container design shall be such that under such test conditions maximum fill shall not produce a stress in any part of the tank exceeding 80 percent of specified minimum yield strength or 50 percent of the specified minimum tensile strength of the material. In addition, the outer shell and roof test procedure shall be in accordance with Q8.2.1 of API 620, Appendix Q, July, 1973.
+
+            (ii) Inner container retest. Inner containers shall be hydropneumatically tested every five years, or in lieu thereof metal containers may be tested by the Charpy Impact Test method as follows:
+
+               (A) As many samples as the fire department may deem necessary shall be cut from sheets of metal used in the construction of the container including a number of welded samples or other materials from which samples may be obtained are as follows: Concrete, prestressing steel, etc.
+
+               (B) Samples shall be placed in a basket and continuously immersed in LNG contained in the tank.
+
+               (C) Three samples shall be withdrawn in the presence of a representative of the fire department in accordance with the following schedule: At the end of six months, one year, two years, three years, five years and every five years thereafter.
+
+               (D) On being withdrawn, samples shall be maintained at the proper temperature and tested promptly by a laboratory acceptable to the Fire Department. A report of the result in affidavit form shall be submitted to the Fire Department.
+
+               (E) This does not preclude the requirement for a hydropneumatic test at any time should the Fire Department feel the necessity thereof.
+
+         (3) LNG containers. More than 15 psig LNG containers operating at more than 15 psig, associated vaporizers and piping shall be tested hydrostatically, prior to being placed in operation, and every five years thereafter at two times the maximum operating pressure, except that if the resultant test pressure would exceed 300 psi the test pressure shall be reduced to 1 2/3 times the maximum operating pressure.
+
+         (4) Pneumatic pressure testing of containers. The following steps should be observed when performing a pneumatic pressure test:
+
+            (i) Apply to the enclosed space above the water level an air pressure equal to 1.25 times the pressure for which the vapor space is designed.
+
+            (ii) Hold test pressure for 1 hour.
+
+            (iii) Reduce air pressure to equal design pressure.
+
+            (iv) Above the water level, check with soap film, linseed oil, or other suitable material all welded joints, all welds around openings, and all piping joints against which the pneumatic pressure is acting. A visual inspection may be substituted for the soap film inspection of the welded joint if previously checked with liquid penetrant or with a vacuum box. The soap film inspection shall still be made, above the water level, of all welds around openings, all piping joints, and the compression ring welds including the attachment welds to the roof and shell. This shall be required on original test and may be required on retests where leaks are suspected.
+
+            (v) Check the opening pressure or vacuum of the pressure and vacuum relief valves by pumping air or nitrogen above the water level and releasing the pressure, followed by a partial withdrawal of water from the tank.
+
+            (vi) Recheck and retighten the anchor bolts, if provided, after the tank has been emptied of water and is at atmospheric pressure.
+
+            (vii) Apply air pressure, equal to the design pressure, to the empty tank and check the anchor bolts, if provided, and foundation for uplift.
+
+            (viii) Inspect all welded seams in the bottom and the corner weld between the shell and bottom, by means of a soap film and vacuum box test in initial testing.
+
+         (5) Piping.
+
+            (i) Hydrostatic testing and alternates. Piping shall not leak when hydrostatically tested in the presence of a representative of the fire department for one hour at 200 percent (2X) maximum operating pressure or 100 psi whichever is greater. In lieu of a hydrostatic test, cryogenic piping, instrument air piping, derime system and dry chemical systems piping shall not leak when tested pneumatically (in conjunction with a soap and halide test) for one hour, as follows:
+
+               (A) External cryogenic piping (outside of cold box) – 200 percent of design pressure (minimum 100 psi).
+
+               (B) Internal cryogenic piping (inside of cold box) – 150 percent of design pressure, but not less than 200 percent of operating pressure (minimum 100 psi).
+
+               (C) Instrument air piping – 200 percent of design pressure (minimum 100 psi).
+
+               (D) Derime system – 200 percent of design pressure (minimum 300 psi).
+
+               (E) Dry chemical piping – 150 percent of design pressure but not less than 200 percent of operating pressure (minimum 100 psi).
+
+               (F) Transfer lines and arms for LNG – 200 percent of operating pressure (minimum 200 psig).
+
+            (ii) Pneumatic testing-piping. Pneumatic testing shall be conducted as follows:
+
+               (A) Introduce air or dry nitrogen into the system and raise pressure to 50 psi to determine if major leaks exist. Repair any leaks found.
+
+               (B) Release the pressure in the system. Introduce freon up to 15 psi. Admit air or nitrogen and raise the system to the proper test pressure.
+
+               (C) Inspect the system for leaks with a soap solution and then with halide (freon) leak detector. Repair leaks found at this time, and retest.
+
+               (D) Upon completion of steps (A), (B), (C) above apply the pneumatic holding test at the prescribed test pressure for one hour. This test to be witnessed by a representative of the fire department.
+
+               (E) At conclusion of test, piping and associated equipment shall be purged with nitrogen.
+
+               (F) Soap and halide tests may be witnessed or spot-checked by a fire department representative but all pressure tests shall be witnessed.
+
+               (G) Affidavits shall be submitted at the conclusion of each test certifying that each has been carried out according to the requirements of the fire department.
+
+         (6) On-site tests. All on-site tests shall be witnessed by a representative of the fire department and test charts, and affidavits submitted.
+
+         (7) Fire protection systems. Operational tests of all fire protection systems shall be made in the presence of a representative of the Fire Department including but not limited to:
+
+            (i) Yard hydrant systems
+
+            (ii) Sprinkler and deluge systems
+
+            (iii) Fire pumps
+
+            (iv) Dry chemical and foam systems
+
+            (v) Fire detectors and alarm systems
+
+            (vi) Combustible gas detectors and alarm systems
+
+            (vii) Plant fire trucks
+
+            (viii) Emergency shutdown systems as described in § 23-03(q)(7)
+
+            (ix) Electrical and communication systems
+
+            (x) Leak detection and alarms
+
+      (t) Fire protection and safety. This section covers the minimum equipment and procedures required to control, extinguish and minimize the effects of fires and leaks or spills of LNG, flammable refrigerants, liquids or gases and are in addition to previously stated requirements for dikes, impounding areas, blocking valves or other similar provisions.
+
+         (1) Basic fire protection.
+
+            (i) General. The basic fire protection consists of the following:
+
+               (A) Yard hydrant systems
+
+               (B) Water sprinkler and deluge systems
+
+               (C) Dry chemical systems
+
+               (D) Foam systems where required
+
+               (E) Special extinguishing systems where required
+
+               (F) Alarm systems for detecting combustible gas and fires and means for notifying the Fire Department
+
+               (G) Emergency shut-down (see § 23-03(q)(7))
+
+               (H) A trained fire brigade
+
+               (I) A training manual and pre-fire plan
+
+               (J) Control of ignition sources
+
+            (ii) Periodic testing. Operational retests of fire protection systems shall be made annually, witnessed by a representative of the Fire Department.
+
+         (2) Yard hydrant systems. Every LNG facility shall be protected by a system of yard hydrants with hose provided throughout, including marine transfer locations, installed, tested and approved in accordance with the requirements of the Administrative (Building) Code, except, that when it is proven to the satisfaction of the Fire Department that due to the nature of the soil, excessive corrosion of mains will occur, piping fabricated of corrosion resistant material such as asbestos cement pipe may be accepted, but the code requirements for test pressure shall be maintained. Hydrants shall be fed from a minimum 10" looped main. Monitor nozzles shall be located as required by the Fire Department. Systems shall be wet, maintained at a pressure not less than 50 psig at all times, and capable of being raised by the plant fire pumps to a greater operating pressure of at least 125 psig or other pressures designated by the Fire Department.
+
+            (i) Hydrants. Hydrants shall be of the "New York City" type with two 2 1/2" Fire Department male threaded outlets with hydrant spacing according to the Administrative Code, except that hydrants and mains shall not be placed within impounding areas.
+
+            (ii) Water supply. Where the water supply is from salt water, no connection to a city water main is permitted.
+
+            (iii) Fire pumps.
+
+               (A) General. Fire pumps shall be installed in a water pump house and shall be of sufficient capacity to supply all anticipated needs of the water systems required by the Fire Department.
+
+               (B) Power sources. At least two fire pumps having alternate power sources, one of which shall be electrical, shall be provided.
+
+               (C) Fire pump house location. The fire pump house shall be located as remotely as possible and in accordance with the distances as shown in Figure 1, § 23-03(c)(1).
+
+               (D) Fire pump house protection. The pump house shall be of in and/or combustible construction and protected by an outside deluge system designed to maintain the interior temperature at a level no higher than can be endured safely by a pump operator and the pumping and electrical equipment.
+
+            (iv) Salt water supply. When the hydrant supply is salt water, the salt water supply shall be taken from coffer dams and inlets thereto protected by noncorrodible mesh screens capable of screening out all debris over 1/2" in cross-section. Such screens shall be removable for cleaning.
+
+            (v) Drafting site. Adjacent to the salt water pump house, a drafting site shall be maintained for the use of the largest Fire Department pumper. Such site shall be built according to the requirements of the Fire Department. Suction connections shall be 12" plain for superpumper use and 4 1/2" male New York Fire Department threaded for regular land engines.
+
+            (vi) Drafting site manifold. A manifold shall be installed at the drafting site whereby the Fire Department may augment the yard salt water hydrant system by a land engine. The manifold design shall include eight 4 1/2" female swivel inlets and four 3" female swivel inlets (New York Fire Department threads).
+
+            (vii) Fireboat facilities. Provision shall be made for mooring a New York City fireboat as near as possible to the salt water pump house, subject to the approval of the Fire Department and a manifold consisting of six 3 1/2" Fire Department threaded, female swivel, valved connections shall afford the capability of augmenting the yard hydrant system by a fireboat.
+
+            (viii) Land engine facilities. At least two siamese connections, with Fire Department threads, each having two or more 3" female swivel inlets with New York Fire Department threads, shall be provided for use by land engines for any yard hydrant system fed by City water. Owing to variable site conditions the proposed location of these siamese connections shall be submitted to the Fire Department for approval.
+
+            (ix) Check valves. Check valves shall be installed in all inlets to the system.
+
+            (x) Sectional valves. The yard hydrant system shall be provided with sectional valves in a manner satisfactory to the Fire Department, so that it can be utilized even if part of the piping is out of service.
+
+         (3) Water sprinkler and deluge systems. Based on radiation studies noted in § 23-03(c)(1), exterior sprinkler systems shall be provided for buildings which could become untenable or where equipment could be damaged or rendered inoperable in event of a major LNG fire, e.g.: Control house, compressor, fire pump house, fireboat connection, drafting site, and any building or location normally occupied or which requires personnel to be at their posts in emergencies.
+
+            (i) System operation. Each system shall operate automatically on fire detection anywhere in the plant when the ambient temperature on the outer face of the building reaches 135 degrees Fahrenheit. Each system shall be capable of remote manual operation.
+
+            (ii) Tests. Operational and hydrostatic tests (at 200 psi) of all sprinkler, and deluge systems shall be witnessed by a representative of the Fire Department before acceptance.
+
+            (iii) Interior sprinkler system. Buildings in which combustibles or inflammables are stored, including warehouses and garages, shall be protected by an interior sprinkler system, when within 500 ft. of any LNG storage or process equipment.
+
+            (iv) LNG container deluge system. Every LNG container or tank required by these regulations to be bermed shall be protected by a water deluge system completely encircling the roof at the top of the berm. This system shall have a two-fold purpose:
+
+               (A) To reduce the effect of radiated heat to exposures in the event of fire in the tank.
+
+               (B) To reduce the effect of radiated heat from another tank or tanks in a complex.
+
+            (v) Nozzles. The number and arrangement of nozzles and the associated piping shall be subject to the approval of the Fire Department and based on radiation studies. Water supply shall be sufficient, and the pattern of distribution such that the protected equilibrium temperatures will be achieved to the satisfaction of the Fire Department.
+
+            (vi) Water deluge operation. The water deluge systems for LNG containers shall operate automatically when fire detectors react to fire in the tank or any tank or diked area, or the marine transfer area. For other areas, an override permitting a delay not exceeding five (5) minutes may be provided for operation of the water deluge systems. All systems shall be capable of remote manual operation from the control house and near the system.
+
+         (4) Dry chemical systems. In all matters not specifically provided in this subdivision (t), NFPA Std. 17, 1972, shall apply.
+
+            (i) System design.
+
+               (A) Systems shall be designed for a minimum flow rate of .035 pounds per second per square foot and a minimum time of discharge of 30 seconds.
+
+               (B) Systems shall be engineered for each of the areas to be protected and plans filed with the Fire Department together with design and experimental data relative to range and effectiveness.
+
+            (ii) Typical areas. Typical of areas requiring fixed dry chemical systems are:
+
+               (A) LNG tank pump discharge
+
+               (B) Vent gas compressors
+
+                  (C) Vent area of tank roof
+
+               (D) Vaporizer booster pumps
+
+               (E) Liquefaction unit and gas treatment unit
+
+               (F) Vaporizer and regenerator heater areas
+
+               (G) Marine loading arm areas
+
+               (H) Loading and unloading areas
+
+               (I) Run-off ditches and impounding areas
+
+               (J) Other areas requiring fixed dry chemical protection shall be as specified by the fire department, and may be either automatically or manually activated. Hose lines connected to fixed systems shall be provided for manual use, where designated by the fire department.
+
+            (iii) System operation.
+
+               (A) Except as may be otherwise provided for in systems required under § 23-03(t)(7)(iv)(D) and systems required under § 23-03(t)(4)(ii)(J), dry chemical fire extinguishing systems shall be actuated automatically immediately on fire detection without time delay or overrides. On actuation of the dry chemical system a visual and audible alarm signal shall be transmitted which will identify the system in operation. Each system shall be capable of remote manual operation, near the system and at the control house.
+
+               (B) Operational and pneumatic tests shall be made of all equipment in the presence of a representative of the fire department.
+
+            (iv) Piping protection. Buried piping shall be wrapped, cathodically protected and have a minimum earth cover of three (3) feet or be otherwise protected against mechanical injury, fire or contact with LNG. Where piping passes under roads or ramps it shall be suitably protected with steel casings.
+
+            (v) Nozzles. The number and type of nozzles shall be selected to provide complete coverage of the area or zone protected with the required concentration of dry chemical in conjunction with the data required to be submitted under § 23-03(t)(4)(i).
+
+            (vi) Fire truck. (dry chemical). Dry chemical. A dry chemical mobile, self-powered or trailer type with dedicated tractor, fire truck shall be provided for support operation of automatic systems and/or flexibility of operations in controlling LNG or surface Class A, B and C fires throughout the plant, in accordance with the following criteria.
+
+               (A) Truck capacity. The design of the truck and dry chemical unit shall be acceptable to the Fire Department, but shall be not less than 4000 pounds dry chemical capacity. The dry chemical used shall be of the type, and compatible with the discharge rate used in the fixed systems.
+
+               (B) Truck Equipment. The truck shall be outfitted with such equipment that it will be a self-sufficient unit; e.g., hose, nozzles, tools, lights, self-contained breathing apparatus, and extinguishers for handling small fires of the Class A, B and C types.
+
+            (vii) Truck Operator.
+
+               (A) A qualified fire truck operator shall be on duty at all times without exception and the truck shall be stored indoors where it is easily accessible to the assigned personnel.
+
+               (B) All operating employees shall be regularly drilled and trained in the operation of the vehicle and equipment.
+
+               (C) The person in charge of the mobile unit shall obtain a certificate of fitness from the fire department.
+
+            (viii) Truck reservation. The truck shall not be taken off the property except for major repairs in which event the fire department shall be immediately notified.
+
+            (ix) Truck connection to fixed piping. Where the area protected by a fixed system is physically beyond the reach of hand hose lines from the mobile truck, an inlet to the fixed piping system shall be provided whereby the truck dry chemical unit can augment the system.
+
+            (x) Portable extinguishers. Such portable and wheeled dry chemical extinguishers shall be strategically located throughout the plant as may be required by the fire department. A program for monthly inspection and required recharging shall be established.
+
+         (5) Foam systems.
+
+            (i) General.
+
+               (A) For the protection of pipe ditches and other impounding areas of limited size, a high expansion foam system may be installed in addition to dry chemical, with the concurrence of the fire department.
+
+               (B) In all matters not specifically provided in this subdivision (t), NFPA 11A 1970, High Expansion Foam Systems, shall apply.
+
+            (ii) Foam system capability. The foam system shall be capable of producing foam at a 500:1 ratio with discharge at an initial rate to cover the hazard to a depth of 5 feet within two minutes, except where other ratios and/or rates are acceptable to the fire department. A maintenance rate after the initial two minutes, shall be required to maintain a foam blanket over the dike or impounding area, assuming a steady state evaporation rate of 0.01 inch per minute of depth of LNG liquid in the dike or impounding area.
+
+            (iii) Foam system supplies. Sufficient foam concentrate shall be provided to permit continuous operation as per § 23-03(t)(5)(ii) plus a 50 percent reserve. Foam concentrate shall not be stored beyond its shelf life expectancy. Foam concentrate shall be stored and maintained at temperatures between 35 degrees Fahrenheit and 120 degrees Fahrenheit except where a low temperature foam concentrate has been approved.
+
+            (iv) Foam compatibility with dry chemical. The foam concentrate shall be compatible with dry chemical used to suppress LNG fires.
+
+         (6) Special extinguishing systems. Special extinguishing systems such as Halon 1301 or carbon dioxide may be used in certain locations acceptable to the fire department, and also under the conditions set forth by the fire department.
+
+         (7) Alarm systems.
+
+            (i) General.
+
+               (A) Alarm systems shall be designed so that every portion of the area protected is under surveillance by the scanning or detecting devices, and shall be automatic in operation in that the device shall set in motion, without manual assistance, the fire extinguishing systems designated for the area. If it becomes necessary to take any system off automatic; e.g., for repairs or alteration the fire department shall be immediately notified.
+
+               (B) Every alarm system shall be connected to the fire department via a central office, and the fire department shall be notified immediately of the transmission of an alarm. This means that the transmission of an alarm shall be followed by a telephone call from the control house to the fire department by using telephone number assigned by the fire department.
+
+               (C) All alarm systems shall be closed circuit electrical, and fail-safe for pneumatic components.
+
+               (D) Plans for every alarm, detection, and communications system shall be submitted to the fire department for approval, and acceptance of systems shall be subject to an operational test and inspection of the systems by the fire department.
+
+            (ii) Alarm boxes. Manually operated alarm boxes, in the number and locations specified by the fire department, shall be incorporated into the alarm system.
+
+            (iii) Combustible gas detector system.
+
+               (A) General operation. A combustible gas detector system shall be provided which shall sound an audible alarm at the location and a visual and audible alarm at the control house at 25 percent of the lower explosive limit. At 50 percent LEL emergency shutdown shall be initiated automatically placing the plant in "fail-safe" condition with simultaneous transmission of an alarm to the central office. These limits shall apply except as otherwise specified in § 23-03(g)(2)(ii)(A).
+
+               (B) Combustible gas detector locations. Combustible gas detectors shall be provided at the following typical locations (as well as additional locations required by the fire department upon examinations of plans).
+
+                  ((a)) Control and auxiliary room
+
+                  ((b)) Compressor rooms
+
+                  ((c)) Liquefaction equipment
+
+                  ((d)) Gas treating equipment
+
+                  ((e)) Vaporizer booster pumps
+
+                  ((f)) Vent gas compressors
+
+                  ((g)) LNG pumps
+
+                  ((h)) Tank vents
+
+                  ((i)) At base of tank (at least one detector in each quadrant)
+
+                  ((j)) At intervals along runs of LNG piping
+
+                  ((k)) Marine transfer points
+
+                  ((l)) Customer loading stations
+
+                  ((m)) High pressure gas inlets and outlets
+
+            (iv) Fire detection system.
+
+               (A) General operations.
+
+                  ((a)) A fire detection "closed circuit" system utilizing approved devices and equipment shall be provided throughout the plant which will give an audible and visual alarm in the control house, and indicate the location, and an audible alarm throughout the plant.
+
+                  ((b)) Such systems shall automatically actuate the fire extinguishing systems in the area involved, trip the plant to "fail-safe" and transmit an alarm to the fire department via an approved central office connection.
+
+               (B) Fire detectors. Ionization type or ultra violet detectors shall be used in buildings and ultra violet types outdoors. Other types of detectors acceptable to the fire department may also be used.
+
+               (C) Detector locations. Fire detectors shall be provided at the following locations (in addition to others which the fire department may require on examination of plans).
+
+                  ((a)) Control and auxiliary rooms
+
+                  ((b)) Compressor rooms
+
+                  ((c)) Liquefaction equipment
+
+                  ((d)) Gas treating equipment
+
+                  ((e)) Vaporizer booster pumps
+
+                  ((f)) Vent gas compressors
+
+                  ((g)) Vaporizers
+
+                  ((h)) LNG pumps
+
+                  ((i)) Tank vents
+
+                  ((j)) At intervals along runs of LNG piping
+
+                  ((k)) Marine transfer points
+
+                  ((l)) Customer loading stations
+
+                  ((m)) High pressure gas inlets and outlets
+
+               (D) Detector shielding. Where it is impossible or impracticable to shield fire detectors from spurious responses consideration shall be given to the following options which shall be subject to approval of the fire department for each area protected.
+
+                  ((a)) Shielding of detectors
+
+                  ((b)) Installation in pairs, positioned to survey the protected area, and requiring response of both to a source of flame. Response of one detector alone shall only alarm but shall not initiate fire protection system or emergency shutdown.
+
+                  ((c)) Provision of a ten second delay which would require maintenance of the activating light source for ten seconds before initiating the alarm and extinguishing system (this is intended to prevent operation by a lightning flash or momentary reflected light).
+
+         (8) Trained fire brigade.
+
+            (i) General. In every LNG facility a full-time fire brigade shall be maintained consisting of operational employees thoroughly trained in the use of fire extinguishing equipment and tools and in the operation of the facility.
+
+            (ii) (A) Safety director. An individual responsible for overall plant safety shall be employed, whose duties include:
+
+                  ((a)) The correction of fire hazards which are brought to his or her attention in any manner.
+
+                  ((b)) The training of the fire brigade and responsibility for its manpower and efficiency.
+
+                  ((c)) The organization of a training manual which shall emphasize operational safety in every area of the plant.
+
+                  ((d)) Pre-fire planning, details of which shall be developed through liaison and regular combined drills with local fire department units under the supervision of the local deputy chief.
+
+                  ((e)) Maintenance of records of drills, training, lectures, incidents of any emergency nature, and copies of reports forwarded to supervisors. [He] The safety director shall insure that an immediate report [be] is sent by telephone of every fire, leak, or spill, to the Bureau of Fire Prevention and follow with a written report. This shall be in addition to the normal transmittal of an alarm.
+
+                  ((f)) Establishment of a regular maintenance program for fire protection equipment, supervision of all maintenance and repair work to verify compliance with fire regulations. [He] The safety director shall have the authority and duty to stop all work being done in violation of fire department or company safety regulations.
+
+               (B) Safety director selection. The safety director shall be selected on the basis of experience consisting of at least five years experience in a paid fire department, or in industrial fire protection and safety in a gas plant or bulk petroleum terminal or chemical refinery or in fire protection engineering or related fields.
+
+               (C) Safety director's responsibility. The safety director shall be responsible to, and subject only to authority of top management; e.g., vice president status, in the performance of his or her duties.
+
+               (D) Certificate of fitness. The safety director shall obtain a certificate of fitness from the Fire Department qualifying him or her in this capacity and in the knowledge and operation of all protection systems.
+
+            (iii) Deputy safety directors. As many deputy safety directors shall qualify and be certified as are necessary to ensure that a Deputy Safety Director will be on duty at all times when the Safety Director is off duty.
+
+            (iv) Fire brigade.
+
+               (A) The fire brigade on duty at all times shall be selected so that a sufficient number is on duty to operate vital controls, start up fire protection systems should automatic devices fail, transmit alarms, secure the plant, extinguish incipient fires, and place equipment back in service when no longer required. In no case shall less than three [men] persons be on duty at any time.
+
+               (B) A daily roster of members of the brigade in each shift shall be maintained, and every brigade member shall be aware of his or her assigned post and duties.
+
+            (v) Protective clothing. Protective clothing and asbestos suits shall be provided for all members of the brigade on duty. Additional asbestos suits or similar equipment shall be provided, as required by the Fire Department.
+
+         (9) Training manual and pre-fire planning.
+
+            (i) Training manual. A training manual for the fire brigade shall be submitted by the safety director to the Fire Department for acceptance.
+
+            (ii) Composition of manual. The manual shall consist of the following:
+
+               (A) Table of organization showing chain of command and levels of responsibility.
+
+               (B) Drill schedule showing areas of plant, dates and times and showing that all members on duty must participate.
+
+               (C) Standard drill operations, a short description of equipment and manpower requirements, and the objective.
+
+               (D) Pre-fire plans and actions to be taken in the event of fire, explosion or spills; e.g., a major leak in a tank, a leak in an LNG transfer line, a fire at the pier during unloading, or a compressor explosion.
+
+               (E) Provision for first aid training.
+
+               (F) Description of all fire safety systems, alarms, extinguishers, methods of operation and regular maintenance and tests.
+
+               (G) Applicable fire department regulations, re: welding, open flames, smoking, housekeeping, etc.
+
+               (H) Emergency telephone numbers of City Departments, Coast Guard, and company personnel to be called.
+
+               (I) A final color-coded composite drawing showing all fire protection systems. In addition, copies of the drawing shall be provided for all fire department units charged with responsibility relative to the plant.
+
+         (10) Control of ignition sources.
+
+            (i) Smoking, welding and hot work. Smoking, or the carrying of lighted cigars, cigarettes or pipes, and the use of non-process open flames within the plant area shall be prohibited with the following exception:
+
+               (A) Smoking may be permitted in areas designated by the Board of Standards and Appeals under such conditions as it may impose.
+
+               (B) Welding, cutting, and similar operations may be conducted at times and places specifically authorized by the Safety Director. No contractor shall be permitted to proceed with any repairs, alteration, or fabrication except under the authority of the Safety Director who shall see that all required permits or approvals have been obtained from the Fire Department, Department of Buildings, and/or Department of [Ports and Trade] Small Business Services.
+
+               (C) No welding, cutting, or similar hot work, or any repair, alteration, or testing shall proceed except when conforming to the provisions of applicable regulations of the Fire Department, Department of Buildings, and/or Department of [Ports and Trade] Small Business Services.
+
+            (ii) Prohibited use at LNG spills or leaks. The use of equipment, tools, or heating devices which are not approved for use in combustible atmospheres shall not be used in those areas where LNG has spilled or leaked.
+
+         (11) Housekeeping. Good housekeeping for fire prevention, containment and access shall be maintained with emphasis on the following:
+
+            (i) No rubbish, or brush shall be permitted to accumulate.
+
+            (ii) Storage shall be confined to storehouses, closets, lockers, or other approved locations.
+
+            (iii) Roadways shall be kept clear – no parking shall be permitted except in parking areas provided for employees, outside contractors, visitors, etc. Such parking areas shall be in locations acceptable to the Fire Department.
+
+            (iv) Dikes and berms shall be maintained at prescribed heights and contours.
+
+            (v) Employees shall be directed to report all defects, malfunctions, breakdowns, and evidence of deterioration to superiors for correction.
+
+         (12) Repairs, alterations, inspections, and entries. All repairs, alterations, inspections, and entries by personnel into any vessel, tank, or container which has contained any flammable gas or liquid shall be made under inert atmospheric conditions as determined and certified by a Marine Chemist possessing a valid certificate issued by the National Fire Protection Association in accordance with NFPA St. 306-1972, after his or her personal examination and testing. Such certification shall be made daily before start of any work in the vessel.
+
+      (u) Requirements for Plans, Approvals, Affidavits and Documentation. Specific data is required by the Fire Department to support certification of LNG facilities.
+
+         (1) General requirement for permit. No permit or permission to operate an LNG facility to load or unload a container or vessel will be granted until the Fire Department is satisfied through approval inspections and the acceptance of required documentation that the regulations are complied with and no undue hazard exists. "Risk Analysis" of equipment or procedures shall be submitted as directed by the Fire Department.
+
+         (2) Professional engineer-of-record. The owner shall appoint a professional engineer-of-record who shall have authority to act as liaison with the Fire Department, file documents, comply with the Fire Department's requirements, file required reports and exercised resident supervision over construction, repair or modification and operation, during planning and construction and for a period of five years from completion.
+
+         (3) Data submittal schedule. Plans, approvals, affidavits, documentation and other data shall be submitted on a schedule which will permit adequate review by the Fire Department and in accordance with the following paragraphs of this subdivision (u).
+
+         (4) Planning phase data. The following data shall be provided to support review of the Owner's application for approval of a LNG Project with New York City. Fire Department recommendations to the Board of Standards and Appeals, or other authorized agency for approval of this application, will be based on analysis of this data.
+
+            (i) Proposed site plan. A proposed site plan shall be filed with the Fire Department indicating all major characteristics of the site, showing plant buildings, tanks, containers, dikes, process areas, transfer areas, major LNG piping lot lines, shore lines, and exposures within 1500 feet of lot lines. Such aerial photos as the Fire Department may require shall be included. Site plans shall include underground channels, conduits and such, as well as pipelines, drainage ditches and similar channels.
+
+            (ii) Description of facility. A complete description of the facility shall be filed with the proposed site plan. It shall indicate the proposed quantities and methods of receiving, storing, processing and distributing LNG within the facility. A detailed analysis of the product to be stored shall be included. Fire protection, safety and operational control systems shall be indicated with statements as to the basis upon which each were selected.
+
+            (iii) Thermal radiation and vapor dispersion study. A thermal radiation and vapor dispersion study shall be submitted, prepared by recognized experts in thermodynamics selected by the owner and acceptable to the Fire Department. The study should include vapor dispersion characteristics resulting from spills caused by total failure modes of the storage tanks, or equipment or piping. The radiation study should assume an entire tank or group of tanks are involved in a fire and should show equilibrium temperatures within a radius of 1500 feet of the tank, at wind velocities of 0, 30 and 60 mph, at points where R 1500 feet, 1200 feet, 1000 feet, 800 feet, 600 feet, 500 feet, 400 feet, 300 feet, 200 feet and 100 feet from flame surface. Attention shall also be given to the possibility of local overheating and fires in impounding areas.
+
+            (iv) Fire prevention criteria document. A Fire Prevention Criteria Document shall be submitted as a companion document to the Proposed Site Plan and the Description of Facility. It shall contain the criteria by which the owner plans to meet the requirements of this regulation and all other requirements of the Fire Department. The document shall be maintained throughout the plant construction and start-up phase reflecting all major requirements of the Fire Department. Criteria shall be organized by plant and fire protection systems and shall include the following:
+
+               (A) Design and performance criteria
+
+               (B) Test plans and procedures
+
+               (C) Training requirements and plans
+
+               (D) Operational plans and procedures
+
+               (E) Compliance approvals and affidavits
+
+         (5) Design phase data. The following data shall be provided to support review of the Owner's application to build a LNG plant within New York City. Fire Department recommendations to the Department of Buildings or Department of [Ports and Trade] Small Business Services for approval of the building permit(s) will be based on the analysis of this data.
+
+            (i) Construction drawings.
+
+               (A) The Fire Department shall have access to all site plans, construction drawings, equipment drawings, installation drawings, specifications and other data utilized by the Contractor(s) for construction of the plant. The Fire Department shall be provided, on request, copies of the above data required for their reviews and analysis, and plans shall be filed for approval with the Department of [Ports and Trade] Small Business Services or Department of Buildings.
+
+               (B) Copies of venting and relief valve calculations for LNG storage tanks shall be furnished.
+
+               (C) Data on power needs and secondary power capacity to provide power for LNG control, venting, plant shutdown, fire protection systems (including fire pumps).
+
+               (D) Plans showing locations and construction of Fire Department siamese, manifolds, suction connections, hydrant systems, dry chemical systems, water spray systems, foam systems, gas and fire detectors, alarm and communication systems shall be submitted to the Fire Department for acceptance.
+
+            (ii) Process report. A process report shall be filed with the Fire Department (Bureau of Fire Prevention), for review; such report shall contain the following:
+
+               (A) Process information on incoming feed gas treatment, refrigeration, liquefaction, vaporization, deriming, and odorization.
+
+               (B) Basis for approval of all equipment used with reference to the standards of construction, e.g., ASME, ANSI, Chapters 1 and 4 of Title 27 of the Administrative Code.
+
+               (C) Suitability of materials of construction for the pressures and temperatures to be encountered by equipment, piping, valves, and insulation.
+
+               (D) Adequacy of safety features, including temperature and pressure relief, instrumentation and control panels, emergency shutdown and fire shutdown devices, isolation valves, dump tanks, flare stacks, electrical equipment and test procedures.
+
+               (E) Plot plan showing location of each piece of equipment, valves, piping, safety devices, instrumentation, etc., and distances between equipment, tank, property lines, open flames, etc.
+
+               (F) Flow charts which shall show all equipment, safety devices and instrumentation with pressure and temperature at all points to be indicated.
+
+               (G) Equipment summary sheets or charts for each piece of equipment, safety and relief device, valve, piping, etc., indicating its function, operating pressure and temperature, material of construction, insulation and safety devices.
+
+               (H) Relief device calculations shall be included as well as supporting ASME and manufacturers' affidavits.
+
+               (I) A final color-coded composite line drawing showing all equipment in the fire protection systems. In addition, copies of the drawing shall be provided for all fire department units charged with responsibility relative to the plant.
+
+            (iii) Fire protection report. A manual for training the fire brigade shall be submitted for acceptance by the Fire Department. The data manual shall designate and include the duties of the Safety Director, Deputy Safety Director, fire brigade personnel. It shall describe the functions, operations, maintenance and tests required for all fire protection and prevention in the facility. A final color-coded composite line drawing showing all equipment in the fire protection systems shall be provided. Copies of the drawing will be provided to all Fire Department units charged with responsibility relative to the plant.
+
+         (6) Design compliance, approvals and affidavits. Affidavits shall be provided by the Company, the architectural and engineering firm and the engineer-of-record that the plant design is in compliance with the following:
+
+            (i) The design conforms to NFPA 59A, 1975, in all respects not covered herein.
+
+            (ii) Construction is in accordance with the New York City Building Code, Chapter 1 of Title 27 of the Administrative Code, and any applicable Board of Standards and Appeals Resolution.
+
+            (iii) All compressed gas vessels (air, nitrogen, etc.) shall conform to Subchapter 17 of Chapter 4 of Title 27 of the Administrative Code and any applicable resolution of the Board of Standards and Appeals.
+
+            (iv) All refrigeration equipment shall conform to the requirements of Chapter 1 of Title 27 of the Administrative (Building) Code, with the provision that where mixtures of flammable gases or liquids not listed therein are used as refrigerants, approval from a nationally recognized testing laboratory shall be submitted with a request for acceptance. Refrigerant vessels shall conform to the ASME code and refrigerant piping, fittings and relief devices shall conform to ANSI B31.5 or ANSI B31.8.
+
+            (v) All pipe joints shall be welded by certified welders and radiographed. Certifications of welders and welds shall be filed with the Fire Department.
+
+            (vi) Electrical lighting, wiring, equipment and devices conform to the New York City Electrical Code, Chapter 3 of Title 27 of the Administrative Code.
+
+            (vii) LNG storage tank is to be protected against lightning in accordance with the New York City Electrical (Administrative) Code and NFPA-78.
+
+            (viii) All materials are suitable for the temperature and pressure involved.
+
+            (ix) All equipment and devices (including LNG pumps) are of approved type (approved by the Board of Standards and Appeals or other acceptable nationally recognized testing organization, such as Underwriters Laboratories, Factory Mutual, Factory Insurance Association, U.S. Coast Guard, etc.).
+
+            (x) Lubricating oil tanks shall conform to the requirements of Chapter 1 of Title 27 of the Building (Administrative) Code, and the regulations of the Fire Department.
+
+            (xi) Color-coding of piping systems shall meet the requirements of the Fire Department.
+
+         (7) Construction and plant start-up phase data. The following data is required by the Fire Department to assure that all construction meets the requirements for safe operation and that trained personnel and adequate procedures are available for plant operation. No permit for start-up operations shall be given until these are complied with.
+
+            (i) Test data. The results of operational, hydrostatic and pneumatic test shall be submitted in the form of test charts and/or reports signed and dated by the company representatives and Fire Department representative witnessing the tests.
+
+            (ii) Construction approvals and affidavits. Evidence of Approval and Affidavits shall be provided by the resident engineer that all construction has been accomplished in accordance with the design requirements stated in § 23-03(u)(6).
+
+            (iii) Data required prior to cooldown and start-up (debugging stage).
+
+               (A) A survey of the plant by a licensed surveyor shall be filed with the Fire Department showing the location of the LNG tanks, all equipment and buildings and indicating that all distance and topographical requirements have been complied with.
+
+               (B) Evidence of approval by the Department of [Ports and Trade] Small Business Services or Department of Buildings, whichever has jurisdiction, shall be submitted to the Fire Department showing that the LNG tanks, berms and dikes have been constructed according to approved plans and the requirements of all agencies having authority and jurisdiction. Supporting affidavits shall be submitted by the owner, the engineer-of-record, and the contractors stating that the tanks have been so constructed and are suitable and safe for the purpose intended.
+
+               (C) An affidavit shall be submitted by the owner and the engineer-of-record that all requirements of the Fire Department and any other regulatory agency have been complied with.
+
+               (D) At least two responsible employees on each shift shall obtain certificates of fitness from the Fire Department to supervise the operation of the facility. Such employees shall be selected on the basis of knowledge and experience in LNG plant operation, and fire protection systems, refrigeration systems, processing, maintenance and repair, and transfer operations.
+
+         (8) Operations phase data requirements. The following data is required prior to approval for the initial operating permit by the Fire Department and as applicable for renewal.
+
+            (i) Permit. An annual Fire Department permit shall be obtained, the fee to be in accordance with § 27-4027 of the Administrative Code.
+
+            (ii) As-built approved plans. The Fire Department shall be provided with a copy of the as-built approved plans which shall include:
+
+               (A) Plot plans
+
+               (B) Tank plans
+
+               (C) Process area plot plan
+
+               (D) Fire protection systems plans showing yard hydrants and mains, dry chemical, water deluge, sprinklers, foam systems, water supplies, pumps, combustible gas detection systems and other alarm systems, underground piping, channels, conduits, ducts or sewers.
+
+               (E) Plans showing structural features
+
+               (F) As-built survey
+
+               (G) Radiation and vapor dispersion studies
+
+            (iii) Reports.
+
+               (A) A semi-monthly progress report shall be submitted to the Fire Department by the engineer-of-record after the start of operations indicating the status of the plant, any deviations from normal operations, incidents, malfunctions, etc.
+
+               (B) A quarterly report shall be submitted to the Fire Department by the owner and engineer-of-record indicating alterations and changes at the plant and the reasons therefor, malfunctions and the reasons therefor, and an instrumentation study and analysis. The semi-monthly reports shall be continued until the Fire Department is satisfied that they are no longer necessary.
+
+            (iv) Operating data and test.
+
+               (A) An affidavit shall be submitted indicating maximum density of LNG to be stored.
+
+               (B) A program shall be submitted for the periodic Charpy testing of samples immersed in the LNG as required by § 23-03(s)(2)(ii).
+
+               (C) Procedures shall be submitted for acceptance of all purging operations. Such procedures shall be incorporated in the operating manual.
+
+. . . . . . . . . .
+
+      (x) References. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - ACI – American Concrete Institute
+      - 
+    * - 514-59
+      - Recommended practice for Measuring, Mixing and Placing of Concrete
+    * - 525-63
+      - Minimum Requirements for Thin-Section Precast Concrete Construction
+    * - 318.71
+      - Building Code Requirements for Reinforced Concrete, with Modifications under BS&amp;A, Cal. No. 239-72BCR
+    * - 506-66
+      - Recommended Practice for Shotcreting
+    * - ACI
+      - Committee Report 344 – Design and Construction of Circular Prestressed Concrete Structures
+    * - 311-64
+      - Recommended Practice for Concrete Inspection
+    * - ANSI – American National Standard Code for Pressure Piping (American Society of Mechanical Engineers)
+      - 
+    * - B-31.3
+      - Petroleum Refinery Piping – 1966
+    * - B-31.5
+      - Refrigeration Piping Systems – 1967
+    * - B-31.8
+      - Gas Transmission and Distribution Piping Systems – 1968
+    * - API – American Petroleum Institute
+      - 
+    * - 620
+      - Recommended Rules for Design and Construction of Large, Welded, Low-Pressure Storage Tanks
+    * - App. Q
+      - Low-Pressure Storage Tanks for Liquefied Natural Gas – July 1973
+    * - 1104
+      - Standard for Welding Pipelines – 1968
+    * - 6D
+      - Standard for Pipeline Valves – 1968
+    * - ASME – American Society of Mechanical Engineers
+      - 
+    * - Boiler and Pressure Vessel Code
+      - 
+    * - Section VIII – Unfired Pressure Vessels – 1971
+      - 
+    * - Section IX – Qualification of Welders – 1971
+      - 
+    * - MSS-SP-6  Manufacturers Standardization Society of the Valve and Fitting Industry – Standard Practice – 1963
+      - 
+    * - NFPA – National Fire Protection Association – Standards
+      - 
+    * - 11A
+      - High Expansion Foam Systems – 1970
+    * - 17
+      - Dry Chemical Systems – 1972
+    * - 37
+      - Installation and Use of Stationary Combustion Engines and Gas Turbines – 1970
+    * - 59A
+      - Production, Storage and Handling of Liquefied Natural Gas – 1975
+    * - 68
+      - Guide for Explosion Venting – 1974
+    * - 69
+      - Guide for Explosion Prevention Systems – 1973
+    * - 78
+      - Lightning Protection Code – 1968
+    * - 306
+      - Control of Gas Hazards on Vessels – 1972
+~
+
+ 
+
+
+
+
+
+
+*§ 4833-01 Storage of Explosives and Special Effects in Pre-Existing Facilities.* ::
+
+
+(a) Scope. This section consolidates the New York City Fire Prevention Code and former Fire Department rules in effect on June 30, 2008, that are applicable to the design and installation of explosive installations in pre-existing facilities.
+
+(b) Definitions. [Reserved.]
+
+(c) General Provisions. Pre-existing facilities for storage of explosives the design and installation of which would not be allowed or approved under the Fire Code, but which, pursuant to FC102.3 and R102-01, may be continued with respect to such explosive and specials effect material installations under the applicable laws, rules and regulations in effect prior to the Fire Code, shall continue to comply with the provisions of such laws, rules and regulations, including former Administrative Code § 27-4213, and former Fire Department rule 3 RCNY § 14-04, until such time as such facilities may be required to comply with the Fire Code and the rules with respect to their design and installation.
+
+(d) Explosive Storage.
+
+   (1) Former Fire Department Rule 3 RCNY § 14-04.
+
+      § 14-04 Specifications for Explosive Magazines. All magazines shall be constructed in accordance with the following specifications . . . . .
+
+      (a) Hinges. Magazine door hinges are to be extra heavy 10-inch galvanized tee hinges, minimum gauge 148 with brass pins. Hinges are to be attached with five 5/16 round head through bolts, two bolts in hinge pad, three bolts in hinge wing.
+
+      (b) Hasp. Hasp is to be made of steel bar 1/2 inch by 2 inch, 18 inch minimum length, fastened to magazine door, center with five 5/16-inch round head through bolts on six-inch centers. Hasp bar is to be slotted to accommodate 1/2-inch "I" bolt lock loop. All lock staples are to be replaced with 1/2-inch "I" bolt, through bolted into magazine wall.
+
+. . . . . . . . . .
+
+      All exposed bolts inside of magazine are to be counter sunk or wood covered.
+
+(e)  Television Special Effects.
+
+   (1) Former Administrative Code § 27-4213.
+
+      § 27-4213 Television special effects.
+
+      a  The provisions of this section shall apply to the [use, storage, maintenance and transportation] storage and use of television special effects in connection with television programs.
+
+      b. Definitions. For the purposes of this section:
+
+         1. The term "television studio" shall mean any place in a building from which television broadcasts are made or rehearsed and which contains television equipment, scenery or properties, fixtures or other special equipment used for production of television broadcasts whether or not the use of motion picture film is an integral part and with or without seating area for an audience. A television studio may include, but shall not be limited to, front and rear screen projection, film recording, kinescope recording, cutting and editing rooms, developing, screening and viewing rooms, storage rooms and telecine rooms. The televising of special events, such as news, sports, conventions, or special events of a generally similar nature in any place or building shall not constitute such place or building a television studio.
+
+         2. The term "television special effect" shall mean any of the materials listed in subdivision c of this section and, in addition, any item, material or property of an explosive, flammable, combustible or dangerous nature approved by the commissioner as a television special effect.
+
+         3. The term "flash compound" shall mean a chemical mixture with a burning rate and gas producing pressure rate of lesser degree than commercial photographers' flash powder.
+
+         4. The term "flash producing paper" shall mean a paper partially nitrated or treated with mixed acids and treated with a retardant to diminish its rate of burning.
+
+         5. The term "flash producing cotton" shall mean ordinary cotton partially nitrated.
+
+         6. The term "matches" shall mean matches, other than safety matches, of a type approved by the commissioner.
+
+         7. The term "television spark producing device" shall mean a wood stick about one-eighth inch in diameter and seven and one-half inches long dipped to an extent of about four and one-half inches. Each stick shall hold either about five grams of a binder mixture, iron filings, aluminum and barium nitrate, or about two grams of a binder mixture, aluminum, barium nitrate and potassium perchlorate.
+
+         8. The term "toy pistol caps" shall mean toy pistol caps made and packed in compliance with the requirements of the federal department of transportation.
+
+         9. The term "electric ignitors" shall mean a type approved by the commissioner, and shall contain a compressed powdered metal and an electrical bridge device with a chemical igniting compound of pressed powder with a small amount of oxidiser not exceeding five grains surrounding the bridge.
+
+         10. The term "safety fuse or quick match" shall mean a fuse of a type approved by the commissioner, and shall consist of a very fine core of powder surrounded by wound paper and/or yarn tape and pitch in such a manner so that the fuse will burn progressively.
+
+. . . . . . . . . .
+
+         12. The term "approved carrying case" shall mean a container clearly marked "TV special effects" and conforming to the following specifications: Container shall be constructed of .070 inch vulcanized fibre, with fibre sections formed under heat, riveted together and all exposed edges banded with metal edging. The exterior corners on the cover and bottom shall be fitted with metal corner reinforcing pieces, and the construction shall conform to standards and practices of fibre case manufacture. The inside dimensions shall be sixteen inches long, eight inches deep and six inches wide, with variances of one-half inch. Such container shall be fitted with two or more spring loaded hinges, capable of effecting a tight closure and exert enough pressure to prevent the cover remaining in open position when released. The closure pressure of the combined hinges shall not exceed ten (10) pounds. The cover shall close freely without any binding action with spacers placed under the lower half of the spring hinge. The inside top panel of the cover shall be lined with one-eighth inch asbestos held in place with a fire resisting adhesive. A fibre panel covering approximately three-fourths inch of the asbestos around the inside perimeter of the cover shall be riveted to the inside of the cover as a fireproof gasket between the cover and the four top edges of the box body. Apertures of four inches by four inches shall be placed at each end and fitted with flame repellant wire mesh barriers, so constructed as to allow a one-half inch separation between the two panels of twenty mesh wire screen, and such screens shall be of stainless steel, cadmium plated copper or brass mesh. The barrier assemblies shall be secured with 6/32 roundhead machine screws, so constructed as to permit removal of mesh for cleaning or replacement. The carrying strap shall be one inch woven webbing attached to the ends of container by free floating "D" rings; the strap shall be capable of supporting a carrying weight of thirty pounds. No varnish, paint, or treatment of any kind shall be applied to the fibre or asbestos portions of container.
+
+         13. The term "central storage" shall mean the storage of television special effects in a room which conforms to the following specifications: Such room shall be enclosed by noncombustible partitions having a minimum fire resistive rating of at least a one hour, and a roof having a fire resistive rating of at least a one and one-half hours, and shall be used for no other purpose. The location of such storage room shall be approved by the commissioner, and shall not be located below street level. Door openings shall be provided with self-closing fireproof doors, having at least a one hour fire resistive rating, and marked "Central storage--television special effects," in letters not less than four inches high. Such rooms shall be adequately ventilated to the outer air, with thin glass windows having an area of at least one-half square inch per cubic foot of room capacity. [and] There shall be a distance of at least fifty feet from any window in such rooms to any window or other building opening [exposed thereby and not in the same plane and giving] on a different wall of the same building or on another building, and a distance of at least twenty-five feet from any window in such rooms to any fire escape on the same [or higher level, and] wall. Such rooms shall be provided with one sprinkler head for each eighty square feet of floor space. Metal racks shall be provided for the storage of containers, and all compressed gases shall be stored in an upright position. Such rooms shall be constructed only on fireproof floors having a minimum fire resistive rating of at least one and one-half hours and adequate to sustain the proposed loads, or shall be constructed directly on the ground. Where there are practical difficulties in conforming strictly to the provisions herein, the commissioner may vary or modify such provisions to such extent as such commissioner may deem necessary [in] for the premises consistent with public safety.
+
+         14. The term "centrally stored" shall mean stored in a place of central storage as defined in paragraph thirteen of this subdivision.
+
+      c. The following materials are approved as television special effects and, notwithstanding any other provisions of the code, but subject only to compliance with the provisions of this section, may be centrally stored[, and/or may be maintained, stored] and used in television studios . . . . .
+
+         1. Flash compound.
+
+            (a) A maximum of thirty-six ounces may be centrally stored with not more than two ounces in any federal department of transportation approved container and with all such containers kept in approved carrying cases.
+
+            (b) A maximum of four ounces may be [maintained] stored for use, with not more than sixty grains in any plastic vial or any federal department of transportation approved container and with all such vials or containers kept in approved carrying cases.
+
+         2. Flash producing paper.
+
+            (a) A maximum of one hundred square feet may be centrally stored with all such material enclosed in metal foil or other material approved by the commissioner and all kept in approved carrying cases.
+
+            (b) A maximum of twenty square feet may be [maintained] stored for use when enclosed in metal foil or other material approved by the commissioner and kept in approved carrying cases.
+
+         3. Flash producing cotton.
+
+            (a) A maximum of two ounces may be centrally stored with not more than one-half ounce in a plastic container and all such plastic containers kept in approved carrying cases.
+
+            (b) A maximum of one-half ounce may be [maintained] stored for use, with all such material in a plastic container and such plastic container or containers kept in approved carrying cases.
+
+         4. Volatile flammable oils and flammable mixtures.
+
+            (a) A maximum of five gallons of each may be centrally stored in safety cans of a type approved by the commissioner.
+
+            (b) A maximum of one gallon of each may be [maintained] stored for use in safety cans of a type approved by the commissioner.
+
+         5. Acetylene gas.
+
+            (a) Not more than twenty-four cylinders not exceeding one hundred forty cubic inch capacity each approved by the federal department of transportation may be centrally stored.
+
+            (b) A maximum of six such cylinders may be [maintained] stored for use.
+
+         6. Household gas.
+
+            (a) A maximum of twelve cylinders not exceeding five hundred cubic inch capacity each, approved by the federal department of transportation, may be centrally stored.
+
+            (b) A maximum of six such cylinders may be [maintained] stored for use.
+
+         7. Propane gas.
+
+            (a) A maximum of six propane cylinders, interstate commerce commission designation no. 4B240 or equivalent, not exceeding twenty pounds capacity each, may be centrally stored.
+
+            (b) A maximum of two such cylinders may be [maintained] stored for use.
+
+         8. Butane gas.
+
+            (a) A maximum of twenty-four cylinders not exceeding thirty cubic inch capacity each, by the federal department of transportation, may be centrally stored.
+
+            (b) A maximum of six such cylinders may be [maintained] stored for use.
+
+. . . . . . . . . .
+
+         10. Matches.
+
+            (a) A maximum of one thousand matches may be centrally stored in one or more approved carrying cases.
+
+            (b) A maximum of fifty matches may be [maintained,] stored for use[,] in approved carrying cases.
+
+         11. Spark producing device.
+
+            (a) A maximum of one hundred forty-four such sticks may be centrally stored in separate hardened fibre boxes, all contained in approved carrying cases.
+
+            (b) A maximum of thirty-six such sticks may be [maintained,] stored for use[,] in hardened fibre boxes all contained in approved carrying cases.
+
+         12. Toy pistol caps.
+
+            (a) A maximum of two thousand five hundred such caps in approved carrying cases may be centrally stored.
+
+            (b) A maximum of five hundred such caps may be [maintained,] stored for use[,] in approved carrying cases.
+
+         13. Electric ignitors.
+
+            (a) A maximum of four hundred such ignitors may be centrally stored in approved carrying cases.
+
+            (b) A maximum of one hundred fifty such ignitors may be [maintained,] stored for use[,] in approved carrying cases.
+
+         14. Safety fuse or quick match.
+
+            (a) A maximum of two hundred feet of each type may be centrally stored with not more than two hundred feet of either type or combination of the two types kept in approved carrying cases.
+
+            (b) A maximum of twenty feet of each type may be [maintained,] stored for use[,] with not more than twenty feet of either type or combination of the two kept in approved carrying cases.
+
+         15. Blank cartridges. A maximum of one hundred boxes of such cartridges, in approved carrying cases, may be centrally stored [or maintained] for use.
+
+         16. Slow burning smoke producing compound.
+
+            (a) A maximum of twelve pounds may be centrally stored in approved carrying cases.
+
+            (b) A maximum of two pounds may be [maintained,] stored for use[,] in approved carrying cases.
+
+. . . . . . . . . .
+
+      g. Television special effects in quantities, as provided in subdivision c of this section may be [maintained] stored for use[,] in cabinets in television studios provided such television special effects are contained in approved carrying cases, when required in subdivision c of this section, and stored in cabinets at such location in the studio as may be approved by the commissioner, in no event to be below street level and in accordance with the following:
+
+         1. Said location in theatre type television studios shall be as far as practicable from the audience area and in all other television studios are far as practicable from the performing area.
+
+         2. Cabinets shall be clearly marked "TV special effects" and be constructed either of one-fourth inch asbestos board on a framework of one and one-fourth by one and one-fourth by one and one-eighth inch angles or shall be made of 18 United States gauge metal double walled with one and one-half inch air space. Racks or shelves shall be of metal so arranged that cylinders of compressed gas shall be secured in an upright position.
+
+         3. Doors shall be so arranged as to remain normally closed and shall be provided with catches at three points.
+
+         4. Cabinets shall be provided with a vent to the outside of building. Vent shall have a minimum area of one-half square inch per cubic foot of cabinet capacity.
+
+         5. Vent flues inside of building shall be of a construction equivalent to 18 United States gauge metal, covered with one inch of heat insulating material.
+
+         6. Each cabinet shall be provided with an automatic sprinkler connected to an adequate source of water supply.
+
+
+
+
+
+
+*§ 4834-01 Storage of Flammable and Combustible Liquids in Pre-Existing Facilities.* ::
+
+
+(a) Scope. This section consolidates the New York City Fire Prevention Code and former Fire Department rules in effect on June 30, 2008, that are applicable to the design and installation of flammable and combustible liquid installations in pre-existing facilities.
+
+(b) Definitions. The following terms shall, for purposes of this section and as used elsewhere in Chapter 48 of the rules, have the meanings shown herein:
+
+   Apartment. An apartment, as defined in subdivision fifteen of section four of the multiple dwelling law. (Fire Prevention Code, former Administrative Code § 27-4002(1a))
+
+   Bulk oil storage plant. A building, shed, enclosure or premises, or any portion thereof, in which petroleum or coal tar, or the liquid products thereof, are stored or kept for sale in large quantities. (Fire Prevention Code, former Administrative Code § 27-4002(31))
+
+   Combustible mixture. A liquid or mixture having a closed-cup flashpoint at or above a temperature of one hundred degrees Fahrenheit, except that, for purposes of transportation, a combustible mixture shall mean a liquid or mixture defined as a combustible liquid by the United States Department of Transportation. (Fire Prevention Code, former Administrative Code § 27-4002(10))
+
+   Diesel fuel oil. Any liquid, used as a motor fuel which does not emit a flammable vapor below a temperature of one hundred degrees Fahrenheit when tested in a Tagliabue open cup tester. (Fire Prevention Code, former Administrative Code § 27-4002(10b))
+
+   Flammable mixture. A liquid or mixture having a closed-cup flashpoint at a temperature below one hundred degrees Fahrenheit, except that, for purposes of transportation, a flammable mixture shall mean a liquid or mixture defined as a flammable liquid by the United States Department of Transportation. (Fire Prevention Code, former Administrative Code § 27-4002(22))
+
+   Essential oil. An oil used for flavoring or perfuming purposes. (Fire Prevention Code, former Administrative Code § 27-4002(13))
+
+   Fire retarding material. Asbestos board in two layers, each one-fourth inch in thickness, the second layer breaking joints in all directions with the first, or plaster boards cocoa fibre filled, covered with lap jointed metal not less than 26 B. &amp; S. gauge in thickness, and any other material that has successfully passed the one hour fire test prescribed by the industrial board of appeals of the state labor department on the twenty-ninth day of October, nineteen hundred fourteen. (Fire Prevention Code, former Administrative Code § 27-4002(16))
+
+   Fuel oil. Any liquid mixture, substance or compound, derived from petroleum, which does not emit a flammable vapor below a temperature of one hundred twenty-five degrees Fahrenheit, when tested in a Tagliabue open cup tester. (Fire Prevention Code, former Administrative Code § 27-4002(18))
+
+   Garage. A building, shed or enclosure, or any portion thereof, in which a motor vehicle other than one the fuel storage tank of which is empty, is stored, housed or kept. (Fire Prevention Code, former Administrative Code § 27-4002(19))
+
+   Kerosene. Any liquid product of petroleum, commonly used for illuminating purposes, which does not emit a flammable vapor below a temperature of one hundred degrees Fahrenheit, when tested in a Tagliabue open cup tester. (Fire Prevention Code, former Administrative Code § 27-4002(23))
+
+   Motor fuel. Gasoline, diesel fuel oil or other flammable or combustible liquids or mixtures used as fuel in the operation of motor vehicles, motorcycles, motor boats and aircraft. (Fire Prevention Code, former Administrative Code § 27-4002(26a))
+
+   Oil and fat or fat and oil. Any oil, fat or grease, of animal, vegetable or mineral origin, except essential oils. (Fire Prevention Code, former Administrative Code § 27-4002(29))
+
+   Vault. A covered excavation or chamber, below the street level, with masonry walls and roof, constructed outside the foundation walls of a building, and with but one entrance, fitted with a self-closing fireproof door. (Fire Prevention Code, former Administrative Code § 27-4002(42))
+
+   Volatile flammable oil. Any oil or liquid that will generate a flammable vapor at a temperature below one hundred degrees Fahrenheit when tested in a Tagliabue open cup tester. (Fire Prevention Code, former Administrative Code § 27-4002(43))
+
+(c) General Provisions. Pre-existing facilities with flammable and combustible liquid installations the design and installation of which would not be allowed or approved under the Fire Code, but which, pursuant to FC102.3 and R102-01, may be continued with respect to such flammable and combustible liquid installations under the applicable laws, rules and regulations in effect prior to the Fire Code, shall continue to comply with the provisions of such laws, rules and regulations, including former Administrative Code §§ 27-4053, 27-4055, 27-4065, 27-4066, 27-4069, 27-4070, 27-4094, 27-4227, 27-4231 and 27-4265, and former Fire Department rules 3 RCNY §§ 8-01, 8-02, 20-07, 21-05, 21-06, 21-17, 28-01 and 28-04, as applicable, until such time as such facilities may be required to comply with the Fire Code and the rules with respect to their design and installation.
+
+(d) Flammable Liquid Manufacture, Storage and Use.
+
+   (1) Former Administrative Code § 27-4065.
+
+      § 27-4065 Manufacture.
+
+. . . . . . . . . .
+
+      b. Restrictions. No permit for the manufacture of flammable mixtures shall be issued for any building:
+
+         1. Which is situated within fifty feet of the nearest wall of any building occupied as a school, hospital, theatre or other place of public amusement or assembly;
+
+         2. Where the building does not comply with the requirements of the building code regulating high hazard occupancies for buildings erected after the sixth day of December, nineteen hundred sixty-eight; or where a building or building section erected prior thereto is not fully equipped with an approved automatic sprinkler system; or where the building is occupied as a multiple dwelling, dwelling, school, theatre or other place of public amusement or assembly;
+
+         3. Which is artificially lighted by any means other than electricity;
+
+         4. Where drugs, cigars, cigarettes or tobaccos are kept for sale;
+
+         5. Where dry goods or other materials of a highly flammable nature are manufactured, stored or sold;
+
+         6. Where matches, rosin, hemp, cotton or any explosives are stored [;as]; or sold.
+
+. . . . . . . . . .
+
+      e. Drawing-off pipe. The drawing-off pipe shall be encased in and surrounded by either four inches of Portland cement concrete or eight inches of brick masonry up to the level of the floor on which the compartment containing the mixing tank is located.
+
+      f. Filling pipes. The filling pipe shall be at least two inches and not larger than four inches nominal inside diameter, and shall be laid at a descending grade to the tank, terminating within six inches of the bottom of the tank. The intake of a filling pipe shall be located outside of any building and not less than ten feet from any door, subway grating or basement opening, and in a heavy metal box, which shall be sunk flush with the sidewalk at the curb level, or at some other location offering equal facilities for the filling of the tank and fitted with a heavy metal cover, which shall be liquid tight and kept closed when not in use. The filling pipe shall be closed at the intake by a cock or valve fitted with a coupling for attaching to the tank truck, and with a liquid tight cap or plug to close the opening when not in use. The filling pipe shall be provided with a screen made of one thickness of 20-mesh brass wire gauze, placed immediately below the filling cock or valve. Where a storage system for flammable liquids and a storage system for diesel motor fuel oil and/or fuel oil are to be used on the same premises, the terminal of the diesel motor fuel oil and/or fuel oil fill pipe shall be provided with a left handed thread and the fill pipe fitting shall be of a different size than that required for the fill pipe to tanks containing flammable liquids. In lieu of the foregoing, fill boxes may be of a type for which a certificate of approval shall have been issued by the commissioner or previously approved by the board of standards and appeals, unless such approval is amended or repealed by the commissioner, and shall have cast in its cover an identifying name or symbol to differentiate between fuel oil for heating and diesel oil as motor fuel.
+
+      g. Lighting. It shall be unlawful to install any system of artificial lighting other than electric lighting in any premises used for the manufacture of flammable mixtures. Such lighting shall be installed in accordance with the requirements of the electrical code. All electric switches and plugs shall be placed at least four feet above the floor.
+
+      h. Mixing tank. The mixing tank shall be located in a separate compartment built upon suitable foundations, having the walls, floor and roof constructed of Portland cement at least six inches thick, or of brick masonry, at least two inches thick, the brick to be laid in and covered by Portland cement mortar. Each such tank shall be filled either by means of a pump or an approved pressure system, and the tank shall be kept closed except when the ingredients entering into the manufacture of the flammable mixture are being placed therein. Each compartment wherein a mixing tank is located shall be equipped with self-closing fireproof doors and windows.
+
+      i. Piping, generally. Each storage tank shall be provided with a filling pipe, a drawing-off pipe and a vent pipe; provided that tanks installed as part of a hydraulic storage system shall not be required to have a vent pipe. All pipes and fittings shall be of galvanized steel, designed to withstand a hydrostatic pressure test of at least one hundred pounds to the square inch. All screw joints shall be made with a piping compound of a type for which a certificate of approval shall have been issued by the commissioner or previously approved by the board of standards and appeals, unless such approval is amended or repealed by the commissioner. In lieu of galvanized steel fittings, galvanized malleable iron fittings, with one hundred and fifty p.s.i. rating, may be used on any system that is provided with a leak detection system satisfactory to the fire commissioner such as probe holes, leak detection cables or other devices installed around the perimeter of the tank installation, designed for monitoring and that will be subjected to a hydraulic pressure test with water or product at ten p.s.i. in the presence of a fire department representative, every ten years. Brass trimmed specialty valves and brass control valves may be used in underground service lines and portions of suction lines within pump housing.
+
+. . . . . . . . . .
+
+      m. Tanks. [Each tank used for the storage of volatile flammable oil shall be:]
+
+         1. [Of] Each tank used for the storage of volatile flammable oil shall have a capacity not exceeding four thousand gallons [each] when equipped with a double complete shell or when embedded or encased in twelve inches of concrete to the level of the top of the tanks.[ and in no case shall storage] Storage on a premises, including all tanks, shall not be in excess of twenty thousand gallons. [, and tanks] Tanks shall be of a type acceptable to the commissioner and constructed of American tank or carbon steel of the open hearth process[, of]. Tanks designed to contain no more than five hundred fifty gallons shall be at least one-quarter of an inch in thickness.[ for tanks not exceeding five hundred fifty gallons and for tanks] Tanks designed to contain over five hundred fifty gallons shall be at least one quarter of an inch in thickness for shell and five-sixteenths of an inch in thickness for heads, all welded with flanged and dished heads, with two inch lap weld with no tank openings piercing seams and all tank openings shall be provided at the top.[; at] At the time of installation all storage tanks shall bear a permanently affixed plate, spot welded or equivalent, having the name of tank manufacturer, the thickness of metal and capacity of tank. In lieu of the foregoing tank specifications, other tank construction acceptable to the commissioner may be permitted consistent with public safety, and before being covered or used together with all piping shall be tested hydrostatically to a pressure of thirty pounds per square inch, except discharge lines under pressure shall be tested to one hundred pounds per square inch or one and one-half times the maximum working pressure, whichever is greater, for a period of thirty minutes by the installer,[ in the presence of and witnessed by a representative of the fire department,] and shall not show any leakage. Such testing shall be conducted in the presence of a representative of the department.
+
+         2. [Thoroughly] Each tank used for the storage of volatile flammable oil shall be thoroughly cleaned and coated on the outside with two coats of red lead and with hot tar, asphalt or other rust resisting material, except that tanks equipped with a double complete shell shall be protected against corrosion to the satisfaction of the department and have a leak-detecting device acceptable to the commissioner[, and]. Each tank shall be set on a solid foundation approved by the department of buildings and except for double shell tanks shall be embedded or encased to the level of the top of the tank in at least twelve inches of concrete, having a minimum compressive strength of twenty-five hundred pounds per square inch at twenty-eight days. [Tanks] Each tank shall be covered with a structurally supported reinforced concrete slab at least eight inches thick extending at least twelve inches beyond the horizontal outlines of the tanks and placed over a coverage of clean sand or clean earth fill, the slab and its supports to be of a design as approved by the department of buildings. Excavation for storage tanks shall be made with due care to avoid undermining of foundations of existing structures.
+
+         3. [So set] Each tank used for the storage of volatile flammable oil shall be set so that the top or highest point thereof shall be at least two feet below the level of the lowest cellar floor of any building within a radius of ten feet from the tank[, and no]. No tank used for the storage of volatile flammable oil shall be located under the sidewalk or beyond the building line.
+
+         4. It shall be unlawful to cover from sight any tank, forming part of the buried oil storage system, until after an inspection has been made by the department, and written approval has been given; which approval shall be given without charge provided all the regulations have been complied with.
+
+         5. [Provided] When a tank used for the storage of volatile flammable oil is located inside a building it shall be provided with a liquid level or depth indicating device[ when the tank is located inside a building]. Test wells will not be permitted in tanks located inside of buildings. Liquid level or depth indicating devices [,]installed after this section takes effect[,] shall be substantially constructed and designed to prevent the escape of liquid or vapor and shall be of a type for which a certificate of approval shall have been issued by the commissioner or previously approved by the board of standards and appeals, unless such approval is amended or repealed by the commissioner. Unused tank openings shall be permanently sealed at the tank to prevent removal of plugs or covers.
+
+      n. Vent pipe. In other than hydraulic systems each tank shall be provided with a separate vent pipe[; vent]. Vent pipes for tanks not exceeding five hundred fifty gallons shall be at least one inch in diameter for existing installations and at least one and one-half inches in diameter for new vent pipe installations[, and]. Vent pipes for tanks over five hundred fifty gallons shall be not less than two inches in diameter[ for tanks over five hundred fifty gallons, and]. Vent pipes shall run from the tank to the outer air at a position higher than the fill pipe opening[, and]. Vent pipes for tanks located outside of buildings and for vents affixed to a building wall at least ten feet for existing installations and at least fifteen feet for new installations above the adjacent ground level, and for tanks inside buildings at least ten feet above the roof of the building in which the plant or tank is located, and shall be at least ten feet from the nearest building opening, and well braced in position. Each vent pipe shall have a double[,] swing joint at the tank and a single swing joint at the vertical riser[ and when such]. When a vent pipe exceeds two inches in diameter it shall be capped with a double gooseneck, cowl, or hood, and shall be provided with either a screen made of two thicknesses of 20-mesh brass wire gauze, placed immediately below the gooseneck, cowl or hood or [provided with] a flame arrestor of a type approved by a nationally recognized laboratory. A vent pipe shall not be obstructed by devices that will reduce [their] its capacity and thus cause excessive back pressure.
+
+      o. Ventilating flue. Each compartment wherein a mixing tank is located shall be equipped with a ventilating flue, constructed of brick or concrete, lined with tile pipe at least eight inches square, inside measurement, and extending from the floor of the compartment at a point opposite the door, to at least six feet above the highest point of the roof, and at least ten feet from the nearest wall of any adjoining building. Such flue shall have an opening into the mixing compartment six inches square and three inches above the floor, and shall be equipped with a double gooseneck eight inches square, made of at least 18-gauge galvanized iron. All openings shall be covered with 20-mesh brass wire screens.
+
+      p. Fire prevention. It shall be unlawful to allow any stove, forge, torch or other device employing flame or fire, or any electric or other apparatus which is likely to produce an exposed spark, in any building used for the manufacture of flammable mixtures, unless it be placed in a room or compartment separated from the remainder of the building by a partition constructed of fire retarding material and provided with a self-closing fireproof door; provided, however, that electric motors may be of the fully enclosed type or provided with an approved type "A" (fire department specifications) motor enclosure. The terminal blocks also shall be protected. It shall be unlawful to locate any boiler or furnace in any such building, unless separated from the remainder of the building by an unpierced fireproof wall consisting of solid masonry or its equivalent, of at least eight inches in thickness; provided, however, that where the construction of such unpierced wall shall be impracticable, the commissioner may permit such openings in such wall as may be necessary, and prescribe such protection therefor as in his or her judgment the particular case shall require.
+
+. . . . . . . . . .
+
+      r. Installation of pumps. The installation of pumps shall conform to paragraphs three and six of subdivision b of section 27-4081 of this chapter insofar as applicable.
+
+   (2) Former Administrative Code § 27-4066.
+
+      § 27-4066 Requirements for below-grade storage in mercantile occupancies. A system of automatic sprinklers shall be provided in each basement, cellar or other location below grade, regardless of the floor area of such space, in any mercantile establishment in which the commissioner permits the storage of flammable mixtures, except that, where flammable mixtures are stored in such basement, cellar or other location below grade, in a room or other area that is segregated, vertically and horizontally, from surrounding spaces by a fire separation of not less than a two-hour fire-resistance rating, such system of automatic sprinklers shall be required only within such room or other area. Such system of automatic sprinklers shall conform to the requirements for automatic sprinklers for spaces classified in storage occupancy group B-1 pursuant to subdivision d of section 27-954 of the building code.
+
+   (3) Former Administrative Code § 27-4265.
+
+      § 27-4265 Fire extinguishing appliances.
+
+. . . . . . . . . .
+
+      b. Sprinkler systems in garment factories and factories using flammable oil for processing:
+
+         1. A one source automatic wet pipe sprinkler system shall be provided in every non-fireproof building in which there is a garment factory or a factory engaged in the processing of combustible fabrics with a flammable oil, and which exceeds three stories in height and in which more than fifty persons are employed above the street floor.
+
+         2. The provisions of subdivision a shall not apply to a factory which is incidental to the conduct of a retail business on the premises, provided not more than six persons are employed at any time in such incidental manufacturing.
+
+         3. For the purposes of this section, a flammable oil is one which emits a flammable vapor below one hundred twenty-five degrees Fahrenheit when tested in a Tagliabue open cup tester.
+
+         4. Garment factory shall include those factories engaged in making underwear, dresses, suits and coats.
+
+         5. The commissioner may accept an automatic dry pipe sprinkler system in place of an automatic wet pipe sprinkler system where low temperatures or other conditions would prevent the installation of a wet pipe system.
+
+         6. The sprinkler systems shall be provided in all parts of such buildings.
+
+         7. The provisions of this section shall apply to existing buildings and to buildings hereafter erected.
+
+. . . . . . . . . .
+
+(e) Combustible Liquid Manufacture and Storage.
+
+   (1) Former Administrative Code § 27-4069.
+
+      § 27-4069 Manufacture.
+
+      a. Restriction. No such permit shall be issued for the manufacturing of combustible mixtures in any building within the restrictions of subdivision b of section 27-4065 of this chapter of the code.
+
+   (2) Former Administrative Code § 27-4070.
+
+      § 27-4070 Requirements for below-grade storage in mercantile occupancies.
+
+      A system of automatic sprinklers shall be provided in each basement, cellar or other location below grade, regardless of the floor area of such space, in any mercantile establishment in which the commissioner permits the storage of combustible mixtures, except that, where combustible mixtures are stored in such basement, cellar or other location below grade, in a room or other area that is segregated, vertically and horizontally, from surrounding spaces by a fire separation of not less than a two-hour fire-resistance rating, such system of automatic sprinklers shall be required only within such room or other area. Such system of automatic sprinklers shall conform to the requirements for automatic sprinklers for spaces classified in storage occupancy group B-1 pursuant to subdivision d of section 27-954 of the building code.
+
+(f) Distilled Liquors and Alcohols.
+
+   (1) Former Administrative Code § 27-4227.
+
+      § 27-4227 Restrictions.
+
+      a. No permit shall be issued for the manufacture, distillation, rectification, or storage of distilled liquor, spirits or alcohols, in quantities exceeding the amounts set forth in subdivision b of this section, in any building:
+
+         1. Which is situated within fifty feet of the nearest wall of any building occupied as a hospital, school, theatre or other place of public amusement or assembly;
+
+         2. Where the occupancy within the building in which the distilled liquor, spirits or alcohols are manufactured, distilled, rectified or stored does not comply with the requirements of the building code regulating high hazard occupancies for buildings erected after the sixth day of December, nineteen hundred sixty-eight; or where [;a]; such occupancy is located in a building [;or building section]; erected prior thereto and such occupancy is not fully equipped with an approved automatic sprinkler system.
+
+      b. The provisions of subdivision a of this section shall apply where the combined total amount of distilled liquor, spirits or alcohols being manufactured, distilled, rectified or stored exceeds:
+
+         1.  5,000 gallons, if such distilled liquor, spirits or alcohols is kept stored in the manufacturer's original sealed containers, and is not dispensed or used on the premises.
+
+         2. 3,000 gallons, if such distilled liquor, spirits or alcohols is dispensed or used on the premises.
+
+(g) Petroleum, Shale Oils and the Liquid Products thereof.
+
+   (1) Former Administrative Code § 27-4055.
+
+      § 27-4055 Limited Storage Permit.
+
+      a. Permits may be issued for the storage of petroleum and shale oil, and the liquid products thereof, and of coal tar, in a manner satisfactory to the commissioner, in buildings or premises other than storage plants, approved tank trucks or other vehicles, or approved buried tank systems, in quantities not to exceed the following:
+
+         1. Volatile flammable oils five hundred fifty gallons, except that such oils may be stored in larger quantities in fire department approved tank trucks or other vehicles, pending deliveries, in outdoor spaces, when permitted by the zoning resolution, when provided with portable fire fighting appliances as the commissioner may direct, or, when such trucks or other vehicles are equipped with battery cutoff switches, within fully sprinklered buildings complying with the building code and the zoning resolution of the city of New York.
+
+         2. Other oils that do not emit a flammable vapor at a temperature below one hundred degrees Fahrenheit, when tested in a Tagliabue open cup tester--one thousand one hundred gallons, except that such oils may be stored in larger quantities in fire department approved tank trucks or other vehicles, pending deliveries, in outdoor spaces or within buildings complying with the zoning resolution and the building code, when provided with the following minimum fire protection:
+
+            i. In outdoor spaces portable fire fighting appliances as the commissioner may direct.
+
+            ii. Within buildings portable fire fighting appliances as the commissioner may direct, battery cutoff switches, and sprinkler protection as required by the building code, except that for existing buildings lawfully occupied as a garage prior to the sixth of December, nineteen hundred sixty-eight, sprinkler protection shall be provided for storage of over forty-five thousand (45,000) gallons, and sprinkler protection, or smoke detection or thermostatic alarm system with connection to central office, shall be provided for storage of between twenty-two thousand five hundred (22,500) and forty-five thousand (45,000) gallons, all in accord with subdivision (a) of section 27-243, subdivisions (a) and (b) of section 27-455, subchapter seventeen of chapter one of this title and reference standard RS 17-3 of the code. For storage of less than twenty-two thousand five hundred (22,500) gallons--portable fire fighting appliances, as the commissioner may direct, shall be provided, in accord with subdivision (c) of section 27-455 of this title of the code. A permit shall be required for storage of product pending delivery except when such storage is on the site of, or in the immediate proximity of, a bulk oil storage plant.
+
+      b. Restrictions. No permit shall be issued for the storage or sale of volatile flammable oil in any building:
+
+         1. Where the building does not comply with the requirements of the building code regulating high hazard occupancies for buildings erected after the sixth day of December, nineteen hundred sixty-eight; or where a building or building section erected prior thereto is not fully equipped with an approved automatic sprinkler system; or where the building is occupied as a multiple dwelling, dwelling, school, theatre or other place of public amusement or assembly; except that group one public garages, as defined and classified in the building code shall be permitted. The commissioner may issue a permit for the storage and use of such volatile flammable oil in buildings occupied as schools, colleges, universities, hospitals and/or related facilities, when such oil is required for educational, instructional, clinical, diagnostic, research or testing purposes. Such use and storage shall be in such amounts and under such conditions as the commissioner shall prescribe;
+
+         2. Where explosives are stored or kept for sale or use;
+
+         3. Where dry goods or other material of a highly flammable nature are manufactured, stored or kept for sale;
+
+         4. Where the portion of the building occupied or used for the storage of volatile flammable oil is lighted by any means other than electricity;
+
+         5. Upon any floor above the ground floor of a building, except in an approved safety can in quantities of five gallons or less and for use only.
+
+(h) Paints, Varnishes and Lacquers
+
+   (1) Former Administrative Code § 27-4094
+
+      § 27-4094 Restrictions.
+
+      a. No permit for the manufacture, mixing or compounding of paints, varnishes or lacquers shall be issued for any premises:
+
+         1. Which are situated within fifty feet of the nearest wall of a building occupied as a school, theatre or other place of public amusement or assembly;
+
+         2. Where the building does not comply with the requirements of the building code regulating high hazard occupancies for buildings erected after the sixth day of December, nineteen hundred sixty-eight; or where a building or building section erected prior thereto is not fully equipped with an approved automatic sprinkler system; or where the building is occupied as a multiple dwelling, dwelling or factory, except where paint is the commodity manufactured in such factory;
+
+         3. Which are artificially lighted by any means other than electricity;
+
+         4. Where drugs, cigars, cigarettes or tobaccos are kept for sale;
+
+         5. Where dry goods or other highly flammable materials are manufactured, stored or kept for sale.
+
+      b. A system of automatic sprinklers shall be provided in each basement, cellar or other location below grade, regardless of the floor area of such space, in any mercantile establishment in which the commissioner permits the storage of flammable or combustible paints, varnishes, lacquers or other substances, mixtures or compounds commonly used for painting, varnishing, staining or similar purposes, except that, where such flammable or combustible substances, mixtures or compounds are stored in such basement, cellar or other location below grade, in a room or other area that is segregated, vertically and horizontally, from surrounding spaces by a fire separation of not less than a two-hour fire-resistance rating, such system of automatic sprinklers shall be required only within such room or other area. Such system of automatic sprinklers shall conform to the requirements for automatic sprinklers for spaces classified in storage occupancy group B-1 pursuant to subdivision d of section 27-954 of the building code.
+
+(i) Oils and Fats.
+
+   (1) Former Administrative Code § 27-4231.
+
+      § 27-4231 Restrictions.
+
+      No permit shall be issued for the storage of oils, fats, greases or soap stock in any building or premises:
+
+         1. Which is situated within fifty feet of the nearest wall of any building occupied as a school, hospital, theatre, or any other place of public amusement or assembly;
+
+         2. Where the building does not comply with the requirements of the building code regulating high hazard occupancies for buildings erected after the sixth day of December, nineteen hundred sixty-eight; or where a building or building section erected prior thereto is not fully equipped with an approved automatic sprinkler system; or where the building is occupied as a multiple dwelling, school, theatre or other place of amusement or assembly;
+
+         3. Which is not equipped with a fire extinguishing system satisfactory to the commissioner;
+
+         4. Where matches or any explosives are stored or kept.
+
+   (2) Former Department Rule 3 RCNY § 8-01.
+
+      § 8-01 Fire Extinguishing Requirements for the Storage of Fats and Oils.
+
+         (a) Section 27-4231(3) of the Administrative Code of the City of New York shall be interpreted to mean an approved system of automatic sprinklers when: Fats and oils are stored in quantities exceeding the equivalent of 100 barrels. In addition, when more than 100 barrels of fats and oils are to be stored in any building occupied in part as a dwelling, that portion of the building occupied by the applicant must be separated from the rest of the building by fireproof walls and floors of at least a three hour rating.
+
+   (3) Former Department Rule 3 RCNY § 8-02.
+
+      § 8-02 Storage and Use of Cable Oils with a Flashpoint Over 300°F.
+
+. . . . . . . . . .
+
+      (b) Tanks installed for the storage of cable oils exceeding a flashpoint of 300°F, shall be installed in conformity with the fuel oil rules of the Board of Standards and Appeals.
+
+. . . . . . . . . .
+
+(j) Bulk Plants and Terminals.
+
+   (1) Former Administrative Code § 27-4053.
+
+      § 27-4053 Bulk oil storage plants.
+
+. . . . . . . . . .
+
+      b. Bulk oil storage
+
+         1. Tank construction. All tanks, as to thickness and quality of material, dike wall enclosures, foundations, piping, valves and other related devices or equipment, comprising or forming part of a bulk oil storage plant, shall be designed and constructed in accordance with all applicable provisions of the building code.
+
+         2. Tank locations.
+
+            A. Adjoining properties. The distance between any part of an above ground storage tank and the nearest line of adjoining property which may be built upon, shall be in accordance with the following distance table: (For the purpose of determining nearest line of adjoining property which may be built upon, the width of any abutting public thoroughfare shall be included.)
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - Tank capacity 
+      - Minimum distance 
+    * -   1,000 to 12,000 gallons
+      - 10 feet 
+    * - 12,001 to 30,000 gallons
+      - 20 feet 
+    * - 30,001 to 50,000 gallons
+      - 25 feet 
+    * - Vertical cylindrical tanks (for storage of oil having a flash point below one hundred (100) degrees Fahrenheit).
+      - 
+    * - Over 50,000 gallons:
+      - Not less than the greater dimension of height or diameter of tank, except that such distance need not exceed one hundred twenty (120) feet, and in no case closer than twenty-five (25) feet.No such tank shall exceed forty (40) feet in height.
+    * - Rectangular tanks (for storage of oil having a flash point below one hundred (100) degrees Fahrenheit).
+      - 
+    * - Over 50,000 gallons:
+      - Not less than the total of the length and the width of the tank divided by two except that such distance need not exceed one hundred twenty (120) feet, and in no case closer than twenty-five (25) feet.No such tank shall exceed forty (40) feet in height.
+    * - Vertical cylindrical tanks (for storage of oil having a flash point of one hundred (100) degrees Fahrenheit or above).
+      - 
+    * - Over 50,000 gallons:
+      - Not less than one-half (1/2) the greater dimension of height or diameter of tank, except that such distance need not exceed one hundred twenty (120) feet, and in no case closer than twenty-five (25) feet.No such tank shall exceed forty-eight (48) feet in height.However, the commissioner may modify the height limitation to such extent as he or she may deem necessary in the interest of public safety. In no case shall such modification authorize the erection of vertical cylindrical tanks exceeding the height of sixty-four (64) feet.
+    * - Rectangular tanks (for storage of oil having a flash point of one hundred (100) degrees Fahrenheit or above).
+      - 
+    * - Over 50,000 gallons:
+      - Not less than the total of the length and the width of the tank divided by four (4), except that such distance need not exceed one hundred twenty (120) feet, and in no case closer than twenty-five (25) feet.No such tank shall exceed forty (40) feet in height.
+~
+
+ 
+
+ . . . . . . . . . .
+
+         5. Truck loading racks
+
+. . . . . . . . . .
+
+            B. Each truck loading rack shall be equipped with a remote manually controlled water spray system. Spray nozzles shall be required over each tank truck loading position immediately below the roof beams of the loading rack and installed in a manner to adequately protect the entire loading rack area. At least one remote control valve shall be provided for the control of the water supply for each four loading positions. Piping and fitting shall be so installed that they can be thoroughly drained. An approved pump for such system shall receive water supply from an independent suction tank or direct connection to the city water main. The rated capacity of the pump shall be at least five hundred (500) gallons per minute at one hundred fifty (150) p.s.i.
+
+. . . . . . . . . .
+
+(l) Liquid Tank Storage Systems.
+
+   (1) Former Fire Department Rule 3 RCNY § 21-06.
+
+      § 21-06 Safeguards for Filling Above Ground Storage Tanks in Paint Stores.
+
+      (a) Flammable liquids which flash below 100°F shall be stored in sealed containers which shall not be opened on the premises, or in approved buried storage systems. When tanks cannot be buried, they may be vaulted in masonry at least 8" thick with a 24" access door. The vault is to be provided with mechanical ventilation to the outer air. Tanks are to be approved 275 or 550 gallon capacity. Electrical equipment is to be explosion-proof.
+
+      (b) Combustible liquids which flash over 100(degrees)F may be stored in Bowser or similar type above ground tanks which shall not exceed one hundred and ten (110) gallons in capacity.
+
+      (c) Fill lines shall terminate at curb in approved type fill boxes with means for locking.
+
+      (d) Vent lines shall terminate in the outer air with weatherproof hoods, screened, two (2) feet above the fill terminal and two (2) feet from any building opening. Vent lines shall be visible from fill line terminal.
+
+      (e) No other filling method shall be employed.
+
+      (f) Pumps shall be of approved type.
+
+      (g) A minimum of 64 square inches of fixed ventilation shall be provided for the storage and filling areas.
+
+      (h) The boiler room shall be separated from the tank location area by approved masonry.
+
+      (i) A fireproof self-closing door and 6" masonry sill to be provided at the opening of the boiler room.
+
+      (j) A catch basin shall be provided with a return line to the storage tank. A check valve to prevent escape of vapors shall be installed in the return line.
+
+      (k) The number of Bowser or similar type tanks shall not exceed five (5).
+
+. . . . . . . . . .
+
+   (2) Former Fire Department Rule 3 RCNY § 21-17.
+
+      § 21-17 Installation of Storage Tanks and Piping for Liquids Having Flashpoints of 100 Degrees Fahrenheit or Higher Tagliabue Open Cup.
+
+. . . . . . . . . .
+
+      (d) (1) Construction of tanks. All storage tanks shall be designed in accordance with the following provisions:
+
+            (i) All storage tanks shall be built of steel plates or sheets, made by the open hearth or basic oxygen process. Such steel shall be free from physical imperfections, and shall be new, in good condition, and free from rust.
+
+            (ii) Tanks shall be welded, riveted and caulked, or riveted and welded. Flanges or other pipe connections may be welded. All caulking shall be placed with round nose tools and without damage to the plates. Filler of any kind between plates shall be prohibited.
+
+            (iii) Tanks to be buried shall be cleaned and then coated on the outside with two coats of red lead, or equivalent. They shall be further protected by a coating of hot tar, asphalt, or equivalent rust resistive material, applied at the work site. Tanks installed above ground shall be coated with one coat of red lead, or equivalent.
+
+            (iv) All buried storage tanks shall be constructed of at least 1/4-inch thick metal and shall be designed to withstand any external loads to which the tank may be subjected.
+
+            (v) At the time of installation all storage tanks shall bear a permanently fixed plate, spot welded or equivalent, bearing the name of the tank manufacturer, the gauge of the materials, and capacity of the tank. Shop fabricated storage tanks shall be installed without structural alteration.
+
+            (vi) All openings shall be through the top of the storage tank, except that storage tanks of 275-gallon capacity or less, located above ground but below the lowest story, may be provided with a 3/4-inch opening for gravity discharge and a l-inch opening in the bottom for cleaning and protection against corrosion.
+
+            (vii) Above ground tanks outside of buildings shall be electrically grounded in accordance with the requirements for equipment grounding of the Electrical Code of the City of New York.
+
+         (2) Construction requirements. Cylindrical tanks, of more than 275 gallon capacity, except vertical tanks above ground outside of buildings:
+
+            (i) The thickness of cylindrical tanks, including oval, elongated oval, or round tanks of more than 275-gallon capacity shall be subject to the following requirements:
+
+               (A) Tanks 36 inches in diameter and less-at least 1/4-inch shell and 1/4-inch heads.
+
+               (B) Tanks 37 to 72 inches in diameter-at least 1/4-inch shell and 5/16-inch heads.
+
+               (C) Tanks 73 to 120 inches in diameter-at least 5/16-inch steel and 3/8-inch head.
+
+               (D) Tanks over 120 inches in diameter shall be of at least 3/8-inch steel and shall be stiffened by angle rings or equivalent members so as to retain their cylindrical form.
+
+            (ii) Dished heads for such tanks shall have a curvature the radius of which is not greater than the diameter of the tank. Dished heads shall be formed with an adequate cylindrical extension rim to provide a welding or riveting surface. If flat heads are used, they shall be braced in the same manner as described for the bracing of flat sides of rectangular tanks.
+
+            (iii) Riveting in single lap seams shall not exceed a pitch as follows:
+
+               (A) Shell 1/4-inch thick-5/8-inch diameter rivets, 2 1/4-inch pitch.
+
+               (B) Shell 5/16-inch thick-5/8-inch diameter rivets, 2 3/8-inch pitch.
+
+               (C) Shell 3/8-inch thick-3/4-inch diameter rivets, 2 1/2-inch pitch.
+
+         (3) Rectangular tanks, of more than 275-gallon capacity
+
+            (i) Plates for rectangular tanks of more than 275-gallon capacity shall be at least 5/16-inch thick.
+
+            (ii) Corners may be made up by bending the plates or by using angles.
+
+            (iii) Minimum rivet diameter in seams shall be 5/8-inch and rivets shall be spaced not more than 2 1/4-inch center-to-center.
+
+            (iv) All flat surfaces of rectangular tanks shall be braced by structural members or rods.
+
+            (v) When structural members are used, the rivet pitch shall not exceed 6 inches.
+
+            (vi) All structural members shall be designed in accordance with the requirements of Subchapter 10 of Chapter 1 of Title 27 of the Administrative Code.
+
+            (vii) Connections between bracing members and the sides of the tank shall be designed so that the connections will not fail before the member will fail.
+
+         (4) All tanks except vertical tanks above ground 275 gallons or less capacity. All storage tanks of 275-gallon capacity or less that are not buried shall have a minimum thickness of shell and head plated of number 10 manufacturer's standard gauge steel plate. Storage tanks of 60-gallon capacity or less shall be similarly constructed but need not be thicker than No. 14 manufacturer's standard gauge.
+
+         (5) Vertical storage tanks over 1,000-gallon capacity located outside of building above ground
+
+            (i) Vertical tanks located outside of buildings above ground shall be built of steel plates of the quality required for cylindrical tanks.
+
+            (ii) The minimum thickness of roof plates shall be 1/8-inch. The thickness of shell plates shall be determined in accordance with the following formula:
+
+ 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - t = 
+      - TE
+    * - PRF
+~
+
+
+
+
+      - 
+
+               Where:  t = thickness of shell plate in inches
+
+               Where:  P = head pressure at bottom of ring under consideration in p.s.i.
+
+               Where:  R = radius of shell, in inches
+
+               Where:  F = factor of safety (taken as 5)
+
+               Where:  T = tensile strength of plate, in p.s.i. as verified by mill test certificate
+
+               Where:  E = efficiency of vertical joint in pipe under consideration E shall in no case be taken greater than 1.00.
+
+               Roof plates shall have single lap-riveted or welded water-tight seams, and the roof shall be built to shed water. Bottom plates shall have single lap riveted or welded seams. Shell plate seams shall be designed to develop the full strength of the plate.
+
+      (e) (1) Location of tanks. Inside of building, above ground on the lowest floor.
+
+            (i) Tank Capacity of 550 gallons or less. Storage tanks having a capacity of 550 gallons or less may be installed above ground on the lowest floor of a building, provided that such tanks are mounted on adequate noncombustible supports, with the tank anchored thereto. No more than 550 gallons of total storage capacity may be installed without protection provided in subparagraph (ii) or (iii) below.
+
+            (ii) Tank capacity more than 500 gallons but less than 1,100 gallons. Storage tanks having a capacity of more than 550 gallons but less than 1,100 gallons may be installed above ground on the lowest floor of a building, provided that all portions of such tanks above the floor are completely enclosed with noncombustible construction having at least a 2-hour fire resistance rating. Weep holes l-inch in diameter shall be provided at least every 3 feet along the bottom of the enclosure unless at least 15 inches of clearance, together with access door, is provided between the tank and the enclosure.
+
+            (iii) Tank capacity 1,100 gallons or more. Storage tanks having a capacity of 1,100 gallons or more may be installed above ground on the lowest floor of a building, provided that all portions of such tanks above the floor are completely enclosed with non-combustible construction having at least a 3-hour resistance rating. At least 15-inch clearance shall be provided over the tanks and on all sides between the tanks and the enclosure. A noncombustible access door, constructed so as to preserve the integrity of the fire resistive enclosure, shall be installed in the enclosure above the point where the capacity of the enclosure below the door sill would be equal to the capacity of the largest tank installed. When the longest inside dimension of the enclosure exceeds 35 feet, access doors shall be installed at intervals not exceeding 12 feet. Columns, pipes, or similar obstructions may project into the required 15 inches of space within the enclosure, provided that access door or doors are so arranged that all portions of the enclosure are accessible for servicing.
+
+            (iv) Maximum tank size. The capacity of individual storage tanks in no case shall exceed 20,000 gallons.
+
+         (2) Inside of buildings, below ground.
+
+            (i) Storage tanks having a capacity greater than 275 gallons may be buried inside of a building provided that the top of the tank is at least 2 feet below floor level. In lieu of 2 feet of earth over the tank, the tank may be covered by concrete flooring having the same thickness as the basement floor, but not less than 4 inches concrete meeting the requirements of Subchapter 10 of Chapter 1 of Title 27 of the Administrative Code and reinforced with 2-inch by 2-inch mesh of at least No. 20 U.S. Standard Gauge Steel Wire. Tanks shall be placed in firm soil and shall be surrounded by clean sand or well-tamped earth, free from ashes and other corrosive substances, and free from stones that will not pass through a l-inch mesh. When necessary to prevent floating, tanks shall be securely anchored.
+
+            (ii) No tank shall be buried within 3 feet of any foundation wall or footing.
+
+         (3) Outside of building, below ground.
+
+            (i) Storage tanks located outside of buildings and below ground, shall be buried with the top of the tank at least 2 feet below ground. Tanks shall be placed in firm soil and shall be surrounded by clean sand or well tamped earth, free from ashes or other corrosive substances, and free from stones that will not pass a l-inch mesh. When necessary to prevent floating, tanks shall be securely anchored.
+
+            (ii) No tank shall be buried within 3 feet of any foundation wall or footing.
+
+         (4) Outside building, above ground.
+
+            (i) Storage tanks of a capacity greater than 275 gallons located outside of buildings above ground shall be not less than one and one-quarter (1/4) tank diameters and in no case less than 10 feet from the line of adjoining property, the nearest building or adjacent tank. The minimum clearance between individual tanks located outside of buildings above ground and the line of adjoining property which may be built upon shall be fixed by the following formula:
+
+               M.C. = 10 + 4 G 275                     5000
+
+               Where:  M.C. = minimum clearance from nearest surface of tank to adjoining property in feet.
+
+               Where:  G = capacity of tank, in gallons.
+
+               The maximum allowable capacity of tanks for storage of liquids or solvents having a flashpoint of 100 degrees Fahrenheit or higher located outside of building above ground shall be 100,000 gallons.
+
+            (ii)  Tanks shall be located so as not to obstruct or interfere with any means of egress.
+
+            (iii) Each storage tank shall be protected by an embankment or dike. Such protection shall have a capacity at least 1 1/2 times the capacity of the tank so surrounded and shall be at least 4 feet high, but in no case shall the protection be higher than 1/4 the height of the tank when the height of the tank exceeds 16 feet. Embankments or dikes shall be made of earth work with clay core, of masonry, or reinforced concrete or of steel. Earth work embankments shall be firmly and compactly built of good earth free from stones, vegetable matter, etc., and shall have a flat section of at least 3 feet at the top and slope of at least 1 1/2 to 2 feet on all sides. Concrete, masonry or steel dikes shall be designed so as to confine safely all of the oil in the tank so surrounded. Embankments or dikes shall be continuous and unpierced, and the outside toe shall be located at least 5 feet inside of the property line, and no less than 5 feet from a driveway or parking area.
+
+         (5) Tanks located along line of subways.
+
+            (i) No buried tank shall be placed within 20 feet of the outside line of a subway wall. Where an above ground tank within a building is located within the outer lines of the subway, or within 20 feet of the outside line of the subway wall, such tank shall be placed within a welded steel oil-tight pan of not less than number 18 manufacturer's standard gauge metal suitably reinforced and of capacity to contain the contents of the tank.
+
+            (ii) For the purpose of the foregoing requirement, a subway shall be deemed to include any subsurface railroad or rapid transit roadbed.
+
+      (f) (1)  Installation of piping and tubing.
+
+            (i) Exposed piping shall be protected against mechanical damage and shall be adequately supported with rigid metal fasteners or hangers. All pipes connected to buried tanks, except test well piping, shall be provided with double swing joints at the tank.
+
+            (ii) Only new wrought iron, steel, or brass pipe, or type K or heavier copper tubing shall be used. Metal tubing when used for conveying material shall be adequately protected.
+
+            (iii) Overflow pipes, where installed, shall not be smaller in size than the supply pipe.
+
+            (iv) Pipe shall be connected with standard fittings and tubing with fittings of listed or approved type all of the same material as the pipe, except that malleable iron fittings may be used with steel pipe. Cast iron fittings shall not be used. All threaded joints and connections shall be made tight with suitable pipe compound. Unions requiring gaskets or packing, right or left couplings and sweat fittings employing solder having a melting point of less than 1,000 F. shall not be used.
+
+         (2) Relief valves.
+
+            (i) Where a shut-off valve is installed in the discharge line from a material pump, a relief valve shall be installed in the discharge line between the pump and the first shut-off valve.
+
+            (ii) Relief valves shall be set to discharge at not more than 1 1/2 times the maximum working pressure of the system. The discharge from relief valves shall be returned to the storage tank or to the supply line. There shall be no shut-off valve in the line of relief.
+
+         (3) Vent pipes.
+
+            (i) A vent pipe of iron or steel, without trap, draining to the tank, shall be provided for each storage tank. The lower end of the vent pipe shall not extend more than 1 inch through the top of the storage tank. Cross-connection between a vent pipe and fill pipe is prohibited.
+
+            (ii) Where a battery of storage tanks designed to hold identical material is installed, vent pipes may be run into a main header.
+
+            (iii) Vent shall be at least 1 1/4 inch in diameter for storage tanks not exceeding 1,100 gallon capacity and at least 2 inches in diameter for storage tanks of 1,100 gallons or more.
+
+            (iv) Vent pipes shall be provided with an approved weatherproof hood having a free area of at least the pipe size area. Vent pipes shall terminate outside the building in a non-hazardous location, at least 2 feet from any building opening and not less than 2 feet nor more than 12 feet above the fill pipe terminal unless otherwise permitted by the Commissioner. If the vent pipe terminal is not visible from the fill pipe terminal location, a one-inch tell-tale line shall be connected to the tank and shall parallel the fill pipe and terminate at the fill terminal with an unthreaded end. Such tell-tale lines shall be provided with a check valve set to prevent flow of surface water to the storage tank.
+
+         (4) Fill pipes.
+
+            (i) Fill pipes shall terminate outside the buildings, with the fill pipe terminal located at or above grade, at least 2 feet from any building opening and 5 feet from any subway grating at or below the level of the pipe terminal. No fill pipe shall be less than 2 inches in diameter.
+
+            (ii) Each storage tank shall be provided with a separate fill pipe, except that where a battery of tanks is installed containing identical materials, a common fill and header pipe may be installed.
+
+            (iii) Where the top of the storage tank is above the fill pipe terminal, the fill pipe shall be connected to the top of the tank and provided with a shut-off valve and swing check valve both of which shall be located at the fill pipe terminal. However, the shut-off and check valves may be installed in an accessible location inside the building at or below the level of the fill pipe terminal.
+
+            (iv) All fill pipe terminals shall be of a type identical to that approved for fuel oil service, and shall be provided with lugs for embedding concrete. In lieu of lugs, a set screw or threads to fasten the terminal to the fill pipe may be used. The outer flange of the fill pipe terminal or the seal cap shall be permanently marked to identify contents. The fill pipe terminal shall be threaded or provided with other equivalent means to receive the seal cap. The seal cap shall be suitably slotted for receiving an opening wrench, and an oil proof gasket inserted in a groove in the fill pipe terminal shall be provided so as to make the seal cap leak-proof. A strainer shall not be required but, if used, shall be of at least 1/8-inch mesh. Where a storage system for volatile flammable oil and a storage system for liquid flashing at 100 degrees Fahrenheit or higher is to be used in the same premises, the terminal of liquid flashing 100 degrees Fahrenheit or higher storage system shall be provided with a left-headed thread and the fill pipe fitting shall be of a different size than that required for the fill pipes to the tanks containing the volatile flammable oil.
+
+         (5) Piping from transfer pump to manufacturing equipment above the lowest floor.
+
+            (i) The piping from a transfer pump to "manufacturing equipment" at levels above the lowest floor in buildings, the return piping, and vent piping shall comply with the applicable provisions of paragraphs (1), (3) and (4) of this subdivision (f) and shall be enclosed in a shaft constructed of 4 inch concrete or masonry having a 4 inch clearance from all pipe or pipe covering. Provisions shall be made for expansion in piping without the use of expansion joints.
+
+            (ii) Where it is necessary to make horizontal offsets in the supply piping and pipe shafts such piping shall be enclosed in a sleeve of other piping of at least number 10 manufacturer's standard gauge steel, two sizes larger and arranged to drain into the shaft. Horizontal piping offsets shall be further enclosed in construction having a 2-hour fire resistance rating.
+
+            (iii) A drain pipe shall be installed at the base of shafts enclosing the supply and overflow piping. The pipe shall lead to an open sight drain or to an open sump.
+
+            (iv) Pipe lines for manufacturing equipment above the level of the lowest floor shall be seamless steel pipe of a weight not less than ASA schedule 40 with welded connections.
+
+            (v) Pipe shafts shall not be penetrated by or contain other piping or ducts.
+
+      (g) Valves and devices to control the flow of materials.
+
+         (1) Approved leak detectors on discharge piping shall be provided for submerged or remote control pumps.
+
+         (2) A clearly identified remote control switch readily accessible, shall be provided on each floor to which material is pumped to shut-off the power to the pump motors.
+
+         (3) A visible means shall be provided for each discharge area to indicate when pump is operating.
+
+         (4) Pumps shall be of a type approved by Board of Standards and Appeals.
+
+         (5) Pressure in storage tanks for the purpose of discharging materials is prohibited.
+
+      (h) Material level indicating devices and test wells.
+
+         (1) All tanks located inside buildings shall be provided with a material level indicating device. Test wells shall be prohibited in tanks located inside of buildings. Unused tank openings shall be permanently sealed to prevent the removal of plugs or cover.
+
+         (2) Material level indicating devices shall be designed and constructed of substantial materials so that there can be no leakage of materials or vapor from the material.
+
+         (3) Test wells in storage tanks located outside of buildings shall be capped oil tight and kept closed when not in use.
+
+      (i) Tests. All piping and storage tanks for materials flashing at 100 degrees Fahrenheit or higher shall be tested hydrostatically in the presence of a Fire Department representative before work is closed in. The hydrostatic pressure shall be maintained until all joints and connections have been visually inspected, for leaks but in no case for less than one-half hour. The minimum pressure for testing tanks shall be at least 25 pounds per square inch. The piping shall be tested at 1 1/2 times maximum work pressure applicable to that part of the piping system but in no case less than 25 pounds per square inch. For storage systems for materials flashing above 300 degrees Fahrenheit contractor may submit a notarized affidavit attesting to testing of tank and piping as prescribed above, in lieu of the Fire Department witnessed test.
+
+(m) Flammable and Combustible Liquid Storage.
+
+   (1) Former Fire Department Rule 3 RCNY § 20-07.
+
+      § 20-07 Storage and Sale of Acetone and/or Nail Polish Remover.
+
+. . . . . . . . . .
+
+      (b) With regard to the storage and use of raw materials, such as acetone, vegetable and essential oils, the following requirements are applicable:
+
+         (1) For 55 gallons or less of acetone:
+
+            (i) Metal storage cabinet;
+
+            (ii) Cabinet shall be against an outside building wall and remote from possible ignition sources;
+
+            (iii) Cabinet to be provided with top and bottom ventilation to outer air.
+
+         (2) For quantities exceeding 55 gallons and up to 275 gallons:
+
+            (i) Storage room. Storage room shall be separated or cut off from remainder of premises by, at least, a 1 1/2 hour fire retardant partition. Floor and ceiling should be of non-combustible construction and designed with sufficient strength and customary safety factors and sustain maximum imposed loads. . . . . .
+
+            (ii) The storage room shall be provided with a suitable extinguishing system. This equipment may be of the foam or CO2 type.
+
+            (iii) Ample ventilation to outer air shall be provided in storage room.
+
+            (iv) All lights, switches and other electrical apparatus shall be of the explosion proof type.
+
+            (v) Heat, if required, shall be by indirect means, hot water or steam coils to be located either at ceiling or at walls above maximum drum height. No open flame devices shall be allowed in room or near communicating opening.
+
+. . . . . . . . . .
+
+            (xii) All electrical equipment, in or near the workroom or laboratory room, where acetone is used, shall be of the explosion proof type. . . . . .
+
+            (xiii) All machinery shall be properly grounded.
+
+. . . . . . . . . .
+
+            (xvi) Fixed ventilation (natural or mechanical) shall be provided in room where acetone is used. Note 1. When the quantity of acetone exceeds 275 gallons, a buried storage system shall be required.
+
+. . . . . . . . . .
+
+         (3) Not more than one drum of acetone shall be allowed in a frame building.
+
+. . . . . . . . . .
+
+   (2) Former Fire Department Rule 3 RCNY § 21-05.
+
+      § 21-05 Storage and Sale of Flammable and/or Volatile Flammable Oils in Retail Paint Stores. In buildings other than those with dwelling facilities where not more than fifteen (15) persons congregate, the quantity of such liquids, flammable mixtures and/or volatile flammable oils, shall be limited to 55 gallons above ground, or in an approved underground tank when the amount exceeds 55 gallons. In buildings used for a place of assembly or licensed place of public assembly, or in buildings where more than fifteen (15) persons congregate above the paint store occupancy, the quantity of such liquids shall be limited to five (5) gallons above ground in a safety can, or in an approved underground tank when the amount exceeds five (5) gallons.
+
+. . . . . . . . . .
+
+   (3) Former Fire Department Rule 3 RCNY § 28-01.
+
+      § 28-01 Storage of Paints, Varnishes and Lacquers, and Similar Products in Multiple Dwellings.
+
+. . . . . . . . . .
+
+      (b) No volatile flammable oils shall be stored.
+
+      (c) Paints, varnishes, enamels and all similar materials used for painting or coating, having a flashpoint, shall be stored in storage rooms of fireproof construction. No such storage shall be permitted in basement, cellar or sub-cellar areas of non-fireproof buildings, except in such areas which have heretofore been approved by the fire commissioner. Storage rooms in basement or cellar occupancies having a door leading to the outer air with a maximum distance of twenty-five (25) feet from the paint room door to such door to the outer air and easily accessible by ramp or stairway to grade, may be permitted in class I fireproof buildings.
+
+      (d) The storage room shall be provided with either natural ventilation or an independent duct leading to the outer air. The ventilation shall not terminate in an enclosed court nor within twenty (20) feet of any building opening. Motors of ventilating system shall be explosion proof. Automatic sprinklers shall be provided for the storage room. Sprinklers may be connected to the house supply.
+
+      (e) The door to the paint storage room shall be fireproof and self closing. A masonry or concrete sill at least six (6) inches above the floor shall be provided at the door opening. Door shall be kept securely locked when room is not in actual use.
+
+. . . . . . . . . .
+
+      (g) No portable electrical appliances of any kind shall be used in the storage room.
+
+      (h) All globes shall be of the vaporproof type. The electric light switch shall be located outside of the room.
+
+      (i) The door to the room shall be marked "Paint Storage Room – No Smoking" in RED letters at least 4" high.
+
+. . . . . . . . . .
+
+      (o) The total quantity of paint material shall not exceed two hundred (200) gallons in non-fireproof multiple dwellings, except where storage in a separate fireproof exterior building. In class I fireproof multiple dwellings, or complexes of contiguous multiple dwellings under the same ownership, two (2) gallons per apartment, but not more than two thousand (2,000) gallons storage may be permitted provided that, when storage exceeds two hundred (200) gallons, the automatic sprinkler system required for the storage room is extra hazard spacing and piping, with a fire department siamese connection, that the room is on an outside wall of the building, and that explosion venting is provided. Explosion venting provided shall be a minimum of ten (10) square feet when less than twenty (20) gallons of material having a flashpoint of under 100(degrees)F. Tag. o.c. is stored, and in accordance with NFPA Standard No. 68 (1954) when twenty (20) gallons or more of low flash material under 100 degrees F. Tag. o.c. flash) are stored. (These are in addition to all other requirements specified in these regulations).
+
+      (p) All thinning of such paints, etc. shall be prepared in said storage areas.
+
+      (q) All such paints, when not in actual use, shall be returned to said approved storage areas. All paint products shall be transported in closed containers.
+
+      (r) No spraying or dipping with such paints, etc. may be performed except as provided for in the rules of the Board of Standards and Appeals.
+
+. . . . . . . . . .
+
+   (4) Former Fire Department Rule 3 RCNY § 28-04.
+
+      § 28-04 Storage and/or Use of Inks.
+
+. . . . . . . . . .
+
+      Printing inks and lithographic inks having a flashpoint below 100°F are to be within the purview of paints, varnishes, lacquers, as to permit requirements and restrictions. Apply paint spray rules of the Board of Standards and Appeals, 2 RCNY § 18-0l(f)(1)(i)-(iii) for storage facilities. Grounding and lighting shall be in accordance with the electrical code of the Bureau of Electrical Control.
+
+. . . . . . . . . .
+
+      Adequate means of either mechanical or natural ventilation shall be provided. No open flames unless printing machine is equipped with an exhaust hood and mechanical vent of at least one hundred (100) linear feet per minute is provided. . . . . . . . . . .
+
+
+
+
+
+
+*§ 4835-01 Storage of Flammable Gases in Pre-Existing Facilities.* ::
+
+
+(a) Scope. This section consolidates the Fire Prevention Code and former Fire Department rules in effect on June 30, 2008, that are applicable to the design and installation of flammable gas installations in pre-existing facilities.
+
+(b) Definitions. [Reserved.]
+
+(c) Ethylene Oxide. The design and installation of ethylene oxide systems used for sterilization purposes in compliance with former Fire Department rule 3 RCNY § 23-08 in effect on June 30, 2008 are allowed and would be approved under the provisions of the Fire Code and the rules, and accordingly, such facilities shall be designed and installed in compliance with the requirements of FC3506.
+
+(d) Compressed Natural Gas. The design and installation of compressed natural gas storage facilities in compliance with former Fire Department rule 3 RCNY § 23-12 are allowed and would be approved under the provisions of the Fire Code and the rules, and accordingly, such facilities shall be designed and installed in compliance with the requirements of FC3507 and R3507-01, except that pre-existing CNG storage facilities with reduced clearance distances shall be continued in compliance with the provisions of the former Fire Department rule 3 RCNY § 23-12(g) and (i) with respect to clearance distances until such time as such facilities may be required to comply with the Fire Code and the rules with respect to their design and installation.
+
+   (1) Former Fire Department Rule 3 RCNY § 23-12(g)(4)(i) and (i)(7)
+
+      § 23-12 Storage and Use of Compressed Natural Gas.
+
+      (g) Outdoor CNG container storage facilities.
+
+. . . . . . . . . .
+
+         (4) No outdoor CNG storage facility shall be located within:
+
+            (i) five (5) feet of any building opening, including any door, openable window, intake or exhaust vent;
+
+. . . . . . . . . .
+
+      (i) Stationary CNG installations.
+
+. . . . . . . . . .
+
+         (7) No CNG container connected for use shall be located within:
+
+            (i) five (5) feet of any building opening, including any door, openable window or intake or exhaust vent;
+
+            (ii) five (5) feet of the nearest lot line, sidewalk or building on an adjoining lot . . . . . ;
+
+            (iii) five (5) feet of any parked motor vehicle;
+
+            (iv) five (5) feet of any vent or fill line of any flammable or combustible liquid storage tank;
+
+(e) Acetylene Pre-existing acetylene storage facilities the design and installation of which would not be allowed or approved under the Fire Code, but which, pursuant to FC102.3 and R102-01, may be continued under the applicable laws, rules and regulations in effect prior to the Fire Code, shall continue to comply with the provisions of such laws, rules and regulations, including former Administrative Code § 27-4101, until such time as such facilities may be required to comply with the Fire Code and the rules with respect to their design and installation.
+
+   (1) Former Administrative Code § 27-4101
+
+      § 27-4101 Acetylene.
+
+      a. Approval of generator. It shall be unlawful to generate acetylene, except in a generator or other suitable apparatus of a type for which a certificate of approval shall have been issued; provided, however, that nothing contained in this section shall be construed as requiring a certificate of approval for an acetylene generator having a carbide capacity not exceeding five pounds.
+
+      b. Containing building. Each building or compartment used for the generation and compression of acetylene, to a pressure greater than fifteen pounds to the square inch, shall be designed and constructed in accordance with all applicable provisions of the building code, and shall be used for no other purpose.
+
+      c. Stationary apparatus. Each stationary apparatus for generating acetylene shall be equipped with liquid seals, a safety valve, a blowoff valve or other automatic appliance for limiting the pressure of the gas to not more than fifteen pounds to the square inch at a temperature of seventy degrees Fahrenheit. The apparatus shall be installed in a waterproof compartment having the floor, walls and roof of brick or reinforced concrete. The size of such compartment shall not exceed that required to allow the free operation of the apparatus and the storage of the necessary carbide. Each such apparatus shall bear the name of the manufacturer and the year of its manufacture, and shall be identified by a serial number.
+
+      d. Compression. It shall be unlawful to compress acetylene, or transport, store or sell acetylene compressed to a greater than two hundred fifty pounds to the square inch at a temperature of seventy degrees Fahrenheit.
+
+      e. Dissolving and absorbing. It shall be unlawful to generate, transport, store or sell acetylene compressed to a pressure greater than fifteen pounds to the square inch, except when it be dissolved in acetone, or other similar solvent, and simultaneously absorbed into asbestos or other suitable porous material, and confined in a tank or cylinder of a type for which a certificate of approval shall have been issued.
+
+      f. Liquid. It shall be unlawful to generate, manufacture, transport or sell any liquid acetylene.
+
+      g. Residue of carbide. All solid residue of calcium carbide shall be promptly removed from the building and disposed of; and it shall be unlawful to discharge any such residue into a public drain or sewer.
+
+. . . . . . . . . .
+
+      j. Ventilating, heating and lighting. Each building or compartment used for the generation or compression of acetylene shall be well ventilated, shall be heated only by steam or hot water, and shall be artificially lighted only by electric lights having airtight bulbs, globes or tubes.
+
+. . . . . . . . . .
+
+
+
+
+
+
+*§ 4838-01 Storage of Liquefied Petroleum Gases in Pre-Existing Facilities.* ::
+
+
+(a) Scope. This section consolidates the Fire Prevention Code and former Fire Department rules in effect on June 30, 2008, that are applicable to the design and installation of pre-existing liquefied petroleum gases storage facilities.
+
+(b) Definitions. [Reserved.]
+
+(c) Facilities in Compliance With Former Fire Department Rules in Effect on June 30, 2008. LPG storage facilities in compliance with former Fire Department rule 3 RCNY § 25-01 in effect on June 30, 2008 are allowed and would be approved under the provisions of the Fire Code and the rules, and accordingly, such facilities shall be designed and installed in compliance with the requirements of FC Chapter 38 and the R3809-01, except that where the storage facility clearance distances from building openings; stationary LPG installations clearance distances from building openings, lot lines, buildings on an adjoining lots, sidewalks, motor vehicles, and vent and fill lines of flammable or combustible liquid storage tanks; and previously exempt storage and use (as set forth in 3 RCNY § 25-01(k)); of such outdoor storage facility are lawfully not in compliance with the requirements of such chapter and rule, such pre-existing conditions shall be continued in compliance with the provisions of former Fire Department rule 3 RCNY § 25-01(g), (i) and (k), as applicable, until such time such facilities may be required to comply with the design and installation requirements of the Fire Code and rules with respect to such conditions.
+
+   (1) Former Fire Department Rule 3 RCNY § 25-01(g), (i) and (k)
+
+      § 25-01 Storage and Use of Liquefied Petroleum Gases.
+
+      (g) Outdoor storage facilities.
+
+. . . . . . . . . .
+
+         (4) No outdoor storage facility shall be located within:
+
+            (i) five (5) feet of any building opening, including any door, openable window, intake or exhaust vent;
+
+. . . . . . . . . .
+
+      (i) Stationary LPG installations.
+
+. . . . . . . . . .
+
+         (7) No LPG container connected for use shall be located within:
+
+            (i) five (5) feet of any building opening, including any door, openable window or intake or exhaust vent;
+
+            (ii) five (5) feet of the nearest lot line, sidewalk or building on an adjoining lot . . . . . ;
+
+            (iii) five (5) feet of any parked motor vehicle;
+
+            (iv) five (5) feet of any vent or fill line of any flammable or combustible liquid storage tank;
+
+. . . . . . . . . .
+
+      (k) Pre-existing storage and use.
+
+         (1) Exemptions. Subject to the provisions of paragraph (2) of this subdivision, LPG storage and use in or for the following existing facilities and installations shall be maintained and operated in accordance with the original approval conditions and the provisions of this section, except as follows:
+
+            (i) The provisions of paragraph (5) of subdivision (f) and paragraph (7) of subdivision (i) of this section shall not apply to any stationary LPG installation that was issued a Department permit prior to the effective date of this section, including the stationary LPG installations described in paragraph (7) of subdivision (j) and subparagraphs (ii), (iii) and (iv) of this paragraph.
+
+            (ii) The provisions of paragraph (5) of subdivision (c) and paragraph (5) of subdivision (i) of this section shall not apply to a LPG container installation in a residential occupancy that was issued a Department permit prior to the effective date of this section.
+
+            (iii) The provisions of paragraph (13) of subdivision (c) of this section shall not apply to LPG storage and use for non-residential space heating or water heating when a Department permit for such storage and use was issued prior to the effective date of this section.
+
+            (iv) The provisions of paragraphs (8) and (10) of subdivision (c) and paragraph (5) of subdivision (f) of this section shall not apply to a roof-mounted emergency generator installation that was issued a Department permit prior to the effective date of this section.
+
+            (v) The provisions of subdivision (g) and paragraph (5) of subdivision (f) of this section shall not apply to an outdoor LPG storage facility that was issued a Department permit prior to the effective date of this section.
+
+            (vi) The provisions of item (iii) of paragraph (2) of subdivision (h) and paragraph (4) of subdivision (h) of this section shall not apply to an indoor LPG storage facility that was issued a Department permit prior to the effective date of this section.
+
+         (2) Discontinuance of exempt storage and use.
+
+            (i) The LPG storage and use authorized by subparagraphs (1)(i), (ii), (iii) and (iv) of this subdivision shall be discontinued and all LPG containers removed from the premises:
+
+               (A) by December 31, 2004, if access to natural gas from a public utility is available on the effective date of this rule; or
+
+               (B) within five years after access to natural gas from a public utility becomes available, if such access is not available on the effective date of this rule.
+
+            (ii) Notwithstanding any other provision of this subdivision, the Department may require any facility or installation granted an exemption by this subdivision to comply with all applicable provisions of this section and may require discontinuance and removal of any facility or installation not in compliance with the provisions of this section, where the Department finds that such facility or installation has been operated contrary to the original approval conditions or poses an undue danger to public safety.   Provisions Referenced in § 25-01(k)
+
+      (c) General prohibitions.
+
+. . . . . . . . . .
+
+         (5) store or use in, or bring or allow into, any residential occupancy or on any lot containing a building used for a residential occupancy, any LPG container with a capacity greater than sixteen and four tenths ounces (16.4 oz.), except as provided in subdivision (j) and (k) of this section.
+
+. . . . . . . . . .
+
+         (8) use on the roof of any building any LPG container with a capacity greater than sixteen and four tenths ounces (16.4 oz.), except as provided in subdivisions (j) and (k) of this section.
+
+. . . . . . . . . .
+
+         (10) store or use LPG for a stationary installation in any area where access to natural gas from a public utility is available, except as provided in subdivision (k) of this section.
+
+. . . . . . . . . .
+
+         (13) store or use LPG for space heating or water heating, except as provided in subdivisions (j) and (k) of this section.
+
+. . . . . . . . . .
+
+      (f) General storage and use.
+
+. . . . . . . . . .
+
+         (5) Storage and use of LPG in quantities exceeding twenty five hundred (2,500) standard cubic feet of gas (approximately 300 pounds) constitutes a high hazard occupancy as set forth in Article 3 of Subchapter 3 of the New York City Building Code. Any such quantities of LPG shall be stored and used in compliance with the Building Code requirements applicable to high hazard occupancies, except as provided in subdivision (k) of this section.
+
+. . . . . . . . . .
+
+      (g) Outdoor storage facilities.
+
+         (1) Except as otherwise provided in this section, all LPG containers shall be stored outdoors in a facility that conforms to the requirements of this subdivision. All outdoor LPG storage facilities shall be:
+
+            (i) not more than fifty four (54) square feet in area;
+
+            (ii) protected from vehicle impact;
+
+            (iii) protected from theft, tampering or unauthorized use by a metal open fence enclosure at least six (6) feet in height, secured by a locked gate opening outward, or by a lockable ventilated metal locker of a type for which a Certificate of Approval has been issued by the Department. Such fence enclosure or locker shall be mounted on and secured to a substantial concrete pad at grade level, which pad shall be constructed to prevent accumulation of rain and snow;
+
+            (iv) located in a well ventilated area. There shall be a minimum clearance of ten (10) feet from any surrounding walls more than eight (8) feet high on at least three sides of the outdoor storage facility;
+
+            (v) directly accessible from the street. LPG containers being delivered to or taken from an outdoor storage location shall not be brought into or through any building or other structure; and
+
+            (vi) equipped with at least one 10-B-C rated fire extinguisher in a protective enclosure. Such fire extinguisher shall be affixed to the outside of the storage facility or placed at another readily accessible location not more than thirty (30) feet from the facility.
+
+         (2) No more than twenty five hundred (2,500) standard cubic feet of LPG (approximately 300 pounds) shall be stored in an outdoor LPG storage facility.
+
+         (3) No outdoor storage facility shall be located on a lot containing any building used for residential purposes.
+
+         (4) No outdoor storage facility shall be located within:
+
+            (i) five (5) feet of any building opening, including any door, openable window, intake or exhaust vent;
+
+            (ii) ten (10) feet of the nearest lot line, sidewalk or building on an adjoining lot, except as follows:
+
+               (A) twenty (20) feet of any building of wood frame construction;
+
+               (B) fifty (50) feet from any building occupied as a multiple dwelling; and
+
+               (C) one hundred (100) feet of the lot line of any property occupied for educational, health care or religious purposes, place of public assembly, or other place of public gathering;
+
+            (iii) ten (10) feet of any parked motor vehicle;
+
+            (iv) ten (10) feet of any combustible material;
+
+            (v) fifteen (15) feet of any vent or fill line of any flammable or combustible liquid storage tank;
+
+            (vi) twenty (20) feet of flammable gas storage;
+
+            (vii) twenty (20) feet of any aboveground flammable or combustible liquid storage tank; and
+
+            (viii) one hundred (100) feet of any subway entrance or exit, vent or other opening.
+
+. . . . . . . . . .
+
+      (h) Indoor LPG storage.
+
+. . . . . . . . . .
+
+         (2) All indoor storage of LPG with an individual capacity greater than sixteen and four tenths ounces (16.4 oz.) authorized by this rule shall be stored in a separate room that conforms to the requirements of this subdivision. Any such room shall be:
+
+. . . . . . . . . .
+
+            (iii) constructed with an access door that opens directly to the outdoors:
+
+. . . . . . . . . .
+
+         (4) all delivery and pick-up of containers to or from an indoor LPG storage facility shall be through the outdoors access door only, not through the building.
+
+. . . . . . . . . .
+
+            (i) Stationary LPG installations.
+
+. . . . . . . . . .
+
+         (5) When LPG is piped indoors, a sign at least ten (10) inches high and fourteen (14) inches wide shall be conspicuously posted at the entrance to the building and shall bear the wording "Danger-LPG Piping".
+
+. . . . . . . . . .
+
+         (7) No LPG container connected for use shall be located within:
+
+            (i) five (5) feet of any building opening, including any door, openable window or intake or exhaust vent;
+
+            (ii) five (5) feet of the nearest lot line, sidewalk or building on an adjoining lot, except as follows:
+
+               (A) ten (10) feet of any building of wood frame construction;
+
+               (B) fifty (50) feet from any building occupied as a multiple dwelling; and
+
+               (C) one hundred (100) feet of the lot line of any property occupied for educational, health care or religious purposes, place of public assembly, or other place of public gathering;
+
+            (iii) five (5) feet of any parked motor vehicle;
+
+            (iv) five (5) feet of any vent or fill line of any flammable or combustible liquid storage tank;
+
+            (v) ten (10) feet of any combustible material;
+
+            (vi) twenty (20) feet of any flammable gas storage;
+
+            (vii) twenty (20) feet of any aboveground flammable or combustible liquid storage tank; and
+
+            (viii) one hundred (100) feet of any subway entrance, exit, vent or other opening.
+
+. . . . . . . . . .
+
+      (j) Special storage and use.
+
+. . . . . . . . . .
+
+         (7) Commercial establishments. Commercial establishments which store and use LPG for cooking and oil burner ignition shall comply with the following requirements:
+
+            (i) LPG storage and use shall be limited to LPG containers with a capacity not greater than 16.4 ounces unless the container is connected for use in a stationary installation.
+
+            (ii) All LPG appliances and equipment shall be installed by a plumber licensed by the New York City Department of Buildings.
+
+            (iii) Rigid piping shall be used for all connections between LPG appliances and equipment and LPG containers.
+
+            (iv) LPG storage and use for the purposes authorized by this paragraph is subject to the prohibition set forth in paragraph (10) of subdivision (c) of this section, and shall be discontinued in accordance with the provisions of paragraph (2) of subdivision (k) of this section.
+
+
+
+
+
+
+*§ 4839-01 Storage of Organic Peroxides in Pre-Existing Facilities.* ::
+
+
+(a) Scope. This section consolidates the New York City Fire Prevention Code and former Fire Department rules in effect on June 30, 2008 that are applicable to the design and installation of organic peroxide installations in pre-existing facilities.
+
+(b) Definitions. [Reserved.]
+
+(c) General Provisions. Pre-existing facilities with organic peroxide installations the design and installation of which would not be allowed or approved under the Fire Code, but which, pursuant to FC102.3 and R102-01, may be continued with respect to such organic peroxide installations under the applicable laws, rules and regulations in effect prior to the Fire Code, shall continue to comply with the provisions of such laws, rules and regulations, including former Fire Department rule 3 RCNY § 27-01, until such time as such facilities may be required to comply with the Fire Code and the rules with respect to the design and installation of such organic peroxide installations.
+
+(d) Organic Peroxides.
+
+   (1) Former Fire Department Rule 3 RCNY § 27-01. . . . . . . . . . .
+
+      § 27-01 Storage, Sale or Use of Organic Peroxides Packaged for Manufacturing, Industrial or Commercial Uses.
+
+. . . . . . . . . .
+
+      (j) Storage facilities.
+
+. . . . . . . . . .
+
+         (2) Storage building or space shall be equipped with fast acting deluge type automatic sprinkler system. Roof of storage building shall be of light construction and suitably insulated with non-combustible insulating material. In lieu of light constructed roof, explosion venting may be provided. Ventilation to be provided for preventing excessive temperatures and to remove products of decomposition. Installation shall conform to requirements of Building (Administrative) Code and pertinent Board of Standards and Appeals resolution.
+
+         (3) Alarms shall be installed in storage building or space to indicate unsafe temperatures.
 
 
 
