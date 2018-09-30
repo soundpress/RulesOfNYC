@@ -10020,7 +10020,7 @@ Water separator. "Water separator" shall mean a vessel that uses gravity to phys
 
 (d) The scavenger waste permit is applicable for vehicles transporting only scavenger wastes and is not valid for vehicles which, at times, transport other wastes.
 
-(e) The discharge of any wastes from grease interceptors, separators or traps is pro- hibited.
+(e) The discharge of any wastes from grease interceptors, separators or traps is prohibited.
 
 
 
@@ -13610,6 +13610,117 @@ All solid waste or recyclable materials contracts shall specify that diesel fuel
 
 
 
+Chapter 29: Commercial Music Noise Mitigation Rules
+--------------------------------------------------
+
+
+
+*§ 29-100 Definitions.* ::
+
+
+As used in this Chapter, the following terms shall have the following meanings:
+
+a. "Board" shall mean the New York City Environmental Control Board.
+
+b. "Code" shall mean the New York City Administrative Code.
+
+c. "Commissioner" shall mean the Commissioner of the Department of Environmental Protection.
+
+d. "Department" shall mean the New York City Department of Environmental Protection.
+
+e. "Noise Consultant" shall mean any person on the "Approved Noise Consultants" list maintained by DEP whose appearance on such list was obtained in accordance with 15 RCNY § 29-101.
+
+
+
+
+
+
+*§ 29-101 Noise Consultants.* ::
+
+
+a. DEP shall maintain an "Approved Noise Consultants" list in order to effectively carry out the requirements of § 24-231 and § 24-206  of the Code and this chapter. The following persons are eligible to appear on such list, provided that they submit in detail their experience, qualifications, and references to DEP and request that their names be included on such list:
+
+   (1) A licensed New York State professional engineer possessing at least two years of experience measuring sound levels utilizing the ANSI standards. At least one year of such experience shall have been performed within the City of New York, and such experience shall include developing or proposing sound mitigation measures for buildings and noise-producing equipment.
+
+   (2) A person possessing a Bachelor of Science degree or a Bachelor of Engineering degree  from an accredited college or university with at least four years of experience measuring sound levels utilizing the ANSI standards. Two of such four years of experience shall have been performed within the City of New York, and such experience shall include developing or proposing sound mitigation measures for buildings and noise-producing equipment.
+
+   (3) A person possessing ten years of experience measuring sound levels utilizing the ANSI standards. Five years of such experience shall have been performed within the City of New York, and such experience shall include developing or proposing sound mitigation measures for buildings and noise-producing equipment.
+
+b. A person may be removed from the "Approved Noise Consultants" list for cause. If it is determined that a Noise Consultant provided false, misleading or materially incorrect information to DEP in the course of providing reports as specified in this chapter, or providing test results under § 24-206 of the Code, as amended by Local Law No. 113 of 2005, such person shall be removed from such list after a hearing before an administrative law judge. The burden of proof in such hearing shall be on DEP to establish a cause for removal from the list based on a preponderance of the evidence.
+
+
+
+
+
+
+*§ 29-102 Certification to the Department.* ::
+
+
+a. Pursuant to paragraph 1 of subdivision b of § 24-231 of the Code, the Commissioner shall recommend to the Board that there be no civil penalty imposed for a first violation of subdivision a of § 24-231 of such Code provided that, within 30 days after the issuance of such violation or, if applicable, within the time granted by the Commissioner pursuant to paragraph two of such subdivision of the Code, the respondent admits liability for the violation, and files a certification with the Department in the form and manner and containing the information and documentation prescribed in subdivision b of this section.
+
+b. The certification referenced in subdivision a of this section shall be made by a Noise Consultant, retained by the owner of the subject commercial music establishment or enterprise and acceptable to the Department. Such Noise Consultant shall certify a written report to the Department that shall include the following information and documentation:
+
+   (1) A certification that the commercial music establishment is in compliance with the sound levels set forth in subdivision a of § 24-231 of the Code at the establishment's maximum decibel musical performance level.
+
+   (2) A description of all permanent improvements and modifications made at such commercial music establishment to achieve compliance with such sound levels, including but not limited to, the installation of appropriate sound insulation, isolators, suspension mounting and/or sound mitigation devices or materials, and diagrams of such work, together with copies of all bills and receipts for such work, and;
+
+   (3) All sound level measurements taken at a location within the two closest receiving properties abutting the establishment and/or in a location specified by the Department. Should there be difficulty gaining entry to any abutting location, DEP shall be informed and DEP will set an alternate location. All such measurements shall be performed by a Noise Consultant. Such measurements shall be in accordance with the ANSI standards in § 24-231 of the Code, and shall be taken using an ANSI meter operating in the A and/or C weighted scales and/or third octave bands.
+
+   (4) A description of the method by which the maximum allowable amplified sound level in the A and/or C weighted scales and/or third octave bands shall be permanently set within the commercial music establishment.
+
+c. The report referenced in subdivision b of this section shall be submitted to the Department within six weeks of the date of violation. The respondent may ask DEP to grant an adjournment for an additional 30 days to submit such report upon a showing of substantial hardship due to site conditions or limitations.
+
+d. If the Commissioner accepts the certified report referenced in subdivisions a, b, and c of this section, he or she shall recommend to the Board that no civil penalty be imposed for the violation. Such violation may nevertheless serve as a predicate for purposes of imposing penalties for subsequent violations of § 24-231 of the Code.
+
+
+
+
+
+
+*§ 29-103 Application for a Variance From the Decibel Limits for Commercial Music Establishments and Enterprises.* ::
+
+
+a. In accordance with subdivision d of § 24-231 of the Code, the Commissioner may grant a variance from strict compliance with the decibel limits set forth in subdivision a of § 24-231 of the Code to a commercial establishment or enterprise if:
+
+   (1) the commercial music establishment or music enterprise was in existence and was operating at the same location prior to the date of enactment of § 24-231 of the Code; and
+
+   (2) the owner of the subject commercial music establishment or enterprise submits sufficient evidence or data to the Department showing that strict compliance with such decibel levels would cause practical difficulties or unnecessary hardship due to the physical condition of the premises or zoning district conditions, including irregularity in lot size characteristics and zoning changes. Such evidence or data shall be submitted in accordance with subdivision b of this section.
+
+b. Applications for a variance shall include the following evidence or data and shall be submitted in the following form and manner:
+
+   (1) Applications for a variance shall be submitted on forms provided by the Department and shall contain the information required by this section as well as any other documentation requested by the Department to verify the eligibility of the subject commercial music establishment or enterprise for a variance under the law.
+
+   (2) An application for a variance must include decibel measurements demonstrating that such establishment or enterprise is currently in compliance with the decibel limits that were previously set forth in § 24-241.1 of the prior Code.
+
+   (3) An application for a variance must include a written report to the Department certified by a Noise Consultant retained by the applicant and acceptable to the Department. Such report shall include, but not necessarily be limited to, the following information and documentation:
+
+      i. A certification that strict compliance by the subject commercial music establishment or enterprise with the decibel levels in subdivision a of § 24-231 of the Code will result in a substantial hardship due to site conditions or limitations.
+
+      ii. A description of all proposed permanent improvements and modifications to be performed upon the subject commercial music establishment or enterprise to meet the intent of § 24-231 of the Code to practically minimize noise emanating from the location. Such description shall include an estimate of the cost of such improvements and a timetable for their completion.
+
+      iii. All sound level measurements taken at locations within the two closest receiving properties abutting the establishment and/or in alternative locations specified by the Department. All reported measurements shall be performed in accordance with ANSI standards as indicated in § 24-231 of the Code and using an ANSI compliant meter operating in the A and/or C weighted scales and/or third octave bands.
+
+      iv. A description of the method by which the maximum allowable amplified sound level shall be permanently set within the subject commercial music establishment or enterprise. The sound levels shall be measured in the A and/or C weighted scales and/or third octave bands.
+
+   (4) An application for a variance must also include competent evidence, in a form acceptable to the Department, that 51% of the outstanding shares as of the date of such application are held by the same person or persons who owned the entity as of the date of enactment of the Noise Code, December 29, 2005. If the subject entity is a corporation, such evidence shall include, at a minimum, corporate records, certified in a manner acceptable to the Department, demonstrating that at least 51% of the voting securities of such entity were owned as of the date of such application by the same person or persons owning at least 51% of such voting securities as of December 29, 2005.
+
+c. The Department shall afford all documents submitted such confidentiality as may be provided by applicable law.
+
+d. Variance limitations.
+
+   (1) A variance granted under this section to an applicant/owner of a commercial music establishment or enterprise shall be a one-time variance only.
+
+   (2) A variance granted under this section shall only be applicable to the business for which it is issued, and shall not be transferable to a new owner in accordance with subdivision d of § 24-231 of the Code and paragraph (4) of subdivision b of this section. Any change in ownership, as defined in paragraph (4) of subdivision b of this section, of a commercial establishment or enterprise, shall automatically void the variance. A change in the size or location of the commercial establishment or enterprise, or a change in the type of business shall also negate the variance.
+
+   (3) A change in the size or location of the music establishment or enterprise from its original size or original location prior to the enactment of § 24-231 of the Code shall negate any right of the establishment to apply for a variance.
+
+   (4) In granting a variance, the Commissioner may impose such terms and conditions as he or she deems necessary to carry out the intent of § 24-231 of the Code to minimize noise emissions from the location. Violation of the conditions of any variance shall be deemed to be a violation of subdivision d of § 24-231 of the Code.
+
+e. A violation of the terms of the variance by the establishment shall constitute violation of § 24-231 of the Code, where applicable, and shall result in the immediate cancellation of the variance.
+
+
+
+
 Chapter 28: Citywide Construction Noise Mitigation
 --------------------------------------------------
 
@@ -14569,117 +14680,6 @@ CA/T Equipment 50 ft Noise Emission Reference Levels and Usage Factors – All n
 
 
 
-Chapter 29: Commercial Music Noise Mitigation Rules
---------------------------------------------------
-
-
-
-*§ 29-100 Definitions.* ::
-
-
-As used in this Chapter, the following terms shall have the following meanings:
-
-a. "Board" shall mean the New York City Environmental Control Board.
-
-b. "Code" shall mean the New York City Administrative Code.
-
-c. "Commissioner" shall mean the Commissioner of the Department of Environmental Protection.
-
-d. "Department" shall mean the New York City Department of Environmental Protection.
-
-e. "Noise Consultant" shall mean any person on the "Approved Noise Consultants" list maintained by DEP whose appearance on such list was obtained in accordance with 15 RCNY § 29-101.
-
-
-
-
-
-
-*§ 29-101 Noise Consultants.* ::
-
-
-a. DEP shall maintain an "Approved Noise Consultants" list in order to effectively carry out the requirements of § 24-231 and § 24-206  of the Code and this chapter. The following persons are eligible to appear on such list, provided that they submit in detail their experience, qualifications, and references to DEP and request that their names be included on such list:
-
-   (1) A licensed New York State professional engineer possessing at least two years of experience measuring sound levels utilizing the ANSI standards. At least one year of such experience shall have been performed within the City of New York, and such experience shall include developing or proposing sound mitigation measures for buildings and noise-producing equipment.
-
-   (2) A person possessing a Bachelor of Science degree or a Bachelor of Engineering degree  from an accredited college or university with at least four years of experience measuring sound levels utilizing the ANSI standards. Two of such four years of experience shall have been performed within the City of New York, and such experience shall include developing or proposing sound mitigation measures for buildings and noise-producing equipment.
-
-   (3) A person possessing ten years of experience measuring sound levels utilizing the ANSI standards. Five years of such experience shall have been performed within the City of New York, and such experience shall include developing or proposing sound mitigation measures for buildings and noise-producing equipment.
-
-b. A person may be removed from the "Approved Noise Consultants" list for cause. If it is determined that a Noise Consultant provided false, misleading or materially incorrect information to DEP in the course of providing reports as specified in this chapter, or providing test results under § 24-206 of the Code, as amended by Local Law No. 113 of 2005, such person shall be removed from such list after a hearing before an administrative law judge. The burden of proof in such hearing shall be on DEP to establish a cause for removal from the list based on a preponderance of the evidence.
-
-
-
-
-
-
-*§ 29-102 Certification to the Department.* ::
-
-
-a. Pursuant to paragraph 1 of subdivision b of § 24-231 of the Code, the Commissioner shall recommend to the Board that there be no civil penalty imposed for a first violation of subdivision a of § 24-231 of such Code provided that, within 30 days after the issuance of such violation or, if applicable, within the time granted by the Commissioner pursuant to paragraph two of such subdivision of the Code, the respondent admits liability for the violation, and files a certification with the Department in the form and manner and containing the information and documentation prescribed in subdivision b of this section.
-
-b. The certification referenced in subdivision a of this section shall be made by a Noise Consultant, retained by the owner of the subject commercial music establishment or enterprise and acceptable to the Department. Such Noise Consultant shall certify a written report to the Department that shall include the following information and documentation:
-
-   (1) A certification that the commercial music establishment is in compliance with the sound levels set forth in subdivision a of § 24-231 of the Code at the establishment's maximum decibel musical performance level.
-
-   (2) A description of all permanent improvements and modifications made at such commercial music establishment to achieve compliance with such sound levels, including but not limited to, the installation of appropriate sound insulation, isolators, suspension mounting and/or sound mitigation devices or materials, and diagrams of such work, together with copies of all bills and receipts for such work, and;
-
-   (3) All sound level measurements taken at a location within the two closest receiving properties abutting the establishment and/or in a location specified by the Department. Should there be difficulty gaining entry to any abutting location, DEP shall be informed and DEP will set an alternate location. All such measurements shall be performed by a Noise Consultant. Such measurements shall be in accordance with the ANSI standards in § 24-231 of the Code, and shall be taken using an ANSI meter operating in the A and/or C weighted scales and/or third octave bands.
-
-   (4) A description of the method by which the maximum allowable amplified sound level in the A and/or C weighted scales and/or third octave bands shall be permanently set within the commercial music establishment.
-
-c. The report referenced in subdivision b of this section shall be submitted to the Department within six weeks of the date of violation. The respondent may ask DEP to grant an adjournment for an additional 30 days to submit such report upon a showing of substantial hardship due to site conditions or limitations.
-
-d. If the Commissioner accepts the certified report referenced in subdivisions a, b, and c of this section, he or she shall recommend to the Board that no civil penalty be imposed for the violation. Such violation may nevertheless serve as a predicate for purposes of imposing penalties for subsequent violations of § 24-231 of the Code.
-
-
-
-
-
-
-*§ 29-103 Application for a Variance From the Decibel Limits for Commercial Music Establishments and Enterprises.* ::
-
-
-a. In accordance with subdivision d of § 24-231 of the Code, the Commissioner may grant a variance from strict compliance with the decibel limits set forth in subdivision a of § 24-231 of the Code to a commercial establishment or enterprise if:
-
-   (1) the commercial music establishment or music enterprise was in existence and was operating at the same location prior to the date of enactment of § 24-231 of the Code; and
-
-   (2) the owner of the subject commercial music establishment or enterprise submits sufficient evidence or data to the Department showing that strict compliance with such decibel levels would cause practical difficulties or unnecessary hardship due to the physical condition of the premises or zoning district conditions, including irregularity in lot size characteristics and zoning changes. Such evidence or data shall be submitted in accordance with subdivision b of this section.
-
-b. Applications for a variance shall include the following evidence or data and shall be submitted in the following form and manner:
-
-   (1) Applications for a variance shall be submitted on forms provided by the Department and shall contain the information required by this section as well as any other documentation requested by the Department to verify the eligibility of the subject commercial music establishment or enterprise for a variance under the law.
-
-   (2) An application for a variance must include decibel measurements demonstrating that such establishment or enterprise is currently in compliance with the decibel limits that were previously set forth in § 24-241.1 of the prior Code.
-
-   (3) An application for a variance must include a written report to the Department certified by a Noise Consultant retained by the applicant and acceptable to the Department. Such report shall include, but not necessarily be limited to, the following information and documentation:
-
-      i. A certification that strict compliance by the subject commercial music establishment or enterprise with the decibel levels in subdivision a of § 24-231 of the Code will result in a substantial hardship due to site conditions or limitations.
-
-      ii. A description of all proposed permanent improvements and modifications to be performed upon the subject commercial music establishment or enterprise to meet the intent of § 24-231 of the Code to practically minimize noise emanating from the location. Such description shall include an estimate of the cost of such improvements and a timetable for their completion.
-
-      iii. All sound level measurements taken at locations within the two closest receiving properties abutting the establishment and/or in alternative locations specified by the Department. All reported measurements shall be performed in accordance with ANSI standards as indicated in § 24-231 of the Code and using an ANSI compliant meter operating in the A and/or C weighted scales and/or third octave bands.
-
-      iv. A description of the method by which the maximum allowable amplified sound level shall be permanently set within the subject commercial music establishment or enterprise. The sound levels shall be measured in the A and/or C weighted scales and/or third octave bands.
-
-   (4) An application for a variance must also include competent evidence, in a form acceptable to the Department, that 51% of the outstanding shares as of the date of such application are held by the same person or persons who owned the entity as of the date of enactment of the Noise Code, December 29, 2005. If the subject entity is a corporation, such evidence shall include, at a minimum, corporate records, certified in a manner acceptable to the Department, demonstrating that at least 51% of the voting securities of such entity were owned as of the date of such application by the same person or persons owning at least 51% of such voting securities as of December 29, 2005.
-
-c. The Department shall afford all documents submitted such confidentiality as may be provided by applicable law.
-
-d. Variance limitations.
-
-   (1) A variance granted under this section to an applicant/owner of a commercial music establishment or enterprise shall be a one-time variance only.
-
-   (2) A variance granted under this section shall only be applicable to the business for which it is issued, and shall not be transferable to a new owner in accordance with subdivision d of § 24-231 of the Code and paragraph (4) of subdivision b of this section. Any change in ownership, as defined in paragraph (4) of subdivision b of this section, of a commercial establishment or enterprise, shall automatically void the variance. A change in the size or location of the commercial establishment or enterprise, or a change in the type of business shall also negate the variance.
-
-   (3) A change in the size or location of the music establishment or enterprise from its original size or original location prior to the enactment of § 24-231 of the Code shall negate any right of the establishment to apply for a variance.
-
-   (4) In granting a variance, the Commissioner may impose such terms and conditions as he or she deems necessary to carry out the intent of § 24-231 of the Code to minimize noise emissions from the location. Violation of the conditions of any variance shall be deemed to be a violation of subdivision d of § 24-231 of the Code.
-
-e. A violation of the terms of the variance by the establishment shall constitute violation of § 24-231 of the Code, where applicable, and shall result in the immediate cancellation of the variance.
-
-
-
-
 Chapter 30: Minimal Noise Impact Construction Activities
 --------------------------------------------------
 
@@ -15458,11 +15458,11 @@ Chapter 32: Adjudications
 *§ 32-01 Conduct of Adjudicatory Hearings by the Department of Environmental Protection.* ::
 
 
-Pursuant to the New York City Charter, §§ 1041, 1046-1048, the Department of Environmental Protection has determined that the following adjudications shall continue to be conducted by the Department:
+Pursuant to the New York City Charter, §§ 1041, 1046 - 1048, the Department of Environmental Protection has determined that the following adjudications shall continue to be conducted by the Department:
 
 (a) Revocation or Suspension of a certificate issued by the Asbestos Control Program, pursuant to Administrative Code § 24-136(e)(4).
 
-(b) Revocation or Removal of a Noise Consultant from the "Approved Noise Consultants" list, pursuant to Administrative Code § 24-206(b)(i-ii) and § 29-101 of Chapter 29 of this Title.
+(b) Revocation or Removal of a Noise Consultant from the "Approved Noise Consultants" list, pursuant to Administrative Code § 24-206(b)(i-ii) and 15 RCNY § 29-101.
 
 (c) Appeal of Commissioner's Order issued pursuant to the Hazardous Substances Emergency Response Law, Administrative Code § 24-610(a)(4).
 
@@ -15612,77 +15612,6 @@ Please refer to the New York City Water Board Water and Wastewater Rate Schedule
 
 
 Please refer to the New York City Water Board Water and Wastewater Rate Schedule, Part IX – Customer Account Information and Complaint Resolution, Section 2, Complaint Resolution and Appeal Process for existing procedures governing challenges to the validity of any sewer rent, sewer surcharge, or water rent charge.
-
-
-
-
-Chapter 35: Voluntary Master Environmental Hazard Remediation Technician Registration Program
---------------------------------------------------
-
-
-
-*§ 35-01 Definitions.* ::
-
-
-"Certificate of completion" means any license, certificate, diploma or other NYC Department of Environmental Protection approved documentation indicating that the applicant has satisfactorily completed department approved training programs or courses by a department approved training provider or providers.
-
-"Master environmental hazard remediation technician" means a person registered with the NYC Department of Environmental Protection after successfully presenting to the commissioner current documentation of having completed required environmental remediation training programs or courses from a department approved training provider as demonstrated by a certificate of completion.
-
-"Training provider" means training programs or courses approved by the department covering topics identified in section 24-1002 of the administrative code conducted by any entity approved by the NYC Department of Environmental Protection, including but not limited to: a registered New York State Department of Labor apprenticeship program, an educational institution or school chartered, licensed, or registered by the New York state education department, or the institute of inspection, cleaning, and restoration certification. Each program or course must be offered by an instructor or institution authorized by the appropriate governing authority to conduct such training.
-
-
-
-
-
-
-*§ 35-02 Requirements for Registration.* ::
-
-
-(a) For an applicant to be eligible to become a master environmental hazard remediation technician, he/she must meet all of the qualifications set forth in section 24-1002(a) of the administrative code.
-
-(b) All licenses or certifications held by a master environmental hazard remediation technician associated with asbestos handling and lead training must remain current for the applicant to be eligible for registration. The master environmental hazard remediation technician's registration will not be considered valid if the applicant does not possess a valid certificate from the New York State Department of Labor for asbestos handling, and a United States Environmental Protection Agency certification in lead.
-
-(c) The applicant must complete a registration form that will be available on the NYC Department of Environmental Protection website that contains the following information at a minimum:
-
-   (1) Names of Training Providers.
-
-   (2) Names of Training Programs or Courses Completed.
-
-   (3) Number of Hours Attended Programs or Courses.
-
-   (4) Certificates of Completion.
-
-
-
-
-
-
-*§ 35-03 Expiration Date.* ::
-
-
-A master environmental hazard remediation technician registration shall expire four years from the applicant's most recent birthday at the time the application is submitted.
-
-
-
-
-
-
-*§ 35-04 Fees for Registration.* ::
-
-
-(a) The fee to register with the department as a master environmental hazard remediation technician shall be $375.
-
-(b) The fee to renew the master environmental hazard remediation technician registration shall be $375.
-
-
-
-
-
-
-*§ 35-05 Effect of Certification.* ::
-
-
-The program covered by these rules is a voluntary registration program. Registration as a Master Environmental Remediation Technician does not replace any license, permit or certification required by any federal, state or local law or rules for the work referenced by such registration and a person who is not registered as a Master Environmental Remediation technician may perform any work otherwise authorized by law as if this program were not in effect. Registration pursuant to this program is based on documentation provided by the applicant. The department does not independently verify such documentation or the qualifications of registrants to perform the work referenced by such registration.
 
 
 
@@ -15857,7 +15786,7 @@ For higher outputs, see subdivision (i) of 15 RCNY § 34-04.
 
 (i) For gasoline dispensing stations, one hundred ($190) dollars.
 
-Editor's note: the fee in § 34-03(i) above is presented herein exactly as promulgated by DEP Rule effective 3/29/2016.
+Editor's note: the fee in 15 RCNY § 34-03(i) above is presented herein exactly as promulgated by DEP Rule effective 3/29/2016.
 
 (j) The fee to amend a registration shall be sixty-five ($65) dollars.
 
@@ -16334,6 +16263,77 @@ The fees for equipment approvals are as follows:
 
 
 
+Chapter 35: Voluntary Master Environmental Hazard Remediation Technician Registration Program
+--------------------------------------------------
+
+
+
+*§ 35-01 Definitions.* ::
+
+
+"Certificate of completion" means any license, certificate, diploma or other NYC Department of Environmental Protection approved documentation indicating that the applicant has satisfactorily completed department approved training programs or courses by a department approved training provider or providers.
+
+"Master environmental hazard remediation technician" means a person registered with the NYC Department of Environmental Protection after successfully presenting to the commissioner current documentation of having completed required environmental remediation training programs or courses from a department approved training provider as demonstrated by a certificate of completion.
+
+"Training provider" means training programs or courses approved by the department covering topics identified in section 24-1002 of the administrative code conducted by any entity approved by the NYC Department of Environmental Protection, including but not limited to: a registered New York State Department of Labor apprenticeship program, an educational institution or school chartered, licensed, or registered by the New York state education department, or the institute of inspection, cleaning, and restoration certification. Each program or course must be offered by an instructor or institution authorized by the appropriate governing authority to conduct such training.
+
+
+
+
+
+
+*§ 35-02 Requirements for Registration.* ::
+
+
+(a) For an applicant to be eligible to become a master environmental hazard remediation technician, he/she must meet all of the qualifications set forth in section 24-1002(a) of the administrative code.
+
+(b) All licenses or certifications held by a master environmental hazard remediation technician associated with asbestos handling and lead training must remain current for the applicant to be eligible for registration. The master environmental hazard remediation technician's registration will not be considered valid if the applicant does not possess a valid certificate from the New York State Department of Labor for asbestos handling, and a United States Environmental Protection Agency certification in lead.
+
+(c) The applicant must complete a registration form that will be available on the NYC Department of Environmental Protection website that contains the following information at a minimum:
+
+   (1) Names of Training Providers.
+
+   (2) Names of Training Programs or Courses Completed.
+
+   (3) Number of Hours Attended Programs or Courses.
+
+   (4) Certificates of Completion.
+
+
+
+
+
+
+*§ 35-03 Expiration Date.* ::
+
+
+A master environmental hazard remediation technician registration shall expire four years from the applicant's most recent birthday at the time the application is submitted.
+
+
+
+
+
+
+*§ 35-04 Fees for Registration.* ::
+
+
+(a) The fee to register with the department as a master environmental hazard remediation technician shall be $375.
+
+(b) The fee to renew the master environmental hazard remediation technician registration shall be $375.
+
+
+
+
+
+
+*§ 35-05 Effect of Certification.* ::
+
+
+The program covered by these rules is a voluntary registration program. Registration as a Master Environmental Remediation Technician does not replace any license, permit or certification required by any federal, state or local law or rules for the work referenced by such registration and a person who is not registered as a Master Environmental Remediation technician may perform any work otherwise authorized by law as if this program were not in effect. Registration pursuant to this program is based on documentation provided by the applicant. The department does not independently verify such documentation or the qualifications of registrants to perform the work referenced by such registration.
+
+
+
+
 Chapter 36: Cure Period for Certain Air and Noise Code Violations
 --------------------------------------------------
 
@@ -16447,8 +16447,6 @@ New. "New" means installed on or after May 6, 2016.
 
 Particulate Matter. "Particulate Matter" or "PM" means any air or gas-borne material, except water, that exists as a liquid or solid.
 
-   "PM 10" means PM with an aerodynamic diameter equal to or less than 10 micrometers.
-
 Under-fired commercial char broiler. "Under-fired commercial char broiler" means a commercial char broiler that has a grill, a high temperature radiant surface, and a heat source that is located below the food.
 
 Week. "Week" means a period of 7 consecutive days starting on Sunday, unless a different start day is specified in the registration filed pursuant to section 24-109 of the Administrative Code.
@@ -16547,7 +16545,7 @@ The manufacturer or owner of an emissions control device may seek department cer
 
       c. Pure beef, finished grind hamburgers of 0.33 lbs each must be cooked on the under-fired commercial char broiler during testing. The patties must be shaped into 0.625 inch thick round patties of 5 inch diameter.
 
-      d. The patties must consist of 18-22% fat by weight and 58-62% moisture.
+      d. The patties must consist of 18 - 22% fat by weight and 58 - 62% moisture.
 
       e. The fat and moisture content of the patties must be verified in accordance with the laboratory procedures set forth in the Association of Official Analytical Chemists Official Actions 960.39 and 950.46B.
 
@@ -16564,6 +16562,31 @@ The manufacturer or owner of an emissions control device may seek department cer
    c. A statement that testing has been conducted in accordance with the requirements of this section.
 
 
+
+
+
+
+Chapter 39: Engine Idling Adjacent To Any Public or Non-public School
+--------------------------------------------------
+
+
+
+*§ 39-01 Definitions.* ::
+
+
+Marginal Street. "Marginal street" shall have the meaning set forth in 34 RCNY § 4-01.
+
+Street. "Street" shall have the meaning set forth in subdivision 13 of § 1-112 of the Administrative Code of the City of New York, except that for the purposes of this rule "street" shall include "marginal streets".
+
+
+
+
+
+
+*§ 39-02 Adjacent to Any Public or Non-Public School.* ::
+
+
+"Adjacent" shall mean on each and every street on which a school is located and has entrances and/or exits to such street. School shall include any building or structure, playground, athletic field or other property that is part of the school.
 
 
 
@@ -16737,31 +16760,6 @@ UL means Underwriters Laboratories. Wet scrubber system means any emission contr
 
 
 
-Chapter 39: Engine Idling Adjacent To Any Public or Non-public School
---------------------------------------------------
-
-
-
-*§ 39-01 Definitions.* ::
-
-
-Marginal Street. "Marginal street" shall have the meaning set forth in 34 RCNY § 4-01.
-
-Street. "Street" shall have the meaning set forth in subdivision 13 of § 1-112 of the Administrative Code of the City of New York, except that for the purposes of this rule "street" shall include "marginal streets".
-
-
-
-
-
-
-*§ 39-02 Adjacent to Any Public or Non-Public School.* ::
-
-
-"Adjacent" shall mean on each and every street on which a school is located and has entrances and/or exits to such street. School shall include any building or structure, playground, athletic field or other property that is part of the school.
-
-
-
-
 Chapter 40: Rules Concerning the Registration of Emergency Generators [Repealed]
 --------------------------------------------------
 
@@ -16785,7 +16783,7 @@ Chapter 40: Rules Concerning the Registration of Emergency Generators [Repealed]
 
 
 
-Chapter 42: City Environmental Quality Review (Ceqr) (City Planning and Department of Environmental Protection)
+Chapter 42: City Environmental Quality Review (CEQR) (City Planning and Department of Environmental Protection)
 --------------------------------------------------
 
 
@@ -16813,32 +16811,47 @@ Except as specifically provided in this section, every application made pursuant
 .. list-table::
     :header-rows: 1
 
-    * - 
+    * -  
       - Fee 
     * - Less than 10,000 sq. ft.
-      - $     425. 
+      - $425.00 
     * - 10,000 – 19,999 sq. ft.
-      -  1,250. 
+      - $1,250.00 
     * - 20,000 – 39,999 sq. ft.
-      -  2,475. 
+      - $2,475.00 
     * - 40,000 – 69,999 sq. ft.
-      -  4,550. 
+      - $4,550.00 
     * - 70,000 – 99,999 sq. ft.
-      -  7,025. 
+      - $7,025.00 
     * - 100,000 – 499,999 sq. ft.
-      -   25,000. 
+      - $25,000.00 
     * - over 500,000 sq. ft.
-      -   43,000. 
+      - $43,000.00 
 ~
 
  
 
 (b) Projects not measurable in square feet.
 
-(Ex: bus franchises, renewals of special permits)    2,000.
+(Ex: bus franchises, renewals of special permits).....$2,000.00
 
 
 
+
+
+
+
+**APPENDIX A NEW YORK CITY WATER BOARD, WATER AND WASTEWATER RATE SCHEDULE**
+
+
+
+
+**APPENDIX B REGULATION NO. 1: REIMBURSEMENT RATES FOR METERS INSTALLED BY PROPERTY OWNERS UNDER THE PRIVATE INSTALLATION PROGRAM**
+
+
+
+
+**APPENDIX C**
 
 Chapter 44: Standard Test Procedures to Determine Smoke Emissions from Generators with an Output of 40 kw or More
 --------------------------------------------------
@@ -17095,6 +17108,65 @@ A Required Permit must be applied for and issued in accordance with the provisio
 
 
 
+Chapter 49: Spraying Insulating Material
+--------------------------------------------------
+
+
+
+*§ 49-01 Definitions.* ::
+
+
+For the purposes of this chapter, the following term has the following meaning:
+
+Insulating Material. “Insulating Material” means any material or combination of materials, except spray on foam, that restricts the flow of heat energy.
+
+
+
+
+
+
+
+
+*§ 49-02 Applicability.* ::
+
+
+This chapter is not applicable to new construction.
+
+
+
+
+
+
+
+
+*§ 49-03 Precautions to be Taken During Spraying of Insulating Material.* ::
+
+
+No person may cause or permit the spraying of any insulating material in or upon any building or other structure during its construction, alteration or repair, unless he or she complies with the following precautions.
+
+(1) Before the start of spraying operations all floor areas must be shoveled clean. Before the application of insulating material commences, the floor of the areas must be cleared of all objects, material and equipment other than that employed in the application of the insulating material, or all objects, material, and equipment must be covered with plastic or other approved tarpaulins in a manner that prevents the subsequent dispersal of dust.
+
+(2) The entire floor, or the part of the floor to be insulated, must be enclosed with plastic or other approved tarpaulins in a manner that prevents the escape of dust from the enclosure. All interior open areas, such as elevator shafts and stairwells must be enclosed in a manner that prevents the escape of dust from the working area. Stack effect of the shafts and stairwells must be considered in providing proper enclosures. An enclosure will be considered satisfactory only if visible insulating material cannot escape from the enclosure.
+
+(3) Wet insulating material that has fallen to the floor must be shoveled and scraped to prevent dispersal of dried material. This material must be removed no later than the end of the working day. Shoveled and scraped material must be placed in a heavy plastic bag strong enough to resist tearing or breaking under normal handling conditions and clearly marked as containing insulating material waste. The bags must then be placed into containers, pursuant to Section BC 3303.4.2 of the New York City Building Code. The contents of the aforementioned plastic bags must not be transferred to another container and must not be combined with any designated recyclable materials, pursuant to §§ 16-305, 16-306, 16-306.1, 16-307, 16-308 and 16-314 of the Administrative Code of the City of New York. The plastic bags must be placed upon a vehicle for either transfer to a solid waste transfer station, pursuant to 16 RCNY Ch. 4 or disposal at a site approved by the commissioner and regulated under 6 NYCRR Part 360 if located in New York State or that is consistent with the regulations adopted by any locality where such disposal site is located if outside New York State.
+
+(4) All areas used for opening bags containing insulating material and/or changing of containers must be vacuumed with a HEPA air filtration vacuum or a dust collection system.
+
+(5) Signs must be posted outside enclosures warning persons that entering the enclosure without appropriate apparel may be a hazard.
+
+(6) Facilities must be provided and procedures instituted and supervised that prevent the removal and dispersal of insulating material from the construction site on the clothing or other accessories of persons leaving the area. All persons involved in the spraying of insulating material at the site must be furnished with personal protective equipment specified in the applicable Safety Data Sheet, including suitable coveralls which must be left at the site until properly disposed of in plastic garbage bags. No person will be permitted in an area in which spraying or handling of insulating material is underway or has taken place until the final vacuuming referred to in paragraph four of this subdivision has been accomplished, unless such person is furnished with or wears personal protective equipment in accordance with this paragraph.
+
+(7) Any plenum or structures coated with insulating material which are intended for use in circulation of air in the building must be thoroughly cleaned of all debris, dust and waste insulation. All applied insulation material within a plenum or duct must comply with Section MC 602.2.1 of the New York City Mechanical Code.
+
+(8) A person who is fully trained in accordance with current standard industry practice must be assigned the full-time responsibility of supervising the spraying, preparation and clean-up operations to ensure that no insulating material is released from the construction site.
+
+(9) In case of emission of insulation material from the construction site, immediate steps must be taken to cease such emissions which may include work stoppage at the source of the emissions. There must then be immediate and complete clean-up of all material that has escaped the construction site using control measures including but not limited to the use of a water hose and HEPA vacuum that prevent further dispersal of any insulating material into the atmosphere.
+
+
+
+
+
+
 Chapter 48: Green Infrastructure Grant Program
 --------------------------------------------------
 
@@ -17328,65 +17400,6 @@ To be eligible for a Grant, Applicants must be in compliance with the following:
 (j) The City has the unrestricted right to use the designs for any Projects for which Grants are awarded for any future projects or purposes at no additional cost to the City.
 
 (k) The City has the right to publish photographs of completed Projects. The Grantee must indicate in any statements to the press or in any materials for publication in any media of communication (print, news, television, radio, internet, etc.) that the Project was funded wholly or in part by the Department.
-
-
-
-
-
-
-Chapter 49: Spraying Insulating Material
---------------------------------------------------
-
-
-
-*§ 49-01 Definitions.* ::
-
-
-For the purposes of this chapter, the following term has the following meaning:
-
-Insulating Material. “Insulating Material” means any material or combination of materials, except spray on foam, that restricts the flow of heat energy.
-
-
-
-
-
-
-
-
-*§ 49-02 Applicability.* ::
-
-
-This chapter is not applicable to new construction.
-
-
-
-
-
-
-
-
-*§ 49-03 Precautions to be Taken During Spraying of Insulating Material.* ::
-
-
-No person may cause or permit the spraying of any insulating material in or upon any building or other structure during its construction, alteration or repair, unless he or she complies with the following precautions.
-
-(1) Before the start of spraying operations all floor areas must be shoveled clean. Before the application of insulating material commences, the floor of the areas must be cleared of all objects, material and equipment other than that employed in the application of the insulating material, or all objects, material, and equipment must be covered with plastic or other approved tarpaulins in a manner that prevents the subsequent dispersal of dust.
-
-(2) The entire floor, or the part of the floor to be insulated, must be enclosed with plastic or other approved tarpaulins in a manner that prevents the escape of dust from the enclosure. All interior open areas, such as elevator shafts and stairwells must be enclosed in a manner that prevents the escape of dust from the working area. Stack effect of the shafts and stairwells must be considered in providing proper enclosures. An enclosure will be considered satisfactory only if visible insulating material cannot escape from the enclosure.
-
-(3) Wet insulating material that has fallen to the floor must be shoveled and scraped to prevent dispersal of dried material. This material must be removed no later than the end of the working day. Shoveled and scraped material must be placed in a heavy plastic bag strong enough to resist tearing or breaking under normal handling conditions and clearly marked as containing insulating material waste. The bags must then be placed into containers, pursuant to Section BC 3303.4.2 of the New York City Building Code. The contents of the aforementioned plastic bags must not be transferred to another container and must not be combined with any designated recyclable materials, pursuant to §§ 16-305, 16-306, 16-306.1, 16-307, 16-308 and 16-314 of the Administrative Code of the City of New York. The plastic bags must be placed upon a vehicle for either transfer to a solid waste transfer station, pursuant to 16 RCNY Ch. 4 or disposal at a site approved by the commissioner and regulated under 6 NYCRR Part 360 if located in New York State or that is consistent with the regulations adopted by any locality where such disposal site is located if outside New York State.
-
-(4) All areas used for opening bags containing insulating material and/or changing of containers must be vacuumed with a HEPA air filtration vacuum or a dust collection system.
-
-(5) Signs must be posted outside enclosures warning persons that entering the enclosure without appropriate apparel may be a hazard.
-
-(6) Facilities must be provided and procedures instituted and supervised that prevent the removal and dispersal of insulating material from the construction site on the clothing or other accessories of persons leaving the area. All persons involved in the spraying of insulating material at the site must be furnished with personal protective equipment specified in the applicable Safety Data Sheet, including suitable coveralls which must be left at the site until properly disposed of in plastic garbage bags. No person will be permitted in an area in which spraying or handling of insulating material is underway or has taken place until the final vacuuming referred to in paragraph four of this subdivision has been accomplished, unless such person is furnished with or wears personal protective equipment in accordance with this paragraph.
-
-(7) Any plenum or structures coated with insulating material which are intended for use in circulation of air in the building must be thoroughly cleaned of all debris, dust and waste insulation. All applied insulation material within a plenum or duct must comply with Section MC 602.2.1 of the New York City Mechanical Code.
-
-(8) A person who is fully trained in accordance with current standard industry practice must be assigned the full-time responsibility of supervising the spraying, preparation and clean-up operations to ensure that no insulating material is released from the construction site.
-
-(9) In case of emission of insulation material from the construction site, immediate steps must be taken to cease such emissions which may include work stoppage at the source of the emissions. There must then be immediate and complete clean-up of all material that has escaped the construction site using control measures including but not limited to the use of a water hose and HEPA vacuum that prevent further dispersal of any insulating material into the atmosphere.
 
 
 

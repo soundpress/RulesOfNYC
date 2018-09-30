@@ -1337,41 +1337,6 @@ All licensees shall be required to sign an acknowledgment that they shall be res
 
 
 
-Chapter 6: Use of Amber Lights By Volunteer Civilian Patrol Members
---------------------------------------------------
-
-
-
-*§ 6-01 Possession and Use of Amber Lights by Volunteer Civilian Patrol Members.* ::
-
-
-(a) Only a member of a Civilian Observation Patrol sponsored by the New York City Police Department shall be eligible for a permit to possess and use an amber light pursuant to these Regulations.
-
-(b) The Deputy Commissioner in charge of Community Affairs is responsible for the administration of the amber light program.
-
-(c) Applications to obtain amber light permits will be available at and processed through the precinct in which the patrol is located.
-
-(d) The permit to possess and use an amber light will be an authorization stamped on a civilian observation patrol identification card.
-
-(e) The only type of amber light that is permitted is one that is portable with a subdued yellow light either placed on the dashboard or roof of a civilian observation patrol car by suction cups or magnets. Permit holders may possess only one such amber light.
-
-(f) The permit to possess and use an amber light on a vehicle is non-transferable and automatically expires when the holder ceases to be a member of the Civilian Observation Patrol Group listed on his application.
-
-(g) Only a steady non-revolving amber light will be operated while the volunteer is involved in patrol observation duty except a rotating or revolving amber light may be used under the following circumstances:
-
-   (1) At the scene of accidents.
-
-   (2) At the scene of any incident when the light is necessary to alert oncoming vehicle or to summon assistance.
-
-   (3) When necessary to alert persons of the imminent danger of a criminal act.
-
-(h) Permittees will obey all traffic regulations at all times while on patrol and all directions of a police officer with respect to the use of amber lights. A permit must be produced when requested by a police officer.
-
-(i) Failure to abide by these Rules and Regulations may result in the suspension or revocation of a permit to possess an amber light.
-
-
-
-
 Chapter 5: Handgun Licenses
 --------------------------------------------------
 
@@ -2323,6 +2288,41 @@ New York City handgun licensees who have moved out of New York City may request 
 
 
 All licensees shall be required to sign an acknowledgment that they shall be responsible for compliance with all laws, rules, regulations, standards, and procedures promulgated by federal, state, or local jurisdictions, and by federal, state, or local law enforcement agencies, that are applicable to this license. The License Division shall provide the licensee with the acknowledgment statement. This acknowledgment statement shall be affirmed in writing. Failure to affirm the acknowledgment statement shall result in denial of the license application.
+
+
+
+
+Chapter 6: Use of Amber Lights By Volunteer Civilian Patrol Members
+--------------------------------------------------
+
+
+
+*§ 6-01 Possession and Use of Amber Lights by Volunteer Civilian Patrol Members.* ::
+
+
+(a) Only a member of a Civilian Observation Patrol sponsored by the New York City Police Department shall be eligible for a permit to possess and use an amber light pursuant to these Regulations.
+
+(b) The Deputy Commissioner in charge of Community Affairs is responsible for the administration of the amber light program.
+
+(c) Applications to obtain amber light permits will be available at and processed through the precinct in which the patrol is located.
+
+(d) The permit to possess and use an amber light will be an authorization stamped on a civilian observation patrol identification card.
+
+(e) The only type of amber light that is permitted is one that is portable with a subdued yellow light either placed on the dashboard or roof of a civilian observation patrol car by suction cups or magnets. Permit holders may possess only one such amber light.
+
+(f) The permit to possess and use an amber light on a vehicle is non-transferable and automatically expires when the holder ceases to be a member of the Civilian Observation Patrol Group listed on his application.
+
+(g) Only a steady non-revolving amber light will be operated while the volunteer is involved in patrol observation duty except a rotating or revolving amber light may be used under the following circumstances:
+
+   (1) At the scene of accidents.
+
+   (2) At the scene of any incident when the light is necessary to alert oncoming vehicle or to summon assistance.
+
+   (3) When necessary to alert persons of the imminent danger of a criminal act.
+
+(h) Permittees will obey all traffic regulations at all times while on patrol and all directions of a police officer with respect to the use of amber lights. A permit must be produced when requested by a police officer.
+
+(i) Failure to abide by these Rules and Regulations may result in the suspension or revocation of a permit to possess an amber light.
 
 
 

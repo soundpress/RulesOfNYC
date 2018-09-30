@@ -96,11 +96,11 @@ Unless otherwise provided, all notice, pursuant to this chapter, including but n
 
 In addition to any other penalty provided by law:
 
-(a) Except as otherwise provided in subdivision b or subdivision c of this section, any person who violates any provision of sections 2-05 or 2-06 or any provision of subchapters E, F or G of this chapter shall be liable for a civil penalty which shall not exceed ten thousand dollars ($10,000) for each such violation. Such civil penalty may be recovered in a civil action or pursuant to the provisions of subdivision a of section 1-03 of this chapter.
+(a) Except as otherwise provided in subdivision b or subdivision c of this section, any person who violates any provision of 17 RCNY §§ 2-05 or 2-06 or any provision of subchapters E, F or G of this chapter shall be liable for a civil penalty which shall not exceed ten thousand dollars ($10,000) for each such violation. Such civil penalty may be recovered in a civil action or pursuant to the provisions of subdivision a of 17 RCNY § 1-03.
 
-(b) 1) Any person who violates subdivision a of section 16-505 or section 16-524 of the Code shall, upon conviction thereof, be punished for each violation by a criminal fine of not more than ten thousand dollars for each day of such violation or by imprisonment not exceeding six months, or both; and any such person shall be subject to a civil penalty of not more than five thousand dollars ($5,000) for each day of such violation which may be recovered in a civil action or pursuant to the provisions of subdivision a of section 1-03 of this chapter; and
+(b) 1) Any person who violates subdivision a of section 16-505 or section 16-524 of the Code shall, upon conviction thereof, be punished for each violation by a criminal fine of not more than ten thousand dollars for each day of such violation or by imprisonment not exceeding six months, or both; and any such person shall be subject to a civil penalty of not more than five thousand dollars ($5,000) for each day of such violation which may be recovered in a civil action or pursuant to the provisions of subdivision a of 17 RCNY § 1-03; and
 
-(c) Any person who violates subdivision b of section 16-505 of the Code or any rule pertaining thereto, including rules pertaining to the display of license plates issued by the Commission, shall, upon conviction thereof, be punished by a civil penalty not to exceed one thousand dollars ($1,000) for each such violation which may be recovered in a civil action or pursuant to the provisions of subdivision a of section 1-03 of this chapter.
+(c) Any person who violates subdivision b of section 16-505 of the Code or any rule pertaining thereto, including rules pertaining to the display of license plates issued by the Commission, shall, upon conviction thereof, be punished by a civil penalty not to exceed one thousand dollars ($1,000) for each such violation which may be recovered in a civil action or pursuant to the provisions of subdivision a of 17 RCNY § 1-03 of this chapter.
 
 (d) The corporation counsel is authorized to commence a civil action on behalf of the city for injunctive relief to restrain or enjoin any activity in violation of this chapter and for civil penalties.
 
@@ -124,7 +124,7 @@ In addition to any other penalty provided by law:
 *§ 1-05 Liability for Violations.* ::
 
 
-A business required to be licensed or registered pursuant to section 16-505 of the Code shall be liable for violations of any of the provisions of chapter 1 of Title 16-A of the Code or section 2-05 or 2-06 or any provisions of subchapters D, E, F or G of this chapter committed by any of its employees or agents.
+A business required to be licensed or registered pursuant to section 16-505 of the Code shall be liable for violations of any of the provisions of chapter 1 of Title 16-A of the Code or 17 RCNY § 2-05 or 2-06 or any provisions of subchapters D, E, F or G of this chapter committed by any of its employees or agents.
 
 
 
@@ -180,7 +180,7 @@ The Commission may conduct lawful inspections to ensure compliance with this cha
 
 (a)  In addition to any other investigations, the Commission may conduct an investigation into any complaint by a commercial establishment alleging violations of the provisions of Chapter 1 of Title 16-A of the Code or any provision of this chapter. The Commission may, in the course of such investigation, issue subpoenas, take depositions under oath, conduct hearings and use such other means as the Commission determines will assist such investigation, including but not limited to interviews with the complainant and other persons who may have knowledge of the facts involved in the complaint and assisting a customer in verifying the measurement of such customer's waste. The Commission may direct that a licensee conduct a waste stream survey in connection with its investigation.
 
-(b) Where the Commission determines that evidence exists to support a complainant's allegations, the Commission may seek redress of injuries to the complainant as well as penalties as provided in 17 RCNY § 1-04. Such redress and penalties may be sought in a hearing conducted pursuant to section 1-03 of this chapter, or, if the parties agree, redress may be sought in an informal proceeding. Such a hearing or proceeding may include testimony by the complainant as well as evidence presented by the Commission.
+(b) Where the Commission determines that evidence exists to support a complainant's allegations, the Commission may seek redress of injuries to the complainant as well as penalties as provided in 17 RCNY § 1-04. Such redress and penalties may be sought in a hearing conducted pursuant to 17 RCNY § 1-03, or, if the parties agree, redress may be sought in an informal proceeding. Such a hearing or proceeding may include testimony by the complainant as well as evidence presented by the Commission.
 
 (c) Any resolution of a complaint by a customer prior to a hearing or proceeding shall be submitted to the Commission for its review and approval. Where the Commission disapproves such a resolution, the Commission may continue to seek penalties regarding any violation by the licensee underlying the customer complaint.
 
@@ -544,7 +544,7 @@ The term of a license or registration shall be two (2) years. The fee for invest
 *§ 3-01 Employees and Agents Required to Submit Fingerprints and Disclosure.* ::
 
 
-(a)  Each person not otherwise a principal as defined in section 1-02 of this chapter who is an employee or agent or prospective employee or agent of an applicant for a license or a licensee and who is in a managerial capacity or in a job category listed in Appendix A to this subchapter, shall: (i) be fingerprinted by a person designated for such purpose by the Commission and pay the fee prescribed by the Division of Criminal Justice Services for the purpose of obtaining criminal history records; and (ii) be photographed by the Commission and provide the disclosure set forth in subparagraphs (b) through (n) of paragraph (ii) of subdivision b of section 16-508 of the Code on the form provided by the Commission and pay the fee of six hundred ($600) dollars for the investigation of such information. Following receipt of such disclosure, the Commission may require such additional information, including without limitation documents and deposition testimony, as the Commission determines is necessary to render determination.
+(a)  Each person not otherwise a principal as defined in 17 RCNY § 1-02 who is an employee or agent or prospective employee or agent of an applicant for a license or a licensee and who is in a managerial capacity or in a job category listed in Appendix A to this subchapter, shall: (i) be fingerprinted by a person designated for such purpose by the Commission and pay the fee prescribed by the Division of Criminal Justice Services for the purpose of obtaining criminal history records; and (ii) be photographed by the Commission and provide the disclosure set forth in subparagraphs (b) through (n) of paragraph (ii) of subdivision b of section 16-508 of the Code on the form provided by the Commission and pay the fee of six hundred ($600) dollars for the investigation of such information. Following receipt of such disclosure, the Commission may require such additional information, including without limitation documents and deposition testimony, as the Commission determines is necessary to render determination.
 
 (b) Where, at any time subsequent to an investigation of an employee or agent pursuant to the provisions of subdivision a of this section, the Commission has reasonable cause to believe that such employee or agent lacks good character, honesty and integrity, the Commission may conduct an additional investigation of such employee or agent and may require, if necessary, that such employee or agent provide information updating, supplementing or explaining information previously submitted.
 
@@ -758,7 +758,7 @@ Where the Commission requires, pursuant to Subdivision b of Section 16-511 of th
 
    (2) $13.62 per 100 pounds.
 
-   (3) Exempt Waste. This subdivision does not apply to the removal of construction and demolition debris, infectious medical waste, covered electronic equipment as defined in § 421 of chapter 16 of the Code, waste from grease interceptors as defined in § 19-119(a) of title 15 of the Rules of the City of New York and paper that is collected for the purpose of shredding or destruction by the licensee.
+   (3) Exempt Waste. This subdivision does not apply to the removal of construction and demolition debris, infectious medical waste, covered electronic equipment as defined in § 421 of chapter 16 of the Code, waste from grease interceptors as defined in 15 RCNY § 19-11(a) and paper that is collected for the purpose of shredding or destruction by the licensee.
 
 (b) The rates set forth in subdivision a of this section are maximum rates. Nothing in such subdivision shall be construed to prevent customers and trade waste removal businesses from negotiating rates lower than the rates set forth therein, and trade waste removal businesses and customers are encouraged to do so.
 
@@ -1788,57 +1788,57 @@ Cooperative association. "Cooperative association" shall mean the cooperative as
 
 Employee. "Employee" shall mean a person who works or has been hired to work in a market on a full-time, part-time or seasonal basis for a wholesaler, market business, or a wholesale trade association, but shall not include persons hired to work on an occasional basis. A person hired to work on an occasional basis is any person who works or has been hired to work for a wholesaler or market business and works no more than five (5) days in any given month for the same employer. Any person who works for a wholesaler or a market business is presumed to be an employee unless the presumption is overcome by credible evidence produced by the person and/or the employer.
 
-Hearing officer. "Hearing officer" shall mean a person appointed or designated to conduct hearings pursuant to the procedures set forth in subdivision 11-21(b) of this subchapter relating to the suspension or revocation of a license, registration, or photo identification card. "Hearing officer" shall not include a person assigned to preside over a case that has been referred to the Office of Administrative Trials and Hearings.
+Hearing officer. "Hearing officer" shall mean a person appointed or designated to conduct hearings pursuant to the procedures set forth in 17 RCNY § 11-21(b) relating to the suspension or revocation of a license, registration, or photo identification card. "Hearing officer" shall not include a person assigned to preside over a case that has been referred to the Office of Administrative Trials and Hearings.
 
 Labor union or labor organization. "Labor union" or "labor organization" shall mean a union or organization that represents or seeks to represent, for purposes of collective bargaining, employees directly involved in the movement, handling or sale of goods in the markets. Notwithstanding the foregoing, such terms shall not include:
 
-(i) a labor union that represents or seeks to represent fewer than two hundred (200) employees in any public wholesale market or combination of public wholesale markets in the City of New York;
+   (i) a labor union that represents or seeks to represent fewer than two hundred (200) employees in any public wholesale market or combination of public wholesale markets in the City of New York;
 
-(ii) a labor union representing or seeking to represent clerical or other office workers, construction or electrical workers, or any other workers temporarily or permanently employed in a public wholesale market for a purpose not directly related to the movement, handling or sale of goods in such market; or
+   (ii) a labor union representing or seeking to represent clerical or other office workers, construction or electrical workers, or any other workers temporarily or permanently employed in a public wholesale market for a purpose not directly related to the movement, handling or sale of goods in such market; or
 
-(iii) an affiliated national or international labor union of local labor unions required to register pursuant to section 11-10 of this subchapter.
+   (iii) an affiliated national or international labor union of local labor unions required to register pursuant to 17 RCNY § 11-10.
 
 Market business. "Market business" shall mean any business located or operating within a market that is engaged in providing goods or services to wholesalers or retail purchasers in such market that are related to the conduct of a wholesale business or the purchase of food or related agricultural products or horticultural products by retailers or others, or that receives such goods within a market for delivery, forwarding, transfer or further distribution outside such market. "Market business" shall include, but not be limited to, the provision of security services within a market, the provision of services related to the collection of fees for entrance into a market and parking, the supply of ice, and the unloading, loading, transfer or distribution of food or related agricultural products or horticultural products. The term "market business" shall not include a business located or operating within a market the main offices of which are located outside a market and which
 
-(i) supplies the food or related agricultural products or products sold by wholesalers or is engaged in the trucking or shipping thereof to the market or
+   (i) supplies the food or related agricultural products or products sold by wholesalers or is engaged in the trucking or shipping thereof to the market or
 
-(ii) supplies electrical, plumbing, construction, renovation or other similar services to wholesalers in the market and does not earn fifty (50) percent or more of its income from such wholesalers.
+   (ii) supplies electrical, plumbing, construction, renovation or other similar services to wholesalers in the market and does not earn fifty (50) percent or more of its income from such wholesalers.
 
 Market manager. "Market manager" shall mean a person designated by the Commission to supervise operations in a public wholesale market. Such supervision shall include, without limitation: implementation of these rules and the authority to enforce violations of any provision of Chapter 1-B of Title 22 of the Code or such rules; supervision of Commission staff employed in the markets; response to complaints relating to the operation of businesses in the market; examination of documents required to be maintained by a registrant pursuant to Chapter 1-B of Title 22 of the Code or this subchapter; referrals, where appropriate, to any law enforcement, adjudicatory, investigative or prosecutorial agency of matters occurring within the markets; and such other functions and duties as the Commission may assign consistent with the provision of Chapter 1-B of Title 22 of the Code or the rules promulgated pursuant to such chapter and this subchapter.
 
-Officer. "Officer" shall mean any person holding an elected position or any other position involving participation in the management or control of a wholesale trade association required to register pursuant to section 11-12 of this subchapter or of a labor union or labor organization required to register pursuant to section 11-10 of this subchapter.
+Officer. "Officer" shall mean any person holding an elected position or any other position involving participation in the management or control of a wholesale trade association required to register pursuant to 17 RCNY § 11-12 or of a labor union or labor organization required to register pursuant to 17 RCNY § 11-10.
 
 Person. "Person" shall include entities as well as natural persons unless the context indicates otherwise.
 
 Principal. "Principal" shall mean, of a sole proprietorship, the proprietor; of a corporation, every officer, director and stockholder holding ten (10) percent or more of the outstanding shares of the corporation; of a partnership, all the partners; of another type of business entity, the chief operating officer or chief executive officer, irrespective of organizational title, and all persons having an ownership interest of ten (10) percent or more; and with respect to all business entities, all other persons participating directly or indirectly in the control of such business entity. Where a partner or stockholder holding ten (10) percent or more of the outstanding shares of a corporation is itself a partnership or a corporation, a "principal" shall also include the partners of such partnership or the officers, directors and stockholders holding ten (10) percent or more of the outstanding shares of such corporation, as is appropriate. For the purposes of this subchapter
 
-(1) a person shall be considered to hold stock in a corporation where such stock is owned directly or indirectly by or for
+   (1) a person shall be considered to hold stock in a corporation where such stock is owned directly or indirectly by or for
 
-   (i) such person,
+      (i) such person,
 
-   (ii) the spouse of such person (other than a spouse who is legally separated from such person pursuant to a judicial decree or an agreement cognizable under the laws of the state in which such person is domiciled),
+      (ii) the spouse of such person (other than a spouse who is legally separated from such person pursuant to a judicial decree or an agreement cognizable under the laws of the state in which such person is domiciled),
 
-   (iii) the children, grandchildren and parents of such person,
+      (iii) the children, grandchildren and parents of such person,
 
-   (iv) a partnership in which such person is a partner, in proportion to the partnership interest of such person, and
+      (iv) a partnership in which such person is a partner, in proportion to the partnership interest of such person, and
 
-   (v) a corporation in which any of such person, the spouse, children, grandchildren and parents of such person own fifty (50) percent or more in value of the stock;
+      (v) a corporation in which any of such person, the spouse, children, grandchildren and parents of such person own fifty (50) percent or more in value of the stock;
 
-(2) a partnership shall be considered to hold stock in a corporation where such stock is owned, directly or indirectly, by or for a partner in such partnership; and
+   (2) a partnership shall be considered to hold stock in a corporation where such stock is owned, directly or indirectly, by or for a partner in such partnership; and
 
-(3) a corporation shall be considered to hold stock in a corporation that is an applicant where such corporation holds fifty (50) percent or more in value of the stock of a third corporation that holds stock in the applicant corporation.
+   (3) a corporation shall be considered to hold stock in a corporation that is an applicant where such corporation holds fifty (50) percent or more in value of the stock of a third corporation that holds stock in the applicant corporation.
 
-Public wholesale market or market. "Public wholesale market" or "market" shall mean any building, structure or place owned by the City or located on property owned by the City or under lease to or in the possession of the City or any part of a street, avenue, parkway, plaza, square or other public place that has been designated as a public market by resolution of the former Board of Estimate of the City or a local law enacted by the City Council to be used or intended to be used for the wholesale buying, selling or keeping of food, flowers or ornamental plants; except that the term "public wholesale market" shall not, unless otherwise set forth in this subchapter, include any building, structure or place within the market area as defined in section 12-02 of subchapter B of this chapter. For purposes of this subchapter, the term "public wholesale market" shall also include the area adjacent to the New York City Terminal Cooperative Produce Market beginning at the point where the westerly street line of Garrison Avenue intersects the northerly street line of Lafayette Avenue; thence easterly along the northerly street line of Lafayette Avenue to the easterly street line of Halleck Street; thence southerly along the easterly street line of Halleck Street to the southerly street line of Ryawa Avenue; thence westerly along the southerly street line of Ryawa Avenue to the westerly street line of Manida Street; thence northerly along the westerly street line of Manida Street to the southerly street line of Viele Avenue; thence westerly along the southerly street line of Viele Avenue to the westerly street line of Tiffany Street; thence northerly along the westerly street line of Tiffany Street to the southerly street line of Oak Point Avenue; thence westerly along the southerly street line of Oak Point Avenue to the westerly street line of Barry Street; thence northerly along the westerly street line of Barry Street to the southerly street line of Leggett Avenue; thence westerly along the southerly street line of Leggett Avenue to the westerly street line of Garrison Avenue; thence northerly along the westerly street line of Garrison Avenue to the point of beginning, and the premises known as 240 Food Center Drive.
+Public wholesale market or market. "Public wholesale market" or "market" shall mean any building, structure or place owned by the City or located on property owned by the City or under lease to or in the possession of the City or any part of a street, avenue, parkway, plaza, square or other public place that has been designated as a public market by resolution of the former Board of Estimate of the City or a local law enacted by the City Council to be used or intended to be used for the wholesale buying, selling or keeping of food, flowers or ornamental plants; except that the term "public wholesale market" shall not, unless otherwise set forth in this subchapter, include any building, structure or place within the market area as defined in 17 RCNY § 12-02. For purposes of this subchapter, the term "public wholesale market" shall also include the area adjacent to the New York City Terminal Cooperative Produce Market beginning at the point where the westerly street line of Garrison Avenue intersects the northerly street line of Lafayette Avenue; thence easterly along the northerly street line of Lafayette Avenue to the easterly street line of Halleck Street; thence southerly along the easterly street line of Halleck Street to the southerly street line of Ryawa Avenue; thence westerly along the southerly street line of Ryawa Avenue to the westerly street line of Manida Street; thence northerly along the westerly street line of Manida Street to the southerly street line of Viele Avenue; thence westerly along the southerly street line of Viele Avenue to the westerly street line of Tiffany Street; thence northerly along the westerly street line of Tiffany Street to the southerly street line of Oak Point Avenue; thence westerly along the southerly street line of Oak Point Avenue to the westerly street line of Barry Street; thence northerly along the westerly street line of Barry Street to the southerly street line of Leggett Avenue; thence westerly along the southerly street line of Leggett Avenue to the westerly street line of Garrison Avenue; thence northerly along the westerly street line of Garrison Avenue to the point of beginning, and the premises known as 240 Food Center Drive.
 
 Registration. "Registration" shall mean:
 
-(a) wholesaler registration or market business registration as required pursuant to section 22-253 of the Code and section 11-04 of this subchapter;
+   (a) wholesaler registration or market business registration as required pursuant to section 22-253 of the Code and 17 RCNY § 11-04;
 
-(b) labor union or labor organization registration as required pursuant to section 22-264 of the Code and section 11-10 of this subchapter; or (c) wholesale trade association registration as required pursuant to section 22-265 of the Code and section 11-12 of this subchapter.
+   (b) labor union or labor organization registration as required pursuant to section 22-264 of the Code and 17 RCNY § 11-10; or (c) wholesale trade association registration as required pursuant to section 22-265 of the Code and 17 RCNY § 11-12.
 
 Wholesale trade association. "Wholesale trade association" shall mean an entity, the majority of whose members are wholesale businesses and/or market businesses, having as a primary purpose the promotion, management or self-regulation of a market or such wholesale businesses or market businesses within such market or the facilities utilized by such businesses, including, but not limited to a corporation, cooperative, unincorporated association, partnership, trust or limited liability partnership or company, whether or not such entity is organized for profit, not-for-profit, business or non-business purposes. The term "wholesale trade association" shall include a cooperative association. The term "wholesale trade association" shall not include any entity the majority of whose members are primarily engaged in retail sales outside a public wholesale market.
 
-Wholesaler or wholesale business. "Wholesaler" or "wholesale business" shall mean any business engaged in selling food or related agricultural products or horticultural products at wholesale prices for resale by a wholesaler or retailer or for use by an institution or other similar establishment, whether or not such business also sells directly to the public, except that such terms as used in this subchapter shall not include a "wholesaler" or "wholesale seafood business" as defined in section 12-02 of this chapter; provided, however, that a wholesale business to which customers do not regularly come to pick up purchases and that does not deal from such location primarily in perishable products shall not be subject, unless otherwise provided by rule of the Commission, to the provisions of sections 22-252, 22-254 and 22-255 of chapter 1-B of title 22 of the Code and the rules promulgated pursuant to such sections.
+Wholesaler or wholesale business. "Wholesaler" or "wholesale business" shall mean any business engaged in selling food or related agricultural products or horticultural products at wholesale prices for resale by a wholesaler or retailer or for use by an institution or other similar establishment, whether or not such business also sells directly to the public, except that such terms as used in this subchapter shall not include a "wholesaler" or "wholesale seafood business" as defined in 17 RCNY § 12-02; provided, however, that a wholesale business to which customers do not regularly come to pick up purchases and that does not deal from such location primarily in perishable products shall not be subject, unless otherwise provided by rule of the Commission, to the provisions of sections 22-252, 22-254 and 22-255 of chapter 1-B of title 22 of the Code and the rules promulgated pursuant to such sections.
 
 
 
@@ -1848,7 +1848,7 @@ Wholesaler or wholesale business. "Wholesaler" or "wholesale business" shall mea
 *§ 11-03 Terms and Fees.* ::
 
 
-(a) A registration shall be valid for three (3) years and may be renewed for three (3) -year periods thereafter.
+(a) A registration shall be valid for three (3) years and may be renewed for three (3) year periods thereafter.
 
 (b) The fee for registration shall be four thousand dollars , and the fee for renewal of such registration shall be four thousand dollars .
 
@@ -1936,7 +1936,7 @@ No person shall operate a wholesale business or market business in a public whol
 
    (2) the temporary photo identification card of such person has been revoked, or
 
-   (3) in cases where the Commission has required such person to be fingerprinted, submit background information and/or appear for an interview pursuant to sections 22-252 and 22-259 of the Code and section 11-08.1 of this subchapter, such person has failed, within the time period prescribed by the Commission, to be fingerprinted, submit the required information, or appear for an interview.
+   (3) in cases where the Commission has required such person to be fingerprinted, submit background information and/or appear for an interview pursuant to sections 22-252 and 22-259 of the Code and 17 RCNY § 11-08.1, such person has failed, within the time period prescribed by the Commission, to be fingerprinted, submit the required information, or appear for an interview.
 
 (c) Photo identification cards shall be in the possession of principals and employees of wholesale businesses, market businesses or other businesses at all times when such persons are in the market, and shall be produced upon demand to an authorized employee or agent of the Commission.
 
@@ -1958,7 +1958,7 @@ No person shall operate a wholesale business or market business in a public whol
 
 (a) The Commission may designate the cooperative association of any public wholesale market to issue temporary photo identification cards to persons required to have a photo identification card within such market. The duties of such designated cooperative association are to be performed pursuant to the provisions of the Code and this subchapter relating to such temporary photo identification cards and such terms and conditions as the Commission may impose.
 
-(b) Such temporary photo identification cards shall be valid for a period of one year but shall cease to be valid upon the issuance by the Commission of a permanent photo identification card or the occurrence of any of the events set forth in paragraphs (1), (2) or (3) of subdivision (b) of section 11-06 of this subchapter.
+(b) Such temporary photo identification cards shall be valid for a period of one year but shall cease to be valid upon the issuance by the Commission of a permanent photo identification card or the occurrence of any of the events set forth in paragraphs (1), (2) or (3) of subdivision (b) of 17 RCNY § 11-06.
 
 (c) The Commission may designate the cooperative association of any public wholesale market to issue visitor passes at the public wholesale market in which it operates. The duties of such designated cooperative association are to be performed pursuant to the provisions of the Code and this subchapter relating to such visitors passes and such terms and conditions as the Commission may impose.
 
@@ -2162,7 +2162,7 @@ Wholesale trade associations shall register with the Commission before operating
 
 (a) Where the staff of the Commission recommends that the Commission refuse, pursuant to section 22-259 of the Code, to issue a registration to a wholesale business or market business applicant or a photo identification card applicant, the applicant shall be notified in writing of the reasons for the proposed refusal of such registration or photo identification card and that the applicant may, within ten (10) business days of the date of such notification, respond in writing to the Commission setting forth the reasons such applicant believes that it should not be denied such registration or photo identification card. In the exercise of its discretion, the Commission, considering the reasons for the proposed refusal to issue the registration or photo identification card, the nature of the issues raised in connection therewith, and the response submitted by the applicant, may make a final determination regarding the issuance of such registration or photo identification card or afford the applicant such further opportunity to be heard in such proceeding as is deemed appropriate. A final determination and the reasons therefor shall be communicated to the applicant in writing.
 
-(b) The Commission may revoke a temporary photo identification card, and after notice and hearing, revoke or suspend the registration of a wholesale business or market business or a photo identification card for any of the reasons set forth in section 22-260 of the Code, or for violation of any rule promulgated pursuant to section 22-266 of the Code, including without limitation section 11-19 of this subchapter. Notice shall be provided in accordance with the provisions of section 11-20 of this subchapter. Hearings shall be afforded in accordance with the provisions of section 11-21 of this subchapter.
+(b) The Commission may revoke a temporary photo identification card, and after notice and hearing, revoke or suspend the registration of a wholesale business or market business or a photo identification card for any of the reasons set forth in section 22-260 of the Code, or for violation of any rule promulgated pursuant to section 22-266 of the Code, including without limitation 17 RCNY § 11-19. Notice shall be provided in accordance with the provisions of 17 RCNY § 11-20. Hearings shall be afforded in accordance with the provisions of 17 RCNY § 11-21.
 
 (c) Revocation or suspension of a registration, discontinuance of business operations in the market area by a registrant, or denial of an application for registration shall require the immediate surrender to the market manager of all photo identification cards issued to the principals, employees and/or agents of the registrant. Violation of the provisions of this subdivision may result in immediate revocation of a suspended registration and/or the imposition of sanctions and penalties as provided in section 22-258 of the Code.
 
@@ -2176,7 +2176,7 @@ Wholesale trade associations shall register with the Commission before operating
 *§ 11-18 Emergency Suspension of Registration or Photo Identification Card.* ::
 
 
-Notwithstanding the foregoing provisions, the Chairperson may, if he or she has reasonable cause to believe that the operation of a wholesale business or market business or the presence of any person in the public wholesale market creates an imminent danger to life or property or to the orderly and lawful operation of the market, or that there has likely been false or fraudulent information submitted to the Commission, immediately suspend the registration of such business or the photo identification card of such person without a prior hearing, provided that such suspension may be appealed to the Deputy Commissioner for Legal Affairs of the Commission who shall determine such appeal forthwith. If the Deputy Commissioner for Legal Affairs upholds the suspension, an opportunity for a hearing pursuant to the provisions of subdivision (b) of section 11-21 of this subchapter shall be provided on an expedited basis. The Commission shall issue a final determination no later than four (4) business days following the conclusion of such hearing. The Chairperson may, upon application by a wholesale business or market business whose registration has been suspended without a prior hearing, permit such business to remain in the market for such time as is necessary to allow for the expeditious sale, consignment or removal of a perishable product if, in the Commission's judgment, such permission is consistent with the safety of the market.
+Notwithstanding the foregoing provisions, the Chairperson may, if he or she has reasonable cause to believe that the operation of a wholesale business or market business or the presence of any person in the public wholesale market creates an imminent danger to life or property or to the orderly and lawful operation of the market, or that there has likely been false or fraudulent information submitted to the Commission, immediately suspend the registration of such business or the photo identification card of such person without a prior hearing, provided that such suspension may be appealed to the Deputy Commissioner for Legal Affairs of the Commission who shall determine such appeal forthwith. If the Deputy Commissioner for Legal Affairs upholds the suspension, an opportunity for a hearing pursuant to the provisions of subdivision (b) of 17 RCNY § 11-21 shall be provided on an expedited basis. The Commission shall issue a final determination no later than four (4) business days following the conclusion of such hearing. The Chairperson may, upon application by a wholesale business or market business whose registration has been suspended without a prior hearing, permit such business to remain in the market for such time as is necessary to allow for the expeditious sale, consignment or removal of a perishable product if, in the Commission's judgment, such permission is consistent with the safety of the market.
 
 
 
@@ -2226,7 +2226,7 @@ Notwithstanding the foregoing provisions, the Chairperson may, if he or she has 
 
    (4) violate applicable federal, state or city laws or regulations;
 
-   (5) in the case of a wholesale business or market business, fail to notify the Commission of any change in the information pursuant to section 11-15 of this subchapter;
+   (5) in the case of a wholesale business or market business, fail to notify the Commission of any change in the information pursuant to 17 RCNY § 11-15;
 
    (6) associate with a person whom such person knows or should know is a member or associate of an organized crime group (a person who has been identified by a federal, state, or local law enforcement agency as a member or associate of an organized crime group shall be presumed to be a member or associate of an organized crime group);
 
@@ -2240,7 +2240,7 @@ Notwithstanding the foregoing provisions, the Chairperson may, if he or she has 
 
    (11) in the case of a wholesale, market or other business, continue to employ within any market a person who is required to have but has not received a valid photo identification card in accordance with the provisions of this subchapter, or whose photo identification card has been revoked or suspended;
 
-   (12) utilize any motor vehicle in connection with a business operating in the market that is not properly registered with the New York State Department of Motor Vehicles and insured in accordance with section 11-09 of this subchapter;
+   (12) utilize any motor vehicle in connection with a business operating in the market that is not properly registered with the New York State Department of Motor Vehicles and insured in accordance with 17 RCNY § 11-09;
 
    (13) engage in any unfair labor practice under federal or state labor law;
 
@@ -2392,7 +2392,7 @@ Designee of the commission. "Designee of the commission" shall mean the Departme
 
 Employee. "Employee" shall mean a person who works or who expects to work in a market area on a full-time, part-time or seasonal basis for a wholesaler, seafood delivery business, loading business, unloading business or market business, but shall not include persons hired to work on an occasional basis. A person hired to work on an occasional basis is any person who works or has been hired to work for a wholesaler, seafood delivery business, loading business, unloading business or market business and works no more than five (5) days in any given month for the same employer. Any person who works for a wholesaler, seafood delivery business, loading business, unloading business or market business is presumed to be an employee unless the presumption is overcome by credible evidence produced by the person and/or the employer.
 
-Hearing officer. "Hearing officer" shall mean a person appointed or designated to conduct hearings pursuant to the procedures set forth in subdivision 12-26(b) of this subchapter relating to the suspension or revocation of a license, registration, or photo identification card. "Hearing officer" shall not include a person assigned to preside over a case that has been referred to the Office of Administrative Trials and Hearings.
+Hearing officer. "Hearing officer" shall mean a person appointed or designated to conduct hearings pursuant to the procedures set forth in 17 RCNY § 12-26(b) relating to the suspension or revocation of a license, registration, or photo identification card. "Hearing officer" shall not include a person assigned to preside over a case that has been referred to the Office of Administrative Trials and Hearings.
 
 Loader. "Loader" shall mean any person who performs loading services.
 
@@ -2412,7 +2412,7 @@ Market area. "Market area" shall mean:
 
 Market manager. "Market manager" shall mean a person designated by the Commission to supervise operations in the market area. Such supervision shall include, without limitation: implementation of these rules and the authority to enforce violations of any provision of Chapter 1-A of Title 22 of the Code or the rules promulgated pursuant to such chapter; supervision of Commission staff employed in the market area; response to complaints relating to the operation of businesses in the market area; examination of documents required to be maintained by a licensee or registrant pursuant to this subchapter; referrals, where appropriate, to any law enforcement, adjudicatory, investigative or prosecutorial agency of matters occurring within the market area; and such other functions and duties as the Commission may assign consistent with the provisions of Chapter 1-A of Title 22 of the Code or the rules promulgated pursuant to such chapter.
 
-Non-seafood business. "Non-seafood business" shall mean any business that operates within a market area on City property that is not a loading, unloading, wholesale seafood or seafood delivery business or a market business, as that term is defined in section 14-02 of this chapter.
+Non-seafood business. "Non-seafood business" shall mean any business that operates within a market area on City property that is not a loading, unloading, wholesale seafood or seafood delivery business or a market business, as that term is defined in 17 RCNY §  14-02.
 
 Person. "Person" shall include entities as well as natural persons unless the context indicates otherwise.
 
@@ -2506,7 +2506,7 @@ Wholesaler or wholesale seafood business. "Wholesaler" or "wholesale seafood bus
 
 (a) Class A and Class B Photo Identification Cards. No person who is a principal or employee of any unloading, loading, wholesale, seafood delivery or non-seafood business who performs any function in the market area, or any agent of such a business who performs any function in the market area directly related to the handling or transportation of seafood, shall perform such function without a Class A or Class B photo identification card issued by the market manager pursuant to this subchapter and section 22-203 of the Code. A person who performs any function in the market area who is a principal or employee of an unloading or loading business subject to the licensing requirement in sections 22-204 and 22-206 of the Code, or an agent of such business who performs any function in the market area directly related to the handling or transportation of seafood, must first obtain a Class A photo identification card issued by the market manager. A person who performs any function in the market area who is a principal or employee of a wholesale or seafood delivery business subject to the registration requirement in sections 22-209 and 22-211 of the Code or a non-seafood business, or an agent of such business who performs any function in the market area directly related to the handling or transportation of seafood, must first obtain a Class B photo identification card from the market manager.
 
-(b) Notwithstanding the foregoing, any person required to have a photo identification card who has filed an application therefor and obtained a temporary photo identification card, may continue to perform such functions unless and until (1) the application of such person for a photo identification card has been denied, or (2) the temporary photo identification card of such person has been revoked, or (3) in cases where the Commission has required such person to be fingerprinted, submit background information and/or appear for an interview pursuant to sections 22-203 and 22-216 of the Code and section 12-05 of this subchapter, such person has failed, within the time period prescribed by the Commission, to be fingerprinted, submit the required information, or appear for an interview.
+(b) Notwithstanding the foregoing, any person required to have a photo identification card who has filed an application therefor and obtained a temporary photo identification card, may continue to perform such functions unless and until (1) the application of such person for a photo identification card has been denied, or (2) the temporary photo identification card of such person has been revoked, or (3) in cases where the Commission has required such person to be fingerprinted, submit background information and/or appear for an interview pursuant to sections 22-203 and 22-216 of the Code and 17 RCNY § 12-05, such person has failed, within the time period prescribed by the Commission, to be fingerprinted, submit the required information, or appear for an interview.
 
 (c) Temporary Photo Identification Cards and Visitors Passes.
 
@@ -2668,7 +2668,7 @@ Wholesaler or wholesale seafood business. "Wholesaler" or "wholesale seafood bus
 
 A license to conduct an unloading business in the market area shall be subject to conditions specifying rates, insurance and bonding, performance standards and customer service, and any other requirements as may be set forth as conditions of such license pursuant to subdivision d of section 22-204 of the Code. A license to conduct a loading business shall be subject to conditions specifying rates, insurance and bonding, performance standards and customer service, and any other requirements set forth as conditions of such license pursuant to subdivision d of section 22-206 of the Code. In addition, a license to conduct an unloading business and a license to conduct a loading business shall be subject to the following conditions;
 
-(a) Maintenance of insurance. A licensee shall demonstrate that he, she or it has secured the insurance coverage required pursuant to section 12-8 of this subchapter, and shall maintain such required insurance coverage throughout the term of the license.
+(a) Maintenance of insurance. A licensee shall demonstrate that he, she or it has secured the insurance coverage required pursuant to 17 RCNY § 12-08, and shall maintain such required insurance coverage throughout the term of the license.
 
 (b) A license issued by the Commission pursuant to this subchapter shall not be transferable. A licensee shall not permit the use by any other person of the license or license number issued pursuant to this subchapter.
 
@@ -2744,7 +2744,7 @@ An unloading business shall comply with the conditions for conducting unloading 
 
       (vii) continue to employ a person who has not received a valid photo identification card in accordance with the provisions of this subchapter, or whose photo identification card has been revoked, or whose photo identification card has been suspended during the period of suspension;
 
-      (viii) utilize any motor vehicle in connection with the operation of such business which is not properly registered with the New York State Department of Motor Vehicles and insured in accordance with section 12-8 of this subchapter;
+      (viii) utilize any motor vehicle in connection with the operation of such business which is not properly registered with the New York State Department of Motor Vehicles and insured in accordance with 17 RCNY § 12-08;
 
       (ix) engage in any unfair labor practice under federal and state labor laws as applicable.
 
@@ -2812,7 +2812,7 @@ A loader shall comply with the conditions for conducting a loading business that
 
       (vii) continue to employ a person who has not received a valid photo identification card in accordance with the provisions of this subchapter, or whose photo identification card has been revoked, or whose photo identification card has been suspended during the period of suspension;
 
-      (viii) utilize any motor vehicle in connection with the operation of such business which is not properly registered with the New York State Department of Motor Vehicles and insured in accordance with section 12-8 of this subchapter;
+      (viii) utilize any motor vehicle in connection with the operation of such business which is not properly registered with the New York State Department of Motor Vehicles and insured in accordance with 17 RCNY § 12-08;
 
       (ix) engage in any unfair labor practice under federal and state labor laws as applicable.
 
@@ -3038,7 +3038,7 @@ A seafood deliverer shall be subject to the requirements for conducting a seafoo
 
    (4) urinate or defecate in any market, or in or upon any market building or structure, except in a facility that is specifically designed for such purpose;
 
-   (5) violate any measure imposed by the market manager pursuant to section 12-17 of this subchapter;
+   (5) violate any measure imposed by the market manager pursuant to 17 RCNY § 12-17;
 
    (6) violate any other order of the market manager issued in accordance with Chapter 1-A of Title 22 of the Code or this subchapter;
 
@@ -3080,7 +3080,7 @@ A seafood deliverer shall be subject to the requirements for conducting a seafoo
 
 (h) A wholesaler and its employees and agents and a seafood delivery business and its employees and agents shall not violate applicable federal, state and city regulations regarding the proper handling of seafood.
 
-(i) A wholesaler and its employees and agents and a seafood delivery business and its employees and agents shall not fail to notify the Commission of any change in the information provided pursuant to section 12-21 of this subchapter with respect to the composition or ownership of the wholesale business, or of any change in the employment status of its employees.
+(i) A wholesaler and its employees and agents and a seafood delivery business and its employees and agents shall not fail to notify the Commission of any change in the information provided pursuant to 17 RCNY § 12-21 with respect to the composition or ownership of the wholesale business, or of any change in the employment status of its employees.
 
 (j) A wholesaler and its employees and agents and a seafood delivery business and its employees and agents shall not associate with a person whom such person knows or should know is a member or associate of an organized crime group. A person who has been identified by a federal, state, or local law enforcement agency as a member or associate of an organized crime group shall be presumed to be a member or associate of an organized crime group.
 
@@ -3158,7 +3158,7 @@ b. Where the Commission makes such a determination, such loading or unloading se
 
    (2) the registration of a wholesale seafood business or seafood delivery business or
 
-   (3) a Class A or Class B photo identification card. Notice shall be provided in accordance with the provisions of section 12-25 of this subchapter. Hearings shall be afforded in accordance with the provisions of section 12-26 of this subchapter.
+   (3) a Class A or Class B photo identification card. Notice shall be provided in accordance with the provisions of 17 RCNY § 12-25. Hearings shall be afforded in accordance with the provisions of 17 RCNY § 12-26.
 
 (c) Revocation or suspension of a license or registration, the discontinuance of business operations in the market area by a licensee or registrant, or denial of an application for a license or registration shall require the immediate surrender to the market manager of all photo identification cards issued to the principals, employees and/or agents of the licensee or registrant. Violation of the provisions of this subdivision may result in the imposition of the sanctions and penalties provided in sections 22-215 and 22-219 of the Code.
 
@@ -3172,7 +3172,7 @@ b. Where the Commission makes such a determination, such loading or unloading se
 *§ 12-24 Emergency Suspension of License, Registration or Photo Identification Card.* ::
 
 
-Notwithstanding the foregoing provisions, the Chairperson may, if he or she has reasonable cause to believe that the operation of a loading or unloading business, a wholesale seafood business or seafood delivery business or the presence of any person in the market area creates an imminent danger to life or property or to the orderly and lawful operation of the market, or that there has likely been false or fraudulent information submitted to the Commission, may immediately suspend the license or registration of such business or the photo identification card of such person without a prior hearing, provided that such suspension may be appealed to the Deputy Commissioner for Legal Affairs of the Commission, who shall determine such appeal forthwith. If the Deputy Commissioner for Legal Affairs upholds the suspension, an opportunity for a hearing pursuant to the provisions of subdivision 12-26(b) of this subchapter shall be provided on an expedited basis. The Commission shall issue a final determination no later than four (4) business days following the conclusion of such hearing. The Chairperson may, upon application by the business whose license or registration has been suspended, permit such business to remain in the market area for such time as is deemed necessary by the Chairperson to allow for the expeditious sale, consignment or removal of a perishable product if, in the Chairperson's judgment, such permission is consistent with the safety of the market area.
+Notwithstanding the foregoing provisions, the Chairperson may, if he or she has reasonable cause to believe that the operation of a loading or unloading business, a wholesale seafood business or seafood delivery business or the presence of any person in the market area creates an imminent danger to life or property or to the orderly and lawful operation of the market, or that there has likely been false or fraudulent information submitted to the Commission, may immediately suspend the license or registration of such business or the photo identification card of such person without a prior hearing, provided that such suspension may be appealed to the Deputy Commissioner for Legal Affairs of the Commission, who shall determine such appeal forthwith. If the Deputy Commissioner for Legal Affairs upholds the suspension, an opportunity for a hearing pursuant to the provisions of 17 RCNY § 12-26(b) shall be provided on an expedited basis. The Commission shall issue a final determination no later than four (4) business days following the conclusion of such hearing. The Chairperson may, upon application by the business whose license or registration has been suspended, permit such business to remain in the market area for such time as is deemed necessary by the Chairperson to allow for the expeditious sale, consignment or removal of a perishable product if, in the Chairperson's judgment, such permission is consistent with the safety of the market area.
 
 
 
@@ -3321,7 +3321,7 @@ In addition to the other powers of the Commission, the Commission shall have the
 *§ 13-02 Definitions.* ::
 
 
-Unless otherwise provided in this subchapter, the terms used herein shall have the meanings provided for such terms in section 22-202 of the Code and section 12-02 of subchapter B of this chapter.
+Unless otherwise provided in this subchapter, the terms used herein shall have the meanings provided for such terms in section 22-202 of the Code and 17 RCNY § 12-02.
 
 
 
@@ -3410,15 +3410,17 @@ The Commission may by resolution delegate to the Chairperson any authority of th
 
 For the purposes of this subchapter, the following terms shall have the following meanings:
 
-Market business. "Market business" shall mean any business located or operating within any market area that is engaged in providing goods or services to wholesalers or retail purchasers in market area that are related to the conduct of a wholesale seafood business or the purchase of seafood products by retailers or others, or that receives such goods within such market area for delivery, forwarding, transfer or further distribution outside such market area. "Market business" shall include, but not be limited to, the supply of ice or refrigeration services, security, and transfer or distribution of seafood, and shall exclude suppliers of seafood.
-
 Labor union and labor organization. "Labor union" and "labor organization" shall mean a union or other organization that represents or seeks to represent, employees directly involved in the movement, handling or sale of goods in the market area. Notwithstanding the foregoing, such terms shall not include: (i) a labor union that represents or seeks to represent fewer than two hundred employees in any market area; (ii) a labor union representing or seeking to represent clerical or other office workers, construction or electrical workers, or any other workers temporarily or permanently employed in the market area for a purpose not directly related to the movement, handling or sale of goods in such market; (iii) affiliated national or international labor unions of local labor unions required to register pursuant to this subchapter.
+
+Market business. "Market business" shall mean any business located or operating within any market area that is engaged in providing goods or services to wholesalers or retail purchasers in market area that are related to the conduct of a wholesale seafood business or the purchase of seafood products by retailers or others, or that receives such goods within such market area for delivery, forwarding, transfer or further distribution outside such market area. "Market business" shall include, but not be limited to, the supply of ice or refrigeration services, security, and transfer or distribution of seafood, and shall exclude suppliers of seafood.
 
 Material change. "Material change" shall mean a change in any information provided in response to an item identified as such on an application or disclosure form submitted to the Commission or by any other directive issued by the Commission. "Material change" also includes the occurrence of any event after the submission of an application or disclosure that would have been required to be disclosed on such form had it occurred prior to such submission.
 
 Officer. "Officer" shall mean any person holding an elected position or any other position involving participation in the management or control of a market business, labor union or labor organization required to register pursuant to this subchapter.
 
-Registration. "Registration" shall mean a market business registration, as required by section 22-253 of the Code, or a labor union or labor organization registration, as required by section 22-212.1 of the Code. Unless otherwise provided in this subchapter, all other terms used herein shall have the meanings provided for such terms in section 12-02 of subchapter B of this chapter.
+Registration. "Registration" shall mean a market business registration, as required by section 22-253 of the Code, or a labor union or labor organization registration, as required by section 22-212.1 of the Code.
+
+Unless otherwise provided in this subchapter, all other terms used herein shall have the meanings provided for such terms in 17 RCNY § 12-02.
 
 
 
@@ -3492,7 +3494,7 @@ No person shall operate a market business in the market area without first recei
 *§ 14-06 Temporary Photo Identification Cards.* ::
 
 
-The Commission may designate the cooperative association of any market area to issue temporary photo identification cards to principals and employees (including seasonal employees) of market businesses at the market area in which such cooperative association operates. The duties of such designated cooperative association are to be performed pursuant to the provisions of the Code and this subchapter relating to such temporary photo identification cards and such terms and conditions as the Commission may impose. Such temporary photo identification cards shall be valid for a period of one year but shall cease to be valid upon the issuance by the Commission of a permanent photo identification card or the occurrence of any of the events set forth in paragraph (1), (2) or (3) of subdivision (a) of section 14-05 of this chapter. Any cooperative association designated by the Commission to issue temporary identification cards may impose fees and set amounts for such fees for the performance of the functions set forth in this section with the prior written permission of the Commission. No change in a fee or amount of such fee imposed pursuant to this section shall be made without prior written permission of the Commission.
+The Commission may designate the cooperative association of any market area to issue temporary photo identification cards to principals and employees (including seasonal employees) of market businesses at the market area in which such cooperative association operates. The duties of such designated cooperative association are to be performed pursuant to the provisions of the Code and this subchapter relating to such temporary photo identification cards and such terms and conditions as the Commission may impose. Such temporary photo identification cards shall be valid for a period of one year but shall cease to be valid upon the issuance by the Commission of a permanent photo identification card or the occurrence of any of the events set forth in paragraph (1), (2) or (3) of subdivision (a) of 17 RCNY § 14-05. Any cooperative association designated by the Commission to issue temporary identification cards may impose fees and set amounts for such fees for the performance of the functions set forth in this section with the prior written permission of the Commission. No change in a fee or amount of such fee imposed pursuant to this section shall be made without prior written permission of the Commission.
 
 
 
@@ -3590,7 +3592,7 @@ The Commission may designate the cooperative association of any market area to i
 
    (1) the registration of a market business or
 
-   (2) a photo identification card for any of the reasons set forth in section 22-260 of the Code, or for violation of any rule promulgated pursuant to section 22-266 of the Code, including without limitation sections 14-09 and 14-17 of this subchapter. Notice shall be provided in accordance with the provisions of section 11-20 of subchapter A of this chapter. Hearings shall be afforded in accordance with the provisions of section 11-21 of subchapter A of this chapter.
+   (2) a photo identification card for any of the reasons set forth in section 22-260 of the Code, or for violation of any rule promulgated pursuant to section 22-266 of the Code, including without limitation 17 RCNY §§ 14-09 and 14-17. Notice shall be provided in accordance with the provisions of 17 RCNY § 11-20. Hearings shall be afforded in accordance with the provisions of 17 RCNY § 11-21.
 
 (b) Revocation or suspension of registration shall require the immediate surrender to the market manager of all photo identification cards issued to the principals and employees of the registrant. If a registration has been suspended, violation of the provisions of this subdivision may result in immediate revocation of a registration and/or the imposition of penalties as provided in section 22-258 of the Code.
 
@@ -3604,7 +3606,7 @@ The Commission may designate the cooperative association of any market area to i
 *§ 14-11 Emergency Suspension of Registration or Photo Identification Cards.* ::
 
 
-Notwithstanding the foregoing provisions, the Chairperson may, if he or she has reasonable cause to believe that the operation of a market business or the presence of any person in the market area creates an imminent danger to life or property or to the orderly and lawful operation of the market, or that there has likely been false or fraudulent information submitted to the Commission, immediately suspend the registration of such business or the photo identification card of such person, as applicable, without a prior hearing, provided that, such suspension may be appealed to the Deputy Commissioner of Legal Affairs. If such Deputy Commissioner upholds the suspension imposed by the market manager, an opportunity for a hearing pursuant to the provisions of section 11-21 of subchapter A of this chapter shall be provided on an expedited basis within a period not to exceed four (4) business days, and the Commission shall issue a final determination no later than four (4) business days following the conclusion of such hearing. The Commission may, upon application by a market business whose registration has been suspended without a prior hearing, permit such market business to remain in the market area for such time as is necessary to allow for the expeditious sale, consignment or removal of a perishable product if, in the Commission's judgment, such permission is consistent with the safety of the public and the market area.
+Notwithstanding the foregoing provisions, the Chairperson may, if he or she has reasonable cause to believe that the operation of a market business or the presence of any person in the market area creates an imminent danger to life or property or to the orderly and lawful operation of the market, or that there has likely been false or fraudulent information submitted to the Commission, immediately suspend the registration of such business or the photo identification card of such person, as applicable, without a prior hearing, provided that, such suspension may be appealed to the Deputy Commissioner of Legal Affairs. If such Deputy Commissioner upholds the suspension imposed by the market manager, an opportunity for a hearing pursuant to the provisions of 17 RCNY § 11-21 shall be provided on an expedited basis within a period not to exceed four (4) business days, and the Commission shall issue a final determination no later than four (4) business days following the conclusion of such hearing. The Commission may, upon application by a market business whose registration has been suspended without a prior hearing, permit such market business to remain in the market area for such time as is necessary to allow for the expeditious sale, consignment or removal of a perishable product if, in the Commission's judgment, such permission is consistent with the safety of the public and the market area.
 
 
 
@@ -3694,7 +3696,7 @@ Notwithstanding the foregoing provisions, the Chairperson may, if he or she has 
 
    (4) violate applicable federal, state or city laws and regulations;
 
-   (5) in the case of a market business, fail to notify the Commission of any change in the information provided pursuant to section 14-04 of this subchapter;
+   (5) in the case of a market business, fail to notify the Commission of any change in the information provided pursuant to 17 RCNY § 14-04;
 
    (6) associate with a person whom such person knows or should know is a member or associate of an organized crime group (a person who has been identified by a federal, state, or local law enforcement agency as a member or associate of an organized crime group shall be presumed to be a member or associate of an organized crime group);
 
@@ -3708,7 +3710,7 @@ Notwithstanding the foregoing provisions, the Chairperson may, if he or she has 
 
    (11) in the case of a market business, continue to employ a person who has not received a valid photo identification card in accordance with the provisions of this subchapter, or whose photo identification card has been revoked or suspended;
 
-   (12) utilize any motor vehicle in connection with a business operating in the market that is not properly registered with the New York State Department of Motor Vehicles and insured in accordance with section 14-09 of this subchapter;
+   (12) utilize any motor vehicle in connection with a business operating in the market that is not properly registered with the New York State Department of Motor Vehicles and insured in accordance with 17 RCNY § 14-09;
 
    (13) engage in any unfair labor practice under federal or state labor law;
 
