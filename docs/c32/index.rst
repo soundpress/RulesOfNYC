@@ -2013,7 +2013,7 @@ As used in this chapter:
 
 
 (a) Except as provided in subdivision (c), a Respondent who admits the charge or is found responsible at a hearing for any Specified Violation can perform Community Service instead of paying a monetary civil penalty. The Specified Violations, monetary civil penalties, and corresponding Community Service hour requirements are found below: 
-								
+									
 
  
 
@@ -2050,7 +2050,7 @@ As used in this chapter:
     * - Admin. Code § 16-118(1)(a), (b)
       - Littering, Sweep-out, throw-out, spitting
       - 1st - $752nd - $2503rd - $350
-      - 1st – 12nd – 33rd – 6
+      - 1st – 12nd – 23rd – 3
     * - 56 RCNY § 1-04(c)(1)
       - Littering or unlawful use of park waste receptacle
       - $50
@@ -2058,7 +2058,7 @@ As used in this chapter:
     * - Admin. Code § 16-118(6)
       - Public Urination
       - 1st - $752nd - $2503rd - $350
-      - 1st – 12nd – 33rd – 6
+      - 1st – 12nd – 23rd – 3
     * - 56 RCNY § 1-03(a)(3)
       - Unauthorized presence in park when closed to public
       - $50
@@ -2070,7 +2070,7 @@ As used in this chapter:
     * - 56 RCNY § 1-03(c)(1)
       - Failure to comply with directives of police, park supervisor, lifeguard, peace officer
       - $250
-      - 3
+      - 2
     * - 56 RCNY § 1-03(c)(2)
       - Failure to comply with directives of other Department employee
       - $150
@@ -2082,19 +2082,19 @@ As used in this chapter:
     * - 56 RCNY § 1-04(a)(1)
       - Destruction or abuse of Department property that causes significant damage or expense
       - $1,000
-      - 12
+      - 6
     * - 56 RCNY § 1-04(a)(2)
       - Injury, defacement, abuse, etc. of Department property
       - $100
-      - 2
+      - 1
     * - 56 RCNY § 1-04(b)(1)(ii)
       - Defacement or writing upon a tree
       - $200
-      - 3
+      - 2
     * - 56 RCNY § 1-04(b)(1)(iii)
       - Defacement, killing, etc. of vegetation.
       - $200
-      - 3
+      - 2
     * - 56 RCNY § 1-04(b)(2)
       - Walking on/permitting animal or child to walk on newly seeded grass
       - $50
@@ -2122,15 +2122,15 @@ As used in this chapter:
     * - 56 RCNY § 1-04(e)(1)
       - Aviation - bringing/landing aerial device in park, endangering person or property
       - $500
-      - 6
+      - 3
     * - 56 RCNY § 1-04(f)(1)
       - Possession of a firearm/propellant/ex plosive etc.
       - $500
-      - 6
+      - 3
     * - 56 RCNY § 1-04(g)(1)
       - Harming animals, nests, or eggs; Possessing or distributing animals or eggs.
       - $1,000
-      - 12
+      - 6
     * - 56 RCNY § 1-04(g)(2)
       - Unauthorized feeding of animals
       - $50
@@ -2138,19 +2138,19 @@ As used in this chapter:
     * - 56 RCNY § 1-04(1)
       - Unleashed/uncontroll ed animals in park
       - $100
-      - 2
+      - 1
     * - 56 RCNY § 1-04(1)
       - Unleashed/uncontroll ed animals in park – second or subsequent violation within one year
       - $250
-      - 3
+      - 2
     * - 56 RCNY § 1-04(j)(1), § 3-18(b)
       - Failure to remove canine waste
       - $100
-      - 2
+      - 1
     * - 56 RCNY § 1-04(j)(2)
       - Horse carriage without horse hamper/control for horse waste
       - $100
-      - 2
+      - 1
     * - 56 RCNY § 1-04(k)
       - Unlawful urination/defecation in park.
       - $50
@@ -2166,7 +2166,7 @@ As used in this chapter:
     * - 56 RCNY § 1-04(l)(2)(ii)
       - Disorderly behavior – climbing statue or artwork in manner that could damage it
       - $200
-      - 3
+      - 2
     * - 56 RCNY § 1-04(l)(3)
       - Disorderly behavior – fee evasion
       - $50
@@ -2178,7 +2178,7 @@ As used in this chapter:
     * - 56 RCNY § 1-04(l)(5)(i)
       - Disorderly behavior – render park road dangerous
       - $100
-      - 2
+      - 1
     * - 56 RCNY § 1-04(l)(5)(ii)
       - Disorderly behavior – render park dangerous
       - $50
@@ -2190,15 +2190,15 @@ As used in this chapter:
     * - 56 RCNY § 1-04(l)(7)
       - Disorderly behavior – sexual activity
       - $100
-      - 2
+      - 1
     * - 56 RCNY § 1-04(l)(8)
       - Disorderly behavior – endanger safety of others
       - $250
-      - 3
+      - 2
     * - 56 RCNY § 1-04(l)(9)
       - Disorderly behavior – operation of bike, motor vehicle, etc. that endangers safety of other person or property
       - $500
-      - 6
+      - 3
     * - 56 RCNY § 1-04(n)
       - Unlawful exposure
       - $50
@@ -2210,7 +2210,7 @@ As used in this chapter:
     * - 56 RCNY § 1-04(p)
       - Unlawful camping
       - $250
-      - 3
+      - 2
     * - 56 RCNY § 1-04(q)
       - Spitting on park building/monument/s tructure
       - $50
@@ -2222,7 +2222,7 @@ As used in this chapter:
     * - 56 RCNY § 1-04(s)(1)
       - Unlawful commercial activity or speech
       - $100
-      - 2
+      - 1
     * - 56 RCNY § 1-04(s)(2)
       - Soliciting money or property without permit
       - $50
@@ -2230,27 +2230,27 @@ As used in this chapter:
     * - 56 RCNY § 1-05(a)(1)
       - Unpermitted event that significantly interferes with ordinary park use
       - $500
-      - 6
+      - 3
     * - 56 RCNY § 1-05(a)(2)
       - Unpermitted special event/demonstration
       - $250
-      - 3
+      - 2
     * - 56 RCNY § 1-05(a)(3)
       - Structure/stand/booth etc. without permit
       - $250
-      - 3
+      - 2
     * - 56 RCNY § 1-05(b)
       - Unlawful vending
       - $250
-      - 3
+      - 2
     * - 56 RCNY § 1-05(b)(1)
       - Unlawful vending – second or subsequent violation within one year
       - $500
-      - 6
+      - 3
     * - 56 RCNY § 1-05(b)(2)
       - Unlawful vending of expressive matter in violation of Department rules
       - $500
-      - 6
+      - 3
     * - 56 RCNY § 1-05(c)
       - Unlawful display of signs
       - $50
@@ -2262,11 +2262,11 @@ As used in this chapter:
     * - 56 RCNY § 1-05(d)(2)
       - Operating sound reproduction device without required permit
       - $140
-      - 2
+      - 1
     * - 56 RCNY § 1-05(d)(3)
       - Playing instrument/radio, etc. during unauthorized hours
       - $140
-      - 2
+      - 1
     * - 56 RCNY § 1-05(g)
       - Failure to comply with beach/boardwalk/poo l restrictions
       - $50
@@ -2322,7 +2322,7 @@ As used in this chapter:
     * - 56 RCNY § 1-05(r)(3)(i)
       - Area use restrictions - unauthorized skating/skiing/skateb oarding/sledding/etc. endangering person or property
       - $200
-      - 3
+      - 2
     * - 56 RCNY § 1-05(r)(3)(ii)
       - Area use restrictions - unauthorized skating/skiing/skateb oarding/sledding, etc.
       - $50
@@ -2342,7 +2342,7 @@ As used in this chapter:
     * - 56 RCNY § 1-05(t)
       - Unauthorized distribution/demonstr ation of products
       - $100
-      - 2
+      - 1
     * - 56 RCNY § 1-05(u)
       - Failure to comply with in-line skating restrictions
       - $50
@@ -2350,10 +2350,10 @@ As used in this chapter:
     * - Admin. Code § 24-218(a)
       - Causing or permitting unreasonable noise (7:00 A.M. to 10:00 P.M.)
       - 1st - $752nd - $1503rd - $350
-      - 1st – 12nd – 23rd – 6
+      - 1st – 12nd – 23rd – 3
     * - Causing or permitting unreasonable noise (10:00 P.M. to 7:00 A.M.)
       - 1st - $752nd - $1503rd - $350
-      - 1st – 12nd – 23rd – 6
+      - 1st – 12nd – 23rd – 3
 ~
 
 
@@ -2363,7 +2363,7 @@ As used in this chapter:
 
  
 
-(b) A Respondent is eligible for Community Service if the Respondent appears in person before a Hearing Officer and admits to a Specified Violation alleged in a summons, or if the Specified Violation is sustained at a hearing.
+(b) A Respondent is eligible for Community Service if the Respondent appears in person before a Hearing Officer and admits to a Specified Violation alleged in a summons, or if the Specified Violation is sustained at a hearing. Respondent need not opt for community service at the time of the hearing.
 
 (c) A Respondent is not eligible for Community Service if the Specified Violation arose during the conduct of commercial activity or activity carried out for a commercial purpose, except when the commercial activity alleged is a violation of Administrative Code Section 18-146(c)(15).
 
@@ -2377,9 +2377,9 @@ As used in this chapter:
 *§ 7-03 Choosing Community Service.* ::
 
 
-(a)  Except as provided in 48 RCNY § 7-07, a Respondent eligible for Community Service as set forth in 48 RCNY § 7-02 must appear before a Hearing Officer who will offer the Community Service option, either on the hearing date specified in the summons or prior to the hearing date. Respondent must make the choice of Community Service in person and cannot do so by remote method of adjudication such as mail, online or by phone.
+(a) A Respondent eligible for Community Service as set forth in 48 RCNY § 7-02 will receive a Decision that gives Respondent the option either to complete Community Service by a specified date or to pay the applicable monetary civil penalty. If the Respondent wants to perform Community Service, the Respondent must contact the Community Service Provider to schedule Community Service.
 
-(b) Where a Respondent has chosen the option of Community Service, pursuant to subdivision (a), a Hearing Officer will issue a Decision that orders completion of the Community Service by a specified date and orders that the applicable monetary civil penalty be reinstated if Respondent fails to complete the Community Service by the specified date. The monetary civil penalty will be due and owing thirty (30) days from the date of the Decision or thirty-five (35) days if the Decision is mailed.
+(b) If the Respondent fails to complete the Community Service as set forth in 48 RCNY §§ 7-04 and 7-05, the applicable monetary civil penalty will be reinstated. The monetary civil penalty will be due and owing thirty (30) days from the date of the Decision, or thirty-five (35) days if the Decision is mailed.
 
 
 
@@ -2407,7 +2407,7 @@ The number of hours of Community Service imposed will correspond to the amount o
 
 (b) A Respondent must complete the Community Service by the date specified in the Decision, unless otherwise specified in a notice granting an extension, or an order issued, pursuant to 48 RCNY § 7-07.
 
-(c) A Respondent may request an extension of time to complete the Community Service through the Community Service Provider up to one day prior to the deadline to complete the Community Service specified in the Decision.
+(c) A Respondent may request an extension of time to complete the Community Service through the Community Service Provider prior to the deadline to complete the Community Service specified in the Decision.
 
    (1) The Community Service Provider may grant a request for an extension for good cause shown. In determining whether there is good cause for an extension, the Community Service Provider will consider factors such as the following:
 

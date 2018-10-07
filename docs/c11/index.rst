@@ -49,13 +49,13 @@ Department of Finance. "Department of Finance" means the Department of Finance o
 
 Deferral of review or defer review. "Deferral of review" or "defer review" means that the application shall receive Tax Commission review in the year following its filing, provided there is a valid proceeding for judicial review of the assessment pending.
 
-Discontinuance of review or discontinue review. "Discontinuance of review" or "discontinue review" means the discontinuance of review of an application because of a procedural defect without reaching the merits of the claims presented, as provided in § 4-03 of chapter four of this title.
+Discontinuance of review or discontinue review. "Discontinuance of review" or "discontinue review" means the discontinuance of review of an application because of a procedural defect without reaching the merits of the claims presented, as provided in 21 RCNY § 4-03.
 
 Emergency. "Emergency" means an unforeseeable event that prevents an applicant or representative from appearing at a hearing on an application, such as an illness of the representative, the self-represented applicant or a family member for whose care such representative or applicant is responsible, or the death of a representative's or applicant's family member.
 
 Form. "Form" means a form published by the Tax Commission.
 
-Group representative. "Group representative" means, except as otherwise provided in § 2-05 of chapter two of this title, a person or firm who is designated as the representative on three or more applications and is assigned a group number by the Tax Commission.
+Group representative. "Group representative" means, except as otherwise provided in 21 RCNY § 2-05, a person or firm who is designated as the representative on three or more applications and is assigned a group number by the Tax Commission.
 
 Hearing officer. "Hearing officer" means a person whom the President designates to review and determine applications.
 
@@ -248,9 +248,9 @@ Chapter 2: Representation
 *§ 2-05 Electronic Notice of Filing by Group Representatives Who File Fifty or More Applications in One Calendar Year; Application Data.* ::
 
 
-(a)  For the purposes of this section, "group representative" means a group representative, as defined in § 1-03 of chapter one of this title, who files fifty or more applications in a calendar year.
+(a)  For the purposes of this section, "group representative" means a group representative, as defined in 21 RCNY § 1-03, who files fifty or more applications in a calendar year.
 
-(b) Group representatives shall provide notice of filing applications by electronic means in an electronic file format prescribed by the Tax Commission, in order to obtain calendar pages. The Tax Commission may schedule hearings on applications as provided in § 4-09(i) of chapter four of this title or defer review of applications of group representatives that provide notice of filing applications by electronic means in a defective format or a format not prescribed by the Tax Commission. For group representatives that do not provide notice of filing applications by electronic means, the Tax Commission may schedule hearings on applications as provided in § 4-09(i) of chapter four of this title.
+(b) Group representatives shall provide notice of filing applications by electronic means in an electronic file format prescribed by the Tax Commission, in order to obtain calendar pages. The Tax Commission may schedule hearings on applications as provided in 21 RCNY § 4-09(i) or defer review of applications of group representatives that provide notice of filing applications by electronic means in a defective format or a format not prescribed by the Tax Commission. For group representatives that do not provide notice of filing applications by electronic means, the Tax Commission may schedule hearings on applications as provided in 21 RCNY § 4-09(i).
 
 (c) Notice of filing applications by electronic means shall include the following application data: (1) borough, block and lot of each property for which the representative filed an application for correction of the assessment; (2) the application form number; (3) the relationship between the applicant and the property; (4) whether the application seeks Tax Commission review of a claim of misclassification or exemption; (5) whether the application is ineligible for review because a required income and expense schedule was not timely filed; (6) whether review is requested, and if so, whether a hearing or review on the papers submitted is requested; (7) the name of the applicant; (8) the representative's group number assigned by the Tax Commission; (9) the condominium lots covered by an application, if any; and (10) any other data the Tax Commission determines is necessary or appropriate.
 
@@ -463,7 +463,7 @@ Chapter 3: Application
 
 (p) The Tax Commission may review applications for procedural defects on its own initiative.
 
-(q) The Tax Commission may permit cure of procedural defects in applications, including defects in applicable forms and income and expense schedules that are part of an application, set forth in this section, § 3-04 of this chapter, and § 4-03 of chapter four of this title if the application has been shown to be meritorious and if the cure is made no later than the hearing or other review.
+(q) The Tax Commission may permit cure of procedural defects in applications, including defects in applicable forms and income and expense schedules that are part of an application, set forth in this section, 21 RCNY § 3-04, and 21 RCNY § 4-03 if the application has been shown to be meritorious and if the cure is made no later than the hearing or other review.
 
 
 
@@ -754,7 +754,7 @@ The Tax Commission may deny or discontinue review of an application on any of th
 
    (1) Failure to appear based on a claim of lack of notice of hearing will be excused upon a showing of good cause established by convincing evidence by the representative or self-represented applicant. An erroneous address of the representative or self-represented applicant to which notice was sent will constitute good cause established by convincing evidence only if the representative or self-represented applicant has timely notified the Tax Commission of his, her, or its correct address.
 
-   (2) Non-receipt of notice of hearing shall not constitute good cause established by convincing evidence by for failure to appear unless the representative or self-represented applicant has made inquiry of the Tax Commission as to the date of scheduled hearings before April 15 or July 5 as required by §§ 4-09(j)(6) and (7) of this chapter.
+   (2) Non-receipt of notice of hearing shall not constitute good cause established by convincing evidence by for failure to appear unless the representative or self-represented applicant has made inquiry of the Tax Commission as to the date of scheduled hearings before April 15 or July 5 as required by 21 RCNY § 4-09(j)(6) and (7).
 
    (3) The Tax Commission may review on papers submitted or defer review of applications of a representative or self-represented applicant who fails to show good cause that his or her failure to appear was the result of non-delivery of the notice of hearing by the postal service.
 
@@ -970,7 +970,7 @@ Chapter 5: Fee For Applications To Correct Assessments
 
 
 
-*§ 5-01 [Fee Authorized*]* ::
+*§ 5-01 [Fee Authorized.]* ::
 
 
 The Tax Commission shall charge and collect the fee set forth in this chapter.

@@ -1,345 +1,6 @@
 Title 16: Department of Sanitation
 ===================================================
 
-Chapter 2: Use of Department Disposal Facilities
---------------------------------------------------
-
-
-
-*§ 2-01 Definitions.* ::
-
-
-Each of the following words, terms, or phrases shall have for the purposes of these Rules and Regulations, the sense or meaning prescribed by its definition:
-
-Ashes. "Ashes" means cinders, coal and every other such substance which is left unconsumed by fire in stoves, furnaces, ranges, firepots, fireplaces, and other such places.
-
-Brush. "Brush" means wood components of yard waste, including tree branches, prunings and other similar materials, which are greater than three quarters (3/4) of an inch in diameter.
-
-Burnable material. "Burnable material" means putrescible solid waste, non-putrescible solid waste and other combustibles excepting dangerous materials.
-
-Burnable rubbish. "Burnable rubbish" means non-putrescible solid waste that may be burned mixed with putrescible solid waste, without additional or supplementary fuel, at incinerator furnace temperatures ranging from 800°F. up including, but not limited to, paper, dry rags, cartons, boxes, small pieces of wood, excelsior in small quantities, broken furniture, bedding, small pieces of old leather, tree branches in short pieces, and yard trimmings.
-
-Commissioner. "Commissioner" means the Commissioner of the Department of Sanitation.
-
-Compost Facility. "Compost Facility" means a facility operated by the Commissioner and used for the aerobic and thermophilic decomposition of organic constituents of solid waste to produce a stable, humus-like material.
-
-Compostable Material. "Compostable material" means organic constituents of solid waste including, but not limited to, yard waste, that are capable of being processed aerobically and thermophilically to form a stable, humus-like material.
-
-Dangerous material. "Dangerous material" means:
-
-   (1) Any substance, or compound, or mixture, or article having properties of such a character that alone, or in combination or contiguity with other substances or compounds; it may decompose suddenly and generate sufficient heat, or gas, or pressure to produce rapid flaming combustion, or administer a destructive blow to surrounding objects.
-
-   (2) Any chemical or any mechanical mixture containing any oxidizing and combustible units or other ingredients in such proportions, quantities or packing that an ignition by fire, friction, concussion, percussion or detonation of any part of the compound or mixture may cause sudden generation of highly heated gases that the resultant gaseous pressure is capable of producing destructive effects upon life, limb or contiguous objects.
-
-   (3) Including, but not limited to,
-
-      (i) animal hides in quantities
-
-      (ii) magnesium strips, foil, powder
-
-      (iii) sulphur
-
-      (iv) phosphorus
-
-      (v) mercury
-
-      (vi) unused flash bulbs
-
-      (vii) any sealed object containing a gas or liquid and canned goods
-
-      (viii) any container used for or containing:
-
-         (A) benzene
-
-         (B) cigarette lighter fluid
-
-         (C) cleaning fluid
-
-         (D) alcohol
-
-         (E) acetone
-
-         (F) ether
-
-         (G) oil
-
-         (H) any other inflammable substance
-
-      (ix) celluloid
-
-      (x) calcium carbide
-
-      (xi) sawdust
-
-      (xii) any finely divided or powdered materials
-
-      (xiii) any other chemicals
-
-      (xiv) cellulose nitrate
-
-      (xv) buffing from resin compounds
-
-      (xvi) fine wool in quantities
-
-      (xvii) boxes, barrels or baskets with steel hoops or bindings.
-
-Department. "Department" means Department of Sanitation or its agents or designees.
-
-Incinerator. "Incinerator" means plant owned by the City of New York and operated by the Commissioner to incinerate burnable material.
-
-Location. "Location" means in the generic sense, any location operated by the Commissioner for the disposal, composting or incineration of material, or for an intervening stage or step to final disposal; and, as the context indicates, an incinerator, or a marine transfer station, or a truck landfill, or a marine unloading plant, or a composting facility.
-
-Marine transfer station. "Marine transfer station" means a waterfront lo cation operated by the Commissioner to load materials into barges for marine transportation to another point for final disposal.
-
-Marine unloading plant. "Marine unloading plant" means a waterfront location where material is unloaded from barges and used to reclaim adjacent low lying swampy land by filling and operated by the Commissioner.
-
-Material. "Material" means in the generic sense, any of the materials defined in these Rules, i.e. ashes or garbage or burnable or dangerous materials or yard waste; and, as the context indicates, a particular defined material.
-
-Non-putrescible Solid Waste. "Non-putrescible Solid Waste" means solid waste, whether or not contained in receptacles, that does not contain organic matter having the tendency to decompose with the formation of malodorous by-products.
-
-Permittee or licensee. "Permittee or licensee" means a person licensed or permitted by the New York City Department of Consumer Affairs pursuant to Subchapter eighteen of Chapter two of Title twenty of the Administrative Code of the City of New York to collect or dispose of commercial non-putrescible and putrescible solid waste.
-
-Person. "Person" means any individual, partnership, corporation, association, firm, organization, or any other group of individuals, or any officer or employee or agent thereof.
-
-Putrescible Solid Waste. "Putrescible Solid Waste" means solid waste containing organic matter having the tendency to decompose with the formation of malodorous by-products.
-
-Solid Waste. "Solid Waste" means all putrescible and non-putrescible materials or substances, except as described in paragraph (2) of this subsection, that are discarded or rejected, including but not limited to garbage, refuse, waste collected by any person required to be licensed or permitted pursuant to Subchapter eighteen of Chapter two of Title twenty of the Administrative Code of the City of New York, rubbish, tires, ashes, contained gaseous material, incinerator residue, construction and demolition debris, discarded automobiles and offal. Such term shall include recyclable materials, as defined in subdivision i of section 16-303 of chapter one of title sixteen.
-
-   (1) A material is discarded or rejected if it is:
-
-         (A) spent, useless, or worthless or in excess to the owners at the time of such discard or rejection;
-
-         (B) disposed of;
-
-         (C) burned or incinerated, including material burned as a fuel for the purpose of recovering useable energy; or
-
-         (D) accumulated, stored, or physically, chemically or biologically treated (other than burned or incinerated) instead of or before being disposed of.
-
-   (2) The following are not solid waste for the purpose of this subsection:
-
-         (A) domestic sewage;
-
-         (B) any mixture of domestic sewage and other waste that passes through a sewer system to a publicly owned treatment works facility for treatment, except any material that is introduced into such system in order to avoid the provisions of the Title 16 of the Administrative Code of the City of New York, or of state regulations promulgated to regulate solid waste management facilities;
-
-         (C) industrial wastewater discharges that are actual point source discharges subject to permits under Article 17 of the New York State Environmental Conservation Law; provided that industrial wastewaters while they are being collected, stored or treated before discharge and sludges that are generated by industrial wastewater treatment are solid wastes;
-
-         (D) irrigation return flows;
-
-         (E) radioactive materials that are source, special nuclear, or byproduct material under the federal Atomic Energy Act of 1954, as amended, 42 U.S.C. §§ 2011, et seq.;
-
-         (F) materials subject to in-situ mining techniques which are not removed from the ground as part of the extraction process;
-
-         (G) hazardous waste as defined in § 27-0901 of the New York state environmental conservation law, including material containing hazardous waste; and
-
-         (H) regulated medical waste as defined in Title 15 of article 27 of the New York State Environmental Conservation law, in Title 13 of Article 13 of the New York State Public Health Law, or in § 16-120.1 of the Administrative Code of the City of New York or any rules and regulations promulgated pursuant to such provisions of law.
-
-Truck landfill. "Truck landfill" means an inland location; low lying, swampy land being reclaimed by filling with material and operated by the Commissioner.
-
-Unburnable material. "Unburnable material" means any material which will not ignite or actively support combustion in a surrounding temperature of 1250°F. during an exposure of sixty seconds including, but not limited to, ashes, plaster, bricks, broken asphalt, concrete, concrete building boards, glass, crockery, metals, granite, marble, other stone and stoneware, porcelain and porcelain ware, slag, mortar, terracotta, gypsum, lime, asbestos, mineral wool, rock wool, hard rubber, and any material containing a high percentage of moisture.
-
-Virgin Wood Chips. "Virgin wood chips" means wood from a tree or tree branch that has been reduced or chipped to a minimum size of one inch and a maximum size of four inches in diameter. Notwithstanding the preceding sentence, a particular load of wood chips may contain de minimis quantities of wood chips, as determined by the Department, that do not meet the minimum or maximum size specifications. Wood chips made from wood that has been milled, painted, chemically treated, contaminated or adulterated in any manner whatsoever shall not be considered virgin wood chips, including, but not limited to, wood chips from pallets or plywood.
-
-Yard Waste. "Yard Waste" means leaves, grass clippings, garden debris, vegetative residue that is recognizable as part of a plant or vegetable, small or chipped branches, and similar material, except that no material greater than eight (8) inches in diameter and eight (8) feet in length shall be considered yard waste.
-
-
-
-
-
-
-*§ 2-02 General Limitations.* ::
-
-
-(a) Material produced or collected outside the City of New York will not be received or accepted from any person.
-
-(b) Material will not be received or accepted at any location unless (1) the person offering it tenders a debit card pursuant to 16 RCNY § 2-06, as applicable, for each load at the rates in effect when such material is received; and (2) unless the vehicle body and/or container clearly displays an official notice from the Department stating the cubic yard capacity of such vehicle and/or any identification number as required by the Department.
-
-(c) Material will not be received or accepted at a Marine Unloading Plant. If the Department designates an area within the site of a Marine Unloading Plant with vehicular access through the inland or upland boundaries of the Plant site as a landfill, materials otherwise acceptable at Truck Landfills generally will be received and accepted at such a landfill.
-
-(d) Unburnable materials will not be received or accepted at incinerators.
-
-(e) Dangerous materials will not be received or accepted at any point, except as provided by these Rules.
-
-(f) Burnable materials will not be received or accepted at truck landfills or marine transfer stations during any period in which the nearest incinerator is accepting burnable material.
-
-(g) Material will be received and accepted at particular locations only while each is open for that purpose. The Commissioner shall determine when a particular location be open.
-
-(h) Material will be received and accepted only when delivered in a vehicle displaying a decal issued for the particular vehicle by the Department of Sanitation indicating the cubic yard capacity of such vehicle and a waste conveyance truck permit or license issued for the particular vehicle in accordance with Subchapter eighteen of Chapter two of Title twenty of the Administrative Code of the City of New York.
-
-(i) Roll-on/Roll-off containers whose bodies are permanently enclosed and are of a welded steel construction will be accepted at incinerators, provided that the person, permittee, or licensee offering such container complies with all rules and regulations of the Department. All other Roll-on/Roll-off containers shall not be accepted at any incin- erator.
-
-(j) Except as provided in subdivision (k) below, overweight vehicles as defined in this subdivision (j) will not be received or accepted at Department disposal facilities as follows:
-
-   (1) At Marine Transfer Stations trucks weighing over 40 tons gross will not be received or accepted for disposal of materials.
-
-   (2) At landfills and compost facilities trucks weighing over 60 tons gross will not be received or accepted for disposal of materials.
-
-   (3) At incinerators trucks weighing over 60 tons gross will not be received or accepted for disposal of materials.
-
-(k) Any person, licensee, or permittee who shall be found to have violated any provisions of these Rules may have his dumping privileges suspended by the Commissioner for a period not to exceed 30 days. In the case of a violation of 16 RCNY § 2-02(j) the following will occur: (1) upon the first violation of such paragraph the materials may be accepted for disposal and an oral warning will be given to the driver of the overweight vehicle. Such oral warning will be followed by a written warning indicating that a second and/or any subsequent violation(s) will result in the suspension of the dumping privileges of the violating person, licensee or permittee for a period not to exceed 30 days; upon suspension, notice of the cause thereof shall be mailed to the violating person, licensee or permittee within two days thereafter (Saturdays, Sundays and legal holidays excluded), and in the same notice the violating person, licensee or permittee shall be informed of the time and place at which the Commissioner or his representative will receive such explanation, excuse, or justification as the violating person, licensee or permittee may care to offer. If the violating person, licensee or permittee shall fail to avail himself of such opportunity at the time and place named, or if after considering the matter submitted by the violating person, licensee or permittee and such other matter as he may deem pertinent, the Commissioner shall be of the opinion that it is not in the public interest to reinstate the dumping privileges, he may order its continued suspension, reinstatement upon compliance with conditions named by him, or revocation effective at a time named by him or for failure to comply with the conditions named by him within the time limited by him. Notice of such decision of the Commissioner and of any revocation shall be mailed to the violating person, licensee or permittee within two days (Saturdays, Sundays and legal holidays excluded), after it is made by the Commissioner.
-
-(l) In the event that any material is offered for disposal, discharged, or otherwise disposed of at any incinerator, Marine Transfer Station, Compost Facility or Truck Landfill, the receipt of which is not authorized or permitted by these Rules, or any other applicable federal, state, or local law or rule, then the person or permittee offering such material shall be responsible for all costs and expenses incurred by the City as determined by the Commissioner in processing such material. These costs include, but are not limited to, the cost of any chemical or other analysis of such materials, the cost of segregation of such material, the cost of providing security, if necessary, the cost of removal and disposal of such material, and any other cost incurred by the City as a result of the dumping or discharge or the attempt to dump such material at any of the above enumerated facilities. The Commissioner reserves the right to direct such person to remove such material within 48 hours of written notification. In addition, in the event dumping privileges have been suspended as provided for under 16 RCNY § 2-02(k), the Commissioner may, as a condition of reinstatement of such dumping privileges, require such person to reimburse the City for such costs as provided for under this subdivision.
-
-
-
-
-
-
-*§ 2-03 General Provisions.* ::
-
-
-(a) Each and every time a permittee or licensee and any servant, agent, employee, or representative of a permittee or licensee offers a load of material for receipt and acceptance by the Department at any location, such permittee or licensee and the individual offering the load on his behalf shall be deemed by such offer to represent and warrant, for the purpose of inducing receipt and acceptance of the load of material in reliance thereon, that each and every part and portion and all of the load complies in every particular with all applicable provisions of these Rules and of all applicable provisions of law. Such permittee or licensee and such individual shall also be deemed by such offer to agree that it is not practicable to dump the load first, separate and apart from all other material at the location, in order to determine that the load is or is not acceptable.
-
-(b) Whenever the Commissioner determines that it is in the City's best interest, he may close at any time and without notice or warning in advance, down indefinitely, or discontinue entirely, or continue open and in operation for the purpose of only receiving materials collected by the Department, any Department Incinerator, Marine Transfer Station, Compost Facility or Truck Landfill location.
-
-(c) The receipt for disposal of any materials, by the Department is subject to the suitability of Department Incineration, Marine Transfer Station, Compost and Truck Landfill facilities for handling any such materials and the capacity of such facilities remaining after receipt of Department-collected materials.
-
-(d) No separate or special permit to deposit materials at Department locations is required other than the waste conveyance truck permit or license required under subchapter eighteen of chapter two of title twenty of the Administrative Code of the City of New York for the lawful transportation of such materials through the streets to Department locations. Each such permit or license is deemed to include the privilege of disposing of materials at Department locations upon payment pursuant to 16 RCNY § 2-06, as applicable, of the charges fixed by law, provided that such permittee or licensee complies with these rules and all applicable provisions of federal, state and local law and all other rules, regulations and orders of competent authorities.
-
-(e) To calculate the load charge for the volume of material that may be carried in the body of a particular vehicle, the Commissioner's representative will measure the body of the vehicle.
-
-(f) In determining body capacities for purposes of payment, calculations will be made to the hundredth of a cubic yard. When the calculated capacity contains a fraction not exceeding fifty one-hundredths (50/100's) of a cubic yard, capacity will be fixed at the whole number of cubic yards less the fraction. When the fraction exceeds fifty one-hundredths of a cubic yard, capacity will be fixed at the next higher whole number of cubic yards.
-
-(g) The manufacturer's rated cubic body capacity for a total enclosed body may be accepted, or such body may be measured and capacity calculated.
-
-(h) The Department may accept some dangerous materials provided that special arrangements have been made through the Bureau of Waste Disposal at the Department's Main Office, 125 Worth Street, New York, N.Y. 10013.
-
-
-
-
-
-
-*§ 2-04 Rates of Charge.* ::
-
-
-(a)  Pursuant to § 16-129 of the Administrative Code, the following rates are hereby fixed to be charged and collected by the Commissioner on and/or after August 1, 1988 from any person desiring to deposit at Department of Sanitation disposal facilities the materials named in such section of the Administrative Code:
-
-   (1) fifty three dollars ($53.00) per cubic yard for material disposed of at all incinerator locations; forty four dollars ($44.00) per cubic yard for material disposed of at all Marine Transfer Stations; and forty dollars ($40.00) per cubic yard for material except asbestos, and one hundred dollars ($100.00) per cubic yard for asbestos, disposed of at all Truck Landfill locations.
-
-   (2) These rates are based on the capacity of the vehicle container or body from which the load is dumped, as determined by the Commissioner, and will be charged and collected in such manner, by such method, and at such time, as the Commissioner may prescribe.
-
-   (3) Nothing herein is intended to compel the Commissioner of Sanitation to collect, or remove, or dispose of, or accept for disposal, wastes or materials of any nature whatsoever other than those collected, removed, disposed of, or accepted for disposal by the Commissioner pursuant to Department rules.
-
-(b) Notwithstanding any inconsistent provision of this section, the Commissioner may waive charges for the use of Department disposal facilities for: (1) governmental agencies of the City and State of New York, and contractors of such agencies; (2) public authorities of the State of New York and contractors of such authorities; and (3) entities, such as not-for-profit organizations or their contractors, that are eligible for Department collection service pursuant to Chapter 1 of this Title.
-
-
-
-
-
-
-*§ 2-05 Payments. [Repealed]* ::
-
-
-(a) Except as otherwise provided for in this chapter, any user of Department Disposal Facilities shall be required to pay for the privilege of disposing of materials, otherwise defined in these rules, in accordance with the provisions of this section. The Department may, at its discretion, require users to apply to the Department, on forms to be furnished by the Department, to establish an account under the Automated Payment System (hereinafter "APS"). Upon review of such application, the user shall be notified as to the amount, if any, to be paid to the Department as the minimum balance necessary to establish such account. The Department may require users to establish an APS account, and to maintain a minimum balance in such account, regardless of whether the user is required to pay for the use of Department facilities pursuant to this chapter. The amount that the Department may require to be deposited shall be determined by the Department based on the prevailing rate fixed by law for the disposal of non-asbestos material at Truck Landfill locations and on the user's active fleet size, as registered with the Department, as follows:
-
-   (1) For fixed body type trucks, such deposit shall be equivalent to the charges for the cubic yard capacity of all such vehicles, registered by the user with the Department;
-
-   (2) For roll-on/roll-off type containers, such deposit shall be equivalent to the charges for the cubic yard capacity of such vehicle, based on one-ninth (1/9) of the cubic yard capacity of all such containers registered by the user with the Department;
-
-   (3) For tractor-trailer type vehicles transporting waste materials, such deposit shall be equivalent to the charges for the cubic yard capacity of such vehicle, based upon twice the cubic yard capacity of all such vehicles registered by the user with the Department; A user may apply for a modification to its required minimum balance based upon a reduction in its active fleet size. To apply for such a modification, a user must submit modification forms to the Department to de-register the affected vehicles.
-
-(b) The Department will be open to accept applications and deposits Mondays through Fridays (excluding holidays), during such hours as posted by the Department.
-
-(c) All deposit and debit transactions will be processed within one business day. Any amounts necessary to permit use of Department facilities by a user shall be deposited with the Department one business day prior to such use.
-
-(d) Each prospective user shall be identified by the Department of Consumer Affairs waste conveyance license number, or other Department registration identification number and the user name under which it desires to apply and make a deposit.
-
-(e) Only cash, money orders, or certified bank checks shall be received and accepted as deposit payments. All such checks/money orders shall be drawn to the order of "Department of Sanitation" as payee. (The maximum cash payments accepted per day, per user shall not exceed $1,000.00).
-
-(f) Each account will be charged or debited for the cost of the load on the basis of the vehicle's cubic yard capacity as calculated and determined by the Commissioner for the body of the particular vehicle registered to dump.
-
-(g) Upon the Department's establishment of an account on behalf of a user, each vehicle registered with the Department by the user shall receive a debit card which shall be delivered to the Commissioner's field representative at the Department's disposal location, in advance of dumping and as a condition precedent by the Department to the receipt and acceptance of material to be dumped. The debit card will be returned to the vehicle operator upon completion of each transaction. Such debit card shall be the property of the Department and shall be returned upon notice to the user by the Commissioner.
-
-(h) When offering a load for disposal, the user, or his employee or a person operating the vehicle on his behalf shall deliver to the Commissioner's field representative the debit card issued by the Department for such vehicle, listing the user name, permit number (where applicable), and account number. Debit cards may not be interchanged among vehicles. (However, funds on deposit may be applied to the dumping of any vehicle registered by the user with the Department). The information contained on the debit card must match the information contained on the Truck Measurement and Capacity Form for such vehicle and must match the markings and permit plate of the vehicle. Truck Measurement and Capacity forms shall be carried in vehicles as required by the Department.
-
-(i) The Commissioner may authorize refunds for unused account balances. Such refunds shall be made through the Comptroller's Office. Written requests for refunds should be made to the Department, giving the user's name, address and account number.
-
-(j) Upon acceptance of each load, the user's APS account will be debited or reduced by the appropriate amount determined by the product of the rated cubic yard capacity of such vehicle, as determined by the Department's Truck Measurement Unit, and the rate fixed by law for such material.
-
-(k) The Department will provide reasonable notice to a user when its account is approaching the minimum balance, by advising the user's agent offering the load of material for disposal that the user is approaching the minimum balance. It shall be the user's responsibility to ensure that it has maintained and is maintaining the necessary minimum balance in the APS to accommodate any loads offered at any Department Disposal Facility.
-
-(l) In the event that a user's account is reduced below its minimum balance, as determined by the Department pursuant to subdivision (b) of this section, by disposal of material at a Department Disposal Facility or any other act of the user, the user's vehicles will not be permitted to dump at Department Disposal Facilities until the user has deposited an amount to bring the account above the minimum balance.
-
-(m) In the case of a diminution of the user's account below the total amount on deposit with the Department, by disposal of material at a Department Disposal Facility or any other act of the user, the user's vehicles will not be permitted to dump at Department Disposal Facilities until the user has deposited an amount equal to the actual value of the disposal charges for the dumped material. In addition, the Department may, at its discretion, require the user to deposit an additional amount which shall increase the user's required minimum balance to twice the amount previously established by the Department. The Department may require that such additional minimum balance be maintained for at least one year, at which time the user may apply for a reduction in the additional minimum balance.
-
-(n) In the case of a diminution of the user's account below the total amount on deposit with the Department on more than one occasion, by disposal of material at a Department Disposal Facility or any other act of the user, the user's vehicles will not be permitted to dump at the Department's Disposal Facilities until the user has deposited an amount equal to the actual value of the disposal charges for the dumped material and an additional amount which shall be determined by the Department.
-
-(o) Requirements for pre-payment shall not apply to Federal Government agencies. The Commissioner may enter into written agreements with such agencies providing for payments at the rates set by 16 RCNY § 2-04 or by local law, whichever is applicable, in a manner other than that specified in this section, including, for example, quarterly payments.
-
-
-
-
-
-
-*§ 2-07 Construction and Demolition Waste and Transporters.* ::
-
-
-(a) It is the purpose and intent of this section to treat separately that category of materials hereinafter defined as "Construction and Demolition Waste" and those persons and vehicles hereinafter defined as "Construction and Demolition Waste Transporters."
-
-(b) "Construction and Demolition Waste" materials are hereby defined as the non-putrescible waste products resulting from building demolition, construction, alteration and excavation, including but not limited to dirt, earth, plaster, concrete, rock, rubble, slag, ashes and waste timber and lumber.
-
-(c) Construction and Demolition Waste Transporters are defined as persons or vehicles engaged in the business of transporting construction and demolition waste except that no person or vehicle possessing a Class 1, Class 2, Class 3, Class 4, Class 5 or Class 6 commercial refuse license may qualify as a Construction and Demolition Waste Transporter.
-
-(d) The Department may accept at specifically designated locations construction and demolition waste resulting from operations conducted within New York City and offered by Construction and Demolition Waste Transporters in compliance with all applicable provisions of these Rules and Regulations and with all applicable provisions of law. The Department shall require such Transporters to identify the origin of such waste and to furnish the identifying number of the applicable Department of Buildings permit, if any. The Department may at its discretion prohibit any Construction and Demolition Waste Transporter violating these Rules and Regulations or any applicable provision of law from offering such waste at such locations. Construction and Demolition Waste will not be accepted at any location from any person from whom the Commissioner is authorized by Resolution of the Board of Estimate of the City of New York to charge a cubic yard rate for the receipt and disposal of such waste unless the person offering such waste tenders a prepaid ticket known as a CW ticket for each load at the rates prescribed and fixed by the Board of Estimate of the City of New York. CW tickets shall be sold only in books of five (5) tickets, each separate ticket being a payment for one load. Tickets shall not be detached and offered separately. CW tickets shall not be assigned, transferred, or otherwise disposed of by any person, firm, or corporation that has purchased such tickets from the Department of Sanitation.
-
-(e) Each and every time a Construction and Demolition Waste Transporter, or his servant, agent, employee, or representative offers a load of material for receipt and acceptance by the Department of Sanitation at specifically designated locations the Construction and Demolition Waste Transporter and the individual offering the load on his behalf shall be deemed by the offer to represent and warrant, for the purpose of inducing receipt and acceptance of the load of material in reliance thereon, that each and every part and portion and all of the load complies in every particular with all applicable provisions of these Rules and Regulations and of all applicable provisions of law, and also shall be deemed by such offer to agree that it is not practicable to dump the load first, separate and apart from all other material at the location, in order to determine that the load is or is not acceptable.
-
-(f) 16 RCNY § 2-02(h) is not applicable to CW Transporters, but 16 RCNY § 2-03(d) shall apply.
-
-(g) Upon the expiration of 60 days from the effective date of this Rule and Regulation, no Construction and Demolition Waste Transporter shall be permitted to offer any construction and demolition waste to any Department facility and the Department will not accept any such waste unless the Construction and Demolition Waste Transporters offering such material have complied with the following:
-
-   (1) Such Construction and Demolition Waste Transporters shall have been measured by the Commissioner to determine their cubic yard capacity;
-
-   (2) Such Construction and Demolition Waste Transporters shall, upon offering any construction and demolition waste at any Department disposal facility exhibit an identification card, issued by the Department of Sanitation, indicating the name and address of the owner of such Transporter, the cubic yard capacity of such Transporter as determined by the Department of Sanitation registration number assigned to such transporter; and
-
-   (3) Such Construction and Demolition Waste Transporter shall have painted upon each side of the Transporter body well forward, in the manner and sequence specified below the following information which shall be identical to that contained on the identification card referred to in 16 RCNY § 2-07(g)(2) above:
-
-      (i) in letters and numbers not less than four inches in height, the business name and address of the owner of such transporter;
-
-      (ii) in letters and numbers not less than two inches in height, the following legends "D.S. Reg. Cap. Cu. Yds., D.S. Reg. No." with the numbers adjacent thereto which are identical to those appearing on the identification card referred to in 16 RCNY § 2-07(g)(2) above;
-
-      (iii) the sequence of the information required to be painted in subparagraphs (i) and (ii) above shall be as follows:
-
-         Name of owner Address of owner D.S. Reg. Cap – Cu. Yds. D.S. Reg. No.
-
-   (4) Such Construction and Demolition Waste Transporter shall have affixed to the vehicle body and/or container an official notice from the Department of Sanitation stating the cubic yard capacity and/or any identification number as required by the Department. For purpose of this section, in the event that any Construction and Demolition Waste Transporter shall have more than one container including but not limited to roll-on/roll-off containers, which are used for the Construction and Demolition Waste Transporter, then each such container shall be deemed a separate Construction and Demolition Waste Transporter for purposes of these Rules and Regulations and shall be measured by the Department of Sanitation as provided hereunder. Once the Construction and Demolition Waste Transporter shall have been measured by the Department of Sanitation in compliance with these Rules and Regulations, any change in the cubic capacity of such Transporter shall require the owner of such Transporter to present such Transporter to the Department for a new measuring within 5 days of such change in its cubic capacity. Except as provided for above, as to changes in cubic capacity after measuring by the Department, any Construction and Demolition Waste Transporter warrants and represents that in offering any load of construction and demolition waste that his Construction and Demolition Waste Transporter has not been altered or changed in any manner so as to increase or decrease the cubic capacity of such Transporter.
-
-(h) [Reserved.]
-
-(i) Before a work permit for construction, alteration or demolition is issued by the Department of Buildings to any applicant who desires to dispose of the construction and demolition waste originating from such work, the applicant for such permit shall pay a Construction and Demolition Waste Disposal fee to the Department of Buildings as agent for the Department of Sanitation based on a schedule of rates fixed by the Board of Estimate. Where a permit is issued in connection with a contract awarded by an agency of the City of New York which may include the New York City Housing Authority, the applicant shall accompany payment of such fee with a certification by such City agency setting forth the cubeage or load data as the case may be, which determines the amount of the fee; or in lieu of payment of such fee the applicant may submit to the Department of Buildings a certification by such City agency on a form prescribed by the Comptroller that it will determine the fee payable on such construction alteration or demolition as the case may be, and report such amount to the Comptroller to be collected out of the first payment due under such contract.
-
-(j) All other sections, subdivisions and paragraphs of these Rules and Regulations shall apply with equal force and effect to Construction and Demolition Waste Transporters, except where inconsistent or in conflict with the provisions of 16 RCNY § 2-07 herein, in which case, the provisions of 16 RCNY § 2-07, shall prevail.
-
-(k) On or after July 23, 1973, no construction and demolition waste will be accepted for disposition at any Department of Sanitation disposal facility if:
-
-   (1) such waste has originated from a site for which a disposal fee has been paid in accordance with Board of Estimate Resolution No. 43, adopted on October 8, 1970;
-
-   (2) such waste has originated from a site for which a certification by a City agency has been filed pursuant to 16 RCNY § 2-07(i); or
-
-   (3) such waste originates from a site for which no permit is required to be issued pursuant to §§ 27-156, 27-161 and 27-167 of the Administrative Code unless the applicant for such permits, as to the construction and demolition waste specified in (3) above, provide the Construction and Demolition Waste Transporter with dump tickets, furnished to such applicant by the Department of Sanitation, and the Construction and Demolition Waste Transporter shall present such tickets in the appropriate number when offering such waste at any Department of Sanitation disposal facility for receipt and disposal. Such tickets shall be issued to any such applicant who requests such tickets provided such applicant executes a request for these tickets upon forms supplied by the Commissioner of the Department of Sanitation and supplies all of the appropriate information required on such forms. The Commissioner reserves the right to determine whether the information furnished by such applicant is accurate and to certify whether such applicant is entitled to the number of dump tickets contained in his request. Such requests shall be made on forms provided by the Department of Sanitation which shall be filed at any time subsequent to the effective date of this amendment at times and places to be designated by the Commissioner.
-
-
-
-
-
-
-*§ 2-08 Receipt of Compostable Material at Department Compost Facilities.* ::
-
-
-In addition to 16 RCNY §§ 2-01, 2-02, 2-03, and 2-06, the following provisions shall apply to the receipt of yard waste and other compostable material at Compost Facilities.
-
-(a) The Department may, at its discretion, accept yard waste and other compostable material at Compost Facilities at the rates set by law. In addition, the Department may, at its discretion, accept virgin wood chips at Compost Facilities free of charge.
-
-(b) Only yard waste as defined in 16 RCNY § 2-01 and other compostable material, as determined by the Department, shall be accepted at Compost Facilities. Yard waste or other compostable material that is contaminated with non-compostable material shall not be accepted at Compost Facilities.
-
-(c) Yard waste and other compostable material shall be accepted in bulk form or compostable receptacles as determined by the Commissioner. In no event shall yard waste or other compostable material be accepted in plastic bags or in other receptacles determined by the Commissioner to be non-compostable.
-
-(d) Brush shall be segregated from other yard waste and shall be deposited at Compost Facilities as directed by the Department.
-
-(e) To be eligible for acceptance free of charge, virgin wood chips must be delivered to Compost Facilities in a vehicle that contains only virgin wood chips. Virgin wood chips that are delivered to Compost Facilities in the same vehicle as yard waste or other compostable material, even if segregated from such other materials, shall be accepted at the rates set by law for the acceptance of such other material at Compost Facilities.
-
-
-
-
 Chapter 1: Collection
 --------------------------------------------------
 
@@ -1194,7 +855,7 @@ For purposes of this section, the “floor area” of an establishment has the s
 
       (ii) provide equipment on site that is properly sized to handle and process organic waste generated at the premises in a safe and sanitary manner, together with a contingency plan for handling the organic waste in the event such system becomes inoperable. The designated covered establishment shall ensure that no organic waste or other solid waste storage problem or public nuisance or condition hazardous to public health or safety is created during scheduled or unscheduled equipment maintenance, or equipment breakdown;
 
-      (iii) ensure that any such organic waste processing system is installed in accordance with the health code, including but not limited to the provisions of article 143, the New York city building code, including but not limited to subchapters twelve and thirteen of chapter one of title twenty-seven of the administrative code, if applicable, and all applicable laws and rules governing the discharge of waste and waste water, including 15 RCNY § 19-11 governing the discharge of grease into the city sewer system, and any other applicable regulations enforced by the department of environmental protection or the New York state department of environmental conservation. In accordance with section 413.1 of the New York city plumbing code, a commercial food waste grinder unit cannot be used as an organic waste processing system for purposes of this paragraph; and
+      (iii) ensure that any such organic waste processing system is installed in accordance with the Health Code, including but not limited to the provisions of article 143, the New York city building code, including but not limited to subchapters twelve and thirteen of chapter one of title twenty-seven of the administrative code, if applicable, and all applicable laws and rules governing the discharge of waste and waste water, including 15 RCNY § 19-11 governing the discharge of grease into the city sewer system, and any other applicable regulations enforced by the department of environmental protection or the New York state department of environmental conservation. In accordance with section 413.1 of the New York city plumbing code, a commercial food waste grinder unit cannot be used as an organic waste processing system for purposes of this paragraph; and
 
       (iv) within thirty days of the installation of any on-site organic waste processing equipment, report to the Department the manufacturer, model number, size and the minimum and maximum processing capacity of the equipment and the date of installation of such equipment on a registration form prescribed by the Department, which shall be renewed annually.
 
@@ -1239,6 +900,345 @@ For purposes of this section, the “floor area” of an establishment has the s
    (2) Any person that violates any provision of this section shall be liable for civil penalties as provided for under paragraphs one, two and three of subdivision e of section 16-324 of the New York City Administrative Code.
 
 
+
+
+
+
+Chapter 2: Use of Department Disposal Facilities
+--------------------------------------------------
+
+
+
+*§ 2-01 Definitions.* ::
+
+
+Each of the following words, terms, or phrases shall have for the purposes of these Rules and Regulations, the sense or meaning prescribed by its definition:
+
+Ashes. "Ashes" means cinders, coal and every other such substance which is left unconsumed by fire in stoves, furnaces, ranges, firepots, fireplaces, and other such places.
+
+Brush. "Brush" means wood components of yard waste, including tree branches, prunings and other similar materials, which are greater than three quarters (3/4) of an inch in diameter.
+
+Burnable material. "Burnable material" means putrescible solid waste, non-putrescible solid waste and other combustibles excepting dangerous materials.
+
+Burnable rubbish. "Burnable rubbish" means non-putrescible solid waste that may be burned mixed with putrescible solid waste, without additional or supplementary fuel, at incinerator furnace temperatures ranging from 800°F. up including, but not limited to, paper, dry rags, cartons, boxes, small pieces of wood, excelsior in small quantities, broken furniture, bedding, small pieces of old leather, tree branches in short pieces, and yard trimmings.
+
+Commissioner. "Commissioner" means the Commissioner of the Department of Sanitation.
+
+Compost Facility. "Compost Facility" means a facility operated by the Commissioner and used for the aerobic and thermophilic decomposition of organic constituents of solid waste to produce a stable, humus-like material.
+
+Compostable Material. "Compostable material" means organic constituents of solid waste including, but not limited to, yard waste, that are capable of being processed aerobically and thermophilically to form a stable, humus-like material.
+
+Dangerous material. "Dangerous material" means:
+
+   (1) Any substance, or compound, or mixture, or article having properties of such a character that alone, or in combination or contiguity with other substances or compounds; it may decompose suddenly and generate sufficient heat, or gas, or pressure to produce rapid flaming combustion, or administer a destructive blow to surrounding objects.
+
+   (2) Any chemical or any mechanical mixture containing any oxidizing and combustible units or other ingredients in such proportions, quantities or packing that an ignition by fire, friction, concussion, percussion or detonation of any part of the compound or mixture may cause sudden generation of highly heated gases that the resultant gaseous pressure is capable of producing destructive effects upon life, limb or contiguous objects.
+
+   (3) Including, but not limited to,
+
+      (i) animal hides in quantities
+
+      (ii) magnesium strips, foil, powder
+
+      (iii) sulphur
+
+      (iv) phosphorus
+
+      (v) mercury
+
+      (vi) unused flash bulbs
+
+      (vii) any sealed object containing a gas or liquid and canned goods
+
+      (viii) any container used for or containing:
+
+         (A) benzene
+
+         (B) cigarette lighter fluid
+
+         (C) cleaning fluid
+
+         (D) alcohol
+
+         (E) acetone
+
+         (F) ether
+
+         (G) oil
+
+         (H) any other inflammable substance
+
+      (ix) celluloid
+
+      (x) calcium carbide
+
+      (xi) sawdust
+
+      (xii) any finely divided or powdered materials
+
+      (xiii) any other chemicals
+
+      (xiv) cellulose nitrate
+
+      (xv) buffing from resin compounds
+
+      (xvi) fine wool in quantities
+
+      (xvii) boxes, barrels or baskets with steel hoops or bindings.
+
+Department. "Department" means Department of Sanitation or its agents or designees.
+
+Incinerator. "Incinerator" means plant owned by the City of New York and operated by the Commissioner to incinerate burnable material.
+
+Location. "Location" means in the generic sense, any location operated by the Commissioner for the disposal, composting or incineration of material, or for an intervening stage or step to final disposal; and, as the context indicates, an incinerator, or a marine transfer station, or a truck landfill, or a marine unloading plant, or a composting facility.
+
+Marine transfer station. "Marine transfer station" means a waterfront lo cation operated by the Commissioner to load materials into barges for marine transportation to another point for final disposal.
+
+Marine unloading plant. "Marine unloading plant" means a waterfront location where material is unloaded from barges and used to reclaim adjacent low lying swampy land by filling and operated by the Commissioner.
+
+Material. "Material" means in the generic sense, any of the materials defined in these Rules, i.e. ashes or garbage or burnable or dangerous materials or yard waste; and, as the context indicates, a particular defined material.
+
+Non-putrescible Solid Waste. "Non-putrescible Solid Waste" means solid waste, whether or not contained in receptacles, that does not contain organic matter having the tendency to decompose with the formation of malodorous by-products.
+
+Permittee or licensee. "Permittee or licensee" means a person licensed or permitted by the New York City Department of Consumer Affairs pursuant to Subchapter eighteen of Chapter two of Title twenty of the Administrative Code of the City of New York to collect or dispose of commercial non-putrescible and putrescible solid waste.
+
+Person. "Person" means any individual, partnership, corporation, association, firm, organization, or any other group of individuals, or any officer or employee or agent thereof.
+
+Putrescible Solid Waste. "Putrescible Solid Waste" means solid waste containing organic matter having the tendency to decompose with the formation of malodorous by-products.
+
+Solid Waste. "Solid Waste" means all putrescible and non-putrescible materials or substances, except as described in paragraph (2) of this subsection, that are discarded or rejected, including but not limited to garbage, refuse, waste collected by any person required to be licensed or permitted pursuant to Subchapter eighteen of Chapter two of Title twenty of the Administrative Code of the City of New York, rubbish, tires, ashes, contained gaseous material, incinerator residue, construction and demolition debris, discarded automobiles and offal. Such term shall include recyclable materials, as defined in subdivision i of section 16-303 of chapter one of title sixteen.
+
+   (1) A material is discarded or rejected if it is:
+
+         (A) spent, useless, or worthless or in excess to the owners at the time of such discard or rejection;
+
+         (B) disposed of;
+
+         (C) burned or incinerated, including material burned as a fuel for the purpose of recovering useable energy; or
+
+         (D) accumulated, stored, or physically, chemically or biologically treated (other than burned or incinerated) instead of or before being disposed of.
+
+   (2) The following are not solid waste for the purpose of this subsection:
+
+         (A) domestic sewage;
+
+         (B) any mixture of domestic sewage and other waste that passes through a sewer system to a publicly owned treatment works facility for treatment, except any material that is introduced into such system in order to avoid the provisions of the Title 16 of the Administrative Code of the City of New York, or of state regulations promulgated to regulate solid waste management facilities;
+
+         (C) industrial wastewater discharges that are actual point source discharges subject to permits under Article 17 of the New York State Environmental Conservation Law; provided that industrial wastewaters while they are being collected, stored or treated before discharge and sludges that are generated by industrial wastewater treatment are solid wastes;
+
+         (D) irrigation return flows;
+
+         (E) radioactive materials that are source, special nuclear, or byproduct material under the federal Atomic Energy Act of 1954, as amended, 42 U.S.C. §§ 2011, et seq.;
+
+         (F) materials subject to in-situ mining techniques which are not removed from the ground as part of the extraction process;
+
+         (G) hazardous waste as defined in § 27-0901 of the New York state environmental conservation law, including material containing hazardous waste; and
+
+         (H) regulated medical waste as defined in Title 15 of article 27 of the New York State Environmental Conservation law, in Title 13 of Article 13 of the New York State Public Health Law, or in § 16-120.1 of the Administrative Code of the City of New York or any rules and regulations promulgated pursuant to such provisions of law.
+
+Truck landfill. "Truck landfill" means an inland location; low lying, swampy land being reclaimed by filling with material and operated by the Commissioner.
+
+Unburnable material. "Unburnable material" means any material which will not ignite or actively support combustion in a surrounding temperature of 1250°F. during an exposure of sixty seconds including, but not limited to, ashes, plaster, bricks, broken asphalt, concrete, concrete building boards, glass, crockery, metals, granite, marble, other stone and stoneware, porcelain and porcelain ware, slag, mortar, terracotta, gypsum, lime, asbestos, mineral wool, rock wool, hard rubber, and any material containing a high percentage of moisture.
+
+Virgin Wood Chips. "Virgin wood chips" means wood from a tree or tree branch that has been reduced or chipped to a minimum size of one inch and a maximum size of four inches in diameter. Notwithstanding the preceding sentence, a particular load of wood chips may contain de minimis quantities of wood chips, as determined by the Department, that do not meet the minimum or maximum size specifications. Wood chips made from wood that has been milled, painted, chemically treated, contaminated or adulterated in any manner whatsoever shall not be considered virgin wood chips, including, but not limited to, wood chips from pallets or plywood.
+
+Yard Waste. "Yard Waste" means leaves, grass clippings, garden debris, vegetative residue that is recognizable as part of a plant or vegetable, small or chipped branches, and similar material, except that no material greater than eight (8) inches in diameter and eight (8) feet in length shall be considered yard waste.
+
+
+
+
+
+
+*§ 2-02 General Limitations.* ::
+
+
+(a) Material produced or collected outside the City of New York will not be received or accepted from any person.
+
+(b) Material will not be received or accepted at any location unless (1) the person offering it tenders a debit card pursuant to 16 RCNY § 2-06, as applicable, for each load at the rates in effect when such material is received; and (2) unless the vehicle body and/or container clearly displays an official notice from the Department stating the cubic yard capacity of such vehicle and/or any identification number as required by the Department.
+
+(c) Material will not be received or accepted at a Marine Unloading Plant. If the Department designates an area within the site of a Marine Unloading Plant with vehicular access through the inland or upland boundaries of the Plant site as a landfill, materials otherwise acceptable at Truck Landfills generally will be received and accepted at such a landfill.
+
+(d) Unburnable materials will not be received or accepted at incinerators.
+
+(e) Dangerous materials will not be received or accepted at any point, except as provided by these Rules.
+
+(f) Burnable materials will not be received or accepted at truck landfills or marine transfer stations during any period in which the nearest incinerator is accepting burnable material.
+
+(g) Material will be received and accepted at particular locations only while each is open for that purpose. The Commissioner shall determine when a particular location be open.
+
+(h) Material will be received and accepted only when delivered in a vehicle displaying a decal issued for the particular vehicle by the Department of Sanitation indicating the cubic yard capacity of such vehicle and a waste conveyance truck permit or license issued for the particular vehicle in accordance with Subchapter eighteen of Chapter two of Title twenty of the Administrative Code of the City of New York.
+
+(i) Roll-on/Roll-off containers whose bodies are permanently enclosed and are of a welded steel construction will be accepted at incinerators, provided that the person, permittee, or licensee offering such container complies with all rules and regulations of the Department. All other Roll-on/Roll-off containers shall not be accepted at any incin- erator.
+
+(j) Except as provided in subdivision (k) below, overweight vehicles as defined in this subdivision (j) will not be received or accepted at Department disposal facilities as follows:
+
+   (1) At Marine Transfer Stations trucks weighing over 40 tons gross will not be received or accepted for disposal of materials.
+
+   (2) At landfills and compost facilities trucks weighing over 60 tons gross will not be received or accepted for disposal of materials.
+
+   (3) At incinerators trucks weighing over 60 tons gross will not be received or accepted for disposal of materials.
+
+(k) Any person, licensee, or permittee who shall be found to have violated any provisions of these Rules may have his dumping privileges suspended by the Commissioner for a period not to exceed 30 days. In the case of a violation of 16 RCNY § 2-02(j) the following will occur: (1) upon the first violation of such paragraph the materials may be accepted for disposal and an oral warning will be given to the driver of the overweight vehicle. Such oral warning will be followed by a written warning indicating that a second and/or any subsequent violation(s) will result in the suspension of the dumping privileges of the violating person, licensee or permittee for a period not to exceed 30 days; upon suspension, notice of the cause thereof shall be mailed to the violating person, licensee or permittee within two days thereafter (Saturdays, Sundays and legal holidays excluded), and in the same notice the violating person, licensee or permittee shall be informed of the time and place at which the Commissioner or his representative will receive such explanation, excuse, or justification as the violating person, licensee or permittee may care to offer. If the violating person, licensee or permittee shall fail to avail himself of such opportunity at the time and place named, or if after considering the matter submitted by the violating person, licensee or permittee and such other matter as he may deem pertinent, the Commissioner shall be of the opinion that it is not in the public interest to reinstate the dumping privileges, he may order its continued suspension, reinstatement upon compliance with conditions named by him, or revocation effective at a time named by him or for failure to comply with the conditions named by him within the time limited by him. Notice of such decision of the Commissioner and of any revocation shall be mailed to the violating person, licensee or permittee within two days (Saturdays, Sundays and legal holidays excluded), after it is made by the Commissioner.
+
+(l) In the event that any material is offered for disposal, discharged, or otherwise disposed of at any incinerator, Marine Transfer Station, Compost Facility or Truck Landfill, the receipt of which is not authorized or permitted by these Rules, or any other applicable federal, state, or local law or rule, then the person or permittee offering such material shall be responsible for all costs and expenses incurred by the City as determined by the Commissioner in processing such material. These costs include, but are not limited to, the cost of any chemical or other analysis of such materials, the cost of segregation of such material, the cost of providing security, if necessary, the cost of removal and disposal of such material, and any other cost incurred by the City as a result of the dumping or discharge or the attempt to dump such material at any of the above enumerated facilities. The Commissioner reserves the right to direct such person to remove such material within 48 hours of written notification. In addition, in the event dumping privileges have been suspended as provided for under 16 RCNY § 2-02(k), the Commissioner may, as a condition of reinstatement of such dumping privileges, require such person to reimburse the City for such costs as provided for under this subdivision.
+
+
+
+
+
+
+*§ 2-03 General Provisions.* ::
+
+
+(a) Each and every time a permittee or licensee and any servant, agent, employee, or representative of a permittee or licensee offers a load of material for receipt and acceptance by the Department at any location, such permittee or licensee and the individual offering the load on his behalf shall be deemed by such offer to represent and warrant, for the purpose of inducing receipt and acceptance of the load of material in reliance thereon, that each and every part and portion and all of the load complies in every particular with all applicable provisions of these Rules and of all applicable provisions of law. Such permittee or licensee and such individual shall also be deemed by such offer to agree that it is not practicable to dump the load first, separate and apart from all other material at the location, in order to determine that the load is or is not acceptable.
+
+(b) Whenever the Commissioner determines that it is in the City's best interest, he may close at any time and without notice or warning in advance, down indefinitely, or discontinue entirely, or continue open and in operation for the purpose of only receiving materials collected by the Department, any Department Incinerator, Marine Transfer Station, Compost Facility or Truck Landfill location.
+
+(c) The receipt for disposal of any materials, by the Department is subject to the suitability of Department Incineration, Marine Transfer Station, Compost and Truck Landfill facilities for handling any such materials and the capacity of such facilities remaining after receipt of Department-collected materials.
+
+(d) No separate or special permit to deposit materials at Department locations is required other than the waste conveyance truck permit or license required under subchapter eighteen of chapter two of title twenty of the Administrative Code of the City of New York for the lawful transportation of such materials through the streets to Department locations. Each such permit or license is deemed to include the privilege of disposing of materials at Department locations upon payment pursuant to 16 RCNY § 2-06, as applicable, of the charges fixed by law, provided that such permittee or licensee complies with these rules and all applicable provisions of federal, state and local law and all other rules, regulations and orders of competent authorities.
+
+(e) To calculate the load charge for the volume of material that may be carried in the body of a particular vehicle, the Commissioner's representative will measure the body of the vehicle.
+
+(f) In determining body capacities for purposes of payment, calculations will be made to the hundredth of a cubic yard. When the calculated capacity contains a fraction not exceeding fifty one-hundredths (50/100's) of a cubic yard, capacity will be fixed at the whole number of cubic yards less the fraction. When the fraction exceeds fifty one-hundredths of a cubic yard, capacity will be fixed at the next higher whole number of cubic yards.
+
+(g) The manufacturer's rated cubic body capacity for a total enclosed body may be accepted, or such body may be measured and capacity calculated.
+
+(h) The Department may accept some dangerous materials provided that special arrangements have been made through the Bureau of Waste Disposal at the Department's Main Office, 125 Worth Street, New York, N.Y. 10013.
+
+
+
+
+
+
+*§ 2-04 Rates of Charge.* ::
+
+
+(a)  Pursuant to § 16-129 of the Administrative Code, the following rates are hereby fixed to be charged and collected by the Commissioner on and/or after August 1, 1988 from any person desiring to deposit at Department of Sanitation disposal facilities the materials named in such section of the Administrative Code:
+
+   (1) fifty three dollars ($53.00) per cubic yard for material disposed of at all incinerator locations; forty four dollars ($44.00) per cubic yard for material disposed of at all Marine Transfer Stations; and forty dollars ($40.00) per cubic yard for material except asbestos, and one hundred dollars ($100.00) per cubic yard for asbestos, disposed of at all Truck Landfill locations.
+
+   (2) These rates are based on the capacity of the vehicle container or body from which the load is dumped, as determined by the Commissioner, and will be charged and collected in such manner, by such method, and at such time, as the Commissioner may prescribe.
+
+   (3) Nothing herein is intended to compel the Commissioner of Sanitation to collect, or remove, or dispose of, or accept for disposal, wastes or materials of any nature whatsoever other than those collected, removed, disposed of, or accepted for disposal by the Commissioner pursuant to Department rules.
+
+(b) Notwithstanding any inconsistent provision of this section, the Commissioner may waive charges for the use of Department disposal facilities for: (1) governmental agencies of the City and State of New York, and contractors of such agencies; (2) public authorities of the State of New York and contractors of such authorities; and (3) entities, such as not-for-profit organizations or their contractors, that are eligible for Department collection service pursuant to Chapter 1 of this Title.
+
+
+
+
+
+
+*§ 2-05 Payments. [Repealed]* ::
+
+
+(a) Except as otherwise provided for in this chapter, any user of Department Disposal Facilities shall be required to pay for the privilege of disposing of materials, otherwise defined in these rules, in accordance with the provisions of this section. The Department may, at its discretion, require users to apply to the Department, on forms to be furnished by the Department, to establish an account under the Automated Payment System (hereinafter "APS"). Upon review of such application, the user shall be notified as to the amount, if any, to be paid to the Department as the minimum balance necessary to establish such account. The Department may require users to establish an APS account, and to maintain a minimum balance in such account, regardless of whether the user is required to pay for the use of Department facilities pursuant to this chapter. The amount that the Department may require to be deposited shall be determined by the Department based on the prevailing rate fixed by law for the disposal of non-asbestos material at Truck Landfill locations and on the user's active fleet size, as registered with the Department, as follows:
+
+   (1) For fixed body type trucks, such deposit shall be equivalent to the charges for the cubic yard capacity of all such vehicles, registered by the user with the Department;
+
+   (2) For roll-on/roll-off type containers, such deposit shall be equivalent to the charges for the cubic yard capacity of such vehicle, based on one-ninth (1/9) of the cubic yard capacity of all such containers registered by the user with the Department;
+
+   (3) For tractor-trailer type vehicles transporting waste materials, such deposit shall be equivalent to the charges for the cubic yard capacity of such vehicle, based upon twice the cubic yard capacity of all such vehicles registered by the user with the Department; A user may apply for a modification to its required minimum balance based upon a reduction in its active fleet size. To apply for such a modification, a user must submit modification forms to the Department to de-register the affected vehicles.
+
+(b) The Department will be open to accept applications and deposits Mondays through Fridays (excluding holidays), during such hours as posted by the Department.
+
+(c) All deposit and debit transactions will be processed within one business day. Any amounts necessary to permit use of Department facilities by a user shall be deposited with the Department one business day prior to such use.
+
+(d) Each prospective user shall be identified by the Department of Consumer Affairs waste conveyance license number, or other Department registration identification number and the user name under which it desires to apply and make a deposit.
+
+(e) Only cash, money orders, or certified bank checks shall be received and accepted as deposit payments. All such checks/money orders shall be drawn to the order of "Department of Sanitation" as payee. (The maximum cash payments accepted per day, per user shall not exceed $1,000.00).
+
+(f) Each account will be charged or debited for the cost of the load on the basis of the vehicle's cubic yard capacity as calculated and determined by the Commissioner for the body of the particular vehicle registered to dump.
+
+(g) Upon the Department's establishment of an account on behalf of a user, each vehicle registered with the Department by the user shall receive a debit card which shall be delivered to the Commissioner's field representative at the Department's disposal location, in advance of dumping and as a condition precedent by the Department to the receipt and acceptance of material to be dumped. The debit card will be returned to the vehicle operator upon completion of each transaction. Such debit card shall be the property of the Department and shall be returned upon notice to the user by the Commissioner.
+
+(h) When offering a load for disposal, the user, or his employee or a person operating the vehicle on his behalf shall deliver to the Commissioner's field representative the debit card issued by the Department for such vehicle, listing the user name, permit number (where applicable), and account number. Debit cards may not be interchanged among vehicles. (However, funds on deposit may be applied to the dumping of any vehicle registered by the user with the Department). The information contained on the debit card must match the information contained on the Truck Measurement and Capacity Form for such vehicle and must match the markings and permit plate of the vehicle. Truck Measurement and Capacity forms shall be carried in vehicles as required by the Department.
+
+(i) The Commissioner may authorize refunds for unused account balances. Such refunds shall be made through the Comptroller's Office. Written requests for refunds should be made to the Department, giving the user's name, address and account number.
+
+(j) Upon acceptance of each load, the user's APS account will be debited or reduced by the appropriate amount determined by the product of the rated cubic yard capacity of such vehicle, as determined by the Department's Truck Measurement Unit, and the rate fixed by law for such material.
+
+(k) The Department will provide reasonable notice to a user when its account is approaching the minimum balance, by advising the user's agent offering the load of material for disposal that the user is approaching the minimum balance. It shall be the user's responsibility to ensure that it has maintained and is maintaining the necessary minimum balance in the APS to accommodate any loads offered at any Department Disposal Facility.
+
+(l) In the event that a user's account is reduced below its minimum balance, as determined by the Department pursuant to subdivision (b) of this section, by disposal of material at a Department Disposal Facility or any other act of the user, the user's vehicles will not be permitted to dump at Department Disposal Facilities until the user has deposited an amount to bring the account above the minimum balance.
+
+(m) In the case of a diminution of the user's account below the total amount on deposit with the Department, by disposal of material at a Department Disposal Facility or any other act of the user, the user's vehicles will not be permitted to dump at Department Disposal Facilities until the user has deposited an amount equal to the actual value of the disposal charges for the dumped material. In addition, the Department may, at its discretion, require the user to deposit an additional amount which shall increase the user's required minimum balance to twice the amount previously established by the Department. The Department may require that such additional minimum balance be maintained for at least one year, at which time the user may apply for a reduction in the additional minimum balance.
+
+(n) In the case of a diminution of the user's account below the total amount on deposit with the Department on more than one occasion, by disposal of material at a Department Disposal Facility or any other act of the user, the user's vehicles will not be permitted to dump at the Department's Disposal Facilities until the user has deposited an amount equal to the actual value of the disposal charges for the dumped material and an additional amount which shall be determined by the Department.
+
+(o) Requirements for pre-payment shall not apply to Federal Government agencies. The Commissioner may enter into written agreements with such agencies providing for payments at the rates set by 16 RCNY § 2-04 or by local law, whichever is applicable, in a manner other than that specified in this section, including, for example, quarterly payments.
+
+
+
+
+
+
+*§ 2-07 Construction and Demolition Waste and Transporters.* ::
+
+
+(a) It is the purpose and intent of this section to treat separately that category of materials hereinafter defined as "Construction and Demolition Waste" and those persons and vehicles hereinafter defined as "Construction and Demolition Waste Transporters."
+
+(b) "Construction and Demolition Waste" materials are hereby defined as the non-putrescible waste products resulting from building demolition, construction, alteration and excavation, including but not limited to dirt, earth, plaster, concrete, rock, rubble, slag, ashes and waste timber and lumber.
+
+(c) Construction and Demolition Waste Transporters are defined as persons or vehicles engaged in the business of transporting construction and demolition waste except that no person or vehicle possessing a Class 1, Class 2, Class 3, Class 4, Class 5 or Class 6 commercial refuse license may qualify as a Construction and Demolition Waste Transporter.
+
+(d) The Department may accept at specifically designated locations construction and demolition waste resulting from operations conducted within New York City and offered by Construction and Demolition Waste Transporters in compliance with all applicable provisions of these Rules and Regulations and with all applicable provisions of law. The Department shall require such Transporters to identify the origin of such waste and to furnish the identifying number of the applicable Department of Buildings permit, if any. The Department may at its discretion prohibit any Construction and Demolition Waste Transporter violating these Rules and Regulations or any applicable provision of law from offering such waste at such locations. Construction and Demolition Waste will not be accepted at any location from any person from whom the Commissioner is authorized by Resolution of the Board of Estimate of the City of New York to charge a cubic yard rate for the receipt and disposal of such waste unless the person offering such waste tenders a prepaid ticket known as a CW ticket for each load at the rates prescribed and fixed by the Board of Estimate of the City of New York. CW tickets shall be sold only in books of five (5) tickets, each separate ticket being a payment for one load. Tickets shall not be detached and offered separately. CW tickets shall not be assigned, transferred, or otherwise disposed of by any person, firm, or corporation that has purchased such tickets from the Department of Sanitation.
+
+(e) Each and every time a Construction and Demolition Waste Transporter, or his servant, agent, employee, or representative offers a load of material for receipt and acceptance by the Department of Sanitation at specifically designated locations the Construction and Demolition Waste Transporter and the individual offering the load on his behalf shall be deemed by the offer to represent and warrant, for the purpose of inducing receipt and acceptance of the load of material in reliance thereon, that each and every part and portion and all of the load complies in every particular with all applicable provisions of these Rules and Regulations and of all applicable provisions of law, and also shall be deemed by such offer to agree that it is not practicable to dump the load first, separate and apart from all other material at the location, in order to determine that the load is or is not acceptable.
+
+(f) 16 RCNY § 2-02(h) is not applicable to CW Transporters, but 16 RCNY § 2-03(d) shall apply.
+
+(g) Upon the expiration of 60 days from the effective date of this Rule and Regulation, no Construction and Demolition Waste Transporter shall be permitted to offer any construction and demolition waste to any Department facility and the Department will not accept any such waste unless the Construction and Demolition Waste Transporters offering such material have complied with the following:
+
+   (1) Such Construction and Demolition Waste Transporters shall have been measured by the Commissioner to determine their cubic yard capacity;
+
+   (2) Such Construction and Demolition Waste Transporters shall, upon offering any construction and demolition waste at any Department disposal facility exhibit an identification card, issued by the Department of Sanitation, indicating the name and address of the owner of such Transporter, the cubic yard capacity of such Transporter as determined by the Department of Sanitation registration number assigned to such transporter; and
+
+   (3) Such Construction and Demolition Waste Transporter shall have painted upon each side of the Transporter body well forward, in the manner and sequence specified below the following information which shall be identical to that contained on the identification card referred to in 16 RCNY § 2-07(g)(2) above:
+
+      (i) in letters and numbers not less than four inches in height, the business name and address of the owner of such transporter;
+
+      (ii) in letters and numbers not less than two inches in height, the following legends "D.S. Reg. Cap. Cu. Yds., D.S. Reg. No." with the numbers adjacent thereto which are identical to those appearing on the identification card referred to in 16 RCNY § 2-07(g)(2) above;
+
+      (iii) the sequence of the information required to be painted in subparagraphs (i) and (ii) above shall be as follows:
+
+         Name of owner Address of owner D.S. Reg. Cap – Cu. Yds. D.S. Reg. No.
+
+   (4) Such Construction and Demolition Waste Transporter shall have affixed to the vehicle body and/or container an official notice from the Department of Sanitation stating the cubic yard capacity and/or any identification number as required by the Department. For purpose of this section, in the event that any Construction and Demolition Waste Transporter shall have more than one container including but not limited to roll-on/roll-off containers, which are used for the Construction and Demolition Waste Transporter, then each such container shall be deemed a separate Construction and Demolition Waste Transporter for purposes of these Rules and Regulations and shall be measured by the Department of Sanitation as provided hereunder. Once the Construction and Demolition Waste Transporter shall have been measured by the Department of Sanitation in compliance with these Rules and Regulations, any change in the cubic capacity of such Transporter shall require the owner of such Transporter to present such Transporter to the Department for a new measuring within 5 days of such change in its cubic capacity. Except as provided for above, as to changes in cubic capacity after measuring by the Department, any Construction and Demolition Waste Transporter warrants and represents that in offering any load of construction and demolition waste that his Construction and Demolition Waste Transporter has not been altered or changed in any manner so as to increase or decrease the cubic capacity of such Transporter.
+
+(h) [Reserved.]
+
+(i) Before a work permit for construction, alteration or demolition is issued by the Department of Buildings to any applicant who desires to dispose of the construction and demolition waste originating from such work, the applicant for such permit shall pay a Construction and Demolition Waste Disposal fee to the Department of Buildings as agent for the Department of Sanitation based on a schedule of rates fixed by the Board of Estimate. Where a permit is issued in connection with a contract awarded by an agency of the City of New York which may include the New York City Housing Authority, the applicant shall accompany payment of such fee with a certification by such City agency setting forth the cubeage or load data as the case may be, which determines the amount of the fee; or in lieu of payment of such fee the applicant may submit to the Department of Buildings a certification by such City agency on a form prescribed by the Comptroller that it will determine the fee payable on such construction alteration or demolition as the case may be, and report such amount to the Comptroller to be collected out of the first payment due under such contract.
+
+(j) All other sections, subdivisions and paragraphs of these Rules and Regulations shall apply with equal force and effect to Construction and Demolition Waste Transporters, except where inconsistent or in conflict with the provisions of 16 RCNY § 2-07 herein, in which case, the provisions of 16 RCNY § 2-07, shall prevail.
+
+(k) On or after July 23, 1973, no construction and demolition waste will be accepted for disposition at any Department of Sanitation disposal facility if:
+
+   (1) such waste has originated from a site for which a disposal fee has been paid in accordance with Board of Estimate Resolution No. 43, adopted on October 8, 1970;
+
+   (2) such waste has originated from a site for which a certification by a City agency has been filed pursuant to 16 RCNY § 2-07(i); or
+
+   (3) such waste originates from a site for which no permit is required to be issued pursuant to §§ 27-156, 27-161 and 27-167 of the Administrative Code unless the applicant for such permits, as to the construction and demolition waste specified in (3) above, provide the Construction and Demolition Waste Transporter with dump tickets, furnished to such applicant by the Department of Sanitation, and the Construction and Demolition Waste Transporter shall present such tickets in the appropriate number when offering such waste at any Department of Sanitation disposal facility for receipt and disposal. Such tickets shall be issued to any such applicant who requests such tickets provided such applicant executes a request for these tickets upon forms supplied by the Commissioner of the Department of Sanitation and supplies all of the appropriate information required on such forms. The Commissioner reserves the right to determine whether the information furnished by such applicant is accurate and to certify whether such applicant is entitled to the number of dump tickets contained in his request. Such requests shall be made on forms provided by the Department of Sanitation which shall be filed at any time subsequent to the effective date of this amendment at times and places to be designated by the Commissioner.
+
+
+
+
+
+
+*§ 2-08 Receipt of Compostable Material at Department Compost Facilities.* ::
+
+
+In addition to 16 RCNY §§ 2-01, 2-02, 2-03, and 2-06, the following provisions shall apply to the receipt of yard waste and other compostable material at Compost Facilities.
+
+(a) The Department may, at its discretion, accept yard waste and other compostable material at Compost Facilities at the rates set by law. In addition, the Department may, at its discretion, accept virgin wood chips at Compost Facilities free of charge.
+
+(b) Only yard waste as defined in 16 RCNY § 2-01 and other compostable material, as determined by the Department, shall be accepted at Compost Facilities. Yard waste or other compostable material that is contaminated with non-compostable material shall not be accepted at Compost Facilities.
+
+(c) Yard waste and other compostable material shall be accepted in bulk form or compostable receptacles as determined by the Commissioner. In no event shall yard waste or other compostable material be accepted in plastic bags or in other receptacles determined by the Commissioner to be non-compostable.
+
+(d) Brush shall be segregated from other yard waste and shall be deposited at Compost Facilities as directed by the Department.
+
+(e) To be eligible for acceptance free of charge, virgin wood chips must be delivered to Compost Facilities in a vehicle that contains only virgin wood chips. Virgin wood chips that are delivered to Compost Facilities in the same vehicle as yard waste or other compostable material, even if segregated from such other materials, shall be accepted at the rates set by law for the acceptance of such other material at Compost Facilities.
 
 
 
@@ -1561,7 +1561,7 @@ Solid waste. "Solid waste" shall mean all putrescible and non-putrescible materi
 
       (1) domestic sewage;
 
-      (2) any mixture of domestic sewage and other wastes that passes through a sewer system to publicly owned treatment works for treatment, except any material that is introduced into such system in order to avoid the provisions of this subchapter, Article 157 of the New York City Health Code, Title sixteen of the Administrative Code of the City of New York, or of state regulations promulgated to regulate solid waste management facilities;
+      (2) any mixture of domestic sewage and other wastes that passes through a sewer system to publicly owned treatment works for treatment, except any material that is introduced into such system in order to avoid the provisions of this subchapter, 24 RCNY Health Code Article 157, Title sixteen of the Administrative Code of the City of New York, or of state regulations promulgated to regulate solid waste management facilities;
 
       (3) industrial wastewater discharges that are actual point source discharges subject to permits under Article seventeen of the Environmental Conservation Law; provided that industrial wastewaters while they are being collected, stored or treated before discharge and sludges that are generated by industrial wastewater treatment are solid wastes;
 
@@ -1649,9 +1649,9 @@ No person or public agency other than the Department of Sanitation may conduct, 
 
    (2) a written statement by a registered architect or licensed professional engineer certifying that:
 
-      (i) As designed, the transfer station is capable of complying with the applicable performance standards of the Zoning Resolution of the City of New York and the applicable provisions of the New York City Health Code, including but not limited to Articles 135 and 141;
+      (i) As designed, the transfer station is capable of complying with the applicable performance standards of the Zoning Resolution of the City of New York and the applicable provisions of the New York City Health Code, including but not limited to 24 RCNY Health Code Articles 135 and 141;
 
-      (ii) A system for the sanitary disposal of sewage and waste water has been installed at the transfer station in accordance with the provisions of Articles 143 and 145 of the New York City Health Code and all applicable laws and rules governing the discharge of sewage and waste water;
+      (ii) A system for the sanitary disposal of sewage and waste water has been installed at the transfer station in accordance with the provisions of 24 RCNY Health Code Articles 143 and 145 and all applicable laws and rules governing the discharge of sewage and waste water;
 
       (iii) The transfer station is capable of complying with all the requirements of 16 RCNY § 4-06;
 
@@ -1673,7 +1673,7 @@ No person or public agency other than the Department of Sanitation may conduct, 
 
    (5) A certification from a title insurance corporation, as such corporation is defined in § 6401 of the Insurance Law, or from a duly authorized agent thereof, establishing the ownership of the property upon which the transfer station is sited or proposed to be sited;
 
-   (6) Documentary evidence demonstrating that all penalities, including those of the Environmental Control Board, imposed upon the applicant, the property owner, and any other person in control of or having an interest in the transfer station operation, for violations of Article 157 of the New York City Health Code, or Title sixteen, Title seventeen, Chapter one of Title sixteen-A, Chapter one of Title twenty-six and Title twenty-seven of the Administrative Code of the City of New York, or rules promulgated thereunder, that relate to the ownership or operation of a non-putrescible solid waste transfer station, putrescible solid waste transfer station, dump or fill material operation, have been paid or otherwise satisfied;
+   (6) Documentary evidence demonstrating that all penalities, including those of the Environmental Control Board, imposed upon the applicant, the property owner, and any other person in control of or having an interest in the transfer station operation, for violations of 24 RCNY Health Code Article 157, or Title sixteen, Title seventeen, Chapter one of Title sixteen-A, Chapter one of Title twenty-six and Title twenty-seven of the Administrative Code of the City of New York, or rules promulgated thereunder, that relate to the ownership or operation of a non-putrescible solid waste transfer station, putrescible solid waste transfer station, dump or fill material operation, have been paid or otherwise satisfied;
 
    (7) Documentary evidence demonstrating that all fees due the Department of Sanitation for use of Department disposal facilities and/or for Department disposal services from the applicant, the property owner, and any other person in control of having or having an interest in the transfer station, have been paid or otherwise satisified;
 
@@ -1721,9 +1721,9 @@ No person or public agency other than the Department of Sanitation may conduct, 
 
 (c) Equipment and personnel shall be provided for the safe and sanitary receipt, tipping, sorting, processing, compaction and storage of non-putrescible solid waste at the transfer station. Sufficient standby equipment shall be provided to ensure that no storage problem or public nuisance or condition hazardous to public health or safety is created during scheduled or unscheduled equipment maintenance, or equipment breakdown. All indoor transfer station solid waste receipt, tipping, sorting, processing, compaction and storage areas shall include appropriate fire detection and protection equipment and all outdoor transfer station solid waste receipt, tipping, sorting, processing, compaction and storage areas shall include appropriate functioning fire protection equipment and aisle space.
 
-(d) The transfer station shall comply with the applicable performance standards of the Zoning Resolution of the City of New York and the applicable provisions of the New York City Health Code, including but not limited to Articles 135 and 141.
+(d) The transfer station shall comply with the applicable performance standards of the Zoning Resolution of the City of New York and the applicable provisions of the New York City Health Code, including but not limited to 24 RCNY Health Code Articles 135 and 141.
 
-(e) A system for the sanitary disposal of sewage and waste water shall be functioning at the transfer station in accordance with the provisions of Articles 143 and 145 of the New York City Health Code and all applicable laws and rules governing the discharge of sewage and waste water.
+(e) A system for the sanitary disposal of sewage and waste water shall be functioning at the transfer station in accordance with the provisions of 24 RCNY Health Code Articles 143 and 145 and all applicable laws and rules governing the discharge of sewage and waste water.
 
 (f) Cross connection control shall be in place to ensure that waste water does not mix with the drinking water at the transfer station.
 
@@ -1879,9 +1879,9 @@ No person or public agency other than the Department of Sanitation may conduct, 
 
    (2) a written statement by a registered architect or licensed professional engineer certifying that:
 
-      (i) As designed, the transfer station is capable of complying with the applicable performance standards of the Zoning Resolution of the City of New York and the applicable provisions of the New York City Health Code, including but not limited to Articles 135 and 141;
+      (i) As designed, the transfer station is capable of complying with the applicable performance standards of the Zoning Resolution of the City of New York and the applicable provisions of the New York City Health Code, including but not limited to 24 RCNY Health Code Articles 135 and 141;
 
-      (ii) A system for the sanitary disposal of sewage and waste water has been installed at the transfer station in accordance with the provisions of Articles 143 and 145 of the New York City Health Code and all applicable laws and rules governing the discharge of sewage and waste water;
+      (ii) A system for the sanitary disposal of sewage and waste water has been installed at the transfer station in accordance with the provisions of 24 RCNY Health Code Articles 143 and 145 and all applicable laws and rules governing the discharge of sewage and waste water;
 
       (iii) The transfer station is capable of complying with all the requirements of 16 RCNY § 4-08;
 
@@ -1903,7 +1903,7 @@ No person or public agency other than the Department of Sanitation may conduct, 
 
    (5) A certification from a title insurance corporation, as such corporation is defined in § 6401 of the Insurance Law, or from a duly authorized agent thereof, establishing the ownership of the property upon which the transfer station is sited or proposed to be sited;
 
-   (6) Documentary evidence demonstrating that all penalties, including those of the Environmental Control Board, imposed upon the applicant, the property owner, and any other person in control of or having an interest in the transfer station operation, for violations of Article 157 of the New York City Health Code, or Title sixteen, Title seventeen, Chapter one of Title sixteen-A, Chapter one of Title twenty-six and Title twenty-seven of the Administrative Code of the City of New York, or rules promulgated thereunder, that relate to the ownership or operation of a non-putrescible solid waste transfer station, putrescible solid waste transfer station, dump or fill material operation, have been paid or otherwise satisfied;
+   (6) Documentary evidence demonstrating that all penalties, including those of the Environmental Control Board, imposed upon the applicant, the property owner, and any other person in control of or having an interest in the transfer station operation, for violations of 24 RCNY Health Code Article 157, or Title sixteen, Title seventeen, Chapter one of Title sixteen-A, Chapter one of Title twenty-six and Title twenty-seven of the Administrative Code of the City of New York, or rules promulgated thereunder, that relate to the ownership or operation of a non-putrescible solid waste transfer station, putrescible solid waste transfer station, dump or fill material operation, have been paid or otherwise satisfied;
 
    (7) Documentary evidence demonstrating that all fees due the Department of Sanitation for use of Department disposal facilities and/or for Department disposal services from the applicant, the property owner, and any other person in control of having or having an interest in the transfer station, have been paid or otherwise satisified;
 
@@ -1951,9 +1951,9 @@ No person or public agency other than the Department of Sanitation may conduct, 
 
 (c) Equipment and personnel shall be provided for the safe and sanitary receipt, tipping, sorting, processing, compaction and storage of fill material at the transfer station. Sufficient standby equipment shall be provided to ensure that no storage problem or public nuisance or condition hazardous to public health or safety is created during scheduled or unscheduled equipment maintenance, or equipment breakdown. All transfer station solid waste receipt, tipping, sorting, processing, compaction and storage areas shall include appropriate functioning fire protection equipment and aisle space.
 
-(d) The transfer station shall comply with the appliable performance standards of the Zoning Resolution of the City of New York and the applicable provisions of the New York City Health Code, including but not limited to Articles 135 and 141.
+(d) The transfer station shall comply with the appliable performance standards of the Zoning Resolution of the City of New York and the applicable provisions of the New York City Health Code, including but not limited to 24 RCNY Health Code Articles 135 and 141.
 
-(e) A system for the sanitary disposal of sewage and waste water shall be functioning at the transfer station in accordance with the provisions of Articles 143 and 145 of the New York City Health Code and all applicable laws and rules governing the discharge of sewage and waste water.
+(e) A system for the sanitary disposal of sewage and waste water shall be functioning at the transfer station in accordance with the provisions of 24 RCNY Health Code Articles 143 and 145 and all applicable laws and rules governing the discharge of sewage and waste water.
 
 (f) Cross connection control shall be in place to ensure that waste water does not mix with the drinking water at the transfer station.
 
@@ -2152,7 +2152,7 @@ Solid waste. "Solid waste" shall mean all putrescible and non-putrescible materi
 
       (i) domestic sewage;
 
-      (ii) any mixture of domestic sewage and other wastes that passes through a sewer system to a publicly owned treatment works for treatment, except any material that is introduced into such system in order to avoid the provisions of this Rule, Article 157 of the New York City Health Code, Title sixteen of the Administrative Code of the City of New York, or of state regulations promulgated to regulate solid waste management facilities; (iii) industrial wastewater discharges that are actual point source discharges subject to permits under Article seventeen of the Environmental Conservation Law; provided that industrial wastewaters while they are being collected, stored or treated before discharge and sludges that are generated by industrial wastewater treatment are solid wastes;
+      (ii) any mixture of domestic sewage and other wastes that passes through a sewer system to a publicly owned treatment works for treatment, except any material that is introduced into such system in order to avoid the provisions of this Rule, 24 RCNY Health Code Article 157, Title sixteen of the Administrative Code of the City of New York, or of state regulations promulgated to regulate solid waste management facilities; (iii) industrial wastewater discharges that are actual point source discharges subject to permits under Article seventeen of the Environmental Conservation Law; provided that industrial wastewaters while they are being collected, stored or treated before discharge and sludges that are generated by industrial wastewater treatment are solid wastes;
 
       (iv) irrigation return flows;
 
@@ -2226,7 +2226,7 @@ Every person who owns, operates, maintains or otherwise controls a putrescible s
 
    (2) A certification from a title insurance corporation, as such corporation is defined in § 6401 of the Insurance Law, or from a duly authorized agent thereof, establishing the ownership of the property upon which the putrescible solid waste transfer station is sited or proposed to be sited;
 
-   (3) Documentary evidence as may be appropriate to show that all penalties, including those of the Environmental Control Board, imposed upon the applicant, the property owner, and any other person in control of or having an interest in the putrescible solid waste transfer station operation, for violations of Article 157 of the New York City Health Code, or Title sixteen, Title seventeen, Chapter one of Title sixteen-A, Chapter one of Title twenty-six and Title twenty-seven of the Administrative Code of the City of New York, or rules promulgated thereunder, that relate to the ownership or operation of a putrescible solid waste transfer station, non-putrescible solid waste transfer station, dump or fill material operation, have been paid or otherwise satisfied;
+   (3) Documentary evidence as may be appropriate to show that all penalties, including those of the Environmental Control Board, imposed upon the applicant, the property owner, and any other person in control of or having an interest in the putrescible solid waste transfer station operation, for violations of 24 RCNY Health Code Article 157, or Title sixteen, Title seventeen, Chapter one of Title sixteen-A, Chapter one of Title twenty-six and Title twenty-seven of the Administrative Code of the City of New York, or rules promulgated thereunder, that relate to the ownership or operation of a putrescible solid waste transfer station, non-putrescible solid waste transfer station, dump or fill material operation, have been paid or otherwise satisfied;
 
    (4) Proof of workers' compensation coverage, or that the applicant is exempt from Workers' Compensation Law § 57, and proof of disability benefits coverage, or that the applicant is exempt from Workers' Compensation Law § 220, Subdivision 8 (disability benefits law);
 
@@ -2258,9 +2258,9 @@ Every person who owns, operates, maintains or otherwise controls a putrescible s
 
       (ii) include a copy of the partnership papers, certified by the County Clerk. If the applicant is required to file a certificate pursuant to § 130 of the General Business Law, a certified copy of such certificate shall be submitted to the Department. The applicant shall also submit the names and addresses of all persons or entities, other than a financial institution licensed to do business in the State of New York, to which the applicant is indebted in an amount equal to or greater than three thousand dollars ($3,000). The Permittee shall have the continuing duty to inform the Department of Sanitation of any changes in the principals of the business entity owning or operating the putrescible solid waste transfer station. For purposes of this subparagraph, "principal" includes, but is not limited to, any director, officer (for example, president, vice-president, secretary, treasurer, board chairman, chief executive officer) or partner of a business entity, and shall include any shareholder (including another business entity) who owns ten percent or more of any class of issued company stock;
 
-   (14) Written confirmation of accessibility to an alternative site holding a permit under this Rule or Article 157 of the Health Code and capable of receiving and processing putrescible solid waste as required by subsection (d) of 16 RCNY § 4-17. Such confirmation shall be signed by the operator of the alternative site and shall be updated or reconfirmed as necessary.
+   (14) Written confirmation of accessibility to an alternative site holding a permit under this Rule or 24 RCNY Health Code Article 157 and capable of receiving and processing putrescible solid waste as required by subsection (d) of 16 RCNY § 4-17. Such confirmation shall be signed by the operator of the alternative site and shall be updated or reconfirmed as necessary.
 
-(c) Any permit issued to a putrescible solid waste transfer station by the Commissioner of the New York City Department of Health pursuant to Article 157 of the New York City Health Code prior to the effective date of this Rule shall remain in full force and effect on and after such date, unless suspended or revoked by the Commissioner of Health prior to such date, and shall, on and after the effective date of this subchapter, be deemed to constitute a permit issued by the Department of Sanitation, provided that the holder of such permit files an application for a new permit with the Sanitation Commissioner within thirty days after the effective date of this subchapter. On and after the effective date of this subchapter, the Sanitation Commissioner may suspend or revoke such permit pursuant to law, issue a new permit or deny the application for a new permit. If the holder of such permit fails to file an application for a new permit with the Sanitation Commissioner within thirty days after the effective date of this subchapter, such permit issued by the Health Commissioner shall be null and void and be of no further effect. The fee for any putrescible solid waste transfer station permit issued by the Sanitation Commissioner pursuant to § 16-130 of the Administrative Code of the City of New York to a person who holds a permit issued by the Health Commissioner pursuant to Article 157 of the New York City Health Code shall be reduced by an amount which is equal to the permit fee paid to the Department of Health prorated to the unexpired portion of the license term.
+(c) Any permit issued to a putrescible solid waste transfer station by the Commissioner of the New York City Department of Health pursuant to 24 RCNY Health Code Article 157 prior to the effective date of this Rule shall remain in full force and effect on and after such date, unless suspended or revoked by the Commissioner of Health prior to such date, and shall, on and after the effective date of this subchapter, be deemed to constitute a permit issued by the Department of Sanitation, provided that the holder of such permit files an application for a new permit with the Sanitation Commissioner within thirty days after the effective date of this subchapter. On and after the effective date of this subchapter, the Sanitation Commissioner may suspend or revoke such permit pursuant to law, issue a new permit or deny the application for a new permit. If the holder of such permit fails to file an application for a new permit with the Sanitation Commissioner within thirty days after the effective date of this subchapter, such permit issued by the Health Commissioner shall be null and void and be of no further effect. The fee for any putrescible solid waste transfer station permit issued by the Sanitation Commissioner pursuant to § 16-130 of the Administrative Code of the City of New York to a person who holds a permit issued by the Health Commissioner pursuant to 24 RCNY Health Code Article 157 shall be reduced by an amount which is equal to the permit fee paid to the Department of Health prorated to the unexpired portion of the license term.
 
 (d) Any initial application for a putrescible solid waste transfer station permit or renewal thereof shall include all documentation required pursuant to this section in one single package, regardless of whether any required documentation has previously been submitted to the Department of Sanitation. This package shall constitute the putrescible solid waste transfer station permit application. If the application is incomplete, the application shall be returned to the applicant and the application shall be deemed withdrawn.
 
@@ -2318,7 +2318,7 @@ Every person who owns, operates, maintains or otherwise controls a putrescible s
 
 (b) Ventilation, Dust and Odor Control.
 
-   (1) Ventilation shall be provided in such structures in adequate capacity and proper location for ensuring compliance with § 135.07 of the New York City Health Code and all applicable laws and rules, including the Zoning Resolution of the City of New York. Exhaust air shall be vented through air filters and/or dust collectors and other equipment necessary to remove particulate matter and malodorous by-products. Gasoline or diesel fuel shall not be used within the enclosed structure to power any equipment unless means are provided to safely vent the exhaust gases. All filters and equipment shall be maintained in proper working order.
+   (1) Ventilation shall be provided in such structures in adequate capacity and proper location for ensuring compliance with 24 RCNY Health Code § 135.07 and all applicable laws and rules, including the Zoning Resolution of the City of New York. Exhaust air shall be vented through air filters and/or dust collectors and other equipment necessary to remove particulate matter and malodorous by-products. Gasoline or diesel fuel shall not be used within the enclosed structure to power any equipment unless means are provided to safely vent the exhaust gases. All filters and equipment shall be maintained in proper working order.
 
    (2) Transfer station ventilation equipment shall be capable of maintaining negative air pressure, including during periods when the transfer station doors are open, that is sufficient to prevent the escape of malodorous air from the transfer station. Such ventilation equipment shall be capable of maintaining a minimum of six air changes per hour ("ach"). Transfer station ventilation equipment shall be capable of maintaining greater than six air changes per hour if necessary to maintain negative air pressure.
 
@@ -2336,9 +2336,9 @@ Every person who owns, operates, maintains or otherwise controls a putrescible s
 
 (d) Sufficient equipment shall be provided to handle the solid waste in a safe and sanitary manner.
 
-(e) A system for the sanitary disposal of sewage and waste water shall be installed in a putrescible solid waste transfer station in accordance with the provisions of Articles 143 and 145 of the New York City Health Code and all applicable laws and rules governing the discharge of waste and waste water, including those enforced by the New York City Department of Environmental Protection and the New York State Department of Environmental Conservation. Drinking water shall be provided in accordance with the provisions of Article 141 of the New York City Health Code. Putrescible solid waste transfer stations shall also be in compliance with applicable provisions of Article 135 of the New York City Health Code (pertaining to commercial premises). All putrescible solid waste transfer stations shall make provisions for cross connection control to ensure that waste water does not mix with the drinking water supply.
+(e) A system for the sanitary disposal of sewage and waste water shall be installed in a putrescible solid waste transfer station in accordance with the provisions of 24 RCNY Health Code Articles 143 and 145 and all applicable laws and rules governing the discharge of waste and waste water, including those enforced by the New York City Department of Environmental Protection and the New York State Department of Environmental Conservation. Drinking water shall be provided in accordance with the provisions of 24 RCNY Health Code Article 141. Putrescible solid waste transfer stations shall also be in compliance with applicable provisions of 24 RCNY Health Code Article 135 (pertaining to commercial premises). All putrescible solid waste transfer stations shall make provisions for cross connection control to ensure that waste water does not mix with the drinking water supply.
 
-(f) Pest control measures shall be specified and shall be adopted in the design of a putrescible solid waste transfer station pursuant to § 151 of the New York City Health Code.
+(f) Pest control measures shall be specified and shall be adopted in the design of a putrescible solid waste transfer station pursuant to 24 RCNY Health Code Article 151.
 
 (g) All solid waste transferred into and out of the putrescible solid waste transfer station shall be weighed, and measured by volume. Records shall be maintained of such weights and measurements for a period of three years and included in operational records required by subsection (f) of 16 RCNY § 4-17.
 
@@ -2854,7 +2854,7 @@ Solid waste. "Solid waste" shall mean all putrescible and non-putrescible materi
 
       (1) domestic sewage;
 
-      (2) any mixture of domestic sewage and other wastes that passes through a sewer system to a publicly owned treatment works for treatment, except any material that is introduced into such system in order to avoid the provisions of this subchapter, Article 157 of the New York City Health Code, Title 16 of the Administrative Code of the City of New York, or of State regulations promulgated to regulate solid waste management facilities;
+      (2) any mixture of domestic sewage and other wastes that passes through a sewer system to a publicly owned treatment works for treatment, except any material that is introduced into such system in order to avoid the provisions of this subchapter, 24 RCNY Health Code Article 157, Title 16 of the Administrative Code of the City of New York, or of State regulations promulgated to regulate solid waste management facilities;
 
       (3) industrial wastewater discharges that are actual point source discharges subject to permits under article seventeen of the environmental conservation law; provided that industrial wastewaters while they are being collected, stored or treated before discharge and sludges that are generated by industrial wastewater treatment are solid wastes;
 
@@ -3901,7 +3901,7 @@ Chapter 9: Tripartite General Orders
 *§ 9-01 Statement of Policy and Intent.* ::
 
 
-To improve the environment and to improve refuse containment and collection operations, the use of paper bags for containing uncompacted refuse and incinerator residue should be permitted; the use of plastic bags for containing uncompacted refuse should be permitted and the use of containers for containing compacted refuse should be permitted. Accordingly pursuant to Local Law 11 of the Laws of 1971 and to § 13-1.11 of the Health Code, the Department of Sanitation and the Department of Housing Preservation and Development, and the Department of Health hereby approve the specifications set forth in 16 RCNY § 9-02 for paper bags for containing uncompacted refuse and incinerator residue; hereby approve the specifications set forth in 16 RCNY § 9-03 for plastic bags for containing uncompacted refuse; and hereby approve the specifications set forth in 16 RCNY § 9-04 for containers for containing compacted refuse.
+To improve the environment and to improve refuse containment and collection operations, the use of paper bags for containing uncompacted refuse and incinerator residue should be permitted; the use of plastic bags for containing uncompacted refuse should be permitted and the use of containers for containing compacted refuse should be permitted. Accordingly pursuant to Local Law 11 of the Laws of 1971 and to 24 RCNY Health Code § 13-1.11, the Department of Sanitation and the Department of Housing Preservation and Development, and the Department of Health hereby approve the specifications set forth in 16 RCNY § 9-02 for paper bags for containing uncompacted refuse and incinerator residue; hereby approve the specifications set forth in 16 RCNY § 9-03 for plastic bags for containing uncompacted refuse; and hereby approve the specifications set forth in 16 RCNY § 9-04 for containers for containing compacted refuse.
 
 
 
@@ -4528,6 +4528,51 @@ All notices required by these Rules shall be sent by certified, return receipt m
 
 
 
+Chapter 13: Cessation of Operation and Removal and Sealing of Refuse Burning Equipment
+--------------------------------------------------
+
+
+
+*§ 13-01 Cessation of Operation and Removal and Sealing of Refuse Burning Equip- ment.* ::
+
+
+(a) Prohibition.
+
+   (1) Pursuant to Local Law 39 of 1989, effective June 28, 1993, all owners of refuse burning equipment shall cease the operation of and remove and seal such refuse burning equipment.
+
+   (2) Compliance with prohibition. All such owners shall comply with the prohibition set forth in subdivision (a)(1) by either removal of all auxiliary burners and sealing of all doors to refuse burning equipment, or by conversion of the charging chute for such refuse burning equipment to a refuse chute in accordance with all applicable Department of Buildings laws and rules. For the purposes of this paragraph "sealing" means the removal of incinerator grates and compliance with Subdivision (e) of 1 RCNY § 24-01 of the Rules of Department of Buildings of the City of New York governing fireproofing.
+
+   (3) Unless otherwise required by law, no owner of refuse burning equipment shall be required to install a refuse compacting system upon the cessation of operation and the removal and sealing of such refuse burning equipment.
+
+(b) Request for change in Department of Sanitation collection service.
+
+   (1) If, as a result of the cessation of operation and removal and sealing of refuse burning equipment, the owner of a residential building which contains such equipment and currently receives Department of Sanitation collection service determines that a change from its existing form of collection service (e.g., curbside or containerized collection) is necessary, he/she shall notify the Department of Sanitation in writing no later than June 28, 1993. Such notice shall be addressed to the New York City Department of Sanitation, Office of Collection and Containerization, 125 Worth Street, Room 821A, New York, New York 10013, and shall provide:
+
+      (i) The type of collection service the building is presently receiving (i.e., curbside or containerized). Curbside collection service means placing garbage receptacles at the curb which are then manually serviced by Department of Sanitation personnel. Containerized collection service means placing garbage bags/refuse into a container(s) in an area accessible to a Department of Sanitation mechanized collection vehicle. The owner of the building currently receiving Department of Sanitation collection service shall state whether he/she requests:
+
+         (A) continuation of containerized collection service or eligibility to receive containerized service; or
+
+         (B) continuation of curbside collection service, all requests are subject to Department of Sanitation approval based on availability of collection equipment, facilities, necessary support resources and operational feasibility; and
+
+      (ii) Proof of legal authorization and occupancy for building. The owner of a building currently receiving Department of Sanitation collection shall submit a copy of the certificate of occupancy for such building, or, if such building is not legally required to operate pursuant to a certificate of occupancy, a notarized statement from the building owner stating the number of stories the building contains and the number of families authorized by law to occupy the building.
+
+   (2) Upon the Department of Sanitation's receipt of the information set forth in subdivision (1) of this section, a Department of Sanitation representative shall visit the subject residential building and determine whether the request for change in collection service should be granted.
+
+   (3) Owners of commercial incinerators which cease to operate and are removed and sealed are required by law to arrange with their private carter for collection of the solid waste which they generate.
+
+(c) Department of Buildings requiremeents for renovation and alteration of refuse and/or chute rooms.
+
+   (1) If an owner of a building containing refuse burning equipment subject to cessation of operation and removal and sealing pursuant to Local Law 39 of 1989, renovates or alters the refuse and/or chute room, by, a method which includes, but is not limited to, the installation of a refuse chute or compactor, such owner shall comply with §§ 27-836, 27-837 and/or 27-875 of the Administrative Code of the City of New York and Department of Buildings Rules governing the construction and maintenance of refuse chutes and refuse rooms.
+
+   (2) Such owner shall obtain authorization from the borough office of the Department of Buildings in which his/her building is located in the form of the alteration application/permit, as required by Articles four, nine, ten and twelve of Subchapter one of Chapter one of Article twenty-seven of the Administrative Code of the City of New York.
+
+   (3) Such owner shall mail a copy of the approved alteration application/permit and a notarized statement that the owner has complied with all applicable rules and laws of the Department of Buildings to: Department of Environmental Protection, Records Control Unit, 59-17 Junction Boulevard, Elmhurst, New York 11373-5107.
+
+(d) Department of Environmental Protection requirements for notice of cessation and removal and sealing of refuse burning equipment. All owners of a building containing refuse burning equipment subject to cessation of operation and removal and sealing pursuant to Local Law 39 of 1989 shall notify the Department of Environmental Protection in writing of such cessation and removal and sealing in accordance with subdivision (f) of § 24-122 of the Administrative Code of the City of New York, and mail such notice to: John Penn, Department of Environmental Protection, Records Control Unit, 59-17 Junction Boulevard, Elmhurst, New York 11373-5107.
+
+
+
+
 Chapter 14: Street Events
 --------------------------------------------------
 
@@ -4675,51 +4720,6 @@ At least one week prior to the street event, the sponsor or his or her represent
 
 
 
-Chapter 13: Cessation of Operation and Removal and Sealing of Refuse Burning Equipment
---------------------------------------------------
-
-
-
-*§ 13-01 Cessation of Operation and Removal and Sealing of Refuse Burning Equip- ment.* ::
-
-
-(a) Prohibition.
-
-   (1) Pursuant to Local Law 39 of 1989, effective June 28, 1993, all owners of refuse burning equipment shall cease the operation of and remove and seal such refuse burning equipment.
-
-   (2) Compliance with prohibition. All such owners shall comply with the prohibition set forth in subdivision (a)(1) by either removal of all auxiliary burners and sealing of all doors to refuse burning equipment, or by conversion of the charging chute for such refuse burning equipment to a refuse chute in accordance with all applicable Department of Buildings laws and rules. For the purposes of this paragraph "sealing" means the removal of incinerator grates and compliance with Subdivision (e) of 1 RCNY § 24-01 of the Rules of Department of Buildings of the City of New York governing fireproofing.
-
-   (3) Unless otherwise required by law, no owner of refuse burning equipment shall be required to install a refuse compacting system upon the cessation of operation and the removal and sealing of such refuse burning equipment.
-
-(b) Request for change in Department of Sanitation collection service.
-
-   (1) If, as a result of the cessation of operation and removal and sealing of refuse burning equipment, the owner of a residential building which contains such equipment and currently receives Department of Sanitation collection service determines that a change from its existing form of collection service (e.g., curbside or containerized collection) is necessary, he/she shall notify the Department of Sanitation in writing no later than June 28, 1993. Such notice shall be addressed to the New York City Department of Sanitation, Office of Collection and Containerization, 125 Worth Street, Room 821A, New York, New York 10013, and shall provide:
-
-      (i) The type of collection service the building is presently receiving (i.e., curbside or containerized). Curbside collection service means placing garbage receptacles at the curb which are then manually serviced by Department of Sanitation personnel. Containerized collection service means placing garbage bags/refuse into a container(s) in an area accessible to a Department of Sanitation mechanized collection vehicle. The owner of the building currently receiving Department of Sanitation collection service shall state whether he/she requests:
-
-         (A) continuation of containerized collection service or eligibility to receive containerized service; or
-
-         (B) continuation of curbside collection service, all requests are subject to Department of Sanitation approval based on availability of collection equipment, facilities, necessary support resources and operational feasibility; and
-
-      (ii) Proof of legal authorization and occupancy for building. The owner of a building currently receiving Department of Sanitation collection shall submit a copy of the certificate of occupancy for such building, or, if such building is not legally required to operate pursuant to a certificate of occupancy, a notarized statement from the building owner stating the number of stories the building contains and the number of families authorized by law to occupy the building.
-
-   (2) Upon the Department of Sanitation's receipt of the information set forth in subdivision (1) of this section, a Department of Sanitation representative shall visit the subject residential building and determine whether the request for change in collection service should be granted.
-
-   (3) Owners of commercial incinerators which cease to operate and are removed and sealed are required by law to arrange with their private carter for collection of the solid waste which they generate.
-
-(c) Department of Buildings requiremeents for renovation and alteration of refuse and/or chute rooms.
-
-   (1) If an owner of a building containing refuse burning equipment subject to cessation of operation and removal and sealing pursuant to Local Law 39 of 1989, renovates or alters the refuse and/or chute room, by, a method which includes, but is not limited to, the installation of a refuse chute or compactor, such owner shall comply with §§ 27-836, 27-837 and/or 27-875 of the Administrative Code of the City of New York and Department of Buildings Rules governing the construction and maintenance of refuse chutes and refuse rooms.
-
-   (2) Such owner shall obtain authorization from the borough office of the Department of Buildings in which his/her building is located in the form of the alteration application/permit, as required by Articles four, nine, ten and twelve of Subchapter one of Chapter one of Article twenty-seven of the Administrative Code of the City of New York.
-
-   (3) Such owner shall mail a copy of the approved alteration application/permit and a notarized statement that the owner has complied with all applicable rules and laws of the Department of Buildings to: Department of Environmental Protection, Records Control Unit, 59-17 Junction Boulevard, Elmhurst, New York 11373-5107.
-
-(d) Department of Environmental Protection requirements for notice of cessation and removal and sealing of refuse burning equipment. All owners of a building containing refuse burning equipment subject to cessation of operation and removal and sealing pursuant to Local Law 39 of 1989 shall notify the Department of Environmental Protection in writing of such cessation and removal and sealing in accordance with subdivision (f) of § 24-122 of the Administrative Code of the City of New York, and mail such notice to: John Penn, Department of Environmental Protection, Records Control Unit, 59-17 Junction Boulevard, Elmhurst, New York 11373-5107.
-
-
-
-
 Chapter 15: Residential Enforcement Routing
 --------------------------------------------------
 
@@ -4830,137 +4830,6 @@ Unsolicited advertisement. "Unsolicited advertisement" shall mean an advertiseme
 
 
 Nothing in this chapter shall be construed to preclude an enforcement agent from issuing a notice of violation based on his or her own observations, or in any other way to limit the authority of any enforcement agent.
-
-
-
-
-Chapter 18: Publicly Accessible Collection Bins
---------------------------------------------------
-
-
-
-*§ 18-01 Definitions.* ::
-
-
-When used in this chapter:
-
-"Commissioner" means the Commissioner of Sanitation.
-
-"Department" means the Department of Sanitation.
-
-"ECB" means the Environmental Control Board.
-
-"Publicly accessible collection bin" means any outdoor container, other than any container placed by any government or governmental agency, or its contractors or licensees, that allows for any member of the public to deposit items into the container for the purpose of collection by the owner of such container.
-
-"Public property" means any city property, or property maintained by the city, or any public sidewalk or roadway.
-
-
-
-
-
-
-*§ 18-02 Placement of Publicly Accessible Collection Bins.* ::
-
-
-(a) No publicly accessible collection bin may be placed on any public property.
-
-(b) No publicly accessible collection bin may be placed on any private property without the written permission of the property owner or the property owner's designated agent.
-
-
-
-
-
-
-*§ 18-03 Registration Requirements.* ::
-
-
-(a) By April 1, 2015, all owners of publicly accessible collection bins that are placed on private property with written permission of the property owner or the property owner's designated agent must register with the Department. Registration forms may be obtained from the Department's website or by written request to:
-
-   New York City Department of Sanitation    Bureau of Recycling and Sustainability    44 Beaver Street, 6th Floor    New York, New York 10004    Attn: Collection Bin--Registration
-
-(b) The Registration must include:
-
-   (1) the name, address and telephone number of the owner. A post office box is not an acceptable address;
-
-   (2) the location of the owner's publicly accessible collection bin(s); and
-
-   (3) the type of material collected in the bin(s).
-
-(c) It is unlawful for the owner of any publicly accessible collection bin to fail to register with the Department.
-
-
-
-
-
-
-*§ 18-04 Maintenance Requirements.* ::
-
-
-(a) Each individual publicly accessible collection bin must prominently display on the front and on at least one other side of the bin the name, address and telephone number of the owner of the bin. This information must be printed in characters that are plainly visible. A post office box is not an acceptable address.
-
-(b) The owner of a publicly accessible collection bin and the owner of the private property where such bin is located must maintain the bin in a clean and neat condition.
-
-
-
-
-
-
-*§ 18-05 Annual Reporting.* ::
-
-
-(a) By August 1, 2015 and annually thereafter, each owner of any publicly accessible collection bin must submit a report to the commissioner identifying the weight of the material collected from July first of the year before the year the report is due and ending on June 30 of the year the report is due. Forms for completing the reports may be obtained from the Department's website or by written request to:
-
-   New York City Department of Sanitation    Bureau of Recycling and Sustainability    44 Beaver Street, 6th Floor    New York, New York 10004    Attn: Collection Bin – Annual Report
-
-(b) It is unlawful for the owner of any publicly accessible collection bin to submit a report containing false or misleading information or to fail to submit a report in accordance with this section.
-
-
-
-
-
-
-*§ 18-06 Redemption Procedures for Publicly Accessible Collection Bins Placed on Public Property.* ::
-
-
-(a) When the Department removes any publicly accessible collection bin placed on public property, as provided by § 10-169 of the Administrative Code, provided that the name and address of the bin owner are legibly located on the bin, the Commissioner will notify the owner of the bin by certified mail, return receipt requested, that the bin was removed by the Department. The notification will state that the owner has 30 days from the date the notification was issued by the Department to redeem the bin from the possession of the Department. The notification will also contain a brief description of the publicly accessible collection bin and the location from which it was removed, as well as the address of the office at which an application to redeem the publicly accessible collection bin may be made and a statement as to applicable charges, fees and penalties due.
-
-(b) Whenever the Department removes any publicly accessible collection bin, as provided by § 10-169 of the administrative code, the bin will not be released until the bin owner has:
-
-   (1) submitted proof of ownership to the Commissioner. Proof may include, but need not be limited to, a bill of sale or a picture of the publicly accessible collection bin;
-
-   (2) exhibited proof to the Commissioner that the ECB proceedings against the owner have been disposed of and that applicable penalties, if any, have been paid; and
-
-   (3) paid the storage charge and the removal charge, as specified in the notification set forth in subdivision (a), for each day or fraction thereof since the removal of the publicly accessible collection bin, unless the owner was found not liable for violating § 10-169 of the Administrative Code by the ECB. The storage charge is $20.00 for each of the first 3 days and $25.00 for each additional day. The removal fee is $280.00 per collection bin.
-
-
-
-
-
-
-*§ 18-07 Failure to Redeem Collection Bin.* ::
-
-
-(a) The Department will send any collection bin, including any contents, that is not redeemed and removed from the Department's possession within the applicable time provided by this chapter to a recycling facility or otherwise provide for its disposal.
-
-(b) If a bin owner has met some, but not all, of the requirements for redemption included in 16 RCNY § 18-06, the Department may send a written request to the owner asking him or her to remove the bin from the Department's possession. The owner will have 30 days from the issuance of the written request by the Department to collect the bin. If the owner does not remove the bin from the Department's possession within 30 days of the issuance of the request, the Department will send the bin, including any contents, to a recycling facility or otherwise provide for its disposal.
-
-
-
-
-
-
-*§ 18-08 Enforcement.* ::
-
-
-(a) It is a violation for any owner to place a publicly accessible collection bin on public property. Any such violation is punishable by a civil penalty recoverable in a proceeding before the ECB of $250.00 for the first offense and $500.00 for each subsequent offense within any 18-month period. For purposes of this section, each publicly accessible collection bin placed on public property will be deemed a separate violation.
-
-(b) It is a violation for any owner to attach or enclose by any means any publicly accessible collection bin to or on public property. Any such violation is punishable by a civil penalty recoverable in a proceeding before the ECB of $500.00 dollars for the first offense and $1,000.00 dollars for each subsequent offense within any 18-month period. For purposes of this section, each publicly accessible collection bin placed on public property will be deemed a separate violation.
-
-(c) It is a violation for any bin owner to fail to have his or her bin prominently display on the front and on at least one other side of the bin, the name, address and telephone number of the bin owner. Any such violation is punishable by a civil penalty recoverable in a proceeding before the ECB of $50.00 for the first offense and $100.00 for each subsequent offense within any 18-month period.
-
-(d) It is a violation for any bin owner, and/or the owner of the private property on which the bin is located, to fail to maintain the bin in a clean and neat condition. Any such violation is punishable by a civil penalty recoverable in a proceeding before the ECB of $50.00 for the first offense and $100.00 for each subsequent offense within any 18-month period.
-
-(e) It is a violation for any bin owner to fail to submit a registration or to submit an annual report containing false or misleading information or to fail to submit an annual report required by this chapter. Any such violation is punishable by a civil penalty recoverable in a proceeding before the ECB of $50.00 for the first offense and $100.00 for each subsequent offense within any 18-month period.
 
 
 
@@ -5094,6 +4963,137 @@ When used in this chapter:
 (c) It shall be a violation for any responsible party or its agent to dispose of an appliance as solid waste in the city unless arrangements have been made for the lawful recovery of refrigerants. Any such violation shall be punishable by a fine of five hundred dollars per violation.
 
 (d) The civil penalties prescribed in this subdivision shall be recoverable in a civil action brought in the name of the Commissioner or in a proceeding returnable before the Environmental Control Board.
+
+
+
+
+Chapter 18: Publicly Accessible Collection Bins
+--------------------------------------------------
+
+
+
+*§ 18-01 Definitions.* ::
+
+
+When used in this chapter:
+
+"Commissioner" means the Commissioner of Sanitation.
+
+"Department" means the Department of Sanitation.
+
+"ECB" means the Environmental Control Board.
+
+"Publicly accessible collection bin" means any outdoor container, other than any container placed by any government or governmental agency, or its contractors or licensees, that allows for any member of the public to deposit items into the container for the purpose of collection by the owner of such container.
+
+"Public property" means any city property, or property maintained by the city, or any public sidewalk or roadway.
+
+
+
+
+
+
+*§ 18-02 Placement of Publicly Accessible Collection Bins.* ::
+
+
+(a) No publicly accessible collection bin may be placed on any public property.
+
+(b) No publicly accessible collection bin may be placed on any private property without the written permission of the property owner or the property owner's designated agent.
+
+
+
+
+
+
+*§ 18-03 Registration Requirements.* ::
+
+
+(a) By April 1, 2015, all owners of publicly accessible collection bins that are placed on private property with written permission of the property owner or the property owner's designated agent must register with the Department. Registration forms may be obtained from the Department's website or by written request to:
+
+   New York City Department of Sanitation    Bureau of Recycling and Sustainability    44 Beaver Street, 6th Floor    New York, New York 10004    Attn: Collection Bin--Registration
+
+(b) The Registration must include:
+
+   (1) the name, address and telephone number of the owner. A post office box is not an acceptable address;
+
+   (2) the location of the owner's publicly accessible collection bin(s); and
+
+   (3) the type of material collected in the bin(s).
+
+(c) It is unlawful for the owner of any publicly accessible collection bin to fail to register with the Department.
+
+
+
+
+
+
+*§ 18-04 Maintenance Requirements.* ::
+
+
+(a) Each individual publicly accessible collection bin must prominently display on the front and on at least one other side of the bin the name, address and telephone number of the owner of the bin. This information must be printed in characters that are plainly visible. A post office box is not an acceptable address.
+
+(b) The owner of a publicly accessible collection bin and the owner of the private property where such bin is located must maintain the bin in a clean and neat condition.
+
+
+
+
+
+
+*§ 18-05 Annual Reporting.* ::
+
+
+(a) By August 1, 2015 and annually thereafter, each owner of any publicly accessible collection bin must submit a report to the commissioner identifying the weight of the material collected from July first of the year before the year the report is due and ending on June 30 of the year the report is due. Forms for completing the reports may be obtained from the Department's website or by written request to:
+
+   New York City Department of Sanitation    Bureau of Recycling and Sustainability    44 Beaver Street, 6th Floor    New York, New York 10004    Attn: Collection Bin – Annual Report
+
+(b) It is unlawful for the owner of any publicly accessible collection bin to submit a report containing false or misleading information or to fail to submit a report in accordance with this section.
+
+
+
+
+
+
+*§ 18-06 Redemption Procedures for Publicly Accessible Collection Bins Placed on Public Property.* ::
+
+
+(a) When the Department removes any publicly accessible collection bin placed on public property, as provided by § 10-169 of the Administrative Code, provided that the name and address of the bin owner are legibly located on the bin, the Commissioner will notify the owner of the bin by certified mail, return receipt requested, that the bin was removed by the Department. The notification will state that the owner has 30 days from the date the notification was issued by the Department to redeem the bin from the possession of the Department. The notification will also contain a brief description of the publicly accessible collection bin and the location from which it was removed, as well as the address of the office at which an application to redeem the publicly accessible collection bin may be made and a statement as to applicable charges, fees and penalties due.
+
+(b) Whenever the Department removes any publicly accessible collection bin, as provided by § 10-169 of the administrative code, the bin will not be released until the bin owner has:
+
+   (1) submitted proof of ownership to the Commissioner. Proof may include, but need not be limited to, a bill of sale or a picture of the publicly accessible collection bin;
+
+   (2) exhibited proof to the Commissioner that the ECB proceedings against the owner have been disposed of and that applicable penalties, if any, have been paid; and
+
+   (3) paid the storage charge and the removal charge, as specified in the notification set forth in subdivision (a), for each day or fraction thereof since the removal of the publicly accessible collection bin, unless the owner was found not liable for violating § 10-169 of the Administrative Code by the ECB. The storage charge is $20.00 for each of the first 3 days and $25.00 for each additional day. The removal fee is $280.00 per collection bin.
+
+
+
+
+
+
+*§ 18-07 Failure to Redeem Collection Bin.* ::
+
+
+(a) The Department will send any collection bin, including any contents, that is not redeemed and removed from the Department's possession within the applicable time provided by this chapter to a recycling facility or otherwise provide for its disposal.
+
+(b) If a bin owner has met some, but not all, of the requirements for redemption included in 16 RCNY § 18-06, the Department may send a written request to the owner asking him or her to remove the bin from the Department's possession. The owner will have 30 days from the issuance of the written request by the Department to collect the bin. If the owner does not remove the bin from the Department's possession within 30 days of the issuance of the request, the Department will send the bin, including any contents, to a recycling facility or otherwise provide for its disposal.
+
+
+
+
+
+
+*§ 18-08 Enforcement.* ::
+
+
+(a) It is a violation for any owner to place a publicly accessible collection bin on public property. Any such violation is punishable by a civil penalty recoverable in a proceeding before the ECB of $250.00 for the first offense and $500.00 for each subsequent offense within any 18-month period. For purposes of this section, each publicly accessible collection bin placed on public property will be deemed a separate violation.
+
+(b) It is a violation for any owner to attach or enclose by any means any publicly accessible collection bin to or on public property. Any such violation is punishable by a civil penalty recoverable in a proceeding before the ECB of $500.00 dollars for the first offense and $1,000.00 dollars for each subsequent offense within any 18-month period. For purposes of this section, each publicly accessible collection bin placed on public property will be deemed a separate violation.
+
+(c) It is a violation for any bin owner to fail to have his or her bin prominently display on the front and on at least one other side of the bin, the name, address and telephone number of the bin owner. Any such violation is punishable by a civil penalty recoverable in a proceeding before the ECB of $50.00 for the first offense and $100.00 for each subsequent offense within any 18-month period.
+
+(d) It is a violation for any bin owner, and/or the owner of the private property on which the bin is located, to fail to maintain the bin in a clean and neat condition. Any such violation is punishable by a civil penalty recoverable in a proceeding before the ECB of $50.00 for the first offense and $100.00 for each subsequent offense within any 18-month period.
+
+(e) It is a violation for any bin owner to fail to submit a registration or to submit an annual report containing false or misleading information or to fail to submit an annual report required by this chapter. Any such violation is punishable by a civil penalty recoverable in a proceeding before the ECB of $50.00 for the first offense and $100.00 for each subsequent offense within any 18-month period.
 
 
 

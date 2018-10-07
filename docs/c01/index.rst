@@ -563,7 +563,7 @@ The application filing procedure is as follows:
 
    (4) More than four (4) years after the expiration of the time to complete construction: Applications filed more than four (4) years after the expiration of time for pre-1961 use and bulk grants or transient parking waivers, where the time is specified only as a condition in the Board's resolution, may be filed on the SOC calendar as an amendment to modify such time period provided that the applicant requests a waiver under this paragraph in the application. Applications for an extension of time to complete construction for post-1961 variances or post-1961 special permits must be filed as a new variance or special permit on the BZ calendar.
 
-(d) Extensions of Time to Obtain a Certificate of Occupancy: All applications for extensions of time to obtain a certificate of occupancy pursuant to 2 RNCY § 1-07.1(a)(3) may be filed on the SOC calendar as follows:
+(d) Extensions of Time to Obtain a Certificate of Occupancy: All applications for extensions of time to obtain a certificate of occupancy pursuant to 2 RCNY § 1-07.1(a)(3) may be filed on the SOC calendar as follows:
 
    (1) Within one (1) year before or thirty (30) days after the expiration of the time to obtain a certificate of occupancy: All applications filed within one (1) year before or thirty (30) days after the expiration of the time to obtain a certificate of occupancy may be filed on the SOC calendar.
 

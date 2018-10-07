@@ -5862,667 +5862,6 @@ Chapter 10: Financial Corporations
 
 
 
-Chapter 12: Hotel Room Occupancy Tax
---------------------------------------------------
-
-
-
-*§ 12-01 Definitions.* ::
-
-
-Commissioner of Finance. The words "Commissioner of Finance" mean the Commissioner of Finance of the City of New York.
-
-Hotel. A "hotel" is a building or portion of a building that is regularly used and kept open as such for the lodging of guests. The term "hotel" includes an apartment hotel, a motel, boarding house, bed and breakfast, or club, whether or not meals are served. An "apartment hotel" is a building or portion of it wherein apartments are rented to guests for fixed periods of time, either furnished or unfurnished. The term "boarding house" includes rooming houses, furnished-room houses and lodging houses. The term "bed and breakfast" includes a dwelling place ordinarily occupied by a person as his or her own dwelling in which more than one room is regularly used and kept open by such person for the lodging of guests for consideration regardless of whether services such as meals, telephone or linen services are provided. The term "club" includes a residence club, as well as private clubs. To illustrate:
-
-Illustration (i): Individual A owns and lives in a three-bedroom house in New York City. Individual A rents one of the bedrooms to guests from time to time by listing the room with a bed and breakfast listing service. At no time during the year does A rent or offer to rent more than one room to guests. The rental of one room by A is not subject to tax.
-
-Illustration (ii): The facts are the same as in illustration (i) except that A lists two of the three bedrooms or one bedroom and the living room, in his apartment for rental to guests. A's rental of rooms in the apartment is subject to tax.
-
-The term "hotel" also includes a bungalow, which is a furnished living unit intended for single family occupancy that is regularly used and kept open for the lodging of guests for consideration, except that for occupancies during taxable quarters beginning on or before September 1, 2003, the rental of a bungalow for at least one week will not be subject to the tax provided: no maid, food, or other common hotel services such as entertainment or planned activities are provided. The furnishing of linen by the lessor with the rental of a bungalow without the services of changing the linen does not alter the nontaxable status of the rental charges for such periods. To illustrate:
-
-Illustration (iii): Individual B owns an apartment in New York City. Beginning on January 1, 2004, B begins to regularly rent or offer to rent the apartment, furnished, to guests on a transient basis. B's rental of the apartment to guests on a transient basis is subject to the tax regardless of whether the rentals are for periods longer than one week.
-
-The term "hotel" does not include the following:
-
-(1) A nursing home, rest home, convalescent home, maternity home for expectant mothers, residence or home for adults or mentally disabled persons which is registered with the Department of Social Services or Department of Mental Hygiene, whether publicly or privately owned and operated, which accepts as patients persons who require special care on account of age, illness, mental or physical condition or the like, and provides this special care either by nurses, orderlies or aides. To illustrate:
-
-Illustration (iv): A senior citizen's lodging facility which only furnishes hotel facilities and services and does not furnish services or special care provided by attendants, etc., is a hotel.
-
-Illustration (v): A maternity home or residence for expectant unwed mothers which is registered with the Department of Social Services and provides care and service for mothers to be. Such care and service includes maintaining a residence, social services, medical care, and arranging for delivery at a local hospital. This facility is not a hotel.
-
-(2) A summer camp for children which provides a program of instruction or training which the campers are required to pursue under the supervision of counselors is not a hotel. Where guest facilities are provided for parents or others the tax applies to such facilities.
-
-(3) A college dormitory or apartment belonging to a school, college, or university in which its students reside is not a hotel. Where facilities are provided for parents, alumni or others the tax applies to such facilities. A building or portion thereof will be irrebuttably presumed not to be regularly used and kept open for the lodging of guests if, during any four consecutive quarterly tax periods, or, beginning on and after September 1, 2004, during any twelve-month tax period, described in subsection a of 19 RCNY § 12-07, rooms, apartments or living units are rented to guests or occupants on fewer than three occasions or for not more than 14 days in the aggregate. For this purpose, the rentals of rooms in a single building or apartment will be aggregated and the rentals of apartments and living units will be aggregated. In addition, for this purpose, the rental of a room, apartment or living unit under a single contract for one or more consecutive days will be considered a single occasion. However, if a single contract provides for the rental of a room or apartment for non-consecutive days, each period of consecutive days will be considered a separate occasion. In addition, for this purpose, if a room, apartment or living unit is subleased or the right to occupy it is otherwise subcontracted away to another person, each separate sublease or subcontract of a room, apartment or living unit for a period of consecutive days will be considered a separate occasion. Furthermore, for this purpose, rentals to guests or occupants that qualify as permanent residents will not be included in the number of days or occasions of rentals.
-
-Illustration (iii): A owns a four-bedroom house in New York City. During the period September 1, 2004 through August 31, 2005, A rents three of the bedrooms as follows: one bedroom is rented for the entire twelve month period to individual B who does not sublease the room; one bedroom is rented for one week to individual C; one bedroom is rented for two days to individual D, three days to individual E and one day to individual F. The rental to individual B is not considered a rental occasion or included in determining the number of days of room rentals. A is considered to have rented rooms on four occasions. However, because the total number of days is less than 14, A is not considered to be operating a hotel.
-
-Illustration (iv): Individual A owns four apartments in New York City. During the period September 1, 2004 through August 31, 2005, A rents the apartments as follows: one apartment is rented for the entire 12-month period to individual B who does not sublease the apartment; another apartment is rented for one week to individual C; a third apartment is rented for two days to individual D, five days to individual E and four days to individual F. The rental to individual B is not considered a rental occasion or included in determining the number of days of room rentals. A is considered to have rented three of the apartments on four occasions. Because the total number of days of rentals of the three apartments is more than 14, A is considered to be operating a hotel with respect to the three apartments rented to C, D, E, and F. If the apartment rented to B were rented to B for only 190 days and was subsequently rented during the period to individual G for three days, that apartment would also be included as part of the hotel operation of A.
-
-Occupancy.
-
-(a) "Occupancy" is the use or possession, or the right to the use or possession, of any room or rooms in a hotel, or the right to the use or possession of the furnishings or to the services and accommodations accompanying the use and possession of the room or rooms. "Occupancy" includes the right to the use or possession as well as the exercise of that right; there is an "occupancy" of a room whether or not the person entitled to the use or possession of the room actually uses it or possesses it.
-
-(b) A room is deemed to be the subject of only one taxable occupancy at a given time. Where an occupant sublets or otherwise contracts away his right to the use or possession, the tax shall be collected and paid in accordance with the following rules:
-
-   (1) (i) For taxable periods beginning before June 1, 2002, if the original occupant is itself an operator, as in the case of a private club located in a hotel, and subleases the occupancy to another, the taxable occupancy shall be the occupancy by the sublessee. In such case, the original occupant shall collect the tax from the sublessee and pay it over to the Commissioner of Finance.
-
-      (ii) For taxable periods beginning on or after June 1, 2002, if the original occupant or any sublessee of the room is directly or indirectly related to the original hotel operator, the taxable occupancy will be the occupancy by the sublessee of such related person. For purposes of this subparagraph (ii) an occupant will be considered to be directly or indirectly related to the original hotel operator if:
-
-         (A) the original hotel operator owns directly or indirectly a five percent or greater interest in such occupant.
-
-         (B) such occupant owns directly or indirectly a five percent or greater interest in the original hotel operator.
-
-         (C) one or more persons own directly or indirectly five percent or greater interests both in such occupant and in the original hotel operator, or
-
-         (D) such occupant is an officer, director, manager (including a manager of a limited liability company), trustee, fiduciary or employee of the original hotel operator or an individual that is a member of the family of an individual original hotel operator.
-
-         (E) For purposes of this subparagraph a five percent or greater interest shall mean, in the case of a corporation, five percent or more of the voting power of all classes of stock or five percent or more of the total fair market value of all classes of stock, and, in the case of a partnership, association, trust or other entity, five percent or more of the capital, profits or beneficial interests in such entity.
-
-         (F) To illustrate:
-
-Illustration 1: In 2003, Z contracts for 100 rooms in a hotel at a rate of $100 per room per day for 190 consecutive days. Z subleases the rooms to its customers. Z is not a private club and is not related to the hotel operator within the meaning of this paragraph. The hotel operator is required to charge and collect the tax from Z for its occupancy of all 100 rooms for the entire 190-day period. Z is not a permanent resident with respect to any of the rooms. See 19 RCNY § 12-01 definition of a "permanent resident," paragraph (3). Z is not required to charge and collect the tax from its customers for the occupancy of any of the rooms that it subleases for the days that such rooms are sublet.
-
-Illustration 2: The facts are the same as in Illustration 1 except that Z is related to the hotel operator within the meaning of this paragraph. In this case, the taxable occupancy is the occupancy by the customers of Z and the hotel operator is required to charge and collect the tax from the customers of Z.
-
-   (2) (i) For taxable periods beginning before June 1, 2002, if the original occupant is not an operator, the occupant's occupancy is taxable whether or not the occupant has the actual use or possession of the room and no tax will be paid by or collected from a sublessee of the occupant.
-
-      (ii) For taxable periods beginning on or after June 1, 2002, except as provided in subparagraph (ii) of paragraph (1), the occupancy of the original occupant is taxable whether or not the original occupant has the actual use or possession of the room and no tax will be paid by the person having actual use or possession of the room. See subdivision (b)(ii) of the definition of "occupancy," supra, in this section for the application of the tax to the occupancy by a sublessee of an occupancy that is related to the hotel operator.
-
-(c) The tax is applicable to any occupancy on and after July 1, 1970, even if such occupancy is pursuant to a contract, lease, or other arrangement made prior thereto.
-
-Occupant. An "occupant" is any person who, for a consideration, uses, possesses, or has the right to use or possess any room or rooms in a hotel under any lease, concession, permit, right of access, license to use or other agreement, or otherwise.
-
-Operator.
-
-(1) An "operator" is any person operating a hotel in the City of New York, including, but not limited to, the owner or proprietor of such premises, lessee, sublessee, mortgagee in possession, licensee or any other person otherwise operating such hotel. For taxable periods beginning on or after June 1, 2002, a private club that, as an accommodation to its members, makes rooms available to such members in its own buildings is an "operator" within the meaning of the law.
-
-(2) For taxable periods beginning before June 1, 2002, any person who contracts away the use of a room or rooms in a hotel is an "operator." For example, a private club which, as an accommodation to its members, makes rooms available to such members either in its own buildings or in club rooms maintained in a hotel elsewhere, is an "operator" within the meaning of the law. For taxable periods beginning on or after June 1, 2002, any occupant who sublets or otherwise contracts away the right to use or possession of a room or rooms in a hotel is not an operator.
-
-Permanent resident.
-
-(1) A person is a "permanent resident" as of a given date if that person has occupied or has had the right to occupy a room or suite of rooms in a particular hotel for 180 consecutive days next preceding such date. (Prior to September 1, 1980, 90 days of occupancy qualified a person as a "permanent resident"). A person who enters into an agreement for occupancy for 180 consecutive days or more does not become a permanent resident under the law until that person has been an occupant for 180 consecutive days, and the operator is liable for the collection of the tax until such occupancy for 180 consecutive days has been completed. Where the tax has been collected by the operator for occupancy for less than 180 days and the occupant subsequently completes 180 consecutive days of occupancy, the operator may return such tax to the occupant. If the operator has paid such tax over to the Commissioner of Finance, the operator may, within one year from the date of the payment to the Commissioner of Finance, and provided the operator has returned such tax to the occupant, either take credit for the tax so paid on any subsequent return filed by the operator or file a claim for refund of such tax.
-
-(2) A person is not a permanent resident as of a given date unless that person has completed 180 days of consecutive occupancy in the same establishment immediately prior to that date. Thus, a person who has the right to use a room only on intermittent days of the week or of the month is not a permanent resident even though that person has had more than 180 days of occupancy in the aggregate. Similarly, a person who, after having been a permanent resident, surrenders his occupancy and then subsequently resumes its occupancy, is not a permanent resident under the later occupancy until that person completes 180 additional consecutive days of occupancy. Where a person transfers from one hotel to another, even though owned or operated by the same operator, that person is not a permanent resident of the latter establishment until that person has completed 180 consecutive days of occupancy therein. However, except as provided in subdivision (3) of this definition, a person who has completed 180 consecutive days of occupancy in different rooms of the same hotel is a permanent resident of that establishment. Where a permanent resident rents additional rooms on a temporary basis, that person is not considered a permanent resident with respect to such additional rooms unless such rooms are occupied for 180 or more consecutive days.
-
-(3) For purposes of the definition of permanent resident, days of consecutive occupancy shall not include any day that a person sublets or otherwise contracts away such person's occupancy of a room or rooms regardless of whether that person is an operator with respect to the subleasing of that room. If a person leases more than one room in a hotel that such person has sublet on some days, such person may not aggregate the days that it has not sublet any such room with the days that it has not sublet any other such room in order to qualify for permanent resident status. See illustration (vii). To illustrate:
-
-Illustration (i): A person occupies a certain room in a hotel for 57 days. On the 57th day that person moves to a different room in the same hotel, which that person occupies for an additional 130 days. This person is considered a permanent resident with respect to the occupancy of both rooms and that person is entitled to a refund of any tax paid with respect to the occupancy of the rooms.
-
-Illustration (ii): An airline corporation rents three rooms on an annual basis from a hotel. However, on occasion, when it requires additional rooms in the hotel for the use of its employees, it rents such additional rooms on a daily basis for a period less than 180 consecutive days. The hotel is required to charge and collect the tax from the airline corporation on the airline's occupancy of the additional rooms.
-
-Illustration (iii): B, an individual, resides in a hotel where that person has occupied a two-room suite for a period exceeding 180 consecutive days. B also rents a studio room for his own use in practicing piano. B has the exclusive use of this studio for a period of one hour per week. At other times, the room may or may not be rented to other persons. B's use of the studio room is subject to the tax.
-
-Illustration (iv): C, an individual, occupies a room in a hotel for a period of 180 days. He also rents two additional rooms for occupancy by his wife and his maid for a period of two weeks. The room occupied by his wife adjoins his room and the room occupied by his maid is on another floor of the hotel. The hotel operator is required to charge and collect the tax from C on the occupancy of the rooms occupied by C's maid and his wife.
-
-Illustration (v): D, an individual, occupies a room in a hotel for a period of more than 180 consecutive days. He rents an additional room in the same hotel for one day for the purpose of holding a party for his friends. The hotel is required to charge and collect the tax from D for the occupancy of the additional room.
-
-Illustration (vi): A corporation maintains a suite of rooms at a hotel on a permanent basis. During one week of the year, it holds a general sales meeting and for that purpose rents 75 additional rooms in the same hotel for the use of its employees. The hotel operator is required to charge and collect the tax from the corporation for the occupancy of the 75 additional rooms.
-
-Illustration (vii): Z, a tour company, contracts for 100 rooms in a hotel for 190 consecutive days. Z subleases 98 of the 100 rooms to its customers. Each of the 98 rooms is sublet for most of the 190-day period. However, there is no single day within the 190-day period on which all 98 rooms are sublet. Z uses the remaining two rooms to conduct its business. It does not sublease either of the two rooms for any period of time. Z becomes a permanent resident of the two rooms used to conduct its business when it completes 180 days of consecutive occupancy and is entitled to a refund of any tax paid with regard to the occupancy of these two rooms. Z does not become a permanent resident with respect to any of the 98 rooms that it subleases to customers even though at least one of the rooms is unoccupied for each of the 190 days.
-
-Person. The term "person" includes an individual, partnership, society, association, joint-stock company, corporation, estate, receiver, trustee, assignee, referee, or any other person acting in a fiduciary or representative capacity, whether appointed by a court or otherwise, and any combination of individuals or of the foregoing.
-
-Place of assembly. A "place of assembly" is an enclosed room or space in which 75 or more persons gather for religious, recreational, educational, political or social purposes, or for the consumption of food or drink, or for similar group activities, but excluding such spaces in dwelling units; or an outdoor space in which 200 or more persons gather for any of the above reasons. For purposes of this definition a room or space will be considered to be a place of assembly if either:
-
-(1) banquet or catering contracts indicate that at a particular function the expected attendance is 75 or more persons or
-
-(2) the room has been certified as a "place of assembly" by the Department of Buildings. To illustrate:
-
-Illustration (i) Hotel B has a ballroom, adjacent to which is a reception room and two small foyers. The four rooms, by use of folding doors, can be converted into one large space accommodating a maximum of 2500 persons. Under certain circumstances the ballroom may be rented for a function for 1000 persons, the reception room for 250 persons, and either one or both of the foyer rooms to groups of from 25 to 50 persons, by closing the folding doors and thus providing four separate units. Accordingly, the tax would not apply where the ballroom is rented for a function for 1000 persons, or the reception room for 250, or for either or both rooms where rented for 75 or more persons. However, the tax does apply where one or both of the foyer rooms (which are not "certified" as places of assembly) may be rented to groups of from 25 to 50 persons.
-
-Illustration (ii) Hotel B has a meeting room which has been certified as a "place of assembly" by the Department of Buildings. The rental of such room (regardless of the expected or actual attendance) shall be exempt from the tax.
-
-Rent.
-
-(1) "Rent" is the consideration received for occupancy, valued in money, whether received in money or otherwise, including all receipts, cash, credits, and property or services of any kind or nature, and also any amount for which credit is allowed by the operator to the occupant, without any deduction therefrom whatsoever.
-
-(2) The entire amount charged by the operator for the use or possession of the room, of its furnishings, and of the services and accommodations accompanying its use and possession, constitutes rent under the law. Such services include but are not limited to the use of furniture and furnishings, maid and porter service, towel and linen service, doorman, bellman, and elevator service. The total charge for such services is deemed to be rent whether included in a lump-sum charge for the room or separately stated. Services and accommodations not deemed to accompany the use or possession of the room are the following: Food and liquor, valet and laundry service, and transportation and theatre ticket service. Where the operator separately charges for such services on any evidence of sale, such charges are not deemed to constitute rent. However, where a lump-sum charge for a room includes one or more such accommodations or services, the lump sum charge is deemed to constitute rent, except that where the charge includes meals the tax shall be applicable as follows: 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - If the total charge includes:
-      - The portion of the total charges subject to tax is: 
-    * - Breakfast, Lunch, Dinner
-      - 50% 
-    * - Lunch, Dinner
-      - 60% 
-    * - Breakfast, Dinner
-      - 60% 
-    * - Breakfast, Lunch
-      - 70% 
-    * - Dinner
-      - 75% 
-    * - Lunch
-      - 85% 
-    * - Breakfast
-      - 85% 
-~
-
- 
-
-(3) Where the exclusive use of a room is secured by a person as an incident to the furnishing by the operator of food and/or drink to be served in such room, such use constitutes a taxable occupancy, and any separate charge for rent for such occupancy is subject to tax. If no separate charge for the room is made to such person, 20% of the total charge to such person for the food and/or drink shall be attributable to the use of such room and taxable as rent.
-
-To illustrate: In 1982, A secures from B, an operator of Hotel C, the exclusive use of the Blue Room in Hotel C, in accordance with an arrangement whereby B will furnish and serve A and his guests with food and/or drink in the Blue Room. The total charge to A for such food and/or drink is $150.00. No separate charge is made to A for the use of the Blue Room. Operator B is required to collect a tax of $1.50 from A.
-
-Where the exclusive use of a room is secured by a person as an incident to the furnishing by the operator of food and/or drink to the guests of such person, to be served in such room, and no separate charge is made for such use of the room, food and/or drink to such person, but a charge for the food and/or drink is made to the guests, 20% of the total charge to the guests for the food and/or drink shall be attributable to the use of such room by such person and taxable as rent. If the charge to the guests is less than a minimum amount guaranteed by such person, 20% of the guaranteed minimum shall be attributable to the use of such room by such person and taxable as rent.
-
-To illustrate: A secures from B, an operator of Hotel C, the exclusive use of the Blue Room in Hotel C, in accordance with an arrangement whereby the charge for the food and/or drink to be served in such room will be made directly to the guests and no separate charge will be made for the use of the Blue Room. The total sales realized by B are $90.00. B is required to collect a tax of $.50 from A. If A guaranteed B a minimum sales volume to his guests of $200.00 then B will be required to collect a tax of $2.00 from A.
-
-(4) The tax is not applicable to any rent which has been ascertained to be worthless. Where a tax has been paid upon rent which has subsequently been ascertained to be worthless, the operator may take credit for the tax so paid on any subsequent return filed by him within one year from the date of the payment of such tax, or he may file a claim for refund of such tax within one year from the date of payment thereof.
-
-(5) The tax is not applicable to rent which has been returned by an operator to an occupant. Where the operator has paid the tax on such rent to the Commissioner of Finance, he may take credit for the tax so paid on any subsequent return filed by him within one year from the date of the payment of such tax, or he may file a claim for refund of such tax within one year from the date of payment thereof.
-
-(6) A cash discount may not be deducted from rent. However, where a discount is unconditionally deducted by an occupant upon settlement of his bill and is allowed as a matter of established custom without regard to the due date of such bill, the amount of such discount is not deemed to be a part of the rent.
-
-(7) Complimentary accommodations. When a hotel furnishes complimentary accommodations for which there is no consideration no tax applies. To illustrate:
-
-Illustration (i) An operator of a hotel furnishes free of charge hotel room accommodations to governmental officials, friends or relatives of management, visiting hotel representatives, hotel employees and representatives of charitable and religious organizations. These complimentary hotel rooms are deemed to have been furnished gratuitously, and as such are not subject to the tax.
-
-Illustration (ii) An operator of a hotel furnishes complimentary rooms to persons who procure guests for the hotel, such as tour guides, travel representatives, teachers and chaperons in charge of student groups, or representatives of organizations at the time of the negotiations for future business for the hotel. The rooms furnished at such time are deemed to have been furnished in consideration of their efforts in bringing potential business to the hotel. Such occupancies are subject to the tax based upon the normal rental charge for the room.
-
-Illustration (iii) Association ABC holds its December convention at Hotel Y and receives five complimentary rooms for use by the association's officers and convention chairman for the duration of the convention. The complimentary rooms are not considered taxable.
-
-Room. Any portion of a hotel, whether used for dwelling, commercial or any other purpose, is a "room" under the law and these rules, except:
-
-(1) a bathroom or lavatory,
-
-(2) a place of assembly as defined in § 27-232 of the Administrative Code of the City of New York (See: 19 RCNY § 12-01 "place of assembly"),
-
-(3) a store, stand or counter to which access is had directly from public thoroughfares or street or mezzanine lobbies, and,
-
-(4) a lobby, public dining room or other public room when employed as such, provided, however, when such lobby, public dining room or other public room is used exclusively for a private purpose, the occupancy thereof is subject to tax (unless the room qualifies as a place of assembly). The term "room" shall include a kitchenette provided that it is a walk-in area, enclosed by walls, with one or more doorways, archways or other openings, it is supplied with a cooking appliance including but not limited to a range, microwave or convection oven, or hot plate, and it contains at least one item from each of two of the following three categories:
-
-   (i) a sink with running water, or dishwater;
-
-   (ii) a refrigerator;
-
-   (iii) a cabinet, counter top, or table.
-
-Example: A hotel suite contains a kitchenette with a microwave oven, refrigerator, sink, cabinets and a counter top.
-
-      (a) The kitchenette is a walk-in area with three walls and a wide opening on the fourth side. The kitchenette is a room.
-
-      (b) The above items are all set into a wall and there is no appurtenant walk-in area. The kitchenette is not a room.
-
-      (c) Same facts as in (a) except the microwave is not in the kitchenette but rather is outside the kitchenette. The kitchenette is a room.
-
-
-
-
-
-
-*§ 12-02 Imposition of the Tax.* ::
-
-
-(a) The law imposes a tax, measured by the rent per day, for every occupancy of a room or rooms in a hotel in the City of New York, commencing July 1, 1970, with certain exceptions set forth hereinafter.
-
-(b) On and after July 1, 1970 until August 31, 1980, the rates of tax were as follows:
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - If the rent per day for the room was:
-      - The tax was:   
-    * - Less than $10
-      - $  .25 per day
-    * - $10 or more, but less than $15
-      - $  .50 per day
-    * - $15 or more, but less than $20
-      - $  .75 per day
-    * - $20 or more
-      - $1.00 per day
-~
-
-
-
- 
-
-(c) on and after September 1, 1980, the rates of tax are as follows:
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - If the rent per day for the room is:
-      - The tax is: 
-    * - Less than $10
-      -  $0.00
-    * - $10 or more, but less than $20
-      - $  .50 per day
-    * - $20 or more, but less than $30
-      - $1.00 per day
-    * - $30 or more, but less than $40
-      - $1.50 per day
-    * - $40 or more
-      - $2.00 per day
-~
-
-
-
- 
-
-(d) Where a person occupies a room for less than a full day and pays less than the rent for a full day, the tax shall nevertheless be the same amount as would be due had such person occupied the room for a full day at the rent for a full day.
-
-(e) As used in the law and these regulations, the word "day" means any period of 24 consecutive hours, or the actual period of occupancy if less than 24 hours, due regard being had for the established check-out time and practices regarding the early check-in and late check-out of guests of the particular hotel. If the hotel does not impose an additional charge for early check-in or late check-out of guests, then the occupancy before or after the official check-in and check-out times is not taxable.
-
-To illustrate: A checks into Hotel B at 1:00 P.M. Monday afternoon and checks out at 6:00 P.M. Wednesday evening. The established check-out time at Hotel B is 12 noon. The period from 1:00 P.M. Monday to 12 noon Tuesday constitutes a day for purposes of the tax, as does the period from noon Tuesday to noon Wednesday. The period from 12 noon Wednesday to 6:00 P.M. Wednesday will constitute a day for purposes of the tax only if the hotel charges the guest for such period after the 12 noon established check-out time. Accordingly, if Hotel B imposes a charge for the late check-out A is deemed to have spent 3 days at Hotel B. However, if Hotel B does not impose any additional charge for late check-out then A is deemed to have spent 2 days at Hotel B.
-
-Where the rent is based on a term longer than one day, such as a weekly or monthly term, the rent per day is computed by dividing the total number of days of occupancy into the total charge for such occupancy.
-
-To illustrate: A occupies a hotel room during the month of September, 1982, at the rate of $750 per month. The rate per day is 1/30 × $750, or $25, and the tax is $1.00 per day.
-
-(f) Where the rent is for more than one room, including a suite of rooms, the daily rent for each room is determined by multiplying the daily rent for the group of rooms by a fraction, the numerator of which is the daily rent for the particular room, or a similar room, when such room is rented alone with similar bath facilities, and the denominator of which is the total of the daily rent for the individual rooms in the group of rooms, or similar rooms, when such rooms are rented alone with similar bath facilities.
-
-To illustrate: In 1982 A and his wife occupy a suite of hotel rooms for one day. The suite consists of a bedroom, a living room, and bathroom. The rent charged for the suite is $40 per day. When rented separately, the daily rents for the bedroom and living room are $20 and $30 respectively. The daily rent for the bedroom rented as part of the suite is 20/50 × $40, or $16; the daily rent for the living room is 30/50 × $40, or $24. Accordingly, the tax is $.50 for the bedroom and $1.00 for the living room. The bathroom is not considered a room, and is not subject to the tax.
-
-Where an entire rent is charged for more than one room, whether or not a suite, if such rooms are not otherwise rented separately, the daily rent per room is to be determined by dividing the entire rent by the number of rooms for which the charge is made. For example, if the entire charge for a suite of 3 rooms is $90 per day, the charge for each room is considered to be $30. A tax of $1.50 must be paid for each room, a total tax of $4.50 for the suite.
-
-(g) The tax is not imposed upon occupancy by a permanent resident as defined in § 12-01 "Permanent Resident" of these regulations.
-
-(h) The tax is not imposed upon occupancy by the federal or New York State governments or political subdivisions of the State. (See: § 12-03 of these regulations.)
-
-(i) The tax is not imposed upon occupancy by religious, charitable, and educational organizations, nor on rents received by such organizations, to the extent provided in § 12-03.
-
-
-
-
-
-
-*§ 12-03 Exemptions.* ::
-
-
-The following persons are exempt from the tax:
-
-(a) The State of New York, or any public corporation (including a public corporation created pursuant to agreement or compact with another state or the Dominion of Canada), improvement district or other political subdivision of the State; the United States of America, insofar as it is immune from taxation; the United Nations or other worldwide international organizations of which the United States of America is a member.
-
-(b) Any corporation, or association, or trust, or community chest, fund or foundation, organized and operated exclusively for religious, charitable, or educational purposes, or for the prevention of cruelty to children or animals, and no part of the net earnings of which inures to the benefit of any private shareholder or individual, and no substantial part of the activities of which is carrying on propaganda, or otherwise attempting to influence legislation; provided, however, that nothing in this subdivision (b) shall include an organization operated for the primary purpose of carrying on a trade or business for profit, whether or not all of its profits are payable to one or more organizations described in this subdivision (b).
-
-(c) Where any organization described in subdivision (b) above, carries on its activities in furtherance of any of the purposes for which it was organized, in premises in which, as part of said activities, it operates a hotel, occupancy of rooms in said premises and rents therefrom received by such organization are not subject to the tax. An organization claiming exemption under subdivisions (b) and (c) above must make application for such exemption to the Commissioner of Finance and is required to submit to the Commissioner of Finance such information as will enable the Commissioner to rule upon the applicant's status. The Commissioner, if satisfied that the applicant is entitled to the exemption, will issue a letter of exemption to the applicant. An applicant for exemption is required to submit an affidavit which shall set forth the following:
-
-   (1) The type of organization,
-
-   (2) The purposes for which it is organized,
-
-   (3) Its actual activities,
-
-   (4) The source and disposition of its income,
-
-   (5) Whether or not any of its income is credited to surplus or may inure to any private stockholder or individual, and
-
-   (6) Such other facts which may affect its right to exemption. The affidavit must be supplemented by a copy of the articles of incorporation, or articles of association, as the case may be, a copy of the by-laws of the organization, a financial statement showing its assets and liabilities for the most recent year, and a photostatic copy of the letter, if any, from the United States Treasury Department granting the organization exemption from Federal income taxation. An organization which is an occupant of a hotel room and claims exemption from tax on such occupancy must furnish a copy of the letter of exemption to the hotel operator when claiming such exemption. Where the occupancy is by an agent, representative, or employee of the organization, a certificate, on the form prescribed by the Commissioner, certifying that the occupancy is solely for official purposes and that the rent has or will be paid by the organization, must be furnished to the operator.
-
-
-
-
-
-
-*§ 12-04 Government Agencies, Diplomatic and Consular Representatives.* ::
-
-
-(a) Occupancy of rooms by the Federal government or by the State or City of New York or by an agency of such governments, is not subject to the tax. Employees and representatives of such governments and agencies, who occupy rooms solely for official purposes, are not required to pay the tax, providing that they furnish to the operator certificates on the form prescribed by the Commissioner, certifying that the rent has been or will be paid by the governmental agency concerned.
-
-(b) Ambassadors, ministers and other diplomatic representatives of foreign governments properly accredited to the United States, are exempt from tax upon their occupancy of rooms. Such exemption does not apply to consular officers or to officers of foreign governments other than those hereinabove specified, unless such exemption arises from treaties or reciprocal agreements existing between such foreign governments and the United States. A person claiming exemption from the tax under this subdivision is required to apply in writing therefor to the Commissioner of Finance, submitting with his application a copy or other evidence of the appropriate treaty or reciprocal agreement between his government and the United States. If the request for exemption is approved, a letter of exemption will be issued to the applicant, and a copy of such letter must be submitted to the operator whenever claim for exemption is made.
-
-
-
-
-
-
-*§ 12-05 Presumption and Burden of Proof.* ::
-
-
-It shall be presumed that all rents are subject to tax until the contrary is established, and the burden of proving that rent for occupancy is not taxable under the law shall be upon the operator or the occupant.
-
-
-
-
-
-
-*§ 12-06 Registration.* ::
-
-
-(a)  Every operator is required to file a certificate of registration in a form prescribed by the Commissioner of Finance. In the case of operators commencing business or opening new hotels the certificate is required to be filed with the Commissioner of Finance within three days after such commencement or opening. An operator of a hotel having 10 or more rooms or 10 or more apartments or living units offered for lodging of guests is deemed to have commenced business or opened a new hotel when such rooms are first offered to the public. In the case of a building or portion of a building having fewer than 10 rooms or fewer than 10 apartments or living units offered for lodging of guests, the operator will be considered to have commenced business or to have opened a hotel as of the first date that the rental of such rooms or living units exceeds either of the de minimis thresholds described in subsection a of § 12-01 of these rules (i.e., such rooms or units are rented on three or more occasions or for more than 14 days in the aggregate) during any four consecutive quarterly tax periods, or, beginning on and after March 1, 2005, during any twelve-month tax period. Within five days after such registration, the Commissioner of Finance shall issue, without charge, to each operator, a certificate of authority empowering such operator to collect the tax from the occupant, and, in addition, a certificate of authority for each additional hotel of such operator. Each certificate shall state the hotel to which it is applicable. Such certificate of authority must be prominently displayed by the operator in such manner that it may be seen and come to the notice of all occupants and persons seeking occupancy. Such certificates are not assignable or transferable and must be surrendered immediately to the Commissioner of Finance upon the cessation of business at the hotel named therein, or upon its sale or transfer, together with an affidavit setting forth the pertinent details of such cessation. An operator of fewer than 10 rooms or 10 apartments or living units, after having registered, is not deemed to have ceased business merely because the rental of rooms or living units falls below the de minimis thresholds set forth in the last paragraph of the definition of "hotel" contained in § 12-01 of these rules during a subsequent quarterly or annual period unless the operator has filed annual reports for each of the immediately preceding three annual periods showing no rooms available for rental to transients (i.e., guests other than permanent residents). If the business is continued at the same place, but there is a change in the form of the organization, such as from a single proprietorship to a partnership or corporation, the operator is required to return his certificate for cancellation, and the successor is required to file a new application for a certificate of authority.
-
-(b) Registration hereunder is separate and apart from registration under the Sales Tax, and the operator who is registered under the Sales Tax must also register under the Tax on Occupancy of Hotel Rooms.
-
-
-
-
-
-
-*§ 12-07 Filing of Returns and Payment of Tax.* ::
-
-
-(a)  Except as provided herein, every operator shall file with the Commissioner of Finance a return of occupancy and of rents, and of the taxes payable thereon, on the form prescribed by the Commissioner of Finance, for the quarterly periods ending on the last day of February, May, August, and November of each year. Notwithstanding the foregoing, with respect to tax periods beginning on and after the first day of September, 2004, (i) an operator of a hotel having fewer than 10 rooms may file the above return for each such hotel on an annual basis for each twelve-month period ending on the last day of February of each year, and (ii) an operator of fewer than 10 furnished apartments or living units may file the above return on an annual basis for each twelve-month period ending on the last day of February of each year covering all such apartments or living units. Such returns shall be filed within twenty days after the last day of each such period. For the period beginning September 1, 2004 and ending February 28, 2005, an operator of fewer than 10 apartments or living units or of a hotel having fewer than 10 rooms may file the above return for each such hotel or apartments or living units covering that period on or before March 21, 2005. An operator of fewer than 10 rooms or fewer than 10 apartments or living units, after having registered, is required to file a return for each subsequent quarterly or annual period thereafter regardless of whether the rental of rooms or living units falls below the de minimis thresholds set forth in the last paragraph of the definition of "hotel" contained in § 12-01 of these rules during a subsequent quarterly or annual period unless the operator has filed annual reports for each of the immediately preceding three annual periods showing no rooms available for rental to transients (i.e., guests other than permanent residents). An operator who ceased business must file a final return within twenty days from the date such business ceased, covering the period or portion of the period during which he conducted such business subsequent to the period for which a return was last required to be filed. If the business was sold, the purchaser thereof must file a return for the period from the date of purchase to the end of the period of which a return is required to be filed. An operator of fewer than 10 rooms or 10 apartments or living units, after having registered, is not deemed to have ceased business merely because the rental of rooms or living units falls below the de minimis thresholds set forth in the last paragraph of the definition of "hotel" contained in § 12-01 of these rules during a subsequent quarterly or annual period unless the operator has filed annual reports for each of the immediately preceding three annual periods showing no rooms available for rental to transients (i.e., guests other than permanent residents). Whenever an operator is not required to charge or collect the tax, the Commissioner of Finance may, upon application in writing made by such operator, waive the requirement for the filing of returns. All returns must be filed with the Bureau of Tax Operations of the Department of Finance at the address designated on the return form. The return of an individual must be signed by such individual unless he is absent from the City, ill or otherwise incapacitated, in which event the return may be signed by his duly authorized representative or agent. The return of a corporation must be signed by an officer thereof; the return of a partnership must be signed by a general partner thereof. The Commissioner of Finance may, for good cause, extend the time for filing any return for a period not exceeding 30 days.
-
-(b) At the time of filing a return, each operator shall pay to the Commissioner of Finance the tax due, as well as all other monies collected by the operator acting or purporting to act under the law even though it is determined that the tax collected was invalidly imposed. The tax for the period for which a return is required to be filed shall be due from the operator and payable to the Commissioner of Finance on the date prescribed for the filing of such return for such period, without regard to whether a return is filed or whether the return which is filed correctly shows the amount of rent and the tax due thereon. Payment of the tax shall be made in cash, or by check, money order or draft drawn to the order of the City Collector. Cash payments must be made only to cashiers designated for that purpose. Under no circumstances should cash be sent by mail. Postage stamps will not be accepted in payment of tax.
-
-(c) The Commissioner of Finance may require any operator within the City to file an information return, on a form prescribed by the Commissioner of Finance, at such time and containing such information as the Commissioner of Finance deems necessary for the proper administration of the law.
-
-(d) Electronic filing and payment. Pursuant to 19 RCNY § 17-03, the Commissioner may authorize the electronic filing of returns and reports and the electronic payment of tax required by this chapter.
-
-
-
-
-
-
-*§ 12-08 Liability for Charging, Collecting and Paying the Tax.* ::
-
-
-(a) The law requires that upon every taxable occupancy, the operator shall charge and collect the tax from the occupant. The tax to be collected must be charged and stated separately from the rent and shown separately on any record thereof, at the time when the occupancy is contracted and charged for. The tax shall also be stated and separately charged upon every evidence of occupancy or any bill or statement of charge made for said occupancy issued or delivered by the operator. The tax shall be paid by the occupant to the operator as trustee for and on account of the City, and kept separate from all other funds in the possession of the operator and the operator shall be liable for the collection thereof and for the tax. The operator and any officer of any corporate operator shall be personally liable for the tax collected or required to be collected under the law. The operator shall have the same right in respect to collecting the tax from the occupant, or in respect to nonpayment of the tax by the occupant, as if the tax were a part of the rent for the occupancy payable at the time such tax shall become due and owing, including all rights of eviction, dispossession, repossession and enforcement of any innkeeper's lien that he may have in the event of nonpayment of rent by the occupant; provided, however, that the Commissioner of Finance shall be joined as a party in any action or proceeding brought by the operator to collect or enforce collection of the tax.
-
-(b) No operator may absorb the tax required to be collected, or tell the occupant that he will pay such tax, nor may he advertise or hold out to the public in any manner, directly or indirectly, that the tax is not deemed to be an element in the rent. Any operator and any officer of a corporate operator or partner in a partnership which is an operator who willfully fails to charge the tax separately from the rent, or willfully fails to state the tax separately from the rent, or willfully fails to or refuses to collect the tax from the occupant, or refers or causes reference to be made to the tax in any invoice, placard or advertisement in a form other than that required by law, is guilty of a misdemeanor. (See: § 12-11 for penalties.)
-
-(c) Where the occupant has failed to pay and the operator has failed to collect the tax imposed by law, then, in addition to all other rights, obligations and remedies, such tax shall be payable by the occupant directly to the Commissioner of Finance, and it shall be the duty of the occupant to file a return thereof with the Commissioner of Finance and to pay the tax so imposed to the Commissioner of Finance within 15 days after such tax was due.
-
-(d) All monies collected by the operator or charged by him while acting, or purporting to act, under the law must be paid to the City, even though it is judicially determined that the tax was invalidly imposed.
-
-
-
-
-
-
-*§ 12-09 Surety Bond.* ::
-
-
-(a) Where the Commissioner of Finance in his discretion deems it necessary to protect revenues to be obtained under the law, he may require any operator required to collect the tax to file with him a bond, issued by a surety company authorized to transact business in New York State and approved by the Superintendent of Insurance of New York as to solvency and responsibility, in such amount as the Commissioner of Finance may fix, to secure the payment of any tax and/or penalties and interest due or which may become due from such operator. In the event that the Commissioner of Finance determines that an operator is to file such bond he shall give notice to such operator to that effect, specifying the amount of the bond required. The operator shall file such bond within five days after the giving of such notice, unless within such five days the operator shall request in writing a hearing before the Commissioner of Finance at which the necessity, propriety and amount of the bond shall be determined by the Commissioner of Finance. Such determination shall be final and shall be complied with within 15 days after the giving of notice thereof. In lieu of such bond, securities approved by the Commissioner of Finance, or cash in such amount as he may prescribe, may be deposited, and shall be kept in the custody of the Commissioner of Finance, who may at any time without notice to the depositor apply them to any tax and/or interest or penalties due, and for that purpose the securities may be sold by him at public or private sale without notice to the depositor thereof.
-
-(b) As an alternative to filing a surety bond or depositing securities, the Commissioner of Finance may require or permit an operator required to collect the tax to deposit all taxes which become collectible in any banking institution located in the City, the deposits in which are insured by any agency of the federal government. Such deposits shall be made into and kept in a separate account, in trust and payable to the Commissioner of Finance, until payment over to the Commissioner of Finance. Such account shall remain open, and deposits made therein, until a notice of cancellation is given by the Commissioner of Finance.
-
-
-
-
-
-
-*§ 12-10 Returns To Be Secret.* ::
-
-
-Except in accordance with judicial order or as otherwise provided by law, it is unlawful for the Commissioner of Finance or any officer or employee of the Department of Finance to divulge or make known in any manner any information relating to the business of a taxpayer contained in any return required under the law. The officers charged with the custody of such returns are not required to produce any of them or evidence of anything contained in them in any action or proceeding in any court, except on behalf of the Commissioner of Finance in an action or proceeding under the provisions of the law, or on behalf of any party to any action or proceeding under the provisions of the law when the returns or facts shown thereby are directly involved in such action or proceeding, in either of which events the court may require the production of and may admit in evidence so much of the returns or of the facts shown thereby as are pertinent to the action or proceeding and no more. A taxpayer may obtain a certified copy of any return filed in connection with his tax upon application in writing to the Commissioner. Where a representative of a taxpayer applies for a certified copy of such return, he must file a power of attorney with the application. A certified copy of a taxpayer's return or of information contained therein or relating thereto may be delivered to the United States of America or any department thereof, the State of New York or any department thereof, any agency or any department of the City of New York provided the same is requested for official business. The Corporation Counsel or other legal representatives of the City or the District Attorney of any county within the City may be permitted to inspect returns for official business. Nothing herein shall be construed to prohibit the publication of statistics so classified as to prevent the identification of particular returns or items thereof.
-
-
-
-
-
-
-*§ 12-11 Interest.* ::
-
-
-If any amount of tax is not paid on or before the last day prescribed for payment (without regard to any extension of time granted for payment), interest on such amount at the rate prescribed by the law and the regulations of the Commissioner of Finance shall be paid for the period from such last date to the date of payment. In computing the amount of interest to be paid with respect to taxes which remain or become due on or after July 16, 1985, such interest shall be compounded daily. No interest shall be paid if the amount thereof is less than one dollar.
-
-
-
-
-
-
-*§ 12-12 Penalties.* ::
-
-
-(a) Civil penalties. Any person failing to file a return or to pay any tax due prior to February 24, 1983 within the time required by law shall be subject to a penalty of five percent of the amount due. If the Commissioner of Finance is satisfied that the delay was excusable he may remit all or any part of such penalty. With respect to returns or payments which become due on or after February 24, 1983, the following penalties apply:
-
-   (1) Failure to file return.
-
-      (i) In case of failure to file a return on or before the prescribed date (determined with regard to any extension of time for filing), unless it is shown that such failure is due to reasonable cause (see paragraph (5) of this subdivision) and not due to willful neglect, this is to be added to the amount required to be shown as tax on such return five percent (5%) of the amount of such tax for each month or fraction thereof during which such failure continues, not exceeding twenty-five percent (25%) in the aggregate.
-
-      (ii) With respect to returns required to be filed on or after July 16, 1985, in the case of a failure to file a tax return within 60 days of the date prescribed for filing of such return (determined with regard to any extension of time for filing), unless it is shown that such failure is due to reasonable cause and not due to willful neglect, the addition to tax under subparagraph (i) of this paragraph (1) shall not be less than the lesser of one hundred dollars ($100) or one hundred percent (100%) of the amount required to be shown as tax on such return.
-
-      (iii) For purposes of subparagraphs (i) and (ii), the amount of the tax required to be shown on the return shall be reduced by the amount of any part of the tax which is paid on or before the date prescribed for payment of the tax and by the amount of any credit against the tax which may be claimed on the return.
-
-   (2) Failure to pay tax shown on return. In case of failure to pay the amount shown as tax on a return to be filed on or before the prescribed date (determined with regard to any extension of time for payment), unless it is shown that such failure is due to reasonable cause (see: paragraph (5) of this subdivision (a)) and not due to willful neglect, there shall be added to the amount shown as tax on such return one-half of one percent (1/2%) of the amount of such tax for each month or fraction thereof during which such failure continues, not exceeding twenty-five percent (25%) in the aggregate. For the purpose of computing the addition for any month the amount of tax shown on the return shall be reduced by the amount of any part of the tax which is paid on or before the beginning of such month and by the amount of any credit against the tax which may be claimed on the return. If the amount of tax required to be shown on a return is less than the amount shown as tax on such return, this paragraph shall be applied by substituting such lower amount.
-
-   (3) Failure to pay tax required to be shown on return. In case of failure to pay any amount in respect of any tax required to be shown on a return required to be filed which is not so shown (including a determination made pursuant to § 12-15 of these regulations), within ten (10) days of the date of notice and demand, unless it is shown that such failure is due to reasonable cause (see: paragraph (5) of this subdivision (a)) and not due to willful neglect, there shall be added to the amount of tax stated in such notice and demand one-half of one percent (1/2%) of such tax for each month or fraction thereof during which such failure continues, not exceeding twenty-five percent (25%) in the aggregate. For the purpose of computing the addition for any month, the amount of tax stated in the notice and demand shall be reduced by the amount of any part of the tax which is paid before the beginning of such month.
-
-   (4) Limitations on additions:
-
-      (i) With respect to any return the amount of the addition to tax is limited to the following:
-
-         (A) At no time will the addition for one (1) month be more than five percent (5%).
-
-         (B) If paragraphs (1) and (2) of this subdivision (a) are both applicable, the addition under paragraph (1) is reduced by the addition under paragraph (2). Thus, the addition to the charge will be four and one-half percent (4 1/2%) under paragraph (1) and one-half of one percent (1/2%) under paragraph (2) for each month up to and including the first five (5) months. After the first five (5) months, the addition of one-half of one percent (1/2%) per month pursuant to paragraph (2) will apply for the next forty-five (45) months for a maximum aggregate of forty-seven and one-half percent (47 1/2%) addition to tax. However, in any case described in subparagraph (ii) of paragraph (1) of this subdivision (relating to returns filed after 60 days of the due date) the amount of the addition to tax under such paragraph (1) shall not be reduced below the amount provided in such subparagraph (i.e. the lesser of $100 or 100% of tax due).
-
-         (C) If paragraphs (1) and (3) of this subdivision (a) are both applicable, the maximum amount of the addition to tax may not exceed twenty-five percent (25%) in the aggregate. The maximum amount of the addition to tax pursuant to paragraph (3) of this subdivision shall be reduced by the amount of the addition to tax pursuant to paragraph (1) of this subdivision (a) (determined without regard to subparagraph (ii) of such paragraph (1), which is attributable to the tax for which the notice and demand is made and which is not paid within ten (10) days of such notice and demand.
-
-      (ii) The provisions of this paragraph may be illustrated by the following examples:
-
-Example A: (a) Assume the taxpayer filed his tax return for the quarter ending February, 1983  on June 25, 1983, and the failure to file on or before the prescribed date is not due to reasonable cause. The tax shown on the return is $800 and a deficiency of $200 is subsequently assessed, making the tax required to be shown on the return, $1,000. The amount shown due on the return of $800 is paid on July 26, 1983. The failure to pay on or before the prescribed date is not due to reasonable cause. There will be imposed, in addition to interest, an additional amount under paragraph (2), of $20.00, which is 2.5 percent (2% for the 4 months from March 21 through July 20, and 0.5% for the fractional part of the month from July 21 through July 26) of the amount shown due on the return of $800. There will also be imposed an additional amount under paragraph (1) of $184, determined as follows:
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 20 percent (5% per month for the 3 months from March 21 through June 20 and 5% for the fractional part of the month from June 20 through June 25) of the amount due of $l,000 required to be shown on the return
-      -  $200 
-    * - Reduced by the amount of the addition imposed under paragraph (2) for those months
-      -  $16 
-    * - Addition to tax under paragraph (1)
-      -  $184 
-~
-
-
-
- 
-
-Example A: (b) A notice and demand for the $200 deficiency is issued on January 8, 1984, but the taxpayer does not pay the deficiency until December 23, 1984. In addition to interest there will be imposed an additional amount under paragraph (3) of $10, determined as follows:
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - Addition computed without regard to limitation: 6 percent (5 1/2% for the 11 months from January 19, 1984, through December 18, 1984, and 0.5% for the fractional part of the month from December 19 through December 23) of the amount stated in the notice and demand ($200)
-      -  $12 
-    * - Limitation on addition: 25 percent of the amount stated in the notice and demand ($200)
-      -  $50 
-    * - Reduced by the part of the addition under paragraph (1) for failure to file attributable to the $200 deficiency (20% of $200)
-      -  $40 
-    * - Maximum amount of the addition under paragraph (3)
-      -  $10 
-~
-
-
-
- 
-
-Example B: (a) A taxpayer files his tax return for the quarter ending February, 1983 on November 7, 1983, and such delinquency is not due to reasonable cause. The balance due, as shown on the return, of $500 is paid when the return is filed on November 7, 1983. In addition to interest and the addition for failure to pay under paragraph (2) of $20 (8 months at 0.5% per month, 4%), there will also be imposed an additional amount under paragraph (1) of $112.50, determined as follows:
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - Penalty at 5% for maximum of 5 months, 25% of $500
-      -  $125.00
-    * - Less reduction for the amount of the addition under paragraph (2): 
-      - 
-    * - Amount imposed under paragraph (2) for failure to pay for the months in which there is also an addition for failure to file – 2 1/2 percent for the 5 months March 16 through August 20 of the net amount due ($500)
-      - 12.50
-    * - Additional to tax under paragraph (1)
-      -  $112.50
-~
-
-
-
- 
-
-   (5) Reasonable cause as used in paragraphs (1), (2) and (3) of this subdivision (a) must be affirmatively shown in a written statement. The taxpayer's previous compliance record may be taken into account. Grounds for reasonable cause, where clearly established, may include the following:
-
-      (i) death or serious illness of the responsible officer or employee of the taxpayer, or his unavoidable absence from his usual place of business;
-
-      (ii) destruction of the taxpayer's place of business or business records by fire or other casualty;
-
-      (iii) timely prepared reports misplaced by a responsible employee discovered after the due date;
-
-      (iv) inability to obtain and assemble essential information required for the preparation of a complete return despite reasonable efforts;
-
-      (v) any other cause for delinquency which appears to a person of ordinary prudence and intelligence as a reasonable cause for delay in filing a return and which clearly indicates an absence of gross negligence or willful intent to disobey the taxing statutes. Past performance should be taken into account. Ignorance of the law, however, will not be considered reasonable cause.
-
-   (6) Underpayment due to negligence.
-
-      (i) If any part of an underpayment is due to negligence or intentional disregard of the law, or rules or regulations thereunder (but without intent to defraud), there shall be added to the tax a penalty in an amount equal to five percent (5%) of the underpayment.
-
-      (ii) With respect to taxes required to be paid on or after July 16, 1985, there shall be added to the tax (in addition to the amount determined under subparagraph (i) of this paragraph) an amount equal to fifty percent (50%) of the interest payable under § 12-11 of these regulations with respect to the portion of the underpayment described in such subparagraph (i) which is attributable to the negligence or intentional disregard referred to in such subparagraph (i), for the period beginning on the last date prescribed by law for payment of such underpayment (determined without regard to any extension) and ending on the date of the assessment of the tax (or, if earlier, the date of the payment of the tax).
-
-   (7) Underpayment due to fraud.
-
-      (i) If any part of an underpayment is due to fraud, there shall be added to the tax a penalty in an amount equal to fifty percent (50%) of the underpayment.
-
-      (ii) With respect to taxes required to be paid on or after July 16, 1985, there shall be added to the tax (in addition to the penalty determined under subparagraph (i) of this paragraph) an amount equal to fifty percent (50%) of the interest payable under § 12-11 of these regulations with respect to the portion of the underpayment described in such subparagraph (i) which is attributable to fraud, for the period beginning on the last day prescribed by law for payment of such underpayment (determined without regard to any extension) and ending on the date of the assessment of the tax (or, if earlier, the date of the payment of the tax).
-
-      (iii) The penalty under this paragraph (paragraph (7)) shall be in lieu of the maximum twenty-five percent (25%) penalty due to willful neglect for failure to file a return, five percent (5%) penalty due to negligence and the additional one-half of one percent (1/2%) per month penalty pursuant to paragraphs (2) and (3) of this subdivision (a).
-
-   (8) Any person who fails to pay tax, or to make, render, sign or certify any return, or to supply any information within the required time, with fraudulent intent, shall be liable for a penalty of not more than one thousand dollars ($1,000), in addition to any other amounts required under the law to be imposed, assessed and collected by the Commissioner of Finance. The Commissioner of Finance has the power, in his discretion, to waive, reduce or compromise any penalty under this paragraph.
-
-   (9) The additions to tax and penalties provided by this subdivision (a) shall be paid and enforced in the same manner as taxes.
-
-   (10) Whenever a penalty is assessed for failure to pay the tax when due, an application for the remission thereof may be made to the Commissioner of Finance. Such application must be made by the person against whom the penalty is assessed, and must set forth the grounds upon which the remission is requested.
-
-(b) Criminal penalties.
-
-   (1) Any person who willfully fails to file a registration certificate as required by the law and such data in connection therewith as the Commissioner of Finance by regulation or otherwise may require, or willfully fails to display or surrender a certificate of authority as required by the law, or willfully assigns or transfers such certificate of authority, shall be guilty of a misdemeanor, provided, however, that the provisions of this paragraph shall not apply to a failure to surrender a certificate of authority which is required to be surrendered where business never commenced.
-
-   (2) Any person who willfully fails to charge separately the tax imposed under the law or willfully fails to state such tax separately on any bill, statement, memorandum or receipt issued or employed by such person upon which the tax is required to be stated separately as provided in the law, or who shall refer or cause reference to be made to this tax in a form or manner other than required by the law, shall be guilty of a mis- demeanor.
-
-   (3) Failure to collect tax. Any person who willfully fails to collect any tax required to be collected under the law shall be guilty of a misdemeanor.
-
-   (4) Failure to file bond. Any person willfully failing to file a bond where such filing is required under the law shall be guilty of a misdemeanor.
-
-   (5)  Failure to obey subpoena; false testimony.
-
-      (i) Any person who, being duly subpoenaed in connection with a matter arising under the law, to attend as a witness or to produce books, accounts, records, memoranda, documents or other papers,
-
-         (A) fails or refuses to attend without lawful excuse,
-
-         (B) refuses to be sworn,
-
-         (C) refuses to answer any material and proper question, or
-
-         (D) refuses, after reasonable notice, to produce books, papers and documents in his possession or under his control which constitute material and proper evidence shall be guilty of a misdemeanor.
-
-      (ii) Any person who shall testify falsely in any material matter pending before the Commissioner of Finance shall be guilty of and punishable for perjury.
-
-   (6) Willful failure to file a return or report or pay the tax. Any person required to pay any tax or make any return or report, who willfully fails to pay such tax or make such return or report, at the time or times so required, shall be guilty of a misdemeanor.
-
-   (7) Fraudulent returns, reports, statements or other documents.
-
-      (i) Any person who willfully makes and subscribes any return, report, statement or other document which is required to be filed with or furnished to the Commissioner of Finance or to any person, pursuant to the provisions of the law, which he does not believe to be true and correct as to every material matter shall be guilty of a misdemeanor.
-
-      (ii) Any person who willfully delivers or discloses to the Commissioner of Finance or to any person, pursuant to the provisions of the law, any list, return, report, account, statement or other document known by him to be fraudulent or to be false as to any material matter shall be guilty of a misdemeanor.
-
-      (iii) For purposes of this paragraph, the omission by any person of any material matter with intent to deceive shall constitute the delivery or disclosure of a document known by him to be fraudulent or to be false as to any material matter.
-
-   (8) The penalties provided for in this subdivision (b) shall not preclude prosecution pursuant to the penal law with respect to the willful failure of any person to pay over to the City any hotel room occupancy tax imposed by law, whenever such person has been required to collect and has collected any such tax. In any such prosecution under the penal law, a person who has been required to collect and has collected any such tax shall be deemed to have acted in a fiduciary character with respect to the City, and the tax collected shall be deemed to have been entrusted to such person by the City.
-
-(c) Liability of officers or partners and effect of Certificate of Commissioner.
-
-   (1) Officers of a corporate operator and partners in a partnership which is an operator are personally liable for the tax collected or required to be collected by such corporation or partnership, and are subject to the penalties and interest imposed by law.
-
-   (2) The certificate of the Commissioner of Finance to the effect that a tax has not been paid, that a return, bond or registration certificate has not been filed, or that information has not been supplied pursuant to the provisions of the law shall be presumptive evidence thereof.
-
-
-
-
-
-
-*§ 12-13 Refunds.* ::
-
-
-The Commissioner of Finance shall refund or credit, without interest, any tax, penalty or interest erroneously, illegally or unconstitutionally collected or paid, provided:
-
-(a) A written application for refund or credit was made to the Commissioner of Finance within one year from the payment thereof, and
-
-(b) The application is made by the occupant, operator or other person who actually paid the tax, or
-
-(c) The application is made by an operator who collected and paid over such tax to the Commissioner of Finance; however, no refund shall be made until the operator shall first establish to the satisfaction of the Commissioner of Finance that he repaid the occupant the amount for which the application is made. In such case, the period within which application for refund may be made begins when the payment is made by the occupant to the operator. No specific form has been prescribed for refund applications. An application for refund, however, shall be in writing and shall comply with the following requirements:
-
-(d) It must be signed by the applicant or his duly authorized agent. If signed by an agent, the application must be accompanied by a power of attorney acceptable to the Commissioner of Finance.
-
-(e) It must demonstrate that the refund provisions of the law have been complied with.
-
-(f) It must be accompanied by the cancelled check or a photostatic copy thereof, showing both the front and back of the check; or, if paid by cash or money order, by evidence of such payment. Whenever a taxpayer files a claim for refund, such application shall constitute an application for revision of the tax, penalty or interest complained of. The Commissioner of Finance may audit the taxpayer's books and records or may grant the refund subject to future audit. The Commissioner of Finance may determine without resorting to an audit that, based upon the evidence presented, the claim is without merit and, therefore, deny it. The Commissioner of Finance will notify the taxpayer in writing of his determination. Such determination shall become final and irrevocable unless the person to whom it is addressed shall, within 30 days after the date thereof, apply to the Commissioner of Finance for a hearing. A taxpayer shall not be entitled to a refund or credit if he has had a hearing or an opportunity for a hearing in connection with a deficiency assessment as provided by law and by § 12-15 of these regulations, or has failed to avail himself of the remedies provided thereby, if such refund or credit application is for taxes included in the same period covered by such deficiency assessment.
-
-
-
-
-
-
-*§ 12-14 Records To Be Kept.* ::
-
-
-Every operator is required to keep records of room rentals and of the tax payable thereon. In addition to the general books of account, such records shall also include guests' registration records, rental contracts and leases, banquet records wherever applicable and such other records as will enable the Commissioner of Finance to determine the room rentals and the proportionate part of receipts from sale of food and/or drink which under these regulations constitutes rentals. In addition to the above records, operators must also retain all exemption certificates filed by exempt organizations and by the Federal government, or by the State or City of New York, or by an agency of such governments, and records of all other rentals which are not subject to tax. Exemption certificates from occupants who are not entitled to exemption should not be accepted, and the Commissioner of Finance will reject any exemption certificate obtained from an occupant who is not entitled to exemption. The records hereinabove prescribed are in addition to all other records which must be retained by an operator as provided for in any other State or City tax law. Unless the operator maintains adequate records showing rentals and the tax due thereon, the Commissioner of Finance reserves the right to determine the amount of such rentals and the tax due thereon from such information as may be obtainable and, if necessary, the tax may be estimated on the basis of external indices, such as the number of rooms, location, scale of rents, comparable rents, type of accommodation and service, number of employees and/or other factors. Records of operators are to be open for inspection and examination at any time upon demand by the Commissioner of Finance or his duly authorized agent or employee and must be preserved for a period of three years unless permission in writing is obtained from the Commissioner of Finance to destroy them before the expiration of such period.
-
-
-
-
-
-
-*§ 12-15 Determination of Tax.* ::
-
-
-If a return required by law is not filed or if a return when filed is incorrect or insufficient, the amount of tax due shall be determined by the Commissioner of Finance from such information as may be obtainable and, if necessary, the tax may be estimated on the basis of external indices, such as number of rooms, location, scale of rents, comparable rents, type of accommodations and service, number of employees and/or other factors. Notice of such determination shall be given to the person liable for the collection and/or payment of the tax. Such determination shall finally and irrevocable fix the tax unless the person against whom it is assessed, within 30 days after giving of notice of such determination, shall apply to the Commissioner of Finance for a hearing, or unless the Commissioner of Finance of his own motion shall re-determine the same. After such hearing the Commissioner of Finance shall give notice of his determination to the person against whom the tax is assessed. The determination of the Commissioner of Finance shall be reviewable for error, illegality or unconstitutionality or any other reason whatsoever by a proceeding under Article 78 of the Civil Practice Law and Rules if application therefor is made to the Supreme Court within 30 days after the giving of the notice of such determination. A proceeding under Article 78 of the Civil Practice Law and Rules shall not be instituted unless:
-
-(a) the amount of any tax sought to be reviewed, with penalties and interest thereon, if any, shall be first deposited with the Commissioner of Finance and there shall be filed with the Commissioner of Finance an undertaking, issued by a surety company authorized to transact business in this State and approved by the Superintendent of Insurance of this State as to solvency and responsibility, in such amount as a Justice of the Supreme Court shall approve, to the effect that if such proceeding be dismissed or the tax confirmed, the petitioner will pay all costs and charges which may accrue in the prosecution of the proceeding; or
-
-(b) at the option of the applicant such undertaking filed with the Commissioner of Finance may be in a sum sufficient to cover the taxes, penalties and interest thereon stated in such determination plus the costs and charges which may accrue against it in the prosecution of the proceeding, in which event the application shall net be required to deposit such taxes, penalties and interest as a condition precedent to the application.
-
-
-
-
-
-
-*§ 12-16 Proceedings To Recover Tax.* ::
-
-
-Whenever any operator or any officer of a corporate operator or any occupant or other person shall fail to collect and pay over any tax and/or to pay any tax, penalty or interest imposed by this title, the Corporation Counsel shall, upon the request of the Commissioner of Finance bring or cause to be brought an action to enforce the payment of the same on behalf of the city of New York in any court of the State of New York or of any other state or of the United States. If, however, the Commissioner of Finance, in his discretion, believes that any such operator, officer, occupant or other person is about to cease business, leave the state or remove or dissipate the assets out of which the tax, penalties or interest might be satisfied, and that any such tax, penalty or interest will not be paid when due, he may declare such tax, penalty or interest to be immediately due and payable and may issue a warrant immediately. As an additional or alternate remedy, the Commissioner of Finance may issue a warrant, directed to the City Sheriff commanding him to levy upon and sell the real and personal property of the operator or officer of a corporate operator or of the occupant or other person liable for the tax, which may be found within the City, for the payment of the amount thereof, with any penalties and interest, and the cost of executing the warrant, and to return such warrant to the Commissioner of Finance and to pay to him the money collected by virtue thereof within sixty days after the receipt of such warrant. The City Sheriff shall within five days after the receipt of the warrant file with the County Clerk a copy thereof; and thereupon such clerk shall enter the judgment docket the name of the person mentioned in the warrant and the amount of the tax, penalties and interest for which the warrant is issued and the date when such copy is filed. Thereupon the amount of such warrant so docketed shall become a lien upon the title to and interest in real and personal property of the person against whom the warrant is issued. The City Sheriff shall then proceed upon the warrant, in the same manner, and with like effect, as that provided by law in respect to executions issued against property upon judgments of a court of record, and for services in executing the warrant he shall be entitled to the same fees, which he may collect in the same manner. In the discretion of the Commissioner of Finance a warrant of like terms, force and effect may be issued and directed to any officer or employee of the Finance Department, and in the execution thereof such officer or employee shall have all the powers conferred by law upon sheriffs, but shall be entitled to no fee or compensation in excess of the actual expenses paid in the performance of such duty. If a warrant is returned not satisfied in full, the Commissioner of Finance may from time to time issue new warrants and shall also have the same remedies to enforce the amount due thereunder as if the City has recovered judgment therefor and execution thereon had been returned unsatisfied.
-
-
-
-
-
-
-*§ 12-17 Notice and Limitations of Time.* ::
-
-
-(a) Any notice authorized or required under the provisions of this law may be given by mailing the same to the person for whom it is intended in a postpaid envelope addressed to such person at the address given in the last return filed by him pursuant to the provisions of this law or in any application made by him, or if no return has been filed or application made, then to such address as may be obtainable. The mailing of such notice shall be presumptive evidence of the receipt of the same by the person to whom addressed. Any period of time which is determined according to the provisions of this law by the giving of notice shall commence to run from the date of mailing of such notice.
-
-(b) The provisions of the Civil Practice Law and Rules or any other law relative to limitations of time for the enforcement of a civil remedy shall not apply to any proceeding or action taken by the City to levy, appraise, assess, determine or enforce the collection of any tax, penalty or interest provided by the law. However, except in the case of a willfully false or fraudulent return with intent to evade the tax, no assessment of additional tax shall be made after the expiration of more than three years from the date of the filing of the return; provided, however, that where no return has been filed as provided by law, the tax may be assessed at any time.
-
-(c) Where, before the expiration of the period prescribed herein for the assessment of an additional tax, a taxpayer has consented in writing that such period be extended, the amount of such additional tax due may be determined at any time within such extended period. The period so extended may be further extended by subsequent consents in writing made before the expiration of the extended period.
-
-
-
-
-
-
-*§ 12-18 Reference to Tax.* ::
-
-
-Whenever reference is made in placards or advertisements or in any other publication to the tax, such reference shall be substantially in the following form: "city tax on occupancy of hotel rooms," except that in any bill, receipt, statement or other evidence or memorandum of occupancy or rent charge issued or employed by the operator the words "city tax" will suffice.
-
-
-
-
-
-
-*§ 12-19 Bulk Sales.* ::
-
-
-Whenever an operator shall make a sale, transfer, or assignment in bulk of any part or the whole of his hotel premises or his lease, license or other agreement or right to possess or operate such hotel, or of the equipment, furnishings, fixtures, supplies or stock of merchandise, or the said premises or lease, license or other agreement or right to possess or operate such hotel and the equipment, furnishings, fixtures, supplies and stock of merchandise pertaining to the conduct or operation of said hotel otherwise than in the ordinary and regular prosecution of business, the purchaser, transferee or assignee shall at least ten days before taking possession of the subject of the sale, transfer or assignment, or paying therefor, notify the Commissioner of Finance by registered mail of the proposed sale and of the price, terms, and conditions thereof whether or not the seller, transferrer or assignor has represented to, or informed the purchaser, transferee or assignee that he owes any tax pursuant to law, and whether or not the purchaser, transferee or assignee has knowledge that such taxes are owing, and whether any such taxes are in fact owing. Whenever the purchaser, transferee or assignee shall fail to give notice to the Commissioner of Finance as required by the preceding paragraph, or whenever the Commissioner of Finance shall inform the purchaser, transferee or assignee that a possible claim for such tax or taxes exists, any sums of money, property or choses in action, or other consideration, which the purchaser, transferee or assignee is required to transfer over to the seller, transferrer or assignor shall be subject to a first priority right and lien for any such taxes theretofore or thereafter determined to be due from the seller, transferrer or assignor to the City, and the purchaser, transferee or assignee is forbidden to transfer to the seller, transferrer or assigner any such sums of money, property or choses in action to the extent of the amount of the City's claim. For failure to comply with the provisions of this Section, the purchaser, transferee or assignee, in addition to being subject to the liabilities and remedies imposed under the provisions of Article 6 of the Uniform Commercial Code shall be personally liable for the payment to the City of any such taxes theretofore or thereafter determined to be due to the City from the seller, transferrer or assignor, and such liability may be assessed and enforced in the same manner as the liability for tax under the law.
-
-
-
-
 Chapter 11: General Corporation Tax
 --------------------------------------------------
 
@@ -9254,6 +8593,667 @@ Pursuant to 19 RCNY § 17-03, the Commissioner may authorize the electronic fili
 
 
 
+Chapter 12: Hotel Room Occupancy Tax
+--------------------------------------------------
+
+
+
+*§ 12-01 Definitions.* ::
+
+
+Commissioner of Finance. The words "Commissioner of Finance" mean the Commissioner of Finance of the City of New York.
+
+Hotel. A "hotel" is a building or portion of a building that is regularly used and kept open as such for the lodging of guests. The term "hotel" includes an apartment hotel, a motel, boarding house, bed and breakfast, or club, whether or not meals are served. An "apartment hotel" is a building or portion of it wherein apartments are rented to guests for fixed periods of time, either furnished or unfurnished. The term "boarding house" includes rooming houses, furnished-room houses and lodging houses. The term "bed and breakfast" includes a dwelling place ordinarily occupied by a person as his or her own dwelling in which more than one room is regularly used and kept open by such person for the lodging of guests for consideration regardless of whether services such as meals, telephone or linen services are provided. The term "club" includes a residence club, as well as private clubs. To illustrate:
+
+Illustration (i): Individual A owns and lives in a three-bedroom house in New York City. Individual A rents one of the bedrooms to guests from time to time by listing the room with a bed and breakfast listing service. At no time during the year does A rent or offer to rent more than one room to guests. The rental of one room by A is not subject to tax.
+
+Illustration (ii): The facts are the same as in illustration (i) except that A lists two of the three bedrooms or one bedroom and the living room, in his apartment for rental to guests. A's rental of rooms in the apartment is subject to tax.
+
+The term "hotel" also includes a bungalow, which is a furnished living unit intended for single family occupancy that is regularly used and kept open for the lodging of guests for consideration, except that for occupancies during taxable quarters beginning on or before September 1, 2003, the rental of a bungalow for at least one week will not be subject to the tax provided: no maid, food, or other common hotel services such as entertainment or planned activities are provided. The furnishing of linen by the lessor with the rental of a bungalow without the services of changing the linen does not alter the nontaxable status of the rental charges for such periods. To illustrate:
+
+Illustration (iii): Individual B owns an apartment in New York City. Beginning on January 1, 2004, B begins to regularly rent or offer to rent the apartment, furnished, to guests on a transient basis. B's rental of the apartment to guests on a transient basis is subject to the tax regardless of whether the rentals are for periods longer than one week.
+
+The term "hotel" does not include the following:
+
+(1) A nursing home, rest home, convalescent home, maternity home for expectant mothers, residence or home for adults or mentally disabled persons which is registered with the Department of Social Services or Department of Mental Hygiene, whether publicly or privately owned and operated, which accepts as patients persons who require special care on account of age, illness, mental or physical condition or the like, and provides this special care either by nurses, orderlies or aides. To illustrate:
+
+Illustration (iv): A senior citizen's lodging facility which only furnishes hotel facilities and services and does not furnish services or special care provided by attendants, etc., is a hotel.
+
+Illustration (v): A maternity home or residence for expectant unwed mothers which is registered with the Department of Social Services and provides care and service for mothers to be. Such care and service includes maintaining a residence, social services, medical care, and arranging for delivery at a local hospital. This facility is not a hotel.
+
+(2) A summer camp for children which provides a program of instruction or training which the campers are required to pursue under the supervision of counselors is not a hotel. Where guest facilities are provided for parents or others the tax applies to such facilities.
+
+(3) A college dormitory or apartment belonging to a school, college, or university in which its students reside is not a hotel. Where facilities are provided for parents, alumni or others the tax applies to such facilities. A building or portion thereof will be irrebuttably presumed not to be regularly used and kept open for the lodging of guests if, during any four consecutive quarterly tax periods, or, beginning on and after September 1, 2004, during any twelve-month tax period, described in subsection a of 19 RCNY § 12-07, rooms, apartments or living units are rented to guests or occupants on fewer than three occasions or for not more than 14 days in the aggregate. For this purpose, the rentals of rooms in a single building or apartment will be aggregated and the rentals of apartments and living units will be aggregated. In addition, for this purpose, the rental of a room, apartment or living unit under a single contract for one or more consecutive days will be considered a single occasion. However, if a single contract provides for the rental of a room or apartment for non-consecutive days, each period of consecutive days will be considered a separate occasion. In addition, for this purpose, if a room, apartment or living unit is subleased or the right to occupy it is otherwise subcontracted away to another person, each separate sublease or subcontract of a room, apartment or living unit for a period of consecutive days will be considered a separate occasion. Furthermore, for this purpose, rentals to guests or occupants that qualify as permanent residents will not be included in the number of days or occasions of rentals.
+
+Illustration (vi): A owns a four-bedroom house in New York City. During the period September 1, 2004 through August 31, 2005, A rents three of the bedrooms as follows: one bedroom is rented for the entire twelve month period to individual B who does not sublease the room; one bedroom is rented for one week to individual C; one bedroom is rented for two days to individual D, three days to individual E and one day to individual F. The rental to individual B is not considered a rental occasion or included in determining the number of days of room rentals. A is considered to have rented rooms on four occasions. However, because the total number of days is less than 14, A is not considered to be operating a hotel.
+
+Illustration (vii): Individual A owns four apartments in New York City. During the period September 1, 2004 through August 31, 2005, A rents the apartments as follows: one apartment is rented for the entire 12-month period to individual B who does not sublease the apartment; another apartment is rented for one week to individual C; a third apartment is rented for two days to individual D, five days to individual E and four days to individual F. The rental to individual B is not considered a rental occasion or included in determining the number of days of room rentals. A is considered to have rented three of the apartments on four occasions. Because the total number of days of rentals of the three apartments is more than 14, A is considered to be operating a hotel with respect to the three apartments rented to C, D, E, and F. If the apartment rented to B were rented to B for only 190 days and was subsequently rented during the period to individual G for three days, that apartment would also be included as part of the hotel operation of A.
+
+Occupancy.
+
+(a) "Occupancy" is the use or possession, or the right to the use or possession, of any room or rooms in a hotel, or the right to the use or possession of the furnishings or to the services and accommodations accompanying the use and possession of the room or rooms. "Occupancy" includes the right to the use or possession as well as the exercise of that right; there is an "occupancy" of a room whether or not the person entitled to the use or possession of the room actually uses it or possesses it.
+
+(b) A room is deemed to be the subject of only one taxable occupancy at a given time. Where an occupant sublets or otherwise contracts away his right to the use or possession, the tax shall be collected and paid in accordance with the following rules:
+
+   (1) (i) For taxable periods beginning before June 1, 2002, if the original occupant is itself an operator, as in the case of a private club located in a hotel, and subleases the occupancy to another, the taxable occupancy shall be the occupancy by the sublessee. In such case, the original occupant shall collect the tax from the sublessee and pay it over to the Commissioner of Finance.
+
+      (ii) For taxable periods beginning on or after June 1, 2002, if the original occupant or any sublessee of the room is directly or indirectly related to the original hotel operator, the taxable occupancy will be the occupancy by the sublessee of such related person. For purposes of this subparagraph (ii) an occupant will be considered to be directly or indirectly related to the original hotel operator if:
+
+         (A) the original hotel operator owns directly or indirectly a five percent or greater interest in such occupant.
+
+         (B) such occupant owns directly or indirectly a five percent or greater interest in the original hotel operator.
+
+         (C) one or more persons own directly or indirectly five percent or greater interests both in such occupant and in the original hotel operator, or
+
+         (D) such occupant is an officer, director, manager (including a manager of a limited liability company), trustee, fiduciary or employee of the original hotel operator or an individual that is a member of the family of an individual original hotel operator.
+
+         (E) For purposes of this subparagraph a five percent or greater interest shall mean, in the case of a corporation, five percent or more of the voting power of all classes of stock or five percent or more of the total fair market value of all classes of stock, and, in the case of a partnership, association, trust or other entity, five percent or more of the capital, profits or beneficial interests in such entity.
+
+         (F) To illustrate:
+
+Illustration 1: In 2003, Z contracts for 100 rooms in a hotel at a rate of $100 per room per day for 190 consecutive days. Z subleases the rooms to its customers. Z is not a private club and is not related to the hotel operator within the meaning of this paragraph. The hotel operator is required to charge and collect the tax from Z for its occupancy of all 100 rooms for the entire 190-day period. Z is not a permanent resident with respect to any of the rooms. See 19 RCNY § 12-01 definition of a "permanent resident," paragraph (3). Z is not required to charge and collect the tax from its customers for the occupancy of any of the rooms that it subleases for the days that such rooms are sublet.
+
+Illustration 2: The facts are the same as in Illustration 1 except that Z is related to the hotel operator within the meaning of this paragraph. In this case, the taxable occupancy is the occupancy by the customers of Z and the hotel operator is required to charge and collect the tax from the customers of Z.
+
+   (2) (i) For taxable periods beginning before June 1, 2002, if the original occupant is not an operator, the occupant's occupancy is taxable whether or not the occupant has the actual use or possession of the room and no tax will be paid by or collected from a sublessee of the occupant.
+
+      (ii) For taxable periods beginning on or after June 1, 2002, except as provided in subparagraph (ii) of paragraph (1), the occupancy of the original occupant is taxable whether or not the original occupant has the actual use or possession of the room and no tax will be paid by the person having actual use or possession of the room. See subdivision (b)(ii) of the definition of "occupancy," supra, in this section for the application of the tax to the occupancy by a sublessee of an occupancy that is related to the hotel operator.
+
+(c) The tax is applicable to any occupancy on and after July 1, 1970, even if such occupancy is pursuant to a contract, lease, or other arrangement made prior thereto.
+
+Occupant. An "occupant" is any person who, for a consideration, uses, possesses, or has the right to use or possess any room or rooms in a hotel under any lease, concession, permit, right of access, license to use or other agreement, or otherwise.
+
+Operator.
+
+(1) An "operator" is any person operating a hotel in the City of New York, including, but not limited to, the owner or proprietor of such premises, lessee, sublessee, mortgagee in possession, licensee or any other person otherwise operating such hotel. For taxable periods beginning on or after June 1, 2002, a private club that, as an accommodation to its members, makes rooms available to such members in its own buildings is an "operator" within the meaning of the law.
+
+(2) For taxable periods beginning before June 1, 2002, any person who contracts away the use of a room or rooms in a hotel is an "operator." For example, a private club which, as an accommodation to its members, makes rooms available to such members either in its own buildings or in club rooms maintained in a hotel elsewhere, is an "operator" within the meaning of the law. For taxable periods beginning on or after June 1, 2002, any occupant who sublets or otherwise contracts away the right to use or possession of a room or rooms in a hotel is not an operator.
+
+Permanent resident.
+
+(1) A person is a "permanent resident" as of a given date if that person has occupied or has had the right to occupy a room or suite of rooms in a particular hotel for 180 consecutive days next preceding such date. (Prior to September 1, 1980, 90 days of occupancy qualified a person as a "permanent resident"). A person who enters into an agreement for occupancy for 180 consecutive days or more does not become a permanent resident under the law until that person has been an occupant for 180 consecutive days, and the operator is liable for the collection of the tax until such occupancy for 180 consecutive days has been completed. Where the tax has been collected by the operator for occupancy for less than 180 days and the occupant subsequently completes 180 consecutive days of occupancy, the operator may return such tax to the occupant. If the operator has paid such tax over to the Commissioner of Finance, the operator may, within one year from the date of the payment to the Commissioner of Finance, and provided the operator has returned such tax to the occupant, either take credit for the tax so paid on any subsequent return filed by the operator or file a claim for refund of such tax.
+
+(2) A person is not a permanent resident as of a given date unless that person has completed 180 days of consecutive occupancy in the same establishment immediately prior to that date. Thus, a person who has the right to use a room only on intermittent days of the week or of the month is not a permanent resident even though that person has had more than 180 days of occupancy in the aggregate. Similarly, a person who, after having been a permanent resident, surrenders his occupancy and then subsequently resumes its occupancy, is not a permanent resident under the later occupancy until that person completes 180 additional consecutive days of occupancy. Where a person transfers from one hotel to another, even though owned or operated by the same operator, that person is not a permanent resident of the latter establishment until that person has completed 180 consecutive days of occupancy therein. However, except as provided in subdivision (3) of this definition, a person who has completed 180 consecutive days of occupancy in different rooms of the same hotel is a permanent resident of that establishment. Where a permanent resident rents additional rooms on a temporary basis, that person is not considered a permanent resident with respect to such additional rooms unless such rooms are occupied for 180 or more consecutive days.
+
+(3) For purposes of the definition of permanent resident, days of consecutive occupancy shall not include any day that a person sublets or otherwise contracts away such person's occupancy of a room or rooms regardless of whether that person is an operator with respect to the subleasing of that room. If a person leases more than one room in a hotel that such person has sublet on some days, such person may not aggregate the days that it has not sublet any such room with the days that it has not sublet any other such room in order to qualify for permanent resident status. See illustration (vii). To illustrate:
+
+Illustration (i): A person occupies a certain room in a hotel for 57 days. On the 57th day that person moves to a different room in the same hotel, which that person occupies for an additional 130 days. This person is considered a permanent resident with respect to the occupancy of both rooms and that person is entitled to a refund of any tax paid with respect to the occupancy of the rooms.
+
+Illustration (ii): An airline corporation rents three rooms on an annual basis from a hotel. However, on occasion, when it requires additional rooms in the hotel for the use of its employees, it rents such additional rooms on a daily basis for a period less than 180 consecutive days. The hotel is required to charge and collect the tax from the airline corporation on the airline's occupancy of the additional rooms.
+
+Illustration (iii): B, an individual, resides in a hotel where that person has occupied a two-room suite for a period exceeding 180 consecutive days. B also rents a studio room for his own use in practicing piano. B has the exclusive use of this studio for a period of one hour per week. At other times, the room may or may not be rented to other persons. B's use of the studio room is subject to the tax.
+
+Illustration (iv): C, an individual, occupies a room in a hotel for a period of 180 days. He also rents two additional rooms for occupancy by his wife and his maid for a period of two weeks. The room occupied by his wife adjoins his room and the room occupied by his maid is on another floor of the hotel. The hotel operator is required to charge and collect the tax from C on the occupancy of the rooms occupied by C's maid and his wife.
+
+Illustration (v): D, an individual, occupies a room in a hotel for a period of more than 180 consecutive days. He rents an additional room in the same hotel for one day for the purpose of holding a party for his friends. The hotel is required to charge and collect the tax from D for the occupancy of the additional room.
+
+Illustration (vi): A corporation maintains a suite of rooms at a hotel on a permanent basis. During one week of the year, it holds a general sales meeting and for that purpose rents 75 additional rooms in the same hotel for the use of its employees. The hotel operator is required to charge and collect the tax from the corporation for the occupancy of the 75 additional rooms.
+
+Illustration (vii): Z, a tour company, contracts for 100 rooms in a hotel for 190 consecutive days. Z subleases 98 of the 100 rooms to its customers. Each of the 98 rooms is sublet for most of the 190-day period. However, there is no single day within the 190-day period on which all 98 rooms are sublet. Z uses the remaining two rooms to conduct its business. It does not sublease either of the two rooms for any period of time. Z becomes a permanent resident of the two rooms used to conduct its business when it completes 180 days of consecutive occupancy and is entitled to a refund of any tax paid with regard to the occupancy of these two rooms. Z does not become a permanent resident with respect to any of the 98 rooms that it subleases to customers even though at least one of the rooms is unoccupied for each of the 190 days.
+
+Person. The term "person" includes an individual, partnership, society, association, joint-stock company, corporation, estate, receiver, trustee, assignee, referee, or any other person acting in a fiduciary or representative capacity, whether appointed by a court or otherwise, and any combination of individuals or of the foregoing.
+
+Place of assembly. A "place of assembly" is an enclosed room or space in which 75 or more persons gather for religious, recreational, educational, political or social purposes, or for the consumption of food or drink, or for similar group activities, but excluding such spaces in dwelling units; or an outdoor space in which 200 or more persons gather for any of the above reasons. For purposes of this definition a room or space will be considered to be a place of assembly if either:
+
+(1) banquet or catering contracts indicate that at a particular function the expected attendance is 75 or more persons or
+
+(2) the room has been certified as a "place of assembly" by the Department of Buildings. To illustrate:
+
+Illustration (i) Hotel B has a ballroom, adjacent to which is a reception room and two small foyers. The four rooms, by use of folding doors, can be converted into one large space accommodating a maximum of 2500 persons. Under certain circumstances the ballroom may be rented for a function for 1000 persons, the reception room for 250 persons, and either one or both of the foyer rooms to groups of from 25 to 50 persons, by closing the folding doors and thus providing four separate units. Accordingly, the tax would not apply where the ballroom is rented for a function for 1000 persons, or the reception room for 250, or for either or both rooms where rented for 75 or more persons. However, the tax does apply where one or both of the foyer rooms (which are not "certified" as places of assembly) may be rented to groups of from 25 to 50 persons.
+
+Illustration (ii) Hotel B has a meeting room which has been certified as a "place of assembly" by the Department of Buildings. The rental of such room (regardless of the expected or actual attendance) shall be exempt from the tax.
+
+Rent.
+
+(1) "Rent" is the consideration received for occupancy, valued in money, whether received in money or otherwise, including all receipts, cash, credits, and property or services of any kind or nature, and also any amount for which credit is allowed by the operator to the occupant, without any deduction therefrom whatsoever.
+
+(2) The entire amount charged by the operator for the use or possession of the room, of its furnishings, and of the services and accommodations accompanying its use and possession, constitutes rent under the law. Such services include but are not limited to the use of furniture and furnishings, maid and porter service, towel and linen service, doorman, bellman, and elevator service. The total charge for such services is deemed to be rent whether included in a lump-sum charge for the room or separately stated. Services and accommodations not deemed to accompany the use or possession of the room are the following: Food and liquor, valet and laundry service, and transportation and theatre ticket service. Where the operator separately charges for such services on any evidence of sale, such charges are not deemed to constitute rent. However, where a lump-sum charge for a room includes one or more such accommodations or services, the lump sum charge is deemed to constitute rent, except that where the charge includes meals the tax shall be applicable as follows: 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - If the total charge includes:
+      - The portion of the total charges subject to tax is: 
+    * - Breakfast, Lunch, Dinner
+      - 50% 
+    * - Lunch, Dinner
+      - 60% 
+    * - Breakfast, Dinner
+      - 60% 
+    * - Breakfast, Lunch
+      - 70% 
+    * - Dinner
+      - 75% 
+    * - Lunch
+      - 85% 
+    * - Breakfast
+      - 85% 
+~
+
+ 
+
+(3) Where the exclusive use of a room is secured by a person as an incident to the furnishing by the operator of food and/or drink to be served in such room, such use constitutes a taxable occupancy, and any separate charge for rent for such occupancy is subject to tax. If no separate charge for the room is made to such person, 20% of the total charge to such person for the food and/or drink shall be attributable to the use of such room and taxable as rent.
+
+To illustrate: In 1982, A secures from B, an operator of Hotel C, the exclusive use of the Blue Room in Hotel C, in accordance with an arrangement whereby B will furnish and serve A and his guests with food and/or drink in the Blue Room. The total charge to A for such food and/or drink is $150.00. No separate charge is made to A for the use of the Blue Room. Operator B is required to collect a tax of $1.50 from A.
+
+Where the exclusive use of a room is secured by a person as an incident to the furnishing by the operator of food and/or drink to the guests of such person, to be served in such room, and no separate charge is made for such use of the room, food and/or drink to such person, but a charge for the food and/or drink is made to the guests, 20% of the total charge to the guests for the food and/or drink shall be attributable to the use of such room by such person and taxable as rent. If the charge to the guests is less than a minimum amount guaranteed by such person, 20% of the guaranteed minimum shall be attributable to the use of such room by such person and taxable as rent.
+
+To illustrate: A secures from B, an operator of Hotel C, the exclusive use of the Blue Room in Hotel C, in accordance with an arrangement whereby the charge for the food and/or drink to be served in such room will be made directly to the guests and no separate charge will be made for the use of the Blue Room. The total sales realized by B are $90.00. B is required to collect a tax of $.50 from A. If A guaranteed B a minimum sales volume to his guests of $200.00 then B will be required to collect a tax of $2.00 from A.
+
+(4) The tax is not applicable to any rent which has been ascertained to be worthless. Where a tax has been paid upon rent which has subsequently been ascertained to be worthless, the operator may take credit for the tax so paid on any subsequent return filed by him within one year from the date of the payment of such tax, or he may file a claim for refund of such tax within one year from the date of payment thereof.
+
+(5) The tax is not applicable to rent which has been returned by an operator to an occupant. Where the operator has paid the tax on such rent to the Commissioner of Finance, he may take credit for the tax so paid on any subsequent return filed by him within one year from the date of the payment of such tax, or he may file a claim for refund of such tax within one year from the date of payment thereof.
+
+(6) A cash discount may not be deducted from rent. However, where a discount is unconditionally deducted by an occupant upon settlement of his bill and is allowed as a matter of established custom without regard to the due date of such bill, the amount of such discount is not deemed to be a part of the rent.
+
+(7) Complimentary accommodations. When a hotel furnishes complimentary accommodations for which there is no consideration no tax applies. To illustrate:
+
+Illustration (i) An operator of a hotel furnishes free of charge hotel room accommodations to governmental officials, friends or relatives of management, visiting hotel representatives, hotel employees and representatives of charitable and religious organizations. These complimentary hotel rooms are deemed to have been furnished gratuitously, and as such are not subject to the tax.
+
+Illustration (ii) An operator of a hotel furnishes complimentary rooms to persons who procure guests for the hotel, such as tour guides, travel representatives, teachers and chaperons in charge of student groups, or representatives of organizations at the time of the negotiations for future business for the hotel. The rooms furnished at such time are deemed to have been furnished in consideration of their efforts in bringing potential business to the hotel. Such occupancies are subject to the tax based upon the normal rental charge for the room.
+
+Illustration (iii) Association ABC holds its December convention at Hotel Y and receives five complimentary rooms for use by the association's officers and convention chairman for the duration of the convention. The complimentary rooms are not considered taxable.
+
+Room. Any portion of a hotel, whether used for dwelling, commercial or any other purpose, is a "room" under the law and these rules, except:
+
+(1) a bathroom or lavatory,
+
+(2) a place of assembly as defined in § 27-232 of the Administrative Code of the City of New York (See: 19 RCNY § 12-01 "place of assembly"),
+
+(3) a store, stand or counter to which access is had directly from public thoroughfares or street or mezzanine lobbies, and,
+
+(4) a lobby, public dining room or other public room when employed as such, provided, however, when such lobby, public dining room or other public room is used exclusively for a private purpose, the occupancy thereof is subject to tax (unless the room qualifies as a place of assembly). The term "room" shall include a kitchenette provided that it is a walk-in area, enclosed by walls, with one or more doorways, archways or other openings, it is supplied with a cooking appliance including but not limited to a range, microwave or convection oven, or hot plate, and it contains at least one item from each of two of the following three categories:
+
+   (i) a sink with running water, or dishwater;
+
+   (ii) a refrigerator;
+
+   (iii) a cabinet, counter top, or table.
+
+Example: A hotel suite contains a kitchenette with a microwave oven, refrigerator, sink, cabinets and a counter top.
+
+      (a) The kitchenette is a walk-in area with three walls and a wide opening on the fourth side. The kitchenette is a room.
+
+      (b) The above items are all set into a wall and there is no appurtenant walk-in area. The kitchenette is not a room.
+
+      (c) Same facts as in (a) except the microwave is not in the kitchenette but rather is outside the kitchenette. The kitchenette is a room.
+
+
+
+
+
+
+*§ 12-02 Imposition of the Tax.* ::
+
+
+(a) The law imposes a tax, measured by the rent per day, for every occupancy of a room or rooms in a hotel in the City of New York, commencing July 1, 1970, with certain exceptions set forth hereinafter.
+
+(b) On and after July 1, 1970 until August 31, 1980, the rates of tax were as follows: 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - If the rent per day for the room was:
+      - The tax was:   
+    * - Less than $10
+      - $  .25 per day
+    * - $10 or more, but less than $15
+      - $  .50 per day
+    * - $15 or more, but less than $20
+      - $  .75 per day
+    * - $20 or more
+      - $1.00 per day
+~
+
+
+
+ 
+
+(c) on and after September 1, 1980, the rates of tax are as follows: 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - If the rent per day for the room is:
+      - The tax is: 
+    * - Less than $10
+      -  $0.00
+    * - $10 or more, but less than $20
+      - $  .50 per day
+    * - $20 or more, but less than $30
+      - $1.00 per day
+    * - $30 or more, but less than $40
+      - $1.50 per day
+    * - $40 or more
+      - $2.00 per day
+~
+
+
+
+ 
+
+(d) Where a person occupies a room for less than a full day and pays less than the rent for a full day, the tax shall nevertheless be the same amount as would be due had such person occupied the room for a full day at the rent for a full day.
+
+(e) As used in the law and these regulations, the word "day" means any period of 24 consecutive hours, or the actual period of occupancy if less than 24 hours, due regard being had for the established check-out time and practices regarding the early check-in and late check-out of guests of the particular hotel. If the hotel does not impose an additional charge for early check-in or late check-out of guests, then the occupancy before or after the official check-in and check-out times is not taxable.
+
+To illustrate: A checks into Hotel B at 1:00 P.M. Monday afternoon and checks out at 6:00 P.M. Wednesday evening. The established check-out time at Hotel B is 12 noon. The period from 1:00 P.M. Monday to 12 noon Tuesday constitutes a day for purposes of the tax, as does the period from noon Tuesday to noon Wednesday. The period from 12 noon Wednesday to 6:00 P.M. Wednesday will constitute a day for purposes of the tax only if the hotel charges the guest for such period after the 12 noon established check-out time. Accordingly, if Hotel B imposes a charge for the late check-out A is deemed to have spent 3 days at Hotel B. However, if Hotel B does not impose any additional charge for late check-out then A is deemed to have spent 2 days at Hotel B.
+
+Where the rent is based on a term longer than one day, such as a weekly or monthly term, the rent per day is computed by dividing the total number of days of occupancy into the total charge for such occupancy.
+
+To illustrate: A occupies a hotel room during the month of September, 1982, at the rate of $750 per month. The rate per day is 1/30 × $750, or $25, and the tax is $1.00 per day.
+
+(f) Where the rent is for more than one room, including a suite of rooms, the daily rent for each room is determined by multiplying the daily rent for the group of rooms by a fraction, the numerator of which is the daily rent for the particular room, or a similar room, when such room is rented alone with similar bath facilities, and the denominator of which is the total of the daily rent for the individual rooms in the group of rooms, or similar rooms, when such rooms are rented alone with similar bath facilities.
+
+To illustrate: In 1982 A and his wife occupy a suite of hotel rooms for one day. The suite consists of a bedroom, a living room, and bathroom. The rent charged for the suite is $40 per day. When rented separately, the daily rents for the bedroom and living room are $20 and $30 respectively. The daily rent for the bedroom rented as part of the suite is 20/50 × $40, or $16; the daily rent for the living room is 30/50 × $40, or $24. Accordingly, the tax is $.50 for the bedroom and $1.00 for the living room. The bathroom is not considered a room, and is not subject to the tax.
+
+Where an entire rent is charged for more than one room, whether or not a suite, if such rooms are not otherwise rented separately, the daily rent per room is to be determined by dividing the entire rent by the number of rooms for which the charge is made. For example, if the entire charge for a suite of 3 rooms is $90 per day, the charge for each room is considered to be $30. A tax of $1.50 must be paid for each room, a total tax of $4.50 for the suite.
+
+(g) The tax is not imposed upon occupancy by a permanent resident as defined in 19 RCNY § 12-01 "Permanent Resident".
+
+(h) The tax is not imposed upon occupancy by the federal or New York State governments or political subdivisions of the State. (See: 19 RCNY § 12-03.)
+
+(i) The tax is not imposed upon occupancy by religious, charitable, and educational organizations, nor on rents received by such organizations, to the extent provided in 19 RCNY § 12-03.
+
+
+
+
+
+
+*§ 12-03 Exemptions.* ::
+
+
+The following persons are exempt from the tax:
+
+(a) The State of New York, or any public corporation (including a public corporation created pursuant to agreement or compact with another state or the Dominion of Canada), improvement district or other political subdivision of the State; the United States of America, insofar as it is immune from taxation; the United Nations or other worldwide international organizations of which the United States of America is a member.
+
+(b) Any corporation, or association, or trust, or community chest, fund or foundation, organized and operated exclusively for religious, charitable, or educational purposes, or for the prevention of cruelty to children or animals, and no part of the net earnings of which inures to the benefit of any private shareholder or individual, and no substantial part of the activities of which is carrying on propaganda, or otherwise attempting to influence legislation; provided, however, that nothing in this subdivision (b) shall include an organization operated for the primary purpose of carrying on a trade or business for profit, whether or not all of its profits are payable to one or more organizations described in this subdivision (b).
+
+(c) Where any organization described in subdivision (b) above, carries on its activities in furtherance of any of the purposes for which it was organized, in premises in which, as part of said activities, it operates a hotel, occupancy of rooms in said premises and rents therefrom received by such organization are not subject to the tax. An organization claiming exemption under subdivisions (b) and (c) above must make application for such exemption to the Commissioner of Finance and is required to submit to the Commissioner of Finance such information as will enable the Commissioner to rule upon the applicant's status. The Commissioner, if satisfied that the applicant is entitled to the exemption, will issue a letter of exemption to the applicant. An applicant for exemption is required to submit an affidavit which shall set forth the following:
+
+   (1) The type of organization,
+
+   (2) The purposes for which it is organized,
+
+   (3) Its actual activities,
+
+   (4) The source and disposition of its income,
+
+   (5) Whether or not any of its income is credited to surplus or may inure to any private stockholder or individual, and
+
+   (6) Such other facts which may affect its right to exemption. The affidavit must be supplemented by a copy of the articles of incorporation, or articles of association, as the case may be, a copy of the by-laws of the organization, a financial statement showing its assets and liabilities for the most recent year, and a photostatic copy of the letter, if any, from the United States Treasury Department granting the organization exemption from Federal income taxation. An organization which is an occupant of a hotel room and claims exemption from tax on such occupancy must furnish a copy of the letter of exemption to the hotel operator when claiming such exemption. Where the occupancy is by an agent, representative, or employee of the organization, a certificate, on the form prescribed by the Commissioner, certifying that the occupancy is solely for official purposes and that the rent has or will be paid by the organization, must be furnished to the operator.
+
+
+
+
+
+
+*§ 12-04 Government Agencies, Diplomatic and Consular Representatives.* ::
+
+
+(a) Occupancy of rooms by the Federal government or by the State or City of New York or by an agency of such governments, is not subject to the tax. Employees and representatives of such governments and agencies, who occupy rooms solely for official purposes, are not required to pay the tax, providing that they furnish to the operator certificates on the form prescribed by the Commissioner, certifying that the rent has been or will be paid by the governmental agency concerned.
+
+(b) Ambassadors, ministers and other diplomatic representatives of foreign governments properly accredited to the United States, are exempt from tax upon their occupancy of rooms. Such exemption does not apply to consular officers or to officers of foreign governments other than those hereinabove specified, unless such exemption arises from treaties or reciprocal agreements existing between such foreign governments and the United States. A person claiming exemption from the tax under this subdivision is required to apply in writing therefor to the Commissioner of Finance, submitting with his application a copy or other evidence of the appropriate treaty or reciprocal agreement between his government and the United States. If the request for exemption is approved, a letter of exemption will be issued to the applicant, and a copy of such letter must be submitted to the operator whenever claim for exemption is made.
+
+
+
+
+
+
+*§ 12-05 Presumption and Burden of Proof.* ::
+
+
+It shall be presumed that all rents are subject to tax until the contrary is established, and the burden of proving that rent for occupancy is not taxable under the law shall be upon the operator or the occupant.
+
+
+
+
+
+
+*§ 12-06 Registration.* ::
+
+
+(a)  Every operator is required to file a certificate of registration in a form prescribed by the Commissioner of Finance. In the case of operators commencing business or opening new hotels the certificate is required to be filed with the Commissioner of Finance within three days after such commencement or opening. An operator of a hotel having 10 or more rooms or 10 or more apartments or living units offered for lodging of guests is deemed to have commenced business or opened a new hotel when such rooms are first offered to the public. In the case of a building or portion of a building having fewer than 10 rooms or fewer than 10 apartments or living units offered for lodging of guests, the operator will be considered to have commenced business or to have opened a hotel as of the first date that the rental of such rooms or living units exceeds either of the de minimis thresholds described in subsection a of 19 RCNY § 12-01 (i.e., such rooms or units are rented on three or more occasions or for more than 14 days in the aggregate) during any four consecutive quarterly tax periods, or, beginning on and after March 1, 2005, during any twelve-month tax period. Within five days after such registration, the Commissioner of Finance shall issue, without charge, to each operator, a certificate of authority empowering such operator to collect the tax from the occupant, and, in addition, a certificate of authority for each additional hotel of such operator. Each certificate shall state the hotel to which it is applicable. Such certificate of authority must be prominently displayed by the operator in such manner that it may be seen and come to the notice of all occupants and persons seeking occupancy. Such certificates are not assignable or transferable and must be surrendered immediately to the Commissioner of Finance upon the cessation of business at the hotel named therein, or upon its sale or transfer, together with an affidavit setting forth the pertinent details of such cessation. An operator of fewer than 10 rooms or 10 apartments or living units, after having registered, is not deemed to have ceased business merely because the rental of rooms or living units falls below the de minimis thresholds set forth in the last paragraph of the definition of "hotel" contained in 19 RCNY § 12-01 during a subsequent quarterly or annual period unless the operator has filed annual reports for each of the immediately preceding three annual periods showing no rooms available for rental to transients (i.e., guests other than permanent residents). If the business is continued at the same place, but there is a change in the form of the organization, such as from a single proprietorship to a partnership or corporation, the operator is required to return his certificate for cancellation, and the successor is required to file a new application for a certificate of authority.
+
+(b) Registration hereunder is separate and apart from registration under the Sales Tax, and the operator who is registered under the Sales Tax must also register under the Tax on Occupancy of Hotel Rooms.
+
+
+
+
+
+
+*§ 12-07 Filing of Returns and Payment of Tax.* ::
+
+
+(a)  Except as provided herein, every operator shall file with the Commissioner of Finance a return of occupancy and of rents, and of the taxes payable thereon, on the form prescribed by the Commissioner of Finance, for the quarterly periods ending on the last day of February, May, August, and November of each year. Notwithstanding the foregoing, with respect to tax periods beginning on and after the first day of September, 2004, (i) an operator of a hotel having fewer than 10 rooms may file the above return for each such hotel on an annual basis for each twelve-month period ending on the last day of February of each year, and (ii) an operator of fewer than 10 furnished apartments or living units may file the above return on an annual basis for each twelve-month period ending on the last day of February of each year covering all such apartments or living units. Such returns shall be filed within twenty days after the last day of each such period. For the period beginning September 1, 2004 and ending February 28, 2005, an operator of fewer than 10 apartments or living units or of a hotel having fewer than 10 rooms may file the above return for each such hotel or apartments or living units covering that period on or before March 21, 2005. An operator of fewer than 10 rooms or fewer than 10 apartments or living units, after having registered, is required to file a return for each subsequent quarterly or annual period thereafter regardless of whether the rental of rooms or living units falls below the de minimis thresholds set forth in the last paragraph of the definition of "hotel" contained in 19 RCNY § 12-01 during a subsequent quarterly or annual period unless the operator has filed annual reports for each of the immediately preceding three annual periods showing no rooms available for rental to transients (i.e., guests other than permanent residents). An operator who ceased business must file a final return within twenty days from the date such business ceased, covering the period or portion of the period during which he conducted such business subsequent to the period for which a return was last required to be filed. If the business was sold, the purchaser thereof must file a return for the period from the date of purchase to the end of the period of which a return is required to be filed. An operator of fewer than 10 rooms or 10 apartments or living units, after having registered, is not deemed to have ceased business merely because the rental of rooms or living units falls below the de minimis thresholds set forth in the last paragraph of the definition of "hotel" contained in 19 RCNY § 12-01 during a subsequent quarterly or annual period unless the operator has filed annual reports for each of the immediately preceding three annual periods showing no rooms available for rental to transients (i.e., guests other than permanent residents). Whenever an operator is not required to charge or collect the tax, the Commissioner of Finance may, upon application in writing made by such operator, waive the requirement for the filing of returns. All returns must be filed with the Bureau of Tax Operations of the Department of Finance at the address designated on the return form. The return of an individual must be signed by such individual unless he is absent from the City, ill or otherwise incapacitated, in which event the return may be signed by his duly authorized representative or agent. The return of a corporation must be signed by an officer thereof; the return of a partnership must be signed by a general partner thereof. The Commissioner of Finance may, for good cause, extend the time for filing any return for a period not exceeding 30 days.
+
+(b) At the time of filing a return, each operator shall pay to the Commissioner of Finance the tax due, as well as all other monies collected by the operator acting or purporting to act under the law even though it is determined that the tax collected was invalidly imposed. The tax for the period for which a return is required to be filed shall be due from the operator and payable to the Commissioner of Finance on the date prescribed for the filing of such return for such period, without regard to whether a return is filed or whether the return which is filed correctly shows the amount of rent and the tax due thereon. Payment of the tax shall be made in cash, or by check, money order or draft drawn to the order of the City Collector. Cash payments must be made only to cashiers designated for that purpose. Under no circumstances should cash be sent by mail. Postage stamps will not be accepted in payment of tax.
+
+(c) The Commissioner of Finance may require any operator within the City to file an information return, on a form prescribed by the Commissioner of Finance, at such time and containing such information as the Commissioner of Finance deems necessary for the proper administration of the law.
+
+(d) Electronic filing and payment. Pursuant to 19 RCNY § 17-03, the Commissioner may authorize the electronic filing of returns and reports and the electronic payment of tax required by this chapter.
+
+
+
+
+
+
+*§ 12-08 Liability for Charging, Collecting and Paying the Tax.* ::
+
+
+(a) The law requires that upon every taxable occupancy, the operator shall charge and collect the tax from the occupant. The tax to be collected must be charged and stated separately from the rent and shown separately on any record thereof, at the time when the occupancy is contracted and charged for. The tax shall also be stated and separately charged upon every evidence of occupancy or any bill or statement of charge made for said occupancy issued or delivered by the operator. The tax shall be paid by the occupant to the operator as trustee for and on account of the City, and kept separate from all other funds in the possession of the operator and the operator shall be liable for the collection thereof and for the tax. The operator and any officer of any corporate operator shall be personally liable for the tax collected or required to be collected under the law. The operator shall have the same right in respect to collecting the tax from the occupant, or in respect to nonpayment of the tax by the occupant, as if the tax were a part of the rent for the occupancy payable at the time such tax shall become due and owing, including all rights of eviction, dispossession, repossession and enforcement of any innkeeper's lien that he may have in the event of nonpayment of rent by the occupant; provided, however, that the Commissioner of Finance shall be joined as a party in any action or proceeding brought by the operator to collect or enforce collection of the tax.
+
+(b) No operator may absorb the tax required to be collected, or tell the occupant that he will pay such tax, nor may he advertise or hold out to the public in any manner, directly or indirectly, that the tax is not deemed to be an element in the rent. Any operator and any officer of a corporate operator or partner in a partnership which is an operator who willfully fails to charge the tax separately from the rent, or willfully fails to state the tax separately from the rent, or willfully fails to or refuses to collect the tax from the occupant, or refers or causes reference to be made to the tax in any invoice, placard or advertisement in a form other than that required by law, is guilty of a misdemeanor. (See: 19 RCNY § 12-11 for penalties.)
+
+(c) Where the occupant has failed to pay and the operator has failed to collect the tax imposed by law, then, in addition to all other rights, obligations and remedies, such tax shall be payable by the occupant directly to the Commissioner of Finance, and it shall be the duty of the occupant to file a return thereof with the Commissioner of Finance and to pay the tax so imposed to the Commissioner of Finance within 15 days after such tax was due.
+
+(d) All monies collected by the operator or charged by him while acting, or purporting to act, under the law must be paid to the City, even though it is judicially determined that the tax was invalidly imposed.
+
+
+
+
+
+
+*§ 12-09 Surety Bond.* ::
+
+
+(a) Where the Commissioner of Finance in his discretion deems it necessary to protect revenues to be obtained under the law, he may require any operator required to collect the tax to file with him a bond, issued by a surety company authorized to transact business in New York State and approved by the Superintendent of Insurance of New York as to solvency and responsibility, in such amount as the Commissioner of Finance may fix, to secure the payment of any tax and/or penalties and interest due or which may become due from such operator. In the event that the Commissioner of Finance determines that an operator is to file such bond he shall give notice to such operator to that effect, specifying the amount of the bond required. The operator shall file such bond within five days after the giving of such notice, unless within such five days the operator shall request in writing a hearing before the Commissioner of Finance at which the necessity, propriety and amount of the bond shall be determined by the Commissioner of Finance. Such determination shall be final and shall be complied with within 15 days after the giving of notice thereof. In lieu of such bond, securities approved by the Commissioner of Finance, or cash in such amount as he may prescribe, may be deposited, and shall be kept in the custody of the Commissioner of Finance, who may at any time without notice to the depositor apply them to any tax and/or interest or penalties due, and for that purpose the securities may be sold by him at public or private sale without notice to the depositor thereof.
+
+(b) As an alternative to filing a surety bond or depositing securities, the Commissioner of Finance may require or permit an operator required to collect the tax to deposit all taxes which become collectible in any banking institution located in the City, the deposits in which are insured by any agency of the federal government. Such deposits shall be made into and kept in a separate account, in trust and payable to the Commissioner of Finance, until payment over to the Commissioner of Finance. Such account shall remain open, and deposits made therein, until a notice of cancellation is given by the Commissioner of Finance.
+
+
+
+
+
+
+*§ 12-10 Returns To Be Secret.* ::
+
+
+Except in accordance with judicial order or as otherwise provided by law, it is unlawful for the Commissioner of Finance or any officer or employee of the Department of Finance to divulge or make known in any manner any information relating to the business of a taxpayer contained in any return required under the law. The officers charged with the custody of such returns are not required to produce any of them or evidence of anything contained in them in any action or proceeding in any court, except on behalf of the Commissioner of Finance in an action or proceeding under the provisions of the law, or on behalf of any party to any action or proceeding under the provisions of the law when the returns or facts shown thereby are directly involved in such action or proceeding, in either of which events the court may require the production of and may admit in evidence so much of the returns or of the facts shown thereby as are pertinent to the action or proceeding and no more. A taxpayer may obtain a certified copy of any return filed in connection with his tax upon application in writing to the Commissioner. Where a representative of a taxpayer applies for a certified copy of such return, he must file a power of attorney with the application. A certified copy of a taxpayer's return or of information contained therein or relating thereto may be delivered to the United States of America or any department thereof, the State of New York or any department thereof, any agency or any department of the City of New York provided the same is requested for official business. The Corporation Counsel or other legal representatives of the City or the District Attorney of any county within the City may be permitted to inspect returns for official business. Nothing herein shall be construed to prohibit the publication of statistics so classified as to prevent the identification of particular returns or items thereof.
+
+
+
+
+
+
+*§ 12-11 Interest.* ::
+
+
+If any amount of tax is not paid on or before the last day prescribed for payment (without regard to any extension of time granted for payment), interest on such amount at the rate prescribed by the law and the regulations of the Commissioner of Finance shall be paid for the period from such last date to the date of payment. In computing the amount of interest to be paid with respect to taxes which remain or become due on or after July 16, 1985, such interest shall be compounded daily. No interest shall be paid if the amount thereof is less than one dollar.
+
+
+
+
+
+
+*§ 12-12 Penalties.* ::
+
+
+(a) Civil penalties. Any person failing to file a return or to pay any tax due prior to February 24, 1983 within the time required by law shall be subject to a penalty of five percent of the amount due. If the Commissioner of Finance is satisfied that the delay was excusable he may remit all or any part of such penalty. With respect to returns or payments which become due on or after February 24, 1983, the following penalties apply:
+
+   (1) Failure to file return.
+
+      (i) In case of failure to file a return on or before the prescribed date (determined with regard to any extension of time for filing), unless it is shown that such failure is due to reasonable cause (see paragraph (5) of this subdivision) and not due to willful neglect, this is to be added to the amount required to be shown as tax on such return five percent (5%) of the amount of such tax for each month or fraction thereof during which such failure continues, not exceeding twenty-five percent (25%) in the aggregate.
+
+      (ii) With respect to returns required to be filed on or after July 16, 1985, in the case of a failure to file a tax return within 60 days of the date prescribed for filing of such return (determined with regard to any extension of time for filing), unless it is shown that such failure is due to reasonable cause and not due to willful neglect, the addition to tax under subparagraph (i) of this paragraph (1) shall not be less than the lesser of one hundred dollars ($100) or one hundred percent (100%) of the amount required to be shown as tax on such return.
+
+      (iii) For purposes of subparagraphs (i) and (ii), the amount of the tax required to be shown on the return shall be reduced by the amount of any part of the tax which is paid on or before the date prescribed for payment of the tax and by the amount of any credit against the tax which may be claimed on the return.
+
+   (2) Failure to pay tax shown on return. In case of failure to pay the amount shown as tax on a return to be filed on or before the prescribed date (determined with regard to any extension of time for payment), unless it is shown that such failure is due to reasonable cause (see: paragraph (5) of this subdivision (a)) and not due to willful neglect, there shall be added to the amount shown as tax on such return one-half of one percent (1/2%) of the amount of such tax for each month or fraction thereof during which such failure continues, not exceeding twenty-five percent (25%) in the aggregate. For the purpose of computing the addition for any month the amount of tax shown on the return shall be reduced by the amount of any part of the tax which is paid on or before the beginning of such month and by the amount of any credit against the tax which may be claimed on the return. If the amount of tax required to be shown on a return is less than the amount shown as tax on such return, this paragraph shall be applied by substituting such lower amount.
+
+   (3) Failure to pay tax required to be shown on return. In case of failure to pay any amount in respect of any tax required to be shown on a return required to be filed which is not so shown (including a determination made pursuant to 19 RCNY § 12-15), within ten (10) days of the date of notice and demand, unless it is shown that such failure is due to reasonable cause (see: paragraph (5) of this subdivision (a)) and not due to willful neglect, there shall be added to the amount of tax stated in such notice and demand one-half of one percent (1/2%) of such tax for each month or fraction thereof during which such failure continues, not exceeding twenty-five percent (25%) in the aggregate. For the purpose of computing the addition for any month, the amount of tax stated in the notice and demand shall be reduced by the amount of any part of the tax which is paid before the beginning of such month.
+
+   (4) Limitations on additions:
+
+      (i) With respect to any return the amount of the addition to tax is limited to the following:
+
+         (A) At no time will the addition for one (1) month be more than five percent (5%).
+
+         (B) If paragraphs (1) and (2) of this subdivision (a) are both applicable, the addition under paragraph (1) is reduced by the addition under paragraph (2). Thus, the addition to the charge will be four and one-half percent (4 1/2%) under paragraph (1) and one-half of one percent (1/2%) under paragraph (2) for each month up to and including the first five (5) months. After the first five (5) months, the addition of one-half of one percent (1/2%) per month pursuant to paragraph (2) will apply for the next forty-five (45) months for a maximum aggregate of forty-seven and one-half percent (47 1/2%) addition to tax. However, in any case described in subparagraph (ii) of paragraph (1) of this subdivision (relating to returns filed after 60 days of the due date) the amount of the addition to tax under such paragraph (1) shall not be reduced below the amount provided in such subparagraph (i.e. the lesser of $100 or 100% of tax due).
+
+         (C) If paragraphs (1) and (3) of this subdivision (a) are both applicable, the maximum amount of the addition to tax may not exceed twenty-five percent (25%) in the aggregate. The maximum amount of the addition to tax pursuant to paragraph (3) of this subdivision shall be reduced by the amount of the addition to tax pursuant to paragraph (1) of this subdivision (a) (determined without regard to subparagraph (ii) of such paragraph (1), which is attributable to the tax for which the notice and demand is made and which is not paid within ten (10) days of such notice and demand.
+
+      (ii) The provisions of this paragraph may be illustrated by the following examples:
+
+Example A: (a) Assume the taxpayer filed his tax return for the quarter ending February, 1983  on June 25, 1983, and the failure to file on or before the prescribed date is not due to reasonable cause. The tax shown on the return is $800 and a deficiency of $200 is subsequently assessed, making the tax required to be shown on the return, $1,000. The amount shown due on the return of $800 is paid on July 26, 1983. The failure to pay on or before the prescribed date is not due to reasonable cause. There will be imposed, in addition to interest, an additional amount under paragraph (2), of $20.00, which is 2.5 percent (2% for the 4 months from March 21 through July 20, and 0.5% for the fractional part of the month from July 21 through July 26) of the amount shown due on the return of $800. There will also be imposed an additional amount under paragraph (1) of $184, determined as follows:
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 20 percent (5% per month for the 3 months from March 21 through June 20 and 5% for the fractional part of the month from June 20 through June 25) of the amount due of $l,000 required to be shown on the return
+      -  $200 
+    * - Reduced by the amount of the addition imposed under paragraph (2) for those months
+      -  $16 
+    * - Addition to tax under paragraph (1)
+      -  $184 
+~
+
+
+
+ 
+
+Example A: (b) A notice and demand for the $200 deficiency is issued on January 8, 1984, but the taxpayer does not pay the deficiency until December 23, 1984. In addition to interest there will be imposed an additional amount under paragraph (3) of $10, determined as follows: 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - Addition computed without regard to limitation: 6 percent (5 1/2% for the 11 months from January 19, 1984, through December 18, 1984, and 0.5% for the fractional part of the month from December 19 through December 23) of the amount stated in the notice and demand ($200)
+      -  $12 
+    * - Limitation on addition: 25 percent of the amount stated in the notice and demand ($200)
+      -  $50 
+    * - Reduced by the part of the addition under paragraph (1) for failure to file attributable to the $200 deficiency (20% of $200)
+      -  $40 
+    * - Maximum amount of the addition under paragraph (3)
+      -  $10 
+~
+
+
+
+ 
+
+Example B: (a) A taxpayer files his tax return for the quarter ending February, 1983 on November 7, 1983, and such delinquency is not due to reasonable cause. The balance due, as shown on the return, of $500 is paid when the return is filed on November 7, 1983. In addition to interest and the addition for failure to pay under paragraph (2) of $20 (8 months at 0.5% per month, 4%), there will also be imposed an additional amount under paragraph (1) of $112.50, determined as follows: 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - Penalty at 5% for maximum of 5 months, 25% of $500
+      -  $125.00
+    * - Less reduction for the amount of the addition under paragraph (2): 
+      - 
+    * - Amount imposed under paragraph (2) for failure to pay for the months in which there is also an addition for failure to file – 2 1/2 percent for the 5 months March 16 through August 20 of the net amount due ($500)
+      - $12.50
+    * - Additional to tax under paragraph (1)
+      -  $112.50
+~
+
+
+
+ 
+
+   (5) Reasonable cause as used in paragraphs (1), (2) and (3) of this subdivision (a) must be affirmatively shown in a written statement. The taxpayer's previous compliance record may be taken into account. Grounds for reasonable cause, where clearly established, may include the following:
+
+      (i) death or serious illness of the responsible officer or employee of the taxpayer, or his unavoidable absence from his usual place of business;
+
+      (ii) destruction of the taxpayer's place of business or business records by fire or other casualty;
+
+      (iii) timely prepared reports misplaced by a responsible employee discovered after the due date;
+
+      (iv) inability to obtain and assemble essential information required for the preparation of a complete return despite reasonable efforts;
+
+      (v) any other cause for delinquency which appears to a person of ordinary prudence and intelligence as a reasonable cause for delay in filing a return and which clearly indicates an absence of gross negligence or willful intent to disobey the taxing statutes. Past performance should be taken into account. Ignorance of the law, however, will not be considered reasonable cause.
+
+   (6) Underpayment due to negligence.
+
+      (i) If any part of an underpayment is due to negligence or intentional disregard of the law, or rules or regulations thereunder (but without intent to defraud), there shall be added to the tax a penalty in an amount equal to five percent (5%) of the underpayment.
+
+      (ii) With respect to taxes required to be paid on or after July 16, 1985, there shall be added to the tax (in addition to the amount determined under subparagraph (i) of this paragraph) an amount equal to fifty percent (50%) of the interest payable under 19 RCNY § 12-11 with respect to the portion of the underpayment described in such subparagraph (i) which is attributable to the negligence or intentional disregard referred to in such subparagraph (i), for the period beginning on the last date prescribed by law for payment of such underpayment (determined without regard to any extension) and ending on the date of the assessment of the tax (or, if earlier, the date of the payment of the tax).
+
+   (7) Underpayment due to fraud.
+
+      (i) If any part of an underpayment is due to fraud, there shall be added to the tax a penalty in an amount equal to fifty percent (50%) of the underpayment.
+
+      (ii) With respect to taxes required to be paid on or after July 16, 1985, there shall be added to the tax (in addition to the penalty determined under subparagraph (i) of this paragraph) an amount equal to fifty percent (50%) of the interest payable under 19 RCNY § 12-11 with respect to the portion of the underpayment described in such subparagraph (i) which is attributable to fraud, for the period beginning on the last day prescribed by law for payment of such underpayment (determined without regard to any extension) and ending on the date of the assessment of the tax (or, if earlier, the date of the payment of the tax).
+
+      (iii) The penalty under this paragraph (paragraph (7)) shall be in lieu of the maximum twenty-five percent (25%) penalty due to willful neglect for failure to file a return, five percent (5%) penalty due to negligence and the additional one-half of one percent (1/2%) per month penalty pursuant to paragraphs (2) and (3) of this subdivision (a).
+
+   (8) Any person who fails to pay tax, or to make, render, sign or certify any return, or to supply any information within the required time, with fraudulent intent, shall be liable for a penalty of not more than one thousand dollars ($1,000), in addition to any other amounts required under the law to be imposed, assessed and collected by the Commissioner of Finance. The Commissioner of Finance has the power, in his discretion, to waive, reduce or compromise any penalty under this paragraph.
+
+   (9) The additions to tax and penalties provided by this subdivision (a) shall be paid and enforced in the same manner as taxes.
+
+   (10) Whenever a penalty is assessed for failure to pay the tax when due, an application for the remission thereof may be made to the Commissioner of Finance. Such application must be made by the person against whom the penalty is assessed, and must set forth the grounds upon which the remission is requested.
+
+(b) Criminal penalties.
+
+   (1) Any person who willfully fails to file a registration certificate as required by the law and such data in connection therewith as the Commissioner of Finance by regulation or otherwise may require, or willfully fails to display or surrender a certificate of authority as required by the law, or willfully assigns or transfers such certificate of authority, shall be guilty of a misdemeanor, provided, however, that the provisions of this paragraph shall not apply to a failure to surrender a certificate of authority which is required to be surrendered where business never commenced.
+
+   (2) Any person who willfully fails to charge separately the tax imposed under the law or willfully fails to state such tax separately on any bill, statement, memorandum or receipt issued or employed by such person upon which the tax is required to be stated separately as provided in the law, or who shall refer or cause reference to be made to this tax in a form or manner other than required by the law, shall be guilty of a mis- demeanor.
+
+   (3) Failure to collect tax. Any person who willfully fails to collect any tax required to be collected under the law shall be guilty of a misdemeanor.
+
+   (4) Failure to file bond. Any person willfully failing to file a bond where such filing is required under the law shall be guilty of a misdemeanor.
+
+   (5)  Failure to obey subpoena; false testimony.
+
+      (i) Any person who, being duly subpoenaed in connection with a matter arising under the law, to attend as a witness or to produce books, accounts, records, memoranda, documents or other papers,
+
+         (A) fails or refuses to attend without lawful excuse,
+
+         (B) refuses to be sworn,
+
+         (C) refuses to answer any material and proper question, or
+
+         (D) refuses, after reasonable notice, to produce books, papers and documents in his possession or under his control which constitute material and proper evidence shall be guilty of a misdemeanor.
+
+      (ii) Any person who shall testify falsely in any material matter pending before the Commissioner of Finance shall be guilty of and punishable for perjury.
+
+   (6) Willful failure to file a return or report or pay the tax. Any person required to pay any tax or make any return or report, who willfully fails to pay such tax or make such return or report, at the time or times so required, shall be guilty of a misdemeanor.
+
+   (7) Fraudulent returns, reports, statements or other documents.
+
+      (i) Any person who willfully makes and subscribes any return, report, statement or other document which is required to be filed with or furnished to the Commissioner of Finance or to any person, pursuant to the provisions of the law, which he does not believe to be true and correct as to every material matter shall be guilty of a misdemeanor.
+
+      (ii) Any person who willfully delivers or discloses to the Commissioner of Finance or to any person, pursuant to the provisions of the law, any list, return, report, account, statement or other document known by him to be fraudulent or to be false as to any material matter shall be guilty of a misdemeanor.
+
+      (iii) For purposes of this paragraph, the omission by any person of any material matter with intent to deceive shall constitute the delivery or disclosure of a document known by him to be fraudulent or to be false as to any material matter.
+
+   (8) The penalties provided for in this subdivision (b) shall not preclude prosecution pursuant to the penal law with respect to the willful failure of any person to pay over to the City any hotel room occupancy tax imposed by law, whenever such person has been required to collect and has collected any such tax. In any such prosecution under the penal law, a person who has been required to collect and has collected any such tax shall be deemed to have acted in a fiduciary character with respect to the City, and the tax collected shall be deemed to have been entrusted to such person by the City.
+
+(c) Liability of officers or partners and effect of Certificate of Commissioner.
+
+   (1) Officers of a corporate operator and partners in a partnership which is an operator are personally liable for the tax collected or required to be collected by such corporation or partnership, and are subject to the penalties and interest imposed by law.
+
+   (2) The certificate of the Commissioner of Finance to the effect that a tax has not been paid, that a return, bond or registration certificate has not been filed, or that information has not been supplied pursuant to the provisions of the law shall be presumptive evidence thereof.
+
+
+
+
+
+
+*§ 12-13 Refunds.* ::
+
+
+The Commissioner of Finance shall refund or credit, without interest, any tax, penalty or interest erroneously, illegally or unconstitutionally collected or paid, provided:
+
+(a) A written application for refund or credit was made to the Commissioner of Finance within one year from the payment thereof, and
+
+(b) The application is made by the occupant, operator or other person who actually paid the tax, or
+
+(c) The application is made by an operator who collected and paid over such tax to the Commissioner of Finance; however, no refund shall be made until the operator shall first establish to the satisfaction of the Commissioner of Finance that he repaid the occupant the amount for which the application is made. In such case, the period within which application for refund may be made begins when the payment is made by the occupant to the operator. No specific form has been prescribed for refund applications. An application for refund, however, shall be in writing and shall comply with the following requirements:
+
+(d) It must be signed by the applicant or his duly authorized agent. If signed by an agent, the application must be accompanied by a power of attorney acceptable to the Commissioner of Finance.
+
+(e) It must demonstrate that the refund provisions of the law have been complied with.
+
+(f) It must be accompanied by the cancelled check or a photostatic copy thereof, showing both the front and back of the check; or, if paid by cash or money order, by evidence of such payment. Whenever a taxpayer files a claim for refund, such application shall constitute an application for revision of the tax, penalty or interest complained of. The Commissioner of Finance may audit the taxpayer's books and records or may grant the refund subject to future audit. The Commissioner of Finance may determine without resorting to an audit that, based upon the evidence presented, the claim is without merit and, therefore, deny it. The Commissioner of Finance will notify the taxpayer in writing of his determination. Such determination shall become final and irrevocable unless the person to whom it is addressed shall, within 30 days after the date thereof, apply to the Commissioner of Finance for a hearing. A taxpayer shall not be entitled to a refund or credit if he has had a hearing or an opportunity for a hearing in connection with a deficiency assessment as provided by law and by 19 RCNY § 12-15, or has failed to avail himself of the remedies provided thereby, if such refund or credit application is for taxes included in the same period covered by such deficiency assessment.
+
+
+
+
+
+
+*§ 12-14 Records To Be Kept.* ::
+
+
+Every operator is required to keep records of room rentals and of the tax payable thereon. In addition to the general books of account, such records shall also include guests' registration records, rental contracts and leases, banquet records wherever applicable and such other records as will enable the Commissioner of Finance to determine the room rentals and the proportionate part of receipts from sale of food and/or drink which under these regulations constitutes rentals. In addition to the above records, operators must also retain all exemption certificates filed by exempt organizations and by the Federal government, or by the State or City of New York, or by an agency of such governments, and records of all other rentals which are not subject to tax. Exemption certificates from occupants who are not entitled to exemption should not be accepted, and the Commissioner of Finance will reject any exemption certificate obtained from an occupant who is not entitled to exemption. The records hereinabove prescribed are in addition to all other records which must be retained by an operator as provided for in any other State or City tax law. Unless the operator maintains adequate records showing rentals and the tax due thereon, the Commissioner of Finance reserves the right to determine the amount of such rentals and the tax due thereon from such information as may be obtainable and, if necessary, the tax may be estimated on the basis of external indices, such as the number of rooms, location, scale of rents, comparable rents, type of accommodation and service, number of employees and/or other factors. Records of operators are to be open for inspection and examination at any time upon demand by the Commissioner of Finance or his duly authorized agent or employee and must be preserved for a period of three years unless permission in writing is obtained from the Commissioner of Finance to destroy them before the expiration of such period.
+
+
+
+
+
+
+*§ 12-15 Determination of Tax.* ::
+
+
+If a return required by law is not filed or if a return when filed is incorrect or insufficient, the amount of tax due shall be determined by the Commissioner of Finance from such information as may be obtainable and, if necessary, the tax may be estimated on the basis of external indices, such as number of rooms, location, scale of rents, comparable rents, type of accommodations and service, number of employees and/or other factors. Notice of such determination shall be given to the person liable for the collection and/or payment of the tax. Such determination shall finally and irrevocable fix the tax unless the person against whom it is assessed, within 30 days after giving of notice of such determination, shall apply to the Commissioner of Finance for a hearing, or unless the Commissioner of Finance of his own motion shall re-determine the same. After such hearing the Commissioner of Finance shall give notice of his determination to the person against whom the tax is assessed. The determination of the Commissioner of Finance shall be reviewable for error, illegality or unconstitutionality or any other reason whatsoever by a proceeding under Article 78 of the Civil Practice Law and Rules if application therefor is made to the Supreme Court within 30 days after the giving of the notice of such determination. A proceeding under Article 78 of the Civil Practice Law and Rules shall not be instituted unless:
+
+(a) the amount of any tax sought to be reviewed, with penalties and interest thereon, if any, shall be first deposited with the Commissioner of Finance and there shall be filed with the Commissioner of Finance an undertaking, issued by a surety company authorized to transact business in this State and approved by the Superintendent of Insurance of this State as to solvency and responsibility, in such amount as a Justice of the Supreme Court shall approve, to the effect that if such proceeding be dismissed or the tax confirmed, the petitioner will pay all costs and charges which may accrue in the prosecution of the proceeding; or
+
+(b) at the option of the applicant such undertaking filed with the Commissioner of Finance may be in a sum sufficient to cover the taxes, penalties and interest thereon stated in such determination plus the costs and charges which may accrue against it in the prosecution of the proceeding, in which event the application shall net be required to deposit such taxes, penalties and interest as a condition precedent to the application.
+
+
+
+
+
+
+*§ 12-16 Proceedings To Recover Tax.* ::
+
+
+Whenever any operator or any officer of a corporate operator or any occupant or other person shall fail to collect and pay over any tax and/or to pay any tax, penalty or interest imposed by this title, the Corporation Counsel shall, upon the request of the Commissioner of Finance bring or cause to be brought an action to enforce the payment of the same on behalf of the city of New York in any court of the State of New York or of any other state or of the United States. If, however, the Commissioner of Finance, in his discretion, believes that any such operator, officer, occupant or other person is about to cease business, leave the state or remove or dissipate the assets out of which the tax, penalties or interest might be satisfied, and that any such tax, penalty or interest will not be paid when due, he may declare such tax, penalty or interest to be immediately due and payable and may issue a warrant immediately. As an additional or alternate remedy, the Commissioner of Finance may issue a warrant, directed to the City Sheriff commanding him to levy upon and sell the real and personal property of the operator or officer of a corporate operator or of the occupant or other person liable for the tax, which may be found within the City, for the payment of the amount thereof, with any penalties and interest, and the cost of executing the warrant, and to return such warrant to the Commissioner of Finance and to pay to him the money collected by virtue thereof within sixty days after the receipt of such warrant. The City Sheriff shall within five days after the receipt of the warrant file with the County Clerk a copy thereof; and thereupon such clerk shall enter the judgment docket the name of the person mentioned in the warrant and the amount of the tax, penalties and interest for which the warrant is issued and the date when such copy is filed. Thereupon the amount of such warrant so docketed shall become a lien upon the title to and interest in real and personal property of the person against whom the warrant is issued. The City Sheriff shall then proceed upon the warrant, in the same manner, and with like effect, as that provided by law in respect to executions issued against property upon judgments of a court of record, and for services in executing the warrant he shall be entitled to the same fees, which he may collect in the same manner. In the discretion of the Commissioner of Finance a warrant of like terms, force and effect may be issued and directed to any officer or employee of the Finance Department, and in the execution thereof such officer or employee shall have all the powers conferred by law upon sheriffs, but shall be entitled to no fee or compensation in excess of the actual expenses paid in the performance of such duty. If a warrant is returned not satisfied in full, the Commissioner of Finance may from time to time issue new warrants and shall also have the same remedies to enforce the amount due thereunder as if the City has recovered judgment therefor and execution thereon had been returned unsatisfied.
+
+
+
+
+
+
+*§ 12-17 Notice and Limitations of Time.* ::
+
+
+(a) Any notice authorized or required under the provisions of this law may be given by mailing the same to the person for whom it is intended in a postpaid envelope addressed to such person at the address given in the last return filed by him pursuant to the provisions of this law or in any application made by him, or if no return has been filed or application made, then to such address as may be obtainable. The mailing of such notice shall be presumptive evidence of the receipt of the same by the person to whom addressed. Any period of time which is determined according to the provisions of this law by the giving of notice shall commence to run from the date of mailing of such notice.
+
+(b) The provisions of the Civil Practice Law and Rules or any other law relative to limitations of time for the enforcement of a civil remedy shall not apply to any proceeding or action taken by the City to levy, appraise, assess, determine or enforce the collection of any tax, penalty or interest provided by the law. However, except in the case of a willfully false or fraudulent return with intent to evade the tax, no assessment of additional tax shall be made after the expiration of more than three years from the date of the filing of the return; provided, however, that where no return has been filed as provided by law, the tax may be assessed at any time.
+
+(c) Where, before the expiration of the period prescribed herein for the assessment of an additional tax, a taxpayer has consented in writing that such period be extended, the amount of such additional tax due may be determined at any time within such extended period. The period so extended may be further extended by subsequent consents in writing made before the expiration of the extended period.
+
+
+
+
+
+
+*§ 12-18 Reference to Tax.* ::
+
+
+Whenever reference is made in placards or advertisements or in any other publication to the tax, such reference shall be substantially in the following form: "city tax on occupancy of hotel rooms," except that in any bill, receipt, statement or other evidence or memorandum of occupancy or rent charge issued or employed by the operator the words "city tax" will suffice.
+
+
+
+
+
+
+*§ 12-19 Bulk Sales.* ::
+
+
+Whenever an operator shall make a sale, transfer, or assignment in bulk of any part or the whole of his hotel premises or his lease, license or other agreement or right to possess or operate such hotel, or of the equipment, furnishings, fixtures, supplies or stock of merchandise, or the said premises or lease, license or other agreement or right to possess or operate such hotel and the equipment, furnishings, fixtures, supplies and stock of merchandise pertaining to the conduct or operation of said hotel otherwise than in the ordinary and regular prosecution of business, the purchaser, transferee or assignee shall at least ten days before taking possession of the subject of the sale, transfer or assignment, or paying therefor, notify the Commissioner of Finance by registered mail of the proposed sale and of the price, terms, and conditions thereof whether or not the seller, transferrer or assignor has represented to, or informed the purchaser, transferee or assignee that he owes any tax pursuant to law, and whether or not the purchaser, transferee or assignee has knowledge that such taxes are owing, and whether any such taxes are in fact owing. Whenever the purchaser, transferee or assignee shall fail to give notice to the Commissioner of Finance as required by the preceding paragraph, or whenever the Commissioner of Finance shall inform the purchaser, transferee or assignee that a possible claim for such tax or taxes exists, any sums of money, property or choses in action, or other consideration, which the purchaser, transferee or assignee is required to transfer over to the seller, transferrer or assignor shall be subject to a first priority right and lien for any such taxes theretofore or thereafter determined to be due from the seller, transferrer or assignor to the City, and the purchaser, transferee or assignee is forbidden to transfer to the seller, transferrer or assigner any such sums of money, property or choses in action to the extent of the amount of the City's claim. For failure to comply with the provisions of this Section, the purchaser, transferee or assignee, in addition to being subject to the liabilities and remedies imposed under the provisions of Article 6 of the Uniform Commercial Code shall be personally liable for the payment to the City of any such taxes theretofore or thereafter determined to be due to the City from the seller, transferrer or assignor, and such liability may be assessed and enforced in the same manner as the liability for tax under the law.
+
+
+
+
 Chapter 13: Foreclosure of Tax Liens By Action In Rem
 --------------------------------------------------
 
@@ -9312,7 +9312,7 @@ Chapter 13: Foreclosure of Tax Liens By Action In Rem
 
 (c) Default on prior agreement. The Department of Finance shall not approve an application for an installment agreement pursuant to subdivisions (a) or (b) of this section where there has been a default on a previous installment agreement on the same property, and any amount due thereunder, including current taxes and charges and interest accrued thereon, remains unpaid, except that if the property is a class one property or a property owned by a company organized pursuant to article XI of the Private Housing Finance Law with the consent and approval of the Department of Housing Preservation and Development, the Department of Finance may, in its discretion, approve such an application upon recommendation by the Department of Housing Preservation and Development.
 
-(d) These rules shall not apply to any installment agreement requested pursuant to the provisions of § 40-03 of title 19 of the Rules of the City of New York.
+(d) These rules shall not apply to any installment agreement requested pursuant to the provisions of 19 RCNY § 40-03.
 
 (e) As used in these rules, the term "owner" shall mean and include the owner or owners of the freehold of the premises or lesser estate therein, a mortgagee in possession, vendee in possession, assignee of rents, receiver, executor, trustee, lessee, agent, or any other person, firm or corporation, directly or indirectly in control of a property.
 
@@ -9349,7 +9349,7 @@ Where construction work that was the subject of an application for a certificate
 *§ 14-03 Effective Date.* ::
 
 
-(a)  New and previously abandoned projects. For a new project, or an abandoned project as defined in § 14-05(g) of these rules, a certificate of eligibility's effective date will be the date either a newly issued or renewal permit for the project is issued.
+(a)  New and previously abandoned projects. For a new project, or an abandoned project as defined in 19 RCNY § 14-05(g), a certificate of eligibility's effective date will be the date either a newly issued or renewal permit for the project is issued.
 
 (b) Multiple buildings. Where a completed project will result in creating two or more buildings, and separate building permits were obtained, a separate application must be filed for each building. The certificate of eligibility for each building will have its own effective date.
 
@@ -9471,7 +9471,7 @@ Where construction work that was the subject of an application for a certificate
 *§ 14-06 Restricted Activity.* ::
 
 
-Restricted activity means any commercial use of property that is unlawful or a public nuisance, as defined in §   7-703 of the New York City Administrative Code.
+Restricted activity means any commercial use of property that is unlawful or a public nuisance, as defined in § 7-703 of the New York City Administrative Code.
 
 
 
@@ -9599,7 +9599,9 @@ Restricted activity means any commercial use of property that is unlawful or a p
 
    (4) charges to any reserve, contingency or sinking fund;
 
-   (5) the costs of earthwork or demolition except as provided in § 14-05(e) of these rules; (6)  the costs or payments for the extension of streets, sewers, water lines or other public utilities to a site not provided with these services; or
+   (5) the costs of earthwork or demolition except as provided in 19 RCNY § 14-05(e);
+
+   (6) the costs or payments for the extension of streets, sewers, water lines or other public utilities to a site not provided with these services; or
 
    (7) the costs or payments associated with vacating the site and/or existing buildings such as terminating existing leases or tenancies.
 
@@ -9629,7 +9631,7 @@ Restricted activity means any commercial use of property that is unlawful or a p
 
    (2) a permanent certificate of occupancy is received for the completed project.
 
-(e) Multiple Buildings on a Single Tax Lot. To calculate the abatement where a lot contains more than one building or structure (but not all buildings and structures are the subject of a certificate of eligibility for industrial construction work) the property taxes imposed on the tax lot for the year immediately preceding the effective date of the certificate of eligibility will be apportioned among the buildings and structures as provided in § 14-09 of these rules. Only the taxes attributable to the property that is the subject of this certificate of eligibility will be abated.
+(e) Multiple Buildings on a Single Tax Lot. To calculate the abatement where a lot contains more than one building or structure (but not all buildings and structures are the subject of a certificate of eligibility for industrial construction work) the property taxes imposed on the tax lot for the year immediately preceding the effective date of the certificate of eligibility will be apportioned among the buildings and structures as provided in 19 RCNY § 14-09. Only the taxes attributable to the property that is the subject of this certificate of eligibility will be abated.
 
 
 
@@ -9674,7 +9676,9 @@ Chapter 15: Treatment of An International Banking Facility For Purposes of the F
 *§ 15-01 Definitions.* ::
 
 
-(§ 11-641(f), Administrative Code) As used herein, the following terms have these meanings:
+(§ 11-641(f), Administrative Code)
+
+As used herein, the following terms have these meanings:
 
 Bank. The term "bank" means any banking corporation doing a banking business as defined in § 11-640 of the Administrative Code or any similar banking corporation not subject to tax pursuant to Part 4 of Subchapter 3 of Chapter 6 of Title 11 of the Administrative Code that is doing a banking business as defined in § 11-640 of the Administrative Code.
 
@@ -9746,7 +9750,7 @@ United States. The term "United States" means the 50 states and the District of 
 
    (1) Be located within New York City.
 
-   (2) Make loans to and receive deposits from foreign persons as defined in § 15-01, infra. (3) Maintain books and records that accurately reflect gross income, gains, losses, deductions, assets, liabilities, and other activities of the IBF for the taxable year and make available to the Department of Finance upon its request any information necessary to substantiate the deduction determined hereunder. Such information may include, but shall not be limited to:
+   (2) Make loans to and receive deposits from foreign persons as defined in 19 RCNY § 15-01, infra. (3) Maintain books and records that accurately reflect gross income, gains, losses, deductions, assets, liabilities, and other activities of the IBF for the taxable year and make available to the Department of Finance upon its request any information necessary to substantiate the deduction determined hereunder. Such information may include, but shall not be limited to:
 
       (i) a list of all loans made, arranged for, placed, or serviced during the taxable year indicating the borrower, loan number, date proceeds dispersed, maturity date, amount borrowed, and terms;
 
@@ -9764,11 +9768,11 @@ United States. The term "United States" means the 50 states and the District of 
 
 (§ 11-641(f) and (k), Administrative Code)
 
-(a) The adjusted eligible net income of the IBF is allowed as a deduction in computing the taxpayer's entire net income, to the extent not deductible in determining Federal taxable income. This deduction is taken before the taxpayer allocates its entire net income within and without New York City. The adjusted eligible net income of the IBF is determined by subtracting from the eligible net income of the IBF the ineligible funding amount (See: § 15-10, infra – Ineligible Funding Amount) and the floor amount (See: § 15-11, infra – Floor Amount). The eligible net income of the IBF is the amount remaining after subtracting from the eligible gross income of the IBF (See: § 15-04, infra – Eligible gross income) the expenses applicable to such gross income (See: § 15-05, infra – Direct expenses of the IBF, § 15-06, infra – Interest Expense of the IBF, § 15-07, infra – Bad Debt Deduction of the IBF, and § 15-08, infra – Indirect Expenses of the IBF, including Head Office Expenses). When the IBF has eligible gross income and ineligible gross income for the taxable year, eligible net income of the IBF is computed by reducing eligible gross income by those expenses which are apportioned to eligible gross income pursuant to § 15-09, infra.
+(a) The adjusted eligible net income of the IBF is allowed as a deduction in computing the taxpayer's entire net income, to the extent not deductible in determining Federal taxable income. This deduction is taken before the taxpayer allocates its entire net income within and without New York City. The adjusted eligible net income of the IBF is determined by subtracting from the eligible net income of the IBF the ineligible funding amount (See: 19 RCNY § 15-10, infra – Ineligible Funding Amount) and the floor amount (See: 19 RCNY § 15-11, infra – Floor Amount). The eligible net income of the IBF is the amount remaining after subtracting from the eligible gross income of the IBF (See: 19 RCNY § 15-04, infra – Eligible gross income) the expenses applicable to such gross income (See: 19 RCNY § 15-05, infra – Direct expenses of the IBF, 19 RCNY § 15-06, infra – Interest Expense of the IBF, 19 RCNY § 15-07, infra – Bad Debt Deduction of the IBF, and 19 RCNY § 15-08, infra – Indirect Expenses of the IBF, including Head Office Expenses). When the IBF has eligible gross income and ineligible gross income for the taxable year, eligible net income of the IBF is computed by reducing eligible gross income by those expenses which are apportioned to eligible gross income pursuant to 19 RCNY § 15-09, infra.
 
-(b) The eligible gross income of the IBF is the amount of gross income (including gross income from interoffice transactions) derived from the activities described in § 15-04, infra, that would be includible in the computation of the IBF's entire net income for the taxable year, as if the IBF were a separate corporation.
+(b) The eligible gross income of the IBF is the amount of gross income (including gross income from interoffice transactions) derived from the activities described in 19 RCNY § 15-04, infra, that would be includible in the computation of the IBF's entire net income for the taxable year, as if the IBF were a separate corporation.
 
-(c) Expenses applicable to the eligible gross income of the IBF are those expenses or other deductions (including expenses or other deductions from interoffice transactions) described in §§ 15-05, 15-06, 15-07, and 15-08, infra, that are directly or indirectly attributable to the eligible gross income of the IBF.
+(c) Expenses applicable to the eligible gross income of the IBF are those expenses or other deductions (including expenses or other deductions from interoffice transactions) described in 19 RCNY §§ 15-05, 15-06, 15-07, and 15-08, infra, that are directly or indirectly attributable to the eligible gross income of the IBF.
 
 (d) The Commissioner of Finance may, whenever necessary in order to properly reflect the adjusted eligible net income or the entire net income of the taxpayer, determine the taxable year in which any item of income or deduction shall be included without regard to the method of accounting used by the taxpayer.
 
@@ -9782,7 +9786,7 @@ United States. The term "United States" means the 50 states and the District of 
 
 (§ 11-641(f)(2), Administrative Code)
 
-(a) Eligible gross income includes gross income derived from making, arranging for, placing, or servicing loans to foreign persons, except that such gross income derived from those foreign persons described in § 15-04(b) is eligible gross income only when substantially all the proceeds of the loan are for use outside the United States. Eligible gross income includes fees, such as arrangement, commitment, and letter of credit fees received from foreign persons regardless of when or whether the loans are made, and management fees from servicing loans to foreign persons. Eligible gross income includes interest income received from a loan made to or a deposit placed with a foreign person which was purchased without recourse as against any prior owner and meets the restrictions set forth in 12 C.F.R. 204.122. Eligible gross income does not include income received from the purchasing or selling of assets from or to third parties, such as loans (including loan participations), securities, certificates of deposits, and bankers' accep- tances.
+(a) Eligible gross income includes gross income derived from making, arranging for, placing, or servicing loans to foreign persons, except that such gross income derived from those foreign persons described in 19 RCNY § 15-04(b) is eligible gross income only when substantially all the proceeds of the loan are for use outside the United States. Eligible gross income includes fees, such as arrangement, commitment, and letter of credit fees received from foreign persons regardless of when or whether the loans are made, and management fees from servicing loans to foreign persons. Eligible gross income includes interest income received from a loan made to or a deposit placed with a foreign person which was purchased without recourse as against any prior owner and meets the restrictions set forth in 12 C.F.R. 204.122. Eligible gross income does not include income received from the purchasing or selling of assets from or to third parties, such as loans (including loan participations), securities, certificates of deposits, and bankers' accep- tances.
 
 (b) Gross income derived from making, arranging for, placing, or servicing a loan to a foreign person which is:
 
@@ -9804,7 +9808,7 @@ United States. The term "United States" means the 50 states and the District of 
 
    (4) other IBFs. The term "deposit" as used in this subdivision means the amount of money received or held by such foreign person for which it has given or is obligated to give credit, either conditionally or unconditionally, to a deposit liability account, including interest credited to such account, or which is evidenced by such foreign person's certificate of deposit.
 
-(d) Eligible gross income includes gross income derived from foreign exchange trading or hedging transactions that are solely entered into for or directly traceable to any of the transactions described in §§ 15-04(a), 15-04(b) and 15-04(c). Gross income from foreign exchange trading or hedging transactions related to a deposit (as defined in § 15-01, "deposit" supra) from a foreign person, is eligible gross income when such deposit can be traced directly to a transaction described in §§ 15-04(a), 15-04(b) and 15-04(c). A foreign exchange trading or hedging transaction is not solely entered into for or directly traceable to any of the transactions described in §§ 15-04(a), 15-04(b) and 15-04(c) unless the foreign exchange trading or hedging transaction is recorded in the financial accounts of the IBF. The term "foreign exchange trading or hedging transaction" as used in this subdivision means:
+(d) Eligible gross income includes gross income derived from foreign exchange trading or hedging transactions that are solely entered into for or directly traceable to any of the transactions described in 19 RCNY § 15-04(a), (b) and (c). Gross income from foreign exchange trading or hedging transactions related to a deposit (as defined in 19 RCNY § 15-01, "deposit" supra) from a foreign person, is eligible gross income when such deposit can be traced directly to a transaction described in 19 RCNY § 15-04(a), (b) and (c). A foreign exchange trading or hedging transaction is not solely entered into for or directly traceable to any of the transactions described in 19 RCNY §§ 15-04(a), (b) and (c) unless the foreign exchange trading or hedging transaction is recorded in the financial accounts of the IBF. The term "foreign exchange trading or hedging transaction" as used in this subdivision means:
 
    (1) the purchase, sale, or exchange of foreign currency; or
 
@@ -9828,7 +9832,7 @@ United States. The term "United States" means the 50 states and the District of 
 
 (d) Head office expenses that can be specifically identified with the gross income, gains, losses, deductions, assets, liabilities, or other activities of the IBF are directly allocated to the IBF.
 
-(e) If a portion of an expense can be specifically identified with the IBF, that portion of the expense must be directly allocated to the IBF. The portion of such expense that cannot be directly allocated to one or more places of business of the taxpayer must be indirectly allocated to the IBF pursuant to § 15-08, infra.
+(e) If a portion of an expense can be specifically identified with the IBF, that portion of the expense must be directly allocated to the IBF. The portion of such expense that cannot be directly allocated to one or more places of business of the taxpayer must be indirectly allocated to the IBF pursuant to 19 RCNY § 15-08, infra.
 
 
 
@@ -9840,7 +9844,7 @@ United States. The term "United States" means the 50 states and the District of 
 
 (§ 11-641(f)(3), Administrative Code)
 
-(a) Interest expense of the IBF includes interest paid or accrued on funds borrowed by the IBF and/or interest paid or accrued on deposits recorded on the books as IBF liabilities. A taxpayer that determines its interest expense deduction for Federal income tax purposes pursuant to Section 1.882-5 of the Federal income tax regulations (26 C.F.R. 1.882-5) must compute the interest expense of the IBF for New York City tax purposes as described in § 15-06(c). Every other taxpayer must compute the interest expense of the IBF for New York City tax purposes as described in § 15-06(b).
+(a) Interest expense of the IBF includes interest paid or accrued on funds borrowed by the IBF and/or interest paid or accrued on deposits recorded on the books as IBF liabilities. A taxpayer that determines its interest expense deduction for Federal income tax purposes pursuant to Section 1.882-5 of the Federal income tax regulations (26 C.F.R. 1.882-5) must compute the interest expense of the IBF for New York City tax purposes as described in 19 RCNY § 15-06(c). Every other taxpayer must compute the interest expense of the IBF for New York City tax purposes as described in 19 RCNY § 15-06(b).
 
 (b) The interest expense of the IBF is the sum of the amount of interest expense determined in paragraph (1) of this subdivision and the total deemed interest expense determined in paragraph (2) of this subdivision.
 
@@ -9906,7 +9910,7 @@ United States. The term "United States" means the 50 states and the District of 
 
 (§ 11-641 (f)(3), Administrative Code)
 
-(a) In computing direct expenses pursuant to § 15-05, supra, the IBF of a taxpayer must compute its bad debt deduction by using the same method the taxpayer used for Federal income tax purposes. A taxpayer which uses the direct charge-off method to compute its bad debt deduction for Federal income tax purposes, in accordance with subsection (a) of Section 166 of the Internal Revenue Code, will have as its IBF bad debt deduction the aggregate of those specific bad debts of the IBF from loans which produce eligible gross income (hereinafter "IBF loans") which were included in the bad debt deduction for Federal income tax purposes. A bank which maintains a reserve for losses on loans for Federal income tax purposes, in accordance with Section 585 of the Internal Revenue Code, must compute its IBF bad debt deduction and its maximum addition to the reserve balance for losses on loans for purposes of this section by using the same reserve method it used for Federal income tax purposes, that is, either the experience method or the percentage method. When computing the maximum addition to the reserve balance for losses on loans, only the amount of IBF loans that were included in the computation for Federal income tax purposes may be used in the computation for purposes of this section. If the actual bad debt deduction taken for Federal income tax purposes is less than the allowable maximum addition for Federal income tax purposes, the bad debt deduction for purposes of this section is limited to the IBF maximum addition to the reserve balance multiplied by a fraction, the numerator of which is the actual bad debt deduction taken for Federal income tax purposes and the denominator of which is the Federal maximum addition to the reserve balance.
+(a) In computing direct expenses pursuant to 19 RCNY § 15-05, supra, the IBF of a taxpayer must compute its bad debt deduction by using the same method the taxpayer used for Federal income tax purposes. A taxpayer which uses the direct charge-off method to compute its bad debt deduction for Federal income tax purposes, in accordance with subsection (a) of Section 166 of the Internal Revenue Code, will have as its IBF bad debt deduction the aggregate of those specific bad debts of the IBF from loans which produce eligible gross income (hereinafter "IBF loans") which were included in the bad debt deduction for Federal income tax purposes. A bank which maintains a reserve for losses on loans for Federal income tax purposes, in accordance with Section 585 of the Internal Revenue Code, must compute its IBF bad debt deduction and its maximum addition to the reserve balance for losses on loans for purposes of this section by using the same reserve method it used for Federal income tax purposes, that is, either the experience method or the percentage method. When computing the maximum addition to the reserve balance for losses on loans, only the amount of IBF loans that were included in the computation for Federal income tax purposes may be used in the computation for purposes of this section. If the actual bad debt deduction taken for Federal income tax purposes is less than the allowable maximum addition for Federal income tax purposes, the bad debt deduction for purposes of this section is limited to the IBF maximum addition to the reserve balance multiplied by a fraction, the numerator of which is the actual bad debt deduction taken for Federal income tax purposes and the denominator of which is the Federal maximum addition to the reserve balance.
 
 (b) When loans are transferred to the IBF, the taxpayer should transfer to the IBF the portion of the reserve for bad debts maintained by the taxpayer in accordance with the Internal Revenue Code with respect to such loans transferred to the IBF. The portion is transferred as of the date such loans are transferred.
 
@@ -9938,9 +9942,9 @@ United States. The term "United States" means the 50 states and the District of 
 
    (3) Other method. Any other method that the taxpayer establishes to the Commissioner of Finance as a more appropriate method.
 
-(c) Expenses that can be identified with the IBF and one or more places of business of the taxpayer, but not all places of business of the taxpayer, must be allocated by the method that properly reflects the allocation of such expenses to the IBF. The amount of such expenses allocable to the IBF is determined by multiplying such expenses by a fraction computed as described in § 15-08(b). However, in computing such fraction, the denominator is limited to the IBF and those places of business identified with such expenses.
+(c) Expenses that can be identified with the IBF and one or more places of business of the taxpayer, but not all places of business of the taxpayer, must be allocated by the method that properly reflects the allocation of such expenses to the IBF. The amount of such expenses allocable to the IBF is determined by multiplying such expenses by a fraction computed as described in 19 RCNY § 15-08(b). However, in computing such fraction, the denominator is limited to the IBF and those places of business identified with such expenses.
 
-(d) A taxpayer must use the same method in allocating all indirect expenses. The method a taxpayer uses in computing the allocation of indirect expenses as described in § 15-08(b) may not be changed in subsequent years without the written consent of the Commissioner of Finance. If the Commissioner of Finance determines that the method used in allocating expenses, including head office expenses, does not properly reflect the expenses of the IBF, the Commissioner of Finance may require the taxpayer to allocate expenses by a different method.
+(d) A taxpayer must use the same method in allocating all indirect expenses. The method a taxpayer uses in computing the allocation of indirect expenses as described in 19 RCNY § 15-08(b) may not be changed in subsequent years without the written consent of the Commissioner of Finance. If the Commissioner of Finance determines that the method used in allocating expenses, including head office expenses, does not properly reflect the expenses of the IBF, the Commissioner of Finance may require the taxpayer to allocate expenses by a different method.
 
 
 
@@ -9954,9 +9958,9 @@ United States. The term "United States" means the 50 states and the District of 
 
 When the IBF has eligible gross income and ineligible gross income, the expenses that are applicable to eligible gross income shall be the sum of the following amounts:
 
-(a) the amount of direct expenses of the IBF (as determined in § 15-05, § 15-06(b)(1) and § 15-07, supra) for the taxable year that are specifically identified with eligible gross income, and
+(a) the amount of direct expenses of the IBF (as determined in 19 RCNY §§ 15-05, 15-06(b)(1) and 15-07, supra) for the taxable year that are specifically identified with eligible gross income, and
 
-(b) an amount computed by multiplying the sum of direct expenses of the IBF (as determined in § 15-05 and § 15-06(b)(1), supra) for the taxable year that are not specifically identified with either the eligible gross income or the ineligible gross income of the IBF and all indirect expenses of the IBF (as determined in § 15-06 and § 15-08, supra) for the taxable year by a fraction, the numerator of which is the eligible gross income of the IBF for the taxable year and the denominator of which is the gross income of the IBF for the taxable year.
+(b) an amount computed by multiplying the sum of direct expenses of the IBF (as determined in 19 RCNY §§ 15-05 and 15-06(b)(1), supra) for the taxable year that are not specifically identified with either the eligible gross income or the ineligible gross income of the IBF and all indirect expenses of the IBF (as determined in 19 RCNY §§ 15-06 and 15-08, supra) for the taxable year by a fraction, the numerator of which is the eligible gross income of the IBF for the taxable year and the denominator of which is the gross income of the IBF for the taxable year.
 
 
 
@@ -9968,15 +9972,15 @@ When the IBF has eligible gross income and ineligible gross income, the expenses
 
 (§ 11-641(f)(5), Administrative Code)
 
-(a) The ineligible funding amount of the IBF is determined by multiplying eligible net income (See: § 15-03(a), supra) by the following fraction:
+(a) The ineligible funding amount of the IBF is determined by multiplying eligible net income (See: 19 RCNY § 15-03(a), supra) by the following fraction:
 
-   (1) The numerator of the fraction is the average aggregate amount of all liabilities and other sources of funds of the IBF for the taxable year which were not owed to or received from foreign persons (the term "foreign person" is defined in § 15-01, supra).
+   (1) The numerator of the fraction is the average aggregate amount of all liabilities and other sources of funds of the IBF for the taxable year which were not owed to or received from foreign persons (the term "foreign person" is defined in 19 RCNY § 15-01, supra).
 
    (2) The denominator of the fraction is the average aggregate amount of all liabilities and other sources of funds of the IBF for the taxable year.
 
 (b) "All liabilities and other sources of funds of the IBF" includes deposits, advances from the head office or other places of business of the taxpayer, accounts payable, notes and bonds payable, accrued expenses, deferred income, contingent liabilities, taxes payable, appropriated retained earnings (such as reserve for deferred taxes, dividends payable, etc.), unappropriated retained earnings, etc. Certain liabilities that are determined not to be sources of funds may be excluded with the permission of the Commissioner of Finance. The average aggregate amount of all liabilities and other sources of funds of the IBF for the taxable year must be computed on a quarterly basis or, at the option of the taxpayer, on a more frequent basis such as monthly, weekly, or daily. When the taxpayer's usual accounting practice does not permit a quarterly or more frequent computation of the average aggregate amount of all liabilities and other sources of funds, a semi-annual or annual computation may be allowed when it appears that no distortion of the average aggregate amount of all liabilities and other sources of funds will result. Different periods of averaging may be used for different classes of liabilities. If, because of variations in the amount or value of any class of liabilities or other sources of funds, it appears to the Commissioner of Finance that averaging on an annual, semi-annual, or quarterly basis does not properly reflect the average aggregate amount of all liabilities and other sources of funds, the Commissioner of Finance may require averaging on a more frequent basis. The method of determining the average aggregate amount of all liabilities and other sources of funds must be consistent and may not be changed on any subsequent return without the written consent of the Commissioner of Finance.
 
-(c) The principles of separate accounting must be applied in determining the amount of liabilities and other sources of funds, including retained earnings, which were not owed to or received from foreign persons. Unless the taxpayer can substantiate that liabilities and other sources of funds, including retained earnings, were owed to or received from foreign persons, they are deemed to be owed to or received from other than foreign persons and included in the numerator described in § 15-10(a)(1).
+(c) The principles of separate accounting must be applied in determining the amount of liabilities and other sources of funds, including retained earnings, which were not owed to or received from foreign persons. Unless the taxpayer can substantiate that liabilities and other sources of funds, including retained earnings, were owed to or received from foreign persons, they are deemed to be owed to or received from other than foreign persons and included in the numerator described in 19 RCNY § 15-10(a)(1).
 
 
 
@@ -9988,11 +9992,11 @@ When the IBF has eligible gross income and ineligible gross income, the expenses
 
 (§ 11-641(f)(6), Administrative Code)
 
-(a) The floor amount is computed by multiplying the amount remaining, after reducing eligible net income (See: § 15-03(a), supra) by the ineligible funding amount (See: § 15-10(a), supra) by a fraction not greater than one. The fraction is determined as follows:
+(a) The floor amount is computed by multiplying the amount remaining, after reducing eligible net income (See: 19 RCNY § 15-03(a), supra) by the ineligible funding amount (See: 19 RCNY § 15-10(a), supra) by a fraction not greater than one. The fraction is determined as follows:
 
    (1) The numerator is the amount determined in subparagraph (i) of this paragraph multiplied by the applicable percentage stated in subparagraph (ii) of this paragraph minus the amount determined in subparagraph (iii) of this paragraph.
 
-      (i) Determine the average aggregate amount of loans and deposits as described in § 15-11(b) which were properly recorded in the financial accounts of the taxpayer's branches, agencies, and offices within New York State for taxable years beginning in 1975, 1976, and 1977. Loans and deposits related to net income reassigned to New York State by the New York State Tax Commission are not includible for purposes of this subparagraph. The average aggregate amount of such loans and deposits may be determined by reference to the monthly or quarterly reports of the taxpayer to the Federal Reserve Bank of New York, as appropriately modified.
+      (i) Determine the average aggregate amount of loans and deposits as described in 19 RCNY § 15-11(b) which were properly recorded in the financial accounts of the taxpayer's branches, agencies, and offices within New York State for taxable years beginning in 1975, 1976, and 1977. Loans and deposits related to net income reassigned to New York State by the New York State Tax Commission are not includible for purposes of this subparagraph. The average aggregate amount of such loans and deposits may be determined by reference to the monthly or quarterly reports of the taxpayer to the Federal Reserve Bank of New York, as appropriately modified.
 
       (ii) The average aggregate amount determined in subparagraph (i) of this paragraph is multiplied by the following percentages:
 
@@ -10008,13 +10012,13 @@ When the IBF has eligible gross income and ineligible gross income, the expenses
 
          (F) zero percent for the tenth taxable year and thereafter.
 
-      (iii) The product obtained in subparagraph (ii) of this paragraph is reduced by the average aggregate amount of loans and deposits as described in § 15-11(b) which were properly recorded in the financial accounts of the taxpayer's branches, agencies, and offices within New York State (other than the IBF) for the current taxable year. If the amount determined in this subparagraph is greater than the amount determined in subparagraph (ii) of this paragraph, the numerator is zero.
+      (iii) The product obtained in subparagraph (ii) of this paragraph is reduced by the average aggregate amount of loans and deposits as described in 19 RCNY § 15-11(b) which were properly recorded in the financial accounts of the taxpayer's branches, agencies, and offices within New York State (other than the IBF) for the current taxable year. If the amount determined in this subparagraph is greater than the amount determined in subparagraph (ii) of this paragraph, the numerator is zero.
 
-   (2) The denominator is the average aggregate amount of loans and deposits as described in § 15-11(b) which were properly recorded in the financial accounts of the IBF for the taxable year.
+   (2) The denominator is the average aggregate amount of loans and deposits as described in 19 RCNY § 15-11(b) which were properly recorded in the financial accounts of the IBF for the taxable year.
 
 (b) For purposes of this section, the average aggregate amount of the loans described in paragraph (1) of this subdivision and the average aggregate amount of deposits described in paragraph (2) of this subdivision must be computed on a quarterly basis, or at the option of the taxpayer, on a more frequent basis such as monthly, weekly, or daily. When the taxpayer's usual accounting practice does not permit a quarterly or more frequent computation of the average aggregate of such loans and such deposits, a semi-annual or annual computation may be allowed when it appears that no distortion of the average aggregate of such loans and such deposits will result. If, because of variations in the amount or value of such loans and such deposits, it appears to the Commissioner of Finance that averaging on an annual, semi-annual, or quarterly basis does not properly reflect the average aggregate of such loans and such deposits, the Commissioner of Finance may require averaging on a more frequent basis. Any method of determining the average aggregate of such loans and such deposits may not be changed on any subsequent return without the written consent of the Commissioner of Finance.
 
-   (1) Loans means loans to foreign persons. The term "foreign person" is defined in § 15-01, supra.
+   (1) Loans means loans to foreign persons. The term "foreign person" is defined in 19 RCNY § 15-01, supra.
 
    (2) Deposits mean deposits with foreign persons which are:
 
@@ -10105,7 +10109,7 @@ Chapter 16: Letter Rulings
 *§ 16-03 Procedure After Filing a Request for a Ruling.* ::
 
 
-(a) The Office of Legal Affairs will issue an acknowledgement letter upon receipt of a request for a ruling which, on its face, meets the procedural requirements of §§ 16-01 and 16-02. Thereafter, the request will be reviewed for completeness and if it is determined that the request is not complete, or that additional information is required, a notice will be sent to the taxpayer advising him of the nature of the additional information required. The taxpayer may then revise and resubmit his request.
+(a) The Office of Legal Affairs will issue an acknowledgement letter upon receipt of a request for a ruling which, on its face, meets the procedural requirements of 19 RCNY §§ 16-01 and 16-02. Thereafter, the request will be reviewed for completeness and if it is determined that the request is not complete, or that additional information is required, a notice will be sent to the taxpayer advising him of the nature of the additional information required. The taxpayer may then revise and resubmit his request.
 
 (b) A taxpayer may withdraw a request for a ruling at any time within 30 days of the date of the acknowledgement letter. Thereafter, no request for a ruling may be withdrawn without the approval of the Office of Legal Affairs. Where a taxpayer withdraws a request for a ruling, the Department of Finance will not return the application fee accompanying such request. For purposes of the preceding sentence, failure to provide information requested by the Office of Legal Affairs may be deemed a withdrawal of a request for a ruling.
 
@@ -10176,7 +10180,7 @@ Chapter 17: Filing Rules For New York City Income and Excise Taxes
 
 (a) General rule.
 
-   (1) Date of delivery. If any document, as defined in § 17-01(d), required to be filed, or any payment required to be made, within a prescribed period or on or before a prescribed date under authority of any provision of Title 11 of the Administrative Code of the City of New York relating to taxes administered by the Commissioner of Finance is, after such period or date delivered by United States mail to the Commissioner of Finance, bureau, office, officer or person with which or with whom such document is required to be filed or to which or to whom such payment is required to be made, the date of the United States postmark stamped on the envelope will be deemed the date of delivery.
+   (1) Date of delivery. If any document, as defined in 19 RCNY § 17-01(d), required to be filed, or any payment required to be made, within a prescribed period or on or before a prescribed date under authority of any provision of Title 11 of the Administrative Code of the City of New York relating to taxes administered by the Commissioner of Finance is, after such period or date delivered by United States mail to the Commissioner of Finance, bureau, office, officer or person with which or with whom such document is required to be filed or to which or to whom such payment is required to be made, the date of the United States postmark stamped on the envelope will be deemed the date of delivery.
 
    (2) Mailing requirements. Any such document or payment will not be considered to be timely filed or timely made unless the document or payment is mailed in accordance with the following requirements:
 
@@ -10184,7 +10188,7 @@ Chapter 17: Filing Rules For New York City Income and Excise Taxes
 
       (ii) The envelope containing the document or payment must be deposited in the mail of the United States within the prescribed period or on or before the prescribed date with sufficient postage prepaid. For this purpose, such document is considered to be deposited in the mail of the United States when it is deposited with the domestic mail service of the United States Postal Service. The domestic mail service of the United States Postal Service includes mail transmitted within, among and between the United States, its territories and possessions, and Army – Air Force (APO) and Navy (FPO) post offices.
 
-      (iii) The envelope or other wrapper containing the document or payment must bear a date stamped by the United States Postal Service which is within the prescribed period or on or before the prescribed date for the filing of such document, or for making the payment, including any extension granted for such filing or payment. If the postmark stamped by the United States Postal Service on the envelope or wrapper containing the document or payment does not bear a date which falls within the prescribed period or on or before the prescribed date for filing such document, or for making such payment, the document or payment will be considered not to be timely filed, regardless of when the envelope or wrapper containing such document or payment is deposited in the mail. Accordingly, the sender assumes the risk that the envelope containing the document or payment will bear a postmark date stamped by the United States Postal Service within the prescribed period or on or before the prescribed date for the filing of such document, or for making the payment (including any extension of time granted for such filing or payment), but see § 17-01(c) with respect to the use of registered mail or certified mail to avoid this risk. Furthermore, if the postmark made by the United States Postal Service on the envelope or wrapper containing the document or payment is not legible, the person who is required to file the document or make the payment has the burden of proving when the postmark was made.
+      (iii) The envelope or other wrapper containing the document or payment must bear a date stamped by the United States Postal Service which is within the prescribed period or on or before the prescribed date for the filing of such document, or for making the payment, including any extension granted for such filing or payment. If the postmark stamped by the United States Postal Service on the envelope or wrapper containing the document or payment does not bear a date which falls within the prescribed period or on or before the prescribed date for filing such document, or for making such payment, the document or payment will be considered not to be timely filed, regardless of when the envelope or wrapper containing such document or payment is deposited in the mail. Accordingly, the sender assumes the risk that the envelope containing the document or payment will bear a postmark date stamped by the United States Postal Service within the prescribed period or on or before the prescribed date for the filing of such document, or for making the payment (including any extension of time granted for such filing or payment), but see 19 RCNY § 17-01(c) with respect to the use of registered mail or certified mail to avoid this risk. Furthermore, if the postmark made by the United States Postal Service on the envelope or wrapper containing the document or payment is not legible, the person who is required to file the document or make the payment has the burden of proving when the postmark was made.
 
 (b) Postmarks not made by the United States Postal Service.
 
@@ -10230,9 +10234,9 @@ When the last day prescribed under authority of Title 11 of the Administrative C
 *§ 17-03 Electronic Filing and Payment.* ::
 
 
-(a)  General rule. Notwithstanding anything to the contrary in any other section of these rules, in addition to requiring the electronic filing of returns under section 17-04 of these rules, the Commissioner of Finance may establish programs or systems whereby taxpayers or other persons required to file any return, report, or other form required to be filed with the Commissioner under Chapters 5, 6, 7, 9, 11, 12, 14, 21, 24 and 25 of Title 11 of the Administrative Code of the City of New York or the rules relating thereto, may elect to file any designated return through electronic means. As used in this section, the term "designated return" shall mean any return, report or other form required to be filed under such chapters or rules that the Commissioner has designated for filing through electronic means. For purposes of Chapters 5, 6, 7, 9, 11, 12, 14, 21, 24, and 25 of Title 11 of the Administrative Code and these rules, an electronically filed designated return will be deemed to be filed on the date of issuance of a confirmation number or other evidence of filing, by the Commissioner, to the person filing the return. The issuance of such a confirmation number or other evidence of filing by the Commissioner shall be prima facie evidence that the person filed a return, as required under such Chapters or rules. Any designated return filed electronically must be signed electronically by the same natural person or persons who are required to sign or certify the return under any provision of Title 11 of the Administrative Code or under these rules. The required person or persons will be deemed to have electronically signed the return upon the entry of each such person's identifying information in accordance with the instructions set forth by the Commissioner.
+(a)  General rule. Notwithstanding anything to the contrary in any other section of these rules, in addition to requiring the electronic filing of returns under 19 RCNY § 17-04, the Commissioner of Finance may establish programs or systems whereby taxpayers or other persons required to file any return, report, or other form required to be filed with the Commissioner under Chapters 5, 6, 7, 9, 11, 12, 14, 21, 24 and 25 of Title 11 of the Administrative Code of the City of New York or the rules relating thereto, may elect to file any designated return through electronic means. As used in this section, the term "designated return" shall mean any return, report or other form required to be filed under such chapters or rules that the Commissioner has designated for filing through electronic means. For purposes of Chapters 5, 6, 7, 9, 11, 12, 14, 21, 24, and 25 of Title 11 of the Administrative Code and these rules, an electronically filed designated return will be deemed to be filed on the date of issuance of a confirmation number or other evidence of filing, by the Commissioner, to the person filing the return. The issuance of such a confirmation number or other evidence of filing by the Commissioner shall be prima facie evidence that the person filed a return, as required under such Chapters or rules. Any designated return filed electronically must be signed electronically by the same natural person or persons who are required to sign or certify the return under any provision of Title 11 of the Administrative Code or under these rules. The required person or persons will be deemed to have electronically signed the return upon the entry of each such person's identifying information in accordance with the instructions set forth by the Commissioner.
 
-(b) Electronic payment. Notwithstanding anything to the contrary in any other section of these rules, in addition to requiring the electronic payment of tax under section 17-04 of these rules, the Commissioner of Finance may authorize a taxpayer, or other person required to collect and pay over any tax, to pay any tax due or moneys collected by means of an electronic funds transfer (EFT) from the person's cash account. Prior to making a payment of tax or moneys due, a taxpayer, or other person required to collect and pay over any tax, must be authorized by the Department of Finance to make EFT payments. To receive authorization, the taxpayer, or other person required to collect and pay over any tax, must execute an agreement on a form prepared by the Department of Finance in which the taxpayer, or other person required to collect and pay over any tax, furnishes the Department with all the account information requested by the Department to enable it to complete the EFT transaction. Such information shall include, but not be limited to, the name, location and number of the account from which an EFT shall be authorized. Where a taxpayer or other person has been authorized to make payment electronically, any such payment shall be deemed to have been made on a timely basis provided that, on or before midnight of the due date of such payment, the person authorizes the Commissioner to initiate payment and the payer's cash account is properly identified and contains sufficient funds to enable the successful completion of the EFT. For any such payment made electronically, the Commissioner shall debit the payer's account no less than 48 hours from the close of business on the due date of such payment.
+(b) Electronic payment. Notwithstanding anything to the contrary in any other section of these rules, in addition to requiring the electronic payment of tax under 19 RCNY § 17-04, the Commissioner of Finance may authorize a taxpayer, or other person required to collect and pay over any tax, to pay any tax due or moneys collected by means of an electronic funds transfer (EFT) from the person's cash account. Prior to making a payment of tax or moneys due, a taxpayer, or other person required to collect and pay over any tax, must be authorized by the Department of Finance to make EFT payments. To receive authorization, the taxpayer, or other person required to collect and pay over any tax, must execute an agreement on a form prepared by the Department of Finance in which the taxpayer, or other person required to collect and pay over any tax, furnishes the Department with all the account information requested by the Department to enable it to complete the EFT transaction. Such information shall include, but not be limited to, the name, location and number of the account from which an EFT shall be authorized. Where a taxpayer or other person has been authorized to make payment electronically, any such payment shall be deemed to have been made on a timely basis provided that, on or before midnight of the due date of such payment, the person authorizes the Commissioner to initiate payment and the payer's cash account is properly identified and contains sufficient funds to enable the successful completion of the EFT. For any such payment made electronically, the Commissioner shall debit the payer's account no less than 48 hours from the close of business on the due date of such payment.
 
 
 
@@ -10291,7 +10295,7 @@ Chapter 18: Municipal Employees' Charitable Contributions
 *§ 18-01 Definitions.* ::
 
 
-Annual solicitation campaign. "Annual solicitation campaign" shall mean the period of organized solicitation of municipal employees conducted annually by the combined municipal campaign to obtain contributions with respect to the ensuing year of contributions. Charitable non-profit organization. "Charitable non-profit organization" shall mean a private non-profit organization performing charitable services for human health and welfare or recreation, eligible for approval as a coordinating agency, or for membership in the combined municipal campaign in accordance with the provisions of these rules. Combined municipal campaign. "Combined municipal campaign" shall mean the joint campaign of the coordinating agency with one or more other charitable non-profit organizations, based on their written agreement, approved by the director pursuant to § 18-06 of these rules, for the joint conduct and sharing in the result of annual solicitation campaign. Coordinating agency. "Coordinating agency" shall mean a federated community campaign, as defined in section 93-b of the General Municipal Law, which is approved by the director pursuant to § 18-05 of these rules to serve as the agent for the combined municipal campaign. Director. "Director" shall mean the City Personnel Director. Year of contributions. "Year of contributions" shall mean the calendar year or other period designated by the Director for collection of the payroll deductions authorized by municipal employees pursuant to § 93-b of the General Municipal Law on behalf of the Combined Municipal Campaign.
+Annual solicitation campaign. "Annual solicitation campaign" shall mean the period of organized solicitation of municipal employees conducted annually by the combined municipal campaign to obtain contributions with respect to the ensuing year of contributions. Charitable non-profit organization. "Charitable non-profit organization" shall mean a private non-profit organization performing charitable services for human health and welfare or recreation, eligible for approval as a coordinating agency, or for membership in the combined municipal campaign in accordance with the provisions of these rules. Combined municipal campaign. "Combined municipal campaign" shall mean the joint campaign of the coordinating agency with one or more other charitable non-profit organizations, based on their written agreement, approved by the director pursuant to 19 RCNY § 18-06, for the joint conduct and sharing in the result of annual solicitation campaign. Coordinating agency. "Coordinating agency" shall mean a federated community campaign, as defined in section 93-b of the General Municipal Law, which is approved by the director pursuant to 19 RCNY § 18-05 to serve as the agent for the combined municipal campaign. Director. "Director" shall mean the City Personnel Director. Year of contributions. "Year of contributions" shall mean the calendar year or other period designated by the Director for collection of the payroll deductions authorized by municipal employees pursuant to § 93-b of the General Municipal Law on behalf of the Combined Municipal Campaign.
 
 
 
@@ -10335,13 +10339,13 @@ To be eligible as a constituent organization of the coordinating agency or as a 
 *§ 18-04 Coordinating Agency; Qualification Requirements.* ::
 
 
-To be eligible for approval as the coordinating agency, a charitable non-profit organization shall meet all of the conditions specified in § 18-03 of these rules, and in addition, shall
+To be eligible for approval as the coordinating agency, a charitable non-profit organization shall meet all of the conditions specified in 19 RCNY § 18-03, and in addition, shall
 
 (a) constitute a federation of a substantial number of charitable non-profit organizations;
 
 (b) conduct a bona fide program for the provision of services for human health and welfare or recreation services for the aid, support and advancement of a substantial number of residents in the City; and
 
-(c) agree to combine with other eligible charitable non-profit organizations and/or federations of such organizations to form a Combined Municipal Campaign, and serve as agent of the Combined Municipal Campaign as set forth in § 18-06 of these rules.
+(c) agree to combine with other eligible charitable non-profit organizations and/or federations of such organizations to form a Combined Municipal Campaign, and serve as agent of the Combined Municipal Campaign as set forth in 19 RCNY § 18-06.
 
 
 
@@ -10351,7 +10355,7 @@ To be eligible for approval as the coordinating agency, a charitable non-profit 
 *§ 18-05 Approval of Coordinating Agency.* ::
 
 
-(a) To solicit contributions among municipal employees, a charitable non-profit organization eligible pursuant to the conditions specified in § 18-04 of these rules may make written application to the Director for approval as the coordinating agency for the City.
+(a) To solicit contributions among municipal employees, a charitable non-profit organization eligible pursuant to the conditions specified in 19 RCNY § 18-04 may make written application to the Director for approval as the coordinating agency for the City.
 
 (b) In December of every year there shall be made available at the offices of the Director a proposed calendar of events for the preceding years' Combined Municipal Campaign, if any. This schedule shall include a timetable for application.
 
@@ -10365,13 +10369,13 @@ To be eligible for approval as the coordinating agency, a charitable non-profit 
 
    (4) copies of charter or certificate of incorporation, bylaws, latest external audit by a certified public accountant and letter from the Internal Revenue Service certifying tax exempt status pursuant to Section 501(c)(3) of the Internal Revenue Code;
 
-   (5) a listing, by corporate or registered business name, address, and name of the authorized principal representative, of each constituent charitable non-profit organization included in the coordinating agency; the applicant shall certify that it has examined and established compliance by- all of its constituent organizations with the conditions and requirements of eligibility specified in § 18-03 of these rules.
+   (5) a listing, by corporate or registered business name, address, and name of the authorized principal representative, of each constituent charitable non-profit organization included in the coordinating agency; the applicant shall certify that it has examined and established compliance by- all of its constituent organizations with the conditions and requirements of eligibility specified in 19 RCNY § 18-03.
 
 (d) The applicant shall furnish additional information and documentation as requested by the Director.
 
 (e) The Director's determination as to the approval or refusal of an application hereunder shall be conclusive and binding, and written notice thereof shall be given to the applicant.
 
-(f) If it should become necessary to change the coordinating agency while the annual solicitation campaign or the year of contributions is in progress, the Director shall substitute another charitable non-profit organization eligible to be coordinating agency pursuant to § 18-04 of these rules.
+(f) If it should become necessary to change the coordinating agency while the annual solicitation campaign or the year of contributions is in progress, the Director shall substitute another charitable non-profit organization eligible to be coordinating agency pursuant to 19 RCNY § 18-04.
 
 
 
@@ -10381,7 +10385,7 @@ To be eligible for approval as the coordinating agency, a charitable non-profit 
 *§ 18-06 Combined Municipal Campaign; Structure and Operations.* ::
 
 
-(a) For the purposes of conducting a joint annual solicitation campaign and sharing in the contributions of municipal employees obtained therefrom, the coordinating agency shall contract with all other organizations approved pursuant to §§ 18-07 and 18-08 of these rules to form a Combined Municipal Campaign.
+(a) For the purposes of conducting a joint annual solicitation campaign and sharing in the contributions of municipal employees obtained therefrom, the coordinating agency shall contract with all other organizations approved pursuant to 19 RCNY §§ 18-07 and 18-08 to form a Combined Municipal Campaign.
 
 (b) Such contract shall be subject to approval by the Director and shall:
 
@@ -10413,7 +10417,7 @@ To be eligible for approval as the coordinating agency, a charitable non-profit 
 
 (b) Such application shall be made on the form prescribed by the Director and shall be accompanied by all required documentation.
 
-(c) The coordinating agency shall review the applications and approve the applications of all organizations qualified pursuant to § 18-03 of these rules.
+(c) The coordinating agency shall review the applications and approve the applications of all organizations qualified pursuant to 19 RCNY § 18-03.
 
 (d) The coordinating agency shall notify each applicant in writing whether or not it has been accepted as a participating organization in the Combined Municipal Campaign. If an applicant has not been accepted for participation, such notice shall state the reasons therefor, and shall state that the decision may be appealed to the Director within fourteen days.
 
@@ -10447,7 +10451,7 @@ To be eligible for approval as the coordinating agency, a charitable non-profit 
 
 (d) Employees shall be allowed to withdraw their consent to payroll deduction for contribution to charitable non-profit organizations at any time, upon written notice to the Director.
 
-(e) Contributions received by the Combined Municipal Campaign which are not designated for receipt by a particular participating organization shall be distributed among all participating organizations in the following manner: the total amount of such undesignated funds, less administrative expenses agreed upon as provided in § 18-06 of these rules, shall be divided by the total number of participating agencies, and an amount equal to the dividend shall be received by each agency. For the purposes of this calculation, each constituent member of a federation of charitable non-profit organizations shall be counted as a separate participating agency, but the federation to which such member belongs shall receive that member's share of the undesignated funds, to be distributed in accordance with the federation's agreement with its members.
+(e) Contributions received by the Combined Municipal Campaign which are not designated for receipt by a particular participating organization shall be distributed among all participating organizations in the following manner: the total amount of such undesignated funds, less administrative expenses agreed upon as provided in 19 RCNY § 18-06, shall be divided by the total number of participating agencies, and an amount equal to the dividend shall be received by each agency. For the purposes of this calculation, each constituent member of a federation of charitable non-profit organizations shall be counted as a separate participating agency, but the federation to which such member belongs shall receive that member's share of the undesignated funds, to be distributed in accordance with the federation's agreement with its members.
 
 (f) When an employee's paycheck is refunded by the employee's agency to the Department of Finance, any charitable contribution deducted for the period covered by such paycheck shall be returned to the City by the coordinating agency, or recovered by the City from the Combined Municipal Campaign by deduction from subsequent payments.
 
@@ -10466,7 +10470,7 @@ When used in these rules the following terms shall have the meanings herein indi
 
 Individual resident. "Individual resident" means a natural person who maintains a permanent place of abode in the County of New York which is such person's primary residence.
 
-Motor vehicle. "Motor vehicle" means a motor vehicle registered by an individual resident pursuant to the vehicle and traffic law at the address of his or her primary residence in New York County or, in the case of a leased vehicle, registered pursuant to the vehicle and traffic law and leased to an individual resident at the address of his or her primary residence in New York County, and, in either case, which is not used in carrying on any trade, business or commercial activity. The term includes passenger and suburban vehicles, trucks, motorcycles and recreational vehicles.
+Motor vehicle. "Motor vehicle" means a motor vehicle registered by an individual resident pursuant to the vehicle and traffic law at the address of his or her primary residence in New York County or, in the case of a leased vehicle, registered pursuant to the vehicle and traffic law and leased to an individual resident at the address of his or her primary residence in New York County, and, in either case, which is not used in carrying on any trade, business or commercial activity. The term includes passenger and suburban vehicles, trucks, motorcycles and recreational vehicles. 
 
  
 
@@ -10492,7 +10496,7 @@ Motor vehicle. "Motor vehicle" means a motor vehicle registered by an individual
 
 A permanent place of abode. "A permanent place of abode" means a dwelling place permanently maintained by an individual, whether or not owned by him or her. It will generally include a dwelling place owned or leased by his or her spouse. A place of abode is not deemed permanent if it is maintained only during a temporary stay for the accomplishment of a particular purpose.
 
-Primary residence. "Primary residence" means the dwelling place which is a permanent place of abode and where an individual resides or intends to reside more than 183 days in the 12 months following the date of the application for exemption. In determining whether a dwelling place is a primary residence the factors that may be examined include whether the individual identifies that dwelling place as his place of residence in tax returns, for voting registration and motor vehicle registration purposes, on his or her driver's license, or on other documents filed with a public agency. Utility bills (electric, gas or telephone) may also be examined to determine whether a dwelling place is a primary residence.
+Primary residence. "Primary residence" means the dwelling place which is a permanent place of abode and where an individual resides or intends to reside more than 183 days in the 12 months following the date of the application for exemption. In determining whether a dwelling place is a primary residence the factors that may be examined include whether the individual identifies that dwelling place as his place of residence in tax returns, for voting registration and motor vehicle registration purposes, on his or her driver's license, or on other documents filed with a public agency. Utility bills (electric, gas or telephone) may also be examined to determine whether a dwelling place is a primary residence. 
 
  
 
@@ -10501,7 +10505,7 @@ Primary residence. "Primary residence" means the dwelling place which is a perma
     :header-rows: 1
 
     * - Examples:
-      - 
+      -  
     * -  Example 1:  
       - If an individual resides in New York County during Monday through Friday of each week, and maintains a weekend home outside the City, the New York County residence will be deemed primary if more than 183 days are spent there, and in addition, the individual uses that address in filing tax returns and registering his motor vehicle.
     * - Example 2:  
@@ -10548,7 +10552,7 @@ Vendor. "Vendor" means a person operating a garage, parking lot, or other place 
 
    (2) A vendor who receives notification from an individual resident or the Department of Finance that the individual resident no longer qualifies for exemption from the additional 8% tax must collect the additional parking tax on all receipts for parking, garaging or storage services rendered to that individual resident that the vendor receives on or after the date on which the vendor received such notification, unless and until the individual resident subsequently submits a new exemption certificate to the vendor.
 
-(f) A vendor is required to retain all certificates, which must be offered for inspection and examination at any time upon demand by the Commissioner of Finance or his duly authorized agents or employees. A certificate shall be preserved for a period of three years from the due date of the return on which the vendor reports the tax for the last effective month of such certificate, except that the Commissioner may consent to the destruction of the certificates within that period or may require that they be kept longer.
+(f) A vendor is required to retain all certificates, which must be offered for inspection and examination at any time upon demand by the Commissioner of Finance or his duly authorized agents or employees. A certificate shall be preserved for a period of three years from the due date of the return on which the vendor reports the tax for the last effective month of such certificate, except that the Commissioner may consent to the destruction of the certificates within that period or may require that they be kept longer. 
 
  
 
@@ -10557,7 +10561,7 @@ Vendor. "Vendor" means a person operating a garage, parking lot, or other place 
     :header-rows: 1
 
     * - Examples:
-      - 
+      -  
     * - Example 1:  
       - T is an individual resident. T garages a motor vehicle on an annual basis near T's primary residence. Payment for the garaging service is required monthly. The monthly payment period begins on the first day of the month, but T has until the 15th day of the month to pay for the garaging service. T applies for an exemption certificate, which is issued to T on October 10th. The exemption is effective for payments made to the vendor on or after the date on which T submits the certificate to the vendor with respect to parking, garaging or storing services rendered on or after October 1. If T pays for the garaging service on October 11th and submits the certificate on October 12th, the entire amount paid on October 10th is subject to the additional 8% parking tax because the vendor received the payment before T submitted the certificate.
     * - Example 2:  
@@ -10709,7 +10713,7 @@ Chapter 22: Real Estate Tax Abatement On Rent-controlled Property Occupied By El
 *§ 22-03 Periods of Abatement.* ::
 
 
-(a) The periods in which abatements will be recognized by the Department of Finance are as follows:
+(a) The periods in which abatements will be recognized by the Department of Finance are as follows: 
 
  
 
@@ -10862,13 +10866,13 @@ Illustration (iv): A owns real property worth $50,000. B owns real property whic
 
 Illustration (v): A owns real property having a fair market value of $50,000, subject to a $30,000 mortgage. B owns unencumbered realty having a fair market value of $20,000. A and B exchange realty. The consideration for the transfer of A's property is the fair market value of the property received ($20,000) plus the amount of the mortgage upon the realty conveyed ($30,000), or $50,000. The consideration for the transfer of B's property is $20,000. Although B receives consideration having a fair market value of $50,000, only $20,000 of this is in exchange for B's property. The balance ($30,000) is deemed to be in exchange for B's taking A's property subject to the $30,000 mortgage. Since the consideration for B's property is less than $25,000, there is no tax on the transfer of B's property.
 
-   (2) Where a grantee agrees to pay the City and State transfer taxes due on a conveyance, as part of the consideration for the conveyance, the obligations so assumed are included in computing the tax as follows:
+(2) Where a grantee agrees to pay the City and State transfer taxes due on a conveyance, as part of the consideration for the conveyance, the obligations so assumed are included in computing the tax as follows:
 
-      (i) Calculate the "tentative" City and State transfer taxes based on the consideration exclusive of the transfer tax liabilities which the grantee is assuming.
+   (i) Calculate the "tentative" City and State transfer taxes based on the consideration exclusive of the transfer tax liabilities which the grantee is assuming.
 
-      (ii) Add the sum of the "tentative" taxes to the consideration and calculate the City transfer tax (and State transfer tax) to be Paid on the total.
+   (ii) Add the sum of the "tentative" taxes to the consideration and calculate the City transfer tax (and State transfer tax) to be Paid on the total.
 
-To Illustrate: Assume real property is sold for $300,000 with the purchase price being paid in cash (or purchase money mortgage) of $220,000 and by taking subject to a continuing mortgage lien of $80,000, and the grantee agrees to pay the City and State transfer taxes due on the sale. The tax due is computed as follows:
+To Illustrate: Assume real property is sold for $300,000 with the purchase price being paid in cash (or purchase money mortgage) of $220,000 and by taking subject to a continuing mortgage lien of $80,000, and the grantee agrees to pay the City and State transfer taxes due on the sale. The tax due is computed as follows: 
 
  
 
@@ -10883,19 +10887,19 @@ To Illustrate: Assume real property is sold for $300,000 with the purchase price
     * -  Tax Rate
       - × 1% 
     * -  Tentative Tax
-      - $    3,000
+      - $3,000
     * - Tentative State Tax:
       - 
     * -  Consideration
       - $220,000
     * -  Tentative tax at $2 per $500
-      - $       880
+      - $880
     * - City Transfer Tax Due:
       - 
     * -  Consideration
       - $300,000
     * -  Add: Tentative Taxes
-      - 3,880
+      - $3,880
     * -  Taxable Consideration
       - $303,880
     * -  Tax Rate
@@ -10906,21 +10910,21 @@ To Illustrate: Assume real property is sold for $300,000 with the purchase price
 
  
 
-   (3) Consideration in the Case of Transfers of Controlling Economic Interests.
+(3) Consideration in the Case of Transfers of Controlling Economic Interests.
 
-      (i) In the case of the transfer of a controlling economic interest in real property, a proportionate share of the amount of any mortgage on the real property must be added to the amount paid for the stock in a corporation or the interest(s) in a trust, partnership, association, or other unincorporated entity.
+   (i) In the case of the transfer of a controlling economic interest in real property, a proportionate share of the amount of any mortgage on the real property must be added to the amount paid for the stock in a corporation or the interest(s) in a trust, partnership, association, or other unincorporated entity.
 
 To illustrate: X Corporation owns real property in New York City with a fair market value of $1,000,000 but encumbered by a $900,000 mortgage. X's stock is sold for $100,000 cash. The $900,000 mortgage is to be added to the $100,000 cash and the tax computation is based on $1,000,000 of consideration.
 
-      (ii) Where the entity whose stock or ownership interest is being transferred owns other assets in addition to real property, only the consideration attributable to the real property is subject to tax.
+   (ii) Where the entity whose stock or ownership interest is being transferred owns other assets in addition to real property, only the consideration attributable to the real property is subject to tax.
 
-      (iii) (A) An apportionment of the consideration between the real property (or an interest therein) and the other assets, which in the opinion of the Commissioner of Finance represents an apportionment made in good faith, will be accepted by the Department.
+   (iii) (A) An apportionment of the consideration between the real property (or an interest therein) and the other assets, which in the opinion of the Commissioner of Finance represents an apportionment made in good faith, will be accepted by the Department.
 
-         (B) If no apportionment of the consideration for the real property (or interest therein) and the other assets has been made, or if, in the opinion of the Commissioner of Finance, the apportionment of the consideration does not represent an apportionment made in good faith, then the consideration for the real property (or interest therein) shall be calculated by multiplying total consideration by the following ratio: Fair market value of the real property (or interest therein) owned by the entity being transferred. Fair market value of all assets owned by the entity, including the real property (or interest therein) To illustrate:
+      (B) If no apportionment of the consideration for the real property (or interest therein) and the other assets has been made, or if, in the opinion of the Commissioner of Finance, the apportionment of the consideration does not represent an apportionment made in good faith, then the consideration for the real property (or interest therein) shall be calculated by multiplying total consideration by the following ratio: Fair market value of the real property (or interest therein) owned by the entity being transferred. Fair market value of all assets owned by the entity, including the real property (or interest therein) To illustrate:
 
 Illustration a: X Corporation owns real property in New York City with a fair market value of $500,000 and other assets valued at $1,000,000. All of X's stock is sold for $1,500,000 cash. The consideration subject to tax is $500,000.
 
- Illustration b: X Corporation owns real property in New York City with a fair market value of $500,000, but encumbered with a $300,000 mortgage, and other assets valued at $1,000,000. All of X's stock is sold for $1,200,000 cash. The consideration subject to tax is $500,000 calculated as follows:
+Illustration b: X Corporation owns real property in New York City with a fair market value of $500,000, but encumbered with a $300,000 mortgage, and other assets valued at $1,000,000. All of X's stock is sold for $1,200,000 cash. The consideration subject to tax is $500,000 calculated as follows: 
 
  
 
@@ -10929,34 +10933,34 @@ Illustration a: X Corporation owns real property in New York City with a fair ma
     :header-rows: 1
 
     * - Value of real property
-      - $   500,000
+      - $500,000
       - 
     * - Less amount of mortgage
-      - 300,000
+      - $300,000
       - 
     * - Reduced value of real property
       - 
-      - $   200,000
+      - $200,000
     * - Value of other assets
       - 
-      - 1,000,000
+      - $1,000,000
     * - Total reduced value of assets
       - 
       - $1,200,000
     * - Cash paid
       - $1,200,000
       - 
-    * - Cash paid attributable toreal property
+    * - Cash paid attributable to real property
       - 
       - 
     * -   200,000  × $1,200,000 = 1,200,000
-      - 200,000
+      - $200,000
       - 
     * - Add amount of mortgage
-      - 300,000
+      - $300,000
       - 
     * - Total consideration attributable toreal property
-      - $   500,000
+      - $500,000
       - 
 ~
 
@@ -10964,25 +10968,25 @@ Illustration a: X Corporation owns real property in New York City with a fair ma
 
 Illustration c: X Corporation owns real property in New York City with a fair market value of $500,000. Y Corporation owns 100% of the stock of Z Corporation. Z owns real property in New York City with a fair market value of $600,000 and personal property valued at $400,000. X deeds its realty to Y in exchange for 50% of the stock of Z. Two transfer taxes are due. First, the conveyance of X's real property by deed to Y is taxable. The consideration for this conveyance is the Z stock received by X which has a value of $500,000. The total consideration of $500,000 is subject to tax. Second, the transfer of 50% of Z's stock to X is a transfer of a controlling economic interest in real property and, thus, is subject to tax. The consideration for this transfer is the real property valued at $500,000 received by Y. This consideration, however, must be apportioned between Z's real property and its other assets. Accordingly, since the real property represents 60% of Z's total assets, 60% of the consideration, or $300,000, is subject to tax.
 
-      (iv) If the aggregation of related transfers results in the transfer of a controlling economic interest in an entity which owns real property (or an economic interest therein), the tax on such transfer shall be measured only by that part of the consideration for the controlling interest which is apportioned to such real property (or such economic interest therein) which was owned by the entity throughout the period during which the transfers were made.
+   (iv) If the aggregation of related transfers results in the transfer of a controlling economic interest in an entity which owns real property (or an economic interest therein), the tax on such transfer shall be measured only by that part of the consideration for the controlling interest which is apportioned to such real property (or such economic interest therein) which was owned by the entity throughout the period during which the transfers were made.
 
 To illustrate: X Corporation owns two parcels of realty in New York City, Parcel 1 and Parcel 2. Parcel 1 has a fair market value of $1 million and Parcel 2 has a fair market value of $500,000. X also owns other assets valued at $500,000. A owns all of X's outstanding stock. In year 1, A sells 40% of X to B for $800,000. In year 2, X sells Parcel 2 for $500,000. In year 3, A sells 10% of X to C for $200,000. If A's transfers are related, then a controlling economic interest in Parcel 1 has been conveyed. The consideration apportioned to Parcel 1 is calculated by multiplying the consideration for each separate transfer by the ratio of the fair market value of Parcel 1 to the fair market value of X's total Assets. Thus, in year 1 the consideration apportioned to Parcel 1 is calculated as follows:
 
 $1,000,000 × $800,000 = $400,000 $2,000,000
 
- In year 3, the consideration is apportioned to Parcel 1 as follows:
+In year 3, the consideration is apportioned to Parcel 1 as follows:
 
 $1,000,000 × $200,000 = $100,000$2,000,000
 
- Therefore, the total consideration subject to tax is $500,000. (Note: X's transfer of Parcel 2 is also subject to tax.)
+Therefore, the total consideration subject to tax is $500,000. (Note: X's transfer of Parcel 2 is also subject to tax.)
 
-   (4) Cross reference. For rules relating to the determination of consideration in the case of transfers of cooperative units, see § 23-03(h).
+(4) Cross reference. For rules relating to the determination of consideration in the case of transfers of cooperative units, see 19 RCNY § 23-03(h).
 
 Controlling interest. "Controlling interest" shall mean:
 
-   (1) General. In the case of a corporation, 50% or more of the total combined voting power of all classes of stock of such corporation, or 50% or more of the total fair market value of all classes of stock of such corporation; and in the case of a partnership, association, trust or other entity, 50% or more of the capital, profits or beneficial interest in such partnership, association, trust or other entity.
+(1) General. In the case of a corporation, 50% or more of the total combined voting power of all classes of stock of such corporation, or 50% or more of the total fair market value of all classes of stock of such corporation; and in the case of a partnership, association, trust or other entity, 50% or more of the capital, profits or beneficial interest in such partnership, association, trust or other entity.
 
-   (2) Aggregation. A transfer of a controlling economic interest made by one or several persons, or in one or several related transfers, is subject to the transfer tax. Related transfers are aggregated in determining whether a controlling economic interest has been transferred. Related transfers include transfers made pursuant to a plan to either transfer or acquire a controlling economic interest in real property. Transfers made within a three year period are presumed to be related and are aggregated, unless the grantor(s) or grantee(s) can rebut this presumption by proving that the transfers are unrelated. (However, see paragraph (3) of this definition for aggregation of transfers made on recognized exchanges or over-the-counter markets subject to Securities and Exchange Commission regulation.) Transfers aggregated with respect to whether a controlling economic interest has been transferred will also be aggregated with respect to the $25,000 threshold for imposition of the tax and the applicable rate of tax. Transfers made prior to July 13, 1986, are not aggregated. To illustrate:
+(2) Aggregation. A transfer of a controlling economic interest made by one or several persons, or in one or several related transfers, is subject to the transfer tax. Related transfers are aggregated in determining whether a controlling economic interest has been transferred. Related transfers include transfers made pursuant to a plan to either transfer or acquire a controlling economic interest in real property. Transfers made within a three year period are presumed to be related and are aggregated, unless the grantor(s) or grantee(s) can rebut this presumption by proving that the transfers are unrelated. (However, see paragraph (3) of this definition for aggregation of transfers made on recognized exchanges or over-the-counter markets subject to Securities and Exchange Commission regulation.) Transfers aggregated with respect to whether a controlling economic interest has been transferred will also be aggregated with respect to the $25,000 threshold for imposition of the tax and the applicable rate of tax. Transfers made prior to July 13, 1986, are not aggregated. To illustrate:
 
 Illustration (i): X Corporation owns real property in New York City. A, B and C each own 1/3 of X's outstanding stock. A and B, acting in concert, each sell their entire interest in X Corporation to D. B's sale occurs four years after A's sale. The transfers made by A and B are related and, therefore, subject to the transfer tax, even though made more than three years apart.
 
@@ -11020,19 +11024,19 @@ Illustration (xiv): Y Partnership owns real property in New York City. Pursuant 
 
 Illustration (xv): X Corporation owns real property in New York City. A, pursuant to a tender offer plan, seeks to acquire a controlling economic interest in X. If 50% or more of the total combined voting power of all classes of stock or 50% or more of the total fair market value of all classes of stock are transferred to A, then all such transfers are subject to tax as soon as 50% of such stock is conveyed.
 
-   (3) In the case of transfers made on recognized exchanges or on over-the-counter markets subject to regulation by the Securities and Exchange Commission, the following rules will govern:
+(3) In the case of transfers made on recognized exchanges or on over-the-counter markets subject to regulation by the Securities and Exchange Commission, the following rules will govern:
 
-      (i) All transfers made pursuant to a plan are aggregated without regard to amount sold or when sold.
+   (i) All transfers made pursuant to a plan are aggregated without regard to amount sold or when sold.
 
-      (ii) All other sales made within a three year period are presumed to be related, and thus aggregated, except for sales or purchases of less than 5% of a corporation's outstanding stock.
+   (ii) All other sales made within a three year period are presumed to be related, and thus aggregated, except for sales or purchases of less than 5% of a corporation's outstanding stock.
 
-   (4) In the case of a transfer of an ownership interest in an entity which owns an economic interest in real property, where such ownership interest is itself considered an economic interest in real property in accordance with § 23-02 "Economic interest in real property" of these regulations, the percentage of both interests must be considered to determine whether a controlling economic interest in real property has been transferred. To illustrate:
+(4) In the case of a transfer of an ownership interest in an entity which owns an economic interest in real property, where such ownership interest is itself considered an economic interest in real property in accordance with 19 RCNY § 23-02 "Economic interest in real property", the percentage of both interests must be considered to determine whether a controlling economic interest in real property has been transferred. To illustrate:
 
 Illustration (i): A transfers 80% of the stock of X Corporation to B. X owns 70% of the stock of Y Corporation, which owns real property. Assume that A's interest in X is an economic interest in the real property. A has transferred a controlling economic interest in real property to B.
 
- Illustration (ii): Assume the same facts as in illustration (i), except that X Corporation owns only 60% of the stock of Y Corporation. A has not transferred a controlling economic interest in real property to B.
+Illustration (ii): Assume the same facts as in illustration (i), except that X Corporation owns only 60% of the stock of Y Corporation. A has not transferred a controlling economic interest in real property to B.
 
-(For rules on consideration in the cases of transfers of controlling economic interests, see § 23-02 "Consideration"(3). For rules relating to the impact of the exemption for transactions constituting a mere change of identity or form of organization or ownership on transfers of controlling economic interests, see § 23-05(b)(8).)
+(For rules on consideration in the cases of transfers of controlling economic interests, see 19 RCNY § 23-02 "Consideration" (3). For rules relating to the impact of the exemption for transactions constituting a mere change of identity or form of organization or ownership on transfers of controlling economic interests, see 19 RCNY § 23-05(b)(8).)
 
 Deed. "Deed" shall mean any document or writing (other than a will), regardless of where made, executed or delivered, whereby any real property or interest therein is created, vested, granted, bargained, sold, transferred, assigned or otherwise conveyed, including, on and after February 1, 1982, any such document, instrument or writing whereby any leasehold interest in real property is granted, assigned or surrendered. To illustrate:
 
@@ -11046,29 +11050,29 @@ Illustration 4: A collateral assignment of rents due under the terms of a leaseh
 
 Economic interest in real property. "Economic interest in real property" shall mean:
 
-   (1) The ownership of shares of stock in a corporation which owns real property; the ownership of an interest or interests in a partnership, association or other unincorporated entity which owns real property; and the ownership of a beneficial interest or interests in a trust which owns real property.
+(1) The ownership of shares of stock in a corporation which owns real property; the ownership of an interest or interests in a partnership, association or other unincorporated entity which owns real property; and the ownership of a beneficial interest or interests in a trust which owns real property.
 
-   (2) For transfers occurring prior to April 24, 1995, the ownership of shares of stock in a corporation that owns an economic interest in real property, the ownership of an interest or interests in a partnership, association, or other unincorporated entity which owns an economic interest in real property, and the ownership of a beneficial interest or interests in a trust which owns an economic interest in real property, may also constitute an economic interest in real property. The factors to be weighed in determining whether such ownership constitutes an economic interest in real property include the nature of the activities, assets, and purposes of the above-described entities. To illustrate:
+(2) For transfers occurring prior to April 24, 1995, the ownership of shares of stock in a corporation that owns an economic interest in real property, the ownership of an interest or interests in a partnership, association, or other unincorporated entity which owns an economic interest in real property, and the ownership of a beneficial interest or interests in a trust which owns an economic interest in real property, may also constitute an economic interest in real property. The factors to be weighed in determining whether such ownership constitutes an economic interest in real property include the nature of the activities, assets, and purposes of the above-described entities. To illustrate:
 
 Illustration (i): X Corporation is a holding company whose sole asset is 100% of the stock of Y Corporation. Y owns real property located in New York City. Since X exists principally for the purpose of holding stock in a subsidiary which owns real property, the ownership of X stock constitutes an economic interest in real property and the sale prior to April 24, 1995, of all the stock of X Corporation is a transfer of a controlling economic interest in real property.
 
 Illustration (ii): X Corporation is primarily engaged in manufacturing outside of New York City. X does not own real property in the City, but does own 100% of the stock of Y Corporation, which owns real property in the City. Since X does not exist principally for the purpose of holding stock in a subsidiary which owns real property, but rather is substantially engaged in other bona fide activities, the ownership of X stock does not constitute an economic interest in real property and the sale prior to April 24, 1995, of all the stock of X Corporation will not constitute a transfer of a controlling economic interest in real property.
 
-   (3) For transfers occurring on or after April 24, 1995, the ownership of shares of stock in a corporation that owns an economic interest in real property, the ownership of an interest or interests in a partnership, association, or other unincorporated entity which owns an economic interest in real property, and the ownership of a beneficial interest or interests in a trust which owns an economic interest in real property, also constitutes an economic interest in real property. To illustrate:
+(3) For transfers occurring on or after April 24, 1995, the ownership of shares of stock in a corporation that owns an economic interest in real property, the ownership of an interest or interests in a partnership, association, or other unincorporated entity which owns an economic interest in real property, and the ownership of a beneficial interest or interests in a trust which owns an economic interest in real property, also constitutes an economic interest in real property. To illustrate:
 
 Illustration (iii): X Corporation is engaged in manufacturing outside New York City. X Corporation does not own real property in the City but owns 100% of the stock of Y Corporation, which owns real property located in New York City. The ownership of X Corporation stock constitutes an economic interest in real property and the sale on or after April 24, 1995, of all the stock of X Corporation is a transfer of a controlling economic interest in real property. The result would be the same if, instead of owning the property directly, Y Corporation owns 100% of the stock of Z Corporation, which owns the property.
 
- Illustration (iv): X Corporation is engaged in manufacturing outside New York City. X Corporation does not own real property in the City but owns 49% of the stock of Y Corporation, which owns real property in the City. The ownership of X stock constitutes an economic interest in real property. However, a sale on or after April 24, 1995, of all the stock of X Corporation is not subject to tax as a transfer of a controlling economic interest in real property because there has been no transfer of a controlling interest in Y Corporation.
+Illustration (iv): X Corporation is engaged in manufacturing outside New York City. X Corporation does not own real property in the City but owns 49% of the stock of Y Corporation, which owns real property in the City. The ownership of X stock constitutes an economic interest in real property. However, a sale on or after April 24, 1995, of all the stock of X Corporation is not subject to tax as a transfer of a controlling economic interest in real property because there has been no transfer of a controlling interest in Y Corporation.
 
-   (4) For transfers occurring on or after April 24, 1995, of stock in a corporation that owns an economic interest in real property, an interest in a partnership, association, or other unincorporated entity that owns an economic interest in real property, or a beneficial interest in a trust that owns an economic interest in real property, if the transfer would not have constituted a transfer of an economic interest in real property had such transfer occurred prior to April 24, 1995, such transfer will not constitute a transfer of an economic interest in real property if the transfer is made pursuant to a binding written contract entered into prior to April 24, 1995, provided the date of execution of the contract is confirmed by independent evidence, such as the recording of the contract, payment of a deposit or other facts and circumstances determined to be applicable by the commissioner of finance. In addition, transfers occurring prior to April 24, 1995, or on or after April 24, 1995, pursuant to a binding written contract entered into prior to that date, as determined above, of stock in a corporation that owns an economic interest in real property, an interest in a partnership, association, or other unincorporated entity that owns an economic interest in real property, or a beneficial interest in a trust that owns an economic interest in real property that do not or would not constitute transfers of an economic interest in real property will not be aggregated with any other transfer occurring on or after April 24, 1995, in determining whether there has been a transfer of a controlling economic interest in real property. To illustrate:
+(4) For transfers occurring on or after April 24, 1995, of stock in a corporation that owns an economic interest in real property, an interest in a partnership, association, or other unincorporated entity that owns an economic interest in real property, or a beneficial interest in a trust that owns an economic interest in real property, if the transfer would not have constituted a transfer of an economic interest in real property had such transfer occurred prior to April 24, 1995, such transfer will not constitute a transfer of an economic interest in real property if the transfer is made pursuant to a binding written contract entered into prior to April 24, 1995, provided the date of execution of the contract is confirmed by independent evidence, such as the recording of the contract, payment of a deposit or other facts and circumstances determined to be applicable by the commissioner of finance. In addition, transfers occurring prior to April 24, 1995, or on or after April 24, 1995, pursuant to a binding written contract entered into prior to that date, as determined above, of stock in a corporation that owns an economic interest in real property, an interest in a partnership, association, or other unincorporated entity that owns an economic interest in real property, or a beneficial interest in a trust that owns an economic interest in real property that do not or would not constitute transfers of an economic interest in real property will not be aggregated with any other transfer occurring on or after April 24, 1995, in determining whether there has been a transfer of a controlling economic interest in real property. To illustrate:
 
 Illustration (v): X Corporation is engaged in manufacturing outside New York City. X Corporation does not own real property in the City but does own 75% of the stock of Y Corporation, which owns real property in the City. In December, 1994, the sole shareholder of X Corporation entered into a binding written agreement to sell all her shares of X Corporation stock. At that time, the purchaser made the required down payment, which the shareholder deposited in her bank account. The closing took place on May 1, 1995 at which time the shares of X Corporation stock were delivered to the purchaser in exchange for the balance of the purchase price. The transfer of the X shares on May 1, 1995 is not subject to tax as a transfer of a controlling economic interest in real property because it took place pursuant to a binding written contract entered into prior to April 24, 1995.
 
- Illustration (vi): X Corporation is engaged in manufacturing outside New York City. X Corporation does not own real property in the City but does own 75% of the stock of Y Corporation, which owns real property in the City. A, B and C each own 20% of X Corporation and D owns the remaining 40% of the stock. On March 30, 1995, A sold his 20% of the X Corporation stock to E, an unrelated party. On May 1, 1995, B and C transfer their X Corporation stock to E. Because A's transfer occurred prior to April 24, 1995, his transfer is not aggregated with the transfers by B and C. Therefore, because B's and C's transfers represent only 40% of the X Corporation stock, there has been no transfer of a controlling economic interest in Y Corporation.
+Illustration (vi): X Corporation is engaged in manufacturing outside New York City. X Corporation does not own real property in the City but does own 75% of the stock of Y Corporation, which owns real property in the City. A, B and C each own 20% of X Corporation and D owns the remaining 40% of the stock. On March 30, 1995, A sold his 20% of the X Corporation stock to E, an unrelated party. On May 1, 1995, B and C transfer their X Corporation stock to E. Because A's transfer occurred prior to April 24, 1995, his transfer is not aggregated with the transfers by B and C. Therefore, because B's and C's transfers represent only 40% of the X Corporation stock, there has been no transfer of a controlling economic interest in Y Corporation.
 
- Illustration (vii): X Corporation is engaged in manufacturing outside New York City. X Corporation does not own real property in the City but does own 100% of the stock of Y Corporation, which owns real property in the City. A, B and C each own 20% of X Corporation and D owns the remaining 40% of the stock. On March 30, 1995, A sold his 20% of the X Corporation stock to E, an unrelated party. On May 1, 1995, B and D transfer their X Corporation stock to E. Because B's and D's transfers represent 60% of the X Corporation stock, those transfers are subject to the tax as a transfer of a controlling economic interest in Y Corporation. However, because A's transfer occurred prior to April 24, 1995, his transfer is not aggregated with the transfers by B and D and is not subject to the tax.
+Illustration (vii): X Corporation is engaged in manufacturing outside New York City. X Corporation does not own real property in the City but does own 100% of the stock of Y Corporation, which owns real property in the City. A, B and C each own 20% of X Corporation and D owns the remaining 40% of the stock. On March 30, 1995, A sold his 20% of the X Corporation stock to E, an unrelated party. On May 1, 1995, B and D transfer their X Corporation stock to E. Because B's and D's transfers represent 60% of the X Corporation stock, those transfers are subject to the tax as a transfer of a controlling economic interest in Y Corporation. However, because A's transfer occurred prior to April 24, 1995, his transfer is not aggregated with the transfers by B and D and is not subject to the tax.
 
-   (5) In the case of a transfer of an ownership interest in an entity owning an economic interest in real property, where such ownership interest, itself, constitutes an economic interest in real property under these rules, the percentage of both interests must be considered to determine whether a controlling economic interest in real property has been transferred. (See § 23-02 "Controlling interest" (3))
+(5) In the case of a transfer of an ownership interest in an entity owning an economic interest in real property, where such ownership interest, itself, constitutes an economic interest in real property under these rules, the percentage of both interests must be considered to determine whether a controlling economic interest in real property has been transferred. (See 19 RCNY § 23-02 "Controlling interest" (3))
 
 Electronic return."Electronic return" shall mean the completed real property transfer tax return in the electronic format prescribed by and formatted by the Department of Finance and available through the internet website of the Department of Finance, and filed electronically through the Department of Finance website.
 
@@ -11080,7 +11084,7 @@ Grantor. "Grantor" shall mean the person or persons making, executing or deliver
 
 Instrument. "Instrument" shall mean any document or writing (other than a deed or a will), regardless of where made, executed or delivered, whereby any economic interest in real property is transferred.
 
-Net Consideration. "Net Consideration" shall mean any consideration, exclusive of any mortgage or other lien or encumbrance on the real property or interest therein which existed before the delivery of the deed and remains thereon after the delivery of the deed. The term "net consideration", as a basis for computing the real property transfer tax, applies to conveyances made prior to February 1, 1982, or conveyances made after that date if made in performance of a contract executed prior thereto. It also applies to conveyances made on or after February 1, 1982 and before July 1, 1982 where the conveyance involves a 1, 2 or 3 family house or individual residential condominium unit or where the consideration for the conveyance is less than $500,000. (See § 23-03 of these Regulations.) In determining the amount of net consideration, only the amounts of liens and encumbrances on the property existing before the sale and not removed thereby may be deducted. Thus, for example, taxes or assessments which are liens on the property before the sale and are not paid at the time of sale are deductible. No deduction shall be made on account of any lien or encumbrance placed on the property in connection with the sale, or by reason of deferred payments of the purchase price whether represented by notes or otherwise. As used herein, the term "sale" refers to the delivery of the deed. To illustrate:
+Net Consideration. "Net Consideration" shall mean any consideration, exclusive of any mortgage or other lien or encumbrance on the real property or interest therein which existed before the delivery of the deed and remains thereon after the delivery of the deed. The term "net consideration", as a basis for computing the real property transfer tax, applies to conveyances made prior to February 1, 1982, or conveyances made after that date if made in performance of a contract executed prior thereto. It also applies to conveyances made on or after February 1, 1982 and before July 1, 1982 where the conveyance involves a 1, 2 or 3 family house or individual residential condominium unit or where the consideration for the conveyance is less than $500,000. (See 19 RCNY § 23-03.) In determining the amount of net consideration, only the amounts of liens and encumbrances on the property existing before the sale and not removed thereby may be deducted. Thus, for example, taxes or assessments which are liens on the property before the sale and are not paid at the time of sale are deductible. No deduction shall be made on account of any lien or encumbrance placed on the property in connection with the sale, or by reason of deferred payments of the purchase price whether represented by notes or otherwise. As used herein, the term "sale" refers to the delivery of the deed. To illustrate:
 
 Illustration 1: A parcel of real property is sold for $50,000 subject to an existing mortgage of $35,000 which remains thereon after delivery of the deed. The mortgage is not treated as part of the net consideration for the conveyance. Consequently, the tax is to be computed upon the net consideration, viz: $15,000 ($50,000 – $35,000).
 
@@ -11212,13 +11216,13 @@ Example: X Corporation owns two parcels of commercial property in New York City.
 
    (5) Realty distributed by a corporation in redemption for stock or by a partnership in return for the surrender of a partnership interest. Example:
 
-Example (i): A, B, C and D are equal shareholders of X Corporation. X owns two buildings in New York City. In 1990, X redeems A's shares in exchange for one of the buildings, which is unencumbered and valued at $250,000 (Parcel 1). X's other building is also unencumbered and valued at $750,000 (Parcel 2). X has no other assets. The value of A's shares is $250,000. The consideration for this transfer is the X stock owned by A. Therefore, the amount of tax due is $3,562.50 (1.425% × $250,000). If the redemption occurs on or after June 9, 1994, the transfer would be exempt as a mere change of identity or form of ownership or organization to the extent the beneficial ownership of the real property remained the same. Because A had a 25% beneficial ownership interest in Parcel 1 before the redemption and a 100% beneficial interest afterwards, the transfer of Parcel 1 to A is exempt as a mere change of identity or form of ownership or organization to the extent of 25%. Therefore only 75% of the consideration or $187,500 ($250,000 × 75%) is subject to tax. The tax is calculated by multiplying $187,500 by the applicable tax rate of 1.425% for a tax due of $2,671.88. See § 23-05(b)(8) of these rules. Example (ii): Assume the same facts as in example (i) above, except that, in 1990, instead of redeeming A's shares in exchange for Parcel 1, X redeems the shares of B, C, and D in exchange for Parcel 2. In this case, there are two taxable transfers. The first is the transfer by X of Parcel 2 to B, C, and D in exchange for consideration consisting of the X stock owned by B, C and D. The value of B, C, and D's shares is $750,000. The amount of tax due is $19,687.50 (2.625% × $750,000). If the transaction occurred on or after June 9, 1994, the transfer of Parcel 2 to B, C, and D in exchange for consideration consisting of the X stock owned by B, C and D would be exempt as a mere change of identity or form of ownership or organization to the extent the beneficial ownership of the real property remained the same. Because B, C and D collectively had a 75% beneficial ownership interest in Parcel 2 before the redemption (25% each) and 100% afterwards, the distribution of Parcel 2 is exempt from tax as a mere change of identity or form of ownership or organization to the extent of 75%. Therefore, only 25% of the $750,000 consideration is subject to the tax. The tax due is calculated by multiplying the taxable consideration of $187,500 (25% × $750,000) by the applicable tax rate (2.625%) for a tax due of $4,921.88. See § 23-05(b)(8) of these rules. The second taxable transfer is the transfer by B, C, and D of a 75% interest in Parcel 1 to A, the remaining shareholder. Since this constitutes a transfer of a controlling economic interest in Parcel 1, it is also taxable. The consideration for the transfer is a proportionate part of Parcel 2 received by B, C, and D in exchange for their X stock. B, C, and D's stock represented their 75% interest in all of the assets of X prior to the redemption. Since Parcel 1 constituted 25% of the assets of X, 25% of the consideration, or $187,500, must be apportioned to B, C, and D's interest in Parcel 1. Thus, the tax due is $2,671.88 (1.425% × $187,500).
+Example (i): A, B, C and D are equal shareholders of X Corporation. X owns two buildings in New York City. In 1990, X redeems A's shares in exchange for one of the buildings, which is unencumbered and valued at $250,000 (Parcel 1). X's other building is also unencumbered and valued at $750,000 (Parcel 2). X has no other assets. The value of A's shares is $250,000. The consideration for this transfer is the X stock owned by A. Therefore, the amount of tax due is $3,562.50 (1.425% × $250,000). If the redemption occurs on or after June 9, 1994, the transfer would be exempt as a mere change of identity or form of ownership or organization to the extent the beneficial ownership of the real property remained the same. Because A had a 25% beneficial ownership interest in Parcel 1 before the redemption and a 100% beneficial interest afterwards, the transfer of Parcel 1 to A is exempt as a mere change of identity or form of ownership or organization to the extent of 25%. Therefore only 75% of the consideration or $187,500 ($250,000 × 75%) is subject to tax. The tax is calculated by multiplying $187,500 by the applicable tax rate of 1.425% for a tax due of $2,671.88. See 19 RCNY § 23-05(b)(8).
+
+Example (ii): Assume the same facts as in example (i) above, except that, in 1990, instead of redeeming A's shares in exchange for Parcel 1, X redeems the shares of B, C, and D in exchange for Parcel 2. In this case, there are two taxable transfers. The first is the transfer by X of Parcel 2 to B, C, and D in exchange for consideration consisting of the X stock owned by B, C and D. The value of B, C, and D's shares is $750,000. The amount of tax due is $19,687.50 (2.625% × $750,000). If the transaction occurred on or after June 9, 1994, the transfer of Parcel 2 to B, C, and D in exchange for consideration consisting of the X stock owned by B, C and D would be exempt as a mere change of identity or form of ownership or organization to the extent the beneficial ownership of the real property remained the same. Because B, C and D collectively had a 75% beneficial ownership interest in Parcel 2 before the redemption (25% each) and 100% afterwards, the distribution of Parcel 2 is exempt from tax as a mere change of identity or form of ownership or organization to the extent of 75%. Therefore, only 25% of the $750,000 consideration is subject to the tax. The tax due is calculated by multiplying the taxable consideration of $187,500 (25% × $750,000) by the applicable tax rate (2.625%) for a tax due of $4,921.88. See 19 RCNY § 23-05(b)(8). The second taxable transfer is the transfer by B, C, and D of a 75% interest in Parcel 1 to A, the remaining shareholder. Since this constitutes a transfer of a controlling economic interest in Parcel 1, it is also taxable. The consideration for the transfer is a proportionate part of Parcel 2 received by B, C, and D in exchange for their X stock. B, C, and D's stock represented their 75% interest in all of the assets of X prior to the redemption. Since Parcel 1 constituted 25% of the assets of X, 25% of the consideration, or $187,500, must be apportioned to B, C, and D's interest in Parcel 1. Thus, the tax due is $2,671.88 (1.425% × $187,500).
 
    (6) A conveyance of realty in exchange for other realty. Each transfer of realty is subject to tax. The consideration for each transfer is the fair market value of the realty and other property received in exchange for the realty conveyed.
 
-(e) Conveyances to corporations and partnerships. 
-
-(Any reference made to realty or property includes an economic interest in realty. For transfers on or after June 9, 1994, see § 23-05(b) 8) of these rules for rules relating to the exemption for transactions constituting a mere change of identity or form of ownership or organization.)
+(e) Conveyances to corporations and partnerships. (Any reference made to realty or property includes an economic interest in realty. For transfers on or after June 9, 1994, see 19 RCNY § 23-05(b)(8) for rules relating to the exemption for transactions constituting a mere change of identity or form of ownership or organization.)
 
    (1) Corporations.
 
@@ -11228,11 +11232,17 @@ Example (i): A, B, C and D are equal shareholders of X Corporation. X owns two b
 
       (iii) Notwithstanding subparagraph (ii) of this paragraph (1), a conveyance of realty to a corporation organized by the grantor for the purpose of holding or holding and operating the property is subject to tax, even where the conveyance is made some time after the issuance of the capital stock. In such event, the issuance of the stock and the conveyance of the realty are considered elements of a single transaction. The consideration for the realty is deemed to be equal in value to the greater of the fair market value of the realty conveyed or the amount of any mortgage, lien or other encumbrance on the realty.
 
-      (iv) On or after June 9, 1994, a conveyance of realty or an economic interest in realty to a corporation is exempt as a mere change of identity or form of ownership or organization to the extent the beneficial ownership of the real property remains the same, whether or not shares of stock are issued in exchange. See § 23-05(b)(8) of these rules.
+      (iv) On or after June 9, 1994, a conveyance of realty or an economic interest in realty to a corporation is exempt as a mere change of identity or form of ownership or organization to the extent the beneficial ownership of the real property remains the same, whether or not shares of stock are issued in exchange. See 19 RCNY § 23-05(b)(8).
 
-   (2) Corporate mergers. A transfer of real property in a statutory merger or consolidation from a constituent corporation to the continuing or new corporation is not subject to tax. However, the related transfer of shares of stock in a statutory merger or consolidation may be subject to tax. For statutory mergers or consolidations occurring on or after June 9, 1994, the related transfer of shares of stock is exempt from tax to the extent the beneficial ownership in the real property or economic interest in real property remains the same. See § 23-05(b)(8) of these rules. To illustrate:
+   (2) Corporate mergers. A transfer of real property in a statutory merger or consolidation from a constituent corporation to the continuing or new corporation is not subject to tax. However, the related transfer of shares of stock in a statutory merger or consolidation may be subject to tax. For statutory mergers or consolidations occurring on or after June 9, 1994, the related transfer of shares of stock is exempt from tax to the extent the beneficial ownership in the real property or economic interest in real property remains the same. See 19 RCNY § 23-05(b)(8). To illustrate:
 
-Illustration (i): X Corporation owns real property in New York City with a fair market value of $300,000 and has cash of $100,000. X is to be merged into Y Corporation under Article 9 of the New York Business Corporation Law. Prior to the merger, Y Corporation owns no real property in New York City. Under the plan of merger, shareholders of X will receive consideration valued at $400,000 consisting of 25% of the stock of Y and cash. The shares of X exchanged or converted under the merger plan for the cash and stock of Y represent a controlling economic interest in real property and the transfer of such shares constitutes a taxable transfer. The shareholders of X, therefore, are subject to tax as a result of the statutory merger. If the transaction occurs prior to June 9, 1994, the tax would be measured by that portion of the value of X's stock which is attributable to the real property ($300,000). A deed confirming title to property vested in the surviving Y Corporation pursuant to section 906(b)(2) of the New York Business Corporation Law will not be subject to the transfer tax. If the transaction occurs on or after June 9, 1994, the tax on the transfer of a controlling economic interest in X would be exempt to the extent that the beneficial ownership in the real property remains the same. In that event, because the X shareholders receive 25% of the stock of Y and therefore retain a 25% beneficial interest in the real property previously owned by X, the transaction would be exempt to the extent of 25% and the tax would be imposed on 75% of the value of the consideration attributable to the real property (75% of $300,000 or $225,000). See § 23-05(b)(8) of these rules. Illustration (ii): X Corporation owns 100% of the stock of Y Corporation. Y owns real property in New York City. Pursuant to the statutory merger provisions of state law, Y is merged into X on January 1, 1995. Because X was the 100% beneficial owner of the property before the transaction and remains the 100% beneficial owner of the property afterwards, the transaction is exempt as a mere change of identity or form of ownership or organization. Because the issuance of shares of X in exchange for the Y shares would not affect X's beneficial interest in Y's real property, the result would be the same regardless of whether under applicable state law the Y shares are deemed exchanged for X shares pursuant to the merger. Illustration (iii): X Corporation owns 100% of the stock of corporations Y and Z. Y owns real property in New York City. Pursuant to the statutory merger provisions of state law, Y is to be merged into Z on January 1, 1995. Because X was the 100% beneficial owner of the property before the transaction and remains the 100% beneficial owner of the property afterwards, the transaction is exempt as a mere change of identity or form of ownership or organization. Because the issuance of Z shares in exchange for the Y shares would not affect X's beneficial interest in Y's real property, the result would be the same regardless of whether under applicable state law the Y shares are deemed exchanged for Z shares pursuant to the merger. Illustration (iv): X Corporation owns unencumbered real property in New York City with a fair market value of $300,000 and has cash of $150.000. Z Corporation owns real property in New York City with a fair market value of $450,000 and has no other assets. On January 1, 1995, X is merged into Z pursuant to the statutory merger provisions of state law. The shareholders of X Corporation will receive a 40% interest in Z and the $150,000 cash. Because the exchange or conversion of 100% of the X stock into shares of Z by the shareholders of X is effected pursuant to the plan of merger approved by them, the exchanges by the X shareholders are aggregated. Therefore, the merger results in a taxable transfer of a controlling economic interest in the real property owned by X. The tax will be measured by the consideration for that portion of X's stock attributable to the real property ($300,000). The transfer is exempt as a mere change of identity or form of ownership or organization to the extent the beneficial ownership of the real property remains the same. Because the former shareholders of X will receive a 40% interest in Z Corporation, each receiving a proportionate share of Z stock and cash, the beneficial ownership of the property owned by X will remain the same to the extent of 40% Therefore, $180,000 (60% × $300,000) of the consideration is subject to tax. The tax due as a result of the merger is $2,565 (1.425% × $180,000). The transfer of the 40% interest in Z Corporation to the former shareholders of X Corporation is not a transfer of a controlling economic interest in Z Corporation and is not subject to tax. A deed confirming title to property vested in Z Corporation pursuant to the merger will not be subject to the transfer tax.
+Illustration (i): X Corporation owns real property in New York City with a fair market value of $300,000 and has cash of $100,000. X is to be merged into Y Corporation under Article 9 of the New York Business Corporation Law. Prior to the merger, Y Corporation owns no real property in New York City. Under the plan of merger, shareholders of X will receive consideration valued at $400,000 consisting of 25% of the stock of Y and cash. The shares of X exchanged or converted under the merger plan for the cash and stock of Y represent a controlling economic interest in real property and the transfer of such shares constitutes a taxable transfer. The shareholders of X, therefore, are subject to tax as a result of the statutory merger. If the transaction occurs prior to June 9, 1994, the tax would be measured by that portion of the value of X's stock which is attributable to the real property ($300,000). A deed confirming title to property vested in the surviving Y Corporation pursuant to section 906(b)(2) of the New York Business Corporation Law will not be subject to the transfer tax. If the transaction occurs on or after June 9, 1994, the tax on the transfer of a controlling economic interest in X would be exempt to the extent that the beneficial ownership in the real property remains the same. In that event, because the X shareholders receive 25% of the stock of Y and therefore retain a 25% beneficial interest in the real property previously owned by X, the transaction would be exempt to the extent of 25% and the tax would be imposed on 75% of the value of the consideration attributable to the real property (75% of $300,000 or $225,000). See 19 RCNY § 23-05(b)(8).
+
+Illustration (ii): X Corporation owns 100% of the stock of Y Corporation. Y owns real property in New York City. Pursuant to the statutory merger provisions of state law, Y is merged into X on January 1, 1995. Because X was the 100% beneficial owner of the property before the transaction and remains the 100% beneficial owner of the property afterwards, the transaction is exempt as a mere change of identity or form of ownership or organization. Because the issuance of shares of X in exchange for the Y shares would not affect X's beneficial interest in Y's real property, the result would be the same regardless of whether under applicable state law the Y shares are deemed exchanged for X shares pursuant to the merger.
+
+Illustration (iii): X Corporation owns 100% of the stock of corporations Y and Z. Y owns real property in New York City. Pursuant to the statutory merger provisions of state law, Y is to be merged into Z on January 1, 1995. Because X was the 100% beneficial owner of the property before the transaction and remains the 100% beneficial owner of the property afterwards, the transaction is exempt as a mere change of identity or form of ownership or organization. Because the issuance of Z shares in exchange for the Y shares would not affect X's beneficial interest in Y's real property, the result would be the same regardless of whether under applicable state law the Y shares are deemed exchanged for Z shares pursuant to the merger.
+
+Illustration (iv): X Corporation owns unencumbered real property in New York City with a fair market value of $300,000 and has cash of $150.000. Z Corporation owns real property in New York City with a fair market value of $450,000 and has no other assets. On January 1, 1995, X is merged into Z pursuant to the statutory merger provisions of state law. The shareholders of X Corporation will receive a 40% interest in Z and the $150,000 cash. Because the exchange or conversion of 100% of the X stock into shares of Z by the shareholders of X is effected pursuant to the plan of merger approved by them, the exchanges by the X shareholders are aggregated. Therefore, the merger results in a taxable transfer of a controlling economic interest in the real property owned by X. The tax will be measured by the consideration for that portion of X's stock attributable to the real property ($300,000). The transfer is exempt as a mere change of identity or form of ownership or organization to the extent the beneficial ownership of the real property remains the same. Because the former shareholders of X will receive a 40% interest in Z Corporation, each receiving a proportionate share of Z stock and cash, the beneficial ownership of the property owned by X will remain the same to the extent of 40% Therefore, $180,000 (60% × $300,000) of the consideration is subject to tax. The tax due as a result of the merger is $2,565 (1.425% × $180,000). The transfer of the 40% interest in Z Corporation to the former shareholders of X Corporation is not a transfer of a controlling economic interest in Z Corporation and is not subject to tax. A deed confirming title to property vested in Z Corporation pursuant to the merger will not be subject to the transfer tax.
 
    (3) Partnerships.
 
@@ -11242,7 +11252,7 @@ Illustration (i): X Corporation owns real property in New York City with a fair 
 
       (iii) Notwithstanding subparagraph (ii) of this paragraph (3), a conveyance of realty to a partnership organized by the grantor(s) for the purpose of holding or holding and operating the property is subject to tax, even where the conveyance is made some time after the acquisition of the partnership interest. In such event, the acquisition of the partnership interest and the conveyance of the realty are considered elements of a single transaction. The consideration for the realty is deemed to be equal in value to the greater of the fair market value of the realty conveyed or the amount of any mortgage, lien or other encumbrance on the realty.
 
-      (iv) On or after June 9, 1994, a conveyance of realty or an economic interest in realty to a partnership, regardless of whether the partnership is an existing partnership or whether interests in the partnership are issued in exchange for the realty or economic interest therein, is exempt as a mere change of identity or form of ownership or organization to the extent the beneficial ownership of the real property remains the same. See § 23-05(b)(8) of these rules.
+      (iv) On or after June 9, 1994, a conveyance of realty or an economic interest in realty to a partnership, regardless of whether the partnership is an existing partnership or whether interests in the partnership are issued in exchange for the realty or economic interest therein, is exempt as a mere change of identity or form of ownership or organization to the extent the beneficial ownership of the real property remains the same. See 19 RCNY § 23-05(b)(8).
 
       (v) The term "partnership" shall include a subchapter k limited liability company, as defined in § 11-126 of the Administrative Code and the term "partner" or the term "member" when used in relation to a limited liability company shall include a member of a subchapter k limited liability company, unless the context requires otherwise.
 
@@ -11278,19 +11288,29 @@ See § 23-05(b)(8) of these rules for rules governing the exemption from tax of 
 
 Illustration A: X Corporation owns real property in New York City with a fair market value of $1,000,000, encumbered by a mortgage of $900,000. X also owns other assets having a fair market value of $500,000. X is in the process of complete liquidation and has transferred all of its assets to its stockholders in complete cancellation of its outstanding stock. The tax is measured by the fair market value of the realty transferred ($1,000,000). Illustration B: Assume the same facts as in illustration (A) above, except that the mortgage on the realty is $1,100,000. The tax is measured by consideration of $1,100,000. Illustration C: X Corporation owns two parcels of real property in New York City, Parcel A and Parcel B. Parcel A has a fair market value of $l,000,000 and is encumbered by a mortgage of $1,300,000. Parcel B has a fair market value of $700,000 and is encumbered by a mortgage of $600,000. X liquidates. The tax on the transfer of Parcel A is measured by consideration of $1,300,000. The tax on the transfer of Parcel B is measured by its fair market value of $700,000.
 
-      (iii) For liquidations on or after June 9, 1994, the tax is measured by the greater of the fair market value or the consideration as defined in subparagraph B of subparagraph (i) of this paragraph. However, the liquidation may be wholly or partially exempt as a mere change of identity or form of ownership or organization. See § 23-05(b)(8) of these rules.
+      (iii) For liquidations on or after June 9, 1994, the tax is measured by the greater of the fair market value or the consideration as defined in subparagraph B of subparagraph (i) of this paragraph. However, the liquidation may be wholly or partially exempt as a mere change of identity or form of ownership or organization. See 19 RCNY § 23-05(b)(8).
 
-Illustration A: X Corporation owns real property in New York City with a fair market value of $1,000,000, encumbered by a mortgage of $900,000. X has no other assets. X is owned equally by two stockholders, A and B. On January 1, 1995, X distributes all of its assets to its stockholders in complete liquidation. A and B each receive a 50% interest in the property. Because A and B each had a 50% beneficial ownership interest in the real property prior to the liquidation and have retained the same interest after the liquidation, the transfer is exempt from tax as a mere change of identity or form of ownership or organization. Illustration B: X Corporation is owned 60% by A and 40% by B. X owns an office building in New York City with a value of $1,000,000 subject to a mortgage of $700,000 and has cash of $500,000. X distributes the real property, subject to the mortgage, and $180,000 of cash to A and $320,000 of cash to B in complete liquidation on January 1, 1995. The measure of tax for the distribution of the real property is $1,000,000. However, because A had a 60% interest in the real property prior to the distribution and a 100% interest in the real property following the distribution, the distribution is exempt from tax as a mere change of identity or form of ownership or organization to the extent of 60%. Therefore only 40% of the measure of tax, $400,000, is subject to tax. The tax is $10,500 . The higher tax rate applies because the total measure of tax for the distribution exceeded $500,000.
+Illustration A: X Corporation owns real property in New York City with a fair market value of $1,000,000, encumbered by a mortgage of $900,000. X has no other assets. X is owned equally by two stockholders, A and B. On January 1, 1995, X distributes all of its assets to its stockholders in complete liquidation. A and B each receive a 50% interest in the property. Because A and B each had a 50% beneficial ownership interest in the real property prior to the liquidation and have retained the same interest after the liquidation, the transfer is exempt from tax as a mere change of identity or form of ownership or organization.
+
+Illustration B: X Corporation is owned 60% by A and 40% by B. X owns an office building in New York City with a value of $1,000,000 subject to a mortgage of $700,000 and has cash of $500,000. X distributes the real property, subject to the mortgage, and $180,000 of cash to A and $320,000 of cash to B in complete liquidation on January 1, 1995. The measure of tax for the distribution of the real property is $1,000,000. However, because A had a 60% interest in the real property prior to the distribution and a 100% interest in the real property following the distribution, the distribution is exempt from tax as a mere change of identity or form of ownership or organization to the extent of 60%. Therefore only 40% of the measure of tax, $400,000, is subject to tax. The tax is $10,500 . The higher tax rate applies because the total measure of tax for the distribution exceeded $500,000.
 
    (2) Economic interests.
 
       (i) When a liquidating entity transfers an economic interest in real property, the tax on the transfer of that portion of the interest representing a given parcel is measured by the greater of a proportionate share of the fair market value of the parcel or a proportionate share of the amount of any mortgage, lien or other encumbrance upon the parcel. This rule applies whether the total value of the economic interest in the entity owning the real property is greater or less than the value of the realty. (For liquidations on or after June 9, 1994, see subparagraph (ii) of this paragraph.) To illustrate:
 
-Illustration A: X Corporation transfers all of its assets to its stockholders in complete liquidation. X owns 100% of the stock of Y Corporation. Y owns real property in New York City with a fair market value of $1,000,000. Y has other assets valued at $500,000. Y's stock has a fair market value of $1,500,000. The measure of the tax on the transfer of the stock in Y is the fair market value of Y's real property ($1,000,000). Illustration B: Assume the same facts as in illustration (i) above, except that Y has liabilities of $850,000 and its stock has a fair market value of $650,000. The measure of the tax on the transfer of the stock in Y is $1,000,000. Illustration C: Assume the same facts as in illustration (i) above, except that Y's real property is encumbered by a mortgage of $1,200,000 and the stock in Y has a fair market value of $300,000. The measure of the tax on the transfer of the stock in Y is the consideration for the real property ($1,200,000). Illustration D: X Corporation owns real property in New York City (Parcel A) with a fair market value of $1,000,000, encumbered by a mortgage of $1,200,000. X also owns 100% of the stock in Y Corporation. Y owns two parcels of realty in New York City, Parcel B and Parcel C. Parcel B has a fair market value of $1,000,000, and is encumbered by a mortgage of $900,000. Parcel C has a fair market value of $500,000 and is unencumbered. Y has other liabilities of $500,000. The fair market value of the stock in Y is $100,000. X liquidates. The tax on the transfer of Parcel A is measured by consideration of $1,200,000. The tax on the transfer of the stock in Y representing Parcel B is measured by the fair market value of Parcel B ($1,000,000). The tax on the transfer of the stock in Y representing Parcel C is measured by the fair market value of Parcel C ($500,000).
+Illustration A: X Corporation transfers all of its assets to its stockholders in complete liquidation. X owns 100% of the stock of Y Corporation. Y owns real property in New York City with a fair market value of $1,000,000. Y has other assets valued at $500,000. Y's stock has a fair market value of $1,500,000. The measure of the tax on the transfer of the stock in Y is the fair market value of Y's real property ($1,000,000).
 
-   (ii) For liquidations on or after June 9, 1994, when a liquidating entity transfers an economic interest in real property, the tax on the transfer of that portion of the interest representing a given parcel is measured by the greater of a proportionate share of the fair market value of the parcel or a proportionate share of the amount of any mortgage, lien or other encumbrance upon the parcel, reduced to the extent the beneficial ownership of the real property remains the same after the liquidation. See § 23-05(b)(8) of these rules.
+Illustration B: Assume the same facts as in illustration (i) above, except that Y has liabilities of $850,000 and its stock has a fair market value of $650,000. The measure of the tax on the transfer of the stock in Y is $1,000,000.
 
-Illustration A: The sole asset of X Corporation is 100% of the stock of Y Corporation. Y owns unencumbered real property in New York City with a fair market value of $1,000,000. On January 1, 1995, X Corporation transfers all of its assets to its two stockholders, A and B, in complete liquidation. A and B each own 50% of X Corporation stock and receive equal shares of X's assets upon liquidation. The measure of the tax on the distribution of the Y stock is the fair market value of Y's real property ($1,000,000). However, because A and B each had a 50% beneficial interest in the Y stock prior to the liquidation and each retained that interest, the transfer of the stock is fully exempt from tax as a mere change of identity or form of ownership or organization. Illustration B: Same facts as above except that X Corporation also has cash of $500,000 and A receives this cash and 25% of the Y stock in the liquidation. B receives the other 75% interest in Y stock. The distribution of 100% of the Y stock to A and B represents a transfer of a 100% economic interest in real property. The measure of tax for the distribution of 100% of the Y stock is $1,00,000. Because A owned a 50% interest in Y stock prior to the distribution and retains a 25% interest while B owned a 50% interest in the Y stock prior to the distribution and has a 75% interest following the distribution, the distribution of the Y stock is exempt from tax as a mere change of identity or form of ownership or organization to the extent of 75% (25% + 50%) and only 25% of the measure of tax for the distribution, or $250,000, is subject to tax. The tax due is $6,562.50 (2.625% × $250,000). The higher tax rate applies because the total measure of tax for the distribution exceeded $500,000.
+Illustration C: Assume the same facts as in illustration (i) above, except that Y's real property is encumbered by a mortgage of $1,200,000 and the stock in Y has a fair market value of $300,000. The measure of the tax on the transfer of the stock in Y is the consideration for the real property ($1,200,000).
+
+Illustration D: X Corporation owns real property in New York City (Parcel A) with a fair market value of $1,000,000, encumbered by a mortgage of $1,200,000. X also owns 100% of the stock in Y Corporation. Y owns two parcels of realty in New York City, Parcel B and Parcel C. Parcel B has a fair market value of $1,000,000, and is encumbered by a mortgage of $900,000. Parcel C has a fair market value of $500,000 and is unencumbered. Y has other liabilities of $500,000. The fair market value of the stock in Y is $100,000. X liquidates. The tax on the transfer of Parcel A is measured by consideration of $1,200,000. The tax on the transfer of the stock in Y representing Parcel B is measured by the fair market value of Parcel B ($1,000,000). The tax on the transfer of the stock in Y representing Parcel C is measured by the fair market value of Parcel C ($500,000).
+
+   (ii) For liquidations on or after June 9, 1994, when a liquidating entity transfers an economic interest in real property, the tax on the transfer of that portion of the interest representing a given parcel is measured by the greater of a proportionate share of the fair market value of the parcel or a proportionate share of the amount of any mortgage, lien or other encumbrance upon the parcel, reduced to the extent the beneficial ownership of the real property remains the same after the liquidation. See 19 RCNY § 23-05(b)(8).
+
+Illustration A: The sole asset of X Corporation is 100% of the stock of Y Corporation. Y owns unencumbered real property in New York City with a fair market value of $1,000,000. On January 1, 1995, X Corporation transfers all of its assets to its two stockholders, A and B, in complete liquidation. A and B each own 50% of X Corporation stock and receive equal shares of X's assets upon liquidation. The measure of the tax on the distribution of the Y stock is the fair market value of Y's real property ($1,000,000). However, because A and B each had a 50% beneficial interest in the Y stock prior to the liquidation and each retained that interest, the transfer of the stock is fully exempt from tax as a mere change of identity or form of ownership or organization.
+
+Illustration B: Same facts as above except that X Corporation also has cash of $500,000 and A receives this cash and 25% of the Y stock in the liquidation. B receives the other 75% interest in Y stock. The distribution of 100% of the Y stock to A and B represents a transfer of a 100% economic interest in real property. The measure of tax for the distribution of 100% of the Y stock is $1,00,000. Because A owned a 50% interest in Y stock prior to the distribution and retains a 25% interest while B owned a 50% interest in the Y stock prior to the distribution and has a 75% interest following the distribution, the distribution of the Y stock is exempt from tax as a mere change of identity or form of ownership or organization to the extent of 75% (25% + 50%) and only 25% of the measure of tax for the distribution, or $250,000, is subject to tax. The tax due is $6,562.50 (2.625% × $250,000). The higher tax rate applies because the total measure of tax for the distribution exceeded $500,000.
 
    (3) A distribution of realty or an economic interest therein within 12 months of the liquidation of the distributing entity will be presumed to be a distribution in liquidation.
 
@@ -11308,7 +11328,7 @@ Example 4: A Corporation owns an unencumbered office building in New York City w
 
    (1) A conveyance of realty (or an economic interest therein) by a sponsor or other party to an entity formed for the purpose of cooperative ownership of real property (including a cooperative housing corporation) is subject to the tax. The consideration includes the amount of cash paid or required to be paid, the amount of any mortgages, liens or encumbrances on the realty and the fair market value of interests in the cooperative entity received by the sponsor. Consideration shall not be reduced by the amount of any expenses incurred by the sponsor, including payments made to a reserve fund or working capital fund.
 
-   (2) Notwithstanding the definition of "controlling interest" contained in § 23-01 or anything to the contrary contained in these rules, the transfer of shares of stock in a cooperative housing corporation in connection with the grant or transfer of a proprietary leasehold is subject to tax in the following situations:
+   (2) Notwithstanding the definition of "controlling interest" contained in 19 RCNY § 23-01 or anything to the contrary contained in these rules, the transfer of shares of stock in a cooperative housing corporation in connection with the grant or transfer of a proprietary leasehold is subject to tax in the following situations:
 
       (i) In the case of the original transfer of cooperative housing corporation stock by the cooperative corporation or cooperative plan sponsor;
 
@@ -11316,7 +11336,7 @@ Example 4: A Corporation owns an unencumbered office building in New York City w
 
       (iii) In the case of any subsequent transfer of the cooperative corporation stock by the owner thereof made on or after August 1, 1989. Where such a transfer relates to an individual residential unit, the consideration for such a transfer shall not include any portion of the unpaid principal of any mortgage on the real property of the cooperative housing corporation. For the purposes of this paragraph (2), in the case of transfers made on or after August 1, 1989, the term "cooperative housing corporation" shall not include a housing company organized and operating pursuant to the provisions of Article 2, 4, 5 or 11 of the Private Housing Finance Law.
 
-   (3) Notwithstanding the definition of "controlling interest" contained in § 23-01 or anything to the contrary contained in these rules, in the case of a corporation (other than a cooperative housing corporation), partnership, association, trust or other entity formed for the purpose of cooperative ownership of real property, the transfer tax shall apply to each transfer made on or after August 1, 1989 of shares of stock in such corporation, interests in such partnership, association or other entity or beneficial interests in such trust, in connection with the grant or transfer of a proprietary leasehold. Where such a transfer relates to an individual residential unit (other than the original transfer of such a unit by the cooperative entity or cooperative plan sponsor), the consideration for such transfer shall not include any portion of the unpaid principal of any mortgage on the real property of such corporation, partnership, association, trust or other entity.
+   (3) Notwithstanding the definition of "controlling interest" contained in 19 RCNY § 23-01 or anything to the contrary contained in these rules, in the case of a corporation (other than a cooperative housing corporation), partnership, association, trust or other entity formed for the purpose of cooperative ownership of real property, the transfer tax shall apply to each transfer made on or after August 1, 1989 of shares of stock in such corporation, interests in such partnership, association or other entity or beneficial interests in such trust, in connection with the grant or transfer of a proprietary leasehold. Where such a transfer relates to an individual residential unit (other than the original transfer of such a unit by the cooperative entity or cooperative plan sponsor), the consideration for such transfer shall not include any portion of the unpaid principal of any mortgage on the real property of such corporation, partnership, association, trust or other entity.
 
    (4) For purposes of paragraphs (2) and (3) of this subdivision, a transfer shall not be deemed made on or after August 1, 1989 if such a transfer was made pursuant to a written contract entered into before July 25, 1989, provided that the date of execution of such contract is confirmed by independent evidence, such as recording of the contract, payment of a deposit or other facts and circumstances as determined by the Commissioner of Finance.
 
@@ -11326,15 +11346,41 @@ Example 4: A Corporation owns an unencumbered office building in New York City w
 
    (7) The following examples illustrate the application of paragraph (2) of this subdivision only to transfers made before August 1, 1989:
 
-Example 1: An individual purchases stock from a cooperative housing corporation or cooperative plan sponsor which is allocated to an occupied apartment. Thereafter the individual sells this stock together with his proprietary leasehold. The transfer tax applies to each transfer. The initial transfer by the cooperative housing corporation or sponsor is subject to the transfer tax. In addition, the subsequent transfer by the individual who has subleased the apartment is a transfer of stock held in connection with a commercial activity and is, therefore, also subject to the transfer tax. Example 2: An individual purchases stock from a cooperative housing cooperation or sponsor as an "insider" and occupies the apartment unit allocated to the stock for residential purposes. The individual then transfers the stock along with the proprietary leasehold to another. The initial transfer from the cooperative housing corporation or sponsor to the individual "insider" is subject to the transfer tax. The sale by the resident individual "insider" to another is not subject to the transfer tax. Example 3: A commercial artist owns stock in a cooperative housing corporation and holds a proprietary leasehold on an apartment therein. The artist both resides and maintains a studio in this apartment. The sale of this stock is subject to the transfer tax. Although the artist resides in the apartment, the stock was nevertheless held in connection with his business. The tax is based on the total amount paid for the stock. No apportionment of the consideration for the portion of the apartment used for residential purposes is permitted.
+Example 1: An individual purchases stock from a cooperative housing corporation or cooperative plan sponsor which is allocated to an occupied apartment. Thereafter the individual sells this stock together with his proprietary leasehold. The transfer tax applies to each transfer. The initial transfer by the cooperative housing corporation or sponsor is subject to the transfer tax. In addition, the subsequent transfer by the individual who has subleased the apartment is a transfer of stock held in connection with a commercial activity and is, therefore, also subject to the transfer tax.
+
+Example 2: An individual purchases stock from a cooperative housing cooperation or sponsor as an "insider" and occupies the apartment unit allocated to the stock for residential purposes. The individual then transfers the stock along with the proprietary leasehold to another. The initial transfer from the cooperative housing corporation or sponsor to the individual "insider" is subject to the transfer tax. The sale by the resident individual "insider" to another is not subject to the transfer tax.
+
+Example 3: A commercial artist owns stock in a cooperative housing corporation and holds a proprietary leasehold on an apartment therein. The artist both resides and maintains a studio in this apartment. The sale of this stock is subject to the transfer tax. Although the artist resides in the apartment, the stock was nevertheless held in connection with his business. The tax is based on the total amount paid for the stock. No apportionment of the consideration for the portion of the apartment used for residential purposes is permitted.
 
 For transfers made before August 1, 1989, in determining whether a cooperative apartment used for residential purposes is also used for business purposes, the Commissioner of Finance will consider, among other factors, whether a home office expense deduction has been claimed for federal income tax purposes and whether the premises have been held out to clients or customers as a place of business within the 24 months preceding the sale.
 
-Example 4: (A) An individual owns stock in a cooperative housing corporation and holds the proprietary lease for an apartment which he rents to a residential tenant. The sale of this stock is subject to the transfer tax. The renting of an apartment is a commercial activity and the stock is considered to be held in connection with that commercial activity. (B) An individual owns stock in a cooperative housing corporation and holds the proprietary lease for an apartment which is occupied rent-free by a close family member. The sale of the stock is not subject to the transfer tax. Example 5: A subleased his residential cooperative apartment for 3 weeks while he was on vacation. Later that same year the apartment was sold. The transfer tax is applicable to the sale of this cooperative apartment. Temporary rentals for 15 days or more during any 12 month period within the 24 months preceding the transfer will be deemed to be a commercial activity. Example 6: A wishes to sell his cooperative apartment. A subleases the apartment for 6 months until a sale is made. This sale is subject to the transfer tax. Since the apartment has been rented for 15 or more days, this rental constitutes commercial activity. Example 7: A allows B, a family member, to reside in his cooperative apartment. B pays all of the maintenance charges attributable to the apartment but does not pay any additional amounts to A. The sale of this apartment is subject to the transfer tax. B's occupancy of the apartment in return for payment of the maintenance charges constitutes a rental of the apartment. Therefore, the stock representing the apartment is held in connection with a commercial activity. Example 8: A sells his stock in a cooperative housing corporation on December 21, 1988. A had subleased his apartment until December 20, 1986. A has not subleased his cooperative apartment nor has A conducted any business activity in his apartment within the 24 months preceding the sale. This sale of stock is not subject to the transfer tax. A cooperative residential apartment which had in the past been subleased by the current owner-tenant loses its commercial status after 24 months have passed during which the apartment has not been subleased for 15 or more days. Similarly, a cooperative apartment in which business activity has been conducted by the current owner-tenant loses its commercial status after 24 months have passed during which no commercial activity has been conducted in the apartment. Accordingly, the transfer would not be subject to the transfer tax. Example 9: A, B, C and D each own 25% of the stock of X Corporation, a cooperative housing corporation with four apartments. These four individuals each use their apartments solely for residential purposes. E purchases from A and B 50% of the cooperative housing corporation stock representing two of these apartments. The sales by A and B are not subject to the transfer tax. Cooperative apartment sales are to be taxed only in the case of original sales by the cooperative corporation or sponsor or in the case of resales of apartments which had been used or held in connection with a commercial activity. Thus, even though a controlling interest in real property has been transferred, the transfer tax does not apply to these sales. Example 10: A misrepresents to B that A's cooperative apartment had not been held or used in connection with a commercial activity. B purchases A's cooperative apartment believing it is not subject to the transfer tax based on A's misrepresentations. A prescribed affidavit of non commercial use is filed with the Department of Finance. As the grantee, B will be liable for the appropriate transfer tax if A does not pay it. Example 11: A purchases stock from a cooperative housing corporation incorrectly believing that a transfer tax credit would be available against the transfer tax due. A return is filed claiming such credit. As the grantee, A will be liable for the appropriate transfer tax if the cooperative housing corporation does not pay it. Example 12: A corporation owns stock in a cooperative housing corporation and holds the proprietary lease for a residential apartment in the building. The apartment is used solely as the residence of its chief executive officer. The sale of this stock by the corporation is subject to the transfer tax. The corporation is deemed to maintain the apartment in the City in connection with, incidental to or in furtherance of its business or commercial activity. The result would be the same if the apartment was used to house out-of-town employees or customers of the corporation. Example 13: B, an attorney, owns stock in a cooperative housing corporation and resides in his cooperative apartment. B does not hold himself out as doing business in his apartment, does not meet with clients in his apartment and takes no business deductions relating to his apartment. B occasionally brings work home on weekends for his own convenience. B's occasional work at home will not render the sale of his apartment subject to tax.
+Example 4:
+
+(A) An individual owns stock in a cooperative housing corporation and holds the proprietary lease for an apartment which he rents to a residential tenant. The sale of this stock is subject to the transfer tax. The renting of an apartment is a commercial activity and the stock is considered to be held in connection with that commercial activity.
+
+(B) An individual owns stock in a cooperative housing corporation and holds the proprietary lease for an apartment which is occupied rent-free by a close family member. The sale of the stock is not subject to the transfer tax.
+
+Example 5: A subleased his residential cooperative apartment for 3 weeks while he was on vacation. Later that same year the apartment was sold. The transfer tax is applicable to the sale of this cooperative apartment. Temporary rentals for 15 days or more during any 12 month period within the 24 months preceding the transfer will be deemed to be a commercial activity.
+
+Example 6: A wishes to sell his cooperative apartment. A subleases the apartment for 6 months until a sale is made. This sale is subject to the transfer tax. Since the apartment has been rented for 15 or more days, this rental constitutes commercial activity.
+
+Example 7: A allows B, a family member, to reside in his cooperative apartment. B pays all of the maintenance charges attributable to the apartment but does not pay any additional amounts to A. The sale of this apartment is subject to the transfer tax. B's occupancy of the apartment in return for payment of the maintenance charges constitutes a rental of the apartment. Therefore, the stock representing the apartment is held in connection with a commercial activity.
+
+Example 8: A sells his stock in a cooperative housing corporation on December 21, 1988. A had subleased his apartment until December 20, 1986. A has not subleased his cooperative apartment nor has A conducted any business activity in his apartment within the 24 months preceding the sale. This sale of stock is not subject to the transfer tax. A cooperative residential apartment which had in the past been subleased by the current owner-tenant loses its commercial status after 24 months have passed during which the apartment has not been subleased for 15 or more days. Similarly, a cooperative apartment in which business activity has been conducted by the current owner-tenant loses its commercial status after 24 months have passed during which no commercial activity has been conducted in the apartment. Accordingly, the transfer would not be subject to the transfer tax.
+
+Example 9: A, B, C and D each own 25% of the stock of X Corporation, a cooperative housing corporation with four apartments. These four individuals each use their apartments solely for residential purposes. E purchases from A and B 50% of the cooperative housing corporation stock representing two of these apartments. The sales by A and B are not subject to the transfer tax. Cooperative apartment sales are to be taxed only in the case of original sales by the cooperative corporation or sponsor or in the case of resales of apartments which had been used or held in connection with a commercial activity. Thus, even though a controlling interest in real property has been transferred, the transfer tax does not apply to these sales.
+
+Example 10: A misrepresents to B that A's cooperative apartment had not been held or used in connection with a commercial activity. B purchases A's cooperative apartment believing it is not subject to the transfer tax based on A's misrepresentations. A prescribed affidavit of non commercial use is filed with the Department of Finance. As the grantee, B will be liable for the appropriate transfer tax if A does not pay it.
+
+Example 11: A purchases stock from a cooperative housing corporation incorrectly believing that a transfer tax credit would be available against the transfer tax due. A return is filed claiming such credit. As the grantee, A will be liable for the appropriate transfer tax if the cooperative housing corporation does not pay it.
+
+Example 12: A corporation owns stock in a cooperative housing corporation and holds the proprietary lease for a residential apartment in the building. The apartment is used solely as the residence of its chief executive officer. The sale of this stock by the corporation is subject to the transfer tax. The corporation is deemed to maintain the apartment in the City in connection with, incidental to or in furtherance of its business or commercial activity. The result would be the same if the apartment was used to house out-of-town employees or customers of the corporation.
+
+Example 13: B, an attorney, owns stock in a cooperative housing corporation and resides in his cooperative apartment. B does not hold himself out as doing business in his apartment, does not meet with clients in his apartment and takes no business deductions relating to his apartment. B occasionally brings work home on weekends for his own convenience. B's occasional work at home will not render the sale of his apartment subject to tax.
 
    (8) The application of paragraphs (2), (5) and (6) of this subdivision to transfers made on or after August 1, 1989 is illustrated by the following examples:
 
-Example 1: A, as an "insider," purchases 2% of the stock of a cooperative housing corporation that is allocated to one of fifty apartments in the building. The sales price is $200,000, and there is an unpaid mortgage principal balance of $5,000,000 on the real property. The transfer is taxable and a proportionate share of the mortgage is included in the consideration for the transfer, regardless of the use of the apartment. The tax is calculated as follows:
+Example 1: A, as an "insider," purchases 2% of the stock of a cooperative housing corporation that is allocated to one of fifty apartments in the building. The sales price is $200,000, and there is an unpaid mortgage principal balance of $5,000,000 on the real property. The transfer is taxable and a proportionate share of the mortgage is included in the consideration for the transfer, regardless of the use of the apartment. The tax is calculated as follows: 
 
  
 
@@ -11345,7 +11391,7 @@ Example 1: A, as an "insider," purchases 2% of the stock of a cooperative housin
     * - Amount paid for the apartment
       - $200,000 
     * - 2% of the $5,000,000 mortgage
-      - 100.000
+      - $100.000
     * - Total consideration
       - $300,000
 ~
@@ -11354,7 +11400,11 @@ Example 1: A, as an "insider," purchases 2% of the stock of a cooperative housin
 
  
 
-Compute 1% of $300,000, for a tax due of $3,000. A then subleases the apartment to B, who uses the apartment as a residence. Subsequently, A transfers the stock to C for $600,000. Since the apartment was used as a residence, no portion of the underlying mortgage on the real property is included in the consideration for the subsequent transfer to C. The tax is calculated as follows: 1.425% of $600,000, for a tax due of $8,550. Example 2: An accountant owns stock in a cooperative housing corporation and holds a proprietary leasehold on one of the fifty apartments located on the real property of the housing corporation. The apartment is used both as the accountant's residence and as an office for an accounting practice, and the accountant is eligible for a home office deduction for federal income tax purposes. There is an unpaid mortgage balance of $2,000,000 on the real property. If the accountant sells the stock for $800,000, the tax will be calculated as follows: 1.425% of $800,000, for a tax due of $11,400. Since the apartment is used for residential purposes, it is deemed an individual residential unit and no portion of the unpaid principal of any mortgage on the real property of the housing corporation is included in the consideration for the transfer. Example 3: A owns 80 shares in a cooperative housing corporation attributable to four separate apartments in the building. The apartments are leased to tenants for residential use. A's 80 shares constitute 20% of the cooperative housing corporation stock, and the building is encumbered by a $1,000,000 mortgage. If A sells the 80 shares in the cooperative housing corporation to B for $800,000, the tax is calculated as follows:
+Compute 1% of $300,000, for a tax due of $3,000. A then subleases the apartment to B, who uses the apartment as a residence. Subsequently, A transfers the stock to C for $600,000. Since the apartment was used as a residence, no portion of the underlying mortgage on the real property is included in the consideration for the subsequent transfer to C. The tax is calculated as follows: 1.425% of $600,000, for a tax due of $8,550.
+
+Example 2: An accountant owns stock in a cooperative housing corporation and holds a proprietary leasehold on one of the fifty apartments located on the real property of the housing corporation. The apartment is used both as the accountant's residence and as an office for an accounting practice, and the accountant is eligible for a home office deduction for federal income tax purposes. There is an unpaid mortgage balance of $2,000,000 on the real property. If the accountant sells the stock for $800,000, the tax will be calculated as follows: 1.425% of $800,000, for a tax due of $11,400. Since the apartment is used for residential purposes, it is deemed an individual residential unit and no portion of the unpaid principal of any mortgage on the real property of the housing corporation is included in the consideration for the transfer.
+
+Example 3: A owns 80 shares in a cooperative housing corporation attributable to four separate apartments in the building. The apartments are leased to tenants for residential use. A's 80 shares constitute 20% of the cooperative housing corporation stock, and the building is encumbered by a $1,000,000 mortgage. If A sells the 80 shares in the cooperative housing corporation to B for $800,000, the tax is calculated as follows: 
 
  
 
@@ -11363,20 +11413,20 @@ Compute 1% of $300,000, for a tax due of $3,000. A then subleases the apartment 
     :header-rows: 1
 
     * - Cash consideration received for shares
-      - $   800,000
+      - $800,000
     * - 20% of $l,000,000 mortgage
-      - 200,000
+      - $200,000
     * - Total consideration
       - $1,000,000
     * - Tax rate = 2.625%; tax is
-      - $     26,250
+      - $26,250
 ~
 
 
 
  
 
-The consideration received for the transfer of stock attributable to each of the four apartments is combined to determine the tax base. Because the consideration exceeded $500,000 and the transaction does not constitute the sale of an individual cooperative apartment, the underlying mortgage is included in the consideration, and the tax rate is 2.625%. Example 4: Assume the same facts as in example 3 except that A owns 100% of the stock of X Corporation whose sole asset is the 80 shares of co-op stock. X Corp. has no liabilities. A sells the X Corp. stock to B for $800,000. The tax is the same as in example 3 and is calculated in the same manner. Example 5: Assume the same facts as in example 4 except that the 80 shares are attributable to one apartment. If A sells the X Corp. stock to B for $800,000, the tax is calculated as follows:
+The consideration received for the transfer of stock attributable to each of the four apartments is combined to determine the tax base. Because the consideration exceeded $500,000 and the transaction does not constitute the sale of an individual cooperative apartment, the underlying mortgage is included in the consideration, and the tax rate is 2.625%. Example 4: Assume the same facts as in example 3 except that A owns 100% of the stock of X Corporation whose sole asset is the 80 shares of co-op stock. X Corp. has no liabilities. A sells the X Corp. stock to B for $800,000. The tax is the same as in example 3 and is calculated in the same manner. Example 5: Assume the same facts as in example 4 except that the 80 shares are attributable to one apartment. If A sells the X Corp. stock to B for $800,000, the tax is calculated as follows: 
 
  
 
@@ -11389,7 +11439,7 @@ The consideration received for the transfer of stock attributable to each of the
     * - Total consideration
       - $800,000
     * - Tax rate = 1.425%; tax is
-      - $  11,400
+      - $11,400
 ~
 
 
@@ -11401,19 +11451,19 @@ The tax is calculated at the rate applicable to a sale of an individual cooperat
    (9) Credit. In the case of the original transfer of cooperative housing corporation stock by a cooperative corporation or cooperative plan sponsor in connection with the grant or transfer of a proprietary leasehold, a credit is allowed for a proportionate part of the amount of any tax paid upon the conveyance to the cooperative housing corporation of the land and building or buildings comprising the cooperative dwelling or dwellings. This credit is calculated as follows:
 
 Credit = A ×
-								N    T
+									N          T
 
 Where:  
 
-A = Amount of tax paid upon the conveyance to the cooperative housing corporation.
+   A = Amount of tax paid upon the conveyance to the cooperative housing corporation.
 
-N = Number of shares transferred in this transaction.
+   N = Number of shares transferred in this transaction.
 
-T = Total number of outstanding shares of the cooperative housing corporation, as well as any shares held by the corporation.
+   T = Total number of outstanding shares of the cooperative housing corporation, as well as any shares held by the corporation.
 
 To illustrate: X, the owner of a ten unit apartment building, sells the property to Y Cooperative Corporation for $1,000,000. A transfer tax of $20,000 is paid in connection with this transfer. Y is authorized to issue 100 shares of stock. Each of the 10 apartments is allocated 10 shares. Y sells 10 shares to Z for $300,000 within 24 months of payment by X of the $20,000 transfer tax. A credit is allowed against the $3,000 transfer tax due on this subsequent sale from Y to Z, computed as follows:
 
-Credit = $20,000 ×  10  = $2,000   100
+Credit = $20,000 ×  10  = $2,000       100
 
 This credit shall not reduce the transfer tax due on the stock sale from the cooperative housing corporation or sponsor below zero. This credit applies only for original transfers of stock by the cooperative housing corporation or cooperative plan sponsor. It does not apply to taxable resales of cooperative housing corporation stock. No credit is allowed for any tax paid more than 24 months prior to the date on which occurs the first in a series of transfers of shares of stock in the offering of cooperative housing corporation shares. Thus, if the first of the original transfers of shares from the cooperative housing corporation or sponsor is made within 24 months of the payment of the tax imposed on the conveyance of the property to the cooperative housing corporation, then all original transfers from the cooperative housing corporation or plan sponsor, regardless of when made, will be entitled to an appropriate credit. If the first transfer is made more than 24 months after payment of the tax imposed on the conveyance of the property to the cooperative housing corporation, then no credit is allowed.
 
@@ -11423,15 +11473,17 @@ This credit shall not reduce the transfer tax due on the stock sale from the coo
 
    (2) After February 1, 1982, the surrender or assignment of a leasehold interest by a lessee before the end of the term in exchange for the payment of a sum of money or other consideration other than the release of the lessee from the lease obligation is subject to tax. However, the surrender or assignment of a leasehold interest by the lessee solely in exchange for a release of the lessee from the lease obligation is not subject to tax. To illustrate:
 
- Illustration (i): A, a lessee, assigns to B in exchange for $20,000 a five-year commercial leasehold with $100,000 in rent to be paid over the remaining lease term. No transfer tax is imposed because the consideration is less than $25,000. Illustration (ii): A, a lessee, surrenders to B, a lessor, in exchange for $75,000 a two-year rent-stabilized residential leasehold with $10,000 in rent to be paid over the remaining lease. A transfer tax of $750 (1% of $75,000) applies to the surrender.
+Illustration (i): A, a lessee, assigns to B in exchange for $20,000 a five-year commercial leasehold with $100,000 in rent to be paid over the remaining lease term. No transfer tax is imposed because the consideration is less than $25,000.
+
+Illustration (ii): A, a lessee, surrenders to B, a lessor, in exchange for $75,000 a two-year rent-stabilized residential leasehold with $10,000 in rent to be paid over the remaining lease. A transfer tax of $750 (1% of $75,000) applies to the surrender.
 
 (j) Conveyances not subject to tax. The following are examples of situations in which the tax does not apply: (Any reference made to a deed or conveyance includes a transfer of an economic interest in realty.)
 
-   (1) A conveyance of realty without consideration, as defined in § 23-02 "Consideration", and otherwise than in connection with a liquidation. This includes a deed conveying realty as a bona fide gift. A conveyance of realty subject to any indebtedness is not a gift to the extent of the indebtedness.
+   (1) A conveyance of realty without consideration, as defined in 19 RCNY § 23-02 "Consideration", and otherwise than in connection with a liquidation. This includes a deed conveying realty as a bona fide gift. A conveyance of realty subject to any indebtedness is not a gift to the extent of the indebtedness.
 
    (2) A deed to confirm title already vested in the grantee, such as a quitclaim deed to correct a flaw in title.
 
-   (3) An option for the purchase of real property or a contract for the sale of real property, if the contract does not vest legal or equitable title. For this purpose equitable title will be deemed to vest where the benefits and burdens of ownership have shifted to the optionee or vendee including, for example, where possession or the right to receive rent or depreciate the realty is given to the contract vendee or optionee. (See, however, § 23-02 "Consideration" for calculation of consideration when option rights are exercised.)
+   (3) An option for the purchase of real property or a contract for the sale of real property, if the contract does not vest legal or equitable title. For this purpose equitable title will be deemed to vest where the benefits and burdens of ownership have shifted to the optionee or vendee including, for example, where possession or the right to receive rent or depreciate the realty is given to the contract vendee or optionee. (See, however, 19 RCNY § 23-02 "Consideration" for calculation of consideration when option rights are exercised.)
 
    (4) Partition deeds, unless, for a consideration, some of the parties take shares greater in value than their undivided interests, in which event the tax attaches to each deed conveying such greater share, computed upon the consideration for the excess.
 
@@ -11469,7 +11521,7 @@ This credit shall not reduce the transfer tax due on the stock sale from the coo
 
          (B) For purposes of this subparagraph (iv), any alteration in the terms of a mortgage, lien, or other encumbrance more than six months prior to or more than three months following the delivery of the deed or the transfer will be conclusively presumed not to be in connection with, or in anticipation of, the conveyance or transfer.
 
-         (C) This subparagraph (iv) will not apply to a conveyance or transfer from one spouse to the other pursuant to the terms of a separation agreement or divorce decree or to a conveyance or transfer that would qualify as a bona fide gift under § 23-03(j)(1) of these rules but for the presence of a mortgage, lien, or other encumbrance that qualifies as an "excludible lien" without regard to this subparagraph (iv).
+         (C) This subparagraph (iv) will not apply to a conveyance or transfer from one spouse to the other pursuant to the terms of a separation agreement or divorce decree or to a conveyance or transfer that would qualify as a bona fide gift under 19 RCNY § 23-03(j)(1) but for the presence of a mortgage, lien, or other encumbrance that qualifies as an "excludible lien" without regard to this subparagraph (iv).
 
          (D) Increases and decreases in the amount of a mortgage, lien, or other encumbrance will not be considered material alterations. Subparagraphs (i) and (iii) of this paragraph (3) apply to increases and decreases, respectively, in the amount of any mortgage, lien, or other encumbrance.
 
@@ -11479,11 +11531,11 @@ This credit shall not reduce the transfer tax due on the stock sale from the coo
 
    (6) To illustrate:
 
-Illustration (i): Individual A owns a one-family house subject to a mortgage held by Bank X that is due and payable upon the sale of the house. The mortgage loan has a remaining principal balance of $250,000, bears interest at seven percent and has a remaining repayment term of ten years. A sells the house to individual B for $350,000. B pays $100,000 in cash and obtains a mortgage loan from Bank Y for $250,000. At the closing, Bank X assigns the mortgage on the property to Bank Y. The interest rate on the mortgage loan from Bank Y is nine percent and the repayment term is ten years. The terms of the mortgage on the property after the conveyance have been materially altered from the terms on the mortgage on the property before the conveyance; the mortgagee is different and the increase in the interest rate, from seven percent to nine percent, represents a greater than ten percent change. Based on the facts and circumstances, the material alteration of the mortgage is considered to be in connection with the transfer and the mortgage is not an excludible lien under § 23-03(k)(3)(iv) of these rules. The taxable consideration for the conveyance is $350,000.
+Illustration (i): Individual A owns a one-family house subject to a mortgage held by Bank X that is due and payable upon the sale of the house. The mortgage loan has a remaining principal balance of $250,000, bears interest at seven percent and has a remaining repayment term of ten years. A sells the house to individual B for $350,000. B pays $100,000 in cash and obtains a mortgage loan from Bank Y for $250,000. At the closing, Bank X assigns the mortgage on the property to Bank Y. The interest rate on the mortgage loan from Bank Y is nine percent and the repayment term is ten years. The terms of the mortgage on the property after the conveyance have been materially altered from the terms on the mortgage on the property before the conveyance; the mortgagee is different and the increase in the interest rate, from seven percent to nine percent, represents a greater than ten percent change. Based on the facts and circumstances, the material alteration of the mortgage is considered to be in connection with the transfer and the mortgage is not an excludible lien under 19 RCNY § 23-03(k)(3)(iv). The taxable consideration for the conveyance is $350,000.
 
 Illustration (ii): The facts are the same as illustration (i) except that the interest on the mortgage loan remains at seven percent after the assignment but the term is increased from ten to 15 years. The mortgage is not an excludible lien because the increase in the repayment term is greater than ten percent. If the interest rate and repayment term remain unchanged, or those changes are less than ten percent, the terms will not be considered to be materially altered and the mortgage will be an excludible lien.
 
-Illustration (iii): The facts are the same as in illustration (i) except that individual A is the father of individual B and gives the house to B as a gift. B does not make a cash payment and refinances the mortgage loan with Bank Y. The mortgage is assigned as in illustration (i). The conveyance is a bona fide gift under § 23-03(j)(1) of these rules but for the presence of the mortgage. None of the exceptions in subparagraphs (i), (ii) and (iii) of paragraph (3) of this subdivision (k) applies to the mortgage. Subparagraph (iv) of paragraph (3) of this subdivision does not apply to bona fide gift transfers. Therefore the mortgage is an excludible lien and there is no taxable consideration for the conveyance.
+Illustration (iii): The facts are the same as in illustration (i) except that individual A is the father of individual B and gives the house to B as a gift. B does not make a cash payment and refinances the mortgage loan with Bank Y. The mortgage is assigned as in illustration (i). The conveyance is a bona fide gift under 19 RCNY § 23-03(j)(1) but for the presence of the mortgage. None of the exceptions in subparagraphs (i), (ii) and (iii) of paragraph (3) of this subdivision (k) applies to the mortgage. Subparagraph (iv) of paragraph (3) of this subdivision does not apply to bona fide gift transfers. Therefore the mortgage is an excludible lien and there is no taxable consideration for the conveyance.
 
 Illustration (iv): The facts are the same as illustration (i) except that the deed is delivered in January of 1998 and B acquires the house subject to the existing mortgage. B refinances the Bank X loan with Bank Y in June, 1998 and the assignment of the mortgage takes place at that time. Under subparagraph (iv)(B) of paragraph (3) of this subdivision, any alterations in the terms of the mortgage more than three months following the conveyance are conclusively presumed not to be in connection with, or in anticipation, of the conveyance. Thus, the mortgage is an excludible lien regardless of alterations to its terms. The taxable consideration for the conveyance is $100,000.
 
@@ -11515,7 +11567,7 @@ Illustration (xiii): XYZ Corp. acquires a residential apartment building in 1998
 
 Where real property is situated partly within and partly without the boundaries of the City of New York the consideration subject to tax shall be such part of the total consideration as is attributable to the portion of such real property situated within the City of New York or to the economic interest in such portion. For the purpose of determining the consideration attributable to property situated within the City of New York, that part of the consideration shall be deemed subject to tax which the assessed valuation of the property situated within the territorial limits of the City of New York bears to the total assessed valuation of the entire property conveyed situated within and without the City. The assessed valuations to be used shall be those in effect at the time of the conveyance of the property. In lieu of the foregoing, the equalized assessed valuation based on the state equalization tables may be used, provided they are applied to the property situated both within and without the City of New York.
 
-To illustrate: A parcel of land situated partly within Westchester County and partly within Bronx County is conveyed by deed, dated July 15, 1983. The purchase price of the property is $200,000, subject to a first mortgage of $90,000. The assessed valuations of the property in effect at the time of the conveyance are as follows:
+To illustrate: A parcel of land situated partly within Westchester County and partly within Bronx County is conveyed by deed, dated July 15, 1983. The purchase price of the property is $200,000, subject to a first mortgage of $90,000. The assessed valuations of the property in effect at the time of the conveyance are as follows: 
 
  
 
@@ -11526,14 +11578,14 @@ To illustrate: A parcel of land situated partly within Westchester County and pa
     * - Property situated within Bronx County
       - $120,000
     * - Property situated in Westchester County
-      -  $  40,000
+      -  $40,000
 ~
 
 
 
  
 
-The following shows the computation of the consideration subject to tax:
+The following shows the computation of the consideration subject to tax: 
 
  
 
@@ -11541,15 +11593,15 @@ The following shows the computation of the consideration subject to tax:
 .. list-table::
     :header-rows: 1
 
-    * - Item  No. 
-      - 
+    * - Item  No. 
+      -  
       - 
     * - 1. 
       - Assessed valuation of property partly situated in Westchester County
-      - $  40,000
+      - $40,000
     * - 2. 
       - Assessed valuation of property partly situated in Bronx County
-      - 120,000
+      - $120,000
     * - 3. 
       - Total assessed valuation
       - $160,000
@@ -11590,11 +11642,11 @@ The following shows the computation of the consideration subject to tax:
 
    (2) A deed, instrument, or transaction conveying or transferring real property or an economic interest therein by or to any corporation, or association, or trust, or community chest, fund or foundation, organized and operated exclusively for religious, charitable or educational purposes or for the prevention of cruelty to children or animals, and no part of the net earnings of which inures to the benefit of any private shareholder or individual and no substantial part of the activities of which is carrying on propaganda, or otherwise attempting to influence legislation, provided, however, that nothing in this paragraph shall include an organization operated for the primary purpose of carrying on a trade or business for profit, whether or not all of its profits are payable to one or more organizations described in this paragraph.
 
-   (3) A deed, instrument, or transaction conveying or transferring real property or an economic interest therein to any governmental body or person exempt from payment of the tax pursuant to paragraph (1) or (2) of subdivision (a) of § 23-05.
+   (3) A deed, instrument, or transaction conveying or transferring real property or an economic interest therein to any governmental body or person exempt from payment of the tax pursuant to paragraph (1) or (2) of subdivision (a) of 19 RCNY § 23-05.
 
    (4) A deed delivered pursuant to a contract made prior to May 1, 1959.
 
-   (5) A deed delivered by any governmental body or person exempt from payment of the tax pursuant to § 23-05(a) as a result of a sale at a public auction held in accordance with the provisions of a contract made prior to May 1, 1959.
+   (5) A deed delivered by any governmental body or person exempt from payment of the tax pursuant to 19 RCNY § 23-05(a) as a result of a sale at a public auction held in accordance with the provisions of a contract made prior to May 1, 1959.
 
    (6) A deed or instrument given solely as security for, or a transaction the sole purpose of which is to secure, a debt or obligation or a deed or instrument given, or a transaction entered into, solely for the purpose of returning such security.
 
@@ -11610,7 +11662,7 @@ The following shows the computation of the consideration subject to tax:
 
          (B) the purported agent functions as an agent with respect to the realty or economic interest therein for all purposes, and
 
-         (C) the purported agent is held out as the agent and not the principal in all dealings with third parties relating to the realty or economic interest therein. Since the tax does not apply to any deed, instrument, or transaction described in § 23-05(b), neither the grantor nor the grantee is required to pay the tax. However, a return relating to the deed, instrument, or transaction must be filed.
+         (C) the purported agent is held out as the agent and not the principal in all dealings with third parties relating to the realty or economic interest therein. Since the tax does not apply to any deed, instrument, or transaction described in 19 RCNY § 23-05(b), neither the grantor nor the grantee is required to pay the tax. However, a return relating to the deed, instrument, or transaction must be filed.
 
    (8) A deed, instrument or transaction conveying or transferring real property or an economic interest in real property to another person or entity, otherwise subject to tax, that effects a mere change of identity or form of ownership or organization to the extent the beneficial ownership of such real property or economic interest remains the same. A sale of real property or an economic interest therein for cash or other valuable consideration will be exempt to the extent the beneficial ownership remains the same, provided the transaction represents a mere change of identity or form of ownership or organization.
 
@@ -11622,11 +11674,11 @@ Example A: A and B, two equal tenants-in-common of Parcel 1, transfer their inte
 
 Example B: A and B are equal partners in AB Partnership. AB Partnership owns two properties. Parcel 1 is unencumbered commercial real property with a fair market value of $1,000,000. Parcel 2 is unencumbered commercial real property with a fair market value of $2,000,000. AB has other assets valued at $1,000,000. On January 1, 1995, AB Partnership distributes all of its assets to A and B in complete liquidation. B receives Parcel 2. A receives Parcel 1 and all the other assets. The tax on the distribution of Parcel 1 to A is measured by the fair market value of Parcel 1 of $1,000,000 reduced by 50% because A had a 50% beneficial interest in the parcel prior to the liquidation and has retained that interest after the distribution. Therefore, $500,000 (50% × $1,000,000) of the measure of the tax is subject to tax. The tax due on the distribution is $13,125 (2.625% × $500,000). Similarly, the distribution of Parcel 2 to B is exempt from tax as a mere change of identity or form of ownership or organization to the extent of 50% because B owned a 50% beneficial interest in the property prior to the liquidation and has retained that beneficial interest. Therefore, the taxable amount is $1,000,000 (50% × $2,000,000) and the tax due on the distribution of Parcel 2 is $26,250 (2.625% × $1,000,000).
 
-Example C: X Company is a New York general partnership composed of two equal partners, A and B. X Company owns unencumbered real property located in New York City with a fair market value of $1,000,000. On January 1, 1995, X Company is converted to a limited liability company through the filing of articles of organization under applicable state law. After the conversion, B sells a 49% interest in X Company to A so that A owns a 99% interest and B owns a 1% interest. If under the applicable state law, X Company is considered to be the same entity as before the conversion, the conversion will not be considered a transfer of real property or an economic interest in real property. Immediately after the conversion, the beneficial ownership of X Company is deemed identical to the beneficial ownership of the old general partnership and no transfer of an economic interest has occurred. B's transfer of a 49% interest in X Company to A will not constitute a controlling economic interest transfer subject to tax. However, the transfer of the 49% interest may be aggregated with a subsequent related transfer within three years so as to constitute a transfer of a controlling economic interest. See § 23-02(2) definition of "Controlling interest" governing aggregation of related trans- fers.
+Example C: X Company is a New York general partnership composed of two equal partners, A and B. X Company owns unencumbered real property located in New York City with a fair market value of $1,000,000. On January 1, 1995, X Company is converted to a limited liability company through the filing of articles of organization under applicable state law. After the conversion, B sells a 49% interest in X Company to A so that A owns a 99% interest and B owns a 1% interest. If under the applicable state law, X Company is considered to be the same entity as before the conversion, the conversion will not be considered a transfer of real property or an economic interest in real property. Immediately after the conversion, the beneficial ownership of X Company is deemed identical to the beneficial ownership of the old general partnership and no transfer of an economic interest has occurred. B's transfer of a 49% interest in X Company to A will not constitute a controlling economic interest transfer subject to tax. However, the transfer of the 49% interest may be aggregated with a subsequent related transfer within three years so as to constitute a transfer of a controlling economic interest. See 19 RCNY § 23-02(2) definition of "Controlling interest" governing aggregation of related transfers.
 
-Example D: Limited Partnership X has four equal limited partners A, B, C, and D, each with a 24% interest and one general partner, E with a 4% partnership interest. X owns an unencumbered office building with a fair market value of $1,000,000 and $100,000 of other assets. A, B, C, D and E form a new limited partnership, Y, in which A, B, C, and D have respective interests in capital and profits as follows: A owns 29%, B owns 29%, C owns 24% and D owns 14%. E is the general partner and has a 4% interest in capital and profits. Pursuant to an agreement of merger approved on January 4, 1999, under Article 8-A of the New York Partnership Law, the partners merge Limited Partnership X into Y. The transfer of the assets of X to Y is not a taxable transfer of real property, however, the resulting transfers of interests in X may be. See § 23-03(e)(4) of these rules. Pursuant to the merger, 100% of the interests in X are deemed exchanged for interests in Y. The transaction is exempt as a mere change of identity or form of ownership or organization to the extent the partners retain the same beneficial interest in the property following the merger as they held before the merger. In this case, A, B and C each retain a 24% interest in the property, D retains a 14% interest in the property and E retains a 4% interest in the property. Therefore, the merger is exempt as a mere change of identity or form of ownership or organization to the extent of 90%. The tax is imposed on $100,000 (10% × $1,000,000). The tax due is $2,625 ($100,000 × 2.625%). The tax rate is based on the full value of the consideration, $560,000, rather than the amount subject to tax.
+Example D: Limited Partnership X has four equal limited partners A, B, C, and D, each with a 24% interest and one general partner, E with a 4% partnership interest. X owns an unencumbered office building with a fair market value of $1,000,000 and $100,000 of other assets. A, B, C, D and E form a new limited partnership, Y, in which A, B, C, and D have respective interests in capital and profits as follows: A owns 29%, B owns 29%, C owns 24% and D owns 14%. E is the general partner and has a 4% interest in capital and profits. Pursuant to an agreement of merger approved on January 4, 1999, under Article 8-A of the New York Partnership Law, the partners merge Limited Partnership X into Y. The transfer of the assets of X to Y is not a taxable transfer of real property, however, the resulting transfers of interests in X may be. See 19 RCNY § 23-03(e)(4). Pursuant to the merger, 100% of the interests in X are deemed exchanged for interests in Y. The transaction is exempt as a mere change of identity or form of ownership or organization to the extent the partners retain the same beneficial interest in the property following the merger as they held before the merger. In this case, A, B and C each retain a 24% interest in the property, D retains a 14% interest in the property and E retains a 4% interest in the property. Therefore, the merger is exempt as a mere change of identity or form of ownership or organization to the extent of 90%. The tax is imposed on $100,000 (10% × $1,000,000). The tax due is $2,625 ($100,000 × 2.625%). The tax rate is based on the full value of the consideration, $560,000, rather than the amount subject to tax.
 
-Example E: Corporation X has five shareholders (col. 1 of table below) and owns real property in New York City. Pursuant to a plan of merger agreed upon and adopted by shareholders of Corporation X on January 4, 1999, Corporation X is to be merged under Article 9 of the New York Business Corporation Law into Corporation Y, which owns no real property in New York City. Four of the five shareholders of Corporation X also own stock in Corporation Y prior to the merger (col. 3 of table below). Corporation Y has 30,000 outstanding shares but will increase that number to 50,000. Pursuant to the merger, the Corporation X shares will be converted into Corporation Y shares in a ratio of four Corporation Y shares for every five Corporation X shares. The mere change exemption is computed as follows:
+Example E: Corporation X has five shareholders (col. 1 of table below) and owns real property in New York City. Pursuant to a plan of merger agreed upon and adopted by shareholders of Corporation X on January 4, 1999, Corporation X is to be merged under Article 9 of the New York Business Corporation Law into Corporation Y, which owns no real property in New York City. Four of the five shareholders of Corporation X also own stock in Corporation Y prior to the merger (col. 3 of table below). Corporation Y has 30,000 outstanding shares but will increase that number to 50,000. Pursuant to the merger, the Corporation X shares will be converted into Corporation Y shares in a ratio of four Corporation Y shares for every five Corporation X shares. The mere change exemption is computed as follows: 
 
  
 
@@ -11634,7 +11686,7 @@ Example E: Corporation X has five shareholders (col. 1 of table below) and owns 
 .. list-table::
     :header-rows: 1
 
-    * - 
+    * -  
       - 1. X shares owned 
       - 2. % held in X 
       - 3. Y shares owned (before) 
@@ -11696,7 +11748,7 @@ Example E: Corporation X has five shareholders (col. 1 of table below) and owns 
 
  
 
-The transfer of the City real property from Corporation X to Corporation Y pursuant to the merger would be exempt from tax. See § 23-03(e)(2) of these rules. Pursuant to the merger, 100 percent of the Corporation X shares are deemed exchanged for Corporation Y stock, which constitutes a transfer of a controlling economic interest in New York City real property. Because the transfers by the shareholders were made pursuant to the approved plan of merger they are aggregated in determining whether the transaction constitutes a transfer of a controlling economic interest. However, the transaction is exempt to the extent that each of the Corporation X shareholders retains its beneficial interest in the real property formerly held by Corporation X. Column 7 reflects the percentage interest in the property retained by each shareholder, which is the lesser of the amounts in Columns 2 and 6. The transfer is exempt as a mere change of identity or form of ownership or organization to that extent, i.e., 59.6 percent. Shareholders A, B, C, D and E are the grantors and pursuant to the merger, are considered to have transferred their shares in X to Corporation Y in exchange for Y shares.
+The transfer of the City real property from Corporation X to Corporation Y pursuant to the merger would be exempt from tax. See 19 RCNY § 23-03(e)(2). Pursuant to the merger, 100 percent of the Corporation X shares are deemed exchanged for Corporation Y stock, which constitutes a transfer of a controlling economic interest in New York City real property. Because the transfers by the shareholders were made pursuant to the approved plan of merger they are aggregated in determining whether the transaction constitutes a transfer of a controlling economic interest. However, the transaction is exempt to the extent that each of the Corporation X shareholders retains its beneficial interest in the real property formerly held by Corporation X. Column 7 reflects the percentage interest in the property retained by each shareholder, which is the lesser of the amounts in Columns 2 and 6. The transfer is exempt as a mere change of identity or form of ownership or organization to that extent, i.e., 59.6 percent. Shareholders A, B, C, D and E are the grantors and pursuant to the merger, are considered to have transferred their shares in X to Corporation Y in exchange for Y shares.
 
 Example F: T, an individual, owns 20 shares in a cooperative housing corporation attributable to an apartment in the building. The apartment is leased to a tenant for residential use. T transfers the shares attributable to the apartment to Y Corporation, her wholly owned corporation. Because T retains a 100% beneficial ownership of the apartment, the transfer is exempt from tax as a mere change of identity or form of ownership or organization.
 
@@ -11706,7 +11758,7 @@ Example G: J owns 70% of the stock of X Corp., whose sole asset is 80% of the st
 
       (iv) For purposes of determining whether and to what extent the mere change of identity or form of ownership or organization exemption applies, the determination of the beneficial ownership of the real property or economic interest therein prior to a transaction and the extent to which the beneficial interest therein remains the same following the transaction will be based on the facts and circumstances.
 
-(c) Cross reference. For the rule concerning transfers of interests in housing companies organized and operating pursuant to Article 2, 4, 5 or 11 of the Private Housing Finance Law, see subparagraph (2) of § 23-03(h) of these rules.
+(c) Cross reference. For the rule concerning transfers of interests in housing companies organized and operating pursuant to Article 2, 4, 5 or 11 of the Private Housing Finance Law, see subparagraph (2) of 19 RCNY § 23-03(h).
 
 
 
@@ -11716,7 +11768,7 @@ Example G: J owns 70% of the stock of X Corp., whose sole asset is 80% of the st
 *§ 23-06 Applications for Exemptions.* ::
 
 
-A person or organization claiming exemption from the tax under § 23-05(b)(2) is required to submit a properly executed application for exemption and in connection therewith to submit such information to the Commissioner of Finance as will enable him to rule upon its status. The application is required to be submitted in the form of affidavit setting forth:
+A person or organization claiming exemption from the tax under 19 RCNY § 23-05(b)(2) is required to submit a properly executed application for exemption and in connection therewith to submit such information to the Commissioner of Finance as will enable him to rule upon its status. The application is required to be submitted in the form of affidavit setting forth:
 
 (a) the type of organization,
 
@@ -11748,7 +11800,7 @@ The law presumes that all deeds and transfers of controlling economic interests 
 *§ 23-08 Payment of Tax.* ::
 
 
-(a)  The tax shall be paid by the grantor to the Commissioner of Finance at the office of the Register in the county where the deed is or would be recorded within thirty days after the delivery of the deed by the grantor to the grantee but before the recording of such deed or, in the case of a tax on the transfer of a controlling economic interest in real property, within thirty days after such transfer by the grantor at Department of Finance, Operations Division, Real Property Transfer Tax Group, at the address provided on the return. In the absence of satisfactory proof as to the date of delivery of a deed, the date of the deed shall be deemed to be the date of delivery thereof. In case the tax due is not paid by the grantor, or if the grantor is exempt from tax under § 23-05(a) of these regulations, the grantee shall also be liable for payment of the tax to the Commissioner of Finance. Payment of the tax may be made in cash, or by certified check, money order or draft drawn to the order of the Commissioner of Finance.
+(a)  The tax shall be paid by the grantor to the Commissioner of Finance at the office of the Register in the county where the deed is or would be recorded within thirty days after the delivery of the deed by the grantor to the grantee but before the recording of such deed or, in the case of a tax on the transfer of a controlling economic interest in real property, within thirty days after such transfer by the grantor at Department of Finance, Operations Division, Real Property Transfer Tax Group, at the address provided on the return. In the absence of satisfactory proof as to the date of delivery of a deed, the date of the deed shall be deemed to be the date of delivery thereof. In case the tax due is not paid by the grantor, or if the grantor is exempt from tax under 19 RCNY § 23-05(a), the grantee shall also be liable for payment of the tax to the Commissioner of Finance. Payment of the tax may be made in cash, or by certified check, money order or draft drawn to the order of the Commissioner of Finance.
 
 (b) Electronic payment. Pursuant to 19 RCNY § 17-03, the Commissioner may authorize the electronic payment of any tax required to be paid by this section.
 
@@ -11769,7 +11821,7 @@ The law presumes that all deeds and transfers of controlling economic interests 
 (c) The Register shall accept a return offered for filing provided the paper return is signed under oath by the grantor or his agent or by the grantee or his agent, unless it appears that the return is insufficient on its face, as where the return shows that the amount of the consideration paid or required to be paid without deductions is less than the amount of mortgages or other liens or encumbrances. If either the grantor or grantee has failed to sign the paper return, it shall be accepted as a return, but the party who has failed to sign the paper return or to file and sign a separate paper return shall be subject to the penalties applicable to a person who has failed to file a return and the period of limitations for assessment of tax or of additional tax shall not apply to such party. The Register is also authorized to reject a return that states that there was no consideration for the deed unless there is attached to such return a statement setting forth the grounds upon which it is claimed that there was no consideration. The acceptance by the Register of a return for filing shall in no way indicate the propriety or correctness of the return. The issuance of a confirmation by the Commissioner of Finance upon receipt of an electronic return shall in no way indicate the propriety or correctness of the electronic return and is not evidence of a completed return nor evidence that the paper return has been completed, filed or received by the Department of Finance. If a return or affidavit required by the law is not filed or if a return or affidavit when filed is incorrect or insufficient on its face the Commissioner of Finance shall take the necessary steps to enforce the filing of such a return or affidavit or of a corrected return or affidavit. The Commissioner of Finance may require amended returns to be filed within twenty days after notice and to contain the information specified in the notice.
 
 The electronic return is required to be filed electronically, and the paper return is required to be filed at the office of the Register in the county where the deed is or would be recorded, except that with respect to a transfer relating to a property in Staten Island, (i) the paper return must be filed in the office of the Richmond County Clerk, or (ii) where a return is not filed at the time of the recording of a deed, or the deed is not recorded, the paper return may instead be filed in any office of the City Register. In the case of transfers of controlling economic interests in real property or transfers of shares or interests in a corporation or other entity formed for the purpose of cooperative ownership of real property, returns or affidavits, whichever are applicable, must be filed electronically, and the paper return must be filed at the office of the City Register in the county in which the affected property is located, except that for such a transfer relating to property in Staten Island, the paper return must be filed in any office of the City Register. The locations of the Register's offices are as follows: 
-								
+									
 
  
 
@@ -11793,7 +11845,7 @@ The electronic return is required to be filed electronically, and the paper retu
 
 (d) Request for waiver of the electronic filing requirement. The Commissioner of Finance, may, for good cause and in his or her discretion, waive the requirement that the real property transfer tax return be filed electronically and permit the real property transfer tax return to be filed by means of a paper form or in such other manner as the Commissioner of Finance may designate. A request for waiver of the electronic filing requirement must be made in writing no later than ten days prior to the last day permitted by law for the filing of such return. Any return filed in paper format or by any other designated means must be filed in accordance with the provisions of these rules, with the New York City Department of Finance at such address and in the form and manner as may be designated by the Commissioner.
 
-(e) Mailing the return. In the event that the Commissioner has waived the electronic filing requirement pursuant to § 23-09(d) of this section and will accept a real property transfer tax return filed in paper format, any return required to be filed within a prescribed period or on or before a prescribed date under authority of any provision of § 11-2105 of the Administrative Code, or any rule enacted relating to the administration of such provision, shall when mailed, be deemed delivered as provided in § 11-2116 of the Administrative Code. The receipt of the mailed return by the Department of Finance shall in no way indicate the propriety or the correctness of the return.
+(e) Mailing the return. In the event that the Commissioner has waived the electronic filing requirement pursuant to 19 RCNY § 23-09(d) and will accept a real property transfer tax return filed in paper format, any return required to be filed within a prescribed period or on or before a prescribed date under authority of any provision of § 11-2105 of the Administrative Code, or any rule enacted relating to the administration of such provision, shall when mailed, be deemed delivered as provided in § 11-2116 of the Administrative Code. The receipt of the mailed return by the Department of Finance shall in no way indicate the propriety or the correctness of the return.
 
 
 
@@ -11817,7 +11869,7 @@ The electronic return is required to be filed electronically, and the paper retu
 *§ 23-11 Records To Be Kept.* ::
 
 
-Every grantor and grantee is required to keep complete records of conveyances of real property or economic interests therein. Such records shall include copies of the contract of sale, the title report, if any, the paper return filed, and confirmation of electronic return filed, waiver of the electronic filing requirement pursuant to § 23-09(d) of these rules, if applicable, or affidavit filed, records showing the amount of liens and encumbrances on the realty at the time of delivery of the deed, the closing statement, and the general books of account of a person which would reflect the sale or purchase of real property or economic interests therein. Such records shall be made available for inspection and examination at any time upon demand by the Commissioner of Finance or his duly authorized agent or employee and shall be preserved for a period of three years, except that the Commissioner of Finance may consent to their destruction within that period or may require that they be kept longer. Evidence of payment of tax to the Commissioner of Finance such as a cancelled check, a receipt, or a receipted return, must be preserved. If no records are maintained as required by this section, or if the records which are maintained are inadequate, the Commissioner of Finance will determine the amount of the tax due from such information as may be obtainable.
+Every grantor and grantee is required to keep complete records of conveyances of real property or economic interests therein. Such records shall include copies of the contract of sale, the title report, if any, the paper return filed, and confirmation of electronic return filed, waiver of the electronic filing requirement pursuant to 19 RCNY § 23-09(d), if applicable, or affidavit filed, records showing the amount of liens and encumbrances on the realty at the time of delivery of the deed, the closing statement, and the general books of account of a person which would reflect the sale or purchase of real property or economic interests therein. Such records shall be made available for inspection and examination at any time upon demand by the Commissioner of Finance or his duly authorized agent or employee and shall be preserved for a period of three years, except that the Commissioner of Finance may consent to their destruction within that period or may require that they be kept longer. Evidence of payment of tax to the Commissioner of Finance such as a cancelled check, a receipt, or a receipted return, must be preserved. If no records are maintained as required by this section, or if the records which are maintained are inadequate, the Commissioner of Finance will determine the amount of the tax due from such information as may be obtainable.
 
 
 
@@ -11847,13 +11899,13 @@ Except in accordance with proper judicial order, or as otherwise provided by law
 
       (ii) With respect to returns required to be filed on or after July 16, 1985, in the case of a failure to file a tax return within 60 days of the date prescribed for filing such return (determined with regard to any extension of time for filing), unless it is shown that such failure is due to reasonable cause and not due to willful neglect, the addition to tax under subparagraph (i) of this paragraph shall not be less than the lesser of one hundred dollars ($100) or one hundred percent (100%) of the amount required to be shown as tax on such return.
 
-      (iii) In the case of the failure of a cooperative housing corporation to file an information return on or before the date prescribed for filing by subdivision (g) of § 11-2105 of the Administrative Code and § 23-09(b) of these rules (determined with regard to any extension of time for filing), unless it is shown that such failure was due to reasonable cause and not due to willful neglect, there shall be imposed on such cooperative housing corporation a penalty of $100 for each such failure.
+      (iii) In the case of the failure of a cooperative housing corporation to file an information return on or before the date prescribed for filing by subdivision (g) of § 11-2105 of the Administrative Code and 19 RCNY § 23-09(b) (determined with regard to any extension of time for filing), unless it is shown that such failure was due to reasonable cause and not due to willful neglect, there shall be imposed on such cooperative housing corporation a penalty of $100 for each such failure.
 
       (iv) For purposes of subparagraphs (i) and (ii), the amount of tax required to be shown on the return shall be reduced by the amount of any part of the tax which is paid on or before the date prescribed for payment of the tax and by the amount of any credit against the tax which may be claimed on the return.
 
    (2) Failure to pay tax shown on return. In case of failure to pay the amount shown as tax on a return filed on or before the prescribed date (determined with regard to any extension of time for payment), unless it is shown that such failure is due to reasonable cause (see: paragraph (5) of this subdivision) and not due to willful neglect, there shall be added to the amount shown as tax on such return one-half of one percent of the amount of such tax for each month or fraction thereof during which such failure continues, not exceeding twenty-five percent in the aggregate. For the purpose of computing the addition for any month the amount of tax shown on the return shall be reduced by the amount of any part of the tax which is paid on or before the beginning of such month and by the amount of any credit against the tax which may be claimed upon the return. If the amount of tax required to be shown on a return is less than the amount shown as tax on such return, this paragraph shall be applied by substituting such lower amount.
 
-   (3) Failure to pay tax required to be shown on return. In case of failure to pay any amount in respect of any tax required to be shown on a return required to be filed which is not so shown (including a determination made pursuant to § 23-16 of these Regulations), within ten days of the date of notice and demand, unless it is shown that such failure is due to reasonable cause (see: paragraph (5) of this subdivision) and not due to willful neglect, there shall be added to the amount of tax stated in such notice and demand one-half of one percent of such tax for each month or fraction thereof during which such failure continues, not exceeding twenty-five percent in the aggregate. For the purpose of computing the addition for any month, the amount of tax stated in the notice and demand shall be reduced by the amount of any part of the tax which is paid before the beginning of such month.
+   (3) Failure to pay tax required to be shown on return. In case of failure to pay any amount in respect of any tax required to be shown on a return required to be filed which is not so shown (including a determination made pursuant to 19 RCNY § 23-16), within ten days of the date of notice and demand, unless it is shown that such failure is due to reasonable cause (see: paragraph (5) of this subdivision) and not due to willful neglect, there shall be added to the amount of tax stated in such notice and demand one-half of one percent of such tax for each month or fraction thereof during which such failure continues, not exceeding twenty-five percent in the aggregate. For the purpose of computing the addition for any month, the amount of tax stated in the notice and demand shall be reduced by the amount of any part of the tax which is paid before the beginning of such month.
 
    (4) Limitations on additions.
 
@@ -11865,7 +11917,7 @@ Except in accordance with proper judicial order, or as otherwise provided by law
 
       (ii) The provisions of subparagraph (i) may be illustrated by the following examples:
 
-Example A(a): Assume the grantor filed the tax return in connection with a transfer occurring on June 30, 1983 (due within 30 days after delivery of the deed by the grantor to the grantee but before the recording of such deed) on November 10, 1983, and the failure to file on or before the prescribed date is not due to reasonable cause. The tax shown on the return is $800 and a deficiency of $200 is subsequently assessed, making the tax required to be shown on the return $1,000. The amount shown as due on the return of $800 is paid on December 6, 1983. The failure to pay on or before the prescribed date is not due to reasonable cause. There will be imposed, in addition to interest, an additional amount under paragraph (2), of $20.00, which is 2.5 percent (2% for the 4 months from July 30 to November 30, and 0.5% for the fractional part of the month from December 1 through December 6) of the amount shown due on the return of $800. There will also be imposed an additional amount under paragraph (1) of $138, determined as follows:
+Example A(a): Assume the grantor filed the tax return in connection with a transfer occurring on June 30, 1983 (due within 30 days after delivery of the deed by the grantor to the grantee but before the recording of such deed) on November 10, 1983, and the failure to file on or before the prescribed date is not due to reasonable cause. The tax shown on the return is $800 and a deficiency of $200 is subsequently assessed, making the tax required to be shown on the return $1,000. The amount shown as due on the return of $800 is paid on December 6, 1983. The failure to pay on or before the prescribed date is not due to reasonable cause. There will be imposed, in addition to interest, an additional amount under paragraph (2), of $20.00, which is 2.5 percent (2% for the 4 months from July 30 to November 30, and 0.5% for the fractional part of the month from December 1 through December 6) of the amount shown due on the return of $800. There will also be imposed an additional amount under paragraph (1) of $138, determined as follows: 
 
  
 
@@ -11876,7 +11928,7 @@ Example A(a): Assume the grantor filed the tax return in connection with a trans
     * - 20 percent (5% per month for the 3 months from July 30 through October 30 and 5% for the fractional part of the month from November 1 through November 10) of the amount due of $1,000 required to be shown on the return
       -  $200
     * - Reduced by the amount of the addition imposed under paragraph (2) for those months
-      -  16
+      - $16
     * - Addition to tax under paragraph (1)
       -  $184
 ~
@@ -11885,7 +11937,7 @@ Example A(a): Assume the grantor filed the tax return in connection with a trans
 
  
 
-Example A(b): A notice and demand for the $200 deficiency is issued on January 8, 1984, but the grantor or grantee does not pay the deficiency until December 23, 1984. In addition to interest there will be imposed an additional amount under paragraph (3) of $10.00, determined as follows:
+Example A(b): A notice and demand for the $200 deficiency is issued on January 8, 1984, but the grantor or grantee does not pay the deficiency until December 23, 1984. In addition to interest there will be imposed an additional amount under paragraph (3) of $10.00, determined as follows: 
 
  
 
@@ -11893,9 +11945,9 @@ Example A(b): A notice and demand for the $200 deficiency is issued on January 8
 .. list-table::
     :header-rows: 1
 
-    * - Addition computed without regard to limitation: 6 percent (51/2% for the 11 months from January 19, 1984 through December 18, 1984, and 0.5% for the fractional part of the month from December 19 through December 23) of the amount stated in the notice and demand ($200) 
+    * - Addition computed without regard to limitation: 6 percent (5 1/2% for the 11 months from January 19, 1984 through December 18, 1984, and 0.5% for the fractional part of the month from December 19 through December 23) of the amount stated in the notice and demand ($200) 
       - $12
-    * - Limitation on addition:25 percent of the amount stated in the notice and demand ($200)
+    * - Limitation on addition: 25 percent of the amount stated in the notice and demand ($200)
       - $50
     * - Reduced by the part of the addition under paragraph (1) for failure to file attributable to the $200 deficiency (20% of $200)
       - $40
@@ -11907,7 +11959,7 @@ Example A(b): A notice and demand for the $200 deficiency is issued on January 8
 
  
 
-Example B: Grantor or grantee files the tax return in connection with a transfer occurring on September 30, 1983, upon recordation on May 2, 1984, and such delinquency is not due to reasonable cause. The balance due, as shown on the return, of $500 is paid when the return is filed on May 2, 1984. In addition to interest and the addition for failure to pay under paragraph (2) of $20.00 (8 months at .05% per month, or 4%), there will also be imposed an additional amount under paragraph (1) of $112.50, determined as follows:
+Example B: Grantor or grantee files the tax return in connection with a transfer occurring on September 30, 1983, upon recordation on May 2, 1984, and such delinquency is not due to reasonable cause. The balance due, as shown on the return, of $500 is paid when the return is filed on May 2, 1984. In addition to interest and the addition for failure to pay under paragraph (2) of $20.00 (8 months at .05% per month, or 4%), there will also be imposed an additional amount under paragraph (1) of $112.50, determined as follows: 
 
  
 
@@ -11919,8 +11971,8 @@ Example B: Grantor or grantee files the tax return in connection with a transfer
       -  $125.00
     * - Less reduction for amount of the addition under paragraph (2):
       - 
-    * - Amount imposed under paragraph (2) for failure to pay for the months in which there is also an addition for failure to file – 21/2% for the 5 months October 30 through March 30 of the net amount due ($500)
-      - $  12.50
+    * - Amount imposed under paragraph (2) for failure to pay for the months in which there is also an addition for failure to file – 2 1/2% for the 5 months October 30 through March 30 of the net amount due ($500)
+      - $12.50
     * - Addition to tax under paragraph (1)
       - $112.50
 ~
@@ -11939,13 +11991,13 @@ Example B: Grantor or grantee files the tax return in connection with a transfer
 
       (i) If any part of an underpayment is due to negligence or intentional disregard of the law, or rules or regulations thereunder (but without intent to defraud), there shall be added to the tax a penalty in an amount equal to five percent of the underpayment.
 
-      (ii) With respect to taxes required to be paid on or after July 16, 1985, there shall be added to the tax (in addition to the amount determined under subparagraph (i) of this paragraph) an amount equal to fifty percent of the interest payable under § 23-13 of these regulations with respect to the portion of the underpayment described in such subparagraph (i) which is attributable to the negligence or intentional disregard referred to in such subparagraph (i), for the period beginning on the last date prescribed by law for payment of such underpayment (determined without regard to an extension) and ending on the date of the assessment of the tax (or, if earlier, the date of the payment of the tax).
+      (ii) With respect to taxes required to be paid on or after July 16, 1985, there shall be added to the tax (in addition to the amount determined under subparagraph (i) of this paragraph) an amount equal to fifty percent of the interest payable under 19 RCNY § 23-13 with respect to the portion of the underpayment described in such subparagraph (i) which is attributable to the negligence or intentional disregard referred to in such subparagraph (i), for the period beginning on the last date prescribed by law for payment of such underpayment (determined without regard to an extension) and ending on the date of the assessment of the tax (or, if earlier, the date of the payment of the tax).
 
    (7) Underpayment due to fraud.
 
       (i) If any part of an underpayment is due to fraud, there shall be added to the tax a penalty in an amount equal to fifty percent of the underpayment.
 
-      (ii) With respect to taxes required to be paid on or after July 16, 1985, there shall be added to the tax (in addition to the penalty determined under subparagraph (i) of this paragraph) an amount equal to fifty percent of the interest payable under § 23-13 of these regulations with respect to the portion of the underpayment described in such subparagraph (i) which is attributable to fraud, for the period beginning on the last day prescribed by law for payment of such underpayment (determined without regard to any extension) and ending on the date of the assessment of the tax (or, if earlier, the date of the payment of the tax).
+      (ii) With respect to taxes required to be paid on or after July 16, 1985, there shall be added to the tax (in addition to the penalty determined under subparagraph (i) of this paragraph) an amount equal to fifty percent of the interest payable under 19 RCNY § 23-13 with respect to the portion of the underpayment described in such subparagraph (i) which is attributable to fraud, for the period beginning on the last day prescribed by law for payment of such underpayment (determined without regard to any extension) and ending on the date of the assessment of the tax (or, if earlier, the date of the payment of the tax).
 
       (iii) The penalty under this paragraph (paragraph 7) shall be in lieu of the maximum twenty-five percent penalty due to willful neglect for failure to file a return, five percent penalty due to negligence and the additional one-half of one percent per month penalty pursuant to paragraphs (2) and (3) of this subdivision.
 
@@ -12138,7 +12190,13 @@ A taxpayer may transfer an overpayment from one property to another under the fo
 
 (c) In the event that an application for a transfer of an overpayment concerns properties that are not owned by the same record owner, the applicant must furnish proof required to establish that the properties are owned by the same beneficial owner.
 
-Example 1: In January, 2007, X made an overpayment of real property taxes on property A in the amount of $1,000. Property B has an outstanding balance of real estate taxes and interest from July, 2008, in the amount of $1,000. There are no other outstanding charges on either of the two properties. X is the record owner of both property A and property B and desires to transfer the overpayment from property A to property B. X must submit to the Department a request for transfer of the overpayment pursuant to § 24-02 of these rules. The $1,000 overpayment will be transferred from property A to property B to be applied to the outstanding balance on property B. Example 2: The facts are the same as in Example 1 except that Y made the overpayment on property A. If X wishes to transfer the overpayment from property A to property B, X must submit to the Department an application pursuant to § 24-02 of these rules certifying that X is entitled to the refund. Example 3: In January, 2007, X made an overpayment of real property taxes on property A in the amount of $1,000. Property B has an outstanding balance of real estate taxes and interest in the amount of $2,000 from July, 2008. There are no other outstanding charges on either of the two properties. X owns 75% of the stock of X Corp. which is the record owner of property A. X also owns 75% of Y Corp. which is the record owner of property B. X desires to transfer the overpayment from property A to property B. X must submit to the Department an application pursuant to § 24-02 of these rules together with any documentation requested by the Department to establish that X is the beneficial owner of both property A and property B. The $1,000 overpayment will be transferred from property A to property B to reduce the outstanding balance on property B by $1,000. Example 4: The facts are the same as in Example 3 except that X Corp. made the overpayment on property A. If X wishes to transfer the overpayment from property A to property B, X must submit to the Department an application pursuant to § 24-02 of these rules certifying that X is entitled to the refund and any documentation requested by the Department to establish that X is the beneficial owner of both property A and property B.
+Example 1: In January, 2007, X made an overpayment of real property taxes on property A in the amount of $1,000. Property B has an outstanding balance of real estate taxes and interest from July, 2008, in the amount of $1,000. There are no other outstanding charges on either of the two properties. X is the record owner of both property A and property B and desires to transfer the overpayment from property A to property B. X must submit to the Department a request for transfer of the overpayment pursuant to 19 RCNY § 24-02. The $1,000 overpayment will be transferred from property A to property B to be applied to the outstanding balance on property B.
+
+Example 2: The facts are the same as in Example 1 except that Y made the overpayment on property A. If X wishes to transfer the overpayment from property A to property B, X must submit to the Department an application pursuant to 19 RCNY § 24-02 certifying that X is entitled to the refund.
+
+Example 3: In January, 2007, X made an overpayment of real property taxes on property A in the amount of $1,000. Property B has an outstanding balance of real estate taxes and interest in the amount of $2,000 from July, 2008. There are no other outstanding charges on either of the two properties. X owns 75% of the stock of X Corp. which is the record owner of property A. X also owns 75% of Y Corp. which is the record owner of property B. X desires to transfer the overpayment from property A to property B. X must submit to the Department an application pursuant to 19 RCNY § 24-02 together with any documentation requested by the Department to establish that X is the beneficial owner of both property A and property B. The $1,000 overpayment will be transferred from property A to property B to reduce the outstanding balance on property B by $1,000.
+
+Example 4: The facts are the same as in Example 3 except that X Corp. made the overpayment on property A. If X wishes to transfer the overpayment from property A to property B, X must submit to the Department an application pursuant to 19 RCNY § 24-02 certifying that X is entitled to the refund and any documentation requested by the Department to establish that X is the beneficial owner of both property A and property B.
 
 
 
@@ -12193,61 +12251,65 @@ Tax year. "Tax year" shall mean June first of any calendar year through May thir
 
 (a) The law imposes a tax for the privilege of selling liquor, wine or beer at retail, for on or off premises consumption, within the City of New York, to be paid annually for each tax year, commencing with the tax year beginning on June 1, 1980, by each retail licensee in an amount equal to 25% of the annual license fees payable under the New York State Alcoholic Beverage Control Law by such retail licensee for the license year in effect at the commencement of the tax year under the law. A retail licensee who obtains a license subsequent to the commencement of a tax year is required to pay the tax based upon the fees payable under the New York State Alcoholic Beverage Control Law by such licensee for the license year in effect at the time such license is issued. The tax imposed is in addition to any and all other taxes paid by such retail licensee.
 
-(b) The tax is required to be paid for each tax year, commencing with the tax year beginning on June 1, 1980, even though the retail licensee may not be engaged in the sale of liquor, wine or beer for the entire tax year. Thus, a retail licensee at the beginning of the tax year who ceases to do business before the expiration of such tax year, or who becomes a retail licensee after the commencement of a tax year, whether or not he ceases to do business at expiration of such tax year, is liable for the tax. Provision for refund of any tax paid is made herein in cases where a retail licensee ceases to do business during the course of a tax year under circumstances which result in, or would entitle him to, a refund of the license fee by the New York State Liquor Authority (See: § 25-08).
+(b) The tax is required to be paid for each tax year, commencing with the tax year beginning on June 1, 1980, even though the retail licensee may not be engaged in the sale of liquor, wine or beer for the entire tax year. Thus, a retail licensee at the beginning of the tax year who ceases to do business before the expiration of such tax year, or who becomes a retail licensee after the commencement of a tax year, whether or not he ceases to do business at expiration of such tax year, is liable for the tax. Provision for refund of any tax paid is made herein in cases where a retail licensee ceases to do business during the course of a tax year under circumstances which result in, or would entitle him to, a refund of the license fee by the New York State Liquor Authority (See: 19 RCNY § 25-08).
 
 (c) The amount of the tax required to be paid is determined by applying the tax rate, viz: 25% of the annual license fees, or summer or winter license fees, as the case may be, payable under the New York State Alcoholic Beverage Control Law by such retail licensee for the license year in effect at the commencement of the tax year under the law. Where a retail licensee obtains a license subsequent to the commencement of a tax year, the amount of tax required to be paid to the City by such licensee shall be determined by taking that portion of 25% of the annual license fee payable under such law which the remaining number of days in the tax year bears to the total number of days in said tax year, but in no event shall the tax be less than the amount determined by applying such percentage to 25% of the annual license fee payable under the New York State Alcoholic Beverage Control Law, as the minimum license fee payable thereunder bears to the annual license fee payable thereunder for such license; and, in the case of summer or winter licenses issued under the New York State Alcoholic Beverage Control Law, by taking that portion of 25% of the summer or winter license fee payable under said law which the number of days in the remaining calendar months of the tax year for which summer or winter license is issued bears to the number of days in the total calendar months of the tax year for which summer or winter licenses may be issued, but in no event shall the tax be less than the amount determined by applying such percentage to 25% of the summer or winter license fee payable under said law as the minimum license fee payable thereunder bears to the maximum license fee payable thereunder for such license. In the case of licenses issued under the New York State Alcoholic Beverage Control Law for periods of more than one year, the tax required to be paid shall be determined by the license fee payable on a yearly basis. The following will illustrate the above:
 
-Illustration 1: A retail licensee obtains a license on March 1, 1980, for the license year commencing March 1, 1980, and expiring February 28, 1981, and pays the annual license fee of $1200, the amount payable under the New York State Alcoholic Beverage Control Law. He continues in business as a retail licensee to or beyond June 1, 1980. Since the license fee payable for the license year in effect on June 1, 1980 (the date of the commencement of the tax year) is $1200, the tax payable to the City is 25% thereof, or $300. Illustration 2: Assume that the amount of the annual license fee payable under the New York State Alcoholic Beverage Control Law by the retail licensee for the license year in effect at the time such license is issued is $1200, and the retail licensee obtains the license on April 1, 1981.
+Illustration 1: A retail licensee obtains a license on March 1, 1980, for the license year commencing March 1, 1980, and expiring February 28, 1981, and pays the annual license fee of $1200, the amount payable under the New York State Alcoholic Beverage Control Law. He continues in business as a retail licensee to or beyond June 1, 1980. Since the license fee payable for the license year in effect on June 1, 1980 (the date of the commencement of the tax year) is $1200, the tax payable to the City is 25% thereof, or $300.
 
-   (i) $1200 × 25% = $300.
+Illustration 2: Assume that the amount of the annual license fee payable under the New York State Alcoholic Beverage Control Law by the retail licensee for the license year in effect at the time such license is issued is $1200, and the retail licensee obtains the license on April 1, 1981.
 
-Where:   $1200 = annual license fee payable under the New York State Alcoholic Beverage Control Law.
+(i) $1200 × 25% = $300.
 
-   (ii) 61  × $300 = $50.14       365
+   Where:   $1200 = annual license fee payable under the New York State Alcoholic Beverage Control Law.
 
-Where:   61 = remaining number of days in tax year-April 1st to May 31st, 1981.
+(ii) 61  × $300 = $50.14    365
 
-365 = total number of days in tax year.
+   Where:   61 = remaining number of days in tax year-April 1st to May 31st, 1981.
 
-   (iii) 1/2* of $300 = $150.
+   365 = total number of days in tax year.
 
-Since the tax of $50.14 in item (ii) is less than one-half of $300, the tax required to be paid to the City is $150. Illustration 3: Assume the same facts as in illustration (2) above except that the retail license was obtained August 1, 1981.
+(iii) 1/2* of $300 = $150.
 
-   (i) $1200 × 25% = $300.
+ Since the tax of $50.14 in item (ii) is less than one-half of $300, the tax required to be paid to the City is $150.
 
-Where:   $1200 = annual license fee payable under the New York State Beverage Control Law.
+Illustration 3: Assume the same facts as in illustration (2) above except that the retail license was obtained August 1, 1981.
 
-   (ii) 304 × $300 = $249.86       365
+(i) $1200 × 25% = $300.
 
-Where:   304 = remaining number of days in tax year-August 1, 1981 to May 31, 1982.
+   Where:   $1200 = annual license fee payable under the New York State Beverage Control Law.
 
-365 = total number of days in tax year
+(ii) 304 × $300 = $249.86    365
 
-   (iii) 1/2* of $300 = $150.
+   Where:   304 = remaining number of days in tax year-August 1, 1981 to May 31, 1982.
+
+   365 = total number of days in tax year
+
+(iii) 1/2* of $300 = $150.
 
 Since the tax in item (ii) $249.86 is more than $150, the tax required to be paid to the City is $249.86.
 
-Illustration 4: X obtains a summer liquor license under the New York State Alcoholic Beverage Control Law on April 1, 1980 covering the period April 1, 1980 to October 31, 1980 for which he is required to pay $700, although the annual license fee for a yearly liquor license is $1200. Since the license fee payable for a summer liquor licensee for the license year in effect on June, 1, 1980 (the date of the commencement of the tax year) is $700, the tax payable to the City for such tax year is 25% thereof, or $175. In this illustration it is assumed that the retail licensee intends to and actually obtains another license in 1981 for the period from April 1, 1981 to October 31, 1981. If such retail licensee does not obtain a license forthe months of April and May, 1981, he will be deemed to have ceased doing business as a retail licensee not later than October 31, 1980. In such event, he may avail himself of the provisions for refund of the tax paid as prescribed in § 25-08 of these regulations.
+Illustration 4: X obtains a summer liquor license under the New York State Alcoholic Beverage Control Law on April 1, 1980 covering the period April 1, 1980 to October 31, 1980 for which he is required to pay $700, although the annual license fee for a yearly liquor license is $1200. Since the license fee payable for a summer liquor licensee for the license year in effect on June, 1, 1980 (the date of the commencement of the tax year) is $700, the tax payable to the City for such tax year is 25% thereof, or $175. In this illustration it is assumed that the retail licensee intends to and actually obtains another license in 1981 for the period from April 1, 1981 to October 31, 1981. If such retail licensee does not obtain a license forthe months of April and May, 1981, he will be deemed to have ceased doing business as a retail licensee not later than October 31, 1980. In such event, he may avail himself of the provisions for refund of the tax paid as prescribed in 19 RCNY § 25-08.
 
 Illustration 5: A obtains a summer liquor license under the New York State Alcoholic Beverage Control Law on April 1, 1981 covering the period April 1, 1981 to October 31, 1981 for which he is required to pay $700, although the annual license fee for a yearly liquor license is $1200.
 
-   (i) $700 × 25% = $175.
+(i) $700 × 25% = $175.
 
 Where:   $700 = the summer liquor license fee payable under the New York State Alcoholic Beverage Control Law.
 
-   (ii) 61  × $175 = $49.88       214
+(ii) 61  × $175 = $49.88    214
 
-Where:   61 = remaining number of days in remaining calendar months of tax year – April 1, 1981 to May 31, 1981.
+   Where:   61 = remaining number of days in remaining calendar months of tax year – April 1, 1981 to May 31, 1981.
 
-214 = number of days in total calendar months of tax year for which summer license may be issued – June 1, 1980 to October 31, 1980 and April 1, 1981 to May 31, 1981.
+   214 = number of days in total calendar months of tax year for which summer license may be issued – June 1, 1980 to October 31, 1980 and April 1, 1981 to May 31, 1981.
 
-   (iii) $600 or half of $175 = $87.50       $1200
+(iii) $600 or half of $175 = $87.50    $1200
 
-Where:   $600 = minimum license fee payable under the New York State Alcoholic Beverage Control Law.
+   Where:   $600 = minimum license fee payable under the New York State Alcoholic Beverage Control Law.
 
-$1200 = the maximum license fee payable under the New York State Alcoholic Beverage Control Law.
+   $1200 = the maximum license fee payable under the New York State Alcoholic Beverage Control Law.
 
-Since the tax of $49.88 in item (ii) is less than one-half of $175, the minimum tax required to be paid for the tax year ending May 31, 1981 is $87.50 (item (iii)). For the tax year commencing June 1, 1981, A is required to pay a tax of $175 ; provided, however, if A does not obtain another summer liquor license for the months of April and May, 1982 he will be deemed to have ceased doing business as a retail licensee not later than October 31, 1981, in which event he may avail himself of the provisions for refund of the tax so paid as prescribed in § 25-08 of these regulations as amended.
+Since the tax of $49.88 in item (ii) is less than one-half of $175, the minimum tax required to be paid for the tax year ending May 31, 1981 is $87.50 (item (iii)). For the tax year commencing June 1, 1981, A is required to pay a tax of $175 ; provided, however, if A does not obtain another summer liquor license for the months of April and May, 1982 he will be deemed to have ceased doing business as a retail licensee not later than October 31, 1981, in which event he may avail himself of the provisions for refund of the tax so paid as prescribed in 19 RCNY § 25-08 as amended.
 
 
 
@@ -12363,7 +12425,7 @@ For example: A summer (liquor) retail licensee who obtained a license for the pe
 
 (f) If the Commissioner of Finance approves the application for refund, he will make such refund or, in lieu thereof, allow credit therefor on payments due from the appli- cant.
 
-(g) A taxpayer shall not be entitled to a refund or credit if he has had a hearing or an opportunity for a hearing in connection with a deficiency assessment as provided by law and by § 25-07 of these regulations, or has failed to avail himself of the remedies provided thereby, if such refund or credit application is for taxes included in the same period covered by such deficiency assessment.
+(g) A taxpayer shall not be entitled to a refund or credit if he has had a hearing or an opportunity for a hearing in connection with a deficiency assessment as provided by law and by 19 RCNY § 25-07, or has failed to avail himself of the remedies provided thereby, if such refund or credit application is for taxes included in the same period covered by such deficiency assessment.
 
 
 
@@ -12437,7 +12499,7 @@ If any amount of tax is not paid on or before the last date prescribed for payme
 
    (2) Failure to pay tax shown on return. In case of failure to pay the amount shown as tax on a return to be filed on or before the prescribed date (determined with regard to any extension of time for payment), unless it is shown that such failure is due to reasonable cause (see: paragraph (5) of this subdivision (a)) and not due to willful neglect, there shall be added to the amount shown as tax on such return one-half of one percent (1/2%) of the amount of such tax for each month or fraction thereof during which such failure continues, not exceeding twenty-five percent (25%) in the aggregate. For the purpose of computing the addition for any month the amount of tax shown on the return shall be reduced by the amount of any part of the tax which is paid on or before the beginning of such month and by the amount of any credit against the tax which may be claimed on the return. If the amount of tax required to be shown on a return is less than the amount shown as tax on such return, this paragraph shall be applied by substituting such lower amount.
 
-   (3) Failure to pay tax required to be shown on return. In case of failure to pay any amount in respect of any tax required to be shown on a return required to be filed which is not so shown (including a determination made pursuant to § 25-07 of these regulations), within ten (10) days of the date of notice and demand, unless it is shown that such failure is due to reasonable cause (see: paragraph (5) of this subdivision (a)) and not due to willful neglect, there shall be added to the amount of tax stated in such notice and demand one-half of one percent (1/2%) of such tax for each month or fraction thereof during which such failure continues, not exceeding twenty-five percent (25%) in the aggregate. For the purpose of computing the addition for any month, the amount of tax stated in the notice and demand shall be reduced by the amount of any part of the tax which is paid before the beginning of such month.
+   (3) Failure to pay tax required to be shown on return. In case of failure to pay any amount in respect of any tax required to be shown on a return required to be filed which is not so shown (including a determination made pursuant to 19 RCNY § 25-07), within ten (10) days of the date of notice and demand, unless it is shown that such failure is due to reasonable cause (see: paragraph (5) of this subdivision (a)) and not due to willful neglect, there shall be added to the amount of tax stated in such notice and demand one-half of one percent (1/2%) of such tax for each month or fraction thereof during which such failure continues, not exceeding twenty-five percent (25%) in the aggregate. For the purpose of computing the addition for any month, the amount of tax stated in the notice and demand shall be reduced by the amount of any part of the tax which is paid before the beginning of such month.
 
    (4) Limitations on additions.
 
@@ -12451,7 +12513,7 @@ If any amount of tax is not paid on or before the last date prescribed for payme
 
       (ii) The provisions of this paragraph may be illustrated by the following examples:
 
-Example A(a): Assume the taxpayer filed his tax return for the tax year beginning June 1, 1983  on September 30, 1983, and the failure to file on or before the prescribed date is not due to reasonable cause. The tax shown on the return is $800 and a deficiency of $200 is subsequently assessed, making the tax required to be shown on the return, $1,000. The amount shown due on the return of $800 is paid on October 31, 1983. The failure to pay on or before the prescribed date is not due to reasonable cause. There will be imposed, in addition to interest, an additional amount under paragraph (2), of $20.00, which is 2.5 percent (2% for the 4 months from June 26 through October 25, and 0.5% for the fractional part of the month from October 26 through October 31) of the amount shown due on the return of $800. There will also be imposed an additional amount under paragraph (1) of $184, determined as follows:
+Example A(a): Assume the taxpayer filed his tax return for the tax year beginning June 1, 1983  on September 30, 1983, and the failure to file on or before the prescribed date is not due to reasonable cause. The tax shown on the return is $800 and a deficiency of $200 is subsequently assessed, making the tax required to be shown on the return, $1,000. The amount shown due on the return of $800 is paid on October 31, 1983. The failure to pay on or before the prescribed date is not due to reasonable cause. There will be imposed, in addition to interest, an additional amount under paragraph (2), of $20.00, which is 2.5 percent (2% for the 4 months from June 26 through October 25, and 0.5% for the fractional part of the month from October 26 through October 31) of the amount shown due on the return of $800. There will also be imposed an additional amount under paragraph (1) of $184, determined as follows: 
 
  
 
@@ -12462,7 +12524,7 @@ Example A(a): Assume the taxpayer filed his tax return for the tax year beginnin
     * - 20 percent (5% per month for the 3 months from June 26 through September 25 and 5% for the fractional part of the month from September 26 through September 30) of the amount due of $1,000 required to be shown on the return
       -  $200
     * - Reduced by the amount of the addition imposed under paragraph (2) for those months
-      -  16
+      - $16
     * - Addition to tax under paragraph (1)
       -  $184
 ~
@@ -12471,7 +12533,7 @@ Example A(a): Assume the taxpayer filed his tax return for the tax year beginnin
 
  
 
-Example A(b): A notice and demand for the $200 deficiency is issued on January 8, 1984, but the taxpayer does not pay the deficiency until December 23, 1984. In addition to interest there will be imposed an additional amount under paragraph (3) of $10, determined as follows:
+Example A(b): A notice and demand for the $200 deficiency is issued on January 8, 1984, but the taxpayer does not pay the deficiency until December 23, 1984. In addition to interest there will be imposed an additional amount under paragraph (3) of $10, determined as follows: 
 
  
 
@@ -12479,21 +12541,21 @@ Example A(b): A notice and demand for the $200 deficiency is issued on January 8
 .. list-table::
     :header-rows: 1
 
-    * - Addition computed without regard to limitation: 6 percent (5  1/2% for the 11 months from January 19, 1984, through December 18, 1984, and 0.5% for the fractional part of the month from December 19 through December 23)of the amount stated in the notice and demand ($200)
-      -  $12
+    * - Addition computed without regard to limitation: 6 percent (5 1/2% for the 11 months from January 19, 1984, through December 18, 1984, and 0.5% for the fractional part of the month from December 19 through December 23)of the amount stated in the notice and demand ($200)
+      - $12
     * - Limitation on addition:25 percent of the amount stated in the notice and demand ($200)
       - $50
     * - Reduced by the part of the addition under paragraph (1) for failure to file attributable to the $200 deficiency (20% of $200)
-      -  $40
+      - $40
     * - Maximum amount of the addition under paragraph (3)
-      -  $10
+      - $10
 ~
 
 
 
  
 
-Example B: A taxpayer files his tax return for the tax year beginning June 1, 1983, on February 14, 1984, and such delinquency is not due to reasonable cause. The balance due, as shown on the return, of $500 is paid when the return is filed on February 14, 1984. In addition to interest and the addition for failure to pay under paragraph (2) of $20 (8 months at 0.5% per month, 4%), there will also be imposed an additional amount under paragraph (1) of $112.50, determined as follows:
+Example B: A taxpayer files his tax return for the tax year beginning June 1, 1983, on February 14, 1984, and such delinquency is not due to reasonable cause. The balance due, as shown on the return, of $500 is paid when the return is filed on February 14, 1984. In addition to interest and the addition for failure to pay under paragraph (2) of $20 (8 months at 0.5% per month, 4%), there will also be imposed an additional amount under paragraph (1) of $112.50, determined as follows: 
 
  
 
@@ -12505,8 +12567,8 @@ Example B: A taxpayer files his tax return for the tax year beginning June 1, 19
       -  $125.00
     * - Less reduction for the amount of the addition under paragraph (2): 
       - 
-    * - Amount imposed under paragraph (2) for failure to pay for the months in which there is also an addition for failure to file – 2  1/2 percent for the 5 months June 26 through November 29 of the net amount due ($500)
-      -  12.50
+    * - Amount imposed under paragraph (2) for failure to pay for the months in which there is also an addition for failure to file – 2 1/2 percent for the 5 months June 26 through November 29 of the net amount due ($500)
+      - $12.50
     * - Addition to tax under paragraph (1)
       -  $112.50
 ~
@@ -12531,13 +12593,13 @@ Example B: A taxpayer files his tax return for the tax year beginning June 1, 19
 
       (i) If any part of an underpayment is due to negligence or intentional disregard of the law or rules or regulations thereunder (but without intent to defraud), there shall be added to the tax a penalty in an amount equal to five percent (5%) of the underpayment.
 
-      (ii) With respect to taxes required to be paid on or after July 16, 1985, there shall be added to the tax (in addition to the amount determined under subparagraph (i) of this paragraph) an amount equal to fifty percent of the interest payable under § 25-13 of these regulations with respect to the portion of the underpayment described in such subparagraph (i) which is attributable to the negligence or intentional disregard referred to in such subparagraph (i), for the period beginning on the last date prescribed by law for payment of such underpayment (determined without regard to any extension) and ending on the date of the assessment of the tax (or, if earlier, the date of the payment of the tax).
+      (ii) With respect to taxes required to be paid on or after July 16, 1985, there shall be added to the tax (in addition to the amount determined under subparagraph (i) of this paragraph) an amount equal to fifty percent of the interest payable under 19 RCNY § 25-13 with respect to the portion of the underpayment described in such subparagraph (i) which is attributable to the negligence or intentional disregard referred to in such subparagraph (i), for the period beginning on the last date prescribed by law for payment of such underpayment (determined without regard to any extension) and ending on the date of the assessment of the tax (or, if earlier, the date of the payment of the tax).
 
    (7) Underpayment due to fraud.
 
       (i) If any part of an underpayment is due to fraud, there shall be added to the tax a penalty in an amount equal to fifty percent (50%) of the underpayment.
 
-      (ii) With respect to taxes required to be paid on or after July 16, 1985, there shall be added to the tax (in addition to the penalty determined under subparagraph (i) of this paragraph) an amount equal to fifty percent of the interest payable under § 25-13 of these regulations with respect to the portion of the underpayment described in such subparagraph (i) which is attributable to fraud, for the period beginning on the last day prescribed by law for payment of such underpayment (determined without regard to any extension) and ending on the date of the assessment of the tax (or, if earlier, the date of the payment of the tax).
+      (ii) With respect to taxes required to be paid on or after July 16, 1985, there shall be added to the tax (in addition to the penalty determined under subparagraph (i) of this paragraph) an amount equal to fifty percent of the interest payable under 19 RCNY § 25-13 with respect to the portion of the underpayment described in such subparagraph (i) which is attributable to fraud, for the period beginning on the last day prescribed by law for payment of such underpayment (determined without regard to any extension) and ending on the date of the assessment of the tax (or, if earlier, the date of the payment of the tax).
 
       (iii) The penalty under this paragraph (paragraph 7) shall be in lieu of the maximum twenty-five percent (25%) penalty due to willful neglect for failure to file a return, (paragraph (1)), the additional one-half of one percent (1/2%) per month for failure to pay tax shown on a return (paragraph (2)), the additional one-half of one percent (1/2%) per month for failure to pay tax required to be shown on a return (paragraph (3)), and the five percent (5%) penalty due to negligence (paragraph (6)).
 
@@ -12646,13 +12708,13 @@ Taxpayer. The term "Taxpayer" as used in these rules means any individual or ent
 
 (c) Nothing in this section shall prevent the Department from requesting hard copy printouts in lieu of retained machine-sensible records at the time of examination.
 
-(d) Hard copy records generated at the time of a transaction using a credit or debit card must be retained unless all the details necessary to determine correct tax liability relating to the transaction are subsequently received and retained by the taxpayer in accordance with these rules. Such details include those listed in § 26-04(b)(1) of these rules.
+(d) Hard copy records generated at the time of a transaction using a credit or debit card must be retained unless all the details necessary to determine correct tax liability relating to the transaction are subsequently received and retained by the taxpayer in accordance with these rules. Such details include those listed in 19 RCNY § 26-04(b)(1).
 
 (e) Computer printouts that are created for validation, control, or other temporary purposes need not be retained.
 
 (f) Nothing in these rules shall be construed to prohibit a taxpayer from demonstrating tax compliance with traditional hard copy documents or reproductions thereof, in whole or in part, whether or not such taxpayer also has retained or has the capability to retain records on electronic or other storage media in accordance with these rules. However, this subdivision shall not relieve the taxpayer of the obligation to comply with subdivision (b).
 
-(g) Except as otherwise provided in this section, the provisions of these rules do not relieve taxpayers of the responsibility to retain hard copy records that are created or received in the ordinary course of business as required by existing law and regulations. Hard copy records may be retained on a recordkeeping medium as provided in § 26-06 of these rules.
+(g) Except as otherwise provided in this section, the provisions of these rules do not relieve taxpayers of the responsibility to retain hard copy records that are created or received in the ordinary course of business as required by existing law and regulations. Hard copy records may be retained on a recordkeeping medium as provided in 19 RCNY § 26-06.
 
 (h) Every taxpayer should make periodic checks on all records being retained for use by the Department. If any records required to be retained are subsequently lost, destroyed, damaged or found to be incomplete or materially inaccurate, the taxpayer must recreate the files within a reasonable period of time.
 
@@ -12708,7 +12770,7 @@ Example: A taxpayer using electronic data interchange technology receives electr
 
       (v) detailed charts of accounts (for specific periods);
 
-      (vi) evidence that periodic checks that are prescribed in § 26-03(h) of these rules were performed; and
+      (vi) evidence that periodic checks that are prescribed in 19 RCNY § 26-03(h) were performed; and
 
       (vii) evidence that the retained records reconcile to the books and the tax report or return. This reconciliation must establish the relationship between the total of the amounts in the retained records by account to the account totals in the books and to the tax report or return.
 
@@ -12728,7 +12790,7 @@ Example: A taxpayer using electronic data interchange technology receives electr
 
       (iv) programs associated with the DMS including a description of what each program does.
 
-   (8) The manner in which the Department is provided access to machine-sensible records as required in § 26-03(b) of these rules may be satisfied through a variety of means that must take into account a taxpayer's facts and circumstances through consultation with the taxpayer.
+   (8) The manner in which the Department is provided access to machine-sensible records as required in 19 RCNY § 26-03(b) may be satisfied through a variety of means that must take into account a taxpayer's facts and circumstances through consultation with the taxpayer.
 
    (9) Such access must be provided in one or more of the following manners unless the taxpayer and the Department agree on another means of providing access to the machine-sensible records:
 
@@ -12746,7 +12808,7 @@ Example: A taxpayer using electronic data interchange technology receives electr
 *§ 26-05 Taxpayer Responsibility and Discretionary Authority.* ::
 
 
-(a)  In conjunction with meeting the requirements of § 26-04 of these rules, a taxpayer may create files solely for the use of the Department. For example, if a database management system is used, it is consistent with these rules for the taxpayer to create and retain a file that contains the transaction-level detail from the database management system and that meets the requirements of § 26-04 of these rules. The taxpayer should document the process that created the separate file to show the relationship between that file and the original records.
+(a)  In conjunction with meeting the requirements of 19 RCNY § 26-04, a taxpayer may create files solely for the use of the Department. For example, if a database management system is used, it is consistent with these rules for the taxpayer to create and retain a file that contains the transaction-level detail from the database management system and that meets the requirements of 19 RCNY § 26-04. The taxpayer should document the process that created the separate file to show the relationship between that file and the original records.
 
 (b) A taxpayer may contract with a third party to provide custodial or management services of the records. Such a contract must not relieve the taxpayer of its responsibilities under these rules.
 
@@ -12764,7 +12826,7 @@ Example: A taxpayer using electronic data interchange technology receives electr
 
    (1) Documentation establishing the procedures for converting the hard copy documents to microfilm, microfiche or another storage-only imaging system must be maintained and made available on request. Such documentation must, at a minimum, contain a sufficient description to allow an original document to be followed through the conversion system as well as internal procedures established for inspection and quality assurance. There must be no substantial evidence that the microfilm, microfiche or other storage-only imaging system lacks authenticity or integrity.
 
-   (2) Procedures must be established for the effective identification, storage, and preservation of the stored documents and for making them available for the period they are required to be retained under § 26-07 of these rules.
+   (2) Procedures must be established for the effective identification, storage, and preservation of the stored documents and for making them available for the period they are required to be retained under 19 RCNY § 26-07.
 
    (3) Upon request by the Department, a taxpayer must provide facilities and equipment for reading, locating, and reproducing any documents maintained on microfilm, microfiche or other storage-only imaging system.
 
@@ -12940,9 +13002,9 @@ Chapter 28: Unincorporated Business Tax
 *§ 28-01 Meaning of Terms.* ::
 
 
-(a) General. (Administrative Code § 11-501(a)). Any term used in Chapter 5 of Title 11 of the Administrative Code and in these regulations which is not otherwise defined in that chapter or in this chapter of these regulations shall, unless a different meaning is clearly required, have the same meaning as when used in a comparable context in the laws of the United States relating to Federal income taxes and the Federal tax regulations promulgated thereunder. Any reference herein to the laws of the United States shall mean the provisions of the Internal Revenue Code of 1954, and amendments thereto, and other provisions of the laws of the United States relating to Federal income taxes, as the same may be or become effective at any time or from time to time for the taxable year. (See: § 28-02(d) of these regulations.)
+(a) General. (Administrative Code § 11-501(a)). Any term used in Chapter 5 of Title 11 of the Administrative Code and in these regulations which is not otherwise defined in that chapter or in this chapter of these regulations shall, unless a different meaning is clearly required, have the same meaning as when used in a comparable context in the laws of the United States relating to Federal income taxes and the Federal tax regulations promulgated thereunder. Any reference herein to the laws of the United States shall mean the provisions of the Internal Revenue Code of 1954, and amendments thereto, and other provisions of the laws of the United States relating to Federal income taxes, as the same may be or become effective at any time or from time to time for the taxable year. (See: 19 RCNY § 28-02(d).)
 
-(b) Taxpayer defined. The term "taxpayer" means any person or entity engaged in the carrying on or the liquidation of an unincorporated business, as such terms "unincorporated business," "person" or "entity" are defined in § 28-02 of these regulations, the income of which is, in whole or in part, subject to the tax imposed by Chapter 5 of Title 11 of the Administrative Code.
+(b) Taxpayer defined. The term "taxpayer" means any person or entity engaged in the carrying on or the liquidation of an unincorporated business, as such terms "unincorporated business," "person" or "entity" are defined in 19 RCNY § 28-02, the income of which is, in whole or in part, subject to the tax imposed by Chapter 5 of Title 11 of the Administrative Code.
 
 
 
@@ -12960,15 +13022,15 @@ Chapter 28: Unincorporated Business Tax
 
    (3) (i) An unincorporated business which is a utility business subject to the supervision of the State Department of Public Service and which is subject to the tax on utilities pursuant to Chapter 11 of Title 11 of the Administrative Code shall not be subject to tax under Chapter 5 of Title 11 of the Administrative Code.
 
-      (ii) An incorporated business which is subject to the tax on vendors of utility services under Chapter 11 of Title 11 of the Administrative Code shall be subject to the Unincorporated Business Tax under Chapter 5 of Title 11 of the Administrative Code on a portion of its entire net income allocable to the city under § 11-508 of the Administrative Code (see: § 28-07 of these regulations). Entire net income is the unincorporated business gross income as defined by § 11-506 of the Administrative Code (see: § 28-05 of this chapter of these regulations) less the unincorporated business deductions allowed by § 11-507 of the Administrative Code (see: § 28-06 of these regulations). The portion of the unincorporated business entire net income subject to the unincorporated business tax shall be calculated by multiplying the entire net income allocable to the City by a fraction the numerator of which shall be the total receipts of the unincorporated business less those receipts subject to the tax imposed by Chapter 11 of Title 11 and the denominator of which shall be the total receipts of the unincorporated business.
+      (ii) An incorporated business which is subject to the tax on vendors of utility services under Chapter 11 of Title 11 of the Administrative Code shall be subject to the Unincorporated Business Tax under Chapter 5 of Title 11 of the Administrative Code on a portion of its entire net income allocable to the city under § 11-508 of the Administrative Code (see: 19 RCNY § 28-07). Entire net income is the unincorporated business gross income as defined by § 11-506 of the Administrative Code (see: 19 RCNY § 28-05) less the unincorporated business deductions allowed by § 11-507 of the Administrative Code (see: 19 RCNY § 28-06). The portion of the unincorporated business entire net income subject to the unincorporated business tax shall be calculated by multiplying the entire net income allocable to the City by a fraction the numerator of which shall be the total receipts of the unincorporated business less those receipts subject to the tax imposed by Chapter 11 of Title 11 and the denominator of which shall be the total receipts of the unincorporated business.
 
 Example: An unincorporated business has total receipts of $1,000,000. $300,000 of these receipts is subject to the tax imposed by Chapter 11 of Title 11 of the Administrative Code. The entire net income of the business which is allocable to the City is $500,000. $350,000 will be subject to the Unincorporated Business Tax
 
-   ($700,000  × $500,000 = $350,000)   ($1,000,000
+($700,000  × $500,000 = $350,000) $1,000,000
 
    (4) (i) Where an individual or other unincorporated entity carries on in whole or in part in the City, two or more distinct unincorporated businesses, all such businesses carried on in whole or in part in the City shall be treated as one unincorporated business for the purposes of Chapter 5 of Title 11 of the Administrative Code. The gross business income and the unincorporated business deductions of all such businesses must be reported in one return. The deductions for the compensation for services of the proprietor or the active partners and the unincorporated business exemptions must be computed without regard to the fact that more than one business activity is carried on by the entity.
 
-      (ii) An individual or other unincorporated entity carrying on a number of separate and distinct unincorporated businesses, some located (in whole or in part) in the City and others located entirely outside the City, must treat all the New York City businesses as a single business in computing its tax. The businesses carried on entirely outside the City are not taxable and, therefore, items of income, gain, loss or deduction from such businesses are not included in computing the unincorporated business taxable income of the City business. In addition, these distinct businesses carried on entirely without the City may not serve as a regular place of business for allocation purposes of the business carried on within the City (see: § 28-07).
+      (ii) An individual or other unincorporated entity carrying on a number of separate and distinct unincorporated businesses, some located (in whole or in part) in the City and others located entirely outside the City, must treat all the New York City businesses as a single business in computing its tax. The businesses carried on entirely outside the City are not taxable and, therefore, items of income, gain, loss or deduction from such businesses are not included in computing the unincorporated business taxable income of the City business. In addition, these distinct businesses carried on entirely without the City may not serve as a regular place of business for allocation purposes of the business carried on within the City (see: 19 RCNY § 28-07).
 
       (iii) Where a husband and wife each carry on a separate and independent business, each must file a separate and independent tax return even if they file jointly for purposes of the Federal, State or City personal income taxes. Losses incurred in one spouse's business may not be used to reduce the taxable income of the other spouse's business.
 
@@ -12976,7 +13038,7 @@ Example: An unincorporated business has total receipts of $1,000,000. $300,000 o
 
 Example: The composition of a single song by an individual who is not a songwriter by profession does not constitute carrying on an unincorporated business so as to subject his royalty income to the tax.
 
-   (6) Ordinarily, an individual or other unincorporated entity, not otherwise subject to tax, engaging in activities relating to the investment and reinvestment of his or its own funds and the receipt or collection of income therefrom, or the sale, purchase or writing of stock options for his or its own account or the consummation of isolated or incidental transactions connected with such investment activities will not be considered to be the carrying on of a trade, business or occupation. See § 28-02(g). However, a taxpayer who or which invests funds in the purchase of an operating unincorporated business, such as a manufacturing plant, mercantile organization, hotel or other unincorporated activity of the type where the carrying on of business is necessary to realizing on the investment, will be deemed to be engaged in the conduct of a taxable trade, business, profession or occupation, even though only a limited amount of time, thought and energy may be devoted to the activity by the individual taxpayer, or by the members of a partnership or other unincorporated entity.
+   (6) Ordinarily, an individual or other unincorporated entity, not otherwise subject to tax, engaging in activities relating to the investment and reinvestment of his or its own funds and the receipt or collection of income therefrom, or the sale, purchase or writing of stock options for his or its own account or the consummation of isolated or incidental transactions connected with such investment activities will not be considered to be the carrying on of a trade, business or occupation. See 19 RCNY § 28-02(g). However, a taxpayer who or which invests funds in the purchase of an operating unincorporated business, such as a manufacturing plant, mercantile organization, hotel or other unincorporated activity of the type where the carrying on of business is necessary to realizing on the investment, will be deemed to be engaged in the conduct of a taxable trade, business, profession or occupation, even though only a limited amount of time, thought and energy may be devoted to the activity by the individual taxpayer, or by the members of a partnership or other unincorporated entity.
 
    (7) (i) An individual will not be treated as engaged in any trade, business, profession or occupation carried on within or without the City by an unincorporated entity in which such individual owns an interest.
 
@@ -12988,7 +13050,7 @@ Example 2: The facts are the same as in Example 1 except that the hotel is locat
 
 (b) Persons and entities subject to this tax. 
 
-   (1) General. The persons and entities which are subject to the unincorporated business income tax when they engage in the carrying on of or the liquidation of a taxable trade, business, profession or occupation, as defined in § 28-02(a), are any
+   (1) General. The persons and entities which are subject to the unincorporated business income tax when they engage in the carrying on of or the liquidation of a taxable trade, business, profession or occupation, as defined in 19 RCNY § 28-02(a), are any
 
       (i) individual,
 
@@ -13026,7 +13088,7 @@ Example 2: The facts are the same as in Example 1 except that the hotel is locat
 
 (c) Special rules for partnerships, syndicates, groups, pools, joint ventures.
 
-   (1) Partnership defined. The word "partnership" as used in these rules, includes, in addition to its ordinary meaning, a syndicate, group, pool, joint venture or other unincorporated organization, including a subchapter K limited liability company as defined in § 11-126 of the Administrative Code, through or by means of which any business, financial operation, or venture is carried on and which is not a trust, estate, corporation, or other entity subject to the tax imposed by Chapter 6 of Title 11 of the Administrative Code. See § 28-02(a)(1) for the treatment of unincorporated entities that elected to be subject to the unincorporated business tax under Administrative Code § 11-602(1)(b).
+   (1) Partnership defined. The word "partnership" as used in these rules, includes, in addition to its ordinary meaning, a syndicate, group, pool, joint venture or other unincorporated organization, including a subchapter K limited liability company as defined in § 11-126 of the Administrative Code, through or by means of which any business, financial operation, or venture is carried on and which is not a trust, estate, corporation, or other entity subject to the tax imposed by Chapter 6 of Title 11 of the Administrative Code. See 19 RCNY § 28-02(a)(1) for the treatment of unincorporated entities that elected to be subject to the unincorporated business tax under Administrative Code § 11-602(1)(b).
 
    (2) Additional criteria for partnerships to be deemed unincorporated businesses. For purposes of determining whether the activities of any partnership (including one which has made an election under Section 761 of the Internal Revenue Code; see: subdivision (d) of this section) constitute the carrying on of an unincorporated business, there shall, in addition to the other provisions of these regulations, be taken into account such factors as
 
@@ -13042,7 +13104,7 @@ Example 2: The facts are the same as in Example 1 except that the hotel is locat
 
    (2) Election under Section 761 of the Internal Revenue Code. Where an exclusion of a partnership or an unincorporated enterprise from application of the provisions of subchapter K of subtitle A of the Internal Revenue Code has resulted from an election made under section 761 of the Internal Revenue Code, there shall, upon request, be furnished to the Commissioner of Finance such information as the Commissioner of Finance may require regarding the names, addresses and proportionate interests in the partnership of the member partners, the nature and amount of income and deductions of the partnership and details of its business or financial operations or activities.
 
-   (3) Election under Section 1361 of the Internal Revenue Code. For taxable years ending prior to January 1, 1969, an election made by an unincorporated business enterprise owned by an individual or partnership (as defined herein) under Section 1361 of the 1954 Internal Revenue Code to be taxed as a domestic corporation for Federal income tax purposes will not in any way affect the liability of such unincorporated business enterprise provided for in Chapter 5 of Title 11 of the New York City Administrative Code unless, by reason of such election, the enterprise becomes subject to tax under Chapter 6 of Title 11 of the New York City Administrative Code, in which case its activities will not constitute the carrying on of an unincorporated business as defined in § 28-02(a)(1) of this section.
+   (3) Election under Section 1361 of the Internal Revenue Code. For taxable years ending prior to January 1, 1969, an election made by an unincorporated business enterprise owned by an individual or partnership (as defined herein) under Section 1361 of the 1954 Internal Revenue Code to be taxed as a domestic corporation for Federal income tax purposes will not in any way affect the liability of such unincorporated business enterprise provided for in Chapter 5 of Title 11 of the New York City Administrative Code unless, by reason of such election, the enterprise becomes subject to tax under Chapter 6 of Title 11 of the New York City Administrative Code, in which case its activities will not constitute the carrying on of an unincorporated business as defined in 19 RCNY § 28-02(a)(1).
 
    (4) Election under Section 1362 of the Internal Revenue Code. An election by a small business corporation under Section 1362 of the Internal Revenue Code, to be an S corporation (or for taxable years beginning prior to January 1, 1983 the comparable election under former Section 1372 of the Internal Revenue Code), does not alter the corporate status for other than Federal income tax purposes and does not make the electing corporation or its shareholders subject to the provisions of Chapter 5 of Title 11 of the New York City Administrative Code.
 
@@ -13054,15 +13116,15 @@ Example 2: The facts are the same as in Example 1 except that the hotel is locat
 
       (ii) an officer or director of a corporation, society, association or a political entity such as the United States, a State, a municipality or other political subdivision of a State, or
 
-      (iii) a fiduciary, such as an executor, administrator, trustee, liquidator, referee, or assignee, The performance of services as such employee, officer, director or fiduciary will not be deemed to be the carrying on of an unincorporated business by such individual unless the services so performed constitute part of a business regularly carried on by such individual. If the fiduciary is engaged in the carrying on of or the liquidation of a taxable trade, business, profession or occupation, see § 28-02(b)(2).
+      (iii) a fiduciary, such as an executor, administrator, trustee, liquidator, referee, or assignee, The performance of services as such employee, officer, director or fiduciary will not be deemed to be the carrying on of an unincorporated business by such individual unless the services so performed constitute part of a business regularly carried on by such individual. If the fiduciary is engaged in the carrying on of or the liquidation of a taxable trade, business, profession or occupation, see 19 RCNY § 28-02(b)(2).
 
    (2) Employee defined. 
 
       (i) The term "employee" as used in this subdivision (e) means an individual performing services for an employer under an employer-employee relationship. Generally, the relationship of employer and employee exists when the person for whom services are performed has the right to control and direct the individual who performs the services, not only as to the result to be accomplished, but also as to the details and means by which that result is to be accomplished. That is, an employee is subject to the will and control of the employer not only as to what shall be done but as to how it shall be done. He will usually be required to work during stated days and hours and be subject to company-established production standards. Other factors characteristic of employment, but not necessarily required or present in every case, are the providing of equipment and the furnishing of a place to work to the individual who performs the services.
 
-      (ii) If an individual is subject to the control or direction of another merely as to the result to be accomplished by the services and not as to the means and methods for accomplishing the result, he usually is an independent contractor or an independent agent rather than an employee. An individual who performs services for only one person or entity may, nevertheless, be an independent contractor or independent agent. Where he, however, performs services for two or more persons or entities, without a clear division of time, such an individual would ordinarily not be an employee but rather an independent contractor or agent with respect to both such persons or entities, since neither person or entity could be said to actually direct or control such individual to the extent necessary in an employer-employee relationship. With respect to certain sales representatives, however, this rule has been modified so that the sole fact of performance of services for two or more persons or entities without a clear division of time, does not, in itself, mean that such individual must be considered a self-employed independent contractor or agent. (See: § 28-02(i)of this section). Nevertheless, a sales representative will not be considered an employee unless such principals otherwise direct and control such individual to the extent necessary in an employer-employee relationship. Generally, agents, auctioneers, brokers, contractors and other individuals engaged in performing services who are independent and who offer their services to the general public are not employees. Likewise, where an individual makes an investment of capital which is a material income producing factor or maintains an inventory, whether or not title to such inventory is in his own name, such an individual would ordinarily be considered engaged in his own business.
+      (ii) If an individual is subject to the control or direction of another merely as to the result to be accomplished by the services and not as to the means and methods for accomplishing the result, he usually is an independent contractor or an independent agent rather than an employee. An individual who performs services for only one person or entity may, nevertheless, be an independent contractor or independent agent. Where he, however, performs services for two or more persons or entities, without a clear division of time, such an individual would ordinarily not be an employee but rather an independent contractor or agent with respect to both such persons or entities, since neither person or entity could be said to actually direct or control such individual to the extent necessary in an employer-employee relationship. With respect to certain sales representatives, however, this rule has been modified so that the sole fact of performance of services for two or more persons or entities without a clear division of time, does not, in itself, mean that such individual must be considered a self-employed independent contractor or agent. (See: 19 RCNY § 28-02(i)). Nevertheless, a sales representative will not be considered an employee unless such principals otherwise direct and control such individual to the extent necessary in an employer-employee relationship. Generally, agents, auctioneers, brokers, contractors and other individuals engaged in performing services who are independent and who offer their services to the general public are not employees. Likewise, where an individual makes an investment of capital which is a material income producing factor or maintains an inventory, whether or not title to such inventory is in his own name, such an individual would ordinarily be considered engaged in his own business.
 
-   (3) Employer-employee relationship determined. Whether there is sufficient direction and control which results in the relationship of employer and employee will be determined upon an examination of all the pertinent facts and circumstances of each case. The designation and description of the relationship by the parties, whether by contract or otherwise, is not necessarily determinative of the status of the individual for unincorporated business tax purposes. Other factors to be considered in determining if there is a sufficient exercise of direction and control resulting in an employer-employee relationship are whether the individual performing the services maintains his own office, engages his own assistants or hires his own employees, or incurs expenses without reimbursement. For a more detailed discussion of such factors, see § 28-02(i). Still other factors which may have some bearing are whether or not
+   (3) Employer-employee relationship determined. Whether there is sufficient direction and control which results in the relationship of employer and employee will be determined upon an examination of all the pertinent facts and circumstances of each case. The designation and description of the relationship by the parties, whether by contract or otherwise, is not necessarily determinative of the status of the individual for unincorporated business tax purposes. Other factors to be considered in determining if there is a sufficient exercise of direction and control resulting in an employer-employee relationship are whether the individual performing the services maintains his own office, engages his own assistants or hires his own employees, or incurs expenses without reimbursement. For a more detailed discussion of such factors, see 19 RCNY § 28-02(i). Still other factors which may have some bearing are whether or not
 
       (i) personal income taxes or Federal insurance contributions are deducted from compensation to be paid to the individual,
 
@@ -13072,7 +13134,7 @@ Example 2: The facts are the same as in Example 1 except that the hotel is locat
 
       (iv) whether or not the individual is a member of an employee union or association. The fact that the individual has been determined to be an employee or independent contractor by a court or administrative tribunal under any state, local or Federal law, is not determinative of the individual's status for the purposes of this subdivision (e). The weight, if any, to be given to such fact will depend upon the law under which the status was determined and the nature and purpose of such law.
 
-   (4) Services which constitute business activity. Personal services rendered by an individual as an employee, officer, director or fiduciary will ordinarily be deemed part of a business regularly carried on by such individual if such services are performed in furtherance of or for the direct benefit of other business activities, professional activities, or occupational activities the conduct of which constitutes an unincorporated business under the provisions of § 28-02(a)(1). For purposes of the preceding sentence, services as an employee, officer, director or fiduciary performed by an individual will not be deemed to be performed in furtherance of or for the direct benefit of other business, professional or occupational activities of the individual
+   (4) Services which constitute business activity. Personal services rendered by an individual as an employee, officer, director or fiduciary will ordinarily be deemed part of a business regularly carried on by such individual if such services are performed in furtherance of or for the direct benefit of other business activities, professional activities, or occupational activities the conduct of which constitutes an unincorporated business under the provisions of 19 RCNY § 28-02(a)(1). For purposes of the preceding sentence, services as an employee, officer, director or fiduciary performed by an individual will not be deemed to be performed in furtherance of or for the direct benefit of other business, professional or occupational activities of the individual
 
       (i) if the individual does not maintain an office or employ assistants in connection with such services and his services as an employee, officer, director or fiduciary are performed on a full-time basis for one employer or principal and constitute the primary or chief occupational activity of the individual, or
 
@@ -13088,11 +13150,11 @@ Example 2: The facts are the same as in Example 1 except that the hotel is locat
 
    (1) Full self-trading exemption.
 
-      (i) Taxable years beginning before July 1, 1994. Notwithstanding the provisions of § 28-02(a), for taxable years beginning before July 1, 1994, an individual or unincorporated entity, other than a dealer holding property primarily for sale to customers in the ordinary course of his, her, or its trade or business, shall not be deemed engaged in an unincorporated business solely by reason of the purchase and sale of property (real or personal), and, for taxable years beginning after 1976, the purchase, writing or sale of stock option contracts, for his, her, or its own account. Where the purchase and sale of real or personal property is connected with an unincorporated business otherwise regularly carried by the individual or entity, the profits and income from such purchases and sales will ordinarily be includible in the unincorporated business gross income of the individual or entity.
+      (i) Taxable years beginning before July 1, 1994. Notwithstanding the provisions of 19 RCNY § 28-02(a), for taxable years beginning before July 1, 1994, an individual or unincorporated entity, other than a dealer holding property primarily for sale to customers in the ordinary course of his, her, or its trade or business, shall not be deemed engaged in an unincorporated business solely by reason of the purchase and sale of property (real or personal), and, for taxable years beginning after 1976, the purchase, writing or sale of stock option contracts, for his, her, or its own account. Where the purchase and sale of real or personal property is connected with an unincorporated business otherwise regularly carried by the individual or entity, the profits and income from such purchases and sales will ordinarily be includible in the unincorporated business gross income of the individual or entity.
 
 Example: For taxable years beginning before July 1, 1994, a partnership holding a stock exchange seat, which buys and sells securities for its own account and executes orders on the floor of the exchange for other securities brokers for which it receives commissions, must include in its unincorporated business income both its trading profits and its commissions.
 
-      (ii) Taxable years beginning after June 30, 1994 and before 1996. Notwithstanding the provisions of § 28-02(a), for taxable years beginning after June 30, 1994, and before 1996, an individual or unincorporated entity, other than a dealer holding property primarily for sale to customers in the ordinary course of a trade or business, shall not be deemed engaged in an unincorporated business if the individual's or entity's activities consist exclusively of the purchase and sale of property, or the purchase, writing or sale of stock option contracts, for his, her, or its own account or consist exclusively of such activities and the conduct of any other activity or activities not otherwise subject to the tax imposed by Chapter 5 of Title 11 of the Administrative Code. See subparagraph (iv) of this paragraph for the treatment of individuals and entities receiving $25,000 or less of gross receipts from an unincorporated business in addition to the purchase and sale of property.
+      (ii) Taxable years beginning after June 30, 1994 and before 1996. Notwithstanding the provisions of 19 RCNY § 28-02(a), for taxable years beginning after June 30, 1994, and before 1996, an individual or unincorporated entity, other than a dealer holding property primarily for sale to customers in the ordinary course of a trade or business, shall not be deemed engaged in an unincorporated business if the individual's or entity's activities consist exclusively of the purchase and sale of property, or the purchase, writing or sale of stock option contracts, for his, her, or its own account or consist exclusively of such activities and the conduct of any other activity or activities not otherwise subject to the tax imposed by Chapter 5 of Title 11 of the Administrative Code. See subparagraph (iv) of this paragraph for the treatment of individuals and entities receiving $25,000 or less of gross receipts from an unincorporated business in addition to the purchase and sale of property.
 
       (iii) "Dealer" defined for taxable years beginning before January 1, 1996. For purposes of subparagraphs (i), (ii) and (iv) of this paragraph for taxable years beginning before January 1, 1996, a dealer in real or personal property is an individual or an unincorporated entity with an established place of business, regularly engaged in the purchase of property and its resale to customers; that is, one who (as a merchant) buys property and sells it to customers with a view to the gains and profits that may be derived therefrom. A builder or real estate developer who regularly subdivides real property and sells it as improved or unimproved lots likewise is considered to be a dealer for such purposes.
 
@@ -13108,7 +13170,7 @@ Example: For taxable years beginning before July 1, 1994, a partnership holding 
 
          (D) any combination of the activities described in subparagraphs (v)(A) through (v)(C) of this paragraph and any other activity not constituting an unincorporated business subject to the tax imposed by Chapter 5 of Title 11 of the Administrative Code.
 
-      (vi) Self-trading activities of individuals. An individual, other than a dealer as defined in paragraph (2) of this subdivision (g), engaged in the purchase and sale of real or personal property for his or her own account, including, for taxable years beginning after December 31, 1976, the purchase, sale or writing of stock option contracts, and, for taxable years beginning after December 31, 1995, the activities described in subparagraphs (v)(A) and (v)(B) of this paragraph, will not be deemed to be engaged in an unincorporated business wholly or partly in the City for purposes of this paragraph (1) unless (A) such transactions and activities are connected with a business regularly carried on wholly or partly in the City by the individual himself or herself and (B) for taxable years beginning after June 30, 1994, the individual receives more than $25,000 in gross receipts during the taxable year from such business regularly carried on. See §§ 28-02(a)(7)(i) and 28-02(g)(1)(iv) of these rules. For purposes of this paragraph (1), such transactions and activities will be considered to be connected with a business regularly carried on wholly or partly in the City if such transactions are effected in the name of the business, are effected using funds held in banks or other financial institutions in the name of the business or if the assets resulting from such transactions are held in the name, or for the account, of the business. Where the purchase and sale of real or personal property or, for taxable years beginning after December 31, 1995, the activities described in subparagraphs (v)(A) and (v)(B) of this paragraph, are connected with an unincorporated business otherwise regularly carried on by the individual, the profits and income from such transactions will be includible in the unincorporated business gross income of the individual.
+      (vi) Self-trading activities of individuals. An individual, other than a dealer as defined in paragraph (2) of this subdivision (g), engaged in the purchase and sale of real or personal property for his or her own account, including, for taxable years beginning after December 31, 1976, the purchase, sale or writing of stock option contracts, and, for taxable years beginning after December 31, 1995, the activities described in subparagraphs (v)(A) and (v)(B) of this paragraph, will not be deemed to be engaged in an unincorporated business wholly or partly in the City for purposes of this paragraph (1) unless (A) such transactions and activities are connected with a business regularly carried on wholly or partly in the City by the individual himself or herself and (B) for taxable years beginning after June 30, 1994, the individual receives more than $25,000 in gross receipts during the taxable year from such business regularly carried on. See 19 RCNY § 28-02(a)(7)(i) and (g)(1)(iv) of these rules. For purposes of this paragraph (1), such transactions and activities will be considered to be connected with a business regularly carried on wholly or partly in the City if such transactions are effected in the name of the business, are effected using funds held in banks or other financial institutions in the name of the business or if the assets resulting from such transactions are held in the name, or for the account, of the business. Where the purchase and sale of real or personal property or, for taxable years beginning after December 31, 1995, the activities described in subparagraphs (v)(A) and (v)(B) of this paragraph, are connected with an unincorporated business otherwise regularly carried on by the individual, the profits and income from such transactions will be includible in the unincorporated business gross income of the individual.
 
    (2) "Dealer" defined for taxable years beginning on or after January 1, 1996. For purposes of this subdivision (g) for taxable years beginning on or after January 1, 1996, a dealer in real or personal property is an individual or an unincorporated entity that (A) purchases, holds, or disposes of property that is stock in trade of the individual or entity, inventory or is otherwise held for sale to customers in the ordinary course of the individual's or the entity's trade or business, or (B) regularly offers to enter into, assume, offset, assign or otherwise terminate positions in property with customers in the ordinary course of the individual's or entity's trade or business. For taxable years beginning on or after January 1, 1996, an individual or unincorporated entity shall not be treated as a dealer for purposes of Chapter 5 of Title 11 of the Administrative Code based exclusively on the fact that such individual or unincorporated entity owns an interest in an entity that is a dealer, as defined above, and an unincorporated entity shall not be treated as a dealer based exclusively on the fact that an individual or other entity that is a dealer, as defined above, owns an interest in such unincorporated entity. This paragraph is illustrated below:
 
@@ -13178,11 +13240,11 @@ Example 5: Partnership A manufactures machine parts in the City at a factory bui
 
 Example 6: Partnership A is a 60% general partner in Partnership B, which is engaged in the operation of a business in the City. Partnership B also owns a portfolio of stocks that it trades for its own account. The value of B's portfolio is $30x. The gross value of B's other assets, none of which is described in subparagraphs (ii)(A) through (ii)(C) of this paragraph (4), is $20x. Therefore the value of B's portfolio assets is only 60% of the value of B's assets and B does not qualify for the partial exemption. Because A is a general partner in B, A does not qualify as an investor with respect to its interest in B and is subject to the UBT on its share of the self-trading income of B. Partnership A also owns a 90% limited partnership interest in Partnership C, which is engaged solely in trading stocks and securities for its own account in the City. The value of A's interest in C is $175x. Partnership A contributes its interest in C to Partnership B to enable Partnership B to qualify for the partial exemption. However, following the contribution, the partnership agreement for Partnership B is amended to allocate to A all of the income, gains, losses and deductions from the interest in Partnership C. After the contribution, the value of B's assets described in subparagraphs (ii)(A) through (ii)(C) of paragraph (4) will be $205 or 91% of B's total assets. As a result, B will qualify for the partial exemption and A would qualify as an investor with respect to Partnership B and would not be taxed on its share of B's self-trading income. However, A's distributive share of the income, etc. from Partnership C is materially greater than its distributive share of all other items of income, etc. of Partnership B. Because A contributed its interest in C to Partnership B solely to permit A to avoid tax on its share of B's self trading income, A is not considered to hold its interest in Partnership B as an investor and, consequently, A does not qualify for the partial self-trading exemption with respect to its distributive share of the self-trading income of B.
 
-      (vii) The provisions of this paragraph (4) do not apply to individuals. See § 28-02(a)(7)(i), which provides that an individual is not considered to be engaged in activities carried on by unincorporated entities in which the individual holds an interest.
+      (vii) The provisions of this paragraph (4) do not apply to individuals. See 19 RCNY § 28-02(a)(7)(i), which provides that an individual is not considered to be engaged in activities carried on by unincorporated entities in which the individual holds an interest.
 
    (5) The provisions of this subdivision (g) do not apply where an unincorporated entity is taxable as a corporation for Federal income tax purposes. Where such an entity is not taxable under Chapter 6 of Title 11 of the Administrative Code, its status as an unincorporated business under Chapter 5 of Title 11 of the Administrative Code will be determined under other subdivisions of this section without regard to the provisions of this subdivision (g).
 
-(h) Holding, leasing or managing real property. (Administrative Code § 11-502(d)). (1) General. Notwithstanding the provisions of § 28-02(a), an owner of real property, a lessee or a fiduciary shall not be deemed engaged in an unincorporated business solely by reason of holding, leasing or managing (including operating) real property for his, her or its own account. This provision does not apply to any individual or other unincorporated entity who or which manages and operates real property as an agent of an owner or lessee of the property or to a dealer holding real property primarily for sale to customers in the ordinary course of a trade or business.
+(h) Holding, leasing or managing real property. (Administrative Code § 11-502(d)). (1) General. Notwithstanding the provisions of 19 RCNY § 28-02(a), an owner of real property, a lessee or a fiduciary shall not be deemed engaged in an unincorporated business solely by reason of holding, leasing or managing (including operating) real property for his, her or its own account. This provision does not apply to any individual or other unincorporated entity who or which manages and operates real property as an agent of an owner or lessee of the property or to a dealer holding real property primarily for sale to customers in the ordinary course of a trade or business.
 
    (2) Application of this subdivision.
 
@@ -13190,21 +13252,21 @@ Example 6: Partnership A is a 60% general partner in Partnership B, which is eng
 
       (ii) For taxable years beginning on or after July 1, 1994, if an owner of real property or lessee or fiduciary who is holding, leasing or managing real property, other than as a dealer, is also carrying on an unincorporated business in whole or in part in the City, the holding, leasing or managing of the real property will not be considered an unincorporated business if, and only to the extent that, the real property is held, leased or managed for the purpose of producing rental income or gain on the sale of such property other than in the ordinary course of a trade or business. For purposes of this subparagraph (ii), the operation at such real property of a trade, business, profession or occupation, including, but not limited to, a garage, restaurant, laundry or health club, shall be considered incidental to the holding, leasing or managing of such real property and shall not be considered an unincorporated business, provided such trade, business, profession or occupation is conducted solely for the benefit of, and as an incidental service to, tenants at such real property, and such trade, business, profession or occupation is not open or available to the general public.
 
-      (iii) For taxable years beginning on or after January 1, 1996, if an owner, lessee or fiduciary that is holding, owning or leasing or managing real property operates a garage, parking lot or other similar facility at such real property that is open or available to the general public, the provision of parking, garaging or motor vehicle storage services on a monthly or longer term basis at such garage or other facility shall not be considered an unincorporated business carried on by the taxpayer if, and only to the extent that, such services are provided to tenants at such real property as an incidental service to such tenants. See paragraphs (8) and (9) of § 28-06(d) of these rules regarding the exclusion of income and the disallowance of expenses relating to the provision of parking services to tenants. Notwithstanding the foregoing provisions of this subparagraph (iii), if an owner, lessee or fiduciary holding leasing or managing real property who operates a garage or other similar facility at the property that is open to the public, does not satisfy the reporting requirements of § 28-18(j) of these rules, the provision of monthly or longer term parking services to tenants at the property will be considered the conduct of an unincorporated business subject to tax and will not be considered incidental to the holding, leasing or managing of the property.
+      (iii) For taxable years beginning on or after January 1, 1996, if an owner, lessee or fiduciary that is holding, owning or leasing or managing real property operates a garage, parking lot or other similar facility at such real property that is open or available to the general public, the provision of parking, garaging or motor vehicle storage services on a monthly or longer term basis at such garage or other facility shall not be considered an unincorporated business carried on by the taxpayer if, and only to the extent that, such services are provided to tenants at such real property as an incidental service to such tenants. See paragraphs (8) and (9) of 19 RCNY § 28-06(d) regarding the exclusion of income and the disallowance of expenses relating to the provision of parking services to tenants. Notwithstanding the foregoing provisions of this subparagraph (iii), if an owner, lessee or fiduciary holding leasing or managing real property who operates a garage or other similar facility at the property that is open to the public, does not satisfy the reporting requirements of 19 RCNY § 28-18(j), the provision of monthly or longer term parking services to tenants at the property will be considered the conduct of an unincorporated business subject to tax and will not be considered incidental to the holding, leasing or managing of the property.
 
       (iv) For purposes of subparagraphs (ii) and (iii) above, a determination of whether a trade, business, profession or occupation carried on at real property is open to the general public shall be based on all of the facts and circumstances. Among the facts and circumstances indicating that a business is open to or available to the general public is the presence of a sign identifying, or signifying the presence of, such business of sufficient size and location as to be readily visible to the public, unless such sign clearly indicates that such business is private and not open to the public. However, if the business is in fact open to the public, the absence of a sign is not relevant.
 
 Example (1): An individual, not otherwise engaged in an unincorporated business, who owns an apartment house leased unfurnished to 150 tenants and who, in consideration of the payment of rent received from tenants, supplies janitor service, elevator service and such other services as are generally incident to the operation of an apartment house in addition to the usual rights of occupancy, is not deemed to be engaged in an unincorporated business by reason of his activities relating to the ownership and management of the apartment house. On the other hand, the operation of a hotel open to the public for accommodations of short duration is not the holding, leasing or management of real property and would constitute an unincorporated business activity the income from which would be subject to the unincorporated business tax. In taxable years beginning before July 1, 1994, rents from store properties located in the hotel building are includible in the unincorporated business gross income of the individual where such individual is in the business of hotel keeping in such building. However, in taxable years beginning on or after July 1, 1994, while the operation of the hotel will constitute the conduct of an unincorporated business, rents from store properties located in the hotel would not be includible in the unincorporated business gross income from that unincorporated business.
 
-Example (2): In a taxable year beginning before July 1, 1994, an individual is engaged in a manufacturing business carried on in a building owned by him. His business requires the use of one-half of the building, and the unused portion of the building is rented to tenants. The rental income is subject to the unincorporated business income tax since such income results from the use of an asset connected with the taxpayer's business. In taxable years beginning on or after July 1, 1994, the rental income would not be subject to tax; however, the income from the manufacturing business would be taxable and not excluded as part of the rental activity because it is not carried as an incidental service to the tenants in the property even though the manufacturing business is not generally open to or available to the general public. No deduction would be allowed for one-half of the expenses relating to the property and, on a sale of the building, one-half of the gain would be taxable. See § 28-05(b)(12) and (c)(11) and § 28-06(d)(8) of these rules.
+Example (2): In a taxable year beginning before July 1, 1994, an individual is engaged in a manufacturing business carried on in a building owned by him. His business requires the use of one-half of the building, and the unused portion of the building is rented to tenants. The rental income is subject to the unincorporated business income tax since such income results from the use of an asset connected with the taxpayer's business. In taxable years beginning on or after July 1, 1994, the rental income would not be subject to tax; however, the income from the manufacturing business would be taxable and not excluded as part of the rental activity because it is not carried as an incidental service to the tenants in the property even though the manufacturing business is not generally open to or available to the general public. No deduction would be allowed for one-half of the expenses relating to the property and, on a sale of the building, one-half of the gain would be taxable. See 19 RCNY § 28-05(b)(12) and (c)(11) and 19 RCNY § 28-06(d)(8) of these rules.
 
 Example (3): Partnership A owns a rental office building in the City. Partnership A operates a garage adjacent to the building that is intended solely for the use of tenants in the building and not open to the general public. There is a sign, clearly visible from the street reading "Private Garage" at the door to the garage, which is kept open during the day. Tenants are assigned a prearranged number of parking spots at no additional rent. The operation of the garage at the building is not considered an unincorporated business because it is operated as an incidental service to the tenants in the building and is not considered to be open to the public. The result would be the same if the tenants paid additional rent for the parking spaces or if the number of, and amount paid for, parking spaces were separately negotiated with the landlord.
 
-Example (4): The facts are the same as in example 3 except that the sign at the garage door reads "Park," the door is open and inside the garage are posted parking rates for public and tenant parking. The garage is considered to be open to the general public. Certain tenants receive a fixed number of parking spaces for a term coextensive with their lease in the building at no additional rent. Other tenants are not given parking spaces pursuant to their leases but may separately contract for monthly or longer term parking spaces. Tenants who do not receive or contract for monthly or longer term parking spaces may enter the garage and park on an hourly, daily, weekly or monthly basis. Employees of tenants may also individually enter the garage and park on an hourly, daily, weekly or monthly basis. Income from parking services rendered on a monthly or longer term basis received from tenants is excluded from unincorporated business gross income provided the reporting requirements of Administrative Code § 11-502(d) and § 28-18(j) of these rules are met. See § 28-05(c)(11). Income from parking services rendered on a less than monthly basis rendered to tenants and income from all parking services rendered to tenants' employees and the public on any basis is included in unincorporated business gross income. If garage space is provided to tenants either as part of their lease or under separate long-term contracts, the fact that the tenant permits the spaces to be used by its employees does not render the parking income taxable; however, parking services provided under long-term contracts with persons who are not tenants will be taxable notwithstanding that those persons are employees of tenants.
+Example (4): The facts are the same as in example 3 except that the sign at the garage door reads "Park," the door is open and inside the garage are posted parking rates for public and tenant parking. The garage is considered to be open to the general public. Certain tenants receive a fixed number of parking spaces for a term coextensive with their lease in the building at no additional rent. Other tenants are not given parking spaces pursuant to their leases but may separately contract for monthly or longer term parking spaces. Tenants who do not receive or contract for monthly or longer term parking spaces may enter the garage and park on an hourly, daily, weekly or monthly basis. Employees of tenants may also individually enter the garage and park on an hourly, daily, weekly or monthly basis. Income from parking services rendered on a monthly or longer term basis received from tenants is excluded from unincorporated business gross income provided the reporting requirements of Administrative Code § 11-502(d) and 19 RCNY § 28-18(j) are met. See 19 RCNY § 28-05(c)(11). Income from parking services rendered on a less than monthly basis rendered to tenants and income from all parking services rendered to tenants' employees and the public on any basis is included in unincorporated business gross income. If garage space is provided to tenants either as part of their lease or under separate long-term contracts, the fact that the tenant permits the spaces to be used by its employees does not render the parking income taxable; however, parking services provided under long-term contracts with persons who are not tenants will be taxable notwithstanding that those persons are employees of tenants.
 
 (i) Sales representative. (Administrative Code § 11-502(e)).
 
-   (1) General. Notwithstanding the provisions of §§ 28-02(a) through 28-02(e) of this section, an individual, other than one who maintains an office or employs one or more assistants or otherwise regularly carries on a business, shall not be deemed engaged in an unincorporated business solely by reason of selling goods, wares or merchandise for more than one enterprise. The employment of clerical and secretarial assistance shall not be deemed the employment of assistants. In addition, office space or similar business space utilized solely for the display of merchandise and/or for the maintenance and storage of records normally used in the course of business, shall not be deemed an office for purposes of this section.
+   (1) General. Notwithstanding the provisions of 19 RCNY § 28-02(a) through (e), an individual, other than one who maintains an office or employs one or more assistants or otherwise regularly carries on a business, shall not be deemed engaged in an unincorporated business solely by reason of selling goods, wares or merchandise for more than one enterprise. The employment of clerical and secretarial assistance shall not be deemed the employment of assistants. In addition, office space or similar business space utilized solely for the display of merchandise and/or for the maintenance and storage of records normally used in the course of business, shall not be deemed an office for purposes of this section.
 
    (2) Maintenance of an office.
 
@@ -13214,7 +13276,7 @@ Example (4): The facts are the same as in example 3 except that the sign at the 
 
    (3) Employment of assistants. An individual, who engages assistants in connection with his selling activities, employs one or more assistants for the purpose of this subdivision (i) when
 
-      (i) he is the employer of the assistant or assistants in an employer and employee relationship within the meaning of § 28-02(e), or
+      (i) he is the employer of the assistant or assistants in an employer and employee relationship within the meaning of 19 RCNY § 28-02(e), or
 
       (ii) he engages the services of an assistant or assistants on a permanent or regular basis (as distinguished from a temporary or occasional basis) without regard to whether the relationship of employer and employee exists, or
 
@@ -13224,7 +13286,7 @@ Example (4): The facts are the same as in example 3 except that the sign at the 
 
       (i) A sales representative, selling goods, wares, merchandise or insurance, other than one who maintains an office or employs one or more assistants or otherwise regularly carries on a business, may not be deemed engaged in an unincorporated business solely by reason of selling for more than one enterprise, but the fact that he is selling for more than one enterprise will nevertheless be considered together with other indicia of self-employment to determine whether the sales representative is engaged in an unincorporated business. Furthermore, a sales representative whose principals do not exercise the direction and control over his activities to the extent necessary in an employer-employee relationship, will be considered an independent contractor and subject to the unincorporated business tax even though he does not maintain an office or employ assistants.
 
-      (ii) Where it is determined that an individual is engaged in an unincorporated business by reason of maintaining an office or employing assistants or selling goods, wares, merchandise or insurance as an independent contractor or agent, such determination will apply to other services as a salesman or sales representative performed by the individual as an employee or corporate officer unless such services as an employee or corporate officer do not constitute part of the taxable unincorporated business otherwise engaged in by the individual. The question of whether selling services performed as an employee or corporate officer are part of a business regularly carried on by the individual or are connected with an unincorporated business conducted by the individual shall be determined in accordance with the provisions of § 28-02(e)(4).
+      (ii) Where it is determined that an individual is engaged in an unincorporated business by reason of maintaining an office or employing assistants or selling goods, wares, merchandise or insurance as an independent contractor or agent, such determination will apply to other services as a salesman or sales representative performed by the individual as an employee or corporate officer unless such services as an employee or corporate officer do not constitute part of the taxable unincorporated business otherwise engaged in by the individual. The question of whether selling services performed as an employee or corporate officer are part of a business regularly carried on by the individual or are connected with an unincorporated business conducted by the individual shall be determined in accordance with the provisions of 19 RCNY § 28-02(e)(4).
 
 (j) Exempt trusts and organizations. (Administrative Code § 11-502(f)). A trust or other unincorporated organization which by reason of its purposes or activities is exempt from Federal income tax shall not be deemed an unincorporated business. Whether a trust or other unincorporated entity is exempt from Federal income taxes for the purposes of this subdivision (j) shall be determined without regard to whether, pursuant to Section 511 of the Internal Revenue Code, it is subject to Federal income taxes on unrelated business income. This subdivision (j) applies only to those trusts and organizations which are exempt from Federal income taxes solely by reason of the provisions of subchapter F, subtitle A, of the 1954 Internal Revenue Code, pertaining to such organizations as qualified pension, profit-sharing, stock bonus and certain other employee benefit plans, organizations of the class or type commonly known as religious, charitable, scientific or educational organizations, certain business or civic leagues, labor or agricultural organizations, social clubs, fraternal associations and various other nonprofit organizations which operate for and serve a public rather than a private interest. If the provisions of this subdivision (j) do not apply to a trust or an organization, the unincorporated business tax status of such trust or organization shall be determined under the other provisions of these regulations.
 
@@ -13236,9 +13298,9 @@ Example (4): The facts are the same as in example 3 except that the sign at the 
 *§ 28-03 Imposition of Tax.* ::
 
 
-(a) Rate of tax. (Administrative Code § 11-503(a)). The unincorporated business tax imposed by Chapter 5 of Title 11 of the Administrative Code for each taxable year is imposed at the rate of four percent on the unincorporated business taxable income. (See: § 28-04).
+(a) Rate of tax. (Administrative Code § 11-503(a)). The unincorporated business tax imposed by Chapter 5 of Title 11 of the Administrative Code for each taxable year is imposed at the rate of four percent on the unincorporated business taxable income. (See: 19 RCNY § 28-04).
 
-(b) Credit against tax. (Administrative Code § 11-503(b)). (1) A credit is allowed against the tax computed under § 28-03(a) for taxable years beginning after 1986 but before 1996 determined in the following manner:
+(b) Credit against tax. (Administrative Code § 11-503(b)). (1) A credit is allowed against the tax computed under 19 RCNY § 28-03(a) for taxable years beginning after 1986 but before 1996 determined in the following manner:
 
       (i) If the tax computed under such section is $600 or less, the amount of the credit is the entire amount of such tax.
 
@@ -13246,7 +13308,7 @@ Example (4): The facts are the same as in example 3 except that the sign at the 
 
       (iii) If the tax computed under such section is $800 or more, no credit is allowed.
 
-   (2) A credit is allowed against the tax computed under § 28-03(a) for taxable years beginning in 1996 determined in the following manner:
+   (2) A credit is allowed against the tax computed under 19 RCNY § 28-03(a) for taxable years beginning in 1996 determined in the following manner:
 
       (i) If the tax computed under such section is $800 or less, the amount of the credit is the entire amount of the tax.
 
@@ -13254,7 +13316,7 @@ Example (4): The facts are the same as in example 3 except that the sign at the 
 
       (iii) If the tax computed under such section is $1000 or more, no credit is allowed.
 
-   (3) A credit is allowed against the tax computed under § 28-03(a) for taxable years beginning after 1996 determined in the following manner:
+   (3) A credit is allowed against the tax computed under 19 RCNY § 28-03(a) for taxable years beginning after 1996 determined in the following manner:
 
       (i) If the tax computed under such section is $1,800 or less, the amount of the credit is the entire amount of the tax.
 
@@ -13264,7 +13326,7 @@ Example (4): The facts are the same as in example 3 except that the sign at the 
 
 (c) Additional credits. (Administrative Code §§ 11-503(c), (d), (e) and (f)).
 
-   (1) General. In addition to the credit referred to in § 28-03(b) above, credits relating to stock transfer taxes, certain sales and compensating use taxes, and certain expenses connected with the relocation of employment opportunities to New York City are also allowed.
+   (1) General. In addition to the credit referred to in 19 RCNY § 28-03(b) above, credits relating to stock transfer taxes, certain sales and compensating use taxes, and certain expenses connected with the relocation of employment opportunities to New York City are also allowed.
 
    (2) Credit relating to the stock transfer tax. The law allows a credit against the tax in an amount equal to 50% of the New York State stock transfer taxes paid by a taxpayer who incurred such taxes as a dealer, registered under Section 15(b) of the Securities Exchange Act of 1934, in "market making transactions" which took place on and after August 1, 1976 and before October 1, 1981. For definitions, limitations, modifications and procedures applicable to this credit, see §§ 11-503(c) and 11-506 of the Administrative Code.
 
@@ -13284,21 +13346,21 @@ Example (4): The facts are the same as in example 3 except that the sign at the 
 
          (B) Where the taxpayer receives a refund or credit of any tax imposed under section 1107 of the State Tax Law for which the taxpayer had claimed a credit under the provisions of this paragraph (3) in a prior taxable year, the amount of such tax refund or credit shall be added to the tax under this section, and such amount shall be subtracted in computing unincorporated business taxable income for the taxable year.
 
-      (v) For modifications to unincorporated business gross income resulting from the taxpayer's use of these credits, see § 28-05(b)(5) of these regulations.
+      (v) For modifications to unincorporated business gross income resulting from the taxpayer's use of these credits, see 19 RCNY § 28-05(b)(5).
 
-      (vi) A taxpayer who has paid, as a result of an audit and determination made by the New York State Department of Taxation and Finance, or the filing of an amended sales and use tax return, a sales and use tax which would give rise to a credit under subparagraphs (i) or (ii) above is entitled to claim the sales and use tax credit for that payment for the year to which the sales or use tax was originally due. No credit will be allowed for interest or penalties paid in connection with the state determination or amended return. (See: § 28-20(b) of these regulations relating to reports required when taxpayer's sales and use tax liability is changed or corrected.)
+      (vi) A taxpayer who has paid, as a result of an audit and determination made by the New York State Department of Taxation and Finance, or the filing of an amended sales and use tax return, a sales and use tax which would give rise to a credit under subparagraphs (i) or (ii) above is entitled to claim the sales and use tax credit for that payment for the year to which the sales or use tax was originally due. No credit will be allowed for interest or penalties paid in connection with the state determination or amended return. (See: 19 RCNY § 28-20(b) relating to reports required when taxpayer's sales and use tax liability is changed or corrected.)
 
    (4) Credits relating to the cost of relocating industrial and commercial employment oppor- tunities.
 
       (i) Credit relating to the annual increase in certain payments to a landlord by a taxpayer relocating industrial and commercial employment opportunities.
 
-         (A) Where a taxpayer shall have relocated to the city from a location outside the state, and by such relocation shall have created a minimum of one hundred industrial or commercial employment opportunities, and where such taxpayer shall have entered into a written lease for the relocation premises, the terms of which lease provide for increased additional payments to the landlord which are based solely and directly upon any increase or addition in real estate taxes imposed on the leased premises, the taxpayer, upon approval and certification by the Industrial and Commercial Incentive Board, as hereinafter provided, shall be entitled to a credit against the tax. The amount of such credit shall be an amount equal to the annual increased payments actually made by the taxpayer to the landlord which are solely and directly attributable to an increase or addition to the real estate tax imposed upon the leased premises. Such credit shall be allowed only to the extent that the taxpayer has not otherwise claimed said amount as a deduction against the tax. For modifications to unincorporated business gross income resulting from taxpayer's use of the credit, see: § 28-05(b)(6) of these regulations. The Industrial and Commercial Incentive Board in approving and certifying to the qualifications of the taxpayer to receive the tax credit provided for herein shall first determine that the applicant has met the requirements under this subparagraph (i), and further, that the granting of the tax credit to the applicant is in the "public interest." In determining that the granting of the tax credit is in the public interest, the board shall make affirmative findings that: the granting of the tax credit to the applicant will not effect an undue hardship on similar taxpayers already located within the City; the existence on this tax incentive has been instrumental in bringing about the relocation of the applicant to the City; and the granting of the tax credit will foster the economic recovery and economic development of the City.
+         (A) Where a taxpayer shall have relocated to the city from a location outside the state, and by such relocation shall have created a minimum of one hundred industrial or commercial employment opportunities, and where such taxpayer shall have entered into a written lease for the relocation premises, the terms of which lease provide for increased additional payments to the landlord which are based solely and directly upon any increase or addition in real estate taxes imposed on the leased premises, the taxpayer, upon approval and certification by the Industrial and Commercial Incentive Board, as hereinafter provided, shall be entitled to a credit against the tax. The amount of such credit shall be an amount equal to the annual increased payments actually made by the taxpayer to the landlord which are solely and directly attributable to an increase or addition to the real estate tax imposed upon the leased premises. Such credit shall be allowed only to the extent that the taxpayer has not otherwise claimed said amount as a deduction against the tax. For modifications to unincorporated business gross income resulting from taxpayer's use of the credit, see: 19 RCNY § 28-05(b)(6). The Industrial and Commercial Incentive Board in approving and certifying to the qualifications of the taxpayer to receive the tax credit provided for herein shall first determine that the applicant has met the requirements under this subparagraph (i), and further, that the granting of the tax credit to the applicant is in the "public interest." In determining that the granting of the tax credit is in the public interest, the board shall make affirmative findings that: the granting of the tax credit to the applicant will not effect an undue hardship on similar taxpayers already located within the City; the existence on this tax incentive has been instrumental in bringing about the relocation of the applicant to the City; and the granting of the tax credit will foster the economic recovery and economic development of the City.
 
          (B) The tax credit, if approved and certified by the Industrial and Commercial Incentive Board, must be utilized annually by the taxpayer for the length of the term of the lease, or, for a period not to exceed ten years from the date of relocation, whichever period is shorter.
 
       (ii) Credit relating to certain expenses involved in the cost of relocating industrial and commercial employment opportunities.
 
-         (A) A taxpayer shall be allowed an employment opportunity relocation costs credit against the tax. The amount of such credit shall be a maximum of three hundred dollars for each commercial employment opportunity and a maximum of five hundred dollars for each industrial employment opportunity relocated to the City from an area outside the state. Such credit shall be allowed to a taxpayer who relocates a minimum of ten employment opportunities. The relocation costs for which the credit may be claimed are those incurred on or after September 26, 1977 in connection with employment opportunities relocated to the City on or after that date. Such credit shall be allowed only to the extent that the taxpayer has not claimed a deduction for allowable employment opportunity relocation costs. For modifications to unincorporated business gross income resulting from taxpayer's use of the credit, see: § 28-05(b)(7) of these regulations.
+         (A) A taxpayer shall be allowed an employment opportunity relocation costs credit against the tax. The amount of such credit shall be a maximum of three hundred dollars for each commercial employment opportunity and a maximum of five hundred dollars for each industrial employment opportunity relocated to the City from an area outside the state. Such credit shall be allowed to a taxpayer who relocates a minimum of ten employment opportunities. The relocation costs for which the credit may be claimed are those incurred on or after September 26, 1977 in connection with employment opportunities relocated to the City on or after that date. Such credit shall be allowed only to the extent that the taxpayer has not claimed a deduction for allowable employment opportunity relocation costs. For modifications to unincorporated business gross income resulting from taxpayer's use of the credit, see: 19 RCNY § 28-05(b)(7).
 
          (B) The credit allowed hereunder may be taken by the taxpayer in whole or in part in the year in which the employment opportunity is relocated by such taxpayer or in either of the two years succeeding such event.
 
@@ -13306,23 +13368,23 @@ Example (4): The facts are the same as in example 3 except that the sign at the 
 
       (iv) Definitions: When used in this paragraph:
 
-Commercial employee. "Commercial employee" means one engaged in the buying, selling or otherwise providing of goods or services other than on a retail basis.
+         Commercial employee. "Commercial employee" means one engaged in the buying, selling or otherwise providing of goods or services other than on a retail basis.
 
-Employment opportunity. "Employment opportunity" means the creation of a full time position of gainful employment for an industrial or commercial employee and the actual hiring of such employee for the said position.
+         Employment opportunity. "Employment opportunity" means the creation of a full time position of gainful employment for an industrial or commercial employee and the actual hiring of such employee for the said position.
 
-Employment opportunity relocation costs. "Employment opportunity relocation costs" means the costs incurred by the taxpayer in moving furniture, files, papers and office equipment into the city from a location outside the state; the costs incurred by the taxpayer in the moving from a location outside the state; the costs of installation of telephones and other communications equipment required as a result of the relocation to the city from a location outside the state; the cost incurred in the purchase of office furniture and fixtures required as a result of the relocation to the city from a location outside the state; and the cost of renovation of the premises to be occupied as a result of the relocation, provided, however, that such renovation costs shall be allowable only to the extent that they do not exceed seventy-five cents per square foot of the total area utilized by the taxpayer in the occupied premises.
+         Employment opportunity relocation costs. "Employment opportunity relocation costs" means the costs incurred by the taxpayer in moving furniture, files, papers and office equipment into the city from a location outside the state; the costs incurred by the taxpayer in the moving from a location outside the state; the costs of installation of telephones and other communications equipment required as a result of the relocation to the city from a location outside the state; the cost incurred in the purchase of office furniture and fixtures required as a result of the relocation to the city from a location outside the state; and the cost of renovation of the premises to be occupied as a result of the relocation, provided, however, that such renovation costs shall be allowable only to the extent that they do not exceed seventy-five cents per square foot of the total area utilized by the taxpayer in the occupied premises.
 
-Full time position. "Full time position" means the hiring of an industrial or commercial employee in a position of gainful employment where the number of hours worked by such employee is not less than thirty hours during any given week.
+         Full time position. "Full time position" means the hiring of an industrial or commercial employee in a position of gainful employment where the number of hours worked by such employee is not less than thirty hours during any given week.
 
-Industrial and Commercial Incentive Board. "Industrial and Commercial Incentive Board" means the Board created pursuant to Part 3 of Subchapter 2 of Chapter 2 of the Administrative Code.
+         Industrial and Commercial Incentive Board. "Industrial and Commercial Incentive Board" means the Board created pursuant to Part 3 of Subchapter 2 of Chapter 2 of the Administrative Code.
 
-Industrial employee. "Industrial employee" means one engaged in the manufacture or assembling of tangible goods or the processing of raw materials.
+         Industrial employee. "Industrial employee" means one engaged in the manufacture or assembling of tangible goods or the processing of raw materials.
 
-Retail. "Retail" means the selling or otherwise disposing or furnishing of tangible goods or services directly to the ultimate user or consumer.
+         Retail. "Retail" means the selling or otherwise disposing or furnishing of tangible goods or services directly to the ultimate user or consumer.
 
 (d) Unincorporated business tax paid credit. Note: In this subdivision (d) for simplicity and clarity, the term "partner" is used to refer to any individual or entity owning an interest in an unincorporated business, and the term "partnership" is used to refer to any such unincorporated business.
 
-   (1) General. The additional exemption available to an unincorporated business pursuant to Administrative Code § 11-510(2) is repealed for taxable years of the unincorporated business beginning after June 30, 1994. For taxable years beginning on or after July 1, 1994, if an individual or unincorporated entity is a partner in a partnership carrying on an unincorporated business in the City of New York and is required to include all or a portion of the income of the partnership in the partner's own unincorporated business gross income, or receives a guaranteed payment from the partnership includible in the partner's own unincorporated business gross income, the partner is allowed a credit against the partner's own unincorporated business tax liability for the partner's share of the unincorporated business tax paid by the partnership, subject to certain limitations (the "UBT Paid Credit"). The UBT Paid Credit is not allowed to a partner owning an interest in a partnership for any unincorporated business tax paid by the partnership with respect to any taxable year of the partnership beginning before July 1, 1994. For taxable years of a partner beginning after 1995, the UBT Paid Credit allowed to a partner may exceed the amount of UBT Paid Credit that the partner may take in that year. In that event, the excess may be carried forward for up to seven years subject to certain limitations. However, for taxable years of a partner beginning on or after July 1, 1994 but before 1996, the amount of UBT Paid Credit allowed to the partner for a taxable year is the same as the amount of UBT Paid Credit that the partner may take against the partner's unincorporated business tax liability that year and no carryover is available. A corporation subject to the general corporation tax or the banking corporation tax that is a partner in a partnership carrying on an unincorporated business in the City is allowed a comparable credit against those taxes. See Administrative Code §§ 11-604.18 and 11-643.8 and § 11-50 of these rules.
+   (1) General. The additional exemption available to an unincorporated business pursuant to Administrative Code § 11-510(2) is repealed for taxable years of the unincorporated business beginning after June 30, 1994. For taxable years beginning on or after July 1, 1994, if an individual or unincorporated entity is a partner in a partnership carrying on an unincorporated business in the City of New York and is required to include all or a portion of the income of the partnership in the partner's own unincorporated business gross income, or receives a guaranteed payment from the partnership includible in the partner's own unincorporated business gross income, the partner is allowed a credit against the partner's own unincorporated business tax liability for the partner's share of the unincorporated business tax paid by the partnership, subject to certain limitations (the "UBT Paid Credit"). The UBT Paid Credit is not allowed to a partner owning an interest in a partnership for any unincorporated business tax paid by the partnership with respect to any taxable year of the partnership beginning before July 1, 1994. For taxable years of a partner beginning after 1995, the UBT Paid Credit allowed to a partner may exceed the amount of UBT Paid Credit that the partner may take in that year. In that event, the excess may be carried forward for up to seven years subject to certain limitations. However, for taxable years of a partner beginning on or after July 1, 1994 but before 1996, the amount of UBT Paid Credit allowed to the partner for a taxable year is the same as the amount of UBT Paid Credit that the partner may take against the partner's unincorporated business tax liability that year and no carryover is available. A corporation subject to the general corporation tax or the banking corporation tax that is a partner in a partnership carrying on an unincorporated business in the City is allowed a comparable credit against those taxes. See Administrative Code §§ 11-604.18 and 11-643.8 and 19 RCNY § 11-50.
 
    (2) Calculation of the UBT Paid Credit.
 
@@ -13350,9 +13412,21 @@ Retail. "Retail" means the selling or otherwise disposing or furnishing of tangi
 
                (iv) If a partner owns more than one type of interest in a partnership e.g., a general and a limited partnership interest, the partner's distributive shares and guaranteed payments with respect to all such interests are combined in determining the partner's net distributive share.
 
-         (B) Measure 2. Incremental tax effect of distributive share and guaranteed payments. Measure 2 is the excess of the amount determined in subparagraph (ii)(B)(a) over the amount determined in subparagraph (ii)(B)(b) below, modified as provided in subparagraph (ii)(B)(c) below. (a)  Partner's tax liability. The amount determined in this subparagraph (ii)(B)(a) is the tax liability of the partner determined under this § 28-03 without allowance of any of the credits allowed under § 11-503 of the Administrative Code. (b)  Partner's tax liability without distributive share. The amount determined in this subparagraph (ii)(B)(b) is the tax liability of the partner determined under this § 28-03, excluding any partnership items entering into the calculation of the partner's unincorporated business taxable income such as the partner's distributive share of the partnership's income, gain, loss and deductions, any guarantee payments from the partnership, and excluding partnership allocation factors, if taken into account in calculating the partner's allocation to the City (See § 28-07(j)(2)(i)(C)(a) of these rules) and determined without allowance of any of the credits allowed under § 11-503 of the Admin- istrative Code. (c)  Partner's modified tax liability. For taxable years of the partner beginning after 1995, the amounts computed in subparagraphs (ii)(B)(a) and (ii)(B)(b) above are computed with the following modifications: (1)  the amounts are computed without taking into account any deduction for a net operating loss carried to the taxable year of the partner. (2)  if, prior to taking into account any distributive share or guaranteed payments from the partnership or any net operating loss deduction, the unincorporated business taxable income of the partner is less than zero, the partner's unincorporated business taxable income is deemed to be zero. (3)  if the partner's net total distributive share of income, gain, loss and deductions of, and guaranteed payments from, any unincorporated business, other than the partnership with respect to which the amount of credit is being calculated, is less than zero, such net total distributive share is deemed to be zero.
+         (B) Measure 2. Incremental tax effect of distributive share and guaranteed payments. Measure 2 is the excess of the amount determined in subparagraph (ii)(B)(a) over the amount determined in subparagraph (ii)(B)(b) below, modified as provided in subparagraph (ii)(B)(c) below.
 
-         (C) Credit limited to partner's unincorporated business tax. For taxable years of the partner beginning before 1996, the sum of the UBT Paid Credits that a partner is allowed and may take against its tax liability in any given taxable year under this subdivision (d) with respect to all unincorporated businesses in which the partner is a partner shall not exceed the tax on the partner's unincorporated business taxable income determined under this § 28-03 without allowance of any of the credits allowed under § 11-503 of the Administrative Code. For taxable years of the partner beginning after 1995, the sum of the UBT Paid Credits that a partner may take for the taxable year under this subdivision (d) with respect to all unincorporated businesses in which the partner is a partner shall not exceed the tax on the partner's unincorporated business taxable income determined under this § 28-03, reduced by the credit allowed under subdivision (b) of § 11-503 of the Administrative Code, but without the allowance of any of the other credits allowed under such § 11-503.
+            (a) Partner's tax liability. The amount determined in this subparagraph (ii)(B)(a) is the tax liability of the partner determined under this 19 RCNY § 28-03 without allowance of any of the credits allowed under § 11-503 of the Administrative Code.
+
+            (b) Partner's tax liability without distributive share. The amount determined in this subparagraph (ii)(B)(b) is the tax liability of the partner determined under this 19 RCNY § 28-03, excluding any partnership items entering into the calculation of the partner's unincorporated business taxable income such as the partner's distributive share of the partnership's income, gain, loss and deductions, any guarantee payments from the partnership, and excluding partnership allocation factors, if taken into account in calculating the partner's allocation to the City (See 19 RCNY § 28-07(j)(2)(i)(C)(a)) and determined without allowance of any of the credits allowed under § 11-503 of the Administrative Code.
+
+            (c) Partner's modified tax liability. For taxable years of the partner beginning after 1995, the amounts computed in subparagraphs (ii)(B)(a) and (ii)(B)(b) above are computed with the following modifications:
+
+               (1)  the amounts are computed without taking into account any deduction for a net operating loss carried to the taxable year of the partner.
+
+               (2) if, prior to taking into account any distributive share or guaranteed payments from the partnership or any net operating loss deduction, the unincorporated business taxable income of the partner is less than zero, the partner's unincorporated business taxable income is deemed to be zero.
+
+               (3) if the partner's net total distributive share of income, gain, loss and deductions of, and guaranteed payments from, any unincorporated business, other than the partnership with respect to which the amount of credit is being calculated, is less than zero, such net total distributive share is deemed to be zero.
+
+         (C) Credit limited to partner's unincorporated business tax. For taxable years of the partner beginning before 1996, the sum of the UBT Paid Credits that a partner is allowed and may take against its tax liability in any given taxable year under this subdivision (d) with respect to all unincorporated businesses in which the partner is a partner shall not exceed the tax on the partner's unincorporated business taxable income determined under this 19 RCNY § 28-03 without allowance of any of the credits allowed under § 11-503 of the Administrative Code. For taxable years of the partner beginning after 1995, the sum of the UBT Paid Credits that a partner may take for the taxable year under this subdivision (d) with respect to all unincorporated businesses in which the partner is a partner shall not exceed the tax on the partner's unincorporated business taxable income determined under this 19 RCNY § 28-03, reduced by the credit allowed under subdivision (b) of § 11-503 of the Administrative Code, but without the allowance of any of the other credits allowed under such § 11-503.
 
    (3) Carryover of UBT Paid Credit after 1995.
 
@@ -13380,9 +13454,9 @@ Example: Partnership C is a partner in Partnership B, which, in turn, is a partn
 
       (iv) the distributive share percentage as defined in subparagraph (2)(ii)(A)(b) of this subdivision (d) calculated for each partner by dividing the amount in subparagraph (ii) above by the amount in subparagraph (iii) supra.
 
-   (8) The provisions of paragraphs (1) through (7) of this subdivision (d) are illustrated by the following examples. The facts of the examples have been simplified and do not reflect the deduction allowed by Administrative Code § 11-509(a) or the exemption allowed by Administrative Code § 11-510(a)(1). The effect of other credits allowed under § 11-503 of the Administrative Code is not reflected except as specifically noted. All of the examples below involve entities having business allocation percentages of 100 percent and no investment income. For examples of the calculation of the credit with respect to entities that allocate business or investment income outside the City, see subdivision (j) of § 28-07 of these rules.
+   (8) The provisions of paragraphs (1) through (7) of this subdivision (d) are illustrated by the following examples. The facts of the examples have been simplified and do not reflect the deduction allowed by Administrative Code § 11-509(a) or the exemption allowed by Administrative Code § 11-510(a)(1). The effect of other credits allowed under § 11-503 of the Administrative Code is not reflected except as specifically noted. All of the examples below involve entities having business allocation percentages of 100 percent and no investment income. For examples of the calculation of the credit with respect to entities that allocate business or investment income outside the City, see subdivision (j) of 19 RCNY § 28-07.
 
-Example 1: Calculation of distributive share percentage ("DSP"). Partnership ABCD has four partners. Partners A,B,C and D share equally in income of $800x from ABCD. Partner D also has a special allocation of a loss of ($300x) from ABCD.
+Example 1: Calculation of distributive share percentage ("DSP"). Partnership ABCD has four partners. Partners A,B,C and D share equally in income of $800x from ABCD. Partner D also has a special allocation of a loss of ($300x) from ABCD. 
 
  
 
@@ -13390,10 +13464,10 @@ Example 1: Calculation of distributive share percentage ("DSP"). Partnership ABC
 .. list-table::
     :header-rows: 1
 
-    * -  
+    * - 
       - I Distributive Share (DS) 
       - II DS – Modified for Calculation of DSP 
-      - III Distributive SharePercentage (DSP)(col. II &amp;divide; col. II total)
+      - III Distributive Share Percentage (DSP)(col. II &amp;divide; col. II total)
     * - A
       - $200x
       - $200x
@@ -13422,7 +13496,7 @@ Example 1: Calculation of distributive share percentage ("DSP"). Partnership ABC
 
 Example 2: DSP for members of a combined group. Assume the same facts as in example 1, above, except that B, C, and D are corporations that file a combined return for purposes of the general corporation tax as group CG. The membership of B, C, and D in the combined group does not affect the reporting by Partnership ABCD of the distributive share information required by these rules. CG's distributive share percentage is the sum of the distributive share percentages of B, C, and D or 66.67% (33.33% + 33.33% + 0%).
 
-Example 3: Basic credit calculation. AB is a partnership doing business in New York City. AB has two partners, A and B. Partner A is a partnership doing business in New York City with a 100% business allocation percentage. Partner B is an individual who does not independently do business in New York City. AB's unincorporated business taxable income ("UBTI") for calendar year 1995 is $400x. AB pays unincorporated business tax of $16x. AB's Form NYC-204 for 1995 indicates that A's distributive share from AB is $300x and that B's distributive share is $100x. (B is not entitled to a UBT Paid Credit with respect to AB because B does not include any portion of his distributive share from AB in any unincorporated business gross income reported by him. See § 28-05(a)(1) of these rules.) A has UBTI of $200x without regard to its distributive share of income, gain, loss or deduction from AB ("Separate UBTI"). A is subject to the unincorporated business tax and is entitled to a UBT Paid Credit with respect to tax paid by AB. A's UBT Paid Credit is determined as follows:
+Example 3: Basic credit calculation. AB is a partnership doing business in New York City. AB has two partners, A and B. Partner A is a partnership doing business in New York City with a 100% business allocation percentage. Partner B is an individual who does not independently do business in New York City. AB's unincorporated business taxable income ("UBTI") for calendar year 1995 is $400x. AB pays unincorporated business tax of $16x. AB's Form NYC-204 for 1995 indicates that A's distributive share from AB is $300x and that B's distributive share is $100x. (B is not entitled to a UBT Paid Credit with respect to AB because B does not include any portion of his distributive share from AB in any unincorporated business gross income reported by him. See 19 RCNY § 28-05(a)(1).) A has UBTI of $200x without regard to its distributive share of income, gain, loss or deduction from AB ("Separate UBTI"). A is subject to the unincorporated business tax and is entitled to a UBT Paid Credit with respect to tax paid by AB. A's UBT Paid Credit is determined as follows: 
 
  
 
@@ -13430,7 +13504,7 @@ Example 3: Basic credit calculation. AB is a partnership doing business in New Y
 .. list-table::
     :header-rows: 1
 
-    * - 
+    * -  
       - Separate UBTI 
       - DS 
       - DSP 
@@ -13464,7 +13538,7 @@ Measure 1: A's distributive share percentage is 75%. ($300x/$400x.) Measure 1 is
 
 Measure 2: A's total UBTI is $500x, on which the tax would be $20x before any UBT Paid Credit. The tax on A's separate UBTI of $200x would be $8x. Thus the incremental tax effect on A's total UBTI of A's distributive share from AB is $12x ($20x - $8x = $12x). Therefore, A's UBT Paid Credit is $12x. Example 4: Treatment of partner's losses and carryover of credit. The facts are the same as in example 3 except that for A's taxable year beginning January 1, 1995. A also has an operating loss of ($100x) without regard to its distributive share from AB. For the taxable year beginning January 1, 1996, the facts are the same as for 1995. For the taxable year beginning January 1, 1997, AB's UBTI is $400x. A's distributive share from AB is $300x. A's separate UBTI is $50x. A's UBT Paid Credits for 1995, 1996, and 1997 are calculated as follows:
 
- 1995
+1995
 
  
 
@@ -13476,8 +13550,8 @@ Measure 2: A's total UBTI is $500x, on which the tax would be $20x before any UB
       - Separate UBTI
       - DS
       - DSP
-      - TotalUBTI
-      - UBTLiability w/o credit
+      - Total UBTI
+      - UBT Liability w/o credit
     * - AB
       - NA
       - NA
@@ -13512,8 +13586,8 @@ Measure 2: A's total UBTI is $200x, on which the tax liability would be $8x. A's
       - Separate UBTI
       - DS
       - DSP
-      - TotalUBTI
-      - UBTLiability w/o credit
+      - Total UBTI
+      - UBT Liability w/o credit
     * - AB
       - NA
       - NA
@@ -13550,8 +13624,8 @@ A is allowed a credit of $12x. However, because A's actual tax liability for 199
       - Separate UBTI
       - DS
       - DSP
-      - TotalUBTI
-      - UBTLiability w/o credit
+      - Total UBTI
+      - UBT Liability w/o credit
     * - AB
       - $400x
       - NA
@@ -13592,10 +13666,10 @@ AB and BC are partnerships doing business in New York City. B is a partner in bo
 
     * - 
       - Separate UBTI
-      - DS fromAB
-      - DS fromBC
-      - TotalUBTI
-      - UBTLiability w/o credit
+      - DS from AB
+      - DS from BC
+      - Total UBTI
+      - UBT Liability w/o credit
     * - AB
       - NA
       - NA
@@ -13648,10 +13722,10 @@ Total Credit for 1995: B's total UBT Paid Credit with respect to AB and BC is $2
 
     * - 
       - Separate UBTI
-      - DS – DSPAB
-      - DS – DSPBC
-      - TotalUBTI
-      - UBTLiability w/o credit
+      - DS – DSP AB
+      - DS – DSP BC
+      - Total UBTI
+      - UBT Liability w/o credit
     * - AB
       - NA
       - NA
@@ -13666,8 +13740,8 @@ Total Credit for 1995: B's total UBT Paid Credit with respect to AB and BC is $2
       - $40x
     * - B
       - ($400x)
-      - $300x-75%
-      - $500x-50%
+      - $300x - 75%
+      - $500x - 50%
       - $400x
       - $16x
 ~
@@ -13698,7 +13772,7 @@ B's total UBT Paid Credit allowed with respect to AB and BC is $32x ($12x + $20x
 
 Example 7: Multiple tiers of partnerships and flow through of credits.
 
-Partnership C is a partner in Partnership B. B is a partner in partnership A. For each of the years 1995, 1996, 1997 and 1998, A's UBTI is $1000x, and A's tax liability is $40x, before a credit of $10x allowed to A pursuant to 11-503(i) (the REAP credit). The following chart summarizes the information relevant to A for the four taxable years.
+Partnership C is a partner in Partnership B. B is a partner in partnership A. For each of the years 1995, 1996, 1997 and 1998, A's UBTI is $1000x, and A's tax liability is $40x, before a credit of $10x allowed to A pursuant to 11-503(i) (the REAP credit). The following chart summarizes the information relevant to A for the four taxable years. 
 
  
 
@@ -13727,7 +13801,7 @@ Partnership C is a partner in Partnership B. B is a partner in partnership A. Fo
 
  
 
-For each year, B's distributive share from A is $400x. Its distributive share percentage with respect to A is 40%. In 1995 and 1996 B has separate UBTI of $200x. In 1997 B has separate UBTI loss of ($300x). In 1998 B has separate UBTI of $600x. The following chart summarizes the information relevant to B for the four taxable years:
+For each year, B's distributive share from A is $400x. Its distributive share percentage with respect to A is 40%. In 1995 and 1996 B has separate UBTI of $200x. In 1997 B has separate UBTI loss of ($300x). In 1998 B has separate UBTI of $600x. The following chart summarizes the information relevant to B for the four taxable years: 
 
  
 
@@ -13771,7 +13845,7 @@ For each year, B's distributive share from A is $400x. Its distributive share pe
 
  
 
-For each year, C's distributive share percentage in B is 50% and C has separate UBTI of $400x. The following chart summarizes the information relevant to C for the four taxable years:
+For each year, C's distributive share percentage in B is 50% and C has separate UBTI of $400x. The following chart summarizes the information relevant to C for the four taxable years: 
 
  
 
@@ -13911,13 +13985,13 @@ Therefore, C's UBT Paid Credit allowed with respect to B for 1998 is $20x.
 *§ 28-04 Unincorporated Business Taxable Income.* ::
 
 
-(a)  Unincorporated business entire net income (Administrative Code § 11-501(g)). For taxable years beginning on or after July 1, 1994, the unincorporated business entire net income of a taxpayer means its unincorporated business gross income, as computed under § 28-05 of these rules, over the unincorporated business deductions allowable under Administrative Code § 11-507 and § 28-06 of these rules.
+(a)  Unincorporated business entire net income (Administrative Code § 11-501(g)). For taxable years beginning on or after July 1, 1994, the unincorporated business entire net income of a taxpayer means its unincorporated business gross income, as computed under 19 RCNY § 28-05, over the unincorporated business deductions allowable under Administrative Code § 11-507 and 19 RCNY § 28-06.
 
-(b) Unincorporated business taxable income (Administrative Code § 11-505). For taxable years beginning before July 1, 1994, the unincorporated business taxable income of a taxpayer for unincorporated business tax purposes means the excess of the unincorporated business gross income, as computed under § 28-05 of these rules, over the unincorporated business deductions allowable under § 28-06 of these rules, allocated to New York City in accordance with § 28-07 of these rules, minus the deductions allowable, without allocation, under § 28-08 of these rules, for reasonable compensation for personal services of the proprietor or the partners actively engaged in the unincorporated business and minus the unincorporated business exemptions permitted under § 28-09 of these rules. For taxable years beginning on or after July 1, 1994, the unincorporated business taxable income of a taxpayer for unincorporated business tax purposes means its unincorporated business entire net income, allocated to the City, less the amount of:
+(b) Unincorporated business taxable income (Administrative Code § 11-505). For taxable years beginning before July 1, 1994, the unincorporated business taxable income of a taxpayer for unincorporated business tax purposes means the excess of the unincorporated business gross income, as computed under 19 RCNY § 28-05, over the unincorporated business deductions allowable under 19 RCNY § 28-06, allocated to New York City in accordance with 19 RCNY § 28-07, minus the deductions allowable, without allocation, under 19 RCNY § 28-08, for reasonable compensation for personal services of the proprietor or the partners actively engaged in the unincorporated business and minus the unincorporated business exemptions permitted under 19 RCNY § 28-09. For taxable years beginning on or after July 1, 1994, the unincorporated business taxable income of a taxpayer for unincorporated business tax purposes means its unincorporated business entire net income, allocated to the City, less the amount of:
 
-   (1) its deductions allowable, without allocation, under § 28-08 of these rules and;
+   (1) its deductions allowable, without allocation, under 19 RCNY § 28-08 and;
 
-   (2) its unincorporated business exemption permitted under § 28-09(a) of these rules.
+   (2) its unincorporated business exemption permitted under 19 RCNY § 28-09(a).
 
 
 
@@ -13927,7 +14001,7 @@ Therefore, C's UBT Paid Credit allowed with respect to B for 1998 is $20x.
 *§ 28-05 Unincorporated Business Gross Income.* ::
 
 
-(a) (1) General. (Administrative Code § 11-506(a)). Subject to the modifications prescribed below in § 28-05(b) and (c), the unincorporated business gross income of an unincorporated business engaged in or being liquidated by an individual or unincorporated entity means the sum of the items of income and gain (of whatever kind and in whatever form paid) that are includible in the gross income of the individual or unincorporated entity for Federal income tax purposes for the taxable year and that are derived from the carrying on or liquidation of the business or from any source whatever connected therewith, including, without limitation, income and gain
+(a) (1) General. (Administrative Code § 11-506(a)). Subject to the modifications prescribed below in 19 RCNY § 28-05(b) and (c), the unincorporated business gross income of an unincorporated business engaged in or being liquidated by an individual or unincorporated entity means the sum of the items of income and gain (of whatever kind and in whatever form paid) that are includible in the gross income of the individual or unincorporated entity for Federal income tax purposes for the taxable year and that are derived from the carrying on or liquidation of the business or from any source whatever connected therewith, including, without limitation, income and gain
 
       (A) from any property of the individual or unincorporated entity, or a member thereof, employed in the business,
 
@@ -13937,41 +14011,41 @@ Therefore, C's UBT Paid Credit allowed with respect to B for 1998 is $20x.
 
       (D) in the case of an unincorporated entity, from the sale or other disposition of an interest in another unincorporated entity if and to the extent such income or gain is attributable to a trade, business, profession or occupation carried on in whole or in part in the City by such other unincorporated entity. An individual member of a partnership who also carries on his or her own separate and independent unincorporated business is not required or permitted to include his distributive share of partnership income or his or her gain or loss on the sale or other disposition of his or her interest in the partnership in computing his or her separate unincorporated business gross income.
 
-Example: Doctor A is a member of a medical partnership which provides medical services to members of a group health plan. In addition, Doctor A carries on his own separate and independent medical practice. Doctor A may not include his distributive share of partnership income in his computation of his own unincorporated business gross income. (Furthermore, the medical partnership may not claim the statutory additional exemption described in § 28-09(b) of these rules for the amount distributed to Doctor A and Doctor A is not entitled to a credit against his unincorporated business tax liability for any unincorporated business tax paid by the medical partnership for its taxable years beginning on or after July 1, 1994. See § 28-09(b)(1) and § 28-03(d).
+Example: Doctor A is a member of a medical partnership which provides medical services to members of a group health plan. In addition, Doctor A carries on his own separate and independent medical practice. Doctor A may not include his distributive share of partnership income in his computation of his own unincorporated business gross income. (Furthermore, the medical partnership may not claim the statutory additional exemption described in 19 RCNY § 28-09(b) for the amount distributed to Doctor A and Doctor A is not entitled to a credit against his unincorporated business tax liability for any unincorporated business tax paid by the medical partnership for its taxable years beginning on or after July 1, 1994. See 19 RCNY § 28-09(b)(1) and 19 RCNY § 28-03(d).
 
    (2) For taxable years beginning on or after January 1, 1996, the character of a partner's distributive share of gross income, gains, losses and deductions of an unincorporated entity shall be determined as if such gross income, gains, losses and deductions were realized directly by such partner to the extent permitted for federal income tax purposes regardless of how the interest in the unincorporated entity was acquired and regardless of whether the distributive share is proportionate to the partner's capital interest in the unincorporated entity, provided, however, this paragraph (2) shall not apply to payments to a partner treated as occurring between the unincorporated entity and one who is not a partner under Internal Revenue Code § 707, and provided, further, this paragraph (2) shall not affect the determination of whether gross income, gains, losses, or deductions of an unincorporated entity are subject to the tax imposed under Chapter 5 of Title 11 of the Administrative Code. This paragraph (2) is illustrated by the following:
 
-Example: Partnership X is the sole general partner in Partnership A. X contributed one percent of the capital of Partnership A. X is responsible for the day to day management of the business of Partnership A, which is the purchase and sale of stocks and securities for the account of Partnership A. X is paid a fee each year of $100,000 qualifying as a guaranteed payment under Internal Revenue Code § 707. In addition, X is entitled to receive 20 percent of the income, gains, losses, and deductions of Partnership A. X's entire distributive share of the income, gains, losses, and deductions of Partnership A retains its character in X's hands, i.e., as dividends, interest and gains and losses from stocks and securities. X's $100,000 fee is compensation for services rendered and X's performance of those services may be considered an unincorporated business under the provisions of § 28-02 of these rules without regard to this paragraph (2).
+Example: Partnership X is the sole general partner in Partnership A. X contributed one percent of the capital of Partnership A. X is responsible for the day to day management of the business of Partnership A, which is the purchase and sale of stocks and securities for the account of Partnership A. X is paid a fee each year of $100,000 qualifying as a guaranteed payment under Internal Revenue Code § 707. In addition, X is entitled to receive 20 percent of the income, gains, losses, and deductions of Partnership A. X's entire distributive share of the income, gains, losses, and deductions of Partnership A retains its character in X's hands, i.e., as dividends, interest and gains and losses from stocks and securities. X's $100,000 fee is compensation for services rendered and X's performance of those services may be considered an unincorporated business under the provisions of 19 RCNY § 28-02 without regard to this paragraph (2).
 
-(b) Modifications increasing federal gross income. (Administrative Code § 11-506(b)). The Federal gross income of the unincorporated business determined under § 28-05(a) shall be increased by the following items, to the extent such items are attributable to the business:
+(b) Modifications increasing federal gross income. (Administrative Code § 11-506(b)). The Federal gross income of the unincorporated business determined under 19 RCNY § 28-05(a) shall be increased by the following items, to the extent such items are attributable to the business:
 
    (1) Interest income on obligations of any State of the United States, other than New York State, or of a political subdivision of any such other State, unless created by an agreement or compact to which the State of New York is a party;
 
    (2) Interest or dividend income on obligations or securities of any authority, commission, or instrumentality of the United States, which the laws of the United States exempt from Federal income tax, but not from State or local income taxes;
 
-   (3) The amount determined under § 28-08(b) of these regulations in respect of certain property sold or otherwise disposed of during the year, which was subject to an election exercised by the taxpayer with regard to a special deduction for depreciation or for an expenditure for property used for research or development purposes in accordance with said section;
+   (3) The amount determined under 19 RCNY § 28-08(b) in respect of certain property sold or otherwise disposed of during the year, which was subject to an election exercised by the taxpayer with regard to a special deduction for depreciation or for an expenditure for property used for research or development purposes in accordance with said section;
 
    (4) For taxable years commencing on or after August 1, 1977, the entire amount allowable as an exclusion or deduction for stock transfer taxes imposed by Article 12 of the State Tax Law in determining Federal gross income, but only to the extent that such taxes are incurred and paid in market making transactions as defined in § 11-503(c) of the Administrative Code;
 
-   (5) The amount allowed as an exclusion or deduction for sales and use taxes imposed by § 1107 of the State Tax Law in determining Federal gross income, but only such portion of such exclusion or deduction which is not in excess of the amount of credits allowed under § 28-03(c)(3) of these regulations;
+   (5) The amount allowed as an exclusion or deduction for sales and use taxes imposed by § 1107 of the State Tax Law in determining Federal gross income, but only such portion of such exclusion or deduction which is not in excess of the amount of credits allowed under 19 RCNY § 28-03(c)(3);
 
-   (6) The amount allowed as an exclusion or deduction for rent in determining Federal gross income but only such portion of such exclusion or deduction which is not in excess of the amount of credit allowed under § 28-03(c)(4) of these regulations;
+   (6) The amount allowed as an exclusion or deduction for rent in determining Federal gross income but only such portion of such exclusion or deduction which is not in excess of the amount of credit allowed under 19 RCNY § 28-03(c)(4);
 
-   (7) The amount allowed as an exclusion or deduction for relocation expenses in determining Federal gross income, but only such portion of such exclusion or deduction which is not in excess of the amount of the credit allowed under § 28-03(c)(4) of these regulations;
+   (7) The amount allowed as an exclusion or deduction for relocation expenses in determining Federal gross income, but only such portion of such exclusion or deduction which is not in excess of the amount of the credit allowed under 19 RCNY § 28-03(c)(4);
 
    (8) For taxable years beginning after December 31, 1981, any amount which would properly be includible in federal gross income had the taxpayer not made the election permitted pursuant to § 168(f)(8) of the Internal Revenue Code as it was in effect for safe harbor lease agreements entered into prior to January 1, 1984, except with respect to property which is a qualified mass commuting vehicle described in § 163(f)(8)(D) of the Internal Revenue Code;
 
-   (9) Upon the disposition of recovery property to which § 28-06(n) of these rules applies, the amount, if any, by which the aggregate of the deductions for depreciation attributable to such property allowable pursuant to such § 28-06(n) exceeds the aggregate accelerated cost recovery system deduction attributable to such property, described in § 28-06(m) of these rules;
+   (9) Upon the disposition of recovery property to which 19 RCNY § 28-06(n) applies, the amount, if any, by which the aggregate of the deductions for depreciation attributable to such property allowable pursuant to such 19 RCNY § 28-06(n) exceeds the aggregate accelerated cost recovery system deduction attributable to such property, described in 19 RCNY § 28-06(m);
 
-   (10) Notwithstanding any other provision of these rules to the contrary, for taxable years beginning on or after January 1, 1996, the amount allowed as an exclusion or deduction in determining federal gross income or any loss, including but not limited to, losses from notional principal contracts, losses, other than losses realized by the taxpayer as a dealer as defined in § 28-02(g)(2) of these rules, from the holding, sale or disposition, assumption, offset or termination of a position in, property, as defined in § 28-02(g)(3) of these rules, or other substantially similar losses from ordinary and routine trading or investment activity to the extent determined by the Commissioner of Finance, realized in connection with activities described in § 28-02(g)(1)(v) of these rules if, and to the extent that, such activities are not deemed an unincorporated business carried on by the taxpayer pursuant to the provisions of § 28-02(g) of these rules;
+   (10) Notwithstanding any other provision of these rules to the contrary, for taxable years beginning on or after January 1, 1996, the amount allowed as an exclusion or deduction in determining federal gross income or any loss, including but not limited to, losses from notional principal contracts, losses, other than losses realized by the taxpayer as a dealer as defined in 19 RCNY § 28-02(g)(2), from the holding, sale or disposition, assumption, offset or termination of a position in, property, as defined in 19 RCNY § 28-02(g)(3), or other substantially similar losses from ordinary and routine trading or investment activity to the extent determined by the Commissioner of Finance, realized in connection with activities described in 19 RCNY § 28-02(g)(1)(v) if, and to the extent that, such activities are not deemed an unincorporated business carried on by the taxpayer pursuant to the provisions of 19 RCNY § 28-02(g);
 
-   (11) Notwithstanding any other provision of these rules to the contrary, for taxable years beginning on or after January 1, 1996, in the case of a taxpayer that is an unin- corporated entity eligible for the partial self-trading exemption described in § 28-02(g)(4) of these rules, the amount allowed as an exclusion or deduction in determining federal gross income or any loss realized from the sale or other disposition of an interest in another unincorporated entity if, and to the extent that, such loss is attributable to activities of such other unincorporated entity not deemed an unincorporated business carried on by the taxpayer pursuant to the provisions of § 28-02(g) of these rules;
+   (11) Notwithstanding any other provision of these rules to the contrary, for taxable years beginning on or after January 1, 1996, in the case of a taxpayer that is an unin- corporated entity eligible for the partial self-trading exemption described in 19 RCNY § 28-02(g)(4), the amount allowed as an exclusion or deduction in determining federal gross income or any loss realized from the sale or other disposition of an interest in another unincorporated entity if, and to the extent that, such loss is attributable to activities of such other unincorporated entity not deemed an unincorporated business carried on by the taxpayer pursuant to the provisions of 19 RCNY § 28-02(g);
 
-   (12) Notwithstanding any other provision of these rules to the contrary, for taxable years beginning on or after July 1, 1994, the amount allowed as an exclusion or deduction in determining federal gross income or any loss realized from the holding, leasing or managing of real property if, and to the extent that, such holding, leasing or managing of real property is not deemed an unincorporated business carried on by the taxpayer pursuant to the provisions of § 28-02(h)(2)(ii) of these rules; and
+   (12) Notwithstanding any other provision of these rules to the contrary, for taxable years beginning on or after July 1, 1994, the amount allowed as an exclusion or deduction in determining federal gross income or any loss realized from the holding, leasing or managing of real property if, and to the extent that, such holding, leasing or managing of real property is not deemed an unincorporated business carried on by the taxpayer pursuant to the provisions of 19 RCNY § 28-02(h)(2)(ii); and
 
-   (13) Notwithstanding any other provision of these rules to the contrary, for taxable years beginning on or after January 1, 1996, the amount allowed as an exclusion or deduction in determining federal gross income or any loss realized from the provision by an owner, lessee or fiduciary holding, leasing or managing real property of the service of parking, garaging or storing of motor vehicles on a monthly or longer term basis to tenants at such real property if, and to the extent that, the provision of such services to such tenants is not deemed an unincorporated business carried on by the taxpayer pursuant to the provisions of § 28-02(h)(2)(iii) of these rules.
+   (13) Notwithstanding any other provision of these rules to the contrary, for taxable years beginning on or after January 1, 1996, the amount allowed as an exclusion or deduction in determining federal gross income or any loss realized from the provision by an owner, lessee or fiduciary holding, leasing or managing real property of the service of parking, garaging or storing of motor vehicles on a monthly or longer term basis to tenants at such real property if, and to the extent that, the provision of such services to such tenants is not deemed an unincorporated business carried on by the taxpayer pursuant to the provisions of 19 RCNY § 28-02(h)(2)(iii).
 
-(c) Modifications reducing federal gross income. (Administrative Code § 11-506(c)). The Federal gross income of the unincorporated business determined under § 28-05(a) shall be reduced by the following items, to the extent such items are attributable to the business:
+(c) Modifications reducing federal gross income. (Administrative Code § 11-506(c)). The Federal gross income of the unincorporated business determined under 19 RCNY § 28-05(a) shall be reduced by the following items, to the extent such items are attributable to the business:
 
    (1) Interest income on obligations of the United States and its possessions, to the extent includible in gross income for Federal income tax purposes;
 
@@ -13989,7 +14063,7 @@ Example: Partnership X is the sole general partner in Partnership A. X contribut
 
    (6) For taxable years beginning after December 31, 1981, any amount properly includible in federal gross income solely as a result of an election made pursuant to § 168(f)(8) of the Internal Revenue Code as it was in effect for safe harbor lease agreements entered into prior to January 1, 1984, except with respect to property which is a qualified mass commuting vehicle described in § 168(f)(8)(d) of the Internal Revenue Code;
 
-   (7) Upon the disposition of recovery property to which § 28-06(n) of these rules applies, the amount, if any, by which the aggregate accelerated cost recovery system deduction attributable to such property, described in § 28-06(m) of these rules, exceeds the aggregate of the deductions for depreciation attributable to such property allowable pursuant to such § 28-06(n);
+   (7) Upon the disposition of recovery property to which 19 RCNY § 28-06(n) applies, the amount, if any, by which the aggregate accelerated cost recovery system deduction attributable to such property, described in 19 RCNY § 28-06(m), exceeds the aggregate of the deductions for depreciation attributable to such property allowable pursuant to such 19 RCNY § 28-06(n);
 
    (8) For taxable years beginning on or after July 1, 1994, 50 percent of the amount of dividends (to the extent includible in gross income for federal income tax purposes and not subtracted under paragraph (2) or (3) of this subdivision (c)), other than
 
@@ -13997,15 +14071,15 @@ Example: Partnership X is the sole general partner in Partnership A. X contribut
 
       (ii) dividends from stock described in paragraph (b) or (c) of Administrative Code § 11-602.3, provided, however, no portion of a dividend from stock with respect to which a dividend deduction would be disallowed by § 246(c) of the Internal Revenue Code if the unincorporated business were subject to federal income tax as a corporation shall be subtracted under this paragraph (8). For purposes of subparagraphs (i) and (ii) of this paragraph (8), references in Administrative Code § 11-602 to "acquiring person" or "acquiring corporation" are deemed to refer to the unincorporated business;
 
-   (9) Notwithstanding any other provision of these rules to the contrary, for taxable years beginning on or after January 1, 1996, the amount of any income or gain (to the extent includible in gross income for federal income tax purposes), including but not limited to, dividends, interest, payments with respect to securities loans, income from notional principal contracts, income and gains, other than as a dealer, from the holding, sale or disposition, assumption, offset or termination of a position in, property as defined in § 28-02(g)(3) of these rules, or other substantially similar income from ordinary and routine trading or investment activity to the extent determined by the Commissioner of Finance, realized in connection with activities described in § 28-02(g)(1)(v) of these rules if, and to the extent that, such activities are not deemed an unincorporated business carried on by the taxpayer pursuant to the provisions of § 28-02(g) of these rules;
+   (9) Notwithstanding any other provision of these rules to the contrary, for taxable years beginning on or after January 1, 1996, the amount of any income or gain (to the extent includible in gross income for federal income tax purposes), including but not limited to, dividends, interest, payments with respect to securities loans, income from notional principal contracts, income and gains, other than as a dealer, from the holding, sale or disposition, assumption, offset or termination of a position in, property as defined in 19 RCNY § 28-02(g)(3), or other substantially similar income from ordinary and routine trading or investment activity to the extent determined by the Commissioner of Finance, realized in connection with activities described in 19 RCNY § 28-02(g)(1)(v) if, and to the extent that, such activities are not deemed an unincorporated business carried on by the taxpayer pursuant to the provisions of 19 RCNY § 28-02(g);
 
-   (10) Notwithstanding any other provision of these rules to the contrary, for taxable years beginning on or after January 1, 1996, in the case of a taxpayer that is an unincorporated entity eligible for the partial self-trading exemption described in § 28-02(g)(4) of these rules, the amount of any income or gain (to the extent includible in gross income for federal income tax purposes) realized from the sale or other disposition of an interest in another unincorporated entity if, and to the extent that, such income or gain is attributable to activities of such other unincorporated entity not demed an unincorporated business carried on by the taxpayer pursuant to the provisions of § 28-02(g) of these rules;
+   (10) Notwithstanding any other provision of these rules to the contrary, for taxable years beginning on or after January 1, 1996, in the case of a taxpayer that is an unincorporated entity eligible for the partial self-trading exemption described in 19 RCNY § 28-02(g)(4), the amount of any income or gain (to the extent includible in gross income for federal income tax purposes) realized from the sale or other disposition of an interest in another unincorporated entity if, and to the extent that, such income or gain is attributable to activities of such other unincorporated entity not demed an unincorporated business carried on by the taxpayer pursuant to the provisions of 19 RCNY § 28-02(g);
 
-   (11) Notwithstanding any other provision of these rules to the contrary, for taxable years beginning on or after July 1, 1994, the amount of any income or gain (to the extent includible in gross income for federal income tax purposes) realized from the holding, leasing or managing of real property if, and to the extent that, such holding, leasing or managing of real property is not deemed an unincorporated business carried on by the taxpayer pursuant to the provisions of § 28-02(h)(ii) of these rules; and
+   (11) Notwithstanding any other provision of these rules to the contrary, for taxable years beginning on or after July 1, 1994, the amount of any income or gain (to the extent includible in gross income for federal income tax purposes) realized from the holding, leasing or managing of real property if, and to the extent that, such holding, leasing or managing of real property is not deemed an unincorporated business carried on by the taxpayer pursuant to the provisions of 19 RCNY § 28-02(h)(ii); and
 
-   (12) Notwithstanding any other provision of these rules to the contrary, for taxable years beginning on or after January 1, 1996, the amount of any income or gain (to the extent includible in gross income for federal income tax purposes) realized by an owner, lessee or fiduciary holding, leasing or managing real property from providing parking, garaging or motor vehicle storage services on a monthly or longer term basis to tenants at such real property if, and to the extent that, the provision of such services to such tenants is not deemed an unincorporated business carried on by the taxpayer pursuant to the provisions of § 28-02(h)(iii) of these rules.
+   (12) Notwithstanding any other provision of these rules to the contrary, for taxable years beginning on or after January 1, 1996, the amount of any income or gain (to the extent includible in gross income for federal income tax purposes) realized by an owner, lessee or fiduciary holding, leasing or managing real property from providing parking, garaging or motor vehicle storage services on a monthly or longer term basis to tenants at such real property if, and to the extent that, the provision of such services to such tenants is not deemed an unincorporated business carried on by the taxpayer pursuant to the provisions of 19 RCNY § 28-02(h)(iii).
 
-(d) For purposes of subdivisions (b)(10) and (c)(9) of this section, ordinary and routine trading or investment activity will include entering into an agreement to participate in a transaction described in subparagraphs (v)(A) through (v)(D) of § 28-02(g)(1) of these rules. Consequently, for taxable years beginning on or after January 1, 1996, losses incurred in connection with, or as a result of, entering into such an agreement must be added back to federal gross income in determining unincorporated business gross income, and income and gains realized in connection with, or as a result of, entering into such an agreement, such as commitment fees or breakup fees, must be excluded from federal gross income in determining unincorporated business gross income to the extent that any such transaction is not considered to be pursuant to an unincorporated business carried on by the taxpayer pursuant to § 28-02(g) of these rules.
+(d) For purposes of subdivisions (b)(10) and (c)(9) of this section, ordinary and routine trading or investment activity will include entering into an agreement to participate in a transaction described in subparagraphs (v)(A) through (v)(D) of 19 RCNY § 28-02(g)(1). Consequently, for taxable years beginning on or after January 1, 1996, losses incurred in connection with, or as a result of, entering into such an agreement must be added back to federal gross income in determining unincorporated business gross income, and income and gains realized in connection with, or as a result of, entering into such an agreement, such as commitment fees or breakup fees, must be excluded from federal gross income in determining unincorporated business gross income to the extent that any such transaction is not considered to be pursuant to an unincorporated business carried on by the taxpayer pursuant to 19 RCNY § 28-02(g).
 
 
 
@@ -14023,7 +14097,7 @@ Example: Partnership X is the sole general partner in Partnership A. X contribut
 
       (i) the unincorporated business deductions computed without the benefit of any deduction of charitable contributions, and
 
-      (ii) the deduction allowed under § 28-08(b) of these regulations where the election permitted by such Section has been exercised with respect to the claiming of a special depreciation deduction or a research or development expenditure deduction for certain qualified property. Personal charitable contributions, that is, contributions not made by the unincorporated business itself, are not deductible for unincorporated business tax purposes even if they are of the type which would be deductible for Federal income tax purposes if made by a corporation. To be deductible for unincorporated business tax purposes, the charitable contribution must be directly connected with, or incurred in, the conduct of the unincorporated business, an entity separate and distinct from the owners or operators of the business.
+      (ii) the deduction allowed under 19 RCNY § 28-08(b) where the election permitted by such Section has been exercised with respect to the claiming of a special depreciation deduction or a research or development expenditure deduction for certain qualified property. Personal charitable contributions, that is, contributions not made by the unincorporated business itself, are not deductible for unincorporated business tax purposes even if they are of the type which would be deductible for Federal income tax purposes if made by a corporation. To be deductible for unincorporated business tax purposes, the charitable contribution must be directly connected with, or incurred in, the conduct of the unincorporated business, an entity separate and distinct from the owners or operators of the business.
 
    (2) Applicable rules. For purposes of applying the foregoing, the following rules shall apply:
 
@@ -14033,11 +14107,11 @@ Example: Partnership X is the sole general partner in Partnership A. X contribut
 
          (A) any amount allowable under this subdivision (b),
 
-         (B) any deduction for services of the proprietor or active partners allowable under § 28-08(a) of these regulations,
+         (B) any deduction for services of the proprietor or active partners allowable under 19 RCNY § 28-08(a),
 
-         (C) any deduction allowed under § 28-08(b) of these regulations (pertaining to special depreciation and research and development expenditures), and
+         (C) any deduction allowed under 19 RCNY § 28-08(b) (pertaining to special depreciation and research and development expenditures), and
 
-         (D) any net operating loss carryback (as distinguished from a carry over) to the taxable year allowed under § 28-06(c).
+         (D) any net operating loss carryback (as distinguished from a carry over) to the taxable year allowed under 19 RCNY § 28-06(c).
 
       (iii) Charitable contributions carryover. Except as otherwise provided in subparagraph (2)(iv) below, any contributions made by an unincorporated business in a taxable year (hereinafter in this subparagraph (iii) referred to as the contribution year), in excess of the amount deductible in such contribution year under the prescribed five percent limitation are deductible, in accordance with the provisions of the Internal Revenue Code each of the five succeeding taxable years in order of time, but only to the extent of the lesser of the following amounts:
 
@@ -14051,9 +14125,9 @@ Example: A partnership which is engaged in carrying on an unincorporated busines
 
          (A) the charitable contributions made by the unincorporated business in a taxable year to which this subdivision applies exceeds
 
-         (B) the maximum amount deductible in such year under the limitation prescribed by subparagraph (ii) above shall be reduced to the extent that such excess decreases the unincorporated business taxable income (as computed for purposes of § 28-06(c) pertaining to net operating loss carryover and carryback computations) and increases a net operating loss carryover under § 28-06(c) to a succeeding taxable year.
+         (B) the maximum amount deductible in such year under the limitation prescribed by subparagraph (ii) above shall be reduced to the extent that such excess decreases the unincorporated business taxable income (as computed for purposes of 19 RCNY § 28-06(c) pertaining to net operating loss carryover and carryback computations) and increases a net operating loss carryover under 19 RCNY § 28-06(c) to a succeeding taxable year.
 
-Example: An unincorporated business which began operations on January 1, 1971 sustained a net operating loss of $25,000 for the calendar year 1971. In 1972, the excess of the unincorporated business gross income over the unincorporated business deductions (without reference to a deduction for contributions or any net operating loss carryover) was $25,000. The contributions made by the business in 1972 amounted to $1,250. By reason of the carryover of the 1971 net operating loss of $25,000 to 1972, and because of the five percent limitation applicable to the deduction for contributions, no deduction for contributions is allowable for the year 1972. The $1,250 of contributions made in that year accordingly represents an "excess of contributions" within the meaning of subparagraph (iii) of this paragraph (2). This excess, however, is subject to a reduction of $1,250 because it has both (a) decreased the amount of the "applicable income" (under § 28-06 (c)) for 1972 ($25,000 minus $1,250 of contributions or $23,750) and (b) increased the net operating loss carryover available to 1973 (1971 loss of $25,000 minus the 1972 "applicable income" of $23,750 instead of minus the $25,000 of taxable 1972 income). The amount of the reduction of the excess of contributions based on the foregoing is $1,250 because that is the amount of both the decrease and increase computed above. $1,250 of the 1971 net operating loss remains as a carryover to 1973.
+Example: An unincorporated business which began operations on January 1, 1971 sustained a net operating loss of $25,000 for the calendar year 1971. In 1972, the excess of the unincorporated business gross income over the unincorporated business deductions (without reference to a deduction for contributions or any net operating loss carryover) was $25,000. The contributions made by the business in 1972 amounted to $1,250. By reason of the carryover of the 1971 net operating loss of $25,000 to 1972, and because of the five percent limitation applicable to the deduction for contributions, no deduction for contributions is allowable for the year 1972. The $1,250 of contributions made in that year accordingly represents an "excess of contributions" within the meaning of subparagraph (iii) of this paragraph (2). This excess, however, is subject to a reduction of $1,250 because it has both (a) decreased the amount of the "applicable income" (under 19 RCNY § 28-06(c)) for 1972 ($25,000 minus $1,250 of contributions or $23,750) and (b) increased the net operating loss carryover available to 1973 (1971 loss of $25,000 minus the 1972 "applicable income" of $23,750 instead of minus the $25,000 of taxable 1972 income). The amount of the reduction of the excess of contributions based on the foregoing is $1,250 because that is the amount of both the decrease and increase computed above. $1,250 of the 1971 net operating loss remains as a carryover to 1973.
 
       (v) Election by unincorporated business on an accrual method. An unincorporated business reporting its unincorporated business taxable income on an accrual method may elect to have a charitable contribution considered as paid during the taxable year provided payment is actually made on or before the 15th day of the third month following the close of the taxable year and if the contribution was pledged or made under a commitment made in writing by the unincorporated business during the taxable year. An election under this subparagraph (v) must be made at the time the return for the taxable year is filed. The election shall be made by including the contribution in the deduction claimed for contributions for the taxable year and by filing with the return a written declaration signed by the proprietor or an active partner showing
 
@@ -14079,15 +14153,15 @@ Example: An unincorporated business which began operations on January 1, 1971 su
 
          (A) A net operating loss sustained for any taxable year beginning on or after January 1, 1966 shall be (a) a net operating loss carryback to each of the three taxable years preceding the taxable year of such loss, and (b) a net operating loss carryover to each of the five taxable years following the taxable year of such loss. A net operating loss for any taxable year ending after December 31, 1975, shall be a net operating loss carryover to each of the fifteen taxable years following the taxable year of such loss.
 
-         (B) The entire amount of the net operating loss sustained in any taxable year beginning on or after January 1, 1966 (referred to herein as the "loss year") may be carried back three years. The loss is first carried to the earliest of the three taxable years. If it is not entirely used to offset income in that year, it is carried to the second taxable year preceding the loss year, and any remaining amount is carried to the taxable year immediately preceding the loss year. Any unused amount of loss then remaining may be carried forward for as many as fifteen taxable years following the loss year . If the unincorporated business taxable income for the three years preceding the loss year is smaller than the entire loss, the remaining loss is carried forward first to the taxable year immediately following the loss year, then to the second taxable year following the loss year, and so on for fifteen years , or until the loss is used up. For purposes of the preceding sentence, the unincorporated business taxable income shall be computed without regard to: (a) any deduction permitted under § 28-08(a) of these regulations for compensation for services of the proprietor or active partners, (b) any deduction allowed under § 28-08(b) of these regulations, (c) the unincorporated business exemptions allowable under § 28-09 of these regulations, and (d) the net operating loss for the loss year or for any subsequent taxable year. The taxable income so computed shall not be considered to be less than zero for any year. Any taxpayer entitled to a carryback period under this subdivision (c) may elect to relinquish the entire carryback period with respect to a net operating loss for any taxable year ending after December 31, 1975. Such election shall be made by the due date (including extensions of time) for filing the taxpayer's return for the taxable year of the net operating loss for which the election is to be in effect. Such election, once made for any taxable year, shall be irrevocable for that taxable year.
+         (B) The entire amount of the net operating loss sustained in any taxable year beginning on or after January 1, 1966 (referred to herein as the "loss year") may be carried back three years. The loss is first carried to the earliest of the three taxable years. If it is not entirely used to offset income in that year, it is carried to the second taxable year preceding the loss year, and any remaining amount is carried to the taxable year immediately preceding the loss year. Any unused amount of loss then remaining may be carried forward for as many as fifteen taxable years following the loss year . If the unincorporated business taxable income for the three years preceding the loss year is smaller than the entire loss, the remaining loss is carried forward first to the taxable year immediately following the loss year, then to the second taxable year following the loss year, and so on for fifteen years , or until the loss is used up. For purposes of the preceding sentence, the unincorporated business taxable income shall be computed without regard to: (a) any deduction permitted under 19 RCNY § 28-08(a) for compensation for services of the proprietor or active partners, (b) any deduction allowed under 19 RCNY § 28-08(b), (c) the unincorporated business exemptions allowable under 19 RCNY § 28-09, and (d) the net operating loss for the loss year or for any subsequent taxable year. The taxable income so computed shall not be considered to be less than zero for any year. Any taxpayer entitled to a carryback period under this subdivision (c) may elect to relinquish the entire carryback period with respect to a net operating loss for any taxable year ending after December 31, 1975. Such election shall be made by the due date (including extensions of time) for filing the taxpayer's return for the taxable year of the net operating loss for which the election is to be in effect. Such election, once made for any taxable year, shall be irrevocable for that taxable year.
 
-      (iii) Net operating loss defined. The term net operating loss as used in this subdivision (c) means  the excess of the unincorporated business deductions (other than the deductions specified in §§ 28-08(a) and 28-08(b) of these regulations) of the unincorporated business over the unincorporated business gross income computed under § 28-05 of these regulations allocated to New York City in accordance with the provisions of § 28-07 of these regulations, subject to the following modifications and exceptions:
+      (iii) Net operating loss defined. The term net operating loss as used in this subdivision (c) means  the excess of the unincorporated business deductions (other than the deductions specified in 19 RCNY § 28-08(a) and (b)) of the unincorporated business over the unincorporated business gross income computed under 19 RCNY § 28-05 allocated to New York City in accordance with the provisions of 19 RCNY § 28-07, subject to the following modifications and exceptions:
 
          (A) No net operating loss deduction shall be allowed.
 
-         (B) No deduction shall be allowed under § 28-09 of these regulations relating to unincorporated business exemptions.
+         (B) No deduction shall be allowed under 19 RCNY § 28-09 relating to unincorporated business exemptions.
 
-Example 1: The computation of a net operating loss under subparagraph (iii) above the net operating loss deductions and carrybacks and carryovers under subparagraphs (i) and (ii) above are illustrated below: The unincorporated business tax returns of an unincorporated business conducted by an individual wholly within New York City show the following:
+Example 1: The computation of a net operating loss under subparagraph (iii) above the net operating loss deductions and carrybacks and carryovers under subparagraphs (i) and (ii) above are illustrated below: The unincorporated business tax returns of an unincorporated business conducted by an individual wholly within New York City show the following: 
 
  
 
@@ -14095,67 +14169,67 @@ Example 1: The computation of a net operating loss under subparagraph (iii) abov
 .. list-table::
     :header-rows: 1
 
-    * - 
+    * -  
       - 1970 
       - 1971 
       - 1972 
-      - 1973 (Loss Year)
+      - 1973(Loss Year)
     * - U.B. gross income
       - $50,000 
       - $50,000 
       -  $62,000  
       -  $25,000  
     * - U.B. deductions
-      -   35,000
-      -   40,000
-      - 62,000 
-      -    60,000  
+      - $35,000
+      - $40,000
+      - $62,000 
+      -  $60,000  
     * - Balance (for the purpose of this section, called applicable income or loss)
       - $15,000 
       - $10,000 
       -  $    -0-     
       - ($35,000) 
     * - Compensation for services of proprietor
-      -  3,000
-      -  2,000
+      - $3,000
+      - $2,000
       -  $    -0-     
       -   -0-    
     * - Balance
       - $12,000 
-      - $  8,000 
+      - $8,000 
       -  $    -0-     
       - ($35,000) 
     * - Statutory exemption
-      -  5,000
-      -  5,000
-      -   5,000  
-      -   5,000  
+      - $5,000
+      - $5,000
+      -  $5,000  
+      -  $5,000  
     * - Taxable income or (loss)
-      - $  7,000 
-      - $  3,000 
-      - ($  5,000) 
+      - $7,000 
+      - $3,000 
+      - ($5,000) 
       - ($40,000) 
 ~
 
  
 
-The net operating loss for the year 1973 is $35,000, the applicable loss for such year, since no allowance may be made for either a deduction for compensation for services of a proprietor or active partner under § 28-08 of these regulations or for the $5,000 exemption allowable under § 28-09 of these regulations. The 1973 operating loss is carried back to 1970, and, since this is the only carryback possible to that year, it represents the "net operating loss deduction" for that year. Since the taxable income reported on the return filed for 1970, against which the net operating loss deduction can be applied, is $7,000, less than the available net operating loss deduction, allowance of this deduction on a timely application for refund will result in a refund of the entire amount of unincorporated business income tax paid for that year. The carryback to 1971 is the carryback to 1970 arrived at above ($35,000), less the applicable income for 1970 ($15,000), which applicable income was computed without regard to the § 28-08 deduction for compensation for services of a proprietor or active partners, or the $5,000 exemption allowable under § 28-09 of these regulations. This balance of $20,000 ($35,000-$15,000) is the carry back to the year 1971 and the net operating loss deduction for that year. Since this exceeds the taxable income for such year, the filing of a timely application for refund will result in a refund of the entire amount of unincorporated business income tax paid for that year. The carryback to 1972 is the 1971 carryback ($20,000) less the applicable income for 1971 ($10,000). The balance of $10,000 ($20,000 – $10,000) is the carryback to 1972, but cannot be applied since there was no income in that year. This amount of $10,000 is therefore available as a net operating loss carryover to 1974. This amount is the carryback to 1972 ($10,000) less the applicable income for 1972 ($0), resulting in a subtraction of "zero dollars" from the $10,000 carryback to the year 1972. The balance remaining, $10,000 ($10,000-0), is therefore, the carryover to 1974. The net operating loss deduction in any year is equal to the sum of all carrybacks and carryforwards from subsequent or prior years to such year. Since only one net operating loss, i.e., for the year 1973, is involved, there is only one carryback or carryforward  to each of the years herein. Accordingly, such carryback or carryforward represents the net operating loss deduction for each of such years.
+The net operating loss for the year 1973 is $35,000, the applicable loss for such year, since no allowance may be made for either a deduction for compensation for services of a proprietor or active partner under 19 RCNY § 28-08 or for the $5,000 exemption allowable under 19 RCNY § 28-09. The 1973 operating loss is carried back to 1970, and, since this is the only carryback possible to that year, it represents the "net operating loss deduction" for that year. Since the taxable income reported on the return filed for 1970, against which the net operating loss deduction can be applied, is $7,000, less than the available net operating loss deduction, allowance of this deduction on a timely application for refund will result in a refund of the entire amount of unincorporated business income tax paid for that year. The carryback to 1971 is the carryback to 1970 arrived at above ($35,000), less the applicable income for 1970 ($15,000), which applicable income was computed without regard to the 19 RCNY § 28-08 deduction for compensation for services of a proprietor or active partners, or the $5,000 exemption allowable under 19 RCNY § 28-09. This balance of $20,000 ($35,000 - $15,000) is the carry back to the year 1971 and the net operating loss deduction for that year. Since this exceeds the taxable income for such year, the filing of a timely application for refund will result in a refund of the entire amount of unincorporated business income tax paid for that year. The carryback to 1972 is the 1971 carryback ($20,000) less the applicable income for 1971 ($10,000). The balance of $10,000 ($20,000 – $10,000) is the carryback to 1972, but cannot be applied since there was no income in that year. This amount of $10,000 is therefore available as a net operating loss carryover to 1974. This amount is the carryback to 1972 ($10,000) less the applicable income for 1972 ($0), resulting in a subtraction of "zero dollars" from the $10,000 carryback to the year 1972. The balance remaining, $10,000 ($10,000 - 0), is therefore, the carryover to 1974. The net operating loss deduction in any year is equal to the sum of all carrybacks and carryforwards from subsequent or prior years to such year. Since only one net operating loss, i.e., for the year 1973, is involved, there is only one carryback or carryforward  to each of the years herein. Accordingly, such carryback or carryforward represents the net operating loss deduction for each of such years.
 
 The following example illustrates the application of more than one net operating loss:
 
-Example 2: Assume the facts in the foregoing example and assume further that there was applicable income (without regard to § 28-08 or § 28-09 deductions or exemptions) of $2,000 for the years 1974 and 1976, $7,500 for the year 1977, and a net operating loss of $5,000 (without regard to deductions or exemptions) for the year 1975. As found in Example 1, the 1973 carryover to 1974 is $10,000. The 1973 carryover to 1975 is $8,000 ($10,000, carryover to 1974 minus $2,000, applicable 1974 income). The 1973 carryover to 1976 is also $8,000 ($8,000 carryover to 1975 minus $0, there being a loss in 1975 and the applicable income to which the net operating loss is applied cannot be less than "zero"). The 1973 carryover to 1977 is accordingly $6,000 ($8,000-$2,000). The 1975 net operating loss of $5,000 is a carryback to 1972 in that amount. Because of the lack of income in the years 1972 and 1973, the 1975 carrybacks to 1973 and 1974 are also $5,000 each. The 1975 carryover to 1976 is also $5,000 ($5,000 carryback to 1974 minus $0, since the 1973 carryover to 1974 of $10,000 exceeded the applicable income for 1974 of $2,000). Similarly, the 1975 carryover to 1977 is $5,000 ($5,000 carryover to 1976 minus $0, since the 1973 carryover to 1976 of $8,000 exceeded the applicable income for 1976 of $2,000). The carryover from 1975 to 1978 is $3,500 ($5,000 carryover to 1977 less the $1,500 of applicable income which remained after the 1973 carryover of $6,000 was applied against the $7,500 of 1977 applicable income). The net operating loss eduction for 1972 would then be $15,000 . Similarly, by adding the 1973 and 1975 carryback. or carryovers, the net operating loss deductions for 1974, 1976 and 1977 would be $15,000, $13,000 and $11,000, respectively.
+Example 2: Assume the facts in the foregoing example and assume further that there was applicable income (without regard to 19 RCNY § 28-08 or 19 RCNY § 28-09 deductions or exemptions) of $2,000 for the years 1974 and 1976, $7,500 for the year 1977, and a net operating loss of $5,000 (without regard to deductions or exemptions) for the year 1975. As found in Example 1, the 1973 carryover to 1974 is $10,000. The 1973 carryover to 1975 is $8,000 ($10,000, carryover to 1974 minus $2,000, applicable 1974 income). The 1973 carryover to 1976 is also $8,000 ($8,000 carryover to 1975 minus $0, there being a loss in 1975 and the applicable income to which the net operating loss is applied cannot be less than "zero"). The 1973 carryover to 1977 is accordingly $6,000 ($8,000 - $2,000). The 1975 net operating loss of $5,000 is a carryback to 1972 in that amount. Because of the lack of income in the years 1972 and 1973, the 1975 carrybacks to 1973 and 1974 are also $5,000 each. The 1975 carryover to 1976 is also $5,000 ($5,000 carryback to 1974 minus $0, since the 1973 carryover to 1974 of $10,000 exceeded the applicable income for 1974 of $2,000). Similarly, the 1975 carryover to 1977 is $5,000 ($5,000 carryover to 1976 minus $0, since the 1973 carryover to 1976 of $8,000 exceeded the applicable income for 1976 of $2,000). The carryover from 1975 to 1978 is $3,500 ($5,000 carryover to 1977 less the $1,500 of applicable income which remained after the 1973 carryover of $6,000 was applied against the $7,500 of 1977 applicable income). The net operating loss eduction for 1972 would then be $15,000 . Similarly, by adding the 1973 and 1975 carryback. or carryovers, the net operating loss deductions for 1974, 1976 and 1977 would be $15,000, $13,000 and $11,000, respectively.
 
       (iv) Entity entitled to deduction. A net operating loss deduction under this subdivision (c) may be allowed only to the individual or unincorporated entity who or which actually was engaged in the carrying on or the liquidation of the unincorporated business activity from which the loss was sustained or incurred. Thus, an individual who purchases a going unincorporated business from another individual will not be allowed a net operating loss deduction for any net operating loss (or any portion of a net operating loss) sustained by the vendor or transferor and the vendor or transferor will not be allowed any deduction under this subdivision based on a net operating loss sustained by the purchaser or transferee of the business. See paragraph (3) of this subdivision (c) for net operating loss deduction rules for partnerships where partner interest differ for the loss year and deduction year. However, where no material change in beneficial interest of the beneficiaries results, a change in the identity of the trustee, administrator, executor or other fiduciary of an estate or trust which is subject to the unincorporated business tax will not be deemed to result in the formation of a new or different unincorporated business tax entity for purposes of this subdivision (c).
 
-      (v) Effect of allocation. Where the unincorporated business was carried on both within and without New York City during the loss year, the net operating loss with respect to which a deduction is permitted under this subdivision shall be the amount or portion of the loss computed under subparagraph (iii) of this paragraph (2) which is allocable to New York City in accordance with the provisions of § 28-07 of these regulations. If the business was carried on both within and without New York City during a taxable year to which a net operating loss may be carried under subparagraph (ii) of this paragraph (2), the net operating loss deduction allowable for such year shall be treated as a deduction not subject to allocation in computing the unincorporated business taxable income under § 28-04 of these regulations. Such deduction shall, however, be taken into account, to the extent applicable, in determining the amount of
+      (v) Effect of allocation. Where the unincorporated business was carried on both within and without New York City during the loss year, the net operating loss with respect to which a deduction is permitted under this subdivision shall be the amount or portion of the loss computed under subparagraph (iii) of this paragraph (2) which is allocable to New York City in accordance with the provisions of 19 RCNY § 28-07. If the business was carried on both within and without New York City during a taxable year to which a net operating loss may be carried under subparagraph (ii) of this paragraph (2), the net operating loss deduction allowable for such year shall be treated as a deduction not subject to allocation in computing the unincorporated business taxable income under 19 RCNY § 28-04. Such deduction shall, however, be taken into account, to the extent applicable, in determining the amount of
 
-         (A) any deduction for compensation for services of the proprietor or active partners under § 28-08 of these regulations,
+         (A) any deduction for compensation for services of the proprietor or active partners under 19 RCNY § 28-08,
 
-         (B) any additional exemption allowable under § 28-09 of these regulations, and
+         (B) any additional exemption allowable under 19 RCNY § 28-09, and
 
          (C) any allocable deduction for charitable contributions in any case where the net operating loss deduction represents a carryover to the taxable year (as distinguished from a carryback) for which such net operating loss deduction is to be allowed.
 
-Example 1: Partnership A &amp; B, which is engaged in the carrying on of an unincorporated business both within and without New York City, sustained a net loss of $10,000 for the year 1976. Assuming that no modifications under subparagraph (iii) of this paragraph (2) are required and assuming that 80 percent of the loss is attributable to New York City sources in accordance with § 28-07 of these regulations, the "net operating loss" for 1976 (the loss year) is $8,000 (80 percent of $10,000). Assuming further that the partnership began business on January 1, 1975 and that 75 percent of its 1975 unincorporated business taxable income (as shown below) was allocable to New York City under § 28-07 of these regulations, the net operating loss deduction and the other adjustments required with respect to the 1975 return will be as follows:
+Example 1: Partnership A &amp; B, which is engaged in the carrying on of an unincorporated business both within and without New York City, sustained a net loss of $10,000 for the year 1976. Assuming that no modifications under subparagraph (iii) of this paragraph (2) are required and assuming that 80 percent of the loss is attributable to New York City sources in accordance with 19 RCNY § 28-07, the "net operating loss" for 1976 (the loss year) is $8,000 (80 percent of $10,000). Assuming further that the partnership began business on January 1, 1975 and that 75 percent of its 1975 unincorporated business taxable income (as shown below) was allocable to New York City under 19 RCNY § 28-07, the net operating loss deduction and the other adjustments required with respect to the 1975 return will be as follows:
 
 1975 partnership unincorporated business income tax original return.
 
@@ -14168,19 +14242,19 @@ Example 1: Partnership A &amp; B, which is engaged in the carrying on of an unin
     * - Net income from business (before deductions for contributions and service of partners)
       - $25,000.00
     * - Deduction for contributions (total contributions $2,000 – limited to 5% of $25,000)
-      -  1,250.00
+      -  $1,250.00
     * - Balance
       - $23,750.00
     * - Allocated to New York City (75%)
       - $17,812.50
     * - Deductions for partners' services (20%)
-      -  3,562.50
+      -  $3,562.50
     * - Net income from business
       - $14,250.00
     * - Specific exemption
-      -  5,000.00
+      -  $5,000.00
     * - Unincorporated business taxable income
-      - $  9,250.00
+      - $9,250.00
 ~
 
  
@@ -14196,17 +14270,17 @@ Recomputation to allow net operating loss deduction for 1975.
     * - Net income of business allocated to New York City per return (before deduction for partners' services)
       - $17,812.50
     * - Net operating loss deduction allowed (80% of $10,000)
-      -  8,000.00
+      -  $8,000.00
     * - Balance
-      - $  9,812.50
+      - $9,812.50
     * - Deduction for partners' services (20%)
-      -  1,962.50
+      -  $1,962.50
     * - Net income from business
-      - $  7,850.00
+      - $7,850.00
     * - Specific exemption
-      -  5,000.00
+      -  $5,000.00
     * - Unincorporated business taxable income-revised
-      - $  2,850.00
+      - $2,850.00
 ~
 
 
@@ -14219,7 +14293,9 @@ In connection with the foregoing recomputation for 1975 the following points are
 
 (B) The allowance of the deduction for the services of the partners has been recomputed and the new limitation based on the reduced income has been applied.
 
-(C) The deduction for charitable contributions has not been recomputed even though the income base for limitation purposes has been reduced by the allowance of the net operating loss deduction, since a net operating loss carryback does not require a recomputation of a contributions deduction which is based on or limited to a percentage of a redefined taxable income. Example 2: If, in Example 1 above, the partnership had not engaged in business prior to 1976, the loss year, and if the partnership income, deductions and allocation percentage were the same for 1977 as those used for 1975 in Example 1, the $8,000 net operating loss would be a carryover to 1977 and the allowable net operating loss deduction would be reflected in the 1977 liability in the following manner:
+(C) The deduction for charitable contributions has not been recomputed even though the income base for limitation purposes has been reduced by the allowance of the net operating loss deduction, since a net operating loss carryback does not require a recomputation of a contributions deduction which is based on or limited to a percentage of a redefined taxable income.
+
+Example 2: If, in Example 1 above, the partnership had not engaged in business prior to 1976, the loss year, and if the partnership income, deductions and allocation percentage were the same for 1977 as those used for 1975 in Example 1, the $8,000 net operating loss would be a carryover to 1977 and the allowable net operating loss deduction would be reflected in the 1977 liability in the following manner: 
 
  
 
@@ -14230,15 +14306,15 @@ In connection with the foregoing recomputation for 1975 the following points are
     * - Net income from business (before net operating loss deduction, contributions and partners' service allowance)
       - $25,000
     * - Net operating loss
-      -  8,000
+      -  $8,000
     * - Balance (before contributions deduction)
       - $17,000
     * - Contributions ($2,000 – limited to 5% of $17,000)
-      -     850
+      -     $850
     * - Balance (after contributions deduction)
       - $16,150
     * - Deduction for partners' services
-      -  3,230
+      -  $3,230
     * - Net income
       - $12,920
 ~
@@ -14258,28 +14334,28 @@ Allocation Schedule
     * - Balance (after contributions deduction)
       - $16,150.00
     * - Add back net operating loss deduction
-      -  8,000.00
+      -  $8,000.00
     * - Allocation base
       - $24,150.00
     * - Amount allocated to New York City (75% of base)
       - $18,112.50
     * - Net operating loss deduction
-      -  8,000.00
+      -  $8,000.00
     * - Balance
       - $10,112.50
     * - Deduction for partners' services
-      -  2,022.50
+      -  $2,022.50
     * - Balance
-      - $  8,090.00
+      - $8,090.00
     * - Specific exemption
-      -  5,000.00
+      -  $5,000.00
     * - Unincorporated business taxable income
-      - $  3,090.00
+      - $3,090.00
 ~
 
  
 
-The computation in this example differs from Example 1 in that the deduction for contributions in Example 2 is computed by reference to an income base which reflects allowance of the net operating loss deduction for limitation purposes. The contributions deduction is determined in this way because the provision of § 28-06(b) which eliminates the recomputation of contributions based on a net operating loss carryback does not apply where the situation involves the allowance of a deduction based on a net operating loss carryover. This difference requires some variation in the application of the New York City allocation percentage for the year of deduction in order to arrive at the revised income base for limitation purposes applicable respectively to deductions for contributions and services of the partners.
+The computation in this example differs from Example 1 in that the deduction for contributions in Example 2 is computed by reference to an income base which reflects allowance of the net operating loss deduction for limitation purposes. The contributions deduction is determined in this way because the provision of 19 RCNY § 28-06(b) which eliminates the recomputation of contributions based on a net operating loss carryback does not apply where the situation involves the allowance of a deduction based on a net operating loss carryover. This difference requires some variation in the application of the New York City allocation percentage for the year of deduction in order to arrive at the revised income base for limitation purposes applicable respectively to deductions for contributions and services of the partners.
 
       (vi) Tax law applicable to computation. In determining the amount of any net operating loss carryback or carryover to any taxable year, the necessary computations involving any other taxable year shall be made under the law applicable to such other taxable year.
 
@@ -14291,7 +14367,7 @@ The computation in this example differs from Example 1 in that the deduction for
 
          (C) Notwithstanding any other provision of law (including § 11-527(a) and § 11-514 of the Administrative Code), a claim for refund under this subparagraph (vii) may be filed with the Commissioner of Finance at any time within three years from the time the return was due for the taxable year in which a net operating loss is sustained plus the period of any extension of time to file the tax return due for the loss year.
 
-      (viii) Periods of less than 12 months. A fractional part of a year which is a taxable year under § 28-17 of these regulations is a taxable year for all purposes of this subdivision (c) pertaining to net operating loss deductions.
+      (viii) Periods of less than 12 months. A fractional part of a year which is a taxable year under 19 RCNY § 28-17 is a taxable year for all purposes of this subdivision (c) pertaining to net operating loss deductions.
 
       (ix) In computing a net operating loss for a taxable year beginning in 1981, no accelerated cost recovery system deduction shall be allowed with respect to recovery property under § 168 of the Internal Revenue Code. In lieu of such deduction, a taxpayer shall be allowed for such recovery property the depreciation deduction allowable under § 167 of the Internal Revenue Code as such section was in full force and effect on December 31, 1980.
 
@@ -14305,7 +14381,7 @@ The computation in this example differs from Example 1 in that the deduction for
 
          (B) the unincorporated business taxable income for the taxable year as computed in paragraph (2)(ii) of this subdivision (c). The amount by which the carryback or carryover otherwise allowable exceeds the amount allowable pursuant to the foregoing ];imitation shall not be a carryback or carryover to any other taxable year. The rules for determining the amount of a net operating loss, the deductibility thereof as a carryover and/or carryback and the related provisions of this subdi vision (c) are applicable to net operating losses of partnerships to the extent they are not inconsistent with the provisions of this paragraph (3).
 
-Example: Y Co. partnership operated by individuals A, B, C, E and G sustained a net operating loss of $90,000 in 1976. The first partnership return filed in the name of Y Co. to cover business activities of any of the individual partners was for the year 1974. The partners in Y Co. for the years 1974, 1975, 1976, and 1977 and their percentages of interest in the partnership income and deductions were as follows:
+Example: Y Co. partnership operated by individuals A, B, C, E and G sustained a net operating loss of $90,000 in 1976. The first partnership return filed in the name of Y Co. to cover business activities of any of the individual partners was for the year 1974. The partners in Y Co. for the years 1974, 1975, 1976, and 1977 and their percentages of interest in the partnership income and deductions were as follows: 
 
  
 
@@ -14314,57 +14390,57 @@ Example: Y Co. partnership operated by individuals A, B, C, E and G sustained a 
     :header-rows: 1
 
     * - Name of Partner 
-      - 1974 
-      - 1975 
-      - 1976 
-      - 1977 
+      - 1974
+      - 1975
+      - 1976
+      - 1977
     * - *A 
-      -   15% 
-      -  X% 
-      -   15% 
-      -   25% 
+      -   15%
+      -  X
+      -   15%
+      -   25%
     * - *B 
-      - 20 
-      - 35 
-      - 15 
-      - 20 
+      - 20%
+      - 35%
+      - 15%
+      - 20%
     * - *C 
-      - 15 
-      - 20 
-      - 15 
-      - 20 
+      - 15%
+      - 20%
+      - 15%
+      - 20%
     * - *D 
-      - 40 
-      - 35 
-      - X 
-      - X 
+      - 40%
+      - 35%
+      - X
+      - X
     * - *E 
-      - 10 
-      - 5 
-      - 35 
-      - 10 
+      - 10%
+      - 5%
+      - 35%
+      - 10%
     * - *F 
-      - X 
-      - 5 
-      - X 
-      - 25 
+      - X
+      - 5%
+      - X
+      - 25%
     * - *G 
-      - X
-      - X
-      - 20
-      - X
-    * - 
-      -  100% 
-      -  100% 
-      -  100% 
-      -  100% 
+      -   X  
+      -   X  
+      -   20%  
+      -   X  
+    * -  
+      -  100%
+      -  100%
+      -  100%
+      -  100%
 ~
 
  
 
 * Denotes partner was member in firm in both "loss year" and "deduction year."
 
-The pertinent items of income and deduction were as follows:
+The pertinent items of income and deduction were as follows: 
 
  
 
@@ -14372,31 +14448,31 @@ The pertinent items of income and deduction were as follows:
 .. list-table::
     :header-rows: 1
 
-    * - 
-      - 1974 
-      - 1975 
-      - 1976 
-      - 1977 
+    * -  
+      - 1974
+      - 1975
+      - 1976
+      - 1977
     * - Applicable income
       - $81,250 
       - $56,250 
       - ($90,000) 
       - $68,750 
     * - Partners' service allowance
-      -   16,250
-      -   11,250
+      -   $16,250
+      -    $11,250
       -   -0-    
-      -   13,750
+      -    $13,750
     * - Net income
       - $65,000 
       - $45,000 
       - ($90,000) 
       - $55,000 
     * - Exemption
-      -  5,000
-      -  5,000
+      -  $5,000
+      -  $5,000
       -   -0-    
-      -  5,000
+      -  $5,000
     * - Taxable income
       - $60,000 
       - $40,000 
@@ -14410,7 +14486,7 @@ The pertinent items of income and deduction were as follows:
 
 On the foregoing information, the unincorporated business net operating loss deductions would be follows: The 1976 loss of $90,000 is available as a carryback to 1974 because the interests of A, B, C and E and (who were partners in both the 1974 and 1976 entities) constituted 80 percent of the total ownership for 1976.
 
-1974 Computation,
+1974 Computation
 
  
 
@@ -14421,7 +14497,7 @@ On the foregoing information, the unincorporated business net operating loss ded
     * - New operating loss as computed for 1976Limitation on loss for 1974-Sum of proportionate interests of A, B, C and E per partnership returns in the 1974 deduction year is 60 percent.
       - $90,000
     * - Loss recognized for deduction purposes 60 percent of $81,250 (the lesser of the amount of carryback or taxable income for 1974 as computed under paragraph (2)(ii) of this subdivision (c) =
-      - 48,750
+      - $48,750
 ~
 
 
@@ -14434,7 +14510,7 @@ No carryback allowable because the partners for 1975 who also held interests in 
 
 1977 Computation
 
-This entity qualifies for a carryover because the interests of A, B, C and E in the 1976 (loss year) partnership amounted to 80 percent of the total interests for the 1977 deduction year. The calculation of the 1977 carryover will be:
+This entity qualifies for a carryover because the interests of A, B, C and E in the 1976 (loss year) partnership amounted to 80 percent of the total interests for the 1977 deduction year. The calculation of the 1977 carryover will be: 
 
  
 
@@ -14453,10 +14529,10 @@ This entity qualifies for a carryover because the interests of A, B, C and E in 
       - 
     * - Total prior allowance
       - 
-      -   81,250
+      -   $81,250
     * - Loss to be taken into account for 1977
       - 
-      - $  8,750
+      - $8,750
     * - Limited to 75 percent, representing the sum of the interests of A, B, C and E in 1977 =
       - 
       - $6,562.50
@@ -14466,11 +14542,13 @@ This entity qualifies for a carryover because the interests of A, B, C and E in 
 
  
 
-(d) Nondeductible items. (Administrative Code § 11-507(3), (4), (5), (6) and (7)). (1) Proprietor's services or use of capital.
+(d) Nondeductible items. (Administrative Code § 11-507(3), (4), (5), (6) and (7)).
+
+   (1) Proprietor's services or use of capital.
 
       (i) General.
 
-         (A) No deduction shall be allowed, except as provided in § 28-08 of these Regulations, for amounts paid or incurred to a proprietor or partner for services or for use of capital.
+         (A) No deduction shall be allowed, except as provided in 19 RCNY § 28-08, for amounts paid or incurred to a proprietor or partner for services or for use of capital.
 
          (B) In addition to all other amounts otherwise included, amounts paid or incurred to a proprietor or partner for services or for use of capital shall include any amount paid to any person if, and to the extent that, the payment was consideration for services or capital provided by a proprietor or partner.
 
@@ -14496,7 +14574,7 @@ Example f: Partner A of Partnership ABC performs services for the partnership fo
 
          (C) Amounts paid or incurred to a partnership which is a member partner in an unincorporated business for services provided the unincorporated business by a partner of the member partnership shall not be allowed as a deduction under paragraph (1)(i) above. The fact that the partner is providing such services not in his capacity as a partner within the provisions of § 707 of the Federal Internal Revenue Code will not change the result.
 
-         (D) For purpose of paragraph (1)(i) of this subdivision (d), payments to partners for services do not include amounts paid or incurred by an unincorporated business to a partner of such business which reasonably represent the value of services provided the unincorporated business by the employees of such partner, and which, if not for the provisions of paragraph (1)(i) of this subdivision (d), would constitute allowable business deductions under § 28-06(a). The amounts paid or incurred for such employee services must be actually disbursed by the unincorpo rated business and included in that partner's gross income for Federal income tax purposes.
+         (D) For purpose of paragraph (1)(i) of this subdivision (d), payments to partners for services do not include amounts paid or incurred by an unincorporated business to a partner of such business which reasonably represent the value of services provided the unincorporated business by the employees of such partner, and which, if not for the provisions of paragraph (1)(i) of this subdivision (d), would constitute allowable business deductions under 19 RCNY § 28-06(a). The amounts paid or incurred for such employee services must be actually disbursed by the unincorpo rated business and included in that partner's gross income for Federal income tax purposes.
 
 Example: Partnership AB, Corporation C and the individual Mr. D form a joint venture called the ABCD Construction Company to construct a building in Staten Island. Each member of the Company contributes an equal amount of capital to the venture. In addition, Mr. A, a partner in Partnership AB will serve as engineering supervisor for the construction. Ms. E, the president of Corporation C, will serve as work site supervisor. Mr. D, an attorney, will handle all the legal affairs of the Company. The office staff of partnership AB will provide all the office services needed by the Company. The in-house accounting staff of Corporation C will handle all of the Company's accounting matters. Payments made by the Company for the services of Mr. A, Ms. E and Mr. D are not allowed as deductions in the calculation of the Company's unincorporated business taxable in come. Payments made by the Company for the office and accounting services provided by the members of the joint venture will be allowed as deductions if such payments are included in the respective member's gross income for Federal income tax purposes.
 
@@ -14504,7 +14582,7 @@ Example: Partnership AB, Corporation C and the individual Mr. D form a joint ven
 
          (A) Amounts paid or incurred by an unincorporated business to a partner or owner of such business for the use of monies, notes, bank deposits, shares of stock, bonds, and other securities given, loaned, advanced, pledged or otherwise made available by a partner or member of the unincorporated business to the business or on behalf of the business shall not be allowed as a deduction to the unincorporated business in the calculation of its unincorporated business taxable income.
 
-         (B) For purposes of paragraph (1)(i) of this subdivision (d) amounts paid or incurred to a partner for use of capital do not include amounts paid or incurred by an unincorporated business to a partner of such business which reasonably represent the value of the use of real or personal property (other than the property described in subparagraph (i)(A) above) of such partner by the unincorporated business and which, if not for the provisions of paragraph (1)(i) of this subdivision (d), would constitute allowable business deductions under § 28-06(a). The amounts paid or incurred for such use of property must be actually disbursed by the unincorporated business and included in that partner's gross income for Federal income tax purposes. The ownership of the property must be clearly retained by the partner or member.
+         (B) For purposes of paragraph (1)(i) of this subdivision (d) amounts paid or incurred to a partner for use of capital do not include amounts paid or incurred by an unincorporated business to a partner of such business which reasonably represent the value of the use of real or personal property (other than the property described in subparagraph (i)(A) above) of such partner by the unincorporated business and which, if not for the provisions of paragraph (1)(i) of this subdivision (d), would constitute allowable business deductions under 19 RCNY § 28-06(a). The amounts paid or incurred for such use of property must be actually disbursed by the unincorporated business and included in that partner's gross income for Federal income tax purposes. The ownership of the property must be clearly retained by the partner or member.
 
          (C) Examples:
 
@@ -14514,7 +14592,7 @@ Example b: Partnership AB maintains an office in a building owned by B, a partne
 
 Example c: X and Y form a partnership to engage in the construction business. Each contributes $100,000 in cash to the partnership. In addition, X agrees to loan the partnership $100,000. The partnership will pay X the prevailing market rate for this loan. Y agrees to lease to the partnership $100,000 worth of equipment. Under the lease, the partnership will pay Y the prevailing market rate for its leasing of the equipment. Although X will include in its gross income for Federal income tax purposes the interest income it receives on its loan to the partnership, the partnership may not deduct from its unincorporated business gross income the interest payments made to X. If Y includes in its gross income for Federal income tax purposes the rental income it receives on its leasing of the equipment to the partnership, the partnership may deduct from its unincorporated business gross income the rental payments made to Y for the equipment.
 
-      (iv) Partner. For purposes of this paragraph (1) and subdivision (a) of § 28-08 of these Rules, a person will be considered a partner in an entity for any tax year for which that person meets the requirements of clause (A), (B), (C) or (D) below. Any person who does not meet the requirements of at least one of such clauses will not be considered to be a partner in the entity.
+      (iv) Partner. For purposes of this paragraph (1) and subdivision (a) of 19 RCNY § 28-08, a person will be considered a partner in an entity for any tax year for which that person meets the requirements of clause (A), (B), (C) or (D) below. Any person who does not meet the requirements of at least one of such clauses will not be considered to be a partner in the entity.
 
          (A) The entity files a Federal Form 1065, Schedule K-1, with respect to that person.
 
@@ -14532,19 +14610,19 @@ Example c: X and Y form a partnership to engage in the construction business. Ea
 
       (ii) expenses paid or incurred for the production or collection of such tax-exempt income or for the management, conservation or maintenance of property held for the production of such tax exempt income, or
 
-      (iii) the amortizable bond premium on any bond, the interest income on which is so exempt. For rules regarding attribution and allocation of interest income and expenses see § 28-06(h).
+      (iii) the amortizable bond premium on any bond, the interest income on which is so exempt. For rules regarding attribution and allocation of interest income and expenses see 19 RCNY § 28-06(h).
 
    (4) Certain capital loss items. No deduction shall be allowed in respect of the excess of net long-term capital gain over net short-term capital loss, as these terms are defined in § 1222 of the Internal Revenue Code of 1954, but capital losses incurred in the unincorporated business shall be treated as ordinary losses and shall be allowed in full. No distinction shall be made for unincorporated business income tax purposes between long-term and short-term capital gains and losses incurred in the unincorporated business. All gains and losses, whether pertaining to capital assets or otherwise are reportable at 100%, except where otherwise provided in these regulations. In addition, no consideration shall be given to any net capital loss carryover permitted under any section or provision of the Internal Revenue Code for Federal income tax purposes.
 
-   (5) Certain special depreciation and research and development expenditures. Where an election has been made under § 28-08(b) of these regulations, no deduction shall be allowed for expenditures with reference to the property to which such election relates, or for depreciation of such property except as permitted by said section.
+   (5) Certain special depreciation and research and development expenditures. Where an election has been made under 19 RCNY § 28-08(b), no deduction shall be allowed for expenditures with reference to the property to which such election relates, or for depreciation of such property except as permitted by said section.
 
-   (6) Notwithstanding any other provision of these rules to the contrary, for taxable years beginning on or after January 1, 1996, no deduction shall be allowed for any expenses directly or indirectly attributable to activities described in § 28-02(g)(1)(v) of these rules if, and to the extent that, such activities are not deemed an unincorporated business carried on by the taxpayer pursuant to the provisions of § 28-02(g) of these rules.
+   (6) Notwithstanding any other provision of these rules to the contrary, for taxable years beginning on or after January 1, 1996, no deduction shall be allowed for any expenses directly or indirectly attributable to activities described in 19 RCNY § 28-02(g)(1)(v) if, and to the extent that, such activities are not deemed an unincorporated business carried on by the taxpayer pursuant to the provisions of 19 RCNY § 28-02(g).
 
-   (7) Notwithstanding any other provision of these rules to the contrary, for taxable years beginning on or after January 1, 1996, in the case of a taxpayer that is an unincorporated entity eligible for the partial self trading exemption described in § 28-02(g)(4) of these rules, no deduction shall be allowed for any losses or expenses directly or indirectly attributable to the sale or other disposition of an interest in another unincorporated entity if, and to the extent that, the activities of such other unincorporated entity are not deemed an unincorporated business carried on by the taxpayer pursuant to the provisions of § 28-02(g) of these rules.
+   (7) Notwithstanding any other provision of these rules to the contrary, for taxable years beginning on or after January 1, 1996, in the case of a taxpayer that is an unincorporated entity eligible for the partial self trading exemption described in 19 RCNY § 28-02(g)(4), no deduction shall be allowed for any losses or expenses directly or indirectly attributable to the sale or other disposition of an interest in another unincorporated entity if, and to the extent that, the activities of such other unincorporated entity are not deemed an unincorporated business carried on by the taxpayer pursuant to the provisions of 19 RCNY § 28-02(g).
 
-   (8) Notwithstanding any other provision of these rules to the contrary, for taxable years beginning on or after July 1, 1994, no deduction shall be allowed for interest, depreciation or any other expense directly or indirectly attributable to the holding, leasing or managing of real property if, and to the extent that, such holding, leasing or managing of real property is not deemed an unincorporated business carried on by the taxpayer pursuant to the provisions of § 28-02(h)(2)(ii) of these rules.
+   (8) Notwithstanding any other provision of these rules to the contrary, for taxable years beginning on or after July 1, 1994, no deduction shall be allowed for interest, depreciation or any other expense directly or indirectly attributable to the holding, leasing or managing of real property if, and to the extent that, such holding, leasing or managing of real property is not deemed an unincorporated business carried on by the taxpayer pursuant to the provisions of 19 RCNY § 28-02(h)(2)(ii).
 
-   (9) Notwithstanding any other provision of these rules to the contrary, for taxable years beginning on or after January 1, 1996, no deduction shall be allowed for interest, depreciation or any other expense of an owner, lessee or fiduciary holding, leasing or managing real property that are directly or indirectly attributable to parking, garaging or motor vehicle storage services provided on a monthly or longer term basis to tenants at such real property if, and to the extent that, the provision of such services to such tenants is not deemed an unincorporated business carried on by the taxpayer pursuant to the provisions of § 28-02(h)(2)(iii) of these rules.
+   (9) Notwithstanding any other provision of these rules to the contrary, for taxable years beginning on or after January 1, 1996, no deduction shall be allowed for interest, depreciation or any other expense of an owner, lessee or fiduciary holding, leasing or managing real property that are directly or indirectly attributable to parking, garaging or motor vehicle storage services provided on a monthly or longer term basis to tenants at such real property if, and to the extent that, the provision of such services to such tenants is not deemed an unincorporated business carried on by the taxpayer pursuant to the provisions of 19 RCNY § 28-02(h)(2)(iii).
 
 (e) [Reserved.]
 
@@ -14592,7 +14670,7 @@ Example c: X and Y form a partnership to engage in the construction business. Ea
 
       (ii) on condition that for the taxable year and all succeeding taxable years, no deduction for such expenditures or for depreciation or amortization of the same property allowed for Federal income tax purposes shall be allowed under Chapter 5 of Title 11 of the Administrative Code, except to the extent that the basis of the property may be attributable to factors other than such expenditures, or in case a deduction is allowable pursuant to this subdivision (i) for only a part of such expenditures, on condition that any deduction allowed for Federal income tax purposes for such expenditures or for depreciation or amortization of the same property be proportionately reduced in computing unincorporated business deductions for the taxable year and all succeeding taxable years, and
 
-      (iii) on condition that no election under § 28-08(b) of these regulations (pertaining to special depreciation and research and development expenditures) has been exercised in respect of the property for which the deduction under this subdivision (i) is claimed.
+      (iii) on condition that no election under 19 RCNY § 28-08(b) (pertaining to special depreciation and research and development expenditures) has been exercised in respect of the property for which the deduction under this subdivision (i) is claimed.
 
    (4) Reporting change in use of facilities. If expenditures in respect of an industrial waste treatment facility or an air pollution facility have been allowed as a deduction as provided in this subdivision (i) and if within 10 years from the end of the taxable year in which such deduction was allowed such property or any part thereof is used for the primary purpose of salvaging materials which are usable in the manufacturing process or are marketable, the taxpayer shall report such change of use in its return for the first taxable year during which it occurs, and the Commissioner of Finance may compute the tax for the year or years for which such deduction was allowed (and for any carryback or carryover year) and may assess any additional tax resulting from such recomputation within the time fixed by § 11-523(c)(8) of the Administrative Code.
 
@@ -14630,7 +14708,7 @@ Example c: X and Y form a partnership to engage in the construction business. Ea
 
 (m) Accelerated cost recovery system deductions. (Administrative Code § 11-507(14)). For taxable years beginning after December 31, 1981, except with respect to recovery property subject to the provisions of § 280-F of the Internal Revenue Code, and recovery property placed in service in New York in taxable years beginning after December 31, 1984, and before 1994, no deduction shall be allowed for the amount allowable as the accelerated cost recovery system deduction pursuant to § 168 of the Internal Revenue Code. Note that for years prior to 1994, the disallowance of accelerated cost recovery deductions for property placed in service outside New York has been held to be unconstitutional.
 
-(n) Recovery property depreciation. (Administrative Code § 11-507(15)). For taxable years beginning after December 31, 1981, except with respect to recovery property subject to the provisions of § 280-F of the Internal Revenue Code, and recovery property placed in service in New York in taxable years beginning after December 31, 1984, and before 1994, and provided a deduction has not been disallowed by § 28-06(1)(2), a taxpayer shall be allowed with respect to recovery property the amount allowable as the depreciation deduction pursuant to § 167 of the Internal Revenue Code as such section would have applied to property placed in service on December 31, 1980. Note that for years prior to 1994, the disallowance of accelerated cost recovery deductions for property placed in service outside New York has been held to be unconstitutional.
+(n) Recovery property depreciation. (Administrative Code § 11-507(15)). For taxable years beginning after December 31, 1981, except with respect to recovery property subject to the provisions of § 280-F of the Internal Revenue Code, and recovery property placed in service in New York in taxable years beginning after December 31, 1984, and before 1994, and provided a deduction has not been disallowed by 19 RCNY § 28-06(1)(2), a taxpayer shall be allowed with respect to recovery property the amount allowable as the depreciation deduction pursuant to § 167 of the Internal Revenue Code as such section would have applied to property placed in service on December 31, 1980. Note that for years prior to 1994, the disallowance of accelerated cost recovery deductions for property placed in service outside New York has been held to be unconstitutional.
 
 
 
@@ -14640,7 +14718,7 @@ Example c: X and Y form a partnership to engage in the construction business. Ea
 *§ 28-07 Allocation to New York City.* ::
 
 
-(a)  General. (Administrative Code § 11-508(a)). If an unincorporated business is carried on both within and without New York City, for taxable years beginning before July 1, 1994 there shall be allocated to the City a fair and equitable portion of the excess of its unincorporated business gross income as determined under § 28-05 of these rules over its unincorporated business deductions subject to allocation as determined under § 28-06 of these rules, and, for taxable years beginning after June 30, 1994, there shall be allocated to the City a fair and equitable portion of the taxpayer's business income. If, for taxable years beginning before July 1, 1996, the unincorporated business has no regular place of business outside the City, all of such amounts shall be allocated to the City. The deductions under § 28-08 of these rules and the unincorporated business exemptions allowable under § 28-09 of these rules are not subject to allocation.
+(a)  General. (Administrative Code § 11-508(a)). If an unincorporated business is carried on both within and without New York City, for taxable years beginning before July 1, 1994 there shall be allocated to the City a fair and equitable portion of the excess of its unincorporated business gross income as determined under 19 RCNY § 28-05 over its unincorporated business deductions subject to allocation as determined under 19 RCNY § 28-06, and, for taxable years beginning after June 30, 1994, there shall be allocated to the City a fair and equitable portion of the taxpayer's business income. If, for taxable years beginning before July 1, 1996, the unincorporated business has no regular place of business outside the City, all of such amounts shall be allocated to the City. The deductions under 19 RCNY § 28-08 and the unincorporated business exemptions allowable under 19 RCNY § 28-09 are not subject to allocation.
 
 (b) Regular place of business. 
 
@@ -14666,21 +14744,21 @@ Example 3: A freelance journalist whose only office is in the City, may not allo
 
 (c) Allocation by taxpayer's books. (Administrative Code § 11-508(b)).
 
-   (1) Except as otherwise provided in paragraph (3) of subdivision (d) of this § 28-07, the portion of the excess of the unincorporated business gross income over the deductions allocable to New York City may be determined from the books of the business if the methods used in keeping such books are approved by the Commissioner of Finance as fairly and equitably reflecting the income from the City.
+   (1) Except as otherwise provided in paragraph (3) of subdivision (d) of this 19 RCNY § 28-07, the portion of the excess of the unincorporated business gross income over the deductions allocable to New York City may be determined from the books of the business if the methods used in keeping such books are approved by the Commissioner of Finance as fairly and equitably reflecting the income from the City.
 
    (2) The fact that the taxpayer has failed to file a return or filed an incorrect return, or that on such return items of income were understated, or items of deduction were overstated, or items of income were not properly allocated, does not preclude the use of such allocation method.
 
-   (3) Except as otherwise provided in paragraph (3) of subdivision (d) of this § 28-07, where upon audit of the books and records of the taxpayer, the sources of the unincorporated business gross income within and without New York City, and the sources of the deductions, are ascertainable from such books and records, the proper tax due, or determined to be due, shall be arrived at by allocating items of income and deduction to the source of such items within and without the City. Thus, for example, for taxable years beginning before July 1, 1996, income from sales of tangible personal property is allocable to the office from which the sales arose (see: § 28-07(d)). Items of expense (except for items of expense under § 28-08 of these rules for which no allocation is allowed) will, like items of income, also be allocated in accordance with the place of business to which such expenses are attributable. Thus, payroll and office expenses are attributable to the office to which the employee was assigned or where the expenses were incurred. Certain indirect items, however, which are not attributable to any one office or place of business will be apportioned among the various offices. For example, legal and auditing expenses, which are attributable to the unincorporated business entity in its entirety, will be apportioned among the various places of business in accordance with the gross income allocable to each such place of business.
+   (3) Except as otherwise provided in paragraph (3) of subdivision (d) of this 19 RCNY § 28-07, where upon audit of the books and records of the taxpayer, the sources of the unincorporated business gross income within and without New York City, and the sources of the deductions, are ascertainable from such books and records, the proper tax due, or determined to be due, shall be arrived at by allocating items of income and deduction to the source of such items within and without the City. Thus, for example, for taxable years beginning before July 1, 1996, income from sales of tangible personal property is allocable to the office from which the sales arose (see: 19 RCNY § 28-07(d)). Items of expense (except for items of expense under 19 RCNY § 28-08 for which no allocation is allowed) will, like items of income, also be allocated in accordance with the place of business to which such expenses are attributable. Thus, payroll and office expenses are attributable to the office to which the employee was assigned or where the expenses were incurred. Certain indirect items, however, which are not attributable to any one office or place of business will be apportioned among the various offices. For example, legal and auditing expenses, which are attributable to the unincorporated business entity in its entirety, will be apportioned among the various places of business in accordance with the gross income allocable to each such place of business.
 
 (d) Allocation by formula. (Administrative Code § 11-508(c)).
 
-   (1) Computation. If the Commissioner of Finance determines that the methods used in keeping the books of the unincorporated business do not fairly and equitably reflect the taxpayer's income from the City for taxable years beginning before July 1, 1994, the portion of the excess of the unincorporated business gross income (computed under § 28-05 of these rules) over the unincorporated business deductions (allowable under § 28-06 of these rules) and for taxable years beginning after June 30, 1994, the portion of the taxpayer's business income defined in Administrative Code § 11-501.1(k), allocable to the City is determined by multiplying such amount by a business allocation percentage determined by adding the following percentages and dividing the total by the number of percentages, unless the taxpayer elects to use a double-weighted gross income percentage as provided in paragraph (2) of this subdivision (d), in which event the taxpayer's business allocation percentage is determined as provided in paragraph (2) of this subdivision (d):
+   (1) Computation. If the Commissioner of Finance determines that the methods used in keeping the books of the unincorporated business do not fairly and equitably reflect the taxpayer's income from the City for taxable years beginning before July 1, 1994, the portion of the excess of the unincorporated business gross income (computed under 19 RCNY § 28-05) over the unincorporated business deductions (allowable under 19 RCNY § 28-06) and for taxable years beginning after June 30, 1994, the portion of the taxpayer's business income defined in Administrative Code § 11-501.1(k), allocable to the City is determined by multiplying such amount by a business allocation percentage determined by adding the following percentages and dividing the total by the number of percentages, unless the taxpayer elects to use a double-weighted gross income percentage as provided in paragraph (2) of this subdivision (d), in which event the taxpayer's business allocation percentage is determined as provided in paragraph (2) of this subdivision (d):
 
       (i) Property percentage. The percentage computed by dividing
 
          (A) the average of the values, at the beginning and end of the taxable year, of real and tangible personal property connected with the unincorporated business and located within New York City, by
 
-         (B) the average of the values, at the beginning and end of the taxable year, of real and tangible personal property connected with the unincorporated business and located both within and without New York City. For this purpose, real property shall include real property rented to the unincorporated business (See: § 28-07(f)).
+         (B) the average of the values, at the beginning and end of the taxable year, of real and tangible personal property connected with the unincorporated business and located both within and without New York City. For this purpose, real property shall include real property rented to the unincorporated business (See: 19 RCNY § 28-07(f)).
 
       (ii) Payroll percentage. The percentage computed by dividing
 
@@ -14728,7 +14806,7 @@ Example 3: A freelance journalist whose only office is in the City, may not allo
 
          (B) To qualify as a manufacturing business, a taxpayer must be engaged in both the manufacture of tangible personal property and the sale of such property that it manufactures. Therefore, a taxpayer that manufactures tangible personal property but does not engage in the sale of such tangible personal property will not be considered a manufacturing business. Similarly, a taxpayer that sells tangible personal property but does not engage in the manufacture of tangible personal property will not be considered a manufacturing business. For purposes of this paragraph, the lease of tangible personal property will be considered a sale of tangible personal property.
 
-         (C) For purposes of this paragraph, an unincorporated business engaged in the manufacture and sale of tangible personal property shall be considered to be primarily engaged in manufacturing if more than 50 percent of its gross receipts for the taxable year are derived from the sale of tangible personal property manufactured by the taxpayer. If an unincorporated entity is engaged in more than one unincorporated business, all such businesses shall be treated as a single business for purposes of determining whether more than 50 percent of the gross receipts for the taxable year of that business are from manufacturing. See § 28-02(a)(4)(ii) of these rules.
+         (C) For purposes of this paragraph, an unincorporated business engaged in the manufacture and sale of tangible personal property shall be considered to be primarily engaged in manufacturing if more than 50 percent of its gross receipts for the taxable year are derived from the sale of tangible personal property manufactured by the taxpayer. If an unincorporated entity is engaged in more than one unincorporated business, all such businesses shall be treated as a single business for purposes of determining whether more than 50 percent of the gross receipts for the taxable year of that business are from manufacturing. See 19 RCNY § 28-02(a)(4)(ii).
 
             (1)For purposes of this subparagraph (ii)(C), gross receipts include only amounts treated as gross income for purposes of subparagraph (iii) of paragraph (1) of this subdivision earned in the ordinary course of the taxpayer's trade or business.
 
@@ -14748,7 +14826,7 @@ Example 1: Partnership X is engaged in printing pamphlets, brochures, catalogues
 
 Example 2: Partnership X is engaged in compiling, printing and distributing a daily newspaper using material received from news services, its own reporters and editorial staff, its own paper and ink and printing equipment and its own technicians. Partnership X is considered engaged in manufacturing. Partnership X receives $100X in receipts from the sale of newspapers and $400X in receipts from the sale of advertising. Because less than 50 percent of partnership X's receipts are from the manufacture and sale of tangible personal property, X is not considered a manufacturing business.
 
-Example 3: Partnership A is engaged in film processing whereby it receives undeveloped film from its customers and, using its own chemicals, paper and equipment, develops the film and makes print or slide copies for customers. Partnership A is engaged in manufacturing. If instead of using its own materials and equipment, Partnership A contracts with Corporation B to develop the film and make prints, Partnership A is not engaged in manu- facturing.
+Example 3: Partnership A is engaged in film processing whereby it receives undeveloped film from its customers and, using its own chemicals, paper and equipment, develops the film and makes print or slide copies for customers. Partnership A is engaged in manufacturing. If instead of using its own materials and equipment, Partnership A contracts with Corporation B to develop the film and make prints, Partnership A is not engaged in manufacturing.
 
 Example 4: Partnership Y contracts with A, an unrelated entity, to produce a line of art supplies, crayons, paper, markers, glue, etc. from raw materials purchased by Y. The finished goods are delivered to Y. Y packages two or more of those products together with paper purchased from another unrelated supplier into kits that Y sells to toy and art supply retailers. A's receipts under the contract with Y are not receipts from the manufacture and sale of tangible personal property because Y provides and owns the raw materials. Y's receipts from the sale of the kits are not receipts from the manufacture and sale of tangible personal property because Y does not manufacture the component parts itself and the packaged kits do not differ substantially in nature or form from the various component parts.
 
@@ -14772,11 +14850,11 @@ Partnership X's extensive preprinting activities leading to the production of th
 
 Example (14): Partnership X produces and sells apparel. X maintains a large staff including designers, graphic artists, pattern makers, computer operators, cutters, sewers and drapers. X's staff develops original ideas for garments, produces illustrations with the aid of computer systems, and selects certain of these ideas to be converted into finished samples. The creation of the samples involves selection of fabrics, cutting, sewing, testing of fabric quality and color and fitting the prototype garments. X then uses the computer systems to make style patterns, which it transfers electronically along with detailed instructions to third-party contractors to whom it also specifies or furnishes the fabrics and other raw materials used to produce the garments. The contractors, whose operations are overseen by X's employees, assemble the garments using the patterns and materials supplied by X. X then sells the garments to its wholesale customers. X's extensive pre-production activities are considered an integral part of the manufacturing process. As a result X is considered to be engaged in the manufacture and sale of tangible personal property. If more than 50% of Partnership X's receipts are from the sale of garments produced as described above, X will be considered a manufacturing business.
 
-   (3) Formula allocation required. For taxable years beginning on or after January 1, 1996, in the case of a taxpayer that is substantially engaged in the business of publishing newspapers or periodicals, substantially engaged in the business of broadcasting radio or television programs, or substantially engaged in any combination of such businesses and such taxpayer is also engaged in any other unincorporated business, § 28-07(c) of these rules shall not apply and the portion of the taxpayer's unincorporated business taxable income from all such businesses shall be determined using the allocation formula provided in this subdivision (d) unless the Commissioner of Finance determines that the income of the taxpayer from all unincorporated businesses carried on in whole or in part in the City is not fairly and equitably reflected, in which event the provisions of subdivision (e) shall apply. For purposes of this paragraph (3), a taxpayer shall be deemed to be substantially engaged in the business of publishing newspapers or periodicals or broadcasting radio or television programs, or any combination of such businesses, if more than ten percent of the taxpayer's gross receipts from all businesses are attributable to publishing newspapers or periodicals or broadcasting radio or television programs.
+   (3) Formula allocation required. For taxable years beginning on or after January 1, 1996, in the case of a taxpayer that is substantially engaged in the business of publishing newspapers or periodicals, substantially engaged in the business of broadcasting radio or television programs, or substantially engaged in any combination of such businesses and such taxpayer is also engaged in any other unincorporated business, 19 RCNY § 28-07(c) shall not apply and the portion of the taxpayer's unincorporated business taxable income from all such businesses shall be determined using the allocation formula provided in this subdivision (d) unless the Commissioner of Finance determines that the income of the taxpayer from all unincorporated businesses carried on in whole or in part in the City is not fairly and equitably reflected, in which event the provisions of subdivision (e) shall apply. For purposes of this paragraph (3), a taxpayer shall be deemed to be substantially engaged in the business of publishing newspapers or periodicals or broadcasting radio or television programs, or any combination of such businesses, if more than ten percent of the taxpayer's gross receipts from all businesses are attributable to publishing newspapers or periodicals or broadcasting radio or television programs.
 
    (4) Examples.
 
-Example (i): Individual A is a manufacturer whose plant is located in Connecticut. The bulk of his sales are made in New York City through a rented sales office in New York City from which traveling salesmen cover the states of New York, New Jersey and Pennsylvania. For the purpose of expediting deliveries to customers, a warehouse is owned and maintained in New York City. In addition, independent consultants are employed in furtherance of the manufacturer's business. The following illustrates the application of the "allocation formula" for 1995: For the allocation of sales of tangible personal property for taxable years beginning on or after July 1, 1996, see §§ 27-07(d)(1)(iii)(A)(2) and 27-07(d)(2) of these rules.
+Example (i): Individual A is a manufacturer whose plant is located in Connecticut. The bulk of his sales are made in New York City through a rented sales office in New York City from which traveling salesmen cover the states of New York, New Jersey and Pennsylvania. For the purpose of expediting deliveries to customers, a warehouse is owned and maintained in New York City. In addition, independent consultants are employed in furtherance of the manufacturer's business. The following illustrates the application of the "allocation formula" for 1995: For the allocation of sales of tangible personal property for taxable years beginning on or after July 1, 1996, see 19 RCNY § 28-07(d)(1)(iii)(A)(2) and (d)(2). 
 
  
 
@@ -14789,25 +14867,25 @@ Example (i): Individual A is a manufacturer whose plant is located in Connecticu
       - C New York City Factors 
       - D Percent Column C is of Column B 
     * - 1.  Value of the real and tangible personal property of the business (average of values at beginning and end of year)
-      - $   500,000 
-      - $  35,000 
-      - 7% 
+      - $500,000
+      - $35,000
+      - 7%
     * - 2.  Wages, salaries and other personal service compensation paid during the year
-      -   400,000 
-      -   140,000 
-      - 35% 
+      - $400,000
+      - $140,000
+      - 35%
     * - 3.  Gross sales or charges for services during the year
-      -   1,200,000 
-      -   972,000 
-      - 81% 
+      - $1,200,000 
+      - $972,000
+      - 81%
     * - 4.  Total of percentages in Column D
-      -  
-      -  
-      - 123% 
+      - 
+      - 
+      - 123%
     * - 5.  Average of percentages (divide total percentages, item 4, by 3)
-      -  
-      -  
-      - 41% 
+      - 
+      - 
+      - 41%
 ~
 
 
@@ -14822,7 +14900,7 @@ The figures in Column B are the totals for the business both within and without 
 
 (C) Item 3. Gross sales or charges for services performed by or through an agency located within New York City. The sales or charges to be allocated to New York City include all sales negotiated or consummated and charges for services performed by an employee, agent, agency or independent contractor chiefly situated at, connected with by contract or otherwise, or sent out from offices of the unincorporated business or other agencies situated within the City. In this example, all sales made by the New York City sales office and the salesmen sent from that office, no matter in what State they may make the sales, are allocated to New York City.
 
-Example (ii): The facts are the same as in example (i) except that the figures represent the results for 1997 and Item 3 represents solely receipts from sales of tangible personal property manufactured by the taxpayer and the amount of such receipts for sales shipped to points within the City (item 3 column C) is $600,000. The figure in column D of item 3 is therefore 50 percent. If the taxpayer elects to use the double-weighted gross income percentage as provided in paragraph (2) of this subdivision (d), items 4 and 5 would be determined as follows:
+Example (ii): The facts are the same as in example (i) except that the figures represent the results for 1997 and Item 3 represents solely receipts from sales of tangible personal property manufactured by the taxpayer and the amount of such receipts for sales shipped to points within the City (item 3 column C) is $600,000. The figure in column D of item 3 is therefore 50 percent. If the taxpayer elects to use the double-weighted gross income percentage as provided in paragraph (2) of this subdivision (d), items 4 and 5 would be determined as follows: 
 
  
 
@@ -14850,7 +14928,7 @@ Example: A taxpayer has no employees either within or without the City. The payr
 
       (ii) In the event that any of the percentages to be determined under subparagraphs (i), (iii) or (iii) of paragraph (1) of this subdivision (d) cannot be determined because the taxpayer has either no property, no payroll or no gross income from sales or services within or without the City, then the computation to be made under subdivision (i) of § 11-508 of the Administrative Code  shall be made by taking the sum of the products that are determined under such subdivision (i) for the factors that are present, and dividing that sum by the sum of the weight factors that apply to each of the present factors in the calculation made under such subdivision (i). This amount is then rounded to four decimal places. (An allocation factor is not missing merely because its numerator is zero, but it is missing if both its numerator and its denominator are zero).
 
-      (iii) Weight factor defined. For purposes of subparagraph (ii) of this paragraph, "weight factor" is the percentage used in the allocation computation in subdivision (i) of § 11-508 of the Administrative Code, by which the percentage derived from paragraph (1) of this subdivision is multiplied in such allocation computation. For example, in subparagraph (A) of paragraph (1) of subdivision (i) of § 11-508 of the Administrative Code, the weight factor is 30%; in subparagraph (A) of paragraph (9) of subdivision (i) of § 11-508 of the Administrative Code, the weight factor is 31/2%.
+      (iii) Weight factor defined. For purposes of subparagraph (ii) of this paragraph, "weight factor" is the percentage used in the allocation computation in subdivision (i) of § 11-508 of the Administrative Code, by which the percentage derived from paragraph (1) of this subdivision is multiplied in such allocation computation. For example, in subparagraph (A) of paragraph (1) of subdivision (i) of § 11-508 of the Administrative Code, the weight factor is 30%; in subparagraph (A) of paragraph (9) of subdivision (i) of § 11-508 of the Administrative Code, the weight factor is  1/2%.
 
       (iv) Example: For the tax year 2009, a taxpayer has no employees either within or without the City. The property factor percentage determined under (d)(1)(i) of this section is 10%, and the gross income factor percentage determined under (d)(1)(iii) of this section is 25%. As the payroll factor is missing, the allocation percentage may be computed by taking the sum of
 
@@ -14860,7 +14938,7 @@ Example: A taxpayer has no employees either within or without the City. The payr
 
             which is .03 + .1 = .13,
 
-            then dividing that sum by the sum of the weight factors for property and gross income, which are .30 and .40, respectively:                 .13     = .13 = .18571, rounded to four decimal places = .1857              .30 + .40    .70
+            then dividing that sum by the sum of the weight factors for property and gross income, which are .30 and .40, respectively:                 .13     = .13 = .18571, rounded to four decimal places = .1857             .30 + .40    .70
 
    (6) Short period. 
 
@@ -14888,21 +14966,21 @@ $24,000 ÷ 12 (months) = $ 2,000 $  2,000 × 5 (months) = $10,000 $10,000 × 2
 
 (e) Other allocation methods. (Administrative Code § 11-508(d)).
 
-   (1) General. If the allocation methods permitted or prescribed by § 28-07 (c) and 28-07(d) do not allocate a fair and equitable portion of the income to New York City the methods of paragraphs (2), (3) or (4) of this subdivision (E) shall be used where applicable, or any other alternative method may be adopted by the Commissioner of Finance, either on his own initiative or on request of a taxpayer.
+   (1) General. If the allocation methods permitted or prescribed by 19 RCNY § 28-07 (c) and (d) do not allocate a fair and equitable portion of the income to New York City the methods of paragraphs (2), (3) or (4) of this subdivision (E) shall be used where applicable, or any other alternative method may be adopted by the Commissioner of Finance, either on his own initiative or on request of a taxpayer.
 
-   (2) Direct allocation where three-factor formula is not applicable. Although the methods used in keeping the books of the business do not fairly and equitably reflect the income from New York City, allocation by formula provided for in § 28-07(d) shall not be made where such allocation by formula does not also fairly and equitably reflect the income from the City. In such case, the Commissioner of Finance may specifically allocate items of income and expense to the various places of business to which such items of income and expense are attributable in accordance with the provisions of § 28-07(c), as if the methods used in keeping such books were approved by the Commissioner of Finance as fairly and equitably reflecting income from New York City. Generally, this will apply where, unlike the example set forth in § 28-07(d) with respect to allocation by formula, the business within and without New York City is not a unitary business for which the formula was designed.
+   (2) Direct allocation where three-factor formula is not applicable. Although the methods used in keeping the books of the business do not fairly and equitably reflect the income from New York City, allocation by formula provided for in 19 RCNY § 28-07(d) shall not be made where such allocation by formula does not also fairly and equitably reflect the income from the City. In such case, the Commissioner of Finance may specifically allocate items of income and expense to the various places of business to which such items of income and expense are attributable in accordance with the provisions of 19 RCNY § 28-07(c), as if the methods used in keeping such books were approved by the Commissioner of Finance as fairly and equitably reflecting income from New York City. Generally, this will apply where, unlike the example set forth in 19 RCNY § 28-07(d) with respect to allocation by formula, the business within and without New York City is not a unitary business for which the formula was designed.
 
-   (3) Allocation for taxpayers with a regular place of business without the City and no regular place of business within the City. If an unincorporated business has a regular place of business without the City and no regular place of business within the City and the income and expenses of an unincorporated business attributable to sales made or services performed within the City are not fairly and equitably allocated under the allocation methods of § 28-07(c) and 28-07(d), the Commissioner of Finance or the taxpayer may allocate under an alternate method. Such alternate method of allocation shall consist of multiplying the excess of the unincorporated business gross income over unincorporated business deductions by a fraction. The numerator of such fraction shall be the gross receipts received by the unincorporated business from all its clients or customers located within the City. The denominator of such fraction shall be the total gross receipts received by the unincorporated business from all its clients or customers.
+   (3) Allocation for taxpayers with a regular place of business without the City and no regular place of business within the City. If an unincorporated business has a regular place of business without the City and no regular place of business within the City and the income and expenses of an unincorporated business attributable to sales made or services performed within the City are not fairly and equitably allocated under the allocation methods of 19 RCNY § 28-07(c) and (d), the Commissioner of Finance or the taxpayer may allocate under an alternate method. Such alternate method of allocation shall consist of multiplying the excess of the unincorporated business gross income over unincorporated business deductions by a fraction. The numerator of such fraction shall be the gross receipts received by the unincorporated business from all its clients or customers located within the City. The denominator of such fraction shall be the total gross receipts received by the unincorporated business from all its clients or customers.
 
-   (4) Request by taxpayer for alternative method or allocation. A taxpayer entitled under this section to allocate the excess of its unincorporated business gross income over unincorporated business deductions may not employ a method other than one described in §§ 28-07(c), 28-07(d) or paragraph (3) of this subdivision (e) without the prior consent of the Commissioner of Finance. A taxpayer wishing to use an alternate method of allocation may make such a request at the time of the filing of the return to which it relates. The taxpayer must file its return and compute and pay its tax in accordance with the allocation methods described in §§ 28-07(c), 28-07(d) or paragraph (3) of this subdivision (e). A request to vary the allocation method must be attached in a rider to the return. This request shall contain a detailed tax computation using the proposed alternative allocation method. In addition to the tax computation, the alternative allocation method must be fully explained in the rider. This explanation must provide full information regarding the nature and scope of the business activities carried on within and without New York City and provide complete details of how the method proposed by the taxpayer allocates income on a more equitable basis than the method of § 28-07(c), § 28-07(d) or paragraph (3) above.
+   (4) Request by taxpayer for alternative method or allocation. A taxpayer entitled under this section to allocate the excess of its unincorporated business gross income over unincorporated business deductions may not employ a method other than one described in 19 RCNY § 28-07(c), (d) or paragraph (3) of this subdivision (e) without the prior consent of the Commissioner of Finance. A taxpayer wishing to use an alternate method of allocation may make such a request at the time of the filing of the return to which it relates. The taxpayer must file its return and compute and pay its tax in accordance with the allocation methods described in 19 RCNY § 28-07(c), (d) or paragraph (3) of this subdivision (e). A request to vary the allocation method must be attached in a rider to the return. This request shall contain a detailed tax computation using the proposed alternative allocation method. In addition to the tax computation, the alternative allocation method must be fully explained in the rider. This explanation must provide full information regarding the nature and scope of the business activities carried on within and without New York City and provide complete details of how the method proposed by the taxpayer allocates income on a more equitable basis than the method of 19 RCNY § 28-07(c), (d) or paragraph (3) above.
 
 Example:A lump sum payment is received by the taxpayer for services performed within and without the City. The taxpayer may request to have the amount attributable to services performed within the City determined on the basis of relative values of, or amounts of time spent in performance of, such services within and without the City, or by some other reasonable method.
 
 (f) Special rules for real estate. (Administrative Code § 11-508(e)).
 
-   (1) Income and deductions from rental of real property of the unincorporated business and gain or loss from the sale, exchange or other disposition thereof are not subject to allocation under any of the provisions of these rules but are considered as entirely derived from or connected with the State, other than this State, in which the real property is located, or if such property is located within this State, the political subdivision in which the property is located. Where a building or a parcel of real property is held partly for occupancy and use by the unincorporated business and partly for the production of rental income, the value thereof should be apportioned on a fair and equitable basis and only the portion of such value attributable to occupancy and use by the unincorporated business should be included in the property percentage of the allocation formula under § 28-07(d). Nothing in this subdivision (f) of this § 28-07 is to be construed to treat income, gain, loss or deductions from real property as derived from an unincorporated business carried on in whole or in part in New York City in contradiction of the provisions of § 28-02(h) for taxable years beginning on or after July 1, 1994.
+   (1) Income and deductions from rental of real property of the unincorporated business and gain or loss from the sale, exchange or other disposition thereof are not subject to allocation under any of the provisions of these rules but are considered as entirely derived from or connected with the State, other than this State, in which the real property is located, or if such property is located within this State, the political subdivision in which the property is located. Where a building or a parcel of real property is held partly for occupancy and use by the unincorporated business and partly for the production of rental income, the value thereof should be apportioned on a fair and equitable basis and only the portion of such value attributable to occupancy and use by the unincorporated business should be included in the property percentage of the allocation formula under 19 RCNY § 28-07(d). Nothing in this subdivision (f) of this 19 RCNY § 28-07 is to be construed to treat income, gain, loss or deductions from real property as derived from an unincorporated business carried on in whole or in part in New York City in contradiction of the provisions of 19 RCNY § 28-02(h) for taxable years beginning on or after July 1, 1994.
 
-   (2) (i) For the purpose of computing the property percentage of the allocation formula under § 28-07(d), real property connected with the unincorporated business includes real property rented to the unincorporated business. The average value of such rented real property, therefore, must be considered in the computation of the property percentage. In order to avoid unnecessary hardship on taxpayers and for ease of administration, the fair market value of real property both within and without New York City which is rented to the taxpayer is determined by multiplying the gross rents payable during the taxable year by eight.
+   (2) (i) For the purpose of computing the property percentage of the allocation formula under 19 RCNY § 28-07(d), real property connected with the unincorporated business includes real property rented to the unincorporated business. The average value of such rented real property, therefore, must be considered in the computation of the property percentage. In order to avoid unnecessary hardship on taxpayers and for ease of administration, the fair market value of real property both within and without New York City which is rented to the taxpayer is determined by multiplying the gross rents payable during the taxable year by eight.
 
       (ii) "Gross rent," as used in this subdivision (f) is the actual sum of money or other consideration payable directly or indirectly by the taxpayer, or for his or its benefit, for the use or possession of the property. It includes:
 
@@ -14936,7 +15014,7 @@ If the general method outlined herein results in valuations which are inaccurate
 
 (h) Special rules for security and commodity brokers. 
 
-   (1) Alternate method of allocation. Security and commodity brokers doing business within and without New York City may elect to allocate the excess of the unincorporated business gross income, as determined under § 28-05 of these regulations, over the unincorporated business deductions subject to allocation, as determined under § 28-06 of these regulations, in accordance with the provisions of § 28-07(d). The election must be made by the due date, including any extensions of the time to file a return. A taxpayer who fails to make a timely election under this subdivision must use the allocation method prescribed by § 28-07(c). Once the taxpayer uses the method pre scribed by § 28-07(c), or elects to allocate in accordance with § 28-07(d), the taxpayer must continue to use the allocation method implemented unless, after application in writing to the Commissioner of Finance, the Commissioner determines that the method of allocation used no longer reflects income which is fairly applicable to the City of New York. If the Commissioner of Finance permits the taxpayer to revoke the method of allocation of income under this section, a copy of such permission for revocation of election must be attached to the return for the first taxable period to which such revocation of election is applicable.
+   (1) Alternate method of allocation. Security and commodity brokers doing business within and without New York City may elect to allocate the excess of the unincorporated business gross income, as determined under 19 RCNY § 28-05, over the unincorporated business deductions subject to allocation, as determined under 19 RCNY § 28-06, in accordance with the provisions of 19 RCNY § 28-07(d). The election must be made by the due date, including any extensions of the time to file a return. A taxpayer who fails to make a timely election under this subdivision must use the allocation method prescribed by 19 RCNY § 28-07(c). Once the taxpayer uses the method pre scribed by 19 RCNY § 28-07(c), or elects to allocate in accordance with 19 RCNY § 28-07(d), the taxpayer must continue to use the allocation method implemented unless, after application in writing to the Commissioner of Finance, the Commissioner determines that the method of allocation used no longer reflects income which is fairly applicable to the City of New York. If the Commissioner of Finance permits the taxpayer to revoke the method of allocation of income under this section, a copy of such permission for revocation of election must be attached to the return for the first taxable period to which such revocation of election is applicable.
 
    (2) Allocation of commissions. In any method of allocation permitted or required in the case of security and commodity brokers doing business within and without New York City, the commissions derived from the execution of purchase or sales orders for the account of customers shall be allocated on the following basis:
 
@@ -14954,7 +15032,7 @@ If the general method outlined herein results in valuations which are inaccurate
 
          (B) If the order originates at or through a bona fide established office of the taxpayer located outside New York City, no portion of the commission income is allocable to New York City.
 
-   (3) Allocation of manager's fee. When a security and commodity broker manages an underwriting syndicate, the fees received from such activity must be allocated as follows: The manager's fee must be allocated 100 percent to New York City when the services for which such fees are paid are performed wholly at or through a regular place of business of the taxpayer located within New York City. (See: § 28-07(b) for the meaning of "regular place of business .") If a portion of the compensation representing management fees is attributable to services performed at or through a regular place of business of the taxpayer located outside New York City, the portion of such compensation for management services shall be allocated based on the actual percentage of New York City direct net costs to total direct net costs. The term "direct net costs" includes costs directly connected with the management activity, such as research, investigation, syndication expense, accounting, legal, market surveys, compensation and underwriting overhead, less any reimbursements received from the issuing corporation.
+   (3) Allocation of manager's fee. When a security and commodity broker manages an underwriting syndicate, the fees received from such activity must be allocated as follows: The manager's fee must be allocated 100 percent to New York City when the services for which such fees are paid are performed wholly at or through a regular place of business of the taxpayer located within New York City. (See: 19 RCNY § 28-07(b) for the meaning of "regular place of business .") If a portion of the compensation representing management fees is attributable to services performed at or through a regular place of business of the taxpayer located outside New York City, the portion of such compensation for management services shall be allocated based on the actual percentage of New York City direct net costs to total direct net costs. The term "direct net costs" includes costs directly connected with the management activity, such as research, investigation, syndication expense, accounting, legal, market surveys, compensation and underwriting overhead, less any reimbursements received from the issuing corporation.
 
    (4) Allocation of primary spread. Security and commodity brokers participating in an underwriting syndicate must allocate gross income attributable to the primary spread in the following manner:
 
@@ -14978,7 +15056,7 @@ If the general method outlined herein results in valuations which are inaccurate
 
 (j) Allocation for entities with a distributive share of income, gain, loss or deduction derived from another unincorporated business.
 
-   (1) General. If an unincorporated entity (the "partner") is a partner in another unincorporated entity (the "partnership"), carrying on an unincorporated business wholly or partly in New York City and either the partner or the partnership allocates a portion of its unincorporated business entire net income outside New York City, the partner must allocate its business income, if any, as provided in paragraph (2) of this subdivision, and its investment income, if any, as provided in paragraph (3) of this subdivision. If the partner's distributive shares of the business and investment income of the partnership are not separately stated on the partnership's Internal Revenue Service Form 1065, Schedule K-1, with respect to the partner, the proportion of business and investment income in the partner's distributive share will be deemed to be the same as the proportion of business and investment income in the unincorporated business entire net income of the partnership before allocation. Except as provided in subparagraph (ii) of paragraph (2) of this subdivision (j) (rental real estate), a partner must use the same method to allocate its distributive share of each item of business income, gain, loss or deduction from a given partnership, other than deductions not subject to allocation as provided in § 28-08 of these rules.
+   (1) General. If an unincorporated entity (the "partner") is a partner in another unincorporated entity (the "partnership"), carrying on an unincorporated business wholly or partly in New York City and either the partner or the partnership allocates a portion of its unincorporated business entire net income outside New York City, the partner must allocate its business income, if any, as provided in paragraph (2) of this subdivision, and its investment income, if any, as provided in paragraph (3) of this subdivision. If the partner's distributive shares of the business and investment income of the partnership are not separately stated on the partnership's Internal Revenue Service Form 1065, Schedule K-1, with respect to the partner, the proportion of business and investment income in the partner's distributive share will be deemed to be the same as the proportion of business and investment income in the unincorporated business entire net income of the partnership before allocation. Except as provided in subparagraph (ii) of paragraph (2) of this subdivision (j) (rental real estate), a partner must use the same method to allocate its distributive share of each item of business income, gain, loss or deduction from a given partnership, other than deductions not subject to allocation as provided in 19 RCNY § 28-08.
 
    (2) Allocation of business income.
 
@@ -15002,9 +15080,9 @@ If the general method outlined herein results in valuations which are inaccurate
 
       (iii) Alternative methods that may be permitted or required by the Commissioner of Finance include, but are not limited to, a method whereby, in computing its investment allocation percentage, the partner includes its percentage interest of the items of investment capital that are used in computing the investment allocation percentages of the partnerships from which it receives distributive shares. In this method, the partner must then allocate the sum of its separate investment income and its distributive shares of investment income from other partnerships by the investment allocation percentage so computed.
 
-   (4) Examples. The following examples illustrate methods of allocation of business and investment income for entities that receive distributive shares. Because an entity that receives a distributive share from another entity subject to the UBT will generally be eligible for the UBT Paid Credit, these examples also illustrate the calculation of the credit where the entities allocate a portion of their income outside the City. The facts of the following examples have been simplified and do not reflect the deduction allowed by Administrative Code § 11-509(a) or the exemption allowed by Administrative Code § 11-510(1). The effect of other credits allowed under Administrative Code § 11-503 also is not reflected. For further information about the UBT Paid Credit see § 28-03(d) of these rules.
+   (4) Examples. The following examples illustrate methods of allocation of business and investment income for entities that receive distributive shares. Because an entity that receives a distributive share from another entity subject to the UBT will generally be eligible for the UBT Paid Credit, these examples also illustrate the calculation of the credit where the entities allocate a portion of their income outside the City. The facts of the following examples have been simplified and do not reflect the deduction allowed by Administrative Code § 11-509(a) or the exemption allowed by Administrative Code § 11-510(1). The effect of other credits allowed under Administrative Code § 11-503 also is not reflected. For further information about the UBT Paid Credit see 19 RCNY § 28-03(d)s.
 
-Example 1: Allocation of Business Income – Books and Records. AB is a partnership doing business inside and outside New York City. AB has two partners, A and B, both of which are also partnerships doing business inside and outside New York City. A's partnership interest in AB is 60% and B's is 40%. None of the partnerships have any investment income. AB, A and B all allocate on the basis of books and records and A and B allocate their distributive shares from AB pursuant to § 28-07(j)(2)(i)(A) of these rules. AB has unallocated unincorporated business entire net income ("UBENI") of $1000x of which $700x is allocable by its books and records to its business location in the City and $300x is allocable to its business location outside the City. A's separate unallocated UBENI is $1000x of which $500x is allocable to its business location in the City and $500x is allocable to its business location outside of the City. B's separate unallocated UBENI is $100x of which $90x is allocable to its business location in the City and $10x is allocable to its business location outside of the City.
+Example 1: Allocation of Business Income – Books and Records. AB is a partnership doing business inside and outside New York City. AB has two partners, A and B, both of which are also partnerships doing business inside and outside New York City. A's partnership interest in AB is 60% and B's is 40%. None of the partnerships have any investment income. AB, A and B all allocate on the basis of books and records and A and B allocate their distributive shares from AB pursuant to 19 RCNY § 28-07(j)(2)(i)(A). AB has unallocated unincorporated business entire net income ("UBENI") of $1000x of which $700x is allocable by its books and records to its business location in the City and $300x is allocable to its business location outside the City. A's separate unallocated UBENI is $1000x of which $500x is allocable to its business location in the City and $500x is allocable to its business location outside of the City. B's separate unallocated UBENI is $100x of which $90x is allocable to its business location in the City and $10x is allocable to its business location outside of the City.
 
 A's Allocated Unincorporated Business Taxable Income ("UBTI"):
 
@@ -15030,7 +15108,7 @@ Measure 2: B's UBT liability on its allocated UBTI of $370x would be $14.8x. Wit
 
 Therefore, B's UBT paid credit is $11.2x, reducing its tax liability to $3.6x.
 
-Example 2: Allocation of Business Income – Formula Allocation with a Flow Through of Factors. The facts are the same as in Example 1 except that it has been determined by the Commissioner of Finance that the method used in example 1 is distortive and that the taxpayer must use the method described in § 28-07(j)(2)(i)(C)(a) of these rules. (This example is provided to illustrate the calculation of the allocation percentages and applicable UBT paid credit and is not intended to illustrate the circumstances under which the Commissioner will find the use of an allocation method to be distortive.) All three partnerships allocate their income pursuant to § 28-07(d) of these rules (the formula method). AB, A and B are not manufacturing firms eligible to elect to use a double-weighted gross income factor. AB's business allocation percentage is 70% computed as follows:
+Example 2: Allocation of Business Income – Formula Allocation with a Flow Through of Factors. The facts are the same as in Example 1 except that it has been determined by the Commissioner of Finance that the method used in example 1 is distortive and that the taxpayer must use the method described in 19 RCNY § 28-07(j)(2)(i)(C)(a). (This example is provided to illustrate the calculation of the allocation percentages and applicable UBT paid credit and is not intended to illustrate the circumstances under which the Commissioner will find the use of an allocation method to be distortive.) All three partnerships allocate their income pursuant to 19 RCNY § 28-07(d) (the formula method). AB, A and B are not manufacturing firms eligible to elect to use a double-weighted gross income factor. AB's business allocation percentage is 70% computed as follows: 
 
  
 
@@ -15068,7 +15146,7 @@ Example 2: Allocation of Business Income – Formula Allocation with a Flow Thro
 
  
 
-Without taking into account its distributive share from AB, A has a 50% business allocation percentage computed as follows:
+Without taking into account its distributive share from AB, A has a 50% business allocation percentage computed as follows: 
 
  
 
@@ -15146,7 +15224,7 @@ Without taking into account its distributive share from AB, B has a 90% business
 
  AB's UBENI is $1000x. AB's allocated UBTI is $700x. AB pays UBT of $28x. AB's Form NYC-204 indicates that A's distributive share from AB is $600x and that B's distributive share is $400x. A and B are subject to the UBT and are entitled to UBT Paid Credits based upon their distributive shares from AB. A's separate UBENI is $1000x. B's separate UBENI is $100x.
 
-AB, A and B all allocate business income using formula allocation and compute their business allocation percentage pursuant to § 28-07(j) (2)(i)(C)(a) of these rules.
+AB, A and B all allocate business income using formula allocation and compute their business allocation percentage pursuant to 19 RCNY § 28-07(j)(2)(i)(C)(a).
 
 Calculation of A's Allocation Percentage
 
@@ -15292,7 +15370,7 @@ Measure 2: B's UBT liability on its allocated UBTI of $421x would be $16.86x. Wi
 
 Therefore, B's UBT paid credit is $11.2x reducing its tax liability to $5.66x.
 
-Example 3: Allocation of Business Income – Formula Allocation without a Flow-Through of Factors. All facts are the same as in Example 2 except that pursuant to § 28-07(j)(2)(i)(B) of these Rules, A and B receive written permission from the Commissioner of Finance to use the method specified in § 28-07(j)(2)(i)(C)(b) of these Rules under which they allocate their distributive shares of income, gain, loss and deductions from AB using their own business allocation percentages without regard to the business allocation percentage of AB. (This example is provided to illustrate the calculation of the allocation percentages and applicable UBT paid credit and is not intended to illustrate the circumstances under which the use of an alternative allocation method will be allowed.)
+Example 3: Allocation of Business Income – Formula Allocation without a Flow-Through of Factors. All facts are the same as in Example 2 except that pursuant to 19 RCNY § 28-07(j)(2)(i)(B), A and B receive written permission from the Commissioner of Finance to use the method specified in 19 RCNY § 28-07(j)(2)(i)(C)(b) under which they allocate their distributive shares of income, gain, loss and deductions from AB using their own business allocation percentages without regard to the business allocation percentage of AB. (This example is provided to illustrate the calculation of the allocation percentages and applicable UBT paid credit and is not intended to illustrate the circumstances under which the use of an alternative allocation method will be allowed.)
 
 A's Allocated UBTI:
 
@@ -15328,9 +15406,9 @@ Therefore, B's UBT paid credit is $11.2x reducing its tax liability to $6.8x.
 
 (a) Compensation for services of proprietor and acting partners. (Administrative Code, § 11-509(a)).
 
-   (1) General. In addition to amounts paid to employees as salaries, wages or other personal service compensation, which are allowable as unincorporated business deductions under § 28-06 of these regulations, deductions are also allowed for reasonable compensation for personal services of a proprietor and for personal services of each partner actively engaged in the conduct of the unincorporated business, including a corporate partner which, through its officers, actively engages in the business of the partnership. It is not necessary that the amount deducted on account of the services by the proprietor or a partner be credited to the account of or actually withdrawn by such person. The reasonableness of any deduction under this subdivision (a) shall be subject to determination by the Commissioner of Finance. An administrator, executor, trustee, receiver or other fiduciary who, in his fiduciary capacity, carries on the unincorporated business of an estate, trust or entity for which he acts is not a proprietor or partner for purposes of this subdivision (a). Amounts paid to retired partners are not deductible. Deductions allowable for services of a proprietor or a partner described above are not subject to allocation even though the unincorporated business is carried on both within and without New York City.
+   (1) General. In addition to amounts paid to employees as salaries, wages or other personal service compensation, which are allowable as unincorporated business deductions under 19 RCNY § 28-06, deductions are also allowed for reasonable compensation for personal services of a proprietor and for personal services of each partner actively engaged in the conduct of the unincorporated business, including a corporate partner which, through its officers, actively engages in the business of the partnership. It is not necessary that the amount deducted on account of the services by the proprietor or a partner be credited to the account of or actually withdrawn by such person. The reasonableness of any deduction under this subdivision (a) shall be subject to determination by the Commissioner of Finance. An administrator, executor, trustee, receiver or other fiduciary who, in his fiduciary capacity, carries on the unincorporated business of an estate, trust or entity for which he acts is not a proprietor or partner for purposes of this subdivision (a). Amounts paid to retired partners are not deductible. Deductions allowable for services of a proprietor or a partner described above are not subject to allocation even though the unincorporated business is carried on both within and without New York City.
 
-   (2) Limitations on deduction for compensation. Any deduction allowable under paragraph (a)(1) of this subdivision (a) shall not exceed $5,000 for a proprietor or for each active partner and the aggregate of such deductions shall not exceed 20 percent of the unincorporated business taxable income computed without the benefit of this deduction or the unincorporated business exemptions permitted under § 28-09 of these regulations. Where the business is carried on both within and without New York City, these limitations apply to and are computed with reference to the excess of the allocable unincorporated business gross income over the allocable unincorporated business deductions apportioned to New York City.
+   (2) Limitations on deduction for compensation. Any deduction allowable under paragraph (a)(1) of this subdivision (a) shall not exceed $5,000 for a proprietor or for each active partner and the aggregate of such deductions shall not exceed 20 percent of the unincorporated business taxable income computed without the benefit of this deduction or the unincorporated business exemptions permitted under 19 RCNY § 28-09. Where the business is carried on both within and without New York City, these limitations apply to and are computed with reference to the excess of the allocable unincorporated business gross income over the allocable unincorporated business deductions apportioned to New York City.
 
 Example 1: A, an individual, has unincorporated business taxable income (computed without deductions for compensation for his services or the unincorporated business exemptions) of $15,000. He actually with drew from the business a salary of $6,000. Assuming the amount drawn would not exceed a reasonable allowance, the allowable deduction for A's services is $3,000, (20% of the $15,000) which in this case is the maximum deduction allowable. The $5,000 limitation is not applicable because it exceeds the 20% of income limitation on the aggregate of allowable deductions for compensation of a proprietor and active partners under the foregoing subdivision.
 
@@ -15342,7 +15420,7 @@ Example 4: Partnership XYZ has unincorporated business taxable income (computed 
 
 Example 5: Assuming the same facts as those in Example 4, except that the unincorporated business income (computed without deduction for compensation for partners' services or the unincorporated business exemptions) is $60,000, then the deductions under this subdivision (a) representing a reasonable allowance for services of the active partners cannot exceed $10,000 ($5,000 for each partner). Here again, no deduction is allowable with respect to the inactive partner, Z. The 20% of income limitation has no application here because the amount thereof, $12,000 (20% of $60,000), exceeds the aggregate of the maximum allowable individual deductions of $5,000 per active partner.
 
-Example 6: Assuming the same facts presented in Example 5, except that the business was carried on both within and without New York City, with 80% of the income allocable to New York City, the maximum deduction for reasonable compensation for the services of the active partners is $9,600, computed as follows:
+Example 6: Assuming the same facts presented in Example 5, except that the business was carried on both within and without New York City, with 80% of the income allocable to New York City, the maximum deduction for reasonable compensation for the services of the active partners is $9,600, computed as follows: 
 
  
 
@@ -15355,7 +15433,7 @@ Example 6: Assuming the same facts presented in Example 5, except that the busin
     * - Portion allocated to New York City (80%)
       -  $48,000
     * - Aggregate deduction for active partners, X and Y, limited to 20 percent of amount allocated to New York City
-      -  $  9,600
+      -  $9,600
 ~
 
 
@@ -15364,13 +15442,13 @@ Example 6: Assuming the same facts presented in Example 5, except that the busin
 
 Example 7: XYZ Partnership is engaged in the business of making commercial loans. The partnership consists of 2 individuals, X and Y and one corporation, Z Corporation. The officers of Z Corporation have a background in investments and real estate. They advise the partnership regarding loans under consideration, attend meetings of the partnership and consult with the other partners relating to accepting or rejecting loan applications. XYZ Partnership is entitled to a deduction for reasonable compensation paid to its three active partners, not to exceed the lesser of $15,000 or 20% of the unincorporated business taxable income.
 
-   (3) For purposes of this subdivision, a person will be considered a partner of an entity if that person would be considered to be a partner under § 28-06(d)(1)(iv) of these Rules.
+   (3) For purposes of this subdivision, a person will be considered a partner of an entity if that person would be considered to be a partner under 19 RCNY § 28-06(d)(1)(iv).
 
 (b) Modifications for special depreciation and research and development expenditures. (Administrative Code § 11-509(b)).
 
    (1) General. 
 
-      (i) At the election of the taxpayer, special optional modifications for depreciation of certain property and for certain expenditures for property used for research or development purposes are permitted, without allocation under § 28-07 of these regulations, upon the terms and conditions prescribed by this subdivision (b). Either or both of the deductions set forth in subparagraphs (1)(ii) and (1)(iii) of this paragraph (1) shall be allowed, except that only one of these deductions shall be allowed with respect to any one item of property.
+      (i) At the election of the taxpayer, special optional modifications for depreciation of certain property and for certain expenditures for property used for research or development purposes are permitted, without allocation under 19 RCNY § 28-07, upon the terms and conditions prescribed by this subdivision (b). Either or both of the deductions set forth in subparagraphs (1)(ii) and (1)(iii) of this paragraph (1) shall be allowed, except that only one of these deductions shall be allowed with respect to any one item of property.
 
       (ii) Where an individual, partnership, estate or trust constructs, reconstructs, erects or acquires qualifying property as defined in paragraph (2) of this subdivision (b), there shall, subject to the terms and conditions prescribed by this subdivision (b), at the election of the taxpayer, be allowed in respect of such qualifying property a deduction for depreciation not exceeding twice the depreciation allowed with respect to the same property for Federal income tax purposes. A deduction pursuant to this subparagraph (ii) is allowed only upon the condition that no other deduction for depreciation of such property shall be permitted for the taxable year.
 
@@ -15400,19 +15478,19 @@ Example 7: XYZ Partnership is engaged in the business of making commercial loans
 
       (ii) With respect to the depreciation deduction allowed under subparagraph (1)(ii) of paragraph (1), such deduction shall be allowed with respect to property described in this paragraph (2) only on condition that such property shall be principally used by the taxpayer in the production of goods by manufacturing, processing, assembling, refining, mining, extracting, farming, agriculture, horticulture, floriculture, viticulture or commercial fishing. For purposes of the preceding sentence, manufacturing shall mean the process of working raw materials into wares suitable for use or which gives new shapes, new qualities or new combinations to matter which already has gone through some artificial process by the use of machinery, tools, appliances and other similar equipment. Property used in the production of goods shall include machinery, equipment or other tangible property which is principally used in the repair and service of other machinery, equipment or other tangible property used principally in the production of goods, and shall include all facilities used in the manufacturing operation, including storage of material to be used in the manufacturing, and of the products that are manufactured.
 
-      (iii) At the option of the taxpayer, air and water pollution control facilities which qualify for elective deductions under § 28-06(i) of these regulations, may be treated, for purposes of this paragraph (2), as tangible property principally used in the production of goods by manufacturing, processing, assembling, refining, mining, extracting, farming, agriculture, horticulture, floriculture, viticulture or commercial fishing, in which event, a deduction shall not be allowed under such § 28-06(i) of these regulations.
+      (iii) At the option of the taxpayer, air and water pollution control facilities which qualify for elective deductions under 19 RCNY § 28-06(i), may be treated, for purposes of this paragraph (2), as tangible property principally used in the production of goods by manufacturing, processing, assembling, refining, mining, extracting, farming, agriculture, horticulture, floriculture, viticulture or commercial fishing, in which event, a deduction shall not be allowed under such 19 RCNY § 28-06(i).
 
       (iv) No deduction shall be permitted under this subdivision (b) for research and experimental expenditures treated as deductible expenses under § 174(a) of the Internal Revenue Code or as amortizable deferred expenses under § 174(b) of the Internal Revenue Code (such expenditures will be reflected in the computation of New York City taxable income through the use of Federal amounts in accordance with the general provisions of these regulations).
 
       (v) With respect to the depreciation deduction under subparagraph (1)(ii) of this subdivision (b), for any taxable year beginning on or after January 1, 1968, no deduction is allowed for tangible personal property leased to any other person or corporation. Any contract or agreement to lease or rent or for a license to use such property is considered a lease; provided, however, that with respect to property which a taxpayer uses for purposes other than leasing for part of a taxable year and leases for another part of a taxable year, a deduction may be taken in proportion to the part of the year such property is used by the taxpayer.
 
-      (vi) The special depreciation and expenditure deduction is only allowed with respect to property which has not been the subject of a depreciation deduction pursuant to § 28-06 of these regulations. With respect to the expenditure deductions allowed by subparagraph (1)(iii) of this subdivision (b), such expenditure deduction shall be allowed only if for the taxable year and all succeeding taxable years, no deduction shall be allowed pursuant to § 28-06 of these regulations on account of such expenditures or on account of depreciation of the same property, except to the extent that its basis may be attributable to factors other than such expenditures, or in case a deduction is allowable pursuant to this paragraph for only a part of such expenditures, on condition that any deduction allowable for federal income tax purposes on account of such expenditures or on account of depreciation of the same property shall be proportionately reduced in determining the deductions allowable pursuant to § 28-06 of these regulations for the taxable year and all succeeding taxable years.
+      (vi) The special depreciation and expenditure deduction is only allowed with respect to property which has not been the subject of a depreciation deduction pursuant to 19 RCNY § 28-06. With respect to the expenditure deductions allowed by subparagraph (1)(iii) of this subdivision (b), such expenditure deduction shall be allowed only if for the taxable year and all succeeding taxable years, no deduction shall be allowed pursuant to 19 RCNY § 28-06 on account of such expenditures or on account of depreciation of the same property, except to the extent that its basis may be attributable to factors other than such expenditures, or in case a deduction is allowable pursuant to this paragraph for only a part of such expenditures, on condition that any deduction allowable for federal income tax purposes on account of such expenditures or on account of depreciation of the same property shall be proportionately reduced in determining the deductions allowable pursuant to 19 RCNY § 28-06 for the taxable year and all succeeding taxable years.
 
       (vii) In the case of an unincorporated business carried on both within and without New York City, the total of the deduction for depreciation or the deduction for expenditures shall not exceed
 
          (A) such expenditures, and in the case of depreciation, its costs or other basis,
 
-         (B) multiplied by the allocation percentage determined under § 28-07 of these regulations, which is used in allocating the excess of the taxpayer's unincorporated business gross income over its unincorporated business deductions to New York City for the first year such depreciation is deducted or the first year such expenditure is paid or incurred, whichever is applicable.
+         (B) multiplied by the allocation percentage determined under 19 RCNY § 28-07, which is used in allocating the excess of the taxpayer's unincorporated business gross income over its unincorporated business deductions to New York City for the first year such depreciation is deducted or the first year such expenditure is paid or incurred, whichever is applicable.
 
    (4) A similar special depreciation or expenditure deduction applies with respect to tangible personal property, having a situs in the City, used in the taxpayer's trade or business, and acquired, constructed, erected or recon structed between January 1, 1966 and December 31, 1969. For definitions, limitations and requirements, see § 11-509(b) of the Administrative Code.
 
@@ -15424,7 +15502,7 @@ Example 7: XYZ Partnership is engaged in the business of making commercial loans
 
    (6) Reporting change in use of research or development property. If a taxpayer has been allowed a deduction under subparagraph (1)(iii) of this subdivision (b) for an expenditure for a qualifying research or development property and such property is used for purposes other than research or development to a greater extent than originally reported, the taxpayer shall report such use in the return for the first taxable year during which it occurs, and the Commissioner of Finance may recompute the tax for year or years for which the deduction was made and may assess any additional tax resulting from such recomputation within the time fixed by § 11-523(c)(7) of the Administrative Code.
 
-   (7) Carryover of unused deductions. If the deductions allowable under this subdivision (b) for any taxable year exceed the taxpayer's unincorporated business taxable income determined without the allowance of such deductions, the excess may be carried over to the following taxable year or years of the same taxpayer (without allocation under § 28-07 of these regulations) in computing unincorporated business taxable income for such year or years. If a carryover under this subdivision (b) is claimed, complete details of the computation of the carryover must be submitted with the taxpayer's return.
+   (7) Carryover of unused deductions. If the deductions allowable under this subdivision (b) for any taxable year exceed the taxpayer's unincorporated business taxable income determined without the allowance of such deductions, the excess may be carried over to the following taxable year or years of the same taxpayer (without allocation under 19 RCNY § 28-07) in computing unincorporated business taxable income for such year or years. If a carryover under this subdivision (b) is claimed, complete details of the computation of the carryover must be submitted with the taxpayer's return.
 
    (8) Rule for making elections. An election to deduct additional depreciation or expenditures for research or development purposes under this subdivision (b) shall be made by filing with the unincorporated business income tax return or returns in which such deductions are claimed a statement evidencing such election and containing complete details of the qualifying property involved and the computation of the related deduction and modification. (Such statement and information shall be submitted on form NYC-324, "Special Depreciation and Expenditure Schedule.")
 
@@ -15438,9 +15516,9 @@ Example 7: XYZ Partnership is engaged in the business of making commercial loans
 
 (a) Specific exemption. (Administrative Code § 11-510(1)).
 
-   (1) In addition to the deductions otherwise allowable under §§ 28-06 and 28-08 of these regulations, there is allowed a specific annual exemption of $5,000 which is deductible in computing the unincorporated business taxable income. If the business was carried on or was being liquidated for a period of less than an entire taxable year of 12 months, the exemption must be prorated. The proration shall be made on a dally basis at the rate of $13.70 per calendar day unless the return is filed for a period of one or more whole months beginning on the first day and ending on the last day of a calendar month, in which event the proration is to be made on a monthly basis at the rate of $416.67 per month.
+   (1) In addition to the deductions otherwise allowable under 19 RCNY §§ 28-06 and 28-08, there is allowed a specific annual exemption of $5,000 which is deductible in computing the unincorporated business taxable income. If the business was carried on or was being liquidated for a period of less than an entire taxable year of 12 months, the exemption must be prorated. The proration shall be made on a dally basis at the rate of $13.70 per calendar day unless the return is filed for a period of one or more whole months beginning on the first day and ending on the last day of a calendar month, in which event the proration is to be made on a monthly basis at the rate of $416.67 per month.
 
-   (2) This exemption is not subject to allocation even though the unincorporated business is carried on both within and without New York City. Only one specific exemption is allowed to an individual, partnership or other unincorporated entity, even though the individual or other entity carries on two or more unincorporated businesses. (See: § 28-02(a)(4) of these regulations.)
+   (2) This exemption is not subject to allocation even though the unincorporated business is carried on both within and without New York City. Only one specific exemption is allowed to an individual, partnership or other unincorporated entity, even though the individual or other entity carries on two or more unincorporated businesses. (See: 19 RCNY § 28-02(a)(4).)
 
 Example 1: If a partnership in existence and carrying on business on January 1, 1975 ceases business operations and completely liquidates on August 15, 1975, an exemption of $3,109.90, representing 227 days at $13.70 per day, is allowed for the period beginning January 1, 1975 and ending August 15, 1975.
 
@@ -15452,7 +15530,7 @@ Example 4: Individual A sold his unincorporated business under a deferred paymen
 
 (b) Additional exemption. (Administrative Code § 11-510(2)).
 
-   (1) General. For taxable years beginning before July 1, 1994, a partnership (or other unincorporated entity which is considered to be a partnership for unincorporated business tax purposes, see § 28-02(c) of these rules) is allowed an exemption in addition to the specific exemption described in § 28-09(a)(1) if a partner or member of such partnership or other entity is, in its separate capacity, taxable under the general corporation tax imposed pursuant to Chapter 6 of Title 11 of the Administrative Code or the unincorporated business tax imposed pursuant to Chapter 5 of Title 11 of the Administrative Code. The additional exemption allowable in such a case is the amount of such partner's or member's proportionate interest in the excess of the partnership's unincorporated business gross income (as computed under § 28-05 of these rules) over the partnership's unincorporated business deductions allowed under §§ 28-06 and 28-08 of these rules. If the unincorporated business of a partnership which qualified for the additional exemption under this subdivision (b) is carried on both within and without New York City, the proportionate interest of a partner or member with respect to which the additional exemption is allowable is computed without regard to any allocation the partnership may be permitted to make under § 28-07 of these rules, other than an allocation applicable to a net operating loss deduction allowable under § 28-06 of these rules. No additional exemption is allowed for amounts distributed to an individual member of a partnership who also carries on his own separate and independent unincorporated business and who, pursuant to § 28-05(a) of these rules, is not required or permitted to include his distributive share of partnership income in computing his own separate unincorporated business gross income. Notwithstanding anything in these rules to the contrary, no additional exemption shall be allowed to an unincorporated business for any taxable year of the unincorporated business beginning after June 30, 1994.
+   (1) General. For taxable years beginning before July 1, 1994, a partnership (or other unincorporated entity which is considered to be a partnership for unincorporated business tax purposes, see 19 RCNY § 28-02(c)) is allowed an exemption in addition to the specific exemption described in 19 RCNY § 28-09(a)(1) if a partner or member of such partnership or other entity is, in its separate capacity, taxable under the general corporation tax imposed pursuant to Chapter 6 of Title 11 of the Administrative Code or the unincorporated business tax imposed pursuant to Chapter 5 of Title 11 of the Administrative Code. The additional exemption allowable in such a case is the amount of such partner's or member's proportionate interest in the excess of the partnership's unincorporated business gross income (as computed under 19 RCNY § 28-05) over the partnership's unincorporated business deductions allowed under 19 RCNY §§ 28-06 and 28-08. If the unincorporated business of a partnership which qualified for the additional exemption under this subdivision (b) is carried on both within and without New York City, the proportionate interest of a partner or member with respect to which the additional exemption is allowable is computed without regard to any allocation the partnership may be permitted to make under 19 RCNY § 28-07, other than an allocation applicable to a net operating loss deduction allowable under 19 RCNY § 28-06. No additional exemption is allowed for amounts distributed to an individual member of a partnership who also carries on his own separate and independent unincorporated business and who, pursuant to 19 RCNY § 28-05(a), is not required or permitted to include his distributive share of partnership income in computing his own separate unincorporated business gross income. Notwithstanding anything in these rules to the contrary, no additional exemption shall be allowed to an unincorporated business for any taxable year of the unincorporated business beginning after June 30, 1994.
 
    (2) Limitation on amount of additional exemption. The additional exemption allowable under paragraph (1) of this subdivision (b) is limited to the amount which is included in the partner's or member's unincorporated business taxable income allocable to New York City, or included in a corporate partner's or corporate member's net income allocable to New York City, under the provisions of Chapter 5 or Chapter 6 of Title 11 of the Administrative Code. Thus, the additional exemption attributable to a partner cannot exceed that partner's unincorporated business taxable income allocable to New York City in the case of an unincorporated partner or that partner's net income allocable to New York City in the case of a corporate partner.
 
@@ -15460,7 +15538,7 @@ Example 4: Individual A sold his unincorporated business under a deferred paymen
 
       (i) Where a partnership or other unincorporated entity is entitled to exemption under paragraph (1) of this subdivision (b) with respect to more than one of its partners or members, a separate computation with respect to each partner or member must be made.
 
-Example 1: A joint venture is entered into by four individual venturers, and X &amp; Y, a partnership, taxable under Chapter 5 of Title 11 of the Administrative Code, and Z Inc., a corporation taxable under Chapter 6 of Title 11 of the Administrative Code. The partnership X &amp; Y and the corporation Z Inc. each have a one-third interest in the income and profits of the joint venture. The activities of the joint venture are carried on in such a manner as to constitute the carrying on of an unincorporated business. The interests of four individual members (other than X &amp; Y partnership or Z Inc.) in the venture are not connected with any other business carried on by them and they devote their full business time to the operation of the venture. Partnership X &amp; Y invested business funds in the venture and, as a separate entity, was engaged in the conduct of a separate unincorporated business which it carried on both within and without New York City with an allocation of 60 percent to New York City for unincorporated business income tax purposes. Partnership X &amp; Y had allocated taxable business income of $200,000. The corporate return of Z Inc., which included the corporate partner's share of the joint venture income, showed a business allocation of 75 percent to New York City. Corporation Z had allocated taxable net income of $200,000. Assuming the joint venture net income (before deduction for compensation for services of partners) to be $300,000 (of which $100,000 is distributable to X &amp; Y and $100,000 to Z Inc.), and assuming $30,000 allowable as the deduction for partners' services under § 28-08(a) of these regulations, the additional exemptions allowed under this subdivision (b) would be computed in the following manner:
+Example 1: A joint venture is entered into by four individual venturers, and X &amp; Y, a partnership, taxable under Chapter 5 of Title 11 of the Administrative Code, and Z Inc., a corporation taxable under Chapter 6 of Title 11 of the Administrative Code. The partnership X &amp; Y and the corporation Z Inc. each have a one-third interest in the income and profits of the joint venture. The activities of the joint venture are carried on in such a manner as to constitute the carrying on of an unincorporated business. The interests of four individual members (other than X &amp; Y partnership or Z Inc.) in the venture are not connected with any other business carried on by them and they devote their full business time to the operation of the venture. Partnership X &amp; Y invested business funds in the venture and, as a separate entity, was engaged in the conduct of a separate unincorporated business which it carried on both within and without New York City with an allocation of 60 percent to New York City for unincorporated business income tax purposes. Partnership X &amp; Y had allocated taxable business income of $200,000. The corporate return of Z Inc., which included the corporate partner's share of the joint venture income, showed a business allocation of 75 percent to New York City. Corporation Z had allocated taxable net income of $200,000. Assuming the joint venture net income (before deduction for compensation for services of partners) to be $300,000 (of which $100,000 is distributable to X &amp; Y and $100,000 to Z Inc.), and assuming $30,000 allowable as the deduction for partners' services under 19 RCNY § 28-08(a), the additional exemptions allowed under this subdivision (b) would be computed in the following manner: 
 
  
 
@@ -15468,9 +15546,9 @@ Example 1: A joint venture is entered into by four individual venturers, and X &
 .. list-table::
     :header-rows: 1
 
-    * - Joint venture net income (before § 28-08(a) deduction)
+    * - Joint venture net income (before 19 RCNY § 28-08(a) deduction)
       -  $300,000
-    * - Deduction for services permitted under § 28-08(a) of these regulations
+    * - Deduction for services permitted under 19 RCNY § 28-08(a)
       - ($30,000)
     * - Excess of unincorporated business gross income over unincorporated business deductions
       -  $270,000
@@ -15488,7 +15566,7 @@ Example 1: A joint venture is entered into by four individual venturers, and X &
 
  
 
-(The additional exemption computed above would not be affected by any allocation the joint venture would have been entitled to make if the unincorporated business of the joint venture had been carried on both within and without New York City. The additional exemption would be allowable in addition to the specific exemption of $5,000 provided for in § 28-09(a)
+(The additional exemption computed above would not be affected by any allocation the joint venture would have been entitled to make if the unincorporated business of the joint venture had been carried on both within and without New York City. The additional exemption would be allowable in addition to the specific exemption of $5,000 provided for in 19 RCNY § 28-09(a).
 
 The additional exemption of the joint venture allowable with respect to the X &amp; Y Partnership or the corporation Z, Inc. is not limited by either the 60% allocation percentage used by X &amp; Y Partnership on its tax return or the 75% allocation percentage used by the corporation Z, Inc. on its tax return, except to the extent that the allocation percentage may reduce allocated taxable income or entire net income to an amount less than the distributive share; see paragraph (2) and example 2 of paragraph (3) of this subdivision (b).
 
@@ -15507,11 +15585,11 @@ Distribution of Joint Venture Income:
     * - Corporation A
       - $100,000
     * - Corporation B
-      - 100,000
+      - $100,000
     * - Partnership C
-      - 100,000
+      - $100,000
     * - Partnership D
-      -   100,000
+      -   $100,000
     * -   Total Income
       - $400,000
     * -   (Allocated 100% to NYC)
@@ -15528,7 +15606,7 @@ Distribution of Joint Venture Income:
 .. list-table::
     :header-rows: 1
 
-    * - 
+    * -  
       - Corp. A 
       - Corp. B 
       - Part. C 
@@ -15539,29 +15617,29 @@ Distribution of Joint Venture Income:
       - $100,000
       - $100,000
     * - Net Income From other business operations
-      - 50,000
-      - (150,000)
-      - (100,000)
-      - (50,000)
+      - $50,000
+      - ($150,000)
+      - ($100,000)
+      - ($50,000)
     * - Total Taxable Net or Business Income
       - $150,000
       - ($50,000)
       -  $    -0-    
-      - $  50,000
+      - $50,000
     * - Additional Exemption Allowed
       - $100,000
       -  $    -0-    
       -  $    -0-    
-      - $  50,000
+      - $50,000
 ~
 
 
 
  
 
-      (ii) The excess of unincorporated business gross income over unincorporated business deductions includes amounts actually paid or incurred to a partner or member which are not allowed as a deduction under § 28-06(d)(1) of these regulations. The computation of the proportionate interest of a partner or member in such excess must reflect these non-deductible direct payments made or incurred by the unincorporated business as well as the balance of the excess distributable by the unincorporated business. Payments or distributable amounts may be included in the computation of a partner's or member's proportionate interest in the excess of unincorporated business gross income over allowable unincorporated business deductions only if these payments or distributable amounts are included by the partner or member in computing its taxable income allocable to the City (for non-corporate partners) or net income allocable to the City (for corporate partners).
+      (ii) The excess of unincorporated business gross income over unincorporated business deductions includes amounts actually paid or incurred to a partner or member which are not allowed as a deduction under 19 RCNY § 28-06(d)(1). The computation of the proportionate interest of a partner or member in such excess must reflect these non-deductible direct payments made or incurred by the unincorporated business as well as the balance of the excess distributable by the unincorporated business. Payments or distributable amounts may be included in the computation of a partner's or member's proportionate interest in the excess of unincorporated business gross income over allowable unincorporated business deductions only if these payments or distributable amounts are included by the partner or member in computing its taxable income allocable to the City (for non-corporate partners) or net income allocable to the City (for corporate partners).
 
-Example 4: Corporation A, Partnership B and Mr. C enter into a joint venture subject to the unincorporated business tax. Each partner is an equal member of the venture and is actively engaged in the conduct of the venture's business. Corporation A provides services to the venture for which it is paid $300,000 by the venture. This payment is for services of a type which are not allowed as a deduction under § 28-06(d)(1) of these regulations. The venture incurs no other expenses during the year. The venture's gross income for the year is $450,000. $15,000 is allowable as the deduction for partners' services under § 28-08(a) of these regulations. Since the $300,000 paid to Corporation A is not allowed as a deduction, the excess of gross income over allowable deductions is $435,000. Each partner's proportionate interest in this excess is computed in the following manner:
+Example 4: Corporation A, Partnership B and Mr. C enter into a joint venture subject to the unincorporated business tax. Each partner is an equal member of the venture and is actively engaged in the conduct of the venture's business. Corporation A provides services to the venture for which it is paid $300,000 by the venture. This payment is for services of a type which are not allowed as a deduction under 19 RCNY § 28-06(d)(1) of these regulations. The venture incurs no other expenses during the year. The venture's gross income for the year is $450,000. $15,000 is allowable as the deduction for partners' services under 19 RCNY § 28-08(a). Since the $300,000 paid to Corporation A is not allowed as a deduction, the excess of gross income over allowable deductions is $435,000. Each partner's proportionate interest in this excess is computed in the following manner: 
 
  
 
@@ -15569,16 +15647,16 @@ Example 4: Corporation A, Partnership B and Mr. C enter into a joint venture sub
 .. list-table::
     :header-rows: 1
 
-    * - Joint venture net income before § 28-08(a) deduction for services
+    * - Joint venture net income before 19 RCNY § 28-08(a) deduction for services
       - $450,000
-    * - ($300,000 payment to Corporation A is not an allowable deduction under § 28-06(d)(1) of these regulations.)
+    * - ($300,000 payment to Corporation A is not an allowable deduction under 19 RCNY § 28-06(d)(1).)
       - 
-    * - Deduction for services permitted under § 28-08(a) of these regulations
+    * - Deduction for services permitted under 19 RCNY § 28-08(a)
       - ($15,000)
     * - Excess of U.B. gross income over U.B. deductions
       - $435,000
-    * - Direct payment to Corporation A which is not allowed as a deduction under § 28-06(d)(1) of these regulations
-      - (300,000)
+    * - Direct payment to Corporation A which is not allowed as a deduction under 19 RCNY § 28-06(d)(1)
+      - ($300,000)
     * - Balance distributable
       - $135,000
 ~
@@ -15587,7 +15665,7 @@ Example 4: Corporation A, Partnership B and Mr. C enter into a joint venture sub
 
  
 
-Corporation A's proportionate interest in the excess of U.B. gross income over U.B. deduction is the sum of:
+Corporation A's proportionate interest in the excess of U.B. gross income over U.B. deduction is the sum of: 
 
  
 
@@ -15599,9 +15677,9 @@ Corporation A's proportionate interest in the excess of U.B. gross income over U
       - $300,000
       - 
     * - Pro rata share of the distributable balance (1/3 of $135,000)
-      -  45,000
+      -  $45,000
       - 
-    * - 
+    * -  
       - $345,000
       - $345,000
 ~
@@ -15610,7 +15688,7 @@ Corporation A's proportionate interest in the excess of U.B. gross income over U
 
  
 
-Partnership B's proportionate interest in the excess of U.B. gross income over U.B. deductions is the sum of:
+Partnership B's proportionate interest in the excess of U.B. gross income over U.B. deductions is the sum of: 
 
  
 
@@ -15619,37 +15697,37 @@ Partnership B's proportionate interest in the excess of U.B. gross income over U
     :header-rows: 1
 
     * - Direct payments not deductible by the partnership
-      - $         0
+      - $0
       - 
     * - Pro rata share of the distributable balance (1/3 of $135,000)
-      -   45,000
+      -   $45,000
       - 
-    * - 
-      - 45,000
-      - $  45,000
-~
-
-
-
- 
-
-Mr C's proportionate interest in the excess of U.B. gross income over U.B. deductions is the sum of:
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - Direct payments not deductible by the partnership
-      - $        0
-      - 
-    * - Pro rata share of the distributable balance (1/3 of $135,000)
-      -   45.000
-      - 
-    * - 
+    * -  
       - $45,000
-      - $  45,000
+      - $45,000
+~
+
+
+
+ 
+
+Mr C's proportionate interest in the excess of U.B. gross income over U.B. deductions is the sum of: 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - Direct payments not deductible by the partnership
+      - $0
+      - 
+    * - Pro rata share of the distributable balance (1/3 of $135,000)
+      -   $45,000
+      - 
+    * -  
+      - $45,000
+      -   $45,000
     * - Total of all proportionate interests in the excess of U.B. gross income over U.B. deductions
       - 
       - $435,000
@@ -15659,7 +15737,7 @@ Mr C's proportionate interest in the excess of U.B. gross income over U.B. deduc
 
  
 
-If Corporation A's net income allocable to New York City is $345,000 or more, the venture will be allowed an additional exemption of $345,000 for its distributions and payments to Corporation A. If Partnership B's taxable income allocable to New York City is $45,000 or more, the venture will be allowed an additional exemption of $45,000 for its distribution to Partnership B. No additional exemption is allowed for distributions made to Mr. C. Example 5: Same facts as in example 4, except that the venture's gross income is $150,000. $15,000 is allowable as the deduction for partners' services under § 28-08(a) of these regulations. Since the $300,000 paid to Corporation A is not allowed as a deduction, the excess of gross income over allowable deductions is $135,000. Each partner's proportionate interest in this excess is computed in the following manner:
+If Corporation A's net income allocable to New York City is $345,000 or more, the venture will be allowed an additional exemption of $345,000 for its distributions and payments to Corporation A. If Partnership B's taxable income allocable to New York City is $45,000 or more, the venture will be allowed an additional exemption of $45,000 for its distribution to Partnership B. No additional exemption is allowed for distributions made to Mr. C. Example 5: Same facts as in example 4, except that the venture's gross income is $150,000. $15,000 is allowable as the deduction for partners' services under § 28-08(a) of these regulations. Since the $300,000 paid to Corporation A is not allowed as a deduction, the excess of gross income over allowable deductions is $135,000. Each partner's proportionate interest in this excess is computed in the following manner: 
 
  
 
@@ -15667,14 +15745,14 @@ If Corporation A's net income allocable to New York City is $345,000 or more, th
 .. list-table::
     :header-rows: 1
 
-    * - Joint venture net income before § 28-08(a) deduction for services ($300,000 payment to Corporation A is not an allowable deduction under § 28-06(d)(1) of these regulations.)
+    * - Joint venture net income before 19 RCNY § 28-08(a) deduction for services ($300,000 payment to Corporation A is not an allowable deduction under 19 RCNY § 28-06(d)(1).)
       - $150,000
-    * - Deduction for services permitted under § 28-08(a) of these regulations
+    * - Deduction for services permitted under 19 RCNY § 28-08(a)
       - ($15,000)
     * - Excess of U.B. gross income over U.B. deductions
       - $135,000
-    * - Direct payment to Corporation A which is not allowed as a deduction under § 28-06(d)(1) of these regulations
-      - (300,000)
+    * - Direct payment to Corporation A which is not allowed as a deduction under 19 RCNY § 28-06(d)(1)
+      - ($300,000)
     * - Balance distributable (not less than zero)
       - 0 
 ~
@@ -15683,7 +15761,7 @@ If Corporation A's net income allocable to New York City is $345,000 or more, th
 
  
 
-Corporation A's proportionate interest in the excess of U.B. gross income over U.B. deductions is the sum of:
+Corporation A's proportionate interest in the excess of U.B. gross income over U.B. deductions is the sum of: 
 
  
 
@@ -15697,7 +15775,7 @@ Corporation A's proportionate interest in the excess of U.B. gross income over U
     * - Pro rata share of the distributable balance
       -     0      
       - 
-    * - 
+    * -  
       - $135,000
       - $135,000
 ~
@@ -15706,7 +15784,7 @@ Corporation A's proportionate interest in the excess of U.B. gross income over U
 
  
 
-Partnership B's proportionate interest in the excess of U.B. gross income over U.B. deductions is the sum of:
+Partnership B's proportionate interest in the excess of U.B. gross income over U.B. deductions is the sum of: 
 
  
 
@@ -15715,21 +15793,21 @@ Partnership B's proportionate interest in the excess of U.B. gross income over U
     :header-rows: 1
 
     * - Direct payments not deductible by the partnership
-      - $  0 
+      - $0 
       - 
     * - Pro rata share of the distributable balance
-      -  0
+      -  $0
       - 
-    * - 
-      - $  0 
-      - $  0 
+    * -  
+      - $0 
+      - $0 
 ~
 
 
 
  
 
-Mr. C's proportionate interest in the excess of U.B. gross income over U.B. deductions is the sum of:
+Mr. C's proportionate interest in the excess of U.B. gross income over U.B. deductions is the sum of: 
 
  
 
@@ -15738,14 +15816,14 @@ Mr. C's proportionate interest in the excess of U.B. gross income over U.B. dedu
     :header-rows: 1
 
     * - Direct payments not deductible by the partnership
-      - $  0 
+      - $0 
       - 
     * - Pro rata share of the distributable balance
-      -  0
+      -  $0
       - 
-    * - 
-      - $  0 
-      -  $    0     
+    * -  
+      - $0 
+      -            $0
     * - Total of all proportionate interests in the excess of U.B. gross income over U.B. deductions
       - 
       - $135,000
@@ -15763,17 +15841,15 @@ Example 6: Corporation A is a member of three joint ventures: AB, AC and AD. Cor
 
 The maximum additional exemption allowable to venture AB for Corporation A is its pro rata share of Corporation A's net income allocable to New York City or $50,000
 
-[$400,000 × $100,000 = $50,000].  $800,000
+[$400,000 × $100,000 = $50,000].       $800,000
 
 The maximum additional exemption allowable to venture AC for its distribution to Corporation A is $150,000
 
-[$400,000 × $300,000 = $150,000].  $800,000
+[$400,000 × $300,000 = $150,000].       $800,000
 
 The maximum additional exemption allowable to venture AD for its distribution to Corporation A is $200,000
 
-[$400,000 × $400,000 = $200,000].  $800,000
-
- 
+[$400,000 × $400,000 = $200,000].       $800,000
 
       (iv) The additional exemption allowed an unincorporated business with respect to a corporate partner is limited to the corporate partner's net income allocable to the City even though the corporate partner does not pay a New York City general corporation tax measured by allocated net income because one of the alternative measures of the general corporation tax produces a higher tax.
 
@@ -15789,7 +15865,7 @@ Example 7: Partnership ABC is composed of three corporate partners, Corporation 
 
 (a) Requirement of declaration. (Administrative Code § 11-511(a)).
 
-   (1) Every unincorporated business shall make a declaration of estimated unincorporated business tax for each taxable year if: (i) for taxable years beginning after 1986 but before 1996, its unincorporated business taxable income can reasonably be expected to exceed $15,000; (ii) for taxable years beginning in 1996, its unincorporated business taxable income can reasonably be expected to exceed $20,000; and (iii) for taxable years beginning after 1996, its estimated unincorporated business tax can reasonably be expected to exceed $1,000 for the taxable year. The declaration must cover a calendar year accounting period, or a full fiscal year if the taxpayer files its unincorporated business tax return on a fiscal year basis, unless a declaration for a short period is required by § 28-15(k).
+   (1) Every unincorporated business shall make a declaration of estimated unincorporated business tax for each taxable year if: (i) for taxable years beginning after 1986 but before 1996, its unincorporated business taxable income can reasonably be expected to exceed $15,000; (ii) for taxable years beginning in 1996, its unincorporated business taxable income can reasonably be expected to exceed $20,000; and (iii) for taxable years beginning after 1996, its estimated unincorporated business tax can reasonably be expected to exceed $1,000 for the taxable year. The declaration must cover a calendar year accounting period, or a full fiscal year if the taxpayer files its unincorporated business tax return on a fiscal year basis, unless a declaration for a short period is required by 19 RCNY § 28-15(k).
 
    (2) If the unincorporated business is carried on by an individual, an estate or a trust, any declaration required by paragraph (1) of this subdivision (a) shall be made on form NYC-5UBTI.
 
@@ -15797,13 +15873,13 @@ Example 7: Partnership ABC is composed of three corporate partners, Corporation 
 
 (b) Contents of declaration. For the purpose of making the declaration, the amount of the unincorporated business taxable income which the business can reasonably be expected to receive or accrue, depending upon the method of accounting upon which the unincorporated business taxable income is computed, or, for taxable years beginning after 1996, the amount of the estimated tax, shall be determined upon the basis of the facts and circumstances existing at the time prescribed for the filing of the declaration as well as those facts and circumstances reasonably to be anticipated for the taxable year.
 
-(c) Definition of estimated tax. (Administrative Code, § 11-511(b)). For purposes of this section the terms "estimated tax" and "estimated unincorporated business tax" mean the amount which the unincorporated business estimates to be its tax for the taxable year under Chapter 5 of Title 11 of the Administrative Code, less the amount which it estimates to be credits, if any, allowable under § 28-03(c) of these regulations, other than the credit relating to stock transfer tax allowable under § 28-03(c)(2) of these regulations. These terms, as used in this section do not include the personal income tax imposed by Chapter 17 of Title 11 of the Administrative Code or the earnings tax imposed by Chapter 19 of Title 11 of the Administrative Code.
+(c) Definition of estimated tax. (Administrative Code, § 11-511(b)). For purposes of this section the terms "estimated tax" and "estimated unincorporated business tax" mean the amount which the unincorporated business estimates to be its tax for the taxable year under Chapter 5 of Title 11 of the Administrative Code, less the amount which it estimates to be credits, if any, allowable under 19 RCNY § 28-03(c), other than the credit relating to stock transfer tax allowable under 19 RCNY § 28-03(c)(2). These terms, as used in this section do not include the personal income tax imposed by Chapter 17 of Title 11 of the Administrative Code or the earnings tax imposed by Chapter 19 of Title 11 of the Administrative Code.
 
-(d) Time for filing declaration of estimated unincorporated business tax for calendar year. (Administrative Code § 11-511(c)). A declaration of estimated unincorporated business tax for a calendar year shall be made on or before April 15 of such calendar year (except in cases referred to in § 28-15(e)). If, however, the requirements necessitating the filing of a declaration are first met, in the case of a business on a calendar year basis, after April 1 but before June 2 of the calendar year, the declaration must be filed on or before June 15 of the taxable year; if such requirements are first met after June 1 and before September 2, the declaration must be filed on or before September 15 of the taxable year; and if such requirements are first met after September 1, the declaration must be filed on or before January 15 of the succeeding calendar year.
+(d) Time for filing declaration of estimated unincorporated business tax for calendar year. (Administrative Code § 11-511(c)). A declaration of estimated unincorporated business tax for a calendar year shall be made on or before April 15 of such calendar year (except in cases referred to in 19 RCNY § 28-15(e)). If, however, the requirements necessitating the filing of a declaration are first met, in the case of a business on a calendar year basis, after April 1 but before June 2 of the calendar year, the declaration must be filed on or before June 15 of the taxable year; if such requirements are first met after June 1 and before September 2, the declaration must be filed on or before September 15 of the taxable year; and if such requirements are first met after September 1, the declaration must be filed on or before January 15 of the succeeding calendar year.
 
 (e) Time for filing declaration by an unincorporated business having estimated unincorporated business income from farming. (Administrative Code, § 11-511(d)(1)).
 
-   (1) An unincorporated business which has an estimated unincorporated business taxable income from farming (including oyster farming) which is at least two-thirds of its total estimated unincorporated business taxable income for the taxable year may file its declaration for the taxable year by the date specified below, in lieu of the time prescribed in §§ 28-15(d) and 28-15(j):
+   (1) An unincorporated business which has an estimated unincorporated business taxable income from farming (including oyster farming) which is at least two-thirds of its total estimated unincorporated business taxable income for the taxable year may file its declaration for the taxable year by the date specified below, in lieu of the time prescribed in 19 RCNY § 28-15(d) and (j):
 
       (i) if on a calendar year basis, on or before the 15th day of January of the succeeding calendar year, or
 
@@ -15847,25 +15923,25 @@ Example 7: Partnership ABC is composed of three corporate partners, Corporation 
 
 (j) Fiscal years. (Administrative Code, § 11-511(g)).
 
-   (1) The provisions of this section and § 28-16 of these regulations shall apply to a taxable year other than a calendar year by the substitution of the corresponding fiscal year month for calendar year months referred to in this section.
+   (1) The provisions of this section and 19 RCNY § 28-16 shall apply to a taxable year other than a calendar year by the substitution of the corresponding fiscal year month for calendar year months referred to in this section.
 
-   (2) In the case of a business on a fiscal year basis (except in cases referred to in § 28-15(e)), the declaration must be filed on or before the 15th day of the fourth month of the taxable year. If, however, the requirements prescribed for filing a declaration are first met after the first day of the fourth month, but before the second day of the sixth month, the declaration must be filed on or before the 15th day of the sixth month of the taxable year; such requirements are first met after the first day of the sixth month, but before the second day of the ninth month, the declaration must be filed on or before the 15th day of the ninth month of the taxable year; and if such requirements are first met after the first day of ninth month, the declaration must be filed on or before the 15th day of the first month of the succeeding fiscal year. Thus, if the business has a fiscal year ending on June 30, 1984, its declaration for such fiscal year must be filed on or before October 15, 1983. If, however, as a further example, the requirements for filing are met after October 1, 1983 and prior to December 2, 1983, the declaration need not be filed until December 15, 1983.
+   (2) In the case of a business on a fiscal year basis (except in cases referred to in 19 RCNY § 28-15(e)), the declaration must be filed on or before the 15th day of the fourth month of the taxable year. If, however, the requirements prescribed for filing a declaration are first met after the first day of the fourth month, but before the second day of the sixth month, the declaration must be filed on or before the 15th day of the sixth month of the taxable year; such requirements are first met after the first day of the sixth month, but before the second day of the ninth month, the declaration must be filed on or before the 15th day of the ninth month of the taxable year; and if such requirements are first met after the first day of ninth month, the declaration must be filed on or before the 15th day of the first month of the succeeding fiscal year. Thus, if the business has a fiscal year ending on June 30, 1984, its declaration for such fiscal year must be filed on or before October 15, 1983. If, however, as a further example, the requirements for filing are met after October 1, 1983 and prior to December 2, 1983, the declaration need not be filed until December 15, 1983.
 
 (k) Short taxable year. (Administrative Code, § 11-511(h)).
 
-   (1) No declaration may be made for a period of more than 12 months. If an unincorporated business is required to make a declaration of estimated unincorporated business tax pursuant to § 28-15(a), and a short taxable year is involved, a separate declaration for such fractional part of the year is required, except as noted in paragraph (2) of this subdivision (k) below. For the purpose of determining whether the anticipated unincorporated business taxable income for a short taxable year, resulting from a change of accounting period, necessitates the filing of a declaration, the anticipated unincorporated business taxable income is computed on the basis of the short taxable year for which a return is to be made in accordance with the applicable rules for determination of unincorporated business taxable income as set forth in § 28-18(a) of these regulations.
+   (1) No declaration may be made for a period of more than 12 months. If an unincorporated business is required to make a declaration of estimated unincorporated business tax pursuant to 19 RCNY § 28-15(a), and a short taxable year is involved, a separate declaration for such fractional part of the year is required, except as noted in paragraph (2) of this subdivision (k) below. For the purpose of determining whether the anticipated unincorporated business taxable income for a short taxable year, resulting from a change of accounting period, necessitates the filing of a declaration, the anticipated unincorporated business taxable income is computed on the basis of the short taxable year for which a return is to be made in accordance with the applicable rules for determination of unincorporated business taxable income as set forth in 19 RCNY § 28-18(a).
 
    (2) No declaration is required if the short taxable year is:
 
       (i) A period of less than four months, or
 
-      (ii) A period of at least four months, but less than six months, and the requirements of § 28-15(a) are first met after the day of the fourth month, or
+      (ii) A period of at least four months, but less than six months, and the requirements of 19 RCNY § 28-15(a) are first met after the day of the fourth month, or
 
-      (iii) A period of at least six months, but less than nine months, and the requirements of § 28-15(a) are first met after the first day of the sixth month, or
+      (iii) A period of at least six months, but less than nine months, and the requirements of 19 RCNY § 28-15(a) are first met after the first day of the sixth month, or
 
-      (iv) A period of nine months or more, and the requirements of § 28-15(a) are first met after the first day of the ninth month.
+      (iv) A period of nine months or more, and the requirements of 19 RCNY § 28-15(a) are first met after the first day of the ninth month.
 
-(l) Time for filing declaration of estimated unincorporated business tax for a short taxable year. (Administrative Code, § 11-511(h)). In the case of a short taxable year, the declaration shall be filed (except in cases referred to in § 28-15(k)(2)) on or before the 15th day of the fourth month of such taxable year. If the requirements for filing are first met after the first day of the fourth month, but before the second day of the sixth month, the declaration must be filed on or before the 15th day of the sixth month. If such requirements are first met after the first day of the sixth month, but before the second day of the ninth month, the declaration must be filed on or before the 15th day of the ninth month. If, however, the period for which the declaration is filed is
+(l) Time for filing declaration of estimated unincorporated business tax for a short taxable year. (Administrative Code, § 11-511(h)). In the case of a short taxable year, the declaration shall be filed (except in cases referred to in 19 RCNY § 28-15(k)(2)) on or before the 15th day of the fourth month of such taxable year. If the requirements for filing are first met after the first day of the fourth month, but before the second day of the sixth month, the declaration must be filed on or before the 15th day of the sixth month. If such requirements are first met after the first day of the sixth month, but before the second day of the ninth month, the declaration must be filed on or before the 15th day of the ninth month. If, however, the period for which the declaration is filed is
 
    (1) at least four months, but less than six months, or
 
@@ -15883,7 +15959,7 @@ Example 7: Partnership ABC is composed of three corporate partners, Corporation 
 *§ 28-16 Payments of Estimated Tax.* ::
 
 
-(a) General. (Administrative Code, § 11-512(a)). The amount of estimated unincorporated business tax due as shown on a declaration of estimated unincorporated business tax (Form NYC-5UBTI or Form NYC-5UB) may be paid in installments or, at the election of the taxpayer, may be paid in full at the time of filing the declaration. If the estimated tax is paid in installments, the first installment payment must accompany the declaration. In the case of a declaration for a calendar year, the initial installment payment and the subsequent installment payments required are as follows:
+(a) General. (Administrative Code, § 11-512(a)). The amount of estimated unincorporated business tax due as shown on a declaration of estimated unincorporated business tax (Form NYC-5UBTI or Form NYC-5UB) may be paid in installments or, at the election of the taxpayer, may be paid in full at the time of filing the declaration. If the estimated tax is paid in installments, the first installment payment must accompany the declaration. In the case of a declaration for a calendar year, the initial installment payment and the subsequent installment payments required are as follows: 
 
  
 
@@ -15893,13 +15969,13 @@ Example 7: Partnership ABC is composed of three corporate partners, Corporation 
 
     * - Date of filing declaration
       - Dates of installment payments
-    * -  (1) On or before April 15
+    * - (1) On or before April 15
       - In four equal installments – first at time of filing declaration (on or before April 15), second on or before June 15, third on or before September 15, and fourth on or before January 15 of the succeeding taxable year.
-    * -  (2) After April 15 and before June 16, if not required to be filed on or before April 15
+    * - (2) After April 15 and before June 16, if not required to be filed on or before April 15
       - In three equal installments – first at time of filing declaration, second on or before September 15, and third on or before January 15 of the succeeding taxable year.
-    * -  (3) After June 15 and before September 16,if not required to be filed on or before June 15
+    * - (3) After June 15 and before September 16,if not required to be filed on or before June 15
       - In two equal installments – first at time of filing declaration, and second on or before January 15 of the succeeding taxable year.
-    * -  (4) After September 15, if not required to be filed on or before September 15
+    * - (4) After September 15, if not required to be filed on or before September 15
       - In full at time of filing declaration.
 ~
 
@@ -15907,9 +15983,9 @@ Example 7: Partnership ABC is composed of three corporate partners, Corporation 
 
  
 
-   (5) If a declaration is filed after the time prescribed in § 28-15(d) of these regulations, or within any extension of time or after the expiration of any extension of time, then paragraphs (2), (3) and (4) of this subdivision (a) shall not apply, and there shall be paid at the time of filing all installments of estimated unincorporated business tax which would have been payable at or before such time if the declaration had been filed at the time prescribed in § 28-15(d) of these regulations. The remaining installments shall be paid at the time and in the amounts in which they would have been payable if the declaration had been filed at the time prescribed in § 28-15(d) of these regulations. Thus, for example, B, required to file a declaration of estimated unincorporated business tax on or before April 15, 1983, files the declaration for 1983 on September 18, 1983. In such case, at the time of filing the declaration, B was delinquent in the payment of three installments of the estimated unincorporated business tax for the taxable year 1983. Hence, upon filing the declaration of September 18, 1983, three-fourths of the estimated tax shown thereon must be paid.
+   (5) If a declaration is filed after the time prescribed in 19 RCNY § 28-15(d), or within any extension of time or after the expiration of any extension of time, then paragraphs (2), (3) and (4) of this subdivision (a) shall not apply, and there shall be paid at the time of filing all installments of estimated unincorporated business tax which would have been payable at or before such time if the declaration had been filed at the time prescribed in 19 RCNY § 28-15(d). The remaining installments shall be paid at the time and in the amounts in which they would have been payable if the declaration had been filed at the time prescribed in 19 RCNY § 28-15(d). Thus, for example, B, required to file a declaration of estimated unincorporated business tax on or before April 15, 1983, files the declaration for 1983 on September 18, 1983. In such case, at the time of filing the declaration, B was delinquent in the payment of three installments of the estimated unincorporated business tax for the taxable year 1983. Hence, upon filing the declaration of September 18, 1983, three-fourths of the estimated tax shown thereon must be paid.
 
-(b) Estimated tax payments by an unincorporated business having estimated unincorporated business income from farming or total estimated unincorporated business tax of $40 or less. Where an unincorporated business defers the filing of a declaration of estimated unincorporated business tax to January 15 of the succeeding taxable year as provided in §§ 28-15(e) and 28-15(f) of these regulations, the estimated tax due shall be paid in full at the time of filing such declaration.
+(b) Estimated tax payments by an unincorporated business having estimated unincorporated business income from farming or total estimated unincorporated business tax of $40 or less. Where an unincorporated business defers the filing of a declaration of estimated unincorporated business tax to January 15 of the succeeding taxable year as provided in 19 RCNY § 28-15(e) and (f), the estimated tax due shall be paid in full at the time of filing such declaration.
 
 (c) Amendments of declaration. (Administrative Code, § 11-512(b)). If any amendment of a declaration is filed, the remaining installments, if any, shall be ratably increased or decreased (as the case may be) to reflect any increase or decrease in the estimated tax by reason of such amendment, and if any amendment is made after September 15 of the taxable year, any increase in the estimated tax by reason thereof shall be paid at the time of making such amendment.
 
@@ -15921,7 +15997,7 @@ Example 7: Partnership ABC is composed of three corporate partners, Corporation 
 
 (g) Application of installment payments. The payment of any installment of estimated unincorporated business tax (including the amount of any overpayment on a return for a preceding taxable year which the taxpayer elects to have applied in payment of estimated tax due for the succeeding taxable year) shall be considered payment on account for the taxable year for which the declaration is made. An election to credit an overpayment to estimated unincorporated business tax for the succeeding year cannot be changed after the date prescribed for filing the unincorporated business tax return.
 
-(h) Stock transfer tax credit disallowed. (Administrative Code, § 11-512(g)). The portion of an overpayment attributable to a credit allowable pursuant to § 28-03(c)(2) of these regulations may not be credited against any payment due under this section.
+(h) Stock transfer tax credit disallowed. (Administrative Code, § 11-512(g)). The portion of an overpayment attributable to a credit allowable pursuant to 19 RCNY § 28-03(c)(2) may not be credited against any payment due under this section.
 
 
 
@@ -15941,7 +16017,7 @@ Example 7: Partnership ABC is composed of three corporate partners, Corporation 
 
 (c) Change of accounting period. (Administrative Code, § 11-513(c)(1)).
 
-   (1) If a taxpayer's taxable year for Federal income tax purposes is changed, the taxable year or accounting period for which the unincorpo rated business tax return is made shall also be changed at the same time to coincide with the new Federal income tax accounting period or taxable year. Where a taxable year or accounting period of less than 12 months results from a change of accounting period, annualization of the unincorporated business income is not required. In such a case, however, the unincorporated business $5,000 annual exemption must be prorated in the manner prescribed in § 28-09 of these regulations.
+   (1) If a taxpayer's taxable year for Federal income tax purposes is changed, the taxable year or accounting period for which the unincorpo rated business tax return is made shall also be changed at the same time to coincide with the new Federal income tax accounting period or taxable year. Where a taxable year or accounting period of less than 12 months results from a change of accounting period, annualization of the unincorporated business income is not required. In such a case, however, the unincorporated business $5,000 annual exemption must be prorated in the manner prescribed in 19 RCNY § 28-09.
 
    (2) A taxpayer whose accounting period is changed for Federal income tax purposes is not required to apply for or obtain permission to make a similar change with respect to unincorporated business income tax returns required under Chapter 5 of Title 11 of the Administrative Code. In such a case, however, there should be filed with the first return made for the new accounting period under Chapter 5 of Title 11 a copy of the consent of the Commissioner of Internal Revenue to the change for Federal income tax purposes, or if no consent is required, a statement to that effect referring to the particular provisions of the Internal Revenue Code, or regulations thereunder, authorizing the change.
 
@@ -15951,15 +16027,15 @@ Example 7: Partnership ABC is composed of three corporate partners, Corporation 
 
 (d) Change of accounting method. (Administrative Code § 11-513(c)(2)).
 
-   (1) If a taxpayer's method of accounting for Federal income tax purposes is changed, the accounting method employed in making the unincorporated business tax return shall also be changed at the same time to the new method permitted or required to be used in the taxpayer's Federal income tax return. Upon a change of accounting method under this paragraph, any adjustments which are determined to be necessary solely by reason of the change in order to prevent amounts from being duplicated or omitted shall (subject to the applicable modifications prescribed by §§ 28-05 and 28-06 of these regulations) be taken into account to the extent that they are required to be taken into account in determining the taxpayer's gross income and deductions for Federal income tax purposes for the year of the change.
+   (1) If a taxpayer's method of accounting for Federal income tax purposes is changed, the accounting method employed in making the unincorporated business tax return shall also be changed at the same time to the new method permitted or required to be used in the taxpayer's Federal income tax return. Upon a change of accounting method under this paragraph, any adjustments which are determined to be necessary solely by reason of the change in order to prevent amounts from being duplicated or omitted shall (subject to the applicable modifications prescribed by 19 RCNY §§ 28-05 and 28-06) be taken into account to the extent that they are required to be taken into account in determining the taxpayer's gross income and deductions for Federal income tax purposes for the year of the change.
 
    (2) A taxpayer whose method of accounting is changed under the provisions of paragraph (1) of this subdivision (d) is not required to apply for or obtain the permission or consent of the Commissioner of Finance to the change for unincorporated business tax purposes. In such a case, however, there must be filed with the first tax return in which the new accounting method is used a copy of the consent of the Commissioner of Internal Revenue to the change for Federal income tax purposes, together with the statement referred to in paragraph (4) of this subdivision (d), including complete details of any adjustments with respect to items of income or deduction permitted or required to be made as an incident to the change of accounting method for Federal income tax purposes.
 
    (3) A taxpayer who has a method of accounting for Federal income tax purposes will not be permitted to make any change of the accounting method used in the unincorporated business tax return other than one required by reason of a change in the Federal method as set forth in paragraph (1) of this subdivision (d).
 
-   (4) A taxpayer who has no accounting method for Federal income tax purposes, but who has a method of accounting which has been accepted or prescribed by the Commissioner of Finance for New York City unincorporated business tax purposes, shall not make any change with respect to such New York City accounting method without obtaining the prior consent of the Commissioner of Finance. An application for permission to change the method of accounting under this paragraph (4) must be made within 90 days after the beginning of the taxable period to which the proposed change will relate. Such application shall be accompanied by a statement specifying the nature of the taxpayer's business, the present method of accounting, the method to which a change is desired, the taxable year in which the change is to be effected, the classes of items to receive different treatment under the new system, and all items which would be duplicated or omitted as a result of the proposed changes. If such a taxpayer later adopts a Federal method of accounting and such method differs from the method used under the New York City unincorporated business tax, the taxpayer must conform the City method of accounting to the Federal. If a taxpayer's method of accounting is changed under this paragraph (4), any adjustments which the Commissioner of Finance determines to be necessary solely by reason of the change in order to prevent amounts from being duplicated or omitted in computing taxable income shall (subject to the applicable modifications prescribed by §§ 28-05 and 28-06 of these regulations) be taken into account for the year of the change.
+   (4) A taxpayer who has no accounting method for Federal income tax purposes, but who has a method of accounting which has been accepted or prescribed by the Commissioner of Finance for New York City unincorporated business tax purposes, shall not make any change with respect to such New York City accounting method without obtaining the prior consent of the Commissioner of Finance. An application for permission to change the method of accounting under this paragraph (4) must be made within 90 days after the beginning of the taxable period to which the proposed change will relate. Such application shall be accompanied by a statement specifying the nature of the taxpayer's business, the present method of accounting, the method to which a change is desired, the taxable year in which the change is to be effected, the classes of items to receive different treatment under the new system, and all items which would be duplicated or omitted as a result of the proposed changes. If such a taxpayer later adopts a Federal method of accounting and such method differs from the method used under the New York City unincorporated business tax, the taxpayer must conform the City method of accounting to the Federal. If a taxpayer's method of accounting is changed under this paragraph (4), any adjustments which the Commissioner of Finance determines to be necessary solely by reason of the change in order to prevent amounts from being duplicated or omitted in computing taxable income shall (subject to the applicable modifications prescribed by 19 RCNY §§ 28-05 and 28-06) be taken into account for the year of the change.
 
-   (5) For purposes of this section and § 28-17(e), the term "change of accounting method" includes any change or modification of the manner of, or basis for, determining the amount of, or the time for, the reporting or deducting of any item of unincorporated business gross income or deduction, or the net amount of all such items, which would constitute a change in accounting method for Federal income tax purposes. The term "year of the change," as used in these regulations, means a taxable year for which the taxable income of the taxpayer is computed under a method of accounting different from the one used in the preceding taxable year or accounting period. (For limitations on amount of additional taxes resulting from changes in accounting methods, see: § 28-17(e).)
+   (5) For purposes of this section and 19 RCNY § 28-17(e), the term "change of accounting method" includes any change or modification of the manner of, or basis for, determining the amount of, or the time for, the reporting or deducting of any item of unincorporated business gross income or deduction, or the net amount of all such items, which would constitute a change in accounting method for Federal income tax purposes. The term "year of the change," as used in these regulations, means a taxable year for which the taxable income of the taxpayer is computed under a method of accounting different from the one used in the preceding taxable year or accounting period. (For limitations on amount of additional taxes resulting from changes in accounting methods, see: 19 RCNY § 28-17(e).)
 
 (e) Limitations on additional tax resulting from changes in accounting methods. (Administrative Code § 11-513(c)(2) and (3)).
 
@@ -15989,7 +16065,7 @@ Example 7: Partnership ABC is composed of three corporate partners, Corporation 
 
       (iii) If the amount described in item (I) exceeds the amount described in item (E), the taxpayer shall compute his unincorporated business tax for the year of the change without a ratable allocation of the net adjustments to any preceding year or years. If the amount described in item (E) exceeds the amount described in item (I), the amount of such excess shall be subtracted from the City unincorporated business tax for the year of the change as determined under item (C). The resulting sum is the amount of New York City unincorporated business tax due for the taxable year of the change.
 
-Example: Assume that the taxpayer is an individual proprietor who used the cash method in 1981 and 1982, but changed to an accrual basis for 1983. In 1981 and 1982, he had unincorporated business taxable income of $16,000 and $7,000, respectively, figured on a cash basis. In 1983 he had unincorporated business taxable income of $11,000 figured on an accrual basis. The unincorporated business taxable income for each of the years 1981, 1982 and 1983 was arrived at as follows:
+Example: Assume that the taxpayer is an individual proprietor who used the cash method in 1981 and 1982, but changed to an accrual basis for 1983. In 1981 and 1982, he had unincorporated business taxable income of $16,000 and $7,000, respectively, figured on a cash basis. In 1983 he had unincorporated business taxable income of $11,000 figured on an accrual basis. The unincorporated business taxable income for each of the years 1981, 1982 and 1983 was arrived at as follows: 
 
  
 
@@ -15997,47 +16073,47 @@ Example: Assume that the taxpayer is an individual proprietor who used the cash 
 .. list-table::
     :header-rows: 1
 
-    * - 
+    * -  
       -  1981 
       - 1982 
       - 1983 
-    * - Unincorporated business gross income pursuant to § 28-05
+    * - Unincorporated business gross income pursuant to 19 RCNY § 28-05
       - $36,000
       - $28,000
       - $30,000
-    * - Less unincorporated business deductions pursuant to § 28-06
+    * - Less unincorporated business deductions pursuant to 19 RCNY § 28-06
       - $10,000
       - $13,000
       - $10,000
-    * - Unincorporated business taxable income before deduction for personal services pursuant to § 28-08 and exemption pursuant to § 28-09
+    * - Unincorporated business taxable income before deduction for personal services pursuant to 19 RCNY § 28-08 and exemption pursuant to 19 RCNY § 28-09
       - $26,000
       - $15,000
       - $20,000
-    * - Less deduction for personal services pursuant to § 28-08
-      - $  5,000
-      - $  3,000
-      - $  4,000
-    * - Less $5,000 exemption pursuant to § 28-09
-      - $  5,000
-      - $  5,000
-      - $  5,000
-    * - Total deduction and exemption pursuant to §§ 28-08 and 28-09
+    * - Less deduction for personal services pursuant to 19 RCNY § 28-08
+      - $5,000
+      - $3,000
+      - $4,000
+    * - Less $5,000 exemption pursuant to 19 RCNY § 28-09
+      - $5,000
+      - $5,000
+      - $5,000
+    * - Total deduction and exemption pursuant to 19 RCNY §§ 28-08 and 28-09
       - $10,000
-      - $  8,000
-      - $  9,000
+      - $8,000
+      - $9,000
     * - Unincorporated business taxable income
       - $16,000
-      - $  7,000
+      - $7,000
       -  $11,000
     * - Unincorporated business tax
-      - $     640
-      - $     280
-      - $     440
+      - $ 640
+      - $280
+      - $440
 ~
 
  
 
-Assume further that the taxpayer's books at the beginning of 1983 included the following accounts: accounts receivable $15,000; accounts payable $8,000; inventory $5,000. The amount of unincorporated business taxable income due for the taxable year of the change is computed in the following manner: Subject to the amount of any modifications required under these regulations, the unincorporated business taxable income for the year of the change, including the net amount of adjustments (see: items (ii)(A) and (ii)(B) of this subdivision (e)), would be $22,000, computed as follows:
+Assume further that the taxpayer's books at the beginning of 1983 included the following accounts: accounts receivable $15,000; accounts payable $8,000; inventory $5,000. The amount of unincorporated business taxable income due for the taxable year of the change is computed in the following manner: Subject to the amount of any modifications required under these regulations, the unincorporated business taxable income for the year of the change, including the net amount of adjustments (see: items (ii)(A) and (ii)(B) of this subdivision (e)), would be $22,000, computed as follows: 
 
  
 
@@ -16045,56 +16121,56 @@ Assume further that the taxpayer's books at the beginning of 1983 included the f
 .. list-table::
     :header-rows: 1
 
-    * - Unincorporated business taxable income on accrual basis before deduction for personal services under § 28-08 of these regulations and the exemption under § 28-09 of these regulations (new method but before adjustments)
+    * - Unincorporated business taxable income on accrual basis before deduction for personal services under 19 RCNY § 28-08 and the exemption under 19 RCNY § 28-09 (new method but before adjustments)
       - $20,000
-      - 
+      -  
     * - (a)  Adjustments:
-      - 
-      - 
+      -  
+      -  
     * - Add: Items not previously reported as income:Accounts receivable 1/1/83
       - $15,000
-      - 
+      -  
     * - Items previously deducted but constituting marketable business assets:Inventory 1/1/83
       -  5,000
-      - 
+      -  
     * - Total to be added
       - $20,000
-      - 
+      -  
     * - Subtract: Items not previously deducted:Accounts payable 1/1/83
       - $  8,000
-      - 
+      -  
     * - (b)  Net amount of adjustments (increase)
-      - 
+      -  
       - $12,000
-    * - Unincorporated business taxable income after adjustments but before deduction for personal services under § 28-08 and exemption under § 28-09
-      - 
+    * - Unincorporated business taxable income after adjustments but before deduction for personal services under 19 RCNY § 28-08 and exemption under 19 RCNY § 28-09
+      -  
       - $32,000
-    * - Subtract: Allowance for personal services under § 28-08
+    * - Subtract: Allowance for personal services under 19 RCNY § 28-08
       - $  5,000
-      - 
-    * - Exemption under § 28-09
+      -  
+    * - Exemption under 19 RCNY § 28-09
       - $  5,000
       - $10,000
     * - (c) Unincorporated business taxable income after adjustments
-      - 
+      -  
       - $22,000
     * - The net additional tax for the year of the change described in item (ii)(E) of this paragraph (1) is computed as follows: 
-      - 
-      - 
+      -  
+      -  
     * - (d) Tax due on unincorporated business taxable income for the year of change, including the net amount of adjustments ($22,000)
-      - 
+      -  
       - $880
     * - (e) Tax due on unincorporated business taxable income for taxable year of change, excluding above adjustments ($11,000)
-      - 
+      -  
       - $440
     * - (f) Net additional tax due
-      - 
+      -  
       - $440
 ~
 
  
 
-Since the taxpayer used the cash method for the two years preceding the change-over year, the adjustments for 1983 determined to be necessary solely by reason of the change, amount to $12,000. The taxpayer may reduce the tax on the increase by allocating the $12,000 as follows: $4,000 to 1981, $4,000 to 1982, and $4,000 to 1983 (see: items (ii)(F) to (H) of this paragraph (1)). The net tax due for the year of change is then computed in the following manner:
+Since the taxpayer used the cash method for the two years preceding the change-over year, the adjustments for 1983 determined to be necessary solely by reason of the change, amount to $12,000. The taxpayer may reduce the tax on the increase by allocating the $12,000 as follows: $4,000 to 1981, $4,000 to 1982, and $4,000 to 1983 (see: items (ii)(F) to (H) of this paragraph (1)). The net tax due for the year of change is then computed in the following manner: 
 
  
 
@@ -16102,73 +16178,73 @@ Since the taxpayer used the cash method for the two years preceding the change-o
 .. list-table::
     :header-rows: 1
 
-    * - 
+    * -  
       -  1981 
       -  1982 
       -  1983 
-    * - Unincorporated business taxable income before adjustments and before deduction for personal services under § 28-08 and the exemption under § 28-09
+    * - Unincorporated business taxable income before adjustments and before deduction for personal services under 19 RCNY § 28-08 and the exemption under 19 RCNY § 28-09
       - $26,000
       - $15,000
       - $20,000
     * - Add: Net adjustments
-      -  4,000
-      -  4,000
-      -  4,000
-    * - 
+      - $4,000
+      - $4,000
+      - $4,000
+    * -  
       - $30,000
       - $19,000
       - $24,000
-    * - Subtract: Allowance for personal services pursuant to § 28-09
-      - $  5,000
-      - $  3,800
-      - $  4,800
+    * - Subtract: Allowance for personal services pursuant to 19 RCNY § 28-09
+      - $5,000
+      - $3,800
+      - $4,800
     * - Subtract: $5,000 exemption pursuant to§ 28-09
-      - $  5,000
-      - $  5,000
-      - $  5,000
+      - $5,000
+      - $5,000
+      - $5,000
     * - Total Subtractions
-      -   10,000
-      -  8,800
-      -  9,800
+      - $10,000
+      - $8,800
+      - $9,800
     * - Unincorporated business taxable incomeafter adjustments
       - $20,000
       - $10,200
       - $14,200
     * - Unincorporated business tax after adjustments
-      - $     800
-      - $     408
-      - $     568
+      - $ 800
+      - $408
+      - $568
     * - Unincorporated business tax before adjustments
-      - $     640
-      - $     280
-      - $     440
+      - $640
+      - $280
+      - $440
     * - Increase in tax due to adjustments
-      - $     160
-      - $     128
-      - $     128
+      - $160
+      - $128
+      - $128
     * - Total increase in tax attributable to adjustments ($160 and $128 and $128)
       - 
       - 
-      - $     416
+      - $416
     * - Net additional tax determined at item (f) above
       - 
       - 
-      - $     440
+      - $440
     * - Excess
       - 
       - 
-      - $       24
+      - $24
     * - Total tax determined at item (d) above
       - 
-      - $     880
+      - $880
       - 
     * - Less excess shown above
       - 
-      -       24
+      - $24
       - 
     * - Net tax due for year of change
       - 
-      - $     856
+      - $856
       - 
 ~
 
@@ -16184,7 +16260,7 @@ Since the taxpayer used the cash method for the two years preceding the change-o
 
          (B) the excess, if any, of the amount of the tax for the adjustment year on the entire unincorporated business taxable income over the amount of tax for such year computed without regard to the amount of the installment sales gross profits reported in both the prior year of accrual and in the adjustment year. Where previously reported installments received in an adjustment year include installments on sales made in more than one prior year, the reduction allowable with respect to the installments for each prior year shall be computed separately. In such a case, the excess tax calculated under subparagraph (ii)(B) of this paragraph (2), computed with respect to the installments from all prior years, shall be prorated over the several prior years in proportion to the amount of the duplicated installment sales profits attributable to each such prior year.
 
-Example: The computation of the reduction of tax for the adjustment year is illustrated by the following example:
+Example: The computation of the reduction of tax for the adjustment year is illustrated by the following example: 
 
  
 
@@ -16193,13 +16269,13 @@ Example: The computation of the reduction of tax for the adjustment year is illu
     :header-rows: 1
 
     * - 
-      - 1981 (accrual basis 
-      - 1982 (adjustment year) 
-      - 1983 (adjustment year) 
+      - 1981(accrual basis)
+      - 1982(adjustment year) 
+      - 1983(adjustment year) 
     * - Gross profit from installment sales (receivable in five installments)
       - $10,000 
-      - $2,000 (from 1981 sales) $3,000 (from 1982 sales)
-      - $2,000 (from 1981 sales) $3,000 (from 1982 sales) $5,000 (from 1983 sales)
+      - $2,000 (from 1981 sales)$3,000 (from 1982 sales)
+      - $2,000 (from 1981 sales)$3,000 (from 1982 sales)$5,000 (from 1983 sales)
     * - Other unincorporated business gross income
       - $86,000 
       - $41,000 
@@ -16208,33 +16284,33 @@ Example: The computation of the reduction of tax for the adjustment year is illu
       - $96,000 
       - $46,000 
       - $33,000 
-    * - Unincorporated business deductions under § 28-06
-      -  6,000 
-      -  6,000 
-      -   18,000 
-    * - Unincorporated business taxable income before deduction for personal services under lst28-08 and exemption under § 28-09
+    * - Unincorporated business deductions under 19 RCNY § 28-06
+      -  $6,000 
+      - $6,000 
+      -   $18,000 
+    * - Unincorporated business taxable income before deduction for personal services under 19 RCNY § 28-08 and exemption under 19 RCNY § 28-09
       - $90,000 
       - $40,000 
       - $15,000 
-    * - Less allowance for personal services under § 28-08 and exemption under § 28-09
-      -   10,000 
-      -   10,000 
-      -  8,000 
+    * - Less allowance for personal services under 19 RCNY § 28-08 and exemption under 19 RCNY § 28-09
+      -   $10,000 
+      -   $10,000 
+      -  $8,000 
     * - Unincorporated business taxable income
       - $80,000 
       - $30,000 
-      - $  7,000 
+      - $7,000 
     * - Unincorporated business tax
-      - $  3,200 
-      - $  1,200 
-      - $     280 
+      - $3,200 
+      - $1,200 
+      - $280 
 ~
 
  
 
 Computation of adjustment – 1982:
 
-Tax attributable to 1981 installment payments in 1982 (first adjustment year), the year in which the change was made from the accrual basis to the installment basis:
+Tax attributable to 1981 installment payments in 1982 (first adjustment year), the year in which the change was made from the accrual basis to the installment basis: 
 
  
 
@@ -16248,16 +16324,16 @@ Tax attributable to 1981 installment payments in 1982 (first adjustment year), t
     * - Tax on taxable income excluding such gross profit:
       - 
       - 
-    * - Taxable income before deduction for personal services under § 28-08 and exemption under§ 28-09
+    * - Taxable income before deduction for personal services under 19 RCNY § 28-08 and exemption under 19 RCNY § 28-09
       - $40,000
       - 
     * - Less gross profit from 1981 sales accrued in prior year
-      -  2,000
+      - $2,000
       - 
-    * - 
+    * -  
       - $38,000
       - 
-    * - Less deduction for personal services under§ 28-08 and exemption under § 28-09
+    * - Less deduction for personal services under 19 RCNY § 28-08 and exemption under 19 RCNY § 28-09
       - $10,000
       - 
     * - Revised taxable income
@@ -16268,7 +16344,7 @@ Tax attributable to 1981 installment payments in 1982 (first adjustment year), t
       - $1,120
     * - Additional tax attributable to prior year installment payments
       - 
-      - $     80
+      - $80
     * - Tax attributable to prior inclusion in 1981:
       -  $2,000  × $3,200 = $66.67$96,000
       - 
@@ -16280,7 +16356,7 @@ Therefore, the tax for 1982 (first adjustment year) may be reduced by $66.67, th
 
 Computation of adjustment – 1983:
 
-Tax attributable to 1981 installment payments in 1983 (second adjustment year):
+Tax attributable to 1981 installment payments in 1983 (second adjustment year): 
 
  
 
@@ -16294,20 +16370,20 @@ Tax attributable to 1981 installment payments in 1983 (second adjustment year):
     * - Tax on taxable income, excluding such gross profit:
       - 
       - 
-    * - Taxable income before deduction for personal services under § 28-08 and exemption under§ 28-09
+    * - Taxable income before deduction for personal services under 19 RCNY § 28-08 and exemption under 19 RCNY § 28-09
       - $15,000
       - 
     * - Less gross profit from 1981 sales accrued in a prior year
-      - $  2,000
+      - $2,000
       - 
-    * - 
+    * -  
       - $13,000
       - 
-    * - Less deduction for personal services under § 28-08 and exemption under § 28-09
-      - $  7,600
+    * - Less deduction for personal services under 19 RCNY § 28-08 and exemption under 19 RCNY § 28-09
+      - $7,600
       - 
     * - Revised taxable income
-      - $  5,400
+      - $5,400
       - 
     * - Tax on revised taxable income
       - 
@@ -16340,11 +16416,11 @@ Therefore, the tax for 1983 (second adjustment year) may be reduced by $64.00, t
 *§ 28-18 Returns and Payment of Tax.* ::
 
 
-(a)  Returns – filing requirements. (Administrative Code § 11-514(a)). For taxable years beginning after 1986 but before 1997, a return on a form prescribed by the Commissioner of Finance must be made and filed for each taxable year by or for every unincorporated business which is carried on in this City to any extent, and which has either unincorporated business gross income of more than $10,000, computed without deduction for cost of goods sold or services performed and without regard to allocation under § 28-07 of these rules, regardless of whether or not it has unincorporated business taxable income, or any amount of unincorporated business taxable income. In addition, for taxable years beginning after 1996, a return on a form prescribed by the Commissioner of Finance must be made and filed for each taxable year by or for every unincorporated business that is carried on in this City to any extent and that has either (1) unincorporated business gross income, computed without deduction for cost of goods sold or services performed and without regard to allocation, of more than $25,000 in the case of a partnership, or more than $75,000 for any other unincorporated business, regardless of whether it has unincorporated business taxable income, or (2) unincorporated business taxable income of more than $15,000 in the case of a partnership, or more than $35,000 for any other unincorporated business. Any return required under this subdivision (a) shall be made by the individual or unincorporated entity who or which was engaged in the conduct or the liquidation of the business, unless such individual is deceased, or unless such individual or entity is under a disability, in which case the return shall be made and filed by the executor or administrator (in the case of a deceased individual), or by any fiduciary or other person charged with the property of the individual or entity, or by a duly authorized agent. The foregoing provision regarding the filing of returns by fiduciaries or agents in the case of death or disability of an individual taxpayer does not relieve the taxpayer or his estate from liability if such fiduciary, agent or other person omits or fails to file any return required under Chapter 5 of Title 11 of the Administrative Code. If an individual or other unincorporated entity is engaged in several distinct business activities, only one return shall be filed. In such a case, however, a separate schedule for each activity should be filed with the return.
+(a)  Returns – filing requirements. (Administrative Code § 11-514(a)). For taxable years beginning after 1986 but before 1997, a return on a form prescribed by the Commissioner of Finance must be made and filed for each taxable year by or for every unincorporated business which is carried on in this City to any extent, and which has either unincorporated business gross income of more than $10,000, computed without deduction for cost of goods sold or services performed and without regard to allocation under 19 RCNY § 28-07, regardless of whether or not it has unincorporated business taxable income, or any amount of unincorporated business taxable income. In addition, for taxable years beginning after 1996, a return on a form prescribed by the Commissioner of Finance must be made and filed for each taxable year by or for every unincorporated business that is carried on in this City to any extent and that has either (1) unincorporated business gross income, computed without deduction for cost of goods sold or services performed and without regard to allocation, of more than $25,000 in the case of a partnership, or more than $75,000 for any other unincorporated business, regardless of whether it has unincorporated business taxable income, or (2) unincorporated business taxable income of more than $15,000 in the case of a partnership, or more than $35,000 for any other unincorporated business. Any return required under this subdivision (a) shall be made by the individual or unincorporated entity who or which was engaged in the conduct or the liquidation of the business, unless such individual is deceased, or unless such individual or entity is under a disability, in which case the return shall be made and filed by the executor or administrator (in the case of a deceased individual), or by any fiduciary or other person charged with the property of the individual or entity, or by a duly authorized agent. The foregoing provision regarding the filing of returns by fiduciaries or agents in the case of death or disability of an individual taxpayer does not relieve the taxpayer or his estate from liability if such fiduciary, agent or other person omits or fails to file any return required under Chapter 5 of Title 11 of the Administrative Code. If an individual or other unincorporated entity is engaged in several distinct business activities, only one return shall be filed. In such a case, however, a separate schedule for each activity should be filed with the return.
 
 (a-1) Simplified return. The Commissioner of Finance may prescribe a form which may be filed voluntarily by a business whose income falls below the amount that would require the filing of a return under the Administrative Code. This filing will constitute the filing of a return pursuant to these rules and § 11-523 of the Administrative Code, which states (subject to the exceptions provided in subdivision (c) of that section) that if a return was filed, unincorporated business tax may be assessed only within three years after the return was filed.
 
-(b) Time for filing. Where the taxable year covered by a return required under Chapter 5 of Title 11 of the Administrative Code is a calendar year, the return must be filed on or before April 15th of the following year. In all other cases where the taxable year is a fiscal year, the return must be filed on or before the 15th day of the fourth month following the close of the fiscal year. For purposes of determining the due date for the filing of a return under this subdivision (b), the term "taxable year" means the accounting period of the individual, fiduciary, partnership or other unincorporated entity for Federal income tax purposes (see: § 28-17(a) of these regulations), without regard to whether the business was carried on or was being liquidated during the entire period covered by such taxable year.
+(b) Time for filing. Where the taxable year covered by a return required under Chapter 5 of Title 11 of the Administrative Code is a calendar year, the return must be filed on or before April 15th of the following year. In all other cases where the taxable year is a fiscal year, the return must be filed on or before the 15th day of the fourth month following the close of the fiscal year. For purposes of determining the due date for the filing of a return under this subdivision (b), the term "taxable year" means the accounting period of the individual, fiduciary, partnership or other unincorporated entity for Federal income tax purposes (see: 19 RCNY § 28-17(a)), without regard to whether the business was carried on or was being liquidated during the entire period covered by such taxable year.
 
 Example 1: New businesses. If an individual, fiduciary or other unincorporated entity having a previously established accounting period for Federal income tax purposes begins business during the year, such established accounting period shall be the taxable year for unincorporated business tax purposes. If an individual, fiduciary or other unincorporated entity having no previously established accounting period begins to carry on an unincorporated business, the taxable year for purposes of filing the first unincorporated business tax return shall be the taxable year properly adopted or prescribed for Federal income tax purposes.
 
@@ -16374,7 +16450,7 @@ Example 2: Business terminated. If the unincorporated business of an individual 
 
 (d) Place for filing returns. (Administrative Code § 11-515). Unincorporated business tax returns must be delivered or mailed to the City of New York, Department of Finance, at the address listed in the instructions for each return.
 
-(e) Payment of tax. The unincorporated business tax is due and payable in full on or before the date prescribed by § 28-18(b) for the filing of the return of the taxpayer. Where the return of a taxpayer is filed by a fiduciary, agent or other person under § 28-18(a), such filing does not relieve the taxpayer from liability for any unpaid tax due under Chapter 5 of Title 11 of the Administrative Code, as shown on the return or otherwise determined or assessed.
+(e) Payment of tax. The unincorporated business tax is due and payable in full on or before the date prescribed by 19 RCNY § 28-18(b) for the filing of the return of the taxpayer. Where the return of a taxpayer is filed by a fiduciary, agent or other person under 19 RCNY § 28-18(a), such filing does not relieve the taxpayer from liability for any unpaid tax due under Chapter 5 of Title 11 of the Administrative Code, as shown on the return or otherwise determined or assessed.
 
 (f) Last day a Saturday, Sunday or legal holiday. (Administrative Code § 11-531(c)). When the last day prescribed in these regulations for filing a return or paying a tax (including the last day covered by an extension of time) falls on Saturday, Sunday or a legal holiday in the State of New York, the filing of such return or payment of such tax will be considered timely if it is filed or paid on the next succeeding date which is not a Saturday, Sunday or legal holiday.
 
@@ -16400,7 +16476,7 @@ Example 2: Business terminated. If the unincorporated business of an individual 
 
 (j) Electronic filing and payment. Pursuant to 19 RCNY § 17-03, the Commissioner may authorize the electronic filing of returns, reports, or other forms, and the electronic payment of tax required by this chapter.
 
-(j) Reporting requirements for parking services provided to tenants. Administrative Code § 11-502(d). For taxable years beginning on or after July 1, 1996, an owner, lessee or fiduciary holding, leasing or managing real property and operating a garage or other similar facility at any such property that is open to the public must provide the following information for each such garage or similar facility on a return as required by subdivision (a) of this § 28-18 in order to treat parking, garaging or motor vehicle storage services provided to tenants at any such property as incidental to the holding, leasing or management of the real property and not part of an unincorporated business. A return must be filed and the following information submitted regardless of whether, taking into account the exclusion of the income from the provision of parking or similar services to tenants, the taxpayer's gross income from all unincorporated businesses carried on in whole or in part in the City would be below that necessitating the filing of a return under subdivision (a) of this § 28-18. Failure to submit the following information for a garage or similar facility at any such property in any material respect will result in parking, garaging or vehicle storage services rendered to tenants at that property being subject to the tax imposed by Chapter 5 of Title 11 of the Administrative Code. However, inadvertent omissions of information for an insignificant number of tenants or minor inadvertent factual errors will not cause such services to be taxable. The taxpayer must submit with the return required by subdivision (a) of this § 28-18 a statement for each garage or other similar facility for which an exclusion is claimed pursuant to § 28-02(h)(2)(iii) containing:
+(j) Reporting requirements for parking services provided to tenants. Administrative Code § 11-502(d). For taxable years beginning on or after July 1, 1996, an owner, lessee or fiduciary holding, leasing or managing real property and operating a garage or other similar facility at any such property that is open to the public must provide the following information for each such garage or similar facility on a return as required by subdivision (a) of this 19 RCNY § 28-18 in order to treat parking, garaging or motor vehicle storage services provided to tenants at any such property as incidental to the holding, leasing or management of the real property and not part of an unincorporated business. A return must be filed and the following information submitted regardless of whether, taking into account the exclusion of the income from the provision of parking or similar services to tenants, the taxpayer's gross income from all unincorporated businesses carried on in whole or in part in the City would be below that necessitating the filing of a return under subdivision (a) of this 19 RCNY § 28-18. Failure to submit the following information for a garage or similar facility at any such property in any material respect will result in parking, garaging or vehicle storage services rendered to tenants at that property being subject to the tax imposed by Chapter 5 of Title 11 of the Administrative Code. However, inadvertent omissions of information for an insignificant number of tenants or minor inadvertent factual errors will not cause such services to be taxable. The taxpayer must submit with the return required by subdivision (a) of this 19 RCNY § 28-18 a statement for each garage or other similar facility for which an exclusion is claimed pursuant to 19 RCNY § 28-02(h)(2)(iii) containing:
 
    (1) the parking facility name;
 
@@ -16446,19 +16522,15 @@ Example 2: Business terminated. If the unincorporated business of an individual 
 *§ 28-20 Report of Change in Federal or New York State Taxable Income or New York State Sales and Compensating Use Tax Liability.* ::
 
 
-(a) Report of change in Federal or New York State taxable income.
-
-(Administrative Code § 11-519)
+(a) Report of change in Federal or New York State taxable income. (Administrative Code § 11-519)
 
 If the amount of the taxpayer's Federal or New York State taxable income reported on the Federal or New York State income tax return is changed or corrected by the United States Internal Revenue Service or the New York State Department of Taxation and Finance or other competent authority, or changed as a result of a renegotiation of a contract or subcontract with the United States or the State of New York, or if the taxpayer, pursuant to subsection (d) of § 6213 of the Internal Revenue Code, executes a notice of waiver of the restrictions on assessment and collection provided in subsection (a) of said section of the Internal Revenue Code, or if a taxpayer, pursuant to subdivision (f) of § 681 of the New York Tax Law, executes a notice of waiver of the restrictions provided in subdivision (c) of said section of the New York Tax Law, and such change, correction or waiver pertains to the unincorporated business gross income or unincorporated business deductions of the taxpayer, a report of such change, correction or waiver, and the changes or correction in his Federal or New York State taxable income on which it is based, must be filed within ninety days after the final determination of such change, correction, or renegotiation, or such execution of such notice of waiver. The taxpayer shall concede the accuracy of such determination or state wherein it is erroneous. Any taxpayer filing an amended Federal or New York State income tax return shall also file within ninety days thereafter an amended return under these regulations for New York City unincorporated business tax purposes.
 
-(b) Report of change of New York State sales and compensating use tax.
+(b) Report of change of New York State sales and compensating use tax. (Administrative Code § 11-519.1)
 
-(Administrative Code § 11-519.1)
+Where the State Tax Commission changes or corrects a taxpayer's sales and compensating use tax liability with respect to the purchase or use of items for which a sales or compensating use tax credit against the tax imposed by Chapter 5 of Title 11 of the Adminis trative Code was claimed (see: 19 RCNY § 28-03(c)(3)), the taxpayer shall report such change or correction to the Commissioner of Finance within ninety days of the final determination of such change or correction, and shall concede the accuracy of such determination or state wherein it is erroneous. Any taxpayer filing an amended return or report relating to the purchase or use of such items shall also file within ninety days thereafter a copy of such amended return or report with the Commissioner of Finance.
 
-Where the State Tax Commission changes or corrects a taxpayer's sales and compensating use tax liability with respect to the purchase or use of items for which a sales or compensating use tax credit against the tax imposed by Chapter 5 of Title 11 of the Adminis trative Code was claimed (see: § 28-03(c)(3) of these regulations), the taxpayer shall report such change or correction to the Commissioner of Finance within ninety days of the final determination of such change or correction, and shall concede the accuracy of such determination or state wherein it is erroneous. Any taxpayer filing an amended return or report relating to the purchase or use of such items shall also file within ninety days thereafter a copy of such amended return or report with the Commissioner of Finance.
-
-(c) Form of report of change in Federal or New York State taxable income or New York State sales and compensating use tax liability. The report referred to in § 28-20(a) shall be made on Form NYC-115. The report referred to in § 28-20(b) shall be made on Form NYC-116. It must be accompanied by a copy of the final Federal or New York State determination or renegotiation agreement as well as any other pertinent data in all cases in which a refund based on such final determination or renegotiation agreement is claimed. Where additional tax is due, the taxpayer may, in lieu of a copy of the final determination or renegotiation agreement, give full details of the changes in taxable income on Form NYC-115 or the changes in sales and compensating use tax liability on Form NYC-116. The report on Form NYC-115 or Form NYC-116 shall be accompanied by full payment of any tax shown to be due thereon and shall be forwarded separately from, and not as part of, any other report or return. The report must be made by the taxpayer regardless of whether he believes any modification of his tax liability is required.
+(c) Form of report of change in Federal or New York State taxable income or New York State sales and compensating use tax liability. The report referred to in 19 RCNY § 28-20(a) shall be made on Form NYC-115. The report referred to in 19 RCNY § 28-20(b) shall be made on Form NYC-116. It must be accompanied by a copy of the final Federal or New York State determination or renegotiation agreement as well as any other pertinent data in all cases in which a refund based on such final determination or renegotiation agreement is claimed. Where additional tax is due, the taxpayer may, in lieu of a copy of the final determination or renegotiation agreement, give full details of the changes in taxable income on Form NYC-115 or the changes in sales and compensating use tax liability on Form NYC-116. The report on Form NYC-115 or Form NYC-116 shall be accompanied by full payment of any tax shown to be due thereon and shall be forwarded separately from, and not as part of, any other report or return. The report must be made by the taxpayer regardless of whether he believes any modification of his tax liability is required.
 
 (d) Federal or New York State changes not binding. The Commissioner of Finance is not required to accept as correct any change in taxable income or sales and compensating use tax liability as hereinabove set forth, but may conduct an independent audit or investigation in regard thereto.
 
@@ -16490,7 +16562,7 @@ Where the State Tax Commission changes or corrects a taxpayer's sales and compen
 
    (2) Exception as to estimated tax. This subdivision (a) shall not apply to any failure to pay estimated tax under § 11-512 of the Administrative Code.
 
-   (3) Exception for mathematical error. No interest shall be imposed on any underpayment of tax due solely to mathematical error if the taxpayer files a return within the time prescribed in § 28-18 of these regulations (including any extension of time) and pays the amount of underpayment within three months after the due date of such return, as it may be extended.
+   (3) Exception for mathematical error. No interest shall be imposed on any underpayment of tax due solely to mathematical error if the taxpayer files a return within the time prescribed in 19 RCNY § 28-18 (including any extension of time) and pays the amount of underpayment within three months after the due date of such return, as it may be extended.
 
    (4) Suspension of interest on deficiencies. If a waiver of restrictions on assessment of a deficiency has been filed by the taxpayer, and if notice and demand by the Commissioner of Finance for payment of such deficiency is not made within 30 days after the filing of such waiver, interest shall not be imposed on such deficiency for the period beginning immediately after such 30th day and ending with the date of notice and demand.
 
@@ -16538,7 +16610,7 @@ Example: Partnership ABC has an unincorporated business tax deficiency of $1000 
 
 Example 1:
 
-(i) Assume the taxpayer filed his tax return for the year January 1, 1983 to December 31, 1983  on July 30, 1984, and the failure to file on or before the prescribed date is not due to reasonable cause. The tax shown on the return is $800 and a deficiency of $200 is subsequently assessed, making the tax required to be shown on the return, $1,000. The amount shown due on the return of $800 is paid on August 26, 1984. The failure to pay on or before the prescribed date is not due to reasonable cause. There will be imposed, in addition to interest, an additional amount under paragraph (2) of $20.00, which is 2.5 percent (2% for the 4 months from April 16 through August 15, and 0.5% for the fractional part of the month from August 16 through August 26) of the amount shown due on the return of $800. There will also be imposed an additional amount under paragraph (1) of $184, determined as follows:
+(i) Assume the taxpayer filed his tax return for the year January 1, 1983 to December 31, 1983  on July 30, 1984, and the failure to file on or before the prescribed date is not due to reasonable cause. The tax shown on the return is $800 and a deficiency of $200 is subsequently assessed, making the tax required to be shown on the return, $1,000. The amount shown due on the return of $800 is paid on August 26, 1984. The failure to pay on or before the prescribed date is not due to reasonable cause. There will be imposed, in addition to interest, an additional amount under paragraph (2) of $20.00, which is 2.5 percent (2% for the 4 months from April 16 through August 15, and 0.5% for the fractional part of the month from August 16 through August 26) of the amount shown due on the return of $800. There will also be imposed an additional amount under paragraph (1) of $184, determined as follows: 
 
  
 
@@ -16549,7 +16621,7 @@ Example 1:
     * - 20 percent (5% per month for the 3 months from April 16 through July 15 and 5% for the fractional part of the month from July 16 through July 30) of the amount due of $l,000 required to be shown on the return
       -  $200
     * - Reduced by the amount of the addition imposed under paragraph (2) for those months
-      -  16
+      -  $16
     * - Addition to tax under paragraph (1)
       -  $184
 ~
@@ -16558,7 +16630,7 @@ Example 1:
 
  
 
-(ii) A notice and demand for the $200 deficiency is issued on September 8, 1984, but the taxpayer does not pay the deficiency until August 23, 1985. In addition to interest there will be imposed an additional amount under paragraph (3) of $10, determined as follows:
+(ii) A notice and demand for the $200 deficiency is issued on September 8, 1984, but the taxpayer does not pay the deficiency until August 23, 1985. In addition to interest there will be imposed an additional amount under paragraph (3) of $10, determined as follows: 
 
  
 
@@ -16580,7 +16652,7 @@ Example 1:
 
  
 
-Example 2: A taxpayer files his tax return for the year January 1, 1983 to December 31, 1983 on December 2, 1984, and such delinquency is not due to reasonable cause. The balance due, as shown on the return, of $500 is paid when the return is filed on December 2, 1984. In addition to interest and the addition for failure to pay under paragraph (2) of $20 (8 months at 0.5% per month, 4%), there will also be imposed an additional amount under paragraph (1) of $112.50, determined as follows:
+Example 2: A taxpayer files his tax return for the year January 1, 1983 to December 31, 1983 on December 2, 1984, and such delinquency is not due to reasonable cause. The balance due, as shown on the return, of $500 is paid when the return is filed on December 2, 1984. In addition to interest and the addition for failure to pay under paragraph (2) of $20 (8 months at 0.5% per month, 4%), there will also be imposed an additional amount under paragraph (1) of $112.50, determined as follows: 
 
  
 
@@ -16591,7 +16663,7 @@ Example 2: A taxpayer files his tax return for the year January 1, 1983 to Decem
     * - Penalty at 5% for maximum of 5 months, 25% of $500
       -  $125.00
     * - Less reduction for the amount of the addition under paragraph (2): Amount imposed under paragraph (2) for failure to pay for the months in which there is also an addition for failure to file – 2 1/2 percent for the 5 months April 16 through September 15 of the net amount due ($500)
-      -  12.50
+      -  $12.50
     * - Addition to tax under paragraph (1)
       -  $112.50
 ~
@@ -16614,15 +16686,15 @@ Example 2: A taxpayer files his tax return for the year January 1, 1983 to Decem
 
       (i) If any part of an underpayment is due to negligence or intentional disregard of the law, or rules or regulations thereunder (but without intent to defraud), there shall be added to the tax a penalty in an amount equal to five percent of the underpayment.
 
-      (ii) With respect to taxes required to be paid on or after July 16, 1985, there shall be added to the tax (in addition to the amount determined under subparagraph (6)(i) of this subdivision) an amount equal to 50 percent of the interest payable under § 28-2l(a) of these regulations with respect to the portion of the underpayment prescribed in such paragraph (6)(i) which is attributable to the negligence or intentional disregard referred to in such subparagraph (6)(i) for the period beginning on the last date prescribed by law for payment of such underpayment (determined without regard to any extension) and ending on the date of the assessment of the tax (or, if earlier, the date of the payment of the tax).
+      (ii) With respect to taxes required to be paid on or after July 16, 1985, there shall be added to the tax (in addition to the amount determined under subparagraph (6)(i) of this subdivision) an amount equal to 50 percent of the interest payable under 19 RCNY § 28-21(a) with respect to the portion of the underpayment prescribed in such paragraph (6)(i) which is attributable to the negligence or intentional disregard referred to in such subparagraph (6)(i) for the period beginning on the last date prescribed by law for payment of such underpayment (determined without regard to any extension) and ending on the date of the assessment of the tax (or, if earlier, the date of the payment of the tax).
 
-      (iii) If any payment is shown on a return made by a payor with respect to dividends, patronage dividends and interest under subsection (a) of § 6042, subsection (a) of § 6044 or subsection (a) of § 6049 of the Internal Revenue Code, respectively, and the payee fails to include any portion of such payment in unincorporated business gross income, as that term is defined in § 28-05 of these regulations, any portion of a deficiency attributable to such failure shall be treated, for purposes of this paragraph (6), as due to negligence in the absence of clear and convincing evidence to the contrary. If any addition to tax is imposed under this paragraph (6) by reason of the preceding sentence, the amount of the addition to tax imposed by paragraph (6)(i) of this subdivision (b) shall be five percent of the portion of the deficiency which is attributable to the failure described in the preceding sentence.
+      (iii) If any payment is shown on a return made by a payor with respect to dividends, patronage dividends and interest under subsection (a) of § 6042, subsection (a) of § 6044 or subsection (a) of § 6049 of the Internal Revenue Code, respectively, and the payee fails to include any portion of such payment in unincorporated business gross income, as that term is defined in 19 RCNY § 28-05, any portion of a deficiency attributable to such failure shall be treated, for purposes of this paragraph (6), as due to negligence in the absence of clear and convincing evidence to the contrary. If any addition to tax is imposed under this paragraph (6) by reason of the preceding sentence, the amount of the addition to tax imposed by paragraph (6)(i) of this subdivision (b) shall be five percent of the portion of the deficiency which is attributable to the failure described in the preceding sentence.
 
    (7) Underpayment due to fraud.
 
       (i) If any part of an underpayment is due to fraud, there shall be added to the tax a penalty in an amount equal to 50 percent of the underpayment.
 
-      (ii) With respect to taxes required to be paid on or after July 16, 1985, there shall be added to the tax (in addition to the penalty determined under paragraph (7)(i) of this subdivision) an amount equal to 50 percent of the interest payable under § 28-2l(a) of these regulations with respect to the portion of the underpayment described in such paragraph (7)(i) which is attributable to fraud, for the period beginning on the last day prescribed by law for payment of such underpayment (determined with out regard to any extension) and ending on the date of the assessment of the tax (or, if earlier, the date of the payment of the tax).
+      (ii) With respect to taxes required to be paid on or after July 16, 1985, there shall be added to the tax (in addition to the penalty determined under paragraph (7)(i) of this subdivision) an amount equal to 50 percent of the interest payable under 19 RCNY § 28-21(a) with respect to the portion of the underpayment described in such paragraph (7)(i) which is attributable to fraud, for the period beginning on the last day prescribed by law for payment of such underpayment (determined with out regard to any extension) and ending on the date of the assessment of the tax (or, if earlier, the date of the payment of the tax).
 
       (iii) The penalty under this paragraph (paragraph (7)) shall be in lieu of the maximum 25 percent penalty due to willful neglect for failure to file a return due to willful neglect, five percent penalty due to negligence and the additional one-half of one percent per month penalty pursuant to paragraphs (2) and (3) of this subdivision (b).
 
@@ -16642,7 +16714,7 @@ Example 2: A taxpayer files his tax return for the year January 1, 1983 to Decem
 
 (d) Exception to addition for underpayment of estimated tax. (Administrative Code § 11-525(d)).
 
-   (1) The addition to tax under § 28-21(c) with respect to any underpayment of any installment, shall not be imposed if the total amount of all payments of estimated tax made on or before the last date prescribed for the payment of such installment equals or exceeds whichever of the follow ing is the lesser:
+   (1) The addition to tax under 19 RCNY § 28-21(c) with respect to any underpayment of any installment, shall not be imposed if the total amount of all payments of estimated tax made on or before the last date prescribed for the payment of such installment equals or exceeds whichever of the follow ing is the lesser:
 
       (i) The amount which would have been required to be paid on or before such date if the estimated tax were whichever of the following is the least:
 
@@ -16664,7 +16736,7 @@ Example 2: A taxpayer files his tax return for the year January 1, 1983 to Decem
 
             (b) For purposes of subparagraph (i)(D)(a)
 
-               (1) the base period percentage for any period of months shall be the average percent which the unincorporated business taxable income for the corresponding months in each of the three preceding years                bears to the unincorporated business taxable income for the three preceding taxable years.
+               (1) the base period percentage for any period of months shall be the average percent which the unincorporated business taxable income for the corresponding months in each of the three preceding years bears to the unincorporated business taxable income for the three preceding taxable years.
 
                (2) the term "filing month" means the month in which the installment is require to be paid; or
 
@@ -16723,11 +16795,11 @@ Chapter 29: Interest Rates On New York City Income and Excise Taxes
 
 Excise taxes. (Chapters 7, 8, 11, 12, 13, 14, 15, 21, 24, 25 and 27 of Title 11 of the Administrative Code).
 
-(a) (1) Pursuant to § 11-715(h)(1) (relating to the commercial rent or occupancy tax); § 11-817(g)( 1) (relating to the commercial motor vehicle tax); § 11-1114(g)(1) (relating to the utility tax); § 11-1213(g)(1) (relating to the horse race admissions tax); § 11-1317(d)(2) (relating to the cigarette tax); § 11-1413(g)(1) (relating to the tax on transfers of taxicab licenses); § 11 1515(g)(1) (relating to the coin-operated amusement devices tax); § 11- 2114(g)(1) (relating to the real property transfer tax); § 11-2414(g)(1) (relating to the tax on retail licensees of the State Liquor Authority); § 11-2515(g)(1) (relating to the hotel room occupancy tax); and § 11-2714(g)(1) (relating to the annual vault charge), the Commissioner of Finance is required to set the rate of interest to be paid on underpayments of the above named excise taxes. For underpayments which became due prior to February 24, 1983, the Commissioner of Finance was authorized to set a rate of interest which was not less than six percent per annum nor more than 12 percent per annum. For underpayments which remain or become due on or after February 24, 1983 the Commissioner of Finance is required to set a rate of interest as prescribed in paragraph (2) of this subdivision but not less than six percent per annum. Any rate set by the Commissioner of Finance pursuant to the provisions of paragraph (2) shall apply to taxes, or any portion thereof, which remain or become due on or after the date on which such rate becomes effective and shall apply only with respect to interest computed or computable for periods or portions of periods occurring in the period in which such rate is in effect. No interest shall be paid if the amount thereof is less than one dollar.
+(a) (1) Pursuant to § 11-715(h)(1) (relating to the commercial rent or occupancy tax); § 11-817(g)( 1) (relating to the commercial motor vehicle tax); § 11-1114(g)(1) (relating to the utility tax); § 11-1213(g)(1) (relating to the horse race admissions tax); § 11-1317(d)(2) (relating to the cigarette tax); § 11-1413(g)(1) (relating to the tax on transfers of taxicab licenses); § 11 1515(g)(1) (relating to the coin-operated amusement devices tax); § 11-2114(g)(1) (relating to the real property transfer tax); § 11-2414(g)(1) (relating to the tax on retail licensees of the State Liquor Authority); § 11-2515(g)(1) (relating to the hotel room occupancy tax); and § 11-2714(g)(1) (relating to the annual vault charge), the Commissioner of Finance is required to set the rate of interest to be paid on underpayments of the above named excise taxes. For underpayments which became due prior to February 24, 1983, the Commissioner of Finance was authorized to set a rate of interest which was not less than six percent per annum nor more than 12 percent per annum. For underpayments which remain or become due on or after February 24, 1983 the Commissioner of Finance is required to set a rate of interest as prescribed in paragraph (2) of this subdivision but not less than six percent per annum. Any rate set by the Commissioner of Finance pursuant to the provisions of paragraph (2) shall apply to taxes, or any portion thereof, which remain or become due on or after the date on which such rate becomes effective and shall apply only with respect to interest computed or computable for periods or portions of periods occurring in the period in which such rate is in effect. No interest shall be paid if the amount thereof is less than one dollar.
 
    (2) On or before January 15 in each year, the Commissioner of Finance shall determine the average prime rate charged by banks for the quarter year ending on the immediately preceding December 31. Such average prime rate, rounded to the nearest one-tenth of a percentage point, shall be the rate of interest prescribed by this paragraph that shall be effective during the twelve-month period commencing on March 1 in such year. Provided, however, that on or before July 15 in each year, the Commissioner shall determine the average prime rate charged by banks during the quarter-year ending on June 30 of such year. In any year in which the average prime rate for the quarter-year ending on June 30 differs by more than two percentage points from the average prime rate for the quarter-year ending on the immediately preceding December 31, then such average prime rate for the quarter-year ending on June 30, rounded to the nearest one-tenth of a percentage point, shall be the rate of interest prescribed by this paragraph for the six-month period commencing on September 1 in such year. Provided, further, that for the period commencing February 24, 1983 and ending on February 29, 1984, the rate of interest prescribed in accordance with the provisions of this paragraph shall be and is hereby set at 17% per annum, and such rate shall remain in effect unless a new rate is prescribed for the six-month period commencing on September 1, 1983 as provided in the preceding sentence. For purposes of this paragraph, the average prime rate charged by banks during any quarter-year shall be the average predominant prime rate quoted by commercial banks to large businesses in the three months constituting such quarter-year as such rate is determined and published by the Board of Governors of the Federal Reserve System of the United States. For the purpose of the computation to the nearest one-tenth of a percentage point, a hundredth of a percentage point is to be disregarded unless it amounts to five hundredths of a percentage point or more, in which case the amount (determined without regard to the hundredth of a percentage point) shall be increased by one-tenth of a percentage point.
 
-(B) (1) The following schedule shows the interest rates that applied to underpayments during the periods specified:
+(B) (1) The following schedule shows the interest rates that applied to underpayments during the periods specified: 
 
  
 
@@ -16738,9 +16810,9 @@ Excise taxes. (Chapters 7, 8, 11, 12, 13, 14, 15, 21, 24, 25 and 27 of Title 11 
     * - Period 
       - Rate 
     * - Prior to April 1, 1970
-      -   6% 
+      - 6% 
     * - Between April 1, 1970 and March 14, 1980
-      -   9% 
+      - 9% 
     * - Between March 15, 1980 and February 23, 1983
       - 12% 
 ~
@@ -16751,7 +16823,7 @@ Excise taxes. (Chapters 7, 8, 11, 12, 13, 14, 15, 21, 24, 25 and 27 of Title 11 
 
    (2) If an underpayment which became due prior to February 24, 1983 remains unpaid on or after that date, interest with respect to such underpayment is to be computed at the rate of 12 percent per annum up to and including February 23, 1983, and thereafter at the rate set forth in subdivision (c) of this section from February 24, 1983 to the date such underpayment of tax is paid. However, if a notice of determination for such underpayment had been issued between April 1, 1970 and March 14, 1980, interest on such underpayment accrues at 9% per annum up to and including March 14, 1980, at 12% per annum between March 15, 1980 and February 23, 1983, and thereafter at the rate set forth in subdivision (c) of this section. Further if a notice of determination had been issued prior to April 1, 1970, interest on the underpayment accrues at 6% per annum up to and including March 31, 1970, at 9% per annum between April 1, 1970 and March 14, 1980, at 12% per annum between March 15, 1980 and February 23, 1983, and thereafter at the rate set forth in subdivision (c) of this section.
 
-(c) Pursuant to the provisions of subdivision (a) above, if any amount of tax is not paid on or before the last date prescribed for payment (without regard to any extension of time granted for payment) interest with respect to such underpayment, or any portion thereof, which remains or becomes due on or after February 24, 1983 is to be computed at the applicable rate or rates shown in the following schedule:
+(c) Pursuant to the provisions of subdivision (a) above, if any amount of tax is not paid on or before the last date prescribed for payment (without regard to any extension of time granted for payment) interest with respect to such underpayment, or any portion thereof, which remains or becomes due on or after February 24, 1983 is to be computed at the applicable rate or rates shown in the following schedule: 
 
  
 
@@ -16770,11 +16842,11 @@ Excise taxes. (Chapters 7, 8, 11, 12, 13, 14, 15, 21, 24, 25 and 27 of Title 11 
     * - March 1, 1985 through February 28, 1986
       - 11.8% 
     * - March 1, 1986 through February 28, 1987
-      -   9.5% 
+      - 9.5% 
     * - March 1, 1987 through February 29, 1988
-      -   7.5% 
+      - 7.5% 
     * - March 1, 1988 through February 28, 1989
-      -   8.9% 
+      - 8.9% 
     * - March 1, 1989 through February 28, 1990
       - 10.2% 
 ~
@@ -16797,7 +16869,7 @@ Excise taxes. (Chapters 7, 8, 11, 12, 13, 14, 15, 21, 24, 25 and 27 of Title 11 
 
    (2) On or before January 15 in each year, the Commissioner of Finance shall determine the average prime rate charged by banks for the quarter-year ending on the immediately preceding December 31. Such average prime rate, rounded to the nearest one-tenth of a percentage point, shall be the rate of interest prescribed by this paragraph that shall be effective during the twelve-month period commencing on March 1 in such year. Provided, however, that on or before July 15 in each year the Commissioner shall determine the average prime rate charged by banks during the quarter-year ending on June 30 of such year. In any year in which the average prime rate for the quarter-year ending on June 30 differs by more than two percentage points from the average prime rate for the quarter-year ending on the immediately preceding December 31, then such average prime rate for the quarter-year ending on June 30, rounded to the nearest one-tenth of a percentage point, shall be the rate of interest prescribed by this paragraph for the six-month period commencing on September 1 in such year. Provided, further, that for the period commencing February 24, 1983 and ending on February 29, 1984, the rate of interest prescribed in accordance with the provisions of this paragraph shall be and is hereby set at 17% per annum, and such rate shall remain in effect unless a new rate is prescribed for the six-month period commencing on September 1, 1983 as provided in the preceding sentence. For purposes of this paragraph, the average prime rate charged by banks during any quarter-year shall be the average predominant prime rate quoted by commercial banks to large businesses in the three months constituting such quarter-year as such rate is determined and published by the Board of Governors of the Federal Reserve System of the United States. For the purpose of the computation to the nearest one-tenth of a percentage point, a hundredth of a percentage point is to be disregarded unless it amounts to five hundredths of a percentage point or more, in which case the amount (determined without regard to the hundredth of a percentage point) shall be increased by one-tenth of a percentage point.
 
-(b) Pursuant to the provisions of subdivision (a) above, the interest which shall be paid on overpayments pursuant to subdivision 5 of § 11-608, subdivision (e) of § 11-645, and subdivision 1 of § 11-679 of the Administrative Code, and which shall be added to underpayments of tax pursuant to subdivision 1 of § 11-675, recoveries of erroneous refunds pursuant to subdivision 13 of § 11-675, underpayments of estimated tax pursuant to subdivision 3 of § 11- 676 of the Administrative Code, and added to balances due after extensions of time for payment pursuant to subdivision 1 of § 11-606, subdivision 9 of § 11-608, subdivision (i) of § 11-645 and subdivision (b) of § 11-647 of the Administrative Code, or any portion thereof, which remains or becomes due or overpaid on or after February 24, 1983 is to be computed at the applicable rate or rates set forth in subdivision (c) of this section from February 24, 1983 to the date such underpayment of tax is paid or overpayment is refunded. The rates in effect prior to February 24, 1983 are as follows:
+(b) Pursuant to the provisions of subdivision (a) above, the interest which shall be paid on overpayments pursuant to subdivision 5 of § 11-608, subdivision (e) of § 11-645, and subdivision 1 of § 11-679 of the Administrative Code, and which shall be added to underpayments of tax pursuant to subdivision 1 of § 11-675, recoveries of erroneous refunds pursuant to subdivision 13 of § 11-675, underpayments of estimated tax pursuant to subdivision 3 of § 11-676 of the Administrative Code, and added to balances due after extensions of time for payment pursuant to subdivision 1 of § 11-606, subdivision 9 of § 11-608, subdivision (i) of § 11-645 and subdivision (b) of § 11-647 of the Administrative Code, or any portion thereof, which remains or becomes due or overpaid on or after February 24, 1983 is to be computed at the applicable rate or rates set forth in subdivision (c) of this section from February 24, 1983 to the date such underpayment of tax is paid or overpayment is refunded. The rates in effect prior to February 24, 1983 are as follows: 
 
  
 
@@ -16806,24 +16878,24 @@ Excise taxes. (Chapters 7, 8, 11, 12, 13, 14, 15, 21, 24, 25 and 27 of Title 11 
     :header-rows: 1
 
     * - For Taxable Periods: 
-      - Rate Per Annum 
+      - Rate Per Annum
     * - Beginning before June 1, 1978
-      - 6% 
+      - 6%
     * - Beginning on or after
-      -  
+      - 
     * -  June 1, 1978
-      -   8.5% 
+      - 8.5%
     * -  June 1, 1980
-      - 10.5% 
+      - 10.5%
     * -  July 1, 1981
-      - 12% 
+      - 12%
 ~
 
 
 
  
 
-(c) Pursuant to the provisions of subdivision (a) above, the interest which shall be paid on overpayments pursuant to subdivision 5 of § 11-608, subdivision (e) of § 11-645, and subdivision 1 of § 11-679 of the Administrative Code, and which shall be added to underpayments of tax pursuant to subdivision 1 of § 11-675, recoveries of erroneous refunds pursuant to subdivision 13 of § 11-675, underpayments of estimated tax pursuant to subdivision 3 of § 11- 676 of the Administrative Code, and added to balances due after extensions of time for payment pursuant to subdivision 1 of § 11-606, subdivision 9 of § 11-608, subdivision (i) of § 11-645 and subdivision (b) of § 11-647 of the Administrative Code, or any portion thereof, which remains or becomes due on or after February 24, 1983 is to be computed at the applicable rate or rates shown in the following schedule:
+(c) Pursuant to the provisions of subdivision (a) above, the interest which shall be paid on overpayments pursuant to subdivision 5 of § 11-608, subdivision (e) of § 11-645, and subdivision 1 of § 11-679 of the Administrative Code, and which shall be added to underpayments of tax pursuant to subdivision 1 of § 11-675, recoveries of erroneous refunds pursuant to subdivision 13 of § 11-675, underpayments of estimated tax pursuant to subdivision 3 of § 11-676 of the Administrative Code, and added to balances due after extensions of time for payment pursuant to subdivision 1 of § 11-606, subdivision 9 of § 11-608, subdivision (i) of § 11-645 and subdivision (b) of § 11-647 of the Administrative Code, or any portion thereof, which remains or becomes due on or after February 24, 1983 is to be computed at the applicable rate or rates shown in the following schedule: 
 
  
 
@@ -16842,11 +16914,11 @@ Excise taxes. (Chapters 7, 8, 11, 12, 13, 14, 15, 21, 24, 25 and 27 of Title 11 
     * - March 1, 1985 through February 28, 1986
       - 11.8% 
     * - March 1, 1986 through February 28, 1987
-      -   9.5% 
+      - 9.5% 
     * - March 1, 1987 through February 29, 1988
-      -   7.5% 
+      - 7.5% 
     * - March 1, 1988 through February 28, 1989
-      -   8.9% 
+      - 8.9% 
     * - March 1, 1989 through February 28, 1990
       - 10.2% 
 ~
@@ -16869,7 +16941,7 @@ Excise taxes. (Chapters 7, 8, 11, 12, 13, 14, 15, 21, 24, 25 and 27 of Title 11 
 
    (2) On or before January 15 in each year, the Commissioner of Finance shall determine the one-year constant maturity yield index for United States treasury securities for the quarter-year ending on the immediately preceding December 31. Such index, rounded to the nearest one-tenth of a percentage point, shall be the rate of interest prescribed by this paragraph that shall be effective during the twelve-month period commencing on March 1 in such year. Provided, however, that on or before July 15 in each year, the Commissioner shall determine the one-year constant maturity yield index for United States treasury securities for the quarter-year ending on June 30 of such year. In any year in which the index for the quarter-year ending on June 30 differs by more than two percentage points from the index for the quarter-year ending on the immediately preceding December 31, then such index for the quarter-year ending on June 30, rounded to the nearest one-tenth of a percentage point, shall be the rate of interest prescribed by this paragraph for the six-month period commencing on September 1 in such year. Provided, further, that for the period commencing February 24, 1983 and ending on February 29, 1984, the rate of interest prescribed in accordance with the provisions of this paragraph shall be and is hereby set at 14% per annum, and such rate shall remain in effect unless a new rate is prescribed for the six-month period commencing on September 1, 1983 as provided in the preceding sentence. For purposes of this para graph, the one-year constant maturity yield index for United States treasury securities for any quarter-year shall be the average of such index for the three months constituting such quarter-year as such index is compiled by the United States Department of the Treasury, published by the Board of Governors of the Federal Reserve System of the United States, and expressed in terms of percentage interest per annum. For the purpose of the computation to the nearest one-tenth of a percentage point, a hundredth of a percentage point is to be disregarded unless it amounts to five hundredths of a percentage point or more, in which case the amount (determined without regard to the hundredth of a percentage point) shall be increased by one-tenth of a percentage point.
 
-(b) Pursuant to the provisions of subdivision (a) above, the interest which shall be paid on overpayments pursuant to subdivision (a) of § 11-528 of the Administrative Code and which shall be added to underpayments of tax pursuant to subdivision (a) of § 11-524, recoveries of erroneous refunds pursuant to subdivision (j) of § 11-524, and underpayments of estimated tax pursuant to subdivision (c) of § 11-525 of the Administrative Code, or any portion thereof, which became due or overpaid prior to February 24, 1983 and which remains due or overpaid on or after February 24, 1983 is to be computed at the applicable rate in effect for the taxable year or other period to which the overpayment, underpayment or erroneous refund relates up to and including February 23, 1983 in accordance with the schedule described in this subdivision plus interest computed at the applicable rate or rates set forth in subdivision (c) of this section from February 24, 1983 to the date such underpayment of tax is paid or overpayment is refunded. The rates in effect prior to February 24, 1983 are as follows:
+(b) Pursuant to the provisions of subdivision (a) above, the interest which shall be paid on overpayments pursuant to subdivision (a) of § 11-528 of the Administrative Code and which shall be added to underpayments of tax pursuant to subdivision (a) of § 11-524, recoveries of erroneous refunds pursuant to subdivision (j) of § 11-524, and underpayments of estimated tax pursuant to subdivision (c) of § 11-525 of the Administrative Code, or any portion thereof, which became due or overpaid prior to February 24, 1983 and which remains due or overpaid on or after February 24, 1983 is to be computed at the applicable rate in effect for the taxable year or other period to which the overpayment, underpayment or erroneous refund relates up to and including February 23, 1983 in accordance with the schedule described in this subdivision plus interest computed at the applicable rate or rates set forth in subdivision (c) of this section from February 24, 1983 to the date such underpayment of tax is paid or overpayment is refunded. The rates in effect prior to February 24, 1983 are as follows: 
 
  
 
@@ -16882,9 +16954,9 @@ Excise taxes. (Chapters 7, 8, 11, 12, 13, 14, 15, 21, 24, 25 and 27 of Title 11 
     * - Beginning before June 1, 1978
       - 6% 
     * - Beginning on or after
-      -  
+      - 
     * -  June 1, 1978
-      -   8.5% 
+      - 8.5% 
     * -  June 1, 1980
       - 10.5% 
     * -  July 1, 1981
@@ -16895,7 +16967,7 @@ Excise taxes. (Chapters 7, 8, 11, 12, 13, 14, 15, 21, 24, 25 and 27 of Title 11 
 
  
 
-(c) Pursuant to the provisions of subdivision shall be paid on overpayments pursuant to subdivision (a) of § 11-528 of the Administrative Code, and which shall be added to underpayments of tax pursuant to subdivision (a) of § 11-524, recoveries of erroneous refunds pursuant to subdivision (j) of § 11-524, and underpayments of estimated tax pursuant to subdivision (c) of § 11-525 of the Administrative Code, or any portion thereof, which remains or becomes due or overpaid on or after February 24, 1983 is to be computed at the applicable rate or rates shown in the following schedule:
+(c) Pursuant to the provisions of subdivision shall be paid on overpayments pursuant to subdivision (a) of § 11-528 of the Administrative Code, and which shall be added to underpayments of tax pursuant to subdivision (a) of § 11-524, recoveries of erroneous refunds pursuant to subdivision (j) of § 11-524, and underpayments of estimated tax pursuant to subdivision (c) of § 11-525 of the Administrative Code, or any portion thereof, which remains or becomes due or overpaid on or after February 24, 1983 is to be computed at the applicable rate or rates shown in the following schedule: 
 
  
 
@@ -16908,19 +16980,19 @@ Excise taxes. (Chapters 7, 8, 11, 12, 13, 14, 15, 21, 24, 25 and 27 of Title 11 
     * - February 24, 1983 through August 31, 1983
       - 14% 
     * - September 1, 1983 through February 29, 1984
-      -   9.2% 
+      - 9.2% 
     * - March 1, 1984 through February 28, 1985
       - 10% 
     * - March 1, 1985 through February 28, 1986
       - 10% 
     * - March 1, 1986 through February 28, 1987
-      -   7.9% 
+      - 7.9% 
     * - March 1, 1987 through February 29, 1988
       - 6% 
     * - March 1, 1988 through February 28, 1989
-      -   7.2% 
+      - 7.2% 
     * - March 1, 1989 through February 28, 1990
-      -   8.5% 
+      - 8.5% 
 ~
 
  
@@ -16935,7 +17007,7 @@ Excise taxes. (Chapters 7, 8, 11, 12, 13, 14, 15, 21, 24, 25 and 27 of Title 11 
 *§ 29-04 Miscellaneous.* ::
 
 
-(a) Commercial rent tax. (Chapter 7 of Title 11 of the Administrative Code). Quarterly Returns. If any amount of tax required to be paid together with a return, other than the final return for a tax year, is not paid on or before the last date prescribed for payment (without regard to any extension of time granted for payment), interest on such amount at the rate set by the Commissioner of Finance pursuant to § 29-01 of these regulations shall be paid for the period from such last date until 20 days after the end of the tax year during which such payments were due or until such prior time as the tax paid for the tax year equals 75% of the full tax required to be paid for the tax year. Such interest shall be paid with the final return for the tax year to which it relates. Interest under this subdivision shall not be paid if the amount thereof is less than one dollar.
+(a) Commercial rent tax. (Chapter 7 of Title 11 of the Administrative Code). Quarterly Returns. If any amount of tax required to be paid together with a return, other than the final return for a tax year, is not paid on or before the last date prescribed for payment (without regard to any extension of time granted for payment), interest on such amount at the rate set by the Commissioner of Finance pursuant to 19 RCNY § 29-01 shall be paid for the period from such last date until 20 days after the end of the tax year during which such payments were due or until such prior time as the tax paid for the tax year equals 75% of the full tax required to be paid for the tax year. Such interest shall be paid with the final return for the tax year to which it relates. Interest under this subdivision shall not be paid if the amount thereof is less than one dollar.
 
 (b) Tax on foreign and alien insurers. (Chapter 9 of Title 11 of the Administrative Code).
 
@@ -16943,7 +17015,7 @@ Excise taxes. (Chapters 7, 8, 11, 12, 13, 14, 15, 21, 24, 25 and 27 of Title 11 
 
       (ii) On or before January 15 in each year, the Commissioner of Finance shall determine the average prime rate charged by banks for the quarter-year ending on the immediately preceding December 31. Such average prime rate, rounded to the nearest one-tenth of a percentage point, shall be the rate of interest prescribed by this paragraph that shall be effective during the twelve-month period commencing on March 1 in such year. Provided, however, that on or before July 15 in each year, the Commissioner shall determine the average prime rate charged by banks during the quarter-year ending on June 30 of such year. In any year in which the average prime rate for the quarter-year ending on June 30 differs by more than two percentage points from the average prime rate for the quarter-year ending on the immediately preceding December 31, then such average prime rate for the quarter-year ending on June 30, rounded to the nearest one-tenth of a percentage point, shall be the rate of interest prescribed by this paragraph for the six-month period commencing on September 1 in such year. Provided, further, that for the period commencing August 5, 1984 and ending on February 28, 1985, the rate of interest prescribed in accordance with the provisions of this paragraph shall be and is hereby set at 11% per annum. For purposes of this paragraph, the average prime rate charged by banks during any quarter-year shall be the average predominant prime rate quoted by commercial banks to large businesses in the three months constituting such quarter-year as such rate is determined and published by the Board of Governors of the Federal Reserve System of the United States. For the purpose of the computation to the nearest one-tenth of a percentage point, a hundredth of a percentage point is to be disregarded unless it amounts to five hundredths of a percentage point or more, in which case the amount (determined without regard to the hundredth of a percentage point) shall be increased by one-tenth of a percentage point.
 
-   (2) Pursuant to the provisions of paragraph (1) above, the interest which shall be added to underpayments of tax pursuant to § 11-905(a) of the Administrative Code and which shall be paid on overpayments pursuant to § 11-906(a) of the Administrative Code, or any portion thereof, which remain or become due or overpaid on or after August 5, 1984 is to be computed at the applicable rate or rates shown in the following schedule:
+   (2) Pursuant to the provisions of paragraph (1) above, the interest which shall be added to underpayments of tax pursuant to § 11-905(a) of the Administrative Code and which shall be paid on overpayments pursuant to § 11-906(a) of the Administrative Code, or any portion thereof, which remain or become due or overpaid on or after August 5, 1984 is to be computed at the applicable rate or rates shown in the following schedule: 
 
  
 
@@ -16958,11 +17030,11 @@ Excise taxes. (Chapters 7, 8, 11, 12, 13, 14, 15, 21, 24, 25 and 27 of Title 11 
     * - March 1,1985 through February 28, 1986
       - 11.8% 
     * - March 1,1986 through February 28, 1987
-      -   9.5% 
+      - 9.5% 
     * - March 1, 1987 through February 29, 1988
-      -   7.5% 
+      - 7.5% 
     * - March 1, 1988 through February 28, 1989
-      -   8.9% 
+      - 8.9% 
     * - March 1, 1989 through February 28, 1990
       - 10.2% 
 ~
@@ -16986,25 +17058,25 @@ Chapter 30: Relocation and Employment Assistance Program
 
 Aggregate employment shares. The term "aggregate employment shares" means the sum of all employment shares maintained by an eligible business in a taxable year.
 
-   (1) Determination of number of eligible aggregate employment shares.
+(1) Determination of number of eligible aggregate employment shares.
 
-      (i) For purposes of the credit allowed by subdivision (i) of § 11-503, subdivision 17 of § 11-604 or § 11-643.7 of the Administrative Code of the City of New York and the reduction in base rent allowed by subdivision f of § 11-704 of such Code, the number of eligible aggregate employment shares of an eligible business is the amount, if any, by which the number of aggregate employment shares maintained by it in the eligible area in the taxable year in which it claims such credit or reduction exceeds the number of aggregate employment shares maintained by it in the eligible area in the taxable year immediately preceding the taxable year during which it first relocates. (Note: when used in these rules the term "relocate" has the meaning set forth in this definition section. Note also, the taxable year preceding the taxable year of an eligible business' first relocation shall hereafter be referred to as the "base year".)
+   (i) For purposes of the credit allowed by subdivision (i) of § 11-503, subdivision 17 of § 11-604 or § 11-643.7 of the Administrative Code of the City of New York and the reduction in base rent allowed by subdivision f of § 11-704 of such Code, the number of eligible aggregate employment shares of an eligible business is the amount, if any, by which the number of aggregate employment shares maintained by it in the eligible area in the taxable year in which it claims such credit or reduction exceeds the number of aggregate employment shares maintained by it in the eligible area in the taxable year immediately preceding the taxable year during which it first relocates. (Note: when used in these rules the term "relocate" has the meaning set forth in this definition section. Note also, the taxable year preceding the taxable year of an eligible business' first relocation shall hereafter be referred to as the "base year".)
 
-      (ii) The amount determined under subparagraph (i) of this paragraph shall not exceed whichever of the following is the least:
+   (ii) The amount determined under subparagraph (i) of this paragraph shall not exceed whichever of the following is the least:
 
-         (A) the amount, if any, by which the number of aggregate employment shares maintained by the eligible business in particular to which it has relocated premises in the taxable year in which the credit or reduction is claimed exceeds the number of aggregate employment shares maintained in such premises in the taxable year immediately preceding the taxable year during which the eligible business relocates to such premises. (This amount shall hereafter be referred to as "Limitation 1".);
+      (A) the amount, if any, by which the number of aggregate employment shares maintained by the eligible business in particular to which it has relocated premises in the taxable year in which the credit or reduction is claimed exceeds the number of aggregate employment shares maintained in such premises in the taxable year immediately preceding the taxable year during which the eligible business relocates to such premises. (This amount shall hereafter be referred to as "Limitation 1".);
 
-         (B) for any taxable year following the third taxable year immediately succeeding the taxable year of relocation to particular eligible premises, the amount, if any, by which the highest number of aggregate employment shares maintained by the eligible business in the premises in the taxable year during which it relocates to such premises or in any of the three immediately succeeding taxable years exceeds the number of aggregate employment shares maintained in such premises in the taxable year immediately preceding the taxable year of the relocation. (This amount shall hereafter be referred to as "Limitation 2".);
+      (B) for any taxable year following the third taxable year immediately succeeding the taxable year of relocation to particular eligible premises, the amount, if any, by which the highest number of aggregate employment shares maintained by the eligible business in the premises in the taxable year during which it relocates to such premises or in any of the three immediately succeeding taxable years exceeds the number of aggregate employment shares maintained in such premises in the taxable year immediately preceding the taxable year of the relocation. (This amount shall hereafter be referred to as "Limitation 2".);
 
-         (C) an amount equal to twice the number of aggregate employment shares maintained by the eligible business outside the eligible area in the base year. (This amount shall hereafter be referred to as "Limitation 3").
+      (C) an amount equal to twice the number of aggregate employment shares maintained by the eligible business outside the eligible area in the base year. (This amount shall hereafter be referred to as "Limitation 3").
 
-      (iii) If an eligible business relocates to more than one particular premises, Limitations 1 and 2 must be calculated separately for each particular premises. In such case, the amount determined under subparagraph (i) of this paragraph shall not exceed the lesser of
+   (iii) If an eligible business relocates to more than one particular premises, Limitations 1 and 2 must be calculated separately for each particular premises. In such case, the amount determined under subparagraph (i) of this paragraph shall not exceed the lesser of
 
-         (A) the sum of the lesser of Limitations 1 and 2 for each particular premises or
+      (A) the sum of the lesser of Limitations 1 and 2 for each particular premises or
 
-         (B) Limitation 3.
+      (B) Limitation 3.
 
-   (2) Calculation of shares. The calculation of eligible aggregate employment shares may be illustrated by the following examples (Assume that a year has exactly 52 weeks):
+(2) Calculation of shares. The calculation of eligible aggregate employment shares may be illustrated by the following examples (Assume that a year has exactly 52 weeks):
 
 Example 1: During 1987 a calendar year taxpayer has 200 full time employees, 100 of whom work in Manhattan south of 96th Street and 100 of whom work in New Jersey. On January 1, 1988, taxpayer relocates all 200 employees to eligible premises in Brooklyn, and hires an additional 50 employees to work at the new location. All 250 employees work full time during the taxable year. Taxpayer has 250 eligible aggregate employment shares in 1988.
 
@@ -17036,69 +17108,69 @@ Eligible area. "Eligible area" means the area of the city excluding that area in
 
 Eligible business. "Eligible business" shall mean:
 
-   (1) Any person subject to the unincorporated business tax imposed under Chapter 5, the general corporation tax imposed under Subchapter 2 of Chapter 6, or the banking corporation tax imposed under Subchapter 3 of Chapter 6 of Title 11 of the Administrative Code, or for purposes of the reduction in base rent allowed by the subdivision f of § 11-704 of the Code, any person subject to one of such taxes or any insurance corporation as defined in § 1500 of the New York State Tax Law, which:
+(1) Any person subject to the unincorporated business tax imposed under Chapter 5, the general corporation tax imposed under Subchapter 2 of Chapter 6, or the banking corporation tax imposed under Subchapter 3 of Chapter 6 of Title 11 of the Administrative Code, or for purposes of the reduction in base rent allowed by the subdivision f of § 11-704 of the Code, any person subject to one of such taxes or any insurance corporation as defined in § 1500 of the New York State Tax Law, which:
 
-      (i) has been conducting substantial business operations at one or more business locations outside the eligible area for at least 24 consecutive months immediately preceding the taxable year during which such eligible business relocates; and
+   (i) has been conducting substantial business operations at one or more business locations outside the eligible area for at least 24 consecutive months immediately preceding the taxable year during which such eligible business relocates; and
 
-      (ii) on or after May 27, 1987 relocates all or part of such business operations; and
+   (ii) on or after May 27, 1987 relocates all or part of such business operations; and
 
-      (iii) either:
+   (iii) either:
 
-         (A) on or after May 27, 1987 first enters into a contract to purchase or lease the premises to which it relocates, or a parcel on which will be constructed such eligible premises, or
+      (A) on or after May 27, 1987 first enters into a contract to purchase or lease the premises to which it relocates, or a parcel on which will be constructed such eligible premises, or
 
-         (B) as of May 27, 1987 owns such parcel or premises and has not prior to such date made application for benefits under the Industrial and Commercial Incentive Program pursuant to Part 4 of Subchapter 2 of Chapter 2 of Title 11 of the Administrative Code.
+      (B) as of May 27, 1987 owns such parcel or premises and has not prior to such date made application for benefits under the Industrial and Commercial Incentive Program pursuant to Part 4 of Subchapter 2 of Chapter 2 of Title 11 of the Administrative Code.
 
-   (2) A business shall not be rendered ineligible solely because it has entered into a contract prior to May 27, 1987 to purchase or lease other premises in the same building as those premises to which it relocates provided that:
+(2) A business shall not be rendered ineligible solely because it has entered into a contract prior to May 27, 1987 to purchase or lease other premises in the same building as those premises to which it relocates provided that:
 
-      (i) the premises to which it relocates are physically separate and distinct from the other premises;
+   (i) the premises to which it relocates are physically separate and distinct from the other premises;
 
-      (ii) no contract to purchase or lease the premises to which it relocates was entered into prior to May 27, 1987; and
+   (ii) no contract to purchase or lease the premises to which it relocates was entered into prior to May 27, 1987; and
 
-      (iii) if the premises to which it relocates are rented, the rent for such premises is separately stated in the lease for such premises. For purposes of these rules, an option to purchase or lease premises or a parcel of land will be considered a contract to purchase or lease such premises or parcel.
+   (iii) if the premises to which it relocates are rented, the rent for such premises is separately stated in the lease for such premises. For purposes of these rules, an option to purchase or lease premises or a parcel of land will be considered a contract to purchase or lease such premises or parcel.
 
 Eligible premises. "Eligible premises" shall mean:
 
-   (1) Non-residential premises which are wholly contained in real property which is certified as eligible to receive benefits pursuant to Part 3 or Part 4 of Subchapter 2 of Chapter 2 of Title 11 of the Administrative Code, provided, that such premises have been improved by construction or renovation, that expenditures have been made for improvements to such real property in excess of 50% of the value at which such real property was assessed for tax purposes for the tax year in which such improvements commenced and such expenditures have been made within 36 months or, in the case of expenditures for such improvements to such real property in excess of fifty million dollars, within 72 monthsfrom such commencement, that such real property is located in the eligible area, and provided further that no contract to purchase or lease such premises has been entered into prior to May 27 1987;
+(1) Non-residential premises which are wholly contained in real property which is certified as eligible to receive benefits pursuant to Part 3 or Part 4 of Subchapter 2 of Chapter 2 of Title 11 of the Administrative Code, provided, that such premises have been improved by construction or renovation, that expenditures have been made for improvements to such real property in excess of 50% of the value at which such real property was assessed for tax purposes for the tax year in which such improvements commenced and such expenditures have been made within 36 months or, in the case of expenditures for such improvements to such real property in excess of fifty million dollars, within 72 monthsfrom such commencement, that such real property is located in the eligible area, and provided further that no contract to purchase or lease such premises has been entered into prior to May 27 1987;
 
-   (2) Non-residential premises which are:
+(2) Non-residential premises which are:
 
-      (i) wholly contained in or situated on real property which has been leased from the New York City Industrial Development Agency established pursuant to Article 18-A of the General Municipal Law, provided that such premises were constructed or renovated subsequent to the approval of such construction or renovation by such Agency; or
+   (i) wholly contained in or situated on real property which has been leased from the New York City Industrial Development Agency established pursuant to Article 18-A of the General Municipal Law, provided that such premises were constructed or renovated subsequent to the approval of such construction or renovation by such Agency; or
 
-      (ii) wholly contained or situated on real property owned by the city in accordance with the applicable provisions of the New York City Charter, a lease for which was approved, provided that such premises were constructed or renovated subsequent to such approval, or
+   (ii) wholly contained or situated on real property owned by the city in accordance with the applicable provisions of the New York City Charter, a lease for which was approved, provided that such premises were constructed or renovated subsequent to such approval, or
 
-      (iii) wholly contained in or situated on real property which has been leased from the port authority of the State of New York and New Jersey or the New York State Urban Development Corporation, or a subsidiary thereof, provided that such premises were constructed or renovated subsequent to the execution of such lease, or
+   (iii) wholly contained in or situated on real property which has been leased from the port authority of the State of New York and New Jersey or the New York State Urban Development Corporation, or a subsidiary thereof, provided that such premises were constructed or renovated subsequent to the execution of such lease, or
 
-      (iv) wholly contained in real property which would be eligible to receive benefits pursuant to Part 4 of Subchapter 2 of Chapter 2 of Title 11 of the Administrative Code except that such property is exempt from real property taxation; provided that expenditures have been made for improvements to such real property in excess of 50 percent of the value at which such real property was assessed for tax purposes for the tax year in which such improvements commenced and such expenditures have been made within 36 months or, in the case of expenditures for such improvements to such real property in excess of fifty million dollars, within 72 months from the date of such commencement, that such real property is located in the eligible area, and provided further that no contract to purchase or lease such premises has been entered into prior to May 27, 1987.
+   (iv) wholly contained in real property which would be eligible to receive benefits pursuant to Part 4 of Subchapter 2 of Chapter 2 of Title 11 of the Administrative Code except that such property is exempt from real property taxation; provided that expenditures have been made for improvements to such real property in excess of 50 percent of the value at which such real property was assessed for tax purposes for the tax year in which such improvements commenced and such expenditures have been made within 36 months or, in the case of expenditures for such improvements to such real property in excess of fifty million dollars, within 72 months from the date of such commencement, that such real property is located in the eligible area, and provided further that no contract to purchase or lease such premises has been entered into prior to May 27, 1987.
 
-   (3) The determination of whether premises meet the requirements for eligibility set forth in this definition shall be made as of the effective date of the initial certification of eligibility issued pursuant to § 30-02(b) of these rules. Notwithstanding the provisions of paragraphs (1) and (2) of this definition, if, subsequent to such date, the property in which such premises are contained ceases to meet the requirements of paragraphs (1) and (2) of this definition, such premises shall nonetheless remain eligible premises, provided that the eligible business continues to occupy such premises; provided however, that if after such property ceases to meet the requirements of paragraph (1) and (2), an eligible business first leases or purchases additional premises contained in such property, such additional premises shall not be considered eligible premises.
+(3) The determination of whether premises meet the requirements for eligibility set forth in this definition shall be made as of the effective date of the initial certification of eligibility issued pursuant to 19 RCNY § 30-02(b). Notwithstanding the provisions of paragraphs (1) and (2) of this definition, if, subsequent to such date, the property in which such premises are contained ceases to meet the requirements of paragraphs (1) and (2) of this definition, such premises shall nonetheless remain eligible premises, provided that the eligible business continues to occupy such premises; provided however, that if after such property ceases to meet the requirements of paragraph (1) and (2), an eligible business first leases or purchases additional premises contained in such property, such additional premises shall not be considered eligible premises.
 
 Employment share. 
 
-   (1) The term "employment share" means, with respect to each employee, partner or sole proprietor of an eligible business, the sum of
+(1) The term "employment share" means, with respect to each employee, partner or sole proprietor of an eligible business, the sum of
 
-      (i) the number of full-time work weeks worked by such employee, partner or sole proprietor during the eligible business' taxable year, divided by the number of weeks in the taxable year, and
+   (i) the number of full-time work weeks worked by such employee, partner or sole proprietor during the eligible business' taxable year, divided by the number of weeks in the taxable year, and
 
-      (ii) the number of part-time work weeks worked by such employee, partner or sole proprietor during the eligible business' taxable year divided by an amount equal to twice the number of weeks in the taxable year.
+   (ii) the number of part-time work weeks worked by such employee, partner or sole proprietor during the eligible business' taxable year divided by an amount equal to twice the number of weeks in the taxable year.
 
-   (2) An individual will be considered an employee for purposes of these rules if the relationship existing between the eligible business and the individual is that of employer and employee. Generally, the relationship of employer and employee exists when the eligible business has the right to control and direct the individual not only as to the result to be accomplished by him or her but also as to the means by which such result is to be accomplished. If the relationship of employer and employee exists, the designation or description of the relationship is immaterial. The directors of a corporation in their capacity as directors are not employees of an eligible business. Directors of a corporation may be considered employees if, in addition to serving in the capacity of directors, they serve in the capacity of employees.
+(2) An individual will be considered an employee for purposes of these rules if the relationship existing between the eligible business and the individual is that of employer and employee. Generally, the relationship of employer and employee exists when the eligible business has the right to control and direct the individual not only as to the result to be accomplished by him or her but also as to the means by which such result is to be accomplished. If the relationship of employer and employee exists, the designation or description of the relationship is immaterial. The directors of a corporation in their capacity as directors are not employees of an eligible business. Directors of a corporation may be considered employees if, in addition to serving in the capacity of directors, they serve in the capacity of employees.
 
-   (3) (i) As used in this definition, the term "work week" means a period of seven or fewer successive days, beginning with a specified day, which an eligible business has adopted and regularly utilizes as its work week. A full-time work week is a work week during which an employee, partner or sole proprietior has performed at least 35 hours of labor for compensation. A full time work week is attributable to the eligible area if at least 35 hours of labor for compensation are either performed in the eligible area or are attributable to particular premises in the eligible area. A part-time work week is a work week during which an employee, partner or sole proprietor has performed at least 15 but fewer than 35 hours of labor for compensation. A part time work week is attributable to the eligible area if at least 15 but fewer than 35 hours of labor for compensation are either performed in the eligible area or are attributable to particular premises in the eligible area. Hours in excess of 35 worked by an employee, partner or sole proprietor during a work week cannot be carried over and counted during any other work week provided, however, if an employee, partmer or sole proprietor works on a regular compressed time schedule that requires an average of 35 or more hours of labor per week, hours from a week when such schedule provides for more than 35 hours of labor may be carried over and counted during an immediately preceding or succeeding week when such schedule provides for fewer than 35 hours of work.
+(3) (i) As used in this definition, the term "work week" means a period of seven or fewer successive days, beginning with a specified day, which an eligible business has adopted and regularly utilizes as its work week. A full-time work week is a work week during which an employee, partner or sole proprietior has performed at least 35 hours of labor for compensation. A full time work week is attributable to the eligible area if at least 35 hours of labor for compensation are either performed in the eligible area or are attributable to particular premises in the eligible area. A part-time work week is a work week during which an employee, partner or sole proprietor has performed at least 15 but fewer than 35 hours of labor for compensation. A part time work week is attributable to the eligible area if at least 15 but fewer than 35 hours of labor for compensation are either performed in the eligible area or are attributable to particular premises in the eligible area. Hours in excess of 35 worked by an employee, partner or sole proprietor during a work week cannot be carried over and counted during any other work week provided, however, if an employee, partmer or sole proprietor works on a regular compressed time schedule that requires an average of 35 or more hours of labor per week, hours from a week when such schedule provides for more than 35 hours of labor may be carried over and counted during an immediately preceding or succeeding week when such schedule provides for fewer than 35 hours of work.
 
-      (ii) In the case of an employee, partner or sole proprietor who works part of the week within and part of the week without a particular premises, hours are attributable to such particular premises as follows:
+   (ii) In the case of an employee, partner or sole proprietor who works part of the week within and part of the week without a particular premises, hours are attributable to such particular premises as follows:
 
-         (A) If an employee, partner or sole proprietor spends substantially all of his or her time at a particular premises, all hours are attributable to such premises.
+      (A) If an employee, partner or sole proprietor spends substantially all of his or her time at a particular premises, all hours are attributable to such premises.
 
-         (B) If an employee, partner or sole proprietor does not spend substantially all of his or her time at a particular premises, all hours are nonetheless attributable to such premises if the employee, partner or sole proprietor is present at such premises at the beginning or end of each work day and all of the employee's, partner's or sole proprietor's time spent outside of such premises relates primarily to business operations carried on at such premises, provided that hours worked at a particular premises cannot be attributed by reason of this subparagraph to another particular premises maintained by the same eligible business. If an eligible business has both eligible and non-eligible premises in the same building, hours worked at the non-eligible premises cannot be attributed by reason of this subparagraph (ii)(B) to the eligible premises.
+      (B) If an employee, partner or sole proprietor does not spend substantially all of his or her time at a particular premises, all hours are nonetheless attributable to such premises if the employee, partner or sole proprietor is present at such premises at the beginning or end of each work day and all of the employee's, partner's or sole proprietor's time spent outside of such premises relates primarily to business operations carried on at such premises, provided that hours worked at a particular premises cannot be attributed by reason of this subparagraph to another particular premises maintained by the same eligible business. If an eligible business has both eligible and non-eligible premises in the same building, hours worked at the non-eligible premises cannot be attributed by reason of this subparagraph (ii)(B) to the eligible premises.
 
-         (C) If neither subparagraph (ii)(A) or (ii)(B) of this paragraph (3) applies, only hours worked at a particular premises are attributable to such premises.
+      (C) If neither subparagraph (ii)(A) or (ii)(B) of this paragraph (3) applies, only hours worked at a particular premises are attributable to such premises.
 
-      (iii) Time not actually worked by an employee, partner or sole proprietor due to vacation, sick leave or other leave may nevertheless be counted as time worked by that employee, partner or sole proprietor provided
+   (iii) Time not actually worked by an employee, partner or sole proprietor due to vacation, sick leave or other leave may nevertheless be counted as time worked by that employee, partner or sole proprietor provided
 
-         (A) such vacation, sick leave or other leave time is granted pursuant to an established policy of the eligible business which is applied uniformly to all employees, partners or sole proprietors of the business or to all employees, partners or sole proprietors within a specific class, and
+      (A) such vacation, sick leave or other leave time is granted pursuant to an established policy of the eligible business which is applied uniformly to all employees, partners or sole proprietors of the business or to all employees, partners or sole proprietors within a specific class, and
 
-         (B) the employee, partner or sole proprietor continues to receive his or her regular rate of pay during such vacation, sick leave or other leave. Such time shall be attributed to the eligible area and the eligible premises in the same proportion as the number of work weeks actually worked by an employee, partner or sole proprietor attributable to the eligible area and eligible premises bears to the total number of work weeks actually worked by the employee, partner or sole proprietor in the taxable year in question. Terminal leave preceding the termination of an employee's, partner's or sole proprietor's employment may not be counted as time worked by the employee, partner or sole proprietor. A work week which begins in one taxable year and ends in the following taxable year shall be treated as a work week in the taxable year in which it ends.
+      (B) the employee, partner or sole proprietor continues to receive his or her regular rate of pay during such vacation, sick leave or other leave. Such time shall be attributed to the eligible area and the eligible premises in the same proportion as the number of work weeks actually worked by an employee, partner or sole proprietor attributable to the eligible area and eligible premises bears to the total number of work weeks actually worked by the employee, partner or sole proprietor in the taxable year in question. Terminal leave preceding the termination of an employee's, partner's or sole proprietor's employment may not be counted as time worked by the employee, partner or sole proprietor. A work week which begins in one taxable year and ends in the following taxable year shall be treated as a work week in the taxable year in which it ends.
 
-      (iv) The operation of this paragraph (3) is illustrated by the following examples:
+   (iv) The operation of this paragraph (3) is illustrated by the following examples:
 
 Example 1: X, an employee of ABC Corporation, an eligible business having one eligible premises, works 40 hours a week driving a truck and making deliveries. X loads his truck every morning at ABC Corp.'s eligible premises and spends the rest of his time making deliveries outside the eligible area. Since X starts each day at the eligible premises and spends the rest of his time on deliveries from the eligible premises, all of his time will be attributable to the eligible premises. Thus, ABC Corp. may count a full time work week in the eligible area and at the eligible premises with respect to each week worked by X.
 
@@ -17108,45 +17180,45 @@ Example 3: Z, a salesman, spends substantially all of his time in Alaska selling
 
 Example 4: E, an executive of ABC Corp., spends 16 hours a week at ABC Corp.'s eligible premises and 25 hours at the premises outside the eligible area. Only 16 hours (i.e., a part-time work week) are attributable to the eligible premises.
 
-      (v) It shall be within the discretion of the Commissioner to determine whether hours worked by an employee, partner or sole proprietor outside of eligible premises maintained by the eligible business have been fairly apportioned within and without the eligible area, and within and without the eligible premises.
+   (v) It shall be within the discretion of the Commissioner to determine whether hours worked by an employee, partner or sole proprietor outside of eligible premises maintained by the eligible business have been fairly apportioned within and without the eligible area, and within and without the eligible premises.
 
-   (4) In the case of an employee, partner or sole proprietor with work weeks both within and without the eligible area in a given taxable year, the employment shares maintained by the eligible business within the eligible area with respect to the employee shall be the sum of
+(4) In the case of an employee, partner or sole proprietor with work weeks both within and without the eligible area in a given taxable year, the employment shares maintained by the eligible business within the eligible area with respect to the employee shall be the sum of
 
-      (i) the number of full-time work weeks worked by the employee, partner or sole proprietor during the eligible business' taxable year attributable to the eligible area divided by the number of weeks in the taxable year, and
+   (i) the number of full-time work weeks worked by the employee, partner or sole proprietor during the eligible business' taxable year attributable to the eligible area divided by the number of weeks in the taxable year, and
 
-      (ii) the number of part-time work weeks worked by such employee, partner or sole proprietor during the eligible business' taxable year attributable to the eligible area divided by an amount equal to twice the number of weeks in the taxable year.
+   (ii) the number of part-time work weeks worked by such employee, partner or sole proprietor during the eligible business' taxable year attributable to the eligible area divided by an amount equal to twice the number of weeks in the taxable year.
 
-   (5) In the case of an employee, partner or sole proprietor with work weeks both within and without the eligible premises in a given taxable year, the employment shares maintained by the eligible business within the eligible premises with respect to the employee, partner or sole proprietor shall be the sum of
+(5) In the case of an employee, partner or sole proprietor with work weeks both within and without the eligible premises in a given taxable year, the employment shares maintained by the eligible business within the eligible premises with respect to the employee, partner or sole proprietor shall be the sum of
 
-      (i) the number of full-time work weeks worked by the employee, partner or sole proprietor during the eligible business' taxable year attributable to the eligible premises divided by the number of weeks in the taxable year and
+   (i) the number of full-time work weeks worked by the employee, partner or sole proprietor during the eligible business' taxable year attributable to the eligible premises divided by the number of weeks in the taxable year and
 
-      (ii) the number of part-time work weeks worked by such employee, partner or sole proprietor during the eligible business' taxable year attributable to the eligible premises divided by an amount equal to twice the number of weeks in the taxable year.
+   (ii) the number of part-time work weeks worked by such employee, partner or sole proprietor during the eligible business' taxable year attributable to the eligible premises divided by an amount equal to twice the number of weeks in the taxable year.
 
 Expenditure. "Expenditure" shall mean an amount actually paid, incurred, or provided in kind to improve the real property which in part improves the premises. Expenditures may include those made for: construction contracts, materials, labor, rental equipment, insurance, permit fees and other direct expenses of construction; installation of partitions and other tenant work by or for the first tenant or occupant of new or substantially renovated space; architectural, engineering, construction management, legal, accounting and other services rendered in connection with the construction work; marketing, brokerage, legal and other services rendered in connection with the initial leasing or sale of eligible property created or substantially renovated by eligible construction work; interest on construction loans, insurance and other fixed costs arising during the course of construction; and fees for connection to existing sewer, water or utility lines. Expenditures shall not include the costs of acquiring the site.
 
 Hotel services. "Hotel services" shall mean:
 
-   (1) Any services which consist predominantly of the lodging of guests at a building or a portion thereof which is regularly used and kept open for such services. The term "hotel services" shall include the lodging of guests at an apartment hotel, a hotel, boarding house or club, whether or not meals are served.
+(1) Any services which consist predominantly of the lodging of guests at a building or a portion thereof which is regularly used and kept open for such services. The term "hotel services" shall include the lodging of guests at an apartment hotel, a hotel, boarding house or club, whether or not meals are served.
 
-   (2) Services at any particular eligible premises shall be deemed to consist predominantly of hotel services if either 50 percent or more of total floor space at such premises is devoted to the lodging of guests as described in paragraph (1) of this definition, or if 50 percent or more of the work hours of employees of the eligible business at such premises are devoted to such lodging of guests.
+(2) Services at any particular eligible premises shall be deemed to consist predominantly of hotel services if either 50 percent or more of total floor space at such premises is devoted to the lodging of guests as described in paragraph (1) of this definition, or if 50 percent or more of the work hours of employees of the eligible business at such premises are devoted to such lodging of guests.
 
 Particular premises. "Particular premises" shall mean all premises occupied by an eligible business within a single building except that if there are eligible and non-eligible premises in the same building, such eligible and non-eligible premises constitute separate particular premises.
 
 Person. "Person" shall mean any individual, partnership, association, joint-stock company, corporation, estate or trust, and any combination of the foregoing.
 
-Relocate. "Relocate" shall mean to transfer pre-existing business operations which are not retail activities or hotel services to premises that are or will become eligible premises, or the establishment of new business operations which are not retail activities or hotel services at such premises, provided that a relocation will not be deemed to have taken place unless at least one employee, partner or sole proprietor of the eligible business is transferred to such premises from pre-existing business operations outside the eligible area. The date of relocation to any particular premises shall be any date elected by the eligible business is transferred to the particular premises from a pre-existing business location outside the eligible area and begins to work at such premises, provided that such date is subsequent to the date of the commencement of immprovements to real property in which such premises are located, which improvements will meet the requirements in the definition of "eligible premises" of these rules relating to expenditures for improvements, and provided further that such date is prior to the date of issuance of an initial certification of eligibility pursuant to § 30-02 of these rules. No claim for credit or refund of an overpayment of tax shall be allowed under this definition which is otherwise barred by any statute of limitations. The election provided for in this section shall be irrevocable.
+Relocate. "Relocate" shall mean to transfer pre-existing business operations which are not retail activities or hotel services to premises that are or will become eligible premises, or the establishment of new business operations which are not retail activities or hotel services at such premises, provided that a relocation will not be deemed to have taken place unless at least one employee, partner or sole proprietor of the eligible business is transferred to such premises from pre-existing business operations outside the eligible area. The date of relocation to any particular premises shall be any date elected by the eligible business is transferred to the particular premises from a pre-existing business location outside the eligible area and begins to work at such premises, provided that such date is subsequent to the date of the commencement of immprovements to real property in which such premises are located, which improvements will meet the requirements in the definition of "eligible premises" of these rules relating to expenditures for improvements, and provided further that such date is prior to the date of issuance of an initial certification of eligibility pursuant to 19 RCNY § 30-02. No claim for credit or refund of an overpayment of tax shall be allowed under this definition which is otherwise barred by any statute of limitations. The election provided for in this section shall be irrevocable.
 
 Retail activity. "Retail activity" shall mean:
 
-   (1) Any activity which consists predominantly of the sale, other than through the mail, of tangible personal property to any person, for any purpose unrelated to the trade or business of such person, or which consists predominantly of the selling of services to individuals which generally involve the physical care of the personal property of any person unrelated to the trade or business of such person, or which consists predominantly of the provision of retail banking services.
+(1) Any activity which consists predominantly of the sale, other than through the mail, of tangible personal property to any person, for any purpose unrelated to the trade or business of such person, or which consists predominantly of the selling of services to individuals which generally involve the physical care of the personal property of any person unrelated to the trade or business of such person, or which consists predominantly of the provision of retail banking services.
 
-   (2) Activity at any particular premises shall be deemed to be predominantly retail activity if either 50 percent or more of total floor space at such premises is utilized for such sales or services described in paragraph (1) of this definition, or if 50 percent or more of total employee work hours at such premises are devoted to such sales or services.
+(2) Activity at any particular premises shall be deemed to be predominantly retail activity if either 50 percent or more of total floor space at such premises is utilized for such sales or services described in paragraph (1) of this definition, or if 50 percent or more of total employee work hours at such premises are devoted to such sales or services.
 
 Taxable Year. "Taxable year" shall mean:
 
-   (1) For purposes of the reduction in base rent allowed by subdivision (i) of § 11-503, subdivision 17 of § 11-604 of § 11-643.7 of the Administrative Code, the term "taxable year" means the taxable year on the basis of which the taxpayer reports for purposes of banking corporation tax imposed by chapter 5 and subchapters 2 and 3 of chapter 6 of title 11 of the Code.
+(1) For purposes of the reduction in base rent allowed by subdivision (i) of § 11-503, subdivision 17 of § 11-604 of § 11-643.7 of the Administrative Code, the term "taxable year" means the taxable year on the basis of which the taxpayer reports for purposes of banking corporation tax imposed by chapter 5 and subchapters 2 and 3 of chapter 6 of title 11 of the Code.
 
-   (2) For purposes of reduction in base rent allowed by subdivision f of § 11-704 of the Code, the term "taxable year" means the annual reporting period for commercial tax rent purposes, which is the period beginning on June 1 of a calendar year and ending on May 31, of the following calendar year; however, for taxpayers that are subject to the unincorporated business tax, the general corporation tax or the banking corporation tax, when the taxable year refered to is the base year, it shall mean the taxable year on the bases of which the taxpayer reports for purposes of the unincorporated business tax, the general corporation tax or the bankin corporation tax.
+(2) For purposes of reduction in base rent allowed by subdivision f of § 11-704 of the Code, the term "taxable year" means the annual reporting period for commercial tax rent purposes, which is the period beginning on June 1 of a calendar year and ending on May 31, of the following calendar year; however, for taxpayers that are subject to the unincorporated business tax, the general corporation tax or the banking corporation tax, when the taxable year refered to is the base year, it shall mean the taxable year on the bases of which the taxpayer reports for purposes of the unincorporated business tax, the general corporation tax or the bankin corporation tax.
 
 
 
@@ -17162,11 +17234,11 @@ Taxable Year. "Taxable year" shall mean:
 
 (c) Before receiving a credit against the general corporation tax, unincorporated business tax or the banking corporation tax in any taxable year, an eligible business must obtain an annual certification from the Department of Finance of the number of eligible aggregate employment shares maintained by such eligible business in the eligible area and in each particular premises to which it has relocated for the eligible business' taxable year.
 
-(d) Before a reduction in base rent may be authorized in any tax year, the taxpayer must obtain an annual certification of the number of eligible aggregate employment shares maintained by such eligible business in the eligible area and in each particular premises to which it has relocated for the eligible business' commercial rent tax year. The taxpayer may claim an estimated reduction on its quarterly commercial rent tax returns pursuant to § 30-08 of these rules prior to receiving such annual certification.
+(d) Before a reduction in base rent may be authorized in any tax year, the taxpayer must obtain an annual certification of the number of eligible aggregate employment shares maintained by such eligible business in the eligible area and in each particular premises to which it has relocated for the eligible business' commercial rent tax year. The taxpayer may claim an estimated reduction on its quarterly commercial rent tax returns pursuant to 19 RCNY § 30-08 prior to receiving such annual certification.
 
 (e) With regard to the initial certifications specified in subdivision (b) of this section, an eligible business may contest a denial of eligibility or contest the number of aggregate employment shares certified by the Department of Finance by appealing in writing to the Commissioner of Finance within 90 days of such denial of eligibility or certification of shares.
 
-(f) No initial certification with regard to particular premises shall be issued until such premises meet the requirements for qualification as eligible premises contained in the definition of eligible premises in § 30-01 of these rules. After such certification has been issued, a credit or base rent reduction may be taken retroactively to the year of relocation for any taxable year which has not been closed by a statute of limitations. No initial certification of eligibility shall be issued to an eligible business on or after July 1, 1999 unless such business meets the requirements of either paragraph one or two below:
+(f) No initial certification with regard to particular premises shall be issued until such premises meet the requirements for qualification as eligible premises contained in the definition of eligible premises in 19 RCNY § 30-01. After such certification has been issued, a credit or base rent reduction may be taken retroactively to the year of relocation for any taxable year which has not been closed by a statute of limitations. No initial certification of eligibility shall be issued to an eligible business on or after July 1, 1999 unless such business meets the requirements of either paragraph one or two below:
 
    (1) (i) Prior to such date such business has purchased, leased or entered into a contract to purchase or lease particular premises or a parcel on which will be constructed such premises, or already owned such premises or parcel;
 
@@ -17200,7 +17272,7 @@ An eligible business receiving benefits under this program will not be rendered 
 *§ 30-04 Unincorporated Business Tax Credit.* ::
 
 
-(a) The amount of the unincorporated business tax credit authorized by § 30-02 of these rules is determined by multiplying $500 by the number of eligible aggregate employment shares maintained during the taxable year by the taxpayer with respect to particular premises to which the taxpayer has relocated during the taxable year, provided, however, that no credit shall be allowed for the relocation of any retail activity or hotel services.
+(a) The amount of the unincorporated business tax credit authorized by 19 RCNY § 30-02 is determined by multiplying $500 by the number of eligible aggregate employment shares maintained during the taxable year by the taxpayer with respect to particular premises to which the taxpayer has relocated during the taxable year, provided, however, that no credit shall be allowed for the relocation of any retail activity or hotel services.
 
 (b) The credit allowed under this section with respect to eligible aggregate employment shares maintained during the taxable year with respect to particular premises to which the taxpayer has relocated shall be allowed for the first taxable year during which such eligible aggregate employment shares are maintained with respect to such premises and for any of the eleven succeeding taxable years during which the eligible aggregate employment shares are maintained with respect to such premises. If the amount of the credit allowable under this section for any taxable year exceeds the tax imposed for such year, the excess may be carried over, in order, to the five immediately succeeding taxable years and, to the extent not previously deductible, may be deducted from the taxpayer's tax for such years. For any taxable year in which there are carryover credits, the credit for the taxable year shall be taken first, followed by the carryover credits, in order starting with the earliest applicable year.
 
@@ -17214,7 +17286,7 @@ An eligible business receiving benefits under this program will not be rendered 
 *§ 30-05 General Corporation Tax Credit.* ::
 
 
-(a) The amount of the general corporation tax credit authorized by § 30-02 of these rules is determined by multiplying $500 by the number of eligible aggregate employment shares maintained during the taxable year by the taxpayer with respect to particular premises during the taxable year by the taxpayer with respect to particular premises to which the tax payer has relocated, provided, however, that no credit shall be allowed for the relocation of any retail activity or hotel services.
+(a) The amount of the general corporation tax credit authorized by 19 RCNY § 30-02 is determined by multiplying $500 by the number of eligible aggregate employment shares maintained during the taxable year by the taxpayer with respect to particular premises during the taxable year by the taxpayer with respect to particular premises to which the tax payer has relocated, provided, however, that no credit shall be allowed for the relocation of any retail activity or hotel services.
 
 (b) The credit allowed under this section with respect to eligible aggregate employment shares maintained during the taxable year with respect to particular premises to which the taxpayer has relocated shall be allowed for the first taxable year during which such eligible aggregate employment shares are maintained with respect to such premises and for any of the eleven succeeding taxable years during which the eligible aggregate employment shares are maintained with respect to such premises. If the amount of the credit allowable under this section for any taxable year exceeds the tax imposed for such year, the excess may be carried over, in order, to the five immediately succeeding taxable years and, to the extent not previously deductible, may be deducted from the taxpayer's tax for such years. For any taxable year in which there are carryover credits, the credit for the taxable year shall be taken first, followed by the carryover credits, in order starting with the earliest applicable year.
 
@@ -17230,7 +17302,7 @@ An eligible business receiving benefits under this program will not be rendered 
 *§ 30-06 Banking Corporation Tax Credit.* ::
 
 
-(a) The amount of the banking corporation tax credit authorized by § 30-02 of these rules is determined by multiplying $500 by the number of eligible aggregate employment shares maintained during the taxable year by the taxpayer with respect to particular premises to which the taxpayer has relocated, provided, however, that no credit shall be allowed for the relocation of any retail activity or hotel services.
+(a) The amount of the banking corporation tax credit authorized by 19 RCNY § 30-02 is determined by multiplying $500 by the number of eligible aggregate employment shares maintained during the taxable year by the taxpayer with respect to particular premises to which the taxpayer has relocated, provided, however, that no credit shall be allowed for the relocation of any retail activity or hotel services.
 
 (b) The credit allowed under this section with respect to eligible aggregate employment shares maintained with respect to particular premises to which the taxpayer has relocated shall be allowed for the first taxable year during which such eligible aggregate employment shares are maintained with respect to such premises and for any of the eleven succeeding taxable years during which the eligible aggregate employment shares are maintained with respect to such premises. If the amount of the credit allowable under this section for any taxable year exceeds the tax imposed for such year, the excess may be carried over, in order, to the five immediately succeeding taxable years and, to the extent not previously deductible, may be deducted from the taxpayer's tax for such years. For any taxable year in which there are carryover credits, the credit for the taxable year shall be taken first, followed by the carryover credits, in order starting with the earliest applicable year.
 
@@ -17246,13 +17318,13 @@ An eligible business receiving benefits under this program will not be rendered 
 *§ 30-07 Commercial Rent Tax Base Rent Reduction.* ::
 
 
-(a) For each particular eligible premises occupied by a tenant which has obtained the certification required by § 30-02 of these regulations, base rent shall be reduced by an amount determined by multiplying such base rent by a fraction, the numerator of which is the number of eligible aggregate employment shares maintained by such tenant at such eligible premises in the tax year for which the reduction is claimed and the denominator of which is a number equal to the number of aggregate employment shares maintained by such tenant in such eligible premises in such tax year, provided that the denominator shall not exceed the highest number of aggregate employment shares maintained by such eligible tenant in such eligible premises in the tax year during which such tenant relocates to such eligible premises and in each of the three immediately succeeding tax years.
+(a) For each particular eligible premises occupied by a tenant which has obtained the certification required by 19 RCNY § 30-02, base rent shall be reduced by an amount determined by multiplying such base rent by a fraction, the numerator of which is the number of eligible aggregate employment shares maintained by such tenant at such eligible premises in the tax year for which the reduction is claimed and the denominator of which is a number equal to the number of aggregate employment shares maintained by such tenant in such eligible premises in such tax year, provided that the denominator shall not exceed the highest number of aggregate employment shares maintained by such eligible tenant in such eligible premises in the tax year during which such tenant relocates to such eligible premises and in each of the three immediately succeeding tax years.
 
-(b) For purposes of calculating eligible aggregate employment shares as specified in § 30-01 "Aggregate employment shares" (1) of these regulations, aggregate employment shares in the eligible area and eligible premises for the tax year for which reduction is claimed shall be determined on the basis of the commercial rent tax annual reporting period; however, the aggregate employment shares within the eligible area, within the eligible premises and outside the eligible area for the year prior to relocation shall be calculated on the basis of the taxpayer's taxable year for the general corporation tax, unincorporated business tax or banking corporation tax (whichever is applicable) immediately preceding the taxable year of the relocation to the eligible area or the eligible premises in question.
+(b) For purposes of calculating eligible aggregate employment shares as specified in 19 RCNY § 30-01 "Aggregate employment shares" (1), aggregate employment shares in the eligible area and eligible premises for the tax year for which reduction is claimed shall be determined on the basis of the commercial rent tax annual reporting period; however, the aggregate employment shares within the eligible area, within the eligible premises and outside the eligible area for the year prior to relocation shall be calculated on the basis of the taxpayer's taxable year for the general corporation tax, unincorporated business tax or banking corporation tax (whichever is applicable) immediately preceding the taxable year of the relocation to the eligible area or the eligible premises in question.
 
 (c) Base rent may be reduced as provided in this section for the tax year during which the tenant relocates to eligible premises and for any of the eleven immediately succeeding tax years during which the tenant maintains eligible aggregate employment shares with respect to such eligible premises, provided, however, that there shall be no reduction with respect to base rent for any part of the tax year preceding the date of relocation to such eligible premises.
 
-Example 1: X, a calendar year taxpayer, relocated to eligible premises on June 1, 1989 and received the certifications required by § 30-02 of these regulations. X's annual rent for the eligible premises is $100,000. During 1988, X had 100 employees at the eligible premises and another 100 employees at another premises in Manhattan south of 96th Street. On June 1, 1989 (the date of the relocation), X moved all 100 employees from Manhattan to the eligible premises.
+Example 1: X, a calendar year taxpayer, relocated to eligible premises on June 1, 1989 and received the certifications required by 19 RCNY § 30-02. X's annual rent for the eligible premises is $100,000. During 1988, X had 100 employees at the eligible premises and another 100 employees at another premises in Manhattan south of 96th Street. On June 1, 1989 (the date of the relocation), X moved all 100 employees from Manhattan to the eligible premises.
 
 The fraction by which base rent is reduced in the tax year June 1, 1989 to May 31, 1990, is computed as follows: (Assume that the tax year has exactly 52 weeks, that each quarter has exactly 13 weeks, and that all employees work full time during the entire tax year.) The numerator of the fraction is the number of eligible aggregate employment shares in the eligible premises. The number of eligible aggregate employment shares is the number of aggregate employment shares in the area in the tax year in question less the number of aggregate employment shares in the eligible area in the taxable year preceding the taxable year of relocation (subject to limitations). During the commercial rent tax year June 1, 1989 to May 31, 1990, X maintained 200 employees at the eligible premises, each of whom worked 52 weeks. The number of aggregate employment shares for the tax year is 200 (200 employees times 52 weeks worked by each employee, divided by 52 weeks). During calendar year 1988 (the taxable year preceding the taxable year of relocation), X maintained 100 employees at the eligible premises, each of whom worked 52 weeks. The number of aggregate employment shares for 1988 is 100 (100 employees × 52/52). The numerator of the fraction (the number of aggregate employment shares) is 100 . The denominator (the number of aggregate employment shares in the eligible premises in the tax year) is 200.
 
@@ -17268,13 +17340,13 @@ Example 2: Assume the same facts as in example 1, except that the relocation tak
 *§ 30-08 Quarterly Reductions.* ::
 
 
-A tenant who has received the initial certification required by § 30-02 of these rules may reduce its base rent for premises to which it has relocated on an estimated basis on the returns filed for the quarterly tax periods ending on the last days of August, November and February of the tax year. Such rent reduction shall be computed in the same manner as the annual rent reduction except that, in determining the numerator and denominator of the fraction by which base rent is reduced, the number of employment shares for each employee for the quarter in question is the sum of
+A tenant who has received the initial certification required by 19 RCNY § 30-02 of these rules may reduce its base rent for premises to which it has relocated on an estimated basis on the returns filed for the quarterly tax periods ending on the last days of August, November and February of the tax year. Such rent reduction shall be computed in the same manner as the annual rent reduction except that, in determining the numerator and denominator of the fraction by which base rent is reduced, the number of employment shares for each employee for the quarter in question is the sum of
 
 (a) the number of full-time work weeks worked by such employee during the eligible business' tax year until the end of such quarter divided by the number of weeks in the tax year to the end of such quarter and
 
 (b) the number of part-time work weeks worked by such employee during the eligible business' tax year until the end of such quarter divided by an amount equal to twice the number of weeks in the tax year to the end of such quarter.
 
-To illustrate: Assume the same facts as in example 2 of § 30-07. The rent reduction for the third quarter ending February 28, 1990 is computed as follows: (Assume 13 weeks in each quarter).
+To illustrate: Assume the same facts as in example 2 of 19 RCNY § 30-07. The rent reduction for the third quarter ending February 28, 1990 is computed as follows: (Assume 13 weeks in each quarter).
 
 There are 100 employees in the eligible premises for 39 weeks  and 100 additional employees in the eligible premises for 26 weeks . Aggregate employment shares until the end of the third quarter equals:
 
@@ -17298,9 +17370,9 @@ Assuming that the base rent for the quarter ending February 28 is $25,000 (i.e.,
 *§ 30-09 Apportionment of Reduction.* ::
 
 
-To determine the percentage reduction of base rent at a particular premises to which the taxpayer has relocated where the taxpayer has more than one such premises, the taxpayer must first calculate the total number of eligible aggregate employment shares pursuant to § 30-01 "Aggregate employment shares" (1) of these rules. The eligible aggregate employment shares must then be apportioned between the premises so that for each particular premises the apportioned eligible aggregate employment shares is in the same proportion to total eligible aggregate employment shares as the maximum number of eligible aggregate employment shares for that particular premises pursuant to the limitations delineated in §§ 30-01 "Aggregate employment shares" (1)(ii)(A) and (1)(ii)(B) of these rules is to the sum of the maximum number of eligible aggregate employment shares for all premises to which the taxpayer has relocated pursuant to these limitations.
+To determine the percentage reduction of base rent at a particular premises to which the taxpayer has relocated where the taxpayer has more than one such premises, the taxpayer must first calculate the total number of eligible aggregate employment shares pursuant to 19 RCNY § 30-01 "Aggregate employment shares" (1). The eligible aggregate employment shares must then be apportioned between the premises so that for each particular premises the apportioned eligible aggregate employment shares is in the same proportion to total eligible aggregate employment shares as the maximum number of eligible aggregate employment shares for that particular premises pursuant to the limitations delineated in 19 RCNY § 30-01 "Aggregate employment shares" (1)(ii)(A) and (1)(ii)(B) is to the sum of the maximum number of eligible aggregate employment shares for all premises to which the taxpayer has relocated pursuant to these limitations.
 
-Example: Y, a company with 1,000 employees outside the eligible area in the base year, has relocated to two eligible premises denoted PI and P2. The columns below headed P1 and P2 indicate the number of aggregate employment shares in each premises in the designated year. The column headed NE shows aggregate employment shares in the eligible area which are not in eligible premises. The column headed TA shows total aggregate employment shares in the eligible area. The base year is the taxable year preceding the taxable year of the relocation.
+Example: Y, a company with 1,000 employees outside the eligible area in the base year, has relocated to two eligible premises denoted PI and P2. The columns below headed P1 and P2 indicate the number of aggregate employment shares in each premises in the designated year. The column headed NE shows aggregate employment shares in the eligible area which are not in eligible premises. The column headed TA shows total aggregate employment shares in the eligible area. The base year is the taxable year preceding the taxable year of the relocation. 
 
  
 
@@ -17314,27 +17386,27 @@ Example: Y, a company with 1,000 employees outside the eligible area in the base
       - NE 
       - TA 
     * - Base Year 
-      -   10 
-      -   0 
+      - 10 
+      - 0 
       - 90 
       - 100 
     * - 1 
-      -   85 
+      - 85 
       - 65 
       - 50 
       - 200 
     * - 2 
-      -   85 
+      - 85 
       - 65 
       - 50 
       - 200 
     * - 3 
-      -   85 
+      - 85 
       - 65 
       - 50 
       - 200 
     * - 4 
-      -   85 
+      - 85 
       - 65 
       - 50 
       - 200 
@@ -17351,11 +17423,11 @@ Example: Y, a company with 1,000 employees outside the eligible area in the base
 
 The following computation illustrates the percentage base rent deduction for Year 5:
 
-Step (1) – Compute eligible aggregate employment shares for Year 5 (basic computation – see: § 30-01 "Aggregate employment shares" (1)(i).
+Step (1) – Compute eligible aggregate employment shares for Year 5 (basic computation – see: 19 RCNY § 30-01 "Aggregate employment shares" (1)(i).
 
 Eligible aggregate employment shares (subject to limitations) equals 115 (215 aggregate employment shares in the eligible area in the tax year less 100 aggregate employment shares in the eligible area in the taxable year preceding the taxable year of relocation).
 
-Step (2) – Premises Limitations (See: § 30-01 "Aggregate employment shares" (1)(iii)) Determine the lesser of Limitations 1 and 2 specified in § 30-01 "Aggregate employment shares" (1)(ii) for each premises. Eligible aggregate employment shares cannot exceed the sum of the limitations so determined for all premises (See: § 30-01 "Aggregate employment shares (1)(iii)).
+Step (2) – Premises Limitations (See: 19 RCNY § 30-01 "Aggregate employment shares" (1)(iii)) Determine the lesser of Limitations 1 and 2 specified in 19 RCNY § 30-01 "Aggregate employment shares" (1)(ii) for each premises. Eligible aggregate employment shares cannot exceed the sum of the limitations so determined for all premises (See: 19 RCNY § 30-01 "Aggregate employment shares (1)(iii)).
 
 For P1, Limitation 2 is the lesser limitation. For P2, Limitation 1 is the lesser limitation. The computation is as follows: P1 85 aggregate employment shares (highest number in first 4 years) less 10 shares (number at premises in year prior to relocation) = 75
 
@@ -17363,7 +17435,7 @@ P2 55 aggregate employment shares (number in year 5), less 0 shares (number at p
 
 Sum of the limitations for P1 and P2 = 130 Since this sum is greater than the 115 shares determined in the basic computation (Step 1), it does not reduce the number of eligible aggregate employment shares. However, it is used for the apportionment of the eligible aggregate employment shares.
 
-Step (3) – Limitation 3 § 30-01 "Aggregate employment shares" (1)(ii)(c). Limitation 3 equals 2000 shares and is, therefore, not applicable.
+Step (3) – Limitation 3 19 RCNY § 30-01 "Aggregate employment shares" (1)(ii)(c). Limitation 3 equals 2000 shares and is, therefore, not applicable.
 
 Step (4) – Apportionment The 115 eligible aggregate employment shares are apportioned to the two premises in the same ratio as the maximum number of eligible aggregate employment shares for each premises bears to the sum of the maximum number of such shares for all premises. Thus, the number of shares apportioned to P1 is computed as follows: 75/130 × 115 = 66.35 shares. The number of shares apportioned to P2 is computed as follows: 55/130 × 115 = 48.65 shares.
 
@@ -17382,7 +17454,7 @@ Chapter 31: Adjudications
 *§ 31-01 Adjudications Conducted by the Department.* ::
 
 
-Pursuant to New York City Charter §§ 1041 and 1046-1048, the Department of Finance has determined that the following adjudications shall be conducted by the Department: Contested cases that pertain to excise and non-property taxes imposed or administered by the City under New York City Administrative Code, Title 11, Chapters 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 21, 22, 24, 25 and 27 and any other tax laws as may hereinafter be enacted requiring administration and/or collection by the Commissioner of Finance.
+Pursuant to New York City Charter §§ 1041 and 1046 - 1048, the Department of Finance has determined that the following adjudications shall be conducted by the Department: Contested cases that pertain to excise and non-property taxes imposed or administered by the City under New York City Administrative Code, Title 11, Chapters 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 21, 22, 24, 25 and 27 and any other tax laws as may hereinafter be enacted requiring administration and/or collection by the Commissioner of Finance.
 
 
 
@@ -17508,7 +17580,7 @@ Chapter 33: Filing of Income and Expense Statements
 
    (2) The following properties are not considered income-producing property for the purpose of these regulations and owners of such properties may, but are not required to, file income and expense statements pursuant to § 11-208.1 of the Administrative Code:
 
-      (i) property with a tentative actual assessed valuation of $40,000 or less on the tentative assessment roll promulgated in the year that the income and expense statement would otherwise be required to be filed pursuant to subdivision (a) of section 33-02 of these rules; notwithstanding the preceding sentence, owners are not required to file income and expense statements if the actual assessed valuation for such tax year is subsequently reduced to $40,000 or less;
+      (i) property with a tentative actual assessed valuation of $40,000 or less on the tentative assessment roll promulgated in the year that the income and expense statement would otherwise be required to be filed pursuant to subdivision (a) of 19 RCNY § 33-02; notwithstanding the preceding sentence, owners are not required to file income and expense statements if the actual assessed valuation for such tax year is subsequently reduced to $40,000 or less;
 
       (ii) residential property containing ten or fewer dwelling units;
 
@@ -17981,11 +18053,11 @@ Code. "Code" means the Administrative Code of the City of New York.
 
 Commissioner of Finance. "Commissioner of Finance" means the Commissioner of Finance of the City of New York.
 
-Compromise agreement. "Compromise agreement" means the agreement between the Department and the taxpayer as described in subdivision (b) of section 34-06 of these Rules.
+Compromise agreement. "Compromise agreement" means the agreement between the Department and the taxpayer as described in subdivision (b) of 19 RCNY § 34-06.
 
 Compromise amount. "Compromise amount" means the total amount required to be paid in accordance with the terms of the compromise agreement.
 
-Conciliation Bureau. "Conciliation Bureau" means the Conciliation Bureau of the Department of Finance of the City of New York established under section 38-02 of these rules as authorized by section 11-124 of the Code.
+Conciliation Bureau. "Conciliation Bureau" means the Conciliation Bureau of the Department of Finance of the City of New York established under 19 RCNY § 38-02 as authorized by section 11-124 of the Code.
 
 Department. "Department" means the Department of Finance of the City of New York.
 
@@ -18003,7 +18075,7 @@ Statutory notice. "Statutory notice" means any written notice of the Commissione
 
 Taxpayer. "Taxpayer" shall mean the person or persons primarily liable for a tax or a vault charge, including interest, penalties and additions to the tax or charge, and any person who is or may be secondarily liable for any such tax or charge under any provision of title 11 of the Code or any other provision of law, including any person liable under any trust fund relationship with the City or as a transferee of or successor-in-interest to any other person liable for the tax or charge.
 
-Tribunal. "Tribunal" shall mean the New York City Tax Appeals Tribunal as defined in Section 1 of Chapter 1 of Title 20 of these Rules.
+Tribunal. "Tribunal" shall mean the New York City Tax Appeals Tribunal as defined in 20 RCNY § 1-02.
 
 
 
@@ -18047,7 +18119,7 @@ Tribunal. "Tribunal" shall mean the New York City Tax Appeals Tribunal as define
 
       (v) a brief indication of the grounds for the offer-in-compromise; and
 
-      (vi) the taxpayer's agreement to comply with the Department's general conditions for accepting the offer-in-compromise (see subdivision (d) of section 34-05 of these Rules).
+      (vi) the taxpayer's agreement to comply with the Department's general conditions for accepting the offer-in-compromise (see subdivision (d) of 19 RCNY § 34-05).
 
    (3) Supporting Documentation.
 
@@ -18081,7 +18153,7 @@ Tribunal. "Tribunal" shall mean the New York City Tax Appeals Tribunal as define
 
       (iv) operate to stay the collection of any tax or charge liability. However, enforcement of collection may be deferred if the interests of the Department will not be jeopardized.
 
-   (2) In non-final matters, the filing of the offer-in-compromise constitutes the taxpayer's waiver of the statute of limitations on the assessment of the tax liability involved for the period beginning on the day the offer-in-compromise is filed and ending six months after the date the offer-in-compromise is withdrawn or rejected. If the offer-in-compromise is accepted, as a condition of such acceptance, the taxpayer agrees to waive the statute of limitations as provided in paragraph (5) of subdivision (d) of section 34-04 of this chapter.
+   (2) In non-final matters, the filing of the offer-in-compromise constitutes the taxpayer's waiver of the statute of limitations on the assessment of the tax liability involved for the period beginning on the day the offer-in-compromise is filed and ending six months after the date the offer-in-compromise is withdrawn or rejected. If the offer-in-compromise is accepted, as a condition of such acceptance, the taxpayer agrees to waive the statute of limitations as provided in paragraph (5) of subdivision (d) of 19 RCNY § 34-04.
 
 
 
@@ -18133,7 +18205,7 @@ Tribunal. "Tribunal" shall mean the New York City Tax Appeals Tribunal as define
 
       (i) entering into a signed agreement under which the taxpayer agrees to pay over a fixed percentage of the taxpayer's future earnings or other income for a specific period of time;
 
-      (ii) pledging collateral or other security for the duration of any provision of the compromise agreement which allows for periodic payments as permitted under paragraph (2) of subdivision (c) of section 34-06 of these Rules; or
+      (ii) pledging collateral or other security for the duration of any provision of the compromise agreement which allows for periodic payments as permitted under paragraph (2) of subdivision (c) of 19 RCNY § 34-06; or
 
       (iii) providing a guarantee of the taxpayer's obligations under the compromise agreement or any collateral agreement;
 
@@ -18145,7 +18217,7 @@ Tribunal. "Tribunal" shall mean the New York City Tax Appeals Tribunal as define
 
       (i) If the aggregate amount of the liability subject to the offer-in-compromise (including interest, additions to tax and penalties) is less than $25,000, the Collections Division shall send the offer-in-compromise, together with that Division's recommendation directly to the Commissioner of Finance.
 
-      (ii) If the aggregate amount of the liability that is the subject of the offer-in-compromise (including interest, additions to tax and penalties) is $25,000 or more, the Collections Division shall submit the offer-in-compromise, together with the Collection Division's recommendation, to the Office of Legal Affairs, which shall review the offer-in-compromise and the Collection Division's recommendation. The Office of Legal Affairs shall give its recommendation as to whether the offer-in-compromise meets the requirements of subdivision (c) of section 34-02 of these rules, and shall submit its written recommendation along with the recommendation of the Collections Division and the offer-in-compromise to the Commissioner of Finance.
+      (ii) If the aggregate amount of the liability that is the subject of the offer-in-compromise (including interest, additions to tax and penalties) is $25,000 or more, the Collections Division shall submit the offer-in-compromise, together with the Collection Division's recommendation, to the Office of Legal Affairs, which shall review the offer-in-compromise and the Collection Division's recommendation. The Office of Legal Affairs shall give its recommendation as to whether the offer-in-compromise meets the requirements of subdivision (c) of 19 RCNY § 34-02, and shall submit its written recommendation along with the recommendation of the Collections Division and the offer-in-compromise to the Commissioner of Finance.
 
    (2) Where the offer-in-compromise is based in part on doubt as to collectibility and in part on doubt as to liability, the Collections Division shall prepare its recommendation with respect to doubt as to collectibility. The Collections Division shall then submit its recommendation and the offer-in-compromise to the Office of Legal Affairs. The Office of Legal Affairs will recommend acceptance or rejection of the offer-in-compromise with respect to doubt as to liability. If the aggregate amount of the liability that is the subject of the offer-in-compromise (including interest, additions to tax and penalties) is $25,000 or more, the Office of Legal Affairs shall also give its recommendation as required under subparagraph (ii) of paragraph (1) of this subdivision. The Office of Legal Affairs shall then submit its written recommendation on doubt as to liability, its written recommendation under subparagraph (ii) of paragraph (1) of this subdivision, if required, the recommendation of the Collections Division on doubt as to collectibility and the offer-in-compromise to the Commissioner of Finance.
 
@@ -18191,7 +18263,7 @@ Tribunal. "Tribunal" shall mean the New York City Tax Appeals Tribunal as define
 
    (2) Written notification of the taxpayer of the decision to reject the offer-in-compromise will not constitute a statutory notice. The acceptance or rejection of an offer-in-compromise is within the exclusive authority of the Commissioner of Finance and is not subject to administrative review by the Conciliation Bureau or the Tribunal.
 
-   (3) In non-final matters, the filing of the offer-in-compromise constitutes the taxpayer's waiver of the statute of limitations as provided under paragraph (2) of subdivision (c) of section 34-03 of this chapter, for the period therein provided, which includes the six-month period after the offer-in-compromise has been rejected. Such six-month period shall commence on the date of the Commissioner's written notice of rejection.
+   (3) In non-final matters, the filing of the offer-in-compromise constitutes the taxpayer's waiver of the statute of limitations as provided under paragraph (2) of subdivision (c) of 19 RCNY § 34-03, for the period therein provided, which includes the six-month period after the offer-in-compromise has been rejected. Such six-month period shall commence on the date of the Commissioner's written notice of rejection.
 
 
 
@@ -18205,13 +18277,13 @@ Tribunal. "Tribunal" shall mean the New York City Tax Appeals Tribunal as define
 
    (1) the taxpayer has received written notification of acceptance, and
 
-   (2) if required, the acceptance of the offer-in-compromise has been approved by a justice of the Supreme Court as provided in paragraph (2) of subdivision (f) of section 34-04 of these Rules.
+   (2) if required, the acceptance of the offer-in-compromise has been approved by a justice of the Supreme Court as provided in paragraph (2) of subdivision (f) of 19 RCNY § 34-04.
 
 (b) Compromise Agreement.
 
    (1) The accepted offer-in-compromise shall constitute the compromise agreement between the taxpayer and the Department.
 
-   (2) The compromise agreement shall include the conditions for acceptance set forth in subdivision (d) of section 34-04 of these Rules, the compromise amount (i.e. the amount paid or required to be paid under the terms of the compromise agreement), and the terms of payment of the compromise amount.
+   (2) The compromise agreement shall include the conditions for acceptance set forth in subdivision (d) of 19 RCNY § 34-04, the compromise amount (i.e. the amount paid or required to be paid under the terms of the compromise agreement), and the terms of payment of the compromise amount.
 
    (3) No liability will be considered compromised, nor any warrant satisfied, until all obligations of the taxpayer under the compromise agreement are performed.
 
@@ -18521,7 +18593,7 @@ a. Commercial construction work outside of a special commercial abatement area. 
 
 b. Commercial exclusion area. The commercial exclusion area is the area in Manhattan lying south of the centerline of 96th Street, except for (i) the areas in Manhattan designated for commercial renovation projects as commercial renovation areas that are described in Subdivision c, and (ii) the area designated for new construction as described in Subdivision d.
 
-c. Commercial renovation areas. Commercial renovation projects in any area of New York City, except such projects south of the centerline of 96th Street in Manhattan, will be eligible for abatement benefits, except that abatement benefits will also be available for commercial renovation projects in the following designated areas, with the amount of such benefit dependent of the area in which the project is located, pursuant to 19 RCNY § 36-12(e) and (f) of this chapter:
+c. Commercial renovation areas. Commercial renovation projects in any area of New York City, except such projects south of the centerline of 96th Street in Manhattan, will be eligible for abatement benefits, except that abatement benefits will also be available for commercial renovation projects in the following designated areas, with the amount of such benefit dependent of the area in which the project is located, pursuant to 19 RCNY § 36-12(e) and (f):
 
    (1) The area in Manhattan bounded by Murray Street on the north starting at the intersection of West Street and Murray Street, running easterly along the center line of Murray Street; connecting through City Hall Park with the center line of Frankfort Street and running easterly along the center line of Frankfort and Dover Streets to the intersection of Dover Street and South Street; running southerly along the center line of South Street to Peter Minuit Plaza; connection through Peter Minuit Plaza to the center line of State Street and running northwesterly along the center line of State Street to the intersection of State Street and Battery Place; running westerly along the center line of Battery Place to the intersection of Battery Place and West Street; and running northerly along the center line of West Street to the intersection of West Street and Murray Street.
 
@@ -19907,7 +19979,7 @@ During the period beginning January 15th of each year and ending as provided her
 *§ 37-05 Changes Initiated by the Department.* ::
 
 
-In addition to any other power to correct errors vested in the Commissioner by law, during the period provided in § 37-04 of these rules, the Department may make changes on its own initiative in response to recently acquired sales information, demolitions that were overlooked, imputing errors, apportionments and mergers, clerical errors, granting and restoring of exemptions and any other factors that the Commissioner deems appropriate for purposes of equalization.
+In addition to any other power to correct errors vested in the Commissioner by law, during the period provided in 19 RCNY § 37-04, the Department may make changes on its own initiative in response to recently acquired sales information, demolitions that were overlooked, imputing errors, apportionments and mergers, clerical errors, granting and restoring of exemptions and any other factors that the Commissioner deems appropriate for purposes of equalization.
 
 
 
@@ -19927,7 +19999,7 @@ In addition to any other power to correct errors vested in the Commissioner by l
 
    (2) Except as hereinafter provided, any such request must be made in duplicate on a form prescribed by the Commissioner and include an original and a photocopy of:
 
-      (i) a sworn Tax Commission application for correction of tentative assessed valuation, whether or not such application was filed with the Tax Commission. If such application was filed with the Tax Commission, a photocopy will be accepted. See § 37-01 of these rules for a description of the effect on a property owner's rights relating to the application for correction with the Tax Commission;
+      (i) a sworn Tax Commission application for correction of tentative assessed valuation, whether or not such application was filed with the Tax Commission. If such application was filed with the Tax Commission, a photocopy will be accepted. See 19 RCNY § 37-01 for a description of the effect on a property owner's rights relating to the application for correction with the Tax Commission;
 
       (ii) a Tax Commission affidavit of sale (TC 230), when the application is based on a sale;
 
@@ -19957,7 +20029,7 @@ In addition to any other power to correct errors vested in the Commissioner by l
 
       (ii) determine which, if any, supporting documentation must be brought to the conference by the owner or the agent of the owner.
 
-(f) All information presented by the property owner pursuant to this section will be part of the public file under § 37-09 of these rules except information submitted pursuant to the requirements of § 11-208.1 of the Administrative Code of the City of New York relating to the filing of income and expense statements.
+(f) All information presented by the property owner pursuant to this section will be part of the public file under 19 RCNY § 37-09 of these rules except information submitted pursuant to the requirements of § 11-208.1 of the Administrative Code of the City of New York relating to the filing of income and expense statements.
 
 (g) The Department will deny any request for review that relates to property for which an income and expense statement was required pursuant to § 11-208.1 of the Administrative Code but was not timely filed in the calendar year immediately preceding the date of the request.
 
@@ -19969,7 +20041,7 @@ In addition to any other power to correct errors vested in the Commissioner by l
 *§ 37-07 Notice.* ::
 
 
-(a) No increase in assessed valuation will be made pursuant to § 1512 of the New York City Charter and §§ 37-04, 37-05 or 37-06 of these rules unless the owner of the affected real property or the agent of the owner is given 10 days written notice, which shall be addressed to the last known address of such owner or agent as indicated on the records in the Office of the City Collector. Such notice will contain the prior assessed valuation and the tentative assessed valuation of the property and the locations of the borough offices of the Property Division.
+(a) No increase in assessed valuation will be made pursuant to § 1512 of the New York City Charter and 19 RCNY §§ 37-04, 37-05 or 37-06 unless the owner of the affected real property or the agent of the owner is given 10 days written notice, which shall be addressed to the last known address of such owner or agent as indicated on the records in the Office of the City Collector. Such notice will contain the prior assessed valuation and the tentative assessed valuation of the property and the locations of the borough offices of the Property Division.
 
 (b) Where no name of the owner or agent of the owner of the affected real property appears on the records in the Office of the City Collector, the notice pursuant to this section will be sent to the premises addressed to the owner or agent.
 
@@ -19985,7 +20057,7 @@ In addition to any other power to correct errors vested in the Commissioner by l
 *§ 37-08 List of Changes in Assessments Made by the Department.* ::
 
 
-So that the public will be informed of the results of the changes in assessed valuation of real property pursuant to §§ 37-04, 37-05 and 37-06 of these regulations, the Department will maintain a list of all such changes made and will make the list available for public inspection in the borough offices and the central office of the Property Division.
+So that the public will be informed of the results of the changes in assessed valuation of real property pursuant to 19 RCNY §§ 37-04, 37-05 and 37-06, the Department will maintain a list of all such changes made and will make the list available for public inspection in the borough offices and the central office of the Property Division.
 
 
 
@@ -19997,11 +20069,11 @@ So that the public will be informed of the results of the changes in assessed va
 
 (a) The Property Division will maintain a public file for each property for which a request for review was made by the owner or on which any action was taken by the Department pursuant to these rules. Such file will be located at the central office of the Property Division and will contain:
 
-   (1) written records relating to any change in assessment made by the Department on its own initiative pursuant to § 37-05 of these rules which shall provide the reasons for such change;
+   (1) written records relating to any change in assessment made by the Department on its own initiative pursuant to 19 RCNY § 37-05 which shall provide the reasons for such change;
 
-   (2) any request for review filed with the Department by a property owner pursuant to § 37-06 of these rules, together with any supporting documentation submitted by the owner except as provided in subdivision (f) of § 37-06 of these rules; and
+   (2) any request for review filed with the Department by a property owner pursuant to 19 RCNY § 37-06, together with any supporting documentation submitted by the owner except as provided in subdivision (f) of 19 RCNY § 37-06; and
 
-   (3) if a property owner meets with members of the Property Division pursuant to subdivision (e) of § 37-06 of these rules, a standardized form to be completed by the Property Division which shall contain the names of those persons in attendance at the conference and the substance of the meeting.
+   (3) if a property owner meets with members of the Property Division pursuant to subdivision (e) of 19 RCNY § 37-06, a standardized form to be completed by the Property Division which shall contain the names of those persons in attendance at the conference and the substance of the meeting.
 
 (b) Any document contained in the public file pursuant to this section will be redacted if necessary to delete any material that may not be legally disclosed.
 
@@ -20044,9 +20116,9 @@ Petition. The term "petition" includes an "application for hearing," "petition f
 
 Request for conciliation. The term "request for conciliation" means the written application or request for a conciliation proceeding.
 
-Requestor. The term "requestor" means the person on whose behalf conciliation is requested and, except for purposes of § 38-03 of these rules, any person authorized to represent such person at conciliation.
+Requestor. The term "requestor" means the person on whose behalf conciliation is requested and, except for purposes of 19 RCNY § 38-03, any person authorized to represent such person at conciliation.
 
-Statutory notice. The term "§ atutory notice" means any written notice of the commissioner that gives a person the right to a hearing in the tribunal, including but not limited to a notice of determination of tax due, of a tax deficiency, of a denial of a refund or a credit application or of the refusal to grant, the suspension of, or the revocation of, a license. For the purposes of this definition, if the commissioner fails to act with respect to a refund application before the expiration of the time period after which the taxpayer may file a petition for refund with the tribunal pursuant to § 11-529(c) or ;st11-680(3) of the Code, such failure shall be deemed to be a notice of denial of a refund.
+Statutory notice. The term "§ atutory notice" means any written notice of the commissioner that gives a person the right to a hearing in the tribunal, including but not limited to a notice of determination of tax due, of a tax deficiency, of a denial of a refund or a credit application or of the refusal to grant, the suspension of, or the revocation of, a license. For the purposes of this definition, if the commissioner fails to act with respect to a refund application before the expiration of the time period after which the taxpayer may file a petition for refund with the tribunal pursuant to § 11-529(c) or § 11-680(3) of the Code, such failure shall be deemed to be a notice of denial of a refund.
 
 Tribunal. The term "tribunal" means the New York City Tax Appeals Tribunal.
 
@@ -20114,7 +20186,7 @@ There shall be within the department a conciliation bureau which shall be headed
 
       (vii) a legible copy of the statutory notice being protested; and
 
-      (viii) if required pursuant to § 38-03, an original power of attorney or a legible copy of a power of attorney previously submitted to the department.
+      (viii) if required pursuant to 19 RCNY § 38-03, an original power of attorney or a legible copy of a power of attorney previously submitted to the department.
 
    (2) At any time during the conciliation proceeding, the conciliator may ask the requestor to supply additional information in order to properly process the request and resolve the issues raised in the request.
 
@@ -20176,7 +20248,7 @@ At any time before the conclusion of conciliation, the requestor may serve on th
 *§ 38-07 Effect of Conciliation Decision.* ::
 
 
-The service of a conciliation decision discontinuing conciliation shall start the running of the 90 day period for filing a petition, or shall reinstate any previously filed petition as provided in § 38-04(d) of these rules, with regard to all issues not resolved at conciliation. A conciliation decision shall be served on the requestor and a copy thereof shall be mailed to the tribunal.
+The service of a conciliation decision discontinuing conciliation shall start the running of the 90 day period for filing a petition, or shall reinstate any previously filed petition as provided in 19 RCNY § 38-04(d), with regard to all issues not resolved at conciliation. A conciliation decision shall be served on the requestor and a copy thereof shall be mailed to the tribunal.
 
 
 
@@ -20215,7 +20287,7 @@ Business entity. "Business entity" means a corporation, partnership, organizatio
 
 Car rental program. "Car rental program" means a voluntary enrollment program whereby a lessor, upon registering vehicles and paying fees in accordance with 19 RCNY § 39-11(b), receives computer-generated hearing logs and can schedule hearings in PVB's Commercial Adjudication Unit (CAU).
 
-Commercial Abatement Program. "Commercial Abatement Program" means a voluntary enrollment program whereby commercial organizations that are enrolled in the Fleet Program and meet the eligibility criteria established in 19 RCNY § 39-03.2, but are not eligible for the Stipulated Fine Program pursuant to 19 RCNY § 39-03.1, waive their right to challenge parking summonses and agree to pay a reduced fine amount for each summons, pursuant to 19 RCNY § 39-03.2 of these rules.
+Commercial Abatement Program. "Commercial Abatement Program" means a voluntary enrollment program whereby commercial organizations that are enrolled in the Fleet Program and meet the eligibility criteria established in 19 RCNY § 39-03.2, but are not eligible for the Stipulated Fine Program pursuant to 19 RCNY § 39-03.1, waive their right to challenge parking summonses and agree to pay a reduced fine amount for each summons, pursuant to 19 RCNY § 39-03.2.
 
 Commercial Organization. "Commercial Organization" means any business entity that is an owner or lessee of at least one vehicle that is used exclusively for the delivery of goods or services.
 
@@ -20389,7 +20461,7 @@ Supervising and senior administrative law judges. "Supervising and senior admini
 *§ 39-03.2 Program of Commercial Abatements for Vehicles Enrolled in the Fleet Program.* ::
 
 
-(a) Agreement; waiver of right to contest notices of violation. Notwithstanding any inconsistent provision of 19 RCNY § 39-05, the Commissioner of Finance may enter into agreements with the owners of vehicles with commercial plates enrolled in the Fleet Program that are not eligible for the Stipulated Fine Program under 19 RCNY § 39-03.1 of these rules, for the payment of fines in accordance with a reduced fine schedule for parking violations set forth in the agreement ("commercial abatement fine amounts"). Such commercial abatement fine amounts will not apply to enrolled vehicles unless the owner of such vehicles enters into a written agreement with the Commissioner, in advance, in which the owner agrees to waive the right to contest all notices of violation issued against such owner's enrolled vehicles during a stated period of time and to pay the commercial abatement fine amounts for all such violations. This waiver includes any right to challenge or otherwise contest any such violations that have become due and payable at the unreduced full amount pursuant to the enforcement provisions set forth in the agreement and in subdivision (d) of this section.
+(a) Agreement; waiver of right to contest notices of violation. Notwithstanding any inconsistent provision of 19 RCNY § 39-05, the Commissioner of Finance may enter into agreements with the owners of vehicles with commercial plates enrolled in the Fleet Program that are not eligible for the Stipulated Fine Program under 19 RCNY § 39-03.1, for the payment of fines in accordance with a reduced fine schedule for parking violations set forth in the agreement ("commercial abatement fine amounts"). Such commercial abatement fine amounts will not apply to enrolled vehicles unless the owner of such vehicles enters into a written agreement with the Commissioner, in advance, in which the owner agrees to waive the right to contest all notices of violation issued against such owner's enrolled vehicles during a stated period of time and to pay the commercial abatement fine amounts for all such violations. This waiver includes any right to challenge or otherwise contest any such violations that have become due and payable at the unreduced full amount pursuant to the enforcement provisions set forth in the agreement and in subdivision (d) of this section.
 
 (b) Failure to pay fines. The agreement described in subdivision (a) of this section shall further provide that if the owner fails to satisfy summonses that enter judgment status, where such judgment(s) total in the aggregate, including interest, more than $350: (1) such summonses will be subject to enforcement action pursuant to the provisions of this title and applicable law, including but not limited to the imposition of all fines and penalties provided for in subdivision (d) of this section; (2) the owner will be removed from the Commercial Abatement Program and Fleet Program; and (3) the agreement will be null and void with respect to all future summonses, and future summonses will be subject to the penalties provided in 19 RCNY § 39-07 to the same extent and in the same manner as if such agreement had not been in effect.
 
@@ -20661,7 +20733,7 @@ When a civil emergency other than a snow emergency affecting traffic conditions 
 
    (5) Hearing logs. For vehicles not in the Fleet Program or Car Rental Program, brokers shall be responsible for the proper preparation of the hearing log as per instruction of the CAU manager.
 
-   (6) Summons copy fees. Companies represented by brokers are subject to the same summons copy fees as the general public (§ 39-02(e)).
+   (6) Summons copy fees. Companies represented by brokers are subject to the same summons copy fees as the general public (19 RCNY § 39-02(e)).
 
    (7) Hearing procedures.
 
@@ -20877,7 +20949,7 @@ When a civil emergency other than a snow emergency affecting traffic conditions 
 
 (b) Lessors and lessees.
 
-   (1) The lessor of a motor vehicle shall not be liable for the fines and penalties imposed by 19 RCNY §§ 39-05, 39-06 and 39-07 if prior to the issuance of a notice of a violation against the vehicle, the lessor has registered the vehicle with the Bureau as hereinafter provided, has paid the required filing fee provided for in paragraph (6) of this § 39-11(b) and has otherwise complied with the provisions of this 19 RCNY § 39-11(b), and section 239 of the Vehicle and Traffic Law.
+   (1) The lessor of a motor vehicle shall not be liable for the fines and penalties imposed by 19 RCNY §§ 39-05, 39-06 and 39-07 if prior to the issuance of a notice of a violation against the vehicle, the lessor has registered the vehicle with the Bureau as hereinafter provided, has paid the required filing fee provided for in paragraph (6) of this 19 RCNY § 39-11(b) and has otherwise complied with the provisions of this 19 RCNY § 39-11(b), and section 239 of the Vehicle and Traffic Law.
 
    (2) A lessor may register a vehicle with the Bureau by filing with the Bureau the following information:
 
@@ -21301,7 +21373,7 @@ Any stolen motor vehicle which is unclaimed after notice of the recovery of such
 *§ 42-03 Personal Property.* ::
 
 
-The City Sheriff shall inventory and hold onto all personal property which is found in a stolen motor vehicle. Any such property that fits the definition of an instrument under subdivision 2 of section 251 of the Personal Property Law, and any other personal property with a value of $20.00 or more, shall be turned over to the police property clerk subsequent to the determination under § 40-02 of these rules that a stolen motor vehicle is an abandoned vehicle, but prior to disposal of the vehicle.
+The City Sheriff shall inventory and hold onto all personal property which is found in a stolen motor vehicle. Any such property that fits the definition of an instrument under subdivision 2 of section 251 of the Personal Property Law, and any other personal property with a value of $20.00 or more, shall be turned over to the police property clerk subsequent to the determination under 19 RCNY § 40-02 that a stolen motor vehicle is an abandoned vehicle, but prior to disposal of the vehicle.
 
 
 
@@ -21607,7 +21679,7 @@ STAR exemption. "STAR exemption" means the school tax relief exemption from real
 
    (1) By application provided pursuant to paragraph (2) of subdivision (a) of this section, the owner shall certify that the class one property is the primary residence of at least one owner.
 
-   (2) If the subject property is not the primary residence of at least one owner, then the owner must certify, and may be required to provide proof as set forth under subdivision (b) of section 46-03 of these rules, that such property is the primary residence of such owner's or owners' parent or child. Such owner or owners may also be required to provide certification as to the resident's or residents' relationship to the owner or owners and such proof of the relationship as the Commissioner deems acceptable.
+   (2) If the subject property is not the primary residence of at least one owner, then the owner must certify, and may be required to provide proof as set forth under subdivision (b) of 19 RCNY § 46-03, that such property is the primary residence of such owner's or owners' parent or child. Such owner or owners may also be required to provide certification as to the resident's or residents' relationship to the owner or owners and such proof of the relationship as the Commissioner deems acceptable.
 
    (3) If the subject property is not so used as provided for in paragraphs (1) and (2) of this subdivision, the owner or owners must certify that such owner or owners receive no rental income of any kind, or in any manner or form, whatsoever, from the use of such property. The Department of Finance may require that the owner provide the Commissioner with a copy of the owner's or owners' most recent federal or New York State or New York City personal income tax return(s) together with this certification.
 
@@ -21655,7 +21727,7 @@ STAR exemption. "STAR exemption" means the school tax relief exemption from real
 *§ 46-04 Audit.* ::
 
 
-The Department of Finance may audit such certifications and require and verify proof of residence or absence of rental income provided in connection with a certification. In the course of such audit, the Commissioner may request, consider and verify additional forms of proof of primary residence or absence of rental income. If following an audit, the Commissioner determines that an owner who provided a certification pursuant to paragraph (2) of subdivision (a) of section 46-02 of these rules should have been required to pay the surcharge, the surcharge shall be imposed on the property, together with interest accrued as of the date that the surcharge would have been due and payable but for the filing of the application and certification of eligibility for exclusion, plus any penalties that may be imposed as set forth in Administrative Code § 11-238(d), including the imposition of an additional penalty tax of $500.00 against the subject property. Any amounts imposed pursuant to this section shall be a lien on the subject property, and may be collected in any manner provided by law.
+The Department of Finance may audit such certifications and require and verify proof of residence or absence of rental income provided in connection with a certification. In the course of such audit, the Commissioner may request, consider and verify additional forms of proof of primary residence or absence of rental income. If following an audit, the Commissioner determines that an owner who provided a certification pursuant to paragraph (2) of subdivision (a) of 19 RCNY § 46-02 should have been required to pay the surcharge, the surcharge shall be imposed on the property, together with interest accrued as of the date that the surcharge would have been due and payable but for the filing of the application and certification of eligibility for exclusion, plus any penalties that may be imposed as set forth in Administrative Code § 11-238(d), including the imposition of an additional penalty tax of $500.00 against the subject property. Any amounts imposed pursuant to this section shall be a lien on the subject property, and may be collected in any manner provided by law.
 
 
 
@@ -21694,13 +21766,13 @@ Chapter 12 of Title 11 of the Administrative Code of the City of New York impose
 *§ 47-02 Returns and Payment of Tax.* ::
 
 
-(a)  Every racing corporation or association that collects the tax described in § 47-01 of these Rules shall file with the Department of Finance such forms as shall be prescribed by the Department of Finance showing the taxes and the number of persons admitted to meetings conducted by the racing corporation or association during the periods covered by the return, together with any and all other information that the Department of Finance shall require to be included and reported in such return.
+(a)  Every racing corporation or association that collects the tax described in 19 RCNY § 47-01 shall file with the Department of Finance such forms as shall be prescribed by the Department of Finance showing the taxes and the number of persons admitted to meetings conducted by the racing corporation or association during the periods covered by the return, together with any and all other information that the Department of Finance shall require to be included and reported in such return.
 
-(b) The horse race admission tax collected as described in § 47-01 of these Rules must be paid not later than 10 days following the close of the race meeting at which the tax was collected.
+(b) The horse race admission tax collected as described in 19 RCNY § 47-01 must be paid not later than 10 days following the close of the race meeting at which the tax was collected.
 
 (c) The horse race admission tax forms, described in paragraph (a) of this section, must be filed with the Department of Finance not later than 10 days following the close of the race meeting at which the horse race admission tax was collected.
 
-(d) For purposes of this § 47-02, the term "race meeting" means a period of time, typically a number of months, during which the racing corporation or association conducts horse races at a given location on most, typically five, days of each week.
+(d) For purposes of this 19 RCNY § 47-02, the term "race meeting" means a period of time, typically a number of months, during which the racing corporation or association conducts horse races at a given location on most, typically five, days of each week.
 
 To illustrate: During 2004, Aqueduct Racetrack holds three race meetings and Belmont Park holds two. At Aqueduct, the meetings are the Winter meeting, beginning January 1 and ending March 7; the Spring meeting, beginning March 10 and ending May 2; and the Fall meeting, beginning October 27 and ending December 31. The horse race admission tax collected during the meeting must be paid, and the required forms filed, no later than March 17 for the Winter meeting; May 12 for the Spring meeting; and January 10, 2005, for the Fall meeting. At Belmont, the meetings are the Spring/Summer meeting, beginning May 5 and ending July 25; and the Fall Championship meeting, beginning September 10 and ending October 24. The horse race admission tax collected during the meeting must be paid, and the required forms filed, no later than August 4 for the Spring/Summer meeting, and November 3 for the Fall meeting.
 
@@ -21727,7 +21799,7 @@ The purpose of these rules is to set forth the application and credit allocation
 
 (a)  An applicant for the credit must submit an application on a form or in a format established by the Commissioner of Finance ("Commissioner") to the Department of Finance ("Department") no later than January 15 in the calendar year that immediately follows the calendar year for which the credit is sought.
 
-(b) The Department shall make a determination on the application based upon the applicable provisions of State and local law and the criteria set forth in § 48-03 of these rules.
+(b) The Department shall make a determination on the application based upon the applicable provisions of State and local law and the criteria set forth in 19 RCNY § 48-03.
 
 (c) The Department may request additional documentation to support representations made in any credit application, including, but not limited to, copies of tax returns and financial statements.
 
@@ -21765,7 +21837,7 @@ Any of the following shall be grounds for the Department to deny an application:
 
 (c) an application is submitted later than January 15 in the calendar year that immediately follows the calendar year for which the credit is sought;
 
-(d) an applicant has not submitted any additional documentation requested by the Department as authorized by § 48-02(c) of these rules; or
+(d) an applicant has not submitted any additional documentation requested by the Department as authorized by 19 RCNY § 48-02(c); or
 
 (e) the Department determines that an applicant knowingly submitted false or misleading information.
 
@@ -21881,9 +21953,9 @@ Unless the context requires otherwise, as used in this chapter:
 *§ 50-03 Eligibility for abatement.* ::
 
 
-(a) Primary residence abatement. Dwelling units owned by an owner, one of which is the primary residence of such owner, and which are not ineligible for the abatement pursuant to this section or § 467-a of the Real Property Tax Law, will be eligible to receive the primary residence abatement, in the amount set forth in § 50-04(b), but in no case will any of the dwelling units owned by the same owner in a condominium development or a cooperative apartment corporation development receive the primary residence abatement if the owner owns more than three dwelling units in the development.
+(a) Primary residence abatement. Dwelling units owned by an owner, one of which is the primary residence of such owner, and which are not ineligible for the abatement pursuant to this section or § 467-a of the Real Property Tax Law, will be eligible to receive the primary residence abatement, in the amount set forth in 19 RCNY § 50-04(b), but in no case will any of the dwelling units owned by the same owner in a condominium development or a cooperative apartment corporation development receive the primary residence abatement if the owner owns more than three dwelling units in the development.
 
-(b) Non-primary residence abatement. Any dwelling units that are owned by an owner in a condominium development or a cooperative apartment corporation development and which received the abatement in fiscal year 2011/12 and are otherwise eligible for the abatement, but are not eligible to receive the primary residence abatement pursuant to subdivision (a) of this section, will be eligible to receive only the non-primary residence abatement, in the amount set forth in § 50-04(b), but in no case will any of the dwelling units owned by the same owner in a condominium development or a cooperative apartment corporation development receive the non-primary residence abatement if the owner owns more than three dwelling units in the development.
+(b) Non-primary residence abatement. Any dwelling units that are owned by an owner in a condominium development or a cooperative apartment corporation development and which received the abatement in fiscal year 2011/12 and are otherwise eligible for the abatement, but are not eligible to receive the primary residence abatement pursuant to subdivision (a) of this section, will be eligible to receive only the non-primary residence abatement, in the amount set forth in 19 RCNY § 50-04(b), but in no case will any of the dwelling units owned by the same owner in a condominium development or a cooperative apartment corporation development receive the non-primary residence abatement if the owner owns more than three dwelling units in the development.
 
 (c) Ineligibility of dwelling units in property receiving other exemption or abatement.
 
@@ -22013,9 +22085,9 @@ Unless the context requires otherwise, as used in this chapter:
 
 (e) Examples of calculation of abatement for fiscal year 2013/14.
 
-Example 1: To determine the abatement for A's dwelling unit for fiscal year 2013/14: Facts: A owns a dwelling unit, which is A's primary residence, in Y Cooperative Apartment Corporation, a cooperative apartment corporation. The real property tax attributable to A's dwelling unit for fiscal year 2013/14 is $5,000. The actual assessed value of the property of Y Cooperative Apartment Corporation (the entire development) for fiscal year 2013/14 is $5,000,000. 90% of the shares of Y Cooperative Apartment Corporation are allocated to dwelling units. As of January 5, 2013, there were a total of 100 dwelling units in Y Cooperative Apartment Corporation. Calculation: In order to determine the abatement percentage to be used in the calculation, determine the average unit assessed value by multiplying the percentage of shares allocated to dwelling units by the total assessed value of the cooperative apartment corporation (the entire development), and then dividing by the total number of dwelling units in the cooperative apartment corporation as of the taxable status date: Step 1: 90% × $5,000,000 = $4,500,000 Step 2: $4,500,000/100 = $45,000. Because the average unit assessed value is less than $50,000, the percentage to be applied is 26.5%, as provided in § 50-04(a)(1)(B). Therefore, the abatement for A's dwelling unit for fiscal year 2013/14 is 26.5% of the real property tax attributable to A's dwelling unit for fiscal year 2013/14, or: 26.5% × $5,000 = $1,325.
+Example 1: To determine the abatement for A's dwelling unit for fiscal year 2013/14: Facts: A owns a dwelling unit, which is A's primary residence, in Y Cooperative Apartment Corporation, a cooperative apartment corporation. The real property tax attributable to A's dwelling unit for fiscal year 2013/14 is $5,000. The actual assessed value of the property of Y Cooperative Apartment Corporation (the entire development) for fiscal year 2013/14 is $5,000,000. 90% of the shares of Y Cooperative Apartment Corporation are allocated to dwelling units. As of January 5, 2013, there were a total of 100 dwelling units in Y Cooperative Apartment Corporation. Calculation: In order to determine the abatement percentage to be used in the calculation, determine the average unit assessed value by multiplying the percentage of shares allocated to dwelling units by the total assessed value of the cooperative apartment corporation (the entire development), and then dividing by the total number of dwelling units in the cooperative apartment corporation as of the taxable status date: Step 1: 90% × $5,000,000 = $4,500,000 Step 2: $4,500,000/100 = $45,000. Because the average unit assessed value is less than $50,000, the percentage to be applied is 26.5%, as provided in 19 RCNY § 50-04(a)(1)(B). Therefore, the abatement for A's dwelling unit for fiscal year 2013/14 is 26.5% of the real property tax attributable to A's dwelling unit for fiscal year 2013/14, or: 26.5% × $5,000 = $1,325.
 
-Example 2: To determine the abatement for B's dwelling unit for fiscal year 2013/14: Facts: B owns a condominium dwelling unit, which is B's primary residence, in Z Condominium. The real property tax due on B's dwelling unit for fiscal year 2013/14 is $10,000. The total actual assessed value of the dwelling units in the entire condominium development in which B's dwelling unit is located for fiscal year 2013/14 is $9,000,000. As of January 5, 2013, there were a total of 100 dwelling units in the condominium development in which B's dwelling unit is located. Calculation: In order to determine the abatement percentage to be used in the calculation, determine the average unit assessed value by dividing the total assessed value of the dwelling units in the entire condominium development by the number of dwelling units in the condominium development as of the taxable status date: $9,000,000/100 = $90,000. Because the average unit assessed value is more than $60,000, the percentage to be applied is 17.5%, as provided in § 50-04(a)(4). Therefore, the abatement for B's dwelling unit for fiscal year 2013/14 is 17.5% of the real property tax due on B's dwelling unit for fiscal year 2013/14, or: 17.5% × $10,000 = $1,750.
+Example 2: To determine the abatement for B's dwelling unit for fiscal year 2013/14: Facts: B owns a condominium dwelling unit, which is B's primary residence, in Z Condominium. The real property tax due on B's dwelling unit for fiscal year 2013/14 is $10,000. The total actual assessed value of the dwelling units in the entire condominium development in which B's dwelling unit is located for fiscal year 2013/14 is $9,000,000. As of January 5, 2013, there were a total of 100 dwelling units in the condominium development in which B's dwelling unit is located. Calculation: In order to determine the abatement percentage to be used in the calculation, determine the average unit assessed value by dividing the total assessed value of the dwelling units in the entire condominium development by the number of dwelling units in the condominium development as of the taxable status date: $9,000,000/100 = $90,000. Because the average unit assessed value is more than $60,000, the percentage to be applied is 17.5%, as provided in 19 RCNY § 50-04(a)(4). Therefore, the abatement for B's dwelling unit for fiscal year 2013/14 is 17.5% of the real property tax due on B's dwelling unit for fiscal year 2013/14, or: 17.5% × $10,000 = $1,750.
 
 
 

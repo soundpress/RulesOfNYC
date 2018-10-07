@@ -709,8 +709,8 @@ ULURP. "ULURP" means the Uniform Land Use Review Procedure (§ 197-c of Chapter 
 
 
 (a) [Inapplicable, City Planning Rules 43 RCNY § 5-02(a). Superseded by City Planning Rules 43 RCNY § 5-05(a). See also City Planning Rules 43 RCNY § 5-02(b)(2) and 43 RCNY § 5-02(d).]Each agency shall ascertain whether an application need be filed pursuant to this section, employing lists of actions, classified as either exempt, Type I or Type II pursuant to 43 RCNY §§ 6-04
-								 and 6-15
-								 of this chapter, respectively, which lists shall be certified by the lead agencies.
+									 and 6-15
+									 of this chapter, respectively, which lists shall be certified by the lead agencies.
 
 (b) [Introductory paragraph inapplicable, City Planning Rules 43 RCNY § 5-02(a). Paragraph (b) superseded by City Planning Rules § 5-08.] The applicant initiating the proposed action, other than an exempt or Type II action pursuant to 43 RCNY § 6-04 of this chapter, shall file an application with the lead agencies, which application shall include a Project Data Statement and such other documents and additional information as the lead agencies may require to conduct an environmental analysis to determine whether the action may or will not have a significant effect on the environment. Where possible existing City applications shall be modified to incorporate this procedure and a one-stop review process developed;
 
@@ -1527,7 +1527,7 @@ Chapter 9: Permits Issued By Mayor's Office of Film, Theatre and Broadcasting
 
    (9) Pyrotechnics: The use of pyrotechnics, fire effects and explosions, including simulated smoke and smoke effects, shall be conducted only upon authorization by the New York City Fire Department and subsequent approval shall be obtained from MOFTB and the NYPD prior to shooting.
 
-   (10) Animals: The use of wild animals, as defined in Article 161, § 161.02 of the New York City Health Code, shall be used only upon authorization by the Department of Health and Mental Hygiene, and subsequent approval shall be obtained from MOFTB prior to shooting.
+   (10) Animals: The use of wild animals, as defined in 24 RCNY Health Code § 161.02, shall be used only upon authorization by the Department of Health and Mental Hygiene, and subsequent approval shall be obtained from MOFTB prior to shooting.
 
    (11) Potentially dangerous activities: Conduct or activities associated with rigging or shooting permits which are determined by MOFTB to cause a potential danger to persons or property will be referred by MOFTB for approval by the NYPD or other governmental agency having jurisdiction over such activity. Such activities shall include, but not be limited to, the use of stunts, helicopters, firearms or simulated firearms.
 

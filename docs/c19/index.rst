@@ -3301,7 +3301,7 @@ Chapter 4: Traffic Rules and Regulations
 
    (6) Operating a bicycle sharing system without written authorization prohibited. No person may operate a bicycle sharing system in the City of New York without the prior written authorization of the Department.
 
-(q) Transportation of radioactive materials. Shipments of radioactive materials meeting or exceeding the specifications of "large quantities" and/or "fissile Class III" as specified by the Interstate Commerce Commission and the Nuclear Regulatory Commission, shall follow the same truck routes designated for vehicles having an overall length of 33 feet or more, in 34 RCNY § 4-13 of these rules. All such shipments are required to be so classified under the NRC license or contract before being shipped and the carrier shall obtain the proper classification. All vehicles carrying such shipments shall adhere to the rules of the fire department, the Department of Environmental Protection and § 175.111 of the New York City Health Code.
+(q) Transportation of radioactive materials. Shipments of radioactive materials meeting or exceeding the specifications of "large quantities" and/or "fissile Class III" as specified by the Interstate Commerce Commission and the Nuclear Regulatory Commission, shall follow the same truck routes designated for vehicles having an overall length of 33 feet or more, in 34 RCNY § 4-13 of these rules. All such shipments are required to be so classified under the NRC license or contract before being shipped and the carrier shall obtain the proper classification. All vehicles carrying such shipments shall adhere to the rules of the fire department, the Department of Environmental Protection and 24 RCNY Health Code § 175.111.
 
 (r) Restricted use and limited use streets.
 

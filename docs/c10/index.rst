@@ -53,13 +53,13 @@ Party. The term "party" means either the petitioner, if appearing pro se, or the
 
 Person. The term "person" includes, but is not limited to, an individual, partnership, society, association, joint stock company, corporation, receiver, executor or administrator, trustee, assignee, referee, and any other individual or entity acting in a fiduciary or representative capacity, and any combination of the foregoing.
 
-Petition; petitioner. The term "petition" includes an "application," "petition," "demand for hearing" or variation of such terms as used in the applicable statutory sections of the New York City Charter and the Administrative Code of the City of New York. The term "petitioner" means the person (as defined in this section) who files a petition (see § 1-04 of these rules).
+Petition; petitioner. The term "petition" includes an "application," "petition," "demand for hearing" or variation of such terms as used in the applicable statutory sections of the New York City Charter and the Administrative Code of the City of New York. The term "petitioner" means the person (as defined in this section) who files a petition (see 20 RCNY § 1-04).
 
-Presiding officer. The term "presiding officer" means any person duly designated and empowered by the tribunal to conduct a small claims hearing pursuant to § 1-11 of these rules. A presiding officer shall be an individual having such training and experience in the area of tax law as to qualify him or her to render determinations on the basis of written submissions of law and evidentiary hearings.
+Presiding officer. The term "presiding officer" means any person duly designated and empowered by the tribunal to conduct a small claims hearing pursuant to 20 RCNY § 1-11. A presiding officer shall be an individual having such training and experience in the area of tax law as to qualify him or her to render determinations on the basis of written submissions of law and evidentiary hearings.
 
 Proceeding. The term "proceeding" means all practice pursuant to these rules, commencing with the filing of a petition in response to a statutory notice (as defined in this section) and concluding with a determination by an administrative law judge or presiding officer or, where exception is taken to an administrative law judge's determination, with a decision by the tribunal commissioners.
 
-Statutory notice. The term "§ atutory notice" means any written notice of the commissioner of finance that gives a person the right to a hearing in the tribunal, including, but not limited to, a notice of a tax deficiency, determination of tax due, assessment, or denial of a refund, credit or reimbursement application, or of cancellation, revocation, suspension or denial of an application for a license, permit or registration. For purposes of this definition, if the commissioner of finance fails to act with respect to a refund application before the expiration of the time period after which the taxpayer may file a petition for refund with the tribunal pursuant to § 11-529(c) or ;st11-680(3) of the Administrative Code, such failure shall be deemed to be a notice of denial of a refund.
+Statutory notice. The term "§ atutory notice" means any written notice of the commissioner of finance that gives a person the right to a hearing in the tribunal, including, but not limited to, a notice of a tax deficiency, determination of tax due, assessment, or denial of a refund, credit or reimbursement application, or of cancellation, revocation, suspension or denial of an application for a license, permit or registration. For purposes of this definition, if the commissioner of finance fails to act with respect to a refund application before the expiration of the time period after which the taxpayer may file a petition for refund with the tribunal pursuant to § 11-529(c) or § 11-680(3) of the Administrative Code, such failure shall be deemed to be a notice of denial of a refund.
 
 Tribunal. The term "tribunal" means the New York City Tax Appeals Tribunal, which includes the tribunal commissioners, the administrative law judge unit, and the small claims unit.
 
@@ -191,7 +191,7 @@ Tribunal commissioners. The term "tribunal commissioners" means the commissioner
 
 (a) General. To enable the parties to resolve the controversy expeditiously, these rules permit a motion to the tribunal for an order that is appropriate in a proceeding governed by the CPLR, but do not permit a motion for costs or disbursements or motions related to discovery procedures as provided for in the CPLR. For good cause shown, the tribunal commissioners or an administrative law judge designated by the chief administrative law judge may order a form of discovery not otherwise provided for under these rules.
 
-   (1) All motions must be made, on notice to the adverse party, within 90 days of the service of a pleading by the adverse party unless a different time period is otherwise prescribed for a particular motion by these rules. The motion shall be filed with the chief administrative law judge and shall be made returnable at the tribunal. The return date on which the motion will be considered by an administrative law judge designated by the chief administrative law judge must be at lease 30 days after service of notice of the motion. The adverse party may file an answering affidavit with the chief administrative law judge and must serve a copy on the moving party. The answering affidavit must be filed and served no later than 10 days prior to the return date. Papers may be filed or served as provided in § 1-17 of these rules. Any reply affidavit shall be filed and served at least one day prior to the return date.
+   (1) All motions must be made, on notice to the adverse party, within 90 days of the service of a pleading by the adverse party unless a different time period is otherwise prescribed for a particular motion by these rules. The motion shall be filed with the chief administrative law judge and shall be made returnable at the tribunal. The return date on which the motion will be considered by an administrative law judge designated by the chief administrative law judge must be at lease 30 days after service of notice of the motion. The adverse party may file an answering affidavit with the chief administrative law judge and must serve a copy on the moving party. The answering affidavit must be filed and served no later than 10 days prior to the return date. Papers may be filed or served as provided in 20 RCNY § 1-17. Any reply affidavit shall be filed and served at least one day prior to the return date.
 
    (2) All motions will be decided on the moving papers and answers submitted without oral argument, unless specific application is made for oral argument by a party and the administrative law judge grants that application.
 
@@ -247,7 +247,7 @@ Tribunal commissioners. The term "tribunal commissioners" means the commissioner
 
 (e) Request to withdraw or modify a subpoena.
 
-   (1) Upon issuance of a subpoena pursuant to § 1-08 of these rules, any person to whom a subpoena is directed may, prior to the time specified therein for compliance, but in no event more than 10 days after the date of service of such subpoena, request- that the subpoena be withdrawn or modified by filing such request with the administrative law judge or presiding officer assigned to the case or, if no such assignment has been made, to the chief administrative law judge. Such request shall be upon notice to the other party and returnable no later than 1 day prior to the subpoena's return date and shall otherwise conform to the procedural requirements of this section for motions.
+   (1) Upon issuance of a subpoena pursuant to 20 RCNY § 1-08, any person to whom a subpoena is directed may, prior to the time specified therein for compliance, but in no event more than 10 days after the date of service of such subpoena, request- that the subpoena be withdrawn or modified by filing such request with the administrative law judge or presiding officer assigned to the case or, if no such assignment has been made, to the chief administrative law judge. Such request shall be upon notice to the other party and returnable no later than 1 day prior to the subpoena's return date and shall otherwise conform to the procedural requirements of this section for motions.
 
    (2) Appeal to tribunal commissioners. Notwithstanding the provisions of paragraph (5) of subdivision (a) of this section, a party or any person to whom a subpoena is directed may appeal an order granting or denying the request to withdraw or modify the subpoena by filing an exception thereto with the tribunal commissioners.
 
@@ -401,7 +401,7 @@ Tribunal commissioners. The term "tribunal commissioners" means the commissioner
 
 (a) Upon the request of any party, the administrative law judge or presiding officer assigned to the case will issue subpoenas to require the attendance of witnesses at a hearing or to require the production of documentary evidence; provided however, that, where it appears to the judge or officer requested to issue the subpoena that the subpoena sought may be unreasonable, oppressive, excessive in scope, or unduly burdensome, such judge or officer may, as a condition precedent to the issuance of the subpoena, require the person seeking the subpoena to show the general relevance and reasonable scope of the testimony or other evidence sought. In the event the judge or officer requested to issue the subpoena shall after consideration of all the circumstances determine that the subpoena or any of its terms are unreasonable, oppressive, excessive in scope, or unduly burdensome, such judge or officer may refuse to issue the subpoena, or issue it only upon such conditions as such judge or officer deems appropriate. In the event that an administrative law judge or presiding officer has not been assigned to the case or the administrative law judge or presiding officer assigned is unavailable, the request to issue subpoenas may be made to the chief administrative law judge. Subpoenas will be delivered to the person requesting them and service thereof will be said person's responsibility. However, an attorney representing any party in a proceeding may issue a subpoena pursuant to § 2302 of the CPLR.
 
-(b) If the request for a subpoena is granted pursuant to paragraph (1) of this subdivision, a request to withdraw or modify the subpoena shall be made as described in subdivision (e) of § l-05 of these rules before a motion to quash, fix conditions, or modify may be made pursuant to § 2304 of the CPLR.
+(b) If the request for a subpoena is granted pursuant to paragraph (1) of this subdivision, a request to withdraw or modify the subpoena shall be made as described in subdivision (e) of 20 RCNY § 1-05 before a motion to quash, fix conditions, or modify may be made pursuant to § 2304 of the CPLR.
 
 
 
@@ -431,7 +431,7 @@ Tribunal commissioners. The term "tribunal commissioners" means the commissioner
 
    (1) General. The parties may consent in writing to have the controversy determined on submission without need for appearance at a hearing.
 
-   (2) Procedure. Within 30 days after the consent is executed, the commissioner of finance shall submit to the administrative law judge or presiding officer assigned to the case all documentary evidence relevant to the issues, including any stipulation entered into by the parties, and shall provide a list enumerating all such documents to the petitioner, if appearing pro se, or the petitioner's representative. Within 30 days after the commissioner of finance provides such list, the petitioner may submit additional documents in support of the petition, and the parties may submit briefs within a reasonable period of time as agreed upon by them, subject to the power of the administrative law judge or presiding officer to fix the time as provided in paragraph (3) of subdivision (c) of § 1-12 of these rules. The parties may also submit proposed findings of fact and conclusions of law.
+   (2) Procedure. Within 30 days after the consent is executed, the commissioner of finance shall submit to the administrative law judge or presiding officer assigned to the case all documentary evidence relevant to the issues, including any stipulation entered into by the parties, and shall provide a list enumerating all such documents to the petitioner, if appearing pro se, or the petitioner's representative. Within 30 days after the commissioner of finance provides such list, the petitioner may submit additional documents in support of the petition, and the parties may submit briefs within a reasonable period of time as agreed upon by them, subject to the power of the administrative law judge or presiding officer to fix the time as provided in paragraph (3) of subdivision (c) of 20 RCNY § 1-12. The parties may also submit proposed findings of fact and conclusions of law.
 
 
 
@@ -457,11 +457,11 @@ In lieu of making a motion for an extension of time or for an adjournment under 
 
 (c) Pleadings; applicable sections; notice. 
 
-   (1) The only pleadings to be served by the parties are a petition by the petitioner (see § 1-04 of these rules) and an answer by the commissioner of finance. The tribunal may prescribe a simplified form of pleadings for small claims matters.
+   (1) The only pleadings to be served by the parties are a petition by the petitioner (see 20 RCNY § 1-04) and an answer by the commissioner of finance. The tribunal may prescribe a simplified form of pleadings for small claims matters.
 
    (2) The parties may file briefs, additional documents or other material in support of their pleadings.
 
-   (3) The provisions of subdivision (e) of § 1-04 of these rules regarding amended pleadings, and § 1-08 of these rules, regarding subpoenas, are applicable to this section. The provisions of §§ 1-05 (other than paragraph (e)(1)), 1-06 and 1-07 of these rules are not applicable to this section. Notwithstanding the foregoing, the presiding officer may, at the request of either party, (i) consider any of the grounds for dismissal provided for under § l-05(b) of these rules and dispose of the matter on such ground, if appropriate, and (ii) allow such limited discovery as the presiding officer shall deem appropriate under the circumstances.
+   (3) The provisions of subdivision (e) of 20 RCNY § 1-04 regarding amended pleadings, and 20 RCNY § 1-08, regarding subpoenas, are applicable to this section. The provisions of 20 RCNY §§ 1-05 (other than paragraph (e)(1)), 1-06 and 1-07 of these rules are not applicable to this section. Notwithstanding the foregoing, the presiding officer may, at the request of either party, (i) consider any of the grounds for dismissal provided for under 20 RCNY § 1-05(b) of these rules and dispose of the matter on such ground, if appropriate, and (ii) allow such limited discovery as the presiding officer shall deem appropriate under the circumstances.
 
    (4) After the petition and answer have been served, the controversy shall be at issue, and the small claims unit shall schedule the controversy for a small claims hearing.
 
@@ -475,15 +475,15 @@ In lieu of making a motion for an extension of time or for an adjournment under 
 
    (3) Upon written application to the chief administrative law judge, a default determination may be vacated where the party shows a reasonable excuse for the default and a meritorious case.
 
-(e) Presiding officer. The small claims hearing shall be conducted by a presiding officer with the same authorization provided an administrative law judge conducting a hearing by § 1-12 of these rules.
+(e) Presiding officer. The small claims hearing shall be conducted by a presiding officer with the same authorization provided an administrative law judge conducting a hearing by 20 RCNY § 1-12.
 
 (f) Conduct of hearing.
 
    (1) The small claims hearing shall be conducted by a presiding officer in such a manner as to do substantial justice between the parties according to the rules of substantive and administrative law. The hearing shall be conducted as informally as possible, consistent with orderly procedure. Any evidence which the presiding officer considers necessary or desirable for a just and equitable determination will be received, except that effect shall be given to the rules of privilege recognized by law. The burden of proof shall be upon the party seeking relief as to each issue, except as otherwise provided by law.
 
-   (2) The provisions contained in paragraphs (1) through (5) of subdivision (d) of § 1-12 of these rules, regarding conduct of a hearing, are applicable to a small claims hearing; however, such applicability is not intended to alter the informal nature of the small claims hearing.
+   (2) The provisions contained in paragraphs (1) through (5) of subdivision (d) of 20 RCNY § 1-12, regarding conduct of a hearing, are applicable to a small claims hearing; however, such applicability is not intended to alter the informal nature of the small claims hearing.
 
-   (3) The small claims hearing shall be stenographically reported or otherwise recorded, but a transcript thereof need not be made unless the presiding officer otherwise directs. Where a transcript is made, it shall be available for examination at the tribunal or may be purchased by a petitioner pursuant to § 1-16 of these rules.
+   (3) The small claims hearing shall be stenographically reported or otherwise recorded, but a transcript thereof need not be made unless the presiding officer otherwise directs. Where a transcript is made, it shall be available for examination at the tribunal or may be purchased by a petitioner pursuant to 20 RCNY § 1-16.
 
 (g) Transfer to administrative law judge. At any time before the conclusion of a small claims hearing, the petitioner may, by written notice to the president of the tribunal, discontinue such small claims proceeding and request that the hearing on the petition be transferred to and conducted by an administrative law judge. Such discontinuance shall be without prejudice to any subsequent proceeding before an administrative law judge. Following such transfer of a matter to an administrative law judge, the matter shall not be transferred back to the small claims unit.
 
@@ -505,7 +505,7 @@ In lieu of making a motion for an extension of time or for an adjournment under 
 
 (a) Notice.
 
-   (1) After issue is joined (see § 1-04 of these rules), the chief administrative law judge unit shall schedule the controversy for a conference as provided in subdivision (d) of § 1-04 of these rules.
+   (1) After issue is joined (see 20 RCNY § 1-04), the chief administrative law judge unit shall schedule the controversy for a conference as provided in subdivision (d) of 20 RCNY § 1-04.
 
    (2) The parties shall be given at least 30 days' notice of the first hearing date, and at least 10 days' notice of any adjourned or continued hearing date unless the parties agree otherwise with the consent of the administrative law judge. A request by any party for a preference in scheduling will be honored to the extent possible.
 
@@ -521,7 +521,7 @@ In lieu of making a motion for an extension of time or for an adjournment under 
 
    (1) administer oaths and affirmations;
 
-   (2) sign and issue subpoenas as provided in § 1-08 of these rules;
+   (2) sign and issue subpoenas as provided in 20 RCNY § 1-08;
 
    (3) regulate the course of the hearings, set the time and place for continued hearings, and fix the time for filing of legal memoranda and other documents;
 
@@ -535,7 +535,7 @@ In lieu of making a motion for an extension of time or for an adjournment under 
 
    (2) Where books, records, papers or other documents have been received in evidence, the substitution of a copy thereof may be permitted. Where original exhibits have been received in evidence, the party who offered such exhibits may be permitted to withdraw them after the determination of the administrative law judge or the decision of the tribunal commissioners is final.
 
-   (3) For purpose of expedition, stipulation and submission of evidence is encouraged, provided the interests of the parties will not be substantially prejudiced thereby. Although objections to a particular part of a stipulation should be noted therein the administrative law judge shall give consideration to any objection to irrelevancy of stipulated facts made at the hearing (see § 1-09 of these rules).
+   (3) For purpose of expedition, stipulation and submission of evidence is encouraged, provided the interests of the parties will not be substantially prejudiced thereby. Although objections to a particular part of a stipulation should be noted therein the administrative law judge shall give consideration to any objection to irrelevancy of stipulated facts made at the hearing (see 20 RCNY § 1-09).
 
    (4) The burden of proof shall be upon the party seeking relief as to each issue, except as otherwise provided by law.
 
@@ -545,13 +545,13 @@ In lieu of making a motion for an extension of time or for an adjournment under 
 
       (ii) the answering brief by the commissioner of finance within 30 days thereafter; and (iii) upon application to the administrative law judge, additional briefs may be filed by the parties based on a schedule determined by the administrative law judge. Each party shall serve a copy of its briefs on the other party. The parties may also submit proposed findings of fact and conclusions of law. The proposed findings of fact shall refer whenever possible to the relevant pages of the transcript of hearing and exhibits. A request for extension of time for filing any brief may be made to the administrative law judge prior to the due date and shall recite that the moving party has advised the other party and whether the other party objects to the motion. Delinquent briefs may be rejected by the administrative law judge.
 
-   (6) The hearing shall be stenographically reported. A transcript thereof shall be made available for examination at the offices of the tribunal or may be purchased pursuant to § 1-16 of these rules. If either party deems the transcript to be inaccurate in any material respect, the party shall promptly notify the administrative law judge and the other party, setting forth specifically the alleged inaccuracies. The administrative law judge shall specify the corrections to be made in the transcript, and such corrections shall be made a part of the record.
+   (6) The hearing shall be stenographically reported. A transcript thereof shall be made available for examination at the offices of the tribunal or may be purchased pursuant to 20 RCNY § 1-16. If either party deems the transcript to be inaccurate in any material respect, the party shall promptly notify the administrative law judge and the other party, setting forth specifically the alleged inaccuracies. The administrative law judge shall specify the corrections to be made in the transcript, and such corrections shall be made a part of the record.
 
 (e) Determination.
 
    (1) Issuance of determination. The administrative law judge shall review the evidence and render a written determination which shall contain findings of fact and conclusions of law. The administrative law judge shall render a determination within six months of completion of any hearing held on or after October 1, 1992, or the submission of briefs relating to such hearing, whichever is later. The administrative law judge may extend such six-month period, for good cause shown, to no more than an additional three months. The tribunal shall serve a copy of the determination on the petitioner, if appearing pro se, or the petitioner's representative, and the attorney of record for the commissioner of finance.
 
-   (2) Effect of determination. The determination of the administrative law judge shall finally decide the matters in controversy unless a party takes exception by timely requesting review by the tribunal commissioners (see § 1-13 of these rules). Determinations of administrative law judges shall not be considered precedent, nor shall they be given any force or effect in other proceedings in the tribunal.
+   (2) Effect of determination. The determination of the administrative law judge shall finally decide the matters in controversy unless a party takes exception by timely requesting review by the tribunal commissioners (see 20 RCNY § 1-13). Determinations of administrative law judges shall not be considered precedent, nor shall they be given any force or effect in other proceedings in the tribunal.
 
 (f) Assignment of another administrative law judge. Whenever it becomes impractical for an administrative law judge to continue the hearing, another administrative law judge may be assigned to continue with the case, unless it is shown that substantial prejudice to a party will result therefrom.
 
@@ -617,7 +617,7 @@ In lieu of making a motion for an extension of time or for an adjournment under 
 
 (a) Entitlement to expedited proceedings. An expedited proceeding shall be scheduled in any matter commenced by the filing of a petition protesting a jeopardy assessment or predecision warrant based thereon, unless the petitioner elects otherwise.
 
-(b) Scheduling of conferences and other expedited proceedings. A conference as described in subdivision (d) of § 1-04 of these rules shall be scheduled and held by the tribunal within 5 business days of its receipt of such petition and such hearing or oral argument as is permitted or required shall be scheduled to be held within 10 business days of the conference.
+(b) Scheduling of conferences and other expedited proceedings. A conference as described in subdivision (d) of 20 RCNY § 1-04 shall be scheduled and held by the tribunal within 5 business days of its receipt of such petition and such hearing or oral argument as is permitted or required shall be scheduled to be held within 10 business days of the conference.
 
 (c) Applicability of rules. Except to the extent that they would conflict with the time limitations provided for in this section, all other provisions of these rules shall apply to such a matter, but will be liberally construed to allow for expedition.
 
@@ -655,7 +655,7 @@ If any person shall sign and submit to the tribunal a paper that
 
    (2) a transcript of the hearing, if any;
 
-   (3) copies of all exhibits or, where the parties consented to have the controversy determined on submission without hearing, the documents submitted to the administrative law judge pursuant to subdivision (f) of § 1-09 of these rules;
+   (3) copies of all exhibits or, where the parties consented to have the controversy determined on submission without hearing, the documents submitted to the administrative law judge pursuant to subdivision (f) of 20 RCNY § 1-09;
 
    (4) the determination of the administrative law judge and exceptions thereto, if any; and
 

@@ -29,11 +29,11 @@ Banking development district. "Banking development district" shall mean a geogra
 
 Branch. A "branch" shall mean any office or facility of a bank that is approved to operate as a branch by applicable state or federal authorities. Notwithstanding the above, the definition of "branch" shall not include automatic teller machines, convenience centers, mobile teller units, point-of-sale terminals, or similar facilities.
 
-Branch closing. A "branch closing" shall refer to a situation whereby an existing branch of a bank shall cease to meet the definition of a "branch" as defined in § 1-02 "Branch". Each branch merged or consolidated into a new or existing branch shall be deemed a branch closing. A sale or transfer of ownership of a branch of a bank that does not result in the cessation of branch services at that particular location as defined in § 1-02 "Branch" shall not be deemed a closing, even though ownership of such branch has been transferred or sold to another entity or person.
+Branch closing. A "branch closing" shall refer to a situation whereby an existing branch of a bank shall cease to meet the definition of a "branch" as defined in 22 RCNY § 1-02 "Branch". Each branch merged or consolidated into a new or existing branch shall be deemed a branch closing. A sale or transfer of ownership of a branch of a bank that does not result in the cessation of branch services at that particular location as defined in 22 RCNY § 1-02 "Branch" shall not be deemed a closing, even though ownership of such branch has been transferred or sold to another entity or person.
 
 Branch network. A "branch network" shall mean all of the branches of a bank which are located in New York City.
 
-Branch opening. A "branch opening" shall mean the establishment of a new branch at a particular location as defined in § 1-02 "Branch". A branch opening shall not include
+Branch opening. A "branch opening" shall mean the establishment of a new branch at a particular location as defined in 22 RCNY § 1-02 "Branch". A branch opening shall not include
 
    (1) a consolidation or merger of two or more branches that results in a new branch at a particular location, or
 
@@ -137,11 +137,11 @@ Lower income neighborhood or area. "Lower income neighborhood or area" shall mea
 
    (2) If a bank knows that it will be unable to complete its application in a timely manner, it may apply for an extension of time for submission of materials to the Banking Commission. The Banking Commission shall have the discretion to grant an extension of time up to an additional thirty days for the submission of missing materials if the bank applies for such an extension thirty days prior to the date the application is due.
 
-   (3) If a bank has failed to timely submit its application by the required date or within the applicable extension of time, or to complete or conform its application within fifteen days of notification by the Banking Commission of the need thereof, and such bank is not subject to the "necessity exception" as set forth in subdivision (f) of this section, then such bank shall not be designated and shall be subject to the provisions of § 1-04 of these rules.
+   (3) If a bank has failed to timely submit its application by the required date or within the applicable extension of time, or to complete or conform its application within fifteen days of notification by the Banking Commission of the need thereof, and such bank is not subject to the "necessity exception" as set forth in subdivision (f) of this section, then such bank shall not be designated and shall be subject to the provisions of 22 RCNY § 1-04.
 
 (e) Other requirements.
 
-   (1) Except as provided in subdivision (f) of this § 1-03, no bank shall be designated or shall remain designated pursuant to these rules unless it shall meet the following criteria:
+   (1) Except as provided in subdivision (f) of this 22 RCNY § 1-03, no bank shall be designated or shall remain designated pursuant to these rules unless it shall meet the following criteria:
 
       (i) it shall agree to pay into the City treasury interest or to provide the City with equivalent value on the daily balances at a rate which the Banking Commission shall negotiate according to the current rate of interest upon like balances deposited in banks in the City by private persons or corporations;
 
@@ -151,33 +151,33 @@ Lower income neighborhood or area. "Lower income neighborhood or area" shall mea
 
          (B) for a bank that maintains at least fifteen branches in New York City at the time it applies for designation and has closed more branches than it opened in New York City during the prior calendar year or cumulatively over the three prior calendar years: Such bank shall not have closed in lower income areas, more than 66% of the total number of branches it closed in New York City during the prior calendar year or cumulatively over the three prior calendar years;
 
-         (C) the above branch closing formula shall not apply to a bank so long as the bank satisfies the de minimis exception set forth in § 1-02.
+         (C) the above branch closing formula shall not apply to a bank so long as the bank satisfies the de minimis exception set forth in 22 RCNY § 1-02.
 
       (iv) it shall adhere to its policies as provided in the certificates filed by such bank with the Banking Commission and the City Clerk
 
-         (A) on branch closings, as set forth in § l-03(c)(2)(iii); and
+         (A) on branch closings, as set forth in 22 RCNY § 1-03(c)(2)(iii); and
 
-         (B) of not discriminating in the hiring and promotion of employees and officers or in the provision and delivery of banking services, as set forth in §§ 1-03(c)(2)(i) and (ii)
+         (B) of not discriminating in the hiring and promotion of employees and officers or in the provision and delivery of banking services, as set forth in 22 RCNY § 1-03(c)(2)(i) and (ii)
 
-      (v) if any bank seeking to be designated or any bank that is already designated fails to meet the branch closing formula set forth in § 1-03 (e)(1)(iii) or to conform to any of its policies stated above in paragraph (1)(iv) of this subdivision (e), then such bank shall be given the opportunity to raise relevant material facts in its defense before any action on its designation is taken. If the Banking Commission determines that the bank has either not met the branch formula standards or failed to conform to any stated policies, then the Banking Commission shall not designate such bank or shall revoke its designation upon thirty days' notice to such bank, except as provided in subdivision (f) of this section, and such bank shall be subject to the provisions of § 1-04 of these rules.
+      (v) if any bank seeking to be designated or any bank that is already designated fails to meet the branch closing formula set forth in 22 RCNY § 1-03(e)(1)(iii) or to conform to any of its policies stated above in paragraph (1)(iv) of this subdivision (e), then such bank shall be given the opportunity to raise relevant material facts in its defense before any action on its designation is taken. If the Banking Commission determines that the bank has either not met the branch formula standards or failed to conform to any stated policies, then the Banking Commission shall not designate such bank or shall revoke its designation upon thirty days' notice to such bank, except as provided in subdivision (f) of this section, and such bank shall be subject to the provisions of 22 RCNY § 1-04.
 
    (2) The Banking Commission shall have discretion not to designate a bank:
 
       (i) which closed more branches than it opened in New York City during the prior calendar year or cumulatively over the three prior calendar years if more than 25% but fewer than 66% of its total closings in New York City in the prior calendar year or cumulatively over the three prior calendar years were in lower income areas; or
 
-      (ii) which opened more branches than it closed in New York City during the prior calendar year or cumulatively over the three prior years if fewer than 25% of its total openings in New York City in the prior calendar year or cumulatively over the three prior calendar years were in lower income areas. Before determining whether not to designate a bank under this paragraph (2) of subdivision (e), the Banking Commission shall provide such bank an opportunity to raise relevant material facts in its defense. If the Banking Commission determines not to designate such bank, such bank shall be subject to the provisions of § 1-04 of these rules.
+      (ii) which opened more branches than it closed in New York City during the prior calendar year or cumulatively over the three prior years if fewer than 25% of its total openings in New York City in the prior calendar year or cumulatively over the three prior calendar years were in lower income areas. Before determining whether not to designate a bank under this paragraph (2) of subdivision (e), the Banking Commission shall provide such bank an opportunity to raise relevant material facts in its defense. If the Banking Commission determines not to designate such bank, such bank shall be subject to the provisions of 22 RCNY § 1-04.
 
 (f) Necessity exception.
 
    (1) The Banking Commission in its discretion may designate as a City depository a bank that does not meet the criteria set forth in this section upon a determination in writing, by majority vote, that the deposit of City moneys in such bank is necessary to obtain essential services that are not reasonably obtainable elsewhere. Notwithstanding the preceding sentence, the Banking Commission shall not designate a bank pursuant to this subdivision where the bank (i) is a branch of a savings bank, savings and loan association, federal savings and loan association, or federal savings bank located in a banking development district; or (ii) fails to comply with the designation criteria specified in subparagraphs (c)(2)(i) and (e)(1)(i) of this section.
 
-   (2) This exception to the designation requirements, hereinafter referred to as "the necessary exception," may be invoked by a City agency or a public administrator of the counties within New York City by petitioning the Banking Commission in writing to designate a bank under the necessity exception. Such petition shall set forth
+   (2) This exception to the designation requirements, hereinafter referred to as "the necessary exception," may be invoked by a City agency or a public administrator of the counties within New York City by petitioning the Banking Commission in writing to designate a bank under the necessity exception. Such petition shall set forth:
 
       (i) the agency's or public administrator's determination that the services provided by such bank are essential services which are not reasonably obtainable elsewhere and
 
       (ii) the agency's or public administrator's reasons supporting such a determination. Such petition must be approved by majority vote of the Banking Commission.
 
-   (3) (i) If the petition for a necessity exception is denied by the Banking Commission, then such bank shall not be designated, and the agency or public administrator shall not deposit any moneys or obtain any services incidental to the deposit of City moneys from such bank. In addition, such bank shall be subject to the provisions of § 1-04 of these rules.
+   (3) (i) If the petition for a necessity exception is denied by the Banking Commission, then such bank shall not be designated, and the agency or public administrator shall not deposit any moneys or obtain any services incidental to the deposit of City moneys from such bank. In addition, such bank shall be subject to the provisions of 22 RCNY § 1-04.
 
       (ii) If such petition is granted, the Banking Commission shall
 
@@ -189,7 +189,7 @@ Lower income neighborhood or area. "Lower income neighborhood or area" shall mea
 
    (4) If such bank shall be designated by the Banking Commission under the necessity exception as set forth above, then such bank shall be conditionally designated and its relationship to the City shall be subject to the following conditions:
 
-      (i) The bank shall provide only those services to the City that are specifically permitted under the necessity exception and that have been authorized in writing by the Banking Commission. No other banking agreements, banking services, or bank accounts with the City of New York shall be permitted and no currently effective agreement between the subject bank and the City shall be renewed or extended unless and until such bank meets all of the designation requirements under these rules and is then designated by the Banking Commission unconditionally. The provisions of § 1-04 shall apply to all deposits or other incidental banking services not specifically covered by the necessity exception.
+      (i) The bank shall provide only those services to the City that are specifically permitted under the necessity exception and that have been authorized in writing by the Banking Commission. No other banking agreements, banking services, or bank accounts with the City of New York shall be permitted and no currently effective agreement between the subject bank and the City shall be renewed or extended unless and until such bank meets all of the designation requirements under these rules and is then designated by the Banking Commission unconditionally. The provisions of 22 RCNY § 1-04 shall apply to all deposits or other incidental banking services not specifically covered by the necessity exception.
 
       (ii) A bank which shall have been conditionally designated may submit its application to be unconditionally designated for the next biennial designation period, or for some earlier time at the discretion of the Banking Commission.
 
@@ -203,7 +203,7 @@ Lower income neighborhood or area. "Lower income neighborhood or area" shall mea
 
 (a) Except as provided for under the necessity exception, the Banking Commission shall not designate any bank if it determines in writing, by majority vote, that such bank has not complied with any designation requirement contained herein.
 
-(b) If the Banking Commission shall determine in writing, by majority vote, that a designated bank has violated any designation requirement stated herein and that such bank is not subject to the necessity exception, then the Banking Commission shall revoke its designation upon thirty days' notice to such bank. If a designated bank violates the branch closing formula that is set forth in paragraph (1)(iii) of subdivision (e) of § 1-03 or fails to conform to any of the policies listed in paragraph (1)(iv) of that subdivision, then such bank shall be given the opportunity to raise relevant material facts in its defense before any action on its designation is taken.
+(b) If the Banking Commission shall determine in writing, by majority vote, that a designated bank has violated any designation requirement stated herein and that such bank is not subject to the necessity exception, then the Banking Commission shall revoke its designation upon thirty days' notice to such bank. If a designated bank violates the branch closing formula that is set forth in paragraph (1)(iii) of subdivision (e) of 22 RCNY § 1-03 or fails to conform to any of the policies listed in paragraph (1)(iv) of that subdivision, then such bank shall be given the opportunity to raise relevant material facts in its defense before any action on its designation is taken.
 
 (c) If the Banking Commission does not designate a bank or revokes its designation based upon the bank's failure to meet the City's designation requirements as stated herein, and if such bank has not been conditionally designated, then such bank shall be prohibited from holding City or public administrator deposits, and from providing banking services to the City, and making agreements or contracts with City agencies for banking services that are incidental to the holding of deposits of City moneys.
 

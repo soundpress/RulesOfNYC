@@ -228,7 +228,7 @@ Verification of data supplied on the application form which are pertinent to the
 
 (b) All applicants shall be required to provide the Burial Claims Unit with the following documentation:
 
-   (1) A Certificate of Death, which shall contain the name, date of death and place of death of the person to whom it relates and shall be properly certified by the local registrar, or a Certificate of Spontaneous Termination of Pregnancy. The Certificate of Spontaneous Termination of Pregnancy must be prepared in accordance with Article 203 of the New York City Health Code.
+   (1) A Certificate of Death, which shall contain the name, date of death and place of death of the person to whom it relates and shall be properly certified by the local registrar, or a Certificate of Spontaneous Termination of Pregnancy. The Certificate of Spontaneous Termination of Pregnancy must be prepared in accordance with 24 RCNY Health Code Article 203.
 
    (2) Two itemized funeral bills, indicating funeral charges, services and merchandise provided. The funeral bills shall be signed by the funeral director before a notary public.
 

@@ -1329,7 +1329,7 @@ Each tennis player must have a valid tennis permit to play on outdoor tennis cou
 (a) The Department will charge permit fees and other related fees in accordance with the tables below.
 
 TENNIS PERMITS &amp; FEES 
-								
+									
 
  
 
@@ -1472,8 +1472,8 @@ CAPITAL PROJECT BID DOCUMENTS
  
 
 (Amended City Record 2/10/2017, eff. 2/10/2017
-								; amended City Record 11/1/2017, eff. 12/1/2017
-								)
+									; amended City Record 11/1/2017, eff. 12/1/2017
+									)
 
 
 
@@ -1987,12 +1987,12 @@ CAPITAL PROJECT BID DOCUMENTS
 
 
 (a) Definitions. For the purposes of this section, the following terms shall have the following meanings: 
-								
+									
 
    Adult Athletic Complex Membership Fee. "Adult Athletic Complex Membership Fee" means the membership fee for use of the Ocean Breeze Track &amp; Field Athletic Complex for patrons between and including twenty-five (25) and sixty-one (61) years old, except for patrons who qualify for the Veteran Athletic Complex Membership Fee or the Person with Disability Athletic Complex Membership Fee. This membership fee does not include the Track &amp; Field Practice Fee. Membership includes, but is not limited to, use of the Track &amp; Field Area during designated times, fitness equipment, recreational programs, and group fitness classes.
 
    Adult Track &amp; Field Practice Fee. “Adult Track &amp; Field Practice Fee” means the Track &amp; Field Practice Fee for all patrons between and including twenty-five (25) and sixty-one (61) years old, except for patrons who qualify for the Veteran Track &amp; Field Practice Fee or the Person with Disability Track &amp; Field Practice Fee
-								.
+									.
 
    Child Athletic Complex Membership Fee. "Child Athletic Complex Membership Fee" means the membership fee for use of the Ocean Breeze Track &amp; Field Athletic Complex for patrons under eighteen (18) years old. This membership fee does not include the Track &amp; Field Practice Fee. Membership includes, but is not limited to, use of the Track &amp; Field Area during designated times, fitness equipment, recreational programs, and group fitness classes.
 
@@ -2229,7 +2229,7 @@ This membership does not include session fees. Membership includes, but is not l
 (b) No person shall use any recreation center and/or participate in activities requiring the payment of a session fee as defined in this section unless such person has paid the applicable annual membership fee set forth in subdivision (c) of this section in addition to any applicable session fees.
 
 (c) Recreation Center Membership Fee Schedules. The Commissioner shall charge a recreation center member subject to these provisions the amount set forth in the following schedule for an annual membership. Such annual membership does not include session fees.
-								
+									
 
  
 

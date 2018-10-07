@@ -27,9 +27,9 @@ WARNING: Drinking alcoholic beverages during pregnancy can cause birth defects.
 *§ 1-02 Dangerous underwater breathing behaviors.* ::
 
 
-(a) Definitions. Words and terms used in this section have the same meaning as in Article 165 of the New York City Health Code.
+(a) Definitions. Words and terms used in this section have the same meaning as in 24 RCNY Health Code Article 165.
 
-(b) Applicability. This section applies to persons owning or operating swimming pools who are required to have a permit issued by the Commissioner pursuant to Article 165 of the Health Code.
+(b) Applicability. This section applies to persons owning or operating swimming pools who are required to have a permit issued by the Commissioner pursuant to 24 RCNY Health Code Article 165.
 
 (c) Posting. Swimming pool permittees must post a sign, in a location easily seen from the pool deck of each pool in a bathing facility, and in each dressing area, warning swimmers of the dangers of taking deep breaths, one after the other, before swimming underwater, and the prohibition of breath-holding contests.
 
@@ -48,6 +48,11 @@ WARNING: Drinking alcoholic beverages during pregnancy can cause birth defects.
 
 
 
+
+
+
+**Appendix 1A: "NO BREATH-HOLDING CONTESTS" Poster**
+
 Chapter 3: Performance Summary Cards and Penalties for Child Care Programs
 --------------------------------------------------
 
@@ -56,7 +61,7 @@ Chapter 3: Performance Summary Cards and Penalties for Child Care Programs
 *§ 3-01 Scope and applicability.* ::
 
 
-This Chapter applies to any child care program holding a permit to operate in New York City, pursuant to Article 47 of the Health Code.
+This Chapter applies to any child care program holding a permit to operate in New York City, pursuant to 24 RCNY Health Code Article 47.
 
 
 
@@ -74,11 +79,11 @@ Adjudicated violations. “Adjudicated violations” means cited violations sust
 
 Initial inspection. “Initial inspection” means an inspection conducted other than for the purpose of ascertaining whether a prior violation has been abated or of responding to the receipt of a complaint.
 
-Permit. “Permit” means a permit issued by the Department, pursuant to Article 47 of the Health Code.
+Permit. “Permit” means a permit issued by the Department, pursuant to 24 RCNY Health Code Article 47.
 
 Permit suspension. “Permit suspension” means a suspension of a child care program’s permit to operate due to a violation of the Health Code or any rule promulgated by the Department, other than a suspension based on a cited violation that is subsequently dismissed.
 
-Public health hazard. “Public health hazard” has the same meaning as “imminent or public health hazard,” as such term is defined in Article 47 of the Health Code.
+Public health hazard. “Public health hazard” has the same meaning as “imminent or public health hazard,” as such term is defined in 24 RCNY Health Code Article 47.
 
 Site. “Site” means the location, specified in a permit, where child care services are provided.
 
@@ -176,7 +181,7 @@ Upon request from a child care child care program, the Department shall provide 
 
 (a) The holder of a permit of a child care program or any other person found to be in violation of any of the following provisions by a hearing officer at OATH or a successor tribunal must pay the following penalties for each such violation sustained:
 
-   (1) For a violation of any provision of Article 47 of the Health Code for which a fixed penalty is not established by the Health Code or any other rule of the Department: $200;
+   (1) For a violation of any provision of 24 RCNY Health Code Article 47 for which a fixed penalty is not established by the Health Code or any other rule of the Department: $200;
 
    (2) For a violation of 24 RCNY § 3-04(a) for operating without posting the required performance summary card: $1,000; and
 
@@ -377,11 +382,11 @@ Work. "Work" means a horse is considered to be at work when it is out of its sta
 
 (d) Provision for escorts. No person shall be permitted to take a riding horse off the stable grounds without the escort of a properly experienced rider unless such person has demonstrated sufficient skill in handling of the horse in the presence of stable personnel.
 
-(e) Joint liability of owner and renter. An owner shall be jointly liable with the person to whom a horse is rented for any violation of these regulations committed by such person if the owner had knowledge or notice of such act and did not attempt to prevent it from occurring. Owners, operators, or riders of horses shall be in violation of these regulations and of Subchapter 3 of Chapter 3 of Title 17 of the New York City Administrative Code if a horse is abused during their ownership, care or custody. Joint responsibility for a horse shall exist under circumstances as described in § 4-06(e).
+(e) Joint liability of owner and renter. An owner shall be jointly liable with the person to whom a horse is rented for any violation of these regulations committed by such person if the owner had knowledge or notice of such act and did not attempt to prevent it from occurring. Owners, operators, or riders of horses shall be in violation of these regulations and of Subchapter 3 of Chapter 3 of Title 17 of the New York City Administrative Code if a horse is abused during their ownership, care or custody. Joint responsibility for a horse shall exist under circumstances as described in 24 RCNY § 4-06(e).
 
 (f) Civil violations and penalties. Any violation of Subchapter 3 of Chapter 3 of Title 17 of the New York City Administrative Code or of these regulations may be prosecuted as civil violations subject to a civil penalty of a sum not less than twenty-five nor more than five hundred dollars or by the suspension from work of the horse with respect to which the act which caused the violation was committed or by both such civil penalty and suspension. Civil violations, under these regulations shall be adjudicated before the Administrative Tribunal of the Department.
 
-(g) Appeals. An appeal from such prosecution may be had as provided for in Article 7 of the New York City Health Code.
+(g) Appeals. An appeal from such prosecution may be had as provided for in 24 RCNY Health Code Article 7.
 
 
 
@@ -396,6 +401,11 @@ Each person registering for the training program offered to drivers of horse dra
 
 
 
+
+
+
+**APPENDIX A**
+
 Chapter 5: Pet Shops
 --------------------------------------------------
 
@@ -404,7 +414,7 @@ Chapter 5: Pet Shops
 *§ 5-01 Scope and applicability.* ::
 
 
-This Chapter applies to any retail sale of a dog or a cat by a pet shop located in New York City that is subject to Chapters 3, 8, and 17 of Title 17 of the Administrative Code. It does not apply to the sale of a cat or dog by a person who breeds and sells directly to consumers fewer than a total of 25 dogs and cats per calendar year where such dogs and cats are born and raised on the breeder’s residential premises. It also does not apply to the sale of any other animal by a pet shop operated in accordance with a permit issued by the Commissioner pursuant to New York City Health Code (“Health Code”) §§ 5.07 and 161.09. Nothing in this Chapter exempts a pet shop from also complying with any applicable provisions of the Health Code.
+This Chapter applies to any retail sale of a dog or a cat by a pet shop located in New York City that is subject to Chapters 3, 8, and 17 of Title 17 of the Administrative Code. It does not apply to the sale of a cat or dog by a person who breeds and sells directly to consumers fewer than a total of 25 dogs and cats per calendar year where such dogs and cats are born and raised on the breeder’s residential premises. It also does not apply to the sale of any other animal by a pet shop operated in accordance with a permit issued by the Commissioner pursuant to 24 RCNY Health Code §§ 5.07 and 161.09. Nothing in this Chapter exempts a pet shop from also complying with any applicable provisions of the Health Code.
 
 
 
@@ -484,7 +494,7 @@ Before selling any dog, a pet shop must obtain from the prospective purchaser an
 *§ 5-05 Adoption promotions at pet shops.* ::
 
 
-(a) A pet shop that allows an animal shelter or non-profit animal rescue group to use its facilities to offer animals for adoption must obtain a copy of either the permit issued to the animal shelter by the Commissioner pursuant to Health Code § 161.09, or proof of the animal rescue group’s incorporated not-for-profit status. Whenever the animal shelter or rescue group is offering animals for adoption at the pet shop, the pet shop must have on site, and available for inspection upon request, the shelter permit or animal rescue group’s proof of not-forprofit status, and the shelter or animal rescue group’s registration of such status and exemption, issued by the New York State Department of Agriculture and Markets pursuant to New York State Agriculture and Markets Law Section 408.3, from the definition of “pet dealer” set forth in New York State Agriculture and Markets Law Section 400.4.
+(a) A pet shop that allows an animal shelter or non-profit animal rescue group to use its facilities to offer animals for adoption must obtain a copy of either the permit issued to the animal shelter by the Commissioner pursuant to 24 RCNY Health Code § 161.09, or proof of the animal rescue group’s incorporated not-for-profit status. Whenever the animal shelter or rescue group is offering animals for adoption at the pet shop, the pet shop must have on site, and available for inspection upon request, the shelter permit or animal rescue group’s proof of not-forprofit status, and the shelter or animal rescue group’s registration of such status and exemption, issued by the New York State Department of Agriculture and Markets pursuant to New York State Agriculture and Markets Law Section 408.3, from the definition of “pet dealer” set forth in New York State Agriculture and Markets Law Section 400.4.
 
 (b) A pet shop will not be required to comply with the requirements of 24 RCNY §§ 5-03 and 5-04 regarding any dog or cat offered for adoption by an animal shelter or animal rescue organization using such pet shop’s facilities, provided that such pet shop does not have an ownership interest in such animal.
 
@@ -513,7 +523,7 @@ Chapter 6: Mobile Food Vending
 *§ 6-01 Scope and applicability.* ::
 
 
-All mobile food vendors and the mobile food vending units operated in the City of New York are subject to and must comply with all applicable provisions of Articles 5, 71, 81, 89 and all other applicable provisions of the New York City Health Code (the "Health Code"); Title 17 of the Administrative Code of the City of New York (the "Administrative Code"); Part 14 of the New York State Sanitary Code (the "Sanitary Code"); and the rules of the Department set forth in this Chapter and Chapters 20, 26 and other applicable provisions of Title 24 of the Rules of the City of New York.
+All mobile food vendors and the mobile food vending units operated in the City of New York are subject to and must comply with all applicable provisions of 24 RCNY Health Code Articles 5, 71, 81, 89 and all other applicable provisions of the New York City Health Code (the "Health Code"); Title 17 of the Administrative Code of the City of New York (the "Administrative Code"); Part 14 of the New York State Sanitary Code (the "Sanitary Code"); and the rules of the Department set forth in this Chapter and 24 RCNY Chapters 20, 26 and other applicable provisions of Title 24 of the Rules of the City of New York.
 
 
 
@@ -527,27 +537,27 @@ Words and terms used in this Chapter have the following meanings:
 
 Acceptable to the Department means acceptable under conditions of use and being used in conformance with applicable regulatory, industrial or other safety standards.
 
-Contaminated has the meaning set forth in Article 81 of the Health Code.
+Contaminated has the meaning set forth in 24 RCNY Health Code Article 81.
 
 Detergent sanitizer means a solution used to wash and/or sanitize utensils and equipment.
 
-Food has the meaning set forth in Article 71 of the Health Code.
+Food has the meaning set forth in 24 RCNY Health Code Article 71.
 
-Food grade material means material certified as meeting the standards of the National Sanitation Foundation (NSF) or other organization utilizing a process approved by the American National Standards Institute (ANSI), or that is otherwise acceptable to the Department in compliance with § 81.17 of the Health Code or successor provision. During use with food products such material shall not react with such food products or food contact surfaces; and shall not contaminate or impart any odor, color or taste to such food products. No food additive, food equipment, lubricant or other similar substance used in food processing, preparation, storage or service shall expose food to physical debris, toxic chemicals, harmful substances or other contaminants.
+Food grade material means material certified as meeting the standards of the National Sanitation Foundation (NSF) or other organization utilizing a process approved by the American National Standards Institute (ANSI), or that is otherwise acceptable to the Department in compliance with 24 RCNY Health Code § 81.17 or successor provision. During use with food products such material shall not react with such food products or food contact surfaces; and shall not contaminate or impart any odor, color or taste to such food products. No food additive, food equipment, lubricant or other similar substance used in food processing, preparation, storage or service shall expose food to physical debris, toxic chemicals, harmful substances or other contaminants.
 
 Green cart has the meaning set forth in § 17-306(s) of the Administrative Code or successor provision.
 
 Mobile food commissary or other facility approved by the Department means either
 
-   (i) A commissary that complies with the requirements of Articles 81 and § 89.27 of the Health Code, or
+   (i) A commissary that complies with the requirements of 24 RCNY Health Code Article 81 and 24 RCNY Health Code § 89.27, or
 
    (ii) Another facility providing storage and/or cleaning of no more than four Class D or Class E mobile food vending units, nor more than one food truck, in accordance with 24 RCNY § 6-08.
 
-Mobile food vending unit means a food service establishment as defined in Article 81 of the Health Code located in a pushcart or truck, self or otherwise propelled, used to store, prepare, display, serve or sell food, or distribute food free of charge to the public, for consumption in a place other than in or on the unit. Any such pushcart or food truck is deemed a mobile food vending unit whether operated indoors or outdoors, on public, private or restricted space. A mobile food vending unit does not mean a stand or a booth.
+Mobile food vending unit means a food service establishment as defined in 24 RCNY Health Code Article 81 located in a pushcart or truck, self or otherwise propelled, used to store, prepare, display, serve or sell food, or distribute food free of charge to the public, for consumption in a place other than in or on the unit. Any such pushcart or food truck is deemed a mobile food vending unit whether operated indoors or outdoors, on public, private or restricted space. A mobile food vending unit does not mean a stand or a booth.
 
 Potable water means drinking water that meets the drinking water requirements of subpart 5-1 of the State Sanitary Code and is thereby suitable for human consumption or use directly or indirectly in connection with the preparation of food for human consumption, including ice making and cleaning of utensils and equipment.
 
-Potentially hazardous food has the meaning set forth in Article 81 of the Health Code.
+Potentially hazardous food has the meaning set forth in 24 RCNY Health Code Article 81.
 
 Pre-permit inspection by the Department means the inspection of a mobile food vending unit in which the Department determines that the unit has been constructed and equipped in accordance with this Chapter. A pre-permit inspection by the Department is required:
 
@@ -557,13 +567,13 @@ Pre-permit inspection by the Department means the inspection of a mobile food ve
 
    (iii) When a permittee seeks to amend a permit classification from non-processing to processing or processing to non-processing;
 
-   (iv) When a mobile food vending unit has sustained a material alteration, as defined in § 89.03(e) of the Health Code; or
+   (iv) When a mobile food vending unit has sustained a material alteration, as defined in 24 RCNY Health Code § 89.03(e); or
 
    (v) When any permit decal has been removed.
 
-Processing means transforming food into the form in which it is to be served to the mobile food vending unit patron, including, but not limited to, by means of slicing, dicing, grating, portioning, blending, mixing, combining, cooking and reheating, or otherwise treating food in such a way as to create a risk that it may become adulterated if improperly handled. Portioning by butchering is not allowed; food may be processed on a mobile food vending unit only in accordance with Article 89 of the Health Code. A person who processes food on a mobile food vending unit is not a manufacturer, as that term is defined in Administrative Code § 17-306 (p), or successor provision of law.
+Processing means transforming food into the form in which it is to be served to the mobile food vending unit patron, including, but not limited to, by means of slicing, dicing, grating, portioning, blending, mixing, combining, cooking and reheating, or otherwise treating food in such a way as to create a risk that it may become adulterated if improperly handled. Portioning by butchering is not allowed; food may be processed on a mobile food vending unit only in accordance with 24 RCNY Health Code Article 89. A person who processes food on a mobile food vending unit is not a manufacturer, as that term is defined in Administrative Code § 17-306(p), or successor provision of law.
 
-Sanitization means effective treatment by heat or chemical means that destroys pathogens on surfaces treated and is acceptable to the Department, as defined in § 81.03(ii) of the Health Code, or successor provision.
+Sanitization means effective treatment by heat or chemical means that destroys pathogens on surfaces treated and is acceptable to the Department, as defined in 24 RCNY Health Code § 81.03(ii), or successor provision.
 
 Ware washing or multi-compartment sink means a sink, other than a hand wash, dedicated to washing cookware, kitchenware and utensils.
 
@@ -575,15 +585,15 @@ Ware washing or multi-compartment sink means a sink, other than a hand wash, ded
 *§ 6-03 Mobile food vending unit classifications.* ::
 
 
-Mobile food vending units shall be classified based on the foods, processing and packaging of foods served. Class A and Class B units are processing units and Class C, Class D and Class E units are non-processing units for the purpose of payment of the permit fees set forth in § 17-308 (c) of the Administrative Code, or successor provision, and Article 5 of the Health Code.
+Mobile food vending units shall be classified based on the foods, processing and packaging of foods served. Class A and Class B units are processing units and Class C, Class D and Class E units are non-processing units for the purpose of payment of the permit fees set forth in § 17-308(c) of the Administrative Code, or successor provision, and 24 RCNY Health Code Article 5.
 
-(a) Class A mobile food vending unit means a processing unit on which raw, pre-cooked and/or manufactured potentially hazardous foods requiring temperature control as specified in Health Code § 81.09 are stored, prepared and provided for individual service. Such foods include, but are not limited to, grilled or fried meats, sausages, poultry, shish kebab, hamburgers, eggs and gyros.
+(a) Class A mobile food vending unit means a processing unit on which raw, pre-cooked and/or manufactured potentially hazardous foods requiring temperature control as specified in 24 RCNY Health Code § 81.09 are stored, prepared and provided for individual service. Such foods include, but are not limited to, grilled or fried meats, sausages, poultry, shish kebab, hamburgers, eggs and gyros.
 
-(b) Class B mobile food vending unit means a processing unit in or on which pre-cooked and/or manufactured potentially hazardous foods requiring temperature control as specified in § 81.09 of the Health Code are stored, prepared and provided for individual service. Such foods include, but are not limited to, sandwiches prepared on the unit, raw fruits, vegetables and salads, breads, bagels and rolls buttered or topped with cream cheese on the unit, smoothies and soft serve ice cream.
+(b) Class B mobile food vending unit means a processing unit in or on which pre-cooked and/or manufactured potentially hazardous foods requiring temperature control as specified in 24 RCNY Health Code § 81.09 are stored, prepared and provided for individual service. Such foods include, but are not limited to, sandwiches prepared on the unit, raw fruits, vegetables and salads, breads, bagels and rolls buttered or topped with cream cheese on the unit, smoothies and soft serve ice cream.
 
-(c) Class C mobile food vending unit means a non-processing unit in or on which only intact, prepackaged potentially hazardous foods requiring temperature control as specified in Health Code § 81.09 are provided for individual service. Such foods include, but are not be limited to, prepackaged frozen desserts, prepackaged sandwiches, and prepackaged and presliced fruits and vegetables.
+(c) Class C mobile food vending unit means a non-processing unit in or on which only intact, prepackaged potentially hazardous foods requiring temperature control as specified in 24 RCNY Health Code § 81.09 are provided for individual service. Such foods include, but are not be limited to, prepackaged frozen desserts, prepackaged sandwiches, and prepackaged and presliced fruits and vegetables.
 
-(d) Class D mobile food vending unit means a non-processing unit in or on which non-potentially hazardous packaged or unpackaged foods not requiring temperature control for safety are provided or served. Such foods include, but are not limited to, brewed coffee and tea, donuts, pastries, rolls and bagels buttered or topped with cream cheese at a commissary, popcorn, cotton candy, nuts, candied nuts, soft pretzels, and chestnuts, regardless of whether such foods are heated for aesthetic purposes. However, mobile food vending units that prepare and serve any potentially hazardous foods, including but not limited to, dairy products, pre-cooked or manufactured knishes, boiled frankfurters and sausages are Class D mobile food units that require equipment or other means of holding potentially hazardous foods at the temperatures required by Articles 81 and 89 of the Health Code.
+(d) Class D mobile food vending unit means a non-processing unit in or on which non-potentially hazardous packaged or unpackaged foods not requiring temperature control for safety are provided or served. Such foods include, but are not limited to, brewed coffee and tea, donuts, pastries, rolls and bagels buttered or topped with cream cheese at a commissary, popcorn, cotton candy, nuts, candied nuts, soft pretzels, and chestnuts, regardless of whether such foods are heated for aesthetic purposes. However, mobile food vending units that prepare and serve any potentially hazardous foods, including but not limited to, dairy products, pre-cooked or manufactured knishes, boiled frankfurters and sausages are Class D mobile food units that require equipment or other means of holding potentially hazardous foods at the temperatures required by 24 RCNY Health Code Articles 81 and 89.
 
 (e) Class E mobile food vending unit means a green cart or other non-processing mobile food vending unit in or on which only non-potentially hazardous uncut fruits and vegetables are sold or held for sale or service.
 
@@ -599,9 +609,9 @@ Mobile food vending units shall be classified based on the foods, processing and
 *§ 6-04 Mobile food vending units: pre-permit construction and equipment requirements for all classes of mobile food vending units.* ::
 
 
-Mobile food vending units must be constructed and equipped so that they may be maintained and operated in a clean and sanitary manner, in accordance with all applicable law, so as to protect foods from contamination by dust, dirt and toxic and other substances, and the public from risk of injury, and must be equipped in accordance with the requirements set forth in Table 1 in § 6-05 of this Chapter. Units and equipment must be manufactured from easily cleanable, durable, hard, smooth, non-porous, non-absorbent, non-reactive and non-toxic materials. All equipment must be fastened securely to the mobile food vending unit. No mobile food vending unit or truck may be used as a dwelling, or for sleeping or other residential purposes for any period of time.
+Mobile food vending units must be constructed and equipped so that they may be maintained and operated in a clean and sanitary manner, in accordance with all applicable law, so as to protect foods from contamination by dust, dirt and toxic and other substances, and the public from risk of injury, and must be equipped in accordance with the requirements set forth in Table 1 in 24 RCNY § 6-05. Units and equipment must be manufactured from easily cleanable, durable, hard, smooth, non-porous, non-absorbent, non-reactive and non-toxic materials. All equipment must be fastened securely to the mobile food vending unit. No mobile food vending unit or truck may be used as a dwelling, or for sleeping or other residential purposes for any period of time.
 
-(a) Food contact surfaces. Food contact surfaces, as defined in Health Code § 81.03(p) or successor provision, shall be constructed of easily cleanable, non-toxic commercial food grade materials; kept free of cracks, chips, holes, pits and sharp edges; and maintained in a clean and sanitary condition. Upon request of the Department, a permittee shall provide proof acceptable to the Department that a material used in construction or equipping of a mobile food unit is certified as food grade.
+(a) Food contact surfaces. Food contact surfaces, as defined in 24 RCNY Health Code § 81.03(p) or successor provision, shall be constructed of easily cleanable, non-toxic commercial food grade materials; kept free of cracks, chips, holes, pits and sharp edges; and maintained in a clean and sanitary condition. Upon request of the Department, a permittee shall provide proof acceptable to the Department that a material used in construction or equipping of a mobile food unit is certified as food grade.
 
    (1) Lubricants. Equipment for processing foods that contain bearings and gears maintained and operated with non-food grade lubricants must be designed and constructed so that lubricants can not leak, drip, or contaminate food or food contact surfaces.
 
@@ -621,11 +631,11 @@ Mobile food vending units must be constructed and equipped so that they may be m
 
 (d) Ventilation. Cooking equipment shall be mechanically ventilated to prevent a nuisance from heat, smoke, odors or fumes. Mechanical ventilation hoods and equipment shall be installed and used to prevent grease, steam, smoke, and odors from collecting on interior surfaces, contaminating food and creating a nuisance. If filters and other grease extracting equipment are not designed to be cleaned in place, they must be readily removable for cleaning and replacement, and must be removed and cleaned to prevent accumulations of grease. Power generators shall be used and vented in accordance with manufacturers' specifications.
 
-(e) Insect and rodent control. Mobile food vending units shall be maintained so as to be free of insects, rodents, and conditions promoting harborage, as defined in Article 151 of the Health Code, and breeding of insects and rodents.
+(e) Insect and rodent control. Mobile food vending units shall be maintained so as to be free of insects, rodents, and conditions promoting harborage, as defined in 24 RCNY Article 151, and breeding of insects and rodents.
 
-(f) Potable water supply. Mobile food vending units that are required to maintain a potable water supply in accordance with Table 1 of § 6-05 shall be equipped with plumbing and plumbing fixtures that provide adequate supplies of potable hot and cold water during all times of operation. Individuals operating mobile food vending units shall maintain sufficient supplies of potable water to allow for hand, ware and food washing and food preparation. Plumbing and fixtures shall be properly connected, vented and drained to prevent contamination of the City water supply or any other potable water supply. Water supply outlets and connections to water supply fixtures or equipment shall be designed and constructed to prevent back-flow into the water supply. Bottled and packaged potable water certified by the New York State Department of Health for sale in New York State may be used to supplement the potable water supply, if handled and stored in a way that protects it from contamination. If used, bottled and packaged potable water shall only be poured into tanks from the original containers. Failure to provide and maintain potable water supplies required by this Chapter is an imminent health hazard requiring immediate cessation of operation of any mobile food vending unit.
+(f) Potable water supply. Mobile food vending units that are required to maintain a potable water supply in accordance with Table 1 of 24 RCNY § 6-05 shall be equipped with plumbing and plumbing fixtures that provide adequate supplies of potable hot and cold water during all times of operation. Individuals operating mobile food vending units shall maintain sufficient supplies of potable water to allow for hand, ware and food washing and food preparation. Plumbing and fixtures shall be properly connected, vented and drained to prevent contamination of the City water supply or any other potable water supply. Water supply outlets and connections to water supply fixtures or equipment shall be designed and constructed to prevent back-flow into the water supply. Bottled and packaged potable water certified by the New York State Department of Health for sale in New York State may be used to supplement the potable water supply, if handled and stored in a way that protects it from contamination. If used, bottled and packaged potable water shall only be poured into tanks from the original containers. Failure to provide and maintain potable water supplies required by this Chapter is an imminent health hazard requiring immediate cessation of operation of any mobile food vending unit.
 
-   (1) Tank capacity. When a potable water supply is required by Table 1 of § 6-05 of this Chapter, a food truck shall be equipped with a tank or tanks with a total capacity of no less than 40 gallons; other mobile food vending units shall be equipped with a tank or tanks with a total capacity of no less than 10 gallons. All tanks shall be filled to capacity prior to beginning operation or operating, as defined in Health Code § 89.03 (j). On and after January 1, 2018, all water tanks shall be equipped with a water level indicator visible from outside the tanks.
+   (1) Tank capacity. When a potable water supply is required by Table 1 of 24 RCNY § 6-05, a food truck shall be equipped with a tank or tanks with a total capacity of no less than 40 gallons; other mobile food vending units shall be equipped with a tank or tanks with a total capacity of no less than 10 gallons. All tanks shall be filled to capacity prior to beginning operation or operating, as defined in 24 RCNY Health Code § 89.03(j). On and after January 1, 2018, all water tanks shall be equipped with a water level indicator visible from outside the tanks.
 
    (2) Water tanks and inlet pipes. Water tanks shall be constructed of food grade materials that are corrosion resistant, durable and non-absorbent. Water inlet pipes shall be made of flexible, food-grade material. The fitting for hose connections shall be capped except when tanks are being filled.
 
@@ -639,21 +649,21 @@ Mobile food vending units must be constructed and equipped so that they may be m
 
       (C) No equipment may be directly attached to the potable water supply unless an approved backflow device is installed.
 
-   (2) Pressure. Potable water, when required by Table of § 6-05 of this Chapter, shall be dispensed at sufficient pressure to provide a constant adequate flow.
+   (2) Pressure. Potable water, when required by Table 1 of 24 RCNY § 6-05, shall be dispensed at sufficient pressure to provide a constant adequate flow.
 
-(h) Waste water system. Waste water shall be stored and disposed of in accordance with § 89.25 of the Health Code.
+(h) Waste water system. Waste water shall be stored and disposed of in accordance with 24 RCNY Health Code § 89.25.
 
    (1) Waste water storage tanks and pipes shall be designed and maintained so as not to leak or spill on sidewalks or public streets.
 
-   (2) When required by Table 1 of § 6-05 of this Chapter, waste water tanks shall have a minimum capacity that is at least 15% greater than the potable water supply capacity and be clearly and permanently labeled "waste water."
+   (2) When required by Table 1 of 24 RCNY § 6-05, waste water tanks shall have a minimum capacity that is at least 15% greater than the potable water supply capacity and be clearly and permanently labeled "waste water."
 
    (3) Mobile food vending units creating liquid waste, including but not limited to units serving beverages such as coffee or tea or boiling frankfurters or holding melting ice, shall be equipped with a waste water tank with a minimum capacity that is at least 15% greater than the amount of water used for brewing coffee, processing food or for other liquid waste.
 
-   (4) Mechanically refrigerated equipment and containers where ice is used must be equipped with an indirect waste connection, in accordance with Health Code § 81.20, that drains into the waste tank.
+   (4) Mechanically refrigerated equipment and containers where ice is used must be equipped with an indirect waste connection, in accordance with 24 RCNY Health Code § 81.20, that drains into the waste tank.
 
 (i) Hand washing, ware washing and food washing.
 
-   (1) Hand wash sink. When required by Table 1 of § 6-05 of this Chapter, mobile food vending units must be equipped with a separate hand wash sink or with one compartment of a multi-compartment sink that is used only for hand washing and no other purpose. The hand wash sink must:
+   (1) Hand wash sink. When required by Table 1 of 24 RCNY § 6-05, mobile food vending units must be equipped with a separate hand wash sink or with one compartment of a multi-compartment sink that is used only for hand washing and no other purpose. The hand wash sink must:
 
       (A) Be located in the food preparation area, accessible for immediate use at all times, at a convenient height, and not obstructed by or used to store supplies or other equipment;
 
@@ -665,25 +675,25 @@ Mobile food vending units must be constructed and equipped so that they may be m
 
       (E) Be equipped with supplies of soap and paper towels or other single-use hand drying device; and
 
-      (F) Be equipped with "Wash Hands" signs in accordance with Health Code § 81.21 (c).
+      (F) Be equipped with "Wash Hands" signs in accordance with 24 RCNY Health Code § 81.21(c).
 
    (2) Ware washing and sanitizing sink.
 
-      (A) All equipment and utensils must be cleaned and sanitized at least once daily at the mobile vending unit commissary in accordance with Health Code § 89.19(l). When required by Table 1 of § 6-05 of this Chapter, a sink with a swivel faucet must be provided to wash and sanitize utensils and equipment that have become contaminated while the unit is in operation before being re-used.
+      (A) All equipment and utensils must be cleaned and sanitized at least once daily at the mobile vending unit commissary in accordance with 24 RCNY Health Code § 89.19(l). When required by Table 1 of 24 RCNY § 6-05, a sink with a swivel faucet must be provided to wash and sanitize utensils and equipment that have become contaminated while the unit is in operation before being re-used.
 
       (B) Utensils being used to serve or dispense ready to eat foods may be stored in a container of water heated to and maintained at 135 degrees Fahrenheit (57 degrees Celsius) or higher. The container must be cleaned and sanitized at least once every 24 hours at the permittee's commissary, and be large enough to allow immersion of the largest sized utensils.
 
       (C) A sink used for ware washing and sanitizing may be used for washing foods, but may not be used for washing hands or as a slop or utility sink.
 
-   (3) Washing foods in a separate food washing sink or food grade container. When required by Table 1 of § 6-05, a separate dedicated sink, or a food grade container placed in a compartment of a ware washing sink may be used for washing food that requires washing while the unit is in operation.
+   (3) Washing foods in a separate food washing sink or food grade container. When required by Table 1 of 24 RCNY § 6-05, a separate dedicated sink, or a food grade container placed in a compartment of a ware washing sink may be used for washing food that requires washing while the unit is in operation.
 
       (A) The sink and the colander in which food is washed must not contain any other equipment or supplies when food is being washed, and must be cleaned and sanitized before and after washing any food.
 
-      (B) Any sink in which food is washed must be indirectly drained as defined in § 81.03(z) of the Health Code or successor provision.
+      (B) Any sink in which food is washed must be indirectly drained as defined in 24 RCNY Health Code § 81.03(z) or successor provision.
 
    (4) No sink used for washing hands, wares or food may be used as a slop or utility sink.
 
-(l) Hot and cold storage. When required by Table 1 of § 6-05 of this Chapter, mechanical or other holding equipment shall be provided and used to hold potentially hazardous hot foods at or above 140 degrees Fahrenheit (60 degrees Celsius) and cold foods at or below 41 degrees Fahrenheit (five degrees Celsius).
+(l) Hot and cold storage. When required by Table 1 of 24 RCNY § 6-05, mechanical or other holding equipment shall be provided and used to hold potentially hazardous hot foods at or above 140 degrees Fahrenheit (60 degrees Celsius) and cold foods at or below 41 degrees Fahrenheit (five degrees Celsius).
 
    (1) Thermometers. Each hot and cold storage unit shall be equipped with a numerically scaled or other indicating thermometer, accurate to plus or minus two degrees Fahrenheit (one degree Celsius).
 
@@ -703,7 +713,7 @@ Mobile food vending units must be constructed and equipped so that they may be m
 
 (o) Overhead structure. Every mobile food vending unit shall be equipped or constructed with an overhead structure such as an overhang, roof, canopy, umbrella or similar device adequate to protect food and equipment from contamination.
 
-(p) Food security. All mobile food vending units shall be equipped with appropriate food grade coverings, tamper-proof locks or other mechanisms. Vendors shall secure such units when it is necessary to leave mobile food vending units unattended on a street for no more than one-half hour. Units left unattended for periods longer than one-half hour shall be deemed abandoned and an imminent health hazard, in accordance with Health Code § 89.31(c).
+(p) Food security. All mobile food vending units shall be equipped with appropriate food grade coverings, tamper-proof locks or other mechanisms. Vendors shall secure such units when it is necessary to leave mobile food vending units unattended on a street for no more than one-half hour. Units left unattended for periods longer than one-half hour shall be deemed abandoned and an imminent health hazard, in accordance with 24 RCNY Health Code § 89.31(c).
 
 
 
@@ -713,9 +723,9 @@ Mobile food vending units must be constructed and equipped so that they may be m
 *§ 6-05 Mobile food vending units: supplies and equipment required for different classes of mobile food vending units.* ::
 
 
-(a) In addition to the general requirements for construction and design of mobile food vending units and their equipment in § 6-04 of this Chapter, each class of vending units shall be supplied and equipped in accordance with Table 1 of this section. The minimum equipment required is determined by the class of the unit and the foods that are processed and/or sold on the unit.
+(a) In addition to the general requirements for construction and design of mobile food vending units and their equipment in 24 RCNY § 6-04, each class of vending units shall be supplied and equipped in accordance with Table 1 of this section. The minimum equipment required is determined by the class of the unit and the foods that are processed and/or sold on the unit.
 
-(b) Permit subject to revocation; mobile food vending units subject to seizure. Persons who prepare, process or serve foods from a mobile food vending unit that is not equipped in accordance with the requirements specified for the unit's permit classification as set forth in this section will be deemed to be vending without a permit. Such units and their contents are subject to seizure, removal of the permit decal or insignia, and any other sanctions prescribed by applicable law, including but not limited to, provisions of Article 89 of the Health Code.
+(b) Permit subject to revocation; mobile food vending units subject to seizure. Persons who prepare, process or serve foods from a mobile food vending unit that is not equipped in accordance with the requirements specified for the unit's permit classification as set forth in this section will be deemed to be vending without a permit. Such units and their contents are subject to seizure, removal of the permit decal or insignia, and any other sanctions prescribed by applicable law, including but not limited to, provisions of 24 RCNY Health Code Article 89.
 
 Table 1. Supply and Equipment Requirements for Mobile Food Vending Units
 
@@ -729,7 +739,7 @@ Table 1. Supply and Equipment Requirements for Mobile Food Vending Units
       - Potable water
       - Food and ware washing sinks1
       - Hand wash sink
-      - Waste water tank
+      - Waste- water tank
       - Overhead structure
       - Ventila- tion
       - Cold holding
@@ -859,7 +869,7 @@ Table 1. Supply and Equipment Requirements for Mobile Food Vending Units
 
    (8) No live animals shall be kept or allowed within any storage or cleaning facility.
 
-   (9) Garbage, refuse and other solid and liquid wastes shall be collected and stored at the mobile food vending unit while the unit is in use, and removed from the unit and disposed of at a commissary or other approved facility so as not to create a nuisance in accordance with Health Code § 89.25.
+   (9) Garbage, refuse and other solid and liquid wastes shall be collected and stored at the mobile food vending unit while the unit is in use, and removed from the unit and disposed of at a commissary or other approved facility so as not to create a nuisance in accordance with 24 RCNY Health Code § 89.25.
 
 
 
@@ -885,11 +895,11 @@ Table 1. Supply and Equipment Requirements for Mobile Food Vending Units
 
 (a) "A" violations defined. For the purposes of mobile vending permit or license renewal, or issuance of a new license or permit, "A" violations are all violations of the Health Code, the State Sanitary Code, these rules and the violations of the Administrative Code listed in subdivision (d) of this section where the licensee, permittee or applicant is found in violation as a result of a hearing on the merits or by default.
 
-(b) "A" violation penalties to be paid. Every person renewing a mobile food vending license or a mobile food unit permit, or applying for a new mobile food vending license or mobile food unit permit shall pay all fines and penalties for all "A" violations as defined by subdivision (b) of this section that have been adjudicated, or for which the licensee, permittee or applicant for a license or permit has been found in default. Proof of payment of all such fines and penalties must be submitted prior to issuance of a new or renewal license or permit, notwithstanding the provisions of New York City Charter § 1049-a (d)(1)(i).
+(b) "A" violation penalties to be paid. Every person renewing a mobile food vending license or a mobile food unit permit, or applying for a new mobile food vending license or mobile food unit permit shall pay all fines and penalties for all "A" violations as defined by subdivision (b) of this section that have been adjudicated, or for which the licensee, permittee or applicant for a license or permit has been found in default. Proof of payment of all such fines and penalties must be submitted prior to issuance of a new or renewal license or permit, notwithstanding the provisions of New York City Charter § 1049-a(d)(1)(i).
 
 (c) Basis for revocation, suspension, or denial of new or renewal permit or license. The Commissioner may refuse to issue a mobile food vending license or a mobile food unit permit and may, after due notice and an opportunity to be heard, in addition to any other penalties, refuse to renew, suspend or revoke such a license or permit. Such action may be taken when the applicant, licensee, permittee, its officers, directors, shareholders, members, managers or employees (i) have been found to be in violation of four or more of the provisions of subchapter 2 of chapter 3 of title 17 of the Administrative Code that are classified as "A" violations in subdivision (d) of this section within a two-year period, (ii) have been found to be in violation of any of the provisions of part fourteen of the State Sanitary Code or of the Health Code, or (iii) the applicant, licensee, permittee, its officers, directors, shareholders, members, managers or employees have pending any unanswered summonses for a violation of a provision of subchapter 2 of chapter 3 of title 17 of the Administrative Code that is classified as an "A" violation in subdivision (d) of this section.
 
-(d) Administrative Code "A" violations. For the purposes of revocation or suspension of mobile food vending permits or licenses, or of determining whether such permits or licenses may be renewed or new licenses and permits issued, "A" violations mean violations of the following provisions of subchapter 2 ("Food Vendors") of chapter 3 ("Licenses and Permits") of title 17 of the Administrative Code or successor provisions , as listed below in § 6-10 Table 1, where the licensee, permittee or applicant is found in violation as a result of a hearing on the merits or by default:
+(d) Administrative Code "A" violations. For the purposes of revocation or suspension of mobile food vending permits or licenses, or of determining whether such permits or licenses may be renewed or new licenses and permits issued, "A" violations mean violations of the following provisions of subchapter 2 ("Food Vendors") of chapter 3 ("Licenses and Permits") of title 17 of the Administrative Code or successor provisions , as listed below in 24 RCNY § 6-10 Table 1, where the licensee, permittee or applicant is found in violation as a result of a hearing on the merits or by default:
 
 § 6-10 Table 1. Administrative Code "A" Violations 
 
@@ -925,7 +935,7 @@ Table 1. Supply and Equipment Requirements for Mobile Food Vending Units
 
  
 
-(e) Permittees liable for mobile food vending unit operation; service of notices of violation. In accordance with Health Code §§ 5.13 and 89.13, permittees are jointly and severally liable for violations of the Health Code, the State Sanitary Code, the Administrative Code and any other applicable law that occur in the course of operation of mobile food vending units bearing their permits. A person operating a mobile food vending unit who is not the permittee shall be deemed an agent of the permittee, and the mobile food vending unit being operated by such person shall be deemed the place of business of the permittee, for the purpose of service of any notice of violation issued to the permittee by the Department. The notice of violation may also be issued by any other agency of the City authorized to issue notices of violation in the course of enforcement of any law applicable to mobile food vending. If, in the course of operation of a mobile food vending unit, a person other than the permittee is served with such notice of violation or order issued to the permittee, the person other than the permittee shall deliver the notice of violation or order to the permittee within two business days of receiving such notice of violation, and the Department or other agency issuing the notice of violation shall mail such notice of violation to the permittee by first class mail, maintaining and submitting a record of the mailing to the Environmental Control Board as proof of service.
+(e) Permittees liable for mobile food vending unit operation; service of notices of violation. In accordance with 24 RCNY Health Code §§ 5.13 and 89.13, permittees are jointly and severally liable for violations of the Health Code, the State Sanitary Code, the Administrative Code and any other applicable law that occur in the course of operation of mobile food vending units bearing their permits. A person operating a mobile food vending unit who is not the permittee shall be deemed an agent of the permittee, and the mobile food vending unit being operated by such person shall be deemed the place of business of the permittee, for the purpose of service of any notice of violation issued to the permittee by the Department. The notice of violation may also be issued by any other agency of the City authorized to issue notices of violation in the course of enforcement of any law applicable to mobile food vending. If, in the course of operation of a mobile food vending unit, a person other than the permittee is served with such notice of violation or order issued to the permittee, the person other than the permittee shall deliver the notice of violation or order to the permittee within two business days of receiving such notice of violation, and the Department or other agency issuing the notice of violation shall mail such notice of violation to the permittee by first class mail, maintaining and submitting a record of the mailing to the Environmental Control Board as proof of service.
 
 
 
@@ -935,9 +945,9 @@ Table 1. Supply and Equipment Requirements for Mobile Food Vending Units
 *§ 6-11 Inspections; permit issuance and renewal.* ::
 
 
-No unit shall be approved for use unless such unit has passed a pre-permit inspection by the Department and found to be constructed and equipped in compliance with this Chapter and Article 81 and Article 89 of the Health Code.
+No unit shall be approved for use unless such unit has passed a pre-permit inspection by the Department and found to be constructed and equipped in compliance with this Chapter and 24 RCNY Health Code Article 81 and Article 89.
 
-(a) Renewal applications to be submitted timely. An application for renewal of any permit shall not be accepted unless the applicant submits a complete renewal application, the tax clearance certificates required by § 17-310 of the Administrative Code, and proof of payment of all fines and penalties owing for notices of violation as required by § 17-317(b) and § 6-10 of this Chapter, no later than thirty (30) days before the date of expiration of the permit. The Department may accept a late renewal application only if the applicant submits proof that may be verified by the Department that the delay in submission of the completed application and clearances resulted because of delays in issuing the clearances. In such cases, the permittee must show that applications for tax and penalty clearances were submitted at least sixty (60) days before the date of renewal of the permit.
+(a) Renewal applications to be submitted timely. An application for renewal of any permit shall not be accepted unless the applicant submits a complete renewal application, the tax clearance certificates required by § 17-310 of the Administrative Code, and proof of payment of all fines and penalties owing for notices of violation as required by § 17-317(b) and 24 RCNY § 6-10, no later than thirty (30) days before the date of expiration of the permit. The Department may accept a late renewal application only if the applicant submits proof that may be verified by the Department that the delay in submission of the completed application and clearances resulted because of delays in issuing the clearances. In such cases, the permittee must show that applications for tax and penalty clearances were submitted at least sixty (60) days before the date of renewal of the permit.
 
 (b) Inspections to be scheduled timely. In accordance with § 17-307(e) of the Administrative Code, a new or renewal permit shall not be issued if the applicant's mobile food vending unit fails to pass a pre-permit inspection by the Department within six (6) months after the permit application has been certified or accepted by the Department. The Department may conduct such an inspection more than six (6) months after the application has been submitted only if Department records indicate that the Department caused the delay in scheduling the inspection.
 
@@ -951,7 +961,7 @@ No unit shall be approved for use unless such unit has passed a pre-permit inspe
 
    (3) When a permittee seeks to amend a permit classification from non-processing to processing or processing to non-processing;
 
-   (4) When a mobile food vending unit has sustained a material alteration, as defined in § 89.03 (e) of the Health Code; or
+   (4) When a mobile food vending unit has sustained a material alteration, as defined in 24 RCNY Health Code § 89.03(e); or
 
    (5) When any permit decal has been removed.
 
@@ -981,7 +991,7 @@ No unit shall be approved for use unless such unit has passed a pre-permit inspe
 
 (k) Notification of changes in operations. Permittees must notify the Department, in writing, on forms approved or provided by the Department, no later than ten business days after any there has been a change in:
 
-   (1) Persons operating each unit as indicated on the form described in Section 6-12(c) of these Rules, or
+   (1) Persons operating each unit as indicated on the form described in 24 RCNY § 6-12(c), or
 
    (2) Commissary used. Permittees must provide a copy of an agreement from the new commissary with such notice.
 
@@ -1003,7 +1013,7 @@ No unit shall be approved for use unless such unit has passed a pre-permit inspe
 *§ 6-12 Records of commissaries and other approved facilities.* ::
 
 
-Commissaries and other approved facilities providing services to four or fewer Class D or Class E units that are not food trucks, or one Class D or Class E food truck, shall keep records in a daily log, in a form provided or approved by the Department, documenting the daily use of commissary services and facilities by mobile food vendors in accordance with § 89.27 (b) of the Health Code. The log must indicate the date and time of day each unit is brought in and leaves the commissary.
+Commissaries and other approved facilities providing services to four or fewer Class D or Class E units that are not food trucks, or one Class D or Class E food truck, shall keep records in a daily log, in a form provided or approved by the Department, documenting the daily use of commissary services and facilities by mobile food vendors in accordance with 24 RCNY Health Code § 89.27(b). The log must indicate the date and time of day each unit is brought in and leaves the commissary.
 
 
 
@@ -1021,7 +1031,7 @@ Disabled veterans who hold currently valid (i) specialized vendor licenses issue
 
 (c) Operation of the mobile vending unit is subject to all provisions of General Business Law § 35-a.
 
-(d) During all times that a mobile food vending unit issued a permit under this section is in operation, as the term "operation" is defined in Health Code § 89.03 (j) or successor provision, a disabled veteran shall be present, but may be assisted by an employee who is a licensed mobile food vendor. Department inspection reports which note the absence of a disabled veteran licensee are deemed proof that a disabled veteran is not operating the unit, in violation of General Business Law § 35-a.
+(d) During all times that a mobile food vending unit issued a permit under this section is in operation, as the term "operation" is defined in 24 RCNY Health Code § 89.03(j) or successor provision, a disabled veteran shall be present, but may be assisted by an employee who is a licensed mobile food vendor. Department inspection reports which note the absence of a disabled veteran licensee are deemed proof that a disabled veteran is not operating the unit, in violation of General Business Law § 35-a.
 
 
 
@@ -1054,13 +1064,13 @@ Chapter 7: Adjudicatory Hearings
 *§ 7-01 Adjudications Conducted by the Department.* ::
 
 
-(a)  Pursuant to the New York City Charter, §§ 1041, 1046, 1047 and 1048, the Department of Health has determined that all adjudicatory hearings commenced by notice or finding of violation pursuant to Article 7 of the New York City Health Code, where the Department seeks a fine or monetary penalty, pertaining to enforcement of State and local health laws and regulations shall be conducted by the Department.
+(a)  Pursuant to the New York City Charter, §§ 1041, 1046, 1047 and 1048, the Department of Health has determined that all adjudicatory hearings commenced by notice or finding of violation pursuant to 24 RCNY Health Code Article 7, where the Department seeks a fine or monetary penalty, pertaining to enforcement of State and local health laws and regulations shall be conducted by the Department.
 
 (b) Hearing Examiners.
 
-   (1) All adjudicatory hearings concerning matters described in subdivision (a) above, shall be conducted by Hearing Examiners assigned to the Administrative Tribunal who shall be appointed pursuant to Health Code § 7.03(b).
+   (1) All adjudicatory hearings concerning matters described in subdivision (a) above, shall be conducted by Hearing Examiners assigned to the Administrative Tribunal who shall be appointed pursuant to 24 RCNY Health Code § 7.03(b).
 
-   (2) Such Hearing Examiners, when conducting adjudicatory hearings pursuant to Article 7 of the New York City Health Code as described in subdivision (a) above, shall make final findings of fact and conclusions of law, which shall be incorporated in a decision and order. Such final decisions shall be appealable as provided in Health Code § 7.13.
+   (2) Such Hearing Examiners, when conducting adjudicatory hearings pursuant to 24 RCNY Health Code Article 7 as described in subdivision (a) above, shall make final findings of fact and conclusions of law, which shall be incorporated in a decision and order. Such final decisions shall be appealable as provided in 24 RCNY Health Code § 7.13.
 
 
 
@@ -1072,7 +1082,7 @@ Chapter 7: Adjudicatory Hearings
 
 (a)  Pursuant to New York City Charter § 1048, the Department of Health has determined that the following adjudications pertaining to the enforcement of State and local health laws and regulations shall be conducted by the Office of Administrative Trials and Hearings, which shall make recommended findings of fact and recommended decisions. Such recommendations shall be subject to review by the Commissioner of Health who shall make final determinations and orders:
 
-   (1) Enforcement hearings: All adjudicatory hearings held in connection with the Commissioner's or Department's exercise of powers or authority under Chapter 22 of the City Charter, Title 17 of the Administrative Code, New York State Public Health Law, or Title 10 of the State of New York Codes, Rules and Regulations, or other applicable law, except as provided in § 7-01 of these rules, when commenced by order of the Commissioner or Department, including but not limited to all orders to abate nuisances or other detrimental health conditions; orders to persons to show cause why the Department should not deny, suspend, or revoke permits; orders to seize, embargo, or condemn; orders to close premises; orders to cease and desist acts or omissions; or orders to take any other action necessary to protect the public health.
+   (1) Enforcement hearings: All adjudicatory hearings held in connection with the Commissioner's or Department's exercise of powers or authority under Chapter 22 of the City Charter, Title 17 of the Administrative Code, New York State Public Health Law, or Title 10 of the State of New York Codes, Rules and Regulations, or other applicable law, except as provided in 24 RCNY § 7-01, when commenced by order of the Commissioner or Department, including but not limited to all orders to abate nuisances or other detrimental health conditions; orders to persons to show cause why the Department should not deny, suspend, or revoke permits; orders to seize, embargo, or condemn; orders to close premises; orders to cease and desist acts or omissions; or orders to take any other action necessary to protect the public health.
 
    (2) Other due process hearings: In addition, the Commissioner may delegate authority to the Office of Administrative Trials and Hearings to hear and make findings and recommendations in any matter wherein it is necessary to make factual determinations in connection with any enforcement action of the Department, as authorized by State or local law or regulation.
 
@@ -1105,7 +1115,7 @@ This Chapter applies to owners of New York City buildings or other premises in t
 
 When used in this Chapter, the following terms mean:
 
-"ANSI/ASHRAE 188-2015" means sections 5, 6 and 7.2 of ANSI/ASHRAE Standard 188-2015 Legionellosis: Risk Management for Building Water Systems, a publication issued by the American National Standards Institute (ANSI)/American Society of Heating, Refrigeration and Air-Conditioning Engineers (ASHRAE), final approval date June 26, 2015, at pages 4-8.
+"ANSI/ASHRAE 188-2015" means sections 5, 6 and 7.2 of ANSI/ASHRAE Standard 188-2015 Legionellosis: Risk Management for Building Water Systems, a publication issued by the American National Standards Institute (ANSI)/American Society of Heating, Refrigeration and Air-Conditioning Engineers (ASHRAE), final approval date June 26, 2015, at pages 4 - 8.
 
 "Bacteriological indicator" means a biological process control indicator that estimates microbial content in the circulating water of a cooling tower system, such as heterotrophic plate count (HPC) as measured in a water sample or by a dip slide.
 
@@ -1140,11 +1150,11 @@ When used in this Chapter, the following terms mean:
 "Immediate" or "immediately" means within 24 hours when used in regards to (i) actions required to be taken under this Chapter, or (ii) incidents or results required to be reported under this Chapter, or (iii) records required to be made available to the Department under this Chapter.
 
 "
-								Legionella
-								" means the genus of bacteria which is ubiquitous in aqueous environments, including the recirculated water of cooling tower systems that are not properly or regularly maintained. There are more than 50 different species of Legionella, all of which are potentially pathogenic.
+									Legionella
+									" means the genus of bacteria which is ubiquitous in aqueous environments, including the recirculated water of cooling tower systems that are not properly or regularly maintained. There are more than 50 different species of Legionella, all of which are potentially pathogenic.
 
 "
-								Legionella sample" means water or other sample to be examined for the presence of viable Legionella bacteria using semiselective culture media and procedures specific to the cultivation and detection of Legionella species, such as those outlined in International Organization for Standardization (ISO) Standards 11731-1:1998 and 11731-2:2004.
+									Legionella sample" means water or other sample to be examined for the presence of viable Legionella bacteria using semiselective culture media and procedures specific to the cultivation and detection of Legionella species, such as those outlined in International Organization for Standardization (ISO) Standards 11731-1:1998 and 11731-2:2004.
 
 "Maintenance program and plan" or "plan" means a written set of measures describing monitoring, cleaning, disinfection and all other activities for the prevention and control of Legionella growth in a cooling tower system, that is in accordance with section 5, 6 and 7.2 of ANSI/ASHRAE 188-2015 and with the manufacturer's instructions, and is developed by a qualified person.
 
@@ -1190,7 +1200,7 @@ For each cooling tower system the owner must have a maintenance program and plan
 
    (1) The owner of the building where each cooling tower system is located and any manager or other person designated by the owner as responsible for compliance with the requirements of Administrative Code § 17-194.1 and this Chapter.
 
-   (2) Any person designated by the owner as a responsible person, as defined in § 8-02 of this Chapter.
+   (2) Any person designated by the owner as a responsible person, as defined in 24 RCNY § 8-02.
 
    (3) Every consultant, service company and qualified person who cleans, disinfects, delivers chemicals or services the cooling tower system.
 
@@ -1232,7 +1242,7 @@ For each cooling tower system the owner must have a maintenance program and plan
 
 (d) Cooling tower operation.
 
-   (1) Control measures, corrective actions, documentation, including a written checklist for routine monitoring, and reporting that comply with sections 8-04 through 8-08 of this Chapter and any routine maintenance activities recommended by the manufacturer's instructions, including performance measures, which may sufficiently demonstrate adequate implementation of the operation requirements described in the maintenance program and plan. Where there is a conflict between the requirements of this Chapter, Part 4 of the State Sanitary Code, section 17-194.1 of the Administrative Code, and the manufacturer's instructions, the maintenance program and plan must reflect the most stringent requirement.
+   (1) Control measures, corrective actions, documentation, including a written checklist for routine monitoring, and reporting that comply with 24 RCNY §§ 8-04 through 8-08 and any routine maintenance activities recommended by the manufacturer's instructions, including performance measures, which may sufficiently demonstrate adequate implementation of the operation requirements described in the maintenance program and plan. Where there is a conflict between the requirements of this Chapter, Part 4 of the State Sanitary Code, section 17-194.1 of the Administrative Code, and the manufacturer's instructions, the maintenance program and plan must reflect the most stringent requirement.
 
    (2) Specific, detailed seasonal and temporary shutdown and start-up procedures.
 
@@ -1248,7 +1258,7 @@ For each cooling tower system the owner must have a maintenance program and plan
 *§ 8-04 Process Control Measures.* ::
 
 
-(a) Routine system monitoring. An owner must designate a responsible person as defined in § 8-02 of this Chapter to monitor each cooling tower system at least weekly while such system is in use.
+(a) Routine system monitoring. An owner must designate a responsible person as defined in 24 RCNY § 8-02 to monitor each cooling tower system at least weekly while such system is in use.
 
    (1) The responsible person must enter on a written or electronic checklist provided and maintained by the owner all visual observations of the cooling tower system and associated equipment.
 
@@ -1312,7 +1322,7 @@ Prior to changing an existing chemical treatment system or introducing a new che
 
 (d) Non-chemical water treatment devices restricted. Only biocide products registered with the New York State Department of Environmental Conservation may be used to meet the disinfection requirements of this Chapter. Non-chemical water treatment devices that employ alternative technologies to control biological growth may not be used in lieu of chemical biocide unless approved by the Department. Nonchemical water treatment devices may be installed as part of a cooling tower system as specified in the management program and plan, provided that the required chemical water treatment also being used adequately controls for Legionella.
 
-(e) Makeup water. Owners using water derived from rainwater capture or recycling water systems as a source of cooling tower system makeup water must install a drift eliminator and test and treat water in accordance with a specific alternative source water plan. This plan is in addition to the maintenance program and plan required by § 8-03 of this Chapter, and must be approved by the Department. The alternative water source plan must include provisions for adequate design of the treatment and control components and on-going evaluation to eliminate any risk to public health.
+(e) Makeup water. Owners using water derived from rainwater capture or recycling water systems as a source of cooling tower system makeup water must install a drift eliminator and test and treat water in accordance with a specific alternative source water plan. This plan is in addition to the maintenance program and plan required by 24 RCNY § 8-03, and must be approved by the Department. The alternative water source plan must include provisions for adequate design of the treatment and control components and on-going evaluation to eliminate any risk to public health.
 
 (f) Water quality monitoring.
 
@@ -1342,11 +1352,7 @@ Prior to changing an existing chemical treatment system or introducing a new che
 
    (5) Water quality corrective actions. The maintenance program and plan must identify the procedures, responsible parties, required response time(s) and notification protocol for corrective actions and must include, at a minimum, corrective actions that must be implemented according to the result levels in Table 8-1 and Table 8-2.
 
- 
-
 Table 8-1. Corrective actions required for Legionella culture results.
-
- 
 
  
 
@@ -1362,13 +1368,13 @@ Table 8-1. Corrective actions required for Legionella culture results.
       - Maintain water chemistry and biocide levels.
     * - 2
       - ≥10 CFU/ml to &lt;100 CFU/ml
-      - Initiate immediate disinfection by increasing biocide concentration or using a different biocide within 24 hours; review treatment program; and retest water within 3-7 days. Subsequent test results must be interpreted in accordance with this Table until level 1 is reached.
+      - Initiate immediate disinfection by increasing biocide concentration or using a different biocide within 24 hours; review treatment program; and retest water within 3 - 7 days. Subsequent test results must be interpreted in accordance with this Table until level 1 is reached.
     * - 3 
       - ≥ 100 CFU/ml to &lt;1000 CFU/ml
-      - Initiate immediate disinfection by increasing biocide concentration or using a different biocide (within 24 hours), reviewing treatment program, performing visual inspection to evaluate need to perform cleaning and further disinfection. Retest water within 3-7 days. Subsequent test results must be interpreted in accordance with this Table until level 1 is reached.
+      - Initiate immediate disinfection by increasing biocide concentration or using a different biocide (within 24 hours), reviewing treatment program, performing visual inspection to evaluate need to perform cleaning and further disinfection. Retest water within 3 - 7 days. Subsequent test results must be interpreted in accordance with this Table until level 1 is reached.
     * - 4
       - ≥ 1000 CFU/ml
-      - Initiate immediate disinfection by increasing biocides within 24 hours. Within 48 hours perform full remediation of the tower by hyperhalogenating2, draining, cleaning, and flushing. Review treatment program, retest water within 3-7 days. Subsequent test results must be interpreted in accordance with this Table until level 1 is reached. For Legionella results at this level, notify Department within 24 hours of receiving test result.3
+      - Initiate immediate disinfection by increasing biocides within 24 hours. Within 48 hours perform full remediation of the tower by hyperhalogenating2, draining, cleaning, and flushing. Review treatment program, retest water within 3 - 7 days. Subsequent test results must be interpreted in accordance with this Table until level 1 is reached. For Legionella results at this level, notify Department within 24 hours of receiving test result.3
 ~
 
 
@@ -1381,11 +1387,7 @@ Table 8-1. Corrective actions required for Legionella culture results.
 
 3. In a manner as specified on the Department's website.
 
- 
-
 Table 8-2. Corrective actions required for bacteriological indicator results.
-
- 
 
  
 
@@ -1401,13 +1403,13 @@ Table 8-2. Corrective actions required for bacteriological indicator results.
       - Maintain water chemistry and biocide levels.
     * - 2
       - ≥10,000 CFU/ml to &lt;100,000 CFU/ml
-      - Initiate immediate disinfection by increasing biocide concentration or using a different biocide within 24 hours, review treatment program, retest water within 3-7 days. Subsequent test results must be interpreted in accordance with this Table until level 1 is reached.
+      - Initiate immediate disinfection by increasing biocide concentration or using a different biocide within 24 hours, review treatment program, retest water within 3 - 7 days. Subsequent test results must be interpreted in accordance with this Table until level 1 is reached.
     * - 3
       - ≥100,000 CFU/ml to &lt;1,000,000 CFU/ml
-      - Initiate immediate disinfection by increasing biocide concentration or using a different biocide within 24 hours, reviewing treatment program, performing visual inspection to evaluate need to perform cleaning and further disinfection. Retest water within 3-7 days. Subsequent test results must be interpreted in accordance with this Table until level 1 is reached.
+      - Initiate immediate disinfection by increasing biocide concentration or using a different biocide within 24 hours, reviewing treatment program, performing visual inspection to evaluate need to perform cleaning and further disinfection. Retest water within 3 - 7 days. Subsequent test results must be interpreted in accordance with this Table until level 1 is reached.
     * - 4
       - ≥1,000,000 CFU/ml
-      - Initiate immediate disinfection by increasing biocides within 24 hours. Within 48 hours perform remediation of the tower by hyperhalogenating2, cleaning, and flushing. Review treatment program, retest water within 3-7 days. Subsequent test results must be interpreted in accordance with this Table until level 1 is reached.
+      - Initiate immediate disinfection by increasing biocides within 24 hours. Within 48 hours perform remediation of the tower by hyperhalogenating2, cleaning, and flushing. Review treatment program, retest water within 3 - 7 days. Subsequent test results must be interpreted in accordance with this Table until level 1 is reached.
 ~
 
 
@@ -1481,8 +1483,6 @@ The Commissioner or designee may grant a modification when strict application of
 
 
 The following penalties shall be imposed for sustained initial and repeat violations. All penalties, except for those alleging a violation of the State Sanitary Code, must be doubled if the respondent fails to appear to answer such violation and is found in default.
-
- 
 
  
 
@@ -1641,7 +1641,7 @@ Chapter 9: Raw Salt-cured Air-dried Fish
 *§ 9-01 Definitions.* ::
 
 
-Food and adulterated. When used in this regulation, the words "food" and "adulterated" shall have the meanings ascribed to them in §§ 71.03 and 73.03 of the New York City Health Code.
+Food and adulterated. When used in this regulation, the words "food" and "adulterated" shall have the meanings ascribed to them in 24 RCNY Health Code §§ 71.03 and 73.03.
 
 
 
@@ -1651,7 +1651,7 @@ Food and adulterated. When used in this regulation, the words "food" and "adulte
 *§ 9-02 Determination and Declaration.* ::
 
 
-Ready-to-eat raw, whole, uneviscerated, salt-cured, air-dried fish, which may or may not be lightly smoked and is commonly sold under the names "kopchonka" "ribeyza" "rostov" and "rybetz" is hereby determined and declared to be "unfit for food" and, accordingly, is "adulterated" as that term is defined in § 73.03(4) of the New York City Health Code.
+Ready-to-eat raw, whole, uneviscerated, salt-cured, air-dried fish, which may or may not be lightly smoked and is commonly sold under the names "kopchonka" "ribeyza" "rostov" and "rybetz" is hereby determined and declared to be "unfit for food" and, accordingly, is "adulterated" as that term is defined in 24 RCNY Health Code § 73.03(4).
 
 
 
@@ -1661,7 +1661,7 @@ Ready-to-eat raw, whole, uneviscerated, salt-cured, air-dried fish, which may or
 *§ 9-03 Prohibition.* ::
 
 
-It is hereby prohibited for any person to produce, pack, possess, sell, offer for sale, deliver or give away this fish product, pursuant to § 71.05(a) of the Health Code.
+It is hereby prohibited for any person to produce, pack, possess, sell, offer for sale, deliver or give away this fish product, pursuant to 24 RCNY Health Code § 71.05(a).
 
 
 
@@ -1690,7 +1690,7 @@ Chapter 10: Smoking Under the New York City Smoke-Free Air Act
 
 (h) Entrance. "Entrance" shall mean every means of entering or exiting a room, facility, or premises ordinarily used by the public and/or employees.
 
-(i) Incidental service and/or sales of food and/or drink. For the purpose of § 10-04 of these rules, service of food and/or drink shall be deemed "incidental" to the purpose of promoting and sampling tobacco products, where such food and/or drink is pre-packaged or requires no on-site preparation or monitoring, and there is no service or self-service of potentially hazardous foods, as defined in § 81.09 of the New York City Health Code, within the enclosed room in which the event is held.
+(i) Incidental service and/or sales of food and/or drink. For the purpose of § 10-04 of these rules, service of food and/or drink shall be deemed "incidental" to the purpose of promoting and sampling tobacco products, where such food and/or drink is pre-packaged or requires no on-site preparation or monitoring, and there is no service or self-service of potentially hazardous foods, as defined in 24 RCNY Health Code § 81.09, within the enclosed room in which the event is held.
 
 (j) Membership association. "Membership association" shall have the meaning set forth in § 17-502(ff) of the Act.
 
@@ -1704,7 +1704,7 @@ Chapter 10: Smoking Under the New York City Smoke-Free Air Act
 
 (o) [Repealed.]
 
-(p) Permittee. "Permittee" shall mean a person who holds a valid permit issued pursuant to Articles 5 and 81 of the New York City Health Code to operate a bar, restaurant or other food service establishment or who holds a valid permit issued pursuant to Section 17-513.5 of the New York City Administrative Code to operate a non-tobacco hookah establishment.
+(p) Permittee. "Permittee" shall mean a person who holds a valid permit issued pursuant to 24 RCNY Health Code Articles 5 and 81 to operate a bar, restaurant or other food service establishment or who holds a valid permit issued pursuant to Section 17-513.5 of the New York City Administrative Code to operate a non-tobacco hookah establishment.
 
 (q) Place of employment. "Place of employment" shall have the meaning set forth in § 17-502(m) of the Act.
 
@@ -1836,7 +1836,7 @@ Smoking, and using electronic cigarettes, may be permitted in an enclosed room, 
 
 Smoking shall be permitted in tobacco bars, as defined in § 17-502(jj) of the Act and § 10-01 of these rules, which were in existence in the calendar year ending December 31, 2001, and in which ten (10) or more percent of the bar's total gross annual income was derived from the on-site sale of tobacco products and rental of humidors, in accordance with the following terms and conditions:
 
-(a) The applicant for registration shall show that the tobacco bar has been operated pursuant to a permit issued by the Commissioner in accordance with Articles 5 and 81 of the New York City Health Code by the current and any prior owner since the calendar year ending December 31, 2001.
+(a) The applicant for registration shall show that the tobacco bar has been operated pursuant to a permit issued by the Commissioner in accordance with 24 RCNY Health Code Articles 5 and 81 by the current and any prior owner since the calendar year ending December 31, 2001.
 
 (b) Applications to register shall be submitted on forms provided by the Department with such supporting documentation as the Department may require, including but not limited to, copies of tax returns filed with the state and federal governments for such periods of time as the Department may require; copies of tax returns, reports, or other proof submitted to demonstrate compliance with all applicable federal, State and local laws governing the taxation, sale and distribution of tobacco products; and a current retail license to sell tobacco products issued pursuant to § 20-202 of the Administrative Code by the Department of Consumer Affairs; other documentation demonstrating that ten (10) or more percent of the bar's total gross annual income was derived from the on-site sale of tobacco products and rental of humidors; architectural or engineering plans showing the size of the premises occupied by the bar on the date of application for registration; and copies of leases in effect at the time of the initial and annual registration. The Department shall afford such documents such confidentiality as may be provided by applicable law.
 
@@ -2006,7 +2006,7 @@ Smoking, and using electronic cigarettes, may be allowed in contiguous "outdoor 
 
 (d) Violations of the Act shall be punishable as provided in the Act. Violations of these rules which are not also violations of the Act shall be subject to a penalty not to exceed one thousand dollars ($1,000), in accordance with § 555(b)(2) of the New York City Charter.
 
-(e) Where the Commissioner has issued a license or permit pursuant to Articles 5 and 81 of the Health Code, he or she may suspend or revoke such permit for such reasons as she or he determines is sufficient grounds for suspension or revocation, in accordance with § 5.17(b) of the Health Code. Such reasons may include, but not be limited to, willful or continuous violations of the Smoke-Free Air Act and these rules.
+(e) Where the Commissioner has issued a license or permit pursuant to 24 RCNY Health Code Articles 5 and 81, he or she may suspend or revoke such permit for such reasons as she or he determines is sufficient grounds for suspension or revocation, in accordance with 24 RCNY Health Code § 5.17(b). Such reasons may include, but not be limited to, willful or continuous violations of the Smoke-Free Air Act and these rules.
 
 
 
@@ -2322,7 +2322,7 @@ Tenant. "Tenant" shall mean lessee or other occupant regularly residing within a
 
 (c) If by February 15th of the year for which the notice was sent a landlord does not have a written communication signed by the tenant, and does not otherwise have actual knowledge of the need or desire for window guards, then the landlord or his agent shall at reasonable times inspect the dwelling unit to ascertain whether a child 10 years of age or younger resides in the dwelling and if so, whether approved window guards are properly installed and maintained.
 
-(d) If by March 1 a landlord who has fully complied with subdivisions (b) and (c) of this section has been unable to ascertain the need or desire for window guards in any dwelling unit or units, then he shall write to the Department's Window Falls Prevention Program, 125 Worth Street, New York, New York 10013, fully describing what efforts have been made to comply with § 131.15 of the New York City Health Code and these regulations, for the purpose of requesting assistance in regard to his further compliance. Such request shall include the name and telephone number of the landlord or his representative.
+(d) If by March 1 a landlord who has fully complied with subdivisions (b) and (c) of this section has been unable to ascertain the need or desire for window guards in any dwelling unit or units, then he shall write to the Department's Window Falls Prevention Program, 125 Worth Street, New York, New York 10013, fully describing what efforts have been made to comply with 24 RCNY Health Code § 131.15 and these regulations, for the purpose of requesting assistance in regard to his further compliance. Such request shall include the name and telephone number of the landlord or his representative.
 
 
 
@@ -2356,7 +2356,7 @@ The wording and form of notices specified in this regulation shall not be altere
 
 (a) No tenant in a dwelling unit shall refuse or unreasonably fail to provide accurate and truthful information regarding the residency of children therein, or refuse, prevent or obstruct any inspection required by § 12-03(c) above.
 
-(b) A landlord who has been denied access to a dwelling unit for the purpose of installing window guards required by § 131.15(a) of the New York City Health Code, shall write to the Department's Window Falls Prevention Program, 125 Worth Street, New York, New York 10013. Said statement shall specify the landlord's efforts to gain access and the circumstances of the denial thereof.
+(b) A landlord who has been denied access to a dwelling unit for the purpose of installing window guards required by 24 RCNY Health Code § 131.15(a), shall write to the Department's Window Falls Prevention Program, 125 Worth Street, New York, New York 10013. Said statement shall specify the landlord's efforts to gain access and the circumstances of the denial thereof.
 
 (c) Tenants or occupants must respond to mandated inquiries by landlord as to their window guard needs or desires. It is a violation of the law to fail to do this. Tenants or occupants must also provide access and permit installation of guards and stops, where required.
 
@@ -2918,7 +2918,7 @@ Chapter 17: Tripartite General Orders
 *§ 17-01 Statement of Policy and Intent.* ::
 
 
-To improve the environment and to improve refuse containment and collection operations, the use of paper bags for containing uncompacted refuse and incinerator residue should be permitted; the use of plastic bags for containing uncompacted refuse should be permitted and the use of containers for containing compacted refuse should be permitted. Accordingly pursuant to Local Law 11 of the Laws of 1971 and to § 13-1.11 of the Health Code, the Department of Sanitation and the Department of Housing Preservation and Development, and the Department of Health hereby approve the specifications set forth in § 17-02 below for paper bags for containing uncompacted refuse and incinerator residue; hereby approve the specifications set forth in § 17-03 below for plastic bags for containing uncompacted refuse; and hereby approve the specifications set forth in § 17-04 below for containers for containing compacted refuse.
+To improve the environment and to improve refuse containment and collection operations, the use of paper bags for containing uncompacted refuse and incinerator residue should be permitted; the use of plastic bags for containing uncompacted refuse should be permitted and the use of containers for containing compacted refuse should be permitted. Accordingly pursuant to Local Law 11 of the Laws of 1971 and to 24 RCNY Health Code § 13-1.11, the Department of Sanitation and the Department of Housing Preservation and Development, and the Department of Health hereby approve the specifications set forth in § 17-02 below for paper bags for containing uncompacted refuse and incinerator residue; hereby approve the specifications set forth in § 17-03 below for plastic bags for containing uncompacted refuse; and hereby approve the specifications set forth in § 17-04 below for containers for containing compacted refuse.
 
 
 
@@ -3368,7 +3368,7 @@ Only those persons who have been notified that their waiting list number has bee
 *§ 19-12 Notification of Eligibility to Apply for Permit.* ::
 
 
-Within ninety (90) days of the date that notification of eligibility to apply for a permit authorized to be issued by § 17-307 of the Administrative Code is mailed, a person desiring to obtain such permit shall submit an application, completed in accordance with § 5.05 of the New York City Health Code, together with the requisite fees therefor. The permit application shall be postmarked on or before the ninetieth day.
+Within ninety (90) days of the date that notification of eligibility to apply for a permit authorized to be issued by § 17-307 of the Administrative Code is mailed, a person desiring to obtain such permit shall submit an application, completed in accordance with 24 RCNY Health Code § 5.05, together with the requisite fees therefor. The permit application shall be postmarked on or before the ninetieth day.
 
 
 
@@ -3513,7 +3513,7 @@ Only those persons who have been notified that their preference and/or waiting l
 *§ 20-12 Notification of Eligibility to Apply for Permit.* ::
 
 
-Within ninety (90) days of mailing notification of eligibility to apply for a full-term mobile food unit permit issued pursuant to § 17-307(b)(3) of the Administrative Code, a person desiring to obtain such permit shall submit an application, completed in accordance with § 5.05 of the New York City Health Code, together with the requisite fees therefor. The permit application shall be submitted on or before the ninetieth day.
+Within ninety (90) days of mailing notification of eligibility to apply for a full-term mobile food unit permit issued pursuant to § 17-307(b)(3) of the Administrative Code, a person desiring to obtain such permit shall submit an application, completed in accordance with 24 RCNY Health Code § 5.05, together with the requisite fees therefor. The permit application shall be submitted on or before the ninetieth day.
 
 
 
@@ -3556,7 +3556,7 @@ This Chapter describes the courses offered by the Department of Health and Menta
 *§ 21-02 Food protection courses and fees.* ::
 
 
-(a) Attending Department classes or taking an on-line course. In accordance with § 81.15 of the New York City Health Code (the "Health Code"), or successor provision, the Department's food protection course provides training and instruction to supervisors of food service operations in food service establishments in subject matter and principles deemed necessary by the Department to promote compliance with the requirements of the Health Code, the State Sanitary Code and other applicable law. Persons taking the course may attend the course in person, or may take the course on-line.
+(a) Attending Department classes or taking an on-line course. In accordance with 24 RCNY Health Code § 81.15, or successor provision, the Department's food protection course provides training and instruction to supervisors of food service operations in food service establishments in subject matter and principles deemed necessary by the Department to promote compliance with the requirements of the Health Code, the State Sanitary Code and other applicable law. Persons taking the course may attend the course in person, or may take the course on-line.
 
    (1) The fee payable to the Department by persons attending the course in person, including the costs of issuance of a food protection certificate, shall be one hundred fourteen dollars ($114.00).
 
@@ -3564,7 +3564,7 @@ This Chapter describes the courses offered by the Department of Health and Menta
 
 (b) Certificates for other approved food protection courses and fee.
 
-   (1) In accordance with § 81.15(c) of the Health Code, or successor rule, persons completing Department-approved food protection courses offered at other institutions shall attend a class and receive training in requirements of the Health Code, State Sanitary Code, and other applicable law, and shall take the examination required by the Department prior to issuance of a Department food protection certificate.
+   (1) In accordance with 24 RCNY Health Code § 81.15(c), or successor rule, persons completing Department-approved food protection courses offered at other institutions shall attend a class and receive training in requirements of the Health Code, State Sanitary Code, and other applicable law, and shall take the examination required by the Department prior to issuance of a Department food protection certificate.
 
    (2) The fee payable to the Department for the costs of administering such examination and issuance of a food protection certificate, shall be thirty-four dollars ($34.00).
 
@@ -3576,7 +3576,7 @@ This Chapter describes the courses offered by the Department of Health and Menta
 
 (d) Mobile food vendor food protection course and fee.
 
-   (1) In accordance with §§ 81.15 (a)(1) and 89.07(b) of the Health Code, or successor provisions, all persons applying for a new mobile food vending license shall submit proof of successful completion of the Department's, or a Department approved equivalent, mobile food vendor food protection course, providing basic information on food safety deemed essential for compliance with requirements of the Health Code, State Sanitary Code and other applicable law.
+   (1) In accordance with 24 RCNY Health Code §§ 81.15(a)(1) and 89.07(b), or successor provisions, all persons applying for a new mobile food vending license shall submit proof of successful completion of the Department's, or a Department approved equivalent, mobile food vendor food protection course, providing basic information on food safety deemed essential for compliance with requirements of the Health Code, State Sanitary Code and other applicable law.
 
    (2) The fee payable to the Department for this course, including the costs of issuance of a mobile food vendor food protection certificate, shall be fifty-three dollars ($53.00).
 
@@ -3588,7 +3588,7 @@ This Chapter describes the courses offered by the Department of Health and Menta
 *§ 21-03 Swimming pool technology course and fee. [Repealed]* ::
 
 
-(a) In accordance with § 161.09(h) and (k) of the Health Code, or successor rule, the Department's animal care and handling techniques course shall provide instruction/training deemed essential by the Department to promote compliance with the Health Code, and other applicable law.
+(a) In accordance with 24 RCNY Health Code § 161.09(h) and (k), or successor rule, the Department's animal care and handling techniques course shall provide instruction/training deemed essential by the Department to promote compliance with the Health Code, and other applicable law.
 
 (b) The fee payable to the Department for the animal care and handling techniques course shall be thirty-nine dollars ($39.00).
 
@@ -3626,7 +3626,7 @@ This Chapter describes the courses offered by the Department of Health and Menta
 
 (a) Consultative inspections.
 
-   (1) Voluntary consultation. In accordance with New York City Administrative Code § 17-1504, the Department will provide a consultative inspection to a person operating or applying for a permit to operate a food service establishment, as defined in New York City Health Code § 81.03, on how to operate the establishment in compliance with the Health Code and other applicable law.
+   (1) Voluntary consultation. In accordance with New York City Administrative Code § 17-1504, the Department will provide a consultative inspection to a person operating or applying for a permit to operate a food service establishment, as defined in 24 RCNY Health Code § 81.03, on how to operate the establishment in compliance with the Health Code and other applicable law.
 
    (2) Priority and scheduling of consultative inspections.
 
@@ -3803,6 +3803,196 @@ An application for a license or a license shall be subject to denial, suspension
 
 
 
+
+Chapter 23: Food Service Establishment Sanitary Inspection Procedures and Letter Grading
+--------------------------------------------------
+
+
+
+*§ 23-01 Definitions and construction of words and terms.* ::
+
+
+Compliance inspection shall mean an inspection not for the purposes of grading conducted within a cycle.
+
+Condition level shall mean the value (I, II, III, IV or V) based on the number, magnitude or pervasiveness of occurrences, or the seriousness of risk presented by a violation.
+
+Critical violations shall mean the violations of the Health Code or other applicable law listed under the classification critical violations in Appendix 23-A of these rules.
+
+Food service establishment or
+
+establishment shall have the same meaning as the definition in 24 RCNY Health Code § 81.03, except that it shall not include mobile food vending units.
+
+General violations shall mean violations listed under the classification "general violations" in Appendix A and Appendix B of this Chapter.
+
+Grade card shall mean the card containing the letter grade associated with the score for an inspection.
+
+Grade pending card shall mean the card issued by the Department to an establishment indicating that an establishment's grade for the current cycle is in the process of being determined.
+
+Health Tribunal means the Health Tribunal at OATH, the adjudicatory body established by § 558 of the New York City Charter, formerly known as the Department's Administrative Tribunal, whose operation was transferred to OATH by Executive Order No. 148, effective July 3, 2011.
+
+Initial inspection shall mean the first sanitary inspection within an inspection cycle.
+
+Inspection cycle shall mean a series of related inspections consisting of at least an initial inspection and including, if triggered by the initial or any subsequent inspections within that cycle, a reinspection and any compliance inspections conducted by the Department because of a previous inspection score in that cycle.
+
+Notice of violation means the document issued by the Department to a respondent that specifies the charges forming the basis of an adjudicatory proceeding at the Health Tribunal and seeks a monetary penalty.
+
+OATH shall mean the Office of Administrative Trials and Hearings of the City of New York.
+
+Operating or in operation shall mean that a food service establishment is receiving, preparing, storing or serving food or that the establishment is open to the public.
+
+Pre-permit inspection shall mean a sanitary inspection conducted prior to permit approval to determine compliance of a food service establishment with the Health Code and other applicable law, regardless of whether the establishment is in operation.
+
+Pre-permit serious item is a violation, identified in Appendix 23-A of this Chapter by a plus (+) sign that shall be corrected prior to approval of the permit.
+
+Public health hazards are critical violations or conditions that are known to contribute directly to food-borne illness or disease, identified with an asterisk (*) in Appendix 23-A of this Chapter, and which include, but are not limited to, imminent health hazards defined in 24 RCNY Health Code Article 81 and Part 14 of the State Sanitary Code.
+
+Reinspection shall mean a sanitary inspection conducted for the purpose of grading following receipt of a score of 14 or more points on an initial inspection.
+
+Re-opening inspection shall mean the pre-operational inspection conducted after the Department closes an establishment to determine whether conditions leading to the closing have been corrected.
+
+Sanitary inspection shall mean any on-site review by the Department of a food service establishment's physical facilities, food handling operations, equipment, sanitary condition, maintenance and worker hygiene practices. The term may but shall not be limited to include initial, reinspection, compliance and pre-permit inspections.
+
+
+
+
+
+
+*§ 23-02 Scoring of sanitary inspections.* ::
+
+
+The Department shall when conducting a sanitary inspection assess points only for those violations, violation conditions and condition levels listed in Appendix 23-A (Food Service Establishment Sanitary Inspection Scoring Worksheet) and Appendix 23-B (Food Service Establishment Sanitary Inspection Scoring Parameters--A Guide to Conditions) to this Chapter. Terms used in these appendices shall have the same meaning as their definitions in 24 RCNY Health Code Article 81.
+
+
+
+
+
+
+*§ 23-03 Letter grading.* ::
+
+
+(a)  The Department, whenever practicable and subject to § 23-04, shall conduct an inspection cycle at least annually at each food service establishment required by 24 RCNY Health Code § 81.51 to post a letter grade for the purpose of issuing such establishment a grade that identifies and represents that establishment's compliance with those laws and regulations that require it to operate in a sanitary manner so as to protect public health. Based on the results of either the initial inspection or reinspection in a cycle, an establishment shall in accordance with these rules be issued a letter grade of either "A," "B," or "C" for that cycle, except that an establishment shall not receive any grade if the Department orders that it be closed.
+
+(b) The Department shall issue a letter grade of "A" to any establishment that receives fewer than 14 points on either the initial inspection or reinspection in a cycle.
+
+(c) The Department shall not issue a letter grade to any establishment receiving 14 or more points on an initial inspection, but shall schedule a reinspection to occur no sooner than 7 days after the initial inspection. The Department shall on the reinspection issue a letter grade of "B" to any establishment receiving 14-27 points and a letter grade of "C" to any establishment receiving 28 or more points.
+
+(d) The Department in any cycle may, in addition to conducting an initial and any reinspection for the purpose of issuing an establishment a letter grade, also conduct a compliance inspection after any inspection that results in a score of 28 points or more. The score received on any compliance inspection shall not change an establishment's letter grade for that cycle.
+
+
+
+
+
+
+*§ 23-04 Intervals between inspection cycles.* ::
+
+
+(a)  A food service establishment shall post its letter grade until the Department issues it a new letter grade card or until a "grade pending" card is required to be posted in the establishment's next inspection cycle. The Department shall not wait one year to schedule the next inspection cycle for any establishment that receives 14 or more points on its initial inspection, but instead the interval of time between the final inspection in such cycle and the initial inspection in the establishment's next cycle shall be determined by the higher score from either its initial inspection or its reinspection:
+
+   (1) An initial inspection commencing a new cycle shall be conducted 150 to 210 days after the reinspection at an establishment that receives a score of 14 to 27 points on an initial inspection or reinspection and does not score 28 or more points on either of these inspections.
+
+   (2) An initial inspection commencing a new cycle shall be conducted 90 to 150 days after the final inspection of the cycle at an establishment that receives a score of 28 or more points on its initial inspection or reinspection.
+
+   (3) An initial inspection commencing a new cycle shall be conducted within 60 to 120 days of reopening for an establishment that is authorized by the Department to reopen following a Department closure that occurs on an initial or reinspection of that establishment.
+
+(b) Notwithstanding any other provision of this Chapter to the contrary, in circumstances when the Department believes there is an increased risk to public health, nothing in this section shall prohibit the Department from inspecting an establishment and treating that inspection as the initial inspection in a new cycle. Such circumstances include, but are not limited to, an establishment having a history of Department closure(s), being the subject of complaints of unsanitary conditions, or being compromised following an environmental emergency.
+
+
+
+
+
+
+*§ 23-05 Notices of violation and penalties for sustained violations.* ::
+
+
+(a)  The Department shall issue a notice of violation whenever a food service establishment is cited on any sanitary inspection for one or more critical violations or accumulates 14 or more points, regardless of whether any critical violations are cited on such inspection.
+
+(b) All violations shall be recorded and/or cited individually on inspection reports and notices of violation.
+
+(c) A Health Tribunal hearing examiner must impose the penalty set forth in Appendix C of this Chapter for any sustained violation.
+
+
+
+
+
+
+*§ 23-06 Revocation or suspension of permits.* ::
+
+
+(a)  Findings of serious and persistent violations or uncorrected public health hazards on any sanitary inspection may provide the basis for commencement of a proceeding to revoke or suspend a permit pursuant to 24 RCNY Health Code Article 5.
+
+(b) The Department shall post signs on any establishment that it orders closed indicating that such establishment is not open to the public and shall remove any posted grade-related card.
+
+(c) Prior to authorizing any closed establishment being allowed to re-open, the Department shall conduct a re-opening inspection. The Department may conduct as many inspections as it deems necessary to determine whether the establishment is in compliance with applicable law and may be reopened for operation.
+
+(d) If an establishment that is required by 24 RCNY Health Code § 81.51 to post a letter grade is closed and then allowed to re-open, upon re-opening, the grade card that had been posted by the establishment before the closure will be posted again, except that where the closure occurred on the establishment's initial inspection, a "grade pending" card shall be posted, and any grade card previously posted shall be removed, and where the closure occurred on a reinspection a "grade pending" card or the letter grade card corresponding to the score on the reinspection shall be posted.
+
+
+
+
+
+
+*§ 23-07 Posting letter grades.* ::
+
+
+(a)  The Department shall at the time of inspection provide any establishment required by 24 RCNY Health Code § 81.51 to post a letter grade that receives a score of 13 or less on an initial or reinspection with a grade card displaying the letter grade "A," which shall be posted immediately by the establishment.
+
+(b) If an establishment required by 24 RCNY Health Code § 81.51 to post a letter grade receives a score of 14 or more points on an initial inspection, and is not closed by the Department, it shall continue to post its grade card from the prior cycle until its reinspection. If the establishment has been issued no prior grade card, it shall have no posting until its reinspection.
+
+(c) If an establishment required by 24 RCNY Health Code § 81.51 to post a letter grade receives a score of 14 or more points on the reinspection, and is not closed by the Department, the Department shall provide the establishment with a "grade pending" card and a grade card displaying the letter grade that corresponds with its inspection score at the reinspection. The establishment shall immediately post either the grade card or the "grade pending" card. If the establishment elects to post the "grade pending" card, it may only do so until it has had an opportunity to be heard at the Health Tribunal pursuant to subdivision (d) of this section and 24 RCNY Health Code § 81.51.
+
+(d) Effect of adjudication at the Health Tribunal on grading of establishments required by 24 RCNY Health Code § 81.51 to post letter grades:
+
+   (1) If the establishment appears personally at the Health Tribunal and as a result of such proceeding the score received on a reinspection does not change the grade, the establishment shall immediately upon receipt of the notice of decision remove any posted "grade pending" card and post the grade card provided by the Department at such inspection.
+
+   (2) Subject to the provisions of paragraph (3) of this subdivision, if the establishment does not appear at the Health Tribunal on or before the scheduled hearing date, the establishment shall, on the date of the hearing, post the letter grade card provided by the Department at the reinspection.
+
+   (3) If the establishment appears at the Health Tribunal on the scheduled date but is unable to proceed, or if the establishment makes a timely request for an adjournment and such adjournment is granted, the establishment may continue to post the "grade pending" card and defer posting the letter grade card until the adjourned hearing date. In no event shall an establishment fail to post the grade card after the adjourned hearing date if the establishment is not able to proceed on such date.
+
+   (4) If the establishment appears at the Health Tribunal and as a result of such proceeding the score received for the reinspection changes in a way that results in a change of grade, the Department shall provide the establishment with a new letter grade card that shall be promptly posted by the establishment in place of any other letter grade card or "grade pending" card.
+
+   (5) If the establishment receives notice of decision by mail, the establishment shall immediately upon receipt of the notice of decision remove any grade pending card and post the grade card provided with the notice of decision, if any. If no new grade card is issued with the notice of decision, the establishment shall immediately post the grade card issued by the Department at the reinspection.
+
+   (6) When an establishment settles the notice of violation issued at the reinspection by mail, online, or in person, the establishment shall immediately upon settlement post the grade card issued by the Department at such reinspection.
+
+   (7) The disposition of any notice of violation at the Health Tribunal shall not affect any provision of this Chapter or other applicable law other than the issuance of a grade.
+
+(e) An establishment required by 24 RCNY Health Code § 81.51 to post a letter grade shall shred or otherwise dispose of all non-current letter grade cards and "grade pending" cards in a manner that prevents reuse of the cards.
+
+(f) The "grade pending" or letter grade card shall be posted in a conspicuous place where it is visible to passersby. The card shall be placed on the front window, door or exterior wall of an establishment required by 24 RCNY Health Code § 81.51 to post a letter grade. The card shall be within five feet of the front door or other opening to the establishment where customers enter from the street, at a vertical height no less than four feet and no more than six feet from the ground or floor. An establishment without a direct entrance from the street shall post the grade card or "grade pending" card at a place designated by the Department at its immediate point of entry so that it is clearly visible to passersby.
+
+(g) Letter grade cards shall not be removed except when authorized by the Department.
+
+
+
+
+
+
+*§ 23-08 Effect of other laws and construction.* ::
+
+
+(a)  These rules shall be read and enforced in accordance with all applicable provisions of law, including, but not limited to, the State Public Health Law and Sanitary Code, the New York City Health Code, and Title 17 of the Administrative Code of the City of New York.
+
+(b) No provision herein shall limit the authority of the Department to conduct such other inspections or take any other action it deems necessary, to enforce any provision of law within the jurisdiction of the Department.
+
+(c) If any provision of this Chapter is adjudged invalid by any court of competent jurisdiction, such judgment shall not affect or impair the validity of the remainder of this Chapter.
+
+
+
+
+
+
+
+**APPENDIX 23-A FOOD SERVICE ESTABLISHMENT INSPECTION WORKSHEET**
+
+
+
+
+**APPENDIX 23-B FOOD SERVICE ESTABLISHMENT INSPECTION SCORING PARAMETERS – A GUIDE TO CONDITIONS**
+
+
+
+
+**APPENDIX 23-C FOOD SERVICE ESTABLISHMENT AND NON-RETAIL FOOD SERVICE ESTABLISHMENT PENALTY SCHEDULE**
 
 Chapter 24: Automated External Defibrillators In Certain Public Places
 --------------------------------------------------
@@ -4130,7 +4320,7 @@ Only those persons who have been notified that their waiting list number has bee
 *§ 26-13 Notification of Eligibility to Apply For Permit.* ::
 
 
-Within thirty (30) days of mailing notification of eligibility to apply for a fresh fruits and vegetables permit issued pursuant to § 17-307(b)(4) of the Administrative Code, a person desiring to obtain such permit shall submit an application, completed in accordance with § 5.05 of the New York City Health Code, together with the requisite fees and requested supporting documentation therefore. The permit application shall be submitted on or before the thirtieth day.
+Within thirty (30) days of mailing notification of eligibility to apply for a fresh fruits and vegetables permit issued pursuant to § 17-307(b)(4) of the Administrative Code, a person desiring to obtain such permit shall submit an application, completed in accordance with 24 RCNY Health Code § 5.05, together with the requisite fees and requested supporting documentation therefore. The permit application shall be submitted on or before the thirtieth day.
 
 
 
@@ -4173,7 +4363,7 @@ Chapter 27: Food Allergy Information
 *§ 27-01 Scope and applicability.* ::
 
 
-This Chapter implements Local Law 17 of 2009 (adding Administrative Code of the City of New York § 17-195) requiring that signs with food allergen information be posted in certain food service establishments where food is sold and seating areas are provided for patrons. This Chapter does not apply to: food service establishments that are mobile food vending units and mobile food vending commissaries, as defined in Article 89 of the Health Code; temporary food service establishments, as defined in Article 88 of the Health Code; or food service programs for children, the elderly and institutionalized populations operated by government agencies or health care, educational, religious, charitable or fraternal organizations.
+This Chapter implements Local Law 17 of 2009 (adding Administrative Code of the City of New York § 17-195) requiring that signs with food allergen information be posted in certain food service establishments where food is sold and seating areas are provided for patrons. This Chapter does not apply to: food service establishments that are mobile food vending units and mobile food vending commissaries, as defined in 24 RCNY Health Code Article 89; temporary food service establishments, as defined in 24 RCNY Health Code Article 88; or food service programs for children, the elderly and institutionalized populations operated by government agencies or health care, educational, religious, charitable or fraternal organizations.
 
 
 
@@ -4189,7 +4379,7 @@ When used in this Chapter, the following terms shall have the following meanings
 
 (b) Food allergen means a food that triggers an allergic response when ingested by a sensitized person. The symptoms in an allergic response to a food allergen may include: hives, itching, swelling of the eyelids, face, lips, and tongue, runny nose, abdominal cramps, nausea, vomiting, diarrhea, hoarse voice, difficulty breathing, anaphylaxis, and death. The most common food allergens include: peanuts, tree nuts (such as cashews, hazelnuts and walnuts), fish, shellfish or crustacea (such as shrimp, crab, lobster and clams), eggs, milk or milk products, wheat (gluten) and soy.
 
-(c) Food worker means a food worker or food handler as defined in Article 81 of the Health Code, except that it shall not mean a person who delivers food prepared in a food service establishment to patrons' homes, offices or other locations.
+(c) Food worker means a food worker or food handler as defined in 24 RCNY Health Code Article 81, except that it shall not mean a person who delivers food prepared in a food service establishment to patrons' homes, offices or other locations.
 
 (d) [Reserved.]
 
@@ -4415,11 +4605,11 @@ In accordance with this Chapter, the Department is authorized to expend funds ma
 
 When used in this Chapter, the following terms shall have the following meanings.
 
-Animal shelter or shelter for homeless animals. Animal shelter or shelter for homeless animals means a not-for-profit facility holding a permit in accordance with § 161.09 of the New York City Health Code (Health Code), or successor provision, where homeless, lost, stray, abandoned, seized, surrendered or unwanted animals are received, harbored, maintained and made available for adoption to the general public, redemption by their owners or other lawful disposition, and which is owned, operated, or maintained by a duly incorporated humane society, animal welfare society, society for the prevention of cruelty to animals, or other organization devoted to the welfare, protection or humane treatment of animals.
+Animal shelter or shelter for homeless animals. Animal shelter or shelter for homeless animals means a not-for-profit facility holding a permit in accordance with 24 RCNY Health Code § 161.09, or successor provision, where homeless, lost, stray, abandoned, seized, surrendered or unwanted animals are received, harbored, maintained and made available for adoption to the general public, redemption by their owners or other lawful disposition, and which is owned, operated, or maintained by a duly incorporated humane society, animal welfare society, society for the prevention of cruelty to animals, or other organization devoted to the welfare, protection or humane treatment of animals.
 
-Cat. Cat means a domesticated animal of the species Felis catus kept as a pet, but does not mean any animal that is a hybrid or cross-breed of such species whose possession is prohibited in New York City pursuant to § 161.01 of the Health Code, or successor provision.
+Cat. Cat means a domesticated animal of the species Felis catus kept as a pet, but does not mean any animal that is a hybrid or cross-breed of such species whose possession is prohibited in New York City pursuant to 24 RCNY Health Code § 161.01, or successor provision.
 
-Dog. Dog means a domesticated animal of the species Canis familiaris kept as a pet, but does not mean any other animal that is a hybrid or cross-breed of such species whose possession is prohibited in New York City pursuant to § 161.01 of the Health Code or successor provision.
+Dog. Dog means a domesticated animal of the species Canis familiaris kept as a pet, but does not mean any other animal that is a hybrid or cross-breed of such species whose possession is prohibited in New York City pursuant to 24 RCNY Health Code § 161.01 or successor provision.
 
 Owner. Owner shall mean any individual who resides in the City of New York who possesses, harbors or cares for one or more dogs or cats.
 
@@ -4511,7 +4701,7 @@ Chapter 31: Drinking Water Tank Inspections
 *§ 31-01  Authority.* ::
 
 
-As required by § 17-194 of the Administrative Code and § 141.07 of Article 141 of the Health Code, this Chapter establishes rules for the manner and timeframe that building owners or their agents must report the results of their annual drinking water tank inspections to the Department. All definitions and terms used in this Chapter must have the same meaning as specified in § 17-194 of the Administrative Code, or if not defined therein, as specified in Article 141 of the Health Code.
+As required by § 17-194 of the Administrative Code and 24 RCNY Health Code § 141.07, this Chapter establishes rules for the manner and timeframe that building owners or their agents must report the results of their annual drinking water tank inspections to the Department. All definitions and terms used in this Chapter must have the same meaning as specified in § 17-194 of the Administrative Code, or if not defined therein, as specified in 24 RCNY Health Code Article 141.
 
 
 
@@ -4636,15 +4826,15 @@ When used in this Chapter, the following terms have the following meanings:
 
 (a) Animal nuisance. Animal nuisances include, but are not limited to, animal feces, urine, blood, body parts, carcasses, vomitus and pervasive odors; animals carrying, or ill with, diseases communicable to persons or other animals; and dangerous dogs.
 
-(b) Food has the same meaning as in Article 71 of the New York City Health Code (Health Code).
+(b) Food has the same meaning as in 24 RCNY Health Code Article 71).
 
-(c) Food service establishment means an establishment with outdoor dining areas that is permitted by the Department pursuant to Health Code § 81.05.
+(c) Food service establishment means an establishment with outdoor dining areas that is permitted by the Department pursuant to 24 RCNY Health Code § 81.05.
 
 (d) Licensed means that the dog's owner has obtained the dog license required by Chapter 115 of the Laws of 1894, as amended, or that the owner, if not a resident of New York City, has obtained a license to own or harbor the dog as required by the laws of the jurisdiction in which the owner resides.
 
 (e) Outdoor dining area means an area operated and controlled by a food service establishment that is located outdoors and is used by patrons of the establishment to dine. Such areas include, but are not limited to, (i) a licensed unenclosed sidewalk café as defined in the § 20-223(c) of the Administrative Code of the City of New York (Administrative Code) or successor provision, and (ii) an outdoor dining area not located on a sidewalk that is accessed directly from the street or through a passage of the establishment, if such passage is completely separated from any dining, food preparation or food, equipment or utensil storage areas of the establishment. An enclosed sidewalk café, as defined in § 20-223(b) of the Administrative Code, is not an outdoor dining area.
 
-(f) Permittee means the person or entity holding a permit issued pursuant to § 81.05 of the Health Code to operate a food service establishment that has a designated outdoor dining area.
+(f) Permittee means the person or entity holding a permit issued pursuant to 24 RCNY Health Code § 81.05 to operate a food service establishment that has a designated outdoor dining area.
 
 (g) Service dog means a dog that is individually trained to do work or perform tasks for the benefit of an individual with a disability.
 
@@ -4704,7 +4894,7 @@ An establishment that chooses not to allow dogs, other than service dogs, to acc
 *§ 32-04 Physical facilities and sanitation.* ::
 
 
-(a) Facilities to be clean, sanitary. In accordance with Article 81 of the Health Code, the New York State Agriculture and Markets Law and rules of the Commissioner of the State Department of Agriculture and Markets, permittees must maintain outdoor dining areas in a clean and sanitary condition at all times. Dogs must not be allowed to touch any dining table surfaces.
+(a) Facilities to be clean, sanitary. In accordance with 24 RCNY Health Code Article 81, the New York State Agriculture and Markets Law and rules of the Commissioner of the State Department of Agriculture and Markets, permittees must maintain outdoor dining areas in a clean and sanitary condition at all times. Dogs must not be allowed to touch any dining table surfaces.
 
 (b) Animal nuisances to be removed immediately. Animal nuisances must be removed immediately by establishment employees who do not also prepare or serve food. Areas contaminated with such nuisances must be cleaned and sanitized immediately upon the removal of the nuisance. Animal nuisances must be disposed of in accordance with applicable law.
 
@@ -4720,7 +4910,7 @@ An establishment that chooses not to allow dogs, other than service dogs, to acc
 *§ 32-05 Penalties.* ::
 
 
-Violations of this Chapter shall be cited and shall have the same penalties imposed as other violations of § 81.25 of the Health Code, or successor provision, listed in Appendix 23-C of Chapter 23 of this title.
+Violations of this Chapter shall be cited and shall have the same penalties imposed as other violations of 24 RCNY Health Code § 81.25, or successor provision, listed in 24 RCNY Chapter 23, Appendix 23-C.
 
 
 

@@ -4721,8 +4721,8 @@ Each tax preparer shall prominently and conspicuously post the statement require
 (a) Except as provided in subdivision (b) of this section, the sign shall be composed of proportionately spaced, upper-case black characters, "sans-serif," at least one-half inch (1/2") high on a white background. The lines on the sign shall be spaced at least one-half inch (1/2") apart.
 
 (b) The heading "IDENTIFICATION AND QUALIFICATIONS OF TAX PREPARER" shall appear at the top and center of the sign. Subsequent lines shall begin at the left-hand margin of the sign. The first line beneath the heading shall state the full name of the tax preparer. The second and third lines shall state the address at which the tax preparer may be contacted throughout the year. The fourth line shall state the telephone number at which the tax preparer may generally be contacted throughout the year during business hours. The fifth line shall begin with the caption 
-								"QUALIFICATIONS:"
-								 and be followed by a statement of the tax preparer's relevant training and/or experience. Such statement may consist of characters one-quarter inch (1/4") high. (See Specimens No. I and II appearing below for sample signs.)
+									"QUALIFICATIONS:"
+									 and be followed by a statement of the tax preparer's relevant training and/or experience. Such statement may consist of characters one-quarter inch (1/4") high. (See Specimens No. I and II appearing below for sample signs.)
 
 (c) A partnership, corporation or other business entity operating as a tax preparer may satisfy the disclosure requirements of § 20-740 of the Administrative Code by posting one sign, containing its name, address and phone number as set forth above, and a statement of the minimum qualifications possessed by all individuals who prepare or assist in the preparation of tax returns as an agent or employee of the partnership, corporation or other business entity. (See Specimen No. II.)
 
