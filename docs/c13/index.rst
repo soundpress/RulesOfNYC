@@ -428,7 +428,7 @@ This Chapter applies to any retail sale of a dog or a cat by a pet shop located 
 
 When used in this Chapter, the following terms have the following meanings:
 
-Class A license. “Class A license” means a license issued to a dog or cat breeder by the USDA under the Federal Animal Welfare Act  and USDA regulations (9 CFR Chapter 1, Subchapter A).
+Class A license. “Class A license” means a license issued to a dog or cat breeder by the USDA under the Federal Animal Welfare Act  and USDA regulations (9 C.F.R. Chapter 1, Subchapter A).
 
 Permittee. “Permittee” means a person operating a pet shop in the City of New York where dogs or cats are sold with a permit issued by the Commissioner pursuant to § 17-372 of the Administrative Code.
 
@@ -1690,13 +1690,13 @@ Chapter 10: Smoking Under the New York City Smoke-Free Air Act
 
 (h) Entrance. "Entrance" shall mean every means of entering or exiting a room, facility, or premises ordinarily used by the public and/or employees.
 
-(i) Incidental service and/or sales of food and/or drink. For the purpose of § 10-04 of these rules, service of food and/or drink shall be deemed "incidental" to the purpose of promoting and sampling tobacco products, where such food and/or drink is pre-packaged or requires no on-site preparation or monitoring, and there is no service or self-service of potentially hazardous foods, as defined in 24 RCNY Health Code § 81.09, within the enclosed room in which the event is held.
+(i) Incidental service and/or sales of food and/or drink. For the purpose of 24 RCNY § 10-04, service of food and/or drink shall be deemed "incidental" to the purpose of promoting and sampling tobacco products, where such food and/or drink is pre-packaged or requires no on-site preparation or monitoring, and there is no service or self-service of potentially hazardous foods, as defined in 24 RCNY Health Code § 81.09, within the enclosed room in which the event is held.
 
 (j) Membership association. "Membership association" shall have the meaning set forth in § 17-502(ff) of the Act.
 
 (k) On-site agent. "On-site agent" shall mean an employee designated by a building operator, owner or manager to inform persons that smoking is prohibited on the building premises.
 
-(l) Open for business. For the purpose of § 23 of Local Law 47 of 2002 and § 10-02(c) of these rules, the term "open for business" shall include any time that employees are present in such establishment or any time the establishment is open to the public.
+(l) Open for business. For the purpose of § 23 of Local Law 47 of 2002 and 24 RCNY § 10-02(c), the term "open for business" shall include any time that employees are present in such establishment or any time the establishment is open to the public.
 
 (m) Overhang. "Overhang" shall mean any roof, ceiling or other complete or partial covering of, or over, an outdoor dining area of a restaurant.
 
@@ -1748,7 +1748,7 @@ Chapter 10: Smoking Under the New York City Smoke-Free Air Act
 
 (a)  Except as otherwise specifically provided in the Act, in these rules, or in other applicable law, smoking shall be prohibited in all indoor areas of all public places and places of employment, and certain outdoor areas in accordance with §§ 17-503(a) and 17-504 of the Act, and other applicable law, and all enclosed areas regulated by the State law, the Act and these rules, including areas which have any full or partial overhead ceiling, roof or other covering. Except as otherwise specifically provided in the Act, in these rules, or in other applicable law, using electronic cigarettes shall be prohibited in all indoor areas of all public places and places of employment, and certain outdoor areas in accordance with §§ 17-503(a) and 17-504 of the Act, and other applicable law, and all enclosed areas regulated by the Act and these rules, including areas that have any full or partial overhead ceiling, roof or other covering.
 
-(b) Smoking shall be prohibited in a tobacco business, as defined by § 17-502(aa) of the Act; except that smoking shall be permitted on no more than two floors of a building occupied by such tobacco business, and only within areas of such floors which are designated by such business for the purpose of testing or development of tobacco or tobacco products and only if such tobacco business has applied for and has been issued a waiver of the State law prohibition on smoking in such premises, in accordance with § 1399-u of the State law and § 10-15 of these rules.
+(b) Smoking shall be prohibited in a tobacco business, as defined by § 17-502(aa) of the Act; except that smoking shall be permitted on no more than two floors of a building occupied by such tobacco business, and only within areas of such floors which are designated by such business for the purpose of testing or development of tobacco or tobacco products and only if such tobacco business has applied for and has been issued a waiver of the State law prohibition on smoking in such premises, in accordance with § 1399-u of the State law and 24 RCNY § 10-15.
 
 
 
@@ -1766,9 +1766,9 @@ Smoking, and using electronic cigarettes, are not regulated in:
 
 (c) Private automobiles;
 
-(d) Registered retail tobacco stores, as defined in § 10-01(y) of these rules; and
+(d) Registered retail tobacco stores, as defined in 24 RCNY § 10-01(y); and
 
-(e) Registered retail electronic cigarette stores, as defined in § 10-01(z) of these rules, provided however, that only the use of electronic cigarettes is not regulated in such stores.
+(e) Registered retail electronic cigarette stores, as defined in 24 RCNY § 10-01(z), provided however, that only the use of electronic cigarettes is not regulated in such stores.
 
 
 
@@ -1778,13 +1778,13 @@ Smoking, and using electronic cigarettes, are not regulated in:
 *§ 10-04 Tobacco, and Electronic Cigarette, Promotion Public Events.* ::
 
 
-Smoking, and using electronic cigarettes, may be permitted in an enclosed room, as defined in § 10-01(g) of these rules, in a restaurant, bar, cabaret, catering hall, convention hall, hotel or motel conference room, or other such similar facility, where smoking is otherwise prohibited, when the public is invited to attend a specific event held for the primary purpose of promoting and sampling tobacco products or electronic cigarettes, provided that:
+Smoking, and using electronic cigarettes, may be permitted in an enclosed room, as defined in 24 RCNY § 10-01(g), in a restaurant, bar, cabaret, catering hall, convention hall, hotel or motel conference room, or other such similar facility, where smoking is otherwise prohibited, when the public is invited to attend a specific event held for the primary purpose of promoting and sampling tobacco products or electronic cigarettes, provided that:
 
 (a) Notice of the public event shall be provided to the Department on forms furnished by the Department. Completed forms shall be received by the Department no later than two (2) weeks prior to the event.
 
    (i) The Department may charge a fee not to exceed $100.00 per notice.
 
-   (ii) Signs shall be posted in accordance with § 10-12 of these rules and shall contain one of the following messages:
+   (ii) Signs shall be posted in accordance with 24 RCNY § 10-12 and shall contain one of the following messages:
 
       (A) "SMOKING PERMITTED AT THIS EVENT. NOTICE OF THIS EVENT HAS BEEN FILED WITH THE NEW YORK CITY DEPARTMENT OF HEALTH AND MENTAL HYGIENE IN ACCORDANCE WITH THE NEW YORK CITY SMOKE-FREE AIR ACT."
 
@@ -1796,7 +1796,7 @@ Smoking, and using electronic cigarettes, may be permitted in an enclosed room, 
 
 (c) If tobacco products are to be distributed at the event for sampling, such distribution shall be in compliance with all laws and rules relating to the distribution of tobacco products, including but not limited to §§ 17-176 [17-618]; and 20-202 of the Administrative Code and § 1399-bb of the Public Health Law.
 
-(d) (i) No such facility shall be authorized to permit smoking pursuant to this section on more than two (2) days in any calendar year unless such facility has applied for and has been issued a waiver of the State law, in accordance with § 1399-u of the State law and § 10-15 of these rules, allowing such events to be held in any facility on no more than five (5) days in any calendar year.
+(d) (i) No such facility shall be authorized to permit smoking pursuant to this section on more than two (2) days in any calendar year unless such facility has applied for and has been issued a waiver of the State law, in accordance with § 1399-u of the State law and 24 RCNY § 10-15, allowing such events to be held in any facility on no more than five (5) days in any calendar year.
 
    (ii) No such facility will be authorized to permit electronic cigarette use on more than five (5) days in any calendar year.
 
@@ -1808,7 +1808,7 @@ Smoking, and using electronic cigarettes, may be permitted in an enclosed room, 
 *§ 10-05 Enclosed Rooms for Patients of Certain Residential Health Care Facilities and Day Treatment Programs.* ::
 
 
-Smoking, and using electronic cigarettes, may be permitted in an enclosed room, as defined in § 10-01(g) of these rules, in certain residential health care facilities offering health related services, as defined in § 17-502(q) and (dd) of the Act, and facilities providing day treatment programs, as defined in § 17-502(cc) of the Act, which room has been designated for smoking, and using electronic cigarettes, by patients, in accordance with the following terms and conditions:
+Smoking, and using electronic cigarettes, may be permitted in an enclosed room, as defined in 24 RCNY § 10-01(g), in certain residential health care facilities offering health related services, as defined in § 17-502(q) and (dd) of the Act, and facilities providing day treatment programs, as defined in § 17-502(cc) of the Act, which room has been designated for smoking, and using electronic cigarettes, by patients, in accordance with the following terms and conditions:
 
 (a) Smoking, and electronic cigarette use, rooms shall comply with all applicable Building Code and Fire Code requirements.
 
@@ -1816,7 +1816,7 @@ Smoking, and using electronic cigarettes, may be permitted in an enclosed room, 
 
 (c) No persons other than patients of such facilities shall be allowed to smoke or use electronic cigarettes in such rooms.
 
-(d) Signs shall be posted in accordance with § 10-12 of these rules and shall contain one of the following messages:
+(d) Signs shall be posted in accordance with 24 RCNY § 10-12 and shall contain one of the following messages:
 
    (i) "SMOKING PERMITTED. IN ACCORDANCE WITH THE NEW YORK CITY SMOKE-FREE AIR ACT, ONLY PATIENTS OF THIS FACILITY MAY SMOKE IN THIS ROOM."
 
@@ -1824,7 +1824,7 @@ Smoking, and using electronic cigarettes, may be permitted in an enclosed room, 
 
    (iii) "SMOKING AND ELECTRONIC CIGARETTE USE PERMITTED. IN ACCORDANCE WITH THE NEW YORK CITY SMOKE-FREE AIR ACT, ONLY PATIENTS OF THIS FACILITY MAY SMOKE OR USE ELECTRONIC CIGARETTES IN THIS ROOM."
 
-(e) In addition, operators of residential health care facilities defined in § 17-502(q) of the Act, which are prohibited by the State law from allowing smoking on premises under their management or control, may apply to the Department for a waiver of the State law pursuant to § 10-15 of these rules. If a waiver of the State law is granted, such rooms shall be constructed and operated in accordance with subdivisions (a), (b), (c), and (d) of this section.
+(e) In addition, operators of residential health care facilities defined in § 17-502(q) of the Act, which are prohibited by the State law from allowing smoking on premises under their management or control, may apply to the Department for a waiver of the State law pursuant to 24 RCNY § 10-15. If a waiver of the State law is granted, such rooms shall be constructed and operated in accordance with subdivisions (a), (b), (c), and (d) of this section.
 
 
 
@@ -1834,7 +1834,7 @@ Smoking, and using electronic cigarettes, may be permitted in an enclosed room, 
 *§ 10-06 Owner Operated Bars. [Repealed]* ::
 
 
-Smoking shall be permitted in tobacco bars, as defined in § 17-502(jj) of the Act and § 10-01 of these rules, which were in existence in the calendar year ending December 31, 2001, and in which ten (10) or more percent of the bar's total gross annual income was derived from the on-site sale of tobacco products and rental of humidors, in accordance with the following terms and conditions:
+Smoking shall be permitted in tobacco bars, as defined in § 17-502(jj) of the Act and 24 RCNY § 10-01, which were in existence in the calendar year ending December 31, 2001, and in which ten (10) or more percent of the bar's total gross annual income was derived from the on-site sale of tobacco products and rental of humidors, in accordance with the following terms and conditions:
 
 (a) The applicant for registration shall show that the tobacco bar has been operated pursuant to a permit issued by the Commissioner in accordance with 24 RCNY Health Code Articles 5 and 81 by the current and any prior owner since the calendar year ending December 31, 2001.
 
@@ -1850,7 +1850,7 @@ Smoking shall be permitted in tobacco bars, as defined in § 17-502(jj) of the A
 
    (i) The Department may charge a fee not to exceed $100.00 for each application.
 
-   (ii) Signs shall be posted in accordance with § 10-12 of these rules and shall state: "SMOKING PERMITTED. THIS IS A TOBACCO BAR REGISTERED WITH THE NEW YORK CITY DEPARTMENT OF HEALTH AND MENTAL HYGIENE IN ACCORDANCE WITH THE NEW YORK CITY SMOKE-FREE AIR ACT."
+   (ii) Signs shall be posted in accordance with 24 RCNY § 10-12 and shall state: "SMOKING PERMITTED. THIS IS A TOBACCO BAR REGISTERED WITH THE NEW YORK CITY DEPARTMENT OF HEALTH AND MENTAL HYGIENE IN ACCORDANCE WITH THE NEW YORK CITY SMOKE-FREE AIR ACT."
 
 (g) Smoking shall be prohibited in any entity alleging eligibility to register as a tobacco bar until an application for registration has been submitted and the Department has notified the applicant that the Department has approved such application. The Department shall review the application submitted and shall notify the applicant within forty-five (45) days as to whether such application has been approved or has been denied, provided all information requested has been submitted. If the Department determines, upon review of the documents submitted, and/or upon investigation, that such applicant does not qualify for registration in accordance with the definitions of the Act and these rules, it shall notify the applicant of this determination.
 
@@ -1866,7 +1866,7 @@ Smoking shall be permitted in tobacco bars, as defined in § 17-502(jj) of the A
 *§ 10-08 Membership Associations.* ::
 
 
-Smoking may be permitted in not-for-profit membership associations, as defined in § 17-502(ff) of the Act and § 10-01 of these rules, in accordance with the following terms and conditions:
+Smoking may be permitted in not-for-profit membership associations, as defined in § 17-502(ff) of the Act and 24 RCNY § 10-01, in accordance with the following terms and conditions:
 
 (a) An entity which believes itself to be a not-for-profit membership association shall apply to the Department to register to allow smoking on its premises by its members and their guests.
 
@@ -1876,7 +1876,7 @@ Smoking may be permitted in not-for-profit membership associations, as defined i
 
    (i) The Department may charge a fee not to exceed $100.00 for each application.
 
-   (ii) Signs shall be posted in accordance with § 10-12 of these rules and shall state: "SMOKING PERMITTED. THIS IS A MEMBERSHIP ASSOCIATION WHICH IS REGISTERED WITH THE NEW YORK CITY DEPARTMENT OF HEALTH AND MENTAL HYGIENE IN ACCORDANCE WITH THE NEW YORK CITY SMOKE-FREE AIR ACT."
+   (ii) Signs shall be posted in accordance with 24 RCNY § 10-12 and shall state: "SMOKING PERMITTED. THIS IS A MEMBERSHIP ASSOCIATION WHICH IS REGISTERED WITH THE NEW YORK CITY DEPARTMENT OF HEALTH AND MENTAL HYGIENE IN ACCORDANCE WITH THE NEW YORK CITY SMOKE-FREE AIR ACT."
 
 (d) The entity shall notify the Department, in writing, no later than ten (10) business days after any change in the employee information entered on the application for registration, or if any persons are engaged as "employees" to perform work or render any services on any premises controlled by the entity. It is a violation of these rules and grounds for revocation of the registration if the entity engages any employees to perform work or render any services on such premises.
 
@@ -1898,13 +1898,13 @@ Smoking may be permitted in not-for-profit membership associations, as defined i
 *§ 10-09 Separate Smoking Rooms in Bars. [Repealed]* ::
 
 
-Smoking, and using electronic cigarettes, may be allowed in contiguous "outdoor dining areas," pursuant to § 17-503(c) of the Act and as defined in § 10-01 of these rules provided that each such area:
+Smoking, and using electronic cigarettes, may be allowed in contiguous "outdoor dining areas," pursuant to § 17-503(c) of the Act and as defined in 24 RCNY § 10-01 provided that each such area:
 
 (a) Represents a separate and discrete area of a restaurant, as defined in § 17-502(r) of the Act, in which all tables and/or chairs in the outdoor smoking and electronic cigarette use area are located three (3) or more feet apart from all tables and/or chairs in the indoor and outdoor non-smoking and non-electronic cigarettes use areas, measured from the closest leading edges of all tables in the non-smoking and non-electronic cigarette use areas to the closest leading edges of all tables in the area where smoking, and using electronic cigarettes, is permitted and seating, if provided, is arranged so that no chairs in the smoking and electronic cigarette use area may be deliberately or inadvertently placed within the three (3) foot separation area;
 
 (b) Constitutes no more than twenty-five (25) percent of the total outdoor seating or standing capacity of each outdoor area designated for food or drink consumption;
 
-(c) Has no roof, ceiling, overhead structure, or other overhang as defined in § 10-01 of these rules which either fully or partially covers any part of an outdoor dining area where smoking, and using electronic cigarettes, is permitted; and
+(c) Has no roof, ceiling, overhead structure, or other overhang as defined in 24 RCNY § 10-01 which either fully or partially covers any part of an outdoor dining area where smoking, and using electronic cigarettes, is permitted; and
 
 (d) Is clearly designated by signage as an area where smoking, and using electronic cigarettes, is permitted.
 
@@ -2235,6 +2235,11 @@ The unenforceability of any provision in these rules shall not affect the enforc
 
 
 
+
+
+
+**APPENDIX A: SPECIFICATIONS FOR SEPARATE SMOKING ROOMS [Repealed]**
+
 Chapter 11: Conservation of Water [Repealed]
 --------------------------------------------------
 
@@ -2310,7 +2315,7 @@ Tenant. "Tenant" shall mean lessee or other occupant regularly residing within a
 *§ 12-03 Annual Notice.* ::
 
 
-(a) Each year the landlord shall deliver to each dwelling unit, a notice, the form and content of which shall be in English and Spanish as specified in Appendix B, no earlier than January 1 and no later than January 16 of the year for which the notice is delivered. The foregoing notwithstanding, if such notice is delivered to the tenant by enclosure with the rent bill pursuant to § 12-03(b)(3) below, then the notice may be delivered by the landlord at such time as the rent bill for the month of January is delivered. In addition said notice shall be so delivered within thirty (30) days of a change in occupancy not involving a written lease. This provision shall be effective January 1, 1987.
+(a) Each year the landlord shall deliver to each dwelling unit, a notice, the form and content of which shall be in English and Spanish as specified in Appendix B, no earlier than January 1 and no later than January 16 of the year for which the notice is delivered. The foregoing notwithstanding, if such notice is delivered to the tenant by enclosure with the rent bill pursuant to 24 RCNY § 12-03(b)(3) below, then the notice may be delivered by the landlord at such time as the rent bill for the month of January is delivered. In addition said notice shall be so delivered within thirty (30) days of a change in occupancy not involving a written lease. This provision shall be effective January 1, 1987.
 
 (b) The landlord shall deliver said notice by any one of the following methods:
 
@@ -2332,7 +2337,7 @@ Tenant. "Tenant" shall mean lessee or other occupant regularly residing within a
 *§ 12-04 Variation in Form of Notices Prohibited.* ::
 
 
-The wording and form of notices specified in this regulation shall not be altered or varied in any manner, except as permitted after an application made to the Commissioner under § 12-08.
+The wording and form of notices specified in this regulation shall not be altered or varied in any manner, except as permitted after an application made to the Commissioner under 24 RCNY § 12-08.
 
 
 
@@ -2354,7 +2359,7 @@ The wording and form of notices specified in this regulation shall not be altere
 *§ 12-06 Tenant Obligation to Provide Information and Access.* ::
 
 
-(a) No tenant in a dwelling unit shall refuse or unreasonably fail to provide accurate and truthful information regarding the residency of children therein, or refuse, prevent or obstruct any inspection required by § 12-03(c) above.
+(a) No tenant in a dwelling unit shall refuse or unreasonably fail to provide accurate and truthful information regarding the residency of children therein, or refuse, prevent or obstruct any inspection required by 24 RCNY § 12-03(c) above.
 
 (b) A landlord who has been denied access to a dwelling unit for the purpose of installing window guards required by 24 RCNY Health Code § 131.15(a), shall write to the Department's Window Falls Prevention Program, 125 Worth Street, New York, New York 10013. Said statement shall specify the landlord's efforts to gain access and the circumstances of the denial thereof.
 
@@ -2584,150 +2589,25 @@ When the strict application of any provision of this regulation presents practic
 *§ 12-13 Penalties.* ::
 
 
-Penalties for violation of these regulations shall be as provided for in § 17-123* of the Administrative Code of the City of New York.
+Penalties for violation of these regulations shall be as provided for in § 17-123 of the Administrative Code of the City of New York.
 
 
 
 
 
 
-*APPENDIX A LEASE NOTICE TO TENANT* ::
 
+**APPENDIX A LEASE NOTICE TO TENANT**
 
-WINDOW GUARDS REQUIRED LEASE NOTICE TO TENANT
 
-You are required by law to have window guards installed if a child 10 years of age or younger lives in your apartment. Your Landlord is required by law to install window guards in your apartment:
 
-____   if you ask him to put in window guards at any time (you need not give a reason)
 
-OR
+**APPENDIX B NOTICE TO TENANT OR OCCUPANT [ENGLISH]**
 
-____   if a child 10 years or younger lives in your apartment.
 
-It is a violation of law to refuse, interfere with installation, or remove window guards where required.
 
-CHECK ONE
 
-____   CHILDREN 10 YEARS OF AGE OR YOUNGER LIVE IN MY APARTMENT
-
-____   NO CHILDREN 10 YEARS OF AGE OR YOUNGER LIVE IN MY APARTMENT
-
-____   I WANT WINDOW GUARDS EVEN THOUGH I HAVE NO CHILDREN 10 YEARS OF AGE OR YOUNGER
-
-________________________________________
-
-TENANT (PRINT)
-
-________________________________________
-
-TENANT SIGNATURE         DATE
-
-FOR FURTHER INFORMATION CALL: Window Falls Prevention Program New York City Department of Health 125 Worth Street, Room 222A New York, New York 10013 (212) 566-8082
-
-
-
-
-
-
-*APPENDIX B NOTICE TO TENANT OR OCCUPANT [ENGLISH]* ::
-
-
-DEPARTMENT OF HEALTH CITY OF NEW YORK NOTICE TO TENANT OR OCCUPANT
-
-You are required by law to have window guards installed in all windows* if a child 10 years of age or younger lives in your apartment. Your landlord is required by law to install window guards in your apartment:
-
-____   if a child 10 years of age or younger lives in your apartment.
-
-OR
-
-____   if you ask him to install window guards at any time (you need not give a reason)
-
-It is a violation of law to refuse, interfere with installation, or remove window guards where required, or to fail to complete and return this form to your landlord. If this form is not returned promptly an inspection by the landlord will follow.
-
-CHECK WHICHEVER APPLY:
-
-____   CHILDREN 10 YEARS OF AGE OR YOUNGER LIVE IN MY APARTMENT
-
-____   NO CHILDREN 10 YEARS OF AGE OR YOUNGER LIVE IN MY APARTMENT
-
-____   I WANT WINDOW GUARDS EVEN THOUGH I HAVE NO CHILDREN 10 YEARS OF AGE OR YOUNGER
-
-____   WINDOW GUARDS ARE INSTALLED IN ALL WINDOWS*
-
-____   WINDOW GUARDS ARE NOT INSTALLED IN ALL WINDOWS*
-
-____   WINDOW GUARDS NEED MAINTENANCE OR REPAIR
-
-____   WINDOW GUARDS DO NOT NEED MAINTENANCE OR REPAIR
-
-Tenant's Name: ________________________________________ ________________________________________
-
-   (Print)                (Address/Apt. No.)
-
-Tenant's Name: ________________________________________ Date: ________________________________________
-
-      (Signature)
-
- 
-
-RETURN THIS FORM TO      NAME AND ADDRESS OF            OWNER OR MANAGING AGENT
-
-FOR FURTHER INFORMATION CALL: Window Falls Prevention ProgramNew York City Department of Health125 Worth Street, Room 222ANew York, New York 10013(212) 566-8082
-
-* Except windows giving access to fire escapes or windows on the first floor that are required means of egress from the dwelling unit.
-
-
-
-
-
-
-*APPENDIX B1 NOTICE TO TENANT OR OCCUPANT [SPANISH]* ::
-
-
-DEPARTMENT DE SALUD CIUDAD DE NEUVA YORK AVISO A LOS INQUILINOS O A LOS OCUPANTES
-
-Usted esta' obligado por ley a hacer instalar rejas en todas las ventanas* si un nino de 10 anos de edad, o menor, vive en su apartmento. Su Casero esta obligado por ley a instalar rejas en las ventanas de su apartmento si:
-
-____   un nino de 10 anos de edad, o menor, vive en su apartamento; o si
-
-____   usted le solicita en cualquier opportunidad que instale rejas en las ventanas (no necesita dar una explicacion).
-
-Constituye una infraccion de la ley negarse, interferir con la instalacion, o retirar las rejas de las ventanas cuando se requiere tenerls, o dejar de llenar y devolver este formulario a su casero. Si este formulario no es devuelto opportunamente, se procedera a realizar una inspeccion por parte del casero.
-
-____   MARCAR SEGUN CORRESPONDA:
-
-____   NINOS DE 10 ANOS DE EDAD 0 MENORES VIVEN EN MI APARTAMENTO
-
-____   NINGUN NINO DE 10 ANOS DE EDAD O MENOR VIVE EN MI APARTAMENTO
-
-____   DESEO QUE SE INSTALEN REJAS EN LAS VENTANAS AUN CUANDO NO TENGO NINOS DE 10 ANOS DE EDAD OR MENORES
-
-____   SE HAN INSTALADO REJAS EN TODAS LAS VENTANAS*
-
-____   NO SE HAN INSTALADO REJAS EN TODAS LAS VENTANAS*
-
-____   LAS REJAS DE VENTANAS NECESITAN MANTENIMIENTO O REPARACION
-
-____   LAS REJAS DE VENTANAS NO NECESITAN MANTENIMIENTO O REPARACION
-
-Nombre del Inquilino: ________________________________________ ________________________________________
-
-      (Letra de Imprenta)          (Direccion/No. de Apto)
-
-Nombre del Inquilino: ________________________________________ Fecha: ________________________________________
-
-      (Signature)
-
-DEVOLVER A:                  NOMBRE Y DIRECCION DEL                  PROPRIETARIO,                  AGENTE O ADMINISTRADOR
-
-PARA PEDIR MAYORES INFORMES DIRIGASE A:
-
-Programa de Prevencion de Accidentes en Ventanas Departamento de Salud de la Cuidad de Neuva York125 Worth Street, Oficina 222ANew York, New York 10013Telefono: (212) 566-8082
-
-* Con excepcion de las ventanas que den acceso a las salidas de incendios o las ventanas del primer piso que constituyan un medio obligatorio de salida de la vivienda.
-
-
-
+**APPENDIX B NOTICE TO TENANT OR OCCUPANT [SPANISH]**
 
 Chapter 13: Cigarette and Tobacco Product Sales
 --------------------------------------------------
@@ -2737,66 +2617,294 @@ Chapter 13: Cigarette and Tobacco Product Sales
 *§ 13-01 Scope and applicability.* ::
 
 
-This chapter applies to sales of cigarettes and tobacco products in the City of New York pursuant to section 17-176.1 and Chapter 7 of Title 17 of the Administrative Code of the City of New York ("Administrative Code").
+This chapter applies to sales of cigarettes and tobacco products in the City of New York pursuant to § 17-176.1 and Chapter 7 of Title 17 of the Administrative Code of the City of New York ("Administrative Code").
 
 
 
 
 
 
-*§ 13-02 Prohibition on the sale of cigarettes or tobacco products for less than the listed price.* ::
+*§ 13-02 Definitions.* ::
 
 
-(a) Pursuant to subdivision (a) of § 17-176.1 of the Administrative Code, the listed price is the price listed for cigarettes or tobacco products on their packages or on any related shelving, posting, advertising or display at the place where the cigarettes or tobacco products are sold or offered for sale, including all applicable taxes.
+(a) “Cigar,” “little cigar,” “loose tobacco,” “non-tobacco shisha,” “shisha,” “smokeless tobacco,” “snus,” and “tobacco product” are defined in the same manner as those terms are defined in § 17-176.1 of the Administrative Code.
 
-(b) "All applicable taxes" includes excise taxes and sales taxes.
-
-(c) For cigarettes and tobacco products subject to § 20-708 of the Administrative Code, the listed price must specify the price exclusive of sales tax and the amount of sales tax to be charged.
-
-(d) Paragraph four of subdivision (b) and paragraph four of subdivision (c) of § 17-176.1 of the Administrative Code prohibit the sale of cigarettes or tobacco products to a consumer for less than the listed price, but do not prohibit a person from:
-
-   (i) changing the listed price; or
-
-   (ii) informing customers that the listed price has changed.
+(b) “Price floor” means the price floor described in subdivision (d) of § 17-176.1 of the Administrative Code.
 
 
 
 
 
 
-*§ 13-03 Price floor for cigarettes and little cigars.* ::
 
 
-Pursuant to subdivision (d) of § 17-176.1 of the Administrative Code, the price floor for a package of cigarettes and little cigars is $10.50 including sales tax and $9.65 excluding sales tax.
+*§ 13-03 Price floor for other tobacco products.* ::
 
 
+(a) No person may sell or offer for sale to a consumer a package of 20 little cigars, for less than the little cigar price floor of $10.95, excluding OTP tax and sales tax.
+
+(b) No person may sell or offer for sale to a consumer a package of cigars for less than the cigar price floor, excluding OTP tax and sales tax.
+
+   (1) The cigar price floor is $8.00 for the first cigar, plus $1.75 for each additional cigar.
+
+   (2) The table below shows the price floors for some cigar package sizes. Price floors for package sizes not listed below must be calculated according to paragraph one of this subdivision.
+
+ 
 
 
+.. list-table::
+    :header-rows: 1
 
-
-*§ 13-04 Out-of-package sales prohibited.* ::
-
-
-Pursuant to subdivision (b) of § 17-704 of the Administrative Code, retail dealers are prohibited from selling a cigar for $3.00 or less including sales tax, or $2.76 or less excluding sales tax, unless it is sold in a package of at least four cigars.
-
-
-
-
-
-
-*§ 13-05 Sale of cigarettes, tobacco products, or electronic cigarettes to minors and young adults prohibited.* ::
-
-
-(a) Pursuant to subdivision (a) of § 17-706 of the Administrative Code, any individual purchasing cigarettes, tobacco products, or electronic cigarettes must be at least twenty-one years of age.
-
-(b) Pursuant to subdivision (b) of § 17-706 and § 17-714 of the Administrative Code, any individual purchasing non-tobacco shisha, herbal cigarettes, pipes, or rolling papers must be at least eighteen years of age.
+    * - Cigar Pack Size
+      - Price Floor
+~
 
 
 
 
 
 
-*§ 13-06 Signage.* ::
+.. list-table::
+    :header-rows: 1
+
+    * - Single cigar
+      - $8.00
+    * - 2-pack
+      - $9.75
+    * - 3-pack
+      - $11.50
+    * - 4-pack
+      - $13.25
+    * - 5-pack
+      - $15.00
+    * - 8-pack
+      - $20.25
+    * - 10-pack
+      - $23.75
+    * - 20-pack
+      - $41.25
+~
+
+ 
+
+(c) No person may sell or offer for sale to a consumer a package of smokeless tobacco for less than the smokeless tobacco price floor, excluding OTP tax and sales tax.
+
+   (1) The smokeless tobacco price floor is $8.00 for the first 1.2 ounces, plus $2.00 for each additional 0.3 ounces or any fraction thereof.
+
+   (2) The table below shows the price floors for some smokeless tobacco package sizes. Price floors for package sizes not listed below must be calculated according to paragraph one of this subdivision.
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - Smokeless Tobacco Pack Size
+      - Price Floor
+~
+
+
+
+
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 1.2 ounces (minimum size)
+      - $8.00
+    * - Greater than 1.2 ounces but less than or equal to 1.5 ounces
+      - $10.00
+    * - Greater than 1.5 ounces but less than or equal to 1.8 ounces
+      - $12.00
+    * - Greater than 1.8 ounces but less than or equal to 2.1 ounces
+      - $14.00
+    * - Greater than 2.1 ounces but less than or equal to 2.4 ounces
+      - $16.00
+    * - Greater than 2.4 ounces but less than or equal to 2.7 ounces
+      - $18.00
+    * - Greater than 2.7 ounces but less than or equal to 3.0 ounces
+      - $20.00
+~
+
+ 
+
+(d) No person may sell or offer for sale to a consumer a package of snus for less than the snus price floor, excluding OTP tax and sales tax.
+
+   (1) The snus price floor is $8.00 for the first 0.32 ounces, plus $2.00 for each additional 0.08 ounces or any fraction thereof.
+
+   (2) The below table shows the price floors, for some snus package sizes. Price floors for package sizes not listed below shall be calculated in accordance with paragraph one of this subdivision.
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - Snus Pack Size
+      - Price Floor
+    * - 0.32 ounces (minimum size)
+      - $8.00
+    * - Greater than 0.32 ounces but less than or equal to 0.40 ounces
+      - $10.00
+    * - Greater than 0.40 ounces but less than or equal to 0.48 ounces
+      - $12.00
+    * - Greater than 0.48 ounces but less than or equal to 0.56 ounces
+      - $14.00
+    * - Greater than 0.56 ounces but less than or equal to 0.64 ounces
+      - $16.00
+~
+
+
+
+ 
+
+(e) No person may sell or offer for sale to a consumer a package of shisha for less than the shisha price floor, excluding OTP tax and sales tax.
+
+   (1) The price floor for a package of shisha is $17.00 for 3.5 ounces, plus $3.40 for each 0.7 ounces or any fraction thereof in excess of 3.5 ounces.
+
+   (2) The table below shows the price floors for some shisha package sizes. Price floors shall be calculated in accordance with paragraph one of this subdivision.
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - Shisha Container Size
+      - Price Floor
+~
+
+
+
+
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 3.5 ounces (minimum size)
+      - $17.00
+    * - Greater than 3.5 ounces but less than or equal to 4.2 ounces
+      - $20.40
+    * - Greater than 4.2 ounces but less than or equal to 4.9 ounces
+      - $23.80
+    * - Greater than 4.9 ounces but less than or equal to 5.6 ounces
+      - $27.20
+    * - Greater than 5.6 ounces but less than or equal to 6.3 ounces
+      - $30.60
+    * - Greater than 6.3 ounces but less than or equal to 7 ounces
+      - $34.00
+    * - Greater than 7 ounces but less than or equal to 7.7 ounces
+      - $37.40
+    * - Greater than 17.7 ounces but less than or equal to 8.4 ounces
+      - $40.80
+    * - Greater than 8.4 ounces but less than or equal to 9.1
+      - $44.20
+    * - 35 ounces
+      - $170.00
+~
+
+ 
+
+(f) No person may sell or offer for sale to a consumer a package of non-tobacco shisha for less than the non-tobacco shisha price floor. The non-tobacco shisha price floor is the same as the shisha price floor.
+
+(g) No person may sell or offer for sale to a consumer a package of loose tobacco for less than the loose tobacco price floor, excluding OTP tax and sales tax.
+
+   (1) The price floor for a package of loose tobacco is $2.55 for 1.5 ounces, plus $0.51 for each 0.3 ounces or any fraction thereof in excess of 1.5 ounces.
+
+   (2)  The table below shows the price floors for some loose tobacco package sizes. Price floors for package sizes not listed below must be calculated according to the paragraph one of this subdivision.
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - Loose Tobacco Size
+      - Price Floor
+~
+
+
+
+
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 1.5 ounces (minimum size)
+      - $2.55
+    * - Greater than 1.5 ounces but less than or equal to 1.8 ounces
+      - $3.06
+    * - Greater than 1.8 ounces but less than or equal to 2.1 ounces
+      - $3.57
+    * - Greater than 2.1 ounces but less than or equal to 2.4 ounces
+      - $4.08
+    * - Greater than 2.4 ounces but less than or equal to 2.7 ounces
+      - $4.59
+    * - Greater than 2.7 ounces but less than or equal to 3 ounces
+      - $5.10
+    * - Greater than 3 ounces but less than or equal to 3.3 ounces
+      - $5.61
+    * - Greater than 3.3 ounces but less than or equal to 3.6 ounces
+      - $6.12
+    * - Greater than 3.6 ounces but less than or equal to 3.9 ounces
+      - $6.63
+    * - Greater than 3.9 ounces but less than or equal to 4.2 ounces
+      - $7.14
+    * - Greater than 4.2 ounces but less than or equal to 4.5 ounces
+      - $7.65
+    * - Greater than 4.5 ounces but less than or equal to 4.8 ounces
+      - $8.16
+    * - Greater than 4.8 ounces but less than or equal to 5.1 ounces
+      - $8.67
+    * - Greater than 5.1 ounces but less than or equal to 5.4 ounces
+      - $9.18
+    * - Greater than 5.4 ounces but less than or equal to 5.7 ounces
+      - $9.69
+    * - Greater than 5.7 ounces but less than or equal to 6 ounces
+      - $10.20
+    * - Greater than 6 ounces but less than or equal to 6.3 ounces
+      - $10.71
+    * - Greater than 6.3 ounces but less than or equal to 6.6 ounces
+      - $11.22
+    * - Greater than 6.6 ounces but less than or equal to 6.9 ounces
+      - $11.73
+    * - Greater than 6.9 ounces but less than or equal to 7.2 ounces
+      - $12.24
+    * - Greater than 7.2 ounces but less than or equal to 7.5 ounces
+      - $12.75
+    * - Greater than 7.5 ounces but less than or equal to 7.8 ounces
+      - $13.26
+    * - Greater than 7.8 ounces but less than or equal to 8.1 ounces
+      - $13.77
+    * - Greater than 8.1 ounces but less than or equal to 8.4 ounces
+      - $14.28
+    * - Greater than 8.4 ounces but less than or equal to 8.7 ounces
+      - $14.79
+    * - Greater than 8.7 ounces but less than or equal to 9 ounces
+      - $15.30
+    * - Greater than 9 ounces but less than or equal to 9.3 ounces
+      - $15.81
+    * - Greater than 9.3 ounces but less than or equal to 9.6 ounces
+      - $16.32
+    * - Greater than 9.6 ounces but less than or equal to 9.9 ounces
+      - $16.83
+    * - Greater than 9.9 ounces but less than or equal to 10.2 ounces
+      - $17.34
+~
+
+ 
+
+
+
+
+
+
+
+
+*§ 13-04 Signage.* ::
 
 
 (a) Age restriction sign. Pursuant to subdivision (c) of § 17-706 of the Administrative Code, any person operating a place of business where cigarettes, tobacco products, liquid nicotine, electronic cigarettes, or non-tobacco smoking products are sold or offered for sale must post in a conspicuous place a sign, printed on a white card in bold red letters that are at least one-half inch in height and capitalized as indicated below, which states:
@@ -2808,6 +2916,16 @@ Pursuant to subdivision (b) of § 17-704 of the Administrative Code, retail deal
 "ALL CIGARETTES MUST HAVE A NEW YORK CITY AND NEW YORK STATE TAX STAMP"
 
 The sign must also include the contact number for the Sheriff's hotline for reporting potential violations, available on the New York City Department of Consumer Affairs website.
+
+
+
+
+
+
+
+
+*§ 13-05 Sale of cigarettes, tobacco products, or electronic cigarettes to minors and young adults prohibited. [Repealed]* ::
+
 
 
 
@@ -2878,7 +2996,7 @@ For the purposes of § 2903(a)(15)(a) of the New York City Charter the following
 *§ 16-03 Physicians Employed by Health &amp; Hospitals Corporation Designated to Perform Special Vehicle Identification Parking Permit Certifications.* ::
 
 
-The Department may use physicians, made available for this purpose by the Health &amp; Hospitals Corporation pursuant to a contract entered into by the Department with the Health &amp; Hospitals Corporation and the Department of Transportation, to perform medical certifications of Special Vehicle Identification Parking Permit applications submitted to the Department of Transportation. Such physicians, employed by the Health &amp; Hospitals Corporation, shall be qualified to certify persons for a Special Vehicle Identification Parking Permit as possessing a "permanent disability seriously impairing mobility" in accordance with § 2903(15)(a) of the Charter and the criteria specified in § 16-02 above. A practitioner in an appropriate field of specialization may be used to perform a medical certification when deemed necessary by the non-specialist/physician assessing the person's medical eligibility for a SVIPP.
+The Department may use physicians, made available for this purpose by the Health &amp; Hospitals Corporation pursuant to a contract entered into by the Department with the Health &amp; Hospitals Corporation and the Department of Transportation, to perform medical certifications of Special Vehicle Identification Parking Permit applications submitted to the Department of Transportation. Such physicians, employed by the Health &amp; Hospitals Corporation, shall be qualified to certify persons for a Special Vehicle Identification Parking Permit as possessing a "permanent disability seriously impairing mobility" in accordance with § 2903(15)(a) of the Charter and the criteria specified in 24 RCNY § 16-02 above. A practitioner in an appropriate field of specialization may be used to perform a medical certification when deemed necessary by the non-specialist/physician assessing the person's medical eligibility for a SVIPP.
 
 
 
@@ -2888,9 +3006,9 @@ The Department may use physicians, made available for this purpose by the Health
 *§ 16-04 Certification.* ::
 
 
-(a)  Certification Form. The Physician Certification Form shall state that, after a review of the SVIPP application and any accompanying documentation furnished by the applicant's personal physician, it has been determined that the applicant does or does not have a "permanent disability seriously impairing mobility". Where certification has been denied, the Form shall indicate whether that determination was based upon the fact that the medical documentation presented does not support a finding of a "permanent disability seriously impairing mobility" or because the clinical findings are inconsistent with the applicant's medical history or otherwise does not support the finding of a "permanent disability seriously impairing mobility". Except as otherwise provided in § 16-05, such determination shall be final when it is adopted by the Department.
+(a)  Certification Form. The Physician Certification Form shall state that, after a review of the SVIPP application and any accompanying documentation furnished by the applicant's personal physician, it has been determined that the applicant does or does not have a "permanent disability seriously impairing mobility". Where certification has been denied, the Form shall indicate whether that determination was based upon the fact that the medical documentation presented does not support a finding of a "permanent disability seriously impairing mobility" or because the clinical findings are inconsistent with the applicant's medical history or otherwise does not support the finding of a "permanent disability seriously impairing mobility". Except as otherwise provided in 24 RCNY § 16-05, such determination shall be final when it is adopted by the Department.
 
-(b) Post-Certification Reevaluation. In certain cases where certification has been granted, an applicant may be required to submit, at some future time designated by the physician/provider at the time of certification, to a reevaluation/reassessment of his (her) medical condition in order to determine whether the applicant continues to have a "permanent disability seriously impairing mobility". The decision to require a reevaluation of the applicant shall not be subject to appeal pursuant to § 16-05.
+(b) Post-Certification Reevaluation. In certain cases where certification has been granted, an applicant may be required to submit, at some future time designated by the physician/provider at the time of certification, to a reevaluation/reassessment of his (her) medical condition in order to determine whether the applicant continues to have a "permanent disability seriously impairing mobility". The decision to require a reevaluation of the applicant shall not be subject to appeal pursuant to 24 RCNY § 16-05.
 
 
 
@@ -2911,14 +3029,14 @@ Chapter 17: Tripartite General Orders
 
 
 
-**Subchapter A: Tripartite General Order No. 1: Approval of specifications for paper bags used for containing uncompacted refuse...**
+**Subchapter A: Tripartite General Order No. 1: Approval of Specifications for Paper Bags Used for Containing Uncompacted Refuse and Incinerator Residue; Approval of Specifications for Plastic Bags Used for Containing Uncompacted Refuse; and Approval of Specifications for Containers Used for Containing Compacted Refuse**
 
 
 
 *§ 17-01 Statement of Policy and Intent.* ::
 
 
-To improve the environment and to improve refuse containment and collection operations, the use of paper bags for containing uncompacted refuse and incinerator residue should be permitted; the use of plastic bags for containing uncompacted refuse should be permitted and the use of containers for containing compacted refuse should be permitted. Accordingly pursuant to Local Law 11 of the Laws of 1971 and to 24 RCNY Health Code § 13-1.11, the Department of Sanitation and the Department of Housing Preservation and Development, and the Department of Health hereby approve the specifications set forth in § 17-02 below for paper bags for containing uncompacted refuse and incinerator residue; hereby approve the specifications set forth in § 17-03 below for plastic bags for containing uncompacted refuse; and hereby approve the specifications set forth in § 17-04 below for containers for containing compacted refuse.
+To improve the environment and to improve refuse containment and collection operations, the use of paper bags for containing uncompacted refuse and incinerator residue should be permitted; the use of plastic bags for containing uncompacted refuse should be permitted and the use of containers for containing compacted refuse should be permitted. Accordingly pursuant to Local Law 11 of the Laws of 1971 and to 24 RCNY Health Code § 13-1.11, the Department of Sanitation and the Department of Housing Preservation and Development, and the Department of Health hereby approve the specifications set forth in 24 RCNY § 17-02 below for paper bags for containing uncompacted refuse and incinerator residue; hereby approve the specifications set forth in 24 RCNY § 17-03 below for plastic bags for containing uncompacted refuse; and hereby approve the specifications set forth in 24 RCNY § 17-04 below for containers for containing compacted refuse.
 
 
 
@@ -2940,13 +3058,13 @@ Table I Minimum Tensile Energy Absorption – Extensible
 .. list-table::
     :header-rows: 1
 
-    * - 
+    * -  
       - Dry 
       - Wet 
     * - Cross Direction of Paper(Single-ply or Multi-ply)
-      -   9.3 ft.lb./sq.ft. 
+      - 9.3 ft.lb./sq.ft. 
       - 2.7 ft. lb./sq.ft. 
-    * - Cross Direction Plus MachineDirection of Paper (Single-plyor Multi-ply)
+    * - Cross Direction Plus Machine Direction of Paper(Single-ply or Multi-ply)
       - 30.8 ft. lb./sq.ft. 
       - Not specified 
 ~
@@ -2963,13 +3081,13 @@ Table II Minimum Tensile Breaking Strengths – Non-Extensible
 .. list-table::
     :header-rows: 1
 
-    * - 
+    * -  
       - Dry 
       - Wet 
     * - Cross Direction of Paper(Single-ply or Multi-ply)
       - 34.0 lbs./in. width 
       - 9.0 lbs./in. width 
-    * - Cross Direction Plus MachineDirection of Paper (Single-plyor Multi-ply)
+    * - Cross Direction Plus Machine Direction of Paper(Single-ply or Multi-ply)
       - 95.0 lbs./in. width 
       - Not specified 
 ~
@@ -2988,13 +3106,13 @@ The method of testing for nominal and minimum basis weight shall be the Tappi St
 
 (f) Capacity: The usable capacity of bags shall not exceed four cubic feet. Measurement of capacity will be determined by the application of the following formula, applying the prescribed measurements of the unfilled bag.
 
-   Cubic Foot Capacity = [T-0.4 (F+G)] [F+G)]             5425
+   Cubic Foot Capacity = [T-0.4 (F+G)] [F+G)]                  5425
 
-Where:   T = Inside Tube Length of Bag (in inches) F = Inside Face Width of Bag (in inches) G = Inside Gusset Width of Bag (in inches)
+Where:   T = Inside Tube Length of Bag (in inches)    F = Inside Face Width of Bag (in inches)    G = Inside Gusset Width of Bag (in inches)
 
 No restrictions are made on bag dimensions provided that they do not deviate from the prescribed dimensions by more than the following tolerances:
 
-Width: ±3/16 inch Bottom: ±3/16 inch Length: ±1/4 inch
+   Width: ±3/16 inch    Bottom: ±3/16 inch    Length: ±1/4 inch
 
 (g) Labeling: On and after January 1, 1971, but prior to April 1, 1971, all bag packaging shall be labeled with an approved logo imprinted or pasted onto the principal panel of all such packaging. On or after April 1, 1971, each bag and all bag packaging shall be labeled with an approved logo marked and imprinted visibly, respectively, along the center of the face of such bag and on the principal display panel of all bag packaging. Such logo shall not be less than one square inch in size. Display of such logo on bags and all bag packaging shall be deemed the manufacturer's certification that such bags and all bags contained in such packages conform to these specifications and testing procedures. Each bag and all bag packaging shall have marked thereon the name and address of the principal place of business of the manufacturer or distributor of the same and a code identifying the date and location of bag manufacture. Each bag and retail package of bags shall be prominently marked with the words, "NOT LAWFUL FOR COMPACTED WASTE IN NEW YORK CITY", in block letters not less than 1/4 inch high.
 
@@ -3050,27 +3168,29 @@ Width: ±3/16 inch Bottom: ±3/16 inch Length: ±1/4 inch
 
    (4) Returnable containers shall be capable of easily discharging their contents by gravity.
 
-   (5) Containers shall be of unit construction when supplied to users and shall not require additional components to be considered ready for use, unless specific exception to this requirement is given by the Department of Sanitation pursuant to § 17-04(b) above.
+   (5) Containers shall be of unit construction when supplied to users and shall not require additional components to be considered ready for use, unless specific exception to this requirement is given by the Department of Sanitation pursuant to 24 RCNY § 17-04(b) above.
 
-(c) Containers shall not exceed four (4) cubic feet in capacity unless specific approval of a larger capacity is made by the Department of Sanitation pursuant to § 17-04(b) above.
+(c) Containers shall not exceed four (4) cubic feet in capacity unless specific approval of a larger capacity is made by the Department of Sanitation pursuant to 24 RCNY § 17-04(b) above.
 
 (d) Containers shall be free of jagged or sharp edges.
 
 (e) Containers shall be of high opacity and not transparent.
 
-(f) Labeling: On or after January 1, 1974, each approved disposable container or sealable separate section shall be marked with an approved logo along the center of its widest side and the applicable identifying model number registered with the Department of Sanitation. If enclosed in an outer wrapping, said wrapping shall be similarly marked. Such logo shall be no less than 1 percent of the area on which it is marked, but not be less than one square inch in size. Display of such logo on disposable containers and wrappings or sealable separate sections shall be deemed the manufacturer's or distributor's certification that such disposable containers and wrappings or sealable separate sections conform in detail to the specifications of the prototypes evaluated and approved by the Department of Sanitation and to the specification set forth in the certification submitted pursuant to § 17-04(b) above.            
+(f) Labeling: On or after January 1, 1974, each approved disposable container or sealable separate section shall be marked with an approved logo along the center of its widest side and the applicable identifying model number registered with the Department of Sanitation. If enclosed in an outer wrapping, said wrapping shall be similarly marked. Such logo shall be no less than 1 percent of the area on which it is marked, but not be less than one square inch in size. Display of such logo on disposable containers and wrappings or sealable separate sections shall be deemed the manufacturer's or distributor's certification that such disposable containers and wrappings or sealable separate sections conform in detail to the specifications of the prototypes evaluated and approved by the Department of Sanitation and to the specification set forth in the certification submitted pursuant to 24 RCNY § 17-04(b) above.
+
+
 
 
 .. image:: http://library.amlegal.com/nxt/gateway.dll?f=id$id=rules0-0-0-262-img$3.0$p=
 
-Each disposable container and wrapping or sealable separate section shall have marked thereon the name and address of the principal place of business of the manufacturer or distributor of the same and a code identifying the date and location of container manufacture. From and after the respective dates of the foregoing amendments, the approved logo for bags and retail packages of bags which meet the specifications set forth in § 17-02 or § 17-03 of the said Tripartite General Order No. 1 shall be as illustrated in Box A below, and the approved logo for disposable containers, wrappings and sealable separate sections which meet the specifications set forth in § 17-04 of the said Tripartite General Order No. 1 shall be as illustrated in Box B below.
+Each disposable container and wrapping or sealable separate section shall have marked thereon the name and address of the principal place of business of the manufacturer or distributor of the same and a code identifying the date and location of container manufacture. From and after the respective dates of the foregoing amendments, the approved logo for bags and retail packages of bags which meet the specifications set forth in 24 RCNY § 17-02 or 24 RCNY § 17-03 of the said Tripartite General Order No. 1 shall be as illustrated in Box A below, and the approved logo for disposable containers, wrappings and sealable separate sections which meet the specifications set forth in 24 RCNY § 17-04 of the said Tripartite General Order No. 1 shall be as illustrated in Box B below.
 
 
 
 
 
 
-*§ 17-05 Requirements for Employment of Bags and Containers Meeting Specifications Set Out in §§ 17-02, 17-03 and 17-04.* ::
+*§ 17-05 Requirements for Employment of Bags and Containers Meeting Specifications Set Out in 24 RCNY §§ 17-02, 17-03 and 17-04.* ::
 
 
 (a) Bags and containers which meet the specifications approved under this order:
@@ -3089,7 +3209,7 @@ Each disposable container and wrapping or sealable separate section shall have m
 
 (b) Containers which meet the specifications approved under this order shall not contain compacted refuse bound with non-combustible ties.
 
-(c) The Commissioners of the Department of Sanitation or Housing Preservation and Development or Health may conduct or order the manufacturer or distributor of any product displaying a logo as provided in § 17-04(f) to conduct in an independent testing laboratory selected by any such administrator or commissioner, such tests as are necessary to determine whether such product is in conformity with the provisions of this order. The expenses for all such tests shall be borne by the aforementioned manufacturer or distributor. Such Commissioner may require such appearance of any manufacturer, distributor, retailer or user of any product displaying a logo as provided in § 17-04(f) as are necessary to determine if a violation of any of the provisions of this order has occurred.
+(c) The Commissioners of the Department of Sanitation or Housing Preservation and Development or Health may conduct or order the manufacturer or distributor of any product displaying a logo as provided in 24 RCNY § 17-04(f) to conduct in an independent testing laboratory selected by any such administrator or commissioner, such tests as are necessary to determine whether such product is in conformity with the provisions of this order. The expenses for all such tests shall be borne by the aforementioned manufacturer or distributor. Such Commissioner may require such appearance of any manufacturer, distributor, retailer or user of any product displaying a logo as provided in 24 RCNY § 17-04(f) as are necessary to determine if a violation of any of the provisions of this order has occurred.
 
 
 
@@ -3185,15 +3305,15 @@ Chapter 18: Resuscitation Equipment In Public Places
 
 (b) When used in these regulations, the following words or terms shall have the following meaning:
 
-Department. "Department" shall mean the New York City Department of Health.
+   Department. "Department" shall mean the New York City Department of Health.
 
-Informational Handout. "Informational Handout" shall mean a menu, playbill, program, or other written material.
+   Informational Handout. "Informational Handout" shall mean a menu, playbill, program, or other written material.
 
-Package. "Package" shall mean the sealed manufacturer-provided packaging containing each exhaled air resuscitation mask required hereunder.
+   Package. "Package" shall mean the sealed manufacturer-provided packaging containing each exhaled air resuscitation mask required hereunder.
 
-Public Area. "Public Area" shall mean any area which can be easily identified by, and is readily accessible to, patrons. These areas may include but are not limited to the following: bar area, service counter area, host/hostess station, registration desk, concession stand.
+   Public Area. "Public Area" shall mean any area which can be easily identified by, and is readily accessible to, patrons. These areas may include but are not limited to the following: bar area, service counter area, host/hostess station, registration desk, concession stand.
 
-Suitable Location. "Suitable Location" shall mean any location where the resuscitation equipment is readily available to the public for use at all times.
+   Suitable Location. "Suitable Location" shall mean any location where the resuscitation equipment is readily available to the public for use at all times.
 
 
 
@@ -3298,7 +3418,7 @@ At least 45 days prior to the establishment of waiting lists notice of the Depar
 *§ 19-05 Procedure for Requesting a Place on Any of the Waiting Lists.* ::
 
 
-The Division of Permits shall use a mail-in procedure for establishing all waiting lists. Such procedure shall allow persons requesting a place on any of the six waiting lists to submit a waiting list application, which shall contain their license number and the type of permit they seek, by mail postmarked during a period of time to be determined by the Division of Permits, which shall be specified in the Notice published pursuant to § 19-04 of this chapter. A person's eligibility for inclusion on the waiting lists authorized to be created pursuant to these rules shall be limited. Persons shall be eligible for inclusion on the full-term waiting list, the temporary permit waiting list and one borough-specific full-term permit waiting list of the applicant's choice at any one time. Pursuant to § 17-307(b)(2)(c) a person shall be issued no more than one permit, whether full-term, borough-specific full-term, or temporary.
+The Division of Permits shall use a mail-in procedure for establishing all waiting lists. Such procedure shall allow persons requesting a place on any of the six waiting lists to submit a waiting list application, which shall contain their license number and the type of permit they seek, by mail postmarked during a period of time to be determined by the Division of Permits, which shall be specified in the Notice published pursuant to 24 RCNY § 19-04. A person's eligibility for inclusion on the waiting lists authorized to be created pursuant to these rules shall be limited. Persons shall be eligible for inclusion on the full-term waiting list, the temporary permit waiting list and one borough-specific full-term permit waiting list of the applicant's choice at any one time. Pursuant to § 17-307(b)(2)(c) a person shall be issued no more than one permit, whether full-term, borough-specific full-term, or temporary.
 
 
 
@@ -3308,7 +3428,7 @@ The Division of Permits shall use a mail-in procedure for establishing all waiti
 *§ 19-06 Procedure for Establishment of Permit Waiting Lists.* ::
 
 
-Not less than 45 days after the Notice required by § 19-04 is published in the City Record, the Department shall create a full-term permit waiting list, a temporary permit waiting list and four separate borough-specific full-term permit waiting lists pursuant to a random selection procedure. Persons holding valid mobile food vendor licenses, or in the case of a corporation, limited liability company or partnership, persons on whose behalf such licenses are held on the date such lists are created and who have mailed in an application pursuant to § 19-05 of these rules shall be included in this random selection. Persons who, as a result of this random selection procedure, hold position numbers greater than the maximum number specified in § 19-07 for the particular list shall not be placed on that waiting list. The Department shall notify persons assigned a position on a waiting list by mailing a notice to the address provided by the applicant in such applicant's waiting list application.
+Not less than 45 days after the Notice required by 24 RCNY § 19-04 is published in the City Record, the Department shall create a full-term permit waiting list, a temporary permit waiting list and four separate borough-specific full-term permit waiting lists pursuant to a random selection procedure. Persons holding valid mobile food vendor licenses, or in the case of a corporation, limited liability company or partnership, persons on whose behalf such licenses are held on the date such lists are created and who have mailed in an application pursuant to 24 RCNY § 19-05 shall be included in this random selection. Persons who, as a result of this random selection procedure, hold position numbers greater than the maximum number specified in 24 RCNY § 19-07 for the particular list shall not be placed on that waiting list. The Department shall notify persons assigned a position on a waiting list by mailing a notice to the address provided by the applicant in such applicant's waiting list application.
 
 
 
@@ -3318,7 +3438,7 @@ Not less than 45 days after the Notice required by § 19-04 is published in the 
 *§ 19-07 Number of Positions on the Waiting Lists.* ::
 
 
-The maximum number of positions on the full-term permit waiting list shall be determined by the Department's Permits Division so as to provide a reasonable number of potential applicants to fill vacancies as they arise, but in no event shall such list exceed two thousand five hundred (2,500) positions. The maximum number of positions on the temporary permit waiting list shall be determined by the Department's Permits Division so as to provide a reasonable number of potential applicants to fill vacancies as they arise, but in no event shall such waiting list exceed one thousand (1000) positions. When the number of potential applicants on either the full-term or temporary permit waiting lists falls below two hundred (200), the Permits Division shall supplement such waiting lists with additional names pursuant to the procedure specified in §§ 19-03 through 19-05 of these rules. The maximum number of positions on each of the four waiting lists for full-term permits to be used exclusively for vending in the specified boroughs of the Bronx, Brooklyn, Queens and Staten Island shall also be determined by the Department's Permits Division so as to provide a reasonable number of potential applicants to fill future vacancies as they arise. In no event shall any of these borough-specific permit waiting lists exceed one hundred (100) positions or four hundred (400) for all borough-specific list positions combined. When the number of potential applicants on any of the borough-specific permit waiting lists falls below twenty-five (25), the Permits Division shall seek to supplement such waiting list with additional names pursuant to the procedure specified in § 19-03 through § 19-05 of these rules.
+The maximum number of positions on the full-term permit waiting list shall be determined by the Department's Permits Division so as to provide a reasonable number of potential applicants to fill vacancies as they arise, but in no event shall such list exceed two thousand five hundred (2,500) positions. The maximum number of positions on the temporary permit waiting list shall be determined by the Department's Permits Division so as to provide a reasonable number of potential applicants to fill vacancies as they arise, but in no event shall such waiting list exceed one thousand (1000) positions. When the number of potential applicants on either the full-term or temporary permit waiting lists falls below two hundred (200), the Permits Division shall supplement such waiting lists with additional names pursuant to the procedure specified in 24 RCNY §§ 19-03 through 19-05. The maximum number of positions on each of the four waiting lists for full-term permits to be used exclusively for vending in the specified boroughs of the Bronx, Brooklyn, Queens and Staten Island shall also be determined by the Department's Permits Division so as to provide a reasonable number of potential applicants to fill future vacancies as they arise. In no event shall any of these borough-specific permit waiting lists exceed one hundred (100) positions or four hundred (400) for all borough-specific list positions combined. When the number of potential applicants on any of the borough-specific permit waiting lists falls below twenty-five (25), the Permits Division shall seek to supplement such waiting list with additional names pursuant to the procedure specified in 24 RCNY §§ 19-03 through 19-05.
 
 
 
@@ -3328,7 +3448,7 @@ The maximum number of positions on the full-term permit waiting list shall be de
 *§ 19-08 Responsibility of Those on Waiting Lists to Notify the Department of Change of Address.* ::
 
 
-The names of persons selected for a waiting list created pursuant to these rules shall be entered on each list with their address of record as known to the Department through mobile food vendor license records, in the case of a corporation, partnership or limited liability company, the address of such corporation, partnership or limited liability company and the residence and business address of the officer, partner, manager, or member holding a mobile food vendor license who is authorized to act on behalf of such corporation, partnership, or limited liability company shall be entered. Thereafter, it shall be the responsibility of each person placed on a waiting list to provide written notification to the Department of any change of address. The Department shall provide written confirmation of its receipt of such address change notification. The failure to provide change of address information may result in the loss of a person's waiting list position(s). Any person who does not respond to any notice of the Department mailed to his or her address of record as known to the Department through mobile food vendor license records because change of address information was not provided to the Department in a timely manner shall be deemed to have abandoned his or her place on a waiting list and shall not be reinstated to any list unless such person participates in a process of list establishment pursuant to §§ 19-03 through 19-06. The Department's written confirmation of its receipt of a change of address notification shall constitute proof that such notification was provided to the Department.
+The names of persons selected for a waiting list created pursuant to these rules shall be entered on each list with their address of record as known to the Department through mobile food vendor license records, in the case of a corporation, partnership or limited liability company, the address of such corporation, partnership or limited liability company and the residence and business address of the officer, partner, manager, or member holding a mobile food vendor license who is authorized to act on behalf of such corporation, partnership, or limited liability company shall be entered. Thereafter, it shall be the responsibility of each person placed on a waiting list to provide written notification to the Department of any change of address. The Department shall provide written confirmation of its receipt of such address change notification. The failure to provide change of address information may result in the loss of a person's waiting list position(s). Any person who does not respond to any notice of the Department mailed to his or her address of record as known to the Department through mobile food vendor license records because change of address information was not provided to the Department in a timely manner shall be deemed to have abandoned his or her place on a waiting list and shall not be reinstated to any list unless such person participates in a process of list establishment pursuant to 24 RCNY §§ 19-03 through 19-06. The Department's written confirmation of its receipt of a change of address notification shall constitute proof that such notification was provided to the Department.
 
 
 
@@ -3443,7 +3563,7 @@ Notice of the Department's establishment of a preference and/or waiting list, sh
 *§ 20-05 Procedure for Requesting a Place on a Preference and/or Waiting List.* ::
 
 
-The Division of Permits shall use a mail-in procedure for establishing preference and/or waiting lists. Such procedure shall allow persons requesting a place on a preference and/or waiting list to submit a preference and/or waiting list application. Each such application shall contain the applicant's license number and preference category. The application shall be submitted by mail, postmarked during a period of time to be determined by the Division of Permits as specified in the notice published pursuant to § 20-04 above.
+The Division of Permits shall use a mail-in procedure for establishing preference and/or waiting lists. Such procedure shall allow persons requesting a place on a preference and/or waiting list to submit a preference and/or waiting list application. Each such application shall contain the applicant's license number and preference category. The application shall be submitted by mail, postmarked during a period of time to be determined by the Division of Permits as specified in the notice published pursuant to 24 RCNY § 20-04 above.
 
 
 
@@ -3453,7 +3573,7 @@ The Division of Permits shall use a mail-in procedure for establishing preferenc
 *§ 20-06 Procedure for Establishment of Preference and/or Waiting List.* ::
 
 
-Not less than forty-five days after the Notice required by § 20-04 is published in the City Record, the Department shall create a preference and/or waiting list pursuant to a random selection procedure. Persons holding valid mobile food vendor licenses at least ten days prior to the date such preference and/or waiting list is created and who have mailed in an application pursuant to § 20-05 of these rules shall be included in the random selection. Persons who, as a result of this random selection procedure, hold position numbers greater than the maximum number specified in § 20-07 shall not be placed on the preference and/or waiting list. Each qualified applicant for a preference and/or waiting list position shall be eligible for one permit and one position on the preference and/or waiting list. The person's position on a preference and/or waiting list shall be determined by his or her preference category and the order in which his or her name is randomly selected within such preference category. The Department shall notify persons assigned a position on the preference and/or waiting list by mailing a notice to the address provided by the applicant in the applicant's preference and/or waiting list application.
+Not less than forty-five days after the Notice required by 24 RCNY § 20-04 is published in the City Record, the Department shall create a preference and/or waiting list pursuant to a random selection procedure. Persons holding valid mobile food vendor licenses at least ten days prior to the date such preference and/or waiting list is created and who have mailed in an application pursuant to 24 RCNY § 20-05 shall be included in the random selection. Persons who, as a result of this random selection procedure, hold position numbers greater than the maximum number specified in 24 RCNY § 20-07 shall not be placed on the preference and/or waiting list. Each qualified applicant for a preference and/or waiting list position shall be eligible for one permit and one position on the preference and/or waiting list. The person's position on a preference and/or waiting list shall be determined by his or her preference category and the order in which his or her name is randomly selected within such preference category. The Department shall notify persons assigned a position on the preference and/or waiting list by mailing a notice to the address provided by the applicant in the applicant's preference and/or waiting list application.
 
 
 
@@ -3463,7 +3583,7 @@ Not less than forty-five days after the Notice required by § 20-04 is published
 *§ 20-07 Number of Positions on a Preference and/or Waiting List.* ::
 
 
-The maximum number of positions on a preference and/or waiting list shall be determined by the Department's Permit Division so as to provide a reasonable number of potential applicants for the permits currently available as well as to fill future vacancies as they arise. In no event shall a preference and/or waiting list exceed one hundred (100) positions. After the initial issuance of the one hundred permits authorized by § 17-307(b)(3), the Permits Division may supplement a preference and/or waiting list with additional names pursuant to the procedures specified in § 20-04 through 20-06. Prior to supplementing a preference and/or waiting list by giving notice and an opportunity to apply for a waiting list position to a particular preference group, in accordance with the procedures outlined in § 20-04 through 20-06, the Permits Division shall first notify and solicit applications for a preference and/or waiting list from all persons known to the Department who are in all superior preference categories. Those in a superior preference category will be given priority over those in a lower preference category in the filling of any vacancy.
+The maximum number of positions on a preference and/or waiting list shall be determined by the Department's Permit Division so as to provide a reasonable number of potential applicants for the permits currently available as well as to fill future vacancies as they arise. In no event shall a preference and/or waiting list exceed one hundred (100) positions. After the initial issuance of the one hundred permits authorized by § 17-307(b)(3), the Permits Division may supplement a preference and/or waiting list with additional names pursuant to the procedures specified in 24 RCNY §§ 20-04 through 20-06. Prior to supplementing a preference and/or waiting list by giving notice and an opportunity to apply for a waiting list position to a particular preference group, in accordance with the procedures outlined in 24 RCNY §§ 20-04 through 20-06, the Permits Division shall first notify and solicit applications for a preference and/or waiting list from all persons known to the Department who are in all superior preference categories. Those in a superior preference category will be given priority over those in a lower preference category in the filling of any vacancy.
 
 
 
@@ -3473,7 +3593,7 @@ The maximum number of positions on a preference and/or waiting list shall be det
 *§ 20-08 Responsibility of Those on Preference and/or Waiting List to Notify the Department of Change of Address.* ::
 
 
-The names of persons selected for a position on a preference and/or waiting list created pursuant to these rules shall be entered on this list with their address of record as known to the Department through mobile food vendor license records. Thereafter, it shall be the responsibility of each person placed on a preference and/or waiting list to provide written notification to the Department of any change of address. The Department shall provide written confirmation of its receipt of such address change notification. The failure to provide change of address information or, when requested, proof of the Department's confirmation of receipt of such written notification, may result in the loss of a person's preference and/or waiting list position and such person's eligibility to apply for a mobile food unit permit issued pursuant to § 17-307(b)(3) of the Administrative Code. Such person shall be deemed to have abandoned his or her place on the preference and/or waiting list and will not be reinstated to the list unless such person participates in the process of list establishment pursuant to § 20-03 through 20-06. The Department's written confirmation of its receipt of a change of address notification shall constitute proof that such notification was provided to the Department.
+The names of persons selected for a position on a preference and/or waiting list created pursuant to these rules shall be entered on this list with their address of record as known to the Department through mobile food vendor license records. Thereafter, it shall be the responsibility of each person placed on a preference and/or waiting list to provide written notification to the Department of any change of address. The Department shall provide written confirmation of its receipt of such address change notification. The failure to provide change of address information or, when requested, proof of the Department's confirmation of receipt of such written notification, may result in the loss of a person's preference and/or waiting list position and such person's eligibility to apply for a mobile food unit permit issued pursuant to § 17-307(b)(3) of the Administrative Code. Such person shall be deemed to have abandoned his or her place on the preference and/or waiting list and will not be reinstated to the list unless such person participates in the process of list establishment pursuant to 24 RCNY §§ 20-03 through 20-06. The Department's written confirmation of its receipt of a change of address notification shall constitute proof that such notification was provided to the Department.
 
 
 
@@ -3493,7 +3613,7 @@ No more than one preference and/or waiting list position shall be granted to any
 *§ 20-10 Selection of Applicants From Preference and/or Waiting List.* ::
 
 
-When the number of permits outstanding falls below the statutory maximum of one-hundred (100) and at such time as the Department in its discretion may determine based upon a consideration of the number of vacancies, a number of persons on the preference and/or waiting list equal to the number of vacancies shall be notified by the Department, in preference and waiting list order, of their eligibility to apply for a full-term mobile food unit permit and shall form a pool of prospective applicants. Vacancies shall be filled from the highest preference category for which an applicant exists either on a waiting list or who may be identified as the result of the published notice specified in § 20-04.
+When the number of permits outstanding falls below the statutory maximum of one-hundred (100) and at such time as the Department in its discretion may determine based upon a consideration of the number of vacancies, a number of persons on the preference and/or waiting list equal to the number of vacancies shall be notified by the Department, in preference and waiting list order, of their eligibility to apply for a full-term mobile food unit permit and shall form a pool of prospective applicants. Vacancies shall be filled from the highest preference category for which an applicant exists either on a waiting list or who may be identified as the result of the published notice specified in 24 RCNY § 20-04.
 
 
 
@@ -3600,7 +3720,7 @@ This Chapter describes the courses offered by the Department of Health and Menta
 *§ 21-05 Tattooist infection control course and fee.* ::
 
 
-(a) In accordance with § 21-05 of Chapter 21 (Tattooists and Applying Tattoos) of these Rules, or successor rule, the Department's course in infection control practices for persons applying tattoos provides information about infection risks, and required infection control practices and techniques in applying tattoos. When the applicant passes the examination, the Department shall notify and provide a photograph of the applicant to the permit director and a license shall be issued to the applicant.
+(a) In accordance with 24 RCNY § 22-05, or successor rule, the Department's course in infection control practices for persons applying tattoos provides information about infection risks, and required infection control practices and techniques in applying tattoos. When the applicant passes the examination, the Department shall notify and provide a photograph of the applicant to the permit director and a license shall be issued to the applicant.
 
 (b) The fee payable to the Department for the tattooist infection control course and examination shall be twenty-six dollars ($26.00).
 
@@ -3799,7 +3919,7 @@ The fee for a temporary license issued pursuant to subchapter 7 of chapter 3 of 
 *§ 22-16 License Denial, Suspension or Revocation.* ::
 
 
-An application for a license or a license shall be subject to denial, suspension or revocation pursuant to the rules of the Department (24 R.C.N.Y. Ch. 7).
+An application for a license or a license shall be subject to denial, suspension or revocation pursuant to the rules of the Department (24 RCNY Chapter 7).
 
 
 
@@ -3870,11 +3990,11 @@ The Department shall when conducting a sanitary inspection assess points only fo
 *§ 23-03 Letter grading.* ::
 
 
-(a)  The Department, whenever practicable and subject to § 23-04, shall conduct an inspection cycle at least annually at each food service establishment required by 24 RCNY Health Code § 81.51 to post a letter grade for the purpose of issuing such establishment a grade that identifies and represents that establishment's compliance with those laws and regulations that require it to operate in a sanitary manner so as to protect public health. Based on the results of either the initial inspection or reinspection in a cycle, an establishment shall in accordance with these rules be issued a letter grade of either "A," "B," or "C" for that cycle, except that an establishment shall not receive any grade if the Department orders that it be closed.
+(a)  The Department, whenever practicable and subject to 24 RCNY § 23-04, shall conduct an inspection cycle at least annually at each food service establishment required by 24 RCNY Health Code § 81.51 to post a letter grade for the purpose of issuing such establishment a grade that identifies and represents that establishment's compliance with those laws and regulations that require it to operate in a sanitary manner so as to protect public health. Based on the results of either the initial inspection or reinspection in a cycle, an establishment shall in accordance with these rules be issued a letter grade of either "A," "B," or "C" for that cycle, except that an establishment shall not receive any grade if the Department orders that it be closed.
 
 (b) The Department shall issue a letter grade of "A" to any establishment that receives fewer than 14 points on either the initial inspection or reinspection in a cycle.
 
-(c) The Department shall not issue a letter grade to any establishment receiving 14 or more points on an initial inspection, but shall schedule a reinspection to occur no sooner than 7 days after the initial inspection. The Department shall on the reinspection issue a letter grade of "B" to any establishment receiving 14-27 points and a letter grade of "C" to any establishment receiving 28 or more points.
+(c) The Department shall not issue a letter grade to any establishment receiving 14 or more points on an initial inspection, but shall schedule a reinspection to occur no sooner than 7 days after the initial inspection. The Department shall on the reinspection issue a letter grade of "B" to any establishment receiving 14 - 27 points and a letter grade of "C" to any establishment receiving 28 or more points.
 
 (d) The Department in any cycle may, in addition to conducting an initial and any reinspection for the purpose of issuing an establishment a letter grade, also conduct a compliance inspection after any inspection that results in a score of 28 points or more. The score received on any compliance inspection shall not change an establishment's letter grade for that cycle.
 
@@ -4020,7 +4140,7 @@ Chapter 24: Automated External Defibrillators In Certain Public Places
 
    (7) On A Regular Basis. As used in § 17-188(a)(3)(iv) of the Code, refers to those senior centers offering services, including lunch, to senior citizens as least three days per week.
 
-   (8) Advanced Life Support. As used in § 17-188(j) of the Code and § 24-06, advanced life support must include, although is not limited to, the availability of manual defibrillation.
+   (8) Advanced Life Support. As used in § 17-188(j) of the Code and 24 RCNY § 24-06, advanced life support must include, although is not limited to, the availability of manual defibrillation.
 
 
 
@@ -4040,7 +4160,7 @@ Any automated external defibrillator required pursuant to § 17-188 of the Code 
 *§ 24-03 Quantity and Location of Automated External Defibrillators.* ::
 
 
-(a)  The owner or operator of a public place, as defined in § 17-188(a)(3) of the Code and limited by § 17-188(e), shall place at least one automated external defibrillator(s) in a prominent location in that public place. In those public places maintained by the Division of Facilities Management and Construction of the Department of Citywide Administrative Services, this placement shall be within a "publicly accessible area", as defined in § 24-01(b)(3).
+(a)  The owner or operator of a public place, as defined in § 17-188(a)(3) of the Code and limited by § 17-188(e), shall place at least one automated external defibrillator(s) in a prominent location in that public place. In those public places maintained by the Division of Facilities Management and Construction of the Department of Citywide Administrative Services, this placement shall be within a "publicly accessible area", as defined in 24 RCNY § 24-01(b)(3).
 
 (b) Automated external defibrillator(s) shall be located or placed so that this equipment can be obtained in a timely manner. For those buildings operated by the Division of Facilities Management and Construction of the Department of Citywide Administrative Services having publicly accessible areas located more than five (5) floors apart, no such publicly accessible area shall be more than five floors from where an automated external defibrillator is located.
 
@@ -4076,7 +4196,7 @@ Any automated external defibrillator required pursuant to § 17-188 of the Code 
 
 (e) Exception. The wall signs required by subsections (c) and (d) of this section shall not be required in nursing homes.
 
-(f) Signs in conformity with the requirements specified in § 24-03(b) and (c) shall be made available by the Department, at no cost to the owner or operator of a public place required to have an automated external defibrillator. An owner or operator shall use either the sign provided by the Department or its own sign provided that the sign used meets the requirements specified in this section.
+(f) Signs in conformity with the requirements specified in 24 RCNY § 24-03(b) and (c) shall be made available by the Department, at no cost to the owner or operator of a public place required to have an automated external defibrillator. An owner or operator shall use either the sign provided by the Department or its own sign provided that the sign used meets the requirements specified in this section.
 
 (g) All automated external defibrillators shall be stored with clear concise written or pictorial instructions for their use.
 
@@ -4100,7 +4220,7 @@ Any automated external defibrillator required pursuant to § 17-188 of the Code 
 
    (4) The party responsible for verifying that the automated external defibrillator(s) is in operable condition and for ensuring that the equipment is maintained in conformity with the manufacturer's recommendations.
 
-   (5) The placement and exact location of the signs required by § 24-04(a), (b) and (c) along with the information on how to contact the site's trained responder(s).
+   (5) The placement and exact location of the signs required by 24 RCNY § 24-04(a), (b) and (c) along with the information on how to contact the site's trained responder(s).
 
    (6) Instructions on how to identify an on-site medical emergency and a listing of procedures to be followed to notify trained responders of the existence of that emergency.
 
@@ -4114,7 +4234,7 @@ Any automated external defibrillator required pursuant to § 17-188 of the Code 
 
    (11) Instructions on how to document each use of an automated external defibrillator and immediately report such usage in accordance with Public Health Law § 3000-b.
 
-(c) The number of trained responders in each public place shall be commensurate with the size and configuration of the facility to permit rapid response during regular business hours. The number of trained responders in nursing homes required to make on-site automated external defibrillators available pursuant to § 17-188(b) of the Code shall be as specified in § 24-06.
+(c) The number of trained responders in each public place shall be commensurate with the size and configuration of the facility to permit rapid response during regular business hours. The number of trained responders in nursing homes required to make on-site automated external defibrillators available pursuant to § 17-188(b) of the Code shall be as specified in 24 RCNY § 24-06.
 
 
 
@@ -4124,9 +4244,9 @@ Any automated external defibrillator required pursuant to § 17-188 of the Code 
 *§ 24-06 Nursing Homes.* ::
 
 
-(a)  Nursing homes not making available advanced life support, as that term is defined in § 24-01(b)(8), by a physician, registered nurse or emergency medical technician present on-site twenty-four hours a day, seven days a week or not making available automated external defibrillators to be used by a trained physician, registered nurse or emergency medical technician present on-site twenty-four hours a day, seven days a week, shall provide on-site automated external defibrillators, as required by § 17-188(b) of the Code in the number specified in § 24-03(a). Such nursing homes must acquire, possess and operate their automated external defibrillators in accordance with the requirements of § 3000-b of the Public Health Law, as specified in § 24-02.
+(a)  Nursing homes not making available advanced life support, as that term is defined in 24 RCNY § 24-01(b)(8), by a physician, registered nurse or emergency medical technician present on-site twenty-four hours a day, seven days a week or not making available automated external defibrillators to be used by a trained physician, registered nurse or emergency medical technician present on-site twenty-four hours a day, seven days a week, shall provide on-site automated external defibrillators, as required by § 17-188(b) of the Code in the number specified in 24 RCNY § 24-03(a). Such nursing homes must acquire, possess and operate their automated external defibrillators in accordance with the requirements of § 3000-b of the Public Health Law, as specified in § 24-02.
 
-(b) A minimum of two trained responders, as defined in § 24-01(b)(6), shall be present at all times in those nursing homes required to make automated external defibrillators available.
+(b) A minimum of two trained responders, as defined in 24 RCNY § 24-01(b)(6), shall be present at all times in those nursing homes required to make automated external defibrillators available.
 
 
 
@@ -4244,7 +4364,7 @@ Notice of the Department's intention to establish fresh fruits and vegetables bo
 *§ 26-06 Procedure for Requesting a Place on Waiting Lists.* ::
 
 
-(a)  The Division of Permits shall use a mail-in procedure for establishing all waiting lists. Such procedure shall allow persons requesting placement on one or more of the five waiting lists established pursuant to this Chapter to submit a Department-issued waiting list application form, which shall contain their license number, their preference category, if applicable, and their choice(s) of borough specific fresh fruits and vegetables permit(s) they seek, by mail postmarked during a period of time to be determined by the Department, as specified in the Notice published pursuant to § 26-05 of this Chapter.
+(a)  The Division of Permits shall use a mail-in procedure for establishing all waiting lists. Such procedure shall allow persons requesting placement on one or more of the five waiting lists established pursuant to this Chapter to submit a Department-issued waiting list application form, which shall contain their license number, their preference category, if applicable, and their choice(s) of borough specific fresh fruits and vegetables permit(s) they seek, by mail postmarked during a period of time to be determined by the Department, as specified in the Notice published pursuant to 24 RCNY § 26-05.
 
 (b) The Notice shall advise those persons requesting placement on one or more of these five borough specific waiting list(s) to rank the waiting list(s) they select by order of borough choice. Applicants shall be directed to apply only for waiting list(s) for boroughs in which they would be willing to vend should they obtain such borough specific permit.
 
@@ -4258,7 +4378,7 @@ Notice of the Department's intention to establish fresh fruits and vegetables bo
 *§ 26-07 Procedure for Establishment of Borough Specific Fresh Fruits and Vegetables Waiting Lists.* ::
 
 
-Not less than fourteen days after the Notice required by § 26-05 is published in the City Record, the Department shall create five separate borough specific full-term fresh fruits and vegetables waiting lists. Applicants holding valid mobile food vendor licenses at least ten (10) days prior to the Department's establishment of the fresh fruits and vegetables borough specific waiting lists created pursuant to this Chapter shall be included in the selection process, subject to the preferences and weighted values described in § 26-03 of this Chapter. Each applicant eligible for a position on any of these borough specific fresh fruits and vegetables waiting lists shall be able to obtain only one waiting list position per list. An applicant's position on a fresh fruits and vegetables borough specific waiting list shall be determined by his or her preference category, including the additional preferences within the category specified in § 17-307(b)(4)(e)(i) of the Administrative Code. Within each preference category, including the additional preferences within the category specified in § 17-307(b)(4)(e)(i) of the Administrative Code, those applicants specifying a borough as a preferred choice in which to operate shall be given preference on that borough's waiting list over those identifying that borough as a lesser choice. For each borough specific waiting list, applicants in identical preference categories, including the additional preferences within the category specified in § 17-307(b)(4)(e)(i) of the Administrative Code, who rank the applicable borough equally shall be placed on such borough specific waiting list in random order. The Department shall notify persons assigned a position on any of these waiting lists by mailing a notice to the address provided by the applicant on the applicant's waiting list application form.
+Not less than fourteen days after the Notice required by 24 RCNY § 26-05 is published in the City Record, the Department shall create five separate borough specific full-term fresh fruits and vegetables waiting lists. Applicants holding valid mobile food vendor licenses at least ten (10) days prior to the Department's establishment of the fresh fruits and vegetables borough specific waiting lists created pursuant to this Chapter shall be included in the selection process, subject to the preferences and weighted values described in 24 RCNY § 26-03. Each applicant eligible for a position on any of these borough specific fresh fruits and vegetables waiting lists shall be able to obtain only one waiting list position per list. An applicant's position on a fresh fruits and vegetables borough specific waiting list shall be determined by his or her preference category, including the additional preferences within the category specified in § 17-307(b)(4)(e)(i) of the Administrative Code. Within each preference category, including the additional preferences within the category specified in § 17-307(b)(4)(e)(i) of the Administrative Code, those applicants specifying a borough as a preferred choice in which to operate shall be given preference on that borough's waiting list over those identifying that borough as a lesser choice. For each borough specific waiting list, applicants in identical preference categories, including the additional preferences within the category specified in § 17-307(b)(4)(e)(i) of the Administrative Code, who rank the applicable borough equally shall be placed on such borough specific waiting list in random order. The Department shall notify persons assigned a position on any of these waiting lists by mailing a notice to the address provided by the applicant on the applicant's waiting list application form.
 
 
 
@@ -4268,7 +4388,7 @@ Not less than fourteen days after the Notice required by § 26-05 is published i
 *§ 26-08 Number of Positions on the Waiting Lists.* ::
 
 
-The Department shall not impose a pre-set limit or maximum on the number of waiting list positions on each of the five borough specific fresh fruits and vegetables waiting lists. Those applicants eligible for a waiting list position on any of the five borough specific waiting lists during the permit waiting list application period set by the Department shall be included on the waiting lists for which they applied. When it deems it necessary, the Department in its discretion may seek to supplement any specific borough waiting list or all waiting lists with additional names, pursuant to the procedure specified in §§ 26-03 through 26-07 of this Chapter, except that § 26-06(b) shall not apply.
+The Department shall not impose a pre-set limit or maximum on the number of waiting list positions on each of the five borough specific fresh fruits and vegetables waiting lists. Those applicants eligible for a waiting list position on any of the five borough specific waiting lists during the permit waiting list application period set by the Department shall be included on the waiting lists for which they applied. When it deems it necessary, the Department in its discretion may seek to supplement any specific borough waiting list or all waiting lists with additional names, pursuant to the procedure specified in 24 RCNY §§ 26-03 through 26-07, except that 24 RCNY § 26-06(b) shall not apply.
 
 
 
@@ -4280,7 +4400,7 @@ The Department shall not impose a pre-set limit or maximum on the number of wait
 
 (a)  The names of persons selected for a waiting list created pursuant to this rule shall be entered on each list for which they apply with their address of record as known to the Department through mobile food vendor license records, or with any updated address provided to the Department on the waiting list application form. Thereafter, it shall be the responsibility of each person placed on a waiting list to provide written notification to the Department of any change of address. The Department shall provide written confirmation of its receipt of such address change notification. The Department's written confirmation of its receipt of a change of address notification shall constitute proof that such notification was provided to the Department.
 
-(b) Failure to provide change of address information or, when requested, proof of the Department's confirmation of receipt of such written notification, may result in the loss of a person's waiting list position(s) and such person's eligibility to apply for a fresh fruits and vegetables permit pursuant to § 17-307(b)(4) of the Administrative Code. Such person shall be deemed to have abandoned his or her place(s) on any of these borough specific fresh fruits and vegetables waiting list(s) and shall not be eligible for a fresh fruits and vegetables permit unless such person participates in the process of list establishment pursuant to §§ 26-03 through 26-07 of this Chapter, except that § 26-06(b) shall not apply.
+(b) Failure to provide change of address information or, when requested, proof of the Department's confirmation of receipt of such written notification, may result in the loss of a person's waiting list position(s) and such person's eligibility to apply for a fresh fruits and vegetables permit pursuant to § 17-307(b)(4) of the Administrative Code. Such person shall be deemed to have abandoned his or her place(s) on any of these borough specific fresh fruits and vegetables waiting list(s) and shall not be eligible for a fresh fruits and vegetables permit unless such person participates in the process of list establishment pursuant to 24 RCNY §§ 26-03 through 26-07, except that 24 RCNY § 26-06(b) shall not apply.
 
 
 
@@ -4290,7 +4410,7 @@ The Department shall not impose a pre-set limit or maximum on the number of wait
 *§ 26-10 Multiple Requests for Waiting List Position on any One Borough Specific Fruits and Vegetables Waiting List Prohibited.* ::
 
 
-An applicant may apply for and obtain no more than one waiting list position on each of the borough specific waiting lists established pursuant to this Chapter and shall be eligible to obtain and possess only one permit. Before the creation of the borough specific fresh fruits and vegetables waiting lists, the Department shall attempt to ascertain that a mobile food vendor licensee is represented only once in the pool of licensees from which the selection is to be made in producing each of the five borough specific fresh fruits and vegetables lists pursuant to § 26-07. Should the Department receive more than one request for a waiting list position on any one borough list from any person, requests subsequent to the first shall be deemed invalid. A person who submits more than one request for a position on any one borough specific fresh fruits and vegetables waiting list created pursuant to these rules may be disqualified and denied a position on that borough specific fresh fruits and vegetables waiting list if such multiple requests are deemed, in the sole discretion of the Department, to adversely affect the fairness or orderly establishment of that specific borough list.
+An applicant may apply for and obtain no more than one waiting list position on each of the borough specific waiting lists established pursuant to this Chapter and shall be eligible to obtain and possess only one permit. Before the creation of the borough specific fresh fruits and vegetables waiting lists, the Department shall attempt to ascertain that a mobile food vendor licensee is represented only once in the pool of licensees from which the selection is to be made in producing each of the five borough specific fresh fruits and vegetables lists pursuant to 24 RCNY § 26-07. Should the Department receive more than one request for a waiting list position on any one borough list from any person, requests subsequent to the first shall be deemed invalid. A person who submits more than one request for a position on any one borough specific fresh fruits and vegetables waiting list created pursuant to these rules may be disqualified and denied a position on that borough specific fresh fruits and vegetables waiting list if such multiple requests are deemed, in the sole discretion of the Department, to adversely affect the fairness or orderly establishment of that specific borough list.
 
 
 
@@ -4462,7 +4582,7 @@ Chapter 28: Restriction On the Sale of Certain Flavored Tobacco Products
 *§ 28-01 Definitions and Construction of Words and Terms.* ::
 
 
-(a)  Act. "Act" shall mean the Regulation of the Sale of Herbal Cigarettes and Flavored Tobacco Products, as provided in Chapter 7, Title 17 of the New York City Administrative Code ("the Administrative Code"), as amended by Local Law 69 of 2009.
+(a) Act. "Act" shall mean the Regulation of the Sale of Herbal Cigarettes and Flavored Tobacco Products, as provided in Chapter 7, Title 17 of the New York City Administrative Code ("the Administrative Code"), as amended by Local Law 69 of 2009.
 
 (b) Aroma. "Aroma" shall mean a quality that can be perceived by the sense of smell.
 
@@ -4538,13 +4658,13 @@ Chapter 28: Restriction On the Sale of Certain Flavored Tobacco Products
 
    (1) If the Department determines that a tobacco product has or imparts a characterizing flavor, it shall in writing notify the tobacco product's manufacturer of such determination and of its intent to include the product on the Restricted Flavored Tobacco Product List. The Department's notification shall include: (i) a description of the testing protocol used to determine whether the tobacco product has a characterizing flavor within the meaning of the Act; (ii) the identity of the entity that tested the product to determine if it has or produces a characterizing flavor; and (iii) any findings of fact developed by the testing entity.
 
-   (2) A manufacturer may within sixty (60) days of service of the notification described in § 28-04(b)(1) of these rules object to the inclusion of its product on the Restricted Flavored Tobacco Product List. An objection shall be in writing, and shall include all information and evidence a manufacturer deems relevant to a determination of whether the tobacco product has or imparts a characterizing flavor. Manufacturers that fail to submit an objection within sixty (60) days of service of the notification described in § 28-04(b)(1) of these rules shall be deemed to have waived their right to do so and the Department may immediately commence rule making to add the tobacco product(s) to the Restricted Flavored Tobacco Product List.
+   (2) A manufacturer may within sixty (60) days of service of the notification described in 24 RCNY § 28-04(b)(1) object to the inclusion of its product on the Restricted Flavored Tobacco Product List. An objection shall be in writing, and shall include all information and evidence a manufacturer deems relevant to a determination of whether the tobacco product has or imparts a characterizing flavor. Manufacturers that fail to submit an objection within sixty (60) days of service of the notification described in 24 RCNY § 28-04(b)(1) shall be deemed to have waived their right to do so and the Department may immediately commence rule making to add the tobacco product(s) to the Restricted Flavored Tobacco Product List.
 
-   (3) Upon notice by a manufacturer that the Department intends to include a tobacco product on the Restricted Flavored Tobacco Product List, any third party may submit to the Department information relevant to a determination of whether the tobacco product has or imparts a characterizing flavor. Such submissions shall be subject to the deadlines set forth in § 28-04(a)(2) of these rules.
+   (3) Upon notice by a manufacturer that the Department intends to include a tobacco product on the Restricted Flavored Tobacco Product List, any third party may submit to the Department information relevant to a determination of whether the tobacco product has or imparts a characterizing flavor. Such submissions shall be subject to the deadlines set forth in 24 RCNY § 28-04(a)(2).
 
-   (4) Subject to the provisions of the Freedom of Information Law, N.Y. Pub. Off. Law § 87, a manufacturer or other party may request that any information it submits to the Department pursuant to § 28-04(b)(2) or § 28-04(b)(3) of these rules be designated as exempt from disclosure because it includes trade secrets, or for any other applicable reason set forth in the Freedom of Information Law. Any portion of a submission for which a privilege is asserted shall be treated as confidential until such times as a request is made for that information. If a request is made for information under the Freedom of Information Law and such information is designated as confidential pursuant to such law, the Department shall promptly notify the entity that submitted the information of the request.
+   (4) Subject to the provisions of the Freedom of Information Law, N.Y. Pub. Off. Law § 87, a manufacturer or other party may request that any information it submits to the Department pursuant to 24 RCNY § 28-04(b)(2) or (b)(3) be designated as exempt from disclosure because it includes trade secrets, or for any other applicable reason set forth in the Freedom of Information Law. Any portion of a submission for which a privilege is asserted shall be treated as confidential until such times as a request is made for that information. If a request is made for information under the Freedom of Information Law and such information is designated as confidential pursuant to such law, the Department shall promptly notify the entity that submitted the information of the request.
 
-   (5) Within sixty (60) days of receipt of a manufacturer's submission pursuant to § 28-04(b)(2) or 28-04(b)(3) of these rules, the Department shall either grant or deny the manufacturer's objection making findings of fact in support of its determination. If the Department denies the objection, it shall commence rule making to add the product(s)  to the Restricted Flavored Tobacco Product List.
+   (5) Within sixty (60) days of receipt of a manufacturer's submission pursuant to 24 RCNY § 28-04(b)(2) or (b)(3), the Department shall either grant or deny the manufacturer's objection making findings of fact in support of its determination. If the Department denies the objection, it shall commence rule making to add the product(s)  to the Restricted Flavored Tobacco Product List.
 
 
 
@@ -4585,7 +4705,12 @@ If any provision of this Chapter is adjudged invalid by any court of competent j
 
 
 
-Chapter 29: Animal Population Control Program Section 29-01
+
+
+
+**Appendix A: Restricted Flavored Tobacco Products List [Reserved]**
+
+Chapter 29: Animal Population Control Program
 --------------------------------------------------
 
 
@@ -4630,7 +4755,7 @@ Spay/neuter services. Spay/neuter services shall mean services provided by a vet
 
 
 
-Chapter 30: Volatile Organic Compounds In Carpet and Carpet Cushion Section 30-01
+Chapter 30: Volatile Organic Compounds In Carpet and Carpet Cushion
 --------------------------------------------------
 
 
@@ -4660,7 +4785,7 @@ When used in this Chapter, terms that are defined in Administrative Code § 17-1
 
 Labels and documentation must be maintained by carpet businesses.
 
-(a) Documentation required. Carpet businesses must obtain documentation from the manufacturer of any carpet or carpet cushion sold, offered for sale, or installed in New York City showing that it complies with the volatile organic compound (VOC) emissions limits in Administrative Code § l7-1404 or has Green Label or Green Label Plus certification. The documentation must also include: (i) the name and address of the manufacturer; (ii) the brand name; (iii) style name or number; and (iv) the model name or number for the carpet or carpet cushion, as well as product information provided by the manufacturer in any form to show compliance. Green Label or Green Label Plus product information may consist of, but not be limited to, labels from rolls of carpet cushion and carpet products; roll bags or wrappers, sample bags or boards, displays, brochures, product literature, bulletins, specification sheets, corporate website printouts, print ads, stationery. Information for products with no Green Label or Green Label Plus certification must include results of testing samples using ASTM standard D5116-10 showing compliance with Tables 1 and 2 of Chapter 14 of Title 17 of the Administrative Code.
+(a) Documentation required. Carpet businesses must obtain documentation from the manufacturer of any carpet or carpet cushion sold, offered for sale, or installed in New York City showing that it complies with the volatile organic compound (VOC) emissions limits in Administrative Code § 17-1404 or has Green Label or Green Label Plus certification. The documentation must also include: (i) the name and address of the manufacturer; (ii) the brand name; (iii) style name or number; and (iv) the model name or number for the carpet or carpet cushion, as well as product information provided by the manufacturer in any form to show compliance. Green Label or Green Label Plus product information may consist of, but not be limited to, labels from rolls of carpet cushion and carpet products; roll bags or wrappers, sample bags or boards, displays, brochures, product literature, bulletins, specification sheets, corporate website printouts, print ads, stationery. Information for products with no Green Label or Green Label Plus certification must include results of testing samples using ASTM standard D5116-10 showing compliance with Tables 1 and 2 of Chapter 14 of Title 17 of the Administrative Code.
 
 (b) Documentation to be kept for six months. A carpet business must keep the manufacturer's documentation required in subdivision (a) above for at least six months after sale or installation of carpet or carpet cushion.
 
@@ -4678,7 +4803,7 @@ Labels and documentation must be maintained by carpet businesses.
 
 (a) Form of notice.
 
-   (1) New York City sales. In New York City, the notice required by Administrative Code § 17-1407 must be posted conspicuously at the point of sale where carpet or carpet cushion is sold or offered for sale. When posted at the point of sale, the sign must be at least 8-1/2" by 14" in size with letters at least one-half inch high.
+   (1) New York City sales. In New York City, the notice required by Administrative Code § 17-1407 must be posted conspicuously at the point of sale where carpet or carpet cushion is sold or offered for sale. When posted at the point of sale, the sign must be at least 8 1/2" by 14" in size with letters at least one-half inch high.
 
    (2) Sales outside New York City. If carpet or carpet cushion is purchased outside New York City for installation in New York City, instead of posting, a paper copy of the notice must be given to the consumer by the installer prior to installation.
 
@@ -4741,78 +4866,13 @@ As required by § 17-194 of the Administrative Code and 24 RCNY Health Code § 1
 
 Owners or operators of buildings with drinking water tanks or other persons found to be in violation of any of the following provisions of law by a hearing officer at the Office of Administrative Trials and Hearings or successor tribunal must pay the penalties set forth in Appendix 31-A of this Chapter for each such violation sustained with respect to each building drinking water tank for each year to which such violation pertains.
 
-APPENDIX 31-ABUILDING DRINKING WATER TANK PENALTIES 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - Citation
-      - Violation Description
-      - Penalty
-      - Default
-    * - 24 RCNY § 31-02(a)
-      - Failure to submit report of previous year's inspection results by January 15
-      - $250
-      - $500
-    * - Admin. Code § 17-194(b)
-      - Failure to maintain records of inspections for one of the preceding five years
-      - $250
-      - $500
-    * - Admin. Code § 17-194(c)
-      - Failure to post notice of availability of inspection reports
-      - $250
-      - $250
-    * - NYCHC 141.07(b)
-      - Failure to inspect drinking water tank, including testing water for bacteriological content.
-      - $500
-      - $1000
-    * - NYCHC 141.07(c)
-      - Failure to provide results of drinking water tank inspection within five business days after receipt of Department's request
-      - $250
-      - $500
-    * - NYCHC 141.07(e)
-      - Failure to correct unsanitary condition of drinking water tank
-      - $500
-      - $1000
-    * - NYCHC 141.07(e)
-      - Failure to report to Department noncompliant bacteriology sample of water from drinking water tank within 24 hours
-      - $500
-      - $1000
-    * - NYCHC 141.07(e)
-      - Failure to clean drinking water tank when required
-      - $500
-      - $1000
-    * - NYCHC 141.09(b)
-      - Drinking water tank cleaned, painted and/or coated by an unqualified person or entity
-      - $500
-      - $1000
-    * - NYCHC 141.09(c)
-      - Failure to clean, paint or coat water tank in accordance with applicable law or industry standards
-      - $500
-      - $1000
-    * - NYCHC 141.09(d)
-      - Failure to disinfect water tank in accordance with applicable law or industry standards
-      - $500
-      - $1000
-    * - NYCHC 141.09(e)
-      - Failure to collect water sample following painting or treating of tank interior
-      - $500
-      - $1000
-    * - NYCHC 141.09(f)
-      - Failure to maintain or provide records of water tank work
-      - $250
-      - $500
-~
-
- 
 
 
 
 
 
+
+**APPENDIX 31-A BUILDING DRINKING WATER TANK PENALTIES [ALP S-002]**
 
 Chapter 32: Dogs in Outdoor Dining Areas
 --------------------------------------------------
@@ -4858,9 +4918,9 @@ When used in this Chapter, the following terms have the following meanings:
 
    (2) Injury reports. A permittee must report to the Department any bite or other injury to a person caused by a dog within 24 hours of the injury. The report must be submitted to "311" by telephone or electronically. The report must include the name, address and phone number of the dog's owner, the dog's license number, and the name, address and phone number of the person bitten. Permittees must call "911" immediately following an injury to a person when the owner of a dog that bites or causes other injury refuses to provide the owner's contact information.
 
-   (3) Access limited to outdoor dining areas. Dogs other than service dogs are not allowed in any area of a food service establishment that is not an outdoor dining area as defined in § 32-01 of this Chapter.
+   (3) Access limited to outdoor dining areas. Dogs other than service dogs are not allowed in any area of a food service establishment that is not an outdoor dining area as defined in 24 RCNY § 32-01.
 
-   (4) Aisle space. Dogs may not obstruct the 36-inch aisle space between tables in unenclosed sidewalk cafés, as required by 10 RCNY § 2-55(a), or successor provision.
+   (4) Aisle space. Dogs may not obstruct the 36-inch aisle space between tables in unenclosed sidewalk cafés, as required by 6 RCNY § 2-55(a), or successor provision.
 
 
 

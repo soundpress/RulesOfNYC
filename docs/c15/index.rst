@@ -29,17 +29,17 @@ Cost of acquisition. The term "cost of acquisition" shall mean the sum of
 
    (2) the net cost of satisfying the bona fide mortgages, liens (including real estate taxes due and owing to the City of New York) and other encumbrances on the property. The cost of acquisition shall in no event exceed the appraised value of the property prior to rehabilitation.
 
-Development cost. The term "development cost" shall comprehend those items included under such heading in § 1-05 (Allowable Rehabilitation and Improvement Cost) of these Rules and Regulations.
+Development cost. The term "development cost" shall comprehend those items included under such heading in 28 RCNY § 1-05 (Allowable Rehabilitation and Improvement Cost).
 
 Maximum mortgage amount. The term "maximum mortgage amount" shall mean the lesser of the following:
 
-   (1) An amount which, together with all prior liens permitted under § 1-08(c) of this chapter, shall not exceed 90 percent of the value of the property after completion of rehabilitation;
+   (1) An amount which, together with all prior liens permitted under 28 RCNY § 1-08(c), shall not exceed 90 percent of the value of the property after completion of rehabilitation;
 
    (2) Where the property is owned free and clear and was acquired more than one year before submission of the loan application, development cost;
 
    (3) Where the property was acquired more than one year before submission of the loan application and is encumbered, an amount necessary to satisfy such encumbrances (not to exceed the appraised value of the property prior to rehabilitation) plus development cost, provided that the loan shall not exceed two times the development cost;
 
-   (4) Where the property is to be acquired or was acquired less than one year before submission of the loan application, the cost of acquisition plus development cost. Persons or families of low income. The term "persons or families of low income" shall mean and include, pursuant to § 401 subdivision 3 of Article VIII of the Private Housing Finance Law, owner-occupants, persons and families in occupancy immediately prior to the date the loan is granted, and persons or families whose probable aggregate annual income during the period of occupancy does not exceed six times the rental (including the value or cost to them of heat, light, water and cooking fuel) of the apartment occupied by such persons or families except in the case of persons or families with three or more dependents, where such ratio shall not exceed seven to one, as this definition may be further expanded or limited by § 1-12 (Management Supervisory Requirements) of this chapter.
+   (4) Where the property is to be acquired or was acquired less than one year before submission of the loan application, the cost of acquisition plus development cost. Persons or families of low income. The term "persons or families of low income" shall mean and include, pursuant to § 401 subdivision 3 of Article VIII of the Private Housing Finance Law, owner-occupants, persons and families in occupancy immediately prior to the date the loan is granted, and persons or families whose probable aggregate annual income during the period of occupancy does not exceed six times the rental (including the value or cost to them of heat, light, water and cooking fuel) of the apartment occupied by such persons or families except in the case of persons or families with three or more dependents, where such ratio shall not exceed seven to one, as this definition may be further expanded or limited by 28 RCNY § 1-12 (Management Supervisory Requirements).
 
 Value of the property after completion of rehabilitation. The term "value of the property after completion of rehabilitation" shall mean appraised value prior to rehabilitation plus development cost, provided that the estimated revenues, including any subsidies, will be sufficient to support the estimated debt service and operating expenses.
 
@@ -53,9 +53,9 @@ Value of the property after completion of rehabilitation. The term "value of the
 
 (a) Applicants for loans and any prior lienors must covenant in writing, that so long as any part of such loan remains unpaid, or any tax exemption-tax abatement granted as a result of the installations, alterations, improvements or rehabilitation remains in effect, or for a period of at least ten years from the occupancy date, whichever is the later, the following conditions will govern:
 
-   (1) Apartments in such multiple dwelling shall be available solely for persons or families of low income as herein defined and as set forth below in subdivision (c) and in § 1-12 (Management Supervisory Requirements) of this chapter.
+   (1) Apartments in such multiple dwelling shall be available solely for persons or families of low income as herein defined and as set forth below in subdivision (c) and in 28 RCNY § 1-12 (Management Supervisory Requirements).
 
-   (2) Apartments shall be available strictly in the order of priority set forth in § l-12(d) of this chapter.
+   (2) Apartments shall be available strictly in the order of priority set forth in 28 RCNY § 1-12(d).
 
    (3) No charge or rental for apartments in such multiple dwelling shall be made or charged in excess of the maximum rentals prescribed by the Department of Housing Preservation and Development in accordance with the New York City Rent and Rehabilitation Law and the regulations promulgated thereunder.
 
@@ -65,7 +65,7 @@ Value of the property after completion of rehabilitation. The term "value of the
 
    (6) Any persons owning, operating or managing such multiple dwelling shall permit the authorized officers, employees, agents or inspectors of the Agency to enter in or upon the mortgaged premises and inspect same at all reasonable hours.
 
-   (7) The Agency, its officers, employees, agents or inspectors shall have full power to investigate and order the owner of said multiple dwelling or his agents to furnish such reports and information as it may require concerning the planning and construction of the installation, rehabilitation or improvement and the management of said multiple dwelling and shall also have full power to audit the books and records of such owner with respect to such matters. Owners of buildings rehabilitated under this program must submit reports as specified in § 1-12 (Management Supervisory Requirements) of this chapter.
+   (7) The Agency, its officers, employees, agents or inspectors shall have full power to investigate and order the owner of said multiple dwelling or his agents to furnish such reports and information as it may require concerning the planning and construction of the installation, rehabilitation or improvement and the management of said multiple dwelling and shall also have full power to audit the books and records of such owner with respect to such matters. Owners of buildings rehabilitated under this program must submit reports as specified in 28 RCNY § 1-12 (Management Supervisory Requirements).
 
    (8) The foregoing covenants shall run with the land.
 
@@ -119,13 +119,13 @@ Loans may, at the discretion of the Agency, include the following items of cost 
 
    (3) Architectural and legal fees and contractor's overhead and profit as set forth in the schedules herein, and reasonable fees for accounting and appraisals.
 
-   (4) The cost of a "Payment and Performance Bond" or an amount in lieu thereof, as provided in § 1-09 (Fee Requirements) of this chapter.
+   (4) The cost of a "Payment and Performance Bond" or an amount in lieu thereof, as provided in 28 RCNY § 1-09 (Fee Requirements).
 
    (5) Real estate taxes, assessments, frontage and meter charges and sewer rents accruing during the period of construction, commencing on the date of execution of the loan, where income is inadequate during the period of construction to pay such costs.
 
    (6) Monthly interest on the amounts advanced under the loan during the period of construction.
 
-   (7) A supervision fee as provided in § 1-09 of this chapter.
+   (7) A supervision fee as provided in 28 RCNY § 1-09.
 
    (8) Fees due and payable to an approved title company for the title insurance policy, recording of loan documents and mortgage recording taxes.
 
@@ -171,7 +171,7 @@ Applicants who receive approval after review of the preliminary site submission 
 
 (i) Applicant must file a detailed plan for the management of the building during the period of alteration, improvement or rehabilitation when tenants remain in occupancy and after such work is completed. The plan should detail his experience in management of residential property, plans for tenant involvement in the upkeep and maintenance of the building and for community group involvement, if any.
 
-(j) A filing fee shall be paid as provided in § 1-09.
+(j) A filing fee shall be paid as provided in 28 RCNY § 1-09.
 
 (k) Investigatory reports required by the Agency shall be charged to the applicant.
 
@@ -187,9 +187,9 @@ Applicants who receive approval after review of the preliminary site submission 
 
 The applicant is required to submit to the Agency, for its approval in a form satisfactory to the Agency including but not limited to, an endorsement that fifteen days prior notice by registered mail, return receipt requested, of cancellation shall be given to the City of New York as the Agency shall prescribe, the following evidence of insurance prior to loan closing or commencement of construction or installation, whichever is first: (a) An original policy of fire insurance with extended coverage, for a term of three (3) years, in an amount at least equal to the amount of the loan. During the construction period coverage may be for less than the amount of the loan. Such policy must contain a loss payable clause, naming the City of New York, c/o Department of Housing Preservation and Development as mortgagee and further provide that "buildings in course of renovation with permission granted to complete and occupy" or a similar description to this effect. When the improvements are completed, such proviso is to be deleted from the policy.
 
-(b) An original policy of owners protective liability and property damage insurance issued to the contractor, with the owner and "The City of New York Department of Housing Preservation and Development" as additional insured, to protect the owner and the City against claims for property damage and for personal injuries, including accidental death caused by the operations of the contractor or his sub-contractors during the performance of work at the building or adjacent thereto, in at least the sum of $100,000-$300,000 bodily injury and $25,000-$50,000 property damage, or in such larger amounts as may be determined by the Agency. When improvements are completed, this coverage may be discontinued.
+(b) An original policy of owners protective liability and property damage insurance issued to the contractor, with the owner and "The City of New York Department of Housing Preservation and Development" as additional insured, to protect the owner and the City against claims for property damage and for personal injuries, including accidental death caused by the operations of the contractor or his sub-contractors during the performance of work at the building or adjacent thereto, in at least the sum of $100,000 - $300,000 bodily injury and $25,000 - $50,000 property damage, or in such larger amounts as may be determined by the Agency. When improvements are completed, this coverage may be discontinued.
 
-(c) Evidence of the contractor's coverage for public liability and property damage insurance, or by the comprehensive general liability insurance to protect him and his subcontractors, the owner and the City against claims for property damage and for personal injuries including accidental death in at least the sum of $100,000-$300,000 bodily injury and $25,000-$50,000 property damage.
+(c) Evidence of the contractor's coverage for public liability and property damage insurance, or by the comprehensive general liability insurance to protect him and his subcontractors, the owner and the City against claims for property damage and for personal injuries including accidental death in at least the sum of $100,000 - $300,000 bodily injury and $25,000 - $50,000 property damage.
 
 (d) An original policy of boiler insurance (broad form) in the amount of not less than $50,000 providing coverage in the event of explosion, collapse, or rupture of boilers during installation or operation, where applicable.
 
@@ -225,7 +225,7 @@ The applicant is required to submit to the Agency, for its approval in a form sa
 
 (g) A mortgagor may not, at any time, further encumber, mortgage or permit any encumbrance or lien of any kind upon the mortgaged premises without the prior written consent of the Agency, nor may the premises or any part thereof be conveyed, assigned or transferred without the prior written consent of the Agency. Failure to comply with this subdivision (g) at the option of the Agency, shall result in the Agency's declaring the entire unpaid principal balance and interest immediately due and payable.
 
-(h) The mortgage may provide that with the consent of the Agency a mortgagor may prepay the principal amount of the loan together with interest then due. However, the apartments in the premises shall remain subject to the conditions set forth in § 1-03 (Eligibility and General Conditions) of this chapter.
+(h) The mortgage may provide that with the consent of the Agency a mortgagor may prepay the principal amount of the loan together with interest then due. However, the apartments in the premises shall remain subject to the conditions set forth in 28 RCNY § 1-03 (Eligibility and General Conditions).
 
 (i) The Agency shall establish first rentals or adjust maximum rents, whichever is applicable, for all buildings rehabilitated with a municipal loan and certify same to the Division of Housing and Community Renewal. In arriving at such rent levels, the Agency shall consider the total of the projected operating costs, including water and sewer taxes, fuel, insurance, utilities, painting and repairs, and vacancy allowance, a reasonable return on the owner's equity and interest and amortization payments on the mortgage.
 
@@ -267,7 +267,7 @@ The applicant is required to submit to the Agency, for its approval in a form sa
 
 (d) The Agency may require the deposit of loan advances in a separate escrow account, in a bank designated by the Agency, subject to withdrawal only upon the joint signatures of the borrower and a representative of the Agency. The Agency may further require that the owner deposit all or a designated portion of the rents collected from the multiple dwellings during the period of construction in such escrow account, or in a separate trust account under such terms and provisions as the Agency shall prescribe.
 
-(e) Progress payments on work completed shall be made on the basis of sworn statements as herein provided, subject to review and approval by the Agency. At the time of each progress payment, the contractor, mortgagor or owner shall execute for the Agency a sworn statement that all bills due for labor, services rendered, and materials furnished in connection with the work to the date of payment are paid and that no liens have been filed, or if not paid, submit list itemizing the amounts due to creditors so as to insure a proper allocation of the payment to satisfy in full such unpaid items. Such statement shall reconcile requisitions with the trade payment breakdown previously submitted. The Agency reserves unto itself the right, at its discretion, to take proceeds of the loan and pay all verified delinquent claims for labor, materials or other services rendered. The Agency shall further withhold an amount equal to no less than ten percent of the total amount of each progress payment as a retention fund under the mortgage to assure satisfactory progress of the work. Such retention, or a portion thereof, may be released prior to the completion of the work upon written request by the owner or mortgagor with the approval of the Deputy Commissioner of the Agency; the retention on completed work may thus be reduced to five percent upon completion of fifty percent of the work. All of the retention remaining shall be released upon the completion of the work to the entire satisfaction of the Agency and other necessary state or municipal bureaus or departments, the presentation to the Agency of a permanent certificate of occupancy, where applicable, proof of payment for all labor and materials, a cost certification prepared and certified by an independent public accountant licensed by New York State, and also a sworn certificate disclosing any changes from the applicant's filing in accordance with § 1-06(g) (Application Submission) of this chapter.
+(e) Progress payments on work completed shall be made on the basis of sworn statements as herein provided, subject to review and approval by the Agency. At the time of each progress payment, the contractor, mortgagor or owner shall execute for the Agency a sworn statement that all bills due for labor, services rendered, and materials furnished in connection with the work to the date of payment are paid and that no liens have been filed, or if not paid, submit list itemizing the amounts due to creditors so as to insure a proper allocation of the payment to satisfy in full such unpaid items. Such statement shall reconcile requisitions with the trade payment breakdown previously submitted. The Agency reserves unto itself the right, at its discretion, to take proceeds of the loan and pay all verified delinquent claims for labor, materials or other services rendered. The Agency shall further withhold an amount equal to no less than ten percent of the total amount of each progress payment as a retention fund under the mortgage to assure satisfactory progress of the work. Such retention, or a portion thereof, may be released prior to the completion of the work upon written request by the owner or mortgagor with the approval of the Deputy Commissioner of the Agency; the retention on completed work may thus be reduced to five percent upon completion of fifty percent of the work. All of the retention remaining shall be released upon the completion of the work to the entire satisfaction of the Agency and other necessary state or municipal bureaus or departments, the presentation to the Agency of a permanent certificate of occupancy, where applicable, proof of payment for all labor and materials, a cost certification prepared and certified by an independent public accountant licensed by New York State, and also a sworn certificate disclosing any changes from the applicant's filing in accordance with 28 RCNY § 1-06(g) (Application Submission).
 
 (f) The portion of the loan representing interest on advances during construction shall be adjusted upon completion of the rehabilitation as follows: If such portion shall be more than the amount required for interest on advances, the excess shall be credited to the mortgagor in reduction of the principal of the loan; if less than the amount required for such interest, the difference shall be deducted from the final payment of loan proceeds and paid over to the City of New York.
 
@@ -301,7 +301,7 @@ Each mortgagor or contractor performing rehabilitation work with proceeds of a m
 
 (c) To the extent that such preference is not inconsistent with the Executive Orders and the agreements referred to in subdivision (b) above, the contractor, including sub-contractors within model cities, urban renewal and code enforcement areas will give a priority in hiring to persons living within the geographic neighborhood in which the work is being performed.
 
-(d) The contractor will not sub-contract any part of the work without prior written approval of the Agency. The Agency will not approve any sub-contractor for work who is at the time ineligible because of violations of this § 1-11 (Labor Compliance Conditions) of this chapter, inefficiency, abandonment of duties, or disregard for creditors on prior jobs performed under this program. Failure to comply with the provisions of this § 1-11 will result in the Agency's withholding from the contractor any progress payments, in addition to exercising such other rights as may be reserved to the Agency in the loan documents, and forfeiture by the contractor of consideration for future work under this program.
+(d) The contractor will not sub-contract any part of the work without prior written approval of the Agency. The Agency will not approve any sub-contractor for work who is at the time ineligible because of violations of this 28 RCNY § 1-11 (Labor Compliance Conditions), inefficiency, abandonment of duties, or disregard for creditors on prior jobs performed under this program. Failure to comply with the provisions of this 28 RCNY § 1-11 will result in the Agency's withholding from the contractor any progress payments, in addition to exercising such other rights as may be reserved to the Agency in the loan documents, and forfeiture by the contractor of consideration for future work under this program.
 
 (e) With every requisition for a progress payment or at such times as the Agency shall prescribe, the contractor shall submit to the Agency copies of his payroll report and of each of the sub-contractors (it being understood that the contractor will be responsible for the submission of records of sub-contractors). Such payroll report shall contain such items as prescribed by the Agency including, but not limited to, the name and address of each employee, his classification or trade, ethnic/racial origin, hourly rate of pay, deductions made, number of hours worked and actual wages paid for the work week.
 
@@ -319,7 +319,7 @@ Each mortgagor or contractor performing rehabilitation work with proceeds of a m
 
 (b) The owner shall receive no more than one month's rent as security and one month's rent in advance at the time the tenant takes occupancy of premises rented after the loan is granted. Upon direction by the Agency, such security deposits when received by the owner shall be immediately submitted to the Agency to be held in escrow by the Agency for the benefit of the tenant. The Agency will deposit all such funds in a separate interest bearing account with a banking institution of the Agency's choice. The records of such account shall be available at all times to an owner or tenant for the purposes of audit, inspection or examination, and interest accruing from such account shall enure to the benefit of the tenant-depositor. The principal amount of such deposit together with interest thereon shall be returned to the tenant by the Agency upon the written request of the owner certifying that the tenant's occupancy has been terminated and that all the terms and conditions of such occupancy have been complied with.
 
-(c) The apartments in a rehabilitation building are available to persons or families of low income as defined in § 1-02 (Definitions) of this chapter.
+(c) The apartments in a rehabilitation building are available to persons or families of low income as defined in 28 RCNY § 1-02 (Definitions).
 
    (1) Probable aggregate annual income includes the annual income of the chief wage earner of the family, plus all other income of other members of the family in excess of $1,500 per annum for each such member. The income of a working minor who is a full-time student shall not be included in the computation of such annual income. Social Security or other pension plan payments received by females aged sixty-two years and over, or males sixty-five or over shall be excluded from computation of annual income up to a total maximum amount of $75 a month per individual.
 
@@ -331,7 +331,9 @@ Each mortgagor or contractor performing rehabilitation work with proceeds of a m
 
    (5) When the owner of the building occupies one of the units, he will be liable for rent surcharges the same as any tenant.
 
-   (6) Any person or family in occupancy whose income exceeds the maximum prescribed shall pay a rent surcharge in accordance with the following schedule:  
+   (6) Any person or family in occupancy whose income exceeds the maximum prescribed shall pay a rent surcharge in accordance with the following schedule: 
+
+ 
 
 
 .. list-table::
@@ -451,32 +453,42 @@ Allowable architectural and legal fees and contractor's overhead and profit shal
 
     * - Construction Cost 
       - Fee as Percent of Constuction Cost 
+~
+
+
+
+
+
+
+.. list-table::
+    :header-rows: 1
+
     * - Less than $100,000 
       - 10.0 
-    * -   100,000 
-      -   9.7 
-    * -   200,000 
-      -   9.4 
-    * -   300,000 
-      -   9.1 
-    * -   400,000 
-      -   8.8 
-    * -   500,000 
-      -   8.5 
-    * -   600,000 
-      -   8.2 
-    * -   700,000 
-      -   7.9 
-    * -   800,000 
-      -   7.6 
-    * -   900,000 
-      -   7.3 
+    * - 100,000 
+      - 9.7 
+    * - 200,000 
+      - 9.4 
+    * - 300,000 
+      - 9.1 
+    * - 400,000 
+      - 8.8 
+    * - 500,000 
+      - 8.5 
+    * - 600,000 
+      - 8.2 
+    * - 700,000 
+      - 7.9 
+    * - 800,000 
+      - 7.6 
+    * - 900,000 
+      - 7.3 
     * - 1,000,000 
-      -   7.0 
+      - 7.0 
     * - 1,500,000 
-      -   5.5 
+      - 5.5 
     * - 2,000,000 
-      -   4.0 
+      - 4.0 
 ~
 
  
@@ -532,43 +544,43 @@ Chapter 2: Rules and Regulations Pursuant To Article Viii-a of the Private Housi
 
 (b) Definitions. As used in these rules and regulations, the following terms shall have the meanings set forth below:
 
-Administrative Code. "Administrative Code" shall mean the Administrative Code of the City of New York.
+   Administrative Code. "Administrative Code" shall mean the Administrative Code of the City of New York.
 
-City. "City" shall mean the City of New York.
+   City. "City" shall mean the City of New York.
 
-Commissioner. "Commissioner" shall mean the Commissioner (or Acting Commissioner) of the Department or the chief executive officer (or acting chief executive officer) of any successor to the Department.
+   Commissioner. "Commissioner" shall mean the Commissioner (or Acting Commissioner) of the Department or the chief executive officer (or acting chief executive officer) of any successor to the Department.
 
-Department or Dept. "Department" or "Dept." shall mean the Department of Housing Preservation and Development of the City or any successor thereto.
+   Department or Dept. "Department" or "Dept." shall mean the Department of Housing Preservation and Development of the City or any successor thereto.
 
-Dwelling unit. "Dwelling unit" shall mean any residential accommodation in a multiple dwelling.
+   Dwelling unit. "Dwelling unit" shall mean any residential accommodation in a multiple dwelling.
 
-Housing Maintenance Code. "Housing Maintenance Code" shall mean the Housing Maintenance Code of the City constituting Chapter 2 of Title 27 of the Administrative Code.
+   Housing Maintenance Code. "Housing Maintenance Code" shall mean the Housing Maintenance Code of the City constituting Chapter 2 of Title 27 of the Administrative Code.
 
-Multiple Dwelling Law. "Multiple Dwelling Law" shall mean the Multiple Dwelling Law of the State of New York.
+   Multiple Dwelling Law. "Multiple Dwelling Law" shall mean the Multiple Dwelling Law of the State of New York.
 
-Multiple dwelling or building. "Multiple dwelling" or "building" shall mean an existing dwelling within the City which is rented or leased to be occupied, or is occupied, as the residence of three or more families living independently of each other, and for which a loan application is made under the program.
+   Multiple dwelling or building. "Multiple dwelling" or "building" shall mean an existing dwelling within the City which is rented or leased to be occupied, or is occupied, as the residence of three or more families living independently of each other, and for which a loan application is made under the program.
 
-Occupancy by persons or families of low income. "Occupancy by persons or families of low income" shall mean occupancy by persons or families paying rentals or carrying charges not in excess of the average rentals or carrying charges prevailing in local projects of municipally-aided limited-profit housing companies aided under Article II of the Private Housing Finance Law of the State of New York, the occupancy of which commenced on or after May 18, 1970. The rental or carrying charge for any such projects assisted under § 236 of the United States Housing Act of 1937 shall mean the fair market rental or carrying charge determined from time to time in accordance with the provisions of the agreement with the housing company pursuant to said section. Notwithstanding the foregoing, "occupancy by persons or families of low income" in single room occupancy housing shall mean occupancy by persons paying rentals not in excess of seventy-five (75) percent of the Moderate Rehabilitation Fair Market Rents for 0-bedroom units. "Moderate Rehabilitation Fair Market Rent" shall mean one hundred twenty (120) percent of the amount, less tenant utility allowance where applicable, which is indicated for 0-bedroom units on the then current Existing Housing Fair Market Rent Schedule for the § 8 Existing Housing Assistance Payments Program under the administration of the Department. Where the Department determines on the basis of a market survey or other acceptable and documented evidence that the market rents for dwelling units in the immediate neighborhood where the building is located exceeds the applicable Existing Housing Fair Market Rents, the Department may increase said rents by an amount not to exceed ten (10%) percent.
+   Occupancy by persons or families of low income. "Occupancy by persons or families of low income" shall mean occupancy by persons or families paying rentals or carrying charges not in excess of the average rentals or carrying charges prevailing in local projects of municipally-aided limited-profit housing companies aided under Article II of the Private Housing Finance Law of the State of New York, the occupancy of which commenced on or after May 18, 1970. The rental or carrying charge for any such projects assisted under § 236 of the United States Housing Act of 1937 shall mean the fair market rental or carrying charge determined from time to time in accordance with the provisions of the agreement with the housing company pursuant to said section. Notwithstanding the foregoing, "occupancy by persons or families of low income" in single room occupancy housing shall mean occupancy by persons paying rentals not in excess of seventy-five (75) percent of the Moderate Rehabilitation Fair Market Rents for 0-bedroom units. "Moderate Rehabilitation Fair Market Rent" shall mean one hundred twenty (120) percent of the amount, less tenant utility allowance where applicable, which is indicated for 0-bedroom units on the then current Existing Housing Fair Market Rent Schedule for the § 8 Existing Housing Assistance Payments Program under the administration of the Department. Where the Department determines on the basis of a market survey or other acceptable and documented evidence that the market rents for dwelling units in the immediate neighborhood where the building is located exceeds the applicable Existing Housing Fair Market Rents, the Department may increase said rents by an amount not to exceed ten (10%) percent.
 
-Owner. "Owner" shall mean an individual, partnership, corporation or other entity, including a non-profit company, a mutual company, or a housing development fund company, which holds record title in fee simple to the premises or is the lessee thereof under a lease having an unexpired term of not less than fifteen years.
+   Owner. "Owner" shall mean an individual, partnership, corporation or other entity, including a non-profit company, a mutual company, or a housing development fund company, which holds record title in fee simple to the premises or is the lessee thereof under a lease having an unexpired term of not less than fifteen years.
 
-Premises. "Premises" shall mean the multiple dwelling or the building and includes the land upon which it is situated.
+   Premises. "Premises" shall mean the multiple dwelling or the building and includes the land upon which it is situated.
 
-Program. "Program" shall mean the program for the making of loans pursuant to Article VIII-A of the Private Housing Finance Law of the State of New York and this chapter.
+   Program. "Program" shall mean the program for the making of loans pursuant to Article VIII-A of the Private Housing Finance Law of the State of New York and this chapter.
 
-Rehabilitation. "Rehabilitation" or "rehabilitation or improvement" shall mean the curing of any substandard or insanitary condition or conditions, or the replacement, repair or upgrading of heating, plumbing, electrical and related systems.
+   Rehabilitation. "Rehabilitation" or "rehabilitation or improvement" shall mean the curing of any substandard or insanitary condition or conditions, or the replacement, repair or upgrading of heating, plumbing, electrical and related systems.
 
-Rent or rental. "Rent" or "rental" shall also mean carrying charge whenever the multiple dwelling is cooperatively owned. This definition shall not apply to § 2-04(a)(2) of this chapter.
+   Rent or rental. "Rent" or "rental" shall also mean carrying charge whenever the multiple dwelling is cooperatively owned. This definition shall not apply to 28 RCNY § 2-04(a)(2).
 
-Single room occupancy housing. "Single room occupancy housing" shall mean dwelling units which:
+   Single room occupancy housing. "Single room occupancy housing" shall mean dwelling units which:
 
-   (1) may be lawfully occupied as the residence of single individuals capable of living independently of each other and do not contain either food preparation facilities or sanitary facilities or both, or
+      (1) may be lawfully occupied as the residence of single individuals capable of living independently of each other and do not contain either food preparation facilities or sanitary facilities or both, or
 
-   (2) are otherwise used and maintained for such occupancy in full compliance with the building's certificate of occupancy and the provisions of the New York State Multiple Dwelling Law.
+      (2) are otherwise used and maintained for such occupancy in full compliance with the building's certificate of occupancy and the provisions of the New York State Multiple Dwelling Law.
 
-Useful life of the dwelling. "Useful life of the dwelling" shall mean the period of time, as determined by the Dept., that the multiple dwelling is expected to be habitable at a level of comfort, safety and sanitation compatible with current requirements of state and city statutes, ordinances and administrative regulations, where there is regular maintenance and care of the major building systems by competent mechanics.
+   Useful life of the dwelling. "Useful life of the dwelling" shall mean the period of time, as determined by the Dept., that the multiple dwelling is expected to be habitable at a level of comfort, safety and sanitation compatible with current requirements of state and city statutes, ordinances and administrative regulations, where there is regular maintenance and care of the major building systems by competent mechanics.
 
-Useful life of the rehabilitation or improvement. "Useful life of the rehabilitation or improvement" shall mean the period of time as determined by the Department that the improvement is expected to function in good condition, with routine maintenance and repair.
+   Useful life of the rehabilitation or improvement. "Useful life of the rehabilitation or improvement" shall mean the period of time as determined by the Department that the improvement is expected to function in good condition, with routine maintenance and repair.
 
 
 
@@ -582,7 +594,7 @@ Useful life of the rehabilitation or improvement. "Useful life of the rehabilita
 
    (1) Loans may be made to an owner of a multiple dwelling located within the City to enable or assist such owner to eliminate a substandard or insanitary condition or conditions in violation of the Multiple Dwelling Law or the Housing Maintenance Code of the City of New York or to provide for the replacement and rehabilitation of the heating, plumbing, electrical and related systems or other improvements as shall be reasonably necessary to prolong the useful life of such dwelling.
 
-   (2) No loan shall be made unless the average rent for dwelling units in the building is not in excess of the average rent prevailing in local projects of municipally-aided limited-profit housing companies aided under Article II of the Private Housing Finance Law of the State of New York, the occupancy of which commenced on or after May 18, 1970, except for loans made to rehabilitate single room occupancy housing, in which cases the average rent for such units in the building shall not exceed seventy-five (75%) percent of the Moderate Rehabilitation Fair Market Rent as defined in § 2-01(b) "Occupancy by persons or families of low income" of these Regulations, for 0-bedroom units.
+   (2) No loan shall be made unless the average rent for dwelling units in the building is not in excess of the average rent prevailing in local projects of municipally-aided limited-profit housing companies aided under Article II of the Private Housing Finance Law of the State of New York, the occupancy of which commenced on or after May 18, 1970, except for loans made to rehabilitate single room occupancy housing, in which cases the average rent for such units in the building shall not exceed seventy-five (75%) percent of the Moderate Rehabilitation Fair Market Rent as defined in 28 RCNY § 2-01(b) "Occupancy by persons or families of low income", for 0-bedroom units.
 
 (b) Allowable costs. At the discretion of the Dept., loan proceeds may be advanced to finance the following items of cost incurred in connection with the rehabilitation or improvement:
 
@@ -664,13 +676,13 @@ Useful life of the rehabilitation or improvement. "Useful life of the rehabilita
 
          (A) rent stabilized units which will remain stabilized with the rental adjustment added to the then current rent and subject to continuing lease increases granted by the appropriate governmental authority, or
 
-         (B) rent controlled units which will remain controlled with the rental adjustment added to the then current maximum base rent and maximum collectible rent and subject to continuing increases in the maximum base rent and maximum collectible rent granted by the appropriate governmental authority. Nothing contained in this subparagraph (2)(i) shall affect the time period for the repayment of the loan as determined by the Department under § 2-02(d).
+         (B) rent controlled units which will remain controlled with the rental adjustment added to the then current maximum base rent and maximum collectible rent and subject to continuing increases in the maximum base rent and maximum collectible rent granted by the appropriate governmental authority. Nothing contained in this subparagraph (2)(i) shall affect the time period for the repayment of the loan as determined by the Department under 28 RCNY § 2-02(d).
 
       (ii) As an alternative to the rental adjustment provided under the preceding sub- paragraph (2)(i) the Department may in appropriate circumstances restructure the rents under § 33.9 of the New York City Rent and Eviction Regulations provided the rents as restructured do not exceed the average rent prevailing in local projects of municipally-aided limited- profit housing companies aided under Article II of the Private Housing Finance Law of the State of New York, the occupancy of which commenced on or after May 18, 1970, or in the case of a single room occupancy housing, seventy-five (75%) percent of the Moderate Rehabilitation Fair Market Rent, as defined in these regulations, for 0-bedroom units.
 
    (3) Status of apartments. Loans may be made irrespective of the current status of control, stabilization or decontrol of dwelling units and shall not have any effect upon such present or future status of the units.
 
-   (4) Tenant notification. Prior to final approval of the loan, the owner shall be required to give tenants residing in the multiple dwelling written notification of the proposed rehabilitation or improvement and the possibility of rent increases, in form specified or approved by the Department. The owner shall submit an affidavit to the Department certifying that such written notification has been given to the tenants. The Department shall notify the tenants in writing no later than twenty-eight (28) calendar days prior to the loan closing of the nature of the proposed rehabilitation or improvement and any projected rent increases. The tenants may forward their comments or objections regarding the proposed loan to the Department for consideration of all relevant issues. The Department, in its discretion, may hold or require the owner to hold at least one public meeting with the tenants or their representatives to discuss the proposed rehabilitation or improvement and any projected rent increases. The Department may, as an alternative to its twenty-eight day notification, hold a tenant meeting if at least three (3) business days before the meeting a copy of the Department's notification letter is sent by ordinary mail to all tenants. If rents are to be adjusted pursuant to § 2-4(a)(2)(i), the Department shall send by ordinary mail a written notice of the approximate expected rent increase after the completion of the rehabilitation or improvement and prior to the establishment of the rental adjustments. After this notification, tenants may again forward their comments or objections to the Department for consideration. The Department shall consider any comments or objections that it considers to be relevant to the rent increases and which are received within ten (10) days after the date of mailing (by deposit in a general or branch post office or other official depository of the United States Postal Service) of the Department's notification.
+   (4) Tenant notification. Prior to final approval of the loan, the owner shall be required to give tenants residing in the multiple dwelling written notification of the proposed rehabilitation or improvement and the possibility of rent increases, in form specified or approved by the Department. The owner shall submit an affidavit to the Department certifying that such written notification has been given to the tenants. The Department shall notify the tenants in writing no later than twenty-eight (28) calendar days prior to the loan closing of the nature of the proposed rehabilitation or improvement and any projected rent increases. The tenants may forward their comments or objections regarding the proposed loan to the Department for consideration of all relevant issues. The Department, in its discretion, may hold or require the owner to hold at least one public meeting with the tenants or their representatives to discuss the proposed rehabilitation or improvement and any projected rent increases. The Department may, as an alternative to its twenty-eight day notification, hold a tenant meeting if at least three (3) business days before the meeting a copy of the Department's notification letter is sent by ordinary mail to all tenants. If rents are to be adjusted pursuant to 28 RCNY § 2-04(a)(2)(i), the Department shall send by ordinary mail a written notice of the approximate expected rent increase after the completion of the rehabilitation or improvement and prior to the establishment of the rental adjustments. After this notification, tenants may again forward their comments or objections to the Department for consideration. The Department shall consider any comments or objections that it considers to be relevant to the rent increases and which are received within ten (10) days after the date of mailing (by deposit in a general or branch post office or other official depository of the United States Postal Service) of the Department's notification.
 
 (b) Real estate taxes, assessments, water and meter charges and sewer rents. The owner shall make full and timely payment of current real estate taxes, assessments, water and meter charges and sewer rents during the term of the loan. At the time of the loan closing real estate taxes, assessments, water and meter charges or sewer rents may, with the consent of the Department, be in arrears, provided all such arrears, including any interest and penalties thereon, shall be discharged by the owner subsequent to the loan closing pursuant to arrangements satisfactory to the Department. The Department may require under terms and provisions as it shall prescribe, that the owner place money in escrow on a monthly basis to cover any outstanding real estate taxes, assessments, water and meter charges and sewer rents, accrued interest and penalties, or payments of principal and interest on the loan and one-twelfth of the prospective annual real estate taxes, assessments, water and meter charges, sewer rents and premiums for insurance. Unless otherwise required by the Department as a condition precedent to the loan and subject to all provisions of this chapter, the owner may apply for any rent adjustment or other benefits, including tax exemption and/or tax abatement, to which he, as a result of the rehabilitation or improvement, may become entitled under the provisions of the Administrative Code and all regulations promulgated thereunder.
 
@@ -698,7 +710,7 @@ Useful life of the rehabilitation or improvement. "Useful life of the rehabilita
 
    (1) Code compliance. No loan shall be made unless the rehabilitation or improvement will result in the elimination of a substandard or unsanitary condition(s) existing in the multiple dwelling in violation of the Multiple Dwelling Law or the Housing Maintenance Code, or will provide for the replacement and rehabilitation of the heating, plumbing, electrical and related systems or other improvements if reasonably necessary to prolong the useful life of the dwelling. In either case, the estimated useful life of the multiple dwelling after rehabilitation shall not be less than the term of the loan.
 
-   (2) Economic viability. No loan shall be approved unless after the rehabilitation or improvement and any restructuring of rents as set forth in § 2-4(a) hereof, or any rent adjustment or other benefits to which the owner may otherwise become entitled under the provisions of the Administrative Code, or otherwise, as a result of the rehabilitation or improvement, the building's projected revenues are sufficient to meet all maintenance and operating expenses, real estate taxes, water rates, sewer rents, vacancy and collection losses, debt service and return on equity.
+   (2) Economic viability. No loan shall be approved unless after the rehabilitation or improvement and any restructuring of rents as set forth in 28 RCNY § 2-04(a), or any rent adjustment or other benefits to which the owner may otherwise become entitled under the provisions of the Administrative Code, or otherwise, as a result of the rehabilitation or improvement, the building's projected revenues are sufficient to meet all maintenance and operating expenses, real estate taxes, water rates, sewer rents, vacancy and collection losses, debt service and return on equity.
 
 
 
@@ -734,7 +746,7 @@ Useful life of the rehabilitation or improvement. "Useful life of the rehabilita
 
       (iv) at the time of the refinancing the mortgage given to secure the City loan shall not be in default with respect to any payment of principal or interest or any other payment required under the terms of said mortgage or the note secured thereby.
 
-   (4) Further encumbrances. Except as otherwise provided in § 2-5(b)(3), an owner shall not at any time further encumber, mortgage or permit any encumbrance or lien of any kind or nature upon the premises without the prior written consent of the Department nor, shall the premises or any part thereof be conveyed without the prior written consent of the Department. On failure to comply with this paragraph (4), the Department, at its option, may declare the entire loan immediately due and payable.
+   (4) Further encumbrances. Except as otherwise provided in 28 RCNY § 2-05(b)(3), an owner shall not at any time further encumber, mortgage or permit any encumbrance or lien of any kind or nature upon the premises without the prior written consent of the Department nor, shall the premises or any part thereof be conveyed without the prior written consent of the Department. On failure to comply with this paragraph (4), the Department, at its option, may declare the entire loan immediately due and payable.
 
 (c) Insurance requirements.
 
@@ -764,7 +776,7 @@ Useful life of the rehabilitation or improvement. "Useful life of the rehabilita
 
    (1) Periodic inspections. While rehabilitation is in progress the Department's personnel may conduct periodic inspections of the work and ma- terials.
 
-   (2) Progress payments. Progress payments for work completed shall be made on the basis of sworn statements as hereinafter provided, subject to review, inspection and approval by the Department. At the time of each progress payment, the borrower and the general contractor, if a general contractor has been engaged, or other contractor, shall execute and submit to the Department a sworn statement, in form specified by the Department, certifying that there has been compliance with all labor standards pursuant to § 2-6(d) hereof, that payment has been made or will be made from the proceeds of such progress payments for all labor and services rendered and materials furnished in connection with the work to the date of payment and that any liens placed against the premises subsequent to the closing of the loan have been paid, bonded or otherwise discharged. In the sole discretion of the Department, progress payments shall be made payable directly to the owner, directly to the contractor, or jointly to the owner and contractor.
+   (2) Progress payments. Progress payments for work completed shall be made on the basis of sworn statements as hereinafter provided, subject to review, inspection and approval by the Department. At the time of each progress payment, the borrower and the general contractor, if a general contractor has been engaged, or other contractor, shall execute and submit to the Department a sworn statement, in form specified by the Department, certifying that there has been compliance with all labor standards pursuant to 28 RCNY § 2-06(d), that payment has been made or will be made from the proceeds of such progress payments for all labor and services rendered and materials furnished in connection with the work to the date of payment and that any liens placed against the premises subsequent to the closing of the loan have been paid, bonded or otherwise discharged. In the sole discretion of the Department, progress payments shall be made payable directly to the owner, directly to the contractor, or jointly to the owner and contractor.
 
    (3) Retention. The Department shall withhold an amount equal to ten percent (10%) of the total amount of each approved progress payment to create a retention fund to assure satisfactory progress and completion of the work. Up to fifty percent (50%) of such retention may be released upon the completion of at least fifty per cent (50%) of the work upon written request by the borrower and approval by the Department. The remainder of the retention funds shall be released upon:
 
@@ -899,7 +911,7 @@ Chapter 3: City-aided Limited Profit Housing Companies
 
    (4) Each application, together with income and occupancy information and other data as hereinafter specified, shall be investigated by the housing company at the time an apartment is offered to determine the eligibility of the applicant. The data received by any housing company relative to tenant income shall be regarded as confidential in nature and protected accordingly to the extent permitted by law. In the case of a mutual housing company development, applicants approved by the mutual housing company shall upon notification of such approval be required to pay the balance of the purchase price of the shares allocated to the apartment. Thereafter, such application, together with supporting data, including a satisfactory credit history, and, in the case of a mutual housing company development, one copy of the contract for sale of shares approved by the housing company, shall be forwarded to HPD for its approval. Home visits conducted in connection with a credit check are permitted.
 
-   (5) Except for developments governed by § 3-21 of these rules, no applicant shall be given possession of an apartment until his or her application has been approved by HPD and he or she has executed an occupancy agreement or lease.
+   (5) Except for developments governed by 28 RCNY § 3-21, no applicant shall be given possession of an apartment until his or her application has been approved by HPD and he or she has executed an occupancy agreement or lease.
 
    (6) Applications which are rejected by a housing company without being submitted to HPD shall have clearly marked thereon the reason for disapproval and shall be kept for a period of time as HPD may direct, and shall be available for examination by HPD. The applicant shall be advised in writing of the reason for his or her rejection and advised that he or she can appeal the rejection to HPD within thirty (30) days from the date of such written notification. Such appeal shall be in writing.
 
@@ -917,9 +929,7 @@ Chapter 3: City-aided Limited Profit Housing Companies
 
    (11) If, at any time, an applicant's name has been omitted from a waiting list in error, and said applicant can present adequate documentation satisfactory to the housing company or its managing agent to substantiate an earlier date of application for an apartment, applicant's name shall be inserted into the waiting list in the corrected date order. Requests to be reinserted into the waiting list cannot be made more than seven years after the date of the initial application and must be submitted to HPD for prior written approval.
 
-   (12) Except for the priorities mentioned below, the waiting list by apartment size in chronological order by date of receipt of application or order of selection by lottery, as applicable, shall be maintained in the following manner:
-
- 
+   (12) Except for the priorities mentioned below, the waiting list by apartment size in chronological order by date of receipt of application or order of selection by lottery, as applicable, shall be maintained in the following manner: 
 
  
 
@@ -1031,7 +1041,7 @@ Selections of tenants or cooperators must be made from this list in chronologica
 
    (5) The terms and conditions of all licensing agreements and all tenancies, including tenancies of commercial and professional space, shall be subject to HPD written approval.
 
-(o) Applicability of Section 235-F of the Real Property Law.
+(o) Applicability of Section 235-f of the Real Property Law.
 
    (1) Definition of terms. Section 235-f of the Real Property Law of the State of New York shall apply to all housing companies, subject to the restrictions set forth in this section. As used in this subdivision (o), the term "occupant" shall mean a person, other than a tenant/cooperator, residing together with the tenant/cooperator in an apartment in a rental or mutual housing company development subject to these rules, who is not a party to the lease or occupancy agreement, including, but not limited to, a member of a tenant/cooperator's immediate family, whose occupancy has been approved by the housing company and HPD.
 
@@ -1093,7 +1103,7 @@ In no event shall evidence of a sexual relationship between such persons be requ
 
       (iv) "Senior citizen" shall mean a person who is sixty-two (62) years of age or older.
 
-   (3) Unless otherwise prohibited by occupancy restrictions based upon income limitations pursuant to federal, state or local law, regulations or other requirements of governmental agencies, if the tenant/cooperator has permanently vacated the apartment, any member of such tenant/cooperator's family, who has resided with the tenant/cooperator in the apartment as a primary residence, as determined by § 3-02 (n)(4) of these rules, for a period of not less than two years immediately prior to the tenant/cooperator's permanent vacating of the apartment, and whose name is listed on any income documentation submitted by such tenant/cooperator to the Department or to any other governmental agencies (for example: income affidavits, re-certifications or Section 8 forms), for at least the two consecutive annual reporting periods immediately prior to the tenant/cooperator's permanent vacating of the apartment or where such person seeking succession rights is a senior citizen or disabled person, for a period of not less than one year immediately prior to the tenant/cooperator's permanent vacating of the apartment, and has appeared on such income documentation for at least the reporting period immediately prior to the permanent vacating of the apartment by the tenant/cooperator, or from the inception of the tenancy or commencement of the relationship if for less than such periods, and the apartment was and continues to be the primary residence of the member of the tenant/cooperator's family that resided with such tenant/cooperator, may request to be named as a tenant/cooperator on the lease and where applicable on the stock certificate. In the event that HPD has authorized the housing company not to collect surcharges based on income documentation, the family member shall be asked to provide other evidence of occupancy for the required period of time. The burden of proof is on said family member to show use of the apartment as his or her primary residence during the required period to be eligible to succeed to possession.
+   (3) Unless otherwise prohibited by occupancy restrictions based upon income limitations pursuant to federal, state or local law, regulations or other requirements of governmental agencies, if the tenant/cooperator has permanently vacated the apartment, any member of such tenant/cooperator's family, who has resided with the tenant/cooperator in the apartment as a primary residence, as determined by 28 RCNY § 3-02(n)(4), for a period of not less than two years immediately prior to the tenant/cooperator's permanent vacating of the apartment, and whose name is listed on any income documentation submitted by such tenant/cooperator to the Department or to any other governmental agencies (for example: income affidavits, re-certifications or Section 8 forms), for at least the two consecutive annual reporting periods immediately prior to the tenant/cooperator's permanent vacating of the apartment or where such person seeking succession rights is a senior citizen or disabled person, for a period of not less than one year immediately prior to the tenant/cooperator's permanent vacating of the apartment, and has appeared on such income documentation for at least the reporting period immediately prior to the permanent vacating of the apartment by the tenant/cooperator, or from the inception of the tenancy or commencement of the relationship if for less than such periods, and the apartment was and continues to be the primary residence of the member of the tenant/cooperator's family that resided with such tenant/cooperator, may request to be named as a tenant/cooperator on the lease and where applicable on the stock certificate. In the event that HPD has authorized the housing company not to collect surcharges based on income documentation, the family member shall be asked to provide other evidence of occupancy for the required period of time. The burden of proof is on said family member to show use of the apartment as his or her primary residence during the required period to be eligible to succeed to possession.
 
    (4) Family members do not have the right to succeed the tenant/cooperator in occupancy if the housing company terminates the tenancy of a tenant/cooperator for cause.
 
@@ -1117,7 +1127,7 @@ In no event shall evidence of a sexual relationship between such persons be requ
 
       (ii) In the event that that is a legal dispute or claim involving the rightful ownership of the stock assigned to an apartment in a mutual housing company, pending a determination thereof by an appropriate tribunal or court of law, such family members as set forth in paragraph (3) of this subdivision shall continue to be permitted to reside in the apartment.
 
-      (iii) If the appropriate tribunal or court of law shall determine that someone other than such family members as set forth in paragraph (3) of this subdivision is entitled to the ownership of the stock then, upon presentation of a court order or other valid evidence, such new owner shall be permitted solely to surrender the stock to the housing company for redemption pursuant to the applicable provisions of the Private Housing Finance Law. In such event, such family members in occupancy as set forth in paragraph (3) of this subdivision shall be afforded a reasonable opportunity to purchase the stock from the housing company for the price authorized pursuant to the Private Housing Finance Law and § 3-06 of this chapter.
+      (iii) If the appropriate tribunal or court of law shall determine that someone other than such family members as set forth in paragraph (3) of this subdivision is entitled to the ownership of the stock then, upon presentation of a court order or other valid evidence, such new owner shall be permitted solely to surrender the stock to the housing company for redemption pursuant to the applicable provisions of the Private Housing Finance Law. In such event, such family members in occupancy as set forth in paragraph (3) of this subdivision shall be afforded a reasonable opportunity to purchase the stock from the housing company for the price authorized pursuant to the Private Housing Finance Law and 28 RCNY § 3-06.
 
    (7) The housing company and/or HPD shall have the option of requiring any proposed successor to move to a smaller apartment in the development, in the event the apartment in question is or would become underoccupied according to occupancy standards set forth in subdivision (m) of this section.
 
@@ -1167,7 +1177,7 @@ In no event shall evidence of a sexual relationship between such persons be requ
 
    (4) Notwithstanding other applicable provisions, families with two or more dependents whose probable aggregate annual income does not exceed one hundred twenty-five percent of the limitations as to income as determined pursuant to paragraphs (1) and (2) of this subdivision (a), shall also be eligible for admission to the dwelling of a project provided that any family becoming eligible for admission by reason hereof shall pay, from the time of admission, a rental surcharge as provided for in subdivision (b) of this section, computed on the basis of the income limitations applicable to such family in the absence of this provision.
 
-(b) Surcharges. In the event that the aggregate annual income of all occupants of a dwelling unit shall exceed the maximum above set forth, the tenant or cooperator shall be required to pay a surcharge based upon the following schedule:
+(b) Surcharges. In the event that the aggregate annual income of all occupants of a dwelling unit shall exceed the maximum above set forth, the tenant or cooperator shall be required to pay a surcharge based upon the following schedule: 
 
  
 
@@ -1231,7 +1241,7 @@ In no event shall evidence of a sexual relationship between such persons be requ
 
    (3) Whenever changes occur in rentals or carrying charges or any component thereof used in the computation of surcharges, surcharges shall be recalculated by the housing company or its managing agent.
 
-   (4) A housing company cannot bring an eviction proceeding against any tenant/cooperator who fails or refuses to pay surcharges without the issuance of a certificate of eviction by HPD following an administrative hearing by an HPD designated hearing officer in accordance with § 3-18 of this chapter.
+   (4) A housing company cannot bring an eviction proceeding against any tenant/cooperator who fails or refuses to pay surcharges without the issuance of a certificate of eviction by HPD following an administrative hearing by an HPD designated hearing officer in accordance with 28 RCNY § 3-18.
 
    (5) Housing companies or their managing agents shall submit a copy of the surcharge information tabulation sheets, and all changes thereto, together with copies of the income affidavits for HPD review and evaluation. Surcharge records shall be kept available by the housing company or its managing agent for inspection by HPD.
 
@@ -1321,7 +1331,7 @@ In no event shall evidence of a sexual relationship between such persons be requ
 
    (7) In the case of National Housing Act of 1937, as amended, § 223(f) refinanced mutual housing companies, where the appliances were included as security for the insured mortgage, the outgoing shareholder shall be required to leave behind the appliances which were in place at the time of refinancing or to replace them with appliances of equal size and amenities. In the case of non-refinanced mutual housing companies, a board of directors may adopt a uniform policy whereby either the incoming or outgoing cooperator shall be responsible for providing a stove and refrigerator for his or her apartment. A board may adopt a policy which apportions the cost of appliances between the incoming and outgoing shareholders as follows: As appliances require replacement, the cooperator in residence would be required to purchase the new appliance(s). A life-expectancy schedule would be established for each type of appliance and the appliance would be depreciated over that pre-determined time period. If the cooperator in residence vacated the apartment any time during the depreciation period, he or she would be reimbursed for the remainder of the period by the incoming cooperator. If the depreciation period were over when the cooperator vacated, the incoming cooperator would be obligated to purchase new appliances and the process would commence again. The depreciated appliances would become the property of the housing company. Any policy adopted must be applied uniformly to all apartments.
 
-   (8) The mutual housing company shall follow the chronological order of its waiting list in the sale of shares. In the event a mutual housing company has substantially depleted its waiting list, the mutual housing company shall seek potential applicants. A mutual housing company and its managing agent shall only open a closed waiting list in accordance with the requirements of § 3-02 of these rules.
+   (8) The mutual housing company shall follow the chronological order of its waiting list in the sale of shares. In the event a mutual housing company has substantially depleted its waiting list, the mutual housing company shall seek potential applicants. A mutual housing company and its managing agent shall only open a closed waiting list in accordance with the requirements of 28 RCNY § 3-02.
 
 (b) Resale price of shares.
 
@@ -1353,7 +1363,7 @@ In no event shall evidence of a sexual relationship between such persons be requ
 
    (7) A mutual housing company electing to amend its by-laws pursuant to this subdivision (b) shall submit to HPD for its approval, a Board of Directors Resolution certified and acknowledged by the Secretary of the Corporation setting forth the adoption of this provision and a fully executed copy of a by-law amendment certified by the Secretary of the Corporation.
 
-(c) Joint ownership of cooperative shares. With respect to any person who became a co-owner of shares before December 25, 2014, such co-ownership of shares does not guarantee the right to succession to ah apartment in a mutual housing company development, and any such co-owner must qualify for succession under § 3-02(p) of these rules. On or after December 25, 2014, no housing company shall permit any person other than a family member who has been approved for succession in accordance with § 3-02(p) of these rules to become an owner of the shares and a signatory on the occupancy agreement. Notwithstanding the foregoing, upon the request of a shareholder, and with HPD's prior approval, a housing company may permit spouses to become co-owners of shares and co-signatories of the applicable occupancy agreements if they meet the following requirements, as established pursuant to satisfactory evidence:
+(c) Joint ownership of cooperative shares. With respect to any person who became a co-owner of shares before December 25, 2014, such co-ownership of shares does not guarantee the right to succession to ah apartment in a mutual housing company development, and any such co-owner must qualify for succession under 28 RCNY § 3-02(p). On or after December 25, 2014, no housing company shall permit any person other than a family member who has been approved for succession in accordance with 28 RCNY § 3-02(p) to become an owner of the shares and a signatory on the occupancy agreement. Notwithstanding the foregoing, upon the request of a shareholder, and with HPD's prior approval, a housing company may permit spouses to become co-owners of shares and co-signatories of the applicable occupancy agreements if they meet the following requirements, as established pursuant to satisfactory evidence:
 
    (a) such spouse either was an initial occupant of the applicable dwelling unit with such shareholder or was included in at least two of the income affidavits filed by such shareholder during the time period immediately preceding such shareholder's request to add the spouse as co-owner of shares and a co-signatory of such occupancy agreement;
 
@@ -1361,7 +1371,7 @@ In no event shall evidence of a sexual relationship between such persons be requ
 
    (c) such spouse and the shareholder intend in good faith to remain joint occupants of the applicable dwelling unit. Any spouse that becomes a co-owner of shares and a co-signer of the applicable occupancy agreement pursuant to these requirements also shall be considered a shareholder of record for such dwelling unit.
 
-(d) Bequeathing of apartments. In no event may the right of occupancy in a Mitchell-Lama mutual housing company development be bequeathed to another. Upon the death of the tenant/cooperator, the shares must be returned to the mutual housing company which will arrange for a sale pursuant to subdivision (a) of this section. Notwithstanding the foregoing, eligible members of the tenant/cooperator's immediate family in occupancy may acquire such shares if they meet the requirements of § 3-02(p) of these rules.
+(d) Bequeathing of apartments. In no event may the right of occupancy in a Mitchell-Lama mutual housing company development be bequeathed to another. Upon the death of the tenant/cooperator, the shares must be returned to the mutual housing company which will arrange for a sale pursuant to subdivision (a) of this section. Notwithstanding the foregoing, eligible members of the tenant/cooperator's immediate family in occupancy may acquire such shares if they meet the requirements of 28 RCNY § 3-02(p).
 
 
 
@@ -1413,7 +1423,7 @@ In no event shall evidence of a sexual relationship between such persons be requ
 
 (c) Contracts and retainers.
 
-   (1) All contracts and retainer agreements with attorneys and accountants shall be subject to termination without cause by HPD or the housing company upon thirty (30) days written notice and immediately by written notice by the housing company or HPD if there has been a material breach of contract. After termination, no amounts shall be owed except for work actually completed. Managing agent contracts are subject to § 3-16 of these rules.
+   (1) All contracts and retainer agreements with attorneys and accountants shall be subject to termination without cause by HPD or the housing company upon thirty (30) days written notice and immediately by written notice by the housing company or HPD if there has been a material breach of contract. After termination, no amounts shall be owed except for work actually completed. Managing agent contracts are subject to 28 RCNY § 3-16.
 
    (2) An accountant retained by a housing company shall be an independent C.P.A. licensed to practice under the laws of the State of New York.
 
@@ -1605,7 +1615,7 @@ Further resolved, that this resolution shall remain in full force and effect unl
 
    (1) The housing company shall prepare the requisite petition, application, or motion for an increase in the maximum rental or carrying charges per room and submit same to HPD for approval as to form and authorization for hearing procedures.
 
-   (2) In the event the housing company fails to submit said petition, application or motion as set forth in paragraph (1) above, HPD may, upon its determination of the need for an increase in rents or carrying charges, promulgate a petition preparatory to effectuating the hearing, which petition need not be in the same form as delineated in § 3-10(b).
+   (2) In the event the housing company fails to submit said petition, application or motion as set forth in paragraph (1) above, HPD may, upon its determination of the need for an increase in rents or carrying charges, promulgate a petition preparatory to effectuating the hearing, which petition need not be in the same form as delineated in 28 RCNY § 3-10(b).
 
 (b) Public hearing requirement.
 
@@ -1621,7 +1631,7 @@ Further resolved, that this resolution shall remain in full force and effect unl
 
    (2) The notice to be delivered to the tenants shall first be submitted to HPD for its approval and shall contain:
 
-      (i) In bold print, at the top,
+      (i) In bold print, at the top, 
 
  
 
@@ -1636,7 +1646,7 @@ Further resolved, that this resolution shall remain in full force and effect unl
 
  
 
-      (ii) In the body of the notice:
+      (ii) In the body of the notice: 
 
  
 
@@ -1707,7 +1717,7 @@ Further resolved, that this resolution shall remain in full force and effect unl
 
 (h) Reimbursement of professional fees to Tenants Associations.
 
-   (1) A Tenants Association that is constituted pursuant to § 3-17 of this chapter shall be eligible for reimbursement of professional fees incurred when such Tenants Association retains an accountant, architect or engineer to review a rent increase application which has been submitted by a housing company to HPD and approved as to form by HPD. Only one accountant and/or one architect or engineer may be retained by a Tenants Association pursuant to this subdivision to review a particular rent increase application submitted by a housing company pursuant to this section.
+   (1) A Tenants Association that is constituted pursuant to 28 RCNY § 3-17 shall be eligible for reimbursement of professional fees incurred when such Tenants Association retains an accountant, architect or engineer to review a rent increase application which has been submitted by a housing company to HPD and approved as to form by HPD. Only one accountant and/or one architect or engineer may be retained by a Tenants Association pursuant to this subdivision to review a particular rent increase application submitted by a housing company pursuant to this section.
 
    (2) On the date upon which a housing company submits a rent increase application to HPD pursuant to paragraph one of subdivision (a) of this section, such housing company shall notify the Tenants Association in writing that it has submitted such application and that the Tenants Association may retain an accountant and/or an engineer or architect to review the rent increase application upon approval as to form of such application by HPD.
 
@@ -1715,7 +1725,7 @@ Further resolved, that this resolution shall remain in full force and effect unl
 
    (4) A Tenants Association which has retained a professional or professionals to review a rent increase application that has been approved as to form by HPD shall submit a copy of the report and the bill for services of such professional or professionals to the housing company and to HPD at least seven days prior to the scheduled date of the hearing on such application.
 
-   (5) The total fees charged by a professional or professionals retained by a Tenants Association pursuant to this subdivision shall be the fair and reasonable cost of the services rendered by such professional or professionals, but shall not exceed in total the amounts specified in the following schedule:
+   (5) The total fees charged by a professional or professionals retained by a Tenants Association pursuant to this subdivision shall be the fair and reasonable cost of the services rendered by such professional or professionals, but shall not exceed in total the amounts specified in the following schedule: 
 
  
 
@@ -1775,7 +1785,7 @@ Further resolved, that this resolution shall remain in full force and effect unl
 
    (2) Bidding requirements.
 
-      (i) All contracts for the sub-metering of electricity shall be bid in accordance with § 3-07 of these rules.
+      (i) All contracts for the sub-metering of electricity shall be bid in accordance with 28 RCNY § 3-07.
 
       (ii) In the event that any director, officer, stockholder, employee or agent of any housing company shall be directly or indirectly connected with any person, firm, or corporation which may submit any bid, or to whom any contract is proposed or awarded, a statement setting forth the nature of such connection shall be included in the submission to HPD. In the case of a mutual housing company, it shall be made a part of the minutes.
 
@@ -1791,7 +1801,7 @@ Further resolved, that this resolution shall remain in full force and effect unl
 
    (1) A housing company whose project obtains electricity through a master meter may, pursuant to HPD approval, install equipment for the purpose of having electricity directly metered to each tenant/cooperator.
 
-   (2) The housing company shall submit to HPD for review, plans and specifications for installation of direct metering equipment. The bidding requirement set forth in § 3-07 of these rules shall be complied with.
+   (2) The housing company shall submit to HPD for review, plans and specifications for installation of direct metering equipment. The bidding requirement set forth in 28 RCNY § 3-07 shall be complied with.
 
    (3) At the time of request by the housing company for permission to direct meter a development, a copy of the request shall be sent by ordinary mail to all tenant/cooperators.
 
@@ -1881,7 +1891,7 @@ Further resolved, that this resolution shall remain in full force and effect unl
 
       (ii) A mutual housing company may request a waiver from the requirements of subparagraph (i) of paragraph two of this subdivision by making a written submission at least sixty days prior to the election of directors to the Assistant Commissioner of Housing Supervision.
 
-      (iii) When the cost of an independent election company meets the dollar threshold, the contract between the independent election company and the mutual housing company will require HPD's approval in accordance with § 3-07 of this chapter.
+      (iii) When the cost of an independent election company meets the dollar threshold, the contract between the independent election company and the mutual housing company will require HPD's approval in accordance with 28 RCNY § 3-07.
 
 (i) Voluntary dissolution.
 
@@ -2055,7 +2065,7 @@ Further resolved, that this resolution shall remain in full force and effect unl
 *§ 3-16 Managing Agents Agreements.* ::
 
 
-(a)  Managing agents agreement required. All housing companies are required to enter into written agreements for management services which must be approved in writing by HPD. This subdivision (a) applies to all agents, corporate or individual. Managing agent agreements are subject to the provisions of subdivision (e) of § 3-13 of this chapter regarding debarment.
+(a)  Managing agents agreement required. All housing companies are required to enter into written agreements for management services which must be approved in writing by HPD. This subdivision (a) applies to all agents, corporate or individual. Managing agent agreements are subject to the provisions of subdivision (e) of 28 RCNY § 3-13 regarding debarment.
 
 (b) Criteria for selection of managing agent.
 
@@ -2133,7 +2143,7 @@ Further resolved, that this resolution shall remain in full force and effect unl
 
    (17) carry out such other duties and responsibilities as may be stipulated by the housing company or HPD and as may be included in the management agreement.
 
-(f) Allocation of management expenses. In order to establish a uniform allocation of management expenses between the managing agent and the housing company, the below listed charges are allocated as follows:
+(f) Allocation of management expenses. In order to establish a uniform allocation of management expenses between the managing agent and the housing company, the below listed charges are allocated as follows: 
 
  
 
@@ -2141,10 +2151,10 @@ Further resolved, that this resolution shall remain in full force and effect unl
 .. list-table::
     :header-rows: 1
 
-    * - 
+    * -  
       - Charge to
       - 
-    * - 
+    * -  
       - Managing Agent 
       - Housing Company 
     * - (1)  Item of expense
@@ -2249,13 +2259,13 @@ Further resolved, that this resolution shall remain in full force and effect unl
 
    (3) Maximum brokerage commissions shall be permitted in accordance with the following schedule, based on the rentals charged the tenant:
 
-      First year or any fraction thereof            5%1/2
+      First year or any fraction thereof            5 1/2%
 
-      Second year or any fraction thereof         21/2%
+      Second year or any fraction thereof         2 1/2%
 
-      Third year up to and including the tenth year      2%1/2
+      Third year up to and including the tenth year      2 1/2%
 
-      Eleventh year up to and including the twentieth year   11/2%
+      Eleventh year up to and including the twentieth year   1 1/2%
 
    (4) Brokerage commissions earned and due the broker, shall be paid by the housing company in an amount not to exceed the dollar amount of the non-refundable security held by the housing company at the time the lease is approved by HPD. The balance due, if any, shall be paid when the tenant takes possession of the premises in accordance with the terms of the lease.
 
@@ -2347,7 +2357,7 @@ Further resolved, that this resolution shall remain in full force and effect unl
 *§ 3-19 Senior Citizen Rent Increase Exemption Program ("SCRIE").* ::
 
 
-(a)  Background and applicability. Local Law No. 40 of 1976 (§§ 26-601 et seq.) amended the Administrative Code of the City of New York in order to establish an exemption from rent increases for senior citizens who meet the eligibility requirements specified therein, and who reside in a dwelling unit whose rent is regulated or established pursuant to the provisions of Articles II, IV, V or XI of the Private Housing Finance Law. Amendments to the law in 1977 and 1978 made dwelling units in a dwelling subject to or initially subject to a mortgage insured by the federal government pursuant to § 213 of the National Housing Act (12 U.S.C. § 1715e) eligible for the exemption. The Administrative Code was subsequently further amended to include increases in charges due to capital assessments and voluntary capital contributions within the definition of "increase in maximum rent," and to require that rent increase exemptions and tax abatements granted for such assessments and contributions be paid back by the tenant/shareholder to the housing company, and by the housing company to the City, upon transfer of shares. The amendment regarding capital assessments specifically excluded any dwelling unit subject to a mortgage insured or initially insured by the federal government pursuant to § 213 of the National Housing Act, as amended (12 U.S.C. § 1715e). Subdivision (g) of § 3-19 implements the amendment to the Administrative Code. The rules set forth in this section implement Administrative Code §§ 26-601 et seq., and are applicable as provided therein. In addition, an amendment was passed on September 6, 1977 to allow portability for senior citizens receiving a subsidy under the rent and rehabilitation law, the rent stabilization law and Local Law 40 of 1976. Portability means that a senior citizen with a valid SCRIE subsidy may move within a development, and in addition, certificates issued by the Department for the Aging and HPD are interchangeable under conditions set forth in the law.
+(a)  Background and applicability. Local Law No. 40 of 1976 (§§ 26-601 et seq.) amended the Administrative Code of the City of New York in order to establish an exemption from rent increases for senior citizens who meet the eligibility requirements specified therein, and who reside in a dwelling unit whose rent is regulated or established pursuant to the provisions of Articles II, IV, V or XI of the Private Housing Finance Law. Amendments to the law in 1977 and 1978 made dwelling units in a dwelling subject to or initially subject to a mortgage insured by the federal government pursuant to § 213 of the National Housing Act (12 U.S.C. § 1715e) eligible for the exemption. The Administrative Code was subsequently further amended to include increases in charges due to capital assessments and voluntary capital contributions within the definition of "increase in maximum rent," and to require that rent increase exemptions and tax abatements granted for such assessments and contributions be paid back by the tenant/shareholder to the housing company, and by the housing company to the City, upon transfer of shares. The amendment regarding capital assessments specifically excluded any dwelling unit subject to a mortgage insured or initially insured by the federal government pursuant to § 213 of the National Housing Act, as amended (12 U.S.C. § 1715e). Subdivision (g) of 28 RCNY § 3-19 implements the amendment to the Administrative Code. The rules set forth in this section implement Administrative Code §§ 26-601 et seq., and are applicable as provided therein. In addition, an amendment was passed on September 6, 1977 to allow portability for senior citizens receiving a subsidy under the rent and rehabilitation law, the rent stabilization law and Local Law 40 of 1976. Portability means that a senior citizen with a valid SCRIE subsidy may move within a development, and in addition, certificates issued by the Department for the Aging and HPD are interchangeable under conditions set forth in the law.
 
 (b) Eligibility requirements.
 
@@ -2443,19 +2453,19 @@ Further resolved, that this resolution shall remain in full force and effect unl
 
 (a)  General. Certain limited profit housing companies have been refinanced under § 223(f) of the National Housing Act through the New York City Housing Development Corporation (HDC). Such housing companies remain subject to the provisions of the Private Housing Finance Law and the rules and regulations governing city-aided limited profit housing companies, except as provided otherwise by agreement with, or regulations of, the U.S. Department of Housing and Urban Development (HUD). In general, all matters involving management, maintenance, and operation shall be supervised by HUD except as otherwise set forth by statute or in this section. Compliance with the requirements of the Private Housing Finance Law shall continue to be supervised by HPD. To the extent that HUD should relinquish authority over matters such as rent setting and management supervision, those responsibilities shall revert back to HPD.
 
-(b) Tenant/cooperator income and eligibility requirements. Tenant/cooperator income and eligibility standards, as set forth in the Private Housing Finance Law and § 3-02 of these rules apply to housing companies refinanced under § 223(f). This includes, but is not limited to, rules regarding filing of applications, tenant/cooperator eligibility, maintenance of waiting lists, occupancy priorities, income verification at admission and during occupancy, occupancy standards and primary residence requirements. Refinanced housing companies shall not be required, however, to submit applications to HPD for its prior approval. Instead, a post-audit of applications shall be conducted by HPD. Notwithstanding the foregoing, HPD reserves the right, where violations of law or of HPD rules are found, to reinstitute temporarily or permanently, a requirement of prior review and approval of all applications for admission to or transfer within a development. In addition, HPD and/or the housing company shall conduct income verification audits periodically either as a result of a spot check or other procedures. Tenant/cooperators and members of their household selected for audit shall be required to provide certified copies of IRS or New York State income tax returns, as requested and shall assume the cost of such copies. In refinanced housing companies which have "236" mortgage interest subsidy contracts, the housing companies are required to meet HUD income limits, where they differ from HPD, and any other federal law or regulation which may apply unless they are violative of New York State laws. HPD rules must be met regarding such things as waiting lists and submission of rent rolls. HUD does not prescribe the form of waiting list for "236" developments. If a "236" housing company maintains a single bound waiting list in chronological order, it shall also be required to maintain lists by bedroom size in chronological order for HPD.
+(b) Tenant/cooperator income and eligibility requirements. Tenant/cooperator income and eligibility standards, as set forth in the Private Housing Finance Law and 28 RCNY § 3-02 apply to housing companies refinanced under § 223(f). This includes, but is not limited to, rules regarding filing of applications, tenant/cooperator eligibility, maintenance of waiting lists, occupancy priorities, income verification at admission and during occupancy, occupancy standards and primary residence requirements. Refinanced housing companies shall not be required, however, to submit applications to HPD for its prior approval. Instead, a post-audit of applications shall be conducted by HPD. Notwithstanding the foregoing, HPD reserves the right, where violations of law or of HPD rules are found, to reinstitute temporarily or permanently, a requirement of prior review and approval of all applications for admission to or transfer within a development. In addition, HPD and/or the housing company shall conduct income verification audits periodically either as a result of a spot check or other procedures. Tenant/cooperators and members of their household selected for audit shall be required to provide certified copies of IRS or New York State income tax returns, as requested and shall assume the cost of such copies. In refinanced housing companies which have "236" mortgage interest subsidy contracts, the housing companies are required to meet HUD income limits, where they differ from HPD, and any other federal law or regulation which may apply unless they are violative of New York State laws. HPD rules must be met regarding such things as waiting lists and submission of rent rolls. HUD does not prescribe the form of waiting list for "236" developments. If a "236" housing company maintains a single bound waiting list in chronological order, it shall also be required to maintain lists by bedroom size in chronological order for HPD.
 
-(c) Surcharge billing, collection and remittance. Refinanced housing companies are obligated to bill and collect surcharges. HPD will continue to supervise the billing and collection of surcharges as required by the Private Housing Finance Law and § 3-03 of this chapter. All agreements with managing agents must include a provision that it is the responsibility of the managing agent to bill and collect surcharges. Refinanced housing companies are obligated to recognize hardship cases as set forth in § 3-03 of these rules.
+(c) Surcharge billing, collection and remittance. Refinanced housing companies are obligated to bill and collect surcharges. HPD will continue to supervise the billing and collection of surcharges as required by the Private Housing Finance Law and 28 RCNY § 3-03. All agreements with managing agents must include a provision that it is the responsibility of the managing agent to bill and collect surcharges. Refinanced housing companies are obligated to recognize hardship cases as set forth in 28 RCNY § 3-03.
 
-(d) Housing company funds and bonds. The provisions of § 3-04 apply to § 223(f) housing companies.
+(d) Housing company funds and bonds. The provisions of 28 RCNY § 3-04 apply to § 223(f) housing companies.
 
-(e) Resale of cooperative shares. The provisions of the Private Housing Finance Law and § 3-06 of this chapter apply to mutual housing companies refinanced under § 223(f). These include, but are not limited to, the provision that a mutual company electing to amend its by-laws regarding sale of shares, shall submit to HPD for its approval, a Board of Directors Resolution certified and acknowledged by the Secretary of the Corporation setting forth the adoption of the amendment and a fully executed copy of a by-law amendment certified by the Secretary of the Corporation. In the case of § 223(f) refinanced mutual housing companies, where the appliances were included as security for the insured mortgage, the outgoing shareholder shall be required to leave behind the appliances which were in place at the time of refinancing or to replace them with appliances of equal size and amenities.
+(e) Resale of cooperative shares. The provisions of the Private Housing Finance Law and 28 RCNY § 3-06 apply to mutual housing companies refinanced under § 223(f). These include, but are not limited to, the provision that a mutual company electing to amend its by-laws regarding sale of shares, shall submit to HPD for its approval, a Board of Directors Resolution certified and acknowledged by the Secretary of the Corporation setting forth the adoption of the amendment and a fully executed copy of a by-law amendment certified by the Secretary of the Corporation. In the case of § 223(f) refinanced mutual housing companies, where the appliances were included as security for the insured mortgage, the outgoing shareholder shall be required to leave behind the appliances which were in place at the time of refinancing or to replace them with appliances of equal size and amenities.
 
-(f) Occupancy rights of family members and applicability of § 235-f of the Real Property Law. The provisions of § 3-02(o) and (p) apply to housing companies refinanced under § 223(f).
+(f) Occupancy rights of family members and applicability of § 235-f of the Real Property Law. The provisions of 28 RCNY § 3-02(o) and (p) apply to housing companies refinanced under § 223(f).
 
-(g) Joint ownership of shares. The provisions of § 3-06(c) of these rules [;and regulations]; apply to housing companies refinanced under § 223(f).
+(g) Joint ownership of shares. The provisions of 28 RCNY § 3-06(c) apply to housing companies refinanced under § 223(f).
 
-(h) Bequeathing of apartments. In no event may the right of occupancy in a unit in a refinanced housing company be bequeathed to another. Upon the death of the tenant/cooperator, the shares must be returned to the mutual housing company which will arrange for a sale pursuant to § 3-06(a) of this chapter. Notwithstanding the foregoing, eligible members of the tenant/cooperator's immediate family in occupancy may acquire such shares if they meet the requirements of § 3-02(p) of this chapter.
+(h) Bequeathing of apartments. In no event may the right of occupancy in a unit in a refinanced housing company be bequeathed to another. Upon the death of the tenant/cooperator, the shares must be returned to the mutual housing company which will arrange for a sale pursuant to 28 RCNY § 3-06(a). Notwithstanding the foregoing, eligible members of the tenant/cooperator's immediate family in occupancy may acquire such shares if they meet the requirements of 28 RCNY § 3-02(p).
 
 (i) Billing and collection of amounts due on subordinate mortgages. HPD shall bill and collect amounts due pursuant to the terms and conditions of the Subordinate Mortgage executed by each housing company in connection with its § 223(f) refinancing. Each housing company is required to submit on a timely basis an annual audited financial statement. Such statement shall indicate whether or not surplus cash, as defined in the Regulatory Agreement, is available. If surplus cash is available, and is required to be paid to the City of New York pursuant to the Disbursement Agreement, a payment equal to the amount of surplus cash shall accompany the submission of the audited financial statement.
 
@@ -2509,15 +2519,15 @@ Further resolved, that this resolution shall remain in full force and effect unl
 
    (2) obtain the prior written consent of HDC and HUD (and, where necessary, HPD) except that such notification and consent is not required to perform such minor repairs as do not require a permit from the City of New York Department of Buildings or to perform emergency repairs.
 
-(u) Lease terminations and renewals. HPD will apply the procedures set forth in § 3-18 of this chapter to all refinanced projects so that no eviction proceeding may be instituted against any tenant/cooperator continuing to pay his or her rent/carrying charges without the issuance by HPD of a certificate of eviction.
+(u) Lease terminations and renewals. HPD will apply the procedures set forth in 28 RCNY § 3-18 to all refinanced projects so that no eviction proceeding may be instituted against any tenant/cooperator continuing to pay his or her rent/carrying charges without the issuance by HPD of a certificate of eviction.
 
 (v) Notification of legal proceedings. The housing company or managing agent shall notify HPD, HDC and the Tenants Association of any litigation by or against the housing company which would have a material effect upon the financial condition of the housing company. Failure to notify HPD or the Tenants Association shall in no event be deemed to afford a defense to litigation.
 
-(w) Removal of Board of Directors. The provisions of the Private Housing Finance Law and § 3-13 of this chapter apply to housing companies refinanced under § 223(f).
+(w) Removal of Board of Directors. The provisions of the Private Housing Finance Law and 28 RCNY § 3-13 apply to housing companies refinanced under § 223(f).
 
-(x) Tenants Association. The provisions of the Private Housing Finance Law and § 3-17 of this chapter apply to rental housing companies refinanced under § 223(f).
+(x) Tenants Association. The provisions of the Private Housing Finance Law and 28 RCNY § 3-17 apply to rental housing companies refinanced under § 223(f).
 
-(y) Senior citizen rent increase exemption program. The provisions of the Private Housing Finance Law and § 3-19 of this chapter apply to housing companies refinanced under § 223(f).
+(y) Senior citizen rent increase exemption program. The provisions of the Private Housing Finance Law and 28 RCNY § 3-19 apply to housing companies refinanced under § 223(f).
 
 (z) Insurance. Refinanced housing companies must meet insurance requirements of HUD, HDC and HPD. HPD shall be named as an Additional Insured.
 
@@ -2663,21 +2673,21 @@ Actual Assessed Value. "Actual Assessed Value" means the value of a property for
 
 Administrative Code. "Administrative Code" means the Administrative Code of the City of New York, as amended.
 
-Alterations or improvements. "Alterations" or "improvements" means only those physical changes to an existing dwelling set forth in § 5-08.
+Alterations or improvements. "Alterations" or "improvements" means only those physical changes to an existing dwelling set forth in 28 RCNY § 5-08.
 
 Attorney General. "Attorney General" means the Attorney General of the State of New York.
 
-Bedroom. "Bedroom" means any living room as defined in § 27-2004 of the Housing Maintenance Code and § 4 of the Multiple Dwelling Law, after excluding the primary living room and the kitchen, except as provided in § 5-03(e)(2)(ii) and in § 5-03(e)(2)(iv).
+Bedroom. "Bedroom" means any living room as defined in § 27-2004 of the Housing Maintenance Code and § 4 of the Multiple Dwelling Law, after excluding the primary living room and the kitchen, except as provided in 28 RCNY § 5-03(e)(2)(ii) and in 28 RCNY § 5-03(e)(2)(iv).
 
 BLDS. "BLDS" means HPD's Division of Building and Land Development Services or any successor unit.
 
-BLDS Inspection. "BLDS Inspection" means an inspection by BLDS of the items of work that are claimed in an application submitted pursuant to § 5-05 of these Rules.
+BLDS Inspection. "BLDS Inspection" means an inspection by BLDS of the items of work that are claimed in an application submitted pursuant to 28 RCNY § 5-05.
 
 Building. "Building" means a complete or substantially complete permanent improvement for occupancy or use within prior to the commencement of construction of alterations, improvements or conversion, provided such improvement is permanently affixed to the land, and that such improvement, exclusive of the land, has an assessed valuation of more than one thousand dollars ($1,000) for the fiscal year immediately preceding the commencement of construction, provided that such assessed valuation test shall not apply to alterations, improvements or conversions is carried out with substantial governmental assistance.
 
 Building Permit. "Building Permit" means a permit that is issued by the Department of Buildings to authorize work on Conversions, Alterations or Improvements.
 
-Certificate of Eligibility and Reasonable Cost. "Certificate of Eligibility and Reasonable Cost" means the certificate issued by the Office pursuant to § 5-05(g)(3).
+Certificate of Eligibility and Reasonable Cost. "Certificate of Eligibility and Reasonable Cost" means the certificate issued by the Office pursuant to 28 RCNY § 5-05(g)(3).
 
 Certificate of Occupancy. "Certificate of Occupancy" means a Temporary Certificate of Occupancy or a Permanent Certificate of Occupancy.
 
@@ -2691,15 +2701,15 @@ Class B multiple dwelling. "Class B multiple dwelling" means a Class B multiple 
 
 Commencement of Construction.
 
-(a) For work requiring a permit, "Commencement of Construction" means:
+   (a) For work requiring a permit, "Commencement of Construction" means:
 
-   (1) the date of issuance of a Building Permit, or
+      (1) the date of issuance of a Building Permit, or
 
-   (2) if physical alterations commenced prior to obtaining a required Building Permit, the actual start date, or
+      (2) if physical alterations commenced prior to obtaining a required Building Permit, the actual start date, or
 
-   (3) for projects eligible pursuant to § 5-03(a)(1), (3), (4), (9) or (10), the actual Commencement of Construction in good faith based on prior issuance of a Building Permit. Demolition work does not constitute "Commencement of Construction."
+      (3) for projects eligible pursuant to 28 RCNY § 5-03(a)(1), (3), (4), (9) or (10), the actual Commencement of Construction in good faith based on prior issuance of a Building Permit. Demolition work does not constitute "Commencement of Construction."
 
-(b) If the issuance of a Building Permit is not required by law, Commencement of Construction means the date any physical operation has commenced solely for the purpose of making eligible Alterations or Improvements. The Office shall require that the Commencement of Construction date be confirmed by an affidavit of a registered architect or licensed professional engineer, along with such other information as the Office may require to substantiate such date, including, but not limited to, an affidavit from the owner, a copy of the work contract, invoices, cancelled checks and a contractor's affidavit. If an application contains a series of Major Capital Improvements, the Commencement of Construction date is that of the first Major Capital Improvement for which benefits are claimed.
+   (b) If the issuance of a Building Permit is not required by law, Commencement of Construction means the date any physical operation has commenced solely for the purpose of making eligible Alterations or Improvements. The Office shall require that the Commencement of Construction date be confirmed by an affidavit of a registered architect or licensed professional engineer, along with such other information as the Office may require to substantiate such date, including, but not limited to, an affidavit from the owner, a copy of the work contract, invoices, cancelled checks and a contractor's affidavit. If an application contains a series of Major Capital Improvements, the Commencement of Construction date is that of the first Major Capital Improvement for which benefits are claimed.
 
 Commissioner. "Commissioner" means the Commissioner of the Department of Housing Preservation and Development or his or her designee.
 
@@ -2707,23 +2717,23 @@ Common area. "Common area" means the area in an existing dwelling other than the
 
 Completion of Construction. "Completion of Construction" means the earlier of:
 
-(i) the date of issuance or reissuance of a Permanent Certificate of Occupancy;
+   (i) the date of issuance or reissuance of a Permanent Certificate of Occupancy;
 
-(ii) the date of issuance of a Temporary Certificate of Occupancy for all of the dwelling units therein, provided the only work remaining to secure a Permanent Certificate of Occupancy is work to be performed or completed in space to be used exclusively for non-residential purposes; or
+   (ii) the date of issuance of a Temporary Certificate of Occupancy for all of the dwelling units therein, provided the only work remaining to secure a Permanent Certificate of Occupancy is work to be performed or completed in space to be used exclusively for non-residential purposes; or
 
-(iii) the date of the issuance of a sign-off by the Department of Buildings as evidenced by the J-3, a computer printout or such other official documentation as may be required by the Department of Buildings and is acceptable to the Office if issued in connection with an eligible Conversion, Alteration or Improvement; provided, however, that
+   (iii) the date of the issuance of a sign-off by the Department of Buildings as evidenced by the J-3, a computer printout or such other official documentation as may be required by the Department of Buildings and is acceptable to the Office if issued in connection with an eligible Conversion, Alteration or Improvement; provided, however, that
 
-   (a) if none of the documents set forth above are required by law, "Completion of Construction" means that date on which physical operations to undertake Alterations or Improvements are concluded as confirmed by the submission of an affidavit of a registered architect or licensed professional engineer, along with such other information as the Office may require to substantiate such date, including, but not limited to, an affidavit from the owner, a copy of the work contract, invoices, cancelled checks and a contractor's affidavit;
+      (a) if none of the documents set forth above are required by law, "Completion of Construction" means that date on which physical operations to undertake Alterations or Improvements are concluded as confirmed by the submission of an affidavit of a registered architect or licensed professional engineer, along with such other information as the Office may require to substantiate such date, including, but not limited to, an affidavit from the owner, a copy of the work contract, invoices, cancelled checks and a contractor's affidavit;
 
-   (b) if the applicant is a Limited Profit Housing Company which owns and operates a planned unit development consisting of at least fifteen thousand (15,000) dwelling units, "Completion of Construction" means that date on which physical operations to undertake Alterations or Improvements are concluded as confirmed by the submission of an affidavit of a registered architect or licensed professional engineer, along with such other information as the Office may require to substantiate such date, including, but not limited to, an affidavit from the owner, a copy of the work contract, invoices, cancelled checks and a contractor's affidavit. Notwithstanding the foregoing, all required sign-offs including, but not limited to, the J-3 issued by the Department of Buildings, must be submitted to the Office before it issues a Certificate of Eligibility and Reasonable Cost pursuant to section 5-05(g)(3) of this chapter to such an applicant; and
+      (b) if the applicant is a Limited Profit Housing Company which owns and operates a planned unit development consisting of at least fifteen thousand (15,000) dwelling units, "Completion of Construction" means that date on which physical operations to undertake Alterations or Improvements are concluded as confirmed by the submission of an affidavit of a registered architect or licensed professional engineer, along with such other information as the Office may require to substantiate such date, including, but not limited to, an affidavit from the owner, a copy of the work contract, invoices, cancelled checks and a contractor's affidavit. Notwithstanding the foregoing, all required sign-offs including, but not limited to, the J-3 issued by the Department of Buildings, must be submitted to the Office before it issues a Certificate of Eligibility and Reasonable Cost pursuant to 28 RCNY § 5-05(g)(3) to such an applicant; and
 
-   (c) if an Alteration Type-1 Permit was issued to any applicant other than an applicant who is a Limited Profit Housing Company which owns and operates a planned unit development consisting of at least fifteen thousand (15,000) dwelling units, the only acceptable evidence of Completion of Construction shall be a Certificate of Occupancy.
+      (c) if an Alteration Type-1 Permit was issued to any applicant other than an applicant who is a Limited Profit Housing Company which owns and operates a planned unit development consisting of at least fifteen thousand (15,000) dwelling units, the only acceptable evidence of Completion of Construction shall be a Certificate of Occupancy.
 
 Condominium. "Condominium" means any dwelling unit that is owned pursuant to the Condominium Act and is situated in a Class A Multiple Dwelling that either (a) has had an Offering Plan accepted for filing by the Attorney General, (b) has received a "no action" letter from the Attorney General, or (c) has demonstrated that it is not subject to the requirements of § 352(e) of the General Business Law.
 
 Condominium Act. "Condominium Act" means Article IX-B of the Real Property Law.
 
-Conversion. "Conversion" means only those items of work set forth in § 5-08 which are necessary for the conversion of any building not a Class A multiple dwelling, into a Class A multiple dwelling. For purposes of eligibility for benefits, an interim multiple dwelling claiming benefits for conversion based on compliance with the standards of safety and fire protection set forth in Article 7-B of the Multiple Dwelling Law shall be deemed a Class A multiple dwelling.
+Conversion. "Conversion" means only those items of work set forth in 28 RCNY § 5-08 which are necessary for the conversion of any building not a Class A multiple dwelling, into a Class A multiple dwelling. For purposes of eligibility for benefits, an interim multiple dwelling claiming benefits for conversion based on compliance with the standards of safety and fire protection set forth in Article 7-B of the Multiple Dwelling Law shall be deemed a Class A multiple dwelling.
 
 Cooperative. "Cooperative" means any Building which is operated exclusively for the benefit of persons or families who are entitled to occupancy in dwelling units by reason of ownership of stock, membership, or other evidence of ownership in the corporate owner of the Building, or for the benefit of such persons or families entitled to occupancy in dwelling units under applicable provisions of law without ownership of stock, membership, or other evidence of ownership in the corporate owner of the Building, where such Building either (a) has had an Offering Plan accepted for filing by the Attorney General, (b) has received a "no action" letter from the Attorney General or (c) has demonstrated that it is not subject to the requirements of § 352(e) of the General Business Law.
 
@@ -2737,7 +2747,7 @@ Designated historic district or landmark site or structure. "Designated historic
 
 DHCR. "DHCR" means the New York State Division of Housing and Community Renewal.
 
-Disposition of Funds Statement. "Disposition of Funds Statement" means written confirmation of funds actually advanced for construction under a building loan agreement made pursuant to Article 8, 8-a, 11, 12, 15 or 22 of the Private Housing Finance Law, or § 312 of the United States Housing Act of 1964 (42 U.S.C. § 1452 b), or the Cranston-Gonzalez National Affordable Housing Act (42 U.S.C. §§ 12701 et seq.) or § 696-a or § 99(h) of the General Municipal Law, or any other City-supervised housing program, or, in the discretion of the Office, other governmentally supervised housing programs.
+Disposition of Funds Statement. "Disposition of Funds Statement" means written confirmation of funds actually advanced for construction under a building loan agreement made pursuant to Article 8, 8-a, 11, 12, 15 or 22 of the Private Housing Finance Law, or § 312 of the United States Housing Act of 1964 (42 U.S.C. § 1452b), or the Cranston-Gonzalez National Affordable Housing Act (42 U.S.C. §§ 12701 et seq.) or § 696-a or § 99(h) of the General Municipal Law, or any other City-supervised housing program, or, in the discretion of the Office, other governmentally supervised housing programs.
 
 Existing dwelling. "Existing dwelling" means a Class A multiple dwelling, including a garden-type maisonette dwelling project, or one or two Class A dwelling units in a building over space used for commercial occupancy which was in existence prior to the commencement of construction of alterations or improvements for which tax exemption or tax abatement is claimed under the terms of the Act, provided that a valuation for the improvement of more than one thousand dollars ($1,000), exclusive of the land, appears on the annual record of assessed valuation of the City for the fiscal year immediately preceding the commencement of construction of alterations or improvements, and provided further that such assessed valuation test shall not apply if the alterations, improvements or conversion are carried out with substantial governmental assistance.
 
@@ -2753,7 +2763,7 @@ Gross cubic content. "Gross cubic content" of a building means the volume within
 
 HDFC. "HDFC" means a housing development fund company organized pursuant to Article XI of the Private Housing Finance Law.
 
-Hotel. "Hotel" shall mean those buildings defined as Hotels by § 5-03(f)(4).
+Hotel. "Hotel" shall mean those buildings defined as Hotels by 28 RCNY § 5-03(f)(4).
 
 Housing Maintenance Code. "Housing Maintenance Code" means the Housing Maintenance Code of the City, constituting §§ 27-2001 et seq. of the Administrative Code, as amended.
 
@@ -2765,17 +2775,17 @@ Increase in gross cubic content. "Increase in gross cubic content" means any por
 
 Institutional lender. "Institutional lender" means any municipal, federal or state agency and any savings or commercial bank, life insurance company, public real estate investment company, pension fund or any other entity having assets in excess of fifty million dollars ($50,000,000), whose mortgage loans are subject to regulation of a federal or state agency.
 
-Itemized Cost Breakdown Schedule. "Itemized Cost Breakdown Schedule" means the schedule set out in § 5-08.
+Itemized Cost Breakdown Schedule. "Itemized Cost Breakdown Schedule" means the schedule set out in 28 RCNY § 5-08.
 
 Landmark. "Landmark" means an improvement which has been designated as a landmark by the Landmarks Preservation Commission of the City or which is within the boundaries of a historic district designated by the Landmarks Preservation Commission of the City.
 
 Limited Profit Housing Company. "Limited Profit Housing Company" means a limited profit housing company organized pursuant to Article II of the Private Housing Finance Law.
 
-Major capital improvement or MCI. "Major capital improvement" or "MCI" means only those items of work designated as major capital improvements (MCI's) and set forth, preceded by an asterisk, in § 5-08.
+Major capital improvement or MCI. "Major capital improvement" or "MCI" means only those items of work designated as major capital improvements (MCI's) and set forth, preceded by an asterisk, in 28 RCNY § 5-08.
 
-Minimum tax zone. "Minimum tax zone" means the area within the Borough of Manhattan in which tax abatement benefits are limited as set forth in § 5-06(e)(2).
+Minimum tax zone. "Minimum tax zone" means the area within the Borough of Manhattan in which tax abatement benefits are limited as set forth in 28 RCNY § 5-06(e)(2).
 
-Moderate rehabilitation. "Moderate rehabilitation" means a scope of work in a substantially occupied Class A multiple dwelling which includes a major capital improvement in not less than one of the five categories set forth in § 5-03(a)(6), and in which the certified reasonable cost, calculated as set forth in § 5-03(a)(6), equals or exceeds $2,500 (two thousand five hundred dollars) per dwelling unit, and meets the notice and filing requirements set forth in § 5-03(h)(1).
+Moderate rehabilitation. "Moderate rehabilitation" means a scope of work in a substantially occupied Class A multiple dwelling which includes a major capital improvement in not less than one of the five categories set forth in 28 RCNY § 5-03(a)(6), and in which the certified reasonable cost, calculated as set forth in 28 RCNY § 5-03(a)(6), equals or exceeds $2,500 (two thousand five hundred dollars) per dwelling unit, and meets the notice and filing requirements set forth in 28 RCNY § 5-03(h)(1).
 
 Mutual company. "Mutual company" shall have the same meaning as set forth in section two of the Private Housing Finance Law.
 
@@ -2791,13 +2801,13 @@ Ordinary repairs. "Ordinary repairs" means those items of work listed in the Ite
 
 Permanent Certificate of Occupancy. "Permanent Certificate of Occupancy" means a permanent certificate of occupancy that is issued by the Department of Buildings with respect to a Class A Multiple Dwelling for all dwelling units contained therein.
 
-Permanent residential use. "Permanent residential use" shall mean the lease of all residential units for residential purposes as set forth in § 5-03(f)(4).
+Permanent residential use. "Permanent residential use" shall mean the lease of all residential units for residential purposes as set forth in 28 RCNY § 5-03(f)(4).
 
 Private dwelling. "Private dwelling" means any building or structure which is either:
 
-(1) exclusively designed and occupied for residential purposes by not more than two families or
+   (1) exclusively designed and occupied for residential purposes by not more than two families or
 
-(2) for which the Department of Buildings has issued a Certificate of Occupancy which describes the building as intended exclusively for not more than two families. Private dwelling shall also be deemed to include a series of one or two-family dwelling units each of which faces or is accessible to a legal street or public thoroughfare, if each dwelling unit is equipped as a separate dwelling unit with all essential services, and if each such unit is arranged so that it may be approved as a legal one-family or two-family dwelling.
+   (2) for which the Department of Buildings has issued a Certificate of Occupancy which describes the building as intended exclusively for not more than two families. Private dwelling shall also be deemed to include a series of one or two-family dwelling units each of which faces or is accessible to a legal street or public thoroughfare, if each dwelling unit is equipped as a separate dwelling unit with all essential services, and if each such unit is arranged so that it may be approved as a legal one-family or two-family dwelling.
 
 Private Housing Finance Law. "Private Housing Finance Law" means the Private Housing Finance Law of the State of New York.
 
@@ -2813,9 +2823,9 @@ Single room occupancy. "Single room occupancy" means occupancy in a multiple dwe
 
 Substantial governmental assistance. "Substantial governmental assistance" shall mean a project carried out with grants, loans or subsidies from any federal, state or local agency or instrumentality, including, without limitation, financing or insurance provided by the State of New York Mortgage Agency and New York City Residential Mortgage Insurance Corporation, but shall not include (1) taxable bonds issued by a federal, state, or local agency or instrumentality, (2) purchase money mortgages from a federal, state or local agency or instrumentality, or (3) any grant, loan or subsidy from a federal, state or local agency or instrumentality which does not specifically require a program of affordable housing (e.g., energy conservation grants). In the discretion of the Office, a below market sale by a Federal, state or local agency or instrumentality or a written agreement with a Federal, state or local agency or instrumentality for development of affordable housing shall qualify as a subsidy.
 
-Substantial interest. "Substantial interest" as used in § 5-03(h)(2) shall mean ownership of an interest of ten percent (10%) or more in a property or entity owning property or sponsoring a conversion, alteration or improvement.
+Substantial interest. "Substantial interest" as used in 28 RCNY § 5-03(h)(2) shall mean ownership of an interest of ten percent (10%) or more in a property or entity owning property or sponsoring a conversion, alteration or improvement.
 
-Substantial rehabilitation. "Substantial rehabilitation" means any rehabilitation of a Class A multiple dwelling where the scope of work includes at least four of the systems listed in § 5-03(a)(6)(i), or where, for City-owned buildings or buildings conveyed by deed from the Commissioner of Finance eligible for benefits under § 5-03(a)(9), the scope of work includes rehabilitation work in at least four major systems in elevator buildings or three major systems in non-elevator buildings, and where major systems include heating, plumbing, electricity, elevator, windows and roof (replacement or covering with a new roof of at least seventy-five percent (75%) of the aggregate roof area), provided further that work done during City ownership or work financed by a City program but not eligible for benefits because outside of the required time limits, may be counted toward the required systems if the work was done and the system has a substantial remaining useful life at the time of application as evidenced by a certification by the Commissioner which may be based on such information as permits, sign-offs, disposition of funds statements, inspections or other program records.
+Substantial rehabilitation. "Substantial rehabilitation" means any rehabilitation of a Class A multiple dwelling where the scope of work includes at least four of the systems listed in 28 RCNY § 5-03(a)(6)(i), or where, for City-owned buildings or buildings conveyed by deed from the Commissioner of Finance eligible for benefits under 28 RCNY § 5-03(a)(9), the scope of work includes rehabilitation work in at least four major systems in elevator buildings or three major systems in non-elevator buildings, and where major systems include heating, plumbing, electricity, elevator, windows and roof (replacement or covering with a new roof of at least seventy-five percent (75%) of the aggregate roof area), provided further that work done during City ownership or work financed by a City program but not eligible for benefits because outside of the required time limits, may be counted toward the required systems if the work was done and the system has a substantial remaining useful life at the time of application as evidenced by a certification by the Commissioner which may be based on such information as permits, sign-offs, disposition of funds statements, inspections or other program records.
 
 Substantially occupied. "Substantially occupied" shall mean that at least sixty percent (60%) of the units in a building are occupied by permanent residential tenants immediately prior to the start of rehabilitation, during the entire period of rehabilitation (except for temporary periods of relocation in substantially governmentally assisted projects) and immediately subsequent to completion of construction of the rehabilitation.
 
@@ -2823,7 +2833,7 @@ Successor in interest. "Successor in interest" shall mean an institutional lende
 
 Supervising agency. "Supervising agency" shall have the same meaning as set forth in section two of the Private Housing Finance Law.
 
-Targeted Area. "Targeted Area" means a geographic area in the city of New York in the zip code listed below that has been determined by the department of health and mental hygiene to have high rates of children with environmental intervention blood lead levels:
+Targeted Area. "Targeted Area" means a geographic area in the city of New York in the zip code listed below that has been determined by the department of health and mental hygiene to have high rates of children with environmental intervention blood lead levels: 
 
  
 
@@ -2917,7 +2927,7 @@ Targeted Area. "Targeted Area" means a geographic area in the city of New York i
 
  
 
-Tax abatement exclusion zone. "Tax abatement exclusion zone" means the area within the Borough of Manhattan in which tax abatement benefits are limited as set forth in § 5-06(e)(3).
+Tax abatement exclusion zone. "Tax abatement exclusion zone" means the area within the Borough of Manhattan in which tax abatement benefits are limited as set forth in 28 RCNY § 5-06(e)(3).
 
 Temporary Certificate of Occupancy. "Temporary Certificate of Occupancy" means a temporary certificate of occupancy that is issued by the Department of Buildings with respect to a Class A multiple dwelling for all dwelling units contained therein.
 
@@ -2931,7 +2941,7 @@ Zoning Resolution. "Zoning Resolution" means the Zoning Resolution of the City, 
 *§ 5-03 Eligible Projects and Eligibility Requirements.* ::
 
 
-(a)  Eligible projects. Subject to the limitations relating to single room occupancy and permanent residential use set forth in §§ 5-03(f)(4), 5-04(a)(4) and 5-07(f)(1), the following classes of projects may be granted tax exemption and tax abatement:
+(a)  Eligible projects. Subject to the limitations relating to single room occupancy and permanent residential use set forth in 28 RCNY §§ 5-03(f)(4), 5-04(a)(4) and 5-07(f)(1), the following classes of projects may be granted tax exemption and tax abatement:
 
    (1) Conversion of any building or structure classified as a Class B multiple dwelling or a Class A multiple dwelling used for single room occupancy into a Class A multiple dwelling, but only if the conversion is carried out with substantial governmental assistance.
 
@@ -2941,7 +2951,7 @@ Zoning Resolution. "Zoning Resolution" means the Zoning Resolution of the City, 
 
    (4) Conversion permitted as of right by the Zoning Resolution of any non-residential Building or structure situated in the boroughs of the Bronx, Brooklyn, Queens or Staten Island into a Class A Multiple Dwelling, provided that the Conversion was completed prior to December 31, 2011.
 
-   (5) Alterations or improvements to the exterior of a building visible from a public street, provided the alterations or improvements are made pursuant to a Permit for Minor Work, Certificate of Appropriateness, or Certificate of No Effect issued by the Landmarks Preservation Commission with respect to a landmark and the building or structure is otherwise eligible and either an existing dwelling or a building other than a private dwelling, which is being converted into a Class A multiple dwelling. Such alterations are eligible for the full amount spent on the required work whether or not the work qualifies as an MCI, provided, however, that each item of work must appear on the Itemized Cost Breakdown Schedule as set forth in § 5-08.
+   (5) Alterations or improvements to the exterior of a building visible from a public street, provided the alterations or improvements are made pursuant to a Permit for Minor Work, Certificate of Appropriateness, or Certificate of No Effect issued by the Landmarks Preservation Commission with respect to a landmark and the building or structure is otherwise eligible and either an existing dwelling or a building other than a private dwelling, which is being converted into a Class A multiple dwelling. Such alterations are eligible for the full amount spent on the required work whether or not the work qualifies as an MCI, provided, however, that each item of work must appear on the Itemized Cost Breakdown Schedule as set forth in 28 RCNY § 5-08.
 
    (6) Alterations or improvements constituting a moderate rehabilitation of a substantially occupied Class A multiple dwelling, provided the project meets all the conditions set forth below:
 
@@ -2985,9 +2995,9 @@ Zoning Resolution. "Zoning Resolution" means the Zoning Resolution of the City, 
 
       (iii) For the purpose of moderate rehabilitation, a Class A multiple dwelling is substantially occupied if at least sixty percent (60%) of the units are occupied by permanent residential tenants immediately prior to the start of rehabilitation, during the entire period of rehabilitation (except, in substantially governmentally assisted projects, for temporary periods of relocation pursuant to a governmentally supervised plan of temporary relocation) and immediately subsequent to completion of construction of the rehabilitation.
 
-   (7) Alterations or improvements to an existing dwelling; provided that such items of work are set forth in § 5-08 and are necessary to eliminate presently existing unhealthy or dangerous conditions or to replace inadequate and obsolete sanitary facilities, including asbestos abatement to the extent required by any federal, state or local law.
+   (7) Alterations or improvements to an existing dwelling; provided that such items of work are set forth in 28 RCNY § 5-08 and are necessary to eliminate presently existing unhealthy or dangerous conditions or to replace inadequate and obsolete sanitary facilities, including asbestos abatement to the extent required by any federal, state or local law.
 
-   (8) Alterations or improvements designated as energy conservation items in § 5-08. In order to be eligible pursuant to this paragraph the building being altered or improved must be an existing dwelling.
+   (8) Alterations or improvements designated as energy conservation items in 28 RCNY § 5-08. In order to be eligible pursuant to this paragraph the building being altered or improved must be an existing dwelling.
 
    (9) Alterations or improvements commenced on or after September 1, 1987 constituting a substantial rehabilitation of a Class A multiple dwelling or a conversion of a building or structure into a Class A multiple dwelling as part of a program to provide housing for low and moderate income households, provided that:
 
@@ -3001,13 +3011,13 @@ Zoning Resolution. "Zoning Resolution" means the Zoning Resolution of the City, 
 
 (b) Eligible items of work: major capital improvements.
 
-   (1) Items of work designated as major capital improvements in the itemized cost breakdown schedule contained in § 5-08 shall be eligible for tax benefits. Except for purposes of § 5-03(c)(1)(iii), any item of work set forth in § 5-08 shall also be considered a major capital improvement if done pursuant to an Alteration Type-I Permit issued by the Department of Buildings or if it is part of the scope of work of a moderate rehabilitation.
+   (1) Items of work designated as major capital improvements in the itemized cost breakdown schedule contained in 28 RCNY § 5-08 shall be eligible for tax benefits. Except for purposes of 28 RCNY § 5-03(c)(1)(iii), any item of work set forth in 28 RCNY § 5-08 shall also be considered a major capital improvement if done pursuant to an Alteration Type-I Permit issued by the Department of Buildings or if it is part of the scope of work of a moderate rehabilitation.
 
-   (2) An existing dwelling shall not be eligible to receive tax abatement or tax exemption for any item of work designated as a major capital improvement if it is receiving tax abatement or tax exemption for the same or a similar major capital improvement at the time of application for tax benefits, except as provided in § 5-04(b)(4).
+   (2) An existing dwelling shall not be eligible to receive tax abatement or tax exemption for any item of work designated as a major capital improvement if it is receiving tax abatement or tax exemption for the same or a similar major capital improvement at the time of application for tax benefits, except as provided in 28 RCNY § 5-04(b)(4).
 
 (c) Eligible items of work: ordinary repairs.
 
-   (1) Ordinary repairs are those items of work listed in the Itemized Cost Breakdown Schedule which are not preceded by an asterisk. The replacement of any component part of any item of work listed in § 5-08 is also an ordinary repair. Ordinary repairs are not eligible for tax abatement unless they are:
+   (1) Ordinary repairs are those items of work listed in the Itemized Cost Breakdown Schedule which are not preceded by an asterisk. The replacement of any component part of any item of work listed in 28 RCNY § 5-08 is also an ordinary repair. Ordinary repairs are not eligible for tax abatement unless they are:
 
       (i) Made to a common area; and are
 
@@ -3021,9 +3031,9 @@ Zoning Resolution. "Zoning Resolution" means the Zoning Resolution of the City, 
 
       (ii) Done pursuant to an Alteration Type-I Permit issued by the Department of Buildings; or
 
-      (iii) Done as part of a moderate rehabilitation pursuant to § 5-03(a)(6) provided, however, that only major capital improvements shall be counted to meet the requirement of § 5-03(a)(6)(ii) that the CRC for a moderate rehabilitation must equal or exceed an average of two thousand five hundred dollars ($2,500) per dwelling unit; or
+      (iii) Done as part of a moderate rehabilitation pursuant to 28 RCNY § 5-03(a)(6) provided, however, that only major capital improvements shall be counted to meet the requirement of 28 RCNY § 5-03(a)(6)(ii) that the CRC for a moderate rehabilitation must equal or exceed an average of two thousand five hundred dollars ($2,500) per dwelling unit; or
 
-      (iv) In the case of projects described in § 5-03(a)(9), done pursuant to an Alteration Type-II Permit.
+      (iv) In the case of projects described in 28 RCNY § 5-03(a)(9), done pursuant to an Alteration Type-II Permit.
 
    (2) The certified reasonable cost for ordinary repairs may not exceed twice the amount actually expended on the designated concurrent major capital improvement, exclusive of any such ordinary repairs.
 
@@ -3031,7 +3041,7 @@ Zoning Resolution. "Zoning Resolution" means the Zoning Resolution of the City, 
 
 (d) Time Requirements.
 
-   (1) In order to receive tax benefits pursuant to the Act, eligible projects, except for conversions described in § 5-03(a)(2), must be completed as follows:
+   (1) In order to receive tax benefits pursuant to the Act, eligible projects, except for conversions described in 28 RCNY § 5-03(a)(2), must be completed as follows:
 
       (A) for eligible projects that are completed prior to December 31, 2011, within thirty-six months following the Commencement of Construction;
 
@@ -3043,19 +3053,19 @@ Zoning Resolution. "Zoning Resolution" means the Zoning Resolution of the City, 
 
    (2-a) For a project with multiple Buildings eligible for the sixty-month completion period established pursuant to subparagraph (C) of paragraph one of this subdivision in which all of the Buildings in such project are not completed within such period, separate applications for benefits may be filed either for: (A) different items of governmentally-assisted work completed within such sixty-month period, or (B) benefits for separate Buildings or separate groups of Buildings that are on the same tax block and lot and are completed within such sixty-month period, provided that separate Building Permits are in effect for each such filing.
 
-   (3) In order to receive the tax benefits pursuant to the Act, an application for a Certificate of Eligibility and Reasonable Cost must be filed with the Office after the Completion of Construction and (A) for Conversions, Alterations or Improvements completed before December 31, 2011, not later than forty-eight months following the Commencement of Construction, (B) for Conversions, Alterations or Improvements completed on or after December 31, 2011, not later than thirty-six months following the Commencement of Construction, or (C) for applications for benefits pursuant to § 5-03(a)(2) of these Rules, not later than twelve months following the Completion of Construction.
+   (3) In order to receive the tax benefits pursuant to the Act, an application for a Certificate of Eligibility and Reasonable Cost must be filed with the Office after the Completion of Construction and (A) for Conversions, Alterations or Improvements completed before December 31, 2011, not later than forty-eight months following the Commencement of Construction, (B) for Conversions, Alterations or Improvements completed on or after December 31, 2011, not later than thirty-six months following the Commencement of Construction, or (C) for applications for benefits pursuant to 28 RCNY § 5-03(a)(2), not later than twelve months following the Completion of Construction.
 
    (4) At the discretion of the Commissioner, the time to file an application for a Certificate of Eligibility and Reasonable Cost may be extended to not later than seventy-two months following the Commencement of Construction for any project that is carried out with Substantial Governmental Assistance.
 
-   (5) An application for a Certificate of Eligibility and Reasonable Cost must contain all documentation required by § 5-05 of the Rules and be completed and filed with the Office as follows:
+   (5) An application for a Certificate of Eligibility and Reasonable Cost must contain all documentation required by 28 RCNY § 5-05 and be completed and filed with the Office as follows:
 
       (A) for Conversions, Alterations or Improvements that are completed before December 31, 2011, within twenty-four months of the initial filing date with the Office;
 
       (B) for Conversions, Alterations or Improvements that are completed on or after December 31, 2011, within twelve months of the initial filing date with the Office; or
 
-      (C) for projects carried out with Substantial Governmental Assistance that have received a Temporary Certificate of Eligibility and Reasonable Cost, within one year of the Completion of Construction. If the application is not completed in accordance with subparagraphs (A)-(C) of this paragraph five, it shall be deemed withdrawn at the end of the tax quarter in which the application completion deadline set forth above falls, and no tax benefits shall be authorized for the Conversion, Alterations or Improvements made thereunder. The applicant is referred to § 5-05 for detailed filing requirements. Applicants must notify the Office of any change of address and/or change of ownership of the property, and any change in the designated filing agent.
+      (C) for projects carried out with Substantial Governmental Assistance that have received a Temporary Certificate of Eligibility and Reasonable Cost, within one year of the Completion of Construction. If the application is not completed in accordance with subparagraphs (A)-(C) of this paragraph five, it shall be deemed withdrawn at the end of the tax quarter in which the application completion deadline set forth above falls, and no tax benefits shall be authorized for the Conversion, Alterations or Improvements made thereunder. The applicant is referred to 28 RCNY § 5-05 for detailed filing requirements. Applicants must notify the Office of any change of address and/or change of ownership of the property, and any change in the designated filing agent.
 
-   (6) Notwithstanding the provisions contained in paragraph five of this subdivision, if the applicant is a Limited Profit Housing Company that owns and operates a planned unit development consisting of at least fifteen thousand (15,000) dwelling units, an application for a Certificate of Eligibility and Reasonable Cost must contain all documentation required by § 5-05 and be completed and filed with the Office within twenty-four months of the initial filing date with the Office. If such application is not so completed and filed with the Office within twenty-four months of the initial filing date, the application shall be deemed withdrawn at the end of the tax quarter in which the twenty-fourth (24th) month falls, and no tax benefits shall be authorized for the Conversion, Alterations or Improvements made thereunder.
+   (6) Notwithstanding the provisions contained in paragraph five of this subdivision, if the applicant is a Limited Profit Housing Company that owns and operates a planned unit development consisting of at least fifteen thousand (15,000) dwelling units, an application for a Certificate of Eligibility and Reasonable Cost must contain all documentation required by 28 RCNY § 5-05 and be completed and filed with the Office within twenty-four months of the initial filing date with the Office. If such application is not so completed and filed with the Office within twenty-four months of the initial filing date, the application shall be deemed withdrawn at the end of the tax quarter in which the twenty-fourth (24th) month falls, and no tax benefits shall be authorized for the Conversion, Alterations or Improvements made thereunder.
 
 (e) Construction and maintenance requirements.
 
@@ -3071,7 +3081,7 @@ Zoning Resolution. "Zoning Resolution" means the Zoning Resolution of the City, 
 
       (iv) For purposes of the bedroom count requirement set forth in subparagraphs (i) and (ii) above, dwelling units which contain a combined living/dining/kitchen space in excess of three hundred and twenty-five square feet may be deemed to include both a kitchen and living room, so that any additional rooms may be considered bedrooms, under subparagraphs (i) and (ii) above.
 
-   (3) No building shall be eligible to receive benefits pursuant to the Act unless all of the dwelling units contained therein are Class A dwelling units as defined in § 4 of the Multiple Dwelling Law, and have complete sanitary facilities and a complete kitchen or kitchenette for the exclusive use of the person or family residing in such unit, provided, however, if a building contains both Class A and Class B units, benefits may be pro-rated as set forth in § 5-03(f)(4). Class B units may be eligible to apply to the Office for tax benefits pursuant to § 11-244 of the Administrative Code.
+   (3) No building shall be eligible to receive benefits pursuant to the Act unless all of the dwelling units contained therein are Class A dwelling units as defined in § 4 of the Multiple Dwelling Law, and have complete sanitary facilities and a complete kitchen or kitchenette for the exclusive use of the person or family residing in such unit, provided, however, if a building contains both Class A and Class B units, benefits may be pro-rated as set forth in 28 RCNY § 5-03(f)(4). Class B units may be eligible to apply to the Office for tax benefits pursuant to § 11-244 of the Administrative Code.
 
 (f) Rent regulatory requirements.
 
@@ -3101,7 +3111,7 @@ Zoning Resolution. "Zoning Resolution" means the Zoning Resolution of the City, 
 
          (B) if each lease and renewal thereof for such unit for the tenant in residence at the time of the expiration of the tax benefits has included a notice in at least twelve point type informing such tenant that the unit shall become subject to deregulation upon the expiration of the tax benefits and stating the approximate date on which tax benefits are to expire, such dwelling unit shall be deregulated after tax benefits are no longer being received for the building, unless the unit is otherwise subject to rent regulation.
 
-      (ii) As provided in § 39-03, rent regulation shall not be terminated by the waiver or revocation of tax benefits.
+      (ii) As provided in 28 RCNY § 39-03, rent regulation shall not be terminated by the waiver or revocation of tax benefits.
 
       (iii) Rent regulation of dwelling units shall not be exempted or terminated other than as set forth in this subdivision (f) as long as benefits are in force.
 
@@ -3117,7 +3127,7 @@ Zoning Resolution. "Zoning Resolution" means the Zoning Resolution of the City, 
 
 (g) Eligibility rules for Cooperatives and Condominiums.
 
-   (1) Buildings owned as Cooperatives or Condominiums are eligible for tax exemption pursuant to the Act, provided that the work is eligible pursuant to § 5-03(a) of the Rules.
+   (1) Buildings owned as Cooperatives or Condominiums are eligible for tax exemption pursuant to the Act, provided that the work is eligible pursuant to 28 RCNY § 5-03(a).
 
    (2) Eligibility for tax abatement is limited to: (i) Alterations or Improvements completed prior to or within thirty-six months following the date (a) of the first closing of a Condominium unit to a bona fide purchaser or (b) on which the first shares allocable to a Cooperative unit are conveyed to a bona fide purchaser, or
 
@@ -3133,23 +3143,23 @@ Zoning Resolution. "Zoning Resolution" means the Zoning Resolution of the City, 
 
          (C) [Reserved.]
 
-         (D) The maximum amount of tax abatement which may be applied against taxes due in any tax year by any cooperative or condominium claiming benefits under this § 5-03(g)(2)(iv) shall be limited to two thousand five hundred dollars ($2,500) per dwelling unit.
+         (D) The maximum amount of tax abatement which may be applied against taxes due in any tax year by any cooperative or condominium claiming benefits under this 28 RCNY § 5-03(g)(2)(iv) shall be limited to two thousand five hundred dollars ($2,500) per dwelling unit.
 
          (E) Notwithstanding anything to the contrary contained in this subparagraph (iv), the availability of any benefits pursuant to the Act to any multiple dwelling, Building or structure owned and operated by a Limited Profit Housing Company or a Redevelopment Company shall not be conditioned upon the Actual Assessed Value of such multiple dwelling, Building or structure, including land, as calculated as an average dollar amount per dwelling unit, at the time of Commencement of Construction, provided, that such Limited Profit Housing Company or Redevelopment Company (1) is organized and operating as a Mutual Company or a Mutual Redevelopment Company, respectively, (2) continues to be organized and operated as a Mutual Company or a Mutual Redevelopment Company, respectively, and to own and operate the multiple dwelling, Building or structure receiving such benefits, and (3) has entered into a binding and irrevocable agreement with the commissioner of housing of the state of New York, the Supervising Agency, the New York city housing development corporation, or the New York state housing finance agency prohibiting, respectively, either (A) the dissolution or reconstitution of such Limited Profit Housing Company pursuant to section thirty-five of the Private Housing Finance Law for not less than fifteen years from the date of commencement of such benefits, or (B) the dissolution or reconstitution of such Redevelopment Company pursuant to section one hundred twenty-three of the Private Housing Finance Law until the earlier to occur of fifteen years from the date of commencement of such benefits, or the expiration of any tax exemption granted to such Redevelopment Company pursuant to section one hundred twenty-five of the Private Housing Finance Law.
 
-      (v) For purposes of determining the number of rooms in applying the limitations contained in § 5-03(g)(2)(iv), the number of zoning rooms shall be used unless there is no filing with the Department of Buildings indicating the number of zoning rooms, in which case the number shall be:
+      (v) For purposes of determining the number of rooms in applying the limitations contained in 28 RCNY § 5-03(g)(2)(iv), the number of zoning rooms shall be used unless there is no filing with the Department of Buildings indicating the number of zoning rooms, in which case the number shall be:
 
          (A) the number of rooms as evidenced in the Offering Plan, or
 
          (B) at the discretion of the Office, the number of rooms as certified by a licensed architect.
 
-      (vi) Where the Building is occupied in part for residential purposes and in part for non-residential purposes, the Actual Assessed Value of the property shall be allocated by the Office between the residential and the non-residential portions based on pro rata Floor Area, unless the non-residential portion is on a separately assessed tax lot, in which case only the amount of Actual Assessed Value allocated to the residential portion shall be considered in computing the Actual Assessed Value per dwelling unit for purposes of § 5-03(g)(2)(iv).
+      (vi) Where the Building is occupied in part for residential purposes and in part for non-residential purposes, the Actual Assessed Value of the property shall be allocated by the Office between the residential and the non-residential portions based on pro rata Floor Area, unless the non-residential portion is on a separately assessed tax lot, in which case only the amount of Actual Assessed Value allocated to the residential portion shall be considered in computing the Actual Assessed Value per dwelling unit for purposes of 28 RCNY § 5-03(g)(2)(iv).
 
 (h) Special requirements for moderate rehabilitation and special non-harassment provisions.
 
    (1) Special requirements for moderate rehabilitation.
 
-      (i) In order to be eligible for tax benefits pursuant to § 5-03(a)(6), an applicant must:
+      (i) In order to be eligible for tax benefits pursuant to 28 RCNY § 5-03(a)(6), an applicant must:
 
          (A) Not more than one hundred eighty days nor less than thirty days prior to the commencement of construction of rehabilitation, complete form MR-1 (notice to tenants) and send it by registered or certified mail, return receipt requested, to all tenants residing in the building to be rehabilitated and post a copy conspicuously in the building lobby; and
 
@@ -3159,7 +3169,7 @@ Zoning Resolution. "Zoning Resolution" means the Zoning Resolution of the City, 
 
       (iii) In the discretion of the Office, in lieu of the requirements established by subparagraphs (i) and (ii) of this paragraph (1), the applicant may establish by proof satisfactory to the Office that it has provided notice to HPD and to the tenants residing in the building to be rehabilitated of (A) the proposed work prior to commencement of such work, (B) the identity of the owner's representative, and (C) the tenants' rights under applicable law with respect to such work.
 
-   (2) Special non-harassment provisions. In order to be eligible for any tax exemption pursuant to the Act, irrespective of the cost of the conversion, alteration or improvement, or to be eligible for tax abatement when the CRC per dwelling unit exceeds seven thousand five hundred dollars ($7,500) (including the cost of any conversion, alteration or improvement for which an abatement was approved within four years prior to commencement of construction of the contemplated project), the owner of the property shall file with the Office, not less than thirty days before the commencement of construction of the conversion, alteration or improvement (the "cut-off date"), an affidavit, or, at the time of application, a late filing affidavit or, where any information referred to in § 5-03(h)(2)(i) below changes prior to applying for or claiming any benefit under this subdivision (h), an amended affidavit, setting forth the following information:
+   (2) Special non-harassment provisions. In order to be eligible for any tax exemption pursuant to the Act, irrespective of the cost of the conversion, alteration or improvement, or to be eligible for tax abatement when the CRC per dwelling unit exceeds seven thousand five hundred dollars ($7,500) (including the cost of any conversion, alteration or improvement for which an abatement was approved within four years prior to commencement of construction of the contemplated project), the owner of the property shall file with the Office, not less than thirty days before the commencement of construction of the conversion, alteration or improvement (the "cut-off date"), an affidavit, or, at the time of application, a late filing affidavit or, where any information referred to in 28 RCNY § 5-03(h)(2)(i) below changes prior to applying for or claiming any benefit under this subdivision (h), an amended affidavit, setting forth the following information:
 
       (i) every owner or record and owner of a substantial interest in the property or entity owning the property or sponsoring the conversion, alteration or improvement;
 
@@ -3173,7 +3183,7 @@ Zoning Resolution. "Zoning Resolution" means the Zoning Resolution of the City, 
 
       (ii) any such affidavit contains a willful misrepresentation or omission of any material fact; or
 
-      (iii) any person referred to in § 5-03(h)(2)(i) has been found to have harassed or unlawfully evicted tenants until and unless the finding is reversed on appeal, provided that any such finding after the cut-off date shall not apply to or affect any tax abatement or exemption for the conversion, alteration or improvement covered by the affidavit.
+      (iii) any person referred to in 28 RCNY § 5-03(h)(2)(i) has been found to have harassed or unlawfully evicted tenants until and unless the finding is reversed on appeal, provided that any such finding after the cut-off date shall not apply to or affect any tax abatement or exemption for the conversion, alteration or improvement covered by the affidavit.
 
 
 
@@ -3189,7 +3199,7 @@ Zoning Resolution. "Zoning Resolution" means the Zoning Resolution of the City, 
 
    (2) Any building for which real estate taxes, water or sewer charges, payments in lieu of taxes, emergency repair or relocation liens are due and owing or not satisfied of record as of the last day of the tax quarter preceding the submission date of the Certificate of Eligibility to the Department of Finance, provided that a property rehabilitated by a loan pursuant to Article 8 or Article 15 of the Private Housing Finance Law shall not be ineligible pursuant to this section if there are no real estate taxes or water and sewer charges due and owing as of the last day of a tax quarter preceding commencement of construction of such rehabilitation. The benefits of tax exemption and tax abatement shall not be denied to any property pursuant to this section on account of unpaid real estate taxes, water or sewer charges provided the applicant or his predecessor in title has entered into an installment agreement with the City pursuant to §§ 11-401 et seq. of the Administrative Code and all payments required by said installment agreement have been paid when due.
 
-   (3) Any multiple dwelling which results from the conversion of a private dwelling except as provided in § 5-03(a)(11).
+   (3) Any multiple dwelling which results from the conversion of a private dwelling except as provided in 28 RCNY § 5-03(a)(11).
 
    (4) The conversion, alteration or improvement, commenced on or after July 1, 1982, of any Class B multiple dwelling or Class A multiple dwelling used in whole or in part for single room occupancy regardless of the status or use of the building after the conversion, alteration or improvement, unless such conversion, alteration or improvement is carried out with substantial governmental assistance.
 
@@ -3205,7 +3215,7 @@ Zoning Resolution. "Zoning Resolution" means the Zoning Resolution of the City, 
 
       (i) which is located within any district in the County of New York where a floor area ratio, as that term is defined in the Zoning Resolution, of fifteen or greater is permitted by said resolution, or
 
-      (ii) located in the City where residential conversion as-of-right is not permitted by said resolution, unless construction actually commenced in the County of New York prior to January 1, 1982, or in the Counties of Kings, Queens, Richmond or the Bronx prior to October 1, 1983, pursuant to an alteration permit, or unless the building is eligible for the benefits of the Act pursuant to § 5-03(a)(2).
+      (ii) located in the City where residential conversion as-of-right is not permitted by said resolution, unless construction actually commenced in the County of New York prior to January 1, 1982, or in the Counties of Kings, Queens, Richmond or the Bronx prior to October 1, 1983, pursuant to an alteration permit, or unless the building is eligible for the benefits of the Act pursuant to 28 RCNY § 5-03(a)(2).
 
    (8) Any conversion commenced on or after June 28, 1988 of any property classified under the Zoning Resolution as a non-profit institution with sleeping accommodations, unless such conversion is carried out with substantial governmental assistance.
 
@@ -3241,7 +3251,7 @@ Zoning Resolution. "Zoning Resolution" means the Zoning Resolution of the City, 
 
       (i) a report by an independent certified public accountant on the cost of the Conversion, Alterations or Improvements, in a form prescribed by the Office and in accordance with standards approved by the Office and based upon the books and records of the owner provided that the original records are retained as set forth in 28 RCNY § 5-07(e)(3) and 28 RCNY § 39-06(a) and are available for audit purposes; or
 
-      (ii) A Disposition of Funds Statement or certification by the Commissioner of the cost of the work based upon other program records where the Conversion, Alterations or Improvements are undertaken aided by a loan made pursuant to Article 8, 8-a, 11, 12, 15 or 22 of the Private Housing Finance Law or § 312 of the United States Housing Act of 1964 (42 U.S.C. § 1452 b), or the Cranston-Gonzalez National Affordable Housing Act (42 U.S.C. §§ 12701 et seq.) or § 696-a or § 99(h) of the General Municipal Law, or any other City-supervised housing program, or, in the discretion of the Office, other governmentally-supervised housing program; or
+      (ii) A Disposition of Funds Statement or certification by the Commissioner of the cost of the work based upon other program records where the Conversion, Alterations or Improvements are undertaken aided by a loan made pursuant to Article 8, 8-a, 11, 12, 15 or 22 of the Private Housing Finance Law or § 312 of the United States Housing Act of 1964 (42 U.S.C. § 1452b), or the Cranston-Gonzalez National Affordable Housing Act (42 U.S.C. §§ 12701 et seq.) or § 696-a or § 99(h) of the General Municipal Law, or any other City-supervised housing program, or, in the discretion of the Office, other governmentally-supervised housing program; or
 
       (iii) In the discretion of the Office, paid bills, cancelled checks, installment agreements, and the work contract and any change orders, indicating work, location of Building, and quantity in appropriate unit of measurement all in a form corresponding to the individual items on the Itemized Cost Breakdown Schedule so that the claimed costs can be audited by HPD against the specific items and allowances contained in such schedules; or
 
@@ -3289,7 +3299,7 @@ Zoning Resolution. "Zoning Resolution" means the Zoning Resolution of the City, 
 
    (3) A copy of the prospectus or offering plan which has been accepted for filing by the Attorney General, and all subsequent amendments which become effective prior to the time the Office issues a Certificate of Eligibility and Reasonable Cost for any cooperative or condominium eligible for tax abatement pursuant to 28 RCNY § 5-03(g).
 
-   (4) Provided, however, if benefits are being claimed under 28 RCNY § 5-03(g)(2)(iii) or 28 RCNY § 5-03(g)(2)(iv), evidence shall be submitted with respect to assessed valuation per unit and the average per room sale price during the three years preceding the application in a form prescribed by the Office.
+   (4) Provided, however, if benefits are being claimed under 28 RCNY § 5-03(g)(2)(iii) or (g)(2)(iv), evidence shall be submitted with respect to assessed valuation per unit and the average per room sale price during the three years preceding the application in a form prescribed by the Office.
 
 (e) Additional documentation for certain alterations or improvements. Certain alterations and improvements require the approval of designated agencies and such additional documentation as the Office shall require. The "Schedule of Required Information, Permits and Sign-offs" set forth in 28 RCNY § 5-09 contains a list of the documentation that the Office requires for specific alterations and improvements.
 
@@ -3347,7 +3357,7 @@ Zoning Resolution. "Zoning Resolution" means the Zoning Resolution of the City, 
 
 (a)  Tax Exemption.
 
-   (1) Except as provided in § 489(9) of the Real Property Tax Law, for a period of fourteen years, or thirty-four years if the eligible project was a moderate rehabilitation or a project eligible under § 5-03(a)(9), any increase in assessed valuation of properties which receive a Certificate of Eligibility and Reasonable Cost shall be exempt from taxation on any increase in assessed valuation resulting from the certified reasonable cost of the alteration, improvement or conversion performed pursuant to the Act. If the conversion, alteration or improvement results in an increase in the gross cubic content of the building, the portion of the building which represents the additional cubic content shall not be exempt from any increase in assessed valuation. In the case of fourteen year exemptions, any increase in assessed value which results from an alteration, improvement or conversion shall be fully exempt for ten years and such exemption shall be reduced by twenty per cent (20%) in each succeeding year. In the case of thirty-four year exemptions, any increase in assessed value which results from an alteration, improvement or conversion shall be fully exempt for thirty years and such exemption shall be reduced by twenty per cent (20%) in each succeeding year.
+   (1) Except as provided in § 489(9) of the Real Property Tax Law, for a period of fourteen years, or thirty-four years if the eligible project was a moderate rehabilitation or a project eligible under 28 RCNY § 5-03(a)(9), any increase in assessed valuation of properties which receive a Certificate of Eligibility and Reasonable Cost shall be exempt from taxation on any increase in assessed valuation resulting from the certified reasonable cost of the alteration, improvement or conversion performed pursuant to the Act. If the conversion, alteration or improvement results in an increase in the gross cubic content of the building, the portion of the building which represents the additional cubic content shall not be exempt from any increase in assessed valuation. In the case of fourteen year exemptions, any increase in assessed value which results from an alteration, improvement or conversion shall be fully exempt for ten years and such exemption shall be reduced by twenty per cent (20%) in each succeeding year. In the case of thirty-four year exemptions, any increase in assessed value which results from an alteration, improvement or conversion shall be fully exempt for thirty years and such exemption shall be reduced by twenty per cent (20%) in each succeeding year.
 
    (2) The land improved by a building with a Certificate of Eligibility and Reasonable Cost shall not be exempt from an increase in assessed valuation. An increase in assessed valuation resulting from an alteration, improvement or conversion other than one made pursuant to the Act shall not be exempt.
 
@@ -3359,7 +3369,7 @@ Zoning Resolution. "Zoning Resolution" means the Zoning Resolution of the City, 
 
          (A) Aided by a loan made pursuant to Article 8, 8-a or 15 of the Private Housing Finance Law; or
 
-         (B) Aided by a loan made pursuant to § 312 of the United States Housing Act of 1964 (42 U.S.C. § 1452 b); or
+         (B) Aided by a loan made pursuant to § 312 of the United States Housing Act of 1964 (42 U.S.C. § 1452b); or
 
          (C) Started after July 1, 1983 by a housing development fund company organized under Article 11 of the Private Housing Finance Law and carried out either
 
@@ -3371,11 +3381,11 @@ Zoning Resolution. "Zoning Resolution" means the Zoning Resolution of the City, 
 
          (E) Started after July 1, 1992, and aided by a loan or grant under Article 11, 12 or 22 of the Private Housing Finance Law, § 696-a (Article 16) or § 99(h) of the General Municipal Law, or the Cranston-Gonzalez National Affordable Housing Act (42 U.S.C. §§ 12701 et seq.).
 
-      (iii) A Temporary Certificate of Eligibility may be issued in the discretion of the Office for projects eligible for tax benefits pursuant to § 5-06(a)(3)(ii) above.
+      (iii) A Temporary Certificate of Eligibility may be issued in the discretion of the Office for projects eligible for tax benefits pursuant to 28 RCNY § 5-06(a)(3)(ii) above.
 
 (b) Tax exemption limitation.
 
-   (1) Except for special circumstances enumerated in paragraph (4) of this subdivision (b), property in the Borough of Manhattan south of or adjacent to the south side of one hundred tenth street with an average assessed valuation per dwelling unit of thirty-eight thousand dollars ($38,000) or more after completion of construction, calculated by dividing the amount of the total assessed valuation of the residential portion of the property as determined under the Real Property Tax Law by the number of dwelling units in the building after completion of construction of the conversion, alteration or improvement, shall not be eligible for a tax exemption. The amount of assessed valuation that will be exempt from taxation shall be calculated pursuant to the following table:
+   (1) Except for special circumstances enumerated in paragraph (4) of this subdivision (b), property in the Borough of Manhattan south of or adjacent to the south side of one hundred tenth street with an average assessed valuation per dwelling unit of thirty-eight thousand dollars ($38,000) or more after completion of construction, calculated by dividing the amount of the total assessed valuation of the residential portion of the property as determined under the Real Property Tax Law by the number of dwelling units in the building after completion of construction of the conversion, alteration or improvement, shall not be eligible for a tax exemption. The amount of assessed valuation that will be exempt from taxation shall be calculated pursuant to the following table: 
 
  
 
@@ -3388,13 +3398,13 @@ Zoning Resolution. "Zoning Resolution" means the Zoning Resolution of the City, 
     * - $18,000 or less 
       - 100% 
     * - $18,001 – $22,000 
-      -   75% 
+      - 75% 
     * - $22,001 – $26,000 
-      -   50% 
+      - 50% 
     * - $26,001 – $30,000 
-      -   25% 
+      - 25% 
     * - $30,001 – $37,999 
-      -  0% 
+      - 0% 
     * - $38,000 or more 
       - No exemption granted 
 ~
@@ -3421,35 +3431,35 @@ Zoning Resolution. "Zoning Resolution" means the Zoning Resolution of the City, 
 
    (6) Further exceptions to assessed valuation limit. The following conversions, alterations, and improvements are not subject to the limitations set forth in paragraphs (1) and (2) of this subdivision (b).
 
-      (i) Alterations or improvements under § 5-03(a)(6); and
+      (i) Alterations or improvements under 28 RCNY § 5-03(a)(6); and
 
-      (ii) Conversions of residential units covered by Article 7-C of the Multiple Dwelling Law under § 5-03(a)(2); and
+      (ii) Conversions of residential units covered by Article 7-C of the Multiple Dwelling Law under 28 RCNY § 5-03(a)(2); and
 
-      (iii) Alterations or improvements under paragraphs (5), (7) or (8) of § 5-03(a) when carried out:
+      (iii) Alterations or improvements under paragraphs (5), (7) or (8) of 28 RCNY § 5-03(a) when carried out:
 
-         (A) with substantial governmental assistance, or with the aid of grants, loans or subsidies from any not-for-profit philanthropic organization one of whose primary purposes is providing housing affordable to persons of low or moderate income as defined in § 5-06(b)(4)(ii); or
+         (A) with substantial governmental assistance, or with the aid of grants, loans or subsidies from any not-for-profit philanthropic organization one of whose primary purposes is providing housing affordable to persons of low or moderate income as defined in 28 RCNY § 5-06(b)(4)(ii); or
 
          (B) with mortgage insurance by the New York City Residential Mortgage Insurance Corporation or the State of New York Mortgage Agency; or
 
-         (C) within the areas in New York County set forth in § 5-10; or
+         (C) within the areas in New York County set forth in 28 RCNY § 5-10; or
 
-         (D) pursuant to a program established by the Federal Housing Administration, Federal National Mortgage Association, Federal Home Loan Mortgage Corporation or Government National Mortgage Association for the rehabilitation of existing multiple dwellings for persons of low or moderate income, or a program of mortgage insurance for the rehabilitation of existing multiple dwellings pursuant to § 223(f) of the National Housing Act, as amended, or a program of mortgage insurance established by the Federal Housing Administration for the rehabilitation of existing multiple dwellings for persons of low or moderate income; provided that properties receiving benefits under such programs are located in a neighborhood strategy area, as defined by HUD (24 C.F.R. Part 881), or in one of the neighborhood preservation areas listed in § 5-10.
+         (D) pursuant to a program established by the Federal Housing Administration, Federal National Mortgage Association, Federal Home Loan Mortgage Corporation or Government National Mortgage Association for the rehabilitation of existing multiple dwellings for persons of low or moderate income, or a program of mortgage insurance for the rehabilitation of existing multiple dwellings pursuant to § 223(f) of the National Housing Act, as amended, or a program of mortgage insurance established by the Federal Housing Administration for the rehabilitation of existing multiple dwellings for persons of low or moderate income; provided that properties receiving benefits under such programs are located in a neighborhood strategy area, as defined by HUD (24 C.F.R. Part 881), or in one of the neighborhood preservation areas listed in 28 RCNY § 5-10.
 
-   (7) Assessed valuation limits for projects commenced prior to June 1, 1986. Conversions, alterations and improvements commenced after September 15, 1983 and before June 1, 1986 are subject to the exemption limitations set forth in § 5-06(b) whether they are located in Manhattan or in any other Borough of the City, unless they qualify under one of the exceptions to the assessed valuation limit set forth in § 5-06(b)(6), or are located in a designated neighborhood preservation area, as listed in § 5-06(d)(3)(iii)(C). For purposes of this subdivision (b), the Clinton neighborhood preservation area is exempt from the assessed valuation limits of § 5-06(b) only for conversions, alterations and improvements commenced prior to June 28, 1988.
+   (7) Assessed valuation limits for projects commenced prior to June 1, 1986. Conversions, alterations and improvements commenced after September 15, 1983 and before June 1, 1986 are subject to the exemption limitations set forth in 28 RCNY § 5-06(b) whether they are located in Manhattan or in any other Borough of the City, unless they qualify under one of the exceptions to the assessed valuation limit set forth in 28 RCNY § 5-06(b)(6), or are located in a designated neighborhood preservation area, as listed in 28 RCNY § 5-06(d)(3)(iii)(C). For purposes of this subdivision (b), the Clinton neighborhood preservation area is exempt from the assessed valuation limits of 28 RCNY § 5-06(b) only for conversions, alterations and improvements commenced prior to June 28, 1988.
 
 (c) Tax abatement.
 
    (1) Enriched abatement. In the case of
 
-      (i) alterations or improvements carried out pursuant to § 5-03(a)(6) which are carried out with substantial governmental assistance or with the aid of grants, loans or subsidies from any not-for-profit philanthropic organization one of whose primary purposes is providing low or moderate income housing or financed with mortgage insurance by the New York City Residential Mortgage Insurance Corporation or the State of New York Mortgage Agency or pursuant to a program established by the Federal Housing Administration for rehabilitation of existing multiple dwellings in a neighborhood strategy area, as defined by HUD (24 C.F.R. Part 881); or
+      (i) alterations or improvements carried out pursuant to 28 RCNY § 5-03(a)(6) which are carried out with substantial governmental assistance or with the aid of grants, loans or subsidies from any not-for-profit philanthropic organization one of whose primary purposes is providing low or moderate income housing or financed with mortgage insurance by the New York City Residential Mortgage Insurance Corporation or the State of New York Mortgage Agency or pursuant to a program established by the Federal Housing Administration for rehabilitation of existing multiple dwellings in a neighborhood strategy area, as defined by HUD (24 C.F.R. Part 881); or
 
       (ii) any conversion, alteration or improvement of property located in census tracts in which seventy-five percent (75%) or more of the population live in households which earn fifty percent (50%) or less of the median household income of the City, involving substantial governmental assistance; or
 
-      (iii) any alteration, improvement or conversion carried out pursuant to § 5-03(a)(9); the abatement of taxes on such property, including the land shall not exceed the lesser of the total actual cost of the alterations, improvements or conversion or one hundred fifty percent (150%) of the total certified reasonable cost of the alterations or improvements, and the annual abatement of taxes shall not exceed twelve and one-half percent (12.5%) of such certified reasonable cost.
+      (iii) any alteration, improvement or conversion carried out pursuant to 28 RCNY § 5-03(a)(9); the abatement of taxes on such property, including the land shall not exceed the lesser of the total actual cost of the alterations, improvements or conversion or one hundred fifty percent (150%) of the total certified reasonable cost of the alterations or improvements, and the annual abatement of taxes shall not exceed twelve and one-half percent (12.5%) of such certified reasonable cost.
 
    (2) Maximum annual and aggregate abatement.
 
-      (i) In all cases not qualifying for the enriched abatement described in § 5-06(c)(1), the maximum annual and aggregate abatement for each of the eligible projects listed in § 5-03(a) is as follows: 
+      (i) In all cases not qualifying for the enriched abatement described in 28 RCNY § 5-06(c)(1), the maximum annual and aggregate abatement for each of the eligible projects listed in 28 RCNY § 5-03(a) is as follows: 
 
  
 
@@ -3471,61 +3481,61 @@ Zoning Resolution. "Zoning Resolution" means the Zoning Resolution of the City, 
 .. list-table::
     :header-rows: 1
 
-    * - 
-      - § 5-03(a)(1) 
+    * -  
+      - 28 RCNY § 5-03(a)(1) 
       - 8 1/3% of CRC 
       - 90% of CRC 
     * - *
-      - § 5-03(a)(1) 
+      - 28 RCNY § 5-03(a)(1) 
       - 8 1/3% of CRC 
       - 50% of CRC 
-    * - 
-      - § 5-03(a)(2) 
+    * -  
+      - 28 RCNY § 5-03(a)(2) 
       - 8 1/3% of CRC 
       - 90% of CRC 
     * - **
-      - § 5-03(a)(2) 
+      - 28 RCNY § 5-03(a)(2) 
       - 8 1/3% of CRC 
       - 50% of CRC 
-    * - 
-      - § 5-03(a)(3) 
+    * -  
+      - 28 RCNY § 5-03(a)(3) 
       - 8 1/3% of CRC 
       - 50% of CRC 
-    * - 
-      - § 5-03(a)(4) 
+    * -  
+      - 28 RCNY § 5-03(a)(4) 
       - 8 1/3% of CRC 
       - 90% of CRC 
     * - ***
-      - § 5-03(a)(5) 
+      - 28 RCNY § 5-03(a)(5) 
       - 8 1/3% of CRC 
       - 90% of CRC 
     * - ****
-      - § 5-03(a)(6) 
+      - 28 RCNY § 5-03(a)(6) 
       - 8 1/3% of CRC 
       - 100% of CRC 
-    * - 
-      - § 5-03(a)(7) 
+    * -  
+      - 28 RCNY § 5-03(a)(7) 
       - 8 1/3% of CRC 
       - 90% of CRC 
     * - *****
-      - § 5-03(a)(8) 
+      - 28 RCNY § 5-03(a)(8) 
       - 8 1/3% of CRC 
       - 90% of CRC* 
-    * - 
-      - § 5-03(a)(10) 
+    * -  
+      - 28 RCNY § 5-03(a)(10) 
       - 8 1/3% of CRC 
       - 90% of CRC 
     * - *****
-      - § 5-03(a)(11) 
+      - 28 RCNY § 5-03(a)(11) 
       - 8 1/3% of CRC 
       - 90% of CRC 
     * - ******
-      - § 5-03(a)(6) 
-      - 121/2% of CRC 
+      - 28 RCNY § 5-03(a)(6) 
+      - 12 1/2% of CRC 
       - 150% of CRC 
     * - ******
-      - § 5-03(a)(9) 
-      - 121/2% of CRC 
+      - 28 RCNY § 5-03(a)(9) 
+      - 12 1/2% of CRC 
       - 150% of CRC 
 ~
 
@@ -3539,9 +3549,9 @@ Zoning Resolution. "Zoning Resolution" means the Zoning Resolution of the City, 
 
 *****    Only eligible for 50% of CRC if done in connection with a non-residential conversion located within the County of New York.
 
-******    Pursuant to § 5-06(c)(1): governmentally-assisted moderate rehabilitation and substantial rehabilitation.
+******    Pursuant to 28 RCNY § 5-06(c)(1): governmentally-assisted moderate rehabilitation and substantial rehabilitation.
 
-      (ii) In cases qualifying for the enriched abatement described above in § 5-06(c)(1), the maximum aggregate and annual abatement is:
+      (ii) In cases qualifying for the enriched abatement described above in 28 RCNY § 5-06(c)(1), the maximum aggregate and annual abatement is:
 
    (3) Tax abatement shall commence as follows:
 
@@ -3557,7 +3567,7 @@ Zoning Resolution. "Zoning Resolution" means the Zoning Resolution of the City, 
 
          (C) if commencement of construction occurred after July 1, 1992, Article 11, 12 or 22 of the Private Housing Finance Law or § 696-a (Article 16) or § 99(h) of the General Municipal Law or the Cranston-Gonzalez National Affordable Housing Act (42 U.S.C. §§ 12701 et seq.).
 
-   (4) Taxes may be abated each year by the amount specified in the § 5-06(c), provided that in no event may taxes be abated for more than twenty years nor may the abatement in any twelve month period exceed the amount of taxes payable in such twelve month period.
+   (4) Taxes may be abated each year by the amount specified in the 28 RCNY § 5-06(c), provided that in no event may taxes be abated for more than twenty years nor may the abatement in any twelve month period exceed the amount of taxes payable in such twelve month period.
 
 (d) Tax abatement limitations. 
 
@@ -3571,13 +3581,13 @@ Zoning Resolution. "Zoning Resolution" means the Zoning Resolution of the City, 
 
     * - Number of Rooms Per Dwelling Units 
       - Maximum Eligible CRC 
-    * - 21/2
+    * - 2 1/2 
       - $12,600 
-    * - 31/2
+    * - 3 1/2 
       - $15,000 
-    * - 41/2
+    * - 4 1/2 
       - $17,400 
-    * - 51/2
+    * - 5 1/2 
       - $19,800 
 ~
 
@@ -3587,29 +3597,29 @@ Zoning Resolution. "Zoning Resolution" means the Zoning Resolution of the City, 
 
    (2) Enriched dollar limit. An abatement may exceed the limitations set forth in paragraph (1) of this subdivision (d) by a maximum of twenty-five percent (25%) of the applicable limitation if, upon written request of the applicant, the Office determines that:
 
-      (i) in the case of a conversion pursuant to paragraphs (1), (2), (3) or (4) of § 5-03(a), the increased cost is necessary to comply with applicable law; or
+      (i) in the case of a conversion pursuant to paragraphs (1), (2), (3) or (4) of 28 RCNY § 5-03(a), the increased cost is necessary to comply with applicable law; or
 
-      (ii) in the case of an alteration or improvement pursuant to § 5-03(a)(7), the increased cost is necessary to eliminate unhealthy or dangerous conditions or replace inadequate and obsolete sanitary facilities in a satisfactory manner; or
+      (ii) in the case of an alteration or improvement pursuant to 28 RCNY § 5-03(a)(7), the increased cost is necessary to eliminate unhealthy or dangerous conditions or replace inadequate and obsolete sanitary facilities in a satisfactory manner; or
 
-      (iii) in the case of an alteration or improvement pursuant to § 5-03(a)(8), the increased cost is necessary to conserve energy in a satisfactory manner; or
+      (iii) in the case of an alteration or improvement pursuant to 28 RCNY § 5-03(a)(8), the increased cost is necessary to conserve energy in a satisfactory manner; or
 
-      (iv) in the case of an alteration or improvement pursuant to § 5-03(a)(5), the increased cost, to the extent such cost is not offset by any and all tax credits received as a result of the alteration or improvement, is necessary to comply with any provision of law regulating historic or landmark buildings or structures.
+      (iv) in the case of an alteration or improvement pursuant to 28 RCNY § 5-03(a)(5), the increased cost, to the extent such cost is not offset by any and all tax credits received as a result of the alteration or improvement, is necessary to comply with any provision of law regulating historic or landmark buildings or structures.
 
    (3) Exceptions to dollar limit. The following conversions, alterations, and improvements are not subject to the limitations set forth in paragraphs (1) and (2) of this subdivision (d), but are subject to the limitations of paragraph (4) of this subdivision (d).
 
-      (i) alterations or improvements under § 5-03(a)(6); and
+      (i) alterations or improvements under 28 RCNY § 5-03(a)(6); and
 
-      (ii) conversions of residential units covered by Article 7-C of the Multiple Dwelling Law under § 5-03(a)(2); and
+      (ii) conversions of residential units covered by Article 7-C of the Multiple Dwelling Law under 28 RCNY § 5-03(a)(2); and
 
-      (iii) alterations or improvements under paragraphs (5), (7) and (8) of § 5-03(a) when carried out:
+      (iii) alterations or improvements under paragraphs (5), (7) and (8) of 28 RCNY § 5-03(a) when carried out:
 
-         (A) with substantial governmental assistance or with the aid of grants, loans or subsidies from any not-for-profit philanthropic organization one of whose primary purposes is providing housing affordable to persons of low or moderate income as defined in § 5-06(b)(4)(ii); or
+         (A) with substantial governmental assistance or with the aid of grants, loans or subsidies from any not-for-profit philanthropic organization one of whose primary purposes is providing housing affordable to persons of low or moderate income as defined in 28 RCNY § 5-06(b)(4)(ii); or
 
          (B) with mortgage insurance provided by the New York City Residential Mortgage Insurance Corporation or the State of New York Mortgage Agency; or
 
-         (C) within the areas set forth in § 5-10; or
+         (C) within the areas set forth in 28 RCNY § 5-10; or
 
-         (D) pursuant to a program established by the Federal Housing Administration, Federal National Mortgage Association, Federal Home Loan Mortgage Corporation or Government National Mortgage Association for the rehabilitation of existing multiple dwellings for persons of low or moderate income, or a program of mortgage insurance for the rehabilitation of existing multiple dwellings pursuant to § 223(f) of the National Housing Act as amended, or a program of mortgage insurance established by the Federal Housing Administration for the rehabilitation of existing multiple dwellings for persons of low or moderate income; provided that properties receiving benefits under such programs are located in a neighborhood strategy area, as defined by HUD (24 C.F.R. Part 881), or in one of the neighborhood preservation areas listed in § 5-10.
+         (D) pursuant to a program established by the Federal Housing Administration, Federal National Mortgage Association, Federal Home Loan Mortgage Corporation or Government National Mortgage Association for the rehabilitation of existing multiple dwellings for persons of low or moderate income, or a program of mortgage insurance for the rehabilitation of existing multiple dwellings pursuant to § 223(f) of the National Housing Act as amended, or a program of mortgage insurance established by the Federal Housing Administration for the rehabilitation of existing multiple dwellings for persons of low or moderate income; provided that properties receiving benefits under such programs are located in a neighborhood strategy area, as defined by HUD (24 C.F.R. Part 881), or in one of the neighborhood preservation areas listed in 28 RCNY § 5-10.
 
    (4) (i) Tax abatement for a multiple dwelling shall be available only if:
 
@@ -3623,13 +3633,13 @@ Zoning Resolution. "Zoning Resolution" means the Zoning Resolution of the City, 
 
          (B) multiple dwellings in which units have been newly created by substantial rehabilitation of vacant buildings or conversions; or
 
-         (C) alterations or improvements under § 5-03(a)(6); or
+         (C) alterations or improvements under 28 RCNY § 5-03(a)(6); or
 
-         (D) conversions of residential units covered by Article 7-C of the Multiple Dwelling Law under § 5-03(a)(2); or
+         (D) conversions of residential units covered by Article 7-C of the Multiple Dwelling Law under 28 RCNY § 5-03(a)(2); or
 
-         (E) alterations or improvements under paragraphs (5), (7) and (8) of § 5-03(a) when carried out: (a)  with substantial governmental assistance or with the aid of grants, loans or subsidies from any not-for-profit philanthropic organization one of whose primary purposes is providing housing affordable to persons of low or moderate income as defined in § 5-06(b)(4)(ii); or (b)  with mortgage insurance provided by the New York City Residential Mortgage Insurance Corporation or the State of New York Mortgage Agency; or (c)  within the areas set forth in § 5-10; or (d)  pursuant to a program established by the Federal Housing Administration, Federal National Mortgage Association, Federal Home Loan Mortgage Corporation or Government National Mortgage Association for the rehabilitation of existing multiple dwellings for persons of low or moderate income, or a program of mortgage insurance for the rehabilitation of existing multiple dwellings pursuant to § 223(f) of the National Housing Act as amended, or a program of mortgage insurance established by the Federal Housing Administration for the rehabilitation of existing multiple dwellings for persons of low or moderate income; provided that properties receiving benefits under such programs are located in a neighborhood strategy area, as defined by HUD (24 C.F.R. Part 881), or in one of the neighborhood preservation areas listed in § 5-10.
+         (E) alterations or improvements under paragraphs (5), (7) and (8) of 28 RCNY § 5-03(a) when carried out: (a)  with substantial governmental assistance or with the aid of grants, loans or subsidies from any not-for-profit philanthropic organization one of whose primary purposes is providing housing affordable to persons of low or moderate income as defined in 28 RCNY § 5-06(b)(4)(ii); or (b)  with mortgage insurance provided by the New York City Residential Mortgage Insurance Corporation or the State of New York Mortgage Agency; or (c)  within the areas set forth in 28 RCNY § 5-10; or (d)  pursuant to a program established by the Federal Housing Administration, Federal National Mortgage Association, Federal Home Loan Mortgage Corporation or Government National Mortgage Association for the rehabilitation of existing multiple dwellings for persons of low or moderate income, or a program of mortgage insurance for the rehabilitation of existing multiple dwellings pursuant to § 223(f) of the National Housing Act as amended, or a program of mortgage insurance established by the Federal Housing Administration for the rehabilitation of existing multiple dwellings for persons of low or moderate income; provided that properties receiving benefits under such programs are located in a neighborhood strategy area, as defined by HUD (24 C.F.R. Part 881), or in one of the neighborhood preservation areas listed in 28 RCNY § 5-10.
 
-   (5) Tax abatement benefits shall not be available to any limited-profit housing company established pursuant to article two of the Private Housing Finance Law to reduce taxes beneath the applicable statutory minimum tax, provided however, the benefits of the Act shall apply to alterations and improvements commenced after June 1, 1986 by any such company provided the project is otherwise eligible. Such multiple dwelling shall be eligible for benefits where at least one building-wide major capital improvement as set forth in § 5-03(a)(6)(i) or a new roof (at least seventy-five percent (75%) of the aggregate roof area is replaced or covered with new roofing) or building-wide submetering of all individual dwelling units is part of the application for benefits. Furthermore, to the extent that such alterations or improvements are financed with grants, loans or subsidies from any federal, state or local agency or instrumentality, such multiple dwelling, building or structure, shall be eligible for benefits only if the limited-profit housing company has entered into a binding and irrevocable agreement with the commissioner of housing of the state of New York, the supervising agency, the New York city housing development corporation, or the New York state housing finance agency prohibiting the dissolution or reconstitution of such limited-profit housing company pursuant to section thirty-five of the Private Housing Finance Law for not less than fifteen years from the commencement of benefits. The abatement of taxes on such property, including the land, shall not be an amount greater than ninety percent (90%) of the certified reasonable cost of such alterations or improvements, nor greater than eight and one-third percent (81/3%) of such certified reasonable cost in any twelve month period, nor be effective for more than twenty years. The annual abatement of taxes in any twelve month period shall in no event exceed fifty percent (50%) of the applicable exemption granted pursuant to article two of the Private Housing Finance Law or other applicable laws or fifty percent (50%) of payments required to be made in lieu of taxes in such twelve month period. Notwithstanding the foregoing, the annual abatement of taxes for alterations or improvements commenced prior to June 1, 1986, may not be applied to reduce the amount of taxes payable or the amount of payments required to be made in lieu of taxes in any twelve month period to an amount less than the minimum amount of taxes required to be paid pursuant to § 3 of the Private Housing Finance Law (ten percent (10%) of shelter rent or assessed value at time of acquisition of the property by the housing company, whichever is higher).
+   (5) Tax abatement benefits shall not be available to any limited-profit housing company established pursuant to article two of the Private Housing Finance Law to reduce taxes beneath the applicable statutory minimum tax, provided however, the benefits of the Act shall apply to alterations and improvements commenced after June 1, 1986 by any such company provided the project is otherwise eligible. Such multiple dwelling shall be eligible for benefits where at least one building-wide major capital improvement as set forth in 28 RCNY § 5-03(a)(6)(i) or a new roof (at least seventy-five percent (75%) of the aggregate roof area is replaced or covered with new roofing) or building-wide submetering of all individual dwelling units is part of the application for benefits. Furthermore, to the extent that such alterations or improvements are financed with grants, loans or subsidies from any federal, state or local agency or instrumentality, such multiple dwelling, building or structure, shall be eligible for benefits only if the limited-profit housing company has entered into a binding and irrevocable agreement with the commissioner of housing of the state of New York, the supervising agency, the New York city housing development corporation, or the New York state housing finance agency prohibiting the dissolution or reconstitution of such limited-profit housing company pursuant to section thirty-five of the Private Housing Finance Law for not less than fifteen years from the commencement of benefits. The abatement of taxes on such property, including the land, shall not be an amount greater than ninety percent (90%) of the certified reasonable cost of such alterations or improvements, nor greater than eight and one-third percent (8 1/3%) of such certified reasonable cost in any twelve month period, nor be effective for more than twenty years. The annual abatement of taxes in any twelve month period shall in no event exceed fifty percent (50%) of the applicable exemption granted pursuant to article two of the Private Housing Finance Law or other applicable laws or fifty percent (50%) of payments required to be made in lieu of taxes in such twelve month period. Notwithstanding the foregoing, the annual abatement of taxes for alterations or improvements commenced prior to June 1, 1986, may not be applied to reduce the amount of taxes payable or the amount of payments required to be made in lieu of taxes in any twelve month period to an amount less than the minimum amount of taxes required to be paid pursuant to § 3 of the Private Housing Finance Law (ten percent (10%) of shelter rent or assessed value at time of acquisition of the property by the housing company, whichever is higher).
 
 (e) Restricted eligibility projects.
 
@@ -3639,7 +3649,7 @@ Zoning Resolution. "Zoning Resolution" means the Zoning Resolution of the City, 
 
          (A) in which conversion, alteration or improvement commences on or after January 1, 1982, and
 
-         (B) which is located in the County of New York within an area designated herein as a minimum tax zone, the benefits of the Act shall not be applied to abate or reduce the taxes upon the land portion of such real property, which shall continue to be taxed based upon the assessed valuation of the land and the applicable tax rate at the time such taxes are levied; provided, however, that the foregoing limitation with respect to abatement of taxes shall not apply: (a)  to any multiple dwelling which is eligible for benefits based upon moderate rehabilitation pursuant to § 5-03(a)(6) or (b)  to any conversion, alteration or improvement which is carried out with substantial governmental assistance.
+         (B) which is located in the County of New York within an area designated herein as a minimum tax zone, the benefits of the Act shall not be applied to abate or reduce the taxes upon the land portion of such real property, which shall continue to be taxed based upon the assessed valuation of the land and the applicable tax rate at the time such taxes are levied; provided, however, that the foregoing limitation with respect to abatement of taxes shall not apply: (a)  to any multiple dwelling which is eligible for benefits based upon moderate rehabilitation pursuant to 28 RCNY § 5-03(a)(6) or (b)  to any conversion, alteration or improvement which is carried out with substantial governmental assistance.
 
       (ii) For any building:
 
@@ -3689,7 +3699,7 @@ Zoning Resolution. "Zoning Resolution" means the Zoning Resolution of the City, 
 
 (j) [Reserved.]
 
-(k) As provided in § 39-03, the revocation of benefits for noncompliance with the Act or this chapter shall not exempt any unit from continued compliance with the requirements of the Act or this chapter.
+(k) As provided in 28 RCNY  39-03, the revocation of benefits for noncompliance with the Act or this chapter shall not exempt any unit from continued compliance with the requirements of the Act or this chapter.
 
 
 
@@ -3699,7 +3709,7 @@ Zoning Resolution. "Zoning Resolution" means the Zoning Resolution of the City, 
 *§ 5-07.1 New Eligibility Requirements for Conversions, Alterations or Improvements Completed On or After December 31, 2011.* ::
 
 
-(a) Definitions. For purposes of this section 5-07.1, the following terms shall have the following meanings:
+(a) Definitions. For purposes of this 28 RCNY § 5-07.1, the following terms shall have the following meanings:
 
    Program for the Development of Affordable Housing. "Program for the Development of Affordable Housing" means housing that complies with the requirements of a grant, loan or subsidy from any federal, state or local agency or instrumentality and of the Act or these Rules to provide the requisite percentage of its units as units affordable to and available for occupancy by individuals whose incomes do not exceed a specified limit.
 
@@ -3717,7 +3727,7 @@ Zoning Resolution. "Zoning Resolution" means the Zoning Resolution of the City, 
 
    (3) if such Conversions, Alterations or Improvements are not completed on the date upon which HPD inspects the items of work claimed in an application for benefits pursuant to these Rules, the applicant must pay the Inspection Fee for each additional inspection required to confirm that such Conversions, Alterations or Improvements have been completed.
 
-(c) Except as otherwise provided in paragraph one of subdivision (b) of this section 5-07.1, the provisions contained in subparagraphs (iv), (v) and (vi) of paragraph two of subdivision (g) of section 5-03 of these Rules shall apply to any multiple dwelling, Building or structure that is owned as a Cooperative or Condominium (other than Exempt Cooperatives and Condominiums) seeking benefits pursuant to the Act for Alterations or Improvements completed on or after December 31, 2011.
+(c) Except as otherwise provided in paragraph one of subdivision (b) of this 28 RCNY § 5-07.1, the provisions contained in subparagraphs (iv), (v) and (vi) of paragraph two of subdivision (g) of 28 RCNY § 5-03 shall apply to any multiple dwelling, Building or structure that is owned as a Cooperative or Condominium (other than Exempt Cooperatives and Condominiums) seeking benefits pursuant to the Act for Alterations or Improvements completed on or after December 31, 2011.
 
 
 
@@ -4449,9 +4459,9 @@ Maximum Allowance for All Buildings
       - Output in MBH (thousand BTU per hour)
       - 
       - 
-    * - 
-      - 0-2,000 MBH
-      - 2,000-6,000 MBH
+    * -  
+      - 0 - 2,000 MBH
+      - 2,000 - 6,000 MBH
       - &gt; 6,000 MBH
     * - Boiler-burner15
       - $1,500.16.50/MBH
@@ -4461,7 +4471,7 @@ Maximum Allowance for All Buildings
       - $500.4.75/MBH
       - 6000.2.00/MBH
       - 8,300.1.65/MBH
-    * - Boiler (existingburner)
+    * - Boiler (existing burner)
       - $1,000.11.75/MBH
       - 14,000.5.25/MBH
       - 39,300.1.00/MBH
@@ -4481,9 +4491,9 @@ Maximum Allowance for All Buildings
       - 
     * - Input in MBH
       - Allowance
-    * -  0-600 
+    * -  0 - 600 
       - $460.  9.10/MBH
-    * -   &gt;600 
+    * - &gt;600 
       - $1,900.  6.70/MBH
 ~
 
@@ -4501,9 +4511,9 @@ Maximum Allowance for All Buildings
       - 
     * - Size in Gallons
       - Allowance
-    * - 0-4000 
+    * - 0 - 4000 
       - $500.  l.10/gal. 
-    * -   &gt;4000 
+    * - &gt;4000 
       - $2,900.  .50/gal. 
 ~
 
@@ -5508,7 +5518,7 @@ Items of work listed on this schedule only per 28 RCNY § 5-03(a)(5)
       - 
     * - Size in Gallons
       - Allowance
-    * - 0-3,999
+    * - 0 - 3,999
       - $3,775 + $1.60/gal.
     * - ≥ 4000
       - $6,975 + $0.80/gal.
@@ -6075,73 +6085,73 @@ Chapter 6: Tax Exemption Pursuant to § 421-a(1) Through § 421-a(15) of the Rea
 
 (c) Definitions. As used in this chapter, the following terms shall have the following meanings:
 
-Act. "Act" shall mean § 421-a of the Real Property Tax Law, as amended.
+   Act. "Act" shall mean § 421-a of the Real Property Tax Law, as amended.
 
-Adjusted monthly rent. "Adjusted monthly rent" shall mean the rent payable per month as provided in the first effective lease upon initial occupancy of a rental dwelling unit of a multiple dwelling after completion of construction assisted by exemption under the Act, not inclusive of charges for parking or electricity, gas, cooking fuel and other utilities other than heat and hot water.
+   Adjusted monthly rent. "Adjusted monthly rent" shall mean the rent payable per month as provided in the first effective lease upon initial occupancy of a rental dwelling unit of a multiple dwelling after completion of construction assisted by exemption under the Act, not inclusive of charges for parking or electricity, gas, cooking fuel and other utilities other than heat and hot water.
 
-Administrative Code. "Administrative Code" shall mean the Administrative Code of the City of New York.
+   Administrative Code. "Administrative Code" shall mean the Administrative Code of the City of New York.
 
-Affordable units. "Affordable units" shall mean units created and rented in accordance with § 6-08 of this chapter.
+   Affordable units. "Affordable units" shall mean units created and rented in accordance with 28 RCNY § 6-08.
 
-Aggregate floor area. "Aggregate floor area" shall mean the sum of the gross horizontal areas of all of the floors of a dwelling or dwellings and accessory structures on a lot measured from the exterior faces of exterior walls or from the center line of party walls.
+   Aggregate floor area. "Aggregate floor area" shall mean the sum of the gross horizontal areas of all of the floors of a dwelling or dwellings and accessory structures on a lot measured from the exterior faces of exterior walls or from the center line of party walls.
 
-Annual schedule of reasonable costs. "Annual schedule of reasonable costs" shall mean the amounts determined by the Department to be reasonable for the maintenance and operation of a multiple dwelling in such categories and classifications attached to these rules as Appendix A.
+   Annual schedule of reasonable costs. "Annual schedule of reasonable costs" shall mean the amounts determined by the Department to be reasonable for the maintenance and operation of a multiple dwelling in such categories and classifications attached to these rules as Appendix A.
 
-Certificate of Eviction. "Certificate of Eviction" shall mean a certificate of eviction granted by the city rent agency pursuant to § 26-408 of the Administrative Code.
+   Certificate of Eviction. "Certificate of Eviction" shall mean a certificate of eviction granted by the city rent agency pursuant to § 26-408 of the Administrative Code.
 
-Commencement of construction. "Commencement of construction" shall mean the date upon which excavation and the construction of initial footings and foundations commences in good faith. An architect or professional engineer licensed in the State of New York shall certify that such construction commenced on such date and that such construction was thereafter completed without undue delay. Notwithstanding the foregoing, construction shall not commence prior to issuance by the Department of Buildings of either (i) a building or alteration permit for the construction of an entirely new multiple dwelling, the footprint of which consisted entirely of vacant and unimproved land upon such date, or (ii) an alteration permit for the construction of a new multiple dwelling above, and on an entirely separate tax lot from, one or more existing structures which are to be retained, provided that only the floor area attributable to the new multiple dwelling, and any eligible commercial, community facility or accessory use space within such new structure shall be eligible for benefits under the Act. Any such new multiple dwelling shall comply with all other applicable statutory and regulatory requirements.
+   Commencement of construction. "Commencement of construction" shall mean the date upon which excavation and the construction of initial footings and foundations commences in good faith. An architect or professional engineer licensed in the State of New York shall certify that such construction commenced on such date and that such construction was thereafter completed without undue delay. Notwithstanding the foregoing, construction shall not commence prior to issuance by the Department of Buildings of either (i) a building or alteration permit for the construction of an entirely new multiple dwelling, the footprint of which consisted entirely of vacant and unimproved land upon such date, or (ii) an alteration permit for the construction of a new multiple dwelling above, and on an entirely separate tax lot from, one or more existing structures which are to be retained, provided that only the floor area attributable to the new multiple dwelling, and any eligible commercial, community facility or accessory use space within such new structure shall be eligible for benefits under the Act. Any such new multiple dwelling shall comply with all other applicable statutory and regulatory requirements.
 
-Commissioner. "Commissioner" shall mean the Commissioner of the Department of Housing Preservation and Development, or his or her designee, or the chief executive officer of any successor agency thereto authorized to administer these rules.
+   Commissioner. "Commissioner" shall mean the Commissioner of the Department of Housing Preservation and Development, or his or her designee, or the chief executive officer of any successor agency thereto authorized to administer these rules.
 
-Completion of construction. "Completion of construction" shall mean the date upon which either a Temporary Certificate of Occupancy is issued for all residential areas in the multiple dwelling or a Permanent Certificate of Occupancy is issued for the entire building.
+   Completion of construction. "Completion of construction" shall mean the date upon which either a Temporary Certificate of Occupancy is issued for all residential areas in the multiple dwelling or a Permanent Certificate of Occupancy is issued for the entire building.
 
-Construction. "Construction" shall mean the construction of a new building which is a Class A multiple dwelling.
+   Construction. "Construction" shall mean the construction of a new building which is a Class A multiple dwelling.
 
-Covered Project. "Covered Project" shall mean a "covered project" as defined in subparagraph (i) of paragraph (a) of subdivision six of § 421-a of the Real Property Tax Law. For purposes of clause (B) of such subparagraph, two or more buildings shall be considered part of one contiguous development if such buildings are located on tax lots existing on or after June 21, 2005 that (1) are adjacent for at least ten linear feet, or (2) but for the intervention of streets, sidewalks or street intersections, would be adjacent for at least ten linear feet. All tax lots apportioned from such tax lots shall be deemed part of one contiguous development.
+   Covered Project. "Covered Project" shall mean a "covered project" as defined in subparagraph (i) of paragraph (a) of subdivision six of § 421-a of the Real Property Tax Law. For purposes of clause (B) of such subparagraph, two or more buildings shall be considered part of one contiguous development if such buildings are located on tax lots existing on or after June 21, 2005 that (1) are adjacent for at least ten linear feet, or (2) but for the intervention of streets, sidewalks or street intersections, would be adjacent for at least ten linear feet. All tax lots apportioned from such tax lots shall be deemed part of one contiguous development.
 
-Demolished. "Demolished" shall mean the total destruction of a building or structure by razing or otherwise.
+   Demolished. "Demolished" shall mean the total destruction of a building or structure by razing or otherwise.
 
-Department. "Department" shall mean the Department of Housing Preservation and Development of the City of New York or any successor agency or department thereto.
+   Department. "Department" shall mean the Department of Housing Preservation and Development of the City of New York or any successor agency or department thereto.
 
-Department of Buildings. "Department of Buildings" shall mean the Department of Buildings of the City of New York or any successor agency or department thereto.
+   Department of Buildings. "Department of Buildings" shall mean the Department of Buildings of the City of New York or any successor agency or department thereto.
 
-Eligible debt-financed project. "Eligible debt-financed project" shall mean a project that may be encumbered by a lien or mortgage, where (A) such project is not obtaining low income housing tax credits pursuant to § 42(b)(1)(A) of the Internal Revenue Code of 1986, as amended (nine percent (9%) reservation), (B) any lien or mortgage encumbering such project provides that it is expressly subject and subordinate to the Written Agreement entered into with the Department, and (C) the average household income of the units in such project does not exceed eighty percent (80%) of median income.
+   Eligible debt-financed project. "Eligible debt-financed project" shall mean a project that may be encumbered by a lien or mortgage, where (A) such project is not obtaining low income housing tax credits pursuant to § 42(b)(1)(A) of the Internal Revenue Code of 1986, as amended (nine percent (9%) reservation), (B) any lien or mortgage encumbering such project provides that it is expressly subject and subordinate to the Written Agreement entered into with the Department, and (C) the average household income of the units in such project does not exceed eighty percent (80%) of median income.
 
-Floor area of commercial, community facilities, and accessory use space. "Floor area of commercial, community facilities, and accessory use space" shall mean the gross horizontal areas of all the floors or any portion thereof of a multiple dwelling or dwellings and accessory structures or spaces on a lot measured from the exterior faces of exterior walls of commercial or community facilities or accessory uses as such uses are defined in the Zoning Resolution; (See Article 1, Chapter 2). Notwithstanding the foregoing, accessory use space shall not include (a) parking areas which are not part of the building such as uncovered outdoor parking areas and open space beneath a building (including access roads), (b) for properties for which a final certificate of eligibility is issued on or after November 3, 1995, accessory parking space located not more than twenty-three feet above the curb level, (c) for properties for which a final certificate of eligibility is issued on or after May 8, 2013, accessory off-street parking spaces located not more than twenty-three feet above the curb level which (i) are located in the Manhattan Core, as defined in Section 12-10 of the Zoning Resolution, and (ii) meet the requirements of Section 13-21 of the Zoning Resolution.
+   Floor area of commercial, community facilities, and accessory use space. "Floor area of commercial, community facilities, and accessory use space" shall mean the gross horizontal areas of all the floors or any portion thereof of a multiple dwelling or dwellings and accessory structures or spaces on a lot measured from the exterior faces of exterior walls of commercial or community facilities or accessory uses as such uses are defined in the Zoning Resolution; (See Article 1, Chapter 2). Notwithstanding the foregoing, accessory use space shall not include (a) parking areas which are not part of the building such as uncovered outdoor parking areas and open space beneath a building (including access roads), (b) for properties for which a final certificate of eligibility is issued on or after November 3, 1995, accessory parking space located not more than twenty-three feet above the curb level, (c) for properties for which a final certificate of eligibility is issued on or after May 8, 2013, accessory off-street parking spaces located not more than twenty-three feet above the curb level which (i) are located in the Manhattan Core, as defined in Section 12-10 of the Zoning Resolution, and (ii) meet the requirements of Section 13-21 of the Zoning Resolution.
 
-Geographic exclusion area. "Geographic exclusion area" shall mean that area of Manhattan described in § 6-02(c)(10) of this chapter.
+   Geographic exclusion area. "Geographic exclusion area" shall mean that area of Manhattan described in 28 RCNY § 6-02(c)(10).
 
-Hotel. "Hotel" shall mean (i) any Class B multiple dwelling, as such term is defined in the Multiple Dwelling Law, (ii) any structure or part thereof containing living or sleeping accommodations which is used or intended to be used for transient occupancy, (iii) any apartment hotel or transient hotel as defined in the Zoning Resolution, or (iv) any structure or part thereof which is used to provide short term rentals or owned or leased by an entity engaged in the business of providing short term rentals. For purposes of this definition, a lease, sublease, license or any other form of rental agreement for a period of less than six months shall be deemed to be a short term rental. Notwithstanding the foregoing, a structure or part thereof owned or leased by a not-for-profit corporation for the purpose of providing governmentally funded emergency housing shall not be considered a hotel for purposes of this chapter.
+   Hotel. "Hotel" shall mean (i) any Class B multiple dwelling, as such term is defined in the Multiple Dwelling Law, (ii) any structure or part thereof containing living or sleeping accommodations which is used or intended to be used for transient occupancy, (iii) any apartment hotel or transient hotel as defined in the Zoning Resolution, or (iv) any structure or part thereof which is used to provide short term rentals or owned or leased by an entity engaged in the business of providing short term rentals. For purposes of this definition, a lease, sublease, license or any other form of rental agreement for a period of less than six months shall be deemed to be a short term rental. Notwithstanding the foregoing, a structure or part thereof owned or leased by a not-for-profit corporation for the purpose of providing governmentally funded emergency housing shall not be considered a hotel for purposes of this chapter.
 
-Low and moderate income. "Low and moderate income" shall mean a household income not exceeding 100 percent of median income. For purposes of this chapter, low income households shall be deemed to be those at 60 percent or less of median income and moderate income households shall be those between 60 and 100 percent of median income, provided, however, that the average household income in any group of affordable units shall not exceed 80 percent of median income.
+   Low and moderate income. "Low and moderate income" shall mean a household income not exceeding 100 percent of median income. For purposes of this chapter, low income households shall be deemed to be those at 60 percent or less of median income and moderate income households shall be those between 60 and 100 percent of median income, provided, however, that the average household income in any group of affordable units shall not exceed 80 percent of median income.
 
-Median income. "Median income" shall be calculated in accordance with the regulations of the United States Department of Housing and Urban Development governing eligibility for occupancy as a lower income family, by size of family, in the metropolitan statistical area, which includes the City of New York, for purposes of § 8 of the United States Housing Act of 1937, as amended.
+   Median income. "Median income" shall be calculated in accordance with the regulations of the United States Department of Housing and Urban Development governing eligibility for occupancy as a lower income family, by size of family, in the metropolitan statistical area, which includes the City of New York, for purposes of § 8 of the United States Housing Act of 1937, as amended.
 
-Multiple dwelling or building. "Multiple dwelling" or "building" shall mean a dwelling which is, or is to be, lawfully occupied as the residence or home of three or more families living independently of one another, whether individual dwelling units herein are rented or owned as a cooperative or condominium.
+   Multiple dwelling or building. "Multiple dwelling" or "building" shall mean a dwelling which is, or is to be, lawfully occupied as the residence or home of three or more families living independently of one another, whether individual dwelling units herein are rented or owned as a cooperative or condominium.
 
-Negotiable Certificate. "Negotiable Certificate" shall mean a document issued by the Department which certifies that the bearer is entitled to the benefits of the Act for a specified number of units within the geographic exclusion area, provided that all program requirements have been met.
+   Negotiable Certificate. "Negotiable Certificate" shall mean a document issued by the Department which certifies that the bearer is entitled to the benefits of the Act for a specified number of units within the geographic exclusion area, provided that all program requirements have been met.
 
-Office. "Office" shall mean the Office of Tax Incentive Programs of the New York City Department of Housing Preservation and Development or any successor thereto.
+   Office. "Office" shall mean the Office of Tax Incentive Programs of the New York City Department of Housing Preservation and Development or any successor thereto.
 
-Prior assessed valuation. "Prior assessed valuation" shall mean the taxable assessed valuation in effect pursuant to § 1805-(3) of the Real Property Tax Law, exclusive of any exemption, of a tax lot (land and improvements) during the tax year preceding the tax year of Commencement of Construction.
+   Prior assessed valuation. "Prior assessed valuation" shall mean the taxable assessed valuation in effect pursuant to § 1805-(3) of the Real Property Tax Law, exclusive of any exemption, of a tax lot (land and improvements) during the tax year preceding the tax year of Commencement of Construction.
 
-Program for the development of affordable housing. "Program for the development of affordable housing" shall mean housing which complies with the requirements of a grant, loan or subsidy from any federal, state or local agency or instrumentality to provide no less than twenty percent of its units as units affordable to and occupied by or affordable to and available for occupancy by individuals or families whose incomes do not exceed a specified limit and which has been approved by the commissioner pursuant to this chapter.
+   Program for the development of affordable housing. "Program for the development of affordable housing" shall mean housing which complies with the requirements of a grant, loan or subsidy from any federal, state or local agency or instrumentality to provide no less than twenty percent of its units as units affordable to and occupied by or affordable to and available for occupancy by individuals or families whose incomes do not exceed a specified limit and which has been approved by the commissioner pursuant to this chapter.
 
-Public project. "Public project" shall mean a building developed with substantial governmental assistance or a building developed pursuant to a regulatory agreement with a Federal, state or local agency or instrumentality requiring the development of affordable housing.
+   Public project. "Public project" shall mean a building developed with substantial governmental assistance or a building developed pursuant to a regulatory agreement with a Federal, state or local agency or instrumentality requiring the development of affordable housing.
 
-Residential building. "Residential building" shall mean a structure or part thereof lawfully occupied in whole or part as the home, residence or sleeping place of one or more persons.
+   Residential building. "Residential building" shall mean a structure or part thereof lawfully occupied in whole or part as the home, residence or sleeping place of one or more persons.
 
-Room Count. "Room Count" shall be calculated in the following manner: Each dwelling unit with at least one room which either (i) contains no cooking facilities and measures at least one hundred and fifty (150) square feet, or (ii) contains cooking facilities and measures at least two hundred and thirty (230) square feet, shall count as two and one-half rooms. Every other room in the dwelling unit separated by either walls or doors, including bedrooms, shall count as an additional room, plus one-half room for a balcony, provided, however, that kitchens, cooking facilities, bathrooms or corridors shall not count as an additional room. To be included in the calculation of "room count," a room must meet the requirements of habitability as provided in Administrative Code §§ 27-746 and 27-751.
+   Room Count. "Room Count" shall be calculated in the following manner: Each dwelling unit with at least one room which either (i) contains no cooking facilities and measures at least one hundred and fifty (150) square feet, or (ii) contains cooking facilities and measures at least two hundred and thirty (230) square feet, shall count as two and one-half rooms. Every other room in the dwelling unit separated by either walls or doors, including bedrooms, shall count as an additional room, plus one-half room for a balcony, provided, however, that kitchens, cooking facilities, bathrooms or corridors shall not count as an additional room. To be included in the calculation of "room count," a room must meet the requirements of habitability as provided in Administrative Code §§ 27-746 and 27-751.
 
-Single room occupancy. "Single room occupancy" shall mean occupancy in a multiple dwelling by one or more persons of a room or rooms either without a lawful kitchen or kitchenette or without a lawful bathroom or without separate means of egress for occupants thereof to the public areas of the multiple dwelling.
+   Single room occupancy. "Single room occupancy" shall mean occupancy in a multiple dwelling by one or more persons of a room or rooms either without a lawful kitchen or kitchenette or without a lawful bathroom or without separate means of egress for occupants thereof to the public areas of the multiple dwelling.
 
-Substantial governmental assistance. "Substantial governmental assistance" shall mean grants, loans or subsidies provided to any building or buildings on the same zoning lot or, if only a portion of such zoning lot is being granted benefits pursuant to the Act, to any building or buildings on such portion of such zoning lot, by any federal, state or local agency or instrumentality pursuant to a program for the development of affordable housing, provided that (1) as determined by the commissioner, each of the buildings on such zoning lot or portion thereof is part of the same project, (2) each of the buildings on such zoning lot or portion thereof is part of the same application for benefits pursuant to the Act, (3) the periods of construction and final real property tax exemption benefits granted pursuant to the Act for all of the buildings on such zoning lot or portion thereof being granted benefits pursuant to the Act shall commence simultaneously, and (4) no final real property tax exemption benefits shall be granted pursuant to the Act for any buildings on such zoning lot or any portion thereof being granted benefits pursuant to the Act until receipt of a certificate of occupancy or a temporary certificate of occupancy for the residential portions of the building or buildings on such zoning lot containing the units affordable to and occupied by or affordable to and available for occupancy by individuals or families whose incomes do not exceed a specified amount. Such subsidies may include allocations of low income housing tax credits and, in the discretion of the Department, below market sales or sales subject to evaporating purchase money mortgages by a federal, state or local agency or instrumentality, but shall not include permanent financing provided through the State of New York Mortgage Agency, purchase money mortgages, or mortgage insurance.
+   Substantial governmental assistance. "Substantial governmental assistance" shall mean grants, loans or subsidies provided to any building or buildings on the same zoning lot or, if only a portion of such zoning lot is being granted benefits pursuant to the Act, to any building or buildings on such portion of such zoning lot, by any federal, state or local agency or instrumentality pursuant to a program for the development of affordable housing, provided that (1) as determined by the commissioner, each of the buildings on such zoning lot or portion thereof is part of the same project, (2) each of the buildings on such zoning lot or portion thereof is part of the same application for benefits pursuant to the Act, (3) the periods of construction and final real property tax exemption benefits granted pursuant to the Act for all of the buildings on such zoning lot or portion thereof being granted benefits pursuant to the Act shall commence simultaneously, and (4) no final real property tax exemption benefits shall be granted pursuant to the Act for any buildings on such zoning lot or any portion thereof being granted benefits pursuant to the Act until receipt of a certificate of occupancy or a temporary certificate of occupancy for the residential portions of the building or buildings on such zoning lot containing the units affordable to and occupied by or affordable to and available for occupancy by individuals or families whose incomes do not exceed a specified amount. Such subsidies may include allocations of low income housing tax credits and, in the discretion of the Department, below market sales or sales subject to evaporating purchase money mortgages by a federal, state or local agency or instrumentality, but shall not include permanent financing provided through the State of New York Mortgage Agency, purchase money mortgages, or mortgage insurance.
 
-Written Agreement. "Written Agreement" shall mean a document issued by the Department pursuant to § 6-08(l) of the Rules.
+   Written Agreement. "Written Agreement" shall mean a document issued by the Department pursuant to 28 RCNY § 6-08(l).
 
-Zoning lot. "Zoning lot" shall mean a "zoning lot" as defined in § 12-10 of the Zoning Resolution.
+   Zoning lot. "Zoning lot" shall mean a "zoning lot" as defined in § 12-10 of the Zoning Resolution.
 
-Zoning Resolution. "Zoning Resolution" shall mean the Zoning Resolution of the City of New York, as amended.
+   Zoning Resolution. "Zoning Resolution" shall mean the Zoning Resolution of the City of New York, as amended.
 
 
 
@@ -6159,7 +6169,7 @@ Zoning Resolution. "Zoning Resolution" shall mean the Zoning Resolution of the C
 
    (2) new multiple dwellings located in the geographic exclusion area if the commencement of construction occurred on or before November 29, 1985 and if such building is completed no later than December 31, 2000 and only to the extent the building receives a permanent Certificate of Occupancy indicating that it was built pursuant to architectural, structural, and mechanical plans approved by the Department of Buildings on or before November 29, 1985; and
 
-   (3) new multiple dwellings located in the geographic exclusion area if the commencement of construction occurred after November 29, 1985 and before December 28, 2010, only if construction is carried out with substantial governmental assistance or if affordable units are created in accordance with the requirements of § 6-08 of this chapter.
+   (3) new multiple dwellings located in the geographic exclusion area if the commencement of construction occurred after November 29, 1985 and before December 28, 2010, only if construction is carried out with substantial governmental assistance or if affordable units are created in accordance with the requirements of 28 RCNY § 6-08.
 
 (c) Ineligible projects. The tax benefits of the Act are not available to:
 
@@ -6181,7 +6191,7 @@ Zoning Resolution. "Zoning Resolution" shall mean the Zoning Resolution of the C
 
    (9) For purposes of paragraphs (7) and (8) above, the obtaining of a variance or special permit to allow residential construction in a manufacturing or mixed-used district shall not render the newly constructed Class A multiple dwelling eligible for tax benefits under the Act. In addition, to the extent the zoning lot of a project includes any building or structure located in such non-eligible district that is not to be demolished, the partial tax exemption shall be reduced by an amount equal to the area of the portion of the zoning lot which is located in such ineligible area.
 
-   (10) Except for multiple dwellings qualifying for the benefits of the Act pursuant to § 6-08 of this chapter:
+   (10) Except for multiple dwellings qualifying for the benefits of the Act pursuant to 28 RCNY § 6-08:
 
       (i) any project commenced, as that term is defined herein, after November 29, 1985 and before March 7, 2006 within the geographic exclusion area, bounded and described as follows: Beginning at the intersection of the bulkhead line in the Hudson River and 96th Street extended; thence easterly to 96th Street and continuing along 96th Street to its easterly terminus; thence easterly to the intersection of 96th Street extended and the bulkhead line in the East River; thence southerly along said bulkhead line to the intersection of said bulkhead line and 14th Street extended; thence westerly to 14th Street and continuing along 14th Street to Broadway; thence southerly along Broadway to Houston Street; thence westerly along Houston Street to Thompson Street; thence southerly along Thompson Street to Spring Street; thence westerly along Spring Street to Avenue of the Americas; thence northerly along Avenue of the Americas to Vandam Street; thence westerly along Vandam Street to Varick Street; thence northerly along Varick Street to Houston Street; thence westerly along Houston Street and continuing to its westerly terminus; thence westerly to the intersection of Houston Street extended and the bulkhead line in the Hudson River; thence northerly along said bulkhead line to the intersection of said bulkhead line and 11th Avenue extended; thence northerly to 11th Avenue and continuing along 11th Avenue to 14th Street; thence easterly along 14th Street to 10th Avenue; thence northerly along 10th Avenue to 28th Street; thence easterly along 28th Street to 9th Avenue; thence northerly along 9th Avenue to 33rd Street; thence easterly along 33rd Street to 8th Avenue; thence northerly along 8th Avenue to 34th Street; thence easterly along 34th Street to 7th Avenue; thence northerly along 7th Avenue to 41st Street; thence westerly along 41st Street and continuing to its westerly terminus; thence westerly to the intersection of 41st Street extended and the bulkhead line in the Hudson River; thence northerly along said bulkhead line to the place of beginning;
 
@@ -6189,17 +6199,17 @@ Zoning Resolution. "Zoning Resolution" shall mean the Zoning Resolution of the C
 
       (iii) any project commenced, as that term is defined herein, on or after May 11, 2007 and before July 1, 2008 within the geographic exclusion area, bounded and described as follows: Beginning at the intersection of the bulkhead line in the Hudson River and 96th Street extended; thence easterly to 96th Street and continuing along 96th Street to its easterly terminus; thence easterly to the intersection of 96th Street extended and the bulkhead line in the East River; thence southerly along said bulkhead line to the intersection of said bulkhead line and 14th Street extended; thence westerly to 14th Street and continuing along 14th Street to Broadway; thence southerly along Broadway to Houston Street; thence westerly along Houston Street to Thompson Street; thence southerly along Thompson Street to Spring Street; thence westerly along Spring Street to Avenue of the Americas; thence northerly along Avenue of the Americas to Vandam Street; thence westerly along Vandam Street to Varick Street; thence northerly along Varick Street to Houston Street; thence westerly along Houston Street and continuing to its westerly terminus; thence westerly to the intersection of Houston Street extended and the bulkhead line in the Hudson River; thence northerly along said bulkhead line to the intersection of said bulkhead line and 30th Street extended; thence easterly along 30th Street to 11th Avenue; thence northerly along 11th Avenue to 41st Street; thence westerly along 41st Street and continuing to its westerly terminus; thence westerly to the intersection of 41st Street extended and the bulkhead line in the Hudson River; thence northerly along said bulkhead line to the place of beginning; or
 
-      (iv) any project commenced on or after July 1, 2008 within the geographic exclusion area as defined pursuant to § 6-09 of this chapter except as otherwise provided in such § 6-09.
+      (iv) any project commenced on or after July 1, 2008 within the geographic exclusion area as defined pursuant to 28 RCNY § 6-09 except as otherwise provided in such 28 RCNY § 6-09.
 
 (d) Duration of exemption. Eligible buildings may receive a ten, fifteen, twenty or twenty-five year tax exemption, as described herein. In order to qualify for such benefits, the multiple dwelling must meet the eligibility requirements described below for each level of exemption.
 
-   (1) Only the ten year exemption is available to buildings located within the geographic exclusion area described in § 6-02(c)(10), above, and such buildings shall be eligible to receive such benefits only if each building meets one of the following conditions:
+   (1) Only the ten year exemption is available to buildings located within the geographic exclusion area described in 28 RCNY § 6-02(c)(10), above, and such buildings shall be eligible to receive such benefits only if each building meets one of the following conditions:
 
       (i) construction is carried out with substantial governmental assistance, or
 
-      (ii) the Department has imposed a requirement or has certified pursuant to § 6-08 herein that 20 percent (20%) of the units are affordable to persons of low and moderate income, or
+      (ii) the Department has imposed a requirement or has certified pursuant to 28 RCNY § 6-08 that 20 percent (20%) of the units are affordable to persons of low and moderate income, or
 
-      (iii) pursuant to an agreement with the Department, in conformity with the requirements of § 6-08 herein, housing units affordable to persons of low and moderate income are either newly constructed or substantially rehabilitated off-site.
+      (iii) pursuant to an agreement with the Department, in conformity with the requirements of 28 RCNY § 6-08, housing units affordable to persons of low and moderate income are either newly constructed or substantially rehabilitated off-site.
 
    (2) The ten year exemption is available to buildings located outside the geographic exclusion area but in Manhattan on tax lots south of or adjacent to either side of 110th Street, the construction of which commenced on or after July 1, 1985, except that the fifteen year exemption shall be available to such buildings if:
 
@@ -6213,7 +6223,7 @@ Zoning Resolution. "Zoning Resolution" shall mean the Zoning Resolution of the C
 
       (i) construction is carried out with substantial governmental assistance; or
 
-      (ii) the Department has imposed a requirement or has certified pursuant to § 6-08 herein that 20 percent (20%) of the units are affordable to families of low and moderate income.
+      (ii) the Department has imposed a requirement or has certified pursuant to 28 RCNY § 6-08 that 20 percent (20%) of the units are affordable to families of low and moderate income.
 
    (5) The twenty-five year exemption is available to buildings located in the boroughs of the Bronx, Brooklyn, Queens, Staten Island or Manhattan north of 110th Street, the construction of which commenced on or after July 1, 1985, if the multiple dwelling:
 
@@ -6231,13 +6241,13 @@ Zoning Resolution. "Zoning Resolution" shall mean the Zoning Resolution of the C
 
          (A) is constructed with substantial governmental assistance, or
 
-         (B) is a building where the Department has imposed a requirement or has certified that 20 percent (20%) of the units contained in that multiple dwelling are affordable to persons of low and moderate income, exclusive of those units created pursuant to § 6-08 herein.
+         (B) is a building where the Department has imposed a requirement or has certified that 20 percent (20%) of the units contained in that multiple dwelling are affordable to persons of low and moderate income, exclusive of those units created pursuant to 28 RCNY § 6-08.
 
 (e) Construction requirements. To be eligible for partial tax exemption, a multiple dwelling must meet the following requirements:
 
-   (1) It shall contain at all times not less than the number of dwelling units specified in § 6-02(b)(1). A multiple dwelling containing the requisite number of dwelling units may include: garden type maisonette dwelling projects containing a series of attached dwelling units which are provided as a group collectively with all essential services such as, but not limited to, water supply and house sewers, and which units are located on a site or plot under common ownership, including ownership as a condominium; and buildings erected at the same time with common exterior walls, provided that in each case such buildings are operated as a unit under a single ownership, notwithstanding that Certificates of Occupancy were issued by the Department of Buildings for separate portions thereof covering less than the requisite number of units.
+   (1) It shall contain at all times not less than the number of dwelling units specified in 28 RCNY § 6-02(b)(1). A multiple dwelling containing the requisite number of dwelling units may include: garden type maisonette dwelling projects containing a series of attached dwelling units which are provided as a group collectively with all essential services such as, but not limited to, water supply and house sewers, and which units are located on a site or plot under common ownership, including ownership as a condominium; and buildings erected at the same time with common exterior walls, provided that in each case such buildings are operated as a unit under a single ownership, notwithstanding that Certificates of Occupancy were issued by the Department of Buildings for separate portions thereof covering less than the requisite number of units.
 
-   (2) If a multiple dwelling contains more than one hundred dwelling units, not less than ten percent of the dwelling units in such multiple dwelling shall contain at least four and one-half rooms and, in addition, not less than fifteen percent shall contain at least three and one-half rooms. The number of rooms in a dwelling unit shall be computed in accordance with the definition of "room count" contained in subdivision (c) of § 6-01 of this chapter. Those units consisting of four and one-half rooms or more, to the extent that they comprise ten percent of all units in the multiple dwelling, shall not be included as part of the units which must contain three and one-half rooms, comprising a total of fifteen percent of all the units in the multiple dwelling. This room count requirement may be waived in writing at the discretion of the Department:
+   (2) If a multiple dwelling contains more than one hundred dwelling units, not less than ten percent of the dwelling units in such multiple dwelling shall contain at least four and one-half rooms and, in addition, not less than fifteen percent shall contain at least three and one-half rooms. The number of rooms in a dwelling unit shall be computed in accordance with the definition of "room count" contained in subdivision (c) of 28 RCNY § 6-01. Those units consisting of four and one-half rooms or more, to the extent that they comprise ten percent of all units in the multiple dwelling, shall not be included as part of the units which must contain three and one-half rooms, comprising a total of fifteen percent of all the units in the multiple dwelling. This room count requirement may be waived in writing at the discretion of the Department:
 
       (i) where the multiple dwelling is to provide housing for the elderly; or
 
@@ -6357,7 +6367,7 @@ Zoning Resolution. "Zoning Resolution" shall mean the Zoning Resolution of the C
 
    (4) The offering by the owner to all tenants in rental dwelling units in the multiple dwelling, of an initial lease of at least two years; unless the dwelling unit's rent is regulated by local laws, such as § 26-401 of the Administrative Code, which do not provide for the offering of leases for fixed terms. This requirement shall not preclude a shorter lease where requested by the tenant, or where a lease of at least two years is specifically prohibited by the terms of a Department of Housing and Urban Development regulatory agreement for an insured subsidized project, or where, through foreclosure, title to a building eligible for partial tax exemption pursuant to the Act is held subsequently by the Department of Housing and Urban Development.
 
-   (5) No lease for dwelling units subject to the Rent Stabilization Law or Emergency Tenant Protection Act which are registered with the New York State Division of Housing and Community Renewal shall contain escalation clauses for real estate taxes or any other provisions for increasing the rent set forth in the lease other than permitting an increase in rent pursuant to an order of the New York State Division of Housing and Community Renewal or the Rent Guidelines Board; or an increase of 2.2 percent pursuant to § 6-04(b) of this chapter.
+   (5) No lease for dwelling units subject to the Rent Stabilization Law or Emergency Tenant Protection Act which are registered with the New York State Division of Housing and Community Renewal shall contain escalation clauses for real estate taxes or any other provisions for increasing the rent set forth in the lease other than permitting an increase in rent pursuant to an order of the New York State Division of Housing and Community Renewal or the Rent Guidelines Board; or an increase of 2.2 percent pursuant to 28 RCNY § 6-04(b).
 
 
 
@@ -6369,11 +6379,11 @@ Zoning Resolution. "Zoning Resolution" shall mean the Zoning Resolution of the C
 
 (a) Submission of application to local community board. An applicant for partial tax exemption pursuant to the Act whose project contains more than twenty dwelling units shall send a complete copy of the application for a Preliminary Certificate of Eligibility and supporting papers by certified mail or hand delivery to the local Community Planning Board for the area in which such project is located within ten days of submission of the application to the Department. A copy of the receipt shall be hand delivered or mailed to the Department for annexation to the application no later than ten days after the date appearing on such receipt.
 
-(b) Standards for review. The local Community Board shall have a forty-five day period after receipt of such application and supporting papers to file objections with the Department as to the applicant's eligibility for partial tax exemption hereunder. Such objections, if any, may only be based upon an applicant's eligibility under subdivision two of § 421-a of the Real Property Tax Law or the applicant's failure to comply with the eligibility requirements in § 6-02 of these regulations. The local Community Board may, in its own discretion and within the forty-five day period, hold a public hearing to determine whether any objections as to eligibility should be filed. Nothing contained in this section shall preclude a final determination of ineligibility of an applicant by the Department prior to the expiration of the forty-five day period.
+(b) Standards for review. The local Community Board shall have a forty-five day period after receipt of such application and supporting papers to file objections with the Department as to the applicant's eligibility for partial tax exemption hereunder. Such objections, if any, may only be based upon an applicant's eligibility under subdivision two of § 421-a of the Real Property Tax Law or the applicant's failure to comply with the eligibility requirements in 28 RCNY § 6-02. The local Community Board may, in its own discretion and within the forty-five day period, hold a public hearing to determine whether any objections as to eligibility should be filed. Nothing contained in this section shall preclude a final determination of ineligibility of an applicant by the Department prior to the expiration of the forty-five day period.
 
 (c) Notification to community board. In the event the local Community Board files objections, the Department shall make a determination thereon and notify such Community Board within forty-five days after receipt of the objections.
 
-(d) Review of projects containing more than one hundred fifty dwelling units. Where a project contains more than one hundred fifty dwelling units, the local Community Board may, within thirty days of the receipt of a copy of an applicant's notification, request the Department to hold a public hearing solely on the question of the applicant's eligibility under subdivision two of § 421-a of the Real Property Tax Law or the applicant's failure to comply with the eligibility requirements in § 6-02 of this chapter. If such request is made, the Department shall hold a hearing before the Commissioner or other person or persons whom he or she may designate, make a determination, and notify the Community Board within forty-five days after such hearing.
+(d) Review of projects containing more than one hundred fifty dwelling units. Where a project contains more than one hundred fifty dwelling units, the local Community Board may, within thirty days of the receipt of a copy of an applicant's notification, request the Department to hold a public hearing solely on the question of the applicant's eligibility under subdivision two of § 421-a of the Real Property Tax Law or the applicant's failure to comply with the eligibility requirements in 28 RCNY § 6-02. If such request is made, the Department shall hold a hearing before the Commissioner or other person or persons whom he or she may designate, make a determination, and notify the Community Board within forty-five days after such hearing.
 
 
 
@@ -6393,11 +6403,11 @@ Zoning Resolution. "Zoning Resolution" shall mean the Zoning Resolution of the C
 
       (iii) Projected real property taxes to be levied on the multiple dwelling and the land on which it is situated at the time of estimated initial occupancy; plus,
 
-      (iv) Fourteen percent of the total project cost, as determined pursuant to § 6-05(b)(1)(i) and the Annual Schedule of Reasonable Costs, which amount will include debt service; less,
+      (iv) Fourteen percent of the total project cost, as determined pursuant to 28 RCNY § 6-05(b)(1)(i) and the Annual Schedule of Reasonable Costs, which amount will include debt service; less,
 
       (v) The estimated annual income to be derived from any Floor Area of Commercial, Community Facilities, and Accessory Use Space in the multiple dwelling.
 
-   (2) The adjusted monthly rent per room shall be determined by the Department by dividing the total expenses as determined pursuant to paragraph (1) above by twelve (12) and then dividing that amount by the Room Count as defined in subdivision (c) of § 6-01 of this chapter; i.e.,
+   (2) The adjusted monthly rent per room shall be determined by the Department by dividing the total expenses as determined pursuant to paragraph (1) above by twelve (12) and then dividing that amount by the Room Count as defined in subdivision (c) of 28 RCNY § 6-01 of this chapter; i.e., 
 
  
 
@@ -6405,8 +6415,8 @@ Zoning Resolution. "Zoning Resolution" shall mean the Zoning Resolution of the C
 .. list-table::
     :header-rows: 1
 
-    * - Total Expenses 12 
-      - = 
+    * - Total Expenses12 
+      - =
       - Total Monthly Expenses 
       - 
       - Total Monthly Expenses Room Count 
@@ -6418,7 +6428,7 @@ Zoning Resolution. "Zoning Resolution" shall mean the Zoning Resolution of the C
 
  
 
-   (3) The The initial adjusted monthly rent for each dwelling unit shall be determined by the Department by multiplying the adjusted monthly rent per room to be determined pursuant to paragraph (2) above by the Room Count, as defined in subdivision (c) of § 6-01 of this chapter, of each rental dwelling unit. Adjustments to the initial adjusted monthly rent per room to be determined pursuant to paragraph (2) above by the Room Count, as defined in subdivision (c) of § 6-01 of this chapter, of each rental dwelling unit. Adjustments to the initial adjusted monthly rent for any dwelling unit may be allowed by the Department provided that the total of the rentals charged in the multiple dwelling do not exceed the total expenses of such multiple dwelling, as determined pursuant to paragraph (1) above; i.e.,
+   (3) The The initial adjusted monthly rent for each dwelling unit shall be determined by the Department by multiplying the adjusted monthly rent per room to be determined pursuant to paragraph (2) above by the Room Count, as defined in subdivision (c) of 28 RCNY § 6-01, of each rental dwelling unit. Adjustments to the initial adjusted monthly rent per room to be determined pursuant to paragraph (2) above by the Room Count, as defined in subdivision (c) of 28 RCNY § 6-01, of each rental dwelling unit. Adjustments to the initial adjusted monthly rent for any dwelling unit may be allowed by the Department provided that the total of the rentals charged in the multiple dwelling do not exceed the total expenses of such multiple dwelling, as determined pursuant to paragraph (1) above; i.e., 
 
  
 
@@ -6435,7 +6445,7 @@ Zoning Resolution. "Zoning Resolution" shall mean the Zoning Resolution of the C
 
  
 
-(b) Rent increases. The owner of a multiple dwelling receiving partial tax exemption may insert in each lease to be effective during the period of gradual diminution of tax exemption, as defined in § 6-06(e) of this chapter, a provision for an annual rent increase over the initial adjusted monthly rental at a rate not to exceed 2.2 percent per annum on the anniversary date of the first lease for the unit provided, however, that no increase shall be permitted pursuant to this subdivision (b) unless specifically provided for in each affected lease, and provided further that no more than one such increase per unit may be charged or collected in each given year regardless of the number of lease renewals or new leases which may pertain to that unit. The initial 2.2 percent escalation and all subsequent escalations shall be based solely on the actual rental amount in effect (regardless of whether the legal regulated rent may be greater) at the commencement of the period during which the increase may be charged and shall not be compounded from year to year but rather shall remain constant based on said rent. In addition, the increase shall be independent of any other escalation authorized by the Rent Guidelines Board and shall not be considered or included when a Rent Guidelines Board increase is effected, making the latter increase effective upon the base rent, excluding the 2.2 percent escalation. The maximum increase permitted by this subdivision (b) is 19.8 percent over the actual rental amount in effect at the commencement of the period during which the increase may be charged. The maximum increase permitted by this subdivision (b) may be charged in each year following the expiration of the tax benefit period, but shall not exceed 19.8 percent, or that amount charged in the last year of the exemption period, and shall not become part of the base rent.
+(b) Rent increases. The owner of a multiple dwelling receiving partial tax exemption may insert in each lease to be effective during the period of gradual diminution of tax exemption, as defined in 28 RCNY § 6-06(e), a provision for an annual rent increase over the initial adjusted monthly rental at a rate not to exceed 2.2 percent per annum on the anniversary date of the first lease for the unit provided, however, that no increase shall be permitted pursuant to this subdivision (b) unless specifically provided for in each affected lease, and provided further that no more than one such increase per unit may be charged or collected in each given year regardless of the number of lease renewals or new leases which may pertain to that unit. The initial 2.2 percent escalation and all subsequent escalations shall be based solely on the actual rental amount in effect (regardless of whether the legal regulated rent may be greater) at the commencement of the period during which the increase may be charged and shall not be compounded from year to year but rather shall remain constant based on said rent. In addition, the increase shall be independent of any other escalation authorized by the Rent Guidelines Board and shall not be considered or included when a Rent Guidelines Board increase is effected, making the latter increase effective upon the base rent, excluding the 2.2 percent escalation. The maximum increase permitted by this subdivision (b) is 19.8 percent over the actual rental amount in effect at the commencement of the period during which the increase may be charged. The maximum increase permitted by this subdivision (b) may be charged in each year following the expiration of the tax benefit period, but shall not exceed 19.8 percent, or that amount charged in the last year of the exemption period, and shall not become part of the base rent.
 
 (c) Annual rent schedule. Each year the owner shall make available to the Office a schedule of rents for each unit in the building.
 
@@ -6451,7 +6461,7 @@ Zoning Resolution. "Zoning Resolution" shall mean the Zoning Resolution of the C
 
 (b) Preliminary Certificate of Eligibility; documentation. An application for a Preliminary Certificate of Eligibility must be made to the Office after the commencement of construction but prior to the issuance of either a Temporary Certificate of Occupancy for all residential areas or a Permanent Certificate of Occupancy. For a public project, the Department may grant an extension of up to four years for filing the application for a Preliminary Certificate of Eligibility. The application for a Preliminary Certificate of Eligibility shall consist of an affidavit in the form required by the Office and shall include the following:
 
-   (1) A sworn statement by the owner (if the owner is other than an individual, the statement must be certified by the chief executive officer or managing partner of the owner), together with certifications by certified public accountants, appraisers, engineers and architects where required by this chapter, attesting to the accuracy of information provided to the Department concerning the eligibility of a project under § 6-02 of this chapter and the initial adjusted monthly rent required by the Act for each rental dwelling unit contained within the multiple dwelling. This sworn statement shall include, as a minimum, a statement of the following:
+   (1) A sworn statement by the owner (if the owner is other than an individual, the statement must be certified by the chief executive officer or managing partner of the owner), together with certifications by certified public accountants, appraisers, engineers and architects where required by this chapter, attesting to the accuracy of information provided to the Department concerning the eligibility of a project under 28 RCNY § 6-02 and the initial adjusted monthly rent required by the Act for each rental dwelling unit contained within the multiple dwelling. This sworn statement shall include, as a minimum, a statement of the following:
 
       (i) Total project cost of the newly constructed building and a breakdown of the costs:
 
@@ -6475,7 +6485,7 @@ Zoning Resolution. "Zoning Resolution" shall mean the Zoning Resolution of the C
 
          (D) A statement that the new multiple dwelling will contain not less than three dwelling units;
 
-         (E) A statement that not less than ten percent of the dwelling units in the new multiple dwelling will contain at least four and one-half rooms and that no less than fifteen percent of such dwelling units will contain at least three and one-half rooms, as determined pursuant to § 6-02(d) hereof, if the multiple dwelling is to contain more than one hundred dwelling units, unless such requirements are waived in writing by the Department;
+         (E) A statement that not less than ten percent of the dwelling units in the new multiple dwelling will contain at least four and one-half rooms and that no less than fifteen percent of such dwelling units will contain at least three and one-half rooms, as determined pursuant to 28 RCNY § 6-02(d), if the multiple dwelling is to contain more than one hundred dwelling units, unless such requirements are waived in writing by the Department;
 
          (F) The submission to the Department of one set of plans approved by the Department of Buildings, as evidenced by a seal of the Department of Buildings thereon or an architect's affidavit that such plans are so approved.
 
@@ -6483,23 +6493,23 @@ Zoning Resolution. "Zoning Resolution" shall mean the Zoning Resolution of the C
 
          (H) If construction commenced after November 29, 1985 and is located within the geographic exclusion area,
 
-            (a) written certification by the Department in accordance with § 6-08 herein, that 20 percent (20%) of the units contained in that building will be affordable to persons of low and moderate income; or
+            (a) written certification by the Department in accordance with 28 RCNY § 6-08, that 20 percent (20%) of the units contained in that building will be affordable to persons of low and moderate income; or
 
-            (b) written certification by the Department, in accordance with § 6-08 herein, that construction is being carried out with substantial governmental assistance; or
+            (b) written certification by the Department, in accordance with 28 RCNY § 6-08, that construction is being carried out with substantial governmental assistance; or
 
-            (c) a copy of a written agreement with the Department for the construction or substantial rehabilitation of housing units affordable to persons of low and moderate income on another site, such agreement expressly providing that the creation of said units is intended to meet the requirements of § 6-08 herein; or,
+            (c) a copy of a written agreement with the Department for the construction or substantial rehabilitation of housing units affordable to persons of low and moderate income on another site, such agreement expressly providing that the creation of said units is intended to meet the requirements of 28 RCNY § 6-08; or,
 
-            (d) Negotiable Certificates issued pursuant to § 6-08, herein, evidencing the bearer's entitlement to the benefits of the Act for the units for which the applicant is seeking tax benefits.
+            (d) Negotiable Certificates issued pursuant to §28 RCNY § 6-08, evidencing the bearer's entitlement to the benefits of the Act for the units for which the applicant is seeking tax benefits.
 
       (iii) The date upon which it is estimated that initial occupancy will commence.
 
    (2) A statement of intention that the owner will register all rental units with the New York State Department of Housing and Community Renewal prior to initial occupancy and will offer initial leases of not less than two years to tenants of such stabilized units, or such shorter term as the tenant requests, or a statement that the multiple dwelling is to be owned as a cooperative or condominium.
 
-   (3) A certified copy of a Certificate of Eviction, if required by § 6-02(f) herein.
+   (3) A certified copy of a Certificate of Eviction, if required by 28 RCNY § 6-02(f).
 
    (4) A schedule of proposed initial rents for each rental dwelling unit in the building. No requests for revision of this schedule will be considered once a Final Certificate of Eligibility has been issued for the building in question.
 
-(c) Filing fees. A non-refundable deposit toward a non-refundable filing fee for each multiple dwelling for which application is made for benefits hereunder shall be paid at the time of the filing of the application for a Preliminary Certificate of Eligibility. The deposit shall be in the amount of one hundred ($100) dollars and shall form part of the non-refundable filing fee of four-tenths (4/10) of one percent (.4%) of the total project cost as determined pursuant to § 6-05(b) herein, or four-tenths (4/10) of one percent (.4%) of the total project sell-out price, if the building will be owned as a cooperative or condominium, as stated in the last amendment to the offering plan accepted for filing by the New York State Attorney General, at the option of the applicant, less any fees paid to the Department pursuant to § 6-08(k)(3), herein, which resulted in the issuance of a written agreement. Payment of the balance of this fee shall be made no later than ninety days after approval of the application for a Preliminary Certificate of Eligibility. If payment is not made within such time, a late fee of an additional one-tenth (1/10) of one percent (.1%) of the total project cost, as determined pursuant to § 6-05(b) herein shall be charged. In no event shall any Preliminary Certificate of Eligibility be issued prior to full payment of all filing fees deemed by the Department to be outstanding. These fees shall apply to all applications where the first Certificate of Eligibility, for such application, whether Preliminary or Final, is issued after the effective date of these rules. All other applications shall be subject to the fees defined by the rules in effect immediately prior to promulgation of these rules. Payment shall be made by a certified or cashier's check payable to the Commissioner of the Department of Finance of the City of New York. If the application for a Final Certificate of Eligibility includes an increase in the amount of the total project cost, an additional filing fee shall be paid based upon such increase in the total project cost as is approved by the Department.
+(c) Filing fees. A non-refundable deposit toward a non-refundable filing fee for each multiple dwelling for which application is made for benefits hereunder shall be paid at the time of the filing of the application for a Preliminary Certificate of Eligibility. The deposit shall be in the amount of one hundred ($100) dollars and shall form part of the non-refundable filing fee of four-tenths (4/10) of one percent (.4%) of the total project cost as determined pursuant to 28 RCNY § 6-05(b), or four-tenths (4/10) of one percent (.4%) of the total project sell-out price, if the building will be owned as a cooperative or condominium, as stated in the last amendment to the offering plan accepted for filing by the New York State Attorney General, at the option of the applicant, less any fees paid to the Department pursuant to 28 RCNY § 6-08(k)(3), which resulted in the issuance of a written agreement. Payment of the balance of this fee shall be made no later than ninety days after approval of the application for a Preliminary Certificate of Eligibility. If payment is not made within such time, a late fee of an additional one-tenth (1/10) of one percent (.1%) of the total project cost, as determined pursuant to 28 RCNY § 6-05(b) shall be charged. In no event shall any Preliminary Certificate of Eligibility be issued prior to full payment of all filing fees deemed by the Department to be outstanding. These fees shall apply to all applications where the first Certificate of Eligibility, for such application, whether Preliminary or Final, is issued after the effective date of these rules. All other applications shall be subject to the fees defined by the rules in effect immediately prior to promulgation of these rules. Payment shall be made by a certified or cashier's check payable to the Commissioner of the Department of Finance of the City of New York. If the application for a Final Certificate of Eligibility includes an increase in the amount of the total project cost, an additional filing fee shall be paid based upon such increase in the total project cost as is approved by the Department.
 
 (d) Final Certificate of Eligibility: documentation.
 
@@ -6517,7 +6527,7 @@ Zoning Resolution. "Zoning Resolution" shall mean the Zoning Resolution of the C
 
       (iv) A statement of the date of completion of the building.
 
-      (v) If construction commenced after November 29, 1985 within the geographic exclusion area, and construction was not carried out with substantial governmental assistance, a copy of the Written Agreement and proof of compliance with the requirements of § 6-08 herein, including a Permanent Certificate of Occupancy for all new or substantially rehabilitated units or a Temporary Certificate of Occupancy for the entire residential portion of a building or buildings located outside the geographic exclusion area which was constructed or rehabilitated pursuant to an agreement with the Department to qualify the building located within the geographic exclusion area for the benefits of the Act. Proof of compliance shall include the requisite number of Negotiable Certificates in accordance with the ratios set forth in § 6-08(b).
+      (v) If construction commenced after November 29, 1985 within the geographic exclusion area, and construction was not carried out with substantial governmental assistance, a copy of the Written Agreement and proof of compliance with the requirements of 28 RCNY § 6-08, including a Permanent Certificate of Occupancy for all new or substantially rehabilitated units or a Temporary Certificate of Occupancy for the entire residential portion of a building or buildings located outside the geographic exclusion area which was constructed or rehabilitated pursuant to an agreement with the Department to qualify the building located within the geographic exclusion area for the benefits of the Act. Proof of compliance shall include the requisite number of Negotiable Certificates in accordance with the ratios set forth in 28 RCNY § 6-08(b).
 
       (vi) In the event that through no fault of the applicant, and due to unforeseen circumstances which are beyond the control of the applicant, construction of the off-site units which was promptly commenced and has been diligently proceeding has not been completed before the completion of the building applying for benefits pursuant to the Act, the Department, in its sole discretion, may permit the applicant to submit a Letter of Credit equal to 150 percent of the Department approved estimate of the cost of completing the off-site units. The written agreement with the Department will be amended to provide a new completion date, after which the Department shall have the authority to use the proceeds of the Letter of Credit to complete the construction.
 
@@ -6535,7 +6545,7 @@ Zoning Resolution. "Zoning Resolution" shall mean the Zoning Resolution of the C
 
       (i) for a multiple dwelling to be owned as a rental, the application must be filed prior to occupancy of the building, but no earlier than the date of the application for a Preliminary Certificate of Eligibility.
 
-      (ii) for a multiple dwelling to be owned as a condominium or a cooperative, the application must be filed prior to the first taxable status date following the completion of construction. In the event such application is not timely filed, benefits of the Act shall be revoked pursuant to § 6-07(e)(5) herein only where the failure to file such application has resulted in the extension of the construction benefit period beyond the actual period of construction.
+      (ii) for a multiple dwelling to be owned as a condominium or a cooperative, the application must be filed prior to the first taxable status date following the completion of construction. In the event such application is not timely filed, benefits of the Act shall be revoked pursuant to 28 RCNY § 6-07(e)(5) only where the failure to file such application has resulted in the extension of the construction benefit period beyond the actual period of construction.
 
       (iii) (A) For a public project, the Department may grant an extension of up to four years for filing the application for a Final Certificate of Eligibility, provided that to the extent to which the failure to file such application has resulted in the extension of the construction benefit period beyond the actual period of construction for such public project, the construction benefit period shall be retroactively adjusted so that it is coterminous with the actual construction period.
 
@@ -6553,13 +6563,13 @@ Zoning Resolution. "Zoning Resolution" shall mean the Zoning Resolution of the C
 
    (4) [Reserved.]
 
-   (5) In the event that all the required documents are not timely filed, benefits of the Act may be revoked in accordance with the procedures established pursuant to chapter thirty-nine of this title. An application shall be deemed complete when all items delineated in § 6-05 have been submitted, as well as any other documents which the Office may request.
+   (5) In the event that all the required documents are not timely filed, benefits of the Act may be revoked in accordance with the procedures established pursuant to chapter thirty-nine of this title. An application shall be deemed complete when all items delineated in 28 RCNY § 6-05 have been submitted, as well as any other documents which the Office may request.
 
    (6) Notwithstanding the provisions contained in paragraph (3) of this subdivision, the Office may grant an extension to complete an application for a Final Certificate of Eligibility for good cause shown.
 
 (e) Issuance of a Certificate of Eligibility. 
 
-   (1) Upon receipt of the application for a Preliminary Certificate of Eligibility the Department shall determine the initial adjusted monthly rent and the comparative adjusted monthly rent with respect to rental dwelling units contained within the multiple dwelling pursuant to § 6-04(a) herein. Upon the Commissioner's determination that a multiple dwelling is entitled to partial tax exemption hereunder the Department shall issue a Preliminary Certificate of Eligibility to be delivered by the applicant to the appropriate borough officer of the Property Division of the Department of Finance together with his, her or its application to the Department of Finance for partial tax exemption. Such certification shall be conditioned upon the filing and approval of an application for a Final Certificate of Eligibility as herein provided.
+   (1) Upon receipt of the application for a Preliminary Certificate of Eligibility the Department shall determine the initial adjusted monthly rent and the comparative adjusted monthly rent with respect to rental dwelling units contained within the multiple dwelling pursuant to 28 RCNY § 6-04(a). Upon the Commissioner's determination that a multiple dwelling is entitled to partial tax exemption hereunder the Department shall issue a Preliminary Certificate of Eligibility to be delivered by the applicant to the appropriate borough officer of the Property Division of the Department of Finance together with his, her or its application to the Department of Finance for partial tax exemption. Such certification shall be conditioned upon the filing and approval of an application for a Final Certificate of Eligibility as herein provided.
 
    (2) Upon receipt of the application for a Final Certificate of Eligibility and either a Temporary Certificate of Occupancy for all residential areas in the multiple dwelling or a Permanent Certificate of Occupancy, and upon the Commissioner's determination that a multiple dwelling is entitled to partial tax exemption hereunder, the Department shall issue a Final Certificate of Eligibility to be delivered by the owner to the appropriate borough officer of the Property Division of the Department of Finance between February 1st and March 15th, together with his, her or its application to the Department of Finance for partial tax exemption.
 
@@ -6581,9 +6591,9 @@ Zoning Resolution. "Zoning Resolution" shall mean the Zoning Resolution of the C
 
 (b) Diminution of tax exemption for excess commercial space. As of July 1, 1975, in the event the multiple dwelling contains Floor Area of Commercial, Community Facility and/or Accessory Use Space which exceeds twelve percent (12%) of the Aggregate Floor Area, there shall be a diminution of the tax exemption in an amount equal to the ratio of Floor Area of Commercial, Community Facility and/or Accessory Use Space in excess of twelve percent (12%) of the Aggregate Floor Area to the Aggregate Area. Where a project contains a separately assessed parcel such as a residential condominium located above a separately owned commercial space, the proportionate reduction of tax exemption resulting from Commercial, Community Facility and Accessory Use Space in excess of twelve percent (12%) shall be allocated entirely to the non-residential parcel or parcels up to the point that no exemption exists for any such parcel before applying the reduction in exemption to the residential space, provided, however, that such allocation shall only be made with respect to properties for which a preliminary application for benefits is received after July 26, 1993 or for which a final application is received after such date if no preliminary application was received.
 
-(c) Exemption during construction. Multiple Dwellings which satisfy all of the requirements set forth herein and have received a Preliminary Certificate of Eligibility shall be exempt from real property taxes, other than assessments for local improvements, upon any increase in assessed valuation over the Prior Assessed Valuation during the statutorily defined period of construction, or for a period of three years, whichever is less, provided that taxes shall be paid in each tax year in which full or partial exemption is in effect on the Prior Assessed Valuation, as defined in § 6-01(c) herein.
+(c) Exemption during construction. Multiple Dwellings which satisfy all of the requirements set forth herein and have received a Preliminary Certificate of Eligibility shall be exempt from real property taxes, other than assessments for local improvements, upon any increase in assessed valuation over the Prior Assessed Valuation during the statutorily defined period of construction, or for a period of three years, whichever is less, provided that taxes shall be paid in each tax year in which full or partial exemption is in effect on the Prior Assessed Valuation, as defined in 28 RCNY § 6-01(c).
 
-(d) Exemption after construction. After the first taxable status date immediately following the completion of construction any increase in assessed valuation over the Prior Assessed Valuation of eligible multiple dwellings which have received a Final Certificate of Eligibility shall be exempt from real property taxes, other than assessments for local improvements, for either ten, fifteen, twenty or twenty-five consecutive tax years, as provided in § 6-02(d) herein, pursuant to the following schedules. In addition, owners must pay full taxes on the Prior Assessed Valuation, as defined in § 6-01)(c) herein.
+(d) Exemption after construction. After the first taxable status date immediately following the completion of construction any increase in assessed valuation over the Prior Assessed Valuation of eligible multiple dwellings which have received a Final Certificate of Eligibility shall be exempt from real property taxes, other than assessments for local improvements, for either ten, fifteen, twenty or twenty-five consecutive tax years, as provided in 28 RCNY § 6-02(d), pursuant to the following schedules. In addition, owners must pay full taxes on the Prior Assessed Valuation, as defined in 28 RCNY § 6-01)(c). 
 
  
 
@@ -6600,23 +6610,23 @@ Zoning Resolution. "Zoning Resolution" shall mean the Zoning Resolution of the C
     * - Second
       - 100% 
     * - Third
-      -   80% 
+      - 80% 
     * - Fourth
-      -   80% 
+      - 80% 
     * - Fifth
-      -   60% 
+      - 60% 
     * - Sixth
-      -   60% 
+      - 60% 
     * - Seventh
-      -   40% 
+      - 40% 
     * - Eighth
-      -   40% 
+      - 40% 
     * - Ninth
-      -   20% 
+      - 20% 
     * - Tenth
-      -   20% 
+      - 20% 
     * - Eleventh
-      -  0% 
+      - 0% 
 ~
 
  
@@ -6634,13 +6644,13 @@ Zoning Resolution. "Zoning Resolution" shall mean the Zoning Resolution of the C
     * - First through Eleventh
       - 100% 
     * - Twelfth
-      -   80% 
+      - 80% 
     * - Thirteenth
-      -   60% 
+      - 60% 
     * - Fourteenth
-      -   40% 
+      - 40% 
     * - Fifteenth
-      -   20% 
+      - 20% 
     * - Sixteenth
       -  0% 
 ~
@@ -6660,15 +6670,15 @@ Zoning Resolution. "Zoning Resolution" shall mean the Zoning Resolution of the C
     * - First through Twelfth
       - 100% 
     * - Thirteenth and Fourteenth
-      -   80% 
+      - 80% 
     * - Fifteenth and Sixteenth
-      -   60% 
+      - 60% 
     * - Seventeenth and Eighteenth
-      -   40% 
+      - 40% 
     * - Nineteenth and Twentieth
-      -   20% 
+      - 20% 
     * - Twenty-first
-      -  0% 
+      - 0% 
 ~
 
  
@@ -6686,20 +6696,20 @@ Zoning Resolution. "Zoning Resolution" shall mean the Zoning Resolution of the C
     * - First through twenty-first
       - 100% 
     * - Twenty-second
-      -   80% 
+      - 80% 
     * - Twenty-third
-      -   60% 
+      - 60% 
     * - Twenty-fourth
-      -   40% 
+      - 40% 
     * - Twenty-fifth
-      -   20% 
+      - 20% 
     * - Twenty-sixth
-      -  0% 
+      - 0% 
 ~
 
  
 
-(e) Period of gradual diminution of tax exemption. Solely for purposes of § 6-04(b) of this chapter, the period of gradual diminution of tax exemption shall be the following:
+(e) Period of gradual diminution of tax exemption. Solely for purposes of 28 RCNY § 6-04(b), the period of gradual diminution of tax exemption shall be the following:
 
    (1) For the ten year benefit period, the ten years beginning in the first year of exemption after completion of construction.
 
@@ -6717,9 +6727,9 @@ Zoning Resolution. "Zoning Resolution" shall mean the Zoning Resolution of the C
 *§ 6-07 Record Keeping; Revocation of Tax Exemption; Discrimination Prohibited. [Repealed]* ::
 
 
-(a) Multiple dwellings affected. Within the geographic exclusion area described in § 6-02(c)(10) herein, the benefits of the Act are available only to multiple dwellings which would otherwise be eligible for benefits of the Act pursuant to the provisions of these rules and where construction commenced on or before November 29, 1985, unless such construction is carried out with substantial governmental assistance, or the owner thereof complies with the requirements of this section.
+(a) Multiple dwellings affected. Within the geographic exclusion area described in 28 RCNY § 6-02(c)(10), the benefits of the Act are available only to multiple dwellings which would otherwise be eligible for benefits of the Act pursuant to the provisions of these rules and where construction commenced on or before November 29, 1985, unless such construction is carried out with substantial governmental assistance, or the owner thereof complies with the requirements of this section.
 
-(b) Number of affordable units required to be created. A multiple dwelling located in the geographic exclusion area which would otherwise be eligible pursuant to the provisions of these rules and not constructed with substantial government assistance may qualify for benefits under the Act by the method described in either paragraph (1), (2), (3), (4), (5), or (6) of this § 6-08(b). The ratio of the number of affordable units to be created to the number of units in a multiple dwelling located within the geographic exclusion area seeking the benefits of the Act are listed below. 
+(b) Number of affordable units required to be created. A multiple dwelling located in the geographic exclusion area which would otherwise be eligible pursuant to the provisions of these rules and not constructed with substantial government assistance may qualify for benefits under the Act by the method described in either paragraph (1), (2), (3), (4), (5), or (6) of this 28 RCNY § 6-08(b). The ratio of the number of affordable units to be created to the number of units in a multiple dwelling located within the geographic exclusion area seeking the benefits of the Act are listed below. 
 
  
 
@@ -6729,23 +6739,23 @@ Zoning Resolution. "Zoning Resolution" shall mean the Zoning Resolution of the C
 
     * - Paragraph
       - Ratio
-    * - § 6-08(b)(1)
+    * - 28 RCNY § 6-08(b)(1)
       - 1:5
-    * - § 6-08(b)(2)
+    * - 28 RCNY § 6-08(b)(2)
       - 1:5
-    * - § 6-08(b)(3)(i)
+    * - 28 RCNY § 6-08(b)(3)(i)
       - 1:4
-    * - § 6-08(b)(3)(ii)
+    * - 28 RCNY § 6-08(b)(3)(ii)
       - 1:3.3
-    * - § 6-08(b)(4)(i)
+    * - 28 RCNY § 6-08(b)(4)(i)
       - 1:5
-    * - § 6-08(b)(4)(ii)
+    * - 28 RCNY § 6-08(b)(4)(ii)
       - 1:4
-    * - § 6-08(b)(4)(iii)
+    * - 28 RCNY § 6-08(b)(4)(iii)
       - 1:6
-    * - § 6-08(b)(5)(i)
+    * - 28 RCNY § 6-08(b)(5)(i)
       - 1:2.3
-    * - § 6-08(b)(5)(i)
+    * - 28 RCNY § 6-08(b)(5)(i)
       - 1:2
 ~
 
@@ -6753,7 +6763,7 @@ Zoning Resolution. "Zoning Resolution" shall mean the Zoning Resolution of the C
 
    (1) Obtaining the certification of the Department that twenty percent (20%) of the units contained in the multiple dwelling applying for benefits pursuant to the Act shall be rented to persons of low and moderate income as defined by this chapter at rents to be determined by the Department pursuant to this section.
 
-   (2) Entering into a written agreement with the Department on or before December 31, 1990 to create through new construction on a site or sites meeting the requirements of § 6-02(f), herein, Class A dwelling units to be rented to persons of low and moderate income as defined by this chapter at rents to be determined by the Department pursuant to this section numbering at least twenty percent (20%) of the units in the multiple dwelling located within the geographic exclusion area seeking benefits pursuant to the Act.
+   (2) Entering into a written agreement with the Department on or before December 31, 1990 to create through new construction on a site or sites meeting the requirements of 28 RCNY § 6-02(f), Class A dwelling units to be rented to persons of low and moderate income as defined by this chapter at rents to be determined by the Department pursuant to this section numbering at least twenty percent (20%) of the units in the multiple dwelling located within the geographic exclusion area seeking benefits pursuant to the Act.
 
    (3) Entering into a written agreement with the Department on or before December 31, 1990 to substantially rehabilitate an existing Class A multiple dwelling, the residential portion of which is vacant, to be rented to persons of low and moderate income as defined by this chapter at rents to be determined by this section. The number of units to be substantially rehabilitated shall be in accordance with the following ratios:
 
@@ -6761,7 +6771,7 @@ Zoning Resolution. "Zoning Resolution" shall mean the Zoning Resolution of the C
 
       (ii) thirty percent (30%) of the number of units contained in the multiple dwelling or dwellings located within the geographic exclusion area which will be owned as a cooperative or condominium.
 
-   (4) Entering into a Written Agreement with the Department on or after January 1, 1991 to create Class A dwelling units through new construction on a site or sites meeting the requirements of § 6-02(f) herein, to convert an existing non-residential building to a Class A multiple dwelling, or to substantially rehabilitate an existing Class A multiple dwelling building, the residential portion of which is vacant and has been entirely vacant for not less than three years, to be rented to:
+   (4) Entering into a Written Agreement with the Department on or after January 1, 1991 to create Class A dwelling units through new construction on a site or sites meeting the requirements of 28 RCNY § 6-02(f) to convert an existing non-residential building to a Class A multiple dwelling, or to substantially rehabilitate an existing Class A multiple dwelling building, the residential portion of which is vacant and has been entirely vacant for not less than three years, to be rented to:
 
       (i) persons of low income as defined by this chapter at the rents to be determined by the Department pursuant to this chapter numbering at least twenty percent (20%) of the units in the multiple dwelling located within the geographic exclusion area seeking benefits pursuant to the Act.
 
@@ -6775,11 +6785,11 @@ Zoning Resolution. "Zoning Resolution" shall mean the Zoning Resolution of the C
 
       (ii) fifty-one percent (51%) of the number of units contained in the multiple dwelling or dwellings located within the geographic exclusion area which will be owned as a cooperative or condominium.
 
-   (6) If the average size of the residential units contained in the multiple dwelling or dwellings located within the geographic exclusion area seeking benefits pursuant to the Act exceeds 1,200 square feet, the Department shall increase the number of affordable units which must be created pursuant to paragraphs (2), (3), (4) or (5) of § 6-08(b) by multiplying that number of units by the ratio of the average square footage to 1200 square feet unless the average square footage per unit of the low and moderate income units is equal to those of the multiple dwelling in the geographic exclusion area and the developer is the same for the geographic exclusion area units and the affordable units.
+   (6) If the average size of the residential units contained in the multiple dwelling or dwellings located within the geographic exclusion area seeking benefits pursuant to the Act exceeds 1,200 square feet, the Department shall increase the number of affordable units which must be created pursuant to paragraphs (2), (3), (4) or (5) of 28 RCNY § 6-08(b) by multiplying that number of units by the ratio of the average square footage to 1200 square feet unless the average square footage per unit of the low and moderate income units is equal to those of the multiple dwelling in the geographic exclusion area and the developer is the same for the geographic exclusion area units and the affordable units.
 
    (7) If the number of low and moderate income units to be created exceeds 130, two out of every three units in excess of 130 must be rented to moderate income households as defined in this chapter, and must number twenty-five percent (25%) of the number of the units in the multiple dwelling located within the geographic exclusion area seeking the benefits of the Act; and one out of every three units in excess of 130 must be rented to low income households as defined in this section, and must number twenty percent (20%) of the number of units in the multiple dwelling located within the geographic exclusion area seeking the benefits of this Act.
 
-(c) Location of affordable units. Dwelling units created to satisfy the requirements of this section must be contained in a multiple dwelling located on a site or sites outside of the geographic exclusion area, except those affordable units contained in the multiple dwelling, located within the geographic exclusion area, seeking benefits of the Act. In addition, where a written agreement was executed on or after January 1, 1991, dwelling units created to satisfy the requirements of this chapter may also be located on a site or sites within the geographic exclusion area. Sites outside of the geographic exclusion area may be either privately owned or owned by the City of New York. The development of City owned sites must be carried out pursuant to the provisions of § 6-08(d).
+(c) Location of affordable units. Dwelling units created to satisfy the requirements of this section must be contained in a multiple dwelling located on a site or sites outside of the geographic exclusion area, except those affordable units contained in the multiple dwelling, located within the geographic exclusion area, seeking benefits of the Act. In addition, where a written agreement was executed on or after January 1, 1991, dwelling units created to satisfy the requirements of this chapter may also be located on a site or sites within the geographic exclusion area. Sites outside of the geographic exclusion area may be either privately owned or owned by the City of New York. The development of City owned sites must be carried out pursuant to the provisions of 28 RCNY § 6-08(d).
 
 (d) Development of City-owned sites.
 
@@ -6819,33 +6829,43 @@ Zoning Resolution. "Zoning Resolution" shall mean the Zoning Resolution of the C
 
     * - Year After Expiration of Lower Income Housing Plan 
       - Maximum % of Units that can be at Market 
+~
+
+
+
+
+
+
+.. list-table::
+    :header-rows: 1
+
     * - One
-      -  0% 
+      - 0% 
     * - Two
-      -  0% 
+      - 0% 
     * - Three
-      -   20% 
+      - 20% 
     * - Four
-      -   20% 
+      - 20% 
     * - Five
-      -   40% 
+      - 40% 
     * - Six
-      -   40% 
+      - 40% 
     * - Seven
-      -   60% 
+      - 60% 
     * - Eight
-      -   60% 
+      - 60% 
     * - Nine
-      -   80% 
+      - 80% 
     * - Ten
-      -   80% 
+      - 80% 
     * - Eleven
       - 100% 
 ~
 
  
 
-         (C) The developer shall enter into an agreement with the Department to fund two reserve funds. The first shall create sufficient funds for maintenance and operation of the affordable housing units to the extent to which maintenance and operating expenses exceed income available from the rent roll, and shall be created in accordance with § 6-08(f)of this section. The second covers capital improvement costs and will require the developer to deposit with the City a Capital Improvement Escrow Fund equal to 1 percent (1%) of total development costs. The developer will be required to replenish the fund within sixty (60) days of any drawing down. Interest will accrue to such Fund, which will be held by the Department. The not-for-profit can draw on this escrow fund upon authorization by the Department if the developer fails to make necessary capital repairs. Neither the Department nor the City shall have any liability as Escrow Agent; the Department's determination of withdrawal of funds shall be binding on all parties.
+         (C) The developer shall enter into an agreement with the Department to fund two reserve funds. The first shall create sufficient funds for maintenance and operation of the affordable housing units to the extent to which maintenance and operating expenses exceed income available from the rent roll, and shall be created in accordance with 28 RCNY § 6-08(f). The second covers capital improvement costs and will require the developer to deposit with the City a Capital Improvement Escrow Fund equal to 1 percent (1%) of total development costs. The developer will be required to replenish the fund within sixty (60) days of any drawing down. Interest will accrue to such Fund, which will be held by the Department. The not-for-profit can draw on this escrow fund upon authorization by the Department if the developer fails to make necessary capital repairs. Neither the Department nor the City shall have any liability as Escrow Agent; the Department's determination of withdrawal of funds shall be binding on all parties.
 
          (D) If HPD approves a not-for-profit manager, the developer must enter into a purchase option contract with the not-for-profit for the period of the affordable housing plan. This option contract shall state that the not-for-profit manager may purchase the affordable units for $1 if the owner abandons the project. Evidence of abandonment shall include failure by the developer to meet the maintenance and operating expenses, failure to replenish the Capital Improvement Escrow Fund, or failure to make necessary repairs. Further, if during the time of the Federal Low Income Housing Credit, such credit is revoked and recaptured due to failure by the developer to comply with the applicable provisions of the Internal Revenue Code and any applicable regulations, then the not-for-profit may exercise the purchase option listed above. If the developer retains ownership through the end of the affordable housing plan, then the Capital Improvement Escrow Fund is paid to the developer upon expiration of the affordable housing plan. If the developer abandons the development before the end of the expiration of the affordable housing plan, then the Capital Improvement Escrow Fund is transferred to the not-for-profit. The purchase option contract may provide for an automatic termination of the contract if HPD approves termination of the not-for-profit as managing agent. In the absence of a not-for-profit manager, HPD may require the owner to enter into a purchase option contract with a not-for-profit acceptable to HPD which would take effect in the event of abandonment.
 
@@ -6855,13 +6875,13 @@ Zoning Resolution. "Zoning Resolution" shall mean the Zoning Resolution of the C
 
    (1) Affordable Class A dwelling units created through new construction must meet the standards set forth in the Department's "Design Guidelines For Housing – New Construction" and "Standard Specifications" ("Design Guidelines") (applicant should obtain the most recent edition of the Design Guidelines from the Department). In addition, such dwelling units must satisfy one of the following requirements:
 
-      (i) Unless the affordable units are created under § 6-08(b)(3) or § 6-08(b)(5), 50 percent (50%) of the units must contain two or more bedrooms, and in all cases average square footage and bedroom mix must be equally distributed with respect to all income levels; or
+      (i) Unless the affordable units are created under 28 RCNY § 6-08(b)(3) or (b)(5), 50 percent (50%) of the units must contain two or more bedrooms, and in all cases average square footage and bedroom mix must be equally distributed with respect to all income levels; or
 
-      (ii) For multiple dwellings that commence construction before December 28, 2007, such affordable units must be located in the same building and must contain the same average square footage and bedroom mix of all residential units contained in such multiple dwelling. For multiple dwellings that commence construction on or after December 28, 2007, if the affordable units are created in accordance with § 6-08(b)(1) and unless preempted by federal requirements, (A) all affordable units must have a comparable number of bedrooms and a unit mix proportional to the market rate units contained in such multiple dwelling, or (B) at least fifty percent (50%) of the affordable units must have two or more bedrooms and not more than fifty percent (50%) of the remaining affordable units can be smaller than one bedroom, or (C) the floor area of the affordable units must be no less than twenty percent of the total floor area of all dwelling units in such multiple dwelling.
+      (ii) For multiple dwellings that commence construction before December 28, 2007, such affordable units must be located in the same building and must contain the same average square footage and bedroom mix of all residential units contained in such multiple dwelling. For multiple dwellings that commence construction on or after December 28, 2007, if the affordable units are created in accordance with 28 RCNY § 6-08(b)(1) and unless preempted by federal requirements, (A) all affordable units must have a comparable number of bedrooms and a unit mix proportional to the market rate units contained in such multiple dwelling, or (B) at least fifty percent (50%) of the affordable units must have two or more bedrooms and not more than fifty percent (50%) of the remaining affordable units can be smaller than one bedroom, or (C) the floor area of the affordable units must be no less than twenty percent of the total floor area of all dwelling units in such multiple dwelling.
 
    (2) Affordable Class A dwelling units created through substantial rehabilitation or conversion must meet the standards set forth in the Department's "Design Guidelines For Housing – Substantial Rehabilitation" and "Standard Specifications." ("Design Guidelines") (applicant should obtain the most recent edition of the Design Guidelines from the Department).
 
-      (i) In order for the rehabilitation of a vacant multiple dwelling or the conversion of a non-residential building to qualify under § 6-08(b)(4) of these rules, the scope of work must include but is not limited to the following:
+      (i) In order for the rehabilitation of a vacant multiple dwelling or the conversion of a non-residential building to qualify under 28 RCNY § 6-08(b)(4), the scope of work must include but is not limited to the following:
 
          (A) Beam replacement, to the extent required by the Department
 
@@ -6899,9 +6919,9 @@ Zoning Resolution. "Zoning Resolution" shall mean the Zoning Resolution of the C
 
       (ii) At least fifty percent (50%) of the affordable units created pursuant to this paragraph shall contain two or more bedrooms each, except that the Department may reduce the bedrooms requirements when, in the sole opinion of the Department, existing structural elements preclude compliance. If the Department approves a reduction in the number of bedrooms, the developer will be required to rehabilitate or create through conversion additional units in a room and bedroom configuration which is acceptable to the Department, to compensate for the number of bedrooms and square footage which would have been obtained had the bedroom requirement been met. For the purposes of computation, the Department will require three studios or two one-bedroom units to be built for every two-bedroom unit lost. The Department will seek the solution which results in creating apartments with the highest bedroom count possible, consistent with the Department's policy of creating housing which meets the needs of families.
 
-   (3) Single Room Occupancy Units created to conform to § 6-08(b)(5) must conform to the Department's Single Room Occupancy Guidelines (applicant should obtain the most recent edition of the Guidelines from the Department).
+   (3) Single Room Occupancy Units created to conform to 28 RCNY § 6-08(b)(5) must conform to the Department's Single Room Occupancy Guidelines (applicant should obtain the most recent edition of the Guidelines from the Department).
 
-(h) Income and occupancy requirements. All units created pursuant to this section must, at initial occupancy, be affordable to low and moderate income households, as defined in this chapter. Such units must be rented to households earning no more than four times the annual rent for the dwelling unit established pursuant to § 6-08(i), herein, and must be rented to households that consist of the minimum number of people as specified below: 
+(h) Income and occupancy requirements. All units created pursuant to this section must, at initial occupancy, be affordable to low and moderate income households, as defined in this chapter. Such units must be rented to households earning no more than four times the annual rent for the dwelling unit established pursuant to 28 RCNY § 6-08(i), and must be rented to households that consist of the minimum number of people as specified below: 
 
  
 
@@ -6927,7 +6947,7 @@ Zoning Resolution. "Zoning Resolution" shall mean the Zoning Resolution of the C
 
 (i) Initial rents; re-rentals. 
 
-   (1) For projects permitted to assume debt pursuant to § 6-08(o)(2), the Department shall establish initial rents for individual units as provided in subparagraph (i). For all other projects, initial rents shall be established as provided in subparagraph (ii).
+   (1) For projects permitted to assume debt pursuant to 28 RCNY § 6-08(o)(2), the Department shall establish initial rents for individual units as provided in subparagraph (i). For all other projects, initial rents shall be established as provided in subparagraph (ii).
 
       (i) Units rented to persons of low income are not to exceed 30% of 55% of median income. Units rented to persons of moderate income are not to exceed the average of 30% of 75% of median income, provided that no initial annual rent will be established for any unit in a moderate or mixed income project which exceeds 30% of 95% of annual median income. The Department shall establish a total rent roll for units created pursuant to this section based upon program-wide standards for the amount necessary for maintenance, operation, administration, creation of normal reserve accounts, debt service, and in consideration of the income level to be served. For the purpose of determining median income, the following family sizes shall be imputed: 
 
@@ -6983,7 +7003,7 @@ Zoning Resolution. "Zoning Resolution" shall mean the Zoning Resolution of the C
 
    (2) Such written agreement may be entered into after the commencement of construction of the multiple dwelling or dwellings located in the geographic exclusion area seeking benefits of this Act.
 
-   (3) Any request for a written agreement pursuant to § 6-08(1) herein shall be accompanied by a filing fee of $100 for each proposed unit of affordable housing, which fee shall be non-refundable but shall be applied to the filing fee for the tax benefits for the affordable units, as established by § 6-05(c) herein and § 5-05(f) of Title 28 of the Rules of the City of New York governing tax exemption and abatement pursuant to § 11-243 of the Administrative Code (J-51).
+   (3) Any request for a written agreement pursuant to 28 RCNY § 6-08(l) shall be accompanied by a filing fee of $100 for each proposed unit of affordable housing, which fee shall be non-refundable but shall be applied to the filing fee for the tax benefits for the affordable units, as established by 28 RCNY § 6-05(c) and 28 RCNY § 5-05(f) governing tax exemption and abatement pursuant to § 11-243 of the Administrative Code (J-51).
 
 (l) Request for written agreement. The following shall be required to be submitted to the Department with any request for a written agreement. Once approved, all documents will be incorporated into the agreement, the complete package to be referred to as The 421-a Written Agreement for Creation of Affordable Housing:
 
@@ -7021,15 +7041,15 @@ Zoning Resolution. "Zoning Resolution" shall mean the Zoning Resolution of the C
 
    (7) A marketing plan for tenant selection and apartment rental. The marketing plan shall identify specific organizations or institutions, such as Community Boards, not-for-profit organizations, senior citizen centers, religious institutions, etc., which shall advertise the availability of the affordable units and must be in accordance with the Department's marketing guidelines, which can be obtained from the Department. All marketing efforts must meet equal opportunity and fair housing guidelines.
 
-   (8) A statement that a rental multiple dwelling located within the geographic exclusion area which qualified for benefits under the Act pursuant to § 6-08(b)(3), (4) or (6) of this section will not be converted to cooperative or condominium ownership during the period of partial tax exemption. Conversion may be permitted by the Department subsequent to the expiration of the period of partial tax exemption where the affordable units are owned by a for-profit organization only if the conversion sponsor:
+   (8) A statement that a rental multiple dwelling located within the geographic exclusion area which qualified for benefits under the Act pursuant to 28 RCNY § 6-08(b)(3), (4) or (6) of this section will not be converted to cooperative or condominium ownership during the period of partial tax exemption. Conversion may be permitted by the Department subsequent to the expiration of the period of partial tax exemption where the affordable units are owned by a for-profit organization only if the conversion sponsor:
 
       (i) enters into a Written Agreement with the Department to provide for the maintenance and operation of the affordable units for the remainder of the 20 years or the period during which such units receive tax benefits under any New York State or New York City tax abatement or exemption program, whichever is longer, or
 
       (ii) transfers the ownership of the affordable units to a not-for-profit organization qualified by the Department.
 
-   (9) Where affordable units are created pursuant to § 6-08(b)(1) herein, a statement that such units will not be converted to condominium or cooperative ownership for 20 years, or as long as the buildings containing the affordable units receive tax benefits under any tax abatement or tax exemption program from the State of New York or the City of New York, whichever is longer.
+   (9) Where affordable units are created pursuant to 28 RCNY § 6-08(b)(1), a statement that such units will not be converted to condominium or cooperative ownership for 20 years, or as long as the buildings containing the affordable units receive tax benefits under any tax abatement or tax exemption program from the State of New York or the City of New York, whichever is longer.
 
-   (10) Where the affordable units will be owned by for-profit organization, except those units meeting the requirements of § 6-08, a statement that the recipient of the benefits of this Act will be responsible for the maintenance and operation of the units in a habitable condition. If the units will be owned by a not-for-profit organization as permitted under § 6-08(e)(2)(iii) of this chapter, the developer shall be required to fund a reserve fund in the amount of $2.25 for each square foot of affordable housing provided, in the same manner as that described in § 6-08(f), and a Capital Improvement Escrow Fund in accordance with § 6-08(e)(2)(iii).
+   (10) Where the affordable units will be owned by for-profit organization, except those units meeting the requirements of 28 RCNY § 6-08, a statement that the recipient of the benefits of this Act will be responsible for the maintenance and operation of the units in a habitable condition. If the units will be owned by a not-for-profit organization as permitted under 28 RCNY § 6-08(e)(2)(iii), the developer shall be required to fund a reserve fund in the amount of $2.25 for each square foot of affordable housing provided, in the same manner as that described in 28 RCNY § 6-08(f), and a Capital Improvement Escrow Fund in accordance with 28 RCNY § 6-08(e)(2)(iii).
 
    (11) For units to be owned by a not-for-profit organization, an agreement to fund a blocked reserve account, in an amount specified by this section and administered by the Department, or to create such a fund should the units owned by a for-profit organization be transferred to a not-for-profit in the future.
 
@@ -7055,7 +7075,7 @@ Zoning Resolution. "Zoning Resolution" shall mean the Zoning Resolution of the C
 
    (2) Upon the submission to the Department of a permanent Certificate of Occupancy for, or the temporary Certificate of Occupancy for the entire residential portion of, the building containing the affordable units created pursuant to this section, the Department shall conduct a site inspection. Following that site inspection and upon satisfaction that all terms of the Written Agreement and of this section have been met, the Department shall issue the Negotiable Certificates representing the completion of the affordable units.
 
-   (3) Such Negotiable Certificate shall be required prior to the issuance of the Final Certificate of Eligibility for a multiple dwelling located within the geographic exclusion area pursuant to § 6-05(e) of this chapter, unless at the sole option of the Department, pursuant to § 6-05(d)(l)(vi) of this chapter, a Letter of Credit has been submitted to the Department.
+   (3) Such Negotiable Certificate shall be required prior to the issuance of the Final Certificate of Eligibility for a multiple dwelling located within the geographic exclusion area pursuant to 28 RCNY § 6-05(e), unless at the sole option of the Department, pursuant to 28 RCNY § 6-05(d)(l)(vi), a Letter of Credit has been submitted to the Department.
 
    (4) Such Negotiable Certificate shall provide that a specified number of dwelling units containing up to an average size of twelve hundred square feet to be constructed in the geographic exclusion area shall be eligible to receive benefits of the Act.
 
@@ -7063,21 +7083,21 @@ Zoning Resolution. "Zoning Resolution" shall mean the Zoning Resolution of the C
 
 (n) Governmental assistance to affordable units.
 
-   (1) Affordable units created pursuant to § 6-08(b) herein may not be the recipient of any other as-of-right or discretionary government benefit, consideration or assistance, excluding tax exempt financing, federal low income housing tax credits, and real estate tax benefits enumerated in paragraph (3) of this subdivision (n).
+   (1) Affordable units created pursuant to 28 RCNY § 6-08(b) may not be the recipient of any other as-of-right or discretionary government benefit, consideration or assistance, excluding tax exempt financing, federal low income housing tax credits, and real estate tax benefits enumerated in paragraph (3) of this subdivision (n).
 
-   (2) Affordable units created to satisfy the low and moderate income housing requirements of any other governmental benefit, consideration or assistance except tax exempt financing, federal low income housing tax credits, and real estate tax benefits enumerated in paragraph (3) of this subdivision (n) shall not be considered as being created to satisfy the requirements of this section. Units created pursuant to § 6-08(b)(i) herein shall not also qualify as affordable units under this section.
+   (2) Affordable units created to satisfy the low and moderate income housing requirements of any other governmental benefit, consideration or assistance except tax exempt financing, federal low income housing tax credits, and real estate tax benefits enumerated in paragraph (3) of this subdivision (n) shall not be considered as being created to satisfy the requirements of this section. Units created pursuant to 28 RCNY § 6-08(b)(i) shall not also qualify as affordable units under this section.
 
    (3) In order to qualify a multiple dwelling located within the geographic exclusion area for benefits under the Act, affordable units created by rehabilitation or conversion must receive a Certificate of Eligibility for the benefits of § 11-243 or 11-244 of the Administrative Code or § 421-g of the Real Property Tax Law, and affordable units created by new construction must receive a Certificate of Eligibility for the benefits of the Act, unless such units obtain tax exemption pursuant to § 420-a or 420-b of the Real Property Tax Law, § 696 of the General Municipal Law, or § 577 of the Private Housing Finance Law.
 
-   (4) Affordable units created pursuant to § 6-08(b)(2) through § 6-08(b)(5) of these rules may not be used, or have been used, to satisfy a requirement to create low or moderate income housing imposed by a federal, state, or local agency or instrumentality or pursuant to a court or administrative order or decree (unless such requirement is imposed solely as a condition to receiving bond financing or federal low income housing tax credits for the property containing the affordable units).
+   (4) Affordable units created pursuant to 28 RCNY § 6-08(b)(2) through (b)(5) of these rules may not be used, or have been used, to satisfy a requirement to create low or moderate income housing imposed by a federal, state, or local agency or instrumentality or pursuant to a court or administrative order or decree (unless such requirement is imposed solely as a condition to receiving bond financing or federal low income housing tax credits for the property containing the affordable units).
 
    (5) Notwithstanding anything to the contrary contained in this subdivision, affordable units created to satisfy the requirements of the inclusionary housing program established pursuant to the New York City Zoning Resolution may be used to qualify a multiple dwelling in the geographic exclusion area for the benefits of the Act provided that (i) at least twenty percent (20%) of the units contained in the multiple dwelling applying for such benefits are affordable to persons of low and moderate income as defined by this chapter, and (ii) such affordable units only generate floor area compensation for a compensated development on either (a) the same zoning lot as such affordable units, or (b) within a development site on which such affordable units are located where such development site involves several zoning lots that were reviewed and approved as a single unit pursuant to the New York City Zoning Resolution. For purposes of this paragraph (5), "floor area compensation" and "compensated development" shall have the meanings set forth in Section 23-911 of the New York City Zoning Resolution.
 
 (o) Mortgage and debt limitations.
 
-   (1) In the case of a project which qualifies for tax benefits pursuant to § 6-08(b)(1), any lien or mortgage encumbering one or more low and moderate income units in such project shall expressly provide that it is subject and subordinate to the Written Agreement imposing the restrictions required by this § 6-08, commencing upon issuance of a Final Certificate of Eligibility for such tax benefits.
+   (1) In the case of a project which qualifies for tax benefits pursuant to 28 RCNY § 6-08(b)(1), any lien or mortgage encumbering one or more low and moderate income units in such project shall expressly provide that it is subject and subordinate to the Written Agreement imposing the restrictions required by this 28 RCNY § 6-08, commencing upon issuance of a Final Certificate of Eligibility for such tax benefits.
 
-   (2) Projects undertaken pursuant to either § 6-08(b)(4)(i), § 6-08(b)(4)(ii), or § 6-08(b)(4)(iii) may be encumbered with a lien or mortgage, provided the amount of debt placed on the project permits rents for such units to comply with the provisions of § 6-08(i) and such lien or mortgage expressly provides that it is subject and subordinate to the Written Agreement.
+   (2) Projects undertaken pursuant to either 28 RCNY § 6-08(b)(4)(i), (b)(4)(ii), or (b)(4)(iii) may be encumbered with a lien or mortgage, provided the amount of debt placed on the project permits rents for such units to comply with the provisions of 28 RCNY § 6-08(i) and such lien or mortgage expressly provides that it is subject and subordinate to the Written Agreement.
 
 
 
@@ -7171,7 +7191,7 @@ Zoning Resolution. "Zoning Resolution" shall mean the Zoning Resolution of the C
 
       (iii) such multiple dwelling has purchased negotiable certificates in order to entitle it to the benefits of the Act for a specified number of units in the geographic exclusion area; provided, however, that such negotiable certificates were generated by a Written Agreement with the Department entered into prior to December 28, 2007 pursuant to 28 RCNY § 6-08(b)(4).
 
-   (2) For thirty-five years from the completion of construction, all GEA 60% AMI units and GEA SGA units in multiple dwellings must (i) if they are owned and operated as rentals, remain rent stabilized and allow tenants holding a lease and in occupancy at the expiration of such thirty-five year period to remain as rent stabilized tenants for the duration of their occupancy, (ii) comply with the affordability requirement, and (iii) upon the renewal of leases or at any time during the term of the lease, be rented to existing tenants for the lesser of (A) the rents permitted under the Rent Stabilization Law of 1969 and the Emergency Tenant Protection Act of 1974 and all regulations promulgated in connection thereto (collectively, "Rent Stabilization Laws"), or (B) 30% of the applicable income limit for such GEA 60% AMI unit or GEA SGA unit, respectively, minus the amount of any applicable utility allowance, provided, however, that no increase authorized pursuant to 28 RCNY § 6-04(b) and no exemption or exclusion from any requirement of the Rent Stabilization Laws, including, but not limited to, any exemption or exclusion from the rent limits, renewal lease requirements, registration requirements, or other provisions of the Rent Stabilization Laws due to (a) the vacancy of a unit where the rent exceeds a prescribed maximum amount, (b) the fact that tenant income and/or unit rent exceed prescribed maximum amounts, (c) the nature of the tenant, or (d) any other factor, may be applied to any such GEA 60% AMI unit or GEA SGA unit during such thirty-five year period. Furthermore, the lease for each such unit owned and operated as a rental and for the renewal thereof must contain a notice in at least twelve (12) point type stating the approximate date on which such thirty-five year period is expected to expire and informing such tenant that after such thirty-five year period, (i) the unit will no longer have to comply with the affordability requirement and (ii) if the tenant is holding a lease and in occupancy at the expiration of such thirty-five year period, such tenant shall have the right to remain as a rent stabilized tenant for the duration of such tenant's occupancy. The rent stabilization and lease rider requirements contained in § 6-02(g) of this chapter shall continue to apply to the multiple dwellings owned and operated as a rental containing such GEA 60% AMI units or GEA SGA units to the extent that they do not conflict with this paragraph.
+   (2) For thirty-five years from the completion of construction, all GEA 60% AMI units and GEA SGA units in multiple dwellings must (i) if they are owned and operated as rentals, remain rent stabilized and allow tenants holding a lease and in occupancy at the expiration of such thirty-five year period to remain as rent stabilized tenants for the duration of their occupancy, (ii) comply with the affordability requirement, and (iii) upon the renewal of leases or at any time during the term of the lease, be rented to existing tenants for the lesser of (A) the rents permitted under the Rent Stabilization Law of 1969 and the Emergency Tenant Protection Act of 1974 and all regulations promulgated in connection thereto (collectively, "Rent Stabilization Laws"), or (B) 30% of the applicable income limit for such GEA 60% AMI unit or GEA SGA unit, respectively, minus the amount of any applicable utility allowance, provided, however, that no increase authorized pursuant to 28 RCNY § 6-04(b) and no exemption or exclusion from any requirement of the Rent Stabilization Laws, including, but not limited to, any exemption or exclusion from the rent limits, renewal lease requirements, registration requirements, or other provisions of the Rent Stabilization Laws due to (a) the vacancy of a unit where the rent exceeds a prescribed maximum amount, (b) the fact that tenant income and/or unit rent exceed prescribed maximum amounts, (c) the nature of the tenant, or (d) any other factor, may be applied to any such GEA 60% AMI unit or GEA SGA unit during such thirty-five year period. Furthermore, the lease for each such unit owned and operated as a rental and for the renewal thereof must contain a notice in at least twelve (12) point type stating the approximate date on which such thirty-five year period is expected to expire and informing such tenant that after such thirty-five year period, (i) the unit will no longer have to comply with the affordability requirement and (ii) if the tenant is holding a lease and in occupancy at the expiration of such thirty-five year period, such tenant shall have the right to remain as a rent stabilized tenant for the duration of such tenant's occupancy. The rent stabilization and lease rider requirements contained in 28 RCNY § 6-02(g) shall continue to apply to the multiple dwellings owned and operated as a rental containing such GEA 60% AMI units or GEA SGA units to the extent that they do not conflict with this paragraph.
 
    (2-a) (i) Notwithstanding anything to the contrary contained in this section, rents for GEA 60% AMI units or GEA SGA units in multiple dwellings that are subject to a HAP Contract may exceed 30% of the applicable income limit for such GEA 60% AMI units or GEA SGA units, at initial occupancy and upon renewal of leases, if
 
@@ -7231,87 +7251,15 @@ Zoning Resolution. "Zoning Resolution" shall mean the Zoning Resolution of the C
 *§ 6-10 Applicability of Certain Provisions.* ::
 
 
-Except as otherwise specifically provided therein, the amendments to this chapter six that became effective on June 19, 2008, shall only apply to multiple dwellings that commence construction on or after July 1, 2008. For purposes of determining when any such multiple dwelling has commenced construction, the definition of "commence" in such amendments shall apply and, where it is determined that such multiple dwelling commenced construction on or after July 1, 2008, the definition of "commence" in such amendments shall supersede the definition of "commencement of construction" contained in § 6-01 of this chapter.
+Except as otherwise specifically provided therein, the amendments to this chapter six that became effective on June 19, 2008, shall only apply to multiple dwellings that commence construction on or after July 1, 2008. For purposes of determining when any such multiple dwelling has commenced construction, the definition of "commence" in such amendments shall apply and, where it is determined that such multiple dwelling commenced construction on or after July 1, 2008, the definition of "commence" in such amendments shall supersede the definition of "commencement of construction" contained in 28 RCNY § 6-01.
 
 
 
 
 
 
-*APPENDIX A  ANNUAL SCHEDULE OF REASONABLE COSTS* ::
 
-
-(a) Construction costs. The construction cost component of the Total Project Cost, excluding land acquisition costs, site preparation costs, and off-site costs, shall be determined by the use of the latest available Calculator Valuation Guide, published by Calculator Inc., or a comparable publication designated by the Office. Applicants whose construction costs include unique and special costs and are therefore at variance with the Calculator Valuation Guide will be required to produce detailed documentation establishing these costs. Except in cases where such unique costs are approved, the Construction Costs Allowance will be limited to the maximum established by the Calculator Valuation Guide, minus the Builder's Fee.
-
-(b) Off-site and other costs. In recognition of the fact that off-site costs, including but not limited to legal, engineering, and architectural fees, insurance, interest and taxes during construction, and title and mortgage fees, may vary greatly with the size of a project, these costs as well as such other amounts as are ordinarily incurred in connection with the construction, conversion or rehabilitation of a multiple dwelling, will be reviewed and analyzed independently with respect to each building.
-
-(c) Operating and maintenance schedule.
-
-   (1) Real estate taxes. Projected real estate taxes shall equal the actual assessed value of the property in the tax year prior to the start of construction multiplied by the projected tax rate for the tax year in which completion is expected. The projected tax rate shall be determined by increasing the current tax rate at the time the application is received by 5 percent for each year between such current year and the projected year of completion.
-
-   (2) Replacement reserve. The replacement reserve shall equal six-tenths of 1 percent of construction costs approved pursuant to item (a) of the Annual Schedule of Reasonable Costs.
-
-   (3) Other operating and maintenance expense maximum allowances. The schedule of maximum allowances listed below shall apply except when the schedule amounts for each commodity shall be increased or decreased on a compounded annual basis for each year between publication of these rules and the year of projected project completion based upon the Price Indices of Operating Costs (PIOC) percentages published annually by the Rent Guidelines Board for each commodity. For the purposes of projecting future allowances in years for which the PIOC is not available, the Office will apply the percentage for the most recent year for which the Index is available for each subsequent year prior to the estimated completion date. The office will allow the lesser of the owner's claimed costs and the maximum allowance listed below for each commodity.
-
-Schedule Maximum Allowances for Other Operating and Maintenance Expenses 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - Commodity1
-      - Maximum Per Room Annual Allowance 
-      - Maximum Per Room Monthly Allowance 
-    * - Labor2
-      - $273.00 
-      - $22.75 
-    * - Fuel
-      - 105.00 
-      - 8.75 
-    * - Utilities
-      - XXXX 
-      - XXXX 
-    * -  Water and Sewer
-      - 96.00 
-      - 8.00 
-    * -  Gas3
-      - 36.00 
-      - 3.00 
-    * -  Electricity4
-      - 36.00 
-      - 3.00 
-    * - Other
-      - 6.00 
-      - 0.50 
-    * - Contractor Services
-      - 141.00 
-      - 11.75 
-    * - Insurance
-      - 60.00 
-      - 5.00 
-    * - Parts and Supplies
-      - 30.00
-      - 2.50 
-~
-
- 
-
-1.  Categories are defined as specified by the Price Index of Operating Costs published by the Rent Guidelines Board.
-
-2.  To qualify for a Labor allowance, applicants must submit a list of all personnel to be employed in the maintenance and operation of each building along with corresponding projected wage and salary data. Projects with five units or less are not eligible for the Labor allowance.
-
-3.  Available only when the owner pays apartment gas bills.
-
-4.  Does not include electricity within apartments.
-
-(d) Vacancy reserve and management and administration fee. The vacancy reserve allowance and the management and administration fee shall together be equal to 9 percent of the sum of the expenses determined pursuant to §§ 6-04(a)(1)(i), (iii), and (iv) of this Chapter less the amount determined pursuant to § 6-04(a)(1)(v) of this Chapter.
-
-(e) Room calculation. For purposes of this Appendix A's schedule of maximum allowances, the number of rooms shall be calculated in accordance with the definition of "room count" contained in subdivision (c) of § 6-01 of this chapter.
-
-
-
+**APPENDIX A  ANNUAL SCHEDULE OF REASONABLE COSTS**
 
 Chapter 7: Partial Tax Exemption For Private Dwellings Pursuant To § 421-b of the Real Property Tax Law
 --------------------------------------------------
@@ -7377,11 +7325,11 @@ Reconstruction. "Reconstruction" means reconstruction, alteration or improvement
 
 (b) Exemption during construction or reconstruction.
 
-   (1) Eligible projects which have received a Preliminary Certificate of Eligibility shall be exempt from taxes (other than assessments for local improvements) upon any increase in assessed valuation over the prior assessed valuation for the period specified in paragraph (2) of this § 7-03(b).
+   (1) Eligible projects which have received a Preliminary Certificate of Eligibility shall be exempt from taxes (other than assessments for local improvements) upon any increase in assessed valuation over the prior assessed valuation for the period specified in paragraph (2) of this 28 RCNY § 7-03(b).
 
    (2) The period of exemption shall commence upon the first day of the tax year immediately following the taxable status date (January 25th) after the commencement of construction or reconstruction and shall extend for two years after commencement of construction or reconstruction, unless construction or reconstruction is completed in less than two years in which case the period of exemption will terminate on the first day of the first tax year following completion of construction or reconstruction.
 
-(c) Exemption after construction or reconstruction. Following the period specified in paragraph (2) of § 7-03(b), an increase in assessed valuation over the prior assessed valuation of eligible projects which have received a Final Certificate of Eligibility shall be exempt from taxes (other than assessments for local improvements) for eight consecutive tax years pursuant to the following schedule:
+(c) Exemption after construction or reconstruction. Following the period specified in paragraph (2) of 28 RCNY § 7-03(b), an increase in assessed valuation over the prior assessed valuation of eligible projects which have received a Final Certificate of Eligibility shall be exempt from taxes (other than assessments for local improvements) for eight consecutive tax years pursuant to the following schedule: 
 
  
 
@@ -7457,7 +7405,7 @@ Reconstruction. "Reconstruction" means reconstruction, alteration or improvement
 
 (g) All applicants for a Preliminary or Final Certificate of Eligibility must, in addition to the timely filing of an application, provide all of the required documentation for such application on or before December 31, 2011.
 
-(h) Notwithstanding anything to the contrary contained in this section, the Department may waive the filing deadlines for an application for a Final Certificate of Eligibility set forth in Sections 7-05(d) and 7-05(e) of this chapter if (1) the Department, in its sole discretion, determines that the owner of such private dwelling reasonably relied upon a representation by the seller of such private dwelling that the seller would file or had filed the application for the Final Certificate of Eligibility , and (2) the owner of such private dwelling provides all of the required documentation for such application on or before December 31, 2011.
+(h) Notwithstanding anything to the contrary contained in this section, the Department may waive the filing deadlines for an application for a Final Certificate of Eligibility set forth in 28 RCNY § 7-05(d) and (e) if (1) the Department, in its sole discretion, determines that the owner of such private dwelling reasonably relied upon a representation by the seller of such private dwelling that the seller would file or had filed the application for the Final Certificate of Eligibility , and (2) the owner of such private dwelling provides all of the required documentation for such application on or before December 31, 2011.
 
 
 
@@ -7504,7 +7452,7 @@ Third Party Transfer Process. "Third Party Transfer Process" shall mean the proc
 *§ 8-02 Procedures for Distressed Property.* ::
 
 
-(a)  The Commissioner of Finance shall, not less than sixty days preceding the date of the sale of a tax lien or tax liens, submit to the Commissioner of HPD a description by block and lot, or by such other identification as the Commissioner of Finance may deem appropriate, of any parcel of class one or class two real property on which there is a tax lien that may be sold by the City. The Commissioner of HPD shall determine, and advise the Commissioner of Finance, not less than ten days preceding the date of the sale of a tax lien or tax liens, whether any such parcel is a Distressed Property as defined in § 8-01 of these Rules. Any tax lien on a parcel so determined to be a Distressed Property shall not be included in such sale. In connection with a subsequent sale of a tax lien or tax liens, the Commissioner of Finance may, not less than sixty days preceding the date of the sale, resubmit to the Commissioner of HPD a description by block and lot, or by such other identification as the Commissioner of Finance may deem appropriate, of any parcel of class one or class two real property that was previously determined to be a Distressed Property pursuant to these Rules and on which there is a tax lien that may be included in such sale. The Commissioner of HPD shall determine, and advise the Commissioner of Finance, not less than ten days preceding the date of the sale, whether such parcel remains a Distressed Property. If the Commissioner of HPD determines that the parcel is not a Distressed Property, then the tax lien on the parcel may be included in such sale.
+(a)  The Commissioner of Finance shall, not less than sixty days preceding the date of the sale of a tax lien or tax liens, submit to the Commissioner of HPD a description by block and lot, or by such other identification as the Commissioner of Finance may deem appropriate, of any parcel of class one or class two real property on which there is a tax lien that may be sold by the City. The Commissioner of HPD shall determine, and advise the Commissioner of Finance, not less than ten days preceding the date of the sale of a tax lien or tax liens, whether any such parcel is a Distressed Property as defined in 28 RCNY § 8-01. Any tax lien on a parcel so determined to be a Distressed Property shall not be included in such sale. In connection with a subsequent sale of a tax lien or tax liens, the Commissioner of Finance may, not less than sixty days preceding the date of the sale, resubmit to the Commissioner of HPD a description by block and lot, or by such other identification as the Commissioner of Finance may deem appropriate, of any parcel of class one or class two real property that was previously determined to be a Distressed Property pursuant to these Rules and on which there is a tax lien that may be included in such sale. The Commissioner of HPD shall determine, and advise the Commissioner of Finance, not less than ten days preceding the date of the sale, whether such parcel remains a Distressed Property. If the Commissioner of HPD determines that the parcel is not a Distressed Property, then the tax lien on the parcel may be included in such sale.
 
 (b) The Commissioner of HPD may periodically review whether a parcel of class one or class two real property remains a Distressed Property. If the Commissioner determines that the parcel is not a Distressed Property as defined in these Rules, then the tax lien on the parcel may be included in a tax lien sale.
 
@@ -7570,7 +7518,7 @@ Third Party Transfer Process. "Third Party Transfer Process" shall mean the proc
 
    (8) intent and ability to improve, manage and maintain the property to be transferred; (9) whether an application has been submitted under sponsorship of a Third Party on behalf of the Tenants for eventual ownership by the Tenants of a property that is subject to an in rem judgment of foreclosure.
 
-      (i) Such an application must be submitted to HPD in such form as HPD shall approve, on or before the date that is specified by HPD in the written notice to Tenants made pursuant to subdivision (c) of § 8-04 of these rules;
+      (i) Such an application must be submitted to HPD in such form as HPD shall approve, on or before the date that is specified by HPD in the written notice to Tenants made pursuant to subdivision (c) of 28 RCNY § 8-04;
 
       (ii) Such application must be sponsored by a Third Party and accompanied by a letter from such Third Party indicating that the Third Party is applying for transfer of the foreclosed property, is prepared to acquire, manage and rehabilitate the foreclosed property, and is sponsoring the Tenants in their effort to eventually own such property; and
 
@@ -7616,9 +7564,9 @@ Third Party Transfer Process. "Third Party Transfer Process" shall mean the proc
 *§ 8-06 Interim Evaluation Period.* ::
 
 
-(a) A property that has been transferred to a Third Party for which a Third Party has sponsored a Tenant application pursuant to § 8-03(e)(9) of these rules shall be subject to an interim evaluation period during which progress toward eventual ownership by Tenants will be monitored by HPD.
+(a) A property that has been transferred to a Third Party for which a Third Party has sponsored a Tenant application pursuant to 28 RCNY § 8-03(e)(9) shall be subject to an interim evaluation period during which progress toward eventual ownership by Tenants will be monitored by HPD.
 
-(b) No later than ninety days after transfer to a Third Party of a property for which a Third Party has sponsored a Tenant application pursuant to § 8-03(e)(9) of these rules, such Third Party, or his or her designee, shall inform the Tenants that the property has entered into an interim evaluation period, and shall provide information to the Tenants about the process toward eventual ownership by the Tenants. Such Third Party shall make training available to such Tenants after such transfer. The training may include courses in building management, maintenance, and managing building finances. HPD may also provide notice to the Tenants regarding commencement of the interim evaluation period.
+(b) No later than ninety days after transfer to a Third Party of a property for which a Third Party has sponsored a Tenant application pursuant to 28 RCNY § 8-03(e)(9), such Third Party, or his or her designee, shall inform the Tenants that the property has entered into an interim evaluation period, and shall provide information to the Tenants about the process toward eventual ownership by the Tenants. Such Third Party shall make training available to such Tenants after such transfer. The training may include courses in building management, maintenance, and managing building finances. HPD may also provide notice to the Tenants regarding commencement of the interim evaluation period.
 
 (c) The interim evaluation period shall include certain milestones for achievement which shall form the basis for HPD to either permit the property to move forward toward eventual ownership by Tenants, or to remove the property from the process toward such ownership. HPD shall evaluate progress toward eventual ownership by Tenants using the following milestones:
 
@@ -7634,7 +7582,7 @@ Third Party Transfer Process. "Third Party Transfer Process" shall mean the proc
 
 (d) Such interim evaluation period shall commence upon transfer of the property to the Third Party and shall continue upon the transfer of the property to any subsequent Third Party. Such interim evaluation period shall end when any required rehabilitation of the property has been completed and permanent loan conversion has taken place, or at the conclusion of such shorter period as HPD shall determine with notice to the Tenants.
 
-(e) HPD shall evaluate compliance with the milestones listed in subdivision (c) of this section at regular intervals, and shall inform Tenants and the Third Party of its findings. HPD may at any time remove a property from the process toward eventual ownership by Tenants based upon its evaluation. If HPD has not removed the property from such process, at the completion of the interim evaluation period it shall make a determination for such property pursuant to § 8-07 of these rules.
+(e) HPD shall evaluate compliance with the milestones listed in subdivision (c) of this section at regular intervals, and shall inform Tenants and the Third Party of its findings. HPD may at any time remove a property from the process toward eventual ownership by Tenants based upon its evaluation. If HPD has not removed the property from such process, at the completion of the interim evaluation period it shall make a determination for such property pursuant to 28 RCNY § 8-07.
 
 
 
@@ -7646,7 +7594,7 @@ Third Party Transfer Process. "Third Party Transfer Process" shall mean the proc
 
 (a) Unless a determination has otherwise already been made, HPD shall make a determination whether or not to approve the transfer from a Third Party to Tenant ownership upon completion of the interim evaluation period. HPD will consider the following criteria when making such determination:
 
-   (1) That an application was submitted to HPD pursuant to and in accordance with § 8-03(e)(9) of these rules;
+   (1) That an application was submitted to HPD pursuant to and in accordance with 28 RCNY § 8-03(e)(9);
 
    (2) The time period that has elapsed since transfer of the property to the Third Party;
 
@@ -7664,7 +7612,7 @@ Third Party Transfer Process. "Third Party Transfer Process" shall mean the proc
 
    (9) The record of payment of all existing loans, status of rent payments, and adequacy of management of the property;
 
-   (10) HPD's evaluation of the progress made toward Tenant ownership during the interim evaluation period as set forth in § 8-06 of these rules; and
+   (10) HPD's evaluation of the progress made toward Tenant ownership during the interim evaluation period as set forth in 28 RCNY § 8-06; and
 
    (11) Any other criteria that HPD deems relevant to the request, including, but not limited to, any information provided to it by the Third Party.
 
@@ -7719,7 +7667,7 @@ The purpose of the Dismissal Request Program is to provide owners of multiple dw
 *§ 9-03 Fee.* ::
 
 
-Each Dismissal Request must be accompanied by a certified check or money order, made payable to the New York City Commissioner of Finance, for a scheduled amount based on the dwelling classification and number of open violations at the time the Dismissal Request form is submitted to the Borough Code Enforcement Office, as follows:
+Each Dismissal Request must be accompanied by a certified check or money order, made payable to the New York City Commissioner of Finance, for a scheduled amount based on the dwelling classification and number of open violations at the time the Dismissal Request form is submitted to the Borough Code Enforcement Office, as follows: 
 
  
 
@@ -7731,9 +7679,9 @@ Each Dismissal Request must be accompanied by a certified check or money order, 
       - Fee 
     * - Private Dwelling
       - $250 
-    * - Multiple Dwelling with 1-300 open violations
+    * - Multiple Dwelling with 1 - 300 open violations
       - $300 
-    * - Multiple Dwelling with 301-500 open violations
+    * - Multiple Dwelling with 301 - 500 open violations
       - $400 
     * - Multiple Dwelling with 501 or more open violations
       - $500 
@@ -7924,15 +7872,15 @@ Zoning Resolution. "Zoning Resolution" shall mean the New York City Zoning Resol
 *§ 10-05 Initial Determination.* ::
 
 
-(a)  Upon the completion of the investigation of an application for a certification, HPD shall either (i) reject such application as provided in § 10-03 of this Chapter, (ii) determine that there is not reasonable cause to believe that harassment occurred during the inquiry period at the property, (iii) determine that there is reasonable cause to believe that harassment occurred during the inquiry period at the property, or (iv) determine that DHCR or a court having jurisdiction has found that there has been harassment, unlawful eviction, or arson at the property during the inquiry period.
+(a)  Upon the completion of the investigation of an application for a certification, HPD shall either (i) reject such application as provided in 28 RCNY § 10-03, (ii) determine that there is not reasonable cause to believe that harassment occurred during the inquiry period at the property, (iii) determine that there is reasonable cause to believe that harassment occurred during the inquiry period at the property, or (iv) determine that DHCR or a court having jurisdiction has found that there has been harassment, unlawful eviction, or arson at the property during the inquiry period.
 
-(b) If HPD rejects an application as provided in § 10-03 of this Chapter, HPD shall send written notice of such determination to the applicant.
+(b) If HPD rejects an application as provided in 28 RCNY § 10-03, HPD shall send written notice of such determination to the applicant.
 
-(c) If HPD determines that there is not reasonable cause to believe that harassment occurred during the inquiry period at the property, HPD shall (i) send written notice of such determination to the applicant, and (ii) grant the certification in accordance with the terms of § 10-08 of this Chapter.
+(c) If HPD determines that there is not reasonable cause to believe that harassment occurred during the inquiry period at the property, HPD shall (i) send written notice of such determination to the applicant, and (ii) grant the certification in accordance with the terms of 28 RCNY § 10-08.
 
-(d) If HPD determines that there is reasonable cause to believe that harassment occurred during the inquiry period at the property, HPD shall send written notice of such determination to the applicant and shall comply with the procedures set forth in § 10-06 and § 10-07 of this Chapter.
+(d) If HPD determines that there is reasonable cause to believe that harassment occurred during the inquiry period at the property, HPD shall send written notice of such determination to the applicant and shall comply with the procedures set forth in 28 RCNY §§ 10-06 and 10-07.
 
-(e) If HPD determines that DHCR or a court having jurisdiction has found that there has been harassment, unlawful eviction, or arson at the property during the inquiry period, HPD may deny the certification without a hearing and issue a final determination in accordance with § 10-07 of this Chapter. In such event, HPD may combine the initial determination pursuant to this section and the final determination pursuant to § 10-07 of this Chapter into a single document.
+(e) If HPD determines that DHCR or a court having jurisdiction has found that there has been harassment, unlawful eviction, or arson at the property during the inquiry period, HPD may deny the certification without a hearing and issue a final determination in accordance with 28 RCNY § 10-07. In such event, HPD may combine the initial determination pursuant to this section and the final determination pursuant to 28 RCNY § 10-07 into a single document.
 
 
 
@@ -7942,7 +7890,7 @@ Zoning Resolution. "Zoning Resolution" shall mean the New York City Zoning Resol
 *§ 10-06 Hearing.* ::
 
 
-(a)  When HPD has determined in accordance with § 10-05(d) of this Chapter that there is reasonable cause to believe that harassment occurred at the property during the inquiry period, HPD shall schedule a hearing before the Office of Administrative Trials and Hearings at which the applicant will have an opportunity to challenge such determination.
+(a)  When HPD has determined in accordance with 28 RCNY § 10-05(d) that there is reasonable cause to believe that harassment occurred at the property during the inquiry period, HPD shall schedule a hearing before the Office of Administrative Trials and Hearings at which the applicant will have an opportunity to challenge such determination.
 
 (b) HPD shall serve a notice of hearing by regular mail upon the applicant and any other individual or entity as determined by HPD. Such notice shall state the date, time, and location of hearing and shall inform the applicant that he or she may be represented by counsel and may present witnesses and other evidence.
 
@@ -7958,11 +7906,11 @@ Zoning Resolution. "Zoning Resolution" shall mean the New York City Zoning Resol
 *§ 10-07 Final Determination.* ::
 
 
-(a)  When HPD has determined in accordance with § 10-05(d) of this Chapter that there is reasonable cause to believe that harassment occurred at the property during the inquiry period and a hearing has been held before the Office of Administrative Trials and Hearings in accordance with § 10-06 of this Chapter, the Commissioner shall review the report and recommendation of the hearing officer and make a final determination to grant or deny the application.
+(a) When HPD has determined in accordance with 28 RCNY § 10-05(d) that there is reasonable cause to believe that harassment occurred at the property during the inquiry period and a hearing has been held before the Office of Administrative Trials and Hearings in accordance with 28 RCNY § 10-06, the Commissioner shall review the report and recommendation of the hearing officer and make a final determination to grant or deny the application.
 
-(b) When HPD has determined in accordance with § 10-05(d) of this Chapter that there is reasonable cause to believe that harassment occurred at the property during the inquiry period and the applicant has waived its right to a hearing before the Office of Administrative Trials and Hearings in accordance with § 10-06(d) of this Chapter, the Commissioner shall make a final determination to grant or deny the application.
+(b) When HPD has determined in accordance with 28 RCNY § 10-05(d) that there is reasonable cause to believe that harassment occurred at the property during the inquiry period and the applicant has waived its right to a hearing before the Office of Administrative Trials and Hearings in accordance with 28 RCNY § 10-06(d), the Commissioner shall make a final determination to grant or deny the application.
 
-(c) When HPD has determined in accordance with § 10-05(e) of this Chapter that DHCR or a court having jurisdiction has found that there has been harassment, unlawful eviction, or arson at the property during the inquiry period, the Commissioner shall make a final determination to grant or deny the application. In such event, HPD may combine the initial determination pursuant to § 10-05 of this Chapter and the final determination pursuant to this section into a single document.
+(c) When HPD has determined in accordance with 28 RCNY § 10-05(e) that DHCR or a court having jurisdiction has found that there has been harassment, unlawful eviction, or arson at the property during the inquiry period, the Commissioner shall make a final determination to grant or deny the application. In such event, HPD may combine the initial determination pursuant to 28 RCNY § 10-05 and the final determination pursuant to this section into a single document.
 
 (d) HPD shall provide the applicant with written notice of the final determination.
 
@@ -8067,7 +8015,7 @@ Whenever used in this chapter:
 
 (m) Enclosure. "Enclosure" shall mean the use of rigid, durable construction materials that are mechanically fastened to the substrate in order to act as a barrier between lead-based paint and the environment.
 
-(n) Firm. "Firm" shall mean a company, partnership, corporation, sole pro- prietorship, association, or other business entity that performs lead-based paint activities to which the United States environmental protection agency has issued a certificate of approval pursuant to 40 C.F.R. 745.226(f).
+(n) Firm. "Firm" shall mean a company, partnership, corporation, sole pro- prietorship, association, or other business entity that performs lead-based paint activities to which the United States environmental protection agency has issued a certificate of approval pursuant to 40 C.F.R. § 745.226(f).
 
 (o) Friction surface. "Friction surface" shall mean any painted surface that touches or is in contact with another surface, such that the two surfaces are capable of relative motion and abrade, scrape, or bind when in relative motion. Friction surfaces shall include, but not be limited to, window frames and jambs, doors, and hinges.
 
@@ -8121,7 +8069,7 @@ Whenever used in this chapter:
 *§ 11-02 Owner's Responsibility to Remediate.* ::
 
 
-An owner shall remediate all lead-based paint hazards and underlying defects in a dwelling unit where a child of applicable age resides in accordance with the applicable work practices set forth in § 11-06 of these rules.
+An owner shall remediate all lead-based paint hazards and underlying defects in a dwelling unit where a child of applicable age resides in accordance with the applicable work practices set forth in 28 RCNY § 11-06.
 
 
 
@@ -8133,7 +8081,7 @@ An owner shall remediate all lead-based paint hazards and underlying defects in 
 
 (a)  Notice upon signing of a lease, including a renewal lease, if any, or upon any agreement to lease or at the commencement of occupancy if there is no lease.
 
-   (1) The owner of a multiple dwelling erected prior to January first, nineteen hundred sixty or of a multiple dwelling erected on or after January first, nineteen hundred sixty and before January first, nineteen hundred seventy-eight, where an owner has actual knowledge of the presence of lead-based paint, shall provide to an occupant of a dwelling unit at the signing of a lease, including a renewal lease, if any, or upon any agreement to lease, or at the commencement of occupancy if there is no lease, a notice in English and Spanish inquiring whether a child of applicable age resides or will reside therein. If there is a lease, such notice will be attached as a rider to the lease. In addition, such owner shall deliver to the occupant at the time the occupant signs a lease, if any, or upon any agreement to lease, or, at the commencement of occupancy if there is no lease, the pamphlet developed by the department of health and mental hygiene pursuant to § 17-179(b) of the administrative code of the city of New York. Such notice shall be printed on a single form, the content of which shall be as specified in Appendix A hereto, and shall be printed in not less than ten point type, and shall bear the title "Prevention of Lead-based Paint Hazards – Inquiry Regarding Child". Such notice shall be in duplicate, one copy of which will be for the occupant's records, and one copy of which will be returned to the owner. Such notice shall be kept for a period of ten years from the date of receipt by the owner or transferred to a subsequent owner and maintained by such subsequent owner during such time period, and made available to the department upon request. The notice provided at the signing of a lease, or upon any agreement to lease, or at the commencement of occupancy if there is no lease, shall also contain a statement, signed by such owner, stating that he or she has complied with the provisions concerning apartments at turnover pursuant to § 27-2056.8 of Article 14 of the housing maintenance code and § 11-05 of these rules, and that he or she has delivered such pamphlet developed by the department of health and mental hygiene to the occupant.
+   (1) The owner of a multiple dwelling erected prior to January first, nineteen hundred sixty or of a multiple dwelling erected on or after January first, nineteen hundred sixty and before January first, nineteen hundred seventy-eight, where an owner has actual knowledge of the presence of lead-based paint, shall provide to an occupant of a dwelling unit at the signing of a lease, including a renewal lease, if any, or upon any agreement to lease, or at the commencement of occupancy if there is no lease, a notice in English and Spanish inquiring whether a child of applicable age resides or will reside therein. If there is a lease, such notice will be attached as a rider to the lease. In addition, such owner shall deliver to the occupant at the time the occupant signs a lease, if any, or upon any agreement to lease, or, at the commencement of occupancy if there is no lease, the pamphlet developed by the department of health and mental hygiene pursuant to § 17-179(b) of the administrative code of the city of New York. Such notice shall be printed on a single form, the content of which shall be as specified in Appendix A hereto, and shall be printed in not less than ten point type, and shall bear the title "Prevention of Lead-based Paint Hazards – Inquiry Regarding Child". Such notice shall be in duplicate, one copy of which will be for the occupant's records, and one copy of which will be returned to the owner. Such notice shall be kept for a period of ten years from the date of receipt by the owner or transferred to a subsequent owner and maintained by such subsequent owner during such time period, and made available to the department upon request. The notice provided at the signing of a lease, or upon any agreement to lease, or at the commencement of occupancy if there is no lease, shall also contain a statement, signed by such owner, stating that he or she has complied with the provisions concerning apartments at turnover pursuant to § 27-2056.8 of Article 14 of the housing maintenance code and 28 RCNY § 11-05, and that he or she has delivered such pamphlet developed by the department of health and mental hygiene to the occupant.
 
    (2) No occupant in a dwelling unit in such multiple dwelling shall refuse or unreasonably fail to provide accurate and truthful information regarding the residency of a child of applicable age therein, nor shall an occupant refuse access to the owner at a reasonable time and upon reasonable prior notice to any part of the dwelling unit for the purpose of investigation and repair of lead-based paint hazards.
 
@@ -8163,7 +8111,7 @@ An owner shall remediate all lead-based paint hazards and underlying defects in 
 
 (a)  In any dwelling unit in a multiple dwelling erected prior to January first, nineteen hundred sixty where a child of applicable age resides, and in any dwelling unit in a multiple dwelling erected on or after January first, nineteen hundred sixty and before January first, nineteen hundred seventy-eight, where a child of applicable age resides and the owner has actual knowledge of the presence of lead-based paint, and in common areas of such multiple dwellings, the owner shall cause a visual inspection to be made for peeling paint, chewable surfaces, deteriorated subsurfaces, friction surfaces and impact surfaces. A visual inspection for lead-based paint hazards shall include every surface in every room in the dwelling unit, including the interiors of closets and cabinets. Such inspection shall be undertaken at least once a year and more often if necessary, such as when, in the exercise of reasonable care, an owner knows or should have known of a condition that is reasonably foreseeable to cause a lead-based paint hazard, or an occupant makes a complaint concerning a condition that is likely to cause a lead-based paint hazard or requests an inspection, or the department issues a notice of violation or orders the correction of a violation that is likely to cause a lead-based paint hazard.
 
-(b) An owner shall maintain or transfer to a subsequent owner records of inspections of dwelling units performed pursuant to this section. Such records shall include the location of such inspection and the results of such inspection for each surface in each room, as specified in subdivision (a) of this section, and the actions taken as a result of such inspection pursuant to § 11-02 of these rules. If an owner claims an inability to gain access to the unit for such inspection, such records shall contain a statement describing the attempt made to gain access, including, but not limited to providing a written notice to the tenant, delivered by certified or registered mail, or by first class mail with proof of mailing from the United States Postal Service, informing the tenant of the necessity of access to the dwelling unit to perform the inspection, and the reason why access could not be gained. Such records shall be kept for a period of ten years from either the date of completion of the inspection, or from the date of the last attempt to gain access by the owner, or transferred to a subsequent owner and maintained by such subsequent owner during such time period, and made available to the department upon request. In addition, the owner shall make such records available to the occupant of such dwelling unit upon request.
+(b) An owner shall maintain or transfer to a subsequent owner records of inspections of dwelling units performed pursuant to this section. Such records shall include the location of such inspection and the results of such inspection for each surface in each room, as specified in subdivision (a) of this section, and the actions taken as a result of such inspection pursuant to 28 RCNY § 11-02. If an owner claims an inability to gain access to the unit for such inspection, such records shall contain a statement describing the attempt made to gain access, including, but not limited to providing a written notice to the tenant, delivered by certified or registered mail, or by first class mail with proof of mailing from the United States Postal Service, informing the tenant of the necessity of access to the dwelling unit to perform the inspection, and the reason why access could not be gained. Such records shall be kept for a period of ten years from either the date of completion of the inspection, or from the date of the last attempt to gain access by the owner, or transferred to a subsequent owner and maintained by such subsequent owner during such time period, and made available to the department upon request. In addition, the owner shall make such records available to the occupant of such dwelling unit upon request.
 
 (c) Nothing in this section shall be deemed to preclude an owner from conducting any additional types of inspections for lead-based paint hazards, provided, however, that such owner shall correct any lead-based paint hazards identified pursuant to such inspection in accordance with the work practices specified in 28 RCNY § 11-06.
 
@@ -8185,11 +8133,11 @@ An owner shall remediate all lead-based paint hazards and underlying defects in 
 
    (4) provide for the removal or permanent covering of all lead-based paint on all friction surfaces on all windows, or provide for the installation of replacement window channels or slides on all lead-based painted friction surfaces on all windows.
 
-(b) Such work shall be performed in the time period commencing with the vacancy of the unit and shall be completed prior to reoccupancy of such unit. All work performed pursuant to this section shall be performed using the applicable safe work practices set forth in § 11-06(g)(3) of these rules.
+(b) Such work shall be performed in the time period commencing with the vacancy of the unit and shall be completed prior to reoccupancy of such unit. All work performed pursuant to this section shall be performed using the applicable safe work practices set forth in 28 RCNY § 11-06(g)(3).
 
-(c) An owner shall maintain or transfer to a subsequent owner records of work performed in dwelling units pursuant to this section in accordance with the recordkeeping requirements of § 11-06(c) of these rules. In addition, the owner shall make such records available to the new occupant of such dwelling unit upon request.
+(c) An owner shall maintain or transfer to a subsequent owner records of work performed in dwelling units pursuant to this section in accordance with the recordkeeping requirements of 28 RCNY § 11-06(c). In addition, the owner shall make such records available to the new occupant of such dwelling unit upon request.
 
-(d) An owner shall certify that he or she has complied with § 27-2056.8 of article 14 of the housing maintenance code and this section in the notice provided to an occupant upon signing of lease, if any, or upon any agreement to lease, or at the commencement of occupancy if there is no lease pursuant to subdivision (a) of § 11-03 of these rules.
+(d) An owner shall certify that he or she has complied with § 27-2056.8 of article 14 of the housing maintenance code and this section in the notice provided to an occupant upon signing of lease, if any, or upon any agreement to lease, or at the commencement of occupancy if there is no lease pursuant to subdivision (a) of 28 RCNY § 11-03.
 
 
 
@@ -8215,11 +8163,11 @@ An owner shall remediate all lead-based paint hazards and underlying defects in 
 
 (b) Licensing and training.
 
-   (1) Abatement. All work conducted as part of an abatement as defined in this chapter shall be performed by firms and personnel certified to perform lead-based paint activities in accordance with regulations issued by the United States environmental protection agency at subpart L of 40 C.F.R. part 745 for the abatement of lead hazards, or successor rule.
+   (1) Abatement. All work conducted as part of an abatement as defined in this chapter shall be performed by firms and personnel certified to perform lead-based paint activities in accordance with regulations issued by the United States environmental protection agency at subpart L of 40 C.F.R. Part 745 for the abatement of lead hazards, or successor rule.
 
    (2) Work ordered by the department to correct a lead-based paint hazard violation in accordance with § 27-2056.11(a)(1) of article 14 of the housing maintenance code, or work performed pursuant to § 27-2056.11(a)(2)(ii) of article 14 of the housing maintenance code, shall be performed in accordance with the following requirements:
 
-      (i) Firm requirements. Firms conducting such work shall be certified to perform lead abatement by the United States environmental protection agency in accordance with subpart L of 40 C.F.R. part 745 for the abatement of lead hazards, or successor rule.
+      (i) Firm requirements. Firms conducting such work shall be certified to perform lead abatement by the United States environmental protection agency in accordance with subpart L of 40 C.F.R. Part 745 for the abatement of lead hazards, or successor rule.
 
       (ii) Worker requirements. Workers conducting such work shall be trained, at a minimum, in accordance with the regulations issued by the United States department of housing and urban development at 24 C.F.R. § 35.1330(a)(4), or successor rule, or under an equivalent program approved by the department or the department of health and mental hygiene.
 
@@ -8285,7 +8233,7 @@ An owner shall remediate all lead-based paint hazards and underlying defects in 
 
          (A) Notice of commencement of work information submitted to the department of health and mental hygiene pursuant to § 27-2056.11(a)(2)(ii) of article 14 of the housing maintenance code. Such information shall be posted at the entrance to the dwelling and at the entrance to the dwelling unit.
 
-         (B) A warning sign of at least 8-1/2" by 11" with letters at least one inch high, reading as follows: WARNING: LEAD WORK AREA – POISON – NO SMOKING OR EATING. Such information shall be posted adjacent to the work area.
+         (B) A warning sign of at least 8 1/2" by 11" with letters at least one inch high, reading as follows: WARNING: LEAD WORK AREA – POISON – NO SMOKING OR EATING. Such information shall be posted adjacent to the work area.
 
       (ii) Pre-cleaning and protecting moveable items. All floors, moveable furniture, draperies, carpets, or other objects in the work area shall be HEPA-vacuumed or washed; all moveable items shall then be moved out of the work area or otherwise covered with two layers of six-mil disposable polyethylene sheeting before work begins. Such sheeting shall be taped together with waterproof tape, and taped to the floors or bottom of the walls or baseboards, so as to form a continuous barrier to the penetration of dust.
 
@@ -8309,7 +8257,7 @@ An owner shall remediate all lead-based paint hazards and underlying defects in 
 
          (C) Final inspection. After final clean-up, and re-painting if necessary, has been completed, a final inspection shall be made by a third party retained by the owner who is independent of the owner and the contractor. The final clearance evaluation shall include a visual inspection and lead-contaminated dust clearance testing. Three wipe samples shall be collected and tested from each room or area where work has been conducted; one wipe sample contaminated dust clearance samples shall be collected and tested from the floor in rooms or areas immediately adjacent to the work area.
 
-         (D) Clearance for re-occupancy. Lead-contaminated dust levels in excess of the following constitute contamination and require repetition of the clean-up and testing process in all areas where such levels are found. Areas where every lead-contaminated dust sample result is below the following levels may be cleared for re-occupancy:
+         (D) Clearance for re-occupancy. Lead-contaminated dust levels in excess of the following constitute contamination and require repetition of the clean-up and testing process in all areas where such levels are found. Areas where every lead-contaminated dust sample result is below the following levels may be cleared for re-occupancy: 
 
  
 
@@ -8401,9 +8349,9 @@ Nothing herein shall extend the time for compliance with any violation issued pu
 
    (3) The department shall notify the registered owner, registered officer or director of a corporate owner or registered managing agent of such multiple dwelling of its determination in writing, and, if the department determines that such presumption has not been rebutted, such notice shall set a date for correction of the violation.
 
-(c) Where testing or sampling is performed to rebut the presumption established in this section, the performance of such testing shall be in accordance with the definition for lead-based paint established in § 11-01(s) of these rules and § 27-2056.2(7) of article 14 of the housing maintenance code. Laboratory analysis for paint chip samples shall be permitted only where XRF tests fall within the inconclusive zone for the particular XRF machine or where the configuration of the surface or component to be tested is such that an XRF machine cannot accurately measure the lead content of such surface or component. Laboratory tests of paint chip samples, where performed, shall be reported in mg/cm2, unless the surface area of a paint chip sample cannot be accurately measured, or if an accurately measured paint chip sample cannot be removed, in which circumstance the laboratory test may be reported in percent by weight. Where paint chip sampling has been performed, the sworn written statement by the person who performed the testing shall include a statement that such sampling was done in accordance with 40 C.F.R. § 745.227 or successor provisions.
+(c) Where testing or sampling is performed to rebut the presumption established in this section, the performance of such testing shall be in accordance with the definition for lead-based paint established in 28 RCNY § 11-01(s) and § 27-2056.2(7) of article 14 of the housing maintenance code. Laboratory analysis for paint chip samples shall be permitted only where XRF tests fall within the inconclusive zone for the particular XRF machine or where the configuration of the surface or component to be tested is such that an XRF machine cannot accurately measure the lead content of such surface or component. Laboratory tests of paint chip samples, where performed, shall be reported in mg/cm2, unless the surface area of a paint chip sample cannot be accurately measured, or if an accurately measured paint chip sample cannot be removed, in which circumstance the laboratory test may be reported in percent by weight. Where paint chip sampling has been performed, the sworn written statement by the person who performed the testing shall include a statement that such sampling was done in accordance with 40 C.F.R. § 745.227 or successor provisions.
 
-(d) Testing performed to rebut the presumption may only be performed by a person who has been certified as a lead-based paint inspector or risk assessor in accordance with subparts L and Q of 40 C.F.R. part 745 or successor provisions and such testing shall be performed in accordance with 40 C.F.R. § 745.227(a) and (b) or successor provisions.
+(d) Testing performed to rebut the presumption may only be performed by a person who has been certified as a lead-based paint inspector or risk assessor in accordance with subparts L and Q of 40 C.F.R. Part 745 or successor provisions and such testing shall be performed in accordance with 40 C.F.R. § 745.227(a) and (b) or successor provisions.
 
 
 
@@ -8413,15 +8361,15 @@ Nothing herein shall extend the time for compliance with any violation issued pu
 *§ 11-08 Exemption from Presumption.* ::
 
 
-(a)  A registered owner or registered officer or director of a corporate owner or registered managing agent of a multiple dwelling erected prior to January first, nineteen hundred sixty or, where title to such multiple dwelling is held by a cooperative housing corporation or the units in such multiple dwelling are owned as condominium units, a representative of the corporation or the condominium board of managers may apply to the department, in writing, for an exemption of the application of the presumption established under article 14 of the housing maintenance code and § 11-07 of these rules with respect to such multiple dwelling or any part thereof, provided further, that where title to such multiple dwelling is held by a cooperative housing corporation or the units in such multiple dwelling are owned as condominium units, the shareholder of record on the proprietary lease or the owner of record of such condominium unit, as is applicable, may apply to the department for such exemption for his or her individual unit where such presumption is or may become applicable.
+(a)  A registered owner or registered officer or director of a corporate owner or registered managing agent of a multiple dwelling erected prior to January first, nineteen hundred sixty or, where title to such multiple dwelling is held by a cooperative housing corporation or the units in such multiple dwelling are owned as condominium units, a representative of the corporation or the condominium board of managers may apply to the department, in writing, for an exemption of the application of the presumption established under article 14 of the housing maintenance code and 28 RCNY § 11-07 with respect to such multiple dwelling or any part thereof, provided further, that where title to such multiple dwelling is held by a cooperative housing corporation or the units in such multiple dwelling are owned as condominium units, the shareholder of record on the proprietary lease or the owner of record of such condominium unit, as is applicable, may apply to the department for such exemption for his or her individual unit where such presumption is or may become applicable.
 
-(b) Except as otherwise provided in subdivision (c), such exemption shall be granted only where such owner or such other person specified in subdivision (a) of this section submits a written determination made by a lead-based paint inspector or risk assessor certified pursuant to subparts L and Q of 40 C.F.R. part 745 or successor provisions, and in accordance with 40 C.F.R. § 745.227(b), or Chapter 7 of the department of housing and urban development's Guidelines for Evaluation and Control of Lead-Based Paint Hazards in Housing that each tested surface and component in each dwelling unit in such multiple dwelling or in the individual dwelling unit, if applying for an exemption of a particular dwelling unit in such multiple dwelling, is free of lead-based paint as defined in § 11-01(s) of these rules and § 27-2056.2(7) of article 14 of the housing maintenance code, or, that as a result of a substantial alteration of each dwelling unit such lead-based paint on each surface and component in each dwelling unit has been contained so that each surface tested is negative for such lead-based paint. Where surfaces or components within the dwelling unit can be demonstrated by the owner, to the satisfaction of the department, to have a common construction and painting history, the lead-based paint inspector or risk assessor performing such testing may test a sample of the surfaces and components having such common construction and painting history within the dwelling unit to make such determination, in accordance with 40 C.F.R. § 745.227(b), or Chapter 7 of the department of housing and urban development's Guidelines for Evaluation and Control of Lead-Based Paint Hazards in Housing. For purposes of this section, the term "contained" shall mean that every surface containing lead-based paint has been permanently covered, enclosed and sealed with sheetrock or similar durable construction material to eliminate gaps which may allow access to or dispersion of dust or other matter from the underlying surface.
+(b) Except as otherwise provided in subdivision (c), such exemption shall be granted only where such owner or such other person specified in subdivision (a) of this section submits a written determination made by a lead-based paint inspector or risk assessor certified pursuant to subparts L and Q of 40 C.F.R. Part 745 or successor provisions, and in accordance with 40 C.F.R. § 745.227(b), or Chapter 7 of the department of housing and urban development's Guidelines for Evaluation and Control of Lead-Based Paint Hazards in Housing that each tested surface and component in each dwelling unit in such multiple dwelling or in the individual dwelling unit, if applying for an exemption of a particular dwelling unit in such multiple dwelling, is free of lead-based paint as defined in 28 RCNY § 11-01(s) and § 27-2056.2(7) of article 14 of the housing maintenance code, or, that as a result of a substantial alteration of each dwelling unit such lead-based paint on each surface and component in each dwelling unit has been contained so that each surface tested is negative for such lead-based paint. Where surfaces or components within the dwelling unit can be demonstrated by the owner, to the satisfaction of the department, to have a common construction and painting history, the lead-based paint inspector or risk assessor performing such testing may test a sample of the surfaces and components having such common construction and painting history within the dwelling unit to make such determination, in accordance with 40 C.F.R. § 745.227(b), or Chapter 7 of the department of housing and urban development's Guidelines for Evaluation and Control of Lead-Based Paint Hazards in Housing. For purposes of this section, the term "contained" shall mean that every surface containing lead-based paint has been permanently covered, enclosed and sealed with sheetrock or similar durable construction material to eliminate gaps which may allow access to or dispersion of dust or other matter from the underlying surface.
 
-(c) For any surface within a dwelling unit or dwelling where encapsulation has been applied to a surface for the purpose of qualifying such dwelling unit or dwelling for an exemption under this section, in addition to the information required to be provided to the department pursuant to subdivision (d) of this section, such application shall include: the location of each surface that has been encapsulated; the name of the encapsulant that has been used, which shall be limited to those approved by the New York state department of health or by another federal or state agency or jurisdiction which the department has designated as acceptable; and a statement by the person who applied such encapsulant, who shall be certified to perform abatement pursuant to 40 C.F.R. part 745 or successor provisions, that it has been applied in accordance with the manufacturer's instructions. The surfaces to which such encapsulants are applied shall be subject to periodic monitoring by the owner to ensure that they remain undamaged and intact, provided further, that the owner of such dwelling unit or dwelling shall keep records of any monitoring of such encapsulated surfaces for a period of ten years and produced by the owner upon request by the department.
+(c) For any surface within a dwelling unit or dwelling where encapsulation has been applied to a surface for the purpose of qualifying such dwelling unit or dwelling for an exemption under this section, in addition to the information required to be provided to the department pursuant to subdivision (d) of this section, such application shall include: the location of each surface that has been encapsulated; the name of the encapsulant that has been used, which shall be limited to those approved by the New York state department of health or by another federal or state agency or jurisdiction which the department has designated as acceptable; and a statement by the person who applied such encapsulant, who shall be certified to perform abatement pursuant to 40 C.F.R. Part 745 or successor provisions, that it has been applied in accordance with the manufacturer's instructions. The surfaces to which such encapsulants are applied shall be subject to periodic monitoring by the owner to ensure that they remain undamaged and intact, provided further, that the owner of such dwelling unit or dwelling shall keep records of any monitoring of such encapsulated surfaces for a period of ten years and produced by the owner upon request by the department.
 
 (d) In addition to the information required by subdivision (c) of this section, where applicable, an application for exemption shall include: the address of the multiple dwelling; the number of units; the dates, if known, when substantial alterations were made to the dwelling unit(s) and a description of the work performed; the date of the inspection resulting in the determination; and a copy of the inspection report. Such inspection report shall contain a description of the surfaces tested and the results of such testing. Such application shall also include a copy of the certificate of training of the person who performed such testing.
 
-(e) Upon submission of a complete application for exemption to the department, such multiple dwelling or part thereof, or dwelling unit, shall be deemed to be exempt from application of the presumption established under article 14 of the housing maintenance code and § 11-07 of these rules. The department may revoke an exemption granted pursuant to this section where the department determines, after inspection, that a surface in any dwelling unit for which lead-based paint was contained or to which an encapsulant was applied is no longer intact or sealed or that such exemption was determined to be based upon fraud, mistake or misrepresentation. The department shall provide written notification to the owner upon making such determination. Absent fraud, mistake or misrepresentation in the initial application, an owner may reapply for the exemption by showing that the surface for which the lead-based paint was no longer contained or encapsulated has been repaired and resealed.
+(e) Upon submission of a complete application for exemption to the department, such multiple dwelling or part thereof, or dwelling unit, shall be deemed to be exempt from application of the presumption established under article 14 of the housing maintenance code and 28 RCNY § 11-07. The department may revoke an exemption granted pursuant to this section where the department determines, after inspection, that a surface in any dwelling unit for which lead-based paint was contained or to which an encapsulant was applied is no longer intact or sealed or that such exemption was determined to be based upon fraud, mistake or misrepresentation. The department shall provide written notification to the owner upon making such determination. Absent fraud, mistake or misrepresentation in the initial application, an owner may reapply for the exemption by showing that the surface for which the lead-based paint was no longer contained or encapsulated has been repaired and resealed.
 
 (f) Results of lead-based paint testing or evidence of application of encapsulants to surfaces performed prior to the effective date of these rules, that conforms with the requirements of this section, may be submitted to qualify for an exemption from the presumption pursuant to this section.
 
@@ -8435,17 +8383,17 @@ Nothing herein shall extend the time for compliance with any violation issued pu
 
 (a)  A registered owner or registered officer or director of a corporate owner or registered managing agent shall submit a certification of correction of a lead-based paint hazard violation issued pursuant to § 27-2056.6 of article 14 of the housing maintenance code and these rules within five (5) days of the date set for correction in the notice of violation. Such certification shall be made in writing, under oath by the registered owner, a registered officer or director of a corporate owner or by the registered managing agent and shall include the following:
 
-   (1) the date that the violation was corrected, and a statement that the violation was corrected in compliance with article 14 of the housing maintenance code and § 11-06 of these rules;
+   (1) the date that the violation was corrected, and a statement that the violation was corrected in compliance with article 14 of the housing maintenance code and 28 RCNY § 11-06;
 
-   (2) the results of laboratory tests performed by an independent laboratory certified by the state of New York for lead-contaminated dust clearance tests performed pursuant to § 27-2056.11(b) and (d) of the housing maintenance code and § 11-06(g)(1)(ix)(C) and (D) of these rules;
+   (2) the results of laboratory tests performed by an independent laboratory certified by the state of New York for lead-contaminated dust clearance tests performed pursuant to § 27-2056.11(b) and (d) of the housing maintenance code and 28 RCNY § 11-06(g)(1)(ix)(C) and (D);
 
-   (3) a copy of the certificate of training required pursuant to § 11-06(b)(2)(iii) qualifying the person who performed the lead-contaminated dust clearance testing; and
+   (3) a copy of the certificate of training required pursuant to 28 RCNY § 11-06(b)(2)(iii) qualifying the person who performed the lead-contaminated dust clearance testing; and
 
-   (4) a sworn statement by the person or firm who performed the work necessary to correct the violation that such work was performed in accordance with the applicable provisions of § 27-2056.11 of article 14 of the housing maintenance code and the applicable provisions of § 11-06 of these rules; and
+   (4) a sworn statement by the person or firm who performed the work necessary to correct the violation that such work was performed in accordance with the applicable provisions of § 27-2056.11 of article 14 of the housing maintenance code and the applicable provisions of 28 RCNY § 11-06; and
 
-   (5) a copy of the certification by the United States environmental protection agency of the firm that performed the work as required pursuant to § 11-06(b)(2)(i) of these rules.
+   (5) a copy of the certification by the United States environmental protection agency of the firm that performed the work as required pursuant to 28 RCNY § 11-06(b)(2)(i).
 
-(b) Certification of a lead-based paint hazard violation shall be rejected by the department unless the results of the laboratory tests for the required lead-contaminated dust clearance tests are submitted with the certification, and such laboratory test results comply with the standards specified in § 11-06(g)(1)(ix)(D) of these rules.
+(b) Certification of a lead-based paint hazard violation shall be rejected by the department unless the results of the laboratory tests for the required lead-contaminated dust clearance tests are submitted with the certification, and such laboratory test results comply with the standards specified in 28 RCNY § 11-06(g)(1)(ix)(D).
 
 (c) Failure to file a certification of correction of such violation shall establish a prima facie case that such violation has not been corrected.
 
@@ -8929,7 +8877,7 @@ Subject building. "Subject building" shall mean the dwelling in which the violat
 
 (b) A new owner must submit, in support of an application for a stay of legal action, documentary proof that:
 
-   (1) the applicant is a new owner as defined in § 13-02 "New owner" of this chapter; and
+   (1) the applicant is a new owner as defined in 28 RCNY § 13-02 "New owner"; and
 
    (2) a registration statement has been filed with the Department's Office of Code Enforcement by the new owner, or proof that registration is not required for or allowed to be filed by the applicant.
 
@@ -8995,7 +8943,7 @@ The length of a stay shall be set by the Department and shall be for a period or
 
    (3) may contain other conditions, as the Department finds appropriate, including repayment of Emergency Repair Program expenditures.
 
-(b) In the event the Department determines, after consideration of information described in § 13-04 of this chapter, that a stay might be granted but that a further assurance of violation removal is required from the new owner, a stay may be granted on the condition that the new owner accept service of a summons and complaint or a summons with notations and agree to allow the agreement described in § 13-06(a) above to be entered in the New York City Civil Court as an order of that court.
+(b) In the event the Department determines, after consideration of information described in 28 RCNY § 13-04, that a stay might be granted but that a further assurance of violation removal is required from the new owner, a stay may be granted on the condition that the new owner accept service of a summons and complaint or a summons with notations and agree to allow the agreement described in 28 RCNY § 13-06(a) above to be entered in the New York City Civil Court as an order of that court.
 
 (c) If the Department reasonably concludes from the data submitted that the new owner will acquire additional funds, or may be able to acquire the necessary financing from a particular lending institution or type of lending institution to which the new owner has not applied, the Department may require the new owner to make one or more applications for such financing as a condition precedent to the granting of a stay. The Department shall grant an interim stay sufficient in length for a reply, in the ordinary course of business, to any such application upon the condition that the new owner shall inform the Department of such a reply within five (5) days of its receipt. The Department shall make a final determination as to whether a stay shall be granted upon receiving such information or upon an expiration of the interim stay.
 
@@ -9009,7 +8957,7 @@ The length of a stay shall be set by the Department and shall be for a period or
 
 In the event a new owner shall apply for an extension of a stay previously granted, the Department may grant such stay if the new owner:
 
-(a) Makes an application for such extension at least five (5) days prior to the expiration of the correction date set forth in the agreement described in § 13-06 of this chapter;
+(a) Makes an application for such extension at least five (5) days prior to the expiration of the correction date set forth in the agreement described in 28 RCNY § 13-06;
 
 (b) Clearly demonstrates to the Department that:
 
@@ -9021,7 +8969,7 @@ In the event a new owner shall apply for an extension of a stay previously grant
 
 (c) Submits any data or information requested by the Department which may include the following:
 
-   (1) any information described in §§ 13-05 or 13-07(b) of this chapter;
+   (1) any information described in 28 RCNY §§ 13-05 or 13-07(b);
 
    (2) documentation of the actions taken to achieve correction, including receipted bills and/or cancelled checks for any work performed or materials supplied;
 
@@ -9043,13 +8991,13 @@ In the event a new owner shall apply for an extension of a stay previously grant
 
    (1) discovery of misrepresentation or fraud in an application for a stay or an extension of a stay; or,
 
-   (2) failure by a new owner to adhere to the terms of any part or all of either an agreement for a stay described in § 13-06 of this chapter or an agreement for an extension of a stay described in § 13-07.
+   (2) failure by a new owner to adhere to the terms of any part or all of either an agreement for a stay described in 28 RCNY § 13-06 or an agreement for an extension of a stay described in 28 RCNY § 13-07.
 
 (b) In the event that the Department revokes a stay or an extension of a stay:
 
    (1) the new owner shall be liable for full civil penalties as provided by law; and,
 
-   (2) such revocation shall not affect a new owner's responsibility to remove violations at the subject building, and, where an agreement executed under §§ 13-06 or 13-07 of this chapter has been entered as an order of the New York City Civil Court, the schedule of removal of violations contained therein.
+   (2) such revocation shall not affect a new owner's responsibility to remove violations at the subject building, and, where an agreement executed under 28 RCNY §§ 13-06 or 13-07 has been entered as an order of the New York City Civil Court, the schedule of removal of violations contained therein.
 
 
 
@@ -9086,17 +9034,17 @@ Chapter 14: Rent Setting and Increases To Tenants In Division of Alternative Man
 
 (b) For the purposes of this chapter, unless the context indicates otherwise, the following definitions apply:
 
-DAMP. "DAMP" shall mean to the Division of Alternative Management Programs, or any successor division, of the Department of Housing Preservation and Development.
+   DAMP. "DAMP" shall mean to the Division of Alternative Management Programs, or any successor division, of the Department of Housing Preservation and Development.
 
-DAMP Lessee. "DAMP Lessee" shall mean a person or entity with whom HPD has entered into a lease for the management of a building under any DAMP Program.
+   DAMP Lessee. "DAMP Lessee" shall mean a person or entity with whom HPD has entered into a lease for the management of a building under any DAMP Program.
 
-DAMP Programs. "DAMP Programs" shall mean the programs administered by DAMP.
+   DAMP Programs. "DAMP Programs" shall mean the programs administered by DAMP.
 
-DAMP Program Director. "DAMP Program Director" shall mean the individual at HPD responsible for the operation of an individual DAMP Program or his or her designee.
+   DAMP Program Director. "DAMP Program Director" shall mean the individual at HPD responsible for the operation of an individual DAMP Program or his or her designee.
 
-Room. "Room" shall mean the basic living space of a dwelling unit (i.e. living room, kitchen, dining room, and bedroom). Each bathroom shall be considered as one-half of a room. In studio apartments or apartments in which the kitchen (or kitchenette) and living area occupy the same space, that space shall be considered as two Rooms.
+   Room. "Room" shall mean the basic living space of a dwelling unit (i.e. living room, kitchen, dining room, and bedroom). Each bathroom shall be considered as one-half of a room. In studio apartments or apartments in which the kitchen (or kitchenette) and living area occupy the same space, that space shall be considered as two Rooms.
 
-Tenant. "Tenant" shall mean a residential tenant of record occupying a dwelling unit pursuant to a lease with the City or with a net lessee which has entered into a net lease with the City for the building in which such dwelling unit is located. Other residential occupants, such as squatters and licensees, are not Tenants. Non-residential tenants or occupants, such as those who occupy space for retail, commercial, manufacturing, or community facility purposes, are not Tenants.
+   Tenant. "Tenant" shall mean a residential tenant of record occupying a dwelling unit pursuant to a lease with the City or with a net lessee which has entered into a net lease with the City for the building in which such dwelling unit is located. Other residential occupants, such as squatters and licensees, are not Tenants. Non-residential tenants or occupants, such as those who occupy space for retail, commercial, manufacturing, or community facility purposes, are not Tenants.
 
 (c) Unless otherwise provided in this title, the provisions of this chapter govern the procedures for setting and increasing rents for Tenants of City-owned buildings participating in DAMP Programs.
 
@@ -9199,23 +9147,23 @@ Central heating plant. The term "central heating plant" as used in this chapter 
 
 Qualified persons.
 
-   (1) Plumber licensed by the City of New York.
+(1) Plumber licensed by the City of New York.
 
-   (2) Oil burner installer licensed by the City of New York.
+(2) Oil burner installer licensed by the City of New York.
 
-   (3) High pressure boiler operating engineer licensed by the City of New York.
+(3) High pressure boiler operating engineer licensed by the City of New York.
 
-   (4) Portable high pressure boiler operating engineer licensed by the City of New York.
+(4) Portable high pressure boiler operating engineer licensed by the City of New York.
 
-   (5) Boiler inspector holding a certificate of competence from the New York State Department of Labor.
+(5) Boiler inspector holding a certificate of competence from the New York State Department of Labor.
 
-   (6) Certified employee of a public utility.
+(6) Certified employee of a public utility.
 
-   (7) Energy auditor certified as oil burner or system replacement auditor qualified by the oil heating institutes of New York in accordance with training qualifications set by the Public Service Commission for purposes of the Home Insulation and Energy Act.
+(7) Energy auditor certified as oil burner or system replacement auditor qualified by the oil heating institutes of New York in accordance with training qualifications set by the Public Service Commission for purposes of the Home Insulation and Energy Act.
 
-   (8) Employee of the owner holding a certificate of fitness for pre-heated oil burners issued by the Fire Department of the City of New York.
+(8) Employee of the owner holding a certificate of fitness for pre-heated oil burners issued by the Fire Department of the City of New York.
 
-   (9) Employee of Department of Housing Preservation and Development's Office of Energy Conservation holding a certificate of competence issued by the Assistant Commissioner of that office and engaged by the owner of the premises to conduct self-inspection.
+(9) Employee of Department of Housing Preservation and Development's Office of Energy Conservation holding a certificate of competence issued by the Assistant Commissioner of that office and engaged by the owner of the premises to conduct self-inspection.
 
 
 
@@ -9241,7 +9189,7 @@ The report shall be filed on forms to be prescribed by the department.
 
 (c) If a license or certificate holder is assisted in preparing the report by an employee, the license or certificate holder shall certify that such employee, is competent to perform the assigned tasks and indicate which tasks were performed by such employees.
 
-(d) Notwithstanding the foregoing, inspections by Building Department personnel or by a duly authorized insurance company in conformance with § 27-793 of the Administrative Code shall be acceptable in lieu of the self-inspection by a qualified person as defined in § 15-01 "qualified persons" of this chapter provided the owner certifies as to the existence of such an inspection.
+(d) Notwithstanding the foregoing, inspections by Building Department personnel or by a duly authorized insurance company in conformance with § 27-793 of the Administrative Code shall be acceptable in lieu of the self-inspection by a qualified person as defined in 28 RCNY § 15-01 "qualified persons" provided the owner certifies as to the existence of such an inspection.
 
 
 
@@ -9275,7 +9223,7 @@ Upon the filing of a certified report of an inspection of a central heating plan
 
 (b) On or before October 15th an owner may request an extension of the time to file a report and to correct any defects disclosed in the report. Such application must be verified and must set forth an acceptable explanation for the applicant's inability to file or correct by October 15th. The department shall treat such application in the same manner as an application for a postponement made pursuant to § 27-2117(a) of the Housing Maintenance Code. The department shall not grant a postponement requested after October 15th.
 
-(c) After the date on which the report is required to be filed and until the date set forth on the notice of violation as the date by which the violation must be corrected, the owner may file the report and the department shall deem the violation corrected on the date that an employee of the department certified the report in the manner provided in § 15-05 of this chapter. Notwithstanding the foregoing, the department shall maintain the violation of its records with a notation of the date of the report's certification by the department, until the May 31st following the year in which the report was to be filed.
+(c) After the date on which the report is required to be filed and until the date set forth on the notice of violation as the date by which the violation must be corrected, the owner may file the report and the department shall deem the violation corrected on the date that an employee of the department certified the report in the manner provided in 28 RCNY § 15-05. Notwithstanding the foregoing, the department shall maintain the violation of its records with a notation of the date of the report's certification by the department, until the May 31st following the year in which the report was to be filed.
 
 (d) After the date set forth on the notice of violation as the date by which the violation must be corrected, the owner may file such report and the department shall enter a notation in its records of the date on which such report was certified by the department. After the date of certification by the department, the per diem penalty shall be stayed. The department shall maintain the violation on its records, with a notation of the date of the report's certification by the department, until May 31st following the year in which the report was to be filed.
 
@@ -9300,7 +9248,7 @@ The owner of every multiple dwelling shall have the area, where the building's h
 *§ 16-02 Notices.* ::
 
 
-The notices in § 16-01 above:
+The notices in 28 RCNY § 16-01 above:
 
 (a) shall read: Key to heating system area lock is located at ________________________________________;
 
@@ -9389,9 +9337,9 @@ This chapter describes the process for making objections to municipal charges th
 
 Any charge without specific objections from an owner shall be considered undisputed.
 
-(f) If an owner submits an objection under Administrative Code § 27-2129 and § 47-02 to a charge imposed under § 27-2115(f)(8) on the basis that he or she has attempted and failed to gain access to the dwelling unit that is the subject of the complaint-based inspection fee for the purpose of making repairs, then the owner shall include the following documentation:
+(f) If an owner submits an objection under Administrative Code § 27-2129 and 28 RCNY § 47-02 to a charge imposed under § 27-2115(f)(8) on the basis that he or she has attempted and failed to gain access to the dwelling unit that is the subject of the complaint-based inspection fee for the purpose of making repairs, then the owner shall include the following documentation:
 
-   (i) Copies of at least four written notices delivered to the occupant of the subject dwelling unit (two attempts at access after each complaint-based inspection) requesting access at reasonable dates and times in accordance with § 25-101, to make repairs. However, if the owner is requesting access to repair a class C violation, copies of such written notices will not be required unless such class C violation is for the existence of a lead-based paint hazard; and
+   (i) Copies of at least four written notices delivered to the occupant of the subject dwelling unit (two attempts at access after each complaint-based inspection) requesting access at reasonable dates and times in accordance with 28 RCNY § 25-101, to make repairs. However, if the owner is requesting access to repair a class C violation, copies of such written notices will not be required unless such class C violation is for the existence of a lead-based paint hazard; and
 
    (ii) A sworn affidavit signed by the owner, that such owner or his or her representative was not able, after four attempts (two attempts at access after each complaint-based inspection), to gain access to the dwelling unit for the purpose of making repairs. Such affidavit shall include the date of each such attempt at access and shall describe the efforts made by the owner or his or her representative to obtain access to the dwelling unit, and such other information as the Department may require. When an owner requests access to repair a class C violation that is not for lead-based paint, the affidavit shall include details of the actions taken by the owner or his or her representative to notify the occupant of the subject dwelling unit, including, but not limited to, making telephone calls, sending emails, and knocking on the occupant's door at a reasonable time when he or she would be expected to be present. Such affidavit shall include the date and time of such actions.
 
@@ -9457,7 +9405,7 @@ Chapter 18: Relocation Payments and Services
    "Relocation Services" means all relocation services offered or provided to a Relocatee by HPD, including Shelter Services. 
 									
 
-   "Rule" or "Rules" means Section 18-01 of Chapter 18 of Title 28 of the Rules of the City of New York. 
+   "Rule" or "Rules" means 28 RCNY § 18-01. 
 									
 
    "Shelter Services" means temporary shelter relocation services offered or provided to a Relocatee by HPD. 
@@ -9502,7 +9450,7 @@ Chapter 18: Relocation Payments and Services
       (i) Vacate Order issued by the Department of Health and Mental Hygiene, pursuant to Administrative Code § 17-159 or other provision of law; 
 									
 
-      (ii) A Vacate Order issued by the Department of Buildings pursuant to Administrative Code § 28-207.4 et seq. or other provision of law; 
+      (ii) A Vacate Order issued by the Department of Buildings pursuant to Administrative Code §§ 28-207.4 et seq. or other provision of law; 
 									
 
       (iii) A Vacate Order or other order issued by the Fire Department, pursuant to Administrative Code § 15-227 or other provision of law; and 
@@ -9606,8 +9554,7 @@ Chapter 18: Relocation Payments and Services
       (iii) The Relocatee is moving into a Standard Apartment or other lawful dwelling unit; and 
 									
 
-      (iv) The Relocatee's Relocation Services have not been terminated pursuant to these Rules. 
-									
+      (iv) The Relocatee's Relocation Services have not been terminated pursuant to these Rules.
 
 Table a – Relocation Allowance Payment for Personal Property
 
@@ -9866,7 +9813,7 @@ Table a – Relocation Allowance Payment for Personal Property
 *§ 18-02 Relocation Assistance to Persons Displaced from City-Owned Dwelling Units by Certain Vacate Orders.* ::
 
 
-(a) Application. Notwithstanding the provisions of § 18-01 of this chapter, this § 18-02 shall apply to persons residing in City-owned buildings which are subject to a Vacate Order which, by its terms, shall take effect thirty (30) or more days after the date of issuance.
+(a) Application. Notwithstanding the provisions of 28 RCNY § 18-01, this 28 RCNY § 18-02 shall apply to persons residing in City-owned buildings which are subject to a Vacate Order which, by its terms, shall take effect thirty (30) or more days after the date of issuance.
 
 (b) Definitions. The following terms used in this section shall have the meaning stated below.
 
@@ -9956,21 +9903,21 @@ Table a – Relocation Allowance Payment for Personal Property
 
     * - Number of rooms vacated
       - Amount
-    * - 1-11/2
+    * - 1 - 1 1/2
       - $75.00
-    * - 2-21/2
+    * - 2 - 2 1/2
       - $110.00
-    * - 3-31/2
+    * - 3 - 3 1/2
       - $150.00
-    * - 4-41/2
+    * - 4 - 4 1/2
       - $190.00
-    * - 5-51/2
+    * - 5 - 5 1/2
       - $225.00
-    * - 6-61/2
+    * - 6 - 6 1/2
       - $250.00
-    * - 7-71/2
+    * - 7 - 7 1/2
       - $275.00
-    * - 8-81/2
+    * - 8 - 8 1/2
       - $300.00
 ~
 
@@ -10017,19 +9964,19 @@ Table a – Relocation Allowance Payment for Personal Property
     * - 1
       - $152.00 
     * - 2
-      - 183.00 
+      - $183.00 
     * - 3
-      - 194.00 
+      - $194.00 
     * - 4
-      - 218.00 
+      - $218.00 
     * - 5
-      - 226.00 
+      - $226.00 
     * - 6
-      - 249.00 
+      - $249.00 
     * - 7
-      - 303.00 
+      - $303.00 
     * - 8 or more
-      - 317.00 
+      - $317.00 
 ~
 
  
@@ -10048,7 +9995,7 @@ The above schedule shall be revised without further amendment to these regulatio
 
    (5) The relocatee did not in fact dwell in the vacated premises;
 
-   (6) The relocatee, if in temporary shelter, has had temporary shelter benefits terminated under subdivisions (f)(3) or (5), (g) or (h) of § 18-01 of these regulations;
+   (6) The relocatee, if in temporary shelter, has had temporary shelter benefits terminated under subdivisions (f)(3) or (5), (g) or (h) of 28 RCNY § 18-01;
 
    (7) The relocatee or a member of the family or household has engaged in conduct which threatens the health, safety or property of the residents, guests or visitors of residents of the building to be vacated or the staff of the Department;
 
@@ -10118,7 +10065,7 @@ The above schedule shall be revised without further amendment to these regulatio
 
    (2) The Department, if it provides temporary shelter, shall pay the actual cost of temporary shelter up to $12 per day for one adult and $7 per day for each additional person residing with the relocatee in the room or, if suitable substitute shelter is unavailable for these amounts, the Department may pay such additional sums as are necessary to obtain suitable shelter for the relocatee.
 
-   (3) If a relocatee is provided temporary shelter, the relocatee shall be provided with a copy of § 18-01 of these regulations, in English and in Spanish, upon moving into temporary shelter and only the provisions of that section relating to termination of temporary shelter benefits and the obligations of a relocatee in temporary shelter shall apply to the relocatee.
+   (3) If a relocatee is provided temporary shelter, the relocatee shall be provided with a copy of 28 RCNY § 18-01, in English and in Spanish, upon moving into temporary shelter and only the provisions of that section relating to termination of temporary shelter benefits and the obligations of a relocatee in temporary shelter shall apply to the relocatee.
 
 (o) Waiver. The Department may waive all or part of the foregoing rules and regulations where the circumstances warrant such exemption. Any waiver to be effective shall require the written approval of the Assistant Commissioner of the Division of Relocation Operations or his or her designee and shall include a specific statement of the reason(s) for such waiver.
 
@@ -10278,7 +10225,7 @@ The above schedule shall be revised without further amendment to these regulatio
 
    (2) When the displaced person does not move personal property and claims direct loss, he shall be required to make bonafide effort to sell it.
 
-   (3) When personal property is sold and the business reestablished, the displaced person is entitled to payment as provided in § 18-04(f)(2)(ii).
+   (3) When personal property is sold and the business reestablished, the displaced person is entitled to payment as provided in 28 RCNY § 18-04(f)(2)(ii).
 
       (i) Expenses in searching for replacement business site.
 
@@ -10309,20 +10256,20 @@ The above schedule shall be revised without further amendment to these regulatio
     :header-rows: 1
 
     * - No. of Rooms
-      - Amount No. of Rooms
+      - Amount / No. of Rooms
       - Amount 
-    * - 1-11/2
-      - $120 5-51/2
+    * - 1 - 1 1/2
+      - $120 / 5 - 5 1/2 
       - $300.00
-    * - 2-21/2
-      -   170 6-61/2
-      -   300.00
-    * - 3-31/2
-      -   215 7-71/2
-      -   300.00
-    * - 4-41/2
-      - 260 8-more 
-      -   300.00
+    * - 2 - 2 1/2
+      - $170 / 6 - 6 1/2 
+      - $300.00
+    * - 3 - 3 1/2
+      - $215 / 7 - 7 1/2 
+      - $300.00
+    * - 4 - 4 1/2
+      - $260 / 8 - more 
+      - $300.00
 ~
 
 
@@ -10393,7 +10340,7 @@ The above schedule shall be revised without further amendment to these regulatio
 
       (i) Displaced owner. Occupants shall have the right to elect to use either a schedule method or comparative method in determining the amount to be paid.
 
-         (A) The schedule method: The schedule of average prices of comparable sales housing in the locality, is as follows:
+         (A) The schedule method: The schedule of average prices of comparable sales housing in the locality, is as follows: 
 
  
 
@@ -10406,13 +10353,13 @@ The above schedule shall be revised without further amendment to these regulatio
     * - 1
       - $40,600 
     * - 2
-      - 40,600 
+      - $40,600 
     * - 3
-      - 56,700 
+      - $56,700 
     * - 4
-      - 71,400 
+      - $71,400 
     * - 5 or more
-      - 71,400 
+      - $71,400 
 ~
 
 
@@ -10481,7 +10428,7 @@ The above schedule shall be revised without further amendment to these regulatio
 
    (1) Displaced tenants who rent shall have the right to elect to use either a Schedule Method or a Comparative Method to determine the payment due them.
 
-   (2) Schedule: The Schedule of Average Rents in the City of New York is as follows:
+   (2) Schedule: The Schedule of Average Rents in the City of New York is as follows: 
 
  
 
@@ -10511,32 +10458,32 @@ The above schedule shall be revised without further amendment to these regulatio
       - 240 
       - 5 
       - 21 
-      -   266 
-      -   3,192 
+      - $266 
+      - $3,192 
     * - 2 
       - 283 
       - 7 
       - 25 
-      -   315 
-      -   3,780 
+      - $315 
+      - $3,780 
     * - 3 
       - 328 
       - 8 
       - 28 
-      -   364 
-      -   4,368 
+      - $364 
+      - $4,368 
     * - 4 
       - 372 
       - 9 
       - 31 
-      -   412 
-      -   4,944 
+      - $412 
+      - $4,944 
     * - 5 or more 
       - 372 
       - 9 
       - 31 
-      -   412 
-      -   4,944 
+      - $412 
+      - $4,944 
 ~
 
  
@@ -10569,7 +10516,7 @@ Replacement housing payment under the schedule method is computed by determining
 
    (3) A displaced owner-occupant who does not qualify for a replacement housing payment under subdivision (k) herein because of the 180 day occupancy requirement and elects to purchase a replacement dwelling, is eligible for a replacement housing downpayment and closing cost not to exceed $4,000. The payment will be computed in the same manner as shown herein.
 
-(r) Bonus assistance for tenants. In the addition to payments otherwise authorized, and subject to the limitations below, the head of the Relocation Agency shall make an additional payment to every displaced person who moves into permanent decent, safe and sanitary accommodations according to the following schedule:
+(r) Bonus assistance for tenants. In the addition to payments otherwise authorized, and subject to the limitations below, the head of the Relocation Agency shall make an additional payment to every displaced person who moves into permanent decent, safe and sanitary accommodations according to the following schedule: 
 
  
 
@@ -10584,20 +10531,20 @@ Replacement housing payment under the schedule method is computed by determining
       - $300 
       - $150 
     * - 4 
-      -   400 
-      -   200 
+      - $400 
+      - $200 
     * - 5 
-      -   500 
-      -   250 
+      - $500 
+      - $250 
     * - 6 
-      -   600 
-      -   300 
+      - $600 
+      - $300 
     * - 7 
-      -   700 
-      -   350 
+      - $700 
+      - $350 
     * - 8 or more 
-      -   800 
-      -   400 
+      - $800 
+      - $400 
 ~
 
 
@@ -10618,7 +10565,7 @@ The above bonus or relocation allowance payments are subject to the following li
 
    (6) For the purpose of this section, Public Housing is defined as all housing is provided in the "Definitions" herein and to all types of equivalent housing including, Rent Supplement and Capital Grant Assistance.
 
-(s) Finder fee payments. Finders fee payment are to be paid to owners, agents or brokers who have listed with the Relocation Agency standard apartment into which relocatee have moved. The schedule is as follows:
+(s) Finder fee payments. Finders fee payment are to be paid to owners, agents or brokers who have listed with the Relocation Agency standard apartment into which relocatee have moved. The schedule is as follows: 
 
  
 
@@ -10631,15 +10578,15 @@ The above bonus or relocation allowance payments are subject to the following li
     * - 1 to 3
       - $150 
     * - 4
-      - 300 
+      - $300 
     * - 5
-      - 400 
+      - $400 
     * - 6
-      - 500 
+      - $500 
     * - 7
-      - 600 
+      - $600 
     * - 8 or more
-      - 700 
+      - $700 
 ~
 
 
@@ -10827,6 +10774,11 @@ Chapter 21: Division of Alternative Management Programs
 
 
 
+**Subchapter A: Reserved**
+
+
+
+
 **Subchapter B: Rights of Tenants and Termination of Tenancies**
 
 
@@ -10882,9 +10834,9 @@ Tenant. "Tenant" shall mean an authorized residential tenant of record occupying
 
 (a)  Tenancy. All Tenants of a building in DAMP shall be month-to-month Tenants.
 
-(b) Continuation of Tenancy. As long as a Tenant continues to pay the rent, in accordance with § 21-24(b), his/her month-to-month tenancy shall be renewed, unless the DAMP Lessee asserts grounds for termination or non-renewal under these Rules.
+(b) Continuation of Tenancy. As long as a Tenant continues to pay the rent, in accordance with 28 RCNY § 21-24(b), his/her month-to-month tenancy shall be renewed, unless the DAMP Lessee asserts grounds for termination or non-renewal under these Rules.
 
-(c) Eviction Proceedings (Failure to Pay Rent). A DAMP Lessee may commence eviction proceedings when a Tenant has failed to pay the rent due in accordance with § 21-24(b). If the DAMP Lessee has any reason to know that the Tenant's rent has ever been paid by DSS, then the DAMP Lessee must ascertain the Tenant's public assistance status from HPD prior to instituting non-payment proceedings.
+(c) Eviction Proceedings (Failure to Pay Rent). A DAMP Lessee may commence eviction proceedings when a Tenant has failed to pay the rent due in accordance with 28 RCNY § 21-24(b). If the DAMP Lessee has any reason to know that the Tenant's rent has ever been paid by DSS, then the DAMP Lessee must ascertain the Tenant's public assistance status from HPD prior to instituting non-payment proceedings.
 
 (d) Eviction Proceedings (Termination of Tenancy). Without the approval of HPD, the DAMP Lessee may refuse to renew a Tenant's lease or may commence an action or proceeding to recover possession of any housing accommodation upon one or more of the following grounds:
 
@@ -10906,7 +10858,7 @@ Tenant. "Tenant" shall mean an authorized residential tenant of record occupying
 
       (iii) that the DAMP Lessee offers the Tenant in writing the right of reoccupancy of a reconstructed, renovated, or improved housing accommodation at the same rent or at a rent set pursuant to applicable rules for the respective DAMP Program or other rent restructuring authority.
 
-   (7) The housing accommodation is not occupied by the Tenant, not including subtenants or occupants, as his or her primary residence, unless the subtenant or assignee has been approved pursuant to § 21-24(i) of these Rules.
+   (7) The housing accommodation is not occupied by the Tenant, not including subtenants or occupants, as his or her primary residence, unless the subtenant or assignee has been approved pursuant to 28 RCNY § 21-24(i).
 
    (8) The building is to be placed in a program of rehabilitation or reconstruction which requires the vacating of the entire building.
 
@@ -11080,25 +11032,25 @@ DPM. [Repealed.]
 
 Family Member. "Family member" shall mean:
 
-   (1) A husband, wife, son, daughter, stepson, stepdaughter, father, mother, stepfather, stepmother, brother, sister, nephew, niece, uncle, aunt, grandfather, grandmother, grandson, granddaughter, father-in-law, mother-in-law, son-in-law, or daughter-in-law of a tenant;
+(1) A husband, wife, son, daughter, stepson, stepdaughter, father, mother, stepfather, stepmother, brother, sister, nephew, niece, uncle, aunt, grandfather, grandmother, grandson, granddaughter, father-in-law, mother-in-law, son-in-law, or daughter-in-law of a tenant;
 
-   (2) Any other person residing with the tenant in the apartment as a primary residence, who can prove emotional and financial commitment, and interdependence between such person and the tenant. Although no single factor shall be determinative, evidence which is to be considered in determining whether such emotional and financial commitment and interdependence existed may include, without limitation, such factors as listed below. In no event is evidence of a sexual relationship between such persons to be required or considered.
+(2) Any other person residing with the tenant in the apartment as a primary residence, who can prove emotional and financial commitment, and interdependence between such person and the tenant. Although no single factor shall be determinative, evidence which is to be considered in determining whether such emotional and financial commitment and interdependence existed may include, without limitation, such factors as listed below. In no event is evidence of a sexual relationship between such persons to be required or considered.
 
-      (A) longevity of the relationship;
+   (A) longevity of the relationship;
 
-      (B) sharing of or relying upon each other for payment of household or family expenses, and/or other common necessities of life;
+   (B) sharing of or relying upon each other for payment of household or family expenses, and/or other common necessities of life;
 
-      (C) intermingling of finances as evidenced by, among other things, joint ownership of bank accounts, personal and real property, credit cards, loan obligations, sharing a household budget for purposes of receiving government benefits, etc.;
+   (C) intermingling of finances as evidenced by, among other things, joint ownership of bank accounts, personal and real property, credit cards, loan obligations, sharing a household budget for purposes of receiving government benefits, etc.;
 
-      (D) engaging in family-type activities by jointly attending family functions, holidays and celebrations, social and recreational activities, ect.;
+   (D) engaging in family-type activities by jointly attending family functions, holidays and celebrations, social and recreational activities, ect.;
 
-      (E) formalizing of legal obligations, intentions, and responsibilities to each other by such means as executing wills naming each other as executor and/or beneficiary, granting each other a power of attorney and/or conferring upon each other authority to make health care decisions each for the other, entering into a personal relationship contract, making a domestic partnership declaration, or serving as a representative payee for purposes of public benefits, ect.;
+   (E) formalizing of legal obligations, intentions, and responsibilities to each other by such means as executing wills naming each other as executor and/or beneficiary, granting each other a power of attorney and/or conferring upon each other authority to make health care decisions each for the other, entering into a personal relationship contract, making a domestic partnership declaration, or serving as a representative payee for purposes of public benefits, ect.;
 
-      (F) holding themselves out as family members to other family members, friends, members of the community or religious institutions, or society in general, through their words or actions;
+   (F) holding themselves out as family members to other family members, friends, members of the community or religious institutions, or society in general, through their words or actions;
 
-      (G) regularly performing family functions, such as caring for each other or each other's extended family members, and/or relying upon each other for daily family services;
+   (G) regularly performing family functions, such as caring for each other or each other's extended family members, and/or relying upon each other for daily family services;
 
-      (H) engaging in other patterns of behavior or other action which evidences the intention of creating a long-term, emotionally-committed relationship.
+   (H) engaging in other patterns of behavior or other action which evidences the intention of creating a long-term, emotionally-committed relationship.
 
 HPD. "HPD" shall mean the New York City Department of Housing Preservation and Development or any successor agency.
 
@@ -11150,7 +11102,7 @@ Unless otherwise prohibited by occupancy restrictions based upon income limitati
 *§ 24-05 Ineligible Persons.* ::
 
 
-Persons otherwise eligible to apply for tenancy under § 24-04 above shall not be offered tenancy if:
+Persons otherwise eligible to apply for tenancy under 28 RCNY § 24-04 above shall not be offered tenancy if:
 
 (a) they have engaged in an unacceptable activity, or;
 
@@ -11258,7 +11210,7 @@ These rules shall govern the installation and maintenance of gas-fueled space an
 
 (b) Before filing these forms in the offices of the Department of Buildings the applicant shall have the house numbers and the block and lot checked in the offices of the borough president where that procedure is followed in a particular borough, and in addition obtain a certification from the Department of Housing Preservation and Development of the classification of the multiple dwelling in which the appliances are to be installed.
 
-(c) When applications are filed for permits to install gas-fueled space and water heaters the plumbing repair slips, the building notice forms and the envelopes in which they are placed shall be stamped by the plan clerk with a stamp reading: "GAS AP- PLIANCES".
+(c) When applications are filed for permits to install gas-fueled space and water heaters the plumbing repair slips, the building notice forms and the envelopes in which they are placed shall be stamped by the plan clerk with a stamp reading: "GAS APPLIANCES".
 
 (d) Plumbing repair slips shall be accepted only where gas appliances will be connected to flues in existing brick chimneys, and where no other venting or other work is required to be done. They shall not be accepted for installation of gas-fueled heaters in sleeping rooms. Plumbing repair slips shall clearly state the type of appliance to be installed, the floors, apartments and rooms in which they are to be placed, including the number of rooms in the apartment and the occupancy of each room, whether sleeping room or otherwise. They shall describe the condition of the chimney flue to be used and state whether the draft is satisfactory. If a gas meter is to be installed its location shall be given.
 
@@ -11278,7 +11230,7 @@ These rules shall govern the installation and maintenance of gas-fueled space an
 
 (b) Building notices calling for the installation of gas-fueled space and water heaters shall be expedited and may be taken out of turn, except that they shall be processed in the order in which they were received. They shall be examined for compliance with these rules and all other laws and regulations applicable to such installations. If any chimney or metal stack is to be installed, examiners shall check such construction for compliance with subchapter 15 of chapter 1 of Title 27 of the Administrative Code (Building Code). They shall require that the foundations shall be carried not less than four feet below the surface of the ground, and that the soil on which it is build to be not overloaded. They shall require that new chimneys be strapped to the existing walls.
 
-(c) Only applications calling for the installation of gas-fueled space or water heaters, approved by the Department of Health, specifying the make and model shall be approved. All such gas appliances shall be of types approved also by the American Gas Association. However, where an owner desires to continue to use any gas appliance installed in a multiple dwelling prior to December 9, 1955, clearly shows on the plan the data required by paragraph f of § 25-06 of these rules and prominently marks the appliances that have not been approved by the Department of Health, the application may be conditionally approved pending the approval of the appliances by the Department of Health.
+(c) Only applications calling for the installation of gas-fueled space or water heaters, approved by the Department of Health, specifying the make and model shall be approved. All such gas appliances shall be of types approved also by the American Gas Association. However, where an owner desires to continue to use any gas appliance installed in a multiple dwelling prior to December 9, 1955, clearly shows on the plan the data required by paragraph f of 28 RCNY § 25-06 and prominently marks the appliances that have not been approved by the Department of Health, the application may be conditionally approved pending the approval of the appliances by the Department of Health.
 
 
 
@@ -11484,7 +11436,7 @@ Each gas-fueled space or water heater installed in an apartment in a dwelling sh
 
 (a) Gas-fueled space heaters installed prior to December 18, 1957, if of a type not approved by the Department of Health and the American Gas Association, shall be replaced by centrally supplied heat or by gas heaters approved by the said authorities on or before November 1, 1958, in any tenement and converted dwelling which contains ten or more apartments, and on or before November 1, 1959, in other tenements and converted dwellings.
 
-(b) On or before the applicable dates given in subdivision (a) of this section, gas-fueled space heaters installed prior to December 18, 1957, in tenements and converted dwellings prescribed in said paragraph shall be made to comply with all the requirements of §§ 25-23 to 25-29.
+(b) On or before the applicable dates given in subdivision (a) of this section, gas-fueled space heaters installed prior to December 18, 1957, in tenements and converted dwellings prescribed in said paragraph shall be made to comply with all the requirements of 28 RCNY §§ 25-23 to 25-29.
 
 
 
@@ -11496,7 +11448,7 @@ Each gas-fueled space or water heater installed in an apartment in a dwelling sh
 
 (a) On or before November 1, 1958, in any tenement and converted dwelling which contains ten or more apartments, and on or before November 1, 1959, in other tenements and converted dwellings, any gas-fueled water heater installed prior to December 18, 1957, if of a type not approved by the Department of Health, shall be replaced by a supply of hot water or by a water heater approved by said department.
 
-(b) On or before the applicable dates given in § 25-30(a), gas-fueled dwellings described in said paragraph shall be made to comply with all the applicable requirements of §§ 25-23 to 25-29, and all gas-fueled water heaters that have water heaters installed prior to December 18, 1957, in tenements and converted dwellings' sleeping rooms shall be removed.
+(b) On or before the applicable dates given in 28 RCNY § 25-30(a), gas-fueled dwellings described in said paragraph shall be made to comply with all the applicable requirements of 28 RCNY §§ 25-23 to 25-29, and all gas-fueled water heaters that have water heaters installed prior to December 18, 1957, in tenements and converted dwellings' sleeping rooms shall be removed.
 
 (c) Any gas-fueled water heater so designed and arranged that it heats water in pipe coils placed at a distance from the hot water storage tank, installed prior to December 18, 1957, may be maintained in tenements and converted dwellings described in subdivision (a) of this section on and after the applicable dates given in said rule only if it is of a type approved by the Department of Health. However, no gas-fueled water heater shall be maintained in a sleeping room or bathroom.
 
@@ -11524,7 +11476,7 @@ Each gas-fueled space or water heater installed in an apartment in a dwelling sh
 *§ 25-33 Existing Appliances in Ineligible Locations.* ::
 
 
-Where a gas-fueled space heater or water heater has heretofore been installed in a dwelling not complying with all the requirements of § 25-16, nothing in these rules shall be construed to relieve the owner of his responsibility to provide for such dwelling centrally supplied heat and a supply of hot water.
+Where a gas-fueled space heater or water heater has heretofore been installed in a dwelling not complying with all the requirements of 28 RCNY § 25-16, nothing in these rules shall be construed to relieve the owner of his responsibility to provide for such dwelling centrally supplied heat and a supply of hot water.
 
 
 
@@ -11823,7 +11775,7 @@ The above sign must show the address of the premises, the location of the apartm
 
 
 
-*§ 25-91 Rules for Enforcement of Subdivision 4 of § 27-2098 of the Administrative Code of the City of New York.* ::
+*§ 25-91 Rules for Enforcement of Subdivision (4) of § 27-2098 of the Administrative Code of the City of New York.* ::
 
 
 (a) The words "may be reached at all hours and time" within the meaning of subdivision (4) of § 27-2098 of the Administrative Code shall be construed to mean a telephone number at or through which in the normal course of events a person might reasonably be expected to be reached at all times and this shall be deemed to include:
@@ -11878,8 +11830,6 @@ The repair work is for the purpose of
 _______________________________________________________________
 
 _______________________________________________________________
-
- 
 
 AVISO DE INTERUPCION DE SERVICIOS
 
@@ -11994,7 +11944,7 @@ _______________________________________________________________
 
 (a) Bulkhead doors and scuttles shall have no key locks and shall not be locked by a key at any time. The only permissible and acceptable means of securing a bulkhead door or scuttle is by means of a movable bolt or hook on the inside.
 
-(b) Subdivision (n) of § 25-174 of the current departmental rules and regulations in its last un-numbered paragraph provides as follows: "All passageways required under these rules shall be not less than seven feet (7'0") in height and not less than three feet (3'0") in width and shall at all times be kept clear and unobstructed. Doors and gates at the end of such passageways are prohibited, except that a door or gate equipped with an approved-type knob or panic bolt which shall be readily openable from the inside will be permitted at the building line. Doors and gates provided with key locks or padlocks are prohibited."
+(b) Subdivision (n) of 28 RCNY § 25-174 in its last un-numbered paragraph provides as follows: "All passageways required under these rules shall be not less than seven feet (7'0") in height and not less than three feet (3'0") in width and shall at all times be kept clear and unobstructed. Doors and gates at the end of such passageways are prohibited, except that a door or gate equipped with an approved-type knob or panic bolt which shall be readily openable from the inside will be permitted at the building line. Doors and gates provided with key locks or padlocks are prohibited."
 
 (c) Where an entrance door leading from a vestibule to the main entrance hall or lobby is equipped with one or more automatic self-closing and self-locking doors, the entrance door from the street to the vestibule need not be equipped with automatic self-closing and self-locking doors.
 
@@ -12180,23 +12130,23 @@ _______________________________________________________________
 
 (a) Intent. The fire-retarding rules herewith set forth are approved by the Department of Buildings for the existing multiple dwellings where the ceilings of the cellar or other lowest story is required, by § 185 and § 240, subdivision 3, Multiple Dwelling Law, and by § 27-2044, Housing Maintenance Code, to be fire-retarded in a manner approved by the Department of Buildings.
 
-   (1) It is the intent of the law to provide a continuous fire-retarded covering over the entire ceiling of the cellar, or other lowest story, so as to prevent fire communicating with upper stories of a multiple dwelling. Where there is a space less than four feet six inches (4'-6") in height from the ground or floor level to the underside of the first tier of beams, such space shall be considered as an "air space" and not as a cellar. However, when such space opens to a cellar where fire-retarding of the ceiling is required, then such space shall be separated from the cellar with a partition constructed of incombustible material in which there is provided a self-closing door and assembly having a fire-resistive rating of at least one hour. Where the ceiling of the cellar or other lowest story is required to be fire-retarded, all openings in such ceilings for stairways not located directly under a main stair, also openings in ceiling such as pipe shafts, vent shafts, unenclosed dumbwaiter shafts, disused flues, etc., shall be properly closed. (Private stairs within duplex apartments extending into cellar or basement are not required to be enclosed.) New partitions erected to enclose existing stair referred to in the preceding paragraph shall be of incombustible materials. Existing partitions enclosing any such stair will be acceptable where same are of incombustible materials or where same are fire-retarded on both sides in accordance with the methods set forth in or § 25-171(b)(1) or (2) and with materials conforming with the requirement of § 25-171(i) of these rules and regulations. Door openings in such enclosure partitions shall be equipped with self-closing protective assemblies having fire-resistive ratings of at least one hour. When existing shafts, including dumbwaiter shafts, extend below the ceiling a distance less than one-half (1/2) the height of the cellar, such shafts shall be considered as being part of the cellar ceiling and the enclosures of said shafts shall be fire-retarded in the same manner as required for cellar ceilings. All existing shafts, including dumbwaiter shafts, which extend below the ceiling a distance more than one-half (1/2) the height of the cellar shall be enclosed with incombustible materials. All shafts referred to in this paragraph shall have adequate cleanout at base consisting of fire-proof self-closing door and assembly having a fire-resistive rating of at least one hour. Where new partitions or enclosures are erected in a cellar they shall be constructed of incombustible materials.
+   (1) It is the intent of the law to provide a continuous fire-retarded covering over the entire ceiling of the cellar, or other lowest story, so as to prevent fire communicating with upper stories of a multiple dwelling. Where there is a space less than four feet six inches (4'-6") in height from the ground or floor level to the underside of the first tier of beams, such space shall be considered as an "air space" and not as a cellar. However, when such space opens to a cellar where fire-retarding of the ceiling is required, then such space shall be separated from the cellar with a partition constructed of incombustible material in which there is provided a self-closing door and assembly having a fire-resistive rating of at least one hour. Where the ceiling of the cellar or other lowest story is required to be fire-retarded, all openings in such ceilings for stairways not located directly under a main stair, also openings in ceiling such as pipe shafts, vent shafts, unenclosed dumbwaiter shafts, disused flues, etc., shall be properly closed. (Private stairs within duplex apartments extending into cellar or basement are not required to be enclosed.) New partitions erected to enclose existing stair referred to in the preceding paragraph shall be of incombustible materials. Existing partitions enclosing any such stair will be acceptable where same are of incombustible materials or where same are fire-retarded on both sides in accordance with the methods set forth in or 28 RCNY § 25-171(b)(1) or (2) and with materials conforming with the requirement of 28 RCNY § 25-171(i). Door openings in such enclosure partitions shall be equipped with self-closing protective assemblies having fire-resistive ratings of at least one hour. When existing shafts, including dumbwaiter shafts, extend below the ceiling a distance less than one-half (1/2) the height of the cellar, such shafts shall be considered as being part of the cellar ceiling and the enclosures of said shafts shall be fire-retarded in the same manner as required for cellar ceilings. All existing shafts, including dumbwaiter shafts, which extend below the ceiling a distance more than one-half (1/2) the height of the cellar shall be enclosed with incombustible materials. All shafts referred to in this paragraph shall have adequate cleanout at base consisting of fire-proof self-closing door and assembly having a fire-resistive rating of at least one hour. Where new partitions or enclosures are erected in a cellar they shall be constructed of incombustible materials.
 
    (2) Wood girders, columns, posts, etc. The fire-retarding material of ceiling of cellar or other lowest story shall be carried down and around all non-fireproof ceiling projections, such as wood girders, etc., which are less than six inches (6" x 6") in diameter. The fire-retarding material also shall be turned down at least three inches (3") on all non-fire-retarding columns, posts, etc., which are less than six inches (6") in diameter.
 
    (3) Non-fire-retarded cellar partitions. When non-fire-retarded partitions in cellar, or other lowest story, extend to the ceiling, the fire-retarding material of the ceiling shall be turned down at least three inches (3") on said partitions, or the partitions shall be cut off at top to permit the fire-retarding of the ceiling to be continuous. Where, in any old law tenement three (3) stories and basement in height, there is also a cellar under the basement story, the ceiling of such cellar shall be fire-retarded; and also, in any such old law tenement, where the main entrance from the grade is to the first story that portion of the basement ceiling which is directly under the first story entrance hall, public hall and stair hall shall be fire-retarded. In every old law tenement three (3) stories and basement in height with no cellar under the basement, where the main entrance from the grade is to the basement story, the ceiling of the basement story shall be fire-retarded throughout. In any such old law tenement where the main entrance from the grade is to the first story no such fire-retarding will be required.
 
-   (4) Heating appliances. The portion of the ceiling over any furnace, boiler or hot water heater shall be fire-retarded in accordance with the methods set forth in § 25-171(b)(1) or (2) and such fire-retarding shall extend for a distance of at least four feet (4'-0") beyond the sides and rear, and eight feet (8'-0") in front of such furnace or boiler.
+   (4) Heating appliances. The portion of the ceiling over any furnace, boiler or hot water heater shall be fire-retarded in accordance with the methods set forth in 28 RCNY § 25-171(b)(1) or (2) and such fire-retarding shall extend for a distance of at least four feet (4'-0") beyond the sides and rear, and eight feet (8'-0") in front of such furnace or boiler.
 
    (5) It is not intended that these rules and regulations in themselves require plans to be filed. However, should any work involve structural changes, then plans are required to be filed in the Department of Buildings and such changes shall be subject to all other rules and regulations applicable thereto.
 
    (6) Work shall not commence until satisfactory evidence has been submitted to the Department of Buildings that compensation insurance has been obtained in accordance with the provisions of the Workmen's Compensation Law.
 
-(b) Methods. Cellar ceilings shall be fire-retarded according to any of the following methods: Metal lath and cement or gypsum mortar conforming to § 25-171(b)(1) of these rules. Plaster boards and gypsum mortar or stamped metal conforming to § 25-171(b)(2) of these rules and regulations.
+(b) Methods. Cellar ceilings shall be fire-retarded according to any of the following methods: Metal lath and cement or gypsum mortar conforming to 28 RCNY § 25-171(b)(1). Plaster boards and gypsum mortar or stamped metal conforming to 28 RCNY § 25-171(b)(2).
 
 No. 26 U.S. gauge stamped metal over existing plastered ceiling, when erected without damage to the plaster. Furring strips are not required, but if used, they shall be metal covered on both sides and on face surface. Stamped metal shall not be applied until after existing plastered ceiling has been inspected and approved by an inspector of the Department of Buildings.
 
-(c) Materials. No other method may be used unless same are acceptable to the Department of Buildings. Materials used shall be in accordance with the provisions of § 25-171(i)(1), (2) or (3) of these rules and regulations. Mineral wool, brick, gypsum or other masonry fill will not be accepted for fire-retarding cellar ceilings. No other materials may be used unless same are acceptable to the Department of Buildings.
+(c) Materials. No other method may be used unless same are acceptable to the Department of Buildings. Materials used shall be in accordance with the provisions of 28 RCNY § 25-171(i)(1), (2) or (3). Mineral wool, brick, gypsum or other masonry fill will not be accepted for fire-retarding cellar ceilings. No other materials may be used unless same are acceptable to the Department of Buildings.
 
 
 
@@ -12210,9 +12160,9 @@ No. 26 U.S. gauge stamped metal over existing plastered ceiling, when erected wi
 
 (b) Section 33, Multiple Dwelling Law. Except when sprinkler heads are installed in conformity with subdivision (e) of this section, § 33 of the Multiple Dwelling Law requires fire-retarding of cooking spaces in existing and newly constructed class A and class B multiple dwellings.
 
-(c) Ceilings and walls exclusive of doors. Walls and ceilings shall be fire-retarded according to any of the following methods: Metal lath and cement or gypsum mortar conforming to § 25-171(b)(1) of these rules and regulations. Plaster boards and gypsum mortar or stamped metal conforming to § 25-171(b)(2) of these rules and regulations.
+(c) Ceilings and walls exclusive of doors. Walls and ceilings shall be fire-retarded according to any of the following methods: Metal lath and cement or gypsum mortar conforming to 28 RCNY § 25-171(b)(1). Plaster boards and gypsum mortar or stamped metal conforming to 28 RCNY § 25-171(b)(2).
 
-No. 26 U.S. gauge stamped metal over existing plaster when erected without damage to the plaster. Furring strips are not required, but if used, they shall be metal covered on both sides and on face surface. Stamped metal shall not be applied until after existing plaster has been inspected and approved by an inspector of the Department of Buildings. Materials used shall be in accordance with the provisions of § 25-171(i)(1), (2) or (3) of these rules and regulations. No other methods or materials may be used unless same are acceptable to the Department of Buildings.
+No. 26 U.S. gauge stamped metal over existing plaster when erected without damage to the plaster. Furring strips are not required, but if used, they shall be metal covered on both sides and on face surface. Stamped metal shall not be applied until after existing plaster has been inspected and approved by an inspector of the Department of Buildings. Materials used shall be in accordance with the provisions of 28 RCNY § 25-171(i)(1), (2) or (3). No other methods or materials may be used unless same are acceptable to the Department of Buildings.
 
 (d) Combustible material. In every cooking space, all combustible material immediately underneath or within one foot of any apparatus used for cooking or warming of food shall be fire-retarded in conformity with the applicable provisions of these rules or covered with asbestos at least three-sixteenths inch (3/16") in thickness and twenty-six gauge metal or with fire-resistive material of equivalent rating. There shall always be at least two feet (2'-0") of clear space above such apparatus.
 
@@ -12286,7 +12236,7 @@ No. 26 U.S. gauge stamped metal over existing plaster when erected without damag
 
    (1) Hereafter erected extension roofs. Where the roof of an extension hereafter erected is to be used as a means of egress from a fire-escape, or where a fire-escape balcony is located directly above said roof, such roof shall be of fireproof constuction.
 
-   (2) Existing extension roofs. Except in converted dwellings where sprinklers may be installed, in every multiple dwelling where a fire-escape balcony is situated over and not more than eight feet (8') above a non-fireproof roof, or where a non-fireproof roof of an extension is to be used as egress from fire-escapes, the entire ceiling of said extension must be fire-retarded with metal lath and cement or gypsum mortar in the manner prescribed in § 25-171(b)(1) and (i)(1) of these rules and regulations, or with one-half inch (1/2") approved plaster boards lined with No. 26 U.S. gauge stamped metal. In buildings requiring the issuance of a certificate of occupancy as a result of being altered structurally, the only approved method shall be with cement of gypsum mortar and metal lath weighing not less than three (3.0) pounds per square yard which shall be applied directly to the beams or other structural members. Where the roof of an existing extension is used as fire egress, a balcony shall be provided at the level of the roof and, if the distance between the said balcony and a safe landing is more than sixteen feet (16'-0"), a landing platform must be provided not more than ten feet (10'-0") from said safe landing and this landing platform and the balcony on the roof level must be connected by a regulation stairway. From the landing platform a drop-ladder in guides must be provided so as to reach the safe landing. A balcony and drop-ladder in guides as per paragraph (11) of subdivision (r) of this section shall be provided for every two fire-escape stacks or fraction thereof using an extension roof for landing and fire egress.
+   (2) Existing extension roofs. Except in converted dwellings where sprinklers may be installed, in every multiple dwelling where a fire-escape balcony is situated over and not more than eight feet (8') above a non-fireproof roof, or where a non-fireproof roof of an extension is to be used as egress from fire-escapes, the entire ceiling of said extension must be fire-retarded with metal lath and cement or gypsum mortar in the manner prescribed in 28 RCNY § 25-171(b)(1) and (i)(1), or with one-half inch (1/2") approved plaster boards lined with No. 26 U.S. gauge stamped metal. In buildings requiring the issuance of a certificate of occupancy as a result of being altered structurally, the only approved method shall be with cement of gypsum mortar and metal lath weighing not less than three (3.0) pounds per square yard which shall be applied directly to the beams or other structural members. Where the roof of an existing extension is used as fire egress, a balcony shall be provided at the level of the roof and, if the distance between the said balcony and a safe landing is more than sixteen feet (16'-0"), a landing platform must be provided not more than ten feet (10'-0") from said safe landing and this landing platform and the balcony on the roof level must be connected by a regulation stairway. From the landing platform a drop-ladder in guides must be provided so as to reach the safe landing. A balcony and drop-ladder in guides as per paragraph (11) of subdivision (r) of this section shall be provided for every two fire-escape stacks or fraction thereof using an extension roof for landing and fire egress.
 
    (3) Skylights on extensions. Any existing skylights in said roof must be constructed of incombustible material whenever deemed necessary. Where skylights exist or are hereafter constructed on the roof of an extension used as a means of egress from a fire-escape, they must not interfere with egress in any way and if in the line of said egress, they must be provided with a substantial guard-rail not less than three feet six inches (3'-6") high.
 
@@ -12340,7 +12290,7 @@ No. 26 U.S. gauge stamped metal over existing plaster when erected without damag
 
 (s) Brackets and braces.
 
-   (1) "Type A". All horizontal members of brackets and all cross beams shall be not less than four-inch (4") channels weighing not less than seven and one-quarter (7.25) pounds to the linear foot. The end bracket members shall enter the wall at a point not less than nine inches (9") from a door or window and shall be anchored on the inside face of the wall with an eight inch by eight inch by three-eighths inch (8" x 8" x 3/8") washer and one-inch (1") bolt and nut. Where the wall is eight inches (8") in thickness the washer shall be continuous and shall extend across all brackets and cross beams. The bolt end shall be wrought iron not less than two inches by one-half inch (2" x 1/2") which shall be drawn out to form the necessary bolt end without welded connections. The bolt end shall be secured to the bracket with two (2) one-half inch (1/2") rivets. On eight-inch (8") walls the bolt end shall not be less than nine inches (9") long. On twelve-inch (12") walls the bolt end shall not be less than eleven inches (11") long. On sixteen-inch (16") walls the bolt end shall not be less than fifteen inches (15") long. When the wall is eight inches (8") in thickness the bracket member shall enter the wall not less than seven inches (7"). When the wall is twelve inches (12") in thickness the bracket member shall enter the wall not less than eleven inches (11"). When the wall is sixteen inches (16") in thickness the bracket member shall enter the wall not less than fifteen inches (15"). The intermediate cross beams shall enter the wall not less than eight inches (8") except where they enter the wall under a window. In such case the cross beam shall enter the wall not less than four inches (4"). The member forming the hatchway opening shall be a four-inch (4") channel iron weighing not less than seven and one-quarter (7.25) pounds per foot. It shall be secured to the intermediate cross beam with a three-inch by three-inch by one-quarter inch (3" x 3" x 1/4") lug and two (2) one-half inch (1/2") rivets or bolts. The front bottom member of the fire-escape shall be of the following size and weights:
+   (1) "Type A". All horizontal members of brackets and all cross beams shall be not less than four-inch (4") channels weighing not less than seven and one-quarter (7.25) pounds to the linear foot. The end bracket members shall enter the wall at a point not less than nine inches (9") from a door or window and shall be anchored on the inside face of the wall with an eight inch by eight inch by three-eighths inch (8" x 8" x 3/8") washer and one-inch (1") bolt and nut. Where the wall is eight inches (8") in thickness the washer shall be continuous and shall extend across all brackets and cross beams. The bolt end shall be wrought iron not less than two inches by one-half inch (2" x 1/2") which shall be drawn out to form the necessary bolt end without welded connections. The bolt end shall be secured to the bracket with two (2) one-half inch (1/2") rivets. On eight-inch (8") walls the bolt end shall not be less than nine inches (9") long. On twelve-inch (12") walls the bolt end shall not be less than eleven inches (11") long. On sixteen-inch (16") walls the bolt end shall not be less than fifteen inches (15") long. When the wall is eight inches (8") in thickness the bracket member shall enter the wall not less than seven inches (7"). When the wall is twelve inches (12") in thickness the bracket member shall enter the wall not less than eleven inches (11"). When the wall is sixteen inches (16") in thickness the bracket member shall enter the wall not less than fifteen inches (15"). The intermediate cross beams shall enter the wall not less than eight inches (8") except where they enter the wall under a window. In such case the cross beam shall enter the wall not less than four inches (4"). The member forming the hatchway opening shall be a four-inch (4") channel iron weighing not less than seven and one-quarter (7.25) pounds per foot. It shall be secured to the intermediate cross beam with a three-inch by three-inch by one-quarter inch (3" x 3" x 1/4") lug and two (2) one-half inch (1/2") rivets or bolts. The front bottom member of the fire-escape shall be of the following size and weights: 
 
  
 
@@ -12543,7 +12493,7 @@ Angle irons to support balconies where regulation braces cannot be used shall no
 *§ 25-191 List of All Violations Classified as Rent Impairing.* ::
 
 
-The Department of Housing Preservation and Development has promulgated the following as a complete list of violations, currently classified as rent impairing under Multiple Dwelling Law, § 302-a. The list contains a brief description of the conditions constituting the violations, the section of the Multiple Dwelling Law or Housing Maintenance Code violated and the order number now assigned thereto by the Department of Rent and Housing Maintenance.
+The Department of Housing Preservation and Development has promulgated the following as a complete list of violations, currently classified as rent impairing under Multiple Dwelling Law, § 302-a. The list contains a brief description of the conditions constituting the violations, the section of the Multiple Dwelling Law or Housing Maintenance Code violated and the order number now assigned thereto by the Department of Rent and Housing Maintenance. 
 
  
 
@@ -12551,9 +12501,19 @@ The Department of Housing Preservation and Development has promulgated the follo
 .. list-table::
     :header-rows: 1
 
-    * - Order No. 
+    * - Order No.
       - Description 
-      - Section of Multiple Dwelling Law or Housing Maintenance Code 
+      - Section of Multiple Dwelling Law orHousing Maintenance Code
+~
+
+
+
+
+
+
+.. list-table::
+    :header-rows: 1
+
     * - 51 
       - Discontinue the storage of combustible materials
       - § 12, M.D. Law 
@@ -12649,7 +12609,7 @@ The Department of Housing Preservation and Development has promulgated the follo
       - §§ 27-2005, 27-2007 
     * - 551 
       - Cleanse and disinfect to the satisfaction of this department after removing the sewage, etc.
-      - §§ 27-2010, 27-2011, § 27-2012 
+      - §§ 27-2010, 27-2011, 27-2012 
     * - 567 
       - Abate the nuisance consisting of rodents
       - § 27-2018 
@@ -13002,17 +12962,17 @@ Governmental Tenant. "Governmental Tenant" shall mean a tenant who is a Communit
 
 Qualified Not-For-Profit Organization. "Qualified Not-For-Profit Organization" shall mean an organization:
 
-   (1) that has tax exempt status under § 501(c)(3) of the Internal Revenue Code, the New York State Non-For-Profit Corporation Law, or local laws governing real estate tax exemption eligibility; and
+(1) that has tax exempt status under § 501(c)(3) of the Internal Revenue Code, the New York State Non-For-Profit Corporation Law, or local laws governing real estate tax exemption eligibility; and
 
-   (2) that is in good standing with all governmental funding and oversight agencies; and
+(2) that is in good standing with all governmental funding and oversight agencies; and
 
-   (3) whose activities provide a service to a substantial segment of the public at large, at nominal cost, and not for the exclusive use of members of the organization; and
+(3) whose activities provide a service to a substantial segment of the public at large, at nominal cost, and not for the exclusive use of members of the organization; and
 
-   (4) whose membership in the organization, and access to its services are not restricted by unrelated or discriminatory criteria, including but not limited to race, sex, ethnicity, political affiliation or sexual orientation; and
+(4) whose membership in the organization, and access to its services are not restricted by unrelated or discriminatory criteria, including but not limited to race, sex, ethnicity, political affiliation or sexual orientation; and
 
-   (5) that provides on-going programs which fully utilize the city property for non-profit purposes; and
+(5) that provides on-going programs which fully utilize the city property for non-profit purposes; and
 
-   (6) that utilizes the property for non-profit purposes exclusively, without subleasing to for-profit uses.
+(6) that utilizes the property for non-profit purposes exclusively, without subleasing to for-profit uses.
 
 Rules. "Rules" shall mean these rules.
 
@@ -13116,7 +13076,7 @@ The Commercial Rent Restructuring Committee shall determine the fair market rent
 *§ 26-10 Reconsideration of Rent During Phase-In Period.* ::
 
 
-Where a tenant has received a rent increase eligible for a phase-in under § 26-08, the Commercial Rent Restructuring Committee may not review such rent again until the phase-in provided for under 28 RCNY § 26-08 has been completed or five years have elapsed since the commencement of a phase-in.
+Where a tenant has received a rent increase eligible for a phase-in under 28 RCNY § 26-08, the Commercial Rent Restructuring Committee may not review such rent again until the phase-in provided for under 28 RCNY § 26-08 has been completed or five years have elapsed since the commencement of a phase-in.
 
 
 
@@ -13126,7 +13086,7 @@ Where a tenant has received a rent increase eligible for a phase-in under § 26-
 *§ 26-11 Termination of Phase-In.* ::
 
 
-If there is a sale of the business occupying a commercial unit, or a termination of the tenancy, any previously determined phase-in under 28 RCNY § 26-08 or § 26-09 shall terminate immediately and the rent for the unit shall be the fair market rent as determined by HPD's staff, or by auction.
+If there is a sale of the business occupying a commercial unit, or a termination of the tenancy, any previously determined phase-in under 28 RCNY § 26-08 or 28 RCNY § 26-09 shall terminate immediately and the rent for the unit shall be the fair market rent as determined by HPD's staff, or by auction.
 
 
 
@@ -13208,13 +13168,13 @@ Table IMinimum Tensile Energy Absorption – Extensible
 .. list-table::
     :header-rows: 1
 
-    * - 
+    * -  
       - Dry
       - Wet
     * - Cross Direction of Paper (Single-ply or Multi-ply)
-      -   9.3 ft. lb./sq. ft. 
+      - 9.3 ft. lb./sq. ft. 
       - 2.7 ft.lb./sq. ft. 
-    * - Cross Direction Plus Machine Direction of Paper (Single-ply or Multi-ply)
+    * - Cross Direction Plus Machine Direction of Paper(Single-ply or Multi-ply)
       - 30.8 ft. lb./sq. ft. 
       - Not specified 
 ~
@@ -13231,13 +13191,13 @@ Table IIMinimum Tensile Breaking Strengths – Non-Extensible
 .. list-table::
     :header-rows: 1
 
-    * - 
+    * -  
       - Dry
       - Wet
     * - Cross Direction of Paper (Single-ply or Multi-ply)
       - 34.0 lbs./in. width 
       - 9.0 lbs./in. width 
-    * - Cross Direction Plus Machine Direction of Paper (Single-ply or Multi-ply)
+    * - Cross Direction Plus Machine Direction of Paper(Single-ply or Multi-ply)
       - 95.0 lbs./in. width 
       - Not specified 
 ~
@@ -13353,7 +13313,7 @@ Each bag and retail package of bags shall be prominently marked with the words, 
 
 
 
-*§ 27-05 Requirements for Employment of Bags and Containers Meeting Specifications Set Out in §§ 27-02, 27-03 and 27-04.* ::
+*§ 27-05 Requirements for Employment of Bags and Containers Meeting Specifications Set Out in 28 RCNY §§ 27-02, 27-03 and 27-04.* ::
 
 
 (a) Bags and containers which meet the specifications approved under this order:
@@ -13466,63 +13426,63 @@ Chapter 28: Tax Syndication Sharing Program Rules
 
 (a) Definitions.
 
-Action. "Action" shall mean the Agency's selection of a community group, approval of a project, or execution of an EDA.
+   Action. "Action" shall mean the Agency's selection of a community group, approval of a project, or execution of an EDA.
 
-Agency. "Agency" shall mean the city's Department of Housing Preservation and Development and any successor agency, or its designee.
+   Agency. "Agency" shall mean the city's Department of Housing Preservation and Development and any successor agency, or its designee.
 
-Agreements. "Agreements" shall mean escrow agreements, syndication agreements, NSA syndication agreements and any other agreements through which developers are obligated to provide syndication funds.
+   Agreements. "Agreements" shall mean escrow agreements, syndication agreements, NSA syndication agreements and any other agreements through which developers are obligated to provide syndication funds.
 
-Applicant. "Applicant" shall mean any entity applying for designation as a community group.
+   Applicant. "Applicant" shall mean any entity applying for designation as a community group.
 
-CAPA. "CAPA" shall mean the City Administrative Procedure Act set forth in §§ 1041 et seq. of the city charter, as amended from time to time.
+   CAPA. "CAPA" shall mean the City Administrative Procedure Act set forth in §§ 1041 et seq. of the city charter, as amended from time to time.
 
-City. "City" shall mean city of New York.
+   City. "City" shall mean city of New York.
 
-Commissioner. "Commissioner" shall mean the commissioner of the agency or his or her designee.
+   Commissioner. "Commissioner" shall mean the commissioner of the agency or his or her designee.
 
-Community Group. "Community Group" shall mean a locally-based not-for-profit corporation formed pursuant to the not-for-profit corporation law of the State of New York which has been selected by the agency to receive syndication funds to perform a project.
+   Community Group. "Community Group" shall mean a locally-based not-for-profit corporation formed pursuant to the not-for-profit corporation law of the State of New York which has been selected by the agency to receive syndication funds to perform a project.
 
-Comptroller. "Comptroller" shall mean the comptroller of the city.
+   Comptroller. "Comptroller" shall mean the comptroller of the city.
 
-Developer. "Developer" shall mean the business entity which received certain tax benefits as general partner of the business entity which developed a development.
+   Developer. "Developer" shall mean the business entity which received certain tax benefits as general partner of the business entity which developed a development.
 
-Development. "Development" shall mean a housing development in New York City funded pursuant to § 8 of the United States Housing Act of 1937 (42 U.S.C. § 1437f) and rules promulgated pursuant thereto by the United States Department of Housing and Urban Development.
+   Development. "Development" shall mean a housing development in New York City funded pursuant to § 8 of the United States Housing Act of 1937 (42 U.S.C. § 1437f) and rules promulgated pursuant thereto by the United States Department of Housing and Urban Development.
 
-EDA. "EDA" shall mean an escrow disbursement agreement by which syndication funds are distributed to a community group in order to fund eligible improvements as approved by the agency.
+   EDA. "EDA" shall mean an escrow disbursement agreement by which syndication funds are distributed to a community group in order to fund eligible improvements as approved by the agency.
 
-Eligible Activities. "Eligible Activities" shall mean those improvements or services approved by the agency to be performed by community groups with syndication funds, as set forth more fully in the scope of work of the EDA for each such project.
+   Eligible Activities. "Eligible Activities" shall mean those improvements or services approved by the agency to be performed by community groups with syndication funds, as set forth more fully in the scope of work of the EDA for each such project.
 
-Encumbered Funds. "Encumbered funds" shall mean syndication funds which have been appropriated or otherwise set aside to be used for a project pursuant to a currently valid and binding EDA.
+   Encumbered Funds. "Encumbered funds" shall mean syndication funds which have been appropriated or otherwise set aside to be used for a project pursuant to a currently valid and binding EDA.
 
-EO Clearance. "EO clearance" shall mean that (i) the community group and, if required by the agency, its principals (and, where the agency deems such additional review to be appropriate, the contractors retained by such community group and all of their respective principals) have completed, executed, and submitted the required forms to and attended any required meetings with the agency's office of equal opportunity, and (ii) the agency's office of equal opportunity, after review of such information and any other available information, has made no finding of noncompliance with the applicable laws regarding equal opportunity, labor compensation, locally based enterprises, and other matters monitored by the agency's office of equal opportunity.
+   EO Clearance. "EO clearance" shall mean that (i) the community group and, if required by the agency, its principals (and, where the agency deems such additional review to be appropriate, the contractors retained by such community group and all of their respective principals) have completed, executed, and submitted the required forms to and attended any required meetings with the agency's office of equal opportunity, and (ii) the agency's office of equal opportunity, after review of such information and any other available information, has made no finding of noncompliance with the applicable laws regarding equal opportunity, labor compensation, locally based enterprises, and other matters monitored by the agency's office of equal opportunity.
 
-Escrow Account. "Escrow account" shall mean one or more escrow accounts administered by the city to retain the syndication funds until distribution.
+   Escrow Account. "Escrow account" shall mean one or more escrow accounts administered by the city to retain the syndication funds until distribution.
 
-Escrow Agreement. "Escrow agreement" shall mean an instrument by which some developers were required to provide syndication funds.
+   Escrow Agreement. "Escrow agreement" shall mean an instrument by which some developers were required to provide syndication funds.
 
-Guidelines. "Guidelines" shall mean the § 8 syndication sharing program guidelines governing the program, which were approved by the city's board of estimate on September 19, 1985 (Cal. No. 644) and thereafter annually renewed until 1990. These rules replace and supersede the guidelines, which expired by their own terms on December 31, 1990.
+   Guidelines. "Guidelines" shall mean the § 8 syndication sharing program guidelines governing the program, which were approved by the city's board of estimate on September 19, 1985 (Cal. No. 644) and thereafter annually renewed until 1990. These rules replace and supersede the guidelines, which expired by their own terms on December 31, 1990.
 
-IG Clearance. "IG clearance" shall mean that (i) the community group and, if required by the agency, its principals (and, where the agency deems such additional review to be appropriate, the contractors retained by such community group and all of their respective principals) have completed, executed, and submitted the required forms to and attended any required meetings with the agency and/or the department of investigation's office of the inspector general, and (ii)the agency and/or the department of investigation's office of the inspector general, after review of such information and any other available information, has made no findings of derogatory information, which indicates that the city should not do business with the community group, or if applicable, its contractors.
+   IG Clearance. "IG clearance" shall mean that (i) the community group and, if required by the agency, its principals (and, where the agency deems such additional review to be appropriate, the contractors retained by such community group and all of their respective principals) have completed, executed, and submitted the required forms to and attended any required meetings with the agency and/or the department of investigation's office of the inspector general, and (ii)the agency and/or the department of investigation's office of the inspector general, after review of such information and any other available information, has made no findings of derogatory information, which indicates that the city should not do business with the community group, or if applicable, its contractors.
 
-Laws. "Laws" shall mean any applicable laws, ordinances, orders, rules, and regulations promulgated by any local, state, or federal authority having jurisdiction over the subject matter thereof, as amended from time to time.
+   Laws. "Laws" shall mean any applicable laws, ordinances, orders, rules, and regulations promulgated by any local, state, or federal authority having jurisdiction over the subject matter thereof, as amended from time to time.
 
-NSA Syndication Agreement. "NSA syndication agreement" shall mean an instrument by which some developers were required to provide syndication funds.
+   NSA Syndication Agreement. "NSA syndication agreement" shall mean an instrument by which some developers were required to provide syndication funds.
 
-Program. "Program" shall mean the tax syndication sharing program governed by these rules.
+   Program. "Program" shall mean the tax syndication sharing program governed by these rules.
 
-Project. "Project" shall mean the activities set forth in the scope of work of an EDA which are to be undertaken by a community group using syndication funds.
+   Project. "Project" shall mean the activities set forth in the scope of work of an EDA which are to be undertaken by a community group using syndication funds.
 
-Public Hearing. "Public hearing" shall mean a meeting convened by the agency in accordance with § 28-06(c) at which interested persons shall be afforded the opportunity to comment upon the community group(s), project(s), and EDA(s) which are the subject of one or more actions proposed by the agency. A public hearing shall be held only if the agency determines, based upon the written comments received by it in accordance with § 28-06(b) that further consideration of the proposed action(s) is required.
+   Public Hearing. "Public hearing" shall mean a meeting convened by the agency in accordance with 28 RCNY § 28-06(c) at which interested persons shall be afforded the opportunity to comment upon the community group(s), project(s), and EDA(s) which are the subject of one or more actions proposed by the agency. A public hearing shall be held only if the agency determines, based upon the written comments received by it in accordance with 28 RCNY § 28-06(b) that further consideration of the proposed action(s) is required.
 
-RFP. "RFP" shall mean a request for proposals.
+   RFP. "RFP" shall mean a request for proposals.
 
-Rules. "Rules" shall mean these rules, which replace and supersede the guidelines.
+   Rules. "Rules" shall mean these rules, which replace and supersede the guidelines.
 
-Syndication Agreement. "Syndication agreement" shall mean an instrument by which some developers were required to provide syndication funds.
+   Syndication Agreement. "Syndication agreement" shall mean an instrument by which some developers were required to provide syndication funds.
 
-Syndication Funds. "Syndication funds" shall mean the funds which the agreements required developers to provide from either (i) shares of the proceeds of the sale or syndication of the developments, or (ii) any equivalent amounts (where developers elected to retain rather than sell or syndicate development equity).
+   Syndication Funds. "Syndication funds" shall mean the funds which the agreements required developers to provide from either (i) shares of the proceeds of the sale or syndication of the developments, or (ii) any equivalent amounts (where developers elected to retain rather than sell or syndicate development equity).
 
-Unencumbered Funds. "Unencumbered funds" shall mean syndication funds in an escrow account which have not been appropriated or otherwise set aside to be used for a project pursuant to a currently valid and binding EDA, including, but not limited to, funds which never were the subject of an EDA and funds which were the subject of an EDA which has been terminated.
+   Unencumbered Funds. "Unencumbered funds" shall mean syndication funds in an escrow account which have not been appropriated or otherwise set aside to be used for a project pursuant to a currently valid and binding EDA, including, but not limited to, funds which never were the subject of an EDA and funds which were the subject of an EDA which has been terminated.
 
 (b) Program. Under the program, the city administers the syndication funds paid into the escrow account by developers pursuant to syndication agreements and disburses such syndication funds to groups for projects pursuant to these rules.
 
@@ -13796,7 +13756,7 @@ Unencumbered Funds. "Unencumbered funds" shall mean syndication funds in an escr
 
       (vi) other costs directly related to the performance of the project.
 
-   (3) Other approved use. The agency may approve any other use of syndication funds which is consistent with these rules, even though such use is not listed in 28 RCNY § 28-05(c)(1) or 28 RCNY § 28-05(c)(2).
+   (3) Other approved use. The agency may approve any other use of syndication funds which is consistent with these rules, even though such use is not listed in 28 RCNY § 28-05(c)(1) or (c)(2).
 
 
 
@@ -14132,7 +14092,7 @@ HPD may select a Sponsor for a Project by any method which it determines will be
 
 (e) Notice of Project Commencement. No sooner than ninety (90) days after the notice of Final Selection, HPD shall notify the Tenants of a Building that the Project has commenced, unless the Tenants have applied for another HPD disposition program that accepts applications from Tenants within such time period. If the Tenants have applied for another HPD disposition program that accepts applications from Tenants within such time period and have been rejected from such program, then, immediately after the later of such rejection or ninety (90) days after the notice of Final Selection, HPD shall notify such Tenants that the Project has commenced.
 
-(f) Notice of Intake Rent. Either at the time of the notice of Project Commencement or thereafter, HPD shall notify each Tenant of the Intake Rent and the date it becomes effective, which effective date shall be not less than thirty (30) days after the date of the notice of Intake Rent, and shall, in accordance with 28 RCNY § 30-09 of these Rules, provide information on rental assistance which may be available to Tenants and the procedures to apply for such assistance.
+(f) Notice of Intake Rent. Either at the time of the notice of Project Commencement or thereafter, HPD shall notify each Tenant of the Intake Rent and the date it becomes effective, which effective date shall be not less than thirty (30) days after the date of the notice of Intake Rent, and shall, in accordance with 28 RCNY § 30-09, provide information on rental assistance which may be available to Tenants and the procedures to apply for such assistance.
 
 
 
@@ -14166,7 +14126,7 @@ HPD may select a Sponsor for a Project by any method which it determines will be
 
    (2) advise each Tenant of the expected rental increase to result from the Rehabilitation which will take effect after Substantial Completion (i.e., the Post-Rehabilitation Rent);
 
-   (3) provide information on rental assistance which may be available to the Tenant and the procedures to apply for such assistance in accordance with 28 RCNY § 30-09 of these Rules;
+   (3) provide information on rental assistance which may be available to the Tenant and the procedures to apply for such assistance in accordance with 28 RCNY § 30-09;
 
    (4) apprise each Tenant of such Tenant's right to submit written comments; and
 
@@ -14178,7 +14138,7 @@ HPD may select a Sponsor for a Project by any method which it determines will be
 
 (g) Increase in Projected Post-Rehabilitation Rents. If the Post-Rehabilitation Rents established by HPD pursuant to subdivision (c) of this section reflect the Building's expenses, and HPD determines that its projection of maintenance and operating costs must be increased based on unforeseen changes in the circumstances and factors which formed the basis of the original projection, including, but not limited to, unexpected increases in fuel or utility costs, HPD shall notify Tenants of the amount of the expected rent increase over and above the Post-Rehabilitation Rent set forth in the pre-Disposition notice sent pursuant to subdivision (d) of this section.
 
-(h) Notice of Substantial Completion. Following Substantial Completion, HPD shall send a notice to each Tenant that the Rehabilitation is substantially complete and that the Tenant's rent will be increased to the Post-Rehabilitation Rent in not less than sixty (60) days. Such notice shall state that the Tenant has an opportunity to comment regarding the quality of Rehabilitation. Such notice shall also include the amount of the Post-Rehabilitation Rent, its effective date, and provide information on rental assistance which may be available to the Tenant and the procedures to apply for such assistance in accordance with 28 RCNY § 30-09 of these Rules. Prior to the establishment of Post-Rehabilitation Rents, HPD shall give due consideration to Tenant comments regarding the quality of the Rehabilitation.
+(h) Notice of Substantial Completion. Following Substantial Completion, HPD shall send a notice to each Tenant that the Rehabilitation is substantially complete and that the Tenant's rent will be increased to the Post-Rehabilitation Rent in not less than sixty (60) days. Such notice shall state that the Tenant has an opportunity to comment regarding the quality of Rehabilitation. Such notice shall also include the amount of the Post-Rehabilitation Rent, its effective date, and provide information on rental assistance which may be available to the Tenant and the procedures to apply for such assistance in accordance with 28 RCNY § 30-09. Prior to the establishment of Post-Rehabilitation Rents, HPD shall give due consideration to Tenant comments regarding the quality of the Rehabilitation.
 
 (i) Implementation and Registration of Post-Rehabilitation Rents. Not less than sixty (60) days after the sending of the notice of Substantial Completion pursuant to subdivision (h) of this section, HPD shall complete and sign a rent order, and shall mail such order to the Tenant with a copy to the Sponsor. The rent set forth on each rent order shall be the Post-Rehabilitation Rent for such apartment as was determined in accordance with subdivision (c) of this section and as set forth in the pre-Disposition notice or as adjusted pursuant to subdivision (g) of this section. If an apartment is vacant at the time of establishment of rents, the rent order shall be mailed to the Sponsor. Immediately upon receipt of the rent order or a copy thereof, the Sponsor shall register the Post-Rehabilitation Rent for each Tenant in the Building with DHCR.
 
@@ -14196,9 +14156,9 @@ HPD may select a Sponsor for a Project by any method which it determines will be
 
 (b) Tenant selection policy. Lessee shall rent vacant apartments only to low and/or moderate income Tenants as defined by HPD and in accordance with HPD guidelines. HPD may also, in the public interest, require that other persons, determined by HPD to be in need of housing, receive priority in the renting of apartments. HPD may require that rentals be pre-approved by HPD, that specified lists of eligible persons be used, or may direct any other Tenant selection method be used.
 
-(c) Successor Tenants. Persons claiming to be successor Tenants, if any, prior to a unit entering rent stabilization, are subject to the rules set forth in Chapter 24 of Title 28 of the Rules of the City of New York.
+(c) Successor Tenants. Persons claiming to be successor Tenants, if any, prior to a unit entering rent stabilization, are subject to the rules set forth in 28 RCNY Chapter 24.
 
-(d) Interim Payment Agreement. HPD may require the Lessee to enter into one or more Interim Payment Agreements in accordance with 28 RCNY § 30-09 of these Rules.
+(d) Interim Payment Agreement. HPD may require the Lessee to enter into one or more Interim Payment Agreements in accordance with 28 RCNY § 30-09.
 
 (e) Limitation on Collection of Arrears. At such time as a Tenant is one month or more in arrears on the payment of rent to Lessee, Lessee may commence a proceeding for such rent arrears and/or for possession of the apartment. Lessee may not sue for arrears which accrued more than three (3) months prior to the commencement of the lease for the Building.
 
@@ -14295,59 +14255,59 @@ Chapter 31: Tax Exemptions Under Section 420-c of the Real Property Tax Law
 
 (b) Definitions.
 
-Aggregate Floor Area. "Aggregate Floor Area" shall mean the sum of the gross areas of the several floors of a building, measured from the exterior faces of exterior walls or from the center lines of walls separating two buildings.
+   Aggregate Floor Area. "Aggregate Floor Area" shall mean the sum of the gross areas of the several floors of a building, measured from the exterior faces of exterior walls or from the center lines of walls separating two buildings.
 
-Allocation Document. "Allocation Document" shall mean a document issued by the Housing Credit Agency with respect to Real Property indicating either (i) that such Real Property has received a determination of credit eligibility, (ii) that such Real Property has received a binding reservation for tax credits or (iii) that such Real Property has been allocated tax credits pursuant to § 42 of the Code.
+   Allocation Document. "Allocation Document" shall mean a document issued by the Housing Credit Agency with respect to Real Property indicating either (i) that such Real Property has received a determination of credit eligibility, (ii) that such Real Property has received a binding reservation for tax credits or (iii) that such Real Property has been allocated tax credits pursuant to § 42 of the Code.
 
-Application Date. "Application Date" shall mean the date of submission to the Office of a completed application (including all required documentation), as determined by the office for benefits under 28 RCNY §§ 31-01 through 31-06.
+   Application Date. "Application Date" shall mean the date of submission to the Office of a completed application (including all required documentation), as determined by the office for benefits under 28 RCNY §§ 31-01 through 31-06.
 
-Certificate of Eligibility. "Certificate of Eligibility" shall mean the certificate issued by the Office pursuant to 28 RCNY § 31-04(d) of these Rules.
+   Certificate of Eligibility. "Certificate of Eligibility" shall mean the certificate issued by the Office pursuant to 28 RCNY § 31-04(d).
 
-City. "City" shall mean the City of New York.
+   City. "City" shall mean the City of New York.
 
-Code. "Code" shall mean the United States Internal Revenue Code of 1986, as amended.
+   Code. "Code" shall mean the United States Internal Revenue Code of 1986, as amended.
 
-Commissioner. "Commissioner" shall mean the commissioner of the Department of Housing Preservation and Development or the commissioner of any successor agency or department thereto or her or his designee.
+   Commissioner. "Commissioner" shall mean the commissioner of the Department of Housing Preservation and Development or the commissioner of any successor agency or department thereto or her or his designee.
 
-Controlling Interest. "Controlling Interest" shall mean: (i) in the case of a corporation, direct or indirect ownership of a majority of shares of each class of voting stock in such corporation, and (ii) in the case of a partnership, a majority ownership in each general partner in such partnership.
+   Controlling Interest. "Controlling Interest" shall mean: (i) in the case of a corporation, direct or indirect ownership of a majority of shares of each class of voting stock in such corporation, and (ii) in the case of a partnership, a majority ownership in each general partner in such partnership.
 
-Department. "Department" shall mean the Department of Housing Preservation and Development of the City or any successor agency.
+   Department. "Department" shall mean the Department of Housing Preservation and Development of the City or any successor agency.
 
-Department of Finance. "Department of Finance" shall mean the Department of Finance of the City or any successor agency or department thereto.
+   Department of Finance. "Department of Finance" shall mean the Department of Finance of the City or any successor agency or department thereto.
 
-Eligible Property. "Eligible Property" shall mean Real Property containing Housing Accommodations and conforming to the criteria listed in 28 RCNY § 31-02(a) of these rules. Real property not containing Housing Accommodations is not Eligible Property. If a portion of Real Property is not Eligible Property, tax exemption shall be apportioned in accordance with 28 RCNY § 31-03(b). Eligible Property shall be exempt if a Regulatory Agreement with the City or the State or the Housing Trust Fund Corporation is in effect and contemplates construction or rehabilitation of such property for use for housing for persons of low income by a date certain.
+   Eligible Property. "Eligible Property" shall mean Real Property containing Housing Accommodations and conforming to the criteria listed in 28 RCNY § 31-02(a). Real property not containing Housing Accommodations is not Eligible Property. If a portion of Real Property is not Eligible Property, tax exemption shall be apportioned in accordance with 28 RCNY § 31-03(b). Eligible Property shall be exempt if a Regulatory Agreement with the City or the State or the Housing Trust Fund Corporation is in effect and contemplates construction or rehabilitation of such property for use for housing for persons of low income by a date certain.
 
-Housing Development Fund Company or HDFC. "Housing Development Fund Company or HDFC" shall mean a corporation organized pursuant to Article XI of the Private Housing Finance Law and incorporated pursuant to § 402 of the Not-For-Profit Corporation Law.
+   Housing Development Fund Company or HDFC. "Housing Development Fund Company or HDFC" shall mean a corporation organized pursuant to Article XI of the Private Housing Finance Law and incorporated pursuant to § 402 of the Not-For-Profit Corporation Law.
 
-Housing Accommodations. "Housing Accommodations" shall mean Real Property used for (i) residential purposes including dwelling units, common sanitary and cooking and dining facilities, common recreation areas including outdoor recreation areas and public areas such as cellars, basements, public halls and stairs and roofs; (ii) ancillary residential purposes including management, administrative and social service offices and facilities used to provide social services (including Job Training) primarily for Persons or Families of Low Income residing in such Housing Accommodations; or (iii) for projects with an Initial Filing Date on or after July 1, 2004 and before the effective date of the rule adding 28 RCNY §§ 31-07 through 31-12 of this chapter, community facility uses that (A) provide services to individuals who reside in the area, (B) limit any fees charged for such community facility uses to fees that are affordable to individuals whose household incomes do not exceed sixty percent (60%) of the area median income adjusted for family size, and (C) are located on the same Real Property as the dwelling units that constitute such Housing Accommodations. Notwithstanding the foregoing, any portion of the combined floor area of such ancillary residential purposes and/or community facility uses which exceeds twenty-five percent (25%) of the Aggregate Floor Area of the Real Property shall not qualify as Housing Accommodations.
+   Housing Accommodations. "Housing Accommodations" shall mean Real Property used for (i) residential purposes including dwelling units, common sanitary and cooking and dining facilities, common recreation areas including outdoor recreation areas and public areas such as cellars, basements, public halls and stairs and roofs; (ii) ancillary residential purposes including management, administrative and social service offices and facilities used to provide social services (including Job Training) primarily for Persons or Families of Low Income residing in such Housing Accommodations; or (iii) for projects with an Initial Filing Date on or after July 1, 2004 and before the effective date of the rule adding 28 RCNY §§ 31-07 through 31-12, community facility uses that (A) provide services to individuals who reside in the area, (B) limit any fees charged for such community facility uses to fees that are affordable to individuals whose household incomes do not exceed sixty percent (60%) of the area median income adjusted for family size, and (C) are located on the same Real Property as the dwelling units that constitute such Housing Accommodations. Notwithstanding the foregoing, any portion of the combined floor area of such ancillary residential purposes and/or community facility uses which exceeds twenty-five percent (25%) of the Aggregate Floor Area of the Real Property shall not qualify as Housing Accommodations.
 
-Housing Corporation. "Housing Corporation" shall mean a non-profit housing corporation as defined in Article XI of the Private Housing Finance Law which is not incorporated as an HDFC as defined in such Article XI.
+   Housing Corporation. "Housing Corporation" shall mean a non-profit housing corporation as defined in Article XI of the Private Housing Finance Law which is not incorporated as an HDFC as defined in such Article XI.
 
-Housing Credit Agency. "Housing Credit Agency" shall mean the New York State Division of Housing and Community Renewal or the City's Department of Housing Preservation and Development or such other agency as shall be designated as a housing credit agency in the city by the State of New York under § 42 of the Code.
+   Housing Credit Agency. "Housing Credit Agency" shall mean the New York State Division of Housing and Community Renewal or the City's Department of Housing Preservation and Development or such other agency as shall be designated as a housing credit agency in the city by the State of New York under § 42 of the Code.
 
-Housing Trust Fund Corporation. "Housing Trust Fund Corporation" shall mean the corporation established pursuant to § 45-a of the Private Housing Finance Law.
+   Housing Trust Fund Corporation. "Housing Trust Fund Corporation" shall mean the corporation established pursuant to § 45-a of the Private Housing Finance Law.
 
-Initial Filing Date. "Initial Filing Date" shall mean the date an initial application is submitted to the Office.
+   Initial Filing Date. "Initial Filing Date" shall mean the date an initial application is submitted to the Office.
 
-Job Training. "Job Training" shall mean programs, services and commercial activities occurring within an Eligible Property in space occupied by a not-for-profit corporation. Such programs, services and commercial activities must be for the benefit primarily of Persons or Families of Low Income residing in the Housing Accommodations.
+   Job Training. "Job Training" shall mean programs, services and commercial activities occurring within an Eligible Property in space occupied by a not-for-profit corporation. Such programs, services and commercial activities must be for the benefit primarily of Persons or Families of Low Income residing in the Housing Accommodations.
 
-Loan "Loan" shall mean a loan for the acquisition and/or construction and/or rehabilitation and/or permanent financing of Housing Accommodations provided by the City, the State or the Housing Trust Fund Corporation.
+   Loan "Loan" shall mean a loan for the acquisition and/or construction and/or rehabilitation and/or permanent financing of Housing Accommodations provided by the City, the State or the Housing Trust Fund Corporation.
 
-Office. "Office" shall mean the Tax Incentive Programs Unit of the Department of Housing Preservation and Development or any successor thereto authorized to administer these rules.
+   Office. "Office" shall mean the Tax Incentive Programs Unit of the Department of Housing Preservation and Development or any successor thereto authorized to administer these rules.
 
-Participant. "Participant" shall mean an owner of Real Property that is the subject of an Allocation Document.
+   Participant. "Participant" shall mean an owner of Real Property that is the subject of an Allocation Document.
 
-Persons or Families of Low Income. "Persons or Families of Low Income" shall mean persons or families who are in low income groups and who cannot afford to pay enough to cause private enterprise in their municipality to build a sufficient supply of adequate, safe and sanitary dwellings as set forth in § 2 of the Private Housing Finance Law.
+   Persons or Families of Low Income. "Persons or Families of Low Income" shall mean persons or families who are in low income groups and who cannot afford to pay enough to cause private enterprise in their municipality to build a sufficient supply of adequate, safe and sanitary dwellings as set forth in § 2 of the Private Housing Finance Law.
 
-Qualified Owner. "Qualified Owner" shall mean an entity: (a) which is either (i) an HDFC, or (ii) a Housing Corporation, or (iii) is a wholly owned subsidiary of such a company or corporation, or (iv) a limited partnership in which the Controlling Interest is held by (A) an HDFC or Housing Corporation or (B) a wholly owned subsidiary of an HDFC or Housing Corporation, or (v) a corporation sponsored or formed by such an HDFC company or Housing Corporation and (b) in which no officer, director, shareholder, member, partner or employee shall receive any pecuniary profit, income or other distributions from the Eligible Property except (i) low income housing tax credits and non-cash tax benefits available pursuant to the Code and (ii) reasonable compensation for services rendered and (c) which is a participant in the federal low income housing tax credit program pursuant to § 42 of the Code and has not defaulted in its obligations thereunder. An example of a qualified owner is a limited partnership in which the Controlling Interest is held by: (a) an HDFC or Housing Corporation or (b) a wholly owned subsidiary of an HDFC or Housing Corporation. Housing Corporations are only eligible if in existence on the effective date of chapter 647 of the Laws of 1994 .
+   Qualified Owner. "Qualified Owner" shall mean an entity: (a) which is either (i) an HDFC, or (ii) a Housing Corporation, or (iii) is a wholly owned subsidiary of such a company or corporation, or (iv) a limited partnership in which the Controlling Interest is held by (A) an HDFC or Housing Corporation or (B) a wholly owned subsidiary of an HDFC or Housing Corporation, or (v) a corporation sponsored or formed by such an HDFC company or Housing Corporation and (b) in which no officer, director, shareholder, member, partner or employee shall receive any pecuniary profit, income or other distributions from the Eligible Property except (i) low income housing tax credits and non-cash tax benefits available pursuant to the Code and (ii) reasonable compensation for services rendered and (c) which is a participant in the federal low income housing tax credit program pursuant to § 42 of the Code and has not defaulted in its obligations thereunder. An example of a qualified owner is a limited partnership in which the Controlling Interest is held by: (a) an HDFC or Housing Corporation or (b) a wholly owned subsidiary of an HDFC or Housing Corporation. Housing Corporations are only eligible if in existence on the effective date of chapter 647 of the Laws of 1994 .
 
-Real Property. "Real Property" shall mean the land, buildings and other improvements subject to taxation pursuant to § 102 of the Real Property Tax Law which are the subject of an application under 28 RCNY § 31-04 of these Rules.
+   Real Property. "Real Property" shall mean the land, buildings and other improvements subject to taxation pursuant to § 102 of the Real Property Tax Law which are the subject of an application under 28 RCNY § 31-04.
 
-Regulatory Agreement. "Regulatory Agreement" shall mean an agreement with the City, the State or the Housing Trust Fund Corporation (i) restricting the use of Real Property to Housing Accommodations for Persons or Families of Low Income and (ii) imposing the rental and occupancy restrictions established by § 42 of the Code on at least seventy percent (70%) of the dwelling units in such Real Property. Such agreement may be contained in the mortgage securing the Loan or may be a separate agreement recorded of record against the Real Property.
+   Regulatory Agreement. "Regulatory Agreement" shall mean an agreement with the City, the State or the Housing Trust Fund Corporation (i) restricting the use of Real Property to Housing Accommodations for Persons or Families of Low Income and (ii) imposing the rental and occupancy restrictions established by § 42 of the Code on at least seventy percent (70%) of the dwelling units in such Real Property. Such agreement may be contained in the mortgage securing the Loan or may be a separate agreement recorded of record against the Real Property.
 
-Rules. "Rules" shall mean 28 RCNY §§ 31-01 through 31-06.
+   Rules. "Rules" shall mean 28 RCNY §§ 31-01 through 31-06.
 
-State. "State" shall mean the State of New York.
+   State. "State" shall mean the State of New York.
 
 
 
@@ -14497,7 +14457,7 @@ Allocation Document. "Allocation Document" shall mean a document issued by the H
 
 Application Date. "Application Date" shall mean the date of submission to the Office of a completed application (including all required documentation), as determined by the Office, for benefits under 28 RCNY §§ 31-07 through 31-12.
 
-Certificate of Eligibility. "Certificate of Eligibility" shall mean the certificate issued by the Office pursuant to 28 RCNY § 31-10(d) of these Rules.
+Certificate of Eligibility. "Certificate of Eligibility" shall mean the certificate issued by the Office pursuant to 28 RCNY § 31-10(d).
 
 Charitable Organization. "Charitable Organization" shall mean (i) an entity formed for purposes that include providing Housing Accommodations for Persons and Families of Low Income and that has received written recognition of exemption pursuant to section 501(c)(3) or section 501(c)(4) of the Code, from the United States Internal Revenue Service, or any successor agency, or (ii) a corporation, partnership or limited liability company wholly owned and wholly controlled by an entity formed for purposes that include providing Housing Accommodations for Persons and Families of Low Income and that has received written recognition of exemption pursuant to section 501(c)(3) or section 501(c)(4) of the Code, from the United States Internal Revenue Service, or any successor agency.
 
@@ -14527,7 +14487,7 @@ Office. "Office" shall mean the Tax Incentive Programs Unit of HPD or any succes
 
 Persons and Families of Low Income. "Persons and Families of Low Income" shall mean persons or families who are in low income groups and who cannot afford to pay enough to cause private enterprise in their municipality to build a sufficient supply of adequate, safe and sanitary dwellings as set forth in § 2 of the Private Housing Finance Law.
 
-Real Property. "Real Property" shall mean the land, buildings and other improvements subject to taxation pursuant to § 102 of the Real Property Tax Law which are the subject of an application under 28 RCNY § 31-10 of these Rules.
+Real Property. "Real Property" shall mean the land, buildings and other improvements subject to taxation pursuant to § 102 of the Real Property Tax Law which are the subject of an application under 28 RCNY § 31-10.
 
 Regulatory Agreement. "Regulatory Agreement" shall mean a regulatory agreement with or approved by the City that requires the provision of Housing Accommodations for Persons and Families of Low Income; requires units currently or formerly assisted under the Tax Credit Program be rented in accordance with the income requirements of the Tax Credit Program; imposes the income and occupancy restrictions established by the Tax Credit Program on at least seventy percent (70%) of the dwelling units in such Eligible Real Property; provides that any of the dwelling units in such Eligible Real Property that are not subject to the income and occupancy restrictions established by the Tax Credit Program must be rented, upon vacancy, to persons and families whose incomes do not exceed one hundred sixty-five percent (165%) of area median income; and is recorded against the Eligible Real Property and binds all parties in interest to the Eligible Real Property and their respective successors and assigns. A regulatory agreement may include such other terms and conditions as the City shall determine, including, but not limited to, provisions requiring payments in lieu of taxes.
 
@@ -14637,11 +14597,13 @@ Tax exemption is not available for portions of Real Property not used for Housin
 *§ 31-11 Tax Exemption: Effective Date, Duration and Amount.* ::
 
 
-(a) Effective date of exemption. Tax exemption under 28 RCNY §§ 31-07 through 31-12 of this chapter shall commence on the latter of: (i) the date of acquisition of the Eligible Real Property by the Eligible Owner or, (ii) the effective date of a Regulatory Agreement, or (iii) the date of issuance of an Allocation Document, except as follows:
+(a) Effective date of exemption. Tax exemption under 28 RCNY §§ 31-07 through 31-12
+										
+									 shall commence on the latter of: (i) the date of acquisition of the Eligible Real Property by the Eligible Owner or, (ii) the effective date of a Regulatory Agreement, or (iii) the date of issuance of an Allocation Document, except as follows:
 
    (1) Where Eligible Real Property acquired after January 5 was exempt from Real Property taxation on the date of such transfer, the property shall remain exempt for the balance of the tax year in progress and for the next full tax year.
 
-   (2) Where dwelling units in the Real Property were formerly assisted under the Tax Credit Program and the Eligible Owner has agreed to continue to rent such units in accordance with the income and other requirements of the Tax Credit Program, the tax exemption under 28 RCNY §§ 3-07 through 3-12 of this chapter shall commence on the latter of: (i) the date of acquisition of the Eligible Real Property by the Eligible Owner or, (ii) the effective date of a Regulatory Agreement in which such Eligible Owner has agreed to continue to subject the dwelling units in such Real Property to the restrictions of the Tax Credit Program.
+   (2) Where dwelling units in the Real Property were formerly assisted under the Tax Credit Program and the Eligible Owner has agreed to continue to rent such units in accordance with the income and other requirements of the Tax Credit Program, the tax exemption under 28 RCNY §§ 3-07 through 3-12 shall commence on the latter of: (i) the date of acquisition of the Eligible Real Property by the Eligible Owner or, (ii) the effective date of a Regulatory Agreement in which such Eligible Owner has agreed to continue to subject the dwelling units in such Real Property to the restrictions of the Tax Credit Program.
 
 (b) Duration of exemption. The exemption shall expire upon the expiration or termination of the Regulatory Agreement but in no event shall exceed sixty years.
 
@@ -14804,7 +14766,7 @@ Zoning Resolution. "Zoning Resolution" shall mean the Zoning Resolution of the C
 
       (ii) Proof of completion of partial conversion within three years shall be submitted with an application for a Certificate of Eligibility for full exemption and abatement benefits pursuant to the Act.
 
-      (iii) Only the Aggregate Floor Area for which conversion is completed within the five-year period specified in 28 RCNY § 32-03(c)(2)(i) of these Rules or, in the case of partial exemption from or partial abatement of real property taxes, the three-year period specified in 28 RCNY § 32-04(b)(3) of these Rules, shall be considered in calculating the exemption and abatement provided pursuant to the Act, provided, however, that neither partial exemption from nor partial abatement of real property taxes shall be available for Commercial, Community Facility or Accessory Use Space.
+      (iii) Only the Aggregate Floor Area for which conversion is completed within the five-year period specified in 28 RCNY § 32-03(c)(2)(i) or, in the case of partial exemption from or partial abatement of real property taxes, the three-year period specified in 28 RCNY § 32-04(b)(3), shall be considered in calculating the exemption and abatement provided pursuant to the Act, provided, however, that neither partial exemption from nor partial abatement of real property taxes shall be available for Commercial, Community Facility or Accessory Use Space.
 
 (d) Calculating Aggregate Floor Area.
 
@@ -14814,7 +14776,7 @@ Zoning Resolution. "Zoning Resolution" shall mean the Zoning Resolution of the C
 
    (3) Commercial Reduction of Benefits:
 
-      (i) If the Aggregate Floor Area of Commercial, Community Facility and Accessory Use Space exceeds twelve per cent (12%) of the Aggregate Floor Area of any building (Eligible Multiple Dwelling) receiving benefits pursuant to the Act, the benefits provided pursuant to the Act shall be equal to the amount provided by 28 RCNY § 32-04(b)(1) and 28 RCNY § 32-04(b)(2) of these Rules, reduced by a percentage equal to the difference between the per centum of the Aggregate Floor Area that is Commercial, Community Facility and Accessory Use Space and twelve per cent (12%).
+      (i) If the Aggregate Floor Area of Commercial, Community Facility and Accessory Use Space exceeds twelve per cent (12%) of the Aggregate Floor Area of any building (Eligible Multiple Dwelling) receiving benefits pursuant to the Act, the benefits provided pursuant to the Act shall be equal to the amount provided by 28 RCNY § 32-04(b)(1) and (b)(2), reduced by a percentage equal to the difference between the per centum of the Aggregate Floor Area that is Commercial, Community Facility and Accessory Use Space and twelve per cent (12%).
 
       (ii) If the Aggregate Floor Area of such building (Eligible Multiple Dwelling) contains more than twenty-five per cent (25%) of Commercial, Community Facility and Accessory Use Space no benefits shall be available pursuant to the Act.
 
@@ -14856,9 +14818,9 @@ Zoning Resolution. "Zoning Resolution" shall mean the Zoning Resolution of the C
 
    (2) Duration of Abatement.
 
-      (i) Eligible Multiple Dwellings not designated as a Landmark prior to Completion of Conversion: in addition to the benefits set forth in 28 RCNY § 32-04(b)(1)(i) of these Rules, a tax lot containing an Eligible Multiple Dwelling that is the subject of a Certificate of Eligibility issued pursuant to the Act shall receive an abatement of real property taxes for a period not to exceed fourteen consecutive years beginning in the tax year immediately following the issuance of a Certificate of Eligibility, so long as such Eligible Multiple Dwelling is used or held out for use for dwelling purposes, except as otherwise provided herein. During the first year, the abatement shall be equal to the amount of the real property tax that would have been due but for such abatement, provided, however, that if the tax lot, during the first year of such abatement, was fully or partially exempt from real property taxes, other than pursuant to the exemption authorized by the Act, then the abatement shall equal the amount of real property tax that would have been due but for such full or partial exemption. During the second through tenth years, the abatement shall equal one hundred per cent (100%) of such amount; during the eleventh year, the abatement shall equal eighty per cent (80%) of such amount; during the twelfth year, the abatement shall equal sixty per cent (60%) of such amount; during the thirteenth year, the abatement shall equal forty per cent (40%) of such amount, and during the fourteenth year, the abatement shall equal twenty per cent (20%) of such amount.
+      (i) Eligible Multiple Dwellings not designated as a Landmark prior to Completion of Conversion: in addition to the benefits set forth in 28 RCNY § 32-04(b)(1)(i), a tax lot containing an Eligible Multiple Dwelling that is the subject of a Certificate of Eligibility issued pursuant to the Act shall receive an abatement of real property taxes for a period not to exceed fourteen consecutive years beginning in the tax year immediately following the issuance of a Certificate of Eligibility, so long as such Eligible Multiple Dwelling is used or held out for use for dwelling purposes, except as otherwise provided herein. During the first year, the abatement shall be equal to the amount of the real property tax that would have been due but for such abatement, provided, however, that if the tax lot, during the first year of such abatement, was fully or partially exempt from real property taxes, other than pursuant to the exemption authorized by the Act, then the abatement shall equal the amount of real property tax that would have been due but for such full or partial exemption. During the second through tenth years, the abatement shall equal one hundred per cent (100%) of such amount; during the eleventh year, the abatement shall equal eighty per cent (80%) of such amount; during the twelfth year, the abatement shall equal sixty per cent (60%) of such amount; during the thirteenth year, the abatement shall equal forty per cent (40%) of such amount, and during the fourteenth year, the abatement shall equal twenty per cent (20%) of such amount.
 
-      (ii) Eligible Multiple Dwellings designated a Landmark prior to Completion of Conversion: in addition to the benefits set forth in 28 RCNY § 32-04(b)(1)(ii) of these Rules, a tax lot containing an Eligible Multiple Dwelling that is the subject of a Certificate of Eligibility issued pursuant to the Act and that is in a building that, in accordance with procedures set forth in local law, was designated as a Landmark before Completion of Conversion shall receive an abatement of real property taxes for a period not to exceed fifteen consecutive years beginning in the tax year immediately following the issuance of a Certificate of Eligibility, so long as such Eligible Multiple Dwelling is used or held out for use for dwelling purposes, except as otherwise provided herein. During the first year, the abatement shall be equal to the amount of the real property tax that would have been due but for such abatement, provided, however, that if the tax lot, during the first year of such abatement, was fully or partially exempt from real property taxes, other than pursuant to the exemption authorized by the Act, then the abatement shall equal the amount of the real property tax that would have been due but for such full or partial exemption. During the second through eleventh years, the abatement shall equal one hundred per cent (100%) of such amount; during the twelfth year, the abatement shall equal eighty per cent (80%) of such amount; during the thirteenth year, the abatement shall equal sixty per cent (60%) of such amount; during the fourteenth year, the abatement shall equal forty per cent (40%) of such amount, and during the fifteenth year, the abatement shall equal twenty per cent (20%) of such amount. The following table shall illustrate the computation of the exemption and abatement pursuant to this subsection:
+      (ii) Eligible Multiple Dwellings designated a Landmark prior to Completion of Conversion: in addition to the benefits set forth in 28 RCNY § 32-04(b)(1)(ii), a tax lot containing an Eligible Multiple Dwelling that is the subject of a Certificate of Eligibility issued pursuant to the Act and that is in a building that, in accordance with procedures set forth in local law, was designated as a Landmark before Completion of Conversion shall receive an abatement of real property taxes for a period not to exceed fifteen consecutive years beginning in the tax year immediately following the issuance of a Certificate of Eligibility, so long as such Eligible Multiple Dwelling is used or held out for use for dwelling purposes, except as otherwise provided herein. During the first year, the abatement shall be equal to the amount of the real property tax that would have been due but for such abatement, provided, however, that if the tax lot, during the first year of such abatement, was fully or partially exempt from real property taxes, other than pursuant to the exemption authorized by the Act, then the abatement shall equal the amount of the real property tax that would have been due but for such full or partial exemption. During the second through eleventh years, the abatement shall equal one hundred per cent (100%) of such amount; during the twelfth year, the abatement shall equal eighty per cent (80%) of such amount; during the thirteenth year, the abatement shall equal sixty per cent (60%) of such amount; during the fourteenth year, the abatement shall equal forty per cent (40%) of such amount, and during the fifteenth year, the abatement shall equal twenty per cent (20%) of such amount. The following table shall illustrate the computation of the exemption and abatement pursuant to this subsection: 
 
  
 
@@ -14919,38 +14881,38 @@ Zoning Resolution. "Zoning Resolution" shall mean the Zoning Resolution of the C
     * -   9
       - 100%
       - 100%
-      -   80%
+      - 80%
       - 100%
     * - 10
-      -   80%
+      - 80%
       - 100%
-      -   60%
+      - 60%
       - 100%
     * - 11
-      -   60%
+      - 60%
       - 100%
-      -   40%
-      -   80%
+      - 40%
+      - 80%
     * - 12
-      -   40%
-      -   80%
-      -   20%
-      -   60%
+      - 40%
+      - 80%
+      - 20%
+      - 60%
     * - 13
-      -   20%
-      -   60%
-      -  0%
-      -   40%
+      - 20%
+      - 60%
+      - 0%
+      - 40%
     * - 14
-      -  0%
-      -   40%
-      -  0%
-      -   20%
+      - 0%
+      - 40%
+      - 0%
+      - 20%
     * - 15
-      -  0%
-      -   20%
-      -  0%
-      -  0%
+      - 0%
+      - 20%
+      - 0%
+      - 0%
 ~
 
  
@@ -14963,9 +14925,9 @@ Zoning Resolution. "Zoning Resolution" shall mean the Zoning Resolution of the C
 
          (B) partial abatement benefits shall be equal to the amount of the real property tax that would have been due during the first year of such partial abatement but for such partial abatement upon the amount of square feet of Aggregate Floor Area of the Non-Residential Building that has received a Temporary Certificate of Occupancy for conversion of at least fifty per cent (50%) of the Aggregate Floor Area of the Non-Residential Building, provided, however, that if the tax lot, during the first year of such partial abatement was fully or partially exempt from real property taxes, other than pursuant to the exemption authorized by the Act, then the partial abatement shall be equal to the amount of real property tax that would have been due upon such amount of square feet of Aggregate Floor Area of the Non-Residential Building but for such full or partial exemption. Nothing in this paragraph shall be deemed to require an Applicant to apply for partial exemption or abatement benefits pursuant to the Act, provided, however, that if an applicant applies for a Certificate of Eligibility for such benefits, he or she shall submit proof of completion of partial conversion with the application for such certificate.
 
-      (ii) The Benefit Period of the exemption and abatement benefits defined in 28 RCNY § 32-04(b) of these Rules shall begin upon receipt of any partial exemption from or partial abatement of real property taxes for a Non-Residential Building of 100,000 square feet or more of Aggregate Floor Area.
+      (ii) The Benefit Period of the exemption and abatement benefits defined in 28 RCNY § 32-04(b) shall begin upon receipt of any partial exemption from or partial abatement of real property taxes for a Non-Residential Building of 100,000 square feet or more of Aggregate Floor Area.
 
-   (4) Benefit Reduction for Non-Residential Space. If the Aggregate Floor Area of Commercial, Community Facility and Accessory Use Space exceeds twelve per cent (12%) of the Aggregate Floor Area of any building receiving benefits pursuant to the Act, the abatement and exemption benefit shall be reduced according to the procedure set forth in 28 RCNY § 32-03(d)(3) of these Rules.
+   (4) Benefit Reduction for Non-Residential Space. If the Aggregate Floor Area of Commercial, Community Facility and Accessory Use Space exceeds twelve per cent (12%) of the Aggregate Floor Area of any building receiving benefits pursuant to the Act, the abatement and exemption benefit shall be reduced according to the procedure set forth in 28 RCNY § 32-03(d)(3).
 
    (5) Benefits granted under the Act may not be combined with benefits under any other section of the Real Property Tax Law or any local law or any Rule promulgated thereunder for the same tax lot.
 
@@ -15420,7 +15382,7 @@ Chapter 33: Housing and Urban Renewal Projects and Programs
 
       (i) Completeness. The application must include all required forms, and such forms must be fully and properly completed and executed, at the time of submission. The Agency may reject an application if it determines that such requirements are not met.
 
-      (ii) Selection. The Agency may review and judge applications and select Sponsors by any method and upon any criteria permitted by Law or these Rules, including, but not limited to, the methods set forth in 28 RCNY § 33-03(b), § 33-03(c)(5), § 33-03(d)(5), § 33-03(e)(5), § 33-03(f)(5), § 33-03(g), § 33-03(h), and § 33-03(i).
+      (ii) Selection. The Agency may review and judge applications and select Sponsors by any method and upon any criteria permitted by Law or these Rules, including, but not limited to, the methods set forth in 28 RCNY § 33-03(b), (c)(5), (d)(5), (e)(5), (f)(5), (g), (h), and (i).
 
    (4) Limitations.
 
@@ -15530,7 +15492,7 @@ Chapter 33: Housing and Urban Renewal Projects and Programs
 *§ 33-08 Miscellaneous Provisions.* ::
 
 
-(a)  Termination. Notwithstanding any provision to the contrary in these Rules or in any document concerning any selection process, Project, or Program, the Agency may reject any Applicant or Selected Applicant and/or terminate any negotiations, selection process, Project, and/or Program at any time and for any reason, including, but not limited to, the reasons set forth in 28 RCNY § 33-08(a)(1), § 33-08(a)(2), § 33-08(a)(3), and § 33-08(a)(4), or without cause.
+(a)  Termination. Notwithstanding any provision to the contrary in these Rules or in any document concerning any selection process, Project, or Program, the Agency may reject any Applicant or Selected Applicant and/or terminate any negotiations, selection process, Project, and/or Program at any time and for any reason, including, but not limited to, the reasons set forth in 28 RCNY § 33-08(a)(1), (a)(2), (a)(3), and (a)(4), or without cause.
 
    (1) Adverse Findings. The Agency determines at any time that good and sufficient reasons exist why the City should not do business with an Applicant or Selected Applicant or should not allow such Applicant or Selected Applicant to act as Sponsor for a Project. Such reasons shall include, but shall not be limited to, evidence with respect to the Applicant or Selected Applicant or any member of its development team of (i) arson conviction or pending cases; (ii) harassment conviction or pending cases; (iii) arrears or default upon any debt, lease, contract, tax, lien, fee, charge, or obligation to the City; (iv) City mortgage or tax foreclosure proceedings or arrears; (v) unsuccessful record with comparable projects, including, but not limited to, poor workmanship, failure to complete a project expeditiously, substantial and significant building violations or litigation history against other properties, or unsuccessful record of managing residential real property; (vi) inability, due to lack of organizational capacity, competing demands from other projects, or any other factor, to perform all required Project Activities; (vii) bankruptcy or insolvency; (viii) violation of the conflict of interest provisions of the New York City Charter or any other applicable Laws; or (ix) failure to obtain IG Clearance, EO Clearance, or other necessary City clearances.
 
@@ -15597,7 +15559,7 @@ Program. "Program" shall mean the Tenant Interim Lease Program.
 
 Rehabilitation. "Rehabilitation" shall mean the installation, replacement, or repair of one or more systems or the correction of inadequate, unsafe, or unsanitary conditions in a Building.
 
-Selection. "Selection" shall mean notification to a Tenant Association, pursuant to 28 RCNY § 34-03(c) of these Rules, that HPD has approved a Building for the Program.
+Selection. "Selection" shall mean notification to a Tenant Association, pursuant to 28 RCNY § 34-03(c), that HPD has approved a Building for the Program.
 
 Rules. "Rules" shall mean the Rules set forth in this chapter.
 
@@ -15671,7 +15633,7 @@ Tenant Interim Lease. "Tenant Interim Lease" shall mean the written month-to-mon
 
    (3) set up a restricted bank account as required by HPD.
 
-(e) Execution of the Tenant Interim Lease. After HPD determines that the Tenant Association has complied with all of the requirements set forth in 28 RCNY § 34-03(d) of these Rules, the Tenant Association must sign the Tenant Interim Lease and implement the Intake Rent Increase set by HPD.
+(e) Execution of the Tenant Interim Lease. After HPD determines that the Tenant Association has complied with all of the requirements set forth in 28 RCNY § 34-03(d), the Tenant Association must sign the Tenant Interim Lease and implement the Intake Rent Increase set by HPD.
 
 (f) Intake Rent Increases.
 
@@ -15709,7 +15671,7 @@ Tenant Interim Lease. "Tenant Interim Lease" shall mean the written month-to-mon
 
 (e) Collection of arrears. At such time as a Tenant is two months or more in arrears on the payment of rent to the Tenant Association, the Tenant Association may commence a proceeding for such rent arrears and/or for possession of the dwelling unit.
 
-(f) Legal proceedings. The Tenant Association may not commence legal proceedings against Tenants without the prior written approval of HPD, except as specified in 28 RCNY § 34-04(e) of these Rules or in the Tenant Interim Lease. For non-residential tenants, legal proceedings may be commenced by the Tenant Association without prior written approval of HPD upon any default in the lease.
+(f) Legal proceedings. The Tenant Association may not commence legal proceedings against Tenants without the prior written approval of HPD, except as specified in 28 RCNY § 34-04(e) or in the Tenant Interim Lease. For non-residential tenants, legal proceedings may be commenced by the Tenant Association without prior written approval of HPD upon any default in the lease.
 
 (g) Tenant complaints. The Tenant Association will respond in a timely manner to all Tenant complaints.
 
@@ -15988,7 +15950,7 @@ HPD may select a Sponsor for a Project by any method which HPD determines will b
 
 (f) Notice of Project Commencement. No sooner than sixty (60) days after the Notice of Final Selection, HPD shall notify the Tenants of a Building that the Project has commenced, unless Tenants have applied for another HPD disposition program that accepts applications from Tenants within such time period. If the Tenants have applied for another HPD disposition program that accepts applications from Tenants within such time period and have been rejected from such program, then, immediately after the later of such rejection or sixty (60) days after the notice of Final Selection, HPD shall notify Tenants that the Project has commenced.
 
-(g) Notice of Intake Rent. Either at the time of the notice of Project Commencement or thereafter, HPD shall notify each Tenant of the Intake Rent and the date it becomes effective, which effective date shall be not less than thirty (30) days after the date of the notice of Intake Rent, and shall, in accordance with 28 RCNY § 35-10 of these Rules, provide information on rental assistance which may be available to Tenants and the procedures to apply for such assistance.
+(g) Notice of Intake Rent. Either at the time of the notice of Project Commencement or thereafter, HPD shall notify each Tenant of the Intake Rent and the date it becomes effective, which effective date shall be not less than thirty (30) days after the date of the notice of Intake Rent, and shall, in accordance with 28 RCNY § 35-10, provide information on rental assistance which may be available to Tenants and the procedures to apply for such assistance.
 
 
 
@@ -16020,7 +15982,7 @@ HPD may select a Sponsor for a Project by any method which HPD determines will b
 
    (1) inform each Tenant of the contemplated Rehabilitation which will be performed in the Project;
 
-   (2) advise each Tenant of the expected rental increase to result from the Rehabilitation that will take effect after Substantial Completion (i.e., the Post-Rehabilitation Rent); (3)  provide information on rental assistance which assistance that may be available to the Tenant and the procedures to apply for such assistance in accordance with 28 RCNY § 35-10 of these Rules;
+   (2) advise each Tenant of the expected rental increase to result from the Rehabilitation that will take effect after Substantial Completion (i.e., the Post-Rehabilitation Rent); (3)  provide information on rental assistance which assistance that may be available to the Tenant and the procedures to apply for such assistance in accordance with 28 RCNY § 35-10;
 
    (4) apprise each Tenant of such Tenant's right to submit written comments; and
 
@@ -16032,7 +15994,7 @@ HPD may select a Sponsor for a Project by any method which HPD determines will b
 
 (g) Increase in Projected Post-Rehabilitation Rents. If the Post-Rehabilitation Rents established by HPD pursuant to subdivision (c) of this section reflect the Building's expenses, and HPD determines that its projection of maintenance and operating costs must be increased based on unforeseen changes in the circumstances and factors which formed the basis of the original projection, including, but not limited to, unexpected increases in fuel or utility costs, HPD shall notify Tenants of the amount of the expected rent increase over and above the Post-Rehabilitation Rent set forth in the pre-Disposition notice sent pursuant to subdivision (d) of this section.
 
-(h) Notice of Substantial Completion. Following Substantial Completion, HPD shall send a notice to each Tenant that the Rehabilitation is substantially complete and that the Tenant's rent will be increased to the Post-Rehabilitation Rent in not less than sixty (60) days. Such notice shall state that the Tenant has an opportunity to comment regarding the quality of Rehabilitation. Such notice shall also include the amount of the Post-Rehabilitation Rent, its effective date, and provide information on rental assistance which may be available to the Tenant and the procedures to apply for such assistance in accordance with 28 RCNY § 35-10 of these Rules. Prior to the establishment of Post-Rehabilitation Rent, HPD shall give due consideration to Tenant comments regarding the quality of the Rehabilitation.
+(h) Notice of Substantial Completion. Following Substantial Completion, HPD shall send a notice to each Tenant that the Rehabilitation is substantially complete and that the Tenant's rent will be increased to the Post-Rehabilitation Rent in not less than sixty (60) days. Such notice shall state that the Tenant has an opportunity to comment regarding the quality of Rehabilitation. Such notice shall also include the amount of the Post-Rehabilitation Rent, its effective date, and provide information on rental assistance which may be available to the Tenant and the procedures to apply for such assistance in accordance with 28 RCNY § 35-10. Prior to the establishment of Post-Rehabilitation Rent, HPD shall give due consideration to Tenant comments regarding the quality of the Rehabilitation.
 
 (i) Implementation and Registration of Post-Rehabilitation Rents. Not less than sixty (60) days after the sending of the notice of Substantial Completion pursuant to subdivision (h) of this section, HPD shall complete and sign a rent order, and shall mail such order to the Tenant with a copy to the Sponsor. The rent set forth on each rent order shall be the Post-Rehabilitation Rent for such apartment as was determined in accordance with subdivision (c) of this section and as set forth in the pre-Disposition notice or as adjusted pursuant to subdivision (g) of this section. If an apartment is vacant at the time of establishment of rents, the rent order shall be mailed to the Sponsor. Immediately upon receipt of the rent order or a copy thereof, the Sponsor shall register the Post-Rehabilitation Rent for each Tenant in the Building with DHCR.
 
@@ -16050,15 +16012,15 @@ HPD may select a Sponsor for a Project by any method which HPD determines will b
 
 (b) Tenant Selection Policy. Sponsor shall rent vacant apartments only to low and/or moderate income Tenants as defined by HPD and in accordance with HPD guidelines. HPD may also, in the public interest, require that other persons, determined by HPD to be in need of housing, receive priority in the renting of apartments. HPD may require that rentals be pre-approved by HPD, that specified lists of eligible persons be used, or may direct any other Tenant selection method be used.
 
-(c) Successor Tenants. Persons claiming to be successor Tenants, if any, prior to a unit entering rent stabilization, are subject to the rules set forth in Chapter 24 of Title 28 of the Rules of the City of New York.
+(c) Successor Tenants. Persons claiming to be successor Tenants, if any, prior to a unit entering rent stabilization, are subject to the rules set forth in 28 RCNY Chapter 24.
 
-(d) Interim Payment Agreement. HPD may require the Sponsor to enter into one or more Interim Payment Agreements in accordance with 28 RCNY § 35-10 of these Rules.
+(d) Interim Payment Agreement. HPD may require the Sponsor to enter into one or more Interim Payment Agreements in accordance with 28 RCNY § 35-10.
 
 (e) Limitation on Collection of Arrears. At such time as a Tenant is one month or more in arrears on the payment of rent to Sponsor, Sponsor may commence a proceeding for such rent arrears and/or for possession of the apartment. Sponsor may not sue for arrears that accrued more than three (3) months prior to the commencement of the lease for the Building.
 
 (f) Vacancy Rents. Rents for vacant apartments shall be set by Sponsor, subject to HPD approval.
 
-(g) Commencement of Legal Proceedings. Sponsor may commence legal proceedings, including eviction proceedings for failure to pay rent in accordance with 28 RCNY § 21-23(c) of chapter 21 of this title, with the prior approval of HPD and the NPC.
+(g) Commencement of Legal Proceedings. Sponsor may commence legal proceedings, including eviction proceedings for failure to pay rent in accordance with 28 RCNY § 21-23(c), with the prior approval of HPD and the NPC.
 
 (h) Tenant Complaints.
 
@@ -16177,7 +16139,7 @@ For purposes of this chapter:
 
 (a) (1)  An owner or managing agent of a building that has been identified for participation in the Alternative Enforcement Program may submit an application for reinspection of such building for the purpose of dismissing corrected violations of the Housing Maintenance Code or Multiple Dwelling Law from the Department's records in order for the building to be discharged from such Program.
 
-   (2) Such application shall be submitted to the Department on the form approved by the Department for such purpose, and shall be accompanied by a certified check or money order, made payable to the New York City Commissioner of Finance in the amount specified in 28 RCNY § 36-03 of these rules. Such application shall be submitted either in person or by mail to the Alternative Enforcement Program Office.
+   (2) Such application shall be submitted to the Department on the form approved by the Department for such purpose, and shall be accompanied by a certified check or money order, made payable to the New York City Commissioner of Finance in the amount specified in 28 RCNY § 36-03. Such application shall be submitted either in person or by mail to the Alternative Enforcement Program Office.
 
    (3) Such application shall be submitted to the Department within four months of notification to the owner that such building has been identified for participation in the Alternative Enforcement Program, provided, however, that the Department may deny such application if it has altready implemented the provisions of subdivision k of § 27-2153 of the Housing Maintenance Code within such four-month period.
 
@@ -16293,11 +16255,9 @@ An owner or managing agent or other designated representative of a building whic
 
 (b) The Department may exclude from the Alternative Enforcement Program any building that previously participated in the program and was discharged within the prior three years as a result of work completed by the Department.
 
+
+
 Editor's note: the bracketed title of this section was added by the codifier for the convenience of the code user and is not an official part of this code.
-
-
-
- 
 
 
 
@@ -16370,9 +16330,9 @@ The amount of each fee authorized under this chapter shall be as follows:
 
 (b) Certificate of Incorporation Fee. HPD may charge a Certificate of Incorporation fee in the amount of two hundred and fifty dollars ($250).
 
-(c) Equal Employment Compliance Fee. HPD may charge an Equal Employment Compliance Fee in the amount of seven hundred dollars ($700) for each employment report it reviews for compliance, not to exceed one thousand four hundred dollars ($1,400) per project unless such project is exempt under subdivision b of 28 RCNY § 37-04 of these rules.
+(c) Equal Employment Compliance Fee. HPD may charge an Equal Employment Compliance Fee in the amount of seven hundred dollars ($700) for each employment report it reviews for compliance, not to exceed one thousand four hundred dollars ($1,400) per project unless such project is exempt under subdivision b of 28 RCNY § 37-04.
 
-(d) Labor and Prevailing Wage Compliance Fee. HPD may charge a Labor and Prevailing Wage Compliance Fee in the amount of thirty thousand dollars ($30,000) for each project it reviews for compliance unless such project is exempt under subdivision b of 28 RCNY § 37-04 of these rules.
+(d) Labor and Prevailing Wage Compliance Fee. HPD may charge a Labor and Prevailing Wage Compliance Fee in the amount of thirty thousand dollars ($30,000) for each project it reviews for compliance unless such project is exempt under subdivision b of 28 RCNY § 37-04.
 
 (e) License Agreement Fee. HPD may charge a License Agreement Fee in the amount of one hundred dollars ($100).
 
@@ -16451,11 +16411,11 @@ As used in this chapter, the following terms shall have the following meaning:
 *§ 38-02 [Actions, Transactions and Agreements for Providing Affordable Housing Which Constitute "Business Dealings with the City".]* ::
 
 
-(a)  Except as otherwise provided in the Act and 28 RCNY § 38-03 of these rules, actions, transactions and agreements for providing affordable housing shall constitute "business dealings with the city" for purposes of the Act where any such action, transaction or agreement involves:
+(a)  Except as otherwise provided in the Act and 28 RCNY § 38-03, actions, transactions and agreements for providing affordable housing shall constitute "business dealings with the city" for purposes of the Act where any such action, transaction or agreement involves:
 
    (1) the disposition of City-owned real property; or
 
-   (2) a loan or grant by HPD or HDC, except as otherwise provided in 28 RCNY § 38-03 of these rules; or
+   (2) a loan or grant by HPD or HDC, except as otherwise provided in 28 RCNY § 38-03; or
 
    (3) any Discretionary Tax Benefit; or
 
@@ -16483,7 +16443,7 @@ As used in this chapter, the following terms shall have the following meaning:
 
    (8) Notwithstanding anything to the contrary contained herein, for any proposed action or transaction that HPD determines will not be consummated or for any proposed agreement that HPD determines will not be executed, the end date shall be one year after the date upon which HPD notifies the Office of the Mayor of such determination.
 
-Editor's note: the bracketed title of this § 38-02 was added by the codifier for the convenience of the code user and is not an official part of this code.
+Editor's note: the bracketed title of this 28 RCNY § 38-02 was added by the codifier for the convenience of the code user and is not an official part of this code.
 
 
 
@@ -16515,7 +16475,7 @@ Editor's note: the bracketed title of this § 38-02 was added by the codifier fo
 
    (10) involves exemption or abatement of real property taxes pursuant to RPTL §§ 420-a, 420-c, 421-a, 421-b, 488-a, or 489; or
 
-   (11) involves a change in ownership of property that is the subject of an action, transaction or agreement for providing affordable housing and that constituted "business dealings with the city" pursuant to subdivision a of 28 RCNY § 38-02 of these rules; or
+   (11) involves a change in ownership of property that is the subject of an action, transaction or agreement for providing affordable housing and that constituted "business dealings with the city" pursuant to subdivision a of 28 RCNY § 38-02; or
 
    (12) involves an approval or consent granted pursuant to the provisions of an agreement with HPD, EDC or HDC providing for such approval or consent; or
 
@@ -16527,9 +16487,9 @@ Editor's note: the bracketed title of this § 38-02 was added by the codifier fo
 
    (16) is entered into by an individual or entity as a grantee or borrower of Community Development Block Grant Disaster Recovery funds in connection with the rehabilitation, construction, repair, or improvement of housing; or
 
-   (17) is not listed in § 38-02 of these rules.
+   (17) is not listed in 28 RCNY § 38-02.
 
-Editor's note: the bracketed title of this § 38-03 was added by the codifier for the convenience of the code user and is not an official part of this code.
+Editor's note: the bracketed title of this 28 RCNY § 38-03 was added by the codifier for the convenience of the code user and is not an official part of this code.
 
 
 
@@ -16578,7 +16538,7 @@ Expiration Date. "Expiration Date" shall mean the date upon which a Tax Benefit 
 
 Factual Issue. "Factual Issue" shall mean one or more issues of fact which, if resolved in favor of the Taxpayer, would require the conclusion that Cause for Revocation does not exist.
 
-Failure. "Failure" shall mean the failure to (i) keep, preserve or make available upon request by HPD any Records required to be kept and maintained pursuant to 28 RCNY § 39-06 herein or pursuant to any other provision of this title or any Law, (ii) appear before HPD at any time or place named in a summons, or (iii) give testimony under oath as may be relevant or material to HPD's inquiry relating to a Tax Benefit.
+Failure. "Failure" shall mean the failure to (i) keep, preserve or make available upon request by HPD any Records required to be kept and maintained pursuant to 28 RCNY § 39-06 or pursuant to any other provision of this title or any Law, (ii) appear before HPD at any time or place named in a summons, or (iii) give testimony under oath as may be relevant or material to HPD's inquiry relating to a Tax Benefit.
 
 Hearing. "Hearing" shall mean an administrative hearing regarding one or more Factual Issues to determine whether there is Cause to revoke a Tax Benefit, at which administrative hearing the Taxpayer may be represented by counsel and may present witnesses and other evidence.
 
@@ -16748,7 +16708,7 @@ Administering Agent Agreement. "Administering Agent Agreement" shall mean an agr
 
 Administering Agent Reserve Account. "Administering Agent Reserve Account" shall mean an account that is separate from a Building's reserve accounts and is held as determined by HPD, and which shall be used, with HPD approval, to pay the Building's Administering Agent for services rendered in accordance with the Program.
 
-Annual Household Income. "Annual Household Income" shall mean the total income as specified by HUD in 24 C.F.R. 5.609, including all net income from Assets with a cash value in excess of $5,000, to be received by the Household, from all sources for the twelve month period prior to the Income Qualification Date.
+Annual Household Income. "Annual Household Income" shall mean the total income as specified by HUD in 24 C.F.R. § 5.609, including all net income from Assets with a cash value in excess of $5,000, to be received by the Household, from all sources for the twelve month period prior to the Income Qualification Date.
 
 Application Deadline. "Application Deadline" shall mean the date by which HPD must receive an application to purchase a Homeownership Affordable Housing Unit.
 
@@ -16794,7 +16754,7 @@ Income Qualification Date. "Income Qualification Date" shall mean the date upon 
 
 Internal Transfer Preference. "Internal Transfer Preference" shall mean a priority to purchase a Homeownership Affordable Housing Unit which is provided to an Eligible Buyer who (i) already owns a Homeownership Affordable Housing Unit in the same Building or in the development containing such Building, and (ii) agrees to sell his or her existing Homeownership Affordable Housing Unit on or before the date upon which he or she acquires the new Homeownership Affordable Housing Unit.
 
-Minimum Quality Standards. "Minimum Quality Standards" shall mean livability standards that are in compliance with 24 C.F.R. 982.401 or any superseding regulations established by HUD.
+Minimum Quality Standards. "Minimum Quality Standards" shall mean livability standards that are in compliance with 24 C.F.R. § 982.401 or any superseding regulations established by HUD.
 
 Monthly Housing Costs. "Monthly Housing Costs" shall mean, for a Household, the sum of Monthly Fees, monthly utility allowances, Mortgage Payments and monthly property taxes, if applicable.
 
@@ -17232,7 +17192,7 @@ New Construction Homeownership Affordable Housing Units that are not purchased b
 *§ 41-21 Distribution of Affordable Housing Units.* ::
 
 
-Where there are insufficient rental and Homeownership New Construction Affordable Housing Units to distribute on not less than sixty-five (65%) of the Residential Stories, as specified Section 23-96 (b)(1) of the Zoning Resolution, New Construction Affordable Housing Units shall be distributed on as many Residential Stories as possible.
+Where there are insufficient rental and Homeownership New Construction Affordable Housing Units to distribute on not less than sixty-five (65%) of the Residential Stories, as specified Section 23-96(b)(1) of the Zoning Resolution, New Construction Affordable Housing Units shall be distributed on as many Residential Stories as possible.
 
 
 
@@ -17373,9 +17333,9 @@ As used in this chapter, the following terms will have the meanings set forth be
 
 "Garden Contact Person." An individual registered with GreenThumb as the primary representative of a Gardening Group.
 
-"Garden Review Process." The process set forth in section 42-05 of this chapter to be followed in connection with the Transfer of any Lot.
+"Garden Review Process." The process set forth in 28 RCNY § 42-05 to be followed in connection with the Transfer of any Lot.
 
-"Garden Review Statement." A written statement, prepared by HPD in accordance with 28 RCNY § 42-05(b)(4) of this chapter, describing a Lot, the existing Garden on such Lot, and the proposed Transfer of such Lot.
+"Garden Review Statement." A written statement, prepared by HPD in accordance with 28 RCNY § 42-05(b)(4), describing a Lot, the existing Garden on such Lot, and the proposed Transfer of such Lot.
 
 "Gardening Group." An organized group of individuals who maintain a Garden and are collectively represented by the Garden Contact Person. The Garden Contact Person shall by April 15 of each calendar year provide a list to GreenThumb of the names and contact information for all members of the Gardening Group.
 
@@ -17393,7 +17353,7 @@ As used in this chapter, the following terms will have the meanings set forth be
 
 "Retention Agreement." A written agreement between the City, acting by and through HPD or an Other Agency, and a Gardening Group, acting by and through its Garden Contact Person, providing for (i) the retention of part or all of a Garden as a community garden and/or open space as part of a project to be developed, or (ii) the relocation of the Garden to an alternate site. Gardens that are retained or relocated pursuant to a Retention Agreement remain subject to the GreenThumb Registration and License requirements and this chapter.
 
-"Registration." Written acknowledgment by GreenThumb that a Gardening Group has complied with the criteria set forth by DPR to demonstrate eligibility for a License pursuant to section 6-03 of chapter 6 of title 56 of the Rules of the City of New York.
+"Registration." Written acknowledgment by GreenThumb that a Gardening Group has complied with the criteria set forth by DPR to demonstrate eligibility for a License pursuant to 56 RCNY § 6-03.
 
 "Transfer." The conveyance of a Lot for the purpose of devoting such Lot to a use other than as a garden or open space.
 
@@ -17435,7 +17395,7 @@ This chapter establishes certain procedures with respect to the operation of Gar
 *§ 42-04 Lots Used as Gardens or as Open Space; Gardens not Deemed Mapped Parkland.* ::
 
 
-Except as provided in section 42-05 of this chapter, all Lots will be used as Gardens. Lots are not dedicated as, and will not be deemed to be dedicated as, parkland unless they have otherwise been mapped as parkland by the City.
+Except as provided in 28 RCNY § 42-05, all Lots will be used as Gardens. Lots are not dedicated as, and will not be deemed to be dedicated as, parkland unless they have otherwise been mapped as parkland by the City.
 
 
 
@@ -17457,7 +17417,7 @@ Except as provided in section 42-05 of this chapter, all Lots will be used as Ga
 
       b. The offer contained in the Alternate Site Notice will be deemed rejected, and the Garden Contact Person will have no further right to select a site from the Alternate Site List for relocation of the Garden if (i) HPD and GreenThumb do not receive, within 45 calendar days after the date of the Alternate Site Notice, written notice from the Garden Contact Person that the Gardening Group has selected a site from the Alternate Site List for relocation of the Garden, or (ii) HPD or GreenThumb receives written notice from the Garden Contact Person at any time that the Gardening Group will not select a site from the Alternate Site List for relocation of the Garden.
 
-      c. If the Alternate Site List states that there is no available City-owned vacant land within one-half mile of the Lot upon which the existing Garden is located, or within the community district in which such Lot is located if there is no City-owned vacant land within one half mile of the Lot, the provisions of 28 RCNY §§ 42-05(b)(2)(a) and 42-05(b)(2)(b) will not apply.
+      c. If the Alternate Site List states that there is no available City-owned vacant land within one-half mile of the Lot upon which the existing Garden is located, or within the community district in which such Lot is located if there is no City-owned vacant land within one half mile of the Lot, the provisions of 28 RCNY § 42-05(b)(2)(a) and (b)(2)(b) will not apply.
 
    (3) Any site on the Alternate Site List will be offered "as is," and a Gardening Group will be responsible for performing all necessary work on such lot. DPR will, upon request and contingent upon staff availability and resources, assist the Gardening Group with its relocation and gardening efforts at the alternate site. The City will offer the Gardening Group an opportunity to register with GreenThumb for the alternate site, and once registered, obtain a License.
 
@@ -17475,7 +17435,7 @@ Except as provided in section 42-05 of this chapter, all Lots will be used as Ga
 
       f. a description of any proposed Transfer of each affected Lot.
 
-      g. A description provided by the Gardening Group of any programs, activities and events in, and existing features of, the Garden. The above description, which shall be no more than four legal size pages in length, will be included in the Garden Review Statement if submitted to HPD before submission of any application for approval as set forth in 28 RCNY § 42-05(b)(6) of this chapter.
+      g. A description provided by the Gardening Group of any programs, activities and events in, and existing features of, the Garden. The above description, which shall be no more than four legal size pages in length, will be included in the Garden Review Statement if submitted to HPD before submission of any application for approval as set forth in 28 RCNY § 42-05(b)(6).
 
    (5) HPD will send a Garden Review Statement to the Garden Contact Person, the Alternate Garden Contact Person, the council member for the council district in which the Garden is located and the community board of the community district in which the Garden is located by written notice not less than 45 calendar days before any Transfer. The sending of such notice will constitute notice of the proposed Transfer.
 
@@ -17497,7 +17457,7 @@ Except as provided in section 42-05 of this chapter, all Lots will be used as Ga
 
    (1) Bronx: Block 2418; Lot 6; Block 2786; Lots 12, 13; Block 2867; Lot 128; Block 2979; Lot 1; Block 3540; Lots 1, 29, 40.
 
-   (2) Brooklyn: Block 1028; Lot 7; Block 1432; Lot 48; Block 1447; Lots 68-70; Block 1450; Lot 14; Block 1450; Lots 8, 11; Block 1476; Lot 34; Block 1484; Lots 6, 8; Block 1484; Lots 35, 41, 43; Block 1486; Lots 15, 16; Block 1663; Lot 82; Block 1664; Lot 40; Block 1755; Lots 54-57; Block 1792; Lots 22-25, 61; Block 3514; Lot 6; Block 3600; Lots 29, 31, 32, 34, 134; Block 3603; Lot 25; Block 3613; Lots 31-33; Block 3791; Lots 26, 28; Block 3841; Lot 32; Block 4000; Lot 3; Block 4009; Lot 47; Block 4015; Lots 22, 23; Block 4067; Lots 13, 14; Block 7050; Lot 74;
+   (2) Brooklyn: Block 1028; Lot 7; Block 1432; Lot 48; Block 1447; Lots 68 - 70; Block 1450; Lot 14; Block 1450; Lots 8, 11; Block 1476; Lot 34; Block 1484; Lots 6, 8; Block 1484; Lots 35, 41, 43; Block 1486; Lots 15, 16; Block 1663; Lot 82; Block 1664; Lot 40; Block 1755; Lots 54 - 57; Block 1792; Lots 22 - 25, 61; Block 3514; Lot 6; Block 3600; Lots 29, 31, 32, 34, 134; Block 3603; Lot 25; Block 3613; Lots 31 - 33; Block 3791; Lots 26, 28; Block 3841; Lot 32; Block 4000; Lot 3; Block 4009; Lot 47; Block 4015; Lots 22, 23; Block 4067; Lots 13, 14; Block 7050; Lot 74;
 
    (3) Queens: Block 16088; Lot 15.
 
@@ -17507,7 +17467,7 @@ Except as provided in section 42-05 of this chapter, all Lots will be used as Ga
 
 (c) After the execution of a Retention Agreement that provides for the retention of part or all of a Garden as a community garden as part of a project to be developed, the Transfer that is the subject of such Retention Agreement will no longer be subject to any of the requirements set forth in 28 RCNY § 42-05 of this chapter.
 
-(d) Except as set forth in 28 RCNY § 42-03(a) of this chapter, after the occurrence of an Uncured Default, the Lot that is the subject of such Uncured Default will no longer be subject to any of the requirements set forth in this chapter.
+(d) Except as set forth in 28 RCNY § 42-03(a), after the occurrence of an Uncured Default, the Lot that is the subject of such Uncured Default will no longer be subject to any of the requirements set forth in this chapter.
 
 
 
@@ -17578,11 +17538,11 @@ Chapter 43: [Notification By Mortgagee Commencing An Action To Recover Residenti
 *§ 43-02 [Discontinuing Mortgage Foreclosure Action; Notice.]* ::
 
 
-(a) Within fifteen days of discontinuance of a mortgage foreclosure action against residential real property in the city of New York for which notification of the mortgage foreclosure action was required pursuant to subdivision a of 28 RCNY § 43-01 of these rules, the mortgagee must provide notice to the Department of such discontinuance by electronic submission, if possible, or by regular mail, in a form prescribed by the Department. The form is available on the Department's website, at its offices at 100 Gold Street, New York, or by dialing 311 and requesting the form.
+(a) Within fifteen days of discontinuance of a mortgage foreclosure action against residential real property in the city of New York for which notification of the mortgage foreclosure action was required pursuant to subdivision a of 28 RCNY § 43-01, the mortgagee must provide notice to the Department of such discontinuance by electronic submission, if possible, or by regular mail, in a form prescribed by the Department. The form is available on the Department's website, at its offices at 100 Gold Street, New York, or by dialing 311 and requesting the form.
 
 (b) The notice to the Department provided pursuant to subdivision a of this section must include the following information:
 
-   (1) all of the information required under section 43-01 of this chapter if an initial notice of commencement of foreclosure was not provided to the Department; and
+   (1) all of the information required under 28 RCNY § 43-01 if an initial notice of commencement of foreclosure was not provided to the Department; and
 
    (2) the reason for the discontinuance of the action.
 
@@ -17594,11 +17554,11 @@ Chapter 43: [Notification By Mortgagee Commencing An Action To Recover Residenti
 *§ 43-03 [Judgment of Foreclosure; Notice.]* ::
 
 
-(a) Within fifteen days of entry of a judgment in a mortgage foreclosure action against residential real property in the city of New York for which notification of the mortgage foreclosure action was required pursuant to subdivision a of 28 RCNY § 43-01 of these rules, the mortgagee must provide notice to the Department of such entry of judgment by electronic submission, if possible, or by regular mail, in a form prescribed by the Department. The form is available on the Department's website, at its offices at 100 Gold Street, New York, or by dialing 311 and requesting the form.
+(a) Within fifteen days of entry of a judgment in a mortgage foreclosure action against residential real property in the city of New York for which notification of the mortgage foreclosure action was required pursuant to subdivision a of 28 RCNY § 43-01, the mortgagee must provide notice to the Department of such entry of judgment by electronic submission, if possible, or by regular mail, in a form prescribed by the Department. The form is available on the Department's website, at its offices at 100 Gold Street, New York, or by dialing 311 and requesting the form.
 
 (b) The notice to the Department provided pursuant to subdivision a of this section must include the following information:
 
-   (1) all of the information required under section 43-01 of this chapter if an initial notice of commencement of foreclosure was not provided to the Department; and
+   (1) all of the information required under 28 RCNY § 43-01 if an initial notice of commencement of foreclosure was not provided to the Department; and
 
    (2) a statement that the judgment of foreclosure has been entered and the date of entry of the judgment.
 
@@ -17610,7 +17570,7 @@ Chapter 43: [Notification By Mortgagee Commencing An Action To Recover Residenti
 *§ 43-04 [Closing of Sale; Notice.]* ::
 
 
-(a) Within fifteen days of closing of a sale with the referee pursuant to a judgment of foreclosure of residential real property in the city of New York for which notification of the mortgage foreclosure action was required pursuant to subdivision a of 28 RCNY § 43-01 of these rules, the mortgagee must provide notice to the Department of such closing of sale by electronic submission, if possible, or by regular mail, in a form prescribed by the Department. The form is available on the Department's website, at its offices at 100 Gold Street, New York, or by dialing 311 and requesting the form.
+(a) Within fifteen days of closing of a sale with the referee pursuant to a judgment of foreclosure of residential real property in the city of New York for which notification of the mortgage foreclosure action was required pursuant to subdivision a of 28 RCNY § 43-01, the mortgagee must provide notice to the Department of such closing of sale by electronic submission, if possible, or by regular mail, in a form prescribed by the Department. The form is available on the Department's website, at its offices at 100 Gold Street, New York, or by dialing 311 and requesting the form.
 
 (b) The notice provided to the Department pursuant to subdivision a of this section must include the following information:
 
@@ -17729,7 +17689,7 @@ As used in this chapter, the following terms have the following meaning:
 
    (4) HPD selected a building for participation in the Alternative Enforcement Program pursuant to New York City Administrative Code § 27-2153 during the four- or six-month period for compliance with the Underlying Conditions order; or
 
-   (5) The order was issued to a building that is otherwise excluded from such issuance pursuant to 28 RCNY § 44-02(b) of this chapter.
+   (5) The order was issued to a building that is otherwise excluded from such issuance pursuant to 28 RCNY § 44-02(b).
 
 
 
@@ -17833,7 +17793,7 @@ Chapter 47: Rules Pertaining to Recurring Violations and Complaint-Based Inspect
 
 
 
-*§ 47-01* ::
+*§ 47-01 [Recurring Violations and Complaint-Based Inspections.]* ::
 
 
 A complaint-based inspection shall not be subject to the complaint-based inspection fee and shall not be included in the total number of such inspections within a twelve-month period that qualifies a dwelling unit for the complaint-based inspection fee authorized by Administrative Code § 27-2115(f)(8) where such inspection results exclusively in the issuance of an immediately hazardous or hazardous violation for only one or more of the following conditions:
@@ -17857,7 +17817,7 @@ A complaint-based inspection shall not be subject to the complaint-based inspect
 
 
 
-*§ 47-02* ::
+*§ 47-02 [Objections.]* ::
 
 
 An owner may object, pursuant to Administrative Code § 27-2129, to the imposition of the complaint-based inspection fee authorized by Administrative Code § 27-2115(f)(8). An owner may object on the basis that he or she has attempted and failed to gain access to make repairs to the dwelling unit that is the subject of this fee. Such objection shall be made pursuant to article eight of subchapter five of chapter two of title 27 of the Administrative Code, and the rules promulgated thereunder in 28 RCNY Chapter 17.
@@ -17872,7 +17832,7 @@ Chapter 48: Elevator Violation Referrals
 
 
 
-*§ 48-01* ::
+*§ 48-01 [Elevator Violation Referrals.]* ::
 
 
 Upon referral to the Department by the Department of Buildings of an immediately hazardous elevator violation in a multiple dwelling which has not been corrected by the owner at the time of such referral, the Department will attempt to evaluate such violation based upon information provided to it by the Department of Buildings and from any other source, to determine what action may be taken by the Department. Such determination may be based upon the following criteria:
@@ -17898,7 +17858,7 @@ Upon referral to the Department by the Department of Buildings of an immediately
 
 
 
-*§ 48-02* ::
+*§ 48-02 [Department Actions.]* ::
 
 
 The Department may take such actions as it determines are necessary to address the referred immediately hazardous elevator violation, including, but not limited to, ordering the owner to correct such referred violation, performing the work to correct such referred violation, and taking enforcement action against the owner of the multiple dwelling that is the subject of such referred violation.
@@ -17942,11 +17902,11 @@ Marketing Monitor. "Marketing Monitor" means an organization approved by the Age
 
 Monitoring Contract. "Monitoring Contract" means a contract between the applicant and the Marketing Monitor in form and substance approved by the Agency. Such Monitoring Contract shall, at a minimum:
 
-(i) require the fee owner to provide monthly rent rolls to the Marketing Monitor and to notify the Marketing Monitor no more than seven business days after an Affordable Housing Unit becomes vacant;
+   (i) require the fee owner to provide monthly rent rolls to the Marketing Monitor and to notify the Marketing Monitor no more than seven business days after an Affordable Housing Unit becomes vacant;
 
-(ii) require the Marketing Monitor to ensure that any Affordable Housing Unit which becomes vacant during the Extended Afford ability Period (a) is not held off the market for a period that is longer than is reasonably necessary to perform needed repairs, (b) is promptly marketed pursuant to such requirements as are established by the Agency, (c) is rented to a household identified on the log established pursuant to Housing Connect , or where applicable, on an HFA or HDC waiting list, that meets the applicable income and occupancy requirements for such Affordable Housing Unit and that has been approved by the Agency prior to execution of a lease, (d) is not offered to or rented by a corporation, partnership or other entity, and (e) is offered for occupancy pursuant to a rent stabilized lease for a term of one or two years, at the option of the tenant; and
+   (ii) require the Marketing Monitor to ensure that any Affordable Housing Unit which becomes vacant during the Extended Afford ability Period (a) is not held off the market for a period that is longer than is reasonably necessary to perform needed repairs, (b) is promptly marketed pursuant to such requirements as are established by the Agency, (c) is rented to a household identified on the log established pursuant to Housing Connect , or where applicable, on an HFA or HDC waiting list, that meets the applicable income and occupancy requirements for such Affordable Housing Unit and that has been approved by the Agency prior to execution of a lease, (d) is not offered to or rented by a corporation, partnership or other entity, and (e) is offered for occupancy pursuant to a rent stabilized lease for a term of one or two years, at the option of the tenant; and
 
-(iii) require the Marketing Monitor to submit quarterly rent rolls for all Affordable Housing Units in the Extended Affordability Property to the Agency.
+   (iii) require the Marketing Monitor to submit quarterly rent rolls for all Affordable Housing Units in the Extended Affordability Property to the Agency.
 
 Permitted Rent. "Permitted Rent" means a rent that does not exceed, for any lease or renewal thereof at any time during the Extended Affordability Period, the lesser of (i) thirty percent of the applicable Area Median Income minus the amount of any applicable Utility Allowance, provided, however, that solely for purposes of establishing the initial rent for each Affordable Housing One Hundred Thirty Percent Unit, the Area Median Income in effect as of the date of filing of a notice of intent to begin marketing with the Agency shall be utilized, or (ii) the Legal Rent.
 
@@ -18049,19 +18009,17 @@ Benefits. "Benefits" shall mean real property tax exemption benefits pursuant to
 
 Comptroller. "Comptroller" shall mean the comptroller of the city of New York or his or her designee.
 
-Comptroller Schedule. "Comptroller Schedule" shall mean the annual Labor Law Section 230 Prevailing Wage Schedules for Building Service Employees that are in effect at the time the relevant Building Service Employee performs the work and that are published at www.comptroller.nyc.gov/prevailingwage.
+Comptroller Schedule. "Comptroller Schedule" shall mean the annual Labor Law Section 230 Prevailing Wage Schedules for Building Service Employees that are in effect at the time the relevant Building Service Employee performs the work and that are published at    www.comptroller.nyc.gov/prevailingwage.
 
 Construction Benefits. "Construction Benefits" shall mean Benefits for the period before issuance of either a permanent certificate of occupancy for the entire building or a temporary certificate of occupancy for all of the residential areas contained therein.
 
 Extended Affordability Act. “Extended Affordability Act” shall mean paragraph (g) of Subdivision 17 of Section 421-a of the Real Property Tax Law.
 
-Final Certificate of Eligibility. "Final Certificate of Eligibility" shall mean either (a) the document issued by the Agency in accordance with Chapter 6 of this title that provides for Post-Construction Benefits, or (b) the document issued by the Agency in accordance with Chapter 51 of this title that provides for Affordable New York Housing Program Benefits.
+Final Certificate of Eligibility. "Final Certificate of Eligibility" shall mean either (a) the document issued by the Agency in accordance with 28 RCNY Chapter 6 that provides for Post-Construction Benefits, or (b) the document issued by the Agency in accordance with 28 RCNY Chapter 51 that provides for Affordable New York Housing Program Benefits.
 
 Minimum Average Hourly Wage Act. “Minimum Average Hourly Wage Act” shall mean subdivision 16(c) of Section 421-a of the Real Property Tax Law.
 
-Mortgage Rate. "Mortgage Rate" shall mean the single family mortgage rate for a thirty-year fixed rate loan established by the Federal Home Loan Mortgage Association and the Federal National Mortgage Association plus 150 basis points that is either (a) for purposes of the application for a Preliminary Certificate of Eligibility, quoted for the month in which the construction of such multiple dwelling commences, or (b)* for purposes of the application for a Final Certificate of Eligibility, quoted for the month in which the first certificate of occupancy or temporary certificate of occupancy for the first unit in such multiple dwelling that is owned and operated as a condominium or cooperative development by individual condominium unit owners or shareholders, is issued.
-
-*Editor's note: original rule referenced "(2)"; revised at the discretion of the editor.
+Mortgage Rate. "Mortgage Rate" shall mean the single family mortgage rate for a thirty-year fixed rate loan established by the Federal Home Loan Mortgage Association and the Federal National Mortgage Association plus 150 basis points that is either (a) for purposes of the application for a Preliminary Certificate of Eligibility, quoted for the month in which the construction of such multiple dwelling commences, or (b) for purposes of the application for a Final Certificate of Eligibility, quoted for the month in which the first certificate of occupancy or temporary certificate of occupancy for the first unit in such multiple dwelling that is owned and operated as a condominium or cooperative development by individual condominium unit owners or shareholders, is issued.
 
 New 421-a Act. “New 421-a Act” shall mean paragraph (h) of subdivision 16 of Section 421-a of the Real Property Tax Law.
 
@@ -18252,11 +18210,11 @@ Marketing Monitor. "Marketing Monitor" means an organization approved by the Age
 
 Monitoring Contract. "Monitoring Contract" means a contract between the applicant and the Marketing Monitor that is approved in form and substance by the Agency and that:
 
-(i) requires the fee owner to provide monthly rent rolls for all Affordable Housing Units to the Marketing Monitor and to notify the Marketing Monitor no more than seven business days after an Affordable Housing Unit becomes vacant;
+   (i) requires the fee owner to provide monthly rent rolls for all Affordable Housing Units to the Marketing Monitor and to notify the Marketing Monitor no more than seven business days after an Affordable Housing Unit becomes vacant;
 
-(ii) requires the Marketing Monitor to ensure that any Affordable Housing Unit which becomes vacant during the Restriction Period or Extended Restriction Period, as applicable, (a) is not held off the market for a period that is longer than is reasonably necessary to perform needed repairs, (b) is promptly marketed pursuant to such requirements as are established by the Agency, (c) is rented to a household that meets the applicable income and occupancy requirements for such Affordable Housing Unit and that has been approved by the Agency prior to execution of a lease, (d) is not offered to or rented by a corporation, partnership or other entity, and (e) is offered for occupancy pursuant to a rent stabilized lease for a term of one or two years, at the option of the tenant; and
+   (ii) requires the Marketing Monitor to ensure that any Affordable Housing Unit which becomes vacant during the Restriction Period or Extended Restriction Period, as applicable, (a) is not held off the market for a period that is longer than is reasonably necessary to perform needed repairs, (b) is promptly marketed pursuant to such requirements as are established by the Agency, (c) is rented to a household that meets the applicable income and occupancy requirements for such Affordable Housing Unit and that has been approved by the Agency prior to execution of a lease, (d) is not offered to or rented by a corporation, partnership or other entity, and (e) is offered for occupancy pursuant to a rent stabilized lease for a term of one or two years, at the option of the tenant; and
 
-(iii) requires the Marketing Monitor to submit quarterly rent rolls for all Affordable Housing Units in the Eligible Multiple Dwelling to the Agency.
+   (iii) requires the Marketing Monitor to submit quarterly rent rolls for all Affordable Housing Units in the Eligible Multiple Dwelling to the Agency.
 
 Motel or Tourist Cabin. “Motel or Tourist Cabin” shall have the meaning set forth in Section 12-10 of the Zoning Resolution.
 
@@ -18401,6 +18359,431 @@ a. Whether a Rental Project or Homeownership Project has received benefits pursu
 b. Except with respect to dwelling units that will be rented through referrals from the City for homeless households who meet the applicable income requirements and other eligibility criteria permitted by the Agency's marketing guidelines, any Rental Project or Homeownership Project that previously applied to receive benefits pursuant to section hour hundred twenty-one-a of the real property tax law and thereafter elects to receive benefits pursuant to paragraph (r) of the Act, shall not be allowed to change the affordability designation of any dwelling units for which the Agency commenced processing households for occupancy on or before the date upon which such Rental Project or Homeownership Project makes such election.
 
 c. The Agency may waive the rule regarding the deadline by which to file a Notice of Intent if such waiver is appropriate based upon the Completion Date of any Rental Project that elects to receive Affordable New York Housing Program Benefits.
+
+
+
+
+
+
+Chapter 53: Pilot Program Buildings Certifications of No Harassment
+--------------------------------------------------
+
+
+
+*§ 53-01. Definitions.* ::
+
+
+For the purposes of this chapter, the following terms shall have the following meanings:
+
+Access Authorizer. The term "Access Authorizer" means the person who authorizes the Department or a person or entity designated by the Department to enter the Pilot Program Building for purposes of an investigation of an application for a Certification of No Harassment. The Access Authorizer shall be a natural person who either has legal possession of all common areas of the Pilot Program Building, or is authorized to sign on behalf of and bind the persons or entities who have legal possession of all common areas of the Pilot Program Building.
+
+Applicant. The term "Applicant" means the person who executes an application for a Certification of No Harassment, and shall be a natural person who is either: (1) an Owner, or (2) a principal or officer of an Owner who is authorized to sign on behalf of and bind such Owner.
+
+Building Qualification Index. The term "Building Qualification Index" means an index created by the Department in accordance with section 27-2093.1 of the Administrative Code to evaluate prospective Pilot Program Buildings for distress as set forth in 28 RCNY § 53-03.
+
+Certification of No Harassment. The term "Certification of No Harassment" means a certification by the Department that no harassment of any lawful occupants of a Pilot Program Building occurred during the 60 month period prior to the filing of an application for such certification.
+
+City-sponsored Neighborhood-wide Rezoning Area. The term "Citysponsored Neighborhood-wide Rezoning Area" means an area of the zoning map for which:
+
+   (1) amendments to the zoning regulations pertaining to such area were proposed by the City;
+
+   (2) the city planning commission approved or approved with modifications such amendments for a matter described in paragraph 3 of subdivision a of section 197-c of the charter;
+
+   (3) the city planning commission decision was approved or approved with modifications by the council pursuant to section 197-d of the charter and is not subject to further action pursuant to subdivision e or f of such section;
+
+   (4) the zoning map amendments increased the permitted residential floor area ratio within the rezoned area by at least 33 percent; and
+
+   (5) the amendments involved at least 10 blocks of real property in such area.
+
+Commissioner. The term "Commissioner" means the Commissioner of the Department of Housing Preservation and Development.
+
+Covered Categories of Work. The term "Covered Categories of Work" means the following types of construction or other work that require a building owner to obtain a Certification of No Harassment prior to approval of construction documents by the Department of Buildings:
+
+   (1) demolition of all or part of the Pilot Program Building;
+
+   (2) change of use or occupancy of all or part of a dwelling unit, any residential portion of the Pilot Program Building, or any part of such building serving such dwelling units;
+
+   (3) any alteration resulting in the addition or removal of kitchens or bathrooms, an increase or decrease in the number of dwelling units, or any change to the layout, configuration, or location of any portion of any dwelling unit;
+
+   (4) an application for a new or amended certificate of occupancy; and
+
+   (5)  removal of a central heating system and replacement with an individually metered heating system, provided that this type of work shall be considered a Covered Category of Work for any plan approval or any application for a permit or renewal of a permit submitted to the Department of Buildings on and after September 1, 2019.
+
+Department. The term "Department" means the Department of Housing Preservation and Development.
+
+Exceptions to Covered Categories of Work. The term "Exceptions to Covered Categories of Work" means the following types of construction or other work that, notwithstanding the definition of Covered Categories of Work, do not require a building owner to obtain a Certification of No Harassment prior to approval of construction documents by the Department of Buildings:
+
+   (1) Work solely for the purpose of either:
+
+      (a) making the public areas of a Pilot Program Building accessible to persons with disabilities without altering the configuration of any dwelling unit or rooming unit, or
+
+      (b) making the interior or the entrance to a dwelling unit or a rooming unit accessible to persons with disabilities.
+
+   (2) Repairs, demolition, or any other work performed by a city agency or by a contractor pursuant to a contract with a city agency.
+
+   (3) Repairs, demolition, or any other work performed by an owner who has entered into a regulatory agreement for such building with the Department.
+
+   (4) Demolition of a building performed pursuant to a declaration of an immediate emergency or emergency demolition order issued by the Department of Buildings.
+
+   (5) Work performed in a building that has an administrator currently appointed pursuant to article seven-a of the real property actions and proceedings law.
+
+   (6) Work performed in a building that has been transferred to a third party transferee or that has been transferred by such third party transferee to a subsequent transferee approved by the Department pursuant to an in rem foreclosure judgment under the Third Party Transfer program, authorized under chapter 3 of title 11 of the Administrative Code and the rules set forth in 28 RCNY Chapter 8.
+
+Fee. The term "Fee" means a sum in the amount of $160.00 per existing dwelling unit which amount is a fee to offset all or part of the administrative cost to the Department of processing the application for a Certification of No Harassment.
+
+Harassment. The term "Harassment" has the meaning set forth in subdivision 48 of section 27-2004 of the Administrative Code, provided, however, that in investigating whether Harassment occurred pursuant to this Chapter, the Department shall apply the definition of Harassment in such section of the Administrative Code that existed during all relevant times of the Inquiry Period.
+
+Inquiry Period. The term "Inquiry Period" means a period commencing 60 months prior to submission of the application for a Certification of No Harassment and ending on the date that the Department issues a final determination on such an application.
+
+Low Income Housing. The term "Low Income Housing" means dwelling units that, upon initial rental and upon each subsequent rental following a vacancy, are affordable to and restricted to occupancy by individuals or families whose household income does not exceed an average of 50 percent of the area median income, adjusted for family size, at the time that such household initially occupies the dwelling unit, provided that with respect to Low Income Housing units provided pursuant to a cure agreement in accordance with subdivision (e) of section 27-2093.1 of the Administrative Code and these rules, one-third of such Low Income Housing units shall be affordable to and restricted to occupancy by individuals or families whose household income does not exceed 40 percent of the area median income, one-third of such units shall be affordable to and restricted to occupancy by individuals or families whose household income does not exceed 50 percent of the area median income, and one-third of such units shall be affordable to and restricted to occupancy by individuals or families whose household income does not exceed 60 percent of the area median income.
+
+Luxury Hotel. The term "Luxury Hotel" shall have the meaning set forth in 28 RCNY § 10-01.
+
+Owner. The term "Owner" means:
+
+   (1) the holder of title to the property,
+
+   (2) a contract vendee of title to the property,
+
+   (3) the lessee pursuant to a net lease of the entire property with an unexpired term of not less than ten years from the date of submission of the application, or
+
+   (4) a receiver who is authorized by court order to apply to the Department for a Certification of No Harassment and to the Department of Buildings for a building permit.
+
+Pilot Program Building. The term "Pilot Program Building" means a multiple dwelling included on the Pilot Program List.
+
+Pilot Program List. The term "Pilot Program List" means a list of multiple dwellings with six or more dwelling units meeting the criteria set by subdivision b of section 27-2093.1 of the Administrative Code and by the Department pursuant to these rules. Such multiple dwelling shall remain on the Pilot Program List for 60 months, or until expiration of the local law that authorizes these rules, whichever is later. Such list shall not include any multiple dwelling that:
+
+   (1) is subject to any other provision of law or rules, including the zoning resolution, that requires a Certification of No Harassment as a condition to obtaining approval of construction documents or an initial or reinstated permit in connection therewith from the Department of Buildings;
+
+   (2) is the subject of a Department-approved program related to the rehabilitation or preservation of a single room occupancy or the provision of affordable housing for persons of low or moderate income, other than a program consisting solely of real property tax abatement or tax exemption pursuant to the real property tax law, and is exempted from the provisions of section 27-2093.1 of the Administrative Code as an exempt program upon review and approval by the Commissioner. For purposes of such exemption, the term, "Affordable Housing" shall mean dwelling units for which occupancy or initial occupancy is required to be restricted based upon the income of the occupant or prospective occupant thereof as a condition of:
+
+      (i) a loan, grant, tax exemption (except as otherwise provided herein), regulatory agreement, or conveyance of property from any state or local governmental agency or instrumentality pursuant to the Private Housing Finance Law, other than article 8-B of such law, or the General Municipal Law, or
+
+      (ii) a tax exemption pursuant to section 420-c of the Real Property Tax Law. Affordable Housing shall not include dwelling units for which occupancy or initial occupancy is required to be restricted based on the income of the occupant or prospective occupant thereof as a condition of a tax exemption pursuant to section 421-a of the Real Property Tax Law;
+
+   (3) contains dwelling units that are required to be and actually are restricted based on income pursuant to an agreement under the mandatory inclusionary housing program or the voluntary inclusionary housing program, provided that the income-restricted units that are required by such agreement are occupied at the time of application for a Certification of No Harassment;
+
+   (4) is a Rent Regulated Institutional Residence, the occupancy of which is restricted to non-profit institutional use exempted from the requirements of section 27-2093.1 of the Administrative Code by the Department;
+
+   (5) is owned by the city or other governmental entity;
+
+   (6) is a clubhouse;
+
+   (7)  is a college or school dormitory; or
+
+   (8)  is a Luxury Hotel.
+
+Rent Regulated Institutional Residence. The term "Rent Regulated Institutional Residence" means a multiple dwelling the occupancy of which is restricted to non-profit institutional use and was restricted to non-profit institutional use during the Inquiry Period, is rentregulated, and which has been exempted from the provisions of section 27-2093.1 of the Administrative Code by written determination of the Department.
+
+
+
+
+
+
+
+
+*§ 53-02. Pilot Program List.* ::
+
+
+(1) A Pilot Program List will be provided by the Department on its website, and the initial Pilot Program List will published in the City Record.
+
+(2) The criteria used to select buildings to be included on the Pilot Program List shall include:
+
+   (a) Buildings with scores on the Building Qualification Index indicating significant distress as determined by the Department, and located within:
+
+      (i) Bronx community district 4,
+
+      (ii) Bronx community district 5,
+
+      (iii) Bronx community district 7,
+
+      (iv) Brooklyn community district 3,
+
+      (v) Brooklyn community district 4,
+
+      (vi) Brooklyn community district 5,
+
+      (vii) Brooklyn community district 16,
+
+      (viii) Manhattan community district 9,
+
+      (ix) Manhattan community district 11,
+
+      (x) Manhattan community district 12,
+
+      (xi) Queens community district 14, and
+
+      (xii) Any community district where any part of such district is subject to a City-sponsored Neighborhood-wide Rezoning after December 31, 2017. Such community district will be added to the Pilot Program List and included on the Pilot Program List on the Department's website within 30 days after it is designated;
+
+   (b) Buildings where a full vacate order has been issued by the Department or by the Department of Buildings within the five-year period prior to July 24. 2018;
+
+   (c) Buildings where there has been active participation in the Department's alternative enforcement program pursuant to an order issued by the Department for more than four months since February 1, 2016 and the Department has determined that an order will be issued . A building will be added to the Pilot Program List and included on the Pilot Program List on the Department's website within 30 days after it is identified for issuance of an order by the Department; and
+
+   (d) Buildings where there has been a final determination by New York State Homes and Community Renewal or any court having jurisdiction that one or more acts of Harassment were committed at such building after September 27, 2013. A building will be added to the Pilot Program List and included on the Pilot Program List on the Department's website within 30 days after it is identified as having been the subject of such determination, provided, however that where such final determination was made on default judgment, and such default is opened by the court having jurisdiction, such building will be removed from the Pilot Program List within 30 days of notification by the owner unless such building meets other criteria for inclusion on such list.
+
+
+
+
+
+
+
+
+*§ 53-03. Criteria for the Building Qualification Index.* ::
+
+
+The criteria used to evaluate prospective Pilot Program Buildings for distress shall include:
+
+(1) The number of open and closed hazardous and immediately hazardous violations of the housing maintenance code per adjusted dwelling unit that were issued by the Department within the five-year period prior to July 24, 2018, rated on a range of values from zero to ten. For the purposes of this section, "adjusted dwelling unit" refers to the natural logarithm of dwelling units in the building, calculated in order to limit underweighting of serious building-wide violations in very large buildings.
+
+(2) The total amount of paid or unpaid emergency repair charges per adjusted dwelling unit levied against the building within the five-year period prior to July 24, 2018, rated on a range of values from zero to ten.
+
+(3) The ratings in this section are based on the number of standard deviations above the average at the time of evaluation. Buildings above such average score 2.5 points, and an additional 2.5 points for each of up to 3 standard deviations above the average. The following scores will result in placement of a building on the Pilot Program List:
+
+   (a) Buildings with no ownership changes within a five-year period prior to July 24, 2018, and a combined score of 15 or more for criteria in subdivisions (1) and (2) of this section;
+
+   (b) Buildings with one ownership change within a five-year period prior to July 24, 2018 and a combined score of ten or more for criteria in subdivisions (1) and (2) of this section; and
+
+   (c) Buildings with two or more ownership changes within a five-year period prior to July 24, 2018, and a combined score of five or more for criteria in subdivisions (1) and (2) of this section.
+
+
+
+
+
+
+
+
+*§ 53-04. Application for Certifications of No Harassment* ::
+
+
+(1) An application for a Certification of No Harassment shall contain such information, in such form, as the Department shall require.
+
+(2) An application shall be executed by an Applicant. If the Applicant is not an Access Authorizer, the application shall also be executed by an Access Authorizer.
+
+(3)  An application may be submitted to the Department:
+
+   (a) by hand delivery on business days, during such hours and in such location as the Department shall determine,
+
+   (b) by mail,
+
+   (c) by private courier, or
+
+   (d) electronically, as provided by the Department.
+
+(4) The submission of any application shall be accompanied by certified check, bank check, electronic payment, or money order in the amount of the Fee made payable to Department of Finance.
+
+(5) Following the submission of an application, the Department may request any additional information that it determines is relevant to the application. If the Department sends a written request for additional information to the Applicant by regular or certified mail or email at the address or email of the Applicant set forth in the application, and it does not receive such additional information within 30 days following the mailing or emailing of such request, the Department may:
+
+   (a) reject the application, or
+
+   (b) review the application without such information and draw a negative inference with respect to the missing information.
+
+(6) An application shall be deemed to be complete when the completed application, the fee, and the necessary supporting documentation have been received and acknowledged as sufficient by the Department.
+
+(7) If the Department determines at any time that an application contains a material misstatement of fact, it may reject such application and bar the submission of a new application for a period not to exceed five years.
+
+(8)  The Department may refuse to act upon or may reject, an application for a Certification where it finds at any time that:
+
+   (a) taxes, water and sewer charges, emergency repair program charges, alternative enforcement program charges, or any other municipal charges remain unpaid with respect to the multiple dwelling;
+
+   (b) the Pilot Program Building is being used or has been altered either without proper permits from the Department of Buildings or in a way that conflicts with the certificate of occupancy for such building (or, where there is no certificate of occupancy, any record of the Department indicating the lawful configuration and use of the such building) and such unlawful alteration or use remains uncorrected;
+
+   (c) the application is incomplete or is missing information;
+
+   (d) the building is not validly registered with the Department; or
+
+   (e) the Department has previously denied an application pursuant to these rules.
+
+(9) If any information stated in an application changes at any time before the Department makes a final determination, the Applicant shall promptly update the application with such new information and submit it to the Department. If such changed information includes any facts that would render the original Applicant ineligible to submit the application, the Department may require that the amended application be executed by an individual who is at that time eligible to submit the application.
+
+(10) An application may not be withdrawn after the Department issues either:
+
+   (a) an initial determination that there is reasonable cause to believe that Harassment occurred during the Inquiry Period at the Pilot Program Building, or
+
+   (b) a final determination that Harassment occurred during the Inquiry Period at the Pilot Program Building.
+
+
+
+
+
+
+
+
+*§ 53-05. Investigation.* ::
+
+
+(1) The Department may designate a community group to conduct a survey of the occupants of a Pilot Program Building with respect to Harassment in such building and to report its findings to the Department. Based upon the findings of such community group or the Department's review of records and other data, the Department may determine that it is necessary to conduct a further investigation.
+
+(2) Upon receipt of an application for a Certification of No Harassment, the Department shall publish a notice, as provided in subdivision d of section 27-2093.1 of the Administrative Code, seeking public comment regarding whether there has been Harassment of the lawful occupants of the Pilot Program Building during the Inquiry Period. 
+
+
+
+
+
+
+
+
+*§ 53-06 Initial Determination.* ::
+
+
+(1) Upon the completion of the investigation of an application for a Certification of No Harassment, the Department shall:
+
+   (a) reject such application,
+
+   (b) determine that there is not reasonable cause to believe that Harassment occurred during the Inquiry Period at the Pilot Program Building,
+
+   (c) determine that there is reasonable cause to believe that Harassment occurred during the Inquiry Period at the Pilot Program Building, or
+
+   (d) determine that there has been a final determination by New York State Homes and Community Renewal or any court having jurisdiction, that one or more acts of Harassment, unlawful eviction or arson by or on behalf of the owner were committed at the Pilot Program Building during the Inquiry Period.
+
+(2) If the Department refuses to act upon or rejects an application as provided in 28 RCNY § 53-04 or this section of these rules, it shall send written notice of such determination to the Applicant.
+
+(3) If the Department determines that there is not reasonable cause to believe that Harassment occurred during the Inquiry Period at the Pilot Program Building, the Department shall:
+
+   (a) send written notice of such determination to the Applicant, and
+
+   (b) grant the Certification of No Harassment.
+
+(4) If the Department determines that there is reasonable cause to believe that Harassment occurred during the Inquiry Period at the Pilot Program Building, the Department shall send written notice of such determination to the Applicant and shall comply with the procedures set forth in 28 RCNY §§ 53-07 and 53-08.
+
+(5) If the Department determines that there has been a final determination by New York State Homes and Community Renewal or any court having jurisdiction that one or more acts of Harassment, unlawful eviction or arson by or on behalf of the owner were committed at the Pilot Program Building during the Inquiry Period, the Department may deny the application without a hearing and issue a final determination in accordance with 28 RCNY § 53-08. In such event, the Department may combine the initial determination pursuant to this section and the final determination pursuant to 28 RCNY § 53-08 into a single document.
+
+
+
+
+
+
+
+
+*§ 53-07 Hearing.* ::
+
+
+(1) When the Department has determined in accordance with these rules that there is reasonable cause to believe that Harassment occurred at the Pilot Program Building during the Inquiry Period, the Department shall schedule a hearing before the Office of Administrative Trials and Hearings. The Applicant shall have the opportunity to be heard at such hearing prior to the granting or denial of the Certification of No Harassment.
+
+(2) The Department shall serve a notice of hearing by regular mail upon the Applicant and any other individual or entity as determined by the Department, in the manner prescribed by the Office of Administrative Trials and Hearings. Such notice shall state the date, time, and location of the hearing and shall inform the Applicant that he or she may be represented by counsel and may present witnesses and other evidence.
+
+(3) At such hearing, the Department, in its discretion, may receive relevant testimony from tenants, community groups, and any other interested parties.
+
+(4) Upon conclusion of such hearing, the hearing officer shall make a report and recommendation to the Commissioner whether an application should be granted or denied.
+
+(5) Notwithstanding anything to the contrary in this section or these rules, an Applicant may waive its right to a hearing before the Office of Administrative Trials and Hearings.
+
+
+
+
+
+
+
+
+*§ 53-08 Final Determination.* ::
+
+
+(1) When the Department has determined that there is reasonable cause to believe that Harassment occurred at the Pilot Program Building during the Inquiry Period and a hearing has been held before the Office of Administrative Trials and Hearings, the Commissioner shall review the report and recommendation of the hearing officer and make a final determination to grant or deny the application.
+
+(2) When the Department has determined that there is reasonable cause to believe that Harassment occurred at the Pilot Program Building during the Inquiry Period and the Applicant has waived its right to a hearing before the Office of Administrative Trials and Hearings, the Commissioner shall make a final determination to grant or deny the application.
+
+(3) When the Department has determined that that there has been a final determination by New York State Homes and Community Renewal or any court having jurisdiction that one or more acts of Harassment were committed at the Pilot Program Building during the Inquiry Period, the Commissioner shall make a final determination to grant or deny the application. In such event, the Department may combine the initial determination pursuant to these rules and the final determination pursuant to this section into a single document.
+
+(4) The Department shall provide the Applicant with written notice of the final determination within 45 days after the Office of Administrative Trials and Hearings issues a report and recommendation. A final determination of denial shall be filed in the office of the city register or the Richmond county clerk.
+
+
+
+
+
+
+
+
+*§ 53-09 Certification of No Harassment.* ::
+
+
+(1) A Certification of No Harassment shall be effective for 60 months from the date upon which such certification is signed by the Commissioner, which period shall be stated in such certification. Such Certification shall apply to any plan approval, and any application for a permit or renewal of a permit for any Covered Categories of Work that is submitted to the Department of Buildings during such period.
+
+(2) The Department shall not issue a Certification of No Harassment unless it has received an affidavit of no future harassment executed by one or more individual natural persons who are, at the time of execution of such affidavit, either:
+
+   (a) all of the Owners of the Pilot Program Building, or
+
+   (b) principals or officers of all of the Owners of the Pilot Program Building who are authorized to sign on behalf of and bind such Owners.
+
+
+
+
+
+
+
+
+*§ 53-10 Waiver or Exemption.* ::
+
+
+(1) Notwithstanding any provision of these rules to the contrary, if an application is for a waiver or exemption, the Department will waive the Fee.
+
+(2) Notwithstanding any provision of these rules to the contrary, the Department may grant a waiver or exemption at any point following the submission of an application therefor in accordance with the provisions of section 27-2093.1 of the Administrative Code and these rules.
+
+(3) A waiver or exemption shall be effective for such period and subject to such conditions as the Department shall determine, which shall be stated in such waiver or exemption. Such waiver or exemption shall apply to any plan approval, and any application for a permit or renewal of a permit for any Covered Categories of Work that is submitted to the Department of Buildings during such period which complies with such conditions, if any.
+
+(4) The Department shall only issue a waiver that is in accordance with subdivision i of section 27-2093.1 of the Administrative Code.
+
+(5) The Department shall not issue a waiver unless it has received an affidavit of no future Harassment executed by one or more individual natural persons who are either:
+
+   (a) all of the Owners of the Pilot Program Building, or
+
+   (b) principals or officers of all of the Owners of the Pilot Program Building who are authorized to sign on behalf of and bind such Owners.
+
+
+
+
+
+
+
+
+*§ 53-11 Suspension and Rescission.* ::
+
+
+(1) The Department may rescind a Certification of No Harassment or waiver at any time if it determines that the application for such Certification or waiver contained a material misstatement of fact.
+
+(2) If the Department determines that there is reasonable cause to believe that Harassment has occurred after the date that it issued a Certification of No Harassment or a waiver, it may suspend such Certification or waiver. If such Certification or waiver was granted solely pursuant to the Administrative Code, the Department shall not suspend such Certification or waiver pursuant to the preceding sentence unless it determines that there is reasonable cause to believe that such harassment occurred before commencement of substantial work.
+
+(3) If the Department determines that there is reasonable cause to believe that harassment has occurred after the date that it issued a Certification or a waiver, the Department shall deliver a notice of suspension to the Applicant. Notice of such suspension shall also be mailed to known tenants of the Pilot Program Building and shall be filed with the city register or Richmond County clerk. The Department shall refer the matter for hearing at the Office of Administrative Trials and Hearings, provided, however, that if the Owner of the Pilot Program Building has been found by the New York State Homes and Community Renewal or any court having jurisdiction to have engaged in Harassment, unlawful eviction, or arson at such building after the Certification of No Harassment was granted, the Department may determine whether to rescind such Certification without commencing a proceeding at such office.
+
+(4) The Department shall serve a notice of hearing by regular mail upon the Applicant and any other individual or entity, including known tenants of the Pilot Program Building, as determined by the Department, in the manner prescribed by the Office of Administrative Trials and Hearings. Such notice shall state the date, time, and location of the hearing and shall inform the Applicant that he or she may be represented by counsel and may present witnesses and other evidence.
+
+(5) At such hearing, the Department, in its discretion, may receive relevant testimony from such known tenants, community groups, and any other interested parties.
+
+(6) Upon conclusion of such hearing, the hearing officer shall make a recommendation to the Commissioner whether or not the Certification of No Harassment or waiver should be rescinded.
+
+(7) The Commissioner shall make a final determination whether or not to rescind such certification or waiver within 45 days of receiving the hearing officer's recommendation and shall provide the Applicant and the known tenants of the building with written notice of such determination. Such determination shall be filed as provided in subdivision f of section 27-2093.1 of the Administrative Code.
+
+
+
+
+
+
+
+
+*§ 53-12. Cure Agreement.* ::
+
+
+(1) Where the Department has denied an application for a Certification of No Harassment for a Pilot Program Building, or, where an owner has, in lieu of seeking a Certification of No Harassment which is otherwise required, elected instead to seek a certification of compliance with the cure provisions described in subdivision e of section 27-2093.1 of the Administrative Code, such Owner may apply to the Department to cure the record of Harassment or satisfy the requirement for the Certification of No Harassment by entering into a cure agreement with the Department.
+
+(2) Such cure agreement shall be a restrictive declaration and a regulatory agreement in such form as provided by the Department, and shall require compliance with such terms as shall be required by the Department.
+
+(3) The restrictions, covenants, and provisions of such cure agreement shall run with the land and bind the Owner and all other parties in interest and their successors and assigns to the applicable property with Low Income Housing, and shall be perpetual in duration.
+
+(4) Such cure agreement shall be recorded by the Owner in the office of the city register or the Richmond county clerk, and indexed against each tax lot with Low Income Housing within the zoning lot.
+
+(5) The requirements of such cure agreement shall include compliance with the applicable Inclusionary Housing Guidelines and shall also include, but not be limited to that:
+
+   (a) The Owner shall construct floor area of Low Income Housing, either within the Pilot Program Building, in a new building on the same site as the Pilot Program Building, or in such same community district, of no less than the greater of: (i) 25 percent of the total residential floor area of such Pilot Program Building undergoing Covered Categories of Work in which harassment has occurred or for which the Owner has elected to seek a certification of compliance with the cure provisions of subdivision e of section 27-2093.1 of the Administrative Code, or (ii) 20 percent of the total floor area of any new or Pilot Program Building undergoing Covered Categories of Work on the lot containing the Pilot Program Building subject to the cure agreement;
+
+   (b) The Owner shall contract with an administering agent, which shall be an organization qualified by the Department to market and manage the Low Income Housing units and monitor compliance with the cure agreement;
+
+   (c) Lawful tenants of such Pilot Program Building during the Inquiry Period shall have priority in the allocation of such Low Income Housing units constructed by the Owner within the Pilot Program Building or in a new building at the same site as the Pilot Program Building if they otherwise qualify for such units;
+
+   (d) No construction of such required floor area of Low Income Housing units shall be used by the Owner to satisfy an eligibility requirement of any real property tax abatement or exemption program, or of a floor area ratio increase pursuant to section 23-90 and 23-154, inclusive, of the zoning resolution, for which the Owner otherwise may be eligible to apply, or to apply for a hardship waiver from any existing code or zoning resolution requirement, and such required floor area shall be in addition to and not in substitution for floor area of Low Income Housing that may be used by the owner to satisfy such an eligibility requirement;
+
+   (e) No city, state or federal subsidy shall be used for the construction of Low Income Housing units required pursuant to subdivision e of section 27-2093.1 of the Administrative Code. or these rules; and
+
+   (f) The initial rents charged by the Owner for the Low Income units shall not exceed an average of 50 percent of the area median income, adjusted for family size, at the time that such household initially occupies the dwelling unit, provided that with respect to Low Income Housing Units provided pursuant to a cure agreement in accordance with section 27-2093.1 of the Administrative Code, one-third of such Low Income Housing units shall be affordable to and restricted to occupancy by individuals or families whose household income does not exceed 40 percent of the area median income, one-third of such units shall be affordable to and restricted to occupancy by individuals or families whose household income does not exceed 50 percent of the area median income, and one-third of such units shall be affordable to and restricted to occupancy by individuals or families whose household income does not exceed 60 percent of the area median income.
+
+   (g) If the Owner violates any term, covenant, or provision of the cure agreement, or if any representation made by the Owner is determined by the Department to be false or misleading, then the Department may declare a default under the cure agreement, and take such enforcement action as specified in such agreement or under law.
 
 
 

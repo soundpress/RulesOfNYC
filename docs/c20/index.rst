@@ -139,7 +139,7 @@ Clean Air Vehicle Level I is a vehicle that uses a type of fuel which allows the
 
 Clean Air Vehicle, Level II is any Clean Air Vehicle that does not meet the standards of a Clean Air Vehicle Level I.
 
-Closing Deadline is the date by which a winning Bidder must close on any Lot as established in 35 RCNY § 65-07(a) of these Rules.
+Closing Deadline is the date by which a winning Bidder must close on any Lot as established in 35 RCNY § 65-07(a).
 
 Collision is a traffic incident involving the impact of a vehicle with another vehicle, person, animal or property. Collisions shall include those events referenced as “incidents” and “accidents” by the New York State Vehicle and Traffic Law.
 
@@ -349,7 +349,7 @@ Exceptions: Any device specifically authorized to be used while a Driver is driv
 
 Electronic Trip Record System is the hardware and software that collects and stores the data that must be recorded for each passenger trip.
 
-Email Address is the email address designated by a Licensee or an Applicant for a License where the Licensee or Applicant will receive notices, appointments, reminders or other correspondence from the Commission. Any communication from the Commission, except notices and summonses for which the manner of service is specified in § 68-05 of these Rules, is sufficient if sent by email to the Email Address. The Email address is not the Mailing Address.
+Email Address is the email address designated by a Licensee or an Applicant for a License where the Licensee or Applicant will receive notices, appointments, reminders or other correspondence from the Commission. Any communication from the Commission, except notices and summonses for which the manner of service is specified in 35 RCNY § 68-05, is sufficient if sent by email to the Email Address. The Email address is not the Mailing Address.
 
 Escrow Amount is the amount for which an escrow account is required to be established in order to satisfy one or more Excess Claims.
 
@@ -361,7 +361,7 @@ Facilitate Sex Trafficking with a Vehicle means (1) conviction of any of the fol
 
 Fair Market Value in reference to the transfer of a Taxicab Medallion is the average value of arms-length transactions for similar Medallions during the prior calendar month, as determined by the Commission.
 
-Final Decision is the decision of the Hearing Officer at the Taxi and Limousine Tribunal at OATH and is subject to the appeals process provided for in Chapter 5 of Title 48 of the Rules of the City of New York and the Chairperson review process provided for in section 68-12.
+Final Decision is the decision of the Hearing Officer at the Taxi and Limousine Tribunal at OATH and is subject to the appeals process provided for in Chapter 5 of Title 48 of the Rules of the City of New York and the Chairperson review process provided for in 35 RCNY § 68-12.
 
 Finding of Public Need is a determination that a CommuterVan Service being proposed will be required either now or in the future for the convenience and necessity of the public.
 
@@ -559,7 +559,7 @@ Official Bus Route means the route, including all stops, traveled upon by a bus 
 
 Old Rules means Title 35 of the Rules of the City of New York as in effect before the Activation Date.
 
-Official Taxicab Vehicle ("OTV") is the vehicle that is a purpose built taxicab for model years 2014-2024, manufactured pursuant to the City's contract with Nissan North America. All references to OTV include Accessible OTV unless otherwise specified.
+Official Taxicab Vehicle ("OTV") is the vehicle that is a purpose built taxicab for model years 2014 - 2024, manufactured pursuant to the City's contract with Nissan North America. All references to OTV include Accessible OTV unless otherwise specified.
 
 Official Taxicab Vehicle Activation Date ("OTV Activation Date") is the date on or after which the Official Taxicab Vehicle is required to be used in the Hack-up of any Unrestricted Medallion unless otherwise provided in 35 RCNY Chapter 67.
 
@@ -735,7 +735,7 @@ Tort Letter is a statement from the insurer of a Taxicab stating whether or not 
 
 Transfer means the transfer of all or any portion of a Medallion ownership interest, including the transfer of interests in a Business Entity owning Medallions.
 
-Transferee is an Applicant seeking approval from or approved by the Chairperson to own and operate a Medallion Taxicab in which Applicant is acquiring or has acquired an interest, either directly or indirectly, through a transfer described in section 58-43 of these Rules.
+Transferee is an Applicant seeking approval from or approved by the Chairperson to own and operate a Medallion Taxicab in which Applicant is acquiring or has acquired an interest, either directly or indirectly, through a transfer described in 35 RCNY § 58-43.
 
 Transfer Costs means the administrative costs involved in processing a transfer of ownership of a Taxicab Medallion, including the costs of any foreclosure or similar action and any outstanding fines or fees owed to the Commission or the Parking Violations Bureau.
 
@@ -903,7 +903,7 @@ The Commission will issue licenses and adopt and enforce rules regulating the bu
 
    (2) The Commission will prescribe, revise and regulate reasonable rates of fare that may be charged and collected for each type of service rendered.
 
-   (3) Not later than the end of April of every odd-numbered year, the Chairperson shall hold a public hearing to assess the adequacy of the current fares established under 35 RCNY § 58-26 of these Rules and shall solicit written comment and testimony on all relevant facts including, the following:
+   (3) Not later than the end of April of every odd-numbered year, the Chairperson shall hold a public hearing to assess the adequacy of the current fares established under 35 RCNY § 58-26 and shall solicit written comment and testimony on all relevant facts including, the following:
 
       (i) The time and distance of travel;
 
@@ -927,7 +927,7 @@ The Commission will issue licenses and adopt and enforce rules regulating the bu
 
       (xi) The amount of revenue necessary to generate a fair and reasonable rate of return to a medallion owner.
 
-   (4) Not later than the end of April of every odd-numbered year, the Chairperson shall hold a public hearing to assess the adequacy of the lease caps established under 35 RCNY § 58-21 of these Rules and shall solicit written comment and testimony on all relevant facts, including the following:
+   (4) Not later than the end of April of every odd-numbered year, the Chairperson shall hold a public hearing to assess the adequacy of the lease caps established under 35 RCNY § 58-21 and shall solicit written comment and testimony on all relevant facts, including the following:
 
       (i) he expenses of operation of medallion owners and their agents;
 
@@ -1431,7 +1431,7 @@ A Driver will not be entitled to collect more than two combined Cancellation and
 *§ 53-04 Comply with Law – Approved Driver.* ::
 
 
-(a) Comply with this Chapter. All Accessible Taxicab Owners, Accessible Street Hail Livery Owners and all Approved Drivers must comply with all provisions of this chapter. Agents for Accessible Taxicab Owners and bases dispatching or acting on behalf of Accessible Street Hail Liveries under section 59B-04.2 of these Rules must also comply with these Rules where applicable.
+(a) Comply with this Chapter. All Accessible Taxicab Owners, Accessible Street Hail Livery Owners and all Approved Drivers must comply with all provisions of this chapter. Agents for Accessible Taxicab Owners and bases dispatching or acting on behalf of Accessible Street Hail Liveries under 35 RCNY § 59B-04.2 must also comply with these Rules where applicable.
 
 (b) Driver Responsibility. An Accessible Vehicle can only be driven by an Approved Driver; that is, one who has successfully completed Wheelchair Passenger Assistance Training. 
 									
@@ -1479,7 +1479,7 @@ A Driver will not be entitled to collect more than two combined Cancellation and
     :header-rows: 1
 
     * - 35 RCNY § 53-04(d)
-      - Fine:
+      - Fine: $400
       - Appearance NOT Required 
 ~
 
@@ -1583,8 +1583,7 @@ A Driver will not be entitled to collect more than two combined Cancellation and
 
       (ii) The Owner, Agent or Base must replace or repair Dispatch Equipment promptly upon being notified to do so and in no event later than 48 hours after receiving such notification.
 
-      (iii) An Accessible Vehicle with inoperable Dispatch Equipment cannot operate without accepting dispatches for more than 48 hours without repair or replacement of the Dispatch Equipment. 
-									
+      (iii) An Accessible Vehicle with inoperable Dispatch Equipment cannot operate without accepting dispatches for more than 48 hours without repair or replacement of the Dispatch Equipment.
 
  
 
@@ -1607,8 +1606,7 @@ A Driver will not be entitled to collect more than two combined Cancellation and
 
    (2) Log off at the conclusion of each shift,
 
-   (3) Communicate with the Accessible Taxi Dispatcher about dispatches, as directed by the Accessible Taxi Dispatcher. 
-									
+   (3) Communicate with the Accessible Taxi Dispatcher about dispatches, as directed by the Accessible Taxi Dispatcher.
 
  
 
@@ -1625,8 +1623,7 @@ A Driver will not be entitled to collect more than two combined Cancellation and
 
  
 
-   (4) Log onto the Dispatch Equipment any time either or both of the taximeter and the Technology System is on or engaged. 
-									
+   (4) Log onto the Dispatch Equipment any time either or both of the taximeter and the Technology System is on or engaged.
 
  
 
@@ -1651,8 +1648,7 @@ A Driver will not be entitled to collect more than two combined Cancellation and
 
    (3) Disable the Dispatch Equipment; or
 
-   (4) Render the Dispatch Equipment inoperable in any way. 
-									
+   (4) Render the Dispatch Equipment inoperable in any way.
 
  
 
@@ -1712,8 +1708,7 @@ A Driver will not be entitled to collect more than two combined Cancellation and
 
  
 
-(b) No Prior Pick-Ups. An Approved Driver of an Accessible Vehicle who has accepted a dispatch from the Accessible Taxi Dispatcher must not accept any other Passenger before picking up the Passenger with a mobility impairment. Note: This includes acceptance of another trip using an approved e-hail application. 
-									
+(b) No Prior Pick-Ups. An Approved Driver of an Accessible Vehicle who has accepted a dispatch from the Accessible Taxi Dispatcher must not accept any other Passenger before picking up the Passenger with a mobility impairment. Note: This includes acceptance of another trip using an approved e-hail application.
 
  
 
@@ -2968,7 +2963,7 @@ Chapter 56: Paratransit Drivers
 .. list-table::
     :header-rows: 1
 
-    * - 35 RCNY § 56-10 (g)
+    * - 35 RCNY § 56-10(g)
       - Fine: $1,000 to be paid if Driver applies for a new License of any type.
       - Appearance N/A
 ~
@@ -3047,7 +3042,7 @@ Chapter 56: Paratransit Drivers
     :header-rows: 1
 
     * - 35 RCNY § 56-11(d)(1)
-      - MANDATORY PENALTIES: See § 56-02
+      - MANDATORY PENALTIES: See 35 RCNY § 56-02
       - Appearance Required
 ~
 
@@ -3271,7 +3266,7 @@ Chapter 56: Paratransit Drivers
     :header-rows: 1
 
     * - 35 RCNY § 56-12(i)
-      - Fine: $350-$1,000 and/or suspension up to 30 days
+      - Fine: $350 - $1,000 and/or suspension up to 30 days
       - Appearance Required
 ~
 
@@ -3288,7 +3283,7 @@ Chapter 56: Paratransit Drivers
     :header-rows: 1
 
     * - 35 RCNY § 56-12(j)
-      - Fine: $500-$1,500 and/or suspension up to 60 days or revocation.
+      - Fine: $500 - $1,500 and/or suspension up to 60 days or revocation.
       - Appearance Required
 ~
 
@@ -3305,7 +3300,7 @@ Chapter 56: Paratransit Drivers
     :header-rows: 1
 
     * - 35 RCNY § 56-12(k)
-      - Fine: $25-$350 and/or suspension up to 30 days
+      - Fine: $25 - $350 and/or suspension up to 30 days
       - Appearance Required
 ~
 
@@ -3502,7 +3497,7 @@ Chapter 56: Paratransit Drivers
     :header-rows: 1
 
     * - 35 RCNY § 56-14(b)
-      - Fine: $350-$1,000 and/or suspension up to 30 days or revocation if Driver is found guilty of having violated this rule more than three times within an 18-month period.
+      - Fine: $350 - $1,000 and/or suspension up to 30 days or revocation if Driver is found guilty of having violated this rule more than three times within an 18-month period.
       - Appearance Required
 ~
 
@@ -3559,7 +3554,7 @@ Chapter 56: Paratransit Drivers
     :header-rows: 1
 
     * - 35 RCNY § 56-14(d)
-      - Fine: $50-$300 and/or suspension or revocation.
+      - Fine: $50 - $300 and/or suspension or revocation.
       - Appearance Required
 ~
 
@@ -3605,7 +3600,7 @@ Chapter 56: Paratransit Drivers
     :header-rows: 1
 
     * - 35 RCNY § 56-14(g)
-      - Fine: $25-$1,000 possible suspension or revocation (OATH).
+      - Fine: $25 - $1,000 possible suspension or revocation (OATH).
       - Appearance Required
 ~
 
@@ -3626,7 +3621,7 @@ Chapter 56: Paratransit Drivers
     :header-rows: 1
 
     * - 35 RCNY § 56-14(h)
-      - Fine: $25-$250 and/or suspension up to 30 days
+      - Fine: $25 - $250 and/or suspension up to 30 days
       - Appearance Required
 ~
 
@@ -3669,7 +3664,7 @@ Chapter 56: Paratransit Drivers
 
    (i) If a Driver has been issued a summons for or charged with one or more traffic related violations or crimes in a Serious Crash, the Driver's License may be Summarily Suspended, upon a finding that the Driver's conduct was a substantial cause of the Serious Crash. Upon conviction of the Driver of one or more of the violations or crimes stated in the summons or charges and upon a determination that one or more of the violations or crimes for which conviction occurred was a cause of Critical Injury or death, the Driver's License will be revoked. A Summary Suspension pursuant to this section may be lifted pursuant to this Title or upon dismissal of all such charges or upon a finding of not guilty of all of the stated traffic related violations and crimes, except that the Chairperson may continue to suspend the license pursuant to an investigation into the Driver's fitness, and such license may be revoked if the Driver is found not Fit to Hold a License (see subdivision (ii)). This section does not limit in any way the Chairperson's authority to Summarily Suspend a Driver for other reasons.
 
-   (ii) After any Serious Crash of which the TLC is notified involving a Driver operating a Licensed Vehicle, the TLC will review whether the Driver is Fit to Hold a License under 35 RCNY § 56-08(b) of this Chapter. The TLC can seek Suspension or Revocation of the Driver's License and can Summarily Suspend the Driver's License while any fitness review or enforcement action is pending, in accordance with 35 RCNY § 68-15 of this Title.
+   (ii) After any Serious Crash of which the TLC is notified involving a Driver operating a Licensed Vehicle, the TLC will review whether the Driver is Fit to Hold a License under 35 RCNY § 56-08(b). The TLC can seek Suspension or Revocation of the Driver's License and can Summarily Suspend the Driver's License while any fitness review or enforcement action is pending, in accordance with 35 RCNY § 68-15.
 
 
 
@@ -3753,7 +3748,7 @@ Chapter 56: Paratransit Drivers
     :header-rows: 1
 
     * - 35 RCNY § 56-15(g)(3)
-      - Fine: $25-$150.
+      - Fine: $25 - $150.
       - Appearance Required
 ~
 
@@ -3871,7 +3866,7 @@ Chapter 56: Paratransit Drivers
     :header-rows: 1
 
     * - 35 RCNY § 56-15(n)(1)-(4)
-      - Fine: $100-$340 and/or suspension up to 30 days and possible revocation (OATH).
+      - Fine: $100 - $340 and/or suspension up to 30 days and possible revocation (OATH).
       - Appearance Required
 ~
 
@@ -3909,7 +3904,7 @@ Chapter 56: Paratransit Drivers
     :header-rows: 1
 
     * - 35 RCNY § 56-15(p)
-      - Fine: $50 – $150.
+      - Fine: $50 - $150.
       - Appearance Required
 ~
 
@@ -3951,7 +3946,7 @@ Chapter 56: Paratransit Drivers
     :header-rows: 1
 
     * - 35 RCNY § 56-16(a)
-      - Fine: $25-$150.
+      - Fine: $25 - $150.
       - Appearance Required
 ~
 
@@ -3968,7 +3963,7 @@ Chapter 56: Paratransit Drivers
     :header-rows: 1
 
     * - 35 RCNY § 56-16(b)
-      - Fine: $25-$150.
+      - Fine: $25 - $150.
       - Appearance Required
 ~
 
@@ -3985,7 +3980,7 @@ Chapter 56: Paratransit Drivers
     :header-rows: 1
 
     * - 35 RCNY § 56-16(c)
-      - Fine: $50-$100.
+      - Fine: $50 - $100.
       - Appearance Required
 ~
 
@@ -4102,7 +4097,7 @@ Chapter 56: Paratransit Drivers
     :header-rows: 1
 
     * - 35 RCNY § 56-18(a)
-      - Fine: $50-$250.
+      - Fine: $50 - $250.
       - Appearance Required
 ~
 
@@ -4144,7 +4139,7 @@ Chapter 56: Paratransit Drivers
     :header-rows: 1
 
     * - 35 RCNY § 56-19(a)
-      - MANDATORY PENALTIES: See § 56-02
+      - MANDATORY PENALTIES: See 35 RCNY § 56-02
       - Appearance Required
 ~
 
@@ -4169,7 +4164,7 @@ Chapter 56: Paratransit Drivers
     :header-rows: 1
 
     * - 35 RCNY § 56-20(a)
-      - MANDATORY PENALTIES: See § 56-02
+      - MANDATORY PENALTIES: See 35 RCNY § 56-02
       - Appearance Required
 ~
 
@@ -4227,7 +4222,7 @@ Chapter 56: Paratransit Drivers
     :header-rows: 1
 
     * - 35 RCNY § 56-22(b)
-      - Fine: $15-$150.
+      - Fine: $15 - $150.
       - Appearance Required
 ~
 
@@ -4263,7 +4258,7 @@ Chapter 56: Paratransit Drivers
     :header-rows: 1
 
     * - 35 RCNY § 56-22(e)
-      - Fine: $25-$200 and/or suspension up to 30 days.
+      - Fine: $25 - $200 and/or suspension up to 30 days.
       - Appearance Required
 ~
 
@@ -4463,7 +4458,7 @@ Chapter 56: Paratransit Drivers
     :header-rows: 1
 
     * - 35 RCNY § 56-26(a)
-      - Fine: $25-$250 and/or suspension up to 30 days.
+      - Fine: $25 - $250 and/or suspension up to 30 days.
       - Appearance Required
 ~
 
@@ -28986,681 +28981,6 @@ Reissued Medallions are Medallions that meet the following criteria:
 
 
 
-Chapter 67: Rules For Taxicab Hack-up and Maintenance
---------------------------------------------------
-
-
-
-*§ 67-01 Scope of this Chapter.* ::
-
-
-(a) To establish the standards and requirements for preparing a vehicle for Taxicab Licensing, and
-
-(b) To establish the standards and requirements for Taxicab maintenance, inspection and retirement.
-
-
-
-
-
-
-*§ 67-02 Penalties.* ::
-
-
-(a) This Chapter is informational in nature and does not contain penalties. Penalties for failure to follow the rules established in this Chapter will be found in 35 RCNY Chapter 80 and 35 RCNY Chapter 58 which establish specific requirements for the Drivers ot Taxicabsand owners.
-
-
-
-
-
-
-
-
-*§ 67-03 Definitions Specific to this Chapter.* ::
-
-
-(a) Clean Air Taxicab is a Clean Air Vehicle, as defined in 35 RCNY § 51-03, that has been Hacked-Up.
-
-(b) Rooftop Advertising Fixture means a device that incorporates the functions of a Roof Light with the displaying of advertising.
-
-(c) Rooftop Advertising Fixture Provider means the entity responsible for supplying the Rooftop Advertising Fixture to the Medallion Owner and maintaining the advertising material.
-
-
-
-
-
-
-
-
-*§ 67-04 Original Verification of Taxicab Candidate as Taxicab Model.* ::
-
-
-A Taxicab Candidate must meet the technical specifications in 35 RCNY § 67-05.1A, § 67-05.1B or § 67-05.2, as well as all applicable federal and New York State motor vehicle standards and requirements, in order to become a Taxicab Model.
-
-
-
-
-
-
-
-
-*§ 67-05 Taxicab Model Choice.* ::
-
-
-(a) Unrestricted Medallions. Unrestricted Medallions may be used with the OTV, the Accessible OTV, or any Taxicab Model that complies with 35 RCNY § 67-05.1. If at any time an Unrestricted Medallion is required by law or rule of the Commission for use with an Accessible Vehicle, the owner of such medallion must purchase an Accessible OTV or lease such medallion for use with an Accessible OTV. Provided, however, that with the Chairperson’s approval, up to 496 Unrestricted Medallion owners in good standing may at any time purchase for Hack-up any Accessible Vehicle which meets the specifications set forth in 35 RCNY § 67-05.2, or lease their medallions for use with such a vehicle.
-
-(b) Alternative Fuel Medallions. Alternative Fuel Medallions may be used with any Taxicab Model that:
-
-   (1) complies with 35 RCNY § 67-05.1; and
-
-   (2) is a Hybrid Electric Vehicle or is powered by compressed natural gas that is manufactured by an original equipment manufacturer (OEM) for the general commercial or consumer market.
-
-(c) Accessible Medallions. Accessible Medallions may be used with the Accessible OTV or any Accessible Taxicab Model that complies with 35 RCNY § 67-05.2.
-
-(d) Any vehicle valid for use with any Medallion at the time the vehicle was Hacked-up can remain in use as a Taxicab until its scheduled retirement as set forth in 35 RCNY § 67-18, as may be modified by 35 RCNY § 67-19.
-
-
-
-
-
-
-
-
-*§ 67-05.1 Specifications for Non-Accessible Taxicab Candidates.* ::
-
-
-(a) Type of Vehicle. The vehicle must be a four-door model of one of the following types, and must meet all of the other requirements in this section:
-
-   (1) A compact or larger sedan.
-
-   (2) A sport utility vehicle equipped with running boards.
-
-To qualify as a Taxicab Model, a sport utility vehicle must include the manufacturer or dealer option that provides the greatest degree of light transmittance available in the rear and side rear windows, and in no case less than 20 percent light transmittance. A sport utility vehicle will be designated as a sport utility vehicle by either the manufacturer or the National Highway Traffic Safety Administration.
-
-(b) Interior Size. The vehicle must have an EPA interior volume index of at least 101.5 cubic feet. The interior volume index is calculated as described in 40 CFR § 600.315-82(b)(2), and includes luggage capacity.
-
-(c) Rear Compartment. The rear compartment of any vehicle approved for use as a Taxicab Model must meet the following dimensions as defined by the Society of Automotive Engineers:
-
-   (1) Effective legroom (L51) must be at least 34.6 inches.
-
-   (2) Effective headroom (H63) must be at least 36.8 inches.
-
-   (3) Seat depth (L16) must be at least 18 inches.
-
-(d) Front Compartment. The front compartment of any vehicle approved for use as a Taxicab Model must meet the following dimensions:
-
-   (1) Effective headroom (H61) must be at least 37.0 inches.
-
-   (2) Effective legroom (L34) must be at least 40.5 inches.
-
-   (3) Total legroom (the sum of L34 and L51) must be at least 76.2 inches.
-
-(e) Air Conditioning. The vehicle must be equipped with a factory installed air conditioning system. The system must include air conditioning outlets for the rear seat area.
-
-(f) Engine Size. The vehicle may not be equipped with an engine in which the maximum horsepower exceeds 295. The horsepower of a hybrid-electric vehicle is determined by combining the electric power and the internal combustion power of the vehicle's engine.
-
-(g) Diesel Fuel Usage. A vehicle powered by diesel fuel can be hacked up as a Taxicab if it meets the requirements of this section.
-
-(h) Windows. All windows must have a light transmittance of 70 percent or more, except for the upper 6 inches of the front windshield.
-
-(i) Manufactured for Commercial or Consumer Market. Any Vehicle that is powered by compressed natural gas that is manufactured by an original equipment manufacturer (OEM) for the general commercial or consumer market may be approved for Hack-up, provided the vehicle meets all of the standard specifications for vehicle Hackup of this 35 RCNY § 67-05.1A.
-
-(j) Vehicles used with Alternative Fuel Medallions must be a Hybrid Electric Vehicle or a vehicle powered by compressed natural gas that is manufactured by an original equipment manufacturer (OEM) for the general commercial or consumer market that otherwise meets the requirement of this section.
-
-
-
-
-
-
-
-
-*§ 67-05.1A Standard Specifications for Other Taxicab Models Effective Until Official Taxicab Vehicle Activation Date. [Repealed]* ::
-
-
-
-
-
-
-
-
-
-*§ 67-05.1B Official Taxicab Vehicle for use with Unrestricted Medallions Effective On Official Taxicab Vehicle Activation Date. [Repealed]* ::
-
-
-
-
-
-
-
-
-
-*§ 67-05.1C Specifications for Vehicles for use with Unrestricted Medallions or Alternative Fuel Medallions After the OTV Activation Date. [Repealed]* ::
-
-
-
-
-
-
-
-
-
-*§ 67-05.2 Specifications for Accessible Taxicab Candidates.* ::
-
-
-(a) An Accessible Vehicle may be approved for Hack-up if it meets all of the following conditions:
-
-   (1) It is a vehicle other than (i) a bus, (ii) a minibus, or (iii) a van, the chassis for which, as originally manufactured, is designed to seat eight or more persons.
-
-   (2) It is capable of transporting at least one passenger using a common wheelchair (as wheelchair is defined in Code of Federal Regulations, title 49, section 37.3).
-
-   (3) It does not seat more than five passengers when presented for Hack-up.
-
-   (4) It complies with the requirements in subdivisions (b) and (c) of this section and all other requirements for Hack-up in 35 RCNY § 67-05.1 that are not inconsistent with the provisions of this section.
-
-(b) The chassis of the Accessible Vehicle, as originally manufactured, must have:
-
-   (1) A maximum horsepower of 290.
-
-   (2) The original equipment manufacturer's suspension and steering components.
-
-   (3) No bumper modifications.
-
-   (4) Exception regarding bumpers: A bumper modified to allow installation of a rear-entry ramp may be approved if it satisfies either of the following:
-
-      (i) Modification by secondary manufacturer.
-
-         a. The rear bumper is reinforced.
-
-         b. The modification is approved by the vehicle manufacturer.
-
-         c. The modification meets or exceeds Federal Motor Vehicle Safety Standards crash testing requirements.
-
-         d. Any rear door lock modifications must meet the Federal Motor Vehicle Safety Standards and the lock must be attached to the chassis, not the ramp, unless a secondary lock is attached to the chassis.
-
-      (ii) Modification by other than secondary manufacturer.
-
-         a. The rear bumper is reinforced.
-
-         b. The modification is approved by the vehicle manufacturer.
-
-         c. The modification meets or exceeds Federal Motor Vehicle Safety Standards crash testing requirements.
-
-         d. The modifier must retain an engineer with at least a bachelors degree in either mechanical engineering or electrical engineering with at least 3 years' experience in automotive manufacturing to certify that each vehicle was modified using the design tested to meet or exceed Federal Motor Vehicle Safety Standards crash testing requirements.
-
-         e. A separate certification from such engineer for each vehicle must be presented when the vehicle is submitted for Hack-up.
-
-         f. Any rear door lock modifications must meet the Federal Motor Vehicle Safety Standards and the lock must be attached to the chassis, not the ramp, unless a secondary lock is attached to the chassis.
-
-(c) The Accessible Taxicab as manufactured by the original equipment manufacturer ("OEM") or as modified by an OEM-approved second-stage manufacturer must meet the following specifications:
-
-   (1) The minimum ground clearance (measured from frame, loaded to gross vehicle weight rating) must be 5 inches.
-
-   (2) (i) The minimum passenger compartment length (measured from rear of driver's seat base to rear seat base) must be 56 inches.
-
-      (ii) Exception: For an Accessible Taxicab designed to carry a Wheelchair Passenger in the front right position beside the Driver, the minimum passenger compartment length must be 38 inches.
-
-   (3) The rear compartment of any vehicle approved for use as an Accessible Taxicab Model must meet the following dimensions as defined by the Society of Automotive Engineers:
-
-      (i) Effective legroom (L51) must be at least 34.6 inches.
-
-   (4) The front compartment of any vehicle approved for use as an Accessible Taxicab Model must meet the following dimensions:
-
-      (i) Effective legroom (L34) must be at least 40 inches.
-
-   (5) Total legroom (the sum of L34 and L51) must be at least 74.6 inches.
-
-   (6) The original floor of the Accessible Vehicle, if lowered, must be lowered from the base of the firewall to the area immediately in front of the rear axle.
-
-   (7) If a lowered floor assembly is used, it must be stainless steel (16 gauge minimum) and must meet or exceed the 1,000 hour salt spray rating.
-
-   (8) If a lowered floor assembly is used, a vapor-insulating barrier of 1/2 inch marine grade plywood must be applied over the lowered metal floor and thoroughly secured.
-
-   (9) The wheelchair ramp must not block any part of the door or glass while in the stowed position.
-
-   (10) The system provided to securely hold one or more wheelchairs in place must be the system known as Q straint QRT Standard or its equal.
-
-   (11) No anchor points may project more than 1/8 of an inch above the finished floor.
-
-   (12) If the Accessible Taxicab has a middle fold-up passenger seat, it must have a folding mechanism and base plate and must meet the requirements of the Federal Motor Vehicle Safety Standard No. 207, Code of Federal Regulations, title 49, and section 571.207.
-
-   (13) Any modifications to the rear air conditioning must be approved by the OEM.
-
-   (14) Any and all electrical wiring, other than as provided by the OEM, must be PVC-or-better insulated and color-coded for positive identification.
-
-   (15) The back-up alarm must be an electrically operated device that produces an intermittent audible signal when the Accessible Vehicle's transmission is shifted into reverse.
-
-(d) Accessible Official Taxicab Vehicle ("Accessible OTV") is the OTV modified in a manner that is consistent with the City's contract with Nissan North America.
-
-
-
-
-
-
-
-
-*§ 67-06 Requirements for Hacking Up a Taxicab.* ::
-
-
-(a) Requirement. Only Taxicab Models may be Hacked-Up.
-
-(b) Putting Vehicle into Service the First Time. A Taxicab Model may be Hacked-up for use as a Taxicab, only if it:
-
-   (1) Is new, having fewer than 500 miles on the odometerand is one of the manufacturer’s two latest vehicle model years (Example: If in calendar year 2008 the manufacturer introduces the 2009 Caprice, only 2009 and 2008 Caprices may be Hacked-up); or
-
-   (2) Is a used Taxicab Model less than seven years old and passes inspection.
-
-(c) Continuation in Service. Upon Hack-up, a vehicle may continue in service with the same Medallion so long as the vehicle passes inspection and has not yet met its Scheduled Retirement Date, as set forth in 35 RCNY § 67-18, as may be extended by 35 RCNY § 67-19, below.
-
-(d) Limited Right to "Re-Hack" for Transfer. A vehicle that has been Hacked-up may be transferred to another Medallion, with the approval of the Commission, only if the vehicle passes inspection, has not yet met its Scheduled Retirement Date and meets one of the following conditions:
-
-   (1) Repossessions. The vehicle is purchased through a bank or other lender that has acquired the right to sell the vehicle through repossession and the repossession occurs within 24 months of Hack-up.
-
-   (2) Long-Term Drivers. The vehicle is owned by a Long-Term Driver who has driven the vehicle for at least five months under the existing Medallion and who will continue to be a Long-Term Driver under the new Medallion.
-
-   (3) Same Medallion Owner or Agent. The owner (or owner's Agent) of the Medallion transfers the vehicle to another Medallion operated by the same owner or agent.
-
-   (4) Compressed Natural Gas Vehicle. The owner of a Medallion (or the owner's agent) may transfer a vehicle fueled by Compressed Natural Gas to any other Medallion owned by the same owner.
-
-   (5) Transfer of Medallion and Vehicle. A vehicle which is in use with an Independent Medallion and is not at its Scheduled Retirement Date can continue in use with that Medallion following the transfer of that Medallion until its Scheduled Retirement Date if it passes all inspections and if the vehicle meets all of the following:
-
-      (i) the vehicle is acquired by a Transferee of an Independent Medallion together with that Medallion from the Transferor of that Independent Medallion and
-
-      (ii) the vehicle was operated by the Transferor of that Independent Medallion with that Medallion.
-
-(e) Re-Hack Transfer Inspection Fee. The Commission may charge an inspection fee of $50 to inspect a vehicle for transfer to another Medallion as a re-hack. If necessary, the Commission may charge $25 for replacement of New York State DMV license plates.
-
-
-
-
-
-
-
-
-*§ 67-07 Requirements for Hack-up – Paint, Finish and Lighting.* ::
-
-
-(a) Taxi Yellow. The exterior of the vehicle must be painted taxi yellow (Dupont M6284 or its equivalent), except for trim. Samples of paint color and code are to be submitted to the Commission for approval.
-
-(b) Front Design. The front of the vehicle, and especially the bumper, should be designed with strong emphasis on reducing injury to pedestrians. There must be no unnecessary projections such as rigid hood ornaments.
-
-(c) Signs. The vehicle must be provided with signs that conform to the marking specifications in 35 RCNY § 58-32(i).
-
-(d) Auxiliary Turn Signals. Suitable wiring must be provided for a pair of auxiliary turn signal lamps to be located next to the roof light. These lamps must not be activated with the brake lights.
-
-(e) Roof Light. The vehicle must be equipped with an approved Roof Light.
-
-
-
-
-
-
-*§ 67-08 Requirements for Hack-up – Occupant Accommodation.* ::
-
-
-(a) Upholstery and Trim.
-
-   (1) Must be an easy-to-clean material such as vinyl. Exception: If the vehicle manufacturer installed side airbags or a system which determines whether a seat is occupied for purposes of inflating an airbag, the upholstery must be that provided by the manufacturer.
-
-   (2) Must meet federal (MVSS) standards for flame resistance.
-
-   (3) Must have a surface suitable for mounting authorized decals.
-
-(b) Seats.
-
-   (1) A Taxicab may be equipped with either bucket or bench seats.
-
-   (2) The seats must not interfere with the partition and must meet all other Commission requirements.
-
-   (3) All replacement seats must be designed by the manufacturer for installation in the model and year of the vehicle in which the seats are installed.
-
-(c) Rear Windows. A Taxicab must be equipped with rear windows that can be opened and closed by passengers.
-
-
-
-
-
-
-*§ 67-09 Requirements for Hack-up – Taximeters.* ::
-
-
-(a) Requirement. The vehicle must be equipped with a sealed, tamper-resistant Taximeter installed by a Licensed Taximeter Business according to the rules and regulations in 35 RCNY Chapter 64. The Taximeter must be installed in a location approved by the Chairperson which permits safe operation of the vehicle and visibility to the passenger.
-
-(b) Technical Specifications. The Taximeter must meet the specifications and tolerances published in the most recent National Institute of Standards and Technology Handbook, and must be approved for use in New York by the NYS Department of Agriculture and Markets and the Commission. Any new Taximeter will be subject to a minimum three month test period before approval.
-
-(c) Other Technical Requirements.
-
-   (1) The Roof Light must be controlled by engaging the Taximeter.
-
-   (2) The Taximeter must be capable of calculating and displaying all required rates of fare.
-
-   (3) The Taximeter and all connections must be secure and tamper proof. All switches, wiring and caps must meet applicable specifications of the Society of Automotive Engineers.
-
-
-
-
-
-
-
-
-*§ 67-10 Requirements for Hack-up – Partitions.* ::
-
-
-(a) Requirement.
-
-   (1) The vehicle must be equipped with a partition that isolates the driver from the rear seat passengers or all passengers of the vehicle unless the vehicle is exempt from the partition requirement pursuant to 35 RCNY § 58-35(b).
-
-   (2) The purpose of the partition is to provide protection to the driver while ensuring passenger safety and enabling rear seat passengers to enjoy a clear and unobstructed view of the TLC Drives License, Rate Card, and front windshield.
-
-(b) Technical Specifications.
-
-   (1) The partition must extend from the ceiling to a specific point as recommended by the Chairperson and approved by the Commission, based upon the make and model of the vehicle.
-
-   (2) The transparent portion of the partition must be constructed of a mar-resistant polycarbonate not less than 0.375 inches thick that will provide passengers and drivers with maximum visibility.
-
-      (i) For a flat partition and a partition for a Taxicab with factory installed curtain airbags, the transparent portion must extend from the ceiling to join or overlap with the protective plate of the partition.
-
-      (ii) For an L shaped partition, on the side that is behind the driver, the transparent portion of the partition must extend from the ceiling to join or overlap with the protective plate of the partition. On the side that extends forward to back between the two front seats, the transparent portion of the partition must extend from the ceiling to join or overlap with the protective plate of the partition on the right side of the center console located between the two front seats.
-
-   (3) The protective plate must join or overlap with the transparent portion of the partition and extend downward to the floor of the vehicle. The protective plate must be a plate of 0.085-inch thick bullet-resistant ballistic steel or its equivalent if approved by the Deputy Commissioner for Safety and Emissions. The protective plate must be installed inside and covering the front seat's entire backrest.
-
-      (i) The protective plate must extend from the point that the transparent portion joins it downward to the floor of the Taxicab.
-
-      (ii) If the transparent portion overlaps the protective plate, the protective plate must extend from the point of joinder with the transparent portion downward to the floor of the Taxicab.
-
-      (iii) For an L shaped partition, the protective plate must also cover the right side of the center console between the two front seats.
-
-   (4) The entire protective plate of each partition must have sufficient padding to prevent injury to any rear-seat passenger in case of a Collision or sudden stopping, and all surfaces must be free of sharp and rough edges.
-
-   (5) There must be no opening or gap between the partition and the body of the vehicle larger than one inch, except for vehicles equipped with factory installed curtain airbags. In those vehicles, the partition shall allow a space of six inches on each side, sufficient to permit proper deployment of the curtain airbags.
-
-   (6) In addition to meeting all other technical specifications, a partition may be installed only if it does not impair passenger and driver safety and has the following features:
-
-      (i) Allows passengers and drivers to communicate with each other
-
-      (ii) Allows passengers in the rear passenger compartment to pay fares by cash or by credit card (if the Taxicab is capable of accepting credit card payments) and to receive receipts for payments and transactions.
-
-
-
-
-
-
-
-
-*§ 67-11 Requirements for Hack-up – Distress Signal Lights.* ::
-
-
-(a) Requirement. An owner must equip all Taxicabs with a help or distress signaling light system consisting of two turn signal type "lollipop" lights.
-
-(b) Technical Specifications.
-
-   (1) One light must be mounted on the front center of the vehicle, either on top of the bumper or forward or behind the grill. A second light must be mounted on top of the rear bumper, to the left of the license plate.
-
-   (2) Each light must be three to four inches in diameter, have a total rated output of 32 candle power, and be amber-colored or have an amber-colored lens so that the light output of the device is the color amber at 32 candle power.
-
-   (3) The activator must be installed within easy reach of the driver, must be silent when operating, and must be fully solid-state.
-
-   (4) The lights must be able to flash between 60 and 120 times per minute.
-
-   (5) The wiring must not affect or interfere with, directly or otherwise, any wiring or circuitry used by the meter for measuring time or distance.
-
-
-
-
-
-
-*§ 67-12 Requirements for Hack-up – In-Vehicle Camera System ("IVCS").* ::
-
-
-(a) Requirement. When an existing IVCS is required to be replaced or when an IVCS system is installed (including, but not limited to, at Hack-up), it must be functioning and in good working order and meet the specifications and installation requirements below.
-
-(b) Technical Specifications.
-
-   (1) The IVCS must be connected to the vehicle battery, and the fuse for the connection must be concealed in a tamper-resistant housing.
-
-   (2) Wiring between the recording unit and the camera head must use at either end, tamper-resistant registered jack (RJ) style connectors.
-
-   (3) All electrical connections and wiring must be protected from spikes and dips in vehicle voltage.
-
-   (4) The camera head housing and brackets must be tamper-proof and securely mounted to the right of the rear view mirror. The installation must provide unobstructed vision for the driver.
-
-   (5) The camera's field of view must include the full face of all occupants seated in passenger seats and facing forward.
-
-   (6) Images must be recorded and stored in a unit separate from the camera head.
-
-   (7) The recording unit must be concealed from view and fastened securely with tamper-resistant hardware.
-
-   (8) The IVCS must provide a visual indication of system status that is located on the lower left portion of the dashboard and is visible to the driver and to law enforcement personnel inspecting the vehicle from outside of the driver door.
-
-   (9) The IVCS and components must be sufficiently shock-resistant to withstand typical vehicle movement and collisions.
-
-   (10) The IVCS must have an RS-232 connection or other means for secure image retrieval.
-
-   (11) Images must be sharp, undistorted, and clear enough to enable the viewer to identify all passengers under all lighting conditions, including, for example, dark and bright light, daylight, and backlight.
-
-   (12) Sensor resolution must be, at a minimum, 510 by 480 pixels.
-
-   (13) Storage capacity must be, at a minimum, 7,000 images in an encrypted format, and all access to the storage unit must result in the storage of an electronic "tag" including the installer identification number and date of the event.
-
-   (14) The IVCS must have connection ports for a minimum of two (2) cameras.
-
-   (15) The IVCS must have an event flag or panic button accessible to the driver and located in an inconspicuous location.
-
-   (16) The IVCS must record images and the following information for each image:
-
-      (i) Date and time
-
-      (ii) Taxicab Medallion number
-
-      (iii) IVCS serial number
-
-      (iv) IVCS indicator for event flags.
-
-   (17) Image capture must be linked to the following events:
-
-      (i) Vehicle door openings and closings
-
-      (ii) Meter engagement
-
-      (iii) Event flag button activation
-
-      (iv) Event flag in the test mode when the image(s) are recorded for inspection and test purposes
-
-      (v) Panic button activation.
-
-   (18) In the event of a panic button activation, systems must record to protected memory a total of three events. The recording must include, at a minimum, the 2.5 minutes immediately before and after the button activation, at one frame per second.
-
-   (19) Image access may be provided only to law-enforcement agencies, including the New York City Police Department.
-
-   (20) If the IVCS has a physical port for secure image retrieval, the port must be located on the right side of the dashboard or in the trunk, installed inconspicuously, and accessible to law enforcement personnel.
-
-   (21) When memory storage capacity is reached, the IVCS must overwrite the oldest images as new images are recorded in sequence.
-
-   (22) Installations and repairs of IVCS may be performed only by installers authorized by the manufacturer and currently licensed by the Department of Consumer Affairs. Installations and repairs may also be performed by Taximeter Businesses currently licensed by the Commission pursuant to chapter 14 of this title.
-
-   (23) A notarized affidavit signed by a manufacturer's authorized installer attesting to the proper functionality of the IVCS must be provided to the Commission by the authorized installer: (i) annually, and (ii) within 14 calendar days after any installation, repair, or modification of the IVCS.
-
-
-
-
-
-
-*§ 67-13 Requirements for Hack-up – Credential Holders.* ::
-
-
-(a) Requirement. A credential holder must be mounted behind the driver in the vehicle in a manner that does not block the driver's view. The holder will be on the partition if there is a partition, or on the headrest if there is no partition.
-
-(b) Technical Specifications. A credential holder frame mounted on the driver's side of the clear portion of the partition must conform to the following:
-
-   (1) Be approved by the Commission.
-
-   (2) Be secured by either rivet or screw at least two inches above the frame supporting the clear portion of the partition and centered on the vehicle's steering column or the headrest on the driver's seat facing the rear passenger's compartment.
-
-   (3) The frame must have a drop-in or slide-in slot accessible only from the driver's compartment for the rate card and the driver's license.
-
-   (4) The frame must have sufficient illumination so that the rate card and the driver's license are clearly visible from the rear seat after dark.
-
-   (5) The frame must be sufficiently padded so as not to cause injury to the driver.
-
-
-
-
-
-
-*§ 67-14 Requirements for Hack-up – Air Conditioning.* ::
-
-
-(a) Requirement. All vehicles must be equipped with an air conditioner. The air conditioner must be in good working condition from May 1st through September 30th each year. In vehicles equipped with a partition, the air conditioner must include an auxiliary unit for the rear seating area.
-
-(b) Technical Specifications.
-
-   (1) The auxiliary unit must be either standard equipment or optional equipment built into the vehicle by the vehicle manufacturer.
-
-   (2) The auxiliary unit must have controls that passengers may operate in the rear passenger area.
-
-
-
-
-
-
-*§ 67-15 Requirements for Hack-up – Technology System.* ::
-
-
-(a) Technology System. Every Taxicab must be equipped with Technology System from a licensed Technology System Provider.
-
-
-
-
-
-
-
-
-*§ 67-16 Authorized Rooftop Advertising Fixture.* ::
-
-
-(a) Authorized Rooftop Advertising Fixture.
-
-   (1) Upon payment of an annual Advertising Permit Fee as described in 35 RCNY § 58-07(g), a Medallion Owner may install and maintain an authorized Rooftop Advertising Fixture.
-
-   (2) A Medallion Owner must not install or maintain a Rooftop Advertising Fixture that is not authorized, or no longer authorized, by TLC.
-
-(b) Grandfathered Authorized Rooftop Advertising Fixtures. A Rooftop Advertising Fixture that is authorized by a Memorandum of Understanding between the Rooftop Advertising Fixture Provider and the TLC that is in effect on August 30, 2011 and was installed in accordance with these rules shall be deemed to comply with the requirements of these rules.
-
-(c) Requirements for Obtaining TLC Approval of a Rooftop Advertising Fixture.
-
-   (1) The Rooftop Advertising Fixture must be tested and certified in accordance with the Department of Defense Test Standard MIL-STD 810f by a licensed Professional Engineer and documentation of testing and certification must be submitted to TLC. (MIL-STD 810f can be found at http://www.dtc.army.mil/navigator.)
-
-   (2) The Rooftop Advertising Fixture must be approved by TLC's Safety and Emissions Division.
-
-   (3) The Rooftop Advertising Fixture Provider may post advertisements on the Rooftop Advertising Fixture. Such advertisements:
-
-      (i) must not exceed the physical dimensions of the advertising display surface of the rooftop unit.
-
-      (ii) Exception: An advertisement can exceed the dimensions of the advertising display surface of the rooftop unit by no more than 100 square inches if the certification by a Professional Engineer as required in paragraph one of this subdivision specifically states that the extension is safely supported upon the Rooftop Advertising Fixture.
-
-   (4) The Rooftop Advertising Fixture must:
-
-      (i) be two-sided, each side of a shape that is longer across and shorter in height, although not necessarily a rectangle;
-
-      (ii) display advertising material to the sides of the vehicle, and
-
-      (iii) not display advertising material to the front and back of the vehicle.
-
-   (5) Variation in approved design.
-
-      (i) If the Rooftop Advertising Fixture Provider wants to deviate from an approved design, it must inform the TLC of any material variation in the original, approved design before installing a modified fixture.
-
-      (ii) The TLC shall, within fourteen (14) business days, inform the Rooftop Advertising Fixture Provider whether an additional authorization is required with respect to the modified Rooftop Advertising Fixture.
-
-(d) Maintenance of Rooftop Advertising Fixture. The Rooftop Advertising Fixture Provider must maintain the Rooftop Advertising Fixture in accordance with this Rule:
-
-   (1) The Rooftop Advertising Fixture Provider must ensure that the Rooftop Advertising Fixture:
-
-      (i) is firmly affixed to each taxicab;
-
-      (ii) is otherwise operating in a safe manner;
-
-      (iii) is in good working order; this includes that the advertising displayed on the fixture is firmly affixed; and
-
-      (iv) displays current advertisements. A current advertisement is one that includes, but is not limited to, a defined event (such as advertisements for movies, concerts or events which have fixed opening or running dates) and only remains current until 60 days following the completion or termination of the event, or promotes an existing business or consumer product.
-
-   (2) (i) The Rooftop Advertising Fixture Provider must not display advertising that is offensive to public morals or is otherwise in violation of New York Penal Law Section 245.11.
-
-      (ii) The Rooftop Advertising Fixture Provider must remove any advertising in violation of subparagraph (i) from public display within fifteen (15) days after a TLC request to remove such advertising.
-
-(e) Termination of Authorization of Rooftop Advertising Fixture.
-
-   (1) The Chairperson may terminate authorization of a Rooftop Advertising Fixture if the provider has not complied with the requirements stated in this Rule.
-
-      (i) Prior to terminating authorization, the Chairperson will give the Rooftop Advertising Fixture Provider notice of the Chairperson's intent to terminate authorization and shall provide detailed reasons for the action.
-
-      (ii) The Rooftop Advertising Fixture Provider shall have 21 business days after the notice to cure any defect or to respond to any concerns set forth in the notice unless the TLC extends the cure period.
-
-      (iii) If the Rooftop Advertising Fixture Provider fails to cure any defect or fail to respond to any concerns set forth in the Chairperson's notice to the satisfaction of the Chairperson within the time period allotted by the TLC, the Chairperson may promptly terminate authorization.
-
-   (2) Notwithstanding the notice requirements of paragraph one, TLC may immediately terminate authorization of a Rooftop Advertising Fixture if the Chairperson determines there is an imminent threat to the health or safety of members of the public, taxi drivers, or other individuals.
-
-
-
-
-
-
-*§ 67-17 [Reserved]* ::
-
-
-(a) New Vehicles. All vehicles Hacked-up as new vehicles pursuant to 35 RCNY § 67-06(b)(1) must be retired from Taxicab service and replaced no later than the first scheduled inspection of the vehicle occurring 84 months after the vehicle was Hacked-up.
-
-(b) Used Vehicles. All vehicles Hacked-up as used vehicles pursuant to 35 RCNY § 67-06(b)(2) must be retired from Taxicab service and replaced no later than the first scheduled inspection of the vehicle occurring 84 months after the vehicle was Hacked-up, less the age of the vehicle as determined by the difference between the calendar year at Hack-up and the model year of the vehicle. For example, a used 2015 model year vehicle that was hacked up in 2018 is three years old and must be retired from Taxicab service and replaced no later than the first scheduled inspection of the vehicle occurring 48 months after the vehicle was Hacked-up.
-
-
-
-
-
-
-
-
-*§ 67-19 Vehicle Retirement Extensions.* ::
-
-
-(a) Hardship Extension. The owner of a Taxicab may apply to the Chairperson for an extension of up to 12 months from the Scheduled Retirement Date. To obtain approval of a hardship extension:
-
-   (1) The vehicle owner must demonstrate an economic or other personal hardship that the Chairperson determines would create an undue burden upon the owner if the extension were not granted.
-
-   (2) The vehicle owner must submit a request in writing, together with any supporting documentation, to the Chairperson at least 30 days before the Scheduled Retirement Date. This 30-day deadline may be waived by the Chairperson upon a showing of good cause.
-
-   (3) The vehicle must continue to meet all safety and emission requirements throughout the extension. The Chairperson shall withdraw any extension granted whenever the vehicle is determined by the Commission to be unsafe for operation.
-
-(b) Compressed Natural Gas Extension. An automatic 24-month extension is granted to any Taxicab vehicle that meets the following requirements:
-
-   (1) The vehicle was Hacked-up between March 1, 1996 and April 17, 2007.
-
-   (2) The vehicle was dedicated to operating on compressed natural gas (with a maximum reserve gas tank of five gallons) within six months after Hack-up.
-
-   (3) The vehicle has remained dedicated to operating on compressed natural gas thereafter and throughout its operation.
-
-(c) Minivan Extension.
-
-   (1) Any minivan approved for use as a Taxicab by the Commission that was Hacked-up between March 1, 1996 and April 17, 2007 will have its Scheduled Retirement Date extended as follows:
-
-      (i) By 12 additional months of Taxicab service if double-shifted and not driven by at least one long-term driver
-
-      (ii) By 18 additional months of Taxicab service under other conditions
-
-   (2) A Taxicab whose Scheduled Retirement Date has been extended in accordance with the provisions of this section is not eligible for the extended vehicle lifetime provided for Clean Air and Accessible Taxicabs described in 35 RCNY § 67-19(d) below.
-
-(d) Clean Air and Accessible Taxicab Extensions, Vehicles Hacked-up Prior to 4/20/15.
-
-   (1) Extensions of 36-Month Retirement Schedule. The regular 36-Month Retirement Schedule for any Level I or Level II Clean Air Taxicab or any Accessible Taxicab is extended by 12 months.
-
-   (2) Extensions of 60-Month Retirement Schedule: Accessible or Level I Clean Air. The regular 60-Month Retirement Schedule for any Level I Clean Air Taxicab or any Accessible Taxicab is extended by 24 months.
-
-   (3) Extensions of 60-Month Retirement Schedule: Level II Clean Air. The regular 60-Month Retirement Schedule for any Level II Clean Air Taxicab is extended by 12 months.
-
-(e) Final Retirement Date. A vehicle which cannot pass inspection must be replaced, regardless of whether its Scheduled Retirement Date has been reached. A vehicle that has reached its Scheduled Retirement Date, including any extensions provided for in this section, must be retired regardless of whether it may still pass inspection.
-
-
-
-
-
-
 Chapter 66: Licensing &amp; Rules for Technology System Providers
 --------------------------------------------------
 
@@ -31398,6 +30718,681 @@ No Technology System will be approved by the Commission pursuant to this Chapter
 
 
 
+Chapter 67: Rules For Taxicab Hack-up and Maintenance
+--------------------------------------------------
+
+
+
+*§ 67-01 Scope of this Chapter.* ::
+
+
+(a) To establish the standards and requirements for preparing a vehicle for Taxicab Licensing, and
+
+(b) To establish the standards and requirements for Taxicab maintenance, inspection and retirement.
+
+
+
+
+
+
+*§ 67-02 Penalties.* ::
+
+
+(a) This Chapter is informational in nature and does not contain penalties. Penalties for failure to follow the rules established in this Chapter will be found in 35 RCNY Chapter 80 and 35 RCNY Chapter 58 which establish specific requirements for the Drivers ot Taxicabsand owners.
+
+
+
+
+
+
+
+
+*§ 67-03 Definitions Specific to this Chapter.* ::
+
+
+(a) Clean Air Taxicab is a Clean Air Vehicle, as defined in 35 RCNY § 51-03, that has been Hacked-Up.
+
+(b) Rooftop Advertising Fixture means a device that incorporates the functions of a Roof Light with the displaying of advertising.
+
+(c) Rooftop Advertising Fixture Provider means the entity responsible for supplying the Rooftop Advertising Fixture to the Medallion Owner and maintaining the advertising material.
+
+
+
+
+
+
+
+
+*§ 67-04 Original Verification of Taxicab Candidate as Taxicab Model.* ::
+
+
+A Taxicab Candidate must meet the technical specifications in 35 RCNY § 67-05.1A, § 67-05.1B or § 67-05.2, as well as all applicable federal and New York State motor vehicle standards and requirements, in order to become a Taxicab Model.
+
+
+
+
+
+
+
+
+*§ 67-05 Taxicab Model Choice.* ::
+
+
+(a) Unrestricted Medallions. Unrestricted Medallions may be used with the OTV, the Accessible OTV, or any Taxicab Model that complies with 35 RCNY § 67-05.1. If at any time an Unrestricted Medallion is required by law or rule of the Commission for use with an Accessible Vehicle, the owner of such medallion must purchase an Accessible OTV or lease such medallion for use with an Accessible OTV. Provided, however, that with the Chairperson’s approval, up to 496 Unrestricted Medallion owners in good standing may at any time purchase for Hack-up any Accessible Vehicle which meets the specifications set forth in 35 RCNY § 67-05.2, or lease their medallions for use with such a vehicle.
+
+(b) Alternative Fuel Medallions. Alternative Fuel Medallions may be used with any Taxicab Model that:
+
+   (1) complies with 35 RCNY § 67-05.1; and
+
+   (2) is a Hybrid Electric Vehicle or is powered by compressed natural gas that is manufactured by an original equipment manufacturer (OEM) for the general commercial or consumer market.
+
+(c) Accessible Medallions. Accessible Medallions may be used with the Accessible OTV or any Accessible Taxicab Model that complies with 35 RCNY § 67-05.2.
+
+(d) Any vehicle valid for use with any Medallion at the time the vehicle was Hacked-up can remain in use as a Taxicab until its scheduled retirement as set forth in 35 RCNY § 67-18, as may be modified by 35 RCNY § 67-19.
+
+
+
+
+
+
+
+
+*§ 67-05.1 Specifications for Non-Accessible Taxicab Candidates.* ::
+
+
+(a) Type of Vehicle. The vehicle must be a four-door model of one of the following types, and must meet all of the other requirements in this section:
+
+   (1) A compact or larger sedan.
+
+   (2) A sport utility vehicle equipped with running boards.
+
+To qualify as a Taxicab Model, a sport utility vehicle must include the manufacturer or dealer option that provides the greatest degree of light transmittance available in the rear and side rear windows, and in no case less than 20 percent light transmittance. A sport utility vehicle will be designated as a sport utility vehicle by either the manufacturer or the National Highway Traffic Safety Administration.
+
+(b) Interior Size. The vehicle must have an EPA interior volume index of at least 101.5 cubic feet. The interior volume index is calculated as described in 40 C.F.R. § 600.315-82(b)(2), and includes luggage capacity.
+
+(c) Rear Compartment. The rear compartment of any vehicle approved for use as a Taxicab Model must meet the following dimensions as defined by the Society of Automotive Engineers:
+
+   (1) Effective legroom (L51) must be at least 34.6 inches.
+
+   (2) Effective headroom (H63) must be at least 36.8 inches.
+
+   (3) Seat depth (L16) must be at least 18 inches.
+
+(d) Front Compartment. The front compartment of any vehicle approved for use as a Taxicab Model must meet the following dimensions:
+
+   (1) Effective headroom (H61) must be at least 37.0 inches.
+
+   (2) Effective legroom (L34) must be at least 40.5 inches.
+
+   (3) Total legroom (the sum of L34 and L51) must be at least 76.2 inches.
+
+(e) Air Conditioning. The vehicle must be equipped with a factory installed air conditioning system. The system must include air conditioning outlets for the rear seat area.
+
+(f) Engine Size. The vehicle may not be equipped with an engine in which the maximum horsepower exceeds 295. The horsepower of a hybrid-electric vehicle is determined by combining the electric power and the internal combustion power of the vehicle's engine.
+
+(g) Diesel Fuel Usage. A vehicle powered by diesel fuel can be hacked up as a Taxicab if it meets the requirements of this section.
+
+(h) Windows. All windows must have a light transmittance of 70 percent or more, except for the upper 6 inches of the front windshield.
+
+(i) Manufactured for Commercial or Consumer Market. Any Vehicle that is powered by compressed natural gas that is manufactured by an original equipment manufacturer (OEM) for the general commercial or consumer market may be approved for Hack-up, provided the vehicle meets all of the standard specifications for vehicle Hackup of this 35 RCNY § 67-05.1A.
+
+(j) Vehicles used with Alternative Fuel Medallions must be a Hybrid Electric Vehicle or a vehicle powered by compressed natural gas that is manufactured by an original equipment manufacturer (OEM) for the general commercial or consumer market that otherwise meets the requirement of this section.
+
+
+
+
+
+
+
+
+*§ 67-05.1A Standard Specifications for Other Taxicab Models Effective Until Official Taxicab Vehicle Activation Date. [Repealed]* ::
+
+
+
+
+
+
+
+
+
+*§ 67-05.1B Official Taxicab Vehicle for use with Unrestricted Medallions Effective On Official Taxicab Vehicle Activation Date. [Repealed]* ::
+
+
+
+
+
+
+
+
+
+*§ 67-05.1C Specifications for Vehicles for use with Unrestricted Medallions or Alternative Fuel Medallions After the OTV Activation Date. [Repealed]* ::
+
+
+
+
+
+
+
+
+
+*§ 67-05.2 Specifications for Accessible Taxicab Candidates.* ::
+
+
+(a) An Accessible Vehicle may be approved for Hack-up if it meets all of the following conditions:
+
+   (1) It is a vehicle other than (i) a bus, (ii) a minibus, or (iii) a van, the chassis for which, as originally manufactured, is designed to seat eight or more persons.
+
+   (2) It is capable of transporting at least one passenger using a common wheelchair (as wheelchair is defined in Code of Federal Regulations, title 49, section 37.3).
+
+   (3) It does not seat more than five passengers when presented for Hack-up.
+
+   (4) It complies with the requirements in subdivisions (b) and (c) of this section and all other requirements for Hack-up in 35 RCNY § 67-05.1 that are not inconsistent with the provisions of this section.
+
+(b) The chassis of the Accessible Vehicle, as originally manufactured, must have:
+
+   (1) A maximum horsepower of 290.
+
+   (2) The original equipment manufacturer's suspension and steering components.
+
+   (3) No bumper modifications.
+
+   (4) Exception regarding bumpers: A bumper modified to allow installation of a rear-entry ramp may be approved if it satisfies either of the following:
+
+      (i) Modification by secondary manufacturer.
+
+         a. The rear bumper is reinforced.
+
+         b. The modification is approved by the vehicle manufacturer.
+
+         c. The modification meets or exceeds Federal Motor Vehicle Safety Standards crash testing requirements.
+
+         d. Any rear door lock modifications must meet the Federal Motor Vehicle Safety Standards and the lock must be attached to the chassis, not the ramp, unless a secondary lock is attached to the chassis.
+
+      (ii) Modification by other than secondary manufacturer.
+
+         a. The rear bumper is reinforced.
+
+         b. The modification is approved by the vehicle manufacturer.
+
+         c. The modification meets or exceeds Federal Motor Vehicle Safety Standards crash testing requirements.
+
+         d. The modifier must retain an engineer with at least a bachelors degree in either mechanical engineering or electrical engineering with at least 3 years' experience in automotive manufacturing to certify that each vehicle was modified using the design tested to meet or exceed Federal Motor Vehicle Safety Standards crash testing requirements.
+
+         e. A separate certification from such engineer for each vehicle must be presented when the vehicle is submitted for Hack-up.
+
+         f. Any rear door lock modifications must meet the Federal Motor Vehicle Safety Standards and the lock must be attached to the chassis, not the ramp, unless a secondary lock is attached to the chassis.
+
+(c) The Accessible Taxicab as manufactured by the original equipment manufacturer ("OEM") or as modified by an OEM-approved second-stage manufacturer must meet the following specifications:
+
+   (1) The minimum ground clearance (measured from frame, loaded to gross vehicle weight rating) must be 5 inches.
+
+   (2) (i) The minimum passenger compartment length (measured from rear of driver's seat base to rear seat base) must be 56 inches.
+
+      (ii) Exception: For an Accessible Taxicab designed to carry a Wheelchair Passenger in the front right position beside the Driver, the minimum passenger compartment length must be 38 inches.
+
+   (3) The rear compartment of any vehicle approved for use as an Accessible Taxicab Model must meet the following dimensions as defined by the Society of Automotive Engineers:
+
+      (i) Effective legroom (L51) must be at least 34.6 inches.
+
+   (4) The front compartment of any vehicle approved for use as an Accessible Taxicab Model must meet the following dimensions:
+
+      (i) Effective legroom (L34) must be at least 40 inches.
+
+   (5) Total legroom (the sum of L34 and L51) must be at least 74.6 inches.
+
+   (6) The original floor of the Accessible Vehicle, if lowered, must be lowered from the base of the firewall to the area immediately in front of the rear axle.
+
+   (7) If a lowered floor assembly is used, it must be stainless steel (16 gauge minimum) and must meet or exceed the 1,000 hour salt spray rating.
+
+   (8) If a lowered floor assembly is used, a vapor-insulating barrier of 1/2 inch marine grade plywood must be applied over the lowered metal floor and thoroughly secured.
+
+   (9) The wheelchair ramp must not block any part of the door or glass while in the stowed position.
+
+   (10) The system provided to securely hold one or more wheelchairs in place must be the system known as Q straint QRT Standard or its equal.
+
+   (11) No anchor points may project more than 1/8 of an inch above the finished floor.
+
+   (12) If the Accessible Taxicab has a middle fold-up passenger seat, it must have a folding mechanism and base plate and must meet the requirements of the Federal Motor Vehicle Safety Standard No. 207, Code of Federal Regulations, title 49, and section 571.207.
+
+   (13) Any modifications to the rear air conditioning must be approved by the OEM.
+
+   (14) Any and all electrical wiring, other than as provided by the OEM, must be PVC-or-better insulated and color-coded for positive identification.
+
+   (15) The back-up alarm must be an electrically operated device that produces an intermittent audible signal when the Accessible Vehicle's transmission is shifted into reverse.
+
+(d) Accessible Official Taxicab Vehicle ("Accessible OTV") is the OTV modified in a manner that is consistent with the City's contract with Nissan North America.
+
+
+
+
+
+
+
+
+*§ 67-06 Requirements for Hacking Up a Taxicab.* ::
+
+
+(a) Requirement. Only Taxicab Models may be Hacked-Up.
+
+(b) Putting Vehicle into Service the First Time. A Taxicab Model may be Hacked-up for use as a Taxicab, only if it:
+
+   (1) Is new, having fewer than 500 miles on the odometerand is one of the manufacturer’s two latest vehicle model years (Example: If in calendar year 2008 the manufacturer introduces the 2009 Caprice, only 2009 and 2008 Caprices may be Hacked-up); or
+
+   (2) Is a used Taxicab Model less than seven years old and passes inspection.
+
+(c) Continuation in Service. Upon Hack-up, a vehicle may continue in service with the same Medallion so long as the vehicle passes inspection and has not yet met its Scheduled Retirement Date, as set forth in 35 RCNY § 67-18, as may be extended by 35 RCNY § 67-19, below.
+
+(d) Limited Right to "Re-Hack" for Transfer. A vehicle that has been Hacked-up may be transferred to another Medallion, with the approval of the Commission, only if the vehicle passes inspection, has not yet met its Scheduled Retirement Date and meets one of the following conditions:
+
+   (1) Repossessions. The vehicle is purchased through a bank or other lender that has acquired the right to sell the vehicle through repossession and the repossession occurs within 24 months of Hack-up.
+
+   (2) Long-Term Drivers. The vehicle is owned by a Long-Term Driver who has driven the vehicle for at least five months under the existing Medallion and who will continue to be a Long-Term Driver under the new Medallion.
+
+   (3) Same Medallion Owner or Agent. The owner (or owner's Agent) of the Medallion transfers the vehicle to another Medallion operated by the same owner or agent.
+
+   (4) Compressed Natural Gas Vehicle. The owner of a Medallion (or the owner's agent) may transfer a vehicle fueled by Compressed Natural Gas to any other Medallion owned by the same owner.
+
+   (5) Transfer of Medallion and Vehicle. A vehicle which is in use with an Independent Medallion and is not at its Scheduled Retirement Date can continue in use with that Medallion following the transfer of that Medallion until its Scheduled Retirement Date if it passes all inspections and if the vehicle meets all of the following:
+
+      (i) the vehicle is acquired by a Transferee of an Independent Medallion together with that Medallion from the Transferor of that Independent Medallion and
+
+      (ii) the vehicle was operated by the Transferor of that Independent Medallion with that Medallion.
+
+(e) Re-Hack Transfer Inspection Fee. The Commission may charge an inspection fee of $50 to inspect a vehicle for transfer to another Medallion as a re-hack. If necessary, the Commission may charge $25 for replacement of New York State DMV license plates.
+
+
+
+
+
+
+
+
+*§ 67-07 Requirements for Hack-up – Paint, Finish and Lighting.* ::
+
+
+(a) Taxi Yellow. The exterior of the vehicle must be painted taxi yellow (Dupont M6284 or its equivalent), except for trim. Samples of paint color and code are to be submitted to the Commission for approval.
+
+(b) Front Design. The front of the vehicle, and especially the bumper, should be designed with strong emphasis on reducing injury to pedestrians. There must be no unnecessary projections such as rigid hood ornaments.
+
+(c) Signs. The vehicle must be provided with signs that conform to the marking specifications in 35 RCNY § 58-32(i).
+
+(d) Auxiliary Turn Signals. Suitable wiring must be provided for a pair of auxiliary turn signal lamps to be located next to the roof light. These lamps must not be activated with the brake lights.
+
+(e) Roof Light. The vehicle must be equipped with an approved Roof Light.
+
+
+
+
+
+
+*§ 67-08 Requirements for Hack-up – Occupant Accommodation.* ::
+
+
+(a) Upholstery and Trim.
+
+   (1) Must be an easy-to-clean material such as vinyl. Exception: If the vehicle manufacturer installed side airbags or a system which determines whether a seat is occupied for purposes of inflating an airbag, the upholstery must be that provided by the manufacturer.
+
+   (2) Must meet federal (MVSS) standards for flame resistance.
+
+   (3) Must have a surface suitable for mounting authorized decals.
+
+(b) Seats.
+
+   (1) A Taxicab may be equipped with either bucket or bench seats.
+
+   (2) The seats must not interfere with the partition and must meet all other Commission requirements.
+
+   (3) All replacement seats must be designed by the manufacturer for installation in the model and year of the vehicle in which the seats are installed.
+
+(c) Rear Windows. A Taxicab must be equipped with rear windows that can be opened and closed by passengers.
+
+
+
+
+
+
+*§ 67-09 Requirements for Hack-up – Taximeters.* ::
+
+
+(a) Requirement. The vehicle must be equipped with a sealed, tamper-resistant Taximeter installed by a Licensed Taximeter Business according to the rules and regulations in 35 RCNY Chapter 64. The Taximeter must be installed in a location approved by the Chairperson which permits safe operation of the vehicle and visibility to the passenger.
+
+(b) Technical Specifications. The Taximeter must meet the specifications and tolerances published in the most recent National Institute of Standards and Technology Handbook, and must be approved for use in New York by the NYS Department of Agriculture and Markets and the Commission. Any new Taximeter will be subject to a minimum three month test period before approval.
+
+(c) Other Technical Requirements.
+
+   (1) The Roof Light must be controlled by engaging the Taximeter.
+
+   (2) The Taximeter must be capable of calculating and displaying all required rates of fare.
+
+   (3) The Taximeter and all connections must be secure and tamper proof. All switches, wiring and caps must meet applicable specifications of the Society of Automotive Engineers.
+
+
+
+
+
+
+
+
+*§ 67-10 Requirements for Hack-up – Partitions.* ::
+
+
+(a) Requirement.
+
+   (1) The vehicle must be equipped with a partition that isolates the driver from the rear seat passengers or all passengers of the vehicle unless the vehicle is exempt from the partition requirement pursuant to 35 RCNY § 58-35(b).
+
+   (2) The purpose of the partition is to provide protection to the driver while ensuring passenger safety and enabling rear seat passengers to enjoy a clear and unobstructed view of the TLC Drives License, Rate Card, and front windshield.
+
+(b) Technical Specifications.
+
+   (1) The partition must extend from the ceiling to a specific point as recommended by the Chairperson and approved by the Commission, based upon the make and model of the vehicle.
+
+   (2) The transparent portion of the partition must be constructed of a mar-resistant polycarbonate not less than 0.375 inches thick that will provide passengers and drivers with maximum visibility.
+
+      (i) For a flat partition and a partition for a Taxicab with factory installed curtain airbags, the transparent portion must extend from the ceiling to join or overlap with the protective plate of the partition.
+
+      (ii) For an L shaped partition, on the side that is behind the driver, the transparent portion of the partition must extend from the ceiling to join or overlap with the protective plate of the partition. On the side that extends forward to back between the two front seats, the transparent portion of the partition must extend from the ceiling to join or overlap with the protective plate of the partition on the right side of the center console located between the two front seats.
+
+   (3) The protective plate must join or overlap with the transparent portion of the partition and extend downward to the floor of the vehicle. The protective plate must be a plate of 0.085-inch thick bullet-resistant ballistic steel or its equivalent if approved by the Deputy Commissioner for Safety and Emissions. The protective plate must be installed inside and covering the front seat's entire backrest.
+
+      (i) The protective plate must extend from the point that the transparent portion joins it downward to the floor of the Taxicab.
+
+      (ii) If the transparent portion overlaps the protective plate, the protective plate must extend from the point of joinder with the transparent portion downward to the floor of the Taxicab.
+
+      (iii) For an L shaped partition, the protective plate must also cover the right side of the center console between the two front seats.
+
+   (4) The entire protective plate of each partition must have sufficient padding to prevent injury to any rear-seat passenger in case of a Collision or sudden stopping, and all surfaces must be free of sharp and rough edges.
+
+   (5) There must be no opening or gap between the partition and the body of the vehicle larger than one inch, except for vehicles equipped with factory installed curtain airbags. In those vehicles, the partition shall allow a space of six inches on each side, sufficient to permit proper deployment of the curtain airbags.
+
+   (6) In addition to meeting all other technical specifications, a partition may be installed only if it does not impair passenger and driver safety and has the following features:
+
+      (i) Allows passengers and drivers to communicate with each other
+
+      (ii) Allows passengers in the rear passenger compartment to pay fares by cash or by credit card (if the Taxicab is capable of accepting credit card payments) and to receive receipts for payments and transactions.
+
+
+
+
+
+
+
+
+*§ 67-11 Requirements for Hack-up – Distress Signal Lights.* ::
+
+
+(a) Requirement. An owner must equip all Taxicabs with a help or distress signaling light system consisting of two turn signal type "lollipop" lights.
+
+(b) Technical Specifications.
+
+   (1) One light must be mounted on the front center of the vehicle, either on top of the bumper or forward or behind the grill. A second light must be mounted on top of the rear bumper, to the left of the license plate.
+
+   (2) Each light must be three to four inches in diameter, have a total rated output of 32 candle power, and be amber-colored or have an amber-colored lens so that the light output of the device is the color amber at 32 candle power.
+
+   (3) The activator must be installed within easy reach of the driver, must be silent when operating, and must be fully solid-state.
+
+   (4) The lights must be able to flash between 60 and 120 times per minute.
+
+   (5) The wiring must not affect or interfere with, directly or otherwise, any wiring or circuitry used by the meter for measuring time or distance.
+
+
+
+
+
+
+*§ 67-12 Requirements for Hack-up – In-Vehicle Camera System ("IVCS").* ::
+
+
+(a) Requirement. When an existing IVCS is required to be replaced or when an IVCS system is installed (including, but not limited to, at Hack-up), it must be functioning and in good working order and meet the specifications and installation requirements below.
+
+(b) Technical Specifications.
+
+   (1) The IVCS must be connected to the vehicle battery, and the fuse for the connection must be concealed in a tamper-resistant housing.
+
+   (2) Wiring between the recording unit and the camera head must use at either end, tamper-resistant registered jack (RJ) style connectors.
+
+   (3) All electrical connections and wiring must be protected from spikes and dips in vehicle voltage.
+
+   (4) The camera head housing and brackets must be tamper-proof and securely mounted to the right of the rear view mirror. The installation must provide unobstructed vision for the driver.
+
+   (5) The camera's field of view must include the full face of all occupants seated in passenger seats and facing forward.
+
+   (6) Images must be recorded and stored in a unit separate from the camera head.
+
+   (7) The recording unit must be concealed from view and fastened securely with tamper-resistant hardware.
+
+   (8) The IVCS must provide a visual indication of system status that is located on the lower left portion of the dashboard and is visible to the driver and to law enforcement personnel inspecting the vehicle from outside of the driver door.
+
+   (9) The IVCS and components must be sufficiently shock-resistant to withstand typical vehicle movement and collisions.
+
+   (10) The IVCS must have an RS-232 connection or other means for secure image retrieval.
+
+   (11) Images must be sharp, undistorted, and clear enough to enable the viewer to identify all passengers under all lighting conditions, including, for example, dark and bright light, daylight, and backlight.
+
+   (12) Sensor resolution must be, at a minimum, 510 by 480 pixels.
+
+   (13) Storage capacity must be, at a minimum, 7,000 images in an encrypted format, and all access to the storage unit must result in the storage of an electronic "tag" including the installer identification number and date of the event.
+
+   (14) The IVCS must have connection ports for a minimum of two (2) cameras.
+
+   (15) The IVCS must have an event flag or panic button accessible to the driver and located in an inconspicuous location.
+
+   (16) The IVCS must record images and the following information for each image:
+
+      (i) Date and time
+
+      (ii) Taxicab Medallion number
+
+      (iii) IVCS serial number
+
+      (iv) IVCS indicator for event flags.
+
+   (17) Image capture must be linked to the following events:
+
+      (i) Vehicle door openings and closings
+
+      (ii) Meter engagement
+
+      (iii) Event flag button activation
+
+      (iv) Event flag in the test mode when the image(s) are recorded for inspection and test purposes
+
+      (v) Panic button activation.
+
+   (18) In the event of a panic button activation, systems must record to protected memory a total of three events. The recording must include, at a minimum, the 2.5 minutes immediately before and after the button activation, at one frame per second.
+
+   (19) Image access may be provided only to law-enforcement agencies, including the New York City Police Department.
+
+   (20) If the IVCS has a physical port for secure image retrieval, the port must be located on the right side of the dashboard or in the trunk, installed inconspicuously, and accessible to law enforcement personnel.
+
+   (21) When memory storage capacity is reached, the IVCS must overwrite the oldest images as new images are recorded in sequence.
+
+   (22) Installations and repairs of IVCS may be performed only by installers authorized by the manufacturer and currently licensed by the Department of Consumer Affairs. Installations and repairs may also be performed by Taximeter Businesses currently licensed by the Commission pursuant to chapter 14 of this title.
+
+   (23) A notarized affidavit signed by a manufacturer's authorized installer attesting to the proper functionality of the IVCS must be provided to the Commission by the authorized installer: (i) annually, and (ii) within 14 calendar days after any installation, repair, or modification of the IVCS.
+
+
+
+
+
+
+*§ 67-13 Requirements for Hack-up – Credential Holders.* ::
+
+
+(a) Requirement. A credential holder must be mounted behind the driver in the vehicle in a manner that does not block the driver's view. The holder will be on the partition if there is a partition, or on the headrest if there is no partition.
+
+(b) Technical Specifications. A credential holder frame mounted on the driver's side of the clear portion of the partition must conform to the following:
+
+   (1) Be approved by the Commission.
+
+   (2) Be secured by either rivet or screw at least two inches above the frame supporting the clear portion of the partition and centered on the vehicle's steering column or the headrest on the driver's seat facing the rear passenger's compartment.
+
+   (3) The frame must have a drop-in or slide-in slot accessible only from the driver's compartment for the rate card and the driver's license.
+
+   (4) The frame must have sufficient illumination so that the rate card and the driver's license are clearly visible from the rear seat after dark.
+
+   (5) The frame must be sufficiently padded so as not to cause injury to the driver.
+
+
+
+
+
+
+*§ 67-14 Requirements for Hack-up – Air Conditioning.* ::
+
+
+(a) Requirement. All vehicles must be equipped with an air conditioner. The air conditioner must be in good working condition from May 1st through September 30th each year. In vehicles equipped with a partition, the air conditioner must include an auxiliary unit for the rear seating area.
+
+(b) Technical Specifications.
+
+   (1) The auxiliary unit must be either standard equipment or optional equipment built into the vehicle by the vehicle manufacturer.
+
+   (2) The auxiliary unit must have controls that passengers may operate in the rear passenger area.
+
+
+
+
+
+
+*§ 67-15 Requirements for Hack-up – Technology System.* ::
+
+
+(a) Technology System. Every Taxicab must be equipped with Technology System from a licensed Technology System Provider.
+
+
+
+
+
+
+
+
+*§ 67-16 Authorized Rooftop Advertising Fixture.* ::
+
+
+(a) Authorized Rooftop Advertising Fixture.
+
+   (1) Upon payment of an annual Advertising Permit Fee as described in 35 RCNY § 58-07(g), a Medallion Owner may install and maintain an authorized Rooftop Advertising Fixture.
+
+   (2) A Medallion Owner must not install or maintain a Rooftop Advertising Fixture that is not authorized, or no longer authorized, by TLC.
+
+(b) Grandfathered Authorized Rooftop Advertising Fixtures. A Rooftop Advertising Fixture that is authorized by a Memorandum of Understanding between the Rooftop Advertising Fixture Provider and the TLC that is in effect on August 30, 2011 and was installed in accordance with these rules shall be deemed to comply with the requirements of these rules.
+
+(c) Requirements for Obtaining TLC Approval of a Rooftop Advertising Fixture.
+
+   (1) The Rooftop Advertising Fixture must be tested and certified in accordance with the Department of Defense Test Standard MIL-STD 810f by a licensed Professional Engineer and documentation of testing and certification must be submitted to TLC. (MIL-STD 810f can be found at http://www.dtc.army.mil/navigator.)
+
+   (2) The Rooftop Advertising Fixture must be approved by TLC's Safety and Emissions Division.
+
+   (3) The Rooftop Advertising Fixture Provider may post advertisements on the Rooftop Advertising Fixture. Such advertisements:
+
+      (i) must not exceed the physical dimensions of the advertising display surface of the rooftop unit.
+
+      (ii) Exception: An advertisement can exceed the dimensions of the advertising display surface of the rooftop unit by no more than 100 square inches if the certification by a Professional Engineer as required in paragraph one of this subdivision specifically states that the extension is safely supported upon the Rooftop Advertising Fixture.
+
+   (4) The Rooftop Advertising Fixture must:
+
+      (i) be two-sided, each side of a shape that is longer across and shorter in height, although not necessarily a rectangle;
+
+      (ii) display advertising material to the sides of the vehicle, and
+
+      (iii) not display advertising material to the front and back of the vehicle.
+
+   (5) Variation in approved design.
+
+      (i) If the Rooftop Advertising Fixture Provider wants to deviate from an approved design, it must inform the TLC of any material variation in the original, approved design before installing a modified fixture.
+
+      (ii) The TLC shall, within fourteen (14) business days, inform the Rooftop Advertising Fixture Provider whether an additional authorization is required with respect to the modified Rooftop Advertising Fixture.
+
+(d) Maintenance of Rooftop Advertising Fixture. The Rooftop Advertising Fixture Provider must maintain the Rooftop Advertising Fixture in accordance with this Rule:
+
+   (1) The Rooftop Advertising Fixture Provider must ensure that the Rooftop Advertising Fixture:
+
+      (i) is firmly affixed to each taxicab;
+
+      (ii) is otherwise operating in a safe manner;
+
+      (iii) is in good working order; this includes that the advertising displayed on the fixture is firmly affixed; and
+
+      (iv) displays current advertisements. A current advertisement is one that includes, but is not limited to, a defined event (such as advertisements for movies, concerts or events which have fixed opening or running dates) and only remains current until 60 days following the completion or termination of the event, or promotes an existing business or consumer product.
+
+   (2) (i) The Rooftop Advertising Fixture Provider must not display advertising that is offensive to public morals or is otherwise in violation of New York Penal Law Section 245.11.
+
+      (ii) The Rooftop Advertising Fixture Provider must remove any advertising in violation of subparagraph (i) from public display within fifteen (15) days after a TLC request to remove such advertising.
+
+(e) Termination of Authorization of Rooftop Advertising Fixture.
+
+   (1) The Chairperson may terminate authorization of a Rooftop Advertising Fixture if the provider has not complied with the requirements stated in this Rule.
+
+      (i) Prior to terminating authorization, the Chairperson will give the Rooftop Advertising Fixture Provider notice of the Chairperson's intent to terminate authorization and shall provide detailed reasons for the action.
+
+      (ii) The Rooftop Advertising Fixture Provider shall have 21 business days after the notice to cure any defect or to respond to any concerns set forth in the notice unless the TLC extends the cure period.
+
+      (iii) If the Rooftop Advertising Fixture Provider fails to cure any defect or fail to respond to any concerns set forth in the Chairperson's notice to the satisfaction of the Chairperson within the time period allotted by the TLC, the Chairperson may promptly terminate authorization.
+
+   (2) Notwithstanding the notice requirements of paragraph one, TLC may immediately terminate authorization of a Rooftop Advertising Fixture if the Chairperson determines there is an imminent threat to the health or safety of members of the public, taxi drivers, or other individuals.
+
+
+
+
+
+
+*§ 67-17 [Reserved]* ::
+
+
+(a) New Vehicles. All vehicles Hacked-up as new vehicles pursuant to 35 RCNY § 67-06(b)(1) must be retired from Taxicab service and replaced no later than the first scheduled inspection of the vehicle occurring 84 months after the vehicle was Hacked-up.
+
+(b) Used Vehicles. All vehicles Hacked-up as used vehicles pursuant to 35 RCNY § 67-06(b)(2) must be retired from Taxicab service and replaced no later than the first scheduled inspection of the vehicle occurring 84 months after the vehicle was Hacked-up, less the age of the vehicle as determined by the difference between the calendar year at Hack-up and the model year of the vehicle. For example, a used 2015 model year vehicle that was hacked up in 2018 is three years old and must be retired from Taxicab service and replaced no later than the first scheduled inspection of the vehicle occurring 48 months after the vehicle was Hacked-up.
+
+
+
+
+
+
+
+
+*§ 67-19 Vehicle Retirement Extensions.* ::
+
+
+(a) Hardship Extension. The owner of a Taxicab may apply to the Chairperson for an extension of up to 12 months from the Scheduled Retirement Date. To obtain approval of a hardship extension:
+
+   (1) The vehicle owner must demonstrate an economic or other personal hardship that the Chairperson determines would create an undue burden upon the owner if the extension were not granted.
+
+   (2) The vehicle owner must submit a request in writing, together with any supporting documentation, to the Chairperson at least 30 days before the Scheduled Retirement Date. This 30-day deadline may be waived by the Chairperson upon a showing of good cause.
+
+   (3) The vehicle must continue to meet all safety and emission requirements throughout the extension. The Chairperson shall withdraw any extension granted whenever the vehicle is determined by the Commission to be unsafe for operation.
+
+(b) Compressed Natural Gas Extension. An automatic 24-month extension is granted to any Taxicab vehicle that meets the following requirements:
+
+   (1) The vehicle was Hacked-up between March 1, 1996 and April 17, 2007.
+
+   (2) The vehicle was dedicated to operating on compressed natural gas (with a maximum reserve gas tank of five gallons) within six months after Hack-up.
+
+   (3) The vehicle has remained dedicated to operating on compressed natural gas thereafter and throughout its operation.
+
+(c) Minivan Extension.
+
+   (1) Any minivan approved for use as a Taxicab by the Commission that was Hacked-up between March 1, 1996 and April 17, 2007 will have its Scheduled Retirement Date extended as follows:
+
+      (i) By 12 additional months of Taxicab service if double-shifted and not driven by at least one long-term driver
+
+      (ii) By 18 additional months of Taxicab service under other conditions
+
+   (2) A Taxicab whose Scheduled Retirement Date has been extended in accordance with the provisions of this section is not eligible for the extended vehicle lifetime provided for Clean Air and Accessible Taxicabs described in 35 RCNY § 67-19(d) below.
+
+(d) Clean Air and Accessible Taxicab Extensions, Vehicles Hacked-up Prior to 4/20/15.
+
+   (1) Extensions of 36-Month Retirement Schedule. The regular 36-Month Retirement Schedule for any Level I or Level II Clean Air Taxicab or any Accessible Taxicab is extended by 12 months.
+
+   (2) Extensions of 60-Month Retirement Schedule: Accessible or Level I Clean Air. The regular 60-Month Retirement Schedule for any Level I Clean Air Taxicab or any Accessible Taxicab is extended by 24 months.
+
+   (3) Extensions of 60-Month Retirement Schedule: Level II Clean Air. The regular 60-Month Retirement Schedule for any Level II Clean Air Taxicab is extended by 12 months.
+
+(e) Final Retirement Date. A vehicle which cannot pass inspection must be replaced, regardless of whether its Scheduled Retirement Date has been reached. A vehicle that has reached its Scheduled Retirement Date, including any extensions provided for in this section, must be retired regardless of whether it may still pass inspection.
+
+
+
+
+
+
 Chapter 68: Procedures Relating To Enforcement
 --------------------------------------------------
 
@@ -32632,6 +32627,1118 @@ Chapter 76: Information Security Rules For Taxicab Technology Service Providers 
 
 
 
+Chapter 77: Licensing and Rules for Dispatch Service Providers
+--------------------------------------------------
+
+
+
+*§ 77-01 Scope of the Chapter.* ::
+
+
+(a) To establish a formal procedure for the licensing and supervision of businesses that provide Dispatch Services.
+									
+
+(b) To establish requirements for providing Dispatch Services which must be met in order for Dispatch Service Providers to apply for and obtain a license.
+									
+
+(c) To establish services to be provided by Dispatch Service Providers for the benefit of individuals and businesses licensed by TLC and for the public.
+									
+
+(d) To establish appropriate penalties for the violation of these rules.
+									
+
+
+
+
+
+
+
+
+*§ 77-02 Penalties.* ::
+
+
+(a) Unlicensed Activity. Unlicensed Activity is the act of providing or advertising the provision of any service regulated by this chapter by:
+
+   (1) Any Dispatch Service Provider Licensee whose License is suspended, revoked, or expired and not yet renewed, or 
+
+   (2) Any entity that does not hold a Valid License from the Commission to provide Dispatch Services.
+
+(b) Specific Penalties. If there are specific penalties for violating a Rule, they will be shown at the end of the Rule. The penalty section will also state whether the violator must attend a Hearing.
+
+(c) Payment of Fines.
+
+   (1) Fines are due within 30 days of the day the Respondent is found guilty of the violation, unless:
+
+      (i) the Respondent files an appeal of the decision issued by the Taxi and Limousine Tribunal within the time required by 48 RCNY Chapter 5, in which case the payment of the fines will be deferred 30 days after the date of the appeal decision.
+
+   (2) If the fine is not paid by the close of business on the date due, the Commission will notify the Respondent in writing that the Respondent's License will be suspended in 10 business days of the date of the notification until the fine is paid, unless the Respondent demonstrates to the Commission, in person or in writing, that the fine has been paid.
+
+(d) Non-Renewal of License; Suspension; Revocation.
+
+   (1) Non-Renewal of License.
+
+      (i) If an Dispatch Service Provider License is not timely renewed, the Dispatch Service Provider must immediately notify each Licensee, including both Bases and Drivers, for whom the Dispatch Service Provider is providing Dispatch Service under the expired License that the License has expired and that the Licensee must terminate usage of the Dispatch Service.
+
+      (ii) Upon expiration of the Dispatch Service Provider License, the Dispatch Service Provider must not provide Dispatch Services for any further Licensees under the expired License.
+
+      (iii) Upon expiration of the Dispatch Service Provider License, the Dispatch Service Provider must immediately cease offering Dispatch Services to any Licensee or to the public in New York City.
+
+   (2) Suspension.
+
+      (i) If an Dispatch Service Provider's License has been suspended by the Commission, the Dispatch Service Provider must immediately notify each Licensee for whom the Dispatch Service Provider is providing Dispatch Service under the suspended License:
+
+            Of the dates during which the License is suspended, and
+
+            that the Licensee must terminate usage of the Dispatch Service for the duration of such suspension.
+
+      (ii) Upon suspension of the Dispatch Service Provider License, the Dispatch Service Provider must not provide Dispatch Services for any further Licensees under the suspended License for the duration of such suspension, and must immediately, for the duration of such suspension, cease offering Dispatch Services to any already enrolled Licensee or to the public in New York City.
+
+   (3) Revocation.
+
+      (i) If an Dispatch Service Provider's License has been revoked by the Commission, the Dispatch Service Provider must immediately notify each Licensee from whom the Dispatch Service Provider is providing Dispatch Service under the revoked License that:
+
+         *   its service agreement with the Dispatch Service Provider will be deemed terminated as of the date of License revocation, and
+
+         *   the Licensee must not continue to use the Dispatch Service.
+
+      (ii) Upon revocation of the Dispatch Service Provider License, the Dispatch Service Provider must not provide Dispatch Services for any further Licensees under the revoked License.
+
+      (iii) An Dispatch Service Provider whose License has been revoked must cease offering Dispatch Services under the revoked License to any Licensees or to the public for in New York City.
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY §77-02(d)
+      - Penalty: $1,000 fine
+      - Appearance NOT REQUIRED
+~
+
+
+
+ 
+
+
+
+
+
+
+
+
+*§ 77-03 Definitions Specific to this Chapter.* ::
+
+
+(a) Applicant in this Chapter means an Applicant for an original or renewal Dispatch Service Provider License. 
+
+(b) Credit, Debit, and Prepaid Card Services. Any provision of Dispatch Service used to process Passenger payment of fare in a Vehicle by credit, debit, or prepaid card as described in 35 RCNY § 77-20(a). 
+
+(c) Dispatch Service has the same meaning as the same term in 35 RCNY § 51-03. 
+
+(d) Dispatch Service Provider has the same meaning as the same term in 35 RCNY § 51-03. 
+
+(e) E-Dispatch has the same meaning as the same term in 35 RCNY § 51-03. 
+
+(f) E-Dispatch Data. All data required to be collected, transmitted and maintained pursuant to 35 RCNY § 77-20(b). 
+
+(g) Dispatch Service Provider License is a license issued to a Dispatch Service Provider pursuant to this Chapter. 
+
+(h) License. When the term "License" is used by itself in this Chapter – and in this Chapter ONLY – it refers to an Dispatch Service Provider License. 
+
+(i) Modification of Dispatch Service. Any change to the manner in which the Dispatch Service Provider complies with the passenger or driver facing requirements contained in 35 RCNY § 77-20. 
+
+(j) Partner Base. A Base that has entered into an agreement with a Dispatch Service Provider pursuant to 35 RCNY § 77-15(c) for the provision of Dispatch Services and appears on the list of Partner Bases the Dispatch Service Provider files with the Commission pursuant to 35 RCNY § 77-05(c). 
+
+(k) PCI Standards. The Payment Card Industry Data Security Standards issued by the Payment Card Industry Security Standards Council as they may change from time to time. See www.pcisecuritystandards.org. 
+
+(l) Personal Information has the same meaning as the term as it is defined in New York General Business Law § 899-aa(1)(a) and includes such information pertaining to passengers and drivers. 
+
+(m) Service Levels. The standards of performance of the Dispatch Service and its components that are described in 35 RCNY §§ 77-17 and 77-20. 
+
+
+
+
+
+
+
+
+*§ 77-04 Licensing – General Requirements.* ::
+
+
+(a) Applicants for Dispatch Service Provider License. An Applicant for a Dispatch Service Provider License or its renewal may be an individual or a Business Entity. 
+
+(b) License for Each Dispatch Service. An application for a new or renewal Dispatch Service Provider License must be filed for each Dispatch Service for which Commission approval is sought. A separate Dispatch Service Provider License will be issued or renewed for each approved Dispatch Service. All License requirements of this Chapter apply to each License to be issued or renewed. 
+
+(c) Certification. Any new or renewal application for a Dispatch Service Provider License must be filed on a form approved by the Chairperson. The Applicant must swear (or affirm) that the information in the application is true, under penalty of perjury. 
+
+(d) Proof of Identity. The individual or Business Entity Person submitting the application for a Dispatch Service Provider License must provide to the Commission proof of identity in the form of a valid photo identification issued by the United States, a state or territory of the United States, or any political subdivision of a state or territory of the United States. 
+
+(e) Age. The individual or Business Entity Person submitting an application for a Dispatch Service Provider License or its renewal must be at least 18 years of age. 
+
+(f) Fit to Hold a License. An Applicant applying for a Dispatch Service Provider License or its renewal must demonstrate that they are Fit to Hold a License. 
+
+(g) Partnership Filings. When the Applicant is a partnership, it must file with its License application a certified copy of the partnership certificate from the clerk of the county where the principal place of business is located. 
+
+(h) Corporate or LLC Filings. When the Applicant is a corporation, it must file with its License application all of the following: 
+
+   (1) One of the following certificates: 
+
+      (i) A certified copy of its certificate(s) of incorporation with a filing receipt issued by the secretary of state if the Applicant was incorporated less than one year from the date of the License application; 
+
+      (ii) A certificate of good standing if the Applicant was incorporated more than one year from the date of the License application; or 
+
+      (iii) A copy of the certificate of incorporation, filing receipt, and authority to do business within the State of New York if the Applicant is an out-of-state corporation. 
+
+   (2) Limited Liability Companies (LLCs). When the Applicant is a limited liability company, it must file with its application the following: 
+
+      (i) A copy of its articles of organization. 
+
+(i) Uniqueness of Name. The Commission has the right to reject the proposed name of any Dispatch Service Provider that the Commission finds to be substantially similar to any name in use by another Dispatch Service Provider Licensee, or any name that contains the word(s) "hack," "taxi," "taxicab," "cab," "coach," or other designation of similar import. 
+
+(j) Payment of Fines and Fees.
+
+   (1) An Applicant, including an applicant for a renewal License, must pay, and provide proof of payment of, any outstanding fines or fees owed by the Applicant to 
+
+      (i) the Commission, 
+
+      (ii) NYC Department of Finance, 
+
+      (iii) NYC Department of Consumer Affairs, 
+
+      (iv) NYS DMV's Traffic Violations Bureau, and 
+
+      (v) any of their successor agencies. 
+
+   (2) This requirement includes payment of fines and fees owed as of the date of the application by 
+
+      (i) any Business Entity Persons of the Applicant, 
+
+      (ii) any Business Entity of which the Applicant is a Business Entity Person, and 
+
+      (iii) any Business Entity of which a Business Entity Person of Applicant is also a Business Entity Person. 
+
+(k) Address. An Applicant must give the Commission the Applicant's current Mailing Address and Email Address as required by 35 RCNY § 77-14. 
+
+(l) Intellectual Property. An Applicant must own the rights to or hold licenses to all the intellectual property associated with the manner in which the Applicant's provides Dispatch Services. The Commission reserves the right to request proof of such rights or licenses at any time during the term of the License. 
+
+
+
+
+
+
+
+
+*§ 77-05 Licensing – Specific Requirements.* ::
+
+
+(a) Approval of Dispatch Service Providers – New License. The Commission will not issue a Dispatch Service Provider License to any Applicant unless the Commission approves the manner in which the Dispatch Service Provider provides Dispatch Service. In determining whether to approve the Dispatch Service Provider License, the Commission will consider, in its sole discretion, whether the documentation required to be submitted by the Applicant pursuant to subdivision (b) of this section adequately demonstrates that the manner in which the Dispatch Service Provider provides Dispatch Service complies with all of the requirements set forth in 35 RCNY § 77-20, or as such requirements may be waived or modified by the Commission pursuant to subdivision (f) of this section. 
+
+(b) Documentation for Dispatch Service Provider Approval. The Applicant must submit with its License application a detailed description of the manner in which the Dispatch Service Provider provides Dispatch Service and its compliance with the requirements set forth in 35 RCNY § 77-20, as well a list of all third-party designees the Dispatch Service Provider will use in offering Dispatch Services. If the License application includes a payment option the Applicant must submit with its License application Documentation, to be renewed and resubmitted to the TLC every twelve (12) months, demonstrating compliance with the security standards set forth in 35 RCNY § 77-20(f), or as such standards may be waived or modified by the Commission pursuant to subdivision (f) of this section, and the successful results of the security testing. 
+
+(c) Partner Bases List. The Applicant must submit with its License application a list of all its Partner Bases. The Dispatch Service Provider must file with the Commission all updates to its list of Partner Bases within 5 business days of entering into a new Base agreement or terminating an existing Base agreement. 
+
+(d) Information Security and Use of Personal Information Policy. The Applicant must submit with its License application an information security and use of personal information policy that includes, at a minimum, the following information: 
+
+   (1) a statement of internal access policies relating to passenger and driver Personal Information for employees, contractors, and third party access, if applicable; 
+
+   (2) a statement that, except to the extent necessary to provide credit, debit, and prepaid card services and services for any application that provides for electronic payment, personal information will only be collected and used with such passenger's affirmative express consent and that such personal information will not be used, shared, or disclosed, except for lawful purposes; 
+
+   (3) procedures for notifying the Commission and affected parties of any breach of the security of the system, pursuant to section 899-aa of the General Business Law; 
+
+   (4) a statement that any credit, debit, or prepaid card information collected by the Applicant or a credit, debit, or prepaid card services provider is processed by the Applicant or such provider in compliance with applicable payment card industry standards, and 
+
+   (5) a statement of the Applicant's policies regarding the use of passenger geolocation information, which must include, at a minimum, a prohibition on the use, monitoring, or disclosure of trip information, including the date, time, pick-up location, drop-off location, and real-time vehicle location and any retained vehicle location records, without such passenger's affirmative express consent. 
+
+(e) Customer Service Contact Information. The Applicant must submit with its License application a working email address and/or phone number which Passengers can use to contact the Dispatch Service Provider for customer service inquiries. 
+
+(f) Modification of Dispatch Service. If, after a Dispatch Service Provider License is issued pursuant to this Chapter, the Dispatch Service Provider Licensee implements a Modification, the Dispatch Service Provider must notify the Commission upon implementing the Modification. 
+
+(g) Required Insurance. After submission of an application for a new Dispatch Service Provider License, an Applicant must provide to the Commission proof of the insurance required in this subdivision when the Commission requests it. Upon submission of an application to renew a Dispatch Service Provider License, the Dispatch Service Provider Licensee must provide to the Commission proof of the insurance required in this subdivision. 
+
+   (1) Professional Liability Insurance.
+
+      (i) In the Commission's discretion, if professional services will be performed by the Applicant in connection with any of the activities licensed under this Chapter, the Applicant must maintain and submit evidence of Professional Liability ("PL") Insurance appropriate to the type(s) of services performed by the Applicant in the amount of at least One Million Dollars ($1,000,000) per claim. The policy or policies must include an endorsement to cover the liability assumed by the Applicant under this Chapter arising out of the negligent performance of professional services or caused by an error, omission or negligent act of the Applicant or any employee or agent of the Applicant. 
+
+      (ii) If the Applicant's subcontractor(s) is/are performing or will perform professional services in connection with any of the activities licensed under this Chapter for which PL Insurance is reasonably commercially available, either the Applicant's PL Insurance under subparagraph (i) of this paragraph must cover the subcontractor(s) or such subcontractor(s) must maintain its/their own PL Insurance subject to all other requirements herein. 
+
+      (iii) Claims-made policies will be accepted for Professional Liability Insurance. The policies must have an extended reporting period option or automatic coverage of not less than two (2) years. If available as an option, the Applicant must purchase extended reporting period coverage effective on cancellation or termination of the insurance unless a new policy is secured with a retroactive date, including at least the last policy year. 
+
+   (2) General Requirements for Insurance Coverage and Policies.
+
+      (i) All required insurance policies must be maintained with companies that may lawfully issue the required policy and have an A.M. Best rating of at least A- / "VII" or a Standard and Poor's rating of at least A, unless prior written approval is obtained from the Commission. 
+
+      (ii) All insurance policies must be primary (and non-contributing) to any insurance or self-insurance maintained by the City. 
+
+      (iii) The Applicant must be solely responsible for the payment of all premiums for all required insurance policies and all deductibles or self-insured retentions to which the policies are subject, whether or not the City is an insured under the policy. 
+
+      (iv) There must be no self-insurance program with regard to any insurance required under this subdivision unless approved in writing by the Commission. Any self-insurance program must provide the City with all rights that would be provided by insurance otherwise required under this subdivision, including but not limited to the defense obligations that insurers are required to undertake in liability policies. 
+
+      (v) The City's limits of coverage for all types of insurance required under this subdivision must be the greater of: 
+
+         (A) the minimum limits set forth in this subdivision; or 
+
+         (B) the limits provided to the Applicant as Named Insured under all primary, excess, and umbrella policies of that type of coverage. 
+
+   (3) Proof of Insurance.
+
+      (i) For each policy required under this subdivision, the Applicant must file with the Commission a Declarations Page issued by the insurer. All Declaration Pages must be: 
+
+         (A) in a form acceptable to the Commission and certify the issuance and effectiveness of such policies of insurance, each with the specified minimum limits; and, 
+
+         (B) accompanied by either a duly executed "Certification by Insurer" in the form provided by the Commission or copies of all policies referenced in the Declarations Page. If complete policies have not yet been issued, binders are acceptable, until the complete policies have been issued, at which time such policies must be submitted. 
+
+      (ii) The Applicant must provide the Commission with a copy of any policy required under this subdivision upon demand by the Commission or the New York City Law Department. 
+
+      (iii) Acceptance by the Commission of a declarations page or a policy does not excuse the Dispatch Service Provider from maintaining policies consistent with all provisions of this subdivision (and ensuring that subcontractors maintain such policies) or from any liability arising from its failure to do so. 
+
+      (iv) If the Dispatch Service Provider receives notice, from an insurance company or other person, that any insurance policy required under this subdivision will expire, be cancelled, or terminated for any reason, the Dispatch Service Provider must immediately forward a copy of the notice to the Commission and the New York City Comptroller at: 
+
+         NYC Taxi and Limousine Commission         Attn: General Counsel         33 Beaver Street 22nd Floor         New York, New York 10004
+
+         New York City Comptroller         Attn: Office of Contract Administration         Municipal Building, One Centre Street, Room 1005         New York, New York 10007.
+
+   (4) Miscellaneous Insurance Provisions.
+
+      (i) Insurance coverage in the minimum amounts required in this subdivision shall not relieve the Dispatch Service Provider Licensee of any liability for indemnification under this Chapter. 
+
+      (ii) The Dispatch Service Provider waives all rights against the City, including its officers and employees, for any damages or losses that are covered under any insurance required under this subdivision (whether or not such insurance is actually procured or claims are paid under such insurance) or any other insurance applicable to the activities of the Dispatch Service Provider and/or its subcontractors required to be licensed under this Chapter. 
+
+      (iii) If the Dispatch Service Provider requires any subcontractor to procure insurance in connection with any of the activities licensed under this Chapter and requires the subcontractor to name the Dispatch Service Provider as an additional insured under such insurance, the Dispatch Service Provider must ensure that such entity also names the City, including its officers and employees, as an additional insured with coverage at least as broad as the most recently issued ISO form CG 20 26. 
+
+(h) Renewals of Required Insurance Policies. The Dispatch Service Provider must submit to the Commission certificates of insurance confirming renewals of insurance before coverage of insurance policies required under subdivision (h) of this section expires. Certificates of Insurance must comply with the requirements of subparagraph (h)(3)(i) above. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 77-05(h) 
+      - Penalty: $1,500 fine and/or suspension up to 60 days or revocation
+      - Appearance REQUIRED
+~
+
+
+
+ 
+
+(i) Waivers or Modifications. Except where expressly prohibited by law, the Chairperson may, in his or her discretion, waive or modify any requirements for licensing under this Chapter in the interests of public safety and convenience. Requests for waivers or modifications must be submitted in writing to the Chairperson. 
+
+
+
+
+
+
+
+
+*§ 77-06 Licensing – Bond Required.* ::
+
+
+(a) Amount of Bond. An Applicant for an Dispatch Service Provider License or renewal must deposit or have deposited with the Commission a five thousand dollar ($5,000) bond, payable to the City of New York. The bond must be provided by one or more sureties approved by the Commission. 
+
+(b) Bond Guarantees. The bond must guarantee that the Applicant or licensed Dispatch Service Provider will: 
+
+   *   comply with all applicable provisions of law and rules of the Commission, 
+
+   *   pay all fines imposed by the Commission, and 
+
+   *   pay all judgments or settlements arising from any action connected in any way with the Dispatch Service Provider License. 
+
+(c) Fines and Judgments. The Dispatch Service Provider is immediately liable for the payment of any fine or judgment when the amount is determined or upon final determination of an appeal. If the fine is not paid as required by 35 RCNY § 77-02(c), the Commission may draw upon the bond. 
+
+
+
+
+
+
+
+
+*§ 77-07 Licensing – Fees and Term of License.* ::
+
+
+(a) Fee. Every application for a new or renewal Dispatch Service Provider License must be accompanied by a non-refundable application fee of $1,000 for each License to be issued or renewed. 
+
+(b) Form of Payment. All application fees must be paid in the form authorized by 35 RCNY § 52-40. 
+
+(c) No Refund if Application Denied. The Commission will not refund fees if it denies or disapproves the application. 
+
+(d) License Replacement Fee. The fee to replace any lost, damaged or destroyed License is $25. 
+
+(e) Term of License. The term of an Dispatch Service Provider License will be three years or less and each License will expire on October 31st. 
+
+(f) When to File for Renewal.
+
+   (1) A renewing Applicant must file a completed application at least sixty (60) days before the expiration date of the License. 
+
+   (2) Application Submission Date.
+
+      (i) Applications filed online: The date of submission is the date an application is filed online. 
+
+      (ii) Applications filed by mail: The date of submission is the postmark date. 
+
+      (iii) Applications filed in person: The date of submission is the date an application is filed in person. 
+
+   (3) The Commission will not accept a renewal application after the expiration date of the License. If the application is not filed before the expiration date, the License cannot be renewed. 
+
+(g) Suspended Licenses.
+
+   (1) If a License is suspended and is due to be renewed during the suspension, the Dispatch Service Provider must apply for renewal as required in subdivision (f) of this section to renew the License. Failure to complete the renewal requirements means that the License cannot be renewed. 
+
+   (2) A License that is suspended is not Valid and cannot be used until the suspension ends. This applies even if the Applicant has filed an application for a renewal. 
+
+
+
+
+
+
+
+
+*§ 77-08 Licensing – Cause for Denial, Suspension, or Revocation.* ::
+
+
+(a) Failure to Continuously Comply. Whenever the Commission determines that the Dispatch Service Provider no longer meets the requirements for the Dispatch Service Provider License, the Commission may suspend or revoke the License and deny any application for renewal. 
+
+(b) Summary Suspension. Nothing in this section limits the authority of the Commission to summarily suspend any Dispatch Service Provider License when it determines that a threat to public health, safety, or welfare exists. 
+
+(c) Failure to Complete Application Requirements.
+
+   (1) The Chairperson may deny an application for a new License if the Applicant has not completed all the requirements of an application within ninety (90) days of the date the application is filed. 
+
+   (2) The Chairperson may deny an application for a renewal License if the Applicant has not completed all the requirements of an application by the expiration date of the prior License. 
+
+(d) Additional Consideration of an Application. If a review of the application leads the Chairperson to believe that the Applicant may not be Fit to Hold a License, the Chairperson may seek additional information from the Applicant. This request for additional information may be an in-person interview, telephone call, letter, email, or other method of communication. This additional consideration may result in the denial of the application. Failure to provide any requested information within a reasonable period as requested or failure to appear at a scheduled interview will result in a denial of the application. 
+
+
+
+
+
+
+
+
+*§ 77-09 General Requirements – Unlicensed Activity.* ::
+
+
+(a) Dispatch Service Provider License Required. An individual or Business Entity must not provide Dispatch Services in New York City or enroll any individual or Business Entity for the provision of Dispatch Services without a Valid Dispatch Service Provider License. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 77-09
+      - Penalty: $10,000
+      - Appearance REQUIRED
+~
+
+
+
+ 
+
+
+
+
+
+
+
+
+*§ 77-10 General Requirements – Compliance with Applicable Law.* ::
+
+
+(a) Licenses and Permits. A Dispatch Service Provider must obtain licenses and permits required by applicable local, state or federal law. 
+
+(b) Occupational Safety &amp; Health Administration. A Dispatch Service Provider must comply with all applicable Occupational Safety and Health Administration (OSHA) standards and requirements at the Dispatch Service Provider Licensee's place of business, as well as all other federal, state, and local laws governing its business. 
+
+(c) Payment of All Fines and Fees. A Dispatch Service Provider must pay all fines, fees, and taxes it owes to any federal, state, or local governmental jurisdiction when they are due. 
+
+(d) Workers' Compensation Laws. An Dispatch Service Provider must comply with all laws regarding workers' compensation and disability benefits, as well as all federal laws regarding the withholding of taxes and payment of FICA and other withholding taxes. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 77-10
+      - Penalty: $1,000 fine and/or suspension until compliance
+      - Appearance NOT REQUIRED
+~
+
+
+
+ 
+
+
+
+
+
+
+
+
+*§ 77-11 General Requirements – Indemnification.* ::
+
+
+(a) Infringement Indemnification. A Dispatch Service Provider Licensee must defend, indemnify and hold the City harmless from any and all third-party claims (even if the allegations of the lawsuit are without merit) or judgments for damages and from costs and expenses (including reasonable attorneys' fees) to which the City may be subjected or which it may suffer or incur allegedly arising out of or in connection with any infringement by the Dispatch Service Provider Licensee, its employees, agents or subcontractors of any copyright, trade secrets, trademark or patent rights or any other property or personal right of any third party in the conduct of the licensed activities. Insofar as the facts or law relating to any third-party claim would preclude the City from being completely indemnified by the Dispatch Service Provider Licensee, the City shall be partially indemnified by the Dispatch Service Provider Licensee to the fullest extent permitted by law. 
+
+(b) Not Limited by Insurance. The indemnification obligations set forth in this section shall not be limited in any way by the Dispatch Service Provider Licensee's obligations to obtain and maintain insurance as provided in 35 RCNY § 77-05(g). 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 77-11(a)-(b)
+      - Penalty: $1,000 fine and/or suspension until compliance
+      - Appearance REQUIRED
+~
+
+
+
+ 
+
+
+
+
+
+
+
+
+*§ 77-12 General Requirements – Unlawful Activities Prohibited.* ::
+
+
+(a) A Dispatch Service Provider Licensee must not file with the Commission any statement that he or she knows or reasonably should know to be false, misleading, deceptive, or materially incomplete. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 77-12 (a)
+      - Penalty: $10,000 fine and revocation
+      - Appearance REQUIRED
+~
+
+
+
+ 
+
+
+
+
+
+
+
+
+*§ 77-13 General Requirements – Notice to TLC.* ::
+
+
+(i)*   Material Change in Information. A Dispatch Service Provider Licensee must notify the Commission of any material change in the information contained in its current Dispatch Service Provider License application or renewal prior to implementing the change. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 77-13(a)*
+      - Penalty: $1,000 fine and/or suspension up to 30 days
+      - Appearance REQUIRED
+~
+
+
+
+ 
+
+(j)*   Suspension or Revocation of License. A Dispatch Service Provider Licensee must immediately notify the Commission in writing of any suspension or revocation of any license granted to the Dispatch Service Provider Licensee, or any other person acting on his or her behalf, by any agency of the City or State of New York, or the government of the United States. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 77-13(b)*
+      - Penalty: $1,000 fine and suspension until compliance
+      - Appearance REQUIRED
+~
+
+
+
+ 
+
+(k)*   Security Breach. If the Dispatch Service Provider is required to make disclosures under State or Federal law regarding security breaches, including the New York State Information Security Breach and Notification Act (General Business Law § 899-aa), the Dispatch Service Provider Licensee must inform the Commission immediately following such disclosures. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 77-13(c)*
+      - Penalty: $1,000 fine and suspension until compliance
+      - Appearance REQUIRED
+~
+
+
+
+ 
+
+* Editor's note: the designation of the divisions of this 35 RCNY § 77-13 and internal references thereto are presented here exactly as promulgated by TLC. 
+
+
+
+
+
+
+
+
+*§ 77-14 Business Requirements – Mailing and Email Address.* ::
+
+
+(a) Each Dispatch Service Provider must designate and provide to the Commission the street address of its primary Dispatch Service Provider location as its Mailing Address. 
+
+(b) A Dispatch Service Provider must have and provide to the Commission a working Email Address and telephone number at all times. 
+
+(c) A Dispatch Service Provider must report any change of Mailing Address, Email Address and telephone number to the Commission in person or by mail within ten days. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 77-14(a)-(c)
+      - Fine: $100
+      - Appearance NOT REQUIRED
+~
+
+
+
+ 
+
+(d) Any communication from the Commission is sufficient if sent to the last Mailing Address or Email Address provided by the Dispatch Service Provider. 
+
+(e) Any communication from the Commission, except notices and summonses for which the manner of service is specified in 35 RCNY § 68-05, is sufficient if sent by email to the last Email Address provided by the Dispatch Service Provider. 
+
+
+
+
+
+
+
+
+*§ 77-15 Business Requirements – Fees Charged by Dispatch Service Provider Licensees.* ::
+
+
+(a) Fares.
+
+   (1) For all E-Dispatches: 
+
+      (i) A Dispatch Service Provider must NOT quote or charge a rate or fare that is greater than the rate or fare listed in the Rate Schedule filed with the Commission by its Partner Base(s). 
+
+      (ii) A Dispatch Service Provider must NOT charge Passengers any fee, including but not limited to the fees listed in subdivision (b) of this section, unless such fee is specifically listed in the Rate Schedule filed with the Commission by its Partner Base(s). 
+
+      (iii) A Dispatch Service Provider must NOT charge a rate or fare, inclusive of all fees, that is greater than the rate or fare provided to the Passenger pursuant to 35 RCNY § 77-20(d)(1). 
+
+   (2) For E-Dispatches to Livery Partner Bases: A Dispatch Service Provider must NOT charge a fare above the amount quoted to the Passenger pursuant to 35 RCNY § 77-20(d)(1). 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 77-15(a)
+      - Penalty: $1000 fine
+      - Appearance NOT REQUIRED
+~
+
+
+
+ 
+
+(b) Notice of Fees. The Dispatch Service Provider must provide Passengers and/or Drivers with reasonable notice of all Passenger and Driver fees and rates charged by the Dispatch Service Provider, as applicable, including but not limited to any lawful price multipliers or variable pricing fees, cancellation fees, and no-show fees, prior to Drivers' or Passengers' use of the Dispatch Service to request or accept a trip. 
+
+   (1) The amounts of any fees must be disclosed to the Passenger by the Dispatch Service Provider. 
+
+   (2) The Dispatch Service Provider is permitted to charge cancellation fees to Passengers and/or Drivers who cancel E-Dispatched trips using the Dispatch Service if the cancellation fees comply with the notification requirements set forth in this subdivision and appear on the Rate Schedule filed with the Commission by its Partner Base(s). 
+
+   (3) The Dispatch Service Provider must provide Drivers and/or Passengers with reasonable notice of any modifications of such fees or rates prior to the effective date of the modifications. 
+
+(c) File Partner Base Agreement Terms. The Dispatch Service Provider must enter into a written agreement with each Base for which it provides Dispatch Service and must file with the Commission a sample of the form of agreement of such agreement. 
+
+(d) File User Agreement Terms. The Dispatch Service Provider must file with the Commission all forms of the user agreements, use contracts, and privacy terms it requires Passengers to agree to prior to providing Passengers Dispatch Service. The Dispatch Service Provider must file with the Commission all updates of such documents and/or terms reflecting changes thereto. 
+
+
+
+
+
+
+
+
+*§ 77-16 Business Requirements – Provision of Dispatch Services.* ::
+
+
+All of the following conditions apply with regard to a Dispatch Service Provider's provision of Dispatch Services: 
+
+(a) The Dispatch Service Provider must not provide Dispatch Services unless the manner in which the Dispatch Service Provider provides Dispatch Service has been approved by the Commission pursuant to this Chapter; 
+
+(b) No modification will be made to any Vehicle to install or mount a device through which the Dispatch Service Provider will provide Dispatch Service without the permission of the Chairperson and the approval of the device and its installation and/or mounting in the Vehicle. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 77-16
+      - Penalty: $500-$1,500 fine and/or suspension up to 60 days or revocation for each subdivision violated
+      - Appearance REQUIRED
+~
+
+
+
+ 
+
+
+
+
+
+
+
+
+*§ 77-17 Business Requirements – Cooperation with the Commission.* ::
+
+
+Upon request of the Commission, a Dispatch Service Provider must make availavle at no charge a fully operable any device through which the Dispatch Service Provider offers Dispatch Services, to either Passengers or Drivers, and access to any requisite Base, Driver, and Passenger test IDs. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 77-17
+      - Penalty: $500 fine and suspension until compliance
+      - Appearance REQUIRED
+~
+
+
+
+ 
+
+
+
+
+
+
+
+
+*§ 77-18 Business Requirements – Dispatch Service Provider Liability for Conduct of Employees.* ::
+
+
+(a) Liability for Employee Conduct. A Dispatch Service Provider must supervise and be responsible for the conduct of all of its employees, contractors, and agents for activities performed to carry out the requirements of this Chapter. This subdivision and subdivisions (b) and (c) of this section shall not be applicable to Drivers, or to individuals or business entities performing work for any Dispatch Service Provider or its subcontractor(s) who under applicable law are deemed to be independent contractors and not employees. 
+
+(b) Familiarizing Employees with Rules and Regulations. A Dispatch Service Provider must ensure that all of its employees, contractors, and agents are fully familiar with all relevant regulatory agency rules and regulations. 
+
+(c) Compliance with Laws. A Dispatch Service Provider must ensure that all of its employees, contractors, and agents perform their duties in compliance with all relevant federal, state, and city laws, rules, and regulations. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 77-18(a)-(c)
+      - Penalty: $500 fine and/or suspension up to 60 days or revocation
+      - Appearance REQUIRED
+~
+
+
+
+ 
+
+
+
+
+
+
+
+
+*§ 77-19 Comply with Laws – Conduct Rules.* ::
+
+
+(a) Acceptance of Gift or Gratuity. A Dispatch Service Provider Licensee, any person acting on his or her behalf , or any of the Dispatch Service Provider's employees must not accept any gift, gratuity, or thing of value from an Owner or Driver of any vehicle licensed by the Commission or from anyone acting on behalf of an Owner or Driver for the purpose of violating any of these rules through acts of commission or omission. 
+
+(b) Reporting Requests for Gift or Gratuity. A Dispatch Service Provider Licensee, any person acting on the Dispatch Service Provider's behalf, or any of the Dispatch Service Provider's employees must immediately report to the Commission and the NYC Department of Investigation any request or demand for a gift, gratuity, or thing of value by any employee, representative, or member of the Commission or by any public servant. 
+
+(c) Offer of Gifts and Gratuities. A Dispatch Service Provider Licensee, any person acting on his or her behalf or any of the Dispatch Service Provider's employees must not offer or give any gift, gratuity, or thing of value to any employee, representative, or member of the Commission or to any other public servant. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 77-19(a)-(c)
+      - Penalty: $10,000 fine and revocation
+      - Appearance REQUIRED
+~
+
+
+
+ 
+
+(d) Reporting Offers of Gift or Gratuity. A Dispatch Service Provider Licensee must notify the Commission immediately by telephone and in writing or email within 24 hours after receiving any offer of a gift or gratuity prohibited by subdivision (a) above. 
+
+(e) Fraud, Misrepresentation and Larceny. A Dispatch Service Provider Licensee, while performing his or her duties and responsibilities as a Dispatch Service Provider Licensee, must not commit or attempt to commit, alone or in concert with another, any act of fraud, misrepresentation, or larceny. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 77-19(d)-(e)
+      - Penalty: $10,000 fine and revocation
+      - Appearance REQUIRED
+~
+
+
+
+ 
+
+(f) Willful Acts of Omission and Commission.
+
+   (1) Omission. While performing the duties and responsibilities of a Dispatch Service Provider Licensee, a Dispatch Service Provider Licensee must not deliberately fail to perform, alone or with another, any act where this failure is against the best interests of the public, although not specifically mentioned in these Rules. 
+
+   (2) Commission. While performing the duties and responsibilities of a Dispatch Service Provider Licensee, a Dispatch Service Provider Licensee must not deliberately perform, alone or with another, any act that is against the best interests of the public, although not specifically mentioned in these Rules. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 77-19(f)
+      - Penalty: $350 and/or suspension up to 30 days or revocation
+      - Appearance REQUIRED
+~
+
+
+
+ 
+
+(g) Notice of Criminal Conviction.
+
+   (1) A Dispatch Service Provider Licensee must notify the Commission in writing within two (2) days after any criminal conviction of the Dispatch Service Provider Licensee or any of the Dispatch Service Provider Licensee's Business Entity Persons. 
+
+   (2) Notification must be in writing and must be accompanied by a certified copy of the certificate of disposition of the conviction issued by the clerk of the court. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 77-19(g)
+      - Penalty: $500 and/or suspension up to 30 days
+      - Appearance REQUIRED
+~
+
+
+
+ 
+
+(h) Threats, Harassment, Abuse. A Dispatch Service Provider Licensee must not threaten, harass, or abuse any Commission or other governmental representative, public servant, or other person while performing his or her duties and responsibilities as a Dispatch Service Provider Licensee. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 77-19(h)
+      - Penalty: $500 and/or suspension up to 30 days or revocation
+      - Appearance REQUIRED
+~
+
+
+
+ 
+
+(i) Use or Threat of Physical Force. A Dispatch Service Provider Licensee must not use or attempt to use any physical force against a Commission or other governmental representative, public servant, or other person while performing his or her duties and responsibilities as a Dispatch Service Provider Licensee. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 77-19(i)
+      - Penalty: $500 and/or suspension up to 60 days or revocation
+      - Appearance REQUIRED
+~
+
+
+
+ 
+
+(j) Cooperation with Law Enforcement. A Dispatch Service Provider Licensee must cooperate with all law enforcement officers and representatives of the Commission at all times. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 77-19(j)
+      - Penalty: $250 fine
+      - Appearance NOT REQUIRED
+~
+
+
+
+ 
+
+(k) Cooperation with the Commission. A Dispatch Service Provider Licensee must answer and comply as directed with all questions, communications, notices, directives, and summonses from the Commission or its representatives. A Dispatch Service Provider Licensee must produce his or her Commission License and other required documents whenever the Commission requires. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 77-19(k)
+      - Penalty: $250 fine and suspension until compliance
+      - Appearance REQUIRED
+~
+
+
+
+ 
+
+
+
+
+
+
+
+
+*§ 77-20 Technical Requirements – Provision of Dispatch Service.* ::
+
+
+No Dispatch Service Provider will be approved by the Commission pursuant to this Chapter unless the manner in which it provides Dispatch Service complies with the all of the requirements set forth in this section or as such requirements may be waived or modified by the Commission pursuant to 35 RCNY § 77-05(i). 
+
+(a) Payment.
+
+   (1) Credit, Debit, and Prepaid Card Payment. If the Dispatch Service Provider accepts credit, debit, and prepaid cards for payment of fares, the Dispatch Service Provider: 
+
+      (i) must offer the Passenger a receipt in accordance with paragraph (2) of this subdivision; the receipt can be an electronic receipt; 
+
+      (ii) can offer pre-set payment options, including tip percentages, provided that the Passenger is permit Passengers to change the pre-set payment options for a given trip at any time prior to the completion of a trip and payment of fare, including changes to the tip amount; and, 
+
+      (iii) cannot require a Passenger to pay a tip to the Driver above the fare quoted or charged to the Passenger. 
+
+   (2) The Dispatch Service Provider must be able to generate an accurate receipt for payment of fare for fares paid using its Dispatch Service, and the receipt must be offered to the Passenger. Upon the Passenger's request a receipt must be transmitted to the Passenger. The receipt can either be in hard copy form or in electronic form and must contain all the following information: 
+
+      (i) Vehicle License number; 
+
+      (ii) Vehicle's affiliated Base License number; 
+
+      (iii) Driver's TLC Driver License number; 
+
+      (iv) Total amount due; 
+
+      (v) Itemized tolls (if applicable) by toll name and amount; 
+
+      (vi) Itemized fees charged (if any) including any lawful price multiplier or variable pricing policy in effect at the time of the trip; 
+
+      (vii) The "311" Commission complaint telephone number; and 
+
+      (viii) The public access information the Partner Base has on file with the TLC pursuant to 35 RCNY § 59B-21(c). 
+
+      (ix) The customer service contact information the Dispatch Service Provider has on file with the TLC. 
+
+   (3) A Dispatch Service Provider that accepts credit, debit, and prepaid cards for payment of fares must comply with all applicable PCI Standards. Credit, debit, and prepaid card information for electronic payments must not be stored locally on an electronic device through which the Dispatch Service Provider providers Dispatch Services. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 77-20(a)
+      - Penalty: $500 fine and/or suspension up to 60 days or revocation
+      - Appearance REQUIRED
+~
+
+
+
+ 
+
+(b) E-Dispatch Data Collection and Transmission. A Dispatch Service Provider and its third party designee, if any, must be capable of automatically collecting and transmitting the following E-Dispatch data for each E-dispatched trip in a format, layout, and frequency prescribed by the Commission: 
+
+   (1) The date, time, and location of the Passenger to be picked up; 
+
+   (2) The Driver's TLC Driver License number; 
+
+   (3) The dispatched Vehicle's License number; 
+
+   (4) The TLC License number of the For-Hire Base affiliated to the dispatched Vehicle. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 77-20(b)
+      - Penalty: $500 fine and/or suspension up to 60 days or revocation
+      - Appearance REQUIRED
+~
+
+
+
+ 
+
+(c) Dispatch Service Restrictions. A Dispatch Service Provider must conform to the following service restrictions: 
+
+   (1) The Dispatch Service Provider must not transmit requests for transportation or E-Dispatches to any Driver who 
+
+      (i) does not have a Valid FHV license, according to the listings on TLC's Current Licensees web page, 
+
+      (ii) is operating a Vehicle that does not have a Valid Black Car Vehicle, Livery Vehicle, or Luxury Limousine Vehicle License, according to the listings on TLC's Current Licensees web page, or 
+
+      (iii) is operating a Vehicle that is not affiliated with the Dispatch Service Provider's Partner Base(s). 
+
+   (2) If a Dispatch Service Provider sends dispatch requests to Drivers through an electronic, Driver-facing interface, that interface must be available to a Driver ONLY when the Vehicle is standing or stopped, except that the Driver-facing interface can permit a Driver to accept a dispatch with a single touch using pre-programmed buttons or using voice activation while the vehicle is in motion. All other uses of a Driver-facing interface must be velocity gated to prevent its use while the vehicle is in motion. 
+
+   (3) The Dispatch Service Provider must provide Dispatch Services to a Driver ONLY during the hours of operation its Partner Base(s) have on file with the Commission pursuant to 35 RCNY § 59B-21(b). 
+
+   (4) If the Dispatch Service Providers' Partner Bases have on file any of the same Public Access Information pursuant to 35 RCNY § 59B-21(c), the Dispatch Service Provider must clearly specify which Partner Base's rates will apply for a requested trip if the rate schedules the Partner Bases have on file with the Commission differ from each other. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 77-20(c)
+      - Penalty: $500 fine and/or suspension up to 60 days or revocation
+      - Appearance REQUIRED
+~
+
+
+
+ 
+
+(d) Passenger Notifications. A Dispatch Service Provider must conform to the following notification requirements: 
+
+   (1) Price Notification. The Dispatch Service Provider must clearly state the rate or fare for all trips requested by a Passenger through the Dispatch Service Provider and must conform to the following specifications: 
+
+      (i) For E-Dispatches to Black Cars and Luxury Limousines: 
+
+         (A) The Dispatch Service Provider must disclose to the Passenger the rate or fare for a requested E-Dispatch. 
+
+         (B) The rate or fare displayed to the Passenger must include all applicable fees or surcharges, including any lawful price multiplier or variable pricing policy in effect. 
+
+         (C) If any lawful price multiplier or variable pricing policy is in effect, the Dispatch Service Provider must require the Passenger to affirmatively acknowledge and accept the price multiplier or variable pricing policy prior to E-Dispatching a Vehicle. 
+
+         (D) The Dispatch Service Provider must provide Passengers, upon request, an estimate of the total fare in dollars and cents for the specific trip requested, inclusive of all fees and any price multiplier or variable pricing policy in effect. 
+
+      (ii) For E-Dispatches to Livery Vehicles: 
+
+         (A) The Dispatch Service Provider must provide a binding fare quote to any prospective Passenger requesting an E-Dispatch to a specified destination and intermediate stop(s) prior to acceptance of the trip pursuant to 35 RCNY § 59B-23(b)(1). 
+
+   (2) License Notification. The Dispatch Service Provider must provide the following information at the time a Passenger's trip request is accepted: 
+
+      (i) The name and TLC License number of the Base from which the Vehicle is being dispatched. 
+
+      (ii) The dispatched Vehicle's License number. 
+
+      (iii) The dispatched Driver's TLC Driver License number. 
+
+   (3) Passenger Complaint Notification. Upon receipt of a Passenger complaint, the Dispatch Service Provider must provide the Passenger with the "311" Commission complaint telephone number and inform the Passenger that only the TLC can suspend or revoke a Driver's TLC License. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 77-20(d)
+      - Penalty: $500 fine and/or suspension up to 60 days or revocation
+      - Appearance REQUIRED
+~
+
+
+
+ 
+
+(e) Wheelchair Accessibility. The Dispatch Service Provider must make a wheelchair accessible option available to allow Passengers to indicate that they would like a wheelchair accessible vehicle when requesting a trip through the Dispatch Service Provider. All E-dispatches made pursuant to a request for an accessible vehicle to a Dispatch Service Provider must meet the "Equivalent Service" requirements set forth in 35 RCNY § 59B-17(c)(2). 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 77-20(e)
+      - Penalty: $500 fine and/or suspension up to 60 days or revocation
+      - Appearance REQUIRED
+~
+
+
+
+ 
+
+(f) Security.
+
+   (1) If the Dispatch Service Provider accepts credit card, debit card, or pre-paid card payment, the Dispatch Service Provider must conform to applicable PCI Standards. 
+
+   (2) The Dispatch Service Provider must comply with the Information Security and Use of Personal Information Policy filed with the TLC pursuant to 35 RCNY § 77-05(d). 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 77-20(f)
+      - Penalty: $1,000 fine and/or suspension up to 60 days or revocation 
+      - Appearance REQUIRED
+~
+
+
+
+ 
+
+(g) Data Retention. All data required to be collected, transmitted and maintained pursuant to this section must be maintained for at least three (3) years. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 77-20(g)
+      - Penalty: $500 fine and/or suspension up to 60 days or revocation
+      - Appearance REQUIRED
+~
+
+
+
+ 
+
+
+
+
+
+
 Chapter 78: Licensing and Rules for Providers of E-Hail Applications
 --------------------------------------------------
 
@@ -33839,1118 +34946,6 @@ No E-Hail Application will be approved by the Commission pursuant to this Chapte
 
 *§ 78-22 Information Security Requirements. [Repealed]* ::
 
-
-
-
-
-
-
-Chapter 77: Licensing and Rules for Dispatch Service Providers
---------------------------------------------------
-
-
-
-*§ 77-01 Scope of the Chapter.* ::
-
-
-(a) To establish a formal procedure for the licensing and supervision of businesses that provide Dispatch Services.
-									
-
-(b) To establish requirements for providing Dispatch Services which must be met in order for Dispatch Service Providers to apply for and obtain a license.
-									
-
-(c) To establish services to be provided by Dispatch Service Providers for the benefit of individuals and businesses licensed by TLC and for the public.
-									
-
-(d) To establish appropriate penalties for the violation of these rules.
-									
-
-
-
-
-
-
-
-
-*§ 77-02 Penalties.* ::
-
-
-(a) Unlicensed Activity. Unlicensed Activity is the act of providing or advertising the provision of any service regulated by this chapter by:
-
-   (1) Any Dispatch Service Provider Licensee whose License is suspended, revoked, or expired and not yet renewed, or 
-
-   (2) Any entity that does not hold a Valid License from the Commission to provide Dispatch Services.
-
-(b) Specific Penalties. If there are specific penalties for violating a Rule, they will be shown at the end of the Rule. The penalty section will also state whether the violator must attend a Hearing.
-
-(c) Payment of Fines.
-
-   (1) Fines are due within 30 days of the day the Respondent is found guilty of the violation, unless:
-
-      (i) the Respondent files an appeal of the decision issued by the Taxi and Limousine Tribunal within the time required by 48 RCNY Chapter 5, in which case the payment of the fines will be deferred 30 days after the date of the appeal decision.
-
-   (2) If the fine is not paid by the close of business on the date due, the Commission will notify the Respondent in writing that the Respondent's License will be suspended in 10 business days of the date of the notification until the fine is paid, unless the Respondent demonstrates to the Commission, in person or in writing, that the fine has been paid.
-
-(d) Non-Renewal of License; Suspension; Revocation.
-
-   (1) Non-Renewal of License.
-
-      (i) If an Dispatch Service Provider License is not timely renewed, the Dispatch Service Provider must immediately notify each Licensee, including both Bases and Drivers, for whom the Dispatch Service Provider is providing Dispatch Service under the expired License that the License has expired and that the Licensee must terminate usage of the Dispatch Service.
-
-      (ii) Upon expiration of the Dispatch Service Provider License, the Dispatch Service Provider must not provide Dispatch Services for any further Licensees under the expired License.
-
-      (iii) Upon expiration of the Dispatch Service Provider License, the Dispatch Service Provider must immediately cease offering Dispatch Services to any Licensee or to the public in New York City.
-
-   (2) Suspension.
-
-      (i) If an Dispatch Service Provider's License has been suspended by the Commission, the Dispatch Service Provider must immediately notify each Licensee for whom the Dispatch Service Provider is providing Dispatch Service under the suspended License:
-
-            Of the dates during which the License is suspended, and
-
-            that the Licensee must terminate usage of the Dispatch Service for the duration of such suspension.
-
-      (ii) Upon suspension of the Dispatch Service Provider License, the Dispatch Service Provider must not provide Dispatch Services for any further Licensees under the suspended License for the duration of such suspension, and must immediately, for the duration of such suspension, cease offering Dispatch Services to any already enrolled Licensee or to the public in New York City.
-
-   (3) Revocation.
-
-      (i) If an Dispatch Service Provider's License has been revoked by the Commission, the Dispatch Service Provider must immediately notify each Licensee from whom the Dispatch Service Provider is providing Dispatch Service under the revoked License that:
-
-         *   its service agreement with the Dispatch Service Provider will be deemed terminated as of the date of License revocation, and
-
-         *   the Licensee must not continue to use the Dispatch Service.
-
-      (ii) Upon revocation of the Dispatch Service Provider License, the Dispatch Service Provider must not provide Dispatch Services for any further Licensees under the revoked License.
-
-      (iii) An Dispatch Service Provider whose License has been revoked must cease offering Dispatch Services under the revoked License to any Licensees or to the public for in New York City.
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY §77-02(d)
-      - Penalty: $1,000 fine
-      - Appearance NOT REQUIRED
-~
-
-
-
- 
-
-
-
-
-
-
-
-
-*§ 77-03 Definitions Specific to this Chapter.* ::
-
-
-(a) Applicant in this Chapter means an Applicant for an original or renewal Dispatch Service Provider License. 
-
-(b) Credit, Debit, and Prepaid Card Services. Any provision of Dispatch Service used to process Passenger payment of fare in a Vehicle by credit, debit, or prepaid card as described in 35 RCNY § 77-20(a). 
-
-(c) Dispatch Service has the same meaning as the same term in 35 RCNY § 51-03. 
-
-(d) Dispatch Service Provider has the same meaning as the same term in 35 RCNY § 51-03. 
-
-(e) E-Dispatch has the same meaning as the same term in 35 RCNY § 51-03. 
-
-(f) E-Dispatch Data. All data required to be collected, transmitted and maintained pursuant to 35 RCNY § 77-20(b). 
-
-(g) Dispatch Service Provider License is a license issued to a Dispatch Service Provider pursuant to this Chapter. 
-
-(h) License. When the term "License" is used by itself in this Chapter – and in this Chapter ONLY – it refers to an Dispatch Service Provider License. 
-
-(i) Modification of Dispatch Service. Any change to the manner in which the Dispatch Service Provider complies with the passenger or driver facing requirements contained in 35 RCNY § 77-20. 
-
-(j) Partner Base. A Base that has entered into an agreement with a Dispatch Service Provider pursuant to 35 RCNY § 77-15(c) for the provision of Dispatch Services and appears on the list of Partner Bases the Dispatch Service Provider files with the Commission pursuant to 35 RCNY § 77-05(c). 
-
-(k) PCI Standards. The Payment Card Industry Data Security Standards issued by the Payment Card Industry Security Standards Council as they may change from time to time. See www.pcisecuritystandards.org. 
-
-(l) Personal Information has the same meaning as the term as it is defined in New York General Business Law § 899-aa(1)(a) and includes such information pertaining to passengers and drivers. 
-
-(m) Service Levels. The standards of performance of the Dispatch Service and its components that are described in 35 RCNY §§ 77-17 and 77-20. 
-
-
-
-
-
-
-
-
-*§ 77-04 Licensing – General Requirements.* ::
-
-
-(a) Applicants for Dispatch Service Provider License. An Applicant for a Dispatch Service Provider License or its renewal may be an individual or a Business Entity. 
-
-(b) License for Each Dispatch Service. An application for a new or renewal Dispatch Service Provider License must be filed for each Dispatch Service for which Commission approval is sought. A separate Dispatch Service Provider License will be issued or renewed for each approved Dispatch Service. All License requirements of this Chapter apply to each License to be issued or renewed. 
-
-(c) Certification. Any new or renewal application for a Dispatch Service Provider License must be filed on a form approved by the Chairperson. The Applicant must swear (or affirm) that the information in the application is true, under penalty of perjury. 
-
-(d) Proof of Identity. The individual or Business Entity Person submitting the application for a Dispatch Service Provider License must provide to the Commission proof of identity in the form of a valid photo identification issued by the United States, a state or territory of the United States, or any political subdivision of a state or territory of the United States. 
-
-(e) Age. The individual or Business Entity Person submitting an application for a Dispatch Service Provider License or its renewal must be at least 18 years of age. 
-
-(f) Fit to Hold a License. An Applicant applying for a Dispatch Service Provider License or its renewal must demonstrate that they are Fit to Hold a License. 
-
-(g) Partnership Filings. When the Applicant is a partnership, it must file with its License application a certified copy of the partnership certificate from the clerk of the county where the principal place of business is located. 
-
-(h) Corporate or LLC Filings. When the Applicant is a corporation, it must file with its License application all of the following: 
-
-   (1) One of the following certificates: 
-
-      (i) A certified copy of its certificate(s) of incorporation with a filing receipt issued by the secretary of state if the Applicant was incorporated less than one year from the date of the License application; 
-
-      (ii) A certificate of good standing if the Applicant was incorporated more than one year from the date of the License application; or 
-
-      (iii) A copy of the certificate of incorporation, filing receipt, and authority to do business within the State of New York if the Applicant is an out-of-state corporation. 
-
-   (2) Limited Liability Companies (LLCs). When the Applicant is a limited liability company, it must file with its application the following: 
-
-      (i) A copy of its articles of organization. 
-
-(i) Uniqueness of Name. The Commission has the right to reject the proposed name of any Dispatch Service Provider that the Commission finds to be substantially similar to any name in use by another Dispatch Service Provider Licensee, or any name that contains the word(s) "hack," "taxi," "taxicab," "cab," "coach," or other designation of similar import. 
-
-(j) Payment of Fines and Fees.
-
-   (1) An Applicant, including an applicant for a renewal License, must pay, and provide proof of payment of, any outstanding fines or fees owed by the Applicant to 
-
-      (i) the Commission, 
-
-      (ii) NYC Department of Finance, 
-
-      (iii) NYC Department of Consumer Affairs, 
-
-      (iv) NYS DMV's Traffic Violations Bureau, and 
-
-      (v) any of their successor agencies. 
-
-   (2) This requirement includes payment of fines and fees owed as of the date of the application by 
-
-      (i) any Business Entity Persons of the Applicant, 
-
-      (ii) any Business Entity of which the Applicant is a Business Entity Person, and 
-
-      (iii) any Business Entity of which a Business Entity Person of Applicant is also a Business Entity Person. 
-
-(k) Address. An Applicant must give the Commission the Applicant's current Mailing Address and Email Address as required by 35 RCNY § 77-14. 
-
-(l) Intellectual Property. An Applicant must own the rights to or hold licenses to all the intellectual property associated with the manner in which the Applicant's provides Dispatch Services. The Commission reserves the right to request proof of such rights or licenses at any time during the term of the License. 
-
-
-
-
-
-
-
-
-*§ 77-05 Licensing – Specific Requirements.* ::
-
-
-(a) Approval of Dispatch Service Providers – New License. The Commission will not issue a Dispatch Service Provider License to any Applicant unless the Commission approves the manner in which the Dispatch Service Provider provides Dispatch Service. In determining whether to approve the Dispatch Service Provider License, the Commission will consider, in its sole discretion, whether the documentation required to be submitted by the Applicant pursuant to subdivision (b) of this section adequately demonstrates that the manner in which the Dispatch Service Provider provides Dispatch Service complies with all of the requirements set forth in 35 RCNY § 77-20, or as such requirements may be waived or modified by the Commission pursuant to subdivision (f) of this section. 
-
-(b) Documentation for Dispatch Service Provider Approval. The Applicant must submit with its License application a detailed description of the manner in which the Dispatch Service Provider provides Dispatch Service and its compliance with the requirements set forth in 35 RCNY § 77-20, as well a list of all third-party designees the Dispatch Service Provider will use in offering Dispatch Services. If the License application includes a payment option the Applicant must submit with its License application Documentation, to be renewed and resubmitted to the TLC every twelve (12) months, demonstrating compliance with the security standards set forth in 35 RCNY § 77-20(f), or as such standards may be waived or modified by the Commission pursuant to subdivision (f) of this section, and the successful results of the security testing. 
-
-(c) Partner Bases List. The Applicant must submit with its License application a list of all its Partner Bases. The Dispatch Service Provider must file with the Commission all updates to its list of Partner Bases within 5 business days of entering into a new Base agreement or terminating an existing Base agreement. 
-
-(d) Information Security and Use of Personal Information Policy. The Applicant must submit with its License application an information security and use of personal information policy that includes, at a minimum, the following information: 
-
-   (1) a statement of internal access policies relating to passenger and driver Personal Information for employees, contractors, and third party access, if applicable; 
-
-   (2) a statement that, except to the extent necessary to provide credit, debit, and prepaid card services and services for any application that provides for electronic payment, personal information will only be collected and used with such passenger's affirmative express consent and that such personal information will not be used, shared, or disclosed, except for lawful purposes; 
-
-   (3) procedures for notifying the Commission and affected parties of any breach of the security of the system, pursuant to section 899-aa of the General Business Law; 
-
-   (4) a statement that any credit, debit, or prepaid card information collected by the Applicant or a credit, debit, or prepaid card services provider is processed by the Applicant or such provider in compliance with applicable payment card industry standards, and 
-
-   (5) a statement of the Applicant's policies regarding the use of passenger geolocation information, which must include, at a minimum, a prohibition on the use, monitoring, or disclosure of trip information, including the date, time, pick-up location, drop-off location, and real-time vehicle location and any retained vehicle location records, without such passenger's affirmative express consent. 
-
-(e) Customer Service Contact Information. The Applicant must submit with its License application a working email address and/or phone number which Passengers can use to contact the Dispatch Service Provider for customer service inquiries. 
-
-(f) Modification of Dispatch Service. If, after a Dispatch Service Provider License is issued pursuant to this Chapter, the Dispatch Service Provider Licensee implements a Modification, the Dispatch Service Provider must notify the Commission upon implementing the Modification. 
-
-(g) Required Insurance. After submission of an application for a new Dispatch Service Provider License, an Applicant must provide to the Commission proof of the insurance required in this subdivision when the Commission requests it. Upon submission of an application to renew a Dispatch Service Provider License, the Dispatch Service Provider Licensee must provide to the Commission proof of the insurance required in this subdivision. 
-
-   (1) Professional Liability Insurance.
-
-      (i) In the Commission's discretion, if professional services will be performed by the Applicant in connection with any of the activities licensed under this Chapter, the Applicant must maintain and submit evidence of Professional Liability ("PL") Insurance appropriate to the type(s) of services performed by the Applicant in the amount of at least One Million Dollars ($1,000,000) per claim. The policy or policies must include an endorsement to cover the liability assumed by the Applicant under this Chapter arising out of the negligent performance of professional services or caused by an error, omission or negligent act of the Applicant or any employee or agent of the Applicant. 
-
-      (ii) If the Applicant's subcontractor(s) is/are performing or will perform professional services in connection with any of the activities licensed under this Chapter for which PL Insurance is reasonably commercially available, either the Applicant's PL Insurance under subparagraph (i) of this paragraph must cover the subcontractor(s) or such subcontractor(s) must maintain its/their own PL Insurance subject to all other requirements herein. 
-
-      (iii) Claims-made policies will be accepted for Professional Liability Insurance. The policies must have an extended reporting period option or automatic coverage of not less than two (2) years. If available as an option, the Applicant must purchase extended reporting period coverage effective on cancellation or termination of the insurance unless a new policy is secured with a retroactive date, including at least the last policy year. 
-
-   (2) General Requirements for Insurance Coverage and Policies.
-
-      (i) All required insurance policies must be maintained with companies that may lawfully issue the required policy and have an A.M. Best rating of at least A- / "VII" or a Standard and Poor's rating of at least A, unless prior written approval is obtained from the Commission. 
-
-      (ii) All insurance policies must be primary (and non-contributing) to any insurance or self-insurance maintained by the City. 
-
-      (iii) The Applicant must be solely responsible for the payment of all premiums for all required insurance policies and all deductibles or self-insured retentions to which the policies are subject, whether or not the City is an insured under the policy. 
-
-      (iv) There must be no self-insurance program with regard to any insurance required under this subdivision unless approved in writing by the Commission. Any self-insurance program must provide the City with all rights that would be provided by insurance otherwise required under this subdivision, including but not limited to the defense obligations that insurers are required to undertake in liability policies. 
-
-      (v) The City's limits of coverage for all types of insurance required under this subdivision must be the greater of: 
-
-         (A) the minimum limits set forth in this subdivision; or 
-
-         (B) the limits provided to the Applicant as Named Insured under all primary, excess, and umbrella policies of that type of coverage. 
-
-   (3) Proof of Insurance.
-
-      (i) For each policy required under this subdivision, the Applicant must file with the Commission a Declarations Page issued by the insurer. All Declaration Pages must be: 
-
-         (A) in a form acceptable to the Commission and certify the issuance and effectiveness of such policies of insurance, each with the specified minimum limits; and, 
-
-         (B) accompanied by either a duly executed "Certification by Insurer" in the form provided by the Commission or copies of all policies referenced in the Declarations Page. If complete policies have not yet been issued, binders are acceptable, until the complete policies have been issued, at which time such policies must be submitted. 
-
-      (ii) The Applicant must provide the Commission with a copy of any policy required under this subdivision upon demand by the Commission or the New York City Law Department. 
-
-      (iii) Acceptance by the Commission of a declarations page or a policy does not excuse the Dispatch Service Provider from maintaining policies consistent with all provisions of this subdivision (and ensuring that subcontractors maintain such policies) or from any liability arising from its failure to do so. 
-
-      (iv) If the Dispatch Service Provider receives notice, from an insurance company or other person, that any insurance policy required under this subdivision will expire, be cancelled, or terminated for any reason, the Dispatch Service Provider must immediately forward a copy of the notice to the Commission and the New York City Comptroller at: 
-
-         NYC Taxi and Limousine Commission         Attn: General Counsel         33 Beaver Street 22nd Floor         New York, New York 10004
-
-         New York City Comptroller         Attn: Office of Contract Administration         Municipal Building, One Centre Street, Room 1005         New York, New York 10007.
-
-   (4) Miscellaneous Insurance Provisions.
-
-      (i) Insurance coverage in the minimum amounts required in this subdivision shall not relieve the Dispatch Service Provider Licensee of any liability for indemnification under this Chapter. 
-
-      (ii) The Dispatch Service Provider waives all rights against the City, including its officers and employees, for any damages or losses that are covered under any insurance required under this subdivision (whether or not such insurance is actually procured or claims are paid under such insurance) or any other insurance applicable to the activities of the Dispatch Service Provider and/or its subcontractors required to be licensed under this Chapter. 
-
-      (iii) If the Dispatch Service Provider requires any subcontractor to procure insurance in connection with any of the activities licensed under this Chapter and requires the subcontractor to name the Dispatch Service Provider as an additional insured under such insurance, the Dispatch Service Provider must ensure that such entity also names the City, including its officers and employees, as an additional insured with coverage at least as broad as the most recently issued ISO form CG 20 26. 
-
-(h) Renewals of Required Insurance Policies. The Dispatch Service Provider must submit to the Commission certificates of insurance confirming renewals of insurance before coverage of insurance policies required under subdivision (h) of this section expires. Certificates of Insurance must comply with the requirements of subparagraph (h)(3)(i) above. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 77-05(h) 
-      - Penalty: $1,500 fine and/or suspension up to 60 days or revocation
-      - Appearance REQUIRED
-~
-
-
-
- 
-
-(i) Waivers or Modifications. Except where expressly prohibited by law, the Chairperson may, in his or her discretion, waive or modify any requirements for licensing under this Chapter in the interests of public safety and convenience. Requests for waivers or modifications must be submitted in writing to the Chairperson. 
-
-
-
-
-
-
-
-
-*§ 77-06 Licensing – Bond Required.* ::
-
-
-(a) Amount of Bond. An Applicant for an Dispatch Service Provider License or renewal must deposit or have deposited with the Commission a five thousand dollar ($5,000) bond, payable to the City of New York. The bond must be provided by one or more sureties approved by the Commission. 
-
-(b) Bond Guarantees. The bond must guarantee that the Applicant or licensed Dispatch Service Provider will: 
-
-   *   comply with all applicable provisions of law and rules of the Commission, 
-
-   *   pay all fines imposed by the Commission, and 
-
-   *   pay all judgments or settlements arising from any action connected in any way with the Dispatch Service Provider License. 
-
-(c) Fines and Judgments. The Dispatch Service Provider is immediately liable for the payment of any fine or judgment when the amount is determined or upon final determination of an appeal. If the fine is not paid as required by 35 RCNY § 77-02(c), the Commission may draw upon the bond. 
-
-
-
-
-
-
-
-
-*§ 77-07 Licensing – Fees and Term of License.* ::
-
-
-(a) Fee. Every application for a new or renewal Dispatch Service Provider License must be accompanied by a non-refundable application fee of $1,000 for each License to be issued or renewed. 
-
-(b) Form of Payment. All application fees must be paid in the form authorized by 35 RCNY § 52-40. 
-
-(c) No Refund if Application Denied. The Commission will not refund fees if it denies or disapproves the application. 
-
-(d) License Replacement Fee. The fee to replace any lost, damaged or destroyed License is $25. 
-
-(e) Term of License. The term of an Dispatch Service Provider License will be three years or less and each License will expire on October 31st. 
-
-(f) When to File for Renewal.
-
-   (1) A renewing Applicant must file a completed application at least sixty (60) days before the expiration date of the License. 
-
-   (2) Application Submission Date.
-
-      (i) Applications filed online: The date of submission is the date an application is filed online. 
-
-      (ii) Applications filed by mail: The date of submission is the postmark date. 
-
-      (iii) Applications filed in person: The date of submission is the date an application is filed in person. 
-
-   (3) The Commission will not accept a renewal application after the expiration date of the License. If the application is not filed before the expiration date, the License cannot be renewed. 
-
-(g) Suspended Licenses.
-
-   (1) If a License is suspended and is due to be renewed during the suspension, the Dispatch Service Provider must apply for renewal as required in subdivision (f) of this section to renew the License. Failure to complete the renewal requirements means that the License cannot be renewed. 
-
-   (2) A License that is suspended is not Valid and cannot be used until the suspension ends. This applies even if the Applicant has filed an application for a renewal. 
-
-
-
-
-
-
-
-
-*§ 77-08 Licensing – Cause for Denial, Suspension, or Revocation.* ::
-
-
-(a) Failure to Continuously Comply. Whenever the Commission determines that the Dispatch Service Provider no longer meets the requirements for the Dispatch Service Provider License, the Commission may suspend or revoke the License and deny any application for renewal. 
-
-(b) Summary Suspension. Nothing in this section limits the authority of the Commission to summarily suspend any Dispatch Service Provider License when it determines that a threat to public health, safety, or welfare exists. 
-
-(c) Failure to Complete Application Requirements.
-
-   (1) The Chairperson may deny an application for a new License if the Applicant has not completed all the requirements of an application within ninety (90) days of the date the application is filed. 
-
-   (2) The Chairperson may deny an application for a renewal License if the Applicant has not completed all the requirements of an application by the expiration date of the prior License. 
-
-(d) Additional Consideration of an Application. If a review of the application leads the Chairperson to believe that the Applicant may not be Fit to Hold a License, the Chairperson may seek additional information from the Applicant. This request for additional information may be an in-person interview, telephone call, letter, email, or other method of communication. This additional consideration may result in the denial of the application. Failure to provide any requested information within a reasonable period as requested or failure to appear at a scheduled interview will result in a denial of the application. 
-
-
-
-
-
-
-
-
-*§ 77-09 General Requirements – Unlicensed Activity.* ::
-
-
-(a) Dispatch Service Provider License Required. An individual or Business Entity must not provide Dispatch Services in New York City or enroll any individual or Business Entity for the provision of Dispatch Services without a Valid Dispatch Service Provider License. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 77-09
-      - Penalty: $10,000
-      - Appearance REQUIRED
-~
-
-
-
- 
-
-
-
-
-
-
-
-
-*§ 77-10 General Requirements – Compliance with Applicable Law.* ::
-
-
-(a) Licenses and Permits. A Dispatch Service Provider must obtain licenses and permits required by applicable local, state or federal law. 
-
-(b) Occupational Safety &amp; Health Administration. A Dispatch Service Provider must comply with all applicable Occupational Safety and Health Administration (OSHA) standards and requirements at the Dispatch Service Provider Licensee's place of business, as well as all other federal, state, and local laws governing its business. 
-
-(c) Payment of All Fines and Fees. A Dispatch Service Provider must pay all fines, fees, and taxes it owes to any federal, state, or local governmental jurisdiction when they are due. 
-
-(d) Workers' Compensation Laws. An Dispatch Service Provider must comply with all laws regarding workers' compensation and disability benefits, as well as all federal laws regarding the withholding of taxes and payment of FICA and other withholding taxes. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 77-10
-      - Penalty: $1,000 fine and/or suspension until compliance
-      - Appearance NOT REQUIRED
-~
-
-
-
- 
-
-
-
-
-
-
-
-
-*§ 77-11 General Requirements – Indemnification.* ::
-
-
-(a) Infringement Indemnification. A Dispatch Service Provider Licensee must defend, indemnify and hold the City harmless from any and all third-party claims (even if the allegations of the lawsuit are without merit) or judgments for damages and from costs and expenses (including reasonable attorneys' fees) to which the City may be subjected or which it may suffer or incur allegedly arising out of or in connection with any infringement by the Dispatch Service Provider Licensee, its employees, agents or subcontractors of any copyright, trade secrets, trademark or patent rights or any other property or personal right of any third party in the conduct of the licensed activities. Insofar as the facts or law relating to any third-party claim would preclude the City from being completely indemnified by the Dispatch Service Provider Licensee, the City shall be partially indemnified by the Dispatch Service Provider Licensee to the fullest extent permitted by law. 
-
-(b) Not Limited by Insurance. The indemnification obligations set forth in this section shall not be limited in any way by the Dispatch Service Provider Licensee's obligations to obtain and maintain insurance as provided in 35 RCNY § 77-05(g). 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 77-11(a)-(b)
-      - Penalty: $1,000 fine and/or suspension until compliance
-      - Appearance REQUIRED
-~
-
-
-
- 
-
-
-
-
-
-
-
-
-*§ 77-12 General Requirements – Unlawful Activities Prohibited.* ::
-
-
-(a) A Dispatch Service Provider Licensee must not file with the Commission any statement that he or she knows or reasonably should know to be false, misleading, deceptive, or materially incomplete. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 77-12 (a)
-      - Penalty: $10,000 fine and revocation
-      - Appearance REQUIRED
-~
-
-
-
- 
-
-
-
-
-
-
-
-
-*§ 77-13 General Requirements – Notice to TLC.* ::
-
-
-(i)*   Material Change in Information. A Dispatch Service Provider Licensee must notify the Commission of any material change in the information contained in its current Dispatch Service Provider License application or renewal prior to implementing the change. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 77-13(a)*
-      - Penalty: $1,000 fine and/or suspension up to 30 days
-      - Appearance REQUIRED
-~
-
-
-
- 
-
-(j)*   Suspension or Revocation of License. A Dispatch Service Provider Licensee must immediately notify the Commission in writing of any suspension or revocation of any license granted to the Dispatch Service Provider Licensee, or any other person acting on his or her behalf, by any agency of the City or State of New York, or the government of the United States. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 77-13(b)*
-      - Penalty: $1,000 fine and suspension until compliance
-      - Appearance REQUIRED
-~
-
-
-
- 
-
-(k)*   Security Breach. If the Dispatch Service Provider is required to make disclosures under State or Federal law regarding security breaches, including the New York State Information Security Breach and Notification Act (General Business Law § 899-aa), the Dispatch Service Provider Licensee must inform the Commission immediately following such disclosures. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 77-13(c)*
-      - Penalty: $1,000 fine and suspension until compliance
-      - Appearance REQUIRED
-~
-
-
-
- 
-
-* Editor's note: the designation of the divisions of this 35 RCNY § 77-13 and internal references thereto are presented here exactly as promulgated by TLC. 
-
-
-
-
-
-
-
-
-*§ 77-14 Business Requirements – Mailing and Email Address.* ::
-
-
-(a) Each Dispatch Service Provider must designate and provide to the Commission the street address of its primary Dispatch Service Provider location as its Mailing Address. 
-
-(b) A Dispatch Service Provider must have and provide to the Commission a working Email Address and telephone number at all times. 
-
-(c) A Dispatch Service Provider must report any change of Mailing Address, Email Address and telephone number to the Commission in person or by mail within ten days. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 77-14(a)-(c)
-      - Fine: $100
-      - Appearance NOT REQUIRED
-~
-
-
-
- 
-
-(d) Any communication from the Commission is sufficient if sent to the last Mailing Address or Email Address provided by the Dispatch Service Provider. 
-
-(e) Any communication from the Commission, except notices and summonses for which the manner of service is specified in 35 RCNY § 68-05, is sufficient if sent by email to the last Email Address provided by the Dispatch Service Provider. 
-
-
-
-
-
-
-
-
-*§ 77-15 Business Requirements – Fees Charged by Dispatch Service Provider Licensees.* ::
-
-
-(a) Fares.
-
-   (1) For all E-Dispatches: 
-
-      (i) A Dispatch Service Provider must NOT quote or charge a rate or fare that is greater than the rate or fare listed in the Rate Schedule filed with the Commission by its Partner Base(s). 
-
-      (ii) A Dispatch Service Provider must NOT charge Passengers any fee, including but not limited to the fees listed in subdivision (b) of this section, unless such fee is specifically listed in the Rate Schedule filed with the Commission by its Partner Base(s). 
-
-      (iii) A Dispatch Service Provider must NOT charge a rate or fare, inclusive of all fees, that is greater than the rate or fare provided to the Passenger pursuant to 35 RCNY § 77-20(d)(1). 
-
-   (2) For E-Dispatches to Livery Partner Bases: A Dispatch Service Provider must NOT charge a fare above the amount quoted to the Passenger pursuant to 35 RCNY § 77-20(d)(1). 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 77-15(a)
-      - Penalty: $1000 fine
-      - Appearance NOT REQUIRED
-~
-
-
-
- 
-
-(b) Notice of Fees. The Dispatch Service Provider must provide Passengers and/or Drivers with reasonable notice of all Passenger and Driver fees and rates charged by the Dispatch Service Provider, as applicable, including but not limited to any lawful price multipliers or variable pricing fees, cancellation fees, and no-show fees, prior to Drivers' or Passengers' use of the Dispatch Service to request or accept a trip. 
-
-   (1) The amounts of any fees must be disclosed to the Passenger by the Dispatch Service Provider. 
-
-   (2) The Dispatch Service Provider is permitted to charge cancellation fees to Passengers and/or Drivers who cancel E-Dispatched trips using the Dispatch Service if the cancellation fees comply with the notification requirements set forth in this subdivision and appear on the Rate Schedule filed with the Commission by its Partner Base(s). 
-
-   (3) The Dispatch Service Provider must provide Drivers and/or Passengers with reasonable notice of any modifications of such fees or rates prior to the effective date of the modifications. 
-
-(c) File Partner Base Agreement Terms. The Dispatch Service Provider must enter into a written agreement with each Base for which it provides Dispatch Service and must file with the Commission a sample of the form of agreement of such agreement. 
-
-(d) File User Agreement Terms. The Dispatch Service Provider must file with the Commission all forms of the user agreements, use contracts, and privacy terms it requires Passengers to agree to prior to providing Passengers Dispatch Service. The Dispatch Service Provider must file with the Commission all updates of such documents and/or terms reflecting changes thereto. 
-
-
-
-
-
-
-
-
-*§ 77-16 Business Requirements – Provision of Dispatch Services.* ::
-
-
-All of the following conditions apply with regard to a Dispatch Service Provider's provision of Dispatch Services: 
-
-(a) The Dispatch Service Provider must not provide Dispatch Services unless the manner in which the Dispatch Service Provider provides Dispatch Service has been approved by the Commission pursuant to this Chapter; 
-
-(b) No modification will be made to any Vehicle to install or mount a device through which the Dispatch Service Provider will provide Dispatch Service without the permission of the Chairperson and the approval of the device and its installation and/or mounting in the Vehicle. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 77-16
-      - Penalty: $500-$1,500 fine and/or suspension up to 60 days or revocation for each subdivision violated
-      - Appearance REQUIRED
-~
-
-
-
- 
-
-
-
-
-
-
-
-
-*§ 77-17 Business Requirements – Cooperation with the Commission.* ::
-
-
-Upon request of the Commission, a Dispatch Service Provider must make availavle at no charge a fully operable any device through which the Dispatch Service Provider offers Dispatch Services, to either Passengers or Drivers, and access to any requisite Base, Driver, and Passenger test IDs. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 77-17
-      - Penalty: $500 fine and suspension until compliance
-      - Appearance REQUIRED
-~
-
-
-
- 
-
-
-
-
-
-
-
-
-*§ 77-18 Business Requirements – Dispatch Service Provider Liability for Conduct of Employees.* ::
-
-
-(a) Liability for Employee Conduct. A Dispatch Service Provider must supervise and be responsible for the conduct of all of its employees, contractors, and agents for activities performed to carry out the requirements of this Chapter. This subdivision and subdivisions (b) and (c) of this section shall not be applicable to Drivers, or to individuals or business entities performing work for any Dispatch Service Provider or its subcontractor(s) who under applicable law are deemed to be independent contractors and not employees. 
-
-(b) Familiarizing Employees with Rules and Regulations. A Dispatch Service Provider must ensure that all of its employees, contractors, and agents are fully familiar with all relevant regulatory agency rules and regulations. 
-
-(c) Compliance with Laws. A Dispatch Service Provider must ensure that all of its employees, contractors, and agents perform their duties in compliance with all relevant federal, state, and city laws, rules, and regulations. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 77-18(a)-(c)
-      - Penalty: $500 fine and/or suspension up to 60 days or revocation
-      - Appearance REQUIRED
-~
-
-
-
- 
-
-
-
-
-
-
-
-
-*§ 77-19 Comply with Laws – Conduct Rules.* ::
-
-
-(a) Acceptance of Gift or Gratuity. A Dispatch Service Provider Licensee, any person acting on his or her behalf , or any of the Dispatch Service Provider's employees must not accept any gift, gratuity, or thing of value from an Owner or Driver of any vehicle licensed by the Commission or from anyone acting on behalf of an Owner or Driver for the purpose of violating any of these rules through acts of commission or omission. 
-
-(b) Reporting Requests for Gift or Gratuity. A Dispatch Service Provider Licensee, any person acting on the Dispatch Service Provider's behalf, or any of the Dispatch Service Provider's employees must immediately report to the Commission and the NYC Department of Investigation any request or demand for a gift, gratuity, or thing of value by any employee, representative, or member of the Commission or by any public servant. 
-
-(c) Offer of Gifts and Gratuities. A Dispatch Service Provider Licensee, any person acting on his or her behalf or any of the Dispatch Service Provider's employees must not offer or give any gift, gratuity, or thing of value to any employee, representative, or member of the Commission or to any other public servant. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 77-19(a)-(c)
-      - Penalty: $10,000 fine and revocation
-      - Appearance REQUIRED
-~
-
-
-
- 
-
-(d) Reporting Offers of Gift or Gratuity. A Dispatch Service Provider Licensee must notify the Commission immediately by telephone and in writing or email within 24 hours after receiving any offer of a gift or gratuity prohibited by subdivision (a) above. 
-
-(e) Fraud, Misrepresentation and Larceny. A Dispatch Service Provider Licensee, while performing his or her duties and responsibilities as a Dispatch Service Provider Licensee, must not commit or attempt to commit, alone or in concert with another, any act of fraud, misrepresentation, or larceny. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 77-19(d)-(e)
-      - Penalty: $10,000 fine and revocation
-      - Appearance REQUIRED
-~
-
-
-
- 
-
-(f) Willful Acts of Omission and Commission.
-
-   (1) Omission. While performing the duties and responsibilities of a Dispatch Service Provider Licensee, a Dispatch Service Provider Licensee must not deliberately fail to perform, alone or with another, any act where this failure is against the best interests of the public, although not specifically mentioned in these Rules. 
-
-   (2) Commission. While performing the duties and responsibilities of a Dispatch Service Provider Licensee, a Dispatch Service Provider Licensee must not deliberately perform, alone or with another, any act that is against the best interests of the public, although not specifically mentioned in these Rules. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 77-19(f)
-      - Penalty: $350 and/or suspension up to 30 days or revocation
-      - Appearance REQUIRED
-~
-
-
-
- 
-
-(g) Notice of Criminal Conviction.
-
-   (1) A Dispatch Service Provider Licensee must notify the Commission in writing within two (2) days after any criminal conviction of the Dispatch Service Provider Licensee or any of the Dispatch Service Provider Licensee's Business Entity Persons. 
-
-   (2) Notification must be in writing and must be accompanied by a certified copy of the certificate of disposition of the conviction issued by the clerk of the court. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 77-19(g)
-      - Penalty: $500 and/or suspension up to 30 days
-      - Appearance REQUIRED
-~
-
-
-
- 
-
-(h) Threats, Harassment, Abuse. A Dispatch Service Provider Licensee must not threaten, harass, or abuse any Commission or other governmental representative, public servant, or other person while performing his or her duties and responsibilities as a Dispatch Service Provider Licensee. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 77-19(h)
-      - Penalty: $500 and/or suspension up to 30 days or revocation
-      - Appearance REQUIRED
-~
-
-
-
- 
-
-(i) Use or Threat of Physical Force. A Dispatch Service Provider Licensee must not use or attempt to use any physical force against a Commission or other governmental representative, public servant, or other person while performing his or her duties and responsibilities as a Dispatch Service Provider Licensee. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 77-19(i)
-      - Penalty: $500 and/or suspension up to 60 days or revocation
-      - Appearance REQUIRED
-~
-
-
-
- 
-
-(j) Cooperation with Law Enforcement. A Dispatch Service Provider Licensee must cooperate with all law enforcement officers and representatives of the Commission at all times. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 77-19(j)
-      - Penalty: $250 fine
-      - Appearance NOT REQUIRED
-~
-
-
-
- 
-
-(k) Cooperation with the Commission. A Dispatch Service Provider Licensee must answer and comply as directed with all questions, communications, notices, directives, and summonses from the Commission or its representatives. A Dispatch Service Provider Licensee must produce his or her Commission License and other required documents whenever the Commission requires. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 77-19(k)
-      - Penalty: $250 fine and suspension until compliance
-      - Appearance REQUIRED
-~
-
-
-
- 
-
-
-
-
-
-
-
-
-*§ 77-20 Technical Requirements – Provision of Dispatch Service.* ::
-
-
-No Dispatch Service Provider will be approved by the Commission pursuant to this Chapter unless the manner in which it provides Dispatch Service complies with the all of the requirements set forth in this section or as such requirements may be waived or modified by the Commission pursuant to 35 RCNY § 77-05(i). 
-
-(a) Payment.
-
-   (1) Credit, Debit, and Prepaid Card Payment. If the Dispatch Service Provider accepts credit, debit, and prepaid cards for payment of fares, the Dispatch Service Provider: 
-
-      (i) must offer the Passenger a receipt in accordance with paragraph (2) of this subdivision; the receipt can be an electronic receipt; 
-
-      (ii) can offer pre-set payment options, including tip percentages, provided that the Passenger is permit Passengers to change the pre-set payment options for a given trip at any time prior to the completion of a trip and payment of fare, including changes to the tip amount; and, 
-
-      (iii) cannot require a Passenger to pay a tip to the Driver above the fare quoted or charged to the Passenger. 
-
-   (2) The Dispatch Service Provider must be able to generate an accurate receipt for payment of fare for fares paid using its Dispatch Service, and the receipt must be offered to the Passenger. Upon the Passenger's request a receipt must be transmitted to the Passenger. The receipt can either be in hard copy form or in electronic form and must contain all the following information: 
-
-      (i) Vehicle License number; 
-
-      (ii) Vehicle's affiliated Base License number; 
-
-      (iii) Driver's TLC Driver License number; 
-
-      (iv) Total amount due; 
-
-      (v) Itemized tolls (if applicable) by toll name and amount; 
-
-      (vi) Itemized fees charged (if any) including any lawful price multiplier or variable pricing policy in effect at the time of the trip; 
-
-      (vii) The "311" Commission complaint telephone number; and 
-
-      (viii) The public access information the Partner Base has on file with the TLC pursuant to 35 RCNY § 59B-21(c). 
-
-      (ix) The customer service contact information the Dispatch Service Provider has on file with the TLC. 
-
-   (3) A Dispatch Service Provider that accepts credit, debit, and prepaid cards for payment of fares must comply with all applicable PCI Standards. Credit, debit, and prepaid card information for electronic payments must not be stored locally on an electronic device through which the Dispatch Service Provider providers Dispatch Services. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 77-20(a)
-      - Penalty: $500 fine and/or suspension up to 60 days or revocation
-      - Appearance REQUIRED
-~
-
-
-
- 
-
-(b) E-Dispatch Data Collection and Transmission. A Dispatch Service Provider and its third party designee, if any, must be capable of automatically collecting and transmitting the following E-Dispatch data for each E-dispatched trip in a format, layout, and frequency prescribed by the Commission: 
-
-   (1) The date, time, and location of the Passenger to be picked up; 
-
-   (2) The Driver's TLC Driver License number; 
-
-   (3) The dispatched Vehicle's License number; 
-
-   (4) The TLC License number of the For-Hire Base affiliated to the dispatched Vehicle. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 77-20(b)
-      - Penalty: $500 fine and/or suspension up to 60 days or revocation
-      - Appearance REQUIRED
-~
-
-
-
- 
-
-(c) Dispatch Service Restrictions. A Dispatch Service Provider must conform to the following service restrictions: 
-
-   (1) The Dispatch Service Provider must not transmit requests for transportation or E-Dispatches to any Driver who 
-
-      (i) does not have a Valid FHV license, according to the listings on TLC's Current Licensees web page, 
-
-      (ii) is operating a Vehicle that does not have a Valid Black Car Vehicle, Livery Vehicle, or Luxury Limousine Vehicle License, according to the listings on TLC's Current Licensees web page, or 
-
-      (iii) is operating a Vehicle that is not affiliated with the Dispatch Service Provider's Partner Base(s). 
-
-   (2) If a Dispatch Service Provider sends dispatch requests to Drivers through an electronic, Driver-facing interface, that interface must be available to a Driver ONLY when the Vehicle is standing or stopped, except that the Driver-facing interface can permit a Driver to accept a dispatch with a single touch using pre-programmed buttons or using voice activation while the vehicle is in motion. All other uses of a Driver-facing interface must be velocity gated to prevent its use while the vehicle is in motion. 
-
-   (3) The Dispatch Service Provider must provide Dispatch Services to a Driver ONLY during the hours of operation its Partner Base(s) have on file with the Commission pursuant to 35 RCNY § 59B-21(b). 
-
-   (4) If the Dispatch Service Providers' Partner Bases have on file any of the same Public Access Information pursuant to 35 RCNY § 59B-21(c), the Dispatch Service Provider must clearly specify which Partner Base's rates will apply for a requested trip if the rate schedules the Partner Bases have on file with the Commission differ from each other. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 77-20(c)
-      - Penalty: $500 fine and/or suspension up to 60 days or revocation
-      - Appearance REQUIRED
-~
-
-
-
- 
-
-(d) Passenger Notifications. A Dispatch Service Provider must conform to the following notification requirements: 
-
-   (1) Price Notification. The Dispatch Service Provider must clearly state the rate or fare for all trips requested by a Passenger through the Dispatch Service Provider and must conform to the following specifications: 
-
-      (i) For E-Dispatches to Black Cars and Luxury Limousines: 
-
-         (A) The Dispatch Service Provider must disclose to the Passenger the rate or fare for a requested E-Dispatch. 
-
-         (B) The rate or fare displayed to the Passenger must include all applicable fees or surcharges, including any lawful price multiplier or variable pricing policy in effect. 
-
-         (C) If any lawful price multiplier or variable pricing policy is in effect, the Dispatch Service Provider must require the Passenger to affirmatively acknowledge and accept the price multiplier or variable pricing policy prior to E-Dispatching a Vehicle. 
-
-         (D) The Dispatch Service Provider must provide Passengers, upon request, an estimate of the total fare in dollars and cents for the specific trip requested, inclusive of all fees and any price multiplier or variable pricing policy in effect. 
-
-      (ii) For E-Dispatches to Livery Vehicles: 
-
-         (A) The Dispatch Service Provider must provide a binding fare quote to any prospective Passenger requesting an E-Dispatch to a specified destination and intermediate stop(s) prior to acceptance of the trip pursuant to 35 RCNY § 59B-23(b)(1). 
-
-   (2) License Notification. The Dispatch Service Provider must provide the following information at the time a Passenger's trip request is accepted: 
-
-      (i) The name and TLC License number of the Base from which the Vehicle is being dispatched. 
-
-      (ii) The dispatched Vehicle's License number. 
-
-      (iii) The dispatched Driver's TLC Driver License number. 
-
-   (3) Passenger Complaint Notification. Upon receipt of a Passenger complaint, the Dispatch Service Provider must provide the Passenger with the "311" Commission complaint telephone number and inform the Passenger that only the TLC can suspend or revoke a Driver's TLC License. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 77-20(d)
-      - Penalty: $500 fine and/or suspension up to 60 days or revocation
-      - Appearance REQUIRED
-~
-
-
-
- 
-
-(e) Wheelchair Accessibility. The Dispatch Service Provider must make a wheelchair accessible option available to allow Passengers to indicate that they would like a wheelchair accessible vehicle when requesting a trip through the Dispatch Service Provider. All E-dispatches made pursuant to a request for an accessible vehicle to a Dispatch Service Provider must meet the "Equivalent Service" requirements set forth in 35 RCNY § 59B-17(c)(2). 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 77-20(e)
-      - Penalty: $500 fine and/or suspension up to 60 days or revocation
-      - Appearance REQUIRED
-~
-
-
-
- 
-
-(f) Security.
-
-   (1) If the Dispatch Service Provider accepts credit card, debit card, or pre-paid card payment, the Dispatch Service Provider must conform to applicable PCI Standards. 
-
-   (2) The Dispatch Service Provider must comply with the Information Security and Use of Personal Information Policy filed with the TLC pursuant to 35 RCNY § 77-05(d). 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 77-20(f)
-      - Penalty: $1,000 fine and/or suspension up to 60 days or revocation 
-      - Appearance REQUIRED
-~
-
-
-
- 
-
-(g) Data Retention. All data required to be collected, transmitted and maintained pursuant to this section must be maintained for at least three (3) years. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 77-20(g)
-      - Penalty: $500 fine and/or suspension up to 60 days or revocation
-      - Appearance REQUIRED
-~
-
-
-
- 
 
 
 

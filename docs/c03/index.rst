@@ -3698,7 +3698,7 @@ Debt collector. The term "debt collector" means an individual who, as part of hi
 
 Location information. The term "location information" means a consumer's place of abode and his telephone number at such place, or his place of employment.
 
-Periodic statement. The term "periodic statement" means the statement of account certain creditors are required by 12 C.F.R. 226.7(b) [;Regulation Z]; to send at the end of each billing cycle for which there is an outstanding disputed debit or credit balance in excess of $1 in the account or with respect to which a finance charge is imposed.
+Periodic statement. The term "periodic statement" means the statement of account certain creditors are required by 12 C.F.R. § 226.7(b) [Regulation Z] to send at the end of each billing cycle for which there is an outstanding disputed debit or credit balance in excess of $1 in the account or with respect to which a finance charge is imposed.
 
 Reasonable period of time. The term "reasonable period of time" means in the absence of knowledge of circumstances to the contrary, ten business days.
 

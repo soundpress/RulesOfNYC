@@ -841,7 +841,7 @@ If any provision of these Regulations or the application thereof is held invalid
 
 (j) Criminal Record Discrimination in Obtaining Credit. No person may ask about or take any adverse action based on the nonconviction history of an individual in connection with an application or evaluation for credit.
 
-(k) Employers Seeking the Work Opportunity Tax Credit ("WOTC"). Employers who wish to claim the WOTC credit are not exempt from this chapter or the Fair Chance Act. Employers may, however, require an applicant to complete IRS form 8850 and US Department of Labor Form 9061 before a conditional offer is made so long as the information gathered is used solely for the purpose of applying for the WOTC.
+(k) Employers Seeking the Work Opportunity Tax Credit ("WOTC"). Employers who wish to claim the WOTC credit are not exempt from this chapter or the Fair Chance Act. Employers may, however, require an applicant to complete IRS form 8850 and U.S. Department of Labor Form 9061 before a conditional offer is made so long as the information gathered is used solely for the purpose of applying for the WOTC.
 
 
 

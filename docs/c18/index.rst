@@ -42,7 +42,7 @@ Chapter 2: Single Adult Homeless Shelter
 
    (4) Buildings with one or more complaints posted on the DOB website (Buildings Information System or BIS) within the four years preceding the time when a client's exit from shelter is being planned, or when the shelter otherwise considers referring a client to the address, that meet both criteria (i) and (ii) below:
 
-      (i) Coded as one or more of the following Complaint Categories:
+      (i) Coded as one or more of the following Complaint Categories: 
 
  
 

@@ -306,1145 +306,6 @@ Failure to comply with these rules or the terms or conditions of any permit issu
 
 
 
-Chapter 3: Penalty Schedule
---------------------------------------------------
-
-
-
-*§ 3-01 Department of Transportation Penalty Schedule.* ::
-
-
-All citations are to the Administrative Code of the City of New York or to this Title.
-
-Except as otherwise noted or provided in the relevant rule or law, a second or subsequent violation is a violation by the same respondent of the same provision of law, with a date of occurrence within 6 months of the date of occurrence of the previous violation.
-
-When a respondent is found to be in violation of any of the following provisions of the Administrative Code or this Title, any civil penalty recommended by the Hearing Officer under 48 RCNY § 6-17(c)(3), any default penalty imposed pursuant to 48 RCNY § 6-20(b) and subject to § 1049-a(d)(1)(d) of the Charter, and any civil penalty imposed for admissions of violation(s) pursuant to 48 RCNY § 6-09(a) or late admissions pursuant to 48 RCNY § 3-17 will be imposed in accordance with the following penalty schedule:
-
- 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - Section
-      - Description
-      - Penalty ($)
-      - Default ($)
-~
-
-
-
-
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - Admin. Code § 10-157(b), (c), (e)
-      - Failure to provide appropriate equipment to bicycle operator delivering on behalf of a business using a bicycle for commercial purposes (FIRST OFFENSE)
-      - 100
-      - 100
-    * - Admin. Code § 10-157(b), (c), (e)
-      - Failure to provide appropriate equipment to bicycle operator delivering on behalf of a business using a bicycle for commercial purposes (SECOND OR SUBSEQUENT OFFENSE)
-      - 250
-      - 250
-    * - Admin. Code § 10-157(d)
-      - Failure to produce or maintain a roster by a business using a bicycle for commercial purposes (FIRST OFFENSE)
-      - 100
-      - 100
-    * - Admin. Code § 10-157(d)
-      - Failure to produce or maintain a roster by a business using a bicycle for commercial purposes (SECOND OR SUBSEQUENT OFFENSE)
-      - 250
-      - 250
-    * - Admin. Code § 10-157(f)
-      - Failure to properly equip bicycle used on behalf of a business using a bicycle for commercial purposes (FIRST OFFENSE)
-      - 100
-      - 100
-    * - Admin. Code § 10-157(f)
-      - Failure to properly equip bicycle used on behalf of a business using a bicycle for commercial purposes (SECOND OR SUBSEQUENT OFFENSE)
-      - 250
-      - 250
-    * - Admin. Code § 10-157.1
-      - Failure to post Commercial Bicyclist Safety Poster containing required information (FIRST OFFENSE)
-      - 100
-      - 100
-    * - Admin. Code § 10-157.1
-      - Failure to post Commercial Bicyclist Safety Poster containing required information (SECOND OR SUBSEQUENT OFFENSE)
-      - 250
-      - 250
-    * - Admin. Code § 19-102(i)
-      - Use/opening of street without DOT permit
-      - 1,500
-      - 5,000
-    * - Admin. Code § 19-102(i)
-      - Use/opening of protected street without DOT permit
-      - 1,800
-      - 5,000
-    * - Admin. Code § 19-102(i)
-      - Working without DOT permit on controlled access highway
-      - 4,000
-      - 5,000
-    * - Admin. Code § 19-102(ii)
-      - Failure to comply with terms and conditions of DOT permit
-      - 1,200
-      - 3,600
-    * - Admin. Code § 19-102(ii)
-      - Failure to comply with terms and conditions of DOT permit on controlled access highway
-      - 4,000
-      - 5,000
-    * - Admin. Code § 19-107
-      - Street closing without DOT permit
-      - 1,800
-      - 5,000
-    * - Admin. Code § 19-108
-      - Failure to have DOT permit on site or in field office
-      - 50
-      - 150
-    * - Admin. Code § 19-109(a)
-      - Failure to provide adequate protection at worksite
-      - 1,200
-      - 3,600
-    * - Admin. Code § 19-109(b)
-      - Identifying signs improperly displayed or missing
-      - 100
-      - 300
-    * - Admin. Code § 19-117(a)
-      - Constructing vault without license or revocable consent
-      - 500
-      - 1,500
-    * - Admin. Code § 19-119
-      - Vault opening without proper protection
-      - 250
-      - 750
-    * - Admin. Code § 19-121(a)
-      - Construction materials/equipment stored on street without DOT permit
-      - 750
-      - 2,250
-    * - Admin. Code § 19-121(b)(2)
-      - Debris/construction materials obstructing gutters/sidewalk, etc.
-      - 250
-      - 750
-    * - Admin. Code § 19-121(b)(3)
-      - Construction material/equipment without proper reflective markings
-      - 250
-      - 750
-    * - Admin. Code § 19-121(b)(4)
-      - Material/equipment without name &amp; address of owner
-      - 100
-      - 300
-    * - Admin. Code § 19-121(b)(5)
-      - Construction material/equipment within 5 feet of surface of railroad tracks
-      - 500
-      - 1,500
-    * - Admin. Code § 19-121(b)(6)
-      - No street protection under construction material/equipment
-      - 250
-      - 750
-    * - Admin. Code § 19-121(b)(7)
-      - Obstruction of fire hydrant or bus stop
-      - 500
-      - 1,500
-    * - Admin. Code § 19-122
-      - Sand/dirt/rubbish/debris not removed from site within 7 days
-      - 250
-      - 750
-    * - Admin. Code § 19-123
-      - Commercial refuse container stored on the street without DOT permit
-      - 750
-      - 2,250
-    * - Admin. Code § 19-123
-      - No street protection under commercial refuse container
-      - 250
-      - 750
-    * - Admin. Code § 19-124(a)
-      - Canopy without DOT permit
-      - 100
-      - 300
-    * - Admin. Code § 19-125
-      - Post/pole/flagpole socket/lamppost without DOT permit/consent
-      - 100
-      - 300
-    * - Admin. Code § 19-126
-      - Use/movement/removal of crane/building/structure without DOT permit
-      - 1,000
-      - 3,000
-    * - Admin. Code § 19-133
-      - Unauthorized projections and encroachments on City property
-      - 250
-      - 750
-    * - Admin. Code § 19-133.1
-      - Maintaining an unlawful sidewalk ATM booth (Automated Teller Machine Booth) (FIRST DAY OF VIOLATION)
-      - 2,500
-      - 5,000
-    * - Admin. Code § 19-133.1
-      - Failure to remove an unlawful sidewalk ATM booth (CONTINUING VIOLATION- for every 5-day period the violation remains)
-      - 5,000
-      - 5,000
-    * - Admin. Code § 19-136
-      - Goods/wares/merchandise obstructing sidewalk
-      - 150
-      - 500
-    * - Admin. Code § 19-136(b)
-      - Vehicle(s) on sidewalk
-      - 50
-      - 300
-    * - Admin. Code § 19-138(b)
-      - Defacement of roadway or sidewalk
-      - 250
-      - 750
-    * - Admin. Code § 19-147(d)
-      - Failure to replace loose, slippery or broken utility maintenance hole (manhole) covers, castings
-      - 250
-      - 750
-    * - Admin. Code § 19-151
-      - Failure to comply with commissioner’s order
-      - 250
-      - 400
-    * - Admin. Code § 19-176(b)
-      - Unlawful bicycle riding
-      - 50
-      - 100
-    * - Admin. Code § 19-176(c)
-      - Riding bicycle on sidewalk in manner which endangers any person or property (FIRST OFFENSE)
-      - 100
-      - 300
-    * - Admin. Code § 19-176(c)
-      - Riding bicycle on sidewalk in manner which endangers any person or property (SECOND OR SUBSEQUENT OFFENSE)
-      - 200
-      - 600
-    * - Admin. Code § 19-176(c)
-      - Riding bicycle on sidewalk in manner which endangers any person or property and causes physical contact with a person (FIRST OFFENSE)
-      - 200
-      - 500
-    * - Admin. Code § 19-176(c)
-      - Riding bicycle on sidewalk in manner which endangers any person or property and causes physical contact with a person (SECOND OR SUBSEQUENT OFFENSE)
-      - 400
-      - 1,000
-    * - Admin. Code § 19-176.2(b)
-      - Operation of motorized scooter within the city of New York
-      - 500
-      - 500
-    * - Admin. Code § 19-190(a)
-      - Right of way - failure to yield
-      - 100
-      - 100
-    * - Admin. Code § 19-190(b)
-      - Right of way - failure to yield, physical injury
-      - 250
-      - 250
-    * - Admin. Code § 19-191(a)
-      - Leaving the scene - property damage (FIRST OFFENSE)
-      - 500
-      - 1,000
-    * - Admin. Code § 19-191(a)
-      - Leaving the scene – property damage (SECOND OR SUBSEQUENT OFFENSE)
-      - 1,000
-      - 2,000
-    * - Admin. Code § 19-191(b)
-      - Leaving the scene - physical injury (FIRST OFFENSE)
-      - 2,000
-      - 2,000
-    * - Admin. Code § 19-191(b)
-      - Leaving the scene – physical injury (SECOND OR SUBSEQUENT OFFENSE)
-      - 5,000
-      - 5,000
-    * - Admin. Code § 19-191(b)
-      - Leaving the scene - serious physical injury (FIRST OFFENSE)
-      - 10,000
-      - 10,000
-    * - Admin. Code § 19-191(b)
-      - Leaving the scene – serious physical injury (SECOND OR SUBSEQUENT OFFENSE)
-      - 15,000
-      - 15,000
-    * - Admin. Code § 19-191(b)
-      - Leaving the scene - death (FIRST OFFENSE)
-      - 15,000
-      - 15,000
-    * - Admin. Code § 19-191(b)
-      - Leaving the scene – death (SECOND OR SUBSEQUENT OFFENSE)
-      - 20,000
-      - 20,000
-    * - Admin. Code § 19-196
-      - Operating an all-terrain vehicle in the city of New York (FIRST OFFENSE)
-      - 500
-      - 500
-    * - Admin. Code § 19-196
-      - Operating an all-terrain vehicle in the city of New York (SECOND OR SUBSEQUENT OFFENSE REGARDLESS OF INTERVAL BETWEEN OFFENSES)
-      - 1,000
-      - 1,000
-    * - 34 RCNY § 2-02(a)(1)(ii)
-      - Failure to provide name and telephone number of emergency contact
-      - 250
-      - 500
-    * - 34 RCNY § 2-02(c)(2)
-      - Failure to display required signs at work site
-      - 250
-      - 350
-    * - 34 RCNY § 2-02(m)
-      - Illegally working on a street during an embargo
-      - 1,200
-      - 3,600
-    * - 34 RCNY § 2-04(f)(1)
-      - Canopy erected/maintained on a restricted street
-      - 150
-      - 450
-    * - 34 RCNY § 2-05(d)(8)(vi)
-      - Divisible construction materials or equipment stored on the roadway at a height greater than 5 feet
-      - 500
-      - 1,500
-    * - 34 RCNY § 2-05(d)(8)(vi)
-      - Divisible construction materials or equipment stored on the sidewalk at a height greater than 5 feet
-      - 500
-      - 1,000
-    * - 34 RCNY § 2-05(d)(10)
-      - Failure to provide space for loading &amp; unloading of materials on the roadway
-      - 250
-      - 750
-    * - 34 RCNY § 2-05(d)(12)
-      - Mixing mortar on roadway without protection
-      - 250
-      - 750
-    * - 34 RCNY § 2-05(d)(16)
-      - Failure to house overhead cables/hoses/wires with 14 feet minimum clearance on the sidewalk
-      - 250
-      - 500
-    * - 34 RCNY § 2-05(h)(1)
-      - Construction shanty/trailer without DOT permit
-      - 150
-      - 450
-    * - 34 RCNY § 2-05(h)(4)
-      - Failure to remove shanties/trailers from roadway/sidewalk
-      - 250
-      - 750
-    * - 34 RCNY § 2-05(i)(1)
-      - Crossing sidewalk with a motorized vehicle without DOT permit
-      - 250
-      - 500
-    * - 34 RCNY § 2-07(a)(2)
-      - Opening a utility access cover without an authorization number during an embargo.
-      - 1,500
-      - 5,000
-    * - 34 RCNY § 2-07(a)(4)
-      - Restricting more than 11 feet of roadway by opening covers/gratings
-      - 500
-      - 1,600
-    * - 34 RCNY § 2-07(a)(5)
-      - Opening more than two consecutive covers/gratings
-      - 500
-      - 1,600
-    * - 34 RCNY § 2-07(a)(6)
-      - Toolcart stored on sidewalk failed to provide a 5 foot minimum walkway
-      - 250
-      - 500
-    * - 34 RCNY § 2-07(a)(6)
-      - Toolcart stored on roadway without a DOT permit
-      - 250
-      - 750
-    * - 34 RCNY § 2-07(a)(6)
-      - Toolcart stored on sidewalk obstructing hydrant, bus stop, or driveway
-      - 500
-      - 500
-    * - 34 RCNY § 2-07(b)(2)
-      - Failure to repair defective street condition found within an area extending 12 inches outward from the perimeter of the cover/grating
-      - 250
-      - 750
-    * - 34 RCNY § 2-07(b)(2)
-      - Failure to obtain DOT permit for street plate covering defective condition
-      - 1,500
-      - 5,000
-    * - 34 RCNY § 2-07(b)(3)
-      - Utility cover/street hardware not flush with surrounding area
-      - 1,000
-      - 3,000
-    * - 34 RCNY § 2-07(c)(1)
-      - Doing non-emergency work on a critical roadway during restricted hours
-      - 2,000
-      - 3,000
-    * - 34 RCNY § 2-07(c)(4)(i)
-      - Opening a utility access cover without an authorization number
-      - 2,000
-      - 3,000
-    * - 34 RCNY § 2-07(c)(4)(iv)
-      - Failure to perform emergency work around the clock(covers/gratings)
-      - 1,000
-      - 3,000
-    * - 34 RCNY § 2-07(c)(4)(v)
-      - Failure to notify DOT of completion of emergency work (covers/gratings)
-      - 250
-      - 750
-    * - 34 RCNY § 2-09 (f)(4)(v)
-      - Except as in NYC Administrative Code § 19-152, failure to install or seal expansion joints as per subsection
-      - 250
-      - 750
-    * - 34 RCNY § 2-09(f)(4)(viii)
-      - Except as in NYC Administrative Code § 19-152, failure to fully replace defective sidewalk flag
-      - 250
-      - 500
-    * - 34 RCNY § 2-09(f)(4)(xiv)
-      - Except as in NYC Administrative Code § 19-152, failure to install pedestrian ramp as per DOT drawings
-      - 400
-      - 1,000
-    * - 34 RCNY § 2-09(f)(4)(xvi)
-      - Except as in NYC Administrative Code § 19-152, failure to obtain DOT approval for distinctive sidewalk
-      - 250
-      - 750
-    * - 34 RCNY § 2-09(f)(4)(xvi)(C)
-      - Failure to replace distinctive sidewalk in kind
-      - 250
-      - 500
-    * - 34 RCNY § 2-09(g)(1)(i)
-      - Failure to install curb before commencing any roadway paving operation or sidewalk construction
-      - 250
-      - 500
-    * - 34 RCNY § 2-11(c)(1)(iii)
-      - Failure to mark out proposed excavation area; failure to limit geographical area to be marked out and/or use of excessive or oversized markings.
-      - 1,500
-      - 5,000
-    * - 34 RCNY § 2-11(e)(1)
-      - Failure to notify City 24 hours before street work
-      - 250
-      - 500
-    * - 34 RCNY § 2-11(e)(2)
-      - Failure to use only hand held tools, rockwheels or other DOT approved tools to precut pavement
-      - 250
-      - 400
-    * - 34 RCNY § 2-11(e)(3)(i)
-      - Excavation down 5 feet or greater without shoring/sheeting/bracing
-      - 1,500
-      - 4,500
-    * - 34 RCNY § 2-11(e)(3)(ii)
-      - Tunneling/jacking without a DOT permit
-      - 400
-      - 1,200
-    * - 34 RCNY § 2-11(e)(4)(ii)
-      - Failure to plate excavation in driving lane or intersection
-      - 1,200
-      - 3,600
-    * - 34 RCNY § 2-11(e)(4)(v)
-      - Failure to post flagperson at worksite to give directions
-      - 800
-      - 2,400
-    * - 34 RCNY § 2-11(e)(5)
-      - Failure to maintain a 5-foot pedestrian walkway on sidewalk
-      - 250
-      - 750
-    * - 34 RCNY § 2-11(e)(8)(i)
-      - Unsuitable backfill material used
-      - 250
-      - 750
-    * - 34 RCNY § 2-11(e)(8)(vi)
-      - Restoration sunken more than 2 inches
-      - 500
-      - 1,000
-    * - 34 RCNY § 2-11(e)(9)(i)
-      - Temporary pavement not flush with surrounding area
-      - 500
-      - 1,000
-    * - 34 RCNY § 2-11(e)(10)(ii)
-      - Failure to properly place and ramp plating and decking
-      - 1,200
-      - 3,600
-    * - 34 RCNY § 2-11(e)(10)(iii)
-      - Failure to properly fasten plating and decking
-      - 1,200
-      - 3,600
-    * - 34 RCNY § 2-11(e)(10)(v)
-      - Failure to post “Steel Plates Ahead” or “Raise Plow” sign; failure to countersink plates flush with roadway
-      - 250
-      - 750
-    * - 34 RCNY § 2-11(e)(10)(vi)
-      - Failure to use skid resistant plating and/or decking on roadway
-      - 1,000
-      - 5,000
-    * - 34 RCNY § 2-11(e)(10(vii)
-      - Failure to remove plating and decking after final restoration or prior to DOT permit expiration.
-      - 250
-      - 500
-    * - 34 RCNY § 2-11(e)(10)(viii)
-      - Failure to add required identifying information to plating and decking
-      - 250
-      - 500
-    * - 34 RCNY § 2-11(e)(11)(iv)
-      - Failure to restore concrete-base roadway to same depth and strength as the original base concrete
-      - 400
-      - 1,000
-    * - 34 RCNY § 2-11(e)(11)(v)
-      - Failure to restore concrete base at same grade as existing base
-      - 400
-      - 1,000
-    * - 34 RCNY § 2-11(e)(11)(vi)
-      - Installing asphalt other than binder as a base course
-      - 400
-      - 1,000
-    * - 34 RCNY § 2-11(e)(11)(vi)
-      - Failure to install and compact binder in a maximum of four inch lifts
-      - 400
-      - 1,000
-    * - 34 RCNY § 2-11(e)(11)(vii)
-      - Failure to install protective plating over shallow conduit
-      - 250
-      - 500
-    * - 34 RCNY § 2-11(e)(11)(viii)
-      - Binder base or temporary restoration not flush with surrounding area
-      - 750
-      - 1,000
-    * - 34 RCNY § 2-11(e)(12)(ii)
-      - Wearing course not flush with surrounding area
-      - 750
-      - 2,250
-    * - 34 RCNY § 2-11(e)(12)(iii)
-      - Failure to provide minimum thickness of wearing course on full depth asphalt restoration
-      - 400
-      - 1,000
-    * - 34 RCNY § 2-11(e)(12)(v)
-      - Failure to restore entire pavement between street opening and curb
-      - 400
-      - 1,000
-    * - 34 RCNY § 2-11(e)(12)(vi)
-      - Failure to restore street in kind (non-historic district)
-      - 750
-      - 1,000
-    * - 34 RCNY § 2-11(e)(12)(vii)
-      - Failure to restore pavement in kind in designated historic district
-      - 250
-      - 750
-    * - 34 RCNY § 2-11(e)(12)(viii)
-      - Failure to properly seal and maintain the wearing course
-      - 250
-      - 750
-    * - 34 RCNY § 2-11(e)(12)(ix)
-      - Failure to obtain DOT permit for any changes to, or installation of, temporary roadway pavement markings and temporary construction, parking or regulatory signs and supports
-      - 750
-      - 1,000
-    * - 34 RCNY § 2-11(e)(12)(ix)
-      - Failure to restore in kind all roadway pavement markings, and any parking or regulatory signs or supports
-      - 750
-      - 1,000
-    * - 34 RCNY § 2-11(e)(12)(x)
-      - Failure to permanently restore cut within required time
-      - 800
-      - 2,400
-    * - 34 RCNY § 2-11(e)(13)(ii)
-      - Failure to restore concrete pavement at the same depth, strength and finish as original pavement
-      - 400
-      - 1,000
-    * - 34 RCNY § 2-11(e)(13)(v)
-      - Installing asphalt on a concrete street or concrete bus stop area
-      - 700
-      - 1,000
-    * - 34 RCNY § 2-11(e)(13)(vi)
-      - Failure to conform to the applicable Standard Detail Drawing #H-1042 or DOT approved standard (concrete roadways)
-      - 750
-      - 1,000
-    * - 34 RCNY § 2-11(e)(14)(i)
-      - Failure to apply color code identifying DOT permittee
-      - 50
-      - 150
-    * - 34 RCNY § 2-11(e)(14)(iii)
-      - Failure to install a color coding marker at the end of the restoration
-      - 250
-      - 750
-    * - 34 RCNY § 2-11(e)(16)(i)(A)
-      - Failure to submit a street opening location form (“cutform”) upon DOT’s request
-      - 50
-      - 150
-    * - 34 RCNY § 2-11(e)(16)(iii)
-      - Failure to comply with all applicable sections of the Highway Rules, the Standard Specifications, Standard Detail Drawings, and all other applicable laws or rules
-      - 750
-      - 1,000
-    * - 34 RCNY § 2-11(f)(2)(ii)
-      - Failure to obtain a confirmation number prior to expiration of DOT street opening permit (protected street)
-      - 250
-      - 750
-    * - 34 RCNY § 2-11(f)(4)(i)
-      - Failure to obtain a confirmation number two hours prior to the commencement of a backfill on a protected street
-      - 750
-      - 2,250
-    * - 34 RCNY § 2-11 (f)(4)(v)
-      - Failure to conform to the applicable Standard Detail Drawing #H-1042 or DOT approved standard (protected street)
-      - 750
-      - 1,000
-    * - 34 RCNY § 2-11(g)(1)(i)
-      - Working without a valid emergency number
-      - 1,000
-      - 3,000
-    * - 34 RCNY § 2-11(g)(1)(ii)
-      - Doing non-emergency work with an emergency authorization number
-      - 1,000
-      - 3,000
-    * - 34 RCNY § 2-11(g)(2)(i)
-      - Failure to begin emergency work within 2 hours after authorization
-      - 500
-      - 1,500
-    * - 34 RCNY § 2-11(g)(2)(ii)
-      - Failure to perform emergency work around the clock
-      - 1,000
-      - 3,000
-    * - 34 RCNY § 2-11(g)(2)(viii)
-      - Failure to apply for DOT permit within two business days of emergency work
-      - 250
-      - 750
-    * - 34 RCNY § 2-13(l)(2)
-      - Failure to repair sidewalk covering a vault
-      - 250
-      - 400
-    * - 34 RCNY § 2-14(b)(1)
-      - Displaying or installing banners without DOT permit
-      - 150
-      - 450
-    * - 34 RCNY § 2-14(e)(2)(v)
-      - Failure to maintain and/or replace weatherproof receptacles as necessary for holiday/temporary lighting.
-      - 150
-      - 300
-    * - 34 RCNY § 2-14(e)(2)(viii)
-      - Failure to obtain and maintain the required insurance for holiday/temporary lighting.
-      - 250
-      - 500
-    * - 34 RCNY § 2-14(e)(2)(ix)
-      - Failure to obtain a DOT permit prior to commencing work for holiday/temporary lighting.
-      - 250
-      - 500
-    * - 34 RCNY § 2-14(e)(2)(x)
-      - Failure to remove temporary lighting and related equipment when required for holiday/temporary lighting.
-      - 250
-      - 500
-    * - 34 RCNY § 2-14(e)(2)(xiii)
-      - Use of electrical service exceeding 120 volts and/or fused larger than 15 amperes for holiday/temporary lighting.
-      - 250
-      - 500
-    * - 34 RCNY § 2-14 (e)(2)(xiv)
-      - Failure to comply with minimum height clearances for holiday/temporary lighting.
-      - 250
-      - 500
-    * - 34 RCNY § 2-14(e)(2)(xv)
-      - Supporting or securing holiday/temporary lighting to a fire escape or drainpipe; failure to insulate temporary lighting.
-      - 250
-      - 500
-    * - 34 RCNY § 2-14(e)(2)(xviii)
-      - Failure to obtain DOT approval for adjustments to work on holiday/temporary lighting.
-      - 200
-      - 400
-    * - 34 RCNY § 2-14(e)(2)(xix)
-      - Failure to perform changes mandated by DOT on holiday/temporary lighting.
-      - 150
-      - 300
-    * - 34 RCNY § 2-14(e)(2)(xxi)
-      - Failure to certify work for holiday/temporary lighting.
-      - 150
-      - 300
-    * - 34 RCNY § 2-14(f)(2)(i)
-      - Commercial refuse container stored or placed in an unauthorized area
-      - 250
-      - 750
-    * - 34 RCNY § 2-14(f)(2)(ii)
-      - Commercial refuse container stored or placed within 15 feet of a hydrant
-      - 250
-      - 750
-    * - 34 RCNY § 2-14(f)(2)(iv)
-      - Commercial refuse container placed in a crosswalk or pedestrian ramp
-      - 250
-      - 750
-    * - 34 RCNY § 2-14(f)(3)
-      - Commercial refuse container causing obstruction or interference
-      - 250
-      - 750
-    * - 34 RCNY § 2-14(f)(4)
-      - Unlabeled or improperly labeled commercial refuse container
-      - 250
-      - 750
-    * - 34 RCNY § 2-14(f)(5)
-      - Commercial refuse container not parallel to the curb or extended more than 9 feet into the roadway
-      - 250
-      - 750
-    * - 34 RCNY § 2-14(f)(6)
-      - Failure to have the proper street protection under commercial refuse container
-      - 250
-      - 750
-    * - 34 RCNY § 2-14(f)(7)
-      - Commercial refuse container without proper reflective markings on all four sides
-      - 250
-      - 750
-    * - 34 RCNY § 2-14(f)(8)
-      - Commercial refuse container/debris obstructing sidewalks, gutters, crosswalks or driveway
-      - 250
-      - 750
-    * - 34 RCNY § 2-20(a)(1)
-      - Item attached to City electrical equipment without DOT permit
-      - 250
-      - 500
-    * - 34 RCNY § 2-20(a)(2)
-      - Unauthorized person working within 3 feet of City electrical equipment
-      - 250
-      - 500
-    * - 34 RCNY § 2-20(a)(6)
-      - Failure to notify DOT’s Electrical Inspection Unit at least 72 hours prior to the commencement of non-emergency work
-      - 250
-      - 500
-    * - 34 RCNY § 2-20(a)(7)
-      - Breaking, defacing, removing, or interfering with equipment as per section
-      - 250
-      - 500
-    * - 34 RCNY § 2-20(b)(2)
-      - Installation of an overhead or wrap-around shunt without a DOT permit
-      - 250
-      - 500
-    * - 34 RCNY § 2-20(b)(4)
-      - Failure to replace shunt with permanent connection within 90 days
-      - 250
-      - 500
-    * - 34 RCNY § 2-20(b)(9)
-      - Failure to maintain overhead shunt or supports at minimum clearances
-      - 250
-      - 500
-    * - 34 RCNY § 2-20(e)(7)
-      - Failure to protect conductor against accidental contact or possible interference
-      - 250
-      - 500
-    * - 34 RCNY § 2-20(n)(2)
-      - Anchor guy attached to City property without DOT approval
-      - 250
-      - 500
-    * - 34 RCNY § 2-20(n)(3)(i)
-      - Anchor guy attached to City property within 25 feet of intersecting street
-      - 250
-      - 500
-    * - 34 RCNY § 2-20(n)(3)(ii)
-      - Anchor guy attached to City property where head guys or pole guys and cribbed poles sufficient
-      - 250
-      - 500
-    * - 34 RCNY § 2-20(n)(3)(iii)
-      - Anchor guy attached to City property interfering with the entrance of a building or garage
-      - 250
-      - 500
-    * - 34 RCNY § 2-20(n)(4)
-      - Anchor guy attached to City property not protected by approved shield
-      - 250
-      - 500
-    * - 34 RCNY § 2-20(q)(7)
-      - Failure to install or relocate street poles within 80 to 130 feet apart, unless authorized by DOT
-      - 500
-      - 500
-    * - 34 RCNY § 4-10(c)(1)
-      - Unauthorized passenger pickup or discharge (FIRST OFFENSE)
-      - 500
-      - 500
-    * - 34 RCNY § 4-10(c)(1)
-      - Unauthorized passenger pickup or discharge (SECOND OR SUBSEQUENT OFFENSE)
-      - 2,500
-      - 2,500
-    * - 34 RCNY § 4-10(d)(7)(ii)
-      - Failure of an intercity bus permit holder to prominently display a copy of an intercity bus permit (FIRST OFFENSE)
-      - 500
-      - 500
-    * - 34 RCNY § 4-10(d)(7)(ii)
-      - Failure of an intercity bus permit holder to prominently display a copy of an intercity bus permit (SECOND OR SUBSEQUENT OFFENSE)
-      - 2,500
-      - 2,500
-    * - 34 RCNY § 4-10(d)(7)(iii)
-      - Failure of an intercity bus permit holder to properly display the operator’s name, address and telephone number (FIRST OFFENSE)
-      - 500
-      - 500
-    * - 34 RCNY § 4-10(d)(7)(iii)
-      - Failure of an intercity bus permit holder to properly display the operator’s name, address and telephone number (SECOND OR SUBSEQUENT OFFENSE)
-      - 2,500
-      - 2,500
-    * - 34 RCNY § 4-10(d)(7)(v)
-      - Unlawful stopping or standing in an assigned on-street bus stop location except when actively engaged in the pick-up or discharge of passengers by an intercity bus permit holder (FIRST OFFENSE)
-      - 500
-      - 500
-    * - 34 RCNY § 4-10(d)(7)(v)
-      - Unlawful stopping or standing in an assigned on-street bus stop location except when actively engaged in the pick-up or discharge of passengers by an intercity bus permit holder (SECOND OR SUBSEQUENT OFFENSE)
-      - 2,500
-      - 2,500
-    * - 34 RCNY § 4-10(d)(7)(vi)
-      - Altering an intercity bus permit (FIRST OFFENSE)
-      - 500
-      - 500
-    * - 34 RCNY § 4-10(d)(7)(vi)
-      - Altering an intercity bus permit (SECOND OR SUBSEQUENT OFFENSE)
-      - 2,500
-      - 2,500
-    * - 34 RCNY § 4-12(p)(ii)
-      - Failure to register a business using a bicycle for commercial purposes with the Department
-      - 100
-      - 100
-    * - 34 RCNY § 4-16(b), (c), (d), and (e)
-      - Failure to comply with DOT Pedestrian Plaza Rules
-      - 500
-      - 500
-~
-
- 
-
-Penalty Schedule Related to Newsracks
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - Section
-      - Description
-      - Penalty ($)
-      - Default ($)
-~
-
-
-
-
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - Admin. Code § 19-128.1(b)(1)
-      - Newsrack exceeds size limits
-      - 100
-      - 500
-    * - Admin. Code § 19-128.1(b)(2)
-      - Newsrack used for impermissible advertising/promotional purposes
-      - 100
-      - 500
-    * - Admin. Code § 19-128.1(b)(3)
-      - Failure to keep coin return mechanism in good working order
-      - 100
-      - 500
-    * - Admin. Code § 19-128.1(b)(4)
-      - Failed to affix correct name/address/telephone number to newsrack as per subsection
-      - 100
-      - 500
-    * - Admin. Code § 19-128.1(b)(5), (6)
-      - Newsrack placed/installed/maintained in improper location
-      - 250
-      - 500
-    * - Admin. Code § 19-128.1(b)(7)
-      - Failure to place/install newsrack in a manner so that it cannot be tipped over
-      - 250
-      - 500
-    * - Admin. Code § 19-128.1(c)(1)
-      - Failure to notify DOT of newsrack information and compliance as per subsection
-      - 3,000
-      - 4,000
-    * - Admin. Code § 19-128.1(c)(2)
-      - Failure to notify DOT of required newsrack information for:
-      -  
-      -  
-    * -  
-      - 1-99 racks
-      - 375
-      - 500
-    * -  
-      - 100-249 racks
-      - 550
-      - 750
-    * -  
-      - 250-499 racks
-      - 1,100
-      - 1,500
-    * -  
-      - 500-749 racks
-      - 1,700
-      - 2,250
-    * -  
-      - 750-999 racks
-      - 2,300
-      - 3,000
-    * -  
-      - 1,000 + racks
-      - 3,000
-      - 4,000
-    * - Admin. Code § 19-128.1(d)
-      - Failure to maintain/provide required indemnification/insurance information for:
-      -  
-      -  
-    * -  
-      - 1-99 racks
-      - 375
-      - 500
-    * -  
-      - 100-249 racks
-      - 550
-      - 750
-    * -  
-      - 250-499 racks
-      - 1,100
-      - 1,500
-    * -  
-      - 500-749 racks
-      - 1,700
-      - 2,250
-    * -  
-      - 750-999 racks
-      - 2,300
-      - 3,000
-    * -  
-      - 1000+ racks
-      - 3,000
-      - 4,000
-    * - Admin. Code § 19-128.1(e)(1)
-      - Failure to/inaccurately certified graffiti-removal info for:
-      -  
-      -  
-    * -  
-      - 1-99 racks
-      - 375
-      - 500
-    * -  
-      - 100-249 racks
-      - 550
-      - 750
-    * -  
-      - 250-499 racks
-      - 1,100
-      - 1,500
-    * -  
-      - 500-749 racks
-      - 1,700
-      - 2,250
-    * -  
-      - 750-999 racks
-      - 2,300
-      - 3,000
-    * -  
-      - 1000 + racks
-      - 3,000
-      - 4,000
-    * - Admin. Code § 19-128.1(e)(1)
-      - Failure to maintain accurate logs/records as per subsection for:
-      -  
-      -  
-    * -  
-      - 1-99 racks
-      - 375
-      - 500
-    * -  
-      - 100-249 racks
-      - 550
-      - 750
-    * -  
-      - 250-499 racks
-      - 1,100
-      - 1,500
-    * -  
-      - 500-749 racks
-      - 1,700
-      - 2,250
-    * -  
-      - 750-999 racks
-      - 2,300
-      - 3,000
-    * -  
-      - 1000 + racks
-      - 3,000
-      - 4,000
-    * - Admin. Code § 19-128.1(e)(1)
-      - Failure to provide maintenance logs/records as per subsection for:
-      -  
-      -  
-    * -  
-      - 1-99 racks
-      - 375
-      - 500
-    * -  
-      - 100-249 racks
-      - 550
-      - 750
-    * -  
-      - 250-499 racks
-      - 1,100
-      - 1,500
-    * -  
-      - 500-749 racks
-      - 1,700
-      - 2,250
-    * -  
-      - 750-999 racks
-      - 2,300
-      - 3,000
-    * -  
-      - 1000 + racks
-      - 3,000
-      - 4,000
-    * - Admin. Code § 19-128.1(e)(2)
-      - Failure to remove refuse from newsrack as per subsection
-      - 100
-      - 500
-    * - Admin. Code § 19-128.1(e)(3)
-      - Newsrack empty/unsecured door for impermissible time
-      - 100
-      - 500
-    * - Admin. Code § 19-128.1(e)(4)
-      - Failure to correct newsrack damaged/in need of repair as per subsection
-      - 100
-      - 500
-    * - Admin. Code § 19-128.1(e)(5)
-      - Failure to repair damage to City property/sidewalk caused by newsrack
-      - 100
-      - 500
-    * - 34 RCNY § 2-08(e)(3)
-      - Failure to remove refuse from newsrack as per paragraph
-      - 100
-      - 500
-    * - 34 RCNY § 2-08(e)(5)
-      - Newsrack empty/unsecured door for impermissible time
-      - 100
-      - 500
-    * - 34 RCNY § 2-08(e)(4)
-      - Failure to correct newsrack damaged/in need of repair as per paragraph
-      - 100
-      - 500
-    * - 34 RCNY § 2-08(b)(3)
-      - Failure to repair damage to City property/sidewalk caused by newsrack
-      - 100
-      - 500
-    * - 34 RCNY § 2-08(d)(2)
-      - Failure to affix correct name/address/telephone number to newsrack as per paragraph
-      - 100
-      - 500
-    * - 34 RCNY § 2-08(d)(1)
-      - Newsrack exceeds size limits
-      - 100
-      - 500
-    * - 34 RCNY § 2-08(d)(3)
-      - Newsrack used for impermissible advertising/promotional purposes
-      - 100
-      - 500
-    * - 34 RCNY § 2-08(c)
-      - Newsrack placed/installed/maintained in improper location
-      - 250
-      - 500
-    * - 34 RCNY § 2-08(b)(1)
-      - Failure to place/install newsrack in a manner so that it cannot be tipped over
-      - 250
-      - 500
-    * - 34 RCNY § 2-08(b)(4)(i) and (ii)
-      - Failure to notify DOT of newsrack information and compliance as per paragraph
-      - 3,000
-      - 4,000
-    * - 34 RCNY § 2-08(b)(4)(iii), (iv) and (v)
-      - Subsequent to the initial notification to DOT, failure to notify DOT in accordance with rule requirements for:
-      -  
-      -  
-    * -  
-      - 1-99 racks
-      - 375
-      - 500
-    * -  
-      - 100-249 racks
-      - 550
-      - 750
-    * -  
-      - 250-499 racks
-      - 1,100
-      - 1,500
-    * -  
-      - 500-749 racks
-      - 1,700
-      - 2,250
-    * -  
-      - 750-999 racks
-      - 2,300
-      - 3,000
-    * -  
-      - 1,000 or more racks
-      - 3,000
-      - 4,000
-    * - 34 RCNY § 2-08(e)(2)
-      - Failure to maintain accurate logs/records per DOT requirements for:
-      -  
-      -  
-    * -  
-      - 1-99 racks
-      - 375
-      - 500
-    * -  
-      - 100-249 racks
-      - 550
-      - 750
-    * -  
-      - 250-499 racks
-      - 1,100
-      - 1,500
-    * -  
-      - 500-749 racks
-      - 1,700
-      - 2,250
-    * -  
-      - 750-999 racks
-      - 2,300
-      - 3,000
-    * -  
-      - 1,000 or more racks
-      - 3,000
-      - 4,000
-    * - 34 RCNY § 2-08(e)(2)
-      - Failure to provide maintenance logs/records to DOT on request for:
-      -  
-      -  
-    * -  
-      - 1-99 racks
-      - 375
-      - 500
-    * -  
-      - 100-249 racks
-      - 550
-      - 750
-    * -  
-      - 250-499 racks
-      - 1,100
-      - 1,500
-    * -  
-      - 500-749 racks
-      - 1,700
-      - 2,250
-    * -  
-      - 750-999 racks
-      - 2,300
-      - 3,000
-    * -  
-      - 1,000 or more racks
-      - 3,000
-      - 4,000
-    * - 34 RCNY § 2-08(f)
-      - Failure to maintain/provide proper indemnification/insurance information for:
-      -  
-      -  
-    * -  
-      - 1-99 racks
-      - 375
-      - 500
-    * -  
-      - 100-249 racks
-      - 550
-      - 750
-    * -  
-      - 250-499 racks
-      - 1,100
-      - 1,500
-    * -  
-      - 500-749 racks
-      - 1,700
-      - 2,250
-    * -  
-      - 750-999 racks
-      - 2,300
-      - 3,000
-    * -  
-      - 1,000 or more racks
-      - 3,000
-      - 4,000
-~
-
- 
-
-
-
-
-
-
 Chapter 4: Traffic Rules and Regulations
 --------------------------------------------------
 
@@ -1685,7 +546,7 @@ Chapter 4: Traffic Rules and Regulations
 *§ 4-04 Pedestrians.* ::
 
 
-(a) Pedestrians subject to traffic rules, except as otherwise provided herein. Pedestrians shall be subject to traffic control signals and pedestrian control signals as provided in 34 RCNY § 4-03(a) and 34 RCNY § 4-03(c) and to the lawful orders and directions of any law enforcement officer, but at all other places pedestrians shall be accorded the privileges and shall be subject to the restrictions stated in this section.
+(a) Pedestrians subject to traffic rules, except as otherwise provided herein. Pedestrians shall be subject to traffic control signals and pedestrian control signals as provided in 34 RCNY § 4-03(a) and (c) and to the lawful orders and directions of any law enforcement officer, but at all other places pedestrians shall be accorded the privileges and shall be subject to the restrictions stated in this section.
 
 (b) Right of way in crosswalks.
 
@@ -1905,57 +766,57 @@ Chapter 4: Traffic Rules and Regulations
 
       (i) Road service, all vehicles
 
-         (A) Gasoline delivery, not including cost of gas                  $25.00
+         (A) Gasoline delivery, not including cost of gas.....$25.00
 
-         (B) Removing each flat tire and replacing each with spare tire            $25.00
+         (B) Removing each flat tire and replacing each with spare tire.....$25.00
 
-         (C) Battery charge                              $25.00
+         (C) Battery charge.....$25.00
 
-      (ii) Passenger cars, hoist and tow, per mile and storage fees. Hoist and tow fees, per mile fees, and storage fees for all passenger cars towed pursuant to arterial tow service permits in the City of New York, shall be those provided for such services in subdivisions a and b of § 2-368 of subchapter EE of title 6 of the rules of the city of New York.
+      (ii) Passenger cars, hoist and tow, per mile and storage fees. Hoist and tow fees, per mile fees, and storage fees for all passenger cars towed pursuant to arterial tow service permits in the City of New York, shall be those provided for such services in subdivisions a and b of 6 RCNY § 2-368.
 
       (iii) Vehicles other than passenger cars
 
          (A) Any vehicle with a maximum gross vehicle weight over 4,500 lbs. and under 10,000 lbs.
 
-            (a) Preparation, hoist and tow, including first mile or fraction thereof         $125.00
+            (a) Preparation, hoist and tow, including first mile or fraction thereof.....$125.00
 
-            (b) Each additional mile                        $5.00
+            (b) Each additional mile.....$5.00
 
-            (c) Storage per 24-hour period                     $35.00
+            (c) Storage per 24-hour period.....$35.00
 
          (B) Any two axle truck or bus with a maximum gross vehicle weight from 10,000 to 18,000 lbs.
 
-            (a) Preparation, hoist and tow, including first mile or fraction thereof         $175.00
+            (a) Preparation, hoist and tow, including first mile or fraction thereof.....$175.00
 
-            (b) Each additional mile                        $10.00
+            (b) Each additional mile.....$10.00
 
-            (c) Use of under-lift                           $50.00
+            (c) Use of under-lift.....$50.00
 
-            (d) Storage per 24-hour period                     $50.00
+            (d) Storage per 24-hour period.....$50.00
 
          (C) Any two axle truck or bus with a maximum gross vehicle weight from 18,000 to 26,000 lbs.
 
-            (a) Preparation, hoist and tow, including first mile or fraction thereof         $250.00
+            (a) Preparation, hoist and tow, including first mile or fraction thereof.....$250.00
 
-            (b) Each additional mile                        $10.00
+            (b) Each additional mile.....$10.00
 
-            (c) Use of under-lift                           $50.00
+            (c) Use of under-lift.....$50.00
 
-            (d) Storage per 24-hour period                     $50.00
+            (d) Storage per 24-hour period.....$50.00
 
          (D) Any truck, bus or tractor trailer with a maximum gross vehicle weight above 26,000 lbs.
 
-            (a) Preparation, hoist and tow, including first mile or fraction thereof         $300.00
+            (a) Preparation, hoist and tow, including first mile or fraction thereof.....$300.00
 
-            (b) Each additional mile                        $10.00
+            (b) Each additional mile.....$10.00
 
-            (c) Use of under-lift                           $100.00
+            (c) Use of under-lift.....$100.00
 
-            (d) Storage for tractor, per 24-hour period                  $50.00
+            (d) Storage for tractor, per 24-hour period.....$50.00
 
-            (e) Storage for bus or trailer, per 24-hour period               $75.00
+            (e) Storage for bus or trailer, per 24-hour period.....$75.00
 
-         (E) Labor per 1/4 hour per truck or per person or tow operator            $50.00
+         (E) Labor per 1/4 hour per truck or per person or tow operator.....$50.00
 
          Applies only to vehicles over 4,500 lbs. in the following situations: overturned, wedged on guardrails, off-road recovery (embankment) and may apply to jackknifed, wedged under overpass/bridge, or broken/defective axle in which recovery (off-loading or positioning) must be performed prior to actual tow.
 
@@ -2067,7 +928,7 @@ Chapter 4: Traffic Rules and Regulations
 
 (l) Use of the Grand Central Parkway by certain vehicles. Notwithstanding any other provision of these rules to the contrary, single-unit vehicles with no more than three axles and ten tires may operate in both directions on the roadway of the Grand Central Parkway, between the Triborough Bridge and the western leg of the Brooklyn-Queens Expressway. Buses will continue to be prohibited from operating on the Grand Central Parkway without consent.
 
-(m) Use of the Korean War Veterans Parkway by certain vehicles. Notwithstanding any other provision of these rules to the contrary, not more than forty-ton motor vehicles commonly classified as construction trucks owned and/or operated by the Department of Environmental Protection of the City of New York, its agents or contractors shall be permitted the use of the Korean War Veterans Parkway during remediation of the Brookfield landfill in Staten Island for the purpose of the remediation of such landfill, provided that such trucks comply with all other provisions of applicable state and local law, including but not limited to 34 RCNY § 4-15 of these rules.
+(m) Use of the Korean War Veterans Parkway by certain vehicles. Notwithstanding any other provision of these rules to the contrary, not more than forty-ton motor vehicles commonly classified as construction trucks owned and/or operated by the Department of Environmental Protection of the City of New York, its agents or contractors shall be permitted the use of the Korean War Veterans Parkway during remediation of the Brookfield landfill in Staten Island for the purpose of the remediation of such landfill, provided that such trucks comply with all other provisions of applicable state and local law, including but not limited to 34 RCNY § 4-15.
 
 
 
@@ -2093,7 +954,7 @@ Chapter 4: Traffic Rules and Regulations
 
    (4) Parking prohibited. When parking is prohibited by signs or rules, no person shall stop a vehicle, attended or unattended, except temporarily for the purpose of and while expeditiously receiving or discharging passengers or loading of unloading property to or from the curb.
 
-   (5) Vehicles prohibited on berms and shoulders. Stopping, parking or operating a motor vehicle is prohibited on the berm or shoulder adjacent to a parkway or a highway as specified in 34 RCNY § 4-07(i) of these rules, except for emergency purposes.
+   (5) Vehicles prohibited on berms and shoulders. Stopping, parking or operating a motor vehicle is prohibited on the berm or shoulder adjacent to a parkway or a highway as specified in 34 RCNY § 4-07(i), except for emergency purposes.
 
    (6) Paper or other temporary signs. Any paper or other temporary signs posted by authorized agencies shall supersede all existing posted rules for the days and times specified.
 
@@ -2219,9 +1080,9 @@ Chapter 4: Traffic Rules and Regulations
 
    (9) Bicycle lanes. Within a designated bicycle lane.
 
-   (10) Restricted use and limited use streets. On any street designated as a restricted use street or a limited use street as defined in 34 RCNY § 4-12(r)(4) of these rules, except as otherwise provided in 34 RCNY § 4-12(r)(1).
+   (10) Restricted use and limited use streets. On any street designated as a restricted use street or a limited use street as defined in 34 RCNY § 4-12(r)(4), except as otherwise provided in 34 RCNY § 4-12(r)(1).
 
-   (11) Major roadways. On the improved or paved roadway of any of the arteries set forth in 34 RCNY § 4-07(i) of these rules, or on improved or paved roadways in a park or in parks, for the purpose of removing or replacing a flat tire, unless permitted by posted signs. For the purposes of this rule, a vehicle is considered to be on the improved or paved roadway unless the vehicle is completely off such roadway.
+   (11) Major roadways. On the improved or paved roadway of any of the arteries set forth in 34 RCNY § 4-07(i), or on improved or paved roadways in a park or in parks, for the purpose of removing or replacing a flat tire, unless permitted by posted signs. For the purposes of this rule, a vehicle is considered to be on the improved or paved roadway unless the vehicle is completely off such roadway.
 
    (12) Obstructing traffic at intersection. When vehicular traffic is stopped on the opposite side of an intersection, no person shall drive a vehicle into such intersection, except when making a turn, unless there is adequate space on the opposite side of the intersection to accommodate the vehicle the person is driving, notwithstanding the indication of a traffic control signal which would permit the person to proceed.
 
@@ -2229,7 +1090,7 @@ Chapter 4: Traffic Rules and Regulations
 
    (1) Double parking. On the roadway side of a vehicle stopped, standing, or parked at the curb, except a person may stand a commercial vehicle alongside a vehicle parked at the curb at such locations and during such hours that stopping, standing, or parking is not prohibited, while expeditiously making pickups, deliveries or service calls, provided that there is no unoccupied parking space or designated loading zone on either side of the street within 100 feet that can be used for such standing, and provided further that such standing is in compliance with the provisions of § 1102 of the State Vehicle and Traffic Law. A person may stand a commercial vehicle along the roadway side of a bicycle lane provided all other conditions of this paragraph are met. No person may stand a commercial vehicle in or along the roadway side of a bus lane, unless otherwise indicated by posted signs, markings or other traffic control devices, or at the direction of a law enforcement officer or other person authorized to enforce this rule. For the purposes of this paragraph (f)(1), "expeditiously making pick-ups, deliveries or service calls" shall mean that any period of inactivity at the pick-up, delivery or service-call location does not exceed 30 minutes. However, such definition shall in no way limit the discretion of the Department of Finance Adjudication Tribunal to determine whether a violation of this paragraph has occurred.
 
-   (2) Driveways. In front of a public or private driveway, except that it shall be permissible for the owner, lessor or lessee of the lot accessed by a private driveway to park a passenger vehicle registered to him/her at that address in front of such driveway, provided that such lot does not contain more than two dwelling units and further provided that such parking does not violate any other provision of the Vehicle and Traffic Law or local law or rule concerning the parking, stopping or standing of motor vehicles. The prohibition herein shall not apply to driveways that have been rendered unusable due to the presence of a building or other fixed obstruction and, therefore, are not being used as defined in 34 RCNY § 4-01(b) of these rules.
+   (2) Driveways. In front of a public or private driveway, except that it shall be permissible for the owner, lessor or lessee of the lot accessed by a private driveway to park a passenger vehicle registered to him/her at that address in front of such driveway, provided that such lot does not contain more than two dwelling units and further provided that such parking does not violate any other provision of the Vehicle and Traffic Law or local law or rule concerning the parking, stopping or standing of motor vehicles. The prohibition herein shall not apply to driveways that have been rendered unusable due to the presence of a building or other fixed obstruction and, therefore, are not being used as defined in 34 RCNY § 4-01(b).
 
    (3) Parks. In any park between one-half hour after sunset and one-half hour before sunrise, except at places designated or maintained for the parking of vehicles.
 
@@ -2239,7 +1100,7 @@ Chapter 4: Traffic Rules and Regulations
 
    (6) Safety zones. In a safety zone, between a safety zone and the adjacent curb or within thirty feet of points on the curb immediately opposite the ends of a safety zone.
 
-   (7) Pedestrian ramps. Alongside or in a manner which obstructs a curb area which has been cut down, lowered or otherwise constructed or altered to provide access for persons with disabilities at a marked or unmarked crosswalk as defined in subdivision (b) of 34 RCNY § 4-01 of this chapter. A person may stop, stand or park a vehicle alongside or in a manner which obstructs a pedestrian ramp not located within such crosswalk, unless otherwise prohibited.
+   (7) Pedestrian ramps. Alongside or in a manner which obstructs a curb area which has been cut down, lowered or otherwise constructed or altered to provide access for persons with disabilities at a marked or unmarked crosswalk as defined in subdivision (b) of 34 RCNY § 4-01. A person may stop, stand or park a vehicle alongside or in a manner which obstructs a pedestrian ramp not located within such crosswalk, unless otherwise prohibited.
 
 (g) General no parking zones (parking prohibited in certain places). No person shall park a vehicle in any of the following places, unless otherwise indicated by posted signs, markings or other traffic control devices:
 
@@ -2247,7 +1108,7 @@ Chapter 4: Traffic Rules and Regulations
 
    (2) Vacant lots. In a vacant lot, unless the operator of the vehicle has the written permission of the lot's owner so to park and has otherwise complied with §§ 10-112 and 10-113 of the Administrative Code.
 
-   (3) Marginal street and waterfronts. On a marginal street or waterfront, as defined in 34 RCNY § 4-01(b) of these rules.
+   (3) Marginal street and waterfronts. On a marginal street or waterfront, as defined in 34 RCNY § 4-01(b).
 
 (h) On-street and off-street metered zones.
 
@@ -2295,7 +1156,7 @@ Chapter 4: Traffic Rules and Regulations
 
    (7) Displaying, selling or offering merchandise for sale prohibited. No peddler or vendor shall park a vehicle at a metered parking space for purposes of displaying, selling, storing or offering merchandise for sale from the vehicle.
 
-   (8) Parking by disabled persons permitted. Rules pertaining to the use of parking meter zones shall not apply to vehicles operated by disabled persons duly displaying New York City special parking identification permits issued by the Department of Transportation pursuant to 34 RCNY § 4-08(o) of these rules, other than at those periods of time when no standing and no stopping restrictions are in effect in the metered zones.
+   (8) Parking by disabled persons permitted. Rules pertaining to the use of parking meter zones shall not apply to vehicles operated by disabled persons duly displaying New York City special parking identification permits issued by the Department of Transportation pursuant to 34 RCNY § 4-08(o), other than at those periods of time when no standing and no stopping restrictions are in effect in the metered zones.
 
 (i) Municipal off-street parking facilities.
 
@@ -2339,7 +1200,7 @@ Chapter 4: Traffic Rules and Regulations
 
 (k) Special rules for commercial vehicles.
 
-   (1) Parking of unaltered commercial vehicles prohibited. No person shall stand or park a vehicle with commercial plates in any location unless it has been permanently altered with all seats and rear seat fittings, except the front seats, removed, except that for vehicles designed with a passenger cab and a cargo area separated by a partition, the seating capacity within the cab shall not be considered in determining whether the vehicle is properly altered, and has the name and address of the owner as shown on the registration certificate plainly marked on both sides of the vehicle in letters and numerals not less than three inches in height, in compliance with § 10-127 of the Administrative Code and is also in compliance with paragraph (i) of the definition of commercial vehicle as set forth in 34 RCNY § 4-01 of these rules.
+   (1) Parking of unaltered commercial vehicles prohibited. No person shall stand or park a vehicle with commercial plates in any location unless it has been permanently altered with all seats and rear seat fittings, except the front seats, removed, except that for vehicles designed with a passenger cab and a cargo area separated by a partition, the seating capacity within the cab shall not be considered in determining whether the vehicle is properly altered, and has the name and address of the owner as shown on the registration certificate plainly marked on both sides of the vehicle in letters and numerals not less than three inches in height, in compliance with § 10-127 of the Administrative Code and is also in compliance with paragraph (i) of the definition of commercial vehicle as set forth in 34 RCNY § 4-01.
 
    (2) No standing except trucks loading and unloading. Where a posted sign reads "No Standing Except Trucks Loading and Unloading" or "Truck Loading Only", no vehicle except a commercial vehicle or a service vehicle as defined in 34 RCNY § 4-01(b), may stand or park in that area, for the purpose of expeditiously making pickups, deliveries or service calls, and except that in the area from 35th St. to 41st St., Avenue of the Americas to 8th Avenue, inclusive, in the Borough of Manhattan, between the hours of 7:00 A.M. and 7:00 P.M., no vehicle except a truck as defined in 34 RCNY § 4-13(a)(1) may stand or park for the purpose of expeditiously making pickups, deliveries, or service calls.
 
@@ -2367,11 +1228,11 @@ Chapter 4: Traffic Rules and Regulations
 
       (i) Between the hours of 7 a.m. and 7 p.m., daily except Sundays, from 14th to 60th Streets, 1st to 8th Avenues, all inclusive, in the Borough of Manhattan no operator shall stand a vehicle or combination of vehicles for the purpose of making pickups, deliveries or service calls in any one block of streets herein designated for a period of more than three hours unless otherwise posted. A vehicle or combination of vehicles not being used for expeditious pickups, deliveries or service calls is deemed to constitute a parked vehicle subject to parking rules applicable to that particular location.
 
-      (ii) Commercial parking meter area. Notwithstanding the provisions of subparagraph (i) of this paragraph, where signs are posted regulating the use of the curb by commercial vehicles it shall be unlawful to stand a vehicle in any space on a block unless such vehicle is a "commercial vehicle" as defined in 34 RCNY § 4-01(b)(i) of this chapter or a vehicle with a valid "combination" registration from another state, and unless such space is controlled by a parking meter. The maximum time for such metered parking on a single block shall be a total of three hours, unless otherwise indicated by a posted sign. The provisions of subdivision (h) of this section shall apply to commercial vehicles parked at a parking meter pursuant to this paragraph.
+      (ii) Commercial parking meter area. Notwithstanding the provisions of subparagraph (i) of this paragraph, where signs are posted regulating the use of the curb by commercial vehicles it shall be unlawful to stand a vehicle in any space on a block unless such vehicle is a "commercial vehicle" as defined in 34 RCNY § 4-01(b)(i) or a vehicle with a valid "combination" registration from another state, and unless such space is controlled by a parking meter. The maximum time for such metered parking on a single block shall be a total of three hours, unless otherwise indicated by a posted sign. The provisions of subdivision (h) of this section shall apply to commercial vehicles parked at a parking meter pursuant to this paragraph.
 
    (4) Parking in garment district restricted to trucks. Notwithstanding any provisions of these rules to the contrary, no vehicles except trucks and vans bearing commercial plates shall stand at the curb for the purpose of expeditiously loading and unloading between the hours of 7 a.m. and 7 p.m. daily, including Sundays, from 35th Street to 41st Street, between Avenue of the Americas and 8th Avenue, all inclusive, in the Borough of Manhattan. For the purpose of this paragraph (4), passenger vehicles, or station wagons bearing commercial plates shall not be deemed trucks or vans.
 
-   (5) Parking restricted in limited truck zones. No operator of truck shall stop, stand or park his/her vehicle upon any streets designated as "Limited Truck Zones," except for the purpose of making a delivery, loading or servicing within said zone, and except as otherwise provided in 34 RCNY § 4-13(d)(3) of these rules.
+   (5) Parking restricted in limited truck zones. No operator of truck shall stop, stand or park his/her vehicle upon any streets designated as "Limited Truck Zones," except for the purpose of making a delivery, loading or servicing within said zone, and except as otherwise provided in 34 RCNY § 4-13(d)(3).
 
    (6) Special Lower Manhattan Area Rule: standing time limit. Between the hours of 7 a.m. and 7 p.m., daily, on any street south of Houston Street, from the East River to the Hudson River, in the Borough of Manhattan:
 
@@ -2397,7 +1258,7 @@ Chapter 4: Traffic Rules and Regulations
 
    (4) Parking of doctors' and dentists' vehicles. Where parking is prohibited by signs, but not where stopping or standing is prohibited, a duly licensed physician or dentist may park his/her motor vehicle, identified by "MD," "OP" or "DDS" New York registration plates, on a roadway adjacent to hospitals or clinics for a period not to exceed three hours. For the purposes of this paragraph, only those portions of a roadway corresponding to the shaded areas on the diagrams below shall be considered adjacent to a hospital or clinic. At other locations where parking is prohibited by signs, but not where stopping or standing is prohibited, a duly licensed physician may park his/her motor vehicle, identified by "MD" or "OP" New York registration plates, for a period not to exceed one hour while actually attending to a patient in the immediate vicinity.
 
-   (5) Bus parking on streets prohibited. No person shall park a bus at any time on any street within the City of New York, unless authorized by signs, except that a charter bus may park where parking is otherwise permitted at its point of origin or destination. No operator of a bus shall make a bus layover, except as otherwise provided in 34 RCNY § 4-10(c) of these rules. Notwithstanding any local law or rule to the contrary, but subject to the provisions of the Vehicle and Traffic Law, it shall be permissible for a school bus owned, used or hired by a public or nonpublic school to park at any time, including overnight, upon any street or roadway, provided said bus occupies a parking spot in front of and within the building lines of the premises of the public or nonpublic school.
+   (5) Bus parking on streets prohibited. No person shall park a bus at any time on any street within the City of New York, unless authorized by signs, except that a charter bus may park where parking is otherwise permitted at its point of origin or destination. No operator of a bus shall make a bus layover, except as otherwise provided in 34 RCNY § 4-10(c). Notwithstanding any local law or rule to the contrary, but subject to the provisions of the Vehicle and Traffic Law, it shall be permissible for a school bus owned, used or hired by a public or nonpublic school to park at any time, including overnight, upon any street or roadway, provided said bus occupies a parking spot in front of and within the building lines of the premises of the public or nonpublic school.
 
    (6) Time limits. Where signs are erected specifying time limits on standing or parking, no person shall stand or park any vehicle in excess of the time so prescribed.
 
@@ -2413,7 +1274,7 @@ Chapter 4: Traffic Rules and Regulations
 
    (2) Parking for certain purposes prohibited. No person regularly engaged in the repair of vehicles shall park a vehicle upon any roadway or off-street parking facility for the principal purpose of washing, greasing, or repairing such vehicle, except repairs necessitated by an emergency.
 
-   (3) Parking for the purposes of commercial advertising prohibited. No person shall stand or park a vehicle on any street or roadway for the purpose of commercial advertising, as defined in 34 RCNY § 4-12(j)(1) of these rules, except as otherwise provided in that section.  
+   (3) Parking for the purposes of commercial advertising prohibited. No person shall stand or park a vehicle on any street or roadway for the purpose of commercial advertising, as defined in 34 RCNY § 4-12(j)(1), except as otherwise provided in that section.  
 
           
 
@@ -2953,7 +1814,7 @@ Chapter 4: Traffic Rules and Regulations
 
    (4) Relocation of on-street bus stop locations. The Department may relocate an assigned on-street bus stop location based on the criteria provided in subparagraph (iv) of paragraph (3) of this subdivision and upon ninety days notice to the permit holder.
 
-   (5) Permit fees. Permittees must pay an annual fee of thirty dollars for each scheduled weekly pick-up or drop-off listed on the Intercity Bus Permit issued by the Department. If the total permit fee exceeds $275 per vehicle used in the permitted bus operations, based on the documentation provided by permittee in its application, the permit fee will be reduced by the department to a maximum total of $275 per vehicle actually used in such permitted bus operations. If the permittee adds any buses to its operations not listed in its application pursuant to section 4-10(2)(H) of these rules during the term of such permit, and if the permittee's fee has already been reduced to a $275 per vehicle fee as provided for herein at the time of permit issuance, then the permittee shall be charged a fee of $275 for each additional vehicle.
+   (5) Permit fees. Permittees must pay an annual fee of thirty dollars for each scheduled weekly pick-up or drop-off listed on the Intercity Bus Permit issued by the Department. If the total permit fee exceeds $275 per vehicle used in the permitted bus operations, based on the documentation provided by permittee in its application, the permit fee will be reduced by the department to a maximum total of $275 per vehicle actually used in such permitted bus operations. If the permittee adds any buses to its operations not listed in its application pursuant to 34 RCNY § 4-10(2)(H) during the term of such permit, and if the permittee's fee has already been reduced to a $275 per vehicle fee as provided for herein at the time of permit issuance, then the permittee shall be charged a fee of $275 for each additional vehicle.
 
    (6) Term of Intercity Bus Permits. Intercity Bus Permits will be issued for a term of up to three years.
 
@@ -2985,9 +1846,9 @@ Chapter 4: Traffic Rules and Regulations
 
 (e) Routes. 
 
-   (1) Operators of empty buses and buses with "charter," "special," "contract carriage" or similar non-route specific authority given by the City of New York, the Department of Transportation, the Interstate Commerce Commission, or other legally authorized body, must adhere to the truck routes as described in § 4-13 of these rules, or other additional bus routes, except that an operator may operate on a street not designated as a truck route or bus route for the purpose of arriving at his/her destination. This shall be accomplished by leaving a designated truck route or bus route at the intersection that is nearest to his/her destination, proceeding by the most direct route, and then returning to the nearest designated truck route or bus route by the most direct route. If the operator has additional destinations in the same general area and there is no designated truck route or bus route that can be taken to the next destination, the operator may proceed to his/her next destination without returning to a designated truck route or bus route. The operator shall have in his/her possession throughout each trip a route slip, or similar document, showing the points of origin and destination of the trip. Upon the request of a law enforcement officer, or other authorized person, the bus operator shall present for inspection the above stated document or documents.
+   (1) Operators of empty buses and buses with "charter," "special," "contract carriage" or similar non-route specific authority given by the City of New York, the Department of Transportation, the Interstate Commerce Commission, or other legally authorized body, must adhere to the truck routes as described in 34 RCNY § 4-13, or other additional bus routes, except that an operator may operate on a street not designated as a truck route or bus route for the purpose of arriving at his/her destination. This shall be accomplished by leaving a designated truck route or bus route at the intersection that is nearest to his/her destination, proceeding by the most direct route, and then returning to the nearest designated truck route or bus route by the most direct route. If the operator has additional destinations in the same general area and there is no designated truck route or bus route that can be taken to the next destination, the operator may proceed to his/her next destination without returning to a designated truck route or bus route. The operator shall have in his/her possession throughout each trip a route slip, or similar document, showing the points of origin and destination of the trip. Upon the request of a law enforcement officer, or other authorized person, the bus operator shall present for inspection the above stated document or documents.
 
-   (2) Notwithstanding the provisions of § 4-10 paragraph (e)(1) above, no operator of a bus as described in paragraph (1) shall operate his/her vehicle upon any of the streets within the area served by the limited local truck route network in Staten Island as described in 34 RCNY § 4-13(c) of these rules, except for the purpose of arriving at a destination within the area served by the network. This shall be accomplished by using a designated truck route or bus route to the closest limited local truck route to the destination, using this limited local truck route to the intersection that is nearest to the destination. The operator shall then continue via the most direct route to the closest designated limited local truck route and then to the closest designated truck route or bus route. If the operator has additional destinations in the same general area, and there is no designated truck route, limited local truck route, or bus route that can be taken to the next destination, he/she may proceed to his/her next destination without returning to a designated limited local truck route.
+   (2) Notwithstanding the provisions of 34 RCNY § 4-10 paragraph (e)(1) above, no operator of a bus as described in paragraph (1) shall operate his/her vehicle upon any of the streets within the area served by the limited local truck route network in Staten Island as described in 34 RCNY § 4-13(c), except for the purpose of arriving at a destination within the area served by the network. This shall be accomplished by using a designated truck route or bus route to the closest limited local truck route to the destination, using this limited local truck route to the intersection that is nearest to the destination. The operator shall then continue via the most direct route to the closest designated limited local truck route and then to the closest designated truck route or bus route. If the operator has additional destinations in the same general area, and there is no designated truck route, limited local truck route, or bus route that can be taken to the next destination, he/she may proceed to his/her next destination without returning to a designated limited local truck route.
 
 (f) Required inspection of buses. No person shall operate or cause to be operated on any street any bus required by law, ordinance, resolution, or rule of any municipal, state, or federal authority to display a certificate, disc, sticker, poster, or other insignia evidencing that such bus has been inspected and is mechanically fit, or has been bonded or insured, or that prescribed fees have been paid, unless such a certificate, disc, sticker, poster or other insignia, currently valid, shall be displayed in the lower right hand corner of the interior surface of the windshield of such bus. In the event it is required that any writing be placed on any such certificate, disc, sticker, poster, or other insignia by someone other than a public official, no person shall operate or move or cause to be operated or moved on any street any such bus unless such writing shall have been placed on such certificate, disc, sticker, poster, or other insignia in black ink and in letters or numbers no less than one inch in height and three-fourths of an inch in width.
 
@@ -3125,9 +1986,9 @@ Chapter 4: Traffic Rules and Regulations
 
 (k) Snow Emergency.
 
-   (1) Standing and Parking Prohibited. When the Commissioner declares a state of snow emergency, no person shall stand or park a vehicle upon a street designated by signs as a snow street, or upon any part of the right of way, including the berm or shoulder adjacent to the roadways, entrances and exits of the expressways, parkways, bridges and tunnels set forth in 34 RCNY § 4-07 subdivision (i) of these rules, except in such areas and for such purposes as shall be designated by the Commissioner, until the Commissioner declares the prohibition of such standing or parking terminated. On certain designated snow streets, posted signs may prohibit parking on only one side of the street.
+   (1) Standing and Parking Prohibited. When the Commissioner declares a state of snow emergency, no person shall stand or park a vehicle upon a street designated by signs as a snow street, or upon any part of the right of way, including the berm or shoulder adjacent to the roadways, entrances and exits of the expressways, parkways, bridges and tunnels set forth in 34 RCNY § 4-07(i), except in such areas and for such purposes as shall be designated by the Commissioner, until the Commissioner declares the prohibition of such standing or parking terminated. On certain designated snow streets, posted signs may prohibit parking on only one side of the street.
 
-   (2) Operating vehicles prohibited. When the Commissioner declares a state of snow emergency, no person shall operate a vehicle upon a street designated by signs as a snow street or upon any part of the right of way, including the berm or shoulder adjacent to the roadways, entrances, and exits of the expressways, parkways, bridges and tunnels set forth in 34 RCNY § 4-07 subdivision (i) of these rules unless the drive, traction or powered wheels of said vehicle are equipped with skid chains or snow tires, until the Commissioner declares the state of snow emergency terminated.
+   (2) Operating vehicles prohibited. When the Commissioner declares a state of snow emergency, no person shall operate a vehicle upon a street designated by signs as a snow street or upon any part of the right of way, including the berm or shoulder adjacent to the roadways, entrances, and exits of the expressways, parkways, bridges and tunnels set forth in 34 RCNY § 4-07(i) unless the drive, traction or powered wheels of said vehicle are equipped with skid chains or snow tires, until the Commissioner declares the state of snow emergency terminated.
 
    (3) Snow tires defined. For the purposes of this rule, snow tires are defined as:
 
@@ -3141,7 +2002,7 @@ Chapter 4: Traffic Rules and Regulations
 
    (5) Use of parkways by certain vehicles. Notwithstanding any other provision of these rules, during snow emergencies declared by the Commissioner, commercial vehicles owned or operated by oil heating companies that are no more than 7 feet in height, no more than 8,500 pounds in maximum gross weight, and have no more than two axles and four tires may travel on parkways and other roadways where commercial vehicles are normally prohibited when such vehicles are responding to heat emergencies which require the repair of heating and hot water equipment. Such vehicles must abide by all posted weight limits and clearances on such roadways.
 
-(l) Emergency repairs. No person shall solicit or render repair service or push or tow any vehicle on any part of the right of way, including the berm or shoulder adjacent to the roadways, entrances and exits of the expressways and parkways, and bridges enumerated in § 4-07 subdivision (i) of these rules, except persons and vehicles operating pursuant to a permit issued by the Commissioner. This subdivision (l) shall not be deemed to prohibit emergency repairs by the occupants of a disabled vehicle.
+(l) Emergency repairs. No person shall solicit or render repair service or push or tow any vehicle on any part of the right of way, including the berm or shoulder adjacent to the roadways, entrances and exits of the expressways and parkways, and bridges enumerated in § 4-07(i), except persons and vehicles operating pursuant to a permit issued by the Commissioner. This subdivision (l) shall not be deemed to prohibit emergency repairs by the occupants of a disabled vehicle.
 
 (m) Bus lane restrictions on city streets.
 
@@ -3169,9 +2030,9 @@ Chapter 4: Traffic Rules and Regulations
 
 (o) Use of roadways.
 
-   (1) Pedestrians, horses, bicycles and limited use vehicles prohibited. In order to provide for the maximum safe use of the expressways, drives, highways, interstate routes, bridges and thruways set forth in 34 RCNY § 4-07 subdivision (i) of these rules and to preserve life and limb thereon, the use of such highways by pedestrians, riders of horses and operators of limited use vehicles and bicycles is prohibited, unless signs permit such use.
+   (1) Pedestrians, horses, bicycles and limited use vehicles prohibited. In order to provide for the maximum safe use of the expressways, drives, highways, interstate routes, bridges and thruways set forth in 34 RCNY § 4-07(i) and to preserve life and limb thereon, the use of such highways by pedestrians, riders of horses and operators of limited use vehicles and bicycles is prohibited, unless signs permit such use.
 
-   (2) Flat tires. No operator shall stop on the improved or paved roadway of any of the arteries set forth in 34 RCNY § 4-07 subdivision (i) of these rules, for the purpose of removing or replacing a flat tire. No person shall remove or replace a flat tire unless the vehicle is completely off the improved or paved roadway so that no part of the vehicle or person is exposed to passing vehicles.
+   (2) Flat tires. No operator shall stop on the improved or paved roadway of any of the arteries set forth in 34 RCNY § 4-07(i), for the purpose of removing or replacing a flat tire. No person shall remove or replace a flat tire unless the vehicle is completely off the improved or paved roadway so that no part of the vehicle or person is exposed to passing vehicles.
 
 (p) Bicycles. 
 
@@ -4106,7 +2967,7 @@ Through Truck Route Network
 
  ** All through trucks are prohibited from 34th Street between the Queens Midtown Tunnel and Dyer Avenue between the hours of 11:00 A.M. and 6:00 P.M.
 
-   (2) Local trucks. An operator of any truck as defined in paragraph (a)(1) above, having an origin or destination for the purpose of delivery, loading or servicing within the Borough of Manhattan, shall restrict the operation of such vehicle to those street segments designated on the following list as "Local Truck Routes," except that an operator may operate on a street not designated below for the purpose of leaving his/her origin or arriving at his/her destination (subject to restrictions specified in 34 RCNY § 4-13(d)(3) through 34 RCNY § 4-13(d)(5) of these rules). This shall be accomplished by leaving a designated truck route at an intersection that is nearest and provides the most direct route to his/her destination, proceeding by the most direct route while observing existing street directions and turn restrictions, and then returning to the nearest designated truck route by the most direct route. If the operator has additional destinations in the immediate vicinity, he/she may proceed by the most direct route to his/her next destination without returning to a designated truck route, provided that the operator's next destination does not require that he/she cross a designated truck route. All trucks must adhere to all posted signs indicating locations that limit the height of vehicles permitted to operate thereon.
+   (2) Local trucks. An operator of any truck as defined in paragraph (a)(1) above, having an origin or destination for the purpose of delivery, loading or servicing within the Borough of Manhattan, shall restrict the operation of such vehicle to those street segments designated on the following list as "Local Truck Routes," except that an operator may operate on a street not designated below for the purpose of leaving his/her origin or arriving at his/her destination (subject to restrictions specified in 34 RCNY § 4-13(d)(3) through (d)(5)). This shall be accomplished by leaving a designated truck route at an intersection that is nearest and provides the most direct route to his/her destination, proceeding by the most direct route while observing existing street directions and turn restrictions, and then returning to the nearest designated truck route by the most direct route. If the operator has additional destinations in the immediate vicinity, he/she may proceed by the most direct route to his/her next destination without returning to a designated truck route, provided that the operator's next destination does not require that he/she cross a designated truck route. All trucks must adhere to all posted signs indicating locations that limit the height of vehicles permitted to operate thereon.
 
 Local Truck Routes 
 
@@ -4414,7 +3275,7 @@ Local Truck Routes
 
       (iii) Boundaries. Bounded by the northern property line of 34th Street, the eastern property line of Eighth Avenue, the southern property line of 42nd Street and the western property line of Avenue of the Americas. Trucks passing completely through the designated area, or entering it for the purpose of reaching or leaving a street within these boundaries, are permitted to traverse Seventh Avenue and Broadway only.
 
-   (5) Operation of vehicles 33 feet or more in length restricted. Notwithstanding the provisions of 34 RCNY § 4-08(1)(2) and (3) and 34 RCNY § 4-13 of these rules, no operator of a vehicle or combination of vehicles used for the transportation of merchandise, having an overall length of 33 feet or more including load and bumpers, shall operate, enter, traverse, stop, stand, or park any such vehicle or combination of vehicles upon any of the streets included in the area bounded by the south property line of West 42nd Street, the west property line of 5th Avenue, the north property line of West 34th Street, and the east property line of 9th Avenue, all in the Borough of Manhattan, between the hours of 8 a.m. and 10 a.m., and between 12 noon and 6 p.m., Monday through Friday inclusive, except that the operator of any such vehicle or combination of vehicles who has lawfully entered this area may allow such vehicle or combination of vehicles to remain therein while being expeditiously loaded or unloaded, but must remove same therefrom before 12 noon, and provided that any vehicle or combination of vehicles 33 feet or more in length may enter such area in order to reach an off-street parking facility or terminal therein where such parking facility or terminal is sufficient in size to accommodate the vehicle or combination of vehicles, and where no waiting, loading, or unloading on the street by such vehicle or combination of vehicles will take place. Such vehicle or combination of vehicles may not stop between an entry point into the area and its destination for any purpose other than to conform with traffic rules.
+   (5) Operation of vehicles 33 feet or more in length restricted. Notwithstanding the provisions of 34 RCNY § 4-08(1)(2) and (3) and 34 RCNY § 4-13, no operator of a vehicle or combination of vehicles used for the transportation of merchandise, having an overall length of 33 feet or more including load and bumpers, shall operate, enter, traverse, stop, stand, or park any such vehicle or combination of vehicles upon any of the streets included in the area bounded by the south property line of West 42nd Street, the west property line of 5th Avenue, the north property line of West 34th Street, and the east property line of 9th Avenue, all in the Borough of Manhattan, between the hours of 8 a.m. and 10 a.m., and between 12 noon and 6 p.m., Monday through Friday inclusive, except that the operator of any such vehicle or combination of vehicles who has lawfully entered this area may allow such vehicle or combination of vehicles to remain therein while being expeditiously loaded or unloaded, but must remove same therefrom before 12 noon, and provided that any vehicle or combination of vehicles 33 feet or more in length may enter such area in order to reach an off-street parking facility or terminal therein where such parking facility or terminal is sufficient in size to accommodate the vehicle or combination of vehicles, and where no waiting, loading, or unloading on the street by such vehicle or combination of vehicles will take place. Such vehicle or combination of vehicles may not stop between an entry point into the area and its destination for any purpose other than to conform with traffic rules.
 
    (6) Special rules for vehicles 33 feet or more in length in the financial district and midtown core.
 
@@ -5743,7 +4604,7 @@ Chapter 5: Paratransit Program (Access-a-Ride)
 
 Access-a-Ride. "Access-a-Ride" is the service name of the City-sponsored program to provide transportation to eligible persons.
 
-Advance-reservation trip. "Advance-reservation trip," means a one-way trip for which a reservation shall have been made in accordance with 34 RCNY § 5-03(b) hereof.
+Advance-reservation trip. "Advance-reservation trip," means a one-way trip for which a reservation shall have been made in accordance with 34 RCNY § 5-03(b).
 
 Carrier. "Carrier" means a company that has contracted with the City to provide Access-a-Ride transportation to eligible persons in a borough of the City.
 
@@ -5753,7 +4614,7 @@ Eligible person. An "eligible person" means a transportation-disabled person who
 
 Late cancellation. "Late cancellation" means any cancellation received by a carrier after 3:00 p.m. on the day preceding a scheduled subscription trip or advance-reservation trip.
 
-No show. A "no show" means an occasion on which a participant has not cancelled a prescheduled subscription trip or advance-reservation trip and has subsequently failed to be present at the scheduled pick-up site as provided in 34 RCNY § 5-05(a) hereof.
+No show. A "no show" means an occasion on which a participant has not cancelled a prescheduled subscription trip or advance-reservation trip and has subsequently failed to be present at the scheduled pick-up site as provided in 34 RCNY § 5-05(a).
 
 Office of Paratransit Operations. "Office of Paratransit Operations" means the City Department of Transportation's Office of Paratransit Operations, and any successor governmental office, bureau, or agency thereof.
 
@@ -5887,7 +4748,7 @@ Improvement. "Improvement" means a tangible thing or object which may be install
 
 Public Service Corporation. "Public Service Corporation" means an entity subject to the jurisdiction of the Public Service Commission under the Public Service Law.
 
-Revocable Consent. "Revocable Consent" means a grant of a right, revocable at will, (1) to any person to construct and use for private use pipes, conduits and tunnels under, railroad tracks upon, and connecting bridges over inalienable property, (2) to an owner of real property or, with the consent of the owner, to a tenant of real property to use adjacent inalienable property for the purposes stated in 34 RCNY § 7-04 hereof or as may be permitted by rules of DoITT, or (3) to a public service corporation for facilities ancillary to, but not within, a franchise granted prior to July 1, 1990.
+Revocable Consent. "Revocable Consent" means a grant of a right, revocable at will, (1) to any person to construct and use for private use pipes, conduits and tunnels under, railroad tracks upon, and connecting bridges over inalienable property, (2) to an owner of real property or, with the consent of the owner, to a tenant of real property to use adjacent inalienable property for the purposes stated in 34 RCNY § 7-04 or as may be permitted by rules of DoITT, or (3) to a public service corporation for facilities ancillary to, but not within, a franchise granted prior to July 1, 1990.
 
 ULURP. "ULURP" means the Uniform Land Use Review Procedure as set out in §§ 197-c and 197-d of the Charter.
 
@@ -5899,7 +4760,7 @@ ULURP. "ULURP" means the Uniform Land Use Review Procedure as set out in §§ 19
 *§ 7-02 Requirement to Obtain a Revocable Consent.* ::
 
 
-With the exception of the city of New York and/or its agents, no person or entity shall install or maintain any of the improvements listed in 34 RCNY § 7-04 of these rules without first obtaining a revocable consent from the Department. The Department shall not issue a revocable consent for any improvement which, in the judgment of DCP, has land use impacts or implications, unless such revocable consent has been reviewed and approved pursuant to ULURP. Revocable consents may not be assigned, transferred or otherwise conveyed without the prior written approval of the Commissioner.
+With the exception of the city of New York and/or its agents, no person or entity shall install or maintain any of the improvements listed in 34 RCNY § 7-04 without first obtaining a revocable consent from the Department. The Department shall not issue a revocable consent for any improvement which, in the judgment of DCP, has land use impacts or implications, unless such revocable consent has been reviewed and approved pursuant to ULURP. Revocable consents may not be assigned, transferred or otherwise conveyed without the prior written approval of the Commissioner.
 
 
 
@@ -5909,7 +4770,7 @@ With the exception of the city of New York and/or its agents, no person or entit
 *§ 7-03 DCP Review.* ::
 
 
-(a)  The Department shall submit to DCP petitions for those improvements listed in 34 RCNY § 7-04(a) of these rules that do not meet the locational or dimensional standards in such 34 RCNY § 7-04(a). The Department shall also submit to DCP all petitions for the following improvements: bridge, above-ground cable, guard booth, information sign/kiosk, parking area for private use, and above-ground pipe/fuel line.
+(a)  The Department shall submit to DCP petitions for those improvements listed in 34 RCNY § 7-04(a) that do not meet the locational or dimensional standards in such 34 RCNY § 7-04(a). The Department shall also submit to DCP all petitions for the following improvements: bridge, above-ground cable, guard booth, information sign/kiosk, parking area for private use, and above-ground pipe/fuel line.
 
 (b) DCP shall review each petition submitted by the Department to determine whether or not a proposed revocable consent has land use impacts or implications and whether, as a result, ULURP applies, and shall notify the Department of its determination. The Department shall notify the petitioner of the determination by DCP regarding the applicability of ULURP and shall stay its final decision pending ULURP approval.
 
@@ -5917,7 +4778,7 @@ With the exception of the city of New York and/or its agents, no person or entit
 
 (d) No revocable consent shall be granted by the Department if the application for such consent has been disapproved pursuant to ULURP. A revocable consent may be granted by the Department if the application for such consent has been approved pursuant to ULURP or if DCP determines the proposed improvement has no land use impacts.
 
-(e) The Department shall submit to DCP for review any petition for a renewal or amendment for an improvement listed in 34 RCNY § 7-04(a) of these rules where:
+(e) The Department shall submit to DCP for review any petition for a renewal or amendment for an improvement listed in 34 RCNY § 7-04(a) where:
 
    (1) such renewal or amendment includes a modification that does not meet a locational or dimensional standard in 34 RCNY § 7-04(a) or increases the degree of non-compliance with such locational or dimensional standard; or
 
@@ -6001,9 +4862,9 @@ With the exception of the city of New York and/or its agents, no person or entit
 
       (ii) Annual rate.
 
-         (A) Except as provided in § 7-04(a)(10)(ii)(B), below, the first year's annual rate shall be the greater of $1500 or (C × L × 0.16 × A), as defined in 34 RCNY § 7-10(a) of these rules, and subsequent years' rates shall be determined in accordance with 34 RCNY § 7-10(c) of these rules.
+         (A) Except as provided in 34 RCNY § 7-04(a)(10)(ii)(B), below, the first year's annual rate shall be the greater of $1500 or (C × L × 0.16 × A), as defined in 34 RCNY § 7-10(a), and subsequent years' rates shall be determined in accordance with 34 RCNY § 7-10(c).
 
-         (B) For non-commercial use connected to a residential building of six or fewer units, the greater of $100 or (C × L × 0.01 × A), as defined in 34 RCNY § 7-10(a) of these rules.
+         (B) For non-commercial use connected to a residential building of six or fewer units, the greater of $100 or (C × L × 0.01 × A), as defined in 34 RCNY § 7-10(a).
 
    (11) Flagpole.
 
@@ -6119,9 +4980,11 @@ With the exception of the city of New York and/or its agents, no person or entit
 
       (i) Standard. Sockets shall be flush with the sidewalk and fitted with spring-mounted flush covers. Posts or poles shall be no fewer than 30 inches and no greater than 48 inches high, including any connecting devices.
 
-      (ii) Annual rate. The first year's annual rate shall be the greater of $750 or (C × L × 0.16 × A), as defined in 34 RCNY § 7-10(a) of these rules, where A is the area of the enclosed area, and subsequent years' rates shall be determined in accordance with 34 RCNY § 7-10(c).
+      (ii) Annual rate. The first year's annual rate shall be the greater of $750 or (C × L × 0.16 × A), as defined in 34 RCNY § 7-10(a), where A is the area of the enclosed area, and subsequent years' rates shall be determined in accordance with 34 RCNY § 7-10(c).
 
-   (27) Stoop, step, ramp, vestibule or other entrance detail extending beyond limits set in Articles 8 and 9 of Subchapter 4 of Chapter 1 of Title 27 of the Administrative Code, other than a ramp described in 34 RCNY § 7-04(a)(23) hereof or a stoop or other improvement described in 34 RCNY § 7-04(a)(29) hereof.
+   (27) Stoop, step, ramp, vestibule or other entrance detail extending beyond limits set in Articles 8 and 9 of Subchapter 4 of Chapter 1 of Title 27 of the Administrative Code, other than a ramp described in 34 RCNY § 7-04
+									(a)(23) or a stoop or other improvement described in 34 RCNY § 7-04
+									(a)(29).
 
       (i) Standard. Such structures shall be constructed pursuant to the requirements of the New York City Department of Buildings and shall have a maximum width of eight feet and shall extend as far as such structures on adjacent buildings.
 
@@ -6151,7 +5014,8 @@ With the exception of the city of New York and/or its agents, no person or entit
 
       (ii) Annual rate. See 34 RCNY § 7-10.
 
-   (32) Any improvement listed in 34 RCNY § 7-04 for which a consent is proposed to be granted where the grantee has filed an application concerning the subject property pursuant to § 4-105 of the Administrative Code, or any improvement listed in § 7-04 of these rules where the construction of such improvement was funded 50 percent or more by a City agency.
+   (32) Any improvement listed in 34 RCNY § 7-04
+									 for which a consent is proposed to be granted where the grantee has filed an application concerning the subject property pursuant to § 4-105 of the Administrative Code, or any improvement listed in 34 RCNY § 7-04 where the construction of such improvement was funded 50 percent or more by a City agency.
 
       (i) Standard. Refer to standards listed above for individual structures.
 
@@ -6163,7 +5027,7 @@ With the exception of the city of New York and/or its agents, no person or entit
 
       (ii) Annual rate. None.
 
-      (iii) This paragraph shall not be construed to apply to any improvement(s) listed in paragraph 35 of subdivision (a) of 34 RCNY § 7-04 of these Rules.
+      (iii) This paragraph shall not be construed to apply to any improvement(s) listed in paragraph 35 of subdivision (a) of 34 RCNY § 7-04.
 
    (34) Upon approval by the Public Design Commission, any work of art that is fully integrated into an improvement listed in 34 RCNY § 7-04.
 
@@ -6179,11 +5043,11 @@ With the exception of the city of New York and/or its agents, no person or entit
 
    (36) Bicycle racks.
 
-      (i) Standard. All bicycle racks shall be installed in compliance with the general conditions set forth in 34 RCNY § 7-06 of this title. A request that adheres to minimum clearances may nonetheless be denied by the Department if the bicycle rack would interfere with the safe passage of pedestrians.
+      (i) Standard. All bicycle racks shall be installed in compliance with the general conditions set forth in 34 RCNY § 7-06. A request that adheres to minimum clearances may nonetheless be denied by the Department if the bicycle rack would interfere with the safe passage of pedestrians.
 
       (ii) Annual rate. $25
 
-   (37) Any improvement that has been certified by a New York State Licensed Professional Engineer as a component of a flood mitigation system as defined in 34 RCNY § 2-10 of this title.
+   (37) Any improvement that has been certified by a New York State Licensed Professional Engineer as a component of a flood mitigation system as defined in 34 RCNY § 2-10.
 
       (i) Standard.
 
@@ -6197,9 +5061,9 @@ With the exception of the city of New York and/or its agents, no person or entit
 
       (ii) Fee. $2,000. This fee shall apply to the initial revocable consent application and shall not apply to renewal applications so long as the design of the improvement has not changed.
 
-(b) Other improvements approved by the Board of Estimate. Revocable consents that were granted by the Board of Estimate prior to July 1, 1990 for private improvements which are not listed in subdivision (a) above may be renewed, amended, or revoked by the Commissioner in his or her sole discretion, provided that any renewal or amendment shall be submitted to DCP when required pursuant to 34 RCNY § 7-03 of these rules. In each year of such consent, the annual rate shall increase by the average of the Consumer Price Index for All Urban Consumers in New York and New Jersey published by the U.S. Department of Labor's Bureau of Labor Statistics ("CPI") increase for the ten years prior to the date of the renewal of the consent. For consents granted pursuant to this subdivision to public service corporations, their annual rate increase shall be reduced by 15%.
+(b) Other improvements approved by the Board of Estimate. Revocable consents that were granted by the Board of Estimate prior to July 1, 1990 for private improvements which are not listed in subdivision (a) above may be renewed, amended, or revoked by the Commissioner in his or her sole discretion, provided that any renewal or amendment shall be submitted to DCP when required pursuant to 34 RCNY § 7-03. In each year of such consent, the annual rate shall increase by the average of the Consumer Price Index for All Urban Consumers in New York and New Jersey published by the U.S. Department of Labor's Bureau of Labor Statistics ("CPI") increase for the ten years prior to the date of the renewal of the consent. For consents granted pursuant to this subdivision to public service corporations, their annual rate increase shall be reduced by 15%.
 
-(c) Compliance with requirements. All improvements for which a revocable consent is granted shall comply with the general conditions in 34 RCNY § 7-06 of these rules.
+(c) Compliance with requirements. All improvements for which a revocable consent is granted shall comply with the general conditions in 34 RCNY § 7-06.
 
 
 
@@ -6235,9 +5099,7 @@ Petitions for revocable consents for telecommunications purposes shall be review
 
    (4) Improvements shall not be located under fire escapes.
 
-   (5) (i)  The following minimum distances shall be required between the revocable consent improvement and the specified element or object, except as otherwise specified herein:
-
- 
+   (5) (i)  The following minimum distances shall be required between the revocable consent improvement and the specified element or object, except as otherwise specified herein: 
 
  
 
@@ -6353,33 +5215,33 @@ Petitions for revocable consents for telecommunications purposes shall be review
 
 (b) Specified improvements. The filing fees listed in this paragraph shall apply to petitions for the following specified types of improvements: accessibility lift; bench; enclosure for trash receptacle; litter receptacle; planted area; planter; ramp intended to provide access for people with disabilities; stoop or step; or any improvement which has been approved by the Landmarks Preservation Commission:
 
-   (1) initial petition:            $100.00
+   (1) initial petition:.....$100.00
 
-   (2) renewal:             100.00
+   (2) renewal:.....$100.00
 
-   (3) modification:            100.00
+   (3) modification:.....$100.00
 
-   (4) assignment or transfer:          100.00
+   (4) assignment or transfer:.....$100.00
 
-   (5) recission:             100.00
+   (5) recission:.....$100.00
 
 (c) All other improvements, except for improvements approved for use for security purposes by the New York City Police Department.
 
-   (1) initial petition:              750.00
+   (1) initial petition:.....$750.00
 
-      (i) initial petition with a Special Street Plan Type F application with proof of payment of a fee in excess of $650.00:          100.00
+      (i) initial petition with a Special Street Plan Type F application with proof of payment of a fee in excess of $650.00:.....$100.00
 
-   (2) renewal:              500.00
+   (2) renewal:.....$500.00
 
    (3) modification
 
-      (i) contractual:          375.00
+      (i) contractual:.....$375.00
 
-      (ii) structural:          550.00
+      (ii) structural:.....$550.00
 
-   (4) assignment or transfer:          200.00
+   (4) assignment or transfer:.....$200.00
 
-   (5) rescission:             375.00
+   (5) rescission:.....$375.00
 
 (d)  Improvements approved for use for security purposes by the New York City Police Department. Filing fees shall not apply to any improvements approved for use for security purposes by the New York City Police Department.
 
@@ -6409,7 +5271,7 @@ Petitions for revocable consents for telecommunications purposes shall be review
 *§ 7-10 Annual Rate Schedule for Revocable Consent Improvements.* ::
 
 
-For all improvements that do not have an annual rate set forth in § 7-04(a), the annual rate of compensation for the first year of the term of each revocable consent shall be calculated in accordance with the following:
+For all improvements that do not have an annual rate set forth in 34 RCNY § 7-04(a), the annual rate of compensation for the first year of the term of each revocable consent shall be calculated in accordance with the following:
 
 (a) Definitions and variables.
 
@@ -6427,7 +5289,7 @@ For all improvements that do not have an annual rate set forth in § 7-04(a), th
 
    "Minimum Annual Charge" shall be assessed as follows: For improvements having a maximum cross-sectional area greater than four square feet, the Minimum Annual Charge shall be $3,000. For improvements having a maximum cross-sectional area of four square feet or less, the Minimum Annual Charge is $1,500, except that pipes and conduits having an outside diameter of three inches or less (inclusive of any protective sheath or casing) shall be assessed a Minimum Annual Charge of $750.
 
-   "R1" means the rate of compensation for the first year of the revocable consent agreement which shall be determined in accordance with § 7-10(b), below.
+   "R1" means the rate of compensation for the first year of the revocable consent agreement which shall be determined in accordance with 34 RCNY § 7-10(b), below.
 
    "V" means the rate (in dollars and cents) obtained from Table A relating to the volume occupied by the improvement. For improvements exceeding nine feet in height, the computation will be made in units up to nine feet in height and then added together.
 
@@ -6435,71 +5297,7 @@ For all improvements that do not have an annual rate set forth in § 7-04(a), th
 
 (c) Rate for each subsequent year.
 
- 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 
-      - second year
-      - 
-      - =
-      - 
-      - R1 + (E × R1) 
-    * - 
-      - third year
-      - 
-      - =
-      - 
-      - R1 + (2E × R1)
-    * - 
-      - fourth year
-      - 
-      - =
-      - 
-      - R1 + (3E × R1)
-    * - 
-      - fifth year
-      - 
-      - =
-      - 
-      - R1 + (4E × R1)
-    * - 
-      - sixth year
-      - 
-      - =
-      - 
-      - R1 + (5E × R1)
-    * - 
-      - seventh year
-      - 
-      - =
-      - 
-      - R1 + (6E × R1)
-    * - 
-      - eighth year
-      - 
-      - =
-      - 
-      - R1 + (7E × R1)
-    * - 
-      - ninth year
-      - 
-      - =
-      - 
-      - R1 + (8E × R1)
-    * - 
-      - tenth year
-      - 
-      - =
-      - 
-      - R1 + (9E × R1)
-~
-
- 
+   second year = R1 + (E × R1)    third year = R1 + (2E × R1)   fourth year = R1 + (3E × R1)   fifth year = R1 + (4E × R1)   sixth year = R1 + (5E × R1)   seventh year = R1 + (6E × R1)   eighth year = R1 + (7E × R1)   ninth year = R1 + (8E × R1)   tenth year = R1 + (9E × R1)
 
 (d)  Consents granted on or prior to June 30, 1991. For those consents granted on or before June 30, 1991 which provide for annual fees to be computed based upon the rate schedule currently in effect, annual compensation shall equal R1 as calculated pursuant to 34 RCNY § 7-10(b).
 
@@ -6537,7 +5335,7 @@ Table A
       - $69.56 per ft.
       - $83.48 per ft.
       - $7.25 per ft.
-    * - 100'-150'
+    * - 100' - 150'
       - $1,390 + $8.17 per ft over 100 ft.
       - $2,783 + $16.35 per ft over 100 ft.
       - $3,478 + $20.43 per ft over 100 ft.
@@ -6545,7 +5343,7 @@ Table A
       - $6,956 + $40.87 per ft over 100 ft.
       - $8,348 + $49.04 per ft over 100 ft.
       - $726 + $4.26 per ft over 100 ft.
-    * - 150'-200'
+    * - 150' - 200'
       - $1,799 + $7.72 per ft. over 150 ft.
       - $3,600 + $15.45 per ft. over 150 ft.
       - $4,499 + $19.30 per ft. over 150 ft.
@@ -6553,7 +5351,7 @@ Table A
       - $9,000 + $38.62 per ft. over 150 ft.
       - $10,800 + $46.34 per ft. over 150 ft.
       - $939 + $4.03 per ft. over 150 ft.
-    * - 200'-250'
+    * - 200' - 250'
       - $2,185 + $7.29 per ft. over 200 ft.
       - $4,373 + $14.59 per ft. over 200 ft.
       - $5,464 + $18.23 per ft. over 200 ft.
@@ -6561,7 +5359,7 @@ Table A
       - $10,931 + $36.46 per ft. over 200 ft.
       - $13,117 + $43.76 per ft. over 200 ft.
       - $1,140 + $3.80 per ft. over 200 ft.
-    * - 250'-300'
+    * - 250' - 300'
       - $2,549 + $6.83 per ft. over 250 ft.
       - $5,102 + $13.67 per ft. over 250 ft.
       - $6,376 + $17.08 per ft. over 250 ft.
@@ -6569,7 +5367,7 @@ Table A
       - $12,754 + $34.16 per ft. over 250 ft.
       - $15,305 + $41.00 per ft. over 250 ft.
       - $1,330 + $3.56 per ft. over 250 ft.
-    * - 300'-350'
+    * - 300' - 350'
       - $2,891 + $6.40 per ft. over 300 ft.
       - $5,786 + $12.81 per ft. over 300 ft.
       - $7,230 + $16.00 per ft. over 300 ft.
@@ -6577,7 +5375,7 @@ Table A
       - $14,462 + $32.01 per ft. over 300 ft.
       - $17,355 + $38.42 per ft. over 300 ft.
       - $1,508 + $3.34 per ft. over 300 ft.
-    * - 350'-400'
+    * - 350' - 400'
       - $3,211 + $5.94 per ft. over 350 ft.
       - $6,426 + $11.89 per ft. over 350 ft.
       - $8,030 + $14.85 per ft. over 350 ft.
@@ -6585,7 +5383,7 @@ Table A
       - $16,062 + $29.71 per ft. over 350 ft.
       - $19,276 + $35.66 per ft. over 350 ft.
       - $1,675 + $3.10 per ft. over 350 ft.
-    * - 400'-450'
+    * - 400' - 450'
       - $3,508 + $5.70 per ft. over 400 ft.
       - $7,021 + $11.41 per ft. over 400 ft.
       - $8,772 + $14.25 per ft. over 400 ft.
@@ -6593,7 +5391,7 @@ Table A
       - $17,548 + $28.51 per ft. over 400 ft.
       - $21,059 + $34.22 per ft. over 400 ft.
       - $1,830 + $2.97 per ft. over 400 ft.
-    * - 450'-525'
+    * - 450' - 525'
       - $3,793 + $5.21 per ft. over 450 ft.
       - $7,591 + $10.43 per ft. over 450 ft.
       - $9,485 + $13.03 per ft. over 450 ft.
@@ -6601,7 +5399,7 @@ Table A
       - $18,973 + $26.06 per ft. over 450 ft.
       - $22,770 + $31.28 per ft. over 450 ft.
       - $1,979 + $2.72 per ft. over 450 ft.
-    * - 525'-600'
+    * - 525' - 600'
       - $4,183 + $4.33 per ft. over 525 ft.
       - $8,373 + $9.48 per ft. over 525 ft.
       - $10,462 + $11.85 per ft. over 525 ft.
@@ -6609,7 +5407,7 @@ Table A
       - $20,928 + $23.71 per ft. over 525 ft.
       - $25,116 + $28.45 per ft. over 525 ft.
       - $2,183 + $2.47 per ft. over 525 ft.
-    * - 600'-30,000'
+    * - 600' - 30,000'
       - $4,508 + $4.33 per ft. over 600 ft.
       - $9,084 + $8.66 per ft. over 600 ft.
       - $11,351 + $10.83 per ft. over 600 ft.
@@ -6640,7 +5438,7 @@ Chapter 8: Employee Commute Options Program
 *§ 8-01 Background and Authority.* ::
 
 
-Section 182(d)(1)(B) of the Clean Air Act Amendments of 1990, 42 U.S.C. 7511(a)(d)(1)(B), requires states with severe or extreme nonattainment areas for ozone to revise their state implementation plans by adopting new regulations to reduce work-related vehicle trips and miles traveled by employees. The New York State Consolidated Metropolitan Statistical Area, which includes New York City was designated by the Federal Environmental Protection Agency ("EPA") as a severe ozone nonattainment area, 40 C.F.R. § 81.333. Section 14(31) of the New York State Transportation Law authorizes the State Department of Transportation to promulgate rules and regulations to implement the requirements of § 182(d)(1)(B) of the Clean Air Act Amendments and to establish an employee commute options ("ECO") program. The state rules require employers of one hundred or more employees at work locations within severe ozone nonattainment areas in New York State to develop and implement employee trip reduction programs and to make a good faith effort to achieve a twenty-five percent increase in average vehicle occupancy for commuting trips by November 15, 1996. The state transportation law and the rules promulgated pursuant to it also delegate the local administration of the program to counties in the severe ozone nonattainment areas and pursuant to such delegation, the New York City Department of Transportation ("the Department") has been designated the local administrative agency.
+Section 182(d)(1)(B) of the Clean Air Act Amendments of 1990, 42 U.S.C. § 7511(a)(d)(1)(B), requires states with severe or extreme nonattainment areas for ozone to revise their state implementation plans by adopting new regulations to reduce work-related vehicle trips and miles traveled by employees. The New York State Consolidated Metropolitan Statistical Area, which includes New York City was designated by the Federal Environmental Protection Agency ("EPA") as a severe ozone nonattainment area, 40 C.F.R. § 81.333. Section 14(31) of the New York State Transportation Law authorizes the State Department of Transportation to promulgate rules and regulations to implement the requirements of § 182(d)(1)(B) of the Clean Air Act Amendments and to establish an employee commute options ("ECO") program. The state rules require employers of one hundred or more employees at work locations within severe ozone nonattainment areas in New York State to develop and implement employee trip reduction programs and to make a good faith effort to achieve a twenty-five percent increase in average vehicle occupancy for commuting trips by November 15, 1996. The state transportation law and the rules promulgated pursuant to it also delegate the local administration of the program to counties in the severe ozone nonattainment areas and pursuant to such delegation, the New York City Department of Transportation ("the Department") has been designated the local administrative agency.
 
 
 
@@ -6683,8 +5481,6 @@ The Average Vehicle Occupancy ("AVO") subregions established pursuant to 17 NYCR
 The specific target Average Passenger Occupancy ("APO") for each subregion is specified in Table one below.
 
 Table 1 Average Vehicle Occupancy and Target Average Passenger Occupancy by Subregion
-
- 
 
  
 
@@ -7047,7 +5843,7 @@ Table 1 Average Vehicle Occupancy and Target Average Passenger Occupancy by Subr
       - Union Port 
       - 1.93 
       - 2.24 
-    * - 
+    * -  
       - Q 
       - Neponsit/Hammels 
       - 1.91 
@@ -7194,7 +5990,7 @@ Table 1 Average Vehicle Occupancy and Target Average Passenger Occupancy by Subr
       - 1.79 
     * - 64 
       - Q 
-      - Howard Beach/ Laurelton/Rosedale 
+      - Howard Beach/Laurelton/Rosedale 
       - 1.47 
       - 1.78 
     * - 103 
@@ -7255,7 +6051,7 @@ Target APOs for each subregion were established by increasing the AVO for each s
 
 (a) For each affected worksite, the affected employer shall prepare and submit to the Department an initial compliance plan not later than November 15, 1994.
 
-(b) Plans submitted earlier than November 15, 1994, pursuant to the schedule set forth in § 8-08 below, shall be eligible for a reduction in fees as set forth in that section.
+(b) Plans submitted earlier than November 15, 1994, pursuant to the schedule set forth in 34 RCNY § 8-08 below, shall be eligible for a reduction in fees as set forth in that section.
 
 (c) A plan shall be deemed submitted upon receipt by the Department.
 
@@ -7341,7 +6137,7 @@ Target APOs for each subregion were established by increasing the AVO for each s
 
 (a) Any affected employer who has received a notice of violation from the Department, has had a Department conference, and does not consent to a settlement agreement with a settlement officer, may appeal the determination of the Department, as provided in 17 NYCRR § 38.13, by requesting a hearing with the New York City Office of Administrative Trials and Hearings ("Oath"). A petition appealing the determination, as well as a copy of the notice of violation, and the factual findings and decision of the Department shall be filed with OATH, with proof that copies were sent to the Department, not later than fifteen (15) days after the date of the settlement offer of the Department.
 
-(b) Hearings to review decisions of the Department shall be conducted by OATH in accordance with its rules of practice and procedure, except that for the purposes of this chapter, (i) the petition shall be deemed to consist of the notice of violation and the factual findings and decision of the Department filed by the affected employer, (ii) the answer shall be deemed to consist of the employer's petition appealing the decision, (iii) the Department shall be deemed the petitioner, and (iv) the affected employer shall be deemed to be the respondent. Notwithstanding the provisions of § 1-23, subdivision (a) of OATH's rules (48 RCNY § 1-23, subdivision (a)), the Department shall not be required to serve the petition on the respondent. Notwithstanding the provisions of § 1-26, subdivision (d) of OATH's rules (48 RCNY § 1-26, subdivision (d)), the employer shall not place the case on OATH's trial or conference calendar ex parte.
+(b) Hearings to review decisions of the Department shall be conducted by OATH in accordance with its rules of practice and procedure, except that for the purposes of this chapter, (i) the petition shall be deemed to consist of the notice of violation and the factual findings and decision of the Department filed by the affected employer, (ii) the answer shall be deemed to consist of the employer's petition appealing the decision, (iii) the Department shall be deemed the petitioner, and (iv) the affected employer shall be deemed to be the respondent. Notwithstanding the provisions of § 1-23, subdivision (a) of OATH's rules (48 RCNY § 1-23(a)), the Department shall not be required to serve the petition on the respondent. Notwithstanding the provisions of § 1-26, subdivision (d) of OATH's rules (48 RCNY § 1-26(d)), the employer shall not place the case on OATH's trial or conference calendar ex parte.
 
 (c) The proceeding at OATH shall be de novo and the determination of OATH shall be final.
 

@@ -1480,7 +1480,7 @@ Chapter 5: Historic Preservation Grant Program
 *§ 5-01 Introduction.* ::
 
 
-The Historic Preservation Grant Program provides grants to eligible nonprofit organizations and homeowners for the preservation of designated landmark properties through restoration, repair and rehabilitation work. All grants must meet the guidelines laid out for historic preservation activities under the federal Community Block Grant program regulations. 24 C.F.R. Sec. 570.202(d).
+The Historic Preservation Grant Program provides grants to eligible nonprofit organizations and homeowners for the preservation of designated landmark properties through restoration, repair and rehabilitation work. All grants must meet the guidelines laid out for historic preservation activities under the federal Community Block Grant program regulations. 24 C.F.R. § 570.202(d).
 
 
 

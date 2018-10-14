@@ -185,7 +185,7 @@ Solid waste. "Solid waste" means all putrescible and non-putrescible materials o
 
    (iv) irrigation return flows;
 
-   (v) radioactive materials that are source, special nuclear, or by-product material under the federal Atomic Energy Act of 1954, as amended, 42 U.S.C. §§ 2011, et seq.;
+   (v) radioactive materials that are source, special nuclear, or by-product material under the federal Atomic Energy Act of 1954, as amended, 42 U.S.C. §§ 2011 et seq.;
 
    (vi) materials subject to in-situ mining techniques which are not removed from the ground as part of the extraction process;
 
@@ -1028,7 +1028,7 @@ Solid Waste. "Solid Waste" means all putrescible and non-putrescible materials o
 
          (D) irrigation return flows;
 
-         (E) radioactive materials that are source, special nuclear, or byproduct material under the federal Atomic Energy Act of 1954, as amended, 42 U.S.C. §§ 2011, et seq.;
+         (E) radioactive materials that are source, special nuclear, or byproduct material under the federal Atomic Energy Act of 1954, as amended, 42 U.S.C. §§ 2011 et seq.;
 
          (F) materials subject to in-situ mining techniques which are not removed from the ground as part of the extraction process;
 
@@ -4242,7 +4242,7 @@ Solid waste. "Solid waste" means all putrescible and non-putrescible materials o
 
    (iv) irrigation return flows;
 
-   (v) radioactive materials that are source, special nuclear, or by-product material under the Federal Atomic Energy Act of 1954, as amended, 42 U.S.C. §§ 2011, et. seq.;
+   (v) radioactive materials that are source, special nuclear, or by-product material under the Federal Atomic Energy Act of 1954, as amended, 42 U.S.C. §§ 2011 et seq.;
 
    (vi) materials subject to in-situ mining techniques which are not removed from the ground as part of the extraction process;
 
@@ -4856,7 +4856,7 @@ When used in this chapter:
 
 "Recover" or "recovery" means to remove refrigerants from an appliance in such a way that the refrigerants are not released into the atmosphere pursuant to subpart F of part 82 of title 40 of the code of federal regulations.
 
-"Refrigerants" means any substances consisting in whole or in part of a class I or class II ozone-depleting substance, which are used for heat transfer purposes and provide a cooling effect, including, but not limited, to chlorofluorocarbons, hydro-chlorofluorocarbons, or any other substitute substance as may be defined by the United States environmental protection agency. A class I or class II ozone-depleting substance shall be those substances as defined by the United States environmental protection agency in section 602 of the United States clean air act. A "substitute substance" shall be any environmental protection agency approved replacement for a class I or II ozone-depleting substance in a refrigeration or air-conditioning end-use. Refrigerants shall not include (1) any substance that the administrator for the United States environmental protection agency has determined can be safely vented, released or disposed of pursuant to 42 U.S.C. 7671g(c)(2) or (2) one or more of the following substances used alone or in combination with other compounds: CFC-11, CFC-12, CFC-113, CFC-114 or CFC-115.
+"Refrigerants" means any substances consisting in whole or in part of a class I or class II ozone-depleting substance, which are used for heat transfer purposes and provide a cooling effect, including, but not limited, to chlorofluorocarbons, hydro-chlorofluorocarbons, or any other substitute substance as may be defined by the United States environmental protection agency. A class I or class II ozone-depleting substance shall be those substances as defined by the United States environmental protection agency in section 602 of the United States clean air act. A "substitute substance" shall be any environmental protection agency approved replacement for a class I or II ozone-depleting substance in a refrigeration or air-conditioning end-use. Refrigerants shall not include (1) any substance that the administrator for the United States environmental protection agency has determined can be safely vented, released or disposed of pursuant to 42 U.S.C. § 7671g(c)(2) or (2) one or more of the following substances used alone or in combination with other compounds: CFC-11, CFC-12, CFC-113, CFC-114 or CFC-115.
 
 "Residential generator" means any person, entity, agency, or institution in the city of New York that receives solid waste or recycling collection service from the department.
 

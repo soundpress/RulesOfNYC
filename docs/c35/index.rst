@@ -451,7 +451,7 @@ Pursuant to Section 3-213(e) of the Lobbying Law, statements of registration mus
 
       (i) there is no expectation that the reporting threshold will be exceeded;
 
-      (ii) the activity which was the basis for the filing of the statement of registration does not constitute lobbying activity under Section 3-211(c) et seq. of the Lobbying Law;
+      (ii) the activity which was the basis for the filing of the statement of registration does not constitute lobbying activity under §§ 3-211(c) et seq. of the Lobbying Law;
 
       (iii) the statement of registration was mistakenly filed as a result of a duplicate enrollment of the lobbyist or client; or
 
@@ -477,7 +477,7 @@ Pursuant to Section 3-213(e) of the Lobbying Law, statements of registration mus
 
       (i) there is no expectation that the client will exceed the reporting threshold;
 
-      (ii) the activity which was the basis for filing the client annual report does not constitute lobbying activity under Section 3-211(c) et seq. of the Lobbying Law;
+      (ii) the activity which was the basis for filing the client annual report does not constitute lobbying activity under §§ 3-211(c) et seq. of the Lobbying Law;
 
       (iii) the client annual report was mistakenly filed as a result of a duplicate enrollment of the lobbyist or client; or
 

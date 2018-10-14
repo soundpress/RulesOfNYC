@@ -3122,7 +3122,7 @@ uu. "Qualified local brownfield site" or "site."
 
       C. a site which the office determines is a suspected inactive hazardous waste site pursuant to section 27-1303 of the New York state environmental conservation law;
 
-      D. listed or proposed to be listed on the national priorities list pursuant to 42 U.S.C. section 9605;
+      D. listed or proposed to be listed on the national priorities list pursuant to 42 U.S.C. § 9605;
 
       E. subject to an order, agreement, stipulation, or permit providing for cleanup pursuant to the New York state navigation law or the New York state environmental conservation law, except as authorized by the New York state department of environmental conservation upon agreement with the office; or
 

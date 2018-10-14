@@ -244,7 +244,7 @@ Surface barriers. "Surface barriers" shall mean the plasticizing of walls, floor
 
 Surfactant. "Surfactant" shall mean a chemical wetting agent added to water to improve penetration.
 
-Transmission electron microscopy (TEM). "Transmission electron microscopy (TEM)" shall mean the measurement protocol for the assessment of the asbestos fiber content of air. (Interim Transmission Electron Microscopy Analytical Methods-40 C.F.R. Part 763, Subpart E, Appendix A)
+Transmission electron microscopy (TEM). "Transmission electron microscopy (TEM)" shall mean the measurement protocol for the assessment of the asbestos fiber content of air. (Interim Transmission Electron Microscopy Analytical Methods - 40 C.F.R. Part 763, Subpart E, Appendix A)
 
 Visible emissions. "Visible emissions" shall mean any emissions containing particulate material that are visually detectable without the aid of instruments.
 
@@ -969,7 +969,7 @@ Air sampling, monitoring, and analysis on asbestos projects, and bulk sampling a
 
 (b) Area air sampling equipment for Phase Contrast Microscopy (PCM) shall be utilized in accordance with the equipment and sampling procedures specified within the NIOSH 7400 Method modified for area sampling.
 
-(c) Area air sampling equipment for Transmission Electron Microscopy (TEM) shall be utilized in accordance with the sampling procedures specified within 40 C.F.R. Part 763, Subpart E, Appendix A – Section II Mandatory Transmission Electron Microscopy Method, Subsection B- Sampling.
+(c) Area air sampling equipment for Transmission Electron Microscopy (TEM) shall be utilized in accordance with the sampling procedures specified within 40 C.F.R. Part 763, Subpart E, Appendix A – Section II Mandatory Transmission Electron Microscopy Method, Subsection B - Sampling.
 
 (d) Air sampling pumps shall have a constant controlled flow and shall have the flow rate capacity to perform sampling as specified in these rules. A properly calibrated rotometer shall be used to check the flow rate. A rotometer shall be available at the work place for the duration of air sample collection. Primary and secondary calibration devices shall be calibrated as per NYSDOH ELAP requirements.
 
@@ -1438,7 +1438,7 @@ Laboratory analyses and reporting shall be considered evidence of compliance wit
 
 (f) The contractor shall have available the following information at the work place:
 
-   (1) A copy of the U.S. Environmental Protection Agency Regulations for Asbestos, 40 C.F.R. 61 Subparts A and M and a copy of OSHA Asbestos Regulations, 29 C.F.R. 1926.1101, and 12 NYCRR Part 56; and
+   (1) A copy of the U.S. Environmental Protection Agency Regulations for Asbestos, 40 C.F.R. 61 Subparts A and M and a copy of OSHA Asbestos Regulations, 29 C.F.R. § 1926.1101, and 12 NYCRR Part 56; and
 
    (2) A list of telephone numbers for local hospital, location of hospital and/or emergency squad, local fire department, the building owner (or representative) and the N.Y.C. Asbestos Control Program, and
 
@@ -1500,7 +1500,7 @@ The materials and equipment used during allabatement activities shall conform wi
 
 (d) Duct tape and selected adhesive shall be capable of sealing joints of adjacent sheets of polyethylene, facilitating attachment of polyethylene sheets to finished or unfinished surfaces, and of adhering under both dry and wet conditions, including during the use of amended water.
 
-(e) Airtight and watertight containers shall be provided to receive and retain any asbestos-containing waste materials. Plastic bags used for waste storage or disposal shall be a minimum of 6-mil in thickness. All containers shall be labeled in accordance with OSHA Regulation 29 C.F.R. 1926.58K(2)(ii) and (iii).
+(e) Airtight and watertight containers shall be provided to receive and retain any asbestos-containing waste materials. Plastic bags used for waste storage or disposal shall be a minimum of 6-mil in thickness. All containers shall be labeled in accordance with OSHA Regulation 29 C.F.R. § 1926.58K(2)(ii) and (iii).
 
 (f) Materials used to enclose ACM shall be impact resistant and assembled to be airtight Gypsum panels taped at the seams, tongue and groove boards, and boards with spline joints all qualify.
 
@@ -3502,7 +3502,7 @@ During the loading or unloading of a gasoline transport vehicle subject to this 
 *§ 4-06 Testing.* ::
 
 
-Vehicles subject to this chapter shall undergo a pressure vacuum test within one year after the effective date of this chapter, and annually thereafter. These tests shall be performed by the owner or his agent using test methods acceptable to the Commissioner of NYSDEC. [Test method 27 described in appendix A of Part 60 of Title 40 of the Code of Federal Regulations (40 C.F.R. 60) is considered to be acceptable]. If the results of the pressure vacuum test do not show compliance with the pressure change standard, the gasoline transport vehicle shall be repaired to make the tank vapor-tight and retested within 15 days.
+Vehicles subject to this chapter shall undergo a pressure vacuum test within one year after the effective date of this chapter, and annually thereafter. These tests shall be performed by the owner or his agent using test methods acceptable to the Commissioner of NYSDEC. [Test method 27 described in appendix A of Part 60 of Title 40 of the Code of Federal Regulations (40 C.F.R. Part 60) is considered to be acceptable]. If the results of the pressure vacuum test do not show compliance with the pressure change standard, the gasoline transport vehicle shall be repaired to make the tank vapor-tight and retested within 15 days.
 
 
 
@@ -5222,7 +5222,7 @@ Perc-contaminated wastewater generated by all new and existing facilities subjec
 
    (4) A description of the machines' control devices;
 
-   (5) A statement verifying compliance with each applicable requirement under 40 C.F.R. subchapters 63.322, 63.323, and 63.324; and,
+   (5) A statement verifying compliance with each applicable requirement under 40 C.F.R. Subchapters 63.322, 63.323, and 63.324; and,
 
    (6) A statement certifying that all information contained in the statement is accurate and true.
 
@@ -8574,7 +8574,7 @@ Unless otherwise permitted by these rules and regulations, a discharge, or stora
 
 (h) All sewer systems shall be designed, operated and maintained to prevent exfiltration from such systems.
 
-(i) The owner or operator of a facility which disposes of wastes regulated pursuant to the Federal Categorical Pretreatment Standards, 40 C.F.R. Part 403, shall submit three copies of the engineering report, plans and specifications, prepared by a licensed design professional, in compliance with 40 C.F.R. Parts 403, 406-471 and any applicable local regulations, to the Department for its review and approval.
+(i) The owner or operator of a facility which disposes of wastes regulated pursuant to the Federal Categorical Pretreatment Standards, 40 C.F.R. Part 403, shall submit three copies of the engineering report, plans and specifications, prepared by a licensed design professional, in compliance with 40 C.F.R. Parts 403, 406 - 471 and any applicable local regulations, to the Department for its review and approval.
 
 (j) Application Requirements. An application for review and approval of any sewer system or sewer extension shall include the following information:
 
@@ -12814,7 +12814,7 @@ b. The applicant shall prepare and submit to OER a Phase II Investigative Work P
 
    (4) Copies of reports of all previous investigations related to the presence or suspected presence of contamination on the Project Site;
 
-   (5) A site-specific investigation health and safety plan (HASP), consistent with applicable U.S. Occupational Health and Safety Administration requirements found at 29 C.F.R. 1910.120, to protect the health and safety of on-site personnel and the surrounding community. The HASP will identify all potential chemicals of concern at the Project Site and include material safety data sheets for each chemical compound group or chemical of concern. As a default, all chemical groups such as volatile organic compounds (VOCs), semi-volatile organic compounds (SVOCs), pesticides, polychlorinated biphenyls (PCBs), and target analyte list (TAL) metals will be included in the investigation HASP;
+   (5) A site-specific investigation health and safety plan (HASP), consistent with applicable U.S. Occupational Health and Safety Administration requirements found at 29 C.F.R. § 1910.120, to protect the health and safety of on-site personnel and the surrounding community. The HASP will identify all potential chemicals of concern at the Project Site and include material safety data sheets for each chemical compound group or chemical of concern. As a default, all chemical groups such as volatile organic compounds (VOCs), semi-volatile organic compounds (SVOCs), pesticides, polychlorinated biphenyls (PCBs), and target analyte list (TAL) metals will be included in the investigation HASP;
 
    (6) The location of all proposed sampling points and sampling depths where applicable for soil, groundwater and soil vapor;
 
@@ -12830,7 +12830,7 @@ d. Where applicable and at a minimum, the following procedures or requirements s
 
    (3) Soil gas, sub-slab soil gas, and indoor air samples should be analyzed for VOCs by EPA Method TO-15 at an ELAP-certified laboratory. If ELAP certification is not available, certification by other agencies and/or organizations is recommended. Additional analyses may be warranted if the type of contamination suspected cannot be adequately characterized by these analyses. New York State Department of Health Category B Deliverables are not required to satisfy an (E) Designation.
 
-   (4) Toxicity Characteristic Leaching Procedure, Method 1311, as delineated in EPA SW-846, 40 C.F.R. 261 and required by OER, or an EPA approved successor method shall be used where appropriate.
+   (4) Toxicity Characteristic Leaching Procedure, Method 1311, as delineated in EPA SW-846, 40 C.F.R. Part 261 and required by OER, or an EPA approved successor method shall be used where appropriate.
 
    (5) Samples from sites on the DEC Registry of Inactive Hazardous Waste Sites shall use a laboratory certified under EPA's Contract Laboratory Program or DEC's Analytical Services Program (ASP).
 
@@ -15466,7 +15466,7 @@ Pursuant to the New York City Charter, §§ 1041, 1046 - 1048, the Department of
 
 (c) Appeal of Commissioner's Order issued pursuant to the Hazardous Substances Emergency Response Law, Administrative Code § 24-610(a)(4).
 
-(d) Appeal of a Stop Work Order issued pursuant to Administrative Code § 24-136(h).
+(d) Appeal of a Stop Work Order issued pursuant to Administrative Code § 24-136(h) or 24-223.1.
 
 (e) Appeal of Written Abatement Order issued pursuant to Administrative Code § 24-146(f).
 
@@ -16664,7 +16664,7 @@ UL means Underwriters Laboratories. Wet scrubber system means any emission contr
 
          E. The filters must then be collected and the weight of the filters shall be determined by an Industrial Hygienist in an Environmental Protection Agency (EPA) accredited laboratory.
 
-   (2) Laboratory Testing. Laboratory testing shall be performed in a National Environmental Laboratory Accreditation Conference (NELAC) or New York State Department of Health Environmental Laboratory Approval Program (ELAP) certified laboratory and shall follow EPA Method 5, Appendix A-3 to 40 CFR Part 60, or EPA Method 202, Appendix M to 40 CFR Part 51, for particulate matter. During each test, samples must be collected from the outlet of the control device. Laboratory test data must show that the emissions control device has reduced the cook stove's total PM emissions by 75 percent or more.
+   (2) Laboratory Testing. Laboratory testing shall be performed in a National Environmental Laboratory Accreditation Conference (NELAC) or New York State Department of Health Environmental Laboratory Approval Program (ELAP) certified laboratory and shall follow EPA Method 5, Appendix A-3 to 40 C.F.R. Part 60, or EPA Method 202, Appendix M to 40 C.F.R. Part 51, for particulate matter. During each test, samples must be collected from the outlet of the control device. Laboratory test data must show that the emissions control device has reduced the cook stove's total PM emissions by 75 percent or more.
 
 (d) Reporting Requirements.
 
@@ -16883,9 +16883,9 @@ Chapter 44: Standard Test Procedures to Determine Smoke Emissions from Generator
 
       (a) Generators must meet equivalent Tier IV particulate matter (PM) emissions standards established by the United States Environmental Protection Agency (EPA) as set forth in table one of 40 C.F.R. § 1039.101 or any subsequent United States EPA emissions standard for such generator that is at least as stringent.
 
-      (b) In order to demonstrate that the PM emissions from the stack of a generator meet the Tier IV PM emissions standard, testing must be performed by the equipment owner following EPA Method 5, titled "Determination of particulate matter emissions from stationary sources" (Appendix A-3 to 40 C.F.R. part 60). The P.E. or R.A, must certify the stack test results.
+      (b) In order to demonstrate that the PM emissions from the stack of a generator meet the Tier IV PM emissions standard, testing must be performed by the equipment owner following EPA Method 5, titled "Determination of particulate matter emissions from stationary sources" (Appendix A-3 to 40 C.F.R. Part 60). The P.E. or R.A, must certify the stack test results.
 
-   (2) Smoke Test Procedure. A smoke test on a generator shall be performed in accordance with the procedures set forth in EPA Method 9, titled "Visual determination of the opacity of emissions from stationary sources" (Appendix A-4 to 40 C.F.R. part 60). The test results shall indicate less than 20 percent opacity for any two consecutive minutes in any 60-minute period. The smoke test must be performed and certified by a qualified visible emissions evaluator.
+   (2) Smoke Test Procedure. A smoke test on a generator shall be performed in accordance with the procedures set forth in EPA Method 9, titled "Visual determination of the opacity of emissions from stationary sources" (Appendix A-4 to 40 C.F.R. Part 60). The test results shall indicate less than 20 percent opacity for any two consecutive minutes in any 60-minute period. The smoke test must be performed and certified by a qualified visible emissions evaluator.
 
 (c) Recordkeeping.
 
@@ -16905,23 +16905,25 @@ Chapter 45: Abatement Orders
 
 
 
-*§ 45-01 Abatement Orders Issued Pursuant to Section 24-146.* ::
+*§ 45-01 Abatement and Stop Work Orders Issued Pursuant to Sections 24-146 and 24-223.1.* ::
 
 
 (a) The department may issue an abatement order whenever it is found that work is being performed in violation of the provisions of subdivisions (a) through (f) of section 24-146 of the administrative code, or 15 RCNY Chapter 13, and that such work poses a threat to human health and safety. Such circumstances may include, but are not limited to causing or permitting the emission of dust as a result of the transportation or storage of any material that may generate dust, the construction or alteration of a building or its appurtenances or a road, the spraying of any insulating material in or upon any building or other structure during its construction, alteration or repair, or the causing or permitting a building or other structure to be demolished. Upon issuance of an abatement order, the activity giving rise to the violation shall immediately stop unless otherwise specified.
 
-(b) Such order may be given orally or in writing to the owner, lessee or occupant of the property involved, or to the agent of any of them, or to the person or persons performing the work. Except as provided in subdivision (c), a verbal order shall be followed promptly by a written order and shall include the reason for the issuance of an abatement order. The order may require all such work to be done as may be necessary, in the opinion of the commissioner, to remove the danger therefrom.
+(b) The department may issue a stop work order if it finds that work is being performed in violation of the provisions of Section 24-223.1 of the administrative code, or any rules promulgated thereunder. For the purposes of Section 24-223.1, work that poses a threat to human health and safety may include, but is not limited to, causing or permitting noise above the decibel levels set forth in Section 24-223 or 24-228, or prescribed decibel levels contained in an approved alternative noise mitigation plan. Upon the issuance of a stop work order, the activity giving rise to the violation must immediately stop unless otherwise specified by the department.
 
-(c) An abatement order issued pursuant to subdivision (a) of this section may be appealed in accordance with 15 RCNY § 45-02. In the case of a verbal abatement order, if the commissioner determines that the condition that gave rise to the order has been immediately corrected, such order shall be lifted at once and shall not be followed by a written order.
+(c) An abatement order may be given orally or in writing to the owner, lessee or occupant of the property involved, or to the agent of any of them, or to the person or persons performing the work. A stop work order may be given as provided in subdivision (b) of Section 24-223.1 of the administrative code. Except as provided in subdivision (d), a verbal order must be followed promptly by a written order and must include the reason for the issuance of the order. The order may require all such work to be done as may be necessary, in the opinion of the commissioner, to remove the danger therefrom.
 
-
-
-
+(d) An abatement order issued pursuant to subdivision (a) of this section or a stop work order issued pursuant to subdivision (b) of this section may be appealed in accordance with 15 RCNY § 45-02. In the case of a verbal abatement or stop work order, if the commissioner determines that the condition that gave rise to the order has been immediately corrected, such order shall be lifted at once and shall not be followed by a written order.
 
 
 
 
-*§ 45-02 Procedure to Appeal a Written Abatement Order Issued Pursuant to Section 24-146.* ::
+
+
+
+
+*§ 45-02 Procedure to Appeal a Written Abatement Order Issued Pursuant to Section 24-146 or a Written Stop Work Order Issued Pursuant to Section 24-223.1.* ::
 
 
 (a) Notice and opportunity to be heard.
@@ -16930,7 +16932,7 @@ Chapter 45: Abatement Orders
 
    (2) Upon filing of an appeal, a hearing will be scheduled in accordance with the provisions of 15 RCNY Chapter 32. The hearing will be held within 14 days of the filing of the appeal.
 
-   (3) After the hearing, the department may lift the abatement order if it is determined that the order was not properly issued, or upon the submission of proof satisfactory to the commissioner that the requirements of such order have been satisfied.
+   (3) After the hearing, the department may lift the abatement or stop work order if it is determined that the order was not properly issued, or upon the submission of proof satisfactory to the commissioner that the requirements of such order have been satisfied.
 
 
 

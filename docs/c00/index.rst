@@ -5033,6 +5033,19 @@ Chapter 52: Notification To the Department of Commencement of Work Pursuant To A
 
 
 
+Chapter 400: Special Detailed Requirements Based On Use and Occupancy
+--------------------------------------------------
+
+
+
+*§ 403-01 Impact Resistant Stair and Elevator Shaft Enclosures. [Repealed]* ::
+
+
+
+
+
+
+
 Chapter 300: Use and Occupancy Classification
 --------------------------------------------------
 
@@ -5120,19 +5133,6 @@ Figure 1 Summary chart of fire safety requirements
 (e) Certificate of occupancy. An amended certificate of occupancy need not be obtained in order to occupy an otherwise lawful apartment for use as a student apartment.
 
 (f) Records. The college or university shall maintain records at the building that contains any student apartment, identifying the unit numbers of student apartments, the maximum number of students housed in each such unit, whether the students are post-graduate or are permitted to be undergraduate, and where applicable, whether the apartment was first occupied as a student apartment prior to July 1, 2009. Such records shall be available for inspection by the Department, the Fire Department, and the Department of Housing Preservation and Development. The college or university may be required to produce further records to substantiate compliance with this section.
-
-
-
-
-Chapter 400: Special Detailed Requirements Based On Use and Occupancy
---------------------------------------------------
-
-
-
-*§ 403-01 Impact Resistant Stair and Elevator Shaft Enclosures. [Repealed]* ::
-
-
-
 
 
 
@@ -10320,6 +10320,19 @@ Table 2
 
 
 
+Chapter 4000: Electrical Code
+--------------------------------------------------
+
+
+
+*§ 4000-06 Fire Alarm Wiring and Power Sources. [Repealed]* ::
+
+
+
+
+
+
+
 Chapter 3600: Appendices
 --------------------------------------------------
 
@@ -11503,19 +11516,6 @@ Chapter 29 – Single- and Multiple-Station Alarms and Household Fire Alarm Syst
 
 
 *§ 3616-05 National Fire Protection Association ("NFPA") 13R Amendment Relating to Exemption from Fire Department Connection Requirements in One- and Two-family Residential Buildings. [Repealed]* ::
-
-
-
-
-
-
-
-Chapter 4000: Electrical Code
---------------------------------------------------
-
-
-
-*§ 4000-06 Fire Alarm Wiring and Power Sources. [Repealed]* ::
 
 
 

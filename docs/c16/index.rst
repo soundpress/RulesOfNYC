@@ -85,9 +85,9 @@ Minutes of open and Executive sessions and all records of the Board available un
 
       (i) Affected parties for coverage , harassment and hardship claims shall include: owners, all tenants of record in the building, including residential, commercial and manufacturing tenants, and all occupants of the building, if different from tenants of record.
 
-      (ii) In addition to the parties listed in (i) above, affected parties for abandonment claims pursuant to 29 RCNY § 2-10 of these rules shall also include the current occupant of the unit alleged to be abandoned, the previous occupant alleged to have abandoned, and the unit and the previous occupant's beneficiary to the estate, if applicable. (iii) For all other categories of applications, affected parties shall include the owner and such occupants as are necessary for a final resolution of the claim asserted in the application.
+      (ii) In addition to the parties listed in (i) above, affected parties for abandonment claims pursuant to 29 RCNY § 2-10 shall also include the current occupant of the unit alleged to be abandoned, the previous occupant alleged to have abandoned, and the unit and the previous occupant's beneficiary to the estate, if applicable. (iii) For all other categories of applications, affected parties shall include the owner and such occupants as are necessary for a final resolution of the claim asserted in the application.
 
-   (3) The applicant may only have one claim per application. The application shall contain facts and arguments relevant to the claim raised in the application. The applicable application fee stated in 29 RCNY § 2-11 of the Loft Board rules is due upon submission of the application. The application will not be considered filed, or be processed, until the application fee is received.
+   (3) The applicant may only have one claim per application. The application shall contain facts and arguments relevant to the claim raised in the application. The applicable application fee stated in 29 RCNY § 2-11 is due upon submission of the application. The application will not be considered filed, or be processed, until the application fee is received.
 
 (b) (1) Service of the Application on the Affected Parties. Before filing the application with the Loft Board, the applicant shall serve each affected party with a copy of the application and the instruction sheet for filing an answer by first-class mail. Except as set forth in subparagraph (b)(4) below, a United States Post Office-stamped copy of the certificate of mailing constitutes proof of service of the application to the affected parties.
 
@@ -111,7 +111,7 @@ Minutes of open and Executive sessions and all records of the Board available un
 
 (e) Filing the Answer with the Loft Board. Five copies, including the original answer and any accompanying documents, and proof of service of the answer on the applicant, may be submitted to the Loft Board at any time up to and including the date that the answer is due either by (1) hand delivery, (2) mail, or (3) facsimile transmission at the fax number designated for the Loft Board. Proof of service of the answer on the applicant constitutes an affidavit of service on the Loft Board's approved form, if served by hand delivery or first-class mail, and a facsimile receipt, if served by fax. Hand delivered answers and the accompanying documents will be considered filed on the day they are delivered to the Loft Board only if they are delivered during business hours. For purposes of this rule, "business hours" shall be defined as 9:00am to 4:00pm on Monday through Friday, except for federal, state or city holidays.
 
-(f) If the answer and any accompanying documentation is submitted to the Loft Board by facsimile transmission, service of the answer will be deemed filed on the date of facsimile transmission if the required documentation described in subparagraph (e) above is submitted to the Loft Board by (1) hand delivery, within 3 calendar days of the date of the facsimile transmission, or (2) mail, postmarked within 3 calendar days of the date of the facsimile transmission. Failure to submit the original answer signed by the affected party, any accompanying documents and proof of service within 3 calendar days to the Loft Board following facsimile transmission of such documents will constitute a default and the affected party will then be subject to the procedures outlined in 29 RCNY § 1-06(i) of these rules.
+(f) If the answer and any accompanying documentation is submitted to the Loft Board by facsimile transmission, service of the answer will be deemed filed on the date of facsimile transmission if the required documentation described in subparagraph (e) above is submitted to the Loft Board by (1) hand delivery, within 3 calendar days of the date of the facsimile transmission, or (2) mail, postmarked within 3 calendar days of the date of the facsimile transmission. Failure to submit the original answer signed by the affected party, any accompanying documents and proof of service within 3 calendar days to the Loft Board following facsimile transmission of such documents will constitute a default and the affected party will then be subject to the procedures outlined in 29 RCNY § 1-06(i).
 
 (g) All applications, answers and other proofs requested by the Loft Board's staff or the Loft Board shall be verified or affirmed. Failure to do so may result in rejection of the documents. Whenever the Loft Board rules require that a document be filed with the Loft Board, it is required that the document be received by the Loft Board. If the Loft Board's rules require that a document be filed with the Loft Board within a prescribed time period, that document must be received within the specified time period. If any deadline set by the Loft Board rule is not a business day, the deadline will be extended to the next business day. A business day is defined as 9:00am to 4:00pm on Monday through Friday except for federal, state or city holidays.
 
@@ -171,7 +171,7 @@ Minutes of open and Executive sessions and all records of the Board available un
 
 (o) The Loft Board may, by a vote of a majority of the Loft Board members, conduct a de novo hearing or inquest on an application. The provisions on the taking of evidence, as set forth in 29 RCNY § 1-06(j), supra, shall apply to hearings conducted by the Loft Board. All such proceedings shall be electronically recorded.
 
-(p) The report and recommendation by the Loft Board's staff or Administrative Law Judge on each application shall be referred to the Loft Board. A copy of the Loft Board's order and the report and recommendation shall be mailed to the applicant and all affected parties who filed an answer. A final Loft Board order shall constitute a final agency determination for purposes of commencement of the running of the statute of limitations for the filing of a petition pursuant to Article 78 of the Civil Practice Law and Rules challenging the Loft Board's order, unless a timely application for reconsideration has been filed in accordance with 29 RCNY § 1-07 of these rules.
+(p) The report and recommendation by the Loft Board's staff or Administrative Law Judge on each application shall be referred to the Loft Board. A copy of the Loft Board's order and the report and recommendation shall be mailed to the applicant and all affected parties who filed an answer. A final Loft Board order shall constitute a final agency determination for purposes of commencement of the running of the statute of limitations for the filing of a petition pursuant to Article 78 of the Civil Practice Law and Rules challenging the Loft Board's order, unless a timely application for reconsideration has been filed in accordance with 29 RCNY § 1-07.
 
 
 
@@ -199,13 +199,13 @@ Minutes of open and Executive sessions and all records of the Board available un
 
 (a)  Reconsideration Application.
 
-   (1) General Requirements. The procedures and requirements set forth in 29 RCNY § 1-06 of this title apply to reconsideration applications filed pursuant to this section, except as otherwise stated in this section.
+   (1) General Requirements. The procedures and requirements set forth in 29 RCNY § 1-06 apply to reconsideration applications filed pursuant to this section, except as otherwise stated in this section.
 
-   (2) Basis of the Reconsideration Application. The Loft Board, upon the application of a party aggrieved by a determination of the Loft Board, may, in its sole discretion, reconsider its determination. An application for reconsideration will be granted only under the following extraordinary circumstances: (i) an allegation of denial of due process or material fraud in the prior proceedings, (ii) an error of law, (iii) an erroneous determination based on a ground that was not argued by the parties at the time of the prior proceeding and that the parties could not have reasonably anticipated would be the basis for a determination, or (iv) discovery of probative, relevant evidence which could not have been discovered at the time of the hearing despite the exercise of due diligence. In addition, pursuant to 29 RCNY § 1-06(i) of this title, an affected party who has not moved for relief from a default determination and who is aggrieved by the default determination may move to reopen the proceeding by filing an application for reconsideration with the Loft Board within 30 calendar days following the mailing date of the order. Such reconsideration application will be granted only if the Loft Board finds that the affected party has established (i) extraordinary circumstances for the failure to file an answer and (ii) substantial likelihood of success on the merits.
+   (2) Basis of the Reconsideration Application. The Loft Board, upon the application of a party aggrieved by a determination of the Loft Board, may, in its sole discretion, reconsider its determination. An application for reconsideration will be granted only under the following extraordinary circumstances: (i) an allegation of denial of due process or material fraud in the prior proceedings, (ii) an error of law, (iii) an erroneous determination based on a ground that was not argued by the parties at the time of the prior proceeding and that the parties could not have reasonably anticipated would be the basis for a determination, or (iv) discovery of probative, relevant evidence which could not have been discovered at the time of the hearing despite the exercise of due diligence. In addition, pursuant to 29 RCNY § 1-06(i), an affected party who has not moved for relief from a default determination and who is aggrieved by the default determination may move to reopen the proceeding by filing an application for reconsideration with the Loft Board within 30 calendar days following the mailing date of the order. Such reconsideration application will be granted only if the Loft Board finds that the affected party has established (i) extraordinary circumstances for the failure to file an answer and (ii) substantial likelihood of success on the merits.
 
 (b) Service and Filing of the Reconsideration Application.
 
-   (1) Service and filing requirements set forth in 29 RCNY § 1-06(b) of this title apply to reconsideration applications filed pursuant to this section. These requirements include but are not limited to the following:
+   (1) Service and filing requirements set forth in 29 RCNY § 1-06(b) apply to reconsideration applications filed pursuant to this section. These requirements include but are not limited to the following:
 
       (i) An aggrieved party must file with the Loft Board: (A) 5 copies of his or her reconsideration application, at least one of which must have an original signature, (B) one copy of the instruction sheet sent to each affected party to the prior proceeding, and (C) proof of service of the reconsideration application to the affected parties in the prior proceeding;
 
@@ -217,13 +217,13 @@ Minutes of open and Executive sessions and all records of the Board available un
 
 (c) (1) Service and Filing Requirement for Answers.
 
-      (i) Unless otherwise stated here, the service and filing requirements set forth in 29 RCNY § 1-06(c)-(f) of this title apply to answers to reconsideration applications filed pursuant to this section. In accordance with 29 RCNY § 1-06(e), any affected party submitting an answer to the reconsideration application must file 5 copies of the original answer and any accompanying documents, and proof of service of the answer on the applicant for reconsideration, with the Loft Board.
+      (i) Unless otherwise stated here, the service and filing requirements set forth in 29 RCNY § 1-06(c) - (f) apply to answers to reconsideration applications filed pursuant to this section. In accordance with 29 RCNY § 1-06(e), any affected party submitting an answer to the reconsideration application must file 5 copies of the original answer and any accompanying documents, and proof of service of the answer on the applicant for reconsideration, with the Loft Board.
 
-      (ii) The answer period is 20 calendar days after service of the reconsideration application on the affected party is deemed complete pursuant to 29 RCNY § 1-06(b)(3) of this title. The answer must contain the facts and arguments relevant to the issues raised in the reconsideration application.
+      (ii) The answer period is 20 calendar days after service of the reconsideration application on the affected party is deemed complete pursuant to 29 RCNY § 1-06(b)(3). The answer must contain the facts and arguments relevant to the issues raised in the reconsideration application.
 
    (2) Issuance of Orders. Pursuant to § 1046(f) of the City Administrative Procedure Act, prior to the issuance of the final order, the Loft Board will mail a copy of its proposed order to 1) the party or parties who filed the reconsideration application, 2) the parties who filed an answer, and 3) all affected parties in the underlying proceeding. The Loft Board will mail a copy of its final order, within a reasonable time from the date of the order, to 1) the party or parties who filed the reconsideration application, 2) the parties who filed an answer, and 3) all affected parties in the underlying proceeding.
 
-(d) Judicial Review. A Loft Board determination issued pursuant to 29 RCNY § 1-06 of this title constitutes a final agency determination for purposes of commencement of the running of the statute of limitations for the filing of a petition pursuant to Article 78 of the Civil Practice Law and Rules challenging such determination and seeking judicial review, unless a timely application for reconsideration of the determination has been filed. If a reconsideration application was filed, and the Loft Board:
+(d) Judicial Review. A Loft Board determination issued pursuant to 29 RCNY § 1-06 constitutes a final agency determination for purposes of commencement of the running of the statute of limitations for the filing of a petition pursuant to Article 78 of the Civil Practice Law and Rules challenging such determination and seeking judicial review, unless a timely application for reconsideration of the determination has been filed. If a reconsideration application was filed, and the Loft Board:
 
    (1) Modifies or revokes the underlying determination, the revocation or modification is deemed the final agency determination for purposes of judicial review;
 
@@ -236,30 +236,30 @@ Minutes of open and Executive sessions and all records of the Board available un
 
 
 
-*§ 1-07.1 Appeal from a Determination of the Loft Board Staff or the Environmental Control Board, or Determination of a Hearing Officer Under Section 2-04.* ::
+*§ 1-07.1 Appeal from a Determination of the Loft Board Staff or the Environmental Control Board, or Determination of a Hearing Officer Under 29 RCNY § 2-04.* ::
 
 
    (1) Appeal from a Determination of the Loft Board Staff or Hearing Officer.
 
 (a) Right to Appeal.
 
-   (1) A person aggrieved by a written determination of the Loft Board staff, with respect to any matter that is not required by these rules to be determined by the full Loft Board, or by a determination of a Loft Board hearing officer with respect to housing maintenance standard violations under 29 RCNY § 2-04 of these rules, may appeal such determination to the Loft Board. The determination of the Loft Board pursuant to such appeal constitutes the final agency determination from which judicial review may be sought.
+   (1) A person aggrieved by a written determination of the Loft Board staff, with respect to any matter that is not required by these rules to be determined by the full Loft Board, or by a determination of a Loft Board hearing officer with respect to housing maintenance standard violations under 29 RCNY § 2-04, may appeal such determination to the Loft Board. The determination of the Loft Board pursuant to such appeal constitutes the final agency determination from which judicial review may be sought.
 
-   (2) Who has the Right to Appeal? For the purposes of this section, a "person aggrieved" by a written determination of the Loft Board staff means the owner or any residential tenant of the building in question whose rights may be affected by the determination. For the purposes of this section, a "person aggrieved by a determination of a hearing officer with respect to housing maintenance standard violations under 29 RCNY § 2-04 of these rules" means the owner of the building in question or the Loft Board staff, in his or her capacity as prosecutor of housing maintenance standard violations.
+   (2) Who has the Right to Appeal? For the purposes of this section, a "person aggrieved" by a written determination of the Loft Board staff means the owner or any residential tenant of the building in question whose rights may be affected by the determination. For the purposes of this section, a "person aggrieved by a determination of a hearing officer with respect to housing maintenance standard violations under 29 RCNY § 2-04" means the owner of the building in question or the Loft Board staff, in his or her capacity as prosecutor of housing maintenance standard violations.
 
 (b) Filing Requirement.
 
    (1) A person aggrieved by a determination as set forth in paragraph (a) of this subdivision must file with the Loft Board 5 copies of an appeal application, along with proof of service of the appeal application upon the affected parties to the prior proceeding and, except where the Loft Board staff is the appellant, the application fee required by 29 RCNY § 2-11(b)(14). Service of the application must be made in accordance with the provisions of 29 RCNY § 1-06(b). To be considered timely, an appeal application must be received by the Loft Board within 45 calendar days of the date of mailing of the determination sought to be appealed. The application must specify the questions presented for appeal and the facts and points of law relied upon as a basis for seeking appeal.
 
-   (2) Who is an Affected Party in an Appeal? For the purposes of this section, an "affected party" in an appeal from a staff determination means the owner or any residential tenant of the building in question whose rights may be affected by the determination. For the purposes of this section, an "affected party" in an appeal from a determination of a hearing officer with respect to housing maintenance standard violations under 29 RCNY § 2-04 of these rules means the owner of the building in question or the Loft Board staff, in his or her capacity as prosecutor of housing maintenance standard violations.
+   (2) Who is an Affected Party in an Appeal? For the purposes of this section, an "affected party" in an appeal from a staff determination means the owner or any residential tenant of the building in question whose rights may be affected by the determination. For the purposes of this section, an "affected party" in an appeal from a determination of a hearing officer with respect to housing maintenance standard violations under 29 RCNY § 2-04 means the owner of the building in question or the Loft Board staff, in his or her capacity as prosecutor of housing maintenance standard violations.
 
-(c) Answer Period in an Appeal and Notice of the Final Order. Within 20 calendar days of service of the appeal application, any party supporting or opposing the application must file 5 copies of an answer with the Loft Board, with proof of service, in accordance with the provisions of 29 RCNY § 1-06(e) of these rules, upon the applicant. The answer must contain the facts and argument on which such party is relying. Pursuant to § 1046(f) of the New York City Charter (City Administrative Procedure Act), upon determination of the appeal application, the final orders of the Loft Board will be mailed to all parties who filed an application or answer in the appeal proceeding. The proposed order will be mailed prior to the issuance of the final order.
+(c) Answer Period in an Appeal and Notice of the Final Order. Within 20 calendar days of service of the appeal application, any party supporting or opposing the application must file 5 copies of an answer with the Loft Board, with proof of service, in accordance with the provisions of 29 RCNY § 1-06(e), upon the applicant. The answer must contain the facts and argument on which such party is relying. Pursuant to § 1046(f) of the New York City Charter (City Administrative Procedure Act), upon determination of the appeal application, the final orders of the Loft Board will be mailed to all parties who filed an application or answer in the appeal proceeding. The proposed order will be mailed prior to the issuance of the final order.
 
-(d) Standard of Review. In reviewing an appeal from a determination by the Loft Board staff or of a Loft Board hearing officer with respect to housing maintenance standard violations under 29 RCNY § 2-04 of these rules, the Loft Board must consider whether the facts found are supported by substantial evidence in the record, whether the law was correctly applied, and whether the penalty imposed is appropriate, but may not consider any evidence not presented to the Loft Board staff or Loft Board hearing officer, unless good cause is shown as to why the evidence was not previously available.
+(d) Standard of Review. In reviewing an appeal from a determination by the Loft Board staff or of a Loft Board hearing officer with respect to housing maintenance standard violations under 29 RCNY § 2-04, the Loft Board must consider whether the facts found are supported by substantial evidence in the record, whether the law was correctly applied, and whether the penalty imposed is appropriate, but may not consider any evidence not presented to the Loft Board staff or Loft Board hearing officer, unless good cause is shown as to why the evidence was not previously available.
 
 (e) Loft Board Authority. The Loft Board may reverse, remand, or modify any determination appealed from pursuant to this section and may reduce the penalty imposed by a hearing officer for housing maintenance standard violation, or the penalty imposed by the Loft Board staff.
 
-   (2) Appeal from a Determination of the Environmental Control Board. An appeal from a determination of an Environmental Control Board ("ECB") hearing examiner issued pursuant to a Loft Board rule must be brought before the ECB in accordance with the applicable rules and provisions established by the ECB, as set forth in Chapter 3 of Title 48 of the Rules of the City of New York, and must be in a form prescribed by the ECB, which may be obtained at www.nyc.gov/ecb.
+   (2) Appeal from a Determination of the Environmental Control Board. An appeal from a determination of an Environmental Control Board ("ECB") hearing examiner issued pursuant to a Loft Board rule must be brought before the ECB in accordance with the applicable rules and provisions established by the ECB, as set forth in 48 RCNY Chapter 3, and must be in a form prescribed by the ECB, which may be obtained at www.nyc.gov/ecb.
 
 
 
@@ -305,13 +305,13 @@ Administrative authority is vested in the Executive Director of the staff, under
 
 (a) Definitions. 
 
-Persons. "Persons" shall mean an individual, partnership, corporation or other legal entity, and any individual or entity acting in a fiduciary or representative capacity.
+   Persons. "Persons" shall mean an individual, partnership, corporation or other legal entity, and any individual or entity acting in a fiduciary or representative capacity.
 
-Petition. "Petition" shall mean a request or application for the Loft Board to adopt a rule.
+   Petition. "Petition" shall mean a request or application for the Loft Board to adopt a rule.
 
-Petitioner. "Petitioner" shall mean the person who files a petition.
+   Petitioner. "Petitioner" shall mean the person who files a petition.
 
-Rule. "Rule" shall have the same meaning set forth in Section 1041 (5) of the New York City Charter.
+   Rule. "Rule" shall have the same meaning set forth in Section 1041(5) of the New York City Charter.
 
 (b) Procedures for Submitting Petitions.
 
@@ -380,13 +380,13 @@ Paragraphs (9) and (10) of this subdivision implement the current code complianc
 
       (i) Code compliance timetable for buildings in which all residential units are as of right. The owner of an IMD that contains only residential units in which residential use is permitted as of right under the Zoning Resolution shall have filed an alteration application by March 21, 1983.
 
-      (ii) Buildings with 3 or more as of right units and additional units eligible for grandfathering. The owner of an IMD that, on December 1, 1981, contained 3 or more residential units as of right and 1 or more units eligible for coverage by use of one of the grandfathering procedures set forth in subsection 281(2)(i) or (iv) of Article 7-C, as defined in 29 RCNY § 2-08(a) "Grandfathering" (i) and (ii) of these Loft Board regulations:
+      (ii) Buildings with 3 or more as of right units and additional units eligible for grandfathering. The owner of an IMD that, on December 1, 1981, contained 3 or more residential units as of right and 1 or more units eligible for coverage by use of one of the grandfathering procedures set forth in subsection 281(2)(i) or (iv) of Article 7-C, as defined in 29 RCNY § 2-08(a) "Grandfathering" (i) and (ii):
 
          (A) Shall have filed an alteration application for all covered as of right residential units by March 21, 1983, and
 
          (B) Following the grandfathering approval of any additional residential units, the owner shall amend the existing alteration application to reflect approval of the grandfathering application for the additional unit or units within a month from such approval or within a month of the effective date of these regulations, whichever is later.
 
-      (iii) Buildings with fewer than 3 as of right units and additional units eligible for grandfathering. The owner of an IMD that, on December 1, 1981, contained fewer than three residential units as of right and 1 or more units eligible for coverage by use of the grandfathering procedures set forth in § 281(2)(i) or (iv) of Article 7-C, as defined in 29 RCNY § 2-08(a) "Grandfathering" (i) and (ii) of these Loft Board regulations:
+      (iii) Buildings with fewer than 3 as of right units and additional units eligible for grandfathering. The owner of an IMD that, on December 1, 1981, contained fewer than three residential units as of right and 1 or more units eligible for coverage by use of the grandfathering procedures set forth in § 281(2)(i) or (iv) of Article 7-C, as defined in 29 RCNY § 2-08(a) "Grandfathering" (i) and (ii):
 
          (A) Shall file an alteration application for all covered residential units within 9 months after approval of the grandfathering application of the unit that becomes the third covered residential unit, and
 
@@ -394,7 +394,7 @@ Paragraphs (9) and (10) of this subdivision implement the current code complianc
 
       (iv) Buildings in study areas rezoned to permit as of right residential use. The owner of an IMD located in an area designated by the Zoning Resolution as a study area that is rezoned to permit residential use as of right shall file an alteration application within 9 months after the effective date of such rezoning.
 
-      (v) Buildings in study areas rezoned to permit residential use with 3 or more as of right units and additional units eligible for grandfathering. The owner of an IMD that is located in an area designated by the Zoning Resolution as a study area and that, as a result of rezoning, contains 3 or more residential units as of right and 1 or more units eligible for coverage by use of one of the grandfathering procedures set forth in § 281(2)(i) or (iv) of Article 7-C, as defined in 29 RCNY § 2-08 "Grandfathering" (i) and (ii) of these Loft Board regulations:
+      (v) Buildings in study areas rezoned to permit residential use with 3 or more as of right units and additional units eligible for grandfathering. The owner of an IMD that is located in an area designated by the Zoning Resolution as a study area and that, as a result of rezoning, contains 3 or more residential units as of right and 1 or more units eligible for coverage by use of one of the grandfathering procedures set forth in § 281(2)(i) or (iv) of Article 7-C, as defined in 29 RCNY § 2-08 "Grandfathering" (i) and (ii):
 
          (A) Shall file an alteration application for all covered as of right residential units within 9 months after the effective date of such rezoning, and
 
@@ -402,7 +402,7 @@ Paragraphs (9) and (10) of this subdivision implement the current code complianc
 
       (vi) Buildings in study areas rezoned to permit residential use with fewer than 3 as of right units and additional units eligible for grandfathering.
 
-      The owner of an IMD that is located in an area designated by the Zoning Resolution as a study area and that, as a result of rezoning, contains fewer than 3 residential units as of right and 1 or more units eligible for coverage by use of one of the grandfathering procedures set forth in § 281(2)(i) or (iv) of Article 7-C, as defined in 29 RCNY § 2-08(a) "Grandfathering" (i) and (ii) of these Loft Board regulations:
+      The owner of an IMD that is located in an area designated by the Zoning Resolution as a study area and that, as a result of rezoning, contains fewer than 3 residential units as of right and 1 or more units eligible for coverage by use of one of the grandfathering procedures set forth in § 281(2)(i) or (iv) of Article 7-C, as defined in 29 RCNY § 2-08(a) "Grandfathering" (i) and (ii):
 
          (A) Shall file an alteration application for all covered residential units within 9 months after approval of the grandfathering application of the unit that becomes the third covered residential unit, and
 
@@ -412,13 +412,13 @@ Paragraphs (9) and (10) of this subdivision implement the current code complianc
 
       (i) Code compliance timetable for buildings in which all residential units are as of right. The owner of an IMD that contains only residential units in which residential use is permitted as of right under the Zoning Resolution shall take all necessary and reasonable actions to obtain a building permit within 6 months after the effective date of these regulations.
 
-      (ii) Buildings with 3 or more as of right units and additional units eligible for grandfathering. The owner of an IMD that, on December 1, 1981, contained 3 or more residential units as of right and 1 or more units eligible for coverage by use of one of the grandfathering procedures set forth in § 281(2)(i) or (iv) of Article 7-C, as defined in 29 RCNY § 2-08(a) "Grandfathering" (i) and (ii) of these Loft Board regulations:
+      (ii) Buildings with 3 or more as of right units and additional units eligible for grandfathering. The owner of an IMD that, on December 1, 1981, contained 3 or more residential units as of right and 1 or more units eligible for coverage by use of one of the grandfathering procedures set forth in § 281(2)(i) or (iv) of Article 7-C, as defined in 29 RCNY § 2-08(a) "Grandfathering" (i) and (ii):
 
          (A) Shall take all necessary and reasonable actions to obtain a building permit for all covered residential units within 6 months after the effective date of these regulations, and
 
          (B) Following the grandfathering approval of any additional residential units, the owner shall take all necessary and reasonable actions to obtain approval of the amended alteration application for the additional units within 6 months after such grandfathering approval or within 6 months after the effective date of these regulations, whichever is later.
 
-      (iii) Buildings with fewer than 3 as of right units and additional units eligible for grandfathering. The owner of an IMD that, on December 1, 1981, contained fewer than 3 residential units as of right and 1 or more units eligible for coverage by use of one of the grandfathering procedures set forth in § 281(2)(i) or (iv) of Article 7-C, as defined in 29 RCNY § 2-08(a) "Grandfathering" (i) and (ii) of these Loft Board regulations:
+      (iii) Buildings with fewer than 3 as of right units and additional units eligible for grandfathering. The owner of an IMD that, on December 1, 1981, contained fewer than 3 residential units as of right and 1 or more units eligible for coverage by use of one of the grandfathering procedures set forth in § 281(2)(i) or (iv) of Article 7-C, as defined in 29 RCNY § 2-08(a) "Grandfathering" (i) and (ii):
 
          (A) Shall take all necessary and reasonable actions to obtain a building permit for all covered residential units within 6 months after the effective date of these regulations or within 6 months after the timely filing of an alteration application, whichever is later, and
 
@@ -426,13 +426,13 @@ Paragraphs (9) and (10) of this subdivision implement the current code complianc
 
       (iv) Buildings in study areas rezoned to permit as of right residential use. The owner of an IMD located in an area designated by the Zoning Resolution as a study area that is rezoned to permit residential use as of right shall take all necessary and reasonable actions to obtain a building permit for all covered residential units within 6 months after the effective date of these regulations or within 6 months after the timely filing of the alteration application, whichever is later.
 
-      (v) Buildings in study areas rezoned to permit residential use with 3 or more as of right units and additional units eligible for grandfathering. The owner of an IMD that is located in an area designated by the Zoning Resolution as a study area and that, as a result of rezoning, contains 3 or more residential units as of right and 1 or more units eligible for coverage by use of one of the grandfathering procedures set forth in § 281(2)(i) or (iv) of Article 7-C, as defined in 29 RCNY § 2-08(a) "Grandfathering" (i) and (ii) of these Loft Board regulations:
+      (v) Buildings in study areas rezoned to permit residential use with 3 or more as of right units and additional units eligible for grandfathering. The owner of an IMD that is located in an area designated by the Zoning Resolution as a study area and that, as a result of rezoning, contains 3 or more residential units as of right and 1 or more units eligible for coverage by use of one of the grandfathering procedures set forth in § 281(2)(i) or (iv) of Article 7-C, as defined in 29 RCNY § 2-08(a) "Grandfathering" (i) and (ii):
 
          (A) Shall take all necessary and reasonable actions to obtain a building permit for all covered residential units within 6 months after the effective date of these regulations or within 6 months after the timely filing of the alteration application, whichever is later, and
 
          (B) Following the grandfathering approval of any additional residential units, the owner shall take all necessary and reasonable actions to obtain approval of the amended alteration application for the additional units within 6 months after such grandfathering approval.
 
-      (vi) Buildings in study areas rezoned to permit residential use with fewer than 3 as of right units and additional units eligible for grandfathering. The owner of an IMD that is located in an area designated by the Zoning Resolution as a study area and that, as result of rezoning, contains fewer than three residential units as of right and one or more units eligible for coverage by use of one of the grandfathering procedures set forth in § 281(2)(i) or (iv) of Article 7-C, as defined in 29 RCNY § 2-08(a) "Grandfathering" (i) and (ii) of these Loft Board regulations:
+      (vi) Buildings in study areas rezoned to permit residential use with fewer than 3 as of right units and additional units eligible for grandfathering. The owner of an IMD that is located in an area designated by the Zoning Resolution as a study area and that, as result of rezoning, contains fewer than three residential units as of right and one or more units eligible for coverage by use of one of the grandfathering procedures set forth in § 281(2)(i) or (iv) of Article 7-C, as defined in 29 RCNY § 2-08(a) "Grandfathering" (i) and (ii):
 
          (A) Shall take all necessary and reasonable actions to obtain a building permit for all covered residential units within 6 months after the effective date of these regulations or within 6 months after the timely filing of the alteration application, whichever is later, and
 
@@ -520,7 +520,7 @@ Paragraphs (9) and (10) of this subdivision implement the current code complianc
 
       (ii) Where the IMD is found to be covered under Article 7-C or registered as an IMD after the code compliance deadline has passed, the owner may file an extension application for the passed code compliance deadline within 90 calendar days after either a finding of Article 7-C coverage by the issuance of a Loft Board order, a court of competent jurisdiction or the issuance of an IMD registration number, whichever is first. If an owner appeals a finding of Article 7-C coverage, the owner may file an extension application 90 calendar days after the final determination of the appeal.
 
-      (iii) Where the owner of an IMD covered under Article 7-C pursuant to MDL § 281(5) requires an extension of the code compliance deadline provided in MDL § 284(1)(vi)(D) and 29 RCNY § 2-01(a)(9)(iv) of these Rules and was not able to file an extension application prior to the deadline because such deadline was shortened from June 21, 2013 to December 21, 2012 by Chapter 4 of the Laws of 2013, the owner may file an extension application within 60 days after the effective date of this amended rule.
+      (iii) Where the owner of an IMD covered under Article 7-C pursuant to MDL § 281(5) requires an extension of the code compliance deadline provided in MDL § 284(1)(vi)(D) and 29 RCNY § 2-01(a)(9)(iv) and was not able to file an extension application prior to the deadline because such deadline was shortened from June 21, 2013 to December 21, 2012 by Chapter 4 of the Laws of 2013, the owner may file an extension application within 60 days after the effective date of this amended rule.
 
       (iv) The IMD owner described in (i) and (ii) above may file an application for an extension of time of up to 1 year to comply with the most recently passed deadline.
 
@@ -528,7 +528,7 @@ Paragraphs (9) and (10) of this subdivision implement the current code complianc
 
       (i) The Executive Director will grant an extension of the code compliance deadlines in MDL § 284(1)(ii), (iii), (iv), (v) or (vi) only where an owner has demonstrated that it has met the statutory standards for such an extension, namely, that the necessity for the extension arises from conditions or circumstances beyond the owner's control, and that the owner has made good faith efforts to meet the code compliance timetable requirements. Examples of such conditions or circumstances beyond the owner's control include, but are not limited to, a requirement for a certificate of appropriateness for modification of a landmarked building, a need to obtain a variance from the Board of Standards and Appeals or the denial of reasonable access to an IMD unit.
 
-      In the case of an IMD owner described in 29 RCNY § 2-01(b)(1)(i) and 29 RCNY § 2-01(b)(1)(ii) above, the Executive Director may consider any action the owner has taken from the date that the title transferred to the new owner, or from the date of the determination of Article 7-C coverage, up to the date the owner filed the extension application when making a determination of whether the owner has exercised good faith efforts to satisfy the requirements.
+      In the case of an IMD owner described in 29 RCNY § 2-01(b)(1)(i) and (b)(1)(ii) above, the Executive Director may consider any action the owner has taken from the date that the title transferred to the new owner, or from the date of the determination of Article 7-C coverage, up to the date the owner filed the extension application when making a determination of whether the owner has exercised good faith efforts to satisfy the requirements.
 
       The existence of conditions or circumstances beyond the owner's control and good faith efforts must be demonstrated in the application by the submission of corroborating evidence. For example, copies of documents from the Landmarks Commission or the Board of Standards and Appeals, or an architect's statement, may be filed with the extension application to show the existence of conditions or circumstances beyond the owner's control and good faith efforts. Proof of the date that the title was transferred to the owner or proof of when the building was deemed covered under Article 7-C should be submitted with the application. Failure to include corroborating evidence in the application may be grounds for denial of the application without further consideration.
 
@@ -538,15 +538,15 @@ Paragraphs (9) and (10) of this subdivision implement the current code complianc
 
    The Executive Director's administrative determination will be mailed to the owner and to the affected parties identified in the application submitted pursuant to paragraph (4) of this subdivision below, and may be appealed to the Loft Board upon application by such owner or affected party.
 
-   An appeal of the administrative determination must be filed in accordance with 29 RCNY § 1-07.1 of these rules.
+   An appeal of the administrative determination must be filed in accordance with 29 RCNY § 1-07.1.
 
    (4) Form of application, filing requirements and occupant responses.
 
-      (i) An extension application filed pursuant to this subdivision (b) of 29 RCNY § 2-01 must be filed on the approved form and must meet the requirements of this subdivision, and 29 RCNY §§ 1-06 and 2-11 of these rules except as provided in this paragraph. An application for an extension must include a list of all residential IMD units in the building and must specify a date to which the applicant seeks to have the deadline extended. Failure to so specify in the application shall be grounds for dismissal of the application without prejudice.
+      (i) An extension application filed pursuant to this subdivision (b) of 29 RCNY § 2-01 must be filed on the approved form and must meet the requirements of this subdivision, and 29 RCNY §§ 1-06 and 2-11 except as provided in this paragraph. An application for an extension must include a list of all residential IMD units in the building and must specify a date to which the applicant seeks to have the deadline extended. Failure to so specify in the application shall be grounds for dismissal of the application without prejudice.
 
-      (ii) The original extension application and 2 copies must be filed with the Loft Board. Prior to filing an extension application with the Loft Board, an owner shall serve a copy of the extension application upon the occupant of each IMD unit in the building in the manner described in 29 RCNY § 1-06(b) of these rules. Any occupant of an IMD unit may file an answer to such application with the Loft Board within 20 calendar days from the date service of the application is deemed complete, as determined below in subparagraph (iv).
+      (ii) The original extension application and 2 copies must be filed with the Loft Board. Prior to filing an extension application with the Loft Board, an owner shall serve a copy of the extension application upon the occupant of each IMD unit in the building in the manner described in 29 RCNY § 1-06(b). Any occupant of an IMD unit may file an answer to such application with the Loft Board within 20 calendar days from the date service of the application is deemed complete, as determined below in subparagraph (iv).
 
-      (iii) The occupant(s) of an IMD unit must serve a copy of the answer upon the owner prior to filing the answer with the Loft Board. Each answer filed with the Loft Board must include, at the time of filing, proof of service in the manner described in 29 RCNY § 1-06(d) and (e) of the Loft Board rules.
+      (iii) The occupant(s) of an IMD unit must serve a copy of the answer upon the owner prior to filing the answer with the Loft Board. Each answer filed with the Loft Board must include, at the time of filing, proof of service in the manner described in 29 RCNY § 1-06(d) and (e).
 
       (iv) Service of the application by mail is deemed completed five calendar days following mailing. While an application filed under this subdivision is pending, an owner may amend the application one time to request a longer extension period than was originally sought in the application.
 
@@ -554,19 +554,19 @@ Paragraphs (9) and (10) of this subdivision implement the current code complianc
 
    (1) The Loft Board, on its own initiative or in response to complaints, may commence a proceeding to determine whether an owner has violated the provisions of § 284(1) of the MDL or these code compliance rules. In addition, a residential occupant of an IMD building may file with the Loft Board an application seeking a Loft Board determination on whether the owner of the occupant's building is in violation of the provisions of § 284(1) of the MDL or these code compliance rules.
 
-   (2) An owner who is found by the Loft Board to have violated the code compliance timetables set forth in MDL § 284(1) or any provision of 29 RCNY § 2-01(a) of these rules: (i) may be subject to a civil penalty in accordance with 29 RCNY § 2-11.1 of the Loft Board rules for each missed deadline; (ii) may be subject to all penalties provided in Article 8 of the MDL; and (iii) may be subject to a specific performance proceeding as provided in paragraph (4) below.
+   (2) An owner who is found by the Loft Board to have violated the code compliance timetables set forth in MDL § 284(1) or any provision of 29 RCNY § 2-01(a): (i) may be subject to a civil penalty in accordance with 29 RCNY § 2-11.1 for each missed deadline; (ii) may be subject to all penalties provided in Article 8 of the MDL; and (iii) may be subject to a specific performance proceeding as provided in paragraph (4) below.
 
    (3) Upon demonstration by an owner of insufficient funds to proceed with code compliance, the Loft Board may consider the lack of sufficient funds in mitigation of any fine to be imposed against the owner upon a finding of noncompliance. To obtain the benefit of the defense of insufficient funds, an owner must supply the Loft Board with an income and expense statement for the building verified by an independent certified public accountant, a written estimate of the cost of compliance with the cited deadline or requirement from a registered architect. If the funds generated by the building are not sufficient to cover the costs of the necessary compliance work, the owner must also supply a letter from two separate banks or mortgage brokers refusing to offer sufficient funds to comply, accompanied by copies of the owner's applications for such funds, or if the lenders refuse to provide a written rejection, then the owner shall file an affidavit setting forth the basis for the owner's belief that the applications have been rejected.
 
-   (4) If the Loft Board finds an owner in violation of the code compliance timetable set forth in MDL § 284(1) and 29 RCNY § 2-01(a) of these rules, the Loft Board or any three occupants of separate, covered residential units in the building may apply to a court of competent jurisdiction for an order of specific performance directing the owner to satisfy all code compliance requirements set forth in this section.
+   (4) If the Loft Board finds an owner in violation of the code compliance timetable set forth in MDL § 284(1) and 29 RCNY § 2-01(a), the Loft Board or any three occupants of separate, covered residential units in the building may apply to a court of competent jurisdiction for an order of specific performance directing the owner to satisfy all code compliance requirements set forth in this section.
 
    (5) The owner of an IMD who is found by the Loft Board to have willfully violated the code compliance timetable of these regulations or to have violated the code compliance timetable more than once may be found to have harassed occupants with respect to such IMD in a harassment proceeding before the Loft Board.
 
-   (6) If any residential occupant of an IMD building is required to vacate its unit as a result of a municipal vacate order that has been issued for hazardous conditions as a consequence of an owner's unlawful failure to comply with the code compliance timetable: (i) The occupant, at its option, will be entitled to recover from the owner the fair market value of any improvements made or purchased by the occupant and will be entitled to reasonable moving costs incurred in vacating the unit. All such transactions shall be fully in accordance with 29 RCNY § 2-07 of the Loft Board rules regarding Sales of Improvements. These rights are in addition to any other remedies the occupant may have.
+   (6) If any residential occupant of an IMD building is required to vacate its unit as a result of a municipal vacate order that has been issued for hazardous conditions as a consequence of an owner's unlawful failure to comply with the code compliance timetable: (i) The occupant, at its option, will be entitled to recover from the owner the fair market value of any improvements made or purchased by the occupant and will be entitled to reasonable moving costs incurred in vacating the unit. All such transactions shall be fully in accordance with 29 RCNY § 2-07 regarding Sales of Improvements. These rights are in addition to any other remedies the occupant may have.
 
       (ii) Any municipal vacate order shall be deemed an order to the owner to correct the noncompliant conditions, subject to the provisions of Article 7-C. The issuance of such an order as a result of the owner's unlawful failure to comply with the code compliance timetable shall result in a rebuttable presumption of harassment in a harassment proceeding brought by an occupant or occupants before the Loft Board.
 
-      (iii) When the owner has corrected the noncompliant conditions, the occupants will have the right to reoccupy the unit and will be entitled to all applicable occupant protections of Article 7-C, including the right to reoccupy the unit at the same rent paid prior to the vacancy period plus any rental adjustments authorized by Article 7-C or the Loft Board rules. Furthermore, the occupant will be entitled to recover from the owner reasonable moving costs incurred in reoccupying the unit in accordance with 29 RCNY § 2-07 of the Loft Board rules regarding Sales of Improvements.
+      (iii) When the owner has corrected the noncompliant conditions, the occupants will have the right to reoccupy the unit and will be entitled to all applicable occupant protections of Article 7-C, including the right to reoccupy the unit at the same rent paid prior to the vacancy period plus any rental adjustments authorized by Article 7-C or the Loft Board rules. Furthermore, the occupant will be entitled to recover from the owner reasonable moving costs incurred in reoccupying the unit in accordance with 29 RCNY § 2-07 regarding Sales of Improvements.
 
       (iv) At no time may rent for the unit be due or collectible for such period of vacancy.
 
@@ -592,7 +592,7 @@ Paragraphs (9) and (10) of this subdivision implement the current code complianc
 
       This paragraph (2) shall apply where an owner is required to amend an alteration application to reflect grandfathering approval of additional units pursuant to 29 RCNY §§ 2-01(a)(1)(ii)(B), (iii)(B), (v)(B), or (vi)(B), or where an owner is required to amend an alteration application to reflect the coverage of additional units under M.D.L. § 281(4); however, if the proposed work is to be performed solely within the additional unit(s), this paragraph (2) shall only apply to the occupant(s) of such unit(s).
 
-      This paragraph (2) shall not apply to IMD's for which a building permit for achieving compliance with Article 7-B, alternative building codes or provisions of the M.D.L. has already been issued and is in effect as of the date of adoption of these regulations, and which remains in effect or is renewed without reinstatement of the underlying alteration application until such compliance is achieved. However, an occupant of such an IMD may file an application with the Loft Board based on the grounds that the scope of the work approved under the alteration application for which the permit was issued constitutes an unreasonable interference with the occupant's use of its unit in accordance with the provisions of 29 RCNY § 2-01(h) of these regulations.
+      This paragraph (2) shall not apply to IMD's for which a building permit for achieving compliance with Article 7-B, alternative building codes or provisions of the M.D.L. has already been issued and is in effect as of the date of adoption of these regulations, and which remains in effect or is renewed without reinstatement of the underlying alteration application until such compliance is achieved. However, an occupant of such an IMD may file an application with the Loft Board based on the grounds that the scope of the work approved under the alteration application for which the permit was issued constitutes an unreasonable interference with the occupant's use of its unit in accordance with the provisions of 29 RCNY § 2-01(h).
 
       This paragraph (2) also shall not apply to those units in IMD's for which a temporary or final certificate of occupancy as a class A multiple dwelling has been issued and is in effect as of the date of adoption of these regulations.
 
@@ -616,7 +616,7 @@ Paragraphs (9) and (10) of this subdivision implement the current code complianc
 
          (D) Paragraph (2) does not apply to those units for which a temporary certificate of occupancy is in effect as of June 1, 2012 and which remains in effect or is renewed without reinstatement or amendment of the underlying alteration application and legalization plan until the final certificate of occupancy is obtained.
 
-      (iv) An occupant of an IMD covered by Article 7-C pursuant to MDL § 281(5), who did not participate in the narrative statement process because 29 RCNY § 2-01(d)(2) did not apply to the unit as described in 29 RCNY § 2-01(d)(2)(ii)(A) or 29 RCNY § 2-01(d)(2)(iii)(A), may file an application with the Loft Board based on the grounds that the scope of the work approved in the underlying alteration application for which the permit was issued constitutes an unreasonable interference with the occupant's use of its unit in accordance with the provisions of 29 RCNY § 2-01(h) of these rules.
+      (iv) An occupant of an IMD covered by Article 7-C pursuant to MDL § 281(5), who did not participate in the narrative statement process because 29 RCNY § 2-01(d)(2) did not apply to the unit as described in 29 RCNY § 2-01(d)(2)(ii)(A) or (d)(2)(iii)(A), may file an application with the Loft Board based on the grounds that the scope of the work approved in the underlying alteration application for which the permit was issued constitutes an unreasonable interference with the occupant's use of its unit in accordance with the provisions of 29 RCNY § 2-01(h).
 
       (v) Narrative Statement. Except as otherwise provided in this paragraph (2), within 15 calendar days of the filing of its alteration application with DOB, the owner of an IMD must provide all occupants with a narrative statement, upon the approved Loft Board form, describing separately for each unit, both residential and nonresidential, all the work to be performed in such unit and all of the work to be performed in common areas. The owner of an IMD covered by Article 7-C pursuant to MDL § 281(5) must provide occupants with the narrative statement within 15 calendar days of filing the alteration application with DOB or within 30 calendar days after the effective date of this amended rule, whichever is later.
 
@@ -624,7 +624,7 @@ Paragraphs (9) and (10) of this subdivision implement the current code complianc
 
       In accordance with the procedures set forth in 29 RCNY § 2-01(d)(1), following service of the narrative statement, the owner must file with the Loft Board the original narrative statement with proof of service, as required by 29 RCNY § 2-01(d)(1)(i), two copies of its filed alteration application along with the DOB's acknowledgment of filing, and two copies of the legalization plan submitted to DOB. The plan filed with the Loft Board must be no larger than 14 inches by 17 inches.
 
-      Occupants may examine the alteration application and legalization plan by appointment at the Loft Board. An occupant may request from the owner a reproducible copy of the alteration application and legalization plan, construction specifications, if any, and the tenant protection plan described in subparagraph (vi) below, and the owner must supply such copy within 7 calendar days of service of the request. The cost of the copies of the alteration application and legalization plan are payable by the occupants up to the amount listed in § 101-03 of Title 1 of the Rules of the City of New York.
+      Occupants may examine the alteration application and legalization plan by appointment at the Loft Board. An occupant may request from the owner a reproducible copy of the alteration application and legalization plan, construction specifications, if any, and the tenant protection plan described in subparagraph (vi) below, and the owner must supply such copy within 7 calendar days of service of the request. The cost of the copies of the alteration application and legalization plan are payable by the occupants up to the amount listed in 1 RCNY § 101-03.
 
       (vi) The owner must certify to the DOB on the approved Loft Board form that it has complied with the provisions of subparagraph (v); that it will comply with all other requirements of this paragraph (2) and with the requirement for a tenant protection plan pursuant to New York City Administrative Code § 28-104.8.4; and that prior to obtaining the building permit, the owner will submit to the DOB a letter from the Loft Board, certifying compliance with all requirements of 29 RCNY § 2-01(d)(2). The owner's certification must be filed with the DOB within 5 calendar days after the owner's filing with the Loft Board pursuant to the procedures described in the preceding subparagraph (v).
 
@@ -654,7 +654,7 @@ Paragraphs (9) and (10) of this subdivision implement the current code complianc
 
       Within 5 calendar days after filing an alternate plan application with the DOB, the occupant shall provide the owner and all other occupants with a dated narrative statement describing the occupant's objections to, comments on, or criticisms of the owner's plan and any projected increase in code compliance costs resulting from the occupant's alternate plan. In accordance with the procedures provided in 29 RCNY § 2-01(d)(1), the occupant must file with the Loft Board: the original copy of the occupant's narrative statement with proof of service on the owner and all other occupants, two copies of the filed alternate plan application, including the DOB's acknowledgment of filing, and two copies of the occupant's alternate plan application and legalization plan.
 
-      The owner and other occupants may review the alternate plan application, including the legalization plan, by appointment at the Loft Board's office. An owner or another occupant may request from the filing occupant a reproducible copy of the alternate plan application and legalization plan and shall be supplied with such copy within 7 calendar days after service of the request. The cost to the requesting party is the fee listed in § 101-03 of Title 1 of the Rules of the City of New York.
+      The owner and other occupants may review the alternate plan application, including the legalization plan, by appointment at the Loft Board's office. An owner or another occupant may request from the filing occupant a reproducible copy of the alternate plan application and legalization plan and shall be supplied with such copy within 7 calendar days after service of the request. The cost to the requesting party is the fee listed in 1 RCNY § 101-03.
 
       (ix) If the DOB issues objections to an alternate plan application submitted by any occupant of the building, the occupant, through his or her architect or engineer, must take all necessary and reasonable actions to cure such objections within 45 calendar days of notice of objections from the DOB.
 
@@ -684,7 +684,7 @@ Paragraphs (9) and (10) of this subdivision implement the current code complianc
 
             If the Loft Board, after a fact-finding hearing, or the Executive Director, if a fact-finding hearing is not required, finds that the owner's legalization plan would result in an unreasonable interference, it shall order the owner to amend its alteration application, legalization plan and corresponding narrative statement within 60 calendar days or may certify the alternate plan submitted by the occupant for the space involved.
 
-            A failure or refusal to comply with such an order may constitute a violation of the owner's obligation to take all reasonable and necessary action to obtain an alteration permit under § 284 of Article 7-C and these rules, and the owner may be subject to civil penalties in accordance with 29 RCNY § 2-11.1 of these rules. The Loft Board may also initiate an action to compel specific performance, and seek all applicable penalties authorized by the Loft Board rules or Article 7-C.
+            A failure or refusal to comply with such an order may constitute a violation of the owner's obligation to take all reasonable and necessary action to obtain an alteration permit under § 284 of Article 7-C and these rules, and the owner may be subject to civil penalties in accordance with 29 RCNY § 2-11.1. The Loft Board may also initiate an action to compel specific performance, and seek all applicable penalties authorized by the Loft Board rules or Article 7-C.
 
             If the owner has cleared all DOB objections and if the Loft Board or its Executive Director finds that the owner's alteration application and legalization plan would not unreasonably interfere with the occupant's use of the unit, the Loft Board or its Executive Director shall issue an order or an administrative determination certifying compliance with all requirements of 29 RCNY § 2-01(d)(2).
 
@@ -702,11 +702,11 @@ Paragraphs (9) and (10) of this subdivision implement the current code complianc
 
    (3) Procedures for certification of estimated further rent adjustments. Following the DOB's approval of an owner's alteration application and legalization plan or an occupant's alternate plan application, an owner may apply to the Loft Board for certification of estimated future rent adjustments, based on the legalization plan and the Loft Board Schedule of Allowable Necessary and Reasonable Code Compliance Costs in the Loft Board's rules. The filing of an application for estimated future rent adjustments is at the discretion of the owner and shall not be a basis for staying commencement or continuation of work under a valid building permit issued by the DOB.
 
-   All applications for certification of estimated future rent adjustments will be processed in accordance with § 1-06 of the Loft Board's rules, except as provided herein. The owner must file with the Loft Board an application on a Loft Board approved form. The application must describe separately: i) the work to be performed in each residential unit; ii) the work to be performed in common areas; and iii) the work to be performed in the nonresidential units. The application must include a calculation of the necessary and reasonable costs based on the Loft Board schedule and any other necessary and reasonable costs as permitted in the Loft Board's rules. If the owner anticipates the use of financing, the application must also include any statements, letters of intent or commitment, or other materials from institutional or noninstitutional lenders regarding the terms or conditions of such financing. In addition, the owner must file with the Loft Board two copies of the approved alteration application and legalization plan.
+   All applications for certification of estimated future rent adjustments will be processed in accordance with 29 RCNY § 1-06, except as provided herein. The owner must file with the Loft Board an application on a Loft Board approved form. The application must describe separately: i) the work to be performed in each residential unit; ii) the work to be performed in common areas; and iii) the work to be performed in the nonresidential units. The application must include a calculation of the necessary and reasonable costs based on the Loft Board schedule and any other necessary and reasonable costs as permitted in the Loft Board's rules. If the owner anticipates the use of financing, the application must also include any statements, letters of intent or commitment, or other materials from institutional or noninstitutional lenders regarding the terms or conditions of such financing. In addition, the owner must file with the Loft Board two copies of the approved alteration application and legalization plan.
 
-   The owner's application must be served on all of the building's occupants by the owner in accordance with the service requirements for applications set forth in 29 RCNY § 1-06 of the Loft Board rules. Occupants may review the alteration application and legalization plan at the DOB in accordance with the DOB's procedures or by appointment at the Loft Board's office. An occupant may request from the owner a reproducible copy of the alteration application and legalization plan, and the owner must supply such a copy within 7 calendar days after service of the request at a cost to the occupant of up to the amounts listed in § 101-03 of Title 1 of the Rules of the City of New York. Occupants may submit an answer to the owner's application within 20 calendar days after the date on which service of the application was completed. The answer may list any objections, comments or suggestions regarding the calculation of necessary and reasonable costs of approved work.
+   The owner's application must be served on all of the building's occupants by the owner in accordance with the service requirements for applications set forth in 29 RCNY § 1-06. Occupants may review the alteration application and legalization plan at the DOB in accordance with the DOB's procedures or by appointment at the Loft Board's office. An occupant may request from the owner a reproducible copy of the alteration application and legalization plan, and the owner must supply such a copy within 7 calendar days after service of the request at a cost to the occupant of up to the amounts listed in 1 RCNY § 101-03. Occupants may submit an answer to the owner's application within 20 calendar days after the date on which service of the application was completed. The answer may list any objections, comments or suggestions regarding the calculation of necessary and reasonable costs of approved work.
 
-   The Loft Board may schedule a conference to discuss objections, comments or suggestions raised by the occupants and responses by the owner. Following such a conference, the application will be processed, and the Loft Board will issue findings on the necessary and reasonable code compliance work and associated costs, and the estimated future rent adjustments. Such findings will be a reasonable estimate based on available information. However, actual rent adjustments will be determined by the Loft Board in accordance with 29 RCNY §§ 2-01(i) through 2-01(l) of these rules.
+   The Loft Board may schedule a conference to discuss objections, comments or suggestions raised by the occupants and responses by the owner. Following such a conference, the application will be processed, and the Loft Board will issue findings on the necessary and reasonable code compliance work and associated costs, and the estimated future rent adjustments. Such findings will be a reasonable estimate based on available information. However, actual rent adjustments will be determined by the Loft Board in accordance with 29 RCNY § 2-01(i) through (l).
 
    (4) Requirement of a Letter of No Objection for Work Permits in IMD Buildings.
 
@@ -722,7 +722,7 @@ Paragraphs (9) and (10) of this subdivision implement the current code complianc
 
             a. a formal request, which must be submitted on the Loft Board approved form, if any, at the time of the request;
 
-            b. a copy of the current monthly report relating to the legalization projects in the building, in accordance with the requirements of 29 RCNY § 2-01.1(a)(1)(ii) of the Loft Board rules;
+            b. a copy of the current monthly report relating to the legalization projects in the building, in accordance with the requirements of 29 RCNY § 2-01.1(a)(1)(ii);
 
             c. a copy of the alteration application filed with the DOB;
 
@@ -772,7 +772,7 @@ Paragraphs (9) and (10) of this subdivision implement the current code complianc
 
          (D) The Executive Director will not consider any incomplete appeals. Failure to file a complete appeal may result in rejection of the appeal without consideration of the issues raised.
 
-         (E) Appeals from the written determination of the Executive Director shall be governed in accordance with 29 RCNY § 1-07.1 of these rules.
+         (E) Appeals from the written determination of the Executive Director shall be governed in accordance with 29 RCNY § 1-07.1.
 
 (e) Code compliance for nonconforming units. If the DOB has issued an objection to the owner's alteration application because an IMD unit cannot be brought into compliance under appropriate building codes, provisions of the MDL or the Zoning Resolution because of its size, design, or location within the building, the owner and affected occupant(s) should make every effort to reach accommodations that would permit every covered residential unit to be made code compliant.
 
@@ -804,7 +804,7 @@ If the Executive Director or the Loft Board orders (1) or (2) above, a specific 
 
    The owner is required to obtain the appropriate DOB approval for all work to be performed, but where the owner and the occupant have agreed that work will be performed by the the occupant, they may also agree that the occupant will obtain the required DOB approvals, permits, and consents in accordance with all applicable laws, codes and rules on any work so permitted.
 
-   Should the owner and the occupant agree upon performance of the code compliance work or any portion thereof by such occupant, the owner and the occupant must file a written agreement with the Loft Board in accordance with the procedures set forth in 29 RCNY § 2-01(d)(1) of these rules. Such agreement must include:
+   Should the owner and the occupant agree upon performance of the code compliance work or any portion thereof by such occupant, the owner and the occupant must file a written agreement with the Loft Board in accordance with the procedures set forth in 29 RCNY § 2-01(d)(1). Such agreement must include:
 
       (i) an outline specification of all work to be performed and who will perform it;
 
@@ -812,19 +812,19 @@ If the Executive Director or the Loft Board orders (1) or (2) above, a specific 
 
       (iii) a certification that the parties will provide all information required in the processing of applications for rent adjustments, if any, by the Loft Board;
 
-      (iv) a certification by the owner and occupant that all work will be performed in accordance with the code compliance timetable provided in 29 RCNY § 2-01(a) of these rules.
+      (iv) a certification by the owner and occupant that all work will be performed in accordance with the code compliance timetable provided in 29 RCNY § 2-01(a).
 
    Such agreement by the owner and the occupant must be consistent with the alteration application, corresponding legalization plan certified by the Loft Board, and any other job type alteration applications, limited alteration applications (LAA), electrical work applications, elevator application (EA) or Elevator Building Notice applications (EBN) filed with the DOB and the Loft Board.
 
    (3) If at any time after execution of the agreement but prior to the completion of the code compliance work, the occupant or the owner rescinds the agreement, the rescission must be in writing, served upon all other parties to the agreement and filed with the Loft Board in accordance with the procedures provided in 29 RCNY § 2-01(d)(1). Neither the agreement nor its abrogation will relieve the owner of the obligation to comply with Article 7-C and these rules. The owner and the occupant may also agree in writing, with a copy served on the Loft Board, to:
 
-      (i) Waive the procedure for occupant review of plans and resolution of occupant objections set forth in 29 RCNY § 2-01(d)(2) of these rules; or
+      (i) Waive the procedure for occupant review of plans and resolution of occupant objections set forth in 29 RCNY § 2-01(d)(2); or
 
-      (ii) Modify the procedure for notice to occupants of proposed work set forth in 29 RCNY §§ 2-01(d)(2) and 2-01(g)(3) of these rules.
+      (ii) Modify the procedure for notice to occupants of proposed work set forth in 29 RCNY § 2-01(d)(2) and (g)(3).
 
    Any agreement to waive the procedure for occupant review of plans must be completed on the Loft Board's approved form and must identify the relevant plan and narrative statement by date. Any other agreement for waiver or modification of other provisions of these rules must be submitted to the Loft Board for its approval. The Loft Board will not give any effect to an agreement which proposes that code compliance will not be achieved or that it will be achieved after the deadlines prescribed in 29 RCNY § 2-01(a) and MDL § 284(1).
 
-   (4) If an owner who has agreed to allow an occupant to perform code compliance work applies to the Loft Board for an extension of time to obtain a final residential certificate of occupancy pursuant to 29 RCNY § 2-01(b) of these rules, the owner must exercise due diligence in monitoring the timely completion of such code compliance work in order to have grounds of good cause for its inability to meet the code compliance timetable.
+   (4) If an owner who has agreed to allow an occupant to perform code compliance work applies to the Loft Board for an extension of time to obtain a final residential certificate of occupancy pursuant to 29 RCNY § 2-01(b), the owner must exercise due diligence in monitoring the timely completion of such code compliance work in order to have grounds of good cause for its inability to meet the code compliance timetable.
 
 (g) Notice to occupants of proposed work, repairs and inspections and occupant's obligation to provide access.
 
@@ -858,9 +858,9 @@ If the Executive Director or the Loft Board orders (1) or (2) above, a specific 
 
          (B) Even if the occupant fails to file an answer, the Loft Board may issue an order granting access.
 
-      (iv) A finding by the Loft Board of failure by the owner to comply with any of the notice provisions of 29 RCNY § 2-01(g) or a finding by the Loft Board that an occupant has unreasonably withheld access may be the basis for a civil penalty in accordance with 29 RCNY § 2-11.1 of the Loft Board rules for each violation of the notice provisions, or the unreasonable denial of access to the unit.
+      (iv) A finding by the Loft Board of failure by the owner to comply with any of the notice provisions of 29 RCNY § 2-01(g) or a finding by the Loft Board that an occupant has unreasonably withheld access may be the basis for a civil penalty in accordance with 29 RCNY § 2-11.1 for each violation of the notice provisions, or the unreasonable denial of access to the unit.
 
-      The necessary and reasonable cost of bringing and pursuing a Loft Board access proceeding that results in a finding that a residential occupant has unreasonably withheld access, including the labor or other costs incurred by the owner because access was unreasonably denied, may be included in the owner's application for code compliance rent adjustment as an allowable cost to be allocated to such occupant's residential unit, as provided for in 29 RCNY § 2-01(l)(1) of these rules.
+      The necessary and reasonable cost of bringing and pursuing a Loft Board access proceeding that results in a finding that a residential occupant has unreasonably withheld access, including the labor or other costs incurred by the owner because access was unreasonably denied, may be included in the owner's application for code compliance rent adjustment as an allowable cost to be allocated to such occupant's residential unit, as provided for in 29 RCNY § 2-01(l)(1).
 
       (v) The failure of an occupant to comply with a Loft Board order regarding access may be grounds for eviction of that occupant in a proceeding brought before a court of competent jurisdiction.
 
@@ -884,7 +884,7 @@ If the Executive Director or the Loft Board orders (1) or (2) above, a specific 
 
       (ii) Departs significantly from the work described in the owner's narrative statement and legalization plan;
 
-      (iii) Departs significantly from the estimated time schedule for performance of the work as amended according to the requirements of 29 RCNY § 2-01(d)(2) of these rules;
+      (iii) Departs significantly from the estimated time schedule for performance of the work as amended according to the requirements of 29 RCNY § 2-01(d)(2);
 
       (iv) Engages in repeated or substantial violations of the notice provisions provided in 29 RCNY § 2-01(g); or
 
@@ -892,13 +892,13 @@ If the Executive Director or the Loft Board orders (1) or (2) above, a specific 
 
    Such application must provide the factual basis for a claim that such unauthorized work, departure from the schedule, or violation of the tenant protection plan unreasonably interferes with the occupant's use of its unit.
 
-   A finding by the Loft Board that the owner or its agents engaged in unreasonable interference with an occupant's use may result in civil penalties in accordance with 29 RCNY § 2-11.1 of the Loft Board rules for each violation. A finding by the Loft Board that the owner or its agents engaged in unreasonable and willful interference with an occupant's use of its IMD unit may result in civil penalties in accordance with 29 RCNY § 2-11.1 for each violation, may constitute harassment of occupants, and may subject the owner to penalties resulting from a finding of harassment. As further provided in 29 RCNY § 2-02 of these rules, the penalties may include, but are not limited to the denial of exemptions from rent regulation provided to an owner pursuant to § 286(6) of the MDL and Loft Board rules.
+   A finding by the Loft Board that the owner or its agents engaged in unreasonable interference with an occupant's use may result in civil penalties in accordance with 29 RCNY § 2-11.1 for each violation. A finding by the Loft Board that the owner or its agents engaged in unreasonable and willful interference with an occupant's use of its IMD unit may result in civil penalties in accordance with 29 RCNY § 2-11.1 for each violation, may constitute harassment of occupants, and may subject the owner to penalties resulting from a finding of harassment. As further provided in 29 RCNY § 2-02, the penalties may include, but are not limited to the denial of exemptions from rent regulation provided to an owner pursuant to § 286(6) of the MDL and Loft Board rules.
 
       (i) Applications for Rent Guidelines Board ("RGB") increases and for rent adjustments based on costs of compliance.
 
    (1) RGB increases.
 
-      (i) Upon issuance of a final certificate of occupancy, an owner shall be eligible for a rent adjustment based upon the percentage rent increases established by the RGB (hereinafter "RGB Increases"). The first RGB Increase shall commence on the first day of the first month following the day an owner submits to the Loft Board a Notice of RGB Increase Filing form on the Loft Board approved form. Each subsequent rent increase shall be effective on each one or two-year anniversary of such commencement date, as applicable. This one or two-year period during which a particular RGB Increase is effective is referred to herein as the "RGB Increase Period." The last RGB Increase prior to issuance of a final rent order by the Loft Board setting the initial legal regulated rent, pursuant to 29 RCNY § 2-01(m) of these rules, shall remain effective until expiration of the applicable RGB Increase Period.
+      (i) Upon issuance of a final certificate of occupancy, an owner shall be eligible for a rent adjustment based upon the percentage rent increases established by the RGB (hereinafter "RGB Increases"). The first RGB Increase shall commence on the first day of the first month following the day an owner submits to the Loft Board a Notice of RGB Increase Filing form on the Loft Board approved form. Each subsequent rent increase shall be effective on each one or two-year anniversary of such commencement date, as applicable. This one or two-year period during which a particular RGB Increase is effective is referred to herein as the "RGB Increase Period." The last RGB Increase prior to issuance of a final rent order by the Loft Board setting the initial legal regulated rent, pursuant to 29 RCNY § 2-01(m), shall remain effective until expiration of the applicable RGB Increase Period.
 
       The amount of each RGB increase shall be equal to the percentage increase applicable to one or two-year leases as established by the RGB on the date the Notice of RGB Increase Filing form is submitted to the Loft Board and on each one or two-year anniversary thereafter, as applicable, and shall be applied to the maximum rent permissible under Loft Board rules as of the date the Notice of RGB Increase filing is submitted to the Loft Board.
 
@@ -954,7 +954,7 @@ If the Executive Director or the Loft Board orders (1) or (2) above, a specific 
 
                   (iii) on or before December 10, 2013, 90 calendar days after the effective of this rule, in the case of a building covered by Article 7-C pursuant to MDL § 281(5), shall be allowed only the necessary and reasonable code compliance costs incurred after registration, and such costs shall be based upon the schedule of costs referenced in subdivision (p) below, without indexing, regardless of when such costs were incurred.
 
-      (ii) An application filed pursuant to this paragraph (2) of 29 RCNY § 2-01(i) shall be filed no later than nine months after the owner has obtained a certificate of occupancy or February 1, 2000, whichever date is later. An owner that fails to file an application for code compliance rent adjustments in a timely manner pursuant to this provision shall be deemed to have waived its right to seek such a rent adjustment. An application submitted pursuant to this paragraph shall be submitted on a form prescribed by the Loft Board and shall meet the requirements of this paragraph and 29 RCNY §§ 1-06 and 2-11 of these rules, except that for applications filed pursuant to clause (A) of subparagraph (iii) of this paragraph, only two copies must be filed plus one for each affected party, and for precertified applications filed pursuant to clause (B) of subparagraph (iii) of this paragraph, only two copies of the application must be filed. As part of the application the applicant must submit an itemized statement of costs incurred, including paid bills, cancelled checks or receipts for work performed, any construction contracts, the certificate issued by the Department of Buildings for the pertinent level of compliance, and such other information or materials as the Board requires. If the applicant seeks reimbursement for interest and service charges incurred in connection with compliance costs, the applicant must submit the information and materials required under paragraph (4) of 29 RCNY § 2-01(k) of these rules. In accordance with the provision of 29 RCNY § 1-06(j)(1), the Board may require the applicant to furnish such reports and information as it may require concerning the code compliance work performed and may audit the books and records of the applicant with respect to such matters.
+      (ii) An application filed pursuant to this paragraph (2) of 29 RCNY § 2-01(i) shall be filed no later than nine months after the owner has obtained a certificate of occupancy or February 1, 2000, whichever date is later. An owner that fails to file an application for code compliance rent adjustments in a timely manner pursuant to this provision shall be deemed to have waived its right to seek such a rent adjustment. An application submitted pursuant to this paragraph shall be submitted on a form prescribed by the Loft Board and shall meet the requirements of this paragraph and 29 RCNY §§ 1-06 and 2-11, except that for applications filed pursuant to clause (A) of subparagraph (iii) of this paragraph, only two copies must be filed plus one for each affected party, and for precertified applications filed pursuant to clause (B) of subparagraph (iii) of this paragraph, only two copies of the application must be filed. As part of the application the applicant must submit an itemized statement of costs incurred, including paid bills, cancelled checks or receipts for work performed, any construction contracts, the certificate issued by the Department of Buildings for the pertinent level of compliance, and such other information or materials as the Board requires. If the applicant seeks reimbursement for interest and service charges incurred in connection with compliance costs, the applicant must submit the information and materials required under paragraph (4) of 29 RCNY § 2-01(k). In accordance with the provision of 29 RCNY § 1-06(j)(1), the Board may require the applicant to furnish such reports and information as it may require concerning the code compliance work performed and may audit the books and records of the applicant with respect to such matters.
 
       (iii) An application filed pursuant to this paragraph (2) of 29 RCNY § 2-01(i) may be submitted to the Loft Board for an audit or may be precertified pursuant to clause (B) of this subparagraph.
 
@@ -1024,7 +1024,7 @@ If the Executive Director or the Loft Board orders (1) or (2) above, a specific 
 
       (ii) by dividing the allowable cash costs of compliance approved by the Loft Board over a 15-year period of amortization and adding the actual mortgage debt service, incurred by the owner to pay allowable cash costs of compliance approved by the Loft Board that are attributable to interest and service charges in each year of indebtedness to an Institutional Lender (as defined in paragraph (4) of this subdivision) or any Qualified Noninstitutional Lender (as defined in paragraph (4) of this subdivision) that is approved by the Loft Board pursuant to such paragraph. The portion of the rent adjustment attributable to mortgage debt service shall be computed on the basis of the average annual debt service attributable to interest, finance and service charges over the loan term, provided that the maximum total amount of interest charged includable in rent shall not exceed that reflected in a 15 year self-amortizing mortgage. Service charges shall include mortgage application fees; commitment fees; fees for professionals who are required to be paid by the lender (such as appraisers, attorneys and surveyors); mortgage title examination and insurance fees and charges; origination fees; points; mortgage recording tax; and other recording charges. The use of a 10-year period of amortization, not including debt service, or of a 15-year period of amortization, including debt service, shall be at the option of the owner when interest and service charges are incurred to pay for any portion of allowable cash costs of compliance approved by the Board.
 
-   (3) In cases where the owner of a building receives tax abatement and exemption under Part 1 of Subchapter 2 of Chapter 2 of Title II (§ 11-243 formerly J-51) of the Administrative Code, the total annual rent adjustment for the IMD shall be adjusted to reflect a reduction equal to one-half of the total annual tax abatement granted for the IMD for those categories of costs approved by the Loft Board as necessary and reasonable for code compliance. The allocation of such reduction shall be in accordance with the formulae for allocation of rent adjustments contained in 29 RCNY § 2-01(l) of these regulations.
+   (3) In cases where the owner of a building receives tax abatement and exemption under Part 1 of Subchapter 2 of Chapter 2 of Title II (§ 11-243 formerly J-51) of the Administrative Code, the total annual rent adjustment for the IMD shall be adjusted to reflect a reduction equal to one-half of the total annual tax abatement granted for the IMD for those categories of costs approved by the Loft Board as necessary and reasonable for code compliance. The allocation of such reduction shall be in accordance with the formulae for allocation of rent adjustments contained in 29 RCNY § 2-01(l).
 
    (4) (i) Definitions. For purposes of amortizing code compliance costs and interest and service charges over a 15-year period, the following terms have the following meanings:
 
@@ -1038,7 +1038,7 @@ If the Executive Director or the Loft Board orders (1) or (2) above, a specific 
 
          (B) Additional documentation required for a loan from any qualified noninstitutional lender. In the case of a loan from a qualified noninstitutional lender, an applicant must submit, in addition to the documents enumerated in sentence (i) of subparagraph (b) of this paragraph, a completed Application for Noninstitutional Lender Approval in the form prescribed by the Loft Board together with an affidavit of Noninstitutional Lender-Lender Approval Form and an Affidavit of Noninstitutional Lender-Loan Approval Form. A completed Application for Noninstitutional Lender Approval and Affidavit of Noninstitutional Lender-Lender Approval Form must be submitted before the Loft Board will begin to process the rent adjustment application described in 29 RCNY § 2-01(i)(2).
 
-         (C) Additional documentation required for a loan from a qualified noninstitutional lender that is related to the applicant by blood, marriage or ownership of stock, partnership interests or other ownership interests. In the case of a loan from any qualified noninstitutional lender that is related to the applicant by blood, marriage or ownership of stock, partnership interests or other ownership interests, an applicant must submit, in addition to the documents enumerated in sentences (ii) and (iii) of subparagraph (b) of this paragraph, a statement from the lender's certified public accountant to the effect that the loan under consideration is a bona fide loan and that the interest payable thereunder has been included or is includable as income in the lender's federal income tax return or, alternatively, a true and correct copy (certified as such by the lender or the lender's certified public accountant) of the lender's federal income tax return(s) (or the applicable schedules thereto) showing that such interest has been included in the lender's income for federal income tax purposes for each year to date of such application that interest under the loan has been paid to an including the most recent year in which a federal income tax return has been filed; and copies (both sides) of canceled checks drawn on an account of the lender evidencing payment of the proceeds of the loan to or on behalf of the owner. The Loft Board shall approve a noninstitutional lender in determining rent adjustments pursuant to 29 RCNY § 2-01(k)(2); provided, however, in the case of a qualified noninstitutional lender that is related to the applicant by blood, marriage or ownership of stock, partnership interests or other ownership interests, that the applicant submits reliable evidence (in the form described above) that the loan under consideration is a bona fide loan. Service charges shall be reimbursable only to the extent that they have been paid on or prior to the date of application and only when supported by reliable evidence (in the form described above). Only that portion of interest charges on a noninstitutional loan that does not exceed 2 points over the Federal National Mortgage Association's yield on multi-family, 15-year fixed-rate loans shall be included in rent adjustments. The procedures for applications to the Loft Board set forth in 29 RCNY § 1-06 of these rules shall not apply to Applications for Non- Institutional Lender Approval. The owner shall be required to submit two copies of the Application for Non-Institutional-Lender Approval. Such application will be approved provided such filing contains the information required by these rules. The portions of the preceding provisions of 29 RCNY § 2-01(k) pertaining to loans from qualified noninstitutional lenders (specifically, the reference to qualified noninstitutional lenders in 29 RCNY § 2-01(k)(2)(ii), and 29 RCNY § 2-01(k)(4)(i)(B), 29 RCNY § 2-01(k)(4)(ii)(B), 29 RCNY § 2-01(k)(4)(ii)(C), and the paragraph immediately following 29 RCNY § 2-01(k)(4)(ii)(C) shall terminate on June 30, 1995 unless extended by the Loft Board.
+         (C) Additional documentation required for a loan from a qualified noninstitutional lender that is related to the applicant by blood, marriage or ownership of stock, partnership interests or other ownership interests. In the case of a loan from any qualified noninstitutional lender that is related to the applicant by blood, marriage or ownership of stock, partnership interests or other ownership interests, an applicant must submit, in addition to the documents enumerated in sentences (ii) and (iii) of subparagraph (b) of this paragraph, a statement from the lender's certified public accountant to the effect that the loan under consideration is a bona fide loan and that the interest payable thereunder has been included or is includable as income in the lender's federal income tax return or, alternatively, a true and correct copy (certified as such by the lender or the lender's certified public accountant) of the lender's federal income tax return(s) (or the applicable schedules thereto) showing that such interest has been included in the lender's income for federal income tax purposes for each year to date of such application that interest under the loan has been paid to an including the most recent year in which a federal income tax return has been filed; and copies (both sides) of canceled checks drawn on an account of the lender evidencing payment of the proceeds of the loan to or on behalf of the owner. The Loft Board shall approve a noninstitutional lender in determining rent adjustments pursuant to 29 RCNY § 2-01(k)(2); provided, however, in the case of a qualified noninstitutional lender that is related to the applicant by blood, marriage or ownership of stock, partnership interests or other ownership interests, that the applicant submits reliable evidence (in the form described above) that the loan under consideration is a bona fide loan. Service charges shall be reimbursable only to the extent that they have been paid on or prior to the date of application and only when supported by reliable evidence (in the form described above). Only that portion of interest charges on a noninstitutional loan that does not exceed 2 points over the Federal National Mortgage Association's yield on multi-family, 15-year fixed-rate loans shall be included in rent adjustments. The procedures for applications to the Loft Board set forth in 29 RCNY § 1-06 of these rules shall not apply to Applications for Non- Institutional Lender Approval. The owner shall be required to submit two copies of the Application for Non-Institutional-Lender Approval. Such application will be approved provided such filing contains the information required by these rules. The portions of the preceding provisions of 29 RCNY § 2-01(k) pertaining to loans from qualified noninstitutional lenders (specifically, the reference to qualified noninstitutional lenders in 29 RCNY § 2-01(k)(2)(ii), and (k)(4)(i)(B), (k)(4)(ii)(B), (k)(4)(ii)(C), and the paragraph immediately following 29 RCNY § 2-01(k)(4)(ii)(C) shall terminate on June 30, 1995 unless extended by the Loft Board.
 
 (l) Allocation of rent adjustments. The total rent adjustment per IMD determined pursuant to 29 RCNY §§ 2-01(i) through (k) above, for obtaining a residential certificate of occupancy shall be allowed among individual residential units in the following manner:
 
@@ -1046,7 +1046,7 @@ If the Executive Director or the Loft Board orders (1) or (2) above, a specific 
 
    (2) Allowable code compliance costs of systems work, such as utility service or heat, that only services and is only capable of servicing the residential units and of work performed in nonresidential units solely to achieve Article 7-C compliance for the residential units shall be allocated equally among those residential units regardless of where the work is performed.
 
-   (3) An equal share of allowable code compliance costs of work in common areas and nonresidential units, except as provided in 29 RCNY § 2-01(1)(2), in the building shall be allocated to each residential unit. Allowable code compliance costs for systems work, such as utility service or heat, which services or is capable of servicing nonresidential units shall be deemed to be code compliance costs of work in common areas. This share, as described in this 29 RCNY § 2-01(l)(3), shall be equal to the portion of total allowable code compliance costs of work in common areas and nonresidential units, except as provided in 29 RCNY § 2-01(l)(2), which bears the same proportion to the total as the sum of the amount of floor area devoted to the maximum number of residential units in the building at any time after April 1, 1980 which qualified for coverage under M.D.L. Article 7-C and of the residential units which appear on the final certificate of occupancy which did not qualify for coverage under M.D.L. Article 7-C bears to the building's total floor area, divided equally among the sum of the maximum number of residential units in the building at any time which qualified for coverage under M.D.L. Article 7-C and the number of residential units which appear on the final certificate of occupancy which did not qualify for coverage under M.D.L. Article 7-C so that
+   (3) An equal share of allowable code compliance costs of work in common areas and nonresidential units, except as provided in 29 RCNY § 2-01(l)(2), in the building shall be allocated to each residential unit. Allowable code compliance costs for systems work, such as utility service or heat, which services or is capable of servicing nonresidential units shall be deemed to be code compliance costs of work in common areas. This share, as described in this 29 RCNY § 2-01(l)(3), shall be equal to the portion of total allowable code compliance costs of work in common areas and nonresidential units, except as provided in 29 RCNY § 2-01(l)(2), which bears the same proportion to the total as the sum of the amount of floor area devoted to the maximum number of residential units in the building at any time after April 1, 1980 which qualified for coverage under M.D.L. Article 7-C and of the residential units which appear on the final certificate of occupancy which did not qualify for coverage under M.D.L. Article 7-C bears to the building's total floor area, divided equally among the sum of the maximum number of residential units in the building at any time which qualified for coverage under M.D.L. Article 7-C and the number of residential units which appear on the final certificate of occupancy which did not qualify for coverage under M.D.L. Article 7-C so that
 
          S = (TC × RA/TA)            R
 
@@ -1062,7 +1062,7 @@ If the Executive Director or the Loft Board orders (1) or (2) above, a specific 
 
       R = Sum of the maximum number of residential units in the building at any time which qualified for coverage under M.D.L. Article 7-C and the number of residential units which appear on the final certificate of occupancy which did not qualify for coverage under M.D.L. Article 7-C
 
-For purposes of allocating rent adjustments pursuant to 29 RCNY § 2-01(1)(3): Total floor area (TA) is defined as the sum of the gross areas of the floors of a building measured from the exterior faces of exterior walls or from the center line of walls separating two buildings. Floor area includes rentable space, such as space in penthouses, cellars, and basements, but excludes rooms with mechanical, heating and air conditioning equipment and elevator and stair bulkheads, water tanks and cooling towers. Nonresidential tenant, residential tenant and vacant rental spaces are included in the floor area. Floor Area of Residential Units (RA) is defined as the sum of the clear area of the floor contained within the partitions or walls enclosing any room, space, foyer, hall or passageways of each of the residential units. It shall not include common areas, public halls, public vestibules, public rooms or other public parts of the building. Common areas are defined as spaces used for bulkheads, stairs, hallways, cellars, basements, fire escapes, rooms used for mechanical, elevator and heating equipment, and other areas used by all the residential occupants of the building, including storage areas.
+For purposes of allocating rent adjustments pursuant to 29 RCNY § 2-01(l)(3): Total floor area (TA) is defined as the sum of the gross areas of the floors of a building measured from the exterior faces of exterior walls or from the center line of walls separating two buildings. Floor area includes rentable space, such as space in penthouses, cellars, and basements, but excludes rooms with mechanical, heating and air conditioning equipment and elevator and stair bulkheads, water tanks and cooling towers. Nonresidential tenant, residential tenant and vacant rental spaces are included in the floor area. Floor Area of Residential Units (RA) is defined as the sum of the clear area of the floor contained within the partitions or walls enclosing any room, space, foyer, hall or passageways of each of the residential units. It shall not include common areas, public halls, public vestibules, public rooms or other public parts of the building. Common areas are defined as spaces used for bulkheads, stairs, hallways, cellars, basements, fire escapes, rooms used for mechanical, elevator and heating equipment, and other areas used by all the residential occupants of the building, including storage areas.
 
 (m) Initial legal regulated rents/issuance of residential leases.
 
@@ -1080,7 +1080,7 @@ For purposes of allocating rent adjustments pursuant to 29 RCNY § 2-01(1)(3): T
 
 (B) the maximum annual amount of any increase allocable to compliance as provided herein.
 
-      (iii) If an owner has not received any RGB Increases under 29 RCNY § 2-01(i)(1), then the rent shall be the sum of clauses (A) and (B) of subparagraph (ii) above plus the percentage increase then applicable to one-or-two year leases, as elected by the tenant, as established by the RGB and applied to the base rent, provided, however, such percentage increases may be adjusted downward by the Loft Board if prior increases based on Loft Board guidelines cover part of the same time period to be covered by the Rent Guidelines Board adjustments. For units in buildings that have been rented at market value subject to subsequent rent regulation as a result of the owner's purchase of improvements pursuant to M.D.L. § 286(6) and 29 RCNY § 2-07(f)(5) of these rules, the initial legal regulated rent shall be calculated as set forth above except that the code compliance cost increase shall be zero.
+      (iii) If an owner has not received any RGB Increases under 29 RCNY § 2-01(i)(1), then the rent shall be the sum of clauses (A) and (B) of subparagraph (ii) above plus the percentage increase then applicable to one-or-two year leases, as elected by the tenant, as established by the RGB and applied to the base rent, provided, however, such percentage increases may be adjusted downward by the Loft Board if prior increases based on Loft Board guidelines cover part of the same time period to be covered by the Rent Guidelines Board adjustments. For units in buildings that have been rented at market value subject to subsequent rent regulation as a result of the owner's purchase of improvements pursuant to M.D.L. § 286(6) and 29 RCNY § 2-07(f)(5), the initial legal regulated rent shall be calculated as set forth above except that the code compliance cost increase shall be zero.
 
    (4) Rental adjustments attributable to the cost of code compliance shall not become part of the base rent for purposes of calculating rent adjusted pursuant to Rent Guidelines Board increases and shall terminate, after 10 or 15 years, as established by Loft Board order.
 
@@ -1088,7 +1088,7 @@ For purposes of allocating rent adjustments pursuant to 29 RCNY § 2-01(1)(3): T
 
    (1) Cooperative or condominium conversion of an IMD shall be fully in accordance with Article 23-A of the General Business Law, as amended, and the rules and regulations promulgated by the New York State Attorney General pursuant thereto. No eviction plan for conversion to cooperative or condominium ownership for a building that is, in whole or in part, an IMD shall be submitted for filing to the office of the New York State Attorney General pursuant to the General Business Law until a final residential certificate of occupancy is obtained and the residential occupants are offered residential leases in accordance with these regulations.
 
-   (2) Noneviction plans for such buildings may be submitted for filing provided that the sponsor or owner association remains legally responsible for bringing all rental, cooperative, and condominium units and all common areas of the building into compli ance with Article 7-B of the M.D.L., or alternative building codes or provisions of the M.D.L. described in 29 RCNY § 2-01(a)(3) of these regulations and for all work in common areas required to obtain a residential certificate of occupancy. An IMD that has been converted to cooperative or condominium ownership is subject to compliance with Article 7-C and Loft Board rules and regulations promulgated pursuant thereto.
+   (2) Noneviction plans for such buildings may be submitted for filing provided that the sponsor or owner association remains legally responsible for bringing all rental, cooperative, and condominium units and all common areas of the building into compli ance with Article 7-B of the M.D.L., or alternative building codes or provisions of the M.D.L. described in 29 RCNY § 2-01(a)(3) and for all work in common areas required to obtain a residential certificate of occupancy. An IMD that has been converted to cooperative or condominium ownership is subject to compliance with Article 7-C and Loft Board rules and regulations promulgated pursuant thereto.
 
    (3) Cooperative and condominium units occupied by unit owners or tenant-shareholders are not subject to rent regulation pursuant to Article 7-C of the M.D.L. Cooperative and condominium units occupied by residential occupants qualified for the protection of Article 7-C of the M.D.L., i.e., who are not unit owners or tenant-shareholders, are subject to rent regulation pursuant to the statute.
 
@@ -1689,9 +1689,9 @@ For purposes of allocating rent adjustments pursuant to 29 RCNY § 2-01(1)(3): T
     * - Municipal fees for filing necessary for Code Compliance (e.g. Dept. of Buildings Alteration Application, City Planning Commission Special Permit, etc.). Does not include regular annual filings for inspections or regulation.
       - Actual fee charged
     * - All Architectural and Engineering Fees
-      - Maximum 7 percent of approved, necessary and reasonable costs of Code Compliance items in categories 1-12 of this schedule.
+      - Maximum 7 percent of approved, necessary and reasonable costs of Code Compliance items in categories 1 - 12 of this schedule.
     * - Legal Fees – costs incurred in obtaining financing for Code Compliance
-      - Maximum 4 percent of approved necessary and reasonable costs of Code Compliance for cost items in categories 1-12 of this schedule.
+      - Maximum 4 percent of approved necessary and reasonable costs of Code Compliance for cost items in categories 1 - 12 of this schedule.
     * - Local Law Compliance (Handicapped, Landmarks and Asbestos)
       - Approved necessary and reasonable costs of Code Compliance, reviewed and determined by the Loft Board case by case.
     * - Extraordinary Costs of Legalization (construction management fees; overtime costs for alterations required to be done after hours; and excessive costs above scheduled allowance resulting from individual building characteristics)
@@ -1712,7 +1712,7 @@ For purposes of allocating rent adjustments pursuant to 29 RCNY § 2-01(1)(3): T
 
 ** These items will only be considered as necessary and reasonable when installation is mandated resulting from other required code compliance work.
 
-The following Department of Buildings memoranda are included here for informational purposes only and not for comment. These directives are referred to in 29 RCNY § 2-01(d)(2) of the code compliance regulations.
+The following Department of Buildings memoranda are included here for informational purposes only and not for comment. These directives are referred to in 29 RCNY § 2-01(d)(2).
 
 
 
@@ -1754,9 +1754,9 @@ The following Department of Buildings memoranda are included here for informatio
 
          (C) The information provided in the report may be used as evidence in connection with a Loft Board determination as to whether the owner has exercised all reasonable and necessary action to obtain a final residential certificate of occupancy.
 
-         (D) The Executive Director may issue a fine in accordance with 29 RCNY § 2-11.1 of these Rules for failure to file the legalization report for each report not filed on the first business day of each month.
+         (D) The Executive Director may issue a fine in accordance with 29 RCNY § 2-11.1 for failure to file the legalization report for each report not filed on the first business day of each month.
 
-         (E) The filing of a false statement in the monthly report may result in fines in accordance with 29 RCNY § 2-11.1 of these Rules for each false statement in the monthly report.
+         (E) The filing of a false statement in the monthly report may result in fines in accordance with 29 RCNY § 2-11.1 for each false statement in the monthly report.
 
    (2) An owner may not delegate its obligation to exercise reasonable and necessary action to obtain a final residential certificate of occupancy for the IMD units.
 
@@ -1768,11 +1768,11 @@ The following Department of Buildings memoranda are included here for informatio
 
       (ii) Such inspections may be used by the Loft Board in determining when a penalty for failure to take all reasonable and necessary action toward obtaining a certificate of occupancy, pursuant to a hearing determination by an OATH Administrative Law Judge, or an ECB hearing officer, abates.
 
-   (2) Enforcement Proceedings. At any point prior to the issuance of the final residential certificate of occupancy issued pursuant to MDL § 301, the Loft Board may initiate an enforcement proceeding against an owner for failure to take all reasonable and necessary action to obtain a final residential certificate of occupancy even where the next legalization deadline for the owner to meet, as set forth in 29 RCNY §§ 2-01 et seq. of Title 29 of the Rules of the City of New York or § 284(1) of the MDL, has not passed. The owner has the right to present to the Loft Board or its representative, within 30 calendar days of delivery of the notice of proceeding by hand, or 35 calendar days of the posting of the notice by mail, a response that includes information as to why that notice should be withdrawn or information regarding mitigating factors the owner wishes the Loft Board to consider in connection with its determination of the amount of the fine to impose. If applicable, the owner may file an application for an extension of the code compliance deadlines pursuant to 29 RCNY § 2-01(b) of these rules.
+   (2) Enforcement Proceedings. At any point prior to the issuance of the final residential certificate of occupancy issued pursuant to MDL § 301, the Loft Board may initiate an enforcement proceeding against an owner for failure to take all reasonable and necessary action to obtain a final residential certificate of occupancy even where the next legalization deadline for the owner to meet, as set forth in 29 RCNY §§ 2-01 et seq. or § 284(1) of the MDL, has not passed. The owner has the right to present to the Loft Board or its representative, within 30 calendar days of delivery of the notice of proceeding by hand, or 35 calendar days of the posting of the notice by mail, a response that includes information as to why that notice should be withdrawn or information regarding mitigating factors the owner wishes the Loft Board to consider in connection with its determination of the amount of the fine to impose. If applicable, the owner may file an application for an extension of the code compliance deadlines pursuant to 29 RCNY § 2-01(b).
 
    (3) Hearings. Hearings will be conducted by OATH Administrative Law Judges or ECB hearing officers, who will determine whether the owner has made a diligent, consistent and good faith effort to obtain a residential certificate of occupancy for the IMD as required by Article 7-C of the MDL. Hearings conducted by OATH must be conducted in accordance with the rules and procedures governing OATH so long as they do not conflict with the Loft Board rules. Hearings conducted by an ECB hearing officer must be conducted following the procedures of ECB hearings.
 
-   When the OATH Administrative Law Judge or ECB hearing officer issues a finding that the owner has not exercised all reasonable and necessary action to obtain a final residential certificate of occupancy, he or she shall also recommend a fine in accordance with 29 RCNY § 2-11.1 of these Rules. Such fine accrues 30 calendar days from the date of delivery by hand or 35 calendar days from posting by mail of the notice of an enforcement proceeding, and may continue to accrue until the owner demonstrates compliance with this section.
+   When the OATH Administrative Law Judge or ECB hearing officer issues a finding that the owner has not exercised all reasonable and necessary action to obtain a final residential certificate of occupancy, he or she shall also recommend a fine in accordance with 29 RCNY § 2-11.1. Such fine accrues 30 calendar days from the date of delivery by hand or 35 calendar days from posting by mail of the notice of an enforcement proceeding, and may continue to accrue until the owner demonstrates compliance with this section.
 
    (4) Defenses. To defend a Loft Board proceeding for failure to exercise all reasonable and necessary action to achieve compliance, an owner must show deliberate, diligent and consistent action to achieve a final residential certificate of occupancy and must document efforts to obtain the residential certificate of occupancy and any impediments to compliance outside of the owner's control.
 
@@ -1792,21 +1792,21 @@ The following Department of Buildings memoranda are included here for informatio
 
          (C) 6 months from a finding of Article 7-C coverage by a court of competent jurisdiction constitutes a rebuttable presumption that the owner is not engaged in taking reasonable and necessary action to obtain a residential certificate of occupancy or a certificate of occupancy for the residential portions of the building.
 
-      (ii) Where the Loft Board has issued certification pursuant to 29 RCNY § 2-01(d)(2)(xi) of these rules, and an owner has failed to obtain an alteration permit within 3 months from the date of such certification or from the effective date of this rule, whichever is later, such failure to obtain the permit constitutes a rebuttable presumption that the owner is not engaged in taking reasonable and necessary action to obtain a residential certificate of occupancy or a certificate of occupancy for the residential portions of the building.
+      (ii) Where the Loft Board has issued certification pursuant to 29 RCNY § 2-01(d)(2)(xi), and an owner has failed to obtain an alteration permit within 3 months from the date of such certification or from the effective date of this rule, whichever is later, such failure to obtain the permit constitutes a rebuttable presumption that the owner is not engaged in taking reasonable and necessary action to obtain a residential certificate of occupancy or a certificate of occupancy for the residential portions of the building.
 
       (iii) Where an alteration permit has been issued in connection with the legalization of the residential portions of an IMD building, the failure to maintain the permit in effect until the issuance of a final residential certificate of occupancy or a certificate of occupancy for the residential portions of the building constitutes a rebuttable presumption that the owner is not engaged in reasonable and necessary action to obtain a residential certificate of occupancy or a certificate of occupancy for the residential portions of the building.
 
       (iv) Failure to maintain a temporary certificate of occupancy for the residential portions of the IMD building, if one was previously issued, constitutes a rebuttable presumption that the owner is not engaged in reasonable and necessary action to obtain a residential certificate of occupancy.
 
-   (7) Upon finding a violation pursuant to paragraph (6) of this subdivision, the Loft Board's Executive Director may issue a notice to the owner stating an intent to find the owner in violation of its obligation to exercise all reasonable and necessary action. The Loft Board's Executive Director may issue a fine in accordance with 29 RCNY § 2-11.1 of these Rules.
+   (7) Upon finding a violation pursuant to paragraph (6) of this subdivision, the Loft Board's Executive Director may issue a notice to the owner stating an intent to find the owner in violation of its obligation to exercise all reasonable and necessary action. The Loft Board's Executive Director may issue a fine in accordance with 29 RCNY § 2-11.1.
 
    The owner has the right to present to the Loft Board's Executive Director or his or her representative within 30 calendar days of delivery of the notice by hand, or 35 calendar days of the posting of the notice by mail, a response that includes information as to why the notice should be withdrawn and/or information regarding mitigating factors pursuant to paragraph (5) of this subdivision the owner wishes to be considered in connection with Executive Director's determination of the amount of the fine to be imposed.
 
-   Following the receipt of a timely response from the owner, the Executive Director may either withdraw the notice, or may impose a fine in accordance with 29 RCNY § 2-11.1 of these Rules. Unless the owner first demonstrates compliance with this section, such fine begins to accrue 30 calendar days after delivery by hand or 35 calendar days after the posting of the notice by mail and continues to accrue until the owner demonstrates compliance with this section. If necessary, the owner may file an application for an extension of the code compliance deadlines, pursuant to 29 RCNY § 2-01(b).
+   Following the receipt of a timely response from the owner, the Executive Director may either withdraw the notice, or may impose a fine in accordance with 29 RCNY § 2-11.1. Unless the owner first demonstrates compliance with this section, such fine begins to accrue 30 calendar days after delivery by hand or 35 calendar days after the posting of the notice by mail and continues to accrue until the owner demonstrates compliance with this section. If necessary, the owner may file an application for an extension of the code compliance deadlines, pursuant to 29 RCNY § 2-01(b).
 
 (c) Reporting Obstacles in Legalization Process. If an owner encounters an obstacle in the legalization process outside of its control, the owner must state that obstacle in the monthly reports filed with the Loft Board. Additionally, the owner must notify the Loft Board in writing within fourteen calendar days of the date the owner knew or reasonably should have known of the obstacle, or if necessary, the owner shall file an application for an extension of the code compliance deadlines pursuant to 29 RCNY § 2-01(b). An owner's failure to timely notify the Loft Board of an obstacle in the legalization process outside of the owner's control shall create a rebuttable presumption that there was no obstacle to the legalization process that was outside of the owner's control.
 
-(d) Access to IMD Units. The tenant's failure to provide access is not deemed outside of the owner's control if the owner has not within a reasonable time filed an access application pursuant to 29 RCNY § 2-01(g)(3) of the Loft Board rules.
+(d) Access to IMD Units. The tenant's failure to provide access is not deemed outside of the owner's control if the owner has not within a reasonable time filed an access application pursuant to 29 RCNY § 2-01(g)(3).
 
 (e) Subsequent Enforcement Proceedings. Where the OATH Administrative Law Judge or ECB hearing officer issues a decision finding that the owner has failed to exercise all reasonable and necessary action to obtain a certificate of occupancy, such decision does not bar the OATH Administrative Law Judge or ECB hearing officer from subsequently issuing another such decision after three months.
 
@@ -1820,7 +1820,7 @@ The following Department of Buildings memoranda are included here for informatio
 
 (a) Applicability. These harassment rules apply to all harassment applications filed with the Loft Board, after September 11, 2013, the effective date of this amended rule. Harassment applications are subject to the harassment rule in effect on the date of the initial filing of the application.
 
-All orders of harassment must be kept in the Loft Board's records and in the office of the City Register in accordance with the provisions of 29 RCNY § 2-02(d)(l)(iii) of these rules.
+All orders of harassment must be kept in the Loft Board's records and in the office of the City Register in accordance with the provisions of 29 RCNY § 2-02(d)(l)(iii).
 
 (b) Definitions.
 
@@ -1840,27 +1840,27 @@ All orders of harassment must be kept in the Loft Board's records and in the off
 
 (c) Procedures for considering harassment applications.
 
-   (1) It is unlawful for a landlord or any other person acting on its behalf to engage in conduct constituting harassment against any occupant of an IMD building. A harassment application may be filed with the Loft Board by occupant(s) of an IMD building. The application must be filed on a form approved by the Loft Board and will be processed in accordance with 29 RCNY § 1-06 of these Rules, and the specific requirements provided below.
+   (1) It is unlawful for a landlord or any other person acting on its behalf to engage in conduct constituting harassment against any occupant of an IMD building. A harassment application may be filed with the Loft Board by occupant(s) of an IMD building. The application must be filed on a form approved by the Loft Board and will be processed in accordance with 29 RCNY § 1-06, and the specific requirements provided below.
 
    (2) (i) The description of the conduct complained of must contain the actual or approximate date(s) on which such conduct occurred, the manner and location of each occurrence, and if the complaint is filed on behalf of more than one occupant, the occupants against whom the occurrence was directed. The application must be filed within 180 calendar days of the conduct complained of, or where an ongoing course of conduct is alleged, as defined in subdivision (b), the application must be filed within 180 calendar days of the last occurrence.
 
       (ii) [Reserved.]
 
-      (iii) If the Loft Board finds that an applicant has filed a harassment application in bad faith or in wanton disregard of the truth, the applicant may be subject to a civil penalty as determined by the Loft Board in 29 RCNY § 2-11.1 of the Loft Board rules.
+      (iii) If the Loft Board finds that an applicant has filed a harassment application in bad faith or in wanton disregard of the truth, the applicant may be subject to a civil penalty as determined by the Loft Board in 29 RCNY § 2-11.1.
 
-   (3) The applicant must serve all affected parties, as defined in 29 RCNY § 1-06(a)(2), with a copy of the application in accordance with the terms and procedures requiring service and proof of service of the application as described in 29 RCNY § 1-06(b) of the Loft Board rules.
+   (3) The applicant must serve all affected parties, as defined in 29 RCNY § 1-06(a)(2), with a copy of the application in accordance with the terms and procedures requiring service and proof of service of the application as described in 29 RCNY § 1-06(b).
 
    Where a harassment application solely alleges that the owner's challenge of a sale of improvements is frivolous, the applicant must serve only the owner as an affected party.
 
    Instructions for filing an answer ("Instruction Form") and an answer form must be enclosed with the copy of the application sent to the affected parties. Instructions for filing an answer must advise the owner that a finding of harassment may affect the owner's ability to decontrol or to obtain market rentals for covered IMD units pursuant to MDL §§ 286(6) and 286(12) and the Loft Board's rules. Inclusion of the Loft Board's approved Instruction Form with the application at the time of service constitutes compliance with this paragraph.
 
-   (4) Parties have 15 calendar days after the date on which service of the application was completed, calculated from the mailing date shown on the certificate of mailing filed with the Loft Board, to file an answer with the Loft Board. Five copies of the answer with proof of service of the answer on the applicant(s), as described in 29 RCNY § 1-06(e) of these rules, must be filed at the offices of the Loft Board.
+   (4) Parties have 15 calendar days after the date on which service of the application was completed, calculated from the mailing date shown on the certificate of mailing filed with the Loft Board, to file an answer with the Loft Board. Five copies of the answer with proof of service of the answer on the applicant(s), as described in 29 RCNY § 1-06(e), must be filed at the offices of the Loft Board.
 
    (5) (i) Following the expiration of the deadline for filing an answer, the Loft Board or the Office of Administrative Trials and Hearings ("OATH") will send, by regular mail, a notice of conference to the affected parties. The notice of conference will schedule a date and time for an informal conference as soon as possible, but no sooner than 15 calendar days from the date of mailing the notice of conference. The notice of conference sent to the owner will advise the owner that a finding of harassment may affect the owner's ability to decontrol or to obtain market rentals for covered IMD units pursuant to MDL §§ 286(6) and 286(12) and the Loft Board's rules.
 
       (ii) The informal conference may be conducted by the Loft Board staff or OATH with the affected parties in an effort to resolve and alleviate the conditions and events alleged. Where resolution to the mutual satisfaction of the parties is achieved, a stipulation containing the terms of the resolution and the penalties, if any, for its breach must be executed by the parties and filed with the Loft Board for its approval on the Loft Board's summary calendar.
 
-   (6) Where charges of harassment remain unresolved following the informal conference, a hearing on the allegations in the harassment application will be held in accordance with the procedures of 29 RCNY § 1-06 of these rules and the following:
+   (6) Where charges of harassment remain unresolved following the informal conference, a hearing on the allegations in the harassment application will be held in accordance with the procedures of 29 RCNY § 1-06 and the following:
 
       (i) The hearing will be limited to the charges contained on the original application, as modified at the conference, and any additional charges of harassment arising as a result of conduct occurring after the conference.
 
@@ -1884,9 +1884,9 @@ All orders of harassment must be kept in the Loft Board's records and in the off
 
 (d) Findings of harassment.
 
-   (1) (i) Effect of harassment finding. A landlord that is found by the Loft Board to have harassed an occupant will not be entitled to the decontrol of or market rental for any IMD unit after a sale of improvements pursuant to MDL § 286(6) of Article 7-C and these rules. This restriction applies to any sale of improvements that takes place on or after the date of the order containing the finding of harassment until the date the order is terminated in accordance with 29 RCNY § 2-02(d)(2). This restriction may also apply to any sale of rights pursuant to MDL § 286(12) and 29 RCNY § 2-10 of these Rules that takes place on or after the date of the order containing the finding of harassment until the date the order is terminated in accordance with 29 RCNY §§ 2-02(d)(2).
+   (1) (i) Effect of harassment finding. A landlord that is found by the Loft Board to have harassed an occupant will not be entitled to the decontrol of or market rental for any IMD unit after a sale of improvements pursuant to MDL § 286(6) of Article 7-C and these rules. This restriction applies to any sale of improvements that takes place on or after the date of the order containing the finding of harassment until the date the order is terminated in accordance with 29 RCNY § 2-02(d)(2). This restriction may also apply to any sale of rights pursuant to MDL § 286(12) and 29 RCNY § 2-10 that takes place on or after the date of the order containing the finding of harassment until the date the order is terminated in accordance with 29 RCNY §§ 2-02(d)(2).
 
-      (ii) Civil penalty for a finding of harassment. If the Loft Board finds that a landlord harassed an occupant, the landlord may be liable for a civil penalty as determined by the Loft Board in 29 RCNY § 2-11.1 of the Loft Board rules for each occurrence that is found to constitute harassment. Registration as an IMD will not be issued or renewed for any building for which fines have been imposed for landlord harassment until all fines have been paid.
+      (ii) Civil penalty for a finding of harassment. If the Loft Board finds that a landlord harassed an occupant, the landlord may be liable for a civil penalty as determined by the Loft Board in 29 RCNY § 2-11.1 for each occurrence that is found to constitute harassment. Registration as an IMD will not be issued or renewed for any building for which fines have been imposed for landlord harassment until all fines have been paid.
 
       (iii) Notice of a harassment finding. The order containing the finding of harassment is binding on all individuals or parties who succeed to the landlord's interest in the premises until the harassment order is terminated in accordance with 29 RCNY § 2-02(d)(2) below. A copy of the Loft Board's order containing the finding of harassment will be mailed to the applicant, the owner, and the affected parties to the proceeding. Notice of such order will be filed by the Loft Board in the office of the City Register.
 
@@ -1900,21 +1900,21 @@ All orders of harassment must be kept in the Loft Board's records and in the off
 
          (D) Special proceedings pursuant to Article 7-A of the Real Property Actions and Proceedings Law are available to all occupants of IMDs, notwithstanding that such IMDs may contain less than 3 residential units.
 
-      (v) Violation of § 2-04. If the OATH Administrative Law Judge assigned to the case finds that the acts alleged by the occupant do not constitute harassment, the Administrative Law Judge may, in the alternative and without the need for the applicant to amend his or her application or pleadings, consider whether the facts alleged in the application describe an owner's failure to provide a service or an owner's unlawful diminution of services. If so, upon notice to the owner, the application may be processed pursuant to the Loft Board's rules regarding diminution of services as described in 29 RCNY § 2-04. Upon notice that the facts alleged will be processed as a diminution of services claim, the owner may seek permission from the Administrative Law Judge to file a response to the claim of diminution of services. The Administrative Law Judge may recommend a fine, in accordance with 29 RCNY § 2-11.1 for any finding of diminution of services.
+      (v) Violation of 29 RCNY § 2-04. If the OATH Administrative Law Judge assigned to the case finds that the acts alleged by the occupant do not constitute harassment, the Administrative Law Judge may, in the alternative and without the need for the applicant to amend his or her application or pleadings, consider whether the facts alleged in the application describe an owner's failure to provide a service or an owner's unlawful diminution of services. If so, upon notice to the owner, the application may be processed pursuant to the Loft Board's rules regarding diminution of services as described in 29 RCNY § 2-04. Upon notice that the facts alleged will be processed as a diminution of services claim, the owner may seek permission from the Administrative Law Judge to file a response to the claim of diminution of services. The Administrative Law Judge may recommend a fine, in accordance with 29 RCNY § 2-11.1 for any finding of diminution of services.
 
-   (2) (i) Termination of Harassment Findings. Where the Loft Board has issued a finding of harassment, the landlord may apply to the Loft Board pursuant to 29 RCNY § 1-06 of these rules, for an order terminating the harassment finding following the expiration of the period of time specified in the harassment order. The order containing the finding of harassment must specify the period of time, within a range of 1 to 3 years from the date of the order of harassment, during which the landlord is barred from applying for an order of termination. However, where a landlord has been convicted of a crime for conduct found by the Loft Board to constitute harassment, the landlord may apply for an order of termination only after at least 5 years have passed since the date of the order of harassment. After the period during which the landlord is barred from applying for termination of the harassment finding has expired, the Loft Board may terminate the harassment finding if it finds that:
+   (2) (i) Termination of Harassment Findings. Where the Loft Board has issued a finding of harassment, the landlord may apply to the Loft Board pursuant to 29 RCNY § 1-06, for an order terminating the harassment finding following the expiration of the period of time specified in the harassment order. The order containing the finding of harassment must specify the period of time, within a range of 1 to 3 years from the date of the order of harassment, during which the landlord is barred from applying for an order of termination. However, where a landlord has been convicted of a crime for conduct found by the Loft Board to constitute harassment, the landlord may apply for an order of termination only after at least 5 years have passed since the date of the order of harassment. After the period during which the landlord is barred from applying for termination of the harassment finding has expired, the Loft Board may terminate the harassment finding if it finds that:
 
          (A) Since notification of the order, the landlord has not engaged in the prohibited conduct or any other conduct which constitutes harassment;
 
-         (B) The landlord has achieved compliance with the fire and safety standards of Article 7-B, alternative building codes or provisions of the MDL, as provided in 29 RCNY § 2-01(a) of the rules governing Code Compliance Work and as may be exhibited by the issuance of a temporary certificate of occupancy, or Article 7-B certification on the approved Loft Board form, or if Article 7-B compliance was achieved prior to the date of the order of harassment, has obtained a final residential certificate of occupancy for the IMD units;
+         (B) The landlord has achieved compliance with the fire and safety standards of Article 7-B, alternative building codes or provisions of the MDL, as provided in 29 RCNY § 2-01(a) governing Code Compliance Work and as may be exhibited by the issuance of a temporary certificate of occupancy, or Article 7-B certification on the approved Loft Board form, or if Article 7-B compliance was achieved prior to the date of the order of harassment, has obtained a final residential certificate of occupancy for the IMD units;
 
          (C) The landlord has paid all civil penalties assessed in the order of harassment, and there are no other orders of harassment outstanding for the IMD building; and
 
-         (D) The landlord is in compliance with 29 RCNY § 2-05 of these rules relating to registration of the IMD building.
+         (D) The landlord is in compliance with 29 RCNY § 2-05 relating to registration of the IMD building.
 
       (ii) Orders Terminating Harassment Findings. An order terminating a prior Loft Board finding of harassment applies prospectively only, and the owner is not entitled to the decontrol of or market rental for any residential unit for which a sale of improvements pursuant to MDL § 286(6) and these Rules has taken place in the period from the date of the order finding harassment to the date of the order terminating such finding.
 
-      (iii) Suspension or Revocation of Termination of Harassment Orders. If the Loft Board at a regularly scheduled meeting or at a special session called in accordance with 29 RCNY § 1-03(a) of the Loft Board rules has reasonable cause to believe that harassment is occurring or has occurred at the IMD after the date of an order terminating a prior finding of harassment, the Loft Board shall suspend such order of termination immediately. Notice of such suspension shall be mailed to the landlord and to all occupants. Upon the landlord's written request, the Loft Board shall schedule a hearing as soon as reasonably possible but not later than thirty days after the date of receipt of such request to determine whether the order of termination should be reinstated or revoked.
+      (iii) Suspension or Revocation of Termination of Harassment Orders. If the Loft Board at a regularly scheduled meeting or at a special session called in accordance with 29 RCNY § 1-03(a) has reasonable cause to believe that harassment is occurring or has occurred at the IMD after the date of an order terminating a prior finding of harassment, the Loft Board shall suspend such order of termination immediately. Notice of such suspension shall be mailed to the landlord and to all occupants. Upon the landlord's written request, the Loft Board shall schedule a hearing as soon as reasonably possible but not later than thirty days after the date of receipt of such request to determine whether the order of termination should be reinstated or revoked.
 
       (iv) Filing at the City Register. The order of termination or suspension, reinstatement or revocation of termination must be included among the IMD registration material on file with the Loft Board. The Loft Board will file the notice of termination or notice of suspension, reinstatement or revocation of termination in the office of the City Register.
 
@@ -1924,11 +1924,11 @@ All orders of harassment must be kept in the Loft Board's records and in the off
 
    (2) It is unlawful for a prime lessee or any other person acting on his or her behalf to engage in conduct that would constitute "harassment" if engaged in by the landlord, as defined in 29 RCNY § 2-02(b), against any of the prime lessee's current or former subtenants who are residential occupants qualified for the protections of Article 7-C. A harassment application may be filed with the Loft Board by a residential occupant qualified for the protections of Article 7-C against the prime lessee. The application will be processed in accordance with the procedures described in 29 RCNY § 2-02(c). The deed owner of the building must be listed as an affected party in all applications brought under this subdivision (e).
 
-   (3) (i) If the Loft Board finds that a prime lessee harassed an occupant, the prime lessee may be liable for a civil penalty as determined by the Loft Board in accordance with 29 RCNY § 2-11.1 of the Loft Board rules for each occurrence that is found to constitute harassment.
+   (3) (i) If the Loft Board finds that a prime lessee harassed an occupant, the prime lessee may be liable for a civil penalty as determined by the Loft Board in accordance with 29 RCNY § 2-11.1 for each occurrence that is found to constitute harassment.
 
-      (ii) A prime lessee found by the Loft Board to have harassed an occupant is not entitled to recover subdivided space pursuant to 29 RCNY § 2-09(c)(5)(i) and 29 RCNY § 2-09(c)(5)(v) of these Rules relating to subletting and is not entitled to the rent adjustment provided for in 29 RCNY §§ 2-09(c)(6)(ii)(D)(b) of these rules.
+      (ii) A prime lessee found by the Loft Board to have harassed an occupant is not entitled to recover subdivided space pursuant to 29 RCNY § 2-09(c)(5)(i) and (c)(5)(v) relating to subletting and is not entitled to the rent adjustment provided for in 29 RCNY §§ 2-09(c)(6)(ii)(D)(b).
 
-   (4) (i) After the period of time barring the owner from terminating a harassment finding provided in the Loft Board order, the prime lessee may apply to the Loft Board pursuant to 29 RCNY § 1-06 of these rules for an order terminating such finding. The order containing the finding of harassment will specify the period of time, within a range of 1 to 3 years from the date of the order of harassment, during which the prime lessee will be barred from applying for an order of termination. However, where a prime lessee has been convicted of a crime for conduct found by the Loft Board to constitute harassment, the prime lessee may apply for an order of termination only after at least 5 years have passed since the date of the order of harassment. The Loft Board may grant such relief if it finds that:
+   (4) (i) After the period of time barring the owner from terminating a harassment finding provided in the Loft Board order, the prime lessee may apply to the Loft Board pursuant to 29 RCNY § 1-06 for an order terminating such finding. The order containing the finding of harassment will specify the period of time, within a range of 1 to 3 years from the date of the order of harassment, during which the prime lessee will be barred from applying for an order of termination. However, where a prime lessee has been convicted of a crime for conduct found by the Loft Board to constitute harassment, the prime lessee may apply for an order of termination only after at least 5 years have passed since the date of the order of harassment. The Loft Board may grant such relief if it finds that:
 
          (A) Since notification of the order the prime lessee has not engaged in the prohibited conduct and has not engaged in any other conduct which constitutes harassment, and
 
@@ -1986,7 +1986,7 @@ All orders of harassment must be kept in the Loft Board's records and in the off
 
          (B) whether hardship can be proved without the information contained in the alteration application.
 
-      (v) Processing of an owner's application for exemption shall be in accordance with the rules regarding applications to the Board (Regulations for Internal Board Procedures – 29 RCNY §§ 1-06(a) to (j), except as set forth below. These rules provide for the service of the application on all affected parties, opportunity to answer in writing, and the conducting of informal conferences and administrative hearings. If a perfected application appears to the staff to be well rounded, there shall be conducted an administrative hearing following notice as provided pursuant to Internal Board Procedures at least sixty days in advance of the hearing date.
+      (v) Processing of an owner's application for exemption shall be in accordance with the rules regarding applications to the Board (Regulations for Internal Board Procedures – 29 RCNY § 1-06(a) to (j), except as set forth below. These rules provide for the service of the application on all affected parties, opportunity to answer in writing, and the conducting of informal conferences and administrative hearings. If a perfected application appears to the staff to be well rounded, there shall be conducted an administrative hearing following notice as provided pursuant to Internal Board Procedures at least sixty days in advance of the hearing date.
 
 (b) Processing of applications for exemption due to hardship. 
 
@@ -2100,7 +2100,7 @@ All orders of harassment must be kept in the Loft Board's records and in the off
 
       (i) Except as provided below, where there is a central heating system in an IMD building, the landlord must provide every residentially-occupied IMD unit with heat from that system. As illustrated in the chart below, during the period from October 1 through May 31, centrally supplied heat shall be provided so as to maintain every portion of the dwelling used or occupied for living purposes, between the hours of 6:00 AM and 10:00 PM at a temperature of at least 68 degrees Fahrenheit whenever the outside temperature falls below 55 degrees, and between the hours of 10:00 PM and 6:00 AM at a temperature of at least 55 degrees Fahrenheit whenever the outside temperature falls below 40 degrees Fahrenheit.
 
-      (ii) Where the landlord provides a system of gas or electric heating for a residentially-occupied IMD unit, that system may be utilized instead of a central heating system in the instances where a central heating system is lacking, or may otherwise be used to supplement a central heating system. As illustrated in the chart below, during the period from October 1 through May 31, heat from individual systems of gas or electric heat where the landlord pays for operation shall be provided so as to maintain every portion of the residentially-occupied dwelling used or occupied for living purposes, between the hours of 6:00 AM and 10:00 PM, at a temperature of at least 68 degrees Fahrenheit whenever the outside temperature falls below 55 degrees Fahrenheit, and between the hours of 10:00 PM and 6:00 AM at a temperature of at least 55 degrees Fahrenheit whenever the outside temperature falls below 40 degrees Fahrenheit.
+      (ii) Where the landlord provides a system of gas or electric heating for a residentially-occupied IMD unit, that system may be utilized instead of a central heating system in the instances where a central heating system is lacking, or may otherwise be used to supplement a central heating system. As illustrated in the chart below, during the period from October 1 through May 31, heat from individual systems of gas or electric heat where the landlord pays for operation shall be provided so as to maintain every portion of the residentially-occupied dwelling used or occupied for living purposes, between the hours of 6:00 AM and 10:00 PM, at a temperature of at least 68 degrees Fahrenheit whenever the outside temperature falls below 55 degrees Fahrenheit, and between the hours of 10:00 PM and 6:00 AM at a temperature of at least 55 degrees Fahrenheit whenever the outside temperature falls below 40 degrees Fahrenheit. 
 
  
 
@@ -2165,7 +2165,7 @@ All orders of harassment must be kept in the Loft Board's records and in the off
 
       (v) The residential occupants of the remaining units in the building must reimburse the landlord for the remainder of the cost of window guards installed in the public areas, based on their pro-rata shares of the full cost of the window guards in the public areas, as defined in subparagraph (i), above. All reimbursement payments must be payable within days of installation.
 
-(c) Additional lease agreement services. In addition to those services mandated by 29 RCNY § 2-04(b) of this Rule, landlords must maintain and continue to provide to residential occupants services specified in their lease or rental agreement. In the absence of a lease or rental agreement, landlords must provide those services to residential occupants which were specified in the lease or rental agreement most recently in effect in addition to those services mandated in 29 RCNY § 2-04(b) above. There must not be any diminution of services. Nothing contained in these rules allows reduction in the prior services supplied by mutual agreement where those services exceed the services mandated by 29 RCNY § 2-04(b) above. Where the prior services are below those mandated by 29 RCNY § 2-04(b), the services mandated by 29 RCNY § 2-04(b) must be provided.
+(c) Additional lease agreement services. In addition to those services mandated by 29 RCNY § 2-04(b), landlords must maintain and continue to provide to residential occupants services specified in their lease or rental agreement. In the absence of a lease or rental agreement, landlords must provide those services to residential occupants which were specified in the lease or rental agreement most recently in effect in addition to those services mandated in 29 RCNY § 2-04(b) above. There must not be any diminution of services. Nothing contained in these rules allows reduction in the prior services supplied by mutual agreement where those services exceed the services mandated by 29 RCNY § 2-04(b) above. Where the prior services are below those mandated by 29 RCNY § 2-04(b), the services mandated by 29 RCNY § 2-04(b) must be provided.
 
 (d) Guide for the courts. The services mandated by subdivisions (b) and (c) of this section provide a guide which courts can use as part of their determination as to whether landlords are meeting their current and future responsibilities to residential occupants according to the Warranty of Habitability in Real Property Law § 235-b(1) for IMD buildings.
 
@@ -2189,9 +2189,9 @@ All orders of harassment must be kept in the Loft Board's records and in the off
 
       (vi) a statement about respondent's right to file with the Loft Board, OATH or ECB, as applicable, an answer denying or admitting the violation with an explanation, prior to or at the hearing. The notice of hearing must be served by regular first class mail by the Loft Board, OATH or ECB to the owner of the premises, or his or her designated agent, as each is indicated in the Loft Board's records. A copy of the notice of hearing must also be sent by the Loft Board, OATH or ECB by regular first class mail to the tenant or tenants of any units where violations which are the subject of such hearing are alleged to have occurred. If the notice of hearing is sent by OATH or ECB, a copy of the notice of hearing must also be sent to the offices of the Loft Board.
 
-   (4) Hearings. Hearings may be conducted by Loft Board staff hearing examiners, OATH Administrative Law Judges or ECB hearing officers, who will determine whether each violation alleged is sustained by the evidence, whether the landlord-respondent is responsible for providing the particular service in question, and whether the landlord-respondent has made good faith efforts to provide such service. Formal rules of evidence do not apply to such hearings. Where a hearing is conducted by an OATH Administrative Law Judge, the hearing must be conducted in accordance with the procedures governing hearings before the Loft Board. Where a hearing is conducted by an ECB hearing officer, the hearing must be conducted in accordance with the procedures governing hearings before the ECB. When the Loft Board hearing examiner or OATH Administrative Law Judge or ECB hearing officer makes a finding that the violation exists and that the landlord is responsible, he or she must impose a fine within the recommended range in subparagraph (8) below. The fines in subparagraph (8) below include a fine for each violation substantiated and an additional fine for each day the violation exists beginning the day immediately following the cure period until the violation is cured. The Loft Board hearing examiner, OATH Administrative Law Judge or ECB hearing officer is authorized to suspend the fines when a good faith effort to provide services is demonstrated. The landlord has the burden to prove by a preponderance of the evidence the date of cure, if any. If the case is before a Loft Board hearing examiner or OATH Administrative Law Judge, the Loft Board's staff has the burden of proving the factual allegations contained in the notice of violation by a preponderance of the evidence; however, each notice of violation made pursuant to subparagraph (2) is maintained by the Loft Board as a record kept in the regular course of business and is proof of the facts contained in the notice. If the case is before the ECB, the notice of violation must be sworn to or affirmed pursuant to § 1049-a(d)(1)(b) of New York City Charter. Hearings must electronically recorded and the original recording must be part of the record and the sole official transcript of the proceeding. A written decision sustaining or dismissing each allegation in the notice of hearing must be rendered by the Loft Board hearing examiner, OATH Administrative Law Judge or ECB hearing officer within a reasonable time after the conclusion of the hearing. Each decision, a copy of which must be served on the respondent by regular mail, must contain brief findings of facts, conclusions of law, and where appropriate, an order imposing a fine. If a landlord fails to appear at the hearing after proper notice, the landlord will be declared in default and a decision will be issued by the Loft Board's hearing examiner, OATH Administrative Law Judge or ECB hearing officer assigned to the case. If the case is before ECB, requests to vacate a default determination must be made in accordance with ECB's applicable policy and procedure. If the case is before the Loft Board hearing examiner or OATH Administrative Law Judge, requests to vacate a default determination must be made in accordance with the Loft Board's procedure as set forth in 29 RCNY § 1-06(i) of these rules.
+   (4) Hearings. Hearings may be conducted by Loft Board staff hearing examiners, OATH Administrative Law Judges or ECB hearing officers, who will determine whether each violation alleged is sustained by the evidence, whether the landlord-respondent is responsible for providing the particular service in question, and whether the landlord-respondent has made good faith efforts to provide such service. Formal rules of evidence do not apply to such hearings. Where a hearing is conducted by an OATH Administrative Law Judge, the hearing must be conducted in accordance with the procedures governing hearings before the Loft Board. Where a hearing is conducted by an ECB hearing officer, the hearing must be conducted in accordance with the procedures governing hearings before the ECB. When the Loft Board hearing examiner or OATH Administrative Law Judge or ECB hearing officer makes a finding that the violation exists and that the landlord is responsible, he or she must impose a fine within the recommended range in subparagraph (8) below. The fines in subparagraph (8) below include a fine for each violation substantiated and an additional fine for each day the violation exists beginning the day immediately following the cure period until the violation is cured. The Loft Board hearing examiner, OATH Administrative Law Judge or ECB hearing officer is authorized to suspend the fines when a good faith effort to provide services is demonstrated. The landlord has the burden to prove by a preponderance of the evidence the date of cure, if any. If the case is before a Loft Board hearing examiner or OATH Administrative Law Judge, the Loft Board's staff has the burden of proving the factual allegations contained in the notice of violation by a preponderance of the evidence; however, each notice of violation made pursuant to subparagraph (2) is maintained by the Loft Board as a record kept in the regular course of business and is proof of the facts contained in the notice. If the case is before the ECB, the notice of violation must be sworn to or affirmed pursuant to § 1049-a(d)(1)(b) of New York City Charter. Hearings must electronically recorded and the original recording must be part of the record and the sole official transcript of the proceeding. A written decision sustaining or dismissing each allegation in the notice of hearing must be rendered by the Loft Board hearing examiner, OATH Administrative Law Judge or ECB hearing officer within a reasonable time after the conclusion of the hearing. Each decision, a copy of which must be served on the respondent by regular mail, must contain brief findings of facts, conclusions of law, and where appropriate, an order imposing a fine. If a landlord fails to appear at the hearing after proper notice, the landlord will be declared in default and a decision will be issued by the Loft Board's hearing examiner, OATH Administrative Law Judge or ECB hearing officer assigned to the case. If the case is before ECB, requests to vacate a default determination must be made in accordance with ECB's applicable policy and procedure. If the case is before the Loft Board hearing examiner or OATH Administrative Law Judge, requests to vacate a default determination must be made in accordance with the Loft Board's procedure as set forth in 29 RCNY § 1-06(i).
 
-   (5) Appeals of Decisions. An appeal from a determination of a Loft Board hearing examiner or OATH Administrative Law Judge issued pursuant to 29 RCNY § 2-04 must be brought in accordance with the provisions of 29 RCNY § 1-07.1 of these rules. An appeal from a determination of an ECB hearing officer issued pursuant to 29 RCNY § 2-04 must be brought before the ECB in accordance with its applicable rules and provisions and must be in a form prescribed by the ECB, which may be obtained at www.nyc.gov/ecb.
+   (5) Appeals of Decisions. An appeal from a determination of a Loft Board hearing examiner or OATH Administrative Law Judge issued pursuant to 29 RCNY § 2-04 must be brought in accordance with the provisions of 29 RCNY § 1-07.1. An appeal from a determination of an ECB hearing officer issued pursuant to 29 RCNY § 2-04 must be brought before the ECB in accordance with its applicable rules and provisions and must be in a form prescribed by the ECB, which may be obtained at www.nyc.gov/ecb.
 
    (6) Willful Violations of the Minimum Housing Maintenance Standards. Where a Loft Board hearing examiner, an OATH Administrative Law Judge or an ECB hearing officer determines that a violation of the Minimum Housing Maintenance Standards is willful, the owner of the building in which the iolation exists will be deemed out of compliance with Article 7-C, for purposes of assertion of the landlord's rights under Multiple Dwelling Law § 285(1). A second finding of a violation for the same condition within a 6-month period is presumed willful for purposes of this paragraph (6). A finding that a building is not in compliance with Article 7-C because of a willful violation of the Minimum Housing Maintenance Standards may be removed upon the lord's filing of a request with the Loft Board for a re-inspection to confirm that the violation has been corrected. If the Loft Board's staff person conducting the inspection determines that the violation or violations have been corrected, and so certifies, a copy of his or her inspection report must be filed with the prior decision and the building will deemed in compliance with Article 7-C for purposes of MDL § 285(1). A finding of a willful violation of Minimum Housing Maintenance Standards will be considered as evidence of harassment of residential occupants by the landlord.
 
@@ -2208,98 +2208,108 @@ All orders of harassment must be kept in the Loft Board's records and in the off
     * - Section
       - Violation
       - Range of Fines 
-    * - 2-04(b)(1)
+~
+
+
+
+
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 29 RCNY § 2-04(b)(1)
       - Failure to provide or maintain a safe water supply or plumbing and drainage systems
-      - First finding:$750-$2,000 per violation for first finding sustaining a violation plus $125 per day 
-    * - 
-      - 
-      - Second finding within 12 months:$2,000-$4,000 per violation for second finding within 12 months plus $125 per day
-    * - 
-      - 
-      - Subsequent finding within 12 months of the first finding:$4,000-$6,000 per violation for subsequent finding within 12 months plus $125 per day
-    * - 2-04(b)(2)
+      - First finding:$750 - $2,000 per violation for first finding sustaining a violation plus $125 per day 
+    * -  
+      -  
+      - Second finding within 12 months:$2,000 - $4,000 per violation for second finding within 12 months plus $125 per day
+    * -  
+      -  
+      - Subsequent finding within 12 months of the first finding:$4,000 - $6,000 per violation for subsequent finding within 12 months plus $125 per day
+    * - 29 RCNY § 2-04(b)(2)
       - Failure to provide adequate heat
-      - First finding:$750-$2,000 per violation for first finding sustaining a violation plus $250-$500 per day
-    * - 
-      - 
-      - Subsequent finding during the same Oct-May period as the first finding:$3,000-$4,000 per violation for subsequent finding during same Oct-May period plus $500-$1,000 per day
-    * - 2-04(b)(3)
+      - First finding:$750 - $2,000 per violation for first finding sustaining a violation plus $250 - $500 per day
+    * -  
+      -  
+      - Subsequent finding during the same Oct-May period as the first finding:$3,000 - $4,000 per violation for subsequent finding during same Oct-May period plus $500 - $1,000 per day
+    * - 29 RCNY § 2-04(b)(3)
       - Failure to supply hot water
-      - First finding:$750-$2,000 per violation for first finding sustaining a violation plus $250-$500 per day
-    * - 
-      - 
-      - Subsequent finding within 12 months:$3,000-$4,000 violation for subsequent finding within 12 months plus $500-$1,000 per day
-    * - 2-04(b)(4)
+      - First finding:$750 - $2,000 per violation for first finding sustaining a violation plus $250 - $500 per day
+    * -  
+      -  
+      - Subsequent finding within 12 months:$3,000 - $4,000 violation for subsequent finding within 12 months plus $500 - $1,000 per day
+    * - 29 RCNY § 2-04(b)(4)
       - Failure to maintain electrical service to residential units
-      - First finding:$750-$1,000 per violation for first finding sustaining a violation plus $125 per day
-    * - 
-      - 
-      - Second finding within 12 months:$2,000-$4,000 per violation for the second finding within 12 months plus $125 per day
-    * - 
-      - 
-      - Subsequent finding within 12 months of the first finding:$4,000-$6,000 per violation for any subsequent finding within 12 months plus $125 per day
-    * - 2-04(b)(5)
+      - First finding:$750 - $1,000 per violation for first finding sustaining a violation plus $125 per day
+    * -  
+      -  
+      - Second finding within 12 months:$2,000 - $4,000 per violation for the second finding within 12 months plus $125 per day
+    * -  
+      -  
+      - Subsequent finding within 12 months of the first finding:$4,000 - $6,000 per violation for any subsequent finding within 12 months plus $125 per day
+    * - 29 RCNY § 2-04(b)(5)
       - Failure to maintain gas service in good working order
-      - First finding:$750-$1,000 per violation for the first finding sustaining a violation plus $125 per day
-    * - 
-      - 
-      - Second finding within 12 months:$2,000-$4,000 per violation for the second finding within 12 months plus $125 per day
-    * - 
-      - 
-      - Subsequent finding within 12 months of the first finding:$4,000-$6,000 per violation for any subsequent finding within 12 months plus $125 per day
-    * - 2-04(b)(6)
+      - First finding:$750 - $1,000 per violation for the first finding sustaining a violation plus $125 per day
+    * -  
+      -  
+      - Second finding within 12 months:$2,000 - $4,000 per violation for the second finding within 12 months plus $125 per day
+    * -  
+      -  
+      - Subsequent finding within 12 months of the first finding:$4,000 - $6,000 per violation for any subsequent finding within 12 months plus $125 per day
+    * - 29 RCNY § 2-04(b)(6)
       - Failure to provide smoke detectors/ Failure to provide carbon monoxide detectors
-      - First finding:$750-$1,000 per violation for the first finding sustaining a violation plus $10 per day
-    * - 
-      - 
+      - First finding:$750 - $1,000 per violation for the first finding sustaining a violation plus $10 per day
+    * -  
+      -  
       - Second finding within 12 months:$2,000 per ation for the second finding within 12 months plus $10 per day
-    * - 
-      - 
+    * -  
+      -  
       - Subsequent finding within 12 months of the first finding:$3,000 per violation for any subsequent finding within 12 months plus $10 per day
-    * - 2-04(b)(7)
+    * - 29 RCNY § 2-04(b)(7)
       - Failure to provide lighting in public areas of the building
-      - First finding:$750-$1,000 per violation for the first finding sustaining a violation plus $10 per day
-    * - 
-      - 
+      - First finding:$750 - $1,000 per violation for the first finding sustaining a violation plus $10 per day
+    * -  
+      -  
       - Second finding within 12 months:$2,000 per ation for the second finding within 12 months plus $10 per day
-    * - 
-      - 
+    * -  
+      -  
       - Subsequent finding within 12 months of the first finding:$3,000 per violation for any subsequent finding within 12 months plus $10 per day
-    * - 2-04(b)(8)
+    * - 29 RCNY § 2-04(b)(8)
       - Improper maintenance of entrance door security; failure to provide keys
-      - First finding:$750-$1,000 per violation for the first finding plus $125 per day
-    * - 
-      - 
-      - Second finding within 12 months:$2,000-$4,000 per violation for the second finding within 12 months plus $125 per day
-    * - 
-      - 
-      - Subsequent finding within 12 months of the first finding:$4,000-$6,000 per violation for any subsequent findings within 12 months plus $125 per day
-    * - 2-04(b)(9)
+      - First finding:$750 - $1,000 per violation for the first finding plus $125 per day
+    * -  
+      -  
+      - Second finding within 12 months:$2,000 - $4,000 per violation for the second finding within 12 months plus $125 per day
+    * -  
+      -  
+      - Subsequent finding within 12 months of the first finding:$4,000 - $6,000 per violation for any subsequent findings within 12 months plus $125 per day
+    * - 29 RCNY § 2-04(b)(9)
       - Failure to provide or improper maintenance of elevator service
-      - First finding:$750-$1,000 per violation for the first finding sustaining a violation plus $125 per day
-    * - 
-      - 
+      - First finding:$750 - $1,000 per violation for the first finding sustaining a violation plus $125 per day
+    * -  
+      -  
       - Second finding within 12 months: $2,000 per lation for the second finding within 12 months plus $125 per day
-    * - 
-      - 
+    * -  
+      -  
       - Subsequent finding within 12 months of the first finding:$3,000 per violation for any subsequent finding within 12 months plus $125 per day
-    * - 2-04(b)(10)
+    * - 29 RCNY § 2-04(b)(10)
       - Failure to provide window guards
-      - First finding:$750-$1,000 per violation for the first finding plus $125 per day
-    * - 
-      - 
-      - Second finding within 12 months:$2,000-$4,000 per violation for the second finding plus $125 per day
-    * - 
-      - 
-      - Subsequent findings within 12 months of the first finding:$4,000-$6,000 per violation for any subsequent finding plus $125 per day
-    * - 2-04(c)
+      - First finding:$750 - $1,000 per violation for the first finding plus $125 per day
+    * -  
+      -  
+      - Second finding within 12 months:$2,000 - $4,000 per violation for the second finding plus $125 per day
+    * -  
+      -  
+      - Subsequent findings within 12 months of the first finding:$4,000 - $6,000 per violation for any subsequent finding plus $125 per day
+    * - 29 RCNY § 2-04(c)
       - Failure to provide other minimum housing maintenance services
-      - First finding:$750-$1,000 per violation for the first finding plus $125 per day
-    * - 
-      - 
+      - First finding:$750 - $1,000 per violation for the first finding plus $125 per day
+    * -  
+      -  
       - Second finding within 12 months:$2,000 per violation for the second finding within 12 months plus $125 per day
-    * - 
-      - 
+    * -  
+      -  
       - Subsequent findings within 12 months of the first finding:$3,000 per violation for any subsequent finding within 12 months plus $125 per day
 ~
 
@@ -2327,13 +2337,13 @@ All orders of harassment must be kept in the Loft Board's records and in the off
 
    (2) The information requested on the registration application form is required pursuant to MDL §§ 284(2) and 325, and these rules. Additional information may be required pursuant to rules promulgated by the Loft Board.
 
-   (3) Pursuant to MDL § 282, the Loft Board may charge and collect reasonable fees. Registration and code compliance monitoring fees shall be payable to the Loft Board in accordance with 29 RCNY § 2-11 of these rules.
+   (3) Pursuant to MDL § 282, the Loft Board may charge and collect reasonable fees. Registration and code compliance monitoring fees shall be payable to the Loft Board in accordance with 29 RCNY § 2-11.
 
-   (4) Completion and submission of a registration application form does not constitute a waiver of the applicant's right to contest before the Loft Board the coverage of the premises described therein as an IMD building under Article 7-C of the MDL, nor shall the act of filing the registration application form constitute evidence before the Loft Board that the building described therein is an IMD building. Notwithstanding the foregoing, the failure of an owner, a building occupant or prime lessee to contest the registration application within 45 calendar days after service of the registration application or 45 calendar days after the filing date with the Loft Board, whichever is later, shall constitute a "waiver" to contest coverage of the units registered, and shall preclude the landlord from contesting such coverage status. In the event the Loft Board or its staff subsequently discovers that a building, structure or portion thereof registered as an IMD does not qualify as an IMD subject to coverage under Article 7-C, in whole or in part, then the Executive Director may revoke such IMD status for the individual unit, or the building in its entirety, as applicable, effective upon notice to the owner, the building occupants and the prime lessees, listed on the registration application form. Any and all applications by a landlord, building occupant or the prime lessee to challenge the denial of a registration application form or the revocation of IMD status of a building or a unit by the Executive Director shall be governed by the terms and provisions of 29 RCNY § 1-07.1 of these rules.
+   (4) Completion and submission of a registration application form does not constitute a waiver of the applicant's right to contest before the Loft Board the coverage of the premises described therein as an IMD building under Article 7-C of the MDL, nor shall the act of filing the registration application form constitute evidence before the Loft Board that the building described therein is an IMD building. Notwithstanding the foregoing, the failure of an owner, a building occupant or prime lessee to contest the registration application within 45 calendar days after service of the registration application or 45 calendar days after the filing date with the Loft Board, whichever is later, shall constitute a "waiver" to contest coverage of the units registered, and shall preclude the landlord from contesting such coverage status. In the event the Loft Board or its staff subsequently discovers that a building, structure or portion thereof registered as an IMD does not qualify as an IMD subject to coverage under Article 7-C, in whole or in part, then the Executive Director may revoke such IMD status for the individual unit, or the building in its entirety, as applicable, effective upon notice to the owner, the building occupants and the prime lessees, listed on the registration application form. Any and all applications by a landlord, building occupant or the prime lessee to challenge the denial of a registration application form or the revocation of IMD status of a building or a unit by the Executive Director shall be governed by the terms and provisions of 29 RCNY § 1-07.1.
 
-   (5) Procedure to Contest a Registration Application. Any and all applications filed by a landlord, building occupant(s) or prime lessee, if applicable, to contest coverage of a building or individual unit under Article 7-C must be received by the Loft Board within 45 calendar days after service of the registration application form on the building occupants and prime lessee(s) or within 45 calendar days after filing of the registration application form with the Loft Board, whichever is later. Such applications must set forth the extent of coverage being contested, including the facts and rationale upon which coverage is being contested. A copy of the application must be served on ALL residential, commercial and manufacturing occupants of the building and the prime lessee(s) in the manner described in 29 RCNY § 1-06(b) of these rules for service of Loft Board applications, and the application filed with the Loft Board must include a certification that such service has been made.
+   (5) Procedure to Contest a Registration Application. Any and all applications filed by a landlord, building occupant(s) or prime lessee, if applicable, to contest coverage of a building or individual unit under Article 7-C must be received by the Loft Board within 45 calendar days after service of the registration application form on the building occupants and prime lessee(s) or within 45 calendar days after filing of the registration application form with the Loft Board, whichever is later. Such applications must set forth the extent of coverage being contested, including the facts and rationale upon which coverage is being contested. A copy of the application must be served on ALL residential, commercial and manufacturing occupants of the building and the prime lessee(s) in the manner described in 29 RCNY § 1-06(b) for service of Loft Board applications, and the application filed with the Loft Board must include a certification that such service has been made.
 
-   (6) Any occupant in the building may apply for coverage under Article 7-C. Such applications shall be filed in accordance with the procedures set forth in 29 RCNY § 1-06 of these rules, and shall be subject to the terms and provisions of the MDL and these rules, including, without limitation, the deadline for filing coverage applications set forth in MDL § 282-a, 29 RCNY § 1-06.1 of the Loft Board's rules, and the Loft Board's website.
+   (6) Any occupant in the building may apply for coverage under Article 7-C. Such applications shall be filed in accordance with the procedures set forth in 29 RCNY § 1-06, and shall be subject to the terms and provisions of the MDL and these rules, including, without limitation, the deadline for filing coverage applications set forth in MDL § 282-a, 29 RCNY § 1-06.1, and the Loft Board's website.
 
    (7) An interim multiple dwelling registration number issued by the Loft Board will be effective until such time as determined by the Loft Board or its staff.
 
@@ -2349,13 +2359,13 @@ All orders of harassment must be kept in the Loft Board's records and in the off
 
    If the owner, lessee of the whole building or agent is other than an individual or a corporation, the names, business and residential addresses and phone numbers for each member, general partner or participant in a partnership, joint venture or limited liability company must be listed on a separate attachment
 
-    At least one of the phone numbers filed with the registration application form must be a confidential telephone number where a responsible party can reasonably be expected to be reached 24 hours a day, 7 days a week for emergencies. Such number(s) must be within 50 miles radius of New York City limits, and must be indicated on a separate signed sheet of paper filed with the registration application form. Such responsible party shall be twenty-one years or older, and shall reside within New York City or customarily and regularly attend a business office located in New York City. The emergency number shall be confidential. Any change in the emergency number, managing agent information, owner's address or ownership shall be sent to the Loft Board within 5 days of the change. The failure to report such change is a violation of the Loft Board rules and the owner may be subject to civil penalties in accordance with 29 RCNY § 2-11.1 of the Loft Board Rules.
+    At least one of the phone numbers filed with the registration application form must be a confidential telephone number where a responsible party can reasonably be expected to be reached 24 hours a day, 7 days a week for emergencies. Such number(s) must be within 50 miles radius of New York City limits, and must be indicated on a separate signed sheet of paper filed with the registration application form. Such responsible party shall be twenty-one years or older, and shall reside within New York City or customarily and regularly attend a business office located in New York City. The emergency number shall be confidential. Any change in the emergency number, managing agent information, owner's address or ownership shall be sent to the Loft Board within 5 days of the change. The failure to report such change is a violation of the Loft Board rules and the owner may be subject to civil penalties in accordance with 29 RCNY § 2-11.1.
 
-   (11) All landlords who file a registration application form agree to provide the minimum housing maintenance standards established by 29 RCNY § 2-04 of these rules, as it may be amended from time to time, to all residentially occupied units covered under Article 7-C of the MDL.
+   (11) All landlords who file a registration application form agree to provide the minimum housing maintenance standards established by 29 RCNY § 2-04, as it may be amended from time to time, to all residentially occupied units covered under Article 7-C of the MDL.
 
    (12) [Reserved.]
 
-   (13) A notice, in the form prescribed by the Loft Board, as designated on the Loft Board's website, shall be posted in the lobby of every IMD building within five (5) business days after the issuance of the IMD Registration Number. Failure to post such notice or update the notice within 5 calendar days of a change in the information contained in such notice may subject the landlord to civil penalties in accordance with 29 RCNY § 2-11.1 of the Loft Board Rules. Such notice must contain:
+   (13) A notice, in the form prescribed by the Loft Board, as designated on the Loft Board's website, shall be posted in the lobby of every IMD building within five (5) business days after the issuance of the IMD Registration Number. Failure to post such notice or update the notice within 5 calendar days of a change in the information contained in such notice may subject the landlord to civil penalties in accordance with 29 RCNY § 2-11.1. Such notice must contain:
 
       (A) The building's address;
 
@@ -2379,9 +2389,9 @@ All orders of harassment must be kept in the Loft Board's records and in the off
 
 (f) Deadlines for Filing Initial Registration Application after June 21, 2010 in Chapters 135 and 147 of the Laws of 2010.
 
-   (1) Pursuant to MDL § 284(2), the initial registration for buildings covered pursuant to MDL § 281(5) shall have been filed by August 21, 2010, which was sixty days from the effective date of Chapter 135 of the Laws of 2010. The provisions of these rules, 29 RCNY § 2-05, shall be fully applicable to IMD buildings or additional covered units, which are subject to coverage under Article 7-C pursuant to MDL § 281(5). Pursuant to MDL § 282-a, the initial registration application form must be filed for all buildings, structures, or portions thereof seeking Article 7-C coverage by the certain date listed in 29 RCNY § 1-06.1(a) of these rules, and on the Loft Board's website. This date is 6 months after the date the Loft Board adopted all rules necessary to implement the provisions of Chapters 135 and 147 of the Laws of 2010, which added MDL § 281(5). Any initial registration application forms filed after the certain date listed in 29 RCNY § 1-06.1(a) of these rules will not be accepted, notwithstanding that such residential units may otherwise meet the qualifying criteria for an IMD unit pursuant to MDL § 281, unless the landlord is directed to file a registration form pursuant to a Loft Board order finding coverage or if the landlord is directed to file a registration application form by a court of competent jurisdiction pursuant to the claim of Article 7-C coverage raised in a pleading before the certain date listed in 29 RCNY § 1-06.1(a) of these rules, and on the Loft Board's website.
+   (1) Pursuant to MDL § 284(2), the initial registration for buildings covered pursuant to MDL § 281(5) shall have been filed by August 21, 2010, which was sixty days from the effective date of Chapter 135 of the Laws of 2010. The provisions of these rules, 29 RCNY § 2-05, shall be fully applicable to IMD buildings or additional covered units, which are subject to coverage under Article 7-C pursuant to MDL § 281(5). Pursuant to MDL § 282-a, the initial registration application form must be filed for all buildings, structures, or portions thereof seeking Article 7-C coverage by the certain date listed in 29 RCNY § 1-06.1(a), and on the Loft Board's website. This date is 6 months after the date the Loft Board adopted all rules necessary to implement the provisions of Chapters 135 and 147 of the Laws of 2010, which added MDL § 281(5). Any initial registration application forms filed after the certain date listed in 29 RCNY § 1-06.1(a) will not be accepted, notwithstanding that such residential units may otherwise meet the qualifying criteria for an IMD unit pursuant to MDL § 281, unless the landlord is directed to file a registration form pursuant to a Loft Board order finding coverage or if the landlord is directed to file a registration application form by a court of competent jurisdiction pursuant to the claim of Article 7-C coverage raised in a pleading before the certain date listed in 29 RCNY § 1-06.1(a), and on the Loft Board's website.
 
-   (2) Registration Renewals. Renewal of registration pursuant to 29 RCNY § 2-11(b)(1)(i)(A) of these rules shall be required annually on or before July 1st. Prior to the processing of the registration renewal application, the landlord or the agent is required to pay all unpaid fines, late fees and registration and code compliance monitoring fees for prior registration periods at the rate set forth in 29 RCNY § 2-11(b)(9)(i) of these rules, as may be amended from time to time. Failure to timely pay such registration and code compliance monitoring fees may result in the imposition of late fees, and other civil penalties, in accordance with the terms and provisions of these rules, including, without limitation, 29 RCNY § 2-11(b)(1)(i)(D) and 29 RCNY § 2-11.1.
+   (2) Registration Renewals. Renewal of registration pursuant to 29 RCNY § 2-11(b)(1)(i)(A) shall be required annually on or before July 1st. Prior to the processing of the registration renewal application, the landlord or the agent is required to pay all unpaid fines, late fees and registration and code compliance monitoring fees for prior registration periods at the rate set forth in 29 RCNY § 2-11(b)(9)(i), as may be amended from time to time. Failure to timely pay such registration and code compliance monitoring fees may result in the imposition of late fees, and other civil penalties, in accordance with the terms and provisions of these rules, including, without limitation, 29 RCNY § 2-11(b)(1)(i)(D) and 29 RCNY § 2-11.1.
 
 (g) No applications filed by or on behalf of a landlord of an IMD building shall be processed by the Loft Board unless the registration renewal application is current and all applicable fees and penalties have been paid in full as of the date of filing such application. An application is not deemed filed until payment of all outstanding fees, fines and penalties has been received by the Loft Board.
 
@@ -2393,7 +2403,7 @@ All orders of harassment must be kept in the Loft Board's records and in the off
 *§ 2-06 Interim Rent Guidelines.* ::
 
 
-(For time limitations on filing applications for rent overcharges, see 29 RCNY § 1-06.1 of the Loft Board rules).
+(For time limitations on filing applications for rent overcharges, see 29 RCNY § 1-06.1).
 
 (a) Coverage.
 
@@ -2485,7 +2495,7 @@ All orders of harassment must be kept in the Loft Board's records and in the off
 
    (2) For units which have had no rent increases since the inception of the last lease or rental agreement between the residential occupant and landlord, the maximum percentage increases contained in category (ii), (iii), (iv), and (v) above shall be based upon the date of inception of the last lease or rental agreement. These rent increases shall be a permanent part of the rent.
 
-(d) Overcharges and Penalties. Rent payments made prior to the date of adoption of this rule in excess of the amount prescribed by this rule, or 29 RCNY § 2-06 of these rules, constitute an overcharge, which may be paid at the owner's option either in a lump sum or as a subtraction from the legal monthly rent payments at a rate equal to 20 percent of the legal rent permitted under this rule as of the date of adoption of this rule  until payment of the full overcharge is completed. No trebel damages shall be prescribed by this rule or 29 RCNY § 2-06.
+(d) Overcharges and Penalties. Rent payments made prior to the date of adoption of this rule in excess of the amount prescribed by this rule, or 29 RCNY § 2-06, constitute an overcharge, which may be paid at the owner's option either in a lump sum or as a subtraction from the legal monthly rent payments at a rate equal to 20 percent of the legal rent permitted under this rule as of the date of adoption of this rule  until payment of the full overcharge is completed. No trebel damages shall be prescribed by this rule or 29 RCNY § 2-06.
 
 
 
@@ -2531,7 +2541,7 @@ All orders of harassment must be kept in the Loft Board's records and in the off
 
    (1) Total rent, as defined above; plus
 
-   (2) Any other rent adjustments authorized pursuant to Article 7-C and these Rules, including allowable rent adjustments authorized pursuant to 29 RCNY § 2-12 of these Rules; plus
+   (2) Any other rent adjustments authorized pursuant to Article 7-C and these Rules, including allowable rent adjustments authorized pursuant to 29 RCNY § 2-12; plus
 
    (3) Use-based escalators, if any; plus
 
@@ -2577,11 +2587,11 @@ All orders of harassment must be kept in the Loft Board's records and in the off
 
    (2) Sales not subject, or partially subject, to these rules.
 
-      (i) Registration or a finding of coverage. This section does not apply to units which have never been registered with the Loft Board, unless the unit was granted coverage pursuant to a Loft Board order or court of competent jurisdiction. Any sale of improvements which occurred prior to registration of the unit with the Loft Board or prior to a finding of coverage by the Loft Board or a court of competent jurisdiction does not constitute a sale pursuant to MDL § 286(6), and is not covered by this section. This section does not apply to units which the Loft Board or the Executive Director have found are not covered by Article 7-C pursuant to 29 RCNY §§ 2-05 and 2-08 of these rules, or which a court of competent jurisdiction has found do not qualify for Article 7-C coverage.
+      (i) Registration or a finding of coverage. This section does not apply to units which have never been registered with the Loft Board, unless the unit was granted coverage pursuant to a Loft Board order or court of competent jurisdiction. Any sale of improvements which occurred prior to registration of the unit with the Loft Board or prior to a finding of coverage by the Loft Board or a court of competent jurisdiction does not constitute a sale pursuant to MDL § 286(6), and is not covered by this section. This section does not apply to units which the Loft Board or the Executive Director have found are not covered by Article 7-C pursuant to 29 RCNY §§ 2-05 and 2-08, or which a court of competent jurisdiction has found do not qualify for Article 7-C coverage.
 
       (ii) Sales between co-tenants. This section does not apply to sales of improvements between co-tenants of an IMD unit, where at least 1 of the co-tenants will remain in occupancy after the sale and is an occupant qualified for the protection of Article 7-C.
 
-      (iii) Compensation to prime lessee or sublessor. Compensation to a prime lessee or sublessor by a residential occupant does not constitute a sale of improvements pursuant to MDL § 286(6), and is governed by 29 RCNY § 2-09(c) of these rules in matters regarding the prime lessee's or sublessor's right to compensation for costs incurred in developing a residential unit. After compensation has been made by the residential occupant to the prime lessee or sublessor, the residential occupant has the right to sell the improvements in the unit pursuant to MDL § 286(6) and this section.
+      (iii) Compensation to prime lessee or sublessor. Compensation to a prime lessee or sublessor by a residential occupant does not constitute a sale of improvements pursuant to MDL § 286(6), and is governed by 29 RCNY § 2-09(c) in matters regarding the prime lessee's or sublessor's right to compensation for costs incurred in developing a residential unit. After compensation has been made by the residential occupant to the prime lessee or sublessor, the residential occupant has the right to sell the improvements in the unit pursuant to MDL § 286(6) and this section.
 
 (c) Procedure for sales of improvements to prospective incoming tenant.
 
@@ -2625,7 +2635,7 @@ All orders of harassment must be kept in the Loft Board's records and in the off
 
             3. To withhold consent to the prospective tenant, provided that consent may not be unreasonably withheld;
 
-         (i) If an owner purchases the improvements, the owner will not be entitled to the opportunity for decontrol of rent regulation or market rentals, as provided in 29 RCNY § 2-07(d)(4)(ii) below, if the owner is found to have harassed tenants, pursuant to 29 RCNY § 2-02 of these rules, unless the harassment finding has been terminated pursuant to 29 RCNY § 2-02 of these rules.
+         (i) If an owner purchases the improvements, the owner will not be entitled to the opportunity for decontrol of rent regulation or market rentals, as provided in 29 RCNY § 2-07(d)(4)(ii) below, if the owner is found to have harassed tenants, pursuant to 29 RCNY § 2-02, unless the harassment finding has been terminated pursuant to 29 RCNY § 2-02.
 
    (2) The completed Disclosure Form with original signatures must be filed with the Loft Board, together with proof of service. Following receipt, the Loft Board staff will determine whether a sale for the unit in question has been previously filed with the Loft Board's office. If a sale was previously filed, the parties will be notified of the prior sale and the proposed sale will not be given any effect under MDL § 286(6).
 
@@ -2681,7 +2691,7 @@ All orders of harassment must be kept in the Loft Board's records and in the off
 
       (iii) Upon completion of the purchase by the owner, any unit subject to rent regulation solely by reason of Article 7-C of the MDL, and not receiving any benefits of real estate tax exemption or tax abatement, will be subject to subsequent rent regulation after being rented at market value, if such building had 6 or more residential units on: (a) June 21, 1982 for a unit covered under MDL § 281(1); (b) July 27, 1987 for a unit solely covered under MDL § 281(4); or (c) June 21, 2010 for a unit covered by MDL § 281(5) that became subject to Article 7-C pursuant to Chapters 135 or 147 of the Laws of 2010.
 
-      (iv) The exemption from rent regulation is not available in a building when any sale of improvements takes place on or after the date of a finding of harassment, and before the harassment order is terminated by the Loft Board in accordance with 29 RCNY § 2-02(d)(2) of these Rules.
+      (iv) The exemption from rent regulation is not available in a building when any sale of improvements takes place on or after the date of a finding of harassment, and before the harassment order is terminated by the Loft Board in accordance with 29 RCNY § 2-02(d)(2).
 
 (e) [Reserved.]
 
@@ -2703,11 +2713,11 @@ All orders of harassment must be kept in the Loft Board's records and in the off
 
       (i) An owner of an IMD unit seeking to contest the proposed sale of improvements must apply to the Loft Board for a determination within 20 calendar days of service upon the owner of the Disclosure Form, or within such additional period as provided pursuant to 29 RCNY § 2-07(d) above, and must pay the mandated filing fee of $800. Before the owner files a challenge application under this subdivision, the owner's registration with the Loft Board, including payment of applicable registration fees, must be current, or before filing a challenge application with respect to improvements in a unit that was formerly subject to Article 7-C, the owner's registration with DHCR or any successor agency must be current. The owner must also state that he or she is the owner of the premises or is authorized to act on behalf of the owner in this matter.
 
-      (ii) Filing of an application challenging the sale of improvements to a prospective incoming tenant which is found by the Loft Board to be frivolous may constitute harassment, pursuant to 29 RCNY § 2-02 of these Rules, with the consequences provided in 29 RCNY § 2-07(d)(4). An objection to the sale may be found to be frivolous on grounds including, but not limited to, the following: that it was filed without a good faith intention to purchase the improvements at fair market value or that the owner's valuation of the improvements has no reasonable relationship to the fair market value, as determined by the Loft Board.
+      (ii) Filing of an application challenging the sale of improvements to a prospective incoming tenant which is found by the Loft Board to be frivolous may constitute harassment, pursuant to 29 RCNY § 2-02, with the consequences provided in 29 RCNY § 2-07(d)(4). An objection to the sale may be found to be frivolous on grounds including, but not limited to, the following: that it was filed without a good faith intention to purchase the improvements at fair market value or that the owner's valuation of the improvements has no reasonable relationship to the fair market value, as determined by the Loft Board.
 
       (iii) The owner must serve the outgoing and prospective incoming tenants with a copy of the owner's challenge application, and file within 5 calendar days of service 2 copies of the application at the Loft Board and proof of service as described in 29 RCNY § 1-06(b).
 
-      (iv) The outgoing and prospective incoming tenants will have 7 calendar days from when service of the application is deemed complete to file with the Loft Board an answer to the challenge application. Two copies of the answer must be filed with the Loft Board. One copy of the answer must be served on the owner and the other affected parties, if any, prior to filing the answer with the Loft Board. Proof of service must be filed with the Loft Board in accordance with 29 RCNY § 1-06(e) of these Rules.
+      (iv) The outgoing and prospective incoming tenants will have 7 calendar days from when service of the application is deemed complete to file with the Loft Board an answer to the challenge application. Two copies of the answer must be filed with the Loft Board. One copy of the answer must be served on the owner and the other affected parties, if any, prior to filing the answer with the Loft Board. Proof of service must be filed with the Loft Board in accordance with 29 RCNY § 1-06(e).
 
       (v) The outgoing tenant's answer must include 3 available dates and times during regular business hours within 10 calendar days of the date of filing of the answer with the Loft Board during which the improvements will be available to be inspected by a Loft Board-appointed appraiser in accordance with subparagraph (vi).
 
@@ -2763,7 +2773,7 @@ All orders of harassment must be kept in the Loft Board's records and in the off
 
 (j) Effect of Sale: Filing the Sale Record with the Loft Board.
 
-   (1) Except as provided in paragraph (2) below, within 30 calendar days of the sale of improvements to the owner, pursuant to MDL § 286(6), the owner must file a Loft Board-approved Sale Record, which provides the following information: address of IMD and location of unit; name and telephone number of incoming tenant; description of improvements conveyed; purchase price; and rent. Failure by the owner to file the required Sale Record within 30 calendar days of the sale of improvements may subject the owner to a civil penalty, as determined by the Loft Board in accordance with 29 RCNY § 2-11.1 of these Rules.
+   (1) Except as provided in paragraph (2) below, within 30 calendar days of the sale of improvements to the owner, pursuant to MDL § 286(6), the owner must file a Loft Board-approved Sale Record, which provides the following information: address of IMD and location of unit; name and telephone number of incoming tenant; description of improvements conveyed; purchase price; and rent. Failure by the owner to file the required Sale Record within 30 calendar days of the sale of improvements may subject the owner to a civil penalty, as determined by the Loft Board in accordance with 29 RCNY § 2-11.1.
 
    (2) If a prospective incoming tenant purchases the improvements in the IMD unit, no further filing is required. Unless the Loft Board is otherwise informed, receipt by the Loft Board of a Disclosure Form is presumed to be notice that a sale to the prospective incoming tenant identified has taken place within 60 calendar days following receipt of such Disclosure Form, or 60 calendar days following the last deadline modification approved by the Loft Board.
 
@@ -2835,7 +2845,7 @@ Registration as an interim multiple dwelling (hereinafter "IMD") with the New Yo
 
          (B) be located in a building, a portion of which was occupied at any time for manufacturing, commercial or warehouse purposes;
 
-         (C) lack a residential certificate of occupancy issued pursuant to MDL § 301, as further delineated in 29 RCNY § 2-08(b) of these rules;
+         (C) lack a residential certificate of occupancy issued pursuant to MDL § 301, as further delineated in 29 RCNY § 2-08(b);
 
          (D) except as set forth below in 29 RCNY §§ 2-08(a)(4)(ii), and (iii), be located in a geographical area in which the Zoning Resolution permits residential use as of right or in which the residential use may become a use as of right as a result of approval of a grandfathering application, in accordance with MDL §§ 281(2)(i), or (iv); or is located in a study area designated by the Zoning Resolution for possible rezoning to permit residential use, in accordance with MDL § 281(2)(iii);
 
@@ -2843,11 +2853,11 @@ Registration as an interim multiple dwelling (hereinafter "IMD") with the New Yo
 
          (F) except as set forth below in 29 RCNY §§ 2-08(a)(4)(ii), and (iii), be occupied by a family living independently for residential purposes on December 1, 1981, since April 1, 1980 for coverage under § 281(1), and
 
-         (G) pursuant to MDL § 282-a, either (i) have been registered as part of an IMD building, structure or portion thereof by the landlord of such building, by that certain date which is 6 months after the date the Loft Board shall have adopted all rules necessary in order to implement the provisions of Chapters 135 and 147 of the Laws of 2010 (ii) have been included as part of a coverage application filed by a residential occupant of the building, structure or portion thereof by that certain date which is 6 months after the date the Loft Board shall have adopted all rules necessary in order to implement the provisions of Chapters 135 and 147 of the Laws of 2010 or (iii) if the landlord is directed to file a registration application form by a court of competent jurisdiction pursuant to a claim of Article 7-C coverage raised in a pleading before the certain date listed in 29 RCNY § 1-06.1(a) of these rules, and on the Loft Board's website.
+         (G) pursuant to MDL § 282-a, either (i) have been registered as part of an IMD building, structure or portion thereof by the landlord of such building, by that certain date which is 6 months after the date the Loft Board shall have adopted all rules necessary in order to implement the provisions of Chapters 135 and 147 of the Laws of 2010 (ii) have been included as part of a coverage application filed by a residential occupant of the building, structure or portion thereof by that certain date which is 6 months after the date the Loft Board shall have adopted all rules necessary in order to implement the provisions of Chapters 135 and 147 of the Laws of 2010 or (iii) if the landlord is directed to file a registration application form by a court of competent jurisdiction pursuant to a claim of Article 7-C coverage raised in a pleading before the certain date listed in 29 RCNY § 1-06.1(a), and on the Loft Board's website.
 
-      (ii) In addition to the criteria set forth in subparagraph (i) of this 29 RCNY §§ 2-08(a)(4), in order for a residential unit to qualify for coverage under Article 7-C pursuant to MDL § 281(4), such residence or unit must have been occupied by a family living independently for residential purposes on May 1, 1987, since December 1, 1981, and occupied for residential purposes since April 1, 1980, regardless of whether the building is located in a geographical area in which the Zoning Resolution permits residential use as of right, or through grandfathering as defined in 29 RCNY § 2-08(a)(2) of these rules, or because the building is located in a study area as defined in 29 RCNY § 2-08(a)(5) of these rules.
+      (ii) In addition to the criteria set forth in subparagraph (i) of this 29 RCNY §§ 2-08(a)(4), in order for a residential unit to qualify for coverage under Article 7-C pursuant to MDL § 281(4), such residence or unit must have been occupied by a family living independently for residential purposes on May 1, 1987, since December 1, 1981, and occupied for residential purposes since April 1, 1980, regardless of whether the building is located in a geographical area in which the Zoning Resolution permits residential use as of right, or through grandfathering as defined in 29 RCNY § 2-08(a)(2), or because the building is located in a study area as defined in 29 RCNY § 2-08(a)(5).
 
-      (iii) Notwithstanding the foregoing, in order for a residential unit to qualify for coverage under Article 7-C pursuant to MDL § 281(5), as set forth in these rules, a residential unit is not required to have been residentially occupied between April 1, 1980 through December 1, 1981, but is required to have been occupied by a family living independently for residential purposes during a period of twelve consecutive months between January 1, 2008 through December 31, 2009, as further delineated in 29 RCNY §§ 2-08(c)(3), and 2-08(c)(4) of these rules, regardless of whether the building is geographically located in an area in which the Zoning Resolution permits residential use. In addition to the criteria set forth in subparagraph (A), (B), (C), (E), and (G) of 29 RCNY § 2-08(a)(4)(i), in order for a residential unit to qualify as an IMD unit for purposes of coverage under Article 7-C pursuant to MDL § 281(5), such residence or home must:
+      (iii) Notwithstanding the foregoing, in order for a residential unit to qualify for coverage under Article 7-C pursuant to MDL § 281(5), as set forth in these rules, a residential unit is not required to have been residentially occupied between April 1, 1980 through December 1, 1981, but is required to have been occupied by a family living independently for residential purposes during a period of twelve consecutive months between January 1, 2008 through December 31, 2009, as further delineated in 29 RCNY §§ 2-08(c)(3) and (c)(4), regardless of whether the building is geographically located in an area in which the Zoning Resolution permits residential use. In addition to the criteria set forth in subparagraph (A), (B), (C), (E), and (G) of 29 RCNY § 2-08(a)(4)(i), in order for a residential unit to qualify as an IMD unit for purposes of coverage under Article 7-C pursuant to MDL § 281(5), such residence or home must:
 
          (A) not be located in a "cellar" or "basement," as such terms are defined in MDL §§ 4(37), and 4(38) respectively;
 
@@ -2871,7 +2881,7 @@ Registration as an interim multiple dwelling (hereinafter "IMD") with the New Yo
 
                (c) be located north of 44th Drive, south of Queens Plaza north, and west of 23rd Street; and
 
-         (F) not be located in the same building that contained, as of June 21, 2010, and continuing at the time of the submission of an application for coverage by any party, a use actively and currently pursued that is determined by the Loft Board to be inherently incompatible with residential use, as defined in 29 RCNY § 2-08(k) of these rules.
+         (F) not be located in the same building that contained, as of June 21, 2010, and continuing at the time of the submission of an application for coverage by any party, a use actively and currently pursued that is determined by the Loft Board to be inherently incompatible with residential use, as defined in 29 RCNY § 2-08(k).
 
    (5.) Study area. A study area as found in MDL § 281(2)(iii) is a term referring to an area, defined in § 42-02 of the Zoning Resolution, which is currently zoned as manufacturing and under study by the City Planning Commission for a determination of the appropriateness of the zoning.
 
@@ -2913,9 +2923,9 @@ Registration as an interim multiple dwelling (hereinafter "IMD") with the New Yo
 
 (c) Qualifying period of occupancy.
 
-   (1) Registration with the Loft Board shall be required of any building, structure or portion thereof, which otherwise meets the criteria for an IMD set forth in MDL § 281(1), and these rules, and had at least three units residentially occupied on December 1, 1981, since April 1, 1980. If the building, structure or portion thereof contained three units so occupied on December 1, 1981, and on April 1, 1980, and if such residential use is permissible under the Zoning Resolution as of right, or through grandfathering, or the units are in a study area as defined in 29 RCNY § 2-08(a)(5) of these rules, there shall be a presumption that the building is an IMD and that such units are covered under Article 7-C. However, if there is a determination by the Loft Board that there was a bona fide change to exclusively non-residential use in a unit between April 1, 1980, and December 1, 1981, such unit shall not be counted for purposes of determining whether the building qualifies for coverage as an IMD pursuant to MDL § 281(1). The occupant of any unit which changed to a bona fide exclusively non-residential use must have been a party distinct, and independent of the owner of the building for the presumption of IMD coverage to be rebutted.
+   (1) Registration with the Loft Board shall be required of any building, structure or portion thereof, which otherwise meets the criteria for an IMD set forth in MDL § 281(1), and these rules, and had at least three units residentially occupied on December 1, 1981, since April 1, 1980. If the building, structure or portion thereof contained three units so occupied on December 1, 1981, and on April 1, 1980, and if such residential use is permissible under the Zoning Resolution as of right, or through grandfathering, or the units are in a study area as defined in 29 RCNY § 2-08(a)(5), there shall be a presumption that the building is an IMD and that such units are covered under Article 7-C. However, if there is a determination by the Loft Board that there was a bona fide change to exclusively non-residential use in a unit between April 1, 1980, and December 1, 1981, such unit shall not be counted for purposes of determining whether the building qualifies for coverage as an IMD pursuant to MDL § 281(1). The occupant of any unit which changed to a bona fide exclusively non-residential use must have been a party distinct, and independent of the owner of the building for the presumption of IMD coverage to be rebutted.
 
-   (2) Registration with the Loft Board shall also be required of any building, structure or portion thereof, which otherwise meets the criteria for an IMD set forth in MDL § 281(4), and these rules, that had one or more units residentially occupied on May 1, 1987, since December 1, 1981, that was occupied for residential purposes since April 1, 1980, regardless of whether residential use is permitted under the Zoning Resolution as of right, or through grandfathering as defined in 29 RCNY § 2-08 2-08(a)(2) of these rules, or because the building is located in a study area as defined in 29 RCNY § 2-08(a)(5) of these rules. Residential occupancy of one or more units of the building, structure or portion thereof, as described in this paragraph, on May 1, 1987, on December 1, 1981, and on April 1, 1980, shall create a presumption that the building is an IMD or that such unit or units are covered under Article 7-C. However, if there is a determination by the Loft Board that there was a bona fide change to exclusively non-residential use in a unit between April 1, 1980, and December 1, 1981, or between December 1, 1981 and May 1, 1987, such unit shall not be counted for purposes of determining whether the building qualifies for coverage as an IMD pursuant to MDL § 281(4). The occupant of any unit which changed to a bona fide exclusively non-residential use must have been a party distinct and independent of the owner of the building for the presumption of IMD coverage to be rebutted.
+   (2) Registration with the Loft Board shall also be required of any building, structure or portion thereof, which otherwise meets the criteria for an IMD set forth in MDL § 281(4), and these rules, that had one or more units residentially occupied on May 1, 1987, since December 1, 1981, that was occupied for residential purposes since April 1, 1980, regardless of whether residential use is permitted under the Zoning Resolution as of right, or through grandfathering as defined in 29 RCNY § 2-08(a)(2), or because the building is located in a study area as defined in 29 RCNY § 2-08(a)(5). Residential occupancy of one or more units of the building, structure or portion thereof, as described in this paragraph, on May 1, 1987, on December 1, 1981, and on April 1, 1980, shall create a presumption that the building is an IMD or that such unit or units are covered under Article 7-C. However, if there is a determination by the Loft Board that there was a bona fide change to exclusively non-residential use in a unit between April 1, 1980, and December 1, 1981, or between December 1, 1981 and May 1, 1987, such unit shall not be counted for purposes of determining whether the building qualifies for coverage as an IMD pursuant to MDL § 281(4). The occupant of any unit which changed to a bona fide exclusively non-residential use must have been a party distinct and independent of the owner of the building for the presumption of IMD coverage to be rebutted.
 
    (3) Registration with the Loft Board shall also be required of any building, structure or portion thereof which otherwise meets the criteria for an IMD set forth in MDL § 281(5) and these rules that contained at least three units residentially occupied by families living independently from one another for a period of twelve consecutive months between January 1, 2008 through December 31, 2009, regardless of whether residential use is permitted under the Zoning Resolution. However, if there is a determination by the Loft Board that there was a bona fide change to exclusively non-residential use in a unit during such qualifying twelve consecutive month window period, such unit shall not be counted for purposes of determining whether the building qualifies for coverage as an IMD pursuant to MDL § 281(5). The occupant of any unit which changed to a bona fide exclusively non-residential use must have been a party distinct and independent of the owner of the building for the presumption of IMD coverage to be rebutted. It is not required that the units that seek coverage under MDL § 281(5) occupy their respective units during the same twelve consecutive month period.
 
@@ -2923,21 +2933,21 @@ Registration as an interim multiple dwelling (hereinafter "IMD") with the New Yo
 
    (5) Neither vacancies of any duration for units residentially occupied on:
 
-      (i) December 1, 1981, and on April 1, 1980 as set forth in § 2-08(c)(1) above, or
+      (i) December 1, 1981, and on April 1, 1980 as set forth in 29 RCNY § 2-08(c)(1) above, or
 
       (ii) May 1, 1987, December 1, 1981, and April 1, 1980 as set forth in 29 RCNY § 2-08(c)(2) above, or
 
-      (iii) at any time prior to or following the qualifying twelve consecutive month window period between January 1, 2008 through December 31, 2009, as set forth in 29 RCNY §§ 2-08(c)(3), or (c)(4) above, nor a change or changes of residential occupants in any such units during the intervening period(s) will be the basis for exemption from Article 7-C coverage.
+      (iii) at any time prior to or following the qualifying twelve consecutive month window period between January 1, 2008 through December 31, 2009, as set forth in 29 RCNY §§ 2-08(c)(3) or (c)(4) above, nor a change or changes of residential occupants in any such units during the intervening period(s) will be the basis for exemption from Article 7-C coverage.
 
 (d) Calculation of residential units.
 
    (1) For purposes of counting residential units to determine whether a building qualifies for coverage as an IMD building and must be registered, each unit must meet the criteria set forth in MDL § 281 and these rules, including 29 RCNY § 2-08(a)(4).
 
-      (i) The following types of units may qualify for Article 7-C coverage, provided that each unit satisfies the applicable criteria for coverage set forth in 29 RCNY § 2-08(a)(4) of these rules, pursuant to MDL § 281(1), 281(4), or 281(5):
+      (i) The following types of units may qualify for Article 7-C coverage, provided that each unit satisfies the applicable criteria for coverage set forth in 29 RCNY § 2-08(a)(4), pursuant to MDL § 281(1), 281(4), or 281(5):
 
          (a) any residential unit designated as "Artist in Residence" (A.I.R.) pursuant to directives of the Department of Buildings creating such status;
 
-         (b) any residential unit designated as "joint living work quarters for artists" [pursuant to the Zoning Resolution] except as provided below in 29 RCNY § 2-08(d)(2)(ii) of this subsection;
+         (b) any residential unit designated as "joint living work quarters for artists" [pursuant to the Zoning Resolution] except as provided below in 29 RCNY § 2-08(d)(2)(ii);
 
          (c) any residential unit occupied by a subtenant or assignee of the prime tenant of such unit.
 
@@ -2945,7 +2955,7 @@ Registration as an interim multiple dwelling (hereinafter "IMD") with the New Yo
 
          (A) a portion of the building or structure was occupied at any time for manufacturing, commercial or warehouse purposes;
 
-         (B) the building, structure or portion thereof lacked a residential certificate of occupancy pursuant to MDL § 301 as further delineated in 29 RCNY §§ 2-08(b)(1) and (2) of these rules;
+         (B) the building, structure or portion thereof lacked a residential certificate of occupancy pursuant to MDL § 301 as further delineated in 29 RCNY §§ 2-08(b)(1) and (2);
 
          (C) except as otherwise set forth in MDL § 281(5), and these rules, it contained at least three units residentially occupied on December 1, 1981, since April 1, 1980; and
 
@@ -2987,35 +2997,35 @@ Registration as an interim multiple dwelling (hereinafter "IMD") with the New Yo
 
    (1) Registration as an IMD shall be required of any building, structure, or portion thereof, which meets the criteria for an IMD as set forth in MDL § 281(1), and these rules, including without limitation 29 RCNY § 2-08(a)(4). Notwithstanding the foregoing, any building located in a zoning district designated as manufacturing in the Zoning Resolution, for which district there are no "grandfathering" provisions as defined in these rules shall not qualify as an IMD unless such buildings, structures or portions thereof otherwise meet the criteria of:
 
-      (i) MDL § 281(1), if such IMD building is located in a "Study area" as defined in 29 RCNY § 2-08(a)(5) of these rules, and the registration of such building shall be required, or
+      (i) MDL § 281(1), if such IMD building is located in a "Study area" as defined in 29 RCNY § 2-08(a)(5), and the registration of such building shall be required, or
 
       (ii) MDL § 281(1), if such IMD building also meets the requirements of MDL § 281(4), and the rules issued pursuant thereto, or
 
       (iii) MDL § 281(5), and these rules. Except for a building or structure or portion thereof which qualifies for coverage under Article 7-C solely by reason of MDL §§ 281(4) or 281(5), the zoning regulations, and the grandfathering provisions for the district in which a building or structure is located determine whether and when the owner of such building, which otherwise meets the criteria for an IMD set forth in MDL § 281, and these rules issued pursuant thereto, is mandated to meet the compliance requirements for legalization set forth in MDL § 284(1).
 
-   (2) Any building, structure or portion thereof, which otherwise meets the criteria for an IMD set forth in MDL § 281(1) and these rules, and which is located in an area which permits residential use as of right, shall be obligated to meet the compliance requirements for legalization by the dates designated in MDL § 284(1), except as provided in 29 RCNY §§ 2-08(e)(4)(i), and (iii) infra, and as further delineated in 29 RCNY § 2-01(a) of these rules.
+   (2) Any building, structure or portion thereof, which otherwise meets the criteria for an IMD set forth in MDL § 281(1) and these rules, and which is located in an area which permits residential use as of right, shall be obligated to meet the compliance requirements for legalization by the dates designated in MDL § 284(1), except as provided in 29 RCNY §§ 2-08(e)(4)(i), and (iii) infra, and as further delineated in 29 RCNY § 2-01(a).
 
    (3) Any IMD unit designated as "joint living work quarters for artists" in a zoning district which does not otherwise permit residential use as of right and which is currently occupied by a resident or residents who cannot qualify as certified artists, as defined in § 276 of Article 7-B of the MDL, shall qualify for Article 7-C coverage if the building in which such unit is contained otherwise meets the criteria for an IMD set forth in MDL § 281, and these rules. The non-artist status of the current occupant shall not be the basis for exemption from Article 7-C coverage. At the time of issuance of the final certificate of occupancy, the occupant of such a unit must be in compliance with the Zoning Resolution, or the unit must be vacant.
 
    (4) Legalization compliance timetable.
 
-      (i) For any building, structure or portion thereof, which contains fewer than three residential units as of right and one or more residential units eligible for coverage by employing one of the grandfathering procedures set forth in MDL §§ 281(2)(i) or (iv) and defined in 29 RCNY § 2-08(a)(2) (i) and (ii) of these rules, the timing of the compliance requirements of MDL § 284(1) shall commence upon approval of the grandfathering application of the unit which becomes the third eligible residential unit for purposes of calculation of residential units qualifying the building as an IMD.
+      (i) For any building, structure or portion thereof, which contains fewer than three residential units as of right and one or more residential units eligible for coverage by employing one of the grandfathering procedures set forth in MDL §§ 281(2)(i) or (iv) and defined in 29 RCNY § 2-08(a)(2)(i) and (ii), the timing of the compliance requirements of MDL § 284(1) shall commence upon approval of the grandfathering application of the unit which becomes the third eligible residential unit for purposes of calculation of residential units qualifying the building as an IMD.
 
-      (ii) For any registered building in the category described in 29 RCNY § 2-08(e)(4)(i) of these rules, for which denial of a grandfathering application reduces the number of qualifying residential units below three, IMD status for such building expires and the other residential units in such building cease to be covered by Article 7-C, unless the building qualifies for coverage under Article 7-C pursuant to MDL §§ 281(4) or (5) and these rules.
+      (ii) For any registered building in the category described in 29 RCNY § 2-08(e)(4)(i), for which denial of a grandfathering application reduces the number of qualifying residential units below three, IMD status for such building expires and the other residential units in such building cease to be covered by Article 7-C, unless the building qualifies for coverage under Article 7-C pursuant to MDL §§ 281(4) or (5) and these rules.
 
-      (iii) Any building, structure or portion thereof which contains three or more residential units as of right, and one or more additional units eligible for coverage by employing one of the grandfathering provisions of MDL §§ 281(2)(i) or (iv), shall be obligated to meet the compliance requirements for legalization by the dates designated in MDL § 284(1), as further delineated in 29 RCNY § 2-01(a) of these rules, for such as of right residential units. The timing of the compliance requirements for the other eligible units shall commence as follows:
+      (iii) Any building, structure or portion thereof which contains three or more residential units as of right, and one or more additional units eligible for coverage by employing one of the grandfathering provisions of MDL §§ 281(2)(i) or (iv), shall be obligated to meet the compliance requirements for legalization by the dates designated in MDL § 284(1), as further delineated in 29 RCNY § 2-01(a), for such as of right residential units. The timing of the compliance requirements for the other eligible units shall commence as follows:
 
          (A) Where an application for grandfathering for such unit is made pursuant to one of the procedures designated as a "minor modification" or "administrative certification" in MDL § 281(2)(i), upon a determination of residential occupancy on the date designated in the particular grandfathering provision of the Zoning Resolution;
 
          (B) Where an application for grandfathering for such unit is made pursuant to a "special permit application" as designated in MDL § 281(2)(iv), upon the granting of such special permit.
 
-      (iv) For any unit eligible for coverage by employment of one of the grandfathering procedures set forth in MDL §§ 281(2)(i), or (iv) and defined in 29 RCNY §§ 2-08(a)(2) (i) and (ii), the final denial of a grandfathering application or the failure to apply for grandfathering within the time period specified in the Zoning Resolution will terminate coverage for such unit unless such unit qualifies for coverage under Article 7-C pursuant to MDL § 281(4) or MDL § 281(5).
+      (iv) For any unit eligible for coverage by employment of one of the grandfathering procedures set forth in MDL §§ 281(2)(i), or (iv) and defined in 29 RCNY §§ 2-08(a)(2)(i) and (ii), the final denial of a grandfathering application or the failure to apply for grandfathering within the time period specified in the Zoning Resolution will terminate coverage for such unit unless such unit qualifies for coverage under Article 7-C pursuant to MDL § 281(4) or MDL § 281(5).
 
-      (v) For any building, structure or portion thereof, which otherwise meets the criteria for an IMD set forth in MDL § 281(1) and these rules, but is located in an area designated by the Zoning Resolution as a study area, the timing of the compliance requirements of MDL § 284(1) shall commence upon rezoning of such study area to permit residential use as of right. If the rezoning permits residential use only through grandfathering procedures, the timing of the compliance requirements of MDL § 284(1) and the rules issued pursuant thereto shall commence upon the approval of the grandfathering application of the unit which becomes the third eligible residential unit for purposes of calculation of units qualifying the building as an IMD. For any registered building in a study area as described in 29 RCNY § 2-08(a)(5) of these rules, for which the City Planning Commission approved neither rezoning nor grandfathering by December 31, 1983, IMD status for such building expires and all of the units in such building cease to be covered by Article 7-C, unless there is a recommended extension of such deadline by the City Planning Commission. If the Board of Estimate, or its successor, disapproves rezoning for residential use or grandfathering, or the extension of such deadline, IMD status for such building expires and all the units in such building cease to be covered by Article 7-C. Notwithstanding the foregoing, any building, structure or portion thereof which ceased to be covered under Article 7-C as a result of the failure to rezone the study area, permit grandfathering or to extend the deadlines as set forth in the foregoing paragraph shall be covered by Article 7-C if it meets the criteria of MDL §§ 281(4) or 281(5).
+      (v) For any building, structure or portion thereof, which otherwise meets the criteria for an IMD set forth in MDL § 281(1) and these rules, but is located in an area designated by the Zoning Resolution as a study area, the timing of the compliance requirements of MDL § 284(1) shall commence upon rezoning of such study area to permit residential use as of right. If the rezoning permits residential use only through grandfathering procedures, the timing of the compliance requirements of MDL § 284(1) and the rules issued pursuant thereto shall commence upon the approval of the grandfathering application of the unit which becomes the third eligible residential unit for purposes of calculation of units qualifying the building as an IMD. For any registered building in a study area as described in 29 RCNY § 2-08(a)(5), for which the City Planning Commission approved neither rezoning nor grandfathering by December 31, 1983, IMD status for such building expires and all of the units in such building cease to be covered by Article 7-C, unless there is a recommended extension of such deadline by the City Planning Commission. If the Board of Estimate, or its successor, disapproves rezoning for residential use or grandfathering, or the extension of such deadline, IMD status for such building expires and all the units in such building cease to be covered by Article 7-C. Notwithstanding the foregoing, any building, structure or portion thereof which ceased to be covered under Article 7-C as a result of the failure to rezone the study area, permit grandfathering or to extend the deadlines as set forth in the foregoing paragraph shall be covered by Article 7-C if it meets the criteria of MDL §§ 281(4) or 281(5).
 
       (vi) For any building, structure or portion thereof that meets the criteria for an IMD set forth in MDL § 281(5) and these rules, the timing of the code-compliance deadlines are set forth in MDL § 284(1)(vi) and 29 RCNY §§ 2-01(a)(9) and (10).
 
-      (vii) For any building, structure or portion thereof registered pursuant to MDL § 281(5) for which there is a revocation of IMD status of one or more units in the building by the Executive Director as a result of a determination that such unit(s) did not meet the qualifying criteria set forth in 29 RCNY § 2-08(a)(4) of these rules, and such revocation reduces the number of qualifying residential units below three (or two, with respect to an IMD building located in the geographic area described in 29 RCNY § 2-08(c)(4) of these rules), the IMD status for the entire such building shall expire and each of the units in the building shall be deemed to be "non-covered units". As set forth below, occupants of non-covered units are not entitled to the protections of Article 7-C. Residential occupancy of a non-covered unit shall not be permitted in the building until a final certificate of occupancy that designates the non-covered unit as residential is obtained.
+      (vii) For any building, structure or portion thereof registered pursuant to MDL § 281(5) for which there is a revocation of IMD status of one or more units in the building by the Executive Director as a result of a determination that such unit(s) did not meet the qualifying criteria set forth in 29 RCNY § 2-08(a)(4), and such revocation reduces the number of qualifying residential units below three (or two, with respect to an IMD building located in the geographic area described in 29 RCNY § 2-08(c)(4)), the IMD status for the entire such building shall expire and each of the units in the building shall be deemed to be "non-covered units". As set forth below, occupants of non-covered units are not entitled to the protections of Article 7-C. Residential occupancy of a non-covered unit shall not be permitted in the building until a final certificate of occupancy that designates the non-covered unit as residential is obtained.
 
 (f) Municipally owned buildings.
 
@@ -3025,13 +3035,15 @@ Registration as an interim multiple dwelling (hereinafter "IMD") with the New Yo
 
 (g) Accreted and additional units.
 
-   (1) (i) In a building, structure or portion thereof which meets the criteria of MDL §§ 281(1) and 281(2), or 281(4), and these rules, thereby qualifying as an IMD building, the occupant or occupants of any additional unit residentially occupied for the first time after April 1, 1980 but prior to April 1,1981 in such IMD building may also be covered under Article 7-C pursuant to MDL § 281(3). In order to qualify for coverage pursuant to MDL § 281(3), the occupancy of such unit must be permissible under the Zoning Resolution. For purposes of § 2-09(3) of these rules, occupancy of such additional unit(s) shall be deemed permissible if:
+   (1) (i) In a building, structure or portion thereof which meets the criteria of MDL §§ 281(1) and 281(2), or 281(4), and these rules, thereby qualifying as an IMD building, the occupant or occupants of any additional unit residentially occupied for the first time after April 1, 1980 but prior to April 1,1981 in such IMD building may also be covered under Article 7-C pursuant to MDL § 281(3). In order to qualify for coverage pursuant to MDL § 281(3), the occupancy of such unit must be permissible under the Zoning Resolution. For purposes of 29 RCNY § 2-09(3), occupancy of such additional unit(s) shall be deemed permissible if:
 
          (i) the unit is located in a zoning district where residential use as of right is permitted under the Zoning Resolution; or
 
          (ii) the unit is designated as "joint living work quarters for artist" in a zoning district which does not otherwise permit residential use as of right, regardless of whether the occupant or occupants qualify as "certified artists" as defined in § 12-10 of the Zoning Resolution; or
 
-         (iii) the unit can qualify as having a legal residential use pursuant to one of the grandfathering provisions of the Zoning Resolution, as defined in 29 RCNY § 2-08(a) of these regulations; or (iv) the unit is in a study area, as defined in 29 RCNY § 2-08(a) of these regulations, for which the City Planning Commission has approved either rezoning for residential use or grandfathering by December 31, 1983.
+         (iii) the unit can qualify as having a legal residential use pursuant to one of the grandfathering provisions of the Zoning Resolution, as defined in 29 RCNY § 2-08(a); or
+
+         (iv) the unit is in a study area, as defined in 29 RCNY § 2-08(a), for which the City Planning Commission has approved either rezoning for residential use or grandfathering by December 31, 1983.
 
       (ii) In a building, structure, or portion thereof that meets the criteria of MDL §§ 281(1), and 281(2), or 281(4), and these rules, thereby qualifying as an IMD building, the occupant or occupants of any additional unit residentially occupied during a period of twelve consecutive months between January 1, 2008 through December 31, 2009, in the IMD building may also be covered under Article 7-C provided that such additional unit meets the criteria set forth in MDL § 281(5) and as further delineated in these rules, including 29 RCNY § 2-08(a)(4).
 
@@ -3041,7 +3053,7 @@ Registration as an interim multiple dwelling (hereinafter "IMD") with the New Yo
 
       1.) after December 1, 1981 but prior to May 1, 1987 of a unit which qualifies for coverage under Article 7-C solely by reason of MDL § 281(4), or
 
-      2.) during the twelve month period required for coverage pursuant to MDL § 281(5), will result in such unit being exempt from Article 7-C coverage. Solely with respect to such instances, the remaining residentially occupied units, limited to units in existence during the qualifying period of occupancy, set forth in MDL § 281(1)(iii), 281(4) or 281(5), as further delineated in § 2-08(c) of these rules, and accreted units as defined in MDL § 281(3) and 29 RCNY § 2-08(g)(1) of these rules, shall be entitled to the protections of Article 7-C, including the legalization requirements of MDL § 284(1), provided these units also meet the statute of limitations requirements for coverage in MDL § 282-a.
+      2.) during the twelve month period required for coverage pursuant to MDL § 281(5), will result in such unit being exempt from Article 7-C coverage. Solely with respect to such instances, the remaining residentially occupied units, limited to units in existence during the qualifying period of occupancy, set forth in MDL § 281(1)(iii), 281(4) or 281(5), as further delineated in § 2-08(c), and accreted units as defined in MDL § 281(3) and 29 RCNY § 2-08(g)(1), shall be entitled to the protections of Article 7-C, including the legalization requirements of MDL § 284(1), provided these units also meet the statute of limitations requirements for coverage in MDL § 282-a.
 
 (h) Non-covered units in an IMD.
 
@@ -3071,7 +3083,7 @@ Registration as an interim multiple dwelling (hereinafter "IMD") with the New Yo
 
       (iii) is or should be classified as High-Hazard Group H occupancy as set forth in Section 307 of the New York City Building Code.
 
-(l) Residential Unit: For the purposes of subsections (j) through (s), in addition to the definition of Residential Unit in 29 RCNY § 2-08 (a) (4) above, a residential unit may contain a non-residential use that:
+(l) Residential Unit: For the purposes of subsections (j) through (s), in addition to the definition of Residential Unit in 29 RCNY § 2-08(a)(4) above, a residential unit may contain a non-residential use that:
 
    (1) is clearly incidental to or secondary to the residential use of the residential unit;
 
@@ -3093,7 +3105,7 @@ Registration as an interim multiple dwelling (hereinafter "IMD") with the New Yo
 
 (p) Use after June 21, 2010. A commercial, manufacturing or industrial tenant engaged in an inherently incompatible use as described in subdivision (k) after June 21, 2010 shall not disqualify a building from Article 7-C coverage that otherwise qualifies for coverage.
 
-(q) Tenant applications for coverage. For all applications for coverage filed pursuant to § 1-06, except for any unit eligible for coverage pursuant to MDL § 281(5) that is located in a building registered as an IMD under MDL §§ 281(1) or (4), the applicant seeking coverage under Article 7-C of the MDL must establish by a preponderance of the evidence that there are no commercial, manufacturing or industrial uses in the non-residential units that are inherently incompatible with residential use as defined in subdivision (k) in the building as of June 21, 2010 and continuing at the time of the submission of an application for coverage by any party.
+(q) Tenant applications for coverage. For all applications for coverage filed pursuant to 29 RCNY § 1-06, except for any unit eligible for coverage pursuant to MDL § 281(5) that is located in a building registered as an IMD under MDL §§ 281(1) or (4), the applicant seeking coverage under Article 7-C of the MDL must establish by a preponderance of the evidence that there are no commercial, manufacturing or industrial uses in the non-residential units that are inherently incompatible with residential use as defined in subdivision (k) in the building as of June 21, 2010 and continuing at the time of the submission of an application for coverage by any party.
 
 (r) Site visits. The Executive Director may conduct, or designate a Loft Board staff member to conduct, a site visit to the building for which coverage under Article 7-C of the MDL is being sought. The building owner shall arrange for the Executive Director and/or the Loft Board's staff to have access to the non-residential spaces upon reasonable notice. The Executive Director, or his/her staff, may also conduct informal conferences regarding the owner's registration application. The Executive Director may request additional information from the owner, building tenants or government agencies about the non-residential uses in the building on June 21, 2010 and continuing at the time of the submission of an application for coverage by any party.
 
@@ -3223,7 +3235,7 @@ Registration as an interim multiple dwelling (hereinafter "IMD") with the New Yo
 
          (C) If the IMD unit became subject to Article 7-C pursuant to Chapter 135 or 147 of the Laws of 2010, and the sublease is no longer in effect, the prime lessee or sublessor must exercise the right to recover the unit on or before December 10, 2013, 90 days after the effective date of this amended rule, or if the unit is not subject to Article 7-C on September 11, 2013 the effective date of this amended rule, 90 days following the finding of coverage by a Loft Board order, a finding of coverage by a court of competent jurisdiction, or the issuance of an IMD registration number after filing of a registration application, whichever is earlier.
 
-   (5) Where a prime lessee is in possession of a portion of the space which he or she leased from the landlord, such prime lessee is entitled to remain in possession, and is qualified for protection under Article 7-C, only with respect to the portion of such space which he or she occupied as a residential unit, including any portion thereof used for home occupations or as the working portion of a joint-living-working quarters for artists. The prime lessee is not entitled to claim any of the remaining portion of the leased space as primary residence against the occupant of any other residential unit within such space, except to the extent provided for in 29 RCNY § 2-09(c)(5) below, and subject to the provisions of 29 RCNY §§ 2-09(b)(3) and (b)(4) above. The current residential occupants of the remaining unit(s) created through subdivision are qualified for protection under Article 7-C with regard to their respective residential units covered by Article 7-C, except as provided in 29 RCNY §§ 2-09(b)(3) and (b)(4) of these rules.
+   (5) Where a prime lessee is in possession of a portion of the space which he or she leased from the landlord, such prime lessee is entitled to remain in possession, and is qualified for protection under Article 7-C, only with respect to the portion of such space which he or she occupied as a residential unit, including any portion thereof used for home occupations or as the working portion of a joint-living-working quarters for artists. The prime lessee is not entitled to claim any of the remaining portion of the leased space as primary residence against the occupant of any other residential unit within such space, except to the extent provided for in 29 RCNY § 2-09(c)(5) below, and subject to the provisions of 29 RCNY §§ 2-09(b)(3) and (b)(4) above. The current residential occupants of the remaining unit(s) created through subdivision are qualified for protection under Article 7-C with regard to their respective residential units covered by Article 7-C, except as provided in 29 RCNY §§ 2-09(b)(3) and (b)(4).
 
 (c) Rights, obligations and legal relationships among the parties.
 
@@ -3235,15 +3247,15 @@ Registration as an interim multiple dwelling (hereinafter "IMD") with the New Yo
 
          (A) There is a lease or rental agreement in effect for the residential unit between the prime lessee and the residential occupant; or
 
-         (B) There is a lease or rental agreement in effect for the residential unit or the space in which it is located, between the landlord and the prime lessee. No lease or rental agreement between the prime lessee and the residential occupant has any force or effect beyond the term of the lease or rental agreement between the prime lessee and the landlord, except as provided in 29 RCNY §§ 2-09(c)(6) or (c)(7) of these rules.
+         (B) There is a lease or rental agreement in effect for the residential unit or the space in which it is located, between the landlord and the prime lessee. No lease or rental agreement between the prime lessee and the residential occupant has any force or effect beyond the term of the lease or rental agreement between the prime lessee and the landlord, except as provided in 29 RCNY §§ 2-09(c)(6) or (c)(7).
 
       (ii) Privity Between Landlord and Prime Lessee. The prime lessee and the landlord are deemed to be in privity when there is a lease or rental agreement in effect between them.
 
-      (iii) Privity Between Residential Occupant and Landlord. The residential occupant and the landlord are deemed to be in privity when the residential occupant is the prime lessee; or when the lease or rental agreement between the prime lessee and the landlord, covering the residential occupant's unit or the space in which it is located, is no longer in effect. All leases or rental agreements, except subleases entered into pursuant to § 226-b of the Real Property Law ("RPL") and 29 RCNY § 2-09(c)(4) of these rules, which have not expired will be deemed to be no longer in effect upon certification by the Department of Buildings of the landlord's compliance with the fire and safety protection standards of Article 7-B. Upon such certification, a residential lease subject to the Emergency Tenant Protection Act of nineteen seventy-four must be offered to the residential occupant, pursuant to § 286(3) of the MDL.
+      (iii) Privity Between Residential Occupant and Landlord. The residential occupant and the landlord are deemed to be in privity when the residential occupant is the prime lessee; or when the lease or rental agreement between the prime lessee and the landlord, covering the residential occupant's unit or the space in which it is located, is no longer in effect. All leases or rental agreements, except subleases entered into pursuant to § 226-b of the Real Property Law ("RPL") and 29 RCNY § 2-09(c)(4), which have not expired will be deemed to be no longer in effect upon certification by the Department of Buildings of the landlord's compliance with the fire and safety protection standards of Article 7-B. Upon such certification, a residential lease subject to the Emergency Tenant Protection Act of nineteen seventy-four must be offered to the residential occupant, pursuant to § 286(3) of the MDL.
 
    (3) Services.
 
-      (i) When the landlord and residential occupant are in privity, the landlord is responsible for meeting the minimum housing maintenance standards established by the Loft Board in 29 RCNY § 2-04 of these rules.
+      (i) When the landlord and residential occupant are in privity, the landlord is responsible for meeting the minimum housing maintenance standards established by the Loft Board in 29 RCNY § 2-04.
 
       (ii) When the prime lessee and the residential occupant are in privity, there must not be any diminution of services provided by the prime lessee to the residential occupant. The prime lessee is responsible for meeting the minimum housing maintenance standards established by the Loft Board, to the extent such standards are required pursuant to the lease or rental agreement between the prime lessee and the residential occupant, and to the extent those services are within the control of the prime lessee. Otherwise, all services must be provided by the landlord.
 
@@ -3269,15 +3281,15 @@ Registration as an interim multiple dwelling (hereinafter "IMD") with the New Yo
 
          (H) Notwithstanding the provisions of clauses (F) and (G) of 29 RCNY § 2-09(c)(4)(ii), the provisions in clauses (A) through (E) of 29 RCNY § 2-09(c)(4)(ii) apply to all subleases for IMD units that are subject to Article 7-C by reason of MDL § 281(5) commencing on or after September 11, 2013, the effective date of this amended rule. Subleases for such units entered into on or after June 21, 2010, but before September 11, 2013 are not subject to clauses (A), (C) and (E), but are subject to clauses (B) and (D) of 29 RCNY § 2-09(c)(4)(ii) and the provisions of § 226-b of the RPL, in effect at the commencement of the sublease.
 
-      (iii) If any clause, sentence, paragraph, subdivision or part of this 29 RCNY § 2-09(c)(4) of these rules is adjudged by any court of competent jurisdiction to be invalid, the judgment shall not render invalid this entire section on subletting rights of residential occupants.
+      (iii) If any clause, sentence, paragraph, subdivision or part of this 29 RCNY § 2-09(c)(4) is adjudged by any court of competent jurisdiction to be invalid, the judgment shall not render invalid this entire section on subletting rights of residential occupants.
 
    (5) Prime Lessee's Right to Recover Subdivided Space.
 
-      (i) Lease Between Prime Lessee and Landlord is in Effect and Residential Occupant Voluntarily Vocates the Subdivided Portion. Where the prime lessee is the residential occupant of a portion of the space leased from the landlord and the lease or rental agreement between the prime lessee and the landlord is in effect, the prime lessee may recover for his or her own personal use, a residential unit located within the leased space voluntarily vacated by the residential occupant prior to the establishment of privity between such residential occupant and the landlord. The right to recover space pursuant to this rule is not available to a prime lessee found by the Loft Board to have harassed any residential occupant(s). The recovered space will be deemed part of the prime lessee's residential unit, and in no event may the prime lessee relet such space for any purposes whatsoever, except that the prime lessee retains the same rights to sublet the entire residential unit as provided in 29 RCNY § 2-09(c)(4) of these rules.
+      (i) Lease Between Prime Lessee and Landlord is in Effect and Residential Occupant Voluntarily Vocates the Subdivided Portion. Where the prime lessee is the residential occupant of a portion of the space leased from the landlord and the lease or rental agreement between the prime lessee and the landlord is in effect, the prime lessee may recover for his or her own personal use, a residential unit located within the leased space voluntarily vacated by the residential occupant prior to the establishment of privity between such residential occupant and the landlord. The right to recover space pursuant to this rule is not available to a prime lessee found by the Loft Board to have harassed any residential occupant(s). The recovered space will be deemed part of the prime lessee's residential unit, and in no event may the prime lessee relet such space for any purposes whatsoever, except that the prime lessee retains the same rights to sublet the entire residential unit as provided in 29 RCNY § 2-09(c)(4).
 
-      (ii) Prime Lessee's Right to Compensation for Improvements When the Residential Occupant Voluntarily Vocates the Subdivided Portion. Where a prime lessee waives the right to recover a residential unit in space leased by a prime lessee and vacated by the residential occupant, the prime lessee may sell improvements to the unit made or purchased by the prime lessee to an incoming tenant, provided that the prime lessee first offers the improvements to the landlord for an amount equal to their fair market value pursuant to § 286(6) of the MDL and the Loft Board rules. If the incoming tenant purchases the improvements, the incoming tenant is deemed in privity with the landlord, and the initial maximum rent is to be determined in accordance with 29 RCNY § 2-09(c)(6)(ii)(A) of these rules. If the landlord purchases the improvements, the rent due shall be the initial market rental subject to subsequent rent regulation if the IMD has six or more residential units and if the sole basis for rent regulation is Article 7-C.
+      (ii) Prime Lessee's Right to Compensation for Improvements When the Residential Occupant Voluntarily Vocates the Subdivided Portion. Where a prime lessee waives the right to recover a residential unit in space leased by a prime lessee and vacated by the residential occupant, the prime lessee may sell improvements to the unit made or purchased by the prime lessee to an incoming tenant, provided that the prime lessee first offers the improvements to the landlord for an amount equal to their fair market value pursuant to § 286(6) of the MDL and the Loft Board rules. If the incoming tenant purchases the improvements, the incoming tenant is deemed in privity with the landlord, and the initial maximum rent is to be determined in accordance with 29 RCNY § 2-09(c)(6)(ii)(A). If the landlord purchases the improvements, the rent due shall be the initial market rental subject to subsequent rent regulation if the IMD has six or more residential units and if the sole basis for rent regulation is Article 7-C.
 
-      (iii) Lease Between Prime Lessee and Landlord is in Effect and Prime Lessee Wants to Recover the Subdivided Portion. Where the prime lessee is the residential occupant of a portion of the space the prime lessee has leased from the landlord and the lease or rental agreement between the prime lessee and the landlord is in effect, the prime lessee may recover for his or her own personal use, a residential unit located within the leased space, if the residential occupant of the unit agrees to the purchase by the prime lessee of the occupant's rights in the unit. The recovered space will be deemed part of the prime lessee's residential IMD unit, and in no event may the prime lessee relet such space for any purpose whatsoever, except that the prime lessee retains the same rights to sublet the entire residential IMD unit as provided in 29 RCNY § 2-09(c)(4) of these rules.
+      (iii) Lease Between Prime Lessee and Landlord is in Effect and Prime Lessee Wants to Recover the Subdivided Portion. Where the prime lessee is the residential occupant of a portion of the space the prime lessee has leased from the landlord and the lease or rental agreement between the prime lessee and the landlord is in effect, the prime lessee may recover for his or her own personal use, a residential unit located within the leased space, if the residential occupant of the unit agrees to the purchase by the prime lessee of the occupant's rights in the unit. The recovered space will be deemed part of the prime lessee's residential IMD unit, and in no event may the prime lessee relet such space for any purpose whatsoever, except that the prime lessee retains the same rights to sublet the entire residential IMD unit as provided in 29 RCNY § 2-09(c)(4).
 
       (iv) Lease Between Prime Lessee and Landlord No Longer In Effect and Prime Lessee Wants to Recover Subdivided Portion. Where the lease or rental agreement between the prime lessee and the landlord is no longer in effect, the prime lessee's right to recover space pursuant to this subsection expires on:
 
@@ -3325,7 +3337,7 @@ Registration as an interim multiple dwelling (hereinafter "IMD") with the New Yo
 
 (C) (a) Maximum Permissible Rent When Prime Lessee is Residential Occupant of a Portion of Leased Space and Lease is in Effect. If the prime lessee is the residential occupant of a portion of the space leased from the landlord and the lease or rental agreement between the prime lessee and the landlord is in effect for the entire space, the maximum permissible rent is the amount specified in the lease or rental agreement for the entire space and any permissible increases pursuant to any relevant orders or rules of the Loft Board.
 
-   (b) Maximum Permissible Rent When the Prime Lessee is Residential Occupant of a Portion of Leased Space and the Lease Between the Prime Lessee and the Landlord is Not in Effect. If the prime lessee is the residential occupant of a portion of the space leased from the landlord and the lease or rental agreement between the prime lessee and the landlord is no longer in effect for a residential unit or unit located in a portion of such leased space, because privity has been established between the residential occupant(s) of the subdivided unit or unit(s) and the landlord pursuant to 29 RCNY § 2-09(c)(2)(iii) of these rules, the maximum permissible rent shall be based on the rent paid by the prime lessee to the landlord under the most recent rental agreement for the entire space, plus any increases permissible under 29 RCNY § 2-06 for an IMD unit subject to Article 7-C by reason of MDL § 281(1); or, under 29 RCNY § 2-06.1 for any IMD unit(s) subject to Article 7-C solely by reason of MDL § 281(4); or under 29 RCNY § 2-06.2 for an IMD unit subject to Article 7-C by reason of MDL § 281(5); and subject to any other relevant orders or rules of the Loft Board. The maximum permissible rent payable by the prime lessee to the landlord is equal to the percentage of the rent so calculated, equivalent to a fraction:
+   (b) Maximum Permissible Rent When the Prime Lessee is Residential Occupant of a Portion of Leased Space and the Lease Between the Prime Lessee and the Landlord is Not in Effect. If the prime lessee is the residential occupant of a portion of the space leased from the landlord and the lease or rental agreement between the prime lessee and the landlord is no longer in effect for a residential unit or unit located in a portion of such leased space, because privity has been established between the residential occupant(s) of the subdivided unit or unit(s) and the landlord pursuant to 29 RCNY § 2-09(c)(2)(iii), the maximum permissible rent shall be based on the rent paid by the prime lessee to the landlord under the most recent rental agreement for the entire space, plus any increases permissible under 29 RCNY § 2-06 for an IMD unit subject to Article 7-C by reason of MDL § 281(1); or, under 29 RCNY § 2-06.1 for any IMD unit(s) subject to Article 7-C solely by reason of MDL § 281(4); or under 29 RCNY § 2-06.2 for an IMD unit subject to Article 7-C by reason of MDL § 281(5); and subject to any other relevant orders or rules of the Loft Board. The maximum permissible rent payable by the prime lessee to the landlord is equal to the percentage of the rent so calculated, equivalent to a fraction:
 
       (1) The numerator of which is the square footage of the leased space occupied by the prime lessee's unit, plus the square footage of any other unit regarding which the prime lessee remains in privity with the residential occupant, and
 
@@ -3345,7 +3357,7 @@ Registration as an interim multiple dwelling (hereinafter "IMD") with the New Yo
 
    The landlord may exercise the option to make a single lump sum payment at any time. If the landlord chooses the option of a single lump sum payment, after the prime lessee has commenced paying a rent calculated under item (1) above, the single lump sum payment due to the prime lessee from the landlord may not be diminished by the amount of the prior reductions in rent. Upon payment of the single lump sum payment, the landlord may increase the prime lessee's monthly rent to the maximum permissible rent allowable under 29 RCNY § 2-09(c)(6)(ii)(D)(a) above. Any prime lessee found to have harassed any residential occupant is not entitled to the rent reduction or single lump sum payment provided for in items (1) and (2) above, respectively.
 
-   (c) Effective Date of Rent Adjustments. The rent adjustments provided in 29 RCNY § 2-09(c)(6)(ii)(A) and 29 RCNY § 2-09(c)(6)(ii)(D) apply to the next regular rent payment due on or after:
+   (c) Effective Date of Rent Adjustments. The rent adjustments provided in 29 RCNY § 2-09(c)(6)(ii)(A) and (c)(6)(ii)(D) apply to the next regular rent payment due on or after:
 
       (i) July 5, 1988, for IMD units subject to Article 7-C pursuant to MDL § 281(1);
 
@@ -3367,7 +3379,7 @@ Otherwise, the rent adjustments apply to the next regular rent payment due after
 
       (ii) Agreements for Compensation for Improvements. The prime lessee or sublessor and the residential occupant may agree to payment of such compensation upon any terms that are mutually acceptable, at any time prior to the deadline for the filing of an application as described in subparagraph (iii) below. All such agreements must be submitted to the Loft Board within 90 calendar days following their execution.
 
-      (iii) Limitation on Right to Compensation. If the parties are unable to agree upon the amount and terms of compensation prior to the establishment of privity between the residential occupant and the landlord, as defined in 29 RCNY § 2-09(c)(2) of these rules, the prime lessee, sublessor, or residential occupant, may apply to the Loft Board for resolution of the dispute over compensation of the prime lessee or sublessor. Such application may be brought after the residential unit has been registered with the Loft Board without timely contest of coverage or determined to be covered under Article 7-C by Loft Board order or a court of competent jurisdiction, but no later than 180 calendar days after the later of:
+      (iii) Limitation on Right to Compensation. If the parties are unable to agree upon the amount and terms of compensation prior to the establishment of privity between the residential occupant and the landlord, as defined in 29 RCNY § 2-09(c)(2), the prime lessee, sublessor, or residential occupant, may apply to the Loft Board for resolution of the dispute over compensation of the prime lessee or sublessor. Such application may be brought after the residential unit has been registered with the Loft Board without timely contest of coverage or determined to be covered under Article 7-C by Loft Board order or a court of competent jurisdiction, but no later than 180 calendar days after the later of:
 
          (A) May 6, 1988, for IMD unit(s) subject to Article 7-C by reason of § 281(1); or
 
@@ -3379,7 +3391,7 @@ Otherwise, the rent adjustments apply to the next regular rent payment due after
 
          (E) The earlier of the date the landlord's registration of the residential unit without timely contest of coverage or the date of the determination of coverage of the residential unit by the Loft Board or a court of competent jurisdiction.
 
-      The application must comply with the rules of the Loft Board governing applications, including 29 RCNY § 1-06(a) of these rules. The affected parties are limited to the prime lessee or sublessor, the residential occupant, and the owner. The application fee is due and payable at the time of filing the application.
+      The application must comply with the rules of the Loft Board governing applications, including 29 RCNY § 1-06(a). The affected parties are limited to the prime lessee or sublessor, the residential occupant, and the owner. The application fee is due and payable at the time of filing the application.
 
       (iv) Factors to Determine Whether Compensation is Due. The Loft Board must first determine whether any compensation is due and payable to the prime lessee or sublessor, as applicable, based on consideration of the following factors:
 
@@ -3389,7 +3401,7 @@ Otherwise, the rent adjustments apply to the next regular rent payment due after
 
       (v) Factors to Determine the Amount Due for Improvements. If it is determined that the prime lessee or sublessor, as applicable, did incur costs for improvements for which he or she has not yet been compensated, the Loft Board will determine the amount due and payable in accordance with the following criteria:
 
-         (A) All improvements as defined in 29 RCNY § 2-07 of these rules, are compensable;
+         (A) All improvements as defined in 29 RCNY § 2-07, are compensable;
 
          (B) The Loft Board will establish the value of the improvements by determining the actual costs incurred for the improvements based on evidence presented;
 
@@ -3399,7 +3411,7 @@ Otherwise, the rent adjustments apply to the next regular rent payment due after
 
       (vii) (A) Compensation by the Owner. A residential occupant may offer the landlord an opportunity to compensate the prime lessee or sublessor for costs incurred for improvements made or purchased in developing a residential IMD unit. The compensation to be paid by the landlord is the amount determined by agreement of the prime lessee or sublessor, as applicable, and the residential occupant, pursuant to subparagraph (7)(ii) above, or as determined by the Loft Board pursuant to subparagraph (7)(v) above. If the landlord chooses to pay this compensation to the prime lessee or sublessor, the residential occupant remains the occupant qualified for Article 7-C protection, except that the residential occupant will have no right to sell such improvements purchased by the landlord pursuant to § 286(6) of the MDL. Compensation of the prime lessee or sublessor by the landlord does not affect the rent due from the residential occupant;
 
-         (B) if the landlord compensates the prime lessee or sublessor pursuant to (A) above, the prime lessee or sublessor will have no right to recover the unit for his or her own personal use pursuant to 29 RCNY §§ 2-09(b)(4) and (c)(5) of these rules. When the residential occupant vacates the unit, the landlord is entitled to lease the unit at market rent, absent a finding by the Loft Board of harassment by the landlord of occupants;
+         (B) if the landlord compensates the prime lessee or sublessor pursuant to (A) above, the prime lessee or sublessor will have no right to recover the unit for his or her own personal use pursuant to 29 RCNY §§ 2-09(b)(4) and (c)(5). When the residential occupant vacates the unit, the landlord is entitled to lease the unit at market rent, absent a finding by the Loft Board of harassment by the landlord of occupants;
 
          (C) if the landlord declines the opportunity to compensate the prime lessee or sublessor, the residential occupant remains responsible for the compensation payment established pursuant to subparagraphs (ii) or (v) above.
 
@@ -3439,7 +3451,7 @@ Otherwise, the rent adjustments apply to the next regular rent payment due after
 
 The Loft Board's approved form must be signed by the owner or its authorized representative and the occupant and his or her authorized representative, if any, who sold rights to the unit. If the occupant refuses to sign the form, the owner or its authorized representative must file with the form a sworn statement identifying the occupant, the reasons given by such occupant for refusing to execute the form and proof of the sale of rights, including supporting documentation. If the prior occupant could not be found, the owner or its representative must provide a description of the reasonable efforts used to locate the occupant and must file proof of the sale of rights including supporting documentation.
 
-Except as provided in paragraph (c) below, failure by the owner or the owner's authorized representative to file a sales record form within 30 calendar days of the date of the sale may subject the owner to a civil penalty as determined by the Loft Board in 29 RCNY § 2-11.1 of the Loft Board Rules.
+Except as provided in paragraph (c) below, failure by the owner or the owner's authorized representative to file a sales record form within 30 calendar days of the date of the sale may subject the owner to a civil penalty as determined by the Loft Board in 29 RCNY § 2-11.1.
 
 (c) Filing requirement for sales which occurred prior to the effective date of these rules.
 
@@ -3453,17 +3465,17 @@ Except as provided in paragraph (c) below, failure by the owner or the owner's a
 
    (2) The sales record form must contain a sworn statement by the owner or its authorized representative, on a form issued by the Loft Board, as to the current use and occupancy of the unit. If the owner intends to use the unit for non-residential purposes, the owner must: a) disclose its intention on the sales record form; and b) include a declaration of intent by the owner or its authorized representative that the use is consistent with applicable provisions of the New York City Zoning Resolution and the New York City Administrative Code, and in conformity with any existing certificate of occupancy, and any other source of legal authorization for such use.
 
-   (3) If the owner indicates in the sales record an intention to use the unit for non-residential purposes, the unit will be subject to inspection to determine its compliance with the requirements set forth in 29 RCNY § 2-10(d)(1)(ii) of these rules.
+   (3) If the owner indicates in the sales record an intention to use the unit for non-residential purposes, the unit will be subject to inspection to determine its compliance with the requirements set forth in 29 RCNY § 2-10(d)(1)(ii).
 
-   (4) Failure by the owner or the owner's authorized representative to timely file a sales record form may subject the owner to a civil penalty as determined by the Loft Board in 29 RCNY § 2-11.1 of the Loft Board rules. The Loft Board may inspect any unit for which a sale of rights has occurred prior to the effective date of these rules. The Loft Board may also inspect any unit for which a sales record form was not timely filed to determine the current use of space.
+   (4) Failure by the owner or the owner's authorized representative to timely file a sales record form may subject the owner to a civil penalty as determined by the Loft Board in 29 RCNY § 2-11.1. The Loft Board may inspect any unit for which a sale of rights has occurred prior to the effective date of these rules. The Loft Board may also inspect any unit for which a sales record form was not timely filed to determine the current use of space.
 
 (d) Effect of sales.
 
    (1) Non-Residential use.
 
-      (i) If the unit is to be used for non-residential purposes after a sale of rights pursuant to MDL § 286(12), upon approval by the Loft Board, the owner will be relieved of its obligations to comply with the requirements of Article 7-C of the MDL regarding such unit. The non-residential use must comply with applicable provisions of the New York City Zoning Resolution and the New York City Administrative Code, and with any existing certificate of occupancy for the unit, and any other source of legal authorization for such use. The unit may not be converted to non-residential use if there is a harassment finding by the Loft Board as to any occupants of the unit that the Loft Board has not terminated pursuant to 29 RCNY § 2-02(d)(2) of these rules. If the Loft Board issues a harassment finding after the sale of rights, the owner is permitted to convert the IMD unit to non-residential use, provided that all other applicable requirements in this section are met.
+      (i) If the unit is to be used for non-residential purposes after a sale of rights pursuant to MDL § 286(12), upon approval by the Loft Board, the owner will be relieved of its obligations to comply with the requirements of Article 7-C of the MDL regarding such unit. The non-residential use must comply with applicable provisions of the New York City Zoning Resolution and the New York City Administrative Code, and with any existing certificate of occupancy for the unit, and any other source of legal authorization for such use. The unit may not be converted to non-residential use if there is a harassment finding by the Loft Board as to any occupants of the unit that the Loft Board has not terminated pursuant to 29 RCNY § 2-02(d)(2). If the Loft Board issues a harassment finding after the sale of rights, the owner is permitted to convert the IMD unit to non-residential use, provided that all other applicable requirements in this section are met.
 
-      (ii) Prior to conversion to a non-residential use, the owner or its authorized representative must file with the Loft Board a declaration of intent on a form issued by the Loft Board stating that the unit will only be occupied for a conforming non-residential use. Following the Loft Board's receipt of the filing, the Loft Board must conduct or require an inspection of the premises to verify that the following fixtures, as defined in 29 RCNY § 2-07(a) of these rules, have been removed or approved: (1) fixtures that were constructed or installed without necessary approvals by the appropriate government agencies and for which approvals have not been secured, and (2) fixtures that are intended primarily for residential occupancy.
+      (ii) Prior to conversion to a non-residential use, the owner or its authorized representative must file with the Loft Board a declaration of intent on a form issued by the Loft Board stating that the unit will only be occupied for a conforming non-residential use. Following the Loft Board's receipt of the filing, the Loft Board must conduct or require an inspection of the premises to verify that the following fixtures, as defined in 29 RCNY § 2-07(a), have been removed or approved: (1) fixtures that were constructed or installed without necessary approvals by the appropriate government agencies and for which approvals have not been secured, and (2) fixtures that are intended primarily for residential occupancy.
 
       The results of this inspection will be reported to the owner or its authorized representative. A determination on the request for non-residential conversion will be issued after the removal or approval of these fixtures has been verified. Any disputes will be resolved by application to the Loft Board.
 
@@ -3471,9 +3483,9 @@ Except as provided in paragraph (c) below, failure by the owner or the owner's a
 
       (iv) When the conversion of a unit to a non-residential conforming use reduces the number of IMD units below three or two, as provided by MDL § 281(5), the IMD status for the building and for the remaining IMD units in the building, and the protections provided in Article 7-C to the protected occupants will not be eliminated.
 
-      (v) Notwithstanding the provisions of 29 RCNY § 2-01(l) of these Rules, if conversion of a unit to a non-residential conforming use increases the costs of legalization under MDL § 284 for the remaining IMD units, the additional increased costs must be paid by the owner and may not be passed through to the remaining residential occupants pursuant to Article 7-C and these Rules.
+      (v) Notwithstanding the provisions of 29 RCNY § 2-01(l), if conversion of a unit to a non-residential conforming use increases the costs of legalization under MDL § 284 for the remaining IMD units, the additional increased costs must be paid by the owner and may not be passed through to the remaining residential occupants pursuant to Article 7-C and these Rules.
 
-   (2) Residential use. If the unit is to remain residential after a sale of rights pursuant to MDL § 286(12), the owner remains subject to all of the requirements of Article 7-C, these rules and orders of the Loft Board, including the legalization requirements of MDL § 284, except that the unit is no longer subject to rent regulation where coverage under Article 7-C was the sole basis for such rent regulation. The exemption from rent regulation will not be permitted if there is a finding by the Loft Board of harassment as to any occupant(s) in the IMD unit which has not been terminated pursuant to 29 RCNY § 2-02(d)(2) of these rules.
+   (2) Residential use. If the unit is to remain residential after a sale of rights pursuant to MDL § 286(12), the owner remains subject to all of the requirements of Article 7-C, these rules and orders of the Loft Board, including the legalization requirements of MDL § 284, except that the unit is no longer subject to rent regulation where coverage under Article 7-C was the sole basis for such rent regulation. The exemption from rent regulation will not be permitted if there is a finding by the Loft Board of harassment as to any occupant(s) in the IMD unit which has not been terminated pursuant to 29 RCNY § 2-02(d)(2).
 
    (3) Termination of harassment. If a sale of rights pursuant to MDL § 286(12) occurs during the period between the date of the order finding harassment and the date of the order terminating the harassment finding, the sale of rights does not relieve the owner of the requirements of Article 7-C, including rent regulation, and the owner may not convert the unit to non-residential use. The effect of a termination of harassment finding applies prospectively only.
 
@@ -3481,7 +3493,7 @@ Except as provided in paragraph (c) below, failure by the owner or the owner's a
 
 (f) Abandonment of IMD unit.
 
-   (1) An owner or its authorized representative may apply to the Loft Board for a determination that the occupant of an IMD unit has abandoned the unit and no sale of rights pursuant to MDL § 286(12) or sale of improvements pursuant to MDL § 286(6) has been executed, provided there has been no finding of harassment as to any occupant(s) of the unit which has not been terminated pursuant to 29 RCNY § 2-02(d)(2) of these Rules.
+   (1) An owner or its authorized representative may apply to the Loft Board for a determination that the occupant of an IMD unit has abandoned the unit and no sale of rights pursuant to MDL § 286(12) or sale of improvements pursuant to MDL § 286(6) has been executed, provided there has been no finding of harassment as to any occupant(s) of the unit which has not been terminated pursuant to 29 RCNY § 2-02(d)(2).
 
    (2) Abandonment means the relinquishment of possession of a unit and all rights relating to a unit either: (i) voluntarily, with the intention of never resuming possession or reclaiming the rights surrendered, or (ii) by the death of the IMD tenant, provided no family member, as defined in 29 RCNY § 2-08.1(c)(3), is denied the benefits of succession rights in accordance with 29 RCNY § 2-08.1.
 
@@ -3509,11 +3521,11 @@ Except as provided in paragraph (c) below, failure by the owner or the owner's a
 
    (5) In determining whether abandonment has occurred as a result of the death of an IMD occupant as set forth in subparagraph (ii) of paragraph (2) above, proof of the occupant's death must be made by the presentation of a death certificate, or any other trustworthy evidence. The heir, beneficiary, administrator, or executor of the occupant's estate, as applicable, is an affected party in a case where an owner seeks an abandonment finding based on the death of an IMD occupant.
 
-   (6) If the owner's application alleging abandonment is granted by the Loft Board and if the unit is to be used for non-residential purposes, the owner or its authorized representative must comply with 29 RCNY § 2-10(d)(1) of these Rules.
+   (6) If the owner's application alleging abandonment is granted by the Loft Board and if the unit is to be used for non-residential purposes, the owner or its authorized representative must comply with 29 RCNY § 2-10(d)(1).
 
-   (7) (i) Upon compliance with these specified provisions of 29 RCNY § 2-10(d)(1) with regard to units determined to be abandoned and used for non-residential purposes, the legal effect of the Loft Board's determination of abandonment is the same as that of a sale of rights as provided in 29 RCNY § 2-10(d) of these Rules.
+   (7) (i) Upon compliance with these specified provisions of 29 RCNY § 2-10(d)(1) with regard to units determined to be abandoned and used for non-residential purposes, the legal effect of the Loft Board's determination of abandonment is the same as that of a sale of rights as provided in 29 RCNY § 2-10(d).
 
-      (ii) Upon the Loft Board's granting of the owner's application alleging abandonment with regard to units to remain residential, the legal effect of the Loft Board's determination of abandonment is the same as that of a sale of rights as provided in 29 RCNY § 2-10(d) of these Rules, but only if:
+      (ii) Upon the Loft Board's granting of the owner's application alleging abandonment with regard to units to remain residential, the legal effect of the Loft Board's determination of abandonment is the same as that of a sale of rights as provided in 29 RCNY § 2-10(d), but only if:
 
          (A) On or prior to the date of the Loft Board's granting of the owner's application alleging abandonment, the owner has obtained a certificate of occupancy for the affected building and filed an application seeking a final rent order and/or removal from the Loft Board's jurisdiction; or
 
@@ -3619,7 +3631,7 @@ Except as provided in paragraph (c) below, failure by the owner or the owner's a
 
    (17) Sublessor – prime lessee compensation applications.
 
-      (i) The filing fee for an application to determine the value of improvements made or purchased by the prime lessee or a sublessor who is not the residential occupant qualified for protection pursuant to § 2-09 is $500.00.
+      (i) The filing fee for an application to determine the value of improvements made or purchased by the prime lessee or a sublessor who is not the residential occupant qualified for protection pursuant to 29 RCNY § 2-09 is $500.00.
 
    (18) Extension applications.
 
@@ -3637,7 +3649,7 @@ Except as provided in paragraph (c) below, failure by the owner or the owner's a
 
 (e) Waiver of application fees for financial hardship.
 
-   (1) An applicant may request a waiver of the fees provided in this section on the basis of financial hardship. No waiver of fees will be permitted for registration applications set forth in 29 RCNY § 2-11(b)(1)(i) of these rules.
+   (1) An applicant may request a waiver of the fees provided in this section on the basis of financial hardship. No waiver of fees will be permitted for registration applications set forth in 29 RCNY § 2-11(b)(1)(i).
 
    (2) Procedure for requesting a waiver of application fees.
 
@@ -3667,7 +3679,7 @@ Except as provided in paragraph (c) below, failure by the owner or the owner's a
 
 (b) Range of fines.
 
-   (1) Code Compliance Fines Pursuant to § 2-01 and § 2-01.1: Where the owner is found to have violated code compliances deadlines or failed to take all reasonable and necessary action to obtain a final certificate of occupancy, the owner may be subject to a Class C civil penalty as follows:
+   (1) Code Compliance Fines Pursuant to 29 RCNY § 2-01 and 29 RCNY § 2-01.1: Where the owner is found to have violated code compliances deadlines or failed to take all reasonable and necessary action to obtain a final certificate of occupancy, the owner may be subject to a Class C civil penalty as follows: 
 
  
 
@@ -3679,20 +3691,20 @@ Except as provided in paragraph (c) below, failure by the owner or the owner's a
       - SECTION OF LAW 
       - CURE 
       - PENALTY
-    * - Failure to Meet Code Compliance Deadlines:§§ 281(1) and (4) buildings
-      - MDL § 284 (1);29 RCNY §§ 2-01(a)(1)through 2-01(a)(7);2-01(c)(2)
+    * - Failure to Meet Code Compliance Deadlines: §§ 281(1) and (4) buildings
+      - MDL § 284 (1); 29 RCNY § 2-01(a)(1) through (a)(7), (c)(2)
       - No
       - Up to $1,000 per missed deadline
-    * - Failure to Meet Code Compliance Deadlines:§§ 281(1) and (4) Buildings
-      - MDL § 284(1);29 RCNY § 2-01(a)(8);§ 2-01(c)(2)
+    * - Failure to Meet Code Compliance Deadlines: §§ 281(1) and (4) Buildings
+      - MDL § 284(1); 29 RCNY § 2-01(a)(8), (c)(2)
       - No
       - Up to $5,000 per missed deadline
     * - Failure to Meet Code Compliance Deadlines: § 281(5) Buildings
-      - MDL § 284(1); 29 RCNY §§ 2-01(a)(9) or (a)(10);2-01(c)(2)
+      - MDL § 284(1); 29 RCNY §§ 2-01(a)(9), (a)(10), (c)(2)
       - No
       - Up to $5,000 per missed deadline
     * - Failure to Take Reasonable and Necessary Action to Obtain a Final Certificate of Occupancy
-      - 29 RCNY §§ 2-01.1(a), (b)(2) and (3)
+      - 29 RCNY § 2-01.1(a), (b)(2), (b)(3)
       - No
       - Up to $1,000 per day up to $17,500
     * - Failure to Take Reasonable and Necessary Action: Failure to Timely Clear DOB objections for Owner's Alteration Application
@@ -3705,13 +3717,13 @@ Except as provided in paragraph (c) below, failure by the owner or the owner's a
 
  
 
-   (2) Fines in Connection with Harassment Applications Pursuant to § 2-02: A finding by the Loft Board that:
+   (2) Fines in Connection with Harassment Applications Pursuant to 29 RCNY § 2-02: A finding by the Loft Board that:
 
-      (i) A tenant filed a harassment application in bad faith or in wanton disregard of the truth pursuant to 29 RCNY § 2-02(c)(2)(iii) of these Rules; or
+      (i) A tenant filed a harassment application in bad faith or in wanton disregard of the truth pursuant to 29 RCNY § 2-02(c)(2)(iii); or
 
-      (ii) An owner or prime lessee harassed an occupant pursuant to 29 RCNY § 2-02(d)(1)(ii) or 29 RCNY § 2-02(e)(3)(i) of these Rules, in a manner that impacts on the tenant's safety including, but not limited to, refusing to make repairs, repeated housing maintenance violations intended to render the unit uninhabitable, assault, battery or threats of violence; or
+      (ii) An owner or prime lessee harassed an occupant pursuant to 29 RCNY § 2-02(d)(1)(ii) or (e)(3)(i), in a manner that impacts on the tenant's safety including, but not limited to, refusing to make repairs, repeated housing maintenance violations intended to render the unit uninhabitable, assault, battery or threats of violence; or
 
-      (iii) An owner or prime lessee harassed an occupant pursuant to 29 RCNY § 2-02(d)(1)(ii) or 29 RCNY § 2-02(e)(3)(i) of these Rules in a manner that impacts on the tenant's quality of life, including, but not limited, to creating excessive noise or odors, threatening eviction, refusal to consent to sublet, and/or tampering with mail, May subject the tenant, owner or prime lessee to a Class C civil penalty as follows:
+      (iii) An owner or prime lessee harassed an occupant pursuant to 29 RCNY § 2-02(d)(1)(ii) or (e)(3)(i) of these Rules in a manner that impacts on the tenant's quality of life, including, but not limited, to creating excessive noise or odors, threatening eviction, refusal to consent to sublet, and/or tampering with mail, May subject the tenant, owner or prime lessee to a Class C civil penalty as follows: 
 
  
 
@@ -3725,17 +3737,17 @@ Except as provided in paragraph (c) below, failure by the owner or the owner's a
       - PENALTY 
       - AGGRAVATED PENALTY
     * - Harassment Application Filed in Bad Faith
-      - 29 RCNY § 2-02(c) (2)(iii)
+      - 29 RCNY § 2-02(c)(2)(iii)
       - No
       - Up to $4,000
       - A tenant found to have previously filed a harassment application in bad faith may be subject to an aggravated penalty of up to $10,000.
     * - Finding of Harassment: Safety Violations e.g., Hazardous Conditions; Housing Maintenance Violations; Refusal to Make Repairs
-      - 29 RCNY §§ 2-02(d)(1)(ii);2-02(e)(3)(i)
+      - 29 RCNY § 2-02(d)(1)(ii), (e)(3)(i)
       - No
       - $3,000 to $6,000 for each occurrence found to constitute harassment
       - An owner or prime lessee previously found to have harassed a tenant may be subject to an aggravated penalty of up to $10,000.
     * - Finding of Harassment: Quality of Life Violations e.g., Noise; Odors; Threat of Eviction; Refusal to Consent to Sublet
-      - 29 RCNY §§ 2-02(d)(1)(ii);2-02(e)(3)(i)
+      - 29 RCNY § 2-02(d)(1)(ii), (e)(3)(i)
       - No
       - $2,000 to $5,000 for each occurrence found to constitute harassment
       - An owner or prime lessee previously found to have harassed a tenant may be subject to an aggravated penalty of up to $10,000.
@@ -3745,7 +3757,7 @@ Except as provided in paragraph (c) below, failure by the owner or the owner's a
 
  
 
-   (3) Failure to Renew IMD Registration Pursuant to § 2-05: Where an owner fails to renew a building's registration as required in 29 RCNY § 2-05(f)(2), the owner may be subject to a Class C violation civil penalty as follows:
+   (3) Failure to Renew IMD Registration Pursuant to 29 RCNY § 2-05: Where an owner fails to renew a building's registration as required in 29 RCNY § 2-05(f)(2), the owner may be subject to a Class C violation civil penalty as follows: 
 
  
 
@@ -3767,11 +3779,11 @@ Except as provided in paragraph (c) below, failure by the owner or the owner's a
 
  
 
-   (4) Fines in Connection with Unreasonable Interference Pursuant to § 2-01(h): A finding by the Loft Board that:
+   (4) Fines in Connection with Unreasonable Interference Pursuant to 29 RCNY § 2-01(h): A finding by the Loft Board that:
 
       (i) An owner unreasonably interfered with the tenant's use of an IMD unit; or
 
-      (ii) An owner unreasonably and willfully interfered with the tenant's use of an IMD unit, May subject the owner to a Class C civil penalty as follows:
+      (ii) An owner unreasonably and willfully interfered with the tenant's use of an IMD unit, May subject the owner to a Class C civil penalty as follows: 
 
  
 
@@ -3797,11 +3809,11 @@ Except as provided in paragraph (c) below, failure by the owner or the owner's a
 
  
 
-   (5) Monthly Reports and Failure to Take Reasonable and Necessary Action to Legalize Building Pursuant to §§ 2-01.1(a)(1)(ii) and 2-01.1(b)(6): An owner who is found:
+   (5) Monthly Reports and Failure to Take Reasonable and Necessary Action to Legalize Building Pursuant to 29 RCNY §§ 2-01.1(a)(1)(ii) and (b)(6): An owner who is found:
 
-      (i) By the Loft Board's Executive Director to have violated the provisions of 29 RCNY § 2-01.1(b)(6) of these Rules may be subject to a Class B civil penalty pursuant to 29 RCNY § 2-01.1(b)(7) as follows; or
+      (i) By the Loft Board's Executive Director to have violated the provisions of 29 RCNY § 2-01.1(b)(6) may be subject to a Class B civil penalty pursuant to 29 RCNY § 2-01.1(b)(7) as follows; or
 
-      (ii) To have failed to file monthly reports or to have made false statements in the monthly reports filed pursuant to 29 RCNY § 2-01.1(a)(1)(ii), May be subject to a Class B civil penalty as follows:
+      (ii) To have failed to file monthly reports or to have made false statements in the monthly reports filed pursuant to 29 RCNY § 2-01.1(a)(1)(ii), may be subject to a Class B civil penalty as follows: 
 
  
 
@@ -3811,30 +3823,30 @@ Except as provided in paragraph (c) below, failure by the owner or the owner's a
 
     * - VIOLATION DESCRIPTION 
       - SECTION OF LAW
-      - CURE within 30 days 
+      - CURE within 30 days
       - PENALTY PER VIOLATION, UP TO $17,500
     * - Failure to Take Reasonable and Necessary Action: Failure to File an Application with DOB
-      - 29 RCNY §§ 2-01.1(b)(6)(i);2-01.1(b)(7)
+      - 29 RCNY § 2-01.1(b)(6)(i), (b)(7)
       - Yes
       - Up to $1,000 per day
     * - Failure to Take Reasonable and Necessary Action: Failure to Obtain a Building Permit
-      - 29 RCNY §§ 2-01.1(b)(6)(ii);2-01.1(b)(7)
+      - 29 RCNY § 2-01.1(b)(6)(ii), (b)(7)
       - Yes
       - Up to $1,000 per day
     * - Failure to Take Reasonable and Necessary Action: Failure to Maintain a Current Work Permit
-      - 29 RCNY §§ 2-01.1(b)(6)(iii); 2-01.1(b)(7)
+      - 29 RCNY § 2-01.1(b)(6)(iii), (b)(7)
       - Yes
       - Up to $1,000 per day
-    * - Failure to Take Reasonable and Necessary Action:Failure to Maintain a Temporary Certificate of Occupancy for the Residential Portion of the Building
-      - 29 RCNY §§ 2-01.1(b)(6)(iv); 2-01.1(b)(7)
+    * - Failure to Take Reasonable and Necessary Action: Failure to Maintain a Temporary Certificate of Occupancy for the Residential Portion of the Building
+      - 29 RCNY § 2-01.1(b)(6)(iv), (b)(7)
       - Yes
       - Up to $1,000 per day
     * - Failure to Take Reasonable and Necessary Action: Failure to File Monthly Reports
       - 29 RCNY § 2-01.1(a)(1)(ii)(D)
       - Yes
       - Up to $1,000 per missing report
-    * - Failure to Take Reasonable and Necessary Action:Filing False Statements in Monthly Report
-      - 29 RCNY§ 2-01.1(a)(1)(ii)(E)
+    * - Failure to Take Reasonable and Necessary Action: Filing False Statements in Monthly Report
+      - 29 RCNY § 2-01.1(a)(1)(ii)(E)
       - No
       - $4,000 per false statement
 ~
@@ -3849,7 +3861,7 @@ Except as provided in paragraph (c) below, failure by the owner or the owner's a
 
       (ii) An occupant who unreasonably withholds access pursuant to 29 RCNY § 2-01(g)(4)(iv);
 
-      (iii) An owner who fails to file a Sales Record form after a sale of improvements pursuant to 29 RCNY § 2-07(j) or a sale of rights pursuant to 29 RCNY §§ 2-10(b) or 2-10(c)(4) within 30 days of sale;
+      (iii) An owner who fails to file a Sales Record form after a sale of improvements pursuant to 29 RCNY § 2-07(j) or a sale of rights pursuant to 29 RCNY §§ 2-10(b) or (c)(4) within 30 days of sale;
 
       (iv) An owner who fails to report a change in the emergency number, managing agent information, owner's address or ownership information pursuant to 29 RCNY § 2-05(b)(10); or
 
@@ -3866,7 +3878,7 @@ Except as provided in paragraph (c) below, failure by the owner or the owner's a
       - CURE within 30 days 
       - PENALTY
     * - Failure to Comply with Access Notice Provisions
-      - 29 RCNY §§ 2-01(g)(1); 2-01(g)(2); 2-01(g)(4)(iv)
+      - 29 RCNY §§ 2-01(g)(1), (g)(2), (g)(4)(iv)
       - Yes
       - $1,000
     * - Occupant Unreasonably Withholds Access
@@ -3878,7 +3890,7 @@ Except as provided in paragraph (c) below, failure by the owner or the owner's a
       - No
       - $4,000
     * - Failure to Timely File Sale of Rights Form
-      - 29 RCNY §§ 2-10(b) or 2-10(c)(4)
+      - 29 RCNY § 2-10(b), (c)(4)
       - No
       - $4,000
     * - Failure to Report a Change in Ownership Information
@@ -3919,7 +3931,7 @@ Except as provided in paragraph (c) below, failure by the owner or the owner's a
 
       (iv) The filing with the Loft Board of a sworn statement by a registered architect or professional engineer licensed in the State of New York stating that the IMD has achieved Article 7-B compliance and the date of such compliance on the Loft Board approved form.
 
-   "Maximum permissible rent," or "maximum rent permissible," for purposes of this rule, means "total rent" plus any permissible rent adjustments, as provided in 29 RCNY § 2-06 for units subject to Article 7-C pursuant to § 281(1), or 29 RCNY § 2-06.1 for units subject to Article 7-C pursuant to § 281(4). For units subject to Article 7-C pursuant to § 281(5), "maximum permissible rent" is defined in 29 RCNY § 2-06.2 of these Rules. If one or more rent adjustments pursuant to this section have already been applied, "maximum permissible rent" includes such adjustments.
+   "Maximum permissible rent," or "maximum rent permissible," for purposes of this rule, means "total rent" plus any permissible rent adjustments, as provided in 29 RCNY § 2-06 for units subject to Article 7-C pursuant to § 281(1), or 29 RCNY § 2-06.1 for units subject to Article 7-C pursuant to § 281(4). For units subject to Article 7-C pursuant to § 281(5), "maximum permissible rent" is defined in 29 RCNY § 2-06.2. If one or more rent adjustments pursuant to this section have already been applied, "maximum permissible rent" includes such adjustments.
 
 (b) Eligibility requirements. The owner of an IMD is eligible for 1 or more rent adjustments pursuant to MDL § 286(2)(ii) if all the following conditions are met:
 
@@ -3931,25 +3943,25 @@ Except as provided in paragraph (c) below, failure by the owner or the owner's a
 
    (4) The residential unit was not rented at market value between June 21, 1982 and June 21, 1992, unless the IMD unit is covered under Article 7-C pursuant to MDL § 281(5); and
 
-   (5) The owner meets or has already met 1 or more of the code compliance obligations in MDL § 284(1) which requires that the owner file an alteration application, obtain an approved alteration permit, and achieve Article 7-B compliance. An eligible owner is entitled to 1 or more of the applicable rent adjustments in subdivisions (c) through (e) of 29 RCNY § 2-12 of these rules.
+   (5) The owner meets or has already met 1 or more of the code compliance obligations in MDL § 284(1) which requires that the owner file an alteration application, obtain an approved alteration permit, and achieve Article 7-B compliance. An eligible owner is entitled to 1 or more of the applicable rent adjustments in subdivisions (c) through (e) of 29 RCNY § 2-12.
 
 (c) Alteration application rent adjustment.
 
-   (1) Filing prior to June 21, 1992. An owner who otherwise meets the eligibility requirements of 29 RCNY § 2-12(b) of these rules and who filed an alteration application with the DOB prior to June 21, 1992 is entitled to a six percent (6%) increase over the maximum rent permissible under Loft Board rules for the covered residential unit on June 21, 1992.
+   (1) Filing prior to June 21, 1992. An owner who otherwise meets the eligibility requirements of 29 RCNY § 2-12(b) and who filed an alteration application with the DOB prior to June 21, 1992 is entitled to a six percent (6%) increase over the maximum rent permissible under Loft Board rules for the covered residential unit on June 21, 1992.
 
-   (2) Filing on or after June 21, 1992. An owner who otherwise meets the eligibility requirements of 29 RCNY § 2-12(b) of these rules and who files an alteration application with the DOB on or after June 21, 1992 is entitled to an increase over the maximum rent permissible as provided in MDL § 286(2)(ii)(A) for the covered residential unit on the date the alteration application is filed.
+   (2) Filing on or after June 21, 1992. An owner who otherwise meets the eligibility requirements of 29 RCNY § 2-12(b and who files an alteration application with the DOB on or after June 21, 1992 is entitled to an increase over the maximum rent permissible as provided in MDL § 286(2)(ii)(A) for the covered residential unit on the date the alteration application is filed.
 
 (d) Alteration permit rent adjustment.
 
-   (1) Issuance prior to June 21, 1992. An owner who otherwise meets the eligibility requirements of 29 RCNY § 2-12(b) of these rules and who obtained an alteration permit prior to June 21, 1992 is entitled to a fourteen percent (14%) increase over the maximum rent permissible under Loft Board rules for the covered residential unit on June 21, 1992.
+   (1) Issuance prior to June 21, 1992. An owner who otherwise meets the eligibility requirements of 29 RCNY § 2-12(b) and who obtained an alteration permit prior to June 21, 1992 is entitled to a fourteen percent (14%) increase over the maximum rent permissible under Loft Board rules for the covered residential unit on June 21, 1992.
 
-   (2) Issuance on or after June 21, 1992. An owner who otherwise meets the eligibility requirements of 29 RCNY § 2-12(b) of these rules and who obtains an alteration permit from the DOB on or after June 21, 1992 is entitled to an increase over the maximum rent permissible as provided in MDL § 286(2)(ii)(B) for the covered residential unit on the date the alteration permit is issued by the DOB.
+   (2) Issuance on or after June 21, 1992. An owner who otherwise meets the eligibility requirements of 29 RCNY § 2-12(b) and who obtains an alteration permit from the DOB on or after June 21, 1992 is entitled to an increase over the maximum rent permissible as provided in MDL § 286(2)(ii)(B) for the covered residential unit on the date the alteration permit is issued by the DOB.
 
 (e) Article 7-B compliance rent adjustment.
 
-   (1) Compliance prior to June 21, 1992. An owner who otherwise meets the eligibility requirements of 29 RCNY § 2-12(b) of these rules and who achieved Article 7-B compliance prior to June 21, 1992 is entitled to a twenty percent (20%) increase over the maximum rent permissible under Loft Board rules for a covered residential unit on June 21, 1992.
+   (1) Compliance prior to June 21, 1992. An owner who otherwise meets the eligibility requirements of 29 RCNY § 2-12(b) and who achieved Article 7-B compliance prior to June 21, 1992 is entitled to a twenty percent (20%) increase over the maximum rent permissible under Loft Board rules for a covered residential unit on June 21, 1992.
 
-   (2) Compliance on or after June 21, 1992. An owner who otherwise meets the eligibility requirements of 29 RCNY § 2-12(b) of these rules and who achieves Article 7-B compliance on or after June 21, 1992 is entitled to an increase over the maximum rent permissible as provided in MDL § 286(2)(ii)(C) for the covered residential unit on the date Article 7-B compliance is achieved.
+   (2) Compliance on or after June 21, 1992. An owner who otherwise meets the eligibility requirements of 29 RCNY § 2-12(b) and who achieves Article 7-B compliance on or after June 21, 1992 is entitled to an increase over the maximum rent permissible as provided in MDL § 286(2)(ii)(C) for the covered residential unit on the date Article 7-B compliance is achieved.
 
 (f) Payment of rent adjustments. Payment of rent adjustments based on filing an alteration application, obtaining an alteration permit or achieving Article 7-B compliance shall commence:
 
@@ -3967,4 +3979,14 @@ Except as provided in paragraph (c) below, failure by the owner or the owner's a
 
 
 
+
+
+
+
+**APPENDIX A**
+
+
+
+
+**APPENDIX B**
 

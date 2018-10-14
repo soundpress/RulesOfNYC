@@ -468,7 +468,7 @@ For purposes of the City's anti-apartheid rider, included in City contracts purs
 
    (1) The O.E.M. agreement states that Company #2 may sell equipment made by Company #1 (with or without modification by Company #2) in South Africa.
 
-   (2) The equipment covered by the agreement (as sold by Company #1 or after modification by Company #2, if any is made) falls under one of the designated classifications government by the Export Administration Act of 1979  and the associated federal regulations for Electronics and Precision Instruments (15 C.F.R. Section 799.1, Supp. 1, Group 5), such that Company #1 knows of the resale or distribution of the equipment to South Africa by Company #2 and assists Company #2 in procuring required governmental authorizations for such resale or distribution.
+   (2) The equipment covered by the agreement (as sold by Company #1 or after modification by Company #2, if any is made) falls under one of the designated classifications government by the Export Administration Act of 1979  and the associated federal regulations for Electronics and Precision Instruments (15 C.F.R. § 799.1, Supp. 1, Group 5), such that Company #1 knows of the resale or distribution of the equipment to South Africa by Company #2 and assists Company #2 in procuring required governmental authorizations for such resale or distribution.
 
    (3) Company #1 has actual knowledge of resale or distribution of the equipment to South Africa by Company #2 and has not either terminated its contractual arrangement with Company #2 concerning such equipment or otherwise prohibited Company #2 from making further resale or distribution of Company #1's equipment to South Africa.
 
