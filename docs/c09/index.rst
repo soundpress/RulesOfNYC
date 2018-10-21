@@ -5612,7 +5612,7 @@ Notwithstanding the foregoing, the commissioner of finance may determine that th
 
 (b) Credit card fee imposed by covered agencies.
 
-   (1) Except as provided in paragraphs two, three and four of this subdivision and in subdivision (d) of this section, as a condition of accepting a credit card as payment of a fine, civil penalty, tax, fee, rent, rate, charge or other amount, a covered agency must charge and collect from the person offering a credit card as a means of payment a nonrefundable fee in the amount of 2.49% of the amount of the fine, civil penalty, tax, fee, rent, rate, charge or other amount to be paid with the credit card. A covered agency must not charge any other fee for accepting a credit card as payment of any such charges in lieu of, or in addition to, the fee authorized by this section.
+   (1) Except as provided in paragraphs two, three, four and five of this subdivision and in subdivision (d) of this section, as a condition of accepting a credit card as payment of a fine, civil penalty, tax, fee, rent, rate, charge or other amount, a covered agency must charge and collect from the person offering a credit card as a means of payment a nonrefundable fee in the amount of 2% of the amount of the fine, civil penalty, tax, fee, rent, rate, charge or other amount to be paid with the credit card. A covered agency must not charge any other fee for accepting a credit card as payment of any such charges in lieu of, or in addition to, the fee authorized by this section.
 
    (2) Prior to thirteen months from final publication of this rule in the City Record, the fee provided in paragraph one of this subdivision shall not be charged or collected by any of the following covered agencies unless the agency first notifies the Commissioner of Finance in writing that charging and collecting the fee would not materially impede such agency's operations or services to the public:
 
@@ -5656,6 +5656,8 @@ Notwithstanding the foregoing, the commissioner of finance may determine that th
 
    (4) The Commissioner of Finance may grant a waiver from charging and collecting the fee provided in paragraph one of this subdivision for up to six months beyond the thirteen and nineteen months in paragraphs (2) and (3) respectively, for agencies specified in such paragraphs, upon a determination that charging and collecting the fee earlier creates a risk of materially impeding an agency's operations or services to the public.
 
+   (5) A covered agency must charge and collect from the person offering a credit card as a means of payment a nonrefundable fee of 2% of the amount to be paid unless such covered agency notifies the Commissioner of Finance in writing that doing so negatively affects such covered agencies’ operations or services to the public. If a covered agency provides such written notice it may continue to charge and collect a nonrefundable fee of 2.49%. However, all covered agencies must charge and collect the nonrefundable fee of 2% as of November 15, 2018.
+
 (c) Credit card fee imposed by non-covered agencies. Any non-covered agency may by rule opt to be treated as a covered agency pursuant to this section, in which case the provisions of this section shall apply to such agency in their entirety. Any non-covered agency that does not opt to be treated as a covered agency will not be subject to this section and may charge a fee in accordance with section 11-105 of the Administrative Code of the City of New York.
 
 (d) When fee must not be imposed. The fee provided by this section must not be imposed:
@@ -5683,6 +5685,8 @@ Notwithstanding the foregoing, the commissioner of finance may determine that th
    (2) was a fraudulent payment not made by the customer where the customer notifies the agency of the fraudulent payment.
 
 (f) A covered agency must not accept a particular credit card for payment if imposition of the fee pursuant to subdivision (b) of this section would not be consistent with the terms of any agreements of such covered agency or the City of New York with any financing agency, card issuer or other commercial entity governing the acceptance of such credit card.
+
+
 
 
 

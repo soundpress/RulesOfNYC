@@ -13618,9 +13618,9 @@ Chapter 28: Citywide Construction Noise Mitigation
 *§ 28-100 General Construction Noise Mitigation Plan.* ::
 
 
-In accordance with § 24-219 of the New York City Noise Code, every construction site where construction activities take place shall have, conspicuously posted, a complete and accurate Construction Noise Mitigation Plan. So long as the plan complies with this chapter, it need not be filed with the Department of Environmental Protection (DEP); however, such plan must be readily available for inspection at the construction site. The Construction Noise Mitigation Plan Form is available at: http://www.nyc.gov/dep or at DEP's Offices at:
+In accordance with § 24-219 and § 24-220 of the New York City Noise Control Code, every construction site where construction activities take place shall have, conspicuously posted and filed with the Department of Environmental Protection (DEP), a complete and accurate Construction Noise Mitigation Plan, except such sites that will have emergency work completed within three days or less, shall not be required to file the plan. An after hours variance, pursuant to § 24-223 of the Noise Control Code may be applied for if work is not possible during otherwise allowable hours. Such plan must be readily available for inspection at the construction site. The Construction Noise Mitigation Plan Form is available at: http://www.nyc.gov/html/dep/html/noise/construction-noise.shtml.
 
-New York City Department of Environmental Protection Bureau of Environmental Compliance, 9th Floor 59-17 Junction Blvd. Flushing, NY 11373.
+
 
 
 
@@ -13656,9 +13656,11 @@ l. Where construction projects are of shorter duration of less than 15 days and 
 
 m. Whenever a responsible party is engaged in sandblasting operations that require a perimeter or other barrier during sandblasting, said barrier shall be lined with noise barrier material as set forth in subdivision e of 15 RCNY § 28-107.
 
-n. Responsible parties conducting construction and roadway work that will commence and be completed within a continuous period of no longer than 24 hours, that occurs between the hours of 7:00 a.m. and 6:00 p.m. on weekdays, need not post or file with DEP a Construction Noise Mitigation Plan. However, the responsible party for such construction work shall not create unreasonable noise. In addition, if the work occurs near or adjacent to a sensitive receptor as defined in 15 RCNY § 28-101(i), then the responsible party shall make modifications including scheduling changes or employing additional noise mitigation methods listed in 15 RCNY §§ 28-102, 28-107, and 28-108. This subdivision shall not apply to construction work that occurs after hours.
+n. Responsible parties conducting construction and roadway work that will commence and be completed within a continuous period of no longer than 24 hours or for emergency work that will last no longer than three consecutive days, need not file with DEP a Construction Noise Mitigation Plan. However, the responsible party for such construction work shall not create unreasonable noise. In addition, if the work occurs near or adjacent to a sensitive receptor as defined in 15 RCNY § 28-101(i), then the responsible party shall make modifications including scheduling changes or employing additional noise mitigation methods listed in 15 RCNY §§ 28-102, 28-107, and 28-108. This subdivision shall not apply to construction work that occurs after hours.
 
 o. Technical terms in these rules are defined in the Noise Code or in 15 RCNY § 28-109.
+
+
 
 
 
@@ -13730,7 +13732,7 @@ a. Impact Equipment.
 
          v. When the responsible party uses a device described in clause (i) of this subparagraph between the hours of 7:00 a.m. to 6:00 p.m. on weekdays, the responsible party need not utilize additional pathway controls listed in subparagraph C of this paragraph, unless the responsible party is performing work within 35 feet of an indoor receptor and with the exception of any required perimeter barriers as specified in 15 RCNY § 28-101(g).
 
-      C. NOISE PATHWAY CONTROLS: NOISE BARRIERS &amp; ENCLOSURES. The responsible party shall utilize one of the following pathway controls for jackhammers or pavement breaker operations within a property line or for long-term work when outside of the property line as specified in 15 RCNY § 28-106(p) or 15 RCNY § 28-101(l). However, if the Department receives noise complaints concerning the site, the responsible party shall utilize additional pathway controls listed in this subparagraph as required by DEP. The pathway controls are set forth as follows: jersey barriers, tents, or other portable noise barriers.
+      C. NOISE PATHWAY CONTROLS: NOISE BARRIERS &amp; ENCLOSURES. The responsible party shall utilize one of the following pathway controls for jackhammers or pavement breaker operations within a property line or for long-term work when outside of the property line as specified in 15 RCNY § 28-101(l). However, if the Department receives noise complaints concerning the site, the responsible party shall utilize additional pathway controls listed in this subparagraph as required by DEP. The pathway controls are set forth as follows: jersey barriers, tents, or other portable noise barriers.
 
          i. The responsible party shall construct a portable noise barrier that shall be free from gaps and holes and constructed of a sufficiently massive material to achieve a Sound Transmission Class rating of STC 30 or greater and that shall be positioned as close as possible to the jack hammer. The noise barrier shall be long and tall enough to completely block the line of sight between the jackhammer and any indoor receptor within 200 feet and that is a maximum of 20 feet above grade level, when work occurs. The barrier shall be placed as close to the actual jackhammering work as feasible. Greater noise attenuation occurs when barriers are placed as close as possible to the noise source. A balanced canted panel, not susceptible to high winds shall be placed, when feasible, on top of the barrier in order to provide better shielding for multi-story receptors. However, said barrier's height shall not exceed 15 feet including the balanced canted portion.
 
@@ -14009,6 +14011,8 @@ e. Manually Operated Equipment.
 
 
 
+
+
 *§ 28-103 Authorized Work Hours.* ::
 
 
@@ -14036,9 +14040,9 @@ New York City Department of Environmental Protection Bureau of Environmental Com
 *§ 28-105 Utility Noise Mitigation Plan.* ::
 
 
-Pursuant to § 24-219 of the Administrative Code, every authorized publicly franchised New York City utility company that provides gas, electric, steam and telecommunication services shall have conspicuously posted a complete and accurate Utility Noise Mitigation Plan at all sites where construction activities take place. Although the plan need not be filed with DEP, it shall be readily available for inspection should a complaint be filed or during a routine inspection. The Utility Noise Mitigation Plan Form is available at: http://www.nyc.gov/dep or at DEP's Offices at:
+Pursuant to § 24-219 and § 24-220 of the Administrative Code, every authorized publicly franchised New York City utility company that provides gas, electric, steam and telecommunication services, except when emergency work will be performed in three days or less, shall have conspicuously posted, a complete and accurate Utility Noise Mitigation Plan at all sites where construction activities take place. A generic plan per borough may be used to satisfy the filing and posting requirement, provided such plan is posted and filed with the department and otherwise complies with the requirements for a Utility Noise Mitigation Plan. Although the plan need not be filed with DEP, it shall be readily available for inspection should a complaint be filed or during a routine inspection. The Utility Noise Mitigation Plan Form is available at: http://www.nyc.gov/html/dep/html/noise/construction-noise.shtml.
 
-New York City Department of Environmental Protection Bureau of Environmental Compliance, 9th Floor 59-17 Junction Blvd. Flushing, NY 11373
+
 
 
 
@@ -14078,7 +14082,9 @@ n. A DEP Inspector may visit the site to examine the Utility Noise Mitigation Pl
 
 o. Perimeter noise barriers shall be used as set forth in 15 RCNY § 28-101(g). All gaps and spaces in the semi-permanent or temporary barriers shall be filled with noise attenuation material, and such barriers shall be placed as close as possible to the noise source to promote greater noise attenuation.
 
-p. Utilities that engage in non-emergency, long-term projects, defined as continuous work that cannot be completed within 15 calendar days when there is a dedicated lane, shall be required to comply with 15 RCNY §§ 28-100 to 28-104. Work shall be considered continuous even though there may be a cessation of activities for 24 hours or less during the project.
+p. [Repealed.]
+
+
 
 
 
@@ -14187,10 +14193,32 @@ Sound Transmission Class (STC). The "Sound Transmission Class", or "STC rating",
 
 
 
-*§ 28-109 Appendix – Federal Highway Administration Roadway Construction Noise Model User's Guide, Jan. 2006.* ::
+*§ 28-110 Interior Renovation Work Noise Measures.* ::
 
 
-CA/T Equipment 50 ft Noise Emission Reference Levels and Usage Factors – All noise levels expressed in A-weighted decibels with RMS "slow" time constant
+Pursuant to Administrative Code § 24-219(a)(6), the responsible party performing interior renovation work, defined as work within an existing building, must utilize noise mitigation strategies and techniques to reduce noise from such interior renovation work. Construction activities that have a minimal noise impact as set forth in 15 RCNY§ 30-102 shall not be required to utilize the interior renovation work noise measures set forth below provided such activities do not exceed the decibel levels set forth in § 24-228 of the New York City Noise Control Code. The form for the Interior Noise Mitigation Plan is available at http://www.nyc.gov/html/dep/html/noise/construction-noise.shtml and shall be filed and kept on site.
+
+a. General Rules of Operation. It shall be unlawful to engage in or to cause or permit any person to engage in interior renovation work other than on weekdays between the hours of 7:00 A.M. and 6:00 P.M. A person may however perform interior renovation work in connection with the alteration or repair of an existing one or two family owner-occupied dwelling classified in occupancy group J-3 or a convent or rectory on Saturdays and Sundays between the hours of 10:00 A.M. and 4:00 P.M. provided that such dwelling is located more than 300 feet from a house of worship.
+
+b. Source and Pathway Controls. Build sound barriers around noisy tool tasks as per below.
+
+   1. Noise Barriers.
+
+      A. Acceptable examples include but are not limited to:
+
+         • Carsonite Sound Barrier www.carsonite.com         • Sound Fighter LSE Sound Barrier www.soundfighter.com         • Kinetics Noise Block www.kineticsnoise.com         • one inch plywood rated at 30 STC
+
+      B. Place noise curtains on the walls of rooms where noisy operations are being performed. Acceptable examples include but are not limited to:
+
+         • Sound Seal BBC-13-2 www.soundseal.com         • Illbruck Acoustic SONEX Curtain www.illbruck-sonex.com         • McGill AirSilence Fibersorb Curtains www.mcgillairsilence.com         • Acoustiblok, Acoustiblok-Wallcover www.acoustiblok.com         • AcoustiGuard, GenieClip, Mass Loaded Vinyl, Barrer Material, Iso-sill www.acoustiguard.com         • Kinetics Model ICC, KSCH, IsoGrid, IsoMax, PSB,Wallmat, IPRB www.kinetcsnoie.com         • any equivalent curtain that meets the applicable decibel level set forth in § 24-228 of the New York City Noise Control Code
+
+      C. Floor Sound Isolation. Acceptable examples include but are not limited to:
+
+         • Acoustiblok, Acoustiwool, Acoustipad www.acoustiblok.com         • AcoustiGuard, OT 4005&amp; 4010, Duraoustic, Barrier Material, Iso Sep 25HD www.kineticsnoise.com         • Kinetics, Model RIM, SR Floorboard, Soundmatt, FC Isolayment BR www.kineticsnoise.com
+
+   2. Tools.
+
+      A. Drills. The responsible party should select drills with the lowest loaded A-weighted sound power level (SWLA) that meet their needs. Acceptable examples include but are not limited to:
 
  
 
@@ -14198,373 +14226,243 @@ CA/T Equipment 50 ft Noise Emission Reference Levels and Usage Factors – All n
 .. list-table::
     :header-rows: 1
 
-    * - Label ID
-      - Equipment Description
-      - Impact Device? 
-      - Usage Factor (%)
-      - Spec 721.560 Lmax@ 50ft (dBA, slow)
-      - Actual Measured Lmax@ 50ft (dBA, slow)
+    * - Manufacturer brand name
+      - Model number
+    * - Milwaukee
+      - 0302-20
+    * - Milwaukee
+      - 0299-20
+    * - Milwaukee
+      - 0300-20
+    * - Makita
+      - 6303H
+    * - Hitachi
+      - D10VH
+    * - Makita
+      - 6408
 ~
 
 
 
+ 
 
+      B. Circular Saws. The responsible party should select saws with the lowest loaded A-weighted sound power level (SWLA) that meet their needs. Acceptable examples include but are not limited to:
+
+ 
 
 
 .. list-table::
     :header-rows: 1
 
-    * - A
-      - All Other Equipment &gt; 5 HP
-      - No 
-      - 50 
-      - 85 
-      - n/a 
-    * - B
-      - Auger Drill Rig
-      - No 
-      - 20 
-      - 85 
-      - 84 
-    * - C
-      - Backhoe
-      - No 
-      - 40 
-      - 80 
-      - 78 
-    * - D
-      - Bar Bender
-      - No 
-      - 20 
-      - 80 
-      - 80 
-    * - E
-      - Blasting
-      - Yes 
-      - N/A 
-      - 94 
-      - n/a 
-    * - F
-      - Boring Jack Power Unit
-      - No 
-      - 50 
-      - 80 
-      - 83 
-    * - G
-      - Chain Saw
-      - No 
-      - 20 
-      - 85 
-      - 84 
-    * - H
-      - Clam Shovel (dropping)
-      - Yes 
-      - 20 
-      - 93 
-      - 87 
-    * - I
-      - Compactor (ground)
-      - No 
-      - 20 
-      - 80 
-      - 83 
-    * - J
-      - Compressor (air)
-      - No 
-      - 40 
-      - 80 
-      - 78 
-    * - K
-      - Concrete Batch Plant
-      - No 
-      - 15 
-      - 83 
-      - 83 
-    * - L
-      - Concrete Mixer Truck
-      - No 
-      - 40 
-      - 85 
-      - 79 
-    * - M
-      - Concrete Pump Truck
-      - No 
-      - 20 
-      - 82 
-      - 81 
-    * - N
-      - Concrete Saw
-      - No 
-      - 20 
-      - 90 
-      - 90 
-    * - O
-      - Crane
-      - No 
-      - 16 
-      - 85 
-      - 81 
-    * - P
-      - Dozer
-      - No 
-      - 40 
-      - 85 
-      - 82 
-    * - Q
-      - Drill Rig Truck
-      - No 
-      - 20 
-      - 84 
-      - 79 
-    * - R
-      - Drum Mixer
-      - No 
-      - 50 
-      - 80 
-      - 80 
-    * - S
-      - Dump Truck
-      - No 
-      - 40 
-      - 84 
-      - 76 
-    * - T
-      - Excavator
-      - No 
-      - 40 
-      - 85 
-      - 81 
-    * - U
-      - Flat Bed Truck
-      - No 
-      - 40 
-      - 84 
-      - 74 
-    * - V
-      - Front End Loader
-      - No 
-      - 40 
-      - 80 
-      - 79 
-    * - W
-      - Generator
-      - No 
-      - 50 
-      - 82 
-      - 81 
-    * - X
-      - Generator (&lt;25KVA, VMS signs)
-      - No 
-      - 50 
-      - 70 
-      - 73 
-    * - Y
-      - Gradall
-      - No 
-      - 40 
-      - 85 
-      - 83 
-    * - Z
-      - Grader
-      - No 
-      - 40 
-      - 85 
-      - 85 
-    * - AA
-      - Grapple (on backhoe)
-      - No 
-      - 40 
-      - 85 
-      - 87 
-    * - AB
-      - Horizontal Boring Hydr. Jack
-      - No 
-      - 25 
-      - 80 
-      - 82 
-    * - AC
-      - Hydra Break Ram
-      - Yes 
-      - 10 
-      - 90 
-      - 90 
-    * - AD
-      - Impact Pile Driver
-      - Yes 
-      - 20 
-      - 95 
-      - 101 
-    * - AE
-      - Jackhammer
-      - Yes 
-      - 20 
-      - 85 
-      - 89 
-    * - AF
-      - Man Lift
-      - No 
-      - 20 
-      - 85 
-      - 75 
-    * - AG
-      - Mounted Impact Hammer (hoe ram)
-      - Yes 
-      - 20 
-      - 90 
-      - 90 
-    * - AH
-      - Pavement Scarafier
-      - No 
-      - 20 
-      - 85 
-      - 90 
-    * - AI
-      - Paver
-      - No 
-      - 50 
-      - 85 
-      - 77 
-    * - AJ
-      - Pickup Truck
-      - No 
-      - 40 
-      - 55 
-      - 75 
-    * - AK
-      - Pneumatic Tools
-      - No 
-      - 50 
-      - 85 
-      - 85 
-    * - AL
-      - Pumps
-      - No 
-      - 50 
-      - 77 
-      - 81 
-    * - AM
-      - Refrigerator Unit
-      - No 
-      - 100 
-      - 82 
-      - 73 
-    * - AN
-      - Rivet Buster/chipping gun
-      - Yes 
-      - 20 
-      - 85 
-      - 79 
-    * - AO
-      - Rock Drill
-      - No 
-      - 20 
-      - 85 
-      - 81 
-    * - AP
-      - Roller
-      - No 
-      - 20 
-      - 85 
-      - 80 
-    * - AQ
-      - Sand Blasting
-      - No 
-      - 20 
-      - 85 
-      - 96 
-    * - AR
-      - Scraper
-      - No 
-      - 40 
-      - 85 
-      - 84 
-    * - AS
-      - Shears (on backhoe)
-      - No 
-      - 40 
-      - 85 
-      - 96 
-    * - AT
-      - Slurry Plant
-      - No 
-      - 100 
-      - 78 
-      - 78 
-    * - AU
-      - Slurry Trenching Machine
-      - No 
-      - 50 
-      - 82 
-      - 80 
-    * - AV
-      - Soil Mix Drill Rig
-      - No 
-      - 50 
-      - 80 
-      - 80 
-    * - AW
-      - Tractor
-      - No 
-      - 40 
-      - 84 
-      - 84 
-    * - AX
-      - Vacuum Excavator (Vac-truck)
-      - No 
-      - 40 
-      - 85 
-      - 85 
-    * - AY
-      - Vacuum Street Sweeper
-      - No 
-      - 10 
-      - 80 
-      - 82 
-    * - AZ
-      - Ventilation Fan
-      - No 
-      - 100 
-      - 85 
-      - 79 
-    * - BA
-      - Vibrating Hopper
-      - No 
-      - 50 
-      - 85 
-      - 87 
-    * - BB
-      - Vibratory Concrete Mixer
-      - No 
-      - 20 
-      - 80 
-      - 80 
-    * - BC
-      - Vibratory Pile Driver
-      - No 
-      - 20 
-      - 95 
-      - 101 
-    * - BD
-      - Warning Horn
-      - No 
-      - 5 
-      - 85 
-      - 83 
-    * - BE
-      - Water Jet deleading
-      - No 
-      - 20 
-      - 85 
-      - 92 
-    * - BF
-      - Welder/Torch
-      - No 
-      - 40 
-      - 73 
-      - 74 
+    * - Manufacturer brand name
+      - Model number
+    * - Porter Cable
+      - 345
+    * - Milwaukee
+      - 6370-20
+    * - Porter Cable
+      - 314
+    * - Makita
+      - 5277NB
+    * - Makita
+      - 5057KB
+    * - Hitachi
+      - C7SB2
+    * - Porter Cable
+      - 743
+    * - Bosch
+      - CS20
 ~
 
  
+
+      C. Portable Generators. The responsible party should select models with the lowest levels (dBA) that meet their needs. Acceptable examples include but are not limited to:
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - Manufacturer brand name
+      - Model number
+    * - Honda
+      - EU3000isAN
+    * - Honda
+      - EU1000iAN
+    * - Honda
+      - EU2000 series
+    * - Honda
+      - EU6500isA
+~
+
+
+
+ 
+
+      D. Orbital Sanders. The responsible party should select orbital sanders with the lowest loaded A-weighted sound power level (SWLA) that meet their needs. Acceptable examples include but are not limited to:
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - Manufacturer brand name
+      - Model number
+    * - Black and Decker
+      - MS500K
+    * - Black and Decker
+      - MS550GB
+~
+
+
+
+ 
+
+      E. Power Screw Drivers. The responsible party should select power screw drivers with the lowest loaded A-weighted sound power level (SWLA) that meet their needs. Acceptable examples include but are not limited to:
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - Manufacturer brand name
+      - Model number
+    * - Hitachi
+      - W6V3
+    * - DeWalt
+      - DW272
+~
+
+
+
+ 
+
+      F. Reciprocating Saws. The responsible party should select reciprocating saws with the lowest loaded A-weighted sound power level (SWLA) that meet their needs. Acceptable examples include but are not limited to:
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - Manufacturer brand name
+      - Model number
+    * - DeWalt
+      - DW309K
+    * - Milwaukee
+      - 6519-22
+    * - Milwaukee
+      - 6509-22
+    * - Milwaukee
+      - 6524-21
+~
+
+
+
+ 
+
+      G. Miter Saws. The responsible party should select miter saws with the lowest loaded A-weighted sound power level (SWLA) that meet their needs. Acceptable examples include but are not limited to:
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - Manufacturer brand name
+      - Model number
+    * - Delta
+      - MS250
+    * - Hitachi
+      - C10FCE
+    * - DeWalt
+      - DW706
+~
+
+
+
+ 
+
+      H. Grinders. The responsible party should select grinders with the lowest loaded A-weighted sound power level (SWLA) that meet their needs. Acceptable examples include but are not limited to:
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - Manufacturer brand name
+      - Model number
+    * - Ryobi
+      - AG401
+    * - Ryobi
+      - AG451
+    * - Hitachi
+      - G12SR2
+    * - Ridgid
+      - R1000
+    * - Milwaukee
+      - 6148-6
+    * - DeWalt
+      - DW402
+    * - Bosch
+      - 1700A
+~
+
+ 
+
+      I. Jig Saws. The responsible party should select jig saws with the lowest loaded A-weighted sound power level (SWLA) that meet their needs. Acceptable examples include but are not limited to:
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - Manufacturer brand name
+      - Model number
+    * - Skil
+      - 4380
+    * - Milwaukee
+      - 6266-22
+    * - Black and Decker
+      - JS600
+~
+
+
+
+ 
+
+      J. Hammer Drills. The responsible party should select hammer drills with the lowest loaded A-weighted sound power level (SWLA) that meet their needs. Acceptable examples include but are not limited to:
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - Manufacturer brand name
+      - Model number
+    * - Hitachi
+      - DH24PE
+    * - DeWalt
+      - D25103
+    * - Bosch
+      - 11224VSR
+    * - DeWalt
+      - DW505
+~
+
+
+
+ 
+
+      K. The responsible party must consult the Federal CDC NIOSH power tools database to ensure that no quieter tools are available. If any of the tools set forth in subparagraphs A through J of this paragraph have been discontinued, the responsible party must contact the manufacturer to obtain the model number for any available newer model that has an equivalent or lower decibel level. If a tool is selected that is not on the DEP approved list, the tool must be rated to the same sound reduction or be certified to a lower decibel level than the tool cited in each applicable section.
+
+
 
 
 
@@ -17506,6 +17404,45 @@ Any heavy duty trade waste hauling vehicle that meets the definition set forth i
 
 
 (a) An owner or operator of a heavy duty trade waste hauling vehicle that meets the definition set forth in 15 RCNY § 51-01 may apply to the Commissioner no later than June 1, 2019 for a variance pursuant to Section 24-110 of the Administrative Code if upon evaluation by the Department, there is a lack of feasibility or unavailability finding for either spatial constraints or safety concerns. Nothing in this section shall preclude the Business Integrity Commission from issuing a financial hardship waiver, pursuant to Section 24-163.11(c) of the Administrative Code.
+
+
+
+
+
+
+Chapter 52: After Hours Noise Complaints
+--------------------------------------------------
+
+
+
+*§ 52-01 After Hours Response Time at Construction Sites.* ::
+
+
+(a) (1) When a complaint is made to the Department of Environmental Protection (DEP) concerning after hours noise at a construction site, DEP staff will determine whether an after hours variance has been issued pursuant to Section 24-223(a) of the New York City Noise Control Code by the Department of Buildings (DOB). If there is no variance, an inspection will be conducted the same day if the complaint is received during likely working hours. If the complaint is not received during likely working hours, the inspection will be conducted the following weekend or during the same after hours period, as applicable.
+
+   (2) For locations with a DOB variance, an inspection will be conducted during the next time period during which the after hours variance is in effect.
+
+(b) For locations with a DOB variance, DEP will prioritize inspections based upon the number of complaints received per location on a given day.
+
+(c) DEP staff should also monitor after hour complaints to identify situations where complaints have been received about three of more construction sites within a one mile radius of each other and were received within four hours of each other. Where feasible and when such complaints were received during likely working hours, the inspections will be conducted at such locations whether or not there is a variance.
+
+(d) (1) If an after hours complaint is received regarding noise occurring on a weekday, DEP staff shall inspect the location the following weekday.
+
+   (2) If an after hours complaint is received regarding noise occurring on a weekend, DEP staff shall inspect at least 95% of such complaints the following weekend, and the remaining percentage of such complaints, if any, shall be inspected the weekend thereafter.
+
+
+
+
+
+
+
+
+*§ 52-02 After Hours Response Time for Street Work.* ::
+
+
+(a) When a complaint is reported to DEP concerning after hours noise from street construction, which would require an after hours variance from the Department of Transportation (DOT), DEP staff will check the DOT website. If there is no variance, or a variance only for that one day, an inspection will be conducted that day or night. If it is unclear from the website if there is a variance, or if there is a variance within the first three days of receiving such complaint, DEP will conduct an inspection to ascertain if there is a DOT permit and to monitor for noise. DEP staff should inspect 75% of all street construction complaints within three days or less. The remainder of the 25% of complaints should be inspected by the fourth day.
+
+(b) DEP staff should also monitor after-hour complaints to identify situations where three or more complaints relate to the same work location and are received within four hours of each other. Where feasible and the three or more complaints are received within working hours, the inspection will be conducted for those locations whether or not there is an after hours variance.
 
 
 
