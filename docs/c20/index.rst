@@ -4897,7 +4897,7 @@ Chapter 57: Commuter Van Drivers
 .. list-table::
     :header-rows: 1
 
-    * - 35 RCNY § 57-10 (e)
+    * - 35 RCNY § 57-10(e)
       - Fine: $1,000 to be paid if Driver applies for a new License of any type.
       - Appearance N/A
 ~
@@ -4923,7 +4923,7 @@ Chapter 57: Commuter Van Drivers
     :header-rows: 1
 
     * - 35 RCNY § 57-11(a)
-      - Fine: $400.
+      - Fine: $400
       - Appearance NOT Required
 ~
 
@@ -5019,7 +5019,7 @@ Chapter 57: Commuter Van Drivers
 .. list-table::
     :header-rows: 1
 
-    * - 35 RCNY § 57-11(e)(1)&amp;(2)(A)
+    * - 35 RCNY § 57-11(e)(1) &amp; (2)(A)
       - Fine: $500 first violation; $1,000 subsequent violations within 24 months
       - Appearance NOT Required
 ~
@@ -5085,7 +5085,7 @@ Chapter 57: Commuter Van Drivers
     :header-rows: 1
 
     * - 35 RCNY § 57-12(a)(2)
-      - Fine: $1,000 and/or suspension up to 30 days or revocation
+      - Fine: $1,000 and/or suspension up to 30 days or revocation.
       - Appearance Required
 ~
 
@@ -5102,7 +5102,7 @@ Chapter 57: Commuter Van Drivers
     :header-rows: 1
 
     * - 35 RCNY § 57-12(b)
-      - Fine: $350-1,000 and/or suspension up to 60 days or revocation.
+      - Fine: $350 - $1,000 and/or suspension up to 60 days or revocation.
       - Appearance Required
 ~
 
@@ -5119,7 +5119,7 @@ Chapter 57: Commuter Van Drivers
     :header-rows: 1
 
     * - 35 RCNY § 57-12(c)
-      - Fine: $500-$1,500 and or suspension up to 60 days or revocation.
+      - Fine: $500 - $1,500 and or suspension up to 60 days or revocation.
       - Appearance Required 
 ~
 
@@ -5225,7 +5225,7 @@ Chapter 57: Commuter Van Drivers
     :header-rows: 1
 
     * - 35 RCNY § 57-12(f)
-      - Fine: $150-$350 and/or suspension up to 30 days or revocation.
+      - Fine: $150 - $350 and/or suspension up to 30 days or revocation.
       - Appearance Required
 ~
 
@@ -5242,7 +5242,7 @@ Chapter 57: Commuter Van Drivers
     :header-rows: 1
 
     * - 35 RCNY § 57-12(g)
-      - Fine: $150-$350 and/or suspension up to 30 days or revocation.
+      - Fine: $150 - $350 and/or suspension up to 30 days or revocation.
       - Appearance Required
 ~
 
@@ -5276,7 +5276,7 @@ Chapter 57: Commuter Van Drivers
     :header-rows: 1
 
     * - 35 RCNY § 57-12(i)
-      - Fine: $350-$1,000 and/or suspension up to 30 days or revocation.
+      - Fine: $350 - $1,000 and/or suspension up to 30 days or revocation.
       - Appearance Required
 ~
 
@@ -5459,7 +5459,7 @@ Chapter 57: Commuter Van Drivers
     :header-rows: 1
 
     * - 35 RCNY § 57-14(a)
-      - Fine: $350-$1,000 and/or suspension up to 30 days, or revocation if Driver is found guilty of having violated this rule more than three times within an 18-month period
+      - Fine: $350 - $1,000 and/or suspension up to 30 days, or revocation if Driver is found guilty of having violated this rule more than three times within an 18-month period
       - Appearance Required
 ~
 
@@ -5607,7 +5607,7 @@ Chapter 57: Commuter Van Drivers
     :header-rows: 1
 
     * - 35 RCNY § 57-15(g)
-      - Fine: $100-$250 and order restitution for any overcharge passenger
+      - Fine: $100 - $250 and order restitution for any overcharge passenger
       - Appearance Required
 ~
 
@@ -5784,7 +5784,7 @@ Chapter 57: Commuter Van Drivers
     :header-rows: 1
 
     * - 35 RCNY § 57-20(a)
-      - Fine: $200-$350 for first violation; $350-$500 for each subsequent violation within 36 months
+      - Fine: $200 - $350 for first violation; $350 - $500 for each subsequent violation within 36 months
       - Appearance Required
 ~
 
@@ -5821,7 +5821,7 @@ Chapter 57: Commuter Van Drivers
     :header-rows: 1
 
     * - 35 RCNY § 57-20(c)
-      - Fine: $100-$250 and order restitution for any overcharge to the passenger
+      - Fine: $100 - $250 and order restitution for any overcharge to the passenger
       - Appearance Required 
 ~
 
@@ -5838,7 +5838,7 @@ Chapter 57: Commuter Van Drivers
     :header-rows: 1
 
     * - 35 RCNY § 57-20(d)
-      - Fine: $200-$350
+      - Fine: $200 - $350
       - Appearance Required
 ~
 
@@ -6139,7 +6139,7 @@ A Driver will not be entitled to collect more than two combined Cancellation and
 
 (z) Secured Lender Escrow Amount means the Market Value of the Taxicab Medallion being transferred less the value of any debt or liens secured by Medallion and the Transfer Costs.
 
-(aa) Secured Lender Recipient means a secured creditor seeking to repossess or foreclose upon a Taxicab Medallion in order to realize the value of its secured interest, but that is not applying to operate the Taxicab Medallion and will not be considered a Transferee provided the Secured Lender Recipient places the Medallion in storage as required in 35 RCNY § 58-46(c) of this Chapter.
+(aa) Secured Lender Recipient means a secured creditor seeking to repossess or foreclose upon a Taxicab Medallion in order to realize the value of its secured interest, but that is not applying to operate the Taxicab Medallion and will not be considered a Transferee provided the Secured Lender Recipient places the Medallion in storage as required in 35 RCNY § 58-46(c).
 
 (bb) Stop-Use Directive is a notice sent to an Owner by the Commission directing the Owner to stop using a designated Agent because that Agent's License has been revoked or suspended.
 
@@ -6602,7 +6602,7 @@ A Driver will not be entitled to collect more than two combined Cancellation and
     :header-rows: 1
 
     * - 35 RCNY § 58-11(d)
-      - Fine: $200 for the first violation; $350-$500 for the second or subsequent violation(s) within 36 months
+      - Fine: $200 for the first violation; $350 - $500 for the second or subsequent violation(s) within 36 months
       - Appearance NOT Required
 ~
 
@@ -6690,7 +6690,7 @@ A Driver will not be entitled to collect more than two combined Cancellation and
     :header-rows: 1
 
     * - 35 RCNY § 58-12(b)
-      - Fine: $50-$350 and/or suspension up to 30 days
+      - Fine: $50 - $350 and/or suspension up to 30 days
       - Appearance Required
 ~
 
@@ -6711,7 +6711,7 @@ A Driver will not be entitled to collect more than two combined Cancellation and
     :header-rows: 1
 
     * - 35 RCNY § 58-12(c)
-      - Fine: $100-$350 and/or suspension up to 30 days; Suspension until compliance
+      - Fine: $100 - $350 and/or suspension up to 30 days; Suspension until compliance
       - Appearance Required
 ~
 
@@ -6790,7 +6790,7 @@ A Driver will not be entitled to collect more than two combined Cancellation and
     :header-rows: 1
 
     * - 35 RCNY § 58-13(a)
-      - Fine: $150-$350 and/or suspension up to 30 days
+      - Fine: $150 - $350 and/or suspension up to 30 days
       - Appearance Required
 ~
 
@@ -6870,7 +6870,7 @@ A Driver will not be entitled to collect more than two combined Cancellation and
     :header-rows: 1
 
     * - 35 RCNY § 58-13(d)(2)
-      - Fine: $50-$350 and/or suspension up to 30 days
+      - Fine: $50 - $350 and/or suspension up to 30 days
       - Appearance Required
 ~
 
@@ -6889,7 +6889,7 @@ A Driver will not be entitled to collect more than two combined Cancellation and
     :header-rows: 1
 
     * - 35 RCNY § 58-13(e)(1)
-      - Fine: $500-$1,000
+      - Fine: $500 - $1,000
       - Appearance Required
 ~
 
@@ -7013,7 +7013,7 @@ A Driver will not be entitled to collect more than two combined Cancellation and
     :header-rows: 1
 
     * - 35 RCNY § 58-14(d)
-      - Fine: $100-$250
+      - Fine: $100 - $250
       - Appearance Required
 ~
 
@@ -7108,7 +7108,7 @@ A Driver will not be entitled to collect more than two combined Cancellation and
     :header-rows: 1
 
     * - 35 RCNY § 58-15(b)
-      - Fine: $350-$1,000 and suspension up to 60- days or revocation
+      - Fine: $350 - $1,000 and suspension up to 60 days or revocation
       - Appearance Required
 ~
 
@@ -7125,7 +7125,7 @@ A Driver will not be entitled to collect more than two combined Cancellation and
     :header-rows: 1
 
     * - 35 RCNY § 58-15(c)
-      - Fine: $150-$350 and/or Suspension up to 30 days or revocation.
+      - Fine: $150 - $350 and/or Suspension up to 30 days or revocation.
       - Appearance Required
 ~
 
@@ -7142,7 +7142,7 @@ A Driver will not be entitled to collect more than two combined Cancellation and
     :header-rows: 1
 
     * - 35 RCNY § 58-15(d)
-      - Fine: $150-$350 and/or Suspension up to 30 days or revocation.
+      - Fine: $150 - $350 and/or Suspension up to 30 days or revocation.
       - Appearance Required
 ~
 
@@ -7159,7 +7159,7 @@ A Driver will not be entitled to collect more than two combined Cancellation and
     :header-rows: 1
 
     * - 35 RCNY § 58-15(e)
-      - Fine: $350-$1,000 and/or suspension up to 30 days or revocation
+      - Fine: $350 - $1,000 and/or suspension up to 30 days or revocation
       - Appearance Required
 ~
 
@@ -7176,7 +7176,7 @@ A Driver will not be entitled to collect more than two combined Cancellation and
     :header-rows: 1
 
     * - 35 RCNY § 58-15(f)
-      - Fine: $500-$1,500 and/or suspension up to 60 days or revocation
+      - Fine: $500 - $1,500 and/or suspension up to 60 days or revocation
       - Appearance Required
 ~
 
@@ -7197,7 +7197,7 @@ A Driver will not be entitled to collect more than two combined Cancellation and
     :header-rows: 1
 
     * - 35 RCNY § 58-15(g)
-      - Fine: $50-$250
+      - Fine: $50 - $250
       - Appearance Required
 ~
 
@@ -7214,7 +7214,7 @@ A Driver will not be entitled to collect more than two combined Cancellation and
     :header-rows: 1
 
     * - 35 RCNY § 58-15(h)
-      - Fine: $50-$350
+      - Fine: $50 - $350
       - Appearance Required
 ~
 
@@ -7395,7 +7395,7 @@ A Driver will not be entitled to collect more than two combined Cancellation and
     :header-rows: 1
 
     * - 35 RCNY § 58-16(d)(1)
-      - Fine: $350 – 1,000 and/or suspension up to 30 days or revocation
+      - Fine: $350 - 1,000 and/or suspension up to 30 days or revocation
       - Appearance Required
 ~
 
@@ -7412,7 +7412,7 @@ A Driver will not be entitled to collect more than two combined Cancellation and
     :header-rows: 1
 
     * - 35 RCNY § 58-16(d)(2)
-      - Fine: $350 – 1,000 and/or suspension up to 30 days or revocation
+      - Fine: $350 - 1,000 and/or suspension up to 30 days or revocation
       - Appearance Required
 ~
 
@@ -7429,7 +7429,7 @@ A Driver will not be entitled to collect more than two combined Cancellation and
     :header-rows: 1
 
     * - 35 RCNY § 58-16(d)(3)
-      - Fine: $100 – $350 and/or suspension up to 30 days
+      - Fine: $100 - $350 and/or suspension up to 30 days
       - Appearance Required
 ~
 
@@ -7669,7 +7669,7 @@ A Driver will not be entitled to collect more than two combined Cancellation and
 
 (b) Indirect Owner Operations.
 
-   (1) Notwithstanding the provisions in § 58-18(a) above, an Owner can authorize employees or a Licensed Agent to perform any or all such functions.
+   (1) Notwithstanding the provisions in 35 RCNY § 58-18(a) above, an Owner can authorize employees or a Licensed Agent to perform any or all such functions.
 
    (2) The use of an employee or Agent will not relieve an Owner of any obligation under these rules.
 
@@ -7696,7 +7696,7 @@ A Driver will not be entitled to collect more than two combined Cancellation and
     :header-rows: 1
 
     * - 35 RCNY § 58-18(c)(1)
-      - Fine: $500 – 1,000 and/or suspension up to 30 days
+      - Fine: $500 - 1,000 and/or suspension up to 30 days
       - Appearance Required
 ~
 
@@ -7780,7 +7780,7 @@ A Driver will not be entitled to collect more than two combined Cancellation and
 
  
 
-   (3) Must Maintain Business Premises. The Owner must ensure that the Agent maintains business premises meeting the requirements set forth in both 35 RCNY § 58-17 and 35 RCNY § 63-10 of these Rules. 
+   (3) Must Maintain Business Premises. The Owner must ensure that the Agent maintains business premises meeting the requirements set forth in both 35 RCNY § 58-17 and 35 RCNY § 63-10. 
 
  
 
@@ -7808,7 +7808,7 @@ A Driver will not be entitled to collect more than two combined Cancellation and
     :header-rows: 1
 
     * - 35 RCNY § 58-18(d)(4)(i)
-      - Fine: $500 – 1,000 and/or suspension up to 30 days
+      - Fine: $500 - 1,000 and/or suspension up to 30 days
       - Appearance Required
 ~
 
@@ -7866,7 +7866,7 @@ A Driver will not be entitled to collect more than two combined Cancellation and
     :header-rows: 1
 
     * - 35 RCNY § 58-20(b)(1)
-      - Fine: $250-$500 and suspension until compliance
+      - Fine: $250 - $500 and suspension until compliance
       - Appearance Required
 ~
 
@@ -7887,7 +7887,7 @@ A Driver will not be entitled to collect more than two combined Cancellation and
     :header-rows: 1
 
     * - 35 RCNY § 58-20(b)(2)(i)-(ii)
-      - Fine: $250-$500 and suspension until compliance
+      - Fine: $250 - $500 and suspension until compliance
       - Appearance NOT Required
 ~
 
@@ -7954,7 +7954,7 @@ A Driver will not be entitled to collect more than two combined Cancellation and
     :header-rows: 1
 
     * - 35 RCNY § 58-21(a)
-      - Fine: $75-$150 for the first violation,$150-$300 for a second violation,$300-$500 for a third violation within 24 months, andSuspension until compliance
+      - Fine: $75 - $150 for the first violation,$150 - $300 for a second violation,$300 - $500 for a third violation within 24 months, andSuspension until compliance
       - Appearance Required 
 ~
 
@@ -8027,7 +8027,7 @@ A Driver will not be entitled to collect more than two combined Cancellation and
 
    (2) Cost Adjustments for the Lease of Hybrid Electric Taxicabs.
 
-      (i) The Standard Lease Cap for Hybrid Electric Taxicabs and Diesel-Fueled Taxicabs that are hacked-up under 35 RCNY §§ 67-05 or 67-05.1C of these Rules and that meet the requirements of Section 19-533 of the Administrative Code are raised by $3 per shift ($21 per week), so that the lease amount for one shift must not now exceed:
+      (i) The Standard Lease Cap for Hybrid Electric Taxicabs and Diesel-Fueled Taxicabs that are hacked-up under 35 RCNY §§ 67-05 or 67-05.1C and that meet the requirements of Section 19-533 of the Administrative Code are raised by $3 per shift ($21 per week), so that the lease amount for one shift must not now exceed:
 
          A. $108, for all 12-hour day shifts
 
@@ -8065,7 +8065,7 @@ A Driver will not be entitled to collect more than two combined Cancellation and
 
    (3) The Standard Lease Cap:
 
-      (i) For a Medallion-only Hybrid Taxicab, Hacked-up under 35 RCNY §§ 67-05 or 67-05.1C of these Rules and that meet the requirements of Section 19-533 of the Administrative Code is $994 weekly.
+      (i) For a Medallion-only Hybrid Taxicab, Hacked-up under 35 RCNY §§ 67-05 or 67-05.1C and that meet the requirements of Section 19-533 of the Administrative Code is $994 weekly.
 
       (ii) For all other Medallion-only Taxicabs, (including Accessible Taxicabs), is $952 weekly, except that if the Medallion Owner must place an Accessible Taxicab into service as required under subdivisions (a) through (c) or (e) of 35 RCNY § 58-50, or is currently receiving payments under 35 RCNY § 58-50(j)(2), the weekly lease for that Accessible Taxicab shall include a credit to the Driver of $77 per week for the four year period of time required in 35 RCNY § 58-50(f). This reduction is the result of the Medallion Owner’s receipt of payment under 35 RCNY § 58-50(j)(1)(ii) and (j)(2).
 
@@ -8200,7 +8200,7 @@ A Driver will not be entitled to collect more than two combined Cancellation and
 
          D. fines imposed on the owner for violation of 35 RCNY § 58-31(a).
 
-      (xi) Credit Card Processing Surcharge for Leases entered into pursuant to 35 RCNY § 58-21(c)(1), 58-21(c)(2), 58-21(c)(3), or 58-21(c)(4) of these Rules:
+      (xi) Credit Card Processing Surcharge for Leases entered into pursuant to 35 RCNY § 58-21(c)(1), 58-21(c)(2), 58-21(c)(3), or 58-21(c)(4):
 
          A. For daily leases under 35 RCNY § 58-21(c)(1) and 58-21(c)(2), an Owner of a Taxicab can charge a $11 surcharge per shift for credit card processing.
 
@@ -8216,9 +8216,13 @@ A Driver will not be entitled to collect more than two combined Cancellation and
 
             a rule seeking a similar adjustment to the Credit Card Surcharge for Medallion-only and Medallion and Vehicle leases under 35 RCNY § 58-21(c)(3) and 58-21(c)(4) by multiplying the shift rate surcharge by twelve.
 
-            For example, if the average credit card usage per shift, using the criteria set forth above, is $200, the per shift surcharge shall be $10 ($60 per week, $120 per week for a lease under 35 RCNY § 58-21(c)(3) and (4)). If the average credit card usage per shift is $240, the per shift surcharge shall be $12 ($72 per week, $144 per week for a lease under 35 RCNY § 58-21(c)(3) and (4)). E. Upon enactment of any rule that changes the Credit Card Surcharge, the TLC will issue an industry notice setting forth the new Credit Card Surcharge. F. Notwithstanding the results of the review(s) above, the TLC will not adjust, propose, or seek an adjustment to Credit Card Surcharges to any amount less than $10 for any daily lease entered into pursuant to 35 RCNY § 58-21(c)(1), 58-21(c)(2), or less than $60 for any weekly lease entered into pursuant to 35 RCNY § 58-21(c)(1), 58-21(c)(2), or less than $120 for any lease entered into pursuant 58-21(c)(3) and 58-21(c)(4), irrespective of the average credit card usage per shift.
+            For example, if the average credit card usage per shift, using the criteria set forth above, is $200, the per shift surcharge shall be $10 ($60 per week, $120 per week for a lease under 35 RCNY § 58-21(c)(3) and (4)). If the average credit card usage per shift is $240, the per shift surcharge shall be $12 ($72 per week, $144 per week for a lease under 35 RCNY § 58-21(c)(3) and (4)).
 
-      (xii) Beginning on January 1, 2015, the Taxicab Improvement Surcharge, which must be paid as provided in 35 RCNY § 58-16 of these Rules.
+         E. Upon enactment of any rule that changes the Credit Card Surcharge, the TLC will issue an industry notice setting forth the new Credit Card Surcharge.
+
+         F. Notwithstanding the results of the review(s) above, the TLC will not adjust, propose, or seek an adjustment to Credit Card Surcharges to any amount less than $10 for any daily lease entered into pursuant to 35 RCNY § 58-21(c)(1), 58-21(c)(2), or less than $60 for any weekly lease entered into pursuant to 35 RCNY § 58-21(c)(1), 58-21(c)(2), or less than $120 for any lease entered into pursuant 58-21(c)(3) and 58-21(c)(4), irrespective of the average credit card usage per shift.
+
+      (xii) Beginning on January 1, 2015, the Taxicab Improvement Surcharge, which must be paid as provided in 35 RCNY § 58-16.
 
    (6) Optional Gasoline Surcharge: An Owner/lessor, or his or her Agent leasing a Taxicab under 35 RCNY § 58-21(c)(1) or 58-21(c)(2), may chose to provide gasoline to a lessee and charge a gas surcharge in an amount as specified in this section in addition to the Lease Cap provided in 35 RCNY § 58-21(c)(1) or 58-21(c)(2), provided that
 
@@ -8567,7 +8571,7 @@ A Driver will not be entitled to collect more than two combined Cancellation and
 
          B. When a cancellation payment is made, the Driver's obligation to make lease payments terminates immediately.
 
-   (6) Deposit information. Each lease must include the information regarding deposits required by 35 RCNY § 58-21(e) of this chapter. 
+   (6) Deposit information. Each lease must include the information regarding deposits required by 35 RCNY § 58-21(e). 
 
  
 
@@ -8586,7 +8590,7 @@ A Driver will not be entitled to collect more than two combined Cancellation and
 
 (j) Retaliation.
 
-   (1) An Owner must not retaliate against any Driver for making a good faith complaint against any Owner for violation of the leasing provisions in 35 RCNY § 58-21 of this chapter.
+   (1) An Owner must not retaliate against any Driver for making a good faith complaint against any Owner for violation of the leasing provisions in 35 RCNY § 58-21.
 
    (2) "Retaliation" will be broadly construed, and will include imposing any adverse condition or consequence on the Driver or withholding or withdrawing any beneficial condition or consequence from the Driver. 
 
@@ -8715,7 +8719,7 @@ A Driver will not be entitled to collect more than two combined Cancellation and
     :header-rows: 1
 
     * - 35 RCNY § 58-22(d)(4)
-      - Fine: $100 – $350 and/or suspension up to 30 days
+      - Fine: $100 - $350 and/or suspension up to 30 days
       - Appearance NOT Required
 ~
 
@@ -9124,9 +9128,9 @@ A Driver will not be entitled to collect more than two combined Cancellation and
 
    (2) On trips beyond the City of New York, the passenger must pay all necessary tolls to and from the destination.
 
-   (3) A Driver who charges a passenger more than the actual amount of the EZ-Pass® toll is guilty of an overcharge as prohibited by 35 RCNY § 80-17 of the TLC Drivers chapter.
+   (3) A Driver who charges a passenger more than the actual amount of the EZ-Pass® toll is guilty of an overcharge as prohibited by 35 RCNY § 80-17.
 
-   (4) A Driver who fails to reimburse an EZ-Pass® tag holder for all toll charges incurred, including toll charges for which there is no passenger reimbursement, will be subject to the provisions of 35 RCNY § 80-15(d)(4) of the TLC Drivers chapter.
+   (4) A Driver who fails to reimburse an EZ-Pass® tag holder for all toll charges incurred, including toll charges for which there is no passenger reimbursement, will be subject to the provisions of 35 RCNY § 80-15(d)(4).
 
    (5) In addition to any other penalty permitted, the Commission can order restitution to a passenger or the EZ-Pass® tag holder.
 
@@ -9293,7 +9297,7 @@ EZ-Pass
     :header-rows: 1
 
     * - 35 RCNY § 58-28(a)
-      - Fine: $25 – 250
+      - Fine: $25 - $250
       - Appearance Required
 ~
 
@@ -9331,7 +9335,7 @@ EZ-Pass
     :header-rows: 1
 
     * - 35 RCNY § 58-28(c)
-      - Fine: $50 – 200
+      - Fine: $50 - $200
       - Appearance Required
 ~
 
@@ -9390,7 +9394,7 @@ EZ-Pass
     :header-rows: 1
 
     * - 35 RCNY § 58-29(b)
-      - Fine: (penalties below are cumulative)0-30 days past inspection due date:$100 and Suspension until compliance31-60 days past inspection due date: $100-$250 and Suspension until compliance61-120 days past inspection due date: $250-$500 and Suspension until complianceMore than 120 days past inspection due date: $500 and/or revocation.
+      - Fine: (penalties below are cumulative)0 - 30 days past inspection due date:$100 and Suspension until compliance31 - 60 days past inspection due date:$100 - $250 and Suspension until compliance61 - 120 days past inspection due date:$250 - $500 and Suspension until complianceMore than 120 days past inspection due date: $500 and/or revocation.
       - Appearance Required
 ~
 
@@ -9451,7 +9455,7 @@ EZ-Pass
     :header-rows: 1
 
     * - 35 RCNY § 58-30(c)
-      - Fine: $100 – $350 and/or suspension up to 30 daysSuspension until compliance
+      - Fine: $100 - $350 and/or suspension up to 30 daysSuspension until compliance
       - Appearance N/A
 ~
 
@@ -9512,7 +9516,7 @@ EZ-Pass
     :header-rows: 1
 
     * - 35 RCNY § 58-31(c)(1)
-      - Fine: $100 – $250
+      - Fine: $100 - $250
       - Appearance Required
 ~
 
@@ -9529,7 +9533,7 @@ EZ-Pass
     :header-rows: 1
 
     * - 35 RCNY § 58-31(c)(2)
-      - Fine: $100 – $250
+      - Fine: $100 - $250
       - Appearance Required
 ~
 
@@ -9537,7 +9541,7 @@ EZ-Pass
 
  
 
-(d) No Alterations. An Owner will make no structural change in a Taxicab or in an OTV that deviates from the Taxicab specifications set forth in 35 RCNY Chapter 67 of these Rules without the Commission's written approval.
+(d) No Alterations. An Owner will make no structural change in a Taxicab or in an OTV that deviates from the Taxicab specifications set forth in 35 RCNY Chapter 67 without the Commission's written approval.
 
  
 
@@ -9563,7 +9567,7 @@ EZ-Pass
     :header-rows: 1
 
     * - 35 RCNY § 58-31(e)
-      - Fine: $100 – $350 and/or suspension up to 30 days
+      - Fine: $100 - $350 and/or suspension up to 30 days
       - Appearance Required
 ~
 
@@ -9650,7 +9654,7 @@ EZ-Pass
     :header-rows: 1
 
     * - 35 RCNY § 58-31(h)
-      - Fine: $50-$350 and/or suspension up to 30 days
+      - Fine: $50 - $350 and/or suspension up to 30 days
       - Appearance Required
 ~
 
@@ -9815,7 +9819,7 @@ EZ-Pass
 
    (1) A Taxicab Identification Braille Plaque.
 
-      (i) This plaque must be made of .040 gauge aluminum with a matte finish and measure 3-1/4 inches in length and 1-3/4 inches in height, with radius corners.
+      (i) This plaque must be made of .040 gauge aluminum with a matte finish and measure 3 1/4 inches in length and 1 3/4 inches in height, with radius corners.
 
       (ii) The plaque must state, in Raster Braille grade two:
 
@@ -9912,7 +9916,7 @@ EZ-Pass
       - The size of the Taxicab logo decals must be determined by the Commission
     * - (c) Medallion number (required)
       - Front and rear of roof light.
-      - 23/4"to 3"high letters 1/2"thick.
+      - 2 3/4"to 3"high letters 1/2"thick.
     * - (d)"Owner-Driver"(optional)
       - Rear of taxi.
       - 3"maximum height
@@ -9936,7 +9940,7 @@ EZ-Pass
       - 4"by 6", or smaller.
     * - (k) Brand name Technology Service Provider
       - On the bezel of the Technology System
-      - Not to exceed1-1/4"in height and 4"in length
+      - Not to exceed 1 1/4"in height and 4"in length
     * - (l)"This vehicle is equipped with camera security. YOU WILL BE PHOTOGRAPHED."(Non-detachable decals only)
       - On rear passenger window
       - Letters must be at least one-half inch high.
@@ -10026,7 +10030,7 @@ EZ-Pass
     :header-rows: 1
 
     * - 35 RCNY § 58-34(a)(1)
-      - Fine: $50-$350 and/or suspension up to 30 days
+      - Fine: $50 - $350 and/or suspension up to 30 days
       - Appearance Required
 ~
 
@@ -10047,7 +10051,7 @@ EZ-Pass
     :header-rows: 1
 
     * - 35 RCNY § 58-34(b)
-      - Fine: $100 – $350 And removal of radio
+      - Fine: $100 - $350 And removal of radio
       - Appearance N/A
 ~
 
@@ -10093,7 +10097,7 @@ EZ-Pass
 
    (1) An Owner may equip a Taxicab with an authorized Rooftop Advertising Fixture in accordance with 35 RCNY § 67-16.
 
-   (2) The Owner must remove a Rooftop Advertising Fixture if the TLC terminates such authorization in accordance with 35 RCNY § 67-16(e) of these Rules.
+   (2) The Owner must remove a Rooftop Advertising Fixture if the TLC terminates such authorization in accordance with 35 RCNY § 67-16(e).
 
    (3) An Owner must not use any rooftop advertising fixture unless the Owner has obtained a permit to use such a fixture
 
@@ -10105,7 +10109,7 @@ EZ-Pass
 .. list-table::
     :header-rows: 1
 
-    * - 35 RCNY § 58-34(e)(1-4)
+    * - 35 RCNY § 58-34(e)(1)-(4)
       - Fine: $200
       - Appearance NOT Required
 ~
@@ -10150,7 +10154,7 @@ EZ-Pass
 
 (g) E-Hail Application Devices.
 
-   (1) A Taxicab may be equipped with or the Driver may utilize a device with an E-Hail Application installed. A Driver's use of an E-Hail Application is subject to the requirements of subdivision 35 RCNY § 80-14(g) of these Rules except that a Driver may accept an E-Hail request with a single touch using pre-programmed buttons or using voice activation while the vehicle is in motion. Use of such device by a Driver is optional and an Owner cannot require a Driver to use an E-Hail Application. A Driver may use no more than one electronic device with an E-Hail Application, separate from the Technology System and/or a device provided for the Accessible Dispatch program.
+   (1) A Taxicab may be equipped with or the Driver may utilize a device with an E-Hail Application installed. A Driver's use of an E-Hail Application is subject to the requirements of subdivision 35 RCNY § 80-14(g) except that a Driver may accept an E-Hail request with a single touch using pre-programmed buttons or using voice activation while the vehicle is in motion. Use of such device by a Driver is optional and an Owner cannot require a Driver to use an E-Hail Application. A Driver may use no more than one electronic device with an E-Hail Application, separate from the Technology System and/or a device provided for the Accessible Dispatch program.
 
    (2) An Owner must not permit a Taxicab to be equipped with a device that allows a Driver to accept payment electronically other than:
 
@@ -10250,7 +10254,7 @@ EZ-Pass
 *§ 58-36 Vehicle Equipment – In Vehicle Camera System (IVCS).* ::
 
 
-(a) When an existing in-vehicle camera system is required to be replaced or when the system is installed, the Taxicab must be equipped with an IVCS that meets the specification of 35 RCNY § 67-12; the system must be installed and maintained by the manufacturer's authorized installer or a Taximeter Business that meets the requirements of 35 RCNY § 67-12 of these Rules; and the IVCS must be functioning and maintained in good working order. 
+(a) When an existing in-vehicle camera system is required to be replaced or when the system is installed, the Taxicab must be equipped with an IVCS that meets the specification of 35 RCNY § 67-12; the system must be installed and maintained by the manufacturer's authorized installer or a Taximeter Business that meets the requirements of 35 RCNY § 67-12; and the IVCS must be functioning and maintained in good working order. 
 
  
 
@@ -10507,7 +10511,7 @@ EZ-Pass
     :header-rows: 1
 
     * - 35 RCNY § 58-39(a) &amp; (b)
-      - Fine: $250 – 1,500 and/or suspension up to 30 days. suspension until compliance under to § 68-16 of this title
+      - Fine: $250 - 1,500 and/or suspension up to 30 days. suspension until compliance under to 35 RCNY § 68-16
       - Appearance N/A
 ~
 
@@ -10554,7 +10558,7 @@ EZ-Pass
     :header-rows: 1
 
     * - 35 RCNY § 58-39(d) (1)-(4)
-      - Fine: $500-$1,000 and/or suspension up to 60 days or revocation
+      - Fine: $500 - $1,000 and/or suspension up to 60 days or revocation
       - Appearance Required
 ~
 
@@ -10578,7 +10582,7 @@ EZ-Pass
 .. list-table::
     :header-rows: 1
 
-    * - 35 RCNY § 58-39(e) (3)(i)
+    * - 35 RCNY § 58-39(e)(3)(i)
       - Fine: $150 if plead guilty before a hearing; $200 if found guilty following a hearing.
       - Appearance NOT Required
 ~
@@ -10596,7 +10600,7 @@ EZ-Pass
 .. list-table::
     :header-rows: 1
 
-    * - 35 RCNY § 58-39(e) (3)(ii)
+    * - 35 RCNY § 58-39(e)(3)(ii)
       - Fine: $100
       - Appearance NOT Required
 ~
@@ -10613,7 +10617,7 @@ EZ-Pass
 .. list-table::
     :header-rows: 1
 
-    * - 35 RCNY § 58-39(e) (3)(iii)
+    * - 35 RCNY § 58-39(e)(3)(iii)
       - Fine: $50
       - Appearance NOT Required
 ~
@@ -10630,7 +10634,7 @@ EZ-Pass
 .. list-table::
     :header-rows: 1
 
-    * - 35 RCNY § 58-39(e) (3)(iv)
+    * - 35 RCNY § 58-39(e)(3)(iv)
       - Fine: $50
       - Appearance NOT Required
 ~
@@ -10806,7 +10810,7 @@ EZ-Pass
     :header-rows: 1
 
     * - 35 RCNY § 58-42(a)-(e)
-      - Fine: $50-350 and/or suspension up to 30 days.
+      - Fine: $50 - 350 and/or suspension up to 30 days.
       - Appearance Required
 ~
 
@@ -10984,7 +10988,7 @@ EZ-Pass
 
 (c) Proof of Identity. An individual Transferee and all Business Entity Persons of a Business Entity Transferee must:
 
-   (1) Provide proof of identity in the form specified in 35 RCNY § 58-04(a) of this Chapter, and
+   (1) Provide proof of identity in the form specified in 35 RCNY § 58-04(a), and
 
    (2) Disclose any trade name under which the Transferee intends to operate.
 
@@ -11404,7 +11408,7 @@ EZ-Pass
 
          B. The interest is in membership of an LLC that owns one or more Medallions.
 
-      (ii) The ownership interest in the Taxicab Medallion must be distributed out of the trust within 60 days after the date on which the beneficiary reaches the age for ownership of a Taxicab Medallion (see § 58-04(b)).
+      (ii) The ownership interest in the Taxicab Medallion must be distributed out of the trust within 60 days after the date on which the beneficiary reaches the age for ownership of a Taxicab Medallion (see 35 RCNY § 58-04(b)).
 
       (iii) The beneficiary must apply and be approved as a Transferee under these Medallion Transfer rules before the transfer will be effective.
 
@@ -11451,23 +11455,23 @@ EZ-Pass
 
 (a) Accessible Vehicle Hack-up: Unrestricted and Alternative Fuel Minifleet Medallions.
 
-   (i) Beginning on the Accessible Conversion Start Date, any Unrestricted Medallion which is a Minifleet Medallion for which a new vehicle is placed into service must be Hacked-up with an Accessible Taxicab meeting the requirements of 35 RCNY § 67-05.2 of these Rules until at least 50 percent of the Unrestricted Minifleet Medallions owned by such Minifleet are Hacked-up with an Accessible Taxicab that meets the requirements of 35 RCNY § 67-05.2 of these Rules.
+   (i) Beginning on the Accessible Conversion Start Date, any Unrestricted Medallion which is a Minifleet Medallion for which a new vehicle is placed into service must be Hacked-up with an Accessible Taxicab meeting the requirements of 35 RCNY § 67-05.2 until at least 50 percent of the Unrestricted Minifleet Medallions owned by such Minifleet are Hacked-up with an Accessible Taxicab that meets the requirements of 35 RCNY § 67-05.2.
 
-   (ii) Following the Accessible Conversion Start Date and beginning at such time that there is available a vehicle qualified for use with an Alternative Fuel Medallion that is also qualified as an Accessible Taxicab under 35 RCNY Chapter 67 of these Rules, any Alternative Fuel Minifleet Medallion for which a new vehicle is placed into service must be Hacked-up with a vehicle that is qualified for use with both an Alternative Fuel Medallion and an Accessible Medallion under 35 RCNY Chapter 67 of these Rules, until at least 50 percent of the Alternative Fuel Minifleet Medallions owned by such Minifleet are Hacked-up with such vehicles.
+   (ii) Following the Accessible Conversion Start Date and beginning at such time that there is available a vehicle qualified for use with an Alternative Fuel Medallion that is also qualified as an Accessible Taxicab under 35 RCNY Chapter 67, any Alternative Fuel Minifleet Medallion for which a new vehicle is placed into service must be Hacked-up with a vehicle that is qualified for use with both an Alternative Fuel Medallion and an Accessible Medallion under 35 RCNY Chapter 67, until at least 50 percent of the Alternative Fuel Minifleet Medallions owned by such Minifleet are Hacked-up with such vehicles.
 
 (b) Accessible Vehicles Hacked-up. An Accessible Vehicle, as indicated by vehicle identification number, which is Hacked-up with any Minifleet Medallion in order to comply with Accessible Taxicab Hack-up requirements for a Minifleet Medallion under subdivision (a) of this section can satisfy an Accessible Taxicab Hack-up requirement under subdivision (a) only at the time of first Hack-up.
 
 (c) Accessible Vehicle Hack-up: Unrestricted and Alternative Fuel Independent Medallions.
 
-   (i) Beginning on the Accessible Conversion Start Date, 50 percent of all Unrestricted Medallions which are Independent Medallions for which a new vehicle is placed into service in each calendar year must be Hacked-up with an Accessible Taxicab meeting the requirements of 35 RCNY § 67-05.2 of these Rules.
+   (i) Beginning on the Accessible Conversion Start Date, 50 percent of all Unrestricted Medallions which are Independent Medallions for which a new vehicle is placed into service in each calendar year must be Hacked-up with an Accessible Taxicab meeting the requirements of 35 RCNY § 67-05.2.
 
-   (ii) Following the Accessible Conversion Start Date and beginning at such time that there is available a vehicle qualified for use with an Alternative Fuel Medallion that is also qualified as an Accessible Taxicab under 35 RCNY Chapter 67 of these Rules, 50 percent of all Alternative Fuel Independent Medallion for which a new vehicle is placed into service in each calendar year must be Hacked-up with a vehicle that is qualified for use with both an Alternative Fuel Medallion and an Accessible Medallion under 35 RCNY Chapter 67 of these Rules.
+   (ii) Following the Accessible Conversion Start Date and beginning at such time that there is available a vehicle qualified for use with an Alternative Fuel Medallion that is also qualified as an Accessible Taxicab under 35 RCNY Chapter 67, 50 percent of all Alternative Fuel Independent Medallion for which a new vehicle is placed into service in each calendar year must be Hacked-up with a vehicle that is qualified for use with both an Alternative Fuel Medallion and an Accessible Medallion under 35 RCNY Chapter 67.
 
    (iii) The TLC will select the Independent Medallions that will be subject to this requirement in a bi-annual lottery. This procedure will also be used for Alternative Fuel Medallions when a qualifying vehicle is available. The lottery will determine accessible vehicle Hack-up requirements for Independent Medallions (including Alternative Fuel Independent Medallions when applicable) until the next following scheduled vehicle replacement for those medallions.
 
    (iv) The TLC will conduct the lottery on or before January 1 of each year for medallions which must place an Accessible Taxicab into service from July 1 to December 31 of that year. For medallions which must place an Accessible Taxicab into service from January 1 to June 30 of the next calendar year, the lottery will be held on or before July 1 of the preceding year.
 
-   (v) The TLC will post on its Web site which Independent Medallions must be Hacked-up with an Accessible Taxicab meeting the requirements of 35 RCNY § 67-05.2 of these Rules as soon as practicable following the lottery.
+   (v) The TLC will post on its Web site which Independent Medallions must be Hacked-up with an Accessible Taxicab meeting the requirements of 35 RCNY § 67-05.2 as soon as practicable following the lottery.
 
    (vi) Those Medallions that are not selected in the lottery held pursuant to paragraph (iv) of this subdivision to Hack-up an Accessible Taxicab in their next vehicle replacement will be required to place an Accessible Taxicab into service in their next following scheduled vehicle replacement.
 
@@ -11483,7 +11487,7 @@ EZ-Pass
 
 (f) Conversion through Scheduled Retirement: A Taxicab Medallion required to be placed into service with an Accessible Vehicle under this Section must continuously be Hacked-up with an Accessible Vehicle for a minimum of four years.
 
-(g) Any Owner of a Taxicab Medallion placed into service with an Accessible Taxicab pursuant to this section must comply with all requirements of 35 RCNY Chapter 53 of these Rules.
+(g) Any Owner of a Taxicab Medallion placed into service with an Accessible Taxicab pursuant to this section must comply with all requirements of 35 RCNY Chapter 53.
 
 (h) The TLC will review the Taxicab Improvement Fund annually, by no later than the end of April, beginning in 2017, to assess the adequacy of the Fund, the uses of the Fund, and the surcharge funding the Fund receives, and will produce a report annually with the result of its assessment and recommendations and analysis. Such recommendations and analysis shall include but not be limited to the following: (i) whether the current surcharge should be lowered, raised or kept the same; (ii) a review of possible alternate sources of funding for the Fund other than the surcharge; and (iii) the costs incurred by Owners and Drivers that are required to purchase and operate Accessible Vehicles as opposed to those Owners and Drivers who are not so required. Such report shall be submitted to the Speaker of the NYC Council and posted on TLC's website upon completion of the report.
 

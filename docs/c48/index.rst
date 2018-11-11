@@ -574,6 +574,105 @@ OES shall not approve the application for training related expenses and/or an ex
 
 
 
+Chapter 5: Bill of Rights and Responsibilities For Persons With Clinical/Symptomatic HIV Illness Or With AIDS
+--------------------------------------------------
+
+
+
+*§ 5-01 Rights of Persons With Clinical/Symptomatic HIV Illness or with AIDS.* ::
+
+
+(a)  Rights of persons with clinical/symptomatic HIV illness or with AIDS. All persons with clinical/symptomatic HIV illness or persons with AIDS shall have the right to apply for benefits and services as defined in § 21-128(b) of the Administrative Code of the City of New York, and the right to apply for information, referral and assessment services from the HIV/AIDS Services Administration ("HASA"). In addition, such persons shall have the following rights:
+
+   (1) With certain exceptions provided pursuant to applicable federal, state or local law, regulation or rule, you have the right to confidentiality. Your medical condition cannot be revealed to anyone without your permission. Information you give to HASA staff will not be released to any individual or organization without your permission except where required by law.
+
+   (2) You have the right to receive information about and to apply for a variety of benefits and services including, but not limited to, medically appropriate transitional and permanent housing; Medicaid and other health related services; home care and home health services; personal care services; homemaker services; Food Stamps; transportation and nutrition allowances; housing subsidies, including, but not limited to, enhanced rental assistance; financial benefits; and intensive case management. You shall have the right to receive the benefits and services for which you are found eligible.
+
+   (3) If you are homebound (i.e., with physical or mental disabilities, confirmed by medical providers or home care agencies, which prevent you, permanently or temporarily, from visiting the local HASA service center), you have the right to a home or hospital visit from a case manager. These visits may be to determine your eligibility for benefits and services, to assist you in applying for benefits and services, or to maintain eligibility for benefits and services.
+
+   (4) You have the right to refuse any service.
+
+   (5) You have the right to be referred to a community based organization for any service not provided by HASA.
+
+   (6) You have the right to contact a HASA staff member whenever you need services.
+
+   (7) You have the right to receive services from HASA staff without the payment of gratuities in any form.
+
+   (8) You have the right to initiate complaints against HASA staff.
+
+   (9) If you feel that you are being unlawfully discriminated against in any way, you have the right to file a complaint of discrimination with the New York State Division of Human Rights Bias Hotline at (212) 662-2427 or the New York City Commission on Human Rights AIDS Hotline at 1-800-523-AIDS.
+
+   (10) You have the right to be treated fairly and with respect and courtesy.
+
+(b) Additional rights and responsibilities of HASA clients. All persons who are deemed eligible pursuant to § 21-128, subsection (a)(3) of the Administrative Code of the City of New York, have, in addition to all of the rights of persons with clinical/symptomatic HIV illness or with AIDS, the following additional rights and responsibilities:
+
+(c) HASA client rights.
+
+   (1) You have the right to have benefits and services provided in a timely manner after your applications for specific benefits and services have been approved. Once applications for benefits and services are complete, the time frames for the delivery of benefits and services are determined by:
+
+      (i) Federal law or regulations;
+
+      (ii) New York State Social Services Law or regulations; or
+
+      (iii) Local Law and the Rules of the City of New York. If none of the above apply, provision of the benefit or service will be no later than twenty (20) business days following submission of all information or documentation required to determine eligibility.
+
+   (2) If accepted for Public Assistance or Food Stamps, you have the right to review your budget. If accepted or rejected for Public Assistance, Food Stamps, Medicaid, home care, or homemaking service, you have a right to an agency conference and to a New York State Fair Hearing with respect to actions taken to deny, reduce, discontinue, or restrict your benefits. Please consult the back of the notice which advises you of the determination of the agency with respect to your request for benefits and please follow the guidelines on the back of the notice with respect to requesting an agency conference or New York State Fair Hearing.
+
+   (3) If you are a HASA client with one or more children in your care or custody, you have the right to receive information and program referrals on child care options, custody planning, and transitional supports, including the availability of standby guardianship, and referral to legal assistance programs.
+
+   (4) You have the right to participate with HASA staff in the development of a service plan.
+
+   (5) You have the right to be notified in writing of any change in your case status or in benefits or services provided to you.
+
+   (6) You have the right to review your HASA case record and to dispute any information contained therein.
+
+   (7) You have the right to be treated fairly and with respect and courtesy.
+
+(d) HASA client responsibilities.
+
+   (1) You have the responsibility to apply for all benefits for which you may qualify, including, but not limited to, Public Assistance, Medicaid, Food Stamps, Supplemental Security Income ("SSI"), and Social Security Disability ("SSD"), to provide documentation and information necessary to establish eligibility for such benefits, and to comply with application requirements.
+
+   (2) You have the responsibility to maintain your benefits by providing information for recertification, and by reporting changes in your income, address, household composition, or any other aspect of your status that may be a factor in determining your eligibility. You have the responsibility to provide information concerning any members of your household, including, but not limited to, any Associated Case Member (ACM) in your household.
+
+   (3) ACM Employability Assessment and Employment Plan.
+
+      (i) The ACM will receive an appointment notice to report for an Employability Assessment to determine whether the ACM is required to engage in work or other activities.
+
+      (ii) The ACM is responsible for appearing at the scheduled appointment and providing proof of employment income, school attendance or verification of another work activity, if applicable. The ACM is responsible for cooperating with the Employability Assessment process.
+
+      (iii) HASA will determine whether the ACM is required to engage in work or other related activities under federal, state, or local law, regulations, or rules. If HASA determines that the ACM is required to engage in work or other related activities, HASA will provide the ACM with an Employment Plan and refer the ACM to the appropriate work activities, employment opportunities, training, or other necessary services for the ACM to achieve self sufficiency. The ACM is responsible for complying with all the work or other related activities required in the Employment Plan.
+
+      (iv) If an ACM refuses or fails without good cause to cooperate or to comply with the Employability Assessment process or with any activities required in the Employment Plan, the household will be subject to a pro-rated reduction of the household's cash assistance benefit(s) as provided in applicable federal, state, or local law, regulations, or rules.
+
+   (4) If you have a Public Assistance budget that requires co-payment, you are personally responsible for paying such co-payment. For purposes of this paragraph, a co-payment means a responsibility from income or benefits other than Public Assistance for a certain portion of the cost of services (e.g., rent, utilities, Medicaid spend-down).
+
+   (5) You have the responsibility to keep all appointments with HASA staff, including, without limitation, face-to-face recertification interviews, appointments to consider relocation to housing other than temporary housing, or to give notice of change or cancellation in those appointments.
+
+   (6) You have the responsibility to advise HASA staff of any problems that you may have and to cooperate with HASA staff to resolve these problems.
+
+   (7) Depending on whether or not you qualify for Temporary Housing Assistance and/or Public Assistance, Medicaid, Food Stamps and Services, you have to comply with additional responsibilities as set forth in writing on DSS/HRA form number W-897B (7/97) with respect to your application for Temporary Housing Assistance, and/or SDSS form number SDSS-2921 (Rev. 4/96) and SDSS publication number 4148A (Rev. 1/95) entitled "What You Should Know About Your Rights and Responsibilities" with respect to your application for Public Assistance, Medicaid, Food Stamps and Services.
+
+   (8) You have the responsibility to treat HASA staff with respect and courtesy.
+
+
+
+
+
+
+*§ 5-02 Rent Limitation.* ::
+
+
+(a) In accordance with section 131-a(14) of the New York Social Services Law, the New York City Human Resources Administration, in calculating public assistance benefits, shall ensure that each person living with clinical/symptomatic HIV illness or AIDS who is receiving public assistance through its HIV/AIDS Services Administration will not pay more than thirty percent of his or her monthly earned and/or unearned income toward the cost of rent that such person has a direct obligation to pay.
+
+(b) If a person living with clinical/symptomatic HIV illness or AIDS receiving public assistance through HRA's HIV/AIDS Services Administration has or, at any time since April 1, 2014, had a direct obligation to pay rent and paid in excess of thirty percent of his or her monthly earned and/or unearned income towards his or her rent, such person shall be reimbursed in the amount of such excess.
+
+(c) This section does not apply to persons receiving a room and board allowance pursuant to 18 NYCRR § 352.8(b)(1).
+
+(d) This section shall not adversely impact a client's eligibility for other HRA benefits and services.
+
+
+
+
 Chapter 4: Distribution of Food and Administrative Funds To Emergency Food Providers
 --------------------------------------------------
 
@@ -996,105 +1095,6 @@ The amount of food and administrative funds allocated to each provider may be ch
 (d) a request from the provider that its allocation be reduced.
 
 (e) other factors dictating the need to reallocate funds, including, but not limited to changing demographics or changed demographic projections, or geographic im- balances.
-
-
-
-
-Chapter 5: Bill of Rights and Responsibilities For Persons With Clinical/Symptomatic HIV Illness Or With AIDS
---------------------------------------------------
-
-
-
-*§ 5-01 Rights of Persons With Clinical/Symptomatic HIV Illness or with AIDS.* ::
-
-
-(a)  Rights of persons with clinical/symptomatic HIV illness or with AIDS. All persons with clinical/symptomatic HIV illness or persons with AIDS shall have the right to apply for benefits and services as defined in § 21-128(b) of the Administrative Code of the City of New York, and the right to apply for information, referral and assessment services from the HIV/AIDS Services Administration ("HASA"). In addition, such persons shall have the following rights:
-
-   (1) With certain exceptions provided pursuant to applicable federal, state or local law, regulation or rule, you have the right to confidentiality. Your medical condition cannot be revealed to anyone without your permission. Information you give to HASA staff will not be released to any individual or organization without your permission except where required by law.
-
-   (2) You have the right to receive information about and to apply for a variety of benefits and services including, but not limited to, medically appropriate transitional and permanent housing; Medicaid and other health related services; home care and home health services; personal care services; homemaker services; Food Stamps; transportation and nutrition allowances; housing subsidies, including, but not limited to, enhanced rental assistance; financial benefits; and intensive case management. You shall have the right to receive the benefits and services for which you are found eligible.
-
-   (3) If you are homebound (i.e., with physical or mental disabilities, confirmed by medical providers or home care agencies, which prevent you, permanently or temporarily, from visiting the local HASA service center), you have the right to a home or hospital visit from a case manager. These visits may be to determine your eligibility for benefits and services, to assist you in applying for benefits and services, or to maintain eligibility for benefits and services.
-
-   (4) You have the right to refuse any service.
-
-   (5) You have the right to be referred to a community based organization for any service not provided by HASA.
-
-   (6) You have the right to contact a HASA staff member whenever you need services.
-
-   (7) You have the right to receive services from HASA staff without the payment of gratuities in any form.
-
-   (8) You have the right to initiate complaints against HASA staff.
-
-   (9) If you feel that you are being unlawfully discriminated against in any way, you have the right to file a complaint of discrimination with the New York State Division of Human Rights Bias Hotline at (212) 662-2427 or the New York City Commission on Human Rights AIDS Hotline at 1-800-523-AIDS.
-
-   (10) You have the right to be treated fairly and with respect and courtesy.
-
-(b) Additional rights and responsibilities of HASA clients. All persons who are deemed eligible pursuant to § 21-128, subsection (a)(3) of the Administrative Code of the City of New York, have, in addition to all of the rights of persons with clinical/symptomatic HIV illness or with AIDS, the following additional rights and responsibilities:
-
-(c) HASA client rights.
-
-   (1) You have the right to have benefits and services provided in a timely manner after your applications for specific benefits and services have been approved. Once applications for benefits and services are complete, the time frames for the delivery of benefits and services are determined by:
-
-      (i) Federal law or regulations;
-
-      (ii) New York State Social Services Law or regulations; or
-
-      (iii) Local Law and the Rules of the City of New York. If none of the above apply, provision of the benefit or service will be no later than twenty (20) business days following submission of all information or documentation required to determine eligibility.
-
-   (2) If accepted for Public Assistance or Food Stamps, you have the right to review your budget. If accepted or rejected for Public Assistance, Food Stamps, Medicaid, home care, or homemaking service, you have a right to an agency conference and to a New York State Fair Hearing with respect to actions taken to deny, reduce, discontinue, or restrict your benefits. Please consult the back of the notice which advises you of the determination of the agency with respect to your request for benefits and please follow the guidelines on the back of the notice with respect to requesting an agency conference or New York State Fair Hearing.
-
-   (3) If you are a HASA client with one or more children in your care or custody, you have the right to receive information and program referrals on child care options, custody planning, and transitional supports, including the availability of standby guardianship, and referral to legal assistance programs.
-
-   (4) You have the right to participate with HASA staff in the development of a service plan.
-
-   (5) You have the right to be notified in writing of any change in your case status or in benefits or services provided to you.
-
-   (6) You have the right to review your HASA case record and to dispute any information contained therein.
-
-   (7) You have the right to be treated fairly and with respect and courtesy.
-
-(d) HASA client responsibilities.
-
-   (1) You have the responsibility to apply for all benefits for which you may qualify, including, but not limited to, Public Assistance, Medicaid, Food Stamps, Supplemental Security Income ("SSI"), and Social Security Disability ("SSD"), to provide documentation and information necessary to establish eligibility for such benefits, and to comply with application requirements.
-
-   (2) You have the responsibility to maintain your benefits by providing information for recertification, and by reporting changes in your income, address, household composition, or any other aspect of your status that may be a factor in determining your eligibility. You have the responsibility to provide information concerning any members of your household, including, but not limited to, any Associated Case Member (ACM) in your household.
-
-   (3) ACM Employability Assessment and Employment Plan.
-
-      (i) The ACM will receive an appointment notice to report for an Employability Assessment to determine whether the ACM is required to engage in work or other activities.
-
-      (ii) The ACM is responsible for appearing at the scheduled appointment and providing proof of employment income, school attendance or verification of another work activity, if applicable. The ACM is responsible for cooperating with the Employability Assessment process.
-
-      (iii) HASA will determine whether the ACM is required to engage in work or other related activities under federal, state, or local law, regulations, or rules. If HASA determines that the ACM is required to engage in work or other related activities, HASA will provide the ACM with an Employment Plan and refer the ACM to the appropriate work activities, employment opportunities, training, or other necessary services for the ACM to achieve self sufficiency. The ACM is responsible for complying with all the work or other related activities required in the Employment Plan.
-
-      (iv) If an ACM refuses or fails without good cause to cooperate or to comply with the Employability Assessment process or with any activities required in the Employment Plan, the household will be subject to a pro-rated reduction of the household's cash assistance benefit(s) as provided in applicable federal, state, or local law, regulations, or rules.
-
-   (4) If you have a Public Assistance budget that requires co-payment, you are personally responsible for paying such co-payment. For purposes of this paragraph, a co-payment means a responsibility from income or benefits other than Public Assistance for a certain portion of the cost of services (e.g., rent, utilities, Medicaid spend-down).
-
-   (5) You have the responsibility to keep all appointments with HASA staff, including, without limitation, face-to-face recertification interviews, appointments to consider relocation to housing other than temporary housing, or to give notice of change or cancellation in those appointments.
-
-   (6) You have the responsibility to advise HASA staff of any problems that you may have and to cooperate with HASA staff to resolve these problems.
-
-   (7) Depending on whether or not you qualify for Temporary Housing Assistance and/or Public Assistance, Medicaid, Food Stamps and Services, you have to comply with additional responsibilities as set forth in writing on DSS/HRA form number W-897B (7/97) with respect to your application for Temporary Housing Assistance, and/or SDSS form number SDSS-2921 (Rev. 4/96) and SDSS publication number 4148A (Rev. 1/95) entitled "What You Should Know About Your Rights and Responsibilities" with respect to your application for Public Assistance, Medicaid, Food Stamps and Services.
-
-   (8) You have the responsibility to treat HASA staff with respect and courtesy.
-
-
-
-
-
-
-*§ 5-02 Rent Limitation.* ::
-
-
-(a) In accordance with section 131-a(14) of the New York Social Services Law, the New York City Human Resources Administration, in calculating public assistance benefits, shall ensure that each person living with clinical/symptomatic HIV illness or AIDS who is receiving public assistance through its HIV/AIDS Services Administration will not pay more than thirty percent of his or her monthly earned and/or unearned income toward the cost of rent that such person has a direct obligation to pay.
-
-(b) If a person living with clinical/symptomatic HIV illness or AIDS receiving public assistance through HRA's HIV/AIDS Services Administration has or, at any time since April 1, 2014, had a direct obligation to pay rent and paid in excess of thirty percent of his or her monthly earned and/or unearned income towards his or her rent, such person shall be reimbursed in the amount of such excess.
-
-(c) This section does not apply to persons receiving a room and board allowance pursuant to 18 NYCRR § 352.8(b)(1).
-
-(d) This section shall not adversely impact a client's eligibility for other HRA benefits and services.
 
 
 
@@ -4497,6 +4497,620 @@ An applicant or program participant may request an agency review conference and/
 (k) In the event of the death of the sole member of a household participating in HRA HOME TBRA, HRA HOME TBRA assistance cannot be transferred and will be terminated.
 
 (Added City Record 11/30/2015, eff. 12/30/2015)
+
+
+
+
+Chapter 10: City Fighting Homelessness and Eviction Prevention Supplement (CityFHEPS)
+--------------------------------------------------
+
+
+
+*§ 10-01 Definitions.* ::
+
+
+For the purposes of this chapter, the following terms have the following meanings:
+
+(a) "ACS" means the New York City Administration for Children's Services.
+
+(b) An "apartment" means a private residence other than an SRO.
+
+(c) "CITYFEPS" means the rental assistance programs established, pursuant to Subchapter A of 68 RCNY Chapter 8.
+
+(d) "CityFHEPS" means the CityFHEPS Program described in this chapter.
+
+(e) A "CityFHEPS qualifying program" is a City program that the Commissioner has designated as a program from which HRA will accept referrals for CityFHEPS to avert entry to an HRA or DHS shelter or abbreviate a stay in an HRA or DHS shelter. CityFHEPS qualifying programs include the following, in addition to other programs that the Commissioner may designate in the future: (1) referrals from ACS to facilitate an ACS plan for family reunification, preservation or independent living; (2) referrals from the three-quarter housing task force; (3) referrals from DYCD; or (4) referrals from the New York City Department of Correction.
+
+(f) "CityFHEPS rental assistance payments" mean rent payments made, pursuant to this chapter.
+
+(g) A "CityFHEPS unit" is a residential unit to which CityFHEPS rental assistance payments are being applied, pursuant to this chapter.
+
+(h) The "Commissioner" means the Commissioner of DSS or the Commissioner's designee.
+
+(i) "DHS" means the New York City Department of Homeless Services.
+
+(j) A "DHS family shelter" is a shelter for families with children or adult families operated by or on behalf of the DHS.
+
+(k) A "DHS single adult shelter" means a shelter for single adults operated by or on behalf of DHS.
+
+(l) "DYCD" means the New York City Department of Youth and Community Development.
+
+(m) "Federal disability benefits" mean social security disability insurance benefits under Title II of the federal Social Security Act, supplemental security income under Title XVI of the federal Social Security Act, compensation for a disability resulting from a line-ofduty injury or disease, pursuant to Subchapter II or Subchapter IV of Chapter 11 of Part II of Title 38 of the United States Code, or a non-service-connected disability pension, pursuant to Subchapter II of Chapter 15 of Part II of the United States Code.
+
+(n) "FHEPS" means the New York State Family Homelessness and Eviction Prevention Supplement program.
+
+(o) "FPL" means the federal poverty level as established annually by the United States Department of Health and Human Services.
+
+(p) "Gross income" means the sum of: (1) earned income, as defined in Section 352.17(a) of Title 18 of the New York Codes, Rules and Regulations, except that it shall exclude income earned through SYEP; and (2) unearned income, as defined in Section 387.10(b)(3) of such title, except that it shall exclude PA and shall only include income that is regularly recurring. Third party contributions to the rent will not be counted as income. All other income deductions or exclusions, including those set forth in Sections 387.11 and 387.12 of Title 18 of the New York Codes, Rules and Regulations shall not be applied when calculating a household's gross income.
+
+(q) The "household" means the individual or individuals residing or intending to reside together in the CityFHEPS unit.
+
+(r) "HRA" means the New York City Human Resources Administration.
+
+(s) An "HRA shelter" means a domestic violence shelter operated by or on behalf of HRA, pursuant to Part 452 of Title 18 of the New York Codes, Rules and Regulations.
+
+(t) "LINC VI" means the rental assistance program established, pursuant to Subchapter C of 68 RCNY Chapter 7.
+
+(u) A "LINC certification letter" is a certification letter issued, pursuant to 68 RCNY Chapter 7.
+
+(v) The "LINC programs" mean the programs described in Subchapters A and B of 68 RCNY Chapter 7.
+
+(w) The "maximum monthly rent" means an amount determined, pursuant to 68 RCNY § 10-05 that the rent for a CityFHEPS unit can generally not exceed during the first year of CityFHEPS rental assistance and from which the CityFHEPS rental assistance payment amount is calculated.
+
+(x) The "maximum PA shelter allowance" means the maximum monthly shelter allowance for each PA family size in accordance with the schedules set forth at Section 352.3(a)(1) of Title 18 of the New York Codes, Rules and Regulations.
+
+(y) An "NPA member" refers to an individual who is a member of the CityFHEPS household but is not a member of the PA household for reasons other than, pursuant to Section 349.3 of Title 18 of the New York Codes, Rules and Regulations.
+
+(z) The "New York City Department of Social Services" or "DSS" means the entity consisting of HRA and DHS.
+
+(aa) "PA" means public assistance benefits, including monthly grants and shelter allowances, issued under the Family Assistance program, pursuant to New York Social Services Law § 349 and/or the Safety Net Assistance program, pursuant to New York Social Services Law § 159, and regulations promulgated thereunder.
+
+(bb) The "PA household" refers to the members of the household who apply and are accepted for PA benefits.
+
+(cc) "Pathway Home" means the rental assistance program established by 68 RCNY Chapter 11.
+
+(dd) A "primary tenant" is the person whose name is on the lease or who has the primary responsibility for payment of the monthly rent for a residence.
+
+(ee) A "program participant" means an individual who has entered into a lease for a CityFHEPS unit and has not been terminated from the program.
+
+(ff) A "qualifying City rental assistance program" means the LINC, SEPS, or CITYFEPS rental assistance program.
+
+(gg) A "qualifying subsidized employment program" means any subsidized employment program established by HRA, pursuant to Sections 385.9(f) or (g) of Title 18 of the New York Codes, Rules and Regulations, or such other subsidized employment program that the Commissioner may designate as a qualifying program in the future.
+
+(hh) A "rent-controlled apartment" means a housing accommodation for which the maximum rent is established, pursuant to Chapter 3 of Title 26 of the Administrative Code of the City of New York.
+
+(ii) A "room" means an individual room within an apartment.
+
+(jj) "SEPS" means the rental assistance program established, pursuant to Subchapter B of 68 RCNY Chapter 8.
+
+(kk) A "shopping letter" is a letter provided to a household to assist it in its housing search that identifies the household as potentially eligible for CityFHEPS and lists the maximum rent.
+
+(ll) An "SRO" is a single room occupancy unit as defined in subdivision 16 of Section 4 of Article 1 of the New York Multiple Dwelling Law.
+
+(mm) "Street homeless" means individuals who: (1) are living on the street or in a place not meant for human habitation and have received case management services for at least 90 days from a DHS contracted outreach provider; (2) have received case management services for at least 90 days from a DHS contracted provider at a drop in center or transitional housing setting; or (3) received case management services from a DHS contracted outreach provider, while living on the street or in a place not meant for human habitation, or at a drop in center or transitional housing setting, were placed in permanent housing and currently receive aftercare services.
+
+(nn) "Subsidized employment" means subsidized private sector employment or subsidized public sector employment as those terms are used in New York Social Services Law § 336(1)(b)-(c).
+
+(oo) The "SYEP Program" means the Summer Youth Employment Program administered by DYCD to provide New York City residents between the ages of fourteen and twenty-four with opportunities for paid summer employment.
+
+(pp) The term "three-quarter housing task force" shall have the same meaning as that term is used in Section 1(a) of Local Law 13 of 2017.
+
+(qq) "Turning the Tide on Homelessness in New York City" is a publication issued in February 2017 by Mayor de Blasio, Deputy Mayor for Health and Human Services Herminia Palacio and Commissioner Steven Banks. The publication sets forth a comprehensive boroughbased plan to reduce the footprint of New York City's homeless shelters, transform the City's approach to providing shelter, and drive down the population of homeless New Yorkers relying on shelter through prevention, street homelessness, and permanent housing programs.
+
+(rr) "Unsubsidized employment" means unsubsidized employment as that term is used in New York Social Services Law § 336(1)(a).
+
+(ss) A "veteran" is a person who has served in the armed forces of the United States.
+
+(Added City Record 9/28/2018, eff. 10/28/2018)
+
+
+
+
+
+
+*§ 10-02 Administration of the CityFHEPS Program.* ::
+
+
+HRA will administer the CityFHEPS Program and will make eligibility determinations in accordance with this subchapter.
+
+(Added City Record 9/28/2018, eff. 10/28/2018)
+
+
+
+
+
+
+*§ 10-03 Initial Eligibility, Application and Approval for City Residents Who Are Not in an HRA or DHS Shelter or Street Homeless.* ::
+
+
+(a) A household that is not street homeless or in an HRA or DHS shelter must meet the following requirements to be eligible for an initial year of CityFHEPS rental assistance:
+
+   (1) The household must have total gross income that does not exceed 200 percent of FPL.
+
+   (2) If the household is not currently in receipt of PA, the household must apply for any assistance available under Part 352 of Title 18 of the New York Codes, Rules and Regulations.
+
+   (3) All members of the household who are eligible for PA must be in receipt of PA and in compliance with PA requirements.
+
+   (4) If a household is potentially eligible for any federal or State housing benefits, including Section 8 or HRA HOME TBRA, pursuant to 68 RCNY Chapter 9, the household must apply for such benefits and accept them if offered.
+
+   (5) The household must not be eligible for FHEPS and, unless it meets the requirements of 68 RCNY § 10-08(d), must not have previously received CityFHEPS rental assistance.
+
+   (6) The household must satisfy any of the criteria below:
+
+      (A) The household has been determined by the Commissioner to be at risk of homelessness and includes a veteran.
+
+      (B) Within the last twelve months, the household was evicted from or lived in a residence within the City of New York that was or is the subject of an eviction proceeding or that the household was or is required to vacate as a result of an order issued by a City agency or a foreclosure action, or for health and safety reasons as determined by a City agency other than reasons that would make the household eligible for shelter under Section 452.9 of Title 18 of the New York Codes, Rules and Regulations; and either
+
+         (i) is in receipt of Adult Protective Services under Section 473 of the New York Social Services Law or a community guardianship program under Section 473-d of the New York Social Services Law;
+
+         (ii) will be using CityFHEPS to preserve a rentcontrolled apartment; or
+
+         (iii) has previously resided in a DHS shelter.
+
+      (C) The household includes an individual who has been referred by a City agency through a CityFHEPS qualifying program and the Commissioner has determined that due to the particular circumstances of the household, CityFHEPS rental assistance is needed to avert entry to a DHS shelter.
+
+      (D) The household is in receipt of an unexpired LINC certification letter or a SEPS or CITYFEPS shopping letter and would still be eligible for assistance under 68 RCNY Chapter 7 or 68 RCNY Chapter 8. A household may not qualify for CityFHEPS rental assistance under this subparagraph if: (1) more than 120 days have passed after the effective date of this rule or (2) the household is eligible for FHEPS.
+
+      (E) The household is currently in receipt of LINC VI or Pathway Home and meets the criteria set forth in 68 RCNY § 10-04(a)(8)(A) or (a)(8)(B)(i).
+
+   (7) The household must have a lease, other agreement, or regulatory right to rent, for at least one year, a residence in New York City that has passed a safety and habitability assessment. The rent for the unit must not exceed the maximum monthly rent and must be protected from rent increases for at least a year, except that, if the unit is an apartment where the household resided immediately prior to receiving CityFHEPS rental assistance and the unit is subject to government regulations with respect to allowable rents, rent increases authorized under the applicable government regulations will be permitted midyear. If a household includes a person younger than eighteen years of age, the lease or other rental agreement must be for an apartment.
+
+(b) Applications must be submitted on a form and in a format established by HRA.
+
+(c) At the time of approval, HRA will calculate the household's CityFHEPS rental assistance payments, pursuant to 68 RCNY § 10-06 or 68 RCNY § 10-07, as applicable. Except as provided in 68 RCNY § 10-09, the CityFHEPS rental assistance payments will not change during the household's first year of the program, regardless of changes in household composition, income, the maximum monthly rents, or the actual rent for the CityFHEPS unit.
+
+(Added City Record 9/28/2018, eff. 10/28/2018)
+
+
+
+
+
+
+*§ 10-04 Initial Eligibility and Approval for Shelter Residents and Persons Who Are Street Homeless.* ::
+
+
+(a) A household who is in an HRA or DHS shelter or is street homeless must meet the following requirements to be eligible to receive a shopping letter for CityFHEPS rental assistance:
+
+   (1) The household must have total gross income that does not exceed 200 percent of the FPL.
+
+   (2) If the household is not currently in receipt of PA, the household must apply for any assistance available under Part 352 of Title 18 of the New York Codes, Rules and Regulations.
+
+   (3) All members of the household who are eligible for PA must be in receipt of PA and all members in receipt of PA must be in compliance with PA requirements.
+
+   (4) If a household is potentially eligible for any federal or State housing benefits, including Section 8 or HRA HOME TBRA, the household must apply for such benefits and accept them if offered.
+
+   (5) The household must not be eligible for FHEPS.
+
+   (6) If any member of the household has been determined to be eligible for HRA shelter under Section 452.9 of Title 18 of the New York Codes, Rules and Regulations, the household must not include the perpetrator of the domestic violence that resulted in such determination.
+
+   (7) If the household is currently in a DHS Family Shelter, the household must be eligible for shelter as determined by DHS, pursuant to Parts 351 and 352 of Title 18 of the New York Codes, Rules and Regulations.
+
+   (8) The household must be street homeless, reside in a DHS shelter that has been identified for imminent closure, or belong to Group A or B below:
+
+      (A) Group A: A household will belong to Group A if it satisfies any of the criteria set forth below and either:
+
+         (1) currently resides in a DHS shelter and either has a qualifying shelter stay or is eligible for HRA shelter; or (2) currently resides in an HRA shelter:
+
+            (i) The household: (AA) includes a member who is under 18 years of age and (BB) is collectively working at least 30 hours per week in unsubsidized employment or in a qualifying subsidized employment program and can demonstrate income from such employment for the last 30 days. However, the Commissioner may waive the requirement that the household collectively work at least 30 hours per week for good cause where the household has a demonstrated, consistent work history and has experienced a recent loss in number of hours worked due to circumstances that are likely to be temporary.
+
+            (ii) The household consists exclusively of members 18 years of age or older and can demonstrate income from unsubsidized employment or a qualifying subsidized employment program for the last 30 days.
+
+            (iii) The household includes a member 18 years of age or older who receives federal disability benefits or receives a recurring monthly PA grant and has been determined by HRA to be potentially eligible for federal disability benefits based on their own documented disability;
+
+            (iv) The household includes a member who is 60 years of age or older; or
+
+            (v) The household includes a member 18 years of age or older who is exempt from PA work activities, pursuant to Section 385.2(b)(5) of Title 18 of the New York Codes, Rules and Regulations.
+
+         (B) Group B: A household will belong to Group B if it currently resides in an HRA or DHS shelter and satisfies any of the criteria set forth below:
+
+            (i) The household includes a veteran.
+
+            (ii) The household is in receipt of an unexpired LINC certification letter or a SEPS or CITYFEPS shopping letter and would still be eligible for assistance under 68 RCNY Chapter 7 or 68 RCNY Chapter 8. A household may not qualify for CityFHEPS rental assistance under this subparagraph if: (1) more than 120 days have passed after the effective date of this rule or (2) the household is eligible for FHEPS.
+
+            (iii) The household includes an individual who has been referred by a City agency through a CityFHEPS qualifying program and the Commissioner has determined that due to the particular circumstances of the household, CityFHEPS rental assistance is needed to abbreviate the household's stay in an HRA or DHS shelter.
+
+(b) Qualifying Shelter Stay and Limitations.
+
+   (1) Qualifying Shelter Stay. A household in a DHS family shelter will have a qualifying shelter stay for purposes of 68 RCNY § 10-04(a)(8)(A) if the household has resided in a DHS shelter for at least 90 days prior to certification, excluding gaps of up to ten calendar days. An individual in a DHS single adult shelter will have a qualifying shelter stay for purposes of 68 RCNY § 10-04(a)(8)(A) if the individual has resided in a DHS shelter for at least 90 of the last 365 days. Once a household has a qualifying shelter stay, it will not lose its eligibility for a shopping letter, pursuant to subdivision (c) of this section by moving from one type of shelter to another. Similarly, a household who has been street homeless will not lose its eligibility for a shopping letter by entering an HRA or DHS shelter.
+
+   (2) Qualifying Shelter Stay Limitations. The Commissioner may set a date by which qualifying shelter stays must commence, for purposes of 68 RCNY § 10-04(a)(8)(A), upon on an evaluation of: housing market conditions, shelter utilization rates, and the availability of funding, when the Commissioner determines that a limiting date in necessary to maintain the program's viability. The Commissioner may remove such a limiting date upon further review of housing market conditions, shelter utilization rates, and the availability of funding.
+
+(c) When a household has met the eligibility requirements set forth in subdivision (a) of this section, the Commissioner shall issue such household a shopping letter. The letter will include an expiration date and will be conditioned on the household continuing to meet the requirements of paragraph (a) of this subdivision until the time of approval.
+
+(d) Once a household has received a CityFHEPS shopping letter, the household must have a lease, or other agreement to rent, for at least one year, a residence in New York City that has passed a safety and habitability assessment. The rent for the unit must not exceed the maximum monthly rent and must be protected from rent increases for at least a year. If a household includes a person younger than eighteen years of age, the lease or other rental agreement must be for an apartment.
+
+(e) At the time of approval, HRA will calculate the household's monthly rental assistance amount, pursuant to 68 RCNY § 10-06 or 68 RCNY § 10-07, as applicable. Except as provided in 68 RCNY § 10-09, the monthly rental assistance amount will not change during the first year of the program, regardless of changes in household composition, income, the maximum monthly rents or the actual rent for the CityFHEPS unit.
+
+(Added City Record 9/28/2018, eff. 10/28/2018)
+
+
+
+
+
+
+*§ 10-05 Maximum Monthly Rents.* ::
+
+
+(a) Except as provided in subdivision (b) of this section or 68 RCNY § 10-03(a)(7), the maximum monthly rent for an apartment towards which CityFHEPS rental assistance may be applied during the first year of the rental agreement must not exceed the amounts in the table below:
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - Maximum rents for apartments
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+    * - Household Size
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+    * - Maximum Rent
+      - $1,246
+      - $1,303
+      - $1,557
+      - $1,557
+      - $2,010
+      - $2,010
+      - $2,257
+      - $2,257
+      - $2,600
+      - $2,600
+~
+
+
+
+ 
+
+(b) With regard to households consisting of five or more individuals, the Commissioner may exercise discretion to determine that current market conditions make it unlikely that certain households will be able to secure housing within the next ninety days and increase the maximum monthly rents for such households by up to 30 percent.
+
+(c) The maximum monthly rent for an SRO towards which CityFHEPS rental assistance may be applied during the first year of the rental agreement is $1,047.
+
+(d) The maximum monthly rent for a room towards which CityFHEPS rental assistance may be applied during the first year of the rental agreement is $800. For room rentals, it is further provided that:
+
+   (1) Where the rental agreement is with a primary tenant who receives PA, the household's monthly rent cannot exceed the difference between the primary tenant's rent obligation to the landlord and the primary tenant's shelter allowance under Section 352.3 of Title 18 of the New York Codes, Rules and Regulations at the time of the effective date of the rental agreement.
+
+   (2) No separate room within a rent-stabilized or rent-controlled apartment may be rented directly from the landlord. If a room in a rent-stabilized apartment is rented from a primary tenant, the household's monthly rent cannot exceed the household's proportionate share of the rent under Section 2525.7 of Title 9 of the New York Codes, Rules and Regulations. If a room in a rent-controlled apartment is rented from a primary tenant, the household's rent cannot exceed the amount the primary tenant is being charged by the landlord.
+
+(e) The amounts set forth in subdivisions (a) and (b) of this section will be indexed to any annual rent adjustments for one-year apartment lease renewals set by the New York Rent Guidelines Board that take effect after the effective date of this rule.
+
+(f) Heat, hot water, electricity and, if the stove is not electric, cooking gas, must be included in the rent for an SRO or a room.
+
+(Added City Record 9/28/2018, eff. 10/28/2018)
+
+
+
+
+
+
+*§ 10-06 Calculation of CityFHEPS Rental Assistance Payment Amount – Apartments and SROs.* ::
+
+
+(a) Where the CityFHEPS unit is an apartment or SRO, the monthly CityFHEPS rental assistance payment amount will equal the actual monthly rent for the CityFHEPS unit, up to the maximum monthly rent, minus the base program participant contribution, as calculated, pursuant to subdivisions (b) and (c) of this section. For purposes of this subdivision and calculating the CityFHEPS rental assistance payment amount, a household of one who has transferred from LINC IV to CityFHEPS will be treated as a household of two.
+
+(b) The base program participant contribution is calculated as follows:
+
+   (1) Where no members of the household receive PA, the base program participant contribution is 30 percent of the household's total monthly gross income at the time of approval or renewal. However, if at renewal, or at the time of a recalculation of the supplement amount, pursuant to paragraphs (a) or (b) of 68 RCNY § 10-09, the household reports no income, the base program participant contribution will equal the maximum shelter allowance for the household size.
+
+   (2) Where the household includes one or more members receiving PA, the base program participant contribution is the sum of the following: (A) 30 percent of the PA household's total monthly gross income at the time of approval or renewal, or the maximum monthly PA shelter allowance for the total number of PA household members, whichever is greater; and (B) 30 percent of the monthly gross income of any NPA members.
+
+(c) Except as provided in 68 RCNY § 10-09, the CityFHEPS rental assistance payments will not change until renewal, regardless of changes in household composition, income, the maximum monthly rent, or the actual rent for the CityFHEPS unit.
+
+(d) Upon approval of a CityFHEPS unit, HRA shall pay to the landlord the first month's rent in full and the CityFHEPS rental assistance payments for the next three months. Thereafter, HRA shall pay the CityFHEPS rental assistance payments directly to the landlord each month as long as the household remains eligible and funding for the program remains available, except that HRA may in its discretion pay additional months of CityFHEPS rental assistance payments in advance where needed to address the goals set forth in the plan entitled Turning the Tide on Homelessness in New York City.
+
+(Added City Record 9/28/2018, eff. 10/28/2018)
+
+
+
+
+
+
+*§ 10-07 Calculation of CityFHEPS Rental Assistance Payment Amount – Rooms.* ::
+
+
+(a) Where the CityFHEPS unit is a room, the household's base program participant contribution shall be the greater of the household's actual shelter allowance at the time of approval or $50 and, except as provided in subdivision (c) of this section with respect to the household's first four months in the CityFHEPS rental assistance program, the monthly CityFHEPS rental assistance payment amount will equal the actual monthly rent for the CityFHEPS unit, up to $800, minus such base program participant contribution.
+
+(b) Except as provided in 68 RCNY § 10-09, the CityFHEPS rental assistance payments will not change until renewal, regardless of changes in household composition, income, the maximum monthly rents, or the actual rent for the CityFHEPS unit.
+
+(c) Upon approval of a CityFHEPS unit, HRA shall pay to the landlord the first four months' rent in full, except that if the household is receiving a shelter allowance, HRA shall pay the first month's rent in full and the CityFHEPS rental assistance payments for the next three months. Thereafter, HRA shall pay the CityFHEPS rental assistance payments directly to the landlord each month as long as the household remains eligible and funding for the program remains available.
+
+(Added City Record 9/28/2018, eff. 10/28/2018)
+
+
+
+
+
+
+*§ 10-08 Renewals and Restorations.* ::
+
+
+(a) Subject to the availability of funding, a household receiving CityFHEPS rental assistance will receive four annual renewals of such assistance if it meets the following continued eligibility requirements:
+
+   (1) The household's total gross income does not exceed 250 percent of FPL;
+
+   (2) The household is in substantial compliance with program requirements; and
+
+   (3) The household continues to reside in the CityFHEPS unit for which they were initially approved or the Commissioner has approved a move to a new unit, pursuant to 68 RCNY § 10-10.
+
+(b) Where a household is not in substantial compliance with program requirements, the Commissioner in the exercise of discretion may renew the household's participation in the CityFHEPS program if the household establishes good cause for failure to comply with program requirements, consistent with Section 351.26 of Title 18 of the New York Codes, Rules and Regulations.
+
+(c) Subject to the availability of funding, households receiving CityFHEPS rental assistance will continue to receive additional annual renewals after their fifth year in the CityFHEPS rental assistance program if they continue to meet the requirements of subdivision (a) of this section and if, at the time of renewal, one of the following criteria is met:
+
+   (1) The household includes a member who is 60 years of age or older.
+
+   (2) The household includes a member who:
+
+      (A) receives federal disability benefits; or
+
+      (B) receives a recurring monthly PA grant and has been determined by the Commissioner to be potentially eligible for federal disability benefits based on their own documented disability.
+
+   (3) There is good cause for renewal as long as the household maintains eligibility. Absent extraordinary circumstances, renewals will not be available under this paragraph to households who have not complied with their obligations, pursuant to 68 RCNY § 10-12(e). The Commissioner will consider the following factors in determining extraordinary circumstances: health and mental health challenges, department of social services errors, effort to cure the error, or other circumstances beyond the control of the household.
+
+(d) Subject to the availability of funding, if a household is not renewed for CityFHEPS, it may be restored within one year of termination if the household meets CityFHEPS renewal requirements at the time it applies for restoration. If more than one year has passed since termination, or if the household has been terminated from CityFHEPS after receiving CityFHEPS rental assistance for at least five years, the household may have its CityFHEPS restored only for good cause.
+
+(e) If a household has transferred to CityFHEPS, pursuant to 68 RCNY § 10-11 or has transferred from the LINC VI or Pathway Home programs, the time the household participated in the LINC, LINC VI, CITYFEPS, SEPS or Pathway Home programs shall count towards the five year limit set forth in subdivision (a) of this section, except that, for households transferring from CITYFEPS, LINC VI or Pathway Home less than ten months after the start of the household's current year of participation in such programs, the household's current year in such programs shall be disregarded. However, if the CityFHEPS rental assistance payments begin ten months or more after the start of the household's current year of participation in CITYFEPS, LINC VI or Pathway Home, then the household's current year of participation in such programs shall be counted as a full year.
+
+(f) The Commissioner will determine a household's eligibility for renewal at the end of each year of the household's participation in the program, subject to the availability of funding. Prior to annual renewal, the Commissioner will recalculate the household's CityFHEPS rental assistance payments, pursuant to 68 RCNY § 10-06 or 68 RCNY § 10-07, as applicable. Except as provided in 68 RCNY § 10-09, the CityFHEPS rental assistance payments will not change during the one-year renewal period, regardless of changes in household composition, income, the maximum monthly rents, or the actual rent for the CityFHEPS unit.
+
+(Added City Record 9/28/2018, eff. 10/28/2018)
+
+
+
+
+
+
+*§ 10-09 Adjustments to CityFHEPS Rental Assistance Payment Amount, Discontinuance of Rental Assistance Payments, or Program Termination Prior to Renewal.* ::
+
+
+(a) At the household's request, where the household's income has decreased prior to renewal, the Commissioner will recalculate the CityFHEPS rental assistance payment amount in accordance with 68 RCNY § 10-06 or 68 RCNY § 10-07, as applicable.
+
+(b) In the event that the household's shelter allowance increases prior to renewal, such that the sum of the CityFHEPS rental assistance payment and the shelter allowance exceeds the household's actual or maximum rent, whichever is less, HRA shall reduce the CityFHEPS rental assistance amount so that it equals the difference between the household's shelter allowance and the lesser of the actual or maximum rent.
+
+(c) The Commissioner may discontinue CityFHEPS rental assistance payments if:
+
+   (1) the household leaves the CityFHEPS unit;
+
+   (2) the landlord fails to comply with requirements set forth at 68 RCNY § 10-14, whereupon the household may be granted approval to move, pursuant to 68 RCNY § 10-10; or
+
+   (3) the household's participation in CityFHEPS is terminated, and payments are not continued, pursuant to 68 RCNY § 10-13(e).
+
+(d) A household's participation in the CityFHEPS Program may be terminated prior to renewal where the Commissioner determines that the household has failed or refused without good cause to comply with requirements set forth in 68 RCNY § 10-12.
+
+(Added City Record 9/28/2018, eff. 10/28/2018)
+
+
+
+
+
+
+*§ 10-10 Moves.* ::
+
+
+(a) A household participating in the CityFHEPS Program may not move to a new residence and maintain eligibility for the CityFHEPS Program except with the approval of the Commissioner. The household must obtain such approval prior to moving to a new residence, provided that the Commissioner may consider a request for approval made after the move if a household is unable to obtain such approval prior to the move due to circumstances beyond the household's control.
+
+(b) The Commissioner shall grant approval for a move if the household is moving from a room to an apartment, unless the household is breaking a lease for the room, in which case the household must establish either good cause for the move or that the landlord is willing to release the program participant from the lease. In all other situations, the Commissioner shall grant approval for a move from one residence to another residence only upon a showing by the household that there is good cause for the move. If the requested move is to a residence with a higher rent than the rent for the current residence, approval will also be subject to the availability of funding.
+
+(c) If the Commissioner has approved a move to a new CityFHEPS unit, the Commissioner shall recalculate the monthly CityFHEPS rental assistance payment amount, and that amount shall not change for one year from the effective date of the rental agreement for the new CityFHEPS unit, except as provided in 68 RCNY § 10-09. If the effective date of the rental agreement for the new CityFHEPS unit is not more than ten months after the start of the household's current year of participation in the program, then the household's current year in the CityFHEPS Program shall begin anew on the effective date of such rental agreement. If the effective date of the rental agreement for the new residence is more than ten months after the start of the household's current year in the program and the household is eligible for renewal in the CityFHEPS Program, then the household's renewal period shall begin on the effective date of such rental agreement.
+
+(Added City Record 9/28/2018, eff. 10/28/2018)
+
+
+
+
+
+
+*§ 10-11 Transfer of Existing LINC, SEPS, and CITYFEPS Clients to CityFHEPS.* ::
+
+
+The Commissioner shall transfer all households in a qualifying City rental assistance program to CityFHEPS, provided the household has total gross income that does not exceed 250 percent of FPL and the household continues to reside in the unit for which they have been receiving rental assistance or the Commissioner has approved a move to a new unit, pursuant to 68 RCNY § 10-10. For households participating in the LINC and SEPS programs, the transfer shall take effect on the date that the household's first renewal in the qualifying City rental assistance program on or after April 1, 2019 would otherwise have taken effect. For households participating in the CITYFEPS program, the transfer shall take place no later than one year after the effective date of this rule.
+
+(Added City Record 9/28/2018, eff. 10/28/2018)
+
+
+
+
+
+
+*§ 10-12 Household Requirements.* ::
+
+
+(a) The household must:
+
+   (1) provide accurate, complete and current information on income and household composition; and
+
+   (2) provide supporting documentation as necessary to verify eligibility and the information needed to determine the CityFHEPS rent supplement amount, maximum monthly rent, and any required contributions by household members.
+
+(b) The household must agree to have its CityFHEPS rent supplement paid directly to the landlord.
+
+(c) All members of the household who are eligible for PA must be in receipt of PA.
+
+(d) If a household is potentially eligible for any federal or State housing benefit, including Section 8 or FHEPS, the household must apply for such benefits and accept them if offered.
+
+(e) The household must pay to the landlord each month the difference between the CityFHEPS rental assistance amount and the household's rent, minus any shelter allowance and any third party contributions actually paid to the landlord and, if the household falls behind in the rent, must promptly report any arrears to the Commissioner.
+
+(f) The household must promptly notify the Commissioner if the household moves out of the CityFHEPS unit.
+
+(g) The household must promptly notify the Commissioner if the program participant is served with eviction papers.
+
+(h) [Reserved.]
+
+(i) The household must file for all work supports for which the household is entitled. These may include public benefits and tax credits, such as the Earned Income Tax Credit (EITC), the Child Tax Credit (CTC) and the Child Care Tax Credit (CCTC).
+
+(j) The household must take all reasonable and appropriate actions and seek all appropriate services as necessary to preserve the program participant's tenancy and work towards self-sufficiency, including, but not limited to, such services as job placement, landlord-tenant mediation, financial counseling and anti-eviction services. Households can receive assistance or referrals for these services from their designated service provider or local HomeBase office.
+
+(k) A program participant renting a room or an SRO must promptly notify the Commissioner if it intends to add a person younger than eighteen years of age to the household and request approval to move to an apartment, pursuant to 68 RCNY § 10-10.
+
+(l) If any member of the household has been determined to be eligible for HRA shelter under Section 452.9 of Title 18 of the New York Codes, Rules and Regulations, the household must not include the perpetrator of the domestic violence that resulted in such determination.
+
+(m) The household must otherwise cooperate fully with the City in its administration of the CityFHEPS Program.
+
+(Added City Record 9/28/2018, eff. 10/28/2018)
+
+
+
+
+
+
+*§ 10-13 Agency Review Conference and DSS Administrative Appeal Process.* ::
+
+
+(a) Right to DSS Administrative Review. An applicant, shelter resident, current or former program participant, or household member may request an agency review conference and/ or a DSS administrative hearing to seek review of any determinations or actions made under this subchapter, as well as any failures to act, or failures to act with reasonable promptness, in implementing the provisions of this subchapter.
+
+(b) Agency Review Conference.
+
+   (1) If an individual requests an agency review conference, pursuant to subdivision (a) of this section, HRA shall informally review and attempt to resolve the issues raised.
+
+   (2) An individual may request an agency review conference without also requesting a DSS administrative hearing. Requesting an agency review conference will not prevent an individual from later requesting a DSS administrative hearing.
+
+   (3) An agency review conference must be requested within sixty days after the challenged determination or action, provided further that if a DSS administrative hearing is scheduled, an agency review conference must be requested reasonably in advance of the scheduled hearing date.
+
+   (4) A request for an agency review conference will extend the time period to request a DSS administrative hearing as set forth in paragraph (2) of subdivision (c) of this section to sixty days after the date of the agency review conference.
+
+(c) Request for a DSS Administrative Hearing.
+
+   (1) An administrative hearing must be requested in writing. Such written request must be submitted by mail, electronic means or fax, or other means as DSS may set forth in an appeals notice.
+
+   (2) Except as provided in paragraph (4) of subdivision (b) of this section, a request for an administrative hearing must be made within sixty days after the challenged determination or action.
+
+(d) Authorized Representative.
+
+   (1) Except where impracticable to execute a written authorization, a person or organization seeking to represent an individual who has requested a conference or hearing under this section must have the individual's written authorization to represent him or her at an agency review conference or administrative hearing and to review their case record, provided that such written authorization is not required from an attorney retained by such individual. An employee of such attorney will be considered an authorized representative if such employee presents written authorization from the attorney or if such attorney advises DSS by telephone of such employee's authorization.
+
+   (2) Once DSS has been notified that a person or organization has been authorized to represent an individual at an agency review conference or administrative hearing, such representative will receive copies of all correspondence sent by DSS to the individual relating to the conference and hearing.
+
+(e) Aid Continuing.
+
+   (1) If a program participant requests an administrative appeal of a determination that CityFHEPS rental assistance payments are to be reduced, restricted, suspended or discontinued, such program participant shall have the right to continued receipt of CityFHEPS rental assistance payments in the amount in effect at the time of the determination until the hearing decision is issued, pursuant to subdivision (l) of this section, provided that:
+
+      (A) The program participant requests the administrative appeal within ten days of the mailing of the notice of such determination; and
+
+      (B) The appeal is based on a claim of incorrect computation or an incorrect factual determination.
+
+   (2) There is no right to continued CityFHEPS rental assistance payments, pursuant to this subdivision where the sole issue on appeal is one of local, State or Federal law or policy, or change in local, State or Federal law.
+
+   (3) CityFHEPS rental assistance payments will not continue pending the issuance of a hearing decision when:
+
+      (A) The program participant has voluntarily waived their right to the continuation of such assistance in writing; or
+
+      (B) The program participant does not appear at the administrative hearing and does not have a good cause reason for not appearing.
+
+   (4) If a program participant requests an additional appeal, pursuant to subdivision (m) of this section, CityFHEPS rental assistance payments will continue uninterrupted after issuance of the hearing decision until a written decision is issued, pursuant to subdivision (l) of this section.
+
+(f) Notice. DSS shall provide the individual who has requested a hearing under this section with notice of the date, time, and location of the administrative hearing no fewer than seven calendar days prior to the scheduled date of the administrative hearing, unless the issue underlying the request for an administrative hearing has been resolved and the individual has withdrawn their hearing request.
+
+(g) Examination of Case Record. The individual who has requested a conference or hearing under this section or their authorized representative has the right to examine the contents of their CityFHEPS program case file, if one exists, and all documents and records that HRA intends to use at the administrative hearing. Upon request by telephone or in writing, HRA shall provide such individual with copies of all such documents, and copies of any additional documents in the possession of HRA that the individual identifies and requests for purposes of preparing for the administrative hearing. HRA shall provide such documents at no charge reasonably in advance of the administrative hearing. If the request for such documents is made less than five business days before the administrative hearing, HRA must provide the individual with copies of such documents no later than at the time of the administrative hearing.
+
+(h) Adjournment. The administrative hearing may be adjourned for good cause by the administrative hearing officer on their own motion or at the request of the individual who requested the hearing or their authorized representative, or HRA.
+
+(i) Conduct of Administrative Hearing.
+
+   (1) The administrative hearing shall be conducted by an impartial hearing officer appointed by DSS who shall have the power to administer oaths and issue subpoenas and who shall have no prior personal knowledge of the facts concerning the challenged determination or action.
+
+   (2) The administrative hearing shall be informal, all relevant and material evidence shall be admissible and the legal rules of evidence shall not apply. The administrative hearing shall be confined to the factual and legal issues raised regarding the specific determination(s) for which the administrative hearing was requested.
+
+   (3) The individual who requested the hearing shall have a right to be represented by counsel or other representative, to testify, to produce witnesses to testify, to offer documentary evidence, to offer evidence in opposition to the evidence presented by HRA, to request that the hearing officer issue subpoenas, and to examine any documents offered by HRA.
+
+   (4) An audio recording, an audio visual recording or written transcript of the administrative hearing shall be made.
+
+(j) Abandonment of Request for Administrative Hearing.
+
+   (1) DSS will consider an administrative hearing request abandoned if neither the individual who requested the hearing nor their authorized representative appears at the administrative hearing, unless either the individual or their authorized representative has:
+
+      (A) contacted DSS prior to the administrative hearing to request rescheduling of the administrative hearing; or
+
+      (B) within fifteen calendar days of the scheduled administrative hearing date, contacted DSS and provided a good cause reason for failing to appear at the administrative hearing on the scheduled date.
+
+   (2) DSS will restore the case to the calendar if the individual who requested the hearing or their authorized representative has met the requirements of paragraph (1) of this subdivision.
+
+(k) Hearing Record. The recording or written transcript of the hearing, all papers and requests filed in connection with the hearing, and the hearing decision collectively constitute the complete and exclusive record of the administrative hearing.
+
+(l) Hearing Decision. The hearing officer shall render a decision based exclusively on the hearing record. The decision must be in writing and must set forth the administrative hearing issues, the relevant facts, and the applicable law, regulations and approved policy, if any, upon which the decision is based. The decision must identify the issues to be determined, make findings of fact, state the reasons for the determinations, and when appropriate, direct HRA to take specific action.
+
+   (1) A copy of the decision will be sent to each of the parties and to their authorized representatives, if any. The decision shall include written notice to the individual who had requested the hearing of the right to further appeal and the procedures for requesting such appeal.
+
+   (2) HRA is not bound by a hearing decision that exceeds the authority of the hearing officer or that is contrary to federal, State, or local law or these rules. If the Commissioner determines that HRA is not bound by a hearing decision, the Commissioner shall promptly notify the individual who had requested the hearing of such determination, and of the reasons for the determination. Such notification shall be in writing and shall also inform the individual of the right to judicial review.
+
+(m) Additional appeal.
+
+   (1) An appeal from a decision of a hearing officer may be made in writing to the Commissioner provided it is received by DSS through the procedures described in the notice accompanying the hearing decision no later than fifteen business days after DSS sends the hearing officer's decision. The record before the Commissioner shall consist of the hearing record, the hearing officer's decision and any affidavits, documentary evidence, or written arguments that the applicant or program participant may wish to submit.
+
+   (2) The Commissioner shall render a written decision based on the hearing record and any additional documents submitted by the applicant or program participant and HRA.
+
+   (3) A copy of the decision, including written notice to the applicant or program participant of the right to judicial review, will be sent to each of the parties and to their authorized representatives, if any.
+
+   (4) Upon issuance, the decision of the Commissioner made, pursuant to an appeal under this section is final and binding upon HRA and must be complied with by HRA.
+
+(Added City Record 9/28/2018, eff. 10/28/2018)
+
+
+
+
+
+
+*§ 10-14 Landlord Requirements.* ::
+
+
+(a) A landlord who signs a lease or other rental agreement with a household in receipt of CityFHEPS rental assistance is prohibited from demanding, requesting, or receiving any amount above the rent or reasonable fees as stipulated in the lease or rental agreement regardless of any changes in household composition.
+
+(b) When HRA issues monthly CityFHEPS rental assistance payments and monthly PA shelter allowance payments (if any) in full by the final day of the month, these payments will be deemed timely paid towards the CityFHEPS unit's rent for that month, regardless of any provisions in the CityFHEPS unit lease to the contrary.
+
+(c) Landlords are required to accept the HRA security voucher in lieu of a cash security deposit and may not request any additional security from the client.
+
+(d) Landlords must not move a household from one unit to another without the prior written approval of both HRA and the household.
+
+(e) Landlords must notify HRA within 5 business days of learning that the household no longer resides in the unit towards which CityFHEPS rental assistance is being applied.
+
+(f) Landlords must notify HRA within 5 business days if any legal proceeding affecting the program participant's tenancy is commenced.
+
+(g) Landlords must notify HRA promptly if the landlord, owner of the subject premises, or the management company changes.
+
+(h) If the household no longer resides in a CityFHEPS unit, the landlord must return any payments from HRA for any period of time the household was not residing in the unit.
+
+(i) Landlords must promptly return to the City any overpayments, including but not limited to monies paid in error or made as a result of inaccurate, misleading or incomplete information submitted by the landlord in connection with the CityFHEPS Program.
+
+(j) Landlords may be banned from participation in City rental assistance programs for violations of any of the landlord requirements. Before placing a landlord on a disqualification list, HRA will provide notice to the landlord and an opportunity for the landlord to object in writing.
+
+(Added City Record 9/28/2018, eff. 10/28/2018)
+
+
+
+
+
+
+*§ 10-15 Additional Provisions.* ::
+
+
+(a) CityFHEPS rental assistance cannot be combined with any other rent subsidies except with the prior approval of the Commissioner where combining the subsidies is practicable and not contrary to law, but may be used with a PA shelter allowance provided, pursuant to Section 352.3 of Title 18 of the New York Codes, Rules and Regulations.
+
+(b) Applicants and shelter residents are responsible for identifying potential housing. However, shelter staff will provide assistance to HRA and DHS shelter residents in their housing search. Additionally, shelter residents and others whi have been found to be potentially eligible for CityFHEPS rental assistance will be provided with a CityFHEPS shopping letter.
+
+(c) HRA shall not maintain a waitlist for the CityFHEPS program.
+
+(d) The number of eligible households that can be approved for CityFHEPS rental assistance under this section will be limited by the amount of available funding.
+
+(e) A LINC participant holding a lease for a unit that is subject to government regulations with respect to allowable rents as of the effective date of this rule will be permitted to accept a renewal of their lease at the rate authorized by any government entity authorized by local, state or federal law to set rents without prejudice to their eligibility for CityFHEPS.
+
+(f) Households in the CityFHEPS program will be referred to service providers who will help connect them to appropriate services in their communities.
+
+(g) If HRA offers incentives to landlords to participate in the CityFHEPS program, such incentives shall not be available for the rental of a unit where the previous tenant was receiving CityFHEPS, FHEPS or rental assistance under 68 RCNY Chapter 7 or 68 RCNY Chapter 8, unless the landlord can show good cause for not renewing such tenant, such as serious or repeated violations of the lease. Good cause will generally not be found unless the landlord has provided the tenant with 30 days written notice of the intent to not renew, including the reasons for non-renewal.
+
+(Added City Record 9/28/2018, eff. 10/28/2018)
 
 
 

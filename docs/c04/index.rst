@@ -213,6 +213,8 @@ Chapter 1: General Provisions
 
    Partner. One of two or more persons heading the same partnership.
 
+   PASSPort. A computerized citywide system providing comprehensive contract management information.
+
    Person. Any business, individual, partnership, corporation, union, firm, company, committee, club, other organization, governmental body, or group of individuals.
 
    Phased Design and Construction. A method in which construction is begun when appropriate portions have been designed, but before substantial design of the entire structure has been completed.
@@ -305,7 +307,7 @@ Chapter 1: General Provisions
 
    User. An individual or entity for which goods, services, or construction are to be purchased.
 
-   VENDEX. A computerized citywide system providing comprehensive contract management information.
+   VENDEX. A term referring to the PASSPort portal and database.
 
    Vendor. An actual or potential contractor.
 
@@ -742,7 +744,7 @@ Prior to vendor selection, the ACCO shall determine that the contract price is f
 
       Contract. Any agreement between an agency, elected official, or the Council and a contractor, or any agreement between such a contractor and a subcontractor which:
 
-         (i) is for the provision of goods, services, or construction and has a value that when aggregated with the values of all other such agreements with the same contractor or subcontractor and any franchises or concessions awarded to such contractor or subcontractor during the immediately preceding twelve-month period is valued at $100,000 or more, or
+         (i) is for the provision of goods, services, or construction and has a value that when aggregated with the values of all other such agreements with the same contractor or subcontractor and any franchises or concessions awarded to such contractor or subcontractor during the immediately preceding twelve-month period is valued at $250,000 or more, or
 
          (ii) is for the provision of goods, services, construction, or construction-related services, is awarded to a sole source, and is valued at $10,000 or more.
 
@@ -758,17 +760,17 @@ Prior to vendor selection, the ACCO shall determine that the contract price is f
 
       Subcontractor. An individual, sole proprietorship, partnership, joint venture, or corporation which is engaged by a contractor pursuant to a contract, as defined herein.
 
-   (2) Obligation to file questionnaires. VENDEX questionnaires shall be completed and filed by the contractor at least once within each three year period within which such contractor does business with the City. Each contractor shall certify at the time of award of each contract that all the information submitted within such three year period is current, accurate and complete. In the event that changes have occurred within the three year period, the contractor shall update, prior to contract award, any previously-submitted VENDEX questionnaire to supply any changed information, and shall certify that both the updated and unchanged information is current, accurate and complete. If VENDEX questionnaires have not been submitted within three years, then such questionnaires shall be completed and filed:
+   (2) Obligation to file questionnaires. VENDEX questionnaires shall be completed and filed by the contractor at least once within each three year period within which such contractor does business with the City. Each contractor shall certify at the time of award of each contract that all the information submitted within such three year period is current, accurate and complete. If changes have occurred within the three year period, the contractor shall update, prior to contract award, any previously-submitted VENDEX questionnaire to supply any changed information, and shall certify that both the updated and unchanged information is current, accurate and complete. If VENDEX questionnaires have not been submitted within three years, then such questionnaires shall be completed and filed:
 
       (i) by applicants, at the time of an application for inclusion on a prequalified list, provided that this requirement shall not apply to applications under HHS Accelerator pursuant to 9 RCNY § 3-16;
 
       (ii) by contractors, when requested by an agency or by the CCPO, but in any event before the Recommendation for Award is approved or not later than:
 
-         (A) thirty days after registration of the contract in the case of a contract of whatever value if the aggregate value of City contracts, franchises, and concessions awarded to that contractor including this one during the immediately preceding twelve-month period equals or exceeds $100,000, and
+         (A) thirty days after registration of the contract in the case of a contract of whatever value if the aggregate value of City contracts, franchises, and concessions awarded to that contractor including this one during the immediately preceding twelve-month period equals or exceeds $250,000, and
 
          (B) thirty days after registration of the contract, where permitted pursuant to paragraphs (3) and (4) of this subdivision; or
 
-      (iii) by subcontractors, within thirty days after the ACCO has received from the prime contractor written notification of the identity of the proposed subcontractor and granted preliminary approval, if the aggregate value of City contracts, franchises, and concessions awarded that subcontractor including this one during the immediately preceding twelve-month period equals or exceeds $100,000.
+      (iii) by subcontractors, within thirty days after the ACCO has received from the prime contractor written notification of the identity of the proposed subcontractor and granted preliminary approval, if the aggregate value of City contracts, franchises, and concessions awarded that subcontractor including this one during the immediately preceding twelve-month period equals or exceeds $250,000.
 
    (3) Late filing of information: when permitted. The VENDEX questionnaire may be submitted within thirty days after registration of the contract as provided in paragraph (4) of this subdivision in the following circumstances:
 
@@ -824,7 +826,7 @@ Prior to vendor selection, the ACCO shall determine that the contract price is f
 
          (B) the Comptroller or his/her designee determines that the belatedly filed information reveals matters which if provided earlier would have provided a basis for an objection to registration of the contract by the Comptroller and the Mayor or his/her designee determines that he/she would have agreed with such determination and therefore it is in the best interest of the City to terminate the contract.
 
-      (ii) Subcontractors. Where appropriate, City contracts shall contain a clause requiring prime contractors to notify subcontractors of their obligation to complete and file VENDEX Questionnaires within thirty days after the ACCO has granted preliminary approval of the identified subcontractor, if the aggregate value of City contracts, franchises, and concessions awarded to a subcontractor during the immediately preceding twelve-month period equals or exceeds $100,000.
+      (ii) Subcontractors. Where appropriate, City contracts shall contain a clause requiring prime contractors to notify subcontractors of their obligation to complete and file VENDEX Questionnaires within thirty days after the ACCO has granted preliminary approval of the identified subcontractor, if the aggregate value of City contracts, franchises, and concessions awarded to a subcontractor during the immediately preceding twelve-month period equals or exceeds $250,000.
 
    (9) Failure to submit information as required: consequences. Whenever a late filing of required information has been permitted in accordance with subdivision (e)(3) and (4) of this section and the contractor has failed to submit the required information within the required time period, that fact shall be communicated to the CCPO and the Comptroller immediately and shall be included within the VENDEX data base. Until such time as the required information has been filed with the CCPO,
 
@@ -1104,7 +1106,7 @@ The vendor shall also send a copy of its appeal to the New York City Comptroller
 
 (c) Documentation. The following documentation shall be submitted for each item required to be registered:
 
-   (1) the original executed contract and related contract budget;
+   (1) a copy of the original executed contract and related contract budget;
 
    (2) a request for encumbrance or advice of award containing:
 
@@ -1151,6 +1153,8 @@ The vendor shall also send a copy of its appeal to the New York City Comptroller
    (4) For contracts described in subdivisions (e)(1) and (2) above, the awarding agency shall, within thirty days of award, submit a copy of the contract (and such related materials as are included in subdivision (c) of this section) to the Comptroller for registration and for an audit of the procedures and of the basis for the determination of the need for an emergency or accelerated procurement.
 
 (f) Refusal of comptroller to register the contract. Upon making a determination that there is a basis for refusing to register the contract, the Comptroller shall promptly notify the ACCO of that determination and return the contract to the ACCO.
+
+
 
 
 
@@ -2219,21 +2223,23 @@ Chapter 3: Methods of Source Selection
 *§ 3-08 Small Purchases.* ::
 
 
-(a)  Definition. Small purchases are those procurements in value of not more than $100,000. This shall be known as the small purchase limit.
+(a) Definition. Small purchases are those procurements in value of not more than $100,000 or those procurements made, pursuant to subparagraph (c)(1)(iv) below, in value of not more than $150,000. This collectively shall be known as the small purchase limit. Procurements over $100,000 in value that are not made, pursuant to subparagraph (c)(1)(iv) below shall not be within the small purchase limit.
 
-(b) Application. A procurement shall not be artificially divided in order to meet the requirements of this section. Changes to and/or renewals of small purchases shall not bring the total value of the procurement to an amount greater than the small purchase limits.
+(b) Application. A procurement shall not be artificially divided in order to meet the requirements of this section. Changes to and/or renewals of small purchases shall not bring the total value of the procurement to an amount greater than the small purchase limit.
 
 (c) Scope.
 
    (1) Competition Objective.
 
-      (i) Public notice of solicitation and award, presolicitation review report, Recommendation for Award, vendor protests, written notice to the low bidder or offeror of non-responsiveness, VENDEX Questionnaire (unless the aggregate value of purchases, franchises, and concessions awarded to that vendor including this one during the immediately preceding twelve-month period equals or exceeds $100,000), and public hearing shall not be required for small purchases awarded pursuant to this section.
+      (i) Public notice of solicitation and award, written decision to procure technical, consultant, or personal services, presolicitation review report, Recommendation for Award, vendor protests, written notice to the low bidder or offeror of non-responsiveness, VENDEX questionnaires (unless the total aggregate value of purchases, franchises, and concessions awarded to that vendor including this one during the immediately preceding twelve-month period equals or exceeds $250,000) and public hearing (unless the award is valued over $100,000) shall not be required for small purchases awarded, pursuant to this section.
 
       (ii) Micropurchases. For procurements of goods and all services except construction the value of which is $20,000 or less, and for procurements of construction the value of which is $35,000 or less, no competition is required except that in making purchases below this limit, Contracting Officers must ensure that the noncompetitive price is reasonable and that purchases are distributed appropriately among responsible vendors, including M/WBE vendors. Documentation of such purchases must identify the vendor the item was purchased from, the item purchased, and the amount paid.
 
-      (iii) Small Purchases. For procurements of goods and all services except construction valued over $20,000 or procurements of construction valued over $35,000 through the small purchase limits, at least five vendors must be solicited at random from the appropriate citywide small purchases bidders list established by the CCPO for the particular goods, services, construction, or construction-related services being purchased, except where the bidders list consists of fewer than five vendors, in which case all vendors on the list must be solicited. Agencies may additionally employ any small purchase technique sanctioned by DSBS that is not otherwise in violation of these Rules. The agency may solicit additional vendors but only with the approval of the CCPO. Responsive bids or offers must be obtained from at least two vendors. For purposes of this section, a response of "no bid" is not a responsive bid. If only one responsive bid or offer is received in response to a solicitation, an award may be made to that vendor if the Contracting Officer determines that the price submitted is fair and reasonable and that other vendors had reasonable opportunity to respond.
+      (iii) Small Purchases. Except for purchases made, pursuant to subparagraph (c)(1)(iv) below, for procurements of goods and all services except construction valued over $20,000 through the small purchase limit or procurements of construction valued over $35,000 through the small purchase limit, at least five vendors must be solicited at random from the appropriate citywide small purchases bidders list established by the CCPO for the particular goods, services, construction, or construction-related services being purchased, except where the bidders list consists of fewer than five vendors, in which case all vendors on the list must be solicited. Agencies may additionally employ any small purchase technique sanctioned by DSBS that is not otherwise in violation of these Rules. The agency may solicit additional vendors but only with the approval of the CCPO. Responsive bids or offers must be obtained from at least two vendors. For purposes of this section, a response of "no bid" is not a responsive bid. If only one responsive bid or offer is received in response to a solicitation, an award may be made to that vendor if the Contracting Officer determines that the price submitted is fair and reasonable and that other vendors had reasonable opportunity to respond.
 
-   (2) Solicitation Methods and Use. For small purchases of particular goods and all services except construction valued at more than $20,000 and small purchases of construction valued at more than $35,000, agencies must use a written solicitation describing the requirements, which must contain, at a minimum:
+      (iv) M/WBE Noncompetitive Small Purchases. No competition is required for the procurement of goods and services from M/WBE vendors, except that in making purchases, pursuant to this subparagraph, the Contracting Officer must ensure that the noncompetitive price is reasonable and that purchases are distributed appropriately among responsible M/WBE vendors. Agencies shall not use this subparagraph to make any purchase the value of which is less than or equal to $20,000 or to make any purchase the value of which exceeds $150,000. Additionally, agencies shall not make purchases, pursuant to this subparagraph for human services or construction.
+
+   (2) Solicitation Methods and Use. For purchases made, pursuant to subparagraph (c)(1)(iii) above, agencies must use a written solicitation describing the requirements, which must contain, at a minimum:
 
       (i) a description of the item or service requested;
 
@@ -2243,9 +2249,9 @@ Chapter 3: Methods of Source Selection
 
       (iv) name and telephone number of the Contracting Officer to whom inquiries may be directed.
 
-(d) Award. Small purchases for goods and all services except construction valued at over $20,000 or small purchases for construction valued at over $35,000 shall be awarded to the lowest responsive and responsible bidder or to the responsive and responsible offeror that has made the most advantageous offer. After such determination has been made and all necessary approvals have been obtained, the Contracting Officer must issue a purchase order or contract, as appropriate, to the successful bidder or offeror.
+(d) Award. Purchases made, pursuant to subparagraph (c)(1)(iii) above, shall be awarded to the lowest responsive and responsible bidder or to the responsive and responsible offeror that has made the most advantageous offer. After such determination has been made and all necessary approvals have been obtained, the Contracting Officer must issue a purchase order or contract, as appropriate, to the successful bidder or offeror.
 
-(e) Record. The procurement file for a small purchase shall include, at a minimum:
+(e) Record. The procurement file for a small purchase shall include, at a minimum, any of the following that are applicable:
 
    (1) name of the responsible Contracting Officer;
 
@@ -2253,7 +2259,7 @@ Chapter 3: Methods of Source Selection
 
    (3) purchase order or contract number;
 
-   (4) name and address of successful vendor, including PIN;
+   (4) name and address of successful vendor, including the vendor's employer identification number;
 
    (5) invoice and receiving documentation;
 
@@ -2263,17 +2269,17 @@ Chapter 3: Methods of Source Selection
 
    (8) names of solicited vendors and bid amounts, if any;
 
-   (9) copy of advertisement or written solicitation (if applicable);
+   (9) copy of advertisement or written solicitation;
 
-   (10) quotations and notations pertaining to oral bid solicitations (if applicable);
+   (10) quotations and notations pertaining to oral bid solicitations;
 
-   (11) written bids and offers (if applicable);
+   (11) written bids and offers;
 
    (12) all correspondence;
 
    (13) bid tabulations; and
 
-   (14) written basis of award.
+   (14) written basis of award, including a determination that the award is fair and reasonable for small purchases made, pursuant to subparagraph (c)(1)(iv) above.
 
 
 

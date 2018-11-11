@@ -3743,6 +3743,19 @@ Chapter 35: Electrical Inspection
 
 
 
+Chapter 37: Reference Standards
+--------------------------------------------------
+
+
+
+*§ 37-01 Rules of Procedure for Amending, Revising or Promulgating Reference Standards. [Repealed]* ::
+
+
+
+
+
+
+
 Chapter 36: Electrical Contractors
 --------------------------------------------------
 
@@ -3778,19 +3791,6 @@ Chapter 36: Electrical Contractors
 
 
 
-Chapter 37: Reference Standards
---------------------------------------------------
-
-
-
-*§ 37-01 Rules of Procedure for Amending, Revising or Promulgating Reference Standards. [Repealed]* ::
-
-
-
-
-
-
-
 Chapter 38: Ventilation
 --------------------------------------------------
 
@@ -3817,6 +3817,47 @@ Chapter 39: Cooling Towers and Evaporative Condensers
 
 
 
+
+
+
+
+Chapter 41: Venting of Gas Water Heaters and Other Gas Appliances In Multiple Dwellings
+--------------------------------------------------
+
+
+
+*§ 41-01 Venting of Gas Water Heaters and Other Gas Appliances in Multiple Dwellings.* ::
+
+
+(a) This section shall apply to vents for gas burning water heaters within apartments of multiple dwellings as required by § 27-887(d) of the Administrative Code (Building Code) and to gas appliances in rooms or spaces without a window opening to the outer air, used for living or sleeping within a multiple dwelling, where required by the provisions of § 64 of the Multiple Dwelling Law.
+
+(b) Vents shall consist of galvanized iron of not less than No. 26 U.S. gauge in thickness, cement-asbestos pipe, metal-asbestos pipe, enamelled steel pipe of a quality acceptable to the Department as heat and corrosion resistant, or other materials satisfactory to the superintendent.
+
+(c) Vents shall have a cross-sectional area at least equal to the area of the vent outlet of the appliance and shall have a minimum diameter or dimension of three (3) inches.
+
+(d) Vents shall lead to a flue or to the outer air as follows:
+
+   (1) Several vents may be connected to a flue if the cross-sectional area of the flue is equal to or greater than the total cross-sectional area of all vents so connected. No vent from a water heater or other gas appliance within an apartment may be connected to a flue serving a central heating plant.
+
+   (2) Vents may be connected to a flue serving appliances burning other than gas fuel provided the connection of the gas appliance to the flue is at least nine (9) inches above the connection of the other heat producing device, or through a suitable "Y" connection in a common vent pipe of proper diameter.
+
+   (3) Every flue to which a vent from a gas water heater is attached, shall extend to a distance of not less than four (4) feet above a flat roof, or two (2) feet above a pitched roof. Such flues on the exterior of a building, and the portions of the vent pipes on the exterior of a building, shall consist of standard water, steam or soil pipe, cement-asbestos pipe, metal-asbestos pipe, or other corrosion resistant material satisfactory to the Department. Flues and vent pipes on the exterior of buildings shall be adequately supported and braced. Flues within buildings shall be constructed as low temperature chimneys.
+
+   (4) Vents leading to an outside flue or terminating at the exterior of the building may pass through the upper part of a window if the vent is adequately secured in place and provided the vent is so arranged as to give minimum interference with the operation of the window, provided the area of the windows in the room after alteration equals or exceeds that required by law. Vents may also pass through an exterior wall by means of a metal sleeve placed in the wall. The metal sleeve shall consist of standard water, steam, or soil pipe, cement-asbestos pipe, or other approved material. The space between the sleeve and the vent shall be filled with incombustible material.
+
+   (5) Vent pipes may be terminated at the exterior of an outside wall of a building in which case the vents shall be turned upward for not less than ten (10) inches, except that for any vent pipes installed after June 30, 1955, the vertical rise of the vent pipe shall not be less than one and one-third times the length of the horizontal run of the vent pipe. No vent pipe shall terminate below the level of the top of a window unless at least three (3) feet distant from any part of the window. Vents shall be capped with an approved tee. Vents on the exterior of a building shall comply with the provisions of paragraph (4), subdivision (d) of this section as to the material that may be used.
+
+(e) Vent pipes shall be installed so as to provide a minimum clearance of three (3) inches on all sides from combustible material. Vent pipes shall not pass through a floor unless approved by the superintendent.
+
+(f) Where a vent pipe passes through a partition or roof constructed wholly or in part of combustible material, a ventilated metal thimble not less than six (6) inches larger in diameter than the pipe, shall be provided. Any material used to fill the space between the vent pipe and the thimble shall be incombustible.
+
+(g) Every vent pipe serving as a gas water heater shall be provided with a draft hood unless the water heater has an approved built-in draft hood. The draft hood shall be approved by a recognized testing laboratory as conforming to nationally accepted standards. The draft hood shall be installed at the flue collar or as near to the appliance as possible and in the position for which it was designed, with reference to horizontal and vertical planes. The relief opening of the draft hood shall not be obstructed.
+
+(h) The horizontal run of vent pipe shall not exceed three-fourths of the vertical rise of the flue to which the vent is attached. The vent pipe shall be pitched upward from the water heater with a slope of not less than one-fourth inch vertically for each foot of horizontal run.
+
+(i) No dampers, steel wool or other obstructions shall be placed in any vent pipe or flue.
+
+(j) A permit shall be obtained from the Department of Buildings before any vertical flue or chimney is constructed.
 
 
 
@@ -4148,47 +4189,6 @@ Where there is a practical difficulty in carrying out the strict letter of the p
 
 
 
-Chapter 41: Venting of Gas Water Heaters and Other Gas Appliances In Multiple Dwellings
---------------------------------------------------
-
-
-
-*§ 41-01 Venting of Gas Water Heaters and Other Gas Appliances in Multiple Dwellings.* ::
-
-
-(a) This section shall apply to vents for gas burning water heaters within apartments of multiple dwellings as required by § 27-887(d) of the Administrative Code (Building Code) and to gas appliances in rooms or spaces without a window opening to the outer air, used for living or sleeping within a multiple dwelling, where required by the provisions of § 64 of the Multiple Dwelling Law.
-
-(b) Vents shall consist of galvanized iron of not less than No. 26 U.S. gauge in thickness, cement-asbestos pipe, metal-asbestos pipe, enamelled steel pipe of a quality acceptable to the Department as heat and corrosion resistant, or other materials satisfactory to the superintendent.
-
-(c) Vents shall have a cross-sectional area at least equal to the area of the vent outlet of the appliance and shall have a minimum diameter or dimension of three (3) inches.
-
-(d) Vents shall lead to a flue or to the outer air as follows:
-
-   (1) Several vents may be connected to a flue if the cross-sectional area of the flue is equal to or greater than the total cross-sectional area of all vents so connected. No vent from a water heater or other gas appliance within an apartment may be connected to a flue serving a central heating plant.
-
-   (2) Vents may be connected to a flue serving appliances burning other than gas fuel provided the connection of the gas appliance to the flue is at least nine (9) inches above the connection of the other heat producing device, or through a suitable "Y" connection in a common vent pipe of proper diameter.
-
-   (3) Every flue to which a vent from a gas water heater is attached, shall extend to a distance of not less than four (4) feet above a flat roof, or two (2) feet above a pitched roof. Such flues on the exterior of a building, and the portions of the vent pipes on the exterior of a building, shall consist of standard water, steam or soil pipe, cement-asbestos pipe, metal-asbestos pipe, or other corrosion resistant material satisfactory to the Department. Flues and vent pipes on the exterior of buildings shall be adequately supported and braced. Flues within buildings shall be constructed as low temperature chimneys.
-
-   (4) Vents leading to an outside flue or terminating at the exterior of the building may pass through the upper part of a window if the vent is adequately secured in place and provided the vent is so arranged as to give minimum interference with the operation of the window, provided the area of the windows in the room after alteration equals or exceeds that required by law. Vents may also pass through an exterior wall by means of a metal sleeve placed in the wall. The metal sleeve shall consist of standard water, steam, or soil pipe, cement-asbestos pipe, or other approved material. The space between the sleeve and the vent shall be filled with incombustible material.
-
-   (5) Vent pipes may be terminated at the exterior of an outside wall of a building in which case the vents shall be turned upward for not less than ten (10) inches, except that for any vent pipes installed after June 30, 1955, the vertical rise of the vent pipe shall not be less than one and one-third times the length of the horizontal run of the vent pipe. No vent pipe shall terminate below the level of the top of a window unless at least three (3) feet distant from any part of the window. Vents shall be capped with an approved tee. Vents on the exterior of a building shall comply with the provisions of paragraph (4), subdivision (d) of this section as to the material that may be used.
-
-(e) Vent pipes shall be installed so as to provide a minimum clearance of three (3) inches on all sides from combustible material. Vent pipes shall not pass through a floor unless approved by the superintendent.
-
-(f) Where a vent pipe passes through a partition or roof constructed wholly or in part of combustible material, a ventilated metal thimble not less than six (6) inches larger in diameter than the pipe, shall be provided. Any material used to fill the space between the vent pipe and the thimble shall be incombustible.
-
-(g) Every vent pipe serving as a gas water heater shall be provided with a draft hood unless the water heater has an approved built-in draft hood. The draft hood shall be approved by a recognized testing laboratory as conforming to nationally accepted standards. The draft hood shall be installed at the flue collar or as near to the appliance as possible and in the position for which it was designed, with reference to horizontal and vertical planes. The relief opening of the draft hood shall not be obstructed.
-
-(h) The horizontal run of vent pipe shall not exceed three-fourths of the vertical rise of the flue to which the vent is attached. The vent pipe shall be pitched upward from the water heater with a slope of not less than one-fourth inch vertically for each foot of horizontal run.
-
-(i) No dampers, steel wool or other obstructions shall be placed in any vent pipe or flue.
-
-(j) A permit shall be obtained from the Department of Buildings before any vertical flue or chimney is constructed.
-
-
-
-
 Chapter 42: Entrance Doors, Locks and Intercommunication Systems
 --------------------------------------------------
 
@@ -4322,43 +4322,6 @@ Chapter 45: Building Permit Application Procedures
 
 
 
-Chapter 46: Authorized Representatives
---------------------------------------------------
-
-
-
-*§ 46-01 Persons Authorized to Perform Inspections, Tests, Certifications, and Other Functions on Behalf of the Department.* ::
-
-
-(a) Authorized representatives. Persons authorized to perform inspections, other than officers and employees of the Department, shall include the following:
-
-   (1) Professional engineers and registered architects licensed under the New York State Education Law are authorized to review plans and satisfy objections issued at plan examination and perform tests and inspections required by title 26 and 27 of the New York City Administrative Code ("the code"), in accordance with code requirements and all applicable rules and regulations of the Department;
-
-   (2) Professional engineers and registered architects licensed under the New York State Education Law and master plumbers and master fire suppression piping contractors licensed by the Department are authorized to inspect and witness tests for plumbing, standpipes, and sprinklers in accordance with the code, to the extent they are qualified by the terms of their licenses and experience;
-
-   (3) Professional engineers, registered architects, licensed master plumbers, and representatives of utility companies may also witness tests of gas piping systems in accordance with the code and applicable rules and regulations of the Department;
-
-   (4) Other persons and entities licensed by the Department under title 26 of the code are authorized to perform inspections of work performed under their licenses pursuant to the code and applicable rules and regulations of the Department;
-
-   (5) Land surveyors and landscape architects licensed under the New York State Education Law are authorized to review plans and to perform inspections of work performed under their licenses pursuant to the code and applicable rules and regulations of the Department;
-
-   (6) Qualified boiler inspectors are authorized to perform boiler inspections under section 27-793(b) of the code and rules promulgated thereunder;
-
-   (7) Private elevator inspection agencies certified under 1 RCNY § 11-01 are authorized to perform and witness elevator inspections and tests in accordance with code provisions; and
-
-   (8) Private electrical inspection agencies certified under 1 RCNY § 35-01 are authorized to perform electrical inspections.
-
-(b) The authorized representatives listed in subdivision (a) above shall identify themselves by producing copies of their applicable licenses or certifications and shall maintain liability insurance in accordance with applicable code requirements.
-
-(c) Except as otherwise permitted in the code, the authorized representative shall personally conduct the inspections or tests.
-
-(d) Authorized representatives may only perform such inspections and tests for which they are qualified by the terms of their licenses and their experience.
-
-(e) Failure to comply with the applicable law and rules and regulations of the Department shall be grounds for suspension or revocation of an authorized representative's authority to conduct inspections on behalf of the Department.
-
-
-
-
 Chapter 48: Construction Superintendents [Repealed]
 --------------------------------------------------
 
@@ -4418,6 +4381,43 @@ Chapter 48: Construction Superintendents [Repealed]
 
 
 
+
+
+
+
+Chapter 46: Authorized Representatives
+--------------------------------------------------
+
+
+
+*§ 46-01 Persons Authorized to Perform Inspections, Tests, Certifications, and Other Functions on Behalf of the Department.* ::
+
+
+(a) Authorized representatives. Persons authorized to perform inspections, other than officers and employees of the Department, shall include the following:
+
+   (1) Professional engineers and registered architects licensed under the New York State Education Law are authorized to review plans and satisfy objections issued at plan examination and perform tests and inspections required by title 26 and 27 of the New York City Administrative Code ("the code"), in accordance with code requirements and all applicable rules and regulations of the Department;
+
+   (2) Professional engineers and registered architects licensed under the New York State Education Law and master plumbers and master fire suppression piping contractors licensed by the Department are authorized to inspect and witness tests for plumbing, standpipes, and sprinklers in accordance with the code, to the extent they are qualified by the terms of their licenses and experience;
+
+   (3) Professional engineers, registered architects, licensed master plumbers, and representatives of utility companies may also witness tests of gas piping systems in accordance with the code and applicable rules and regulations of the Department;
+
+   (4) Other persons and entities licensed by the Department under title 26 of the code are authorized to perform inspections of work performed under their licenses pursuant to the code and applicable rules and regulations of the Department;
+
+   (5) Land surveyors and landscape architects licensed under the New York State Education Law are authorized to review plans and to perform inspections of work performed under their licenses pursuant to the code and applicable rules and regulations of the Department;
+
+   (6) Qualified boiler inspectors are authorized to perform boiler inspections under section 27-793(b) of the code and rules promulgated thereunder;
+
+   (7) Private elevator inspection agencies certified under 1 RCNY § 11-01 are authorized to perform and witness elevator inspections and tests in accordance with code provisions; and
+
+   (8) Private electrical inspection agencies certified under 1 RCNY § 35-01 are authorized to perform electrical inspections.
+
+(b) The authorized representatives listed in subdivision (a) above shall identify themselves by producing copies of their applicable licenses or certifications and shall maintain liability insurance in accordance with applicable code requirements.
+
+(c) Except as otherwise permitted in the code, the authorized representative shall personally conduct the inspections or tests.
+
+(d) Authorized representatives may only perform such inspections and tests for which they are qualified by the terms of their licenses and their experience.
+
+(e) Failure to comply with the applicable law and rules and regulations of the Department shall be grounds for suspension or revocation of an authorized representative's authority to conduct inspections on behalf of the Department.
 
 
 
@@ -7577,6 +7577,138 @@ Table 10 Façade project inspections
 
 
 On and after December 31, 2014, all individuals who install, adjust, repair, maintain, use, inspect, or remove a suspended scaffold, or who supervise such work must have completed the training specified in Section BC 3314.4.5 of the New York City Building Code.
+
+
+
+
+
+
+*§ 3316-01 Rigging operations and rigging equipment* ::
+
+
+(a) Applicability. This section applies to rigging operations performed in connection with the hoisting or lowering of articles on the outside of a building and all rigging equipment utilized in connection with such operations.
+
+(b) Definitions. For the purposes of this section, terms defined in Chapter 33 of the New York City Building Code and 1 RCNY § 3319-01 have the same meaning here.
+
+(c) Manufacturer specifications, design, and capacity restrictions. Rigging operations must be performed, and rigging equipment utilized, in accordance with specifications and rated capacities established by the manufacturer of the rigging equipment and the manufacturer of the object to be hoisted or lowered. In addition, where plans or design documents are provided, the rigging operations must be performed in accordance with such plans or design documents.
+
+   Exceptions: Deviations from the manufacturer specifications and rated capacities are allowed provided they are in accordance with design drawings prepared by a registered design professional who has demonstrated knowledge and experience with rigging. Such design drawings must clearly indicate the deviations from the manufacturer specifications and rated capacities.
+
+(d) Precautions. The following precautions must be observed during rigging operations.
+
+   (1) Tag lines. A tag or restraint line must be used where a load could be subject to rotation that would pose a hazard.
+
+   (2) Releasing the load. The rigging supervisor required by Section 3316.9.1 of the New York City building code is required to ensure that no load is released from the hoisting line or otherwise deposited until either:
+
+      (i) The load is securely attached in place to the building or structure; or
+
+      (ii) The load has been placed on a surface or structure capable of supporting the load.
+
+   (3) Shock loading. Precautions must be taken to avoid shock loading.
+
+   (4) Makeshift links or fasteners. Makeshift links or fasteners formed from bolts or rods, or other such attachments are prohibited.
+
+   (5) Job built equipment. Job built rigging equipment must be designed by a registered design professional who has demonstrated knowledge and experience with rigging. Signed and sealed drawings for the job built rigging equipment must be kept at the site at all times.
+
+(e) Slings. Slings must be utilized in accordance with the requirements of this subdivision and ASME B30.9. Where differences occur between the provisions of this section and referenced standards, the provisions of this section apply.
+
+   (1) Repairs, alterations, and modifications. Slings may only be repaired, altered, or modified by the manufacturer of the sling, or an entity authorized by the manufacturer.
+
+      Exception: Missing or illegible identification tags may be replaced by a qualified person in accordance with the requirements of the manufacturer of the sling.
+
+   (2) Inspections. The frequent inspection required by ASME B30.9 must be performed prior to each shift by the individual responsible for supervising the rigging operation in accordance with Section 3316.9 of the New York City Building Code. Where synthetic slings are utilized, the softening mechanisms must also be inspected as part of the frequent inspection. The periodic inspection and other inspections required by ASME B30.9 must be performed by a competent person designated by the owner of the sling at the intervals prescribed by ASME B30.9.
+
+      (i) Additional inspection for synthetic slings. Synthetic materials can be degraded by exposure to sunlight or ultraviolet light. Manufacturer recommendations for the inspection of synthetic slings to determine the damage from sunlight or ultraviolet light must be followed.
+
+   (3) Records. Where ASME B30.9 requires a record or documentation of an inspection or test, such record or documentation must be signed and dated by the individual who performed the inspection or test, and must be maintained by the owner of the sling.
+
+   (4) Identification. Tags or similar identification on the sling must be legible.
+
+   (5) Discarded rope. Discarded rope cannot be used for slings.
+
+   (6) Weakest component. Hooks, rings, oblong links, pear shaped links, welded or mechanical coupling links, or other attachments must have a rated capacity at least equal to that of the sling with which they are used.
+
+   (7) Protection of synthetic slings from edges, corners, or protrusions. Synthetic slings cannot be used unless softening mechanisms have been applied to all edges, corners, or protrusions.
+
+   (8) Use of synthetic slings in conjunction with climber or tower crane erection, jumping, climbing, and dismantling. Synthetic slings can only be used in conjunction with climber or tower crane erection, jumping, climbing, and dismantling if the manufacturer's manual specifically states or recommends the use of synthetic slings.
+
+(f) Below-the-hook lifting devices. Below-the-hook lifting devices must be utilized in accordance with the requirements of this subdivision and ASME B30.20. Where differences occur between the provisions of this section and referenced standards, the provisions of this section apply.
+
+   (1) Repairs, alterations, and modifications. Below-the-hook lifting devices may only be repaired, altered, or modified by the manufacturer of the device, or an entity authorized by the manufacturer.
+
+      Exception: Missing or illegible identification tags may be replaced by a qualified person in accordance with the requirements of the manufacturer of the below-the-hook lifting device.
+
+   (2) Inspections. The frequent inspection required by ASME B30.20 must be performed prior to each shift by the individual responsible for supervising the rigging operation in accordance with Section 3316.9 of the New York City Building Code. The periodic inspection and other inspections required by ASME B30.20 must be performed by a competent person designated by the owner of the below-the-hook lifting device at the intervals prescribed by ASME B30.20.
+
+   (3) Records. Where ASME B30.20 requires a record or documentation of an inspection or test, such record or documentation must be signed and dated by the individual who performed the inspection or test, and must be maintained by the owner of the below-the-hook lifting devices.
+
+   (4) Identification. Tags or similar identification on the below-the-hook lifting device must be legible.
+
+(g) Rigging hardware. Rigging hardware described in ASME B30.26 must be utilized in accordance with the requirements of this subdivision and ASME B30.26. Where differences occur between the provisions of this section and referenced standards, the provisions of this section apply.
+
+   (1) Repairs, alterations, and modifications. Rigging hardware may only be repaired, altered, or modified by the manufacturer of the rigging hardware, or an entity authorized by the manufacturer.
+
+      Exceptions:
+
+         1. Missing or illegible identification tags may be replaced by a qualified person in accordance with the requirements of the manufacturer of the rigging hardware.
+
+         2. Safety latches may be replaced by a qualified person in accordance with the requirements of the manufacturer of the rigging hardware.
+
+   (2) Inspections. The frequent inspection required by ASME B30.26 must be performed prior to each shift by the individual responsible for supervising the rigging operation in accordance with Section 3316.9 of the New York City Building Code. The periodic inspection and other inspections required by ASME B30.26 must be performed by a competent person designated by the owner of the rigging hardware at the intervals prescribed by ASME B30.26.
+
+   (3) Records. Where ASME B30.26 requires a record or documentation of an inspection, calibration, or test, such record or documentation must be signed and dated by the individual who performed the inspection, calibration, or test, and must be maintained by the owner of the rigging hardware.
+
+   (4) Identification. Tags or similar identification on the rigging hardware must be legible.
+
+(h) Hooks. Hooks must be utilized in accordance with the requirements of this subdivision and ASME B30.10. Where differences occur between the provisions of this section and referenced standards, the provisions of this section apply.
+
+   (1) Repairs, alterations, and modifications. Hooks may only be repaired, altered, or modified by the manufacturer of the hook, or an entity authorized by the manufacturer. Repairs, alterations, or modifications by welding or reshaping are not acceptable unless prior written approval of the department is obtained.
+
+      Exception: Safety latches may be replaced by a qualified person in accordance with the requirements of the manufacturer of the hook.
+
+   (2) Inspections. The frequent inspection required by ASME B30.10 must be performed prior to each shift by the individual responsible for supervising the rigging operation in accordance with Section 3316.9 of the New York City Building Code. The periodic inspection and other inspections required by ASME B30.10 must be performed by a competent person designated by the owner of the hook at the intervals prescribed by ASME B30.10.
+
+   (3) Records. Where ASME B30.10 requires a record or documentation of an inspection or test, such record or documentation must be signed and dated by the individual who performed the inspection or test, and must be maintained by the owner of the hook.
+
+   (4) Identification. Tags or similar identification on the hook must be legible.
+
+   (5) Latches and self-locking mechanisms. Hooks without a latch or self-locking mechanism are prohibited.
+
+(i) Documents made available upon request. Where this section or a referenced standard requires inspection records, design drawings, or other documentation to be maintained, such record, design drawing, or documentation must be made available to the commissioner upon request.
+
+(j) Referenced standards. The standards referenced in this section are considered part of the requirements of this section to the prescribed extent of each such reference. Where differences occur between provisions of this section and referenced standards, the provisions of this section apply.
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - Standard
+      - Name
+      - Year
+    * - American Society of Mechanical Engineers (ASME)
+      - 
+      - 
+    * - ASME B30.9
+      - Slings
+      - 2014
+    * - ASME B30.10
+      - Hooks
+      - 2014
+    * - ASME B30.20
+      - Below-the-hook lifting devices
+      - 2013
+    * - ASME B30.26
+      - Rigging hardware
+      - 2015
+~
+
+
+
+ 
+
+
 
 
 
