@@ -3462,6 +3462,77 @@ Chapter 30: Storage of Certain Waste Materials
 
 
 
+Chapter 35: Electrical Inspection
+--------------------------------------------------
+
+
+
+*§ 35-01 Designation of Private Agencies to Perform Electrical Inspections in the City of New York.* ::
+
+
+(a) Grounds for certification and renewal of certification. The commissioner may grant and each January thereafter renew certification of private electrical inspection agencies, provided:
+
+   (1) the agency applying for certification certifies in writing that each of the inspectors it shall employ to conduct the inspections permitted by § 27-3005(2)(b) of the Administrative Code shall possess five years experience as an electrician or inspector of electrical installation; or three years of experience as an electrician or inspector of electrical installation plus two years of education at an accredited college technical school in a program emphasizing courses in electrical installations or education toward a baccalaureate degree in Electrical Engineering or Engineering Technology with an emphasis on electrical installation or repair. Two of the requisite years of working experience as an electrician or inspector of electrical installation shall be experience in the installation of lighting, heating and power. Experience and education must be acceptable to the Department of Buildings and is subject to the Commissioner's review and approval; and
+
+   (2) the agency possesses
+
+      (i) a general liability insurance policy in excess of $5 million, and
+
+      (ii) worker's compensation insurance for its employees and submits copies of the Insurance Certificates to the Commissioner; and
+
+   (3) the agency furnishes the names of its inspectors and documentation supporting the experience required by 1 RCNY § 35-01(a)(1) hereof, and thereafter promptly advises the commissioner of any changes in personnel affecting the inspection permitted; and
+
+   (4) the agency prohibits its inspectors and other employees from accepting any gratuities or other benefit for work performed pursuant to these regulations and § 27-3005(2)(b) of the Administrative Code; and
+
+   (5) the agency does not conduct an inspection pursuant to § 27-3005(2)(b) of the Administrative Code of any work performed by any of its own officers, employees, or any other person associated with the agency; and
+
+   (6) the agency has a legal place of business within the city of New York (P.O. Box not acceptable).
+
+(b) Right to deny or revoke certification. 
+
+   (1) The commissioner or his designee may deny or revoke certification where investigation reveals any of the following:
+
+      (i) the agency has failed to comply with any of the provisions enumerated in 1 RCNY § 35-01(a);
+
+      (ii) the agency has knowingly made false or misleading statements, or knowingly falsified or allowed to be falsified any certificate, form, signed statement, application, or report filed with the department, or failed to file a report required by law or the department or willfully impeded or obstructed such filing, or induced another person to do so; (iii) the agency engages in any other conduct evidencing a willful or grossly negligent failure to comply with provisions of state or local law, or rules or regulations promulgated pursuant to statutory authority; or
+
+      (iv) the agency engages in any other conduct evidencing a departure from the standard or good character applicable to the trade of licensed electrician.
+
+   (2) Where the commissioner or his designee, in his or her discretion, deems the certification of the agency shall be revoked, the agency shall be entitled to a hearing before the Office of Administrative Trials and Hearings as provided by rules promulgated by the department.
+
+   (3) Where the commissioner or his designee, in his or her discretion, deems that continued certification of the agency would be likely to create a condition of imminent peril to public safety, the revocation determination shall be effective immediately. In such an instance, the agency shall be entitled to a hearing pursuant to 1 RCNY § 35-01(b)(2) at the next available scheduled hearing session before the Office of Administrative Trials and Hearings.
+
+(c) Contractual obligation. 
+
+   (1) A contractual agreement between the agency and the City of New York is required in order for the agency to perform electrical inspections for the City of New York.
+
+   (2) Certification by the Commissioner is a prerequisite for participation in the contracting process.
+
+
+
+
+
+
+*§ 35-02 Payment of Fees for Certificates of Electrical Inspection.* ::
+
+
+(a) All applications for a certificate of electrical inspection for electrical work filed with the Department of Buildings shall specify a completion date for such work. No certificates of electrical inspection, other than temporary certificates for electrical service, shall be issued, unless and until the required total application fee or fees therefor shall have been paid to the commissioner.
+
+(b) The fees required to be paid pursuant to 27-3018(b) of the Administrative Code shall be paid as follows:
+
+   (1) The filing fee set forth in 27-3018, subdivision (b) of the Administrative Code shall be paid upon the filing of the application for a certificate of electrical inspection.
+
+   (2) (i)  The licensee shall schedule an inspection within thirty (30) days after the completion date specified on the application in accordance with procedures established by the Department. The remainder of the total fee, based upon the work listed on the application, shall be due and payable upon completion of the scheduled inspection by the Department. Upon completion of the inspection and the Department's determination that the work performed is complete and in compliance with the applicable provisions of the Electrical Code and upon the Department's having received full payment of applicable fees, including any additional fee payable under paragraph (4) of this subdivision, a certificate of electrical inspection shall be issued to the licensee.
+
+      (ii) if the licensee fails to schedule an inspection in accordance with Department's procedures within thirty days after the completion date specified on the application for a certificate of electrical inspection, or such date as extended by the Department, or cancels a scheduled inspection appointment with less than forty-eight (48) hours notice, or cancels a scheduled inspection more than forty-eight (48) hours prior to the inspection without scheduling an alternative date in accordance with Department procedures, or fails to provide access for the scheduled inspection, or if upon inspection it is determined by the Department that the work is not complete, or the scope of the work exceeds the scope of work indicated on the application or the work is not in compliance with the Electrical Code, the remainder of the total fee shall be due and payable immediately.
+
+   (3) Where the remainder of the total fee is due and payable immediately, as provided in paragraph (2)(ii) above, the licensee shall continue to be required to schedule an inspection(s) in the same manner as the initial inspection until the Department determines that the work performed conforms with the scope of the work indicated on the application and is in compliance with the applicable provisions of the Electrical Code. Upon such a determination and upon the Department's having received full payment of applicable fees, including any additional fee payable under paragraph (4) of this subdivision, a certificate of electrical inspection shall be issued to the licensee.
+
+   (4) Any additional fee, based on amendments to the original application that include additional work, must be paid prior to the issuance of a certificate of electrical inspection.
+
+
+
+
 Chapter 34: Electrical Code Rules
 --------------------------------------------------
 
@@ -3668,77 +3739,6 @@ In accordance with section 27-3005(a)(7) of the Administrative Code, the Commiss
 
 
 In accordance with section 27-3005(a)(7) of the Administrative Code the Commissioner shall appoint a special committee to be known as the "electrical code advisory committee". The committee shall advise the Commissioner regarding the approval of local amendments to the NEC proposed by the Electrical Code Revision and Interpretation Committee and the implementation of such amendments, and shall act as a conduit between the Department and the electrical industry regarding such proposed amendments and their implementation. The members of the committee shall be appointed annually and shall serve at the pleasure of the Commissioner. The number of members and their organizational affiliations shall be at the discretion of the Commissioner. The Committee shall have a Chair, Vice-Chair and Secretary appointed annually by the Commissioner. The Commissioner shall submit all local amendments to the edition of the National Fire Protection Association NFPA 70 NEC currently adopted or being considered for adoption by the city to the committee for review.
-
-
-
-
-Chapter 35: Electrical Inspection
---------------------------------------------------
-
-
-
-*§ 35-01 Designation of Private Agencies to Perform Electrical Inspections in the City of New York.* ::
-
-
-(a) Grounds for certification and renewal of certification. The commissioner may grant and each January thereafter renew certification of private electrical inspection agencies, provided:
-
-   (1) the agency applying for certification certifies in writing that each of the inspectors it shall employ to conduct the inspections permitted by § 27-3005(2)(b) of the Administrative Code shall possess five years experience as an electrician or inspector of electrical installation; or three years of experience as an electrician or inspector of electrical installation plus two years of education at an accredited college technical school in a program emphasizing courses in electrical installations or education toward a baccalaureate degree in Electrical Engineering or Engineering Technology with an emphasis on electrical installation or repair. Two of the requisite years of working experience as an electrician or inspector of electrical installation shall be experience in the installation of lighting, heating and power. Experience and education must be acceptable to the Department of Buildings and is subject to the Commissioner's review and approval; and
-
-   (2) the agency possesses
-
-      (i) a general liability insurance policy in excess of $5 million, and
-
-      (ii) worker's compensation insurance for its employees and submits copies of the Insurance Certificates to the Commissioner; and
-
-   (3) the agency furnishes the names of its inspectors and documentation supporting the experience required by 1 RCNY § 35-01(a)(1) hereof, and thereafter promptly advises the commissioner of any changes in personnel affecting the inspection permitted; and
-
-   (4) the agency prohibits its inspectors and other employees from accepting any gratuities or other benefit for work performed pursuant to these regulations and § 27-3005(2)(b) of the Administrative Code; and
-
-   (5) the agency does not conduct an inspection pursuant to § 27-3005(2)(b) of the Administrative Code of any work performed by any of its own officers, employees, or any other person associated with the agency; and
-
-   (6) the agency has a legal place of business within the city of New York (P.O. Box not acceptable).
-
-(b) Right to deny or revoke certification. 
-
-   (1) The commissioner or his designee may deny or revoke certification where investigation reveals any of the following:
-
-      (i) the agency has failed to comply with any of the provisions enumerated in 1 RCNY § 35-01(a);
-
-      (ii) the agency has knowingly made false or misleading statements, or knowingly falsified or allowed to be falsified any certificate, form, signed statement, application, or report filed with the department, or failed to file a report required by law or the department or willfully impeded or obstructed such filing, or induced another person to do so; (iii) the agency engages in any other conduct evidencing a willful or grossly negligent failure to comply with provisions of state or local law, or rules or regulations promulgated pursuant to statutory authority; or
-
-      (iv) the agency engages in any other conduct evidencing a departure from the standard or good character applicable to the trade of licensed electrician.
-
-   (2) Where the commissioner or his designee, in his or her discretion, deems the certification of the agency shall be revoked, the agency shall be entitled to a hearing before the Office of Administrative Trials and Hearings as provided by rules promulgated by the department.
-
-   (3) Where the commissioner or his designee, in his or her discretion, deems that continued certification of the agency would be likely to create a condition of imminent peril to public safety, the revocation determination shall be effective immediately. In such an instance, the agency shall be entitled to a hearing pursuant to 1 RCNY § 35-01(b)(2) at the next available scheduled hearing session before the Office of Administrative Trials and Hearings.
-
-(c) Contractual obligation. 
-
-   (1) A contractual agreement between the agency and the City of New York is required in order for the agency to perform electrical inspections for the City of New York.
-
-   (2) Certification by the Commissioner is a prerequisite for participation in the contracting process.
-
-
-
-
-
-
-*§ 35-02 Payment of Fees for Certificates of Electrical Inspection.* ::
-
-
-(a) All applications for a certificate of electrical inspection for electrical work filed with the Department of Buildings shall specify a completion date for such work. No certificates of electrical inspection, other than temporary certificates for electrical service, shall be issued, unless and until the required total application fee or fees therefor shall have been paid to the commissioner.
-
-(b) The fees required to be paid pursuant to 27-3018(b) of the Administrative Code shall be paid as follows:
-
-   (1) The filing fee set forth in 27-3018, subdivision (b) of the Administrative Code shall be paid upon the filing of the application for a certificate of electrical inspection.
-
-   (2) (i)  The licensee shall schedule an inspection within thirty (30) days after the completion date specified on the application in accordance with procedures established by the Department. The remainder of the total fee, based upon the work listed on the application, shall be due and payable upon completion of the scheduled inspection by the Department. Upon completion of the inspection and the Department's determination that the work performed is complete and in compliance with the applicable provisions of the Electrical Code and upon the Department's having received full payment of applicable fees, including any additional fee payable under paragraph (4) of this subdivision, a certificate of electrical inspection shall be issued to the licensee.
-
-      (ii) if the licensee fails to schedule an inspection in accordance with Department's procedures within thirty days after the completion date specified on the application for a certificate of electrical inspection, or such date as extended by the Department, or cancels a scheduled inspection appointment with less than forty-eight (48) hours notice, or cancels a scheduled inspection more than forty-eight (48) hours prior to the inspection without scheduling an alternative date in accordance with Department procedures, or fails to provide access for the scheduled inspection, or if upon inspection it is determined by the Department that the work is not complete, or the scope of the work exceeds the scope of work indicated on the application or the work is not in compliance with the Electrical Code, the remainder of the total fee shall be due and payable immediately.
-
-   (3) Where the remainder of the total fee is due and payable immediately, as provided in paragraph (2)(ii) above, the licensee shall continue to be required to schedule an inspection(s) in the same manner as the initial inspection until the Department determines that the work performed conforms with the scope of the work indicated on the application and is in compliance with the applicable provisions of the Electrical Code. Upon such a determination and upon the Department's having received full payment of applicable fees, including any additional fee payable under paragraph (4) of this subdivision, a certificate of electrical inspection shall be issued to the licensee.
-
-   (4) Any additional fee, based on amendments to the original application that include additional work, must be paid prior to the issuance of a certificate of electrical inspection.
 
 
 
@@ -4189,41 +4189,6 @@ Where there is a practical difficulty in carrying out the strict letter of the p
 
 
 
-Chapter 42: Entrance Doors, Locks and Intercommunication Systems
---------------------------------------------------
-
-
-
-*§ 42-01 Entrance Doors, Locks and Intercommunication Systems.* ::
-
-
-(a) Bulkhead doors and scuttles shall have no key locks and shall not be locked by a key at any time. The only permissible and acceptable means of securing a bulkhead door or scuttle is by means of a movable bolt or hook on the inside.
-
-(b) Section 15.10(n) of the current departmental rules and regulations in its last un-numbered paragraph provides as follows: "All passageways required under these rules shall be not less than seven feet (7'0") in height and not less than three feet (3'0") in width and shall at all times be kept dear and unobstructed. Doors and gates at the end of such passageways are prohibited, except that a door or gate equipped with an approved-type knob or panic bolt which shall be readily openable from the inside will be permitted at the building line. Doors and gates provided with key locks or padlocks are prohibited."
-
-(c) Where an entrance door leading from a vestibule to the main entrance hall or lobby is equipped with one or more automatic self-closing and self-locking doors, the entrance door from the street to the vestibule need not be equipped with automatic self-closing and self-locking doors.
-
-(d) Every entrance from the street, court, yard or cellar to a class A multiple dwelling erected or converted after January 1, 1968 containing eight or more apartments shall be equipped with automatic self-closing and self-locking doors. Such multiple dwelling, as aforesaid, shall also be equipped with an intercommunication system to be located at the required main entrance door.
-
-(e) On or after January 1, 1969, every entrance from the street, court, yard or cellar to a class A multiple dwelling erected or converted prior to January 1, 1968 containing eight or more apartments, shall be equipped with automatic self-closing and self-locking doors and shall also be equipped with an intercommunication system.
-
-(f) Every self-locking door required under this section shall be installed and maintained so as to be readily openable from the inside without the use of keys.
-
-(g) The minimal devices acceptable for the intercommunication system shall be a bell or buzzer system, or a speaking and listening device to permit communication by voice between the occupant of each apartment and a person outside such required main entrance door, and a return buzzer mechanism to release or open the lock to the aforesaid required door.
-
-(h) The bell and intercommunication system shall be located at the required main entrance door so that a person may readily reach the door when the unlocking buzzer is activated.
-
-(i) No push button device shall be more than six feet from the floor and the speaking and listening device shall be installed to be not less than four feet and not more than five feet from the floor.
-
-(j) The device or devices for the intercommunication system installed in the apartment shall be readily accessible to the occupant.
-
-(k) The device or devices for the intercommunication system installed hereunder under shall be of a type and kind approved by the Department of Buildings or previously approved by the Board of Standards and Appeals.
-
-(l) Devices which have been previously installed and which are in good condition and performing in an adequate manner may, in the discretion of the department, be accepted.
-
-
-
-
 Chapter 43: Installation of Security Items In Multiple Dwellings
 --------------------------------------------------
 
@@ -4291,6 +4256,41 @@ Chapter 43: Installation of Security Items In Multiple Dwellings
 (d) The lights shall be so located as to adequately light all portions of the rear yards, side yards, front yards and courts.
 
 (e) Lights are not required in an inner court that is accessible only from the interior of the building and to which access is restricted for clean-out purposes.
+
+
+
+
+Chapter 42: Entrance Doors, Locks and Intercommunication Systems
+--------------------------------------------------
+
+
+
+*§ 42-01 Entrance Doors, Locks and Intercommunication Systems.* ::
+
+
+(a) Bulkhead doors and scuttles shall have no key locks and shall not be locked by a key at any time. The only permissible and acceptable means of securing a bulkhead door or scuttle is by means of a movable bolt or hook on the inside.
+
+(b) Section 15.10(n) of the current departmental rules and regulations in its last un-numbered paragraph provides as follows: "All passageways required under these rules shall be not less than seven feet (7'0") in height and not less than three feet (3'0") in width and shall at all times be kept dear and unobstructed. Doors and gates at the end of such passageways are prohibited, except that a door or gate equipped with an approved-type knob or panic bolt which shall be readily openable from the inside will be permitted at the building line. Doors and gates provided with key locks or padlocks are prohibited."
+
+(c) Where an entrance door leading from a vestibule to the main entrance hall or lobby is equipped with one or more automatic self-closing and self-locking doors, the entrance door from the street to the vestibule need not be equipped with automatic self-closing and self-locking doors.
+
+(d) Every entrance from the street, court, yard or cellar to a class A multiple dwelling erected or converted after January 1, 1968 containing eight or more apartments shall be equipped with automatic self-closing and self-locking doors. Such multiple dwelling, as aforesaid, shall also be equipped with an intercommunication system to be located at the required main entrance door.
+
+(e) On or after January 1, 1969, every entrance from the street, court, yard or cellar to a class A multiple dwelling erected or converted prior to January 1, 1968 containing eight or more apartments, shall be equipped with automatic self-closing and self-locking doors and shall also be equipped with an intercommunication system.
+
+(f) Every self-locking door required under this section shall be installed and maintained so as to be readily openable from the inside without the use of keys.
+
+(g) The minimal devices acceptable for the intercommunication system shall be a bell or buzzer system, or a speaking and listening device to permit communication by voice between the occupant of each apartment and a person outside such required main entrance door, and a return buzzer mechanism to release or open the lock to the aforesaid required door.
+
+(h) The bell and intercommunication system shall be located at the required main entrance door so that a person may readily reach the door when the unlocking buzzer is activated.
+
+(i) No push button device shall be more than six feet from the floor and the speaking and listening device shall be installed to be not less than four feet and not more than five feet from the floor.
+
+(j) The device or devices for the intercommunication system installed in the apartment shall be readily accessible to the occupant.
+
+(k) The device or devices for the intercommunication system installed hereunder under shall be of a type and kind approved by the Department of Buildings or previously approved by the Board of Standards and Appeals.
+
+(l) Devices which have been previously installed and which are in good condition and performing in an adequate manner may, in the discretion of the department, be accepted.
 
 
 
@@ -4963,6 +4963,35 @@ Absent evidence that revenue from the sign is clearly incidental to the revenue 
 
 
 
+Chapter 52: Notification To the Department of Commencement of Work Pursuant To An Earthwork Permit
+--------------------------------------------------
+
+
+
+*§ 52-01 Notification to the Department of Commencement of Work Pursuant to an Earthwork Permit.* ::
+
+
+(a) Notification to the Department. Pursuant to § 27-195 of the Administrative Code and subject to the exceptions set forth in subdivision (e) herein, no earthwork within the property line shall commence unless the permit holder notifies the Department as here prescribed at least twenty-four (24) but no more than forty-eight (48) hours prior to the commencement of such work. The notification shall state the date that such earthwork is to commence. Should the notification date fall on a weekend or an official holiday, the permit holder shall notify the Department on the last business day before the commencement date.
+
+(b) Cancellation. In the event that the earthwork does not begin on the date provided in the notification to the Department, the permit holder shall notify the Department of its cancellation not more than twenty-four (24) hours prior to but no later than the date for which the earthwork was scheduled. Should the cancellation date fall on a weekend or an official holiday, the permit holder shall notify the Department on the next business day after the intended commencement date. The permit holder shall notify the Department of the new intended commencement date pursuant to the provisions of subdivision (a), above.
+
+(c) Method of notification and cancellation. Such notification and cancellation shall be made by telephone or electronically.
+
+(d) Stop work order. The Commissioner may issue a stop work order if there is a failure to provide notice as required in this section and if the work is found to violate any of the provisions of the Building Code, the Zoning Resolution or other applicable law, rule or regulation. Upon issuance of such stop work order, the work shall be stopped for a minimum of three (3) business days to enable the Department to take any other appropriate action to ensure that the earthwork is being performed in a safe manner. The earthwork shall not recommence until the stop work order has been lifted.
+
+(e) Exceptions. The provisions of this section shall not apply to:
+
+   (1) Hand excavation work that extends five (5) feet or less below the grade existing at the time of earthwork commencement and is two (2) feet or more from an existing foundation. This exception shall not apply to any hand excavation work performed anywhere in existing or demolished basements or cellars that adjoin existing foundations.
+
+   (2) Test pits for geotechnical observation that do not exceed ten (10) feet in length, width or diameter and that are excavated under the supervision of a licensed professional.
+
+   (3) Work on cemetery grounds for burials.
+
+   (4) Emergency work performed by the Department of Housing Preservation and Development (HPD) or other agency as directed by the Commissioner or work on unsafe buildings performed by HPD or other agency pursuant to a precept.
+
+
+
+
 Chapter 51: Dormitories
 --------------------------------------------------
 
@@ -5004,31 +5033,15 @@ Chapter 51: Dormitories
 
 
 
-Chapter 52: Notification To the Department of Commencement of Work Pursuant To An Earthwork Permit
+Chapter 400: Special Detailed Requirements Based On Use and Occupancy
 --------------------------------------------------
 
 
 
-*§ 52-01 Notification to the Department of Commencement of Work Pursuant to an Earthwork Permit.* ::
+*§ 403-01 Impact Resistant Stair and Elevator Shaft Enclosures. [Repealed]* ::
 
 
-(a) Notification to the Department. Pursuant to § 27-195 of the Administrative Code and subject to the exceptions set forth in subdivision (e) herein, no earthwork within the property line shall commence unless the permit holder notifies the Department as here prescribed at least twenty-four (24) but no more than forty-eight (48) hours prior to the commencement of such work. The notification shall state the date that such earthwork is to commence. Should the notification date fall on a weekend or an official holiday, the permit holder shall notify the Department on the last business day before the commencement date.
 
-(b) Cancellation. In the event that the earthwork does not begin on the date provided in the notification to the Department, the permit holder shall notify the Department of its cancellation not more than twenty-four (24) hours prior to but no later than the date for which the earthwork was scheduled. Should the cancellation date fall on a weekend or an official holiday, the permit holder shall notify the Department on the next business day after the intended commencement date. The permit holder shall notify the Department of the new intended commencement date pursuant to the provisions of subdivision (a), above.
-
-(c) Method of notification and cancellation. Such notification and cancellation shall be made by telephone or electronically.
-
-(d) Stop work order. The Commissioner may issue a stop work order if there is a failure to provide notice as required in this section and if the work is found to violate any of the provisions of the Building Code, the Zoning Resolution or other applicable law, rule or regulation. Upon issuance of such stop work order, the work shall be stopped for a minimum of three (3) business days to enable the Department to take any other appropriate action to ensure that the earthwork is being performed in a safe manner. The earthwork shall not recommence until the stop work order has been lifted.
-
-(e) Exceptions. The provisions of this section shall not apply to:
-
-   (1) Hand excavation work that extends five (5) feet or less below the grade existing at the time of earthwork commencement and is two (2) feet or more from an existing foundation. This exception shall not apply to any hand excavation work performed anywhere in existing or demolished basements or cellars that adjoin existing foundations.
-
-   (2) Test pits for geotechnical observation that do not exceed ten (10) feet in length, width or diameter and that are excavated under the supervision of a licensed professional.
-
-   (3) Work on cemetery grounds for burials.
-
-   (4) Emergency work performed by the Department of Housing Preservation and Development (HPD) or other agency as directed by the Commissioner or work on unsafe buildings performed by HPD or other agency pursuant to a precept.
 
 
 
@@ -5124,15 +5137,47 @@ Figure 1 Summary chart of fire safety requirements
 
 
 
-Chapter 400: Special Detailed Requirements Based On Use and Occupancy
+Chapter 1000: Means of Egress
 --------------------------------------------------
 
 
 
-*§ 403-01 Impact Resistant Stair and Elevator Shaft Enclosures. [Repealed]* ::
+*§ 1014-01 Masonry Equivalent Exit Enclosures.* ::
 
 
+(a) Scope. This rule provides the construction requirements for masonry equivalent exit enclosures in Groups R-1, R-2 and B occupancies.
 
+(b) References. See sections 1014.2.1 (Two exits and exit access doorways, Exceptions 3 and 4) and 1019.1 (Enclosures required Exception 10) of the building code.
+
+(c) Stud wall construction requirements. A masonry equivalent exit enclosure constructed as stud and wall board assembly shall satisfy the following requirements:
+
+   (1) Prescriptive stud and wall board assembly. A compliant wall assembly shall be substantially identical to, and shall provide an impact resistance equivalent to or exceeding, the performance of one (1) of the following:
+
+      (i) Materials. Impact resistant wall board sheathed on the interior surface of the exit enclosure wall assembly shall be tested by an approved testing agency. The wall board used as the interior face panel shall be listed by an approved agency to ASTM C 1629-06, Standard Classification for Abuse-Resistant Nondecorated Interior Gypsum Panel Products and Fiber-Reinforced Cement Panels, Impact Classification Level 2, and the base layer panel shall be a minimum 5/8 inch (16 mm) gypsum wall board. Wall board applied to the interior surface of the exit enclosure wall shall not reduce the clear width of the exit stairs below that required for means of egress by Chapter 10 of the building code.
+
+      (ii) Assembly. The wall assembly shall be at least two-hour fire resistance rated.
+
+      (iii) Installation shall comply with the following:
+
+         (A) Studs shall be minimum 3-1/2 inch (89 mm) depth cold-formed steel framing, at least 33 mils thick (20 gauge).
+
+         (B) Vertical studs shall be spaced at a maximum distance of 24 inches (610 mm), on center.
+
+         (C) Runners shall be securely attached at the floor and ceiling to structural element members and shall comply with the structural requirements of the building code.
+
+         (D) Wall boards shall be attached with No. 8 self-drilling bugle-head screws, 12 inches (305 mm), on center maximum, with a minimum depth of 5/8 inch (16 mm) penetration into the wall cavity.
+
+         (E) Joints between adjoining sheets of wall board shall be staggered from base layer with face panel layer.
+
+   (2) Performance-based requirements. For a wall assembly not classified in subdivision (1) above, a masonry equivalent wall assembly shall satisfy the following requirements:
+
+      (i) Materials. Materials constituting the interior side of the exit enclosure wall assembly shall be tested by an approved testing agency to ASTM C1629, Hard Body Impact Classification Level 3.
+
+      (ii) Assembly. The wall assembly shall have a minimum two-hour fire resistance rating. The wall assembly shall be tested by an approved testing agency to ASTM C1629, Soft Body Impact Classification Level 2.
+
+      (iii) Installation. Wall assemblies shall be anchored to structural members and shall comply with the structural requirements of the building code.
+
+ 
 
 
 
@@ -5198,51 +5243,6 @@ Chapter 900: Fire Protection Systems
    (8) Section 5.8.5.3.1 is deleted in its entirety.
 
    (9) Section 9.4.1.1 is deleted in its entirety.
-
-
-
-
-Chapter 1000: Means of Egress
---------------------------------------------------
-
-
-
-*§ 1014-01 Masonry Equivalent Exit Enclosures.* ::
-
-
-(a) Scope. This rule provides the construction requirements for masonry equivalent exit enclosures in Groups R-1, R-2 and B occupancies.
-
-(b) References. See sections 1014.2.1 (Two exits and exit access doorways, Exceptions 3 and 4) and 1019.1 (Enclosures required Exception 10) of the building code.
-
-(c) Stud wall construction requirements. A masonry equivalent exit enclosure constructed as stud and wall board assembly shall satisfy the following requirements:
-
-   (1) Prescriptive stud and wall board assembly. A compliant wall assembly shall be substantially identical to, and shall provide an impact resistance equivalent to or exceeding, the performance of one (1) of the following:
-
-      (i) Materials. Impact resistant wall board sheathed on the interior surface of the exit enclosure wall assembly shall be tested by an approved testing agency. The wall board used as the interior face panel shall be listed by an approved agency to ASTM C 1629-06, Standard Classification for Abuse-Resistant Nondecorated Interior Gypsum Panel Products and Fiber-Reinforced Cement Panels, Impact Classification Level 2, and the base layer panel shall be a minimum 5/8 inch (16 mm) gypsum wall board. Wall board applied to the interior surface of the exit enclosure wall shall not reduce the clear width of the exit stairs below that required for means of egress by Chapter 10 of the building code.
-
-      (ii) Assembly. The wall assembly shall be at least two-hour fire resistance rated.
-
-      (iii) Installation shall comply with the following:
-
-         (A) Studs shall be minimum 3-1/2 inch (89 mm) depth cold-formed steel framing, at least 33 mils thick (20 gauge).
-
-         (B) Vertical studs shall be spaced at a maximum distance of 24 inches (610 mm), on center.
-
-         (C) Runners shall be securely attached at the floor and ceiling to structural element members and shall comply with the structural requirements of the building code.
-
-         (D) Wall boards shall be attached with No. 8 self-drilling bugle-head screws, 12 inches (305 mm), on center maximum, with a minimum depth of 5/8 inch (16 mm) penetration into the wall cavity.
-
-         (E) Joints between adjoining sheets of wall board shall be staggered from base layer with face panel layer.
-
-   (2) Performance-based requirements. For a wall assembly not classified in subdivision (1) above, a masonry equivalent wall assembly shall satisfy the following requirements:
-
-      (i) Materials. Materials constituting the interior side of the exit enclosure wall assembly shall be tested by an approved testing agency to ASTM C1629, Hard Body Impact Classification Level 3.
-
-      (ii) Assembly. The wall assembly shall have a minimum two-hour fire resistance rating. The wall assembly shall be tested by an approved testing agency to ASTM C1629, Soft Body Impact Classification Level 2.
-
-      (iii) Installation. Wall assemblies shall be anchored to structural members and shall comply with the structural requirements of the building code.
-
- 
 
 
 
@@ -6038,6 +6038,77 @@ These standards are adopted in full, except to the extent there is a conflict wi
       - Standard Practice for Manufacture, Construction, Operation, and Maintenance of Aquatic Play Equipment.
       - 2009
 ~
+
+ 
+
+
+
+
+Chapter 3500: Referenced Standards
+--------------------------------------------------
+
+
+
+*§ 3500-01 American Concrete Institute (ACI) 318 – Building Code Requirements for Structural Concrete amendment.* ::
+
+
+Pursuant to Section 28-103.19 of the New York City Administrative Code, ACI 318 as added by Section BC 3502 of the New York City Building Code is hereby deleted and a new ACI 318 is added to read as follows:
+
+Table 1
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - ACI
+      - American Concrete Institute38800 Country Club DriveFarmington Hills, MI 48331
+      - 
+    * - StandardReferenceNumber
+      -  
+      - Referenced in codesection number
+    * - 318 – 11
+      - Building Code Requirements for Structural Concrete
+      - 406.5.4, 721.2.4.3, 1604.3.2, Table 1613.8, Table 1704.3, 1704.3.1.3, Table 1704.4, 1704.4.1 Table 1704.32, 1805.5.7.2, 1805.9, Table 1808.2.13, 1808.9.2.1, 1808.9.3, 1808.9.3.1, 1809.6.3.2, 1809.6.3.2.2, 1810.1.2.5.1, 1810.1.2.5.2, 1810.7.4.1, 1810.8.3, 1810.8.4, 1901.2, 1901.3, 1901.4, 1902.1, 1903.1, 1903.2, 1903.3, 1903.4, 1903.5, 1903.5.1, 1903.5.2, 1903.6, 1903.7, 1904.1, 1904.2, 1904.3, 1904.4.1, 1904.5, 1905.1.1, 1905.1.4, 1905.3, 1905.4, 1905.5, 1905.6.5.5, 1905.6.6, 1905.8.3, 1905.11.3, 1906.1, 1906.2, 1906.3, 1906.4, 1907.1, 1907.2, 1907.4.1, 1907.6, 1907.7.2, 1907.7.3, 1907.7.4, 1907.7.5, 1907.7.6, 1907.8, 1907.9, 1907.10, 1907.11, 1907.12, 1907.13, 1908, 1908.1, 1908.1.1, 1908.1.2, 1908.1.3, 1908.1.4, 1908.1.5, 1908.1.6, 1908.1.7, 1908.1.8, 1908.1.9, 1908.1.11, 1908.2, 1908.2.1, 1909.1, 1909.3, 1909.4, 1909.5, 1909.6, 1912.1, 1912.1.1, 1915.2, 1915.3, 1915.4, 1915.6, 1916.2, 1916.3.1, 2108.3, 2205.3, 3305.3.2 
+~
+
+
+
+ 
+
+ § 2. This rule takes effect on December 31, 2014. [;As amended City Record Nov. 19, 2014 § 7, see also T1 § 102-01 Note 16];
+
+
+
+
+
+
+*§ 3500-02 American National Standards Institute (ANSI) A10.4 – Safety Requirements for Personnel Hoists amendment.* ::
+
+
+Pursuant to Section 28-103.19 of the New York City Administrative Code, ANSI 10.4 as added by Section BC 3502 of the New York City Building Code is hereby deleted and a new ANSI 10.4 is added to read as follows:
+
+Table 2
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - ANSI
+      - American National Standards Institute25 West 43rd Street, Fourth FloorNew York, NY 10036 
+      - 
+    * - StandardReferenceNumber
+      -  
+      - Referenced in codesection number
+    * - A10.4 – 07
+      - Safety Requirements for Personnel Hoists
+      - 3010.3 
+~
+
+
 
  
 
@@ -10381,90 +10452,6 @@ Editor's note: Section 2 of the enacting rule  provides: "This rule shall take e
 
 
 
-Chapter 3500: Referenced Standards
---------------------------------------------------
-
-
-
-*§ 3500-01 American Concrete Institute (ACI) 318 – Building Code Requirements for Structural Concrete amendment.* ::
-
-
-Pursuant to Section 28-103.19 of the New York City Administrative Code, ACI 318 as added by Section BC 3502 of the New York City Building Code is hereby deleted and a new ACI 318 is added to read as follows:
-
-Table 1
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - ACI
-      - American Concrete Institute38800 Country Club DriveFarmington Hills, MI 48331
-      - 
-    * - StandardReferenceNumber
-      -  
-      - Referenced in codesection number
-    * - 318 – 11
-      - Building Code Requirements for Structural Concrete
-      - 406.5.4, 721.2.4.3, 1604.3.2, Table 1613.8, Table 1704.3, 1704.3.1.3, Table 1704.4, 1704.4.1 Table 1704.32, 1805.5.7.2, 1805.9, Table 1808.2.13, 1808.9.2.1, 1808.9.3, 1808.9.3.1, 1809.6.3.2, 1809.6.3.2.2, 1810.1.2.5.1, 1810.1.2.5.2, 1810.7.4.1, 1810.8.3, 1810.8.4, 1901.2, 1901.3, 1901.4, 1902.1, 1903.1, 1903.2, 1903.3, 1903.4, 1903.5, 1903.5.1, 1903.5.2, 1903.6, 1903.7, 1904.1, 1904.2, 1904.3, 1904.4.1, 1904.5, 1905.1.1, 1905.1.4, 1905.3, 1905.4, 1905.5, 1905.6.5.5, 1905.6.6, 1905.8.3, 1905.11.3, 1906.1, 1906.2, 1906.3, 1906.4, 1907.1, 1907.2, 1907.4.1, 1907.6, 1907.7.2, 1907.7.3, 1907.7.4, 1907.7.5, 1907.7.6, 1907.8, 1907.9, 1907.10, 1907.11, 1907.12, 1907.13, 1908, 1908.1, 1908.1.1, 1908.1.2, 1908.1.3, 1908.1.4, 1908.1.5, 1908.1.6, 1908.1.7, 1908.1.8, 1908.1.9, 1908.1.11, 1908.2, 1908.2.1, 1909.1, 1909.3, 1909.4, 1909.5, 1909.6, 1912.1, 1912.1.1, 1915.2, 1915.3, 1915.4, 1915.6, 1916.2, 1916.3.1, 2108.3, 2205.3, 3305.3.2 
-~
-
-
-
- 
-
- § 2. This rule takes effect on December 31, 2014. [;As amended City Record Nov. 19, 2014 § 7, see also T1 § 102-01 Note 16];
-
-
-
-
-
-
-*§ 3500-02 American National Standards Institute (ANSI) A10.4 – Safety Requirements for Personnel Hoists amendment.* ::
-
-
-Pursuant to Section 28-103.19 of the New York City Administrative Code, ANSI 10.4 as added by Section BC 3502 of the New York City Building Code is hereby deleted and a new ANSI 10.4 is added to read as follows:
-
-Table 2
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - ANSI
-      - American National Standards Institute25 West 43rd Street, Fourth FloorNew York, NY 10036 
-      - 
-    * - StandardReferenceNumber
-      -  
-      - Referenced in codesection number
-    * - A10.4 – 07
-      - Safety Requirements for Personnel Hoists
-      - 3010.3 
-~
-
-
-
- 
-
-
-
-
-Chapter 4000: Electrical Code
---------------------------------------------------
-
-
-
-*§ 4000-06 Fire Alarm Wiring and Power Sources. [Repealed]* ::
-
-
-
-
-
-
-
 Chapter 3600: Appendices
 --------------------------------------------------
 
@@ -11648,6 +11635,19 @@ Chapter 29 – Single- and Multiple-Station Alarms and Household Fire Alarm Syst
 
 
 *§ 3616-05 National Fire Protection Association ("NFPA") 13R Amendment Relating to Exemption from Fire Department Connection Requirements in One- and Two-family Residential Buildings. [Repealed]* ::
+
+
+
+
+
+
+
+Chapter 4000: Electrical Code
+--------------------------------------------------
+
+
+
+*§ 4000-06 Fire Alarm Wiring and Power Sources. [Repealed]* ::
 
 
 

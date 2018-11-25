@@ -11765,15 +11765,7 @@ Chapter 59: For-hire Service
 
 (i) Affiliation with Only One Base. For-Hire Vehicles can only affiliate with one Base at a time.
 
-(j) One License per Vehicle.
-
-   (1) There must not be more than one For-Hire Vehicle License issued and in effect for any vehicle, as indicated by the vehicle identification number, at any one time.
-
-   (2) If the Commission receives an application for a For-Hire Vehicle License for a Vehicle that has an existing, Valid, For-Hire Vehicle License (as indicated by the VIN number), held by someone other than the Applicant:
-
-      (i) The Commission will schedule a Hearing to determine whether the holder of the existing Valid For-Hire Vehicle License is fit to hold the License.
-
-      (ii) The Commission will revoke the existing License unless the holder demonstrates that the License has been transferred to a new vehicle.
+(j) One License per Vehicle. Only one For-Hire Vehicle License will be issued and in effect for any vehicle, as indicated by the vehicle identification number, at any one time.
 
 (k) [Reserved.] Special Requirements for Black Car Affiliation.
 
@@ -11844,6 +11836,8 @@ Chapter 59: For-hire Service
    (1) An Applicant, including an applicant for a renewal License, must pay the Commercial Motor Vehicle Tax applicable to the Applicant's Vehicle. If the Applicant has not made payment to the NYS DMV, the Applicant must pay the Commercial Motor Vehicle Tax to the Commission.
 
    (2) An Applicant who has already paid the Commercial Motor Vehicle Tax must provide proof of payment in the form of a copy of the New York State issued registration receipt, or a receipt from the New York City Department of Finance.
+
+
 
 
 
@@ -12018,12 +12012,6 @@ Chapter 59: For-hire Service
 
 (a) Vehicle License Fee. The fee for each For-Hire Vehicle License will be $275 annually.
 
-   (1) Exception for Vehicles used with Street Hail Livery Licenses Issued in Initial Street Hail livery License Issuance Period: There will be no fee for a For-Hire Vehicle License for a Vehicle used as a Street Hail Livery for up to two years (for a maximum of $550) if the Vehicle is used with a Street Hail Livery License issued during the Initial Street Hail Livery License Issuance Period. This exception will apply only to the fee for the For-Hire Vehicle License for the Vehicle affiliated with the Street Hail Livery License when the Street Hail Livery License is first issued.
-
-   (2) Exception for Vehicles used with Street Hail Livery Licenses Issued in Second Street Hail livery License Issuance Period: There will be no fee for a For-Hire Vehicle License for a Vehicle used as a Street Hail Livery for up to one year (for a maximum of $275) if the Vehicle is used with a Street Hail Livery License issued during the Second Street Hail Livery License Issuance Period. This exception will apply only to the fee for the For-Hire Vehicle License for the Vehicle affiliated with the Street Hail Livery License when the Street Hail Livery License is first issued.
-
-   (3) Exception to Exceptions. The exceptions in (a)(1) and (2) do not apply to Vehicles used as Accessible Street Hail Liveries.
-
 (b) Late Filing Fee. The Commission will charge an additional fee of $25 for a late filing of a renewal application, if it allows the filing at all.
 
 (c) When Fee is Paid. The fee for an original or renewal License must be paid at the time the application is filed.
@@ -12109,6 +12097,8 @@ Chapter 59: For-hire Service
       (i) The Commission will not refund any payment of Commercial Motor Vehicle Tax.
 
       (ii) Applications for refunds, including but not limited to refunds upon transfer, surrender or termination, must be made to the NYC Department of Finance. The application will be reviewed in accordance with the Administrative Code and the Rules of the NYC Department of Finance.
+
+
 
 
 
@@ -15951,6 +15941,120 @@ The provisions of this subdivision do not apply to black cars and luxury limousi
 
  
 
+(f) Exception to the Percentage of all Dispatched Trips Serviced by an Accessible Vehicle Requirement. A Base currently licensed on the effective date of this Subdivision (f) may opt to meet a response time requirement for requests for Accessible Vehicles, in lieu of the requirements contained in 35 RCNY § 59B-17(c)(1), if the Base meets the following requirements:
+
+   (1) A Base will be exempt from the requirements contained in 35 RCNY § 59B-17(c)(1) if it either:
+
+      (i) Is approved by the Commission as an Accessible Vehicle dispatcher, responsible for receiving requests for Accessible Vehicles from associated Bases with which it has entered into an agreement and dispatching Accessible Vehicles on behalf of itself and its associated Bases in accordance with the response time requirements contained in Paragraph (3) below, or
+
+      (ii) Associates with an approved Accessible Vehicle dispatcher by entering into an agreement with an approved Accessible Vehicle dispatcher and sending its requests for Accessible Vehicles to its associated Accessible Vehicle dispatcher.
+
+   (2) Application Requirements to be an Approved Accessible Vehicle Dispatcher. A Base applying to be approved as Accessible Vehicle dispatcher must:
+
+      (i) Submit a list of at least ten (10) Bases, owned by an entity or entities other than the owner(s) of the applicant Base, that have demonstrated an intent to associate with the applicant Base,
+
+      (ii) Submit an outreach and marketing plan outlining the ways it will inform passengers who use wheelchairs about its associated Bases' wheelchair accessible offerings, subject to the approval of the Commission, and
+
+      (iii) Submit a statement outlining the number of Accessible Vehicles it will be able to dispatch in the first three (3) and six (6) months following its approval as an Accessible Vehicle dispatcher, subject to the approval of the Commission.
+
+   (3) Response Time Requirement for Requests for Accessible Vehicles for Accessible Vehicle Dispatchers.
+
+      (i) Between June 1, 2019, and June 30, 2019, the Accessible Vehicle dispatcher must service at least sixty percent (60%) of all the requests for Accessible Vehicles it receives in under fifteen (15) minutes and ninety percent (90%) of those requests in under thirty (30) minutes.
+
+      (ii) Between June 1, 2020, and June 30, 2020, the Accessible Vehicle dispatcher must service at least eighty percent (80%) of all the requests for Accessible Vehicles it receives in under fifteen (15) minutes and ninety percent (90%) of those requests in under thirty (30) minutes.
+
+      (iii) Between June 1, 2021 and June 30, 2021, and continuing each quarter thereafter, the Accessible Vehicle dispatcher must service at least eighty percent (80%) of all the requests for Accessible Vehicles it receives in under ten (10) minutes and ninety percent (90%) of those requests in under fifteen (15) minutes.
+
+      (iv) Between the effective date of Subdivision (f) and June 30, 2020, the percentage of trips that meet the applicable response time criteria must improve each quarter, measured from the effective date of Subdivision (f) for purposes of (i) above and measured from the beginning of the compliance periods for (ii) and (iii) above, until such time as the Accessible Vehicle dispatcher meets the response time requirements contained in (i), (ii), and (iii) above.
+
+      (v) For purposes of (i) and (ii), "requests" will not include requests for Accessible Vehicles that were cancelled by the passenger within fifteen (15) minutes of the requests and for purposes of (iii), "requests" will not include requests for Accessible Vehicles that were cancelled by the passenger within ten (10) minutes of the requests.
+
+      (vi) If an Accessible Vehicle dispatcher fails to meet the requirements contained in (i), (ii), (iii), and (iv) above, the Commission will notify the Accessible Vehicle dispatcher and provide the Accessible Vehicle dispatcher thirty (30) days to come into compliance with the stated response time requirement. Failure to come into compliance within thirty (30) days of notification may result in termination of the Accessible Vehicle dispatcher's approval, immediately subjecting the Accessible Vehicle dispatcher to the requirements contained in 35 RCNY § 59B-17(c)(1), pro-rated for the duration of the compliance period.
+
+   (4) Calculating Response Time. For purposes of Paragraph (3) above, response time will be calculated in the following manner:
+
+      (i) For trips arranged at least one hour in advance, response time will be calculated from the time at which the vehicle was scheduled to arrive at the passenger's pick-up location until the vehicle arrives at the passenger's pick-up location.
+
+      (ii) For all other trip requests, response time will be calculated from when the Accessible Vehicle dispatcher received the request until the vehicle arrived at the passenger's pick-up location.
+
+   (5) Record Collection and Reporting Requirements for Accessible Vehicle Dispatcher. In addition to the trip records an Accessible Vehicle dispatcher must submit pursuant to its licensure as an FHV Base, an approved Accessible Vehicle dispatcher must collect and transmit to the Commission within one week of the end of each calendar month, in a format, layout, and procedure prescribed by the Commission, the following records for each request for an Accessible Vehicle the Accessible Vehicle dispatcher receives:
+
+      (i) the Base License Number of the Base that sent the request to the Accessible Vehicle dispatcher,
+
+      (ii) the date and time that the request was received by the Accessible Vehicle dispatcher,
+
+      (iii) the manner in which the request was received (e.g., via phone call, smartphone app, website),
+
+      (iv) an indicator as to whether each request resulted in a completed trip,
+
+      (v) if the request was fulfilled,
+
+         A. the TLC License number of the vehicle that fulfilled the request, the Base to which the vehicle is affiliated, and the driver who fulfilled the request
+
+         B. the pickup and drop off locations of the trip
+
+         C. the date and time the vehicle arrived at the pickup location, and
+
+         D. the total passenger wait time, calculated pursuant to Paragraph (4) above,
+
+      (vi) if the request was not fulfilled,
+
+         A. the date, time, and location of the requested pickup
+
+         B. the location of the requested drop off (if provided), and
+
+         C. an indicator as to the reason the request was not fulfilled, such as passenger cancellation (including time of cancellation), passenger no-show, driver cancellation, or no vehicles available. Failure to timely provide trip records may result in termination of the Accessible Vehicle dispatcher's approval, immediately subjecting the Accessible Vehicle dispatcher to the requirements contained in 35 RCNY § 59B-17(c)(1), pro-rated for the duration of the compliance period.
+
+   (6) Fares Charged to Passengers. An Accessible Vehicle dispatcher and an associated Base cannot charge a passenger more for a trip request received from an associated Base than that associated Base would charge a passenger requesting a non-Accessible Vehicle for the same trip. Overcharging a passenger may result in an Accessible Vehicle dispatcher or an associated Base being immediately subject to the requirements contained in 35 RCNY § 59B-17(c)(1), pro-rated for the duration of the compliance period.
+
+   (7) Passenger Feedback. Each Accessible Vehicle dispatcher and associated Base must collect and transmit to the Commission within one week of the end of each calendar month, in a format, layout, and procedure prescribed by the Commission, all complaints and compliments the Base and Accessible Vehicle dispatcher received from passengers in the preceding calendar month concerning its provision of wheelchair accessible service, including all driver ratings, where applicable.
+
+   (8) Bases opting to associate with an approved Accessible Vehicle dispatcher must be able to accept requests from passengers for Accessible Vehicles in the same manner(s) in which they accept requests from passengers for non-Accessible Vehicles. Failure to accept requests from passengers for Accessible Vehicles in the same manner(s) in which a base accepts requests from passengers for non-Accessible Vehicles may result in the associated Base being immediately subject to the requirements contained in 35 RCNY § 59B-17(c)(1), pro-rated for the duration of the compliance period.
+
+   (9) In addition to submitting trip records pursuant to 35 RCNY § 59B-19, a Base opting to associate with an approved Accessible Vehicle dispatcher, and Accessible Vehicle dispatchers in their capacity as a Base which accepts trip requests, must submit to the Commission within one week of the end of each calendar month, in a format, layout, and procedure approved by the Commission, records containing the following information:
+
+      (i) For each request for an Accessible Vehicle received by the Base:
+
+         A. the date and time the Base received the request
+
+         B. the date and time the Base forwarded the request to its Accessible Vehicle dispatcher, and
+
+      (ii) For each request for a non-Accessible Vehicle that results in a completed trip
+
+         A. the date and time that the request was received by the Base,
+
+         B. an indicator corresponding to the trip record for the completed trip provided pursuant to 35 RCNY § 59B-19,
+
+      (iii) All complaints and compliments received from passengers concerning its provision of wheelchair accessible service, including all driver ratings, where applicable.
+
+   Failure to timely provide trip records may result in termination of the Accessible Vehicle dispatcher's approval, immediately subjecting the base to the requirements contained in 35 RCNY § 59B-17(c)(1), pro-rated for the duration of the compliance period.
+
+   (10) Good Standing of Associated Bases. An associated Base must remain in good standing with its Accessible Vehicle dispatcher. To remain in good standing with its Accessible Vehicle dispatcher, an associated Base must adhere to the terms of the agreement it entered into with its Accessible Vehicle dispatcher. Failure to remain in good standing with its Accessible Vehicle dispatcher may result in the associated Base being immediately subject to the requirements contained in 35 RCNY § 59B-17(c)(1), pro-rated for the duration of the compliance period, subject to the conditions of Paragraph (12) below.
+
+   (11) Evaluation by the Commission. Every year, beginning July 1, 2019, the Commission will review Base compliance levels, service levels, feedback received pursuant to Paragraph (7) of this subdivision, and any other information it deems relevant to determine if adjustments need to be made to the response time requirements set forth in paragraph (3) of this subdivision or any other requirement contained in this Subdivision (f). Any changes made to the provisions of 35 RCNY § 59B-17(f), resulting from an annual review performed pursuant to this Paragraph (11), will be subject to the City Administrative Procedure Act, Section 1041-1047 of the Charter of the City of New York.
+
+   (12) Consequences of Termination of Approval. If the Commission terminates a Base's associated Accessible Vehicle dispatcher's approval, or if an Accessible Vehicle dispatcher terminates a Base's association, a Base associated with the Accessible Vehicle dispatcher must:
+
+      (i) Associate with a different Accessible Vehicle dispatcher within thirty (30) days following Commission provided notification of the Accessible Vehicle dispatcher's approval termination, or
+
+      (ii) Submit an application to be approved as an Accessible Vehicle dispatcher within thirty (30) days following the Commission provided notification of the Accessible Vehicle dispatcher's termination.
+
+   If a Base that is no longer associated with an Accessible Vehicle dispatcher does not associate with a different approved Accessible Vehicle dispatcher or submit an application to be approved as an Accessible Vehicle dispatcher within thirty (30) days following notification of the termination, the Base may be subject to the requirements contained in 35 RCNY § 59B-17(c)(1) on the thirty-first (31st) day following the notification.
+
+   (13) Base Accessible Service Selection Date.
+
+      (i) A Base currently licensed on the effective date of Subdivision (f) of these Rules must inform in the Commission, as provided below,whether it is opting into the exception to 35 RCNY § 59B-17(c)(1) provided by this 35 RCNY § 59B-17(f).
+
+         A. A Base opting into the exception provided by this 35 RCNY § 59B-17(f) as an Accessible Vehicle dispatcher must submit an application to be approved as an Accessible Vehicle dispatcher within thirty (30) days of the effective date of Subdivision (f).
+
+         B. A Base opting into the exception provided by 35 RCNY § 59B-17(f) must apply with an Accessible Vehicle dispatcher at the time the Base exercises this option and must do so within sixty (60) days of the effective of Subdivision (f).
+
+         C. A Base that does not opt into the exception to 35 RCNY § 59B-17(c)(1) provided by this 35 RCNY § 59B-17(f), either as an approved Accessible Vehicle dispatcher or a Base affiliating with an Accessible Vehicle dispatcher, within the timeframes provided by this subdivision may not apply to opt into such exception until the Base's next renewal License application.
+
+      (ii) A renewing Base Applicant that had previously opted into the exception to 35 RCNY § 59B-17(c)(1) provided by this 35 RCNY § 59B-17(f) must indicate at the time of its renewal application whether it is continuing to opt into the exception to 35 RCNY § 59B-17(c)(1) provided by this 35 RCNY § 59B-17(f).
+
+      (iii) A Base that previously opted into the exception to 35 RCNY § 59B-17(c)(1) provided by this 35 RCNY § 59B-17(f), but failed to comply with the requirements of 35 RCNY § 59B-17(f) and is now subject to the requirements in 35 RCNY § 59B-17(c)(1) may not reapply to opt into the exception provided by 35 RCNY § 59B-17(f) except for good cause shown.
+
 
 
 
@@ -16124,7 +16228,7 @@ The provisions of this subdivision do not apply to black cars and luxury limousi
 
  
 
-      (iii) Weekly Limit. A Base or Associated Base must not dispatch a Driver to transport any Passenger(s) for hire in more than 60 hours in total in a calendar week.
+   (iii) Weekly Limit. A Base or Associated Base must not dispatch a Driver to transport any Passenger(s) for hire in more than 60 hours in total in any seven-day period that begins on Monday and ends on Sunday.
 
  
 
@@ -16943,7 +17047,7 @@ The provisions of this subdivision do not apply to black cars and luxury limousi
 
       (ii) In addition, a Vehicle's affiliation with a Base will terminate automatically upon expiration or revocation of the Vehicle's License.
 
-(e) Black Car Base Owner's Compliance with Black Car Retirement Rules. Beginning January 1, 2011, a Black Car Base Owner may allow a Vehicle to be affiliated with the Black Car Base only if the Vehicle meets the retirement requirements set forth in 35 RCNY § 59A-28(d). 
+(e) Passenger Complaint Notification. Upon receipt of a Passenger complaint related to a Driver, a Base Owner must provide the Passenger with the "311" Commission complaint telephone number and inform the Passenger that only the TLC can suspend or revoke a Driver's TLC License.
 
  
 
@@ -16952,13 +17056,15 @@ The provisions of this subdivision do not apply to black cars and luxury limousi
     :header-rows: 1
 
     * - 35 RCNY § 59B-25(e)
-      - Fine: $350
+      - Fine: $250
       - Appearance NOT Required
 ~
 
 
 
-(f) Passenger Complaint Notification. Upon receipt of a Passenger complaint related to a Driver, a Base Owner must provide the Passenger with the "311" Commission complaint telephone number and inform the Passenger that only the TLC can suspend or revoke a Driver's TLC License.
+ 
+
+(f) Dispatching to Vehicles at Airports. A Base Owner must not dispatch a Vehicle parked or otherwise located at Kennedy Airport or La Guardia Airport unless the Vehicle is parked in an area other than the airport's designated passenger pick up locations.
 
  
 
@@ -16975,28 +17081,11 @@ The provisions of this subdivision do not apply to black cars and luxury limousi
 
  
 
-(g) Dispatching to Vehicles at Airports. A Base Owner must not dispatch a Vehicle parked or otherwise located at Kennedy Airport or La Guardia Airport unless the Vehicle is parked in an area other than the airport's designated passenger pick up locations.
+(g) Base Name and Rates on Booking Tools. If a Base allows a Passenger to request a dispatch through its own publicly available Passenger-facing booking tool without speaking to a dispatcher, the Passenger-facing booking tool must use only the Base Name or the trade, business, or operating name the Base has on file with the Commission pursuant to 35 RCNY§ 59B-20(a)(1) and must display the Base's rates or fares within the booking tool.
 
- 
+(h) For Black Car and Luxury Limousine Bases: Price Multipliers. If a price multiplier or variable pricing policy is in effect at the time at which a customer requests Black Car service or Luxury Limousine service, a Base must require the customer to affirmatively acknowledge and accept the price multiplier or variable pricing policy prior to dispatching a Vehicle to the customer.
 
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59B-25(g)
-      - Fine: $250
-      - Appearance NOT Required
-~
-
-
-
- 
-
-(h) Base Name and Rates on Booking Tools. If a Base allows a Passenger to request a dispatch through its own publicly available Passenger-facing booking tool without speaking to a dispatcher, the Passenger-facing booking tool must use only the Base Name or the trade, business, or operating name the Base has on file with the Commission pursuant to 35 RCNY§ 59B-20(a)(1) and must display the Base's rates or fares within the booking tool.
-
-(i) For Black Car and Luxury Limousine Bases: Price Multipliers. If a price multiplier or variable pricing policy is in effect at the time at which a customer requests Black Car service or Luxury Limousine service, a Base must require the customer to affirmatively acknowledge and accept the price multiplier or variable pricing policy prior to dispatching a Vehicle to the customer.
-
-(j) Receipts. If a Base provides a receipt for a trip, the receipt must contain all of the following information:
+(i) Receipts. If a Base provides a receipt for a trip, the receipt must contain all of the following information:
 
    (1) The Dispatching Base License number;
 
@@ -17014,7 +17103,7 @@ The provisions of this subdivision do not apply to black cars and luxury limousi
 
    (8) The public access information the Base has on file with the Commission pursuant to 35 RCNY § 59B-21(c).
 
-(k) Electronic Dispatch Requests to Drivers. If a Base sends dispatch requests to Drivers through an electronic, Driver-facing interface, that interface must be available to a Driver ONLY when the Vehicle is standing or stopped, except that the Driver-facing interface can permit a Driver to accept a dispatch with a single touch using pre-programmed buttons or using voice activation while the vehicle is in motion. All other uses of a Driver-facing interface must be velocity gated to prevent its use while the vehicle is in motion.
+(j) Electronic Dispatch Requests to Drivers. If a Base sends dispatch requests to Drivers through an electronic, Driver-facing interface, that interface must be available to a Driver ONLY when the Vehicle is standing or stopped, except that the Driver-facing interface can permit a Driver to accept a dispatch with a single touch using pre-programmed buttons or using voice activation while the vehicle is in motion. All other uses of a Driver-facing interface must be velocity gated to prevent its use while the vehicle is in motion.
 
 
 
@@ -31849,13 +31938,15 @@ Chapter 68: Procedures Relating To Enforcement
 
 (a) Summary Suspension.
 
-   1. The Chairperson can summarily suspend a License if the Chairperson believes that continued licensure would constitute a direct and substantial threat to public health or safety, pending revocation proceedings. Such direct and substantial threats to public health or safety would include but are not limited to:
+   1. The Chairperson can summarily suspend a License if the Chairperson believes that continued licensure would constitute a direct and substantial threat to public health or safety, pending revocation proceedings. Such direct and substantial threats to public health or safety include but are not limited to:
 
       (A) Any act, as prohibited by these Rules, of driving a TLC licensed vehicle while Impaired by intoxicating liquor (regardless of its alcoholic content), or Drugs;
 
-      (B) Any act, as prohibited by these Rules, of bribery, fraud, material misrepresentation, theft, threat against a person, harassment, abuse, or use of physical force.
+      (B) Any act, as prohibited by these Rules, of bribery, fraud, material misrepresentation, theft, threat against a person, harassment, abuse, or use of physical force;
 
       (C) Any act, as prohibited by these Rules, involving the possession of a Weapon in a vehicle licensed under these Rules;
+
+      (D) A positive result on a drug test or a drug test sample that cannot be tested for Drugs.
 
    2. Any Licensee whose License is summarily suspended is entitled to a Summary Suspension hearing at the OATH Tribunal as set forth below.
 
@@ -31944,6 +32035,8 @@ Chapter 68: Procedures Relating To Enforcement
 
 
 
+
+
 *§ 68-16 Special Procedures – Summary Suspension Pending Compliance.* ::
 
 
@@ -31997,7 +32090,7 @@ Chapter 68: Procedures Relating To Enforcement
 
 (d) Respondent's Right to be Heard Through Written Documentation.
 
-   1. Violation of Drug-Testing Rules. A Driver who fails to be timely tested for drug use, in accordance with subdivision (c) of 35 RCNY § 80-14, and whose License is then summarily suspended, is not entitled to a hearing, but can provide the Commission, within 10 calendar days of the notice described in subdivision (b), with a single submission of written documentation refuting the suspension of his or her License.
+   1. Violation of Drug-Testing Rules. A Driver who fails to be timely tested for drug use, in accordance with Subdivisions (c) or (d) of 35 RCNY § 80-14, and whose License is then summarily suspended, is not entitled to a hearing, but can provide the Commission, within 10 calendar days of the notice described in subdivision (b), with a single submission of written documentation refuting the suspension of his or her License.
 
    2. Hearing Officer Review of Documentation. The Commission will submit the documentation submitted by a Licensee refuting the Summary Suspension to the Taxi and Limousine Tribunal at OATH which will then issue a decision including findings of fact and conclusions of law. This decision can be appealed in accordance with the process established in 48 RCNY Chapter 5.
 
@@ -32019,9 +32112,9 @@ Chapter 68: Procedures Relating To Enforcement
 
    1. The Commission and/or any police officer may seize any vehicle where:
 
-      (A) Probable cause exists to believe that the vehicle is operated or engaged in Unlicensed Activity as set forth in §§ 19-506(b), (c), or (k) and 19-529.2 of the Administrative Code; and
+      (A) Probable cause exists to believe that the vehicle is being operated in violation of Sections 19-506(b), (c), or (k) of the Administrative Code, or is being operated as a Commuter Van without Authorization; and
 
-      (B) At the time of the stop, the Owner has at least one prior violation of §§ 19-506(b), (c), or (k) of the Administrative Code in the past 36 months (or in the case of an Owner of a Commuter Van, one prior violation of § 19-529.2 of the Administrative Code in the past five years), thereby making the vehicle potentially subject to forfeiture according to 35 RCNY § 68-18 of these Rules.
+      (B) At the time of the stop, the Owner has at least one prior violation of Sections 19-506(b), (c), or (k) of the Administrative Code in the past 36 months (or in the case of an Owner of a Commuter Van, one prior violation for operating a Commuter Van without Authorization in the past five years), thereby making the vehicle potentially subject to forfeiture according to 35 RCNY § 68-18.
 
    2. The driver and all passengers in a seized Commuter Van will be left in or transported to a location that is readily accessible to other means of public transportation.
 
@@ -36358,7 +36451,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
     :header-rows: 1
 
     * - 35 RCNY § 80-14(c)
-      - Fine: Suspension until compliance.
+      - Fine: Summary suspension until compliance.
       - Appearance NOT REQUIRED
 ~
 
@@ -36381,7 +36474,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
     :header-rows: 1
 
     * - 35 RCNY § 80-14(d)(3)
-      - Fine: $100 if plead guilty before a hearing; $200 if found guilty following a hearing and suspension until compliance.
+      - Summary suspension until compliance. $200 if compliance is more than 30 days after the deadline.
       - Appearance NOT REQUIRED
 ~
 
@@ -36423,7 +36516,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
  
 
-(e) Results of Drug Test. Driver must pass every drug test, including “For Cause” drug tests under 35 RCNY § 80-14(c) and “Annual” drug tests under 35 RCNY § 80-14(d). If the results of either test are positive, or if the sample cannot be tested, the Driver’s License can be revoked after a hearing.
+(e) Results of Drug Test. Driver must pass every drug test, including “For Cause” drug tests under 35 RCNY § 80-14(c) and “Annual” drug tests under 35 RCNY § 80-14(d). If the results of either test are positive, or if the sample cannot be tested, the Driver’s License shall be summarily suspended, and can be revoked after a hearing.
 
  
 
@@ -36432,7 +36525,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
     :header-rows: 1
 
     * - 35 RCNY § 80-14(e)
-      - Fine: Summary Suspension.
+      - Penalty: Summary suspension and revocation.
       - Appearance REQUIRED
 ~
 
@@ -36469,7 +36562,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
  
 
-   (3) Weekly Limit. A Driver must not transport any Passenger(s) for hire for more than 60 hours in total in a calendar week.
+   (3) Weekly Limit. A Driver must not transport any Passenger(s) for hire for more than 60 hours in total in any seven-day period that begins on Monday and ends on Sunday.
 
  
 

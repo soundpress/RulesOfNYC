@@ -24,9 +24,9 @@ Commission. The term "Commission" means the Business Integrity Commission as est
 
 Container. The term "container" means any receptacle that is used to collect waste or recyclables for disposal and which generally is not disposed of after such use.
 
-Designated Covered Establishment. The term “Designated Covered Establishment” means any commercial establishment identified by the Department of Sanitation in Subdivision (a) of 16 RCNY § 1-11 as being a “designated covered establishment” pursuant to Section 16-306.1(b) of the Code.
+Crash. The term “crash” means a traffic incident involving the impact of a vehicle with another vehicle, person or property. A crash includes, but is not limited to, those events referenced as “incidents” and “accidents” by the Vehicle and Traffic Law.
 
-Disclosure. The term "Disclosure" means the information to be disclosed pursuant to section 16-508 of the Code and 17 RCNY § 1-06, contained in the form provided by the Commission to be submitted with the application for a license or registration pursuant to this chapter. Disclosure of fines, penalties or settlements for regulatory violations set forth in clause i of paragraph (ii) of subdivision b of section 16-508 of the Code shall be made when any such fine, penalty, settlement is of an amount of five thousand dollars ($5,000) or more, or has resulted in the suspension or revocation of a license or other permission. Disclosure of injunctive relief with respect to such violations shall be made when such relief was or will be for a duration of six (6) months or more.
+Designated Covered Establishment. The term “Designated Covered Establishment” means any commercial establishment identified by the Department of Sanitation in Subdivision (a) of 16 RCNY § 1-11 as being a “designated covered establishment” pursuant to Section 16-306.1(b) of the Code.
 
 Exempt business. The term "exempt business" means a business granted an exemption from the licensing requirements of subdivision a of section 16-505 of the Code and issued a registration pursuant to subdivision b of such section.
 
@@ -273,7 +273,25 @@ Whenever any document is to be filed, submitted, or provided to the Commission p
 
 
 
-*§ 1-12 Membership in Prohibited Trade Association. [Repealed]* ::
+*§ 1-12 Disclosure of Certain Adverse Determinations by Governmental Agencies or Authorities.* ::
+
+
+Whenever a licensee or registrant or an applicant for a license or registration is required by the Administrative Code or this Chapter to disclose, provide notification of or maintain any determination by any Federal, State, or Local governmental agency or authority against such licensee, registrant or applicant, or principal, employee or agent of such licensee, registrant or applicant, including but not limited to any judgment, decree, order, finding by or settlement agreement with such governmental agency or authority, such judgment, decree, order, finding or settlement must be disclosed if:
+
+(a) it resulted or will result in the suspension or revocation of a permit, license or other permission required in connection with the operation of such licensee’s, registrant’s or applicant’s business;
+
+(b) it resulted or will result in a civil or administrative fine, penalty or settlement in excess of one thousand dollars ($1,000) or any injunctive relief against such licensee, registrant or applicant, or principal, employee or agent of such licensee, registrant or applicant; or
+
+(c) such determination relates to a violation of the Vehicle and Traffic Law or any other laws or regulations relating to the safe operation of a vehicle.
+
+
+
+
+
+
+
+
+*§ 1-13 Severability.* ::
 
 
 The provisions of this chapter shall be severable and if any phrase, clause, sentence, paragraph, subdivision or section of this chapter, or the applicability thereof to any person or circumstance, shall be held invalid by any court of competent jurisdiction, the remainder of this chapter and the application thereof shall not be affected thereby.
@@ -357,11 +375,11 @@ An application for a license must be signed by all persons participating directl
 
    (3) Liability insurance against claims for injuries to persons or damages to property which may arise from or in connection with the licensee's business pursuant to the license. The licensee may purchase such policies in connection with one (1) or more other licensees, provided that the coverages described in this subdivision are maintained.
 
-   (4) Commercial General Liability Insurance with liability limits of no less than one million dollars ($1,000,000). The maximum deductible for such insurance shall be no more than twenty-five thousand dollars ($25,000).
+   (4) Commercial General Liability Insurance with liability limits of no less than five million dollars ($5,000,000) combined single limit per occurrence for bodily injury and property damage. The maximum deductible for such insurance shall be no more than fifty thousand dollars ($50,000).
 
-   (5) Business Automobile Liability Insurance covering every vehicle operated by the licensee in his or her business, whether or not owned by the applicant, and every vehicle hired by the licensee with liability limits of no less than one hundred thousand dollars ($100,000) for personal injury to any one person and three hundred thousand dollars ($300,000) for personal injury to two (2) or more persons and twenty-five thousand dollars ($25,000) for damage to property.
+   (5) Business Automobile Liability Insurance covering every vehicle operated by the licensee in his or her business, whether or not owned by the applicant, and every vehicle hired by the licensee with liability limits of no less than two million dollars ($2,000,000) combined single limit per accident for bodily injury and property damage.
 
-   (6) Employers' Liability Insurance with limits of one million ($1,000,000) dollars per accident. The policy or policies of insurance required by these rules must name the Commission as Certificate Holder and must be endorsed to state that coverage shall not be suspended, voided, canceled, or reduced in coverage or in limits except upon sixty (60) days prior written notice to the Commission. Failure to maintain continuous insurance coverage meeting the requirements of these rules will result in revocation of the license. Such policy or policies of insurance must be obtained from a company, or companies, duly authorized to do business in the State of New York with a Best's rating of no less than A:X unless specific approval has been granted by the Mayor's Office of Operations to accept a company with a lower rating. Two (2) certificates of insurance effecting the required coverage and signed by a person authorized by the insurer to bind coverage on its behalf, must be delivered to the Commission prior to the effective date of the license. A licensee must demonstrate that he or she has secured the insurance coverage required pursuant to this section and must maintain such required insurance coverage throughout the term of the license.
+   (6) Employers' Liability Insurance with limits of no less than one million five hundred thousand dollars ($1,500,000) per accident. The policy or policies of insurance required by these rules must name the Commission as Certificate Holder and must be endorsed to state that coverage shall not be suspended, voided, canceled, or reduced in coverage or in limits except upon sixty (60) days prior written notice to the Commission. Failure to maintain continuous insurance coverage meeting the requirements of these rules will result in revocation of the license. Such policy or policies of insurance must be obtained from a company, or companies, duly authorized to do business in the State of New York with a Best's rating of no less than A:X unless specific approval has been granted by the Mayor's Office of Operations to accept a company with a lower rating. Two (2) certificates of insurance effecting the required coverage and signed by a person authorized by the insurer to bind coverage on its behalf, must be delivered to the Commission prior to the effective date of the license. A licensee must demonstrate that he or she has secured the insurance coverage required pursuant to this section and must maintain such required insurance coverage throughout the term of the license.
 
 (g) If applicant transports or proposes to transport medical waste, asbestos, or other hazardous materials for which a New York State Waste Transporter permit is required, a copy of such permit must be submitted with the application.
 
@@ -403,7 +421,7 @@ An application for a license must be signed by all persons participating directl
 
    (9) A listing of the employees who will drive vehicles operated, pursuant to this license, and the driver's license numbers, driver's license classes, and driver's license expiration dates of such employees.
 
-   (10) Evidence of business automobile liability insurance covering every vehicle operated by the applicant in his or her business, whether or not owned by the applicant, and every vehicle hired by the applicant, with liability limits of no less than one hundred thousand dollars ($100,000) for personal injury to any one person and three hundred thousand dollars ($300,000) for personal injury to two (2) or more persons and twenty-five thousand dollars ($25,000) for damage to property. Such insurance policy must name the Commission as Certificate Holder.
+   (10) Evidence of business automobile liability insurance covering every vehicle operated by the applicant in his or her business, whether or not owned by the applicant, and every vehicle hired by the applicant, with liability limits of no less than two million dollars ($2,000,000) combined single limit per accident for bodily injury and property damage. Such insurance policy must name the Commission as Certificate Holder.
 
 (d) An applicant eligible for an exemption, pursuant to this section shall be photographed by the Commission and shall be issued a Class 2 registration by the Commission. Notwithstanding any other provision of this chapter, if at any time after the issuance of a registration to a business granted an exemption pursuant to this section, the Commission has reasonable cause to believe that any or all of the principals of such business do not possess good character, honesty, and integrity, the Commission may require that such principal(s):
 
@@ -443,7 +461,7 @@ Notwithstanding the fingerprinting and disclosure requirements of Paragraphs (i)
 
    (7) A listing of the locations from which the registrant will remove trade waste and to which the waste is proposed to be removed; and a description of the kinds of waste removed and the methods used to remove such waste. If the applicant transports asbestos or other hazardous materials for which a New York State Department of Environmental Conservation Waste Transporter permit is required, a copy of such permit must be submitted with the application;
 
-   (8) Evidence of business automobile liability insurance covering every vehicle operated by the registrant that will transport waste, whether or not owned by the applicant, and every such vehicle hired by the registrant, with liability limits of no less than one hundred thousand dollars ($100,000) for personal injury to any one person and three hundred thousand dollars ($300,000) for personal injury to two (2) or more persons and twenty-five thousand dollars ($25,000) for damage to property.
+   (8) Evidence of business automobile liability insurance covering every vehicle operated by the registrant that will transport waste, whether or not owned by the applicant, and every such vehicle hired by the registrant, with liability limits of no less than two million dollars ($2,000,000) combined single limit per accident for bodily injury and property damage.
 
 (b) Class 2 Trade Waste Broker Registration. An application for registration required by Subdivision b of Section 16-505 of the Code to register as a trade waste broker must be signed by all persons participating directly or indirectly in the control of the applicant business and by: the proprietor of an applicant if the applicant is a sole proprietorship; every officer and director and stockholder holding ten (10) percent or more of the outstanding shares of a corporation, if the applicant is a corporation; all the partners, if the applicant is a partnership; the chief operating officer or chief executive officer, irrespective of organizational title and all persons or entities having an ownership interest of ten (10) percent or more, if the applicant is any other type of business entity. The application must be certified under penalty of criminal prosecution. The principal of such applicant shall be photographed by the Commission, and such application must contain the following information:
 
@@ -480,20 +498,30 @@ Notwithstanding the fingerprinting and disclosure requirements of Paragraphs (i)
 
 
 
-*§ 2-05 Notification of Arrest, Conviction or Material Change in Information; Addition of New Principal or Employee.* ::
+*§ 2-05 Notification of Arrest, Conviction, Civil and Administrative Determinations, Vehicle Crashes, Suspension or Revocation of Driver’s License, Traffic Violation, or Material Change in Information; Addition of New Principal or Employee.* ::
 
 
-(a) (1) An applicant for a license or a licensee and an applicant for exemption from the requirement for a license or an applicant granted such exemption must notify the Commission, within ten (10) business days, of the arrest or criminal conviction after the submission of the application of any principal or any employee or agent or any prospective employee or agent identified on the application, of which the applicant for a license or the licensee had knowledge or should have known, except where such disclosure is protected by Subdivision 16 of Section 296 of Article 15 of the New York State Executive Law;
+(a) (1) An applicant for a license or a licensee and an applicant for exemption from the requirement for a license or an applicant granted such exemption must notify the Commission, within ten (10) business days, of the arrest or criminal conviction after the submission of the application of any principal or any employee or agent or any prospective employee or agent identified on the application, of which the applicant for a license or the licensee had knowledge or should have known, except where such disclosure is protected by Subdivision 16 of Section 296 of Article 15 of the New York State Executive Law.
 
-   (2) An applicant for a license or a licensee must notify the Commission within ten (10) business days of any material change as defined in 17 RCNY § 1-01 in the information submitted in an application or disclosure form submitted, pursuant to this chapter.
+   (2) An applicant for a license or a licensee must notify the Commission within ten (10) business days of any determination by any Federal, State, or Local governmental agency or authority against such licensee, registrant or applicant, including but not limited to any judgment, decree, order, finding by or settlement agreement with such governmental agency or authority.
 
-   (3) A licensee must notify the Commission within ten (10) business days of contract closing of any change in the capital stock or ownership in the business of the licensee, including but not limited to a stock transfer or sale of the outstanding shares of the business or sale or merger of such business; provided, however that a business whose equity securities are publicly traded on a national or regional stock or securities exchange must disclose only such stock transfer or sale required to be disclosed by the Securities Exchange Commission or other Federal or State regulatory body. Such notification must include a list of any persons formerly possessing ownership interest in the licensee business who will have any beneficial interest in the current business and a copy of the contract or agreement.
+   (3) An applicant for a license or a licensee must notify the Commission within ten (10) business days of any crash that involved a vehicle used in the course of the business of such applicant or licensee. Additionally, such applicant or licensee must provide the Commission with a copy of the Report of Motor Vehicle Accident (MV-104) and any other forms filed with the New York State Department of Motor Vehicles within ten (10) business days from the date by which such applicant or licensee is required to file the forms with such department.
 
-   (4) In addition to notification of material change required by any other provision of this chapter, a licensee must provide the Commission with notice of at least ten (10) business days of the proposed addition of a new principal (other than a person or entity that becomes a principal through the acquisition of outstanding shares of a business whose equity securities are registered under Federal and State securities laws and publicly traded on a national or regional stock or security exchange) to the business of such licensee. The Commission may waive or shorten such period upon a showing that there exists a bona fide business requirement therefor. Except where the Commission determines within such period, based upon information available to it, that the addition of such new principal may have a result inimical to the purposes of this chapter, the licensee may add such new principal pending the completion of review by the Commission. The licensee shall be afforded an opportunity to demonstrate to the Commission that the addition of such new principal pending completion of such review would not have a result inimical to the purposes of this chapter. If upon the completion of such review, the Commission determines that such principal lacks good character, honesty, and integrity, the license shall cease to be valid unless such principal divests his or her interest, or discontinues his or her involvement in the business of such licensee, as the case may be, within the time period prescribed by the Commission.
+   (4) An applicant for a license or a licensee must notify the Commission within ten (10) business days of the suspension or revocation of the driver's license of any person whose job duties include operating a vehicle on behalf of such applicant or licensee.
 
-(b) An applicant for registration and a registrant, including a registrant issued a registration after the granting of an exemption from the licensing requirement of Subdivision a of Section 16-505 of the Code, must notify the Commission within ten (10) business days of: (i) the addition of a principal to the business of a registrant after the submission of the application for registration or exemption from the licensing requirement, pursuant to this chapter; (ii) the arrest or criminal conviction of any principal of a Class 2 registrant of which such applicant or registrant had knowledge or should have known, except where such disclosure is protected by Subdivision 16 of Section 296 of Article 15 of the New York State Executive Law; and (iii) any other material change in the information submitted pursuant to this subchapter.
+   (5) An applicant for a license or a licensee must notify the Commission within ten (10) business days of all vehicle traffic summonses issued to such applicant or licensee as the lessee or owner of the vehicle or to any person while operating a vehicle on behalf of such applicant or licensee.
 
-(c) Notification pursuant to Paragraphs (2), (3), and (4) of Subdivision (a) and Subdivision (b) of this section must be sworn and notarized and must be signed by all persons participating directly or indirectly in the control of the applicant business and by: the proprietor of an applicant if the applicant is a sole proprietorship; every officer and director and stockholder holding ten (10) percent or more of the outstanding shares of a corporation, if the applicant is a corporation; all the partners, if the applicant is a partnership; the chief operating officer or chief executive officer, irrespective of organizational title and all persons or entities having an ownership interest of ten (10) percent or more if the applicant is any other type of business entity. Notification pursuant to Paragraph (i) of Subdivision (a) of this section must be sworn and notarized and must be signed by the chief operating officer or chief executive officer, irrespective of organizational title, of the applicant or licensee, as the case may be.
+   (6) An applicant for a license or a licensee must notify the Commission within ten (10) business days of any material change as defined in 17 RCNY § 1-01 in the information submitted in an application or disclosure form submitted, pursuant to this chapter.
+
+   (7) A licensee must notify the Commission within ten (10) business days of contract closing of any change in the capital stock or ownership in the business of the licensee, including but not limited to a stock transfer or sale of the outstanding shares of the business or sale or merger of such business; provided, however that a business whose equity securities are publicly traded on a national or regional stock or securities exchange must disclose only such stock transfer or sale required to be disclosed by the Securities Exchange Commission or other Federal or State regulatory body. Such notification must include a list of any persons formerly possessing ownership interest in the licensee business who will have any beneficial interest in the current business and a copy of the contract or agreement.
+
+   (8) In addition to notification of material change required by any other provision of this chapter, a licensee must provide the Commission with notice of at least ten (10) business days of the proposed addition of a new principal (other than a person or entity that becomes a principal through the acquisition of outstanding shares of a business whose equity securities are registered under Federal and State securities laws and publicly traded on a national or regional stock or security exchange) to the business of such licensee. The Commission may waive or shorten such period upon a showing that there exists a bona fide business requirement therefor. Except where the Commission determines within such period, based upon information available to it, that the addition of such new principal may have a result inimical to the purposes of this chapter, the licensee may add such new principal pending the completion of review by the Commission. The licensee shall be afforded an opportunity to demonstrate to the Commission that the addition of such new principal pending completion of such review would not have a result inimical to the purposes of this chapter. If upon the completion of such review, the Commission determines that such principal lacks good character, honesty, and integrity, the license shall cease to be valid unless such principal divests his or her interest, or discontinues his or her involvement in the business of such licensee, as the case may be, within the time period prescribed by the Commission.
+
+(b) (1) An applicant for registration and a registrant, including a registrant issued a registration after the granting of an exemption from the licensing requirement of Subdivision a of Section 16-505 of the Code, must notify the Commission within ten (10) business days of: (i) the addition of a principal to the business of a registrant after the submission of the application for registration or exemption from the licensing requirement, pursuant to this Chapter; (ii) the arrest or criminal conviction of any principal of a Class 2 registrant of which such applicant or registrant had knowledge or should have known, except where such disclosure is protected by Subdivision 16 of Section 296 of Article 15 of the New York State Executive Law; (iii) any determination by any Federal, State, or Local governmental agency or authority against such licensee, registrant or applicant, including but not limited to any judgment, decree, order, finding by or settlement agreement with such governmental agency or authority; (iv) any crash that involved a vehicle used in the course of the business of the applicant for registration or registrant; (v) the suspension or revocation of the driver's license of any person whose job duties include operating a vehicle on behalf of the applicant for registration or registrant; (vi) all vehicle traffic summonses issued to the applicant for registration or registrant as the lessee or owner of the vehicle or to any person while operating a vehicle on behalf of such applicant or registrant; and (vii) any other material change in the information submitted pursuant to this subchapter.
+
+   (2) For any crash required to be reported pursuant to Subparagraph (iv) of Paragraph (1) of this Subdivision, an applicant for registration or registrant must provide the Commission with a copy of the Report of Motor Vehicle Accident (MV-104) and any other forms filed with the New York State Department of Motor Vehicles within ten (10) business days from the date by which such applicant or registrant is required to file the forms with such department.
+
+(c) Notification pursuant to Paragraphs (1), (6), (7) and (8) of Subdivision (a) and Subparagraphs (i), (ii) and (vii) of Paragraph (1) of Subdivision (b) of this section must be sworn and notarized and must be signed by all persons participating directly or indirectly in the control of the applicant business and by: the proprietor of an applicant if the applicant is a sole proprietorship; every officer and director and stockholder holding ten (10) percent or more of the outstanding shares of a corporation, if the applicant is a corporation; all the partners, if the applicant is a partnership; the chief operating officer or chief executive officer, irrespective of organizational title and all persons or entities having an ownership interest of ten (10) percent or more if the applicant is any other type of business entity. Notification pursuant to Paragraph (1) of Subdivision (a) of this section must be sworn and notarized and must be signed by the chief operating officer or chief executive officer, irrespective of organizational title, of the applicant or licensee, as the case may be.
 
 
 
@@ -530,6 +558,34 @@ The term of a license or registration shall be two (2) years. The fee for invest
 (a)  Where the Staff of the Commission proposes that the Commission refuse, pursuant to section 16-509 or 16-507 of the Code, as the case may be, to issue a license to remove, collect, or dispose of trade waste or a registration as a trade waste broker or a Class 1 registration or Class 2 registration for a business exempt from licensing requirements, the applicant shall be notified in writing of the reasons for the proposed refusal of such license or registration and that the applicant may, within ten (10) business days of the date of such notification, respond in writing to the Commission setting forth the reasons such applicant believes that it should not be denied such license or registration. In the exercise of its discretion, the Commission, considering the reasons for the proposed refusal to issue the license or registration, the nature of the issues raised in connection therewith, and the response submitted by the applicant, may make a final determination regarding the issuance of such license or registration or through the Chair or his or her designee, afford the applicant such further opportunity to be heard in such proceeding as is deemed appropriate. A final determination to refuse to issue a license or registration pursuant to this section shall be by majority vote of the Commission. Such determination and the reasons therefor shall be communicated to the applicant in writing.
 
 (b) The Commission may, after notice to a licensee, Class 2 registrant under section 16-505(a), Class 1 registrant or trade waste broker registrant, and the opportunity for a hearing conducted pursuant to 17 RCNY § 1-03, revoke or suspend a license or a registration issued pursuant to this subchapter for the reasons set forth in section 16-513 of the Code. The Commission may suspend a license, Class 2 registration under section 16-505(a), Class 1 registration or trade waste broker registration pursuant to section 16-514 of the Code without a prior hearing. Upon notification of an emergency suspension pursuant to such section, a licensee or registrant may apply to the Chair of the Commission for immediate review of such suspension. The Chair shall determine such appeal forthwith. In the event that such appeal is denied, an opportunity for a hearing pursuant to 17 RCNY § 1-03 shall be provided on an expedited basis, within a period not to exceed four business days, and the Commission shall issue a final determination no later than four days following the conclusion of such hearing.
+
+
+
+
+
+
+*§ 2-09 Financial Hardship Waiver from Vehicle Emissions Compliance.* ::
+
+
+(a) Pursuant to § 24-163.11(c) of the Administrative Code, the chairperson of the Commission may issue a waiver from the requirements of Administrative Code § 24-163.11(b)(1) to a licensee, registrant or applicant for a license or registration if compliance with the requirements of Administrative Code § 24-163.11(b)(1) would create an undue financial hardship on that licensee, registrant or applicant for a license or registration.
+
+(b) To qualify for a waiver from the requirements of Administrative Code § 24-163.11(b)(1), the applicant for the waiver must demonstrate to the Commission that complying with Administrative Code § 24-163.11(b)(1) would create an undue financial hardship. The waiver applicant must submit to the Commission an undue financial hardship waiver application as proscribed by the Commission, which will require the following information:
+
+   1. All actions the waiver applicant has taken up to the date of the application to bring its fleet into compliance with § 24-163.11(b)(1) of the Administrative Code;
+
+   2. Information demonstrating that bringing the waiver applicant’s truck fleet into compliance with § 24-163.11(b)(1) of the Administrative Code would cost more than 30 percent of the company’s average gross revenue from the previous three years;
+
+   3. Information demonstrating that the waiver applicant has made a good faith effort to secure financing to cover the costs of bringing its truck fleet into compliance with § 24-163.11(b)(1) of the Administrative Code but has been unable to secure such financing, together with an explanation as to why the applicant could not secure financing; and
+
+   4. A written plan demonstrating how the waiver applicant will bring its truck fleet into compliance with the requirements of § 24-163.11(b)(1) of the Administrative Code and when it will do so.
+
+(c) Any entity applying for a license or registration for the first time after January 1, 2019 and seeking a financial hardship waiver must provide all of the information set forth in 17 RCNY § 2-09(b)1-4, and explain why any trucks that were purchased prior to applying for the financial hardship waiver were not compliant with Local Law 145/2013 when purchased.
+
+(d) The chairperson of the Commission may deny a waiver for undue financial hardship where the applicant for such waiver fails to provide the information required by the Commission on the waiver application, for failure to demonstrate a good faith effort to comply with the requirements of § 24-163.11(b)(1) of the Administrative Code without a need for a waiver, for failure to demonstrate the ability to come into compliance with the requirements of § 24-163.11(b)(1) within a maximum of two years if granted a financial hardship waiver, or for failure to demonstrate the ability to come into compliance with the requirements of § 24-163.11(b)(1) by January 1, 2025.
+
+(e) Financial hardship waivers granted pursuant to § 24-163.11(c) of the Administrative Code will specify the length of the waiver and will be valid for a period of no more than 2 years. Any entity granted a financial hardship waiver may apply to the chairperson of the Commission to renew the waiver no later than 180 days before the expiration of the waiver. All financial hardship waivers will expire no later than January 1, 2025.
+
+
 
 
 
@@ -1058,13 +1114,17 @@ Where the Commission requires, pursuant to Subdivision b of Section 16-511 of th
 
 (h) A licensee must maintain a register of all complaints that such licensee receives from customers or prospective customers.
 
-(i) All records, receipts, documents, journals, ledgers, registers, and books that must be maintained, pursuant to this section must be maintained for five (5) years unless the Commission directs otherwise. This period for record keeping shall only be reduced if the Commission so directs in a specific case in writing. The Commission may in specific instances, in its discretion, require more or less detailed and/or frequent record-keeping and reporting requirements and may require the retention of identified records for more than five (5) years.
+(i) A licensee must maintain written policies and procedures regarding compliance with all of the laws, rules and regulations of Federal, State and Local government authorities having jurisdiction over any of the licensees’ activities concerning vehicle specifications, sanitary requirements, handling, transport, receipt, transfer or disposal of trade waste, regulated medical waste or waste containing asbestos or other hazardous, toxic or dangerous material.
 
-(j) All records, receipts, documents, journals, ledgers, registers, and books that must be maintained, pursuant to this section be made available for inspection and audit by the Commission. The Commission may conduct such an inspection or audit at the licensee's place of business or, at the Commission's discretion, at the offices of the Commission. The licensee must cooperate with the representatives of the Commission conducting any such inspection or audit.
+(j) A licensee must maintain all Report of Motor Vehicle Accident (MV-104) forms and any other forms that the licensee is required to file with the New York State Department of Motor Vehicles related to a crash.
 
-(k) If any due date under this section falls on a weekend or City holiday, the due date shall be deemed to be the first business day following such weekend or holiday.
+(k) A licensee must maintain all determinations by any Federal, State, or Local governmental agency or authority against such licensee, including but not limited to any judgment, decree, order, finding by or settlement agreement with such governmental agency or authority.
 
-(l) [Repealed.]
+(l) All records, receipts, documents, journals, ledgers, registers, and books that must be maintained, pursuant to this section must be maintained for five (5) years unless the Commission directs otherwise. This period for record keeping shall only be reduced if the Commission so directs in a specific case in writing. The Commission may in specific instances, in its discretion, require more or less detailed and/or frequent record-keeping and reporting requirements and may require the retention of identified records for more than five (5) years.
+
+(m) All records, receipts, documents, journals, ledgers, registers, and books that must be maintained, pursuant to this section be made available for inspection and audit by the Commission. The Commission may conduct such an inspection or audit at the licensee's place of business or, at the Commission's discretion, at the offices of the Commission. The licensee must cooperate with the representatives of the Commission conducting any such inspection or audit.
+
+(n) If any due date under this section falls on a weekend or City holiday, the due date shall be deemed to be the first business day following such weekend or holiday.
 
 
 
@@ -1743,6 +1803,22 @@ A registrant that removes, collects or disposes of trade waste shall keep the si
 
 
 
+
+
+*§ 7-06 Recordkeeping.* ::
+
+
+(a) A registrant must maintain written policies and procedures regarding compliance with all of the laws, rules and regulations of Federal, State and Local government authorities having jurisdiction over any of the registrant’s activities concerning vehicle specifications, sanitary requirements, handling, transport, receipt, transfer or disposal of trade waste, regulated medical waste or waste containing asbestos or other hazardous, toxic or dangerous material.
+
+(b) A registrant must maintain all Report of Motor Vehicle Accident (MV-104) forms and any other forms that the registrant is required to file with the New York State Department of Motor Vehicles related to a crash.
+
+(c) A registrant must maintain all determinations by any Federal, State, or Local governmental agency or authority against such registrant, including but not limited to any judgment, decree, order, finding by or settlement agreement with such governmental agency or authority.
+
+
+
+
+
+
 Chapter 2: Markets
 --------------------------------------------------
 
@@ -2303,6 +2379,274 @@ Unless otherwise provided, all notices pursuant to Chapter 1-B of Title 22 of th
 (a) The Commission may issue a notice of violation to any person, including a wholesale business, market business, or wholesale trade association, or any of their principals, employees, agents or officers, for the violation of any provision of Chapter 1-B of Title 22 of the Code or this subchapter. Any person who violates any such provision shall be subject to the civil and criminal fines and penalties and injunctive relief as provided in section 22-258 of the Code.
 
 (b) A wholesale business, market business, or wholesale trade association shall be jointly and severally liable for any violation of Chapter l-B of Title 22 of the Code or of this subchapter committed by any of its officers, employees and/or agents acting within the scope of their employment.
+
+(c) All penalties are in dollar amounts. Repeat penalties apply to violations of the same subdivision penalty schedule description. Second, third, fourth, fifth and subsequent (“subs.”) violations are defined as a violation by the same respondent on a date within five years of the date of occurrence of the previous violation.
+
+(d) An asterisk (*) in the penalty schedule denotes availability of a mail-in penalty. Mail-in penalties are only available for a first offense. Where a mail-in penalty exists in this penalty schedule for the cited violation, a respondent may admit to the violation charged and pay the penalty by mail in the manner and time directed by the summons. Payment in full is deemed an admission of liability and no further hearing or appeal will be allowed. Where a respondent is permitted to admit and pay by mail but fails to do so prior to the original hearing date written on the violation, the respondent will have the option of paying the mail-in penalty, plus a late admit fee of $30.00, within 30 days of the mailing date of the default order issued against respondent.
+
+(e) The table below sets forth the penalties imposed in connection with summonses issued by the Commission in public wholesale markets. Particular violations are classified as indicated in the following table:
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - Code/RuleSection
+      - Description
+      - Mail-In Penalty
+      - 1st Offense Penalty After Hearing
+      - Repeat Penalty
+      - Default Penalty
+~
+
+
+
+
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 17 RCNY § 11-06(a)
+      - Failure to obtain identification card
+      - None
+      - $350
+      - 2nd $7503rd $1,500Subs. $3,000
+      - $10,000
+    * - 17 RCNY § 11-06(c)*
+      - Failure to produce ID card upon demand
+      - $250
+      - $500
+      - 2nd $5003rd $1,0004th $2,5005th $5,000Subs. $10,000
+      - $10,000
+    * - 17 RCNY § 11-09(a)*
+      - Improper transfer of registration number
+      - $3,000
+      - $5,000
+      - Subs. $10,000
+      - $10,000
+    * - 17 RCNY § 11-09(b)*
+      - Failure to affix and prominently display registration certificate
+      - $500
+      - $1,000
+      - 2nd $1,5003rd $2,5004th $5,000Subs. $10,000
+      - $10,000
+    * - 17 RCNY § 11-09(c)*
+      - Failure to maintain books, records, etc.
+      - $1,500
+      - $2,500
+      - 2nd $3,0003rd $5,000Subs. $10,000
+      - $10,000
+    * - 17 RCNY § 11-09(c)*
+      - Failure to retain books, records, etc., and make available for inspection
+      - $500
+      - $750
+      - 2nd $1,0003rd $2,5004th $5,000Subs. $10,000
+      - $10,000
+    * - 17 RCNY § 11-15(a)*
+      - Failure to notify Commission of material changes of info submitted in application
+      - $1,500
+      - $2,500
+      - 2nd $5,000Subs. $10,000
+      - $10,000
+    * - 17 RCNY § 11-16(c)*
+      - Unauthorized sublease of registration number, premises, and/or business
+      - $3,000
+      - $5,000
+      - Subs. $10,000
+      - $10,000
+    * - 17 RCNY § 11-19(a)(1)*
+      - Interference with lawful duties of Market Manager or his/her staff
+      - None
+      - $10,000
+      - Subs. $10,000
+      - $10,000
+    * - 17 RCNY § 11-19(a)(1)*
+      - Interference with/obstruction of orderly function of Market
+      - $3,000
+      - $5,000
+      - Subs. $10,000
+      - $10,000
+    * - 17 RCNY § 11-19(a)(2)*
+      - Interference with/obstruction of any operation, etc., of registrant
+      - $750
+      - $1,000
+      - 2nd $2,5003rd $5,000Subs. $10,000
+      - $10,000
+    * - 17 RCNY § 11-19(a)(3)*
+      - Improper disposal of litter, rubbish, or refuse
+      - $250
+      - $350
+      - 2nd $5003rd $1,000Subs. $10,000
+      - $10,000
+    * - 17 RCNY § 11-19(a)(4)*
+      - Public urination and/or defecation
+      - $350
+      - $500
+      - 2nd $1,5003rd $3,500Subs. $10,000
+      - $10,000
+    * - 17 RCNY § 11-19(a)(5)*
+      - Improper damage, removal, or destruction of property
+      - $500
+      - $1,000
+      - 2nd $2,5003rd $5,000Subs. $10,000
+      - $10,000
+    * - 17 RCNY § 11-19(a)(6)*
+      - Engagement/instigation of fight or other disturbance
+      - $1,000
+      - $1,500
+      - 2nd $3,5003rd $7,000Subs. $10,000
+      - $10,000
+    * - 17 RCNY § 11-19(a)(7)*
+      - Commission of any act injurious to any person, animal or property
+      - $1,000
+      - $1,500
+      - 2nd $3,5003rd $7,000Subs. $10,000
+      - $10,000
+    * - 17 RCNY § 11-19(a)(8)*
+      - Possession of dangerous instruments and/or explosives
+      - $1,000
+      - $1,500
+      - 2nd $3,5003rd $7,000Subs. $10,000
+      - $10,000
+    * - 17 RCNY § 11-19(a)(9)*
+      - Gambling
+      - $250
+      - $350
+      - 2nd $1,5003rd $3,0004th $5,000Subs. $10,000
+      - $10,000
+    * - 17 RCNY § 11-19(a)(10)*
+      - Misrepresentation of merchandise offered for sale
+      - $500
+      - $1,000
+      - 2nd $2,5003rd $5,000Subs. $10,000
+      - $10,000
+    * - 17 RCNY § 11-19(a)(11)*
+      - Sale of prohibited items
+      - $750
+      - $1,500
+      - 2nd %2,5003rd %5,000Subs. %10,000
+      - $10,000
+    * - 17 RCNY § 11-19(a)(12)*
+      - Discharge into tidal water, sewage, or drainage that may result in the pollution of water
+      - $250
+      - $500
+      - 2nd $1,0003rd $2,5004th $5,000Subs. $10,000
+      - $10,000
+    * - 17 RCNY § 11-19(a)(13)*
+      - Causing damage to or clogging of drains or sewers
+      - $250
+      - $500
+      - 2nd $1,0003rd $2,5004th $5,000Subs. $10,000
+      - $10,000
+    * - 17 RCNY § 11-19(a)(14)*
+      - Disobeyance of lawful order of employee of Commission or City
+      - $750
+      - $1,500
+      - 2nd $2,5003rd $5,000Subs. $10,000
+      - $10,000
+    * - 17 RCNY § 11-19(a)(14)*
+      - Violation any lawful notice of Commission or other City agency
+      - $750
+      - $1,500
+      - 2nd $2,5003rd $5,000Subs. $10,000
+      - $10,000
+    * - 17 RCNY § 11-19(b)(3)*
+      - Conducting of business using unregistered name
+      - $3,000
+      - $5,000
+      - Subs. $10,000
+      - $10,000
+    * - 17 RCNY § 11-19(b)(4)*
+      - Violation of any applicable Federal, State, or City law or regulation
+      - $1,000
+      - $1,500
+      - 2nd $2,5003rd $5,000Subs. $10,000
+      - $10,000
+    * - 17 RCNY § 11-19(b)(8)*
+      - Threat or attempt to intimidate any customer
+      - $1,500
+      - $3,000
+      - 2nd $5,0003rd $7,500Subs. $10,000
+      - $10,000
+    * - 17 RCNY § 11-19(b)(11)*
+      - Employment of individuals without approved ID cards
+      - $3,000
+      - $5,000
+      - Subs. $10,000
+      - $10,000
+    * - 17 RCNY § 11-19(b)(12)*
+      - Use of unregistered/uninsured vehicle
+      - $500
+      - $750
+      - 2nd $1,0003rd $2,5004th $5,000Subs. $10,000
+      - $10,000
+    * - 17 RCNY § 11-19(b)(13)*
+      - Engagement in an unfair labor practice
+      - $1,000
+      - $1,500
+      - 2nd $2,5003rd $5,000Subs. $10,000
+      - $10,000
+    * - 17 RCNY § 11-19(b)(15)*
+      - Violation or failure to comply with any order or directive of the Commission
+      - $375
+      - $500
+      - 2nd $7503rd $1,000Subs. $10,000
+      - $10,000
+    * - 17 RCNY § 11-25(a)*
+      - Failure to obey and/or comply with traffic directions
+      - $250
+      - $500
+      - 2nd $1,0003rd $2,5004th $5,000Subs. $10,000
+      - $10,000
+    * - 17 RCNY § 11-25(b)*
+      - Obstruction of traffic
+      - $250
+      - $500
+      - 2nd $7503rd $1,0004th $2,5005th $5,000Subs. $10,000
+      - $10,000
+    * - 17 RCNY § 11-25(c)*
+      - Failure to remove disabled vehicle
+      - $250
+      - $500
+      - 2nd $7503rd $1,0004th $2,5005th $5,000Subs. $10,000
+      - $10,000
+    * - 17 RCNY § 11-25(e)*
+      - Failure to comply with traffic laws
+      - $500
+      - $1,000
+      - 2nd $2,5003rd $5,000Subs. $10,000
+      - $10,000
+    * - Admin. Code § 22-252(a)
+      - Failure to obtain identification card
+      - None
+      - $500
+      - 2nd $1,5003rd $2,500Subs. $5,000
+      - $5,000
+    * - Admin. Code § 22-253(a)
+      - Failure to register wholesale and/or market businesses
+      - None
+      - $1,000
+      - 2nd $2,500Subs. $5,000
+      - $5,000
+    * - Admin. Code § 22-262
+      - Failure to surrender and/or cease using registration certificate and/or number
+      - None
+      - $5,000
+      - Subs. $5,000
+      - $5,000
+    * - Admin. Code § 22-262
+      - Failure to surrender and/or cease using identification card
+      - None
+      - $1,500
+      - 2nd $2,500Subs. $5,000
+      - $5,000
+~
+
+ 
+
+
 
 
 
@@ -3228,6 +3572,419 @@ Unless otherwise provided, all notices, pursuant to Chapter 1-A of Title 22 of t
 
 (b) A loading or unloading business, wholesale seafood business or seafood delivery business shall be jointly and severally liable for any violation of Chapter l-A of Title 22 of the Code or of this subchapter committed by any of its officers, employees and/or agents acting within the scope of their employment.
 
+(c) All penalties are in dollar amounts. Repeat penalties apply to violations of the same subdivision penalty schedule description. Second, third, fourth, fifth and subsequent (“subs.”) violations are defined as a violation by the same respondent with a date of occurrence within five years of the date of occurrence of the previous violation.
+
+(d)  An asterisk (*) below denotes availability of a mail-in penalty. Mail-in penalties are only available for a first offense. Where a mail-in penalty exists in this penalty schedule for the cited violation, a respondent may admit to the violation charged and pay the penalty by mail in the manner and time directed by the summons. Payment in full is deemed an admission of liability and no further hearing or appeal will be allowed. Where respondent is permitted to admit and pay by mail but fails to do so before the original hearing date written on the violation, the respondent will have the option of paying the mail in penalty, plus a late admit fee of $30.00, within 30 days of the mailing date of the default order issued against respondent.
+
+(e) The table below sets forth the penalties imposed in connection with Summonses returnable. Particular violations shall be classified as indicated in the following table:
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - Code/Rule Section
+      - Description
+      - 1st Offense Penalty
+      - Repeat Penalty
+      - Default Penalty
+~
+
+
+
+
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 17 RCNY § 12-04(a)
+      - Failed to obtain identification card
+      - $350
+      - 2nd $7503rd $1,500Subs. $3,000
+      - $10,000
+    * - 17 RCNY § 12-04(f)
+      - Failed to display identification card
+      - $250
+      - 2nd $5003rd $750Subs. $1,000
+      - $10,000
+    * - 17 RCNY § 12-06(a)
+      - Operated an unloading business without a license
+      - $2,500
+      - 2nd $5,000Subs. $7,500
+      - $10,000
+    * - 17 RCNY § 12-06(b)
+      - Operated a loading business without a license
+      - $2,500
+      - 2nd $5,000Subs. $7,500
+      - $10,000
+    * - 17 RCNY § 12-10(a)
+      - Failed to maintain required insurance (Licensee)
+      - $500
+      - 2nd $7503rd $1,000Subs. $3,000
+      - $10,000
+    * - 17 RCNY § 12-10(b)
+      - Unauthorized transfer of license
+      - $1,500
+      - 2nd $3,000Subs. $5,000
+      - $10,000
+    * - 17 RCNY § 12-11
+      - Failed to comply with conditions in unloading license
+      - $500
+      - 2nd $7503rd $1,000Subs. $2,500
+      - $10,000
+    * - 17 RCNY § 12-11(a)(3) / (b)(1)
+      - Unloaded outside approved, designated and/or assigned areas
+      - $100
+      - 2nd $2503rd $500Subs. $1,000
+      - $10,000
+    * - 17 RCNY § 12-11(b)(3)
+      - Failed to unload in required order
+      - $500
+      - 2nd $7503rd $1,000Subs. $2,500
+      - $10,000
+    * - 17 RCNY § 12-11(b)(4)
+      - Refused to unload trucks in approved or assigned unloading area
+      - $500
+      - 2nd $7503rd $1,000Subs. $2,500
+      - $10,000
+    * - 17 RCNY § 12-11(c)(1)
+      - Charged rates in excess of those specified in unloading license (Unloader)
+      - $1,000
+      - 2nd $1,5003rd $2,000Subs. $3,000
+      - $10,000
+    * - 17 RCNY § 12-11(c)(1)
+      - Failed to post rates in appropriate locations (Unloader)
+      - $250
+      - 2nd $5003rd $750Subs. $1,000
+      - $10,000
+    * - 17 RCNY § 12-11(c)(2)
+      - Failed to verify bill of lading/obtain signature/record license number (Unloader)
+      - $250
+      - 2nd $5003rd $750Subs. $1,000
+      - $10,000
+    * - 17 RCNY § 12-11(c)(3)
+      - Failed to keep/make available weekly records (Unloader)
+      - $500
+      - 2nd $1,0003rd $1,500Subs. $3,000
+      - $10,000
+    * - 17 RCNY § 12-11(d)(1)
+      - Unloader engaged in business/activity interfering with unloading business (Unloader)
+      - $1,000
+      - 2nd $1,5003rd $2,500Subs. $5,000
+      - $10,000
+    * - 17 RCNY § 12-11(d)(2)
+      - Interfered with market manager (Unloader)
+      - $1,500
+      - 2nd $3,000Subs. $5,000
+      - $10,000
+    * - 17 RCNY § 12-11(d)(2)
+      - Obstructed unloading process (Unloader)
+      - $1,500
+      - 2nd $3,000Subs. $5,000
+      - $10,000
+    * - 17 RCNY § 12-11(d)(3)
+      - Requested/accepted unauthorized fees and/or gratuities (Unloader)
+      - $500
+      - 2nd $7503rd $1,000Subs. $3,000
+      - $10,000
+    * - 17 RCNY § 12-11(d)(3)
+      - Charged unauthorized fees (Unloader)
+      - $500
+      - 2nd $7503rd $1,000Subs. $3,000
+      - $10,000
+    * - 17 RCNY § 12-11(d)(5)(xi)
+      - Violated or failed to comply with any order or directive of the Commission (Unloader)
+      - $500
+      - 2nd $750Subs $1,000
+      - $10,000
+    * - 17 RCNY § 12-12
+      - Failed to comply with loading license conditions (Loader)
+      - $500
+      - 2nd $1,0003rd $1,500Subs. $3,000
+      - $10,000
+    * - 17 RCNY § 12-12(a)(1)
+      - Failed to post copies of rates (Loader)
+      - $250
+      - 2nd $5003rd $750Subs. $1,000
+      - $10,000
+    * - 17 RCNY § 12-12(a)(2)
+      - Charged rates in excess of those specified in loading license (Loader)
+      - $500
+      - 2nd $1,0003rd $1,500Subs. $3,000
+      - $10,000
+    * - 17 RCNY § 12-12(b)(1)
+      - Unauthorized use of a loading area (Loader)
+      - $250
+      - 2nd $5003rd $750Subs. $1,000
+      - $10,000
+    * - 17 RCNY § 12-12(b)(2)
+      - Loaded outside designated hours (Loader)
+      - $250
+      - 2nd $5003rd $750Subs. $1,000
+      - $10,000
+    * - 17 RCNY § 12-12(c)(3)
+      - Charged fees not specified in license (Loader)
+      - $500
+      - 2nd $7503rd $1,000Subs. $3,000
+      - $10,000
+    * - 17 RCNY § 12-12(c)(3)
+      - Solicited or accepted unauthorized gratuities (Loader)
+      - $500
+      - 2nd $7503rd $1,000Subs. $3,000
+      - $10,000
+    * - 17 RCNY § 12-12(c)(5)
+      - Refused to perform loading services when space is available (Loader)
+      - $250
+      - 2nd $5003rd $750Subs. $1,000
+      - $10,000
+    * - 17 RCNY § 12-12(c)(6)
+      - Forced another to use or prevented another from using loading services (Loader)
+      - $500
+      - 2nd $7503rd $1,000Subs. $3,000
+      - $10,000
+    * - 17 RCNY § 12-12(c)(6)
+      - Solicited, threatened, and/or agreed to refuse loading services (Loader)
+      - $500
+      - 2nd $7503rd $1,000Subs. $3,000
+      - $10,000
+    * - 17 RCNY § 12-12(c)(7)
+      - Moved or interfered with any vehicle (Loader)
+      - $250
+      - 2nd $5003rd $1,000Subs. $3,000
+      - $10,000
+    * - 17 RCNY § 12-12(c)(9)(xi)
+      - Violated or failed to comply with any order or directive of the Commission (Loader)
+      - $500
+      - 2nd $750Subs $1,000
+      - $10,000
+    * - 17 RCNY § 12-13(a)/(b)
+      - Operated wholesale seafood or seafood delivery business without registration from Commission
+      - $2,500
+      - 2nd $5,000Subs. $7,500
+      - $10,000
+    * - 17 RCNY § 12-15(b)(2)
+      - Failed to affix and prominently display name and/or registration number (Wholesaler)
+      - $250
+      - 2nd $5003rd $750Subs. $1,000
+      - $10,000
+    * - 17 RCNY § 12-15(c)(1)
+      - Failed to keep and/or make available records, bills, etc. (Wholesaler)
+      - $500
+      - 2nd $7503rd $1,000Subs. $3,000
+      - $10,000
+    * - 17 RCNY § 12-15(d)
+      - Failed to submit proof of worker’s compensation coverage (Wholesaler)
+      - $500
+      - 2nd $7503rd $1,000Subs. $3,000
+      - $10,000
+    * - 17 RCNY § 12-15(g)
+      - Failed to procure/maintain payment bond (Wholesaler)
+      - $500
+      - 2nd $7503rd $1,000Subs. $3,000
+      - $10,000
+    * - 17 RCNY § 12-16(a)
+      - Operated a seafood delivery operation in non-designated area (Deliverer)
+      - $250
+      - 2nd $5003rd $750Subs. $1,000
+      - $10,000
+    * - 17 RCNY § 12-16(b)(1)
+      - Failed to possess a valid driver’s license as required by Vehicle and Traffic Law (Deliverer)
+      - $250
+      - 2nd $5003rd $750Subs. $1,000
+      - $10,000
+    * - 17 RCNY § 12-16(b)(2)
+      - Operated vehicle without a valid registration, inspection sticker and/or insurance card (Deliverer)
+      - $250
+      - 2nd $5003rd $750Subs. $1,000
+      - $10,000
+    * - 17 RCNY § 12-16(b)(2)
+      - Failed to display sticker on vehicle (Deliverer)
+      - $250
+      - 2nd $5003rd $750Subs. $1,000
+      - $10,000
+    * - 17 RCNY § 12-16(e)/(f)
+      - Failed to maintain required liability insurance (Wholesaler/Deliverer)
+      - $500
+      - 2nd $7503rd $1,000Subs. $3,000
+      - $10,000
+    * - 17 RCNY § 12-16(c)
+      - Offered seafood for resale to public without wholesale registration (Deliverer)
+      - $1,500
+      - 2nd $2,500Subs. $5,000
+      - $10,000
+    * - 17 RCNY § 12-16(c)
+      - Offered seafood for resale to public without wholesale registration (Deliverer)
+      - $1,500
+      - 2nd $2,500Subs. $5,000
+      - $10,000
+    * - 17 RCNY § 12-17(a)
+      - Failed to comply with order of market manager regarding safety/order/health in market area
+      - $1,500
+      - 2nd $2,500Subs. $5,000
+      - $10,000
+    * - 17 RCNY § 12-18(a)(1)
+      - Committed an act prohibited in the seafood distribution area
+      - $1,000
+      - 2nd $2,500Subs. $5,000
+      - $10,000
+    * - 17 RCNY § 12-19
+      - Committed an act prohibited to wholesalers and seafood deliverers in the seafood distribution area
+      - $1,500
+      - 2nd $3,000Subs. $7,500
+      - $10,000
+    * - 17 RCNY § 12-19(a)
+      - Solicited unloader to unload out of order (Wholesaler)
+      - $250
+      - 2nd $5003rd $750Subs. $1,000
+      - $10,000
+    * - 17 RCNY § 12-19(c)
+      - Authorized another to use business name (Wholesaler)
+      - $1,500
+      - 2nd $3,000Subs. $5,000
+      - $10,000
+    * - 17 RCNY § 12-19(c)
+      - Unauthorized transfer of registration number (Wholesaler)
+      - $1,000
+      - 2nd $2,500Subs. $5,000
+      - $10,000
+    * - 17 RCNY § 12-19(d)
+      - Authorized another to use registration number (Wholesaler)
+      - $1,500
+      - 2nd $3,000Subs. $5,000
+      - $10,000
+    * - 17 RCNY § 12-19(e)
+      - Subleased or allowed use of premises by unregistered person (Wholesaler)
+      - $1,500
+      - 2nd $3,000Subs. $5,000
+      - $10,000
+    * - 17 RCNY § 12-19(e)
+      - Allowed another to place seafood in stand space (Wholesaler)
+      - $1,000
+      - 2nd $2,500Subs. $5,000
+      - $10,000
+    * - 17 RCNY § 12-19(f)
+      - Conducted business under unregistered name (Wholesaler)
+      - $1,500
+      - 2nd $3,000Subs. $5,000
+      - $10,000
+    * - 17 RCNY § 12-19(g)
+      - Discard of seafood in violation of applicable federal, state, and city regulations (Wholesaler)
+      - $1,500
+      - 2nd $3,000Subs. $5,000
+      - $10,000
+    * - 17 RCNY § 12-19(o)
+      - Violation or failure to comply with any order or directive of the Commission (Wholesaler/Deliverer)
+      - $500
+      - 2nd $750Subs $1,000
+      - $10,000
+    * - 17 RCNY § 12-21(a)
+      - Failure to notify Commission of changes in registration information (Wholesaler/Deliverer)
+      - $500
+      - 2nd $1,0003rd $2,500Subs. $5,000
+      - $10,000
+    * - 17 RCNY § 12-21(a)/(b)
+      - Failure to notify Commission of material change in license information (Licensee)
+      - $1,000
+      - 2nd $1,5003rd $2,500Subs. $5,000
+      - $10,000
+    * - 17 RCNY § 12-21(c)
+      - Failure by licensee to provide notice of addition of principal
+      - $1,000
+      - 2nd $2,0003rd $3,000Subs. $5,000
+      - $10,000
+    * - 17 RCNY § 12-21(c)
+      - Failure to notify Commission of proposed addition of principal
+      - $1,000
+      - 2nd $1,5003rd $2,500Subs. $5,000
+      - $10,000
+    * - 17 RCNY § 12-23(c)
+      - Failure to surrender license upon suspension or revocation
+      - $2,500
+      - Subs. $5,000
+      - $10,000
+    * - 17 RCNY § 12-23(c)
+      - Failure to surrender identification card upon suspension/revocation of registration (Wholesaler/Deliverer)
+      - $1,000
+      - 2nd $2,500Subs. $5,000
+      - $10,000
+    * - 17 RCNY § 12-23(d)
+      - Failure to surrender photo identification card
+      - $1,000
+      - 2nd $2,5003rd $5,000
+      - $10,000
+    * - 17 RCNY § 12-30(a)
+      - Failure to obey and comply with any traffic direction of any police officer or employee of the Commission
+      - $250
+      - 2nd $5003rd $750Subs. $1,000
+      - $10,000
+    * - 17 RCNY § 12-30(b)
+      - Obstruction of traffic within the market and/or stopping of a vehicle or other conveyance in a non-designated place
+      - $250
+      - 2nd $5003rd $750Subs. $1,000
+      - $10,000
+    * - 17 RCNY § 12-30(c)
+      - Failure to remove disabled vehicle
+      - $250
+      - 2nd $5003rd $750Subs. $1,000
+      - $10,000
+    * - Admin. Code § 22-252(a)
+      - Failure to obtain identification card (for 11 to 30 days)
+      - $2,500
+      - Subs. $5,000
+      - $5,000
+    * - Admin. Code § 22-253(a)
+      - Failure to register wholesale and/or market businesses (single day)
+      - $1,000
+      - 2nd $2,500Subs. $5,000
+      - $5,000
+    * - Admin. Code § 22-253(a)
+      - Failure to register wholesale and/or market businesses 2 to 10 days
+      - $2,500
+      - Subs. $5,000
+      - $5,000
+    * - Admin. Code § 22-253(a)
+      - Failure to register wholesale and/or market businesses for 11 to 30 days
+      - $3,500
+      - Subs. $5,000
+      - $5,000
+    * - Admin. Code § 22-262
+      - Failure to surrender and/or cease to use registration, certification and/or number (single day)
+      - $2,500
+      - Subs. $5,000
+      - $5,000
+    * - Admin. Code § 22-262
+      - Failure to surrender and/or cease to use registration, certification and/or number for 2 to 10 days
+      - $3,500
+      - Subs. $5,000
+      - $5,000
+    * - Admin. Code § 22-262
+      - Failure to surrender and/or cease to use registration, certification and/or number for 11 and 30 days
+      - $5,000
+      - Subs. $5,000
+      - $5,000
+    * - Admin. Code § 22-262
+      - Failure to surrender and/or cease to use identification card (single day)
+      - $1,000
+      - 2nd $2,500Subs. $5,000
+      - $5,000
+    * - Admin. Code § 22-262
+      - Failure to surrender and/or cease to use identification card for 2 to 10 days
+      - $2,500
+      - Subs. $5,000
+      - $5,000
+    * - Admin. Code § 22-262
+      - Failure to surrender and/or cease to use identification card for 11 to 30 days
+      - $3,500
+      - Subs. $5,000
+      - $5,000
+~
+
+ 
+
+
+
 
 
 
@@ -3343,9 +4100,13 @@ Unless otherwise provided in this subchapter, the terms used herein shall have t
 *§ 13-04 Wholesaler Registration Required.* ::
 
 
-(a) No person shall operate a wholesale seafood business in the City of New York, outside the market area, without having first registered with the Commission and having received a registration or registration number from the Commission.
+(a) No person may operate a wholesale seafood business in the City of New York, outside the market area, without having first registered with the Commission and having received a registration or registration number from the Commission.
 
-(b) An application for a registration or renewal thereof shall be made on a form prescribed by the Commission. The application form shall be certified under penalty of perjury and signed by all the principals of the applicant business. If a renewal application is not submitted to the Commission with the time period as required by the Commission, the Commission may reject the renewal application and instead require the applicant to file a new application in accordance with the provisions pertaining top the application process as set forth in Chapter 1-A of Title 22 of the Code and this subchapter.
+(b) Any person who violates 17 RCNY § 13-04(a) will be subject to civil and criminal fines and penalties and injunctive relief as follows: For the first such violation, a civil penalty of $2,500; for the second such violation, a penalty of $5,000; and for subsequent violations, a penalty of $7,500; and for a default, a penalty of $10,000.
+
+(c) An application for a registration or renewal thereof must be made on a form prescribed by the Commission. The application form must be certified under penalty of perjury and signed by all the principals of the applicant business. If a renewal application is not submitted to the Commission with the time period as required by the Commission, the Commission may reject the renewal application and instead require the applicant to file a new application in accordance with the provisions pertaining to the application process as set forth in Chapter 1-A of Title 22 of the Code and this subchapter.
+
+
 
 
 
