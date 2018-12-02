@@ -3326,7 +3326,7 @@ Chapter 3: Cessation of Operation and Removal and Sealing of Refuse Burning Equi
 
 
 
-*§ 3-01 Cessation of Operation and Removal and Sealing of Refuse Burning Equip- ment.* ::
+*§ 3-01 Cessation of Operation and Removal and Sealing of Refuse Burning Equipment.* ::
 
 
 (a) Prohibition.
@@ -10763,7 +10763,7 @@ All work under a permit shall be performed by the permittee and/or persons direc
 
    (1) Curb valves shall be full port ball valves or non-rising stem gate valves designed for a minimum of 150 psi of working pressure.
 
-   (2) Curb valves shall be required on all domestic water service pipes larger than two (2) inch in size and on any water service pipe that provides for fire protection. All curb valves shall be set in the service pipe in the sidewalk area, and shall be located eighteen (18) inches from the curb or other such locations as may be approved by the Depart- ment.
+   (2) Curb valves shall be required on all domestic water service pipes larger than two (2) inch in size and on any water service pipe that provides for fire protection. All curb valves shall be set in the service pipe in the sidewalk area, and shall be located eighteen (18) inches from the curb or other such locations as may be approved by the Department.
 
    (3) All curb valves shall be provided with a tar coated iron extension box with a cover which is flush with the sidewalk. Each curb valve larger than two (2) inches in diameter shall be equipped with an operating nut at least one and one quarter (11/4) inch square. Curb valves two (2) inches and smaller in diameter may be full port ball valves equipped with a quarter turn shutoff nut.
 

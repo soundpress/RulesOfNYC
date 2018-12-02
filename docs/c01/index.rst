@@ -1,6 +1,19 @@
 Title 2: Board of Standards and Appeals
 ===================================================
 
+Chapter 2: Automotive Service Stations and Garages
+--------------------------------------------------
+
+
+
+*§ 2-01 Changes in Underground Storage Tank Number, Capacity or Location.* ::
+
+
+If on any automotive service station or storage garage which has been erected under a variance or permit granted by the Board, it is proposed to change the number, capacity or location of underground storage tanks in compliance with the requirements of the Administrative Code, such tank changes shall be deemed to be in substantial compliance with the terms and conditions of the Board's resolution affecting that automotive service station or garage, provided that all other requirements of the resolution in each case shall be complied with.
+
+
+
+
 Chapter 1: Rules of Practice and Procedures New York City Board of Standards and Appeals
 --------------------------------------------------
 
@@ -1124,102 +1137,6 @@ The Board may adopt, amend, or repeal any of its rules or regulations. When auth
 
 
 Upon written submission, an applicant may request a waiver of any section or subdivision of these Rules. To the extent authorized by law, the Board may waive rule provisions in an individual matter at any public hearing by vote of the Board in conformance with 2 RCNY § 1-11.5 either by addressing the request at the hearing or by adopting or denying a waiver through its written resolution.
-
-
-
-
-Chapter 2: Automotive Service Stations and Garages
---------------------------------------------------
-
-
-
-*§ 2-01 Changes in Underground Storage Tank Number, Capacity or Location.* ::
-
-
-If on any automotive service station or storage garage which has been erected under a variance or permit granted by the Board, it is proposed to change the number, capacity or location of underground storage tanks in compliance with the requirements of the Administrative Code, such tank changes shall be deemed to be in substantial compliance with the terms and conditions of the Board's resolution affecting that automotive service station or garage, provided that all other requirements of the resolution in each case shall be complied with.
-
-
-
-
-Chapter 4: Doors
---------------------------------------------------
-
-
-
-*§ 4-01 Automatic Door Operators.* ::
-
-
-All doors for which approved automatic operators which open by swinging inwardly or by sliding are used shall not constitute more than 50 percent of the required exits for any one particular building, and when such a door operator is used, only half the width of that door can be counted towards the total exit space required for a particular building. All such door operators shall meet the following requirements:
-
-(a) They shall be equipped so that in the event of power failure or fire they may be opened manually in the direction of exit travel by not more than a 30 pound force; and,
-
-(b) They may be closed manually when necessary to safeguard a means of egress; and,
-
-(c) Swinging panels shall provide a clear opening width in the 90° open position of not less than 32 inches, with no single leaf less than 24 inches in width; and,
-
-(d) When swinging panels are contained in sliding door units, they shall be operable when the sliding leaf or leaves retract to any point in the opening cycle; and,
-
-(e) They shall meet the requirements of the American National Standard for Power Operated Doors, ANSI A156.10-1979; and
-
-(f) They shall meet the requirements of ANSI/UL 325 (or ANSI/UL 1578 when it is adopted), shall be listed or labeled by a nationally recognized independent testing laboratory, and shall be under an inplant follow-up inspection service. These requirements shall be applicable to all such door operators approved in the past and those which shall be approved in the future, but shall not be applicable to particular installations of approved door operators which were installed before April 15, 1980.
-
-
-
-
-
-
-*§ 4-02 Marking of Transparent Glass Doors and Fixed Adjacent Glass Sidelights.* ::
-
-
-(a) Scope. These rules shall be applicable to all structures or any part thereof excepting one and two family structures.
-
-(b) Definitions.
-
-   Sidelights. Fixed panels of transparent glass which form part of or are immediately adjacent to and within six feet horizontally of the vertical edge of an opening in which transparent glass doors are located. For purposes of this section, a sidelight shall consist of transparent glass in which the transparent area above a reference line 18 inches above the adjacent ground, floor or equivalent surface is 80 percent or more of the remaining area of the panel above such reference line.
-
-   Transparent glass. Material predominantly ceramic in character which is not opaque and through which objects lying beyond are clearly visible. For the purpose of this section, rigid transparent plastic material shall be construed as transparent glass.
-
-   Transparent glass door. A door, manually or power actuated, fabricated of transparent glass, in which the transparent area above a reference line 18 inches above the bottom edge of the door is 80 percent or more of the remaining area of the door above such reference line.
-
-   Transparent safety glazing materials. Materials which will clearly transmit light and also minimize the possibility of cutting or piercing injuries resulting from breakage of the material. Materials covered by this definition include laminated glass, tempered glass (also known as heat-treated glass, heat-toughened glass, case-hardened glass or chemically tempered glass), wired glass, and rigid plastic.
-
-(c) Requirements. 
-
-   (1) Transparent glass doors and fixed adjacent transparent glass sidelights shall be marked in two areas on the glass surface thereof.
-
-   (2) Fixed adjacent transparent glass sidelights 20 inches or less in width with opaque stiles at least one and three-quarters inches in width shall be exempt from the marking requirements.
-
-   (3) Where the ground, floor or equivalent surface area in the path of approach to a fixed adjacent transparent glass sidelight from either side for a minimum distance of three feet from such sidelight is so arranged, constructed or designed as to deter persons from approaching such sidelight or a permanent barrier is installed in the path of approach, the sidelight shall be exempt from this requirement.
-
-   (4) Decorative pools, horticultural planting or similar installations shall be considered as indicating that the ground, floor or equivalent surface area is not a path of approach. Planters, benches and similar barriers which are securely fastened to the floor or wall to prevent their removal shall be considered as blocking the path of approach provided they shall be not less than 18 inches in height from the ground, floor or equivalent surface and extend across at least 2/3 of the total width of the glazed area of the sidelight.
-
-   (5) Fixed adjacent transparent glass sidelights which are supported by opaque sill and wall construction of at least 18 inches above the ground, floor or equivalent surface immediately adjacent shall be exempt from the marking requirements.
-
-   (6) Display windows in any establishment, building or structure which fall within the definition of a sidelight shall be exempt from the marking requirements if the top of the supporting sill and wall construction is not less than 18 inches above the ground, floor or equivalent surface immediately adjacent and the interior area is occupied with merchandise or similar displays to clearly indicate to the public that it is not a means of ingress or egress.
-
-(d) Marking locations. 
-
-   (1) One such area shall be located at least 30 inches but not more than 36 inches and the other at least 60 inches but not more than 66 inches above the ground, floor or equivalent surface below the door or sidelight. The use of horizontal separation bars, muntin bars or equivalent at least one and one-half inches in vertical dimension that extend across the total width of the glazed area and are located at least 40 inches but not more than 50 inches above the bottom of the door or sidelight is permitted in lieu of markings.
-
-   (2) The marking design shall be at least four inches in diameter if circular or four inches in its least dimension if elliptical or polygonal, or shall be at least 12 inches in horizontal dimension if the marking is less than four inches in its least dimension. In no event shall the vertical dimension of any marking including lettering be less than one and one-half inches in height. In addition to horizontal muntin bars, separation bars or equivalent, any of the following methods may be used to alert persons to the presence of transparent glass doors and fixed adjacent transparent glass sidelights in their path of movement:
-
-      (i) Chemical etching
-
-      (ii) Sand blasting
-
-      (iii) Adhesive strips not less than one and one-half inches in vertical dimension extending across at least two-thirds of the total glazed area
-
-      (iv) Decals
-
-      (v) Paint, gilding or other opaque marking materials
-
-      (vi) Opaque door pulls or push bars extending across at least two-thirds of the total width of the glazed area.
-
-(e) Replacement and new installations. 
-
-   (1) Any transparent glazing material used for replacement in existing transparent glass doors after January 1, 1969 shall be transparent safety glazing material. Transparent safety glazing material shall be used in all new transparent glass doors installed after January 1, 1969. The manufacturer's permanent identification mark denoting safety glazing materials shall be visible on the glass after installation of the door.
-
-   (2) Replacement of fixed adjacent transparent glass sidelights after January 1, 1969 shall be of transparent safety glazing material or annealed glass at least one-half inch in thickness. New fixed adjacent transparent glass sidelights installed after January 1, 1969 shall be of transparent safety glazing material or annealed glass at least one-half inch in thickness. The manufacturer's permanent identification mark denoting safety glazing material shall be visible on the glass after installation of the sidelight. Note: If safety glazing material is not immediately available as replacement glass in transparent glass doors and fixed adjacent transparent glass sidelights, temporary relief from the requirements rule may be sought by petitioning the Board of Standards and Appeals of the City of New York for a modification.
 
 
 
@@ -3349,6 +3266,89 @@ TABLE III MAXIMUM SPAN FOR SCAFFOLD PLANK
 
 
  
+
+
+
+
+Chapter 4: Doors
+--------------------------------------------------
+
+
+
+*§ 4-01 Automatic Door Operators.* ::
+
+
+All doors for which approved automatic operators which open by swinging inwardly or by sliding are used shall not constitute more than 50 percent of the required exits for any one particular building, and when such a door operator is used, only half the width of that door can be counted towards the total exit space required for a particular building. All such door operators shall meet the following requirements:
+
+(a) They shall be equipped so that in the event of power failure or fire they may be opened manually in the direction of exit travel by not more than a 30 pound force; and,
+
+(b) They may be closed manually when necessary to safeguard a means of egress; and,
+
+(c) Swinging panels shall provide a clear opening width in the 90° open position of not less than 32 inches, with no single leaf less than 24 inches in width; and,
+
+(d) When swinging panels are contained in sliding door units, they shall be operable when the sliding leaf or leaves retract to any point in the opening cycle; and,
+
+(e) They shall meet the requirements of the American National Standard for Power Operated Doors, ANSI A156.10-1979; and
+
+(f) They shall meet the requirements of ANSI/UL 325 (or ANSI/UL 1578 when it is adopted), shall be listed or labeled by a nationally recognized independent testing laboratory, and shall be under an inplant follow-up inspection service. These requirements shall be applicable to all such door operators approved in the past and those which shall be approved in the future, but shall not be applicable to particular installations of approved door operators which were installed before April 15, 1980.
+
+
+
+
+
+
+*§ 4-02 Marking of Transparent Glass Doors and Fixed Adjacent Glass Sidelights.* ::
+
+
+(a) Scope. These rules shall be applicable to all structures or any part thereof excepting one and two family structures.
+
+(b) Definitions.
+
+   Sidelights. Fixed panels of transparent glass which form part of or are immediately adjacent to and within six feet horizontally of the vertical edge of an opening in which transparent glass doors are located. For purposes of this section, a sidelight shall consist of transparent glass in which the transparent area above a reference line 18 inches above the adjacent ground, floor or equivalent surface is 80 percent or more of the remaining area of the panel above such reference line.
+
+   Transparent glass. Material predominantly ceramic in character which is not opaque and through which objects lying beyond are clearly visible. For the purpose of this section, rigid transparent plastic material shall be construed as transparent glass.
+
+   Transparent glass door. A door, manually or power actuated, fabricated of transparent glass, in which the transparent area above a reference line 18 inches above the bottom edge of the door is 80 percent or more of the remaining area of the door above such reference line.
+
+   Transparent safety glazing materials. Materials which will clearly transmit light and also minimize the possibility of cutting or piercing injuries resulting from breakage of the material. Materials covered by this definition include laminated glass, tempered glass (also known as heat-treated glass, heat-toughened glass, case-hardened glass or chemically tempered glass), wired glass, and rigid plastic.
+
+(c) Requirements. 
+
+   (1) Transparent glass doors and fixed adjacent transparent glass sidelights shall be marked in two areas on the glass surface thereof.
+
+   (2) Fixed adjacent transparent glass sidelights 20 inches or less in width with opaque stiles at least one and three-quarters inches in width shall be exempt from the marking requirements.
+
+   (3) Where the ground, floor or equivalent surface area in the path of approach to a fixed adjacent transparent glass sidelight from either side for a minimum distance of three feet from such sidelight is so arranged, constructed or designed as to deter persons from approaching such sidelight or a permanent barrier is installed in the path of approach, the sidelight shall be exempt from this requirement.
+
+   (4) Decorative pools, horticultural planting or similar installations shall be considered as indicating that the ground, floor or equivalent surface area is not a path of approach. Planters, benches and similar barriers which are securely fastened to the floor or wall to prevent their removal shall be considered as blocking the path of approach provided they shall be not less than 18 inches in height from the ground, floor or equivalent surface and extend across at least 2/3 of the total width of the glazed area of the sidelight.
+
+   (5) Fixed adjacent transparent glass sidelights which are supported by opaque sill and wall construction of at least 18 inches above the ground, floor or equivalent surface immediately adjacent shall be exempt from the marking requirements.
+
+   (6) Display windows in any establishment, building or structure which fall within the definition of a sidelight shall be exempt from the marking requirements if the top of the supporting sill and wall construction is not less than 18 inches above the ground, floor or equivalent surface immediately adjacent and the interior area is occupied with merchandise or similar displays to clearly indicate to the public that it is not a means of ingress or egress.
+
+(d) Marking locations. 
+
+   (1) One such area shall be located at least 30 inches but not more than 36 inches and the other at least 60 inches but not more than 66 inches above the ground, floor or equivalent surface below the door or sidelight. The use of horizontal separation bars, muntin bars or equivalent at least one and one-half inches in vertical dimension that extend across the total width of the glazed area and are located at least 40 inches but not more than 50 inches above the bottom of the door or sidelight is permitted in lieu of markings.
+
+   (2) The marking design shall be at least four inches in diameter if circular or four inches in its least dimension if elliptical or polygonal, or shall be at least 12 inches in horizontal dimension if the marking is less than four inches in its least dimension. In no event shall the vertical dimension of any marking including lettering be less than one and one-half inches in height. In addition to horizontal muntin bars, separation bars or equivalent, any of the following methods may be used to alert persons to the presence of transparent glass doors and fixed adjacent transparent glass sidelights in their path of movement:
+
+      (i) Chemical etching
+
+      (ii) Sand blasting
+
+      (iii) Adhesive strips not less than one and one-half inches in vertical dimension extending across at least two-thirds of the total glazed area
+
+      (iv) Decals
+
+      (v) Paint, gilding or other opaque marking materials
+
+      (vi) Opaque door pulls or push bars extending across at least two-thirds of the total width of the glazed area.
+
+(e) Replacement and new installations. 
+
+   (1) Any transparent glazing material used for replacement in existing transparent glass doors after January 1, 1969 shall be transparent safety glazing material. Transparent safety glazing material shall be used in all new transparent glass doors installed after January 1, 1969. The manufacturer's permanent identification mark denoting safety glazing materials shall be visible on the glass after installation of the door.
+
+   (2) Replacement of fixed adjacent transparent glass sidelights after January 1, 1969 shall be of transparent safety glazing material or annealed glass at least one-half inch in thickness. New fixed adjacent transparent glass sidelights installed after January 1, 1969 shall be of transparent safety glazing material or annealed glass at least one-half inch in thickness. The manufacturer's permanent identification mark denoting safety glazing material shall be visible on the glass after installation of the sidelight. Note: If safety glazing material is not immediately available as replacement glass in transparent glass doors and fixed adjacent transparent glass sidelights, temporary relief from the requirements rule may be sought by petitioning the Board of Standards and Appeals of the City of New York for a modification.
 
 
 

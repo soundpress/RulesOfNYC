@@ -15072,7 +15072,7 @@ Chapter 33: Housing and Urban Renewal Projects and Programs
 
    (5) The Project addresses a housing need which has not been and is not likely to be fully alleviated by the operations of the private housing market, and the Site is appropriate for inclusion in the Project.
 
-   (6) The Project would return the Site to private ownership and/or private manage- ment.
+   (6) The Project would return the Site to private ownership and/or private management.
 
    (7) The interest of one or more private parties in the Site creates special opportunities to develop the Site in unique and beneficial ways, including, but not limited to, ways which provide housing for persons with special needs, maximize City revenue, permit development with less Assistance than would be required if the Site were in another Project or Program, permit production of a greater number of units or a greater proportion of lower income units than would be produced if the Site were in another Project or Program, and/or permit development of more ancillary open space or other public facilities.
 
@@ -15118,7 +15118,7 @@ Chapter 33: Housing and Urban Renewal Projects and Programs
 
       (i) Time Period. The deadline for submissions shall be a reasonable period of time after the advertisement first appears and shall be stated in the RFQ.
 
-      (ii) Fee. The Agency may require an Applicant to pay such non-refundable fee as is determined by the Agency to be appropriate upon submission of a qualification state- ment.
+      (ii) Fee. The Agency may require an Applicant to pay such non-refundable fee as is determined by the Agency to be appropriate upon submission of a qualification statement.
 
       (iii) Completeness. The Agency shall require qualification statements to be submitted in the format and number prescribed in the RFQ and to contain all information and forms required therein.
 

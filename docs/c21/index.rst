@@ -3742,7 +3742,7 @@ The Deputy Commissioner of Trials shall have jurisdiction over disciplinary matt
 
 (d) Notice of Scheduling Conference or Hearing. 
 
-   (1) The Department shall serve the respondent with notice of the date, time and place of the Scheduling Conference or Hearing. The Scheduling Conference shall be conducted for purposes of setting a timetable within which to proceed with the Hearing. A Hearing shall be afforded to the respondent within a reasonable time. A Notice of Hearing shall contain a statement of the authority and jurisdiction under which the Hearing is being conducted, notice of the respondent's right to be represented by an attorney or other representative, the require- ment that the respondent's representative file a Notice of Appearance with the Deputy Commissioner of Trials prior to engaging in any act of representation and notice that failure of the respondent or the respondent's representative to appear may result in an adverse decision and waiver of the right to a Hearing or other disposition as against the respondent.
+   (1) The Department shall serve the respondent with notice of the date, time and place of the Scheduling Conference or Hearing. The Scheduling Conference shall be conducted for purposes of setting a timetable within which to proceed with the Hearing. A Hearing shall be afforded to the respondent within a reasonable time. A Notice of Hearing shall contain a statement of the authority and jurisdiction under which the Hearing is being conducted, notice of the respondent's right to be represented by an attorney or other representative, the requirement that the respondent's representative file a Notice of Appearance with the Deputy Commissioner of Trials prior to engaging in any act of representation and notice that failure of the respondent or the respondent's representative to appear may result in an adverse decision and waiver of the right to a Hearing or other disposition as against the respondent.
 
    (2) The Notice of Hearing or Scheduling Conference shall be served personally or by mail. Appropriate proof of service shall be required. If the respondent is served personally, there shall be at least eight days notice provided. If respondent is served by mail at least thirteen days notice shall be provided, from the time of mailing. The Deputy Commissioner of Trials may modify these time periods.
 
@@ -3994,7 +3994,7 @@ In any case substantiated by the CCRB in which the Police Commissioner intends t
 *§ 15-21 Definitions.* ::
 
 
-Department. The term "Department" shall mean the New York City Police Depart- ment.
+Department. The term "Department" shall mean the New York City Police Department.
 
 Handgun. The term "handgun" shall mean a pistol or revolver.
 

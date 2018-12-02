@@ -4533,7 +4533,7 @@ Chapter 13: Cessation of Operation and Removal and Sealing of Refuse Burning Equ
 
 
 
-*§ 13-01 Cessation of Operation and Removal and Sealing of Refuse Burning Equip- ment.* ::
+*§ 13-01 Cessation of Operation and Removal and Sealing of Refuse Burning Equipment.* ::
 
 
 (a) Prohibition.

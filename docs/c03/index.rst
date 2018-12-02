@@ -2465,7 +2465,7 @@ Sellers must comply with the provisions of § 369-ee of the New York State Gener
 
       (i) locations which do not have certain items mentioned and
 
-      (ii) locations which charge rates higher than those mentioned in the advertise- ment. Where such locations are not known and cannot be reasonably ascertained, a seller must include the following statement in the advertisement: "Not available at all locations." The seller shall also include a statement in the advertisement that indicates how a consumer may obtain information about the availability of an item at a specific location such as: "Check with your local store for availability."
+      (ii) locations which charge rates higher than those mentioned in the advertisement. Where such locations are not known and cannot be reasonably ascertained, a seller must include the following statement in the advertisement: "Not available at all locations." The seller shall also include a statement in the advertisement that indicates how a consumer may obtain information about the availability of an item at a specific location such as: "Check with your local store for availability."
 
    (2) That advertised prices are available only during certain days or times.
 
