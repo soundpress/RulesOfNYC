@@ -4468,6 +4468,129 @@ The provisions of the Civil Practice Law and Rules or any other law relative to 
 
 
 
+Chapter 8: Court and Trust Funds
+--------------------------------------------------
+
+
+
+*§ 8-01 Deposit with Commissioner of Finance of Funds or Securities.* ::
+
+
+Each deposit of money or securities with the Commissioner of Finance must be accompanied by either:
+
+(a) a certified copy of the judgment, order or decree directing the deposit or payment into court, or an excerpt thereof that includes such direction, under the seal of the court, or
+
+(b) a certificate, under the seal of the court, made by the clerk of the court whose duty it is first to receive the deposit in cases in which moneys or securities may be deposited or paid into court pursuant to statute. For example, a tender into court, a deposit to discharge a judgment or a mechanic's lien, security for costs in certain cases; deposits of civil bail; a surplus arising upon the sale of property by a sheriff under an execution or by a referee in mortgage foreclosure proceedings by advertising. This certificate must contain the following information:
+
+   (1) name of court, or source of receipt if deposited without court order;
+
+   (2) title of the action or proceeding;
+
+   (3) by whom, for whom, and for what purpose the deposit is made;
+
+   (4) date of original receipt by official making deposit; and
+
+   (5) if the deposit consists of cash, the amount thereof, or if it be securities, the nature and description of the same.
+
+
+
+
+
+
+*§ 8-02 Necessity of Certified Court Order for Payment.* ::
+
+
+(a) No payment, investment, surrender or delivery of court funds, property or security may be made by the Commissioner of Finance or any depositary, without a certified copy of an order or decree of the court having jurisdiction of such funds, property and securities, directing each such payment, investment, surrender or delivery. Payments may not be made on affidavits and proof of age alone. Moneys deposited for or on behalf of an infant payable when the infant attains his majority are not to be paid under the order directing the deposit unless that order also expressly directs the payment of such money on or after the day, month and year therein specified when the infant becomes of legal age.
+
+(b) Court orders must be certified by the clerk of the court .
+
+(c) When the whole or remaining balance of payments of money into court in an action, or of a distributive share thereof, or any security or other property, is directed to be paid out of court, the order must direct the payment of all accrued income belonging to the party to whom such money or distributive share or remaining balance thereof, or security or other property is paid.
+
+(d) If it is desired that the check for payment be mailed to the attorney for the claimant, a direction to that effect must be incorporated in the order of payment.
+
+
+
+
+
+
+*§ 8-03 Certificate of Deposit by Commissioner of Finance.* ::
+
+
+A certificate of deposit or other document showing the amount of money held by the Commissioner of Finance for the benefit of any person will be issued by the Court and Trust Fund Division of the Department of Finance upon fulfillment of the following prerequisites:
+
+(a) An application on forms furnished by the Department of Finance must be completed and filed by the person claiming the right to possession of the funds, or by an attorney acting on his behalf.
+
+(b) The Commissioner of Finance or his designee may require the claimant to appear at the Commissioner's office and to produce satisfactory evidence of the fact that the claimant is the person lawfully entitled to possession of the funds, and to complete and file additional written statements to satisfactorily establish the claimant's right to the funds. If the claimant is absent from the City or is unable to appear in person at the Commissioner of Finance's office by reason of physical or other disability, or by reason of military service, satisfactory proof of such fact may be required, and an attorney or other person acting on behalf of the claimant may be required to produce proof of his or her authority to act. At any time after the issuance of a certificate of deposit, and up to the actual payment of the funds on deposit to the claimant or to such other person as may be entitled thereto, the Commissioner of Finance or the Commissioner's designee may require proof similar to that described in this section, as well as copies of the petition, affidavits and exhibits upon which the order was granted.
+
+
+
+
+
+
+*§ 8-04 Vouchers.* ::
+
+
+Any of the following will be considered a proper voucher for payments of money out of court, by the Department of Finance.
+
+(a) A check properly endorsed and bearing proper evidence of payment by the bank on which it was drawn to the person or persons to whom payment was directed to be made.
+
+(b) A proper receipt or voucher signed by the person or persons to whom payment is directed to be made or to whom securities or other property are directed to be assigned or delivered. Such receipt must be filed at the time of any payment, assignment or delivery directed by the order of the court.
+
+
+
+
+
+
+*§ 8-05 Transfer of Funds.* ::
+
+
+Funds may not be transferred from one depositary to another except pursuant to the direction of a court order, or of the State Comptroller.
+
+
+
+
+
+
+*§ 8-06 Fees.* ::
+
+
+(a) The Commissioner of Finance is entitled, for services, to the following fees:
+
+   For each certificate of deposit - $1
+
+   Upon moneys paid out of court - 2% except as set forth in subdivision (c)
+
+   Upon moneys invested - 1/2 of 1%
+
+   Upon securities deposited in court and received by the Commissioner - 2 percent of the par value of the securities
+
+   Upon investments transferred or assigned out of court by the Commissioner, when the investments have been made by the Commissioner - 2 percent of the par value of the investments.
+
+(b) Unless the court otherwise specially directs, all fees for payment of money out of court will be deducted from the amount paid and not from the balance remaining to the credit of the action or proceeding. However, if a judgment or other evidence of debt is a lien upon the funds or portion thereof, or the expenses of litigation (such as referee's fees, county clerk's fees or subpoena fees, etc.) are directed to be paid therefrom, the fees of the Department of Finance are to be deducted from the sum or sums remaining of the share or shares which bear such expenses, if sufficient; if insufficient, the amount to be applied to such expenses is the amount remaining of such sum or sums after deducting the fees of the Department of Finance.
+
+(c) The Department waives the fees to which the Commissioner is entitled pursuant to subdivisions 1, 3 and 4 of Section 99-m of the general municipal law.
+
+
+
+
+
+
+
+
+*§ 8-07 Depositaries.* ::
+
+
+(a) Books of account. Each duly designated depositary is required to keep a separate account for each action or proceeding, in connection with which funds or moneys are deposited therein, showing the name of the court, the title of the action or proceeding, the amount deposited, the date of receipt, from whom received and a record of each additional receipt or credit of interest to and each withdrawal of moneys therefrom. Also an account of each change of investment if any.
+
+(b) Payment of interest. Depositaries are required to pay interest on deposits of money paid into courts of record at a rate satisfactory to the State, Comptroller and in no event less than the highest rate being paid by the depositary on other accounts having similar maturities. Such interest must be computed from the date of deposit to the date of withdrawal, except that no interest shall be payable on moneys withdrawn within 30 days from the date of deposit. Interest is to be credited not less often than January 1 and July 1 of each year.
+
+(c) Certificate of balances. Each depositary shall furnish annually to the Commissioner of Finance from whom deposits of money paid into court have been received, a certificate of the proper officer of such depositary stating the exact mount on deposit to the credit of each action and proceeding separately on December 31, including interest credits as of January 1 following. Such certificate shall be furnished within 10 days after December 31 in each year.
+
+(d) Undertakings and collateral. Depositaries, other than savings banks, are required to execute and deliver undertakings and to pledge collateral to secure deposits of court and trust funds, as may be required by the State Comptroller.
+
+
+
+
 Chapter 7: Commercial Rent Tax
 --------------------------------------------------
 
@@ -5389,129 +5512,6 @@ A notice authorized or required by the law may be given to the person for whom i
 
 
 The provisions of the Civil Practice Law and Rules or any other law relative to limitations of time for the enforcement of a civil remedy shall not apply to any proceeding or action taken by the City to levy, appraise, assess, determine or enforce the collection of any tax or penalty provided by the law. However, except in the case of a willfully false or fraudulent return with intent to evade the tax, no assessment of additional tax shall be amended after the expiration of more than three years from the date of filing the final return for the tax year to which the assessment relates; provided, however, that where no return has been made as provided by law, the tax may be assessed at any time. Where, before the expiration of the period prescribed for the assessment of an additional tax, a person has consented in writing that such period be extended, the amount of such additional tax due may be determined at any time within such extended period. The period so extended may be further extended by subsequent consent in writing before the expiration of the extended period.
-
-
-
-
-Chapter 8: Court and Trust Funds
---------------------------------------------------
-
-
-
-*§ 8-01 Deposit with Commissioner of Finance of Funds or Securities.* ::
-
-
-Each deposit of money or securities with the Commissioner of Finance must be accompanied by either:
-
-(a) a certified copy of the judgment, order or decree directing the deposit or payment into court, or an excerpt thereof that includes such direction, under the seal of the court, or
-
-(b) a certificate, under the seal of the court, made by the clerk of the court whose duty it is first to receive the deposit in cases in which moneys or securities may be deposited or paid into court pursuant to statute. For example, a tender into court, a deposit to discharge a judgment or a mechanic's lien, security for costs in certain cases; deposits of civil bail; a surplus arising upon the sale of property by a sheriff under an execution or by a referee in mortgage foreclosure proceedings by advertising. This certificate must contain the following information:
-
-   (1) name of court, or source of receipt if deposited without court order;
-
-   (2) title of the action or proceeding;
-
-   (3) by whom, for whom, and for what purpose the deposit is made;
-
-   (4) date of original receipt by official making deposit; and
-
-   (5) if the deposit consists of cash, the amount thereof, or if it be securities, the nature and description of the same.
-
-
-
-
-
-
-*§ 8-02 Necessity of Certified Court Order for Payment.* ::
-
-
-(a) No payment, investment, surrender or delivery of court funds, property or security may be made by the Commissioner of Finance or any depositary, without a certified copy of an order or decree of the court having jurisdiction of such funds, property and securities, directing each such payment, investment, surrender or delivery. Payments may not be made on affidavits and proof of age alone. Moneys deposited for or on behalf of an infant payable when the infant attains his majority are not to be paid under the order directing the deposit unless that order also expressly directs the payment of such money on or after the day, month and year therein specified when the infant becomes of legal age.
-
-(b) Court orders must be certified by the clerk of the court .
-
-(c) When the whole or remaining balance of payments of money into court in an action, or of a distributive share thereof, or any security or other property, is directed to be paid out of court, the order must direct the payment of all accrued income belonging to the party to whom such money or distributive share or remaining balance thereof, or security or other property is paid.
-
-(d) If it is desired that the check for payment be mailed to the attorney for the claimant, a direction to that effect must be incorporated in the order of payment.
-
-
-
-
-
-
-*§ 8-03 Certificate of Deposit by Commissioner of Finance.* ::
-
-
-A certificate of deposit or other document showing the amount of money held by the Commissioner of Finance for the benefit of any person will be issued by the Court and Trust Fund Division of the Department of Finance upon fulfillment of the following prerequisites:
-
-(a) An application on forms furnished by the Department of Finance must be completed and filed by the person claiming the right to possession of the funds, or by an attorney acting on his behalf.
-
-(b) The Commissioner of Finance or his designee may require the claimant to appear at the Commissioner's office and to produce satisfactory evidence of the fact that the claimant is the person lawfully entitled to possession of the funds, and to complete and file additional written statements to satisfactorily establish the claimant's right to the funds. If the claimant is absent from the City or is unable to appear in person at the Commissioner of Finance's office by reason of physical or other disability, or by reason of military service, satisfactory proof of such fact may be required, and an attorney or other person acting on behalf of the claimant may be required to produce proof of his or her authority to act. At any time after the issuance of a certificate of deposit, and up to the actual payment of the funds on deposit to the claimant or to such other person as may be entitled thereto, the Commissioner of Finance or the Commissioner's designee may require proof similar to that described in this section, as well as copies of the petition, affidavits and exhibits upon which the order was granted.
-
-
-
-
-
-
-*§ 8-04 Vouchers.* ::
-
-
-Any of the following will be considered a proper voucher for payments of money out of court, by the Department of Finance.
-
-(a) A check properly endorsed and bearing proper evidence of payment by the bank on which it was drawn to the person or persons to whom payment was directed to be made.
-
-(b) A proper receipt or voucher signed by the person or persons to whom payment is directed to be made or to whom securities or other property are directed to be assigned or delivered. Such receipt must be filed at the time of any payment, assignment or delivery directed by the order of the court.
-
-
-
-
-
-
-*§ 8-05 Transfer of Funds.* ::
-
-
-Funds may not be transferred from one depositary to another except pursuant to the direction of a court order, or of the State Comptroller.
-
-
-
-
-
-
-*§ 8-06 Fees.* ::
-
-
-(a) The Commissioner of Finance is entitled, for services, to the following fees:
-
-   For each certificate of deposit - $1
-
-   Upon moneys paid out of court - 2% except as set forth in subdivision (c)
-
-   Upon moneys invested - 1/2 of 1%
-
-   Upon securities deposited in court and received by the Commissioner - 2 percent of the par value of the securities
-
-   Upon investments transferred or assigned out of court by the Commissioner, when the investments have been made by the Commissioner - 2 percent of the par value of the investments.
-
-(b) Unless the court otherwise specially directs, all fees for payment of money out of court will be deducted from the amount paid and not from the balance remaining to the credit of the action or proceeding. However, if a judgment or other evidence of debt is a lien upon the funds or portion thereof, or the expenses of litigation (such as referee's fees, county clerk's fees or subpoena fees, etc.) are directed to be paid therefrom, the fees of the Department of Finance are to be deducted from the sum or sums remaining of the share or shares which bear such expenses, if sufficient; if insufficient, the amount to be applied to such expenses is the amount remaining of such sum or sums after deducting the fees of the Department of Finance.
-
-(c) The Department waives the fees to which the Commissioner is entitled pursuant to subdivisions 1, 3 and 4 of Section 99-m of the general municipal law.
-
-
-
-
-
-
-
-
-*§ 8-07 Depositaries.* ::
-
-
-(a) Books of account. Each duly designated depositary is required to keep a separate account for each action or proceeding, in connection with which funds or moneys are deposited therein, showing the name of the court, the title of the action or proceeding, the amount deposited, the date of receipt, from whom received and a record of each additional receipt or credit of interest to and each withdrawal of moneys therefrom. Also an account of each change of investment if any.
-
-(b) Payment of interest. Depositaries are required to pay interest on deposits of money paid into courts of record at a rate satisfactory to the State, Comptroller and in no event less than the highest rate being paid by the depositary on other accounts having similar maturities. Such interest must be computed from the date of deposit to the date of withdrawal, except that no interest shall be payable on moneys withdrawn within 30 days from the date of deposit. Interest is to be credited not less often than January 1 and July 1 of each year.
-
-(c) Certificate of balances. Each depositary shall furnish annually to the Commissioner of Finance from whom deposits of money paid into court have been received, a certificate of the proper officer of such depositary stating the exact mount on deposit to the credit of each action and proceeding separately on December 31, including interest credits as of January 1 following. Such certificate shall be furnished within 10 days after December 31 in each year.
-
-(d) Undertakings and collateral. Depositaries, other than savings banks, are required to execute and deliver undertakings and to pledge collateral to secure deposits of court and trust funds, as may be required by the State Comptroller.
 
 
 
@@ -9672,6 +9672,133 @@ As a condition of eligibility for benefits under this program, there must be no 
 
 
 
+Chapter 16: Letter Rulings
+--------------------------------------------------
+
+
+
+*§ 16-01 General – Definition and Nature of Letter Rulings.* ::
+
+
+(a) A letter ruling is a written statement setting forth the applicability of statutory and regulatory provisions of any tax or charge administered by the Department of Finance, to a specified set of facts. Letter rulings are issued on behalf of the Commissioner of Finance by the Deputy Commissioner for Legal Affairs, to whom the Commissioner of Finance's authority to issue letter rulings is delegated.
+
+(b) Areas in which letter rulings may be requested. Any person may request a ruling relating to any tax or charge administered by the Department of Finance. A letter ruling may be sought with respect to a substantive question or a procedural one. Rulings may be requested with respect to questions arising in the course of an audit or an examination of a tax return, or with respect to questions relating to a taxpayer's claim for refund or credit.
+
+(c) Areas in which letter rulings will not be issued. No ruling will be issued:
+
+   (1) covering an issue or set of facts regarding which a notice of determination or a notice of disallowance of a claim for refund or credit has been issued to the taxpayer; or
+
+   (2) covering an issue or set of facts regarding which any taxpayer has been granted leave to appeal or regarding which the Department of Finance is seeking or has been granted leave to appeal an adverse decision to any court of the State of New York or the United States; or
+
+   (3) covering an issue which is clearly and adequately addressed by statutes, regulations, published rulings or other official pronouncements of the Department of Finance; or
+
+   (4) where the issue presented pertains to subject matter which, in accordance with a public pronouncement, is under study by the Department of Finance; or
+
+   (5) if the conclusion reached in such a ruling would require a factual determination which is properly an audit function.
+
+(d) Areas in which rulings will be issued at the discretion of the Deputy Commissioner for Legal Affairs. The Department of Finance reserves the right not to issue a ruling on hypothetical facts.
+
+
+
+
+
+
+*§ 16-02 Requests for Letter Rulings.* ::
+
+
+(a) Requests for a ruling should be typewritten, if possible, but handwritten requests will be accepted. The request must set forth the name, address and identification number (social security or federal employer identification number), the specific set of facts to which the request for a ruling relates, the exact issue to be resolved and all parties relative thereto. Copies of all tax returns, contracts, deeds, instruments or other documents relevant to the issues to be decided must be submitted. The request may include a presentation of the taxpayer's contentions as to the appropriate resolution of the issue raised in the request, together with any supporting arguments and citations of pertinent law or regulations. The taxpayer must state in the request whether or not the request relates to any matter currently under audit, or for which a notice of determination or a notice of disallowance of a claim for credit or refund has been issued, or for which there is a pending claim for credit or refund.
+
+(b) Representation of taxpayer.
+
+   (1) A request for a ruling may be made by an individual on his or her own behalf, by a member of a partnership (without filing any power of attorney) on behalf of the partnership, or by an officer or employee of a corporation on behalf of the corporation. Where a corporation acts through an employee, a power of attorney executed by an officer of the corporation must be filed.
+
+   (2) The adult spouse, parent, guardian or any person having legal custody of a minor, or a person who prepared the tax return of a minor, may request a ruling on behalf of such minor. A committee or conservator appointed pursuant to the Mental Hygiene Law, an attorney-in-fact acting pursuant to section 5-1601 of the General Obligations Law, or other person authorized by law, may request a ruling on behalf of an individual who is mentally or physically incapable of making such request.
+
+   (3) Any of the following may also file a request for a ruling on behalf of another individual or business entity if authorized by a power of attorney signed by such individual, by a member of a partnership or by an officer of a corporation:
+
+      (i) an attorney-at-law licensed to practice in any state;
+
+      (ii) a certified public accountant duly qualified to practice in any state;
+
+      (iii) a person admitted to practice before the Internal Revenue Service or before the Tax Court of the United States;
+
+      (iv) the taxpayer's spouse, domestic partner, child or parent. For purposes of this subparagraph, "domestic partner" means a person who has registered a domestic partnership in accordance with applicable law with the City Clerk, or has registered such partnership with the former City Department of Personnel pursuant to Executive Order 123  during the period August 7, 1989 through January 7, 1993. (The records of domestic partnerships registered at the former City Department of Personnel have been transferred to the City Clerk.) The power of attorney required by this section should be filed with the Office of Legal Affairs before or concurrent with the request for a ruling.
+
+(c) Method for requesting a ruling.
+
+   (1) A request for a ruling must be made on an application form prescribed by the Department of Finance and must be accompanied by a non-refundable processing fee as provided in the Regulations Relating to Fees to Be Charged by the Commissioner of Finance, in Addition to Those Now Fixed by Statute.
+
+   (2) A request for a ruling must be submitted to the Office of Legal Affairs, Department of Finance, 345 Adams Street, 3rd Floor, Brooklyn, N.Y. 11201.
+
+
+
+
+
+
+*§ 16-03 Procedure After Filing a Request for a Ruling.* ::
+
+
+(a) The Office of Legal Affairs will issue an acknowledgement letter upon receipt of a request for a ruling which, on its face, meets the procedural requirements of 19 RCNY §§ 16-01 and 16-02. Thereafter, the request will be reviewed for completeness and if it is determined that the request is not complete, or that additional information is required, a notice will be sent to the taxpayer advising him of the nature of the additional information required. The taxpayer may then revise and resubmit his request.
+
+(b) A taxpayer may withdraw a request for a ruling at any time within 30 days of the date of the acknowledgement letter. Thereafter, no request for a ruling may be withdrawn without the approval of the Office of Legal Affairs. Where a taxpayer withdraws a request for a ruling, the Department of Finance will not return the application fee accompanying such request. For purposes of the preceding sentence, failure to provide information requested by the Office of Legal Affairs may be deemed a withdrawal of a request for a ruling.
+
+
+
+
+
+
+*§ 16-04 Contents.* ::
+
+
+A ruling will identify the person to whom it is addressed by name and address. It will contain
+
+(a) a recitation of the facts having a bearing on the issue sought to be resolved,
+
+(b) a discussion of the pertinent statutory provisions, regulations and other precedential material relied upon,
+
+(c) a description of the reasoning upon which the conclusions are based, and
+
+(d) a statement of conclusions. Such stated conclusions will give direct answers, where possible, to the specific questions raised by the taxpayer. The discussion contained in the ruling will be set forth with a sufficient degree of detail as to fairly apprise the taxpayer of the bases for the conclusions reached.
+
+
+
+
+
+
+*§ 16-05 Effect.* ::
+
+
+(a) A ruling represents an expression of the views of the Department of Finance as to the application of law, regulations and other precedential material to the set of facts specified in the ruling request. A ruling shall be binding upon the Department of Finance only with respect to the person to whom the ruling is rendered, provided that the facts are as stated in the ruling request. A taxpayer may not rely on a ruling issued to another taxpayer. All bureaus of the Department of Finance must follow the conclusions stated in the ruling where the factual situations are the same.
+
+(b) A ruling may be revoked or modified at any time under appropriate circumstances. If a ruling is revoked or modified, the revocation or modification applies to all years open under the statutes, unless the Commissioner or the Commissioner's delegate exercises discretionary authority to limit the retroactive effect of the revocation or modification.
+
+(c) Except in rare or unusual circumstances, the revocation or modification of a ruling will not be applied retroactively to the taxpayer for whom the ruling was issued or to a taxpayer whose tax liability was directly involved in the ruling if
+
+   (1) there has been no misstatement or omission of material facts,
+
+   (2) the facts developed later are not materially different from the facts on which the ruling was based,
+
+   (3) there has been no change in the applicable law,
+
+   (4) the ruling was originally issued with respect to a prospective or proposed transaction, and
+
+   (5) the taxpayer directly involved in the ruling acted in good faith in reliance upon the ruling and the retroactive revocation would be to the taxpayer's detriment.
+
+
+
+
+
+
+*§ 16-06 Issuance, Publication and Availability.* ::
+
+
+(a) For all requests for rulings received by the Office of Legal Affairs, a ruling will be mailed to the taxpayer or the taxpayer's authorized representative within 90 days of the receipt of a complete request for such a ruling. The mailing of a ruling will constitute the rendering of a ruling. The 90-day period within which a ruling must be issued may be extended by the Commissioner of Finance for a period of up to 30 additional days. In such case, the taxpayer or the taxpayer's authorized representative will be notified of the extension and the reason therefor. At any time before their expiration, the 90-day or additional 30-day periods may be extended by a written agreement between the taxpayer and the Office of Legal Affairs.
+
+(b) Letter rulings may be published and made available to the public. The complete text of a letter ruling may be published, or made available, except that the taxpayer's name, address, identifying numbers and other factual information which may identify the taxpayer will be deleted. Requests for copies of a letter ruling may be made to the Department of Finance, Records Access Officer, 345 Adams Street, Brooklyn, N.Y. 11201. Copies will be furnished at a cost of 25 cents per page.
+
+
+
+
 Chapter 15: Treatment of An International Banking Facility For Purposes of the Financial Corporation Tax
 --------------------------------------------------
 
@@ -10047,133 +10174,6 @@ This regulation shall take effect immediately, and shall apply to all taxable ye
 
 
 
-Chapter 16: Letter Rulings
---------------------------------------------------
-
-
-
-*§ 16-01 General – Definition and Nature of Letter Rulings.* ::
-
-
-(a) A letter ruling is a written statement setting forth the applicability of statutory and regulatory provisions of any tax or charge administered by the Department of Finance, to a specified set of facts. Letter rulings are issued on behalf of the Commissioner of Finance by the Deputy Commissioner for Legal Affairs, to whom the Commissioner of Finance's authority to issue letter rulings is delegated.
-
-(b) Areas in which letter rulings may be requested. Any person may request a ruling relating to any tax or charge administered by the Department of Finance. A letter ruling may be sought with respect to a substantive question or a procedural one. Rulings may be requested with respect to questions arising in the course of an audit or an examination of a tax return, or with respect to questions relating to a taxpayer's claim for refund or credit.
-
-(c) Areas in which letter rulings will not be issued. No ruling will be issued:
-
-   (1) covering an issue or set of facts regarding which a notice of determination or a notice of disallowance of a claim for refund or credit has been issued to the taxpayer; or
-
-   (2) covering an issue or set of facts regarding which any taxpayer has been granted leave to appeal or regarding which the Department of Finance is seeking or has been granted leave to appeal an adverse decision to any court of the State of New York or the United States; or
-
-   (3) covering an issue which is clearly and adequately addressed by statutes, regulations, published rulings or other official pronouncements of the Department of Finance; or
-
-   (4) where the issue presented pertains to subject matter which, in accordance with a public pronouncement, is under study by the Department of Finance; or
-
-   (5) if the conclusion reached in such a ruling would require a factual determination which is properly an audit function.
-
-(d) Areas in which rulings will be issued at the discretion of the Deputy Commissioner for Legal Affairs. The Department of Finance reserves the right not to issue a ruling on hypothetical facts.
-
-
-
-
-
-
-*§ 16-02 Requests for Letter Rulings.* ::
-
-
-(a) Requests for a ruling should be typewritten, if possible, but handwritten requests will be accepted. The request must set forth the name, address and identification number (social security or federal employer identification number), the specific set of facts to which the request for a ruling relates, the exact issue to be resolved and all parties relative thereto. Copies of all tax returns, contracts, deeds, instruments or other documents relevant to the issues to be decided must be submitted. The request may include a presentation of the taxpayer's contentions as to the appropriate resolution of the issue raised in the request, together with any supporting arguments and citations of pertinent law or regulations. The taxpayer must state in the request whether or not the request relates to any matter currently under audit, or for which a notice of determination or a notice of disallowance of a claim for credit or refund has been issued, or for which there is a pending claim for credit or refund.
-
-(b) Representation of taxpayer.
-
-   (1) A request for a ruling may be made by an individual on his or her own behalf, by a member of a partnership (without filing any power of attorney) on behalf of the partnership, or by an officer or employee of a corporation on behalf of the corporation. Where a corporation acts through an employee, a power of attorney executed by an officer of the corporation must be filed.
-
-   (2) The adult spouse, parent, guardian or any person having legal custody of a minor, or a person who prepared the tax return of a minor, may request a ruling on behalf of such minor. A committee or conservator appointed pursuant to the Mental Hygiene Law, an attorney-in-fact acting pursuant to section 5-1601 of the General Obligations Law, or other person authorized by law, may request a ruling on behalf of an individual who is mentally or physically incapable of making such request.
-
-   (3) Any of the following may also file a request for a ruling on behalf of another individual or business entity if authorized by a power of attorney signed by such individual, by a member of a partnership or by an officer of a corporation:
-
-      (i) an attorney-at-law licensed to practice in any state;
-
-      (ii) a certified public accountant duly qualified to practice in any state;
-
-      (iii) a person admitted to practice before the Internal Revenue Service or before the Tax Court of the United States;
-
-      (iv) the taxpayer's spouse, domestic partner, child or parent. For purposes of this subparagraph, "domestic partner" means a person who has registered a domestic partnership in accordance with applicable law with the City Clerk, or has registered such partnership with the former City Department of Personnel pursuant to Executive Order 123  during the period August 7, 1989 through January 7, 1993. (The records of domestic partnerships registered at the former City Department of Personnel have been transferred to the City Clerk.) The power of attorney required by this section should be filed with the Office of Legal Affairs before or concurrent with the request for a ruling.
-
-(c) Method for requesting a ruling.
-
-   (1) A request for a ruling must be made on an application form prescribed by the Department of Finance and must be accompanied by a non-refundable processing fee as provided in the Regulations Relating to Fees to Be Charged by the Commissioner of Finance, in Addition to Those Now Fixed by Statute.
-
-   (2) A request for a ruling must be submitted to the Office of Legal Affairs, Department of Finance, 345 Adams Street, 3rd Floor, Brooklyn, N.Y. 11201.
-
-
-
-
-
-
-*§ 16-03 Procedure After Filing a Request for a Ruling.* ::
-
-
-(a) The Office of Legal Affairs will issue an acknowledgement letter upon receipt of a request for a ruling which, on its face, meets the procedural requirements of 19 RCNY §§ 16-01 and 16-02. Thereafter, the request will be reviewed for completeness and if it is determined that the request is not complete, or that additional information is required, a notice will be sent to the taxpayer advising him of the nature of the additional information required. The taxpayer may then revise and resubmit his request.
-
-(b) A taxpayer may withdraw a request for a ruling at any time within 30 days of the date of the acknowledgement letter. Thereafter, no request for a ruling may be withdrawn without the approval of the Office of Legal Affairs. Where a taxpayer withdraws a request for a ruling, the Department of Finance will not return the application fee accompanying such request. For purposes of the preceding sentence, failure to provide information requested by the Office of Legal Affairs may be deemed a withdrawal of a request for a ruling.
-
-
-
-
-
-
-*§ 16-04 Contents.* ::
-
-
-A ruling will identify the person to whom it is addressed by name and address. It will contain
-
-(a) a recitation of the facts having a bearing on the issue sought to be resolved,
-
-(b) a discussion of the pertinent statutory provisions, regulations and other precedential material relied upon,
-
-(c) a description of the reasoning upon which the conclusions are based, and
-
-(d) a statement of conclusions. Such stated conclusions will give direct answers, where possible, to the specific questions raised by the taxpayer. The discussion contained in the ruling will be set forth with a sufficient degree of detail as to fairly apprise the taxpayer of the bases for the conclusions reached.
-
-
-
-
-
-
-*§ 16-05 Effect.* ::
-
-
-(a) A ruling represents an expression of the views of the Department of Finance as to the application of law, regulations and other precedential material to the set of facts specified in the ruling request. A ruling shall be binding upon the Department of Finance only with respect to the person to whom the ruling is rendered, provided that the facts are as stated in the ruling request. A taxpayer may not rely on a ruling issued to another taxpayer. All bureaus of the Department of Finance must follow the conclusions stated in the ruling where the factual situations are the same.
-
-(b) A ruling may be revoked or modified at any time under appropriate circumstances. If a ruling is revoked or modified, the revocation or modification applies to all years open under the statutes, unless the Commissioner or the Commissioner's delegate exercises discretionary authority to limit the retroactive effect of the revocation or modification.
-
-(c) Except in rare or unusual circumstances, the revocation or modification of a ruling will not be applied retroactively to the taxpayer for whom the ruling was issued or to a taxpayer whose tax liability was directly involved in the ruling if
-
-   (1) there has been no misstatement or omission of material facts,
-
-   (2) the facts developed later are not materially different from the facts on which the ruling was based,
-
-   (3) there has been no change in the applicable law,
-
-   (4) the ruling was originally issued with respect to a prospective or proposed transaction, and
-
-   (5) the taxpayer directly involved in the ruling acted in good faith in reliance upon the ruling and the retroactive revocation would be to the taxpayer's detriment.
-
-
-
-
-
-
-*§ 16-06 Issuance, Publication and Availability.* ::
-
-
-(a) For all requests for rulings received by the Office of Legal Affairs, a ruling will be mailed to the taxpayer or the taxpayer's authorized representative within 90 days of the receipt of a complete request for such a ruling. The mailing of a ruling will constitute the rendering of a ruling. The 90-day period within which a ruling must be issued may be extended by the Commissioner of Finance for a period of up to 30 additional days. In such case, the taxpayer or the taxpayer's authorized representative will be notified of the extension and the reason therefor. At any time before their expiration, the 90-day or additional 30-day periods may be extended by a written agreement between the taxpayer and the Office of Legal Affairs.
-
-(b) Letter rulings may be published and made available to the public. The complete text of a letter ruling may be published, or made available, except that the taxpayer's name, address, identifying numbers and other factual information which may identify the taxpayer will be deleted. Requests for copies of a letter ruling may be made to the Department of Finance, Records Access Officer, 345 Adams Street, Brooklyn, N.Y. 11201. Copies will be furnished at a cost of 25 cents per page.
-
-
-
-
 Chapter 17: Filing Rules For New York City Income and Excise Taxes
 --------------------------------------------------
 
@@ -10462,6 +10462,55 @@ To be eligible for approval as the coordinating agency, a charitable non-profit 
 
 
 
+Chapter 20: Peddler License Renewals (Tax Standards)
+--------------------------------------------------
+
+
+
+*§ 20-01 General.* ::
+
+
+In connection with the renewal of licenses by food and general vendors, and pursuant to § 17-310(c) (pertaining to food vendors) and § 20-457(c) (pertaining to general vendors) of the Administrative Code of the City of New York, the Commissioner of Finance is directed to establish
+
+(a) standards of sales tax payments sufficient to indicate whether the licensee has been operating on a full-time or part-time basis, and
+
+(b) a minimum amount of all applicable sales and business taxes imposed by Title 11 of the Administrative Code and administered by the Commissioner of Finance that the vendor-licensee was required to have paid during the preceding calendar year. No licensee will be granted a renewal of a license unless the licensee is in compliance with these regulations, provided, however, that the Commissioner of Health (for food vendors) and the Commissioner of Consumer Affairs (for general vendors) may excuse failure to comply when such failure results from illness or disability. Nothing herein shall be deemed to relieve the licensee from liability for any and all City or State taxes as may be applicable or from the filing and payment requirements of such taxes.
+
+
+
+
+
+
+*§ 20-02 Food Vendors.* ::
+
+
+(§ 17-310(c), Chapter 3, Title 17 of the Administrative Code).
+
+(a) For purposes of § 17-310(c), with respect to individual vendors who are required to collect and pay over sales taxes due to the making of taxable sales, a full time food vendor is defined as a food vendor whose sales tax payments are not less than $550.00 per year.
+
+(b) For purposes of § 17-310(c), with respect to individual vendors who are required to collect and pay over taxes due to the making of taxable sales, a part time food vendor is defined as any food vendor whose sales tax payments are not less than $220.00 per year nor more than $549.99 per year.
+
+(c) The minimum amount of applicable sales taxes that the vendor-licensee making taxable sales is required to have paid during the preceding calendar year is, in the case of a full time vendor, $550.00, and the case of a part time vendor, $220.00. No minimum applies with respect to the business taxes imposed by the Administrative Code.
+
+
+
+
+
+
+*§ 20-03 General Vendors.* ::
+
+
+(§ 20-457(c), Subchapter 27 of Chapter 2 of Title 20 of the Administrative Code).
+
+(a) For purposes of § 20-457(c), with respect to individual vendors who are required to collect and pay over sales taxes due to the making of taxable sales, a full time general vendor is defined as a general vendor whose sales tax payments are not less than $400.00 per year.
+
+(b) For purposes of § 20-457(c), with respect to individual vendors who are required to collect and pay over sales taxes due to the making of taxable sales, a part time general vendor is defined as a general vendor whose sales tax payments are not less than $160.00 per year nor more than $399.99 per year.
+
+(c) The minimum amount of applicable sales taxes that the vendor-licensee making taxable sales is required to have paid during the preceding calendar year is, in the case of a full-time vendor, $400.00, and in the case of a part-time vendor, $160.00. No minimum applies with respect to the business taxes imposed by the Administrative Code.
+
+
+
+
 Chapter 19: Parking Tax Exemption
 --------------------------------------------------
 
@@ -10587,55 +10636,6 @@ Vendor. "Vendor" means a person operating a garage, parking lot, or other place 
 (a) Any person not meeting the requirements for exemption who wrongfully obtains or uses an exemption certificate shall, in addition to the tax due, be liable for a penalty of not more than one hundred dollars if such certificate was obtained or used through negligence, and a penalty of not more than five hundred dollars if such certificate was obtained or used through fraud. The term "uses" includes failure to notify the vendor and the Department of Finance of change of parking location or primary residence, sale or transfer of the vehicle for which a certificate was issued, commercial use or other reason for loss of eligibility for exemption. These penalties shall be in addition to any penalties imposed under Section 1145 of Article 28 of the New York State Tax Law.
 
 (b) An individual resident shall not be entitled to a refund or credit with respect to any amount of tax paid to a vendor prior to the date such individual resident submitted to the vendor a valid exemption certificate.
-
-
-
-
-Chapter 20: Peddler License Renewals (Tax Standards)
---------------------------------------------------
-
-
-
-*§ 20-01 General.* ::
-
-
-In connection with the renewal of licenses by food and general vendors, and pursuant to § 17-310(c) (pertaining to food vendors) and § 20-457(c) (pertaining to general vendors) of the Administrative Code of the City of New York, the Commissioner of Finance is directed to establish
-
-(a) standards of sales tax payments sufficient to indicate whether the licensee has been operating on a full-time or part-time basis, and
-
-(b) a minimum amount of all applicable sales and business taxes imposed by Title 11 of the Administrative Code and administered by the Commissioner of Finance that the vendor-licensee was required to have paid during the preceding calendar year. No licensee will be granted a renewal of a license unless the licensee is in compliance with these regulations, provided, however, that the Commissioner of Health (for food vendors) and the Commissioner of Consumer Affairs (for general vendors) may excuse failure to comply when such failure results from illness or disability. Nothing herein shall be deemed to relieve the licensee from liability for any and all City or State taxes as may be applicable or from the filing and payment requirements of such taxes.
-
-
-
-
-
-
-*§ 20-02 Food Vendors.* ::
-
-
-(§ 17-310(c), Chapter 3, Title 17 of the Administrative Code).
-
-(a) For purposes of § 17-310(c), with respect to individual vendors who are required to collect and pay over sales taxes due to the making of taxable sales, a full time food vendor is defined as a food vendor whose sales tax payments are not less than $550.00 per year.
-
-(b) For purposes of § 17-310(c), with respect to individual vendors who are required to collect and pay over taxes due to the making of taxable sales, a part time food vendor is defined as any food vendor whose sales tax payments are not less than $220.00 per year nor more than $549.99 per year.
-
-(c) The minimum amount of applicable sales taxes that the vendor-licensee making taxable sales is required to have paid during the preceding calendar year is, in the case of a full time vendor, $550.00, and the case of a part time vendor, $220.00. No minimum applies with respect to the business taxes imposed by the Administrative Code.
-
-
-
-
-
-
-*§ 20-03 General Vendors.* ::
-
-
-(§ 20-457(c), Subchapter 27 of Chapter 2 of Title 20 of the Administrative Code).
-
-(a) For purposes of § 20-457(c), with respect to individual vendors who are required to collect and pay over sales taxes due to the making of taxable sales, a full time general vendor is defined as a general vendor whose sales tax payments are not less than $400.00 per year.
-
-(b) For purposes of § 20-457(c), with respect to individual vendors who are required to collect and pay over sales taxes due to the making of taxable sales, a part time general vendor is defined as a general vendor whose sales tax payments are not less than $160.00 per year nor more than $399.99 per year.
-
-(c) The minimum amount of applicable sales taxes that the vendor-licensee making taxable sales is required to have paid during the preceding calendar year is, in the case of a full-time vendor, $400.00, and in the case of a part-time vendor, $160.00. No minimum applies with respect to the business taxes imposed by the Administrative Code.
 
 
 
@@ -12205,6 +12205,195 @@ Example 4: The facts are the same as in Example 3 except that X Corp. made the o
 
 
 
+Chapter 26: Creation and Retention of Books and Records
+--------------------------------------------------
+
+
+
+*§ 26-01 Purpose.* ::
+
+
+The purpose of these rules is to define the requirements imposed on taxpayers for the maintenance and retention of books, records, and other sources of information under §§ 11-518, 11-687, 11-707, 11-805, 11-902, 11-1103, 11-1307 and 11-2503 of the Administrative Code of the City of New York and to address these requirements where all or a part of the taxpayer's records are received, created, maintained or generated through various computer, electronic and imaging processes and systems.
+
+
+
+
+
+
+*§ 26-02 Definitions.* ::
+
+
+Unless the context requires otherwise, the following definitions apply in these rules:
+
+Database Management System. The term "Database Management System" or DMS means a software system that controls, relates, retrieves, and provides accessibility to data stored in a database.
+
+Department. The term "Department" means the Department of Finance of the City of New York.
+
+Electronic Data Interchange. The term "Electronic Data Interchange" or "EDI" means the computer-to-computer exchange of business transactions in a standardized structured electronic format.
+
+Hard copy. The term "Hard copy" means any documents, records, reports or other data printed on paper.
+
+Machine-sensible record. The term "Machine-sensible record" means a collection of related information in an electronic format. Machine-sensible records do not include hard copy records that are created or recorded on paper or stored in or by an imaging system such as microfilm, microfiche, or storage-only imaging systems.
+
+Storage-only imaging system. The term "Storage-only imaging system" means a system of computer hardware and software that provides for the storage, retention and retrieval of documents originally created on paper. It does not include any system, or part of a system, that manipulates or processes any information or data contained on the document in any manner other than to reproduce the document in hard copy or as an optical image.
+
+Taxpayer. The term "Taxpayer" as used in these rules means any individual or entity subject to the provisions of Chapters 5, 6, 7, 8, 9, 11, 13 and 25 of Title 11 of the Administrative Code of the City of New York.
+
+
+
+
+
+
+*§ 26-03 General.* ::
+
+
+(a)  A taxpayer shall maintain all records that are necessary to a determination of the correct tax liability under Chapters 5, 6, 7, 8, 9, 11, 13 and 25 of Title 11 of the Administrative Code of the City of New York. All required records must be made available on request by the Department or its authorized representatives as provided for in §§ 11-518, 11-687, 11-707, 11-805, 11-902, 11-1103, 11-1307 and 11-2503 of the Administrative Code of the City of New York. Such records shall include, but not be necessarily limited to permanent books of account or record, including inventories where applicable, as are sufficient to establish the amount of gross income, deductions, credits and other matters required to be shown by the taxpayer in any tax return required under the above chapters of the Administrative Code.
+
+(b) If a taxpayer retains records required to be retained under these rules in both machine-sensible and hard copy formats, the taxpayer shall make the records available to the Department in machine-sensible format upon request of the Department.
+
+(c) Nothing in this section shall prevent the Department from requesting hard copy printouts in lieu of retained machine-sensible records at the time of examination.
+
+(d) Hard copy records generated at the time of a transaction using a credit or debit card must be retained unless all the details necessary to determine correct tax liability relating to the transaction are subsequently received and retained by the taxpayer in accordance with these rules. Such details include those listed in 19 RCNY § 26-04(b)(1).
+
+(e) Computer printouts that are created for validation, control, or other temporary purposes need not be retained.
+
+(f) Nothing in these rules shall be construed to prohibit a taxpayer from demonstrating tax compliance with traditional hard copy documents or reproductions thereof, in whole or in part, whether or not such taxpayer also has retained or has the capability to retain records on electronic or other storage media in accordance with these rules. However, this subdivision shall not relieve the taxpayer of the obligation to comply with subdivision (b).
+
+(g) Except as otherwise provided in this section, the provisions of these rules do not relieve taxpayers of the responsibility to retain hard copy records that are created or received in the ordinary course of business as required by existing law and regulations. Hard copy records may be retained on a recordkeeping medium as provided in 19 RCNY § 26-06.
+
+(h) Every taxpayer should make periodic checks on all records being retained for use by the Department. If any records required to be retained are subsequently lost, destroyed, damaged or found to be incomplete or materially inaccurate, the taxpayer must recreate the files within a reasonable period of time.
+
+
+
+
+
+
+*§ 26-04 Recordkeeping Requirements – Machine-Sensible Records.* ::
+
+
+(a)  General.
+
+   (1) Machine-sensible records used to establish tax compliance shall contain sufficient transaction-level detail information so that the details underlying the machine-sensible records can be identified and made available to the Department upon request. A taxpayer has discretion to discard duplicated records and redundant information provided its responsibilities under these rules are met.
+
+   (2) At the time of an examination, the retained records must be capable of being retrieved and converted to a standard record format as specified by the Department.
+
+   (3) Taxpayers are not required to construct machine-sensible records other than those created in the ordinary course of business. A taxpayer who does not create the electronic equivalent of a traditional paper document in the ordinary course of business is not required to construct such a record for tax purposes.
+
+   (4) Any system for creating, maintaining and retrieving machine-sensible records must be able to accept date information input, provide date output, and store and perform calculations on dates before, on and after January 1, 2000 correctly and without ambiguity.
+
+(b) Electronic Data Interchange Requirements.
+
+   (1) Where a taxpayer uses electronic data interchange processes and technology, the level of record detail, in combination with other records related to the transaction, must be equivalent to that contained in an acceptable paper record. The retained records should contain such information as vendor name, invoice date, product description, quantity purchased, price, amount of tax and indication of tax status (where applicable), shipping detail, etc. Codes may be used to identify some or all of the data elements, provided that the taxpayer provides a method which allows the Department to interpret the coded information.
+
+   (2) The taxpayer may capture the information necessary to satisfy paragraph (1) of this subdivision at any level within the accounting system and need not retain the original EDI transaction records provided the audit trail, authenticity, and integrity of the retained records can be established.
+
+Example: A taxpayer using electronic data interchange technology receives electronic invoices from its suppliers. The taxpayer decides to retain the invoice data from completed and verified EDI transactions in its accounts payable system rather than to retain the EDI transactions themselves. Since neither the EDI transaction nor the accounts payable system captures information from the invoice pertaining to product description and vendor name (i.e., they contain only codes for that information), the taxpayer also retains other records, such as its vendor master file and product code description lists and makes them available to the Department. In this example, the taxpayer need not retain its EDI transaction for tax purposes.
+
+(c) Electronic Data Processing Systems Requirements. The requirements for an electronic data processing accounting system should be similar to that of a manual accounting system in that an adequately designed accounting system should incorporate methods and records that will satisfy the requirements of these rules. An electronic data processing accounting system must be able to accept date information input, provide date output, and store and perform calculations on dates before, on and after January 1, 2000, correctly and without ambiguity.
+
+(d) Business Process Information.
+
+   (1) Upon the request of the Department, the taxpayer shall provide a description of the business process that created the retained records. Such description shall include the relationship between the records and the tax documents prepared by the taxpayer and the measures employed to ensure the integrity of the records.
+
+   (2) The taxpayer must be capable of demonstrating:
+
+      (i) the functions being performed as they relate to the flow of data through the system;
+
+      (ii) the internal controls used to ensure accurate and reliable processing; and
+
+      (iii) the internal controls used to prevent unauthorized addition, alteration, or deletion of retained records.
+
+   (3) The following specific documentation for all retained files must also be kept:
+
+      (i) record formats (including the meaning of all "codes" used to represent information);
+
+      (ii) flowcharts for a system and a program;
+
+      (iii) label descriptions;
+
+      (iv) source program listings of programs that created the retained files;
+
+      (v) detailed charts of accounts (for specific periods);
+
+      (vi) evidence that periodic checks that are prescribed in 19 RCNY § 26-03(h) were performed; and
+
+      (vii) evidence that the retained records reconcile to the books and the tax report or return. This reconciliation must establish the relationship between the total of the amounts in the retained records by account to the account totals in the books and to the tax report or return.
+
+   (4) Any change to a data processing system that affects the accounting system and/or subsystems, together with their effective dates, must be documented in order to preserve an accurate chronological record. This record should include any changes to software or systems and any changes to the formats of files.
+
+   (5) Every taxpayer must be able to process the retained records at the time of a Department examination. Processing must include the ability to print a hard copy of any record. When the data processing system that created the records is being replaced by a system with which the records would be incompatible, the taxpayer must convert pre-existing records to a format that is compatible with the new system.
+
+   (6) At the time of an examination, every taxpayer must provide the Department with computer resources (e.g., terminal access, computer time and personnel) that are necessary for the processing of the retained records.
+
+   (7) Every taxpayer that utilizes a Database Management System must create a sequential file(s) that contains all the detail necessary to identify the underlying source documents. In addition to the documentation described in paragraphs (2), (3) and (4) of this subdivision the following documentation must be retained:
+
+      (i) data base description including vendor, name and version;
+
+      (ii) record layouts of each segment with respect to the fields in the segment;
+
+      (iii) systems control language; and
+
+      (iv) programs associated with the DMS including a description of what each program does.
+
+   (8) The manner in which the Department is provided access to machine-sensible records as required in 19 RCNY § 26-03(b) may be satisfied through a variety of means that must take into account a taxpayer's facts and circumstances through consultation with the taxpayer.
+
+   (9) Such access must be provided in one or more of the following manners unless the taxpayer and the Department agree on another means of providing access to the machine-sensible records:
+
+      (i) The taxpayer may arrange to provide the Department with the hardware, software and personnel resources to access the machine-sensible records.
+
+      (ii) The taxpayer may arrange for a third party to provide the hardware, software and personnel resources necessary to access the machine-sensible records.
+
+      (iii) The taxpayer may convert the machine-sensible records to a standard record format specified by the Department, including copies of files, on a magnetic medium that is agreed to by the Department.
+
+
+
+
+
+
+*§ 26-05 Taxpayer Responsibility and Discretionary Authority.* ::
+
+
+(a)  In conjunction with meeting the requirements of 19 RCNY § 26-04, a taxpayer may create files solely for the use of the Department. For example, if a database management system is used, it is consistent with these rules for the taxpayer to create and retain a file that contains the transaction-level detail from the database management system and that meets the requirements of 19 RCNY § 26-04. The taxpayer should document the process that created the separate file to show the relationship between that file and the original records.
+
+(b) A taxpayer may contract with a third party to provide custodial or management services of the records. Such a contract must not relieve the taxpayer of its responsibilities under these rules.
+
+
+
+
+
+
+*§ 26-06 Alternative Storage Media for Hard Copy Documents.* ::
+
+
+(a)  For purposes of storage and retention, taxpayers may convert hard copy documents received or produced in the normal course of business and required to be retained under this rule to microfilm, microfiche or another storage-only imaging system and may discard the original hard copy documents, provided the conditions of this section are met. Documents that may be stored on these media include, but are not limited to general books of account, journals, voucher registers, general and subsidiary ledgers, and supporting records of details, such as sales invoices, purchase invoices, exemption certificates and credit memoranda.
+
+(b) Microfilm, microfiche and other storage-only imaging systems must meet the following requirements:
+
+   (1) Documentation establishing the procedures for converting the hard copy documents to microfilm, microfiche or another storage-only imaging system must be maintained and made available on request. Such documentation must, at a minimum, contain a sufficient description to allow an original document to be followed through the conversion system as well as internal procedures established for inspection and quality assurance. There must be no substantial evidence that the microfilm, microfiche or other storage-only imaging system lacks authenticity or integrity.
+
+   (2) Procedures must be established for the effective identification, storage, and preservation of the stored documents and for making them available for the period they are required to be retained under 19 RCNY § 26-07.
+
+   (3) Upon request by the Department, a taxpayer must provide facilities and equipment for reading, locating, and reproducing any documents maintained on microfilm, microfiche or other storage-only imaging system.
+
+   (4) When displayed on such equipment or reproduced on paper, the documents must exhibit a high degree of legibility and readability. For this purpose, legibility is defined as the quality of a letter or numeral that enables the observer to identify it positively and quickly to the exclusion of all other letters or numerals. Readability is defined as the quality of a group of letters or numerals being recognizable as words or complete numbers.
+
+   (5) All data stored on microfilm, microfiche or other storage-only imaging system must be maintained and arranged in a manner that permits the location of any particular record.
+
+(c) Any imaging system meeting the requirements of an electronic storage system under Rev. Proc. 97-22, as promulgated by the Internal Revenue Service, must be deemed to satisfy the requirements of this section, provided it is able to accept date information input, provide date output and store dates before, on and after January 1, 2000 correctly and without ambiguity.
+
+
+
+
+
+
+*§ 26-07 Records Retention – Time Period.* ::
+
+
+All records required to be retained under these rules must be preserved pursuant to §§ 11-518, 11-687, 11-707, 11-805, 11-902, 11-1103, 11-1307 and 11-2503 of the Administrative Code of the City of New York unless the Department has provided in writing that the records are no longer required.
+
+
+
+
 Chapter 25: Retail Licensees of the State Liquor Authority
 --------------------------------------------------
 
@@ -12660,195 +12849,6 @@ Example B: A taxpayer files his tax return for the tax year beginning June 1, 19
 (d) The provisions of the regulations of the Commissioner relating to the mailing rules for New York City income and excise tax apply with respect to retail licensee tax returns and payments. Generally, those regulations provide that if a tax return or payment properly addressed with sufficient postage prepaid is delivered to the Department of Finance by U.S. mail after the due date, the date of the U.S. Postal Service postmark stamped on the envelope will be deemed the date of delivery, provided the postmark date falls on or before the due date. Non-U.S. Postal Service postmarks will also be recognized, provided delivery to the Department of Finance occurs within five days of the postmark date. If the five-day limit is exceeded, the taxpayer must establish that the item was actually deposited in the mail by the due date, that the delay in receipt was due to a delay in the transmission of the mail, and the cause of the delay.
 
 (e) When the last day prescribed in these regulations for filing a return or paying a tax (including the last day covered by an extension of time) falls on Saturday, Sunday or a legal holiday in the State of New York, the filing of such return or paying of such tax will be considered timely if it is filed or paid on the next succeeding date which is not a Saturday, Sunday or legal holiday.
-
-
-
-
-Chapter 26: Creation and Retention of Books and Records
---------------------------------------------------
-
-
-
-*§ 26-01 Purpose.* ::
-
-
-The purpose of these rules is to define the requirements imposed on taxpayers for the maintenance and retention of books, records, and other sources of information under §§ 11-518, 11-687, 11-707, 11-805, 11-902, 11-1103, 11-1307 and 11-2503 of the Administrative Code of the City of New York and to address these requirements where all or a part of the taxpayer's records are received, created, maintained or generated through various computer, electronic and imaging processes and systems.
-
-
-
-
-
-
-*§ 26-02 Definitions.* ::
-
-
-Unless the context requires otherwise, the following definitions apply in these rules:
-
-Database Management System. The term "Database Management System" or DMS means a software system that controls, relates, retrieves, and provides accessibility to data stored in a database.
-
-Department. The term "Department" means the Department of Finance of the City of New York.
-
-Electronic Data Interchange. The term "Electronic Data Interchange" or "EDI" means the computer-to-computer exchange of business transactions in a standardized structured electronic format.
-
-Hard copy. The term "Hard copy" means any documents, records, reports or other data printed on paper.
-
-Machine-sensible record. The term "Machine-sensible record" means a collection of related information in an electronic format. Machine-sensible records do not include hard copy records that are created or recorded on paper or stored in or by an imaging system such as microfilm, microfiche, or storage-only imaging systems.
-
-Storage-only imaging system. The term "Storage-only imaging system" means a system of computer hardware and software that provides for the storage, retention and retrieval of documents originally created on paper. It does not include any system, or part of a system, that manipulates or processes any information or data contained on the document in any manner other than to reproduce the document in hard copy or as an optical image.
-
-Taxpayer. The term "Taxpayer" as used in these rules means any individual or entity subject to the provisions of Chapters 5, 6, 7, 8, 9, 11, 13 and 25 of Title 11 of the Administrative Code of the City of New York.
-
-
-
-
-
-
-*§ 26-03 General.* ::
-
-
-(a)  A taxpayer shall maintain all records that are necessary to a determination of the correct tax liability under Chapters 5, 6, 7, 8, 9, 11, 13 and 25 of Title 11 of the Administrative Code of the City of New York. All required records must be made available on request by the Department or its authorized representatives as provided for in §§ 11-518, 11-687, 11-707, 11-805, 11-902, 11-1103, 11-1307 and 11-2503 of the Administrative Code of the City of New York. Such records shall include, but not be necessarily limited to permanent books of account or record, including inventories where applicable, as are sufficient to establish the amount of gross income, deductions, credits and other matters required to be shown by the taxpayer in any tax return required under the above chapters of the Administrative Code.
-
-(b) If a taxpayer retains records required to be retained under these rules in both machine-sensible and hard copy formats, the taxpayer shall make the records available to the Department in machine-sensible format upon request of the Department.
-
-(c) Nothing in this section shall prevent the Department from requesting hard copy printouts in lieu of retained machine-sensible records at the time of examination.
-
-(d) Hard copy records generated at the time of a transaction using a credit or debit card must be retained unless all the details necessary to determine correct tax liability relating to the transaction are subsequently received and retained by the taxpayer in accordance with these rules. Such details include those listed in 19 RCNY § 26-04(b)(1).
-
-(e) Computer printouts that are created for validation, control, or other temporary purposes need not be retained.
-
-(f) Nothing in these rules shall be construed to prohibit a taxpayer from demonstrating tax compliance with traditional hard copy documents or reproductions thereof, in whole or in part, whether or not such taxpayer also has retained or has the capability to retain records on electronic or other storage media in accordance with these rules. However, this subdivision shall not relieve the taxpayer of the obligation to comply with subdivision (b).
-
-(g) Except as otherwise provided in this section, the provisions of these rules do not relieve taxpayers of the responsibility to retain hard copy records that are created or received in the ordinary course of business as required by existing law and regulations. Hard copy records may be retained on a recordkeeping medium as provided in 19 RCNY § 26-06.
-
-(h) Every taxpayer should make periodic checks on all records being retained for use by the Department. If any records required to be retained are subsequently lost, destroyed, damaged or found to be incomplete or materially inaccurate, the taxpayer must recreate the files within a reasonable period of time.
-
-
-
-
-
-
-*§ 26-04 Recordkeeping Requirements – Machine-Sensible Records.* ::
-
-
-(a)  General.
-
-   (1) Machine-sensible records used to establish tax compliance shall contain sufficient transaction-level detail information so that the details underlying the machine-sensible records can be identified and made available to the Department upon request. A taxpayer has discretion to discard duplicated records and redundant information provided its responsibilities under these rules are met.
-
-   (2) At the time of an examination, the retained records must be capable of being retrieved and converted to a standard record format as specified by the Department.
-
-   (3) Taxpayers are not required to construct machine-sensible records other than those created in the ordinary course of business. A taxpayer who does not create the electronic equivalent of a traditional paper document in the ordinary course of business is not required to construct such a record for tax purposes.
-
-   (4) Any system for creating, maintaining and retrieving machine-sensible records must be able to accept date information input, provide date output, and store and perform calculations on dates before, on and after January 1, 2000 correctly and without ambiguity.
-
-(b) Electronic Data Interchange Requirements.
-
-   (1) Where a taxpayer uses electronic data interchange processes and technology, the level of record detail, in combination with other records related to the transaction, must be equivalent to that contained in an acceptable paper record. The retained records should contain such information as vendor name, invoice date, product description, quantity purchased, price, amount of tax and indication of tax status (where applicable), shipping detail, etc. Codes may be used to identify some or all of the data elements, provided that the taxpayer provides a method which allows the Department to interpret the coded information.
-
-   (2) The taxpayer may capture the information necessary to satisfy paragraph (1) of this subdivision at any level within the accounting system and need not retain the original EDI transaction records provided the audit trail, authenticity, and integrity of the retained records can be established.
-
-Example: A taxpayer using electronic data interchange technology receives electronic invoices from its suppliers. The taxpayer decides to retain the invoice data from completed and verified EDI transactions in its accounts payable system rather than to retain the EDI transactions themselves. Since neither the EDI transaction nor the accounts payable system captures information from the invoice pertaining to product description and vendor name (i.e., they contain only codes for that information), the taxpayer also retains other records, such as its vendor master file and product code description lists and makes them available to the Department. In this example, the taxpayer need not retain its EDI transaction for tax purposes.
-
-(c) Electronic Data Processing Systems Requirements. The requirements for an electronic data processing accounting system should be similar to that of a manual accounting system in that an adequately designed accounting system should incorporate methods and records that will satisfy the requirements of these rules. An electronic data processing accounting system must be able to accept date information input, provide date output, and store and perform calculations on dates before, on and after January 1, 2000, correctly and without ambiguity.
-
-(d) Business Process Information.
-
-   (1) Upon the request of the Department, the taxpayer shall provide a description of the business process that created the retained records. Such description shall include the relationship between the records and the tax documents prepared by the taxpayer and the measures employed to ensure the integrity of the records.
-
-   (2) The taxpayer must be capable of demonstrating:
-
-      (i) the functions being performed as they relate to the flow of data through the system;
-
-      (ii) the internal controls used to ensure accurate and reliable processing; and
-
-      (iii) the internal controls used to prevent unauthorized addition, alteration, or deletion of retained records.
-
-   (3) The following specific documentation for all retained files must also be kept:
-
-      (i) record formats (including the meaning of all "codes" used to represent information);
-
-      (ii) flowcharts for a system and a program;
-
-      (iii) label descriptions;
-
-      (iv) source program listings of programs that created the retained files;
-
-      (v) detailed charts of accounts (for specific periods);
-
-      (vi) evidence that periodic checks that are prescribed in 19 RCNY § 26-03(h) were performed; and
-
-      (vii) evidence that the retained records reconcile to the books and the tax report or return. This reconciliation must establish the relationship between the total of the amounts in the retained records by account to the account totals in the books and to the tax report or return.
-
-   (4) Any change to a data processing system that affects the accounting system and/or subsystems, together with their effective dates, must be documented in order to preserve an accurate chronological record. This record should include any changes to software or systems and any changes to the formats of files.
-
-   (5) Every taxpayer must be able to process the retained records at the time of a Department examination. Processing must include the ability to print a hard copy of any record. When the data processing system that created the records is being replaced by a system with which the records would be incompatible, the taxpayer must convert pre-existing records to a format that is compatible with the new system.
-
-   (6) At the time of an examination, every taxpayer must provide the Department with computer resources (e.g., terminal access, computer time and personnel) that are necessary for the processing of the retained records.
-
-   (7) Every taxpayer that utilizes a Database Management System must create a sequential file(s) that contains all the detail necessary to identify the underlying source documents. In addition to the documentation described in paragraphs (2), (3) and (4) of this subdivision the following documentation must be retained:
-
-      (i) data base description including vendor, name and version;
-
-      (ii) record layouts of each segment with respect to the fields in the segment;
-
-      (iii) systems control language; and
-
-      (iv) programs associated with the DMS including a description of what each program does.
-
-   (8) The manner in which the Department is provided access to machine-sensible records as required in 19 RCNY § 26-03(b) may be satisfied through a variety of means that must take into account a taxpayer's facts and circumstances through consultation with the taxpayer.
-
-   (9) Such access must be provided in one or more of the following manners unless the taxpayer and the Department agree on another means of providing access to the machine-sensible records:
-
-      (i) The taxpayer may arrange to provide the Department with the hardware, software and personnel resources to access the machine-sensible records.
-
-      (ii) The taxpayer may arrange for a third party to provide the hardware, software and personnel resources necessary to access the machine-sensible records.
-
-      (iii) The taxpayer may convert the machine-sensible records to a standard record format specified by the Department, including copies of files, on a magnetic medium that is agreed to by the Department.
-
-
-
-
-
-
-*§ 26-05 Taxpayer Responsibility and Discretionary Authority.* ::
-
-
-(a)  In conjunction with meeting the requirements of 19 RCNY § 26-04, a taxpayer may create files solely for the use of the Department. For example, if a database management system is used, it is consistent with these rules for the taxpayer to create and retain a file that contains the transaction-level detail from the database management system and that meets the requirements of 19 RCNY § 26-04. The taxpayer should document the process that created the separate file to show the relationship between that file and the original records.
-
-(b) A taxpayer may contract with a third party to provide custodial or management services of the records. Such a contract must not relieve the taxpayer of its responsibilities under these rules.
-
-
-
-
-
-
-*§ 26-06 Alternative Storage Media for Hard Copy Documents.* ::
-
-
-(a)  For purposes of storage and retention, taxpayers may convert hard copy documents received or produced in the normal course of business and required to be retained under this rule to microfilm, microfiche or another storage-only imaging system and may discard the original hard copy documents, provided the conditions of this section are met. Documents that may be stored on these media include, but are not limited to general books of account, journals, voucher registers, general and subsidiary ledgers, and supporting records of details, such as sales invoices, purchase invoices, exemption certificates and credit memoranda.
-
-(b) Microfilm, microfiche and other storage-only imaging systems must meet the following requirements:
-
-   (1) Documentation establishing the procedures for converting the hard copy documents to microfilm, microfiche or another storage-only imaging system must be maintained and made available on request. Such documentation must, at a minimum, contain a sufficient description to allow an original document to be followed through the conversion system as well as internal procedures established for inspection and quality assurance. There must be no substantial evidence that the microfilm, microfiche or other storage-only imaging system lacks authenticity or integrity.
-
-   (2) Procedures must be established for the effective identification, storage, and preservation of the stored documents and for making them available for the period they are required to be retained under 19 RCNY § 26-07.
-
-   (3) Upon request by the Department, a taxpayer must provide facilities and equipment for reading, locating, and reproducing any documents maintained on microfilm, microfiche or other storage-only imaging system.
-
-   (4) When displayed on such equipment or reproduced on paper, the documents must exhibit a high degree of legibility and readability. For this purpose, legibility is defined as the quality of a letter or numeral that enables the observer to identify it positively and quickly to the exclusion of all other letters or numerals. Readability is defined as the quality of a group of letters or numerals being recognizable as words or complete numbers.
-
-   (5) All data stored on microfilm, microfiche or other storage-only imaging system must be maintained and arranged in a manner that permits the location of any particular record.
-
-(c) Any imaging system meeting the requirements of an electronic storage system under Rev. Proc. 97-22, as promulgated by the Internal Revenue Service, must be deemed to satisfy the requirements of this section, provided it is able to accept date information input, provide date output and store dates before, on and after January 1, 2000 correctly and without ambiguity.
-
-
-
-
-
-
-*§ 26-07 Records Retention – Time Period.* ::
-
-
-All records required to be retained under these rules must be preserved pursuant to §§ 11-518, 11-687, 11-707, 11-805, 11-902, 11-1103, 11-1307 and 11-2503 of the Administrative Code of the City of New York unless the Department has provided in writing that the records are no longer required.
 
 
 
