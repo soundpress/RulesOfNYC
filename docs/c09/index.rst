@@ -4468,129 +4468,6 @@ The provisions of the Civil Practice Law and Rules or any other law relative to 
 
 
 
-Chapter 8: Court and Trust Funds
---------------------------------------------------
-
-
-
-*§ 8-01 Deposit with Commissioner of Finance of Funds or Securities.* ::
-
-
-Each deposit of money or securities with the Commissioner of Finance must be accompanied by either:
-
-(a) a certified copy of the judgment, order or decree directing the deposit or payment into court, or an excerpt thereof that includes such direction, under the seal of the court, or
-
-(b) a certificate, under the seal of the court, made by the clerk of the court whose duty it is first to receive the deposit in cases in which moneys or securities may be deposited or paid into court pursuant to statute. For example, a tender into court, a deposit to discharge a judgment or a mechanic's lien, security for costs in certain cases; deposits of civil bail; a surplus arising upon the sale of property by a sheriff under an execution or by a referee in mortgage foreclosure proceedings by advertising. This certificate must contain the following information:
-
-   (1) name of court, or source of receipt if deposited without court order;
-
-   (2) title of the action or proceeding;
-
-   (3) by whom, for whom, and for what purpose the deposit is made;
-
-   (4) date of original receipt by official making deposit; and
-
-   (5) if the deposit consists of cash, the amount thereof, or if it be securities, the nature and description of the same.
-
-
-
-
-
-
-*§ 8-02 Necessity of Certified Court Order for Payment.* ::
-
-
-(a) No payment, investment, surrender or delivery of court funds, property or security may be made by the Commissioner of Finance or any depositary, without a certified copy of an order or decree of the court having jurisdiction of such funds, property and securities, directing each such payment, investment, surrender or delivery. Payments may not be made on affidavits and proof of age alone. Moneys deposited for or on behalf of an infant payable when the infant attains his majority are not to be paid under the order directing the deposit unless that order also expressly directs the payment of such money on or after the day, month and year therein specified when the infant becomes of legal age.
-
-(b) Court orders must be certified by the clerk of the court .
-
-(c) When the whole or remaining balance of payments of money into court in an action, or of a distributive share thereof, or any security or other property, is directed to be paid out of court, the order must direct the payment of all accrued income belonging to the party to whom such money or distributive share or remaining balance thereof, or security or other property is paid.
-
-(d) If it is desired that the check for payment be mailed to the attorney for the claimant, a direction to that effect must be incorporated in the order of payment.
-
-
-
-
-
-
-*§ 8-03 Certificate of Deposit by Commissioner of Finance.* ::
-
-
-A certificate of deposit or other document showing the amount of money held by the Commissioner of Finance for the benefit of any person will be issued by the Court and Trust Fund Division of the Department of Finance upon fulfillment of the following prerequisites:
-
-(a) An application on forms furnished by the Department of Finance must be completed and filed by the person claiming the right to possession of the funds, or by an attorney acting on his behalf.
-
-(b) The Commissioner of Finance or his designee may require the claimant to appear at the Commissioner's office and to produce satisfactory evidence of the fact that the claimant is the person lawfully entitled to possession of the funds, and to complete and file additional written statements to satisfactorily establish the claimant's right to the funds. If the claimant is absent from the City or is unable to appear in person at the Commissioner of Finance's office by reason of physical or other disability, or by reason of military service, satisfactory proof of such fact may be required, and an attorney or other person acting on behalf of the claimant may be required to produce proof of his or her authority to act. At any time after the issuance of a certificate of deposit, and up to the actual payment of the funds on deposit to the claimant or to such other person as may be entitled thereto, the Commissioner of Finance or the Commissioner's designee may require proof similar to that described in this section, as well as copies of the petition, affidavits and exhibits upon which the order was granted.
-
-
-
-
-
-
-*§ 8-04 Vouchers.* ::
-
-
-Any of the following will be considered a proper voucher for payments of money out of court, by the Department of Finance.
-
-(a) A check properly endorsed and bearing proper evidence of payment by the bank on which it was drawn to the person or persons to whom payment was directed to be made.
-
-(b) A proper receipt or voucher signed by the person or persons to whom payment is directed to be made or to whom securities or other property are directed to be assigned or delivered. Such receipt must be filed at the time of any payment, assignment or delivery directed by the order of the court.
-
-
-
-
-
-
-*§ 8-05 Transfer of Funds.* ::
-
-
-Funds may not be transferred from one depositary to another except pursuant to the direction of a court order, or of the State Comptroller.
-
-
-
-
-
-
-*§ 8-06 Fees.* ::
-
-
-(a) The Commissioner of Finance is entitled, for services, to the following fees:
-
-   For each certificate of deposit - $1
-
-   Upon moneys paid out of court - 2% except as set forth in subdivision (c)
-
-   Upon moneys invested - 1/2 of 1%
-
-   Upon securities deposited in court and received by the Commissioner - 2 percent of the par value of the securities
-
-   Upon investments transferred or assigned out of court by the Commissioner, when the investments have been made by the Commissioner - 2 percent of the par value of the investments.
-
-(b) Unless the court otherwise specially directs, all fees for payment of money out of court will be deducted from the amount paid and not from the balance remaining to the credit of the action or proceeding. However, if a judgment or other evidence of debt is a lien upon the funds or portion thereof, or the expenses of litigation (such as referee's fees, county clerk's fees or subpoena fees, etc.) are directed to be paid therefrom, the fees of the Department of Finance are to be deducted from the sum or sums remaining of the share or shares which bear such expenses, if sufficient; if insufficient, the amount to be applied to such expenses is the amount remaining of such sum or sums after deducting the fees of the Department of Finance.
-
-(c) The Department waives the fees to which the Commissioner is entitled pursuant to subdivisions 1, 3 and 4 of Section 99-m of the general municipal law.
-
-
-
-
-
-
-
-
-*§ 8-07 Depositaries.* ::
-
-
-(a) Books of account. Each duly designated depositary is required to keep a separate account for each action or proceeding, in connection with which funds or moneys are deposited therein, showing the name of the court, the title of the action or proceeding, the amount deposited, the date of receipt, from whom received and a record of each additional receipt or credit of interest to and each withdrawal of moneys therefrom. Also an account of each change of investment if any.
-
-(b) Payment of interest. Depositaries are required to pay interest on deposits of money paid into courts of record at a rate satisfactory to the State, Comptroller and in no event less than the highest rate being paid by the depositary on other accounts having similar maturities. Such interest must be computed from the date of deposit to the date of withdrawal, except that no interest shall be payable on moneys withdrawn within 30 days from the date of deposit. Interest is to be credited not less often than January 1 and July 1 of each year.
-
-(c) Certificate of balances. Each depositary shall furnish annually to the Commissioner of Finance from whom deposits of money paid into court have been received, a certificate of the proper officer of such depositary stating the exact mount on deposit to the credit of each action and proceeding separately on December 31, including interest credits as of January 1 following. Such certificate shall be furnished within 10 days after December 31 in each year.
-
-(d) Undertakings and collateral. Depositaries, other than savings banks, are required to execute and deliver undertakings and to pledge collateral to secure deposits of court and trust funds, as may be required by the State Comptroller.
-
-
-
-
 Chapter 7: Commercial Rent Tax
 --------------------------------------------------
 
@@ -5512,6 +5389,129 @@ A notice authorized or required by the law may be given to the person for whom i
 
 
 The provisions of the Civil Practice Law and Rules or any other law relative to limitations of time for the enforcement of a civil remedy shall not apply to any proceeding or action taken by the City to levy, appraise, assess, determine or enforce the collection of any tax or penalty provided by the law. However, except in the case of a willfully false or fraudulent return with intent to evade the tax, no assessment of additional tax shall be amended after the expiration of more than three years from the date of filing the final return for the tax year to which the assessment relates; provided, however, that where no return has been made as provided by law, the tax may be assessed at any time. Where, before the expiration of the period prescribed for the assessment of an additional tax, a person has consented in writing that such period be extended, the amount of such additional tax due may be determined at any time within such extended period. The period so extended may be further extended by subsequent consent in writing before the expiration of the extended period.
+
+
+
+
+Chapter 8: Court and Trust Funds
+--------------------------------------------------
+
+
+
+*§ 8-01 Deposit with Commissioner of Finance of Funds or Securities.* ::
+
+
+Each deposit of money or securities with the Commissioner of Finance must be accompanied by either:
+
+(a) a certified copy of the judgment, order or decree directing the deposit or payment into court, or an excerpt thereof that includes such direction, under the seal of the court, or
+
+(b) a certificate, under the seal of the court, made by the clerk of the court whose duty it is first to receive the deposit in cases in which moneys or securities may be deposited or paid into court pursuant to statute. For example, a tender into court, a deposit to discharge a judgment or a mechanic's lien, security for costs in certain cases; deposits of civil bail; a surplus arising upon the sale of property by a sheriff under an execution or by a referee in mortgage foreclosure proceedings by advertising. This certificate must contain the following information:
+
+   (1) name of court, or source of receipt if deposited without court order;
+
+   (2) title of the action or proceeding;
+
+   (3) by whom, for whom, and for what purpose the deposit is made;
+
+   (4) date of original receipt by official making deposit; and
+
+   (5) if the deposit consists of cash, the amount thereof, or if it be securities, the nature and description of the same.
+
+
+
+
+
+
+*§ 8-02 Necessity of Certified Court Order for Payment.* ::
+
+
+(a) No payment, investment, surrender or delivery of court funds, property or security may be made by the Commissioner of Finance or any depositary, without a certified copy of an order or decree of the court having jurisdiction of such funds, property and securities, directing each such payment, investment, surrender or delivery. Payments may not be made on affidavits and proof of age alone. Moneys deposited for or on behalf of an infant payable when the infant attains his majority are not to be paid under the order directing the deposit unless that order also expressly directs the payment of such money on or after the day, month and year therein specified when the infant becomes of legal age.
+
+(b) Court orders must be certified by the clerk of the court .
+
+(c) When the whole or remaining balance of payments of money into court in an action, or of a distributive share thereof, or any security or other property, is directed to be paid out of court, the order must direct the payment of all accrued income belonging to the party to whom such money or distributive share or remaining balance thereof, or security or other property is paid.
+
+(d) If it is desired that the check for payment be mailed to the attorney for the claimant, a direction to that effect must be incorporated in the order of payment.
+
+
+
+
+
+
+*§ 8-03 Certificate of Deposit by Commissioner of Finance.* ::
+
+
+A certificate of deposit or other document showing the amount of money held by the Commissioner of Finance for the benefit of any person will be issued by the Court and Trust Fund Division of the Department of Finance upon fulfillment of the following prerequisites:
+
+(a) An application on forms furnished by the Department of Finance must be completed and filed by the person claiming the right to possession of the funds, or by an attorney acting on his behalf.
+
+(b) The Commissioner of Finance or his designee may require the claimant to appear at the Commissioner's office and to produce satisfactory evidence of the fact that the claimant is the person lawfully entitled to possession of the funds, and to complete and file additional written statements to satisfactorily establish the claimant's right to the funds. If the claimant is absent from the City or is unable to appear in person at the Commissioner of Finance's office by reason of physical or other disability, or by reason of military service, satisfactory proof of such fact may be required, and an attorney or other person acting on behalf of the claimant may be required to produce proof of his or her authority to act. At any time after the issuance of a certificate of deposit, and up to the actual payment of the funds on deposit to the claimant or to such other person as may be entitled thereto, the Commissioner of Finance or the Commissioner's designee may require proof similar to that described in this section, as well as copies of the petition, affidavits and exhibits upon which the order was granted.
+
+
+
+
+
+
+*§ 8-04 Vouchers.* ::
+
+
+Any of the following will be considered a proper voucher for payments of money out of court, by the Department of Finance.
+
+(a) A check properly endorsed and bearing proper evidence of payment by the bank on which it was drawn to the person or persons to whom payment was directed to be made.
+
+(b) A proper receipt or voucher signed by the person or persons to whom payment is directed to be made or to whom securities or other property are directed to be assigned or delivered. Such receipt must be filed at the time of any payment, assignment or delivery directed by the order of the court.
+
+
+
+
+
+
+*§ 8-05 Transfer of Funds.* ::
+
+
+Funds may not be transferred from one depositary to another except pursuant to the direction of a court order, or of the State Comptroller.
+
+
+
+
+
+
+*§ 8-06 Fees.* ::
+
+
+(a) The Commissioner of Finance is entitled, for services, to the following fees:
+
+   For each certificate of deposit - $1
+
+   Upon moneys paid out of court - 2% except as set forth in subdivision (c)
+
+   Upon moneys invested - 1/2 of 1%
+
+   Upon securities deposited in court and received by the Commissioner - 2 percent of the par value of the securities
+
+   Upon investments transferred or assigned out of court by the Commissioner, when the investments have been made by the Commissioner - 2 percent of the par value of the investments.
+
+(b) Unless the court otherwise specially directs, all fees for payment of money out of court will be deducted from the amount paid and not from the balance remaining to the credit of the action or proceeding. However, if a judgment or other evidence of debt is a lien upon the funds or portion thereof, or the expenses of litigation (such as referee's fees, county clerk's fees or subpoena fees, etc.) are directed to be paid therefrom, the fees of the Department of Finance are to be deducted from the sum or sums remaining of the share or shares which bear such expenses, if sufficient; if insufficient, the amount to be applied to such expenses is the amount remaining of such sum or sums after deducting the fees of the Department of Finance.
+
+(c) The Department waives the fees to which the Commissioner is entitled pursuant to subdivisions 1, 3 and 4 of Section 99-m of the general municipal law.
+
+
+
+
+
+
+
+
+*§ 8-07 Depositaries.* ::
+
+
+(a) Books of account. Each duly designated depositary is required to keep a separate account for each action or proceeding, in connection with which funds or moneys are deposited therein, showing the name of the court, the title of the action or proceeding, the amount deposited, the date of receipt, from whom received and a record of each additional receipt or credit of interest to and each withdrawal of moneys therefrom. Also an account of each change of investment if any.
+
+(b) Payment of interest. Depositaries are required to pay interest on deposits of money paid into courts of record at a rate satisfactory to the State, Comptroller and in no event less than the highest rate being paid by the depositary on other accounts having similar maturities. Such interest must be computed from the date of deposit to the date of withdrawal, except that no interest shall be payable on moneys withdrawn within 30 days from the date of deposit. Interest is to be credited not less often than January 1 and July 1 of each year.
+
+(c) Certificate of balances. Each depositary shall furnish annually to the Commissioner of Finance from whom deposits of money paid into court have been received, a certificate of the proper officer of such depositary stating the exact mount on deposit to the credit of each action and proceeding separately on December 31, including interest credits as of January 1 following. Such certificate shall be furnished within 10 days after December 31 in each year.
+
+(d) Undertakings and collateral. Depositaries, other than savings banks, are required to execute and deliver undertakings and to pledge collateral to secure deposits of court and trust funds, as may be required by the State Comptroller.
 
 
 
@@ -9672,133 +9672,6 @@ As a condition of eligibility for benefits under this program, there must be no 
 
 
 
-Chapter 16: Letter Rulings
---------------------------------------------------
-
-
-
-*§ 16-01 General – Definition and Nature of Letter Rulings.* ::
-
-
-(a) A letter ruling is a written statement setting forth the applicability of statutory and regulatory provisions of any tax or charge administered by the Department of Finance, to a specified set of facts. Letter rulings are issued on behalf of the Commissioner of Finance by the Deputy Commissioner for Legal Affairs, to whom the Commissioner of Finance's authority to issue letter rulings is delegated.
-
-(b) Areas in which letter rulings may be requested. Any person may request a ruling relating to any tax or charge administered by the Department of Finance. A letter ruling may be sought with respect to a substantive question or a procedural one. Rulings may be requested with respect to questions arising in the course of an audit or an examination of a tax return, or with respect to questions relating to a taxpayer's claim for refund or credit.
-
-(c) Areas in which letter rulings will not be issued. No ruling will be issued:
-
-   (1) covering an issue or set of facts regarding which a notice of determination or a notice of disallowance of a claim for refund or credit has been issued to the taxpayer; or
-
-   (2) covering an issue or set of facts regarding which any taxpayer has been granted leave to appeal or regarding which the Department of Finance is seeking or has been granted leave to appeal an adverse decision to any court of the State of New York or the United States; or
-
-   (3) covering an issue which is clearly and adequately addressed by statutes, regulations, published rulings or other official pronouncements of the Department of Finance; or
-
-   (4) where the issue presented pertains to subject matter which, in accordance with a public pronouncement, is under study by the Department of Finance; or
-
-   (5) if the conclusion reached in such a ruling would require a factual determination which is properly an audit function.
-
-(d) Areas in which rulings will be issued at the discretion of the Deputy Commissioner for Legal Affairs. The Department of Finance reserves the right not to issue a ruling on hypothetical facts.
-
-
-
-
-
-
-*§ 16-02 Requests for Letter Rulings.* ::
-
-
-(a) Requests for a ruling should be typewritten, if possible, but handwritten requests will be accepted. The request must set forth the name, address and identification number (social security or federal employer identification number), the specific set of facts to which the request for a ruling relates, the exact issue to be resolved and all parties relative thereto. Copies of all tax returns, contracts, deeds, instruments or other documents relevant to the issues to be decided must be submitted. The request may include a presentation of the taxpayer's contentions as to the appropriate resolution of the issue raised in the request, together with any supporting arguments and citations of pertinent law or regulations. The taxpayer must state in the request whether or not the request relates to any matter currently under audit, or for which a notice of determination or a notice of disallowance of a claim for credit or refund has been issued, or for which there is a pending claim for credit or refund.
-
-(b) Representation of taxpayer.
-
-   (1) A request for a ruling may be made by an individual on his or her own behalf, by a member of a partnership (without filing any power of attorney) on behalf of the partnership, or by an officer or employee of a corporation on behalf of the corporation. Where a corporation acts through an employee, a power of attorney executed by an officer of the corporation must be filed.
-
-   (2) The adult spouse, parent, guardian or any person having legal custody of a minor, or a person who prepared the tax return of a minor, may request a ruling on behalf of such minor. A committee or conservator appointed pursuant to the Mental Hygiene Law, an attorney-in-fact acting pursuant to section 5-1601 of the General Obligations Law, or other person authorized by law, may request a ruling on behalf of an individual who is mentally or physically incapable of making such request.
-
-   (3) Any of the following may also file a request for a ruling on behalf of another individual or business entity if authorized by a power of attorney signed by such individual, by a member of a partnership or by an officer of a corporation:
-
-      (i) an attorney-at-law licensed to practice in any state;
-
-      (ii) a certified public accountant duly qualified to practice in any state;
-
-      (iii) a person admitted to practice before the Internal Revenue Service or before the Tax Court of the United States;
-
-      (iv) the taxpayer's spouse, domestic partner, child or parent. For purposes of this subparagraph, "domestic partner" means a person who has registered a domestic partnership in accordance with applicable law with the City Clerk, or has registered such partnership with the former City Department of Personnel pursuant to Executive Order 123  during the period August 7, 1989 through January 7, 1993. (The records of domestic partnerships registered at the former City Department of Personnel have been transferred to the City Clerk.) The power of attorney required by this section should be filed with the Office of Legal Affairs before or concurrent with the request for a ruling.
-
-(c) Method for requesting a ruling.
-
-   (1) A request for a ruling must be made on an application form prescribed by the Department of Finance and must be accompanied by a non-refundable processing fee as provided in the Regulations Relating to Fees to Be Charged by the Commissioner of Finance, in Addition to Those Now Fixed by Statute.
-
-   (2) A request for a ruling must be submitted to the Office of Legal Affairs, Department of Finance, 345 Adams Street, 3rd Floor, Brooklyn, N.Y. 11201.
-
-
-
-
-
-
-*§ 16-03 Procedure After Filing a Request for a Ruling.* ::
-
-
-(a) The Office of Legal Affairs will issue an acknowledgement letter upon receipt of a request for a ruling which, on its face, meets the procedural requirements of 19 RCNY §§ 16-01 and 16-02. Thereafter, the request will be reviewed for completeness and if it is determined that the request is not complete, or that additional information is required, a notice will be sent to the taxpayer advising him of the nature of the additional information required. The taxpayer may then revise and resubmit his request.
-
-(b) A taxpayer may withdraw a request for a ruling at any time within 30 days of the date of the acknowledgement letter. Thereafter, no request for a ruling may be withdrawn without the approval of the Office of Legal Affairs. Where a taxpayer withdraws a request for a ruling, the Department of Finance will not return the application fee accompanying such request. For purposes of the preceding sentence, failure to provide information requested by the Office of Legal Affairs may be deemed a withdrawal of a request for a ruling.
-
-
-
-
-
-
-*§ 16-04 Contents.* ::
-
-
-A ruling will identify the person to whom it is addressed by name and address. It will contain
-
-(a) a recitation of the facts having a bearing on the issue sought to be resolved,
-
-(b) a discussion of the pertinent statutory provisions, regulations and other precedential material relied upon,
-
-(c) a description of the reasoning upon which the conclusions are based, and
-
-(d) a statement of conclusions. Such stated conclusions will give direct answers, where possible, to the specific questions raised by the taxpayer. The discussion contained in the ruling will be set forth with a sufficient degree of detail as to fairly apprise the taxpayer of the bases for the conclusions reached.
-
-
-
-
-
-
-*§ 16-05 Effect.* ::
-
-
-(a) A ruling represents an expression of the views of the Department of Finance as to the application of law, regulations and other precedential material to the set of facts specified in the ruling request. A ruling shall be binding upon the Department of Finance only with respect to the person to whom the ruling is rendered, provided that the facts are as stated in the ruling request. A taxpayer may not rely on a ruling issued to another taxpayer. All bureaus of the Department of Finance must follow the conclusions stated in the ruling where the factual situations are the same.
-
-(b) A ruling may be revoked or modified at any time under appropriate circumstances. If a ruling is revoked or modified, the revocation or modification applies to all years open under the statutes, unless the Commissioner or the Commissioner's delegate exercises discretionary authority to limit the retroactive effect of the revocation or modification.
-
-(c) Except in rare or unusual circumstances, the revocation or modification of a ruling will not be applied retroactively to the taxpayer for whom the ruling was issued or to a taxpayer whose tax liability was directly involved in the ruling if
-
-   (1) there has been no misstatement or omission of material facts,
-
-   (2) the facts developed later are not materially different from the facts on which the ruling was based,
-
-   (3) there has been no change in the applicable law,
-
-   (4) the ruling was originally issued with respect to a prospective or proposed transaction, and
-
-   (5) the taxpayer directly involved in the ruling acted in good faith in reliance upon the ruling and the retroactive revocation would be to the taxpayer's detriment.
-
-
-
-
-
-
-*§ 16-06 Issuance, Publication and Availability.* ::
-
-
-(a) For all requests for rulings received by the Office of Legal Affairs, a ruling will be mailed to the taxpayer or the taxpayer's authorized representative within 90 days of the receipt of a complete request for such a ruling. The mailing of a ruling will constitute the rendering of a ruling. The 90-day period within which a ruling must be issued may be extended by the Commissioner of Finance for a period of up to 30 additional days. In such case, the taxpayer or the taxpayer's authorized representative will be notified of the extension and the reason therefor. At any time before their expiration, the 90-day or additional 30-day periods may be extended by a written agreement between the taxpayer and the Office of Legal Affairs.
-
-(b) Letter rulings may be published and made available to the public. The complete text of a letter ruling may be published, or made available, except that the taxpayer's name, address, identifying numbers and other factual information which may identify the taxpayer will be deleted. Requests for copies of a letter ruling may be made to the Department of Finance, Records Access Officer, 345 Adams Street, Brooklyn, N.Y. 11201. Copies will be furnished at a cost of 25 cents per page.
-
-
-
-
 Chapter 15: Treatment of An International Banking Facility For Purposes of the Financial Corporation Tax
 --------------------------------------------------
 
@@ -10174,6 +10047,133 @@ This regulation shall take effect immediately, and shall apply to all taxable ye
 
 
 
+Chapter 16: Letter Rulings
+--------------------------------------------------
+
+
+
+*§ 16-01 General – Definition and Nature of Letter Rulings.* ::
+
+
+(a) A letter ruling is a written statement setting forth the applicability of statutory and regulatory provisions of any tax or charge administered by the Department of Finance, to a specified set of facts. Letter rulings are issued on behalf of the Commissioner of Finance by the Deputy Commissioner for Legal Affairs, to whom the Commissioner of Finance's authority to issue letter rulings is delegated.
+
+(b) Areas in which letter rulings may be requested. Any person may request a ruling relating to any tax or charge administered by the Department of Finance. A letter ruling may be sought with respect to a substantive question or a procedural one. Rulings may be requested with respect to questions arising in the course of an audit or an examination of a tax return, or with respect to questions relating to a taxpayer's claim for refund or credit.
+
+(c) Areas in which letter rulings will not be issued. No ruling will be issued:
+
+   (1) covering an issue or set of facts regarding which a notice of determination or a notice of disallowance of a claim for refund or credit has been issued to the taxpayer; or
+
+   (2) covering an issue or set of facts regarding which any taxpayer has been granted leave to appeal or regarding which the Department of Finance is seeking or has been granted leave to appeal an adverse decision to any court of the State of New York or the United States; or
+
+   (3) covering an issue which is clearly and adequately addressed by statutes, regulations, published rulings or other official pronouncements of the Department of Finance; or
+
+   (4) where the issue presented pertains to subject matter which, in accordance with a public pronouncement, is under study by the Department of Finance; or
+
+   (5) if the conclusion reached in such a ruling would require a factual determination which is properly an audit function.
+
+(d) Areas in which rulings will be issued at the discretion of the Deputy Commissioner for Legal Affairs. The Department of Finance reserves the right not to issue a ruling on hypothetical facts.
+
+
+
+
+
+
+*§ 16-02 Requests for Letter Rulings.* ::
+
+
+(a) Requests for a ruling should be typewritten, if possible, but handwritten requests will be accepted. The request must set forth the name, address and identification number (social security or federal employer identification number), the specific set of facts to which the request for a ruling relates, the exact issue to be resolved and all parties relative thereto. Copies of all tax returns, contracts, deeds, instruments or other documents relevant to the issues to be decided must be submitted. The request may include a presentation of the taxpayer's contentions as to the appropriate resolution of the issue raised in the request, together with any supporting arguments and citations of pertinent law or regulations. The taxpayer must state in the request whether or not the request relates to any matter currently under audit, or for which a notice of determination or a notice of disallowance of a claim for credit or refund has been issued, or for which there is a pending claim for credit or refund.
+
+(b) Representation of taxpayer.
+
+   (1) A request for a ruling may be made by an individual on his or her own behalf, by a member of a partnership (without filing any power of attorney) on behalf of the partnership, or by an officer or employee of a corporation on behalf of the corporation. Where a corporation acts through an employee, a power of attorney executed by an officer of the corporation must be filed.
+
+   (2) The adult spouse, parent, guardian or any person having legal custody of a minor, or a person who prepared the tax return of a minor, may request a ruling on behalf of such minor. A committee or conservator appointed pursuant to the Mental Hygiene Law, an attorney-in-fact acting pursuant to section 5-1601 of the General Obligations Law, or other person authorized by law, may request a ruling on behalf of an individual who is mentally or physically incapable of making such request.
+
+   (3) Any of the following may also file a request for a ruling on behalf of another individual or business entity if authorized by a power of attorney signed by such individual, by a member of a partnership or by an officer of a corporation:
+
+      (i) an attorney-at-law licensed to practice in any state;
+
+      (ii) a certified public accountant duly qualified to practice in any state;
+
+      (iii) a person admitted to practice before the Internal Revenue Service or before the Tax Court of the United States;
+
+      (iv) the taxpayer's spouse, domestic partner, child or parent. For purposes of this subparagraph, "domestic partner" means a person who has registered a domestic partnership in accordance with applicable law with the City Clerk, or has registered such partnership with the former City Department of Personnel pursuant to Executive Order 123  during the period August 7, 1989 through January 7, 1993. (The records of domestic partnerships registered at the former City Department of Personnel have been transferred to the City Clerk.) The power of attorney required by this section should be filed with the Office of Legal Affairs before or concurrent with the request for a ruling.
+
+(c) Method for requesting a ruling.
+
+   (1) A request for a ruling must be made on an application form prescribed by the Department of Finance and must be accompanied by a non-refundable processing fee as provided in the Regulations Relating to Fees to Be Charged by the Commissioner of Finance, in Addition to Those Now Fixed by Statute.
+
+   (2) A request for a ruling must be submitted to the Office of Legal Affairs, Department of Finance, 345 Adams Street, 3rd Floor, Brooklyn, N.Y. 11201.
+
+
+
+
+
+
+*§ 16-03 Procedure After Filing a Request for a Ruling.* ::
+
+
+(a) The Office of Legal Affairs will issue an acknowledgement letter upon receipt of a request for a ruling which, on its face, meets the procedural requirements of 19 RCNY §§ 16-01 and 16-02. Thereafter, the request will be reviewed for completeness and if it is determined that the request is not complete, or that additional information is required, a notice will be sent to the taxpayer advising him of the nature of the additional information required. The taxpayer may then revise and resubmit his request.
+
+(b) A taxpayer may withdraw a request for a ruling at any time within 30 days of the date of the acknowledgement letter. Thereafter, no request for a ruling may be withdrawn without the approval of the Office of Legal Affairs. Where a taxpayer withdraws a request for a ruling, the Department of Finance will not return the application fee accompanying such request. For purposes of the preceding sentence, failure to provide information requested by the Office of Legal Affairs may be deemed a withdrawal of a request for a ruling.
+
+
+
+
+
+
+*§ 16-04 Contents.* ::
+
+
+A ruling will identify the person to whom it is addressed by name and address. It will contain
+
+(a) a recitation of the facts having a bearing on the issue sought to be resolved,
+
+(b) a discussion of the pertinent statutory provisions, regulations and other precedential material relied upon,
+
+(c) a description of the reasoning upon which the conclusions are based, and
+
+(d) a statement of conclusions. Such stated conclusions will give direct answers, where possible, to the specific questions raised by the taxpayer. The discussion contained in the ruling will be set forth with a sufficient degree of detail as to fairly apprise the taxpayer of the bases for the conclusions reached.
+
+
+
+
+
+
+*§ 16-05 Effect.* ::
+
+
+(a) A ruling represents an expression of the views of the Department of Finance as to the application of law, regulations and other precedential material to the set of facts specified in the ruling request. A ruling shall be binding upon the Department of Finance only with respect to the person to whom the ruling is rendered, provided that the facts are as stated in the ruling request. A taxpayer may not rely on a ruling issued to another taxpayer. All bureaus of the Department of Finance must follow the conclusions stated in the ruling where the factual situations are the same.
+
+(b) A ruling may be revoked or modified at any time under appropriate circumstances. If a ruling is revoked or modified, the revocation or modification applies to all years open under the statutes, unless the Commissioner or the Commissioner's delegate exercises discretionary authority to limit the retroactive effect of the revocation or modification.
+
+(c) Except in rare or unusual circumstances, the revocation or modification of a ruling will not be applied retroactively to the taxpayer for whom the ruling was issued or to a taxpayer whose tax liability was directly involved in the ruling if
+
+   (1) there has been no misstatement or omission of material facts,
+
+   (2) the facts developed later are not materially different from the facts on which the ruling was based,
+
+   (3) there has been no change in the applicable law,
+
+   (4) the ruling was originally issued with respect to a prospective or proposed transaction, and
+
+   (5) the taxpayer directly involved in the ruling acted in good faith in reliance upon the ruling and the retroactive revocation would be to the taxpayer's detriment.
+
+
+
+
+
+
+*§ 16-06 Issuance, Publication and Availability.* ::
+
+
+(a) For all requests for rulings received by the Office of Legal Affairs, a ruling will be mailed to the taxpayer or the taxpayer's authorized representative within 90 days of the receipt of a complete request for such a ruling. The mailing of a ruling will constitute the rendering of a ruling. The 90-day period within which a ruling must be issued may be extended by the Commissioner of Finance for a period of up to 30 additional days. In such case, the taxpayer or the taxpayer's authorized representative will be notified of the extension and the reason therefor. At any time before their expiration, the 90-day or additional 30-day periods may be extended by a written agreement between the taxpayer and the Office of Legal Affairs.
+
+(b) Letter rulings may be published and made available to the public. The complete text of a letter ruling may be published, or made available, except that the taxpayer's name, address, identifying numbers and other factual information which may identify the taxpayer will be deleted. Requests for copies of a letter ruling may be made to the Department of Finance, Records Access Officer, 345 Adams Street, Brooklyn, N.Y. 11201. Copies will be furnished at a cost of 25 cents per page.
+
+
+
+
 Chapter 17: Filing Rules For New York City Income and Excise Taxes
 --------------------------------------------------
 
@@ -10462,55 +10462,6 @@ To be eligible for approval as the coordinating agency, a charitable non-profit 
 
 
 
-Chapter 20: Peddler License Renewals (Tax Standards)
---------------------------------------------------
-
-
-
-*§ 20-01 General.* ::
-
-
-In connection with the renewal of licenses by food and general vendors, and pursuant to § 17-310(c) (pertaining to food vendors) and § 20-457(c) (pertaining to general vendors) of the Administrative Code of the City of New York, the Commissioner of Finance is directed to establish
-
-(a) standards of sales tax payments sufficient to indicate whether the licensee has been operating on a full-time or part-time basis, and
-
-(b) a minimum amount of all applicable sales and business taxes imposed by Title 11 of the Administrative Code and administered by the Commissioner of Finance that the vendor-licensee was required to have paid during the preceding calendar year. No licensee will be granted a renewal of a license unless the licensee is in compliance with these regulations, provided, however, that the Commissioner of Health (for food vendors) and the Commissioner of Consumer Affairs (for general vendors) may excuse failure to comply when such failure results from illness or disability. Nothing herein shall be deemed to relieve the licensee from liability for any and all City or State taxes as may be applicable or from the filing and payment requirements of such taxes.
-
-
-
-
-
-
-*§ 20-02 Food Vendors.* ::
-
-
-(§ 17-310(c), Chapter 3, Title 17 of the Administrative Code).
-
-(a) For purposes of § 17-310(c), with respect to individual vendors who are required to collect and pay over sales taxes due to the making of taxable sales, a full time food vendor is defined as a food vendor whose sales tax payments are not less than $550.00 per year.
-
-(b) For purposes of § 17-310(c), with respect to individual vendors who are required to collect and pay over taxes due to the making of taxable sales, a part time food vendor is defined as any food vendor whose sales tax payments are not less than $220.00 per year nor more than $549.99 per year.
-
-(c) The minimum amount of applicable sales taxes that the vendor-licensee making taxable sales is required to have paid during the preceding calendar year is, in the case of a full time vendor, $550.00, and the case of a part time vendor, $220.00. No minimum applies with respect to the business taxes imposed by the Administrative Code.
-
-
-
-
-
-
-*§ 20-03 General Vendors.* ::
-
-
-(§ 20-457(c), Subchapter 27 of Chapter 2 of Title 20 of the Administrative Code).
-
-(a) For purposes of § 20-457(c), with respect to individual vendors who are required to collect and pay over sales taxes due to the making of taxable sales, a full time general vendor is defined as a general vendor whose sales tax payments are not less than $400.00 per year.
-
-(b) For purposes of § 20-457(c), with respect to individual vendors who are required to collect and pay over sales taxes due to the making of taxable sales, a part time general vendor is defined as a general vendor whose sales tax payments are not less than $160.00 per year nor more than $399.99 per year.
-
-(c) The minimum amount of applicable sales taxes that the vendor-licensee making taxable sales is required to have paid during the preceding calendar year is, in the case of a full-time vendor, $400.00, and in the case of a part-time vendor, $160.00. No minimum applies with respect to the business taxes imposed by the Administrative Code.
-
-
-
-
 Chapter 19: Parking Tax Exemption
 --------------------------------------------------
 
@@ -10636,6 +10587,55 @@ Vendor. "Vendor" means a person operating a garage, parking lot, or other place 
 (a) Any person not meeting the requirements for exemption who wrongfully obtains or uses an exemption certificate shall, in addition to the tax due, be liable for a penalty of not more than one hundred dollars if such certificate was obtained or used through negligence, and a penalty of not more than five hundred dollars if such certificate was obtained or used through fraud. The term "uses" includes failure to notify the vendor and the Department of Finance of change of parking location or primary residence, sale or transfer of the vehicle for which a certificate was issued, commercial use or other reason for loss of eligibility for exemption. These penalties shall be in addition to any penalties imposed under Section 1145 of Article 28 of the New York State Tax Law.
 
 (b) An individual resident shall not be entitled to a refund or credit with respect to any amount of tax paid to a vendor prior to the date such individual resident submitted to the vendor a valid exemption certificate.
+
+
+
+
+Chapter 20: Peddler License Renewals (Tax Standards)
+--------------------------------------------------
+
+
+
+*§ 20-01 General.* ::
+
+
+In connection with the renewal of licenses by food and general vendors, and pursuant to § 17-310(c) (pertaining to food vendors) and § 20-457(c) (pertaining to general vendors) of the Administrative Code of the City of New York, the Commissioner of Finance is directed to establish
+
+(a) standards of sales tax payments sufficient to indicate whether the licensee has been operating on a full-time or part-time basis, and
+
+(b) a minimum amount of all applicable sales and business taxes imposed by Title 11 of the Administrative Code and administered by the Commissioner of Finance that the vendor-licensee was required to have paid during the preceding calendar year. No licensee will be granted a renewal of a license unless the licensee is in compliance with these regulations, provided, however, that the Commissioner of Health (for food vendors) and the Commissioner of Consumer Affairs (for general vendors) may excuse failure to comply when such failure results from illness or disability. Nothing herein shall be deemed to relieve the licensee from liability for any and all City or State taxes as may be applicable or from the filing and payment requirements of such taxes.
+
+
+
+
+
+
+*§ 20-02 Food Vendors.* ::
+
+
+(§ 17-310(c), Chapter 3, Title 17 of the Administrative Code).
+
+(a) For purposes of § 17-310(c), with respect to individual vendors who are required to collect and pay over sales taxes due to the making of taxable sales, a full time food vendor is defined as a food vendor whose sales tax payments are not less than $550.00 per year.
+
+(b) For purposes of § 17-310(c), with respect to individual vendors who are required to collect and pay over taxes due to the making of taxable sales, a part time food vendor is defined as any food vendor whose sales tax payments are not less than $220.00 per year nor more than $549.99 per year.
+
+(c) The minimum amount of applicable sales taxes that the vendor-licensee making taxable sales is required to have paid during the preceding calendar year is, in the case of a full time vendor, $550.00, and the case of a part time vendor, $220.00. No minimum applies with respect to the business taxes imposed by the Administrative Code.
+
+
+
+
+
+
+*§ 20-03 General Vendors.* ::
+
+
+(§ 20-457(c), Subchapter 27 of Chapter 2 of Title 20 of the Administrative Code).
+
+(a) For purposes of § 20-457(c), with respect to individual vendors who are required to collect and pay over sales taxes due to the making of taxable sales, a full time general vendor is defined as a general vendor whose sales tax payments are not less than $400.00 per year.
+
+(b) For purposes of § 20-457(c), with respect to individual vendors who are required to collect and pay over sales taxes due to the making of taxable sales, a part time general vendor is defined as a general vendor whose sales tax payments are not less than $160.00 per year nor more than $399.99 per year.
+
+(c) The minimum amount of applicable sales taxes that the vendor-licensee making taxable sales is required to have paid during the preceding calendar year is, in the case of a full-time vendor, $400.00, and in the case of a part-time vendor, $160.00. No minimum applies with respect to the business taxes imposed by the Administrative Code.
 
 
 

@@ -5046,19 +5046,6 @@ Chapter 52: Notification To the Department of Commencement of Work Pursuant To A
 
 
 
-Chapter 400: Special Detailed Requirements Based On Use and Occupancy
---------------------------------------------------
-
-
-
-*§ 403-01 Impact Resistant Stair and Elevator Shaft Enclosures. [Repealed]* ::
-
-
-
-
-
-
-
 Chapter 300: Use and Occupancy Classification
 --------------------------------------------------
 
@@ -5146,6 +5133,19 @@ Figure 1 Summary chart of fire safety requirements
 (e) Certificate of occupancy. An amended certificate of occupancy need not be obtained in order to occupy an otherwise lawful apartment for use as a student apartment.
 
 (f) Records. The college or university shall maintain records at the building that contains any student apartment, identifying the unit numbers of student apartments, the maximum number of students housed in each such unit, whether the students are post-graduate or are permitted to be undergraduate, and where applicable, whether the apartment was first occupied as a student apartment prior to July 1, 2009. Such records shall be available for inspection by the Department, the Fire Department, and the Department of Housing Preservation and Development. The college or university may be required to produce further records to substantiate compliance with this section.
+
+
+
+
+Chapter 400: Special Detailed Requirements Based On Use and Occupancy
+--------------------------------------------------
+
+
+
+*§ 403-01 Impact Resistant Stair and Elevator Shaft Enclosures. [Repealed]* ::
+
+
+
 
 
 
@@ -10465,19 +10465,6 @@ Table 2
 
 
 
-Chapter 4000: Electrical Code
---------------------------------------------------
-
-
-
-*§ 4000-06 Fire Alarm Wiring and Power Sources. [Repealed]* ::
-
-
-
-
-
-
-
 Chapter 3600: Appendices
 --------------------------------------------------
 
@@ -11668,6 +11655,19 @@ Chapter 29 – Single- and Multiple-Station Alarms and Household Fire Alarm Syst
 
 
 
+Chapter 4000: Electrical Code
+--------------------------------------------------
+
+
+
+*§ 4000-06 Fire Alarm Wiring and Power Sources. [Repealed]* ::
+
+
+
+
+
+
+
 Chapter 6000: Fuel Gas Code
 --------------------------------------------------
 
@@ -11695,6 +11695,37 @@ Chapter 7000: Mechanical Code
 
 
 
+
+
+
+
+Chapter 9000: Zoning
+--------------------------------------------------
+
+
+
+*§ 9000-01 Adult Establishments.* ::
+
+
+Dates of establishment and discontinuance of adult establishments, houses of worship, and schools for the purposes of §§ 32-01 and 42-01 of the zoning resolution. In determining whether an adult establishment may lawfully be established at a location pursuant to §§ 32-01 and 42-01 of the zoning resolution, the department will use the following criteria to determine the dates of establishment and discontinuance for adult establishments, houses of worship and schools located or proposed to be located within 500 feet of each other.
+
+(a) The date of establishment of an adult establishment, house of worship, or school in existence and operating prior to August 8, 2001 shall be the date of issuance of an appropriate department permit or, if no permit was required, the date that it commenced operation, as determined by the department.
+
+(b) Except as otherwise provided in subdivision a of this section, the date of establishment of an adult establishment, house of worship, or school shall be the date of issuance of an appropriate department permit, subject to the following qualifications:
+
+   (1) With respect to a new building permit or alteration permit:
+
+      (i) significant progress must be shown toward completion of the work under the permit. For the purposes of this paragraph, the term "significant progress" means the issuance of a temporary certificate of occupancy or, if applicable, department signoff of the work within one year of issuance of the permit, except that upon application, the commissioner or his or her designee, may extend the one year period in accordance with subdivision c of this section for a period of time not exceeding one year, and
+
+      (ii) the use or operation for which the building is constructed or altered must commence within six months after the issuance of a temporary certificate of occupancy or, if applicable, within six months after a department signoff that the work has been completed, except that upon application, the commissioner or his or her designee, may extend the six month period in accordance with subdivision c of this section for a period of time not exceeding six months.
+
+   (2) With respect to applications for permits filed solely to establish priority, where no work requiring a building permit is proposed, the use or operation for which the permit is issued must commence within two months of the issuance of such permit, except that upon application, the commissioner or his or her designee may extend such two month period in accordance with subdivision c of this section for a period of time not exceeding two months.
+
+(c) An extension of time pursuant to subdivision b of this section may be granted where the permittee submits an application no later than 30 days prior to the expiration of the applicable time period together with satisfactory evidence that significant progress or the commencement of use or operations within the applicable time period is impracticable. The commissioner or his or her designee shall make a determination and notify the applicant in writing of his or her determination not later than 30 days after receipt of the application by the department. If the application is denied, the commissioner or his or her designee shall state the reason(s) therefor. If the commissioner or his or her designee fails to act upon the application within such 30-day period, the application shall be deemed to be granted.
+
+(d) An adult establishment, otherwise in compliance with the zoning resolution, may be established within 500 feet of a discontinued adult establishment, house of worship or school. For the purposes of this subdivision, once established, an adult establishment, house of worship, or school shall not be deemed to be discontinued until it has ceased operation for a continuous period of one year or longer.
+
+(e) The time periods set forth in this section for significant progress of work or for commencement of operations shall commence to run as of the effective date of this section or issuance of the permit, whichever is later.
 
 
 
@@ -12999,37 +13030,6 @@ Table 7Special Inspection
 
 
 
-
-
-
-
-Chapter 9000: Zoning
---------------------------------------------------
-
-
-
-*§ 9000-01 Adult Establishments.* ::
-
-
-Dates of establishment and discontinuance of adult establishments, houses of worship, and schools for the purposes of §§ 32-01 and 42-01 of the zoning resolution. In determining whether an adult establishment may lawfully be established at a location pursuant to §§ 32-01 and 42-01 of the zoning resolution, the department will use the following criteria to determine the dates of establishment and discontinuance for adult establishments, houses of worship and schools located or proposed to be located within 500 feet of each other.
-
-(a) The date of establishment of an adult establishment, house of worship, or school in existence and operating prior to August 8, 2001 shall be the date of issuance of an appropriate department permit or, if no permit was required, the date that it commenced operation, as determined by the department.
-
-(b) Except as otherwise provided in subdivision a of this section, the date of establishment of an adult establishment, house of worship, or school shall be the date of issuance of an appropriate department permit, subject to the following qualifications:
-
-   (1) With respect to a new building permit or alteration permit:
-
-      (i) significant progress must be shown toward completion of the work under the permit. For the purposes of this paragraph, the term "significant progress" means the issuance of a temporary certificate of occupancy or, if applicable, department signoff of the work within one year of issuance of the permit, except that upon application, the commissioner or his or her designee, may extend the one year period in accordance with subdivision c of this section for a period of time not exceeding one year, and
-
-      (ii) the use or operation for which the building is constructed or altered must commence within six months after the issuance of a temporary certificate of occupancy or, if applicable, within six months after a department signoff that the work has been completed, except that upon application, the commissioner or his or her designee, may extend the six month period in accordance with subdivision c of this section for a period of time not exceeding six months.
-
-   (2) With respect to applications for permits filed solely to establish priority, where no work requiring a building permit is proposed, the use or operation for which the permit is issued must commence within two months of the issuance of such permit, except that upon application, the commissioner or his or her designee may extend such two month period in accordance with subdivision c of this section for a period of time not exceeding two months.
-
-(c) An extension of time pursuant to subdivision b of this section may be granted where the permittee submits an application no later than 30 days prior to the expiration of the applicable time period together with satisfactory evidence that significant progress or the commencement of use or operations within the applicable time period is impracticable. The commissioner or his or her designee shall make a determination and notify the applicant in writing of his or her determination not later than 30 days after receipt of the application by the department. If the application is denied, the commissioner or his or her designee shall state the reason(s) therefor. If the commissioner or his or her designee fails to act upon the application within such 30-day period, the application shall be deemed to be granted.
-
-(d) An adult establishment, otherwise in compliance with the zoning resolution, may be established within 500 feet of a discontinued adult establishment, house of worship or school. For the purposes of this subdivision, once established, an adult establishment, house of worship, or school shall not be deemed to be discontinued until it has ceased operation for a continuous period of one year or longer.
-
-(e) The time periods set forth in this section for significant progress of work or for commencement of operations shall commence to run as of the effective date of this section or issuance of the permit, whichever is later.
 
 
 

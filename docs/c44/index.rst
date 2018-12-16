@@ -1,1871 +1,2810 @@
-Title 62: City Planning
+Title 63: Landmarks Preservation Commission
 ===================================================
 
-Chapter 1: Practice and Procedure of City Planning Commission
+Chapter 1: Practice and Procedure--Public Hearings and Meetings of the Commission
 --------------------------------------------------
 
 
 
-*§ 1-01 General Rules.* ::
+*§ 1-01 Quorum.* ::
 
 
-(a)  The regular public hearings of the City Planning Commission shall be held twice monthly on Wednesday at 10 a.m. in City Hall, unless otherwise ordered by the Chair. Other regular public meetings of the City Planning Commission, also known as Review Sessions, shall be held twice monthly on Monday at 22 Reade Street, Spector Hall unless otherwise ordered by the Chair. The time and location of any meeting may be confirmed by contacting the Office of the Calendar Officer at the Department of City Planning.
+A quorum of the Landmarks Preservation Commission shall consist of six Commissioners. Public hearings and public meetings may be conducted without a quorum.
 
-(b) Special meetings of the City Planning Commission may be called by the Chair or by seven members.
 
-(c) A quorum shall consist of seven members.
 
-(d) Final action by the Commission shall be by the affirmative vote of not less than seven members at a meeting open to the public.
 
-(e) Except by unanimous consent, matters upon which public hearings are required by law shall lie over until the next meeting following the public hearing.
 
-(f) The order of business at regular public hearings shall be as follows unless otherwise ordered by the Chair.
 
-   (1) Roll call.
+*§ 1-02 Calendaring.* ::
 
-   (2) Approval of minutes of previous meetings.
 
-   (3) Scheduling dates for future hearings.
+The Landmarks Preservation Commission may, upon the adoption of a motion, calendar an item to be considered for landmark designation. A motion to calendar must be approved by the majority of the Commissioners present in order to be adopted. The date of the public hearing on the proposed designation may be set by the motion to calendar or it may be set at some later time by the Chairman, acting at his or her discretion.
 
-   (4) Public Hearings.
 
-   (5) Reports on previously heard items.
 
-(g) Matters not on the calendar shall be considered only by unanimous consent.
 
-(h) The Chair shall direct a roll call upon every proposition to be acted upon pursuant to §§ 195, 197-a, 197-c, 200 and 201 of the Charter of the City of New York (the Charter). Votes shall be taken by the ayes and nays.
 
-(i) The vote upon every proposition voted upon shall be recorded in the minutes.
 
-(j) The Chair shall establish the order in which speakers are heard at public hearings. Speakers shall be limited to no more than three minutes to present testimony unless more time is permitted by the Chair.
+*§ 1-03 Withdrawing and Laying Over Certificate of Appropriateness Items.* ::
 
-(k) City employees designated by the Chair shall be the only persons allowed within the guard rail of the dais during public meetings.
 
-(l) All reports of the Commission or its members pertaining to matters acted on by the Commission shall be incorporated in the record.
+Once an application has been included on a Certificate of Appropriateness public hearing calendar, it may be withdrawn or laid-over as follows:
 
-(m) All proposals scheduled for public hearings shall be duly advertised in accordance with Charter provisions and all applicable laws.
+(a) Lay-Overs (requests prior to being heard). If an application has been included on a Certificate of Appropriateness calendar and the hearing has not yet occurred, the applicant may request that the application be laid-over to a subsequent public hearing. The applicant must send the Landmarks Preservation Commission a letter indicating that he or she would prefer to be heard on a subsequent hearing and stating that the Commission's time to act on the matter is being extended for an equivalent length of time. Upon receipt of this request staff will withdraw the item and hold it for the following month's hearing. Where the application concerns, in whole or in part, the legalization or curing of a violation, the applicant shall be allowed to lay over the item only once as of right. If the applicant requests a subsequent lay-over, the Chair may at his or her own discretion consider the request a request for withdrawal and may withdraw the item pursuant to the procedure set forth in subsection (b)(1) of this section, or, if the application seeks to legalize a violation, the Chair may keep the item on the calendar and the Commission may act on it at the public hearing. Withdrawal of an application to legalize or cure a violation, in whole or in part, shall be deemed a dissapproval for purposes of service of a second or subsequent notice of violation pursuant to Administrative Code § 25-317.1b(4)(a)(ii).
 
-(n) The public may attend all meetings of the Commission, including public hearings, except that the Commission may close such a meeting to the public only as provided in the New York State Open Meetings Law (Public Officers Law, §§ 100-111).
+(b) Withdrawals (requests prior to being heard). If an application has been included on a Certificate of Appropriateness public hearing calendar and the hearing has not yet occurred, the application may be withdrawn from the calendar as follows:
 
+   (1) by the applicant if the applicant sends a letter to the Landmarks Preservation Commission indicating that he or she wishes to abandon the application as proposed. Staff withdraws the item and generates the "Withdrawn at Staff Level" number from "Permit Application Tracking System", a withdrawal letter is sent to the applicant and the application is closed.
 
+   (2) by the staff if new information or design modifications are provided that enable the staff to issue a staff-level permit. Staff withdraws the item from the calendar and issues a staff permit to close the application.
 
+   (3) by the staff at the direction of the Director of Preservation if the status of the application changes with respect to scope and completeness.
 
+(c) Withdrawals from calendar (after having been heard). If an application has been included on a Certificate of Appropriateness public hearing calendar and the hearing has taken place, the application can only be withdrawn by the applicant if he or she sends a letter to the Landmarks Preservation Commission indicating that the application is being abandoned as proposed. Upon receipt of this request staff will withdraw the item from the calendar, generate a "Withdrawn at Staff Level" number from "Permit Application Tracing System" and send the applicant a withdrawal letter to close the application. Where the application concerns, in whole or in part, the legalization of a violation, the Chair may, at his or her own discretion, reject the applicant's request to withdraw and the Commission may continue to consider and act on the application as submitted. Withdrawal of an application to legalize or cure a violation, in whole or in part, shall be deemed a dissapproval for purposes of service of a second or subsequent notice of violation pursuant to Administrative Code § 25-317.1b(4)(a)(ii).
 
 
-*§ 1-02 The Calendar Officer: Notices, Calendars, Minutes, Record, and Communications.* ::
 
 
-(a)  Notices of all special meetings shall be given to each member by the Calendar Officer.
 
-(b) The Calendar Officer shall prepare a calendar of the business to be presented and considered at each public meeting. The matters thereon shall be arranged in the order prescribed by 62 RCNY § 1-01(f), and shall be properly classified. The Calendar Officer shall also keep a record of undetermined matters which have been laid over.
 
-(c) Record. The record of a public meeting, including a public hearing, shall consist of either an audio recording or verbatim stenographic record of the proceedings; a list of speakers' names and affiliations, if any; a notation of each speaker's own indication, on a form provided for that purpose, of support or opposition to the proposal; and any exhibits or written statements offered by speakers. The record shall be available online from the Department of City Planning's website or at the Calendar Office, City Planning Commission, 120 Broadway, 31st Floor, New York, New York 10271. The Department of City Planning shall make available for public inspection, at the above location, a complete transcript of all public hearings of the Commission within sixty (60) days of such hearing.
+*§ 1-04 Final Actions.* ::
 
-(d) The Calendar Officer shall maintain the minutes of each public meeting, and shall make them available for examination by the public in the Office of the Calendar Officer.
 
-(e) Minutes and a record of votes shall be taken at any executive session to the extent required by § 106 of the Public Officers Law.
+No final determination or action will be made or taken except by concurring vote of at least six Commissioners.
 
-(f) All communications, petitions and reports intended for consideration shall be sent to the Commission's attention through the Department of City Planning's website or the Calendar Office.
 
-(g) The Calendar Officer shall transmit to the City Council and other city departments affected thereby true copies of all reports and resolutions adopted.
 
 
 
 
+*§ 1-05 Submissions to the Record.* ::
 
 
+The Commission may, upon the adoption of a motion, close the hearing and leave the Record open on a particular item until a stated date to allow for the submission of additional written information. Submissions received after the stated date will be included in the Record provided they are received prior to the Commission's determination or action on the item. The Commission will neither make a final determination nor take any final action on an item while the Record is open on that item.
 
 
-*§ 1-03 Suspension of Rules.* ::
 
 
-The suspension of any of the rules of Practice and Procedure of the City Planning Commission may be ordered by unanimous vote.
-
-
-
-
-Chapter 2: Uniform Land Use Review Procedure (ULURP)
---------------------------------------------------
-
-
-
-*§ 2-01 Actions Subject to Procedure.* ::
-
-
-The land use review procedure which is set out herein shall govern the following actions:
-
-(a) changes in the City Map pursuant to Charter §§ 198 and 199;
-
-(b) approval of a map of a subdivision or the platting of land into streets, avenues or public places pursuant to Charter § 202;
-
-(c) designations of zoning districts under the Zoning Resolution, including conversion from one land use to another land use pursuant to Charter §§ 200 and 201;
-
-(d) adoption of special permits within the jurisdiction of the City Planning Commission (hereafter: "the Commission") under the Zoning Resolution pursuant to Charter §§ 200 and 201;;
-
-(e) selection of sites for capital projects pursuant to Charter § 218;
-
-(f) granting of revocable consents pursuant to Charter § 364, requests for proposals and other solicitations for franchise pursuant to Charter § 363 and major concessions as defined pursuant to Charter § 374;
-
-(g) authorization of improvements in real property, the costs of which are payable other than by the City pursuant to Charter § 220;
-
-(h) approval of housing or urban renewal plans and projects pursuant to City, State or Federal laws;
-
-(i) approval of sanitary or waterfront landfills pursuant to applicable Charter provisions or other provisions of law;
-
-(j) approval of sale, lease (other than lease of space for office uses), exchange or other disposition of real property of the City and, sale or lease of land under water pursuant to Charter § 1602, Chapter 15 or other applicable provisions of law;
-
-(k) acquisitions by the city of real property (other than acquisition of office space for office use or a building for office use), including acquisition by purchase, condemnation, exchange or lease and including the acquisition of land under water pursuant to Charter § 1602, Chapter 15, or other applicable provisions of law;
-
-   (1) for purposes of review by a community board or, where appropriate, by community boards and a borough board, the granting by the Board of Standards and Appeals of a variance of the Zoning Resolution pursuant to Charter § 668(2);
-
-(m) for purposes of review by a community board or, where appropriate, by community boards and a borough board, the granting by the Board of Standards and Appeals of a special permit assigned to its jurisdiction under the Zoning Resolution pursuant to Charter § 668(2);
-
-(n) such other matters involving the use, development or improvement of property as proposed by the Commission and enacted by the City Council pursuant to local law.
-
-
-
-
-
-
-*§ 2-01.1 Zoning Resolution Amendments Adopted Pursuant to City Charter § 200 or § 201.* ::
-
-
-Applications to amend the Zoning Resolution pursuant to City Charter § 201 and actions to amend the Zoning Resolution initiated by the Commission pursuant to Charter § 200, which concern revisions to the text of the Zoning Resolution, shall be subject to the provisions of subdivisions (b), (c), (d) and (g) of 62 RCNY § 2-06 and subdivision (c) of 62 RCNY § 2-02.
-
-
-
-
-
-
-*§ 2-02 Applications.* ::
-
-
-(a)  Applications: general provisions.
-
-   (1) Presentation of application. A request for any action shall be submitted to the Department of City Planning. The application must be submitted as provided for in the instructions on the Department of City Planning's website. This includes the submission of forms requesting information required for the "doing business database" established by Local Law 34 for the year 2007, and must include all of the information and documents required by such instructions and forms. For purposes of the acquisition of property by the City, pursuant to 62 RCNY §§ 2-01(e) and 2-01(k), the applicant shall be the requesting agency and the Department of Citywide Administrative Services. For purposes of the approval of housing or urban renewal plans and projects or amendments thereof pursuant to City, State or Federal laws in accordance with 62 RCNY § 2-01(h), the applicant shall be the New York City Department of Housing Preservation and Development or the New York City Housing Authority, as appropriate, or their designees. The Department may not consider the application as filed unless it includes all required components and shall not consider the application as filed unless the required fee has been paid or is paid concurrently with the submission of the application.
-
-   (2) Initial Review. The Department of City Planning shall, within five (5) days, review each application to ensure that all required forms, documents and other exhibits supplied have been submitted and prepared as required by the instructions. If any of the documentation is missing or has been improperly prepared, the applicant will be notified that the submitted application has been rejected, along with a listing of its deficiencies If the documentation is in order, the Department shall assign a docket number and shall transmit a Notice of Receipt of the application to all the appropriate Department divisions and other agencies which review such application, and to the community board(s), Borough President(s), borough board (when appropriate), the City Council and the applicant in accordance with 62 RCNY § 2-02(b). Such Notice of Receipt, when sent to the community board(s), Borough President(s), borough boards and City Council shall include a copy of the application form and all documents included therewith.
-
-   (3) Substantive Review. The application form, documents and other exhibits shall be subject to review by the appropriate divisions of the Department in order to ensure that the requirements for completeness in 62 RCNY § 2-02(a)(5) have been met prior to certification of the application into ULURP. The Department may request any additional documents, maps, plans, drawings or information necessary to complete or organize the submission, or to clarify its substance and the land use issues attendant to it. The Department of City Planning shall refer such additional application documents or amendments within five (5) days to each affected borough president, community board or borough board, and to the City Council. Not later than sixty (60) days after the Notice of Receipt has been sent, the Department of City Planning shall notify the applicant of any deficiencies or errors in the application, documents and other exhibits, and shall make any requests for revised or supplementary documents and exhibits. The applicant is expected to respond within a reasonable time. Upon receipt of the corrected, revised or supplementary material, the Department of City Planning shall review it within no more than sixty (60) days and make any additional request for further corrections or supplements if needed. If the applicant fails to respond within sixty (60) days after the receipt of a request for revisions, corrections or supplement, the Department of City Planning shall give notice to the applicant that the application will be deemed withdrawn.
-
-   (4) Appeal for Certification. At any time after one hundred and eighty (180) days have elapsed from the date of the Notice of Receipt of any application, the applicant may appeal in writing to the Commission to certify the application as complete. The affected Borough President may also appeal in writing if the Borough President finds that the application is consistent with the land use policy or strategic policy statement of the borough formulated pursuant to § 82, subsection 14 of the Charter. Upon receipt of such an appeal, the Commission shall refer it to the Department of City Planning and the Office of Environmental Coordination or lead agency for an evaluation of the completeness of the application, which shall include an identification of all material requested by the Department of City Planning and the environmental review staff or lead agency but not yet provided by the applicant. If the Commission determines that all pertinent information has been supplied in accordance with the criteria of 62 RCNY § 2-02(a)(5) below, it shall certify the application as complete. If the Commission determines that pertinent information has not been supplied, such information shall be listed by the Department of City Planning and the environmental review staff and sent by the Commission to the applicant within thirty (30) days of receipt of the appeal. When the applicant has responded, either by supplying all the information so requested, or by explaining why such information should not be required in order to certify the application, the Commission shall consider the evaluation and the applicant's response and either certify the application as complete in accordance with 62 RCNY § 2-02(a)(5) or deny the appeal. A denial by the Commission shall state the information that must still be supplied or clearly state the reason for denial. Such determination shall be made not later than sixty (60) days from the date the appeal is received. If the appeal is one which has been made by the affected Borough President, and the land use proposed in the application is consistent with the land use policy or strategic policy statement of the affected Borough President, then a vote of five members shall be sufficient to certify the application as complete in accordance with 62 RCNY § 2-02(a)(5) below. In all other instances, a majority vote of the Commission is necessary to certify an application. A denial of the appeal shall mean that the application remains incomplete, and the Department of City Planning and the environmental review staff shall continue with timely review of the application until all the information required for completeness has been provided at which time certification shall take place. If such review continues for an additional one hundred and eighty (180) days or more beyond the denial, the applicant may again appeal to the Commission under the procedure outlined above to certify the application.
-
-   (5) Certification of Completeness. The Department or the Commission shall certify the application as complete when compliance has been achieved with all of the following:
-
-      (i) The standard application form, including for any application certified on or after April 14, 2008, forms requesting information required for the "doing business database" established pursuant to Local Law 34 for the year 2007, has been completed in its entirety with all requested information presented in clear language.
-
-      (ii) All accompanying documents, maps, plans, drawings, and other information are properly organized and presented in clear language and understandable graphic form.
-
-      (iii) The information supplied on the application form and accompanying documents is fully sufficient to address all issues of jurisdiction and substance which are required to be addressed for the category of action as defined in the Charter, statutes, Zoning Resolution, Administrative Code or other law or regulation.
-
-      (iv) All reviews by necessary and related agencies of the State and City have been completed and any required reports, certifications, sign-offs or other such agency actions required by law or regulation prior to ULURP have been secured, or a written waiver of the agency presented. If any such agency does not respond within sixty (60) days, it will be deemed to have waived its review and action as applicable law permits.
-
-      (v) A determination has been made whether the action is subject to City or State Environmental Quality Review, and if so subject, the lead agency has issued either:
-
-         (A) a Negative or Conditional Negative Declaration; or
-
-         (B) a Notice of Acceptance of a Draft Environmental Impact Statement.
-
-      (vi) Notification of any proposed (E) designation has been submitted to the Department of City Planning as required pursuant to 62 RCNY § 2-02(e) hereof.
-
-(b) Referrals: general provisions. Except as provided in 62 RCNY § 2-02(c) hereof, within nine (9) calendar days after the certification by the Department of City Planning, or by the Commission if certification occurs pursuant to 62 RCNY § 2-02(a)(4) above, that a submission is a complete application, the Department of City Planning shall make the following referrals:
-
-   (1) any application relating to a proposal which occupies or would occupy land located in only one community district shall be referred to the community board for such district;
-
-   (2) any application relating to a proposal which occupies or would occupy land located in two or more community districts shall be referred to the community board for each such district and to the borough board for the appropriate borough;
-
-   (3) any application relating to a proposal which occupies or would occupy land located in a joint interest area not included within a community district shall be referred to the community board for each community district bounding such area and to the borough board for the appropriate borough;
-
-   (4) all applications shall be referred to the Borough President of the borough in question;
-
-   (5) all applications shall be referred to the City Council.
-
-(c) Charter § 201 applications. A request for an amendment to the Zoning Map or the text of the Zoning Resolution by a taxpayer, community board, borough board, Borough President, the Mayor or the Land Use Committee of the Council pursuant to Charter § 201, shall be filed with the Department. Applications for special permits pursuant to § 201 may be filed by any person or agency. Such requests shall be subject to the application and certification procedure of 62 RCNY § 2-02(a) hereof and shall be referred pursuant to 62 RCNY § 2-02(b) hereof.
-
-(d) Withdrawals. An applicant may at any time file with the Commission a statement that its application is withdrawn. If withdrawal occurs after filings have occurred pursuant to 62 RCNY § 2-06(h)(4), the applicant shall also file a statement of withdrawal with the City Council. Upon the filing of such a statement, the application in question shall be void and no further processing of such application under this uniform land use review procedure shall be undertaken by a community board, Borough President, borough board or the Commission. The Commission shall promptly give notice of such withdrawal to the board or boards, to the Borough President to which the application was referred pursuant to 62 RCNY § 2-02(b) and to the Council, if filings pursuant to 62 RCNY § 2-06(h)(4) have not occurred. The request to which the application relates may thereafter be advanced only in connection with a new application certified as complete pursuant to 62 RCNY § 2-02(a) herein and processed according to this uniform land use review procedure.
-
-(e) Notification of proposed (E) designation.
-
-   (1) If an application for an amendment to the Zoning Map or text of the zoning resolution pursuant to Charter § 197-c or § 200 and § 201, respectively, includes an (E) designation with respect to potential hazardous materials, air quality or noise on any tax lot or zoning lot pursuant to § 11-15 of the Zoning Resolution of the City of New York, at the time the application is referred pursuant to 62 RCNY § 2-02(b) hereof, the owner or owners of any such tax lot or zoning lot, with the exception of the applicant, shall be notified of the proposed (E) designation. Such notification shall be by the lead agency, as defined in 6 New York Code of Rules and Regulations, Part 617, as amended, and 62 RCNY § 5-02, as amended. If the lead agency is other than the Commission, no such application shall be certified as complete pursuant to 62 RCNY § 2-02(a)(5) hereof until such other lead agency shall have submitted any notification of a proposed (E) designation, in the form and addressed to the parties required by this Section to the Department of City Planning, who shall send such notification as provided by this Section.
-
-   (2) Such notification shall be by first-class mail and shall be made to the person(s) or entity(ies) identified in the official records of the City of New York as the fee owners of such tax lot or zoning lot and shall be sent to the address or addresses indicated in such records.
-
-   (3) The notification shall include or refer to the Department of City Planning's website for:
-
-      (i) a description of the existing zoning and the proposed rezoning for the properties that will include the (E) designation;
-
-      (ii) notice to the property owner of the right to attend and testify at any public hearing relating to the proposed Zoning Map amendment;
-
-      (iii) the phone numbers for a contact person at the lead agency, or if the lead agency is the Commission, a contact person or persons at the Department of City Planning;
-
-      (iv) § 11-15 of the Zoning Resolution of the City of New York or its successor.
-
-
-
-
-
-
-
-
-*§ 2-03 Community Board Actions.* ::
-
-
-(a) General provisions.
-
-   (1) Except as provided below, within sixty (60) calendar days after a community board's receipt of a complete application referred by the Department of City Planning, the Board of Standards and Appeals or the Commission, the community board shall hold a public hearing and adopt and submit as provided herein a written recommendation concerning such application. For purposes of this paragraph (1), a community board shall be deemed to have received an application nine (9) calendar days after the date of certification. The Department of City Planning shall transmit a certified application to the community board, making it available to the community board within (8) days from the date of certification.
-
-   (2) Where the negative vote of the community board was adopted without a public hearing, without a quorum or at a meeting conducted after its 60-day period for review, such non-complying negative vote shall not serve the purpose of Charter § 197-d(b)(2). The Commission may note the noncompliance and any other deficiency in compliance with this chapter in its report.
-
-(b) Waivers of hearings and recommendations.
-
-   (1) Leases. In the case of a proposed lease of property of the City which in the judgment of the community board does not involve a substantial land use interest, such board may waive the holding of a public hearing and preparation of a written recommendation. In such case the community board shall submit to the Department a written waiver of its right to hold a public hearing and to submit recommendations to the City Planning Commission and affected Borough President. When a written waiver of the community board's right to hold a hearing and submit a recommendation is received by the Department of City Planning the community board's period of review shall be deemed ended and the Borough President's time period begun.
-
-   (2) Franchises. In the case of Request for Proposal or other solicitation for a franchise which in the judgment of the community board does not involve a substantial land use interest, such community board may submit a written waiver to the Commission of the right to hold a public hearing and the preparation of a written recommendation.
-
-(c) Notice of hearing. Notice of the time, place and subject of a public hearing to be held by a community board on an application shall be given as follows:
-
-   (1) by publication in The City Record for the five (5) days of publication immediately preceding and including the date of the public hearing;
-
-   (2) by publication in the Comprehensive City Planning Calendar distributed not less than five (5) calendar days prior to the date of public hearing;
-
-   (3) to the applicant ten (10) days prior to the date of hearing (with such notice also forwarded to the Department of City Planning);
-
-   (4) for all actions that result in acquisition of property by the City, other than by lease, whether by condemnation or otherwise, the applicant shall notify the owner or owners of the property in question by mail to the last known address of such owner or owners, as shown on the City's tax records, not later than five
-
-   (5) days prior to the date of hearing. An affidavit attesting to the mailing and a copy of the notice shall be submitted to the Department of City Planning prior to the Commission's public hearing;
-
-   (6) Community boards are also encouraged to publicize hearings by publication in local newspapers, posting notices in prominent locations, and other appropriate means.
-
-(d) Conduct of public hearing.
-
-   (1) Location. A community board public hearing shall be held at a convenient place of public assembly chosen by the board and located within its community district. If in the community board's judgment there is no suitable and convenient place within the community district, the hearing shall be held at a centrally located place of public assembly within the borough. This provision is not intended to affect the requirement of Charter § 2800(h) stating a community board's obligation to meet at least monthly (except during July and August) within its district.
-
-   (2) General character. Hearings shall be legislative type hearings, without sworn testimony or strict rules of evidence. Only members of a community board and persons expressly authorized by the chairperson may question a speaker. All persons appearing and wishing to speak shall be given the opportunity to speak. A community board hearing shall be conducted in accordance with by-laws adopted by the community board.
-
-   (3) Quorum. A public hearing shall require a quorum of 20% of the appointed members of the community board, but in no event fewer than seven such members. The minutes of a meeting at which a public hearing was held shall include a record of the individual members present.
-
-   (4) Record. The record of a public hearing shall consist of but not be limited to a list of speaker's names and affiliations (if any), a notation of each speaker's own indication, on a form provided for that purpose, of support or opposition to the application, and any exhibits or written statements offered by speakers.
-
-(e) Public attendance at meetings of a community board or its committees. The public may attend all meetings of a community board or its committee at which an application for an action subject to this Chapter is to be considered or acted upon in a preliminary or final manner. A community board may close a meeting or committee meeting to the public only as provided in the New York State Open Meetings Law (Public Officers Law, §§ 100 – 111).
-
-(f) Recommendations and waivers.
-
-   (1) Quorum. The adoption of a community board recommendation, or the waiver of a public hearing and recommendation by a community board, shall require a quorum of a majority of the appointed members of the board. The minutes of a meeting at which a recommendation or waiver was adopted shall record the individual members present.
-
-   (2) Vote. The adoption of a community board recommendation or the waiver of a public hearing and recommendation shall be by a public vote which results in approval by a majority of the appointed members present during the presence of a quorum, at a duly called meeting. The vote shall be taken in accordance with the by-laws of the community board.
-
-   (3) Content. A community board recommendation shall be in writing via a form provided by the Department of City Planning and shall include a description of the application, the time and place of the public hearing on the application, the time and place of the meeting at which the recommendation was adopted and the vote by which the recommendation was adopted. The community board may include in its submission the reasons for the vote and any conditions attached to its vote. The community board may state that its conditional approval shall be considered a negative recommendation for purposes of Charter § 197-d(b)(2) if conditions that it considers essential to minimize land use or environmental impacts are not adopted by the Commission. The City Planning Commission shall give consideration only to those conditions which are related to land use and environmental aspects of the application.
-
-   (4) Submission. A community board shall submit its recommendation or waiver promptly after adoption, to the Commission, to the Borough President, to the applicant and, in the case of an application referred to two or more community boards and a borough board, to such borough board. If a community board fails to act within the time limits for review the application shall be deemed referred to the next level of review at the completion of the community board's time period.
-
-(g) Requests for review of action not in a community district. A community board or borough board may obtain the filed application and supporting documents for any action subject to ULURP which is not located within the district boundaries of such community board or borough board. Such community board or borough board may request review of such applications by writing, either to the Calendar Office of the Commission, or requesting through the Department's website, and it shall state the basis for the board's judgment that the application may significantly affect the welfare of the district or borough served by such board. Thereafter, the community board or borough board may schedule a public hearing on the application, such hearing and notice thereof to be in conformance with 62 RCNY §§ 2-03(c), 2-03(d), 2-05(c) and 2-05(d) and may submit a written recommendation to the Commission. The Commission may receive such recommendation at any time prior to its final action on the application; however, it shall have no authority to extend the review period defined in Charter § 197-c, nor shall a review by a second community board pursuant to this subparagraph (g) require that the application be reviewed by the borough board. A Borough President may similarly obtain a filed application and supporting documents for and request review of any action subject to ULURP which is not located within the boundaries of the borough.
-
-
-
-
-
-
-
-
-*§ 2-04 Borough President Actions.* ::
-
-
-A Borough President may submit a written recommendation on an application, or waive the right to submit a recommendation to the City Planning Commission. Such recommendation or waiver shall be submitted on the form provided not later than 30 days after the receipt of a recommendation or waiver by the City Planning Commission and the Borough President from an affected community board, by the latest to respond of all affected community boards or if any affected community board shall fail to act within the time period, thirty (30) days after the expiration of the time allowed for such community board(s) to act.
-
-
-
-
-
-
-*§ 2-05 Borough Board Actions.* ::
-
-
-(a) General provisions. Except as provided below in 62 RCNY § 2-05(b), an affected borough board may conduct a public hearing on an application and submit a written recommendation to the Commission. Such recommendation or waiver shall be submitted on the form provided not later than thirty (30) days after the filing of a recommendation or waiver with the Borough President by the last to respond of all affected community boards, or if any affected community board shall fail to act within the time period, thirty (30) days after the expiration of the time allowed for such community boards to act.
-
-(b) Notice of hearing. Notice of the time, place and subject of a public hearing to be held by a borough board for all applications subject to this land use review procedure shall be given as follows:
-
-   (1) by publication in The City Record for the five (5) days of publication immediately preceding and including the date of the public hearing;
-
-   (2) by publication in the Comprehensive City Planning Calendar distributed not less than five (5) calendar days prior to the date of hearing;
-
-   (3) to the applicant ten (10) days prior to the date of hearing;
-
-   (4) for all actions resulting in acquisition of property by the City, other than by lease, whether by condemnation or otherwise, the applicant shall notify the owner or owners of the property in question by mail to the last known address of such owner or owners, as shown on the City's tax records, not later than five (5) days prior to the date of hearing. An affidavit attesting to the mailing and a copy of the notice shall be submitted to the Department of City Planning prior to the Commission's public hearing.
-
-(c) Conduct of hearing.
-
-   (1) Location. A borough board public hearing shall be held at a convenient place of public assembly chosen by the board and located within the borough.
-
-   (2) General character. Hearings shall be legislative type hearings, without sworn testimony or strict rules of evidence. Only members of a borough board or persons expressly authorized by the chairperson may question a speaker. All persons appearing and wishing to speak shall be given the opportunity to speak. A borough board's hearing shall be conducted in accordance with by-laws adopted by such borough board.
-
-   (3) Quorum. A public hearing shall require a quorum of a majority of the borough board's members who are entitled to vote on the application in question. Pursuant to Charter § 85, community board members of the borough board may only vote on issues that directly affect the community district represented by such members. The minutes of the meeting at which a public hearing was held shall record the individual members present.
-
-   (4) Record. The record of a public hearing shall consist of a list of speakers' names and affiliations if any, a notation of each speaker's own indication, on the form provided for that purpose, of support or opposition to the application and any exhibits or written statements offered by speakers.
-
-(d) Public attendance at meetings. The public may attend all meetings of a borough board at which an application for an action subject to this Chapter is to be considered or acted upon in a preliminary or final manner. A borough board may close a meeting to the public only as provided in the New York State Open Meetings Law (Public Officers Law, §§ 100 – 111).
-
-(e) Recommendations and waivers.
-
-   (1) Quorum. The adoption of a borough board recommendation or the waiver of a public hearing and recommendation by a borough board shall require a quorum of a majority of the borough board's members entitled to vote on the application in question. Pursuant to Charter § 85, community board members of the borough board may only vote on issues that directly affect the community district represented by such member. The minutes of a meeting at which a recommendation or waiver was adopted shall record the individual members present.
-
-   (2) Vote. Adoption of a recommendation shall be by a public roll call vote which results in approval by a majority of the members entitled to vote on the application in question present during the presence of a quorum, at a duly called meeting. Pursuant to Charter § 85, community board members of the borough board may only vote on issues that directly affect the community district represented by such member.
-
-   (3) Content. A borough board recommendation shall be in writing on a form provided by the Department of City Planning and shall include a description of the application, the time and place of public hearing, the time and place of the meeting at which the recommendation was adopted and the votes of individual borough board members. The borough board may include in its submission the reasons for its vote and any conditions to the vote.
-
-   (4) Submission. A borough board shall submit its recommendation or waiver on the form promptly after adoption to the Commission and to the applicant.
-
-
-
-
-
-
-
-
-*§ 2-06 City Planning Commission Actions.* ::
-
-
-(a) General provisions. The Commission shall hold a public hearing on all applications made pursuant to § 197-c of the Charter not later than sixty (60) calendar days after the expiration of the time allowed for the filing of a recommendation or waiver with it by an affected Borough President. Following its hearing and within its applicable sixty (60) day period, the Commission shall approve, approve with modifications or disapprove such application and file its decision pursuant to 62 RCNY § 2-05(h)(4) below.
-
-(b) Zoning text amendments pursuant to Charter § 200 or § 201. The Commission shall hold a public hearing on an application for a zoning text amendment pursuant to Charter § 200 or § 201. Such hearing shall be conducted in accordance with 62 RCNY § 2-06(f).
-
-(c) Modification of application.
-
-   (1) The Commission may propose a modification of an application, including an application for a zoning text amendment pursuant to Charter § 200 or § 201, which meets the criteria of 62 RCNY § 2-06(g) below. Such proposed modification may be based upon a recommendation from an applicant, community board, borough board, Borough President or other source. Where a modification is proposed, the Commission shall hold a public hearing on the application as referred to a community board or boards and on the proposed modification. Promptly upon its decision to schedule a proposed modification for public hearing, the Commission shall refer the proposed modification to the community board or community boards, borough board, and the affected Borough President to which the application was earlier referred, for such action as such board or boards or Borough President deem appropriate.
-
-   (2) The above provision shall not limit the Commission's ability to make a minor modification of an application.
-
-(d) Notice of hearing. Notice of the time, place and subject of a public hearing by the Commission for all applications subject to this uniform land use review procedure, including applications for zoning text amendments pursuant to Charter § 200 and § 201 and modified applications pursuant to 62 RCNY § 2-06(c)(1) shall be given as follows:
-
-   (1) by publication in The City Record beginning not less than ten (10) calendar days immediately prior to the date of hearing and continuing until the day prior to the hearing;
-
-   (2) by publication in the Comprehensive City Planning Calendar distributed not less than ten (10) calendar days prior to the date of hearing;
-
-   (3) by transmitting notice to the concerned community board or community boards Borough President and borough board and to the applicant not less than ten (10) calendar days prior to the date of hearing;
-
-   (4) for all actions that result in acquisition of property by the City, other than by lease, whether by condemnation or otherwise, the applicant shall notify the owner or owners of the property in question by mail to the last known address of such owner or owners, as shown on the City's tax records, not later than five
-
-   (5) days prior to the date of hearing. An affidavit attesting to the mailing and a copy of the notice shall be submitted to the Department of City Planning prior to the Commission's public hearing.
-
-(e) Posting of notices for hearings on the disposition of occupied city-owned residential buildings. For any application involving disposition of a city-owned residential building, which at the time of application is occupied by tenants, the applicant shall post notice of the Commission public hearing as discussed below:
-
-   (1) at least eight (8) days prior to the Commission public hearing a notice, on a form provided by the Department of City Planning, shall be posted by the applicant in the building subject to the application, informing the tenants of the proposed action and the right of the public to appear at the Commission hearing and testify; and
-
-   (2) such notice shall be posted in common public space on the ground floor of the building accessible to all building tenants; and
-
-   (3) the applicant will file with the Department of City Planning an affidavit attesting to the posting of the notice and date and specific location where the notice was posted. The affidavit shall be signed by the person posting the notice.
-
-(f) Conduct of hearing.
-
-   (1) Location. Commission public hearings shall be held at 120 Broadway, New York, New York, unless otherwise ordered by the Chair.
-
-   (2) General Character. Hearings shall be legislative type hearings, without sworn testimony, strict rules of evidence or opportunity for speakers to cross-examine one another. Only members of the Commission may question a speaker (except at a joint Commission/CEQR hearing at which officers of the lead agency and the office of Environmental Coordination may also ask questions). All persons filling out an appearance form shall be given the opportunity to speak. The chairperson may prescribe a uniform limited time for each speaker.
-
-   (3) Quorum. A public hearing shall require a quorum of a majority of the members of the Commission.
-
-(g) Commission actions.
-
-   (1) Scope of action. The Commission shall approve, approve with modifications or disapprove each application.
-
-   (2) Vote. The Commission shall act by the affirmative roll call vote of at least seven (7) members at a public meeting, except that pursuant to Charter § 197-c, subsection h, approval or approval with modifications of an application relating to a new city facility for site selection for capital projects, the sale, lease (other than the lease of office space), exchange or other disposition of the real property of the City, including sale or lease of land under water pursuant to § 1602, Chapter 15 of the Charter or other applicable provisions of law; or acquisitions by the City of real property (other than the acquisition of office space for office use or a building for office use), including acquisition by purchase, condemnation, exchange or lease and including the acquisition of land under water pursuant to § 1602, Chapter 15 and other applicable provisions of law, shall require the affirmative vote of nine members of the Commission if the affected Borough President:
-
-      (i) recommends against approval of such application pursuant to subdivision g of Charter § 197-c; and
-
-      (ii) has proposed an alternative location in the same borough for such new facility pursuant to subdivision f or g of Charter § 204.
-
-   (3) Commission report. A report of the Commission shall be written with respect to each application subject to this procedure on which a vote has been taken. The report shall include:
-
-      (i) a description of the certified application;
-
-      (ii) a summary of testimony at all Commission public hearings held on the application;
-
-      (iii) all community board, Borough President or borough board written recommendations concerning the application;
-
-      (iv) the consideration leading to the Commission's action, including reasons for approval and any modification of the application and reasons for rejection by the Commission of community board, Borough President or borough board recommendations;
-
-      (v) any findings and consideration with respect to environmental impacts as required by the State Environmental Quality Review Act and regulations;
-
-      (vi) the action of the Commission, including any modification of the application;
-
-      (vii) the votes of individual Commissioners;
-
-      (viii) any dissenting opinions.
-
-   (4) Filing of decisions of the Commission. The City Planning Commission shall file its decision with the affected Borough President and with the City Council. All filings with the Council shall include all associated community board, Borough President or borough board recommendations. The Commission shall transmit any decision to the applicant and to the community board or community boards, and borough board to which the application was referred. Filings with the City Council and Borough President shall be completed within the Commission's sixty (60) day time period.
-
-   (5) Review of Council modifications. The Commission shall receive from the City Council during its fifty (50) day period for review the text of any proposed modification to the Commission's prior approval of an action. Upon receipt the Commission shall have fifteen (15) days to review and to determine:
-
-      (i) in consultation with the Office of Environmental Coordination and lead agency as necessary, whether the modification may result in any significant adverse environmental effects which were not previously addressed; and
-
-      (ii) whether the modification requires the initiation of a new application. In making this determination, the Commission shall consider whether the proposed modification:
-
-         (A) increases the height, bulk, envelope or floor area of any building or buildings, decreases open space, or alters conditions or major elements of a site plan in actions (such as a zoning special permit) which require the approval or limitation of these elements;
-
-         (B) increases the lot size or geographic area to be covered by the action;
-
-         (C) makes necessary additional waivers, permits, approvals, authorizations or certifications under sections of the Zoning Resolution, or other laws or regulations not previously acted upon in the application; or
-
-         (D) adds new regulations or deletes or reduces existing regulations or zoning restrictions that were not part of the subject matter of the earlier hearings at the community board or Commission. If the Commission has determined that no additional review is necessary and that, either, no significant environmental impacts will result or that possible environmental impacts can be addressed in the time remaining for Commission and Council review, it shall so report to the Council. The Commission may also transmit any comment or recommendation with respect to the substance of the modification, and any proposed further amendment to the modification which it deems as necessary or appropriate. If the Commission has determined that the proposed modification will require a supplementary environmental review or the initiation of a new application, it shall so advise the Council in a written statement which includes the reasons for its determination.
-
-   (6) Zoning Resolution text amendments pursuant to Charter §§ 200 and 201. Applications for amendments to the text of the Zoning Resolution pursuant to Charter § 200 or § 201 shall be subject to the provisions of this paragraph (g).
-
-
-
-
-
-
-
-
-*§ 2-07 Borough President Initiation of City Council Review.* ::
-
-
-In the case of an application not subject to mandatory council review pursuant to Charter § 197-d(b)(1), which receives an unfavorable recommendation by both an affected community board and affected Borough President and either a favorable vote or favorable vote with modification by the Commission, such application shall be subject to council review and action if the affected Borough President shall file, within five (5) days of receiving the report of the Commission, a written objection to the Commission's vote with the Council and the Commission.
-
-
-
-
-
-
-*§ 2-08 Board of Standards and Appeals.* ::
-
-
-(a) Variance and special permit applications.
-
-   (1) Filing and referral. An application for a variance of the Zoning Resolution or for a special permit which under the Zoning Resolution is within the jurisdiction of the Board of Standards and Appeals shall be filed with the Board of Standards and Appeals. In accordance with the rules of Practice and Procedures (Chapter 1 of the Board of Standards and Appeals rules), the Board of Standards and Appeals shall refer the application to the community board within which district the site is located or, in the case of an application involving a site located within two or more community districts, to the community boards for such districts and to the borough board for the appropriate borough. The Commission, as a party to a proceeding to vary the Zoning Resolution, shall be provided all materials in such proceeding by the Board of Standards and Appeals. Upon the filing with a community board, or with two or more community boards and a borough board, of an application for a variance or a special permit under the jurisdiction of the Board of Standards and Appeals, such community board or community boards and borough board shall review such application pursuant to 62 RCNY §§ 2-03 and 2-05 herein.
-
-   (2) Community board waiver or recommendation. In the case of an application to vary the Zoning Resolution or for a special permit under the jurisdiction of the Board of Standards and Appeals, a community board may waive in writing the holding of a public hearing and the adoption of a written recommendation. The community board recommendation or waiver shall be referred to the Board of Standards and Appeals, the Commission and, in the case of an application which was referred to two or more community boards and a borough board, to such borough board. Upon action by or expiration of time to act on an application for each concerned community board and when appropriate, action by or expiration of time to act for an affected borough board, the Board of Standards and Appeals may proceed to review the application and to make a decision.
-
-   (3) Borough board review. In the case of an application to vary the Zoning Resolution or for a special permit pursuant to the Zoning Resolution under the jurisdiction of the Board of Standards and Appeals, a borough board may waive in writing the holding of a public hearing and the adoption of a written recommendation. After action by or expiration of time to act for all affected community boards if subject to borough board review, and upon receipt of a waiver or recommendation from a borough board or expiration of the thirty (30) day time limit for borough board review, the Board of Standards and Appeals may proceed to review the application and to make a decision.
-
-(b) City Planning Commission review. Appearance in Variance Proceeding – In the case of an application to the Board of Standards and Appeals for a variance of the Zoning Resolution, the Commission may appear before the Board of Standards and Appeals and be heard as a party in the variance proceeding if, in the Commission's judgment, granting the relief requested in such application would violate the requirements of the Zoning Resolution which relate to the granting of variances.
-
-
-
-
-
-
-
-
-*§ 2-09 Administrative Provisions.* ::
-
-
-(a) Referrals and filings. Unless otherwise provided herein, any referrals and filings required under this chapter shall be directed to the entities below as follows:
-
-   (1) if to the Commission, then through the Department of City Planning's website or, alternatively, to the Land Use Review Division, Department of City Planning, 120 Broadway, 31st Floor, New York, New York 10271;
-
-   (2) if to a community board, then to the chairperson of such community board at its office or, if there is no office or if no office address is provided to the Land Use Review Division, Department of City Planning, then to such board c/o the Borough President of the borough in question;
-
-   (3) if to a borough board, then to such borough board c/o the Borough President of the borough in question;
-
-   (4) if to the Board of Standards and Appeals, then to the Executive Director of the Board of Standards and Appeals,, 250 Broadway, 29th Floor, New York, New York 10007;
-
-   (5) if to the City Council then to the Office of the Speaker City Council, City Hall, New York, New York.
-
-(b) Time provisions.
-
-   (1) Expiration dates. Where the expiration of a time period set forth herein falls on a Saturday, Sunday or legal holiday, the expiration date shall be deemed extended until the next working day.
-
-   (2) Determination. All time periods specified in these regulations shall be calendar days. The commencement and end of time periods shall be recorded and officially calculated and determined by the Director of City Planning.
-
-
-
-
-
-
-
-
-*§ 2-10 Interpretation and Amendment of Regulations.* ::
-
-
-(a) Interpretation. This chapter shall be interpreted in accordance with the ordinary meaning of the language herein, and any ambiguities arising herefrom shall be referred to and definitively interpreted in written opinions by the Director of City Planning.
-
-(b) Amendments. The Commission from time to time may amend these regulations, in accordance with the City Administrative Procedure Act, Chapter 45 of the Charter.
-
-(c) Commission Rules of Procedure. These regulations shall supplement and, where there is inconsistency, supersede the rules of Practice and Procedure of the City Planning Commission.
-
-
-
-
-Chapter 3: Fees and Contributions
+Chapter 2: Alteration of Landmark and Historic District Buildings
 --------------------------------------------------
 
 
 
 
-**Subchapter A: City Environmental Quality Review (CEQR) (Department of City Planning and Department of Environmental Protection)**
+**Subchapter A: Application Procedure**
 
 
 
-*§ 3-01 Fee for CEQR Applications.* ::
+*§ 2-01 Application Signatures Necessary for Work Permits.* ::
 
 
-Except as specifically provided in this section, every application made pursuant to Executive Order 91 and 62 RCNY Ch. 5 requires a non-refundable fee which shall be submitted to the lead agency for the action or to an agency that could be the lead agency pursuant to 62 RCNY § 5-03 . The fee for an application shall be as prescribed in the following Schedule of Charges, 62 RCNY § 3-02. The fee for modification for an action, which modification is not subject to § 197-c of the New York City Charter shall be twenty percent of the amount prescribed in the Schedule of Charges for an initial application. The fee for any modification for an action, which is subject to § 197-c of the New York City Charter shall be the amount set forth in the Schedule of Charges (62 RCNY § 3-02) as if the modification were an initial application for the action. Where the fee for an application is set pursuant to 62 RCNY § 3-02(a), and the square footage of the proposed modification is different from the square footage of the original action, the fee for an application for the modification shall be based upon the square footage of the modified action or as set forth in 62 RCNY § 3-02(b), as determined by the lead agency. Agencies of the federal, state or city governments shall not be required to pay fees, nor shall a neighborhood, community or similar association consisting of local residents or homeowners organized on a non-profit basis be required to pay fees, if the proposed action for purposes of CEQR review consists of a zoning map amendment for an area of at least two blocks in size, in which one or more of its members or constituents reside. Fees shall be paid in the forms indicated on the Department of City Planning's website when the application is filed . No application shall be processed by the lead agency until the fee has been paid. Additional fees may be charged by service providers in connection with electronic payment processing.
-
-
-
+All application forms to perform any work on a designated landmark or on a property in a designated historic district must be signed by the owner of the property. An application for work on or in a cooperative building must be signed by the President or other appropriate officer of the Co-op Board. The signature of the managing agent of the cooperative building is not sufficient. An application for work on or in the areas and portions of a condominium building in common ownership must be signed by the President or other appropriate officer of the Condominium Association. An application for work on or in an individual condominium unit must be signed by the owner of that unit.
 
 
 
 
 
-*§ 3-02 Schedule of Charges.* ::
+
+*§ 2-02 Master Plans and Authorizations to Proceed.* ::
 
 
-(a)  Projects measurable in square feet.
+An owner of a designated property may apply for approval of a master plan when the proposal involves repetitive alteration of architectural features (such as windows, through-wall air conditioning installations, storefronts, etc.) and when those alterations are not planned to occur all at once, but rather in increments through time. A master plan can be approved by a Certificate of Appropriateness or by a Permit for Minor Work depending on the work which it covers. In both cases the master plan sets a standard for future changes involving the architectural features in question and specifically identifies drawings and other documents which contain the approved design in detail. Once a master plan is approved and the owner wishes to move forward with a portion of the work covered by the master plan, a completed application form is filed with the Commission describing the scope of work (for example: 8 front windows on the 12th floor) and stating that the work will conform to the approved master plan drawings and other documents on file with the Landmarks Preservation Commission. The staff of the Preservation Department will review the application to ascertain that all proposed work is covered by a master plan, and will send the owner an "Authorization to Proceed" letter allowing the work to proceed. The Authorization to Proceed is sent prior to the commencement of the work and is contingent on adherence to the approved master plan drawings.
 
- 
+
+
+
+
+
+*§ 2-03 Process for Completing Application: Staff Withdrawal of the Application.* ::
+
+
+(a)  All applications for work on designated properties received by the Landmarks Preservation Commission are assigned to a professional staff member in the Preservation Department who will handle the project. The staff person will review the proposal to ascertain whether the materials submitted are sufficient for a determination to be made. If the materials are sufficient, staff will certify the application as complete and issue the appropriate permit or take other action. If the completed application requires a Certificate of Appropriateness, staff will arrange for the item to be included in the next scheduled Certificate of Appropriateness public hearing calendar. If the application requires further clarification and/or additional documentary materials, staff will contact the owner and/or applicant by telephone to discuss the proposal and, if necessary, arrange a meeting or site visit. Staff will follow the conversation up by providing a materials checklist calling out those supplementary materials required to certify the application as complete. If contact has been limited to a telephone conversation, the checklist will be mailed to the applicant. If a meeting is set up, the checklist may be supplied during the course of the meeting. As soon as all the materials requested have been received, staff will certify the application as complete and process the application. However, if the required materials have not been received 60 working days from the date on the materials checklist, staff will send a follow-up letter to the applicant reminding him/her that the application is still incomplete and informing him/her that unless the materials required are received within the next 30 working days the application will be deemed withdrawn. A copy of the most recent materials checklist will be included with the letter. If the applicant does not submit sufficient material within 90 days of the date on the materials checklist, staff should withdraw the application by sending a staff withdrawal letter including the docket number of the application and a "Withdrawn at Staff Level" number generated by "Permit Application Training System". The application will then be closed. The staff withdrawal letter will be sent to the owner and applicant with copies forwarded to the file, supervisor, and the Director of Preservation. Along with the withdrawal letter a blank "Application for Work on Designated Properties" will be included for the use of the applicant should he or she wish to re-apply.
+
+(b) Notwithstanding the time periods set forth in subdivision (a), where an application seeks to legalize or cure a violation, an applicant must submit all materials required by the materials checklist within 20 working days of the date of the materials checklist. If the materials are not submitted, the staff shall send a follow-up letter that shall inform the applicant that the application may be withdrawn by the staff unless all required materials are submitted within 15 working days of the date of the follow-up letter. If the applicant fails to submit all required materials within 55 working days of the date of the first materials checklist, the staff may withdraw the application as set forth in subdivision (a). Withdrawal of an application to legalize or cure a violation, in whole or in part, shall be deemed a disapproval for purposes of service of a second or subsequent notice of violation pursuant to Administrative Code § 25-317.1b(4)(a)(ii).
+
+
+
+
+
+
+*§ 2-04 Notices of Violation – New Applications.* ::
+
+
+The Landmarks Preservation Commission will not process an application for work on a designated property when an Landmarks Preservation Commission Notice of Violation is in effect against that property. A Notice of Violation in effect against that property indicates non-compliance with the Landmarks Law.
+
+(a) Upon receipt of an application, staff must verify that no Notice of Violation is in effect against the property. In the event that a Notice of Violation is in effect, staff should proceed as follows: Obtain copies of all Notices of Violation and Notices to Stop Work for the file. Contact the owner/applicant to inform them that because a Notice(s) of Violation is (are) in effect staff cannot process an application for new work until the Notice(s) has (have) been rescinded. Send a letter to the applicant explaining that staff cannot process the new application because a Notice(s) of Violation is(are) in effect against the property, that processing can only commence upon rescission of the Notice(s) or when the applicant begins to address the Notice(s). Along with the letter send copies of the Notice(s), an application form, and instructions for filing. Send copies of the letter to the Director of Preservation, Supervisor, and the Director of Enforcement.
+
+(b) Exceptions to this procedure. Staff may issue permits for new work when a Notice of Violation is in effect in the following instances:
+
+   (1) The proposed work will correct a hazardous condition.
+
+   (2) The proposed work addresses the prevention of deterioration affecting the building, and the work will clearly further the continuing preservation of the building.
+
+   (3) A permit has been issued to correct work cited in a Notice of Violation, and an escrow agreement or other acceptable form of assurance has been established to provide a mechanism, acceptable to the Landmarks Preservation Commission, that ensures that the work approved under the permit to correct the Notice of Violation will be completed within a specified time period.
+
+
+
+
+
+
+
+**Subchapter B: Specific Alterations**
+
+
+
+*§ 2-11 Installation of Heating, Ventilating and Air Conditioning Equipment.* ::
+
+
+(a)  Introduction. These rules are issued to assist the public in applying to the Landmarks Preservation Commission for approval of the installation of heating, ventilation and air conditioning equipment in buildings which are designated landmarks or are within designated historic districts. These rules enunciate Commission policy with respect to such installation and also explain the procedures required to apply for a permit. The visual character of the exterior wall cladding, the pattern of window openings on the facades, and the ornamental elements used to articulate the exterior walls are important and integral parts of the design of buildings. In most historic buildings, these three elements were carefully combined to help define the style and character of the building. It is important to retain the visual integrity of the exterior walls, the regular pattern of the window bays, and the ornamental elements. Therefore, the Commission, in making a determination on proposed installations of window, through-wall or roof- or yard-mounted HVAC equipment, evaluates the effect of the proposal on the aesthetic, historical and architectural values and significance of the landmark or of the building in an historic district. The Commission considers, among other matters, the architectural style of the building and the design, finish, material, method of installation and color of the proposed work. These rules are based on the following principles:
+
+   (1) The distinguishing historical qualities or character of a building's structure or site and its environment should not be destroyed. The removal or alteration of any distinguishing architectural feature should be avoided.
+
+   (2) The visual integrity of the building's exterior walls should be maintained. The goal of these rules is to facilitate the approval of appropriate HVAC installations in landmarked buildings. Certain installations can be approved at staff level in conformance with the procedures and criteria set forth in these rules. Proposed installations that do not conform to these rules require a Certificate of Appropriateness review by the full Commission in accordance with the Landmarks Law. Applicants are strongly encouraged to develop building master plans for the installation of HVAC equipment.
+
+(b) Definitions.
+
+Authorization to Proceed (ATP). The term "Authorization to Proceed (ATP)" shall mean a letter from LPC notifying an applicant that the proposed HVAC installations have been found to be in conformance with the provisions of an approved Master Plan.
+
+Decorative masonry. The term "decorative masonry" shall mean terra cotta, cast-stone or natural stone (such as limestone, marble, brownstone or granite) facade areas and/or any ornamental feature which is a component of the facade such as belt courses, banding, water tables, cornices, corbelled brick work, medallions, enframements, and surrounds, and ornamental bonding patterns, e.g. tapestry brick or diaper patterns.
+
+HVAC equipment. The term "HVAC equipment" shall mean window, through-wall, and yard mounted heating, ventilation, and air conditioning equipment, including window louvers, wall-mounted grilles and stove, bathroom and/or dryer vents.
+
+Landmarks law. The term "landmarks law" shall refer to Section 3020 of the New York City Charter and Chapter 3 of Title 25 of the Administrative Code of the City of New York.
+
+LPC staff. The term "LPC staff" shall mean the staff of the Landmarks Preservation Commission acting in the Commission's agency capacity.
+
+Primary facade. The term "primary facade" shall mean a facade facing a street or a public thoroughfare that is not necessarily a municipally dedicated space, such as a mews or court.
+
+Secondary facade. The term "secondary facade" shall mean a facade that does not face a public thoroughfare or mews or court.
+
+Segmental or Curved Head Window. The term "segmental or curved head window" shall mean a window with a non-rectilinear sash or frame as illustrated and defined as a special window in Appendices A and C of Chapter 3 of these rules.
+
+Significant feature. The term "significant feature" shall mean an exterior architectural component of a building that contributes to its special historic, cultural, and/or aesthetic character, or in the case of an historic district, that reinforces the special characteristics for which the historic district was designated. Terms not otherwise defined in these rules shall have the meanings given them in the Landmarks Law.
+
+(c) Installations of HVAC equipment within window openings.
+
+   (1) No permit is required for installations of HVAC equipment which require only raising the lower sash of a double-hung window, or which require only opening a casement leaf, transom, hopper or awning window.
+
+   (2) A permit is required for all other types of HVAC equipment installations within windows in individual landmarks and buildings in historic districts.
+
+      (i) Installations of HVAC equipment within window openings on primary facades of individual landmarks and building in historic districts.
+
+(A) Residential buildings, including buildings originally designed as residences which were subsequently converted to other uses: (a)  Rowhouses, detached houses, carriage houses, small apartment buildings, tenements, and hotels: In buildings originally constructed as private residences or carriage houses, as well as small apartment houses and other types of multiple dwellings which are six stories or less in height and with a street frontage of forty (40) feet or less, the small scale, limited areas of plain masonry and potential for affecting the significant architectural and historic character of the buildings require the proposals for installations on primary facades be reviewed for a Certificate of Appropriateness ("COFA"). (b)  Large apartment buildings and hotels: In large apartment buildings, hotels and other types of multiple dwellings which either have a street frontage of forty-one (41) feet or greater or which are seven or more stories in height, a Permit for Minor Work ("PMW") or Certificate of No Effect ("CNE") may be issued for permanent installations of HVAC equipment, louvers and vents in window openings if the proposal meets the following criteria: (i)  the window is not a special window as defined in Chapter 3, Appendix C of these rules except for segmental or curved head windows which do not possess any other characteristics of a special window; and (ii)  the installation involves only removing glazing from one of the double-hung sash or one portion of a casement window or removing the window sash and retaining the window frame; and (iii)  the location of the unit forms part of a regular pattern of installations within window bays on the facade; and (iv)  the louver or vent will be mounted flush with the sash or directly behind the sash; and (v)  the louver or vent is finished to blend into the fenestration pattern; and (vi)  no significant architectural feature of the building will be affected by the installation.
+
+(B) Commercial and loft buildings: In commercial and loft buildings originally designed to serve commercial/retail/warehouse uses, including cast-iron fronted buildings, department stores, banks and office buildings, a PMW or CNE may be issued for the permanent installation of HVAC equipment, louvers or vents if the proposal meets the following criteria: (a)  the window is not a special window as defined in Chapter 3, Appendix C of these rules except for segmental or curved head windows which do not possess any other characteristics of a special window; and (b)  the proposal involves removing the glazing from all or part of the sash, or removing the window sash and retaining the window frame; and (c)  the location of the unit forms part of a regular pattern of installations in window bays on the facade; and (d)  the louver or vent will be mounted flush with the sash directly behind the sash; and (e)  the louver or vent will be finished to blend into the fenestration pattern; and (f)  no significant architectural feature of the building will be affected by the installation.
+
+      (ii) Installations of HVAC equipment within window openings on secondary facades in individual landmarks and buildings within historic districts. A PMW or CNE will be issued for the installation of HVAC equipment if the proposal meets the following criteria:
+
+(A) the unit will be installed within an existing opening; and
+
+(B) the window is not a special window as defined in Chapter 3, Appendix C of these rules except for segmental or curved head windows which do not possess any other characteristics of a special window; and
+
+(C) the louver or vent will be finished to blend into the fenestration pattern; and
+
+(D) no significant architectural feature of the building will be affected by the installation.
+
+(d) Installations of through-wall HVAC equipment.
+
+   (1) Through-wall installation of HVAC equipment on primary masonry facades.
+
+      (i) Individual landmarks. Proposals for installations on primary facades must be reviewed for a COFA.
+
+      (ii) Buildings within Historic Districts.
+
+(A) Residential buildings, including buildings originally designed as residences which were subsequently converted to other uses:
+
+(a) Rowhouses, detached houses, carriage houses, small apartment buildings, tenements, and hotels. In buildings originally constructed as private residences or carriage houses, as well as small apartment houses and other types of multiple dwellings which are six stories or less in height and with a street frontage of forty (40) feet or less, the small scale, limited areas of plain masonry and potential for affecting the significant architectural and historic character of the buildings require that proposals for installations on primary facades be reviewed for a COFA.
+
+(b) Large apartment buildings and hotels. In large apartment buildings, hotels and other types of multiple dwellings which either have a street frontage of forty-one (41) feet or greater or which are seven or more stories in height, a PMW or CNE may be issued for installation of through-wall HVAC equipment if the proposal meets the following criteria:
+
+   (1) the proposed installation will be centered beneath the window opening, or, if the window opening is wide enough to accommodate more than one set of sashes, is placed to conform to the predominant existing pattern of installations; and
+
+   (2) the exterior grille will be a rimless type architectural grille; and
+
+   (3) the exterior grille will be mounted flush with the surrounding masonry; and
+
+   (4) the exterior grille will have a painted finish or a factory applied enameled finish which matches the color of the surrounding masonry; and
+
+   (5) the proposed location corresponds to an established regular pattern of installations; and
+
+   (6) the proposal calls for only the installation of one unit per room except for corner rooms in which the installation of one unit per facade will be permitted; and
+
+   (7) no decorative masonry or other significant architectural feature of the building will be affected by the installation.
+
+(B) Manufacturing and loft buildings. Because of the architectural character of buildings of these types, installations proposed for primary facades of loft buildings originally designed to serve commercial/retail/warehouse uses, including cast-iron fronted buildings, department stores, and banks, must be reviewed for a COFA.
+
+(C) Other buildings. For other buildings that do not fall into any of the previously described categories, the finding of appropriateness of through-wall HVAC installations on primary facades will be made on a case-by-case basis. Variations in design of these specialized buildings preclude the applicability of rules. Such specialized building types include churches and synagogues, hospitals, schools, and libraries.
+
+   (2) Installations of through-wall HVAC equipment on visible secondary masonry facades. A PMW or CNE may be issued for installation of through-wall HVAC equipment on a secondary facade of an individual landmark or of a building within an historic district if the proposal meets the following criteria:
+
+      (i) the unit will be (A) centered beneath or above a window opening if the vent or louver exceeds 144 square inches in surface area, or (B) installed below, above, or to the side of a window opening if the vent or louver is 144 square inches or less in surface area; or (C) installed in a uniform pattern on portions of secondary facades devoid of windows (variations from the predominant existing pattern on the building may be permitted if the applicant does not have interior space which would permit such installation in conformance with such pattern); and
+
+      (ii) the exterior grille will be mounted flush with the exterior wall except that if the vent or unit is 25 square inches or less in surface area, a projection forward of not more than 5 inches may be permitted if the projection does not have an adverse effect on the secondary facade; and
+
+      (iii) the exterior grille will be finished in a manner which approximates the color of the surrounding masonry; and
+
+      (iv) no decorative masonry or other significant architectural feature of the building will be affected by the installation.
+
+   (3) Installation of HVAC equipment on non-visible secondary masonry facades. A PMW or CNE may be issued for installation of through wall HVAC equipment on a secondary facade if the proposal meets the following criteria:
+
+      (i) the installation will not be visible from any public thoroughfare; and
+
+      (ii) the grille will be set flush with the masonry wall except that if the vent or unit is 25 square inches or less in surface area, a projection forward of not more than 5 inches may be permitted if the projection does not have an adverse effect on the secondary facade; and
+
+      (iii) no decorative masonry or other significant architectural feature of the building will be affected by the installation.
+
+   (4) A Certificate of Appropriateness is required for installation of through-wall HVAC equipment on facades made of materials other than masonry.
+
+(e) Installation of ductless split system HVAC equipment on non-visible secondary façades. A PMW or CNE will be issued for the installation of ductless split system HVAC equipment mounted to non-visible secondary façades if the proposal meets the following criteria:
+
+   (1) the wall-mounted HVAC units and all associated conduits will not be visible from a public thoroughfare;
+
+   (2) the mounting structure will be attached to the masonry wall through the mortar joints and its installation will be reversible;
+
+   (3) penetrations for conduit through the façade will be as small as possible and in no event greater than 3 inches in diameter;
+
+   (4) conduit from HVAC units will be painted to match the underlying material; and
+
+   (5) no decorative masonry or other significant features will be affected by the installation and the alterations to the exterior wall must be reversible.
+
+(f) Installation of Air-Conditioners in storefronts.A CNE or PMW for the installation of air-conditioning equipment may be issued if:
+
+   (1) the air conditioning unit is installed in a door or window transom and is concealed by an architectural style grille that is mounted flush with the storefront framing and is finished to match the framing; or
+
+   (2) the air conditioning unit is installed through a non-historic bulkhead and is integrated into the design of the bulkhead, and the unit is concealed by a grille mounted flush with the exterior of the bulkhead.
+
+(g) Installation of HVAC equipment in yards and areaways of landmarks and buildings in historic districts.
+
+   (1) A PMW or CNE may be issued for the installation of HVAC equipment in a location in the side or rear yard if the proposal meets the following criteria:
+
+      (i) the installation will not be visible from any public thoroughfare; and
+
+      (ii) the installation will not affect any significant architectural feature of the landmark or of a building in an historic district.
+
+   (2) Proposals for installations of HVAC equipment in front yards or in a location in a side or rear yard which is visible from a public thoroughfare require review for a COFA.
+
+(h) Master plans.
+
+   (1) A master plan for the installation of HVAC equipment over a period of time can be approved under a PMW if the plan is in conformance with section 2-02 these rules. After the permit is issued, proposed installations will require applications requesting an Authorization to Proceed (ATP).
+
+   (2) The master plan shall set forth standards for future changes and shall specifically identify such standards by drawings, including large scale details of installation specifications, specific unit locations and installation types.
+
+
+
+
+
+
+*§ 2-12 Rules for Installation of Awnings.* ::
+
+
+(a)  Introduction. These rules are issued to assist building owners in applying to the Landmarks Preservation Commission ("Commission") for approval to install or repair awnings. The rules set forth Commission policy with respect to such installation and repair and explain the procedures and criteria required to apply for and receive a permit from the staff of the Commission. The goal of these rules is to facilitate the approval of appropriate awnings for designated buildings. Certain awning repairs and installations can be approved at staff level in conformance with the procedures and criteria set forth in these rules. Proposed installations or alterations that do not conform to these rules require a certificate of appropriateness review by the full Commission in accordance with the procedures and criteria set forth in §§ 25-305, 25-307 and 25-308 of the New York City Administrative Code. These rules are based on the following principles:
+
+   (1) Awnings were historically employed for weather protection above residential windows and doors and for advertising as well as weather protection above storefronts.
+
+   (2) The location of awnings historically corresponded to the size and shape of the openings they covered, and awnings were installed directly above the wall openings they covered.
+
+   (3) Removal or damage of any significant feature is to be avoided in connection with the installation of awnings. Applicants are encouraged to submit applications for master plans, pursuant to § 2-02 of Title 63 of these Rules, for commercial portions of buildings with multiple storefronts or for residential buildings, which will permit the installation of awnings over a period of time in a single building or building complex.
+
+(b) Definitions. As used in these Rules, the following terms shall have the following meanings:
+
+Awning. "Awning" shall mean a metal frame clad with fabric attached over a window, door, porch opening or storefront to provide protection from the weather.
+
+Facade. "Facade" shall mean an entire exterior face of a building.
+
+Fixed awning. "Fixed awning" shall mean an awning with a nonretractable metal frame clad with fabric.
+
+Historic fabric. "Historic fabric" shall mean a building's original or significant historic facade construction material or ornament, or fragments thereof.
+
+Landmarks Law. "Landmarks Law" shall refer to § 3020 of the New York City Charter and Chapter 3 of Title 25 of the Administrative Code of the City of New York.
+
+Lintel. "Lintel" shall mean the horizontal member or element above a door or window opening.
+
+LPC staff. "LPC staff" shall mean the staff of the Landmarks Preservation Commission acting in the Commission's agency capacity.
+
+Primary facade. "Primary facade" shall mean a facade facing a street or a public thoroughfare that is not necessarily a municipally dedicated space, such as a mews or court.
+
+Residential awning. "Residential awning" shall mean any awning on a residential building and any awning on a commercial or mixed-use building except for storefront awnings.
+
+Retractable awning. "Retractable awning" shall mean an awning attached to a frame which allows it to be extended out or folded or rolled back tight against the building facade.
+
+Significant feature. "Significant feature" shall mean an exterior architectural component of a building that contributes to its special historic, cultural, and/or aesthetic character, or in the case of an historic district, that reinforces the special characteristics for which the historic district was designated.
+
+Skirt. "Skirt" shall mean a bottom finishing piece of fabric that hangs from the lower edge of an awning.
+
+Storefront. "Storefront" shall mean the first story area of the facade that provides access or natural illumination into a space used for retail or other commercial purposes.
+
+Storefront opening. "Storefront opening" shall mean the first story area of the facade that is framed by piers or walls on the sides and a lintel or arch above, and that contains a storefront.
+
+Transom. "Transom" shall mean the glazed area above a display window or door separated from the main window area or door by a transom bar. Terms not otherwise defined in these rules shall have the meanings given them in the Landmarks Law.
+
+(c) Routine maintenance. A permit is not required to undertake the following types of ordinary repair and maintenance work:
+
+   (1) Seasonal removal and installation of LPC approved window awnings.
+
+   (2) Fabric patching in a matching material.
+
+   (3) Minor repairs or adjustments to the rolling or folding arm mechanism of an awning's frame.
+
+   (4) Cleaning of awning material. Ordinary repair and maintenance does not include replacement of, or repairs to, significantly damaged or deteriorated awning frames and armatures.
+
+(d) Recladding and retention of existing awnings.
+
+   (1) LPC staff shall issue a certificate of no effect or a permit for minor work for recladding of existing awnings if the proposed recladding meets both of the following criteria: (i)  The awning to be reclad was present at the time of designation or was previously approved by an LPC permit; and
+
+      (ii) The existing frame will be reclad in a material and finish that conforms to the criteria set forth in § 2-12(e)(7)-(9) or 2-12(f)(9)-(11) of these rules.
+
+   (2) In the event a new storefront is being installed, an existing storefront awning in noncompliance with the criteria set forth in subsection (f) below cannot be retained unless the applicant can demonstrate to LPC staff that the new storefront installation will not require even the temporary removal of the existing awning or awnings.
+
+(e) Installation of new awnings on residential windows, doors and porches. LPC staff shall issue a certificate of no effect or a permit for minor work for new awnings on residential windows, doors and porches if the proposed awning meets all of the following criteria applicable for such installation:
+
+   (1) Awnings installed on residential windows, doors and porches shall be retractable awnings.
+
+   (2) Awnings shall be installed at or below the lintel and shall conform to the size and shape of the window or door opening.
+
+   (3) The attachment of the awning will not cause the loss of, damage to, or hide or obscure any significant feature.
+
+   (4) Awnings shall project at an angle and be of a length, size and slope which are proportional to the size and height of the window or door.
+
+   (5) Awnings at terraces and architectural setbacks may extend over more than one opening, so long as the overall length of the awning is proportional to the size and length of the terrace or setback and the depth does not exceed the depth of the terrace or setback.
+
+   (6) Awnings on porches shall conform to the bay structure and proportions of the porch.
+
+   (7) All awnings on a residential building or on the residential portions of a mixed-use building must match in terms of fabric color and pattern if installed on primary or visible secondary facades.
+
+   (8) Awnings shall be clad only with water repellant canvas with a matte finish or other fabric of a similar appearance.
+
+   (9) Awning fabric shall consist of a solid color or vertical stripes that harmonize with the historic color palette of the building. No lettering or signage is permitted on residential awnings except for an address number on an awning over an entrance, and the numbers of such address shall be no greater than six inches in height.
+
+(f) Installation of new awnings on storefronts. LPC staff shall issue a certificate of no effect or a permit for minor work for new awnings on ground story storefronts, display windows and doorways if the proposed work meets all of the following criteria applicable for such installation:
+
+   (1) The awning must be retractable on Individual Landmarks, on storefront restorations approved by a restorative certificate of no effect (Title 63 § 2-17(c)), and on buildings which were designed with integral retractable awning housings as part of the storefronts. In all other cases, the awning may be either retractable or fixed. If fixed, the awning shall have a straight slope and be open at the sides. If retractable, the awning shall have a straight or curved slope and may or may not have side panels. Retractable awnings may follow the curved configuration of the window or door openings over which they are installed. If a display window or doorway opening has an arched or segmental head, the awning must be retractable if it is installed at the head of the window, but may be fixed if it is installed at the rectilinear transom bar. Both retractable and fixed awnings may or may not have a skirt. Awning skirts must be unframed. The skirt height shall be proportional to the height and size of the awning.
+
+   (2) The attachment of the awning will not cause the loss of, damage to, or hide or obscure any significant feature.
+
+   (3) The awning shall be installed at or directly below the lintel or transom bar, except that the awning may be attached up to eight inches above the lintel where:
+
+      (i) a roll-down security gate that either was present at the time of designation or was previously approved by the Commission makes it impossible to install the awning at the lintel or transom bar; or
+
+      (ii) installing the awning at the lintel or transom bar will result in the lowest framed portion of the awning being less than eight feet above the sidewalk. Where the awning is installed above the lintel, the awning encroachment above the lintel shall be the minimum required to accommodate the conditions described above in subparagraphs (i) and (ii) and in no instance shall exceed eight inches.
+
+   (4) In cases where the storefront itself projects from the facade, the awning must be attached to the projecting storefront below the storefront cornice or cap.
+
+   (5) The length of the awning shall not exceed the length of the storefront opening or the associated window opening, and the edges of the awning shall be aligned as closely as possible with the inside face of the principal piers of the storefront, or the window opening.
+
+   (6) The underside of the awning shall be open.
+
+   (7) The lowest framed portion of the awning shall be at least 8 feet above the sidewalk. The lowest unframed portion shall be at least 7 feet above the sidewalk.
+
+   (8) The awning shall project at an angle and be of a length, size and slope which are proportional to the size and height of the window or door.
+
+   (9) The awning shall be clad only with water repellant canvas with a matte finish or other fabric of a similar appearance.
+
+   (10) Signs, such as lettering or graphics, are permitted to be painted on the awning skirt only; no lettering or graphics shall be permitted on the sloped portion of the awning. The size of lettering shall be proportional to the height of the awning skirt.
+
+   (11) Awning fabric shall consist of a solid color or vertical stripes that harmonize with the historic color palette of the building.
+
+(g) Applicability. The provisions of this section shall not apply to proposals to install awnings:
+
+   (1) On buildings subject to a building or district master plan, or other special rule approved by the Commission, governing the installation and characteristics of an awning; and
+
+   (2) On buildings, including historic modifications thereof, that did not originally or historically have awnings, including without limitation thereof public and institutional buildings such as houses of worship, schools, post offices and fire houses. Where the LPC staff reasonably believes that a building did not originally or historically have an awning, the LPC staff shall, at the applicant's request, calendar the proposal for a certificate of appropriateness public hearing. The applicant may request a meeting with the Director of Preservation or, in his or her absence, the Deputy Director, to discuss the LPC staff's interpretation of these rules.
+
+
+
+
+
+
+*§ 2-13 Removal of Fire Escapes.* ::
+
+
+The following will clarify instances in which staff may issue a Certificate of No Effect (CNE) for the removal of fire escapes from designated buildings. The removal of a fire escape requires either a CNE or a Certificate of Appropriateness (C of A). If the fire escape is a significant protected feature, then a C of A is required to approve its removal. However, staff may issue a CNE for a fire escape removal if it determines:
+
+(a) that the fire escape is not a significant protected feature on the building based on the finding that:
+
+   (1) the fire escape is not original to the building, and
+
+   (2) the fire escape does not have architectural merit in itself, and
+
+   (3) the fire escape is not mentioned in the LPC designation report, and
+
+   (4) the building with the fire escape is not located within an historic district in which fire escapes are significant architectural elements that contribute to the special architectural and historic character for which that historic district was designated.
+
+(b) That any damage to the facade will be repaired to match the adjacent fabric (patching any holes would be invisible enough to have "no effect" on the significant protected feature of the building);
+
+(c) that the removal of the fire escape will not leave gaps, holes, or unsightly conditions on the facade. Occasionally, the installation of a fire escape requires the removal of architectural elements or portions of architectural elements (e.g. cornices). If the applicant is not prepared to remedy these conditions in connection with the removal of the fire escape, staff will have to make a judgment as to whether or not it would be desirable to allow the removal. If the applicant is willing to make restorative repairs, staff will have to decide whether these would require a Permit for Minor Work (PMW) or a C of A. It would be inappropriate to include these restorative repairs on a CNE since obviously they would have an effect on the significant protected features of the building. If the level of restoration requires a C of A, a CNE should not be issued for the removal, but rather the removal should be calendared for a public hearing with the restoration.
+
+
+
+
+
+
+*§ 2-14 Sandstone Restoration and Replacement.* ::
+
+
+The staff may issue a Permit for Minor Work for the restoration or replacement of sandstone/ brownstone elements and the following guidelines should be used in evaluating such proposals.
+
+(a) For buildings that have especially fine ornament or distinctive or unique carvings where damage is minimal, the staff may issue a Permit for Minor Work for an application to consolidate the original significant fabric.
+
+(b) For buildings where the decorative features are simple, not necessarily unique, stoops with damage to the treads or other kinds of damage to the facade, the staff may issue a Permit for Minor Work for an application to remove the original sandstone surfaces and replace them with a cementitious mix. In reviewing the application, the staff should find that:
+
+   (1) documentation or site inspection reveals that the existing brownstone surface is exfoliating, damaged or otherwise unsound;
+
+   (2) the proposal calls for the replication of the original texture, color, profiles and details;
+
+   (3) the proposal calls for damaged stone to be cut back to sound stone and the new surface be keyed into the sound stone and built up in successive layers using a cementitious mix with the top layer tinted and finished to match the original sandstone texture and color. In some cases a sample patch should be requested for inspection and approval. The use of wire lath is never acceptable;
+
+   (4) the methods and materials proposed by contractors have been provided in the form of specifications, copies of contracts, or written in a letter.
+
+
+
+
+
+
+*§ 2-15 New Window Openings.* ::
+
+
+Staff is authorized to issue a Certificate of No Effect for new window openings and sash when the following conditions are met:
+
+(a) Visible window openings on secondary façades:
+
+   (1) the new window opening(s) and sash retain the same general shape and pattern as existing windows on the same façade, or, where there are no existing window openings, the new window opening will be located in a place and be of a size and shape where it can form the basis for a regular and consistent pattern;
+
+   (2) the new sash will match the configuration and finish of the historic, predominant window sash on the secondary façade. If there is no such existing sash, the new sash will match the configuration and finish of, or not detract from, the window sash on the front façade;
+
+   (3) the location of new window openings is consistent and regular and that the number, size or placement of the new window openings does not change the character of the façade as a secondary and subservient façade with a high solid to void ratio. For row houses or townhouses, staff may approve no more than one new window opening for every 20 linear feet of secondary façade per floor; existing window openings on such façade shall be counted in determining how many new window openings may be approved for each floor; and
+
+   (4) new window opening and sash do not detract from the significant architectural features of the building or adjacent buildings by virtue of their proximity to such features.
+
+(b) For nonvisible or minimally visible window openings on secondary facades:
+
+   (1) the proposed window opening does not alter or destroy other protected features, nor does the proposed window opening or sash detract from such protected features by their proximity to such features.
+
+   (2) For purposes of this subsection (b), a new window opening shall mean (i) a window opening where none previously existed or (ii) a combination of two or more horizontally adjacent windows, provided such adjacent windows are, or will be once all of the approved work is complete, located in the same room. In addition to being combined, such horizontally adjacent windows may be enlarged in height by up to 10 percent of the height of the largest existing window opening being combined.
+
+   (3) For purposes of § 2-15(b), the term "minimally visible" shall mean that the proposed window opening and sash are only partially visible from a public thoroughfare and that the window opening and sash are visible from such an angle and/or such a distance that they do not call attention to themselves and do not detract from the significant architectural features of the building or historic district.
+
+(c) For purposes of this § 2-15, the term "secondary facade" shall mean a facade that does not face a public thoroughfare or mews or court and that does not possess significant architectural features.
+
+
+
+
+
+
+*§ 2-16 Rear Yard Additions or Enlargements to Row Houses in Historic Districts.* ::
+
+
+Staff may issue a Certificate of No Effect (CNE) for a rear yard addition to, or enlargement of, a row house in a historic district if the project meets the following criteria:
+
+(a) the rear of the building has no significant architectural features (such as corbelled brickwork, decorative lintels or sills, and projecting bays) that would be lost or damaged as a result of the construction of the addition;
+
+(b) the proposed addition or enlargement will not extend to the rear lot line or substantially eliminate the presence of a rear yard;
+
+(c) a majority of the other buildings in the block feature comparable or larger rear yard additions or enlargements in terms of their projection into the rear yard;
+
+(d) the proposed addition or enlargement does not rise to the full height of the building and is not taller than the predominant height of existing additions or enlargements in the block;
+
+(e) the rear façade will not be removed from the entire width of the building. Instead, existing openings will be modified to provide access into the addition;
+
+(f) the rear of the building retains the scale and character of an individual rowhouse;
+
+(g) the proposed addition or enlargement is not visible from a public thoroughfare or right of way;
+
+(h) the proposed work complies with the Zoning Resolution and will not require a special permit or variance; and
+
+(i) the building does not already have a grandfathered rooftop addition or enlargement, a rooftop addition or enlargement approved by the staff pursuant to section 2-19 of this chapter, or a rooftop addition or enlargement approved by the Commission.
+
+
+
+
+
+
+*§ 2-17 Restoration of a Building and Building Facade Features.* ::
+
+
+(a)  Introduction. These rules are issued to assist building owners in applying to the Landmarks Preservation Commission for approval of applications to undertake the restoration of a building element or group of building elements on a designated property. The rules set out Commission policy with respect to such work. The goal of these rules is to facilitate and expedite the approval of restoration work proposed for designated properties. Proposed restoration work that does not conform to these rules requires a Certificate of Appropriateness review by the full Commission in accordance with the Landmarks Law.
+
+(b) Definitions. As used in these Rules, the following terms have the following meanings:
+
+"Awning" means a metal frame clad with fabric attached over a storefront, door or window.
+
+"Bulkhead" means the part of the storefront that forms a base for one or more display windows.
+
+"Detail" means the dimensions and contours of the framing of the storefront infill.
+
+"Display window" means the large glazed portion of the storefront infill, and the associated framing, above the bulkhead and below the transom, extending pier to pier. The display window is typically used for the display of goods and to provide daylight and visibility into the commercial space.
+
+"Facade" shall mean an entire exterior face of a building.
+
+"Finish" means the visual characteristics, including color and texture, of storefront material.
+
+"Grille" means a metal louver over a ventilating duct that has a series of angled, fixed slats with spaces between them to admit air.
+
+"Historic appearance" shall mean the visual appearance of a structure or site at a specific point in time after it has undergone alterations or additions which enhance or contribute to the building or site's special architectural, aesthetic, cultural or historic character.
+
+"Historic fabric" means a building's original or significant historic facade construction material or ornament, or fragments thereof.
+
+"Landmarks Law" shall refer to Section 3020 of the New York City Charter and Chapter 3 of Title 25 of the Administrative Code of the City of New York.
+
+"Lintel" means the horizontal member or element above a door or window opening.
+
+"LPC staff" shall mean the staff of the Landmarks Preservation Commission acting in the Commission's agency capacity.
+
+"Molding" means a piece of trim that introduces varieties of outline or curved contours on edges or surfaces of storefront framing members.
+
+"Original appearance" shall mean the visual appearance of a structure or site at approximately the time of its completed initial construction.
+
+"Pier" means an exterior vertical member(s) or element(s) (usually of brick, stone, or metal) placed at intervals along a wall which typically separates storefront openings within a single building or define a single storefront opening.
+
+"Roll-down gate" means a security gate with a retracting mechanism that allows it to roll up and down.
+
+"Scissor gate" means a security gate with a sideways retracting mechanism.
+
+"Security gate" means a movable metal fixture installed in front of a storefront opening or bay, or inside the display window or door to protect the store from theft or vandalism when the store is closed. A security gate can be either the roll-down or scissor variety.
+
+"Security gate housing" or "housing" means the container that houses the rolling mechanism of a rolldown security gate.
+
+"Security gate tracks" means the interior or exterior tracks along the sides of the storefront opening or bay (for roll-down gates), or along the top and bottom of the storefront (for scissor gates) that hold the edges of the gates.
+
+"Significant architectural feature" means an exterior architectural component of a building that contributes to its special historic, cultural, and aesthetic character, or reinforces the special characteristics for which the Historic District was designated.
+
+"Storefront" means storefront infill.
+
+"Storefront infill" means the framing, glazing, and cladding contained within a storefront opening in the facade, including but not limited to display windows, bulkheads and entranceways.
+
+"Storefront opening" means the area of the facade between the piers and lintel, which contains storefront infill. Steps and platforms in front of, and leading up to, an entry door are not part of the storefront opening.
+
+"Transom" means a glazed area above a display window or door that is separated from the display window or door by a horizontal framing member ("the transom bar"). The glazing in the transom may be fixed or operable. Terms not otherwise defined in these rules shall have the meanings given them in the Landmarks Law.
+
+(c) Restoration work. The LPC staff will issue a Certificate of No Effect or a Permit for Minor Work for the restoration of building facade(s) or individual facade element(s) (including but not limited to roofs and cornices, stoops, storefronts, window and door openings, window and door enframements, ironwork, porches and siding) to their original or historic appearance if the staff determines that the proposed restorative work satisfies the following conditions:
+
+   (1) The restoration would not cause the removal of significant historic fabric (such as Victorian period features on an earlier structure) that may have been added over time, which is evidence of the history and development of a building, structure, or site, and the authenticity of the restoration is documented by:
+
+i. Photographic evidence, or
+
+ii. Physical evidence on the building, or
+
+iii. Original or historic drawings or documents, or
+
+iv. Matching buildings.
+
+   (2) Except for work that is subject to paragraph (3) below, if there is no available documentary evidence as set forth in subdivisions (i)-(iv) of paragraph (1) of this section and the applicant certifies that he or she (or a designated representative) has searched for historic drawings, documents or photographs at the resources listed in Appendix A of chapter 2 of this Title, the design may be based on that found in buildings of similar age and style that contain stylistic elements that follow a set pattern or type.
+
+   (3) For new storefront infill where no significant historic fabric exists:
+
+i. The design of the infill must be based on the criteria in subparagraphs (i-iv) of paragraph (1) of this subdivision, or on historic storefront prototypes and details within the specific historic district for buildings of similar age, type and style, and;
+
+A. The configuration of replacement infill must be consistent with the proportions of display windows, transoms (if necessary given the size of the display windows) and bulkheads of historic storefront infill. For purposes of this subdivision, proportion refers to the dimensional arrangement of the historic components and details in relation to each other, the storefront opening and the size of the building; and
+
+B. Storefront framing must feature a molding profile that recalls the articulation of historic storefront framing; and
+
+C. The placement of the bulkhead, display window and transom must maintain the building street wall; and
+
+D. The bulkhead must be between eighteen (18) inches and two (2) feet six (6) inches in height, including a curb, unless the traditional storefront prototype indicates a lower or higher bulkhead, in which case the bulkhead may match the traditional prototype; and
+
+E. Recessed entrances may have either splayed or straight returns; and
+
+F. Entrances, including doors, recesses and steps leading up to the storefront infill, may be modified to accommodate barrier free access, as long as the design intent of the new, original or historic storefront is maintained. Steps or entryways containing cast iron vault lights may not be modified, except that one tread and riser may be removed to accommodate barrier free access if the tread is reinstalled flush at the entry; and
+
+G. If the building was constructed prior to the 20th Century, the material of the new infill must match the historic infill; for buildings constructed after 1900, the material of the new infill may be wood or metal or match the historic material; and
+
+H. New storefront infill must have a finish that recalls the finish of historic storefronts; and
+
+I. No interior partitions may be closer than eighteen (18) inches to the glass of the display window; and
+
+J. If original or historic piers have been previously removed, the design must include the reintroduction of piers that recall the location, size, and dimension of such piers; and
+
+K. If the original storefront opening has been reduced in size the design must include restoration of the original size of the opening. If interior conditions preclude restoration to the original size, the storefront opening must be enlarged to the greatest extent feasible and the storefront surround must be consistent with the materials and details of the historic base of the building; and
+
+L. If the applicant is proposing to remove modern cladding on the storefront or the area surrounding the storefront, the applicant must first perform probes of the material to see if historic material or elements exist behind the modern cladding. If significant historic storefront infill exists underneath the cladding the owner must restore the historic material and the new storefront can only be approved pursuant to paragraph (1) above. If a significant portion of the historic storefront surround exists underneath the cladding, but no historic storefront infill remains, the storefront surround must be restored as part of the application for new storefront infill under this paragraph (3); and
+
+M. If the building contains multiple storefronts, and the provisions of subparagraph (ii)(B) below do not apply, the first storefront approved under this paragraph (3) shall be the model for all subsequent storefronts in terms of matching the piers, proportions of elements of storefront infill and finish, but allowing for minor variations in detail and finish. Notwithstanding the provisions of this subparagraph, a new storefront approved under paragraph (1) of this Section may be approved.
+
+ii. The provisions of this paragraph (3) do not apply in the following situations:
+
+A. To individual landmarks or storefronts subject to the following district master plans: Proposed Alterations and new Construction of Storefronts in the Jackson Heights Historic District, Stone Street Historic District Master Plan, District Master Plan for Storefronts on Madison Avenue in the Upper East Side Historic District, District Master Plan for Storefronts on Madison Avenue in the Metropolitan Museum Historic District, District Master Plan for Storefronts on Madison Avenue in the Carnegie Hill (and Extension) Historic District.
+
+B. If the building contains multiple storefronts and at least one of the storefronts contains most of its historic elements, a new storefront must match the historic design, except that the entrance may be modified to accommodate barrier free access as permitted by clause (F) of subparagraph (i) of this paragraph.
+
+C. If there is a Warning Letter or Notice of Violation against the property for the removal of a storefront without permits and the storefront that was removed was in significant part an original or historic storefront, only the provisions of paragraphs (1) and (2) of this subdivision will apply to the design of the storefront, except that the entrance may be modified to accommodate barrier free access pursuant to clause (E) of subparagraph (i) of this paragraph.
+
+   (4) Awnings, Security Gates and Grilles, and Storefront Air Conditioning Units and Grilles for new storefronts approved pursuant to paragraphs (1), (2) and (3) above.
+
+i. Awnings, Signage and Lighting. The design and installation of awnings, signage and lighting must conform to the criteria set forth in Title 63 of RCNY, Sections 2-12 and 2-20.
+
+ii. Security Gates. Staff may approve an application for security gates and grilles on proposed storefronts if:
+
+A. The security gate is open mesh where it covers glazed areas of the storefront; and
+
+B. The security gate is located behind the storefront infill; or
+
+C. the roll-down security gate is mounted on the exterior of the storefront, it is installed so that the gate rolls down on the exterior side of the display window and door and:
+
+1. the installation does not affect, obscure or damage historic fabric;
+
+2. the security gate housing is located on the interior of the storefront, or the outer face of the security gate housing is recessed so as not to protrude beyond the storefront framing; and
+
+3. the security gate tracks are recessed or set into reveals along the sides of the storefront.
+
+iii. Air Conditioning and Grilles. The installation of air conditioning units and grilles must conform to the criteria set forth in Title 63 of RCNY, Section 2-11(f).
+
+
+
+
+
+
+*§ 2-18 Temporary Installations.* ::
+
+
+Staff of the Landmarks Preservation Commission is authorized to issue a Certificate of No Effect (CNE) for proposals calling for the temporary installation of signs, banners or other temporary installations such as various forms of artwork or kiosks, if the following criteria are met:
+
+(a) "Temporary Installation" is defined as an installation for sixty (60) days or less for signs and banners or one (1) calendar year or less for other temporary installations. The duration of any temporary installation authorized under this rule will be specified in the CNE. Any temporary installation must be for a single period not to exceed sixty (60) days for signs and banners or one (1) calendar year for other temporary installations. However, approvals of temporary installations related to approved construction on the property and temporary installations on publicly owned properties may be renewed for up to two additional installation periods. With respect to temporary installations related to approved construction on the property, the staff will make a determination, prior to renewing the approval, that the project is proceeding with reasonable promptness; and
+
+(b) the installation will cause no damage to protected architectural features of the property; and
+
+(c) an acceptable plan and time schedule for the dismantling of the property has been submitted to the Commission as a component of the application, along with specifications for any repair work that might be required after dismantling of the property. In the case of artwork, the applicant is also required to submit a written instrument signed by the artist and the building owner that evidences the owner's authority to remove the artwork when the temporary installation permit expires and that waives any protection under applicable federal or state law afforded to the artist or artwork that would prevent such removal at the expiration of the temporary permit, including but not limited to, the Visual Artists Rights Act of 1990, 17 U.S.C. §§ 101 et seq. and Article 14 of the New York State Law on Arts and Cultural Affairs; and
+
+(d) with respect to temporary installations related to approved construction work, an acceptable plan for dismantling, storing and reinstalling any significant features that had to be removed to perform such work has been submitted to the Commission; and
+
+(e) if the applicant is not a public or quasi-public agency, an escrow agreement or other adequate assurance acceptable to the Commission is provided to establish that a mechanism is available for the removal of the installation upon expiration of the permit should the applicant fail to remove the installation.
+
+
+
+
+
+
+*§ 2-19 Proposed Construction of Rooftop Additions.* ::
+
+
+(a)  Definitions. As used in this section, the following terms shall have the following meanings:
+
+Demolition. "Demolition" shall mean dismantling or razing of all or part of an existing improvement.
+
+Improvement. "Improvement" shall mean any building, structure, place, work of art or other object constituting a physical betterment of real property, or any part of such betterment.
+
+Landmarks Law. "Landmarks Law" shall refer to New York City Charter § 3020 and chapter 3 of title 25 of the Administrative Code of the City of New York.
+
+Landmarks Preservation Commission. "Landmarks Preservation Commission" shall mean the Landmarks Preservation Commission acting in its agency capacity to implement the Landmarks Law.
+
+Mechanical equipment. "Mechanical Equipment" shall include, but not be limited to, heating, venting and air conditioning equipment, alternative or distributed energy equipment, such as solar panels, wind turbines or micro-turbines; watertanks and their supporting structures; stair and elevator bulkheads; screens, dunnages, baffles and other accessory installations; and satellite dishes, but shall not include telecommunication equipment and conventional television antennas. For the purpose of this rule, mechanical equipment shall also include unenclosed decks, garden trellises, or associated railings.
+
+Minimally visible. "Minimally visible" shall refer to any rooftop addition which when viewed from any public thoroughfare, projects into the maximum line of sight from such public thoroughfare by not more than 12 inches in height, or, due to its placement and size does not call attention to itself nor detract from any significant architectural features.
+
+Occupiable space. "Occupiable space" shall mean a room or enclosure and accessory installations thereof, which are intended for human occupancy or habitation.
+
+Permit. "Permit" shall mean any permit other than a notice to proceed issued by the Landmarks Preservation Commission in accordance with the Landmarks Law:
+
+(a) "PMW" shall mean Permit for Minor Work as defined by § 25-310 of the Landmarks Law.
+
+(b) "CNE" shall mean Certificate of No Effect as defined by § 25-306 of the Landmarks Law.
+
+(c) "CofA" shall mean Certificate of Appropriateness as defined by § 25-307 of the Landmarks Law.
+
+Public thoroughfare. "Public thoroughfare" shall mean any publicly accessible right of way including, but not limited to a street, sidewalk, public park, and path.
+
+Rooftop addition. "Rooftop addition" shall mean a construction or an installation of mechanical equipment and/or occupiable space situated on any structure's roof.
+
+Significant architectural feature. "Significant architectural feature" shall mean an architectural component of a building that contributes to its special historic, cultural and aesthetic character, or that in the case of an historic district reinforces the special characteristics for which the district was designated. Terms not otherwise defined in this section shall have the meaning given them in the Landmarks Law.
+
+(b) Applications for proposed work. Each application filed with the Landmarks Preservation Commission for proposed construction of a rooftop addition shall be accompanied by:
+
+   (1) documentation, including photographs, which accurately depicts the site of a proposed rooftop addition; and
+
+   (2) sight line studies for the purpose of determining the visibility of the rooftop addition from a public thoroughfare including the point of maximum visibility (see supplementary instructions for filing for rooftop additions); and
+
+   (3) mechanical equipment with respect to any application for rooftop additions for occupiable space, a current objections sheet from the Department of Buildings.
+
+(c) Mechanical equipment rooftop additions to be constructed on a structure which is an individual landmark.
+
+   (1) The Landmarks Preservation Commission shall issue a CNE for any rooftop addition to be constructed on a structure which is an individual landmark of six stories or less in height which:
+
+      (i) consists solely of mechanical equipment; and
+
+      (ii) does not result in damage to, or demolition of, a significant architectural feature of the roof of the structure on which such rooftop addition is to be constructed; and
+
+      (iii) is not visible from a public thoroughfare.
+
+   (2) The Landmarks Preservation Commission shall issue a CNE for any rooftop addition to be constructed on a structure which is an individual landmark of seven stories or greater in height which:
+
+      (i) consists solely of mechanical equipment; and
+
+      (ii) does not result in damage to, or demolition of, a significant architectural feature of the roof of the structure on which such rooftop addition is to be constructed; and
+
+      (iii) is either not visible from a public thoroughfare or is only minimally visible from a public thoroughfare.
+
+(d) Occupiable space rooftop additions to be constructed on a structure which is an individual landmark.
+
+   (1) The Landmarks Preservation Commission shall issue a CNE for any rooftop addition to be constructed on a structure that is an individual landmark if the rooftop addition:
+
+      (i) consists of occupiable space; and
+
+      (ii) is no more than one story with a height of no more than eleven feet as measured from the roof of the structure on which such rooftop addition is to be constructed; and
+
+      (iii) is set back at least three feet from the plane of the rear façade; and
+
+      (iv) does not result in damage to, or demolition of, a significant architectural feature of the roof of the structure on which such rooftop addition is to be constructed; and
+
+      (v) is not visible from a public thoroughfare; and
+
+      (vi) has no outstanding objection for use or bulk listed on the objections sheet for such structure; and
+
+      (vii) the structure on which such rooftop addition is to be constructed does not have a grandfathered rear yard addition or enlargement, a rear yard addition or enlargement approved by the staff pursuant to section 2-16, or a rear yard addition or enlargement approved by the Commission.
+
+(e) Rooftop additions to be constructed on any structure within a designated historic district, other than an individual landmark.
+
+   (1) The Landmarks Preservation Commission shall issue a CNE for any rooftop addition to be constructed on any structure within a designated historic district, other than an individual landmark, which:
+
+      (i) consists solely of mechanical equipment; and
+
+      (ii) does not result in damage to, or demolition of, a significant architectural feature of the roof of the structure on which the rooftop addition or installation is to be constructed; and
+
+      (iii) is either not visible from a public thoroughfare or is only minimally visible from a public thoroughfare.
+
+      (iv) does not adversely affect significant architectural features of adjacent improve- ments.
+
+   (2) The Landmarks Preservation Commission shall issue a CNE for any rooftop addition to be constructed on any structure within a designated historic district, other than an individual landmark, which:
+
+      (i) consists of occupiable space; and
+
+      (ii) is no more than one story with a height of no more than eleven feet as measured from the roof of the structure on which such rooftop addition is to be constructed; and
+
+      (iii) the rooftop addition is set back at least three feet from the plane of the rear façade; and
+
+      (iv) does not result in any damage to, or demolition of, a significant architectural feature of the roof of the structure on which it is constructed; and
+
+      (v) is not visible from a public thoroughfare; and
+
+      (vi) does not adversely affect significant architectural features of adjacent improvements; and
+
+      (vii) has no outstanding objection for use or bulk listed on the objections sheet for such structureand
+
+      (viii) the structure on which such rooftop addition is to be constructed does not have a grandfathered rear yard addition or enlargement, a rear yard addition or enlargement approved by the staff pursuant to section 2-16, or a rear yard addition or enlargement approved by the Commission.
+
+(f) The Landmarks Preservation Commission shall consider any application for a proposed rooftop addition that does not meet the criteria for a CNE set forth above as a request for a CofA and shall hold a public hearing on such application.
+
+(g) Applicability.
+
+   (1) This rule shall not be construed to apply to telecommunications equipment or conventional television antennas.
+
+(h) Application Procedure.
+
+   (1) All applications received by the Landmarks Preservation Commission will be docketed and reviewed for completeness. The applicant will be notified if additional documentation is required.
+
+   (2) When the application is complete, a staff member will review the application for conformance with these rules. Upon determination that the criteria of the rules have been met, a CNE will be issued.
+
+   (3) If the criteria for a CNE have not been met, the applicant will be given the opportunity to pursue a Certificate of Appropriateness and may request a meeting with the director of preservation to discuss the interpretation of the rules. The applicant may also request a meeting and review by the chair of the commission.
+
+   (4) The decision of whether to approve an application for a Certificate of Appropriateness is made by an affirmative vote of at least six commissioners following a public hearing.
+
+
+
+
+
+
+*§ 2-20 Bracket Signs in the Tribeca East, Tribeca West, Tribeca North, Tribeca South, SoHo Cast-Iron, NoHo, and Ladies' Mile Historic Districts.* ::
+
+
+(a)  Introduction. Signage was a typical feature of historic buildings that contained commercial or manufacturing uses. Such signage included signs painted or affixed above storefronts in signbands, signs within display windows, bracket signs, signs hanging from underneath canopies. This rule sets for the requirements for staff approval of some types of storefront signage and associated lighting for such signage.
+
+(b) Definitions. As used in this § 2-20, the following words shall have the following meanings:
+
+Armature. "Armature" means a metal structural support for a rigid projecting sign. The armature may support the bracket sign by means of one or two projecting arms.
+
+Bracket Sign. "Bracket Sign" means a rigid outdoor sign, with two display faces, installed perpendicular to a building façade and hanging from an armature, used as an announcement for an establishment in the building, consisting of the rigid display faces and all letters, words, numerals, illustrations, decorations, trade marks, emblems, symbols or their figures or characters associated with the name of the establishment that are applied to the faces. In addition, a bracket sign may consist solely of an outline of a shape and/or letters intended to act as a symbol or sign for the establishment.
+
+Canopy means a metal frame clad with fabric that extends from a building entrance over the sidewalk to the curb, where it is supported on vertical posts.
+
+CNE. "CNE" means Certificate of No Effect as defined by § 25-306 of the New York City Administrative Code.
+
+Establishment. "Establishment" means a manufacturing, commercial or retail business or profession.
+
+Façade. "Façade" means an entire exterior face of a building.
+
+LPC. "LPC" means the Landmarks Preservation Commission.
+
+LPC Staff. "LPC staff" means the staff of the Landmarks Preservation Commission acting in the Commission's agency capacity.
+
+PMW means a Permit for Minor Work pursuant to § 25-310 of the New York City Administrative Code.
+
+Pier means an exterior vertical member(s) or element(s) (usually of brick, stone, or metal), placed at intervals along a wall, which typically separates storefront openings within a single building or defines a single storefront opening.
+
+Sign means a fixture or area containing lettering or graphics used to advertise a store, goods, or services.
+
+Signage means any lettering or other graphics used to advertise a store, goods, or services.
+
+Signband means the flat, horizontal area on the façade, usually located immediately above the storefront and below the second story window sill where signs were historically attached. Signbands can also be found immediately above the storefront display window, but below the masonry opening's lintel. A signband shall not include the frieze of a cornice that is less than 12" in height.
+
+Significant architectural feature means an exterior architectural component of a building that contributes to or reinforces its special historic, cultural, and aesthetic character.
+
+Storefront means storefront infill.
+
+Storefront bay means the area of a storefront defined by and spanning two piers.
+
+Storefront infill means the framing, glazing, and cladding contained within a storefront opening in the façade, including display windows, bulkheads, entranceways, etc.
+
+Storefront opening means the area of the façade between the piers and lintel, which contains storefront infill.
+
+Transom means a glazed area above a display window or door that is separated from the display window or door by a horizontal framing member ("the transom bar"). The glazing in the transom may be fixed or operable.
+
+(c) Installation of storefront signs for existing storefronts. The LPC staff will issue a CNE or PMW for a storefront sign, other than a bracket sign, if the proposed work meets the relevant criteria listed below:
+
+   (1) The installation of signage will not damage, destroy or obscure significant architectural features or material of the building or storefront.
+
+   (2) Signs may be installed in signage bands above a storefront opening or within the storefront opening.
+
+   (3) Signs include pin-mounted letters and logos that project no more than one inch if installed directly into masonry or wood, and letters and logos applied directly on wood, metal, or opaque glass panels mounted flat with the signband, or painted directly onto the ground floor signband and lintels. Pin mounted letters may be installed directly into the storefront material, but not including cast iron.
+
+   (4) Flat sign panels will project no more than 3 inches from the façade, and pin-mounted letters on sign panels will project no more than 1 inch beyond the panel for a total projection of 4 inches from the façade.
+
+   (5) The sign must be proportional to the signband, but in no event shall it exceed 90 percent of the area of the signband and the letters may not be higher than 18 inches.
+
+   (6) Exterior signage may not be internally illuminated.
+
+   (7) One interior neon sign per display window is permissible, provided that the sign is transparent, is installed a minimum of 6 inches behind the glass, does not substantially reduce the transparency of the display window and in no event exceeds 4 square feet in area. Neon strips outlining the display window will not be permitted.
+
+   (8) Painted and vinyl signage may be applied directly onto the storefront glazing, including glazing at the doors, transom and display window, provided that the signage does not substantially reduce the transparency of the display window, and does not exceed more than 20 percent of the glazed area.
+
+   (9) Signage may be illuminated externally with a shielded source of light, or with a small "goose-neck" type of fixture placed above the sign, with a maximum of one fixture per 5 linear feet of sign.
+
+   (10) Light fixtures will be installed in areas of plain masonry, metal, or wood, provided that the installation does not damage, destroy, or obscure significant architectural features of the building or storefront.
+
+   (11) Lighting conduits will be concealed.
+
+   (12) Exterior light fixtures may only illuminate storefronts and related signage.
+
+   (13) In approving an application for signage the LPC staff will consider the overall amount of approved signage for the storefront. If the staff determines that the overall amount of signage is excessive and will detract from the architectural features of the building, the adjacent buildings, or the streetscape, the staff will require that existing or proposed staff approved signage be eliminated or reduced. Such signage includes but not limited to signs on awning skirts and signage applied to the storefront glazing.
+
+(d) Installation of bracket signs. The LPC staff shall issue a CNE for a bracket sign if the proposed work meets all of the following criteria:
+
+   (1) The armature shall be installed below the second story within the storefront opening or on the flat face of a plain masonry pier and shall be mechanically fastened into the storefront infill or into the mortar joints of a plain masonry pier, or attached to the framing members at the underside of a metal canopy on an industrial building, and such installation shall neither damage nor conceal any significant architectural features of the building.
+
+   (2) The armature shall be a dark finished metal and shall be simply designed.
+
+   (3) The display faces of the bracket sign may be made of wood or metal. If the bracket sign has display faces, the letters, words, numerals, illustrations or graphics, etc. may be painted or applied onto the display faces, and may be raised slightly from the surface. The overall width, as measured from face to face, shall not exceed 2 inches, and, if there are raised letters, illustrations, etc. the bracket sign shall not exceed a width of three inches as measured from the outside plane of such raised letters or illustrations. The display faces and the letters, words, numerals, illustrations or graphics, etc. shall be of a color or colors that do not detract from the significant architectural features of the building or neighboring buildings. No neon or other vividly bright colors shall be permitted.
+
+   (4) The bracket sign shall not be internally illuminated, nor shall such sign have neon or L.E.D. (Light Emitting Diode) lighting of any kind, nor shall any lighting fixture or mechanism be attached to the armature.
+
+   (5) The bracket sign may be fixed or may move freely from its points of attachment to the armature, but in no event shall the bracket sign be made to move by mechanized or controlled means.
+
+   (6) Number of bracket signs for ground floor establishments.
+
+      (i) Except for signs subject to subparagraph (iii) below, one bracket sign per ground floor establishment shall be permitted.
+
+      (ii) In buildings with more than one ground floor establishment, one sign per establishment may be installed, provided that there is no more than one sign per 25 feet of building façade fronting on a street, and further provided that the size, design, placement, materials and details of all of the armatures match. The placement of the bracket sign on the building shall be in close proximity to the establishment that is identified on the bracket sign.
+
+      (iii) A ground floor establishment with a corner storefront may have one bracket sign on each building façade with at least 25 feet of street frontage, provided that each façade has a primary entrance and each bracket sign is located in close proximity to an entrance, but in no event shall more than one bracket sign be located within 20 feet of the corner of the building.
+
+   (7) Bracket signs for upper story establishments. A single armature for a bracket sign for an upper story establishment or establishments may be installed adjacent to the building entrance for such upper story establishments. This armature may hold one sign for each upper story establishment, provided such signs hang vertically underneath one another on the same armature, and further provided that in no event shall the total dimensions of such signs, taken together, exceed the size requirements specified in paragraph (8) below.
+
+   (8) The size of the bracket sign, oriented horizontally or vertically, shall conform to the requirements of the Zoning Resolution, but in no event shall the size exceed 24 inches by 36 inches, oriented horizontally or vertically in districts that were historically manufacturing or industrial in character, 18 inches by 24 inches in districts that were historically commercial, or 12 inches by 18 inches in districts that were historically residential in character. Novelty shapes, such as circles, polygons and irregular shapes are permitted, as are novelty objects, provided such shapes and objects generally fall within the parameters described in this paragraph.
+
+   (9) The projection of the bracket sign and armature beyond the property line shall conform to the requirements of the Zoning Resolution and Building Code, but in no event shall extend more than 40 inches from the façade in districts that were historically manufacturing or industrial in character, and no more than 22 inches in districts that were historically residential in character.
+
+   (10) The bracket sign shall be installed so that the lowest portion of the sign is at least ten (10) feet above the sidewalk.
+
+   (11) The establishment seeking approval for a bracket sign shall not, for the same building, already be utilizing an LPC-approved, grandfathered or unapproved flagpole and banner, nor shall it have approval from the LPC for installing a new flagpole and banner on the same building.
+
+   (12) In approving an application for a bracket sign, the staff shall consider the overall amount of staff and Commission approved signage for the storefront. If the staff determines that the overall amount of signage with the proposed bracket sign is excessive and will detract from the architectural features of the building, the staff shall require that other types of existing or proposed staff approved or approvable signage, including but not limited to signs on awning skirts and signage applied to the storefront glazing, be eliminated or reduced.
+
+
+
+
+
+
+*§ 2-21 Rules Relating to Installation of Public Pay Telephones and Public Communications Structures.* ::
+
+
+(a) Introduction. Public pay telephones have been part of the city's streetscape for half a century. First introduced in the 1950s pursuant to a franchise agreement with the city, legally permitted public pay telephones contribute to the urban experience as well as provide an important communication link for business, pleasure and public health and safety. Public pay telephones have traditionally had a quiet presence on the streetscape that allowed for their identification without calling undue attention to themselves. The provisions set forth below are intended to ensure that public pay telephones and public communications structures installed in areas under the jurisdiction of the Landmarks Preservation Commission are installed in a manner that does not damage or destroy historic fabric and that the design and placement of such phones and structures shall not call undue attention to themselves or detract from the significant architectural features of an improvement or a historic district or adversely affect a historic district's distinct sense of place.
+
+(b) Definitions. As used in this section, the following terms have the following meanings:
+
+   (1) Curbfront. The term "curbfront" means the sidewalk curb that divides the sidewalk from the roadway.
+
+   (2) PCS Franchise Agreement. The terms "PCS Franchise Agreement" means a valid franchise granted by the City Department of Information Technology and Telecommunications ("DoITT") to provide public pay telephone and wireless internet service on the inalienable property of the City of New York.
+
+   (3) PPT Enclosure. The term "PPT Enclosure" means any associated housing or enclosure that partially or fully surrounds a PPT, and including an associated pedestal, which has been approved by the Art Commission.
+
+   (4) PPT Franchise Agreement. The term "PPT Franchise Agreement" means a franchise granted by the City pursuant to the revised solicitation issued by the Department of Information Technology and Telecommunications ("DoITT") on June 9, 1997 pursuant to Resolution No. 2248 or any subsequent solicitation with a similar purpose whether or not such subsequent solicitation includes all or part of the components of the June 9, 1997 solicitation.
+
+   (5) Public communications structure or PCS. The term "public communications structure" or "PCS" means a structure installed on public property pursuant to a valid PCS Franchise Agreement.
+
+   (6) Public pay telephone or PPT. The term "public pay telephone" or "PPT" is defined by Section 23-401(f) of the Administrative Code of the City of New York.
+
+(c) Approval of Installation and Design of PPT Enclosure and of PCS Installation.
+
+   (1) PPT Enclosure and Installation. No application to the Commission, and no certificate, approval, permit or report shall be required for a proposal to install a PPT Enclosure if such proposal meets the following criteria:
+
+      (i) The PPT Enclosure is proposed to be installed no farther than 24 inches from and no closer than 18 inches to the curbfront in an area zoned for commercial or manufacturing uses pursuant to the New York City Zoning Resolution;
+
+      (ii) Each PPT Enclosure shall be designed to be inconspicuous and to not call undue attention to itself, and shall have an exterior dimension no greater than 35" wide x 44" long x 90" high. A maximum of two PPTs may be installed in-line together, but in such instance the enclosure shall be no greater than 35" wide x 88" long x 90" high. The height limitation shall include the height of a mast if one is installed. The PPT Enclosure may have clear glazing panels and shall be rectilinear if the PPT Enclosure is designed to have advertising panels;
+
+      (iii) The PPT Enclosure shall not be installed in or on, or in the mortar joints between, bluestone, granite, slate or brick paving material, nor shall such paving material be disturbed in any manner in connection with the installation of the PPT;
+
+      (iv) The PPT Enclosure shall not be installed in front of an improvement designated as a landmark;
+
+      (v) The telephone and power lines to and from such PPT Enclosure, or any conduit containing such lines, shall not be visible;
+
+      (vi) The nonglazed portion of the PPT Enclosure shall be a dark brown, dark green, black or dark grey color, or is uncolored stainless steel or clear-finished aluminum. If the PPT Enclosure is less than 15 inches by 36 inches, all portions of the PPT Enclosure shall be stainless steel or clear-finished aluminum;
+
+      (vii) If the PPT Enclosure has advertising panels, the advertising panels shall be limited to two side panels, each of which is not larger than 27" wide x 57" high. There shall be no advertising panel on the rear of the PPT Enclosure facing the street. The advertising panels shall not be illuminated in any fashion. Advertising shall be limited solely to the PPT Enclosure. No advertising shall be permitted on a PPT Enclosure that is smaller than 27" wide x 57 inches high. No PPT Enclosure shall have any light emitting diode (L.E.D.) lettering, design or advertising. In addition to the above, a PPT Enclosure may identify the name or logo of the owner of the PPT and the fact that it is a public telephone. Where such identification is illuminated, it shall be illuminated internally from behind the lens, be limited to the top two inches of the PPT Enclosure, and may occur on all sides of the PPT Enclosure; and
+
+      (viii) The proposed PPT installation meets all applicable terms, conditions and requirements of the PPT Franchise Agreement, and all applicable distance, clearance and other siting requirements set forth in Title 67 of the Rules of the City of New York.
+
+   (2) PCS Installation. No application to the Commission, and no certificate, approval, permit or report shall be required for installation of a PCS if:
+
+      (i) The PCS is to be installed in accordance with the siting criteria described in the applicable PCS Franchise Agreement and in an area zoned for commercial or manufacturing uses pursuant to the New York City Zoning Resolution, or, if the PCS does not include advertising, in an area zoned for residential use, except that:
+
+         (A) in addition to the siting criteria in the applicable PCS Franchise Agreement, if the PCS is to be installed in an area zoned for commercial or manufacturing use and the installation would replace an existing PPT Enclosure, the proposed installation shall not be within 100 linear feet on the same blockfront of another PCS structure or PPT Enclosure; and
+
+         (B) if the PCS is to be installed in an area zoned exclusively for residential use the installation is to replace an existing PPT Enclosure. No new installation of a PCS in an area zoned exclusively for residential use shall be covered by this rule;
+
+      (ii) No more than one PCS shall be installed at the same location;
+
+      (iii) If the PCS has advertising panels, the advertising panels are limited to two side panels, each of which is not larger than 27" by 47.5". There shall be no advertising panel on the rear of the PCS facing the street. Static digital advertising shall be permitted in commercial or manufacturing districts. For purposes of this rule, "static digital" shall mean advertising in which a series of fixed digital images are displayed electronically, and each fixed image must be displayed for a minimum of 15 seconds and fade in and fade out no faster than 1 second;
+
+      (iv) The PCS conforms to the design and materials that have been approved by the New York City Art Commission, also known as the Public Design Commission, and has an exterior dimension no greater than 11" wide x 35" deep x 122.9" high;
+
+      (v) The PCS shall not be installed in or on, or in the mortar joints between, bluestone, granite, slate or brick paving material, nor shall such paving material be disturbed in any manner in connection with the installation of the PCS;
+
+      (vi) The PCS is not installed in front of an improvement designated as an individual landmark, unless the PCS is replacing an existing public pay telephone that was previously operated pursuant to a valid franchise agreement with DoITT; and
+
+      (vii) The telephone and power lines to and from such PCS, or any conduit containing such lines, are not visible.
+
+   (3) Other Proposals.
+
+      (i) All proposals to install a PPT Enclosure or a PCS that does not satisfy the requirements of subsections (1) or (2) of this section shall be reviewed and approved by the Landmarks Preservation Commission by a certificate of appropriateness public hearing, report, permit for minor work or certificate of no effect, as appropriate, as set forth below.
+
+      (ii) Application Procedures for Proposals to Install a PPT Enclosure or PCS Requiring a Certificate, Permit or Report. An application form shall be filed for each proposed PPT Enclosure or PCS. Notwithstanding the requirements of 63 RCNY § 2-01, the application form for the installation of a PPT Enclosure or PCS shall be signed by the person who owns the PPT or PCS or the agent or principal of such person, or any other person authorized to apply for a permit to install a PPT or PCS pursuant to the relevant franchise agreement or Title 67 of the Rules of the City of New York. No advertising shall be permitted on a PPT, PPT Enclosure, or PCS that is not located at the curb.
+
+   (4) Nothing in this rule shall be interpreted to obviate the need to obtain all necessary approvals from the Department of Information Technology and Telecommunications, or any other governmental agency, for all installations of a PPT Enclosure or a PCS.
+
+
+
+
+
+
+
+
+
+**Subchapter C: Expedited Review of Certain Applications For Certificates of No Effect**
+
+
+
+*§ 2-31 Definitions.* ::
+
+
+As used in these Rules, the following terms shall have the following meanings:
+
+Architect. "Architect" shall mean individual, partnership, corporation or other legal entity licensed to practice the profession of architecture under the education law of the State of New York.
+
+CNE. "CNE" shall mean Certificate of No Effect as defined by § 25-306 of the Landmarks Law.
+
+Day. "Day" shall mean any day other than a Saturday or Sunday or legal holiday.
+
+Engineer. "Engineer" shall mean any individual, partnership, corporation or other legal entity licensed to practice the profession of engineering under the education law of the State of New York.
+
+Landmarks Law. "Landmarks Law" shall refer to New York City Charter § 3020 and Chapter 3 of Title 25 of the Administrative Code of the City of New York.
+
+Landmarks Preservation Commission. "Landmarks Preservation Commission" shall mean the Commission acting in its agency capacity to implement the Landmarks Law.
+
+Notice of Violation. "Notice of Violation" shall mean a notice from the Landmarks Preservation Commission that work on a landmark site or within an historic district was performed without a permit or was not performed in accordance with a permit issued by the Landmarks Preservation Commission.
+
+Story. "Story" shall be defined as a habitable floor level, including a basement but not including a cellar. Terms not otherwise defined in these rules shall have the meaning given them in the Landmarks Law.
+
+
+
+
+
+
+*§ 2-32 Expedited Review Procedures.* ::
+
+
+(a) General. An applicant may request that an application for interior work above the second story or in the cellar or basement in any landmark or building within an Historic District, other than an application for interior work on a part of the building which has been designated an interior landmark, be reviewed on an expedited basis. Expedited review is predicated upon the statements and representations of the architect or engineer and the owner and upon the satisfaction of certain terms and conditions, all as set forth in this § 2-32.
+
+(b) Work eligible for expedited review. Interior work which is to be performed above the second story or in the cellar or basement and which does not involve any excavation, except for minimal excavation related to elevator or mechanical work, or change to, replacement of, or penetration of, an exterior wall, window, skylight or roof, including but not limited to penetrations, replacements or changes for ducts, grilles, exhaust intakes, vents or pipes, may qualify for an expedited review.
+
+(c) Conditions to expedited review. Each of the following conditions must be satisfied in order to obtain an expedited review:
+
+   (1) The work shall be eligible work as described in § 2-32(b) above.
+
+   (2) The application for which an expedited review is requested shall be accompanied by a completed Landmarks Preservation Commission expedited review form which shall include:
+
+      (i) a statement signed and sealed by the architect or engineer that:
+
+(A) the architect or engineer has prepared, or supervised the preparation of, the plans and specifications submitted with the application;
+
+(B) all work shown on such plans and specifications is: (a) interior work only, (b) to be performed only above the second story or in the cellar or basement, (c) not to be performed on any portion of a space designated as an Interior Landmark, (d) does not involve excavation, except for minimal excavation related to elevator or mechanical work, or any change to, replacement of, or penetration of, a window, skylight, exterior wall or roof or any portion thereof, and (e) for floors 3-6 does not involve a dropped ceiling or a partition which is less than a minimum of 1'-0" back from interior window sill or frame whichever is further from the glass.
+
+(C) that where there are associate architects or engineers, that they likewise join in the request for an expedited review of the application;
+
+(D) that the architect or engineer and associate architects or engineers, if any, are aware that the Landmarks Preservation Commission will rely upon the truth and accuracy of the statements contained in the application made by them, and any amendments submitted in connection therewith, as to compliance with the provisions of the Landmarks Law and these rules;
+
+      (ii) a sworn statement executed by the owner of the property that:
+
+(A) the proposed work described is of the type described in § 2-32(b);
+
+(B) no change to, or modification of, the proposed work shall be undertaken by the owner, his or her architect or engineer or any other agent of the owner without the prior approval of the Landmarks Preservation Commission; and
+
+(C) the necessary remedial measures to obtain compliance will be taken, if the same becomes necessary;
+
+   (3) No "Notice of Violation" from the Landmarks Preservation Commission shall be in effect against the property which is the subject of the proposed work for which an expedited review is requested; and
+
+   (4) The application is complete in all other respects.
+
+   (5) The architect or engineer and associate architects or engineers, if applicable, have not been excluded by:
+
+      (i) the Chair of the Landmarks Preservation Commission from the procedures for expedited review pursuant to § 2-34 of these rules; or
+
+      (ii) the Commissioner of the Department of Buildings from the Department's procedures for limited supervisory check of applications and plans set forth in 1 RCNY § 21-02.
+
+(d) Issuance of permit. If all conditions to an expedited review have been satisfied, the Landmarks Preservation Commission shall:
+
+   (1) issue a CNE to the applicant; and
+
+   (2) shall perforate all drawings accompanying such application to indicate approval thereof.
+
+
+
+
+
+
+*§ 2-33 Effect of Failure to Meet Conditions for an Expedited Review.* ::
+
+
+The Landmarks Preservation Commission shall notify any applicant who has requested an expedited review of his or her application under these rules of the reason for their failure to satisfy the conditions for expedited review.
+
+
+
+
+
+
+*§ 2-34 Remedies for False Statements and Procedures for Action.* ::
+
+
+(a) Grounds for action.
+
+   (1) The Chair of the Landmarks Preservation Commission may exclude any architect or engineer from the procedures for expedited review of applications if the Chair of the Landmarks Preservation Commission finds that:
+
+      (i) In connection with the Landmarks Preservation Commission expedited review form described in § 2-32(c)(1) of these rules the architect or engineer has:
+
+(A) knowingly or negligently made any false or misleading statement; or
+
+(B) knowingly or negligently omitted a statement or failed to state a material fact; or
+
+(C) knowingly or negligently falsified or allowed to be falsified any fact; or
+
+(D) willfully induced another person to do any of the above; or
+
+      (ii) A "Notice of Violation" or "Notice to Stop Work" has been issued by the Landmarks Preservation Commission against work performed pursuant to any plans, prepared by or under the supervision of such architect or engineer, and such architect or engineer knew, or had reason to know, that the work performed pursuant to such application, plan, certification, or report was not carried out in accordance with approved plans or exceeded the scope of such approved plans and such architect or engineer failed to act to stop such work and/or correct such work.
+
+   (2) The powers, rights and remedies of the Landmarks Preservation Commission set forth in this § 2-34(a) are non-exclusive and shall not be deemed to limit or supersede any other power, right or remedy of the Landmarks Preservation Commission.
+
+(b) Procedures. 
+
+   (1) Written notice of a preliminary determination, together with the basis for such action to exclude from expedited review shall be served on the Architect or Engineer of record pursuant to the provisions of New York State Civil Practice Law and Rules § 308.
+
+   (2) The Architect or Engineer notified under § 2-34(b)(1) shall be entitled to, and scheduled for, a hearing on the preliminary determination in accordance with § 2-34(c) if written objection to the preliminary determination and the grounds for such objection are submitted to the Chair of the Landmarks Preservation Commission within fifteen (15) Days after the date that the notice of preliminary determination is served.
+
+   (3) If no hearing is requested pursuant to § 2-34(b)(2) above, the preliminary determination of the Chair of the Landmarks Preservation Commission shall be deemed confirmed and shall become final and effective on the sixteenth (16) Day after the preliminary notice of determination is served.
+
+   (4) If after a hearing in accordance with § 2-34(c), the Chair of the Landmarks Preservation Commission confirms the preliminary determination, the Chair shall notify the Architect or Engineer of such decision and such notice shall include a written statement indicating the reason for his or her determination.
+
+   (5) On or after the effective date of the final determination to exclude an Architect or Engineer from participation in expedited review procedures all of the plans prepared by or under the supervision of such Architect or Engineer shall be subject to full review by the Landmarks Preservation Commission.
+
+(c) Hearing. 
+
+   (1) Any hearing described in § 2-34(b)(2) will be held at, and conducted by the Office of Administrative Trials and Hearings in accordance with their rules and procedures.
+
+   (2) The Architect or Engineer may be represented by counsel and may present evidence in his or her behalf. A transcribed or tape-recorded record shall be kept of the hearing.
+
+   (3) The Chair of the Landmarks Preservation Commission shall notify the respondent of the final determination within ten (10) Days after the receipt of the findings of fact from the Office of Administrative Trials and Hearings on such matters. The determination of the Landmarks Preservation Commission shall be supported by substantial evidence.
+
+(d) Review of Determination. At the expiration of two (2) years from the date of the initial determination to exclude an Architect or Engineer from participation in the procedures for expedited review of applications, and at intervals of no more than six months thereafter, upon request of the Architect or Engineer, the Chair of the Landmarks Preservation Commission shall reexamine such determination. If the Architect or Engineer has not committed any of the acts described in clause (2) of § 2-34(a) above during such period, the Chair of the Landmarks Preservation Commission may rescind such determination.
+
+
+
+
+
+
+*§ 2-35 Miscellaneous.* ::
+
+
+Any application submitted on or after the effective date hereof shall be subject to these Rules.
+
+  
+
+
+
+
+Chapter 3: Repair and Replacement of Windows In Landmark and Historic District Buildings (Window Guidelines)
+--------------------------------------------------
+
+
+
+*§ 3-01 Introduction.* ::
+
+
+(a) These rules are issued to assist the public in applying to the Landmarks Preservation Commission for approval of repair, rehabilitation, restoration or replacement of windows in buildings that are designated landmarks or are within designated historic districts. These rules, which hereinafter will be referred to as "guidelines," enunciate Commission policy with respect to such repair, rehabilitation, restoration or replacement and also explain the procedures required to apply for a permit.
+
+(b) Windows are an important and integral part of the design of most buildings. They typically comprise 30% to 40% of the surface area of a building's principal facade. In most historic buildings the window sash, window framing, and the architectural detail surrounding windows were carefully designed as an integral component of the style, scale and character of the building. It is important to retain the configuration, operation, details, material and finish of the original window as well as to maintain the size of openings, sills, decorative moldings, and the sash itself.
+
+(c) Therefore, the Commission, in making a determination on proposed repair, rehabilitation, restoration or replacement of windows, evaluates the effect of the proposal on the aesthetic, historical and architectural values and significance of the landmark or of the building in an historic district. The Commission considers, among other matters, the architectural style of the building and the design, texture, material and color of the proposed work.
+
+(d) These window guidelines are based on the following principles:
+
+   (1) The distinguishing original qualities or character of a building's structure, or site and its environment, should not be destroyed. The removal or alteration of any distinctive architectural feature should be avoided whenever possible.
+
+   (2) Deteriorated architectural features including windows should be repaired rather than replaced whenever possible.
+
+   (3) If replacement is necessary, the new window should match the original or historic window in design and other visual qualities. 
+
+
+
+
+
+
+*§ 3-02 Repairs, Rehabilitation and Restoration.* ::
+
+
+(a) Repairs. Deteriorated windows can often be repaired and made sound and fully operational. A permit is not required to undertake ordinary repairs including:
+
+   (1) Replacement of broken glass, together with replacement of associated moldings, muntins and glazing compound with material of matching characteristics.
+
+   (2) Scraping, priming and repainting of window sash and/or frame to recoat with same color and finish that exist at the time such work is undertaken.
+
+   (3) Caulking around frames and sill.
+
+   (4) Repair and replacement of window hardware, including pulley chains.
+
+   (5) Installation of weatherstripping.
+
+   (6) Straightening of metal window members.
+
+   (7) Rebuilding of portions of sills, sash and other window members, using the same material and to the same configuration, size and shape, limited to the following:
+
+      (i) up to 100% for sills, bottom sash rails and parting strips;
+
+      (ii) up to 40%, measured separately, for trim, moldings and other sash members.
+
+   (8) Consolidating wood members.
+
+(b) Rehabilitation and restoration. A permit is required for:
+
+   (1) work that does not meet the requirements of subsection (a) above;
+
+   (2) changes in configuration; or
+
+   (3) any change in the shape or size of any member.
+
+
+
+
+
+
+*§ 3-03 Storm Windows.* ::
+
+
+(a) The installation of secondary glazing units ("storm windows"), either interior or exterior, will be allowed under the following conditions:
+
+   (1) A permit is not required for installation of interior storm windows provided that:
+
+      (i) The installation has no mullions, muntins or wide frames that are visible from the exterior of the building; and
+
+      (ii) The glazing consists of clear glass or other transparent material. If these conditions are not met a permit will be required.
+
+   (2) A permit is required for installation of exterior storm windows.
+
+(b) Exterior storm windows shall fit tightly within window openings without the need for subframe or panning around the perimeter. The color of frames of exterior storm windows shall match the color of the primary window frame. Clear glass only will be permitted. The storm sash shall be set as far back from the plane of the exterior wall surface as practicable. Muntins shall not be permitted. Meeting rails may be used only in conjunction with doublehung windows and shall be placed in the same relative location as in the primary sash.
+
+
+
+
+
+
+*§ 3-04 Replacement of Sash and Frames.* ::
+
+
+If the windows have deteriorated to a condition that warrants replacement, new windows will be permitted under the following conditions:
+
+(a) A permit is required for the installation of new sash in existing frames. In cases where the sash is deteriorated to a point precluding reasonable repair, rehabilitation or restoration, replacement sash may be installed subject to the issuance of a permit. In determining whether sash cannot be repaired, the Landmarks Preservation Commission will consider the percentage of the window that is deteriorated, the practicality of repair, trade practice and such other factors as the LPC may deem appropriate. The new sash shall match the existing sash in dimensions, configuration, operation, details, material, and finish except as provided below. If the rehabilitation of frames is required in conjunction with an application for new sash, that work shall be part of the application.
+
+(b) A permit is required for the installation of new sash and frames in landmarks and buildings in historic districts.
+
+(c) New sash and frames in primary facades:
+
+   (1) Individual landmarks:
+
+      (i) If historic windows have deteriorated to a point precluding reasonable repair, rehabilitation or restoration, based on a condition report submitted by the applicant, or a field inspection by the staff, or other evidence, including the percentage of the window that is deteriorated, the practicality of repair, trade practice and other factors, replacement windows may be approved if they match the historic windows in terms of:
+
+(A) configuration,
+
+(B) operation,
+
+(C) details,
+
+(D) material, and
+
+(E) finish.
+
+      (ii) Variations in details will be permitted if such variations do not significantly affect the visual characteristics of the window, including the shadow effect of muntins and sash on the glazing. In evaluating "significant" effect, factors to be considered shall be the age of the building and its architectural quality, as well as the extent of diminution in the total glazed area of sash. For wood windows less than 15 inches wide, the diminution shall be limited to 10%; for wood windows 15 inches or wider, the diminution shall be limited to 6%; for metal windows (of any size) the diminution shall be limited to 10%.
+
+      (iii) With respect to matching of materials, the following shall be understood: a wood historic window shall be replaced in wood, but not necessarily of the same species. A metal historic window shall be replaced with metal but not necessarily of the same metal.
+
+   (2) Buildings in historic districts.
+
+      (i) Rowhouses, town houses, mansions, detached and semi-detached houses and carriage houses:
+
+(A) If historic windows have deteriorated to a point precluding reasonable repair, rehabilitation or restoration, based on a condition report submitted by the applicant, or a field inspection by the staff, or other evidence, including the percentage of the window that is deteriorated, the practicability of repair, trade practice and other factors, replacement windows may be approved if they match the historic windows in terms of: (a)  configuration, (b)  operation, (c)  details, (d)  material, and (e)  finish, except that straight-headed, double-hung, one-over-one sash may be replaced by sash with a different material, provided the historic brickmolds are preserved, restored or, if necessary, replicated in the historic material, the new sash is installed in same plane as the historic sash, and the sash and brickmolds have a matching finish that replicates the historic finish.
+
+(B) Variations in details will be permitted if such variations do not significantly affect the visual characteristics of the window, including the shadow effect of muntins and sash on the glazing. In evaluating "significant" effect, factors to be considered shall be the age of the building and its architectural quality, as well as the extent of diminution in the total glazed area of sash. For wood windows less than 15 inches wide, the diminution shall be limited to 10%; for wood windows 15 inches or wider, the diminution shall be limited to 6%; for metal windows (of any size) the diminution shall be limited to 10%.
+
+(C) With respect to matching of materials, the following shall be understood: a wood historic window shall be replaced in wood, but not necessarily of the same species. A metal historic window shall be replaced with metal but not necessarily of the same metal.
+
+      (ii) Small apartment buildings, tenements and hotels:
+
+(A) In small apartment buildings and other types of multiple dwellings, originally built as such, which are six stories or less in height, and with a street frontage of forty (40) feet or less, replacement windows may be approved if they match the historic windows in terms of: (a)  configuration, (b)  operation, (c)  details, (d)  material, and (e)  finish, except that straight-headed, double-hung, one-over-one sash may be replaced by sash with a different material, provided the historic brickmolds are preserved, restored or, if necessary, replicated in the historic material, the new sash is installed in same plane as the historic sash, and the sash and brickmolds have a matching finish that replicates the historic finish.
+
+(B) Variations in details will be permitted if such variations do not significantly affect the visual characteristics of the window, including the shadow effect of muntins and sash on the glazing. In evaluating "significant" effect, factors to be considered shall be the age of the building and its architectural quality, as well as the extent of diminution in the total glazed area of sash. For wood windows less than 15 inches wide, the diminution shall be limited to 10%; for wood windows 15 inches or wider, the diminution shall be limited to 6%; for metal windows (of any size) the diminution shall be limited to 10%.
+
+(C) With respect to matching of materials, the following shall be understood: a wood historic window shall be replaced in wood, but not necessarily of the same species. A metal historic window shall be replaced with metal but not necessarily of the same metal.
+
+      (iii) Large apartment buildings and hotels:
+
+(A) In large apartment buildings and other types of multiple dwellings, which either have a street frontage of forty-one (41) feet or greater, or which are seven or more stories in height, replacement windows may be approved if they match the historic windows in terms of: (a)  configuration, (b)  operation, (c)  details, and (d)  finish.
+
+(B) Variations in details will be permitted if such variations do not significantly affect the visual characteristics of the window, including the shadow effect of muntins and sash on the glazing. In evaluating "significant" effect, factors to be considered shall be the age of the building and its architectural quality, as well as the extent of diminution in the total glazed area of sash. For wood windows less than 15 inches wide, the diminution shall be limited to 10%; for wood windows 15 inches or wider, the diminution shall be limited to 6%; for metal windows (of any size) the diminution shall be limited to 10%.
+
+(C) Where the historic windows possess special architectural value, including "special" windows (as defined in the definitions (3-01) and illustrated in Appendix A), replacement windows shall match the material of the historic windows.
+
+      (iv) Small commercial and loft buildings including cast-iron fronted buildings, department stores, banks and office buildings.
+
+(A) In commercial and loft buildings that are six stories or less in height, and with a street frontage of 40 feet or less, replacement windows may be approved if they match the historic windows in terms of: (a)  configuration, (b)  operation, (c)  details, (d)  material, and (e)  finish, except that straight-headed, double-hung, one-over-one sash may be replaced by sash with a different material, provided the historic brickmolds are preserved, restored or, if necessary, replicated in the historic material, the new sash is installed in same plane as the historic sash, and the sash and brickmolds have a matching finish that replicates the historic finish.
+
+(B) Variations in details will be permitted if such variations do not significantly affect the visual characteristics of the window, including the shadow effect of muntins and sash on the glazing. In evaluating "significant" effect, factors to be considered shall be the age of the building and its architectural quality, as well as the extent of diminution in the total glazed area of sash. For wood windows less than 15 inches wide, the diminution shall be limited to 10%; for wood windows 15 inches or wider, the diminution shall be limited to 6%; for metal windows (of any size) the diminution shall be limited to 10%.
+
+(C) With respect to matching of materials, the following shall be understood: a wood historic window shall be replaced in wood, but not necessarily of the same species. A metal historic window shall be replaced with metal but not necessarily of the same metal.
+
+      (v) Large commercial and loft buildings, including cast-iron fronted buildings, department stores, banks and office buildings.
+
+(A) In commercial and loft buildings that are seven or more stories in height, or with a street frontage of 41 feet or greater, replacement windows may be approved if they match the historic windows in terms of: (a)  configuration, (b)  operation, (c)  details, and (d)  finish.
+
+(B) Variations in details will be permitted if such variations do not significantly affect the visual characteristics of the window, including the shadow effect of muntins and sash on the glazing. In evaluating "significant" effect, factors to be considered shall be the age of the building and its architectural quality, as well as the extent of diminution in the total glazed area of sash. For wood windows less than 15 inches wide, the diminution shall be limited to 10%; for wood windows 15 inches or wider, the diminution shall be limited to 6%; for metal windows (of any size) the diminution shall be limited to 10%.
+
+(C) Where the historic windows possess special architectural value, including "special" windows (as defined in the definitions (§ 3-01) and illustrated in Appendix A), replacement windows shall match the material of the historic windows.
+
+   (3) Other buildings: For buildings that do not fall into any of the previously described categories, the finding of appropriateness of window replacements will be made on a case-by-case basis. Variations in design of these specialized buildings preclude the applicability of guidelines. Such special building types include churches and synagogues, hospitals, schools, libraries and the one- or two-story commercial building known as a "taxpayer." Also included in this category are buildings which, unless specifically noted in the text of these guidelines, have been converted from their original use.
+
+(d) New sash and frames in secondary facades.
+
+   (1) If existing windows, or new windows in new window openings approved under § 2-15 of this title, are visible from a public thoroughfare, replacement windows may be approved if:
+
+      (i) they match the historic windows in terms of configuration and finish, or otherwise do not detract from the windows on the primary façade;
+
+      (ii) they are to be installed in:
+
+(A) existing window openings;
+
+(B) existing window openings that are to be enlarged or reduced in height or width in a manner that retains the same general shape and pattern as existing windows on the same façade, or that form a regular and consistent pattern; or
+
+(C) new window openings that conform to and are in a similar pattern as window openings in clauses A and B of this subparagraph;
+
+      (iii) the new window openings, new windows and/or sash do not detract from the significant architectural features of the building or adjacent buildings; and
+
+      (iv) the number, size and pattern of new window openings and sash do not alter the character of the façade as a secondary and subservient façade that has a high solid to void ratio. For row houses or townhouses, staff may approve no more than 1 new window opening for every 20 linear feet, or fraction thereof, of secondary façade per floor; existing window openings on such façade shall be counted in determining how many new window openings may be approved for each floor.
+
+   (2) If existing windows are not visible from a public thoroughfare, replacement windows may be approved if:
+
+      (i) they are to be installed in existing window openings or existing openings that are to be enlarged or reduced in height or width according to § 2-15 of this title. Such enlargement or reduction also does not alter or destroy protected features or detract from the significant architectural features of the building or adjacent buildings;
+
+      (ii) the windows on the top floor of a rear façade of a row house are not to be enlarged or reduced, with the exception of one window opening which may be lowered to provide access to an approved or grandfathered deck; and
+
+      (iii) they do not replace "special" windows as defined in the definitions (§ 3- 01) and illustrated in Appendix A of this chapter.
+
+
+
+
+
+
+*§ 3-05 Master Plans.* ::
+
+
+(a) A master plan for the repair and/or replacement of windows over a period of time can be approved under a PMW if the plan is in conformance with these guidelines. After the permit is issued, proposed window replacement will require applications requesting an Authorization to Proceed (ATP).
+
+(b) The master plan shall set forth standards for future changes and shall specifically identify such standards by drawings, including large scale details of existing and proposed conditions, plus fenestration and location of proposed changes.
+
+
+
+
+
+
+*§ 3-06 Application Procedure.* ::
+
+
+(a) Application. 
+
+   (1) Application form. An application consists of a completed application form and supporting documentation. The form, "For Work on Designated Properties," must be signed by the owner of the property although the applicant may be the lessee or owner's agent. An application from a cooperative or condominium building must be signed by a properly authorized official of the corporation. The form also requires the name of the occupant, lessee or shareholder who is proposing the alteration as well as the name of the person filing the application (if not the owner). The application form, "For Work on Designated Properties," is available at the Commission's office at 225 Broadway, New York, N.Y., 10007 by mail or by calling (212) 553-1100.
+
+   (2) Supporting documentation. An application must include photographs, drawings and descriptive material of the existing conditions of the windows and the building. For buildings located in historic districts, photographs of adjacent buildings should also be submitted. In addition, a description of the proposed work, manufacturers' catalogue cuts or drawings with comparative dimensions, details of construction, configuration, color and finish are required. Proposals for metal replacement windows should include material samples.
+
+(b) Procedure. 
+
+   (1) All applications received by the Landmarks Preservation Commission will be docketed and reviewed for completeness. The applicant will be notified if additional documentation is required.
+
+   (2) When the application is complete, a staff member will review the application for conformance with these guidelines. Upon determination that the criteria of the guidelines have been met, a PMW will be issued.
+
+   (3) If the criteria have not been met, the applicant will be given a notice of the proposed denial of the application and an opportunity to request a meeting with the Director of the Preservation Department, or in the absence of the Director with a Deputy Director, to discuss the interpretation of these guidelines. The applicant may also request a meeting and review by the Chairman.
+
+   (4) If the application is denied, the applicant shall be informed of his or her right to file for a Certificate of Appropriateness pursuant to law. The decision of whether to approve an application for a Certificate of Appropriateness is made by an affirmative vote of at least six commissioners following a public hearing.
+
+
+
+
+
+
+*§ 3-07 Pre-Qualified Open Market Manufactured Windows.* ::
+
+
+The Landmarks Preservation Commission may from time to time, by additional rule, identify as meeting the requirements of these guidelines various manufactured windows which are available on the open market.
+
+  
+
+
+
+
+Chapter 4: Designated Broadway Theaters
+--------------------------------------------------
+
+
+
+*§ 4-01 Treatment of Designated Broadway Theater Interiors (Theater Interior Guidelines).* ::
+
+
+(a) Preface. Work may be done on designated interior portions of theaters either without application to the Commission, or with a Certificate of No Effect on Protected Architectural Features (CNE) if the proposed work is in accordance with the following guidelines:
+
+   (1) For production-related work, no application to Landmarks Preservation Commission is needed if the guidelines set forth in § 4-01(b)(1) below are followed, but owner must submit a written description to the Landmarks Preservation Commission (LPC), prior to undertaking the work, clearly delineating the scope of the proposed work. This description should also include steps to be taken after the end of the production to return the interior to its prior condition if significant architectural features are proposed to be altered, unless further changes are mandated by an incoming production, in which case the interior would be returned to its prior condition following the latter production.
+
+   (2) For permanent alterations, application to LPC is necessary and a CNE will be issued by staff if in accordance with the guidelines set forth in § 4-01(b)(2) below.
+
+   (3) Applications for work not in accordance with the guidelines will be subject to the usual landmark review procedure as set forth in Chapter 3 of Title 25 of the Administrative Code.  
 
 
 .. list-table::
     :header-rows: 1
 
-    * - (Square Footage of Total Project)
-      -  
-    * - Less than 10,000 sq. ft.
-      -  $460
-    * - 10,000-19,999 sq. ft.
-      -  $1,350
-    * - 20,000-39,999 sq. ft.
-      - $2,940
-    * - 40,000-59,999 sq. ft.
-      - $5,465
-    * - 60,000-79,999 sq. ft.
-      - $8,195
-    * - 80,000-99,999 sq. ft.
-      - $13,660
-    * - 100,000-149,999 sq. ft.
-      - $27,325
-    * - 150,000-199,999 sq. ft.
-      - $47,815
-    * - 200,000-299,999 sq. ft
-      - $71,415
-    * - 300,000-499,999 sq. ft.
-      - $128,545
-    * - 500,000-1,000,000 sq ft.
-      - $192,820
-    * - over 1,000,000 sq. ft.
-      - $314,225
-~
-
- 
-
-(b) Projects not measurable in square footage.
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - (Ex: bus franchises)
-      -  $1,880
-    * - Type II Actions
-      -  $110
-~
-
-
-
- 
-
-(c) Supplemental Fee for Environmental Mitigation. In addition to all other applicable fees as set forth above, a supplemental fee of $8,000 shall be required for CEQR applications filed on or after July 1, 2009, for which a restrictive declaration to ensure compliance with project components related to the environment and/or mitigation of significant adverse impacts will be executed.
-
-
-
-
-
-
-
-**Subchapter B: Uniform Land Use Review (ULURP)**
-
-
-
-*§ 3-06 Fees for Applications Pursuant to City Charter § 197-c and Other Applications.* ::
-
-
-Except as specifically provided in this section, every type of application listed in 62 RCNY § 3.07, Schedule of Charges, shall include a non-returnable fee which shall be paid in the forms indicated on the Department of City Planning's website when the application is filed. The fee for an initial application, or for a modification, renewal or follow-up action, shall be as prescribed in the following Schedule of Charges, provided that if an applicant simultaneously submits applications for several actions relating to the same project, the maximum fee imposed shall be two hundred percent of the single highest fee, provided that such maximum fee limitation shall not apply to supplemental fees. An additional fee shall be charged for any applications later filed in relation to the same project, while such project is pending review and determination. Agencies of the federal, state or city governments shall not be required to pay fees nor shall any fees be charged if a neighborhood, community or similar association consisting of local residents or homeowners organized on a non-profit basis applies for a zoning map amendment for an area of at least two blocks in size, in which one or more of its members or constituents reside. Additional fees may be charged by service providers in connection with electronic payment processing.
-
-
-
-
-
-
-
-
-*§ 3-07 Schedule of Charges.* ::
-
-
-(a)  Applications for Special Permits and Zoning Map amendments pursuant to § 197-c of the City Charter:
-
-   (1) Applications for special permits: For special permits, the total amount of floor area, or in the case of open uses, area of the zoning lot: 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - Less than 10,000 square feet
-      -  $2,040
-    * - 10,000 to 19,999 square feet
-      -  $3,100
-    * - 20,000 to 39,999 square feet
-      -  $4,080
-    * - 40,000 to 69,999 square feet
-      -  $5,215
-    * - 70,000 to 99,999 square feet
-      -  $6,125
-    * - 100,000 to 239,999 square feet
-      -  $6,805
-    * - 240,000 to 500,000 square feet
-      -  $17,765
-    * - Over 500,000 square feet
-      -  $29,485
-~
-
- 
-
-For this purpose the amount of floor area shall be calculated based upon the floor area for the entire development or enlargement.
-
-   (2) Applications for zoning map amendments, the area of all zoning lots in the area to be rezoned:
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - Less than 10,000 square feet
-      -  $2,190
-    * - 10,000 to 19,999 square feet
-      -  $3,250
-    * - 20,000 to 39,999 square feet
-      -  $4,310
-    * - 40,000 to 69,999 square feet
-      -  $5,445
-    * - 70,000 to 99,999 square feet
-      -  $6,425
-    * - 100,000 to 239,999 square feet
-      -  $7,105
-    * - 240,000 to 500,000 square feet
-      -  $18,445
-    * - Over 500,000 square feet
-      -  $30,620
-~
-
- 
-
-(b) Applications for changes to the City Map, Landfills: Except for applications to eliminate a mapped but unimproved street from the property of an owner-occupied, one- or two-family residence, for which no fee shall be charged, fees are as follows:
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - Elimination of a mapped but unimproved street
-      -  $1,740
-    * - Establishment of a landfill
-      -  $3,400
-    * - Any other change in the City Map
-      -  $5,445
-~
-
-
-
- 
-
-(c) Applications for franchises and revocable consents:
-
-   (1) Applications pursuant to § 197-c of the City Charter – $3,400
-
-   (2) Enclosed sidewalk cafes pursuant to New York City Administrative Code § 20-225: $55 per seat/minimum of $1,360
-
-(d) Applications for amendments to the text of the Zoning Resolution pursuant to § 201 of the City Charter – $5,445
-
-(e) Applications for zoning certifications and zoning authorizations:
-
-   (1) For certification for public school space pursuant to § 107 – 123 of Article X, Chapter 7 (Special South Richmond Development District) of the Zoning Resolution, the fee shall be $160.
-
-   (2) Pursuant to Article VI, Chapter 2 (Special Regulations Applying in The Waterfront Area), Article X, Chapter 5 (Natural Area District), Article X, Chapter 7 (Special South Richmond Development District) and Article XI, Chapter 9 (Special Hillsides Preservation District) of the Zoning Resolution.
-
- 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - Certifications
-      - For an application for one zoning lot with no more than two existing or proposed dwelling units – $380
+    * - 
+      - Note: The guidelines are keyed to underlined portions of the Description Section of the Designation Reports, which identify architecturally significant features requiring protection. 
       - 
-    * - For all other applications the fee for each zoning lot shall be $430.
-      - 
-      - 
-    * - Authorizations
-      - For an application for one zoning lot with no more than two existing or proposed dwelling units and no commercial or community facility use – $755
-      - 
-    * - For all other applications with no commerical or community facility use, the fee shall be based upon the number of dwelling units being proposed, in the amount of $830 per dwelling unit, however, in cases of open uses, the fee shall be based upon the area of the zoning lot, and in cases of community facility or commercial uses, the fee shall be based upon the total amount of floor area, as follows:
-      - 
-      - 
-    * -  
-      - Less than 10,000 square feet
-      -  $1,060
-    * -  
-      - 10,000 to 19,999 square feet
-      -  $1,590
-    * -  
-      - 20,000 to 39,999 square feet
-      -  $2,040
-    * -  
-      - 40,000 to 69,999 square feet
-      -  $2,645
-    * -  
-      - 70,000 to 99,999 square feet
-      -  $3,100
-    * -  
-      - 100,000 square feet and over
-      -  $3,400
 ~
 
- 
 
-   (3) Pursuant to § 95-04 (Transit Easements) of the Zoning Resolution – $  270
 
-   (4) Pursuant to all other sections of the Zoning Resolution:
+ (b) Guidelines. 
 
-Total amount of floor area, or in the cases of open uses, area of the zoning lot as follows:
+   (1) Production-related changes. No permit needed for work, if the following conditions are met:
 
- 
+      (i) Interior configuration of the theater is maintained.
+
+      (ii) Any alteration to architectural features underlined in the Description Section of the Designation Report is reversible. (It should be noted that alterations to certain architectural features may not be reversible; for example, murals or heavily three-dimensional decorative features such as putti.)
+
+      (iii) Following a production in which a theater interior is to be painted in a non-contrasting color scheme, the theater interior will be painted in contrasting colors, unless some other color scheme is mandated by the incoming production, in which case the interior would be painted in contrasting colors following the latter production. (A contrasting color scheme is one in which the ornamental architectural details are painted a different color or a different value or hue of the same color than the background.)
+
+      (iv) If the Buildings Department requires a permit for the work, a CNE will be issued by staff within five working days of the receipt of a completed application.
+
+   (2) Permanent changes. A CNE will be issued by the staff within five working days of receipt of a completed application for alterations to the theater if the following conditions are met:
+
+      (i) Interior configuration is maintained.
+
+      (ii) Staff has determined that the alteration would not affect significant architectural features underlined in the Description Section of the Designation Report. In theaters which are only designated on the interior, such alterations could include exterior build-overs.
+
+      (iii) Any installation of state-of-the-art changes, as certified by the owner, such as light bridges, sound booths, and balcony rail light housings, provided that staff finds that
+
+(A) their installation will have no effect on the physical fabric of the significant architectural features of the interior, or
+
+(B) that such effect is reversible and that adequate steps will be taken to assure that affected features can be replaced in the future.
+
+
+
+
+
+
+*§ 4-02 Treatment of Designated Broadway Theater Exteriors (Theater Exterior Guidelines).* ::
+
+
+(a) Preface. Work may be done on designated exterior portions of theaters either without application to the Commission, or with a Certificate of No Effect on Protected Architectural Features (CNE) if the proposed work is in accordance with the following guidelines:
+
+   (1) For production-related work, no application to LPC is needed if the guidelines set forth in § 4-02(b)(1) below are followed, but the owner must submit a written description to the LPC, prior to undertaking the work, clearly delineating the scope of the proposed work. This description should also include steps to be taken after the end of the production to return the exterior to its prior condition if significant architectural features are proposed to be altered.
+
+   (2) For permanent alterations, application to LPC is necessary and a CNE will be issued by staff if in accordance with the guidelines set forth in § 4-02(b)(2) below.
+
+   (3) Applications for work not in accordance with the guidelines will be subject to the usual landmark review procedure as set forth in Chapter 3 of Title 25 of the Administrative Code.  
 
 
 .. list-table::
     :header-rows: 1
 
-    * - Less than 10,000 square feet
-      -  $1,060
-    * - 10,000 to 19,999 square feet
-      -  $1,590
-    * - 20,000 to 39,999 square feet
-      -  $2,040
-    * - 40,000 to 69,999 square feet
-      -  $2,645
-    * - 70,000 to 99,999 square feet
-      -  $3,100
-    * - 100,000 square feet and over
-      -  $3,400
+    * - 
+      - Note: The guidelines are keyed to underlined portions of the Description Section of the Designation Reports, which identify architecturally significant features requiring protection. 
+      - 
 ~
 
 
 
- 
+ (b) Guidelines. 
 
-In the case of area transfer of development rights or floor area bonus, the fee shall be based upon the amount of floor area associated with such transfer or bonus.
+   (1) Production-related changes. No permit is needed for the following work, if the stated conditions are met:
 
-(f) Modifications, follow-up actions and renewals.
+      (i) The installation of new signage or alteration of existing signage, lighting, or other advertisement, provided that anchorages do not physically affect architectural features underlined in the designation report description. (Changing of light box fillers, posters, photos, etc. would not require review or notice to the Commission.)
 
-   (1) The fee for an application which requests a modification of a previously approved application, where the new application is subject to § 197-c of the New York City Charter, shall be the same as the current fee for an initial application, as set forth in this Schedule of Charges.
+      (ii) Painting of exterior surfaces, if they were previously painted.
 
-   (2) The fee for an application which requests a modification of a previously approved application, where the new application is not subject to § 197-c of the New York City Charter, shall be one-half of the current fee for an initial application, as set forth in this Schedule of Charges.
+      (iii) Alterations or additions to any undeveloped portions of the theatre exterior, provided that the protected features of a designated interior are not affected.
 
-   (3) The fee for a follow up action under the Zoning Resolution, or a restrictive declaration or other legal instrument shall be one-quarter of the amount prescribed in this Schedule of Charges for an initial application.
+      (iv) Any alterations to underlined exterior architectural features in the report that are reversible. (A reversible alteration is one in which the altered feature can be returned to its appearance prior to the alteration.)
 
-   (4) The fee for the renewal of a previously approved enclosed sidewalk cafe shall be one-half of the amount prescribed in this Schedule of Charges for an initial application.
+      (v) Removal of any feature which has not been identified in the Description Section of the Designation Report of the theater.
 
-   (5) The fee for the renewal pursuant to § 11-43 of the Zoning Resolution of a previously approved special permit or authorization which has not lapsed shall be one-half of the amount prescribed in this Schedule of Charges for an initial application.
+      (vi) For theaters in which the exterior is designated only for cultural and historical significance, any alteration to the facade may be made provided that:
 
-(g) Supplemental Fee for Large Projects. In addition to all applicable fees as set forth above, a supplemental fee shall be required for the following applications:
+(A) Lighted signage and advertisements for productions are utilized.
 
- 
+(B) Continuous entrance doors are maintained between the lobby and the street and the auditorium and the street, where they presently exist.
 
+(C) A marquee is utilized to shelter the sidewalk adjacent to the entrance doors referred to in § 4-02(b)(1)(vi)(B).
 
-.. list-table::
-    :header-rows: 1
+   (2) Permanent changes. A CNE will be issued by the staff within five working days of receipt of completed application for the following work, if the stated conditions are met.
 
-    * - Applications that may result in the development of 500,000 to 999,999 square feet of floor area
-      - $80,000 
-    * - Applications that may result in the development of 1,000,000 to 2,499,000 square feet of floor area
-      - $120,000
-    * - Applications that may result in the development of at least 2,500,000 square feet of floor area
-      - $160,000
-~
+      (i) The installation of new signage or alteration of existing signage, lighting, awnings, marquees or other advertisements, provided that anchorages do not physically affect architectural features underlined in the Description Section of the Designation Report and that the signage, lighting, or awning of marquee is not architecturally significant in itself.
 
+      (ii) Any alteration or additions to any portion of the theater exterior not visible from the public way, provided that the protected features of the exterior of any designated interior are not affected.
 
+      (iii) Removal of any feature which has not been identified and underlined in the Description Section of the Designation Report of the theater.
 
- 
+      (iv) For theaters in which exterior is designated only for cultural or historical significance, any alterations to the exterior of the theater may be made provided that:
 
+(A) Lighted signage and advertisements for productions are utilized.
 
+(B) Continuous entrance doors are maintained between the lobby and the street and the auditorium exit and the street, where they presently exist.
 
+(C) A marquee is utilized to shelter the sidewalk adjacent to the entrance doors referred to in § 4-02(b)(2)(iv)(B).
 
-
-
-*§ 3-08 Natural Feature Restoration Fee.* ::
-
-
-In the event that an application, pursuant to §§ 105-45, 107-321, 107-65, and 119-40 of the Zoning Resolution, for the restoration of trees that have been removed or topography that has been altered without the prior approval of the City Planning Commission pursuant to §§ 105-40, 107-60, 119-10, 119-20, or 119-30 of the Zoning Resolution is filed, the fee for such application shall be $.10 per square foot, based upon the total area of the zoning lot, but in no case to exceed $18,900.00. This section shall not apply to developments for which zoning applications have been approved by the City Planning Commission prior to January 6, 1983 and for which an application for a building permit has been filed prior to January 6, 1983.
+(D) The existing proportions of the facade (width to height) are not altered.
 
 
 
 
-
-
-*§ 3-09 Fee for Zoning Verification.* ::
-
-
-The fee for a request that the Department of City Planning verify in writing the zoning district(s) in which a property is located shall be $110 per request. Each zoning verification request shall be made in writing, and shall include the address, borough, tax block and lot(s) of the property. Each separate property shall be a separate request; however, a property comprised of multiple contiguous tax lots shall be treated as a single request.
-
-
-
-
-Chapter 3: Contributions
+Chapter 5: Historic Preservation Grant Program
 --------------------------------------------------
 
 
 
-*§ 3-10 Contributions to Theater Subdistrict Fund Pursuant to § 81-744 of the New York City Zoning Resolution.* ::
+*§ 5-01 Introduction.* ::
 
 
-Contributions to the Theater Subdistrict Fund pursuant to § 81-744 of the New York City Zoning Resolution shall be made in an amount equal to $17.60 per square foot of floor area transferred.
-
-
-
-
-
-
-*§ 3-11 Contributions to the West Chelsea Affordable Housing Fund Pursuant to § 98-262(c) of the New York City Zoning Resolution.* ::
-
-
-Contributions to the West Chelsea Affordable Housing Fund pursuant to § 98-262(c) of the New York City Zoning Resolution shall be made in an amount equal to $625 per square foot of floor area increase as of the effective date of this rule.
-
-This amount shall be adjusted each year by a factor equal to the ratio of the per square foot contribution to the MIH Affordable Housing Fund for eligible MIH developments in Manhattan Community District 4 for the current year to such per square foot contribution for the prior year. Such adjustments shall take effect automatically upon adjustment by HPD to the contribution rate to the MIH Affordable Housing Fund pursuant to 28 RCNY § 41-23.
-
-The City Planning Commission retains the ability to adjust the contribution amount for the West Chelsea Affordable Housing by rule pursuant to § 98-262(c) of the New York City Zoning Resolution.
+The Historic Preservation Grant Program provides grants to eligible nonprofit organizations and homeowners for the preservation of designated landmark properties through restoration, repair and rehabilitation work. All grants must meet the guidelines laid out for historic preservation activities under the federal Community Block Grant program regulations. 24 C.F.R. § 570.202(d).
 
 
 
 
 
 
-Chapter 4: Procedures for New York City Waterfront Revitalization Program (WRP) Consistency Review by the City Coastal Commission and the Department of City Planning
+*§ 5-02 General Eligibility Requirements.* ::
+
+
+In addition to any applicable federal regulations regarding the Community Block Grant Program, grant applicants shall also meet the following criteria:
+
+(a) Eligible structures. Structures which are designated or calendared individual landmarks, are located in designated historic districts, or contain interior landmarks. Eligible structures may also include those improvements located in New York City that are listed or eligible for listing on the National Register. The premises cannot be in arrears for unpaid real estate taxes, water/sewage charges, or have any unrescinded notice of violations issued by the Landmarks Preservation Commission or the Department of Buildings.
+
+(b) Eligible repairs. Grants shall be made for the following work:
+
+   (1) to repair and restore exterior features of an eligible structure;
+
+   (2) to address structural damage or severe deterioration that threatens to undermine the integrity of an eligible structure;
+
+   (3) to repair and restore eligible interiors.
+
+(c) Ownership/occupancy.
+
+   (1) Homeowners. Owners of eligible residential properties may receive grant funds if the owner and/or occupants meet § 8 income limits as they appear in the federal Community Block Grant Program regulations. 24 C.F.R. § 570.208(a)(2)(i)(B) and (C).
+
+   (2) Nonprofit organizations.
+
+      (i) Nonprofit organizations applying for grant funds must either own or hold a long term lease on the property for which funds are sought.
+
+      (ii) To be eligible for consideration as a nonprofit organization, the applicant must be a charitable, cultural, educational, scientific, literary, or other entity organized under § 501(c)(3) of the Internal Revenue Code.
+
+(d) Grant beneficiaries. All grant-funded work must (1) principally benefit low and moderate income persons or (2) address slum and blight conditions as set forth in and defined under the federal Community Block Grant Program regulations. 24 C.F.R. § 570.208.
+
+
+
+
+
+
+*§ 5-03 Application Requirements and Selection Criteria.* ::
+
+
+(a)  Grant applications will be evaluated and funds will be awarded by a board composed of the director of the Historic Preservation Grant Program and other staff members of the Landmarks Preservation Commission as the Chairman shall in his or her discretion appoint.
+
+(b) In awarding grants, the Historic Preservation Grant Program board will give preference to properties designated or calendared by the Landmarks Preservation Commission and will consider the following factors, among others:
+
+   (1) the architectural and historical importance of the building; and
+
+   (2) the condition of the building and the degree to which the proposed work will materially address the building's condition; and
+
+   (3) the applicant's financial resources; and
+
+   (4) the effect the grant will have on improving the building and/or the district.
+
+(c) Application forms and fact sheets for the Historic Preservation Grant Program may be obtained by contacting the Commission's Director of the Historic Preservation Grant Program.
+
+
+
+
+Chapter 6: Proposed Alterations and New Construction of Structures and Landscapes In the Riverdale Historic District
 --------------------------------------------------
 
 
 
-*§ 4-01 Applicability.* ::
+*§ 6-01 Introduction.* ::
 
 
-This chapter sets forth the procedures applicable to the review of actions located in the New York City Coastal Zone by the City Planning Commission (the Commission), in its capacity as the City Coastal Commission (CCC), and by the Department of City Planning (the Department) as provided in the WRP. Three separate categories of actions are subject to such review process:
-
-(a) Local discretionary actions that are classified as Type 1 or Unlisted pursuant to the State Environmental Quality Review Act (SEQRA) or City Environmental Quality Review (CEQR);
-
-(b) State actions that are subject to WRP consistency review by the relevant state agency pursuant to the applicable laws and regulations referenced in subdivision b of 62 RCNY § 4-03;
-
-(c) Federal direct actions, permit and license actions, and financial assistance actions that are subject to WRP consistency review by the New York State Department of State (DOS) for the relevant federal agency pursuant to the applicable laws and regulations referenced in subdivision b of 62 RCNY § 4-03.
-
-The Department's or the CCC's review of state and federal actions, as referenced herein, is advisory and for the purpose of consultation in accordance with state and federal laws and regulations.
+The purpose of these rules is to establish the Landmarks Preservation Commission's regulatory policy in the Riverdale Historic District. The Riverdale Historic District which was developed as an early railroad suburb is characterized as a distinct area of the city by its dramatic and verdant topography and its fine examples of nineteenth and early twentieth century dwellings and carriage houses. The houses and other buildings in the district are harmoniously sited within the landscape and are separated from each other by landscape Improvements. Landscaping in the Riverdale Historic District provides the picturesque setting which is a defining element of a romantic style suburb of the nineteenth century. Landscape Improvements such as trees, stone walls and hedges, used to define property lines, and additional plantings within the expansive gardens and alongside the houses, add to the special character of the Historic District. The district contains 34 buildings of varied type and age. The development of the Riverdale Historic District is important in understanding the district's historic character. Originally, the area was comprised of only seven estates which were served by a common carriage alley (Sycamore Avenue). All of the estates were developed in the 1850s. Several early estate houses remain, as well as stables and carriage houses (later converted for residential use). The configuration of these estates remained intact until 1935, when the original parcels began to be subdivided for development. Four new houses were built between 1935 and 1938. No new buildings were built thereafter until 1950. From 1950 to 1980 twelve new structures were constructed. These newer structures are stylistically diverse but are generally compatible with the older buildings in terms of their placement, height, materials and finish.
 
 
 
 
 
 
+*§ 6-02 Definitions.* ::
 
 
-*§ 4-02 CCC and Department Review.* ::
+As used in these Rules the following terms shall have the following meanings:
 
+Addition. "Addition" shall mean an extension or increase in the floor area or height of a building that increases its external dimensions.
 
-As the administrator of the WRP with the CCC, the Department is responsible for coordinating all WRP consistency reviews. The Department evaluates all actions covered by 62 RCNY § 4-01 to determine which warrant CCC review, in accordance with the criteria set forth in this section. The Department reviews all actions covered by this chapter that do not warrant CCC review.
+Commission. "Commission" shall mean the New York City landmarks Preservation Commission as established by § 3020 of the New York City Charter.
 
-The CCC reviews:
+Demolition. "Demolition" shall mean the dismantling or razing of all or part of an existing Improvement or significant Landscape Improvement.
 
-(a) Local actions that are subject to Commission approval pursuant to the Uniform Land Use Review Procedure (ULURP) or other provision of the City Charter, including those for which the Commission is the designated CEQR lead agency; and
+Improvement. "Improvement" shall mean any building, structure, place, work of art or other object constituting a physical betterment of real property, or any part of such betterment other than a Landscape Improvement.
 
-(b) Local, state or federal actions that, in the Department's view, would substantially hinder the achievement of one or more policies of the WRP.
+Landscape improvement. "Landscape improvement" shall mean a physical betterment of real property or any part thereof, consisting of natural or artificial landscaping, including but not limited to grade, terrace, body of water, stream, rock, hedge, plant, shrub, mature tree, path, walkway, road, plaza, wall, fence, step, fountain, or sculpture.
 
+Landmarks law. "Landmarks law" shall refer to New York City Charter § 3020 and Chapter 3 of Title 25 of the Administrative Code of the City of New York.
 
+Landmarks preservation commission. "Landmarks preservation commission" shall mean the Commission acting in its agency capacity to implement the Landmarks law.
 
+Mature tree. "Mature tree" shall mean any tree with a trunk diameter of 12" or greater.
 
+Modification. "Modification" shall mean any work to an existing improvement or landscape improvement other than (a) ordinary maintenance or repair; or (b) any Addition.
 
+Permit. "Permit" shall mean any permit other than a notice to proceed issued by the Landmarks Preservation Commission in accordance with the provisions of the Landmarks Law:
 
+(a) "PMW" shall mean permit for minor work as defined by § 25-310 of the Landmarks Law.
 
+(b) "CNE" shall mean certificate of no effect as defined by § 25-306 of the Landmarks Law.
 
-*§ 4-03 Reviews for Consistency with the WRP.* ::
+(c) "CofA" shall mean certificate of appropriateness as defined by § 25-307 of the Landmarks Law.
 
+Pre-l940 building. "Pre-1940 building" shall mean any building in the Riverdale Historic District built, in whole or in part, prior to January 1, 1940 including buildings which have undergone subsequent remodeling and alterations.
 
-(a) Local actions. Except as provided in 62 RCNY § 4-04(a), no CEQR lead or involved agency may make a final decision to undertake, fund, or approve an action unless and until the lead agency, or the CCC when the lead agency is the Commission, finds that such action will not substantially hinder the achievement of any WRP policy and determines that the action is consistent with the WRP, in accordance with the standards set forth in the WRP. When the lead agency is other than the Commission, the Department must concur with such finding.
+Post-1939 building. "Post-1939 building" shall mean any building in the Riverdale Historic District built on or after January 1, 1940.
 
-   (1) Local actions subject to Commission approval. The CCC's review of actions for consistency with the WRP is incorporated into the Commission's existing review procedures pursuant to ULURP or other provision of the Charter, or pursuant to CEQR.
+Public Thoroughfare. "Public Thoroughfare" shall mean any publicly accessible right of way including, but not limited to a street, sidewalk, public park, and path.
 
-   (2) Local actions not subject to Commission approval.
+Significant architectural feature. "Significant architectural feature" shall mean any character-defining external component of a building including, but not limited to, the kind, color and texture of the building material and the type and style of any window, door, light, sign and other fixture appurtenant to any Improvement.
 
-      (i) The CEQR lead agency shall provide the Department with its draft Environmental Impact Statement (EIS) or draft Environmental Assessment Statement (EAS), whichever is applicable, containing the agency's draft WRP consistency assessment and determination, at the earliest possible date, and in no event less than thirty (30) days before issuance of a Negative Declaration, a Conditional Negative Declaration or, if the agency has prepared a draft EIS, a Notice of Completion. The Department may request additional information to assist in the evaluation of the proposed action, which the agency shall promptly provide.
+Significant landscape improvement. "Significant landscape improvement" shall mean any landscape improvement which is a character-defining element in its historic district, contributing to the special aesthetic and historic character for which the district was designated, and including but not limited to those Landscape Improvements identified as landscape features in the Designation Report.
 
-      (ii) Within thirty (30) days of receipt of the lead agency's draft WRP consistency assessment and determination, the Department will notify the lead agency as to whether the Department concurs or does not concur with the proposed consistency determination and will provide written comments on the assessment, if any.
-
-      (iii) When the lead agency has prepared an EAS, if the Department is properly notified of such agency's consistency assessment and determination and does not respond to such agency in writing within thirty (30) days of receipt, the lead agency may deem its consistency determination to have been accepted by the Department.
-
-(b) State and federal actions. The coordination of the Department's or the CCC's review of state and federal actions with the relevant state agency and DOS, respectively, including review periods and the procedures for transmission of comments and findings, shall be in accordance with the relevant state and federal laws and regulations, including Article 42 of the New York State Executive Law (§§ 910 through 922) and 16 U.S.C. §§ 1451 et seq., respectively, and shall follow the guidelines for notification and review of federal and state actions, which are appended to the WRP.
-
-(c) Inconsistency with the WRP. For all actions, where an inconsistency with one or more policies of the WRP has been identified, the Department or the CCC, as applicable, may recommend alternatives or modifications to the action or mitigation measures in order to avoid or minimize the inconsistency. If, in the Department's or the CCC's view, an inconsistency presents a substantial hindrance to the achievement of one or more policies of the WRP, the provisions of 62 RCNY § 4-04 shall apply.
-
-(d) Public Notice. All actions will be subject to any applicable procedures for public notice for the action under review. There are no additional public notice or participation requirements pursuant to this chapter.
-
-
-
-
-
-
-
-
-*§ 4-04 Substantial Hindrance to the WRP.* ::
-
-
-(a) Local actions.
-
-   (1) Local actions subject to Commission approval. The Commission may not approve an action that will substantially hinder the achievement of one or more policies of the WRP, unless, in its capacity as the CCC, it makes the following four findings:
-
-      i. No reasonable alternatives exist which would permit the action to be taken in a manner which would not substantially hinder the achievement of such policy;
-
-      ii. The action taken will minimize all adverse effects on such policies to the maximum extent practicable;
-
-      iii. The action will advance one or more of the other coastal policies; and
-
-      iv. The action will result in an overriding local or regional public benefit.
-
-   (2) Local actions not subject to Commission approval. A CEQR lead or involved agency may not undertake, fund, or approve an action that will substantially hinder the achievement of one or more policies of theWRP unless the CEQR lead agency makes the four findings in paragraph 1 of this subdivision with the concurrence of the CCC.
-
-   Where the findings set forth in paragraph 1 of this subdivision are met, the action shall be deemed consistent with the WRP.
-
-(b) State and federal actions. The CCC shall provide an advisory determination as to whether the four findings set forth in paragraph 1 of subdivision a are met. The Department shall transmit the CCC's findings to the relevant state agency or DOS for the purpose of consultation in accordance with the WRP and applicable state and federal laws, regulations and published guidelines, as referenced in subdivision b of 62 RCNY § 4-03.
+Special natural area district. "Special natural area district" shall refer to a special purpose district designated by the New York City Planning Commission pursuant to Article X, Chapter 5 of the New York City Zoning Resolution which is mapped in areas where outstanding natural features or areas of natural beauty are to be protected.
 
 
 
 
 
 
-Chapter 5: City Environmental Quality Review (CEQR)
+*§ 6-03 Statement of Regulatory Policy.* ::
+
+
+(a) In regulating modifications and additions to any existing improvement and construction of any new structures or any work affecting landscape improvements in the Riverdale Historic District, the Landmarks Preservation Commission seeks to preserve the Riverdale Historic District's important landscape qualities and special architectural and historic character.
+
+(b) In the Riverdale Historic District, the Landmarks Preservation Commission finds that the houses and other structures which make an important and significant architectural contribution to the Riverdale Historic District are those built, in whole or in part, before 1940.
+
+(c) In assessing whether proposed work is compatible with the special characteristics of the Riverdale Historic District in terms of the placement, style, size, material and finish of such work, the Landmarks Preservation Commission shall consider such work's proximity to any significant landscape improvement or pre-1940 building and how it may physically or visually impact the building or landscape improvement. The Landmarks Preservation Commission shall also consider the extent of the proposal's visibility from a public thoroughfare.
+
+
+
+
+
+
+*§ 6-04 Modifications of and Additions to Existing Buildings.* ::
+
+
+(a) Applications for proposed work. An application shall be filed for any proposed modification or addition to any existing improvement or the construction of any new structure within the Riverdale Historic District for review by the Landmarks Preservation Commission and no work shall commence until the Landmarks Preservation Commission has issued a permit approving such work.
+
+(b) Pre-1940 buildings. 
+
+   (1) The Landmarks Preservation Commission shall issue a CNE or a PMW for the following:
+
+      (i) Any addition to an existing structure which does not result in damage to or cause the demolition of a significant landscape improvement and which is to be situated in such a way as not to be visible from a public thoroughfare.
+
+      (ii) Any modification to an existing structure which:
+
+(A) does not result in damage to or cause the demolition of a significant architectural feature or significant landscape improvement; and
+
+(B) which is compatible with the existing structure's special architectural characteristics in terms of the placement, style, size, materials and finish of such modification.
+
+   (2) The Landmarks Preservation Commission shall consider an application for any of the following types of work as a request for a certificate of appropriateness and shall hold a public hearing on such application:
+
+      (i) Any addition which is visible from a public thoroughfare.
+
+      (ii) Any modification or addition which does not meet the criteria for issuance of a PMW or CNE set forth in Subsection 6-04(b)(1) above, including any modification or addition which would result in damage to or cause the demolition of a significant architectural feature or significant landscape improvement.
+
+(c) Post-1939 buildings.
+
+   (1) The Landmarks Preservation Commission shall issue a CNE or a PMW for the following:
+
+      (i) Any addition to an existing structure which does not result in damage to or cause the demolition of a significant landscape improvement and which is to be situated in such a way as to not be visible from a public thoroughfare.
+
+      (ii) Any addition to an existing structure which:
+
+(A) although visible from a public thoroughfare does not result in damage to or demolition of a significant landscape improvement; and
+
+(B) is compatible with the special characteristics of the Riverdale Historic District in terms of placement, height, roof line, materials and finish of such addition.
+
+      (iii) Any modification to an existing structure which:
+
+(A) does not result in damage to or cause the demolition of a significant landscape improvement; and
+
+(B) is compatible with the special characteristics of the Riverdale Historic District in terms of its materials and finish.
+
+   (2) The Landmarks Preservation Commission shall consider an application for any of the following types of work as a request for a certificate of appropriateness and shall hold a public hearing on such application:
+
+      (i) Any addition or modification which results in damage to or causes the demolition of a significant landscape improvement.
+
+      (ii) Any addition or modification which does not meet the criteria for the issuance of a PMW or CNE set forth above in subsection 6-04(c)(1).
+
+
+
+
+
+
+*§ 6-05 Regulation of Landscape Improvements.* ::
+
+
+(a) Actions not Subject to Regulation.
+
+   (1) The landmarks preservation commission shall not regulate ordinary and beneficial landscaping activities which are in accordance with accepted horticultural practice such as pruning, planting of seasonal flower beds or vegetable gardens, or planting of ornamental shrubs or trees.
+
+   (2) The landmarks preservation commission shall not regulate the placement of portable garden furniture nor the installation of any temporary enclosure such as a tent for a party or reception.
+
+(b) Modification of landscape improvements. 
+
+   (1) the boundaries of the Riverdale Historic District lie entirely with the Riverdale Special Natural Area District. These rules are intended to work with and complement the Riverdale special natural area district zoning.
+
+   (2) The Landmarks Preservation Commission shall regulate any modification to the landscape of the Riverdale Historic District which involves the installation of any permanent fixture or the construction of any structure or paved area or which would cause the demolition of, or have an impact on, any significant landscape improvement. Such work shall include:
+
+      (i) modification to or construction of any wall, step, path, drive, railing, fence, gate and gate post, permanent garden structure and pavilion, sidewalk and street gutter;
+
+      (ii) any change which affects or impacts upon a hedge or Mature Tree as well as any excavation or fill in a slope exceeding 15 percent; and
+
+      (iii) the installation of a new paved area, patio or deck.
+
+   (3) The Landmarks Preservation Commission shall issue a CNE or a PMW for the following landscape modifications:
+
+      (i) Work which does not result in damage to or demolition of any Significant landscape Improvement.
+
+      (ii) Work which in terms of placement, style, size, material and finish is compatible with the special characteristics of the Riverdale Historic District.
+
+   (4) The Landmarks Preservation Commission shall consider any application for a proposed landscape modification which does not meet the criteria for a CNE or PMW set forth above in subsection 6-05(b)(3) as a request for a certificate of appropriateness and shall hold a public hearing on such application.
+
+(c) Applications for proposed work. An application shall be filed for any proposed work having an effect on any landscape improvement within the Riverdale Historic District for review by the Landmarks Preservation Commission and no work shall commence until the Landmarks Preservation Commission has issued a permit approving such work.
+
+
+
+
+
+
+*§ 6-06 Construction of New Structures.* ::
+
+
+Any application for a new structure shall be considered as a request for a certificate of appropriateness and shall be reviewed at a public hearing. In determining the appropriateness of any new structure the Landmarks Preservation Commission shall take into consideration such new structure's location, its proximity to and impact on any Pre-1940 building or any significant landscape improvement, its placement into the landscape and its compatibility with the visual and architectural character of the Riverdale Historic District. Additional considerations shall include the new structure's proximity to a public thoroughfare and the extent of its visibility from a public thoroughfare.
+
+
+
+
+Chapter 7: Permit Expiration and Renewal
 --------------------------------------------------
 
 
 
-*§ 5-01 Source of Authority and Statement of Purpose.* ::
+*§ 7-01 Definitions.* ::
 
 
-Section 192(e) of the Charter provides that the City Planning Commission "shall oversee implementation of laws that require environmental reviews of actions taken by the city" and that the Commission "shall establish by rule procedures for environmental reviews of proposed actions by the city where such reviews are required by law." These rules are intended to exercise that mandate by redefining lead agencies within the city in accordance with law, prescribing the relationship of the new Office of Environmental Coordination with those agencies and regulating scoping. The organization and numbering of the various sections of these rules are not intended to correspond precisely to Executive Order 91. [;43 RCNY Chapter 6, also, see Appendix A hereto];. Rather, these rules are an overlay on Executive Order 91. Where these rules conflict with Executive Order 91, these rules supersede the Executive Order. In deciding upon the appropriate lead agency for certain classes of actions taken by the city, the City Planning Commission has selected the involved agency "principally responsible for carrying out, funding or approving" those actions. 6 NYCRR § 617.2(v). For private ULURP applications, for § 197-a plans and for all actions primarily involving a zoning map or text change, the City Planning Commission, responsible under the Charter "for the conduct of planning relating to the orderly growth, improvement and future development of the city" (Charter § 192(d)), is the lead agency. For other ULURP applications, the city agency applicant, the agency that will generally be involved with ensuring programmatic implementation of the action, is the lead agency. Most of the remaining lead agency designations in the rules similarly address other approvals required by the Charter by designating the agency charged with ensuring programmatic implementation as the lead agency for those approvals. In appropriate cases, a lead agency designated by the rules may transfer its lead agency status to another involved agency. The rules ensure that lead agencies have access to the technical and administrative expertise of the Office of Environmental Coordination. Finally, the rules provide for involved and interested agencies, including the City Council, to participate in the environmental review process, and ensure a role for the public in scoping.
+As used in these Rules the following terms shall have the following meanings: Commission. "Commission" shall mean the New York City Landmarks Preservation Commission as established by § 3020 of the New York City Charter.
 
+Day. "Day" shall mean any day other than a Saturday or Sunday or legal holiday.
 
+Landmarks law. "Landmarks law" shall be understood to refer to § 3020 of the New York City Charter and Chapter 3 of Title 25 of the Administrative Code of the City of New York.
 
+Landmarks preservation commission. "Landmarks preservation commission" shall mean the commission acting in its agency capacity to implement the landmarks law.
 
+Permit. "Permit" shall mean any permit other than a notice to proceed, issued by the Landmarks Preservation Commission, in accordance with the provisions of the Landmarks law:
 
+   (1) "PMW" shall mean permit for minor work as defined by § 25-310 of the Landmarks law.
 
-*§ 5-02 General Provisions.* ::
+   (2) "CNE" shall mean certificate of no effect as defined by § 25-306 of the Landmarks law.
 
+   (3) "CofA" shall mean certificate of appropriateness as defined by § 25-307 of the Landmarks law and shall not refer to a certificate of appropriateness as defined by § 25-309.
 
-(a) Continuation of Executive Order No. 91 [43 RCNY §§ 6-01 et seq.]; [;See Appendix A to these rules];. Until the City Planning Commission promulgates further rules governing environmental review of actions taken by the city, Executive Order No. 91 of August 24, 1977, as amended (Executive Order 91), shall continue to govern environmental quality review in the city except where inconsistent with these rules, provided, however, that the following provisions of Executive Order 91 shall not apply: the definitions of "Agency", "Lead Agencies" and "Project data statement" defined in § 6-02, subdivision (b) of § 6-03, subdivision (a) of § 6-05, the introductory paragraph of subdivision (b) of § 6-05, paragraphs one and two of subdivision (a) of § 6-12, § 6-14, and subdivision (b) of the TYPE II part of § 6-15.
 
-(b) Rules of Construction. 
 
-   (1) All functions required by Executive Order 91 to be performed by the "lead agencies," as formerly defined in § 6-02 of such Executive Order, shall be performed by the lead agency prescribed by or selected pursuant to these rules or by the Office of Environmental Coordination where authorized by these rules.
 
-   (2) Wherever Executive Order 91 explicitly or by implication refers to subdivision (b) of the Type II part of § 6-15 of such Executive Order, such reference shall be deemed to be to § 617.13(d) of the SEQRA Regulations.
 
-   (3) The reference to "a determination pursuant to § 6-03(b) of this Executive Order" contained in Executive Order 91 § 6-05(b)(1) shall be deemed to refer to selection of a lead agency pursuant to § 5-03 of these rules.
 
-   (4) The Office of Environmental Coordination shall succeed to functions performed by the City Clerk pursuant to Executive Order 91 with respect to the receipt and filing of documents.
+*§ 7-02 Duration of Permits.* ::
 
-   (5) References in these rules and in Executive Order 91 to specific agencies and provisions of law shall be deemed to apply to successor agencies and provisions of law.
 
-(c) Definitions. 
+(a) (1) All permits shall be of limited duration as provided in these rules.
 
-   (1) All definitions contained in Executive Order 91, other than the definitions of "agency" and "lead agencies", shall apply to these rules.
+   (2) Each permit shall clearly state the expiration date of such permit on the permit.
 
-   (2) "Action" as defined in § 6-02 of Executive Order 91 includes all contemporaneous or subsequent actions that are included in a review pursuant to City Environmental Quality Review.
+(b) The following permits shall have the following durations:
 
-   (3) The following additional definitions shall apply to these rules unless otherwise noted:
+   (1) Each PMW shall be valid for four (4) years from the date of such PMW.
 
-      Agency. "Agency" shall mean any agency, administration, department, board, commission, council, governing body or other governmental entity of the city of New York, including but not limited to community boards, borough boards and the offices of the borough presidents, unless otherwise specifically referred to as a state or federal agency.
+   (2) Each CNE shall be valid for four (4) years from the date of such CNE.
 
-      City Environmental Quality Review. "City Environmental Quality Review" (CEQR) shall mean the environmental quality review procedure established by Executive Order 91 as modified by these rules.
+   (3) Each CofA shall be valid for six (6) years from the date of a commission vote on such CofA.
 
-      Determination of Significance. "Determination of significance" shall mean a negative declaration, conditional negative declaration or notice of determination (positive declaration).
+   (4) Any PMW, CNE or CofA issued for a master plan shall be valid indefinitely.
 
-      Interested Agency. "Interested agency" shall mean an agency that lacks jurisdiction to fund, approve or directly undertake an action but requests or is requested to participate in the review process because of its specific concern or expertise about the proposed action.
+(c) Without limiting the time periods for permit duration set forth in subsection 7-02(b), where a permit or certificate has been issued to cure a violation, the Commission may require by the terms of such permit or certificate that the work be performed within a specified time period. The failure to perform the work and cure the violation within the specified time period shall mean that the Chair may serve a warning letter, a first, second or subsequent NOV in accordance with the provisions of §§ 25-317.1b and 25-317.2 of the Administrative Code.
 
-      Involved Agency. "Involved agency" shall mean any agency that has jurisdiction to fund, approve or directly undertake an action pursuant to any provision of law, including but not limited to the Charter or any local law or resolution. The City Council shall be an involved agency for all actions for which, as a component of the approval procedure for the action or a part thereof, the City Council has the power to approve or disapprove, regardless of whether the City Council chooses to exercise such power.
 
-      Lead Agency. "Lead agency" shall mean the agency principally responsible for environmental review pursuant to these rules.
 
-      Scoping. "Scoping" shall mean the process by which the lead agency identifies the significant issues related to the proposed action which are to be addressed in the draft environmental impact statement including, where possible, the content and level of detail of the analysis, the range of alternatives, the mitigation measures needed to minimize or eliminate adverse impacts, and the identification of non-relevant issues.
 
-      SEQRA Regulations. "SEQRA Regulations" shall mean Part 617 of Volume 6 of New York Codes, Rules and Regulations.
 
-(d) Applicability. These rules and Executive Order 91 shall apply to environmental review by the city that is required by the State Environmental Quality Review Act (Environmental Conservation Law, Article 8) and regulations of the State Department of Environmental Conservation thereunder and shall not be construed to require environmental quality review of an action where such review would not otherwise be required by such act and regulations, or to dispense with any such review where it is otherwise required.
 
+*§ 7-03 Renewal of Permits.* ::
 
 
+(a) The landmarks preservation commission may issue a renewal of a permit only upon the satisfaction of all of the following conditions:
 
+   (1) An application requesting a renewal shall be filed with the landmarks preservation commission no later than sixty (60) days prior to the expiration date shown on such permit.
 
+   (2) The application requesting a renewal shall include (i) a copy of a signed contract which is binding on the parties thereto for the work which is the subject of the permit then expiring and which specifies that work thereunder is to be commenced by a date which is at least sixty (60) days prior to the expiration date of such permit and (ii) if a building permit is required for the work which is the subject of the expiring permit, a copy of a valid building permit based on the landmarks commission's permit for the work which is the subject of the permit then expiring.
 
-*§ 5-03 Establishment of Lead Agency.* ::
+   (3) No "Notice of Violation" from the landmarks preservation commission shall be in effect against the property subject to the permit for which a renewal is requested; provided, however, that if the landmarks preservation commission shall find that (i) the work which is the subject of the permit for which a renewal is requested (A) will correct a hazardous condition or (B) prevent deterioration affecting the building; or (ii) an escrow agreement, or other acceptable form of assurance, has been established to provide a mechanism, acceptable to the landmarks preservation commission, to ensure that work approved to correct the notice of violation will be completed within a specified time period, then this subsection (3) shall not apply.
 
+(b) If all conditions to the renewal of a permit have been met on or before the expiration date of such permit, the landmarks preservation commission shall issue a renewal permit to the applicant which shall be valid for (i) two (2) years from the date of the expiration of the original permit if the permit renewed in either a PMW or a CNE or (ii) three (3) years from the date of the expiration of the original permit if the permit renewed is a CofA.
 
-(a) General Rule. Where only one agency is involved in an action, that agency shall be the lead agency.
+(c) (1) Notwithstanding the foregoing provisions, the chair of the landmarks preservation commission shall have the discretion, based on extraordinary circumstances, to allow the renewal of any permit. Such circumstances may include, but shall not be limited to, (i) delays resulting from the inability to obtain other governmental approvals, licenses or permits or (ii) an inability to complete construction of a project for which work has begun and is continuing with due diligence.
 
-(b) Actions Subject to ULURP and Charter Sections 197-a, 200, 201, and 668. 
+   (2) Request for any such discretionary extension shall be made in writing no later than sixty (60) days prior to the expiration date of the permit or within ten (10) days after receipt of notice that the permit will not be renewed, and may include supporting documentation. The chair shall respond to such request within twenty (20) days of receipt of the request. If the chair of the landmarks preservation commission determines that a renewal of the permit should be allowed, the landmarks preservation commission shall renew the permit for a stated term of years.
 
-   (1) For actions subject to the Uniform Land Use Review Procedure of § 197-c of the Charter (ULURP), and for which the applicant is not a city agency, the City Planning Commission shall be the lead agency.
+   (3) In allowing the renewal, the chair may set reasonable conditions including clearing up any outstanding violations within a reasonable stated time.
 
-   (2) For actions that involve plans for the development, growth and improvement of the city, its boroughs and community districts (Charter § 197-a), the City Planning Commission shall be the lead agency.
+(d) The expiration of any permit shall be tolled if judicial proceedings to review the decision to grant the permit, or any other governmental approval, license, permit or similar action applied for, or granted in connection with, the project have been instituted until the date of the entry of a final order in such proceedings, including all appeals.
 
-   (3) For actions that involve zoning map or text changes (Charter § 200 and/or 201), the following rules shall apply:
+(e) Any person who has been notified by the commission that a permit will not be renewed because a "notice of violation" from the landmarks commission is in effect against the property may request that the chair of the commission review whether the notice of violation is properly in effect against the property. Such request shall be made in writing within ten (10) days from the date of the notification that the permit will not be renewed and may include supporting documentation. The chair of the landmarks preservation commission shall respond to such request within twenty (20) days of receipt of the request. If the chair determines that a notice of violation was not properly in effect against the property, the landmarks preservation commission shall issue a renewed permit if it finds that all other conditions set forth in these rules have been met.
 
-      (i) If the only approval subject to ULURP or to Charter § 200 or 201 is a zoning map or text change, the City Planning Commission shall be the lead agency.
 
-      (ii) If the applicant for any action requiring a zoning map or text change is not a city agency, the City Planning Commission shall be the lead agency.
 
-      (iii) If the action involves a zoning map or text change, in addition to another approval under Charter § 197-c (ULURP) for which there is a city agency applicant, then the city agency applicant shall be the lead agency, provided, however, that the City Planning Commission shall be the lead agency if:
 
-         (A) The action involves a zoning map or text change that covers or may apply to areas substantially larger than the properties covered by the non-zoning approvals required under Charter § 197-c; or
 
-         (B) The city agency applicant and the Chair of the City Planning Commission agree that the action involves a zoning map or text change that changes the uses permitted so as to substantially alter the area zoning pattern.
 
-   (4) For all other actions subject to § 197-c of the Charter (ULURP) for which the applicant is a city agency, and for actions subject to § 668 of the Charter for which the applicant is a city agency, the city agency applicant shall be the lead agency. Where there is more than one city agency applicant, the city agency applicants shall agree upon which of them will be the lead agency, using the selection procedure set forth in subdivision (h) of this section.
+*§ 7-04 Effect of Expiration of Permits.* ::
 
-   (5) Where no other provision of this section applies and an action involves a special permit or variance from the Board of Standards and Appeals (Charter § 668) for which the applicant is not a city agency, the Board of Standards and Appeals shall be the lead agency.
 
-(c) Section 195 Acquisitions of Office Space or Existing Buildings for Office Use. For actions involving acquisitions of office space or existing buildings for office use (Charter § 195), the agency filing the notice of intent to acquire shall be the lead agency.
+(a) Upon expiration of any permit, such permit shall terminate and be of no further effect.
 
-(d) Local Laws. The City Council and the Office of the Mayor shall be co-lead agencies for local laws. Either agency may at any time delegate to the other its lead agency status and act instead as an involved agency. In addition, after introduction of a proposed local law, the City Council may assume sole lead agency status after giving the Mayor five days notice.
+(b) An applicant may apply for a new permit for work which is the subject of an expired permit. The landmarks preservation commission shall treat such application for a renewal which does not meet the condition for the renewal of permits as a new application in all respects subject to all applicable procedures, rules and guidelines in effect at the time of such application for renewal.
 
-(e) Franchises, Revocable Consents, and Concessions. For actions involving franchises, revocable consents and concessions, the responsible agency as defined in Charter § 362(c) shall be the lead agency.
 
-(f) Leasing of Wharf Property for Waterfront Commerce or Navigation and Waterfront Plans. For actions involving the leasing of wharf property belonging to the city primarily for purposes of waterfront commerce or in furtherance of navigation (Charter § 1301(2)(f)), the Department of Business Services shall be the lead agency, provided that the Department of Transportation shall be the lead agency for such actions when it is acting pursuant to Charter § 2903(c)(2). For actions involving determinations of the Commissioner of Business Services pursuant to Charter § 1302 (waterfront plans), the Department of Ports and Trade shall be the lead agency.
 
-(g) Selection of Lead Agency in the Case of Multiple Involved Agencies. 
 
-   (1) Subdivision (b) of this section, which governs lead agency designation for actions involving approvals pursuant to ULURP or § 197-a, 200, 201 or 668 of the Charter, shall always govern determination of the lead agency regardless of whether the action involves additional approvals pursuant to other provisions of law.
 
-   (2) For any other action involving more than one agency, the agencies designated in subdivisions (c) through (f) of this section and any agencies involved in any required city approval, other than approvals described in such subdivisions, shall agree upon which of them will be the lead agency, using the selection procedure set forth in subdivision (h) of this section.
 
-(h) Procedure for Selection of Lead Agency. In selecting a lead agency where agreement among agencies is required by this section, and in deciding whether transfer of lead agency status is appropriate, the agencies making the selection or decision shall determine which agency is most appropriate to act as lead agency for the particular action. In making such determination, such agencies shall consider, but shall not be limited to considering, the following criteria:
+*§ 7-05 Miscellaneous.* ::
 
-   (1) The agency that will have the greater degree of responsibility for planning and implementing the action;
 
-   (2) The agency that will be involved for a longer duration;
+Any permit (i) which is either a PMW or a CNE issued after the effective date hereof or (ii) which is a CofA which the commission approves by a vote taken after the effective date hereof shall be subject to these rules.
 
-   (3) The agency that has the greater capability for providing the most thorough environmental assessment;
 
-   (4) The agency that has the more general governmental powers as compared to single or limited powers or purposes;
 
-   (5) The agency that will provide the greater level of funding for the action;
 
-   (6) The agency that will act earlier on the proposed action; and
 
-   (7) The agency that has the greater role in determining the policies resulting in or affecting the proposed action.
 
-(i) Transfer of Lead Agency Status. Lead agency status may be transferred from the lead agency, at its discretion, to an involved agency that agrees to become the lead agency. In deciding whether a transfer of lead agency status is appropriate, agencies shall use the selection procedure set forth in subdivision (h) of this section. Notice of transfer of lead agency status must be given by the new lead agency to the applicant and all other involved and interested agencies within 10 days of the transfer. The Chair of the City Planning Commission may act on behalf of such Commission pursuant to this subdivision.
+*§ 7-06 Revocation of Approvals.* ::
 
-(j) Selection of Lead Agency Where Actions Involve City and State Agencies. Where an action involves both city and state agencies, the city agency prescribed by or selected pursuant to subdivisions (a) through (i) of this section shall, together with such state agencies, participate in selection of the lead agency pursuant to SEQRA, and such selection shall be binding upon the city. The criteria set forth in § 617.6(e)(5) of the SEQRA Regulations shall be considered in deciding whether or not a city agency shall serve as lead agency. The Office of Environmental Coordination shall perform the functions set forth in subdivision (d) of § 5-04 of these rules.
 
+(a) The Commission may revoke the approval of any certificate of no effect, certificate of appropriateness, permit for minor work, binding or advisory report, notice to proceed, or any amendments thereof, whenever:
 
+      (i) there is a failure to comply with the provisions of chapter 3 of title 25 of the Administrative Code of the City of New York, or this title of the Rules of the City of New York;
 
+      (ii) there is any incorrect or false statement or any misrepresentation or omission in the documents submitted in the application for approval with respect to a fact that was material to the issuance of the approval;
 
+      (iii) or an approval has been issued in error and conditions are such that approval should not have been issued. In such an event, the Commission will issue a "Notice of Intent to Revoke" ("Notice") that will inform the applicant of the reasons for the proposed revocation. The applicant has the right to present to the commissioner or his or her representative information on why the approval should not be revoked. The applicant must present such evidence within 10 business days if the Notice was personally served or 15 calendar days if the Notice was sent by mail.
 
+(b) Effect on Approval. Upon issuance of a Notice all work must cease immediately and no work will occur at the site until such time as the Commission shall withdraw the Notice and reinstate the approval. Revocation of an approval will be effective upon the issuance of a written Final Decision of Revocation by the commissioner after the time period for submission of rebuttal information has ended. The Final Decision of Revocation should be issued within 20 working days after the time period for the applicant to respond has expired, or within ten working days after receipt of a written request for issuance of a Final Decision of Revocation if the commissioner fails to issue the Final Decision of Revocation in the initial 20 working day period. The Final Decision of Revocation will state the reasons that the approval is being withdrawn. The revocation of any approval is the automatic revocation of all associated approvals (including certificates, permits, reports, notices or amendments in the future) that may have been issued.
 
-*§ 5-04 The Office of Environmental Coordination.* ::
+(c) The Notice of Intent to Revoke and the Final Decision of Revocation may be issued by personal service or sent by registered mail to the applicant's address as it appears in the application. If the registered mail is unsuccessful, the commission may send the notice using the procedures permitted in section 25-313 of the Administrative Code of the City of New York.
 
+(d) Enforcement action. All or some of the work performed in connection with an approval that has been revoked may be subject to enforcement action under sections 25-317, 25-317.1 and 25-317.2 of the Administrative Code of the City of New York. Such enforcement action may start upon the issuance of a written final decision by the commissioner or his or her designee to revoke the approval.
 
-(a) The Director of City Planning and the Commissioner of the Department of Environmental Protection shall designate persons from the staffs of the Departments of City Planning and Environmental Protection who shall comprise the Office of Environmental Coordination (OEC). The OEC shall provide assistance to all city agencies in fulfilling their environmental review responsibilities.
 
-(b) The OEC shall perform any environmental review function assigned to it by a lead agency, except the OEC may not issue, amend or rescind a determination of significance, notice of completion of a draft or final environmental impact statement, written findings following issuance of a final environmental impact statement, or analogous statements, notices or findings for a supplemental environmental impact statement. In addition, the lead agency may not delegate to the OEC its responsibility to issue the final scope or to attend the scoping meeting; however, the lead agency may delegate to the OEC the power to chair the scoping meeting.
 
-(c) In addition to any other functions the OEC may perform pursuant to these rules, the OEC shall:
 
-   (1) Work with appropriate city agencies to develop and maintain technical standards and methodologies for environmental review and, upon request, assist in the application by agencies of such standards and methodologies;
-
-   (2) Work with appropriate city agencies to develop and maintain a technical database that may be utilized by applicants and city agencies in completing the standardized environmental assessment statement described in this subdivision and in preparation of draft and final environmental impact statements;
-
-   (3) Prepare and maintain a standardized environmental assessment statement, which shall provide guidance in determining whether the action may have a significant effect on the environment;
-
-   (4) At the request of a lead agency, coordinate the work of the technical staffs of interested agencies in order to complete environmental review, and expedite responses by interested agencies to requests of the lead agency;
-
-   (5) (i) Receive and maintain on file notifications of commencement of environmental review, determinations of significance (including completed environmental assessment statements), draft and final scopes issued pursuant to 62 RCNY § 5-07 of these rules, draft and final environmental impact statements, and significant supporting documentation comprising the official records of environmental reviews,
-
-      (ii) provide to the public upon request, or make available for inspection by the public during normal business hours, materials maintained on file pursuant to this paragraph,
-
-      (iii) publish a quarterly listing of all notifications of commencement, determinations of significance, draft and final scopes and draft and final environmental impact statements received and filed pursuant to this paragraph, and
-
-      (iv) in its discretion, advise lead agencies as to whether such documents are consistent with standards and methodologies developed pursuant to this subdivision and reflect proper use of the standardized environmental assessment statement;
-
-   (6) Provide to lead agencies staff training, management assistance, model procedures, coordination with other agencies, and other strategies intended to remedy any problems that arise with respect to consistency with standards and methodologies developed pursuant to this subdivision or proper use of the standardized environmental assessment statement;
-
-   (7) Provide to lead agencies a format for notices of public scoping meetings, assist lead agencies in ensuring that public scoping meetings are conducted in an effective manner, and, to the extent the OEC deems appropriate, comment on the draft scope and participate in such meetings;
-
-   (8) Prepare standardized forms for notifications of commencement of environmental review, determinations of significance, notices of completion of draft and final environmental impact statements, and, as may be appropriate, other environmental review documents; and
-
-   (9) Work with appropriate city agencies to develop and implement a tracking system to ensure that mitigation measures are implemented in a timely manner, and to evaluate and report on the effectiveness of mitigation measures.
-
-(d) Any state agency that seeks a determination whether a city agency shall serve as the lead agency for an action that involves city and state agencies should initially communicate with the OEC. Upon receipt of such communication, the OEC shall ascertain the city agency which is designated as lead agency by or pursuant to these rules and shall notify such agency of such communication. Such designated agency may then act pursuant to subdivision (j) of § 3 of these rules.
-
-(e) Where an action or part thereof has been or will be reviewed by a federal agency, the OEC shall assist city agencies in coordinating review with the appropriate federal agency.
-
-
-
-
-
-
-*§ 5-05 Environmental Review Procedures.* ::
-
-
-(a) Threshold Determination.
-
-   (1) In the case of any action for which a lead agency is prescribed by 62 RCNY § 5-03, and thus for which no agreement among involved agencies is necessary, only such lead agency may determine that such action, considered in its entirety, requires environmental review, and such determination shall be binding upon the city. The OEC shall, upon the request of such agency, assist in such determination.
-
-   (2) In the case of any action for which agreement among involved agencies is necessary for selection of a lead agency, if an agency that could be the lead agency for the particular action pursuant to subdivisions (b) through (g) of 62 RCNY § 5-03 determines that such action may require environmental review, then the lead agency shall be agreed upon as provided in § 3 of these rules, and such lead agency shall determine whether such action, considered in its entirety, requires environmental review. Such determination shall be binding upon the city. The OEC shall assist in any determination made pursuant to this paragraph upon the request of the agency making such determination.
-
-   (3) Nothing contained in this subdivision shall be construed to require an affirmative determination, whether formal or informal, that an action is exempt from environmental review, or is a Type II action pursuant to the SEQRA Regulations, where such determination would not otherwise be required by law.
-
-(b) Other Determinations.
-
-   (1) After the determination that an action requires environmental review, the lead agency shall notify the OEC that it is commencing environmental review and complete or cause to be completed the standardized environmental assessment statement provided by the OEC. Such statement shall provide guidance in determining whether the action may have a significant effect on the environment. The OEC and interested and involved agencies shall, upon the request of the lead agency, assist the lead agency in completing such statement.
-
-   (2) The OEC and interested and involved agencies shall, upon the request of the lead agency, assist such lead agency with respect to any aspect of a determination of significance and/or a draft, final and/or supplemental environmental impact statement.
-
-   (3) Whenever, in the preparation of a draft environmental impact statement, the lead agency identifies a potential significant impact, the lead agency shall consult with any agency that has primary jurisdiction to carry out possible mitigations, and with any city agency that has primary regulatory jurisdiction over the subject matter of such impact.
-
-   (4) Lead agencies shall transmit copies of the following to the OEC upon issuance: notifications of commencement of environmental review, determinations of significance (including completed environmental assessment statements), draft and final scopes, draft and final environmental impact statements. In addition, lead agencies shall forward to the OEC significant supporting documentation comprising the official records of environmental reviews.
-
-(c) Type II. The following actions are not subject to review under City Environmental Quality Review, the State Environmental Quality Review Act (Environmental Conservation Law, Article 8) or the SEQRA Regulations, subject to 62 RCNY § 5-05(d):
-
-   (1) Special permits for physical culture or health establishments of up to 20,000 gross square feet, pursuant to § 73-36 of the Zoning Resolution;
-
-   (2) Special permits for radio and television towers, pursuant to § 73-30 of the Zoning Resolution;
-
-   (3) Special permits for ambulatory diagnostic or treatment health care facilities, pursuant to § 73-125 of the Zoning Resolution;
-
-   (4) Special permits to allow a building or other structure to exceed the height regulations around airports, pursuant to § 73-66 of the Zoning Resolution;
-
-   (5) Special permits for the enlargement of buildings containing residential uses by up to 10 units, pursuant to § 73-621 of the Zoning Resolution;
-
-   (6) Special permits for eating and drinking establishments of up to 2,500 gross square feet with accessory drive-through facilities, pursuant to § 73-243 of the Zoning Resolution;
-
-   (7) Acquisition or lease disposition of real property by the City, not involving a change of use, a change in bulk, or ground disturbance;
-
-   (8) Construction or expansion of primary or accessory/appurtenant park structures or facilities involving less than 10,000 square feet of gross floor area;
-
-   (9) Park mapping, site selection or acquisition of less than ten (10) acres of existing open space or natural areas;
-
-   (10) Authorizations for a limited increase in parking spaces for existing buildings without parking, pursuant to § 13-442 and § 16-341 of the Zoning Resolution;
-
-   (11) Special permits for accessory off-street parking facilities, which do not increase parking capacity by more than eighty-five (85) spaces or involve incremental ground disturbance, pursuant to § 16-351 of the Zoning Resolution;
-
-   (12) Special permits for public parking garages and public parking lots, which do not increase parking capacity by more than eighty-five (85) spaces or involve incremental ground disturbance, pursuant to § 16-352 of the Zoning Resolution; and
-
-   (13) Special permits for additional parking spaces, which do not increase parking capacity by more than eighty-five (85) spaces or involve incremental ground disturbance, pursuant to § 13-45 of the Zoning Resolution.
-
-(d) Type II Prerequisites.
-
-   (1) An action listed in 62 RCNY § 5-05(c), which is also classified as Type I pursuant to 6 NYCRR Part 617.4, shall remain Type I and subject to environmental review.
-
-   (2) An action listed in 62 RCNY § 5-05(c)(2) – (5), or (8) of these rules involving ground disturbance shall remain subject to environmental review, unless it is determined that any potentially significant hazardous materials impacts will be avoided.
-
-   (3) An action listed in 62 RCNY § 5-05(c)(2), (3), (5), or (8) of these rules involving excavation of an area that was not previously excavated shall remain subject to environmental review, unless it is determined that the project site is not archaeologically sensitive.
-
-   (4) An action listed in 62 RCNY § 5-05(c)(4) of these rules shall remain subject to environmental review, unless it is determined that any potentially significant noise impacts will be avoided.
-
-   (5) An action listed in 62 RCNY § 5-05(c)(2), (3), (5), or (8) of these rules involving the removal or alteration of significant natural resources shall remain subject to environmental review.
-
-   (6) An action listed in 62 RCNY § 5-05(c)(2), (4), (5), (6), (8), or (11) – (13) of these rules shall remain subject to environmental review if the project site is:
-
-      (i) wholly or partially within any historic building, structure, facility, site or district that is calendared for consideration or eligible for designation as a New York City Landmark, Interior Landmark or Scenic Landmark;
-
-      (ii) substantially contiguous to any historic building, structure, facility, site or district that is designated, calendared for consideration or eligible for designation as a New York City Landmark, Interior Landmark or Scenic Landmark; or
-
-      (iii) wholly or partially within or substantially contiguous to any historic building, structure, facility, site or district, or archaeological or prehistoric site that is listed, proposed for listing or eligible for listing on the State Register of Historic Places or National Register of Historic Places.
-
-
-
-
-
-
-
-
-*§ 5-06 Involved and Interested Agencies; Required Circulation.* ::
-
-
-(a) The lead agency and the OEC shall make every reasonable effort to keep involved and interested agencies informed during the environmental review process and to facilitate their participation in such process. If the City Council is involved in an action, staff of the lead agency and/or staff of the OEC shall be made available to explain determinations made by the lead agency to the City Council or the appropriate City Council committee or staff.
-
-(b) Any written information submitted by an applicant for the lead agency to determine whether an environmental impact statement will be required by law, and documents or records intended to define or substantially redefine the overall scope of issues to be addressed in any draft environmental impact statement required by law, shall be transmitted to all affected community or borough boards, where such transmission is required by the Charter.
-
-(c) If the City Council is involved in an action, any written information, documents or records that are required to be transmitted to involved agencies or to affected community boards or borough boards shall be transmitted to the City Council.
-
-
-
-
-
-
-
-
-*§ 5-07 Scoping.* ::
-
-
-After a notice of determination (positive declaration) is issued, the lead agency shall coordinate the scoping process, which shall ensure that all interested and involved agencies (including the City Council where it is interested or involved), the applicant, the OEC, community and borough boards, borough presidents and the public are able to participate. The scoping process shall include a public scoping meeting and take place in accordance with the following procedure:
-
-(a) Draft Scope. Within fifteen days after a notice of determination (positive declaration) is issued, the lead agency shall issue a draft scope, which may be prepared by the applicant but must be approved by the lead agency. The lead agency may consult with the OEC and other agencies prior to issuance of the draft scope.
-
-(b) Public Notice and Comment. Upon issuance of the draft scope and not less than thirty nor more than forty-five days prior to the holding of the public scoping meeting, the lead agency shall publish in the City Record a notice indicating that a draft environmental impact statement will be prepared for the proposed action and requesting public comment with respect to the identification of issues to be addressed in the draft environmental impact statement. Such notice shall be in a format provided by the OEC and shall state that the draft scope and the environmental assessment statement may be obtained by any member of the public from the lead agency and/or the OEC. Such notice shall also contain the date, time and place of the public scoping meeting, shall provide that written comments will be accepted by the lead agency through the tenth day following such meeting, and shall set forth guidelines for public participation in such meeting.
-
-(c) Agency Notice and Comment. Upon issuance of the draft scope and not less than thirty nor more than forty-five days prior to the holding of the public scoping meeting, the lead agency shall transmit the draft scope and the environmental assessment statement to all interested and involved agencies (including the City Council where it is interested or involved), to the applicant, to the OEC and to agencies entitled to send representatives to the public scoping meeting pursuant to § 197-c(d) or 668(a)(7) of the Charter. Together with the draft scope and the environmental assessment statement, a letter shall be transmitted indicating the date, time and place of the public scoping meeting, and stating that comments will be accepted by the lead agency through the tenth day following such meeting. The lead agency may consult with other agencies regarding their comments, and shall forward any written comments received pursuant to this subdivision to the OEC.
-
-(d) Public Scoping Meeting. The lead agency shall chair the public scoping meeting. In addition to the lead agency, all other interested and involved agencies that choose to send representatives (including the City Council where it is interested or involved), the applicant, the OEC, and agencies entitled to send representatives pursuant to § 197-c(d) or 668(a)(7) of the Charter may participate. The meeting shall include an opportunity for the public to observe discussion among interested and involved agencies, agencies entitled to send representatives, the applicant and the OEC. Reasonable time shall be provided for the public to comment with respect to the identification of issues to be addressed in the draft environmental impact statement. The OEC shall assist the lead agency in ensuring that the public scoping meeting is conducted in an effective manner.
-
-(e) Final Scope. Within thirty days after the public scoping meeting, the lead agency shall issue a final scope, which may be prepared by the applicant and approved by the lead agency. The lead agency may consult further with the OEC and other agencies prior to issuance of the final scope. Where a lead agency receives substantial new information after issuance of a final scope, it may amend the final scope to reflect such information.
-
-(f) Scoping of City Agency Actions. For actions which do not involve private applications, nothing contained in these rules shall be construed to prevent a lead agency, where deemed necessary for complex actions, from extending the time frames for scoping set forth in this section, or from adding additional elements to the scoping process.
-
-
-
-
-
-
-
-
-*§ 5-08 Applications and Fees.* ::
-
-
-(a) Applications. Applications submitted for City Environmental Quality Review for actions that require such review shall be submitted to the lead agency prescribed by these rules, or to an agency that could be the lead agency for the particular action pursuant to 62 RCNY § 5-03. Such applications shall include information required to be obtained from applicants in order for the lead agency to complete or cause to be completed the standardized environmental assessment statement, and such other documents and additional information as the lead agency may require to make a determination of significance. In addition, except as otherwise provided in these rules, such applications shall conform to the requirements of Executive Order 91.
-
-(b) Fees. Except as otherwise provided by this section, fees in effect on the effective date of these rules pursuant to Executive Order 91 and codified as 62 RCNY § 3-02 shall continue to govern City Environmental Quality Review applications, unless the City Planning Commission shall by rule modify such fees. Such fees shall be submitted to the lead agency prescribed by these rules, or to an agency that could be the lead agency for the particular action pursuant to 62 RCNY § 5-03.
-
-
-
-
-
-
-
-
-*§ 5-09 Transition Section.* ::
-
-
-(a) An action shall not be subject to these rules, but shall comply with Executive Order 91, as in effect prior to the effective date of these rules, where:
-
-   (1) a classification as exempt, excluded or Type II has been made prior to the effective date of these rules;
-
-   (2) a project data statement has been completed more than thirty days prior to the effective date of these rules and a determination of significance has not been made prior to the effective date of these rules;
-
-   (3) a negative declaration or a conditional negative declaration has been issued prior to the effective date of these rules; or
-
-   (4) a notice of determination (positive declaration) has been issued more than thirty days prior to the effective date of these rules; provided, however, that if a negative declaration or conditional negative declaration is rescinded, or if a classification as exempt, excluded or Type II is no longer applicable, or if a supplemental environmental impact statement is required, or if a notice of determination (positive declaration) has been issued less than thirty days prior to the effective date of these rules or is issued on or after the effective date of these rules, these rules shall apply, and the lead agency prescribed by or selected pursuant to these rules shall thereupon assume lead agency status at the earliest time practicable.
-
-(b) Except as provided in subdivision (a) of this section, the lead agency prescribed by or selected pursuant to these rules shall assume lead agency status at the earliest time practicable. If a determination of significance has not been made and such lead agency determines that the action requires environmental review, it shall notify the OEC that it is commencing environmental review and shall complete or cause to be completed the standardized environmental assessment statement provided by the OEC, regardless of whether a project data statement has been completed. However, such lead agency shall not be required to engage in scoping pursuant to 62 RCNY § 5-07 of these rules if a final scope has already been prepared. Until the lead agency prescribed by or selected pursuant to these rules assumes lead agency status, the action shall be subject to Executive Order 91 as in effect prior to the effective date of these rules; however, after the effective date of these rules, the prior lead agency or agencies shall not issue a determination of significance or notice of completion of a draft or final environmental impact statement, classify an action as exempt, excluded or Type II, convene a scoping meeting or conduct a public hearing pursuant to CEQR.
-
-
-
-
-
-
-*§ 5-10 Severability.* ::
-
-
-The provisions of these rules shall be severable and if any phrase, clause, sentence, paragraph, subdivision or section of these rules, or the applicability thereof to any person or circumstance, shall be held invalid, the remainder of these rules and the application thereof shall not be affected thereby.
-
-
-
-
-
-
-*§ 5-11 Effective Date.* ::
-
-
-These rules shall take effect on October 1, 1991.
-
-
-
-
-Chapter 6: Rules For the Processing of Plans Pursuant To Charter Section 197-a
+Chapter 8: Proposed Alterations and New Construction of Storefronts In the Jackson Heights Historic District
 --------------------------------------------------
 
 
 
-*§ 6-01 Purpose and Authority.* ::
+*§ 8-01 Introduction.* ::
 
 
-(a) Authority. These rules of procedure and minimum standards are established for the review of plans for the development, growth and improvement of the city, its boroughs and communities. Such plans may be sponsored by the Mayor, the City Planning Commission (the "Commission"), the Department of City Planning (the "Department"), and any Borough President, borough board or community board, (which agencies shall be referred to as the "sponsor" herein) pursuant to § 197-a(b) of the New York City Charter.
+These Rules are issued to assist the public in applying to the Landmarks Preservation Commission (the "Commission") for approval for the restoration, rehabilitation, alteration, or replacement of storefronts and associated fixtures in existing buildings within the Jackson Heights Historic District. These Rules enunciate the Commission's policy with respect to such work, and allow the staff of the Commission ("LPC staff") to issue permits for work conforming to these Rules. These Rules will ensure that new storefronts will be consistent with the architectural features that establish the aesthetic, historical, and architectural value and significance of the Jackson Heights Historic District. The Jackson Heights Historic District represents one of the first areas in the city in which the commercial thoroughfares were designed to complement and integrate with the residential buildings through the use of the same architectural styles and features of adjoining residential buildings. The majority of buildings within the Jackson Heights Historic District were built between 1910 and the 1950s. The styles found in both the residential and commercial buildings of the Jackson Heights Historic District include the neo-Tudor (e.g., English Gables at 37-12 to 37-34 82nd Street), the neo-Romanesque (e.g., Ravenna Court at 80-01 to 80-29 37th Avenue), the neo-Georgian (e.g., Georgian Hall at 83-01 to 83-27 37th Avenue), and the Moderne (e.g., 78-01 to 78-15 37th Avenue).
 
-(b) Policy Guidance. An adopted plan shall serve as a policy to guide subsequent actions by city agencies. The Commission shall consider pertinent such consideration as is consistent with the City Charter and general law. Agencies are urged to consider adopted 197-a plans as guidance for pertinent actions, whether or not such actions are subject to Commission review. The existence of an adopted 197-a plan shall not preclude the sponsor or any other city agency from developing other plans or taking actions not contemplated by the 197-a plan that may affect the same geographic area or subject matter.
 
 
 
 
 
+*§ 8-02 Definitions.* ::
 
-*§ 6-02 Plan Submission.* ::
 
+As used in the Jackson Heights Historic District Storefront Rules, the following terms shall have the following meanings:
 
-(a) Notification of Intent. To assist the Department in anticipating the need for technical assistance for the preparation of plans in the efficient scheduling of their review, the sponsor of a plan shall notify the Department of its intent to prepare and submit a plan. This notice shall be given not less than ninety (90) days prior to the submission of a proposed plan. Periodically, the Department shall report to the Commission on the notices received and on the progress of 197-a plans underway.
+Awning. "Awning" shall mean a metal frame clad with fabric attached over a storefront, door or window, to provide protection from the sun or rain.
 
-(b) Submission. All proposed plans shall be submitted to the Department of City Planning through its website or at 120 Broadway, 31st Floor, New York, NY 10271. If a plan has been initiated by a community board, borough board or Borough President, this initial submission shall include a summary record of the public hearing held by the board or Borough President. The submission shall also include the name(s) and address(es) of the person(s) designated by the sponsor to be its representative(s) in any discussions of the plan.
+Bulkhead. "Bulkhead" shall mean the part of a storefront that forms a base for one or more display windows (see Appendix A).
 
+Building Streetwall. "Building Streetwall" shall mean the predominant plane of the building facade at the level of the storefront.
 
+Canopy. "Canopy" shall mean a metal frame clad with fabric that projects from a building entrance over the sidewalk to the curb, where it is supported on vertical posts.
 
+The Commission. "The Commission" shall mean the Commissioners of the Landmarks Preservation Commission, including the Chairman, as established by Section 3020 of the New York City Charter.
 
+Cornice. "Cornice" shall mean a horizontal molded projection that completes the top of a wall, facade, building or storefront (see Appendix A).
 
+Display window. "Display window" shall mean the large glazed portion of the storefront, and the associated framing, above the bulkhead and below the transom, extending from pier to pier. The display window is typically used for the display of goods and to provide daylight and visibility into the commercial space (see Appendix A).
 
+Entrance recess. "Entrance recess" shall mean the recessed opening in the facade leading up to the doorway of a storefront or building entrance (see Appendix A).
 
+Facade. "Facade" shall mean an entire exterior face of a building.
 
-*§ 6-03 Threshold Review and Determination.* ::
+Fixture. "Fixture" shall mean an appliance or device attached to the facade (e.g., awning, sign, lighting fixture, conduit, or security gate).
 
+Historic fabric. "Historic fabric" shall mean a building's original or significant historic facade construction material or ornament, or fragments thereof.
 
-(a) Department Review. Each proposed plan shall be reviewed by the Department staff who shall report to the Commission not later than 90 days after the plan's submission as to whether the plan appears to meet the standards for form and content and for consistency with sound planning, as set forth in 62 RCNY § 6-04. Prior to making the report, the staff shall inform the sponsor of all deficiencies with respect to form and content and any changes, additions or deletions which, in the opinion of the staff, may correct such deficiencies. The sponsor may, thereupon, indicate its willingness to make such changes, additions or deletions in which case the Department will defer its report to the Commission until the changes have been made. The sponsor may, instead, request that the plan be presented without change to the Commission for its threshold findings of form and content and sound planning policy. At the time of any Department report on a proposed plan, the Commission may receive a similar report from representatives of the sponsor.
+Landmarks Law. "Landmarks Law" shall refer to Section 3020 of the New York City Charter and Chapter 3 of Title 25 of the Administrative Code of the City of New York.
 
-(b) City Planning Commission Determination. Within 30 days after its presentation by the Department staff, the Commission shall determine, when required by the Charter and in accordance with the standards set forth in 63 RCNY § 6-04, whether the proposed plan is of appropriate form and sufficient content, and whether it is in accordance with sound planning policy. If the Commission has determined that a proposed plan does not meet the standards for form or content or for sound planning policy, it shall direct the plan back to the sponsor with a statement explaining its deficiencies. When the Commission has determined that a proposed plan is of appropriate form and content and is in accordance with sound planning policy, it shall direct the Department to undertake the necessary environmental review if the plan has been sponsored by a community board in accordance with 62 RCNY Ch. 5. If the plan has been sponsored by an agency other than a community board the Commission shall determine whether a Type II declaration, a negative declaration, or a notice of completion of a draft EIS has been issued, and if so, it shall direct the Department to distribute the plan in accordance with 62 RCMU § 6-06.
+Lighting. "Lighting" shall mean the method or equipment for providing artificial illumination.
 
-(c) Coordination of Plan Review. The Commission may determine that, despite its finding of appropriate form and content and sound planning policy, a proposed plan should not immediately proceed because there are other planning efforts, ULURP reviews or environmental studies underway which should be coordinated with the plan. In such a case, the Commission may direct the Department to work with the sponsor and any other interested agencies in developing an appropriate timetable and strategy for the plan, and to report back to the Commission.
+Lintel. "Lintel" shall mean the horizontal member or element above a door or window opening (see Appendix A).
 
-(d) Progress Report. When 180 days has elapsed following a threshold determination pursuant to subdivision (b), if a proposed plan has not been distributed for review either because the environmental review remains incomplete, or because the plan has been delayed pursuant to subdivision (c), the sponsoring agency may make a written request to the Commission to expedite the plan's distribution. The Commission shall direct the Department to report in writing within a fixed period of time the progress of the plan, including any outstanding aspects of the environmental review, or any continuing problems of coordination delaying its review. Upon receipt of the report, the Commission may direct the Department to complete the review within a reasonable period of time.
+LPC staff. "LPC staff" shall mean the staff of the Landmarks Preservation Commission acting in the Commission's agency capacity.
 
+Permit. "Permit" shall mean any permit other than a Notice to Proceed, issued by the Landmarks Preservation Commission, in accordance with the provisions of the Landmarks Law:
 
+(a) "PMW" shall mean a Permit for Minor Work as defined by Section 25-310 of the Landmarks Law.
 
+(b) "CNE" shall mean a Certificate of No Effect as defined by Section 25-306 of the Landmarks Law.
 
+(c) "CofA" shall mean Certificate of Appropriateness as defined by Section 25-307 of the Landmarks Law and shall not refer to a Certificate of Appropriateness as defined by Section 25-309.
 
+Pier. "Pier" shall mean a vertical supporting member or element (usually of brick, stone, or metal) placed at intervals along a wall, which typically separate each storefront opening from the adjacent storefront opening (see Appendix A).
 
+Roll-down gate. "Roll-down gate" shall mean a security gate with a mechanism that allows it to roll up and down.
 
+Rules. "Rules" shall mean the rules governing the practice and procedure of the Commission as promulgated in Title 63 of the Rules of the City of New York.
 
-*§ 6-04 Standards.* ::
+Scissor gate. "Scissor gate" shall mean a security gate with a sideways retractable mechanism.
 
+Security gate. "Security gate" shall mean a movable metal fixture installed in front of a storefront or inside the display window or door to protect the store from theft or vandalism when the store is closed. A security gate can be either the roll-down or scissor variety.
 
-(a) [;Plan Form and Content];. The form and content of all proposed plans shall be consistent with the following:
+Security gate housing. "Security gate housing" or "housing," shall mean the container that houses the rolling mechanism of a roll-down security gate.
 
-   (1) A plan may take the form of a comprehensive or master plan for a neighborhood, community district, borough or other broad geographic area of the city. Such a plan would combine elements related to housing, industrial and commercial uses, transportation, land use regulation, open space, recreation, community facilities and other infrastructure and service improvements which promote the orderly growth, improvement and future development of the community, borough or city.
+Security gate tracks. "Security gate tracks" shall mean the interior or exterior tracks along the sides of the storefront (for roll-down gates) or along the top and bottom of the storefront (for scissor gates) that hold the edges of the gates.
 
-   (2) A plan may take the form of a targeted plan which considers one or a small number of elements of neighborhood, community districts, borough or citywide problems or needs. Such a plan shall have as its focus issues that are related to the use, development and improvement of land within the sponsor's geographic jurisdiction and may give consideration to the provision of various city services necessary to support orderly growth, development and improvement of that area.
+Sign. "Sign" shall mean a fixture or area containing lettering or logos used to advertise a store, goods, or services (see Appendix A).
 
-   (3) A plan shall not be limited to a single zoning lot or a specific parcel in private ownership. A plan shall cover an identifiable, cohesive geographic area or neighborhood.
+Signage. "Signage" shall mean any lettering or logos in general, used to advertise a store, goods, or services.
 
-   (4) Plans shall be presented in clear language and coherent form with elements, chapters or sections that are organized in logical sequence.
+Sign band. "Sign band" shall mean the flat, horizontal area on the facade usually located immediately above the storefront and below the second story window sill where signs were historically attached. A sign band may also occur within a decorative bandcourse above a storefront (see Appendix A).
 
-   (5) Plans shall state their goals, objectives or purposes clearly and succinctly. Policy statements or recommendations shall contain documentation and explanation of the data, analysis or rationale underlying each. Plans shall demonstrate a serious attempt to analyze and propose policies that address the problems they identify.
+Significant architectural feature. "Significant architectural feature" shall mean an exterior architectural component of a building that contributes to its special historic, cultural, and aesthetic character, or reinforces the special characteristics for which the Jackson Heights Historic District was designated.
 
-   (6) A plan shall contain, as appropriate, inventories or description and analysis of existing conditions, problems or needs; projections of future conditions, problems or needs; and recommended goals and strategies to address those conditions, problems or needs. The level of detail and analysis shall be appropriate to the goals and recommendations presented in the plan. The information and analysis relied upon to support its recommendations shall be sufficiently identified so that when the plan is later under review, the accuracy and validity of the information and analysis may be understood. Supporting information may be contained in the form of narrative, maps, charts, tables, technical appendices or the like.
+Sill. "Sill" shall mean the bottom horizontal member or element of a window or door (see Appendix A).
 
-   (7) Plans shall be accompanied by documentation of the public participation in their formulation and preparation, such as workshops, hearings or technical advisory committees.
+Skirt. "Skirt" shall mean the bottom finishing piece that hangs from the lower edge of an awning.
 
-(b) Sound Planning Policy. 
+Soffit. "Soffit" shall mean the underside of a structural component such as a beam, arch, or recessed area.
 
-   (1) All plans, no matter what their form and content, shall include discussion of their long-range consequences, their impact on economic and housing opportunity for all persons (particularly those of low and moderate income), their provision of future growth and development opportunities, their ability to improve the physical environment and their effect on the fair geographic distribution of city facilities. In determining whether a proposed plan contains sufficient discussion of these issues, the Commission shall not evaluate the merits of the plan.
+Spandrel area. "Spandrel area" shall mean the portion of the facade below the sill of an upper story window and above the lintel of the window or display window directly below it or above the lintel of a window or display window and the building cornice or top of buildings (see Appendix A).
 
-   (2) A plan shall set forth goals, objectives, purposes, policies or recommendations that are within the legal authority of the city to undertake.
+Storefront bay. "Storefront bay" shall mean the area of the storefront defined by and the spanning the two piers.
 
-   (3) A plan which considers issues which are under the jurisdiction of specific city or state agencies shall contain evidence that such agencies have been consulted and shall disclose any comments of such agencies.
+Storefront infill. "Storefront infill" shall mean the framing, glazing, and cladding contained within a storefront opening in the facade.
 
-   (4) A plan shall show consideration of its relationship to applicable policy documents including the Ten Year Capital Strategy, the Zoning and Planning report, the borough and mayoral Strategic Policy Statements and any 197-a plan of a neighboring or superior jurisdiction.
+Storefront opening. "Storefront opening" shall mean the area of the facade framed by the piers and lintel, which contains storefront infill (see Appendix A).
 
+Transom. "Transom" shall mean a glazed area above a display window or door separated from the display window or door by a transom bar. A transom can be fixed or hinged (see Appendix A).
 
 
 
 
 
-*§ 6-05 Environmental Review.* ::
 
+*§ 8-03 Routine Maintenance.* ::
 
-(a) Lead Agency. The City Planning Commission shall be the lead agency for all 197-a plans in accordance with the City Environmental Quality Review Regulations. For a plan sponsored by the mayor, the Commission may transfer the lead status to another city agency if it determines that the proposed plan is part of a broader set of actions for which the sponsoring agency is principally responsible.
 
-(b) Community Board Plans The Department of City Planning, together with the Office of Environmental Coordination, shall conduct or cause to be conducted the required environmental review of any plan submitted by a community board.
+A permit is not required to undertake minor ordinary repairs and cleaning such as:
 
-(c) Other Agency Plans. The Department, on behalf of the Commission as lead agency, shall determine in consultation with any sponsor of a proposed plan which is not a community board, the appropriate scheduling and division of responsibilities for environmental review.
+(a) Window repair. Ordinary repair and restoration of windows in accordance with the criteria set forth in Section 3-02 (a) of these Rules ("Window Guidelines").
 
+(b) Painting. Scraping, priming, and repainting of storefronts to recoat with the same color and finish, provided that such color and finish either existed at the time of designation or was subsequently applied pursuant to a Commission permit.
 
+(c) Cleaning. Routine cleaning, including polishing of metal storefronts and routine removal of small amounts of graffiti. Routine cleaning does not include sandblasting and chemical cleaning.
 
+(d) Repair or replacement of door or window hardware. Repair or replacement of door or window hardware, excluding security gate replacement.
 
 
 
-*§ 6-06 Plan Distribution and Review.* ::
 
 
-(a) Plan Distribution. When pursuant to 62 RCNY § 6-03(b), the Commission directs the Department to distribute a proposed plan, the Department shall transmit the plan simultaneously to all affected community boards, Borough Presidents and borough boards, as defined in Charter §§ 196 and 197-a(c). The Commission may also direct its distribution to other agencies whose interests may be affected including neighboring community boards and Borough Presidents, and any city and state agency with jurisdiction over elements of the plan.
 
-(b) Community Board Review. Each community board which has received from the Department of City Planning a proposed plan affecting land in its district shall conduct a public hearing on the plan except when a single borough-wide hearing is to be held on a borough plan. Notice of the public hearing shall be given and the hearing conducted in accordance with the ULURP rules for community board public hearings. Subsequent to the public hearing and within a period of sixty (60) days following its receipt of the plan, the community board shall transmit its written recommendation to the City Planning Commission with copies to the Borough President, City Council and the sponsor. The Community board which is the sponsor of a plan and which held a hearing on it prior to filing with the Department, need not hold a second hearing.
+*§ 8-04 Storefront Alterations.* ::
 
-(c) Borough president review. The Borough President shall have one hundred twenty (120) days following the receipt of a proposed plan in which to review the plan and submit written recommendation to the City Planning Commission with copies to the City Council and sponsor. The Borough President may choose to conduct a public hearing on the plan.
 
-(d) Borough board review. Each borough board which has received from the Department of City Planning a proposed plan affecting land in two or more community districts in its borough shall conduct a public hearing on the plan. Such public hearing shall take place and the report of the borough board shall be transmitted within one hundred twenty (120) days following its receipt of the plan. In the case of a plan affecting the entire borough, a single borough-wide public hearing may be held in lieu of separate hearings by the community boards. Notice of the public hearing shall be given and the hearing conducted in accordance with the ULURP rules governing borough board hearings. The borough board shall transmit its written recommendation to the City Planning Commission with copies to the City Council and the sponsor.
+LPC staff will issue a CNE or a PMW (if the work does not require a permit from the Department of Buildings) for storefront alterations and replacement provided the work meets all of the following criteria:
 
-(e) Request for review. Any community board or borough board may make a written request to the Department to receive and review a proposed plan which does not involve land within its district or borough. In its request the Community board or borough board shall state the reason why the plan significantly affects the welfare of its district or borough. Upon receipt of the plan, the community board or borough board may conduct a public hearing and may make any recommendation to the City Planning Commission with copies to the City Council and sponsor. When it transmits such a plan, the Department shall notify the community board or borough board of the remaining time period during which it may review and comment on the plan.
+(a) Retention of historic storefronts. All existing original or significant historic storefronts shall be retained or repaired if feasible, or if repair is not feasible, replaced in kind.
 
-(f) Other requests. A borough president may make a written request to the Department to receive and review a proposed plan for a district or area outside the borough. Any other interested party may similarly request a copy. Such request may be made to either the Department or the sponsor.
+(b) Permitted storefront alterations.
 
+   (1) Retention of significant protected features. All alterations to storefront openings, infill, and fixtures shall preserve all significant original and historic architectural components of the existing storefront, including those presently concealed by non-original materials. Such components shall be retained or repaired if feasible, or if repair is not feasible, replaced in kind.
 
+   (2) Storefront openings.
 
+      (i) Size and placement. Storefront infill shall fit within the opening established by the original building piers and lintels.
 
+      (ii) Separation between storefronts and upper floors. A storefront shall be visually separated from the upper floors or the top of the building by a horizontal architectural component, such as a cornice or sign band.
 
+   (3) Storefront infill. The design of storefront infill shall be based on:
 
+      (i) Evidence of the original storefront. An original storefront design shall be determined through references to historic photographs, remnants of historic fabric, or other historic storefronts in the building or similar type of building. (Note: LPC staff can assist you in locating historic photographs.) All such evidence shall be submitted to the Commission with the application; and/or
 
+      (ii) General Jackson Heights storefront infill criteria. These criteria, set forth below, reflect the typical historic configuration of storefronts in the Jackson Heights Historic District, which were comprised of three horizontal parts: solid bulkhead, display window, and transom.
 
-*§ 6-07 City Planning Commission Review.* ::
+(A) Bulkhead. A storefront shall have a bulkhead. The bulkhead shall be between 12 inches and 24 inches in height. The bulkhead shall be built of or clad with one of the following materials: (a)  brick that matches the existing building facade brick; (b)  stone or cast stone; (c)  panelled wood with molded details; or (d)  metal with molded detail. Corrugated metal shall not be permitted.
 
+(B) Display window. A storefront shall have one or more display windows. Display windows shall be framed with wood or metal and shall be glazed with clear glass. Any blocking of the transparency of the glass of portions of the storefront shall be reversible and maintain the exterior surface of the glass. Back-painting or the installation of removable opaque panels behind the glass shall be permitted. The installation of tinted or mirrored glass shall not be permitted.
 
-(a) Schedule for Review. When the affected community board(s), Borough President(s) and/or borough boards shall have completed their review of any proposed plan involving land in their respective districts, the City Planning Commission shall commence its review and schedule a public hearing. Such hearing shall take place within a period of sixty (60) days following receipt of the last affected community board's, borough board's or Borough President's recommendation, or the final day of the time period provided for their respective review(s), whichever is earlier.
+(C) Transom. A storefront shall have a transom above the door(s) if there is sufficient clearance within the existing masonry opening. Transoms are also required above display windows unless it is determined through physical or pictoral evidence that no transom existed originally or if there is not sufficient clearance within the existing masonry opening. Transoms shall be between 12 and 36 inches in height. Transom framing shall match the material and finish of the display window framing. Transoms shall be glazed with clear glass. Back-painted glass or the installation of a solid panel behind the glass shall be permitted when necessary to conceal a dropped ceiling if such ceiling falls below the top of the transom.
 
-(b) Public hearing. Notice of the public hearing shall be given and the hearing conducted in accordance with the ULURP rules governing Commission hearings.
+(D) Building streetwall. The overall placement of the bulkhead, display window and display window transom shall conform to the original building streetwall. A new display window, bulkhead, and door that incorporate external roll-down gates, with a recessed housing that complies with the criteria set forth below in 8-04(b)(6)(ii), may be recessed up to four inches to accommodate the width of the gate tracks.
 
-(c) Commission resolution. The Commission shall vote by resolution to approve, approve with modifications or disapprove the plan. Such vote shall be taken within 60 days following the public hearing; however, if the Commission finds that it is unable to vote within that time period it shall give a written statement of explanation to the sponsor. In its review of the substance of the plan, the Commission shall give consideration to the community, borough and citywide impacts and to the long-term efforts that could result from the actions or policies recommended by the plan. It shall consider the impact of the plan on economic and housing opportunity, on future growth and development, and on the physical environment. Such consideration shall include the consistency of the plan with other Charter-defined plans and reports such as the mayoral and borough Strategic Policy Statements, the Ten-Year Capital Strategy, the Report on Social Indicators, the Zoning and Planning Report, and any other pertinent adopted 197-a plans. It shall also consider the fair share criteria adopted pursuant to § 203 of the City Charter in weighing any recommendation with respect to proposed city facilities.
+(E) Entrance. A storefront with out-swinging doors shall have an entrance recessed a minimum of 18 inches from the building streetwall. The sides of the entrance recess shall be splayed or angled outward toward the street, unless restricted by the property line. Recessing is optional if a storefront has in-swinging doors.
 
-(d) Commission Report. The Commission shall accompany its resolution with a report which sets forth its considerations and any explanation for its determination. The report may identify any environmental issues which may arise in conjunction with any actions recommended by the Plan, it may set forth proposals for additional study and consideration that the Commission deems necessary to carry out any recommendations made by the plan and it may include recommendations for the implementation of plan elements. The report and resolution shall be transmitted to the Mayor, the affected community board(s) and Borough President(s), the City Council and the sponsor.
+(F) Door. A door shall have at least 75% of its surface area glazed with clear glass and shall be framed in wood or metal. Solid, flat (unpaneled) doors are not permitted.
 
+(G) Finish. Non-glazed portions of the storefront infill shall be manufactured in, factory finished with paint or enamel in, or painted on site with one of the following colors or finishes: (a)  Black (b)  Brown (c)  Dark gray (d)  Tan (e)  Dark green (f)  Maroon (dark brownish red) (g)  Silver (stainless steel, clear-finished, or brush-finished aluminum). This finish shall be permitted only for metal storefronts in buildings specified in the Jackson Heights Historic District Designation Report as Art Deco or Modern Style. (h)  Anodized finished on aluminum shall be black or silver only. Bronze anodized aluminum shall not be permitted.
 
+   (4) Signage.
 
+      (i) Types of signs permitted on the ground story.
 
+(A) Back-painted signs on glass doors, display windows or transoms not exceeding 50% of the glazed area. No LPC permit is needed for this type of sign.
 
+(B) Letters and logos pin-mounted or painted on a wood, metal, or opaque glass panel that is mounted flat within the sign band or spandrel. Such signs may be illuminated with a shielded or concealed source of light, or with "goose-neck" type fixtures. Such "goose-neck" fixtures shall be placed above the sign and shall not exceed one fixture for every 3 linear feet of sign.
 
-*§ 6-08 Modifications.* ::
+(C) Neon signs installed in the display window behind the glass, provided that the perimeter of the window is not outlined with neon, the transparency of the display window is not materially reduced, and the size of the sign does not exceed 2 feet by 2 feet per display window.
 
+(D) Individual pin-mounted opaque letters and logos illuminated from behind, each glowing with a halo of light, or individual letters with exposed neon tubes (no lenses). The letters or logos may be mounted on a flat metal or wood panel, or affixed to a base measuring no more than 4 inches deep by 4 inches high that houses the electrical conduit.
 
-(a) If the City Council, acting pursuant to the City Charter § 197-d(d) has transmitted to the Commission a proposed modification of a plan, the Commission shall, within fifteen (15) days, review the proposed modification and transmit back to the Council its findings and recommendations. In determining whether the modification must be subject to additional environmental review, the Commission may consult appropriate staff or the Office of Environmental Coordination, and it must consult the lead agency if the lead has not been the Commission itself. In determining whether the modification requires a new process of community, borough and Commission review, the Commission shall consider whether the proposed modification:
+(E) Signs painted on awnings (if permitted under the awning rules, set forth below in 8-04(b)(5)).
 
-   (1) would incorporate new elements* that were not a part of and are not related to the plan as it was previously reviewed.
+(F) Small identification signs for second story tenants are permitted near the entrance to the second story premises.
 
-   (2) would delete entire elements or remove from the plan consideration of significant long-range consequences, impacts on economic and housing opportunity for all persons, provision of future opportunities for growth and development, ability to improve the physical environment, or effects on the fair geographic distribution of city facilities.
+      (ii) Types of signs permitted on the second story.
 
+(A) Back-painted signs on glass windows or transoms not exceeding 50% of the glazed area. No LPC permit is needed for this type of sign.
 
+(B) Letters and logos pin-mounted or painted on a wood, metal or opaque glass panel, which is mounted flat on an area of plain masonry.
 
+(C) Neon signs, installed in the second floor window behind the glass, provided that the perimeter of the window is not outlined with neon, the transparency of the second floor window is not materially reduced, and the size of the sign does not exceed 18 inches by 18 inches per window.
 
+(D) Signs painted on awnings (if permitted under the awning rules, set forth below in 8-04(b)(5)).
 
+      (iii) Types of signs not permitted.
 
-*§ 6-09 Filing, Review and Revision.* ::
+(A) Projecting banners and flagpoles.
 
+(B) Internally illuminated box signs with plastic or glass lenses.
 
-(a) Filing. Upon final adoption of a plan by the City Council, the plan shall be filed and indexed by the Calendar Officer of the Department. The Department shall make the plan available for review by the public and shall transmit the plan to all affected agencies for their use.
+(C) Internally illuminated fabric signs or awnings.
 
-(b) Revision of Plans. A plan may be periodically reviewed and revised by its sponsor or the Commission may initiate such review. Any such revision may be presented for adoption as an amendment to the plan in accordance with the procedures set forth in these rules.
+(D) Flashing signs, moving signs, or strobe-lights.
 
-(c) Summary of Plans. In each Zoning and Planning Report adopted pursuant to Charter § 192(b), the Commission shall include a summary of all 197-a plans adopted during the preceding four years.
+(E) Neon border outline around perimeter of a window.
 
+(F) Signs or advertising added to bulkheads.
 
+      (iv) General criteria for sign installation. Installation of the sign shall not damage or obscure significant architectural features of the building and/or the storefront.
 
+      (v) Criteria for sign installation at ground story.
 
+(A) Ground story signs shall be installed in the sign band, spandrel, display window, transom, or door.
 
+(B) The height of the sign shall not exceed the height of the sign band, or, if there is sign band, the spandrel area above the storefront.
 
-Chapter 7: Rules For the Definition of Major Concessions
+(C) The length of the sign shall not exceed the length of the frontage of the storefront opening.
+
+      (vi) Criteria for sign installation at the second story.
+
+(A) A second story sign shall relate to the commercial premises located at the second story.
+
+(B) A second story sign may be placed on the building facade either in the spandrel area above the second story windows or centered between second story windows. The placement of second story signage shall be consistent for a single building.
+
+(C) A sign located above a second story window shall not exceed 20 inches in height or the lesser of 6 feet in length or the width of the window(s) for the commercial premises.
+
+(D) A sign placed between windows on the second story shall not exceed 30 inches in height or 3 feet in length.
+
+(E) Second story signs on the facade shall not be externally or internally illuminated, except for neon signs that comply with the criteria set forth above in 8-04(b)(4)(ii)(C).
+
+   (5) Storefront awnings. These rules apply to the installation of awnings above ground story storefronts and above upper story windows. For storefronts in the Jackson Heights Historic District, the following criteria apply in lieu of the general awning rule set forth in Section 2-12 of the Rules. If a new storefront is being installed and an awning is desired, the storefront shall incorporate an awning in compliance with the criteria set forth below. Existing awnings in non-compliance with these criteria cannot be maintained unless the applicant can demonstrate to LPC staff that the new storefront installation will not require the removal of the existing awning.
+
+      (i) General awning criteria.
+
+(A) An awning may be retractable or fixed. If fixed, the awning shall have a straight slope, be open on the sides, and have an unframed, flexible skirt. The awning skirt shall not exceed 10 inches in height. If retractable, the awning shall have a straight slope.
+
+(B) The awning shall be attached to the facade at the lintel or transom bar, except that the awning may be attached above the lintel and below or within the lower portion of the sign band where: (a)  an existing or permitted roll-down security gate makes it impossible to install the awning at the lintel or transom bar; or (b)  installing the awning at the lintel or transom bar will result in the lowest portion of the awning being less than eight feet above the sidewalk. Where the awning is installed above the lintel but below or in the lower portion of the sign band, the awning encroachment on the area above the lintel shall be the minimum required to accommodate the conditions described above in subparagraphs (a) and (b).
+
+(C) The length of the awning shall not exceed the length of the storefront opening or the associated window opening and the edges of the awning shall be aligned with the inside face of the principal piers of the storefront, or the window opening.
+
+(D) The underside of the awning shall be open.
+
+(E) The lowest portion of awning shall be at least 8 feet above the sidewalk.
+
+(F) The awning shall project between three feet and six feet from the building street wall.
+
+(G) The awning shall be clad only with water repellant canvas with a matte finish or other fabric of a similar appearance.
+
+(H) A sign may be painted on the awning skirt. Such sign shall not exceed 8 inches in height.
+
+(I) A sign may not be painted on the sloped portion of the awning unless the building has no sign band or spandrel area above the ground floor storefront. Such signs shall be proportionate with the size of the awning, but in no event shall such signs exceed 6 square feet in area per awning.
+
+      (ii) Types of awnings not permitted. The following types of awnings are not permitted:
+
+(A) Fixed box awnings.
+
+(B) Fixed waterfall or curved awnings.
+
+(C) Novelty awnings.
+
+(D) Translucent or transparent awnings illuminated from within or beneath.
+
+      (iii) Canopies. Canopies are not permitted.
+
+   (6) Security gates.
+
+      (i) General requirements. A security gate shall not obscure or detract from the design and details of an existing storefront and shall be architecturally integrated with the design and construction of a new storefront.
+
+      (ii) Security gates for new storefronts. If security gates are required, the new storefront shall be constructed with an internally-housed or completely internal security gate system or scissor gates. Subsequent to a new storefront installation, LPC staff will not approve a security gate in noncompliance with the criteria set forth below.
+
+(A) Roll-down gates. All roll-down security gates installed pursuant to these rules shall be composed entirely of open mesh or have a solid metal panel at the base that does not exceed the height of the bulkhead it covers.
+
+(B) Internal gates. A roll-down security gate may be mounted on the interior of the storefront. An internally mounted gate is required if an externally mounted gate cannot be installed in compliance with the criteria for external gates set forth below in subsection (C).
+
+(C) External gates. A roll-down security gate may be mounted on the exterior of the storefront if it (1) does not affect, obscure, or damage historic fabric, (2) the security gate housing is located on the interior of the storefront, or the outer face of the security gate housing is set so as not to protrude beyond the building streetwall, and (3) the security gate tracks are recessed or set into reveals along the sides of the storefront.
+
+(D) Scissor gates. Scissor gates are permitted if their installation does not obscure or damage any significant architectural feature.
+
+      (iii) Security gates for existing storefronts.
+
+(A) An internal gate, scissor gate, or external gate may be installed if the installation is in compliance with the relevant criteria set forth above in 8-04(b)(6)(ii)(A-D).
+
+(B) A replacement external gate that is not in compliance with the criteria set forth above in 8-04(b)(6)(ii)(C) may be mounted on the exterior of the storefront if the following criteria are met: (a)  the existing storefront is not being replaced and the storefront had an exterior roll-down gate at the time of the designation of the Jackson Heights Historic District; (b)  the installation of the new security gate shall not obscure or damage any significant architectural features; and (c)  the security gate housing and tracks shall be finished in a color to match or harmonize with the storefront and the security gate housing will be completely covered by an awning that is installed and maintained in compliance with the awning rules set forth above in subsection 8-04(b)(5); and (d)  the security gate shall be composed entirely of open mesh or shall have a solid metal panel at the base that does not exceed the height of the bulkhead it covers.
+
+   (7) Lighting.
+
+      (i) The installation of lighting conduits and fixtures shall not obscure or damage any significant architectural feature.
+
+      (ii) Lighting conduits shall be internal or not visible.
+
+      (iii) External light fixtures shall illuminate only the storefront and/or ground story signs.
+
+      (iv) The number and size of light fixtures shall be in keeping with the scale of the storefront.
+
+      (v) The design of light fixtures shall be utilitarian or shall complement the architectural style and detail of the building.
+
+      (vi) Fluorescent and high intensity light shall be permitted only if the source of light is concealed and shielded.
+
+      (vii) Recessed light fixtures shall be mounted within the soffits of recessed storefront entrances.
+
+      (viii) No separate light fixture shall illuminate any sign with internal illumination.
+
+   (8) Air conditioners/louvers. Temporary, seasonal air conditioning units shall be installed in transoms over doors. Louvers for built-in air conditioning, heating or ventilation units may be installed at the door or window transoms. Louvers shall be mounted flush with the plane of the transom, and painted to match the color of the surrounding storefront elements.
+
+
+
+
+
+
+*§ 8-05 Procedure.* ::
+
+
+(a)  Submission of application. The rules for making an application are set forth in Chapter 2, Subchapter A ("Application Procedure") of these Rules. The illustrations included in Appendix B provide hypothetical examples of the types of storefronts and storefront installations which are permitted under these rules.
+
+(b) Review of application.
+
+   (1) When the application is complete, a staff member will review the application for conformance with the criteria set forth in this Chapter 8. Upon determination that the criteria of the guidelines have been met, a permit will be issued within 20 business days for a PMW or 30 business days for a CNE, as measured from the day the staff determines that the application is complete.
+
+   (2) If the criteria have not been met, the applicant will be given a notice of the proposed denial of the application and an opportunity to meet with the Director of the Preservation Department, or, when the Director is not available, with a Deputy Director, to discuss the interpretation of these rules. The applicant must request such a meeting in writing within 10 business days from the date of the notice of proposed denial.
+
+   (3) If an application for work is denied a PMW or CNE under these Rules, the applicant shall be informed of his or her right to file for a CofA pursuant to Title 25, Chapter 3 of the Administrative Code of New York City.
+
+(c) Illustrations. Drawings are the most effective way to illustrate the proposed work in a clear and precise fashion. The drawings contained in Appendix B of this Chapter 8 are examples of the types of drawings an applicant will be required to submit to the LPC as components of a complete application. As examples, these drawings have been simplified to generalize and illustrate many of the definitions and the requirements enunciated in the rules above. Submissions to the Commission must be specifically tailored to individual proposals. Drawings must be made to scale, and include all pertinent dimensions. Applications also may be supplemented, as necessary, with photographs of existing conditions, construction details, materials samples, specifications, and maps, to best explain the proposed work.
+
+  
+
+
+
+
+Chapter 9: Alterations To Designated Bank Interiors
 --------------------------------------------------
 
 
 
-*§ 7-01 [Concession Subject to ULURP and Council Review.]* ::
+*§ 9-01 Introduction.* ::
 
 
-A concession shall be considered a major concession and therefore subject to §§ 197-c and 197-d of the Charter only if:
+(a)  These rules are issued to assist building owners in applying to the Landmarks Preservation Commission (LPC) for approval of applications to undertake repair, rehabilitation, replacement of, or alterations to interior architectural features within designated bank interiors. The rules set forth Commission policy with respect to such repair, rehabilitation, replacement, or alteration and explain the procedures required to apply for a permit. The goal of these rules is to facilitate and encourage the continued historic use of these interiors as banking floors and to facilitate the adaptive reuse of the interior if it ceases to be used as a banking floor.
 
-(a) it has been determined pursuant to City Environmental Quality Review to require an Environmental Impact Statement, or
+(b) These rules are based on the following principles:
 
-(b) except as provided in § 7-03, the concession will cause one or more of the thresholds set forth in § 7-02 to be exceeded.
+   (1) The significant original visual qualities or character of a designated interior should not be destroyed. The removal or alteration of any significant architectural feature should be avoided whenever possible.
 
+   (2) Significant but deteriorated architectural features should be repaired rather than replaced whenever possible.
 
+   (3) Certain interior alterations can be approved at staff level in conformance with the procedures set forth in these rules. Other interior alterations require review by the full Commission in accordance with its usual review procedures.
 
+(c) These rules are keyed to underlined portions of the Description section of the Designation Reports for these interior landmarks, which identify significant architectural features requiring protection.
 
-
-
-*§ 7-02 [Major Concession Defined; Specific Uses, Thresholds e.g. Marinas, Spectator Sport Use, Parks.]* ::
-
-
-A concession shall be considered a major concession if it will cause one or more of the thresholds given for the specific uses listed below to be exceeded:
-
-(a) marinas with over 200 slips;
-
-(b) a permanent performance or spectator sport use with over 2,500 seats;
-
-(c) for parklands in or adjacent to Community Districts subject to the comprehensive off-street parking regulations, contained in Article I, Chapter 3 of the Zoning Resolution of the City of New York, accessory parking lots with over 150 spaces and, for all other areas, accessory parking lots with over 250 parking spaces on parklands;
-
-(d) a use for which a new building of over 20,000 square feet of gross floor area will be constructed when such building will be located on property other than parkland;
-
-(e) a use for which a new building of more than 15,000 square feet of gross floor area will be constructed when such building will be located on parkland;
-
-(f) an open use which occupies more than 42,000 square feet of open space other than parkland;
-
-(g) an open use which occupies over 30,000 square feet of a separate parcel of parkland;
-
-(h) a use which in total occupies more than 2,500 square feet of floor area or open space and more than 15 percent of the total square footage of a separate parcel of land that is improved for park purposes, including passive and active recreational use, or that was improved for such purposes at any time during the preceding year; or
-
-(i) a concession comprised of two or more components, no one of which exceeds thresholds set forth in paragraphs (a) through (h) above, where at least two of such elements each exceed 85 percent of any applicable threshold set forth in such paragraphs.
+(d) Applicants are encouraged to submit applications for Master Plans which will govern the approval of routine and continuing alterations such as installation of mechanical and electrical equipment.
 
 
 
 
 
 
-*§ 7-03 [Concessions That are not Major Concessions.]* ::
+*§ 9-02 Definitions.* ::
 
 
-Notwithstanding any other provision of these rules the following shall not be considered major concessions unless an EIS is required:
+As used in these Rules, the following terms shall have the following meanings:
 
-(a) A concession for any use which will be operated for 30 days or less;
+Banking interior. The term "banking interior" shall mean the area of the designated interior historically used for banking operations and any associated interior spaces including, without limitation, entrance vestibules or mezzanines identified in the designation report as part of the designated interior.
 
-(b) A concession which is or directly furthers an active recreational use and would be available to the general public on a non-discriminatory basis, with or without a fee, including but not limited to the following:
+Commission. The term "commission" shall mean the eleven Commissioners, including the Chairman, as established by § 3020 of the New York City Charter.
 
-   (1) a seasonal covering of recreational facilities,
+Interior architectural features. The term "interior architectural features" shall have the meaning established in § 25-302 of the Administrative Code of the City of New York.
 
-   (2) a carousel, or
+Landmarks Law. The term "landmarks law" shall refer to § 3020 of the New York City Charter and Chapter 3 of Title 25 of the Administrative Code of the City of New York.
 
-   (3) a use intended for active participation sports including playing fields or sports courts (e.g., tennis, volleyball, handball, softball), skating rinks, playgrounds, and practice facilities (e.g., batting cages, golf driving ranges, miniature golf); provided that the area occupied by such recreational use does not exceed both 15 acres and 50 percent of a separate parcel of land;
+LPC. The term "LPC" shall mean the Landmarks Preservation Commission acting in its agency capacity to implement the Landmarks Law.
 
-(c) Reuse of former amusement park lands for amusement or recreational purposes;
+Non-significant features. The term "non-significant features" shall mean the interior architectural features of the designated interior that the LPC has determined do not contribute to the special historic, cultural, and/or aesthetic character for which the interior was designated. These features comprise all of the interior architectural features of the interior with the exception of those features that are underscored in the designation report.
 
-(d) Any renewal, reissuance, extension, amendment of an existing concession or issuance of a new concession which continues a currently existing use or which permits a use which existed lawfully on the property at any point in the preceding two years, whether operated by a private or public entity, provided that any extension or amendment or the cumulative effect of any amendments or extensions made over any five year period does not include modifications which when added to the existing concession, cause any threshold of § 7-02 to be exceeded and increase the size of an existing concession by ten percent or more;
+Significant features. The term "significant features" shall mean the interior architectural features of the designated interior that the LPC has determined contribute to the special historic, cultural, and/or aesthetic character for which the interior was designated, and therefore require protection under these rules. These features are identified in the designation reports and indicated by underscoring.
 
-(e) A concession for which authorization to use a different procedure was granted or obtained, or which is operated under an agreement executed, prior to the effective date of this major concession rule;
+Reversible alteration. The term "reversible alteration" shall mean an alteration in which the altered feature can be readily returned to its appearance prior to the alter- ation.
 
-(f) A concession for lines, cables, conduits or underground pipes not used for the transport of people;
-
-(g) A concession on wharf property or waterfront property primarily for purposes of "waterfront commerce" or in "furtherance of navigation" as such terms are defined in the New York City Charter;
-
-(h) A concession on wharf property for purposes other than "waterfront commerce" or in "furtherance of navigation" which is granted pursuant to § 1301.2(h) of the City Charter; or
-
-(i) A concession for an open air market which operates two (2) or fewer days per week, or, if a green market, three (3) or fewer days per week.
+State-of-the-art banking change. The term "state-of-the-art banking change" shall mean a physical alteration to the bank interior that the applicant has determined to be necessary to accommodate changes in technology and/or banking practice. When submitting an application to make such an alteration, the applicant must enclose a verified statement executed by the manager of the bank stating that the bank's ability to perform its banking functions would be impaired if it were unable to make such an alteration. Terms not otherwise defined in these rules shall have the meanings given them in the Landmarks Law.
 
 
 
 
-Chapter 8: Rules For the Processing of Applications For Permitted Parking Pursuant To Section 93-82 of the Zoning Resolution
+
+
+*§ 9-03 Eligible Interiors &amp; Significant Features.* ::
+
+
+(a)  The following interior landmarks are subject to these rules:
+
+   (1) Former Emigrant Industrial Savings Bank, 51 Chambers Street, Manhattan
+
+   (2) Former New York Bank for Savings, 81 Eighth Avenue, Manhattan
+
+   (3) Former Greenwich Savings Bank, 1352-1362 Broadway, Manhattan
+
+   (4) Former Central Savings Bank, 2100-2114 Broadway, Manhattan
+
+   (5) Former Dollar Savings Bank, 2516-2530 Grand Concourse, Bronx
+
+   (6) Dime Savings Bank, 9 DeKalb Avenue, Brooklyn
+
+   (7) Former Bowery Savings Bank, 130 Bowery, Manhattan
+
+   (8) Former Bowery Savings Bank, 110 East 42nd Street, Manhattan
+
+   (9) Williamsburgh Savings Bank, 1 Hanson Place, Brooklyn
+
+   (10) Williamsburgh Savings Bank, 175 Broadway, Brooklyn
+
+   (11) Brooklyn Trust Company, 177 Montague Street, Brooklyn In addition, any interior landmark or portion thereof which the Commission designates subsequent to the enactment of these rules and which is described as a banking interior in the designation report shall be subject to these rules.
+
+
+
+
+
+
+*§ 9-04 Changes to Non-significant Features.* ::
+
+
+(a)  The LPC staff will issue a Certificate of No Effect on Protected Architectural Features (CNE) or a Permit for Minor Work (PMW) (if the work does not require a permit from the Department of Buildings) within five working days of receipt of a completed application for any proposed work to a non-significant feature if the following conditions are met:
+
+   (1) The visible volume and configuration of the banking interior is maintained; and
+
+   (2) The staff determines that the alteration will not adversely affect any significant architectural feature and will not detract from the overall visual character of the banking interior.
+
+
+
+
+
+
+*§ 9-05 State-of-the-Art Banking Changes.* ::
+
+
+(a)  The LPC staff will issue a CNE or PMW within fifteen working days of receipt of a completed application for a state-of-the-art banking change, if all of the following conditions are met:
+
+   (1) the visible volume and configuration of the banking interior is maintained; and
+
+   (2) the proposed alteration is the least intrusive means available to achieve a state-of-the-art banking change, such as the installation of ATMs or security devices; and
+
+   (3) that (i) the proposed alteration will have no effect on the physical fabric of the significant features or (ii) such effect is reversible, and that the applicant will ensure that the physical fabric of the significant feature will be replaced or restored after the proposed alteration is no longer required to achieve a state-of-the-art banking change.
+
+(b) Any proposed alteration that includes the partial or complete removal or relocation of the teller counter or the removal of a significant portion of its fittings or fixtures requires a Certificate of Appropriateness (CofA) from the Commission in accordance with the procedures and criteria set forth in the Landmarks Law if the teller counter and/or such fittings or fixtures is a significant feature.
+
+
+
+
+
+
+*§ 9-06 Applications for Partial or Complete Removal of Teller Counters.* ::
+
+
+(a)  Any CofA application that includes the partial or complete removal of the teller counter or the complete or partial removal of the teller counter and its associated fixtures may include a written statement setting forth the reasons why such removal is appropriate.
+
+(b) In its consideration of the appropriateness of the proposed removal the Commission may consider, among other things, whether the partial or complete removal of the teller counter or its fittings or fixtures would damage any other significant architectural feature and the extent to which the proposed alterations would restore the affected portions of the banking floor and/or exposed counter-end to an appropriate condition. In addition, the Commission, in its discretion, may, if the applicant is not a public or quasi-public agency, require the applicant to establish an escrow account or other adequate assurance to provide for the disassembly, removal, secure storage, and replacement of the teller counter and/or its fittings and fixtures for such time and under such conditions as the Commission shall determine and describe in the CofA.
+
+
+
+
+
+
+*§ 9-07 Application Procedures.* ::
+
+
+(a)  Submission of Application. See Chapter 2, Subchapter A ("Application Procedure") of these Rules.
+
+(b) Review Procedure.
+
+   (1) When the application is complete, staff will review the application for conformance with these rules. Upon determination that the criteria of the rules have been met, a PMW or CNE will be issued.
+
+   (2) If the criteria set forth in these rules for a CNE or PMW have not been met, the applicant will be given a notice of the proposed denial of the application pursuant to these rules and an opportunity to meet with the Director of the Preservation Department, or, in the absence of the Director, with a Deputy Director, to discuss the interpretation of these rules. After this meeting has taken place, if the applicant would like to discuss the matter further, he or she will be given an opportunity to meet with the Chairman for additional discussion of the application.
+
+   (3) Applications for work which does not qualify for the issuance of a CNE or PMW in accordance with these rules shall be subject to the LPC's usual review procedure as set forth in the Landmarks Law.
+
+
+
+
+Chapter 10: Notification To Lessees of Landmarks Designation and Permit Requirements
 --------------------------------------------------
 
 
 
-*§ 8-01 Purpose.* ::
+*§ 10-01 Introduction.* ::
 
 
-These rules of procedure are established for the review of applications for certification to allow permitted parking pursuant to Section 93-82 of the Zoning Resolution (ZR).
-
-
-
-
-
-
-
-
-*§ 8-02 Pre-Filing Process.* ::
-
-
-(a) Pre-Filing Review.
-
-   (i) The applicant shall submit for review a draft application which shall include zoning calculations for the site from which the number of permitted spaces for the site may be ascertained. Such draft applications shall be submitted to the Department of City Planning, Director of the Department's Manhattan Office (hereinafter, "Director"). Upon receipt, the Director shall record the date and time of receipt. All applications shall be reviewed for completeness in order of receipt
-
-   (ii) The Department, acting by and through the Director, shall review each application for accuracy and completeness in order of receipt. The Director shall notify the applicant whether or not the application is complete and may be filed in accordance with the provisions of 62 RCNY § 8-03, or whether the application is inaccurate or incomplete and requires revision. Such notification may be transmitted to the applicant's representative, together with a specification of the portions of the application which are inaccurate or incomplete and require revision, if applicable.
-
-   (iii) The Director shall record the date and time of receipt of any revised draft application submitted in response to a notification provided under subparagraph (ii). A revised draft application shall be reviewed for completeness in order of receipt and the applicant's representative shall be notified of the Director's determination, pursuant to the procedure set forth subparagraph (ii) of this Section.
+These rules are issued to assist the owners and other persons in charge of improvements or property that is a landmark, interior landmark or located on a landmark site or in a historic district in complying with the nonresidential tenant notification requirements set forth in § 25-322 of the Administrative Code of the City of New York.
 
 
 
 
 
 
+*§ 10-02 Notice to Tenant of Landmarks Designation.* ::
 
 
-*§ 8-03 Filing of Applications.* ::
-
-
-(a) Filing. Following notification pursuant to 62 RCNY § 8-02(a)(ii) that a draft application is complete, the applicant shall file the application pursuant to 62 RCNY § 10-09 with the Department of City Planning. Applications which have not been reviewed and determined to be complete pursuant to 62 RCNY § 8-02 shall not be accepted for filing. The Department may not consider the application as filed unless it includes all required components and shall not consider the application as filed unless the required fee has been paid concurrently with the submission of the application. Applications accepted for filing in accordance herewith shall be stamped by the Department with the date and time of filing.
-
+The language set forth below shall satisfy the notification requirements set forth in § 25-322 of the Landmarks Law. "The tenant [;lessee]; is hereby notified that the leased premises are subject to the jurisdiction of the Landmarks Preservation Commission. In accordance with §§ 25-305, 25-306, 25-309 and 25-310 of the Administrative Code of the City of New York and the rules set forth in Title 63 of the Rules of the City of New York, any demolition, construction, reconstruction, alteration or minor work as described in such sections and such rules may not be commenced within or at the leased premises without the prior written approval of the Landmarks Preservation Commission. Tenant is notified that such demolition, construction, reconstruction, alterations or minor work includes, but is not limited to, (a) work to the exterior of the leased premises involving windows, signs, awnings, flagpoles, banners and storefront alterations and (b) interior work to the leased premises that (i) requires a permit from the Department of Buildings or (ii) changes, destroys or affects an interior architectural feature of an interior landmark or an exterior architectural feature of an improvement that is a landmark or located on a landmark site or in a historic district."
 
 
 
 
 
 
+*§ 10-03 Notification.* ::
 
-*§ 8-04 Certification for Permitted Parking Spaces.* ::
 
+(a)  Lease Notification: Any nonresidential lease or sublease (including any renewal thereof) executed after December 13, 1996 for property or an improvement that is a landmark, interior landmark or located on a landmark site or in a historic district shall include the notice set forth in § 10-02 above. Such notification shall be highlighted in bold or underscored or otherwise highlighted so that it is conspicuously set forth.
 
-(a) Filing Date. Review of applications for certification for permitted parking spaces shall be made, in accordance with the provisions of ZR Section 93-82, in the order of application filing date and time, except as provided in paragraph (b) hereof. If, pursuant to ZR Section 93-82, fewer permitted parking spaces are available than the number of spaces requested in an application, the Chairperson shall only grant a certification for the number of spaces as are available at the time, and shall issue subsequent certifications for such application at such time as additional spaces become available in accordance with ZR Section 93-82. Except as provided in paragraph (b) below, certification of parking spaces shall not be made with respect to an application with a later filing date and time until the entire number of parking spaces requested in an application with an earlier filing date and time has been certified.
-
-(b) Applicant Reduces Existing Spaces On Site. Notwithstanding the provisions of paragraph (a), if an applicant intends to eliminate existing parking spaces at the site that is the subject of the application, a certification for permitted parking spaces may be granted to the extent that elimination of existing parking spaces allows such determination to be made pursuant to ZR Section 93-821 (e)(1) and (2), provided: (i) that such existing parking spaces shall be eliminated prior to issuance of the certification. The elimination of such existing parking spaces shall be evidenced by: (aa) an acknowledgement from the New York City Department of Consumer Affairs that license(s) issued by such agency for the operation of public parking at the site have been surrendered or, if such license(s) are pending renewal at the time, that the licensee has stated to the New York City Department of Consumer Affairs in writing that the license(s) will not be renewed; or (bb) if the licensee is no longer in control of the premises, in the form of an affidavit from the owner or applicant attesting to the fact that the licensee is not in control of the premises and is not authorized to operate at the premises; and (ii) a restrictive declaration executed by all parties-in-interest, as such term is defined in ZR Section 12-10, providing that any resumption of use of the eliminated spaces prior to or during construction shall be prohibited, has been recorded in the office of the City Register. If the number of parking spaces requested in the application exceeds the number of permitted spaces available by reason of the elimination of existing spaces, any subsequent certifications with respect to additional spaces shall be made in accordance with the provisions of paragraph (a) above.
-
+(b) Letter Notification: If an improvement or property is designated as a landmark or an interior landmark or included as part of a landmark site or historic district during the term of a nonresidential lease or a sublease of all or a portion of such improvement or property, the lessor of such lease or sublease shall within 30 days after being notified of such designation by the Landmarks Preservation Commission or person in charge, send the written notice set forth in § 10-02 to the nonresidential lessee or sublessee. Such notice shall be highlighted in bold or underscored or otherwise highlighted so that it is conspicuously set forth. Such notice shall be sent by certified or registered mail, return receipt requested to all nonresidential lessees on the first two floors (excluding the basement or cellar) and shall be sent to all other nonresidential lessees by any means reasonably designed to ensure that notice is given.
 
 
 
-Chapter 9: Rules For the Processing of Applications For Certification To Allow A Limited Increase In Street Wall Width Pursuant To Section 132-51 of the Zoning Resolution
+
+Chapter 11: Administrative Enforcement
 --------------------------------------------------
 
 
 
-*§ 9-01 Purpose.* ::
+*§ 11-01 Definitions.* ::
 
 
-These rules of procedure are established for the review of applications for Certification to Allow a Limited Increase in Street Wall Width pursuant to Section 132-51 of the Zoning Resolution (ZR).
+The following definitions shall apply to this chapter:
 
+(a) The term "Landmarks Law" shall mean chapter 3 of title 25 of the Administrative Code of the City of New York.
 
+(b) The term "respondent" shall mean a person who is alleged to have violated the Landmarks Law by creating, authorizing, performing or maintaining work on a landmarks site, within the boundaries of a historic district or to any part of an interior landmark without, or in violation of, a permit from the Landmarks Preservation Commission ("Commission").
 
+(c) The term "stop work order" shall mean an order, issued pursuant to section 25-317.2 of the Administrative Code.
 
+(d) A violation is "corrected" by removing the illegal condition, only where such condition can be easily removed without damage to underlying building material and where such removal does not require a permit from the Commission. For example, a violation for the installation of a sign or awning without a permit may be corrected by removing the sign or awning, if such removal does not result in damage to the underlying building material. Correcting a violation does not include or otherwise permit the reinstallation of a preexisting condition or the installation of a substitute condition. For example, a violation for the installation of a sign or awning without a permit, where such installation involved the removal of a preexisting sign or awning, may not be corrected by reinstalling the prior sign or awning, or installing a different sign or awning. A violation is not corrected for purposes of section 25-317.1b(6) of the Landmarks Law if the same or a similar illegal condition is installed within 180 days of the respondent's representation to the Commission that the violation has been corrected.
 
+(e) A violation is "legalized" when the Commission issues a permit approving and authorizing the work that was done without a permit.
 
-*§ 9-02 Pre-Filing Process.* ::
+(f) A violation is "cured" where the Commission issues a permit authorizing modifications to the illegal condition to make it appropriate, or where the Commission authorizes work to replace the illegal work, and the modification or replacement work is completed and the Commission has issued a Notice of Compliance.
 
+(g) For purposes of sections 11-03, 11-04 and 11-06, the term "mail," "mailed" and "mailing" shall mean first class United States mail or express or overnight delivery to a respondent as follows:
 
-(a) The applicant must submit for review a draft application which must include material required by the Department of City Planning ("the Department") demonstrating the information and items set forth in ZR Section 132-51. Draft applications must be submitted to the specific division of the Department that is designated on the application form for receipt of an application filed pursuant to ZR Section 132-51, by submission to the division so named on the application form at the New York City Department of City Planning. Upon receipt, the Department will record the date and time of receipt.
+   (1) Where the respondent is an owner, the warning letter, notice of violation or stop work order shall be mailed to the owner's address as contained in the records of the Department of Finance for purposes of the assessment or collection of real estate taxes or as contained in the records of the Commission for purposes of the implementation or enforcement of the relevant portions of the charter or administrative code.
 
-(b) The Department will review each draft application for accuracy and completeness in order of receipt. The Department will notify the applicant in order of receipt whether the draft application is complete and may be filed in accordance with the provisions of 62 RCNY § 9-03, or whether the draft application is incomplete and requires revision. Such notification will be provided via the delivery method identified by the applicant on the application form, and will include a specification of the portions of the application that are incorrect or incomplete and require revision, if applicable.
+   (2) Where the respondent is a tenant or occupant of the premises where the violation occurred, the warning letter, notice of violation or stop work order shall be mailed to the address where the violation occurred.
 
-(c) The Department will record the date and time of receipt of any revised draft application submitted in response to a notification provided under subdivision (b) of this section. A revised draft application will be reviewed for completeness and the applicant will be notified of the Department's further determination in order of receipt of the revised draft application. Such notification of the Department's further determination will be provided pursuant to the procedure set forth in subdivision (b) of this section.
+   (3) Where the respondent is a contractor or other person who performed or was in charge of overseeing the work that was done without, or in violation of, a permit, the warning letter, notice of violation or stop work order shall be mailed to the contractor's or person's business address as generally advertised or represented to the public, unless such contractor or other person is the owner, tenant or occupant.
 
-
-
-
-
-
-
-
-*§ 9-03 Filing of Applications.* ::
-
-
-Filing. Following notification pursuant to 62 RCNY § 9-02(b) or (c) that a draft application is complete, the applicant must file the application pursuant to 62 RCNY § 10-09 with the Department of City Planning. Applications that have not been reviewed and determined to be complete pursuant to 62 RCNY § 9-02 will not be accepted for filing. The Department may not consider the application as filed unless it includes all required components and shall not consider the application as filed unless the required fee has been paid concurrently with the submission of the application. Applications accepted for filing in accordance with these rules will be stamped by the Department with the date and time of filing.
+   (4) Where the respondent is any other person in charge of a designated improvement or improvement parcel, the warning letter, notice of violation or stop work order shall be mailed to such person's business address, as generally advertised or represented to the public, or as such address is contained in the records of the Department of Finance for purposes of the assessment or collection of real estate taxes or as contained in the records of the Commission for purposes of the implementation or enforcement of the relevant portions of the charter or administrative code.
 
 
 
 
 
 
+*§ 11-02 Enforcement of Notices of Violation.* ::
 
 
-*§ 9-04 Review and Certification of Applications.* ::
-
-
-For applications for establishments within the same set of applicable geographic boundaries as set forth in ZR Section 132-51(c), review and certification of applications will be made in the order of application filing date and time. As set forth in ZR Section 132-51(c), the set of applicable geographic boundaries means the same block frontage containing the applicant's establishment, the block frontage directly across the street from the block containing such establishment, and the blocks fronting on the commercial street immediately adjacent to the north and south of the block containing the applicant's establishment.
+All first Notices of Violation ("NOV") issued after July 5, 1998 for a Type A or Type B Violation shall be heard at the Environmental Control Board ("ECB") or its successor. For Type A Violations, all second and subsequent NOVs for the same condition shall be heard at the Office of Administrative Trials and Hearings ("OATH") or its successor. For purposes of this subchapter, OATH shall be authorized to issue final, binding decisions. For Type B Violations, second and subsequent NOVs shall be heard at the ECB. Notices of violation for violating a stop work order may be heard at either ECB or OATH.
 
 
 
 
 
 
-*§ 9-05 Lapse of Certification.* ::
+*§ 11-03 Service of Notice of Violation.* ::
 
 
-(a) Effect of Lapse. If a certification granted pursuant to ZR Section 132-51 lapses in accordance with the provisions set forth in the final paragraph of that section, or if an authorization granted pursuant to ZR Section 132-52 lapses in accordance with the provisions set forth in ZR Section 11-42, the effect of such lapse is that the underlying application for such certification or authorization will not be considered an "approved application" for purposes of ZR Section 132-51(c)(2).
-
-(b) Substantial Construction. For purposes of ZR Section 132-51, the term "substantial construction" means that the entirety of the interior space associated with the extension pursuant to the certification has been combined, has been made a part of the operations of the enlarged establishment, and remains open to customers from any and all doorways located along the approved retail frontage, except that entrances serving portions of the establishment reserved for employees only do not need to be open to customers.
-
+In addition to the service requirements of the court or tribunal at which a NOV is to be heard, a NOV may be served by mailing such notice of violation to a respondent.
 
 
 
-Chapter 10: Pre-application Process: Submission and Meeting Participation Requirements Prior To Filing A Land Use Application Or Application For Environmental Review
+
+
+
+*§ 11-04 Warning Letter.* ::
+
+
+Subject to the exceptions set forth in section 25-317.1b(1) of the Administrative Code, the LPC shall mail a warning letter to a respondent prior to the issuance of a NOV. The warning letter shall inform the respondent that the LPC believes a violation of the Landmarks Law has occurred at the subject premises and shall also: (1) describe the violation in general detail; (2) warn the respondent that the law authorizes civil and criminal penalties for violations; (3) notify the respondent that a NOV may be served unless, within 20 working days of the date of the warning letter, the violation is corrected or an application to legalize or cure the violation is received by the Commission.
+
+
+
+
+
+
+*§ 11-05 Notice of Violation; Grace Period.* ::
+
+
+(a)  A respondent shall qualify for the grace period set forth in section 25-317.1b(6) of the Administrative Code by delivering, at least 14 days prior to the hearing date set forth in the NOV, the following to the Commission:
+
+   (1) Admission of liability, and
+
+   (2) proof, satisfactory to the Commission, that the violation has been corrected, or
+
+   (3) an application to legalize or cure the violation.
+
+(b) For purposes of subsection (2), "proof" shall mean the submission of an affidavit or other sworn statement describing the violation and the work performed to correct the violation. The affidavit or sworn statement shall be supplemented by photographs and any other supporting material that demonstrates that the illegal condition has been corrected. The Commission may reject the proof submitted if it does not unequivocally demonstrate that the illegal condition has been corrected.
+
+
+
+
+
+
+*§ 11-06 Stop Work Order.* ::
+
+
+Service. A stop work order may be served: (1) by mailing the stop work order to the respondent; (2) by affixing the stop work order to the place where the violation is occurring. Where the stop work order is affixed, a copy of the order shall also be mailed to the respondent; (3) or orally. Where the stop work order is given orally, the Commission shall within 48 hours thereof mail a copy of the stop work order to the respondent.
+
+
+
+
+Chapter 12: Historic District Master Plans
 --------------------------------------------------
 
 
 
-*§ 10-01 Purpose.* ::
+*§ 12-01 District Master Plans and Authorizations to Proceed.* ::
 
 
-These rules establish submission and meeting participation requirements ("Pre-Application Process") prior to the filing of land use applications pursuant to the Zoning Resolution and Sections 197-a, 197-c, 197-d, 199, 200, and 201 of the New York City Charter or of applications for environmental review pursuant to 62 RCNY Ch. 5 . The purpose of these rules is to:
+(a)  Introduction. The Commission may develop master plans for the historic district, specific types of buildings within a historic district, distinctive areas within the historic district or for landmark sites containing multiple buildings. A district master plan may address common design issues such as storefront design, signage, sidewalk and areaway alterations as well as set forth specific alterations for individual buildings in an historic district or on a landmark site in a comprehensive manner that respects the significant architectural features and particular history of the historic district with allowances for specific building conditions. A district master plan may serve as a research tool or design guide for owners or tenants who wish to make alterations to their buildings. Upon the adoption of implementation rules as set forth in this rule, Commission staff can also issue authorizations to proceed for certain types of alterations or work set forth in the district master plan. A District Master Plan does not preclude the Commission's consideration and approval of applications for proposed work that is not in compliance with the District Master Plan.
 
-(a) assist potential applicants or their designated representatives ("Applicants") and the Department of City Planning ("Department") in identifying the land use and environmental issues related to a proposed project and the land use applications and applications for environmental review necessary to facilitate the proposed project; and
+(b) District Master Plans. Upon its own motion, the Commission may consider a master plan for alterations in a specific historic district, an individual landmark site containing multiple buildings or with respect to certain types of buildings or types of work in a specific historic district ("District Master Plan"). A District Master Plan may be approved by a Certificate of Appropriateness, a Certificate of No Effect on Protected Architectural Features, or a Permit for Minor Work, depending on the work covered by the plan.
 
-(b) help the Department better allocate resources to assist Applicants in preparing land use applications and applications for environmental review, and to assist the City Planning Commission in considering these applications.
+(c) Calendaring. A District Master Plan will not be scheduled for the Commission's consideration unless the Commission, in its discretion and upon the adoption of a motion, votes to calendar the District Master Plan for a public hearing. A motion to calendar a proposed District Master Plan for further consideration must be approved by the majority of Commissioners present in order to be adopted. The date of the public hearing on the proposed District Master Plan may be set by the motion to calendar or may be set at some later time by the Chairman, acting at his or her discretion.
 
+(d) Public Hearing. If the Commission votes to calendar a District Master Plan for further consideration, a public hearing will be held in accordance with § 25-308 of the Administrative Code of New York City and the provisions of Chapter One of these Rules.
 
+(e) Approval and Implementation. Following the public hearing, the Commission may vote to approve, approve with modifications, or disapprove the District Master Plan. If the District Master Plan is approved or approved with modifications, the District Master Plan may be implemented by the enactment of Rules in accordance with the City Administrative Procedure Act that specifically reference the District Master Plan ("Implementation Rules"). The Implementation Rules shall establish the scope and applicability of the District Master Plan and shall set forth the application procedures and the criteria for issuance of Authorizations to Proceed ("ATP's", see subsection 12-01(f) below) pursuant to the District Master Plan. Any work permitted under the Implementation Rules pursuant to an ATP must be described with reasonable specificity as to design and materials in the District Master Plan. The public hearing for the proposed District Master Plan may be held concurrently with the public hearing for the Implementation Rules. However, the Commission must vote to approve the District Master Plan before it votes to approve the Implementation Rules and the District Master Plan shall have no force and effect until the Implementation Rules are adopted in accordance with the City Administrative Procedure Act.
 
+(f) Authorizations to Proceed. All applications for work pursuant to the District Master Plan must be signed by the building owner in accordance with § 2-01 of these Rules and must state that the application is being filed pursuant to the District Master Plan. Each application shall include drawings, specifications and other materials which describe the proposed work in detail. Commission staff will review the application to ascertain whether the proposed work is in accordance with the District Master Plan and the Implementation Rules. If Commission staff determines that the work is in compliance with the District Master Plan and the Implementation Rules, the staff will send the applicant an "Authorization to Proceed" letter ("ATP") allowing the work to commence. The ATP must be obtained prior to the commencement of work and posted on the building while work is in progress. Each ATP shall be valid for four (4) years from the date of such ATP and may be renewed upon application provided that Commission staff determines that the work authorized under the original ATP remains in compliance with the District Master Plan and the Implementation Rules in effect on the date of such renewal. Issuance or renewal of a District Master Plan ATP is contingent upon the work's adherence to the District Master Plan and the materials and plans submitted and approved by Commission staff in connection with the ATP.
 
+(g) Amendment and Rescission. Upon its own motion, the Commission may amend or rescind a District Master Plan at any time, provided the Commission first holds a public hearing on the proposed amendment or rescission. In its discretion, the Commission shall calendar a public hearing with respect to such proposed amendment or rescission in accordance with the provisions of § 12-01(b) of these Rules. Any Commission action to amend or rescind a District Master Plan shall be in accordance with the provisions of § 1-04 of these Rules.
 
 
-*§ 10-02 Applicability.* ::
 
 
-(a) An Applicant must follow the applicable requirements of this chapter prior to filing any land use application or application for environmental review.
 
-(b) Exception. Notwithstanding subdivision (a) of this section, an Applicant may be exempt from the requirements of this chapter to the extent provided under the following circumstances:
 
-   (1) where an Applicant has submitted a Pre-Application Statement ("PAS") to the Department prior to the effective date of these rules, the requirements of 62 RCNY § 10-03 shall not apply;
+*§ 12-02 Stone Street Historic District Master Plan Implementation Rules.* ::
 
-   (2) where an Applicant has submitted a PAS to the Department and attended an Interdivisional Meeting ("ID Meeting") prior to the effective date of these rules, the requirements of 62 RCNY § 10-03 and 62 RCNY § 10-04 shall not apply;
 
-   (3) where an Applicant has submitted a Reasonable Worst Case Development Scenario Memorandum ("RWCDS Memorandum") and a draft land use application to the Department prior to the effective date of these rules, the requirements of 62 RCNY § 10-03, 62 RCNY § 10-04, and 62 RCNY § 10-05 shall not apply; and
+(a)  Introduction. The Stone Street Historic District is a low-scale cluster of early nineteenth-century commercial structures, complemented by several picturesque early twentieth-century buildings designed by prominent architects. The Stone Street Historic District is a distinct enclave amidst the surrounding twentieth-century skyscrapers and is sited on narrow winding streets originally laid out by Dutch Colonists. The Stone Street Historic District Master Plan Implementation Rules ("Rules") are promulgated to assist building owners who own buildings located within the Stone Street Historic District in applying to the Landmarks Preservation Commission ("LPC") for approval of applications to undertake repair, rehabilitation, replacement, or alterations to storefronts (including but not limited to storefront infill, lighting, signage, security gates) and cellar entrances, and to make such buildings accessible to persons with disabilities, that are in accordance with the Stone Street Master Plan approved by the Commission. The Stone Street Master Plan is a master plan governing work to storefronts and cellar entrances, as well as alterations to make buildings within the historic district accessible to persons with disabilities. The Stone Street Master Plan will be the subject of a Certificate of Appropriateness determination at the same public hearing as these Rules. The Rules set forth herein will permit the LPC staff to issue Authorization to Proceed letters ("ATP") for work that complies with the approved Stone Street Master Plan. The goal of these Rules is to encourage appropriate repair, rehabilitation, replacement and alterations in the Stone Street Historic District by expediting the process of obtaining permits to perform such work. Work that is not in accordance with the Stone Street Master Plan will be reviewed by the Commission in accordance with its usual review procedures as set forth in the Landmarks Law.
 
-   (4) where an Applicant has submitted a draft City Environmental Quality Review Environmental Assessment Statement short/full form ("draft CEQR short/full form") and a draft land use application to the Department prior to the effective date of these rules, the requirements of 62 RCNY § 10-03, 62 RCNY § 10-04, 62 RCNY § 10-05, and 62 RCNY § 10-06 shall not apply.
+(b) Definitions. As used in these Rules, the following terms shall have the following meanings:
 
+Authorization to Proceed and ATP. "Authorization to Proceed" and "ATP" shall mean an authorization to proceed as described in § 12-01(f) of these Rules.
 
+Commission. "Commission" shall mean the eleven Commissioners, including the Chairman, as established by § 3020 of the New York City Charter.
 
+District Master Plan. "District Master Plan" shall have the meaning set forth in § 12-01 of these Rules.
 
+Landmarks Law. "Landmarks Law" shall refer to § 3020 of the New York City Charter and Chapter 3 of Title 25 of the Administrative Code of the City of New York.
 
+LPC. "LPC" shall mean the Landmarks Preservation Commission acting in its agency capacity to implement the Landmarks Law.
 
-*§ 10-03 Informational Meeting.* ::
+Stone Street Master Plan. "Stone Street Master Plan" shall mean the District Master Plan for the Stone Street Historic District and approved by the Commission as a Certificate of Appropriateness. Copies of the Stone Street Master Plan may be obtained by contacting the Commission's Public Information Specialist at (212) 487-6782 or by writing to the same at 100 Old Slip, New York, New York 10005. Terms not otherwise defined in these rules shall have the meanings given them in the Landmarks Law.
 
+(c) Eligible buildings. The buildings located within the Stone Street Historic District are subject to these Rules.
 
-(a) Before filing a land use application or application for environmental review, an Applicant must contact the Department Borough Office in the borough where a proposed project is to be located in order to schedule an Informational Meeting with the Department.
+(d) Permitted alterations pursuant to the Stone Street Master Plan. The LPC staff shall issue an ATP for work on eligible buildings within the Stone Street Historic District if the staff determines that: (1) the proposed work meets the criteria set forth in the Stone Street Master Plan; and (2) the staff determines that the proposed work will not adversely affect any significant exterior architectural feature of the eligible building or the Stone Street Historic District.
 
-(b) Within forty-five (45) days of an Applicant contacting a Borough Office to schedule an Informational Meeting, the Department must hold an Informational Meeting subject to the Applicant's availability. If the Applicant is not available within this period, the Department must hold the Informational Meeting as soon as practicable at a time at which both the Department and the Applicant are available.
+(e) Application procedures.
 
-   (1) An Informational Meeting may be held in person, by telephone, or by other electronic means, including video teleconference, as the Department deems appropriate.
+   (1) Submission of Application. See Chapter 2, Subchapter A ("Application Procedure") and Chapter 12 of these Rules.
 
-   (2) An Applicant must submit to the Department before or at an Informational Meeting any materials identified by the Department before the meeting that are necessary to conduct the meeting. Such materials may include, but are not limited to, official zoning sectional maps, official tax maps, color aerial photos, land use maps, color site and area photographs, or site topographical surveys.
+   (2) Application Materials. The applicant must submit adequate materials that clearly set forth the scope and details of the proposed work. At a minimum, the applicant must submit detailed drawings that specifically show the proposed work and all other materials required by the LPC staff. Drawings must be made to scale, and include all pertinent dimensions. LPC staff may require applicants to submit other materials, including but not limited to photographs of existing conditions, construction details, material samples, specifications, or maps as necessary to clearly explain the proposed work. LPC staff may also require probes or other investigations to determine the existing conditions and critical dimensions peculiar to each eligible building.
 
-   (3) An Applicant must participate in an Informational Meeting and present to the Department basic information about the proposed project and surrounding area. The Department may share with the Applicant information about zoning, the neighborhood, City policies potentially affecting the proposed project, and the relevant land use and environmental application review and public review processes.
+(f) Review Procedure.
 
-(c) At or after an Informational Meeting, an Applicant proceeding with filing a land use application or application for environmental review must request from the Department a Project ID number, which will be used by the Department to track proposed projects during the Pre-Application Process.
+   (1) The application will be deemed complete when the LPC staff determines that adequate materials have been submitted that clearly set forth the scope and details of the proposed work.
 
-(d) Within thirty (30) days of an Applicant's request for a Project ID number:
+   (2) When the application is complete, LPC staff will review the application for conformity with these Rules. Upon determination that the criteria of the Rules have been met, an ATP will be issued pursuant to § 12-01(f). A determination that an ATP should be issued shall mean that the proposed work satisfies the criteria set forth in the Stone Street Master Plan and that the work is appropriate to or will have no effect on protected architectural features of the specific eligible building in question and is otherwise appropriate to the Stone Street Historic District.
 
-   (1) the Department must:
+   (3) If the criteria set forth in these rules for an ATP have not been met, the LPC staff shall provide the applicant with a notice of the proposed denial of the application. The applicant may request a meeting with the Director of the Preservation Department, or, in the absence of the Director, with a Deputy Director, to discuss the interpretation of these Rules.
 
-      (i) issue a Project ID number to the Applicant for the proposed project; or
+   (4) Applications for work that do not qualify for the issuance of an ATP in accordance with these Rules shall be subject to the LPC's usual review procedure as set forth in the Landmarks Law.
 
-      (ii) notify the Applicant that the Department requires additional information or an additional Informational Meeting in order to adequately understand the basic information about the proposed project and surrounding area. Where an additional Informational Meeting is required, the Department must hold such meeting within thirty (30) days of notifying the Applicant, subject to the Applicant's availability. If the Applicant is not available within this period, the Department must hold the Informational Meeting as soon as practicable at a time at which both the Department and the Applicant are available. Within thirty (30) days of receiving such additional information or holding an additional Informational Meeting, the Department must issue the Project ID number to the Applicant for the proposed project, or request additional information or Informational Meetings in accordance with the procedures set forth in this paragraph until such time that the Department has received sufficient information to adequately understand the basic information about the proposed project and surrounding area and issues a Project ID number.
 
-   (2) Upon issuing a Project ID number, the Department must also notify an Applicant that:
 
-      (i) the Applicant is subject to the procedures set forth in 62 RCNY § 10-04; or
 
-      (ii) the Applicant is not subject to the procedures set forth in 62 RCNY § 10-04, 62 RCNY § 10-05, 62 RCNY § 10-06, and 62 RCNY § 10-08, if the Department determines that the proposed project does not require more than one division to review the land use application material or coordination among the divisions to ensure that consistent and non-conflicting feedback is provided to Applicants, and that the project is classified as Type II pursuant to the regulations promulgated under the New York State Environmental Quality Review Act ("SEQR"). When providing notification pursuant to this paragraph, the Department must also notify the Applicant whether the Applicant is subject to the procedures set forth in 62 RCNY § 10-07 or may directly proceed to file a land use application pursuant to 62 RCNY § 10-09.
 
-(e) If the Department fails to hold a meeting pursuant to subdivision (b) of this section or fails to notify an Applicant pursuant to subdivision (d) of this section, the Applicant may proceed to submit a Pre-Application Statement without a Project ID number pursuant to the provisions set forth in 62 RCNY § 10-04.
 
+*§ 12-03 Implementation Rules for the District Master Plan for Storefronts on Madison Avenue in the Upper East Side Historic District.* ::
 
 
+(a)  Introduction. The implementation rules ("Rules") for the District Master Plan for Storefronts on Madison Avenue in the Upper East Side Historic District ("District Master Plan") are promulgated to assist building owners in applying to the Landmarks Preservation Commission ("LPC") for approval of applications to undertake repair, rehabilitation, replacement, or alterations to storefronts (including but not limited to storefront infill, lighting, signage, security gates, windows and doors) along Madison Avenue within the Upper East Side Historic District that are in accordance with the District Master Plan approved by the Commission. The rules set forth herein permit the LPC staff to issue Authorizations to Proceed letters ("ATP") for work that complies with the approved District Master Plan. Work that is not in accordance with the requirements of the District Master Plan will be reviewed by the Commission in accordance with its usual review procedures under the Landmarks Law. The objective of the District Master Plan is to provide owners, architects and store tenants with design criteria which will allow timely review of storefront alterations while protecting the architecturally and historically significant features of the buildings. The District Master Plan will cover buildings on Madison Avenue that fall within the Upper East Side Historic District. Additionally, at corner buildings the District Master Plan will cover the building facades facing both Madison Avenue and the side streets.
 
+(b) Definitions. As used in these Rules, the following terms shall have the following meanings:
 
+Authorization to Proceed and ATP. "Authorization to Proceed" and "ATP" shall mean an authorization to proceed as described in § 12-01(f) of these Rules.
 
-*§ 10-04 Pre-Application Statement.* ::
+Commission. "Commission" shall mean the eleven Commissioners, including the Chairman, as established by § 3020 of the New York City Charter.
 
+District Master Plan. "District Master Plan" shall mean the District Master Plan for Storefronts on Madison Avenue in the Upper East Side Historic District and approved by the Commission as a Certificate of Appropriateness. A copy of the District Master Plan may be reviewed at the offices of the Commission by appointment.
 
-(a) Following the issuance of a Project ID number and notification pursuant to 62 RCNY § 10-03(d) that the provisions of this section apply, an Applicant must submit a Pre-Application Statement ("PAS") to the Department. If an Applicant submits a PAS without a Project ID number pursuant to 62 RCNY § 10-03(e), the Department must issue the Project ID number to such Applicant upon receipt of the PAS. A PAS consists of the PAS form and any accompanying materials required by the form. The PAS form is available on the Department's website or in hard copy from the Department. The completed PAS must be submitted to the division or office of the Department indicated on the form.
+Landmarks Law. "Landmarks Law" shall refer to § 3020 of the New York City Charter and Chapter 3 of Title 25 of the Administrative Code of the City of New York.
 
-(b) Within twenty (20) days of receiving an Applicant's PAS, the Department must provide the Applicant with a confirmation of the receipt of the PAS, and:
+LPC. "LPC" shall mean the Landmarks Preservation Commission acting in its agency capacity to implement the Landmarks Law. Terms not otherwise defined in these rules shall have the meanings given them in the Landmarks Law.
 
-   (1) review the PAS to determine whether it has been submitted in the proper format and clearly and fully sets forth the information requested by the PAS form; and
+(c) Eligible buildings. As specifically set forth and described in the District Master Plan, these Rules shall cover buildings facing Madison Avenue and located within the Upper East Side Historic District, including the commercial portions of a building facing onto both Madison Avenue and a side street.
 
-   (2) notify the Applicant that:
+(d) Permitted alterations pursuant to the District Master Plan. The LPC staff shall issue an ATP for work on storefronts in eligible buildings along Madison Avenue if the staff determines that:
 
-      (i) the PAS is complete; or
+   (1) The proposed work meets the design criteria for storefront alterations as set forth in the District Master Plan; and
 
-      (ii) additional or revised materials must be submitted to the Department. The Applicant must furnish any such additional or revised materials where the Department has made such a request. Within thirty (30) days of receiving such additional or revised materials, the Department must review such materials and notify the Applicant that the PAS is complete or that additional or revised materials must be submitted. The Department may continue requesting such materials in accordance with the procedures set forth in this paragraph until such time that the Department determines that the PAS is complete.
+   (2) The staff determines that the proposed work would not adversely affect any significant architectural feature of the building.
 
-   (3) upon notifying the Applicant that the PAS is complete, also notify the Applicant that:
+(e) Application procedures.
 
-      (i) the Department will hold an ID Meeting pursuant to 62 RCNY § 10-05, if the proposed project requires more than one division to review the land use application or application for environmental review material, and the divisions must coordinate their respective reviews to ensure that consistent and non-conflicting feedback is provided to Applicants; or
+   (1) Submission of application. See Chapter 2, Subchapter A ("Application Procedure") and Chapter 12 of these Rules.
 
-      (ii) the Department will not hold an ID Meeting and the project is:
+   (2) Application materials. The applicant shall submit adequate materials that clearly set forth the scope and details of the proposed work. At a minimum, the applicant shall submit detailed drawings that specifically show the proposed work and all other materials required by the LPC staff. Drawings shall be made to scale, and include all pertinent dimensions. LPC staff may require applicants to submit other materials, including but not limited to photographs of existing conditions, construction details, material samples, specifications, or maps as necessary to clearly explain the proposed work. LPC staff may also require probes or other investigations to determine the existing conditions and critical dimensions peculiar to each eligible building storefront.
 
-         (A) classified as Type I or Unlisted, pursuant to SEQR, and subject to the procedures set forth in 62 RCNY § 10-06; or
+   (3) Review procedure.
 
-         (B) classified as Type II, pursuant to SEQR, such that the procedures set forth in 62 RCNY § 10-06 and 62 RCNY § 10-08 do not apply. When providing notification pursuant to this paragraph, the Department must also notify the Applicant whether the Applicant is subject to the procedures set forth in 62 RCNY § 10-07 or may directly proceed to file a land use application pursuant to 62 RCNY § 10-09.
+      (i) The application will be deemed complete when the LPC staff determines that adequate materials have been submitted that clearly set forth the scope and details of the proposed work.
 
-(c) If the Department fails to notify an Applicant pursuant to subdivision (b) of this section, the Applicant may proceed with filing a land use application as set forth in 62 RCNY § 10-09 or an application for environmental review as set forth in 62 RCNY § 10-10.
+      (ii) When the application is complete, LPC staff will review the application for conformity with these Rules. Upon determination that the criteria of the Rules have been met, an ATP will be issued pursuant to § 12-01(f). A determination that an ATP should be issued shall mean that the proposed work satisfies the criteria of the District Master Plan and that the work is appropriate to or will have no effect on protected architectural features of the specific eligible building in question and is otherwise appropriate to the Upper East Side Historic District.
 
+      (iii) If the LPC staff determines that the criteria set forth in these Rules have not been met, the LPC staff shall provide the applicant with a notice of the proposed denial of the application. The applicant may request a meeting with the Director of the Preservation Department, or, in the absence of the Director, with a Deputy Director, to discuss the determination.
 
+      (iv) Applications for work that do not qualify for the issuance of an ATP in accordance with these Rules shall be subject to the LPC's usual review procedure as set forth in the Landmarks Law.
 
 
 
 
 
 
-*§ 10-05 Interdivisional Meeting.* ::
+*§ 12-04 Implementation Rules for the District Master Plan for Storefronts on Madison Avenue in the Metropolitan Museum Historic District.* ::
 
 
-(a) Within ninety (90) days of notifying an Applicant pursuant to 62 RCNY § 10-04(b)(3)(i) that the Department will hold an ID Meeting, the Department must hold such a meeting with the Applicant subject to the Applicant's availability. If the Applicant is not available within this period, the Department must hold the ID Meeting as soon as practicable at a time at which both the Department and the Applicant are available.
+(a)  Introduction. The implementation rules ("Rules") for the District Master Plan for Storefronts on Madison Avenue in the Metropolitan Museum Historic District ("District Master Plan") are promulgated to assist building owners in applying to the Landmarks Preservation Commission ("LPC") for approval of applications to undertake repair, rehabilitation, replacement, or alterations to storefronts (including but not limited to storefront infill, lighting, signage, security gates, windows and doors) along Madison Avenue within the Metropolitan Museum Historic District that are in accordance with the District Master Plan approved by the Commission. The rules set forth herein permit the LPC staff to issue Authorizations to Proceed letters ("ATP") for work that complies with the approved District Master Plan. Work that is not in accordance with the requirements of the District Master Plan will be reviewed by the Commission in accordance with its usual review procedures under the Landmarks Law. The objective of the District Master Plan is to provide owners, architects and store tenants with design criteria which will allow timely review of storefront alterations while protecting the architecturally and historically significant features of the buildings. The District Master Plan will cover buildings on Madison Avenue that fall within the Metropolitan Museum Historic District. Additionally, at corner buildings the District Master Plan will cover the building facades facing both Madison Avenue and the side streets.
 
-   (1) An ID Meeting may be held in person, by telephone, or by other electronic means, including video teleconference, as the Department deems appropriate.
+(b) Definitions. As used in these Rules, the following terms shall have the following meanings:
 
-   (2) An Applicant proceeding with filing a land use application or application for environmental review must participate in an ID Meeting and provide any information requested by the Department until such time that the Department has received sufficient information to determine the land use actions necessary to facilitate the proposed project and the type of environmental review that will be required.
+Authorization to Proceed and ATP. "Authorization to Proceed" and "ATP" shall mean an authorization to proceed as described in § 12-01(f) of these Rules.
 
-(b) Within ninety (90) days after an ID meeting:
+Commission. "Commission" shall mean the eleven Commissioners, including the Chairman, as established by § 3020 of the New York City Charter.
 
-   (1) the Department must notify an Applicant that:
+District Master Plan. "District Master Plan" shall mean the District Master Plan for Storefronts on Madison Avenue in the Metropolitan Museum Historic District and approved by the Commission as a Certificate of Appropriateness. A copy of the District Master Plan may be reviewed at the offices of the Commission by appointment.
 
-      (i) the Department has received sufficient information to determine the land use actions necessary to facilitate the proposed project and the type of environmental review that will be required; or
+Landmarks Law. "Landmarks Law" shall refer to § 3020 of the New York City Charter and Chapter 3 of Title 25 of the Administrative Code of the City of New York.
 
-      (ii) the Department requires further information or an additional ID Meeting to determine the land use actions necessary to facilitate the proposed project and the type of environmental review that will be required. Where an additional ID Meeting is required, the Department must hold the meeting within thirty (30) days of notifying the Applicant, subject to the Applicant's availability. If the Applicant is not available within this period, the Department must hold the additional ID Meeting as soon as practicable at a time at which both the Department and the Applicant are available. Within forty-five (45) days of receiving such additional information or holding an additional ID Meeting, the Department must notify the Applicant that it has received sufficient information to determine the land use actions necessary to facilitate the proposed project and the type of environmental review that will be required, or that additional information must be submitted or an additional ID Meeting must be held in accordance with the procedures set forth in this paragraph until such time that the Department may make such a determination.
+LPC. "LPC" shall mean the Landmarks Preservation Commission acting in its agency capacity to implement the Landmarks Law. Terms not otherwise defined in these rules shall have the meanings given them in the Landmarks Law.
 
-   (2) Upon notifying an Applicant that the Department has received sufficient information to determine the land use actions necessary to facilitate the proposed project and the type of environmental review that will be required, the Department must also notify the Applicant that the project is:
+(c) Eligible buildings. As specifically set forth and described in the District Master Plan, these Rules shall cover buildings facing Madison Avenue and located within the Metropolitan Museum Historic District, including the commercial portions of a building facing onto both Madison Avenue and a side street.
 
-      (i) classified as Type I or Unlisted, pursuant to SEQR, and subject to the procedures set forth in 62 RCNY § 10-06; or
+(d) Permitted alterations pursuant to the District Master Plan. The LPC staff shall issue an ATP for work on storefronts in eligible buildings along Madison Avenue if the staff determines that:
 
-      (ii) classified as Type II, pursuant to SEQR, such that the procedures set forth in 62 RCNY § 10-06 and 62 RCNY § 10-08 do not apply. When providing notification pursuant to this subsection, the Department must also notify the Applicant whether the Applicant is subject to the procedures set forth in 62 RCNY § 10-07 or may directly proceed to file a land use application pursuant to 62 RCNY § 10-09.
+   (1) The proposed work meets the design criteria for storefront alterations as set forth in the District Master Plan; and
 
-(c) If the Department fails to hold an ID Meeting pursuant to subdivision (a) of this section or fails to notify an Applicant pursuant to subdivision (b) of this section, the Applicant may proceed with filing a land use application as set forth in 62 RCNY § 10-09 and an application for environmental review as set forth in 62 RCNY § 10-10.
+   (2) The staff determines that the proposed work would not adversely affect any significant architectural feature of the building.
 
+(e) Application procedures.
 
+   (1) Submission of application. See Chapter 2, Subchapter A ("Application Procedure") and Chapter 12 of these Rules.
 
+   (2) Application materials. The applicant shall submit adequate materials that clearly set forth the scope and details of the proposed work. At a minimum, the applicant shall submit detailed drawings that specifically show the proposed work and all other materials required by the LPC staff. Drawings shall be made to scale, and include all pertinent dimensions. LPC staff may require applicants to submit other materials, including but not limited to photographs of existing conditions, construction details, material samples, specifications, or maps as necessary to clearly explain the proposed work. LPC staff may also require probes or other investigations to determine the existing conditions and critical dimensions peculiar to each eligible building storefront.
 
+   (3) Review procedure.
 
+      (i) The application will be deemed complete when the LPC staff determines that adequate materials have been submitted that clearly set forth the scope and details of the proposed work.
 
-*§ 10-06 Reasonable Worst Case Development Scenario.* ::
+      (ii) When the application is complete, LPC staff will review the application for conformity with these Rules. Upon determination that the criteria of the Rules have been met, an ATP will be issued pursuant to § 12-01(f). A determination that an ATP should be issued shall mean that the proposed work satisfies the criteria of the District Master Plan and that the work is appropriate to or will have no effect on protected architectural features of the specific eligible building in question and is otherwise appropriate to the Metropolitan Museum Historic District.
 
+      (iii) If the LPC staff determines that the criteria set forth in these Rules have not been met, the LPC staff shall provide the applicant with a notice of the proposed denial of the application. The applicant may request a meeting with the Director of the Preservation Department, or, in the absence of the Director, with a Deputy Director, to discuss the determination.
 
-(a) Following notification to an Applicant pursuant to 62 RCNY § 10-04(b)(3)(ii)(A) or 62 RCNY § 10-05(b)(2)(i), as applicable, that the Applicant's project is classified as Type I or Unlisted, an Applicant proceeding with filing a land use application or application for environmental review must submit a RWCDS Memorandum. The memorandum must be on a form provided by the Department that is available on the Department's website. The memorandum must set forth a description of, and the basis for, the RWCDS that may result from the land use actions that facilitate the proposed project. A RWCDS is a conservative projection of the development that may occur pursuant to a discretionary action and is used by the Department to make reasonable conclusions regarding a land use action's likely effects on the environment, consistent with the requirements of SEQR/CEQR and the guidance of the City's CEQR Technical Manual.
+      (iv) Applications for work that do not qualify for the issuance of an ATP in accordance with these Rules shall be subject to the LPC's usual review procedure as set forth in the Landmarks Law.
 
-(b) Within ninety (90) days of receiving a RWCDS Memorandum, the Department must review the memorandum and:
 
-   (1) notify an Applicant that:
 
-      (i) the Department accepts the RWCDS Memorandum and the Applicant may proceed to submit, pursuant to the procedures set forth in 62 RCNY § 10-08, a draft CEQR short/full form as provided by the Mayor's Office of Environmental Coordination; or
 
-      (ii) the Department requires further information or a RWCDS Meeting in order to review and clarify the assumptions underlying the RWCDS Memorandum. Where a RWCDS Meeting is required, the Department must hold the meeting within thirty (30) days of notifying the Applicant that the Department requires a RWCDS Meeting, subject to the Applicant's availability. If the Applicant is not available within this period, the Department must hold the meeting as soon as practicable at a time at which both the Department and the Applicant are available. A RWCDS Meeting may be held in person, by telephone, or by other electronic means, including teleconference, as the Department deems appropriate. Within forty-five (45) days of receiving additional information or holding a RWCDS Meeting, the Department must notify the Applicant that it accepts the RWCDS Memorandum and the Applicant may proceed to submit a draft CEQR short/full form pursuant to the procedures set forth in 62 RCNY § 10-08, or that it requires further information or an additional RWCDS Meeting in accordance with the procedures set forth in this paragraph in order to review and clarify the assumptions underlying the memorandum until such time that the Department accepts the memorandum and the Applicant may proceed to submit a draft CEQR short/full form.
 
-   (2) upon notifying an Applicant that the Department has accepted the Applicant's RWCDS Memorandum and that the Applicant may proceed to submit a draft CEQR short/full form, also notify the Applicant whether the Applicant is subject to the procedures set forth in 62 RCNY § 10-07 or, if not subject the Applicant may directly proceed to file a land use application pursuant to 62 RCNY § 10-09.
 
-(c) If the Department fails to notify an Applicant pursuant to subdivision (b) of this section, the Applicant may proceed with filing a land use application as set forth in 62 RCNY § 10-09 and an application for environmental review as set forth in 62 RCNY § 10-10.
+*§ 12-05 Implementation Rules for the District Master Plan for Storefronts on Madison Avenue in the Carnegie Hill (and Extension) Historic District.* ::
 
 
+(a)  Introduction. The implementation rules ("Rules") for the District Master Plan for Storefronts on Madison Avenue in the Carnegie Hill (and Extension) Historic District ("District Master Plan") are promulgated to passist building owners in applying to the Landmarks Preservation Commission ("LPC") for approval of applications to undertake repair, rehabilitation, replacement, or alterations to storefronts (including but not limited to storefront infill, lighting, signage, security gates, windows and doors) along Madison Avenue within the Carnegie Hill (and Extension) Historic District that are in accordance with the District Master Plan approved by the Commission. The rules set forth herein permit the LPC staff to issue Authorizations to Proceed letters ("ATP") for work that complies with the approved District Master Plan. Work that is not in accordance with the requirements of the District Master Plan will be reviewed by the Commission in accordance with its usual review procedures under the Landmarks Law. The objective of the District Master Plan is to provide owners, architects and store tenants with design criteria which will allow timely review of storefront alterations while protecting the architecturally and historically significant features of the buildings. The District Master Plan will cover buildings on Madison Avenue that fall within the Carnegie Hill (and Extension) Historic District. Additionally, at corner buildings the District Master Plan will cover the building facades facing both Madison Avenue and the side streets.
 
+(b) Definitions. As used in these Rules, the following terms shall have the following meanings:
 
+Authorization to Proceed and ATP. "Authorization to Proceed" and "ATP" shall mean an authorization to proceed as described in § 12-01(f) of these Rules.
 
+Commission. "Commission" shall mean the eleven Commissioners, including the Chairman, as established by § 3020 of the New York City Charter.
 
+District Master Plan. "District Master Plan" shall mean the District Master Plan for Storefronts on Madison Avenue in the Carnegie Hill (and Extension) Historic District and approved by the Commission as a Certificate of Appropriateness. A copy of the District Master Plan may be reviewed at the offices of the Commission by appointment.
 
+Landmarks Law. "Landmarks Law" shall refer to § 3020 of the New York City Charter and Chapter 3 of Title 25 of the Administrative Code of the City of New York.
 
-*§ 10-07 Draft Land Use Application.* ::
+LPC. "LPC" shall mean the Landmarks Preservation Commission acting in its agency capacity to implement the Landmarks Law. Terms not otherwise defined in these rules shall have the meanings given them in the Landmarks Law.
 
+(c) Eligible buildings. As specifically set forth and described in the District Master Plan, these Rules shall cover buildings facing Madison Avenue and located within the Carnegie Hill (and Extension) Historic District, including the commercial portions of a building facing onto both Madison Avenue and a side street.
 
-(a) The Department may request a draft land use application where a high degree of technical expertise is necessary to produce the land use application materials for an Applicant's proposed project. Following notification to an Applicant pursuant to 62 RCNY § 10-03(d)(2)(ii), 62 RCNY § 10-04(b)(3)(ii)(B), 62 RCNY § 10-05(b)(2)(ii), or 62 RCNY § 10-06(b)(2), as applicable, that the Applicant is subject to the procedures set forth in 62 RCNY § 10-07, an Applicant proceeding with filing a land use application must submit a draft land use application to the Department for review. The Applicant must submit the draft land use application to the Department. Such application must include all required forms, documents, and exhibits as required by instructions for submitting a land use application which are set forth on the Department's website and available upon request in hard copy from the Department.
+(d) Permitted alterations pursuant to the District Master Plan. The LPC staff shall issue an ATP for work on storefronts in eligible buildings along Madison Avenue if the staff determines that:
 
-(b) Within ninety (90) days of receiving a draft land use application, the Department must review the draft application and:
+   (1) The proposed work meets the design criteria for storefront alterations as set forth in the District Master Plan; and
 
-   (1) notify an Applicant that the draft application includes all such required forms, documents, and exhibits as required by the instructions for submitting a land use application, such that the Applicant may proceed to file a land use application pursuant to 62 RCNY § 10-09; or
+   (2) The staff determines that the proposed work would not adversely affect any significant architectural feature of the building.
 
-   (2) notify an Applicant that the draft land use application is missing one or more required forms, documents, or exhibits, or is not submitted as required by the instructions for submitting a land use application. The Applicant must submit a revised draft land use application to the Department. Within forty-five (45) days of receiving the revised draft land use application, the Department must review it and notify the Applicant that the Applicant may proceed to file a land use application pursuant to 62 RCNY § 10-09, or that additional or revised materials must be submitted. The Department may continue requesting such materials in accordance with the procedures set forth in this paragraph until such time that the Department determines that the Applicant may proceed to file a land use application pursuant to 62 RCNY § 10-09.
+(e) Application procedures.
 
-(c) If the Department fails to notify an Applicant pursuant to subdivision (b) of this section, the Applicant may proceed with filing a land use application as set forth in 62 RCNY § 10-09.
+   (1) Submission of application. See Chapter 2, Subchapter A ("Application Procedure") and Chapter 12 of these Rules.
 
+   (2) Application materials. The applicant shall submit adequate materials that clearly set forth the scope and details of the proposed work. At a minimum, the applicant shall submit detailed drawings that specifically show the proposed work and all other materials required by the LPC staff. Drawings shall be made to scale, and include all pertinent dimensions. LPC staff may require applicants to submit other materials, including but not limited to photographs of existing conditions, construction details, material samples, specifications, or maps as necessary to clearly explain the proposed work. LPC staff may also require probes or other investigations to determine the existing conditions and critical dimensions peculiar to each eligible building storefront.
 
+   (3) Review procedure.
 
+      (i) The application will be deemed complete when the LPC staff determines that adequate materials have been submitted that clearly set forth the scope and details of the proposed work.
 
+      (ii) When the application is complete, LPC staff will review the application for conformity with these Rules. Upon determination that the criteria of the Rules have been met, an ATP will be issued pursuant to § 12-01(f). A determination that an ATP should be issued shall mean that the proposed work satisfies the criteria of the District Master Plan and that the work is appropriate to or will have no effect on protected architectural features of the specific eligible building in question and is otherwise appropriate to the Carnegie Hill (and Extension) Historic District.
 
+      (iii) If the LPC staff determines that the criteria set forth in these Rules have not been met, the LPC staff shall provide the applicant with a notice of the proposed denial of the application. The applicant may request a meeting with the Director of the Preservation Department, or, in the absence of the Director, with a Deputy Director, to discuss the determination.
 
+      (iv) Applications for work that do not qualify for the issuance of an ATP in accordance with these Rules shall be subject to the LPC's usual review procedure as set forth in the Landmarks Law.
 
 
-*§ 10-08 Draft City Environmental Quality Review.* ::
 
 
-(a) Following notification to an Applicant pursuant to 62 RCNY § 10-06(b)(1) that the Applicant may proceed to submit a draft CEQR short/full form, an Applicant proceeding with filing an application for environmental review must submit a draft CEQR short/full form to the Department for review. The Applicant must submit the draft CEQR short/full form to the Department and notify the Environmental Assessment Review division project manager handling the Applicant's project. Such application must include all required forms, documents, and exhibits as required by instructions for submitting a CEQR short/full form as provided by the Mayor's Office of Environmental Coordination.
 
-(b) Within ninety (90) days of receiving a draft CEQR short/full form, the Department must review the draft and:
 
-   (1) notify an Applicant that the draft CEQR short/full form is substantially complete in form and substance such that the Applicant may proceed to file an application for environmental review pursuant to 62 RCNY § 10-10; or
+*§ 12-06 Implementation Rules for the District Master Plan for the Douglaston Historic District.* ::
 
-   (2) provide comments to an Applicant on the draft CEQR short/full form, which the Applicant must address to the Department's satisfaction before the Applicant may proceed to file an application for environmental review pursuant to 62 RCNY § 10-10. Within forty-five (45) days of receiving a revised draft CEQR short/full form, the Department must review the revised draft and notify the Applicant that the revised draft is substantially complete in form and substance such that the Applicant may proceed to file an application for environmental review pursuant to 62 RCNY § 10-10, or that the revised draft does not address, in whole or in part, the comments previously provided by the Department to the Applicant, in which case the review process must continue in accordance with the procedures set forth in this paragraph until the Department determines that the draft is substantially complete in form and substance and the Applicant may proceed to file an application for environmental review pursuant to 62 RCNY § 10-10.
 
-(c) If the Department fails to notify an Applicant pursuant to subdivision (b) of this section, the Applicant may proceed with filing an application for environmental review as set forth in 62 RCNY § 10-10.
+(a)  Introduction. The implementation rules ("Rules") for The District Master Plan for the Douglaston Historic District ("District Master Plan") are promulgated to assist building owners in applying to the Landmarks Preservation Commission ("LPC") for approval of applications to undertake various types of work on properties located within the Douglaston Historic District, including additions, outbuildings, window replacement, heating, venting and air conditioning, and work on or affecting significant landscape improvements. The rules set forth herein permit the LPC staff to issue Authorizations to Proceed ("ATP") for work that complies with the approved District Master Plan. Work that is not in accordance with the requirements of the District Master Plan will be reviewed by the Commission in accordance with its usual review procedures under the Landmarks Law. The objective of the District Master Plan is to provide owners, architects and store tenants with design criteria which will allow timely review of proposed alterations while protecting the architecturally and historically significant features of the buildings and historic district's sense of place. The District Master Plan will cover all buildings in the Douglaston Historic District.
 
+(b) Definitions. As used in these Rules, the following terms shall have the following meanings:
 
+Authorization to Proceed and ATP. "Authorization to Proceed" and "ATP" shall mean an authorization to proceed as described in § 12-01(f) of these Rules.
 
+Commission. "Commission" shall mean the appointed Commissioners, including the Chairman, acting as the Landmarks Preservation Commission as established by § 3020 of the New York City Charter.
 
+District Master Plan. "District Master Plan" shall mean the District Master Plan for the Douglaston Historic District approved by the Commission as a Certificate of Appropriateness. A copy of the District Master Plan may be reviewed at the offices of the Commission by appointment.
 
+Landmarks Law. "Landmarks Law" shall refer to § 3020 of the New York City Charter and Chapter 3 of Title 25 of the Administrative Code of the City of New York.
 
+Landscape Improvement. "Landscape Improvement" shall mean a physical betterment of real property or any part thereof, consisting of natural or artificial landscape, including but not limited to grade, body of water, hedge, mature tree, walkway, road, plaza, wall, fence, step, fountain, or sculpture.
 
+LPC. "LPC" shall mean the Landmarks Preservation Commission acting in its agency capacity to implement the Landmarks Law. Terms not otherwise defined in these rules shall have the meanings given them in the Landmarks Law.
 
-*§ 10-09 Filing of Land Use Application.* ::
+(c) Eligible buildings. All buildings in the Douglaston Historic District are subject to the District Master Plan*.
 
+(d) Permitted alterations. The LPC staff shall issue an ATP if the staff determines that:
 
-(a) After an Applicant receives notification pursuant to 62 RCNY § 10-03(d)(2)(ii), 62 RCNY § 10-04(b)(3)(ii)(B), 62 RCNY § 10-05(b)(2)(ii), 62 RCNY § 10-06(b)(2), or 62 RCNY § 10-07(b), as applicable, that it may proceed to file a land use application, the Applicant may file such application with the Department in accordance with 62 RCNY § 2-02(a)(1).
+   (1) The proposed work meets the criteria set forth in the District Master Plan; and
 
-(b) Notwithstanding subdivision (a) of this section, an Applicant may proceed with filing a land use application where otherwise provided in this chapter.
+   (2) The proposed work will not adversely affect any significant architectural feature of the building or significant Landscape Improvement, not otherwise permitted by the District Master Plan or other LPC approval.
 
+(e) Application procedures.
 
+   (1) Submission of application. See Chapter 2, Subchapter A ("Application Procedure") and Chapter 12 of these Rules.
 
+   (2) Application materials. The applicant shall submit adequate materials that clearly set forth the scope and details of the proposed work. At a minimum, the applicant shall submit detailed drawings that specifically show the proposed work and all other materials required by the LPC staff. Drawings shall be made to scale, and include all pertinent dimensions. LPC staff may require applicants to submit other materials, including but not limited to photographs of existing conditions, construction details, material samples, specifications, or maps as necessary to clearly explain the proposed work. LPC staff may also require mockups of proposed additions or outbuildings to determine the visibility of such additions or outbuildings, and probes or other investigations to determine existing conditions.
 
+   (3) Review procedure.
 
+      (i) The application will be deemed complete when the LPC staff determines that the materials submitted adequately and clearly set forth the scope and details of the proposed work.
 
+      (ii) When the application is complete, LPC staff will review the application for conformity with these Rules. Upon determination that the criteria of the Rules have been met, an ATP will be issued pursuant to § 12-01(f). A determination that an ATP should be issued shall mean that the proposed work satisfies the criteria of the District Master Plan and that the work is appropriate to or will have no effect on protected architectural features of the specific building in question and is otherwise appropriate to the Douglaston Historic District.
 
+      (iii) If the LPC staff determines that the criteria set forth in these Rules have not been met, the LPC staff shall provide the applicant with a notice of the proposed denial of the application. The applicant may request a meeting with the Director of the Preservation Department, or, in the absence of the Director, with a Deputy Director, to discuss the determination.
 
-*§ 10-10 Filing of Application for Environmental Review.* ::
+      (iv) Applications for work that do not qualify for the issuance of an ATP in accordance with these Rules shall be subject to the LPC's usual review procedure as set forth in the Landmarks Law.
 
 
-(a) After an Applicant receives notification pursuant to 62 RCNY § 10-08(b) that it may proceed to file an application for environmental review, the Applicant may file such application pursuant to 62 RCNY Ch. 5.
 
-(b) Notwithstanding subdivision (a) of this section, an Applicant may proceed with filing an application for environmental review where otherwise provided in this chapter.
+
+
+
+*§ 12-07 Implementation Rules for the District Master Plan for the Fieldston Historic District.* ::
+
+
+(a) Introduction. The implementation rules ("Rules") for The District Master Plan for the Fieldston Historic District ("District Master Plan") are promulgated to assist building owners in applying to the Landmarks Preservation Commission ("LPC") for approval of applications to undertake various types of work on properties located within the Fieldston Historic District, including additions, outbuildings, window replacement, heating, venting and air conditioning, and work on or affecting significant landscape improvements. The Rules set forth herein permit the LPC staff to issue Authorizations to Proceed ("ATP") for work that complies with the approved District Master Plan. Work that is not in accordance with the requirements of the District Master Plan will be reviewed by the Commission in accordance with its usual review procedures under the Landmarks Law. The provisions of the District Master Plan will take precedence over other rules that are not specifically tailored to the Fieldston Historic District.
+
+The objective of the District Master Plan is to provide owners and architects with design criteria which will allow timely review of proposed alterations while protecting the architecturally and historically significant features of the buildings, significant landscape improvements and the historic district's sense of place. The District Master Plan will cover all buildings in the Fieldston Historic District.
+
+(b) Definitions. As used in these Rules, the following terms shall have the following meanings:
+
+   Authorization to Proceed and ATP. "Authorization to Proceed" and "ATP" shall mean an authorization to proceed as described in section 12-01(f) of these Rules.
+
+   Commission. "Commission" shall mean the appointed Commissioners, established by section 3020 of the New York City Charter.
+
+   District Master Plan. "District Master Plan" shall mean the District Master Plan for the Fieldston Historic District approved by the Commission as a Certificate of Appropriateness. A copy of the District Master Plan may be reviewed at the Commission's offices by appointment or downloaded from the Commission's website: www.nyc.gov/landmarks
+
+   Landmarks Law. "Landmarks Law" shall refer to section 3020 of the New York City Charter and Chapter 3 of Title 25 of the Administrative Code of the City of New York.
+
+   Landscape Improvement. "Landscape Improvement" shall mean a physical betterment of real property or any part thereof, consisting of natural or artificial landscape, including but not limited to grade, body of water, mature tree, walkway, road, plaza, wall, fence, step, fountain or sculpture.
+
+   LPC. "LPC" shall mean the Landmarks Preservation Commission acting in its agency capacity to implement the Landmarks Law.
+
+   Rules. "Rules" shall mean these implementation rules for the Fieldston Historic District.
+
+Terms not otherwise defined in these rules or the District Master Plan shall have the meanings given them in the Landmarks Law.
+
+(c) Eligible Buildings. All buildings in the Fieldston Historic District are subject to the District Master Plan.
+
+(d) Permitted alterations. The LPC staff shall issue an ATP if the staff determines that:
+
+   (1) The proposed work meets the criteria set forth in the District Master Plan; and
+
+   (2) The proposed work will not adversely affect any significant architectural feature of the building or significant Landscape Improvement, not otherwise permitted by the District Master Plan or other LPC approval.
+
+(e) Application procedures.
+
+   (1) Submission of application. See Chapter 2, Subchapter A ("Application Procedure") and Chapter 12 of these Rules.
+
+   (2) Application materials. The applicant shall submit adequate materials that clearly set forth the scope and details of the proposed work. At a minimum, the applicant shall submit detailed drawings that specifically show the proposed work and all other materials required by the LPC staff. Drawings shall be made to scale, and include all pertinent dimensions. LPC staff may require applicants to submit other materials, including but not limited to photographs of existing conditions, construction details, material samples, specifications, or maps as necessary to clearly explain the proposed work. LPC staff may also require mockups of proposed additions or outbuildings to determine the visibility of such additions or outbuildings, and probes or other investigations to determine existing conditions. Applications shall include a letter from the Fieldston Property Owners ("FPOA") not objecting to the work or stating the work is not occurring on FPOA property, or a site survey demonstrating that the proposed work is not occurring on FPOA property. If the proposed work requires compliance with the Special Natural Area District ("SNAD") rules, the applicant shall also provide a statement that s/he has met with the staff of the Department of City Planning ("DCP") to discuss the proposal. If DCP staff has indicated that some aspect of the proposal is inconsistent with the SNAD rules and requires an Authorization or Special Permit, or other approval, the applicant shall indicate in the statement that s/he intends to seek the appropriate approvals from the DCP or City Planning Commission.
+
+   (3) Review procedures.
+
+      (i) The application will be deemed complete when the LPC staff determines that the materials submitted adequately and clearly set forth the scope and details of the proposed work.
+
+      (ii) When the application is complete, the LPC staff will review the application for conformity with these Rules. Upon determination that the criteria of the Rules have been met, an ATP will be issued pursuant to § 12-01(f). A determination that an ATP should be issued shall mean that the proposed work satisfies the criteria of the District Master Plan and that the work is appropriate to or will have no effect on protected architectural features of the specific building in question and is otherwise appropriate to the Fieldston Historic District.
+
+      (iii) If the LPC staff determines that the criteria set forth in these Rules have not been met, the LPC staff shall provide the applicant with a notice of the proposed denial of the application. The applicant may request a meeting with the Director of the Preservation Department, or, in the absence of the Director, with a Deputy Director, to discuss the determination.
+
+      (iv) Applications for work that do not qualify for the issuance of an ATP in accordance with these Rules shall be subject to the LPC's usual review procedure as set forth in the Landmarks Law.
+
+
+
+
+Chapter 13: Fees
+--------------------------------------------------
+
+
+
+*§ 13-01 Requirement of Fee.* ::
+
+
+All applicants for a certificate of appropriateness or a certificate of no effect shall pay a fee, as established in accordance with the provisions of this Chapter, except that no fees shall be payable by an owner of the designated building or property affected if the owner is a corporation or association organized and operated exclusively for religious, charitable or educational purposes, or for one or more such purposes, no part of the earnings of which enures to the benefit of any private shareholder or individual, and provided that the property affected is used exclusively by such corporation or association for one or more of such purposes.
+
+
+
+
+
+
+*§ 13-02 Fee for Approval and Consideration of Applications.* ::
+
+
+The fees required to be paid under this Chapter are for filing and processing of aplications for certificates of appropriateness and certificates of no effect. The total fee for such work shall be paid by or on behalf of the owner or lessee of the designated building or property before the Department of Buildings issues a work permit or other approval for such work approved in the certificate of appropriateness or certificate of no effect. The fees required to be paid under this Chapter shall be payable each time the owner or lessee of the designated building or property shall apply for a permit or approval from the Department of Buildings for work approved in a certificate of appropriateness or certificate of no effect.
+
+
+
+
+
+
+*§ 13-03 Definitions.* ::
+
+
+"Administrative Code" shall mean the Administrative Code of the City of New York.
+
+"Designated building or property" shall mean an improvement designated as a landmark, interior landmark or as part of a historic district, and the landmark site(s) associated with such designation, pursuant to § 25-303 of the Administrative Code.
+
+
+
+
+
+
+*§ 13-04 Computation of Fees.* ::
+
+
+Fees shall be computed as hereinafter provided:
+
+(a) New buildings. The fees for permits to construct new buildings shall be computed as follows:
+
+   (1) a fee of twenty-five cents per square foot or fraction thereof, but not less than one hundred dollars per structure, for work subject to a fee payable to the Department of Buildings pursuant to § 28-112.2 of the Administrative Code for new buildings, other than one, two or three family dwellings.
+
+   (2) a fee of fifteen cents per square foot, or fraction thereof, but not less than one hundred dollars per structure, for work subject to a fee payable to the Department of Buildings pursuant to § 28-112.2 of the Administrative Code for new buildings that are one, two or three family dwellings.
+
+(b) Building alterations. A fee of ninety-five dollars for the first twenty-five thousand dollars, or fraction thereof, of the cost of the work and five dollars for each additional one thousand dollars, or fraction thereof, of cost over twenty-five thousand dollars for work subject to a fee payable to the Department of Buildings for alteration work, with the exception of work to install or alter service equipment or to install, alter or re- place oil-burning equipment, pursuant to § [;§ 26-212(2)(a), 212(2)(b), 212(5)(a)(1) and 212(5)(a)(2)]; 28-112.2 of the Administrative Code.
+
+(c) Demolition and removal. A fee computed by multiplying the street frontage in feet by the number of stories of the building times one dollar, but not less than one hundred dollars, shall be paid for work subject to a fee payable to the Department of Buildings pursuant to § 28-112.2 of the Administrative Code. For corner lots, use the longer street frontage.
+
+(d) Signs. A fee of one hundred dollars to erect, install or alter a sign shall be paid for each sign subject to a fee payable to the Department of Buildings pursuant to § 28-112.2. An additional fee shall be payable for signs as follows:
+
+   (1) A fee of fifty dollars shall be paid for each ground sign subject to a fee pursuant to § 28-112.2 of the Administrative Code.
+
+   (2) A fee of fifty dollars shall be paid for each roof sign having a tight, closed or solid surface, where such sign is subject to a fee pursuant to § 28-112.2 of the Administrative Code.
+
+   (3) A fee of fifty dollars shall be paid for each roof sign that does not have a tight, closed or solid surface and where such sign does not extend beyond thirty-one feet above the roof level, where such sign is subject to a fee pursuant to § [;26-212(6)(a)(3)]; 28-112.2 of the Administrative Code. A fee of one hundred shall be paid for each roof sign that exceeds thirty-one feet above the roof level.
+
+
+
+
+
+
+*§ 13-05 Effective Date.* ::
+
+
+The fees required pursuant to this Chapter shall apply to certificates of appropriateness and certificates of no effect issued on or after July 1, 2004.
 
 
 

@@ -1,19 +1,6 @@
 Title 2: Board of Standards and Appeals
 ===================================================
 
-Chapter 2: Automotive Service Stations and Garages
---------------------------------------------------
-
-
-
-*§ 2-01 Changes in Underground Storage Tank Number, Capacity or Location.* ::
-
-
-If on any automotive service station or storage garage which has been erected under a variance or permit granted by the Board, it is proposed to change the number, capacity or location of underground storage tanks in compliance with the requirements of the Administrative Code, such tank changes shall be deemed to be in substantial compliance with the terms and conditions of the Board's resolution affecting that automotive service station or garage, provided that all other requirements of the resolution in each case shall be complied with.
-
-
-
-
 Chapter 1: Rules of Practice and Procedures New York City Board of Standards and Appeals
 --------------------------------------------------
 
@@ -23,104 +10,6 @@ Chapter 1: Rules of Practice and Procedures New York City Board of Standards and
 
 
 The Board of Standards and Appeals (the "Board") derives its authority from the following primary sources: New York City Charter (the "Charter"), New York City Zoning Resolution ("ZR" or the "Zoning Resolution"), New York City Administrative Code, New York State General City Law ("GCL"), and New York State Multiple Dwelling Law ("MDL"). The following rules are intended to fulfill the Board's legal mandate by providing clear and concise notice to applicants and the public at large of the rules and procedures governing the practices of the Board and requirements for filing applications at and appearing before the Board. This Section provides a summary of the Board's authority.
-
-
-
-
-
-
-*§ 1-01.2 The Board.* ::
-
-
-As set forth in section 659 (Constitution and appointment) of Chapter 27 (Board of Standards and Appeals) of the Charter, the Board consists of five (5) members, appointed by the Mayor each for a term of six (6) years. The members must include a planner with professional qualifications, a licensed professional engineer, and a registered architect, each with at least ten (10) years of experience. The Mayor designates one (1) of these members to serve as Chair and also designates one (1) of the members to serve as Vice Chair.
-
-
-
-
-
-
-*§ 1-01.3 The Charter.* ::
-
-
-Chapter 27 § 666 (Jurisdiction) of the Charter sets forth the Board's authority as follows:
-
-1. To make, amend and repeal rules and regulations for carrying into effect the provisions of the laws, resolutions, rules and regulations in respect to any subject-matter jurisdiction whereof is conferred by law upon the board, and to include in such rules and regulations provisions applying to specific conditions and prescribing means and methods of practice to effectuate such provisions and for carrying into effect the powers of the board.
-
-2. To make, amend and repeal rules and regulations for the enforcement of those provisions of the labor law and other laws which relate to the construction or alteration of, structural changes in plumbing and drainage of, elevators in, fire escapes on, adequacy and means of exit from, or fire protection in, all buildings within the city, which shall take the place of the industrial code and of any rules and regulations of the department of labor of the state of New York relating to the same subject-matter.
-
-3. To make, amend and repeal rules, regulations and directives governing the preparation and presentation by the director of matters before the board.
-
-4. To exercise exclusively with respect to buildings situated within the city, the same powers as are exercised by the department of labor of the state of New York elsewhere in the state.
-
-5. To determine and vary the application of the zoning resolution as may be provided in such resolution and pursuant to section six hundred sixty-eight.
-
-6. To hear and decide appeals from and review,
-
-   (a) except as otherwise provided by law, any order, requirement, decision or determination of the commissioner of buildings or of a deputy commissioner of buildings or any borough superintendent of buildings acting under a written delegation of power from the commissioner of buildings filed in accordance with the provisions of section six hundred forty-two or section six hundred forty-five of this charter, or
-
-   (b) any order, requirement, decision or determination of the fire commissioner or any rule or regulation or amendment or repeal thereof made by the fire commissioner, or
-
-   (c) any order, requirement, decision or determination of the commissioner of transportation or the commissioner of ports and trade made in relation to the structures or uses on water front property under his or her jurisdiction in connection with the application or enforcement of the provisions of the zoning resolution of the city of New York, the labor law and such other laws, rules and regulations as may govern the construction, alteration, maintenance, use, occupancy, safety, sanitary conditions, mechanical equipment and inspection of structures in the city, under the authority conferred upon them by law, by reversing or affirming in whole or in part, or modifying the order, regulation, decision or determination appealed from, and to make such order, requirement, decision or determination as in its opinion ought to be made in the premises, and to that end shall have the power of the officer from whose ruling the appeal is taken, and of any officer under whose written delegation of power such ruling was made.
-
-7. In passing upon appeals, to vary or modify any rule or regulation or the provisions of any law relating to the construction, use, structural changes, equipment, alteration or removal of buildings or structures, or vaults in sidewalks appurtenant thereto, where there are practical difficulties or unnecessary hardship in the way of carrying out the strict letter of the law, so that the spirit of the law shall be observed, public safety secured and substantial justice done, provided that the provisions of the housing maintenance code and of any regulation or order issued under such code may be varied or modified only to the extent permitted by such code and only in the manner and subject to the conditions therein specified.
-
-8. To review, upon motion of any member of the board, any rule, regulation, amendment or repeal thereof, and any order, requirement, decision or determination from which an appeal may be taken to the board under the provisions of this chapter or of any law, or of any rule, regulation or decision of the board; but no such review shall prejudice the rights of any person who has in good faith acted thereon before it is reversed or modified. The provisions of this chapter relating to appeals to the board shall be applicable to such review.
-
-9. To afford an equal right to the city planning commission, community boards, and borough boards and lessees and tenants as well as owners to appear before it for the purpose of proposing arguments or submitting evidence in respect of any matter brought before it pursuant to the zoning resolution of the city of New York.
-
-10. To issue such special permits as the board is authorized to issue under the zoning resolution.
-
-11. To revoke or modify, upon due notice and hearing, variances and special permits previously granted under the zoning resolution if the terms and conditions of such grants have been violated.
-
-
-
-
-
-
-*§ 1-01.4 Zoning Resolution.* ::
-
-
-The New York City Zoning Resolution sets forth the Board's authority in: ZR §§ 72-00 et seq. (Powers of the Board of Standards and Appeals) and ZR §§ 73-00 et seq. (Special Permit Uses and Modifications), which allow the Board to grant variances and special permits; ZR §§ 11-30 et seq. (Building Permits Issued before the Effective Date of Amendment), which allow the Board to renew building permits lawfully issued before the effective date of an amendment to the Zoning Resolution; and ZR §§ 11-40 et seq. (Exceptions, Variances, Authorizations or Permits), which allow the Board to grant changes to previously approved use variances or special permits granted under provisions of the 1916 Zoning Resolution.
-
-
-
-
-
-
-*§ 1-01.5 Administrative Code.* ::
-
-
-The New York City Administrative Code § 28-103.3 (Duties and Powers of Commissioner of Buildings/Variations) sets forth the Board's authority to vary the requirements of the Construction Code in accordance with Charter § 666 (Jurisdiction). This includes modifications or waivers of certain provisions in the Building and Fire codes.
-
-
-
-
-
-
-*§ 1-01.6 General City Law.* ::
-
-
-The New York State General City Law (GCL) § 35 sets forth the Board's authority to hear an appeal regarding objections issued by the Department of Buildings related to a permit for a building located within a mapped street. GCL § 36 sets forth the Board's authority to hear an appeal regarding objections issued by the Department of Buildings related to a permit for a building which is either not located on a mapped street, or is located on a mapped street which does not provide access to such building.
-
-
-
-
-
-
-*§ 1-01.7 Multiple Dwelling Law.* ::
-
-
-The New York State Multiple Dwelling Law (MDL) §§ 277 (Occupancy permitted) and 310 (Board of appeals) set forth the Board's power to vary or modify certain provisions and requirements of the Multiple Dwelling Law.
-
-
-
-
-
-
-*§ 1-01.8 Additional Authority.* ::
-
-
-The Board may derive its authority from additional legal and regulatory sources not described above, but contemplated by its general Charter authority.
 
 
 
@@ -199,36 +88,6 @@ Under the direction of the Board, administrative authority is vested in the foll
 
 
 
-*§ 1-03.2 Committees.* ::
-
-
-The Chair, or in the absence of the Chair, the Vice Chair, will when deemed necessary designate committees composed of commissioners, or commissioners and staff, including site inspection committees, subject to 2 RCNY § 1-10.3.
-
-
-
-
-
-
-*§ 1-03.3 Reports.* ::
-
-
-The Chair, the Vice Chair, commissioners, the executive director, and general counsel will report at executive or business sessions all pertinent information that would not otherwise come to the attention of the Board.
-
-
-
-
-
-
-*§ 1-03.4 Correspondence.* ::
-
-
-The Chair, executive director, or general counsel will sign official correspondence relating to administrative matters or previous Board decisions. The executive director, general counsel, or staff designated by the Chair will sign official correspondence relating to any application.
-
-
-
-
-
-
 *§ 1-04 The Calendar.* ::
 
 
@@ -263,114 +122,6 @@ The BZ Calendar consists of the following types of applications:
 
 
 
-*§ 1-05.2 BZ Form.* ::
-
-
-All applications must be made on the BZ Form and must be accompanied by all the information required by such form and related instructions.
-
-
-
-
-
-
-*§ 1-05.3 Filing Period.* ::
-
-
-All applications must be filed within thirty (30) days from the date of the determination by the Commissioner of Buildings, any borough commissioner of the Department of Buildings or authorized representative, or the Commissioner of the Department of Small Business Services or authorized representative.
-
-
-
-
-
-
-*§ 1-05.4 Application Referral.* ::
-
-
-In accordance with 2 RCNY § 1-10.6 and within three (3) business days after filing the application with the Board, the applicant must forward a copy of all application material to:
-
-(a) the affected community board(s) (and borough board, if applicable);
-
-(b) the affected borough president;
-
-(c) the affected city council member;
-
-(d) the administrative official who issued the determination; and
-
-(e) the City Planning Commission. After forwarding all application material, the applicant must provide proof of service to the Board in accordance with 2 RCNY § 1-10.7. See Appendix A for a summary of all application referral requirements.
-
-
-
-
-
-
-*§ 1-05.5 Community Board Review.* ::
-
-
-Within sixty (60) days after receipt of an application, the affected community board may hold a public hearing and submit a written recommendation on such application to the Board, or may waive in writing the holding of a public hearing. If a borough board is involved, within thirty (30) days after the submission of a recommendation or waiver by every community board in which the subject property is located, or after expiration of the time allowed for such community boards to act, the borough board may hold a public hearing and submit a written recommendation to this Board or may waive a public hearing. In accordance with 2 RCNY § 1-10.6, the community board(s) (and borough board, if applicable), will be deemed to have received an application on the day of personal delivery or five (5) calendar days after the date of the mailing of the application.
-
-Following receipt of a recommendation or waiver from the affected community board(s) (and borough board, if applicable), or following the expiration of the time period for their review, the Board will hold a public hearing on the application and make a decision. The Board may, in its discretion, include in the record the recommendations of the affected community board(s) and borough board even if the recommendations are received after the applicable time period has expired.
-
-
-
-
-
-
-*§ 1-05.6 Hearing Notice.* ::
-
-
-After the examiners have determined that the application is substantially complete, the Board will provide the applicant with the hearing notice and related forms, at least thirty (30) days before the first scheduled hearing date. In accordance with 2 RCNY § 1-10.6, and at least twenty (20) days before the first scheduled hearing date, the applicant must forward a copy of the hearing notice and related forms to:
-
-(a) the affected community board(s) (and borough board, if applicable);
-
-(b) the affected borough president;
-
-(c) the affected city council member;
-
-(d) the City Planning Commission; and
-
-(e) affected property owners as defined in 2 RCNY § 1-02. The applicant must submit the hearing notice to affected property owners with instructions that if the property is a cooperative or condominium, all tenants should be notified in the manner customarily employed by the cooperative or condominium. If the subject property is occupied by multiple tenants, the applicant must submit the hearing notice to the owner or management office of the property with instruction to either post the hearing notice in the lobby of the property, or to notify all tenants and/or owners in the manner customarily employed by such owner or manager for giving notices to tenants or unit owners in the building in question. After forwarding the hearing notice and forms to the proper entities, the applicant must provide proof of service to the Board in accordance with 2 RCNY § 1-10.7. See Appendix A for a summary of all hearing notice requirements.
-
-
-
-
-
-
-*§ 1-05.7 Source for List of Affected Property Owners.* ::
-
-
-The applicant must obtain names of affected property owners entitled to the hearing notice pursuant to 2 RCNY §§ 1-05.6 or 1-06.5(a)(2) from the City Register. In all cases, the applicant must submit the list to the Board, and the list must show the names of the actual property owners with legal title, rather than mortgagees.
-
-
-
-
-
-
-*§ 1-05.8 Newspaper Notice.* ::
-
-
-The applicant must, in addition to providing notice pursuant to 2 RCNY §§ 1-05.6 or 1-06.5(a)(2), publish the contents of the hearing notice form provided by the Board in a newspaper, at the applicant's expense. Newspaper notice will not be required for applications involving bulk variances for a single one-, two-, or three-family dwelling, or for special permit applications. The requirements for newspaper notice are as follows:
-
-(a) The notice must be published in one (1) newspaper of local circulation, or one (1) newspaper of general circulation, as identified by the Board in its hearing notice;
-
-(b) The notice must be published in such newspaper on one (1) day of each week for two (2) of the three (3) weeks before the public hearing; and
-
-(c) Before the hearing date, the applicant must provide the Board with an affidavit of publication or a copy of the published notice.
-
-
-
-
-
-
-*§ 1-05.9 Revised Application and Additional Submissions.* ::
-
-
-If, at any time, an applicant provides the Board with a revised application and/or additional submissions, within three (3) days of providing such materials to the Board, the applicant must submit a copy of the revised application and/or additional submissions to the affected community board(s) (and borough board, if applicable), affected borough president, affected city council member, and the City Planning Commission. The applicant must submit a cover letter to the Board identifying the contents of the revisions and/or additional submissions and note the entities which have been forwarded a copy of such materials, as required by this Section. If, after the community board's sixty (60) day review period, the applicant makes a substantial revision to the application, the Board, in its discretion, may consider any additional recommendations by the affected community board(s) (and borough board, if applicable), affected borough president, affected city council member, and the City Planning Commission, provided that the recommendations are related to the subject revisions and are submitted to the Board before the hearing is closed.
-
-
-
-
-
-
 *§ 1-06 Appeals Calendar (A).* ::
 
 
@@ -389,102 +140,6 @@ The A calendar consists of the following types of applications:
 (f) Amendment: applications to amend or extend the term of previous grants of any of the above appeals calendar applications; and
 
 (g) Other Waivers or Appeals: other requests to waive statutory non-compliance under the Board's authority, other appeals based on an objection from the Department of Buildings, or appeals of any other matter within the Board's jurisdiction not otherwise described by these Rules.
-
-
-
-
-
-
-*§ 1-06.2 A Form and BZY Form.* ::
-
-
-All applications must be made on the A Form, except for vested rights applications pursuant to ZR §§ 11-31 et seq., which must be made on the BZY Form. Applications must be accompanied by all information required by such forms and related instructions.
-
-
-
-
-
-
-*§ 1-06.3 Filing Period.* ::
-
-
-The application procedure is as follows:
-
-(a) Appeal of Agency Final Determination: Applications to appeal an agency final determination set forth at 2 RCNY § 1-06.1(a) must be filed within thirty (30) days from the date of the determination. Such final determinations must be signed by the agency commissioner. However, in accordance with the provisions of Charter § 642 (Deputies) and § 645 (Offices of the Department; powers and duties), final determinations by the Department of Buildings may also be signed by the Deputy Commissioner or, acting under a written delegation of power from the Commissioner, any Borough Commissioner of the Department of Buildings.
-
-(b) Waivers pursuant to the General City Law or Modifications pursuant to the Multiple Dwelling Law: Applications to waive the requirements of GCL §§ 35 or 36 or to modify the requirements of the MDL must be filed within thirty (30) days of the date of issuance of the Department of Buildings objection(s).
-
-(c) Vested Rights: Statutory vested rights applications are subject to the filing requirements set forth in ZR §§ 11-31 et seq. Common law vested rights applications are not subject to the filing requirements set forth in ZR §§ 11-31 et seq.
-
-(d) Amendment: Applications to amend or extend the term of previous grants are subject to the filing period requirements set forth in 2 RCNY § 1-07.3s.
-
-(e) All Other Applications: All other applications on the appeals calendar not otherwise identified in subdivisions (a) through (d) of 2 RCNY § 1-06.3 must follow the filing procedures set forth in 2 RCNY § 1-06.3(a), except that applications to modify or revoke a certificate of occupancy filed by the Department of Buildings or the Fire Department will not be subject to such filing deadlines.
-
-
-
-
-
-
-*§ 1-06.4 Application Referral.* ::
-
-
-In accordance with 2 RCNY § 1-10.6 and within three (3) business days after filing the application with the Board, the applicant must forward a copy of all application materials to the required individuals and entities as follows:
-
-(a) Appeal of Agency Final Determination:
-
-   (1) Except as provided in paragraph (2) of this subdivision, applicants appealing agency final determinations must forward a copy of all application material to the administrative official who signed the determination which is the subject of the appeal. In addition, for applications that involve the interpretation of the Zoning Resolution, the applicant must forward all application material to the legal counsels of the Department of Buildings and the City Planning Commission. Any person or agency filing an appeal who is not the owner of the subject property must forward a copy of all application material to the owner of the subject property.
-
-   (2) For appeals involving facilities for manufacturing, handling, or storage of hazardous materials governed by the Fire Code sections listed in Appendix B, the applicant must forward a copy of all application material to:
-
-      (i) the affected community board(s) (and borough board, if applicable);
-
-      (ii) the affected borough president;
-
-      (iii) the affected city council member;
-
-      (iv) the Commissioner of Buildings; and
-
-      (v) the Fire Commissioner.
-
-(b) Waiver pursuant to the General City Law: The applicant must forward a copy of all application material to the Department of Buildings, the affected community board(s) (and borough board, if applicable), and the affected borough president. In addition, upon the applicant's filing of an application pursuant to GCL § 35, the executive director will forward a copy of the application to the Department of Transportation, the Department of Environmental Protection, and the Fire Department for review. Upon the applicant's filing of an application pursuant to GCL § 36, the executive director will forward a copy of the application to the Fire Department for review.
-
-(c) Vested Rights: The applicant must forward a copy of all application material to the Department of Buildings, the affected community board(s) (and borough board, if applicable), the affected borough president, the affected city council member, and the City Planning Commission. Applications to renew building permits associated with vested rights applications previously granted by the Board are not subject to this requirement.
-
-(d) Modification or Revocation of a Certificate of Occupancy: The applicant must forward a copy of all application material to the owner of the subject property.
-
-(e) All Other Applications: All other applications on the A calendar not otherwise described in subdivisions (a) through (d) of 2 RCNY § 1-06.4 must follow the application referral procedures set forth in 2 RCNY § 1-06.4(a)(1). After forwarding all application material, the applicant must provide proof of service to the Board in accordance with 2 RCNY § 1-10.7. See Appendix A for a summary of all application referral requirements.
-
-
-
-
-
-
-*§ 1-06.5 Hearing Notice.* ::
-
-
-After the examiners have determined that the application is substantially complete, the Board will provide the applicant with the hearing notice and related forms at least thirty (30) days before the first scheduled hearing date. In accordance with 2 RCNY § 1-10.6, the applicant must forward a copy of the hearing notice and related forms at least twenty (20) days before the first scheduled hearing date, as follows:
-
-(a) Appeal of Agency Final Determination:
-
-   (1) Except as provided in paragraph (2) of this subdivision, the applicant must provide the hearing notice to the applicable administrative agency that signed the determination which is the subject of the appeal and, if applicable, the owner of the subject property.
-
-   (2) For appeals involving facilities for manufacturing, handling or storage of hazardous materials governed by the Fire Code sections listed in Appendix B, the applicant must forward a copy of the hearing notice and related forms to:
-
-      (i) the affected community board(s) (and borough board, if applicable);
-
-      (ii) the affected borough president;
-
-      (iii) the affected city council member;
-
-      (iv) the Fire Department; and
-
-      (v) affected property owners as defined in 2 RCNY § 1-02. The applicant must submit the hearing notice to affected property owners with instructions that if the property is a cooperative or condominium, all tenants should be notified in the manner customarily employed by the cooperative or condominium. If the subject property is occupied by multiple tenants, the applicant must submit the hearing notice to the owner or management office of the property with instructions to either post the hearing notice in the lobby of the property, or to notify all tenants and/or owners in the manner customarily employed by such owner or manager for giving notices to tenants or unit owners in the building in question. The applicant must also comply with the procedures set forth in 2 RCNY §§ 1-05.7 and 1-05.8.
-
-(b) Waiver pursuant to the General City Law: The applicant must provide the hearing notice to the Department of Buildings, the affected community board(s) (and borough board, if applicable), and the affected borough president.
-
-(c) Vested Rights: The applicant must provide the hearing notice to the Department of Buildings, the affected community board(s) (and borough board, if applicable), the affected borough president, the affected council member, and the City Planning Commission. Applications to renew building permits associated with vested rights applications previously granted by the Board are not subject to this requirement.
-
-(d) All Other Applications: All other applications on the A calendar not otherwise described in 2 RCNY § 1-06.5(a) through (c) must follow the notice procedures set forth in 2 RCNY § 1-06.5(a)(1), except for applications for the modification or revocation of a certificate of occupancy. After forwarding the hearing notice and forms to the proper entities, the applicant must provide proof of service to the Board in accordance with 2 RCNY § 1-10.7. See Appendix A for a summary of all hearing notice requirements.
 
 
 
@@ -525,186 +180,10 @@ The Special Order Calendar (SOC) consists of the following types of applications
 
 
 
-*§ 1-07.2 SOC Form.* ::
-
-
-All applications must be made on the SOC Form and must be accompanied by all the information required by such form and related instructions.
-
-
-
-
-
-
-*§ 1-07.3 Filing Period.* ::
-
-
-The application filing procedure is as follows:
-
-(a) Amendment: All applications for amendments filed pursuant to 2 RCNY § 1-07.1(a)(1) must be filed within thirty (30) days from the date of the agency determination which is the subject of the application.
-
-(b) Extension of Term: All applications for extensions of term filed pursuant to 2 RCNY § 1-07.1(a)(2) may be filed on the SOC calendar as follows:
-
-   (1) Within one (1) year before or thirty (30) days after the expiration of term: All applications filed within one (1) year before or thirty (30) days after the expiration of term may be filed on the SOC calendar.
-
-   (2) More than one (1) year before or less than two (2) years after the expiration of term: All applications filed more than one (1) year before or less than two (2) years after the expiration of term may be filed on the SOC calendar, provided that the applicant requests a waiver under this paragraph in the application. In the request for a waiver, the applicant must demonstrate that the use has been continuous since the expiration of term, and substantial prejudice would result without such a waiver.
-
-   (3) More than two (2) years after but less than ten (10) years after the expiration of term: All applications filed more than two (2) years after but less than ten (10) years after the expiration of term may be filed on the SOC calendar or BZ calendar, as follows:
-
-      (i) Applications for pre-1961 use grants, filed pursuant to ZR § 11-411 may be filed on the SOC calendar, or on the BZ calendar as a reinstatement, provided that in either case the applicant requests a waiver under this subparagraph in the application. In the request for a waiver, the applicant must demonstrate that the use has been continuous since the expiration of term, and substantial prejudice would result without such a waiver. Before filing, an applicant may request, in writing, a determination by the Chair of whether an application may be filed on the SOC calendar or on the BZ calendar as a reinstatement. If the application is filed as a reinstatement, the application will be subject to 2 RCNY §§ 1-05 et seq..
-
-      (ii) Applications for pre-1961 bulk grants or post-1961 variances and special permits, where the grant is limited to a term that is specified only as a condition in the Board's resolution, may be filed on the SOC calendar as an amendment to modify such term or condition provided that the applicant requests a waiver under this subparagraph in the application.
-
-      (iii) Applications for an extension of term of a transient parking waiver may be filed on the SOC calendar provided that the applicant requests a waiver under this subparagraph in the application.
-
-      (iv) Applications for post-1961 special permits where the grant is limited to term as specified in the Zoning Resolution, must be filed as a new special permit on the BZ calendar.
-
-   (4) More than ten (10) years after the expiration of term: All applications filed more than ten (10) years after the expiration of term must be filed as a new variance or special permit on the BZ calendar, with the following exceptions:
-
-      (i) Applications for pre-1961 use grants filed pursuant to ZR § 11-411 may be filed on the BZ calendar as a reinstatement in accordance with 2 RCNY §§ 1-05 et seq. provided that the applicant requests a waiver under this subparagraph in the application. In the request for a waiver, the applicant must demonstrate that the use has been continuous since the expiration of term, that substantial prejudice would result without such a waiver, and that the use permitted by the grant does not substantially impair the appropriate use and development of adjacent properties.
-
-      (ii) Applications for pre-1961 bulk grants that are not filed pursuant to ZR § 11-411 or post-1961 variances and special permits, where the grant is limited to a term that is specified only as a condition in the Board's resolution may be filed on the SOC calendar as an amendment to modify such term or condition provided that the applicant requests a waiver under this subparagraph in the application.
-
-      (iii) Applications for an extension of term of a transient parking waiver may be filed on the SOC calendar provided that the applicant requests a waiver under this subparagraph in the application. See Appendix C for a summary of the filing period and calendar for extension of term applications.
-
-(c) Extensions of Time to Complete Construction: All applications for an extension of time to complete construction filed pursuant to 2 RCNY § 1-07.1(a)(3) may be filed on the SOC calendar as follows:
-
-   (1) Within one (1) year before or within thirty (30) days after the expiration of the time to complete construction: All applications filed within one (1) year before or within thirty (30) days after the expiration of the time to complete construction may be filed on the SOC calendar.
-
-   (2) More than one (1) year before or less than two (2) years after the expiration of the time to complete construction: All applications for an extension of time to complete construction which are filed more than one (1) year before or less than two (2) years after the expiration of time may be filed on the SOC calendar provided that the applicant requests a waiver under this paragraph in the application.
-
-   (3) More than two (2) years after but less than four (4) years after the expiration of the time to complete construction: Applications filed more than two (2) years after but less than four (4) years after the expiration of time for pre-1961 use and bulk grants or transient parking waivers, where the time is specified only as a condition in the Board's resolution, may be filed on the SOC calendar as an amendment to modify such time period provided that the applicant requests a waiver under this paragraph in the application. Applications for an extension of time to complete construction for post-1961 variances or special permits may be filed on the SOC calendar provided that the applicant requests a waiver under this paragraph in the application.
-
-   (4) More than four (4) years after the expiration of the time to complete construction: Applications filed more than four (4) years after the expiration of time for pre-1961 use and bulk grants or transient parking waivers, where the time is specified only as a condition in the Board's resolution, may be filed on the SOC calendar as an amendment to modify such time period provided that the applicant requests a waiver under this paragraph in the application. Applications for an extension of time to complete construction for post-1961 variances or post-1961 special permits must be filed as a new variance or special permit on the BZ calendar.
-
-(d) Extensions of Time to Obtain a Certificate of Occupancy: All applications for extensions of time to obtain a certificate of occupancy pursuant to 2 RCNY § 1-07.1(a)(3) may be filed on the SOC calendar as follows:
-
-   (1) Within one (1) year before or thirty (30) days after the expiration of the time to obtain a certificate of occupancy: All applications filed within one (1) year before or thirty (30) days after the expiration of the time to obtain a certificate of occupancy may be filed on the SOC calendar.
-
-   (2) More than one (1) year before or more than thirty (30) days after the expiration of the time to obtain a certificate of occupancy: Applications filed more than one (1) year before or more than thirty (30) days after the expiration of time may be filed on the SOC calendar, provided that the applicant requests a waiver under this paragraph in the application. See Appendix D for a summary of the filing period and calendar for extension of time applications.
-
-
-
-
-
-
-*§ 1-07.4 Application Referral.* ::
-
-
-In accordance with 2 RCNY § 1-10.6 and within three (3) business days after filing the application with the Board to be heard on the SOC calendar, the applicant must forward a copy of all application material to:
-
-(a) the affected community board(s) (and borough board, if applicable);
-
-(b) the affected borough president;
-
-(c) the affected city council member;
-
-(d) the administrative official who issued the determination; and
-
-(e) the City Planning Commission. After forwarding all application material, the applicant must provide proof of service to the Board in accordance with 2 RCNY § 1-10.7. Applications for an extension of time are not subject to the requirements set forth in this subsection. See Appendix A for a summary of all application referral requirements.
-
-
-
-
-
-
-*§ 1-07.5 Community Board Review.* ::
-
-
-Within sixty (60) days after receipt of an application filed on the SOC calendar, the affected community board may hold a public hearing and submit a written recommendation on such application to the Board, or may waive in writing the holding of a public hearing. If a borough board is involved, within thirty (30) days after the submission of a recommendation or waiver by every community board in which the subject property is located, or after expiration of the time allowed for such community boards to act, the borough board may hold a public hearing and submit a written recommendation to this Board or may waive a public hearing. In accordance with 2 RCNY § 1-10.6, the community board(s) or borough board will be deemed to have received an application on the day of personal delivery or five (5) calendar days after the date of the mailing of the application. Following receipt of a recommendation or waiver from the affected community board(s) (and borough board, if applicable), or following the expiration of the time period for their review, the Board will hold a public hearing on the application and make a decision. The Board may, in its discretion, include in the record the recommendations of the affected community board(s) (or borough board) even if the recommendations are received after the applicable time period has expired.
-
-
-
-
-
-
-*§ 1-07.6 Hearing Notice.* ::
-
-
-After the examiners have determined the application to be substantially complete, the Board will provide the applicant with the hearing notice and related forms at least thirty (30) days before the first scheduled hearing date. In accordance with 2 RCNY § 1-10.6, the applicant must forward a copy of the hearing notice and related forms at least twenty (20) days before the first scheduled hearing date to:
-
-(a) the affected community board(s) (and borough board, if applicable);
-
-(b) the affected borough president;
-
-(c) the affected city council member; and
-
-(d) the City Planning Commission. After forwarding the hearing notice and forms to the proper entities, the applicant must provide proof of service to the Board in accordance with 2 RCNY § 1-10.7. Applications for an extension of time are not subject to the requirements set forth in this subsection. See Appendix A for a summary of all hearing notice requirements.
-
-
-
-
-
-
-*§ 1-07.7 Revised Application and Additional Submissions.* ::
-
-
-If, at any time, an applicant for an Amendment or an Extension of Term filed on the SOC calendar provides the Board with a revised application and/or additional submissions, the applicant must within three (3) days submit a copy of the revised application and additional submissions to the affected community board(s) (and borough board, if applicable), affected borough president, affected city council member, and the City Planning Commission. The applicant must submit a cover letter to the Board identifying the contents of the submission and note the entities which have been forwarded copies of the submission required by this subsection.
-
-If, after the community board's sixty (60) day review period, the applicant makes a substantial revision to the application, the Board, in its discretion, may consider any additional recommendations by the affected community board(s) (and borough board, if applicable), affected borough president, affected city council member, and the City Planning Commission, provided that the recommendations are related to the subject revisions and are submitted to the Board before the hearing is closed.
-
-
-
-
-
-
 *§ 1-08 City Environmental Quality Review (CEQR).* ::
 
 
 Applications for variances and special permits filed at the Board, in accordance with Mayoral Executive Order No. 91 of 1977, as amended, the Rules for City Environmental Quality Review, 62 RCNY §§ 5-01 et seq. ("CEQR"), and the State Environmental Quality Review Act regulations, 6 NYCRR Part 617, and any subsequent amendments thereto, will be subject to CEQR unless the Board determines that the application is for a Type II action and thus not subject to environmental review, or is otherwise exempt from CEQR in accordance with such regulations.
-
-
-
-
-
-
-*§ 1-08.2 Environmental Assessment Statement (EAS).* ::
-
-
-Applicants must complete the CEQR checklist provided by the Board. Pursuant to the checklist, if the application is for an action identified as a Type I or Unlisted Action, the application must be accompanied by an EAS. Applications will receive a CEQR number that is different from the calendar number, and all CEQR submissions will refer to both numbers, where applicable. Applicants may request a pre-application conference with the Board to seek their assistance in determining what information is required and the potential scope of the environmental review of the proposed action, including whether a Type II submission may be appropriate.
-
-
-
-
-
-
-*§ 1-08.3 Application Referral.* ::
-
-
-In accordance with 2 RCNY § 1-10.6, the applicant must forward a copy of any written information including, but not limited to, the Type II checklist and the EAS and any subsequent modifications to the EAS to:
-
-(a) the affected community board(s) (and borough board, if applicable);
-
-(b) the affected city council member; and
-
-(c) the affected borough president.
-
-In addition, the Board will send to the Office of Environmental Coordination (OEC) the notification of commencement of environmental review.
-
-After forwarding all material, the applicant must provide proof of service to the Board in accordance with 2 RCNY § 1-10.7.
-
-
-
-
-
-
-*§ 1-08.4 Examiners' Review.* ::
-
-
-After the applicant files the application on the appropriate calendar, the Board will review the application and will notify the applicant, in writing, whether the application is complete or whether additional information is required. The Board may require additional information from the applicant that it deems necessary to determine whether or not the action will have a significant effect on the environment.
-
-
-
-
-
-
-*§ 1-08.5 Determination of Significance and Publication of Determination.* ::
-
-
-(a) Negative Declaration: If the CEQR determination of significance is a negative declaration, the Board will issue the declaration at the time the resolution regarding the proposed action is issued, and such negative declaration will be stated in the Board's resolution.
-
-(b) Conditional Negative Declaration: Proposed conditional negative declarations will be transmitted to the applicant in advance of the Board's resolution regarding the proposed action. Upon receipt of the applicant's signature and agreement to the prescribed conditions, the Board will publish the conditional negative declaration and the EAS in the City Record and any other required publications, followed by a thirty (30) day public comment period. If, after the comment period, the Board determines that a draft Environmental Impact Statement (EIS) is not required, the Board will issue its CEQR determination concurrently with the resolution on the proposed action, and the conditional negative declaration will be stated in the resolution. If the Board determinesthat a draft EIS is required, the Board will issue a positive declaration, and a draft EIS will be required.
-
-(c) Positive Declaration: If the CEQR determination is a positive declaration then the Board will issue such determination prior to its issuance of a resolution on the proposed action. Positive declarations will be transmitted to the applicant along with a request that the applicant prepare a draft EIS, in accordance with Mayoral Executive Order No. 91 of 1977, as amended, the Rules for City Environmental Quality Review,  62 RCNY §§ 5-01 et seq. ("CEQR"), and the State Environmental Quality Review Act regulations, 6 NYCRR Part 617, and any subsequent amendments thereto. The Board's negative declarations, conditional negative declarations, and positive declarations will be circulated to the individuals and agencies required by the Rules for City Environmental Quality Review, 62 RCNY § 6-07 (City Planning Commission Review).
 
 
 
@@ -723,110 +202,10 @@ Any communication from an applicant submitted in a manner other than as describe
 
 
 
-*§ 1-09.2 Fees.* ::
-
-
-Before an application is docketed and a calendar number is assigned, the applicant must pay the prescribed filing fee in accordance with the fee schedule authorized by § 25-202 of the New York City Administrative Code. The fee must be paid in the form of a check or money order or in another form acceptable to the Board. When applicable, the applicant must also pay the prescribed City Environmental Quality Review (CEQR) fee in accordance with the fee schedule authorized by Mayoral Executive Order No. 91 of 1977, as amended, and 62 RCNY §§ 3-01(Fee for CEQR applications) and 3-02(Schedule of charges). A municipal department or agency of the City may be entitled to an exemption from Board fees pursuant to § 25-202 (Fees) of the New York City Administrative Code.
-
-
-
-
-
-
-*§ 1-09.3 Drawings and Other Exhibits.* ::
-
-
-All drawings submitted with an application must be properly titled, numbered, dimensioned, dated, drawn to scale, and must otherwise conform to the applicable instructions. All drawings must be clear and bear a legible seal and signature of a registered architect or licensed professional engineer. All drawings and other exhibits, unless otherwise accepted by the executive director, must be on 8-1/2 x 14 inch sheets or on 11 x 17 inch sheets that are folded to 8-1/2 x 11 inches.
-
-
-
-
-
-
-*§ 1-09.4 Owner's Authorization.* ::
-
-
-Every owner of record on a zoning lot which is the subject of an application must execute and submit the Board's Affidavit of Ownership and Authorization form. The form may be completed by the owner or any other entity or person legally authorized to act for such owner.
-
-If the applicant is not the owner, the applicant must submit the Affidavit of Ownership and Authorization form signed by the owner(s) of record authorizing the applicant to file the application. However, an applicant appealing a final agency determination who is not the owner of the subject property is not required to submit an Affidavit of Ownership and Authorization form.
-
-
-
-
-
-
 *§ 1-10 Application Pre-Hearing Review.* ::
 
 
 Each properly filed complete application will be numbered serially in the order received. The calendar numbers will begin anew on January 1st of each year, and will be hyphenated with the number of the year and the corresponding suffix (BZ, A, or BZY) indicating the type of application. The original calendar number will be used for an application to reopen or amend a previous case for the same property on the SOC or A calendar. In certain instances, a new calendar number may be required in lieu of the original calendar number for reinstatement applications.
-
-
-
-
-
-
-*§ 1-10.2 Examiner's Review.* ::
-
-
-After the application receives a calendar number, the designated examiner will review the application and issue a notice of comments to the applicant, and the applicant must respond with the necessary revisions to the application in a timely manner. When the examiner finds that the application is substantially complete, the applicant will be notified of the date on which the application is scheduled for public hearing.
-
-
-
-
-
-
-*§ 1-10.3 Site Inspection.* ::
-
-
-Commissioners may visit sites that are the subject of an application. The Chair may create committees of commissioners or commissioners and staff for specific site visits. Any committee appointed by the Chair will report its findings to the Board. In any application in which the Chair deems it necessary, a member of the Board may enter, inspect, and examine the premises which is the subject of the application, in accordance with Charter § 667 (Inspections).
-
-
-
-
-
-
-*§ 1-10.4 Hearing Calendar.* ::
-
-
-The Board will issue a hearing calendar at least five (5) days before the date of the scheduled hearing. The hearing calendar will identify the date and time of the hearing and list each application to be heard by calendar number, applicant, and property address. Such calendar will be posted at the Board office, in the Bulletin, and on the Board's website.
-
-
-
-
-
-
-*§ 1-10.5 Board Publication of Hearing Notice.* ::
-
-
-The Board will publish a hearing notice, including the hearing date and subject matter, for applications filed on the BZ, A, and SOC calendars in the City Record at least twenty (20) days before the hearing date.
-
-
-
-
-
-
-*§ 1-10.6 Application Referral and Hearing Notice.* ::
-
-
-The applicant must forward copies of a filed application and hearing notice to individuals and entities required by these Rules by regular mail, certified mail, express delivery service, or personal delivery.
-
-All materials required to be provided to the affected community board(s) (and borough board, if applicable), and the City Planning Commission must be addressed to the respective chairperson. Individuals or entities, including the affected community board(s) (and borough board, if applicable), will be deemed to have received a referred application on the day of personal delivery or five (5) calendar days after the date of the mailing of the application to such individuals or entities.
-
-See Appendix A for a summary of application referral and hearing notice requirements.
-
-
-
-
-
-
-*§ 1-10.7 Proof of Service for Application Referral and Hearing Notice.* ::
-
-
-The applicant must demonstrate proof of service of an application referral or hearing notice, in accordance with 2 RCNY § 1-10.6, by submitting to the Board: (1) the completed form of Proof of Notification of Hearing; and (2) a U.S. Postal Service receipt if by regular mail, a signed U.S. Postal Service receipt if by certified mail, a receipt if by express delivery service, or an affidavit of service if by personal delivery.
-
-The applicant must submit to the Board proof of service of the application referral within ten (10) days of the initial filing. The applicant must submit to the Board proof of service of the hearing notice within ten (10) days of the date of the mailing or personal delivery.
-
-See Appendix A for a summary of proof of service requirements.
 
 
 
@@ -843,216 +222,12 @@ Public hearings of the Board will be held on Tuesdays at 10 A.M. for the SOC and
 
 
 
-*§ 1-11.2 Special Hearings.* ::
-
-
-Special public hearings and special review sessions may be called by the Chair or at the request of three (3) commissioners, provided that notice is given to each commissioner at least twenty-four (24) hours before the time set for such hearing or session. Reasonable notice of the dates and subject matter to be heard will be provided to the applicants and posted at least twenty-four (24) hours in advance on the Board's website.
-
-
-
-
-
-
-*§ 1-11.3 Review Sessions.* ::
-
-
-Sessions for Board review of cases calendared for hearing will be held on the Monday preceding the calendared hearing date or as determined by the Board. The public may attend all review sessions, but may not participate.
-
-
-
-
-
-
-*§ 1-11.4 Chair and Commissioners.* ::
-
-
-The Chair, or in the absence of the Chair, the Vice Chair, will preside at all hearing and review sessions. The Chair, or in the absence of the Chair, the Vice Chair, may designate another commissioner of the Board to preside and perform the duties of the Chair at hearings or review sessions. If the Chair and Vice Chair are absent and a quorum is present, the commissioners will choose a presiding officer from among their number. Commissioners will attend review sessions and hearings in person, except that, during absence or illness a substitute may act as provided in § 25-201 (Temporary Vacancies; Filling of) of the New York City Administrative Code. Commissioners will not proceed to question or discuss an issue, put a motion or offer a resolution until they have addressed the Chair and have been recognized. During the progress of a roll call, commissioners will not leave the hearing room.
-
-
-
-
-
-
-*§ 1-11.5 Quorum and Voting.* ::
-
-
-Public hearing or review sessions will only be conducted with a quorum. A quorum of the Board will consist of three (3) commissioners. A concurring vote of at least three (3) commissioners will be necessary for a decision to grant an application or an appeal, to revoke or modify a variance, special permit or other decision of the Board, or to make, amend, or repeal a rule or regulation. If an action fails to receive the requisite three (3) votes, it will be deemed a denial. If a commissioner or commissioners are absent at the roll call and the absentee commissioner or commissioners are eligible to vote, the Chair may defer the decision to a later time.
-
-
-
-
-
-
-*§ 1-11.6 Conflict of Interest.* ::
-
-
-Commissioners and staff will abide by Chapter 68 of the New York City Charter regarding conflicts of interest, as well as any rules promulgated by the Conflicts of Interest Board.
-
-
-
-
-
-
-*§ 1-11.7 Hearing Procedure.* ::
-
-
-The Chair, or in the absence of the Chair, the Vice Chair, subject to these Rules, will decide all points of order or procedure at public hearings, unless otherwise directed by a majority of the Board in session at that time. The Chair will control the order of speakers, the admission of evidence, the time permitted for each speaker, and the general decorum of the hearing room. Generally, at the hearing, the applicant will present the argument in support of the application and respond to issues raised at the review session. The Chair may then permit testimony from elected officials, community board representatives, and the general public, in accordance with 2 RCNY § 1-11.8. The Chair may limit speakers to one (1) individual per household or tenancy within the affected area. Subject to the direction of the Board, the executive director, or his or her designee, will enforce these Rules and maintain order in the hearing room during all public hearings.
-
-
-
-
-
-
-*§ 1-11.8 Testimony.* ::
-
-
-The applicant and any individual called by the applicant may present testimony at the hearing. In applicable cases, any person who resides at, leases, or owns real property within the affected area described in 2 RCNY § 1-02, or a representative of such person, may present testimony. The Chair may permit testimony by representatives of any neighborhood, civic, business, or industry association whose members have an expertise or interest in the land use aspects of the application. The Chair may require submission of a written authorization from the organization stating the speaker's representative capacity. Any person coming forward to testify must state his or her name, address within the affected area, and/or representative capacity. Subject to the discretion of the Chair, testimony from the public may be limited to individuals or representatives of groups from the affected area.
-
-
-
-
-
-
-*§ 1-11.9 Continued and Closed Hearings.* ::
-
-
-The Board may continue the hearing to a new date for additional testimony. All scheduled submissions from all parties must be delivered to and stamped in at the Board office with the requisite number of copies.
-
-Upon motion of the Chair or any commissioner, the Board may vote to close the hearing and to permit no further testimony. In appropriate cases, the Chair may permit the record to remain open until a given date for submissions of written evidence. The Chair may also permit technical and other minor revisions to be accepted after the hearing is closed but before the vote. Factors the Board will consider in determining whether the revision is technical or minor include: whether the revision would have any material impact on the Board's findings, whether the revisions were discussed at a public session by the Board, or whether the revision is essentially an administrative correction.
-
-
-
-
-
-
-*§ 1-11.10 Late Submissions.* ::
-
-
-In order to ensure a predictable and timely review of an application, submissions may not be accepted after the date established by the Chair.
-
-
-
-
-
-
 *§ 1-12 Disposition of Applications.* ::
 
 
 A final determination of the Board will be in the form of a written resolution. Such resolution will state the rule, regulation, order, requirement, decision, or determination upon which the application has been made, and will set forth the Board's findings and conclusion. The Board may reverse, affirm, in whole or in part, or modify a rule, regulation, order, requirement, decision, or determination, or it may dismiss an application for lack of jurisdiction or prosecution, or as moot.
 
 An application must receive three (3) affirmative votes to be granted. If an application fails to receive three (3) affirmative votes, the action will be deemed denied. A resolution denying or granting any application will be formally entered on the record. If, however, a Commissioner or Commissioners are absent at the roll call and the absentee Commissioner(s) is eligible to vote, the Chair may defer the vote to a future hearing.
-
-
-
-
-
-
-*§ 1-12.2 Withdrawal.* ::
-
-
-The Board may consider a request to withdraw an application made by the applicant at any time before the Board's final determination.
-
-If the request to withdraw is made before the hearing has been closed, the Board may permit withdrawal without prejudice upon request.
-
-If the request to withdraw is made after the hearing is closed, the Board may permit withdrawal without prejudice for good cause only. If it determines that proper enforcement or public policy would thereby be served, the Board may refuse the withdrawal or it may condition the withdrawal with prejudice on the refiling of a future application for the same relief.
-
-If the request to withdraw the application is made, and a motion to vote is pending, such motion will have precedence.
-
-
-
-
-
-
-*§ 1-12.3 Dismissal.* ::
-
-
-The Board may, in its discretion, dismiss an application for failure to prosecute, with or without prejudice, depending on the circumstances of the application. Further, the Board may, at its discretion, dismiss an application where a defect in the application has not been corrected or where an incomplete application has not been completed in a timely manner. The executive director will send out a dismissal letter informing the applicant that the application will be dismissed if the requisite correction or information is not forthcoming within thirty (30) days of receipt of such letter. The Board may grant an extension to the thirty (30) day period upon request in writing for additional time to correct or complete an application, provided that the applicant presents reasonable circumstances for delay and provides a timetable for a subsequent submission. The applicant will be deemed to have received the letter five (5) business days after the date of transmittal of such letter.
-
-Dismissals will be in the form of a letter signed by the Chair or the executive director. However, any dismissal action to be taken within one (1) year after the date of mailing of the Board's notice of comments will be by a vote of the Board at a public hearing after proper notice to the applicant.
-
-
-
-
-
-
-*§ 1-12.4 Reargument.* ::
-
-
-The Board will not grant a request to reargue a case which was denied, dismissed, or approved unless the applicant shows that the Board misapprehended the relevant facts or misapplied any controlling principles of law, including the Zoning Resolution.
-
-In all cases, the request for reargument must be made on the SOC Form stating the reasons for the request, and must be accompanied by necessary supporting documents and/or plans. The Chair and executive director will schedule a hearing date when the Board will review the request for restoration to the calendar. The executive director will inform the applicant and, if different from the applicant, the owner of the subject property, of the hearing date at least twenty (20) days in advance of the public hearing. If, on a motion of the Chair adopted by three (3) affirmative votes, the Board grants a request for a reargument, the case will be placed on the appropriate calendar and scheduled for reargument.
-
-
-
-
-
-
-*§ 1-12.5 Rehearing.* ::
-
-
-The Board will not grant a request to rehear a case which was denied, dismissed, or withdrawn with prejudice unless: (1) substantial new evidence is submitted that was not available at the time of the initial hearing, (2) there is a material change in plans or circumstances, or (3) an application is filed under a different jurisdictional provision of the law.
-
-In all cases, the request for rehearing must be made on the SOC Form, must state the reasons for the request, and must be accompanied by necessary supporting documents and plans. The Chair and the executive director will schedule a hearing date when the Board will review the request for restoration to the calendar. The executive director will inform the applicant and, if different from the applicant, the owner of the subject property, of the hearing date at least twenty (20) days in advance of the public hearing. If, on motion of the Chair, adopted by three (3) affirmative votes, the request for a rehearing is granted, the case will be placed on the appropriate calendar and scheduled for a rehearing. The Board, if appropriate, may direct the applicant to file a new application with the requisite application forms and fees. All rules of notice as required by these Rules for the original hearing of the case must be followed.
-
-
-
-
-
-
-*§ 1-12.6 Board Review of Decision.* ::
-
-
-In accordance with § 666(8) of the Charter, the Board may, for good cause, on its own motion at a public hearing, review any decision that it has made and may reverse or modify such decision, but no such review will prejudice the rights of any person who has in good faith acted thereon before it is reversed or modified. The Board will hear the motion to review on the SOC calendar after notice by the Board to the applicant and the owner of the subject property. The Board at its discretion may elect to review such decision on the case's original calendar if deemed appropriate.
-
-
-
-
-
-
-*§ 1-12.7 Court Review of Decision.* ::
-
-
-Pursuant to § 25-207 (Certiorari) of the New York City Administrative Code, any person or persons jointly or severally aggrieved by any decision of the Board upon appeal or review made pursuant to § 666 of the Charter, may present to the Supreme Court of the State of New York a petition duly verified, setting forth that such decision is illegal, in whole or in part, and specifying the grounds of the illegality. Such petition must be presented to a justice of the Supreme Court of the State of New York or at a special term of the Supreme Court within thirty (30) days after the date the Board has filed a signed decision in its office.
-
-
-
-
-
-
-*§ 1-12.8 Compliance.* ::
-
-
-In accordance with § 666(11) of the Charter, the Board may, at its discretion, and upon due notice of the hearing, revoke or modify variances or special permits previously granted under the Zoning Resolution when it finds that the terms or conditions of such grants have been violated. The Board will notify the property owner or the owner's representative of a hearing at least twenty (20) calendar days before the hearing.
-
-
-
-
-
-
-*§ 1-12.9 Board Resolution.* ::
-
-
-The determination of the Board in each case will be incorporated in a resolution formally adopted and filed at the Board office. The resolution will generally be made available to the public on the day following the date of decision, and will be posted on the Board's website and published in the Bulletin.
-
-
-
-
-
-
-*§ 1-12.10 Enforcement of Board Resolution.* ::
-
-
-Officials who are charged with the enforcement of the laws, ordinances, and rules relating to buildings in the City of New York, will be bound by the resolutions issued by the Board and, before granting a permit or taking any other action, must see that there are no misstatements as to facts and that the conditions of the resolution are observed. Any administrative official who discovers any misstatement of essential information is required to notify the Board in order that it may take such actions as the circumstances require. Any member of the public who observes a violation of the conditions of any resolution of the Board may write to the Chair or executive director in order for the Board to determine if the matter should be calendared for a hearing to determine if there has been non-compliance with the resolution in accordance with 2 RCNY § 1-12.8.
-
-
-
-
-
-
-*§ 1-12.11 Minor Amendment of Previous Approvals.* ::
-
-
-After staff review, the Chair may deem minor certain amendments or corrections of previously approved applications, including changes to an approved plan or resolution, provided that such amendments, changes, or corrections substantially comply with the Board's previous approval, and the findings under which such approval was made are not affected by such amendments or corrections. Such amendments or corrections may be approved by the Chair by letter. A request for a letter approval must be made in writing explaining the changes or corrections and accompanied by all relevant information including previously approved drawings and resolution(s) and proposed drawings and resolution changes.
 
 
 
@@ -1081,48 +256,6 @@ A record of the Board's proceedings will be maintained in the Board's Bulletin. 
 
 
 
-*§ 1-13.2 Freedom of Information.* ::
-
-
-Requests for information pursuant to §§ 87 et seq. (Access to Agency Records) of the New York State Public Officers Law (Freedom of Information) must be submitted to the designated Freedom of Information Officer. A decision granting or denying access to the requested document(s) will be made in writing by the Board in accordance with the law.
-
-Appeals from a denial of a request for information must be submitted to the counsel of the Board within thirty (30) days from the date of the determination. A decision explaining in writing the reasons for further denial or providing access to the record(s) sought will be made in accordance with the law.
-
-
-
-
-
-
-*§ 1-13.3 Hearing Records.* ::
-
-
-A complete record of the public hearings will be maintained by the Board. Requests for typewritten transcripts of the record may be made to the designated Freedom of Information Officer and may be ordered by the public for a prescribed fee. After final disposition, the entire application will be retained in the Board office. All applications, except materials otherwise exempt, will, upon request to the Freedom of Information officer, be accessible to the public during normal business hours.
-
-
-
-
-
-
-*§ 1-13.4 Archival Files.* ::
-
-
-The Board will retain within its office files for all completed (i.e., approved, withdrawn, or denied) applications for approximately five (5) years. After five (5) years, the files will be stored off-site. The public may request that the Board obtain the files from the off-site location. Such request will be subject to the requisite fee requirement, in accordance with 2 RCNY § 1-09.2.
-
-
-
-
-
-
-*§ 1-13.5 Agency Website.* ::
-
-
-The Board will maintain an agency website that will provide the public with current information relating to its activities and responsibilities, including information on upcoming public hearings, filed applications, Board resolutions, application forms and instructions, and announcements of any changes of agency practices and procedures.
-
-
-
-
-
-
 *§ 1-14 Rules of Procedure and General Rules and Regulations.* ::
 
 
@@ -1133,10 +266,148 @@ The Board may adopt, amend, or repeal any of its rules or regulations. When auth
 
 
 
-*§ 1-14.2 Waiver of the Rules of Practice and Procedures.* ::
+*APPENDIX A: Summary of Application Referral, Hearing Notice, and Proof of Service Requirements* ::
 
 
-Upon written submission, an applicant may request a waiver of any section or subdivision of these Rules. To the extent authorized by law, the Board may waive rule provisions in an individual matter at any public hearing by vote of the Board in conformance with 2 RCNY § 1-11.5 either by addressing the request at the hearing or by adopting or denying a waiver through its written resolution.
+CB = Community Board; BP = Borough President; CC = City Council Member; CPC = City Planning Commission; DOB = Department of Buildings; and AO = Administrative Official who issued the determination.
+
+* If the subject property is located within more than one community board, the applicant must also refer the application and provide notice to the affected borough board.
+
+This table is intended to serve as a summary. Please see the full text of the associated rule for all requirements.
+
+
+
+
+
+
+*APPENDIX B: Fire Code Sections* for Appeals Involving Hazardous Materials* ::
+
+
+* The Fire Code Sections are found in the New York City Administrative Code Title 29, Chapter 2.
+
+
+
+
+
+
+*APPENDIX C: Summary of Filing Period and Calendar for Extension of Term Applications* ::
+
+
+1 Any request for a waiver may require the Chair's approval. If denied, the application may be filed on the BZ as a new application, except for transient parking waiver applications.
+
+2 Applications for pre-1961 bulk grants that are not filed pursuant to ZR § 11-411 or post 1961 variances and special permits, where the grant is limited to a term that is only specified as a condition in the Board's resolution, may be filed on the SOC calendar as an amendment to modify such term or condition provided that the applicant requests a waiver.
+
+This table is intended to serve as a summary. Please see the full text of the associated rule for all requirements.
+
+
+
+
+
+
+*APPENDIX D: Summary of Filing Period and Calendar for Extension of Time Applications* ::
+
+
+1 Any request for a waiver may require the Chair's approval. If denied, the application may be filed on the BZ as a new application, except for transient parking waiver applications.
+
+2 Applications for pre-1961 use and bulk grants or transient parking waivers, where the time is specified only as a condition in the Board's resolution, may be filed on the SOC calendar as an amendment to modify such time period provided that the applicant requests a waiver.
+
+This table is intended to serve as a summary. Please see the full text of the associated rule for all requirements.
+
+
+
+
+Chapter 2: Automotive Service Stations and Garages
+--------------------------------------------------
+
+
+
+*§ 2-01 Changes in Underground Storage Tank Number, Capacity or Location.* ::
+
+
+If on any automotive service station or storage garage which has been erected under a variance or permit granted by the Board, it is proposed to change the number, capacity or location of underground storage tanks in compliance with the requirements of the Administrative Code, such tank changes shall be deemed to be in substantial compliance with the terms and conditions of the Board's resolution affecting that automotive service station or garage, provided that all other requirements of the resolution in each case shall be complied with.
+
+
+
+
+Chapter 4: Doors
+--------------------------------------------------
+
+
+
+*§ 4-01 Automatic Door Operators.* ::
+
+
+All doors for which approved automatic operators which open by swinging inwardly or by sliding are used shall not constitute more than 50 percent of the required exits for any one particular building, and when such a door operator is used, only half the width of that door can be counted towards the total exit space required for a particular building. All such door operators shall meet the following requirements:
+
+(a) They shall be equipped so that in the event of power failure or fire they may be opened manually in the direction of exit travel by not more than a 30 pound force; and,
+
+(b) They may be closed manually when necessary to safeguard a means of egress; and,
+
+(c) Swinging panels shall provide a clear opening width in the 90° open position of not less than 32 inches, with no single leaf less than 24 inches in width; and,
+
+(d) When swinging panels are contained in sliding door units, they shall be operable when the sliding leaf or leaves retract to any point in the opening cycle; and,
+
+(e) They shall meet the requirements of the American National Standard for Power Operated Doors, ANSI A156.10-1979; and
+
+(f) They shall meet the requirements of ANSI/UL 325 (or ANSI/UL 1578 when it is adopted), shall be listed or labeled by a nationally recognized independent testing laboratory, and shall be under an inplant follow-up inspection service. These requirements shall be applicable to all such door operators approved in the past and those which shall be approved in the future, but shall not be applicable to particular installations of approved door operators which were installed before April 15, 1980.
+
+
+
+
+
+
+*§ 4-02 Marking of Transparent Glass Doors and Fixed Adjacent Glass Sidelights.* ::
+
+
+(a) Scope. These rules shall be applicable to all structures or any part thereof excepting one and two family structures.
+
+(b) Definitions.
+
+   Sidelights. Fixed panels of transparent glass which form part of or are immediately adjacent to and within six feet horizontally of the vertical edge of an opening in which transparent glass doors are located. For purposes of this section, a sidelight shall consist of transparent glass in which the transparent area above a reference line 18 inches above the adjacent ground, floor or equivalent surface is 80 percent or more of the remaining area of the panel above such reference line.
+
+   Transparent glass. Material predominantly ceramic in character which is not opaque and through which objects lying beyond are clearly visible. For the purpose of this section, rigid transparent plastic material shall be construed as transparent glass.
+
+   Transparent glass door. A door, manually or power actuated, fabricated of transparent glass, in which the transparent area above a reference line 18 inches above the bottom edge of the door is 80 percent or more of the remaining area of the door above such reference line.
+
+   Transparent safety glazing materials. Materials which will clearly transmit light and also minimize the possibility of cutting or piercing injuries resulting from breakage of the material. Materials covered by this definition include laminated glass, tempered glass (also known as heat-treated glass, heat-toughened glass, case-hardened glass or chemically tempered glass), wired glass, and rigid plastic.
+
+(c) Requirements. 
+
+   (1) Transparent glass doors and fixed adjacent transparent glass sidelights shall be marked in two areas on the glass surface thereof.
+
+   (2) Fixed adjacent transparent glass sidelights 20 inches or less in width with opaque stiles at least one and three-quarters inches in width shall be exempt from the marking requirements.
+
+   (3) Where the ground, floor or equivalent surface area in the path of approach to a fixed adjacent transparent glass sidelight from either side for a minimum distance of three feet from such sidelight is so arranged, constructed or designed as to deter persons from approaching such sidelight or a permanent barrier is installed in the path of approach, the sidelight shall be exempt from this requirement.
+
+   (4) Decorative pools, horticultural planting or similar installations shall be considered as indicating that the ground, floor or equivalent surface area is not a path of approach. Planters, benches and similar barriers which are securely fastened to the floor or wall to prevent their removal shall be considered as blocking the path of approach provided they shall be not less than 18 inches in height from the ground, floor or equivalent surface and extend across at least 2/3 of the total width of the glazed area of the sidelight.
+
+   (5) Fixed adjacent transparent glass sidelights which are supported by opaque sill and wall construction of at least 18 inches above the ground, floor or equivalent surface immediately adjacent shall be exempt from the marking requirements.
+
+   (6) Display windows in any establishment, building or structure which fall within the definition of a sidelight shall be exempt from the marking requirements if the top of the supporting sill and wall construction is not less than 18 inches above the ground, floor or equivalent surface immediately adjacent and the interior area is occupied with merchandise or similar displays to clearly indicate to the public that it is not a means of ingress or egress.
+
+(d) Marking locations. 
+
+   (1) One such area shall be located at least 30 inches but not more than 36 inches and the other at least 60 inches but not more than 66 inches above the ground, floor or equivalent surface below the door or sidelight. The use of horizontal separation bars, muntin bars or equivalent at least one and one-half inches in vertical dimension that extend across the total width of the glazed area and are located at least 40 inches but not more than 50 inches above the bottom of the door or sidelight is permitted in lieu of markings.
+
+   (2) The marking design shall be at least four inches in diameter if circular or four inches in its least dimension if elliptical or polygonal, or shall be at least 12 inches in horizontal dimension if the marking is less than four inches in its least dimension. In no event shall the vertical dimension of any marking including lettering be less than one and one-half inches in height. In addition to horizontal muntin bars, separation bars or equivalent, any of the following methods may be used to alert persons to the presence of transparent glass doors and fixed adjacent transparent glass sidelights in their path of movement:
+
+      (i) Chemical etching
+
+      (ii) Sand blasting
+
+      (iii) Adhesive strips not less than one and one-half inches in vertical dimension extending across at least two-thirds of the total glazed area
+
+      (iv) Decals
+
+      (v) Paint, gilding or other opaque marking materials
+
+      (vi) Opaque door pulls or push bars extending across at least two-thirds of the total width of the glazed area.
+
+(e) Replacement and new installations. 
+
+   (1) Any transparent glazing material used for replacement in existing transparent glass doors after January 1, 1969 shall be transparent safety glazing material. Transparent safety glazing material shall be used in all new transparent glass doors installed after January 1, 1969. The manufacturer's permanent identification mark denoting safety glazing materials shall be visible on the glass after installation of the door.
+
+   (2) Replacement of fixed adjacent transparent glass sidelights after January 1, 1969 shall be of transparent safety glazing material or annealed glass at least one-half inch in thickness. New fixed adjacent transparent glass sidelights installed after January 1, 1969 shall be of transparent safety glazing material or annealed glass at least one-half inch in thickness. The manufacturer's permanent identification mark denoting safety glazing material shall be visible on the glass after installation of the sidelight. Note: If safety glazing material is not immediately available as replacement glass in transparent glass doors and fixed adjacent transparent glass sidelights, temporary relief from the requirements rule may be sought by petitioning the Board of Standards and Appeals of the City of New York for a modification.
 
 
 
@@ -3270,168 +2541,6 @@ TABLE III MAXIMUM SPAN FOR SCAFFOLD PLANK
 
 
 
-Chapter 4: Doors
---------------------------------------------------
-
-
-
-*§ 4-01 Automatic Door Operators.* ::
-
-
-All doors for which approved automatic operators which open by swinging inwardly or by sliding are used shall not constitute more than 50 percent of the required exits for any one particular building, and when such a door operator is used, only half the width of that door can be counted towards the total exit space required for a particular building. All such door operators shall meet the following requirements:
-
-(a) They shall be equipped so that in the event of power failure or fire they may be opened manually in the direction of exit travel by not more than a 30 pound force; and,
-
-(b) They may be closed manually when necessary to safeguard a means of egress; and,
-
-(c) Swinging panels shall provide a clear opening width in the 90° open position of not less than 32 inches, with no single leaf less than 24 inches in width; and,
-
-(d) When swinging panels are contained in sliding door units, they shall be operable when the sliding leaf or leaves retract to any point in the opening cycle; and,
-
-(e) They shall meet the requirements of the American National Standard for Power Operated Doors, ANSI A156.10-1979; and
-
-(f) They shall meet the requirements of ANSI/UL 325 (or ANSI/UL 1578 when it is adopted), shall be listed or labeled by a nationally recognized independent testing laboratory, and shall be under an inplant follow-up inspection service. These requirements shall be applicable to all such door operators approved in the past and those which shall be approved in the future, but shall not be applicable to particular installations of approved door operators which were installed before April 15, 1980.
-
-
-
-
-
-
-*§ 4-02 Marking of Transparent Glass Doors and Fixed Adjacent Glass Sidelights.* ::
-
-
-(a) Scope. These rules shall be applicable to all structures or any part thereof excepting one and two family structures.
-
-(b) Definitions.
-
-   Sidelights. Fixed panels of transparent glass which form part of or are immediately adjacent to and within six feet horizontally of the vertical edge of an opening in which transparent glass doors are located. For purposes of this section, a sidelight shall consist of transparent glass in which the transparent area above a reference line 18 inches above the adjacent ground, floor or equivalent surface is 80 percent or more of the remaining area of the panel above such reference line.
-
-   Transparent glass. Material predominantly ceramic in character which is not opaque and through which objects lying beyond are clearly visible. For the purpose of this section, rigid transparent plastic material shall be construed as transparent glass.
-
-   Transparent glass door. A door, manually or power actuated, fabricated of transparent glass, in which the transparent area above a reference line 18 inches above the bottom edge of the door is 80 percent or more of the remaining area of the door above such reference line.
-
-   Transparent safety glazing materials. Materials which will clearly transmit light and also minimize the possibility of cutting or piercing injuries resulting from breakage of the material. Materials covered by this definition include laminated glass, tempered glass (also known as heat-treated glass, heat-toughened glass, case-hardened glass or chemically tempered glass), wired glass, and rigid plastic.
-
-(c) Requirements. 
-
-   (1) Transparent glass doors and fixed adjacent transparent glass sidelights shall be marked in two areas on the glass surface thereof.
-
-   (2) Fixed adjacent transparent glass sidelights 20 inches or less in width with opaque stiles at least one and three-quarters inches in width shall be exempt from the marking requirements.
-
-   (3) Where the ground, floor or equivalent surface area in the path of approach to a fixed adjacent transparent glass sidelight from either side for a minimum distance of three feet from such sidelight is so arranged, constructed or designed as to deter persons from approaching such sidelight or a permanent barrier is installed in the path of approach, the sidelight shall be exempt from this requirement.
-
-   (4) Decorative pools, horticultural planting or similar installations shall be considered as indicating that the ground, floor or equivalent surface area is not a path of approach. Planters, benches and similar barriers which are securely fastened to the floor or wall to prevent their removal shall be considered as blocking the path of approach provided they shall be not less than 18 inches in height from the ground, floor or equivalent surface and extend across at least 2/3 of the total width of the glazed area of the sidelight.
-
-   (5) Fixed adjacent transparent glass sidelights which are supported by opaque sill and wall construction of at least 18 inches above the ground, floor or equivalent surface immediately adjacent shall be exempt from the marking requirements.
-
-   (6) Display windows in any establishment, building or structure which fall within the definition of a sidelight shall be exempt from the marking requirements if the top of the supporting sill and wall construction is not less than 18 inches above the ground, floor or equivalent surface immediately adjacent and the interior area is occupied with merchandise or similar displays to clearly indicate to the public that it is not a means of ingress or egress.
-
-(d) Marking locations. 
-
-   (1) One such area shall be located at least 30 inches but not more than 36 inches and the other at least 60 inches but not more than 66 inches above the ground, floor or equivalent surface below the door or sidelight. The use of horizontal separation bars, muntin bars or equivalent at least one and one-half inches in vertical dimension that extend across the total width of the glazed area and are located at least 40 inches but not more than 50 inches above the bottom of the door or sidelight is permitted in lieu of markings.
-
-   (2) The marking design shall be at least four inches in diameter if circular or four inches in its least dimension if elliptical or polygonal, or shall be at least 12 inches in horizontal dimension if the marking is less than four inches in its least dimension. In no event shall the vertical dimension of any marking including lettering be less than one and one-half inches in height. In addition to horizontal muntin bars, separation bars or equivalent, any of the following methods may be used to alert persons to the presence of transparent glass doors and fixed adjacent transparent glass sidelights in their path of movement:
-
-      (i) Chemical etching
-
-      (ii) Sand blasting
-
-      (iii) Adhesive strips not less than one and one-half inches in vertical dimension extending across at least two-thirds of the total glazed area
-
-      (iv) Decals
-
-      (v) Paint, gilding or other opaque marking materials
-
-      (vi) Opaque door pulls or push bars extending across at least two-thirds of the total width of the glazed area.
-
-(e) Replacement and new installations. 
-
-   (1) Any transparent glazing material used for replacement in existing transparent glass doors after January 1, 1969 shall be transparent safety glazing material. Transparent safety glazing material shall be used in all new transparent glass doors installed after January 1, 1969. The manufacturer's permanent identification mark denoting safety glazing materials shall be visible on the glass after installation of the door.
-
-   (2) Replacement of fixed adjacent transparent glass sidelights after January 1, 1969 shall be of transparent safety glazing material or annealed glass at least one-half inch in thickness. New fixed adjacent transparent glass sidelights installed after January 1, 1969 shall be of transparent safety glazing material or annealed glass at least one-half inch in thickness. The manufacturer's permanent identification mark denoting safety glazing material shall be visible on the glass after installation of the sidelight. Note: If safety glazing material is not immediately available as replacement glass in transparent glass doors and fixed adjacent transparent glass sidelights, temporary relief from the requirements rule may be sought by petitioning the Board of Standards and Appeals of the City of New York for a modification.
-
-
-
-
-Chapter 6: Elevators
---------------------------------------------------
-
-
-
-*§ 6-01 Elevator Readiness and Operator Availability to Assist in Fire Department Access During Hours When the Building is Normally Closed.* ::
-
-
-In a building over 150 feet in height protected throughout with an approved sprinkler system having connection to Fire Headquarters through an approved Central Station, there may be, in substitution for the requirements of Administrative Code §§ 27-989 and 27-4270, a service maintained by a responsible company, organization or agency hereinafter referred to as Agency, which shall maintain one or more offices, as hereinafter provided, for the purpose of providing elevator-in-readiness service located in the vicinity to assure prompt service as hereinafter required to the satisfaction of the Fire Commissioner. The number and location of Agency offices shall be determined by the number and location of buildings being serviced within the area of this section in Manhattan. The area in Manhattan in which owners of buildings may apply for a variance under the terms of this section is limited to 23rd Street on the south, 42nd Street on the north, Third Avenue on the east, and Tenth Avenue on the west. This area is divided, for the purposes of Fire Department response evaluations into a North and South Zone along 34th Street from Third Avenue to Tenth Avenue. A minimum of two offices shall be required for any Agency serving buildings within both the North and South Zones. Such agencies serving buildings in the North and South Zones shall establish a minimum of one office in each Zone, located to the satisfaction of the Fire Commissioner. Every application for a variance under this section shall be evaluated by the Fire Commissioner for acceptable response times by the agency providing service and he shall report his findings to the Board. In such offices there shall be private direct lines connected to all approved central stations and the Agency shall contract with all approved central stations to the end that such stations shall notify the Agency immediately via the above-required telephone of any alarm shown on their board indicating sprinkler action during the hours when the building is normally not open and elevators not manned. The Agency shall provide two elevator operators in each office on each shift who shall have no duties other than the elevator-in-readiness service.
-
-Said employees will work the following hours:
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - Monday
-      -  – 10:00 P.M.
-      -  – 7:00 A.M.
-    * - Tuesday
-      -  – 10:00 P.M.
-      -  – 7:00 A.M.
-    * - Wednesday
-      -  – 10:00 P.M.
-      -  – 7:00 A.M.
-    * - Thursday
-      -  – 10:00 P.M.
-      -  – 7:00 A.M.
-    * - Friday
-      -  – 10:00 P.M.
-      -  – 7:00 A.M.
-    * - Saturday
-      -  –   8:00 P.M.
-      - to Monday 7:00 A.M.
-    * - Holidays
-      -  –   8:00 P.M.
-      - on holiday eve to
-    * -  
-      -  –   7:00 A.M.
-      - on day after holiday
-~
-
- 
-
-The foregoing schedule calls for a total of 160 hours a week. The elevator operators shall be available to respond immediately upon receipt of an alarm. The Agency shall submit an affidavit to the Fire Commissioner listing the name of any employee designated as an elevator-in-readiness operator and attesting that said employee:
-
-(a) Has been properly trained as an elevator-in-readiness operator, has working knowledge in the emergency use of elevators and meets the requirements of § 27-1005 of the Administrative Code.
-
-(b) Can speak and understand the English language.
-
-(c) Has knowledge of response routes to buildings serviced by the Agency.
-
-(d) Is familiar with each premises to which they respond.
-
-(e) Is knowledgeable in the use of the mobile radio.
-
-When the Agency receives a telephone notice of alarm from a central station, it shall immediately dispatch a qualified elevator operator with keys to the building and to the elevator who shall open the building and place the elevator in operating condition and assist the Fire Department in gaining access to any portion of the building. Such elevator operator shall have for his use a motor vehicle furnished by such Agency kept in a building or open lot or street within 100 feet of the office of the Agency. Such motor vehicle shall be one of two maintained by the Agency at each office exclusively for responding to alarms and shall be equipped with mobile radios capable of receiving and transmitting with their office. In the office of the Agency at least two elevator operators shall be available to respond to alarms. There shall be a key board in each office with keys to the entrance door and elevator kept properly tagged for all buildings being served by the Agency.
-
-In the event there are several elevators in a building, the owner shall specify, subject to the approval of the Fire Department and the Board, which elevator or elevators, not exceeding two, shall be available under this service and such available elevator or elevators shall be parked at the first floor. Hoistway doors leading thereto shall be equipped with a parking lock or other device satisfactory to the Department of Buildings, so arranged as to prevent the opening of the doors from the landing side with the service key unless the car is at the landing and such key shall open no other door. A duplicate of such parking lock key shall be maintained in a break glass box in the lobby adjacent to such available elevators.
-
-Power for available elevators shall be on at all times, controlled by a switch in the car and there shall be installed at the main power switch in the main panel board, or in the motor room, a disconnecting switch so arranged that the switch can be readily disconnected for service, repair and inspection, and in any emergency. To accomplish this, a standard approved type cabinet switch shall be used and the cabinet and projecting handle for the manual application of the switch shall be locked in a closed position with a key to the lock contained in a break-glass box located adjacent to the switch with a sign conspicuously displayed on the switch cabinet cover that such switch is locked in a closed position in accordance with this section and that the key located in the adjacent break-glass box may be used to obtain access to such switch for repair, service and inspection purposes only or in the event of emergency.
-
-Each building subject to the provisions of this section shall be inspected by the Agency at least twice each week and records kept of such inspections; and that at such inspections the elevator doors, keys and other equipment pertaining to the operation of the service shall be examined to maintain safe conditions. In order to insure familiarity with, and knowledge of each building, these inspections shall be the responsibility of, and shall be carried out by those employees who have been designated as qualified elevator operators whose duties are responding to alarms in accordance with this section. The inspections shall be conducted after the normal business hours of the building.
-
-The Agency shall keep such records and forward reports of its service as the Fire Commissioner shall require.
-
-In the event an Agency providing the response service is to be changed, the request for change shall be in the form of an application to the Board of Standards and Appeals to amend a previous resolution relating to the specific building where a change in the agency providing the response service is to take place.
-
-A copy of the application to amend shall be submitted to the Fire Department at the time of filing with the Board.
-
-The terms of this section shall be applied only upon the filing of an appeal by an owner of a building of the type and within the area described, for a variance based on a decision of the Fire Commissioner and favorable action taken by the Board.
-
-In the event the owner of a premises which is subject to a variance conditioned upon the terms of this section discontinues the service with the Agency, the Agency shall immediately notify the Fire Commissioner in writing. The term of variance granted hereunder shall not exceed ten (10) years from the date of the variance. During such term, the Board reserves the right to amend the requirements.
-
-
-
-
 Chapter 5: Dry Cleaning Establishments
 --------------------------------------------------
 
@@ -3847,6 +2956,85 @@ In connection with Article II, § 4, Subsection 53, Subdivision (a) of the Zonin
 (k) Penalties. Any violation of these rules shall be subject to the penalties prescribed in the Zoning Resolution therefor, in addition to other penalties prescribed by law.
 
 (l) Severability. If any term, part or provision of any of the aforesaid rules shall be held unconstitutional or ineffective in whole or in part, such determination shall not be deemed to invalidate the remaining terms, parts or provisions of these rules.
+
+
+
+
+Chapter 6: Elevators
+--------------------------------------------------
+
+
+
+*§ 6-01 Elevator Readiness and Operator Availability to Assist in Fire Department Access During Hours When the Building is Normally Closed.* ::
+
+
+In a building over 150 feet in height protected throughout with an approved sprinkler system having connection to Fire Headquarters through an approved Central Station, there may be, in substitution for the requirements of Administrative Code §§ 27-989 and 27-4270, a service maintained by a responsible company, organization or agency hereinafter referred to as Agency, which shall maintain one or more offices, as hereinafter provided, for the purpose of providing elevator-in-readiness service located in the vicinity to assure prompt service as hereinafter required to the satisfaction of the Fire Commissioner. The number and location of Agency offices shall be determined by the number and location of buildings being serviced within the area of this section in Manhattan. The area in Manhattan in which owners of buildings may apply for a variance under the terms of this section is limited to 23rd Street on the south, 42nd Street on the north, Third Avenue on the east, and Tenth Avenue on the west. This area is divided, for the purposes of Fire Department response evaluations into a North and South Zone along 34th Street from Third Avenue to Tenth Avenue. A minimum of two offices shall be required for any Agency serving buildings within both the North and South Zones. Such agencies serving buildings in the North and South Zones shall establish a minimum of one office in each Zone, located to the satisfaction of the Fire Commissioner. Every application for a variance under this section shall be evaluated by the Fire Commissioner for acceptable response times by the agency providing service and he shall report his findings to the Board. In such offices there shall be private direct lines connected to all approved central stations and the Agency shall contract with all approved central stations to the end that such stations shall notify the Agency immediately via the above-required telephone of any alarm shown on their board indicating sprinkler action during the hours when the building is normally not open and elevators not manned. The Agency shall provide two elevator operators in each office on each shift who shall have no duties other than the elevator-in-readiness service.
+
+Said employees will work the following hours:
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - Monday
+      -  – 10:00 P.M.
+      -  – 7:00 A.M.
+    * - Tuesday
+      -  – 10:00 P.M.
+      -  – 7:00 A.M.
+    * - Wednesday
+      -  – 10:00 P.M.
+      -  – 7:00 A.M.
+    * - Thursday
+      -  – 10:00 P.M.
+      -  – 7:00 A.M.
+    * - Friday
+      -  – 10:00 P.M.
+      -  – 7:00 A.M.
+    * - Saturday
+      -  –   8:00 P.M.
+      - to Monday 7:00 A.M.
+    * - Holidays
+      -  –   8:00 P.M.
+      - on holiday eve to
+    * -  
+      -  –   7:00 A.M.
+      - on day after holiday
+~
+
+ 
+
+The foregoing schedule calls for a total of 160 hours a week. The elevator operators shall be available to respond immediately upon receipt of an alarm. The Agency shall submit an affidavit to the Fire Commissioner listing the name of any employee designated as an elevator-in-readiness operator and attesting that said employee:
+
+(a) Has been properly trained as an elevator-in-readiness operator, has working knowledge in the emergency use of elevators and meets the requirements of § 27-1005 of the Administrative Code.
+
+(b) Can speak and understand the English language.
+
+(c) Has knowledge of response routes to buildings serviced by the Agency.
+
+(d) Is familiar with each premises to which they respond.
+
+(e) Is knowledgeable in the use of the mobile radio.
+
+When the Agency receives a telephone notice of alarm from a central station, it shall immediately dispatch a qualified elevator operator with keys to the building and to the elevator who shall open the building and place the elevator in operating condition and assist the Fire Department in gaining access to any portion of the building. Such elevator operator shall have for his use a motor vehicle furnished by such Agency kept in a building or open lot or street within 100 feet of the office of the Agency. Such motor vehicle shall be one of two maintained by the Agency at each office exclusively for responding to alarms and shall be equipped with mobile radios capable of receiving and transmitting with their office. In the office of the Agency at least two elevator operators shall be available to respond to alarms. There shall be a key board in each office with keys to the entrance door and elevator kept properly tagged for all buildings being served by the Agency.
+
+In the event there are several elevators in a building, the owner shall specify, subject to the approval of the Fire Department and the Board, which elevator or elevators, not exceeding two, shall be available under this service and such available elevator or elevators shall be parked at the first floor. Hoistway doors leading thereto shall be equipped with a parking lock or other device satisfactory to the Department of Buildings, so arranged as to prevent the opening of the doors from the landing side with the service key unless the car is at the landing and such key shall open no other door. A duplicate of such parking lock key shall be maintained in a break glass box in the lobby adjacent to such available elevators.
+
+Power for available elevators shall be on at all times, controlled by a switch in the car and there shall be installed at the main power switch in the main panel board, or in the motor room, a disconnecting switch so arranged that the switch can be readily disconnected for service, repair and inspection, and in any emergency. To accomplish this, a standard approved type cabinet switch shall be used and the cabinet and projecting handle for the manual application of the switch shall be locked in a closed position with a key to the lock contained in a break-glass box located adjacent to the switch with a sign conspicuously displayed on the switch cabinet cover that such switch is locked in a closed position in accordance with this section and that the key located in the adjacent break-glass box may be used to obtain access to such switch for repair, service and inspection purposes only or in the event of emergency.
+
+Each building subject to the provisions of this section shall be inspected by the Agency at least twice each week and records kept of such inspections; and that at such inspections the elevator doors, keys and other equipment pertaining to the operation of the service shall be examined to maintain safe conditions. In order to insure familiarity with, and knowledge of each building, these inspections shall be the responsibility of, and shall be carried out by those employees who have been designated as qualified elevator operators whose duties are responding to alarms in accordance with this section. The inspections shall be conducted after the normal business hours of the building.
+
+The Agency shall keep such records and forward reports of its service as the Fire Commissioner shall require.
+
+In the event an Agency providing the response service is to be changed, the request for change shall be in the form of an application to the Board of Standards and Appeals to amend a previous resolution relating to the specific building where a change in the agency providing the response service is to take place.
+
+A copy of the application to amend shall be submitted to the Fire Department at the time of filing with the Board.
+
+The terms of this section shall be applied only upon the filing of an appeal by an owner of a building of the type and within the area described, for a variance based on a decision of the Fire Commissioner and favorable action taken by the Board.
+
+In the event the owner of a premises which is subject to a variance conditioned upon the terms of this section discontinues the service with the Agency, the Agency shall immediately notify the Fire Commissioner in writing. The term of variance granted hereunder shall not exceed ten (10) years from the date of the variance. During such term, the Board reserves the right to amend the requirements.
 
 
 

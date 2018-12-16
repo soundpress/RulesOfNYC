@@ -1,237 +1,47 @@
-Title 41: Department of Juvenile Justice
+Title 42: Department of Probation
 ===================================================
 
-Chapter 1: Compliance With FOIL
+Chapter 1: Procedure For Obtaining Pre-Sentence Reports
 --------------------------------------------------
 
 
 
-*§ 1-01 Purpose and Scope.* ::
+*§ 1-01 Requests for Records.* ::
 
 
-(a) The people's right to know the process of government decision-making and the documents and statistics leading to determinations is basic to our society. Access to such information should not be thwarted by shrouding it with the cloak of secrecy or confidentiality.
+The request for such records shall be in writing, indicating the case name and appellate court where pending, submitted by the subject-defendant, counsel on appeal, or the Assistant District Attorney, or by order of the sentencing court or by subpoena and directed to the New York City Department of Probation, Office of the General Counsel, 115 Leonard Street, New York, N.Y. 10013. In order to identify the correct records, the request shall also include the following information: Defendant's full name.
 
-(b) These regulations provide information concerning the procedures by which records may be obtained.
+NYSIS number.
 
-(c) Personnel shall furnish to the public the information and records required by the Freedom of Information Law, as well as records otherwise available by law.
+Indictment or Docket number.
 
-(d) Any conflicts among laws governing public access to records shall be constructed in favor of the widest possible availability of public records.
+County of conviction.
 
+Sentence received, date and name of judge.
 
+The request should also include whenever possible the following:
 
+Aliases used by defendant.
 
+If sentenced to probation, the county and name of supervising officer.
 
+If sentenced to a term of imprisonment, the name and address of the facility where served and the inmate identification number.
 
-*§ 1-02 Designation of Records Access Officer.* ::
+Defendant's date of birth.
 
 
-(a) Commissioner Rose W. Washington is responsible for insuring compliance with the regulations herein, and designates the following person as Records Access Officer:
 
-    Kay C. Murray, Esq., Counsel Department of Juvenile Justice 365 Broadway New York, NY 10013 (212) 925-7779, Ext. 211
 
-(b) The Records Access Officer is responsible for insuring appropriate agency response to public requests for access to records.
 
-(c) Records Access Officer shall insure that personnel:
 
-   (1) Maintain a reasonably detailed current subject matter list of all records in the possession of the agency, whether or not such records are available for inspection and copying pursuant to the Freedom of Information Law. The list shall be of sufficient detail to permit identification by the public of categories of records. The subject matter list shall be updated not less than twice per year and the date of the most recent revision of the list shall appear on its first page;
+*§ 1-02 Production of Records.* ::
 
-   (2) Assist the requester in identifying requested records, if necessary;
 
-   (3) Upon locating the records, take one of the following actions:
+(a) Basic procedure. Upon receipt of a proper request, as indicated above, the Department of Probation shall cause three copies of the pre-sentence investigation report to be forwarded to the appropriate appellate court. Said records may then be obtained from the Office of the Clerk of that court. Under no circumstances will the Department of Probation release pre-sentence investigation reports directly to any defendant or attorney. CPL 390.50 provides that probation records are confidential, and are available only for purposes of initial sentencing and upon appeal, and that in those instances "the court shall release" the records.
 
-      (i) make records available for inspection or,
+(b) Time of requests for production. Requests for probation records should be made as far in advance of the date for perfection of the appeal as is possible. Cases which are two or more years old are archived and take a minimum of three to four weeks to locate and forward to the appellate court. Some take longer.
 
-      (ii) deny access to the records in whole or in part and explain in writing the reasons therefore.
-
-   (4) Upon request for copies of records, arrange to make copies available on payment of or offer to pay the established fee;
-
-   (5) Upon request, certify that a record is a true copy; and
-
-   (6) Upon failure to locate records, certify that:
-
-      (i) the Department of Juvenile Justice is not the custodian for such records, or
-
-      (ii) the records of which the Department of Juvenile Justice is a custodian cannot be found after diligent search.
-
-(d) The Records Access Officer shall retain a file copy of each writing granting, denying or acknowledging a request pursuant to 41 RCNY § 1-07(c) and shall promptly forward to the NYC Law Department a copy of each denial.
-
-
-
-
-
-
-*§ 1-03 Location.* ::
-
-
-Records shall be available for public inspection and copying at:
-
-Department of Juvenile Justice 365 Broadway New York, NY 10013 (212) 925-7779
-
-
-
-
-
-
-*§ 1-04 Hours for Public Inspection.* ::
-
-
-Requests for public access to records shall be accepted and records produced during all hours regularly open for business. These hours are: 9 a.m. – 5 p.m.
-
-
-
-
-
-
-*§ 1-05 Subject Matter List.* ::
-
-
-(a) The Records Access Officer shall maintain a reasonably detailed current list by subject matter of all records in the possession of the agency, whether or not records are available pursuant to Subdivision two of Section eighty-seven of the Public Officers Law.
-
-(b) The subject matter list shall be sufficiently detailed to permit identification of the category of the record sought.
-
-
-
-
-
-
-*§ 1-06 Records Not Subject to FOIL Requests.* ::
-
-
-The following records are specifically excluded from coverage under these regulations and public access may be denied to records or portions thereof that:
-
-(a) Are specifically exempted from disclosure by state or federal statute;
-
-(b) If disclosed would constitute an unwarranted invasion of personal privacy under the provision of Subdivision two of Section eighty-nine of FOIL;
-
-(c) If disclosed would impair present or imminent contract awards or collective bargaining negotiations;
-
-(d) Are trade secrets or are maintained for the regulation of commercial enterprise which if disclosed would cause substantial injury to the competitive position of the subject enterprise;
-
-(e) Are compiled for law enforcement purposes and which, if disclosed, would:
-
-   (1) interfere with law enforcement investigations or judicial proceedings;
-
-   (2) deprive a person of a right to a fair trial or impartial adjudication;
-
-   (3) identify a confidential source or disclose confidential information relating to a criminal investigation; or
-
-   (4) reveal criminal investigative techniques or procedures, except routine techniques and procedures.
-
-(f) Records that would endanger the life or safety of any person;
-
-(g) Records that are inter-agency or intra-agency materials that are not statistical or factual tabulations or data, or instructions to staff that affect the public, or final agency police determinations;
-
-(h) Records that are examination questions or answers which are requested prior to the final administration of the questions; or
-
-(i) Records that are computer access codes. The Records Access Officer shall examine requests to ascertain if the requested records may be exempted as per this statute.
-
-
-
-
-
-
-*§ 1-07 Procedures for Making Requests, Responses.* ::
-
-
-(a) Any request to inspect and/or copy records shall be made in writing and addressed to the Records Access Officer of the agency. The requests shall reasonably describe the record or records sought and shall, whenever possible, supply information regarding dates, file designations or other information which will enable the Records Access Officer to identify the records sought.
-
-(b) Any present or former DJJ employee who wishes to review his or her personnel file, should submit such request on the pre-printed agency form designed for that purpose. A supply of that form shall be available at the DJJ Personnel Office and at the Spofford Personnel Office. The Personnel Director may handle these routine requests without the Records Access Officer. A copy of the request form shall be retained in the employee's personnel file.
-
-(c) A response shall be given regarding any request reasonably describing the record or records sought within five business days of receipt of the request.
-
-(d) If the Records Access Officer does not provide or deny access to the record sought within five business days of receipt of a request, he or she shall furnish a written acknowledgment of receipt of the request and a statement of the approximate date when the request will be granted or denied.
-
-
-
-
-
-
-*§ 1-08 Denial of Access to Records.* ::
-
-
-Denial of access to records shall be in writing stating the reason therefore and advising the requester of the right to appeal to the individual or body established to hear appeals.
-
-
-
-
-
-
-*§ 1-09 Procedure for Appeals.* ::
-
-
-(a) When a request for inspection has been denied in writing in whole or in part by the Records Access Officer, the requesting party shall have thirty days after receipt of the denial within which to appeal. An appeal shall be in writing, addressed to the agency's Appeals Officer. The following person shall hear appeals for denial of access to records under the Freedom of Information Law:
-
-   Rose W. Washington, Commissioner Department of Juvenile Justice 365 Broadway New York, NY 10013 (212) 925-7779 Ext. 201
-
-(b) The time for deciding an appeal by the Appeals Officer shall commence upon receipt of a written appeal identifying:
-
-   (1) the date of the appeal;
-
-   (2) the date and location of the request for records;
-
-   (3) the name of the Records Access Officer who denied the request;
-
-   (4) the records to which the requester was denied access;
-
-   (5) the date of the denial;
-
-   (6) the name and return address of the requester.
-
-(c) The Appeals Officer shall transmit to the NYC Law Department and the Committee on Public Access to Records, Department of State, 162 Washington Avenue, Albany, New York, 12231, copies of all appeals upon their receipt.
-
-(d) The Appeals Officer shall inform the appellant and the Committee on Public Access to Records of her determination in writing within ten business days of receipt of an appeal. The determination shall be transmitted to the Committee on Public Access to Records in the same manner as set forth in subdivision (c) of this section.
-
-(e) Determination affirming denials shall state the grounds for withholding of the requested records and that judicial review of the denial may be obtained in a proceeding under Article 78 of the Civil Practice Law and Rules commenced within four months after determination of the appeal.
-
-
-
-
-
-
-*§ 1-10 Fees.* ::
-
-
-(a) There shall be no fee charged for:
-
-   (1) inspection of records;
-
-   (2) search for records; or
-
-   (3) any certification pursuant to this part.
-
-(b) Copies of records shall be provided for a fee of $.25 per page not exceeding 9 × 15 inches or the actual cost of duplication, if greater. The Records Access Officer shall ensure that the fee is collected or may, at her discretion, waive the fee.
-
-(c) Payment for copying shall be made by check or money order payable to the City of New York and shall be made upon delivery of the copies to the person requesting them.
-
-
-
-
-
-
-*§ 1-11 Public Notice.* ::
-
-
-A notice containing the title or name and business address of the Records Access Officer and Appeals Officer, and the time and location where records can be seen or copied shall be posted in a conspicuous location wherever records are kept.
-
-
-
-
-
-
-*§ 1-12 Removal of Records.* ::
-
-
-In no case shall the agency permit the removal of agency records from agency premises by a requesting party.
-
-
-
-
-
-
-*§ 1-13 Severability.* ::
-
-
-If any provision of these regulations or the application thereof to any person or circumstances is adjudged invalid by a court of competent jurisdiction, such judgment shall not affect or impair the validity of the other provisions of these regulations or the application thereof to other persons and circumstances.
+(c) Failure to produce records. It is the responsibility of the requesting party to ascertain whether the probation records have reached the appellate court. No notice will be sent by the Department of Probation. However, if the appellate court indicates that the records have not been received in a reasonable time, further inquiries should be directed either in writing or by telephone to the New York City Department of Probation, Office of the General Counsel, (212) 374-3718, 115 Leonard Street, New York, N.Y. 10013.
 
 
 
@@ -241,119 +51,79 @@ Chapter 2: Adjudications
 
 
 
-*§ 2-01 Conducted by the Office of Administrative Trials and Hearings.* ::
+*§ 2-01 Fitness and Discipline Adjudications of Department of Probation Em- ployees.* ::
 
 
-Pursuant to the New York City Charter, §§ 1041 and 1046-48, the Department of Juvenile Justice has determined that adjudications shall be conducted by the Office of Administrative Trials and Hearings.
-
-
-
-
-
-
-*§ 2-02 Findings of Fact and Decisions.* ::
-
-
-Adjudications arising under § 75 of the Civil Service Law and the Citywide collective bargaining agreement, if referred to the Office of Administrative Trials and Hearings, shall be conducted by the Office of Administrative Trials and Hearings. The OATH Administrative Law Judge shall make written proposed findings of fact and recommend decisions.
+New York City Department of Probation adjudications regarding the fitness and discipline of agency employees will be conducted by the Office of Administrative Trials and Hearings. After conducting an adjudication and analyzing all testimony and other evidence, the hearing officer shall make written proposed findings of fact and recommend decisions, which shall be reviewed and finally determined by the Commissioner of the Department of Probation.
 
 
 
 
-Chapter 3: Guidelines For Continuity and Provision of Medical Care
+Chapter 3: Fees
 --------------------------------------------------
 
 
 
-*§ 3-01 Purpose.* ::
+*§ 3-01 Probation Administrative Fee.* ::
 
 
-(a)  It is the treatment philosophy of the Department of Juvenile Justice ("the Department" or "DJJ") to seek the active participation of the resident, his/her parent(s) or legal guardian(s), and previous health care providers, in the care and treatment of residents in the custody of the Department.
+(a) General. Pursuant to section 257-c of the Executive Law and section 9-201 of the Administrative Code of the City of New York, any individual currently serving or who shall be sentenced to a period of probation in New York City upon conviction of any crime under article thirty-one of the Vehicle and Traffic Law shall pay an administrative fee of thirty dollars per month to the New York City Department of Probation.
 
-(b) DJJ recognizes that, as the resident's primary medical provider while in the Department's custody, it is in the best interest of the resident to have accurate and current information concerning the resident's medical and psychiatric cre and medication in order to provide continuity of care.
+(b) Collection of the Probation Administrative Fee. The probation administrative fee shall be paid on the first of every month, commencing on November 1, 2010. The fee shall be payable by money order, certified check or cashier's check made out to the New York City Department of Probation or any electronic, credit card or debit card payment method that the New York City Department of Probation develops the capacity to accept. The probationer shall include his or her case name and case number on the money order or check. The fee shall be sent to:
 
-(c) As part of providing a continuum of appropriate health care services, DJJ endorses the principle of continuing previously provided medical and psychiatric are, including medications, in accordance with the procedures set forth below. Medical and psychiatric care and medication which the resident was receiving prior to admission to DJJ shall continue unless modified in accordance with the procedures set forth below.
+New York City Department of Probation 33 Beaver Street, 21st Floor New York, New York 10004 Attn: Financial Operations
 
+(c) Enforcement. Failure to pay the probation administrative fee in full, unless the fee has been waived pursuant to subdivision d of this section, shall subject the probationer to collection pursuant to all applicable laws.
 
+(d) Waiver.
 
+   (1) Definitions. As used in this subdivision, the following terms shall have the following meanings:
 
+      Department. "Department" means the Department of Probation.
 
+      Dependent. "Dependent" means a person who resides in the probationer's household and has any of the following relationships with the probationer:
 
-*§ 3-02 Parental Involvement.* ::
+      (i) Husband, wife, or registered domestic partner;
 
+      (ii) Minor child of the probationer or sibling of the minor child who is also a minor child (including half and step-siblings); or
 
-(a)  Upon a youth's admission to a Department facility, DJJ shall promptly seek to have the parent/legal guardian execute appropriate consent forms authorizing routine medical treatment.
+      (iii) Non-minor child of the probationer or a descendant of such a child, brother or sister of the probationer or his or her descendant, or parent or grandparent of the probationer:
 
-(b) Whenever, in the course of non-emergency or routine medical care, DJJ proposes a "substantial alteration" to a course of treatment that a resident was receiving prior to his/her admission to the Department, DJJ shall make reasonable efforts to seek the consent of the parent/legal guardian prior to initiating the "substantial alteration". The parent/legal guardian shall have the opportunity to consult with a DJJ physician, physician's assistant, or nurse practitioner regarding the proposed "substantial alteration".
+         (A) whose income is less than $3650 and
 
-(c) For purposes of this chapter, "substantial alteration" shall mean:
+         (B) with respect to whom the probationer provides over one half of the individual's support for the calendar year.
 
-   (1) The proposal to initiate medical or psychiatric care or medication where not previously prescribed for the resident, other than routine medical care or emergency medical treatment;
+      Federal Poverty Guidelines. "Federal Poverty Guidelines" are the annual guidelines prepared by the United States Department of Health and Human Services and published in the Federal Register. The Federal Poverty Guidelines are available at http://aspe.hhs.gov/poverty/. These guidelines are based on household income and number of dependents.
 
-   (2) A change in a continuous and uninterrupted course of therapy or medication that had been in effect either at an inpatient facility or by a private physician prior to the resident's admission to the Department. However, changes in the dosage or timing in administering medication which remain consistent with the pharmacological intent of the medication and which are intended to enhance the resident's functional abilities while in DJJ's custody shall not constitute a substantial alteration of a medication regimen. Any such changes in the dosage or timing in administering medication must be based on a specific and clearly identified clinical requirement that is accordingly documented in the patient's record.
+      Income. "Income" means all income before taxes and other deductions. Income shall include but not be limited to wages, salary, tips from work, self-employment income (after business expenses), unemployment compensation, workers' compensation, Social Security, Supplemental Security Income, public assistance, veterans' payments, survivor benefits, pension or retirement income, interest, dividends, rents, royalties, income from estates or trusts, alimony, child support, and assistance from outside the household.
 
-   (3) The substitution of a generic equivalent where the prescription states "dispense as written".
+      Minor child. "Minor child" is a child who is under eighteen years of age or is under nineteen years of age and attending a secondary school (high school) or an equivalent level of vocational or technical training.
 
-(d) If, after reasonable efforts to contact a parent/legal guardian, that person is non-responsive, absent or otherwise uninvolved, DJJ shall treat the resident consistent with his/her medical and psychiatric history and current symptomatology.
+   (2) Eligibility. The Department shall grant a temporary waiver of all of the probation administrative fee when a probationer has provided proof that (i) his or her combined household income is less than 200% of the Federal Poverty Guidelines or (ii) there exist additional financial circumstances that would render the probationer indigent, such that the payment of the administrative fee would work an unreasonable hardship on the probationer, his or her immediate family, or any other person who is dependent on such person for financial support.
 
-(e) In the event that DJJ proposes a "substantial alteration" but the parent/legal guardian refuses to consent, then, absent further court intervention, the only treatment that may occur is routine medical care, emergency treatment, and the administration of previously prescribed medications that have been confirmed in accordance with the procedures set forth in 41 RCNY § 3-03 below.
+   (3) Application.
 
+      (i) A probationer applying for a waiver or the renewal of a waiver shall mail a signed and dated "Request for Temporary Waiver" form, including an explanation of any additional financial circumstances that would render the probationer indigent, to the address below:
 
+New York City Department of Probation 33 Beaver Street, 23rd Floor New York, New York 10004. Attn: "DWI Fee Review Officer"
 
+      (ii) The probationer shall attach proof of income and proof of dependants with the "Request for Temporary Waiver" form.
 
+         (A) Proof of income shall include but not be limited to all of the following documentation that are applicable: income tax returns, paystubs, pay checks, public assistance, Supplementary Security Income, Social Security Disability, unemployment benefits, workers' compensation, veteran payments, and pension or retirement income.
 
+         (B) Proof of dependents shall include but not be limited to any of the following documentation: birth certificate, letters or certificates of guardianship, marriage certificate, and domestic partner registration certificate.
 
-*§ 3-03 Consultation With Prior Medical Providers.* ::
+   (4) Department determinations. The Department shall review the application and determine whether to issue a waiver or to return the application with a request for further documentation. If the Department denies the application for a waiver, written notice shall be mailed or sent electronically to the probationer at the address in the Department's records informing the probationer of the reasons for denial and of the probationer's right to appeal the determination in writing within fifteen calendar days of the date of the notice. The commissioner or his or her designee shall review the probationer's written appeal and shall issue a determination, which shall be final.
 
+   (5) Duration of waiver.
 
-(a)  If a newly admitted resident had been under the continuous and uninterrupted care of a physician or hospital prior to admission to the Department, upon admission to a DJJ facility, DJJ shall make reasonable efforts to confirm with the prior provider the following information:
+      (i) A waiver shall remain in effect for one year.
 
-   (1) If from a physician: prescribed medications; significant medical history; and current treatment recommendations;
+      (ii) A probationer who has been granted a waiver shall inform the Department of Probation immediately upon a change of his or her circumstances affecting the probationer's eligibility for the waiver.
 
-   (2) If from a hospital: discharge information; current medications; significant medical history; current treatment recommendations;
+      (iii) The Department may terminate the waiver upon a determination that the probationer is no longer eligible for the waiver. Written notice of the proposed termination shall be mailed or sent electronically to the probationer at the address in the Department's records and shall inform the probationer of the reasons for the proposed termination and that the probationer has the right to appeal the determination in writing with fifteen calendar days of the date of notice. The commissioner or his or her designee shall review the probationer's written appeal and shall issue a determination, which shall be final.
 
-   (3) If from a pharmacy: current medication and prescription renewal information.
-
-(b) Where a youth is admitted to DJJ on a medication regimen that is confirmed pursuant to subdivision (a) of this section, DJJ shall continue that medication in accordance with the procedures set forth herein within twenty-four hours of the completion of the initial medical screening.
-
-(c) Where the medication is not in the DJJ pharmacological inventory, DJJ will make every reasonable effort to obtain the medication and initiate it as soon thereafter as practicable.
-
-(d) If unable to confirm information regarding a resident's medical or psychiatric regimen or medication after reasonable efforts, DJJ shall treat the resident consistent with his/her disclosed history and current symptomatology.
-
-(e) In the event that DJJ does not authorize a continuation of the resident's medication regimen, DJJ shall have the resident seen by a doctor within twenty-four hours of the initial medical screening.
-
-
-
-
-
-
-*§ 3-04 Information Regarding Medical and Psychiatric Care and Medications.* ::
-
-
-(a)  When a youth is remanded to DJJ, DJJ shall use a Medication Referral Form (such as the form currently in use, annexed as Appendix A, or a revised form which may be developed by DJJ as needed), to obtain information concerning a resident's current medication regimen from a parent, legal guardian, or prior provider. This form shall be made available in the Courthouse.
-
-(b) When a resident is admitted to a DJJ facility, DJJ shall use an Initial Medical Screening Form (Such as the form currently in use, annexed as Appendix B, or a revised form which may be developed by DJJ as needed) to obtain information concerning a resident's current medical and psychiatric care.
-
-
-
-
-
-
-*§ 3-05 Routine Medical Care and Emergency Treatment.* ::
-
-
-Nothing in these Guidelines shall preclude DJJ from administering routine medical care and emergency treatment.
-
-
-
-
-
-
-*§ 3-06 Disagreement With Prior Treatment and/or Court-Ordered Treatment.* ::
-
-
-(a)  In the event that the parent or legal guardian of a resident is absent, non-responsive or otherwise uninvolved, and DJJ proposes a "substantial alteration" to medical or psychiatric are or medication prescribed by a prior treatment provider, DJJ shall contact the prior treatment provider in accordance with the procedures set forth in § 3-03 above. In the event that DJJ and a resident's prior treatment provider disagree regarding the resident's treatment, DJJ shall provide written notification of its alternative treatment plan to the Court wherein the delinquency matter is pending by the next business day.
-
-(b) At any stage of the proceeding, if a court order is entered directing a resident's course of treatment, that order will be followed unless DJJ returns to court to vacate or modify the order by the next business day. Where an application to vacate or modify cannot be made within 24 hours, DJJ will make every reasonable effort to comply with the court order until an application to vacate or modify can be heard.
+      (iv) A probationer may apply to renew a waiver by submitting an application as provided in paragraph 3 of this subdivision.
 
 
 

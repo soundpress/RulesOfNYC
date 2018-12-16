@@ -537,7 +537,15 @@ Words and terms used in this Chapter have the following meanings:
 
 Acceptable to the Department means acceptable under conditions of use and being used in conformance with applicable regulatory, industrial or other safety standards.
 
+Compliance inspection means an inspection conducted within an inspection cycle that is not conducted for the purpose of grading.
+
+Condition level means the value (I, II, III, IV or V) based on the number, magnitude or pervasiveness of occurrences, or the seriousness of risk presented by a violation.
+
 Contaminated has the meaning set forth in 24 RCNY Health Code Article 81.
+
+Critical violations means the violations of the Health Code or other applicable law listed under the classification “critical violation” in Appendices 6-A and 6-B to this Chapter.
+
+Decal has the same meaning as in 24 RCNY Health Code Article 89.
 
 Detergent sanitizer means a solution used to wash and/or sanitize utensils and equipment.
 
@@ -545,7 +553,19 @@ Food has the meaning set forth in 24 RCNY Health Code Article 71.
 
 Food grade material means material certified as meeting the standards of the National Sanitation Foundation (NSF) or other organization utilizing a process approved by the American National Standards Institute (ANSI), or that is otherwise acceptable to the Department in compliance with 24 RCNY Health Code § 81.17 or successor provision. During use with food products such material shall not react with such food products or food contact surfaces; and shall not contaminate or impart any odor, color or taste to such food products. No food additive, food equipment, lubricant or other similar substance used in food processing, preparation, storage or service shall expose food to physical debris, toxic chemicals, harmful substances or other contaminants.
 
+General violations means violations listed under classification “general violations” in the Appendices 6-A and 6-B to this Chapter.
+
+Grade card or card means the document or sticker issued by the Department to a mobile food vending unit indicating the letter grade associated with the score for an inspection of that unit.
+
+Grade pending card means the document or sticker issued by the Department to a mobile food vending unit indicating the unit’s grade for the current inspection cycle is in the process of being determined.
+
 Green cart has the meaning set forth in § 17-306(s) of the Administrative Code or successor provision.
+
+Initial inspection means the first sanitary inspection within an inspection cycle.
+
+Inspection cycle means a series of inspections of a mobile food vending unit that are conducted, pursuant to 24 RCNY §§ 6-17 and 6-18 that begins with each initial inspection.
+
+Location sharing device means an electronic device installed to a mobile food vending unit that transmits the geographic location of the unit with sufficient accuracy to locate such unit on a street or other location.
 
 Mobile food commissary or other facility approved by the Department means either
 
@@ -553,11 +573,13 @@ Mobile food commissary or other facility approved by the Department means either
 
    (ii) Another facility providing storage and/or cleaning of no more than four Class D or Class E mobile food vending units, nor more than one food truck, in accordance with 24 RCNY § 6-08.
 
-Mobile food vending unit means a food service establishment as defined in 24 RCNY Health Code Article 81 located in a pushcart or truck, self or otherwise propelled, used to store, prepare, display, serve or sell food, or distribute food free of charge to the public, for consumption in a place other than in or on the unit. Any such pushcart or food truck is deemed a mobile food vending unit whether operated indoors or outdoors, on public, private or restricted space. A mobile food vending unit does not mean a stand or a booth.
+Mobile food vending unit (MFVU) or unit has the same meaning as in 24 RCNY Health Code Article 89.
+
+Operate or operation of a mobile food vending unit shall have the same meaning as in 24 RCNY Health Code Article 89.
 
 Potable water means drinking water that meets the drinking water requirements of subpart 5-1 of the State Sanitary Code and is thereby suitable for human consumption or use directly or indirectly in connection with the preparation of food for human consumption, including ice making and cleaning of utensils and equipment.
 
-Potentially hazardous food has the meaning set forth in 24 RCNY Health Code Article 81.
+Potentially hazardous food has the same meaning as “potentially hazardous food or time and temperature controlled for safety (TCS) food” means in 24 RCNY Health Code Article 81.
 
 Pre-permit inspection by the Department means the inspection of a mobile food vending unit in which the Department determines that the unit has been constructed and equipped in accordance with this Chapter. A pre-permit inspection by the Department is required:
 
@@ -573,9 +595,17 @@ Pre-permit inspection by the Department means the inspection of a mobile food ve
 
 Processing means transforming food into the form in which it is to be served to the mobile food vending unit patron, including, but not limited to, by means of slicing, dicing, grating, portioning, blending, mixing, combining, cooking and reheating, or otherwise treating food in such a way as to create a risk that it may become adulterated if improperly handled. Portioning by butchering is not allowed; food may be processed on a mobile food vending unit only in accordance with 24 RCNY Health Code Article 89. A person who processes food on a mobile food vending unit is not a manufacturer, as that term is defined in Administrative Code § 17-306(p), or successor provision of law.
 
+Public health hazards means critical violations that are known to contribute directly to food-borne illness or disease, identified with an asterisk (*) in Appendix 6-A of this Chapter, and which include but are not limited to, imminent health hazards defined in 24 RCNY Health Code Article 81 and Part 14 of the State Sanitary Code.
+
+Reinspection means a sanitary inspection conducted for the purposes of grading following receipt of a score of 14 or more points on an initial inspection.
+
 Sanitization means effective treatment by heat or chemical means that destroys pathogens on surfaces treated and is acceptable to the Department, as defined in 24 RCNY Health Code § 81.03(ii), or successor provision.
 
+Summons means a civil notice of violation or other document issued by the Department or other City agency to a mobile food vending permit-holder or vendor that charges a violation of the Health Code, or any other law or rule, for which a monetary penalty is sought, and which is adjudicated at the Office of Administrative Trial and Hearings.
+
 Ware washing or multi-compartment sink means a sink, other than a hand wash, dedicated to washing cookware, kitchenware and utensils.
+
+
 
 
 
@@ -585,28 +615,30 @@ Ware washing or multi-compartment sink means a sink, other than a hand wash, ded
 *§ 6-03 Mobile food vending unit classifications.* ::
 
 
-Mobile food vending units shall be classified based on the foods, processing and packaging of foods served. Class A and Class B units are processing units and Class C, Class D and Class E units are non-processing units for the purpose of payment of the permit fees set forth in § 17-308(c) of the Administrative Code, or successor provision, and 24 RCNY Health Code Article 5.
+(a) Mobile food vending units shall be classified based on the foods, processing and packaging of foods served. Class A and Class B units are processing units and Class C, Class D and Class E units are non-processing units for the purpose of payment of the permit fees set forth in § 17-308(c) of the Administrative Code, or successor provision, and 24 RCNY Health Code Article 5.
 
-(a) Class A mobile food vending unit means a processing unit on which raw, pre-cooked and/or manufactured potentially hazardous foods requiring temperature control as specified in 24 RCNY Health Code § 81.09 are stored, prepared and provided for individual service. Such foods include, but are not limited to, grilled or fried meats, sausages, poultry, shish kebab, hamburgers, eggs and gyros.
+   (1) Class A mobile food vending unit means a processing unit on which raw, pre-cooked and/or manufactured potentially hazardous foods requiring temperature control as specified in 24 RCNY Health Code § 81.09 are stored, prepared and provided for individual service. Such foods include, but are not limited to, grilled or fried meats, sausages, poultry, shish kebab, hamburgers, eggs and gyros.
 
-(b) Class B mobile food vending unit means a processing unit in or on which pre-cooked and/or manufactured potentially hazardous foods requiring temperature control as specified in 24 RCNY Health Code § 81.09 are stored, prepared and provided for individual service. Such foods include, but are not limited to, sandwiches prepared on the unit, raw fruits, vegetables and salads, breads, bagels and rolls buttered or topped with cream cheese on the unit, smoothies and soft serve ice cream.
+   (2) Class B mobile food vending unit means a processing unit in or on which pre-cooked and/or manufactured potentially hazardous foods requiring temperature control as specified in 24 RCNY Health Code § 81.09 are stored, prepared and provided for individual service. Such foods include, but are not limited to, sandwiches prepared on the unit, raw fruits, vegetables and salads, breads, bagels and rolls buttered or topped with cream cheese on the unit, smoothies and soft serve ice cream.
 
-(c) Class C mobile food vending unit means a non-processing unit in or on which only intact, prepackaged potentially hazardous foods requiring temperature control as specified in 24 RCNY Health Code § 81.09 are provided for individual service. Such foods include, but are not be limited to, prepackaged frozen desserts, prepackaged sandwiches, and prepackaged and presliced fruits and vegetables.
+   (3) Class C mobile food vending unit means a non-processing unit in or on which only intact, prepackaged potentially hazardous foods requiring temperature control as specified in 24 RCNY Health Code § 81.09 are provided for individual service. Such foods include, but are not be limited to, prepackaged frozen desserts, prepackaged sandwiches, and prepackaged and presliced fruits and vegetables.
 
-(d) Class D mobile food vending unit means a non-processing unit in or on which non-potentially hazardous packaged or unpackaged foods not requiring temperature control for safety are provided or served. Such foods include, but are not limited to, brewed coffee and tea, donuts, pastries, rolls and bagels buttered or topped with cream cheese at a commissary, popcorn, cotton candy, nuts, candied nuts, soft pretzels, and chestnuts, regardless of whether such foods are heated for aesthetic purposes. However, mobile food vending units that prepare and serve any potentially hazardous foods, including but not limited to, dairy products, pre-cooked or manufactured knishes, boiled frankfurters and sausages are Class D mobile food units that require equipment or other means of holding potentially hazardous foods at the temperatures required by 24 RCNY Health Code Articles 81 and 89.
+   (4) Class D mobile food vending unit means a non-processing unit in or on which non-potentially hazardous packaged or unpackaged foods not requiring temperature control for safety are provided or served. Such foods include, but are not limited to, brewed coffee and tea, donuts, pastries, rolls and bagels buttered or topped with cream cheese at a commissary, popcorn, cotton candy, nuts, candied nuts, soft pretzels, and chestnuts, regardless of whether such foods are heated for aesthetic purposes. However, mobile food vending units that prepare and serve any potentially hazardous foods, including but not limited to, dairy products, pre-cooked or manufactured knishes, boiled frankfurters and sausages are Class D mobile food units that require equipment or other means of holding potentially hazardous foods at the temperatures required by 24 RCNY Health Code Articles 81 and 89.
 
-(e) Class E mobile food vending unit means a green cart or other non-processing mobile food vending unit in or on which only non-potentially hazardous uncut fruits and vegetables are sold or held for sale or service.
+   (5) Class E mobile food vending unit means a green cart or other non-processing mobile food vending unit in or on which only non-potentially hazardous uncut fruits and vegetables are sold or held for sale or service.
 
-(f) Only food to be served or sold. A permit to distribute or sell food from a mobile food vending unit does not authorize the sale of any other product or merchandise from such unit.
+(b) Only food to be served or sold. A permit to distribute or sell food from a mobile food vending unit does not authorize the sale of any other product or merchandise from such unit.
 
-(g) If a vendor serves or prepares foods included in more than one Class of operation, the unit must be equipped in accordance with the classification that reflects the greater degree of food protection.
-
-
+(c) If a vendor serves or prepares foods included in more than one Class of operation, the unit must be equipped in accordance with the classification that reflects the greater degree of food protection.
 
 
 
 
-*§ 6-04 Mobile food vending units: pre-permit construction and equipment requirements for all classes of mobile food vending units.* ::
+
+
+
+
+*§ 6-04 Mobile food vending units: construction and equipment requirements for all classes of mobile food vending units.* ::
 
 
 Mobile food vending units must be constructed and equipped so that they may be maintained and operated in a clean and sanitary manner, in accordance with all applicable law, so as to protect foods from contamination by dust, dirt and toxic and other substances, and the public from risk of injury, and must be equipped in accordance with the requirements set forth in Table 1 in 24 RCNY § 6-05. Units and equipment must be manufactured from easily cleanable, durable, hard, smooth, non-porous, non-absorbent, non-reactive and non-toxic materials. All equipment must be fastened securely to the mobile food vending unit. No mobile food vending unit or truck may be used as a dwelling, or for sleeping or other residential purposes for any period of time.
@@ -623,7 +655,19 @@ Mobile food vending units must be constructed and equipped so that they may be m
 
    (2) Exterior non-food contact surfaces. Exterior non-food contact surfaces shall be constructed of smooth, durable, non-porous, non-toxic materials, without any open seams and joints.
 
-   (3) Permit decal to be visible and unobstructed. No ornamentation, advertisement, menu, price list, other display, sign or printed matter may cover or obscure the permit decal. A six (6) inch space shall be left clear on all sides of the decal. The decal may be covered by a hinged, hard, transparent plastic or glass cover no thicker than one-sixteenth of an inch. The cover shall not be secured by a lock, but installed so that the decal may be directly accessible for examination and inspection at all times.
+   (3) Permit decal and grade card to be visible and unobstructed. The permittee shall provide a space on the unit that is a permanent part of the mobile food vending unit for the placement of a permit decal and the posting of a grade card in accordance with this chapter. Such space shall:
+
+      (A) not be readily or easily removable and shall consist of a flat, smooth metal surface;
+
+      (B) be no less than 14 inches in height and 14 inches in width;
+
+      (C) be located on the exterior of the unit directly to the left or right of the primary customer service window or service area;
+
+      (D) be adjacent to the primary customer service window or be located as close to the top of the unit as possible as to be readily visible to the public;
+
+      (E) not be located near any heat-producing equipment or any side of the unit that abuts the curb; and
+
+      (F) not be covered by any material or protective covering that blocks or obscures the permit-decal or grade card, or impedes direct access for physical examination, inspection, and removal by government officials.
 
    (4) Doors and windows. In a food truck a partition or a partition with a self-closing door shall be installed between the driver's seat and the food processing and service area. To protect foods from potential contamination in all units, no service window may be installed over or behind cooking or food preparation equipment.
 
@@ -635,7 +679,7 @@ Mobile food vending units must be constructed and equipped so that they may be m
 
 (f) Potable water supply. Mobile food vending units that are required to maintain a potable water supply in accordance with Table 1 of 24 RCNY § 6-05 shall be equipped with plumbing and plumbing fixtures that provide adequate supplies of potable hot and cold water during all times of operation. Individuals operating mobile food vending units shall maintain sufficient supplies of potable water to allow for hand, ware and food washing and food preparation. Plumbing and fixtures shall be properly connected, vented and drained to prevent contamination of the City water supply or any other potable water supply. Water supply outlets and connections to water supply fixtures or equipment shall be designed and constructed to prevent back-flow into the water supply. Bottled and packaged potable water certified by the New York State Department of Health for sale in New York State may be used to supplement the potable water supply, if handled and stored in a way that protects it from contamination. If used, bottled and packaged potable water shall only be poured into tanks from the original containers. Failure to provide and maintain potable water supplies required by this Chapter is an imminent health hazard requiring immediate cessation of operation of any mobile food vending unit.
 
-   (1) Tank capacity. When a potable water supply is required by Table 1 of 24 RCNY § 6-05, a food truck shall be equipped with a tank or tanks with a total capacity of no less than 40 gallons; other mobile food vending units shall be equipped with a tank or tanks with a total capacity of no less than 10 gallons. All tanks shall be filled to capacity prior to beginning operation or operating, as defined in 24 RCNY Health Code § 89.03(j). On and after January 1, 2018, all water tanks shall be equipped with a water level indicator visible from outside the tanks.
+   (1) Tank capacity. When a potable water supply is required by Table 1 of 24 RCNY § 6-05, a food truck shall be equipped with a tank or tanks with a total capacity of no less than 40 gallons; other mobile food vending units shall be equipped with a tank or tanks with a total capacity of no less than 10 gallons. All tanks shall be filled to capacity prior to beginning operation or operating. On and after January 1, 2020, all potable water tanks shall be equipped with a mechanical or electronic device indicating the amount of water remaining in the tank. Water levels must be marked on each tank in gallon (or metric equivalent) increments, from zero to the tank’s maximum capacity, that are readily observable and easily readable by the vendor from outside the tank.
 
    (2) Water tanks and inlet pipes. Water tanks shall be constructed of food grade materials that are corrosion resistant, durable and non-absorbent. Water inlet pipes shall be made of flexible, food-grade material. The fitting for hose connections shall be capped except when tanks are being filled.
 
@@ -720,10 +764,12 @@ Mobile food vending units must be constructed and equipped so that they may be m
 
 
 
+
+
 *§ 6-05 Mobile food vending units: supplies and equipment required for different classes of mobile food vending units.* ::
 
 
-(a) In addition to the general requirements for construction and design of mobile food vending units and their equipment in 24 RCNY § 6-04, each class of vending units shall be supplied and equipped in accordance with Table 1 of this section. The minimum equipment required is determined by the class of the unit and the foods that are processed and/or sold on the unit.
+(a) In addition to the general requirements for construction and design of mobile food vending units and their equipment in 24 RCNY § 6-04, and the location sharing device required by 24 RCNY § 6-21, each class of vending units shall be supplied and equipped in accordance with Table 1 of this section. The minimum equipment required is determined by the class of the unit and the foods that are processed and/or sold on the unit.
 
 (b) Permit subject to revocation; mobile food vending units subject to seizure. Persons who prepare, process or serve foods from a mobile food vending unit that is not equipped in accordance with the requirements specified for the unit's permit classification as set forth in this section will be deemed to be vending without a permit. Such units and their contents are subject to seizure, removal of the permit decal or insignia, and any other sanctions prescribed by applicable law, including but not limited to, provisions of 24 RCNY Health Code Article 89.
 
@@ -816,16 +862,16 @@ Table 1. Supply and Equipment Requirements for Mobile Food Vending Units
 
 
 
+
+
 *§ 6-06 Size and placement of mobile food vending units.* ::
 
 
-(a) Non-truck units. No new permit shall be issued after October 31, 2013 for any mobile food vending unit pushcart that exceeds ten (10) feet in length and five (5) feet in width, including wheels, axles and other appurtenances to such wheels. When vending on a sidewalk, the operator must place the unit so that the longer side is adjacent and parallel to the curb abutting the sidewalk.
-
-   (1) Current permits for units that exceed the size restrictions, and that expire on or before October 31, 2013, shall be renewed only once. Subsequent renewal permits shall be approved only for units that comply with these size restrictions.
-
-   (2) Current permits that expire on or after November 1, 2013 shall be approved for renewal only for units that comply with these size restrictions.
+(a) Non-truck units. No new permit shall be issued for any mobile food vending unit pushcart that exceeds ten (10) feet in length and five (5) feet in width, including wheels, axles and other appurtenances to such wheels. When vending on a sidewalk, the operator must place the unit so that the longer side is adjacent and parallel to the curb abutting the sidewalk.
 
 (b) Food trucks. These size restrictions do not apply to food trucks.
+
+
 
 
 
@@ -835,11 +881,13 @@ Table 1. Supply and Equipment Requirements for Mobile Food Vending Units
 *§ 6-07 Green carts.* ::
 
 
-(a) The Department will permanently affix on two sides of each green cart, as that term is defined in § 17-306 (s) of the Administrative Code, either identical permit plates or identical permit decals that are easily identifiable and distinguishable from all other plates or decals on the green cart. Such plates or decals shall contain the fresh fruits and vegetables permit number issued to the owner of each such green cart and the borough and police precincts in which the green cart is authorized to operate. Permit decals may not be removed or transferred to any other mobile food vending unit.
+(a) The Department will permanently affix on each green cart a decal that is easily identifiable and distinguishable from any other decal on the green cart. Such decal shall contain the fresh fruits and vegetables permit number issued to the owner of each such green cart and the borough and police precincts in which the green cart is authorized to operate. A decal may not be removed or transferred to any other mobile food vending unit, except by the Department.
 
-(b) At the time an initial green cart permit is issued, the Department will provide a distinctive and readily recognizable "green cart" umbrella to each green cart permittee. The umbrella must be safely secured to the green cart and maintained in good condition and repair at all times by the permit holder, and must be displayed in an open position above the green cart whenever the green cart is being used to vend. For any replacement umbrella, the green cart permittee must pay a fee of fifty dollars ($50.00) reimbursing the Department for the cost of the umbrella. In addition to the above requirements specific to green carts, green carts must comply with all other applicable requirements pertaining to Class E mobile food vending units.
+(b) In addition to the above requirements specific to green carts, green carts must comply with all other applicable requirements pertaining to Class E mobile food vending units.
 
 (c) Exemption of police precincts where green carts may vend. Notwithstanding any provision in § 17-307(b)(4)(b) of the Administrative Code, no fresh fruits and vegetables permit may be designated for use within either the 45th or 72nd police precincts of the City of New York.
+
+
 
 
 
@@ -897,9 +945,9 @@ Table 1. Supply and Equipment Requirements for Mobile Food Vending Units
 
 (b) "A" violation penalties to be paid. Every person renewing a mobile food vending license or a mobile food unit permit, or applying for a new mobile food vending license or mobile food unit permit shall pay all fines and penalties for all "A" violations as defined by subdivision (b) of this section that have been adjudicated, or for which the licensee, permittee or applicant for a license or permit has been found in default. Proof of payment of all such fines and penalties must be submitted prior to issuance of a new or renewal license or permit, notwithstanding the provisions of New York City Charter § 1049-a(d)(1)(i).
 
-(c) Basis for revocation, suspension, or denial of new or renewal permit or license. The Commissioner may refuse to issue a mobile food vending license or a mobile food unit permit and may, after due notice and an opportunity to be heard, in addition to any other penalties, refuse to renew, suspend or revoke such a license or permit. Such action may be taken when the applicant, licensee, permittee, its officers, directors, shareholders, members, managers or employees (i) have been found to be in violation of four or more of the provisions of subchapter 2 of chapter 3 of title 17 of the Administrative Code that are classified as "A" violations in subdivision (d) of this section within a two-year period, (ii) have been found to be in violation of any of the provisions of part fourteen of the State Sanitary Code or of the Health Code, or (iii) the applicant, licensee, permittee, its officers, directors, shareholders, members, managers or employees have pending any unanswered summonses for a violation of a provision of subchapter 2 of chapter 3 of title 17 of the Administrative Code that is classified as an "A" violation in subdivision (d) of this section.
+(c) Basis for revocation, suspension, or denial of new or renewal permit or license. The Commissioner may refuse to issue a mobile food vending license or a mobile food unit permit and may, after due notice and an opportunity to be heard, in addition to any other penalties, refuse to renew, suspend or revoke such a license or permit. Such action may be taken when the applicant, licensee, permittee, its officers, directors, shareholders, members, managers or employees (i) have been found to be in violation of four or more of the provisions of subchapter 2 of chapter 3 of Title 17 of the Administrative Code that are classified as "A" violations in subdivision (d) of this section within a two-year period, (ii) have been found to be in violation of any of the provisions of part fourteen of the State Sanitary Code or of the Health Code, or (iii) the applicant, licensee, permittee, its officers, directors, shareholders, members, managers or employees have pending any unanswered summonses for a violation of a provision of subchapter 2 of chapter 3 of Title 17 of the Administrative Code that is classified as an "A" violation in subdivision (d) of this section.
 
-(d) Administrative Code "A" violations. For the purposes of revocation or suspension of mobile food vending permits or licenses, or of determining whether such permits or licenses may be renewed or new licenses and permits issued, "A" violations mean violations of the following provisions of subchapter 2 ("Food Vendors") of chapter 3 ("Licenses and Permits") of title 17 of the Administrative Code or successor provisions , as listed below in 24 RCNY § 6-10 Table 1, where the licensee, permittee or applicant is found in violation as a result of a hearing on the merits or by default:
+(d) Administrative Code "A" violations. For the purposes of revocation or suspension of mobile food vending permits or licenses, or of determining whether such permits or licenses may be renewed or new licenses and permits issued, "A" violations mean violations of the following provisions of subchapter 2 ("Food Vendors") of chapter 3 ("Licenses and Permits") of Title 17 of the Administrative Code or successor provisions , as listed below in 24 RCNY § 6-10 Table 1, where the licensee, permittee or applicant is found in violation as a result of a hearing on the merits or by default:
 
 § 6-10 Table 1. Administrative Code "A" Violations 
 
@@ -945,7 +993,7 @@ Table 1. Supply and Equipment Requirements for Mobile Food Vending Units
 *§ 6-11 Inspections; permit issuance and renewal.* ::
 
 
-No unit shall be approved for use unless such unit has passed a pre-permit inspection by the Department and found to be constructed and equipped in compliance with this Chapter and 24 RCNY Health Code Article 81 and Article 89.
+No unit shall be approved for use and no permit shall be issued unless such unit has passed a pre-permit inspection by the Department and found to be constructed and equipped in compliance with this Chapter and 24 RCNY Health Code Article 81 and Article 89; and the permit-holder or permit applicant has submitted proof acceptable to the Department that the unit is serviced and stored by a commissary or other approved facility.
 
 (a) Renewal applications to be submitted timely. An application for renewal of any permit shall not be accepted unless the applicant submits a complete renewal application, the tax clearance certificates required by § 17-310 of the Administrative Code, and proof of payment of all fines and penalties owing for notices of violation as required by § 17-317(b) and 24 RCNY § 6-10, no later than thirty (30) days before the date of expiration of the permit. The Department may accept a late renewal application only if the applicant submits proof that may be verified by the Department that the delay in submission of the completed application and clearances resulted because of delays in issuing the clearances. In such cases, the permittee must show that applications for tax and penalty clearances were submitted at least sixty (60) days before the date of renewal of the permit.
 
@@ -953,7 +1001,7 @@ No unit shall be approved for use unless such unit has passed a pre-permit inspe
 
 (c) Permit holder photographs. All individual applicants for a new or renewed permit, and persons who require a replacement or substitute permit or decal for a mobile food vending unit, shall personally appear at a location designated by the Department so that a current identifying photograph may be taken.
 
-(d) Pre permit inspections and reinspections. Permit applicants or permittees must bring the mobile food vending unit in for inspection, at a place designated by the Department, and present (i) a currently valid mobile food vendor's license, and (ii) another government issued photo identification acceptable to the Department in the following circumstances:
+(d) Pre permit inspections. Permit applicants or permittees must bring the mobile food vending unit in for inspection, at a place designated by the Department, and present (i) a currently valid mobile food vendor's license, and (ii) another government issued photo identification acceptable to the Department in the following circumstances:
 
    (1) Before the issuance of a new or renewed mobile food vending permit and decal;
 
@@ -983,7 +1031,7 @@ No unit shall be approved for use unless such unit has passed a pre-permit inspe
 
    (6) Non-food supplies provided by the commissary.
 
-(h) Reinspection of damaged, repaired or materially altered mobile food vending units. Any mobile food vending unit that has been damaged and repaired, or materially altered so as to change or result in a change in the size of the unit, or has undergone replacement of any part of the body structure or equipment of the unit shall be brought to the Department for reinspection prior to reuse or continued use of the unit. Repair or replacement of a tire or an axle, and straightening a dent in a panel are not considered material alterations.
+(h) Inspection of damaged, repaired or materially altered mobile food vending units. A pre-permit inspection is required when a mobile food vending unit is materially altered as defined by 24 RCNY Health Code Article 89.
 
 (i) Decals. No decal may be placed on any mobile food vending unit unless a Department inspector has determined at a pre-permit inspection that the unit is constructed and equipped in accordance with this Chapter, and that the person renewing or applying for a permit has completed and submitted all forms required by this section.
 
@@ -995,7 +1043,7 @@ No unit shall be approved for use unless such unit has passed a pre-permit inspe
 
    (2) Commissary used. Permittees must provide a copy of an agreement from the new commissary with such notice.
 
-(l) Enforcement. A new or renewal decal and permit may be denied for:
+(l) Enforcement. The commissioner may refuse to issue a new or renewal permit for:
 
    (1) Failing to allow photographs of the permittee or the unit.
 
@@ -1004,6 +1052,12 @@ No unit shall be approved for use unless such unit has passed a pre-permit inspe
    (3) Failing to provide information about the operators of the units or foods sold on the unit, or
 
    (4) Failing to maintain and submit an agreement with a commissary.
+
+   (5) Failing to bring the mobile food vending unit to a place designated by the Department to post a letter grade or to install, replace or maintain a location sharing device to the unit.
+
+   (6) Removing, disposing, tampering with, or modifying the letter grade posted to a mobile food vending unit or a location sharing device installed to the unit.
+
+
 
 
 
@@ -1056,39 +1110,329 @@ When the strict applicability of any provision of this Chapter presents practica
 
 
 
-Chapter 7: Adjudicatory Hearings
+
+
+*§ 6-16 Scoring mobile food vending unit inspections.* ::
+
+
+The Department shall, when conducting a sanitary inspection, assess points only for those violations, violation conditions and condition levels listed in Appendix 6-A (Self-Inspection Worksheet for Mobile Food Vending Units (MFVU)) and Appendix 6-B (Mobile Food Vending Unit (MFVU) Inspection Scoring Parameters: A Guide to Conditions) to this Chapter. Terms used in these appendices and not otherwise defined in this Chapter shall have the same meaning as defined in 24 RCNY Health Code Articles 81 and 89 of the Health Code.
+
+
+
+
+
+
+
+
+*§ 6-17 Letter grading.* ::
+
+
+(a) The Department, whenever practicable, shall conduct an inspection at least annually of each mobile food vending unit for the purpose of issuing such unit a letter grade. Based on the results of either the initial inspection or reinspection within an inspection cycle, a mobile food vending unit shall be graded as either “A", “B", or “C” for that inspection cycle, except that a unit shall not receive any grade if the Department orders that it be closed.
+
+(b) The Department shall issue a letter grade of “A” to any unit that receives fewer than 14 points on either the initial inspection or reinspection within an inspection cycle.
+
+(c) The Department shall not issue a letter grade to any mobile food vending unit receiving 14 or more points on an initial inspection but shall schedule a reinspection to occur no sooner than seven days after the initial inspection. The Department shall on the reinspection issue a grade of “B” to any unit receiving 14 - 27 points and a letter grade of “C” to any unit receiving 28 or more points.
+
+(d) In addition to conducting an initial and any reinspection for the purpose of issuing a unit a letter grade, the Department may, in any inspection cycle, also conduct a compliance inspection after any inspection that results in a score of 28 points or more. The score received on any compliance inspection shall not change a unit’s letter grade for that inspection cycle.
+
+
+
+
+
+
+
+
+*§ 6-18 Intervals between inspection cycles.* ::
+
+
+(a) The time between a completed cycle and the initial inspection in the next inspection cycle for a unit that receives 14 or more points on its initial inspection shall be determined by the higher score from either its initial inspection or its reinspection.
+
+   (1) An initial inspection commencing a new cycle shall be conducted approximately one year after issuance of an “A” grade to a unit that received less than 14 points on its initial inspection in the previous cycle.
+
+   (2) An initial inspection commencing a new inspection cycle shall be conducted 150 - 210 days after the reinspection of any unit that receives a score of 14 - 27 points on an initial inspection or reinspection and does not score 28 or more points on either of these inspections.
+
+   (3) An initial inspection commencing a new inspection cycle shall be conducted 90 to 150 days after the final inspection of the cycle of a unit that receives a score of 28 or more points on its initial inspection or reinspection.
+
+   (4) An initial inspection commencing a new inspection cycle shall be conducted within 60 to 120 days of reopening for a unit that is authorized by the Department to reopen following a Department closure that occurs on an initial or reinspection of that unit.
+
+(b) When there is an increased risk to public health as determined by the Department, nothing in these rules shall prevent the Department from inspecting a unit and treating that inspection as the initial inspection in a new inspection cycle. Such circumstances include, but are not limited to, a unit having a history of Department closure(s), being the subject of complaints of unsanitary conditions, or being compromised following an environmental emergency.
+
+(c) Notwithstanding the provisions of this section, a new inspection cycle shall commence whenever:
+
+   (1) A mobile food vending unit changes from a pushcart to a vehicle or from a vehicle to a pushcart, as such terms are defined in 24 RCNY Health Code Article 89.
+
+   (2) A new decal is issued because there has been a change in the permit classification as described in 24 RCNY §  6-03.
+
+
+
+
+
+
+
+
+*§ 6-19 Posting letter grades.* ::
+
+
+A mobile food vending unit must have a letter grade posted at all times, as required by these rules.
+
+(a) The Department shall at the time of inspection issue and post a letter grade “A” on a unit that receives a score of less than 14 points on an initial or reinspection.
+
+(b) If a mobile food vending unit receives a score of 14 or more points on an initial inspection, and is not closed by the Department, it shall continue to post its grade from the prior inspection cycle until its reinspection. If the unit has been issued no prior grade card, it shall have no posting until its reinspection.
+
+(c) If a mobile food vending unit receives a score of 14 or more points on the reinspection, and is not closed by the Department, the Department shall post on the unit a “grade pending” card. If the permit-holder elects to have the grade of “B” or “C” earned at the reinspection posted to the unit instead of a “grade pending” card, the permit-holder may contact the Department to arrange for the unit to be brought to a place designated by the Department so the Department may post the preliminary grade.
+
+(d) Grading after adjudication of summonses. Where a unit scores 14 or more points on a reinspection and was issued one or more summons for findings made at that inspection, the following shall apply:
+
+   (1) Except as described in paragraph (2) of this subdivision, within 42 days of the reinspection date that generated the summons, the permit-holder shall contact the Department to arrange for the posting of the final letter grade for that inspection cycle.
+
+   (2) If the permit-holder adjudicates all summonses associated with the reinspection on or before the hearing date listed on those summonses but has not received hearing decisions within 42 days from the time of reinspection, the permit-holder may continue to post a “grade pending” card until hearing decisions are issued. In this instance, the permit-holder shall have five (5) days from the date of decision to contact the Department to arrange for posting of the final letter grade for that inspection cycle.
+
+   (3) It shall be the duty of the permit-holder to check the status of summons and comply with the timeframes of this section for the posting of letter grades.
+
+
+
+
+
+
+
+
+*§ 6-20 Position of grade cards on mobile food vending units; tampering prohibited.* ::
+
+
+(a) The Department shall post a letter grade or “grade pending” card on the mobile food vending unit on top of the decal or any other place determined by the Department.
+
+(b) A mobile food vending unit shall not dispose of, remove, tamper with, obscure or modify the letter grade card.
+
+
+
+
+
+
+
+
+*§ 6-21 Location sharing.* ::
+
+
+(a) The Department will provide and install a location sharing device on each mobile food vending unit that is required to be permitted by the Department to vend food. The Department may alter the mobile food vending unit to the extent necessary to install such device on the unit.
+
+(b) A location sharing device shall remain the property of the Department. After the Department installs the device, the mobile food vending unit shall operate with the device installed on the unit at all times.
+
+(c) The Department shall install the initial location sharing device at a pre-permit inspection. No person other than the Department shall attempt to or actually remove, dispose of, obstruct, tamper with, or modify a location sharing device. Removing, disposing of, or tampering with, or in any way interfering with the operation of the location sharing device shall be grounds to revoke a mobile food vending permit or license or both.
+
+(d) In the event the Department determines that the location sharing device on a mobile food vending unit is not functioning, it may issue a written order to the permit holder to bring the unit to a location designated by the Department. Upon receiving such an order, a permit holder must bring the unit to the designated location within five (5) days unless otherwise instructed by the Department.
+
+(e) The Department shall use the data obtained from a location sharing device only to locate a unit for the purposes of enforcing the provisions of this Chapter, the State Sanitary Code, the Health Code, the Administrative Code, Public Health Law, other Rule of the City of New York, or as otherwise required by a lawful order of a court with proper jurisdiction.
+
+(f) The device may not continuously track the location of the unit on which it is installed and may only be used to locate a unit at a specific moment in time.
+
+(g) Each location sharing device that is installed on a mobile food vending unit shall have a unique identifier that shall not be the same number as the mobile food vending unit permit, license or decal.
+
+(h) Only employees or agents of the Department who are authorized to enforce the laws and rules described in subdivision (e) of this section shall have access to the data gathered by a location sharing device, and the Department may not disclose such data to any other person, except as required by a lawful order of a court with proper jurisdiction.
+
+(i) Any data gathered by a location sharing device shall be maintained by the Department for no more than 24 hours and shall be transmitted and maintained as confidential information in a secure manner.
+
+
+
+
+
+
+
+
+*Appendix 6-A: Self-Inspection Worksheet for Mobile Food Vending Units (MFVU).* ::
+
+
+
+
+
+
+
+
+
+*Appendix 6-B: Mobile Food Vending Unit (MFVU) Inspection Scoring Parameters: A Guide to Conditions.* ::
+
+
+
+
+
+
+
+
+
+*Appendix 6-C: Mobile Food Vending Unit (MFVU) Penalty Schedule Scored Violations.* ::
+
+
+
+
+
+
+
+
+
+*Appendix 6-C-2: Mobile Food Vending Unit (MFVU) Penalty Schedule Unscored Violations.* ::
+
+
+
+
+
+
+
+
+
+*Appendix 6-C-3: Mobile Food Vending Unit (MFVU) Penalty Schedule Violations Administrative Code and Multiple Offense Schedule (MOS).* ::
+
+
+
+
+
+
+
+Chapter 7: Adjudicatory Hearings and Violation Fines and Penalties
 --------------------------------------------------
 
 
 
-*§ 7-01 Adjudications Conducted by the Department.* ::
+*§ 7-01 Definitions.* ::
 
 
-(a)  Pursuant to the New York City Charter, §§ 1041, 1046, 1047 and 1048, the Department of Health has determined that all adjudicatory hearings commenced by notice or finding of violation pursuant to 24 RCNY Health Code Article 7, where the Department seeks a fine or monetary penalty, pertaining to enforcement of State and local health laws and regulations shall be conducted by the Department.
+When used in this Chapter, the following terms have the following meanings:
 
-(b) Hearing Examiners.
+(a) Administrative Code or Admin. Code refers to the Administrative Code of the City of New York.
 
-   (1) All adjudicatory hearings concerning matters described in subdivision (a) above, shall be conducted by Hearing Examiners assigned to the Administrative Tribunal who shall be appointed pursuant to 24 RCNY Health Code § 7.03(b).
+(b) Charter means the New York City Charter.
 
-   (2) Such Hearing Examiners, when conducting adjudicatory hearings pursuant to 24 RCNY Health Code Article 7 as described in subdivision (a) above, shall make final findings of fact and conclusions of law, which shall be incorporated in a decision and order. Such final decisions shall be appealable as provided in 24 RCNY Health Code § 7.13.
+(c) Environmental Control Board is the board that exists in the OATH Hearings Division pursuant to Charter §1049-a.
+
+(d) NYCHC or Health Code refers to the New York City Health Code, found in Title 24 of the Rules of the City of New York.
+
+(e) NYSPHL refers to the New York State Public Health Law.
+
+(f) OATH Trials Division is the tribunal of the Office of Administrative Trials and Hearings (OATH), established by Charter § 1048(1) to conduct adjudicatory hearings for all agencies of the City of New York.
+
+(g) OATH Hearings Division includes the tribunal established by the Board of Health pursuant to Charter § 558 and transferred to OATH by Mayoral Executive Order 148 (2011).
+
+(h) Premises refer to real property consisting of a building and land on which it is situated. "Same premises" refers to (i) a specific building, or (ii) a group of buildings co-located in a development owned by the same entity.
+
+(i) RCNY refers to the Rules of the City of New York.
 
 
 
 
 
 
-*§ 7-02 Adjudications Conducted by the Office of Administrative Trials and Hearings.* ::
 
 
-(a)  Pursuant to New York City Charter § 1048, the Department of Health has determined that the following adjudications pertaining to the enforcement of State and local health laws and regulations shall be conducted by the Office of Administrative Trials and Hearings, which shall make recommended findings of fact and recommended decisions. Such recommendations shall be subject to review by the Commissioner of Health who shall make final determinations and orders:
+*§ 7-02 Adjudications seeking civil fines.* ::
 
-   (1) Enforcement hearings: All adjudicatory hearings held in connection with the Commissioner's or Department's exercise of powers or authority under Chapter 22 of the City Charter, Title 17 of the Administrative Code, New York State Public Health Law, or Title 10 of the State of New York Codes, Rules and Regulations, or other applicable law, except as provided in 24 RCNY § 7-01, when commenced by order of the Commissioner or Department, including but not limited to all orders to abate nuisances or other detrimental health conditions; orders to persons to show cause why the Department should not deny, suspend, or revoke permits; orders to seize, embargo, or condemn; orders to close premises; orders to cease and desist acts or omissions; or orders to take any other action necessary to protect the public health.
 
-   (2) Other due process hearings: In addition, the Commissioner may delegate authority to the Office of Administrative Trials and Hearings to hear and make findings and recommendations in any matter wherein it is necessary to make factual determinations in connection with any enforcement action of the Department, as authorized by State or local law or regulation.
+In accordance with Charter §§ 1041 and 1046, adjudicatory hearings commenced by service of a civil summons or notice of violation seeking a civil fine or monetary penalty for violations of State and local law enforced by the Department shall be conducted by the OATH Hearings Division.
 
-   (3) Hearings Pursuant to the Civil Service Law Regarding the Fitness and Discipline of Department Employees. Pursuant to New York City Charter § 1048, the Department of Health has determined that adjudicatory hearings conducted pursuant to New York Civil Service Law regarding the fitness and discipline of Department employees shall be conducted by the Office of Administrative Trials and Hearings, which shall make recommended findings of fact, determinations and orders. Such recommendations shall be subject to review by the Commissioner of Health who shall make the final agency determination.
 
-(b) Administrative law judges. All adjudicatory hearings described in this section shall be conducted by administrative law judges assigned to the office of administrative trials and hearings who shall be appointed pursuant to § 1049 of the Charter.
+
+
+
+
+
+
+*§ 7-03 Mandatory fines and penalties.* ::
+
+
+(a) Fixed penalties. When a monetary fine or penalty for a violation enforced by the Department is specified in the Health Code, a rule of the Department, including in Appendix 7-A of this Chapter, or in any other applicable law, a hearing officer must impose that fine or penalty if the hearing officer sustains the violation.
+
+(b) Other Health Code violations. Fines imposed for Health Code violations that are not specified in Appendix 7-A of this Chapter or in another law or rule must be within the range provided in 24 RCNY Health Code § 3.11 or a successor provision.
+
+
+
+
+
+
+
+
+*§ 7-04 Fines for unspecified violations of 24 RCNY Health Code Articles 43 and 47.* ::
+
+
+The penalty for a violation of any provision of 24 RNCY Health Code Article 47 (Child Care Programs) or Article 43 (School-Based Programs for Children Ages Three Through Five) that is not listed in Appendix 7-A of this Chapter shall be $200. The penalty must be doubled to $400 if the hearing officer finds the respondent in default.
+
+
+
+
+
+
+
+
+*§ 7-05 Escalation of fines for rodent violations.* ::
+
+
+Pursuant to Administrative Code § 17-133.1, the standard fine for a violation of 24 RCNY Health Code § 151.02 of the Health Code that pertains to the eradication or elimination of rodents, rodent harborages or other rodent related nuisances must be $300. The fine for each subsequent violation at the same premises and under the same ownership or control within a two-year period must be double the amount of the penalty for the previous violation but may not exceed the maximum fine for any Health Code violation.
+
+
+
+
+
+
+
+
+*§ 7-06 Standing water violations.* ::
+
+
+The penalty for a violation of 24 RCNY Health Code § 151.03 shall vary depending on whether the accumulation of standing water that is the basis of the violation is determined to be minor, moderate or extensive.
+
+(a) Minor violations consist of small amounts of standing water and decomposing matter in one or more outdoor containers with a diameter of three to 24 inches and a capacity of five or fewer gallons of water. Examples of types of containers include trash cans, buckets, birdbaths, fountains, roof gutters and roof puddles and in accumulations of one to four tires.
+
+(b) Moderate violations consist of larger amounts of standing water and decomposing matter than the amounts stated for minor violations. These include ponded water accumulations of less than 10 square feet. Examples of where this amount of water and decomposing matter may be found include ditches, swimming pool covers, ponds, outdoor containers without lids holding five or more gallons of water and in accumulations of five to 20 tires.
+
+(c) Extensive violations consist of standing water and decomposing matter accumulations covering 10 or more square feet. Examples of where this amount of water and decomposing matter may be found include open foundation construction sites, swimming pools with stagnant untreated or improperly treated water and in accumulations of more than 20 tires.
+
+
+
+
+
+
+
+
+*§ 7-07 Fines for other repeat violations.* ::
+
+
+(a) Summons issued to the owner or other person in control of premises. For summonses alleging that the owner or person in control of a premises or regulated business has committed a "repeat violation" other than one provided for in 24 RCNY § 7-05, the hearing officer must impose the fine listed in Appendix 7-A of this Chapter for a repeat violation if, within the previous 12 months, the respondent was found to have violated the same provision of law at the same premises.
+
+(b) Summons issued to certain contractors. For any summons alleging that a contractor committed a repeat violation of 24 RCNY Health Code § 173.14 by disturbing lead based paint or paint of unknown lead content while performing work in a premises, the hearing officer must impose the fine specified in Appendix 7-A of this Chapter for a repeat violation if the hearing officer determines that the contractor violated the same provision of law in any premises during the previous 12 months.
+
+(c) Unproved repeat violation to be considered an initial violation. If a hearing officer finds that a respondent committed the violation alleged in the summons, but that the violation is not a repeat violation because the same provision of law was not violated within the previous 12 months, the hearing officer must impose the fine listed in Appendix 7-A of this Chapter for an initial violation of that provision.
+
+
+
+
+
+
+
+
+*§ 7-08 Defaults.* ::
+
+
+If a respondent fails to appear to answer a summons and is found in default, the penalty imposed for a violation of the Health Code must be twice the amount set forth in Appendix 7-A of this Chapter or $2,000, whichever is lower. Fines imposed when a respondent is found in default for violations of other provisions of law may not exceed the amount stated in Appendix 7-A of this Chapter.
+
+
+
+
+
+
+
+
+*§ 7-09 Other adjudications.* ::
+
+
+Pursuant to Charter § 1048, the Commissioner delegates to the OATH Trials Division authority to conduct hearings of matters pertaining to the enforcement of State and local law within the jurisdiction of the Department where an OATH administrative law judge shall make and submit recommended findings of fact, decisions, determinations and orders to the Commissioner who shall make final findings, determinations and orders in accordance with 24 RCNY Health Code Article 5 or other applicable law. Such hearings include but are not limited to matters where a respondent must be provided with a hearing or an opportunity to be heard and show cause why the Commissioner should not issue an order or take other action (i) to suspend or revoke a license, permit or registration of a business or activity whose operation or conduct is deemed detrimental to the public health; (ii) to abate nuisances or other detrimental health conditions, including closing, padlocking and sealing premises deemed a public nuisance; (iii) to require an entity to cease and desist from specific acts that endanger public health; or (iv) with respect to Department employee matters pursuant to New York Civil Service Law.
+
+
+
+
+
+
+
+
+*Appendix 7-A: Penalty Schedule.* ::
+
+
+
 
 
 

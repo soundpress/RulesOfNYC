@@ -1,289 +1,265 @@
-Title 61: Office of Collective Bargaining
+Title 62: City Planning
 ===================================================
 
-Chapter 1: Practice and Procedure
+Chapter 1: Practice and Procedure of City Planning Commission
 --------------------------------------------------
 
 
 
-*§ 1-01 Definitions.* ::
+*§ 1-01 General Rules.* ::
 
 
-As used in this chapter, the following terms have the meanings set forth in § 12-303 of the administrative code of the City of New York: "Director," "Board of Collective Bargaining," "Board of Certification," "municipal agency," "municipal employees," "mayoral agency," "public employer," "public employees," "municipal employee organization," "public employee organization," "Municipal Labor Committee," "certified employee organization," "matters within the scope of collective bargaining," "executive order," "grievance," "labor member," "city member," "impartial member," "designated representative," and "designated employee organization".
+(a)  The regular public hearings of the City Planning Commission shall be held twice monthly on Wednesday at 10 a.m. in City Hall, unless otherwise ordered by the Chair. Other regular public meetings of the City Planning Commission, also known as Review Sessions, shall be held twice monthly on Monday at 22 Reade Street, Spector Hall unless otherwise ordered by the Chair. The time and location of any meeting may be confirmed by contacting the Office of the Calendar Officer at the Department of City Planning.
 
-Deputy Director. The term "Deputy Director" means a deputy appointed by the Director pursuant to § 1170 of the New York City Charter.
+(b) Special meetings of the City Planning Commission may be called by the Chair or by seven members.
 
-Director of Representation. The term "Director of Representation" means the person appointed by the Director to administer and oversee the processing of all representation cases and all other duties as assigned by the Director.
+(c) A quorum shall consist of seven members.
 
-Executive Secretary. The term "Executive Secretary" means the person appointed by the Director to carry out the responsibilities defined by 61 RCNY § 1-07(c)(2).
+(d) Final action by the Commission shall be by the affirmative vote of not less than seven members at a meeting open to the public.
 
-Improper practices. The term "improper practices" has the meaning set forth in § 12-306 of the statute; the term "improper practices proceeding" means a proceeding conducted, pursuant to § 12-309(a)(4) of the statute, to investigate and determine charges of improper practices and, when appropriate, to issue orders for the purpose of remedying such improper practices.
+(e) Except by unanimous consent, matters upon which public hearings are required by law shall lie over until the next meeting following the public hearing.
 
-Representation proceeding. The term "representation proceeding" means a proceeding under § 12-309(b) of the statute to investigate and determine a question or controversy concerning the representation of public employees for the purposes of collective bargaining.
+(f) The order of business at regular public hearings shall be as follows unless otherwise ordered by the Chair.
 
-Rules. These rules shall be cited as the Rules of the Office of Collective Bargaining (61 RCNY Chapter 1).
+   (1) Roll call.
 
-Statute. The term "statute" means the New York City Collective Bargaining Law, Chapter 3 of Title 12 of the Administrative Code of the City of New York, as amended.
+   (2) Approval of minutes of previous meetings.
 
-Trial examiner. The term "trial examiner" means any authorized person conducting a hearing and may include a member of either Board, a Deputy Director, or any other agent designated by the Director to conduct a hearing.
+   (3) Scheduling dates for future hearings.
 
+   (4) Public Hearings.
 
+   (5) Reports on previously heard items.
 
+(g) Matters not on the calendar shall be considered only by unanimous consent.
 
+(h) The Chair shall direct a roll call upon every proposition to be acted upon pursuant to §§ 195, 197-a, 197-c, 200 and 201 of the Charter of the City of New York (the Charter). Votes shall be taken by the ayes and nays.
 
+(i) The vote upon every proposition voted upon shall be recorded in the minutes.
 
+(j) The Chair shall establish the order in which speakers are heard at public hearings. Speakers shall be limited to no more than three minutes to present testimony unless more time is permitted by the Chair.
 
+(k) City employees designated by the Chair shall be the only persons allowed within the guard rail of the dais during public meetings.
 
-*§ 1-02 Representation Proceedings.* ::
+(l) All reports of the Commission or its members pertaining to matters acted on by the Commission shall be incorporated in the record.
 
+(m) All proposals scheduled for public hearings shall be duly advertised in accordance with Charter provisions and all applicable laws.
 
-(a) Definition.
+(n) The public may attend all meetings of the Commission, including public hearings, except that the Commission may close such a meeting to the public only as provided in the New York State Open Meetings Law (Public Officers Law, §§ 100-111).
 
-   Board. As used in this section, the term "Board" means the Board of Certification.
 
-(b) Petition – filing. A petition for the investigation of a question or controversy concerning the representation of public employees may be filed by a public employer, public employees, or their representative. The petition must be filed on a form prescribed by the Office of Collective Bargaining and must be in writing and signed.
 
-(c) Petition by public employees or their representatives – contents; proof of interest.
 
-   (1) Unless e-filed pursuant to 61 RCNY § 1-12(e)(2), a petition filed by public employees or their representatives must contain:
 
-      (i) The name, address, telephone number, and email address of petitioner;
 
-      (ii) The name, address, and telephone number of the public employer;
+*§ 1-02 The Calendar Officer: Notices, Calendars, Minutes, Record, and Communications.* ::
 
-      (iii) The titles and the approximate number of employees in the units claimed to be appropriate;
 
-      (iv) An allegation that a question or controversy exists concerning representation and a concise statement of the nature thereof;
+(a)  Notices of all special meetings shall be given to each member by the Calendar Officer.
 
-      (v) The names, addresses, and telephone numbers of any other public employee organizations, known to petitioner, which claim to represent employees in the alleged appropriate bargaining units, and the expiration date of any existing collective bargaining agreement;
+(b) The Calendar Officer shall prepare a calendar of the business to be presented and considered at each public meeting. The matters thereon shall be arranged in the order prescribed by 62 RCNY § 1-01(f), and shall be properly classified. The Calendar Officer shall also keep a record of undetermined matters which have been laid over.
 
-      (vi) A request that the Board certify or designate the petitioner as the exclusive bargaining representative of the employees in the appropriate units or for other appropriate action.
+(c) Record. The record of a public meeting, including a public hearing, shall consist of either an audio recording or verbatim stenographic record of the proceedings; a list of speakers' names and affiliations, if any; a notation of each speaker's own indication, on a form provided for that purpose, of support or opposition to the proposal; and any exhibits or written statements offered by speakers. The record shall be available online from the Department of City Planning's website or at the Calendar Office, City Planning Commission, 120 Broadway, 31st Floor, New York, New York 10271. The Department of City Planning shall make available for public inspection, at the above location, a complete transcript of all public hearings of the Commission within sixty (60) days of such hearing.
 
-   (2) Simultaneously with the filing of the petition, the petitioner must:
+(d) The Calendar Officer shall maintain the minutes of each public meeting, and shall make them available for examination by the public in the Office of the Calendar Officer.
 
-      (i) In the case of a petition for certification, submit to the Board evidence that at least 30 percent of the employees in the appropriate unit, or in each appropriate unit, desire petitioner to represent them for the purposes of collective bargaining;
+(e) Minutes and a record of votes shall be taken at any executive session to the extent required by § 106 of the Public Officers Law.
 
-      (ii) In the case of a petition for designation as the collective bargaining representative of a unit for the purposes specified in paragraphs two, three or six of § 12307(a) of the statute, submit evidence that it is the certified representative of a bargaining unit which includes more than 50 percent of the employees in the unit for which designation is sought.
+(f) All communications, petitions and reports intended for consideration shall be sent to the Commission's attention through the Department of City Planning's website or the Calendar Office.
 
-   (3) If such evidence is not timely submitted, the Board may dismiss the petition forthwith. Sufficiency of interest shall not be litigated.
+(g) The Calendar Officer shall transmit to the City Council and other city departments affected thereby true copies of all reports and resolutions adopted.
 
-(d) Petition by public employer – contents. Unless e-filed pursuant to 61 RCNY § 1-12(e)(2), the petition must contain:
 
-   (1) The name, address, telephone number, and email address of the petitioner;
 
-   (2) A general description of petitioner's function and the number of its employees;
 
-   (3) The titles and the approximate number of employees in the units claimed to be appropriate;
 
-   (4) An allegation that a question or controversy exists concerning representation and a concise statement setting forth the nature thereof, and, in any case when a public employer entertains a good faith doubt concerning the continued majority status of a certified union, an allegation to that effect with a concise statement of the facts upon which the doubt is based;
 
-   (5) The names, addresses, and telephone numbers of the public employee organizations which claim to represent the employees in the alleged unit(s);
 
-   (6) A request that the Board investigate the alleged question or controversy.
 
-(e) Decertification petition – contents; proof of interest.
+*§ 1-03 Suspension of Rules.* ::
 
-   (1) A petition alleging that a certified or designated employee organization is no longer the representative of the public employees in an appropriate bargaining unit may be filed by a public employee or group of public employees, or their representative. Unless e-filed pursuant to 61 RCNY § 1-12(e)(2), the petition must be in writing and signed and must contain:
 
-      (i) The name, address, telephone number, and email address of petitioner;
+The suspension of any of the rules of Practice and Procedure of the City Planning Commission may be ordered by unanimous vote.
 
-      (ii) The name, address, and telephone number of the certified or designated employee organization;
 
-      (iii) A description of the bargaining unit(s) and the approximate number of employees in the unit(s);
 
-      (iv) The expiration date of any contract covering employees in the unit(s);
 
-      (v) An allegation that the certified or designated employee organization no longer is the representative of the employees in the appropriate unit(s), and any other relevant and material facts.
+Chapter 2: Uniform Land Use Review Procedure (ULURP)
+--------------------------------------------------
 
-   (2) (i) Simultaneously with the filing of a decertification petition, the petitioner must submit to the Board evidence that at least 30 percent of the employees in each unit do not desire to be represented by the certified employee organization;
 
-      (ii) Simultaneously with the filing of a petition for revocation of a designation as collective bargaining representative of a unit for the purposes specified in paragraphs two, three or six of § 12-307(a) of the statute, the petitioner must submit to the Board evidence that the designated representative is not the certified representative of the bargaining unit or units which include more than 50 percent of the employees in the unit which it has been designated to represent;
 
-      (iii) If such evidence is not timely submitted, the Board may dismiss the petition. Sufficiency of interest shall not be litigated.
+*§ 2-01 Actions Subject to Procedure.* ::
 
-(f) Proof of interest – current. Designation and authorization cards and petitions, submitted as proof of interest under 61 RCNY § 1-02(c)(2), (e)(2) or (l), must be dated and signed by the employees, by hand or electronically, not more than seven months prior to the commencement of the proceeding before the Board. Proof of interest shall be based on the payroll immediately preceding the date of filing of the petition, unless the Board deems such period to be unrepresentative.
 
-(g) Petitions – contract bar; time to file. A valid contract between a public employer and a public employee organization will bar the processing of any petition filed outside of the window periods described below. The time period for filing a petition for certification, designation, decertification or revocation of designation pursuant to 61 RCNY § 1-02(c), (d), or (e) of these rules is: for a contract of no more than three years' duration, a petition can be filed not less than 150 or more than 180 calendar days before the contract's expiration date; for a contract of more than three years' duration, a petition can be filed not less than 150 or more than 180 calendar days before the contract's expiration date, or not less than 150 or more than 180 calendar days before the end of the third year of that contract. No petition for certification, decertification or investigation of a question or controversy concerning representation may be filed after the expiration of a contract. However, if a window period would be eliminated or shortened, such as when a public employer and a public employee organization sign a successor contract after that contract has expired or less than 180 days before it expires, then a petition for certification, decertification or question or controversy concerning representation may be filed in the 30-day period following the date the successor contract is signed by all parties. Moreover, if the Board finds that unusual or extraordinary circumstances exist, such as when there is reason to believe that a recognized or certified employee organization is defunct or has abandoned representation of the employees in the unit for which it was recognized or certified, the Board may process a petition otherwise barred by this rule.
+The land use review procedure which is set out herein shall govern the following actions:
 
-(h) Petitions – notice of filing. Upon the filing of a petition pursuant to the provisions of 61 RCNY § 1-02, the Office of Collective Bargaining will publish the notice on its website and in the City Record. The notice shall include the date the petition was filed, the name and address of the petitioner, the name and address of the public employer, and a statement of the action sought. The notice will be prepared by the Board and delivered to the employer, which must post or distribute the notice in the manner in which it customarily communicates information to employees. If posted, notices must remain for a minimum of ten business days. Within 20 business days of service of the notice, the public employer must provide the Director of Representation with a certification that the notice has been posted or distributed.
+(a) changes in the City Map pursuant to Charter §§ 198 and 199;
 
-(i) Responses – time to file. For petitions filed pursuant to 61 RCNY § 1-02(c), (d), or (e) the public employer or an employee organization certified to represent the existing bargaining unit must file its written submission with the Director of Representation within 20 business days after service of the notice of filing of a petition pursuant to 61 RCNY § 1-02, with proof of service upon all other parties, setting forth its position on the petition. As circumstances require, the request of the public employer or employee organization for an extension of time to file its written submission, on notice to all parties, shall not be unreasonably denied. When it is the public employer's position that any of the petitioned for titles and employees are managerial or confidential, in its written submission the employer must comply with the requirements of 61 RCNY § 1-02(v) insofar as they require a statement of the factual basis of the allegation that the affected titles and employees are managerial or confidential, as the case may be. In the absence of any response from the public employer or an employee organization certified to represent the existing bargaining unit within the time specified above, the Board shall proceed with processing the petition. For petitions filed pursuant to 61 RCNY § 1-02(c) and (e), responses filed by an employer must contain an alphabetized list of all the employees in the unit(s) sought.
+(b) approval of a map of a subdivision or the platting of land into streets, avenues or public places pursuant to Charter § 202;
 
-(j) Investigation.
+(c) designations of zoning districts under the Zoning Resolution, including conversion from one land use to another land use pursuant to Charter §§ 200 and 201;
 
-   (1) In its investigation of a question or controversy concerning representation, the Board may conduct informal conferences or hearings, may direct an election or elections, or use any other suitable method to resolve the question concerning representation.
+(d) adoption of special permits within the jurisdiction of the City Planning Commission (hereafter: "the Commission") under the Zoning Resolution pursuant to Charter §§ 200 and 201;;
 
-   (2) If, after a petition has been filed pursuant to 61 RCNY § 1-02 and at any time prior to the close of the record, it appears to the Director of Representation that no further proceedings are warranted because the petition does not raise a question concerning representation or is otherwise insufficient due to untimeliness, contract or certification bar or lack of a sufficient showing of interest, the Director of Representation may dismiss the petition by administrative action, and will so advise the parties in writing, setting forth the grounds for dismissal.
+(e) selection of sites for capital projects pursuant to Charter § 218;
 
-   (3) Within 10 business days after service of a letter dismissing a petition, the petitioner may obtain review of the dismissal by filing with the Board a statement in writing setting forth the reasons for the appeal together with proof of service thereof upon all other parties. A response by a non-moving party may be filed within 10 business days of service of the appeal.
+(f) granting of revocable consents pursuant to Charter § 364, requests for proposals and other solicitations for franchise pursuant to Charter § 363 and major concessions as defined pursuant to Charter § 374;
 
-(k) Appropriate units – determination. In determining appropriate bargaining units, the Board will consider, among other factors:
+(g) authorization of improvements in real property, the costs of which are payable other than by the City pursuant to Charter § 220;
 
-   (1) Which unit will assure public employees the fullest freedom in the exercise of the rights granted under the statute and the applicable executive order;
+(h) approval of housing or urban renewal plans and projects pursuant to City, State or Federal laws;
 
-   (2) The community of interest of the employees;
+(i) approval of sanitary or waterfront landfills pursuant to applicable Charter provisions or other provisions of law;
 
-   (3) The history of collective bargaining in the unit, among other employees of the public employer, and in similar public employment;
+(j) approval of sale, lease (other than lease of space for office uses), exchange or other disposition of real property of the City and, sale or lease of land under water pursuant to Charter § 1602, Chapter 15 or other applicable provisions of law;
 
-   (4) The effect of the unit on the efficient operation of the public service and sound labor relations;
+(k) acquisitions by the city of real property (other than acquisition of office space for office use or a building for office use), including acquisition by purchase, condemnation, exchange or lease and including the acquisition of land under water pursuant to Charter § 1602, Chapter 15, or other applicable provisions of law;
 
-   (5) Whether the officials of government at the level of the unit have the power to agree or make effective recommendations to other administrative authority or the legislative body with respect to the terms and conditions of employment which are the subject of collective bargaining;
+   (1) for purposes of review by a community board or, where appropriate, by community boards and a borough board, the granting by the Board of Standards and Appeals of a variance of the Zoning Resolution pursuant to Charter § 668(2);
 
-   (6) Whether the unit is consistent with the decisions and policies of the Board.
+(m) for purposes of review by a community board or, where appropriate, by community boards and a borough board, the granting by the Board of Standards and Appeals of a special permit assigned to its jurisdiction under the Zoning Resolution pursuant to Charter § 668(2);
 
-(l) Determination of representatives on consent. Subject to the approval of the Director of Representation, the parties to a representation proceeding may waive a hearing and agree in writing on the method by which the Board shall determine the question of representation.
+(n) such other matters involving the use, development or improvement of property as proposed by the Commission and enacted by the City Council pursuant to local law.
 
-(m) Voluntary recognition – notification.
 
-   (1) Filing of notification. When the public employer proposes voluntarily to recognize a public employee organization for the representation of public employees pursuant to § 12-303(l)(2) of the statute, the employer must file a signed written notification with the Board.
 
-   (2) Notification of proposed recognition by public employer – contents. Unless e-filed pursuant to 61 RCNY § 1-12(e)(2), the notification must contain:
 
-      (i) The name, address, telephone number, and email address of the public employer;
 
-      (ii) A general description of the public employer's function and the number of its employees;
 
-      (iii) The titles and the approximate number of employees in the units which have been recognized;
+*§ 2-01.1 Zoning Resolution Amendments Adopted Pursuant to City Charter § 200 or § 201.* ::
 
-      (iv) A statement that no question or controversy is known to exist concerning representation thereof;
 
-      (v) The names, addresses, and telephone numbers of the public employee organization(s) which has been recognized to represent the employees in the units;
+Applications to amend the Zoning Resolution pursuant to City Charter § 201 and actions to amend the Zoning Resolution initiated by the Commission pursuant to Charter § 200, which concern revisions to the text of the Zoning Resolution, shall be subject to the provisions of subdivisions (b), (c), (d) and (g) of 62 RCNY § 2-06 and subdivision (c) of 62 RCNY § 2-02.
 
-      (vi) A request that the certification held by the public employee organization(s) be amended, if applicable, to reflect the voluntary recognition.
 
-   (3) Notification of proposed recognition – notice of filing. Upon the filing of a notification of proposed recognition pursuant to the provisions of 61 RCNY § 1-02, the Office of Collective Bargaining will publish the notice on its website and in the City Record. The notice shall include the date the notification of recognition was filed, the name and address of the public employer, the name and address of the public employee organization, and a statement of the action sought. The notice will be prepared by the Board and delivered to the employer, which must post or distribute the notice in the manner by which it customarily communicates information to employees. If posted, notices must remain for a minimum of 10 business days. Within 20 business days of service of the notice, the public employer must provide the Director of Representation with a certification that the notice has been posted or distributed.
 
-   (4) Objection to proposed recognition. An employee, a group of employees, or a public employee organization may file a statement with the Board objecting to the proposed recognition and alleging that a question or controversy exists regarding representation. The statement of objection, if filed in a timely manner within the period of objection, will preclude a proposed recognition from becoming effective. If an objection is timely filed, the notice of voluntary recognition will be deemed a petition pursuant to 61 RCNY § 1-02(d) and will be processed accordingly.
 
-   (5) Period of objection. A public employee or employee organization objecting to the recognition must file its statement of objection, with proof of service on the public employer and public employee organization, setting forth the basis for its opposition within 10 business days of publication of the notice of filing in the City Record.
 
-(n) Elections – participation; eligibility.
 
-   (1) If the Board determines, as part of its investigation, to conduct an election, it shall determine who may participate in the election and appear on the ballot, the form of the ballot, the employees eligible to vote in the election, and the rules governing the election. An intervening public employee organization, other than a certified public employee organization, shall not be entitled to appear on the ballot except upon a showing of interest, satisfactory to the Board, of at least 10 percent of the employees in the unit found to be appropriate.
+*§ 2-02 Applications.* ::
 
-   (2) When a public employer objects to the addition of supervisory or professional employees to a unit which contains non-supervisory employees or nonprofessional employees pursuant to § 12-309(b)(1) of the statute, an election must be held to determine whether a majority of supervisory or professional employees voting in an election are in favor of such a unit. The electorate of such an election must consist solely of such supervisory or professional employees sought to be added to such a unit. When there is a dispute as to the eligibility of the employees in question or the appropriateness of the proposed unit, those issues shall be resolved by the Board prior to the holding of an election under this subdivision.
 
-   (3) Except upon consent of the parties, no election shall be conducted in any bargaining unit or any subdivision thereof within which a valid election has been held in the preceding 12-month period.
+(a)  Applications: general provisions.
 
-(o) Elections – notice. Prior to the election, the Board will prepare a notice of election which will specify the time, place, and manner in which voting will be conducted, titles of employees in the appropriate unit in which the election is to be conducted, rules concerning eligibility to vote, the form and content of the ballot, and such additional information and instructions as the Board may determine. The public employer must post or distribute the notice in the manner by which it customarily communicates information to employees. If posted, notices must remain until the election has been concluded.
+   (1) Presentation of application. A request for any action shall be submitted to the Department of City Planning. The application must be submitted as provided for in the instructions on the Department of City Planning's website. This includes the submission of forms requesting information required for the "doing business database" established by Local Law 34 for the year 2007, and must include all of the information and documents required by such instructions and forms. For purposes of the acquisition of property by the City, pursuant to 62 RCNY §§ 2-01(e) and 2-01(k), the applicant shall be the requesting agency and the Department of Citywide Administrative Services. For purposes of the approval of housing or urban renewal plans and projects or amendments thereof pursuant to City, State or Federal laws in accordance with 62 RCNY § 2-01(h), the applicant shall be the New York City Department of Housing Preservation and Development or the New York City Housing Authority, as appropriate, or their designees. The Department may not consider the application as filed unless it includes all required components and shall not consider the application as filed unless the required fee has been paid or is paid concurrently with the submission of the application.
 
-(p) Elections.
+   (2) Initial Review. The Department of City Planning shall, within five (5) days, review each application to ensure that all required forms, documents and other exhibits supplied have been submitted and prepared as required by the instructions. If any of the documentation is missing or has been improperly prepared, the applicant will be notified that the submitted application has been rejected, along with a listing of its deficiencies If the documentation is in order, the Department shall assign a docket number and shall transmit a Notice of Receipt of the application to all the appropriate Department divisions and other agencies which review such application, and to the community board(s), Borough President(s), borough board (when appropriate), the City Council and the applicant in accordance with 62 RCNY § 2-02(b). Such Notice of Receipt, when sent to the community board(s), Borough President(s), borough boards and City Council shall include a copy of the application form and all documents included therewith.
 
-   (1) Conduct. All elections must be by secret ballot and must be conducted under the supervision of an agent of the Board in the manner determined by the agent.
+   (3) Substantive Review. The application form, documents and other exhibits shall be subject to review by the appropriate divisions of the Department in order to ensure that the requirements for completeness in 62 RCNY § 2-02(a)(5) have been met prior to certification of the application into ULURP. The Department may request any additional documents, maps, plans, drawings or information necessary to complete or organize the submission, or to clarify its substance and the land use issues attendant to it. The Department of City Planning shall refer such additional application documents or amendments within five (5) days to each affected borough president, community board or borough board, and to the City Council. Not later than sixty (60) days after the Notice of Receipt has been sent, the Department of City Planning shall notify the applicant of any deficiencies or errors in the application, documents and other exhibits, and shall make any requests for revised or supplementary documents and exhibits. The applicant is expected to respond within a reasonable time. Upon receipt of the corrected, revised or supplementary material, the Department of City Planning shall review it within no more than sixty (60) days and make any additional request for further corrections or supplements if needed. If the applicant fails to respond within sixty (60) days after the receipt of a request for revisions, corrections or supplement, the Department of City Planning shall give notice to the applicant that the application will be deemed withdrawn.
 
-   (2) Observers. Each party may be represented by observers selected in accordance with such limitations and conditions as the Board may prescribe.
+   (4) Appeal for Certification. At any time after one hundred and eighty (180) days have elapsed from the date of the Notice of Receipt of any application, the applicant may appeal in writing to the Commission to certify the application as complete. The affected Borough President may also appeal in writing if the Borough President finds that the application is consistent with the land use policy or strategic policy statement of the borough formulated pursuant to § 82, subsection 14 of the Charter. Upon receipt of such an appeal, the Commission shall refer it to the Department of City Planning and the Office of Environmental Coordination or lead agency for an evaluation of the completeness of the application, which shall include an identification of all material requested by the Department of City Planning and the environmental review staff or lead agency but not yet provided by the applicant. If the Commission determines that all pertinent information has been supplied in accordance with the criteria of 62 RCNY § 2-02(a)(5) below, it shall certify the application as complete. If the Commission determines that pertinent information has not been supplied, such information shall be listed by the Department of City Planning and the environmental review staff and sent by the Commission to the applicant within thirty (30) days of receipt of the appeal. When the applicant has responded, either by supplying all the information so requested, or by explaining why such information should not be required in order to certify the application, the Commission shall consider the evaluation and the applicant's response and either certify the application as complete in accordance with 62 RCNY § 2-02(a)(5) or deny the appeal. A denial by the Commission shall state the information that must still be supplied or clearly state the reason for denial. Such determination shall be made not later than sixty (60) days from the date the appeal is received. If the appeal is one which has been made by the affected Borough President, and the land use proposed in the application is consistent with the land use policy or strategic policy statement of the affected Borough President, then a vote of five members shall be sufficient to certify the application as complete in accordance with 62 RCNY § 2-02(a)(5) below. In all other instances, a majority vote of the Commission is necessary to certify an application. A denial of the appeal shall mean that the application remains incomplete, and the Department of City Planning and the environmental review staff shall continue with timely review of the application until all the information required for completeness has been provided at which time certification shall take place. If such review continues for an additional one hundred and eighty (180) days or more beyond the denial, the applicant may again appeal to the Commission under the procedure outlined above to certify the application.
 
-   (3) Challenges. An observer or the Board's agent conducting the election may challenge for good cause the eligibility of any person to vote in the election. Challenged ballots shall be impounded pending Board decision thereon.
+   (5) Certification of Completeness. The Department or the Commission shall certify the application as complete when compliance has been achieved with all of the following:
 
-   (4) Count of ballots. After the polls have been closed, the ballots shall be counted by the Board's agent in the presence of the observers.
+      (i) The standard application form, including for any application certified on or after April 14, 2008, forms requesting information required for the "doing business database" established pursuant to Local Law 34 for the year 2007, has been completed in its entirety with all requested information presented in clear language.
 
-   (5) Report of count. Upon the conclusion of the election, the Board or its agent shall prepare and serve upon the parties a report showing the results of the election.
+      (ii) All accompanying documents, maps, plans, drawings, and other information are properly organized and presented in clear language and understandable graphic form.
 
-(q) Inconclusive elections; runoff. In any election in which three or more choices (including "no representative") appear on the ballot, if no choice receives a majority of the valid ballots cast, and the valid ballots cast for "no representative" total less than 50 percent of the valid ballots cast, the Board may conduct a runoff election in which only the two public employee organizations which received the largest number of valid votes shall appear on the ballot, and the choice of "no representative" shall be omitted from the ballot.
+      (iii) The information supplied on the application form and accompanying documents is fully sufficient to address all issues of jurisdiction and substance which are required to be addressed for the category of action as defined in the Charter, statutes, Zoning Resolution, Administrative Code or other law or regulation.
 
-(r) Post-election procedure – objections; challenges. Within seven business days after service of the report of count, any party may serve on all other parties and file with the Board (with proof of service) objections to the election, to conduct affecting the results of the election, or to the report of count. The objections must be verified and must contain a concise statement of the facts constituting the grounds of objections. The Board may direct oral argument before it, or direct a hearing, or otherwise investigate and make its determination with respect to the objections or any challenged ballots.
+      (iv) All reviews by necessary and related agencies of the State and City have been completed and any required reports, certifications, sign-offs or other such agency actions required by law or regulation prior to ULURP have been secured, or a written waiver of the agency presented. If any such agency does not respond within sixty (60) days, it will be deemed to have waived its review and action as applicable law permits.
 
-(s) Certification – determination of majority; no strike affirmation; disqualification.
+      (v) A determination has been made whether the action is subject to City or State Environmental Quality Review, and if so subject, the lead agency has issued either:
 
-   (1) Upon completion of its investigation of any petition filed pursuant to 61 RCNY § 1-02, the Board shall certify the name of the representative, if any, which has been designated by a majority of the employees in the appropriate bargaining unit or, if an election is held, which has been selected by the majority of the employees casting valid ballots in the election, or make other disposition of the matter. Notice of certifications issued by the Board shall be published in the City Record.
+         (A) a Negative or Conditional Negative Declaration; or
 
-   (2) No public employee organization shall be certified as an exclusive bargaining representative unless it has filed with the Board a no strike affirmation as required by the New York State Public Employees Fair Employment Act.
+         (B) a Notice of Acceptance of a Draft Environmental Impact Statement.
 
-   (3) An employee organization shall not be eligible for certification as an exclusive bargaining representative if it:
+      (vi) Notification of any proposed (E) designation has been submitted to the Department of City Planning as required pursuant to 62 RCNY § 2-02(e) hereof.
 
-      (i) discriminates with regard to the terms and conditions of membership because of race, color, creed, religion, disability, gender, sexual orientation, age, or national origin, or
+(b) Referrals: general provisions. Except as provided in 62 RCNY § 2-02(c) hereof, within nine (9) calendar days after the certification by the Department of City Planning, or by the Commission if certification occurs pursuant to 62 RCNY § 2-02(a)(4) above, that a submission is a complete application, the Department of City Planning shall make the following referrals:
 
-      (ii) engages in or advocates the violent overthrow of the government of the United States or any state or any political subdivision thereof.
+   (1) any application relating to a proposal which occupies or would occupy land located in only one community district shall be referred to the community board for such district;
 
-(t) Certification; designation – life; modification. When a representative has been certified by the Board, the certification remains in effect for one year from the date of the certification and until the Board determines, after a secret ballot election conducted in a proceeding under 61 RCNY § 1-02(c), (d), or (e), that the certified employee organization no longer represents a majority of the employees in the appropriate unit. When a representative has been designated by the Board to represent a unit for the purposes specified in paragraphs two, three or six of § 12-307(a) of the statute, the designation remains in effect for one year from the date of designation and until the Board determines that the designated employee organization no longer represents a majority of the employees in the appropriate unit. Notwithstanding the above bar on challenging a certification within one year of its issuance, in any case when unusual or extraordinary circumstances require, such as when there is reason to believe that a recognized or certified employee organization is defunct or has abandoned representation of the employees in the unit for which it was recognized or certified, the Board may modify or suspend, or may shorten or extend the life of the certification or designation.
+   (2) any application relating to a proposal which occupies or would occupy land located in two or more community districts shall be referred to the community board for each such district and to the borough board for the appropriate borough;
 
-(u) Amendments of certifications – petition; notice of filing; response; disposition by the Board.
+   (3) any application relating to a proposal which occupies or would occupy land located in a joint interest area not included within a community district shall be referred to the community board for each community district bounding such area and to the borough board for the appropriate borough;
 
-   (1) A public employer or the certified bargaining representative of a unit may file a petition requesting amendment of a certification to add and/or delete titles or to reflect that the certified bargaining representative has changed its name. The petition must be in writing, signed, and filed with the Board. If a proposed amendment raises a question concerning the majority status of the certified bargaining representative, the petition must be filed pursuant to 61 RCNY § 1-02(c).
+   (4) all applications shall be referred to the Borough President of the borough in question;
 
-   (2) Unless e-filed pursuant to 61 RCNY § 1-12(e)(2), a petition for amendment of certification must contain:
+   (5) all applications shall be referred to the City Council.
 
-      (i) The name, address, and telephone number of the certified bargaining representative of the unit(s) involved;
+(c) Charter § 201 applications. A request for an amendment to the Zoning Map or the text of the Zoning Resolution by a taxpayer, community board, borough board, Borough President, the Mayor or the Land Use Committee of the Council pursuant to Charter § 201, shall be filed with the Department. Applications for special permits pursuant to § 201 may be filed by any person or agency. Such requests shall be subject to the application and certification procedure of 62 RCNY § 2-02(a) hereof and shall be referred pursuant to 62 RCNY § 2-02(b) hereof.
 
-      (ii) A description of the bargaining unit(s) involved and the date of certification of the bargaining representative;
+(d) Withdrawals. An applicant may at any time file with the Commission a statement that its application is withdrawn. If withdrawal occurs after filings have occurred pursuant to 62 RCNY § 2-06(h)(4), the applicant shall also file a statement of withdrawal with the City Council. Upon the filing of such a statement, the application in question shall be void and no further processing of such application under this uniform land use review procedure shall be undertaken by a community board, Borough President, borough board or the Commission. The Commission shall promptly give notice of such withdrawal to the board or boards, to the Borough President to which the application was referred pursuant to 62 RCNY § 2-02(b) and to the Council, if filings pursuant to 62 RCNY § 2-06(h)(4) have not occurred. The request to which the application relates may thereafter be advanced only in connection with a new application certified as complete pursuant to 62 RCNY § 2-02(a) herein and processed according to this uniform land use review procedure.
 
-      (iii) All titles involved, the number of employees in each title, and the name of each public employer and/or municipal agency at which the employees work;
+(e) Notification of proposed (E) designation.
 
-      (iv) A request that the bargaining representative's certification be amended to reflect the changes recited in the petition.
+   (1) If an application for an amendment to the Zoning Map or text of the zoning resolution pursuant to Charter § 197-c or § 200 and § 201, respectively, includes an (E) designation with respect to potential hazardous materials, air quality or noise on any tax lot or zoning lot pursuant to § 11-15 of the Zoning Resolution of the City of New York, at the time the application is referred pursuant to 62 RCNY § 2-02(b) hereof, the owner or owners of any such tax lot or zoning lot, with the exception of the applicant, shall be notified of the proposed (E) designation. Such notification shall be by the lead agency, as defined in 6 New York Code of Rules and Regulations, Part 617, as amended, and 62 RCNY § 5-02, as amended. If the lead agency is other than the Commission, no such application shall be certified as complete pursuant to 62 RCNY § 2-02(a)(5) hereof until such other lead agency shall have submitted any notification of a proposed (E) designation, in the form and addressed to the parties required by this Section to the Department of City Planning, who shall send such notification as provided by this Section.
 
-   (3) Upon the filing of a petition pursuant to this subdivision, the Office of Collective Bargaining will publish a notice of the filing on its website and in the City Record. The notice shall include the date the petition was filed, the names and addresses of the parties and the changes requested by the petition. The notice shall be prepared by the Board and delivered to the employer, which must post or distribute the notice in the manner by which it customarily communicates information to employees. If posted, notices must remain for a minimum of 10 business days. Within 20 business days of service of the notice, the public employer must provide the Director of Representation with a certification that the notice has been posted or distributed.
+   (2) Such notification shall be by first-class mail and shall be made to the person(s) or entity(ies) identified in the official records of the City of New York as the fee owners of such tax lot or zoning lot and shall be sent to the address or addresses indicated in such records.
 
-   (4) A public employer or employee organization opposing the petition must file its response, with proof of service on the other parties, setting forth the basis for its opposition within 20 business days of service of the notice of filing.
+   (3) The notification shall include or refer to the Department of City Planning's website for:
 
-   (5) In the absence of a response filed by a public employer or employee organization opposing the petition or in the absence of defects revealed by the Board's investigation, the Board shall issue the amendment.
+      (i) a description of the existing zoning and the proposed rezoning for the properties that will include the (E) designation;
 
-   (6) When a petition filed under this subdivision is contested, the Board may conduct informal conferences or hearings, may direct an election or elections, or use any other suitable method to resolve the question concerning representation.
+      (ii) notice to the property owner of the right to attend and testify at any public hearing relating to the proposed Zoning Map amendment;
 
-(v) Petition for designation of employees as managerial or confidential – contents; time to file; notice; intervention; investigation; determination.
+      (iii) the phone numbers for a contact person at the lead agency, or if the lead agency is the Commission, a contact person or persons at the Department of City Planning;
 
-   (1) A petition for the designation of certain of its employees as managerial or confidential may be filed by a public employer. The petition must be in writing, signed, and filed with the Board. Unless e-filed pursuant to 61 RCNY § 1-12(e)(2), the petition must contain:
+      (iv) § 11-15 of the Zoning Resolution of the City of New York or its successor.
 
-      (i) The name, address, telephone number, and email address of petitioner;
 
-      (ii) A general description of petitioner's function;
 
-      (iii) The titles of employees covered by the petition and the number of employees in each;
 
-      (iv) A statement as to whether any of the titles affected by the petition has ever been included in a collective bargaining unit for purposes of negotiation with petitioner; whether any of them has been represented at any time by a certified employee organization; and the current collective bargaining status of each title;
 
-      (v) The expiration date of any current collective bargaining agreement covering employees affected by the petition;
 
-      (vi) A request that the titles and employees affected by the petition be designated either managerial, confidential, or both, as the case may be;
 
-      (vii) A statement of the basis of the allegation that the titles and employees affected by the petition are managerial and/or confidential;
 
-      (viii) The name, address, and telephone number of any certified employee organization which represents persons affected by the petition.
+*§ 2-03 Community Board Actions.* ::
 
-   (2) A petition for the designation of employees as managerial or confidential may be filed:
 
-      (i) Not less than five or more than six months before the expiration date of the contract covering the employees sought to be designated managerial or confidential; or
+(a) General provisions.
 
-      (ii) During the pendency of a representation proceeding in which the petitioned for unit includes the employees sought to be designated managerial or confidential; or
+   (1) Except as provided below, within sixty (60) calendar days after a community board's receipt of a complete application referred by the Department of City Planning, the Board of Standards and Appeals or the Commission, the community board shall hold a public hearing and adopt and submit as provided herein a written recommendation concerning such application. For purposes of this paragraph (1), a community board shall be deemed to have received an application nine (9) calendar days after the date of certification. The Department of City Planning shall transmit a certified application to the community board, making it available to the community board within (8) days from the date of certification.
 
-      (iii) In the discretion of the Board when unusual circumstances are involved.
+   (2) Where the negative vote of the community board was adopted without a public hearing, without a quorum or at a meeting conducted after its 60-day period for review, such non-complying negative vote shall not serve the purpose of Charter § 197-d(b)(2). The Commission may note the noncompliance and any other deficiency in compliance with this chapter in its report.
 
-   (3) Any employee affected by the petition may apply to the Board for permission to intervene in the proceeding following the general procedures prescribed in 61 RCNY § 1-12(k). The application must be made by a motion addressed to the Board and contain the basis for the request for permission to intervene, including a statement as to whether intervenor appears in support of or in opposition to the petition and a recital of the facts upon which intervenor bases its support or opposition.
+(b) Waivers of hearings and recommendations.
 
-   (4) In its investigation of a question as to the managerial or confidential status of employees, the Board may conduct informal conferences or hearings or use any other suitable method of resolving the matter.
+   (1) Leases. In the case of a proposed lease of property of the City which in the judgment of the community board does not involve a substantial land use interest, such board may waive the holding of a public hearing and preparation of a written recommendation. In such case the community board shall submit to the Department a written waiver of its right to hold a public hearing and to submit recommendations to the City Planning Commission and affected Borough President. When a written waiver of the community board's right to hold a hearing and submit a recommendation is received by the Department of City Planning the community board's period of review shall be deemed ended and the Borough President's time period begun.
 
-   (5) Upon completion of its investigation, the Board shall determine whether or not the titles affected by the petition or any of the persons employed in any such title are managerial or confidential and shall communicate its determination to the parties. Notice of such determination shall also be published in the City Record.
+   (2) Franchises. In the case of Request for Proposal or other solicitation for a franchise which in the judgment of the community board does not involve a substantial land use interest, such community board may submit a written waiver to the Commission of the right to hold a public hearing and the preparation of a written recommendation.
 
-   (6) A determination by the Board made pursuant to this subdivision regarding the managerial or confidential status of a title shall be final and binding and, subject to 61 RCNY § 1-02(v)(2)(iii), the determination shall preclude a petition to represent the title and employees or a petition to designate the title and employees managerial or confidential for a period of two years or until the period specified in 61 RCNY § 1-02(v)(2)(i) above, whichever is later. A petition filed pursuant to this subdivision must include a statement of facts demonstrating such a material change in circumstances subsequent to the Board's prior determination as to warrant reconsideration of the managerial or confidential status of the title or employee. 
+(c) Notice of hearing. Notice of the time, place and subject of a public hearing to be held by a community board on an application shall be given as follows:
 
+   (1) by publication in The City Record for the five (5) days of publication immediately preceding and including the date of the public hearing;
 
+   (2) by publication in the Comprehensive City Planning Calendar distributed not less than five (5) calendar days prior to the date of public hearing;
 
+   (3) to the applicant ten (10) days prior to the date of hearing (with such notice also forwarded to the Department of City Planning);
 
+   (4) for all actions that result in acquisition of property by the City, other than by lease, whether by condemnation or otherwise, the applicant shall notify the owner or owners of the property in question by mail to the last known address of such owner or owners, as shown on the City's tax records, not later than five
 
+   (5) days prior to the date of hearing. An affidavit attesting to the mailing and a copy of the notice shall be submitted to the Department of City Planning prior to the Commission's public hearing;
 
+   (6) Community boards are also encouraged to publicize hearings by publication in local newspapers, posting notices in prominent locations, and other appropriate means.
 
+(d) Conduct of public hearing.
 
-*§ 1-03 Collective Bargaining.* ::
+   (1) Location. A community board public hearing shall be held at a convenient place of public assembly chosen by the board and located within its community district. If in the community board's judgment there is no suitable and convenient place within the community district, the hearing shall be held at a centrally located place of public assembly within the borough. This provision is not intended to affect the requirement of Charter § 2800(h) stating a community board's obligation to meet at least monthly (except during July and August) within its district.
 
+   (2) General character. Hearings shall be legislative type hearings, without sworn testimony or strict rules of evidence. Only members of a community board and persons expressly authorized by the chairperson may question a speaker. All persons appearing and wishing to speak shall be given the opportunity to speak. A community board hearing shall be conducted in accordance with by-laws adopted by the community board.
 
-(a) Definition.
+   (3) Quorum. A public hearing shall require a quorum of 20% of the appointed members of the community board, but in no event fewer than seven such members. The minutes of a meeting at which a public hearing was held shall include a record of the individual members present.
 
-   Board. As used in this section, the term "Board" means the Board of Collective Bargaining.
+   (4) Record. The record of a public hearing shall consist of but not be limited to a list of speaker's names and affiliations (if any), a notation of each speaker's own indication, on a form provided for that purpose, of support or opposition to the application, and any exhibits or written statements offered by speakers.
 
-(b) Bargaining notice – contents. Unless e-filed pursuant to 61 RCNY § 1-12(e)(2), a bargaining notice, served and filed pursuant to § 12-311(a) of the statute, must be on a form prescribed by the Office of Collective Bargaining and must contain:
+(e) Public attendance at meetings of a community board or its committees. The public may attend all meetings of a community board or its committee at which an application for an action subject to this Chapter is to be considered or acted upon in a preliminary or final manner. A community board may close a meeting or committee meeting to the public only as provided in the New York State Open Meetings Law (Public Officers Law, §§ 100 – 111).
 
-   (1) The name, address, telephone number, and email address of the party serving the notice;
+(f) Recommendations and waivers.
 
-   (2) The name, address, telephone number, and email address of the party to whom the notice is directed;
+   (1) Quorum. The adoption of a community board recommendation, or the waiver of a public hearing and recommendation by a community board, shall require a quorum of a majority of the appointed members of the board. The minutes of a meeting at which a recommendation or waiver was adopted shall record the individual members present.
 
-   (3) The expiration date of the current collective bargaining agreement and the date specified therein, if any, for service of a notice of intention to negotiate new contract terms, or a statement that there is no collective bargaining agreement in effect;
+   (2) Vote. The adoption of a community board recommendation or the waiver of a public hearing and recommendation shall be by a public vote which results in approval by a majority of the appointed members present during the presence of a quorum, at a duly called meeting. The vote shall be taken in accordance with the by-laws of the community board.
 
-   (4) A description of the appropriate bargaining unit, including the certification number or numbers of the units covered and the approximate number of employees in the units covered by the request for negotiation;
+   (3) Content. A community board recommendation shall be in writing via a form provided by the Department of City Planning and shall include a description of the application, the time and place of the public hearing on the application, the time and place of the meeting at which the recommendation was adopted and the vote by which the recommendation was adopted. The community board may include in its submission the reasons for the vote and any conditions attached to its vote. The community board may state that its conditional approval shall be considered a negative recommendation for purposes of Charter § 197-d(b)(2) if conditions that it considers essential to minimize land use or environmental impacts are not adopted by the Commission. The City Planning Commission shall give consideration only to those conditions which are related to land use and environmental aspects of the application.
 
-   (5) A request that negotiations begin within 10 business days after service of the notice.
+   (4) Submission. A community board shall submit its recommendation or waiver promptly after adoption, to the Commission, to the Borough President, to the applicant and, in the case of an application referred to two or more community boards and a borough board, to such borough board. If a community board fails to act within the time limits for review the application shall be deemed referred to the next level of review at the completion of the community board's time period.
 
-(c) Extension of time – request. A request for an extension of time to commence bargaining negotiations must be in writing and must be filed with the Director. A copy thereof must be served upon the other party to the proposed negotiations. The request must be filed at least three business days before the time when negotiations should start and must state the reasons for the requested extension of time. The other party may serve and file its written consent or objections to the requested extension, and its reasons therefor. The Director or the Director's designee shall notify the parties in writing whether the request is denied or granted.
+(g) Requests for review of action not in a community district. A community board or borough board may obtain the filed application and supporting documents for any action subject to ULURP which is not located within the district boundaries of such community board or borough board. Such community board or borough board may request review of such applications by writing, either to the Calendar Office of the Commission, or requesting through the Department's website, and it shall state the basis for the board's judgment that the application may significantly affect the welfare of the district or borough served by such board. Thereafter, the community board or borough board may schedule a public hearing on the application, such hearing and notice thereof to be in conformance with 62 RCNY §§ 2-03(c), 2-03(d), 2-05(c) and 2-05(d) and may submit a written recommendation to the Commission. The Commission may receive such recommendation at any time prior to its final action on the application; however, it shall have no authority to extend the review period defined in Charter § 197-c, nor shall a review by a second community board pursuant to this subparagraph (g) require that the application be reviewed by the borough board. A Borough President may similarly obtain a filed application and supporting documents for and request review of any action subject to ULURP which is not located within the boundaries of the borough.
 
-(d) Filing contracts. Every public employer entering into a written collective bargaining agreement with a public employee organization must file copies thereof that are in electronic formats with the Board within 10 business days after the execution of the agreement. Contracts filed with the Board shall be public records and available for inspection at reasonable times.
 
 
 
@@ -291,336 +267,321 @@ Trial examiner. The term "trial examiner" means any authorized person conducting
 
 
 
+*§ 2-04 Borough President Actions.* ::
 
-*§ 1-04 Mediation.* ::
 
+A Borough President may submit a written recommendation on an application, or waive the right to submit a recommendation to the City Planning Commission. Such recommendation or waiver shall be submitted on the form provided not later than 30 days after the receipt of a recommendation or waiver by the City Planning Commission and the Borough President from an affected community board, by the latest to respond of all affected community boards or if any affected community board shall fail to act within the time period, thirty (30) days after the expiration of the time allowed for such community board(s) to act.
 
-(a) Request for mediation – contents. Unless waived by the Deputy Director, a request for the appointment of a mediation panel or mediation assistance by the Deputy Director must be in writing, and upon notice to all parties. Unless e-filed pursuant to 61 RCNY § 1-12(e)(2), the request must be filed on a form prescribed by the Office of Collective Bargaining and must contain:
 
-   (1) The name, address, telephone number, and email address of the other party to the collective bargaining negotiations;
 
-   (2) The date negotiations started;
 
-   (3) The termination date of the collective bargaining agreement between the parties, if any;
 
-   (4) A statement that the parties have been unable to agree on the terms of a collective bargaining agreement, and that collective bargaining will be aided by the appointment of a mediation panel or the assistance of the Deputy Director;
 
-   (5) If the request is for the appointment of a mediation panel, then the number of persons to constitute the panel, if the parties have agreed thereon;
+*§ 2-05 Borough Board Actions.* ::
 
-   (6) If the request is for the appointment of a mediation panel, then the names of persons who are listed on the Office of Collective Bargaining's mediation register who are to constitute the panel, if the parties have agreed thereon.
 
-(b) Appointment of panel. If the Deputy Director determines that the parties have been unable to reach agreement and that collective bargaining would be aided by the appointment of a mediation panel, the Deputy Director shall appoint a panel from the mediation register. The panel shall be of the size and shall consist of the persons agreed upon by the parties, if those persons are available. In the absence of agreement thereon, the Deputy Director shall determine the size and/or membership of the panel. No panel shall be appointed within 30 calendar days of the commencement of negotiations except upon the written request of both parties.
+(a) General provisions. Except as provided below in 62 RCNY § 2-05(b), an affected borough board may conduct a public hearing on an application and submit a written recommendation to the Commission. Such recommendation or waiver shall be submitted on the form provided not later than thirty (30) days after the filing of a recommendation or waiver with the Borough President by the last to respond of all affected community boards, or if any affected community board shall fail to act within the time period, thirty (30) days after the expiration of the time allowed for such community boards to act.
 
-(c) Panel – functions. It shall be the duty of the panel to assist the parties to reach a voluntary and satisfactory agreement. The panel may hold separate or joint meetings with the parties or their representatives, and such meetings shall be non-public unless otherwise agreed upon by the parties, the panel and the Deputy Director.
+(b) Notice of hearing. Notice of the time, place and subject of a public hearing to be held by a borough board for all applications subject to this land use review procedure shall be given as follows:
 
-(d) Panel – guidance by Deputy Director. The panel shall perform its duties under the general guidance and direction of the Deputy Director, to whom it shall report the progress of the mediation and terms of any settlement reached. If the panel is of the opinion that further mediation efforts would be unavailing, it shall so report to the Deputy Director in writing unless waived by the Deputy Director.
+   (1) by publication in The City Record for the five (5) days of publication immediately preceding and including the date of the public hearing;
 
-(e) Confidential disclosures. Subject to the provisions of 61 RCNY § 1-04(d), any information disclosed by the parties to the mediation panel, and all records, reports and documents prepared or received by the panel in the performance of its duties shall be deemed confidential and shall not be disclosed.
+   (2) by publication in the Comprehensive City Planning Calendar distributed not less than five (5) calendar days prior to the date of hearing;
 
+   (3) to the applicant ten (10) days prior to the date of hearing;
 
+   (4) for all actions resulting in acquisition of property by the City, other than by lease, whether by condemnation or otherwise, the applicant shall notify the owner or owners of the property in question by mail to the last known address of such owner or owners, as shown on the City's tax records, not later than five (5) days prior to the date of hearing. An affidavit attesting to the mailing and a copy of the notice shall be submitted to the Department of City Planning prior to the Commission's public hearing.
 
+(c) Conduct of hearing.
 
+   (1) Location. A borough board public hearing shall be held at a convenient place of public assembly chosen by the board and located within the borough.
 
+   (2) General character. Hearings shall be legislative type hearings, without sworn testimony or strict rules of evidence. Only members of a borough board or persons expressly authorized by the chairperson may question a speaker. All persons appearing and wishing to speak shall be given the opportunity to speak. A borough board's hearing shall be conducted in accordance with by-laws adopted by such borough board.
 
+   (3) Quorum. A public hearing shall require a quorum of a majority of the borough board's members who are entitled to vote on the application in question. Pursuant to Charter § 85, community board members of the borough board may only vote on issues that directly affect the community district represented by such members. The minutes of the meeting at which a public hearing was held shall record the individual members present.
 
+   (4) Record. The record of a public hearing shall consist of a list of speakers' names and affiliations if any, a notation of each speaker's own indication, on the form provided for that purpose, of support or opposition to the application and any exhibits or written statements offered by speakers.
 
-*§ 1-05 Impasse Panels.* ::
+(d) Public attendance at meetings. The public may attend all meetings of a borough board at which an application for an action subject to this Chapter is to be considered or acted upon in a preliminary or final manner. A borough board may close a meeting to the public only as provided in the New York State Open Meetings Law (Public Officers Law, §§ 100 – 111).
 
+(e) Recommendations and waivers.
 
-(a) Definition.
+   (1) Quorum. The adoption of a borough board recommendation or the waiver of a public hearing and recommendation by a borough board shall require a quorum of a majority of the borough board's members entitled to vote on the application in question. Pursuant to Charter § 85, community board members of the borough board may only vote on issues that directly affect the community district represented by such member. The minutes of a meeting at which a recommendation or waiver was adopted shall record the individual members present.
 
-   Board. As used in this section, the term "Board" means the Board of Collective Bargaining.
+   (2) Vote. Adoption of a recommendation shall be by a public roll call vote which results in approval by a majority of the members entitled to vote on the application in question present during the presence of a quorum, at a duly called meeting. Pursuant to Charter § 85, community board members of the borough board may only vote on issues that directly affect the community district represented by such member.
 
-(b) Request for impasse panel – contents. A request for the appointment of an impasse panel may be made jointly by the public employer and the certified or designated employee organization, or singly by either party. Unless waived by the Director, the request must be in writing and signed by the public employer and the certified or designated employee organization or by any of them, if made singly. If the request is by a single party, a copy must be served on the other party. Unless e-filed pursuant to 61 RCNY § 1-12(e)(2), the request must be filed with the Board on a form prescribed by the Office of Collective Bargaining and shall contain:
+   (3) Content. A borough board recommendation shall be in writing on a form provided by the Department of City Planning and shall include a description of the application, the time and place of public hearing, the time and place of the meeting at which the recommendation was adopted and the votes of individual borough board members. The borough board may include in its submission the reasons for its vote and any conditions to the vote.
 
-   (1) The names, addresses, telephone numbers, and email addresses of the parties;
+   (4) Submission. A borough board shall submit its recommendation or waiver on the form promptly after adoption to the Commission and to the applicant.
 
-   (2) The date when negotiations began and the date of the last meeting;
 
-   (3) The nature of the matters in dispute and any other relevant facts, including a list of the specific employer and/or employee organization demands upon which impasse has been reached;
 
-   (4) A statement that collective bargaining (with or without mediation) has been exhausted and that conditions are appropriate for the creation of an impasse panel;
 
-   (5) The size of the panel to be appointed, if the parties have agreed thereon;
 
-   (6) The names of the persons who are listed on the Office of Collective Bargaining's impasse panel register and who are to constitute the panel, if the parties have agreed thereon.
 
-(c) Investigation by Director upon request. Upon receipt of the request for an impasse panel, the Director may conduct or cause to be conducted an investigation to ascertain if the conditions for an impasse panel have been met, namely, that the collective bargaining negotiations have been exhausted and that the conditions are appropriate for the creation of an impasse panel.
 
-(d) Investigation by Director without request. The Director may cause such investigation or hearing to be conducted without receipt of a request for the appointment of an impasse panel from either or both of the parties.
 
-(e) Director's recommendation. If the Director concludes that collective bargaining negotiations have been exhausted and that conditions are appropriate for the creation of an impasse panel, the Director shall convey such conclusion either orally or in writing to the Board, with information as to the nature of the dispute as the Board may require. The parties shall be notified in writing of the Director's recommendation. If the initial request was not a joint request, the party or parties not requesting the creation of an impasse panel may object to the recommendation, in writing, within three business days after service of notice of the recommendation.
+*§ 2-06 City Planning Commission Actions.* ::
 
-(f) Authorization of panel. If the Board determines that collective bargaining negotiations (with or without mediation) have been exhausted and that conditions are appropriate for the creation of an impasse panel, it shall instruct the Director to appoint such panel. In reaching its determination, the Board may conduct or direct any additional investigation, conferences or hearings as it deems advisable and proper. The Director may appoint an impasse panel, without prior consultation with the Board, upon request of both parties.
 
-(g) Scope of collective bargaining. When the appointment of an impasse panel has been authorized in accordance with 61 RCNY § 1-05(f), a petition seeking a determination whether a particular demand is within the scope of collective bargaining must be filed in accordance with 61 RCNY § 1-07(b)(2) within 20 business days of the notification of the authorization. If a scope petition is filed during the pendency of an impasse proceeding, the matter shall be expedited; the impasse proceeding shall not commence until a final determination of the scope petition by the Board or withdrawal of the petition.
+(a) General provisions. The Commission shall hold a public hearing on all applications made pursuant to § 197-c of the Charter not later than sixty (60) calendar days after the expiration of the time allowed for the filing of a recommendation or waiver with it by an affected Borough President. Following its hearing and within its applicable sixty (60) day period, the Commission shall approve, approve with modifications or disapprove such application and file its decision pursuant to 62 RCNY § 2-05(h)(4) below.
 
-(h) Size of panel. An impasse panel shall consist of such number of persons listed on the Board's impasse panel register as the parties may have agreed upon. In the absence of agreement, the Director shall fix the size of the panel.
+(b) Zoning text amendments pursuant to Charter § 200 or § 201. The Commission shall hold a public hearing on an application for a zoning text amendment pursuant to Charter § 200 or § 201. Such hearing shall be conducted in accordance with 62 RCNY § 2-06(f).
 
-(i) Selection of panel. If the parties have not agreed on the persons to serve on the panel, each of the parties shall receive an identical list of at least seven names chosen by the Director from the impasse panel register. Each party shall have five business days within which to number at least five of the names in order of preference, and return the list to the Director. Failure to return the list within the specified time is deemed approval of all persons named. The Director shall appoint the panel from those persons who have been approved by both parties, with due consideration for the designated orders of preference. If one or more of those approved decline or are unable to serve, the Director, to the extent necessary, shall appoint the panel members without the submission of additional lists. At the parties' request, the Director may approve an alternative procedure for selecting the members of an impasse panel.
+(c) Modification of application.
 
-(j) Panel – powers and duties. An impasse panel has the powers and duties set forth in § 12-311(c)(3)(a) through (d) of the statute.
+   (1) The Commission may propose a modification of an application, including an application for a zoning text amendment pursuant to Charter § 200 or § 201, which meets the criteria of 62 RCNY § 2-06(g) below. Such proposed modification may be based upon a recommendation from an applicant, community board, borough board, Borough President or other source. Where a modification is proposed, the Commission shall hold a public hearing on the application as referred to a community board or boards and on the proposed modification. Promptly upon its decision to schedule a proposed modification for public hearing, the Commission shall refer the proposed modification to the community board or community boards, borough board, and the affected Borough President to which the application was earlier referred, for such action as such board or boards or Borough President deem appropriate.
 
-(k) Hearing; record.
+   (2) The above provision shall not limit the Commission's ability to make a minor modification of an application.
 
-   (1) Hearings before impasse panels shall be stenographically reported and transcribed. The parties shall share the cost thereof. Hearings shall not be public unless agreed to by the parties and the panel and approved by the Director.
+(d) Notice of hearing. Notice of the time, place and subject of a public hearing by the Commission for all applications subject to this uniform land use review procedure, including applications for zoning text amendments pursuant to Charter § 200 and § 201 and modified applications pursuant to 62 RCNY § 2-06(c)(1) shall be given as follows:
 
-   (2) The record shall consist of all pleadings, exhibits and other documents submitted by the parties to the panel, the transcript of testimony taken in hearings before the panel, any statements of positions as to the issues submitted by the parties prior to, during or after the hearing, the report and recommendations issued by the panel and any other documents which the Board, in its discretion, deems necessary and pertinent.
+   (1) by publication in The City Record beginning not less than ten (10) calendar days immediately prior to the date of hearing and continuing until the day prior to the hearing;
 
-(l) Panel reports – publication, acceptance or rejection.
+   (2) by publication in the Comprehensive City Planning Calendar distributed not less than ten (10) calendar days prior to the date of hearing;
 
-   (1) Report and recommendations. An impasse panel shall submit its report and recommendations to the Director, to each of the parties, and to any body, agency or official whose action is required to implement the panel's recommendations.
+   (3) by transmitting notice to the concerned community board or community boards Borough President and borough board and to the applicant not less than ten (10) calendar days prior to the date of hearing;
 
-   (2) Publication. The report and recommendations shall be released for publication not later than seven calendar days after its submission or, upon written agreement of the parties, filed with and approved by the Director, not later than 20 business days after its submission, provided that if the parties conclude a collective bargaining agreement prior to the date on which the report and recommendations is to be released, it shall not be released except upon consent of the parties communicated to the Director.
+   (4) for all actions that result in acquisition of property by the City, other than by lease, whether by condemnation or otherwise, the applicant shall notify the owner or owners of the property in question by mail to the last known address of such owner or owners, as shown on the City's tax records, not later than five
 
-   (3) Acceptance or rejection. Within 10 business days after submission of the panel's report and recommendations, or such additional time (not exceeding 30 calendar days from the submission of the panel report) as the Director may permit, each party must notify the other party and the Director, in writing, of its acceptance or rejection, in whole or in part, of the panel's report and recommendations. Failure to so notify is deemed acceptance of the recommendations. The Director may release the acceptances and/or rejections for publication at such time as the Director may deem advisable.
+   (5) days prior to the date of hearing. An affidavit attesting to the mailing and a copy of the notice shall be submitted to the Department of City Planning prior to the Commission's public hearing.
 
-   (4) Confidentiality. The report and recommendations of the impasse panel and the acceptances and/or rejections of the parties shall be confidential records until released for publication by the Director.
+(e) Posting of notices for hearings on the disposition of occupied city-owned residential buildings. For any application involving disposition of a city-owned residential building, which at the time of application is occupied by tenants, the applicant shall post notice of the Commission public hearing as discussed below:
 
-(m) Review of panel report and recommendations.
+   (1) at least eight (8) days prior to the Commission public hearing a notice, on a form provided by the Department of City Planning, shall be posted by the applicant in the building subject to the application, informing the tenants of the proposed action and the right of the public to appear at the Commission hearing and testify; and
 
-   (1) Appeal of impasse panel report and recommendations. A party who rejects in whole or in part the report and recommendations of an impasse panel pursuant to § 12-311(c)(3)(e) of the statute may appeal to the Board for review of the report and recommendations. All appeals pursuant to this subdivision must be initiated by notice of appeal and petition and may not be raised as part of an answer to the petition of another party. The record of proceedings before the impasse panel must be filed simultaneously with the filing of the petition.
+   (2) such notice shall be posted in common public space on the ground floor of the building accessible to all building tenants; and
 
-   (2) Petition.
+   (3) the applicant will file with the Department of City Planning an affidavit attesting to the posting of the notice and date and specific location where the notice was posted. The affidavit shall be signed by the person posting the notice.
 
-      (i) Contents. A petition filed pursuant to 61 RCNY § 1-05(m) must be signed and must specify:
+(f) Conduct of hearing.
 
-         (A) The ground upon which the appeal is taken;
+   (1) Location. Commission public hearings shall be held at 120 Broadway, New York, New York, unless otherwise ordered by the Chair.
 
-         (B) The alleged errors of fact and/or judgment of the panel, precisely identifying those parts and portions of the report and recommendations allegedly in error;
+   (2) General Character. Hearings shall be legislative type hearings, without sworn testimony, strict rules of evidence or opportunity for speakers to cross-examine one another. Only members of the Commission may question a speaker (except at a joint Commission/CEQR hearing at which officers of the lead agency and the office of Environmental Coordination may also ask questions). All persons filling out an appearance form shall be given the opportunity to speak. The chairperson may prescribe a uniform limited time for each speaker.
 
-         (C) Any part of the testimony and evidence relating to the report and recommendations or the grounds upon which the appeal is taken, to support the allegations of the petition;
+   (3) Quorum. A public hearing shall require a quorum of a majority of the members of the Commission.
 
-         (D) The modifications requested;
+(g) Commission actions.
 
-         (E) Such additional matters as may be relevant and material.
+   (1) Scope of action. The Commission shall approve, approve with modifications or disapprove each application.
 
-      (ii) Service and filing. The petition pursuant to 61 RCNY § 1-05(m) must be served upon all parties and must be filed, with proof of service, with the Board within 10 business days of the rejection of the report and recommendations.
+   (2) Vote. The Commission shall act by the affirmative roll call vote of at least seven (7) members at a public meeting, except that pursuant to Charter § 197-c, subsection h, approval or approval with modifications of an application relating to a new city facility for site selection for capital projects, the sale, lease (other than the lease of office space), exchange or other disposition of the real property of the City, including sale or lease of land under water pursuant to § 1602, Chapter 15 of the Charter or other applicable provisions of law; or acquisitions by the City of real property (other than the acquisition of office space for office use or a building for office use), including acquisition by purchase, condemnation, exchange or lease and including the acquisition of land under water pursuant to § 1602, Chapter 15 and other applicable provisions of law, shall require the affirmative vote of nine members of the Commission if the affected Borough President:
 
-   (3) Answer.
+      (i) recommends against approval of such application pursuant to subdivision g of Charter § 197-c; and
 
-      (i) Contents. Respondent's answer to the petition must be signed and must contain:
+      (ii) has proposed an alternative location in the same borough for such new facility pursuant to subdivision f or g of Charter § 204.
 
-         (A) Admissions or denials of the allegations of the petition;
+   (3) Commission report. A report of the Commission shall be written with respect to each application subject to this procedure on which a vote has been taken. The report shall include:
 
-         (B) A statement of the nature of the disagreement;
+      (i) a description of the certified application;
 
-         (C) Any additional facts which are relevant and material;
+      (ii) a summary of testimony at all Commission public hearings held on the application;
 
-         (D) Other affirmative matters or defenses as may be appropriate. The answer must be addressed solely to the petition and must not contain any matter relating to any objections which respondent may have to the report and recommendations.
+      (iii) all community board, Borough President or borough board written recommendations concerning the application;
 
-      (ii) Service and filing. Within 10 business days after service of the petition, respondent must serve its answer upon petitioner and any other party respondent, and must file its answer, with proof of service, with the Board.
+      (iv) the consideration leading to the Commission's action, including reasons for approval and any modification of the application and reasons for rejection by the Commission of community board, Borough President or borough board recommendations;
 
-   (4) Briefs; service and filing. Petitioner's brief, if any, must be served and filed simultaneously with its petition. Respondent's answering brief, if any, must be served and filed simultaneously with its answer. Parties must file proof of service with the Board.
+      (v) any findings and consideration with respect to environmental impacts as required by the State Environmental Quality Review Act and regulations;
 
-   (5) Oral argument; hearing. The Board, in its discretion, may grant the request of a party for oral argument or, in a case involving allegations of any of the grounds set forth in subparagraphs (i), (ii), or (iii) of § 7511(b) of the New York Civil Practice Law and Rules, may grant and direct a hearing; the request must be filed within 10 business days after issue has been joined. The Board may direct that oral argument or hearing be held without a request from either party where it finds that to do so will contribute to a determination of the matter.
+      (vi) the action of the Commission, including any modification of the application;
 
+      (vii) the votes of individual Commissioners;
 
+      (viii) any dissenting opinions.
 
+   (4) Filing of decisions of the Commission. The City Planning Commission shall file its decision with the affected Borough President and with the City Council. All filings with the Council shall include all associated community board, Borough President or borough board recommendations. The Commission shall transmit any decision to the applicant and to the community board or community boards, and borough board to which the application was referred. Filings with the City Council and Borough President shall be completed within the Commission's sixty (60) day time period.
 
+   (5) Review of Council modifications. The Commission shall receive from the City Council during its fifty (50) day period for review the text of any proposed modification to the Commission's prior approval of an action. Upon receipt the Commission shall have fifteen (15) days to review and to determine:
 
+      (i) in consultation with the Office of Environmental Coordination and lead agency as necessary, whether the modification may result in any significant adverse environmental effects which were not previously addressed; and
 
+      (ii) whether the modification requires the initiation of a new application. In making this determination, the Commission shall consider whether the proposed modification:
 
+         (A) increases the height, bulk, envelope or floor area of any building or buildings, decreases open space, or alters conditions or major elements of a site plan in actions (such as a zoning special permit) which require the approval or limitation of these elements;
 
-*§ 1-06 Arbitration.* ::
+         (B) increases the lot size or geographic area to be covered by the action;
 
+         (C) makes necessary additional waivers, permits, approvals, authorizations or certifications under sections of the Zoning Resolution, or other laws or regulations not previously acted upon in the application; or
 
-(a) Definition.
+         (D) adds new regulations or deletes or reduces existing regulations or zoning restrictions that were not part of the subject matter of the earlier hearings at the community board or Commission. If the Commission has determined that no additional review is necessary and that, either, no significant environmental impacts will result or that possible environmental impacts can be addressed in the time remaining for Commission and Council review, it shall so report to the Council. The Commission may also transmit any comment or recommendation with respect to the substance of the modification, and any proposed further amendment to the modification which it deems as necessary or appropriate. If the Commission has determined that the proposed modification will require a supplementary environmental review or the initiation of a new application, it shall so advise the Council in a written statement which includes the reasons for its determination.
 
-   Board. As used in this section, the term "Board" means the Board of Collective Bargaining.
+   (6) Zoning Resolution text amendments pursuant to Charter §§ 200 and 201. Applications for amendments to the text of the Zoning Resolution pursuant to Charter § 200 or § 201 shall be subject to the provisions of this paragraph (g).
 
-(b) Request for arbitration – service and filing; waiver; contents.
 
-   (1) Unless e-filed pursuant to 61 RCNY § 1-12(e)(2), a public employer or certified or designated public employee organization which desires to arbitrate a grievance must:
 
-      (i) file a request for arbitration on a form and in a manner prescribed by the Office of Collective Bargaining which must contain a plain and concise statement of the grievance to be arbitrated;
 
-      (ii) serve the request for arbitration upon all parties to the agreement under which the request is being made;
 
-      (iii) when the party requesting arbitration is a public employee organization, file a waiver, signed by the grievant(s) and the public employee organization, waiving any rights to submit the contractual dispute being alleged under a collective bargaining agreement to any other administrative or judicial tribunal except for the purpose of enforcing the arbitrator's award.
 
-   (2) The request for arbitration should have copies appended of:
 
-      (i) The written grievance, if any;
 
-      (ii) The Step II and Step III decisions, if any;
+*§ 2-07 Borough President Initiation of City Council Review.* ::
 
-      (iii) The contract provision and/or the rule or regulation that was allegedly violated.
 
-(c) Petitions challenging arbitrability service; filing; responsive pleadings.
+In the case of an application not subject to mandatory council review pursuant to Charter § 197-d(b)(1), which receives an unfavorable recommendation by both an affected community board and affected Borough President and either a favorable vote or favorable vote with modification by the Commission, such application shall be subject to council review and action if the affected Borough President shall file, within five (5) days of receiving the report of the Commission, a written objection to the Commission's vote with the Council and the Commission.
 
-   (1) A petition for a final determination by the Board as to whether the grievance is a proper subject for arbitration, also known as a petition challenging arbitrability, must be served and filed within 10 business days after service of the request for arbitration and the waiver upon the other party to the grievance. If the request for arbitration and waiver are not filed simultaneously, the 10 business day time period shall run from date of service of the waiver or request for arbitration, whichever is later. Failure to file a petition challenging arbitrability within the ten-day time frame shall preclude the arbitrability of the grievance from being contested in any forum.
 
-   (2) Copies of the request for arbitration and all documents set forth in 61 RCNY § 1-06(b)(2) must be attached to a petition challenging arbitrability.
 
-   (3) Pleadings responsive to a petition challenging arbitrability must be filed in accordance with 61 RCNY § 1-07(c)(3), (4), and (5).
 
-(d) Consolidation of arbitration proceedings. A public employer or a public employee organization may request the consolidation of arbitration cases involving the same grievant(s), identical issues or similar facts. In response to the request, cases may be consolidated at the discretion of the Deputy Director, after notice and an opportunity to be heard has been given to the other party. Except when a consolidation request is jointly made by a public employer and a public employee organization, consolidation of arbitration cases may not take place after arbitrators have been appointed in more than one of the cases proposed for consolidation. The Deputy Director's determination shall be made in writing.
 
-(e) Appointment of arbitrator. If no petition pursuant to 61 RCNY § 1-06(c)(1) has been timely filed, or if the Board, after such a petition, has determined that the grievance is a proper subject for arbitration, the public employer and the public employee organization shall have 10 business days to agree upon the arbitrator. If the parties fail to do so, the Deputy Director shall submit to each party an identical list of at least seven names chosen from the arbitration register. Each party shall have seven business days in which to number at least five of the names in order of preference, and to return the list to the Deputy Director. Failure to return the list within the specified time is deemed approval of all the persons named. The Deputy Director shall appoint the arbitrator with due consideration for the designated orders of preference. If one or more of those approved decline or are unable to serve, the Deputy Director, to the extent necessary, shall appoint the arbitrators without the submission of additional lists. At the parties' request, the Deputy Director may approve an alternative procedure for the selection of an arbitrator.
 
-(f) Hearing – powers of arbitrator. The arbitration shall be conducted in the manner, and the arbitrator shall have all the powers, specified in §§ 7505, 7506, 7507 and 7509 of the New York Civil Practice Law and Rules, so far as those sections may be applicable. Arbitration hearings shall not be public unless agreed to by the parties and the arbitrator, and approved by the Deputy Director.
+*§ 2-08 Board of Standards and Appeals.* ::
 
-(g) Hearing – stenographic record; cost. A stenographic record of testimony shall be made upon the request of all parties or at the discretion of the arbitrator following a request by a party. The party or parties wishing a stenographic record must make arrangements through the Office of Collective Bargaining. The requesting party or parties must pay the cost and provide a copy to the arbitrator. If the parties agree or the arbitrator determines that the transcript is the official record of the proceedings, it must be made available to a non-requesting party for inspection at a time and place to be determined by the arbitrator.
 
-(h) Arbitration awards – form of award; time; publication.
+(a) Variance and special permit applications.
 
-   (1) The award shall be in writing, signed and acknowledged by the arbitrator, and shall be delivered to the parties and filed with the Deputy Director within 30 calendar days after the close of the hearing or the filing of briefs, whichever is later, unless the time is extended by the parties.
+   (1) Filing and referral. An application for a variance of the Zoning Resolution or for a special permit which under the Zoning Resolution is within the jurisdiction of the Board of Standards and Appeals shall be filed with the Board of Standards and Appeals. In accordance with the rules of Practice and Procedures (Chapter 1 of the Board of Standards and Appeals rules), the Board of Standards and Appeals shall refer the application to the community board within which district the site is located or, in the case of an application involving a site located within two or more community districts, to the community boards for such districts and to the borough board for the appropriate borough. The Commission, as a party to a proceeding to vary the Zoning Resolution, shall be provided all materials in such proceeding by the Board of Standards and Appeals. Upon the filing with a community board, or with two or more community boards and a borough board, of an application for a variance or a special permit under the jurisdiction of the Board of Standards and Appeals, such community board or community boards and borough board shall review such application pursuant to 62 RCNY §§ 2-03 and 2-05 herein.
 
-   (2) The Board, in its discretion, may publish arbitration awards.
+   (2) Community board waiver or recommendation. In the case of an application to vary the Zoning Resolution or for a special permit under the jurisdiction of the Board of Standards and Appeals, a community board may waive in writing the holding of a public hearing and the adoption of a written recommendation. The community board recommendation or waiver shall be referred to the Board of Standards and Appeals, the Commission and, in the case of an application which was referred to two or more community boards and a borough board, to such borough board. Upon action by or expiration of time to act on an application for each concerned community board and when appropriate, action by or expiration of time to act for an affected borough board, the Board of Standards and Appeals may proceed to review the application and to make a decision.
 
+   (3) Borough board review. In the case of an application to vary the Zoning Resolution or for a special permit pursuant to the Zoning Resolution under the jurisdiction of the Board of Standards and Appeals, a borough board may waive in writing the holding of a public hearing and the adoption of a written recommendation. After action by or expiration of time to act for all affected community boards if subject to borough board review, and upon receipt of a waiver or recommendation from a borough board or expiration of the thirty (30) day time limit for borough board review, the Board of Standards and Appeals may proceed to review the application and to make a decision.
 
+(b) City Planning Commission review. Appearance in Variance Proceeding – In the case of an application to the Board of Standards and Appeals for a variance of the Zoning Resolution, the Commission may appear before the Board of Standards and Appeals and be heard as a party in the variance proceeding if, in the Commission's judgment, granting the relief requested in such application would violate the requirements of the Zoning Resolution which relate to the granting of variances.
 
 
 
 
 
 
-*§ 1-07 Proceedings Before the Board of Collective Bargaining.* ::
 
 
-(a) Definition.
+*§ 2-09 Administrative Provisions.* ::
 
-   Board. As used in this section, the term "Board" means the Board of Collective Bargaining.
 
-(b) Types of proceedings before the Board. A party may file a petition commencing a proceeding pursuant to paragraphs (1) through (4) of this subsection. When appropriate, a party may combine proceedings brought pursuant to paragraphs (2) and (4) in a single petition. The combined petition must be properly titled, must contain separately labeled sections for each proceeding, and each section must comply with the requirements set forth in 61 RCNY § 1-07(c).
+(a) Referrals and filings. Unless otherwise provided herein, any referrals and filings required under this chapter shall be directed to the entities below as follows:
 
-   (1) Interpretation of and compliance with statute. A public employer or public employee organization which is a party to a disagreement as to the application or interpretation of the statute may petition the Board to consider such disagreement and report its conclusions to the parties and the public.
+   (1) if to the Commission, then through the Department of City Planning's website or, alternatively, to the Land Use Review Division, Department of City Planning, 120 Broadway, 31st Floor, New York, New York 10271;
 
-   (2) Scope of collective bargaining.
+   (2) if to a community board, then to the chairperson of such community board at its office or, if there is no office or if no office address is provided to the Land Use Review Division, Department of City Planning, then to such board c/o the Borough President of the borough in question;
 
-      (i) A public employer or certified or designated public employee organization which is party to a disagreement as to whether a matter is within the scope of collective bargaining, including a claim of practical impact under § 12-307(b) of the statute, or under an applicable executive order, or pursuant to a collective bargaining agreement, may petition the Board for a final determination thereof. Pleadings responsive to a scope of bargaining petition must be filed and served in accordance with 61 RCNY § 1-07(c)(3), (4), and (5).
+   (3) if to a borough board, then to such borough board c/o the Borough President of the borough in question;
 
-      (ii) A scope of collective bargaining petition filed after the appointment of an impasse panel has been authorized in accordance with 61 RCNY § 1-05(f) must be filed within the time provided in 61 RCNY § 1-05(g).
+   (4) if to the Board of Standards and Appeals, then to the Executive Director of the Board of Standards and Appeals,, 250 Broadway, 29th Floor, New York, New York 10007;
 
-   (3) Grievance arbitration. A public employer or certified or designated public employee organization which is party to a disagreement as to whether a matter is a proper subject for the grievance and arbitration procedure established pursuant to § 12-312 of the statute or under an applicable executive order or pursuant to a collective bargaining agreement may petition the Board for a final determination thereof. The petition must be filed within the time provided in 61 RCNY § 1-06(c), and responsive pleadings must follow the procedures set forth in 61 RCNY § 1-07(c)(3), (4), and (5).
+   (5) if to the City Council then to the Office of the Speaker City Council, City Hall, New York, New York.
 
-   (4) Improper practices. One or more public employees or any public employee organization acting on their behalf or a public employer may file a petition alleging that a public employer or its agents or a public employee organization or its agents has engaged in or is engaging in an improper practice in violation of § 12-306 of the statute and request that the Board issue a determination and remedial order. The petition must be filed within four months of the alleged violation and must be on a form prescribed by the Office of Collective Bargaining.
+(b) Time provisions.
 
-(c) Pleadings, Procedures and Determinations.
+   (1) Expiration dates. Where the expiration of a time period set forth herein falls on a Saturday, Sunday or legal holiday, the expiration date shall be deemed extended until the next working day.
 
-   (1) Petition – contents; service and filing.
+   (2) Determination. All time periods specified in these regulations shall be calendar days. The commencement and end of time periods shall be recorded and officially calculated and determined by the Director of City Planning.
 
-      (i) Unless e-filed pursuant to 61 RCNY § 1-12(e)(2), a petition filed pursuant to 61 RCNY § 1-07(b) must be verified and must contain:
 
-         (A) The name, address, telephone number, and email address of the petitioner;
 
-         (B) The name, address, and telephone number of the respondent;
 
-         (C) The specific sections of the statute alleged to have been violated;
 
-         (D) A clear and concise statement, in numbered paragraphs, of the facts constituting the claim under 61 RCNY § 1-07(b). The statement must include the nature of the controversy and specify any provisions of the contract, executive order, or collective bargaining agreement involved; a copy of the provisions should be provided. If the controversy involves an alleged improper practice, the statement must include but not be limited to the names of the individuals involved in the particular act specifically alleged and the date, time, and place of occurrence of each particular act alleged. The statement may be supported by affidavits, documents, and other evidence that may be relevant and material but may not consist solely of such attachments, and any attachments or exhibits must be specifically identified and referred to in the petition;
 
-         (E) An argument with citations to legal authority in support of the claims asserted. The argument may be included either in the petition or in a separate memorandum of law;
 
-         (F) A statement of the relief requested.
 
-      (ii) Unless e-filed pursuant to 61 RCNY § 1-12(e)(2), a copy of the petition must be served upon each respondent and must be filed, with proof of service, with the Board.
+*§ 2-10 Interpretation and Amendment of Regulations.* ::
 
-      (iii) The public employer shall be made a party to any improper practice charge pursuant to § 12-306(d) of the statute and must file responsive pleadings in accordance with 61 RCNY § 1-07(c)(3) and (5).
 
-      (iv) Unless e-filing pursuant to 61 RCNY § 1-12(e)(2), a petition filed pursuant to 61 RCNY § 1-07(b) against a public employer or a public employee organization must be served upon the designated agent of the public employer or public employee organization. A listing of designated agents shall be maintained at the Office of Collective Bargaining and on its website. The public employer and/or public employee organization must keep the Office of Collective Bargaining informed of their current designated agent, including their address and email address. Service upon a designated agent listed on the Office of Collective Bargaining's designated agent list shall be deemed proper service.
+(a) Interpretation. This chapter shall be interpreted in accordance with the ordinary meaning of the language herein, and any ambiguities arising herefrom shall be referred to and definitively interpreted in written opinions by the Director of City Planning.
 
-   (2) Executive Secretary Review of Improper Practice Petitions.
+(b) Amendments. The Commission from time to time may amend these regulations, in accordance with the City Administrative Procedure Act, Chapter 45 of the Charter.
 
-      (i) Within 10 business days after a petition alleging improper practice is filed, the Executive Secretary shall review the petition to determine whether the facts as alleged may constitute an improper practice as set forth in § 12-306 of the statute. If, upon such review, the Executive Secretary determines that the petition is not, on its face, untimely or insufficient, notice of such determination shall be served upon the parties by email or by regular mail. The determination shall not constitute a bar to defenses of untimeliness or insufficiency which are supported by probative evidence available to the respondent. If it is determined that the petition, on its face, does not contain facts sufficient as a matter of law to constitute a violation, or that the alleged violation occurred more than four months prior to the filing of the charge, the Executive Secretary may issue a decision dismissing the petition or send a deficiency letter. Copies of such decision or deficiency letter shall be served upon the parties by email or by certified mail.
+(c) Commission Rules of Procedure. These regulations shall supplement and, where there is inconsistency, supersede the rules of Practice and Procedure of the City Planning Commission.
 
-      (ii) Within 10 business days after service of a decision of the Executive Secretary dismissing an improper practice petition as provided in this subdivision, the petitioner may file with the Board a written statement setting forth an appeal from the decision with proof of service upon all other parties. The statement must set forth the reasons for the appeal.
 
-      (iii) Within 10 business days after service of a deficiency letter from the Executive Secretary as provided in this subdivision, the petitioner may serve an amended petition upon each respondent and file the amended petition, with proof of service, with the Board. The amended petition shall be deemed filed from the date of the original petition. The petitioner may also withdraw the charge. If the petitioner does not seek to amend or withdraw the charge, but instead wishes to file objections to the deficiency letter, the petitioner may file with the Executive Secretary a written statement setting forth the basis for the objection with proof of service upon all other parties within 10 business days after service of the deficiency letter. If the petitioner does not timely file an amendment or otherwise respond, the charge will be deemed withdrawn and the matter closed. Upon review of the amended petition or written objection filed by the petitioner, the Executive Secretary shall issue either a notice that the petition is not on its face untimely or insufficient or a written decision dismissing the improper practice petition.
 
-   (3) Answer – contents; service and filing.
 
-      (i) Respondent's answer to the petition must be verified and must contain:
+Chapter 3: Fees and Contributions
+--------------------------------------------------
 
-         (A) Specific admissions or denials of the allegations in the petition in numbered paragraphs which correspond with those in the petition;
 
-         (B) A statement of facts with numbered paragraphs setting forth the nature of the controversy. The statement may be supported by affidavits, documents, and other evidence that may be relevant and material but may not consist solely of such attachments, and any attachments or exhibits shall be specifically identified and referred to in the answer;
 
-         (C) Any defenses as may be appropriate;
 
-         (D) An argument with citations to legal authority in support of the defenses raised. The argument may be included either in the answer or in a separate memorandum of law.
+**Subchapter A: City Environmental Quality Review (CEQR) (Department of City Planning and Department of Environmental Protection)**
 
-      (ii) Within 10 business days after service of the petition, or, if the petition contains allegations of improper practice, within 10 business days of the service of the notice of finding by the Executive Secretary, pursuant to 61 RCNY § 1-07(c)(2)(i) or (iii), that the petition is not, on its face, untimely or insufficient, respondent must serve its answer upon petitioner and any other party respondent. The answer must be filed, with proof of service, with the Board. When special circumstances exist that warrant an expedited determination, it shall be within the discretion of the Director or the Director's designee to order respondent to serve and file an answer within less than 10 business days.
 
-   (4) Reply – contents; service and filing. Within 10 business days after service of respondent's answer, petitioner may serve and file a verified reply which must contain admissions and denials of any facts alleged in the answer. Additional facts or new matters alleged in the answer shall be deemed admitted unless denied in the reply. The reply must be limited to a response to specific facts or arguments alleged in the answer, and the Board may disregard new facts or new arguments raised. When special circumstances exist that warrant an expedited determination, the Director or the Director's designee may order petitioner to serve and file its reply within less than 10 business days. A copy of the reply must be served on each respondent and must be filed, with proof of service, with the Board.
 
-   (5) Briefs – service and filing. Briefs must be filed and served simultaneously with the corresponding petition, answer, or reply, unless prior permission has been granted by the Director or the Director's designee.
+*§ 3-01 Fee for CEQR Applications.* ::
 
-   (6) Case conferences and mediation.
 
-      (i) At any time after a petition has been served and filed pursuant to 61 RCNY § 1-07(b), the Director's designee may, on notice, schedule a case conference to discuss factual, substantive, or procedural matters. Unless special circumstances exist that warrant an expedited case conference, the conference shall not be held prior to the filing of all pleadings or less than 10 business days from the date of scheduling. Absent good cause shown, the failure of a party to appear at a case conference may constitute grounds for dismissal of the absent party's pleading.
+Except as specifically provided in this section, every application made pursuant to Executive Order 91 and 62 RCNY Ch. 5 requires a non-refundable fee which shall be submitted to the lead agency for the action or to an agency that could be the lead agency pursuant to 62 RCNY § 5-03 . The fee for an application shall be as prescribed in the following Schedule of Charges, 62 RCNY § 3-02. The fee for modification for an action, which modification is not subject to § 197-c of the New York City Charter shall be twenty percent of the amount prescribed in the Schedule of Charges for an initial application. The fee for any modification for an action, which is subject to § 197-c of the New York City Charter shall be the amount set forth in the Schedule of Charges (62 RCNY § 3-02) as if the modification were an initial application for the action. Where the fee for an application is set pursuant to 62 RCNY § 3-02(a), and the square footage of the proposed modification is different from the square footage of the original action, the fee for an application for the modification shall be based upon the square footage of the modified action or as set forth in 62 RCNY § 3-02(b), as determined by the lead agency. Agencies of the federal, state or city governments shall not be required to pay fees, nor shall a neighborhood, community or similar association consisting of local residents or homeowners organized on a non-profit basis be required to pay fees, if the proposed action for purposes of CEQR review consists of a zoning map amendment for an area of at least two blocks in size, in which one or more of its members or constituents reside. Fees shall be paid in the forms indicated on the Department of City Planning's website when the application is filed . No application shall be processed by the lead agency until the fee has been paid. Additional fees may be charged by service providers in connection with electronic payment processing.
 
-      (ii) In any proceeding commenced pursuant to 61 RCNY § 1-07(b), the Deputy Director may require the parties to attend one mediation session to explore the possibility of a voluntary resolution of their disputes. After the first mediation session, subject to the parties' agreement or joint request, additional mediation sessions may be scheduled. The scheduling of a mediation session may not by itself toll any time limitations under these rules or require the adjournment of the filing of a pleading, a hearing, or other proceeding.
 
-   (7) Amendments and withdrawals. After a hearing and upon good cause shown, the trial examiner may permit a party to amend a pleading to conform to the evidence. The request to amend shall be on notice to all parties.
 
-   (8) Determination – decision. After issue has been joined, the Board may decide the dispute on the papers filed, may direct that oral argument be held, may direct a hearing before a trial examiner, or may make such other disposition of the matter as it deems appropriate and proper.
 
-(d) Injunctive relief for a claim of improper practice.
 
-   (1) Applications for injunctive relief. A party filing an improper practice petition pursuant to 61 RCNY § 1-07(b)(4) may further petition the Board to obtain or to authorize the application for injunctive relief in the Supreme Court, New York County, in accordance with the provisions of § 209-a(5) of the New York Civil Service Law.
 
-   (2) Petition – contents. A petition for injunctive relief filed pursuant to 61 RCNY § 1-07(d)(1) must be verified and must contain:
 
-      (i) The name, address, telephone number, and email address of the petitioner;
 
-      (ii) The name, address, and telephone number of the respondent;
+*§ 3-02 Schedule of Charges.* ::
 
-      (iii) The specific sections of the statute alleged to have been violated;
 
-      (iv) A clear and concise statement, in numbered paragraphs, of the facts demonstrating that: (1) there is reasonable cause to believe an improper practice has occurred; and (2) immediate and irreparable injury, loss or damage will result, thereby rendering a resulting judgment on the merits ineffectual, and necessitating the maintenance of, or return to, the status quo in order to provide meaningful relief. The statement must include but not be limited to the names of the individuals involved in the particular act specifically alleged and the date, time, and place of occurrence of each particular act alleged. The statement may be supported by documents and other evidence that may be relevant and material but may not consist solely of such attachments, and any attachments or exhibits must be specifically identified and referred to in the petition;
+(a)  Projects measurable in square feet.
 
-      (v) Affidavit(s) stating, in a clear and concise manner:
+ 
 
-         (1) those facts personally known to the deponent that constitute the alleged improper practice, the date of the alleged improper practice, the alleged injury, loss, or damage arising from it, and the date when the alleged injury, loss, or damage occurred or will occur; and
 
-         (2) those facts demonstrating why the alleged injury, loss, or damage is immediate and irreparable, and will render a resulting judgment on the merits of the improper practice charge ineffectual if injunctive relief is not granted, and indicating why there is a need to maintain or return to the status quo in order for the Board to provide meaningful relief;
+.. list-table::
+    :header-rows: 1
 
-      (vi) An argument with citations to legal authority on the issues underlying the claims of improper practice and irreparable harm to support the application for injunctive relief. The argument may be included either in the petition or in a separate memorandum of law;
+    * - (Square Footage of Total Project)
+      -  
+    * - Less than 10,000 sq. ft.
+      -  $460
+    * - 10,000-19,999 sq. ft.
+      -  $1,350
+    * - 20,000-39,999 sq. ft.
+      - $2,940
+    * - 40,000-59,999 sq. ft.
+      - $5,465
+    * - 60,000-79,999 sq. ft.
+      - $8,195
+    * - 80,000-99,999 sq. ft.
+      - $13,660
+    * - 100,000-149,999 sq. ft.
+      - $27,325
+    * - 150,000-199,999 sq. ft.
+      - $47,815
+    * - 200,000-299,999 sq. ft
+      - $71,415
+    * - 300,000-499,999 sq. ft.
+      - $128,545
+    * - 500,000-1,000,000 sq ft.
+      - $192,820
+    * - over 1,000,000 sq. ft.
+      - $314,225
+~
 
-      (vii) A statement of the relief requested;
+ 
 
-      (viii) A copy of the underlying improper practice petition.
+(b) Projects not measurable in square footage.
 
-   (3) Petition – service and filing. Filing may be completed by personal service, email, or e-filing using the Office of Collective Bargaining's e-filing system. If filing is completed in person, an original and three copies of each petition, with proof of service, must be filed with the Board, in addition to a copy which must be filed by email at the address provided on the Office of Collective Bargaining's website. Due to the expedited nature of a proceeding seeking injunctive relief, service by mail shall not be permitted. A copy of the petition for injunctive relief must be served:
+ 
 
-      (i) personally upon the designated agent of the respondent(s) at or after the time the improper practice petition is served; and
 
-      (ii) by email on the designated agent of the respondent. When the respondent is a public employer, a copy of the petition for injunctive relief must also be served personally on the Mayor's Office of Labor Relations. No petition for injunctive relief shall be accepted for filing unless it appears that both the improper practice petition and the petition for injunctive relief have been served personally on the designated agent of the respondent.
+.. list-table::
+    :header-rows: 1
 
-   (4) Answer – contents. Respondent's answer to the injunctive relief petition must be verified and must contain:
+    * - (Ex: bus franchises)
+      -  $1,880
+    * - Type II Actions
+      -  $110
+~
 
-      (i) Specific admissions or denials of the allegations of the petition in numbered paragraphs which correspond with those in the petition;
 
-      (ii) A statement of facts with numbered paragraphs setting forth the nature of the controversy. The statement may be supported by affidavits, documents, and other evidence that may be relevant and material but may not consist solely of such attachments, and any attachments or exhibits must be specifically identified and referred to in the answer;
 
-      (iii) Any defenses, including defenses that could be rightfully raised in answer to the underlying improper practice petition. The failure to assert a defense in the answer to the petition for injunctive relief shall not preclude the respondent from asserting any defenses to the underlying improper practice petition;
+ 
 
-      (iv) An argument with citations to legal authority in support of the answer to the application for injunctive relief. The argument may be included either in the answer or in a separate memorandum of law.
+(c) Supplemental Fee for Environmental Mitigation. In addition to all other applicable fees as set forth above, a supplemental fee of $8,000 shall be required for CEQR applications filed on or after July 1, 2009, for which a restrictive declaration to ensure compliance with project components related to the environment and/or mitigation of significant adverse impacts will be executed.
 
-   (5) Answer – service and filing. Within three business days after service of an injunctive relief petition, the respondent must serve its answer upon petitioner and any other party respondent and must file the answer, with proof of service, with the Board. The answer must be served and filed in the same manner as prescribed in 61 RCNY § 1-07(d)(3). This section shall not be construed to shorten the respondent's time to answer the underlying improper practice petition.
 
-   (6) Reply – service and filing. A reply is not required; any new facts alleged in the response will be deemed denied by the petitioner. If a reply is filed, it must be verified and must contain admissions and denials of any facts alleged in the answer. The reply must be limited to a response to specific facts or arguments alleged in the answer, and the Board may disregard new facts or new arguments raised. The reply must be served and filed, with proof of service, before 12:00 NOON on the fourth business day after filing of the injunctive relief petition. The reply must be served and filed in the same manner as prescribed in 61 RCNY § 1-07(d)(3).
 
-   (7) Review and determination by the Board – meetings by telephone. Upon receipt of a properly served and filed petition for injunctive relief, the Director shall notify the Board and propose a time and date for a special meeting to consider the petition. Within 10 business days after a petition is filed, the Board shall determine whether the charging party has made a sufficient showing in accordance with the provisions of § 209-a(5) of the New York Civil Service Law. The special meeting may be conducted by telephone, provided that all members who are available by telephone are joined as parties to the call. The quorum and voting requirements for any meeting by conference call shall be as provided in § 12-310 of the statute. After appropriate deliberation, the Board shall vote and issue a determination as to whether the charging party has made a sufficient showing that a petition for injunctive relief to the court is warranted. The determination shall be served on the parties by email and by certified mail.
 
-   (8) Petition in the Supreme Court in New York. If the Board determines that the charging party has made a sufficient showing in accordance with the provisions of § 209-a(5) of the New York Civil Service Law, the Board may petition the Supreme Court, New York County, upon notice to all parties, for the necessary injunctive relief, or, in the alternative, issue an order permitting the charging party to seek injunctive relief in the court, in which case the Board must be joined as a necessary party.
 
-   (9) Expedited scheduling, hearing, and disposition of the underlying improper practice petition. In conformity with the mandates of § 209-a(5) of the New York Civil Service Law, any improper practice case in which the Supreme Court has granted injunctive relief shall be given preference in scheduling, hearing and disposition over all other types of matters pending before the Board. The Board shall conclude the hearing process and issue a decision on the merits within the time prescribed by § 209-a(5) of the New York Civil Service Law. In order to effectuate this statutory preference and time limitation, unless the parties stipulate in writing to waive the statutory period within which the Board must render its decision on the merits, the following procedures will be enforced:
 
-      (i) The time provisions set forth in 61 RCNY § 1-07 for the filing of pleadings and briefs will be strictly enforced. Under no circumstances will requests for extensions of time to serve and file pleadings and/or briefs, or requests to adjourn scheduled hearing dates, be granted;
 
-      (ii) When, in the judgment of the Office of Collective Bargaining, material questions of fact are raised, a hearing will be scheduled to commence no later than 10 business days after service of a copy of the order of the court with notice of entry;
+**Subchapter B: Uniform Land Use Review (ULURP)**
 
-      (iii) Once a hearing is commenced, it shall continue on consecutive business days until it is concluded; but in no event shall the hearing continue beyond a date 15 business days after service of a copy of the order of the court with notice of entry;
 
-      (iv) Post-hearing briefs must be served and filed no later than 10 business days after the last hearing date;
 
-      (v) After the record is closed, the trial examiner shall prepare a report and/or draft decision which shall be submitted to the Board for its consideration. The Director may call for a special meeting by telephone conference call, in accordance with the procedures set forth in 61 RCNY § 1-07(d)(7), whenever necessary for the Board to render a decision within the time prescribed by § 209-a(5) of the New York Civil Service Law. Copies of the decision shall be served on the parties by email and certified mail.
+*§ 3-06 Fees for Applications Pursuant to City Charter § 197-c and Other Applications.* ::
 
-   (10) Notification to the court. The Board shall promptly forward notice of its determination, together with a copy of the decision of the Board, to the court which issued the order granting injunctive relief.
 
+Except as specifically provided in this section, every type of application listed in 62 RCNY § 3.07, Schedule of Charges, shall include a non-returnable fee which shall be paid in the forms indicated on the Department of City Planning's website when the application is filed. The fee for an initial application, or for a modification, renewal or follow-up action, shall be as prescribed in the following Schedule of Charges, provided that if an applicant simultaneously submits applications for several actions relating to the same project, the maximum fee imposed shall be two hundred percent of the single highest fee, provided that such maximum fee limitation shall not apply to supplemental fees. An additional fee shall be charged for any applications later filed in relation to the same project, while such project is pending review and determination. Agencies of the federal, state or city governments shall not be required to pay fees nor shall any fees be charged if a neighborhood, community or similar association consisting of local residents or homeowners organized on a non-profit basis applies for a zoning map amendment for an area of at least two blocks in size, in which one or more of its members or constituents reside. Additional fees may be charged by service providers in connection with electronic payment processing.
 
 
 
@@ -628,280 +589,1283 @@ Trial examiner. The term "trial examiner" means any authorized person conducting
 
 
 
-*§ 1-08 Municipal Labor Committee.* ::
 
+*§ 3-07 Schedule of Charges.* ::
 
-(a) Definition.
 
-   Board. As used in this section, the term "Board" means the Board of Collective Bargaining.
+(a)  Applications for Special Permits and Zoning Map amendments pursuant to § 197-c of the City Charter:
 
-(b) Allocation of costs. The costs of the salary, fees and expenses of the impartial members to be paid by members of the Municipal Labor Committee, pursuant to § 1174(a) of the New York City Charter, shall be allocated among the members as provided in Article 7 of the Rules of the Municipal Labor Committee adopted October 13, 1967, or as duly amended thereafter, provided that any member of the Municipal Labor Committee may petition the Board for reallocation of said costs as herein provided.
+   (1) Applications for special permits: For special permits, the total amount of floor area, or in the case of open uses, area of the zoning lot: 
 
-(c) Petition to reallocate costs – contents. Any member of the Municipal Labor Committee may petition the Board to reallocate the costs of the salary, fees and expenses of the impartial members. The petition must be verified and must contain:
+ 
 
-   (1) The name, address, telephone number, and email address of the petitioner;
 
-   (2) An allegation that petitioner is a member of the Municipal Labor Committee required to share the costs of the salary, fees and expenses of the impartial members;
+.. list-table::
+    :header-rows: 1
 
-   (3) A statement of the facts on which petitioner bases its contention that the current method of allocation of said costs is improper, inequitable, discriminatory or arbitrary;
+    * - Less than 10,000 square feet
+      -  $2,040
+    * - 10,000 to 19,999 square feet
+      -  $3,100
+    * - 20,000 to 39,999 square feet
+      -  $4,080
+    * - 40,000 to 69,999 square feet
+      -  $5,215
+    * - 70,000 to 99,999 square feet
+      -  $6,125
+    * - 100,000 to 239,999 square feet
+      -  $6,805
+    * - 240,000 to 500,000 square feet
+      -  $17,765
+    * - Over 500,000 square feet
+      -  $29,485
+~
 
-   (4) The proposed method of allocation of said costs which petitioner asserts should be adopted.
+ 
 
-(d) Petition to abrogate rule – contents. A certified employee organization may petition the Board to abrogate a rule of the Municipal Labor Committee, which relates to voting or eligibility for membership and which is alleged to be arbitrary or discriminatory or to have been applied in an arbitrary or discriminatory manner. The petition must be verified and must contain:
+For this purpose the amount of floor area shall be calculated based upon the floor area for the entire development or enlargement.
 
-   (1) The name, address, telephone number, and email address of the petitioner;
+   (2) Applications for zoning map amendments, the area of all zoning lots in the area to be rezoned:
 
-   (2) Specification of the rule or rules involved;
+ 
 
-   (3) A statement of the facts on which petitioner bases its contention that the rule is arbitrary or discriminatory or has been applied in an arbitrary or discriminatory manner.
 
-(e) Petition – service and filing. A petition pursuant to 61 RCNY § 1-08(b) or (c) must be served on the Municipal Labor Committee and must be filed, with proof of service, with the Board.
+.. list-table::
+    :header-rows: 1
 
-(f) Answer – service and filing. Within 10 business days after service of the petition, the Municipal Labor Committee shall serve a copy of its answer upon the petitioner and file its answer, with proof of service, with the Board.
+    * - Less than 10,000 square feet
+      -  $2,190
+    * - 10,000 to 19,999 square feet
+      -  $3,250
+    * - 20,000 to 39,999 square feet
+      -  $4,310
+    * - 40,000 to 69,999 square feet
+      -  $5,445
+    * - 70,000 to 99,999 square feet
+      -  $6,425
+    * - 100,000 to 239,999 square feet
+      -  $7,105
+    * - 240,000 to 500,000 square feet
+      -  $18,445
+    * - Over 500,000 square feet
+      -  $30,620
+~
 
-(g) Answer – contents. The answer must be verified and must contain:
+ 
 
-   (1) Admissions or denials of the allegations of the petition;
+(b) Applications for changes to the City Map, Landfills: Except for applications to eliminate a mapped but unimproved street from the property of an owner-occupied, one- or two-family residence, for which no fee shall be charged, fees are as follows:
 
-   (2) Additional facts and affirmative matter as may be relevant, material and appropriate.
+ 
 
-(h) Reply – service; contents. Within 10 business days after service of the answer, petitioner may serve and file a verified reply which must contain admissions and denials of any additional facts or new matter alleged in the answer. Additional facts or new matter alleged in the answer shall be deemed admitted unless denied in the reply. A copy of the reply must be served on the respondent and filed, with proof of service, with the Board.
 
-(i) Briefs – service and filing. Briefs, if any, may be served and filed as provided in 61 RCNY § 1-07(c)(5).
+.. list-table::
+    :header-rows: 1
 
-(j) Determination – decision. After issue has been joined, the Board may decide the matter on the papers and briefs filed, may direct that oral argument be held, may direct a hearing before a trial examiner, or may make such other disposition of the matter as it deems appropriate and proper.
+    * - Elimination of a mapped but unimproved street
+      -  $1,740
+    * - Establishment of a landfill
+      -  $3,400
+    * - Any other change in the City Map
+      -  $5,445
+~
 
 
 
+ 
 
+(c) Applications for franchises and revocable consents:
 
+   (1) Applications pursuant to § 197-c of the City Charter – $3,400
 
+   (2) Enclosed sidewalk cafes pursuant to New York City Administrative Code § 20-225: $55 per seat/minimum of $1,360
 
+(d) Applications for amendments to the text of the Zoning Resolution pursuant to § 201 of the City Charter – $5,445
 
-*§ 1-09 Panel Register – Fees and Expenses.* ::
+(e) Applications for zoning certifications and zoning authorizations:
 
+   (1) For certification for public school space pursuant to § 107 – 123 of Article X, Chapter 7 (Special South Richmond Development District) of the Zoning Resolution, the fee shall be $160.
 
-(a)  Definition. 
+   (2) Pursuant to Article VI, Chapter 2 (Special Regulations Applying in The Waterfront Area), Article X, Chapter 5 (Natural Area District), Article X, Chapter 7 (Special South Richmond Development District) and Article XI, Chapter 9 (Special Hillsides Preservation District) of the Zoning Resolution.
 
-   Board. As used in this section, the term "Board" shall mean the Board of Collective Bargaining.
+ 
 
-(b) Registers.
+ 
 
-   (1) As deemed necessary by the Director, separate registers shall be maintained of impartial and qualified persons experienced in:
 
-      (i) mediation;
+.. list-table::
+    :header-rows: 1
 
-      (ii) impasse resolution;
+    * - Certifications
+      - For an application for one zoning lot with no more than two existing or proposed dwelling units – $380
+      - 
+    * - For all other applications the fee for each zoning lot shall be $430.
+      - 
+      - 
+    * - Authorizations
+      - For an application for one zoning lot with no more than two existing or proposed dwelling units and no commercial or community facility use – $755
+      - 
+    * - For all other applications with no commerical or community facility use, the fee shall be based upon the number of dwelling units being proposed, in the amount of $830 per dwelling unit, however, in cases of open uses, the fee shall be based upon the area of the zoning lot, and in cases of community facility or commercial uses, the fee shall be based upon the total amount of floor area, as follows:
+      - 
+      - 
+    * -  
+      - Less than 10,000 square feet
+      -  $1,060
+    * -  
+      - 10,000 to 19,999 square feet
+      -  $1,590
+    * -  
+      - 20,000 to 39,999 square feet
+      -  $2,040
+    * -  
+      - 40,000 to 69,999 square feet
+      -  $2,645
+    * -  
+      - 70,000 to 99,999 square feet
+      -  $3,100
+    * -  
+      - 100,000 square feet and over
+      -  $3,400
+~
 
-      (iii) arbitration.
+ 
 
-   (2) To be listed on a register, a person shall be approved by the Board as required by the statute. A person may be listed on more than one register. All mediation and impasse panels shall consist of, and all arbitrators shall be, persons listed on the applicable register except when the parties agree otherwise. A resume of the background, experience and qualifications of each person on a register shall be maintained and shall be available for inspection.
+   (3) Pursuant to § 95-04 (Transit Easements) of the Zoning Resolution – $  270
 
-(c) Fees and expenses.
+   (4) Pursuant to all other sections of the Zoning Resolution:
 
-   (1) Members of mediation and impasse panels and arbitrators shall be paid a per diem fee to be determined by the Board unless the parties to the dispute shall have agreed to a different fee, and shall be reimbursed for their actual and necessary expenses incurred in the performance of their duties. The public employer and public employee organization which are parties to the particular negotiation or grievance shall each pay 50 percent of such fees and expenses and related expenses incidental to the handling of deadlocked negotiations and unresolved grievances.
+Total amount of floor area, or in the cases of open uses, area of the zoning lot as follows:
 
-   (2) Panel members, arbitrators, reporting services and any other persons providing services, accommodations, or materials relating to the work of the panel or arbitrators shall bill the parties directly for their compensation and expenses, and shall file a copy thereof with the Board.
+ 
 
 
+.. list-table::
+    :header-rows: 1
 
+    * - Less than 10,000 square feet
+      -  $1,060
+    * - 10,000 to 19,999 square feet
+      -  $1,590
+    * - 20,000 to 39,999 square feet
+      -  $2,040
+    * - 40,000 to 69,999 square feet
+      -  $2,645
+    * - 70,000 to 99,999 square feet
+      -  $3,100
+    * - 100,000 square feet and over
+      -  $3,400
+~
 
 
 
-*§ 1-10 Hearings.* ::
+ 
 
+In the case of area transfer of development rights or floor area bonus, the fee shall be based upon the amount of floor area associated with such transfer or bonus.
 
-(a)  Definition. 
+(f) Modifications, follow-up actions and renewals.
 
-   Board. As used in this section, the term "Board" shall mean either the Board of Collective Bargaining or the Board of Certification.
+   (1) The fee for an application which requests a modification of a previously approved application, where the new application is subject to § 197-c of the New York City Charter, shall be the same as the current fee for an initial application, as set forth in this Schedule of Charges.
 
-(b) Notice of hearing. Except where otherwise provided by law or these rules, the Board shall give all parties at least seven business days notice of hearings, provided that a shorter period may be stipulated by the parties or may be prescribed by the Director or the Director's designee when the circumstances so require.
+   (2) The fee for an application which requests a modification of a previously approved application, where the new application is not subject to § 197-c of the New York City Charter, shall be one-half of the current fee for an initial application, as set forth in this Schedule of Charges.
 
-(c) Conduct of hearings. Hearings shall be conducted by a trial examiner. At any time, a trial examiner may be designated to take the place of the trial examiner previously designated to conduct a hearing. Except as otherwise provided, all hearings shall be open to the public. During the course of any hearing, the trial examiner, shall have full authority to control the conduct and procedure of the hearing and the record thereof, to admit or exclude testimony or other evidence, and to rule upon all motions and objections. It shall be the duty of the trial examiner to see that a full inquiry is made into all the facts in issue and to obtain a complete record of all facts necessary for a fair determination. The trial examiner shall have the right to call and examine witnesses, to issue subpoenas as permitted by law, to direct the production of evidence and to introduce evidence into the record, except as may otherwise be limited herein.
+   (3) The fee for a follow up action under the Zoning Resolution, or a restrictive declaration or other legal instrument shall be one-quarter of the amount prescribed in this Schedule of Charges for an initial application.
 
-(d) Rights of parties. In any hearing, all parties shall have the right to call, examine and cross-examine witnesses, and to introduce documentary or other evidence, subject to the rulings of the trial examiner, except as otherwise provided in these rules.
+   (4) The fee for the renewal of a previously approved enclosed sidewalk cafe shall be one-half of the amount prescribed in this Schedule of Charges for an initial application.
 
-(e) Stipulations. At a hearing, stipulations may be introduced in evidence with respect to any issue, if such stipulation has been joined in by all the relevant parties.
+   (5) The fee for the renewal pursuant to § 11-43 of the Zoning Resolution of a previously approved special permit or authorization which has not lapsed shall be one-half of the amount prescribed in this Schedule of Charges for an initial application.
 
-(f) Adjournments – continuation. The trial examiner may continue a hearing from day to day or adjourn it to a later date or to a different place by announcement thereof at the hearing or by other appropriate notice.
+(g) Supplemental Fee for Large Projects. In addition to all applicable fees as set forth above, a supplemental fee shall be required for the following applications:
 
-(g) Contemptuous conduct. The refusal of a witness to answer any question which has been ruled to be proper shall, at the discretion of the trial examiner, be grounds for striking testimony previously given by such witness. Misconduct at any hearing conducted under these rules shall be grounds for summary exclusion from the hearing. Such misconduct, if of an aggravating character and engaged in by an attorney or other representative of a party, shall be grounds for suspension or disbarment from further practice before the Board or its agents after due notice and opportunity to be heard.
+ 
 
-(h) Conclusion of proceedings. The trial examiner may permit or direct the parties to present closing statements and/or to file briefs or memoranda in a proceeding brought under 61 RCNY § 1-02, 61 RCNY § 1-07, or 61 RCNY § 1-08. The time for closing statements or filing briefs or memoranda shall be fixed by the trial examiner. Any briefs or memoranda must be filed, with proof of service, with the Board pursuant to 61 RCNY § 1-12(e).
 
-(i) Variance between pleadings and proof. A variance between an allegation in a pleading and the proof shall not be deemed material unless it is so substantial as to be misleading. If a variance is not material, the trial examiner may admit such proof and the facts may be found accordingly. A party may move to amend a pleading to conform to the evidence in accordance with 61 RCNY § 1-07(c)(7).
+.. list-table::
+    :header-rows: 1
 
-(j) Motions and objections during the hearing. The trial examiner shall have the discretion to decide all motions and objections made at the hearing and to decide whether an oral motion should be reduced to writing and submitted to the Board. All such motions and objections and the rulings and orders thereon shall be made part of the record.
+    * - Applications that may result in the development of 500,000 to 999,999 square feet of floor area
+      - $80,000 
+    * - Applications that may result in the development of 1,000,000 to 2,499,000 square feet of floor area
+      - $120,000
+    * - Applications that may result in the development of at least 2,500,000 square feet of floor area
+      - $160,000
+~
 
-(k) Appeal of trial examiner's rulings. Unless expressly authorized by the Director, the Board shall not entertain appeals from a trial examiner's rulings prior to the Board's consideration of the entire record for decision. Appeals from a trial examiner's rulings shall be made in writing upon notice to the other parties after the close of the hearing and may be included in post-hearing briefs, if so filed.
 
-(l) Reopening of hearing prior to issuance of Board decision. Motions for leave to reopen a hearing because of newly discovered evidence shall be promptly made. The Board, in its discretion or on its own motion, may reopen a hearing and take further testimony.
 
-(m) Objections – waiver. An objection not duly made at a hearing shall be deemed waived unless the failure to raise such objection should be excused because of extraordinary circumstances.
+ 
 
 
 
 
 
 
+*§ 3-08 Natural Feature Restoration Fee.* ::
 
 
-*§ 1-11 Witnesses and Subpoenas.* ::
+In the event that an application, pursuant to §§ 105-45, 107-321, 107-65, and 119-40 of the Zoning Resolution, for the restoration of trees that have been removed or topography that has been altered without the prior approval of the City Planning Commission pursuant to §§ 105-40, 107-60, 119-10, 119-20, or 119-30 of the Zoning Resolution is filed, the fee for such application shall be $.10 per square foot, based upon the total area of the zoning lot, but in no case to exceed $18,900.00. This section shall not apply to developments for which zoning applications have been approved by the City Planning Commission prior to January 6, 1983 and for which an application for a building permit has been filed prior to January 6, 1983.
 
 
-(a)  Definition. 
 
-   Board. As used in this section, the term "Board" shall mean either the Board of Collective Bargaining or the Board of Certification.
 
-(b) Witnesses – examination; depositions. Witnesses at all hearings shall be examined orally under oath or affirmation, and a record of the proceeding shall be made and kept. If any witness resides outside the State of New York or through illness or other cause is unable to testify at the hearing, that witness's testimony or deposition may be taken in such form as may be directed by the trial examiner. All applications for taking such testimony or deposition shall be made by motion.
 
-(c) Subpoenas – issuance. A member of the Board, a Deputy Director, or a trial examiner may issue subpoenas at any time, except as limited by law, requiring persons, parties, or witnesses to attend and be examined or give testimony, or to produce any document or thing that relates to any matter under investigation or any question before the Board or trial examiner conducting a hearing. Pursuant to CPLR § 2302, attorneys admitted to the practice of law in New York State may also issue subpoenas in accordance with applicable law.
 
-(d) Subpoenas – parties; failure to obey or testify. If a witness, party, or agent thereof refuses or fails, without reasonable excuse, to answer any question which has been ruled pertinent or proper, or obey any subpoena duces tecum, the trial examiner may strike from the record the pleading and/or all testimony and evidence offered on behalf of such party at the hearing, or may strike all or a portion of the testimony or evidence offered by or through the uncooperative party or witness, or strike those portions of the pleading which are related to the matter(s) called for in the subpoena, or which are based solely on testimony or evidence offered by or through the uncooperative party or witness.
+*§ 3-09 Fee for Zoning Verification.* ::
 
-(e) Witness fees. When determined by the trial examiner to be appropriate, witness fees and mileage in amounts allowable under the New York Civil Practice Law and Rules shall be paid by the party at whose instance the witnesses appear, or by the Office of Collective Bargaining if the witnesses appear at the request of the Board.
 
+The fee for a request that the Department of City Planning verify in writing the zoning district(s) in which a property is located shall be $110 per request. Each zoning verification request shall be made in writing, and shall include the address, borough, tax block and lot(s) of the property. Each separate property shall be a separate request; however, a property comprised of multiple contiguous tax lots shall be treated as a single request.
 
 
 
 
+Chapter 3: Contributions
+--------------------------------------------------
 
-*§ 1-12 General Provisions.* ::
 
 
-(a) Definitions. Unless otherwise specified, the following definitions apply to terms used in these rules.
+*§ 3-10 Contributions to Theater Subdistrict Fund Pursuant to § 81-744 of the New York City Zoning Resolution.* ::
 
-   (1) Board. As used in this section, the term "Board" means either the Board of Collective Bargaining or the Board of Certification.
 
-   (2) Filing. The term "filing" means delivery to the Office of Collective Bargaining, and unless otherwise provided in these rules, filing may be effected in person, by first class mail, certified mail, or overnight delivery, or by email. Parties may also file with the Board using the Office of Collective Bargaining's e-filing system accessible on its website, as provided in 61 RCNY § 1-12(e)(2).
+Contributions to the Theater Subdistrict Fund pursuant to § 81-744 of the New York City Zoning Resolution shall be made in an amount equal to $17.60 per square foot of floor area transferred.
 
-   (3) Electronic filing. "Electronic filing" or "e-filing," means internet-based submission by a means specified by the Board on its website.
 
-   (4) Service. The term "service" means delivery of a document to a party and may be effected by leaving a copy at the principal office or place of business of the party, mailing a copy to the party by means of first class mail, certified mail, or overnight delivery, or by email, as provided in 61 RCNY § 1-12(c) and (d).
 
-   (5) Proof of service. The following constitutes prima facie proof of service:
 
-      (i) A signed, notarized statement that service has been effected, including the name and address of the party served, and the date and manner of service;
 
-      (ii) A signature or "received" stamp from the designated agent of a party. The signature or stamp must be on a copy of the document being served and must indicate the date of service;
 
-      (iii) A certified mail receipt confirming delivery; or
+*§ 3-11 Contributions to the West Chelsea Affordable Housing Fund Pursuant to § 98-262(c) of the New York City Zoning Resolution.* ::
 
-      (iv) A copy of the email transmitting the document that includes the email address of the recipient(s) and the sender, the date and time the transmission was sent, and any attachments. A separate copy of the email will not be required if the sending party simultaneously copies the Office of Collective Bargaining on the transmission.
 
-(b) Form of documents – docket number. All petitions, pleadings, motions, briefs and other formal papers must bear the title of the proceeding and the docket number. Any document other than the initial petition which does not bear the docket number may be returned to the sender. However, failure to include a docket number which is promptly corrected will not be a bar to an otherwise timely filed pleading.
+Contributions to the West Chelsea Affordable Housing Fund pursuant to § 98-262(c) of the New York City Zoning Resolution shall be made in an amount equal to $625 per square foot of floor area increase as of the effective date of this rule.
 
-(c) Service of papers by the Board. Except as otherwise provided in these rules, notices of hearings and other process of the Board and/or its designees, may be served personally, by first class mail, certified mail, overnight delivery, or by email. Subpoenas issued by the Board shall be served personally.
+This amount shall be adjusted each year by a factor equal to the ratio of the per square foot contribution to the MIH Affordable Housing Fund for eligible MIH developments in Manhattan Community District 4 for the current year to such per square foot contribution for the prior year. Such adjustments shall take effect automatically upon adjustment by HPD to the contribution rate to the MIH Affordable Housing Fund pursuant to 28 RCNY § 41-23.
 
-(d) Service of papers by a party.
+The City Planning Commission retains the ability to adjust the contribution amount for the West Chelsea Affordable Housing by rule pursuant to § 98-262(c) of the New York City Zoning Resolution.
 
-   (1) Except as otherwise provided in these rules, bargaining notices, requests for arbitration, petitions and other papers served on behalf of a party must be served personally, by first class mail, certified mail, or overnight delivery, or by email. Subpoenas issued by a party must be served personally.
 
-   (2) Any petition required by these rules to be served on a public employer or a public employee organization must be served upon the designated agent of the public employer or public employee organization. A listing of designated agents shall be maintained at the Office of Collective Bargaining and on its website.
 
-   (3) If a party appears in a proceeding by attorney, all papers in the proceeding must thereafter be served on such attorney, unless the party requests otherwise.
 
-(e) Filing of papers.
 
-   (1) Filing by first class mail, certified mail, overnight delivery, email, or hand delivery. Unless otherwise provided in Section (e)(2) below, all petitions, pleadings, motions, briefs and other formal papers may be filed with the Office of Collective Bargaining by first class mail, certified mail, or overnight delivery, by email at the email address provided on the Office of Collective Bargaining's website, or personally.
 
-      (i) Except as otherwise provided in these rules, the filing of papers with the Board by fax or other means not set forth in these rules is permitted only when prior approval has been granted by the Board or its designee and upon such conditions as that approval may be based.
+Chapter 4: Procedures for New York City Waterfront Revitalization Program (WRP) Consistency Review by the City Coastal Commission and the Department of City Planning
+--------------------------------------------------
 
-      (ii) All submissions filed with the Office of Collective Bargaining in the manner described above, which require proof of service, must be accompanied by proof of service, as set forth in 61 RCNY § 1-12(a)(5) above.
 
-      (iii) All submissions to the Office of Collective Bargaining by email, mail of any kind, or personal delivery must be filed Monday through Friday between 9:00 A.M. and 5:30 P.M. Submissions received after 5:30 P.M., the normal close of business, will be deemed filed the next business day. For e-filed cases, all submissions are deemed filed on the date submitted as set forth in 61 RCNY § 1-12(e)(2)(iii).
 
-   (2) Electronic filing and service through the Office of Collective Bargaining's e-filing system.
+*§ 4-01 Applicability.* ::
 
-      (i) Notwithstanding any provisions to the contrary, a party may initiate a matter before the Board electronically using the e-filing system on the Office of Collective Bargaining's website. To the extent possible, a party may also file a responsive pleading using the e-filing system.
 
-      (ii) With the exception of applications for injunctive relief pursuant to 61 RCNY § 1-07(d), a party filing via the e-filing system is not required to serve other parties to the matter. The Office of Collective Bargaining will serve all parties identified in the electronic filing.
+This chapter sets forth the procedures applicable to the review of actions located in the New York City Coastal Zone by the City Planning Commission (the Commission), in its capacity as the City Coastal Commission (CCC), and by the Department of City Planning (the Department) as provided in the WRP. Three separate categories of actions are subject to such review process:
 
-      (iii) A document filed using the Office of Collective Bargaining's e-filing system is deemed filed on the date submitted.
+(a) Local discretionary actions that are classified as Type 1 or Unlisted pursuant to the State Environmental Quality Review Act (SEQRA) or City Environmental Quality Review (CEQR);
 
-      (iv) An electronic signature shall serve as a substitute for an original signature on all e-filed submissions.
+(b) State actions that are subject to WRP consistency review by the relevant state agency pursuant to the applicable laws and regulations referenced in subdivision b of 62 RCNY § 4-03;
 
-(f) Time – computation. In computing any period of time prescribed or allowed by these rules, or by order or direction, the day of the act, event or default, after which the designated period of time begins to run shall not be included. The last day of the period so computed shall be included, unless it falls on a Saturday, Sunday, or legal holiday, in which event the period shall run to the next business day. Unless otherwise provided in these rules, when any period of time prescribed or allowed is:
+(c) Federal direct actions, permit and license actions, and financial assistance actions that are subject to WRP consistency review by the New York State Department of State (DOS) for the relevant federal agency pursuant to the applicable laws and regulations referenced in subdivision b of 62 RCNY § 4-03.
 
-   (1) 10 days or fewer, they shall be considered business days, and intermediate Saturdays, Sundays, and legal holidays shall be excluded in the computation;
+The Department's or the CCC's review of state and federal actions, as referenced herein, is advisory and for the purpose of consultation in accordance with state and federal laws and regulations.
 
-   (2) greater than 10 days, they shall be considered calendar days, and intermediate Saturdays, Sundays, and legal holidays shall be included in the computation.
 
-(g) Time – date of service.
 
-   (1) Service is complete upon the date the document is deposited in the United States mail or into the custody of an overnight delivery service, or is delivered in person.
 
-   (2) Except as noted below, where service is made by email, service is complete on the date the transmission is sent, if the email is sent between 9:00 A.M. and 5:30 P.M., unless an error message or other notification that the served document has not been successfully transmitted is received. Service made by email on a weekend, City holiday or outside of business hours is deemed complete on the next business day.
 
-   (3) In all cases initiated by e-filing under 61 RCNY § 1-12(e)(2), service of papers by email is complete upon the date the document is transmitted.
 
-(h) Time – Board action. Except as prescribed by statute, the Director, or a Deputy Director acting in his/her absence, for good cause shown, may extend or shorten any time limit prescribed or allowed in these rules. When good cause exists, the Director, or Deputy Director acting in his/her absence, acting with the approval of the Board, may shorten time limits and invoke expedited procedures in bringing disputes to mediation, arbitration or to impasse proceedings. Approval of such action by the Board shall require the concurrence of at least one labor member and one city member. In the exercise of such extraordinary powers, the Director or Deputy Director acting in his/her absence is authorized to prescribe times and conditions for the service of notices, filing of pleadings and appearances of parties as the circumstances require and as considerations of due process permit.
 
-(i) Petition – withdrawal. At the request of the petitioner, upon notice to all other parties, the Director or the Director's designee may permit the withdrawal of a petition. The case will be closed without consideration or review of any of the issues raised in the pleadings.
 
-(j) Parties – nonjoinder and misjoinder. No proceeding will be dismissed because of nonjoinder or misjoinder of parties. Upon motion of any party, parties may be added, dropped or substituted at any stage of the proceedings, upon terms as may be deemed proper by the Director or the Director's designee.
+*§ 4-02 CCC and Department Review.* ::
 
-(k) Intervention – procedure; contents; filing; service. A person, public employer or public employee organization desiring to intervene in any proceeding must file a verified written application setting forth the facts upon which such person, employer or organization claims an interest in the proceeding. The application must be timely made, served on all parties and filed, with proof of service, with the Board. Failure to serve or file the application as required above shall be deemed sufficient cause for the denial thereof, unless good and sufficient reason exists why it was not served or filed as required.
 
-(l) All other motions. Except as otherwise provided by these rules, all motions, other than those made during a hearing, must be made in writing, must briefly state the relief sought and must be accompanied by affidavits setting forth the grounds for the motion. The moving party must serve copies of all motion papers on all other parties and must file the motion within 10 business days, with proof of service, with the Board. Answering papers, if any, must be served on all parties and must be filed within 10 business days after service of the moving papers, with proof of service, with the Board. Reply papers, if any, must be served on all parties and must be filed within 10 business days after service of the answering papers, with proof of service, with the Board. All motions shall be decided upon the papers unless oral argument, or the taking of testimony, is directed, in which event the parties will be notified of the time and place for argument or for the taking of testimony. Permission from the Director or the Director's designee shall be required prior to filing and serving a motion to dismiss in lieu of an answer.
+As the administrator of the WRP with the CCC, the Department is responsible for coordinating all WRP consistency reviews. The Department evaluates all actions covered by 62 RCNY § 4-01 to determine which warrant CCC review, in accordance with the criteria set forth in this section. The Department reviews all actions covered by this chapter that do not warrant CCC review.
 
-(m) Consolidation or severance.
+The CCC reviews:
 
-   (1) Two or more proceedings may be consolidated or severed by the Director or the Director's designee on notice stating the reasons therefor, with an opportunity to the parties to make known their positions. For purposes of this subdivision the term "proceedings" includes but is not limited to representation, mediation, impasse, arbitrability, improper practice, and scope of bargaining proceedings.
+(a) Local actions that are subject to Commission approval pursuant to the Uniform Land Use Review Procedure (ULURP) or other provision of the City Charter, including those for which the Commission is the designated CEQR lead agency; and
 
-   (2) Two or more arbitration proceedings may be consolidated at the discretion of the Deputy Director following a request by a public employer or a public employee organization pursuant to 61 RCNY § 1-06(d)
+(b) Local, state or federal actions that, in the Department's view, would substantially hinder the achievement of one or more policies of the WRP.
 
-(n) Oral argument before the Board. In a proceeding brought under 61 RCNY § 1-02, 61 RCNY § 1-07 or 61 RCNY § 1-08, request for oral argument before the Board must be submitted in writing to the Director with proof of service on all parties not less than five business days prior to the Board meeting for which the case has been placed on the agenda. The granting or denial of permission to argue orally before the Board shall be within the discretion of the Board. At the discretion of the Board, oral argument may be stenographically recorded.
 
-(o) Amicus Curiae Briefs. In any proceeding pending before the Board of Certification or Board of Collective Bargaining, a nonparty may ask the Director for permission to file a brief as amicus curiae. The non-party's brief must be submitted with the request for leave to file and served on the parties. Leave to file may be granted in the discretion of the Director, after notice and an opportunity to be heard has been given to the parties.
 
-OFFICE OF COLLECTIVE BARGAININGRULES OF THE CITY OF NEW YORKTITLE 61OFFICE OF COLLECTIVE BARGAININGCHAPTER 1PRACTICE AND PROCEDUREEFFECTIVE ______, 2018100 Gold StreetFourth FloorNew York, NY 10038
 
-and
 
-PECK SLIP STATIONPO BOX 1018New York, NY 10038(212) 306-7160
 
 
 
+*§ 4-03 Reviews for Consistency with the WRP.* ::
 
 
+(a) Local actions. Except as provided in 62 RCNY § 4-04(a), no CEQR lead or involved agency may make a final decision to undertake, fund, or approve an action unless and until the lead agency, or the CCC when the lead agency is the Commission, finds that such action will not substantially hinder the achievement of any WRP policy and determines that the action is consistent with the WRP, in accordance with the standards set forth in the WRP. When the lead agency is other than the Commission, the Department must concur with such finding.
 
+   (1) Local actions subject to Commission approval. The CCC's review of actions for consistency with the WRP is incorporated into the Commission's existing review procedures pursuant to ULURP or other provision of the Charter, or pursuant to CEQR.
 
+   (2) Local actions not subject to Commission approval.
 
-*§ 1-13 Designation, Powers, and Duties of Deputies and Trial Examiners.* ::
+      (i) The CEQR lead agency shall provide the Department with its draft Environmental Impact Statement (EIS) or draft Environmental Assessment Statement (EAS), whichever is applicable, containing the agency's draft WRP consistency assessment and determination, at the earliest possible date, and in no event less than thirty (30) days before issuance of a Negative Declaration, a Conditional Negative Declaration or, if the agency has prepared a draft EIS, a Notice of Completion. The Department may request additional information to assist in the evaluation of the proposed action, which the agency shall promptly provide.
 
+      (ii) Within thirty (30) days of receipt of the lead agency's draft WRP consistency assessment and determination, the Department will notify the lead agency as to whether the Department concurs or does not concur with the proposed consistency determination and will provide written comments on the assessment, if any.
 
-(a)  Definition. 
+      (iii) When the lead agency has prepared an EAS, if the Department is properly notified of such agency's consistency assessment and determination and does not respond to such agency in writing within thirty (30) days of receipt, the lead agency may deem its consistency determination to have been accepted by the Department.
 
-   Board. As used in this section, the term "Board" shall mean either the Board of Collective Bargaining or the Board of Certification.
+(b) State and federal actions. The coordination of the Department's or the CCC's review of state and federal actions with the relevant state agency and DOS, respectively, including review periods and the procedures for transmission of comments and findings, shall be in accordance with the relevant state and federal laws and regulations, including Article 42 of the New York State Executive Law (§§ 910 through 922) and 16 U.S.C. §§ 1451 et seq., respectively, and shall follow the guidelines for notification and review of federal and state actions, which are appended to the WRP.
 
-(b) Deputy Directors. Deputy directors, in addition to all other powers conferred upon them by these rules and in addition to the powers of trial examiners, are authorized and empowered to sign and issue notices and reports, certify copies of papers and documents, direct trial examiners, and designate the members of mediation, impasse and arbitration panels in accordance with the provisions of the statute and these rules.
+(c) Inconsistency with the WRP. For all actions, where an inconsistency with one or more policies of the WRP has been identified, the Department or the CCC, as applicable, may recommend alternatives or modifications to the action or mitigation measures in order to avoid or minimize the inconsistency. If, in the Department's or the CCC's view, an inconsistency presents a substantial hindrance to the achievement of one or more policies of the WRP, the provisions of 62 RCNY § 4-04 shall apply.
 
-(c) Trial Examiners. All trial examiners duly designated by the Director, in addition to all powers otherwise conferred upon them, are hereby authorized and empowered to:
+(d) Public Notice. All actions will be subject to any applicable procedures for public notice for the action under review. There are no additional public notice or participation requirements pursuant to this chapter.
 
-   (1) Conduct conferences, investigations and hearings, resolve discovery disputes limited to the production of documents, grant extensions of time, administer oaths and affirmations, issue or apply for subpoenas, review and copy evidence, examine witnesses, and receive evidence;
 
-   (2) Investigate concerning the representation of employees;
 
-   (3) Appear for and represent the Board and/or the Office of Collective Bargaining in court;
 
-   (4) Do any and all things necessary and proper to effectuate the policies of the statute and these rules.
 
 
 
 
+*§ 4-04 Substantial Hindrance to the WRP.* ::
 
 
-*§ 1-14 Construction and Amendment of Rules.* ::
+(a) Local actions.
 
+   (1) Local actions subject to Commission approval. The Commission may not approve an action that will substantially hinder the achievement of one or more policies of the WRP, unless, in its capacity as the CCC, it makes the following four findings:
 
-(a)  Construction.
+      i. No reasonable alternatives exist which would permit the action to be taken in a manner which would not substantially hinder the achievement of such policy;
 
-   (1) These rules shall be liberally construed and shall not be deemed to limit any powers conferred by the statute, nor to limit the power of any impartial member or Deputy Director to serve as a member of a mediation or impasse panel or as an arbitrator in matters pending at the Office of Collective Bargaining, provided, however, that no full-time employees authorized to perform such service shall receive additional compensation for the performance of any such service.
+      ii. The action taken will minimize all adverse effects on such policies to the maximum extent practicable;
 
-   (2) Words in the singular shall include the plural and words in the plural shall include the singular.
+      iii. The action will advance one or more of the other coastal policies; and
 
-(b) Amendments. Any rule may be amended or rescinded at any time in accordance with the City Administrative Procedure Act, Chapter 45 of the New York City Charter.
+      iv. The action will result in an overriding local or regional public benefit.
+
+   (2) Local actions not subject to Commission approval. A CEQR lead or involved agency may not undertake, fund, or approve an action that will substantially hinder the achievement of one or more policies of theWRP unless the CEQR lead agency makes the four findings in paragraph 1 of this subdivision with the concurrence of the CCC.
+
+   Where the findings set forth in paragraph 1 of this subdivision are met, the action shall be deemed consistent with the WRP.
+
+(b) State and federal actions. The CCC shall provide an advisory determination as to whether the four findings set forth in paragraph 1 of subdivision a are met. The Department shall transmit the CCC's findings to the relevant state agency or DOS for the purpose of consultation in accordance with the WRP and applicable state and federal laws, regulations and published guidelines, as referenced in subdivision b of 62 RCNY § 4-03.
+
+
+
+
+
+
+Chapter 5: City Environmental Quality Review (CEQR)
+--------------------------------------------------
+
+
+
+*§ 5-01 Source of Authority and Statement of Purpose.* ::
+
+
+Section 192(e) of the Charter provides that the City Planning Commission "shall oversee implementation of laws that require environmental reviews of actions taken by the city" and that the Commission "shall establish by rule procedures for environmental reviews of proposed actions by the city where such reviews are required by law." These rules are intended to exercise that mandate by redefining lead agencies within the city in accordance with law, prescribing the relationship of the new Office of Environmental Coordination with those agencies and regulating scoping. The organization and numbering of the various sections of these rules are not intended to correspond precisely to Executive Order 91. [;43 RCNY Chapter 6, also, see Appendix A hereto];. Rather, these rules are an overlay on Executive Order 91. Where these rules conflict with Executive Order 91, these rules supersede the Executive Order. In deciding upon the appropriate lead agency for certain classes of actions taken by the city, the City Planning Commission has selected the involved agency "principally responsible for carrying out, funding or approving" those actions. 6 NYCRR § 617.2(v). For private ULURP applications, for § 197-a plans and for all actions primarily involving a zoning map or text change, the City Planning Commission, responsible under the Charter "for the conduct of planning relating to the orderly growth, improvement and future development of the city" (Charter § 192(d)), is the lead agency. For other ULURP applications, the city agency applicant, the agency that will generally be involved with ensuring programmatic implementation of the action, is the lead agency. Most of the remaining lead agency designations in the rules similarly address other approvals required by the Charter by designating the agency charged with ensuring programmatic implementation as the lead agency for those approvals. In appropriate cases, a lead agency designated by the rules may transfer its lead agency status to another involved agency. The rules ensure that lead agencies have access to the technical and administrative expertise of the Office of Environmental Coordination. Finally, the rules provide for involved and interested agencies, including the City Council, to participate in the environmental review process, and ensure a role for the public in scoping.
+
+
+
+
+
+
+*§ 5-02 General Provisions.* ::
+
+
+(a) Continuation of Executive Order No. 91 [43 RCNY §§ 6-01 et seq.]; [;See Appendix A to these rules];. Until the City Planning Commission promulgates further rules governing environmental review of actions taken by the city, Executive Order No. 91 of August 24, 1977, as amended (Executive Order 91), shall continue to govern environmental quality review in the city except where inconsistent with these rules, provided, however, that the following provisions of Executive Order 91 shall not apply: the definitions of "Agency", "Lead Agencies" and "Project data statement" defined in § 6-02, subdivision (b) of § 6-03, subdivision (a) of § 6-05, the introductory paragraph of subdivision (b) of § 6-05, paragraphs one and two of subdivision (a) of § 6-12, § 6-14, and subdivision (b) of the TYPE II part of § 6-15.
+
+(b) Rules of Construction. 
+
+   (1) All functions required by Executive Order 91 to be performed by the "lead agencies," as formerly defined in § 6-02 of such Executive Order, shall be performed by the lead agency prescribed by or selected pursuant to these rules or by the Office of Environmental Coordination where authorized by these rules.
+
+   (2) Wherever Executive Order 91 explicitly or by implication refers to subdivision (b) of the Type II part of § 6-15 of such Executive Order, such reference shall be deemed to be to § 617.13(d) of the SEQRA Regulations.
+
+   (3) The reference to "a determination pursuant to § 6-03(b) of this Executive Order" contained in Executive Order 91 § 6-05(b)(1) shall be deemed to refer to selection of a lead agency pursuant to § 5-03 of these rules.
+
+   (4) The Office of Environmental Coordination shall succeed to functions performed by the City Clerk pursuant to Executive Order 91 with respect to the receipt and filing of documents.
+
+   (5) References in these rules and in Executive Order 91 to specific agencies and provisions of law shall be deemed to apply to successor agencies and provisions of law.
+
+(c) Definitions. 
+
+   (1) All definitions contained in Executive Order 91, other than the definitions of "agency" and "lead agencies", shall apply to these rules.
+
+   (2) "Action" as defined in § 6-02 of Executive Order 91 includes all contemporaneous or subsequent actions that are included in a review pursuant to City Environmental Quality Review.
+
+   (3) The following additional definitions shall apply to these rules unless otherwise noted:
+
+      Agency. "Agency" shall mean any agency, administration, department, board, commission, council, governing body or other governmental entity of the city of New York, including but not limited to community boards, borough boards and the offices of the borough presidents, unless otherwise specifically referred to as a state or federal agency.
+
+      City Environmental Quality Review. "City Environmental Quality Review" (CEQR) shall mean the environmental quality review procedure established by Executive Order 91 as modified by these rules.
+
+      Determination of Significance. "Determination of significance" shall mean a negative declaration, conditional negative declaration or notice of determination (positive declaration).
+
+      Interested Agency. "Interested agency" shall mean an agency that lacks jurisdiction to fund, approve or directly undertake an action but requests or is requested to participate in the review process because of its specific concern or expertise about the proposed action.
+
+      Involved Agency. "Involved agency" shall mean any agency that has jurisdiction to fund, approve or directly undertake an action pursuant to any provision of law, including but not limited to the Charter or any local law or resolution. The City Council shall be an involved agency for all actions for which, as a component of the approval procedure for the action or a part thereof, the City Council has the power to approve or disapprove, regardless of whether the City Council chooses to exercise such power.
+
+      Lead Agency. "Lead agency" shall mean the agency principally responsible for environmental review pursuant to these rules.
+
+      Scoping. "Scoping" shall mean the process by which the lead agency identifies the significant issues related to the proposed action which are to be addressed in the draft environmental impact statement including, where possible, the content and level of detail of the analysis, the range of alternatives, the mitigation measures needed to minimize or eliminate adverse impacts, and the identification of non-relevant issues.
+
+      SEQRA Regulations. "SEQRA Regulations" shall mean Part 617 of Volume 6 of New York Codes, Rules and Regulations.
+
+(d) Applicability. These rules and Executive Order 91 shall apply to environmental review by the city that is required by the State Environmental Quality Review Act (Environmental Conservation Law, Article 8) and regulations of the State Department of Environmental Conservation thereunder and shall not be construed to require environmental quality review of an action where such review would not otherwise be required by such act and regulations, or to dispense with any such review where it is otherwise required.
+
+
+
+
+
+
+*§ 5-03 Establishment of Lead Agency.* ::
+
+
+(a) General Rule. Where only one agency is involved in an action, that agency shall be the lead agency.
+
+(b) Actions Subject to ULURP and Charter Sections 197-a, 200, 201, and 668. 
+
+   (1) For actions subject to the Uniform Land Use Review Procedure of § 197-c of the Charter (ULURP), and for which the applicant is not a city agency, the City Planning Commission shall be the lead agency.
+
+   (2) For actions that involve plans for the development, growth and improvement of the city, its boroughs and community districts (Charter § 197-a), the City Planning Commission shall be the lead agency.
+
+   (3) For actions that involve zoning map or text changes (Charter § 200 and/or 201), the following rules shall apply:
+
+      (i) If the only approval subject to ULURP or to Charter § 200 or 201 is a zoning map or text change, the City Planning Commission shall be the lead agency.
+
+      (ii) If the applicant for any action requiring a zoning map or text change is not a city agency, the City Planning Commission shall be the lead agency.
+
+      (iii) If the action involves a zoning map or text change, in addition to another approval under Charter § 197-c (ULURP) for which there is a city agency applicant, then the city agency applicant shall be the lead agency, provided, however, that the City Planning Commission shall be the lead agency if:
+
+         (A) The action involves a zoning map or text change that covers or may apply to areas substantially larger than the properties covered by the non-zoning approvals required under Charter § 197-c; or
+
+         (B) The city agency applicant and the Chair of the City Planning Commission agree that the action involves a zoning map or text change that changes the uses permitted so as to substantially alter the area zoning pattern.
+
+   (4) For all other actions subject to § 197-c of the Charter (ULURP) for which the applicant is a city agency, and for actions subject to § 668 of the Charter for which the applicant is a city agency, the city agency applicant shall be the lead agency. Where there is more than one city agency applicant, the city agency applicants shall agree upon which of them will be the lead agency, using the selection procedure set forth in subdivision (h) of this section.
+
+   (5) Where no other provision of this section applies and an action involves a special permit or variance from the Board of Standards and Appeals (Charter § 668) for which the applicant is not a city agency, the Board of Standards and Appeals shall be the lead agency.
+
+(c) Section 195 Acquisitions of Office Space or Existing Buildings for Office Use. For actions involving acquisitions of office space or existing buildings for office use (Charter § 195), the agency filing the notice of intent to acquire shall be the lead agency.
+
+(d) Local Laws. The City Council and the Office of the Mayor shall be co-lead agencies for local laws. Either agency may at any time delegate to the other its lead agency status and act instead as an involved agency. In addition, after introduction of a proposed local law, the City Council may assume sole lead agency status after giving the Mayor five days notice.
+
+(e) Franchises, Revocable Consents, and Concessions. For actions involving franchises, revocable consents and concessions, the responsible agency as defined in Charter § 362(c) shall be the lead agency.
+
+(f) Leasing of Wharf Property for Waterfront Commerce or Navigation and Waterfront Plans. For actions involving the leasing of wharf property belonging to the city primarily for purposes of waterfront commerce or in furtherance of navigation (Charter § 1301(2)(f)), the Department of Business Services shall be the lead agency, provided that the Department of Transportation shall be the lead agency for such actions when it is acting pursuant to Charter § 2903(c)(2). For actions involving determinations of the Commissioner of Business Services pursuant to Charter § 1302 (waterfront plans), the Department of Ports and Trade shall be the lead agency.
+
+(g) Selection of Lead Agency in the Case of Multiple Involved Agencies. 
+
+   (1) Subdivision (b) of this section, which governs lead agency designation for actions involving approvals pursuant to ULURP or § 197-a, 200, 201 or 668 of the Charter, shall always govern determination of the lead agency regardless of whether the action involves additional approvals pursuant to other provisions of law.
+
+   (2) For any other action involving more than one agency, the agencies designated in subdivisions (c) through (f) of this section and any agencies involved in any required city approval, other than approvals described in such subdivisions, shall agree upon which of them will be the lead agency, using the selection procedure set forth in subdivision (h) of this section.
+
+(h) Procedure for Selection of Lead Agency. In selecting a lead agency where agreement among agencies is required by this section, and in deciding whether transfer of lead agency status is appropriate, the agencies making the selection or decision shall determine which agency is most appropriate to act as lead agency for the particular action. In making such determination, such agencies shall consider, but shall not be limited to considering, the following criteria:
+
+   (1) The agency that will have the greater degree of responsibility for planning and implementing the action;
+
+   (2) The agency that will be involved for a longer duration;
+
+   (3) The agency that has the greater capability for providing the most thorough environmental assessment;
+
+   (4) The agency that has the more general governmental powers as compared to single or limited powers or purposes;
+
+   (5) The agency that will provide the greater level of funding for the action;
+
+   (6) The agency that will act earlier on the proposed action; and
+
+   (7) The agency that has the greater role in determining the policies resulting in or affecting the proposed action.
+
+(i) Transfer of Lead Agency Status. Lead agency status may be transferred from the lead agency, at its discretion, to an involved agency that agrees to become the lead agency. In deciding whether a transfer of lead agency status is appropriate, agencies shall use the selection procedure set forth in subdivision (h) of this section. Notice of transfer of lead agency status must be given by the new lead agency to the applicant and all other involved and interested agencies within 10 days of the transfer. The Chair of the City Planning Commission may act on behalf of such Commission pursuant to this subdivision.
+
+(j) Selection of Lead Agency Where Actions Involve City and State Agencies. Where an action involves both city and state agencies, the city agency prescribed by or selected pursuant to subdivisions (a) through (i) of this section shall, together with such state agencies, participate in selection of the lead agency pursuant to SEQRA, and such selection shall be binding upon the city. The criteria set forth in § 617.6(e)(5) of the SEQRA Regulations shall be considered in deciding whether or not a city agency shall serve as lead agency. The Office of Environmental Coordination shall perform the functions set forth in subdivision (d) of § 5-04 of these rules.
+
+
+
+
+
+
+*§ 5-04 The Office of Environmental Coordination.* ::
+
+
+(a) The Director of City Planning and the Commissioner of the Department of Environmental Protection shall designate persons from the staffs of the Departments of City Planning and Environmental Protection who shall comprise the Office of Environmental Coordination (OEC). The OEC shall provide assistance to all city agencies in fulfilling their environmental review responsibilities.
+
+(b) The OEC shall perform any environmental review function assigned to it by a lead agency, except the OEC may not issue, amend or rescind a determination of significance, notice of completion of a draft or final environmental impact statement, written findings following issuance of a final environmental impact statement, or analogous statements, notices or findings for a supplemental environmental impact statement. In addition, the lead agency may not delegate to the OEC its responsibility to issue the final scope or to attend the scoping meeting; however, the lead agency may delegate to the OEC the power to chair the scoping meeting.
+
+(c) In addition to any other functions the OEC may perform pursuant to these rules, the OEC shall:
+
+   (1) Work with appropriate city agencies to develop and maintain technical standards and methodologies for environmental review and, upon request, assist in the application by agencies of such standards and methodologies;
+
+   (2) Work with appropriate city agencies to develop and maintain a technical database that may be utilized by applicants and city agencies in completing the standardized environmental assessment statement described in this subdivision and in preparation of draft and final environmental impact statements;
+
+   (3) Prepare and maintain a standardized environmental assessment statement, which shall provide guidance in determining whether the action may have a significant effect on the environment;
+
+   (4) At the request of a lead agency, coordinate the work of the technical staffs of interested agencies in order to complete environmental review, and expedite responses by interested agencies to requests of the lead agency;
+
+   (5) (i) Receive and maintain on file notifications of commencement of environmental review, determinations of significance (including completed environmental assessment statements), draft and final scopes issued pursuant to 62 RCNY § 5-07 of these rules, draft and final environmental impact statements, and significant supporting documentation comprising the official records of environmental reviews,
+
+      (ii) provide to the public upon request, or make available for inspection by the public during normal business hours, materials maintained on file pursuant to this paragraph,
+
+      (iii) publish a quarterly listing of all notifications of commencement, determinations of significance, draft and final scopes and draft and final environmental impact statements received and filed pursuant to this paragraph, and
+
+      (iv) in its discretion, advise lead agencies as to whether such documents are consistent with standards and methodologies developed pursuant to this subdivision and reflect proper use of the standardized environmental assessment statement;
+
+   (6) Provide to lead agencies staff training, management assistance, model procedures, coordination with other agencies, and other strategies intended to remedy any problems that arise with respect to consistency with standards and methodologies developed pursuant to this subdivision or proper use of the standardized environmental assessment statement;
+
+   (7) Provide to lead agencies a format for notices of public scoping meetings, assist lead agencies in ensuring that public scoping meetings are conducted in an effective manner, and, to the extent the OEC deems appropriate, comment on the draft scope and participate in such meetings;
+
+   (8) Prepare standardized forms for notifications of commencement of environmental review, determinations of significance, notices of completion of draft and final environmental impact statements, and, as may be appropriate, other environmental review documents; and
+
+   (9) Work with appropriate city agencies to develop and implement a tracking system to ensure that mitigation measures are implemented in a timely manner, and to evaluate and report on the effectiveness of mitigation measures.
+
+(d) Any state agency that seeks a determination whether a city agency shall serve as the lead agency for an action that involves city and state agencies should initially communicate with the OEC. Upon receipt of such communication, the OEC shall ascertain the city agency which is designated as lead agency by or pursuant to these rules and shall notify such agency of such communication. Such designated agency may then act pursuant to subdivision (j) of § 3 of these rules.
+
+(e) Where an action or part thereof has been or will be reviewed by a federal agency, the OEC shall assist city agencies in coordinating review with the appropriate federal agency.
+
+
+
+
+
+
+*§ 5-05 Environmental Review Procedures.* ::
+
+
+(a) Threshold Determination.
+
+   (1) In the case of any action for which a lead agency is prescribed by 62 RCNY § 5-03, and thus for which no agreement among involved agencies is necessary, only such lead agency may determine that such action, considered in its entirety, requires environmental review, and such determination shall be binding upon the city. The OEC shall, upon the request of such agency, assist in such determination.
+
+   (2) In the case of any action for which agreement among involved agencies is necessary for selection of a lead agency, if an agency that could be the lead agency for the particular action pursuant to subdivisions (b) through (g) of 62 RCNY § 5-03 determines that such action may require environmental review, then the lead agency shall be agreed upon as provided in § 3 of these rules, and such lead agency shall determine whether such action, considered in its entirety, requires environmental review. Such determination shall be binding upon the city. The OEC shall assist in any determination made pursuant to this paragraph upon the request of the agency making such determination.
+
+   (3) Nothing contained in this subdivision shall be construed to require an affirmative determination, whether formal or informal, that an action is exempt from environmental review, or is a Type II action pursuant to the SEQRA Regulations, where such determination would not otherwise be required by law.
+
+(b) Other Determinations.
+
+   (1) After the determination that an action requires environmental review, the lead agency shall notify the OEC that it is commencing environmental review and complete or cause to be completed the standardized environmental assessment statement provided by the OEC. Such statement shall provide guidance in determining whether the action may have a significant effect on the environment. The OEC and interested and involved agencies shall, upon the request of the lead agency, assist the lead agency in completing such statement.
+
+   (2) The OEC and interested and involved agencies shall, upon the request of the lead agency, assist such lead agency with respect to any aspect of a determination of significance and/or a draft, final and/or supplemental environmental impact statement.
+
+   (3) Whenever, in the preparation of a draft environmental impact statement, the lead agency identifies a potential significant impact, the lead agency shall consult with any agency that has primary jurisdiction to carry out possible mitigations, and with any city agency that has primary regulatory jurisdiction over the subject matter of such impact.
+
+   (4) Lead agencies shall transmit copies of the following to the OEC upon issuance: notifications of commencement of environmental review, determinations of significance (including completed environmental assessment statements), draft and final scopes, draft and final environmental impact statements. In addition, lead agencies shall forward to the OEC significant supporting documentation comprising the official records of environmental reviews.
+
+(c) Type II. The following actions are not subject to review under City Environmental Quality Review, the State Environmental Quality Review Act (Environmental Conservation Law, Article 8) or the SEQRA Regulations, subject to 62 RCNY § 5-05(d):
+
+   (1) Special permits for physical culture or health establishments of up to 20,000 gross square feet, pursuant to § 73-36 of the Zoning Resolution;
+
+   (2) Special permits for radio and television towers, pursuant to § 73-30 of the Zoning Resolution;
+
+   (3) Special permits for ambulatory diagnostic or treatment health care facilities, pursuant to § 73-125 of the Zoning Resolution;
+
+   (4) Special permits to allow a building or other structure to exceed the height regulations around airports, pursuant to § 73-66 of the Zoning Resolution;
+
+   (5) Special permits for the enlargement of buildings containing residential uses by up to 10 units, pursuant to § 73-621 of the Zoning Resolution;
+
+   (6) Special permits for eating and drinking establishments of up to 2,500 gross square feet with accessory drive-through facilities, pursuant to § 73-243 of the Zoning Resolution;
+
+   (7) Acquisition or lease disposition of real property by the City, not involving a change of use, a change in bulk, or ground disturbance;
+
+   (8) Construction or expansion of primary or accessory/appurtenant park structures or facilities involving less than 10,000 square feet of gross floor area;
+
+   (9) Park mapping, site selection or acquisition of less than ten (10) acres of existing open space or natural areas;
+
+   (10) Authorizations for a limited increase in parking spaces for existing buildings without parking, pursuant to § 13-442 and § 16-341 of the Zoning Resolution;
+
+   (11) Special permits for accessory off-street parking facilities, which do not increase parking capacity by more than eighty-five (85) spaces or involve incremental ground disturbance, pursuant to § 16-351 of the Zoning Resolution;
+
+   (12) Special permits for public parking garages and public parking lots, which do not increase parking capacity by more than eighty-five (85) spaces or involve incremental ground disturbance, pursuant to § 16-352 of the Zoning Resolution; and
+
+   (13) Special permits for additional parking spaces, which do not increase parking capacity by more than eighty-five (85) spaces or involve incremental ground disturbance, pursuant to § 13-45 of the Zoning Resolution.
+
+(d) Type II Prerequisites.
+
+   (1) An action listed in 62 RCNY § 5-05(c), which is also classified as Type I pursuant to 6 NYCRR Part 617.4, shall remain Type I and subject to environmental review.
+
+   (2) An action listed in 62 RCNY § 5-05(c)(2) – (5), or (8) of these rules involving ground disturbance shall remain subject to environmental review, unless it is determined that any potentially significant hazardous materials impacts will be avoided.
+
+   (3) An action listed in 62 RCNY § 5-05(c)(2), (3), (5), or (8) of these rules involving excavation of an area that was not previously excavated shall remain subject to environmental review, unless it is determined that the project site is not archaeologically sensitive.
+
+   (4) An action listed in 62 RCNY § 5-05(c)(4) of these rules shall remain subject to environmental review, unless it is determined that any potentially significant noise impacts will be avoided.
+
+   (5) An action listed in 62 RCNY § 5-05(c)(2), (3), (5), or (8) of these rules involving the removal or alteration of significant natural resources shall remain subject to environmental review.
+
+   (6) An action listed in 62 RCNY § 5-05(c)(2), (4), (5), (6), (8), or (11) – (13) of these rules shall remain subject to environmental review if the project site is:
+
+      (i) wholly or partially within any historic building, structure, facility, site or district that is calendared for consideration or eligible for designation as a New York City Landmark, Interior Landmark or Scenic Landmark;
+
+      (ii) substantially contiguous to any historic building, structure, facility, site or district that is designated, calendared for consideration or eligible for designation as a New York City Landmark, Interior Landmark or Scenic Landmark; or
+
+      (iii) wholly or partially within or substantially contiguous to any historic building, structure, facility, site or district, or archaeological or prehistoric site that is listed, proposed for listing or eligible for listing on the State Register of Historic Places or National Register of Historic Places.
+
+
+
+
+
+
+
+
+*§ 5-06 Involved and Interested Agencies; Required Circulation.* ::
+
+
+(a) The lead agency and the OEC shall make every reasonable effort to keep involved and interested agencies informed during the environmental review process and to facilitate their participation in such process. If the City Council is involved in an action, staff of the lead agency and/or staff of the OEC shall be made available to explain determinations made by the lead agency to the City Council or the appropriate City Council committee or staff.
+
+(b) Any written information submitted by an applicant for the lead agency to determine whether an environmental impact statement will be required by law, and documents or records intended to define or substantially redefine the overall scope of issues to be addressed in any draft environmental impact statement required by law, shall be transmitted to all affected community or borough boards, where such transmission is required by the Charter.
+
+(c) If the City Council is involved in an action, any written information, documents or records that are required to be transmitted to involved agencies or to affected community boards or borough boards shall be transmitted to the City Council.
+
+
+
+
+
+
+
+
+*§ 5-07 Scoping.* ::
+
+
+After a notice of determination (positive declaration) is issued, the lead agency shall coordinate the scoping process, which shall ensure that all interested and involved agencies (including the City Council where it is interested or involved), the applicant, the OEC, community and borough boards, borough presidents and the public are able to participate. The scoping process shall include a public scoping meeting and take place in accordance with the following procedure:
+
+(a) Draft Scope. Within fifteen days after a notice of determination (positive declaration) is issued, the lead agency shall issue a draft scope, which may be prepared by the applicant but must be approved by the lead agency. The lead agency may consult with the OEC and other agencies prior to issuance of the draft scope.
+
+(b) Public Notice and Comment. Upon issuance of the draft scope and not less than thirty nor more than forty-five days prior to the holding of the public scoping meeting, the lead agency shall publish in the City Record a notice indicating that a draft environmental impact statement will be prepared for the proposed action and requesting public comment with respect to the identification of issues to be addressed in the draft environmental impact statement. Such notice shall be in a format provided by the OEC and shall state that the draft scope and the environmental assessment statement may be obtained by any member of the public from the lead agency and/or the OEC. Such notice shall also contain the date, time and place of the public scoping meeting, shall provide that written comments will be accepted by the lead agency through the tenth day following such meeting, and shall set forth guidelines for public participation in such meeting.
+
+(c) Agency Notice and Comment. Upon issuance of the draft scope and not less than thirty nor more than forty-five days prior to the holding of the public scoping meeting, the lead agency shall transmit the draft scope and the environmental assessment statement to all interested and involved agencies (including the City Council where it is interested or involved), to the applicant, to the OEC and to agencies entitled to send representatives to the public scoping meeting pursuant to § 197-c(d) or 668(a)(7) of the Charter. Together with the draft scope and the environmental assessment statement, a letter shall be transmitted indicating the date, time and place of the public scoping meeting, and stating that comments will be accepted by the lead agency through the tenth day following such meeting. The lead agency may consult with other agencies regarding their comments, and shall forward any written comments received pursuant to this subdivision to the OEC.
+
+(d) Public Scoping Meeting. The lead agency shall chair the public scoping meeting. In addition to the lead agency, all other interested and involved agencies that choose to send representatives (including the City Council where it is interested or involved), the applicant, the OEC, and agencies entitled to send representatives pursuant to § 197-c(d) or 668(a)(7) of the Charter may participate. The meeting shall include an opportunity for the public to observe discussion among interested and involved agencies, agencies entitled to send representatives, the applicant and the OEC. Reasonable time shall be provided for the public to comment with respect to the identification of issues to be addressed in the draft environmental impact statement. The OEC shall assist the lead agency in ensuring that the public scoping meeting is conducted in an effective manner.
+
+(e) Final Scope. Within thirty days after the public scoping meeting, the lead agency shall issue a final scope, which may be prepared by the applicant and approved by the lead agency. The lead agency may consult further with the OEC and other agencies prior to issuance of the final scope. Where a lead agency receives substantial new information after issuance of a final scope, it may amend the final scope to reflect such information.
+
+(f) Scoping of City Agency Actions. For actions which do not involve private applications, nothing contained in these rules shall be construed to prevent a lead agency, where deemed necessary for complex actions, from extending the time frames for scoping set forth in this section, or from adding additional elements to the scoping process.
+
+
+
+
+
+
+
+
+*§ 5-08 Applications and Fees.* ::
+
+
+(a) Applications. Applications submitted for City Environmental Quality Review for actions that require such review shall be submitted to the lead agency prescribed by these rules, or to an agency that could be the lead agency for the particular action pursuant to 62 RCNY § 5-03. Such applications shall include information required to be obtained from applicants in order for the lead agency to complete or cause to be completed the standardized environmental assessment statement, and such other documents and additional information as the lead agency may require to make a determination of significance. In addition, except as otherwise provided in these rules, such applications shall conform to the requirements of Executive Order 91.
+
+(b) Fees. Except as otherwise provided by this section, fees in effect on the effective date of these rules pursuant to Executive Order 91 and codified as 62 RCNY § 3-02 shall continue to govern City Environmental Quality Review applications, unless the City Planning Commission shall by rule modify such fees. Such fees shall be submitted to the lead agency prescribed by these rules, or to an agency that could be the lead agency for the particular action pursuant to 62 RCNY § 5-03.
+
+
+
+
+
+
+
+
+*§ 5-09 Transition Section.* ::
+
+
+(a) An action shall not be subject to these rules, but shall comply with Executive Order 91, as in effect prior to the effective date of these rules, where:
+
+   (1) a classification as exempt, excluded or Type II has been made prior to the effective date of these rules;
+
+   (2) a project data statement has been completed more than thirty days prior to the effective date of these rules and a determination of significance has not been made prior to the effective date of these rules;
+
+   (3) a negative declaration or a conditional negative declaration has been issued prior to the effective date of these rules; or
+
+   (4) a notice of determination (positive declaration) has been issued more than thirty days prior to the effective date of these rules; provided, however, that if a negative declaration or conditional negative declaration is rescinded, or if a classification as exempt, excluded or Type II is no longer applicable, or if a supplemental environmental impact statement is required, or if a notice of determination (positive declaration) has been issued less than thirty days prior to the effective date of these rules or is issued on or after the effective date of these rules, these rules shall apply, and the lead agency prescribed by or selected pursuant to these rules shall thereupon assume lead agency status at the earliest time practicable.
+
+(b) Except as provided in subdivision (a) of this section, the lead agency prescribed by or selected pursuant to these rules shall assume lead agency status at the earliest time practicable. If a determination of significance has not been made and such lead agency determines that the action requires environmental review, it shall notify the OEC that it is commencing environmental review and shall complete or cause to be completed the standardized environmental assessment statement provided by the OEC, regardless of whether a project data statement has been completed. However, such lead agency shall not be required to engage in scoping pursuant to 62 RCNY § 5-07 of these rules if a final scope has already been prepared. Until the lead agency prescribed by or selected pursuant to these rules assumes lead agency status, the action shall be subject to Executive Order 91 as in effect prior to the effective date of these rules; however, after the effective date of these rules, the prior lead agency or agencies shall not issue a determination of significance or notice of completion of a draft or final environmental impact statement, classify an action as exempt, excluded or Type II, convene a scoping meeting or conduct a public hearing pursuant to CEQR.
+
+
+
+
+
+
+*§ 5-10 Severability.* ::
+
+
+The provisions of these rules shall be severable and if any phrase, clause, sentence, paragraph, subdivision or section of these rules, or the applicability thereof to any person or circumstance, shall be held invalid, the remainder of these rules and the application thereof shall not be affected thereby.
+
+
+
+
+
+
+*§ 5-11 Effective Date.* ::
+
+
+These rules shall take effect on October 1, 1991.
+
+
+
+
+Chapter 6: Rules For the Processing of Plans Pursuant To Charter Section 197-a
+--------------------------------------------------
+
+
+
+*§ 6-01 Purpose and Authority.* ::
+
+
+(a) Authority. These rules of procedure and minimum standards are established for the review of plans for the development, growth and improvement of the city, its boroughs and communities. Such plans may be sponsored by the Mayor, the City Planning Commission (the "Commission"), the Department of City Planning (the "Department"), and any Borough President, borough board or community board, (which agencies shall be referred to as the "sponsor" herein) pursuant to § 197-a(b) of the New York City Charter.
+
+(b) Policy Guidance. An adopted plan shall serve as a policy to guide subsequent actions by city agencies. The Commission shall consider pertinent such consideration as is consistent with the City Charter and general law. Agencies are urged to consider adopted 197-a plans as guidance for pertinent actions, whether or not such actions are subject to Commission review. The existence of an adopted 197-a plan shall not preclude the sponsor or any other city agency from developing other plans or taking actions not contemplated by the 197-a plan that may affect the same geographic area or subject matter.
+
+
+
+
+
+
+*§ 6-02 Plan Submission.* ::
+
+
+(a) Notification of Intent. To assist the Department in anticipating the need for technical assistance for the preparation of plans in the efficient scheduling of their review, the sponsor of a plan shall notify the Department of its intent to prepare and submit a plan. This notice shall be given not less than ninety (90) days prior to the submission of a proposed plan. Periodically, the Department shall report to the Commission on the notices received and on the progress of 197-a plans underway.
+
+(b) Submission. All proposed plans shall be submitted to the Department of City Planning through its website or at 120 Broadway, 31st Floor, New York, NY 10271. If a plan has been initiated by a community board, borough board or Borough President, this initial submission shall include a summary record of the public hearing held by the board or Borough President. The submission shall also include the name(s) and address(es) of the person(s) designated by the sponsor to be its representative(s) in any discussions of the plan.
+
+
+
+
+
+
+
+
+*§ 6-03 Threshold Review and Determination.* ::
+
+
+(a) Department Review. Each proposed plan shall be reviewed by the Department staff who shall report to the Commission not later than 90 days after the plan's submission as to whether the plan appears to meet the standards for form and content and for consistency with sound planning, as set forth in 62 RCNY § 6-04. Prior to making the report, the staff shall inform the sponsor of all deficiencies with respect to form and content and any changes, additions or deletions which, in the opinion of the staff, may correct such deficiencies. The sponsor may, thereupon, indicate its willingness to make such changes, additions or deletions in which case the Department will defer its report to the Commission until the changes have been made. The sponsor may, instead, request that the plan be presented without change to the Commission for its threshold findings of form and content and sound planning policy. At the time of any Department report on a proposed plan, the Commission may receive a similar report from representatives of the sponsor.
+
+(b) City Planning Commission Determination. Within 30 days after its presentation by the Department staff, the Commission shall determine, when required by the Charter and in accordance with the standards set forth in 63 RCNY § 6-04, whether the proposed plan is of appropriate form and sufficient content, and whether it is in accordance with sound planning policy. If the Commission has determined that a proposed plan does not meet the standards for form or content or for sound planning policy, it shall direct the plan back to the sponsor with a statement explaining its deficiencies. When the Commission has determined that a proposed plan is of appropriate form and content and is in accordance with sound planning policy, it shall direct the Department to undertake the necessary environmental review if the plan has been sponsored by a community board in accordance with 62 RCNY Ch. 5. If the plan has been sponsored by an agency other than a community board the Commission shall determine whether a Type II declaration, a negative declaration, or a notice of completion of a draft EIS has been issued, and if so, it shall direct the Department to distribute the plan in accordance with 62 RCMU § 6-06.
+
+(c) Coordination of Plan Review. The Commission may determine that, despite its finding of appropriate form and content and sound planning policy, a proposed plan should not immediately proceed because there are other planning efforts, ULURP reviews or environmental studies underway which should be coordinated with the plan. In such a case, the Commission may direct the Department to work with the sponsor and any other interested agencies in developing an appropriate timetable and strategy for the plan, and to report back to the Commission.
+
+(d) Progress Report. When 180 days has elapsed following a threshold determination pursuant to subdivision (b), if a proposed plan has not been distributed for review either because the environmental review remains incomplete, or because the plan has been delayed pursuant to subdivision (c), the sponsoring agency may make a written request to the Commission to expedite the plan's distribution. The Commission shall direct the Department to report in writing within a fixed period of time the progress of the plan, including any outstanding aspects of the environmental review, or any continuing problems of coordination delaying its review. Upon receipt of the report, the Commission may direct the Department to complete the review within a reasonable period of time.
+
+
+
+
+
+
+
+
+*§ 6-04 Standards.* ::
+
+
+(a) [;Plan Form and Content];. The form and content of all proposed plans shall be consistent with the following:
+
+   (1) A plan may take the form of a comprehensive or master plan for a neighborhood, community district, borough or other broad geographic area of the city. Such a plan would combine elements related to housing, industrial and commercial uses, transportation, land use regulation, open space, recreation, community facilities and other infrastructure and service improvements which promote the orderly growth, improvement and future development of the community, borough or city.
+
+   (2) A plan may take the form of a targeted plan which considers one or a small number of elements of neighborhood, community districts, borough or citywide problems or needs. Such a plan shall have as its focus issues that are related to the use, development and improvement of land within the sponsor's geographic jurisdiction and may give consideration to the provision of various city services necessary to support orderly growth, development and improvement of that area.
+
+   (3) A plan shall not be limited to a single zoning lot or a specific parcel in private ownership. A plan shall cover an identifiable, cohesive geographic area or neighborhood.
+
+   (4) Plans shall be presented in clear language and coherent form with elements, chapters or sections that are organized in logical sequence.
+
+   (5) Plans shall state their goals, objectives or purposes clearly and succinctly. Policy statements or recommendations shall contain documentation and explanation of the data, analysis or rationale underlying each. Plans shall demonstrate a serious attempt to analyze and propose policies that address the problems they identify.
+
+   (6) A plan shall contain, as appropriate, inventories or description and analysis of existing conditions, problems or needs; projections of future conditions, problems or needs; and recommended goals and strategies to address those conditions, problems or needs. The level of detail and analysis shall be appropriate to the goals and recommendations presented in the plan. The information and analysis relied upon to support its recommendations shall be sufficiently identified so that when the plan is later under review, the accuracy and validity of the information and analysis may be understood. Supporting information may be contained in the form of narrative, maps, charts, tables, technical appendices or the like.
+
+   (7) Plans shall be accompanied by documentation of the public participation in their formulation and preparation, such as workshops, hearings or technical advisory committees.
+
+(b) Sound Planning Policy. 
+
+   (1) All plans, no matter what their form and content, shall include discussion of their long-range consequences, their impact on economic and housing opportunity for all persons (particularly those of low and moderate income), their provision of future growth and development opportunities, their ability to improve the physical environment and their effect on the fair geographic distribution of city facilities. In determining whether a proposed plan contains sufficient discussion of these issues, the Commission shall not evaluate the merits of the plan.
+
+   (2) A plan shall set forth goals, objectives, purposes, policies or recommendations that are within the legal authority of the city to undertake.
+
+   (3) A plan which considers issues which are under the jurisdiction of specific city or state agencies shall contain evidence that such agencies have been consulted and shall disclose any comments of such agencies.
+
+   (4) A plan shall show consideration of its relationship to applicable policy documents including the Ten Year Capital Strategy, the Zoning and Planning report, the borough and mayoral Strategic Policy Statements and any 197-a plan of a neighboring or superior jurisdiction.
+
+
+
+
+
+
+*§ 6-05 Environmental Review.* ::
+
+
+(a) Lead Agency. The City Planning Commission shall be the lead agency for all 197-a plans in accordance with the City Environmental Quality Review Regulations. For a plan sponsored by the mayor, the Commission may transfer the lead status to another city agency if it determines that the proposed plan is part of a broader set of actions for which the sponsoring agency is principally responsible.
+
+(b) Community Board Plans The Department of City Planning, together with the Office of Environmental Coordination, shall conduct or cause to be conducted the required environmental review of any plan submitted by a community board.
+
+(c) Other Agency Plans. The Department, on behalf of the Commission as lead agency, shall determine in consultation with any sponsor of a proposed plan which is not a community board, the appropriate scheduling and division of responsibilities for environmental review.
+
+
+
+
+
+
+*§ 6-06 Plan Distribution and Review.* ::
+
+
+(a) Plan Distribution. When pursuant to 62 RCNY § 6-03(b), the Commission directs the Department to distribute a proposed plan, the Department shall transmit the plan simultaneously to all affected community boards, Borough Presidents and borough boards, as defined in Charter §§ 196 and 197-a(c). The Commission may also direct its distribution to other agencies whose interests may be affected including neighboring community boards and Borough Presidents, and any city and state agency with jurisdiction over elements of the plan.
+
+(b) Community Board Review. Each community board which has received from the Department of City Planning a proposed plan affecting land in its district shall conduct a public hearing on the plan except when a single borough-wide hearing is to be held on a borough plan. Notice of the public hearing shall be given and the hearing conducted in accordance with the ULURP rules for community board public hearings. Subsequent to the public hearing and within a period of sixty (60) days following its receipt of the plan, the community board shall transmit its written recommendation to the City Planning Commission with copies to the Borough President, City Council and the sponsor. The Community board which is the sponsor of a plan and which held a hearing on it prior to filing with the Department, need not hold a second hearing.
+
+(c) Borough president review. The Borough President shall have one hundred twenty (120) days following the receipt of a proposed plan in which to review the plan and submit written recommendation to the City Planning Commission with copies to the City Council and sponsor. The Borough President may choose to conduct a public hearing on the plan.
+
+(d) Borough board review. Each borough board which has received from the Department of City Planning a proposed plan affecting land in two or more community districts in its borough shall conduct a public hearing on the plan. Such public hearing shall take place and the report of the borough board shall be transmitted within one hundred twenty (120) days following its receipt of the plan. In the case of a plan affecting the entire borough, a single borough-wide public hearing may be held in lieu of separate hearings by the community boards. Notice of the public hearing shall be given and the hearing conducted in accordance with the ULURP rules governing borough board hearings. The borough board shall transmit its written recommendation to the City Planning Commission with copies to the City Council and the sponsor.
+
+(e) Request for review. Any community board or borough board may make a written request to the Department to receive and review a proposed plan which does not involve land within its district or borough. In its request the Community board or borough board shall state the reason why the plan significantly affects the welfare of its district or borough. Upon receipt of the plan, the community board or borough board may conduct a public hearing and may make any recommendation to the City Planning Commission with copies to the City Council and sponsor. When it transmits such a plan, the Department shall notify the community board or borough board of the remaining time period during which it may review and comment on the plan.
+
+(f) Other requests. A borough president may make a written request to the Department to receive and review a proposed plan for a district or area outside the borough. Any other interested party may similarly request a copy. Such request may be made to either the Department or the sponsor.
+
+
+
+
+
+
+
+
+*§ 6-07 City Planning Commission Review.* ::
+
+
+(a) Schedule for Review. When the affected community board(s), Borough President(s) and/or borough boards shall have completed their review of any proposed plan involving land in their respective districts, the City Planning Commission shall commence its review and schedule a public hearing. Such hearing shall take place within a period of sixty (60) days following receipt of the last affected community board's, borough board's or Borough President's recommendation, or the final day of the time period provided for their respective review(s), whichever is earlier.
+
+(b) Public hearing. Notice of the public hearing shall be given and the hearing conducted in accordance with the ULURP rules governing Commission hearings.
+
+(c) Commission resolution. The Commission shall vote by resolution to approve, approve with modifications or disapprove the plan. Such vote shall be taken within 60 days following the public hearing; however, if the Commission finds that it is unable to vote within that time period it shall give a written statement of explanation to the sponsor. In its review of the substance of the plan, the Commission shall give consideration to the community, borough and citywide impacts and to the long-term efforts that could result from the actions or policies recommended by the plan. It shall consider the impact of the plan on economic and housing opportunity, on future growth and development, and on the physical environment. Such consideration shall include the consistency of the plan with other Charter-defined plans and reports such as the mayoral and borough Strategic Policy Statements, the Ten-Year Capital Strategy, the Report on Social Indicators, the Zoning and Planning Report, and any other pertinent adopted 197-a plans. It shall also consider the fair share criteria adopted pursuant to § 203 of the City Charter in weighing any recommendation with respect to proposed city facilities.
+
+(d) Commission Report. The Commission shall accompany its resolution with a report which sets forth its considerations and any explanation for its determination. The report may identify any environmental issues which may arise in conjunction with any actions recommended by the Plan, it may set forth proposals for additional study and consideration that the Commission deems necessary to carry out any recommendations made by the plan and it may include recommendations for the implementation of plan elements. The report and resolution shall be transmitted to the Mayor, the affected community board(s) and Borough President(s), the City Council and the sponsor.
+
+
+
+
+
+
+*§ 6-08 Modifications.* ::
+
+
+(a) If the City Council, acting pursuant to the City Charter § 197-d(d) has transmitted to the Commission a proposed modification of a plan, the Commission shall, within fifteen (15) days, review the proposed modification and transmit back to the Council its findings and recommendations. In determining whether the modification must be subject to additional environmental review, the Commission may consult appropriate staff or the Office of Environmental Coordination, and it must consult the lead agency if the lead has not been the Commission itself. In determining whether the modification requires a new process of community, borough and Commission review, the Commission shall consider whether the proposed modification:
+
+   (1) would incorporate new elements* that were not a part of and are not related to the plan as it was previously reviewed.
+
+   (2) would delete entire elements or remove from the plan consideration of significant long-range consequences, impacts on economic and housing opportunity for all persons, provision of future opportunities for growth and development, ability to improve the physical environment, or effects on the fair geographic distribution of city facilities.
+
+
+
+
+
+
+*§ 6-09 Filing, Review and Revision.* ::
+
+
+(a) Filing. Upon final adoption of a plan by the City Council, the plan shall be filed and indexed by the Calendar Officer of the Department. The Department shall make the plan available for review by the public and shall transmit the plan to all affected agencies for their use.
+
+(b) Revision of Plans. A plan may be periodically reviewed and revised by its sponsor or the Commission may initiate such review. Any such revision may be presented for adoption as an amendment to the plan in accordance with the procedures set forth in these rules.
+
+(c) Summary of Plans. In each Zoning and Planning Report adopted pursuant to Charter § 192(b), the Commission shall include a summary of all 197-a plans adopted during the preceding four years.
+
+
+
+
+
+
+Chapter 7: Rules For the Definition of Major Concessions
+--------------------------------------------------
+
+
+
+*§ 7-01 [Concession Subject to ULURP and Council Review.]* ::
+
+
+A concession shall be considered a major concession and therefore subject to §§ 197-c and 197-d of the Charter only if:
+
+(a) it has been determined pursuant to City Environmental Quality Review to require an Environmental Impact Statement, or
+
+(b) except as provided in § 7-03, the concession will cause one or more of the thresholds set forth in § 7-02 to be exceeded.
+
+
+
+
+
+
+*§ 7-02 [Major Concession Defined; Specific Uses, Thresholds e.g. Marinas, Spectator Sport Use, Parks.]* ::
+
+
+A concession shall be considered a major concession if it will cause one or more of the thresholds given for the specific uses listed below to be exceeded:
+
+(a) marinas with over 200 slips;
+
+(b) a permanent performance or spectator sport use with over 2,500 seats;
+
+(c) for parklands in or adjacent to Community Districts subject to the comprehensive off-street parking regulations, contained in Article I, Chapter 3 of the Zoning Resolution of the City of New York, accessory parking lots with over 150 spaces and, for all other areas, accessory parking lots with over 250 parking spaces on parklands;
+
+(d) a use for which a new building of over 20,000 square feet of gross floor area will be constructed when such building will be located on property other than parkland;
+
+(e) a use for which a new building of more than 15,000 square feet of gross floor area will be constructed when such building will be located on parkland;
+
+(f) an open use which occupies more than 42,000 square feet of open space other than parkland;
+
+(g) an open use which occupies over 30,000 square feet of a separate parcel of parkland;
+
+(h) a use which in total occupies more than 2,500 square feet of floor area or open space and more than 15 percent of the total square footage of a separate parcel of land that is improved for park purposes, including passive and active recreational use, or that was improved for such purposes at any time during the preceding year; or
+
+(i) a concession comprised of two or more components, no one of which exceeds thresholds set forth in paragraphs (a) through (h) above, where at least two of such elements each exceed 85 percent of any applicable threshold set forth in such paragraphs.
+
+
+
+
+
+
+*§ 7-03 [Concessions That are not Major Concessions.]* ::
+
+
+Notwithstanding any other provision of these rules the following shall not be considered major concessions unless an EIS is required:
+
+(a) A concession for any use which will be operated for 30 days or less;
+
+(b) A concession which is or directly furthers an active recreational use and would be available to the general public on a non-discriminatory basis, with or without a fee, including but not limited to the following:
+
+   (1) a seasonal covering of recreational facilities,
+
+   (2) a carousel, or
+
+   (3) a use intended for active participation sports including playing fields or sports courts (e.g., tennis, volleyball, handball, softball), skating rinks, playgrounds, and practice facilities (e.g., batting cages, golf driving ranges, miniature golf); provided that the area occupied by such recreational use does not exceed both 15 acres and 50 percent of a separate parcel of land;
+
+(c) Reuse of former amusement park lands for amusement or recreational purposes;
+
+(d) Any renewal, reissuance, extension, amendment of an existing concession or issuance of a new concession which continues a currently existing use or which permits a use which existed lawfully on the property at any point in the preceding two years, whether operated by a private or public entity, provided that any extension or amendment or the cumulative effect of any amendments or extensions made over any five year period does not include modifications which when added to the existing concession, cause any threshold of § 7-02 to be exceeded and increase the size of an existing concession by ten percent or more;
+
+(e) A concession for which authorization to use a different procedure was granted or obtained, or which is operated under an agreement executed, prior to the effective date of this major concession rule;
+
+(f) A concession for lines, cables, conduits or underground pipes not used for the transport of people;
+
+(g) A concession on wharf property or waterfront property primarily for purposes of "waterfront commerce" or in "furtherance of navigation" as such terms are defined in the New York City Charter;
+
+(h) A concession on wharf property for purposes other than "waterfront commerce" or in "furtherance of navigation" which is granted pursuant to § 1301.2(h) of the City Charter; or
+
+(i) A concession for an open air market which operates two (2) or fewer days per week, or, if a green market, three (3) or fewer days per week.
+
+
+
+
+Chapter 8: Rules For the Processing of Applications For Permitted Parking Pursuant To Section 93-82 of the Zoning Resolution
+--------------------------------------------------
+
+
+
+*§ 8-01 Purpose.* ::
+
+
+These rules of procedure are established for the review of applications for certification to allow permitted parking pursuant to Section 93-82 of the Zoning Resolution (ZR).
+
+
+
+
+
+
+
+
+*§ 8-02 Pre-Filing Process.* ::
+
+
+(a) Pre-Filing Review.
+
+   (i) The applicant shall submit for review a draft application which shall include zoning calculations for the site from which the number of permitted spaces for the site may be ascertained. Such draft applications shall be submitted to the Department of City Planning, Director of the Department's Manhattan Office (hereinafter, "Director"). Upon receipt, the Director shall record the date and time of receipt. All applications shall be reviewed for completeness in order of receipt
+
+   (ii) The Department, acting by and through the Director, shall review each application for accuracy and completeness in order of receipt. The Director shall notify the applicant whether or not the application is complete and may be filed in accordance with the provisions of 62 RCNY § 8-03, or whether the application is inaccurate or incomplete and requires revision. Such notification may be transmitted to the applicant's representative, together with a specification of the portions of the application which are inaccurate or incomplete and require revision, if applicable.
+
+   (iii) The Director shall record the date and time of receipt of any revised draft application submitted in response to a notification provided under subparagraph (ii). A revised draft application shall be reviewed for completeness in order of receipt and the applicant's representative shall be notified of the Director's determination, pursuant to the procedure set forth subparagraph (ii) of this Section.
+
+
+
+
+
+
+
+
+*§ 8-03 Filing of Applications.* ::
+
+
+(a) Filing. Following notification pursuant to 62 RCNY § 8-02(a)(ii) that a draft application is complete, the applicant shall file the application pursuant to 62 RCNY § 10-09 with the Department of City Planning. Applications which have not been reviewed and determined to be complete pursuant to 62 RCNY § 8-02 shall not be accepted for filing. The Department may not consider the application as filed unless it includes all required components and shall not consider the application as filed unless the required fee has been paid concurrently with the submission of the application. Applications accepted for filing in accordance herewith shall be stamped by the Department with the date and time of filing.
+
+
+
+
+
+
+
+
+*§ 8-04 Certification for Permitted Parking Spaces.* ::
+
+
+(a) Filing Date. Review of applications for certification for permitted parking spaces shall be made, in accordance with the provisions of ZR Section 93-82, in the order of application filing date and time, except as provided in paragraph (b) hereof. If, pursuant to ZR Section 93-82, fewer permitted parking spaces are available than the number of spaces requested in an application, the Chairperson shall only grant a certification for the number of spaces as are available at the time, and shall issue subsequent certifications for such application at such time as additional spaces become available in accordance with ZR Section 93-82. Except as provided in paragraph (b) below, certification of parking spaces shall not be made with respect to an application with a later filing date and time until the entire number of parking spaces requested in an application with an earlier filing date and time has been certified.
+
+(b) Applicant Reduces Existing Spaces On Site. Notwithstanding the provisions of paragraph (a), if an applicant intends to eliminate existing parking spaces at the site that is the subject of the application, a certification for permitted parking spaces may be granted to the extent that elimination of existing parking spaces allows such determination to be made pursuant to ZR Section 93-821 (e)(1) and (2), provided: (i) that such existing parking spaces shall be eliminated prior to issuance of the certification. The elimination of such existing parking spaces shall be evidenced by: (aa) an acknowledgement from the New York City Department of Consumer Affairs that license(s) issued by such agency for the operation of public parking at the site have been surrendered or, if such license(s) are pending renewal at the time, that the licensee has stated to the New York City Department of Consumer Affairs in writing that the license(s) will not be renewed; or (bb) if the licensee is no longer in control of the premises, in the form of an affidavit from the owner or applicant attesting to the fact that the licensee is not in control of the premises and is not authorized to operate at the premises; and (ii) a restrictive declaration executed by all parties-in-interest, as such term is defined in ZR Section 12-10, providing that any resumption of use of the eliminated spaces prior to or during construction shall be prohibited, has been recorded in the office of the City Register. If the number of parking spaces requested in the application exceeds the number of permitted spaces available by reason of the elimination of existing spaces, any subsequent certifications with respect to additional spaces shall be made in accordance with the provisions of paragraph (a) above.
+
+
+
+
+Chapter 9: Rules For the Processing of Applications For Certification To Allow A Limited Increase In Street Wall Width Pursuant To Section 132-51 of the Zoning Resolution
+--------------------------------------------------
+
+
+
+*§ 9-01 Purpose.* ::
+
+
+These rules of procedure are established for the review of applications for Certification to Allow a Limited Increase in Street Wall Width pursuant to Section 132-51 of the Zoning Resolution (ZR).
+
+
+
+
+
+
+*§ 9-02 Pre-Filing Process.* ::
+
+
+(a) The applicant must submit for review a draft application which must include material required by the Department of City Planning ("the Department") demonstrating the information and items set forth in ZR Section 132-51. Draft applications must be submitted to the specific division of the Department that is designated on the application form for receipt of an application filed pursuant to ZR Section 132-51, by submission to the division so named on the application form at the New York City Department of City Planning. Upon receipt, the Department will record the date and time of receipt.
+
+(b) The Department will review each draft application for accuracy and completeness in order of receipt. The Department will notify the applicant in order of receipt whether the draft application is complete and may be filed in accordance with the provisions of 62 RCNY § 9-03, or whether the draft application is incomplete and requires revision. Such notification will be provided via the delivery method identified by the applicant on the application form, and will include a specification of the portions of the application that are incorrect or incomplete and require revision, if applicable.
+
+(c) The Department will record the date and time of receipt of any revised draft application submitted in response to a notification provided under subdivision (b) of this section. A revised draft application will be reviewed for completeness and the applicant will be notified of the Department's further determination in order of receipt of the revised draft application. Such notification of the Department's further determination will be provided pursuant to the procedure set forth in subdivision (b) of this section.
+
+
+
+
+
+
+
+
+*§ 9-03 Filing of Applications.* ::
+
+
+Filing. Following notification pursuant to 62 RCNY § 9-02(b) or (c) that a draft application is complete, the applicant must file the application pursuant to 62 RCNY § 10-09 with the Department of City Planning. Applications that have not been reviewed and determined to be complete pursuant to 62 RCNY § 9-02 will not be accepted for filing. The Department may not consider the application as filed unless it includes all required components and shall not consider the application as filed unless the required fee has been paid concurrently with the submission of the application. Applications accepted for filing in accordance with these rules will be stamped by the Department with the date and time of filing.
+
+
+
+
+
+
+
+
+*§ 9-04 Review and Certification of Applications.* ::
+
+
+For applications for establishments within the same set of applicable geographic boundaries as set forth in ZR Section 132-51(c), review and certification of applications will be made in the order of application filing date and time. As set forth in ZR Section 132-51(c), the set of applicable geographic boundaries means the same block frontage containing the applicant's establishment, the block frontage directly across the street from the block containing such establishment, and the blocks fronting on the commercial street immediately adjacent to the north and south of the block containing the applicant's establishment.
+
+
+
+
+
+
+*§ 9-05 Lapse of Certification.* ::
+
+
+(a) Effect of Lapse. If a certification granted pursuant to ZR Section 132-51 lapses in accordance with the provisions set forth in the final paragraph of that section, or if an authorization granted pursuant to ZR Section 132-52 lapses in accordance with the provisions set forth in ZR Section 11-42, the effect of such lapse is that the underlying application for such certification or authorization will not be considered an "approved application" for purposes of ZR Section 132-51(c)(2).
+
+(b) Substantial Construction. For purposes of ZR Section 132-51, the term "substantial construction" means that the entirety of the interior space associated with the extension pursuant to the certification has been combined, has been made a part of the operations of the enlarged establishment, and remains open to customers from any and all doorways located along the approved retail frontage, except that entrances serving portions of the establishment reserved for employees only do not need to be open to customers.
+
+
+
+
+Chapter 10: Pre-application Process: Submission and Meeting Participation Requirements Prior To Filing A Land Use Application Or Application For Environmental Review
+--------------------------------------------------
+
+
+
+*§ 10-01 Purpose.* ::
+
+
+These rules establish submission and meeting participation requirements ("Pre-Application Process") prior to the filing of land use applications pursuant to the Zoning Resolution and Sections 197-a, 197-c, 197-d, 199, 200, and 201 of the New York City Charter or of applications for environmental review pursuant to 62 RCNY Ch. 5 . The purpose of these rules is to:
+
+(a) assist potential applicants or their designated representatives ("Applicants") and the Department of City Planning ("Department") in identifying the land use and environmental issues related to a proposed project and the land use applications and applications for environmental review necessary to facilitate the proposed project; and
+
+(b) help the Department better allocate resources to assist Applicants in preparing land use applications and applications for environmental review, and to assist the City Planning Commission in considering these applications.
+
+
+
+
+
+
+*§ 10-02 Applicability.* ::
+
+
+(a) An Applicant must follow the applicable requirements of this chapter prior to filing any land use application or application for environmental review.
+
+(b) Exception. Notwithstanding subdivision (a) of this section, an Applicant may be exempt from the requirements of this chapter to the extent provided under the following circumstances:
+
+   (1) where an Applicant has submitted a Pre-Application Statement ("PAS") to the Department prior to the effective date of these rules, the requirements of 62 RCNY § 10-03 shall not apply;
+
+   (2) where an Applicant has submitted a PAS to the Department and attended an Interdivisional Meeting ("ID Meeting") prior to the effective date of these rules, the requirements of 62 RCNY § 10-03 and 62 RCNY § 10-04 shall not apply;
+
+   (3) where an Applicant has submitted a Reasonable Worst Case Development Scenario Memorandum ("RWCDS Memorandum") and a draft land use application to the Department prior to the effective date of these rules, the requirements of 62 RCNY § 10-03, 62 RCNY § 10-04, and 62 RCNY § 10-05 shall not apply; and
+
+   (4) where an Applicant has submitted a draft City Environmental Quality Review Environmental Assessment Statement short/full form ("draft CEQR short/full form") and a draft land use application to the Department prior to the effective date of these rules, the requirements of 62 RCNY § 10-03, 62 RCNY § 10-04, 62 RCNY § 10-05, and 62 RCNY § 10-06 shall not apply.
+
+
+
+
+
+
+*§ 10-03 Informational Meeting.* ::
+
+
+(a) Before filing a land use application or application for environmental review, an Applicant must contact the Department Borough Office in the borough where a proposed project is to be located in order to schedule an Informational Meeting with the Department.
+
+(b) Within forty-five (45) days of an Applicant contacting a Borough Office to schedule an Informational Meeting, the Department must hold an Informational Meeting subject to the Applicant's availability. If the Applicant is not available within this period, the Department must hold the Informational Meeting as soon as practicable at a time at which both the Department and the Applicant are available.
+
+   (1) An Informational Meeting may be held in person, by telephone, or by other electronic means, including video teleconference, as the Department deems appropriate.
+
+   (2) An Applicant must submit to the Department before or at an Informational Meeting any materials identified by the Department before the meeting that are necessary to conduct the meeting. Such materials may include, but are not limited to, official zoning sectional maps, official tax maps, color aerial photos, land use maps, color site and area photographs, or site topographical surveys.
+
+   (3) An Applicant must participate in an Informational Meeting and present to the Department basic information about the proposed project and surrounding area. The Department may share with the Applicant information about zoning, the neighborhood, City policies potentially affecting the proposed project, and the relevant land use and environmental application review and public review processes.
+
+(c) At or after an Informational Meeting, an Applicant proceeding with filing a land use application or application for environmental review must request from the Department a Project ID number, which will be used by the Department to track proposed projects during the Pre-Application Process.
+
+(d) Within thirty (30) days of an Applicant's request for a Project ID number:
+
+   (1) the Department must:
+
+      (i) issue a Project ID number to the Applicant for the proposed project; or
+
+      (ii) notify the Applicant that the Department requires additional information or an additional Informational Meeting in order to adequately understand the basic information about the proposed project and surrounding area. Where an additional Informational Meeting is required, the Department must hold such meeting within thirty (30) days of notifying the Applicant, subject to the Applicant's availability. If the Applicant is not available within this period, the Department must hold the Informational Meeting as soon as practicable at a time at which both the Department and the Applicant are available. Within thirty (30) days of receiving such additional information or holding an additional Informational Meeting, the Department must issue the Project ID number to the Applicant for the proposed project, or request additional information or Informational Meetings in accordance with the procedures set forth in this paragraph until such time that the Department has received sufficient information to adequately understand the basic information about the proposed project and surrounding area and issues a Project ID number.
+
+   (2) Upon issuing a Project ID number, the Department must also notify an Applicant that:
+
+      (i) the Applicant is subject to the procedures set forth in 62 RCNY § 10-04; or
+
+      (ii) the Applicant is not subject to the procedures set forth in 62 RCNY § 10-04, 62 RCNY § 10-05, 62 RCNY § 10-06, and 62 RCNY § 10-08, if the Department determines that the proposed project does not require more than one division to review the land use application material or coordination among the divisions to ensure that consistent and non-conflicting feedback is provided to Applicants, and that the project is classified as Type II pursuant to the regulations promulgated under the New York State Environmental Quality Review Act ("SEQR"). When providing notification pursuant to this paragraph, the Department must also notify the Applicant whether the Applicant is subject to the procedures set forth in 62 RCNY § 10-07 or may directly proceed to file a land use application pursuant to 62 RCNY § 10-09.
+
+(e) If the Department fails to hold a meeting pursuant to subdivision (b) of this section or fails to notify an Applicant pursuant to subdivision (d) of this section, the Applicant may proceed to submit a Pre-Application Statement without a Project ID number pursuant to the provisions set forth in 62 RCNY § 10-04.
+
+
+
+
+
+
+*§ 10-04 Pre-Application Statement.* ::
+
+
+(a) Following the issuance of a Project ID number and notification pursuant to 62 RCNY § 10-03(d) that the provisions of this section apply, an Applicant must submit a Pre-Application Statement ("PAS") to the Department. If an Applicant submits a PAS without a Project ID number pursuant to 62 RCNY § 10-03(e), the Department must issue the Project ID number to such Applicant upon receipt of the PAS. A PAS consists of the PAS form and any accompanying materials required by the form. The PAS form is available on the Department's website or in hard copy from the Department. The completed PAS must be submitted to the division or office of the Department indicated on the form.
+
+(b) Within twenty (20) days of receiving an Applicant's PAS, the Department must provide the Applicant with a confirmation of the receipt of the PAS, and:
+
+   (1) review the PAS to determine whether it has been submitted in the proper format and clearly and fully sets forth the information requested by the PAS form; and
+
+   (2) notify the Applicant that:
+
+      (i) the PAS is complete; or
+
+      (ii) additional or revised materials must be submitted to the Department. The Applicant must furnish any such additional or revised materials where the Department has made such a request. Within thirty (30) days of receiving such additional or revised materials, the Department must review such materials and notify the Applicant that the PAS is complete or that additional or revised materials must be submitted. The Department may continue requesting such materials in accordance with the procedures set forth in this paragraph until such time that the Department determines that the PAS is complete.
+
+   (3) upon notifying the Applicant that the PAS is complete, also notify the Applicant that:
+
+      (i) the Department will hold an ID Meeting pursuant to 62 RCNY § 10-05, if the proposed project requires more than one division to review the land use application or application for environmental review material, and the divisions must coordinate their respective reviews to ensure that consistent and non-conflicting feedback is provided to Applicants; or
+
+      (ii) the Department will not hold an ID Meeting and the project is:
+
+         (A) classified as Type I or Unlisted, pursuant to SEQR, and subject to the procedures set forth in 62 RCNY § 10-06; or
+
+         (B) classified as Type II, pursuant to SEQR, such that the procedures set forth in 62 RCNY § 10-06 and 62 RCNY § 10-08 do not apply. When providing notification pursuant to this paragraph, the Department must also notify the Applicant whether the Applicant is subject to the procedures set forth in 62 RCNY § 10-07 or may directly proceed to file a land use application pursuant to 62 RCNY § 10-09.
+
+(c) If the Department fails to notify an Applicant pursuant to subdivision (b) of this section, the Applicant may proceed with filing a land use application as set forth in 62 RCNY § 10-09 or an application for environmental review as set forth in 62 RCNY § 10-10.
+
+
+
+
+
+
+
+
+*§ 10-05 Interdivisional Meeting.* ::
+
+
+(a) Within ninety (90) days of notifying an Applicant pursuant to 62 RCNY § 10-04(b)(3)(i) that the Department will hold an ID Meeting, the Department must hold such a meeting with the Applicant subject to the Applicant's availability. If the Applicant is not available within this period, the Department must hold the ID Meeting as soon as practicable at a time at which both the Department and the Applicant are available.
+
+   (1) An ID Meeting may be held in person, by telephone, or by other electronic means, including video teleconference, as the Department deems appropriate.
+
+   (2) An Applicant proceeding with filing a land use application or application for environmental review must participate in an ID Meeting and provide any information requested by the Department until such time that the Department has received sufficient information to determine the land use actions necessary to facilitate the proposed project and the type of environmental review that will be required.
+
+(b) Within ninety (90) days after an ID meeting:
+
+   (1) the Department must notify an Applicant that:
+
+      (i) the Department has received sufficient information to determine the land use actions necessary to facilitate the proposed project and the type of environmental review that will be required; or
+
+      (ii) the Department requires further information or an additional ID Meeting to determine the land use actions necessary to facilitate the proposed project and the type of environmental review that will be required. Where an additional ID Meeting is required, the Department must hold the meeting within thirty (30) days of notifying the Applicant, subject to the Applicant's availability. If the Applicant is not available within this period, the Department must hold the additional ID Meeting as soon as practicable at a time at which both the Department and the Applicant are available. Within forty-five (45) days of receiving such additional information or holding an additional ID Meeting, the Department must notify the Applicant that it has received sufficient information to determine the land use actions necessary to facilitate the proposed project and the type of environmental review that will be required, or that additional information must be submitted or an additional ID Meeting must be held in accordance with the procedures set forth in this paragraph until such time that the Department may make such a determination.
+
+   (2) Upon notifying an Applicant that the Department has received sufficient information to determine the land use actions necessary to facilitate the proposed project and the type of environmental review that will be required, the Department must also notify the Applicant that the project is:
+
+      (i) classified as Type I or Unlisted, pursuant to SEQR, and subject to the procedures set forth in 62 RCNY § 10-06; or
+
+      (ii) classified as Type II, pursuant to SEQR, such that the procedures set forth in 62 RCNY § 10-06 and 62 RCNY § 10-08 do not apply. When providing notification pursuant to this subsection, the Department must also notify the Applicant whether the Applicant is subject to the procedures set forth in 62 RCNY § 10-07 or may directly proceed to file a land use application pursuant to 62 RCNY § 10-09.
+
+(c) If the Department fails to hold an ID Meeting pursuant to subdivision (a) of this section or fails to notify an Applicant pursuant to subdivision (b) of this section, the Applicant may proceed with filing a land use application as set forth in 62 RCNY § 10-09 and an application for environmental review as set forth in 62 RCNY § 10-10.
+
+
+
+
+
+
+*§ 10-06 Reasonable Worst Case Development Scenario.* ::
+
+
+(a) Following notification to an Applicant pursuant to 62 RCNY § 10-04(b)(3)(ii)(A) or 62 RCNY § 10-05(b)(2)(i), as applicable, that the Applicant's project is classified as Type I or Unlisted, an Applicant proceeding with filing a land use application or application for environmental review must submit a RWCDS Memorandum. The memorandum must be on a form provided by the Department that is available on the Department's website. The memorandum must set forth a description of, and the basis for, the RWCDS that may result from the land use actions that facilitate the proposed project. A RWCDS is a conservative projection of the development that may occur pursuant to a discretionary action and is used by the Department to make reasonable conclusions regarding a land use action's likely effects on the environment, consistent with the requirements of SEQR/CEQR and the guidance of the City's CEQR Technical Manual.
+
+(b) Within ninety (90) days of receiving a RWCDS Memorandum, the Department must review the memorandum and:
+
+   (1) notify an Applicant that:
+
+      (i) the Department accepts the RWCDS Memorandum and the Applicant may proceed to submit, pursuant to the procedures set forth in 62 RCNY § 10-08, a draft CEQR short/full form as provided by the Mayor's Office of Environmental Coordination; or
+
+      (ii) the Department requires further information or a RWCDS Meeting in order to review and clarify the assumptions underlying the RWCDS Memorandum. Where a RWCDS Meeting is required, the Department must hold the meeting within thirty (30) days of notifying the Applicant that the Department requires a RWCDS Meeting, subject to the Applicant's availability. If the Applicant is not available within this period, the Department must hold the meeting as soon as practicable at a time at which both the Department and the Applicant are available. A RWCDS Meeting may be held in person, by telephone, or by other electronic means, including teleconference, as the Department deems appropriate. Within forty-five (45) days of receiving additional information or holding a RWCDS Meeting, the Department must notify the Applicant that it accepts the RWCDS Memorandum and the Applicant may proceed to submit a draft CEQR short/full form pursuant to the procedures set forth in 62 RCNY § 10-08, or that it requires further information or an additional RWCDS Meeting in accordance with the procedures set forth in this paragraph in order to review and clarify the assumptions underlying the memorandum until such time that the Department accepts the memorandum and the Applicant may proceed to submit a draft CEQR short/full form.
+
+   (2) upon notifying an Applicant that the Department has accepted the Applicant's RWCDS Memorandum and that the Applicant may proceed to submit a draft CEQR short/full form, also notify the Applicant whether the Applicant is subject to the procedures set forth in 62 RCNY § 10-07 or, if not subject the Applicant may directly proceed to file a land use application pursuant to 62 RCNY § 10-09.
+
+(c) If the Department fails to notify an Applicant pursuant to subdivision (b) of this section, the Applicant may proceed with filing a land use application as set forth in 62 RCNY § 10-09 and an application for environmental review as set forth in 62 RCNY § 10-10.
+
+
+
+
+
+
+
+
+*§ 10-07 Draft Land Use Application.* ::
+
+
+(a) The Department may request a draft land use application where a high degree of technical expertise is necessary to produce the land use application materials for an Applicant's proposed project. Following notification to an Applicant pursuant to 62 RCNY § 10-03(d)(2)(ii), 62 RCNY § 10-04(b)(3)(ii)(B), 62 RCNY § 10-05(b)(2)(ii), or 62 RCNY § 10-06(b)(2), as applicable, that the Applicant is subject to the procedures set forth in 62 RCNY § 10-07, an Applicant proceeding with filing a land use application must submit a draft land use application to the Department for review. The Applicant must submit the draft land use application to the Department. Such application must include all required forms, documents, and exhibits as required by instructions for submitting a land use application which are set forth on the Department's website and available upon request in hard copy from the Department.
+
+(b) Within ninety (90) days of receiving a draft land use application, the Department must review the draft application and:
+
+   (1) notify an Applicant that the draft application includes all such required forms, documents, and exhibits as required by the instructions for submitting a land use application, such that the Applicant may proceed to file a land use application pursuant to 62 RCNY § 10-09; or
+
+   (2) notify an Applicant that the draft land use application is missing one or more required forms, documents, or exhibits, or is not submitted as required by the instructions for submitting a land use application. The Applicant must submit a revised draft land use application to the Department. Within forty-five (45) days of receiving the revised draft land use application, the Department must review it and notify the Applicant that the Applicant may proceed to file a land use application pursuant to 62 RCNY § 10-09, or that additional or revised materials must be submitted. The Department may continue requesting such materials in accordance with the procedures set forth in this paragraph until such time that the Department determines that the Applicant may proceed to file a land use application pursuant to 62 RCNY § 10-09.
+
+(c) If the Department fails to notify an Applicant pursuant to subdivision (b) of this section, the Applicant may proceed with filing a land use application as set forth in 62 RCNY § 10-09.
+
+
+
+
+
+
+
+
+*§ 10-08 Draft City Environmental Quality Review.* ::
+
+
+(a) Following notification to an Applicant pursuant to 62 RCNY § 10-06(b)(1) that the Applicant may proceed to submit a draft CEQR short/full form, an Applicant proceeding with filing an application for environmental review must submit a draft CEQR short/full form to the Department for review. The Applicant must submit the draft CEQR short/full form to the Department and notify the Environmental Assessment Review division project manager handling the Applicant's project. Such application must include all required forms, documents, and exhibits as required by instructions for submitting a CEQR short/full form as provided by the Mayor's Office of Environmental Coordination.
+
+(b) Within ninety (90) days of receiving a draft CEQR short/full form, the Department must review the draft and:
+
+   (1) notify an Applicant that the draft CEQR short/full form is substantially complete in form and substance such that the Applicant may proceed to file an application for environmental review pursuant to 62 RCNY § 10-10; or
+
+   (2) provide comments to an Applicant on the draft CEQR short/full form, which the Applicant must address to the Department's satisfaction before the Applicant may proceed to file an application for environmental review pursuant to 62 RCNY § 10-10. Within forty-five (45) days of receiving a revised draft CEQR short/full form, the Department must review the revised draft and notify the Applicant that the revised draft is substantially complete in form and substance such that the Applicant may proceed to file an application for environmental review pursuant to 62 RCNY § 10-10, or that the revised draft does not address, in whole or in part, the comments previously provided by the Department to the Applicant, in which case the review process must continue in accordance with the procedures set forth in this paragraph until the Department determines that the draft is substantially complete in form and substance and the Applicant may proceed to file an application for environmental review pursuant to 62 RCNY § 10-10.
+
+(c) If the Department fails to notify an Applicant pursuant to subdivision (b) of this section, the Applicant may proceed with filing an application for environmental review as set forth in 62 RCNY § 10-10.
+
+
+
+
+
+
+
+
+*§ 10-09 Filing of Land Use Application.* ::
+
+
+(a) After an Applicant receives notification pursuant to 62 RCNY § 10-03(d)(2)(ii), 62 RCNY § 10-04(b)(3)(ii)(B), 62 RCNY § 10-05(b)(2)(ii), 62 RCNY § 10-06(b)(2), or 62 RCNY § 10-07(b), as applicable, that it may proceed to file a land use application, the Applicant may file such application with the Department in accordance with 62 RCNY § 2-02(a)(1).
+
+(b) Notwithstanding subdivision (a) of this section, an Applicant may proceed with filing a land use application where otherwise provided in this chapter.
+
+
+
+
+
+
+
+
+*§ 10-10 Filing of Application for Environmental Review.* ::
+
+
+(a) After an Applicant receives notification pursuant to 62 RCNY § 10-08(b) that it may proceed to file an application for environmental review, the Applicant may file such application pursuant to 62 RCNY Ch. 5.
+
+(b) Notwithstanding subdivision (a) of this section, an Applicant may proceed with filing an application for environmental review where otherwise provided in this chapter.
 
 
 
