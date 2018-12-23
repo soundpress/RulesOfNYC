@@ -13008,33 +13008,39 @@ d. DCP shall notify DOB and OER of the removal of tax lots and (E) Designations 
 *§ 24-09 Fees and OER Review and Approval Procedure.* ::
 
 
-a. OER will conduct an initial review of an application to determine the extent of review required for approval of the application. OER shall inform the applicant of the fee amount.
+a. OER will conduct an initial review of an application to determine the extent of review required for approval of the application. OER will inform the applicant of the fee amount.
 
-b. An applicant who seeks OER approval of a minor alteration(s) and/or other action on a tax lot subject to an (E) Designation or an Environmental Restrictive Declaration resulting in the issuance of a notice of no objection shall pay a fee of $375.
+b. An applicant who seeks OER approval of a minor alteration(s) and/or other action on a tax lot subject to an (E) Designation or an Environmental Restrictive Declaration resulting in the issuance of a notice of no objection must pay a fee of $475.
 
-c. An applicant for a new development or for alterations on a tax lot subject to an (E) Designation or an Environmental Restrictive Declaration that requires a detailed review by OER involving a phased approval and sign-off procedure (e.g., investigation, remedial action plan or remedial action report) shall pay a fee of $1050.
+c. An applicant for a new development or for alterations on a tax lot subject to an (E) Designation or an Environmental Restrictive Declaration that requires a detailed review by OER involving a phased approval and sign-off procedure (e.g., investigation, remedial action plan or remedial action report) must pay a fee of $1,325.
 
-d. Each payment shall be in the form of a personal, business or certified check or money order made payable to the New York City Department of Environmental Protection/Office of Environmental Remediation (DEP/OER) and shall be sent to:
+d. An applicant proposing a new development or alterations on a tax lot subject to an (E) Designation or an Environmental Restrictive Declaration that requires a second OER review after issuance of a notice to proceed must pay a fee of $475.
+
+e. An applicant who seeks to convert an active sub-slab depressurization system to a passive sub-slab depressurization system following OER approval of a remedial closure report must pay a fee of $475.
+
+f. An applicant who requires OER review of periodic reports of the performance of active remedial systems must pay a fee of $275.
+
+g. Each payment shall be in the form of a personal, business or certified check or money order made payable to the New York City Department of Environmental Protection/Office of Environmental Remediation (DEP/OER) and shall be sent to:
 
    Office of Environmental Remediation    100 Gold Street, 2nd floor    New York, NY 10038    Attn. Accounts Receivable
 
-The applicant shall include the OER project number and/or project name on the certified check.
+The applicant must include the OER project number and/or project name on the certified check.
 
-e. At the request of the applicant, OER will meet with the applicant regarding (1) the required contents of any plan or report required pursuant to 15 RCNY §§ 24-06 and 24-07, and (2) the timeline to meet program milestones to expedite such work.
+h. At the request of the applicant, OER will meet with the applicant regarding (1) the required contents of any plan or report required pursuant to 15 RCNY §§ 24-06 and 24-07, and (2) the timeline to meet program milestones to expedite such work.
 
-f. Upon initial receipt of a submission required pursuant to this chapter, including plans and reports, OER will review such submission and attempt to provide written comments within thirty (30) days of receipt of such initial submission.
+i. Upon initial receipt of a submission required pursuant to this chapter, including plans and reports, OER will review such submission and attempt to provide written comments within thirty (30) days of receipt of such initial submission. The applicant must submit all documents, plans, and reports in digital form and in a format established by OER.
 
-   (1) The applicant must submit all documents, plans, and reports in digital form and in a format established by OER.
-
-g. If OER requests additional information or a revised submission, the applicant shall resubmit the document, plan, or report with this additional information for review.
+j. If OER requests additional information or a revised submission, the applicant must resubmit the document, plan, or report with this additional information for review.
 
    (1) Revised submissions will be reviewed by OER as expeditiously as possible;
 
-   (2) Upon receipt of all information requested, OER shall approve the document, modify the document, or issue comments with respect to the submission within thirty (30) days.
+   (2) Upon receipt of all information requested, OER will approve the document, modify the document, or issue comments with respect to the submission within thirty (30) days.
 
-h. If the applicant disagrees with OER's comments, the applicant shall have the opportunity to respond.
+k. If the applicant disagrees with OER's comments, the applicant will have the opportunity to respond.
 
-i. Upon receipt and review of all required submissions, OER will issue a determination within thirty (30) days.
+l. Upon receipt and review of all required submissions, OER will issue a determination within thirty (30) days.
+
+
 
 
 

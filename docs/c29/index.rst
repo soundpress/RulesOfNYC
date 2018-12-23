@@ -14,29 +14,6 @@ New York City Law Department adjudications regarding the fitness and discipline 
 
 
 
-Chapter 2: Escrow Agreements
---------------------------------------------------
-
-
-
-*§ 2-01 Escrow Agreements Entered into with the New York City Law Department.* ::
-
-
-(a) The Corporation Counsel, or a named representative, when acting as escrow agent for agreements entered into with the New York City Law Department, will deposit any money received pursuant to such escrow agreement into an Attorney Trust Account maintained by the Law Department.
-
-(b) When the Corporation Counsel, or a named representative, receives -documentation that the conditions set forth in the escrow agreement have been met, the monies in the escrow account will be paid to the party fulfilling the conditions along with any interest that has accrued but less the escrow agent's fee.
-
-(c) The escrow agent's fee shall be 2 percent per annum on the escrow principal deposit prorated monthly; provided, however, that the minimum monthly fee shall be $5.00 and the maximum monthly fee shall be $25.00, and provided further that there is no fee on escrow deposits of $750.00 or less except when multiple disbursements are requested. Multiple disbursements on a single escrow deposit will be subject to a $25.00 fee per disbursements.
-
-(d) If the conditions set forth in the agreement are not satisfied by the date specified in such agreement, the monies in the account, less the escrow agent's fee, shall be paid with interest to the party specified in such agreement.
-
-(e) Where the monies have been escrowed to have properties repaired or for similar purposes, if the conditions specified in the agreement are not met by the date set forth in such agreement, the escrow fund shall become the property of the City of New York and the escrow agent shall be authorized to transfer the fund, less the escrow agent's fee, to the General Fund of the City of New York after giving the depositor thirty days notice. However, if the depositor has already expended sums in partial compliance with the conditions set forth in the agreement, he or she may issue a request to the escrow agent for reimbursement from the escrow fund, without interest, before the balance of the fund is transferred to the City of New York General Fund. Such request must be in writing accompanied by an accounting and appropriate documentation. The escrow agent may pay the requested amount to the depositor if reimbursement appears appropriate under the circumstances. If the depositor and escrow agent are unable to agree on disposition of the requested amount within sixty days of the date such request is received, the escrow agent shall resign as escrow agent and deposit the escrow fund into the appropriate court.
-
-(f) In the event of a dispute between the parties with respect to the escrow fund or the underlying transaction, the Corporation Counsel, or a named representative, has the right, at his or her sole discretion, to resign as escrow agent and represent the City of New York in the dispute. Upon his or her resignation as escrow agent, the escrow fund will be transferred either to another escrow agent selected by mutual agreement of all parties or to the appropriate court.
-
-
-
-
 Chapter 3: False Claims
 --------------------------------------------------
 
@@ -86,6 +63,29 @@ Chapter 3: False Claims
 (b) Any person who has submitted a proposed civil complaint shall fully cooperate with DOI and the Law Department from the time such proposed civil complaint was submitted through the resolution of the matter.
 
 (c) Nothing in these rules shall be deemed to supersede or interfere with the authority of the Corporation Counsel, pursuant to the New York City Charter or any other law, with regard to the conduct of litigation or the recommendation for settlement of matters on behalf of the City of New York.
+
+
+
+
+Chapter 2: Escrow Agreements
+--------------------------------------------------
+
+
+
+*§ 2-01 Escrow Agreements Entered into with the New York City Law Department.* ::
+
+
+(a) The Corporation Counsel, or a named representative, when acting as escrow agent for agreements entered into with the New York City Law Department, will deposit any money received pursuant to such escrow agreement into an Attorney Trust Account maintained by the Law Department.
+
+(b) When the Corporation Counsel, or a named representative, receives -documentation that the conditions set forth in the escrow agreement have been met, the monies in the escrow account will be paid to the party fulfilling the conditions along with any interest that has accrued but less the escrow agent's fee.
+
+(c) The escrow agent's fee shall be 2 percent per annum on the escrow principal deposit prorated monthly; provided, however, that the minimum monthly fee shall be $5.00 and the maximum monthly fee shall be $25.00, and provided further that there is no fee on escrow deposits of $750.00 or less except when multiple disbursements are requested. Multiple disbursements on a single escrow deposit will be subject to a $25.00 fee per disbursements.
+
+(d) If the conditions set forth in the agreement are not satisfied by the date specified in such agreement, the monies in the account, less the escrow agent's fee, shall be paid with interest to the party specified in such agreement.
+
+(e) Where the monies have been escrowed to have properties repaired or for similar purposes, if the conditions specified in the agreement are not met by the date set forth in such agreement, the escrow fund shall become the property of the City of New York and the escrow agent shall be authorized to transfer the fund, less the escrow agent's fee, to the General Fund of the City of New York after giving the depositor thirty days notice. However, if the depositor has already expended sums in partial compliance with the conditions set forth in the agreement, he or she may issue a request to the escrow agent for reimbursement from the escrow fund, without interest, before the balance of the fund is transferred to the City of New York General Fund. Such request must be in writing accompanied by an accounting and appropriate documentation. The escrow agent may pay the requested amount to the depositor if reimbursement appears appropriate under the circumstances. If the depositor and escrow agent are unable to agree on disposition of the requested amount within sixty days of the date such request is received, the escrow agent shall resign as escrow agent and deposit the escrow fund into the appropriate court.
+
+(f) In the event of a dispute between the parties with respect to the escrow fund or the underlying transaction, the Corporation Counsel, or a named representative, has the right, at his or her sole discretion, to resign as escrow agent and represent the City of New York in the dispute. Upon his or her resignation as escrow agent, the escrow fund will be transferred either to another escrow agent selected by mutual agreement of all parties or to the appropriate court.
 
 
 

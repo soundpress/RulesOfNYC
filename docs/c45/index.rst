@@ -5155,822 +5155,6 @@ Chapter 9: Energy Services [Repealed]
 
 
 
-Chapter 10: Division of Labor Services
---------------------------------------------------
-
-
-
-
-**Subchapter A: Promotion of Equal Employment Opportunity In Contracts Awarded By the City of New York**
-
-
-
-*§ 10-01 Applicability.* ::
-
-
-These regulations apply to all contracts let by the City, as provided herein.
-
-
-
-
-
-
-*§ 10-02 Definitions.* ::
-
-
-Whenever used in these regulations, the following terms shall have the following meanings:
-
-Age discrimination. "Age discrimination" means discrimination in employment related decisions because an individual is between the ages of 18 and 70.
-
-Agency head. "Agency head" means the Commissioner, Chair or Director of any contracting agency.
-
-Applicant. "Applicant" means an applicant for or recipient of City assistance for a construction project or other participant in a program related to City assistance for a construction project.
-
-Citizenship status. "Citizenship status" means the citizenship of any person, or the immigration status of any person lawfully residing in the United States who is not a citizen or national of the United States.
-
-City. "City" means the City of New York.
-
-City assistance. "City assistance" means any financial assistance involving a construction project in the form of a grant, loan, contract, insurance or guarantee, or any other arrangement by which the City provides or otherwise makes available assistance in the form of:
-
-   (1) funds;
-
-   (2) services of city personnel;
-
-   (3) tax exemptions and tax abatements; or
-
-   (4) real or personal property or any interest in the use of such property, including:
-
-      (i) transfers or leases of such property for less than fair market value or for a reduced consideration; and
-
-      (ii) proceeds from a subsequent transfer or lease of such property if the City's share of its fair market value is not returned to the City.
-
-Client Services. "Client Services" shall have the meaning set forth in the Procurement Policy Board Rules of the City of New York (9 RCNY § 1-01(e)).
-
-Compliance. "Compliance" means a contractor having acted in accordance with the requirements of E.O. 50 (§ 10-14) and these regulations.
-
-Commissioner. "Commissioner" means the Commissioner of the Department of Business Services.
-
-Construction project. "Construction project" means any construction, reconstruction, rehabilitation, alteration, conversion, extension, improvement, repair or demolition of real property contracted by the City, except contracts for architectural, engineering or drafting services.
-
-Contract. "Contract" means any written agreement, purchase order or instrument in which the City is committed to expend or does expend funds in return for work, labor, services, supplies, equipment, materials, or any combination of the foregoing:
-
-   (1) Unless otherwise required by law, the term "contract" shall include any City grant, loan, guarantee or other City assistance for a construction project.*
-
-   (2) The term "contract" shall not include:
-
-      (i) contracts for financial or other assistance between the City and a government or government agency;
-
-      (ii) contracts, resolutions, indentures, declarations of trust, or other instruments authorizing or relating to the authorization, issuance, award, and sale of bonds, certificates of indebtedness, notes, or other fiscal obligations of the City, or consisting thereof; or
-
-      (iii) employment by the City of its officers and employees which is subject to the equal employment opportunity requirements of applicable law.
-
-Contracting agency. "Contracting agency" means any administration, board, bureau, commission, department, or other governmental agency of the City, or any official thereof, authorized on behalf of the City to provide for, enter into, award, or administer contracts.
-
-Contractor. "Contractor" means a person, including a vendor or applicant, who is a party or a proposed party to a contract with a contracting agency, first-level subcontractors of supply and service contractors, and all levels of subcontractors of construction contractors and applicants.
-
-Director. "Director" means the Director of the Office.
-
-Division. "Division" means the Division of Labor Services.
-
-Economically disadvantaged person. "Economically disadvantaged person" means a person who at the time of application for entrance into a training program is either:
-
-   (1) a resident of a single person household who receives
-
-      (i) wages not in excess of 70 percent of the lower-level "urban family budget" for the City as determined by the U.S. Department of Labor, Bureau of Labor Statistics, or
-
-      (ii) receives cash welfare payments under a Federal, State, or local welfare program; or
-
-   (2) a member of a family which
-
-      (i) receives a family income less than 70 percent of the lower-level "urban family budget" for the City as determined by the U.S. Department of Labor, Bureau of Labor Statistics, or
-
-      (ii) receives cash welfare payments under a Federal, State, or local welfare program; or
-
-   (3) a Vietnam-era veteran as defined by applicable Federal law who has been unable to obtain non-government subsidized employment since discharge from the armed services; or
-
-   (4) a displaced homemaker who has not been in the labor force for 5 years but has during those years worked in the home providing unpaid services for family members and was
-
-      (i) dependent on public assistance or the income of another family member but is no longer supported by that income, or
-
-      (ii) receiving public assistance for dependent children in the home and that assistance will soon be terminated.
-
-Employment report. "Employment report" means a report filed by a contractor containing information concerning its workforce composition, employment and salary practices, policies, programs, collective bargaining agreements, and pending lawsuits or consent decrees or court orders. The contractor may at its option submit as part of its employment report self-evaluation and transition plans written pursuant to § 504 of the Rehabilitation Act of 1973 or its affirmative action plan in lieu of those sections of the employment report which request information contained in said plan.
-
-Employment update report. "Employment update report" means a periodic report required to be filed by a contractor when the Office identifies underutilization in a job group or employment policies and practices which mitigate against equal employment opportunity.
-
-Equal employment opportunity. "Equal employment opportunity" means the treatment of all employees and applicants for employment without unlawful discrimination as to race, creed, color, national origin, sex, age, handicap, marital status, sexual orientation or citizenship status in all employment decisions, including but not limited to recruitment, hiring, compensation, training and apprenticeship, promotion, upgrading, demotion, downgrading, transfer, lay-off and termination, and all other terms and conditions of employment except as provided by law.
-
-Handicapped individual. "Handicapped individual" means any person who has or had a physical or mental impairment that substantially limits one or more major life activities, and has a record of such an impairment.
-
-   (1) The term "physical or mental impairment" means a physiological disorder or condition, cosmetic disfigurement, or anatomical loss affecting one or more of the following body systems: neurological; musculoskeletal; special sense organs; respiratory, including speech organs; cardiovascular; reproductive; digestive; genito-urinary; hemic and lymphatic; skin, and endocrine; or a mental or psychological disorder, such as mental retardation, developmental disability, organic brain syndrome, emotional or mental illness and specific learning disabilities. It includes, but is not limited to, such diseases and conditions as orthopedic, visual speech and hearing impairments, cerebral palsy, epilepsy, muscular dystrophy, multiple sclerosis, cancer, heart disease, diabetes, alcoholism, substance abuse, and drug addiction.
-
-   (2) The term "major life activities" means functions such as caring for one's self, performing manual tasks, walking, seeing, hearing, speaking, breathing, learning and working.
-
-   (3) The term "has a record of such an impairment" means has a history of, or has been classified as having, a mental or physical impairment that substantially limits one or more major life activities.
-
-   (4) The term "otherwise qualified" means a handicapped person, who, with reasonable accommodation can satisfy the essential requisites of the job or benefit in question, and in the case of alcoholism, substance abuse and drug addiction, is recovering and currently free of abuse of same.
-
-   (5) The term "reasonable accommodation" means such accommodation to an employee's or prospective employee's physical or mental impairment as shall not cause undue hardship in the conduct of the contractor's business. The contractor shall have the burden of demonstrating such hardship.
-
-Job group(s). "Job group(s)" means a group of jobs having similar content, wage rates, and opportunities;
-
-Minorities. "Minorities" means Blacks, Hispanics (non-European), Asians, and Native Americans (American Indians, Eskimos, Aleuts);
-
-Noncompliance. "Noncompliance" means a contractor having failed to act in accordance with E.O. 50 (§ 10-14) and these regulations;
-
-Person. "Person" means any natural person, corporation, partnership, sole proprietorship, or unincorporated agency;
-
-Prime contractor. "Prime contractor" means any person who is a party or proposed party to a contract with a contracting agency;
-
-Subcontractor. "Subcontractor" means any person having an agreement or arrangement or proposed agreement or arrangement with a contractor in which any portion of the contractor's duty to perform work is undertaken or assumed by such person; provided that a supplier of unfinished products to a supply and service contractor needed to produce the item contracted for shall not be considered a subcontractor;
-
-Trainee. "Trainee" means an economically disadvantaged person who qualifies for and receives training in one of the construction trades pursuant to a program, other than an apprenticeship program, approved by the Division and, where required by law, the New York State Department of Labor and the United States Department of Labor, Office of Apprenticeship and Training;
-
-Underutilization. "Underutilization" means a statistically significant disparity between the employment of members of a racial, ethnic, or sexual group and their availability as determined by the Office's utilization analysis.
-
-
-
-
-
-
-*§ 10-03 Covered Contracts.* ::
-
-
-(a) General. 
-
-   (1) All contractors doing business with the City without regard to the dollar amount or source of funding of the contract must be equal employment opportunity employers.
-
-   (2) Contractors whose contracts are funded in whole or in part by federal or state funds must also meet the standards and applicable legal requirements of the funding source. To the extent that federal or state requirements are different from the requirements of E.O. 50 (§ 10-14) and these regulations, the requirements of E.O. 50 (§ 10-14) and these regulations shall apply, except in those circumstances where application of the City's requirements would make it impossible for the contractor to meet the program requirements of the funding source.
-
-(b) Submission requirements. 
-
-   (1) Except as provided herein, no contracting agency shall enter into a contract with any contractor unless such contractor's Employment Report is first submitted to the Division for its review.
-
-      (i) Before the contract may be awarded, each proposed supply and service contractor for a contract in excess of the small purchase limit established by rule of the Procurement Policy Board for procurement for goods and services who employs 50 or more employees is required to submit to the Division an Employment Report for the facility or establishment where the contract will be performed and where the Division deems necessary for a full review, the principle place of business or corporate headquarters;
-
-      (ii) Before the contract may be awarded, each proposed construction contractor for a contract in excess of $1 million is required to submit to the Division an Employment Report for its principal place of business or headquarters, the construction site where the contract will be performed and other non-City funded construction sites of the contractor within the City;
-
-      (iii) A contracting agency may award a requirements contract or an open market purchase agreement covered by these regulations prior to review by the Division of the contractor's Employment Report but may not make a purchase order against such contract or agreement until it has first transmitted such contractor's Employment Report to the Division and the Division has completed its review.
-
-   (2) Unless otherwise provided by federal or state law, an Employment Report shall not be required for
-
-      (i) a construction contract in the amount of $1 million or less or construction subcontract in the amount of $750,000 or less; or
-
-      (ii) a supply and service contract or subcontract in the amount of the small purchase limit established by rule of the Procurement Policy Board for procurement for goods and services or less or where the contractor employs less than 50 employees. In such cases the contracting agency shall promptly notify the Office in writing prior to the award of such a contract. To determine the applicability of this paragraph (2) to a City-assisted construction contract, the amount or value of the City assistance shall govern; or
-
-      (iii) an emergency contract or other exempt contract except as the Division may direct by regulation; or
-
-      (iv) a contract with a contractor who has received a certificate of compliance with the equal employment opportunity requirements of applicable law from the Division within the preceding thirty-six months, or an appropriate agency of the State of New York or of the United States within the preceding thirty-six months, except as the Division may direct by regulation; or
-
-      (v) a contract for a procurement of information technology that is within the small purchase limits established by rule of the Procurement Policy Board.
-
-      (vi) a contract for Client Services, as defined above; except that nothing in this section shall prevent the Commissioner in the Commissioner's sole discretion from requiring an employment report from a Client Services agency that has contracted with the City if the Commissioner believes that the Client Services agency is in violation of the equal employment requirements of City, State or Federal law.
-
-   (3) Unless otherwise provided by law, an Employment Report shall not be required on a preaward basis for an emergency contract awarded pursuant to Executive Order No. 2 (2nd) (1970), as amended, the City Charter § 315 or the General Municipal Law § 103(4). In such cases, the contracting agency shall promptly notify the Office of the award of such a contract by submission of a copy of the documentation submitted to the Law Department. In the event of an emergency not covered under the foregoing provisions, the contracting agency head will notify the Director in writing requesting a waiver of the preaward submission requirements. Said request must contain a statement of reason for such waiver request.
-
-   (4) Unless otherwise required by law, an Employment Report shall not be required for a covered supply and service contract with a contractor who has received a valid certificate of compliance with the equal employment requirement of applicable law as follows: (i) where a contractor has received a Certificate of Equal Employment Compliance issued after a desk audit by an appropriate federal or state agency in the preceding 12 months, the proposed contractor shall complete and submit the general information section of the Employment Report with a copy of such certificate of compliance to the Division;
-
-      (ii) where a contractor has been desk audited by an appropriate government agency and found to have deficiencies with respect to equal employment compliance and has agreed, within the preceding 12 months, to correct these deficiencies, the contractor may submit the general information section of the Employment Report with documentation regarding the finding of deficiencies and corrective measures taken. The Division may thereafter, in its discretion, require the submission of all reports concerning implementation of corrective measures or a completed Employment Report; and
-
-      (iii) where a contractor has been reviewed by the Division and issued a certificate of compliance in the preceding 12 months, the contractor shall complete and submit the general information section of the Employment Report with a copy of such certificate of compliance to the Division.
-
-   (5) Unless otherwise required by law, the Division may in its discretion waive the submission of an Employment Report where the contractor is in the process of being desk audited by an appropriate government agency and grant the contractor a conditional approval. Upon completion of the audit, the contractor must advise the Bureau of the results of the audit. The Division may thereafter in its discretion, require the submission of all reports concerning implementation of corrective measures or a completed Employment Report.
-
-   (6) The contractor may at its option submit its existing Affirmative Action Plan ("Plan") in lieu of parts of the Employment Report, provided that the Plan contains essentially the same information as those portions of the Employment Report.
-
-   (7) The contractor may at its option submit copies of its self-evaluation and transition plans written pursuant to § 504 of the Rehabilitation Act of 1973.
-
-   (8) The Director may, on the written request of the contracting agency head, waive the submission requirements of E.O. 50 (§ 10-14) and these regulations where the agency head certifies that:
-
-      (i) the contracting agency has been unable to secure the submission of an employment report after making diligent efforts; and
-
-      (ii) the proposed contractor is the sole provider of a unique service, supply or labor; or
-
-      (iii) because of the unique circumstances of the contract it would not be in the public interest to require submission of an Employment Report prior to the award of the contract.
-
-   (9) Failure to file timely, complete and accurate reports as required by E.O. 50 (§ 10-14) and these regulations constitutes noncompliance with E.O. 50 (§ 10-14) and these regulations. The Director may direct the contracting agency head to impose sanctions authorized by E.O. 50 (§ 10-14) and these regulations in connection with such noncompliance. The Division shall notify the contracting agency in writing of any such failure as soon as practicable.
-
-
-
-
-
-
-*§ 10-04 Responsibilities of Contracting Agencies.* ::
-
-
-(a)  Contract language – all contracts. Each contracting agency shall incorporate into every contract in excess of the small purchase limit established by rule of the Procurement Policy Board to which it becomes a party the following language: "This contract is subject to the requirements of Executive Order No. 50  (§ 10-14) ("E.O. 50") and the Rules and Regulations promulgated thereunder. No contract will be awarded unless and until these requirements have been complied with in their entirety. By signing this contract, the contractor agrees that it:
-
-   (1) will not discriminate unlawfully against any employee or applicant for employment because of race, creed, color, national origin, sex, age, handicap, marital status, sexual orientation or citizenship status with respect to all employment decisions including, but not limited to recruitment, hiring, upgrading, demotion, downgrading, transfer, training, rates of pay or other forms of compensation, layoff, termination, and all other terms and conditions of employment;
-
-   (2) will not discriminate in the selection of subcontractors on the basis of the owner's, partners' or shareholders' race, color, creed, national origin, sex, age, handicap, marital status, sexual orientation or citizenship status;
-
-   (3) will state in all solicitations or advertisements for employees placed by or on behalf of the contractor that all qualified applicants will receive consideration for employment without regard to race, creed, color, national origin, sex, age, handicap, marital status, sexual orientation or citizenship status or is an equal employment opportunity employer;
-
-   (4) will send to each labor organization or representative of workers with which it has a collective bargaining agreement or other contract or memorandum of understanding, written notification of its equal employment opportunity commitments under E.O. 50 (§ 10-14) and the rules and regulations promulgated thereunder;
-
-   (5) will furnish before the contract is awarded all information and reports including an Employment Report which are required by E.O. 50 (§ 10-14) the rules and regulations promulgated thereunder, and orders of the Director of the Office of Labor Services ("Division"). Copies of all required reports are available upon request from the contracting agency; and
-
-   (6) will permit the Division to have access to all relevant books, records and accounts by the Division for the purposes of investigation to ascertain compliance with such rules, regulations, and orders. The contractor understands that in the event of its noncompliance with the nondiscrimination clauses of this contract or with any of such rules, regulations, or orders, such noncompliance shall constitute a material breach of the contract and noncompliance with E.O. 50 (§ 10-14) and the rules and regulations promulgated thereunder. After a hearing held pursuant to the rules of the Division, the Director may direct the imposition by the contracting agency head of any or all of the following sanctions:
-
-      (i) disapproval of the contractor;
-
-      (ii) suspension or termination of the contract;
-
-      (iii) declaring the contractor in default; or
-
-      (iv) in lieu of any of the foregoing sanctions, the Director may impose an employment program. The Director of the Division may recommend to the contracting agency head that a contractor who has repeatedly failed to comply with E.O. 50 (§ 10-14) and the rules and regulations promulgated thereunder be determined to be nonresponsible. The contractor agrees to include the provisions of the foregoing paragraphs in every subcontract or purchase order in excess of the small purchase limit established by rule of the Procurement Policy Board to which it becomes a party unless exempted by E.O. 50 (§ 10-14) and the rules and regulations promulgated thereunder, so that such provisions will be binding upon each subcontractor or vendor. The contractor will take such action with respect to any subcontract or purchase order as may be directed by the Director of the Division of Labor Services as a means of enforcing such provisions including sanctions for noncompliance. The contractor further agrees that it will refrain from entering into any contract or contract modification subject to E.O. 50 (§ 10-14) and the rules and regulations promulgated thereunder with a subcontractor who is not in compliance with the requirements of E.O. 50 (§ 10-14) and the rules and regulations promulgated thereunder."
-
-(b) Special provisions for construction contracts. In addition to the contractual provisions required in § l0-04(a), each contracting agency shall incorporate into every contract for a construction project in excess of $125,000 to which it becomes a party the following language: "The contractor further agrees that it shall employ trainees for training level jobs and it shall participate in on-the-job training programs other than apprenticeship programs which are approved by the Division and where required by law, the U.S. Department of Labor, Bureau of Apprenticeship Training or the New York State Department of Labor. The contractor shall make a good faith effort to achieve the ratio of one (1) trainee to four (4) journey-level employees of each trade on each construction project; provided, that the trainee requirement shall not apply to contracts in the amount of $125,000 or less. "Trainee" means an economically disadvantaged person who qualifies for and receives training in one of the construction trades pursuant to a program, other than an apprenticeship program, approved by the Division and, where required by law, the New York State Department of Labor and the United States Department of Labor, Bureau of Apprenticeship and Training. The contractor shall be considered to employ 4 journey-level employees in a particular trade when he or she employs any number of journey-level employees in that craft whose aggregate work hours equal the number of hours 4 full-time journey-level employees would have worked in a work week as defined by the prevailing practice in the industry for the particular craft, i.e., 40 hours, 37 1/2 hours, 35 hours, etc. For example, in a craft where there is a forty-hour work week, the employment of 4 journey-level employees results in 160 hours of employment (4 × 40). Hence, any number of journey-level employees which results in 160 hours of work is considered for purposes of the training program to equal 4 journey-level employees, i.e., 3 journey-level employees who work 53 1/3 hours (3 × 53 1/3 = 160). The training requirement shall not apply to any trade in which the employment of four or more journey-level employees and the trainee shall be for less than 4 consecutive weeks; provided, that 4 weeks shall mean 4 weeks of full-time work as defined by the prevailing practice in the industry for the particular craft, i.e., 160 hours (4 weeks × 40 hours), 150 hours (4 weeks × 37 1/2 hours), 140 hours (4 weeks × 35 hours), etc. The contractor shall attempt to provide continuous employment for trainees after the completion of the contract to enable them to complete their course of training. Union contractors shall refer, recommend and sponsor for union membership any of their trainees who can perform the duties of a qualified journey-level employee or who have satisfactorily completed the training program. Such former trainee shall be paid full journey-level wages and fringe benefits, whether or not union membership is granted after such referral, recommendation or sponsorship, and the contractor shall attempt to continue the employment of such persons. In the event of a failure to provide training to the required number of trainees for the required number of weeks, the contractor's compensation shall be decreased by an amount equal to the difference between the wages and fringe benefits paid by the contractor to the trainees and the wages and fringe benefits which would have been paid to the trainees had the number and duration of the positions been as required unless the contractor can demonstrate that it made a good faith effort to provide training and was unsuccessful. The wages and fringes deducted will be whatever a first term trainee would have received under the prevailing wage schedule in effect at the time the trainees should have been employed. A good faith effort includes at least:
-
-      (i) documented efforts to secure trainees from approved training programs; and
-
-      (ii) documented outreach efforts to New York State Employment Service, Department of Employment, TAP Centers, community and civil rights groups to identify candidates for training positions and sponsorship of those persons by the contractor for entrance into an approved training program; and
-
-      (iii) written notification to the Division that the contractor has been unable to secure trainees pursuant to paragraphs (1) and (2) above and requesting the Division's assistance in securing trainees; provided, that neither the provisions of any collective bargaining agreement nor the refusal by a union with whom the contractor has a collective bargaining agreement to recognize the validity of the training program shall excuse the contractor's obligation to provide training pursuant to E.O. 50 (§ 10-14) and these reg- ulations. To demonstrate its good faith effort, the contractor may at its option supply documentation concerning its employment of trainees on all its construction sites, both City and non-City funded. The Division will review this documentation as part of its analysis to determine whether the contractor made a good faith effort. The contractor will also include the training provisions of this section in every subcontract in excess of $125,000 to which it becomes a party unless exempted by E.O. 50 (§ 10-14) and the rules and regulations promulgated thereunder so that such provisions will be binding upon each subcontractor. The contractor will take such action with respect to any subcontract as the Division may direct as a means of enforcing such provisions, including sanctions for noncompliance. The contractor further agrees that it will assist and cooperate with the Division in obtaining the compliance of subcontractors with the requirements of E.O. 50 (§ 10-14) and the rules and regulations promulgated thereunder, and it will furnish the Division with information necessary for supervision of such compliance."
-
-(c) Special provisions for city-assisted contracts. [Reserved.]
-
-(d) Preaward compliance generally. 
-
-   (1) No contracting agency shall enter into a construction contract in excess of $1 million, or a supply and service contract in excess of the small purchase limit established by rule of the Procurement Policy Board for procurement for goods and services when the contractor employs 50 or more employees, unless the contractor's Employment Report is first submitted to the Division for its review and approval.
-
-   (2) The contracting agency, at the time a proposed covered contractor is identified, either through low bid or negotiation, shall notify the Division in writing of the name of the proposed contractor, the contract in question and dollar amount.
-
-   (3) The contracting agency shall transmit a completed Employment Report to the Division within ten business days after the identification of a proposed covered contractor.
-
-   (4) The contracting agency may thereafter award a contract, unless the Division gives prior written notice to the contracting agency and the contractor as follows:
-
-      (i) If the Division notifies the contracting agency and the contractor within five business days after the receipt by the Division of the Employment Report that the contractor has failed to submit a complete report, the Director may require the contracting agency to disapprove the contractor unless such deficiency is corrected in a timely manner; and
-
-      (ii) If the Division notifies the contracting agency and the contractor within fifteen business days of the receipt by the Division of the completed Employment Report that the Division's analysis of the contractor's workforce indicates underutilization and therefore the Division has reason to believe that the contractor is not in substantial compliance with applicable legal requirements and the provisions of E.O. 50 (§ 10-14) and these regulations, the Division shall promptly take such action as may be necessary to remedy the contractor's noncompliance. These time limits shall apply to the review of all Employment Reports submitted by subcontractors or contractors who are a party to a requirements contract or an open market purchase agreement.
-
-      (iii) The time limits for this subdivision (d) begin to run on the business day following receipt of the Employment Report.
-
-   (5) The contracting agency shall notify the Division in writing of the award of a covered contract.
-
-   (6) With respect to covered supply and service contracts, the contracting agency shall also:
-
-      (i) notify the Division upon the submission of the prime contractor's Employment Report of any subcontracts in excess of the small purchase limit established by rule of the Procurement Policy Board for procurements for goods and services where the subcontractor employs 50 or more employees; and
-
-      (ii) transmit the subcontractor's completed Employment Report to the Division for review and approval.
-
-   (7) With respect to covered construction contracts, the contracting agency shall in addition:
-
-      (i) notify the Division in writing of its commencement to work order;
-
-      (ii) notify the Division in writing of the contractor's application for approval of subcontractors and transmit to the Division the subcontractors' completed Employment Reports for review and approval before allowing the contractor to subcontract any work; and
-
-      (iii) notify the Division in writing when the contract is 98 percent complete.
-
-
-
-
-
-
-*§ 10-05 Responsibilities of the Division of Labor Services.* ::
-
-
-(a) Division review – generally.
-
-   (1) It shall be the responsibility of the Division to implement, monitor compliance with, and enforce E.O. 50 (§ 10-14), these regulations and programs established pursuant to City, State and Federal law requiring contractors to provide equal employment opportunity.
-
-   (2) The Division shall conduct a preaward compliance review to determine whether the contractor maintains nondiscriminatory hiring and employment practices and is taking steps to insure that applicants are employed and that employees are placed, trained, upgraded, promoted, paid, and otherwise treated during employment without regard to race, creed, color, sex, national origin, age, handicap, marital status, sexual orientation or citizenship status.
-
-   (3) The Division's preaward compliance review shall proceed in the following manner:
-
-      (i) The Division shall analyze the contractor's Employment Report, with special attention directed to the composition of the work force and the contractor's employment policies, practices and procedures, including the following: recruitment, outreach, interviewing practices, pre-employment physical exams, employee evaluations, supervisor accountability, EEO training, promotional and transfer practices, training programs, employee counseling, job descriptions, architectural and other barriers, salaries and wage plans, fringe benefits, work environment, changing facilities, and collective bargaining agreements;
-
-      (ii) If the Division deems it appropriate as part of its compliance review, or if the Office finds that the material submitted is incomplete or raises questions concerning the contractor's efforts to meet the requirements of E.O. 50 (§ 10-14) and these regulations, the Division may:
-
-(A) hold a conference with the contractor to gain information necessary to complete the compliance review and, where necessary, to develop an Employment Program; and
-
-(B) perform an on site review of those matters which were not fully or satisfactorily addressed in the Employment Report or at the conference.
-
-      (iii) The Division will take into consideration consent decrees, court and administrative orders and conciliation agreements when analyzing a contractor's compliance with E.O. 50 (§ 10-14) and these regulations. The Division will not impose requirements which are inconsistent with the foregoing.
-
-(b) Division review – supply and services contracts.
-
-   (1) After the Division has completed its preaward compliance review and has determined that a proposed covered contractor is in compliance with the requirements of E.O. 50 (§ 10-14) and these regulations, it shall issue a certificate of compliance which shall be valid for 36 months.
-
-   (2) After the Division has completed its preaward compliance review and has identified underutilization or employment policies and practices which mitigate against equal employment opportunity, it may negotiate an Employment Program or approve the proposed covered contractor with reservations and monitor the compliance of the contractor with E.O. 50 (§ 10-14) and these regulations during the term of the contract. The monitoring shall consist of:
-
-      (i) an analysis of Employment Update Reports which the contractor is required to submit on a periodic basis; and
-
-      (ii) where necessary, conferences and on site reviews.
-
-(c) Division review – construction contracts.
-
-   (1) During the preaward compliance review, the Division shall hold a preaward conference for contracts in excess of $1,000,000. At the conference, the Division will review the contents of the Employment Report in detail with the contractor to insure compliance with applicable Federal, State, and City equal employment opportunity and training requirements. The Division shall, thereafter, issue a certificate of compliance which shall be valid for thirty-six months.
-
-   (2) During the term of the contract, the Division shall monitor the compliance of the contractor with the requirements of E.O. 50 (§ 10-14) and these regulations. The monitoring shall consist of:
-
-      (i) an analysis of the payroll records or other workforce data tables on City and non-City funded sites which the contractor is required to submit on a periodic basis; and
-
-      (ii) field visits to City and non-City funded construction sites of the contractor within the City.
-
-   (3) Upon completion of the contract and prior to final payment, the Division shall complete the audit of the contractor's payroll records and any other information submitted concerning compliance with the training requirements of E.O. 50 (§ 10-14) and these regulations to determine whether the contractor has made a good faith effort to comply with these requirements and whether the contractor's compensation should be reduced for failure to provide the required training. The contractor and the contracting agency shall be given notice if the Division's audit reveals that the contractor failed to provide training for the required number of trainees for the required number of weeks, or that the contractor has acted to circumvent the training requirements. In such case, unless the contractor can demonstrate that it made a good faith effort to provide the training, the contractor's compensation will be reduced. The Division shall evaluate all information submitted by the contractor concerning its good faith effort and consult with the contracting agency before a decision is made as to whether a training violation has occurred. The Division shall notify the contractor and contracting agency of its determination.
-
-(d) [Reserved.]
-
-
-
-
-
-
-*§ 10-06 Criteria for Compliance – Generally.* ::
-
-
-The Division shall determine the contractor's compliance status after analysis of the composition of its work force and its employment policies and practices using the criteria enumerated in this section. In the event the analysis reveals that the contractor has not met the requirements of E.O. 50 (§ 10-14) and these regulations, the Division may with the contractor develop an Employment Program to correct any underutilization or employment policies and practices which mitigate against equal employment-opportunity. The Employment Program shall consist of mandated actions based upon the criteria set forth in this section.
-
-(a) Equal employment opportunity policy statement.
-
-   (1) All covered contractors must have a written equal employment opportunity policy which indicates the chief executive Divisionr's commitment to equal employment opportunity, assigns overall responsibility for implementation and provides for a reporting and monitoring procedure.
-
-   (2) The contractor shall disseminate its equal employment opportunity policy internally as follows:
-
-      (i) Include the policy in employee and supervisor manuals;
-
-      (ii) Publicize the policy and company achievements in equal employment in company newspapers, magazines, annual reports, and other company publications;
-
-      (iii) Discuss and explain the policy in training sessions and other meetings with employees, executive, management, and supervisory personnel, indicating individual responsibility for effective implementation;
-
-      (iv) Meet with union officials to inform them of the policy, review all contractual provisions to insure they are nondiscriminatory, and bargain with respect to the inclusion of nondiscrimination clauses in all union agreements; and
-
-      (v) Post the policy on company bulletin boards.
-
-   (3) The contractor shall disseminate its equal employment opportunity policy externally as follows:
-
-      (i) Inform all recruiting sources verbally and in writing of company policy, stipulating that these sources actively recruit and refer members of all protected groups for all positions;
-
-      (ii) Incorporate the equal employment opportunity policy into all purchase orders, contracts, etc., covered by E.O. 50 (§ 10-14) and these regulations; and
-
-      (iii) Communicate the policy in all solicitations or advertisements for employees placed by or on behalf of the contractor.
-
-   (4) An executive of the contractor shall be appointed as director or manager of company equal employment programs with sufficient resources to carry out the responsibility. His or her identity should appear on all internal and external communications on the company's equal employment policy and programs. His or her responsibilities should include:
-
-      (i) Developing policy statements, equal employment programs, internal and external communication techniques and programs;
-
-      (ii) Assisting in the identification of problem areas;
-
-      (iii) Assisting line management in arriving at solutions to problems;
-
-      (iv) Designing and implementing audit and reporting systems that will
-
-(A) Measure effectiveness of the contractor's policy and implementing programs including supervisors' and management's adherence to the equal employment opportunity policy;
-
-(B) Indicate need for remedial action;
-
-(C) Determine the degree to which the contractor's equal employment objectives have been met;
-
-      (v) Serve as liaison between the contractor and enforcement agencies;
-
-      (vi) Serve as liaison between the contractor and minority organizations, women's organizations, advocate organizations for other protected groups and community action groups concerned with equal employment opportunity.
-
-(b) Workforce analysis and identification of problem areas. 
-
-   (1) All covered contractors must complete and submit an Employment Report. The Employment Report must contain specific information concerning the composition of the contractor's current and projected workforce.
-
-   (2) The Division shall analyze the data on minorities and women submitted by the contractor with respect to all job groups. In determining whether minorities or women are being underutilized in any job group, the Division may consider the following factors:
-
-      (i) The minority or female population of the labor area surrounding the facility or the construction site;
-
-      (ii) The size of the minority or female unemployed work force in the labor or recruitment area surrounding the facility or the construction site;
-
-      (iii) The percentage of the minority or female workforce as compared with the total workforce in the immediate labor area;
-
-      (iv) The general availability of minorities or females having requisite skills in the immediate labor area;
-
-      (v) The availability of minorities or women having requisite skills in an area in which the contractor can reasonably recruit;
-
-      (vi) The availability of promotable and transferable minorities or women within the contractor's organization;
-
-      (vii) The existence of training institutions capable of training persons in the requisite skills; and
-
-      (viii) The degree of training which the contractor is reasonably able to undertake as a means of making all job classes available to minorities or females.
-
-   (3) In the event the Division's analysis reveals underutilization of minorities or women it shall:
-
-      (i) request an explanation of the apparent underutilization; and
-
-      (ii) consider the anticipated expansion, contraction and turnover in the workforce before developing with the contractor an Employment Program or determining if it has reasonable cause to believe that the contractor is not in compliance with E.O. 50 (§ 10-14) and these regulations.
-
-   (4) The statistical criteria for evaluating the composition of the contractor's workforce will be the following:
-
-      (i) the term "underutilization" means a statistically significant disparity between the employment of members of a racial, ethnic, or sexual group and their availability as determined by the Division's utilization analysis; and
-
-      (ii) the term "utilization analysis" will mean an analysis of the contractor's workforce using standard statistical techniques to test a null hypothesis that utilization of a given protected group is within acceptable limits, given its availability. For the purpose of these regulations, the null hypothesis will be rejected (i.e., underutilization will be assumed) whenever there is reason to believe that the utilization rate is below the availability rate at the 80 percent level of significance.
-
-(c) Analysis of policies and practices – identification of problem areas. The Division shall analyze the following policies, practices and procedures of the contractor to insure that individuals are not discriminated against on the basis of their race, creed, color, national origin, sex, age, handicap, marital status, sexual orientation or citizenship status:
-
-   (1) The composition of applicant flow;
-
-   (2) The total selection process including position descriptions, position titles, worker specifications, application forms, interview procedures, pre-employment physical exams, inquiries with respect to disabilities, test administration, test validity, referral procedures, final selection process and similar factors;
-
-   (3) Transfer and promotion practices;
-
-   (4) Wage rates, salaries, fringe benefits and other forms of compensation;
-
-   (5) Facilities including architectural and other barriers to the employment of handicapped persons, company sponsored recreation and social events, and special programs such as educational assistance;
-
-   (6) Seniority practices and seniority provisions of union contracts;
-
-   (7) Apprenticeship programs;
-
-   (8) All company training programs, formal and informal;
-
-   (9) Working atmosphere; and
-
-   (10) Technical phases of compliance, such as notification to labor unions, retention of applications, notification to subcontractors, etc.
-
-(d) Special provisions concerning compliance. 
-
-   (1) A contractor shall not be in violation of E.O. 50 (§ 10-14) and these regulations if the contractor hires, employs, trains employees or otherwise discriminates on the basis of employees' creed, sex or national origin in those certain instances where creed, sex or national origin is a bona fide occupational qualification reasonably necessary to the normal operation of the contractor's business. The contractor shall have the burden of demonstrating that it has complied with the requirements of this paragraph.
-
-   (2) A contractor shall not be in violation of E.O. 50 (§ 10-14) and these regulations with respect to age discrimination where it terminates the employment of any person who is physically unable to perform his or her duties or acts pursuant to a retirement policy or system where such policy or system is not merely a subterfuge to evade the purposes of E.O. 50 (§ 10-14) and these regulations. The contractor shall have the burden of demonstrating that it has complied with the requirements of this paragraph.
-
-   (3) Neither the provisions of any collective bargaining agreement, nor the failure by a union with whom the contractor has a collective bargaining agreement, to refer employees without regard to their race, creed, color, national origin, sex, age, handicap, marital status, sexual orientation or citizenship status shall excuse the contractor's obligations under E.O. 50 (§ 10-14) and these regulations.
-
-   (4) A contractor shall not be in violation of E.O. 50 (§ 10-14) and these regulations if it applies different standards of compensation or different terms, conditions or privileges of employment pursuant to a bona fide seniority system.
-
-(e) Establishment of an employment program. If any of the following items are found by the Division in its analysis and the contractor fails to demonstrate that the item does not have a discriminatory effect, an Employment Program may be developed by the Division and the contractor containing special corrective action:
-
-   (1) Underutilization of minorities or women in specific job groups;
-
-   (2) Lateral or vertical movement of minority, female, handicapped or older employees occurring at a proportionately lesser rate than that of other employees;
-
-   (3) Selection procedures which eliminate a significantly higher percentage of minorities, women, handicapped or older employees as compared to other employees;
-
-   (4) Application and related pre-employment forms which do not comply with applicable equal employment standards;
-
-   (5) Disparity in the wages, salaries, fringe benefits and other forms of compensation paid to minorities, women, handicapped or older employees as compared to other employees;
-
-   (6) Position descriptions which are inaccurate in relation to actual functions and duties performed;
-
-   (7) Formal or scored selection procedures not validated as required by applicable equal employment standards;
-
-   (8) Tests not validated as required by applicable equal employment standards;
-
-   (9) Discriminatory rejection of applicants for employment;
-
-   (10) Minorities, women, handicapped, or older employees are excluded from or are not participating in company-sponsored activities or programs;
-
-   (11) De facto segregation exists at some of the contractor's facilities;
-
-   (12) Architectural barriers to the employment and promotion of handicapped persons;
-
-   (13) Seniority provisions which are discriminatory and not bona fide;
-
-   (14) Failure by managers, supervisors or employees to support company EEO policy;
-
-   (15) Minorities, women, handicapped or older employees are significantly underrepresented in training or career improvement programs;
-
-   (16) No formal techniques established for evaluating effectiveness of equal employment opportunity programs;
-
-   (17) No formal techniques established for evaluating supervisor adherence to equal employment opportunity programs;
-
-   (18) Labor unions and subcontractors not notified of their responsibilities; or
-
-   (19) Purchase orders not containing equal employment opportunity clause.
-
-(f) Contents of an employment program. An Employment Program is a unique program developed to meet the needs of each contractor. The following illustrate the types of corrective actions which may be implemented in specific circumstances.
-
-   (1) To encourage the flow of minority, female and handicapped applicants for employment it may be appropriate to direct:
-
-      (i) Outreach to advocate organizations and referral sources for minority, female and handicapped persons;
-
-      (ii) Encouragement of employment referrals by minority, female and handicapped employees;
-
-      (iii) Inclusion of minorities, women and handicapped employees on the personnel relations staff;
-
-      (iv) Participation by minority, female and handicapped employees in career days, job fairs, youth motivation programs, and related activities in their communities;
-
-      (v) Recruitment at vocational schools, secondary schools, junior colleges, and colleges with predominantly minority, female or handicapped enrollments; and
-
-      (vi) Help-wanted advertising in news media directed at minorities, women and handicapped persons in addition to the usual news media utilized.
-
-   (2) To insure that all employees are given equal opportunity for promotion it may be appropriate to direct:
-
-      (i) Posting and publicizing promotional opportunities and providing opportunities for self-nomination;
-
-      (ii) An inventory of current minority, female, handicapped and older employees made to determine academic, skill and experience levels of individual employees and to establish a skills bank;
-
-      (iii) Remedial, job training and work-study programs;
-
-      (iv) Formal employee evaluation programs;
-
-      (v) Requiring supervisory personnel to submit written justification for denying promotions to apparently qualified minority, female, handicapped or older employees;
-
-      (vi) Formal career counseling programs which include attitude development, education aid, job rotation, buddy system and similar programs; and
-
-      (vii) Training programs.
-
-   (3) To insure that qualified handicapped applicants or employees are not excluded from employment or denied promotional opportunities, it may be appropriate to direct a contractor to make reasonable accommodations to the physical or mental limitations of employees and job applicants. The contractor shall have the burden of proving any claim it may make that directions from the Office under this paragraph (3) would impose an undue hardship in the conduct of the employer's business.
-
-   (4) To maintain a discrimination free environment and prevent harassment of employees placed through equal employment efforts it may be appropriate to direct:
-
-      (i) special training programs for supervisors;
-
-      (ii) evaluation of supervisors' equal employment activities in their performance evaluation; and
-
-      (iii) other appropriate measures.
-
-   (5) Contractors should maintain adequate employment data with reference to minority status and sexual status, including progression line charts, seniority rosters, applicant flow data, applicant rejection ratios, referrals, placements, promotions and terminations, indicating minority and sex.
-
-
-
-
-
-
-*§ 10-07 Noncompliance.* ::
-
-
-(a) Division determination – failure to file documents.
-
-   (1) Whenever the Director finds that a covered contractor has failed to file an Employment Report or a complete Employment Report, or has filed an Employment Report with substantial misrepresentations, the Director shall send a notice in writing by certified mail, return receipt requested, to the contractor with a copy to the contracting agency describing:
-
-      (i) the noncompliance;
-
-      (ii) the corrective action necessary to remedy the noncompliance; and
-
-      (iii) a suggested date for a conciliation conference before sanctions will be imposed.
-
-   (2) If the contractor fails to take corrective action by filing a complete Employment Report, the Director may make a determination as to the sanctions to be imposed.
-
-   (3) The contractor shall have a period of seven business days to remedy the noncompliance and pursue conciliation efforts.
-
-      (i) If conciliation is successful, a conciliation agreement shall be signed by the Director and the contractor.
-
-      (ii) If conciliation is unsuccessful, the Director may find the contractor to be in noncompliance and direct sanctions to be imposed.
-
-(b) Division determination – EEO compliance. 
-
-   (1) Whenever the Director has reasonable cause to believe that a contractor is in noncompliance, the Director shall send a notice promptly and in writing by certified mail, return receipt requested, to the contractor with a copy to the contracting agency, describing:
-
-      (i) the noncompliance;
-
-      (ii) the corrective actions necessary to remedy the noncompliance; and
-
-      (iii) a suggested date for a conciliation conference before sanctions will be imposed.
-
-   (2) The contractor shall have seven business days to show cause why it should not be found in noncompliance with E.O. 50 (§ 10-14), and these regulations.
-
-   (3) The Director shall offer the contractor an opportunity to conciliate. The Director shall pursue conciliation efforts for a period of seven business days. At the Director's discretion, the conciliation period may be extended.
-
-      (i) If conciliation is successful, a conciliation agreement shall be signed by the Director and the contractor.
-
-      (ii) If conciliation is unsuccessful, a complaint shall be served on the contractor and a copy shall be served on the contracting agency and filed with the Division of Administrative Trials and Hearings or the hearing officer designated by the Commissioner.
-
-   (4) The hearing shall be held in accordance with the rules of procedure adopted by the Division.
-
-(c) Report and recommendations. 
-
-   (1) After the close of the hearing, the hearing officer shall render a report containing findings of fact, conclusions of law, and recommen- dations.
-
-   (2) Findings of fact shall be based exclusively upon the evidence of record and on matters officially noticed. Findings must be based upon the kind of evidence on which reasonably prudent persons are accustomed to rely in the conduct of their serious affairs; even if such evidence would be inadmissible in a civil trial. The hearing officer's experience, technical competence and specialized knowledge may be utilized in the evaluation of evidence.
-
-   (3) The report and recommendations pursuant to this subdivision (c) shall be rendered in writing within ninety days after the conclusion of the hearing, or within ninety days after submission of proposed findings of fact, conclusions of law or briefs, if submitted pursuant to the Division's rules of hearing procedure, unless this period is waived or extended by the hearing officer with the written consent of all parties, or for good cause shown on notice to all parties.
-
-   (4) The hearing officer shall cause copies of the report and recommendations to be delivered or mailed to the Director, the parties and the contracting agency head.
-
-(d) Exceptions to report and recommendations. Within ten days after receipt of the report and recommendations, any party may submit exceptions to said report or to any recommendation contained therein. These exceptions may be responded to by other parties within seven business days of their receipt by said parties. All exceptions and responses shall be filed with the Director. Service of exceptions and responses shall be made simultaneously on all parties to the proceeding and upon the hearing officer. Requests to the Director for additional time in which to file exceptions and responses shall be in writing and copies shall be served simultaneously on all other parties. Requests for extensions must be received no later than three business days before the exceptions are due.
-
-(e) Record and final determination. After the expiration of the time for filing exception, the Director shall make a final determination on the basis of the record, which shall be the final Administrative Order. The record shall consist of the record of the enforcement proceeding, the rulings, report and recommendations of the hearing officer and the exceptions filed subsequent to the hearing officer's decision. A copy of the determination of the Director shall be provided to the parties, the hearing officer, the contracting agency, the Corporation Counsel and the Comptroller.
-
-(f) Sanctions. 
-
-   (1) The Director shall, based upon the findings of fact and recommendations of the hearing officer and the record as a whole, determine whether the contractor is complying with applicable legal requirements and the provisions of E.O. 50 (§ 10-14) and these regulations.
-
-   (2) If the Director makes a determination of noncompliance, the Director may direct the contracting agency head that the following sanctions be imposed:
-
-      (i) disapproval of a proposed contractor;
-
-      (ii) suspension or termination of a contract;
-
-      (iii) declaring the contractor to be in default; or
-
-      (iv) in lieu of any of the foregoing sanctions, the Director may impose an employment program.
-
-   (3) The Director shall notify the contracting agency head in writing of the determination made and sanctions to be imposed.
-
-      (i) The contracting agency head may file written objection to the sanctions imposed within 5 business days of the issuance of the determination by the Director.
-
-      (ii) The contracting agency head must specify in writing his or her reasons for objecting to the sanctions imposed by the Director.
-
-      (iii) In the event such objections are filed, the Director and the agency head shall jointly determine the sanctions to be imposed.
-
-   (4) The Director of the Division may recommend to the contracting agency head that pursuant to the rules and regulations of the Board of Estimate a board of responsibility be convened for purposes of declaring a contractor who has repeatedly failed to comply with E.O. 50 (§ 10-14) and these regulations to be nonresponsible.
-
-(g) Complaints. 
-
-   (1) Any person who believes a violation of E.O. 50 (§ 10-14) and these regulations has occurred may file a complaint, in writing, signed and dated, with the Office during the term of a contract.
-
-   (2) The complaint shall include the name, address, and telephone number of the complainant, the name and address of the contractor committing the alleged violation of E.O. 50 (§ 10-14) and these regulations, a description of the acts considered to be the violation, and any other pertinent information which will assist in the investigation and resolution of the complaint. The complaint shall be signed by the complainant or his or her authorized representative. Complaints alleging class-type violations which do not identify the alleged discriminatee or discriminatees will be accepted, provided the other requirements of this paragraph are met.
-
-   (3) The Division may refer complaints to the appropriate City, State and Federal agencies for processing rather than processing under E.O. 50 (§ 10-14) and these regulations. Upon referring complaints to another agency, the Division shall promptly notify the complainant and the contractor of such referral.
-
-   (4) A prompt investigation shall be made by the Division.
-
-   (5) The contractor involved shall cooperate fully with any investigation. Failure or refusal to furnish information or to cooperate in the investigation is a violation of E.O. 50 (§ 10-14) and these regulations and may result in the imposition of sanctions.
-
-   (6) Upon completion of the investigation, the complaining party and the contractor involved shall be informed of the results of the investigation in writing. If the Director has reasonable cause to believe that the contractor is in noncompliance with E.O. 50 (§ 10-14) and these regulations, then enforcement proceedings shall be commenced.
-
-   (7) It is a violation of E.O. 50 (§ 10-14) and these regulations for a contractor, subcontractor, or other person to intimidate, threaten, coerce, or discriminate against any individual or business for the purpose of interfering with any right or privilege secured by E.O. 50 (§ 10-14) and these regulations or because a complaint was filed, or a person testified, assisted or participated in any manner in an investigation, proceeding, or hearing under these regulations.
-
-   (8) The identity of the complaining party shall be kept confidential on request only during the conduct of an investigation under these regulations. If such confidentiality hinders the investigation, the complaining party shall be so advised for the purpose of obtaining a waiver of confidentiality. The complaining party shall be further advised that failure to waive confidentiality may result in a determination based upon information already provided.
-
-
-
-
-
-
-*§ 10-08 Referral to Other Agencies on Suspicion of Violations.* ::
-
-
-When it has reason to believe that federal, state or local law has been violated, the Division shall notify the appropriate enforcement agency concerning its findings.
-
-
-
-
-
-
-*§ 10-09 Existing Contracts and Subcontracts.* ::
-
-
-All contracts and subcontracts in effect prior to April 25, 1980 which are not subsequently modified shall be administered in accordance with the equal employment and training provisions of any prior applicable Executive Orders. Any contract or subcontract modified on or after April 25, 1980 shall be subject to E.O. 50 (§ 10-14).
-
-
-
-
-
-
-*§ 10-10 Confidentiality.* ::
-
-
-To the extent permitted by law and consistent with the proper discharge of the Division's responsibilities under E.O. 50 (§ 10-14) and these regulations, all information provided by a contractor to the Division shall be confidential.
-
-
-
-
-
-
-*§ 10-11 Delegation of Authority by the Director.* ::
-
-
-The Director is authorized to delegate the authority given to him or her by these regulations. The authority delegated by the Director pursuant to these regulations shall be exercised under his or her supervision.
-
-
-
-
-
-
-*§ 10-12 Separability.* ::
-
-
-If any provision of these regulations or the application thereof is held invalid, the remainder of these regulations and the application thereof to other persons or circumstances shall not be affected by such holding and shall remain in full force and effect.
-
-
-
-
-
-
-*§ 10-13 Effectiveness and Applicability.* ::
-
-
-The rules contained in this chapter shall become effective 30 days after final publication in the City Record and apply to all contracts, solicitations, invitations for bids, or requests for proposals which were made by the City or an applicant on or after said effective date, and to all negotiated contracts which have not been executed as of said effective date.
-
-
-
-
-
-
-*§ 10-14 Executive Order No. 50. [Repealed]* ::
-
-
- DIVISION OF LABOR SERVICES AND EQUAL EMPLOYMENT OPPORTUNITY COMPLIANCE EXECUTIVE ORDER NO. 50 APRIL 25, 1980 BUREAU OF LABOR SERVICES  By the power vested in me as Mayor of the City of New York, it is hereby ordered:
-
-Section 1. Purpose. It is the purpose of this Order to ensure equal employment opportunity in City Contracting.
-
-§ 2. Bureau Continued. The Bureau of Labor Services shall continue to serve such purposes and to have such responsibilities as restated by this Order.
-
-§ 3. Definitions. Whenever used in this Executive Order, the following terms shall have the following meanings:
-
-(a) Bureau means the Bureau of Labor Services;
-
-(b) client services shall have the meaning set forth in the Procurement Policy Board Rules of the City of New York (9 RCNY § 1-01(e)).
-
-(c) construction project means any construction, reconstruction, rehabilitation, alteration, conversion, extension, improvement, repair or demolition of real property contracted by the City;
-
-(d) contract means any written agreement, purchase order or instrument whereby the City is committed to expend or does expend funds in return for work, labor, services, supplies, equipment, materials, or any combination of the foregoing:
-
-      (i) Unless otherwise required by law, the term "contract" shall include any City grant, loan, guarantee or other City assistance for a construction project.
-
-      (ii) The term "contract" shall not include:
-
-(A) contracts for financial or other assistance between the City and a government or government agency;
-
-(B) contracts, resolutions, indentures, declarations of trust, or other instruments authorizing or relating to the authorization, issuance, award, and sale of bonds, certificates of indebtedness, notes, or other fiscal obligations of the City, or consisting thereof; or
-
-(C) employment by the City of its officers and employees which is subject to the equal employment opportunity requirements of applicable law.
-
-(e) contracting agency means any administration, board, bureau, commission, department, or other governmental agency of the City of New York, or any official thereof, authorized on behalf of the City to provide for, enter into, award, or administer contracts.
-
-(f) contractor means a person, including a vendor, who is a party or a proposed party to a contract with a contracting agency, first-level subcontractors of supply and service contractors, and all levels of subcontractors of construction;
-
-(g) Director means the Director of the Bureau of Labor Services;
-
-(h) economically disadvantaged person means a person who, or a member of a family which, is considered economically disadvantaged under applicable law;
-
-(i) employment report means a report filed by a contractor containing information as to the employment practices, policies, programs, employment statistics and collective bargaining agreements, if any, of the contractor in such form as the Office may direct by regulation;
-
-(j) equal employment opportunity means the treatment of all employees and applicants for employment without unlawful discrimination as to race, creed, color, national origin, sex, age, disability, marital status, sexual orientation or citizenship status in all employment decisions, including but not limited to recruitment, hiring, compensation, training and apprenticeship, promotion, upgrading, demotion, downgrading, transfer, lay-off and termination, and all other terms and conditions of employment
-
-(k) trainee means an economically disadvantaged person who qualifies for and receives training in one of the construction trades pursuant to a program other than apprenticeship programs, approved by the Office and, where required by law, the State Department of Labor and the United States Department of Labor, Office of Apprenticeship and Training;
-
-§ 4. Responsibilities of Bureau. The responsibilities of the Bureau shall be as follows:
-
-(a) To implement, monitor compliance with, and enforce this Order and programs established pursuant to City, State and Federal law requiring contractors to provide equal employment opportunity;
-
-(b) To implement, monitor compliance with, and enforce on-the-job training requirements on construction projects;
-
-(c) To monitor compliance by contractors with State and Federal prevailing wage requirements where required;
-
-(d) To advise and assist contractors and labor unions with respect to their obligations to provide equal employment opportunity;
-
-(e) To advise and assist persons in the private sector with respect to employment problems; (f) To establish advisory committees, including representatives of employers, labor unions, community organizations and others concerned with the enforcement of this Order; and
-
-(g) To serve as the City's principal liaison to Federal, State and local contract compliance agencies.
-
-§ 5. Contract Provisions.
-
-(a) Equal Employment Opportunity. A contracting agency shall include in every contract to which it becomes a party such provisions requiring the contractor to ensure equal employment opportunity as the Bureau may direct, consistent with this Order.
-
-(b) On-the-Job Training. A contracting agency shall include in every contract concerning a construction project to which it becomes a party such provisions requiring the contractor to provide on-the-job training for economically disadvantaged persons as the Bureau may direct by regulation.
-
-(c) Subcontractors. A contracting agency shall include in every contract to which it becomes a party such provisions requiring the contractor not to discriminate unlawfully in the selection of subcontractors as the Bureau may direct by regulation.
-
-§ 6. Employment Reports.
-
-(a) Submission Requirements. No contracting agency shall enter into a contract with any contractor unless such contractor's employment report is first submitted to the Bureau for its review. Unless otherwise required by law, an employment report shall not be required for the following:
-
-      (i) A construction contract in the amount of less than $1 million; a construction subcontract in the amount of less than $750,000; or a supply and service contract in the amount of $50,000 or less or of more than $50,000 in which the contractor employs fewer than 50 employees at the facility or facilities involved in the contract
-
-      (ii) An emergency contract or other exempt contract except as the Bureau may direct by regulation; and
-
-      (iii) A contract with a contractor who has received a certificate of compliance with the equal employment opportunity requirements of applicable law from the Bureau within the preceding thirty-six months, or an appropriate agency of the State of New York or of the United States within the preceding thirty-six months, except as the Bureau may direct by regulation;
-
-(b) Bureau Review. The Bureau shall review all employment reports to determine whether contractors are in compliance with the equal employment opportunity requirements of City, State and Federal law and the provisions of this Order. The contracting agency shall transmit the employment report to the Bureau within ten business days after the selection of a proposed contractor. A contracting agency may thereafter award a contract unless the Bureau gives prior written notice to the contracting agency and the contractor as follows:
-
-      (i) If the Bureau notifies the contracting agency and the contractor within five business days after the receipt by the Bureau of the employment report that the contractor has failed to submit a complete employment report, the Director may require the contracting agency to disapprove the contractor unless such deficiency is corrected in a timely manner;
-
-      (ii) If the Bureau notifies the contracting agency and the contractor within fifteen business days of the receipt by the Bureau of the completed employment report that the Bureau has found reason to believe that the contractor is not in substantial compliance with applicable legal requirements and the provisions of this Order, the Bureau shall promptly take such action as may be necessary to remedy the contractor's noncompliance as provided by this Order.
-
-      Provided that a contracting agency may award a requirements contract or an open market purchase agreement prior to review by the Bureau of the contractor's employment report, but may not make a purchase order against such contract or agreement until it has first transmitted such contractor's employment report to the Bureau and the Bureau has completed its review in the manner provided by this section.
-
-(c) Employment Program. The Bureau may require a contractor to adopt and adhere to a program designed to ensure equal employment opportunity.
-
-(d) Periodic Reports. Contractors shall file periodic employment reports after the award of a contract in such form and frequency as the Bureau may direct by regulation to determine whether such contractors are in compliance with applicable legal requirements and the provisions of this Order.
-
-§ 7. Training programs. The Bureau shall monitor the recruitment, training and placement of economically disadvantaged persons in on-the-job training programs on construction projects. Contracting agencies shall require contractors to make a good faith effort to achieve the ratio of one trainee to four journey-level employees of each craft on each construction project.
-
-(a) The Bureau shall determine the number of trainees and hours of training required by each contractor or subcontractor for each construction project.
-
-(b) In the event that a contractor fails to make a good faith effort to train the required number of individuals for the required amount of hours, the Bureau, after consultation with the contracting agency, shall direct such agency to reduce the contractor's compensation by an amount equal to the amount of wages and fringe benefits which the contractor failed to pay to trainees.
-
-(c) On-the-job training of economically disadvantaged persons shall be required on all construction contracts covered by the submission requirements of this Order
-
-§ 8. Compliance Investigations and Hearings. The Bureau shall conduct such investigations and hold such hearings as may be necessary to determine whether contractors are in compliance with the equal employment opportunity requirements of City, State and Federal law and the provisions of this Order.
-
-(a) Voluntary compliance. The Bureau shall seek to obtain the voluntary compliance of contractors and labor unions with applicable legal requirements and the provisions of this Order.
-
-(b) Noncompliance. Upon receiving a complaint or at its own instance, the Bureau shall determine whether there is reason to believe a contractor is not in compliance with applicable legal requirements and the provisions of this Order.
-
-(c) Hearings. The Bureau shall hold a hearing on prior written notice to a contractor and the contracting agency before any adverse determination is made with respect to such contractor's employment practices or imposing any sanction or remedy for noncompliance with applicable legal requirements and the provisions of this Order. The hearing shall be held before a City hearing officer, or such other person designated by the Director, who shall submit a report containing findings of fact and recommendations to the Director. Based on the record as a whole, the Director shall determine whether a contractor has failed to comply with applicable legal requirements or the provisions of this Order and the appropriate sanctions for noncompliance.
-
-(d) Notices. The Bureau shall give prior notice of any hearing and shall provide a copy of any hearing report and determination of the Director under paragraph (c) of this section to the contracting agency, the Corporation Counsel and the Comptroller. The Bureau shall notify appropriate City, State and Federal agencies of violations of law and may, with the approval of the Corporation Counsel, initiate proceedings in such agencies.
-
-§ 9. Sanctions and Remedies. After making a determination that a contractor is not complying with applicable legal requirements and the provisions of this Order, the Director may direct that such sanctions as may be permitted by law or contractual provisions be imposed, including the disapproval; of a proposed contractor, the suspension or termination of a contract and the reduction of a contractor's compensation, except as follows:
-
-(a) Within five business days of the issuance of a determination by the Director under § 8(c), a contracting agency head may file with the Director written objections to the sanctions to be imposed. Where such objections have been filed, the Director and the contracting agency head shall jointly determine the appropriate sanctions to be imposed.
-
-(b) In lieu of any of the foregoing sanctions, the Director may require a contractor to adopt and adhere to a program to ensure equal employment opportunity.
-
-§ 10. Public Agencies. Any administration, board, bureau, commission, department or other public agency, not subject to this Order, which imposes by rule, regulation or order equal employment opportunity requirements, may, with the consent of the Mayor, delegate such responsibilities to the Bureau as may be consistent with this Order.
-
-§ 11. Confidentiality. To the extent permitted by law and consistent with the proper discharge of the Bureau's responsibilities under this Order, all information provided by a contractor to the Bureau shall be confidential.
-
-§ 12. Regulations. The Bureau shall promulgate such regulations, subject to the approval of the Mayor, as may be necessary to discharge its responsibilities under this Order, including regulations increasing the dollar amounts and number of employees referred to in this Order. Any regulations of the Bureau establishing terms and conditions for contractors shall be approved as to form by the Corporation Counsel. Nothing contained herein shall be construed to bar any religious or denominational institution or organization, or any organization operated for charitable or educational purposes, which is operated, supervised or controlled by or in connection with a religious organization, from limiting employment or giving preference to persons of the same religion or denomination or from making such selection as is calculated by such organization to promote the religious principles for which it is established or maintained. The regulations shall set forth this exemption for religiously-sponsored organizations and provide for the discharge of the Bureau's responsibilities in a manner consistent with such exemption.
-
-§ 13. Annual Report. The Bureau shall submit an annual report to the Mayor concerning its responsibilities under this Order.
-
-§ 14. Separability. If any provision of this Order or the application thereof is held invalid, the remainder of this Order and the application thereof to other persons or circumstances shall not be affected by such holding and shall remain in full force and effect.
-
-§ 15. Revocation of Prior Orders. Executive Orders No. 71 (1968), No. 20 (1970), No. 23 (1970), No. 27 (1970), No. 31 (1971), No. 74 (1973), No. 7 (1974), and No. 80 (1977) are hereby revoked and the first paragraph of Section 2 of Executive Order No. 4 (1978) is hereby deleted. Nothing in this Order shall be deemed to relieve any person of any obligation not inconsistent with this Order assumed or imposed pursuant to an Order superseded by this Order.
-
-§ 16. Effective Date. This Order shall take effect immediately. xp
-
-
-
-
 Chapter 11: Division of Economic and Financial Opportunity
 --------------------------------------------------
 
@@ -8445,17 +7629,17 @@ Master seniority lists qualified employee. "Master seniority lists qualified emp
 
    (2) is certified by the department of education's office of pupil transportation as a school bus driver or attendant, in the event such person is employed as a school bus driver or attendant;
 
-   (3) was a school bus driver, attendant, dispatcher or mechanic on, or eligible for placement on, the master seniority lists as of June 30, 2014, or any date thereafter through June 30, 2017;
+   (3) was a school bus driver, attendant, dispatcher or mechanic on, or eligible for placement on, the master seniority lists as of June 30, 2014, or any date thereafter through June 30, 2018;
 
-   (4) is a school bus driver, attendant, dispatcher or mechanic for a qualified employer in connection with such employer's contract or subcontract pursuant to request for bids number B2321 with the department of education during the 2017-18 school year; and
+   (4) is a school bus driver, attendant, dispatcher or mechanic for a qualified employer in connection with such employer's contract or subcontract pursuant to request for bids number B2321 with the department of education during the 2018-19 school year; and
 
-   (5) is paid by a qualified employer a 2017-18 regular rate that is less than the regular rate dating to the placement on master seniority lists.
+   (5) is paid by a qualified employer a 2018-19 regular rate that is less than the regular rate dating to the placement on master seniority lists.
 
 Mechanic. "Mechanic" means a person employed as a school bus mechanic by any company that currently has or previously had (i) a contract with the department of education or (ii) a sub-contract with any company that currently has or previously had a contract with the department of education to provide transportation services for children in grades kindergarten through twelve.
 
 Provider of transportation services. "Provider of transportation services" means an entity or a subsidiary of such entity that (i) had a contract with the department of education or (ii) had a subcontract with any entity that had a contract with the department of education, to provide transportation services for children in grades kindergarten through twelve which expired on June 30, 2014.
 
-Qualified employer. "Qualified employer" means any entity that has a contract with the department of education or a subcontract with an entity that has a contract with the department of education to provide transportation services for children in grades kindergarten through twelve for the 2017-18 school year pursuant to request for bids number B2321.
+Qualified employer. "Qualified employer" means any entity that has a contract with the department of education or a subcontract with an entity that has a contract with the department of education to provide transportation services for children in grades kindergarten through twelve for the 2018-19 school year pursuant to request for bids number B2321.
 
 Regular rate. "Regular rate" means "regular rate" as defined pursuant to 29 U.S.C. § 207, and further specified in 29 C.F.R. § 778.109, or any succeeding provisions.
 
@@ -8465,9 +7649,9 @@ Recess adjustment payment. "Recess adjustment payment" means any additional comp
 
 School bus driver. "School bus driver" means any person employed as a school bus driver by a company that currently has or previously had (i) a contract with the department of education or (ii) a subcontract with any company that currently has or previously had a contract with the department of education to provide transportation services for children in grades kindergarten through twelve.
 
-Summer accrual. "Summer accrual" means any additional compensation received at or about the completion of the school year based on the years of service of the 2017 qualified employee or of the master seniority lists qualified employee.
+Summer accrual. "Summer accrual" means any additional compensation received at or about the completion of the school year based on the years of service of the 2018 qualified employee or of the master seniority lists qualified employee.
 
-2017 qualified employee. "2017 qualified employee" means any person who:
+2018 qualified employee. "2018 qualified employee" means any person who:
 
    (1) is a resident of the city of New York;
 
@@ -8475,13 +7659,13 @@ Summer accrual. "Summer accrual" means any additional compensation received at o
 
    (3) was a school bus driver, attendant, dispatcher or mechanic employed by a provider of transportation services on June 30, 2014 in connection with such provider's contracts with the department of education;
 
-   (4) is a school bus driver, attendant, dispatcher or mechanic for a qualified employer in connection with such employer's contract or subcontract pursuant to request for bids number B2321 with the department of education during the 2017-18 school year; and
+   (4) is a school bus driver, attendant, dispatcher or mechanic for a qualified employer in connection with such employer's contract or subcontract pursuant to request for bids number B2321 with the department of education during the 2018-19 school year; and
 
-   (5) is paid by a qualified employer a 2017-18 regular rate that is less than the 2013-14 regular rate.
+   (5) is paid by a qualified employer a 2018-19 regular rate that is less than the 2013-14 regular rate.
 
-2013-14 regular rate. "2013-14 regular rate" means the regular rate paid by any provider of transportation services to any 2017 qualified employee during the 2013-14 school year.
+2013-14 regular rate. "2013-14 regular rate" means the regular rate paid by any provider of transportation services to any 2018 qualified employee during the 2013-14 school year.
 
-2017-18 regular rate. "2017-18 regular rate" means the regular rate paid by any qualified employer to any 2017 qualified employee or any master seniority lists qualified employee during the 2017-18 school year. Provided, that, for any 2017 qualified employee or master seniority lists qualified employee covered by a collective bargaining agreement or to whom a best and final offer has been imposed, the regular rate means either the hourly rate pursuant to (i) the collective bargaining agreement in effect at the time payment is due or (ii) the best and final offer of the qualified employer for the 2017-18 school year, whichever is higher.
+2018-19 regular rate. "2018-19 regular rate" means the regular rate paid by any qualified employer to any 2018 qualified employee or any master seniority lists qualified employee during the 2018-19 school year. Provided, that, for any 2018 qualified employee or master seniority lists qualified employee covered by a collective bargaining agreement or to whom a best and final offer has been imposed, the regular rate means either the hourly rate pursuant to (i) the collective bargaining agreement in effect at the time payment is due or (ii) the best and final offer of the qualified employer for the 2018-19 school year, whichever is higher.
 
 
 
@@ -8493,59 +7677,59 @@ Summer accrual. "Summer accrual" means any additional compensation received at o
 *§ 11-88 Calculation of Grants and Eligibility Criteria.* ::
 
 
-(a) The department will provide monetary grants to any qualified employer for each 2017 qualified employee hired by such qualified employer in an amount equal to the sum of:
+(a) The department will provide monetary grants to any qualified employer for each 2018 qualified employee hired by such qualified employer in an amount equal to the sum of:
 
-   (i) the product of: (A) the excess, if any, of the 2013-14 regular rate over the 2017-18 regular rate; and (B) the number of hours for which such 2017 qualified employee was paid, less any hours for which such employee was paid overtime, by such qualified employer in connection with such employer's contracts with the department of education during the 2017-18 school year; and
+   (i) the product of: (A) the excess, if any, of the 2013-14 regular rate over the 2018-19 regular rate; and (B) the number of hours for which such 2018 qualified employee was paid, less any hours for which such employee was paid overtime, by such qualified employer in connection with such employer's contracts with the department of education during the 2018-19 school year; and
 
-   (ii) the product of: (A) the excess, if any, of the 2013-14 regular rate over the 2017-18 regular rate; and (B) one-and-a-half; and (C) the number of overtime hours for which such 2017 qualified employee was paid by such qualified employer in connection with such employer's contracts with the department of education during the 2017-18 school year; and
+   (ii) the product of: (A) the excess, if any, of the 2013-14 regular rate over the 2018-19 regular rate; and (B) one-and-a-half; and (C) the number of overtime hours for which such 2018 qualified employee was paid by such qualified employer in connection with such employer's contracts with the department of education during the 2018-19 school year; and
 
    (iii) such qualified employer's portion of all legally required city, state and federal payroll taxes associated with the amounts described in paragraphs (i) and (ii) of this subdivision; and
 
-   (iv) the costs incurred by such qualified employer to maintain the recess adjustment payment for such 2017 qualified employee in place during the 2013-14 school year, to the extent that, but for the award of this grant, the recess adjustment payment for the 2017-18 school year for such employee would have been lower than the recess adjustment payment in place during the 2013-14 school year, provided, that, for a 2017 qualified employee covered by a collective bargaining agreement or, as to whom a best and final offer has been imposed, the recess adjustment payment for the 2017-18 school year shall be either the recess adjustment payment pursuant to (A) the collective bargaining agreement in effect at the time payment is due or (B) the best and final offer of the qualified employer for the 2017-18 school year, whichever is higher; and
+   (iv) the costs incurred by such qualified employer to maintain the recess adjustment payment for such 2018 qualified employee in place during the 2013-14 school year, to the extent that, but for the award of this grant, the recess adjustment payment for the 2018-19 school year for such employee would have been lower than the recess adjustment payment in place during the 2013-14 school year, provided, that, for a 2018 qualified employee covered by a collective bargaining agreement or, as to whom a best and final offer has been imposed, the recess adjustment payment for the 2018-19 school year shall be either the recess adjustment payment pursuant to (A) the collective bargaining agreement in effect at the time payment is due or (B) the best and final offer of the qualified employer for the 2018-19 school year, whichever is higher; and
 
-   (v) the costs incurred by such qualified employer to maintain the payment for holiday and vacation days for such 2017 qualified employee in place during the 2013-14 school year, to the extent that, but for the award of this grant, the payment for holiday and vacation days for the 2017-18 school year for such employee would have been lower than the payment in place during the 2013-14 school year, provided, that, for a 2017 qualified employee covered by a collective bargaining agreement or, as to whom a best and final offer has been imposed, the payment for holiday and vacation days in place during the 2017-18 school year shall be either the payment for holiday and vacation days pursuant to (A) the collective bargaining agreement in effect at the time payment is due or (B) the best and final offer of the qualified employer for the 2017-18 school year, whichever is higher; and
+   (v) the costs incurred by such qualified employer to maintain the payment for holiday and vacation days for such 2018 qualified employee in place during the 2013-14 school year, to the extent that, but for the award of this grant, the payment for holiday and vacation days for the 2018-19 school year for such employee would have been lower than the payment in place during the 2013-14 school year, provided, that, for a 2018 qualified employee covered by a collective bargaining agreement or, as to whom a best and final offer has been imposed, the payment for holiday and vacation days in place during the 2018-19 school year shall be either the payment for holiday and vacation days pursuant to (A) the collective bargaining agreement in effect at the time payment is due or (B) the best and final offer of the qualified employer for the 2018-19 school year, whichever is higher; and
 
-   (vi) the costs incurred by such qualified employer to maintain the payment for summer accrual for such 2017 qualified employee in place during the 2013-14 school year, to the extent that, but for the award of this grant, the payment for summer accrual for the 2017-18 school year for such employee would have been lower than the payment in place during the 2013-14 school year, provided, that, for a 2017 qualified employee covered by a collective bargaining agreement or, as to whom a best and final offer has been imposed, the payment for summer accrual in place during the 2017-18 school year shall be either the payment for summer accrual pursuant to (A) the collective bargaining agreement in effect at the time payment is due or (B) the best and final offer of the qualified employer for the 2017-18 school year, whichever is higher; and
+   (vi) the costs incurred by such qualified employer to maintain the payment for summer accrual for such 2018 qualified employee in place during the 2013-14 school year, to the extent that, but for the award of this grant, the payment for summer accrual for the 2018-19 school year for such employee would have been lower than the payment in place during the 2013-14 school year, provided, that, for a 2018 qualified employee covered by a collective bargaining agreement or, as to whom a best and final offer has been imposed, the payment for summer accrual in place during the 2018-19 school year shall be either the payment for summer accrual pursuant to (A) the collective bargaining agreement in effect at the time payment is due or (B) the best and final offer of the qualified employer for the 2018-19 school year, whichever is higher; and
 
-   (vii) the costs incurred by such qualified employer to maintain the contributions for the retirement and health benefits of such 2017 qualified employee in place during the 2013-14 school year, to the extent that, but for the award of this grant, the contributions for the 2017-18 school year for such employee would have been lower than those in place during the 2013-14 school year, provided, that, for a 2017 qualified employee covered by a collective bargaining agreement or, as to whom a best and final offer has been imposed, the contributions for the 2017-18 school year shall be either the contributions pursuant to (A) the collective bargaining agreement in effect at the time payment is due or (B) the best and final offer of the qualified employer for the 2017-18 school year, whichever is higher; and
+   (vii) the costs incurred by such qualified employer to maintain the contributions for the retirement and health benefits of such 2018 qualified employee in place during the 2013-14 school year, to the extent that, but for the award of this grant, the contributions for the 2018-19 school year for such employee would have been lower than those in place during the 2013-14 school year, provided, that, for a 2018 qualified employee covered by a collective bargaining agreement or, as to whom a best and final offer has been imposed, the contributions for the 2018-19 school year shall be either the contributions pursuant to (A) the collective bargaining agreement in effect at the time payment is due or (B) the best and final offer of the qualified employer for the 2018-19 school year, whichever is higher; and
 
    (viii) the costs associated with any increase in workers' compensation insurance for such employee associated with the amounts described in paragraphs (i) and (ii) of this subdivision.
 
-(b) Notwithstanding any provision to the contrary in this subchapter, the department will not award a grant for any 2017 qualified employee unless:
+(b) Notwithstanding any provision to the contrary in this subchapter, the department will not award a grant for any 2018 qualified employee unless:
 
-   (i) any such 2017 qualified employee receives retirement and health benefits from the same health and retirement funds from which such employee received such benefits during the 2013-14 school year, provided that such employee is represented by the same employee organization for the 2013-14 and 2017-18 school years;
+   (i) any such 2018 qualified employee receives retirement and health benefits from the same health and retirement funds from which such employee received such benefits during the 2013-14 school year, provided that such employee is represented by the same employee organization for the 2013-14 and 2018-19 school years;
 
-   (ii) thirty-nine weeks of employment during the school year are provided by such qualified employer to such employee, provided that a prorated portion of thirty-nine weeks of employment may be provided by such qualified employer to such employee hired after September 7, 2017; and
+   (ii) thirty-nine weeks of employment during the school year are provided by such qualified employer to such employee, provided that a prorated portion of thirty-nine weeks of employment may be provided by such qualified employer to such employee hired after September 5, 2018; and
 
    (iii) the customary work day of such employee is eight hours, if the work day of such employee was eight hours during the 2013-14 school year.
 
 (c) The department will provide monetary grants to any qualified employer for each master seniority lists qualified employee hired by such qualified employer in an amount equal to the sum of:
 
-   (i) the product of: (A) the excess, if any, of the regular rate during the school year dating to the placement on master seniority lists over the 2017-18 regular rate; and (B) the number of hours for which such master seniority lists qualified employee was paid, less any hours for which such employee was paid overtime, by such qualified employer in connection with such employer's contracts with the department of education during the 2017-18 school year; and
+   (i) the product of: (A) the excess, if any, of the regular rate during the school year dating to the placement on master seniority lists over the 2018-19 regular rate; and (B) the number of hours for which such master seniority lists qualified employee was paid, less any hours for which such employee was paid overtime, by such qualified employer in connection with such employer's contracts with the department of education during the 2018-19 school year; and
 
-   (ii) the product of: (A) the excess, if any, of the regular rate during the school year dating to the placement on master seniority lists over the 2017-18 regular rate; and (B) one-and-a-half; and (C) the number of overtime hours for which such master seniority lists qualified employee was paid by such qualified employer in connection with such employer's contracts with the department of education during the 2017-18 school year; and
+   (ii) the product of: (A) the excess, if any, of the regular rate during the school year dating to the placement on master seniority lists over the 2018-19 regular rate; and (B) one-and-a-half; and (C) the number of overtime hours for which such master seniority lists qualified employee was paid by such qualified employer in connection with such employer's contracts with the department of education during the 2018-19 school year; and
 
    (iii) such qualified employer's portion of all legally required city, state and federal payroll taxes associated with the amounts described in paragraphs (i) and (ii) of this subdivision; and
 
-   (iv) the costs incurred by such qualified employer to maintain the recess adjustment payment for such master seniority lists qualified employee in place during the school year dating to the placement on master seniority lists, to the extent that, but for the award of this grant, the recess adjustment payment for the 2017-18 school year for such employee would have been lower than the payment in place during the school year dating to the placement on master seniority lists, provided, that, for a master seniority lists qualified employee covered by a collective bargaining agreement or, as to whom a best and final offer has been imposed, the recess adjustment payment for the 2017-18 school year shall be either the recess adjustment payment pursuant to (A) the collective bargaining agreement in effect at the time payment is due or (B) the best and final offer of the qualified employer for the 2017-18 school year, whichever is higher; and
+   (iv) the costs incurred by such qualified employer to maintain the recess adjustment payment for such master seniority lists qualified employee in place during the school year dating to the placement on master seniority lists, to the extent that, but for the award of this grant, the recess adjustment payment for the 2018-19 school year for such employee would have been lower than the payment in place during the school year dating to the placement on master seniority lists, provided, that, for a master seniority lists qualified employee covered by a collective bargaining agreement or, as to whom a best and final offer has been imposed, the recess adjustment payment for the 2018-19 school year shall be either the recess adjustment payment pursuant to (A) the collective bargaining agreement in effect at the time payment is due or (B) the best and final offer of the qualified employer for the 2018-19 school year, whichever is higher; and
 
-   (v) the costs incurred by such qualified employer to maintain the payment for holiday and vacation days for such master seniority lists qualified employee in place during the school year dating to the placement on master seniority lists, to the extent that, but for the award of this grant, the payment for holiday and vacation days for the 2017-18 school year for such employee would have been lower than the payment in place during the school year dating to the placement on master seniority lists, provided, that, for a master seniority lists qualified employee covered by a collective bargaining agreement or, as to whom a best and final offer has been imposed, the payment for holiday and vacation days in place for the 2017-18 school year shall be either the payment for holiday and vacation days pursuant to (A) the collective bargaining agreement in effect at the time payment is due or (B) the best and final offer of the qualified employer for the 2017-18 school year, which-ever is higher; and
+   (v) the costs incurred by such qualified employer to maintain the payment for holiday and vacation days for such master seniority lists qualified employee in place during the school year dating to the placement on master seniority lists, to the extent that, but for the award of this grant, the payment for holiday and vacation days for the 2018-19 school year for such employee would have been lower than the payment in place during the school year dating to the placement on master seniority lists, provided, that, for a master seniority lists qualified employee covered by a collective bargaining agreement or, as to whom a best and final offer has been imposed, the payment for holiday and vacation days in place for the 2018-19 school year shall be either the payment for holiday and vacation days pursuant to (A) the collective bargaining agreement in effect at the time payment is due or (B) the best and final offer of the qualified employer for the 2018-19 school year, which-ever is higher; and
 
-   (vi) the costs incurred by such qualified employer to maintain the payment for summer accrual for such master seniority lists qualified employee in place during the school year dating to the placement on master seniority lists, to the extent that, but for the award of this grant, the payment for summer accrual for the 2017-18 school year for such employee would have been lower than the payment in place during the school year dating to the placement on master seniority lists, provided, that, for a master seniority lists qualified employee covered by a collective bargaining agreement or, as to whom a best and final offer has been imposed, the payment for summer accrual in place during the 2017-18 school year shall be either the payment for summer accrual pursuant to (A) the collective bargaining agreement in effect at the time payment is due or (B) the best and final offer of the qualified employer for the 2017-18 school year, whichever is higher; and
+   (vi) the costs incurred by such qualified employer to maintain the payment for summer accrual for such master seniority lists qualified employee in place during the school year dating to the placement on master seniority lists, to the extent that, but for the award of this grant, the payment for summer accrual for the 2018-19 school year for such employee would have been lower than the payment in place during the school year dating to the placement on master seniority lists, provided, that, for a master seniority lists qualified employee covered by a collective bargaining agreement or, as to whom a best and final offer has been imposed, the payment for summer accrual in place during the 2018-19 school year shall be either the payment for summer accrual pursuant to (A) the collective bargaining agreement in effect at the time payment is due or (B) the best and final offer of the qualified employer for the 2018-19 school year, whichever is higher; and
 
-   (vii) the costs incurred by such qualified employer to maintain the contributions for the retirement and health benefits of such master seniority lists qualified employee in place during the school year dating to the placement on master seniority lists, to the extent that, but for the award of this grant, the contributions for the 2017-18 school year for such employee would have been lower than those in place during the school year dating to the placement on master seniority lists, provided, that, for a master seniority lists qualified employee covered by a collective bargaining agreement or, as to whom a best and final offer has been imposed, the contributions for the 2017-18 school year shall be either the contributions pursuant to (A) the collective bargaining agreement in effect at the time payment is due or (B) the best and final offer of the qualified employer for the 2017-18 school year, whichever is higher; and
+   (vii) the costs incurred by such qualified employer to maintain the contributions for the retirement and health benefits of such master seniority lists qualified employee in place during the school year dating to the placement on master seniority lists, to the extent that, but for the award of this grant, the contributions for the 2018-19 school year for such employee would have been lower than those in place during the school year dating to the placement on master seniority lists, provided, that, for a master seniority lists qualified employee covered by a collective bargaining agreement or, as to whom a best and final offer has been imposed, the contributions for the 2018-19 school year shall be either the contributions pursuant to (A) the collective bargaining agreement in effect at the time payment is due or (B) the best and final offer of the qualified employer for the 2018-19 school year, whichever is higher; and
 
    (viii) the costs associated with any increase in workers' compensation insurance for such master seniority lists qualified employee associated with the amounts described in paragraphs (i) and (ii) of this subdivision.
 
 (d) Notwithstanding any provision to the contrary in this subchapter, the department shall not award a grant for a master seniority lists qualified employee unless:
 
-   (i) any such master seniority lists qualified employee receives retirement and health benefits from the same health and retirement funds from which such employee received such benefits for the school year dating to placement on master seniority lists, provided that such employee is represented by the same employee organization as of the school year dating to placement on master seniority lists and the 2017-18 school year;
+   (i) any such master seniority lists qualified employee receives retirement and health benefits from the same health and retirement funds from which such employee received such benefits for the school year dating to placement on master seniority lists, provided that such employee is represented by the same employee organization as of the school year dating to placement on master seniority lists and the 2018-19 school year;
 
-   (ii) thirty-nine weeks of employment during the school year are provided by such qualified employer to such employee, provided that a pro-rated portion of thirty-nine weeks of employment may be provided by such qualified employer to such employee hired after September 7, 2017; and
+   (ii) thirty-nine weeks of employment during the school year are provided by such qualified employer to such employee, provided that a pro-rated portion of thirty-nine weeks of employment may be provided by such qualified employer to such employee hired after September 5, 2018; and
 
    (iii) the customary work day of such employee is eight hours, if the work day of such employee was eight hours as of the last date of employment prior to being placed on master seniority lists.
 
-(e) No qualified employer shall be eligible for an award of a grant pursuant to this section unless such qualified employer agrees that during the 2017-18 school year every school bus driver, attendant, dispatcher and mechanic shall be hired from the master seniority lists in the order of his or her seniority, provided that this requirement shall not apply to hiring by qualified employers for the 2017-18 school year that occurred prior to September 7, 2017.
+(e) No qualified employer shall be eligible for an award of a grant pursuant to this section unless such qualified employer agrees that during the 2018-19 school year every school bus driver, attendant, dispatcher and mechanic shall be hired from the master seniority lists in the order of his or her seniority, provided that this requirement shall not apply to hiring by qualified employers for the 2018-19 school year that occurred prior to September 5, 2018.
 
 
 
@@ -8557,7 +7741,7 @@ Summer accrual. "Summer accrual" means any additional compensation received at o
 *§ 11-89 Notice.* ::
 
 
-Each qualified employer must provide written notice to the department upon the hiring of any 2017 qualified employee or master seniority lists qualified employee for whom the qualified employer seeks a monetary grant.
+Each qualified employer must provide written notice to the department upon the hiring of any 2018 qualified employee or master seniority lists qualified employee for whom the qualified employer seeks a monetary grant.
 
 
 
@@ -8569,11 +7753,11 @@ Each qualified employer must provide written notice to the department upon the h
 *§ 11-90 Payments.* ::
 
 
-(a) The department shall provide the grant authorized by this section to qualified employers in monthly installments over a ten-month period for each 2017 qualified employee or master seniority lists qualified employee who is employed in connection with such qualified employer's contract pursuant to request for bids number B2321 with the department of education. Any such grant to the qualified employer shall be reduced if the employee is employed by such qualified employer for less than ten months.
+(a) The department shall provide the grant authorized by this section to qualified employers in monthly installments over a ten-month period for each 2018 qualified employee or master seniority lists qualified employee who is employed in connection with such qualified employer's contract pursuant to request for bids number B2321 with the department of education. Any such grant to the qualified employer shall be reduced if the employee is employed by such qualified employer for less than ten months.
 
 (b) The department will provide the grant described in 66 RCNY § 11-88 in monthly installments after receiving satisfactory proof from the qualified employer that:
 
-   (i) the qualified employer has paid the 2017 qualified employee or the master seniority lists qualified employee the amounts described in paragraphs (i) and (ii) of subdivisions a and c of 66 RCNY § 11-88 respectively; and
+   (i) the qualified employer has paid the 2018 qualified employee or the master seniority lists qualified employee the amounts described in paragraphs (i) and (ii) of subdivisions a and c of 66 RCNY § 11-88 respectively; and
 
    (ii) the qualified employer has made payments of the amounts described in paragraphs (iii) through (viii) of subdivisions a and c of 66 RCNY § 11-88 respectively in a manner consistent with those paragraphs.
 
@@ -8587,11 +7771,11 @@ Each qualified employer must provide written notice to the department upon the h
 *§ 11-91 Conditions of Grants.* ::
 
 
-(a) The award by the department of a grant to a qualified employer pursuant to this subchapter shall not make the city of New York, the department or the department of education the employer of any 2017 qualified employee or master seniority lists qualified employee.
+(a) The award by the department of a grant to a qualified employer pursuant to this subchapter shall not make the city of New York, the department or the department of education the employer of any 2018 qualified employee or master seniority lists qualified employee.
 
 (b) The grant authorized by this subchapter shall not: (i) impair the terms of any collective bargaining agreement to which any qualified employer and employee may be subject, and shall not (ii) interfere with any rights a school bus driver, attendant, dispatcher or mechanic has pursuant to any collective bargaining agreement.
 
-(c) The qualified employer and 2017 qualified employee or master seniority lists qualified employee, as applicable, shall be solely responsible for withholding and payment of any taxes and other government required payments.
+(c) The qualified employer and 2018 qualified employee or master seniority lists qualified employee, as applicable, shall be solely responsible for withholding and payment of any taxes and other government required payments.
 
 
 
@@ -8621,13 +7805,829 @@ The total amount of the grants authorized by this subchapter shall be limited to
 
 (c) In the event of withdrawal from continued participation in a grant awarded, pursuant to this subchapter by a qualified employer:
 
-   (i) the department shall not make a grant installment to such qualified employer for any cost incurred by such employer on behalf of a 2017 qualified employee or master seniority lists qualified employee after the date the department receives such written notice of withdrawal; and
+   (i) the department shall not make a grant installment to such qualified employer for any cost incurred by such employer on behalf of a 2018 qualified employee or master seniority lists qualified employee after the date the department receives such written notice of withdrawal; and
 
-   (ii) such qualified employer shall not be required to satisfy the conditions described in subdivision b or d of 66 RCNY § 11-88 with respect to a 2017 qualified employee or master seniority lists qualified employee respectively, or the condition described in subdivision e of such section with respect to any employee hired after the date the department receives such written notice of withdrawal.
+   (ii) such qualified employer shall not be required to satisfy the conditions described in subdivision b or d of 66 RCNY § 11-88 with respect to a 2018 qualified employee or master seniority lists qualified employee respectively, or the condition described in subdivision e of such section with respect to any employee hired after the date the department receives such written notice of withdrawal.
 
 
 
 *Editor's note: The original rule numbered this as Section 11-92; because that section number already existed, it has been renumbered at the discretion of the editor.
+
+
+
+
+Chapter 10: Division of Labor Services
+--------------------------------------------------
+
+
+
+
+**Subchapter A: Promotion of Equal Employment Opportunity In Contracts Awarded By the City of New York**
+
+
+
+*§ 10-01 Applicability.* ::
+
+
+These regulations apply to all contracts let by the City, as provided herein.
+
+
+
+
+
+
+*§ 10-02 Definitions.* ::
+
+
+Whenever used in these regulations, the following terms shall have the following meanings:
+
+Age discrimination. "Age discrimination" means discrimination in employment related decisions because an individual is between the ages of 18 and 70.
+
+Agency head. "Agency head" means the Commissioner, Chair or Director of any contracting agency.
+
+Applicant. "Applicant" means an applicant for or recipient of City assistance for a construction project or other participant in a program related to City assistance for a construction project.
+
+Citizenship status. "Citizenship status" means the citizenship of any person, or the immigration status of any person lawfully residing in the United States who is not a citizen or national of the United States.
+
+City. "City" means the City of New York.
+
+City assistance. "City assistance" means any financial assistance involving a construction project in the form of a grant, loan, contract, insurance or guarantee, or any other arrangement by which the City provides or otherwise makes available assistance in the form of:
+
+   (1) funds;
+
+   (2) services of city personnel;
+
+   (3) tax exemptions and tax abatements; or
+
+   (4) real or personal property or any interest in the use of such property, including:
+
+      (i) transfers or leases of such property for less than fair market value or for a reduced consideration; and
+
+      (ii) proceeds from a subsequent transfer or lease of such property if the City's share of its fair market value is not returned to the City.
+
+Client Services. "Client Services" shall have the meaning set forth in the Procurement Policy Board Rules of the City of New York (9 RCNY § 1-01(e)).
+
+Compliance. "Compliance" means a contractor having acted in accordance with the requirements of E.O. 50 (§ 10-14) and these regulations.
+
+Commissioner. "Commissioner" means the Commissioner of the Department of Business Services.
+
+Construction project. "Construction project" means any construction, reconstruction, rehabilitation, alteration, conversion, extension, improvement, repair or demolition of real property contracted by the City, except contracts for architectural, engineering or drafting services.
+
+Contract. "Contract" means any written agreement, purchase order or instrument in which the City is committed to expend or does expend funds in return for work, labor, services, supplies, equipment, materials, or any combination of the foregoing:
+
+   (1) Unless otherwise required by law, the term "contract" shall include any City grant, loan, guarantee or other City assistance for a construction project.*
+
+   (2) The term "contract" shall not include:
+
+      (i) contracts for financial or other assistance between the City and a government or government agency;
+
+      (ii) contracts, resolutions, indentures, declarations of trust, or other instruments authorizing or relating to the authorization, issuance, award, and sale of bonds, certificates of indebtedness, notes, or other fiscal obligations of the City, or consisting thereof; or
+
+      (iii) employment by the City of its officers and employees which is subject to the equal employment opportunity requirements of applicable law.
+
+Contracting agency. "Contracting agency" means any administration, board, bureau, commission, department, or other governmental agency of the City, or any official thereof, authorized on behalf of the City to provide for, enter into, award, or administer contracts.
+
+Contractor. "Contractor" means a person, including a vendor or applicant, who is a party or a proposed party to a contract with a contracting agency, first-level subcontractors of supply and service contractors, and all levels of subcontractors of construction contractors and applicants.
+
+Director. "Director" means the Director of the Office.
+
+Division. "Division" means the Division of Labor Services.
+
+Economically disadvantaged person. "Economically disadvantaged person" means a person who at the time of application for entrance into a training program is either:
+
+   (1) a resident of a single person household who receives
+
+      (i) wages not in excess of 70 percent of the lower-level "urban family budget" for the City as determined by the U.S. Department of Labor, Bureau of Labor Statistics, or
+
+      (ii) receives cash welfare payments under a Federal, State, or local welfare program; or
+
+   (2) a member of a family which
+
+      (i) receives a family income less than 70 percent of the lower-level "urban family budget" for the City as determined by the U.S. Department of Labor, Bureau of Labor Statistics, or
+
+      (ii) receives cash welfare payments under a Federal, State, or local welfare program; or
+
+   (3) a Vietnam-era veteran as defined by applicable Federal law who has been unable to obtain non-government subsidized employment since discharge from the armed services; or
+
+   (4) a displaced homemaker who has not been in the labor force for 5 years but has during those years worked in the home providing unpaid services for family members and was
+
+      (i) dependent on public assistance or the income of another family member but is no longer supported by that income, or
+
+      (ii) receiving public assistance for dependent children in the home and that assistance will soon be terminated.
+
+Employment report. "Employment report" means a report filed by a contractor containing information concerning its workforce composition, employment and salary practices, policies, programs, collective bargaining agreements, and pending lawsuits or consent decrees or court orders. The contractor may at its option submit as part of its employment report self-evaluation and transition plans written pursuant to § 504 of the Rehabilitation Act of 1973 or its affirmative action plan in lieu of those sections of the employment report which request information contained in said plan.
+
+Employment update report. "Employment update report" means a periodic report required to be filed by a contractor when the Office identifies underutilization in a job group or employment policies and practices which mitigate against equal employment opportunity.
+
+Equal employment opportunity. "Equal employment opportunity" means the treatment of all employees and applicants for employment without unlawful discrimination as to race, creed, color, national origin, sex, age, handicap, marital status, sexual orientation or citizenship status in all employment decisions, including but not limited to recruitment, hiring, compensation, training and apprenticeship, promotion, upgrading, demotion, downgrading, transfer, lay-off and termination, and all other terms and conditions of employment except as provided by law.
+
+Handicapped individual. "Handicapped individual" means any person who has or had a physical or mental impairment that substantially limits one or more major life activities, and has a record of such an impairment.
+
+   (1) The term "physical or mental impairment" means a physiological disorder or condition, cosmetic disfigurement, or anatomical loss affecting one or more of the following body systems: neurological; musculoskeletal; special sense organs; respiratory, including speech organs; cardiovascular; reproductive; digestive; genito-urinary; hemic and lymphatic; skin, and endocrine; or a mental or psychological disorder, such as mental retardation, developmental disability, organic brain syndrome, emotional or mental illness and specific learning disabilities. It includes, but is not limited to, such diseases and conditions as orthopedic, visual speech and hearing impairments, cerebral palsy, epilepsy, muscular dystrophy, multiple sclerosis, cancer, heart disease, diabetes, alcoholism, substance abuse, and drug addiction.
+
+   (2) The term "major life activities" means functions such as caring for one's self, performing manual tasks, walking, seeing, hearing, speaking, breathing, learning and working.
+
+   (3) The term "has a record of such an impairment" means has a history of, or has been classified as having, a mental or physical impairment that substantially limits one or more major life activities.
+
+   (4) The term "otherwise qualified" means a handicapped person, who, with reasonable accommodation can satisfy the essential requisites of the job or benefit in question, and in the case of alcoholism, substance abuse and drug addiction, is recovering and currently free of abuse of same.
+
+   (5) The term "reasonable accommodation" means such accommodation to an employee's or prospective employee's physical or mental impairment as shall not cause undue hardship in the conduct of the contractor's business. The contractor shall have the burden of demonstrating such hardship.
+
+Job group(s). "Job group(s)" means a group of jobs having similar content, wage rates, and opportunities;
+
+Minorities. "Minorities" means Blacks, Hispanics (non-European), Asians, and Native Americans (American Indians, Eskimos, Aleuts);
+
+Noncompliance. "Noncompliance" means a contractor having failed to act in accordance with E.O. 50 (§ 10-14) and these regulations;
+
+Person. "Person" means any natural person, corporation, partnership, sole proprietorship, or unincorporated agency;
+
+Prime contractor. "Prime contractor" means any person who is a party or proposed party to a contract with a contracting agency;
+
+Subcontractor. "Subcontractor" means any person having an agreement or arrangement or proposed agreement or arrangement with a contractor in which any portion of the contractor's duty to perform work is undertaken or assumed by such person; provided that a supplier of unfinished products to a supply and service contractor needed to produce the item contracted for shall not be considered a subcontractor;
+
+Trainee. "Trainee" means an economically disadvantaged person who qualifies for and receives training in one of the construction trades pursuant to a program, other than an apprenticeship program, approved by the Division and, where required by law, the New York State Department of Labor and the United States Department of Labor, Office of Apprenticeship and Training;
+
+Underutilization. "Underutilization" means a statistically significant disparity between the employment of members of a racial, ethnic, or sexual group and their availability as determined by the Office's utilization analysis.
+
+
+
+
+
+
+*§ 10-03 Covered Contracts.* ::
+
+
+(a) General. 
+
+   (1) All contractors doing business with the City without regard to the dollar amount or source of funding of the contract must be equal employment opportunity employers.
+
+   (2) Contractors whose contracts are funded in whole or in part by federal or state funds must also meet the standards and applicable legal requirements of the funding source. To the extent that federal or state requirements are different from the requirements of E.O. 50 (§ 10-14) and these regulations, the requirements of E.O. 50 (§ 10-14) and these regulations shall apply, except in those circumstances where application of the City's requirements would make it impossible for the contractor to meet the program requirements of the funding source.
+
+(b) Submission requirements. 
+
+   (1) Except as provided herein, no contracting agency shall enter into a contract with any contractor unless such contractor's Employment Report is first submitted to the Division for its review.
+
+      (i) Before the contract may be awarded, each proposed supply and service contractor for a contract in excess of the small purchase limit established by rule of the Procurement Policy Board for procurement for goods and services who employs 50 or more employees is required to submit to the Division an Employment Report for the facility or establishment where the contract will be performed and where the Division deems necessary for a full review, the principle place of business or corporate headquarters;
+
+      (ii) Before the contract may be awarded, each proposed construction contractor for a contract in excess of $1 million is required to submit to the Division an Employment Report for its principal place of business or headquarters, the construction site where the contract will be performed and other non-City funded construction sites of the contractor within the City;
+
+      (iii) A contracting agency may award a requirements contract or an open market purchase agreement covered by these regulations prior to review by the Division of the contractor's Employment Report but may not make a purchase order against such contract or agreement until it has first transmitted such contractor's Employment Report to the Division and the Division has completed its review.
+
+   (2) Unless otherwise provided by federal or state law, an Employment Report shall not be required for
+
+      (i) a construction contract in the amount of $1 million or less or construction subcontract in the amount of $750,000 or less; or
+
+      (ii) a supply and service contract or subcontract in the amount of the small purchase limit established by rule of the Procurement Policy Board for procurement for goods and services or less or where the contractor employs less than 50 employees. In such cases the contracting agency shall promptly notify the Office in writing prior to the award of such a contract. To determine the applicability of this paragraph (2) to a City-assisted construction contract, the amount or value of the City assistance shall govern; or
+
+      (iii) an emergency contract or other exempt contract except as the Division may direct by regulation; or
+
+      (iv) a contract with a contractor who has received a certificate of compliance with the equal employment opportunity requirements of applicable law from the Division within the preceding thirty-six months, or an appropriate agency of the State of New York or of the United States within the preceding thirty-six months, except as the Division may direct by regulation; or
+
+      (v) a contract for a procurement of information technology that is within the small purchase limits established by rule of the Procurement Policy Board.
+
+      (vi) a contract for Client Services, as defined above; except that nothing in this section shall prevent the Commissioner in the Commissioner's sole discretion from requiring an employment report from a Client Services agency that has contracted with the City if the Commissioner believes that the Client Services agency is in violation of the equal employment requirements of City, State or Federal law.
+
+   (3) Unless otherwise provided by law, an Employment Report shall not be required on a preaward basis for an emergency contract awarded pursuant to Executive Order No. 2 (2nd) (1970), as amended, the City Charter § 315 or the General Municipal Law § 103(4). In such cases, the contracting agency shall promptly notify the Office of the award of such a contract by submission of a copy of the documentation submitted to the Law Department. In the event of an emergency not covered under the foregoing provisions, the contracting agency head will notify the Director in writing requesting a waiver of the preaward submission requirements. Said request must contain a statement of reason for such waiver request.
+
+   (4) Unless otherwise required by law, an Employment Report shall not be required for a covered supply and service contract with a contractor who has received a valid certificate of compliance with the equal employment requirement of applicable law as follows: (i) where a contractor has received a Certificate of Equal Employment Compliance issued after a desk audit by an appropriate federal or state agency in the preceding 12 months, the proposed contractor shall complete and submit the general information section of the Employment Report with a copy of such certificate of compliance to the Division;
+
+      (ii) where a contractor has been desk audited by an appropriate government agency and found to have deficiencies with respect to equal employment compliance and has agreed, within the preceding 12 months, to correct these deficiencies, the contractor may submit the general information section of the Employment Report with documentation regarding the finding of deficiencies and corrective measures taken. The Division may thereafter, in its discretion, require the submission of all reports concerning implementation of corrective measures or a completed Employment Report; and
+
+      (iii) where a contractor has been reviewed by the Division and issued a certificate of compliance in the preceding 12 months, the contractor shall complete and submit the general information section of the Employment Report with a copy of such certificate of compliance to the Division.
+
+   (5) Unless otherwise required by law, the Division may in its discretion waive the submission of an Employment Report where the contractor is in the process of being desk audited by an appropriate government agency and grant the contractor a conditional approval. Upon completion of the audit, the contractor must advise the Bureau of the results of the audit. The Division may thereafter in its discretion, require the submission of all reports concerning implementation of corrective measures or a completed Employment Report.
+
+   (6) The contractor may at its option submit its existing Affirmative Action Plan ("Plan") in lieu of parts of the Employment Report, provided that the Plan contains essentially the same information as those portions of the Employment Report.
+
+   (7) The contractor may at its option submit copies of its self-evaluation and transition plans written pursuant to § 504 of the Rehabilitation Act of 1973.
+
+   (8) The Director may, on the written request of the contracting agency head, waive the submission requirements of E.O. 50 (§ 10-14) and these regulations where the agency head certifies that:
+
+      (i) the contracting agency has been unable to secure the submission of an employment report after making diligent efforts; and
+
+      (ii) the proposed contractor is the sole provider of a unique service, supply or labor; or
+
+      (iii) because of the unique circumstances of the contract it would not be in the public interest to require submission of an Employment Report prior to the award of the contract.
+
+   (9) Failure to file timely, complete and accurate reports as required by E.O. 50 (§ 10-14) and these regulations constitutes noncompliance with E.O. 50 (§ 10-14) and these regulations. The Director may direct the contracting agency head to impose sanctions authorized by E.O. 50 (§ 10-14) and these regulations in connection with such noncompliance. The Division shall notify the contracting agency in writing of any such failure as soon as practicable.
+
+
+
+
+
+
+*§ 10-04 Responsibilities of Contracting Agencies.* ::
+
+
+(a)  Contract language – all contracts. Each contracting agency shall incorporate into every contract in excess of the small purchase limit established by rule of the Procurement Policy Board to which it becomes a party the following language: "This contract is subject to the requirements of Executive Order No. 50  (§ 10-14) ("E.O. 50") and the Rules and Regulations promulgated thereunder. No contract will be awarded unless and until these requirements have been complied with in their entirety. By signing this contract, the contractor agrees that it:
+
+   (1) will not discriminate unlawfully against any employee or applicant for employment because of race, creed, color, national origin, sex, age, handicap, marital status, sexual orientation or citizenship status with respect to all employment decisions including, but not limited to recruitment, hiring, upgrading, demotion, downgrading, transfer, training, rates of pay or other forms of compensation, layoff, termination, and all other terms and conditions of employment;
+
+   (2) will not discriminate in the selection of subcontractors on the basis of the owner's, partners' or shareholders' race, color, creed, national origin, sex, age, handicap, marital status, sexual orientation or citizenship status;
+
+   (3) will state in all solicitations or advertisements for employees placed by or on behalf of the contractor that all qualified applicants will receive consideration for employment without regard to race, creed, color, national origin, sex, age, handicap, marital status, sexual orientation or citizenship status or is an equal employment opportunity employer;
+
+   (4) will send to each labor organization or representative of workers with which it has a collective bargaining agreement or other contract or memorandum of understanding, written notification of its equal employment opportunity commitments under E.O. 50 (§ 10-14) and the rules and regulations promulgated thereunder;
+
+   (5) will furnish before the contract is awarded all information and reports including an Employment Report which are required by E.O. 50 (§ 10-14) the rules and regulations promulgated thereunder, and orders of the Director of the Office of Labor Services ("Division"). Copies of all required reports are available upon request from the contracting agency; and
+
+   (6) will permit the Division to have access to all relevant books, records and accounts by the Division for the purposes of investigation to ascertain compliance with such rules, regulations, and orders. The contractor understands that in the event of its noncompliance with the nondiscrimination clauses of this contract or with any of such rules, regulations, or orders, such noncompliance shall constitute a material breach of the contract and noncompliance with E.O. 50 (§ 10-14) and the rules and regulations promulgated thereunder. After a hearing held pursuant to the rules of the Division, the Director may direct the imposition by the contracting agency head of any or all of the following sanctions:
+
+      (i) disapproval of the contractor;
+
+      (ii) suspension or termination of the contract;
+
+      (iii) declaring the contractor in default; or
+
+      (iv) in lieu of any of the foregoing sanctions, the Director may impose an employment program. The Director of the Division may recommend to the contracting agency head that a contractor who has repeatedly failed to comply with E.O. 50 (§ 10-14) and the rules and regulations promulgated thereunder be determined to be nonresponsible. The contractor agrees to include the provisions of the foregoing paragraphs in every subcontract or purchase order in excess of the small purchase limit established by rule of the Procurement Policy Board to which it becomes a party unless exempted by E.O. 50 (§ 10-14) and the rules and regulations promulgated thereunder, so that such provisions will be binding upon each subcontractor or vendor. The contractor will take such action with respect to any subcontract or purchase order as may be directed by the Director of the Division of Labor Services as a means of enforcing such provisions including sanctions for noncompliance. The contractor further agrees that it will refrain from entering into any contract or contract modification subject to E.O. 50 (§ 10-14) and the rules and regulations promulgated thereunder with a subcontractor who is not in compliance with the requirements of E.O. 50 (§ 10-14) and the rules and regulations promulgated thereunder."
+
+(b) Special provisions for construction contracts. In addition to the contractual provisions required in § l0-04(a), each contracting agency shall incorporate into every contract for a construction project in excess of $125,000 to which it becomes a party the following language: "The contractor further agrees that it shall employ trainees for training level jobs and it shall participate in on-the-job training programs other than apprenticeship programs which are approved by the Division and where required by law, the U.S. Department of Labor, Bureau of Apprenticeship Training or the New York State Department of Labor. The contractor shall make a good faith effort to achieve the ratio of one (1) trainee to four (4) journey-level employees of each trade on each construction project; provided, that the trainee requirement shall not apply to contracts in the amount of $125,000 or less. "Trainee" means an economically disadvantaged person who qualifies for and receives training in one of the construction trades pursuant to a program, other than an apprenticeship program, approved by the Division and, where required by law, the New York State Department of Labor and the United States Department of Labor, Bureau of Apprenticeship and Training. The contractor shall be considered to employ 4 journey-level employees in a particular trade when he or she employs any number of journey-level employees in that craft whose aggregate work hours equal the number of hours 4 full-time journey-level employees would have worked in a work week as defined by the prevailing practice in the industry for the particular craft, i.e., 40 hours, 37 1/2 hours, 35 hours, etc. For example, in a craft where there is a forty-hour work week, the employment of 4 journey-level employees results in 160 hours of employment (4 × 40). Hence, any number of journey-level employees which results in 160 hours of work is considered for purposes of the training program to equal 4 journey-level employees, i.e., 3 journey-level employees who work 53 1/3 hours (3 × 53 1/3 = 160). The training requirement shall not apply to any trade in which the employment of four or more journey-level employees and the trainee shall be for less than 4 consecutive weeks; provided, that 4 weeks shall mean 4 weeks of full-time work as defined by the prevailing practice in the industry for the particular craft, i.e., 160 hours (4 weeks × 40 hours), 150 hours (4 weeks × 37 1/2 hours), 140 hours (4 weeks × 35 hours), etc. The contractor shall attempt to provide continuous employment for trainees after the completion of the contract to enable them to complete their course of training. Union contractors shall refer, recommend and sponsor for union membership any of their trainees who can perform the duties of a qualified journey-level employee or who have satisfactorily completed the training program. Such former trainee shall be paid full journey-level wages and fringe benefits, whether or not union membership is granted after such referral, recommendation or sponsorship, and the contractor shall attempt to continue the employment of such persons. In the event of a failure to provide training to the required number of trainees for the required number of weeks, the contractor's compensation shall be decreased by an amount equal to the difference between the wages and fringe benefits paid by the contractor to the trainees and the wages and fringe benefits which would have been paid to the trainees had the number and duration of the positions been as required unless the contractor can demonstrate that it made a good faith effort to provide training and was unsuccessful. The wages and fringes deducted will be whatever a first term trainee would have received under the prevailing wage schedule in effect at the time the trainees should have been employed. A good faith effort includes at least:
+
+      (i) documented efforts to secure trainees from approved training programs; and
+
+      (ii) documented outreach efforts to New York State Employment Service, Department of Employment, TAP Centers, community and civil rights groups to identify candidates for training positions and sponsorship of those persons by the contractor for entrance into an approved training program; and
+
+      (iii) written notification to the Division that the contractor has been unable to secure trainees pursuant to paragraphs (1) and (2) above and requesting the Division's assistance in securing trainees; provided, that neither the provisions of any collective bargaining agreement nor the refusal by a union with whom the contractor has a collective bargaining agreement to recognize the validity of the training program shall excuse the contractor's obligation to provide training pursuant to E.O. 50 (§ 10-14) and these reg- ulations. To demonstrate its good faith effort, the contractor may at its option supply documentation concerning its employment of trainees on all its construction sites, both City and non-City funded. The Division will review this documentation as part of its analysis to determine whether the contractor made a good faith effort. The contractor will also include the training provisions of this section in every subcontract in excess of $125,000 to which it becomes a party unless exempted by E.O. 50 (§ 10-14) and the rules and regulations promulgated thereunder so that such provisions will be binding upon each subcontractor. The contractor will take such action with respect to any subcontract as the Division may direct as a means of enforcing such provisions, including sanctions for noncompliance. The contractor further agrees that it will assist and cooperate with the Division in obtaining the compliance of subcontractors with the requirements of E.O. 50 (§ 10-14) and the rules and regulations promulgated thereunder, and it will furnish the Division with information necessary for supervision of such compliance."
+
+(c) Special provisions for city-assisted contracts. [Reserved.]
+
+(d) Preaward compliance generally. 
+
+   (1) No contracting agency shall enter into a construction contract in excess of $1 million, or a supply and service contract in excess of the small purchase limit established by rule of the Procurement Policy Board for procurement for goods and services when the contractor employs 50 or more employees, unless the contractor's Employment Report is first submitted to the Division for its review and approval.
+
+   (2) The contracting agency, at the time a proposed covered contractor is identified, either through low bid or negotiation, shall notify the Division in writing of the name of the proposed contractor, the contract in question and dollar amount.
+
+   (3) The contracting agency shall transmit a completed Employment Report to the Division within ten business days after the identification of a proposed covered contractor.
+
+   (4) The contracting agency may thereafter award a contract, unless the Division gives prior written notice to the contracting agency and the contractor as follows:
+
+      (i) If the Division notifies the contracting agency and the contractor within five business days after the receipt by the Division of the Employment Report that the contractor has failed to submit a complete report, the Director may require the contracting agency to disapprove the contractor unless such deficiency is corrected in a timely manner; and
+
+      (ii) If the Division notifies the contracting agency and the contractor within fifteen business days of the receipt by the Division of the completed Employment Report that the Division's analysis of the contractor's workforce indicates underutilization and therefore the Division has reason to believe that the contractor is not in substantial compliance with applicable legal requirements and the provisions of E.O. 50 (§ 10-14) and these regulations, the Division shall promptly take such action as may be necessary to remedy the contractor's noncompliance. These time limits shall apply to the review of all Employment Reports submitted by subcontractors or contractors who are a party to a requirements contract or an open market purchase agreement.
+
+      (iii) The time limits for this subdivision (d) begin to run on the business day following receipt of the Employment Report.
+
+   (5) The contracting agency shall notify the Division in writing of the award of a covered contract.
+
+   (6) With respect to covered supply and service contracts, the contracting agency shall also:
+
+      (i) notify the Division upon the submission of the prime contractor's Employment Report of any subcontracts in excess of the small purchase limit established by rule of the Procurement Policy Board for procurements for goods and services where the subcontractor employs 50 or more employees; and
+
+      (ii) transmit the subcontractor's completed Employment Report to the Division for review and approval.
+
+   (7) With respect to covered construction contracts, the contracting agency shall in addition:
+
+      (i) notify the Division in writing of its commencement to work order;
+
+      (ii) notify the Division in writing of the contractor's application for approval of subcontractors and transmit to the Division the subcontractors' completed Employment Reports for review and approval before allowing the contractor to subcontract any work; and
+
+      (iii) notify the Division in writing when the contract is 98 percent complete.
+
+
+
+
+
+
+*§ 10-05 Responsibilities of the Division of Labor Services.* ::
+
+
+(a) Division review – generally.
+
+   (1) It shall be the responsibility of the Division to implement, monitor compliance with, and enforce E.O. 50 (§ 10-14), these regulations and programs established pursuant to City, State and Federal law requiring contractors to provide equal employment opportunity.
+
+   (2) The Division shall conduct a preaward compliance review to determine whether the contractor maintains nondiscriminatory hiring and employment practices and is taking steps to insure that applicants are employed and that employees are placed, trained, upgraded, promoted, paid, and otherwise treated during employment without regard to race, creed, color, sex, national origin, age, handicap, marital status, sexual orientation or citizenship status.
+
+   (3) The Division's preaward compliance review shall proceed in the following manner:
+
+      (i) The Division shall analyze the contractor's Employment Report, with special attention directed to the composition of the work force and the contractor's employment policies, practices and procedures, including the following: recruitment, outreach, interviewing practices, pre-employment physical exams, employee evaluations, supervisor accountability, EEO training, promotional and transfer practices, training programs, employee counseling, job descriptions, architectural and other barriers, salaries and wage plans, fringe benefits, work environment, changing facilities, and collective bargaining agreements;
+
+      (ii) If the Division deems it appropriate as part of its compliance review, or if the Office finds that the material submitted is incomplete or raises questions concerning the contractor's efforts to meet the requirements of E.O. 50 (§ 10-14) and these regulations, the Division may:
+
+(A) hold a conference with the contractor to gain information necessary to complete the compliance review and, where necessary, to develop an Employment Program; and
+
+(B) perform an on site review of those matters which were not fully or satisfactorily addressed in the Employment Report or at the conference.
+
+      (iii) The Division will take into consideration consent decrees, court and administrative orders and conciliation agreements when analyzing a contractor's compliance with E.O. 50 (§ 10-14) and these regulations. The Division will not impose requirements which are inconsistent with the foregoing.
+
+(b) Division review – supply and services contracts.
+
+   (1) After the Division has completed its preaward compliance review and has determined that a proposed covered contractor is in compliance with the requirements of E.O. 50 (§ 10-14) and these regulations, it shall issue a certificate of compliance which shall be valid for 36 months.
+
+   (2) After the Division has completed its preaward compliance review and has identified underutilization or employment policies and practices which mitigate against equal employment opportunity, it may negotiate an Employment Program or approve the proposed covered contractor with reservations and monitor the compliance of the contractor with E.O. 50 (§ 10-14) and these regulations during the term of the contract. The monitoring shall consist of:
+
+      (i) an analysis of Employment Update Reports which the contractor is required to submit on a periodic basis; and
+
+      (ii) where necessary, conferences and on site reviews.
+
+(c) Division review – construction contracts.
+
+   (1) During the preaward compliance review, the Division shall hold a preaward conference for contracts in excess of $1,000,000. At the conference, the Division will review the contents of the Employment Report in detail with the contractor to insure compliance with applicable Federal, State, and City equal employment opportunity and training requirements. The Division shall, thereafter, issue a certificate of compliance which shall be valid for thirty-six months.
+
+   (2) During the term of the contract, the Division shall monitor the compliance of the contractor with the requirements of E.O. 50 (§ 10-14) and these regulations. The monitoring shall consist of:
+
+      (i) an analysis of the payroll records or other workforce data tables on City and non-City funded sites which the contractor is required to submit on a periodic basis; and
+
+      (ii) field visits to City and non-City funded construction sites of the contractor within the City.
+
+   (3) Upon completion of the contract and prior to final payment, the Division shall complete the audit of the contractor's payroll records and any other information submitted concerning compliance with the training requirements of E.O. 50 (§ 10-14) and these regulations to determine whether the contractor has made a good faith effort to comply with these requirements and whether the contractor's compensation should be reduced for failure to provide the required training. The contractor and the contracting agency shall be given notice if the Division's audit reveals that the contractor failed to provide training for the required number of trainees for the required number of weeks, or that the contractor has acted to circumvent the training requirements. In such case, unless the contractor can demonstrate that it made a good faith effort to provide the training, the contractor's compensation will be reduced. The Division shall evaluate all information submitted by the contractor concerning its good faith effort and consult with the contracting agency before a decision is made as to whether a training violation has occurred. The Division shall notify the contractor and contracting agency of its determination.
+
+(d) [Reserved.]
+
+
+
+
+
+
+*§ 10-06 Criteria for Compliance – Generally.* ::
+
+
+The Division shall determine the contractor's compliance status after analysis of the composition of its work force and its employment policies and practices using the criteria enumerated in this section. In the event the analysis reveals that the contractor has not met the requirements of E.O. 50 (§ 10-14) and these regulations, the Division may with the contractor develop an Employment Program to correct any underutilization or employment policies and practices which mitigate against equal employment-opportunity. The Employment Program shall consist of mandated actions based upon the criteria set forth in this section.
+
+(a) Equal employment opportunity policy statement.
+
+   (1) All covered contractors must have a written equal employment opportunity policy which indicates the chief executive Divisionr's commitment to equal employment opportunity, assigns overall responsibility for implementation and provides for a reporting and monitoring procedure.
+
+   (2) The contractor shall disseminate its equal employment opportunity policy internally as follows:
+
+      (i) Include the policy in employee and supervisor manuals;
+
+      (ii) Publicize the policy and company achievements in equal employment in company newspapers, magazines, annual reports, and other company publications;
+
+      (iii) Discuss and explain the policy in training sessions and other meetings with employees, executive, management, and supervisory personnel, indicating individual responsibility for effective implementation;
+
+      (iv) Meet with union officials to inform them of the policy, review all contractual provisions to insure they are nondiscriminatory, and bargain with respect to the inclusion of nondiscrimination clauses in all union agreements; and
+
+      (v) Post the policy on company bulletin boards.
+
+   (3) The contractor shall disseminate its equal employment opportunity policy externally as follows:
+
+      (i) Inform all recruiting sources verbally and in writing of company policy, stipulating that these sources actively recruit and refer members of all protected groups for all positions;
+
+      (ii) Incorporate the equal employment opportunity policy into all purchase orders, contracts, etc., covered by E.O. 50 (§ 10-14) and these regulations; and
+
+      (iii) Communicate the policy in all solicitations or advertisements for employees placed by or on behalf of the contractor.
+
+   (4) An executive of the contractor shall be appointed as director or manager of company equal employment programs with sufficient resources to carry out the responsibility. His or her identity should appear on all internal and external communications on the company's equal employment policy and programs. His or her responsibilities should include:
+
+      (i) Developing policy statements, equal employment programs, internal and external communication techniques and programs;
+
+      (ii) Assisting in the identification of problem areas;
+
+      (iii) Assisting line management in arriving at solutions to problems;
+
+      (iv) Designing and implementing audit and reporting systems that will
+
+(A) Measure effectiveness of the contractor's policy and implementing programs including supervisors' and management's adherence to the equal employment opportunity policy;
+
+(B) Indicate need for remedial action;
+
+(C) Determine the degree to which the contractor's equal employment objectives have been met;
+
+      (v) Serve as liaison between the contractor and enforcement agencies;
+
+      (vi) Serve as liaison between the contractor and minority organizations, women's organizations, advocate organizations for other protected groups and community action groups concerned with equal employment opportunity.
+
+(b) Workforce analysis and identification of problem areas. 
+
+   (1) All covered contractors must complete and submit an Employment Report. The Employment Report must contain specific information concerning the composition of the contractor's current and projected workforce.
+
+   (2) The Division shall analyze the data on minorities and women submitted by the contractor with respect to all job groups. In determining whether minorities or women are being underutilized in any job group, the Division may consider the following factors:
+
+      (i) The minority or female population of the labor area surrounding the facility or the construction site;
+
+      (ii) The size of the minority or female unemployed work force in the labor or recruitment area surrounding the facility or the construction site;
+
+      (iii) The percentage of the minority or female workforce as compared with the total workforce in the immediate labor area;
+
+      (iv) The general availability of minorities or females having requisite skills in the immediate labor area;
+
+      (v) The availability of minorities or women having requisite skills in an area in which the contractor can reasonably recruit;
+
+      (vi) The availability of promotable and transferable minorities or women within the contractor's organization;
+
+      (vii) The existence of training institutions capable of training persons in the requisite skills; and
+
+      (viii) The degree of training which the contractor is reasonably able to undertake as a means of making all job classes available to minorities or females.
+
+   (3) In the event the Division's analysis reveals underutilization of minorities or women it shall:
+
+      (i) request an explanation of the apparent underutilization; and
+
+      (ii) consider the anticipated expansion, contraction and turnover in the workforce before developing with the contractor an Employment Program or determining if it has reasonable cause to believe that the contractor is not in compliance with E.O. 50 (§ 10-14) and these regulations.
+
+   (4) The statistical criteria for evaluating the composition of the contractor's workforce will be the following:
+
+      (i) the term "underutilization" means a statistically significant disparity between the employment of members of a racial, ethnic, or sexual group and their availability as determined by the Division's utilization analysis; and
+
+      (ii) the term "utilization analysis" will mean an analysis of the contractor's workforce using standard statistical techniques to test a null hypothesis that utilization of a given protected group is within acceptable limits, given its availability. For the purpose of these regulations, the null hypothesis will be rejected (i.e., underutilization will be assumed) whenever there is reason to believe that the utilization rate is below the availability rate at the 80 percent level of significance.
+
+(c) Analysis of policies and practices – identification of problem areas. The Division shall analyze the following policies, practices and procedures of the contractor to insure that individuals are not discriminated against on the basis of their race, creed, color, national origin, sex, age, handicap, marital status, sexual orientation or citizenship status:
+
+   (1) The composition of applicant flow;
+
+   (2) The total selection process including position descriptions, position titles, worker specifications, application forms, interview procedures, pre-employment physical exams, inquiries with respect to disabilities, test administration, test validity, referral procedures, final selection process and similar factors;
+
+   (3) Transfer and promotion practices;
+
+   (4) Wage rates, salaries, fringe benefits and other forms of compensation;
+
+   (5) Facilities including architectural and other barriers to the employment of handicapped persons, company sponsored recreation and social events, and special programs such as educational assistance;
+
+   (6) Seniority practices and seniority provisions of union contracts;
+
+   (7) Apprenticeship programs;
+
+   (8) All company training programs, formal and informal;
+
+   (9) Working atmosphere; and
+
+   (10) Technical phases of compliance, such as notification to labor unions, retention of applications, notification to subcontractors, etc.
+
+(d) Special provisions concerning compliance. 
+
+   (1) A contractor shall not be in violation of E.O. 50 (§ 10-14) and these regulations if the contractor hires, employs, trains employees or otherwise discriminates on the basis of employees' creed, sex or national origin in those certain instances where creed, sex or national origin is a bona fide occupational qualification reasonably necessary to the normal operation of the contractor's business. The contractor shall have the burden of demonstrating that it has complied with the requirements of this paragraph.
+
+   (2) A contractor shall not be in violation of E.O. 50 (§ 10-14) and these regulations with respect to age discrimination where it terminates the employment of any person who is physically unable to perform his or her duties or acts pursuant to a retirement policy or system where such policy or system is not merely a subterfuge to evade the purposes of E.O. 50 (§ 10-14) and these regulations. The contractor shall have the burden of demonstrating that it has complied with the requirements of this paragraph.
+
+   (3) Neither the provisions of any collective bargaining agreement, nor the failure by a union with whom the contractor has a collective bargaining agreement, to refer employees without regard to their race, creed, color, national origin, sex, age, handicap, marital status, sexual orientation or citizenship status shall excuse the contractor's obligations under E.O. 50 (§ 10-14) and these regulations.
+
+   (4) A contractor shall not be in violation of E.O. 50 (§ 10-14) and these regulations if it applies different standards of compensation or different terms, conditions or privileges of employment pursuant to a bona fide seniority system.
+
+(e) Establishment of an employment program. If any of the following items are found by the Division in its analysis and the contractor fails to demonstrate that the item does not have a discriminatory effect, an Employment Program may be developed by the Division and the contractor containing special corrective action:
+
+   (1) Underutilization of minorities or women in specific job groups;
+
+   (2) Lateral or vertical movement of minority, female, handicapped or older employees occurring at a proportionately lesser rate than that of other employees;
+
+   (3) Selection procedures which eliminate a significantly higher percentage of minorities, women, handicapped or older employees as compared to other employees;
+
+   (4) Application and related pre-employment forms which do not comply with applicable equal employment standards;
+
+   (5) Disparity in the wages, salaries, fringe benefits and other forms of compensation paid to minorities, women, handicapped or older employees as compared to other employees;
+
+   (6) Position descriptions which are inaccurate in relation to actual functions and duties performed;
+
+   (7) Formal or scored selection procedures not validated as required by applicable equal employment standards;
+
+   (8) Tests not validated as required by applicable equal employment standards;
+
+   (9) Discriminatory rejection of applicants for employment;
+
+   (10) Minorities, women, handicapped, or older employees are excluded from or are not participating in company-sponsored activities or programs;
+
+   (11) De facto segregation exists at some of the contractor's facilities;
+
+   (12) Architectural barriers to the employment and promotion of handicapped persons;
+
+   (13) Seniority provisions which are discriminatory and not bona fide;
+
+   (14) Failure by managers, supervisors or employees to support company EEO policy;
+
+   (15) Minorities, women, handicapped or older employees are significantly underrepresented in training or career improvement programs;
+
+   (16) No formal techniques established for evaluating effectiveness of equal employment opportunity programs;
+
+   (17) No formal techniques established for evaluating supervisor adherence to equal employment opportunity programs;
+
+   (18) Labor unions and subcontractors not notified of their responsibilities; or
+
+   (19) Purchase orders not containing equal employment opportunity clause.
+
+(f) Contents of an employment program. An Employment Program is a unique program developed to meet the needs of each contractor. The following illustrate the types of corrective actions which may be implemented in specific circumstances.
+
+   (1) To encourage the flow of minority, female and handicapped applicants for employment it may be appropriate to direct:
+
+      (i) Outreach to advocate organizations and referral sources for minority, female and handicapped persons;
+
+      (ii) Encouragement of employment referrals by minority, female and handicapped employees;
+
+      (iii) Inclusion of minorities, women and handicapped employees on the personnel relations staff;
+
+      (iv) Participation by minority, female and handicapped employees in career days, job fairs, youth motivation programs, and related activities in their communities;
+
+      (v) Recruitment at vocational schools, secondary schools, junior colleges, and colleges with predominantly minority, female or handicapped enrollments; and
+
+      (vi) Help-wanted advertising in news media directed at minorities, women and handicapped persons in addition to the usual news media utilized.
+
+   (2) To insure that all employees are given equal opportunity for promotion it may be appropriate to direct:
+
+      (i) Posting and publicizing promotional opportunities and providing opportunities for self-nomination;
+
+      (ii) An inventory of current minority, female, handicapped and older employees made to determine academic, skill and experience levels of individual employees and to establish a skills bank;
+
+      (iii) Remedial, job training and work-study programs;
+
+      (iv) Formal employee evaluation programs;
+
+      (v) Requiring supervisory personnel to submit written justification for denying promotions to apparently qualified minority, female, handicapped or older employees;
+
+      (vi) Formal career counseling programs which include attitude development, education aid, job rotation, buddy system and similar programs; and
+
+      (vii) Training programs.
+
+   (3) To insure that qualified handicapped applicants or employees are not excluded from employment or denied promotional opportunities, it may be appropriate to direct a contractor to make reasonable accommodations to the physical or mental limitations of employees and job applicants. The contractor shall have the burden of proving any claim it may make that directions from the Office under this paragraph (3) would impose an undue hardship in the conduct of the employer's business.
+
+   (4) To maintain a discrimination free environment and prevent harassment of employees placed through equal employment efforts it may be appropriate to direct:
+
+      (i) special training programs for supervisors;
+
+      (ii) evaluation of supervisors' equal employment activities in their performance evaluation; and
+
+      (iii) other appropriate measures.
+
+   (5) Contractors should maintain adequate employment data with reference to minority status and sexual status, including progression line charts, seniority rosters, applicant flow data, applicant rejection ratios, referrals, placements, promotions and terminations, indicating minority and sex.
+
+
+
+
+
+
+*§ 10-07 Noncompliance.* ::
+
+
+(a) Division determination – failure to file documents.
+
+   (1) Whenever the Director finds that a covered contractor has failed to file an Employment Report or a complete Employment Report, or has filed an Employment Report with substantial misrepresentations, the Director shall send a notice in writing by certified mail, return receipt requested, to the contractor with a copy to the contracting agency describing:
+
+      (i) the noncompliance;
+
+      (ii) the corrective action necessary to remedy the noncompliance; and
+
+      (iii) a suggested date for a conciliation conference before sanctions will be imposed.
+
+   (2) If the contractor fails to take corrective action by filing a complete Employment Report, the Director may make a determination as to the sanctions to be imposed.
+
+   (3) The contractor shall have a period of seven business days to remedy the noncompliance and pursue conciliation efforts.
+
+      (i) If conciliation is successful, a conciliation agreement shall be signed by the Director and the contractor.
+
+      (ii) If conciliation is unsuccessful, the Director may find the contractor to be in noncompliance and direct sanctions to be imposed.
+
+(b) Division determination – EEO compliance. 
+
+   (1) Whenever the Director has reasonable cause to believe that a contractor is in noncompliance, the Director shall send a notice promptly and in writing by certified mail, return receipt requested, to the contractor with a copy to the contracting agency, describing:
+
+      (i) the noncompliance;
+
+      (ii) the corrective actions necessary to remedy the noncompliance; and
+
+      (iii) a suggested date for a conciliation conference before sanctions will be imposed.
+
+   (2) The contractor shall have seven business days to show cause why it should not be found in noncompliance with E.O. 50 (§ 10-14), and these regulations.
+
+   (3) The Director shall offer the contractor an opportunity to conciliate. The Director shall pursue conciliation efforts for a period of seven business days. At the Director's discretion, the conciliation period may be extended.
+
+      (i) If conciliation is successful, a conciliation agreement shall be signed by the Director and the contractor.
+
+      (ii) If conciliation is unsuccessful, a complaint shall be served on the contractor and a copy shall be served on the contracting agency and filed with the Division of Administrative Trials and Hearings or the hearing officer designated by the Commissioner.
+
+   (4) The hearing shall be held in accordance with the rules of procedure adopted by the Division.
+
+(c) Report and recommendations. 
+
+   (1) After the close of the hearing, the hearing officer shall render a report containing findings of fact, conclusions of law, and recommen- dations.
+
+   (2) Findings of fact shall be based exclusively upon the evidence of record and on matters officially noticed. Findings must be based upon the kind of evidence on which reasonably prudent persons are accustomed to rely in the conduct of their serious affairs; even if such evidence would be inadmissible in a civil trial. The hearing officer's experience, technical competence and specialized knowledge may be utilized in the evaluation of evidence.
+
+   (3) The report and recommendations pursuant to this subdivision (c) shall be rendered in writing within ninety days after the conclusion of the hearing, or within ninety days after submission of proposed findings of fact, conclusions of law or briefs, if submitted pursuant to the Division's rules of hearing procedure, unless this period is waived or extended by the hearing officer with the written consent of all parties, or for good cause shown on notice to all parties.
+
+   (4) The hearing officer shall cause copies of the report and recommendations to be delivered or mailed to the Director, the parties and the contracting agency head.
+
+(d) Exceptions to report and recommendations. Within ten days after receipt of the report and recommendations, any party may submit exceptions to said report or to any recommendation contained therein. These exceptions may be responded to by other parties within seven business days of their receipt by said parties. All exceptions and responses shall be filed with the Director. Service of exceptions and responses shall be made simultaneously on all parties to the proceeding and upon the hearing officer. Requests to the Director for additional time in which to file exceptions and responses shall be in writing and copies shall be served simultaneously on all other parties. Requests for extensions must be received no later than three business days before the exceptions are due.
+
+(e) Record and final determination. After the expiration of the time for filing exception, the Director shall make a final determination on the basis of the record, which shall be the final Administrative Order. The record shall consist of the record of the enforcement proceeding, the rulings, report and recommendations of the hearing officer and the exceptions filed subsequent to the hearing officer's decision. A copy of the determination of the Director shall be provided to the parties, the hearing officer, the contracting agency, the Corporation Counsel and the Comptroller.
+
+(f) Sanctions. 
+
+   (1) The Director shall, based upon the findings of fact and recommendations of the hearing officer and the record as a whole, determine whether the contractor is complying with applicable legal requirements and the provisions of E.O. 50 (§ 10-14) and these regulations.
+
+   (2) If the Director makes a determination of noncompliance, the Director may direct the contracting agency head that the following sanctions be imposed:
+
+      (i) disapproval of a proposed contractor;
+
+      (ii) suspension or termination of a contract;
+
+      (iii) declaring the contractor to be in default; or
+
+      (iv) in lieu of any of the foregoing sanctions, the Director may impose an employment program.
+
+   (3) The Director shall notify the contracting agency head in writing of the determination made and sanctions to be imposed.
+
+      (i) The contracting agency head may file written objection to the sanctions imposed within 5 business days of the issuance of the determination by the Director.
+
+      (ii) The contracting agency head must specify in writing his or her reasons for objecting to the sanctions imposed by the Director.
+
+      (iii) In the event such objections are filed, the Director and the agency head shall jointly determine the sanctions to be imposed.
+
+   (4) The Director of the Division may recommend to the contracting agency head that pursuant to the rules and regulations of the Board of Estimate a board of responsibility be convened for purposes of declaring a contractor who has repeatedly failed to comply with E.O. 50 (§ 10-14) and these regulations to be nonresponsible.
+
+(g) Complaints. 
+
+   (1) Any person who believes a violation of E.O. 50 (§ 10-14) and these regulations has occurred may file a complaint, in writing, signed and dated, with the Office during the term of a contract.
+
+   (2) The complaint shall include the name, address, and telephone number of the complainant, the name and address of the contractor committing the alleged violation of E.O. 50 (§ 10-14) and these regulations, a description of the acts considered to be the violation, and any other pertinent information which will assist in the investigation and resolution of the complaint. The complaint shall be signed by the complainant or his or her authorized representative. Complaints alleging class-type violations which do not identify the alleged discriminatee or discriminatees will be accepted, provided the other requirements of this paragraph are met.
+
+   (3) The Division may refer complaints to the appropriate City, State and Federal agencies for processing rather than processing under E.O. 50 (§ 10-14) and these regulations. Upon referring complaints to another agency, the Division shall promptly notify the complainant and the contractor of such referral.
+
+   (4) A prompt investigation shall be made by the Division.
+
+   (5) The contractor involved shall cooperate fully with any investigation. Failure or refusal to furnish information or to cooperate in the investigation is a violation of E.O. 50 (§ 10-14) and these regulations and may result in the imposition of sanctions.
+
+   (6) Upon completion of the investigation, the complaining party and the contractor involved shall be informed of the results of the investigation in writing. If the Director has reasonable cause to believe that the contractor is in noncompliance with E.O. 50 (§ 10-14) and these regulations, then enforcement proceedings shall be commenced.
+
+   (7) It is a violation of E.O. 50 (§ 10-14) and these regulations for a contractor, subcontractor, or other person to intimidate, threaten, coerce, or discriminate against any individual or business for the purpose of interfering with any right or privilege secured by E.O. 50 (§ 10-14) and these regulations or because a complaint was filed, or a person testified, assisted or participated in any manner in an investigation, proceeding, or hearing under these regulations.
+
+   (8) The identity of the complaining party shall be kept confidential on request only during the conduct of an investigation under these regulations. If such confidentiality hinders the investigation, the complaining party shall be so advised for the purpose of obtaining a waiver of confidentiality. The complaining party shall be further advised that failure to waive confidentiality may result in a determination based upon information already provided.
+
+
+
+
+
+
+*§ 10-08 Referral to Other Agencies on Suspicion of Violations.* ::
+
+
+When it has reason to believe that federal, state or local law has been violated, the Division shall notify the appropriate enforcement agency concerning its findings.
+
+
+
+
+
+
+*§ 10-09 Existing Contracts and Subcontracts.* ::
+
+
+All contracts and subcontracts in effect prior to April 25, 1980 which are not subsequently modified shall be administered in accordance with the equal employment and training provisions of any prior applicable Executive Orders. Any contract or subcontract modified on or after April 25, 1980 shall be subject to E.O. 50 (§ 10-14).
+
+
+
+
+
+
+*§ 10-10 Confidentiality.* ::
+
+
+To the extent permitted by law and consistent with the proper discharge of the Division's responsibilities under E.O. 50 (§ 10-14) and these regulations, all information provided by a contractor to the Division shall be confidential.
+
+
+
+
+
+
+*§ 10-11 Delegation of Authority by the Director.* ::
+
+
+The Director is authorized to delegate the authority given to him or her by these regulations. The authority delegated by the Director pursuant to these regulations shall be exercised under his or her supervision.
+
+
+
+
+
+
+*§ 10-12 Separability.* ::
+
+
+If any provision of these regulations or the application thereof is held invalid, the remainder of these regulations and the application thereof to other persons or circumstances shall not be affected by such holding and shall remain in full force and effect.
+
+
+
+
+
+
+*§ 10-13 Effectiveness and Applicability.* ::
+
+
+The rules contained in this chapter shall become effective 30 days after final publication in the City Record and apply to all contracts, solicitations, invitations for bids, or requests for proposals which were made by the City or an applicant on or after said effective date, and to all negotiated contracts which have not been executed as of said effective date.
+
+
+
+
+
+
+*§ 10-14 Executive Order No. 50. [Repealed]* ::
+
+
+ DIVISION OF LABOR SERVICES AND EQUAL EMPLOYMENT OPPORTUNITY COMPLIANCE EXECUTIVE ORDER NO. 50 APRIL 25, 1980 BUREAU OF LABOR SERVICES  By the power vested in me as Mayor of the City of New York, it is hereby ordered:
+
+Section 1. Purpose. It is the purpose of this Order to ensure equal employment opportunity in City Contracting.
+
+§ 2. Bureau Continued. The Bureau of Labor Services shall continue to serve such purposes and to have such responsibilities as restated by this Order.
+
+§ 3. Definitions. Whenever used in this Executive Order, the following terms shall have the following meanings:
+
+(a) Bureau means the Bureau of Labor Services;
+
+(b) client services shall have the meaning set forth in the Procurement Policy Board Rules of the City of New York (9 RCNY § 1-01(e)).
+
+(c) construction project means any construction, reconstruction, rehabilitation, alteration, conversion, extension, improvement, repair or demolition of real property contracted by the City;
+
+(d) contract means any written agreement, purchase order or instrument whereby the City is committed to expend or does expend funds in return for work, labor, services, supplies, equipment, materials, or any combination of the foregoing:
+
+      (i) Unless otherwise required by law, the term "contract" shall include any City grant, loan, guarantee or other City assistance for a construction project.
+
+      (ii) The term "contract" shall not include:
+
+(A) contracts for financial or other assistance between the City and a government or government agency;
+
+(B) contracts, resolutions, indentures, declarations of trust, or other instruments authorizing or relating to the authorization, issuance, award, and sale of bonds, certificates of indebtedness, notes, or other fiscal obligations of the City, or consisting thereof; or
+
+(C) employment by the City of its officers and employees which is subject to the equal employment opportunity requirements of applicable law.
+
+(e) contracting agency means any administration, board, bureau, commission, department, or other governmental agency of the City of New York, or any official thereof, authorized on behalf of the City to provide for, enter into, award, or administer contracts.
+
+(f) contractor means a person, including a vendor, who is a party or a proposed party to a contract with a contracting agency, first-level subcontractors of supply and service contractors, and all levels of subcontractors of construction;
+
+(g) Director means the Director of the Bureau of Labor Services;
+
+(h) economically disadvantaged person means a person who, or a member of a family which, is considered economically disadvantaged under applicable law;
+
+(i) employment report means a report filed by a contractor containing information as to the employment practices, policies, programs, employment statistics and collective bargaining agreements, if any, of the contractor in such form as the Office may direct by regulation;
+
+(j) equal employment opportunity means the treatment of all employees and applicants for employment without unlawful discrimination as to race, creed, color, national origin, sex, age, disability, marital status, sexual orientation or citizenship status in all employment decisions, including but not limited to recruitment, hiring, compensation, training and apprenticeship, promotion, upgrading, demotion, downgrading, transfer, lay-off and termination, and all other terms and conditions of employment
+
+(k) trainee means an economically disadvantaged person who qualifies for and receives training in one of the construction trades pursuant to a program other than apprenticeship programs, approved by the Office and, where required by law, the State Department of Labor and the United States Department of Labor, Office of Apprenticeship and Training;
+
+§ 4. Responsibilities of Bureau. The responsibilities of the Bureau shall be as follows:
+
+(a) To implement, monitor compliance with, and enforce this Order and programs established pursuant to City, State and Federal law requiring contractors to provide equal employment opportunity;
+
+(b) To implement, monitor compliance with, and enforce on-the-job training requirements on construction projects;
+
+(c) To monitor compliance by contractors with State and Federal prevailing wage requirements where required;
+
+(d) To advise and assist contractors and labor unions with respect to their obligations to provide equal employment opportunity;
+
+(e) To advise and assist persons in the private sector with respect to employment problems; (f) To establish advisory committees, including representatives of employers, labor unions, community organizations and others concerned with the enforcement of this Order; and
+
+(g) To serve as the City's principal liaison to Federal, State and local contract compliance agencies.
+
+§ 5. Contract Provisions.
+
+(a) Equal Employment Opportunity. A contracting agency shall include in every contract to which it becomes a party such provisions requiring the contractor to ensure equal employment opportunity as the Bureau may direct, consistent with this Order.
+
+(b) On-the-Job Training. A contracting agency shall include in every contract concerning a construction project to which it becomes a party such provisions requiring the contractor to provide on-the-job training for economically disadvantaged persons as the Bureau may direct by regulation.
+
+(c) Subcontractors. A contracting agency shall include in every contract to which it becomes a party such provisions requiring the contractor not to discriminate unlawfully in the selection of subcontractors as the Bureau may direct by regulation.
+
+§ 6. Employment Reports.
+
+(a) Submission Requirements. No contracting agency shall enter into a contract with any contractor unless such contractor's employment report is first submitted to the Bureau for its review. Unless otherwise required by law, an employment report shall not be required for the following:
+
+      (i) A construction contract in the amount of less than $1 million; a construction subcontract in the amount of less than $750,000; or a supply and service contract in the amount of $50,000 or less or of more than $50,000 in which the contractor employs fewer than 50 employees at the facility or facilities involved in the contract
+
+      (ii) An emergency contract or other exempt contract except as the Bureau may direct by regulation; and
+
+      (iii) A contract with a contractor who has received a certificate of compliance with the equal employment opportunity requirements of applicable law from the Bureau within the preceding thirty-six months, or an appropriate agency of the State of New York or of the United States within the preceding thirty-six months, except as the Bureau may direct by regulation;
+
+(b) Bureau Review. The Bureau shall review all employment reports to determine whether contractors are in compliance with the equal employment opportunity requirements of City, State and Federal law and the provisions of this Order. The contracting agency shall transmit the employment report to the Bureau within ten business days after the selection of a proposed contractor. A contracting agency may thereafter award a contract unless the Bureau gives prior written notice to the contracting agency and the contractor as follows:
+
+      (i) If the Bureau notifies the contracting agency and the contractor within five business days after the receipt by the Bureau of the employment report that the contractor has failed to submit a complete employment report, the Director may require the contracting agency to disapprove the contractor unless such deficiency is corrected in a timely manner;
+
+      (ii) If the Bureau notifies the contracting agency and the contractor within fifteen business days of the receipt by the Bureau of the completed employment report that the Bureau has found reason to believe that the contractor is not in substantial compliance with applicable legal requirements and the provisions of this Order, the Bureau shall promptly take such action as may be necessary to remedy the contractor's noncompliance as provided by this Order.
+
+      Provided that a contracting agency may award a requirements contract or an open market purchase agreement prior to review by the Bureau of the contractor's employment report, but may not make a purchase order against such contract or agreement until it has first transmitted such contractor's employment report to the Bureau and the Bureau has completed its review in the manner provided by this section.
+
+(c) Employment Program. The Bureau may require a contractor to adopt and adhere to a program designed to ensure equal employment opportunity.
+
+(d) Periodic Reports. Contractors shall file periodic employment reports after the award of a contract in such form and frequency as the Bureau may direct by regulation to determine whether such contractors are in compliance with applicable legal requirements and the provisions of this Order.
+
+§ 7. Training programs. The Bureau shall monitor the recruitment, training and placement of economically disadvantaged persons in on-the-job training programs on construction projects. Contracting agencies shall require contractors to make a good faith effort to achieve the ratio of one trainee to four journey-level employees of each craft on each construction project.
+
+(a) The Bureau shall determine the number of trainees and hours of training required by each contractor or subcontractor for each construction project.
+
+(b) In the event that a contractor fails to make a good faith effort to train the required number of individuals for the required amount of hours, the Bureau, after consultation with the contracting agency, shall direct such agency to reduce the contractor's compensation by an amount equal to the amount of wages and fringe benefits which the contractor failed to pay to trainees.
+
+(c) On-the-job training of economically disadvantaged persons shall be required on all construction contracts covered by the submission requirements of this Order
+
+§ 8. Compliance Investigations and Hearings. The Bureau shall conduct such investigations and hold such hearings as may be necessary to determine whether contractors are in compliance with the equal employment opportunity requirements of City, State and Federal law and the provisions of this Order.
+
+(a) Voluntary compliance. The Bureau shall seek to obtain the voluntary compliance of contractors and labor unions with applicable legal requirements and the provisions of this Order.
+
+(b) Noncompliance. Upon receiving a complaint or at its own instance, the Bureau shall determine whether there is reason to believe a contractor is not in compliance with applicable legal requirements and the provisions of this Order.
+
+(c) Hearings. The Bureau shall hold a hearing on prior written notice to a contractor and the contracting agency before any adverse determination is made with respect to such contractor's employment practices or imposing any sanction or remedy for noncompliance with applicable legal requirements and the provisions of this Order. The hearing shall be held before a City hearing officer, or such other person designated by the Director, who shall submit a report containing findings of fact and recommendations to the Director. Based on the record as a whole, the Director shall determine whether a contractor has failed to comply with applicable legal requirements or the provisions of this Order and the appropriate sanctions for noncompliance.
+
+(d) Notices. The Bureau shall give prior notice of any hearing and shall provide a copy of any hearing report and determination of the Director under paragraph (c) of this section to the contracting agency, the Corporation Counsel and the Comptroller. The Bureau shall notify appropriate City, State and Federal agencies of violations of law and may, with the approval of the Corporation Counsel, initiate proceedings in such agencies.
+
+§ 9. Sanctions and Remedies. After making a determination that a contractor is not complying with applicable legal requirements and the provisions of this Order, the Director may direct that such sanctions as may be permitted by law or contractual provisions be imposed, including the disapproval; of a proposed contractor, the suspension or termination of a contract and the reduction of a contractor's compensation, except as follows:
+
+(a) Within five business days of the issuance of a determination by the Director under § 8(c), a contracting agency head may file with the Director written objections to the sanctions to be imposed. Where such objections have been filed, the Director and the contracting agency head shall jointly determine the appropriate sanctions to be imposed.
+
+(b) In lieu of any of the foregoing sanctions, the Director may require a contractor to adopt and adhere to a program to ensure equal employment opportunity.
+
+§ 10. Public Agencies. Any administration, board, bureau, commission, department or other public agency, not subject to this Order, which imposes by rule, regulation or order equal employment opportunity requirements, may, with the consent of the Mayor, delegate such responsibilities to the Bureau as may be consistent with this Order.
+
+§ 11. Confidentiality. To the extent permitted by law and consistent with the proper discharge of the Bureau's responsibilities under this Order, all information provided by a contractor to the Bureau shall be confidential.
+
+§ 12. Regulations. The Bureau shall promulgate such regulations, subject to the approval of the Mayor, as may be necessary to discharge its responsibilities under this Order, including regulations increasing the dollar amounts and number of employees referred to in this Order. Any regulations of the Bureau establishing terms and conditions for contractors shall be approved as to form by the Corporation Counsel. Nothing contained herein shall be construed to bar any religious or denominational institution or organization, or any organization operated for charitable or educational purposes, which is operated, supervised or controlled by or in connection with a religious organization, from limiting employment or giving preference to persons of the same religion or denomination or from making such selection as is calculated by such organization to promote the religious principles for which it is established or maintained. The regulations shall set forth this exemption for religiously-sponsored organizations and provide for the discharge of the Bureau's responsibilities in a manner consistent with such exemption.
+
+§ 13. Annual Report. The Bureau shall submit an annual report to the Mayor concerning its responsibilities under this Order.
+
+§ 14. Separability. If any provision of this Order or the application thereof is held invalid, the remainder of this Order and the application thereof to other persons or circumstances shall not be affected by such holding and shall remain in full force and effect.
+
+§ 15. Revocation of Prior Orders. Executive Orders No. 71 (1968), No. 20 (1970), No. 23 (1970), No. 27 (1970), No. 31 (1971), No. 74 (1973), No. 7 (1974), and No. 80 (1977) are hereby revoked and the first paragraph of Section 2 of Executive Order No. 4 (1978) is hereby deleted. Nothing in this Order shall be deemed to relieve any person of any obligation not inconsistent with this Order assumed or imposed pursuant to an Order superseded by this Order.
+
+§ 16. Effective Date. This Order shall take effect immediately. xp
 
 
 
