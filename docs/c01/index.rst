@@ -1,6 +1,19 @@
 Title 2: Board of Standards and Appeals
 ===================================================
 
+Chapter 2: Automotive Service Stations and Garages
+--------------------------------------------------
+
+
+
+*§ 2-01 Changes in Underground Storage Tank Number, Capacity or Location.* ::
+
+
+If on any automotive service station or storage garage which has been erected under a variance or permit granted by the Board, it is proposed to change the number, capacity or location of underground storage tanks in compliance with the requirements of the Administrative Code, such tank changes shall be deemed to be in substantial compliance with the terms and conditions of the Board's resolution affecting that automotive service station or garage, provided that all other requirements of the resolution in each case shall be complied with.
+
+
+
+
 Chapter 1: Rules of Practice and Procedures New York City Board of Standards and Appeals
 --------------------------------------------------
 
@@ -312,19 +325,6 @@ This table is intended to serve as a summary. Please see the full text of the as
 2 Applications for pre-1961 use and bulk grants or transient parking waivers, where the time is specified only as a condition in the Board's resolution, may be filed on the SOC calendar as an amendment to modify such time period provided that the applicant requests a waiver.
 
 This table is intended to serve as a summary. Please see the full text of the associated rule for all requirements.
-
-
-
-
-Chapter 2: Automotive Service Stations and Garages
---------------------------------------------------
-
-
-
-*§ 2-01 Changes in Underground Storage Tank Number, Capacity or Location.* ::
-
-
-If on any automotive service station or storage garage which has been erected under a variance or permit granted by the Board, it is proposed to change the number, capacity or location of underground storage tanks in compliance with the requirements of the Administrative Code, such tank changes shall be deemed to be in substantial compliance with the terms and conditions of the Board's resolution affecting that automotive service station or garage, provided that all other requirements of the resolution in each case shall be complied with.
 
 
 
@@ -2541,6 +2541,85 @@ All doors for which approved automatic operators which open by swinging inwardly
 
 
 
+Chapter 6: Elevators
+--------------------------------------------------
+
+
+
+*§ 6-01 Elevator Readiness and Operator Availability to Assist in Fire Department Access During Hours When the Building is Normally Closed.* ::
+
+
+In a building over 150 feet in height protected throughout with an approved sprinkler system having connection to Fire Headquarters through an approved Central Station, there may be, in substitution for the requirements of Administrative Code §§ 27-989 and 27-4270, a service maintained by a responsible company, organization or agency hereinafter referred to as Agency, which shall maintain one or more offices, as hereinafter provided, for the purpose of providing elevator-in-readiness service located in the vicinity to assure prompt service as hereinafter required to the satisfaction of the Fire Commissioner. The number and location of Agency offices shall be determined by the number and location of buildings being serviced within the area of this section in Manhattan. The area in Manhattan in which owners of buildings may apply for a variance under the terms of this section is limited to 23rd Street on the south, 42nd Street on the north, Third Avenue on the east, and Tenth Avenue on the west. This area is divided, for the purposes of Fire Department response evaluations into a North and South Zone along 34th Street from Third Avenue to Tenth Avenue. A minimum of two offices shall be required for any Agency serving buildings within both the North and South Zones. Such agencies serving buildings in the North and South Zones shall establish a minimum of one office in each Zone, located to the satisfaction of the Fire Commissioner. Every application for a variance under this section shall be evaluated by the Fire Commissioner for acceptable response times by the agency providing service and he shall report his findings to the Board. In such offices there shall be private direct lines connected to all approved central stations and the Agency shall contract with all approved central stations to the end that such stations shall notify the Agency immediately via the above-required telephone of any alarm shown on their board indicating sprinkler action during the hours when the building is normally not open and elevators not manned. The Agency shall provide two elevator operators in each office on each shift who shall have no duties other than the elevator-in-readiness service.
+
+Said employees will work the following hours:
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - Monday
+      -  – 10:00 P.M.
+      -  – 7:00 A.M.
+    * - Tuesday
+      -  – 10:00 P.M.
+      -  – 7:00 A.M.
+    * - Wednesday
+      -  – 10:00 P.M.
+      -  – 7:00 A.M.
+    * - Thursday
+      -  – 10:00 P.M.
+      -  – 7:00 A.M.
+    * - Friday
+      -  – 10:00 P.M.
+      -  – 7:00 A.M.
+    * - Saturday
+      -  –   8:00 P.M.
+      - to Monday 7:00 A.M.
+    * - Holidays
+      -  –   8:00 P.M.
+      - on holiday eve to
+    * -  
+      -  –   7:00 A.M.
+      - on day after holiday
+~
+
+ 
+
+The foregoing schedule calls for a total of 160 hours a week. The elevator operators shall be available to respond immediately upon receipt of an alarm. The Agency shall submit an affidavit to the Fire Commissioner listing the name of any employee designated as an elevator-in-readiness operator and attesting that said employee:
+
+(a) Has been properly trained as an elevator-in-readiness operator, has working knowledge in the emergency use of elevators and meets the requirements of § 27-1005 of the Administrative Code.
+
+(b) Can speak and understand the English language.
+
+(c) Has knowledge of response routes to buildings serviced by the Agency.
+
+(d) Is familiar with each premises to which they respond.
+
+(e) Is knowledgeable in the use of the mobile radio.
+
+When the Agency receives a telephone notice of alarm from a central station, it shall immediately dispatch a qualified elevator operator with keys to the building and to the elevator who shall open the building and place the elevator in operating condition and assist the Fire Department in gaining access to any portion of the building. Such elevator operator shall have for his use a motor vehicle furnished by such Agency kept in a building or open lot or street within 100 feet of the office of the Agency. Such motor vehicle shall be one of two maintained by the Agency at each office exclusively for responding to alarms and shall be equipped with mobile radios capable of receiving and transmitting with their office. In the office of the Agency at least two elevator operators shall be available to respond to alarms. There shall be a key board in each office with keys to the entrance door and elevator kept properly tagged for all buildings being served by the Agency.
+
+In the event there are several elevators in a building, the owner shall specify, subject to the approval of the Fire Department and the Board, which elevator or elevators, not exceeding two, shall be available under this service and such available elevator or elevators shall be parked at the first floor. Hoistway doors leading thereto shall be equipped with a parking lock or other device satisfactory to the Department of Buildings, so arranged as to prevent the opening of the doors from the landing side with the service key unless the car is at the landing and such key shall open no other door. A duplicate of such parking lock key shall be maintained in a break glass box in the lobby adjacent to such available elevators.
+
+Power for available elevators shall be on at all times, controlled by a switch in the car and there shall be installed at the main power switch in the main panel board, or in the motor room, a disconnecting switch so arranged that the switch can be readily disconnected for service, repair and inspection, and in any emergency. To accomplish this, a standard approved type cabinet switch shall be used and the cabinet and projecting handle for the manual application of the switch shall be locked in a closed position with a key to the lock contained in a break-glass box located adjacent to the switch with a sign conspicuously displayed on the switch cabinet cover that such switch is locked in a closed position in accordance with this section and that the key located in the adjacent break-glass box may be used to obtain access to such switch for repair, service and inspection purposes only or in the event of emergency.
+
+Each building subject to the provisions of this section shall be inspected by the Agency at least twice each week and records kept of such inspections; and that at such inspections the elevator doors, keys and other equipment pertaining to the operation of the service shall be examined to maintain safe conditions. In order to insure familiarity with, and knowledge of each building, these inspections shall be the responsibility of, and shall be carried out by those employees who have been designated as qualified elevator operators whose duties are responding to alarms in accordance with this section. The inspections shall be conducted after the normal business hours of the building.
+
+The Agency shall keep such records and forward reports of its service as the Fire Commissioner shall require.
+
+In the event an Agency providing the response service is to be changed, the request for change shall be in the form of an application to the Board of Standards and Appeals to amend a previous resolution relating to the specific building where a change in the agency providing the response service is to take place.
+
+A copy of the application to amend shall be submitted to the Fire Department at the time of filing with the Board.
+
+The terms of this section shall be applied only upon the filing of an appeal by an owner of a building of the type and within the area described, for a variance based on a decision of the Fire Commissioner and favorable action taken by the Board.
+
+In the event the owner of a premises which is subject to a variance conditioned upon the terms of this section discontinues the service with the Agency, the Agency shall immediately notify the Fire Commissioner in writing. The term of variance granted hereunder shall not exceed ten (10) years from the date of the variance. During such term, the Board reserves the right to amend the requirements.
+
+
+
+
 Chapter 5: Dry Cleaning Establishments
 --------------------------------------------------
 
@@ -2956,85 +3035,6 @@ In connection with Article II, § 4, Subsection 53, Subdivision (a) of the Zonin
 (k) Penalties. Any violation of these rules shall be subject to the penalties prescribed in the Zoning Resolution therefor, in addition to other penalties prescribed by law.
 
 (l) Severability. If any term, part or provision of any of the aforesaid rules shall be held unconstitutional or ineffective in whole or in part, such determination shall not be deemed to invalidate the remaining terms, parts or provisions of these rules.
-
-
-
-
-Chapter 6: Elevators
---------------------------------------------------
-
-
-
-*§ 6-01 Elevator Readiness and Operator Availability to Assist in Fire Department Access During Hours When the Building is Normally Closed.* ::
-
-
-In a building over 150 feet in height protected throughout with an approved sprinkler system having connection to Fire Headquarters through an approved Central Station, there may be, in substitution for the requirements of Administrative Code §§ 27-989 and 27-4270, a service maintained by a responsible company, organization or agency hereinafter referred to as Agency, which shall maintain one or more offices, as hereinafter provided, for the purpose of providing elevator-in-readiness service located in the vicinity to assure prompt service as hereinafter required to the satisfaction of the Fire Commissioner. The number and location of Agency offices shall be determined by the number and location of buildings being serviced within the area of this section in Manhattan. The area in Manhattan in which owners of buildings may apply for a variance under the terms of this section is limited to 23rd Street on the south, 42nd Street on the north, Third Avenue on the east, and Tenth Avenue on the west. This area is divided, for the purposes of Fire Department response evaluations into a North and South Zone along 34th Street from Third Avenue to Tenth Avenue. A minimum of two offices shall be required for any Agency serving buildings within both the North and South Zones. Such agencies serving buildings in the North and South Zones shall establish a minimum of one office in each Zone, located to the satisfaction of the Fire Commissioner. Every application for a variance under this section shall be evaluated by the Fire Commissioner for acceptable response times by the agency providing service and he shall report his findings to the Board. In such offices there shall be private direct lines connected to all approved central stations and the Agency shall contract with all approved central stations to the end that such stations shall notify the Agency immediately via the above-required telephone of any alarm shown on their board indicating sprinkler action during the hours when the building is normally not open and elevators not manned. The Agency shall provide two elevator operators in each office on each shift who shall have no duties other than the elevator-in-readiness service.
-
-Said employees will work the following hours:
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - Monday
-      -  – 10:00 P.M.
-      -  – 7:00 A.M.
-    * - Tuesday
-      -  – 10:00 P.M.
-      -  – 7:00 A.M.
-    * - Wednesday
-      -  – 10:00 P.M.
-      -  – 7:00 A.M.
-    * - Thursday
-      -  – 10:00 P.M.
-      -  – 7:00 A.M.
-    * - Friday
-      -  – 10:00 P.M.
-      -  – 7:00 A.M.
-    * - Saturday
-      -  –   8:00 P.M.
-      - to Monday 7:00 A.M.
-    * - Holidays
-      -  –   8:00 P.M.
-      - on holiday eve to
-    * -  
-      -  –   7:00 A.M.
-      - on day after holiday
-~
-
- 
-
-The foregoing schedule calls for a total of 160 hours a week. The elevator operators shall be available to respond immediately upon receipt of an alarm. The Agency shall submit an affidavit to the Fire Commissioner listing the name of any employee designated as an elevator-in-readiness operator and attesting that said employee:
-
-(a) Has been properly trained as an elevator-in-readiness operator, has working knowledge in the emergency use of elevators and meets the requirements of § 27-1005 of the Administrative Code.
-
-(b) Can speak and understand the English language.
-
-(c) Has knowledge of response routes to buildings serviced by the Agency.
-
-(d) Is familiar with each premises to which they respond.
-
-(e) Is knowledgeable in the use of the mobile radio.
-
-When the Agency receives a telephone notice of alarm from a central station, it shall immediately dispatch a qualified elevator operator with keys to the building and to the elevator who shall open the building and place the elevator in operating condition and assist the Fire Department in gaining access to any portion of the building. Such elevator operator shall have for his use a motor vehicle furnished by such Agency kept in a building or open lot or street within 100 feet of the office of the Agency. Such motor vehicle shall be one of two maintained by the Agency at each office exclusively for responding to alarms and shall be equipped with mobile radios capable of receiving and transmitting with their office. In the office of the Agency at least two elevator operators shall be available to respond to alarms. There shall be a key board in each office with keys to the entrance door and elevator kept properly tagged for all buildings being served by the Agency.
-
-In the event there are several elevators in a building, the owner shall specify, subject to the approval of the Fire Department and the Board, which elevator or elevators, not exceeding two, shall be available under this service and such available elevator or elevators shall be parked at the first floor. Hoistway doors leading thereto shall be equipped with a parking lock or other device satisfactory to the Department of Buildings, so arranged as to prevent the opening of the doors from the landing side with the service key unless the car is at the landing and such key shall open no other door. A duplicate of such parking lock key shall be maintained in a break glass box in the lobby adjacent to such available elevators.
-
-Power for available elevators shall be on at all times, controlled by a switch in the car and there shall be installed at the main power switch in the main panel board, or in the motor room, a disconnecting switch so arranged that the switch can be readily disconnected for service, repair and inspection, and in any emergency. To accomplish this, a standard approved type cabinet switch shall be used and the cabinet and projecting handle for the manual application of the switch shall be locked in a closed position with a key to the lock contained in a break-glass box located adjacent to the switch with a sign conspicuously displayed on the switch cabinet cover that such switch is locked in a closed position in accordance with this section and that the key located in the adjacent break-glass box may be used to obtain access to such switch for repair, service and inspection purposes only or in the event of emergency.
-
-Each building subject to the provisions of this section shall be inspected by the Agency at least twice each week and records kept of such inspections; and that at such inspections the elevator doors, keys and other equipment pertaining to the operation of the service shall be examined to maintain safe conditions. In order to insure familiarity with, and knowledge of each building, these inspections shall be the responsibility of, and shall be carried out by those employees who have been designated as qualified elevator operators whose duties are responding to alarms in accordance with this section. The inspections shall be conducted after the normal business hours of the building.
-
-The Agency shall keep such records and forward reports of its service as the Fire Commissioner shall require.
-
-In the event an Agency providing the response service is to be changed, the request for change shall be in the form of an application to the Board of Standards and Appeals to amend a previous resolution relating to the specific building where a change in the agency providing the response service is to take place.
-
-A copy of the application to amend shall be submitted to the Fire Department at the time of filing with the Board.
-
-The terms of this section shall be applied only upon the filing of an appeal by an owner of a building of the type and within the area described, for a variance based on a decision of the Fire Commissioner and favorable action taken by the Board.
-
-In the event the owner of a premises which is subject to a variance conditioned upon the terms of this section discontinues the service with the Agency, the Agency shall immediately notify the Fire Commissioner in writing. The term of variance granted hereunder shall not exceed ten (10) years from the date of the variance. During such term, the Board reserves the right to amend the requirements.
 
 
 

@@ -194,115 +194,6 @@ Upon request from a child care child care program, the Department shall provide 
 
 
 
-Chapter 5: Pet Shops
---------------------------------------------------
-
-
-
-*§ 5-01 Scope and applicability.* ::
-
-
-This Chapter applies to any retail sale of a dog or a cat by a pet shop located in New York City that is subject to Chapters 3, 8, and 17 of Title 17 of the Administrative Code. It does not apply to the sale of a cat or dog by a person who breeds and sells directly to consumers fewer than a total of 25 dogs and cats per calendar year where such dogs and cats are born and raised on the breeder’s residential premises. It also does not apply to the sale of any other animal by a pet shop operated in accordance with a permit issued by the Commissioner pursuant to 24 RCNY Health Code §§ 5.07 and 161.09. Nothing in this Chapter exempts a pet shop from also complying with any applicable provisions of the Health Code.
-
-
-
-
-
-
-
-
-*§ 5-02 Definitions.* ::
-
-
-When used in this Chapter, the following terms have the following meanings:
-
-Class A license. “Class A license” means a license issued to a dog or cat breeder by the USDA under the Federal Animal Welfare Act  and USDA regulations (9 C.F.R. Chapter 1, Subchapter A).
-
-Permittee. “Permittee” means a person operating a pet shop in the City of New York where dogs or cats are sold with a permit issued by the Commissioner pursuant to § 17-372 of the Administrative Code.
-
-Pet shop. “Pet shop” has the same meaning as in § 17-371 of the Administrative Code.
-
-
-
-
-
-
-
-
-*§ 5-03 Records.* ::
-
-
-(a) Form and manner of records required to document information about dogs and cats sold. For each dog or cat sold, a permittee must collect and maintain the information required by §§ 17-804(c), 17-815, and 17-1704 of the Administrative Code on forms provided by the Department. The forms may be kept in hard copy or as an electronic record and must be held for five years, except that the signed purchaser statement must be kept for 10 years. Records must be made available upon request to the Department or New York City Police Department (NYPD) officers authorized to enforce New York humane laws.
-
-(b) Sources of dogs and cats. Any pet shop that displays, offers for sale, delivers, barters, auctions, gives away, transfers, or sells any dog or cat must obtain such dog or cat from a USDA Class A licensed breeder that, as of the date such pet shop receives such animal, has not received any of the citations or orders specified in Administrative Code § 17-1702(a)(2) in connection with its USDA Class A license, to the extent that such information is available from the USDA. In order to satisfy that requirement, such pet shop must, prior to displaying, offering for sale, delivering, bartering, auctioning, giving away, transferring, or selling a dog or cat, diligently check the USDA website for the information and documents specified in Administrative Code § 17-1702(a)(2); obtain such information and documents from such website to the extent that they are available there; and, to the extent that such information and documents are not available on such website,
-
-   (1) prepare a statement, signed and dated by the pet shop on the date it checked the USDA website, listing any of the prior three years for which inspection reports regarding the breeder that was the source of the animal were unavailable on the date checked, and listing any of the prior five years for which USDA administrative law judge decisions were unavailable on the date checked, which statement must be kept on site and available for inspection upon request; and
-
-   (2) obtain an affidavit, sworn to by the USDA Class A licensed breeder that was the source of the animal, attesting that as of the date the pet shop received the animal such breeder has not received any of the citations or orders specified in Administrative Code § 17-1702(a)(2) in connection with its USDA license, which affidavit must be kept on site and available for inspection upon request.
-
-(c) Source affidavit. A permittee must obtain a sworn and notarized affidavit from every USDA Class A licensed breeder supplying a cat or dog to the permittee, stating that as of the date the permittee received such animal:
-
-   (1) the breeder’s USDA Class A license has not received a finally determined order from the USDA during the prior five years, in connection with its USDA class A license, to cease and desist or to pay a civil penalty;
-
-   (2) the breeder’s USDA class A license has not been suspended during the prior five years;
-
-   (3) the breeder has never been convicted in any jurisdiction of an animal abuse crime;
-
-   (4) the breeder has not been convicted in the last five years of a violation of the minimum standards of animal care provided for in New York Agriculture and Markets Law § 401; and
-
-   (5) the breeder has not received any of the citations or orders specified in Administrative Code § 17-1702(a)(2) in connection with its USDA Class A license (if required pursuant to 24 RCNY § 5-03(b)(2)).
-
-(d) Alternative timing of affidavits. An affidavit provided to a pet shop from the source of a dog or cat pursuant to this Chapter may be sworn prior to the date the pet shop receives the animal, although no earlier than the date the animal leaves the possession of the source, if, together with the affidavit, the source provides the pet shop with unredacted copies of all USDA inspection reports it received in the three years prior to the swearing of the affidavit, and the affidavit includes a promise to advise the pet shop immediately if, after the affidavit is sworn but before the pet shop’s receipt of the animal, the source receives any of the citations, orders, or convictions specified in Administrative Code § 17-1702(a)(2).
-
-(e) Statements and documents required to be provided to purchasers of dogs and cats. A pet shop selling a dog or cat must provide to each purchaser, and to any prospective purchaser upon request, the statement and documents required by § 17-1703(a) of the Administrative Code, on forms made available by the Department to the extent applicable. Such pet shop must also provide to every purchaser the information and documents required by Administrative Code § 17-815, on forms made available by the Department to the extent applicable.
-
-(f) Copying charges. When a prospective purchaser requests a paper copy of the USDA inspection report(s) related to the breeder that is the source of a specific dog or cat, a permittee must provide the two most recent USDA inspection reports, to the extent that such reports were available from the USDA when the pet shop received the animal or were provided to the pet shop by the breeder, and may charge the requester up to $.25 per page. A permittee may not charge a purchaser for providing statements or any other document that must be provided to a purchaser or to the Department or the NYPD.
-
-(g) Sign. Every pet shop selling dogs or cats must post conspicuously, in close proximity to the cages of such dogs and cats offered for sale, notices containing the following language in one hundred-point type: “Information on the source of these dogs and cats and the veterinary treatments received by these dogs and cats is available for review by prospective purchasers. United States Department of Agriculture inspection reports are available upon request.”
-
-
-
-
-
-
-
-
-*§ 5-04 Dog licenses.* ::
-
-
-Before selling any dog, a pet shop must obtain from the prospective purchaser an application and the appropriate fee for a dog license, or a written statement from the purchaser that the dog will live outside of the City of New York and a copy of a document establishing that the purchaser’s residence is outside the City. Such documentation may include a copy of a utility bill, driver’s license, tax bill, or other official government document and must be made available for inspection upon request. The pet shop must send each license application and fee to the Department electronically, in person, or by mail, so long as the Department receives the application and fee within 10 business days of the sale of the dog to the purchaser. Failure to provide such required application and fee to the Department within such 10 business-day period will subject the pet shop to civil penalties pursuant to Administrative Code § 17-1707.
-
-
-
-
-
-
-
-
-*§ 5-05 Adoption promotions at pet shops.* ::
-
-
-(a) A pet shop that allows an animal shelter or non-profit animal rescue group to use its facilities to offer animals for adoption must obtain a copy of either the permit issued to the animal shelter by the Commissioner pursuant to 24 RCNY Health Code § 161.09, or proof of the animal rescue group’s incorporated not-for-profit status. Whenever the animal shelter or rescue group is offering animals for adoption at the pet shop, the pet shop must have on site, and available for inspection upon request, the shelter permit or animal rescue group’s proof of not-forprofit status, and the shelter or animal rescue group’s registration of such status and exemption, issued by the New York State Department of Agriculture and Markets pursuant to New York State Agriculture and Markets Law Section 408.3, from the definition of “pet dealer” set forth in New York State Agriculture and Markets Law Section 400.4.
-
-(b) A pet shop will not be required to comply with the requirements of 24 RCNY §§ 5-03 and 5-04 regarding any dog or cat offered for adoption by an animal shelter or animal rescue organization using such pet shop’s facilities, provided that such pet shop does not have an ownership interest in such animal.
-
-
-
-
-
-
-
-
-*§ 5-06 Enforcement.* ::
-
-
-Employees and agents of the Department and officers of the NYPD are authorized to enforce the provisions of this Chapter.
-
-
-
-
-
-
 Chapter 4: Health, Safety and Well-being of Rental Horses
 --------------------------------------------------
 
@@ -515,151 +406,109 @@ Each person registering for the training program offered to drivers of horse dra
 
 **APPENDIX A**
 
-Chapter 7: Adjudicatory Hearings and Violation Fines and Penalties
+Chapter 5: Pet Shops
 --------------------------------------------------
 
 
 
-*§ 7-01 Definitions.* ::
+*§ 5-01 Scope and applicability.* ::
+
+
+This Chapter applies to any retail sale of a dog or a cat by a pet shop located in New York City that is subject to Chapters 3, 8, and 17 of Title 17 of the Administrative Code. It does not apply to the sale of a cat or dog by a person who breeds and sells directly to consumers fewer than a total of 25 dogs and cats per calendar year where such dogs and cats are born and raised on the breeder’s residential premises. It also does not apply to the sale of any other animal by a pet shop operated in accordance with a permit issued by the Commissioner pursuant to 24 RCNY Health Code §§ 5.07 and 161.09. Nothing in this Chapter exempts a pet shop from also complying with any applicable provisions of the Health Code.
+
+
+
+
+
+
+
+
+*§ 5-02 Definitions.* ::
 
 
 When used in this Chapter, the following terms have the following meanings:
 
-(a) Administrative Code or Admin. Code refers to the Administrative Code of the City of New York.
+Class A license. “Class A license” means a license issued to a dog or cat breeder by the USDA under the Federal Animal Welfare Act  and USDA regulations (9 C.F.R. Chapter 1, Subchapter A).
 
-(b) Charter means the New York City Charter.
+Permittee. “Permittee” means a person operating a pet shop in the City of New York where dogs or cats are sold with a permit issued by the Commissioner pursuant to § 17-372 of the Administrative Code.
 
-(c) Environmental Control Board is the board that exists in the OATH Hearings Division pursuant to Charter §1049-a.
+Pet shop. “Pet shop” has the same meaning as in § 17-371 of the Administrative Code.
 
-(d) NYCHC or Health Code refers to the New York City Health Code, found in Title 24 of the Rules of the City of New York.
 
-(e) NYSPHL refers to the New York State Public Health Law.
 
-(f) OATH Trials Division is the tribunal of the Office of Administrative Trials and Hearings (OATH), established by Charter § 1048(1) to conduct adjudicatory hearings for all agencies of the City of New York.
 
-(g) OATH Hearings Division includes the tribunal established by the Board of Health pursuant to Charter § 558 and transferred to OATH by Mayoral Executive Order 148 (2011).
 
-(h) Premises refer to real property consisting of a building and land on which it is situated. "Same premises" refers to (i) a specific building, or (ii) a group of buildings co-located in a development owned by the same entity.
 
-(i) RCNY refers to the Rules of the City of New York.
 
 
+*§ 5-03 Records.* ::
 
 
+(a) Form and manner of records required to document information about dogs and cats sold. For each dog or cat sold, a permittee must collect and maintain the information required by §§ 17-804(c), 17-815, and 17-1704 of the Administrative Code on forms provided by the Department. The forms may be kept in hard copy or as an electronic record and must be held for five years, except that the signed purchaser statement must be kept for 10 years. Records must be made available upon request to the Department or New York City Police Department (NYPD) officers authorized to enforce New York humane laws.
 
+(b) Sources of dogs and cats. Any pet shop that displays, offers for sale, delivers, barters, auctions, gives away, transfers, or sells any dog or cat must obtain such dog or cat from a USDA Class A licensed breeder that, as of the date such pet shop receives such animal, has not received any of the citations or orders specified in Administrative Code § 17-1702(a)(2) in connection with its USDA Class A license, to the extent that such information is available from the USDA. In order to satisfy that requirement, such pet shop must, prior to displaying, offering for sale, delivering, bartering, auctioning, giving away, transferring, or selling a dog or cat, diligently check the USDA website for the information and documents specified in Administrative Code § 17-1702(a)(2); obtain such information and documents from such website to the extent that they are available there; and, to the extent that such information and documents are not available on such website,
 
+   (1) prepare a statement, signed and dated by the pet shop on the date it checked the USDA website, listing any of the prior three years for which inspection reports regarding the breeder that was the source of the animal were unavailable on the date checked, and listing any of the prior five years for which USDA administrative law judge decisions were unavailable on the date checked, which statement must be kept on site and available for inspection upon request; and
 
+   (2) obtain an affidavit, sworn to by the USDA Class A licensed breeder that was the source of the animal, attesting that as of the date the pet shop received the animal such breeder has not received any of the citations or orders specified in Administrative Code § 17-1702(a)(2) in connection with its USDA license, which affidavit must be kept on site and available for inspection upon request.
 
-*§ 7-02 Adjudications seeking civil fines.* ::
+(c) Source affidavit. A permittee must obtain a sworn and notarized affidavit from every USDA Class A licensed breeder supplying a cat or dog to the permittee, stating that as of the date the permittee received such animal:
 
+   (1) the breeder’s USDA Class A license has not received a finally determined order from the USDA during the prior five years, in connection with its USDA class A license, to cease and desist or to pay a civil penalty;
 
-In accordance with Charter §§ 1041 and 1046, adjudicatory hearings commenced by service of a civil summons or notice of violation seeking a civil fine or monetary penalty for violations of State and local law enforced by the Department shall be conducted by the OATH Hearings Division.
+   (2) the breeder’s USDA class A license has not been suspended during the prior five years;
 
+   (3) the breeder has never been convicted in any jurisdiction of an animal abuse crime;
 
+   (4) the breeder has not been convicted in the last five years of a violation of the minimum standards of animal care provided for in New York Agriculture and Markets Law § 401; and
 
+   (5) the breeder has not received any of the citations or orders specified in Administrative Code § 17-1702(a)(2) in connection with its USDA Class A license (if required pursuant to 24 RCNY § 5-03(b)(2)).
 
+(d) Alternative timing of affidavits. An affidavit provided to a pet shop from the source of a dog or cat pursuant to this Chapter may be sworn prior to the date the pet shop receives the animal, although no earlier than the date the animal leaves the possession of the source, if, together with the affidavit, the source provides the pet shop with unredacted copies of all USDA inspection reports it received in the three years prior to the swearing of the affidavit, and the affidavit includes a promise to advise the pet shop immediately if, after the affidavit is sworn but before the pet shop’s receipt of the animal, the source receives any of the citations, orders, or convictions specified in Administrative Code § 17-1702(a)(2).
 
+(e) Statements and documents required to be provided to purchasers of dogs and cats. A pet shop selling a dog or cat must provide to each purchaser, and to any prospective purchaser upon request, the statement and documents required by § 17-1703(a) of the Administrative Code, on forms made available by the Department to the extent applicable. Such pet shop must also provide to every purchaser the information and documents required by Administrative Code § 17-815, on forms made available by the Department to the extent applicable.
 
+(f) Copying charges. When a prospective purchaser requests a paper copy of the USDA inspection report(s) related to the breeder that is the source of a specific dog or cat, a permittee must provide the two most recent USDA inspection reports, to the extent that such reports were available from the USDA when the pet shop received the animal or were provided to the pet shop by the breeder, and may charge the requester up to $.25 per page. A permittee may not charge a purchaser for providing statements or any other document that must be provided to a purchaser or to the Department or the NYPD.
 
+(g) Sign. Every pet shop selling dogs or cats must post conspicuously, in close proximity to the cages of such dogs and cats offered for sale, notices containing the following language in one hundred-point type: “Information on the source of these dogs and cats and the veterinary treatments received by these dogs and cats is available for review by prospective purchasers. United States Department of Agriculture inspection reports are available upon request.”
 
-*§ 7-03 Mandatory fines and penalties.* ::
 
 
-(a) Fixed penalties. When a monetary fine or penalty for a violation enforced by the Department is specified in the Health Code, a rule of the Department, including in Appendix 7-A of this Chapter, or in any other applicable law, a hearing officer must impose that fine or penalty if the hearing officer sustains the violation.
 
-(b) Other Health Code violations. Fines imposed for Health Code violations that are not specified in Appendix 7-A of this Chapter or in another law or rule must be within the range provided in 24 RCNY Health Code § 3.11 or a successor provision.
 
 
 
 
+*§ 5-04 Dog licenses.* ::
 
 
+Before selling any dog, a pet shop must obtain from the prospective purchaser an application and the appropriate fee for a dog license, or a written statement from the purchaser that the dog will live outside of the City of New York and a copy of a document establishing that the purchaser’s residence is outside the City. Such documentation may include a copy of a utility bill, driver’s license, tax bill, or other official government document and must be made available for inspection upon request. The pet shop must send each license application and fee to the Department electronically, in person, or by mail, so long as the Department receives the application and fee within 10 business days of the sale of the dog to the purchaser. Failure to provide such required application and fee to the Department within such 10 business-day period will subject the pet shop to civil penalties pursuant to Administrative Code § 17-1707.
 
 
-*§ 7-04 Fines for unspecified violations of 24 RCNY Health Code Articles 43 and 47.* ::
 
 
-The penalty for a violation of any provision of 24 RNCY Health Code Article 47 (Child Care Programs) or Article 43 (School-Based Programs for Children Ages Three Through Five) that is not listed in Appendix 7-A of this Chapter shall be $200. The penalty must be doubled to $400 if the hearing officer finds the respondent in default.
 
 
 
 
+*§ 5-05 Adoption promotions at pet shops.* ::
 
 
+(a) A pet shop that allows an animal shelter or non-profit animal rescue group to use its facilities to offer animals for adoption must obtain a copy of either the permit issued to the animal shelter by the Commissioner pursuant to 24 RCNY Health Code § 161.09, or proof of the animal rescue group’s incorporated not-for-profit status. Whenever the animal shelter or rescue group is offering animals for adoption at the pet shop, the pet shop must have on site, and available for inspection upon request, the shelter permit or animal rescue group’s proof of not-forprofit status, and the shelter or animal rescue group’s registration of such status and exemption, issued by the New York State Department of Agriculture and Markets pursuant to New York State Agriculture and Markets Law Section 408.3, from the definition of “pet dealer” set forth in New York State Agriculture and Markets Law Section 400.4.
 
+(b) A pet shop will not be required to comply with the requirements of 24 RCNY §§ 5-03 and 5-04 regarding any dog or cat offered for adoption by an animal shelter or animal rescue organization using such pet shop’s facilities, provided that such pet shop does not have an ownership interest in such animal.
 
-*§ 7-05 Escalation of fines for rodent violations.* ::
 
 
-Pursuant to Administrative Code § 17-133.1, the standard fine for a violation of 24 RCNY Health Code § 151.02 of the Health Code that pertains to the eradication or elimination of rodents, rodent harborages or other rodent related nuisances must be $300. The fine for each subsequent violation at the same premises and under the same ownership or control within a two-year period must be double the amount of the penalty for the previous violation but may not exceed the maximum fine for any Health Code violation.
 
 
 
 
 
+*§ 5-06 Enforcement.* ::
 
 
-
-*§ 7-06 Standing water violations.* ::
-
-
-The penalty for a violation of 24 RCNY Health Code § 151.03 shall vary depending on whether the accumulation of standing water that is the basis of the violation is determined to be minor, moderate or extensive.
-
-(a) Minor violations consist of small amounts of standing water and decomposing matter in one or more outdoor containers with a diameter of three to 24 inches and a capacity of five or fewer gallons of water. Examples of types of containers include trash cans, buckets, birdbaths, fountains, roof gutters and roof puddles and in accumulations of one to four tires.
-
-(b) Moderate violations consist of larger amounts of standing water and decomposing matter than the amounts stated for minor violations. These include ponded water accumulations of less than 10 square feet. Examples of where this amount of water and decomposing matter may be found include ditches, swimming pool covers, ponds, outdoor containers without lids holding five or more gallons of water and in accumulations of five to 20 tires.
-
-(c) Extensive violations consist of standing water and decomposing matter accumulations covering 10 or more square feet. Examples of where this amount of water and decomposing matter may be found include open foundation construction sites, swimming pools with stagnant untreated or improperly treated water and in accumulations of more than 20 tires.
-
-
-
-
-
-
-
-
-*§ 7-07 Fines for other repeat violations.* ::
-
-
-(a) Summons issued to the owner or other person in control of premises. For summonses alleging that the owner or person in control of a premises or regulated business has committed a "repeat violation" other than one provided for in 24 RCNY § 7-05, the hearing officer must impose the fine listed in Appendix 7-A of this Chapter for a repeat violation if, within the previous 12 months, the respondent was found to have violated the same provision of law at the same premises.
-
-(b) Summons issued to certain contractors. For any summons alleging that a contractor committed a repeat violation of 24 RCNY Health Code § 173.14 by disturbing lead based paint or paint of unknown lead content while performing work in a premises, the hearing officer must impose the fine specified in Appendix 7-A of this Chapter for a repeat violation if the hearing officer determines that the contractor violated the same provision of law in any premises during the previous 12 months.
-
-(c) Unproved repeat violation to be considered an initial violation. If a hearing officer finds that a respondent committed the violation alleged in the summons, but that the violation is not a repeat violation because the same provision of law was not violated within the previous 12 months, the hearing officer must impose the fine listed in Appendix 7-A of this Chapter for an initial violation of that provision.
-
-
-
-
-
-
-
-
-*§ 7-08 Defaults.* ::
-
-
-If a respondent fails to appear to answer a summons and is found in default, the penalty imposed for a violation of the Health Code must be twice the amount set forth in Appendix 7-A of this Chapter or $2,000, whichever is lower. Fines imposed when a respondent is found in default for violations of other provisions of law may not exceed the amount stated in Appendix 7-A of this Chapter.
-
-
-
-
-
-
-
-
-*§ 7-09 Other adjudications.* ::
-
-
-Pursuant to Charter § 1048, the Commissioner delegates to the OATH Trials Division authority to conduct hearings of matters pertaining to the enforcement of State and local law within the jurisdiction of the Department where an OATH administrative law judge shall make and submit recommended findings of fact, decisions, determinations and orders to the Commissioner who shall make final findings, determinations and orders in accordance with 24 RCNY Health Code Article 5 or other applicable law. Such hearings include but are not limited to matters where a respondent must be provided with a hearing or an opportunity to be heard and show cause why the Commissioner should not issue an order or take other action (i) to suspend or revoke a license, permit or registration of a business or activity whose operation or conduct is deemed detrimental to the public health; (ii) to abate nuisances or other detrimental health conditions, including closing, padlocking and sealing premises deemed a public nuisance; (iii) to require an entity to cease and desist from specific acts that endanger public health; or (iv) with respect to Department employee matters pursuant to New York Civil Service Law.
-
-
-
-
-
-
-
-
-*Appendix 7-A: Penalty Schedule.* ::
-
+Employees and agents of the Department and officers of the NYPD are authorized to enforce the provisions of this Chapter.
 
 
 
@@ -1430,6 +1279,157 @@ A mobile food vending unit must have a letter grade posted at all times, as requ
 
 
 *Appendix 6-C-3: Mobile Food Vending Unit (MFVU) Penalty Schedule Violations Administrative Code and Multiple Offense Schedule (MOS).* ::
+
+
+
+
+
+
+
+Chapter 7: Adjudicatory Hearings and Violation Fines and Penalties
+--------------------------------------------------
+
+
+
+*§ 7-01 Definitions.* ::
+
+
+When used in this Chapter, the following terms have the following meanings:
+
+(a) Administrative Code or Admin. Code refers to the Administrative Code of the City of New York.
+
+(b) Charter means the New York City Charter.
+
+(c) Environmental Control Board is the board that exists in the OATH Hearings Division pursuant to Charter §1049-a.
+
+(d) NYCHC or Health Code refers to the New York City Health Code, found in Title 24 of the Rules of the City of New York.
+
+(e) NYSPHL refers to the New York State Public Health Law.
+
+(f) OATH Trials Division is the tribunal of the Office of Administrative Trials and Hearings (OATH), established by Charter § 1048(1) to conduct adjudicatory hearings for all agencies of the City of New York.
+
+(g) OATH Hearings Division includes the tribunal established by the Board of Health pursuant to Charter § 558 and transferred to OATH by Mayoral Executive Order 148 (2011).
+
+(h) Premises refer to real property consisting of a building and land on which it is situated. "Same premises" refers to (i) a specific building, or (ii) a group of buildings co-located in a development owned by the same entity.
+
+(i) RCNY refers to the Rules of the City of New York.
+
+
+
+
+
+
+
+
+*§ 7-02 Adjudications seeking civil fines.* ::
+
+
+In accordance with Charter §§ 1041 and 1046, adjudicatory hearings commenced by service of a civil summons or notice of violation seeking a civil fine or monetary penalty for violations of State and local law enforced by the Department shall be conducted by the OATH Hearings Division.
+
+
+
+
+
+
+
+
+*§ 7-03 Mandatory fines and penalties.* ::
+
+
+(a) Fixed penalties. When a monetary fine or penalty for a violation enforced by the Department is specified in the Health Code, a rule of the Department, including in Appendix 7-A of this Chapter, or in any other applicable law, a hearing officer must impose that fine or penalty if the hearing officer sustains the violation.
+
+(b) Other Health Code violations. Fines imposed for Health Code violations that are not specified in Appendix 7-A of this Chapter or in another law or rule must be within the range provided in 24 RCNY Health Code § 3.11 or a successor provision.
+
+
+
+
+
+
+
+
+*§ 7-04 Fines for unspecified violations of 24 RCNY Health Code Articles 43 and 47.* ::
+
+
+The penalty for a violation of any provision of 24 RNCY Health Code Article 47 (Child Care Programs) or Article 43 (School-Based Programs for Children Ages Three Through Five) that is not listed in Appendix 7-A of this Chapter shall be $200. The penalty must be doubled to $400 if the hearing officer finds the respondent in default.
+
+
+
+
+
+
+
+
+*§ 7-05 Escalation of fines for rodent violations.* ::
+
+
+Pursuant to Administrative Code § 17-133.1, the standard fine for a violation of 24 RCNY Health Code § 151.02 of the Health Code that pertains to the eradication or elimination of rodents, rodent harborages or other rodent related nuisances must be $300. The fine for each subsequent violation at the same premises and under the same ownership or control within a two-year period must be double the amount of the penalty for the previous violation but may not exceed the maximum fine for any Health Code violation.
+
+
+
+
+
+
+
+
+*§ 7-06 Standing water violations.* ::
+
+
+The penalty for a violation of 24 RCNY Health Code § 151.03 shall vary depending on whether the accumulation of standing water that is the basis of the violation is determined to be minor, moderate or extensive.
+
+(a) Minor violations consist of small amounts of standing water and decomposing matter in one or more outdoor containers with a diameter of three to 24 inches and a capacity of five or fewer gallons of water. Examples of types of containers include trash cans, buckets, birdbaths, fountains, roof gutters and roof puddles and in accumulations of one to four tires.
+
+(b) Moderate violations consist of larger amounts of standing water and decomposing matter than the amounts stated for minor violations. These include ponded water accumulations of less than 10 square feet. Examples of where this amount of water and decomposing matter may be found include ditches, swimming pool covers, ponds, outdoor containers without lids holding five or more gallons of water and in accumulations of five to 20 tires.
+
+(c) Extensive violations consist of standing water and decomposing matter accumulations covering 10 or more square feet. Examples of where this amount of water and decomposing matter may be found include open foundation construction sites, swimming pools with stagnant untreated or improperly treated water and in accumulations of more than 20 tires.
+
+
+
+
+
+
+
+
+*§ 7-07 Fines for other repeat violations.* ::
+
+
+(a) Summons issued to the owner or other person in control of premises. For summonses alleging that the owner or person in control of a premises or regulated business has committed a "repeat violation" other than one provided for in 24 RCNY § 7-05, the hearing officer must impose the fine listed in Appendix 7-A of this Chapter for a repeat violation if, within the previous 12 months, the respondent was found to have violated the same provision of law at the same premises.
+
+(b) Summons issued to certain contractors. For any summons alleging that a contractor committed a repeat violation of 24 RCNY Health Code § 173.14 by disturbing lead based paint or paint of unknown lead content while performing work in a premises, the hearing officer must impose the fine specified in Appendix 7-A of this Chapter for a repeat violation if the hearing officer determines that the contractor violated the same provision of law in any premises during the previous 12 months.
+
+(c) Unproved repeat violation to be considered an initial violation. If a hearing officer finds that a respondent committed the violation alleged in the summons, but that the violation is not a repeat violation because the same provision of law was not violated within the previous 12 months, the hearing officer must impose the fine listed in Appendix 7-A of this Chapter for an initial violation of that provision.
+
+
+
+
+
+
+
+
+*§ 7-08 Defaults.* ::
+
+
+If a respondent fails to appear to answer a summons and is found in default, the penalty imposed for a violation of the Health Code must be twice the amount set forth in Appendix 7-A of this Chapter or $2,000, whichever is lower. Fines imposed when a respondent is found in default for violations of other provisions of law may not exceed the amount stated in Appendix 7-A of this Chapter.
+
+
+
+
+
+
+
+
+*§ 7-09 Other adjudications.* ::
+
+
+Pursuant to Charter § 1048, the Commissioner delegates to the OATH Trials Division authority to conduct hearings of matters pertaining to the enforcement of State and local law within the jurisdiction of the Department where an OATH administrative law judge shall make and submit recommended findings of fact, decisions, determinations and orders to the Commissioner who shall make final findings, determinations and orders in accordance with 24 RCNY Health Code Article 5 or other applicable law. Such hearings include but are not limited to matters where a respondent must be provided with a hearing or an opportunity to be heard and show cause why the Commissioner should not issue an order or take other action (i) to suspend or revoke a license, permit or registration of a business or activity whose operation or conduct is deemed detrimental to the public health; (ii) to abate nuisances or other detrimental health conditions, including closing, padlocking and sealing premises deemed a public nuisance; (iii) to require an entity to cease and desist from specific acts that endanger public health; or (iv) with respect to Department employee matters pursuant to New York Civil Service Law.
+
+
+
+
+
+
+
+
+*Appendix 7-A: Penalty Schedule.* ::
 
 
 

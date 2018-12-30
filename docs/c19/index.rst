@@ -29074,681 +29074,6 @@ Reissued Medallions are Medallions that meet the following criteria:
 
 
 
-Chapter 67: Rules For Taxicab Hack-up and Maintenance
---------------------------------------------------
-
-
-
-*§ 67-01 Scope of this Chapter.* ::
-
-
-(a) To establish the standards and requirements for preparing a vehicle for Taxicab Licensing, and
-
-(b) To establish the standards and requirements for Taxicab maintenance, inspection and retirement.
-
-
-
-
-
-
-*§ 67-02 Penalties.* ::
-
-
-(a) This Chapter is informational in nature and does not contain penalties. Penalties for failure to follow the rules established in this Chapter will be found in 35 RCNY Chapter 80 and 35 RCNY Chapter 58 which establish specific requirements for the Drivers ot Taxicabsand owners.
-
-
-
-
-
-
-
-
-*§ 67-03 Definitions Specific to this Chapter.* ::
-
-
-(a) Clean Air Taxicab is a Clean Air Vehicle, as defined in 35 RCNY § 51-03, that has been Hacked-Up.
-
-(b) Rooftop Advertising Fixture means a device that incorporates the functions of a Roof Light with the displaying of advertising.
-
-(c) Rooftop Advertising Fixture Provider means the entity responsible for supplying the Rooftop Advertising Fixture to the Medallion Owner and maintaining the advertising material.
-
-
-
-
-
-
-
-
-*§ 67-04 Original Verification of Taxicab Candidate as Taxicab Model.* ::
-
-
-A Taxicab Candidate must meet the technical specifications in 35 RCNY § 67-05.1A, § 67-05.1B or § 67-05.2, as well as all applicable federal and New York State motor vehicle standards and requirements, in order to become a Taxicab Model.
-
-
-
-
-
-
-
-
-*§ 67-05 Taxicab Model Choice.* ::
-
-
-(a) Unrestricted Medallions. Unrestricted Medallions may be used with the OTV, the Accessible OTV, or any Taxicab Model that complies with 35 RCNY § 67-05.1. If at any time an Unrestricted Medallion is required by law or rule of the Commission for use with an Accessible Vehicle, the owner of such medallion must purchase an Accessible OTV or lease such medallion for use with an Accessible OTV. Provided, however, that with the Chairperson’s approval, up to 496 Unrestricted Medallion owners in good standing may at any time purchase for Hack-up any Accessible Vehicle which meets the specifications set forth in 35 RCNY § 67-05.2, or lease their medallions for use with such a vehicle.
-
-(b) Alternative Fuel Medallions. Alternative Fuel Medallions may be used with any Taxicab Model that:
-
-   (1) complies with 35 RCNY § 67-05.1; and
-
-   (2) is a Hybrid Electric Vehicle or is powered by compressed natural gas that is manufactured by an original equipment manufacturer (OEM) for the general commercial or consumer market.
-
-(c) Accessible Medallions. Accessible Medallions may be used with the Accessible OTV or any Accessible Taxicab Model that complies with 35 RCNY § 67-05.2.
-
-(d) Any vehicle valid for use with any Medallion at the time the vehicle was Hacked-up can remain in use as a Taxicab until its scheduled retirement as set forth in 35 RCNY § 67-18, as may be modified by 35 RCNY § 67-19.
-
-
-
-
-
-
-
-
-*§ 67-05.1 Specifications for Non-Accessible Taxicab Candidates.* ::
-
-
-(a) Type of Vehicle. The vehicle must be a four-door model of one of the following types, and must meet all of the other requirements in this section:
-
-   (1) A compact or larger sedan.
-
-   (2) A sport utility vehicle equipped with running boards.
-
-To qualify as a Taxicab Model, a sport utility vehicle must include the manufacturer or dealer option that provides the greatest degree of light transmittance available in the rear and side rear windows, and in no case less than 20 percent light transmittance. A sport utility vehicle will be designated as a sport utility vehicle by either the manufacturer or the National Highway Traffic Safety Administration.
-
-(b) Interior Size. The vehicle must have an EPA interior volume index of at least 101.5 cubic feet. The interior volume index is calculated as described in 40 C.F.R. § 600.315-82(b)(2), and includes luggage capacity.
-
-(c) Rear Compartment. The rear compartment of any vehicle approved for use as a Taxicab Model must meet the following dimensions as defined by the Society of Automotive Engineers:
-
-   (1) Effective legroom (L51) must be at least 34.6 inches.
-
-   (2) Effective headroom (H63) must be at least 36.8 inches.
-
-   (3) Seat depth (L16) must be at least 18 inches.
-
-(d) Front Compartment. The front compartment of any vehicle approved for use as a Taxicab Model must meet the following dimensions:
-
-   (1) Effective headroom (H61) must be at least 37.0 inches.
-
-   (2) Effective legroom (L34) must be at least 40.5 inches.
-
-   (3) Total legroom (the sum of L34 and L51) must be at least 76.2 inches.
-
-(e) Air Conditioning. The vehicle must be equipped with a factory installed air conditioning system. The system must include air conditioning outlets for the rear seat area.
-
-(f) Engine Size. The vehicle may not be equipped with an engine in which the maximum horsepower exceeds 295. The horsepower of a hybrid-electric vehicle is determined by combining the electric power and the internal combustion power of the vehicle's engine.
-
-(g) Diesel Fuel Usage. A vehicle powered by diesel fuel can be hacked up as a Taxicab if it meets the requirements of this section.
-
-(h) Windows. All windows must have a light transmittance of 70 percent or more, except for the upper 6 inches of the front windshield.
-
-(i) Manufactured for Commercial or Consumer Market. Any Vehicle that is powered by compressed natural gas that is manufactured by an original equipment manufacturer (OEM) for the general commercial or consumer market may be approved for Hack-up, provided the vehicle meets all of the standard specifications for vehicle Hackup of this 35 RCNY § 67-05.1A.
-
-(j) Vehicles used with Alternative Fuel Medallions must be a Hybrid Electric Vehicle or a vehicle powered by compressed natural gas that is manufactured by an original equipment manufacturer (OEM) for the general commercial or consumer market that otherwise meets the requirement of this section.
-
-
-
-
-
-
-
-
-*§ 67-05.1A Standard Specifications for Other Taxicab Models Effective Until Official Taxicab Vehicle Activation Date. [Repealed]* ::
-
-
-
-
-
-
-
-
-
-*§ 67-05.1B Official Taxicab Vehicle for use with Unrestricted Medallions Effective On Official Taxicab Vehicle Activation Date. [Repealed]* ::
-
-
-
-
-
-
-
-
-
-*§ 67-05.1C Specifications for Vehicles for use with Unrestricted Medallions or Alternative Fuel Medallions After the OTV Activation Date. [Repealed]* ::
-
-
-
-
-
-
-
-
-
-*§ 67-05.2 Specifications for Accessible Taxicab Candidates.* ::
-
-
-(a) An Accessible Vehicle may be approved for Hack-up if it meets all of the following conditions:
-
-   (1) It is a vehicle other than (i) a bus, (ii) a minibus, or (iii) a van, the chassis for which, as originally manufactured, is designed to seat eight or more persons.
-
-   (2) It is capable of transporting at least one passenger using a common wheelchair (as wheelchair is defined in Code of Federal Regulations, title 49, section 37.3).
-
-   (3) It does not seat more than five passengers when presented for Hack-up.
-
-   (4) It complies with the requirements in subdivisions (b) and (c) of this section and all other requirements for Hack-up in 35 RCNY § 67-05.1 that are not inconsistent with the provisions of this section.
-
-(b) The chassis of the Accessible Vehicle, as originally manufactured, must have:
-
-   (1) A maximum horsepower of 290.
-
-   (2) The original equipment manufacturer's suspension and steering components.
-
-   (3) No bumper modifications.
-
-   (4) Exception regarding bumpers: A bumper modified to allow installation of a rear-entry ramp may be approved if it satisfies either of the following:
-
-      (i) Modification by secondary manufacturer.
-
-         a. The rear bumper is reinforced.
-
-         b. The modification is approved by the vehicle manufacturer.
-
-         c. The modification meets or exceeds Federal Motor Vehicle Safety Standards crash testing requirements.
-
-         d. Any rear door lock modifications must meet the Federal Motor Vehicle Safety Standards and the lock must be attached to the chassis, not the ramp, unless a secondary lock is attached to the chassis.
-
-      (ii) Modification by other than secondary manufacturer.
-
-         a. The rear bumper is reinforced.
-
-         b. The modification is approved by the vehicle manufacturer.
-
-         c. The modification meets or exceeds Federal Motor Vehicle Safety Standards crash testing requirements.
-
-         d. The modifier must retain an engineer with at least a bachelors degree in either mechanical engineering or electrical engineering with at least 3 years' experience in automotive manufacturing to certify that each vehicle was modified using the design tested to meet or exceed Federal Motor Vehicle Safety Standards crash testing requirements.
-
-         e. A separate certification from such engineer for each vehicle must be presented when the vehicle is submitted for Hack-up.
-
-         f. Any rear door lock modifications must meet the Federal Motor Vehicle Safety Standards and the lock must be attached to the chassis, not the ramp, unless a secondary lock is attached to the chassis.
-
-(c) The Accessible Taxicab as manufactured by the original equipment manufacturer ("OEM") or as modified by an OEM-approved second-stage manufacturer must meet the following specifications:
-
-   (1) The minimum ground clearance (measured from frame, loaded to gross vehicle weight rating) must be 5 inches.
-
-   (2) (i) The minimum passenger compartment length (measured from rear of driver's seat base to rear seat base) must be 56 inches.
-
-      (ii) Exception: For an Accessible Taxicab designed to carry a Wheelchair Passenger in the front right position beside the Driver, the minimum passenger compartment length must be 38 inches.
-
-   (3) The rear compartment of any vehicle approved for use as an Accessible Taxicab Model must meet the following dimensions as defined by the Society of Automotive Engineers:
-
-      (i) Effective legroom (L51) must be at least 34.6 inches.
-
-   (4) The front compartment of any vehicle approved for use as an Accessible Taxicab Model must meet the following dimensions:
-
-      (i) Effective legroom (L34) must be at least 40 inches.
-
-   (5) Total legroom (the sum of L34 and L51) must be at least 74.6 inches.
-
-   (6) The original floor of the Accessible Vehicle, if lowered, must be lowered from the base of the firewall to the area immediately in front of the rear axle.
-
-   (7) If a lowered floor assembly is used, it must be stainless steel (16 gauge minimum) and must meet or exceed the 1,000 hour salt spray rating.
-
-   (8) If a lowered floor assembly is used, a vapor-insulating barrier of 1/2 inch marine grade plywood must be applied over the lowered metal floor and thoroughly secured.
-
-   (9) The wheelchair ramp must not block any part of the door or glass while in the stowed position.
-
-   (10) The system provided to securely hold one or more wheelchairs in place must be the system known as Q straint QRT Standard or its equal.
-
-   (11) No anchor points may project more than 1/8 of an inch above the finished floor.
-
-   (12) If the Accessible Taxicab has a middle fold-up passenger seat, it must have a folding mechanism and base plate and must meet the requirements of the Federal Motor Vehicle Safety Standard No. 207, Code of Federal Regulations, title 49, and section 571.207.
-
-   (13) Any modifications to the rear air conditioning must be approved by the OEM.
-
-   (14) Any and all electrical wiring, other than as provided by the OEM, must be PVC-or-better insulated and color-coded for positive identification.
-
-   (15) The back-up alarm must be an electrically operated device that produces an intermittent audible signal when the Accessible Vehicle's transmission is shifted into reverse.
-
-(d) Accessible Official Taxicab Vehicle ("Accessible OTV") is the OTV modified in a manner that is consistent with the City's contract with Nissan North America.
-
-
-
-
-
-
-
-
-*§ 67-06 Requirements for Hacking Up a Taxicab.* ::
-
-
-(a) Requirement. Only Taxicab Models may be Hacked-Up.
-
-(b) Putting Vehicle into Service the First Time. A Taxicab Model may be Hacked-up for use as a Taxicab, only if it:
-
-   (1) Is new, having fewer than 500 miles on the odometerand is one of the manufacturer’s two latest vehicle model years (Example: If in calendar year 2008 the manufacturer introduces the 2009 Caprice, only 2009 and 2008 Caprices may be Hacked-up); or
-
-   (2) Is a used Taxicab Model less than seven years old and passes inspection.
-
-(c) Continuation in Service. Upon Hack-up, a vehicle may continue in service with the same Medallion so long as the vehicle passes inspection and has not yet met its Scheduled Retirement Date, as set forth in 35 RCNY § 67-18, as may be extended by 35 RCNY § 67-19, below.
-
-(d) Limited Right to "Re-Hack" for Transfer. A vehicle that has been Hacked-up may be transferred to another Medallion, with the approval of the Commission, only if the vehicle passes inspection, has not yet met its Scheduled Retirement Date and meets one of the following conditions:
-
-   (1) Repossessions. The vehicle is purchased through a bank or other lender that has acquired the right to sell the vehicle through repossession and the repossession occurs within 24 months of Hack-up.
-
-   (2) Long-Term Drivers. The vehicle is owned by a Long-Term Driver who has driven the vehicle for at least five months under the existing Medallion and who will continue to be a Long-Term Driver under the new Medallion.
-
-   (3) Same Medallion Owner or Agent. The owner (or owner's Agent) of the Medallion transfers the vehicle to another Medallion operated by the same owner or agent.
-
-   (4) Compressed Natural Gas Vehicle. The owner of a Medallion (or the owner's agent) may transfer a vehicle fueled by Compressed Natural Gas to any other Medallion owned by the same owner.
-
-   (5) Transfer of Medallion and Vehicle. A vehicle which is in use with an Independent Medallion and is not at its Scheduled Retirement Date can continue in use with that Medallion following the transfer of that Medallion until its Scheduled Retirement Date if it passes all inspections and if the vehicle meets all of the following:
-
-      (i) the vehicle is acquired by a Transferee of an Independent Medallion together with that Medallion from the Transferor of that Independent Medallion and
-
-      (ii) the vehicle was operated by the Transferor of that Independent Medallion with that Medallion.
-
-(e) Re-Hack Transfer Inspection Fee. The Commission may charge an inspection fee of $50 to inspect a vehicle for transfer to another Medallion as a re-hack. If necessary, the Commission may charge $25 for replacement of New York State DMV license plates.
-
-
-
-
-
-
-
-
-*§ 67-07 Requirements for Hack-up – Paint, Finish and Lighting.* ::
-
-
-(a) Taxi Yellow. The exterior of the vehicle must be painted taxi yellow (Dupont M6284 or its equivalent), except for trim. Samples of paint color and code are to be submitted to the Commission for approval.
-
-(b) Front Design. The front of the vehicle, and especially the bumper, should be designed with strong emphasis on reducing injury to pedestrians. There must be no unnecessary projections such as rigid hood ornaments.
-
-(c) Signs. The vehicle must be provided with signs that conform to the marking specifications in 35 RCNY § 58-32(i).
-
-(d) Auxiliary Turn Signals. Suitable wiring must be provided for a pair of auxiliary turn signal lamps to be located next to the roof light. These lamps must not be activated with the brake lights.
-
-(e) Roof Light. The vehicle must be equipped with an approved Roof Light.
-
-
-
-
-
-
-*§ 67-08 Requirements for Hack-up – Occupant Accommodation.* ::
-
-
-(a) Upholstery and Trim.
-
-   (1) Must be an easy-to-clean material such as vinyl. Exception: If the vehicle manufacturer installed side airbags or a system which determines whether a seat is occupied for purposes of inflating an airbag, the upholstery must be that provided by the manufacturer.
-
-   (2) Must meet federal (MVSS) standards for flame resistance.
-
-   (3) Must have a surface suitable for mounting authorized decals.
-
-(b) Seats.
-
-   (1) A Taxicab may be equipped with either bucket or bench seats.
-
-   (2) The seats must not interfere with the partition and must meet all other Commission requirements.
-
-   (3) All replacement seats must be designed by the manufacturer for installation in the model and year of the vehicle in which the seats are installed.
-
-(c) Rear Windows. A Taxicab must be equipped with rear windows that can be opened and closed by passengers.
-
-
-
-
-
-
-*§ 67-09 Requirements for Hack-up – Taximeters.* ::
-
-
-(a) Requirement. The vehicle must be equipped with a sealed, tamper-resistant Taximeter installed by a Licensed Taximeter Business according to the rules and regulations in 35 RCNY Chapter 64. The Taximeter must be installed in a location approved by the Chairperson which permits safe operation of the vehicle and visibility to the passenger.
-
-(b) Technical Specifications. The Taximeter must meet the specifications and tolerances published in the most recent National Institute of Standards and Technology Handbook, and must be approved for use in New York by the NYS Department of Agriculture and Markets and the Commission. Any new Taximeter will be subject to a minimum three month test period before approval.
-
-(c) Other Technical Requirements.
-
-   (1) The Roof Light must be controlled by engaging the Taximeter.
-
-   (2) The Taximeter must be capable of calculating and displaying all required rates of fare.
-
-   (3) The Taximeter and all connections must be secure and tamper proof. All switches, wiring and caps must meet applicable specifications of the Society of Automotive Engineers.
-
-
-
-
-
-
-
-
-*§ 67-10 Requirements for Hack-up – Partitions.* ::
-
-
-(a) Requirement.
-
-   (1) The vehicle must be equipped with a partition that isolates the driver from the rear seat passengers or all passengers of the vehicle unless the vehicle is exempt from the partition requirement pursuant to 35 RCNY § 58-35(b).
-
-   (2) The purpose of the partition is to provide protection to the driver while ensuring passenger safety and enabling rear seat passengers to enjoy a clear and unobstructed view of the TLC Drives License, Rate Card, and front windshield.
-
-(b) Technical Specifications.
-
-   (1) The partition must extend from the ceiling to a specific point as recommended by the Chairperson and approved by the Commission, based upon the make and model of the vehicle.
-
-   (2) The transparent portion of the partition must be constructed of a mar-resistant polycarbonate not less than 0.375 inches thick that will provide passengers and drivers with maximum visibility.
-
-      (i) For a flat partition and a partition for a Taxicab with factory installed curtain airbags, the transparent portion must extend from the ceiling to join or overlap with the protective plate of the partition.
-
-      (ii) For an L shaped partition, on the side that is behind the driver, the transparent portion of the partition must extend from the ceiling to join or overlap with the protective plate of the partition. On the side that extends forward to back between the two front seats, the transparent portion of the partition must extend from the ceiling to join or overlap with the protective plate of the partition on the right side of the center console located between the two front seats.
-
-   (3) The protective plate must join or overlap with the transparent portion of the partition and extend downward to the floor of the vehicle. The protective plate must be a plate of 0.085-inch thick bullet-resistant ballistic steel or its equivalent if approved by the Deputy Commissioner for Safety and Emissions. The protective plate must be installed inside and covering the front seat's entire backrest.
-
-      (i) The protective plate must extend from the point that the transparent portion joins it downward to the floor of the Taxicab.
-
-      (ii) If the transparent portion overlaps the protective plate, the protective plate must extend from the point of joinder with the transparent portion downward to the floor of the Taxicab.
-
-      (iii) For an L shaped partition, the protective plate must also cover the right side of the center console between the two front seats.
-
-   (4) The entire protective plate of each partition must have sufficient padding to prevent injury to any rear-seat passenger in case of a Collision or sudden stopping, and all surfaces must be free of sharp and rough edges.
-
-   (5) There must be no opening or gap between the partition and the body of the vehicle larger than one inch, except for vehicles equipped with factory installed curtain airbags. In those vehicles, the partition shall allow a space of six inches on each side, sufficient to permit proper deployment of the curtain airbags.
-
-   (6) In addition to meeting all other technical specifications, a partition may be installed only if it does not impair passenger and driver safety and has the following features:
-
-      (i) Allows passengers and drivers to communicate with each other
-
-      (ii) Allows passengers in the rear passenger compartment to pay fares by cash or by credit card (if the Taxicab is capable of accepting credit card payments) and to receive receipts for payments and transactions.
-
-
-
-
-
-
-
-
-*§ 67-11 Requirements for Hack-up – Distress Signal Lights.* ::
-
-
-(a) Requirement. An owner must equip all Taxicabs with a help or distress signaling light system consisting of two turn signal type "lollipop" lights.
-
-(b) Technical Specifications.
-
-   (1) One light must be mounted on the front center of the vehicle, either on top of the bumper or forward or behind the grill. A second light must be mounted on top of the rear bumper, to the left of the license plate.
-
-   (2) Each light must be three to four inches in diameter, have a total rated output of 32 candle power, and be amber-colored or have an amber-colored lens so that the light output of the device is the color amber at 32 candle power.
-
-   (3) The activator must be installed within easy reach of the driver, must be silent when operating, and must be fully solid-state.
-
-   (4) The lights must be able to flash between 60 and 120 times per minute.
-
-   (5) The wiring must not affect or interfere with, directly or otherwise, any wiring or circuitry used by the meter for measuring time or distance.
-
-
-
-
-
-
-*§ 67-12 Requirements for Hack-up – In-Vehicle Camera System ("IVCS").* ::
-
-
-(a) Requirement. When an existing IVCS is required to be replaced or when an IVCS system is installed (including, but not limited to, at Hack-up), it must be functioning and in good working order and meet the specifications and installation requirements below.
-
-(b) Technical Specifications.
-
-   (1) The IVCS must be connected to the vehicle battery, and the fuse for the connection must be concealed in a tamper-resistant housing.
-
-   (2) Wiring between the recording unit and the camera head must use at either end, tamper-resistant registered jack (RJ) style connectors.
-
-   (3) All electrical connections and wiring must be protected from spikes and dips in vehicle voltage.
-
-   (4) The camera head housing and brackets must be tamper-proof and securely mounted to the right of the rear view mirror. The installation must provide unobstructed vision for the driver.
-
-   (5) The camera's field of view must include the full face of all occupants seated in passenger seats and facing forward.
-
-   (6) Images must be recorded and stored in a unit separate from the camera head.
-
-   (7) The recording unit must be concealed from view and fastened securely with tamper-resistant hardware.
-
-   (8) The IVCS must provide a visual indication of system status that is located on the lower left portion of the dashboard and is visible to the driver and to law enforcement personnel inspecting the vehicle from outside of the driver door.
-
-   (9) The IVCS and components must be sufficiently shock-resistant to withstand typical vehicle movement and collisions.
-
-   (10) The IVCS must have an RS-232 connection or other means for secure image retrieval.
-
-   (11) Images must be sharp, undistorted, and clear enough to enable the viewer to identify all passengers under all lighting conditions, including, for example, dark and bright light, daylight, and backlight.
-
-   (12) Sensor resolution must be, at a minimum, 510 by 480 pixels.
-
-   (13) Storage capacity must be, at a minimum, 7,000 images in an encrypted format, and all access to the storage unit must result in the storage of an electronic "tag" including the installer identification number and date of the event.
-
-   (14) The IVCS must have connection ports for a minimum of two (2) cameras.
-
-   (15) The IVCS must have an event flag or panic button accessible to the driver and located in an inconspicuous location.
-
-   (16) The IVCS must record images and the following information for each image:
-
-      (i) Date and time
-
-      (ii) Taxicab Medallion number
-
-      (iii) IVCS serial number
-
-      (iv) IVCS indicator for event flags.
-
-   (17) Image capture must be linked to the following events:
-
-      (i) Vehicle door openings and closings
-
-      (ii) Meter engagement
-
-      (iii) Event flag button activation
-
-      (iv) Event flag in the test mode when the image(s) are recorded for inspection and test purposes
-
-      (v) Panic button activation.
-
-   (18) In the event of a panic button activation, systems must record to protected memory a total of three events. The recording must include, at a minimum, the 2.5 minutes immediately before and after the button activation, at one frame per second.
-
-   (19) Image access may be provided only to law-enforcement agencies, including the New York City Police Department.
-
-   (20) If the IVCS has a physical port for secure image retrieval, the port must be located on the right side of the dashboard or in the trunk, installed inconspicuously, and accessible to law enforcement personnel.
-
-   (21) When memory storage capacity is reached, the IVCS must overwrite the oldest images as new images are recorded in sequence.
-
-   (22) Installations and repairs of IVCS may be performed only by installers authorized by the manufacturer and currently licensed by the Department of Consumer Affairs. Installations and repairs may also be performed by Taximeter Businesses currently licensed by the Commission pursuant to chapter 14 of this title.
-
-   (23) A notarized affidavit signed by a manufacturer's authorized installer attesting to the proper functionality of the IVCS must be provided to the Commission by the authorized installer: (i) annually, and (ii) within 14 calendar days after any installation, repair, or modification of the IVCS.
-
-
-
-
-
-
-*§ 67-13 Requirements for Hack-up – Credential Holders.* ::
-
-
-(a) Requirement. A credential holder must be mounted behind the driver in the vehicle in a manner that does not block the driver's view. The holder will be on the partition if there is a partition, or on the headrest if there is no partition.
-
-(b) Technical Specifications. A credential holder frame mounted on the driver's side of the clear portion of the partition must conform to the following:
-
-   (1) Be approved by the Commission.
-
-   (2) Be secured by either rivet or screw at least two inches above the frame supporting the clear portion of the partition and centered on the vehicle's steering column or the headrest on the driver's seat facing the rear passenger's compartment.
-
-   (3) The frame must have a drop-in or slide-in slot accessible only from the driver's compartment for the rate card and the driver's license.
-
-   (4) The frame must have sufficient illumination so that the rate card and the driver's license are clearly visible from the rear seat after dark.
-
-   (5) The frame must be sufficiently padded so as not to cause injury to the driver.
-
-
-
-
-
-
-*§ 67-14 Requirements for Hack-up – Air Conditioning.* ::
-
-
-(a) Requirement. All vehicles must be equipped with an air conditioner. The air conditioner must be in good working condition from May 1st through September 30th each year. In vehicles equipped with a partition, the air conditioner must include an auxiliary unit for the rear seating area.
-
-(b) Technical Specifications.
-
-   (1) The auxiliary unit must be either standard equipment or optional equipment built into the vehicle by the vehicle manufacturer.
-
-   (2) The auxiliary unit must have controls that passengers may operate in the rear passenger area.
-
-
-
-
-
-
-*§ 67-15 Requirements for Hack-up – Technology System.* ::
-
-
-(a) Technology System. Every Taxicab must be equipped with Technology System from a licensed Technology System Provider.
-
-
-
-
-
-
-
-
-*§ 67-16 Authorized Rooftop Advertising Fixture.* ::
-
-
-(a) Authorized Rooftop Advertising Fixture.
-
-   (1) Upon payment of an annual Advertising Permit Fee as described in 35 RCNY § 58-07(g), a Medallion Owner may install and maintain an authorized Rooftop Advertising Fixture.
-
-   (2) A Medallion Owner must not install or maintain a Rooftop Advertising Fixture that is not authorized, or no longer authorized, by TLC.
-
-(b) Grandfathered Authorized Rooftop Advertising Fixtures. A Rooftop Advertising Fixture that is authorized by a Memorandum of Understanding between the Rooftop Advertising Fixture Provider and the TLC that is in effect on August 30, 2011 and was installed in accordance with these rules shall be deemed to comply with the requirements of these rules.
-
-(c) Requirements for Obtaining TLC Approval of a Rooftop Advertising Fixture.
-
-   (1) The Rooftop Advertising Fixture must be tested and certified in accordance with the Department of Defense Test Standard MIL-STD 810f by a licensed Professional Engineer and documentation of testing and certification must be submitted to TLC. (MIL-STD 810f can be found at http://www.dtc.army.mil/navigator.)
-
-   (2) The Rooftop Advertising Fixture must be approved by TLC's Safety and Emissions Division.
-
-   (3) The Rooftop Advertising Fixture Provider may post advertisements on the Rooftop Advertising Fixture. Such advertisements:
-
-      (i) must not exceed the physical dimensions of the advertising display surface of the rooftop unit.
-
-      (ii) Exception: An advertisement can exceed the dimensions of the advertising display surface of the rooftop unit by no more than 100 square inches if the certification by a Professional Engineer as required in paragraph one of this subdivision specifically states that the extension is safely supported upon the Rooftop Advertising Fixture.
-
-   (4) The Rooftop Advertising Fixture must:
-
-      (i) be two-sided, each side of a shape that is longer across and shorter in height, although not necessarily a rectangle;
-
-      (ii) display advertising material to the sides of the vehicle, and
-
-      (iii) not display advertising material to the front and back of the vehicle.
-
-   (5) Variation in approved design.
-
-      (i) If the Rooftop Advertising Fixture Provider wants to deviate from an approved design, it must inform the TLC of any material variation in the original, approved design before installing a modified fixture.
-
-      (ii) The TLC shall, within fourteen (14) business days, inform the Rooftop Advertising Fixture Provider whether an additional authorization is required with respect to the modified Rooftop Advertising Fixture.
-
-(d) Maintenance of Rooftop Advertising Fixture. The Rooftop Advertising Fixture Provider must maintain the Rooftop Advertising Fixture in accordance with this Rule:
-
-   (1) The Rooftop Advertising Fixture Provider must ensure that the Rooftop Advertising Fixture:
-
-      (i) is firmly affixed to each taxicab;
-
-      (ii) is otherwise operating in a safe manner;
-
-      (iii) is in good working order; this includes that the advertising displayed on the fixture is firmly affixed; and
-
-      (iv) displays current advertisements. A current advertisement is one that includes, but is not limited to, a defined event (such as advertisements for movies, concerts or events which have fixed opening or running dates) and only remains current until 60 days following the completion or termination of the event, or promotes an existing business or consumer product.
-
-   (2) (i) The Rooftop Advertising Fixture Provider must not display advertising that is offensive to public morals or is otherwise in violation of New York Penal Law Section 245.11.
-
-      (ii) The Rooftop Advertising Fixture Provider must remove any advertising in violation of subparagraph (i) from public display within fifteen (15) days after a TLC request to remove such advertising.
-
-(e) Termination of Authorization of Rooftop Advertising Fixture.
-
-   (1) The Chairperson may terminate authorization of a Rooftop Advertising Fixture if the provider has not complied with the requirements stated in this Rule.
-
-      (i) Prior to terminating authorization, the Chairperson will give the Rooftop Advertising Fixture Provider notice of the Chairperson's intent to terminate authorization and shall provide detailed reasons for the action.
-
-      (ii) The Rooftop Advertising Fixture Provider shall have 21 business days after the notice to cure any defect or to respond to any concerns set forth in the notice unless the TLC extends the cure period.
-
-      (iii) If the Rooftop Advertising Fixture Provider fails to cure any defect or fail to respond to any concerns set forth in the Chairperson's notice to the satisfaction of the Chairperson within the time period allotted by the TLC, the Chairperson may promptly terminate authorization.
-
-   (2) Notwithstanding the notice requirements of paragraph one, TLC may immediately terminate authorization of a Rooftop Advertising Fixture if the Chairperson determines there is an imminent threat to the health or safety of members of the public, taxi drivers, or other individuals.
-
-
-
-
-
-
-*§ 67-17 [Reserved]* ::
-
-
-(a) New Vehicles. All vehicles Hacked-up as new vehicles pursuant to 35 RCNY § 67-06(b)(1) must be retired from Taxicab service and replaced no later than the first scheduled inspection of the vehicle occurring 84 months after the vehicle was Hacked-up.
-
-(b) Used Vehicles. All vehicles Hacked-up as used vehicles pursuant to 35 RCNY § 67-06(b)(2) must be retired from Taxicab service and replaced no later than the first scheduled inspection of the vehicle occurring 84 months after the vehicle was Hacked-up, less the age of the vehicle as determined by the difference between the calendar year at Hack-up and the model year of the vehicle. For example, a used 2015 model year vehicle that was hacked up in 2018 is three years old and must be retired from Taxicab service and replaced no later than the first scheduled inspection of the vehicle occurring 48 months after the vehicle was Hacked-up.
-
-
-
-
-
-
-
-
-*§ 67-19 Vehicle Retirement Extensions.* ::
-
-
-(a) Hardship Extension. The owner of a Taxicab may apply to the Chairperson for an extension of up to 12 months from the Scheduled Retirement Date. To obtain approval of a hardship extension:
-
-   (1) The vehicle owner must demonstrate an economic or other personal hardship that the Chairperson determines would create an undue burden upon the owner if the extension were not granted.
-
-   (2) The vehicle owner must submit a request in writing, together with any supporting documentation, to the Chairperson at least 30 days before the Scheduled Retirement Date. This 30-day deadline may be waived by the Chairperson upon a showing of good cause.
-
-   (3) The vehicle must continue to meet all safety and emission requirements throughout the extension. The Chairperson shall withdraw any extension granted whenever the vehicle is determined by the Commission to be unsafe for operation.
-
-(b) Compressed Natural Gas Extension. An automatic 24-month extension is granted to any Taxicab vehicle that meets the following requirements:
-
-   (1) The vehicle was Hacked-up between March 1, 1996 and April 17, 2007.
-
-   (2) The vehicle was dedicated to operating on compressed natural gas (with a maximum reserve gas tank of five gallons) within six months after Hack-up.
-
-   (3) The vehicle has remained dedicated to operating on compressed natural gas thereafter and throughout its operation.
-
-(c) Minivan Extension.
-
-   (1) Any minivan approved for use as a Taxicab by the Commission that was Hacked-up between March 1, 1996 and April 17, 2007 will have its Scheduled Retirement Date extended as follows:
-
-      (i) By 12 additional months of Taxicab service if double-shifted and not driven by at least one long-term driver
-
-      (ii) By 18 additional months of Taxicab service under other conditions
-
-   (2) A Taxicab whose Scheduled Retirement Date has been extended in accordance with the provisions of this section is not eligible for the extended vehicle lifetime provided for Clean Air and Accessible Taxicabs described in 35 RCNY § 67-19(d) below.
-
-(d) Clean Air and Accessible Taxicab Extensions, Vehicles Hacked-up Prior to 4/20/15.
-
-   (1) Extensions of 36-Month Retirement Schedule. The regular 36-Month Retirement Schedule for any Level I or Level II Clean Air Taxicab or any Accessible Taxicab is extended by 12 months.
-
-   (2) Extensions of 60-Month Retirement Schedule: Accessible or Level I Clean Air. The regular 60-Month Retirement Schedule for any Level I Clean Air Taxicab or any Accessible Taxicab is extended by 24 months.
-
-   (3) Extensions of 60-Month Retirement Schedule: Level II Clean Air. The regular 60-Month Retirement Schedule for any Level II Clean Air Taxicab is extended by 12 months.
-
-(e) Final Retirement Date. A vehicle which cannot pass inspection must be replaced, regardless of whether its Scheduled Retirement Date has been reached. A vehicle that has reached its Scheduled Retirement Date, including any extensions provided for in this section, must be retired regardless of whether it may still pass inspection.
-
-
-
-
-
-
 Chapter 66: Licensing &amp; Rules for Technology System Providers
 --------------------------------------------------
 
@@ -31486,6 +30811,681 @@ No Technology System will be approved by the Commission pursuant to this Chapter
 
 
 
+Chapter 67: Rules For Taxicab Hack-up and Maintenance
+--------------------------------------------------
+
+
+
+*§ 67-01 Scope of this Chapter.* ::
+
+
+(a) To establish the standards and requirements for preparing a vehicle for Taxicab Licensing, and
+
+(b) To establish the standards and requirements for Taxicab maintenance, inspection and retirement.
+
+
+
+
+
+
+*§ 67-02 Penalties.* ::
+
+
+(a) This Chapter is informational in nature and does not contain penalties. Penalties for failure to follow the rules established in this Chapter will be found in 35 RCNY Chapter 80 and 35 RCNY Chapter 58 which establish specific requirements for the Drivers ot Taxicabsand owners.
+
+
+
+
+
+
+
+
+*§ 67-03 Definitions Specific to this Chapter.* ::
+
+
+(a) Clean Air Taxicab is a Clean Air Vehicle, as defined in 35 RCNY § 51-03, that has been Hacked-Up.
+
+(b) Rooftop Advertising Fixture means a device that incorporates the functions of a Roof Light with the displaying of advertising.
+
+(c) Rooftop Advertising Fixture Provider means the entity responsible for supplying the Rooftop Advertising Fixture to the Medallion Owner and maintaining the advertising material.
+
+
+
+
+
+
+
+
+*§ 67-04 Original Verification of Taxicab Candidate as Taxicab Model.* ::
+
+
+A Taxicab Candidate must meet the technical specifications in 35 RCNY § 67-05.1A, § 67-05.1B or § 67-05.2, as well as all applicable federal and New York State motor vehicle standards and requirements, in order to become a Taxicab Model.
+
+
+
+
+
+
+
+
+*§ 67-05 Taxicab Model Choice.* ::
+
+
+(a) Unrestricted Medallions. Unrestricted Medallions may be used with the OTV, the Accessible OTV, or any Taxicab Model that complies with 35 RCNY § 67-05.1. If at any time an Unrestricted Medallion is required by law or rule of the Commission for use with an Accessible Vehicle, the owner of such medallion must purchase an Accessible OTV or lease such medallion for use with an Accessible OTV. Provided, however, that with the Chairperson’s approval, up to 496 Unrestricted Medallion owners in good standing may at any time purchase for Hack-up any Accessible Vehicle which meets the specifications set forth in 35 RCNY § 67-05.2, or lease their medallions for use with such a vehicle.
+
+(b) Alternative Fuel Medallions. Alternative Fuel Medallions may be used with any Taxicab Model that:
+
+   (1) complies with 35 RCNY § 67-05.1; and
+
+   (2) is a Hybrid Electric Vehicle or is powered by compressed natural gas that is manufactured by an original equipment manufacturer (OEM) for the general commercial or consumer market.
+
+(c) Accessible Medallions. Accessible Medallions may be used with the Accessible OTV or any Accessible Taxicab Model that complies with 35 RCNY § 67-05.2.
+
+(d) Any vehicle valid for use with any Medallion at the time the vehicle was Hacked-up can remain in use as a Taxicab until its scheduled retirement as set forth in 35 RCNY § 67-18, as may be modified by 35 RCNY § 67-19.
+
+
+
+
+
+
+
+
+*§ 67-05.1 Specifications for Non-Accessible Taxicab Candidates.* ::
+
+
+(a) Type of Vehicle. The vehicle must be a four-door model of one of the following types, and must meet all of the other requirements in this section:
+
+   (1) A compact or larger sedan.
+
+   (2) A sport utility vehicle equipped with running boards.
+
+To qualify as a Taxicab Model, a sport utility vehicle must include the manufacturer or dealer option that provides the greatest degree of light transmittance available in the rear and side rear windows, and in no case less than 20 percent light transmittance. A sport utility vehicle will be designated as a sport utility vehicle by either the manufacturer or the National Highway Traffic Safety Administration.
+
+(b) Interior Size. The vehicle must have an EPA interior volume index of at least 101.5 cubic feet. The interior volume index is calculated as described in 40 C.F.R. § 600.315-82(b)(2), and includes luggage capacity.
+
+(c) Rear Compartment. The rear compartment of any vehicle approved for use as a Taxicab Model must meet the following dimensions as defined by the Society of Automotive Engineers:
+
+   (1) Effective legroom (L51) must be at least 34.6 inches.
+
+   (2) Effective headroom (H63) must be at least 36.8 inches.
+
+   (3) Seat depth (L16) must be at least 18 inches.
+
+(d) Front Compartment. The front compartment of any vehicle approved for use as a Taxicab Model must meet the following dimensions:
+
+   (1) Effective headroom (H61) must be at least 37.0 inches.
+
+   (2) Effective legroom (L34) must be at least 40.5 inches.
+
+   (3) Total legroom (the sum of L34 and L51) must be at least 76.2 inches.
+
+(e) Air Conditioning. The vehicle must be equipped with a factory installed air conditioning system. The system must include air conditioning outlets for the rear seat area.
+
+(f) Engine Size. The vehicle may not be equipped with an engine in which the maximum horsepower exceeds 295. The horsepower of a hybrid-electric vehicle is determined by combining the electric power and the internal combustion power of the vehicle's engine.
+
+(g) Diesel Fuel Usage. A vehicle powered by diesel fuel can be hacked up as a Taxicab if it meets the requirements of this section.
+
+(h) Windows. All windows must have a light transmittance of 70 percent or more, except for the upper 6 inches of the front windshield.
+
+(i) Manufactured for Commercial or Consumer Market. Any Vehicle that is powered by compressed natural gas that is manufactured by an original equipment manufacturer (OEM) for the general commercial or consumer market may be approved for Hack-up, provided the vehicle meets all of the standard specifications for vehicle Hackup of this 35 RCNY § 67-05.1A.
+
+(j) Vehicles used with Alternative Fuel Medallions must be a Hybrid Electric Vehicle or a vehicle powered by compressed natural gas that is manufactured by an original equipment manufacturer (OEM) for the general commercial or consumer market that otherwise meets the requirement of this section.
+
+
+
+
+
+
+
+
+*§ 67-05.1A Standard Specifications for Other Taxicab Models Effective Until Official Taxicab Vehicle Activation Date. [Repealed]* ::
+
+
+
+
+
+
+
+
+
+*§ 67-05.1B Official Taxicab Vehicle for use with Unrestricted Medallions Effective On Official Taxicab Vehicle Activation Date. [Repealed]* ::
+
+
+
+
+
+
+
+
+
+*§ 67-05.1C Specifications for Vehicles for use with Unrestricted Medallions or Alternative Fuel Medallions After the OTV Activation Date. [Repealed]* ::
+
+
+
+
+
+
+
+
+
+*§ 67-05.2 Specifications for Accessible Taxicab Candidates.* ::
+
+
+(a) An Accessible Vehicle may be approved for Hack-up if it meets all of the following conditions:
+
+   (1) It is a vehicle other than (i) a bus, (ii) a minibus, or (iii) a van, the chassis for which, as originally manufactured, is designed to seat eight or more persons.
+
+   (2) It is capable of transporting at least one passenger using a common wheelchair (as wheelchair is defined in Code of Federal Regulations, title 49, section 37.3).
+
+   (3) It does not seat more than five passengers when presented for Hack-up.
+
+   (4) It complies with the requirements in subdivisions (b) and (c) of this section and all other requirements for Hack-up in 35 RCNY § 67-05.1 that are not inconsistent with the provisions of this section.
+
+(b) The chassis of the Accessible Vehicle, as originally manufactured, must have:
+
+   (1) A maximum horsepower of 290.
+
+   (2) The original equipment manufacturer's suspension and steering components.
+
+   (3) No bumper modifications.
+
+   (4) Exception regarding bumpers: A bumper modified to allow installation of a rear-entry ramp may be approved if it satisfies either of the following:
+
+      (i) Modification by secondary manufacturer.
+
+         a. The rear bumper is reinforced.
+
+         b. The modification is approved by the vehicle manufacturer.
+
+         c. The modification meets or exceeds Federal Motor Vehicle Safety Standards crash testing requirements.
+
+         d. Any rear door lock modifications must meet the Federal Motor Vehicle Safety Standards and the lock must be attached to the chassis, not the ramp, unless a secondary lock is attached to the chassis.
+
+      (ii) Modification by other than secondary manufacturer.
+
+         a. The rear bumper is reinforced.
+
+         b. The modification is approved by the vehicle manufacturer.
+
+         c. The modification meets or exceeds Federal Motor Vehicle Safety Standards crash testing requirements.
+
+         d. The modifier must retain an engineer with at least a bachelors degree in either mechanical engineering or electrical engineering with at least 3 years' experience in automotive manufacturing to certify that each vehicle was modified using the design tested to meet or exceed Federal Motor Vehicle Safety Standards crash testing requirements.
+
+         e. A separate certification from such engineer for each vehicle must be presented when the vehicle is submitted for Hack-up.
+
+         f. Any rear door lock modifications must meet the Federal Motor Vehicle Safety Standards and the lock must be attached to the chassis, not the ramp, unless a secondary lock is attached to the chassis.
+
+(c) The Accessible Taxicab as manufactured by the original equipment manufacturer ("OEM") or as modified by an OEM-approved second-stage manufacturer must meet the following specifications:
+
+   (1) The minimum ground clearance (measured from frame, loaded to gross vehicle weight rating) must be 5 inches.
+
+   (2) (i) The minimum passenger compartment length (measured from rear of driver's seat base to rear seat base) must be 56 inches.
+
+      (ii) Exception: For an Accessible Taxicab designed to carry a Wheelchair Passenger in the front right position beside the Driver, the minimum passenger compartment length must be 38 inches.
+
+   (3) The rear compartment of any vehicle approved for use as an Accessible Taxicab Model must meet the following dimensions as defined by the Society of Automotive Engineers:
+
+      (i) Effective legroom (L51) must be at least 34.6 inches.
+
+   (4) The front compartment of any vehicle approved for use as an Accessible Taxicab Model must meet the following dimensions:
+
+      (i) Effective legroom (L34) must be at least 40 inches.
+
+   (5) Total legroom (the sum of L34 and L51) must be at least 74.6 inches.
+
+   (6) The original floor of the Accessible Vehicle, if lowered, must be lowered from the base of the firewall to the area immediately in front of the rear axle.
+
+   (7) If a lowered floor assembly is used, it must be stainless steel (16 gauge minimum) and must meet or exceed the 1,000 hour salt spray rating.
+
+   (8) If a lowered floor assembly is used, a vapor-insulating barrier of 1/2 inch marine grade plywood must be applied over the lowered metal floor and thoroughly secured.
+
+   (9) The wheelchair ramp must not block any part of the door or glass while in the stowed position.
+
+   (10) The system provided to securely hold one or more wheelchairs in place must be the system known as Q straint QRT Standard or its equal.
+
+   (11) No anchor points may project more than 1/8 of an inch above the finished floor.
+
+   (12) If the Accessible Taxicab has a middle fold-up passenger seat, it must have a folding mechanism and base plate and must meet the requirements of the Federal Motor Vehicle Safety Standard No. 207, Code of Federal Regulations, title 49, and section 571.207.
+
+   (13) Any modifications to the rear air conditioning must be approved by the OEM.
+
+   (14) Any and all electrical wiring, other than as provided by the OEM, must be PVC-or-better insulated and color-coded for positive identification.
+
+   (15) The back-up alarm must be an electrically operated device that produces an intermittent audible signal when the Accessible Vehicle's transmission is shifted into reverse.
+
+(d) Accessible Official Taxicab Vehicle ("Accessible OTV") is the OTV modified in a manner that is consistent with the City's contract with Nissan North America.
+
+
+
+
+
+
+
+
+*§ 67-06 Requirements for Hacking Up a Taxicab.* ::
+
+
+(a) Requirement. Only Taxicab Models may be Hacked-Up.
+
+(b) Putting Vehicle into Service the First Time. A Taxicab Model may be Hacked-up for use as a Taxicab, only if it:
+
+   (1) Is new, having fewer than 500 miles on the odometerand is one of the manufacturer’s two latest vehicle model years (Example: If in calendar year 2008 the manufacturer introduces the 2009 Caprice, only 2009 and 2008 Caprices may be Hacked-up); or
+
+   (2) Is a used Taxicab Model less than seven years old and passes inspection.
+
+(c) Continuation in Service. Upon Hack-up, a vehicle may continue in service with the same Medallion so long as the vehicle passes inspection and has not yet met its Scheduled Retirement Date, as set forth in 35 RCNY § 67-18, as may be extended by 35 RCNY § 67-19, below.
+
+(d) Limited Right to "Re-Hack" for Transfer. A vehicle that has been Hacked-up may be transferred to another Medallion, with the approval of the Commission, only if the vehicle passes inspection, has not yet met its Scheduled Retirement Date and meets one of the following conditions:
+
+   (1) Repossessions. The vehicle is purchased through a bank or other lender that has acquired the right to sell the vehicle through repossession and the repossession occurs within 24 months of Hack-up.
+
+   (2) Long-Term Drivers. The vehicle is owned by a Long-Term Driver who has driven the vehicle for at least five months under the existing Medallion and who will continue to be a Long-Term Driver under the new Medallion.
+
+   (3) Same Medallion Owner or Agent. The owner (or owner's Agent) of the Medallion transfers the vehicle to another Medallion operated by the same owner or agent.
+
+   (4) Compressed Natural Gas Vehicle. The owner of a Medallion (or the owner's agent) may transfer a vehicle fueled by Compressed Natural Gas to any other Medallion owned by the same owner.
+
+   (5) Transfer of Medallion and Vehicle. A vehicle which is in use with an Independent Medallion and is not at its Scheduled Retirement Date can continue in use with that Medallion following the transfer of that Medallion until its Scheduled Retirement Date if it passes all inspections and if the vehicle meets all of the following:
+
+      (i) the vehicle is acquired by a Transferee of an Independent Medallion together with that Medallion from the Transferor of that Independent Medallion and
+
+      (ii) the vehicle was operated by the Transferor of that Independent Medallion with that Medallion.
+
+(e) Re-Hack Transfer Inspection Fee. The Commission may charge an inspection fee of $50 to inspect a vehicle for transfer to another Medallion as a re-hack. If necessary, the Commission may charge $25 for replacement of New York State DMV license plates.
+
+
+
+
+
+
+
+
+*§ 67-07 Requirements for Hack-up – Paint, Finish and Lighting.* ::
+
+
+(a) Taxi Yellow. The exterior of the vehicle must be painted taxi yellow (Dupont M6284 or its equivalent), except for trim. Samples of paint color and code are to be submitted to the Commission for approval.
+
+(b) Front Design. The front of the vehicle, and especially the bumper, should be designed with strong emphasis on reducing injury to pedestrians. There must be no unnecessary projections such as rigid hood ornaments.
+
+(c) Signs. The vehicle must be provided with signs that conform to the marking specifications in 35 RCNY § 58-32(i).
+
+(d) Auxiliary Turn Signals. Suitable wiring must be provided for a pair of auxiliary turn signal lamps to be located next to the roof light. These lamps must not be activated with the brake lights.
+
+(e) Roof Light. The vehicle must be equipped with an approved Roof Light.
+
+
+
+
+
+
+*§ 67-08 Requirements for Hack-up – Occupant Accommodation.* ::
+
+
+(a) Upholstery and Trim.
+
+   (1) Must be an easy-to-clean material such as vinyl. Exception: If the vehicle manufacturer installed side airbags or a system which determines whether a seat is occupied for purposes of inflating an airbag, the upholstery must be that provided by the manufacturer.
+
+   (2) Must meet federal (MVSS) standards for flame resistance.
+
+   (3) Must have a surface suitable for mounting authorized decals.
+
+(b) Seats.
+
+   (1) A Taxicab may be equipped with either bucket or bench seats.
+
+   (2) The seats must not interfere with the partition and must meet all other Commission requirements.
+
+   (3) All replacement seats must be designed by the manufacturer for installation in the model and year of the vehicle in which the seats are installed.
+
+(c) Rear Windows. A Taxicab must be equipped with rear windows that can be opened and closed by passengers.
+
+
+
+
+
+
+*§ 67-09 Requirements for Hack-up – Taximeters.* ::
+
+
+(a) Requirement. The vehicle must be equipped with a sealed, tamper-resistant Taximeter installed by a Licensed Taximeter Business according to the rules and regulations in 35 RCNY Chapter 64. The Taximeter must be installed in a location approved by the Chairperson which permits safe operation of the vehicle and visibility to the passenger.
+
+(b) Technical Specifications. The Taximeter must meet the specifications and tolerances published in the most recent National Institute of Standards and Technology Handbook, and must be approved for use in New York by the NYS Department of Agriculture and Markets and the Commission. Any new Taximeter will be subject to a minimum three month test period before approval.
+
+(c) Other Technical Requirements.
+
+   (1) The Roof Light must be controlled by engaging the Taximeter.
+
+   (2) The Taximeter must be capable of calculating and displaying all required rates of fare.
+
+   (3) The Taximeter and all connections must be secure and tamper proof. All switches, wiring and caps must meet applicable specifications of the Society of Automotive Engineers.
+
+
+
+
+
+
+
+
+*§ 67-10 Requirements for Hack-up – Partitions.* ::
+
+
+(a) Requirement.
+
+   (1) The vehicle must be equipped with a partition that isolates the driver from the rear seat passengers or all passengers of the vehicle unless the vehicle is exempt from the partition requirement pursuant to 35 RCNY § 58-35(b).
+
+   (2) The purpose of the partition is to provide protection to the driver while ensuring passenger safety and enabling rear seat passengers to enjoy a clear and unobstructed view of the TLC Drives License, Rate Card, and front windshield.
+
+(b) Technical Specifications.
+
+   (1) The partition must extend from the ceiling to a specific point as recommended by the Chairperson and approved by the Commission, based upon the make and model of the vehicle.
+
+   (2) The transparent portion of the partition must be constructed of a mar-resistant polycarbonate not less than 0.375 inches thick that will provide passengers and drivers with maximum visibility.
+
+      (i) For a flat partition and a partition for a Taxicab with factory installed curtain airbags, the transparent portion must extend from the ceiling to join or overlap with the protective plate of the partition.
+
+      (ii) For an L shaped partition, on the side that is behind the driver, the transparent portion of the partition must extend from the ceiling to join or overlap with the protective plate of the partition. On the side that extends forward to back between the two front seats, the transparent portion of the partition must extend from the ceiling to join or overlap with the protective plate of the partition on the right side of the center console located between the two front seats.
+
+   (3) The protective plate must join or overlap with the transparent portion of the partition and extend downward to the floor of the vehicle. The protective plate must be a plate of 0.085-inch thick bullet-resistant ballistic steel or its equivalent if approved by the Deputy Commissioner for Safety and Emissions. The protective plate must be installed inside and covering the front seat's entire backrest.
+
+      (i) The protective plate must extend from the point that the transparent portion joins it downward to the floor of the Taxicab.
+
+      (ii) If the transparent portion overlaps the protective plate, the protective plate must extend from the point of joinder with the transparent portion downward to the floor of the Taxicab.
+
+      (iii) For an L shaped partition, the protective plate must also cover the right side of the center console between the two front seats.
+
+   (4) The entire protective plate of each partition must have sufficient padding to prevent injury to any rear-seat passenger in case of a Collision or sudden stopping, and all surfaces must be free of sharp and rough edges.
+
+   (5) There must be no opening or gap between the partition and the body of the vehicle larger than one inch, except for vehicles equipped with factory installed curtain airbags. In those vehicles, the partition shall allow a space of six inches on each side, sufficient to permit proper deployment of the curtain airbags.
+
+   (6) In addition to meeting all other technical specifications, a partition may be installed only if it does not impair passenger and driver safety and has the following features:
+
+      (i) Allows passengers and drivers to communicate with each other
+
+      (ii) Allows passengers in the rear passenger compartment to pay fares by cash or by credit card (if the Taxicab is capable of accepting credit card payments) and to receive receipts for payments and transactions.
+
+
+
+
+
+
+
+
+*§ 67-11 Requirements for Hack-up – Distress Signal Lights.* ::
+
+
+(a) Requirement. An owner must equip all Taxicabs with a help or distress signaling light system consisting of two turn signal type "lollipop" lights.
+
+(b) Technical Specifications.
+
+   (1) One light must be mounted on the front center of the vehicle, either on top of the bumper or forward or behind the grill. A second light must be mounted on top of the rear bumper, to the left of the license plate.
+
+   (2) Each light must be three to four inches in diameter, have a total rated output of 32 candle power, and be amber-colored or have an amber-colored lens so that the light output of the device is the color amber at 32 candle power.
+
+   (3) The activator must be installed within easy reach of the driver, must be silent when operating, and must be fully solid-state.
+
+   (4) The lights must be able to flash between 60 and 120 times per minute.
+
+   (5) The wiring must not affect or interfere with, directly or otherwise, any wiring or circuitry used by the meter for measuring time or distance.
+
+
+
+
+
+
+*§ 67-12 Requirements for Hack-up – In-Vehicle Camera System ("IVCS").* ::
+
+
+(a) Requirement. When an existing IVCS is required to be replaced or when an IVCS system is installed (including, but not limited to, at Hack-up), it must be functioning and in good working order and meet the specifications and installation requirements below.
+
+(b) Technical Specifications.
+
+   (1) The IVCS must be connected to the vehicle battery, and the fuse for the connection must be concealed in a tamper-resistant housing.
+
+   (2) Wiring between the recording unit and the camera head must use at either end, tamper-resistant registered jack (RJ) style connectors.
+
+   (3) All electrical connections and wiring must be protected from spikes and dips in vehicle voltage.
+
+   (4) The camera head housing and brackets must be tamper-proof and securely mounted to the right of the rear view mirror. The installation must provide unobstructed vision for the driver.
+
+   (5) The camera's field of view must include the full face of all occupants seated in passenger seats and facing forward.
+
+   (6) Images must be recorded and stored in a unit separate from the camera head.
+
+   (7) The recording unit must be concealed from view and fastened securely with tamper-resistant hardware.
+
+   (8) The IVCS must provide a visual indication of system status that is located on the lower left portion of the dashboard and is visible to the driver and to law enforcement personnel inspecting the vehicle from outside of the driver door.
+
+   (9) The IVCS and components must be sufficiently shock-resistant to withstand typical vehicle movement and collisions.
+
+   (10) The IVCS must have an RS-232 connection or other means for secure image retrieval.
+
+   (11) Images must be sharp, undistorted, and clear enough to enable the viewer to identify all passengers under all lighting conditions, including, for example, dark and bright light, daylight, and backlight.
+
+   (12) Sensor resolution must be, at a minimum, 510 by 480 pixels.
+
+   (13) Storage capacity must be, at a minimum, 7,000 images in an encrypted format, and all access to the storage unit must result in the storage of an electronic "tag" including the installer identification number and date of the event.
+
+   (14) The IVCS must have connection ports for a minimum of two (2) cameras.
+
+   (15) The IVCS must have an event flag or panic button accessible to the driver and located in an inconspicuous location.
+
+   (16) The IVCS must record images and the following information for each image:
+
+      (i) Date and time
+
+      (ii) Taxicab Medallion number
+
+      (iii) IVCS serial number
+
+      (iv) IVCS indicator for event flags.
+
+   (17) Image capture must be linked to the following events:
+
+      (i) Vehicle door openings and closings
+
+      (ii) Meter engagement
+
+      (iii) Event flag button activation
+
+      (iv) Event flag in the test mode when the image(s) are recorded for inspection and test purposes
+
+      (v) Panic button activation.
+
+   (18) In the event of a panic button activation, systems must record to protected memory a total of three events. The recording must include, at a minimum, the 2.5 minutes immediately before and after the button activation, at one frame per second.
+
+   (19) Image access may be provided only to law-enforcement agencies, including the New York City Police Department.
+
+   (20) If the IVCS has a physical port for secure image retrieval, the port must be located on the right side of the dashboard or in the trunk, installed inconspicuously, and accessible to law enforcement personnel.
+
+   (21) When memory storage capacity is reached, the IVCS must overwrite the oldest images as new images are recorded in sequence.
+
+   (22) Installations and repairs of IVCS may be performed only by installers authorized by the manufacturer and currently licensed by the Department of Consumer Affairs. Installations and repairs may also be performed by Taximeter Businesses currently licensed by the Commission pursuant to chapter 14 of this title.
+
+   (23) A notarized affidavit signed by a manufacturer's authorized installer attesting to the proper functionality of the IVCS must be provided to the Commission by the authorized installer: (i) annually, and (ii) within 14 calendar days after any installation, repair, or modification of the IVCS.
+
+
+
+
+
+
+*§ 67-13 Requirements for Hack-up – Credential Holders.* ::
+
+
+(a) Requirement. A credential holder must be mounted behind the driver in the vehicle in a manner that does not block the driver's view. The holder will be on the partition if there is a partition, or on the headrest if there is no partition.
+
+(b) Technical Specifications. A credential holder frame mounted on the driver's side of the clear portion of the partition must conform to the following:
+
+   (1) Be approved by the Commission.
+
+   (2) Be secured by either rivet or screw at least two inches above the frame supporting the clear portion of the partition and centered on the vehicle's steering column or the headrest on the driver's seat facing the rear passenger's compartment.
+
+   (3) The frame must have a drop-in or slide-in slot accessible only from the driver's compartment for the rate card and the driver's license.
+
+   (4) The frame must have sufficient illumination so that the rate card and the driver's license are clearly visible from the rear seat after dark.
+
+   (5) The frame must be sufficiently padded so as not to cause injury to the driver.
+
+
+
+
+
+
+*§ 67-14 Requirements for Hack-up – Air Conditioning.* ::
+
+
+(a) Requirement. All vehicles must be equipped with an air conditioner. The air conditioner must be in good working condition from May 1st through September 30th each year. In vehicles equipped with a partition, the air conditioner must include an auxiliary unit for the rear seating area.
+
+(b) Technical Specifications.
+
+   (1) The auxiliary unit must be either standard equipment or optional equipment built into the vehicle by the vehicle manufacturer.
+
+   (2) The auxiliary unit must have controls that passengers may operate in the rear passenger area.
+
+
+
+
+
+
+*§ 67-15 Requirements for Hack-up – Technology System.* ::
+
+
+(a) Technology System. Every Taxicab must be equipped with Technology System from a licensed Technology System Provider.
+
+
+
+
+
+
+
+
+*§ 67-16 Authorized Rooftop Advertising Fixture.* ::
+
+
+(a) Authorized Rooftop Advertising Fixture.
+
+   (1) Upon payment of an annual Advertising Permit Fee as described in 35 RCNY § 58-07(g), a Medallion Owner may install and maintain an authorized Rooftop Advertising Fixture.
+
+   (2) A Medallion Owner must not install or maintain a Rooftop Advertising Fixture that is not authorized, or no longer authorized, by TLC.
+
+(b) Grandfathered Authorized Rooftop Advertising Fixtures. A Rooftop Advertising Fixture that is authorized by a Memorandum of Understanding between the Rooftop Advertising Fixture Provider and the TLC that is in effect on August 30, 2011 and was installed in accordance with these rules shall be deemed to comply with the requirements of these rules.
+
+(c) Requirements for Obtaining TLC Approval of a Rooftop Advertising Fixture.
+
+   (1) The Rooftop Advertising Fixture must be tested and certified in accordance with the Department of Defense Test Standard MIL-STD 810f by a licensed Professional Engineer and documentation of testing and certification must be submitted to TLC. (MIL-STD 810f can be found at http://www.dtc.army.mil/navigator.)
+
+   (2) The Rooftop Advertising Fixture must be approved by TLC's Safety and Emissions Division.
+
+   (3) The Rooftop Advertising Fixture Provider may post advertisements on the Rooftop Advertising Fixture. Such advertisements:
+
+      (i) must not exceed the physical dimensions of the advertising display surface of the rooftop unit.
+
+      (ii) Exception: An advertisement can exceed the dimensions of the advertising display surface of the rooftop unit by no more than 100 square inches if the certification by a Professional Engineer as required in paragraph one of this subdivision specifically states that the extension is safely supported upon the Rooftop Advertising Fixture.
+
+   (4) The Rooftop Advertising Fixture must:
+
+      (i) be two-sided, each side of a shape that is longer across and shorter in height, although not necessarily a rectangle;
+
+      (ii) display advertising material to the sides of the vehicle, and
+
+      (iii) not display advertising material to the front and back of the vehicle.
+
+   (5) Variation in approved design.
+
+      (i) If the Rooftop Advertising Fixture Provider wants to deviate from an approved design, it must inform the TLC of any material variation in the original, approved design before installing a modified fixture.
+
+      (ii) The TLC shall, within fourteen (14) business days, inform the Rooftop Advertising Fixture Provider whether an additional authorization is required with respect to the modified Rooftop Advertising Fixture.
+
+(d) Maintenance of Rooftop Advertising Fixture. The Rooftop Advertising Fixture Provider must maintain the Rooftop Advertising Fixture in accordance with this Rule:
+
+   (1) The Rooftop Advertising Fixture Provider must ensure that the Rooftop Advertising Fixture:
+
+      (i) is firmly affixed to each taxicab;
+
+      (ii) is otherwise operating in a safe manner;
+
+      (iii) is in good working order; this includes that the advertising displayed on the fixture is firmly affixed; and
+
+      (iv) displays current advertisements. A current advertisement is one that includes, but is not limited to, a defined event (such as advertisements for movies, concerts or events which have fixed opening or running dates) and only remains current until 60 days following the completion or termination of the event, or promotes an existing business or consumer product.
+
+   (2) (i) The Rooftop Advertising Fixture Provider must not display advertising that is offensive to public morals or is otherwise in violation of New York Penal Law Section 245.11.
+
+      (ii) The Rooftop Advertising Fixture Provider must remove any advertising in violation of subparagraph (i) from public display within fifteen (15) days after a TLC request to remove such advertising.
+
+(e) Termination of Authorization of Rooftop Advertising Fixture.
+
+   (1) The Chairperson may terminate authorization of a Rooftop Advertising Fixture if the provider has not complied with the requirements stated in this Rule.
+
+      (i) Prior to terminating authorization, the Chairperson will give the Rooftop Advertising Fixture Provider notice of the Chairperson's intent to terminate authorization and shall provide detailed reasons for the action.
+
+      (ii) The Rooftop Advertising Fixture Provider shall have 21 business days after the notice to cure any defect or to respond to any concerns set forth in the notice unless the TLC extends the cure period.
+
+      (iii) If the Rooftop Advertising Fixture Provider fails to cure any defect or fail to respond to any concerns set forth in the Chairperson's notice to the satisfaction of the Chairperson within the time period allotted by the TLC, the Chairperson may promptly terminate authorization.
+
+   (2) Notwithstanding the notice requirements of paragraph one, TLC may immediately terminate authorization of a Rooftop Advertising Fixture if the Chairperson determines there is an imminent threat to the health or safety of members of the public, taxi drivers, or other individuals.
+
+
+
+
+
+
+*§ 67-17 [Reserved]* ::
+
+
+(a) New Vehicles. All vehicles Hacked-up as new vehicles pursuant to 35 RCNY § 67-06(b)(1) must be retired from Taxicab service and replaced no later than the first scheduled inspection of the vehicle occurring 84 months after the vehicle was Hacked-up.
+
+(b) Used Vehicles. All vehicles Hacked-up as used vehicles pursuant to 35 RCNY § 67-06(b)(2) must be retired from Taxicab service and replaced no later than the first scheduled inspection of the vehicle occurring 84 months after the vehicle was Hacked-up, less the age of the vehicle as determined by the difference between the calendar year at Hack-up and the model year of the vehicle. For example, a used 2015 model year vehicle that was hacked up in 2018 is three years old and must be retired from Taxicab service and replaced no later than the first scheduled inspection of the vehicle occurring 48 months after the vehicle was Hacked-up.
+
+
+
+
+
+
+
+
+*§ 67-19 Vehicle Retirement Extensions.* ::
+
+
+(a) Hardship Extension. The owner of a Taxicab may apply to the Chairperson for an extension of up to 12 months from the Scheduled Retirement Date. To obtain approval of a hardship extension:
+
+   (1) The vehicle owner must demonstrate an economic or other personal hardship that the Chairperson determines would create an undue burden upon the owner if the extension were not granted.
+
+   (2) The vehicle owner must submit a request in writing, together with any supporting documentation, to the Chairperson at least 30 days before the Scheduled Retirement Date. This 30-day deadline may be waived by the Chairperson upon a showing of good cause.
+
+   (3) The vehicle must continue to meet all safety and emission requirements throughout the extension. The Chairperson shall withdraw any extension granted whenever the vehicle is determined by the Commission to be unsafe for operation.
+
+(b) Compressed Natural Gas Extension. An automatic 24-month extension is granted to any Taxicab vehicle that meets the following requirements:
+
+   (1) The vehicle was Hacked-up between March 1, 1996 and April 17, 2007.
+
+   (2) The vehicle was dedicated to operating on compressed natural gas (with a maximum reserve gas tank of five gallons) within six months after Hack-up.
+
+   (3) The vehicle has remained dedicated to operating on compressed natural gas thereafter and throughout its operation.
+
+(c) Minivan Extension.
+
+   (1) Any minivan approved for use as a Taxicab by the Commission that was Hacked-up between March 1, 1996 and April 17, 2007 will have its Scheduled Retirement Date extended as follows:
+
+      (i) By 12 additional months of Taxicab service if double-shifted and not driven by at least one long-term driver
+
+      (ii) By 18 additional months of Taxicab service under other conditions
+
+   (2) A Taxicab whose Scheduled Retirement Date has been extended in accordance with the provisions of this section is not eligible for the extended vehicle lifetime provided for Clean Air and Accessible Taxicabs described in 35 RCNY § 67-19(d) below.
+
+(d) Clean Air and Accessible Taxicab Extensions, Vehicles Hacked-up Prior to 4/20/15.
+
+   (1) Extensions of 36-Month Retirement Schedule. The regular 36-Month Retirement Schedule for any Level I or Level II Clean Air Taxicab or any Accessible Taxicab is extended by 12 months.
+
+   (2) Extensions of 60-Month Retirement Schedule: Accessible or Level I Clean Air. The regular 60-Month Retirement Schedule for any Level I Clean Air Taxicab or any Accessible Taxicab is extended by 24 months.
+
+   (3) Extensions of 60-Month Retirement Schedule: Level II Clean Air. The regular 60-Month Retirement Schedule for any Level II Clean Air Taxicab is extended by 12 months.
+
+(e) Final Retirement Date. A vehicle which cannot pass inspection must be replaced, regardless of whether its Scheduled Retirement Date has been reached. A vehicle that has reached its Scheduled Retirement Date, including any extensions provided for in this section, must be retired regardless of whether it may still pass inspection.
+
+
+
+
+
+
 Chapter 68: Procedures Relating To Enforcement
 --------------------------------------------------
 
@@ -32438,39 +32438,6 @@ This chapter is informational in nature and does not provide for any penalties.
 
 
 
-Chapter 76: Information Security Rules For Taxicab Technology Service Providers [Repealed]
---------------------------------------------------
-
-
-
-*§ 76-01 Scope of the Chapter. [Repealed]* ::
-
-
-
-
-
-
-
-
-
-*§ 76-02 Definitions Specific to this Chapter. [Repealed]* ::
-
-
-
-
-
-
-
-
-
-*§ 76-03 Information Security Requirements. [Repealed]* ::
-
-
-
-
-
-
-
 Chapter 75: Rules For Authorization of Taxicab Technology Service Providers [Repealed]
 --------------------------------------------------
 
@@ -32717,6 +32684,39 @@ Chapter 75: Rules For Authorization of Taxicab Technology Service Providers [Rep
 
 
 *§ 75-25 Technical Requirements – Taxicab Technology System (TPEP). [Repealed]* ::
+
+
+
+
+
+
+
+Chapter 76: Information Security Rules For Taxicab Technology Service Providers [Repealed]
+--------------------------------------------------
+
+
+
+*§ 76-01 Scope of the Chapter. [Repealed]* ::
+
+
+
+
+
+
+
+
+
+*§ 76-02 Definitions Specific to this Chapter. [Repealed]* ::
+
+
+
+
+
+
+
+
+
+*§ 76-03 Information Security Requirements. [Repealed]* ::
 
 
 

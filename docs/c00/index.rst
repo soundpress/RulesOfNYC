@@ -2300,55 +2300,6 @@ However, if in the opinion of the engineer responsible for Controlled Inspection
 
 
 
-Chapter 22: Pressure Tanks
---------------------------------------------------
-
-
-
-*§ 22-01 Installation and Maintenance of Pressure Tanks Operating at a Pressure in Excess of 15 PSI and Their Proximity to Gas Supply or Service Lines.* ::
-
-
-(a) Applicability. These regulations shall apply to tanks containing water and air in combination, under pressure exceeding 15 psi above atmospheric pressure, where the pressure is supplied and maintained by pumps connected directly to the tanks.
-
-(b) Design. The system shall be designed by a registered Architect or a Licensed Professional Engineer. An application and plans shall be filed and the approval of the department obtained. The plans and application shall contain, but not be limited to:
-
-   (1) Size and location of high pressure tanks.
-
-   (2) The operating pressures and temperatures.
-
-   (3) The location, type and specifications of pressure relief valves.
-
-(c) Location. 
-
-   (1) All high pressure tanks shall be located a clear distance of at least five feet horizontally from a gas service or distribution line or its vertical projection upon the floor.
-
-   (2) All new high pressure tanks installations shall be located in rooms separated from gas service or distribution lines.
-
-   (3) In cases where the spatial relationship between tanks and gas services does not comply with the regulations, it shall be the responsibility of the party responsible for the last installation to correct the violation.
-
-(d) Installation. 
-
-   (1) Installation with the exception of welding, shall be under controlled inspection by the engineer responsible for the design, or by a Professional Engineer acceptable to him.
-
-   (2) The welding shall be under controlled inspection of an Engineer, supervising a welding inspection agency acceptable to the Department of Buildings.
-
-   (3) Welders shall be qualified for all pipe sizes, wall thicknesses and positions in accordance with either the American Petroleum Institute, 1801 K Street, N.W., Washington, D.C. 20006, Standard for Welding Pipelines and Related Facilities, Fourteenth Edition, January 1977, , or the American Society of Mechanical Engineers, Welding and Brazing Qualification, Section VIII, Boiler and Pressure Vessel Code, 1980, , and requalified on an annual basis.
-
-   (4) The qualification testing shall be performed by an agency listed with the Department of Buildings, and the inspector shall have a minimum radiography qualification of Level II in accordance with the American Society for Nondestructive Testing, 3200 Riverside Drive, Columbus, Ohio 43221, Recommended Practice, Document No. SNT-TC-1A-1980.
-
-   (5) Copies of the certified welder qualification reports shall be maintained by the responsible welding agency and shall be made available upon request to the Department of Buildings.
-
-   (6) No reports from any welding inspection agency shall be accepted unless such agency has first requested and obtained approval from this Office, in accordance with Rule 2511(G)(1) of the Board of Standards and Appeals Welding Rules.
-
-   (7) All welded piping shall be butt welded.
-
-   (8) Radiography shall be performed on all butt welds in accordance with API STD 1104-1977 or ANSI/ASTM BPV-IX-1980.
-
-   (9) Testing – A hydrostatic test of the completed installation at 150 percent of the design pressure adjusted to compensate for the difference in gas or fluid pressure and the ambient temperature shall be conducted. Where the changes in an existing system incorporating high pressure tanks involves less than 30 percent of the piping system, the testing may be in accordance with Standard Power Piping, ANSI B31.1-1980.
-
-
-
-
 Chapter 21: Plans
 --------------------------------------------------
 
@@ -2468,6 +2419,55 @@ Chapter 21: Plans
    (4) After the conclusion of a hearing, the OATH Administrative Law Judge shall issue proposed findings of fact and proposed conclusions of law, along with a report and recommendation to the Commissioner. The Commissioner shall review the report and recommendation issued by the OATH Administrative Law Judge and shall issue a final determination. The Commissioner shall notify the architect or engineer in writing of the final determination. Such notice shall include a written statement indicating the reason for the final determination.
 
    (5) After the Commissioner has rendered a final determination excluding a particular professional, all applications and plans submitted by that architect or engineer shall be subject to full review by the Department.
+
+
+
+
+Chapter 22: Pressure Tanks
+--------------------------------------------------
+
+
+
+*§ 22-01 Installation and Maintenance of Pressure Tanks Operating at a Pressure in Excess of 15 PSI and Their Proximity to Gas Supply or Service Lines.* ::
+
+
+(a) Applicability. These regulations shall apply to tanks containing water and air in combination, under pressure exceeding 15 psi above atmospheric pressure, where the pressure is supplied and maintained by pumps connected directly to the tanks.
+
+(b) Design. The system shall be designed by a registered Architect or a Licensed Professional Engineer. An application and plans shall be filed and the approval of the department obtained. The plans and application shall contain, but not be limited to:
+
+   (1) Size and location of high pressure tanks.
+
+   (2) The operating pressures and temperatures.
+
+   (3) The location, type and specifications of pressure relief valves.
+
+(c) Location. 
+
+   (1) All high pressure tanks shall be located a clear distance of at least five feet horizontally from a gas service or distribution line or its vertical projection upon the floor.
+
+   (2) All new high pressure tanks installations shall be located in rooms separated from gas service or distribution lines.
+
+   (3) In cases where the spatial relationship between tanks and gas services does not comply with the regulations, it shall be the responsibility of the party responsible for the last installation to correct the violation.
+
+(d) Installation. 
+
+   (1) Installation with the exception of welding, shall be under controlled inspection by the engineer responsible for the design, or by a Professional Engineer acceptable to him.
+
+   (2) The welding shall be under controlled inspection of an Engineer, supervising a welding inspection agency acceptable to the Department of Buildings.
+
+   (3) Welders shall be qualified for all pipe sizes, wall thicknesses and positions in accordance with either the American Petroleum Institute, 1801 K Street, N.W., Washington, D.C. 20006, Standard for Welding Pipelines and Related Facilities, Fourteenth Edition, January 1977, , or the American Society of Mechanical Engineers, Welding and Brazing Qualification, Section VIII, Boiler and Pressure Vessel Code, 1980, , and requalified on an annual basis.
+
+   (4) The qualification testing shall be performed by an agency listed with the Department of Buildings, and the inspector shall have a minimum radiography qualification of Level II in accordance with the American Society for Nondestructive Testing, 3200 Riverside Drive, Columbus, Ohio 43221, Recommended Practice, Document No. SNT-TC-1A-1980.
+
+   (5) Copies of the certified welder qualification reports shall be maintained by the responsible welding agency and shall be made available upon request to the Department of Buildings.
+
+   (6) No reports from any welding inspection agency shall be accepted unless such agency has first requested and obtained approval from this Office, in accordance with Rule 2511(G)(1) of the Board of Standards and Appeals Welding Rules.
+
+   (7) All welded piping shall be butt welded.
+
+   (8) Radiography shall be performed on all butt welds in accordance with API STD 1104-1977 or ANSI/ASTM BPV-IX-1980.
+
+   (9) Testing – A hydrostatic test of the completed installation at 150 percent of the design pressure adjusted to compensate for the difference in gas or fluid pressure and the ambient temperature shall be conducted. Where the changes in an existing system incorporating high pressure tanks involves less than 30 percent of the piping system, the testing may be in accordance with Standard Power Piping, ANSI B31.1-1980.
 
 
 
@@ -3475,77 +3475,6 @@ Chapter 32: Walls [Repealed]
 
 
 
-Chapter 35: Electrical Inspection
---------------------------------------------------
-
-
-
-*§ 35-01 Designation of Private Agencies to Perform Electrical Inspections in the City of New York.* ::
-
-
-(a) Grounds for certification and renewal of certification. The commissioner may grant and each January thereafter renew certification of private electrical inspection agencies, provided:
-
-   (1) the agency applying for certification certifies in writing that each of the inspectors it shall employ to conduct the inspections permitted by § 27-3005(2)(b) of the Administrative Code shall possess five years experience as an electrician or inspector of electrical installation; or three years of experience as an electrician or inspector of electrical installation plus two years of education at an accredited college technical school in a program emphasizing courses in electrical installations or education toward a baccalaureate degree in Electrical Engineering or Engineering Technology with an emphasis on electrical installation or repair. Two of the requisite years of working experience as an electrician or inspector of electrical installation shall be experience in the installation of lighting, heating and power. Experience and education must be acceptable to the Department of Buildings and is subject to the Commissioner's review and approval; and
-
-   (2) the agency possesses
-
-      (i) a general liability insurance policy in excess of $5 million, and
-
-      (ii) worker's compensation insurance for its employees and submits copies of the Insurance Certificates to the Commissioner; and
-
-   (3) the agency furnishes the names of its inspectors and documentation supporting the experience required by 1 RCNY § 35-01(a)(1) hereof, and thereafter promptly advises the commissioner of any changes in personnel affecting the inspection permitted; and
-
-   (4) the agency prohibits its inspectors and other employees from accepting any gratuities or other benefit for work performed pursuant to these regulations and § 27-3005(2)(b) of the Administrative Code; and
-
-   (5) the agency does not conduct an inspection pursuant to § 27-3005(2)(b) of the Administrative Code of any work performed by any of its own officers, employees, or any other person associated with the agency; and
-
-   (6) the agency has a legal place of business within the city of New York (P.O. Box not acceptable).
-
-(b) Right to deny or revoke certification. 
-
-   (1) The commissioner or his designee may deny or revoke certification where investigation reveals any of the following:
-
-      (i) the agency has failed to comply with any of the provisions enumerated in 1 RCNY § 35-01(a);
-
-      (ii) the agency has knowingly made false or misleading statements, or knowingly falsified or allowed to be falsified any certificate, form, signed statement, application, or report filed with the department, or failed to file a report required by law or the department or willfully impeded or obstructed such filing, or induced another person to do so; (iii) the agency engages in any other conduct evidencing a willful or grossly negligent failure to comply with provisions of state or local law, or rules or regulations promulgated pursuant to statutory authority; or
-
-      (iv) the agency engages in any other conduct evidencing a departure from the standard or good character applicable to the trade of licensed electrician.
-
-   (2) Where the commissioner or his designee, in his or her discretion, deems the certification of the agency shall be revoked, the agency shall be entitled to a hearing before the Office of Administrative Trials and Hearings as provided by rules promulgated by the department.
-
-   (3) Where the commissioner or his designee, in his or her discretion, deems that continued certification of the agency would be likely to create a condition of imminent peril to public safety, the revocation determination shall be effective immediately. In such an instance, the agency shall be entitled to a hearing pursuant to 1 RCNY § 35-01(b)(2) at the next available scheduled hearing session before the Office of Administrative Trials and Hearings.
-
-(c) Contractual obligation. 
-
-   (1) A contractual agreement between the agency and the City of New York is required in order for the agency to perform electrical inspections for the City of New York.
-
-   (2) Certification by the Commissioner is a prerequisite for participation in the contracting process.
-
-
-
-
-
-
-*§ 35-02 Payment of Fees for Certificates of Electrical Inspection.* ::
-
-
-(a) All applications for a certificate of electrical inspection for electrical work filed with the Department of Buildings shall specify a completion date for such work. No certificates of electrical inspection, other than temporary certificates for electrical service, shall be issued, unless and until the required total application fee or fees therefor shall have been paid to the commissioner.
-
-(b) The fees required to be paid pursuant to 27-3018(b) of the Administrative Code shall be paid as follows:
-
-   (1) The filing fee set forth in 27-3018, subdivision (b) of the Administrative Code shall be paid upon the filing of the application for a certificate of electrical inspection.
-
-   (2) (i)  The licensee shall schedule an inspection within thirty (30) days after the completion date specified on the application in accordance with procedures established by the Department. The remainder of the total fee, based upon the work listed on the application, shall be due and payable upon completion of the scheduled inspection by the Department. Upon completion of the inspection and the Department's determination that the work performed is complete and in compliance with the applicable provisions of the Electrical Code and upon the Department's having received full payment of applicable fees, including any additional fee payable under paragraph (4) of this subdivision, a certificate of electrical inspection shall be issued to the licensee.
-
-      (ii) if the licensee fails to schedule an inspection in accordance with Department's procedures within thirty days after the completion date specified on the application for a certificate of electrical inspection, or such date as extended by the Department, or cancels a scheduled inspection appointment with less than forty-eight (48) hours notice, or cancels a scheduled inspection more than forty-eight (48) hours prior to the inspection without scheduling an alternative date in accordance with Department procedures, or fails to provide access for the scheduled inspection, or if upon inspection it is determined by the Department that the work is not complete, or the scope of the work exceeds the scope of work indicated on the application or the work is not in compliance with the Electrical Code, the remainder of the total fee shall be due and payable immediately.
-
-   (3) Where the remainder of the total fee is due and payable immediately, as provided in paragraph (2)(ii) above, the licensee shall continue to be required to schedule an inspection(s) in the same manner as the initial inspection until the Department determines that the work performed conforms with the scope of the work indicated on the application and is in compliance with the applicable provisions of the Electrical Code. Upon such a determination and upon the Department's having received full payment of applicable fees, including any additional fee payable under paragraph (4) of this subdivision, a certificate of electrical inspection shall be issued to the licensee.
-
-   (4) Any additional fee, based on amendments to the original application that include additional work, must be paid prior to the issuance of a certificate of electrical inspection.
-
-
-
-
 Chapter 34: Electrical Code Rules
 --------------------------------------------------
 
@@ -3756,6 +3685,77 @@ In accordance with section 27-3005(a)(7) of the Administrative Code the Commissi
 
 
 
+Chapter 35: Electrical Inspection
+--------------------------------------------------
+
+
+
+*§ 35-01 Designation of Private Agencies to Perform Electrical Inspections in the City of New York.* ::
+
+
+(a) Grounds for certification and renewal of certification. The commissioner may grant and each January thereafter renew certification of private electrical inspection agencies, provided:
+
+   (1) the agency applying for certification certifies in writing that each of the inspectors it shall employ to conduct the inspections permitted by § 27-3005(2)(b) of the Administrative Code shall possess five years experience as an electrician or inspector of electrical installation; or three years of experience as an electrician or inspector of electrical installation plus two years of education at an accredited college technical school in a program emphasizing courses in electrical installations or education toward a baccalaureate degree in Electrical Engineering or Engineering Technology with an emphasis on electrical installation or repair. Two of the requisite years of working experience as an electrician or inspector of electrical installation shall be experience in the installation of lighting, heating and power. Experience and education must be acceptable to the Department of Buildings and is subject to the Commissioner's review and approval; and
+
+   (2) the agency possesses
+
+      (i) a general liability insurance policy in excess of $5 million, and
+
+      (ii) worker's compensation insurance for its employees and submits copies of the Insurance Certificates to the Commissioner; and
+
+   (3) the agency furnishes the names of its inspectors and documentation supporting the experience required by 1 RCNY § 35-01(a)(1) hereof, and thereafter promptly advises the commissioner of any changes in personnel affecting the inspection permitted; and
+
+   (4) the agency prohibits its inspectors and other employees from accepting any gratuities or other benefit for work performed pursuant to these regulations and § 27-3005(2)(b) of the Administrative Code; and
+
+   (5) the agency does not conduct an inspection pursuant to § 27-3005(2)(b) of the Administrative Code of any work performed by any of its own officers, employees, or any other person associated with the agency; and
+
+   (6) the agency has a legal place of business within the city of New York (P.O. Box not acceptable).
+
+(b) Right to deny or revoke certification. 
+
+   (1) The commissioner or his designee may deny or revoke certification where investigation reveals any of the following:
+
+      (i) the agency has failed to comply with any of the provisions enumerated in 1 RCNY § 35-01(a);
+
+      (ii) the agency has knowingly made false or misleading statements, or knowingly falsified or allowed to be falsified any certificate, form, signed statement, application, or report filed with the department, or failed to file a report required by law or the department or willfully impeded or obstructed such filing, or induced another person to do so; (iii) the agency engages in any other conduct evidencing a willful or grossly negligent failure to comply with provisions of state or local law, or rules or regulations promulgated pursuant to statutory authority; or
+
+      (iv) the agency engages in any other conduct evidencing a departure from the standard or good character applicable to the trade of licensed electrician.
+
+   (2) Where the commissioner or his designee, in his or her discretion, deems the certification of the agency shall be revoked, the agency shall be entitled to a hearing before the Office of Administrative Trials and Hearings as provided by rules promulgated by the department.
+
+   (3) Where the commissioner or his designee, in his or her discretion, deems that continued certification of the agency would be likely to create a condition of imminent peril to public safety, the revocation determination shall be effective immediately. In such an instance, the agency shall be entitled to a hearing pursuant to 1 RCNY § 35-01(b)(2) at the next available scheduled hearing session before the Office of Administrative Trials and Hearings.
+
+(c) Contractual obligation. 
+
+   (1) A contractual agreement between the agency and the City of New York is required in order for the agency to perform electrical inspections for the City of New York.
+
+   (2) Certification by the Commissioner is a prerequisite for participation in the contracting process.
+
+
+
+
+
+
+*§ 35-02 Payment of Fees for Certificates of Electrical Inspection.* ::
+
+
+(a) All applications for a certificate of electrical inspection for electrical work filed with the Department of Buildings shall specify a completion date for such work. No certificates of electrical inspection, other than temporary certificates for electrical service, shall be issued, unless and until the required total application fee or fees therefor shall have been paid to the commissioner.
+
+(b) The fees required to be paid pursuant to 27-3018(b) of the Administrative Code shall be paid as follows:
+
+   (1) The filing fee set forth in 27-3018, subdivision (b) of the Administrative Code shall be paid upon the filing of the application for a certificate of electrical inspection.
+
+   (2) (i)  The licensee shall schedule an inspection within thirty (30) days after the completion date specified on the application in accordance with procedures established by the Department. The remainder of the total fee, based upon the work listed on the application, shall be due and payable upon completion of the scheduled inspection by the Department. Upon completion of the inspection and the Department's determination that the work performed is complete and in compliance with the applicable provisions of the Electrical Code and upon the Department's having received full payment of applicable fees, including any additional fee payable under paragraph (4) of this subdivision, a certificate of electrical inspection shall be issued to the licensee.
+
+      (ii) if the licensee fails to schedule an inspection in accordance with Department's procedures within thirty days after the completion date specified on the application for a certificate of electrical inspection, or such date as extended by the Department, or cancels a scheduled inspection appointment with less than forty-eight (48) hours notice, or cancels a scheduled inspection more than forty-eight (48) hours prior to the inspection without scheduling an alternative date in accordance with Department procedures, or fails to provide access for the scheduled inspection, or if upon inspection it is determined by the Department that the work is not complete, or the scope of the work exceeds the scope of work indicated on the application or the work is not in compliance with the Electrical Code, the remainder of the total fee shall be due and payable immediately.
+
+   (3) Where the remainder of the total fee is due and payable immediately, as provided in paragraph (2)(ii) above, the licensee shall continue to be required to schedule an inspection(s) in the same manner as the initial inspection until the Department determines that the work performed conforms with the scope of the work indicated on the application and is in compliance with the applicable provisions of the Electrical Code. Upon such a determination and upon the Department's having received full payment of applicable fees, including any additional fee payable under paragraph (4) of this subdivision, a certificate of electrical inspection shall be issued to the licensee.
+
+   (4) Any additional fee, based on amendments to the original application that include additional work, must be paid prior to the issuance of a certificate of electrical inspection.
+
+
+
+
 Chapter 36: Electrical Contractors
 --------------------------------------------------
 
@@ -3804,19 +3804,6 @@ Chapter 37: Reference Standards
 
 
 
-Chapter 39: Cooling Towers and Evaporative Condensers
---------------------------------------------------
-
-
-
-*§ 39-01 Cooling Towers and Evaporative Condensers. [Repealed]* ::
-
-
-
-
-
-
-
 Chapter 38: Ventilation
 --------------------------------------------------
 
@@ -3834,43 +3821,15 @@ Chapter 38: Ventilation
 
 
 
-Chapter 41: Venting of Gas Water Heaters and Other Gas Appliances In Multiple Dwellings
+Chapter 39: Cooling Towers and Evaporative Condensers
 --------------------------------------------------
 
 
 
-*§ 41-01 Venting of Gas Water Heaters and Other Gas Appliances in Multiple Dwellings.* ::
+*§ 39-01 Cooling Towers and Evaporative Condensers. [Repealed]* ::
 
 
-(a) This section shall apply to vents for gas burning water heaters within apartments of multiple dwellings as required by § 27-887(d) of the Administrative Code (Building Code) and to gas appliances in rooms or spaces without a window opening to the outer air, used for living or sleeping within a multiple dwelling, where required by the provisions of § 64 of the Multiple Dwelling Law.
 
-(b) Vents shall consist of galvanized iron of not less than No. 26 U.S. gauge in thickness, cement-asbestos pipe, metal-asbestos pipe, enamelled steel pipe of a quality acceptable to the Department as heat and corrosion resistant, or other materials satisfactory to the superintendent.
-
-(c) Vents shall have a cross-sectional area at least equal to the area of the vent outlet of the appliance and shall have a minimum diameter or dimension of three (3) inches.
-
-(d) Vents shall lead to a flue or to the outer air as follows:
-
-   (1) Several vents may be connected to a flue if the cross-sectional area of the flue is equal to or greater than the total cross-sectional area of all vents so connected. No vent from a water heater or other gas appliance within an apartment may be connected to a flue serving a central heating plant.
-
-   (2) Vents may be connected to a flue serving appliances burning other than gas fuel provided the connection of the gas appliance to the flue is at least nine (9) inches above the connection of the other heat producing device, or through a suitable "Y" connection in a common vent pipe of proper diameter.
-
-   (3) Every flue to which a vent from a gas water heater is attached, shall extend to a distance of not less than four (4) feet above a flat roof, or two (2) feet above a pitched roof. Such flues on the exterior of a building, and the portions of the vent pipes on the exterior of a building, shall consist of standard water, steam or soil pipe, cement-asbestos pipe, metal-asbestos pipe, or other corrosion resistant material satisfactory to the Department. Flues and vent pipes on the exterior of buildings shall be adequately supported and braced. Flues within buildings shall be constructed as low temperature chimneys.
-
-   (4) Vents leading to an outside flue or terminating at the exterior of the building may pass through the upper part of a window if the vent is adequately secured in place and provided the vent is so arranged as to give minimum interference with the operation of the window, provided the area of the windows in the room after alteration equals or exceeds that required by law. Vents may also pass through an exterior wall by means of a metal sleeve placed in the wall. The metal sleeve shall consist of standard water, steam, or soil pipe, cement-asbestos pipe, or other approved material. The space between the sleeve and the vent shall be filled with incombustible material.
-
-   (5) Vent pipes may be terminated at the exterior of an outside wall of a building in which case the vents shall be turned upward for not less than ten (10) inches, except that for any vent pipes installed after June 30, 1955, the vertical rise of the vent pipe shall not be less than one and one-third times the length of the horizontal run of the vent pipe. No vent pipe shall terminate below the level of the top of a window unless at least three (3) feet distant from any part of the window. Vents shall be capped with an approved tee. Vents on the exterior of a building shall comply with the provisions of paragraph (4), subdivision (d) of this section as to the material that may be used.
-
-(e) Vent pipes shall be installed so as to provide a minimum clearance of three (3) inches on all sides from combustible material. Vent pipes shall not pass through a floor unless approved by the superintendent.
-
-(f) Where a vent pipe passes through a partition or roof constructed wholly or in part of combustible material, a ventilated metal thimble not less than six (6) inches larger in diameter than the pipe, shall be provided. Any material used to fill the space between the vent pipe and the thimble shall be incombustible.
-
-(g) Every vent pipe serving as a gas water heater shall be provided with a draft hood unless the water heater has an approved built-in draft hood. The draft hood shall be approved by a recognized testing laboratory as conforming to nationally accepted standards. The draft hood shall be installed at the flue collar or as near to the appliance as possible and in the position for which it was designed, with reference to horizontal and vertical planes. The relief opening of the draft hood shall not be obstructed.
-
-(h) The horizontal run of vent pipe shall not exceed three-fourths of the vertical rise of the flue to which the vent is attached. The vent pipe shall be pitched upward from the water heater with a slope of not less than one-fourth inch vertically for each foot of horizontal run.
-
-(i) No dampers, steel wool or other obstructions shall be placed in any vent pipe or flue.
-
-(j) A permit shall be obtained from the Department of Buildings before any vertical flue or chimney is constructed.
 
 
 
@@ -4202,6 +4161,47 @@ Where there is a practical difficulty in carrying out the strict letter of the p
 
 
 
+Chapter 41: Venting of Gas Water Heaters and Other Gas Appliances In Multiple Dwellings
+--------------------------------------------------
+
+
+
+*§ 41-01 Venting of Gas Water Heaters and Other Gas Appliances in Multiple Dwellings.* ::
+
+
+(a) This section shall apply to vents for gas burning water heaters within apartments of multiple dwellings as required by § 27-887(d) of the Administrative Code (Building Code) and to gas appliances in rooms or spaces without a window opening to the outer air, used for living or sleeping within a multiple dwelling, where required by the provisions of § 64 of the Multiple Dwelling Law.
+
+(b) Vents shall consist of galvanized iron of not less than No. 26 U.S. gauge in thickness, cement-asbestos pipe, metal-asbestos pipe, enamelled steel pipe of a quality acceptable to the Department as heat and corrosion resistant, or other materials satisfactory to the superintendent.
+
+(c) Vents shall have a cross-sectional area at least equal to the area of the vent outlet of the appliance and shall have a minimum diameter or dimension of three (3) inches.
+
+(d) Vents shall lead to a flue or to the outer air as follows:
+
+   (1) Several vents may be connected to a flue if the cross-sectional area of the flue is equal to or greater than the total cross-sectional area of all vents so connected. No vent from a water heater or other gas appliance within an apartment may be connected to a flue serving a central heating plant.
+
+   (2) Vents may be connected to a flue serving appliances burning other than gas fuel provided the connection of the gas appliance to the flue is at least nine (9) inches above the connection of the other heat producing device, or through a suitable "Y" connection in a common vent pipe of proper diameter.
+
+   (3) Every flue to which a vent from a gas water heater is attached, shall extend to a distance of not less than four (4) feet above a flat roof, or two (2) feet above a pitched roof. Such flues on the exterior of a building, and the portions of the vent pipes on the exterior of a building, shall consist of standard water, steam or soil pipe, cement-asbestos pipe, metal-asbestos pipe, or other corrosion resistant material satisfactory to the Department. Flues and vent pipes on the exterior of buildings shall be adequately supported and braced. Flues within buildings shall be constructed as low temperature chimneys.
+
+   (4) Vents leading to an outside flue or terminating at the exterior of the building may pass through the upper part of a window if the vent is adequately secured in place and provided the vent is so arranged as to give minimum interference with the operation of the window, provided the area of the windows in the room after alteration equals or exceeds that required by law. Vents may also pass through an exterior wall by means of a metal sleeve placed in the wall. The metal sleeve shall consist of standard water, steam, or soil pipe, cement-asbestos pipe, or other approved material. The space between the sleeve and the vent shall be filled with incombustible material.
+
+   (5) Vent pipes may be terminated at the exterior of an outside wall of a building in which case the vents shall be turned upward for not less than ten (10) inches, except that for any vent pipes installed after June 30, 1955, the vertical rise of the vent pipe shall not be less than one and one-third times the length of the horizontal run of the vent pipe. No vent pipe shall terminate below the level of the top of a window unless at least three (3) feet distant from any part of the window. Vents shall be capped with an approved tee. Vents on the exterior of a building shall comply with the provisions of paragraph (4), subdivision (d) of this section as to the material that may be used.
+
+(e) Vent pipes shall be installed so as to provide a minimum clearance of three (3) inches on all sides from combustible material. Vent pipes shall not pass through a floor unless approved by the superintendent.
+
+(f) Where a vent pipe passes through a partition or roof constructed wholly or in part of combustible material, a ventilated metal thimble not less than six (6) inches larger in diameter than the pipe, shall be provided. Any material used to fill the space between the vent pipe and the thimble shall be incombustible.
+
+(g) Every vent pipe serving as a gas water heater shall be provided with a draft hood unless the water heater has an approved built-in draft hood. The draft hood shall be approved by a recognized testing laboratory as conforming to nationally accepted standards. The draft hood shall be installed at the flue collar or as near to the appliance as possible and in the position for which it was designed, with reference to horizontal and vertical planes. The relief opening of the draft hood shall not be obstructed.
+
+(h) The horizontal run of vent pipe shall not exceed three-fourths of the vertical rise of the flue to which the vent is attached. The vent pipe shall be pitched upward from the water heater with a slope of not less than one-fourth inch vertically for each foot of horizontal run.
+
+(i) No dampers, steel wool or other obstructions shall be placed in any vent pipe or flue.
+
+(j) A permit shall be obtained from the Department of Buildings before any vertical flue or chimney is constructed.
+
+
+
+
 Chapter 42: Entrance Doors, Locks and Intercommunication Systems
 --------------------------------------------------
 
@@ -4431,139 +4431,6 @@ Chapter 48: Construction Superintendents [Repealed]
 
 
 
-
-
-
-
-Chapter 50: Distributed Energy Resource Standards
---------------------------------------------------
-
-
-
-*§ 50-01 Requirements for the Installation of High-Pressure Natural Gas-Fired Microturbine Systems.* ::
-
-
-(a) General requirements. All microturbine systems shall comply with the following general requirements:
-
-   (1) Description.
-
-      (i) The Microturbine System shall include one or more combustion-based turbine-driven electrical generators with 500 kW or less capacity, natural gas compressing equipment, heat recovery devices, electrical power distribution devices, gas vents or chimneys and associated appurtenances.
-
-      (ii) Microturbine systems shall utilize natural gas at an inlet pressure to the system of not greater than 3 psig, and shall boost the gas pressure to an inlet pressure to the combustion device of greater than 15 psig within the unit or room enclosure.
-
-      (iii) The total nominal electrical capacity at standardized operating conditions of all microturbine systems located within a single building shall not exceed 2,000 kW.
-
-   (2) Listing or MEA approval. For microturbines with external compressors, the compressor shall be MEA-approved and all components of the compressor and the microturbine shall be listed by a nationally recognized testing laboratory approved by the Commissioner. For microturbines with the compressor integrated with other elements into the unit, the integrated unit as well as each of its components shall be listed by a nationally recognized testing laboratory approved by the Commissioner.
-
-   (3) Utility ruling. The applicant shall consult the appropriate utility company regarding the characteristics of existing gas and electrical service to the site before installing the microturbine system. The applicant shall provide to the Department prior to plan approval either documentation from the utility company confirming that the electrical interconnection requirements have been preliminarily satisfied or an affidavit from the owner that there will be no interconnection with the electrical grid.
-
-   (4) Filing and permit. Plans for the complete microturbine system installation shall be approved by the New York City Department of Buildings and a work permit shall be obtained. A set of the approved plans shall be provided to the Fire Department.
-
-   (5) Installation.
-
-      (i) Regulation. Installation of microturbine systems shall be in accordance with all applicable requirements of the New York City Building Code, the New York City Electrical Code, and Reference Standards. NFPA 37 shall also apply, except where the Codes or these Rules are more restrictive. Such regulations include, but are not limited to the following: fuel gas piping, egress, fire protection, fire detection, electrical power, ventilation, and gas vent or chimney.
-
-      (ii) External compressor. For microturbines with an external compressor, the following requirements shall be satisfied:
-
-         A. Gas connections between the compressor and the turbine shall be solid-welded; no threaded joints shall be permitted.
-
-         B. A flame arrestor shall be installed upstream of the gas compressor to prevent flame propagating to the natural gas fuel distribution lines.
-
-         C. The length of gas piping connecting the gas compressor with the combustion device, both of which shall be in the same room, shall not exceed 12 feet.
-
-      (iii) Annunciation. All annunciations shall be provided locally and remotely to indicate any abnormal conditions in the system. The remote panel shall be located in a continuously supervised area on the premises.
-
-      (iv) Automatic gas shut-off. Gas supply to the microturbine shall be provided with an automatic shut-off valve that is activated by a malfunction alarm from any component of the microturbine system.
-
-      (v) Remotely and manually controlled emergency gas shut-off. A normally closed solenoid gas shut-off valve shall be located immediately after the branch connection providing dedicated service to the microturbine installation. The valve shall be manually controlled at the valve and remotely controlled both outside the door(s) to the microturbine room and at a supervised location. The gas shut-off valve and the controls shall each be clearly identified with signage indicating "emergency gas shut-off to microturbine."
-
-      (vi) Fuel shut-off valve diagram. A diagram shall be conspicuously posted on any door or gate leading to a microturbine indicating the locations of all manual and automatic fuel shut-off valves.
-
-      (vii) Security. The microturbine shall be provided with adequate protection from theft, tampering and unauthorized use. Access to microturbine systems shall be restricted by locked doors but shall be readily accessible for maintenance, repair and Fire Department access. Microturbines shall be adequately protected from vehicle impact.
-
-      (viii) Manufacturer's requirements. All manufacturer's requirements and recommendations shall be satisfied.
-
-      (ix) Signage. Signage clearly stating "HIGH PRESSURE GAS" shall be posted on or in front of the microturbine or microturbine system, and on the outside of all doors accessing any microturbine room.
-
-      (x) Existing buildings. For installation of microturbines in existing buildings, a structural evaluation of the method of support of the microturbine system shall be performed by a licensed engineer. Vibration isolation shall be provided for the microturbine system as required to mitigate vibration impact on the building structure.
-
-   (6) Inspection. Gas piping serving the microturbine shall be inspected by the Department. No self-certification of inspection shall be permitted. The inspection shall include a pipe integrity pressure test of all distribution piping. Installation and assembly of all system components shall be subject to a controlled inspection, in accordance with Section 27-132 of the New York City Building Code. Gas will be turned on only after successful completion of all testing.
-
-   (7) Fire Department permit. A Fire Department permit is required to operate the equipment.
-
-   (8) Fire Department Certificate of Fitness. A certificate of fitness ("C of F") holder, as authorized by the Fire Department, shall be required on the premises during regular business hours. The C of F holder shall be trained by the manufacturer or his authorized agent to shut down the equipment in an emergency.
-
-   (9) Service contract. The owner shall obtain a service contract from the microturbine manufacturer or a service company qualified by the manufacturer upon approval of the microturbine installation, and shall maintain it during the life of the installation.
-
-(b) Permitted locations.
-
-   (1) Outdoors at grade, on a roof or on a roof setback, within an integral weatherproof or lightweight enclosure acceptable to the manufacturer, subject to the following:
-
-      (i) Clearances. All components of the microturbine system shall be located a minimum of 4 feet from a wall or parapet, 8 feet from any building opening, including any door, operable window or intake opening and 5 feet from any exhaust termination or chimney. All microturbine systems located at grade shall satisfy the following clearances:
-
-         A. 50 feet from any subway entrance, exit, vent or other opening;
-
-         B. 20 feet from any above-ground flammable or combustible liquid storage tank;
-
-         C. 10 feet from any lot line, except 4 feet from any lot line in and adjacent to a manufacturing district;
-
-         D. 5 feet from any vent or fill line of any flammable or combustible liquid storage tank;
-
-         E. 5 feet from any parked motor vehicle.
-
-      (ii) Enclosure. All microturbine system components shall be contained within integral weather-proof enclosures pursuant to the listing of the device. The unit enclosure or the lightweight constructed enclosure shall be provided with a gas detection system with an alarm that annunciates in a supervised location. Equipment not directly associated with the microturbine system shall not be permitted in the same enclosure.
-
-   (2) Within a dedicated Mechanical Equipment Penthouse classified as Occupancy Group D-2, and subject to the following:
-
-      (i) Enclosure. The mechanical equipment penthouse shall be enclosed within 2-hour fire-resistance rated walls.
-
-      (ii) Fire suppression. The equipment room shall be fully sprinklered or provided with an equivalent fire suppression system acceptable to the Commissioner.
-
-      (iii) Mechanical ventilation. Mechanical ventilation shall be provided for the mechanical equipment penthouse at a rate sufficient to dissipate sensible heat released from the microturbine system in accordance with the manufacturer's recommendations, at a rate adequate to dilute the microturbine system rated flow rate of fuel gas below 25 percent of the lower flammability limit (LFL) of the fuel gas, or at an exhaust and make-up air rate of 80 times the maximum leakage rate of natural gas from the high-pressure system within the room at standard temperature and pressure based on the rated capacity of the gas compressor, whichever is greater. The ventilation rate shall not be less than required to maintain the ambient room temperature within the manufacturer's recommendations but shall not exceed 104 degrees Fahrenheit. Proper distribution of exhaust and make-up air must be provided to prevent pockets of increased gas concentration, including exhaust points high in the room to address the lighter-than-air properties of natural gas. Mechanical ventilation shall operate continuously.
-
-      (iv) Gas detection and alarm. The mechanical equipment penthouse shall be provided with a gas detection system with an alarm that annunciates in a supervised location. The gas detection system shall also trip the microturbine.
-
-      (v) Lighting. The mechanical equipment penthouse shall be provided with adequate lighting in accordance with the New York City Building Code.
-
-      (vi) Other equipment. Equipment not directly associated with the microturbine system, including but not limited to gas meters, shall not be permitted within the mechanical equipment penthouse.
-
-      (vii) Storage. No combustible materials shall be stored in the mechanical equipment penthouse.
-
-   (3) Within a dedicated room in a building, subject to the following:
-
-      (i) Capacity. The total installed rated capacity of the microturbine system in the room shall not exceed 1,000 kW.
-
-      (ii) Enclosure. The microturbine room shall be enclosed within 2-hour fire-resistance rated walls.
-
-      (iii) Fire suppression. The equipment room shall be fully sprinklered or provided with an equivalent fire suppression system acceptable to the Commissioner.
-
-      (iv) Mechanical ventilation. Mechanical ventilation shall be provided for the microturbine room at a rate sufficient to dissipate sensible heat released from the microturbine system in accordance with the manufacturer's recommendations, at a rate adequate to dilute the microturbine system rated flow rate of fuel gas below 25 percent of the lower flammability limit (LFL) of the fuel gas, or at an exhaust and make-up air rate of 80 times the maximum leakage rate of natural gas from the high-pressure system within the room at standard temperature and pressure based on the rated capacity of the gas compressor, whichever is greater. The ventilation rate shall not be less than required to maintain the ambient room temperature within manufacturer's recommendations but not to exceed 104 degrees Fahrenheit. Proper distribution of exhaust and make-up air must be provided to prevent pockets of increased gas concentration, including exhaust points high in the room, to address the lighter-than-air properties of natural gas. Mechanical ventilation shall operate continuously.
-
-      (v) Gas detection and alarm. The microturbine room shall be provided with a gas detection system with an alarm that annunciates in a supervised location. The gas detection system shall also trip the microturbine.
-
-      (vi) Lighting. The microturbine room shall be provided with adequate lighting in accordance with the New York City Building Code.
-
-      (vii) Other equipment. Equipment not directly associated with the microturbine system, including but not limited to gas meters, shall not be permitted within the microturbine room.
-
-      (viii) Storage. No combustible materials shall be stored in the microturbine room.
-
-   (4) Within a boiler or other mechanical equipment room of a building, subject to the following:
-
-      (i) Capacity. The total installed rated capacity of the microturbine system in this room shall not exceed 500 kW.
-
-      (ii) Enclosure. The mechanical equipment room shall be enclosed within 2-hour fire-resistance rated walls.
-
-      (iii) Fire suppression. The mechanical equipment room shall be fully sprinklered or provided with an equivalent fire suppression system acceptable to the Commissioner.
-
-      (iv) Mechanical ventilation. Mechanical ventilation shall be provided for the mechanical equipment room at the rate sufficient to dissipate sensible heat released from all gas-burning equipment located within the mechanical equipment room in accordance with the microturbine manufacturer's recommendations, at a rate adequate to dilute the microturbine system rated flow rate of fuel gas below 25 percent of the lower flammability limit (LFL) of the fuel gas, or at an exhaust and make-up air rate of 80 times the maximum leakage rate of natural gas from the high-pressure system within the room at standard temperature and pressure based on the rated capacity of the gas compressor, whichever is greater. The ventilation rate shall not be less than required to maintain the ambient room temperature within the manufacturer's recommendations but shall not exceed 104 degrees Fahrenheit. Proper distribution of exhaust and make-up air must be provided to prevent pockets of increased gas concentration, including exhaust points high in the room, to address the lighter-than-air properties of natural gas. Mechanical ventilation shall operate continuously.
-
-      (v) Gas detection and alarm. The mechanical equipment room shall be provided with a gas detection system with an alarm that annunciates in a supervised location. The gas detection system shall also trip the microturbine.
-
-      (vi) Lighting. The mechanical equipment room shall be provided with adequate lighting in accordance with the New York City Building Code.
-
-      (vii) Gas meters shall not be permitted within the mechanical equipment room.
-
-      (viii) Storage. No combustible materials, including fuels, shall be stored in the mechanical equipment room.
 
 
 
@@ -4976,6 +4843,139 @@ Absent evidence that revenue from the sign is clearly incidental to the revenue 
 
 
 
+Chapter 50: Distributed Energy Resource Standards
+--------------------------------------------------
+
+
+
+*§ 50-01 Requirements for the Installation of High-Pressure Natural Gas-Fired Microturbine Systems.* ::
+
+
+(a) General requirements. All microturbine systems shall comply with the following general requirements:
+
+   (1) Description.
+
+      (i) The Microturbine System shall include one or more combustion-based turbine-driven electrical generators with 500 kW or less capacity, natural gas compressing equipment, heat recovery devices, electrical power distribution devices, gas vents or chimneys and associated appurtenances.
+
+      (ii) Microturbine systems shall utilize natural gas at an inlet pressure to the system of not greater than 3 psig, and shall boost the gas pressure to an inlet pressure to the combustion device of greater than 15 psig within the unit or room enclosure.
+
+      (iii) The total nominal electrical capacity at standardized operating conditions of all microturbine systems located within a single building shall not exceed 2,000 kW.
+
+   (2) Listing or MEA approval. For microturbines with external compressors, the compressor shall be MEA-approved and all components of the compressor and the microturbine shall be listed by a nationally recognized testing laboratory approved by the Commissioner. For microturbines with the compressor integrated with other elements into the unit, the integrated unit as well as each of its components shall be listed by a nationally recognized testing laboratory approved by the Commissioner.
+
+   (3) Utility ruling. The applicant shall consult the appropriate utility company regarding the characteristics of existing gas and electrical service to the site before installing the microturbine system. The applicant shall provide to the Department prior to plan approval either documentation from the utility company confirming that the electrical interconnection requirements have been preliminarily satisfied or an affidavit from the owner that there will be no interconnection with the electrical grid.
+
+   (4) Filing and permit. Plans for the complete microturbine system installation shall be approved by the New York City Department of Buildings and a work permit shall be obtained. A set of the approved plans shall be provided to the Fire Department.
+
+   (5) Installation.
+
+      (i) Regulation. Installation of microturbine systems shall be in accordance with all applicable requirements of the New York City Building Code, the New York City Electrical Code, and Reference Standards. NFPA 37 shall also apply, except where the Codes or these Rules are more restrictive. Such regulations include, but are not limited to the following: fuel gas piping, egress, fire protection, fire detection, electrical power, ventilation, and gas vent or chimney.
+
+      (ii) External compressor. For microturbines with an external compressor, the following requirements shall be satisfied:
+
+         A. Gas connections between the compressor and the turbine shall be solid-welded; no threaded joints shall be permitted.
+
+         B. A flame arrestor shall be installed upstream of the gas compressor to prevent flame propagating to the natural gas fuel distribution lines.
+
+         C. The length of gas piping connecting the gas compressor with the combustion device, both of which shall be in the same room, shall not exceed 12 feet.
+
+      (iii) Annunciation. All annunciations shall be provided locally and remotely to indicate any abnormal conditions in the system. The remote panel shall be located in a continuously supervised area on the premises.
+
+      (iv) Automatic gas shut-off. Gas supply to the microturbine shall be provided with an automatic shut-off valve that is activated by a malfunction alarm from any component of the microturbine system.
+
+      (v) Remotely and manually controlled emergency gas shut-off. A normally closed solenoid gas shut-off valve shall be located immediately after the branch connection providing dedicated service to the microturbine installation. The valve shall be manually controlled at the valve and remotely controlled both outside the door(s) to the microturbine room and at a supervised location. The gas shut-off valve and the controls shall each be clearly identified with signage indicating "emergency gas shut-off to microturbine."
+
+      (vi) Fuel shut-off valve diagram. A diagram shall be conspicuously posted on any door or gate leading to a microturbine indicating the locations of all manual and automatic fuel shut-off valves.
+
+      (vii) Security. The microturbine shall be provided with adequate protection from theft, tampering and unauthorized use. Access to microturbine systems shall be restricted by locked doors but shall be readily accessible for maintenance, repair and Fire Department access. Microturbines shall be adequately protected from vehicle impact.
+
+      (viii) Manufacturer's requirements. All manufacturer's requirements and recommendations shall be satisfied.
+
+      (ix) Signage. Signage clearly stating "HIGH PRESSURE GAS" shall be posted on or in front of the microturbine or microturbine system, and on the outside of all doors accessing any microturbine room.
+
+      (x) Existing buildings. For installation of microturbines in existing buildings, a structural evaluation of the method of support of the microturbine system shall be performed by a licensed engineer. Vibration isolation shall be provided for the microturbine system as required to mitigate vibration impact on the building structure.
+
+   (6) Inspection. Gas piping serving the microturbine shall be inspected by the Department. No self-certification of inspection shall be permitted. The inspection shall include a pipe integrity pressure test of all distribution piping. Installation and assembly of all system components shall be subject to a controlled inspection, in accordance with Section 27-132 of the New York City Building Code. Gas will be turned on only after successful completion of all testing.
+
+   (7) Fire Department permit. A Fire Department permit is required to operate the equipment.
+
+   (8) Fire Department Certificate of Fitness. A certificate of fitness ("C of F") holder, as authorized by the Fire Department, shall be required on the premises during regular business hours. The C of F holder shall be trained by the manufacturer or his authorized agent to shut down the equipment in an emergency.
+
+   (9) Service contract. The owner shall obtain a service contract from the microturbine manufacturer or a service company qualified by the manufacturer upon approval of the microturbine installation, and shall maintain it during the life of the installation.
+
+(b) Permitted locations.
+
+   (1) Outdoors at grade, on a roof or on a roof setback, within an integral weatherproof or lightweight enclosure acceptable to the manufacturer, subject to the following:
+
+      (i) Clearances. All components of the microturbine system shall be located a minimum of 4 feet from a wall or parapet, 8 feet from any building opening, including any door, operable window or intake opening and 5 feet from any exhaust termination or chimney. All microturbine systems located at grade shall satisfy the following clearances:
+
+         A. 50 feet from any subway entrance, exit, vent or other opening;
+
+         B. 20 feet from any above-ground flammable or combustible liquid storage tank;
+
+         C. 10 feet from any lot line, except 4 feet from any lot line in and adjacent to a manufacturing district;
+
+         D. 5 feet from any vent or fill line of any flammable or combustible liquid storage tank;
+
+         E. 5 feet from any parked motor vehicle.
+
+      (ii) Enclosure. All microturbine system components shall be contained within integral weather-proof enclosures pursuant to the listing of the device. The unit enclosure or the lightweight constructed enclosure shall be provided with a gas detection system with an alarm that annunciates in a supervised location. Equipment not directly associated with the microturbine system shall not be permitted in the same enclosure.
+
+   (2) Within a dedicated Mechanical Equipment Penthouse classified as Occupancy Group D-2, and subject to the following:
+
+      (i) Enclosure. The mechanical equipment penthouse shall be enclosed within 2-hour fire-resistance rated walls.
+
+      (ii) Fire suppression. The equipment room shall be fully sprinklered or provided with an equivalent fire suppression system acceptable to the Commissioner.
+
+      (iii) Mechanical ventilation. Mechanical ventilation shall be provided for the mechanical equipment penthouse at a rate sufficient to dissipate sensible heat released from the microturbine system in accordance with the manufacturer's recommendations, at a rate adequate to dilute the microturbine system rated flow rate of fuel gas below 25 percent of the lower flammability limit (LFL) of the fuel gas, or at an exhaust and make-up air rate of 80 times the maximum leakage rate of natural gas from the high-pressure system within the room at standard temperature and pressure based on the rated capacity of the gas compressor, whichever is greater. The ventilation rate shall not be less than required to maintain the ambient room temperature within the manufacturer's recommendations but shall not exceed 104 degrees Fahrenheit. Proper distribution of exhaust and make-up air must be provided to prevent pockets of increased gas concentration, including exhaust points high in the room to address the lighter-than-air properties of natural gas. Mechanical ventilation shall operate continuously.
+
+      (iv) Gas detection and alarm. The mechanical equipment penthouse shall be provided with a gas detection system with an alarm that annunciates in a supervised location. The gas detection system shall also trip the microturbine.
+
+      (v) Lighting. The mechanical equipment penthouse shall be provided with adequate lighting in accordance with the New York City Building Code.
+
+      (vi) Other equipment. Equipment not directly associated with the microturbine system, including but not limited to gas meters, shall not be permitted within the mechanical equipment penthouse.
+
+      (vii) Storage. No combustible materials shall be stored in the mechanical equipment penthouse.
+
+   (3) Within a dedicated room in a building, subject to the following:
+
+      (i) Capacity. The total installed rated capacity of the microturbine system in the room shall not exceed 1,000 kW.
+
+      (ii) Enclosure. The microturbine room shall be enclosed within 2-hour fire-resistance rated walls.
+
+      (iii) Fire suppression. The equipment room shall be fully sprinklered or provided with an equivalent fire suppression system acceptable to the Commissioner.
+
+      (iv) Mechanical ventilation. Mechanical ventilation shall be provided for the microturbine room at a rate sufficient to dissipate sensible heat released from the microturbine system in accordance with the manufacturer's recommendations, at a rate adequate to dilute the microturbine system rated flow rate of fuel gas below 25 percent of the lower flammability limit (LFL) of the fuel gas, or at an exhaust and make-up air rate of 80 times the maximum leakage rate of natural gas from the high-pressure system within the room at standard temperature and pressure based on the rated capacity of the gas compressor, whichever is greater. The ventilation rate shall not be less than required to maintain the ambient room temperature within manufacturer's recommendations but not to exceed 104 degrees Fahrenheit. Proper distribution of exhaust and make-up air must be provided to prevent pockets of increased gas concentration, including exhaust points high in the room, to address the lighter-than-air properties of natural gas. Mechanical ventilation shall operate continuously.
+
+      (v) Gas detection and alarm. The microturbine room shall be provided with a gas detection system with an alarm that annunciates in a supervised location. The gas detection system shall also trip the microturbine.
+
+      (vi) Lighting. The microturbine room shall be provided with adequate lighting in accordance with the New York City Building Code.
+
+      (vii) Other equipment. Equipment not directly associated with the microturbine system, including but not limited to gas meters, shall not be permitted within the microturbine room.
+
+      (viii) Storage. No combustible materials shall be stored in the microturbine room.
+
+   (4) Within a boiler or other mechanical equipment room of a building, subject to the following:
+
+      (i) Capacity. The total installed rated capacity of the microturbine system in this room shall not exceed 500 kW.
+
+      (ii) Enclosure. The mechanical equipment room shall be enclosed within 2-hour fire-resistance rated walls.
+
+      (iii) Fire suppression. The mechanical equipment room shall be fully sprinklered or provided with an equivalent fire suppression system acceptable to the Commissioner.
+
+      (iv) Mechanical ventilation. Mechanical ventilation shall be provided for the mechanical equipment room at the rate sufficient to dissipate sensible heat released from all gas-burning equipment located within the mechanical equipment room in accordance with the microturbine manufacturer's recommendations, at a rate adequate to dilute the microturbine system rated flow rate of fuel gas below 25 percent of the lower flammability limit (LFL) of the fuel gas, or at an exhaust and make-up air rate of 80 times the maximum leakage rate of natural gas from the high-pressure system within the room at standard temperature and pressure based on the rated capacity of the gas compressor, whichever is greater. The ventilation rate shall not be less than required to maintain the ambient room temperature within the manufacturer's recommendations but shall not exceed 104 degrees Fahrenheit. Proper distribution of exhaust and make-up air must be provided to prevent pockets of increased gas concentration, including exhaust points high in the room, to address the lighter-than-air properties of natural gas. Mechanical ventilation shall operate continuously.
+
+      (v) Gas detection and alarm. The mechanical equipment room shall be provided with a gas detection system with an alarm that annunciates in a supervised location. The gas detection system shall also trip the microturbine.
+
+      (vi) Lighting. The mechanical equipment room shall be provided with adequate lighting in accordance with the New York City Building Code.
+
+      (vii) Gas meters shall not be permitted within the mechanical equipment room.
+
+      (viii) Storage. No combustible materials, including fuels, shall be stored in the mechanical equipment room.
+
+
+
+
 Chapter 51: Dormitories
 --------------------------------------------------
 
@@ -5042,6 +5042,19 @@ Chapter 52: Notification To the Department of Commencement of Work Pursuant To A
    (3) Work on cemetery grounds for burials.
 
    (4) Emergency work performed by the Department of Housing Preservation and Development (HPD) or other agency as directed by the Commissioner or work on unsafe buildings performed by HPD or other agency pursuant to a precept.
+
+
+
+
+Chapter 400: Special Detailed Requirements Based On Use and Occupancy
+--------------------------------------------------
+
+
+
+*§ 403-01 Impact Resistant Stair and Elevator Shaft Enclosures. [Repealed]* ::
+
+
+
 
 
 
@@ -5133,19 +5146,6 @@ Figure 1 Summary chart of fire safety requirements
 (e) Certificate of occupancy. An amended certificate of occupancy need not be obtained in order to occupy an otherwise lawful apartment for use as a student apartment.
 
 (f) Records. The college or university shall maintain records at the building that contains any student apartment, identifying the unit numbers of student apartments, the maximum number of students housed in each such unit, whether the students are post-graduate or are permitted to be undergraduate, and where applicable, whether the apartment was first occupied as a student apartment prior to July 1, 2009. Such records shall be available for inspection by the Department, the Fire Department, and the Department of Housing Preservation and Development. The college or university may be required to produce further records to substantiate compliance with this section.
-
-
-
-
-Chapter 400: Special Detailed Requirements Based On Use and Occupancy
---------------------------------------------------
-
-
-
-*§ 403-01 Impact Resistant Stair and Elevator Shaft Enclosures. [Repealed]* ::
-
-
-
 
 
 
@@ -10465,6 +10465,19 @@ Table 2
 
 
 
+Chapter 4000: Electrical Code
+--------------------------------------------------
+
+
+
+*§ 4000-06 Fire Alarm Wiring and Power Sources. [Repealed]* ::
+
+
+
+
+
+
+
 Chapter 3600: Appendices
 --------------------------------------------------
 
@@ -11655,19 +11668,6 @@ Chapter 29 – Single- and Multiple-Station Alarms and Household Fire Alarm Syst
 
 
 
-Chapter 4000: Electrical Code
---------------------------------------------------
-
-
-
-*§ 4000-06 Fire Alarm Wiring and Power Sources. [Repealed]* ::
-
-
-
-
-
-
-
 Chapter 6000: Fuel Gas Code
 --------------------------------------------------
 
@@ -11695,37 +11695,6 @@ Chapter 7000: Mechanical Code
 
 
 
-
-
-
-
-Chapter 9000: Zoning
---------------------------------------------------
-
-
-
-*§ 9000-01 Adult Establishments.* ::
-
-
-Dates of establishment and discontinuance of adult establishments, houses of worship, and schools for the purposes of §§ 32-01 and 42-01 of the zoning resolution. In determining whether an adult establishment may lawfully be established at a location pursuant to §§ 32-01 and 42-01 of the zoning resolution, the department will use the following criteria to determine the dates of establishment and discontinuance for adult establishments, houses of worship and schools located or proposed to be located within 500 feet of each other.
-
-(a) The date of establishment of an adult establishment, house of worship, or school in existence and operating prior to August 8, 2001 shall be the date of issuance of an appropriate department permit or, if no permit was required, the date that it commenced operation, as determined by the department.
-
-(b) Except as otherwise provided in subdivision a of this section, the date of establishment of an adult establishment, house of worship, or school shall be the date of issuance of an appropriate department permit, subject to the following qualifications:
-
-   (1) With respect to a new building permit or alteration permit:
-
-      (i) significant progress must be shown toward completion of the work under the permit. For the purposes of this paragraph, the term "significant progress" means the issuance of a temporary certificate of occupancy or, if applicable, department signoff of the work within one year of issuance of the permit, except that upon application, the commissioner or his or her designee, may extend the one year period in accordance with subdivision c of this section for a period of time not exceeding one year, and
-
-      (ii) the use or operation for which the building is constructed or altered must commence within six months after the issuance of a temporary certificate of occupancy or, if applicable, within six months after a department signoff that the work has been completed, except that upon application, the commissioner or his or her designee, may extend the six month period in accordance with subdivision c of this section for a period of time not exceeding six months.
-
-   (2) With respect to applications for permits filed solely to establish priority, where no work requiring a building permit is proposed, the use or operation for which the permit is issued must commence within two months of the issuance of such permit, except that upon application, the commissioner or his or her designee may extend such two month period in accordance with subdivision c of this section for a period of time not exceeding two months.
-
-(c) An extension of time pursuant to subdivision b of this section may be granted where the permittee submits an application no later than 30 days prior to the expiration of the applicable time period together with satisfactory evidence that significant progress or the commencement of use or operations within the applicable time period is impracticable. The commissioner or his or her designee shall make a determination and notify the applicant in writing of his or her determination not later than 30 days after receipt of the application by the department. If the application is denied, the commissioner or his or her designee shall state the reason(s) therefor. If the commissioner or his or her designee fails to act upon the application within such 30-day period, the application shall be deemed to be granted.
-
-(d) An adult establishment, otherwise in compliance with the zoning resolution, may be established within 500 feet of a discontinued adult establishment, house of worship or school. For the purposes of this subdivision, once established, an adult establishment, house of worship, or school shall not be deemed to be discontinued until it has ceased operation for a continuous period of one year or longer.
-
-(e) The time periods set forth in this section for significant progress of work or for commencement of operations shall commence to run as of the effective date of this section or issuance of the permit, whichever is later.
 
 
 
@@ -13030,6 +12999,37 @@ Table 7Special Inspection
 
 
 
+
+
+
+
+Chapter 9000: Zoning
+--------------------------------------------------
+
+
+
+*§ 9000-01 Adult Establishments.* ::
+
+
+Dates of establishment and discontinuance of adult establishments, houses of worship, and schools for the purposes of §§ 32-01 and 42-01 of the zoning resolution. In determining whether an adult establishment may lawfully be established at a location pursuant to §§ 32-01 and 42-01 of the zoning resolution, the department will use the following criteria to determine the dates of establishment and discontinuance for adult establishments, houses of worship and schools located or proposed to be located within 500 feet of each other.
+
+(a) The date of establishment of an adult establishment, house of worship, or school in existence and operating prior to August 8, 2001 shall be the date of issuance of an appropriate department permit or, if no permit was required, the date that it commenced operation, as determined by the department.
+
+(b) Except as otherwise provided in subdivision a of this section, the date of establishment of an adult establishment, house of worship, or school shall be the date of issuance of an appropriate department permit, subject to the following qualifications:
+
+   (1) With respect to a new building permit or alteration permit:
+
+      (i) significant progress must be shown toward completion of the work under the permit. For the purposes of this paragraph, the term "significant progress" means the issuance of a temporary certificate of occupancy or, if applicable, department signoff of the work within one year of issuance of the permit, except that upon application, the commissioner or his or her designee, may extend the one year period in accordance with subdivision c of this section for a period of time not exceeding one year, and
+
+      (ii) the use or operation for which the building is constructed or altered must commence within six months after the issuance of a temporary certificate of occupancy or, if applicable, within six months after a department signoff that the work has been completed, except that upon application, the commissioner or his or her designee, may extend the six month period in accordance with subdivision c of this section for a period of time not exceeding six months.
+
+   (2) With respect to applications for permits filed solely to establish priority, where no work requiring a building permit is proposed, the use or operation for which the permit is issued must commence within two months of the issuance of such permit, except that upon application, the commissioner or his or her designee may extend such two month period in accordance with subdivision c of this section for a period of time not exceeding two months.
+
+(c) An extension of time pursuant to subdivision b of this section may be granted where the permittee submits an application no later than 30 days prior to the expiration of the applicable time period together with satisfactory evidence that significant progress or the commencement of use or operations within the applicable time period is impracticable. The commissioner or his or her designee shall make a determination and notify the applicant in writing of his or her determination not later than 30 days after receipt of the application by the department. If the application is denied, the commissioner or his or her designee shall state the reason(s) therefor. If the commissioner or his or her designee fails to act upon the application within such 30-day period, the application shall be deemed to be granted.
+
+(d) An adult establishment, otherwise in compliance with the zoning resolution, may be established within 500 feet of a discontinued adult establishment, house of worship or school. For the purposes of this subdivision, once established, an adult establishment, house of worship, or school shall not be deemed to be discontinued until it has ceased operation for a continuous period of one year or longer.
+
+(e) The time periods set forth in this section for significant progress of work or for commencement of operations shall commence to run as of the effective date of this section or issuance of the permit, whichever is later.
 
 
 

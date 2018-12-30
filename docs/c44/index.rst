@@ -1539,129 +1539,6 @@ In addition to any applicable federal regulations regarding the Community Block 
 
 
 
-Chapter 7: Permit Expiration and Renewal
---------------------------------------------------
-
-
-
-*§ 7-01 Definitions.* ::
-
-
-As used in these Rules the following terms shall have the following meanings: Commission. "Commission" shall mean the New York City Landmarks Preservation Commission as established by § 3020 of the New York City Charter.
-
-Day. "Day" shall mean any day other than a Saturday or Sunday or legal holiday.
-
-Landmarks law. "Landmarks law" shall be understood to refer to § 3020 of the New York City Charter and Chapter 3 of Title 25 of the Administrative Code of the City of New York.
-
-Landmarks preservation commission. "Landmarks preservation commission" shall mean the commission acting in its agency capacity to implement the landmarks law.
-
-Permit. "Permit" shall mean any permit other than a notice to proceed, issued by the Landmarks Preservation Commission, in accordance with the provisions of the Landmarks law:
-
-   (1) "PMW" shall mean permit for minor work as defined by § 25-310 of the Landmarks law.
-
-   (2) "CNE" shall mean certificate of no effect as defined by § 25-306 of the Landmarks law.
-
-   (3) "CofA" shall mean certificate of appropriateness as defined by § 25-307 of the Landmarks law and shall not refer to a certificate of appropriateness as defined by § 25-309.
-
-
-
-
-
-
-*§ 7-02 Duration of Permits.* ::
-
-
-(a) (1) All permits shall be of limited duration as provided in these rules.
-
-   (2) Each permit shall clearly state the expiration date of such permit on the permit.
-
-(b) The following permits shall have the following durations:
-
-   (1) Each PMW shall be valid for four (4) years from the date of such PMW.
-
-   (2) Each CNE shall be valid for four (4) years from the date of such CNE.
-
-   (3) Each CofA shall be valid for six (6) years from the date of a commission vote on such CofA.
-
-   (4) Any PMW, CNE or CofA issued for a master plan shall be valid indefinitely.
-
-(c) Without limiting the time periods for permit duration set forth in subsection 7-02(b), where a permit or certificate has been issued to cure a violation, the Commission may require by the terms of such permit or certificate that the work be performed within a specified time period. The failure to perform the work and cure the violation within the specified time period shall mean that the Chair may serve a warning letter, a first, second or subsequent NOV in accordance with the provisions of §§ 25-317.1b and 25-317.2 of the Administrative Code.
-
-
-
-
-
-
-*§ 7-03 Renewal of Permits.* ::
-
-
-(a) The landmarks preservation commission may issue a renewal of a permit only upon the satisfaction of all of the following conditions:
-
-   (1) An application requesting a renewal shall be filed with the landmarks preservation commission no later than sixty (60) days prior to the expiration date shown on such permit.
-
-   (2) The application requesting a renewal shall include (i) a copy of a signed contract which is binding on the parties thereto for the work which is the subject of the permit then expiring and which specifies that work thereunder is to be commenced by a date which is at least sixty (60) days prior to the expiration date of such permit and (ii) if a building permit is required for the work which is the subject of the expiring permit, a copy of a valid building permit based on the landmarks commission's permit for the work which is the subject of the permit then expiring.
-
-   (3) No "Notice of Violation" from the landmarks preservation commission shall be in effect against the property subject to the permit for which a renewal is requested; provided, however, that if the landmarks preservation commission shall find that (i) the work which is the subject of the permit for which a renewal is requested (A) will correct a hazardous condition or (B) prevent deterioration affecting the building; or (ii) an escrow agreement, or other acceptable form of assurance, has been established to provide a mechanism, acceptable to the landmarks preservation commission, to ensure that work approved to correct the notice of violation will be completed within a specified time period, then this subsection (3) shall not apply.
-
-(b) If all conditions to the renewal of a permit have been met on or before the expiration date of such permit, the landmarks preservation commission shall issue a renewal permit to the applicant which shall be valid for (i) two (2) years from the date of the expiration of the original permit if the permit renewed in either a PMW or a CNE or (ii) three (3) years from the date of the expiration of the original permit if the permit renewed is a CofA.
-
-(c) (1) Notwithstanding the foregoing provisions, the chair of the landmarks preservation commission shall have the discretion, based on extraordinary circumstances, to allow the renewal of any permit. Such circumstances may include, but shall not be limited to, (i) delays resulting from the inability to obtain other governmental approvals, licenses or permits or (ii) an inability to complete construction of a project for which work has begun and is continuing with due diligence.
-
-   (2) Request for any such discretionary extension shall be made in writing no later than sixty (60) days prior to the expiration date of the permit or within ten (10) days after receipt of notice that the permit will not be renewed, and may include supporting documentation. The chair shall respond to such request within twenty (20) days of receipt of the request. If the chair of the landmarks preservation commission determines that a renewal of the permit should be allowed, the landmarks preservation commission shall renew the permit for a stated term of years.
-
-   (3) In allowing the renewal, the chair may set reasonable conditions including clearing up any outstanding violations within a reasonable stated time.
-
-(d) The expiration of any permit shall be tolled if judicial proceedings to review the decision to grant the permit, or any other governmental approval, license, permit or similar action applied for, or granted in connection with, the project have been instituted until the date of the entry of a final order in such proceedings, including all appeals.
-
-(e) Any person who has been notified by the commission that a permit will not be renewed because a "notice of violation" from the landmarks commission is in effect against the property may request that the chair of the commission review whether the notice of violation is properly in effect against the property. Such request shall be made in writing within ten (10) days from the date of the notification that the permit will not be renewed and may include supporting documentation. The chair of the landmarks preservation commission shall respond to such request within twenty (20) days of receipt of the request. If the chair determines that a notice of violation was not properly in effect against the property, the landmarks preservation commission shall issue a renewed permit if it finds that all other conditions set forth in these rules have been met.
-
-
-
-
-
-
-*§ 7-04 Effect of Expiration of Permits.* ::
-
-
-(a) Upon expiration of any permit, such permit shall terminate and be of no further effect.
-
-(b) An applicant may apply for a new permit for work which is the subject of an expired permit. The landmarks preservation commission shall treat such application for a renewal which does not meet the condition for the renewal of permits as a new application in all respects subject to all applicable procedures, rules and guidelines in effect at the time of such application for renewal.
-
-
-
-
-
-
-*§ 7-05 Miscellaneous.* ::
-
-
-Any permit (i) which is either a PMW or a CNE issued after the effective date hereof or (ii) which is a CofA which the commission approves by a vote taken after the effective date hereof shall be subject to these rules.
-
-
-
-
-
-
-*§ 7-06 Revocation of Approvals.* ::
-
-
-(a) The Commission may revoke the approval of any certificate of no effect, certificate of appropriateness, permit for minor work, binding or advisory report, notice to proceed, or any amendments thereof, whenever:
-
-      (i) there is a failure to comply with the provisions of chapter 3 of title 25 of the Administrative Code of the City of New York, or this title of the Rules of the City of New York;
-
-      (ii) there is any incorrect or false statement or any misrepresentation or omission in the documents submitted in the application for approval with respect to a fact that was material to the issuance of the approval;
-
-      (iii) or an approval has been issued in error and conditions are such that approval should not have been issued. In such an event, the Commission will issue a "Notice of Intent to Revoke" ("Notice") that will inform the applicant of the reasons for the proposed revocation. The applicant has the right to present to the commissioner or his or her representative information on why the approval should not be revoked. The applicant must present such evidence within 10 business days if the Notice was personally served or 15 calendar days if the Notice was sent by mail.
-
-(b) Effect on Approval. Upon issuance of a Notice all work must cease immediately and no work will occur at the site until such time as the Commission shall withdraw the Notice and reinstate the approval. Revocation of an approval will be effective upon the issuance of a written Final Decision of Revocation by the commissioner after the time period for submission of rebuttal information has ended. The Final Decision of Revocation should be issued within 20 working days after the time period for the applicant to respond has expired, or within ten working days after receipt of a written request for issuance of a Final Decision of Revocation if the commissioner fails to issue the Final Decision of Revocation in the initial 20 working day period. The Final Decision of Revocation will state the reasons that the approval is being withdrawn. The revocation of any approval is the automatic revocation of all associated approvals (including certificates, permits, reports, notices or amendments in the future) that may have been issued.
-
-(c) The Notice of Intent to Revoke and the Final Decision of Revocation may be issued by personal service or sent by registered mail to the applicant's address as it appears in the application. If the registered mail is unsuccessful, the commission may send the notice using the procedures permitted in section 25-313 of the Administrative Code of the City of New York.
-
-(d) Enforcement action. All or some of the work performed in connection with an approval that has been revoked may be subject to enforcement action under sections 25-317, 25-317.1 and 25-317.2 of the Administrative Code of the City of New York. Such enforcement action may start upon the issuance of a written final decision by the commissioner or his or her designee to revoke the approval.
-
-
-
-
 Chapter 6: Proposed Alterations and New Construction of Structures and Landscapes In the Riverdale Historic District
 --------------------------------------------------
 
@@ -1835,149 +1712,125 @@ Any application for a new structure shall be considered as a request for a certi
 
 
 
-Chapter 9: Alterations To Designated Bank Interiors
+Chapter 7: Permit Expiration and Renewal
 --------------------------------------------------
 
 
 
-*§ 9-01 Introduction.* ::
+*§ 7-01 Definitions.* ::
 
 
-(a)  These rules are issued to assist building owners in applying to the Landmarks Preservation Commission (LPC) for approval of applications to undertake repair, rehabilitation, replacement of, or alterations to interior architectural features within designated bank interiors. The rules set forth Commission policy with respect to such repair, rehabilitation, replacement, or alteration and explain the procedures required to apply for a permit. The goal of these rules is to facilitate and encourage the continued historic use of these interiors as banking floors and to facilitate the adaptive reuse of the interior if it ceases to be used as a banking floor.
+As used in these Rules the following terms shall have the following meanings: Commission. "Commission" shall mean the New York City Landmarks Preservation Commission as established by § 3020 of the New York City Charter.
 
-(b) These rules are based on the following principles:
+Day. "Day" shall mean any day other than a Saturday or Sunday or legal holiday.
 
-   (1) The significant original visual qualities or character of a designated interior should not be destroyed. The removal or alteration of any significant architectural feature should be avoided whenever possible.
+Landmarks law. "Landmarks law" shall be understood to refer to § 3020 of the New York City Charter and Chapter 3 of Title 25 of the Administrative Code of the City of New York.
 
-   (2) Significant but deteriorated architectural features should be repaired rather than replaced whenever possible.
+Landmarks preservation commission. "Landmarks preservation commission" shall mean the commission acting in its agency capacity to implement the landmarks law.
 
-   (3) Certain interior alterations can be approved at staff level in conformance with the procedures set forth in these rules. Other interior alterations require review by the full Commission in accordance with its usual review procedures.
+Permit. "Permit" shall mean any permit other than a notice to proceed, issued by the Landmarks Preservation Commission, in accordance with the provisions of the Landmarks law:
 
-(c) These rules are keyed to underlined portions of the Description section of the Designation Reports for these interior landmarks, which identify significant architectural features requiring protection.
+   (1) "PMW" shall mean permit for minor work as defined by § 25-310 of the Landmarks law.
 
-(d) Applicants are encouraged to submit applications for Master Plans which will govern the approval of routine and continuing alterations such as installation of mechanical and electrical equipment.
+   (2) "CNE" shall mean certificate of no effect as defined by § 25-306 of the Landmarks law.
 
+   (3) "CofA" shall mean certificate of appropriateness as defined by § 25-307 of the Landmarks law and shall not refer to a certificate of appropriateness as defined by § 25-309.
 
 
 
 
 
-*§ 9-02 Definitions.* ::
 
+*§ 7-02 Duration of Permits.* ::
 
-As used in these Rules, the following terms shall have the following meanings:
 
-Banking interior. The term "banking interior" shall mean the area of the designated interior historically used for banking operations and any associated interior spaces including, without limitation, entrance vestibules or mezzanines identified in the designation report as part of the designated interior.
+(a) (1) All permits shall be of limited duration as provided in these rules.
 
-Commission. The term "commission" shall mean the eleven Commissioners, including the Chairman, as established by § 3020 of the New York City Charter.
+   (2) Each permit shall clearly state the expiration date of such permit on the permit.
 
-Interior architectural features. The term "interior architectural features" shall have the meaning established in § 25-302 of the Administrative Code of the City of New York.
+(b) The following permits shall have the following durations:
 
-Landmarks Law. The term "landmarks law" shall refer to § 3020 of the New York City Charter and Chapter 3 of Title 25 of the Administrative Code of the City of New York.
+   (1) Each PMW shall be valid for four (4) years from the date of such PMW.
 
-LPC. The term "LPC" shall mean the Landmarks Preservation Commission acting in its agency capacity to implement the Landmarks Law.
+   (2) Each CNE shall be valid for four (4) years from the date of such CNE.
 
-Non-significant features. The term "non-significant features" shall mean the interior architectural features of the designated interior that the LPC has determined do not contribute to the special historic, cultural, and/or aesthetic character for which the interior was designated. These features comprise all of the interior architectural features of the interior with the exception of those features that are underscored in the designation report.
+   (3) Each CofA shall be valid for six (6) years from the date of a commission vote on such CofA.
 
-Significant features. The term "significant features" shall mean the interior architectural features of the designated interior that the LPC has determined contribute to the special historic, cultural, and/or aesthetic character for which the interior was designated, and therefore require protection under these rules. These features are identified in the designation reports and indicated by underscoring.
+   (4) Any PMW, CNE or CofA issued for a master plan shall be valid indefinitely.
 
-Reversible alteration. The term "reversible alteration" shall mean an alteration in which the altered feature can be readily returned to its appearance prior to the alter- ation.
+(c) Without limiting the time periods for permit duration set forth in subsection 7-02(b), where a permit or certificate has been issued to cure a violation, the Commission may require by the terms of such permit or certificate that the work be performed within a specified time period. The failure to perform the work and cure the violation within the specified time period shall mean that the Chair may serve a warning letter, a first, second or subsequent NOV in accordance with the provisions of §§ 25-317.1b and 25-317.2 of the Administrative Code.
 
-State-of-the-art banking change. The term "state-of-the-art banking change" shall mean a physical alteration to the bank interior that the applicant has determined to be necessary to accommodate changes in technology and/or banking practice. When submitting an application to make such an alteration, the applicant must enclose a verified statement executed by the manager of the bank stating that the bank's ability to perform its banking functions would be impaired if it were unable to make such an alteration. Terms not otherwise defined in these rules shall have the meanings given them in the Landmarks Law.
 
 
 
 
 
+*§ 7-03 Renewal of Permits.* ::
 
-*§ 9-03 Eligible Interiors &amp; Significant Features.* ::
 
+(a) The landmarks preservation commission may issue a renewal of a permit only upon the satisfaction of all of the following conditions:
 
-(a)  The following interior landmarks are subject to these rules:
+   (1) An application requesting a renewal shall be filed with the landmarks preservation commission no later than sixty (60) days prior to the expiration date shown on such permit.
 
-   (1) Former Emigrant Industrial Savings Bank, 51 Chambers Street, Manhattan
+   (2) The application requesting a renewal shall include (i) a copy of a signed contract which is binding on the parties thereto for the work which is the subject of the permit then expiring and which specifies that work thereunder is to be commenced by a date which is at least sixty (60) days prior to the expiration date of such permit and (ii) if a building permit is required for the work which is the subject of the expiring permit, a copy of a valid building permit based on the landmarks commission's permit for the work which is the subject of the permit then expiring.
 
-   (2) Former New York Bank for Savings, 81 Eighth Avenue, Manhattan
+   (3) No "Notice of Violation" from the landmarks preservation commission shall be in effect against the property subject to the permit for which a renewal is requested; provided, however, that if the landmarks preservation commission shall find that (i) the work which is the subject of the permit for which a renewal is requested (A) will correct a hazardous condition or (B) prevent deterioration affecting the building; or (ii) an escrow agreement, or other acceptable form of assurance, has been established to provide a mechanism, acceptable to the landmarks preservation commission, to ensure that work approved to correct the notice of violation will be completed within a specified time period, then this subsection (3) shall not apply.
 
-   (3) Former Greenwich Savings Bank, 1352-1362 Broadway, Manhattan
+(b) If all conditions to the renewal of a permit have been met on or before the expiration date of such permit, the landmarks preservation commission shall issue a renewal permit to the applicant which shall be valid for (i) two (2) years from the date of the expiration of the original permit if the permit renewed in either a PMW or a CNE or (ii) three (3) years from the date of the expiration of the original permit if the permit renewed is a CofA.
 
-   (4) Former Central Savings Bank, 2100-2114 Broadway, Manhattan
+(c) (1) Notwithstanding the foregoing provisions, the chair of the landmarks preservation commission shall have the discretion, based on extraordinary circumstances, to allow the renewal of any permit. Such circumstances may include, but shall not be limited to, (i) delays resulting from the inability to obtain other governmental approvals, licenses or permits or (ii) an inability to complete construction of a project for which work has begun and is continuing with due diligence.
 
-   (5) Former Dollar Savings Bank, 2516-2530 Grand Concourse, Bronx
+   (2) Request for any such discretionary extension shall be made in writing no later than sixty (60) days prior to the expiration date of the permit or within ten (10) days after receipt of notice that the permit will not be renewed, and may include supporting documentation. The chair shall respond to such request within twenty (20) days of receipt of the request. If the chair of the landmarks preservation commission determines that a renewal of the permit should be allowed, the landmarks preservation commission shall renew the permit for a stated term of years.
 
-   (6) Dime Savings Bank, 9 DeKalb Avenue, Brooklyn
+   (3) In allowing the renewal, the chair may set reasonable conditions including clearing up any outstanding violations within a reasonable stated time.
 
-   (7) Former Bowery Savings Bank, 130 Bowery, Manhattan
+(d) The expiration of any permit shall be tolled if judicial proceedings to review the decision to grant the permit, or any other governmental approval, license, permit or similar action applied for, or granted in connection with, the project have been instituted until the date of the entry of a final order in such proceedings, including all appeals.
 
-   (8) Former Bowery Savings Bank, 110 East 42nd Street, Manhattan
+(e) Any person who has been notified by the commission that a permit will not be renewed because a "notice of violation" from the landmarks commission is in effect against the property may request that the chair of the commission review whether the notice of violation is properly in effect against the property. Such request shall be made in writing within ten (10) days from the date of the notification that the permit will not be renewed and may include supporting documentation. The chair of the landmarks preservation commission shall respond to such request within twenty (20) days of receipt of the request. If the chair determines that a notice of violation was not properly in effect against the property, the landmarks preservation commission shall issue a renewed permit if it finds that all other conditions set forth in these rules have been met.
 
-   (9) Williamsburgh Savings Bank, 1 Hanson Place, Brooklyn
 
-   (10) Williamsburgh Savings Bank, 175 Broadway, Brooklyn
 
-   (11) Brooklyn Trust Company, 177 Montague Street, Brooklyn In addition, any interior landmark or portion thereof which the Commission designates subsequent to the enactment of these rules and which is described as a banking interior in the designation report shall be subject to these rules.
 
 
 
+*§ 7-04 Effect of Expiration of Permits.* ::
 
 
+(a) Upon expiration of any permit, such permit shall terminate and be of no further effect.
 
-*§ 9-04 Changes to Non-significant Features.* ::
+(b) An applicant may apply for a new permit for work which is the subject of an expired permit. The landmarks preservation commission shall treat such application for a renewal which does not meet the condition for the renewal of permits as a new application in all respects subject to all applicable procedures, rules and guidelines in effect at the time of such application for renewal.
 
 
-(a)  The LPC staff will issue a Certificate of No Effect on Protected Architectural Features (CNE) or a Permit for Minor Work (PMW) (if the work does not require a permit from the Department of Buildings) within five working days of receipt of a completed application for any proposed work to a non-significant feature if the following conditions are met:
 
-   (1) The visible volume and configuration of the banking interior is maintained; and
 
-   (2) The staff determines that the alteration will not adversely affect any significant architectural feature and will not detract from the overall visual character of the banking interior.
 
 
+*§ 7-05 Miscellaneous.* ::
 
 
+Any permit (i) which is either a PMW or a CNE issued after the effective date hereof or (ii) which is a CofA which the commission approves by a vote taken after the effective date hereof shall be subject to these rules.
 
 
-*§ 9-05 State-of-the-Art Banking Changes.* ::
 
 
-(a)  The LPC staff will issue a CNE or PMW within fifteen working days of receipt of a completed application for a state-of-the-art banking change, if all of the following conditions are met:
 
-   (1) the visible volume and configuration of the banking interior is maintained; and
 
-   (2) the proposed alteration is the least intrusive means available to achieve a state-of-the-art banking change, such as the installation of ATMs or security devices; and
+*§ 7-06 Revocation of Approvals.* ::
 
-   (3) that (i) the proposed alteration will have no effect on the physical fabric of the significant features or (ii) such effect is reversible, and that the applicant will ensure that the physical fabric of the significant feature will be replaced or restored after the proposed alteration is no longer required to achieve a state-of-the-art banking change.
 
-(b) Any proposed alteration that includes the partial or complete removal or relocation of the teller counter or the removal of a significant portion of its fittings or fixtures requires a Certificate of Appropriateness (CofA) from the Commission in accordance with the procedures and criteria set forth in the Landmarks Law if the teller counter and/or such fittings or fixtures is a significant feature.
+(a) The Commission may revoke the approval of any certificate of no effect, certificate of appropriateness, permit for minor work, binding or advisory report, notice to proceed, or any amendments thereof, whenever:
 
+      (i) there is a failure to comply with the provisions of chapter 3 of title 25 of the Administrative Code of the City of New York, or this title of the Rules of the City of New York;
 
+      (ii) there is any incorrect or false statement or any misrepresentation or omission in the documents submitted in the application for approval with respect to a fact that was material to the issuance of the approval;
 
+      (iii) or an approval has been issued in error and conditions are such that approval should not have been issued. In such an event, the Commission will issue a "Notice of Intent to Revoke" ("Notice") that will inform the applicant of the reasons for the proposed revocation. The applicant has the right to present to the commissioner or his or her representative information on why the approval should not be revoked. The applicant must present such evidence within 10 business days if the Notice was personally served or 15 calendar days if the Notice was sent by mail.
 
+(b) Effect on Approval. Upon issuance of a Notice all work must cease immediately and no work will occur at the site until such time as the Commission shall withdraw the Notice and reinstate the approval. Revocation of an approval will be effective upon the issuance of a written Final Decision of Revocation by the commissioner after the time period for submission of rebuttal information has ended. The Final Decision of Revocation should be issued within 20 working days after the time period for the applicant to respond has expired, or within ten working days after receipt of a written request for issuance of a Final Decision of Revocation if the commissioner fails to issue the Final Decision of Revocation in the initial 20 working day period. The Final Decision of Revocation will state the reasons that the approval is being withdrawn. The revocation of any approval is the automatic revocation of all associated approvals (including certificates, permits, reports, notices or amendments in the future) that may have been issued.
 
+(c) The Notice of Intent to Revoke and the Final Decision of Revocation may be issued by personal service or sent by registered mail to the applicant's address as it appears in the application. If the registered mail is unsuccessful, the commission may send the notice using the procedures permitted in section 25-313 of the Administrative Code of the City of New York.
 
-*§ 9-06 Applications for Partial or Complete Removal of Teller Counters.* ::
-
-
-(a)  Any CofA application that includes the partial or complete removal of the teller counter or the complete or partial removal of the teller counter and its associated fixtures may include a written statement setting forth the reasons why such removal is appropriate.
-
-(b) In its consideration of the appropriateness of the proposed removal the Commission may consider, among other things, whether the partial or complete removal of the teller counter or its fittings or fixtures would damage any other significant architectural feature and the extent to which the proposed alterations would restore the affected portions of the banking floor and/or exposed counter-end to an appropriate condition. In addition, the Commission, in its discretion, may, if the applicant is not a public or quasi-public agency, require the applicant to establish an escrow account or other adequate assurance to provide for the disassembly, removal, secure storage, and replacement of the teller counter and/or its fittings and fixtures for such time and under such conditions as the Commission shall determine and describe in the CofA.
-
-
-
-
-
-
-*§ 9-07 Application Procedures.* ::
-
-
-(a)  Submission of Application. See Chapter 2, Subchapter A ("Application Procedure") of these Rules.
-
-(b) Review Procedure.
-
-   (1) When the application is complete, staff will review the application for conformance with these rules. Upon determination that the criteria of the rules have been met, a PMW or CNE will be issued.
-
-   (2) If the criteria set forth in these rules for a CNE or PMW have not been met, the applicant will be given a notice of the proposed denial of the application pursuant to these rules and an opportunity to meet with the Director of the Preservation Department, or, in the absence of the Director, with a Deputy Director, to discuss the interpretation of these rules. After this meeting has taken place, if the applicant would like to discuss the matter further, he or she will be given an opportunity to meet with the Chairman for additional discussion of the application.
-
-   (3) Applications for work which does not qualify for the issuance of a CNE or PMW in accordance with these rules shall be subject to the LPC's usual review procedure as set forth in the Landmarks Law.
+(d) Enforcement action. All or some of the work performed in connection with an approval that has been revoked may be subject to enforcement action under sections 25-317, 25-317.1 and 25-317.2 of the Administrative Code of the City of New York. Such enforcement action may start upon the issuance of a written final decision by the commissioner or his or her designee to revoke the approval.
 
 
 
@@ -2295,6 +2148,153 @@ LPC staff will issue a CNE or a PMW (if the work does not require a permit from 
 (c) Illustrations. Drawings are the most effective way to illustrate the proposed work in a clear and precise fashion. The drawings contained in Appendix B of this Chapter 8 are examples of the types of drawings an applicant will be required to submit to the LPC as components of a complete application. As examples, these drawings have been simplified to generalize and illustrate many of the definitions and the requirements enunciated in the rules above. Submissions to the Commission must be specifically tailored to individual proposals. Drawings must be made to scale, and include all pertinent dimensions. Applications also may be supplemented, as necessary, with photographs of existing conditions, construction details, materials samples, specifications, and maps, to best explain the proposed work.
 
   
+
+
+
+
+Chapter 9: Alterations To Designated Bank Interiors
+--------------------------------------------------
+
+
+
+*§ 9-01 Introduction.* ::
+
+
+(a)  These rules are issued to assist building owners in applying to the Landmarks Preservation Commission (LPC) for approval of applications to undertake repair, rehabilitation, replacement of, or alterations to interior architectural features within designated bank interiors. The rules set forth Commission policy with respect to such repair, rehabilitation, replacement, or alteration and explain the procedures required to apply for a permit. The goal of these rules is to facilitate and encourage the continued historic use of these interiors as banking floors and to facilitate the adaptive reuse of the interior if it ceases to be used as a banking floor.
+
+(b) These rules are based on the following principles:
+
+   (1) The significant original visual qualities or character of a designated interior should not be destroyed. The removal or alteration of any significant architectural feature should be avoided whenever possible.
+
+   (2) Significant but deteriorated architectural features should be repaired rather than replaced whenever possible.
+
+   (3) Certain interior alterations can be approved at staff level in conformance with the procedures set forth in these rules. Other interior alterations require review by the full Commission in accordance with its usual review procedures.
+
+(c) These rules are keyed to underlined portions of the Description section of the Designation Reports for these interior landmarks, which identify significant architectural features requiring protection.
+
+(d) Applicants are encouraged to submit applications for Master Plans which will govern the approval of routine and continuing alterations such as installation of mechanical and electrical equipment.
+
+
+
+
+
+
+*§ 9-02 Definitions.* ::
+
+
+As used in these Rules, the following terms shall have the following meanings:
+
+Banking interior. The term "banking interior" shall mean the area of the designated interior historically used for banking operations and any associated interior spaces including, without limitation, entrance vestibules or mezzanines identified in the designation report as part of the designated interior.
+
+Commission. The term "commission" shall mean the eleven Commissioners, including the Chairman, as established by § 3020 of the New York City Charter.
+
+Interior architectural features. The term "interior architectural features" shall have the meaning established in § 25-302 of the Administrative Code of the City of New York.
+
+Landmarks Law. The term "landmarks law" shall refer to § 3020 of the New York City Charter and Chapter 3 of Title 25 of the Administrative Code of the City of New York.
+
+LPC. The term "LPC" shall mean the Landmarks Preservation Commission acting in its agency capacity to implement the Landmarks Law.
+
+Non-significant features. The term "non-significant features" shall mean the interior architectural features of the designated interior that the LPC has determined do not contribute to the special historic, cultural, and/or aesthetic character for which the interior was designated. These features comprise all of the interior architectural features of the interior with the exception of those features that are underscored in the designation report.
+
+Significant features. The term "significant features" shall mean the interior architectural features of the designated interior that the LPC has determined contribute to the special historic, cultural, and/or aesthetic character for which the interior was designated, and therefore require protection under these rules. These features are identified in the designation reports and indicated by underscoring.
+
+Reversible alteration. The term "reversible alteration" shall mean an alteration in which the altered feature can be readily returned to its appearance prior to the alter- ation.
+
+State-of-the-art banking change. The term "state-of-the-art banking change" shall mean a physical alteration to the bank interior that the applicant has determined to be necessary to accommodate changes in technology and/or banking practice. When submitting an application to make such an alteration, the applicant must enclose a verified statement executed by the manager of the bank stating that the bank's ability to perform its banking functions would be impaired if it were unable to make such an alteration. Terms not otherwise defined in these rules shall have the meanings given them in the Landmarks Law.
+
+
+
+
+
+
+*§ 9-03 Eligible Interiors &amp; Significant Features.* ::
+
+
+(a)  The following interior landmarks are subject to these rules:
+
+   (1) Former Emigrant Industrial Savings Bank, 51 Chambers Street, Manhattan
+
+   (2) Former New York Bank for Savings, 81 Eighth Avenue, Manhattan
+
+   (3) Former Greenwich Savings Bank, 1352-1362 Broadway, Manhattan
+
+   (4) Former Central Savings Bank, 2100-2114 Broadway, Manhattan
+
+   (5) Former Dollar Savings Bank, 2516-2530 Grand Concourse, Bronx
+
+   (6) Dime Savings Bank, 9 DeKalb Avenue, Brooklyn
+
+   (7) Former Bowery Savings Bank, 130 Bowery, Manhattan
+
+   (8) Former Bowery Savings Bank, 110 East 42nd Street, Manhattan
+
+   (9) Williamsburgh Savings Bank, 1 Hanson Place, Brooklyn
+
+   (10) Williamsburgh Savings Bank, 175 Broadway, Brooklyn
+
+   (11) Brooklyn Trust Company, 177 Montague Street, Brooklyn In addition, any interior landmark or portion thereof which the Commission designates subsequent to the enactment of these rules and which is described as a banking interior in the designation report shall be subject to these rules.
+
+
+
+
+
+
+*§ 9-04 Changes to Non-significant Features.* ::
+
+
+(a)  The LPC staff will issue a Certificate of No Effect on Protected Architectural Features (CNE) or a Permit for Minor Work (PMW) (if the work does not require a permit from the Department of Buildings) within five working days of receipt of a completed application for any proposed work to a non-significant feature if the following conditions are met:
+
+   (1) The visible volume and configuration of the banking interior is maintained; and
+
+   (2) The staff determines that the alteration will not adversely affect any significant architectural feature and will not detract from the overall visual character of the banking interior.
+
+
+
+
+
+
+*§ 9-05 State-of-the-Art Banking Changes.* ::
+
+
+(a)  The LPC staff will issue a CNE or PMW within fifteen working days of receipt of a completed application for a state-of-the-art banking change, if all of the following conditions are met:
+
+   (1) the visible volume and configuration of the banking interior is maintained; and
+
+   (2) the proposed alteration is the least intrusive means available to achieve a state-of-the-art banking change, such as the installation of ATMs or security devices; and
+
+   (3) that (i) the proposed alteration will have no effect on the physical fabric of the significant features or (ii) such effect is reversible, and that the applicant will ensure that the physical fabric of the significant feature will be replaced or restored after the proposed alteration is no longer required to achieve a state-of-the-art banking change.
+
+(b) Any proposed alteration that includes the partial or complete removal or relocation of the teller counter or the removal of a significant portion of its fittings or fixtures requires a Certificate of Appropriateness (CofA) from the Commission in accordance with the procedures and criteria set forth in the Landmarks Law if the teller counter and/or such fittings or fixtures is a significant feature.
+
+
+
+
+
+
+*§ 9-06 Applications for Partial or Complete Removal of Teller Counters.* ::
+
+
+(a)  Any CofA application that includes the partial or complete removal of the teller counter or the complete or partial removal of the teller counter and its associated fixtures may include a written statement setting forth the reasons why such removal is appropriate.
+
+(b) In its consideration of the appropriateness of the proposed removal the Commission may consider, among other things, whether the partial or complete removal of the teller counter or its fittings or fixtures would damage any other significant architectural feature and the extent to which the proposed alterations would restore the affected portions of the banking floor and/or exposed counter-end to an appropriate condition. In addition, the Commission, in its discretion, may, if the applicant is not a public or quasi-public agency, require the applicant to establish an escrow account or other adequate assurance to provide for the disassembly, removal, secure storage, and replacement of the teller counter and/or its fittings and fixtures for such time and under such conditions as the Commission shall determine and describe in the CofA.
+
+
+
+
+
+
+*§ 9-07 Application Procedures.* ::
+
+
+(a)  Submission of Application. See Chapter 2, Subchapter A ("Application Procedure") of these Rules.
+
+(b) Review Procedure.
+
+   (1) When the application is complete, staff will review the application for conformance with these rules. Upon determination that the criteria of the rules have been met, a PMW or CNE will be issued.
+
+   (2) If the criteria set forth in these rules for a CNE or PMW have not been met, the applicant will be given a notice of the proposed denial of the application pursuant to these rules and an opportunity to meet with the Director of the Preservation Department, or, in the absence of the Director, with a Deputy Director, to discuss the interpretation of these rules. After this meeting has taken place, if the applicant would like to discuss the matter further, he or she will be given an opportunity to meet with the Chairman for additional discussion of the application.
+
+   (3) Applications for work which does not qualify for the issuance of a CNE or PMW in accordance with these rules shall be subject to the LPC's usual review procedure as set forth in the Landmarks Law.
 
 
 
