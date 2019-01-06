@@ -2756,7 +2756,7 @@ Market area. "Market area" shall mean:
 
 Market manager. "Market manager" shall mean a person designated by the Commission to supervise operations in the market area. Such supervision shall include, without limitation: implementation of these rules and the authority to enforce violations of any provision of Chapter 1-A of Title 22 of the Code or the rules promulgated pursuant to such chapter; supervision of Commission staff employed in the market area; response to complaints relating to the operation of businesses in the market area; examination of documents required to be maintained by a licensee or registrant pursuant to this subchapter; referrals, where appropriate, to any law enforcement, adjudicatory, investigative or prosecutorial agency of matters occurring within the market area; and such other functions and duties as the Commission may assign consistent with the provisions of Chapter 1-A of Title 22 of the Code or the rules promulgated pursuant to such chapter.
 
-Non-seafood business. "Non-seafood business" shall mean any business that operates within a market area on City property that is not a loading, unloading, wholesale seafood or seafood delivery business or a market business, as that term is defined in 17 RCNY §  14-02.
+Non-seafood business. "Non-seafood business" shall mean any business that operates within a market area on City property that is not a loading, unloading, wholesale seafood or seafood delivery business or a market business, as that term is defined in 17 RCNY § 14-02.
 
 Person. "Person" shall include entities as well as natural persons unless the context indicates otherwise.
 

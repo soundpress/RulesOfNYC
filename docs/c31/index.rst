@@ -1037,13 +1037,15 @@ Pursuant to Administrative Code § 19-506.1, a Respondent may move to vacate a d
 *§ 5-04 Appeals* ::
 
 
-(a) Expedited appeals. Either party may appeal a decision pursuant to 48 RCNY § 6-19. Where the appeal involves the suspension or revocation of a TLC-issued license, the Appeals Unit will issue an expedited decision.
+(a) Pursuant to Administrative Code § 19-506.1(c), a Respondent will not be required to pay the fines, penalties, or restitution imposed in the decision in order to file an appeal.
 
-(b) A party responding to a request for appeal where the appeal involves the suspension or revocation of a TLC-issued license must file the response with the Tribunal within seven (7) days after being served with the appeal. The responding party must also serve a copy of the response on the appealing party, and file proof of such service with the Tribunal.
+(b) Expedited appeals. Either party may appeal a decision pursuant to 48 RCNY § 6-19. Where the appeal involves the suspension or revocation of a TLC-issued license, the Appeals Unit will issue an expedited decision.
 
-(c) Requests for hearing recording. Pursuant to Administrative Code § 19-506.1(d), if a Respondent appealing a decision requests in writing a copy of the hearing recording, the recording will be produced to the Respondent within thirty (30) days after receipt of the request. If the recording cannot be produced within the thirty (30) day period, the determination being appealed will be dismissed without prejudice.
+(c) A party responding to a request for appeal where the appeal involves the suspension or revocation of a TLC-issued license must file the response with the Tribunal within seven (7) days after being served with the appeal. The responding party must also serve a copy of the response on the appealing party, and file proof of such service with the Tribunal.
 
-(d) Finality. A decision of the Appeals Unit becomes the final determination of the Tribunal, unless either party petitions the TLC Chairperson in accordance with § 35 RCNY 68-12(c).
+(d) Requests for hearing recording. Pursuant to Administrative Code § 19-506.1(d), if a Respondent appealing a decision requests in writing a copy of the hearing recording, the recording will be produced to the Respondent within thirty (30) days after receipt of the request. If the recording cannot be produced within the thirty (30) day period, the determination being appealed will be dismissed without prejudice.
+
+(e) Finality. A decision of the Appeals Unit becomes the final determination of the Tribunal, unless either party petitions the TLC Chairperson in accordance with § 35 RCNY 68-12(c).
 
 
 
@@ -1325,39 +1327,41 @@ Discovery may be obtained in the following manner:
 *§ 6-09 Appearances.* ::
 
 
-(a) Where the summons states that a penalty for the cited violation may be paid by mail prior to the scheduled hearing or other applicable date provided, a Respondent may admit to the violation charged and pay the penalty in the manner and by the time directed by the summons. Payment in full is deemed an admission of liability and no further hearing or appeal will be allowed.
+(a) A Respondent may appear for a hearing personally or be represented by:
+
+   (1) an attorney admitted to practice law in New York State, or
+
+   (2) a representative registered to appear before the Tribunal pursuant to 48 RCNY § 6-23, or
+
+   (3) any other person authorized by a Respondent to appear at or before the Tribunal on behalf of the Respondent, as set forth in 48 RCNY § 6-23(a).
 
 (b) A Respondent may appear for a hearing by:
 
-   (1) Appearing in person at the place, date and time scheduled for the hearing; or
+   (1) Appearing in person or by representative at the place, date, and time scheduled for the hearing. Respondent’s appearance is timely if Respondent or Respondent’s representative appears at the scheduled hearing location and is ready to proceed within three (3) hours of the scheduled hearing time for a summons. However, a representative or attorney appearing on fifteen (15) or more summonses on a given hearing date must comply with the requirements set forth in 48 RCNY § 6-24 to be considered timely; or
 
-   (2) Sending an authorized representative to appear on behalf of such person at the place, date and time scheduled for the hearing who is:
+   (2) Appearing by remote method pursuant to 48 RCNY § 6-10, only where the summons indicates that such opportunity is available to a Respondent. Where the summons requires personal appearance, a Respondent must appear pursuant to subsection (1) of this subdivision.
 
-      (i) an attorney admitted to practice law in New York State, or
+(c) Where the terms of a summons authorize a Respondent to do so, a Respondent may also appear by admitting the violation charged on the summons and paying the penalty for the cited violation in the manner and by the time directed in the summons. Payment in full is deemed an admission of liability and no further hearing or appeal will be allowed.
 
-      (ii) a representative registered to appear before the Tribunal pursuant to 48 RCNY § 6-23, or
+(d) Current Owner of a Property.
 
-      (iii) any other person, subject to the provisions of 48 RCNY § 6-23; or
+   (1) Notwithstanding the foregoing, if a prior owner of a property is named on the summons, the current owner of a property may appear on behalf of the prior owner if the summons:
 
-   (3) Appearing pursuant to 48 RCNY § 6-10, when the opportunity to appear remotely is offered by the Tribunal, unless the summons specifies that a Respondent must appear in person at a hearing.
+      (A) involves a premises-related violation, and
 
-(c) In addition to the persons allowed to appear in paragraph (b), the current owner of a property may appear on behalf of the prior owner of the property, if the summons:
+      (B) was issued after title to the property was transferred to the current owner.
 
-   (1) names the prior owner,
+   (2) The current property owner may appear for purposes of presenting a deed and indicating when title passed.
 
-   (2) is a premises-related violation, and
+   (3) The current owner of the property may also present a defense on the merits of the charge only if the current owner agrees to substitute him or herself for the prior owner and waives all defenses based on service.
 
-   (3) was issued after title to the property was transferred.
+(e) Failure to Appear by Respondent. A Respondent’s failure to appear timely pursuant to subsection (1) of subdivision (b) of this section, or to make a timely request to reschedule pursuant to 48 RCNY § 6-05, constitutes a default and subjects the Respondent to penalties in accordance with 48 RCNY § 6-20.
 
-   However, the current property owner may only appear for the purposes of presenting a deed indicating when title passed. The current owner of the property may only present a defense on the merits if the current owner agrees to substitute him or herself for the prior owner, waiving all defenses based on service.
+(f) Notwithstanding any other provision of this section, attorneys or registered representatives who appear on fifteen (15) or more summonses on a given hearing date must comply with the requirements set forth in 48 RCNY § 6-24. Failure to do so constitutes a default and subjects the Respondent to penalties in accordance with 48 RCNY § 6-20.
 
-(d) Failure to Appear by Respondent. A Respondent's failure to appear at the scheduled time or to make a timely request to reschedule pursuant to 48 RCNY § 6-05 constitutes a default to the charges, and subjects the Respondent to penalties in accordance with 48 RCNY § 6-20.
+(g) A Petitioner may appear for a hearing through an authorized representative at the place, date and time scheduled for the hearing or by remote methods when the opportunity to do so is offered by the Tribunal. If Petitioner elects to appear at the Tribunal, Petitioner’s appearance for a hearing is considered timely if Petitioner is ready to proceed within thirty (30) minutes of the timely appearance by Respondent.
 
-(e) A Petitioner may appear for a hearing through an authorized representative at the place, date and time scheduled for the hearing or by other remote methods when the opportunity to do so is offered by the Tribunal.
-
-(f) Failure to Appear by Petitioner. If a Petitioner fails to appear at the scheduled place, date and time, the hearing may proceed without the Petitioner.
-
-(g) Discretionary Intervention. Any person may move for discretionary intervention. The Hearing Officer, taking into account the need to conduct an orderly, expeditious and fair hearing, may permit such intervenor if good cause is shown or if the intervenor is in a position to assist in the proof or defense of the proceeding. Such intervenor will be allowed to participate in the proceeding as the Hearing Officer may direct. In determining the extent of the intervenor's participation, the Hearing Officer will consider the avoidance of unfairness to the parties and the intervenor, and the avoidance of undue delay. An intervenor is not a party to the proceeding and has no standing to appeal the Hearing Officer's decision.
+(h) Failure to Appear by Petitioner. If Petitioner fails timely to appear at the scheduled place, date and time, pursuant to subdivision (g) of this section, the hearing may proceed without the Petitioner.
 
 
 
@@ -1541,25 +1545,9 @@ Hearing Officers may:
 *§ 6-14 Requests for Adjournment.* ::
 
 
-(a) At the time of the scheduled hearing or upon motion, a Hearing Officer may adjourn a hearing for the testimony of the Inspector or a complaining witness only if:
+(a) At the request of either party during a hearing, a Hearing Officer may adjourn the hearing upon a showing of good cause as determined by the Hearing Officer in his or her discretion.
 
-   (1) Respondent consents or the Petitioner appears at the hearing, and
-
-   (2) the Hearing Officer concludes that the Inspector's or witness's testimony is reasonably likely to be necessary to a fair hearing of the violations charged or of the defenses to those charges.
-
-(b) If a Hearing Officer has adjourned a hearing:
-
-   (1) solely for the purpose of obtaining the Inspector's testimony, and
-
-   (2) the Respondent timely appears on the adjourned hearing date, and
-
-   (3) the Inspector fails to timely appear on the adjourned hearing date,
-
-the hearing shall not be further adjourned solely to obtain the testimony of such Inspector unless the Respondent consents to the second adjournment or the Hearing Officer determines that extraordinary circumstances warrant the second adjournment. "Extraordinary circumstances" are circumstances that could not have been reasonably foreseen by the Petitioner.
-
-(c) A Hearing Officer may not adjourn a hearing on more than two (2) occasions because of the unavailability of the Inspector.
-
-(d) For all other adjournment requests, a Hearing Officer may grant a request to adjourn the hearing to a later date only after a showing of good cause as determined by the Hearing Officer in his or her discretion. In deciding whether there is good cause for an adjournment, the Hearing Officer will consider:
+(b) In deciding whether there is good cause for an adjournment, the Hearing Officer will consider:
 
    (1) Whether granting the adjournment is necessary for the party requesting the adjournment to effectively present the case;
 
@@ -1569,7 +1557,7 @@ the hearing shall not be further adjourned solely to obtain the testimony of suc
 
    (4) The age of the case and the number of adjournments previously granted;
 
-   (5) Whether the party requesting the adjournment had the opportunity to prepare for the scheduled hearing;
+   (5) Whether the party requesting the adjournment had a reasonable opportunity to prepare for the scheduled hearing;
 
    (6) Whether the need for the adjournment is due to facts that are beyond the requesting party's control;
 
@@ -1577,7 +1565,7 @@ the hearing shall not be further adjourned solely to obtain the testimony of suc
 
    (8) Any other fact that the Hearing Officer considers to be relevant to the request for an adjournment.
 
-(e) Once a hearing has been adjourned, neither party may request a reschedule pursuant to 48 RCNY § 6-05. A denial of an adjournment request is not subject to separate or interim review or appeal.
+(c) Once a hearing has been adjourned, neither party may request a reschedule pursuant to 48 RCNY § 6-05. A denial of an adjournment request is not subject to interim review or appeal.
 
 
 
@@ -1586,10 +1574,14 @@ the hearing shall not be further adjourned solely to obtain the testimony of suc
 
 
 
-*§ 6-15 Appearances of Inspectors.* ::
+*§ 6-15 Adjournments for Inspector Testimony.* ::
 
 
-In the event that the Inspector does not appear at the hearing, the Hearing Officer may adjourn the hearing pursuant to 48 RCNY § 6-14, or may proceed with the hearing without the inspector and sustain or dismiss all or part of the summons, as the Hearing Officer may deem appropriate.
+(a) Upon request of either party, a Hearing Officer may grant an adjournment for the testimony of an Inspector if the Hearing Officer finds that the Inspector’s testimony is likely to be necessary to a fair hearing on the violation(s) charged and/or the defense(s) asserted.
+
+(b) If a Hearing Officer has adjourned a hearing solely for the purpose of obtaining the Inspector’s testimony, and the Respondent timely appears on the adjourned hearing date but the Inspector fails timely to appear, the hearing shall not be further adjourned solely to obtain the testimony of such Inspector, unless the Respondent consents to the second adjournment or the Hearing Officer finds that extraordinary circumstances warrant the second adjournment. “Extraordinary circumstances” are circumstances that could not have been reasonably foreseen by the Petitioner.
+
+(c) A Hearing Officer may not adjourn a hearing on more than two (2) occasions for the appearance of the Inspector.
 
 
 
@@ -1674,41 +1666,61 @@ A copy of the decision, other than a default decision mailed or otherwise provid
 *§ 6-19 Appeals.* ::
 
 
-(a) A party may appeal, in whole or in part, a decision of a Hearing Officer. An appeal must contain a concise statement of the issues presented, specific objections to the findings of fact and conclusions of law set forth in the Hearing Officer's recommended decision, and arguments presenting clearly the points of law and facts relied on in support of the position taken on each issue. A party may not appeal a decision rendered on default, a denial of a motion to vacate a default decision, or a plea admitting the violations charged.
+(a) Filing an appeal.
 
-(b) Appeals decisions are made upon the record of the hearing. The record of the hearing includes all items enumerated in 48 RCNY § 6-11(g) as well as the Hearing Officer's written decision. The Appeals Unit will not consider any evidence that was not presented to the Hearing Officer. Except as provided in 48 RCNY § 5-04, the absence of a recording of the hearing does not prevent determination of the appeal.
+   (1) A party may appeal a decision of a Hearing Officer in whole or in part. An appeal will be considered by the Tribunal only upon timely completion of the following requirements:
 
-(c) Appeals Procedure.
+      (i) The party seeking to appeal the decision of a Hearing Officer must file the appeal with the Tribunal within thirty (30) days of the date of the Hearing Officer’s decision, or within thirty-five (35) days if the decision was mailed, and the filing must contain proof that the appealing party served a copy of the appeal on the nonappealing party;
 
-   (1) Within thirty (30) days of the date of service of the Hearing Officer's decision, or thirty-five (35) days if the decision was mailed, a party seeking review of the decision must file with the Tribunal an appeal on a form prescribed by the Tribunal and serve a copy of it on the non-appealing party. An appeal will be accepted by the Tribunal only if:
+      (ii) The appeal must be in writing and contain a concise statement of the issues, which must include specific objections to the findings of fact and conclusions of law in the Hearing Officer’s decision, and the points of law and facts that support each objection. The appeal may be on a form prescribed by the Tribunal.
 
-      (i) the appealing party files an appeal on the Tribunal's form; and
+      (iii) Where a respondent appeals, that respondent must indicate in writing that payment of any fines, penalties or restitution imposed by the decision has been made in full, unless:
 
-      (ii) the appealing party files proof that a copy of the appeal has been served on the non-appealing party; and
+         (A) Respondent is granted a waiver of prior payment of fines or penalties due to financial hardship, as provided in subdivision (b) of this section;
 
-      (iii) Respondent provides proof of payment in full of any fines, penalties or restitution imposed by the decision, except as provided in subdivision (d).
+         (B) Respondent received a waiver of prior payment of fines or penalties as otherwise provided in law, rules or regulations;
 
-   (2) Except as provided in 48 RCNY § 5-04, within thirty (30) days of being served with the appeal, or thirty-five (35) days if service is made by mail, the non-appealing party may file a response to the appeal. The response must be on a form prescribed by the Tribunal and will be accepted only if the non-appealing party serves a copy of the response on the other party and files proof of that service with the Tribunal.
+         (C) Respondent opted for community service in lieu of a monetary penalty at the hearing; or
 
-   (3) An application may be made to the Tribunal to extend the time to file an appeal or a response to an appeal. Such request must be supported by evidence of impossibility or other explanation of inability to file timely. A copy of such application must be served on all parties, and proof of such service filed with the Tribunal.
+         (D) The agency responsible for collecting payment of the fines or penalties imposed enters into a payment plan with the Respondent prior to or at the time of the filing of the appeal.
 
-   (4) Any application for a copy of the hearing recording must be made within the time allotted for the filing of an appeal or a response to an appeal. A copy of such application must be served upon all parties, and proof of such service filed with the Tribunal within the time allotted for filing an appeal or response to an appeal. In that event, the time within which to file an appeal or respond to an appeal will be extended by thirty (30) days from the date when such hearing recording is delivered or mailed to the requesting party.
+   (2) A party may not appeal a decision rendered on default, a denial of a request for new hearing after default (motion to vacate a default), or a plea admitting the violations charged.
 
-   (5) Further filings with the Tribunal by either party are not permitted.
+(b) Financial hardship.
 
-(d) Fines, penalties, and restitution. Filing an appeal will not delay the collection of any fine, penalty or restitution imposed by the decision. An appeal by or on behalf of a Respondent will not be permitted unless the fines, penalties or restitution imposed has been paid in full prior to or at the time of the filing of the appeal; laws, rules, or regulations provide for a waiver of prior payment of fines or penalties; the Tribunal grants a waiver of prior payment due to financial hardship; or the agency responsible for collecting payment of the fines or penalties imposed enters into a payment plan with the Respondent prior to or at the time of the filing of the appeal.
+   (1) An application to the Tribunal for a waiver of prior payment due to financial hardship must be made before or at the time of the filing of the appeal and must be supported by evidence of financial hardship. The Chief Administrative Law Judge or his or her designee has sole discretion to grant or deny a waiver due to financial hardship. Application for a waiver does not extend the time to appeal.
 
-   (1) An application to the Tribunal for a waiver of prior payment due to financial hardship must be made before or at the time of the filing of the appeal and must be supported by evidence of financial hardship. The Chief Administrative Law Judge or his or her designee has the sole discretion to grant or deny a waiver due to financial hardship. Application for a waiver does not extend the time to appeal.
+   (2) Notwithstanding the provisions set forth in subdivision (a)(iii), above, payment of restitution is not subject to waiver due to financial hardship. If a Hearing Officer has ordered payment of restitution, the Respondent must, prior to or at the time of filing the appeal, submit proof that the Respondent has deposited the amount of restitution with the agency responsible for collecting payment, pending determination of the appeal.
 
-   (2) Notwithstanding paragraph (1), payment of restitution is not subject to waiver due to financial hardship. If a Hearing Officer has ordered payment of restitution, the Respondent must, prior to or at the time of the filing of the appeal, submit proof that the Respondent has deposited the amount of restitution with the agency responsible for collecting payment pending determination of the appeal.
+(c) Responding to an appeal. Except as provided in 48 RCNY § 5-04, the non-appealing party may file a response to the appeal within thirty (30) days of being served with the appeal, or thirty-five (35) days if served by mail. The response must be in writing, served on the appealing party, and filed with the Tribunal with proof of such service within the time allotted. The response may be on a form prescribed by the Tribunal.
 
-(e) Appeals Decision.
+(d) Requests for Extensions of time.
 
-   (1) When an appeal is filed, the Appeals Unit within the Tribunal will determine whether the facts contained in the findings of the Hearing Officer are supported by a preponderance of the evidence in the record, and whether the determinations of the Hearing Officer, as well as the penalties imposed, are supported by law. Except as provided in 48 RCNY §§ 3-15, 5-04 and 5-05, the Appeals Unit has the power to affirm, reverse, remand or modify the decision appealed from.
+   (1) A party who requests an extension of time to file an appeal or respond to an appeal will receive one automatic extension of thirty (30) days from the date the Appeals Unit grants the request. Any further requests for an extension will be granted for good cause shown.
 
-   (2) Except as provided in 48 RCNY §§ 3-15, 5-04 and 5-05, the Appeals Unit will promptly issue a written decision. Such decision is the final decision of the Tribunal, and judicial review of such decision may be sought pursuant to Article 78 of the CPLR. A copy of the decision will be delivered to the Petitioner and served on the Respondent by mail, stating the grounds upon which the decision is based. Where appropriate, the decision will order the repayment to the Respondent of any penalty that has been paid.
+   (2) All parties are entitled to request a copy of the hearing recording from the Appeals Unit. Any requests for hearing recordings will not further extend the party’s time to appeal as set forth in Subsection (1) of this subdivision.
 
-   (3) For summonses returnable to the Tribunal as authorized by the Board pursuant to § 1049-a of the New York City Charter and provisions of the New York City Administrative Code, any rules and regulations made thereunder, or provisions of New York State law, any decision of the Appeals Unit is a recommended decision to the Board. The Board or a panel consisting of members thereof will review the recommended decision pursuant to 48 RCNY § 3-15.
+   (3) Requests under Subsection (1) of this subdivision must be made in writing within the time allotted to file an appeal or a response, served on all parties, and timely filed with the Tribunal with proof of service. Requests for an extension may be on a form prescribed by the Tribunal.
+
+   (4) Unless one of the exceptions in Subdivision (a)(1)(iii) of this section applies, a request for an extension of time to file an appeal does not extend the time by which the Respondent must pay the penalty pursuant to 48 RCNY § 6-18.
+
+(e) Further filings on an appeal with the Tribunal by either party will not be considered unless requested by the Appeals Unit.
+
+(f) Review of an Appeal.
+
+   (1) Appeals decisions are made upon the record of the hearing. The record of the hearing includes all items enumerated in 48 RCNY § 6-11(g).
+
+   (2) The Appeals Unit will only consider evidence that was offered to the Hearing Officer at the hearing; provided however, upon good cause shown, the Appeals Unit may consider dispositive government records, such as a death certificate or deed, that establish a material fact or defense.
+
+   (3) In all cases other than those subject to 48 RCNY § 5-04, the Tribunal will decide an appeal even if there is no hearing recording.
+
+(g) Appeals Decision.
+
+   (1) When an appeal is filed, the Appeals Unit will determine whether the facts contained in the findings of the Hearing Officer are supported by a preponderance of the evidence in the record, and whether the determinations of the Hearing Officer, as well as the penalties imposed, are supported by law. Except as provided in 48 RCNY §§ 3-15, 5-04 and 5-05, the Appeals Unit has the power to affirm, reverse, remand or modify the decision appealed from.
+
+   (2) Except as provided in 48 RCNY §§ 3-15, 5-04 and 5-05, the Appeals Unit will promptly issue a written decision. Such decision is the final determination of the Tribunal, and judicial review of such decision may be sought pursuant to Article 78 of the New York Civil Practice Law and Rules. A copy of the decision will be delivered to the Petitioner and served on the Respondent by mail, stating the grounds upon which the decision is based. Where appropriate, the decision will order the repayment to the Respondent of any penalty that has been paid.
+
+   (3) For summonses returnable to the Tribunal as authorized by the Board pursuant to § 1049-a of the New York City Charter and provisions of the New York City Administrative Code, any rules and regulations made thereunder, or provisions of New York State law, any decision of the Appeals Unit is a recommended decision to the Board. The Board or a panel consisting of members thereof will review the recommended decision and issue a final determination pursuant to 48 RCNY § 3-15.
 
 
 
@@ -1745,11 +1757,11 @@ A copy of the decision, other than a default decision mailed or otherwise provid
 *§ 6-21 Request for a New Hearing after a Failure to Appear (Motion to Vacate a Default).* ::
 
 
-(a) Form of Motion. A motion to vacate a default is a request by a Respondent for a new hearing after the Respondent did not appear. The Respondent must make this motion by application to the Tribunal on a form approved by the Tribunal. The motion must be dated, contain a current mailing address for the Respondent; explain how and when the Respondent learned of the violation and be certified to under the penalties of perjury. If the motion is made by an attorney or other representative, the motion must explain the relationship between the Respondent and the person making the motion.
+(a) Form of Request. A request for a new hearing after default (motion to vacate a default) is a motion by a Respondent for a new hearing after the Respondent did not appear and a default decision was issued. The Respondent must make the request by application to the Tribunal on a form approved by the Tribunal. The request must be dated, contain a current mailing address for the Respondent; explain how and when the Respondent learned of the violation and be certified to under the penalties of perjury. If the request is made by an attorney or other representative, the request must explain the relationship between the Respondent and the person making the request
 
-(b) A first motion to vacate a default by a Respondent that is submitted within sixty (60) days of the mailing or hand delivery date of the default decision will be granted. A motion to vacate a default that is submitted by mail must be postmarked within sixty (60) days of the mailing or hand delivery date of the default decision.
+(b) A first request for a new hearing after default by a Respondent that is submitted within sixty (60) days of the mailing or hand delivery date of the default decision will be granted. A request for a new hearing after default that is submitted by mail must be postmarked within sixty (60) days of the mailing or hand delivery date of the default decision.
 
-(c) A motion to vacate a default that is submitted after sixty (60) days of the date of the mailing or hand delivery date of the default decision must be filed within one (1) year of the date of the default decision and be accompanied by a statement setting forth a reasonable excuse for the Respondent's failure to appear and any documents to support the motion to vacate the default. The Hearing Officer will determine whether a new hearing will be granted.
+(c) A request for a new hearing after default that is submitted after sixty (60) days of the date of the mailing or hand delivery date of the default decision must be filed within one (1) year of the date of the default decision and be accompanied by a statement setting forth a reasonable excuse for the Respondent's failure to appear and any documents to support the request. The Hearing Officer will determine whether a new hearing will be granted.
 
 (d) Reasons for Failing to Appear. In determining whether a Respondent has shown a reasonable excuse for failing to appear at a hearing, the Hearing Officer will consider:
 
@@ -1761,11 +1773,9 @@ A copy of the decision, other than a default decision mailed or otherwise provid
 
       (ii) Whether the Respondent was an improper party when the summons was issued, such as:
 
-         (a) An individual who was deceased or legally incompetent on the hearing date upon which the Respondent did not appear; or
+         (A) An individual who was deceased or legally incompetent on the hearing date upon which the Respondent did not appear; or
 
-         (b) For a premises-related violation, the Respondent was not the owner, agent, lessee, tenant occupant or person in charge of or in control of the place of occurrence on the date of the offense.
-
-      A decision to grant a motion to vacate a default is not a final decision on the issues of whether the Respondent was properly served or a proper party on the date of the offense.
+         (B) For a premises-related violation, the Respondent was not the owner, agent, lessee, tenant occupant or person in charge of or in control of the place of occurrence on the date of the offense.
 
    (3) Whether circumstances that could not be reasonably foreseen prevented the Respondent from attending the hearing.
 
@@ -1783,15 +1793,21 @@ A copy of the decision, other than a default decision mailed or otherwise provid
 
    (10) Any other fact that the Tribunal considers to be relevant to the motion to vacate.
 
-(e) If a motion to vacate a default has been previously granted, and a new default decision has been issued, a motion to vacate the second default decision in relation to the same summons will not be granted. Notwithstanding the foregoing, the Chief Administrative Law Judge or his or her designee will have the discretion, in exceptional circumstances and in order to avoid injustice, to grant a request for a new hearing.
+(e) Defaulting twice on the same summons.
 
-(f) Except as otherwise stated in 48 RCNY § 5-03, the Chief Administrative Law Judge or his or her designee will have the discretion, in exceptional circumstances and in order to avoid injustice, to consider a motion to vacate a default filed more than one (1) year from the date of the default decision.
+   (1) If, after a request for a new hearing has been previously granted, a Respondent defaults on the same summons, the second default shall not be eligible for a request for a new hearing. The second default decision is the Tribunal's final determination and is not subject to review or appeal at the Tribunal. Judicial review of the decision may be sought pursuant to Article 78 of the New York Civil Practice Law and Rules.
 
-(g) If a motion to vacate a default is granted, the Tribunal will send a notice to the Respondent at the Respondent's address provided on the motion. If the Respondent is deceased or legally incompetent, a notice will be sent to Respondent's representative at the address provided by the representative on the motion. Notice will also be sent to the Petitioner upon request. If the Respondent is unable to appear on the hearing date scheduled after such motion is granted, the Respondent may request that the hearing be rescheduled one final time.
+   (2) Notwithstanding the forgoing, upon application, the Chief Administrative Law Judge or his or her designee may grant a new hearing after default upon a showing of exceptional circumstances and in order to avoid injustice.
 
-(h) If a motion to vacate a default is granted and the Respondent has already made a full or partial payment, no request of a refund will be considered until after the hearing is completed and a decision issued.
+(f) Except as otherwise stated in 48 RCNY § 5-03, the Chief Administrative Law Judge or his or her designee will have the discretion, in exceptional circumstances and in order to avoid injustice, to consider a Respondent's first request for a new hearing after default made more than one (1) year from the date of the default decision.
 
-(i) A denial of a motion to vacate a default is the Tribunal's final determination and is not subject to review or appeal at the Tribunal. Judicial review of the denial may be sought pursuant to Article 78 of the New York Civil Practice Law and Rules.
+(g) If a request for a new hearing after default is granted, the Tribunal will send a notice to the Respondent at the Respondent's address provided on the motion. If the Respondent is deceased or legally incompetent, a notice will be sent to Respondent's representative at the address provided by the representative on the motion. Notice will also be sent to the Petitioner upon request. If the Respondent is unable to appear on the hearing date scheduled after such motion is granted, the Respondent may request that the hearing be rescheduled one (1) final time.
+
+(h) If a request for a new hearing after default is granted and the Respondent has already made a full or partial payment, no request of a refund will be considered until after the hearing is completed and a decision issued.
+
+(i) A decision to grant a request for a new hearing after default is not a final decision on the issues of whether the Respondent was properly served or a proper party on the date of the offense.
+
+(j) A denial of a request for a new hearing after default is the Tribunal's final determination and is not subject to review or appeal at the Tribunal. Judicial review of the denial may be sought pursuant to Article 78 of the New York Civil Practice Law and Rules.
 
 
 
@@ -1850,7 +1866,13 @@ Requirements. A representative, other than a family member or an attorney admitt
 *§ 6-24 Pre-hearing Notification of Schedule for Attorneys and Registered Representatives.* ::
 
 
-(a) No attorney or registered representative may appear on fifteen (15) or more summonses on a given hearing date unless the attorney or registered representative emails or faxes in advance a written list of all scheduled cases to the Tribunal office in the borough where the cases are scheduled to be heard. This list must be sent no later than noon, two (2) business days before the scheduled hearing date.
+(a) No attorney or registered representative may appear on fifteen (15) or more summonses on a given hearing date unless:
+
+   (1) No later than noon two (2) business days before the scheduled hearing date, the Tribunal office in the borough where the cases are scheduled to be heard receives from the attorney or registered representative by email a written list of all scheduled cases;
+
+   (2) Notices of Appearance are submitted in advance of the scheduled hearing, as directed by the Tribunal, to the Tribunal office in the borough where cases are scheduled to be heard; and
+
+   (3) The attorney or registered representative appears at or before the scheduled hearing time, at the place and date for the scheduled hearing. The timeliness requirements set forth in 48 RCNY § 6-09(b)(1), which allows a Respondent or a Respondent’s representative to appear within three (3) hours of the scheduled hearing time, does not apply when an attorney or representative is appearing on fifteen (15) or more summonses on a given hearing date.
 
 (b) Cases may be added to this list on the day of the hearing at the discretion of the Tribunal.
 

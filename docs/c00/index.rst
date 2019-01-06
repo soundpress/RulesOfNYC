@@ -5726,7 +5726,7 @@ The assembly and disassembly of an amusement device must be performed by or unde
 .. list-table::
     :header-rows: 1
 
-    * - "THE FOLLOWING PEOPLE SHOULD NOT RIDE THIS AMUSEMENT DEVICE:People under the influence of alcohol.People under the influence of drugs or medications that could impair judgment.People with heart conditions.Pregnant women.People with disabilities that may interfere with their safety during the operation of the  amusement device.People with motion sickness.People with any physical ailments that could be aggravated by this amusement device."
+    * - "THE FOLLOWING PEOPLE SHOULD NOT RIDE THIS AMUSEMENT DEVICE:People under the influence of alcohol.People under the influence of drugs or medications that could impair judgment.People with heart conditions.Pregnant women.People with disabilities that may interfere with their safety during the operation of the amusement device.People with motion sickness.People with any physical ailments that could be aggravated by this amusement device."
 ~
 
 

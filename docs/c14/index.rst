@@ -3699,7 +3699,7 @@ Zoning Resolution. "Zoning Resolution" means the Zoning Resolution of the City, 
 
 (j) [Reserved.]
 
-(k) As provided in 28 RCNY  39-03, the revocation of benefits for noncompliance with the Act or this chapter shall not exempt any unit from continued compliance with the requirements of the Act or this chapter.
+(k) As provided in 28 RCNY 39-03, the revocation of benefits for noncompliance with the Act or this chapter shall not exempt any unit from continued compliance with the requirements of the Act or this chapter.
 
 
 
@@ -18720,7 +18720,7 @@ The criteria used to evaluate prospective Pilot Program Buildings for distress s
 
 (1) The Department may designate a community group to conduct a survey of the occupants of a Pilot Program Building with respect to Harassment in such building and to report its findings to the Department. Based upon the findings of such community group or the Department's review of records and other data, the Department may determine that it is necessary to conduct a further investigation.
 
-(2) Upon receipt of an application for a Certification of No Harassment, the Department shall publish a notice, as provided in subdivision d of section 27-2093.1 of the Administrative Code, seeking public comment regarding whether there has been Harassment of the lawful occupants of the Pilot Program Building during the Inquiry Period. 
+(2) Upon receipt of an application for a Certification of No Harassment, the Department shall publish a notice, as provided in subdivision d of section 27-2093.1 of the Administrative Code, seeking public comment regarding whether there has been Harassment of the lawful occupants of the Pilot Program Building during the Inquiry Period.
 
 
 

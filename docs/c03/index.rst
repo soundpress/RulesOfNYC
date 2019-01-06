@@ -4124,7 +4124,7 @@ or other similar term implying comparison with non-identical merchandise is used
 
    (3) "out-of-store" advertisements must disclose which of the above standards was or were used (if a single advertisement relates to merchandise or services offered at reductions according to different standards, it must disclose which standards apply to which types of merchandise or services);
 
-      Example:  "____ % to ____ % off the manufacturer's price" "____ % to ____ % off last year's price." 
+      Example: "____ % to ____ % off the manufacturer's price" "____ % to ____ % off last year's price." 
 
    (4) at least 15 percent of all types, models, or categories of items or services on sale in the advertised category must in fact be reduced by the maximum percentage reduction and a representative number of other models or types or services must be offered at various points in the range significantly separated and representatively scattered.
 
@@ -4236,7 +4236,7 @@ The retailer either must have in stock or on order, or be prepared to supply wit
 *§ 5-101 Inherently Misleading Terms.* ::
 
 
-The following inherently misleading terms are prohibited in retail advertising:  "our list price" below "manufacturer's wholesale cost" "manufacturer's cost"
+The following inherently misleading terms are prohibited in retail advertising: "our list price" below "manufacturer's wholesale cost" "manufacturer's cost"
 
 
 
@@ -6345,7 +6345,7 @@ For purposes of section 22-507(b)(3) of the Administrative Code, an employee att
 
 (b) The department will make two attempts by any combination of letter, email, or telephone to arrange a mutually agreeable time of day for the grocery employer to provide access to its records in accordance with subdivision (b) of this section. If these attempts are not successful, the department may set a time to access records at the grocery employer's place of business during regular business hours, upon two days' notice to the grocery employer.
 
-(c) The grocery employer may cure a notice of violation issued to a grocery employer for failure to provide requested information, records or access to records as required by 6 RCNY § 7-405  without penalty by producing the requested information or records on or before the first scheduled hearing date.
+(c) The grocery employer may cure a notice of violation issued to a grocery employer for failure to provide requested information, records or access to records as required by 6 RCNY § 7-405 without penalty by producing the requested information or records on or before the first scheduled hearing date.
 
 (d) The department may settle a complaint at any time prior to the conclusion of an adjudication. Prior to settling any complaint filed by an eligible grocery employee, pursuant to Section 22-507(d)(1), the department shall provide each complainant with notice of the proposed settlement.
 

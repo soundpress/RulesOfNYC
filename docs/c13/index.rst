@@ -1161,7 +1161,7 @@ The Department shall, when conducting a sanitary inspection, assess points only 
 
    (1) A mobile food vending unit changes from a pushcart to a vehicle or from a vehicle to a pushcart, as such terms are defined in 24 RCNY Health Code Article 89.
 
-   (2) A new decal is issued because there has been a change in the permit classification as described in 24 RCNY §  6-03.
+   (2) A new decal is issued because there has been a change in the permit classification as described in 24 RCNY § 6-03.
 
 
 

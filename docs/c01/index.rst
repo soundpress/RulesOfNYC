@@ -1,19 +1,6 @@
 Title 2: Board of Standards and Appeals
 ===================================================
 
-Chapter 2: Automotive Service Stations and Garages
---------------------------------------------------
-
-
-
-*§ 2-01 Changes in Underground Storage Tank Number, Capacity or Location.* ::
-
-
-If on any automotive service station or storage garage which has been erected under a variance or permit granted by the Board, it is proposed to change the number, capacity or location of underground storage tanks in compliance with the requirements of the Administrative Code, such tank changes shall be deemed to be in substantial compliance with the terms and conditions of the Board's resolution affecting that automotive service station or garage, provided that all other requirements of the resolution in each case shall be complied with.
-
-
-
-
 Chapter 1: Rules of Practice and Procedures New York City Board of Standards and Appeals
 --------------------------------------------------
 
@@ -325,6 +312,102 @@ This table is intended to serve as a summary. Please see the full text of the as
 2 Applications for pre-1961 use and bulk grants or transient parking waivers, where the time is specified only as a condition in the Board's resolution, may be filed on the SOC calendar as an amendment to modify such time period provided that the applicant requests a waiver.
 
 This table is intended to serve as a summary. Please see the full text of the associated rule for all requirements.
+
+
+
+
+Chapter 2: Automotive Service Stations and Garages
+--------------------------------------------------
+
+
+
+*§ 2-01 Changes in Underground Storage Tank Number, Capacity or Location.* ::
+
+
+If on any automotive service station or storage garage which has been erected under a variance or permit granted by the Board, it is proposed to change the number, capacity or location of underground storage tanks in compliance with the requirements of the Administrative Code, such tank changes shall be deemed to be in substantial compliance with the terms and conditions of the Board's resolution affecting that automotive service station or garage, provided that all other requirements of the resolution in each case shall be complied with.
+
+
+
+
+Chapter 4: Doors
+--------------------------------------------------
+
+
+
+*§ 4-01 Automatic Door Operators.* ::
+
+
+All doors for which approved automatic operators which open by swinging inwardly or by sliding are used shall not constitute more than 50 percent of the required exits for any one particular building, and when such a door operator is used, only half the width of that door can be counted towards the total exit space required for a particular building. All such door operators shall meet the following requirements:
+
+(a) They shall be equipped so that in the event of power failure or fire they may be opened manually in the direction of exit travel by not more than a 30 pound force; and,
+
+(b) They may be closed manually when necessary to safeguard a means of egress; and,
+
+(c) Swinging panels shall provide a clear opening width in the 90° open position of not less than 32 inches, with no single leaf less than 24 inches in width; and,
+
+(d) When swinging panels are contained in sliding door units, they shall be operable when the sliding leaf or leaves retract to any point in the opening cycle; and,
+
+(e) They shall meet the requirements of the American National Standard for Power Operated Doors, ANSI A156.10-1979; and
+
+(f) They shall meet the requirements of ANSI/UL 325 (or ANSI/UL 1578 when it is adopted), shall be listed or labeled by a nationally recognized independent testing laboratory, and shall be under an inplant follow-up inspection service. These requirements shall be applicable to all such door operators approved in the past and those which shall be approved in the future, but shall not be applicable to particular installations of approved door operators which were installed before April 15, 1980.
+
+
+
+
+
+
+*§ 4-02 Marking of Transparent Glass Doors and Fixed Adjacent Glass Sidelights.* ::
+
+
+(a) Scope. These rules shall be applicable to all structures or any part thereof excepting one and two family structures.
+
+(b) Definitions.
+
+   Sidelights. Fixed panels of transparent glass which form part of or are immediately adjacent to and within six feet horizontally of the vertical edge of an opening in which transparent glass doors are located. For purposes of this section, a sidelight shall consist of transparent glass in which the transparent area above a reference line 18 inches above the adjacent ground, floor or equivalent surface is 80 percent or more of the remaining area of the panel above such reference line.
+
+   Transparent glass. Material predominantly ceramic in character which is not opaque and through which objects lying beyond are clearly visible. For the purpose of this section, rigid transparent plastic material shall be construed as transparent glass.
+
+   Transparent glass door. A door, manually or power actuated, fabricated of transparent glass, in which the transparent area above a reference line 18 inches above the bottom edge of the door is 80 percent or more of the remaining area of the door above such reference line.
+
+   Transparent safety glazing materials. Materials which will clearly transmit light and also minimize the possibility of cutting or piercing injuries resulting from breakage of the material. Materials covered by this definition include laminated glass, tempered glass (also known as heat-treated glass, heat-toughened glass, case-hardened glass or chemically tempered glass), wired glass, and rigid plastic.
+
+(c) Requirements. 
+
+   (1) Transparent glass doors and fixed adjacent transparent glass sidelights shall be marked in two areas on the glass surface thereof.
+
+   (2) Fixed adjacent transparent glass sidelights 20 inches or less in width with opaque stiles at least one and three-quarters inches in width shall be exempt from the marking requirements.
+
+   (3) Where the ground, floor or equivalent surface area in the path of approach to a fixed adjacent transparent glass sidelight from either side for a minimum distance of three feet from such sidelight is so arranged, constructed or designed as to deter persons from approaching such sidelight or a permanent barrier is installed in the path of approach, the sidelight shall be exempt from this requirement.
+
+   (4) Decorative pools, horticultural planting or similar installations shall be considered as indicating that the ground, floor or equivalent surface area is not a path of approach. Planters, benches and similar barriers which are securely fastened to the floor or wall to prevent their removal shall be considered as blocking the path of approach provided they shall be not less than 18 inches in height from the ground, floor or equivalent surface and extend across at least 2/3 of the total width of the glazed area of the sidelight.
+
+   (5) Fixed adjacent transparent glass sidelights which are supported by opaque sill and wall construction of at least 18 inches above the ground, floor or equivalent surface immediately adjacent shall be exempt from the marking requirements.
+
+   (6) Display windows in any establishment, building or structure which fall within the definition of a sidelight shall be exempt from the marking requirements if the top of the supporting sill and wall construction is not less than 18 inches above the ground, floor or equivalent surface immediately adjacent and the interior area is occupied with merchandise or similar displays to clearly indicate to the public that it is not a means of ingress or egress.
+
+(d) Marking locations. 
+
+   (1) One such area shall be located at least 30 inches but not more than 36 inches and the other at least 60 inches but not more than 66 inches above the ground, floor or equivalent surface below the door or sidelight. The use of horizontal separation bars, muntin bars or equivalent at least one and one-half inches in vertical dimension that extend across the total width of the glazed area and are located at least 40 inches but not more than 50 inches above the bottom of the door or sidelight is permitted in lieu of markings.
+
+   (2) The marking design shall be at least four inches in diameter if circular or four inches in its least dimension if elliptical or polygonal, or shall be at least 12 inches in horizontal dimension if the marking is less than four inches in its least dimension. In no event shall the vertical dimension of any marking including lettering be less than one and one-half inches in height. In addition to horizontal muntin bars, separation bars or equivalent, any of the following methods may be used to alert persons to the presence of transparent glass doors and fixed adjacent transparent glass sidelights in their path of movement:
+
+      (i) Chemical etching
+
+      (ii) Sand blasting
+
+      (iii) Adhesive strips not less than one and one-half inches in vertical dimension extending across at least two-thirds of the total glazed area
+
+      (iv) Decals
+
+      (v) Paint, gilding or other opaque marking materials
+
+      (vi) Opaque door pulls or push bars extending across at least two-thirds of the total width of the glazed area.
+
+(e) Replacement and new installations. 
+
+   (1) Any transparent glazing material used for replacement in existing transparent glass doors after January 1, 1969 shall be transparent safety glazing material. Transparent safety glazing material shall be used in all new transparent glass doors installed after January 1, 1969. The manufacturer's permanent identification mark denoting safety glazing materials shall be visible on the glass after installation of the door.
+
+   (2) Replacement of fixed adjacent transparent glass sidelights after January 1, 1969 shall be of transparent safety glazing material or annealed glass at least one-half inch in thickness. New fixed adjacent transparent glass sidelights installed after January 1, 1969 shall be of transparent safety glazing material or annealed glass at least one-half inch in thickness. The manufacturer's permanent identification mark denoting safety glazing material shall be visible on the glass after installation of the sidelight. Note: If safety glazing material is not immediately available as replacement glass in transparent glass doors and fixed adjacent transparent glass sidelights, temporary relief from the requirements rule may be sought by petitioning the Board of Standards and Appeals of the City of New York for a modification.
 
 
 
@@ -2458,168 +2541,6 @@ TABLE III MAXIMUM SPAN FOR SCAFFOLD PLANK
 
 
 
-Chapter 4: Doors
---------------------------------------------------
-
-
-
-*§ 4-01 Automatic Door Operators.* ::
-
-
-All doors for which approved automatic operators which open by swinging inwardly or by sliding are used shall not constitute more than 50 percent of the required exits for any one particular building, and when such a door operator is used, only half the width of that door can be counted towards the total exit space required for a particular building. All such door operators shall meet the following requirements:
-
-(a) They shall be equipped so that in the event of power failure or fire they may be opened manually in the direction of exit travel by not more than a 30 pound force; and,
-
-(b) They may be closed manually when necessary to safeguard a means of egress; and,
-
-(c) Swinging panels shall provide a clear opening width in the 90° open position of not less than 32 inches, with no single leaf less than 24 inches in width; and,
-
-(d) When swinging panels are contained in sliding door units, they shall be operable when the sliding leaf or leaves retract to any point in the opening cycle; and,
-
-(e) They shall meet the requirements of the American National Standard for Power Operated Doors, ANSI A156.10-1979; and
-
-(f) They shall meet the requirements of ANSI/UL 325 (or ANSI/UL 1578 when it is adopted), shall be listed or labeled by a nationally recognized independent testing laboratory, and shall be under an inplant follow-up inspection service. These requirements shall be applicable to all such door operators approved in the past and those which shall be approved in the future, but shall not be applicable to particular installations of approved door operators which were installed before April 15, 1980.
-
-
-
-
-
-
-*§ 4-02 Marking of Transparent Glass Doors and Fixed Adjacent Glass Sidelights.* ::
-
-
-(a) Scope. These rules shall be applicable to all structures or any part thereof excepting one and two family structures.
-
-(b) Definitions.
-
-   Sidelights. Fixed panels of transparent glass which form part of or are immediately adjacent to and within six feet horizontally of the vertical edge of an opening in which transparent glass doors are located. For purposes of this section, a sidelight shall consist of transparent glass in which the transparent area above a reference line 18 inches above the adjacent ground, floor or equivalent surface is 80 percent or more of the remaining area of the panel above such reference line.
-
-   Transparent glass. Material predominantly ceramic in character which is not opaque and through which objects lying beyond are clearly visible. For the purpose of this section, rigid transparent plastic material shall be construed as transparent glass.
-
-   Transparent glass door. A door, manually or power actuated, fabricated of transparent glass, in which the transparent area above a reference line 18 inches above the bottom edge of the door is 80 percent or more of the remaining area of the door above such reference line.
-
-   Transparent safety glazing materials. Materials which will clearly transmit light and also minimize the possibility of cutting or piercing injuries resulting from breakage of the material. Materials covered by this definition include laminated glass, tempered glass (also known as heat-treated glass, heat-toughened glass, case-hardened glass or chemically tempered glass), wired glass, and rigid plastic.
-
-(c) Requirements. 
-
-   (1) Transparent glass doors and fixed adjacent transparent glass sidelights shall be marked in two areas on the glass surface thereof.
-
-   (2) Fixed adjacent transparent glass sidelights 20 inches or less in width with opaque stiles at least one and three-quarters inches in width shall be exempt from the marking requirements.
-
-   (3) Where the ground, floor or equivalent surface area in the path of approach to a fixed adjacent transparent glass sidelight from either side for a minimum distance of three feet from such sidelight is so arranged, constructed or designed as to deter persons from approaching such sidelight or a permanent barrier is installed in the path of approach, the sidelight shall be exempt from this requirement.
-
-   (4) Decorative pools, horticultural planting or similar installations shall be considered as indicating that the ground, floor or equivalent surface area is not a path of approach. Planters, benches and similar barriers which are securely fastened to the floor or wall to prevent their removal shall be considered as blocking the path of approach provided they shall be not less than 18 inches in height from the ground, floor or equivalent surface and extend across at least 2/3 of the total width of the glazed area of the sidelight.
-
-   (5) Fixed adjacent transparent glass sidelights which are supported by opaque sill and wall construction of at least 18 inches above the ground, floor or equivalent surface immediately adjacent shall be exempt from the marking requirements.
-
-   (6) Display windows in any establishment, building or structure which fall within the definition of a sidelight shall be exempt from the marking requirements if the top of the supporting sill and wall construction is not less than 18 inches above the ground, floor or equivalent surface immediately adjacent and the interior area is occupied with merchandise or similar displays to clearly indicate to the public that it is not a means of ingress or egress.
-
-(d) Marking locations. 
-
-   (1) One such area shall be located at least 30 inches but not more than 36 inches and the other at least 60 inches but not more than 66 inches above the ground, floor or equivalent surface below the door or sidelight. The use of horizontal separation bars, muntin bars or equivalent at least one and one-half inches in vertical dimension that extend across the total width of the glazed area and are located at least 40 inches but not more than 50 inches above the bottom of the door or sidelight is permitted in lieu of markings.
-
-   (2) The marking design shall be at least four inches in diameter if circular or four inches in its least dimension if elliptical or polygonal, or shall be at least 12 inches in horizontal dimension if the marking is less than four inches in its least dimension. In no event shall the vertical dimension of any marking including lettering be less than one and one-half inches in height. In addition to horizontal muntin bars, separation bars or equivalent, any of the following methods may be used to alert persons to the presence of transparent glass doors and fixed adjacent transparent glass sidelights in their path of movement:
-
-      (i) Chemical etching
-
-      (ii) Sand blasting
-
-      (iii) Adhesive strips not less than one and one-half inches in vertical dimension extending across at least two-thirds of the total glazed area
-
-      (iv) Decals
-
-      (v) Paint, gilding or other opaque marking materials
-
-      (vi) Opaque door pulls or push bars extending across at least two-thirds of the total width of the glazed area.
-
-(e) Replacement and new installations. 
-
-   (1) Any transparent glazing material used for replacement in existing transparent glass doors after January 1, 1969 shall be transparent safety glazing material. Transparent safety glazing material shall be used in all new transparent glass doors installed after January 1, 1969. The manufacturer's permanent identification mark denoting safety glazing materials shall be visible on the glass after installation of the door.
-
-   (2) Replacement of fixed adjacent transparent glass sidelights after January 1, 1969 shall be of transparent safety glazing material or annealed glass at least one-half inch in thickness. New fixed adjacent transparent glass sidelights installed after January 1, 1969 shall be of transparent safety glazing material or annealed glass at least one-half inch in thickness. The manufacturer's permanent identification mark denoting safety glazing material shall be visible on the glass after installation of the sidelight. Note: If safety glazing material is not immediately available as replacement glass in transparent glass doors and fixed adjacent transparent glass sidelights, temporary relief from the requirements rule may be sought by petitioning the Board of Standards and Appeals of the City of New York for a modification.
-
-
-
-
-Chapter 6: Elevators
---------------------------------------------------
-
-
-
-*§ 6-01 Elevator Readiness and Operator Availability to Assist in Fire Department Access During Hours When the Building is Normally Closed.* ::
-
-
-In a building over 150 feet in height protected throughout with an approved sprinkler system having connection to Fire Headquarters through an approved Central Station, there may be, in substitution for the requirements of Administrative Code §§ 27-989 and 27-4270, a service maintained by a responsible company, organization or agency hereinafter referred to as Agency, which shall maintain one or more offices, as hereinafter provided, for the purpose of providing elevator-in-readiness service located in the vicinity to assure prompt service as hereinafter required to the satisfaction of the Fire Commissioner. The number and location of Agency offices shall be determined by the number and location of buildings being serviced within the area of this section in Manhattan. The area in Manhattan in which owners of buildings may apply for a variance under the terms of this section is limited to 23rd Street on the south, 42nd Street on the north, Third Avenue on the east, and Tenth Avenue on the west. This area is divided, for the purposes of Fire Department response evaluations into a North and South Zone along 34th Street from Third Avenue to Tenth Avenue. A minimum of two offices shall be required for any Agency serving buildings within both the North and South Zones. Such agencies serving buildings in the North and South Zones shall establish a minimum of one office in each Zone, located to the satisfaction of the Fire Commissioner. Every application for a variance under this section shall be evaluated by the Fire Commissioner for acceptable response times by the agency providing service and he shall report his findings to the Board. In such offices there shall be private direct lines connected to all approved central stations and the Agency shall contract with all approved central stations to the end that such stations shall notify the Agency immediately via the above-required telephone of any alarm shown on their board indicating sprinkler action during the hours when the building is normally not open and elevators not manned. The Agency shall provide two elevator operators in each office on each shift who shall have no duties other than the elevator-in-readiness service.
-
-Said employees will work the following hours:
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - Monday
-      -  – 10:00 P.M.
-      -  – 7:00 A.M.
-    * - Tuesday
-      -  – 10:00 P.M.
-      -  – 7:00 A.M.
-    * - Wednesday
-      -  – 10:00 P.M.
-      -  – 7:00 A.M.
-    * - Thursday
-      -  – 10:00 P.M.
-      -  – 7:00 A.M.
-    * - Friday
-      -  – 10:00 P.M.
-      -  – 7:00 A.M.
-    * - Saturday
-      -  –   8:00 P.M.
-      - to Monday 7:00 A.M.
-    * - Holidays
-      -  –   8:00 P.M.
-      - on holiday eve to
-    * -  
-      -  –   7:00 A.M.
-      - on day after holiday
-~
-
- 
-
-The foregoing schedule calls for a total of 160 hours a week. The elevator operators shall be available to respond immediately upon receipt of an alarm. The Agency shall submit an affidavit to the Fire Commissioner listing the name of any employee designated as an elevator-in-readiness operator and attesting that said employee:
-
-(a) Has been properly trained as an elevator-in-readiness operator, has working knowledge in the emergency use of elevators and meets the requirements of § 27-1005 of the Administrative Code.
-
-(b) Can speak and understand the English language.
-
-(c) Has knowledge of response routes to buildings serviced by the Agency.
-
-(d) Is familiar with each premises to which they respond.
-
-(e) Is knowledgeable in the use of the mobile radio.
-
-When the Agency receives a telephone notice of alarm from a central station, it shall immediately dispatch a qualified elevator operator with keys to the building and to the elevator who shall open the building and place the elevator in operating condition and assist the Fire Department in gaining access to any portion of the building. Such elevator operator shall have for his use a motor vehicle furnished by such Agency kept in a building or open lot or street within 100 feet of the office of the Agency. Such motor vehicle shall be one of two maintained by the Agency at each office exclusively for responding to alarms and shall be equipped with mobile radios capable of receiving and transmitting with their office. In the office of the Agency at least two elevator operators shall be available to respond to alarms. There shall be a key board in each office with keys to the entrance door and elevator kept properly tagged for all buildings being served by the Agency.
-
-In the event there are several elevators in a building, the owner shall specify, subject to the approval of the Fire Department and the Board, which elevator or elevators, not exceeding two, shall be available under this service and such available elevator or elevators shall be parked at the first floor. Hoistway doors leading thereto shall be equipped with a parking lock or other device satisfactory to the Department of Buildings, so arranged as to prevent the opening of the doors from the landing side with the service key unless the car is at the landing and such key shall open no other door. A duplicate of such parking lock key shall be maintained in a break glass box in the lobby adjacent to such available elevators.
-
-Power for available elevators shall be on at all times, controlled by a switch in the car and there shall be installed at the main power switch in the main panel board, or in the motor room, a disconnecting switch so arranged that the switch can be readily disconnected for service, repair and inspection, and in any emergency. To accomplish this, a standard approved type cabinet switch shall be used and the cabinet and projecting handle for the manual application of the switch shall be locked in a closed position with a key to the lock contained in a break-glass box located adjacent to the switch with a sign conspicuously displayed on the switch cabinet cover that such switch is locked in a closed position in accordance with this section and that the key located in the adjacent break-glass box may be used to obtain access to such switch for repair, service and inspection purposes only or in the event of emergency.
-
-Each building subject to the provisions of this section shall be inspected by the Agency at least twice each week and records kept of such inspections; and that at such inspections the elevator doors, keys and other equipment pertaining to the operation of the service shall be examined to maintain safe conditions. In order to insure familiarity with, and knowledge of each building, these inspections shall be the responsibility of, and shall be carried out by those employees who have been designated as qualified elevator operators whose duties are responding to alarms in accordance with this section. The inspections shall be conducted after the normal business hours of the building.
-
-The Agency shall keep such records and forward reports of its service as the Fire Commissioner shall require.
-
-In the event an Agency providing the response service is to be changed, the request for change shall be in the form of an application to the Board of Standards and Appeals to amend a previous resolution relating to the specific building where a change in the agency providing the response service is to take place.
-
-A copy of the application to amend shall be submitted to the Fire Department at the time of filing with the Board.
-
-The terms of this section shall be applied only upon the filing of an appeal by an owner of a building of the type and within the area described, for a variance based on a decision of the Fire Commissioner and favorable action taken by the Board.
-
-In the event the owner of a premises which is subject to a variance conditioned upon the terms of this section discontinues the service with the Agency, the Agency shall immediately notify the Fire Commissioner in writing. The term of variance granted hereunder shall not exceed ten (10) years from the date of the variance. During such term, the Board reserves the right to amend the requirements.
-
-
-
-
 Chapter 5: Dry Cleaning Establishments
 --------------------------------------------------
 
@@ -3035,6 +2956,85 @@ In connection with Article II, § 4, Subsection 53, Subdivision (a) of the Zonin
 (k) Penalties. Any violation of these rules shall be subject to the penalties prescribed in the Zoning Resolution therefor, in addition to other penalties prescribed by law.
 
 (l) Severability. If any term, part or provision of any of the aforesaid rules shall be held unconstitutional or ineffective in whole or in part, such determination shall not be deemed to invalidate the remaining terms, parts or provisions of these rules.
+
+
+
+
+Chapter 6: Elevators
+--------------------------------------------------
+
+
+
+*§ 6-01 Elevator Readiness and Operator Availability to Assist in Fire Department Access During Hours When the Building is Normally Closed.* ::
+
+
+In a building over 150 feet in height protected throughout with an approved sprinkler system having connection to Fire Headquarters through an approved Central Station, there may be, in substitution for the requirements of Administrative Code §§ 27-989 and 27-4270, a service maintained by a responsible company, organization or agency hereinafter referred to as Agency, which shall maintain one or more offices, as hereinafter provided, for the purpose of providing elevator-in-readiness service located in the vicinity to assure prompt service as hereinafter required to the satisfaction of the Fire Commissioner. The number and location of Agency offices shall be determined by the number and location of buildings being serviced within the area of this section in Manhattan. The area in Manhattan in which owners of buildings may apply for a variance under the terms of this section is limited to 23rd Street on the south, 42nd Street on the north, Third Avenue on the east, and Tenth Avenue on the west. This area is divided, for the purposes of Fire Department response evaluations into a North and South Zone along 34th Street from Third Avenue to Tenth Avenue. A minimum of two offices shall be required for any Agency serving buildings within both the North and South Zones. Such agencies serving buildings in the North and South Zones shall establish a minimum of one office in each Zone, located to the satisfaction of the Fire Commissioner. Every application for a variance under this section shall be evaluated by the Fire Commissioner for acceptable response times by the agency providing service and he shall report his findings to the Board. In such offices there shall be private direct lines connected to all approved central stations and the Agency shall contract with all approved central stations to the end that such stations shall notify the Agency immediately via the above-required telephone of any alarm shown on their board indicating sprinkler action during the hours when the building is normally not open and elevators not manned. The Agency shall provide two elevator operators in each office on each shift who shall have no duties other than the elevator-in-readiness service.
+
+Said employees will work the following hours:
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - Monday
+      -  – 10:00 P.M.
+      -  – 7:00 A.M.
+    * - Tuesday
+      -  – 10:00 P.M.
+      -  – 7:00 A.M.
+    * - Wednesday
+      -  – 10:00 P.M.
+      -  – 7:00 A.M.
+    * - Thursday
+      -  – 10:00 P.M.
+      -  – 7:00 A.M.
+    * - Friday
+      -  – 10:00 P.M.
+      -  – 7:00 A.M.
+    * - Saturday
+      -  –   8:00 P.M.
+      - to Monday 7:00 A.M.
+    * - Holidays
+      -  –   8:00 P.M.
+      - on holiday eve to
+    * -  
+      -  –   7:00 A.M.
+      - on day after holiday
+~
+
+ 
+
+The foregoing schedule calls for a total of 160 hours a week. The elevator operators shall be available to respond immediately upon receipt of an alarm. The Agency shall submit an affidavit to the Fire Commissioner listing the name of any employee designated as an elevator-in-readiness operator and attesting that said employee:
+
+(a) Has been properly trained as an elevator-in-readiness operator, has working knowledge in the emergency use of elevators and meets the requirements of § 27-1005 of the Administrative Code.
+
+(b) Can speak and understand the English language.
+
+(c) Has knowledge of response routes to buildings serviced by the Agency.
+
+(d) Is familiar with each premises to which they respond.
+
+(e) Is knowledgeable in the use of the mobile radio.
+
+When the Agency receives a telephone notice of alarm from a central station, it shall immediately dispatch a qualified elevator operator with keys to the building and to the elevator who shall open the building and place the elevator in operating condition and assist the Fire Department in gaining access to any portion of the building. Such elevator operator shall have for his use a motor vehicle furnished by such Agency kept in a building or open lot or street within 100 feet of the office of the Agency. Such motor vehicle shall be one of two maintained by the Agency at each office exclusively for responding to alarms and shall be equipped with mobile radios capable of receiving and transmitting with their office. In the office of the Agency at least two elevator operators shall be available to respond to alarms. There shall be a key board in each office with keys to the entrance door and elevator kept properly tagged for all buildings being served by the Agency.
+
+In the event there are several elevators in a building, the owner shall specify, subject to the approval of the Fire Department and the Board, which elevator or elevators, not exceeding two, shall be available under this service and such available elevator or elevators shall be parked at the first floor. Hoistway doors leading thereto shall be equipped with a parking lock or other device satisfactory to the Department of Buildings, so arranged as to prevent the opening of the doors from the landing side with the service key unless the car is at the landing and such key shall open no other door. A duplicate of such parking lock key shall be maintained in a break glass box in the lobby adjacent to such available elevators.
+
+Power for available elevators shall be on at all times, controlled by a switch in the car and there shall be installed at the main power switch in the main panel board, or in the motor room, a disconnecting switch so arranged that the switch can be readily disconnected for service, repair and inspection, and in any emergency. To accomplish this, a standard approved type cabinet switch shall be used and the cabinet and projecting handle for the manual application of the switch shall be locked in a closed position with a key to the lock contained in a break-glass box located adjacent to the switch with a sign conspicuously displayed on the switch cabinet cover that such switch is locked in a closed position in accordance with this section and that the key located in the adjacent break-glass box may be used to obtain access to such switch for repair, service and inspection purposes only or in the event of emergency.
+
+Each building subject to the provisions of this section shall be inspected by the Agency at least twice each week and records kept of such inspections; and that at such inspections the elevator doors, keys and other equipment pertaining to the operation of the service shall be examined to maintain safe conditions. In order to insure familiarity with, and knowledge of each building, these inspections shall be the responsibility of, and shall be carried out by those employees who have been designated as qualified elevator operators whose duties are responding to alarms in accordance with this section. The inspections shall be conducted after the normal business hours of the building.
+
+The Agency shall keep such records and forward reports of its service as the Fire Commissioner shall require.
+
+In the event an Agency providing the response service is to be changed, the request for change shall be in the form of an application to the Board of Standards and Appeals to amend a previous resolution relating to the specific building where a change in the agency providing the response service is to take place.
+
+A copy of the application to amend shall be submitted to the Fire Department at the time of filing with the Board.
+
+The terms of this section shall be applied only upon the filing of an appeal by an owner of a building of the type and within the area described, for a variance based on a decision of the Fire Commissioner and favorable action taken by the Board.
+
+In the event the owner of a premises which is subject to a variance conditioned upon the terms of this section discontinues the service with the Agency, the Agency shall immediately notify the Fire Commissioner in writing. The term of variance granted hereunder shall not exceed ten (10) years from the date of the variance. During such term, the Board reserves the right to amend the requirements.
 
 
 
@@ -4918,7 +4918,7 @@ Chapter 16: Oil Burning Equipment
 
       (ii) The minimum thickness of shell or bottom plates shall be 1/4 inch and the minimum thickness of roof plates 1/8 inch. The thickness of shell plates shall be figured in accordance with the following formula:
 
-         t  =   P × r × F         T × E 
+         t =   P × r × F         T × E 
 
          P equals head pressure at bottom of ring under consideration.
 

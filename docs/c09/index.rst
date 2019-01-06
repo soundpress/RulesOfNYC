@@ -2556,7 +2556,7 @@ Example 2: A banking corporation incorporated outside the United States has been
 
 The short period entire net income allocation percentage 66% (330%/5)
 
-The taxpayer's prorated entire net income computed pursuant to 19 RCNY § 3-03(b)(7)  is $45,000 computed as follows:
+The taxpayer's prorated entire net income computed pursuant to 19 RCNY § 3-03(b)(7) is $45,000 computed as follows:
 
 $60,000/12 (months) = $5,000$5,000 × 9 (months) = $45,000
 
@@ -14932,7 +14932,7 @@ Example: A taxpayer has no employees either within or without the City. The payr
 
       (ii) In the event that any of the percentages to be determined under subparagraphs (i), (iii) or (iii) of paragraph (1) of this subdivision (d) cannot be determined because the taxpayer has either no property, no payroll or no gross income from sales or services within or without the City, then the computation to be made under subdivision (i) of § 11-508 of the Administrative Code  shall be made by taking the sum of the products that are determined under such subdivision (i) for the factors that are present, and dividing that sum by the sum of the weight factors that apply to each of the present factors in the calculation made under such subdivision (i). This amount is then rounded to four decimal places. (An allocation factor is not missing merely because its numerator is zero, but it is missing if both its numerator and its denominator are zero).
 
-      (iii) Weight factor defined. For purposes of subparagraph (ii) of this paragraph, "weight factor" is the percentage used in the allocation computation in subdivision (i) of § 11-508 of the Administrative Code, by which the percentage derived from paragraph (1) of this subdivision is multiplied in such allocation computation. For example, in subparagraph (A) of paragraph (1) of subdivision (i) of § 11-508 of the Administrative Code, the weight factor is 30%; in subparagraph (A) of paragraph (9) of subdivision (i) of § 11-508 of the Administrative Code, the weight factor is  1/2%.
+      (iii) Weight factor defined. For purposes of subparagraph (ii) of this paragraph, "weight factor" is the percentage used in the allocation computation in subdivision (i) of § 11-508 of the Administrative Code, by which the percentage derived from paragraph (1) of this subdivision is multiplied in such allocation computation. For example, in subparagraph (A) of paragraph (1) of subdivision (i) of § 11-508 of the Administrative Code, the weight factor is 30%; in subparagraph (A) of paragraph (9) of subdivision (i) of § 11-508 of the Administrative Code, the weight factor is 1/2%.
 
       (iv) Example: For the tax year 2009, a taxpayer has no employees either within or without the City. The property factor percentage determined under (d)(1)(i) of this section is 10%, and the gross income factor percentage determined under (d)(1)(iii) of this section is 25%. As the payroll factor is missing, the allocation percentage may be computed by taking the sum of
 
