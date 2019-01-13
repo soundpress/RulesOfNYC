@@ -181,103 +181,7 @@ Dispatch is a request made from a Base Station to a Driver, directing the Driver
 
 Dispatch Equipment. The “Dispatch Equipment” is the communications equipment provided by the Accessible Taxi Dispatcher or an acceptable interface with the Taxicab Technology System and the Street Hail Livery Technology System, that allows Approved Drivers operating Accessible Vehicles to receive dispatches from the Accessible Taxi Dispatcher.
 
-Dispatch Fee is the fee payable to the Driver of an Accessible Taxicab for completing a trip dispatched by the Accessible Taxi Dispatcher.
-
-The Dispatch Fee is based on the distance travelled by the Driver between acceptance of the trip dispatch and arrival at the Passenger pickup location. The Dispatch Fee will compensate the Driver for the distance travelled to the Passenger location, as well as time spent waiting for and assisting the Passenger into and out of the vehicle, assumed to be an average of ten minutes, paid at the existing Rates of Fare for time.
-
-Any tolls incurred by the driver in traveling to the pickup location will be added to the Dispatch Fee, at EZ-Pass rates and following the routing provided by the Accessible Taxi Dispatcher. The Dispatch Fee will be calculated based on the location of Passenger pickup, following the schedules below:
-
-For trips with a Passenger pickup location in Manhattan: 
-										
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - Maximum Distance (miles)
-      - Dispatch Fee
-~
-
-
-
-
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - Up to 0.5
-      - $10.00
-    * - 0.5 – 1
-      - $15.00
-    * - 1 - 1.5
-      - $20.00
-    * - 1.5 – 2
-      - $25.00
-    * - More than 2
-      - $30.00
-    * - Passenger No-Show
-      - Fee above plus $5.00
-    * - Cancellation Fee
-      - Fee above minus $5.00
-    * - Necessary Tolls
-      - Added to fee above at EZ-Pass rate
-~
-
- 
-
-For trips with a Passenger pickup location outside of Manhattan: 
-										
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - Maximum Distance (miles)
-      - Dispatch Fee
-~
-
-
-
-
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - Up to 0.5
-      - $6.00
-    * - 0.5 – 1
-      - $10.00
-    * - 1 – 2
-      - $12.50
-    * - 2 – 3
-      - $15.00
-    * - 3 – 5
-      - $20.00
-    * - More than 5
-      - $25.00
-    * - Passenger No-Show
-      - Fee above plus $5.00
-    * - Cancellation Fee
-      - Fee above minus $5.00
-    * - Necessary Tolls
-      - Added to fee above at EZ-Pass rate
-~
-
- 
-
-The $5 Passenger No-Show Fee applies if the Passenger does not appear at the pickup location within ten minutes of driver’s arrival for on-demand trips or within ten minutes of the scheduled pickup time for reservation trips.
-
-The Cancellation Fee applies if the Passenger cancels the trip after the Driver has traveled more than 0.5 miles to the Passenger pickup location following acceptance of the trip. The Cancellation Fee will be calculated by subtracting $5.00 from the appropriate Dispatch Fee for the distance traveled by the Driver at the time of cancellation.
-
-Example: The Driver of a Taxi making a trip of more than 2 miles to pick up a Passenger and the Passenger cancels the trip after the Driver has traveled at least half a mile will receive a net Dispatch Fee of $25.00 ($30.00 less the $5.00 Cancellation Fee).
-
-A Driver will not be entitled to collect more than two combined Cancellation and No-Show Fees in any Monday through Sunday weekly period.
+Dispatch Fee is the fee payable to the Driver of an Accessible Taxicab, according to the Dispatch Fee schedule, for completing or attempting to complete a trip dispatched by the Accessible Taxi Dispatcher. The Dispatch Fee schedule, including cancellation fees and passenger no-show fees, will be determined by the Commission, and posted on the Commission's website, every six months based on a review of available funds and the Accessible Taxi Dispatcher's service rates.
 
 Dispatch Service is dispatching, reserving, or referring trips to Drivers on behalf of TLC-licensed Bases through a publicly available, Passenger-facing booking tool. Dispatch Service does not include a Base dispatching through a Passenger-facing booking tool that uses the same public-facing name in its branding, operations, promotions, or advertisements as the trade, business, or operating name the Base has on file with the TLC. Dispatch Service does not include a Base dispatching or managing its fleet under the trade, business, or operating name the Base has on file with the TLC using commercial dispatching software.
 
@@ -443,6 +347,8 @@ Hearing Induction Loop is a device that transmits sound directly to hearing aids
 
 Hearing Officer is a person designated by the Chief Administrative Law Judge of OATH, or his or her designee, to carry out the adjudicatory powers, duties and responsibilities of the Taxi and Limousine Tribunal.
 
+High-Volume For-Hire Service is a Commission-licensed business that facilitates or otherwise connects passengers to for-hire vehicles by prearrangement, including through one or more licensed For-Hire Vehicle Bases, using a passenger-facing booking tool, and that dispatches or facilitates the dispatching of ten-thousand (10,000) or more trips in the City per day. Any and all bases using a common brand, trade, business or operating name will be considered together for purposes of identifying a High-Volume For-Hire Service.
+
 Hybrid Electric Vehicle is a commercially available, mass-produced vehicle originally equipped by the manufacturer with a combustion engine system and an electric propulsion system that operate in an integrated manner.
 
 Independent Base Station is a Livery Base Station that is designated as an independent livery base under § 18-c of the NYS Workers' Compensation Law because it has joined the Livery Fund.
@@ -450,6 +356,8 @@ Independent Base Station is a Livery Base Station that is designated as an indep
 Independent Livery Driver is the Driver of a Livery which is affiliated with an Independent Base Station.
 
 Independent Medallion is a class of Medallion Taxicab License, the owner of which may only own one Medallion.
+
+Initial High-Volume For-Hire Service Issuance Period is the three month period beginning on a date posted on the Commission’s website during which a Base, or collection of Bases operating under the same brand, trade, business, or operating name, that connects passengers to For-Hire Vehicles by prearrangement and dispatches or facilitates the dispatching of ten thousand or more trips in the City per day using a passenger-facing booking tool must apply for a High-Volume For-Hire Service License under Subchapter 59D of 35 RCNY Chapter 59 or be listed as a Base through which a High-Volume For-Hire Service dispatches trips on an application for a High-Volume For-Hire Service License.
 
 Initial Street Hail Livery Base Issuance Period. The Initial Street Hail Livery Base Issuance Period will be the one month period beginning on a date posted on the Commission's Web site during which Street Hail Livery Base Licenses will be issued.
 
@@ -571,7 +479,9 @@ Paratransit Disability is a physical or mental impairment, including a mobility 
 
 Paratransit Vehicle (also know as a wheelchair accessible van) is any motor vehicle, equipped with a hydraulic lift or ramp(s) designed for the purpose of transporting persons who use wheelchairs or containing any other physical devices designed to permit access to and the transportation of a person with a Paratransit Disability
 
-Passenger means a person riding in a Vehicle, other than the Driver
+Passenger means a person riding in a Vehicle, other than the Driver.
+
+Passenger-Facing Booking Tool is an application on a smartphone or other electronic device that allows communication between a Passenger and a For-Hire Base or High-Volume For-Hire Service. Such communication includes but is not limited to allowing a Passenger to request, book, or pay for a trip.
 
 Passenger Manifest is the document on which a Commuter-Van Driver enters the name of each passenger to be picked up.
 
@@ -1325,99 +1235,7 @@ Chapter 53: Accessible Taxicabs and Accessible Street Hail Vehicles
 
 (d) Dispatch Equipment. The “Dispatch Equipment” is the communications equipment provided by the Accessible Taxi Dispatcher or an acceptable interface with the Technology System that allows Approved Drivers operating Accessible Vehicles to receive dispatches from the Accessible Taxi Dispatcher.
 
-(e) Dispatch Fee. The “Dispatch Fee” is the fee payable to the Driver of an Accessible Vehicle for completing a trip dispatched by the Accessible Taxi Dispatcher. The Dispatch Fee is based on the distance travelled by the Driver between acceptance of the trip dispatch and arrival at the Passenger pickup location. The Dispatch Fee will compensate the Driver for the distance travelled to the Passenger location, as well as time spent waiting for and assisting the Passenger into and out of the vehicle, assumed to be an average of ten minutes, paid at the existing Rates of Fare for time.
-
-Any tolls incurred by the driver in traveling to the pickup location will be added to the Dispatch Fee, at EZ-Pass rates and following the routing provided by the Accessible Taxi Dispatcher. The Dispatch Fee will be calculated based on the location of Passenger pickup, following the schedules below:
-
-For trips with a Passenger pickup location in Manhattan: 
-									
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - Maximum Distance (miles)
-      - Dispatch Fee
-~
-
-
-
-
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - Up to 0.5
-      - $10.00
-    * - 0.5 – 1
-      - $15.00
-    * - 1 - 1.5
-      - $20.00
-    * - 1.5 – 2
-      - $25.00
-    * - More than 2
-      - $30.00
-    * - Passenger No-Show
-      - Fee above plus $5.00
-    * - Cancellation Fee
-      - Fee above minus $5.00
-    * - Necessary Tolls
-      - Added to fee above at EZ-Pass rate
-~
-
- 
-
-For trips with a Passenger pickup location outside of Manhattan: 
-									
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - Maximum Distance (miles)
-      - Dispatch Fee
-~
-
-
-
-
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - Up to 0.5
-      - $6.00
-    * - 0.5 – 1
-      - $10.00
-    * - 1 – 2
-      - $12.50
-    * - 2 – 3
-      - $15.00
-    * - 3 – 5
-      - $20.00
-    * - More than 5
-      - $25.00
-    * - Passenger No-Show
-      - Fee above plus $5.00
-    * - Cancellation Fee
-      - Fee above minus $5.00
-    * - Necessary Tolls
-      - Added to fee above at EZ-Pass rate
-~
-
- 
-
-The $5 Passenger No-Show Fee applies if the Passenger does not appear at the pickup location within ten minutes of driver’s arrival for on-demand trips or within ten minutes of the scheduled pickup time for reservation trips.
-
-The Cancellation Fee applies if the Passenger cancels the trip after the Driver has traveled more than 0.5 miles to the Passenger pickup location following acceptance of the trip. The Cancellation Fee will be calculated by subtracting $5.00 from the appropriate Dispatch Fee for the distance traveled by the Driver at the time of cancellation.
-
-A Driver will not be entitled to collect more than two combined Cancellation and No-Show Fees in any Monday through Sunday weekly period.
+(e) Dispatch Fee. The “Dispatch Fee” is the fee payable to the Driver of an Accessible Vehicle, according to the Dispatch Fee schedule, for completing or attempting to complete a trip dispatched by the Accessible Taxi Dispatcher. The Dispatch Fee schedule, including cancellation fees and passenger no-show fees, will be determined by the Commission, and posted on the Commission’s website, every six months based on a review of available funds and the Accessible Taxi Dispatcher’s service rates.
 
 (f) Owner. In this chapter, the Owner refers to the owner of a Medallion Taxicab or Street Hail Livery, including a Taxicab required to be hacked up with a vehicle that qualifies as an Accessible Vehicle.
 
@@ -5929,12382 +5747,6 @@ Chapter 57: Commuter Van Drivers
 
 
 
-Chapter 58: Medallion Taxicab Service
---------------------------------------------------
-
-
-
-*§ 58-01 Scope of this Chapter.* ::
-
-
-(a) To establish the procedures and requirements for obtaining a Taxicab License.
-
-(b) To establish the rules and regulations for operating a Taxicab.
-
-(c) To establish the penalties for violating the Rules.
-
-
-
-
-
-
-*§ 58-02 Penalties.* ::
-
-
-(a) Unlicensed Activity.
-
-   (1) Unlicensed Activity is the act of providing or advertising the provision of any Commission-regulated for hire transportation service by:
-
-      (i) Any Licensee whose License is suspended, revoked, or expired and not yet renewed, or
-
-      (ii) Any person who does not hold a Valid License or Authorization from the Commission as a for hire driver, for the for hire vehicle, or for the for hire service, as applicable.
-
-   (2) Unlicensed Activity specifically includes the activities listed in § 19-506 and § 19-528 of the Administrative Code, and can subject the violator to the seizure and possible forfeiture of the vehicle involved.
-
-(b) Specific Penalties. If there are specific penalties for violating a Rule, they are shown at the end of the Rule. The penalty section also states whether the violator must attend the Hearing.
-
-(c) Payment of Fines.
-
-   (1) Fines are due not later than 30 days after the Respondent is found guilty of or pleads guilty to the violation, unless:
-
-      (i) the Respondent files an appeal of the decision issued by the Taxi and Limousine Tribunal within the time required by 48 RCNY Chapter 5 of the Rules of the City of New York, in which case the payment of the fines will be deferred until 30 days after the date of the appeal decision.
-
-   (2) If the fine is not paid by the close of business on the date due, the Commission will notify the Respondent in writing that the Respondent's License will be suspended in 10 business days of the date of the notification until the fine is paid, unless the Respondent demonstrates to the Commission, in person or in writing, that the fine has been paid.
-
-
-
-
-
-
-*§ 58-03 Definitions Specific to this Chapter.* ::
-
-
-(a) Accessible Conversion Start Date is the date which is the earlier of (1) the date on which there is available an Accessible Taxicab Model that meets the specifications of 35 RCNY § 67-05.2 and the requirements of § 19-533 of the Administrative Code, as certified by the Chairperson, or (2) January 1, 2016. To the extent possible, the Chairperson will place a notice of the Accessible Conversion Start Date on the Commission's Website at least 60 days prior to the Accessible Conversion Start Date.
-
-(b) Accessible Taxi Dispatcher. The Accessible Taxi Dispatcher is the entity which, under contract with the Commission, will convey dispatches, or requests for accessible service to Drivers of Accessible Taxicabs and to Drivers of Accessible Street Hail Liveries to provide transportation for a Passenger or group of Passengers, at least one of whom must be mobility-impaired, for trips that originate in New York City.
-
-(c) Administrator for the purposes of this Chapter, will refer to an executor, administrator, conservator, guardian or any other person or entity legally appointed to act on behalf of an Owner of a Taxicab Medallion due to owner's death or incompetency.
-
-(d) Applicant in this chapter means the individual or Business Entity applying for an original or renewal Taxicab License under this Chapter in whose name the License applied for will be issued.
-
-(e) Business Entity in this Chapter includes corporations, partnerships and limited liability companies.
-
-(f) Claim Letter is a letter asserting a possible Excess Claim against an Owner of a Taxicab Medallion or a Taxicab Medallion.
-
-(g) Dispatch. When used in this Chapter, the term Dispatch refers to an Owner sending out one or more Taxicabs for a particular shift; it does NOT mean sending a Taxicab to pick up a particular passenger by pre-arrangement.
-
-(h) Dispatch Fee is the fee payable to the Driver of an Accessible Taxicab for completing a trip dispatched by the Accessible Taxi Dispatcher.
-
-The Dispatch Fee is based on the distance travelled by the Driver between acceptance of the trip dispatch and arrival at the Passenger pickup location. The Dispatch Fee will compensate the Driver for the distance travelled to the Passenger location, as well as time spent waiting for and assisting the Passenger into and out of the vehicle, assumed to be an average of ten minutes, paid at the existing Rates of Fare for time.
-
-Any tolls incurred by the driver in traveling to the pickup location will be added to the Dispatch Fee, at EZ-Pass rates and following the routing provided by the Accessible Taxi Dispatcher. The Dispatch Fee will be calculated based on the location of Passenger pickup, following the schedules below:
-
-For trips with a Passenger pickup location in Manhattan: 
-									
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - Maximum Distance (miles)
-      - Dispatch Fee
-~
-
-
-
-
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - Up to 0.5
-      - $10.00
-    * - 0.5 - 1
-      - $15.00
-    * - 1 - 1.5
-      - $20.00
-    * - 1.5 - 2
-      - $25.00
-    * - More than 2
-      - $30.00
-    * - Passenger No-Show
-      - Fee above plus $5.00
-    * - Cancellation Fee
-      - Fee above minus $5.00
-    * - Necessary Tolls
-      - Added to fee above at EZ-Pass rate
-~
-
- 
-
-For trips with a Passenger pickup location outside of Manhattan: 
-									
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - Maximum Distance (miles)
-      - Dispatch Fee
-~
-
-
-
-
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - Up to 0.5
-      - $6.00
-    * - 0.5 - 1
-      - $10.00
-    * - 1 - 1.5
-      - $12.50
-    * - 1.5 - 2
-      - $25.00
-    * - 2 - 3
-      - $15.00
-    * - 3 - 5
-      - $20.00
-    * - More than 5
-      - $25.00
-    * - Passenger No-Show
-      - Fee above plus $5.00
-    * - Cancellation Fee
-      - Fee above minus $5.00
-    * - Necessary Tolls
-      - Added to fee above at EZ-Pass rate
-~
-
- 
-
-The $5.00 Passenger No-Show Fee applies if the Passenger does not appear at the pickup location within ten minutes of driver’s arrival for on-demand trips or within ten minutes of the scheduled pickup time for reservation trips.
-
-The Cancellation Fee applies if the Passenger cancels the trip after the Driver has traveled more than 0.5 miles to the Passenger pickup location following acceptance of the trip. The Cancellation Fee will be calculated by subtracting $5.00 from the appropriate Dispatch Fee for the distance traveled by the Driver at the time of cancellation.
-
-Example: The Driver of a Taxi making a trip of more than 2 miles to pick up a Passenger and the Passenger cancels the trip after the Driver has traveled at least half a mile will receive a net Dispatch Fee of $25.00 ($30.00 less the $5.00 Cancellation Fee).
-
-A Driver will not be entitled to collect more than two combined Cancellation and No-Show Fees in any Monday through Sunday weekly period.
-
-(i) Driver in this Chapter means a Taxicab Driver.
-
-(j) Escrow Amount is the amount for which an escrow account is required to be established in order to satisfy one or more Excess Claims.
-
-(k) Excess Claim is a Tort Claim asserted against the Owner of a Taxicab Medallion for more than the amount of insurance covering the Taxicab at the time the claim arose.
-
-(l) Fair Market Value in reference to the transfer of a Taxicab Medallion is the average value of arms-length transactions for similar Medallions during the prior calendar month, as determined by the Commission.
-
-(m) Flat Rate is a definite dollar amount that will be charged to a Taxicab passenger for a specific trip, and is fixed before the trip begins (NOTE: "double the Taximeter" is not a Flat Rate).
-
-(n) Fleet is a Business Entity organized for the purpose of owning or operating Taxicabs that meets the following requirements:
-
-   (1) Controls a minimum of 25 Taxicabs
-
-   (2) has a single business location that is adequate for the storage, maintenance, repair and dispatch of the Fleet Taxicabs and the storage and maintenance of records
-
-   (3) operates with a dispatcher on the premises at least 18 hours every day, who assigns Drivers to Fleet Taxicabs.
-
-(o) Group Ride Program is a program established by the Commission for the transportation of more than one passenger from a common location to destinations within a specified common geographic area.
-
-(p) Legatee means someone to whom the proceeds of an estate are to be distributed.
-
-(q) License in this Chapter means a Taxicab License.
-
-(r) Licensee in this Chapter means the holder of a Taxicab License.
-
-(s) Long Term Driver Affidavit is the document an Owner files with the Commission indicating that a Taxicab will be operated by a Long Term Driver or by Unspecified Drivers.
-
-(t) Market Value in reference to the transfer of a Taxicab Medallion will be the greater of: (i) the actual consideration being paid for the transfer; and (ii) the Fair Market Value.
-
-(u) Maximum Escrow Amount means:
-
-   (1) The Market Value of the Taxicab Medallion being transferred less the value of any debt or liens secured by the Medallion and the Transfer costs PLUS
-
-   (2) The value of any proceeds of any refinancing received by the Owner that was not used to reduce any previously existing debt or liens secured by the Medallion following the date of an occurrence of an alleged tort involving the Taxicab which gives rise to a potential Excess Claim
-
-(v) Medallion is the numbered plate originally issued by the Commission and affixed to the outside of a Taxicab as physical evidence that the Taxicab has been licensed to operate as a Medallion Taxicab.
-
-(w) MTA Tax is the 50 cent tax on taxicab trips imposed by Article 29-A of the NYS Tax Law.
-
-(x) Owner in this Chapter means an individual or Business Entity licensed by the Commission to own and operate one or more Medallion Taxicabs.
-
-(y) Prior Claim Letter is a Claim Letter received by the Commission prior to February 1, 2009.
-
-(z) Secured Lender Escrow Amount means the Market Value of the Taxicab Medallion being transferred less the value of any debt or liens secured by Medallion and the Transfer Costs.
-
-(aa) Secured Lender Recipient means a secured creditor seeking to repossess or foreclose upon a Taxicab Medallion in order to realize the value of its secured interest, but that is not applying to operate the Taxicab Medallion and will not be considered a Transferee provided the Secured Lender Recipient places the Medallion in storage as required in 35 RCNY § 58-46(c).
-
-(bb) Stop-Use Directive is a notice sent to an Owner by the Commission directing the Owner to stop using a designated Agent because that Agent's License has been revoked or suspended.
-
-(cc) Substantial Interest in Taxicab Medallions means direct or indirect ownership of four or more Medallions, that can result from one or more of the following:
-
-   (1) Ownership of 25 percent or more of the stock in one or more corporations that own Medallions
-
-   (2) Ownership of 25 percent or more of the membership interests in one or more LLC's that own Medallions
-
-   (3) A partnership interest in one or more partnerships that own Medallions
-
-   (4) Being an officer in one or more corporations that, in the aggregate, have a direct or indirect equity interest in four or more Medallions.
-
-(dd) Taxicab License is the authority granted by the Commission for an Applicant to own and operate a designated vehicle as a Taxicab within the Commission's jurisdiction, and is evidenced by the Medallion affixed to the hood of the vehicle.
-
-(ee) Taxpayer is a person or Business Entity required to pay the MTA Tax.
-
-(ff) 10% Business Entity Person is a Business Entity Person who owns at least 10% of a Business Entity.
-
-(gg) Tort Letter is a statement from the insurer of a Taxicab stating whether or not the insurer is aware of any Excess Claims against the Taxicab Medallion or its Owner.
-
-(hh) Transfer means the transfer of all or any portion of a Medallion ownership interest, including the transfer of interests in a Business Entity owning Medallions.
-
-(ii) A Transferee is an Applicant seeking approval from or approved by the Chairperson to own and operate a Medallion Taxicab in which Applicant is acquiring an interest, either directly or indirectly, through a transfer described under 35 RCNY § 58-43.
-
-(jj) Transfer Costs means the administrative costs involved in processing a transfer of ownership of a Taxicab Medallion and includes the costs of any foreclosure or similar action and any outstanding fines or fees owed to the Commission or the Parking Violations Bureau.
-
-(kk) Transferor is the Owner of an interest in a Taxicab Medallion being transferred.
-
-(ll) Valid Claim Letter is a Claim Letter which is not a Prior Claim Letter, and which:
-
-   (1) Is dated no more than one year prior to the date documentation is submitted to the Chairperson for a proposed transfer of a Taxicab Medallion,
-
-   (2) Sets forth a minimum claim in an amount sufficient to be an "Excess Claim",
-
-   (3) Includes a copy of the police report regarding the incident in question, and
-
-   (4) Includes a representation by the sender that the party against which the Excess Claim has been asserted has been provided with a copy of the Claim Letter.
-
-(mm) Unspecified Driver is a term that is entered on a Rate Card indicating that the Taxicab can be driven by any Licensed Taxicab Driver whose name (or category) has been filed with the Commission by the Owner of that Taxicab.
-
-(nn) Wheelchair Passenger. A Wheelchair Passenger is a Passenger using a wheel- chair.
-
-
-
-
-
-
-
-
-*§ 58-04 Licensing – General Requirements.* ::
-
-
-(a) Identification. An individual or all Business Entity Persons of a Business Entity applying for a Taxicab License must provide to the Commission:
-
-   (1) A Valid Government-issued photo ID and
-
-   (2) A Valid Social Security Number.
-
-(b) Age. An individual or all Business Entity Persons of a Business Entity applying for a Taxicab License or its renewal must be at least 18 years of age.
-
-(c) Good Moral Character.
-
-   (1) An individual or all Business Entity Persons of a Business Entity applying for a Taxicab License must be fingerprinted and must be of good moral character. Fingerprinting for the purpose of investigating good moral character is also required of the following, unless waived by the Chairperson in his or her discretion:
-
-      (i) Any new Business Entity Persons added by a Licensee
-
-      (ii) Any individual or Business Entity Persons of a Business Entity that provides funds for any Owner, unless the provider is a licensed bank or loan company
-
-   (2) Applicant's criminal history will be considered in a manner consistent with the Corrections Law of the State of New York.
-
-(d) Fit to Hold a License. An individual or Business Entity must demonstrate to the satisfaction of the Commission that the Applicant is Fit to Hold the License of an Owner of a Taxicab License.
-
-(e) Drivers Designated as Agents to Accept Service.
-
-   (1) An Owner must designate each and every Driver who operates one of Owner's Taxicabs as an agent to accept service of Commission notices to correct defects in the Taxicab.
-
-   (2) Delivery of a notice of defect to a Driver will be adequate service of notice to the Owner.
-
-(f) Financial Disclosure.
-
-   (1) An Applicant for a Taxicab License where the Applicant already owns one or more Medallion Taxicabs must provide a financial disclosure statement to the Commission.
-
-   (2) The disclosure statement must be completed on a form provided by the Commission and must include the disclosure of assets, liabilities, income and net worth of all Business Entity Persons of a Business Entity Applicant, as well as any other information required by the Commission.
-
-   (3) The financial disclosure statement must be given under oath and must include all attachments and documentation required by the Commission.
-
-(g) Liability Insurance. The Applicant must have liability insurance coverage by bond or policy as required by the State of New York and these Rules.
-
-(h) Payment of Fines and Fees.
-
-   (1) An Applicant, including an applicant for a renewal License, must pay, and provide proof of payment of, any outstanding fines or fees owed by the Applicant to
-
-      (i) the Commission,
-
-      (ii) NYC Department of Finance's Parking Violations Bureau,
-
-      (iii) NYC Department of Finance's Red Light Camera Unit,
-
-      (iv) NYS DMV's Traffic Violations Bureau and
-
-      (v) any of their successor agencies.
-
-   (2) This requirement includes payment of fines and fees owed as of the date of the application by
-
-      (i) any Business Entity Persons of the Applicant
-
-      (ii) any Business Entity of which the Applicant is a Business Entity Person, and
-
-      (iii) any Business Entity of which a Business Entity Person of Applicant is also a Business Entity Person.
-
-   (3) An Applicant, including an Applicant for a renewal License, must pay any fines related to their failure to surrender a previously revoked License (of any type), unless the Applicant can demonstrate in person or in writing that the License has been surrendered.
-
-(i) Current Address and E-mail Address. An Applicant must give the Commission the Applicant’s current Mailing Address and E-mail Address.
-
-
-
-
-
-
-
-
-*§ 58-05 Licensing – Special Requirements.* ::
-
-
-(a) Commission Approval. All Medallion transfers, including partial transfers, must be approved by the Commission. All Applicants to own a Medallion or an interest in a Medallion must be approved by the Commission.
-
-(b) Concurrent Purchase and Licensing of Medallion. An application to own and operate a Medallion Taxicab must be filed by any individual or Business Entity acquiring a Medallion, including an interest in a Medallion, either:
-
-   (1) As part of the public sale or auction process, if the Applicant is purchasing a Medallion from the Commission
-
-   (2) Jointly, with the current Owner (the "transferor") of the Medallion, if the Applicant is purchasing a Medallion from a private Owner,
-
-   (3) As a transfer of an interest in an Owner,
-
-   (4) By becoming a new Business Entity Person in an Owner, or
-
-   (5) By succeeding to the interest of any Owner or Business Entity Person of any Owner.
-
-(c) Vehicle Ownership Requirements. An Applicant must demonstrate to the satisfaction of the Commission that the Applicant:
-
-   (1) Owns a vehicle that meets all of the requirements set forth in 35 RCNY Chapter 67 (Taxicab Hack-Up) of these Rules, as well as the requirements of all other governmental agencies having concurrent jurisdiction.
-
-   (2) Possesses the certificate of title and the certificate of registration, both of which must be in the name of the Applicant unless title is retained by a lessor or conditional vendor; and
-
-   (3) Has provided the Commission with all information required concerning the financing of the purchase price of the Medallion and/or Taxicab.
-
-(d) Licensing – Special Requirements for Business Entities.
-
-   (1) Partnerships. If the Applicant is a partnership, it must file with its application a certified copy of the partnership certificate from the clerk of the county where the partnership's principal place of business is located.
-
-   (2) Corporations.
-
-      (i) If the Applicant is a corporation it must file the following with its Taxicab License application:
-
-         A. A certified copy of its certificate of incorporation
-
-         B. A list of officers and shareholders
-
-         C. A certified copy of the minutes of the meeting at which the current officers were elected
-
-      (ii) No corporate or trade name will be accepted by the Commission that is similar to a name already in use by another Owner.
-
-      (iii) All officers and shareholders of the corporate Taxicab License Applicant must disclose each and every Medallion in which he or she has any interest whatsoever, including but not limited to, any interest as individual Owner or as a Business Entity Person in a Business Entity that owns other Medallion(s); this disclosure must be made:
-
-         A. Upon original application for the Taxicab License,
-
-         B. Upon application for renewal of a Taxicab License, and
-
-         C. Upon application for transfer of a Taxicab License.
-
-      (iv) All corporate officers and shareholders are subject to the same standards and criteria as individual Owners.
-
-      (v) The Commission will only recognize corporate officers that have been approved by the Commission.
-
-      (vi) It is a violation of these Rules for a corporate Owner to appoint a new officer without the approval of the Commission.
-
-      (vii) Temporary approval contingent on final approval can be permitted in cases where an officer has resigned or died and another individual must be able to continue the regular daily operation of the Owner corporation.
-
-      (viii) The standards and criteria for Ownership are equally applicable when the shares of a corporate Owner are held by another Business Entity.
-
-   (3) Closed Corporations.
-
-      (i) A stockholder in a closed corporation that owns a Medallion will be personally accountable for complying with these Rules and any other laws that relate directly and uniquely to Medallion Ownership.
-
-      (ii) If a closed corporation wants to transfer stock or Medallion(s) to another closed corporation that is already an approved Medallion owner, the stockholders of the transferee corporation must sign an assumption and indemnification agreement in which they agree to assume all of the duties and responsibilities set forth in these Rules and to indemnify the Commission for all unpaid fines or fees regarding the Medallion(s) owned by the transferor corporation.
-
-   (4) Limited Liability Companies (LLCs).
-
-      (i) If the Applicant is a limited liability company it must file the following with its Taxicab License application:
-
-         A. A copy of its articles of organization
-
-         B. A copy of its operating agreement
-
-         C. A list of the members, with the percentages of the Applicant owned by each.
-
-      (ii) No LLC or trade name will be accepted by the Commission that is similar to a name already in use by another Owner.
-
-      (iii) All members of the LLC Taxicab License Applicant must disclose each and every Medallion in which he or she has any interest whatsoever, including, but not limited to, any interest as an individual Owner or any interest as a Business Entity Person in a Business Entity that owns other Medallion(s); this disclosure must be made:
-
-         A. Upon the original application for the Taxicab License,
-
-         B. Upon application for renewal of a Taxicab License, and
-
-         C. Upon application for transfer of a Taxicab License.
-
-      (iv) All members of the Owner are subject to the same standards and criteria as individual Owners.
-
-      (v) The Commission will only recognize members that have been approved by the Commission.
-
-      (vi) It is a violation of these Rules for an Owner that is an LLC to add a new member without the approval of the Commission.
-
-      (vii) The standards and criteria for Ownership are equally applicable when membership interests in a LLC Owner are held by another Business Entity.
-
-
-
-
-
-
-
-
-*§ 58-06 Licensing – Term of License.* ::
-
-
-(a) New License.
-
-   (1) Length of Term. The term of a new Taxicab License is a maximum of two years.
-
-   (2) Expiration Date. The first term of Taxicab License expires on May 31st of the year set by the Commission.
-
-(b) Renewal License.
-
-   (1) Length of Term. Each renewal term is two years and expires on May 31st of the second year of the term.
-
-   (2) Extension. The Chairperson can extend the effectiveness of a Taxicab License until the completion of the next scheduled inspection of the Taxicab, or as the Chairperson believes is appropriate.
-
-(c) Filing for Renewal.
-
-   (1) A renewing Applicant must file a completed application by no later than April 30th of each year in which a License is scheduled to expire.
-
-   (2) Application Submission Date.
-
-      (i) Applications filed online: The date of submission is the date an application is filed online.
-
-      (ii) Applications filed in person: The date of submission is the date an application is filed in person.
-
-   (3) A License for which a renewal application has not been filed by April 30 is not Valid and cannot be used until the renewal is approved. This is in addition to any penalties specified for a violation of this Rule.
-
-   (4) It is the Owner's responsibility to obtain a renewal application in order to comply with the filing deadline.
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 58-06(c)
-      - Fine: $1,000 and suspension up to 30 days for failure to file by April 30.
-      - Appearance NOT Required 
-~
-
-
-
- 
-
-(d) Suspended Licenses.
-
-   (1) If a License is suspended, the Licensee must apply for renewal as required in (c) above if the Licensee wants to renew the License. Failure to complete the renewal requirements means that the License will be subject to the penalties provided for in (c).
-
-   (2) A License that is suspended is not Valid and cannot be used until the suspension ends. This is true even if the Applicant has filed an application for a renewal.
-
-(e) Advertising Permits. A permit to display exterior advertising runs for one year or less and each permit will expire on the 31st day of August.
-
-
-
-
-
-
-
-
-*§ 58-07 Licensing – Fees.* ::
-
-
-(a) Annual Fee. The fee for each Taxicab License is $550 annually; the fee will be pro-rated if the License will be owned for less than one year by the next May 31st.
-
-(b) Medallion Plate Replacement Fee.
-
-   (1) The fee for a new Medallion "tin" will be $10. This fee will be charged when the Commission issues a new "tin", including when it issues a new model of "tin".
-
-   (2) If a "tin" is lost, stolen or damaged, the replacement fee is $25.
-
-(c) License Plate Replacement Fee. The Commission's fee for replacement of license plates issued by the New York State Department of Motor Vehicles will be $25 per vehicle.
-
-(d) Inspection Fee. The Commission's fee for a required Taxicab Safety and Emissions inspection is $90; this fee includes the certificate of inspection issued when the Taxicab passes the inspection. Inspection fees must be prepaid with each application and renewal application.
-
-(e) Reinspection Fee. There is a reinspection fee only if reinspection is required because the Taxicab failed the component of the inspection required by Section 301 of the New York State Vehicle and Traffic Law. In that case, the reinspection fee is thirty five dollars ($35). If reinspection is required because the Taxicab failed any other component of the inspection, there is no reinspection fee.
-
-(f) Stand-By Vehicle Fee. The fee for each Stand-By Vehicle is $550 annually. Inspection fees are also charged for Stand-By Vehicles.
-
-(g) Advertising Permit Fee. The fee for a permit to display exterior advertising is $50 annually. If a permit is surrendered in less than 6 months, one half of the fee will be refunded.
-
-(h) Vehicle Transfer Fees.
-
-   (1) An Owner can transfer a Medallion from one vehicle to another after approval by the Chairperson and payment of a $50 fee.
-
-   (2) An Owner can replace the license plates on a Taxicab after approval by the Chairperson and payment of a $25 fee.
-
-   (3) An Owner can transfer the license plates from one vehicle to another after approval by the Chairperson and payment of a $25 fee.
-
-   (4) An Owner must pay a separate fee for each separate transfer. This is true even if the Owner wants to do several types of vehicle transfer all at one time.
-
-(i) No Refund if Application Denied. The Commission will not refund fees if it denies or disapproves the application.
-
-(j) Taxi Accessibility Fee. An Owner must pay the Taxi Accessibility Fee for each Medallion owned. The Taxi Accessibility Fee must be paid when charged by the Commission.
-
-
-
-
-
-
-*§ 58-08 Licensing – Causes for Denial.* ::
-
-
-(a) Failure to Meet Requirements. The Commission can deny an application for a License or its renewal of any Applicant who fails to meet the requirements. The Commission will inform the Applicant, in writing, of the specific reason(s) for this denial.
-
-(b) Material Misrepresentation or Falsification. The Commission will deny an application for a License or its renewal, or can impose other sanctions, if any of the following occurs:
-
-   (1) The Applicant makes a material misrepresentation in the application
-
-   (2) The Applicant fails to inform the Commission of a material change in the information contained in the application
-
-   (3) The Applicant attempts to conceal the identity of a party having an interest in the ownership of a Taxicab.
-
-(c) No Longer Meets Requirements. The Commission can deny an application for a License or its renewal and can revoke or suspend any License if the Commission becomes aware of information that the Owner no longer meets the requirements for an Owner's License.
-
-(d) Violation of the Rules. The Commission can deny an application for a License if, within the past two years, the Applicant (or any Business Entity Person of a Business Entity Applicant) has engaged in any of the following:
-
-   (1) Assault of a passenger, official or member of the public in any way relating to a Taxicab
-
-   (2) Any instance of bribery or unlawful gratuity toward a city employee
-
-   (3) Providing the Commission with false information
-
-   (4) Two or more unlawful passenger service refusals
-
-   (5) Two or more incidents of overcharging, as a Driver
-
-   (6) Three failures to respond to an official communication
-
-   (7) Three or more vehicle safety violations for a particular Taxicab
-
-   (8) Whether as an individual has or as a Business Entity Person of a Business Entity that has:
-
-      (i) Ten or more outstanding unexcused failures to appear at scheduled TLC hearings, or
-
-      (ii) Ten or more unsatisfied Commission fines or fines that remained unsatisfied until renewal.
-
-(e) The Applicant's criminal history will be reviewed in a manner consistent with the NYS Corrections Law.
-
-(f) Chronic Disregard of Public Welfare. An Applicant will not be approved to own another Medallion or to be a stockholder or an officer in another corporate Medallion Owner if he or she has evidenced a chronic disregard for the rules and regulations that impact the welfare, safety or security of the riding public.
-
-(g) Failure to Complete Application Requirements.
-
-   (1) The Chairperson will deny an application for a new License if the Applicant has not completed all the requirements of an application within 180 days of the date the application is filed.
-
-   (2) The Chairperson will not deny an application under this Rule if completion is delayed because the Chairperson has not issued a final decision and the Applicant has complied with any requests made by the Chairperson.
-
-(h) Additional Consideration of an Application. If a review of the application leads the Chairperson to believe that the Applicant may not be Fit to Hold a License, the Chairperson may seek additional information from the Applicant. This request for additional information may be an in-person interview, telephone call, letter, e-mail, or other method of communication. This additional consideration may result in the denial of the application. Failure to provide any requested information within the time frame requested, or failure to appear at a scheduled interview will result in a denial of the application.
-
-(i) Commercial Motor Vehicle Tax.
-
-   (1) The Commission will deny an application, including a renewal application, if the following Commercial Motor Vehicle Tax amounts are not paid for any Vehicle subject to the application:
-
-      (i) The Commercial Motor Vehicle Tax amount required under subdivision (k) of 35 RCNY § 58-04, including the interim payment, if any, or
-
-      (ii) Any additional Commercial Motor Vehicle Tax amount for any tax year or period which the New York City Department of Finance has notified the Commission is due and unpaid.
-
-   (2) Payment of the Commercial Motor Vehicle Tax amount described in paragraph (1) of this subdivision is a condition to issuance of a License, including a renewal License, and the maintaining of such License.
-
-   (3) An Applicant applying to renew a vehicle for which the Commercial Motor Vehicle Tax has not been paid at the time that the renewal application is submitted is deemed not to have submitted the application by the required deadline and may be subject to penalties under subdivision (c) of 35 RCNY § 58-06.
-
-
-
-
-
-
-
-
-*§ 58-09 Licensing – Procedures for Approval/Denial. [Reserved]* ::
-
-
-(a) Do Not Alter Rate Card. An Owner must not change, mark, cross out or make any unauthorized entries on a Taxicab's Rate Card, or display a Rate Card that contains wrong information. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 58-11(a)
-      - Fine: $50 if plead guilty before a hearing; $100 if found guilty following a hearing.
-      - Appearance NOT Required
-~
-
-
-
- 
-
-(b) Replace Damaged Medallion or Rate Card. An Owner must immediately surrender an unreadable Rate Card or a damaged Medallion to the Commission for replacement.
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 58-11(b)
-      - Fine: $200 and suspension until compliance
-      - Appearance Required
-~
-
-
-
- 
-
-(c) Replace Damaged Medallion or Rate Card. An Owner must immediately surrender an unreadable Rate Card or a damaged Medallion to the Commission for replacement.
-
-   (1) An Owner must notify the Commission and the Police Department of the theft, loss or destruction of any Medallion or Rate Card within 48 hours (not including weekends and holidays) of the loss.
-
-   (2) The Owner must also provide any affidavit or information the Commission requires, including the police receipt number.
-
-   (3) A substitute Medallion and Rate Card will be issued by the Commission. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 58-11(c)(1)-(2)
-      - Fine: $200
-      - Appearance NOT Required
-~
-
-
-
- 
-
-(d) Report Finding Lost Medallion or Rate Card.
-
-   (1) An Owner must notify the Commission and the Police Department within 24 hours (not including weekends and holidays) after locating any Medallion or Rate Card that was reported as stolen or lost.
-
-   (2) The Owner must also provide any affidavit or information the Commission requires. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 58-11(d)
-      - Fine: $200 for the first violation; $350 - $500 for the second or subsequent violation(s) within 36 months
-      - Appearance NOT Required
-~
-
-
-
- 
-
-(e) Surrender Medallion and Rate Card. An Owner must surrender Owner's Medallion and Rate Card to the Commission:
-
-   (1) Within 48 hours of notice that Owner's Taxicab License has been suspended or revoked
-
-   (2) Prior to the sale of Owner's Taxicab
-
-   (3) Prior to removal of Owner's Taxicab from service for a period of 30 or more consecutive days 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 58-11(e)
-      - Fine: $200 if plead guilty before a hearing; $300 if found guilty following a hearing.
-      - Appearance NOT Required
-~
-
-
-
- 
-
-(f) Report Replaced New York License Plates. An Owner must report to the Commission the replacement of any lost or stolen New York State license plates within 48 hours (not including weekends and holidays) after getting the new plates.
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 58-11(f)
-      - Fine: $200 and suspension until compliance
-      - Appearance Required
-~
-
-
-
- 
-
-
-
-
-
-
-
-
-*§ 58-12 Compliance with Law – No Unlicensed Activity.* ::
-
-
-(a) No Unlicensed Taxicabs.
-
-   (1) An Owner must ensure that all of Owner’s Taxicabs in operation for hire are Validly licensed by the Commission and have a Valid Medallion attached to the vehicle.
-
-   (2) The Commission will post on its website a list of Validly licensed Taxicabs and Medallions.
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 58-12(a)
-      - Fine: $300 and/or suspension up to 30 days
-      - Appearance Required
-~
-
-
-
- 
-
-(b) No Advertising as "Taxi" if Unlicensed. An Owner who does not have a Valid License must not hold himself or herself out to the public as a "taxi," "Taxicab" or "hack" service. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 58-12(b)
-      - Fine: $50 - $350 and/or suspension up to 30 days
-      - Appearance Required
-~
-
-
-
- 
-
-(c) No Unregistered Vehicles.
-
-   (1) An Owner must ensure that all of Owner's Taxicabs are operated only while the registration of the vehicle remains Valid.
-
-   (2) Operating a vehicle without a Valid registration will be considered the same as operating without a Valid TLC Driver License. The License of an Owner who operates a vehicle without valid registration will be summarily suspended.
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 58-12(c)
-      - Fine: $100 - $350 and/or suspension up to 30 days; Suspension until compliance
-      - Appearance Required
-~
-
-
-
- 
-
-(d) No Unlicensed Drivers.
-
-   (1) No Taxicab can be operated for hire unless the driver has in his or her possession a Valid TLC Driver License.
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 58-12(d)(1)
-      - Fine: $400 and/or suspension up to 30 days
-      - Appearance Required
-~
-
-
-
- 
-
-   (2) Exceptions. An Owner can permit a person who does not possess a TLC Driver License to drive the vehicle only when all of the following limited circumstances are met:
-
-      (i) The vehicle is being driven to or from the Commission's centralized Taxicab inspection facility or a repair facility;
-
-      (ii) The driver has entered the appropriate off duty code in the Technology System;
-
-      (iii) A current Trip Record (written or electronically printed out) is in the Taxicab, indicating the vehicle is "Off-Duty" and why;
-
-      (iv) The rear doors are locked; and
-
-      (v) The person driving the vehicle is licensed to drive a motor vehicle.
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 58-12(d)(2)
-      - Fine: $400 and/or suspension up to 30 days
-      - Appearance Required
-~
-
-
-
- 
-
-   (3) The Commission will post on its website a list of Drivers holding Valid TLC Driver Licenses.
-
-
-
-
-
-
-
-
-*§ 58-13 Compliance with Laws – Insurance Coverage.* ::
-
-
-(a) Maintain Insurance Coverage.
-
-   (1) Taxicab Owners must ensure that all of their Taxicabs are covered by liability insurance in the form of a bond or an insurance policy that fully complies with the New York State Vehicle and Traffic Law and the New York State Insurance Law.
-
-   (2) Owners must maintain all other forms of insurance required by law. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 58-13(a)
-      - Fine: $150 - $350 and/or suspension up to 30 days
-      - Appearance Required
-~
-
-
-
- 
-
-(b) Submit Proof of Insurance. Every year in which an Owner files an application to renew the License of one or more Taxicabs, Owner must, at that time, provide the Commission with the name and address of the Owner's insurance carrier and the policy numbers for each of Owner's Taxicabs, along with proof of coverage. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 58-13(b)
-      - Fine: $100
-      - Appearance Required
-~
-
-
-
- 
-
-(c) Notification of Changes in Insurance Coverage. An Owner must notify the Commission in writing within 72 hours of any of the following:
-
-   (1) Receipt of notice that Owner's required liability insurance has been cancelled;
-
-   (2) A change of insurance carrier;
-
-   (3) A change in the policy number of Owner's liability insurance. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 58-13(c)
-      - Fine: $100
-      - Appearance NOT Required
-~
-
-
-
- 
-
-(d) Coverage Requirements.
-
-   (1) All Taxicab Owners must, for each of Owner's Taxicabs, maintain liability coverage through an insurance policy or a bond in amounts not less than the following:
-
-      (i) $200,000 per person, payable for those expenses specified in paragraphs 1, 2 and 3 of subdivision "a" of § 5102 of the New York State Insurance Law
-
-      (ii) $100,000 minimum liability and not less than $300,000 maximum liability for bodily injury or death, as these terms are described and defined in § 370(1) of the Vehicle and Traffic Law. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 58-13(d)(1)
-      - Fine: $350 and suspension until compliance
-      - Appearance NOT Required
-~
-
-
-
- 
-
-   (2) A Taxicab Fleet or Minifleet as well as an Independent Owner operating more than one shift daily must maintain double shift insurance coverage. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 58-13(d)(2)
-      - Fine: $50 - $350 and/or suspension up to 30 days
-      - Appearance Required
-~
-
-
-
- 
-
-(e) Report of Collisions.
-
-   (1) Report to Insurance Carrier. Any Collision involving one (or more) of Owner's Taxicabs that is required to be reported to the insurance carrier must be immediately reported to the carrier by the Owner, in writing.
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 58-13(e)(1)
-      - Fine: $500 - $1,000
-      - Appearance Required
-~
-
-
-
- 
-
-   (2) Report to Commission.
-
-      (i) An Owner must immediately report to the Commission in writing all Collisions that are required to be reported to the Department of Motor Vehicles (as required by § 605 of the Vehicle and Traffic Law) that involve any of Owner's Taxicabs.
-
-      (ii) An Owner must also provide to the Commission a copy of any legally required report filed with the NYS Department of Motor Vehicles, within 10 days of the date the report is due to be filed with the Department of Motor Vehicles. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 58-13(e)(2)
-      - Fine: $150 and $25 for each day of violation thereafter and suspension until compliance
-      - Appearance Required
-~
-
-
-
- 
-
-(f) Surrender Rate Card and Medallion upon Termination of Insurance. An Owner must either:
-
-   (1) Surrender the Taxicab's Rate Card and Medallion to the Commission on or before the termination date of the vehicle's insurance, or
-
-   (2) Submit proof of new insurance effective on the date of termination of the old policy. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 58-13(f)
-      - Fine: $50
-      - Appearance NOT Required
-~
-
-
-
- 
-
-
-
-
-
-
-
-
-*§ 58-14 Compliance with Laws – Workers' Compensation.* ::
-
-
-(a) Compliance with Law. An Owner must comply with all provisions of the New York State Workers' Compensation Law and regulations with respect to coverage and benefits to eligible persons. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 58-14(a)
-      - Fine: $25 for each day in violation
-      - Appearance Required
-~
-
-
-
- 
-
-(b) File Certificate of Coverage with the Commission. An Owner must maintain on file with the Commission a current Certificate of Workers' Compensation Coverage, or a Valid exemption. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 58-14(b)
-      - Fine: $200
-      - Appearance NOT Required
-~
-
-
-
- 
-
-(c) Designate the Commission to Receive Notices. An Owner must designate the Commission as a certificate holder to receive all notices concerning the Workers' Compensation policy. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 58-14(c)
-      - Fine: $200
-      - Appearance NOT Required
-~
-
-
-
- 
-
-(d) Provide Driver with Proof of Benefits Ending. When a Driver who is receiving Workers Compensation benefits has recovered and is ready to return to work, an Owner must:
-
-   (1) File a notice with the Workers' Compensation Board to end the disbursement of benefits due to the worker's recovery; and
-
-   (2) Provide the Driver with documentation that benefits have ceased in order for the Commission to return the Driver's License. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 58-14(d)
-      - Fine: $100 - $250
-      - Appearance Required
-~
-
-
-
- 
-
-
-
-
-
-
-*§ 58-15 Compliance with Law – Personal Conduct.* ::
-
-
-(a) Bribery.
-
-   (1) Actual Bribery Attempt. An Owner must not bribe or attempt to bribe or offer any gratuity whatsoever to any employee, representative or member of the Commission in return for favorable or preferential treatment. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 58-15(a)(1)
-      - Fine: Up to $10,000 per Medallion implicated in the violation plus mandatory divestiture of any and all Taxicab Licenses held by the Owner, and any held by a director, officer or stockholder of the Owner.
-      - Appearance Required
-~
-
-
-
- 
-
-   (2) Appearance of Bribery. An Owner must not offer or give any gift or gratuity or any other thing of value to any employee, representative or member of the Commission, or any public servant or dispatcher employed at a public transportation facility. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 58-15(a)(2)
-      - Fine: $10,000 plus revocation
-      - Appearance: N/A
-~
-
-
-
- 
-
-   (3) Failure to Report Bribery. An Owner must immediately report to the Commission and the NYC Department of Investigation any request or demand for a gift, gratuity or thing of value by any employee, representative or member of the Commission or any other public servant or dispatcher employed at a public transportation facility or authorized group-ride taxi line. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 58-15(a)(3)
-      - Fine: $1,000 and/or suspension up to 30 days or revocation.
-      - Appearance Required
-~
-
-
-
- 
-
-   (4) Failure to Remove Cash. When the Taxicab is in Owner's possession, Owner must remove all currency from a Taxicab's interior prior to its inspection by any Commission personnel. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 58-15(a)(4)
-      - Fine: $50
-      - Appearance NOT Required
-~
-
-
-
- 
-
-(b) Fraud, Theft. While performing the duties and responsibilities of a Licensee, an Owner must not commit or attempt to commit, alone or in concert with another, any act of fraud, misrepresentation or theft. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 58-15(b)
-      - Fine: $350 - $1,000 and suspension up to 60 days or revocation
-      - Appearance Required
-~
-
-
-
- 
-
-(c) Willful Acts of Omission. While performing the duties and responsibilities of a Licensee, an Owner must not deliberately fail to perform, alone or with another, any act where this failure is against the best interests of the public, although not specifically mentioned in these Rules. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 58-15(c)
-      - Fine: $150 - $350 and/or Suspension up to 30 days or revocation.
-      - Appearance Required
-~
-
-
-
- 
-
-(d) Willful Acts of Commission. While performing the duties and responsibilities of a Licensee, an Owner must not deliberately perform or attempt to perform, alone or with another, any act that is against the best interests of the public, although not specifically mentioned in these Rules. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 58-15(d)
-      - Fine: $150 - $350 and/or Suspension up to 30 days or revocation.
-      - Appearance Required
-~
-
-
-
- 
-
-(e) Threats, Harassment, Abuse. While performing the duties and responsibilities of a Licensee, an Owner must not threaten, harass or abuse any person. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 58-15(e)
-      - Fine: $350 - $1,000 and/or suspension up to 30 days or revocation
-      - Appearance Required
-~
-
-
-
- 
-
-(f) Use or Threat of Physical Force. While performing the duties and responsibilities of a Licensee, an Owner must not use any physical force against any person. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 58-15(f)
-      - Fine: $500 - $1,500 and/or suspension up to 60 days or revocation
-      - Appearance Required
-~
-
-
-
- 
-
-(g) Reporting of Criminal Conviction.
-
-   (1) A Licensee must immediately notify the Commission of any criminal conviction of the Taxicab Owner, individually or, if the Licensee is a Business Entity, of any Business Entity Person.
-
-   (2) The notice must be in writing and must be accompanied by a certified copy of the certificate of disposition issued by the clerk of the court explaining what happened as a result of the conviction. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 58-15(g)
-      - Fine: $50 - $250
-      - Appearance Required
-~
-
-
-
- 
-
-(h) Cooperate with Law Enforcement. A Licensee must cooperate with all law enforcement officers, authorized representatives of the Commission and the NYC Department of Investigation. Cooperation includes, but is not limited to, responding to a request for Licensee's name, Licensee's Medallion numbers, Rate Cards, Trip Records, and any other documents required to be maintained by the Taxicab Owner. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 58-15(h)
-      - Fine: $50 - $350
-      - Appearance Required
-~
-
-
-
- 
-
-(i) Cooperate with the Commission.
-
-   (1) An Owner must promptly answer all questions and comply with all communications, directives and summonses from the Commission or its representatives and the NYC Department of Investigation or its representatives. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 58-15(i)(1)
-      - Fine: $300 and Suspension until compliance
-      - Appearance Required
-~
-
-
-
- 
-
-   (2) An Owner must respond to any contact from the Commission within 48 hours, seven days a week. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 58-15(i)(2)
-      - Fine: $500
-      - Appearance NOT Required
-~
-
-
-
- 
-
-(j) Facilitation of Sex Trafficking with a Vehicle. An Owner must not Facilitate Sex Trafficking with a Vehicle. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 58-15(j)
-      - Fine: $10,000 and revocation.
-      - Appearance NOT Required
-~
-
-
-
- 
-
-
-
-
-
-
-*§ 58-16 Compliance with Law – Miscellaneous.* ::
-
-
-(a) Compliance with Commission Rules and Regulations, Generally and Specifically.
-
-   (1) An Owner must comply with the Commission's Taxicab specifications, the Marking Specifications for Taxicabs, all pertinent provisions of the Administrative Code and other laws, rules or regulations governing Taxicab Owners. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 58-16(a)(1)
-      - Fine: $200 if plead guilty before a hearing; $300 if found guilty following a hearing.
-      - Appearance NOT Required
-~
-
-
-
- 
-
-   (2) Commercial Advertising and Commercial Sponsorships on the Back of Taximeter Receipts.
-
-      (i) Commercial advertising and commercial sponsorships may be printed on the back of receipts produced by a taximeter.
-
-      (ii) Any such advertising and sponsorships appearing on a receipt must comply with the commercial advertising and commercial sponsorship standards that apply to Passenger-facing content as set forth in 35 RCNY § 66-24(g)(3).
-
-      (iii) Any such advertising and sponsorships appearing on a receipt must not interfere with the readability of the fare information on the face of the receipt. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 58-16(a)(2)(ii) and (iii)
-      - Fine: $200 if plead guilty before a hearing; $300 if found guilty following a hearing.
-      - Appearance NOT Required
-~
-
-
-
- 
-
-(b) Compliance with Accessible Taxicab Medallion Rules.
-
-   (1) An Owner of an Accessible Taxicab Medallion must comply with 35 RCNY Chapter 53. An Owner of a Taxicab hacked up as an Accessible Taxicab (even if the Medallion is not an Accessible Taxicab Medallion) must also comply with 35 RCNY Chapter 53. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 58-16(b)(1)
-      - Fine: 35 RCNY Chapter 53 penalties apply
-~
-
-
-
- 
-
-   (2) An Owner of an Accessible Taxicab (whether or not the Owner's Medallion is an Accessible Taxicab Medallion) must ensure that Drivers of an Owner's Accessible Taxicab comply with 35 RCNY Chapter 53 and
-
-      (i) Maintain contact with the Accessible Taxi Dispatcher and
-
-      (ii) Accept dispatches from the Accessible Taxi Dispatcher to provide trips to Passengers in Wheelchairs. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 58-16(b)(2)
-      - Fine: 35 RCNY Chapter 53 penalties apply
-~
-
-
-
- 
-
-(c) No False Statements.
-
-   (1) An Owner must not file with the Commission any statement required under the Special Requirements for Business Entities provision (35 RCNY § 58-05(e)) that the Owner knows or should know to be false, misleading, deceptive or materially incomplete.
-
-   (2) An Owner must not file with the Commission any statement required under the Financial Disclosure provision (35 RCNY § 58-04(f)) that the Owner knows or should know to be false, misleading, deceptive or materially incomplete. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 58-16(c)(1) and (2)
-      - Fine: Up to $10,000 per Medallion implicated in the violation and/or mandatory divestiture of any and all interests in any Taxicab Licenses held by the Owner, shareholder, officer, director or partner in violation
-      - Appearance Required
-~
-
-
-
- 
-
-(d) No Unlawful Purpose.
-
-   (1) An Owner must not use or permit any other person to use Owner's Taxicab, garage or office of record for any unlawful purpose. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 58-16(d)(1)
-      - Fine: $350 - 1,000 and/or suspension up to 30 days or revocation
-      - Appearance Required
-~
-
-
-
- 
-
-   (2) An Owner must not conceal any evidence of a crime connected with Owner's Taxicab, garage or office of record. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 58-16(d)(2)
-      - Fine: $350 - 1,000 and/or suspension up to 30 days or revocation
-      - Appearance Required
-~
-
-
-
- 
-
-   (3) An Owner must report immediately to the police any attempt to use Owner's Taxicab to commit a crime or to escape from the scene of a crime. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 58-16(d)(3)
-      - Fine: $100 - $350 and/or suspension up to 30 days
-      - Appearance Required
-~
-
-
-
- 
-
-(e) No False Credentials.
-
-   (1) An Owner must not attempt to avoid inspection of a Licensed vehicle by using false credentials to disguise one vehicle as another or by any other means contrary to law or regulation of the Commission. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 58-16(e)(1)
-      - Fine: Up to $10,000 per Medallion implicated in the violation plus mandatory divestiture of any and all Taxicab Licenses held by the Owner, and any held by a director, officer or stockholder of the Owner
-      - Appearance Required
-~
-
-
-
- 
-
-   (2) An Owner must not operate or present for inspection a vehicle in which the Vehicle Identification Number has been loosened and reattached, or switched from another vehicle or otherwise altered in a manner not in compliance with Article 17 of the New York State Vehicle and Traffic Law. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 58-16(e)(2)
-      - Fine: Mandatory divestiture of any and all Taxicab Licenses held by the Owner, and any held by a director, officer or stockholder of the Owner, plus a fine of up to $10,000 per Medallion implicated in the violation
-      - Appearance Required
-~
-
-
-
- 
-
-   (3) An Owner must not present documents to the Commission that falsely indicate compliance with liability insurance and/or Workers' Compensation insurance requirements. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 58-16(e)(3)
-      - Fine: Mandatory divestiture of any and all Taxicab Licenses held by the Owner, and any held by a director, officer or stockholder of the Owner, plus a fine of up to $10,000 per Medallion implicated in the violation
-      - Appearance Required
-~
-
-
-
- 
-
-(f) Taxi Accessibility Fee.
-
-   (1) An Owner must pay the Taxi Accessibility Fee for each of the Owner's Medallions as required by the Commission.
-
-   (2) The Owner must pay the Taxi Accessibility Fee when required to do so by the Commission. If the Taxi Accessibility Fee is not paid by the time required by the Commission, the Owner will be liable for penalties for non-payment. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 58-16(f)
-      - Fine: $1,000 and suspension until compliance
-      - Appearance Required
-~
-
-
-
- 
-
-(g) Taxicab Improvement Fund.
-
-   (1) An Owner of a Medallion, or his or her Agent, must pay the entire Taxicab Improvement Surcharge remitted by the Taxicab Driver to the Taxicab Improvement Fund.
-
-   (2) The Owner of any Medallion, or his or her Agent, must pay the Taxicab Improvement Surcharge to the Taxicab Improvement Fund at the time and in the manner required by the Commission.
-
-   (3) If an Owner, or his or her Agent, does not pay the Taxicab Improvement Surcharge to the Taxicab Improvement Fund at the time required, non-payment will be grounds for suspension of the Taxicab License, and/or denial of any renewal application or of any application for another TLC-issued license, as well as monetary penalties.
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 58-16(g)
-      - Fine: $1,000 and suspension until compliance
-      - Appearance Required
-~
-
-
-
-
-
-
-
-
-
-
-*§ 58-17 Operations – Business Premises.* ::
-
-
-(a) Maintenance of Physical Location. The following entities must maintain a business premise in a location zoned for the operation of a business:
-
-   (1) Any Agent;
-
-   (2) Any Owner who leases or otherwise Dispatches one or more Taxicabs for return at the end of a shift;
-
-   (3) Any Owner or Business Entity that has a Substantial Interest in Taxicab Medallions.
-
-(b) Requirements of Premises. The Business Premises must have the following:
-
-   (1) Sufficient off-street space at or near the premises to store the lesser of:
-
-      (i) Twenty-five (25) vehicles, or
-
-      (ii) Fifty percent (50%) of the Taxicabs leased or otherwise Dispatched on a daily or a shift basis, plus five percent (5%) of the Taxicabs leased for longer than one day. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 58-17(b)(1)
-      - Suspension until condition is corrected
-      - Appearance Required
-~
-
-
-
- 
-
-   (2) Sufficient office space to conduct business, where all records required by the Commission, including Trip Records and Driver records, can be kept. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 58-17(b)(2)
-      - Suspension until condition is corrected
-      - Appearance Required
-~
-
-
-
- 
-
-   (3) "Driver's Bill of Rights" sign must be posted in a form and format prescribed by the Commission.
-
-      (i) The Commission will post the proper form and format on its Web site.
-
-      (ii) The "Driver's Bill of Rights" sign must be:
-
-         •     conspicuously posted, such as next to a payment window or other place where drivers regularly conduct business within the Business Premises, and,
-
-         •     free of other signage in the immediate area.
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 58-17(b)(3)
-      - Fine: $250 if plead guilty before a hearing; $500 if found guilty following a hearing.
-      - Appearance NOT Required
-~
-
-
-
- 
-
-(c) Hours of Operation. Owner must keep regular business hours, including the hours of 9:00 a.m. through 5:00 p.m. for every weekday. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 58-17(c)
-      - Fine: $100
-      - Appearance NOT Required
-~
-
-
-
- 
-
-(d) Contact Information. Owner must maintain the current address and telephone number of the business premises with the Commission. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 58-17(d)
-      - Fine: $100
-      - Appearance NOT Required
-~
-
-
-
- 
-
-
-
-
-
-
-*§ 58-18 Operations – Management Oversight.* ::
-
-
-(a) Direct Owner Operations. The Commission will hold the Owner of every Taxicab accountable for hands-on operation of the Taxicabs and expects the Owner to be personally responsible for:
-
-   (1) Physically observing the Taxicabs
-
-   (2) Overseeing compliance with Taxicab inspection requirements
-
-   (3) Overseeing compliance with insurance and all other regulatory requirements
-
-   (4) Communicating with Drivers (where the Owners vehicles are driven by Drivers other than him/herself).
-
-(b) Indirect Owner Operations.
-
-   (1) Notwithstanding the provisions in 35 RCNY § 58-18(a) above, an Owner can authorize employees or a Licensed Agent to perform any or all such functions.
-
-   (2) The use of an employee or Agent will not relieve an Owner of any obligation under these rules.
-
-   (3) An Owner remains fully accountable for all violations of Commission rules, committed by any employee or Agent in the operation of Owner's Medallion(s).
-
-(c) Owner's Use of Agents.
-
-   (1) Designation of Agent.
-
-      (i) An Owner can designate an Agent to act on the Owner's behalf to operate a Licensed Taxicab and perform all required functions.
-
-      (ii) The Agent must be licensed by the Commission in under with Chapter 63 of these Rules.
-
-      (iii) The designation will remain in effect until:
-
-         A. The Owner revokes the designation and notifies the Commission, or
-
-         B. The Commission suspends or revokes the Agent's License and notifies the Owner. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 58-18(c)(1)
-      - Fine: $500 - 1,000 and/or suspension up to 30 days
-      - Appearance Required
-~
-
-
-
- 
-
-   (2) File Designation with the Commission. Prior to the use of an Agent, an Owner must file a designation of the Agent with the Commission. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 58-18(c)(2)
-      - Fine: $200
-      - Appearance NOT Required
-~
-
-
-
- 
-
-   (3) Owner Can Use Only One Agent. An Owner must not designate or use more than one Agent regardless of the number of Medallions in which Owner has an interest. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 58-18(c)(3)
-      - Fine: $200
-      - Appearance NOT Required
-~
-
-
-
- 
-
-(d) Limitations on Owner's Use of an Agent.
-
-   (1) Agent's Personal Oversight Required. An Owner can designate or use an Agent, only if the Agent operates the Taxicab(s) through:
-
-      (i) Personal observation of the vehicle(s),
-
-      (ii) Personal oversight of compliance with inspection, insurance and all other regulatory requirements, and
-
-      (iii) Personal communications with Drivers. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 58-18(d)(1)
-      - Fine: $200
-      - Appearance NOT Required
-~
-
-
-
- 
-
-   (2) Agent Must Not Assign Responsibilities. An Owner can allow an Agent to use employees to assist in fulfilling these functions, however the Owner must NOT permit the Agent to delegate or assign its responsibilities to another party; Owner's designation of an Agent will be ineffective if the Agent delegates to another party. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 58-18(d)(2)
-      - Fine: $200
-      - Appearance NOT Required
-~
-
-
-
- 
-
-   (3) Must Maintain Business Premises. The Owner must ensure that the Agent maintains business premises meeting the requirements set forth in both 35 RCNY § 58-17 and 35 RCNY § 63-10. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 58-18(d)(3)
-      - Fine: $200
-      - Appearance NOT Required
-~
-
-
-
- 
-
-   (4) Owner Must Not Use Unlicensed Agent.
-
-      (i) An Owner must not designate or continue to use an Agent if the Commission has notified the Owner that the specified Agent's License is suspended or revoked. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 58-18(d)(4)(i)
-      - Fine: $500 - 1,000 and/or suspension up to 30 days
-      - Appearance Required
-~
-
-
-
- 
-
-      (ii) The Commission will issue a directive to Owners to discontinue use of a specified Agent (a Stop-Use Directive) by mailing notification to the Owner's personal address.
-
-      (iii) The Commission will maintain a list of all Agents whose Licenses are currently suspended or revoked. This information is available for inspection by the public, and the Commission strongly suggests that Owners review these lists before selecting an Agent.
-
-      (iv) If an Owner seeks to designate an Agent who is the subject of a current Stop-Use Directive, the Commission will reject the designation and inform the Owner that the Agent's License is suspended or revoked.
-
-   (5) Provisions of this Section Cannot be Waived by Contract.
-
-      (i) No contract or other agreement between an Owner and an Agent will include a provision intended to supersede or impair the effectiveness, in whole or in part, of the provisions of this 35 RCNY § 58-18(d).
-
-      (ii) No provision in a contract or other agreement between an Owner and an Agent that attempts to impair the effectiveness of this section will be enforceable.
-
-
-
-
-
-
-*§ 58-19 Operations – Service Requirements (Passengers). [Reserved]* ::
-
-
-(a) Maximum Driving Hours. An Owner must not require a Driver to operate one or more Taxicabs for more than 12 consecutive hours.  
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 58-20(a)
-      - Fine: $50
-      - Appearance NOT Required
-~
-
-
-
- 
-
-(b) Authorized Drivers.
-
-   (1) Driver Authorization Statement.
-
-      (i) An Owner must maintain on file with the Commission a current Medallion Long Term Driver Affidavit, indicating whether the Taxicab will be operated by Long Term Driver(s) or by "Unspecified Driver," must include the additional information required below for either Unspecified Drivers or Long Term Drivers. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 58-20(b)(1)
-      - Fine: $250 - $500 and suspension until compliance
-      - Appearance Required
-~
-
-
-
- 
-
-   (2) Long Term Driver Affidavit.
-
-      (i) If an Owner elects to lease to Long Term Driver(s), the Owner must file a Medallion Long Term Driver Affidavit.
-
-      (ii) The Owner must file the Medallion Long Term Driver Affidavit with the Commission in person or by power of attorney each time a new vehicle is presented for hack-up. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 58-20(b)(2)(i)-(ii)
-      - Fine: $250 - $500 and suspension until compliance
-      - Appearance NOT Required
-~
-
-
-
-      If no driver is identified by the Commission as satisfying the Long Term Driver requirements as stipulated to in the Medallion Long Term Driver Affidavit, the Commission may reduce the retirement date of the vehicle attached to the medallion.
-
-      (iii) If any lease (or its renewal) listed in the Medallion Long Term Driver Affidavit is terminated for any reason, the Owner must notify the Commission in writing within 48 hours of such termination, unless exempted by the Commission. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 58-20(b)(2)(iii)
-      - Fine: $100
-      - Appearance Required
-~
-
-
-
- 
-
-(c) Wheelchair Passenger Assistance Training.
-
-   (1) The Accessible Taxicab Owner must ensure that each of Owner's Accessible Taxicabs is driven only by a Driver who has completed the Wheelchair Passenger Assistance Training. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 58-20(c)
-      - Fine: $100 if plead guilty before a hearing; $150 if found guilty following a hearing.
-      - Appearance NOT Required
-~
-
-
-
- 
-
-
-
-
-
-
-
-
-*§ 58-21 Leasing a Taxicab or Medallion.* ::
-
-
-(a) An Owner can lease a Taxicab (or a Medallion-only) to a Licensed Driver, or to Licensed Drivers working different shifts or days if the Owner complies with the provision of this section.
-
-   (1) Regardless of the terms of the lease, the Owner is responsible for complying with all laws, rules and regulations governing Owners.
-
-   (2) An Owner must not authorize or allow a lessee of a Taxicab under 35 RCNY §§ 58-21(c)(1) or 58-21(c)(2) of these Rules to sublease the Taxicab to another party. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 58-21(a)
-      - Fine: $75 - $150 for the first violation,$150 - $300 for a second violation,$300 - $500 for a third violation within 24 months, andSuspension until compliance
-      - Appearance Required 
-~
-
-
-
- 
-
-(b) Service and Maintenance of Leased Taxicab Vehicles.
-
-   (1) Service and maintenance of a leased Taxicab (including the vehicle) under 35 RCNY §§ 58-21(c)(1) and (c)(2) is the responsibility of the Owner/lessor, and the cost of the service and maintenance of the Vehicle cannot be charged to the Driver/lessee.
-
-   (2) The lease of a Medallion-only under 35 RCNY § 58-21(c)(3) or a lease under 35 RCNY § 58-21(c)(4) does not include, and does not require, the Medallion Owner/lessor to provide service and maintenance of the vehicle.
-
-   (3) A Medallion-only lessor under 35 RCNY § 58-21(c)(3) or a lessor under 35 RCNY § 58-21(c)(4) must not require the lessee to obtain service and maintenance from any particular provider, including, but not limited to, the Medallion Owner or any agent of the Medallion Owner. A Medallion lessor or Agent who provides services or accommodations outside the lease to a leasing driver must keep records of all transactions with that driver and such records must be available for inspection by the Chairperson. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 58-21(b)
-      - First violation $500Second and subsequent violations: $1000 and/or suspension of the Medallion for up to 30 days. In addition to the penalty payable to the Commission, the administrative law judge may order the owner to pay restitution to the driver, equal to the excess that was charged to the driver.
-      - Appearance Required
-~
-
-
-
- 
-
-(c) Rate Rules.
-
-   (1) Standard Lease Cap Rates. An Owner of a Taxicab can charge a lease rate to a Driver that is not greater than the following Standard Lease Caps:
-
-      (i) The Standard Lease Cap for a Medallion and vehicle for one shift will not exceed:
-
-         A. $105, for all 12-hour day shifts
-
-         B. $115, for the 12-hour night shift on Sunday, Monday and Tuesday
-
-         C. $120, for the 12-hour night shift on Wednesday
-
-         D. $129, for the 12-hour night shifts on Thursday, Friday and Saturday
-
-         E. $630, for any one-week day shift for one week or longer
-
-         F. $737 for any one week night shift for one week or longer.
-
-      (ii) Except for a driver who meets all of the following:
-
-         (A) the driver pays for the lease on a daily or shift basis and is not required to pay for more than one shift in advance;
-
-         (B) the driver is required to return the vehicle to the owner or operator's business premises or other mutually agreed upon location at the conclusion of each shift; and
-
-         (C) the driver is not required to pay for any shift for which he provides the owner or operator with timely notice that he will not lease the vehicle, so the owner can lease the vehicle to another daily shift driver, no driver leasing a medallion and vehicle under this paragraph 58-21(c)(1) can be charged more than a total of
-
-            A. $630, for six or more day shifts in any seven consecutive day period
-
-            B. $737, for six or more evening shifts or combination of day and evening shifts in any seven consecutive day period.
-
-            C. A Driver who meets all the requirements of (ii)(A)-(C) can be charged for seven shifts if the Driver leases seven shifts.
-
-      (iii) The lease of a medallion and vehicle under this paragraph 35 RCNY § 58-21(c)(1) includes service and maintenance. Service and maintenance of the vehicle is the responsibility of the lessor and the lessor and his or her Agent must not charge the lessee for service and maintenance costs for the vehicle.
-
-      (iv) The lessee of a medallion and vehicle under this paragraph 35 RCNY § 58-21(c)(1) is not responsible for payment of any Commercial Motor Vehicle Tax.
-
-      (v) For a driver with a weekly lease under 35 RCNY § 58-21(c)(1)(i)(E), or 35 RCNY § 58-21(c)(1)(i)(F), if the vehicle is unavailable for use for any reason that is not the lessee's responsibility during any part of any week, the payment of the Lease Cap must be pro-rated.
-
-      (vi) For a driver with a weekly lease under 35 RCNY § 58-21(c)(1)(i)(E) or 35 RCNY § 58-21(c)(1)(i)(F), the lease includes costs for collision and other damage coverage, including repairs of physical damage to the vehicle, except that it shall not be considered an overcharge prohibited under these Rules if the Owner of a Taxicab or his or her Agent and the driver agree in writing that the driver will make payments for damage to the vehicle caused by the driver's negligence and such agreement will remain in effect for only so long as the driver is leasing a medallion from the Owner or the Agent, provided that the lease contains language informing the driver that he or she will be responsible for physical damage to the vehicle caused by his or her negligence if such damage was in fact caused by the negligence of the driver. If the Owner receives compensation for damages to the vehicle incurred from an entity other than the driver, any amount previously paid by the driver as compensation for damages, must be refunded to the driver.
-
-   (2) Cost Adjustments for the Lease of Hybrid Electric Taxicabs.
-
-      (i) The Standard Lease Cap for Hybrid Electric Taxicabs and Diesel-Fueled Taxicabs that are hacked-up under 35 RCNY §§ 67-05 or 67-05.1C and that meet the requirements of Section 19-533 of the Administrative Code are raised by $3 per shift ($21 per week), so that the lease amount for one shift must not now exceed:
-
-         A. $108, for all 12-hour day shifts
-
-         B. $118, for the 12-hour night shift on Sunday, Monday and Tuesday
-
-         C. $123, for the 12-hour night shift on Wednesday
-
-         D. $132, for the 12-hour night shifts on Thursday, Friday and Saturday.
-
-         E. $648, for any one-week day shift for one week or longer
-
-         F. $755, for any one week night shift for one week or longer.
-
-      (ii) Except for a driver who meets all of the following:
-
-         (A) the driver pays for the lease on a daily or shift basis and is not required to pay for more than one shift in advance;
-
-         (B) the driver is required to return the vehicle to the owner or operator's business premises or other mutually agreed upon location at the conclusion of each shift; and
-
-         (C) the driver is not required to pay for any shift for which he provides the owner or operator with timely notice that he will not lease the vehicle, so the owner can lease the vehicle to another daily shift driver, no driver leasing a medallion and vehicle under this paragraph 35 RCNY § 58-21(c)(2) can be charged more than a total of
-
-            A. $648, for six or more day shifts in any seven consecutive day period
-
-            B. $755, for six or more evening shifts or combination of day and evening shifts in any seven consecutive day period.
-
-            C. A Driver who meets all the requirements of (ii)(A)-(C) can be charged for seven shifts if the Driver leases seven shifts.
-
-      (iii) The lease of a medallion and vehicle under this paragraph 35 RCNY § 58-21(c)(2) includes service and maintenance. Service and maintenance of the vehicle is the responsibility of the lessor and the lessor and his or her Agent must not charge the lessee for service and maintenance costs for the vehicle.
-
-      (iv) The lessee of a medallion and vehicle under this paragraph 35 RCNY § 58-21(c)(2) is not responsible for payment of any Commercial Motor Vehicle Tax.
-
-      (v) For a driver with a weekly lease under 35 RCNY § 58-21(c)(2)(i)(E) or 35 RCNY § 58-21(c)(2)(i)(F), if the vehicle is unavailable for use for any reason that is not the lessee's responsibility during any part of any week, the payment of the Lease Cap must be pro-rated.
-
-      (vi) For a driver with a weekly lease under 35 RCNY § 58-21(c)(2)(i)(E) or 35 RCNY § 58-21(c)(2)(i)(F), the lease includes costs for collision and other damage coverage, including repairs of physical damage to the vehicle, except that it shall not be considered an overcharge prohibited under these Rules if the Owner of a Taxicab or his or her Agent and the driver agree in writing that the driver will make payments for damage to the vehicle caused by the driver's negligence and such agreement will remain in effect for only so long as the driver is leasing a medallion from the Owner or the Agent, provided that the lease contains language informing the driver that he or she will be responsible for physical damage to the vehicle caused by his or her negligence if such damage was in fact caused by the negligence of the driver. If the Owner receives compensation for damages to the vehicle incurred from an entity other than the driver, any amount previously paid by the driver as compensation for damages, must be refunded to the driver.
-
-   (3) The Standard Lease Cap:
-
-      (i) For a Medallion-only Hybrid Taxicab, Hacked-up under 35 RCNY §§ 67-05 or 67-05.1C and that meet the requirements of Section 19-533 of the Administrative Code is $994 weekly.
-
-      (ii) For all other Medallion-only Taxicabs, (including Accessible Taxicabs), is $952 weekly, except that if the Medallion Owner must place an Accessible Taxicab into service as required under subdivisions (a) through (c) or (e) of 35 RCNY § 58-50, or is currently receiving payments under 35 RCNY § 58-50(j)(2), the weekly lease for that Accessible Taxicab shall include a credit to the Driver of $77 per week for the four year period of time required in 35 RCNY § 58-50(f). This reduction is the result of the Medallion Owner’s receipt of payment under 35 RCNY § 58-50(j)(1)(ii) and (j)(2).
-
-      (iii) A medallion lessor or Agent of a lessor must not require a medallion lessee to obtain service, repairs or maintenance of the vehicle from any particular provider, including, but not limited to, a lessor or an Agent of a lessor.
-
-      (iv) A lease, and payment of the Lease Cap under this paragraph includes (and all of the following must be provided to the lessee):
-
-         A. Use of the medallion;
-
-         B. All applicable TLC fees except for TLC vehicle inspection fees (but the lessor is not required to provide vehicle registration or payment of the Commercial Motor Vehicle Tax);
-
-         C. Insurance required by 35 RCNY § 58-13;
-
-         D. Credit card fees or charges;
-
-         E. Up to 3 drivers on a lease at the request of the drivers, which request cannot be unreasonably denied. A lessor must not accept any payment from a lessee for the purchase or lease of a vehicle. A Medallion lessor or Agent can agree with a driver to provide services or accommodations on an arms-length basis outside the lease. A Medallion lessor or Agent who provides services or accommodations outside the lease to a leasing driver must keep records of all transactions with that driver and such records must be available for inspection by the Chairperson. A Medallion lessor may not enter into a lease with any person or entity under this paragraph if such Medallion lessor holds more than 2% of shares in a publicly held corporation that sells, leases or finances vehicles and has accepted a payment from such person or entity related to the sale, lease or finance of the Vehicle of such person or entity.
-
-      (v) The gasoline surcharge option provided in paragraph 35 RCNY § 58-21(c)(6) is not available to Owners/lessors leasing a Medallion-only under this 35 RCNY § 58-21(c)(3)
-
-   (4) Standard Medallion Lease Cap including Long Term Vehicle Lease/Conditional Purchase.
-
-      (i) A Lease is covered by this paragraph 35 RCNY § 58-21(c)(4) if it includes all of the following:
-
-         A. The lease of a Medallion
-
-         B. The conditional purchase agreement for a vehicle; and
-
-         C. The vehicle is being conditionally sold to the driver/lessee by any of
-
-            1. The Owner of the Medallion or any employee of the Owner, and/or
-
-            2. The Owner's Agent or any employee of the Agent, and/or
-
-            3. Any Business Entity of which a Business Entity Person of the Owner or Agent, or an employee of Owner or Agent, is a Business Entity Person
-
-            4. For purposes of this paragraph, an individual, business entity or business entity person covered by subitems one through three of this item C who is leasing a Medallion to a lessee and who holds more than 2% of the shares in a publicly held corporation that sells, leases or finances vehicles and has accepted a payment from such lessee related to the sale, lease or finance of such lessee's vehicle is deemed to be a party to the vehicle financing arrangement. Accordingly, the total amount charged to the lessee for both the lease of the Medallion and for the sale, lease, or financing of the vehicle cannot exceed the amount of the Standard Lease Cap set forth in subparagraph (ii) of this paragraph.
-
-      (ii) The Standard Lease Cap under this section for a Taxicab Medallion and vehicle is
-
-         A. $994 weekly for the lease of the Medallion, if the vehicle complies with the requirements of 35 RCNY §§ 67-05 or 67-05.1C and meets the requirements of Section 19-533 of the Administrative Code, plus $275 weekly for the portion of the lease covering the conditional purchase of the vehicle; or
-
-         B. $952 weekly for the lease of the Medallion, if the vehicle complies with the requirements of 35 RCNY §§ 67-05.1 or 67-05.2, plus $275 weekly for the portion of the lease covering the conditional purchase of the vehicle, except that if the Medallion Owner must place an Accessible Taxicab into service as required under subdivisions (a) through (c) or (e) of 35 RCNY § 58-50, or is currently receiving payments under 35 RCNY § 58-50(j)(2), the weekly lease for that Accessible Taxicab shall include a credit to the driver of $77 per week for the four year period of time required in 35 RCNY § 58-50(f). This reduction is the result of the Medallion Owner’s receipt of payment under 35 RCNY § 58-50(j)(1)(ii) and (j)(2).
-
-         C. This Standard Lease Cap cannot be charged at any time after title to the vehicle passes (or could have passed) to the lessee such that total payments by the lessee for the vehicle shall not exceed $42,900.
-
-      (iii) Title to the leased vehicle must pass to one or more of the lessees, if the lessees request, after all vehicle financing costs have been paid. The conditional seller is not required to transfer title if the lessees have failed to pay all payments due for the vehicle purchase and lease until all such payments have been made.
-
-      (iv) The lease of a Medallion together with a vehicle under this paragraph 35 RCNY § 58-21(c)(4) includes within the payment to the lessor the amount due by the Vehicle owner for the Commercial Motor Vehicle Tax.
-
-      (v) A lease, and payment of the Lease Cap under this section includes (and the following must be provided to the lessee, except that items G and H are optional):
-
-         A. Use of the medallion;
-
-         B. All applicable TLC and NYS DMV fees except for TLC vehicle inspection fees;
-
-         C. Insurance required by 35 RCNY § 58-13;
-
-         D. Credit card fees or charges;
-
-         E. All Vehicle purchase and/or finance costs and vehicle sales tax and related costs;
-
-         F. Up to 3 drivers on a lease at the request of the drivers, which request cannot be unreasonably denied.
-
-         G. A Medallion lessor or Agent can offer coverage for collisions and physical damage to the vehicle to the lessee/purchasers in an amount not to exceed $50 per week, but cannot require that the lessee/purchasers purchase such coverage.
-
-            i. The Medallion lessor or Agent can require that a deductible of up to $250 per incident be met before covering or reimbursing costs identified in item G.
-
-            ii. For any incident for which a driver has paid a deductible amount authorized under this subsection, if the Medallion lessor or Agent of the taxicab which is the subject of the damages claim receives insurance claim proceeds, litigation proceeds or other proceeds to cover the cost of repair, the lessor must reimburse the driver for the amount previously remitted as a deductible.
-
-         H. A Medallion lessor or Agent can agree with a driver to provide services or accommodations on an arm's-length basis outside the lease. A Medallion lessor or Agent who provides services or accommodations outside the lease to a leasing driver must keep records of all transactions with that driver and such records must be available for inspection by the Chairperson or his or her designee.
-
-      (vi) The gasoline surcharge option provided in 35 RCNY § 58-21(c)(6) is not available to Owners/lessors leasing a Taxicab and vehicle under this 35 RCNY § 58-21(c)(4).
-
-      (vii) If the vehicle is unavailable for use for any reason that is not the lessee's responsibility during any part of any week, the lessee's payment of the Lease Cap must be pro-rated. As an example, a vehicle is not unavailable for purposes of this rule if the vehicle is undergoing required maintenance, undergoing repairs as a result of not being properly maintained, or required to appear for inspection at the TLC.
-
-   (5) Limits on Additional Charges. In addition to a lease amount no greater than the Standard Lease Cap (as adjusted), an Owner/lessor (as well as any agent or employee of the Owner/lessor) must not request of or accept from any lessee any money or other thing of value, except for the following (this means an Owner/lessor must not charge any tip, tax, surcharge or other fee of any kind above the Standard Lease Cap (as adjusted):
-
-      (i) A gas surcharge of $21 per shift (or $126 for drivers leasing under 35 RCNY § 58-21(c)(1)(i) E or F and 35 RCNY § 58-21(c)(2)(i) E or F (with such surcharge to be adjusted as provided below) provided that the Owner/lessor or his or her agent is providing gasoline to the lessee as provided in 35 RCNY § 58-21(c)(6);
-
-      (ii) A security deposit and deductions from the security deposit no greater than the amount allowed under subdivision (e) below;
-
-      (iii) The discount toll amount for use of the Owner's EZ-Pass® as described in 35 RCNY § 58-27;
-
-      (iv) Late Charges
-
-         A. For any vehicle leased pursuant 35 RCNY § 58-21(c)(1) or 35 RCNY § 58-21(c)(2), a late charge not to exceed $25.00 per hour for the late return of a vehicle. The total late charge for the late return of a vehicle from any one shift may not exceed the cost of one shift.
-
-         B. For any vehicle leased pursuant to 35 RCNY §58-21(c)(3) or 35 RCNY §58-21(c)(4) a late charge not to exceed $50.00 for each weekly lease payment paid late. A late charge can be imposed only if the weekly lease payment is not received within 24 hours of the date and time on which it is due.
-
-      (v) A reasonable cancellation charge, subject to the provisions of subdivision (i)(5) below;
-
-      (vi) Parking tickets and red light violations permitted to be deducted from the security deposit described in subdivision (e) below, provided that the Driver/lessee is allowed to challenge any ticket or violation; and
-
-      (vii) If the Owner (or Owner's Agent) is a Taxpayer, the Taxpayer can collect the MTA Tax collected by the lessee/Driver from the lessee/Driver. The MTA Tax must be collected in the following order:
-
-         A. The MTA Tax must first be deducted from any credit card reimbursements due as required in subdivision (f) below.
-
-         B. The MTA Tax must next be deducted from the security deposit permitted in subdivision (e) below.
-
-         C. If not fully paid, then the MTA Tax must be collected from the lessee/Driver.
-
-      (viii) In addition to these charges, an Owner can deduct from credit card receipts payable to the Driver amounts collected by the Technology System Provider, pursuant to the Technology System Provider's authorization by the Commission, provided that
-
-         A. such amounts are provided by rule of the Commission; and
-
-         B. such amounts are timely remitted to the Owner's Technology System Provider or other recipient as approved by the TLC.
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 58-21(c)(5)(viii)(B)
-      - Fine: $1,000 and suspension until compliance
-      - Appearance Required
-~
-
-
-
- 
-
-      (ix) State and local sales and rental taxes on vehicle rentals.
-
-      (x) If contained in the lease, a provision for the recovery of reasonable damages for a breach of the lease contract, including attorneys' fees and costs. Fines paid to the Commission by an Owner or Agent cannot be recovered from a driver as reasonable damages, except for
-
-         A. fines incurred as a result of a sublease prohibited by 35 RCNY § 58-21(a)(2), or,
-
-         B. for drivers leasing under 35 RCNY §58-21(c)(3) or (c)(4), fines incurred as a result of unauthorized operation by a suspended or revoked driver, or
-
-         C. fines imposed on the owner for violation of 35 RCNY § 58-29(b), provided that such fine was assessed because of the conduct of the driver and provided the owner is able to show that the driver had notice of the inspection date, or
-
-         D. fines imposed on the owner for violation of 35 RCNY § 58-31(a).
-
-      (xi) Credit Card Processing Surcharge for Leases entered into pursuant to 35 RCNY § 58-21(c)(1), 58-21(c)(2), 58-21(c)(3), or 58-21(c)(4):
-
-         A. For daily leases under 35 RCNY § 58-21(c)(1) and 58-21(c)(2), an Owner of a Taxicab can charge a $11 surcharge per shift for credit card processing.
-
-         B. For weekly leases under 35 RCNY § 58-21(c)(1) and 58-21(c)(2), an Owner of a Taxicab can charge a $66 surcharge per week for credit card processing.
-
-         C. For leases under 35 RCNY § 58-21(c)(3) and 58-21(c)(4), an Owner of a Taxicab can charge a $132 surcharge per week for credit card processing.
-
-         D. Beginning on January 1, 2013, each June and December, the TLC will review the Technology System's data to determine average credit card usage per shift. The TLC will review only the data for shifts at least seven hours long. Payments made by credit card shall be the entire amount paid by the passenger, as determined from the Technology System records reviewed. If, under this review, the amount of the average credit card usage per daily shift exceeds $200, the TLC will propose and support:
-
-            a rule seeking an adjustment to the Credit Card Surcharge for daily leases under 35 RCNY § 58-21(c)(1), 58-21(c)(2), 58-21(c)(3) and 58-21(c)(4) so that it is equivalent to 5% of the average credit card usage per shift for the preceding four months, rounded to the nearest whole dollar;
-
-            a rule seeking a similar adjustment to the Credit Card Surcharge for weekly leases under 35 RCNY § 58-21(c)(1) and 58-21(c)(2) by multiplying the per shift surcharge by six; and
-
-            a rule seeking a similar adjustment to the Credit Card Surcharge for Medallion-only and Medallion and Vehicle leases under 35 RCNY § 58-21(c)(3) and 58-21(c)(4) by multiplying the shift rate surcharge by twelve.
-
-            For example, if the average credit card usage per shift, using the criteria set forth above, is $200, the per shift surcharge shall be $10 ($60 per week, $120 per week for a lease under 35 RCNY § 58-21(c)(3) and (4)). If the average credit card usage per shift is $240, the per shift surcharge shall be $12 ($72 per week, $144 per week for a lease under 35 RCNY § 58-21(c)(3) and (4)).
-
-         E. Upon enactment of any rule that changes the Credit Card Surcharge, the TLC will issue an industry notice setting forth the new Credit Card Surcharge.
-
-         F. Notwithstanding the results of the review(s) above, the TLC will not adjust, propose, or seek an adjustment to Credit Card Surcharges to any amount less than $10 for any daily lease entered into pursuant to 35 RCNY § 58-21(c)(1), 58-21(c)(2), or less than $60 for any weekly lease entered into pursuant to 35 RCNY § 58-21(c)(1), 58-21(c)(2), or less than $120 for any lease entered into pursuant 58-21(c)(3) and 58-21(c)(4), irrespective of the average credit card usage per shift.
-
-      (xii) Beginning on January 1, 2015, the Taxicab Improvement Surcharge, which must be paid as provided in 35 RCNY § 58-16.
-
-   (6) Optional Gasoline Surcharge: An Owner/lessor, or his or her Agent leasing a Taxicab under 35 RCNY § 58-21(c)(1) or 58-21(c)(2), may chose to provide gasoline to a lessee and charge a gas surcharge in an amount as specified in this section in addition to the Lease Cap provided in 35 RCNY § 58-21(c)(1) or 58-21(c)(2), provided that
-
-      (i) Gasoline is provided to the lessee for the entire shift at no additional cost to the lessee.
-
-      (ii) The surcharge will be $126 per week (or $21 per shift) until December 31, 2012
-
-      (iii) After that date the surcharge will be reset based on the trailing 6 month average as of the date the surcharge is calculated of the New York City Gasoline Price Index issued by U.S. Energy Information Agency and published at www.eia.gov.
-
-      (iv) The surcharge will be calculated as of June 30 and November 30 of each year beginning November 30, 2012.
-
-      (v) The Commission will post the new surcharge on its Web site by July 15 and December 15 of each year
-
-      (vi) The new surcharge will take effect on July 31 and December 31 of each year beginning December 31, 2012. If the Commission has not posted a new surcharge, the prior surcharge will remain in effect.
-
-      (vii) Based on the index, the surcharge will be as follows:
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - When the Index is:
-      - The surcharge will be:
-~
-
-
-
-
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - $2.49 or less
-      - $13 per shift (or $78 per week)
-    * - $2.50 to $2.99
-      - $16 per shift (or $96 per week)
-    * - $3.00 to $3.49
-      - $18 per shift (or $108 per week)
-    * - $3.50 to $3.99
-      - $21 per shift (or $126 per week)
-    * - $4.00 to $4.49
-      - $23 per shift (or $138 per week)
-    * - $4.50 to $4.99
-      - $26 per shift (or $156 per week)
-    * - $5.00 or more
-      - $28 per shift (or $168 per week)
-~
-
- 
-
-      (viii) Nothing in paragraph 35 RCNY § 58-21(c)(6) prohibits an Owner/lessor, or his or her Agent leasing a Taxicab under 35 RCNY § 58-21(c)(1) or 58-21(c)(2) from selling gasoline to a lessee independent of any lease payments made under 35 RCNY § 58-21(c)(1) or 58-21(c)(2) as long as such transactions are recorded and available for inspection as required by 35 RCNY § 58-21(b)(3).
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 58-21(c)
-      - Fine: First violation: $500Second and subsequent violations; $1,000 and/or suspension of the Medallion for up to 30 days.In addition to the penalty payable to the Commission, the ALJ can order the Owner to pay restitution to the Driver, equal to the excess that was charged to the Driver or the extra fuel the driver had to pay for.
-      - Appearance Required
-~
-
-
-
- 
-
-   (7) Collective Bargaining Exception to the Standard Lease Cap. The provisions of this section do not apply to Owners and lease Drivers whose business relationship is governed by the terms of a collective bargaining agreement that regulates the subject of lease prices.
-
-(d) [Reserved.]
-
-(e) Security Deposit on Taxicab Vehicles.
-
-   (1) Security Deposit Provision Permitted. An Owner can include a lease provision for a security deposit from the Driver, provided it complies with the requirements of this subdivision (e).
-
-   (2) Permitted Withholdings from Security Deposit. At the termination or expiration of a lease an Owner may be reimbursed from the security deposit only for the following:
-
-      (i) Any unpaid but owing lease charges.
-
-      (ii) Damage to the vehicle, if the lease clearly and prominently states that the Driver is responsible for damage.
-
-      (iii) Any parking tickets issued during the lease.
-
-      (iv) Any red light violations issued to the Owner during the lease, under the NYC Department of Transportation's camera surveillance system.
-
-      (v) If the Owner (or Owner's Agent) is a Taxpayer, any MTA Tax remaining due from the Driver after deductions from credit card receipts due to the Driver.
-
-   (3) Deposit Not to be Used for Owner Violations. An Owner must not require a Driver to pay any summons that is written to the Owner as Respondent, other than those specified above.
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 58-21(e)(3)
-      - Fine: First violation: $250;Second violation: $350;Third and subsequent violations $500 and/or suspension of the Medallion for up to thirty days.In addition to the penalty payable to the Commission, the ALJ can order the Owner to pay restitution to the Driver, equal to the excess that was withheld from the Driver, or equal to the amount that the Driver paid, at the requirement of the Owner, to satisfy any summons against the Owner
-      - Appearance Required
-~
-
-
-
- 
-
-   (4) Limits on Amount of Deposit. An Owner must not require a Driver to post any security deposit that is greater in amount than the rate for one lease term. However, if the lease term is for more than one week, an Owner must not require a Driver to pay a security deposit in an amount greater than the lease rate for one week. Examples include:
-
-      (i) An Owner who leases a Taxicab for one shift at the rate of $80 per shift can require up to an $80 security deposit.
-
-      (ii) An Owner who leases a Taxicab or Medallion for one week at the rate of $500 a week can require up to a $500 security deposit.
-
-      (iii) An Owner who leases a Taxicab for six months at the rate of $2,000 a month can require up to a $500 security deposit.
-
-      (iv) Special Rule for Long Term leases under 35 RCNY § 58-21(c)(4).
-
-         A. A Lease under 35 RCNY § 58-21(c)(4) can include a refundable deposit of up to $5,000, which may be collected at the beginning of the lease or in scheduled payments over time as specified in the lease. An Owner or an Owner's Agent must not accept any deposit in excess of this amount.
-
-         B. The weekly lease payment specified in 35 RCNY § 58-21(c)(4) must be credited by an amount equal to the prorated value of the refundable deposit, except that until the lease ends, a deposit equal to the deposit that could be required for a lease of a Medallion under 35 RCNY § 58-21(c)(3)(i) or (ii), as applicable, can be retained by the Owner/lessor or his or her Agent.
-
-         C. If the deposit is not fully credited against the lease because of a cancellation, any remaining, uncredited deposit shall be refunded to the lessee/driver within 30 days of termination or cancellation of the lease by the lessor or an Agent of lessor. Note: this does not apply when the driver breaks or terminates the lease prior to the term. The deposit shall be held, and interest shall accrue, in the manner prescribed by 35 RCNY § 58-21(e)(7). 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 58-21(e)(4)
-      - Fine: $200
-      - Appearance NOT Required
-~
-
-
-
- 
-
-   (5) Provide Driver Written Receipt and Accounting for Security Deposit.
-
-      (i) An Owner must provide written receipts for any security deposits made by a Driver.
-
-      (ii) An Owner must provide a Driver with a written itemization of any items withheld or deducted from a security deposit. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 58-21(e)(5)
-      - Fine: $50
-      - Appearance NOT Required
-~
-
-
-
- 
-
-   (6) Return Deposit within 30 Days of Lease Termination.
-
-      (i) An Owner must return a security deposit no later than 30 days after the end of the lease term.
-
-      (ii) An Owner must return a security deposit either by check or by cash exchanged for a written receipt from the Driver. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 58-21(e)(6)
-      - Fine: $50
-      - Appearance NOT Required
-~
-
-
-
- 
-
-   (7) Interest on Security Deposit.
-
-      (i) An Owner who requires a security deposit must secure the funds in an interest-bearing account in a bank or credit union within the City of New York, in an account devoted to security deposits and not commingled with funds of the Owner.
-
-      (ii) The Owner must indicate in writing provided to the Driver the name and address of the bank or credit union and the applicable account number.
-
-      (iii) Interest on the security deposit must accrue to the benefit of the Driver furnishing the security, except, however, that the Owner can retain one percentage point of any interest, as compensation for bookkeeping expenses. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 58-21(e)(7)
-      - Fine: $50
-      - Appearance NOT Required
-~
-
-
-
- 
-
-   (8) Collective Bargaining Agreement Exception to Limitations on Security Deposits. The provisions of this section do not apply to Owners and lease Drivers whose business relationship is governed by the terms of a collective bargaining agreement that regulates the subject of security deposits.
-
-(f) Non-Cash Payments.
-
-   (1) For any lease of a Taxicab (vehicle and Medallion) under 35 RCNY § 58-21(c)(1) or 58-21(c)(2), an Owner (or Owner's Agent) must pay a Driver, on a daily basis, the total amount of all non-cash payments, including E-Payments through the Technology System (if any), made during the Driver's shift, less the Taxicab Improvement Surcharge payable to the Taxicab Improvement Fund as set forth in 35 RCNY § 58-16. Drivers leasing a Taxicab on a weekly basis under 35 RCNY § 58-21(c)(1)(i)E, 58-21(c)(1)(i)F, 58-21(c)(2)(i)E or 58-21(c)(2)(i)F may, at the Driver's discretion, be paid on a weekly basis. Payments to a Driver and access to these funds must be provided at no cost to the Driver.
-
-   (2) For any lease not described in paragraph (1), an Owner (or Owner's Agent) must pay the Driver, on no less than a weekly basis, the total amount of all non-cash payments, including E-Payments through the Technology System (if any), made during that period, less the Taxicab Improvement Surcharge payable to the Taxicab Improvement Fund as set forth in 35 RCNY § 58-16. Payments to a Driver and access to these funds must be provided at no cost to the Driver.
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 58-21(f)(1) &amp; (2)
-      - Fine: $100In addition to the penalty payable to the Commission, the ALJ may order the Owner to pay restitution to the Driver, equal to the cost to the Driver.
-      - Appearance NOT Required 
-~
-
-
-
- 
-
-   (3) An Owner (or Owner's Agent) must not withhold from the payments any credit card pass-along, fees or charges.
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 58-21(f)(3)
-      - Fine: First violation: $200Second violation: $300Third violation: $500In addition to the penalty payable to the Commission, the ALJ may order the Owner to pay restitution to the Driver, equal to the excess amount that was charged to the Driver.
-      - Appearance Required 
-~
-
-
-
- 
-
-   (4) If an Owner (or Owner's Agent) is a Taxpayer, the Taxpayer can deduct from the credit card receipts payable to the Driver the amount due for the MTA Tax from the Driver's trips.
-
-   (5) An Owner can deduct from credit card receipts payable to the Driver amounts retained by or payable to the the Technology System Provider, provided that such amounts are provided for by rule of the Commission.
-
-(g) Receipts to Drivers for All Payments.
-
-   (1) An Owner (or Owner's Agent) must give a Driver a written receipt for every payment or deduction made under the lease and these Rules.
-
-   (2) The receipt must include the name of the Driver and the number of the Medallion subject to the lease.
-
-   (3) The receipt must clearly state the following information with respect to the payment or deduction:
-
-      (i) The date
-
-      (ii) The name of the recipient
-
-      (iii) The amount
-
-      (iv) The purpose
-
-      (v) The number of the section of this chapter that authorizes the payment or deduction
-
-      (vi) For leases under 35 RCNY § 58-21(c)(4), the following additional information:
-
-         A. The weekly amount received, itemized by the amount paid for the Taxicab Medallion portion of the lease and the amount paid for the conditional purchase of the vehicle;
-
-         B. The cumulative amount paid towards the conditional purchase of the vehicle;
-
-         C. The remaining amount to be paid for the conditional purchase of the vehicle; and
-
-         D. The remaining number of weekly payments for the conditional purchase of the vehicle based on the current contract terms.
-
-         E. For leases of Medallions for which the Medallion Owner must place an Accessible Taxicab into service as required under subdivisions (a) through (c) or (e) of 35 RCNY § 58-50 or is currently receiving payments under 35 RCNY § 58-50(j)(2), a credit to the Driver in the weekly payment in the amount of $77 as a result of the Medallion Owner’s receipt of payment under 35 RCNY § 58-50(j)(1)(ii).
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 58-21(g)
-      - Fine: $200
-~
-
-
-
- 
-
-(h) Lease Must Be in Writing.
-
-   (1) Every Taxicab operating lease (including any amendments), must be in writing, and must be signed by the Owner (or a person authorized to act on behalf of the Owner), and by the leasing Driver or Drivers.
-
-   (2) A copy of the fully executed lease must be provided to the leasing Driver or Drivers. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 58-21(h)
-      - Fine: $500
-      - Appearance NOT Required
-~
-
-
-
- 
-
-(i) Terms. Every lease must contain the following terms:
-
-   (1) The type and term of the lease. The lease must state the beginning date and time of the lease and the ending date and time of the lease.
-
-      (i) A weekly lease must run for seven consecutive calendar days.
-
-      (ii) A shift must run for 12 consecutive hours.
-
-   (2) Costs covered by the lease. The lease must state the total lease amount, and must itemize that total cost, including:
-
-      (i) The amount of the lease that applies to the medallion and the amount, if any, that applies to the vehicle
-
-      (ii) The amounts, if any, of the security deposit
-
-      (iii) The gasoline surcharge if there is one
-
-      (iv) Any other costs that the Driver will be charged.
-
-   (3) Reference Authorizing Rule Sections.
-
-      (i) For each itemized cost listed above (in subparagraph (2)), the lease must include a reference to the Commission Rule authorizing the Owner to charge the cost to the Driver.
-
-      (ii) The lease must either recite the complete text of each Rule or state the address of the Commission's Web page on which the Rule is published.
-
-   (4) Overcharges. Every lease must contain clearly legible notice that overcharging a lessee/Driver is prohibited by the Commission's Rules, and that complaints of overcharges may be made in writing to the Commission or by telephone call to 311.
-
-   (5) Charges Upon Cancellation.
-
-      (i) If an Agent demands the return of a Medallion upon the request of an Owner, the Driver has the right to request the Agent to provide a replacement Medallion and, if the Agent provides another Medallion, the Driver will not be responsible for the costs of hacking up a replacement vehicle.
-
-      (ii) Any cancellation charge contained in the lease must be reasonable, and will not be permitted unless the lease also provides that:
-
-         A. Owner is not permitted to charge a Driver a cancellation charge if the Driver is not late in making lease payments at the time the Owner cancels the lease.
-
-         B. When a cancellation payment is made, the Driver's obligation to make lease payments terminates immediately.
-
-   (6) Deposit information. Each lease must include the information regarding deposits required by 35 RCNY § 58-21(e). 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 58-21(i)
-      - Fine: First violation $500Second and subsequent violations: $1000 and/or suspension of the Medallion for up to thirty days.In addition to the penalty payable to the Commission, the administrative law judge may order the owner to pay restitution to the driver, equal to the excess or non-authorized charge that was charged to the driver.
-      - Appearance Required
-~
-
-
-
- 
-
-(j) Retaliation.
-
-   (1) An Owner must not retaliate against any Driver for making a good faith complaint against any Owner for violation of the leasing provisions in 35 RCNY § 58-21.
-
-   (2) "Retaliation" will be broadly construed, and will include imposing any adverse condition or consequence on the Driver or withholding or withdrawing any beneficial condition or consequence from the Driver. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 58-21(j)
-      - Fine: $1,000 plus restitution to the driver for losses for the first offense and a fine of $10,000 plus restitution to the driver for the second offense within five years.
-      - Appearance NOT Required
-~
-
-
-
-
-
-
-
-
-
-
-*§ 58-22 Records – Trip Record Information.* ::
-
-
-(a) Record of Passenger Trip Information. The Trip Record is the record of all data collected from every for hire trip made by a Taxicab and must include the following information:
-
-   (1) The Taxicab Medallion number
-
-   (2) The TLC Driver License number
-
-   (3) The location where each passenger is picked up
-
-   (4) The time each passenger is picked up
-
-   (5) The total number of passengers
-
-   (6) The location where each passenger is dropped off
-
-   (7) The time each passenger is dropped off
-
-   (8) The total trip mileage
-
-   (9) The itemized metered fare for the trip (fare, tolls, surcharge, and tip, if paid by credit or debit card)
-
-   (10) Method of payment
-
-   (11) The trip number
-
-   (12) Other information required by the Commission.
-
-(b) Form of Trip Record.
-
-   (1) Trip Records must be collected and stored electronically, through the use of the Technology System.
-
-   (2) If the Technology System is inoperable, a written Trip Record must be kept during the 48-hour period the Taxicab is permitted to operate after timely notification of the malfunction. (See 35 RCNY § 58-41)
-
-(c) Access to Trip Record.
-
-   (1) Trip Record information must be available to the Commission and the Taxicab Driver.
-
-   (2) Trip Record information must be available at the end of each shift and/or at the end of a lease term.
-
-   (3) An Owner must take possession of any written Trip Records weekly. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 58-22(c)(3)
-      - Fine: $25
-      - Appearance NOT Required
-~
-
-
-
- 
-
-(d) Changes and Corrections.
-
-   (1) An Owner must not knowingly enter false information into the electronic data system for entry onto the electronic Trip Record.
-
-   (2) An Owner must not make erasures or obliterate information on a written Trip Record, or other record that Owner is required to maintain. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 58-22(d)(2)
-      - Fine: $50
-      - Appearance NOT Required
-~
-
-
-
- 
-
-   (3) If a wrong entry is made on any written Trip Record, the Driver or Owner must correct it and record the date, time, and reason for the change, so long as a record of the manually changed entry exists. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 58-22(d)(3)
-      - Fine: $50
-      - Appearance NOT Required
-~
-
-
-
- 
-
-   (4) Trip Records must not be changed either in whole or in part, unless authorized by the Commission. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 58-22(d)(4)
-      - Fine: $100 - $350 and/or suspension up to 30 days
-      - Appearance NOT Required
-~
-
-
-
- 
-
-
-
-
-
-
-
-
-*§ 58-23 Records – Contact Information.* ::
-
-
-(a) Mailing and Email Addresses.
-
-   (1) Each Owner must designate a Mailing Address; this can be the Agent's address but cannot be a post office box number.
-
-   (2) Any communication from the Commission is sufficient if sent to the Mailing Address furnished by the Owner.
-
-   (3) Each individual Owner must also file and maintain with the Commission the Owner's personal mailing address, Email address and a telephone number where the Owner can be reached directly.
-
-   (4) Each Business Entity Owner must also file and maintain with the Commission the personal mailing addresses, Email addresses and telephone numbers of each of Owner's Business Entity Persons.
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 58-23(a)(1)-(4)
-      - Fine: $100
-      - Appearance NOT Required
-~
-
-
-
- 
-
-   (5) The Commission is not required to send any communication to the Owner's personal address, except when notifying Owner that the License of the Agent designated by Owner has been revoked. Other communications sent to the Owner's personal address are at the discretion of the Commission.
-
-   (6) An Owner must report any change of mailing or Email address to the Commission in person or by registered or certified mail within ten days.
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 58-23(a)(6)
-      - Fine: $100
-      - Appearance NOT Required
-~
-
-
-
- 
-
-(b) Telephone Number and Immediate Access. An Owner must maintain on file with the Commission a current telephone number connected to an answering machine or recording device, a pager number, an answering service telephone number or a similar means of telephone contact, so that the Commission can reach the Owner on a 24-hour basis.
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 58-23(b)
-      - Fine: $100
-      - Appearance NOT Required
-~
-
-
-
- 
-
-
-
-
-
-
-
-
-*§ 58-24 Records – Maintenance Requirements.* ::
-
-
-(a) Shift Drivers. An Owner must keep accurate records of the Driver for each shift. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 58-24(a)
-      - Fine: $250
-      - Appearance NOT Required
-~
-
-
-
- 
-
-(b) Fleet or Minifleet Owner Records. A fleet or minifleet Owner must maintain for a period of three years a written record of every shift providing the following information for each Taxicab:
-
-   (1) Driver's name,
-
-   (2) TLC Driver License number,
-
-   (3) State license plate number,
-
-   (4) Medallion number,
-
-   (5) Time of leaving garage,
-
-   (6) Exact time of return. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 58-24(b)
-      - Fine: $25
-      - Appearance NOT Required
-~
-
-
-
- 
-
-(c) All Owners must maintain the following additional records for a period of three years:
-
-   (1) Drivers' electronic and written trip records
-
-   (2) Receipts and disbursements from the Taxicab operations
-
-   (3) Payments to Drivers
-
-   (4) Mileage record of each vehicle
-
-   (5) Workers' compensation insurance coverage, if any
-
-   (6) Liability insurance coverage
-
-   (7) Leases entered into pursuant to 35 RCNY § 58-21(c)
-
-   (8) Vehicle purchase agreements entered into pursuant to 35 RCNY § 58-21(c)(4)
-
-   (9) Any other information required by the Commission
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 58-24(c)(1)-(9)
-      - Fine: $100 for each missing item.
-      - Appearance NOT Required
-~
-
-
-
- 
-
-(d) An Owner must make available to a Driver any records that the Owner is required to maintain, and that the Driver can be required to present to the Commission or any other governmental agency; the Owner can provide photocopies of the records. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 58-24(d)
-      - Fine: $50
-      - Appearance NOT Required
-~
-
-
-
- 
-
-
-
-
-
-
-
-
-*§ 58-25 Reporting Requirements.* ::
-
-
-(a) Report Change in Status.
-
-   (1) When an Owner has a change of Mailing Address or a change in the office of record, the Owner must personally appear at the Commission to report the changes within 72 hours of such change (not including weekends and holidays).
-
-   (2) The Owner must bring the Rate Cards for all of Owner's Taxicabs. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 58-25(a)
-      - Fine: $100
-      - Appearance NOT Required
-~
-
-
-
- 
-
-(b) Lost, Stolen, or Damaged Taximeter. If a Taximeter is lost, stolen or damaged beyond repair, the Owner must notify the Commission and the Police Department within 48 hours (not including weekends and holidays) of the loss, theft or destruction, and must provide any affidavit or information that the Commission requires. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 58-25(b)
-      - Fine: $100
-      - Appearance NOT Required
-~
-
-
-
- 
-
-
-
-
-
-
-*§ 58-26 Operations – Rates and Tolls.* ::
-
-
-(a) Metered Rate of Fare.
-
-   (1) Metered Rate of Fare. The rate of fare for Taxicabs is as follows, regardless of the number of passengers or stops:
-
-      (i) The charge for the initial unit is $2.50 plus, on and after January 1, 2015, the Taxicab Improvement Surcharge of $0.30 for a total of $2.80
-
-      (ii) The charge for each additional unit is $.50
-
-      (iii) The unit of fare is:
-
-         A. One-fifth of a mile, when the Taxicab is traveling at 12 miles an hour or more; or
-
-         B. 60 seconds (at a rate of $.50 per minute), when the Taxicab is traveling at less than 12 miles an hour.
-
-      (iv) The Taximeter must combine fractional measures of distance and time in accruing a unit of fare. Any combination of distance or time specified in paragraph (iii) above must be computed by the Taximeter in accordance with Handbook 44 of the National Institute of Standards and Technology.
-
-      (v) The fare must include pre-assessment of the unit currently being accrued; the amount due can therefore include a full unit charge for a final, fractional unit.
-
-   (2) Surcharges. In addition to the metered rate of fare, Taxicabs will add the following surcharges, except where surcharges are specifically exempted:
-
-      (i) A rush hour surcharge of $1.00 for all trips beginning on a weekday after 4:00 P.M. and before 8:00 P.M.; this surcharge will not be applied on legal holidays
-
-      (ii) A nighttime surcharge of $.50 for all trips beginning after 8:00 P.M. and before 6:00 A.M.
-
-   (3) MTA Tax. The MTA Tax must be charged on any trip that starts in New York City and ends in any of the following:
-
-      (i) New York City
-
-      (ii) Dutchess County
-
-      (iii) Nassau County
-
-      (iv) Orange County
-
-      (v) Putnam County
-
-      (vi) Rockland County
-
-      (vii) Suffolk County
-
-      (viii) Westchester County
-
-(b) Flat Rates between Manhattan and Kennedy Airport.
-
-   (1) Flat Fare Rate between Manhattan and Kennedy Airport. The fare for a trip between Kennedy Airport and Manhattan will be a Flat Rate of $52, plus any tolls and applicable surcharges .
-
-      (i) A rush hour surcharge of $4.50 will be added to this Flat Rate for all trips beginning on a weekday after 4:00 p.m. and before 8:00 p.m. This surcharge will not be applied on legal holidays.
-
-      (ii) The MTA Tax must be charged in addition to the Flat Rate.
-
-      (iii) The Taximeter must reflect that this trip is a Flat Rate fare.
-
-   (2) Calculating Fare for Multiple Stops to Manhattan. If passengers request multiple stops on a trip from Kennedy Airport to Manhattan, the fare will be determined as follows:
-
-      (i) The first stop in Manhattan is paid as required by paragraph (1) of this subdivision.
-
-      (ii) The Taximeter is then turned on as if for a new trip and a new fare is calculated as a regular metered trip.
-
-      (iii) The total metered fare (plus any surcharge) is paid at the last stop by the remaining passenger.
-
-      (iv) No fare is due at the time any other passengers are dropped off between the first and last passenger.
-
-      (v) Example: if three passengers request stops at 42nd St., 18th St. and 4th St.:
-
-         A. $52.00 plus the MTA Tax and any applicable tolls or surcharges will be collected at 42nd St.
-
-         B. The Taximeter will be turned on at that point.
-
-         C. When the second passenger exits at 18th St., the Taximeter remains on and no money is paid to the Driver.
-
-         D. The passenger dropped off at 4th St. must pay the fare on the Taximeter.
-
-   (3) Metered Fare to Boroughs Other Than Manhattan. All trips between Kennedy Airport and a borough other than Manhattan are governed by the metered rate of fare as set forth in 35 RCNY § 58-26(a).
-
-   (4) Chairperson's Right to Suspend this Provision. The Chairperson is authorized to suspend the enforcement of this provision at any time, if in the judgment of the Chairperson such a suspension is necessary to preserve adequate levels of service to and from Kennedy Airport.
-
-(c) Group Ride Fares.
-
-   (1) Group Ride Fare from LaGuardia Airport. [Reserved.]
-
-   (2) Group Ride Fare from York Avenue. The fare for trips made under a Group Riding plan from York Avenue to the Financial District will be $6.00 per passenger. In addition, there can be a fee for dispatch services as the Commission determines.
-
-   (3) Group Ride Fare from the Port Authority Bus Terminal. The fare for trips made under a Group Riding plan from the Port Authority bus terminal at Eighth Avenue between 40th and 42nd Streets to the 59th Street and Sixth Avenue area will be $3.00 per passenger.
-
-   (4) Experimental Group Ride Programs.
-
-      (i) Additional Pickup Locations. The Chairperson can recommend for Commission approval additional Group Riding plan pickup locations on a temporary basis, to determine the effectiveness of each Group Riding plan.
-
-      (ii) Demand-Driven Temporary Group Riding Plans. The Chairperson can also recommend for Commission approval additional Group Riding plans on a temporary basis to respond to demand created by special events or unique circumstances.
-
-      (iii) Duration. Any Group Ride plan established by the Commission under this subdivision will terminate one year after the date the plan was established, unless:
-
-         A. Final rulemaking has been enacted establishing the Group Riding plan location and rate of fare; or
-
-         B. The Commission has determined that it is in the best interest of the Commission to extend the Group Riding plan pilot program for an additional definite period of time not to exceed one year.
-
-      (iv) Termination. The Commission can discontinue any Group Riding plan that has not been the subject of final rulemaking upon a determination that continuation of the plan is not in the best interest of the public.
-
-   (5) MTA Tax. In a group ride, one passenger will pay the MTA Tax. The fare for that passenger will be reduced by the amount of the MTA Tax. All passengers will pay the same total amount. (Example: If three passengers are taking a group ride for which the fare is $6.00 per person, the fare will be adjusted so that the total fare for all three passengers equals $17.50 plus the $.50 MTA Tax.)
-
-(d) Trips Beyond the City.
-
-   (1) For a trip beyond the limits of the City of New York, except for Westchester or Nassau County, or Newark Airport, the fare will be a Flat Rate. The MTA Tax must be added to the Flat Rate for any trip that starts in New York City and ends in any of the following:
-
-      (i) Dutchess County
-
-      (ii) Orange County
-
-      (iii) Putnam County
-
-      (iv) Rockland County
-
-      (v) Suffolk County.
-
-   (2) For a trip to Westchester or Nassau County the fare will be the sum of the following amounts:
-
-      (i) The amount shown on the Taximeter for that portion of the trip that is inside the City limits, plus
-
-      (ii) Twice the amount shown on the Taximeter for that portion of the trip that is outside the City limits, plus
-
-      (iii) All necessary tolls to and from the destination.
-
-      (iv) The MTA Tax must be added to the total fare.
-
-   (3) For a trip to Newark Airport the fare will be the sum of the following amounts:
-
-      (i) The amount shown on the Taximeter, plus
-
-      (ii) A surcharge of $17.50, plus
-
-      (iii) All necessary tolls to and from the destination.
-
-   (4) Any continuous trip where the point of origin and the destination are both within the limits of the City of New York will not be considered a trip beyond the City limits, even though the shortest and most direct route requires traveling outside the City limits but within continuous counties. The Taximeter must be kept in the recording position throughout the trip.
-
-(e) No Charge for Luggage or Mobility Aids. There will be no charge for:
-
-   (1) Steamer trunks or other luggage or belongings;
-
-   (2) Wheelchairs, crutches, three-wheeled motorized scooters and other mobility aids transported in the interior of the Taxicab;
-
-   (3) Use of the Taxicab's trunk.
-
-(f) Tolls – How Tolls are Paid.
-
-   (1) All Taxicabs must be equipped with a New York MTA Bridges &amp; Tunnels EZ-Pass®. (See 35 RCNY § 58-27)
-
-   (2) When a Taxicab drives through a toll plaza with an EZ-Pass®, the MTA Bridges &amp; Tunnels automatically deducts the cost of the toll from an account maintained by the EZ-Pass® tag holder.
-
-   (3) Passengers must pay for the toll, but are only required to pay the actual amount (often a discounted toll) charged to the EZ-Pass®.
-
-   (4) Drivers must collect the proper toll amount from the passenger and forward it to the holder of the EZ-Pass® tag.
-
-(g) Tolls – What Tolls are Paid by Passenger.
-
-   (1) On all trips within the City of New York, the passenger must pay:
-
-      (i) All tolls incurred driving to the passenger's destination
-
-      (ii) No tolls for the Driver's return trip, except for trips over:
-
-         A. The Cross Bay Veterans Bridge
-
-         B. The Marine Parkway – Gil Hodges Memorial Bridge.
-
-   (2) On trips beyond the City of New York, the passenger must pay all necessary tolls to and from the destination.
-
-   (3) A Driver who charges a passenger more than the actual amount of the EZ-Pass® toll is guilty of an overcharge as prohibited by 35 RCNY § 80-17.
-
-   (4) A Driver who fails to reimburse an EZ-Pass® tag holder for all toll charges incurred, including toll charges for which there is no passenger reimbursement, will be subject to the provisions of 35 RCNY § 80-15(d)(4).
-
-   (5) In addition to any other penalty permitted, the Commission can order restitution to a passenger or the EZ-Pass® tag holder.
-
-(h) Credit/Debit Card Rules.
-
-   (1) An Owner who is a merchant is not permitted to charge the Driver a pass-along or deduction from the total credit/debit charges incurred during the Driver's shift. An Owner who is a merchant must pay to a Driver all fares paid by credit card.
-
-   (2) Merchants are not permitted to charge a pass-along to any passenger for credit/debit card transactions.
-
-   (3) An Owner or Agent who or which is collecting the credit card surcharge authorized by 35 RCNY § 58-21(c)(5)(xi) must ensure that a Driver is not charged any additional credit card charges, or must reimburse the driver for any such additional charges, including any credit card charges imposed on the driver by the Technology System Provider.
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 58-26(h) (3)
-      - Fine: $500
-      - Appearance NOT Required
-~
-
-
-
- 
-
-(i) Beginning on January 1, 2015, the Taxicab Improvement Surcharge must be collected in addition to any fare charged under subdivisions (b) through (d) of this Section.
-
-(j) E-Payments.
-
-   (1) The payment for the fare for any trip paid for using an E-Payment must not exceed Commission-approved rates, plus an optional tip.
-
-   (2) The fare must be calculated as required by these rules and the Taximeter must be used for all trips, including trips paid for by E-Payment. Any fare paid for by E-Payment must be calculated by the Taximeter and not by any other method.
-
-   (3) The itemized fare amount charged to the Passenger must be automatically transmitted to the E-Hail Application from the Technology System or the Taximeter, and relevant payment data necessary to obtain a complete trip record must be transmitted from the E-Hail Application to the Technology System. Manual input of the fare by the Driver or any other person into the E-Hail Application is not permitted.
-
-
-
-
-
-
-
-
-*§ 58-27 Operations – EZ-Pass® Required.* ::
-
-
-EZ-Pass
-									® Required. 
-
-(a) EZ-Pass® Account. All Owners must participate in the EZ-Pass® New York Program by maintaining a current account with the Metropolitan Transportation Authority, Triborough Bridge and Tunnel Authority ("MTA Bridges and Tunnels" or "MTA B&amp;T").
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 58-27(a)
-      - Fine: $100 and suspension until compliance
-      - Appearance Required
-~
-
-
-
- 
-
-(b) EZ-Pass®Tags Required on all Taxicabs.
-
-   (1) Owners must either:
-
-      (i) Equip all of Owner's Taxicabs with an MTA Bridges and Tunnels EZ-Pass® tag, each of which must be attached as required by MTA B&amp;T, or
-
-      (ii) Allow a Driver to use his or her personal EZ-Pass® tag.
-
-   (2) Owners must have available at least one MTA Bridges and Tunnels tag for each of their Medallions.
-
-   (3) Owners must maintain a sufficient balance in their EZ-Pass® account, according to what is required by the program.
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 58-27(b)
-      - Fine: $100 and suspension until compliance
-      - Appearance Required
-~
-
-
-
- 
-
-(c) Driver Provides EZ-Pass® Tag.
-
-   (1) A Driver can choose to use his or her own EZ-Pass® tag.
-
-   (2) If a Driver uses his or her own EZ-Pass®, the Driver keeps the toll money paid by the passenger, or is reimbursed the amount of the toll(s) if the passenger pays by credit or debit card.
-
-(d) Owner Provides EZ-Pass® Tag.
-
-   (1) Funds Accrue to Owner. When an Owner provides the EZ-Pass® tag, the Driver must ensure that all of the monies paid by a passenger for toll(s) accrue to the Owner.
-
-      (i) If the customer pays by cash, the Driver will forward the money to the Owner at the end of his or her shift or at the end of his or her lease.
-
-      (ii) If the customer pays by credit or debit card, the Owner will retain any amount paid for toll(s).
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 58-27(d)(1)
-      - Fine: $250
-      - Appearance Required
-~
-
-
-
- 
-
-   (2) Owner can Require Driver to Maintain a "Replenishment" Account.
-
-      (i) An Owner who is the EZ-Pass® tag holder can require a Driver who is Dispatched in one of Owner's Taxicabs for one or more shifts to maintain an EZ-Pass® replenishment account with the Owner.
-
-      (ii) The Owner can require a Driver to maintain a maximum of $10 for every 12-hour shift included within a lease period, up to a maximum of $100, in the replenishment account for the benefit of Owner.
-
-      (iii) The Owner can collect from this account any tolls paid by the Owner's EZ-Pass® account for a tag assigned to a Taxicab operated by the Driver, for which the Owner has not been reimbursed.
-
-      (iv) Any funds held in the replenishment account that are not used to reimburse the Owner must be returned to a Driver within 30 days after the termination of the Driver's lease with the Owner.
-
-      (v) An Agent has the same rights and obligations as Owner under this 35 RCNY § 58-27(d)(2).
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 58-27(d)(2)
-      - Fine: $250 plus restitution to the Driver of any replenishment account improperly retained by an Owner or Agent
-      - Appearance Required
-~
-
-
-
- 
-
-
-
-
-
-
-*§ 58-28 Operations – Miscellaneous Requirements.* ::
-
-
-(a) Lost Property – Police Notification. Passenger lost property found in a Taxicab must be taken without delay to the police precinct in which the garage is located unless it can be returned to its rightful owner within a reasonable time.
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 58-28(a)
-      - Fine: $25 - $250
-      - Appearance Required
-~
-
-
-
- 
-
-(b) Lost Property – Notify the Commission. The Taxicab Owner must promptly inform the Commission of any property that has been taken to a police precinct as required by 35 RCNY § 58-28(a).
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 58-28(b)
-      - Fine: $25
-      - Appearance NOT Required
-~
-
-
-
- 
-
-(c) No Solicitation.
-
-   (1) When a Taxicab is operating, Owners must not allow any service or merchandise to be sold or advertised to any passenger.
-
-   (2) An Owner must not make any arrangement with an owner, manager or employee of any restaurant, bar, night club, cabaret, dance hall, hotel, or any similar place, in which the Driver agrees to solicit or recommend patronage for such places, without prior written approval of the Commission.
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 58-28(c)
-      - Fine: $50 - $200
-      - Appearance Required
-~
-
-
-
- 
-
-(d) No Disruption of Pedestrian or Vehicular Traffic. An Owner must not Dispatch a Taxicab from a public street or other public area if the Dispatch will prevent the flow of pedestrians or vehicular traffic, or cause inconvenience or annoyance to the public.
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 58-28(d)
-      - Fine: $100
-      - Appearance NOT Required
-~
-
-
-
- 
-
-
-
-
-
-
-*§ 58-29 Vehicle Condition – Inspections.* ::
-
-
-(a) Required Inspections. No new or replacement Taxicab can operate for hire unless it has been inspected and approved by the Commission.
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 58-29(a)
-      - Fine: $100 and seizure of the vehicle
-      - Appearance NOT Required
-~
-
-
-
- 
-
-(b) Tri-Annual Inspection. An Owner must have his Taxicab inspected every four months at a date and time designated by the Commission and at any other time deemed necessary by the Commission. The License of an Owner whose Taxicab is not timely inspected will be summarily suspended.
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 58-29(b)
-      - Fine: (penalties below are cumulative)0 - 30 days past inspection due date:$100 and Suspension until compliance31 - 60 days past inspection due date:$100 - $250 and Suspension until compliance61 - 120 days past inspection due date:$250 - $500 and Suspension until complianceMore than 120 days past inspection due date: $500 and/or revocation.
-      - Appearance Required
-~
-
-
-
- 
-
-(c) Components of Taxicab Inspections. A Taxicab inspection consists of (1) inspection to verify compliance with the inspection items required by Section 301 of the New York State Vehicle and Traffic Law, (2) visual inspection of the interior and exterior of the Taxicab to verify compliance with these Rules, and (3) inspection to verify compliance with any other applicable laws, rules and requirements. If a Taxicab fails any component of the inspection, it must be reinspected until it passes all components of the inspection.
-
-
-
-
-
-
-*§ 58-30 Vehicle Condition – Meet Safety Standards.* ::
-
-
-(a) While a taxicab is in operation, all equipment, including brakes, tires, lights and signals must be in good working order and meet all requirements of the New York State Vehicle and Traffic Law, and the Rules of the Commission.
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 58-30(a)
-      - Fine: $150 if plead guilty before a hearing; $200 if found guilty following a hearing.
-      - Appearance NOT Required
-~
-
-
-
- 
-
-(b) An Owner must comply with all notices and directives to correct defects in Taxicabs.
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 58-30(b)
-      - Fine: $50 and suspension until the defective condition is corrected.
-      - Appearance N/A
-~
-
-
-
- 
-
-(c) An Owner must repair or replace a Taxicab when the Commission determines that the vehicle is unsafe or unfit for use as a Taxicab and directs the Owner to remove it from service. The Owner must surrender the Medallion and Rate Card to the Commission for storage and the License will be summarily suspended.
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 58-30(c)
-      - Fine: $100 - $350 and/or suspension up to 30 daysSuspension until compliance
-      - Appearance N/A
-~
-
-
-
- 
-
-
-
-
-
-
-*§ 58-31 Vehicle Condition – Miscellaneous.* ::
-
-
-(a) Clean. The Taxicab's exterior and interior must be clean.
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 58-31(a)
-      - Fine: $50 if plead guilty before a hearing; $75 if found guilty following a hearing.
-      - Appearance NOT Required
-~
-
-
-
- 
-
-(b) Trunk. The trunk compartment must be capable of securely holding passengers' baggage.
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 58-31(b)
-      - Fine: $75
-      - Appearance NOT Required
-~
-
-
-
- 
-
-(c) Shoulder Belts.
-
-   (1) Every Taxicab must be equipped with shoulder belts for both outside front seat positions and both outside rear seat positions.
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 58-31(c)(1)
-      - Fine: $100 - $250
-      - Appearance Required
-~
-
-
-
- 
-
-   (2) All seat belts and shoulder belts must be clearly visible, accessible and in good working order. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 58-31(c)(2)
-      - Fine: $100 - $250
-      - Appearance Required
-~
-
-
-
- 
-
-(d) No Alterations. An Owner will make no structural change in a Taxicab or in an OTV that deviates from the Taxicab specifications set forth in 35 RCNY Chapter 67 without the Commission's written approval.
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 58-31(d)
-      - Fine: $100
-      - Appearance NOT Required
-~
-
-
-
- 
-
-(e) No Physical Movement of Medallion. An Owner must not affix, remove or transfer a Medallion to a new or replacement vehicle without prior authorization of the Commission, except that an Owner can affix additional bolts to a Medallion in order to further secure it.
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 58-31(e)
-      - Fine: $100 - $350 and/or suspension up to 30 days
-      - Appearance Required
-~
-
-
-
- 
-
-(f) Medallion Number on Roof Light. The Medallion number on the front and rear of the Roof Light must be clean and unobstructed so that the Medallion number is plainly visible.
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 58-31(f)
-      - Fine: $50 if plead guilty before a hearing; $75 if found guilty following a hearing.
-      - Appearance NOT Required
-~
-
-
-
- 
-
-(g) Illumination. When a Taxicab is in operation for hire after sunset, the following items must be illuminated so that they are clearly visible from the rear seat:
-
-   (1) The face of the Taximeter
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 58-31(g)(1)
-      - Fine: $25
-      - Appearance NOT Required
-~
-
-
-
- 
-
-   (2) The TLC Driver License
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 58-31(g)(2)
-      - Fine: $200
-      - Appearance Required
-~
-
-
-
- 
-
-   (3) The Rate Card
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 58-31(g)(3)
-      - Fine: $200
-      - Appearance Required
-~
-
-
-
- 
-
-(h) Lighting Control. The dashboard dimmer switch or any other device must not control the candlepower of the Roof Light, Taximeter light, card frame light or interior lighting.
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 58-31(h)
-      - Fine: $50 - $350 and/or suspension up to 30 days
-      - Appearance Required
-~
-
-
-
- 
-
-
-
-
-
-
-
-
-*§ 58-32 Vehicle – Markings &amp; Advertising.* ::
-
-
-(a) Approved Exterior Markings.
-
-   (1) An Owner of a Taxicab must apply to the exterior of the Taxicab markings approved by the Commission.
-
-   (2) An Owner of a Taxicab must obtain the approved Taxicab markings from a person or entity authorized by the Commission to print and distribute the decals. A depiction of the decals and a list of persons authorized to print and distribute the decals will be available on the Commission's website and/or through other means determined by the Commission and announced on its website.
-
-   (3) Authorized Stand-by vehicles must display SBV number decals in lieu of the Medallion number decals.
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 58-32(a)(1)-(3)
-      - Fine: $75
-      - Appearance NOT Required
-~
-
-
-
- 
-
-(b) Approved Emblems.
-
-   (1) An Owner must not display emblems on the Taxicab exterior, other than an emblem identifying:
-
-      (i) The Owner
-
-      (ii) An association of Owners
-
-      (iii) A Taxicab Drivers' union
-
-      (iv) The Taxicab manufacturer
-
-   (2) These emblems must conform to the Marking Specifications for Taxicabs and will be subject to the approval of the Commission.
-
-   (3) No more than two of the same emblem can be displayed on a Taxicab, unless otherwise authorized by the Commission.
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 58-32(b)(1)-(3)
-      - Fine: $200
-      - Appearance Required
-~
-
-
-
- 
-
-(c) Other Approved Markings. An Owner must not display any lettering, emblem, advertising or marking of any kind on the exterior of a Taxicab, including windows and exterior accessories, unless authorized by the Commission, except for the following:
-
-   (1) Markings, inscriptions and/or advertising specifically permitted or authorized by the Commission.
-
-   (2) Advertising that is authorized by the Commission on the Vehicle's Rate Card and for which the Owner has obtained a permit from the Commission
-
-   (3) Accessible Taxicab Insignia.
-
-      (i) The design for insignia that will identify the vehicle as an Accessible Taxicab will be provided by the Commission on its website or through other means presented on its website.
-
-      (ii) These insignia must be located on the exterior of the C-pillars of a sedan or an SUV or on the exterior of the D-pillars of a minivan, on both sides of the accessible Taxicab, and will be visible to passengers entering the accessible Taxicab.
-
-   (4) Clean Air Taxicab Insignia.
-
-      (i) The design for insignia that will identify the vehicle as a Clean Air Vehicle will be provided by the Commission on its website or though other means presented on its website.
-
-      (ii) These insignia must be located on the exterior of the C-pillars of a sedan or an SUV or on the exterior of the D-pillars of a minivan, on both sides of such Taxicab, and will be visible to passengers entering the clean air Taxicab.
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 58-32(c)
-      - Fine: $50 if plead guilty before a hearing; $75 if found guilty following a hearing.
-      - Appearance NOT Required
-~
-
-
-
- 
-
-(d) Maintain in Good Condition. Required inscriptions and markings must be maintained in good condition.
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 58-32(d)
-      - Fine: $75
-      - Appearance NOT Required
-~
-
-
-
- 
-
-(e) Commercial Use Tax Stamp. An Owner must affix a current New York City commercial use motor vehicle tax stamp to the lower right side of the Taxicab windshield so as to be plainly visible.
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 58-32(e)
-      - Fine: $200
-      - Appearance Required
-~
-
-
-
- 
-
-(f) Approved Interior Markings. An Owner must not display inside a Taxicab any advertising or other notice not specifically authorized by these rules or the Commission's Marking Specifications for Taxicabs unless approved by the Commission, except for the following:
-
-   (1) Industry signage/logos of all credit/debit cards accepted by the Technology System, all of equal size; and
-
-   (2) Advertising on the Technology System as set forth below in the Taxicab Marking Specifications table (35 RCNY § 58-32(i)) and in 35 RCNY § 67-15(d). 
-									
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 58-32(f)(2)
-      - Fine: $50
-      - Appearance NOT Required
-~
-
-
-
- 
-
-(g) Braille and Raised Lettering Plaques. An Owner must equip all Taxicabs with both of the following:
-
-   (1) A Taxicab Identification Braille Plaque.
-
-      (i) This plaque must be made of .040 gauge aluminum with a matte finish and measure 3 1/4 inches in length and 1 3/4 inches in height, with radius corners.
-
-      (ii) The plaque must state, in Raster Braille grade two:
-
-         A. The Medallion number centered on the first line,
-
-         B. The word "COMPLAINTS" centered on the second line, and
-
-         C. The telephone number "212 NYC TAXI" centered on the third line.
-
-      (iii) The plaque must be permanently affixed on the door armrest of the horizontal plane of the right rear door, or another location approved by the Chairperson.
-
-   (2) A Taxicab Identification Raised Lettering Plaque.
-
-      (i) This plaque must be made of 1/8-inch thick black acrylic plastic and measure 11 inches in length and five inches in height, with radius corners and four holes (one in each corner) for attachment with screws.
-
-      (ii) The plaque must state, in one inch high white Helvetica lettering that is permanently affixed:
-
-         A. The Medallion number centered on the first line,
-
-         B. The word "COMPLAINTS" centered on the second line, and
-
-         C. The telephone number "212 NYC TAXI" centered on the third line with appropriate spacing between the three words.
-
-      (iii) The plaque must be permanently affixed on the rear of the front right passenger seat or partition, not more than six inches below the lexan or polycarbonate portion of the partition.
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 58-32(g)(2)
-      - Fine: $100. No penalty for missing plaque, if condition is corrected within forty-eight hours
-      - Appearance N/A
-~
-
-
-
- 
-
-(h) Special Markings for Clean Air Vehicles. Owners of a Clean Air Taxicab must display on the Taxicab's Personal Information Monitor information provided by the Commission that accomplishes the following:
-
-   (1) Identifies the Taxicab as a Clean Air Vehicle
-
-   (2) Includes the address of the Commission web page(s)
-
-   (3) Includes, to the extent practicable:
-
-      (i) Estimated air quality benefits associated with the use of the vehicle, and
-
-      (ii) The type of fuel used to power the vehicle.
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 58-32(h)
-      - Fine: $200
-      - Appearance Required
-~
-
-
-
- 
-
-(i) Marking Specifications for Taxicabs.
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - INSCRIPTION* 
-      - LOCATION 
-      - SIZE 
-~
-
-
-
-
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - (a) Rate of fare decals [Reserved]
-      -  
-      -  
-    * - (b) Taxicab logo decals (required) (Non-detachable type only.)
-      - Both front doors centered left to right and located in the upper half of the flat surface between the bottom edge of the door and the door handle.The base line of the Taxicab logo decal must be parallel to the bottom door edge.
-      - The size of the Taxicab logo decals must be determined by the Commission
-    * - (c) Medallion number (required)
-      - Front and rear of roof light.
-      - 2 3/4"to 3"high letters 1/2"thick.
-    * - (d)"Owner-Driver"(optional)
-      - Rear of taxi.
-      - 3"maximum height
-    * - (e) EMBLEMS (Optional) (1) Fleet Owner (2) Owner Association (3) Taxicab Drivers' Union insignia (4) Taxicab manufacturer
-      - On rear baggage compartment in lower right corner of deck lid. Consult the Commission if contour of lid requires another location on the lid.
-      - 2"high letters 1/4"thick. Avoid overcrowding
-    * - (f) Medallion number, interior (required). Can be one-piece decal or a stencil. The number must be of a color contrasting with the seat, to provide for easy legibility.
-      - On the back of the front seat.The top of the number must be located not more than two inches below the top of the front seat.
-      - Numbers and letter must be 3"minimum in height.
-    * - (g) Passenger Information Sign. (required) Must contain the information required by the Chairman or his designee.
-      - On the back of the front seat or on a safety partition, displayed in a manner that is clearly visible to the passengers in the back seat.If the taxi is equipped with a safety partition, the passenger information sign can be placed on the partition behind the Driver's head, but no higher than a headrest would be.
-      - Approximately 12"wide by 6"high.
-    * - (h)"Drivers Wanted"sign. Can include the telephone number of the Owner. (Optional)
-      - Rear of taxi.
-      - No more than 24"wide by 3"high.
-    * - (i)"If this taxi is parked for over 24 hours, please call Owner at (telephone number) .  .  ."(Optional)
-      - Rear of taxi or horizontal on dashboard.
-      - No more than 24"wide by 3"high.
-    * - (j) Telephone available, or similar language or symbol (optional)
-      - Exterior, on a door or a side window.
-      - 4"by 6", or smaller.
-    * - (k) Brand name Technology Service Provider
-      - On the bezel of the Technology System
-      - Not to exceed 1 1/4"in height and 4"in length
-    * - (l)"This vehicle is equipped with camera security. YOU WILL BE PHOTOGRAPHED."(Non-detachable decals only)
-      - On rear passenger window
-      - Letters must be at least one-half inch high.
-    * - (m) Medallion number decals (required). (Non-detachable decals only.)
-      - The decals must be applied to both rear quarter panels, just below the rear windows or following the line created by the bottom edge of the windows.On some vehicles, such as minivans, the Medallion number can be placed at the rear of the sliding door.
-      - The size of the Medallion number decals must be determined by the Commission.
-    * - (n) Checkerboard stripe decals [Reserved]
-      -  
-      -  
-    * - (o)"Drivers are not allowed to use cell phones or handheld electronics."Decal or sticker shall be issued by the Commission
-      - Interior of passenger compartment in a location plainly visible to passengers
-      - As issued by the Commission
-    * - (p)"Turning? People are Crossing."The sticker must be obtained pursuant to instructions posted on the Commission's website or through other appropriate means announced on the website. (required)
-      - On the inside of the front windshield, in the center and adjacent to the top of the windshield directly behind the rearview mirror, placed in such a manner not to obstruct the driver's view.
-      - 3.5"wide by 2.5"high.
-    * - (q)"The choices you make behind the wheel matter."The sticker may be obtained pursuant to instructions posted on the Commission's website or through other appropriate means announced on the website. (optional)
-      - On the rear bumper of the vehicle.
-      - 15"wide by 4"high.
-    * - (r)"ATTENTION: Assaulting A Driver Is Punishable By Up to Twenty-Five Years in Prison."The sticker must be obtained pursuant to instructions posted on the Commission website or through other appropriate means announced on its website. (required)
-      - In Taxicabs with a partition, the sticker will be placed above the braille plaque on the partition. In Taxicabs without a partition, the sticker will be placed in a frame on the passenger seat headrest.
-      - 8.0 x 2.0 inches.
-    * - (s) “Taxi and Limousine Drivers Are Protected By New York State Law ATTENTION: Assaulting a driver is punishable by up to twenty-five years in prison.” The sticker may be obtained pursuant to instructions posted on the Commission website or through other appropriate means announced on its website. (optional)
-      - On a rear passenger window.
-      - 3.5 x 3.5 inches.
-    * - (t) The decal will feature the International Symbol of Access for Hearing Loss, described as the profile of an ear with a wide diagonal line running from the bottom left to the top right. The symbol contrast shall be light on dark or dark on light. A"T"will be placed in the lower right-hand corner of each decal. The internal decal will include the language"Induction loop installed. Switch hearing aid to T-coil."
-      - The decal will be placed on the outside of each OTV on the B-pillar and on the inside of each OTV rear passenger compartment on the partition in a location plainly visible to passengers. For vehicles that are not OTVs but have Hearing Induction Loop technology, place as directed by the Chairperson.
-      - The exterior B-pillar decal will be 3.000 x 3.000 inches; the interior passenger compartment decal dimensions will be as issued by the Commission.
-~
-
- 
-
- * Detachable signs suspended from door frames are not permitted.
-
-
-
-
-
-
-
-
-*§ 58-33 Vehicles – Items Required in Vehicle.* ::
-
-
-(a) The following must be present in the Taxicab while it is in operation for hire:
-
-   (1) The Rate Card, in the Driver's License frame
-
-   (2) An insurance card or photocopy, unless the Owner is self insured and has noted this fact on the Rate Card along with any other information required by the Commission
-
-   (3) All other notices required to be posted in the Taxicab
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 58-33(a)(1)-(3)
-      - Fine: $25 for each not in vehicle, not to exceed $75 in the aggregate
-      - Appearance NOT Required 
-~
-
-
-
- 
-
-   (4) A means of collecting and recording all of the Trip Sheet data.
-
-
-
-
-
-
-
-
-*§ 58-34 Vehicle Equipment.* ::
-
-
-(a) Roof Light. A roof light is required on all Taxicabs, as required by the Hack-Up specifications in Chapter 67; the Taxicab Owner must ensure compliance with the following:
-
-   (1) Controlled by Taximeter. The Taxicab Roof Light must be automatically controlled by the operation of the Taximeter so that it is lighted only when the Taximeter is in an off position and unlighted when the Taximeter is in a recording position. An Owner must not tamper with the operation of the Taxicab's Roof Light.
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 58-34(a)(1)
-      - Fine: $50 - $350 and/or suspension up to 30 days
-      - Appearance Required
-~
-
-
-
- 
-
-(b) Optional Two-way Radio.
-
-   (1) A Taxicab can be equipped with a two-way radio only in the Citizens Radio Service and only on the forty frequencies, within allowed deviation, specifically authorized under the rules of the Federal Communications Commission.
-
-   (2) Emissions, transmission power and antenna length must comply with limits established by the rules of the Federal Communications Commission.
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 58-34(b)
-      - Fine: $100 - $350 And removal of radio
-      - Appearance N/A
-~
-
-
-
- 
-
-(c) Air Conditioning. Each Taxicab must be equipped with an operable air conditioning system; when the vehicle is also equipped with a partition, the air conditioning system must be able to provide cool air to the rear passenger area.
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 58-34(c)
-      - Fine: $50
-      - Appearance Required
-~
-
-
-
- 
-
-(d) Trouble Lights. An Owner must ensure that all Taxicabs bearing such Owner's Medallion(s) are equipped with a help or distress signaling light system meeting the requirements of 35 RCNY § 67-11.
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 58-34(d)
-      - Fine: $175 and suspension until the condition is corrected. Respondent must provide a condition corrected form issued by the TLC's Safety and Emissions Division.
-      - Appearance NOT Required
-~
-
-
-
- 
-
-(e) Optional Rooftop Advertising Fixture.
-
-   (1) An Owner may equip a Taxicab with an authorized Rooftop Advertising Fixture in accordance with 35 RCNY § 67-16.
-
-   (2) The Owner must remove a Rooftop Advertising Fixture if the TLC terminates such authorization in accordance with 35 RCNY § 67-16(e).
-
-   (3) An Owner must not use any rooftop advertising fixture unless the Owner has obtained a permit to use such a fixture
-
-   (4) An Owner can use only an authorized Rooftop Advertising Fixture.
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 58-34(e)(1)-(4)
-      - Fine: $200
-      - Appearance NOT Required
-~
-
-
-
- 
-
-   (5) An Owner shall be prohibited from installing any advertising material if a Vehicle Owner reasonably objects to the express or implied content of such material. A Vehicle Owner may, but cannot be compelled to, waive this right to object by providing an Owner a blanket prior written consent to all advertising material. If such Vehicle Owner does not waive this right, and there is a dispute with respect to such advertising, Owner and Vehicle Owner shall name a third party who shall decide any such dispute. If the Owner and Vehicle Owner cannot agree on who shall decide the dispute they may obtain the assistance of any alternate dispute resolution service with offices in the City of New York, the cost of which service will be equally shared by the Owner and the Vehicle Owner. The definition of Vehicle Owner for this paragraph includes the title owner of the Taxicab vehicle, or the long-term lessee of the Taxicab vehicle where the vehicle lease has a conditional purchase agreement for the vehicle.
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 58-34(e)(5)
-      - Fine: $150 for every thirty days the advertising material is posted on the taxicab, if plead guilty before a hearing; $200 for every thirty days the advertising material is posted on the taxicab, if found guilty following a hearing.
-      - Appearance NOT Required
-~
-
-
-
- 
-
-(f) Operable Rear Windows. An Owner must equip all Taxicabs with an operable rear window that meets the requirements of 35 RCNY § 67-08(c).
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 58-34(f)
-      - Fine: $75
-      - Appearance NOT Required
-~
-
-
-
- 
-
-(g) E-Hail Application Devices.
-
-   (1) A Taxicab may be equipped with or the Driver may utilize a device with an E-Hail Application installed. A Driver's use of an E-Hail Application is subject to the requirements of subdivision 35 RCNY § 80-14(g) except that a Driver may accept an E-Hail request with a single touch using pre-programmed buttons or using voice activation while the vehicle is in motion. Use of such device by a Driver is optional and an Owner cannot require a Driver to use an E-Hail Application. A Driver may use no more than one electronic device with an E-Hail Application, separate from the Technology System and/or a device provided for the Accessible Dispatch program.
-
-   (2) An Owner must not permit a Taxicab to be equipped with a device that allows a Driver to accept payment electronically other than:
-
-      (i) the Technology System, or
-
-      (ii) A device with a licensed E-Hail Application installed, which may only be used to process payment through the licensed E-Hail Application.
-
-   (3) The installation or mounting of any device with an E-Hail Application installed is subject to Commission approval. The installation or mounting of such device must not obstruct the Driver's view of the road, or the Driver or Passenger's view of the Taximeter. 
-									
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 58-34(g)
-      - Fine: $350 if plead guilty before a hearing; $500 if found guilty following a hearing.
-      - Appearance NOT Required
-~
-
-
-
- 
-
-(h) Dispatch equipment. An Accessible Taxicab is required to have Dispatch Equipment installed in the Vehicle.
-
-
-
-
-
-
-
-
-*§ 58-35 Vehicle Equipment – Partitions.* ::
-
-
-(a) Partition Required.
-
-   (1) A Taxicab must be equipped with a partition unless exempt from this requirement.
-
-   (2) An Owner must ensure that all Taxicabs, except as provided in subdivision (b) of this section, are equipped with a partition that meets the specifications set forth in 35 RCNY § 67-10, and with provision for air conditioning for the rear passenger compartment, as set forth in 35 RCNY § 67-14.
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 58-35(a)
-      - Fine: $300 and suspension until the condition is corrected
-      - Appearance Required
-~
-
-
-
- 
-
-(b) Exemption from Partition Requirement. A Taxicab Owner will be exempt from the provisions of subdivision (a) of this section provided the Taxicab is equipped with the following:
-
-   (1) The required Trouble Lights.
-
-   (2) A cellular telephone with an emergency dialing feature.
-
-   (3) An approved In-Vehicle Camera System that meets the requirements of 35 RCNY § 67-12.
-
-(c) Curtain Airbags Modification. (Not Applicable to Official Taxicab Vehicles or Accessible Official Taxicab Vehicles).
-
-   (1) A Taxicab with a partition that is equipped with factory installed curtain airbags will be equipped with a modified partition that does not extend the full width of the interior of the Taxicab.
-
-   (2) The modified partition instead must allow a space of six inches at each side, sufficient to permit proper deployment of the curtain airbags.
-
-   (3) The modified partition must conform in all other respects with the applicable requirements of 35 RCNY § 67-10.
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 58-35(c)
-      - Fine: $300 and suspension until the condition is corrected
-      - Appearance Required
-~
-
-
-
- 
-
-
-
-
-
-
-
-
-*§ 58-36 Vehicle Equipment – In Vehicle Camera System (IVCS).* ::
-
-
-(a) When an existing in-vehicle camera system is required to be replaced or when the system is installed, the Taxicab must be equipped with an IVCS that meets the specification of 35 RCNY § 67-12; the system must be installed and maintained by the manufacturer's authorized installer or a Taximeter Business that meets the requirements of 35 RCNY § 67-12; and the IVCS must be functioning and maintained in good working order. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 58-36(a)
-      - Fine: $350 if plead guilty before a hearing and supply a condition corrected form issued by TLC's Safety and Emissions Division; $450 if found guilty following a hearing. Suspension until the condition is corrected.
-      - Appearance NOT Required
-~
-
-
-
- 
-
-(b) Each Taxicab equipped with an IVCS must be equipped with a cellular telephone as set forth in subdivision (b) of this section. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 58-36(b)
-      - Fine: $50
-      - Appearance NOT Required
-~
-
-
-
- 
-
-(c) Each Taxicab equipped with an IVCS must display decals on each rear passenger window, visible to the outside, that contain the following information: "This vehicle is equipped with camera security. YOU WILL BE PHOTOGRAPHED." 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 58-36(c)
-      - Fine: $50
-      - Appearance NOT Required
-~
-
-
-
- 
-
-
-
-
-
-
-*§ 58-37 Vehicle Equipment – Taximeters.* ::
-
-
-(a) Taximeter Requirements. An Owner must equip the Taxicab with a Taximeter subject to the following conditions:
-
-   (1) The Taximeter must be of a make and type acceptable to the Commission. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 58-37(a)(1)
-      - Fine: $50
-      - Appearance NOT Required
-~
-
-
-
- 
-
-   (2) The Taximeter’s fare indicating mechanism must be affixed to the vehicle's dashboard so that it is clearly readable and visible to all passengers in the vehicle. 
-									
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 58-37(a)(2)
-      - Fine: $50
-      - Appearance NOT Required
-~
-
-
-
- 
-
-   (3) The Taximeter's serial number or software version number must be the same as that shown on the Rate Card assigned to the Taxicab; or entered on the Rate Card by a Licensed Taximeter shop. 
-									
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 58-37(a)(3)
-      - Fine: $500
-      - Appearance NOT Required
-~
-
-
-
- 
-
-   (4) The Taxicab tire size must be the same as that for which the Taximeter is calibrated, as indicated by the Rate Card. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 58-37(a)(4)
-      - Fine: $50
-      - Appearance NOT Required
-~
-
-
-
- 
-
-   (5) All Taximeter seals must be installed by a Licensed Taximeter repair shop or agent of the Commission. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 58-37(a)(5)
-      - Fine: $500
-      - Appearance Required
-~
-
-
-
- 
-
-   (6) The wiring harness leading from the Taximeter to the speed sensor must have no unapproved intervening connectors, splices, "Y" connections, or direct or indirect interruptions or connections of any kind whatsoever. 
-									
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 58-37(a)(6)
-      - Fine: $500
-      - Appearance Required
-~
-
-
-
- 
-
-(b) Accuracy of Taximeter. A Taxicab must be equipped with a Taximeter that is in good working condition and will accurately compute the rate of fare currently established by the Commission. Penalties for violation are as follows:
-
-   (1) 1% Inaccurate. The penalty is $50, if the Taximeter is found to be at least 52.8 feet (one percent) inaccurate, but less than 264 feet (five percent) inaccurate in computing distance, or more than one percent but less than five percent inaccurate in computing time.
-
-   (2) 5% Inaccurate. The penalty is $200, if the Taximeter is found to be at least 264 feet (five percent) inaccurate but less than 528 feet (ten percent) inaccurate in computing distance, or more than five percent but less than ten percent inaccurate in computing time.
-
-   (3) 10% Inaccurate. The penalty is $300, if the Taximeter is found to be at least 528 feet (ten percent) inaccurate in computing distance or ten percent inaccurate in computing time, for a first violation.
-
-   (4) Repeated 10% Inaccuracy. The penalty is $600, if the Taximeter is found to be at least 528 feet (ten percent) inaccurate in computing distance or ten percent inaccurate in computing time, for a second or subsequent violation within thirty-six months.
-
-
-
-
-
-
-
-
-*§ 58-38 Vehicle Equipment – Taximeter Defects.* ::
-
-
-(a) No Defects in Taximeter or Installation. A Taxicab must not be in service for hire with a defective Taximeter or a Taximeter that has been improperly installed.
-
-(b) Repair or Replace Defective Taximeter. Whenever a Taximeter or its installation is defective or whenever a Taximeter computes an inaccurate rate of fare, the Owner must have the Taximeter:
-
-   (1) Repaired, tested and certified at a licensed Taximeter Business, or
-
-   (2) Replaced by the Taximeter Business with an approved Taximeter that has been inspected, tested and sealed;
-
-(c) Assembly Must be Certified. After repair or replacement of the Taximeter, the Taximeter/vehicle assembly must be tested and certified in compliance with Commission regulations. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 58-38(a)-(c)
-      - Fine: $100
-      - Appearance NOT Required
-~
-
-
-
- 
-
-(d) Repairs by Licensed Agent. No adjusted, repaired or recalibrated Taximeter or appurtenance of a Taximeter can be installed in a Taxicab unless the adjustment, repair or recalibration was done at a licensed Taximeter repair shop or other authorized facility; the Owner is responsible for any installation that violates this rule. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 58-38(d)
-      - Fine: $75
-      - Appearance NOT Required
-~
-
-
-
- 
-
-
-
-
-
-
-*§ 58-39 Vehicle Equipment – Taximeter Tampering.* ::
-
-
-(a) Unauthorized Tampering. Unless authorized by the Commission, no person will tamper with, alter, repair or attempt to repair any portion of the Taximeter system that would affect the operation of the Taximeter or the Technology System, including, but not limited to:
-
-   (1) The Taximeter
-
-   (2) The Technology System
-
-   (3) Any seal affixed to the Taxicab by a licensed Taximeter repair shop or other authorized facility
-
-   (4) Any cable connection, cable system electrical wiring, or wireless connections
-
-   (5) The vehicle's mechanism or its tires.
-
-(b) Owner's Responsibility. The Owner is responsible for any tampering, alteration or any unauthorized repair or attempt to repair. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 58-39(a) &amp; (b)
-      - Fine: $250 - 1,500 and/or suspension up to 30 days. suspension until compliance under to 35 RCNY § 68-16
-      - Appearance N/A
-~
-
-
-
- 
-
-(c) Owner's Defense. It will be an affirmative defense to a violation of this section that the Owner:
-
-   (1) Did not know of or participate in the alleged tampering of the Taximeter or Technology System; and
-
-   (2) Exercised due diligence to ensure that tampering with the Taximeter or Technology System does not occur. Examples of an Owner's due diligence include, but are not limited to:
-
-      (i) Clearly warning Drivers that if they violate the Taximeter or Technology System tampering rules, Owner will:
-
-         A. Immediately terminate any lease agreement Owner has with the Driver; and
-
-         B. Report the tampering violation to the Commission, which will result in the probable revocation of their TLC Driver License;
-
-      (ii) Including the warning against violating the Taximeter and Technology System tampering rules as a provision in any written lease agreement;
-
-      (iii) Stamping the warning against violating the Taximeter and Technology System tampering rules on any written Trip Records whenever paper Trip Records must be issued to one or more Taxicab Drivers;
-
-      (iv) Conducting periodic random comparisons of the odometer and the Taximeter mileage readings of a Taxicab to check for any inappropriate disparities;
-
-      (v) Conducting periodic random inspections of the Taximeter and the Technology System in all the Owner's Taxicabs to detect any evidence of tampering; and
-
-      (vi) Having all of the Owner's Taxicabs inspected by a licensed Taximeter shop once every inspection cycle.
-
-(d) Notify the Commission of Tampered, Unauthorized or Removed Taximeter. An Owner must notify the Commission by telephone immediately, and in writing within 24 hours, upon discovering any of the following:
-
-   (1) Any Taximeter other than the Taximeter approved by the Commission (as indicated on the Rate Card) has been installed in the Owner's Taxicab;
-
-   (2) Any Taximeter seal in the Owner's Taxicab has been removed or tampered with;
-
-   (3) Any unauthorized device has been connected to any Taximeter, any seal, cable connection or electrical wiring, in the Owner's Taxicab, which can affect the operation of the Taximeter;
-
-   (4) Any intervening connections, splices, "Y" connections or direct or indirect interruptions or connections of any kind whatsoever have been discovered on any wiring harness attached to the Taximeter in the Owner's Taxicab. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 58-39(d) (1)-(4)
-      - Fine: $500 - $1,000 and/or suspension up to 60 days or revocation
-      - Appearance Required
-~
-
-
-
- 
-
-(e) Inspections by Authorized Person.
-
-   (1) A Taxicab's Taximeter must be tested for accuracy over a measured mile course and its installation must be tested for compliance with the rules of the Commission.
-
-   (2) Only personnel authorized by the Commission can perform these tests.
-
-   (3) These two inspections must be completed and the results of the tests indicated on the Rate Card in each of the following circumstances:
-
-      (i) At least once every 12 months. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 58-39(e)(3)(i)
-      - Fine: $150 if plead guilty before a hearing; $200 if found guilty following a hearing.
-      - Appearance NOT Required
-~
-
-
-
- 
-
-      (ii) Whenever a Taximeter is installed in a vehicle or a Taximeter’s metrological system is updated. 
-									
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 58-39(e)(3)(ii)
-      - Fine: $100
-      - Appearance NOT Required
-~
-
-
-
- 
-
-      (iii) When the transmission or differential is altered, repaired or replaced 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 58-39(e)(3)(iii)
-      - Fine: $50
-      - Appearance NOT Required
-~
-
-
-
- 
-
-      (iv) When a change is made in any other part of the Taxicab that can affect the Taximeter reading 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 58-39(e)(3)(iv)
-      - Fine: $50
-      - Appearance NOT Required
-~
-
-
-
- 
-
-      (v) At any other time required by the Commission. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 58-39(e)(3)(v)
-      - Fine: $100
-      - Appearance NOT Required
-~
-
-
-
- 
-
-
-
-
-
-
-
-
-*§ 58-40 Vehicle Equipment – Technology System Installation.* ::
-
-
-(a) Required Installation. Owners must ensure that all of their Taxicabs are equipped with a Technology System provided by a licensed Technology System Provider, and otherwise meet the requirements of these provisions.
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 58-40(a)
-      - Fine: $1,000 and suspension until compliance
-      - Appearance Required
-~
-
-
-
- 
-
-(b) E-Hail Application. Any licensed E-Hail Application that provides for E-Payment used in a Taxicab must integrate with the Technology System or Taximeter. Owner must not allow any E-Hail Application to be used to process payment that is not a licensed E-Hail Application. 
-									
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 58-40(b)
-      - Fine: $350 if plead guilty before a hearing; $500 if found guilty following a hearing.
-      - Appearance NOT Required
-~
-
-
-
- 
-
-
-
-
-
-
-
-
-*§ 58-41 Vehicle Equipment – Technology System Operation.* ::
-
-
-(a) Good Working Order. Owners must ensure that the Technology System equipment is constantly maintained and is in good working order. 
-									
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 58-41(a)
-      - Fine: $150 if plead guilty before a hearing and supply a condition corrected form issued by TLC’s Safety and Emissions Division; $200 if found guilty following a hearing. Suspension until the condition is corrected.
-      - Appearance NOT Required
-~
-
-
-
- 
-
-(b) Failure to Operate.
-
-   (1) If the Technology System malfunctions or fails to operate, an incident report must be filed with the licensed Technology System Provider within two hours following the discovery of the malfunction.
-
-   (2) If the Driver or Owner’s Agent filed the incident report, the Owner will not be required to file a separate incident report but must verify the filing by obtaining the incident report number.
-
-   (3) The Owner or Owner’s Agent must meet the appointment for repair scheduled by the Technology System Provider following the incident report.
-
-(c) 48-Hour Repair Deadline. A Taxicab in which any material feature of the Technology System is not functioning must not operate more than 48 hours following the timely filing of an incident report. 
-									
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 58-41(c)
-      - Fine: $250 and suspension until compliance
-      - Appearance Required
-~
-
-
-
- 
-
-(d) Inspection upon Multiple Technology System Malfunctions. The Owner of any Taxicab requiring six or more repairs of the Technology System in any 30 day period must promptly take the vehicle for inspection to, or schedule an inspection with, the Commission’s Safety and Emissions Facility. This requirement will not apply to the Owner if compliance is made by the Driver or Agent of the vehicle. 
-									
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 58-41(d)
-      - Fine: $250
-      - Appearance Required
-~
-
-
-
- 
-
-
-
-
-
-
-
-
-*§ 58-42 Vehicles – Use of Stand-by Vehicles (SBV).* ::
-
-
-(a) Who Can Use. Only a Fleet can maintain and use Stand-By Vehicles.
-
-(b) When Used. A Stand-by Vehicle can be used in place of a currently Licensed Taxicab only in the following circumstances and for the length of time indicated below:
-
-   (1) When the currently Licensed Taxicab is out of service for repairs or for required inspection, until the repairs or inspection have been completed
-
-   (2) When a Vehicle has been stolen, for no more than 30 days after the date stolen
-
-   (3) When a vehicle has been permanently retired from service, for no more than 30 days from the date of retirement.
-
-(c) Maximum Number of Stand-By Vehicles. A Fleet can maintain Stand-by Vehicles equal to 10% of the total number of current Medallion Taxicabs owned or operated by the Fleet.
-
-(d) Medallion to be Transferred to Stand-By Vehicle. When a Stand-by Vehicle is Dispatched, the Medallion and Medallion number in the Roof light of the out-of-service Taxicab must be transferred to the Stand-by Vehicle.
-
-(e) Required in the Stand-By Vehicle. A Stand-by Vehicle must not be Dispatched unless the SBV transfer form and the SBV Rate Card are present in the vehicle. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 58-42(a)-(e)
-      - Fine: $50 - 350 and/or suspension up to 30 days.
-      - Appearance Required
-~
-
-
-
- 
-
-
-
-
-
-
-*§ 58-43 Medallion Transfers – Overview.* ::
-
-
-(a) Applicability of the "Medallion Transfer" Sections.
-
-   (1) The "Medallion Transfers" sections of this Chapter, along with "Licensing" 35 RCNY § 58-04 and 35 RCNY § 58-05, establish the rules for all Transfers of a Taxicab Medallions between/among private parties, either by:
-
-      (i) Purchase
-
-      (ii) Gift
-
-      (iii) Bequest, or
-
-      (iv) Operation of law.
-
-   (2) These provisions do not apply to the sale or resale of Medallions by the Commission, as described in 35 RCNY Chapter 65.
-
-   (3) Except where the provisions specifically reference Secured Lenders, these provisions do not apply to Secured Lender Recipients.
-
-(b) Overview of Requirements to Complete and Effect Transfer. The transfer of an interest in a Taxicab Medallion will be complete and effective upon all of the following:
-
-   (1) Commission Approval. Commission approval of the Transferee's application
-
-   (2) Proper Appearances. All persons described in 35 RCNY § 58-44(a) below must appear before the Commission.
-
-   (3) Transfer Tax Payment. A Transferee of a Taxicab Medallion must satisfy his or her transfer tax liability as determined by the NYC Department of Finance, prior to or at the time of transfer.
-
-   (4) Fulfillment of the Licensing Requirements. The parties to the transfer must fulfill the Licensing requirements set forth in 35 RCNY § 58-04 and 35 RCNY § 58-05.
-
-   (5) Fulfillment of Tort Liability Requirements. The parties to the transfer must fulfill the Tort Claim liability requirements set forth in 35 RCNY § 58-47, below.
-
-   (6) Fulfillment of the Medallion Clearance Requirements. The parties to the transfer must fulfill the applicable Medallion Clearance Requirements set forth in 35 RCNY § 58-46 below.
-
-   (7) Medallion Put into Service. Each Transferee, as well as any Administrator seeking to operate a Medallion under 35 RCNY § 58-48 below, must place the Medallion in service with a Hacked-up Taxicab vehicle within seven days of approval of the approval of the application. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 58-43(b)(7)
-      - Fine: $250
-      - Appearance NOT Required
-~
-
-
-
- 
-
-(c) Comply with Transfer Provisions.
-
-   (1) No person or entity is permitted to attempt to transfer or participate in the transfer of an interest in any Taxicab Medallion without fulfilling the requirements of subdivision (b) above, as applicable.
-
-   (2) The mere act of submitting a transfer application to the Chairperson will not be considered as a violation of this subdivision. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 58-43(c)
-      - Fine: $10,000 per entity, per Medallion and attempted transfer invalid, applicable to any person or persons (transferor, transferee or both) whose actions constituted a violation;Revocation may be ordered.
-      - Appearance NOT Required
-~
-
-
-
- 
-
-
-
-
-
-
-*§ 58-44 Medallion Transfers – Special Requirements.* ::
-
-
-(a) Personal Appearance.
-
-   (1) All Transferees or Administrator applicants seeking to operate a transferred Medallion must appear in person as directed by the Chairperson.
-
-   (2) If the Transferee applicant is a Business Entity, the following Business Entity Persons must appear in person before the Commission:
-
-      (i) All individual shareholders of a corporate entity
-
-      (ii) All general partners of a partnership entity
-
-      (iii) All members of a Limited Liability Company.
-
-   (3) Exception to Personal Appearance Requirement. A power of attorney can appear and represent any Applicant or Business Entity Person of a Business Entity Applicant who:
-
-      (i) Holds an existing, continuing License from the Commission, and
-
-      (ii) Has an electronic fingerprint record on file with the Commission, made not earlier than one year prior to the date of the transfer.
-
-(b) Transfers During and After Pending Judgment.
-
-   (1) No voluntary transfer or sale of an interest in a Taxicab License can be made if a judgment docketed with the clerk of court of any county within the City of New York remains unsatisfied against the Licensee and in favor of any state, federal or New York City government agency unless:
-
-      (i) A bond is filed in an amount sufficient to satisfy the judgment,
-
-      (ii) All the judgment creditors of a Licensee file written permission for the transfer, or
-
-      (iii) The proceeds from the transfer are paid into court or held in escrow, on terms and conditions approved by the Commission, to protect the rights of all parties that can have a legitimate interest.
-
-   (2) An Owner's interest a Taxicab License can be transferred involuntarily and disposed of by public or private sale in the same manner as personal property. In that event:
-
-      (i) Owner's License will be immediately cancelled,
-
-      (ii) A new License will be issued to the new owner when the Transfer is properly approved and the transfer is effective, and
-
-      (iii) If the transfer is by reason of a tort judgment against the involuntary Transferor, no bond need be provided with respect to that judgment.
-
-(c) Voluntary Transfer During Revocation Proceedings.
-
-   (1) The Owner must not transfer his Taxicab License after the commencement of revocation proceedings without the written permission of the Chairperson.
-
-   (2) The Chairperson can also require that no relative of the Medallion Owner or any other person or entity affiliated with the Owner receive the Taxicab License.
-
-   (3) The Chairperson can also require an escrow be held in an amount to be determined by the Chairperson after an approved closing in order to satisfy any fines subsequently levied against the Owner.
-
-(d) Preserve Medallion Category.
-
-   (1) A transfer of an Independent Medallion will be made only to an approved individual or Business Entity that does not own any interest in any other Medallion; similarly, the transfer of a Minifleet Medallion will be made only to a Transferee approved to own and operate a Fleet or Minifleet.
-
-   (2) An Independent Medallion Owner must not have a financial interest in any other Taxicab.
-
-   (3) A Minifleet Medallion Owner must not have a financial interest in any Independent Medallion Taxicab.
-
-   (4) For the purpose of this subdivision (d), "financial interest" will mean an ownership interest or an interest received as a pledge or security or subject to a security agreement to secure financing.
-
-(e) Additional Requirements for Transfers Made by Conditional Sales Agreements. Where an interest in a Medallion is acquired through a conditional sales agreement, the following requirements apply:
-
-   (1) The parties must provide the Commission with a disclosure statement indicating the terms of the agreement.
-
-   (2) The seller must remain liable for any fines or penalties imposed against the Taxicab License for violations occurring during the term of the agreement, unless they are paid by the purchaser.
-
-   (3) The seller must notify the Commission in writing if the seller repossesses the Taxicab within 72 hours of the sale (exclusive of weekends and holidays).
-
-   (4) The parties to a conditional sales agreement are subject to the Lease Cap provisions in 35 RCNY § 58-21.
-
-   (5) No conditional transfer shall be effective until the parties have completed all the requirements for transfer required by this Chapter.
-
-
-
-
-
-
-*§ 58-45 Medallion Transfers – Application Documentation and Requirements.* ::
-
-
-(a) Application. An Applicant/Transferee must file a completed application in the form prescribed by the Chairperson.
-
-(b) Payment of Fees. An Applicant/Transferee must pay the following fees:
-
-   (1) A transfer fee of Fifty Dollars ($50).
-
-   (2) An administrative charge of $160.
-
-   (3) The licensing and inspection fees required under 35 RCNY § 58-07.
-
-(c) Proof of Identity. An individual Transferee and all Business Entity Persons of a Business Entity Transferee must:
-
-   (1) Provide proof of identity in the form specified in 35 RCNY § 58-04(a), and
-
-   (2) Disclose any trade name under which the Transferee intends to operate.
-
-(d) Owner-Must-Drive Proof. If the Transferee is acquiring an interest in a Medallion from an Independent Taxicab Owner, Transferee must provide the Valid License number of the person who will fulfill the service requirements of the Owner-Must-Drive Rule in 35 RCNY § 58-05(d).
-
-(e) Proof of Vehicle Ownership. Transferee must provide proof that Transferee has or will have an appropriate vehicle, by providing either:
-
-      (i) A bill of sale of a vehicle eligible to be used as a Taxicab (see 35 RCNY Chapter 67, Taxicab Hack-Up), or
-
-      (ii) An affidavit specifying that the Transferee will have a vehicle to be used as a Taxicab within the seven days following the effective date of the transfer (see 35 RCNY § 58-43(b)(7), above).
-
-(f) Payment of Fines and Fees. An Applicant/Transferee must provide proof of payment of any outstanding fines or fees owed to the Commission, the Parking Violations Bureau (or their successors) by the Transferee or any Business Entity Persons of a Business Entity Transferee.
-
-(g) Source of Funds.
-
-   (1) An Applicant/Transferee must provide documentation in a form satisfactory to the Chairperson detailing the sources of the funds, if any, Transferee is using to purchase the Medallion, including:
-
-      (i) Copies of bank account passbooks or bank statements;
-
-      (ii) Affidavit explaining cash sums and deposits over $10,000 paid to or by the Transferee within six months prior to the date of submission of this documentation;
-
-      (iii) Affidavits from donors of any gifts;
-
-      (iv) Statements from secured and/or unsecured lenders detailing amounts lent, security if any, and terms of payment; and
-
-      (v) Copies of IRS Form 8300 filed by any Broker in connection with funds received in the context of the transaction.
-
-   (2) If the transfer is by gift or is for less than Market Value, the Transferee must produce a waiver letter from the NYC Department of Finance along with any documentation referred to in the waiver.
-
-(h) Additional Documents Required from Corporate Transferee Applicants. Any corporate Applicant/Transferee or any Applicant seeking to purchase an interest in a corporation must provide, for that corporation:
-
-   (1) All newly formed corporations must include a copy of the certificate of incorporation and the filing receipt of the certificate of incorporation.
-
-   (2) Established corporations can include the documents described in (i) above alternatively, they can include a certified copy of the certificate of incorporation.
-
-   (3) All corporations must include a copy of the resolution or action by the incorporators, shareholders or directors electing officers of the corporation.
-
-   (4) All corporations must include a list of stockholders, with the number of shares owned by each.
-
-(i) Additional Documents Required for Partnerships. Any partnership Transferee Applicant or any Applicant seeking to purchase an interest in a partnership must provide for that partnership:
-
-   (1) A copy of the certificate of partnership
-
-   (2) A list of the partners, including the percentage owned by each.
-
-(j) Additional Documents Required for Limited Liability Companies. Any LLC Transferee Applicant or any Applicant seeking to purchase an interest in an LLC must provide for that LLC:
-
-   (1) A copy of the articles of organization
-
-   (2) A copy of the operating agreement
-
-   (3) A list of the members, with the percentage owned by each.
-
-(k) Additional Document Required from a Foreign Business Entity. Any Business Entity not organized under the laws of the State of New York must also provide proof of authorization to operate in New York.
-
-(l) Documents Required from a Secured Lender Recipient. If the transfer is the result of a foreclosure or similar action by a creditor, the following documents must be provided:
-
-   (1) A hypothecation agreement, stock pledge or stock pledge agreement if the transfer is occurring by transfer of, or foreclosure upon, stock;
-
-   (2) A UCC Article 9 Foreclosure "Affidavit of Disbursements" showing that all claims have been satisfied or will be satisfied or acceptable documentation regarding any claims not satisfied;
-
-   (3) Copies of UCC-1 filings (including file stamp or file number) filed against the former Owner or Owner's interest in the Medallion;
-
-   (4) Copies of all security agreements involved in the transfer in respect of the lenders' interests in the Medallion;
-
-   (5) A bill of sale, if any, or proof of other transfer in connection with any security agreement;
-
-   (6) If the Medallion was sold in an auction, proof of advertisement of the auction together with the attendance sheet;
-
-   (7) If the Medallion was sold outright, a copy of the Notice of Sale.
-
-(m) Affidavits Required by the Commission. Transferees must provide:
-
-   (1) An affidavit or affirmation under penalty of perjury, in a form approved by the Chairperson, that the Applicant does not rely upon the actions or determination of the Commission with respect to the Medallion; and
-
-   (2) Any other affidavit or affirmation regarding documentation required by the Chairperson.
-
-(n) Lien Searches. An Applicant/Transferee must submit with the application:
-
-   (1) Copies of a NYS UCC lien search of the Transferor/Owner,
-
-   (2) Copies of a lawsuit and judgment search for all counties in which the transferor has been domiciled for the shorter of (i) five years, or (ii) length of time the transferor has owned the Medallion being transferred,
-
-   (3) Copies of all active records found in the search, and
-
-   (4) An affidavit or affirmation, under penalty of perjury, from the Applicant/Transferee and the transferor warranting that:
-
-      (i) They have reviewed and are familiar with the contents of all of the searches
-
-      (ii) All disclosed liens and judgments will be:
-
-         A. Satisfied prior to or from the proceeds of the transfer
-
-         B. Included in the escrow amount, or
-
-         C. Assumed by the Applicant.
-
-(o) Tort Letters to Establish Escrow Amount. The application of any Transferee subject to the Tort Liabilities rules in 35 RCNY § 58-47 below (and except as excused in 35 RCNY § 58-47(d)) must include all of the following:
-
-   (1) All Tort Letters from the transferor's insurer(s) during the shorter of
-
-      (i) Six years, or
-
-      (ii) The length of time the transferor has owned the Medallion up to and including the date the Medallion is put into storage or the date prior to the effective date of transfer.
-
-   (2) Any documentation that may be required regarding any potential Excess Claims that the Tort Letters may disclose.
-
-   (3) Any information held by the Applicant/Transferee or transferor regarding any potential Excess Claims.
-
-   (4) Any other information held by the Applicant/Transferee or Transferor that might be necessary to determine the Escrow Amount.
-
-(p) Transferring the Technology System. The application must include the following information regarding the Technology System:
-
-   (1) Proof of Notice to the Technology System Provider.
-
-      (i) The Transferor must provide proof that notice of the transfer has been sent to the Technology System Provider that holds the contract to provide the Technology System for the Medallion being transferred.
-
-      (ii) The notice must be:
-
-         A. Sent at least 30 days prior to the proposed date of transfer (NOTE: The Technology System Provider can waive the 30-day requirement by signing the form)
-
-         B. Sent by certified mail, return receipt requested, and
-
-         C. Sent to the address specified in the contract
-
-      (iii) Proof of notice will be:
-
-         A. A copy of the Notice
-
-         B. A copy of the certified mail receipt, and
-
-         C. An affidavit or affirmation under penalty of perjury verifying the mailing
-
-   (2) Transferor's Statement of Intent. The Transferor must use a form approved by the Chairperson to:
-
-      (i) Provide a statement of Transferor's intent to
-
-         A. Cancel the contract with the Technology System Provider or
-
-         B. Assign the contract to the Transferee.
-
-      (ii) Provide a statement of Transferor's intent to:
-
-         A. Return the Technology System to the Technology System Provider,
-
-         B. Retain the Technology System, or
-
-         C. Transfer the Technology System to the Transferee.
-
-   (3) Transferee's Statement of Intent. The Transferee must use a form approved by the Chairperson to provide a statement of Transferee's intent to:
-
-      (i) Assume the Transferor's contract with the Technology System Provider, or
-
-      (ii) Identify the licensed Technology System Provider which the Transferee intends to use to provide the Technology System.
-
-(q) Other Documentation. The Applicant must provide any other documentation required by the Chairperson in order to assist in the Chairman in determining whether the proposed Transferee meets the criteria for licensing and ownership of a Taxicab Medallion.
-
-
-
-
-
-
-
-
-*§ 58-46 Medallion Transfers – Transferor Must Clear the Medallion.* ::
-
-
-(a) Place in Storage. Before a Medallion can be transferred, it must be placed in storage for at least seven days not counting the day it is put in storage or the day the clearance is given. (Exception: A Medallion owned by a corporation or LLC need not be placed in storage if the transfer is to be accomplished by a transfer of stock or membership interests in the company.)
-
-(b) Clear All Open Items. All open items against the Medallion Owner/Transferor (including any Business Entity Person of the Owner) must be cleared, including but not limited to summons issued by the Commission, outstanding fines and penalties owed to the Commission or the Parking Violations Bureau (or their successors), incomplete License renewal requirements, and violations against the TLC Driver License.
-
-(c) Requirements of Secured Lenders. Any secured lender that obtains possession of a Medallion through foreclosure, repossession or in any similar manner, must place the Medallion in storage with the Chairperson.
-
-
-
-
-
-
-
-
-*§ 58-47 Medallion Transfers – Tort Claims.* ::
-
-
-(a) Applicability.
-
-   (1) This 35 RCNY § 58-47 applies:
-
-      (i) To all Transferees other than Administrators and Legatees.
-
-      (ii) To all Transferors other than an Administrator/operator making a distribution to a Legatee.
-
-   (2) This 35 RCNY § 58-47 does not apply to Secured Lender Recipients.
-
-(b) Provisions for Satisfaction of Tort Liabilities.
-
-   (1) The parties to any applicable transfer must prove that provisions have been made to satisfy all outstanding tort claims against the Transferor of the Taxicab Medallion.
-
-   (2) This can be accomplished either by:
-
-      (i) Posting a bond with the Chairperson to cover all outstanding tort liabilities; or
-
-      (ii) Establishing an escrow account in the Escrow Amount (not exceeding the Maximum Escrow Amount), determined as described in subdivision (c) below.
-
-   (3) No transfer of the Taxicab Medallion(s) can occur until:
-
-      (i) The bond is posted
-
-      (ii) The Escrow Amount is established and the escrow agent has given an undertaking to the Chairperson to establish and hold the escrow account on the terms required by this 35 RCNY § 58-47 and to notify the Chairperson within five days after the escrow account has been established, or
-
-      (iii) It is determined by the Chairperson that neither a bond nor an escrow account is required.
-
-   (4) Secured Lender Recipients must create an escrow account in the amount of the Secured Lender Escrow Amount.
-
-(c) Determining the Amount of the Escrow Account.
-
-   (1) Identify Potential Claimants. The Transferor must identify the holders of all potential Excess Claims, by obtaining and reviewing the following sources of information:
-
-      (i) All Valid Claim Letters held in Commission files
-
-      (ii) Prior Claim Letters held in Commission files
-
-      (iii) Tort Letters
-
-      (iv) Potential claims revealed through the lien, judgment and lawsuit searches required under 35 RCNY § 58-45(n), above.
-
-   (2) Notify Potential Claimants.
-
-      (i) The Transferor must provide adequate mail notice, as described in subdivision (3) below, to the holder of each potential Excess Claim. The notice must state the following:
-
-         A. Whether the Transferor believes the holder's claim is a potential Excess Claim and the dollar amount (including $0) that Transferor proposes to establish for that claimant's claim.
-
-         B. That the claimant has 30 days from the date of the notice to object to the amount by sending a written response to the Transferor (with a copy to the Commission, attention Legal Department Transfer Division); the response must state the basis for claimant's objection to the proposed Escrow Amount.
-
-         C. That if the Commission does not receive the claimant's objection within the 30 day period, the Commission will consider the claimant to have accepted the Transferor's proposal regarding the Escrow Amount to be established for the claim.
-
-         D. That claimant's acceptance of or failure to object to the Transferor's proposed Escrow Amount will not affect any rights, claims or remedies the claimant has directly against the Transferor.
-
-      (ii) If the Commission does not receive the claimant's objection within 30 days from the date of the notice, the Commission will consider the claimant to have accepted the Transferor's proposal regarding the Escrow Amount to be established for the claim.
-
-   (3) Adequate Mail Notice to Potential Claimants. Transferor's notice to potential claimants must be sent by certified mail, return receipt requested, with a copy also sent by regular mail and a copy sent to the Commission, attention "Legal Department Transfer Division," as follows:
-
-      (i) For potential claimants disclosed by the lien, judgment and lawsuit searches required under 35 RCNY § 58-45(n) above, adequate notice will be considered given if the following steps are taken:
-
-         A. Notice is sent to the address for the claimant disclosed by the search
-
-         B. If this mailing is returned as non-deliverable, the notice is sent to any other address for the claimant or claimant's attorney of record disclosed by the search.
-
-      (ii) For potential claimants disclosed by a Prior Claim Letter or a Valid Claim Letter, adequate notice will be considered given if the following steps are taken:
-
-         A. Notice is sent to the sender of the letter and
-
-            i. To the claimant at the address disclosed in the letter, or
-
-            ii. If no address for the claimant is disclosed, to whatever address the sender provides in the letter.
-
-         B. If these mailings are returned as non-deliverable, notice must be sent to any subsequent address provide for claimant by:
-
-            i. The sender of the letter, or
-
-            ii. The recipient of the notice at the subsequent address of a further address for claimant.
-
-      (iii) For potential claimants disclosed by a Tort Letter, adequate notice will be considered given if the following steps are taken, as necessary:
-
-         A. Notice is sent to the address disclosed in, by or through the Tort Letter or to any counsel of record disclosed in, by or through the Tort Letter
-
-         B. If neither the claimant's address nor counsel of record is disclosed by the Tort Letter, Transferor must consult with the insurers providing the Tort Letter to ascertain an address for claimant or for claimant's counsel of record and notice must be sent to any address provided by the insurer
-
-         C. If a recipient of the notice at this address (or any subsequent recipient who is neither the claimant or claimant's counsel) provides a subsequent address for claimant or claimant's counsel, notice must be mailed to all subsequently provided addresses
-
-         D. If no address can be obtained for the claimant or claimant's counsel or representative, public notice of the contents of the notice must be placed in the New York Times and The New York Law Journal as a public notice for one business day.
-
-      (iv) The Transferor must provide the Chairperson with proof of all mailings by providing:
-
-         A. A copy of the mailing receipts
-
-         B. An affidavit or affirmation under penalty of perjury verifying the mailings.
-
-   (4) Response to Claimant's Objection. If a claimant sends a timely objection, the Chairperson will refer the matter to OATH to determine the amount of claimant's claim to be included in the Escrow Amount.
-
-      (i) OATH's rules of practice will govern the proceedings and OATH will apply principles of tort law.
-
-      (ii) For the purposes the this proceeding, the OATH terminology will apply as follows:
-
-         A. The claimant will be considered to be the "Petitioner"
-
-         B. The response sent by claimant objecting to the proposed Escrow Amount will be considered to be the "Petition"
-
-         C. Transferor will be considered the "Respondent"
-
-         D. Transferor's original notice to claimant will be considered to be the "Answer."
-
-   (5) Settling the Escrow Amount by Agreement.
-
-      (i) At any time, the Transferor and claimant can agree on the amount of the claim to be used in establishing the Escrow Amount for the claim.
-
-      (ii) If the parties reach an agreement, it must be verified in writing and signed by both parties with a copy provided to the Chairperson.
-
-   (6) Finalizing the Escrow Amount. If the parties have not reached agreement:
-
-      (i) The Chairperson will make a final determination of the required Escrow Amount for each claim, as follows:
-
-         A. Any Escrow Amount determined by OATH will be the Escrow Amount for that claim;
-
-         B. When the claimant has not objected, the Chairperson's determination will be based on the Transferor's proposed Escrow Amount for the claim;
-
-         C. If the claimant and the Transferor have come to a written agreement, the Chairperson's determination will be based on that agreement.
-
-      (ii) The Chairperson's determination will be a final agency determination regarding Escrow Amount(s) for the purpose of transferring the Medallion, but is not and is not intended to determine the actual merits of the claim(s).
-
-(d) When the Escrow Amount Cannot Be Reasonably Determined.
-
-   (1) If Tort Letters cannot be obtained for all or any part of the period for which they are required to be provided (see 35 RCNY § 58-45(o) above) the Escrow Amount will be as follows:
-
-      (i) When a Secured Lender Recipient is foreclosing on a Taxicab License and the transfer is occurring as a result of that action, the escrow account will be established in the amount of the Secured Lender Escrow Amount;
-
-      (ii) For all other applicable Transferors, the escrow account will be established in the Maximum Escrow Amount.
-
-   (2) An escrow account created with either a Secured Lender or Maximum Escrow Amount must be maintained for the shorter of:
-
-      (i) Six years following the date of transfer, or
-
-      (ii) As required by subdivision (e) below, provided that all Tort Letters have been obtained and Transferor has determined the appropriate Escrow Amount under subdivision (c) above.
-
-(e) The Escrow Account When Amount Is Determinable.
-
-   (1) Creating the Escrow Account.
-
-      (i) Once the Escrow Amount has been determined, an escrow account in that amount will be established from the proceeds of the transfer or other resources of the Transferor and maintained until all claims represented in the account are satisfied or released, as described subdivision (2) below.
-
-      (ii) The Escrow Account can be held by either:
-
-         A. Counsel for the claimant,
-
-         B. Counsel for the Transferor, or
-
-         C. Otherwise as the claimant and Transferor agree.
-
-      (iii) The parties must notify the Chairperson as to who is holding the account.
-
-   (2) Releasing Funds from the Escrow Account.
-
-      (i) Any person or entity seeking a release of funds from the escrow account must show that the claim is no longer outstanding by providing one of the following forms of evidence:
-
-         A. Proof of release of the claim
-
-         B. Proof of satisfaction of the claim
-
-         C. Proof of dismissal of the underlying claim
-
-         D. Agreement of the parties settling the claim
-
-         E. A court judgment directing payment of all or part of the Escrow Amount to a party.
-
-      (ii) If the evidence is a court order, it must be a final order, fully executed and, if necessary, filed or entered.
-
-      (iii) No funds will be released from the escrow account without the prior written approval of the Chairperson. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 58-47(e)
-      - Fine: $10,000
-      - Appearance NOT Required
-~
-
-
-
- 
-
-
-
-
-
-
-*§ 58-48 Medallion Transfers – Special Provisions Regarding Estates and Incompetency.* ::
-
-
-(a) Notice. Notice of the death or the declaration of incompetency of a Medallion Owner must be given to the Chairperson promptly upon the occurrence. A Medallion Owner which is a Business Entity must also give prompt notice upon the death or the declaration of incompetency of a shareholder, partner, or member of a Business Entity. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 58-48(a)
-      - Fine: $250 for failure to notify.
-      - Appearance NOT Required
-~
-
-
-
- 
-
-(b) Distribution of Interest in Medallion to Legatee.
-
-   (1) To A Legatee. When a Medallion(s) or an interest in a company or corporation that owns a Medallion(s) is distributed from an estate, the Legatee recipient must qualify as a Transferee under the applicable rules in this Chapter 58, and must submit the following additional documents to the Commission:
-
-      (i) A certified copy of the death certificate of the former Owner listed with the Commission;
-
-      (ii) A certified copy of letters testamentary or letters of administration and for an estate not in New York, a certified copy of ancillary letters testamentary or letters of administration covering the estate's New York property, which letters:
-
-         A. Must have been issued no earlier than six months prior to the date of submission
-
-         B. Must be unqualified as to the amount of estate assets that the Executor is authorized to administer and distribute or, if the amount is qualified, it must be in excess of the value of the Medallion(s) to be operated or transferred.
-
-      (iii) A certified copy of the will, if any.
-
-   (2) Additional Requirements for Distribution to a Legatee in Trust.
-
-      (i) An interest in a Medallion Taxicab can only be distributed to a Trust if the distribution is made to a trust for the benefit of a minor and:
-
-         A. The ownership interest is in the stock of a corporation, or
-
-         B. The interest is in membership of an LLC that owns one or more Medallions.
-
-      (ii) The ownership interest in the Taxicab Medallion must be distributed out of the trust within 60 days after the date on which the beneficiary reaches the age for ownership of a Taxicab Medallion (see 35 RCNY § 58-04(b)).
-
-      (iii) The beneficiary must apply and be approved as a Transferee under these Medallion Transfer rules before the transfer will be effective.
-
-      (iv) Notice must be given to the Chairperson promptly upon the beneficiary reaching the age for ownership of a Taxicab Medallion.
-
-(c) Additional Requirements for Temporary Operation of Medallion Taxicab.
-
-   (1) If an Owner of an interest in a Taxicab Medallion dies or is declared incompetent by a court of competent jurisdiction, the Medallion can continue to be operated by an Agent for a period of up to 120 days following the date of death or declaration of incompetency.
-
-   (2) If, during the 120-day period, an Administrator is appointed, the administrator will have 60 days from the date of appointment to apply and be approved under the applicable Medallion Transfer rules to operate the Medallion; an Agent can continue to operate the Medallion during this 60-day period.
-
-   (3) If the decedent or incompetent Owner was an Independent Medallion Owner, the Owner-Must-Drive Rule (see 35 RCNY § 58-05(d)) will be waived for the 120-day period as well as during the 60-day period following the appointment of an Administrator, if the appointment occurs during the 120-day period; the Owner-Must-Drive rule will apply to an Administrator who is approved to operate the Taxicab.
-
-   (4) If no one has been approved by the Commission to operate the Medallion by the end of the 120-day period, the Medallion must be placed in storage until an Administrator or new person has qualified to operate the Medallion.
-
-   (5) If no Administrator, Legatee or other new owner associated with the estate has qualified to operate the Medallion by the end of the 180-day period from the date of the death or declaration of incompetency of the Owner:
-
-      (i) The interest in the Medallion must be transferred to a Transferee who has applied and been approved as a Transferee by the Commission.
-
-      (ii) The Medallion must remain in storage until the transfer is effective. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 58-48(c)
-      - Revocation may be ordered if medallion operated beyond, or not transferred by, the periods specified.
-      - Appearance NOT Required
-~
-
-
-
- 
-
-
-
-
-
-
-*§ 58-50 Accessible Vehicle Conversion.* ::
-
-
-(a) Accessible Vehicle Hack-up: Unrestricted and Alternative Fuel Minifleet Medallions.
-
-   (i) Beginning on the Accessible Conversion Start Date, any Unrestricted Medallion which is a Minifleet Medallion for which a new vehicle is placed into service must be Hacked-up with an Accessible Taxicab meeting the requirements of 35 RCNY § 67-05.2 until at least 50 percent of the Unrestricted Minifleet Medallions owned by such Minifleet are Hacked-up with an Accessible Taxicab that meets the requirements of 35 RCNY § 67-05.2.
-
-   (ii) Following the Accessible Conversion Start Date and beginning at such time that there is available a vehicle qualified for use with an Alternative Fuel Medallion that is also qualified as an Accessible Taxicab under 35 RCNY Chapter 67, any Alternative Fuel Minifleet Medallion for which a new vehicle is placed into service must be Hacked-up with a vehicle that is qualified for use with both an Alternative Fuel Medallion and an Accessible Medallion under 35 RCNY Chapter 67, until at least 50 percent of the Alternative Fuel Minifleet Medallions owned by such Minifleet are Hacked-up with such vehicles.
-
-(b) Accessible Vehicles Hacked-up. An Accessible Vehicle, as indicated by vehicle identification number, which is Hacked-up with any Minifleet Medallion in order to comply with Accessible Taxicab Hack-up requirements for a Minifleet Medallion under subdivision (a) of this section can satisfy an Accessible Taxicab Hack-up requirement under subdivision (a) only at the time of first Hack-up.
-
-(c) Accessible Vehicle Hack-up: Unrestricted and Alternative Fuel Independent Medallions.
-
-   (i) Beginning on the Accessible Conversion Start Date, 50 percent of all Unrestricted Medallions which are Independent Medallions for which a new vehicle is placed into service in each calendar year must be Hacked-up with an Accessible Taxicab meeting the requirements of 35 RCNY § 67-05.2.
-
-   (ii) Following the Accessible Conversion Start Date and beginning at such time that there is available a vehicle qualified for use with an Alternative Fuel Medallion that is also qualified as an Accessible Taxicab under 35 RCNY Chapter 67, 50 percent of all Alternative Fuel Independent Medallion for which a new vehicle is placed into service in each calendar year must be Hacked-up with a vehicle that is qualified for use with both an Alternative Fuel Medallion and an Accessible Medallion under 35 RCNY Chapter 67.
-
-   (iii) The TLC will select the Independent Medallions that will be subject to this requirement in a bi-annual lottery. This procedure will also be used for Alternative Fuel Medallions when a qualifying vehicle is available. The lottery will determine accessible vehicle Hack-up requirements for Independent Medallions (including Alternative Fuel Independent Medallions when applicable) until the next following scheduled vehicle replacement for those medallions.
-
-   (iv) The TLC will conduct the lottery on or before January 1 of each year for medallions which must place an Accessible Taxicab into service from July 1 to December 31 of that year. For medallions which must place an Accessible Taxicab into service from January 1 to June 30 of the next calendar year, the lottery will be held on or before July 1 of the preceding year.
-
-   (v) The TLC will post on its Web site which Independent Medallions must be Hacked-up with an Accessible Taxicab meeting the requirements of 35 RCNY § 67-05.2 as soon as practicable following the lottery.
-
-   (vi) Those Medallions that are not selected in the lottery held pursuant to paragraph (iv) of this subdivision to Hack-up an Accessible Taxicab in their next vehicle replacement will be required to place an Accessible Taxicab into service in their next following scheduled vehicle replacement.
-
-(d) Any vehicle valid for use with an Unrestricted Medallion or Alternative Fuel Medallion and Hacked-up prior to the Accessible Conversion Start Date can remain in use as a Taxicab until its scheduled retirement as set forth in 35 RCNY § 67-18, as may be modified by 35 RCNY § 67-19.
-
-(e) Transfer of Accessible Vehicle Conversion Requirement.
-
-   (i) In any calendar year, any Owner or vehicle owner required to Hack-up a Medallion with an Accessible Vehicle under this Rule will be permitted to transfer such requirement to any other Owner or vehicle owner who is not subject to that requirement and is required to Hack-up a vehicle during the same calendar year.
-
-   (ii) Any Owner or vehicle owner wishing to transfer the Accessible Vehicle conversion requirement as provided in paragraph (i) of this subdivision must provide notice to the Chairperson in the form specified by the Chairperson at least 60 days prior to the scheduled retirement date, as set forth in 35 RCNY § 67-18, as may be modified by 35 RCNY § 67-19, of the transferor's vehicle or of the transferee's vehicle, whichever is earlier.
-
-   (iii) Any Owner agreeing to accept the Accessible Vehicle conversion requirement pursuant to paragraph (i) of this subdivision must follow all requirements of this Rule as if such owner were required to Hack-up an Accessible Vehicle pursuant to subdivisions (a) or (c) of this Section.
-
-(f) Conversion through Scheduled Retirement: A Taxicab Medallion required to be placed into service with an Accessible Vehicle under this Section must continuously be Hacked-up with an Accessible Vehicle for a minimum of four years.
-
-(g) Any Owner of a Taxicab Medallion placed into service with an Accessible Taxicab pursuant to this section must comply with all requirements of 35 RCNY Chapter 53.
-
-(h) The TLC will review the Taxicab Improvement Fund annually, by no later than the end of April, beginning in 2017, to assess the adequacy of the Fund, the uses of the Fund, and the surcharge funding the Fund receives, and will produce a report annually with the result of its assessment and recommendations and analysis. Such recommendations and analysis shall include but not be limited to the following: (i) whether the current surcharge should be lowered, raised or kept the same; (ii) a review of possible alternate sources of funding for the Fund other than the surcharge; and (iii) the costs incurred by Owners and Drivers that are required to purchase and operate Accessible Vehicles as opposed to those Owners and Drivers who are not so required. Such report shall be submitted to the Speaker of the NYC Council and posted on TLC's website upon completion of the report.
-
-(i) The provisions of this section do not apply to Accessible Medallions that were originally issued as Accessible Medallions. Owners of taxicabs in service with Accessible Medallions that were originally issued as Accessible Medallions will not receive grants funded by the Taxicab Improvement Fund.
-
-(j) Taxi Improvement Fund Allocations. Owners of Medallions and Drivers of Medallions who have submitted all required forms and documentation as specified by the Chairperson will receive allocations from the Taxi Improvement Fund as follows:
-
-   (1) Owners of Medallions who have placed an Accessible Taxicab into service as required under subdivisions (a) through (c) or who have assumed the accessibility requirement of another Owner under subdivision (e) of this section will receive:
-
-      (i) Hack-up Payment. A one-time subsidy payment of $14,000. Only one payment will be allocated to each Medallion during the four years required under subdivision (f) of this section. Such a payment will be allocated to a Medallion only if the Accessible Vehicle operating on such Medallion has not previously received such a payment. This determination will be based on the Vehicle Identification Number (VIN) of the Accessible Vehicle.
-
-      (ii) Accessible Vehicle Operational Payments. A series of up to twelve (12) equal payments of $1,333, beginning with the inspection of the Accessible Taxicab at the time of initial Hack-up, and following each Tri-Annual Inspection during the four year period as required under subdivision (f) of this section. Payments will be issued provided that the Accessible Taxicab:
-
-         A. Meets the vehicle inspection requirements of 35 RCNY § 58-29, and
-
-         B. With the exception of the first payment following initial Hack-up, has completed a minimum of 250 Passenger trips since the previous inspection.
-
-         C. Was logged onto the Accessible Taxi Dispatcher system through the Dispatch Equipment while in operation during the period since the previous inspection.
-
-The operational payment amount is based on the estimated additional maintenance costs of an Accessible Taxicab and estimated lost revenue associated with the additional days the Accessible Taxicab will be off the road for the additional maintenance.
-
-   (2) Owners of Accessible Medallions who are not covered by the conversion provisions of this 35 RCNY § 58-50 will receive:
-
-      (i) Hack-up Payment. A one-time subsidy payment of $14,000. Only one payment will be allocated to each Medallion during the four years for the next vehicle the Owner must hack up for use with that Medallion. Thereafter, an Owner will be eligible for payments for vehicles hacked up on an alternating basis for use with that Medallion (that is, every other vehicle used with such Medallion will NOT be eligible for a payment under this paragraph). Such a payment will be allocated to a Medallion only if the Accessible Vehicle operating on such Medallion has not previously received such a payment. This determination will be based on the Vehicle Identification Number (VIN) of the Accessible Vehicle.
-
-      (ii) Accessible Vehicle Operational Payments. For vehicle cycles in which the Owner is eligible for a hack-up payment pursuant to subparagraph (i) of this paragraph (but NOT for vehicle cycles for which an Owner is NOT eligible for a hack-up payment pursuant to subparagraph (i) of this paragraph), a series of up to twelve (12) equal payments of $1,333, beginning with the inspection of the Accessible Taxicab in use with that Medallion at the time of initial Hack-up, and following each Tri-Annual Inspection during the four year period as provided under subdivision (f) of this section. Payments will be issued only if the Accessible Taxicab:
-
-         A. Meets the vehicle inspection requirements of 35 RCNY § 58-29, and
-
-         B. With the exception of the first payment following initial Hack-up, has completed a minimum of 250 Passenger trips since the previous inspection.
-
-         C. Was logged onto the Accessible Taxi Dispatcher system through the Dispatch Equipment while in operation during the period since the previous inspection.
-
-   (3) Drivers of Accessible Taxicabs will receive periodically, a per-trip payment for each Passenger trip while driving an Accessible Taxicab. The per-trip payment amount will be determined based on a review of available funds and the availability of drivers. The per-trip payment amount will be posted on the TLC Web site.
-
-   (4) Allocation amounts provided for in paragraphs (1), (2) and (3) of this subdivision will be reviewed and adjusted as provided in subdivision (h) of this section.
-
-
-
-
-
-
-Chapter 59: For-hire Service
---------------------------------------------------
-
-
-
-
-**Subchapter 59A: For-hire Vehicle Owners**
-
-
-
-*§ 59A-01 Scope of this Sub-chapter.* ::
-
-
-(a) To establish the procedures, rules and requirements for obtaining and maintaining a For-Hire Vehicle License, including:
-
-   (1) For-Hire Livery Vehicles
-
-   (2) For-Hire Black Car Vehicles
-
-   (3) For-Hire Luxury Limousine Vehicles
-
-(b) To provide penalties for violations of the rules and requirements for maintaining a For-Hire Vehicle License.
-
-(c) Except as otherwise provided, this chapter does not apply to For-Hire Vehicles that are Street Hail Liveries. The requirements for Street Hail Livery service are provided in 35 RCNY Chapter 82 of these Rules.
-
-
-
-
-
-
-*§ 59A-02 Penalties.* ::
-
-
-(a) Unlicensed Activity.
-
-   (1) Unlicensed Activity is the act of providing or advertising the provision of any Commission-regulated for hire transportation service by:
-
-      (i) Any Licensee whose License is suspended, revoked, or expired and not yet renewed, or
-
-      (ii) Any person who does not hold a Valid License or Authorization from the Commission as a for hire driver, for the for hire vehicle, or for the for hire service, as applicable.
-
-   (2) Unlicensed Activity specifically includes the activities listed in § 19-506 and § 19-528 of the Administrative Code, and can subject the violator to the seizure and possible forfeiture of the vehicle involved.
-
-(b) Specific Penalties. If there are specific penalties for violating a Rule, they are shown at the end of the Rule. The penalty section also states whether the violator must attend the Hearing.
-
-(c) Payment of Fines.
-
-   (1) Fines are due not later than 30 days after the Respondent is found guilty of or pleads guilty to the violation, unless:
-
-      (i) the Respondent files an appeal of the decision issued by the Taxi and Limousine Tribunal within the time required by 48 RCNY Chapter 5 of the Rules of the City of New York, in which case the payment of the fines will be deferred until 30 days after the date of the appeal decision.
-
-   (2) If the fine is not paid by the close of business on the date due, the Commission will notify the Respondent in writing that the Respondent's License will be suspended in 10 business days of the date of the notification until the fine is paid, unless the Respondent demonstrates to the Commission, in person or in writing, that the fine has been paid.
-
-
-
-
-
-
-*§ 59A-03 Definitions Specific to this Sub-chapter.* ::
-
-
-(a) Applicant in this Sub-chapter means an Applicant for an original or renewal For-Hire Vehicle License.
-
-(b) Black Car is a Vehicle that affiliates with a Black Car Base.
-
-(c) Black Car Base is a For-Hire Base that operates as follows:
-
-   (1) All Black Car Vehicles are dispatched on a pre-arranged basis
-
-   (2) All Black Car Vehicles are owned by franchisees of the Base or are members of a cooperative that operates the Base; and
-
-   (3) More than ninety percent (90%) of the Base's business is on a payment basis other than direct cash payment by a Passenger
-
-(d) Driver in this Sub-chapter means a For-Hire Driver.
-
-(e) For-Hire Base (or "Base") is the Commission-licensed business for dispatching For-Hire Vehicles and the physical location from which For-Hire Vehicles are dispatched; a For Hire Base can be any of the following:
-
-   (1) A Black Car Base,
-
-   (2) A Livery Base (or Base Station),
-
-   (3) A Luxury Limousine Base.
-
-(f) For-Hire Driver in this Sub-chapter means a Driver of a For-Hire Vehicle.
-
-(g) For-Hire Vehicle is a motor Vehicle Licensed by the Commission to carry Passengers For-Hire in the City, which:
-
-   (1) Has a seating capacity of 20 or fewer Passengers
-
-   (2) Has three or more doors
-
-   (3) Is not a Taxicab, a Commuter Van, or an authorized bus as defined by NYS law.
-
-(h) Issuing Jurisdiction is a county within New York State and covered by Article 17-B, Section 498 of the New York Vehicle and Traffic Law that issues its own approval to allow a vehicle within its jurisdiction to contract for hire and perform pre-arranged pick-ups and drop-offs of one or more Passengers.
-
-(i) License in this Sub-chapter means a License for a For-Hire Vehicle.
-
-(j) Livery is a For-Hire Vehicle that is affiliated with a Livery Base Station.
-
-(k) Livery Base Station ("Base" or "Base Station") is a For-Hire Base that operates as follows:
-
-   (1) All Livery Vehicles are dispatched from the Base on a pre-arranged basis.
-
-   (2) All Livery Vehicles are designed to carry fewer than six (6) Passengers.
-
-   (3) Passengers are charged for service on the basis of a flat rate, time, mileage, or zones.
-
-(l) A Luxury Limousine is a For-Hire Vehicle that is affiliated with a Luxury Limousine Base.
-
-(m) Luxury Limousine Base is a For-Hire Base that operates as follows:
-
-   (1) All Luxury Limousines are dispatched from the Base by pre-arrangement.
-
-   (2) Luxury Limousine Vehicles have a seating capacity of 20 or fewer Passengers.
-
-   (3) More than ninety percent (90%) of its business is on a payment basis other than direct cash payment by a Passenger.
-
-   (4) Passengers are charged "garage to garage" service on the basis of a flat rate, time or mileage.
-
-(n) Owner or Vehicle Owner in this Sub-chapter refers to the title owner, registered owner or lessee of a For-Hire Vehicle. An Owner can be a Business Entity or a person.
-
-(o) Penalty Point is a non-monetary penalty assessed against either a Base Owner or the Owner of a For-Hire Vehicle if they are convicted of certain violations in this Sub-chapter.
-
-(p) Qualified Jurisdiction is an Issuing Jurisdiction that meets the requirements for reciprocity described in § 498 of the NYS Vehicle and Traffic Laws.
-
-(q) Qualified Vehicle License (or "QVL") is the license issued by a Qualified Jurisdiction to that jurisdiction's vehicles authorizing them to provide pre-arranged, for-hire transportation within its jurisdiction.
-
-(r) Qualified Driver's License (or "QDL") is a license issued by a Qualified Jurisdiction to that jurisdiction's drivers authorizing them to operate an authorized vehicle to provide pre-arranged, for-hire transportation within its jurisdiction.
-
-(s) Reciprocity (or Reciprocal Recognition) means that:
-
-   (1) New York City For-Hire Vehicles and Drivers can do pickups or drop offs in Qualified Jurisdictions for trips ending or beginning in NYC, and
-
-   (2) Vehicles and drivers that are licensed to perform for-hire transportation by a Qualified Jurisdiction can do pickups or drop offs in NYC for trips ending or beginning in the Qualified Jurisdiction.
-
-(t) Vehicle in this Sub-chapter refers to a For-Hire Vehicle.
-
-
-
-
-
-
-
-
-*§ 59A-04 Licensing – General Requirements.* ::
-
-
-(a) [Reserved.] Identification.
-
-(b) [Reserved.] Age.
-
-(c) [Reserved.] Fingerprinting for Good Moral Character.
-
-(d) Designate Drivers as Agents to Receive Service.
-
-   (1) An Applicant for a For-Hire Vehicle License (and a Licensee) must designate every Driver who operates one of Owner's Vehicles as an agent for accepting service of summons or Commission notices to correct defects in the Vehicle.
-
-      (i) Delivery of the summons or notice to correct defect(s) to a Driver will be adequate notice to the Vehicle Owner.
-
-      (ii) The Commission will send a photocopy of any summons or notice to correct defect(s) to the Vehicle Owner and the Base Owner of record.
-
-   (2) An Applicant for a For-Hire Vehicle License (and a Licensee) must designate every Driver who operates one of Owner's Vehicles as agent for service of any legal process from the Commission that can be issued against the Owner.
-
-(e) Inspection Required for a New Vehicle License.
-
-   (1) An Applicant for a new For-Hire Vehicle License (or approval for a replacement vehicle) must demonstrate that the vehicle was inspected at the Commission's Safety and Emissions Division within ten days:
-
-      (i) After being issued T&amp;LC plates by the NYS DMV, or
-
-      (ii) After the Commission's acceptance of the application for vehicles registered outside New York State
-
-   (2) Vehicles must pass inspection within 60 days after the date of the first scheduled inspection before the new For-Hire Vehicle License will be issued.
-
-   (3) The maximum number of inspections allowed in this 60-day period is four.
-
-   (4) The maximum limit of four inspections applies whether the Applicant submits only the original vehicle, or also submits a replacement vehicle.
-
-   (5) Failure of the original vehicle or any replacement vehicle to pass an inspection after four tries within the 60-day period will result in denial of the application.
-
-   (6) Nature of the Inspection.
-
-      (i) If the vehicle has accumulated fewer than 500 miles traveled at the time the vehicle arrives at the Commission's facility for inspection, irrespective of the vehicle's model year, the inspection will be only a visual inspection.
-
-      (ii) Unless exempt under (i), if the vehicle is a year 1996 or later model:
-
-         A. The vehicle must pass (i) the vehicle inspection requirements set forth in Section 301 of the NYS Vehicle and Traffic Law, (ii) a visual inspection of the interior and exterior of the vehicle to verify compliance with these Rules, and (iii) inspection to verify compliance with any other applicable laws, rules and requirements.
-
-         B. The inspection will count as one of the "tri-annual" inspections required by 35 RCNY § 59A-26 of this Subchapter.
-
-      (iii) Unless exempt under (i), if the vehicle is a year 1995 or earlier model, or if the vehicle is of any model year and the vehicle's maximum gross weight (MGW) as recorded on the registration card, is 8,501 pounds or more:
-
-         A. The vehicle must pass (i) the vehicle inspection requirements set forth in Section 301 of the NYS Vehicle and Traffic Law, except that the inspections will not include emissions testing, (ii) a visual inspection of the interior and exterior of the vehicle to verify compliance with these Rules, and (iii) inspection to verify compliance with any other applicable laws, rules and requirements.
-
-         B. The inspection will not count as one of the "tri-annual" inspections required by 35 RCNY § 59A-26 of this Subchapter.
-
-   (7) The Commission's fee for a required Commission inspection is $75; this fee includes the certificate of inspection issued when the vehicle passes inspection. Inspection fees must be prepaid with each application and renewal application.
-
-   (8) Reinspection Fee. A reinspection fee can be required if a vehicle must be reinspected. There is a reinspection fee only if reinspection is required because the vehicle failed a component of the inspection required by Section 301 of the NYS Vehicle and Traffic Law. In that case, the reinspection fee is the maximum fee allowed by DMV regulation for any component that must be reinspected. If reinspection is required because the vehicle failed any other component of the inspection, there is no reinspection fee.
-
-   (9) If the vehicle was altered after manufacture and seats 10 or more passengers (including the driver) and is not exempt from inspection by the NYS Department of Transportation, the vehicle must pass an inspection by the NYS Department of Transportation. The vehicle must also pass a visual inspection by the Commission.
-
-(f) Inspection Required to Renew a Vehicle License.
-
-   (1) An Applicant for renewal of a For-Hire Vehicle License must have the vehicle inspected at the Commission's Safety and Emissions Division and demonstrate that the Vehicle has passed an inspection within sixty days after the date of the first scheduled inspection.
-
-   (2) The maximum number of inspections allowed in this 60-day period is four.
-
-   (3) The maximum limit of four inspections applies whether the Applicant submits only the original vehicle, or also submits a replacement vehicle.
-
-   (4) After the License expiration date, the vehicle must not operate until it passes inspection and meets all other requirements for Licensure.
-
-   (5) Failure of the original vehicle or any replacement vehicle to pass an inspection after four tries within the 60-day period will result in denial of the renewal application.
-
-   (6) Nature of the Inspection.
-
-      (i) If the vehicle is a year 1996 or later model:
-
-         A. The vehicle must pass (i) the vehicle inspection requirements set forth in Section 301 of the NYS Vehicle and Traffic Law, (ii) a visual inspection of the interior and exterior of the vehicle to verify compliance with these Rules, and (iii) inspection to verify compliance with any other applicable laws, rules and requirements.
-
-         B. The inspection will count as one of the "tri-annual" inspections required by 35 RCNY § 59A-26 of this Subchapter.
-
-      (ii) If the vehicle is a year 1995 or earlier model, or if the vehicle is of any model year and the vehicle's maximum gross weight (MGW) as recorded on the registration card is 8,501 pounds or more:
-
-         A. The vehicle must pass (i) the vehicle inspection requirements set forth in Section 301 of the NYS Vehicle and Traffic Law, except that the inspections will not include emissions testing, (ii) a visual inspection of the interior and exterior of the vehicle to verify compliance with these Rules, and (iii) inspection to verify compliance with any other applicable laws, rules and requirements.
-
-         B. The inspection will not count as one of the "tri-annual" inspections required by 35 RCNY § 59A-26 of this Subchapter.
-
-   (7) If the vehicle was altered after manufacture and seats 10 or more passengers (including the driver) and is not exempt from inspection by the NYS Department of Transportation, the vehicle must pass an inspection by the NYS Department of Transportation. The vehicle must also pass a visual inspection by the Commission.
-
-(g) [Reserved.] Vehicle Owner Training.
-
-(h) Affiliation Required. All Applicants for a For-Hire Vehicle License must demonstrate that they are affiliated with an appropriate For-Hire Base.
-
-(i) Affiliation with Only One Base. For-Hire Vehicles can only affiliate with one Base at a time.
-
-(j) One License per Vehicle. Only one For-Hire Vehicle License will be issued and in effect for any vehicle, as indicated by the vehicle identification number, at any one time.
-
-(k) [Reserved.] Special Requirements for Black Car Affiliation.
-
-(l) Payment of Fines and Fees.
-
-   (1) An Applicant, including an applicant for a renewal License, must pay, and provide proof of payment of, any outstanding fines or fees owed by the Applicant to
-
-      (i) the Commission,
-
-      (ii) NYC Department of Finance's Parking Violations Bureau,
-
-      (iii) NYC Department of Finance's Red Light Camera Unit,
-
-      (iv) NYS DMV's Traffic Violations Bureau and
-
-      (v) any of their successor agencies.
-
-   (2) This requirement includes payment of fines and fees owed as of the date of the application by
-
-      (i) any Business Entity Persons of the Applicant
-
-      (ii) any Business Entity of which the Applicant is a Business Entity Person, and
-
-      (iii) any Business Entity of which a Business Entity Person of Applicant is also a Business Entity Person.
-
-   (3) An Applicant, including an Applicant for a renewal License, must pay any fines related to their failure to surrender a previously revoked License (of any type), unless the Applicant can demonstrate in person or in writing that the License has been surrendered.
-
-(m) Business Entities. An Applicant which is a Business Entity must provide the following documents:
-
-   (1) Partnerships. If the Applicant is a partnership, it must file with its application a certified copy of the partnership certificate from the clerk of the county where the partnership's principal place of business is located.
-
-   (2) Corporations. If the Applicant is a corporation, it must file with its application:
-
-      (i) A certified copy of its certificate of incorporation
-
-      (ii) A list of officers and shareholders
-
-      (iii) A certified copy of the minutes of the meeting at which the current officers were elected.
-
-   (3) Limited Liability Companies (LLCs). If the Applicant is a limited liability company, it must file with its application:
-
-      (i) A copy of its articles of organization
-
-      (ii) A copy of its operating agreement
-
-      (iii) A list of the members, with the percentages of the Applicant owned by each.
-
-(n) Address. An Applicant must give the Commission the Applicant's current Mailing Address and Email Address.
-
-(o) Fit to Hold a License. An Applicant for a For-Hire Vehicle License must demonstrate that the Applicant is Fit to Hold a License.
-
-(p) Registration. An Applicant for a new or renewal For-Hire Vehicle License must demonstrate that the vehicle has been properly registered. For a vehicle that has been modified after manufacture, this means the Applicant must show that the vehicle was properly re-registered with NYS after modification.
-
-(q) Operating Authority. An Applicant for a new or renewal For-Hire Vehicle License must show that the vehicle possesses a current and Valid operating authority license from NYS and a current and Valid MC-300 Vehicle inspection form if the vehicle is not exempt from NYS DOT inspection and operating authority requirements and either of the following are true.
-
-   (1) The vehicle seats 10 or more passengers (including the driver) or
-
-   (2) The vehicle is a modified vehicle.
-
-(r) Exempt Vehicles. An Applicant for a new or renewal For-Hire Vehicle License for a vehicle which has been modified and IS exempt from NYS Department of Transportation inspection and operating authority requirements must show an exemption letter from the NYS Department of Transportation.
-
-(s) Warranty. An Applicant for a new For-Hire Vehicle License for a vehicle which has been modified after manufacture (except in a program supported by the original vehicle manufacturer) must provide evidence of warranty from the vehicle modifier that the vehicle will be free from defects in material and workmanship, including that the chassis and frame will be free from defects for a period of 3 years or 60,000 miles, whichever comes first.
-
-(t) Modifier Insurance Coverage. An Applicant for a new or renewal For-Hire Vehicle License for a vehicle which has been modified after manufacture (except in a program supported by the original vehicle manufacturer) must provide evidence that the modifier maintains a General Liability Insurance Policy in a minimum amount of $5,000,000.
-
-(u) Commercial Motor Vehicle Tax.
-
-   (1) An Applicant, including an applicant for a renewal License, must pay the Commercial Motor Vehicle Tax applicable to the Applicant's Vehicle. If the Applicant has not made payment to the NYS DMV, the Applicant must pay the Commercial Motor Vehicle Tax to the Commission.
-
-   (2) An Applicant who has already paid the Commercial Motor Vehicle Tax must provide proof of payment in the form of a copy of the New York State issued registration receipt, or a receipt from the New York City Department of Finance.
-
-
-
-
-
-
-
-
-*§ 59A-05 Licensing – Reciprocal Recognition with Other Jurisdictions.* ::
-
-
-(a) Eligibility for Reciprocal Recognition. To be eligible for Reciprocity, a vehicle with a QVL issued by a Qualified Jurisdiction meet the following requirements:
-
-   (1) Evidence of a Valid QVL from the Qualified Jurisdiction must be attached to the vehicle's windshield.
-
-   (2) The vehicle must be operated by driver with a Valid Chauffeur's License. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59A-05(a)(2)
-      - Fine: $100
-      - Appearance NOT Required 
-~
-
-
-
- 
-
-   (3) The vehicle must be operated by a driver who:
-
-      (i) Has a Valid QDL issued by the Qualified Jurisdiction.
-
-      (ii) Carries proof of the Valid QDL while operating within New York City and displays it on request or has it posted within the vehicle.
-
-      (iii) Meets the requirements of 35 RCNY § 80-21 of these Rules.
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59A-05(a)(3)
-      - Fine: $350
-      - Appearance NOT Required
-~
-
-
-
- 
-
-   (4) The vehicle must have a Valid state registration, and the certificate of registration (or a legible copy of it) is in the vehicle. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59A-05(a)(4)
-      - Fine: $100
-      - Appearance NOT Required
-~
-
-
-
- 
-
-   (5) The vehicle must contain a Trip Record that:
-
-      (i) Meets the requirements of 35 RCNY § 59A-19,
-
-      (ii) Demonstrates that any trip (including travel within New York City) was established by pre-arrangement, and
-
-      (iii) Shows that either the origin or final destination of the trip is outside New York City. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59A-05(a)(5)
-      - Fine: $300
-      - Appearance NOT Required
-~
-
-
-
- 
-
-   (6) The vehicle must carry a Valid inspection sticker issued under the laws of New York State or the state of the vehicle's registration. The sticker must indicate the date of last inspection or the expiration date of the inspection.
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59A-05(a)(6)
-      - Fine: $100
-      - Appearance NOT Required
-~
-
-
-
- 
-
-   (7) The vehicle's Reciprocal Recognition must not have been suspended for failure to make required repairs within 10 days of failing an inspection.
-
-(b) Privileges of Reciprocal Recognition. A vehicle that meets the requirements of this section for Reciprocity will be allowed, without any License issued by or any fee paid to the Commission, to do the following:
-
-   (1) Pick up Passengers in the vehicle's Qualified Jurisdiction for travel to or through New York City
-
-   (2) Pick up Passengers in New York City for travel to the vehicle's Qualified Jurisdiction
-
-   (3) When transporting Passengers between the jurisdictions (as described in subdivisions (1) or (2) above), temporarily discharge and pick up such Passengers within New York City; provided, however, that all the stops must occur within 24 hours of the initial pick up of the Passengers.
-
-   (4) Transit through New York City for a trip beginning and ending outside New York City.
-
-
-
-
-
-
-
-
-*§ 59A-06 Licensing – Term of License.* ::
-
-
-(a) New License. The term of a new For-Hire Vehicle License is two years.
-
-(b) Renewal License. The term of a renewal License is two years.
-
-(c) When to File for Renewal.
-
-   (1) A renewing Applicant must file a completed application at least 30 days before the expiration date of the License. The review of applications submitted fewer than 30 days before the expiration date will not be completed until after the expiration date of the License. Licenses are not Valid after the License expiration date until the application for renewal is approved by the Commission.
-
-   (2) A renewing Applicant can file a completed application up to 60 days after the expiration date as a “late application", if the Applicant pays a late fee of $25. When a late application is submitted, the License will remain expired and not Valid until the application for renewal is approved by the Commission.
-
-   (3) Application Submission Date.
-
-      (i) Applications filed online: The date of submission is the date an application is filed online.
-
-      (ii) Applications filed in person: The date of submission is the date an application is filed in person.
-
-   (4) A License cannot be renewed more than 60 days after the expiration date.
-
-(d) Early Termination.
-
-   (1) A For-Hire Vehicle License terminates early if it is revoked or surrendered, or if the vehicle's state license plates are surrendered.
-
-   (2) A License that has been terminated early cannot be renewed or reinstated.
-
-(e) Suspended Licenses.
-
-   (1) If a License is suspended, the Licensee must apply for renewal as required in (c) above if the Licensee wants to renew the License. Failure to complete the renewal requirements means that the License cannot be renewed.
-
-   (2) A License that is suspended is not Valid and cannot be used until the suspension ends. This is true even if the Applicant has filed an application for a renewal.
-
-
-
-
-
-
-
-
-*§ 59A-07 Licensing – Fees.* ::
-
-
-(a) Vehicle License Fee. The fee for each For-Hire Vehicle License will be $275 annually.
-
-(b) Late Filing Fee. The Commission will charge an additional fee of $25 for a late filing of a renewal application, if it allows the filing at all.
-
-(c) When Fee is Paid. The fee for an original or renewal License must be paid at the time the application is filed.
-
-(d) No Refund if Application Denied. The Commission will not refund fees if it denies or disapproves the application.
-
-(e) Vehicle License Replacement Fee. The Commission will charge a fee of $25 for each replacement License or Decal.
-
-(f) Vehicle Transfer Fees.
-
-   (1) A Vehicle Licensee can change the Vehicle's affiliation from one Base to a different Base after approval by the Chairperson and payment of a $25 fee.
-
-   (2) A Vehicle Licensee can transfer the License from one vehicle to another after approval by the by the Chairperson and payment of a $25 fee.
-
-   (3) A Vehicle Licensee can replace the license plates on the Vehicle after approval by the Chairperson and payment of a $25 fee.
-
-   (4) A Vehicle Licensee can transfer the license plates from one vehicle to another after approval by the Chairperson and payment of a $25 fee.
-
-   (5) A Vehicle Licensee must pay a separate fee for each type of vehicle transfer. This is true even if the Vehicle Licensee wants to do several types of vehicle transfer all at one time.
-
-(g) Commercial Motor Vehicle Tax.
-
-   (1) For Licenses Issued on or after June 1, 2012 if Tax NOT paid to NYS DMV.
-
-      (i) The Commercial Motor Vehicle Tax for each Vehicle will be $800, to be paid with the application for the license.
-
-      (ii) No additional payment will be required for any replacement Vehicle during the renewal License Period.
-
-      (iii) If the Applicant paid the Commercial Motor Vehicle Tax directly to NYS DMV, this paragraph does not apply.
-
-   (2) At License Renewal for Licenses Expiring on or After June 1, 2012 if Tax NOT paid to NYS DMV.
-
-      (i) The Commercial Motor Vehicle Tax for each Vehicle will be $800 for each renewal License period. The tax must be paid with the renewal application.
-
-      (ii) No additional payment will be required for any replacement Vehicle during the renewal License Period.
-
-      (iii) If the Applicant paid the Commercial Motor Vehicle Tax directly to NYS DMV, this paragraph does not apply.
-
-   (3) Interim Payments for licenses expiring on or after June 1, 2012 and before June 1, 2014 if Tax NOT paid to NYS DMV. An interim payment of Commercial Motor Vehicle Tax is due on June 1, 2012 for licenses expiring on or after June 1, 2012 and before June 1, 2014, provided that the Licensee has not paid the Commercial Motor Vehicle Tax to the NYS DMV.
-
-      (i) The amount of the interim payment is: 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - If a license expires during:
-      - The licensee must make an interim payment of:
-~
-
-
-
-
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - June, July or August 2012
-      - $100 
-    * - September, October or November 2012
-      - $200 
-    * - December 2012, January 2013 or February 2013
-      - $300 
-    * - March, April or May 2013
-      - $400 
-    * - June, July or August 2013
-      - $500 
-    * - September, October or November 2013
-      - $600 
-    * - December 2013, January 2014 or February 2014
-      - $700 
-    * - March, April or May 2014
-      - $800 
-~
-
- 
-
-   (4) Refunds.
-
-      (i) The Commission will not refund any payment of Commercial Motor Vehicle Tax.
-
-      (ii) Applications for refunds, including but not limited to refunds upon transfer, surrender or termination, must be made to the NYC Department of Finance. The application will be reviewed in accordance with the Administrative Code and the Rules of the NYC Department of Finance.
-
-
-
-
-
-
-
-
-*§ 59A-08 Licensing – Causes for Denial or Revocation.* ::
-
-
-(a) Material Misrepresentation.
-
-   (1) The Commission can deny an application for a License or its renewal and revoke or suspend any License issued if it finds that an Applicant has made a material misstatement or misrepresentation on an application for a License or its renewal.
-
-   (2) The Commission must send notice and conduct a hearing before revoking or suspending any License already issued.
-
-(b) Non-Compliance with Rules. No For-Hire Vehicle License will be issued or renewed unless the For-Hire Vehicle is in compliance with the requirements of this Chapter at the time of the application for issuance or renewal.
-
-(c) Non-Use. A For-Hire Vehicle License must be revoked for non-use if:
-
-   (1) For 60 or more days, the Licensee fails to maintain a Base affiliation (as required by 35 RCNY § 59A-11(e)) or fails to transfer from a base that has been suspended or
-
-   (2) For 60 or more days, the Licensee fails to maintain insurance coverage (as required by 35 RCNY § 59A-12) or
-
-   (3) For 60 or more days, the License holder fails to comply with the inspection requirements (as required by 35 RCNY § 59A-26)
-
-(d) Prior Revocation.
-
-   (1) If the Applicant has had a previous For-Hire Vehicle License revoked, the Chairperson may deny the Applicant's application if the previous revocation shows that the applicant is not Fit to Hold a License.
-
-   (2) To determine if a previously revoked For-Hire Vehicle License ("Revoked License") will be attributed to this Applicant, the Commission will include any Revoked License held by any of the following:
-
-      (i) All of Applicant's Business Entity Persons, and
-
-      (ii) Any other entity in which any of Applicant's Business Entity Persons also serve as a partner, officer or shareholder.
-
-(e) Failure to Complete Application Requirements.
-
-   (1) The Chairperson will deny an application for a new License if the Applicant has not completed all the requirements of an application within 45 days of the date the application is filed. This does not apply to inspections.
-
-   (2) The Chairperson will deny an application for a renewal License if the Applicant has not completed all the requirements of an application within 60 days of the expiration date of the prior License. This does not apply to inspections.
-
-   (3) The Chairperson will not deny an application under this Rule if completion is delayed because the Chairperson has not issued a final decision and the Applicant has complied with any requests made by the Chairperson.
-
-   (4) The Applicant must also complete the inspection requirements of 35 RCNY § 59A-04(e) and (f) within 60 days of the first scheduled appointment. The Commission will deny the application of any Applicant which does not complete the inspection requirements as required.
-
-(f) Additional Consideration of an Application. If a review of the application leads the Chairperson to believe that the Applicant may not be Fit to Hold a License, the Chairperson may seek additional information from the Applicant. This request for additional information may be an in-person interview, telephone call, letter, e-mail, or other method of communication. This additional consideration may result in the denial of the application. Failure to provide any requested information within the time frame requested, or failure to appear at a scheduled interview will result in a denial of the application.
-
-(g) Commercial Motor Vehicle Tax.
-
-   (1) The Commission will deny an application, including a renewal application, if the Applicant owes the Commercial Motor Vehicle Tax required under subdivision (c) of 35 RCNY § 59A-14 on any Vehicle subject to the application.
-
-   (2) Payment of the Commercial Motor Vehicle Tax amount described in paragraph (1) of this subdivision is a condition to issuance of a License, including a renewal License, and the maintaining of such License.
-
-
-
-
-
-
-
-
-*§ 59A-09 Licensing – Transfer of License.* ::
-
-
-(a) Transfer of Vehicle License to a New Vehicle.
-
-   (1) In order to transfer the For-Hire Vehicle License to a new vehicle, the Owner must file an application to transfer the License within 15 days after registering the new vehicle with the applicable state DMV.
-
-   (2) No transfer application will be approved until the Owner presents the vehicle for inspection by the Commission. (See 35 RCNY § 59A-04(e))
-
-(b) Only One License per Vehicle. There can only be one Valid For-Hire Vehicle License issued for any one Vehicle, as determined by the VIN.
-
-
-
-
-
-
-*§ 59A-10 Licensing – Care of Licenses.* ::
-
-
-(a) Unauthorized Entries. No unauthorized entry can be made on the For-Hire Vehicle License or the Decal(s). No entry on the For-Hire Vehicle License or Decal(s) can be changed or defaced. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59A-10(a)
-      - Fine: $350 for first violation$500 for second violation in 24 monthsRevocation for third violation in 36 months
-      - Appearance Required 
-~
-
-
-
- 
-
-(b) Prompt Replacement of Unreadable License. An unreadable For-Hire Vehicle License or Decal(s) must immediately be surrendered to the Commission for replacement. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59A-10(b)
-      - Fine: $25
-      - Appearance NOT Required
-~
-
-
-
- 
-
-(c) Prompt Report of Loss of License. In case of the theft, loss, or destruction of a For-Hire Vehicle License or Decal(s), the Owner must immediately notify the Commission, provide the Commission with an affidavit or information as required, and replace the License or Decal. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59A-10(c)
-      - Fine: $50
-      - Appearance NOT Required
-~
-
-
-
- 
-
-(d) Prompt Replacement of License Plates. A For-Hire Vehicle Owner must report the replacement of any lost or stolen New York State license plates in writing to the Commission within 48 hours (not including weekends and holidays) after obtaining new plates. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59A-10(d)
-      - Fine: $50
-      - Appearance NOT Required
-~
-
-
-
- 
-
-
-
-
-
-
-*§ 59A-11 Compliance with Laws – No Unlicensed Activity.* ::
-
-
-(a) For-Hire Vehicle License and Commission License Plate.
-
-   (1) A For-Hire Vehicle Owner must not allow any of Owner's Vehicles to be dispatched unless:
-
-      (i) A Vehicle registered in NYS has license plates embossed with the legend "T &amp; LC" 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59A-11(a)(1)(i)
-      - Vehicle Fine: $350Penalty Points: 1
-      - Appearance NOT Required
-~
-
-
-
- 
-
-      (ii) A Vehicle registered in a state other than New York has complied with any applicable license plate requirements.
-
-      (iii) The vehicle has a Valid For-Hire Vehicle License. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59A-11(a)(1)(iii)
-      - Vehicle Fine: $500 for the first offense in 12 months; $1,000 for the second and subsequent offenses within a 12-month period.Penalty Points: 1
-      - Appearance NOT Required
-~
-
-
-
- 
-
-   (2) The Commission will post a list of Validly Licensed For-Hire Vehicles on its Web site.
-
-(b) Valid TLC Driver License.
-
-   (1) A Vehicle Owner must not allow any of its Vehicles to be dispatched unless its driver possesses a Valid TLC Driver License.
-
-   (2) The Commission will post on its website a list of Drivers holding Valid TLC Driver Licenses.
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59A-11(b)
-      - Vehicle Fine: $350Penalty Points: 1
-      - Appearance NOT Required
-~
-
-
-
- 
-
-(c) Valid Chauffeur's License Required.
-
-   (1) A Vehicle Owner must not allow any of its Vehicles to be dispatched unless it is being driven by a Driver with a Valid Chauffeur's License.
-
-   (2) A Vehicle Owner is responsible for knowing the status of the state-issued driver's license for any Driver dispatched in one of Owner's Vehicles.
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59A-11(c)
-      - Vehicle Fine: $100Penalty Points: 1
-      - Appearance NOT Required
-~
-
-
-
- 
-
-(d) Validity of For-Hire Vehicle License Requires Valid State Registration.
-
-   (1) A For-Hire Vehicle License will be Valid only while the state registration of the Vehicle remains Valid. The License of an Owner who operates a For-Hire Vehicle without valid state registration will be summarily suspended.
-
-   (2) A For-Hire Vehicle Owner must immediately surrender his For-Hire Vehicle License to the Commission upon the expiration, restriction, suspension, or revocation of the Vehicle's state registration. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59A-11(d)
-      - Fine: $400 and Suspension until compliance.
-      - Appearance Required
-~
-
-
-
- 
-
-(e) Affiliation with Licensed Base. A For-Hire Vehicle Owner must not dispatch or permit another person to dispatch Owner's Vehicle unless:
-
-   (1) It is affiliated with a Validly Licensed Base
-
-   (2) The base dispatching the Vehicle is Validly Licensed
-
-   (3) The Vehicle is being dispatched from its affiliated Base, unless:
-
-      (i) The Vehicle is an Accessible Vehicle affiliated with a For-Hire Base, or
-
-      (ii) The dispatching Base informs the customer that the Vehicle is from another Base by providing the customer with the name and license number of both the affiliated Base and the dispatching Base (clearly identifying which Base is the affiliated Base and which Base is the dispatching Base) in all communications with the customer and any materials or receipts provided to the customer and the dispatching Base is (1) a Livery Base if the affiliated Base is a Livery Base, or (2) either a Black Car or Luxury Limousine Base if the affiliated Base is a Black Car Base or a Luxury Limousine Base. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59A-11(e)
-      - Fine: $400
-      - Appearance NOT Required
-~
-
-
-
- 
-
-(f) Surrendering Licenses. If a For-Hire Vehicle Owner license is revoked, expired or denied:
-
-   (1) It must be surrendered to the Commission within 10 days after revocation, expiration or denial.
-
-   (2) If the vehicle is registered in New York State, the Owner must surrender the T&amp;LC license plates to the New York State Department of Motor Vehicles.
-
-(g) NYS DOT Authority. A For-Hire Vehicle License for a vehicle which either
-
-   (1) seats 10 or more passengers and is NOT exempt from NYS Department of Transportation operating authority and inspection requirements, OR
-
-   (2) has been modified after manufacture and is NOT exempt from NYS Department of Transportation operating authority and inspection requirements will be Valid only while the NYS Department of Transportation operating authority required for the Vehicle remains Valid. The License of an Owner who operates a For-Hire Vehicle without valid NYS Department of Transportation operating authority will be summarily suspended. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59A-11(g)
-      - Fine: Suspension until Valid NYS DOT operating authority obtained
-      - Appearance Required
-~
-
-
-
- 
-
-
-
-
-
-
-
-
-*§ 59A-12 Compliance with Law – Vehicle Insurance Coverage.* ::
-
-
-(a) Maintain Liability Insurance.
-
-   (1) A For-Hire Vehicle Owner must maintain the required insurance coverage on all of Owner's Vehicles at all times.
-
-   (2) When a For-Hire Vehicle Owner receives notice that his or her liability insurance is to be terminated, Owner must surrender the For-Hire Vehicle License and Decal(s) to the Commission on or before the termination date of the insurance.
-
-   (3) This requirement will not apply if the Owner of the Vehicle submits, before the termination of the policy, proof of new insurance effective on the date of termination of the old policy. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59A-12(a)
-      - Fine: $150-$350 and/or suspension up to 30 days
-      - Appearance Required
-~
-
-
-
- 
-
-(b) Notification to Commission of Changes in Insurance Coverage. Within seven days, not including holidays and weekends, a For-Hire Vehicle Owner must notify the Commission in writing of any change in insurance carrier or coverage, specifying the name and address of the new and the former insurance carriers and the number of the policy for each affiliated Vehicle. The Owner must submit proof of such coverage. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59A-12(b)
-      - Fine: $100
-      - Appearance Required
-~
-
-
-
- 
-
-(c) Coverage Requirements.
-
-   (1) General Coverage. For the purposes of insurance or other financial security, each Owner of a For-Hire Vehicle must maintain coverage for each Vehicle owned in amounts not less than the following:
-
-      (i) $200,000 per person, payable for those expenses specified in paragraphs 1, 2 and 3 of subdivision a of section 5102 of the New York State Insurance Law
-
-      (ii) $100,000 minimum liability and $300,000 maximum liability for bodily injury and death, as those terms are described and defined in section 370(1) of the Vehicle and Traffic Law 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59A-12(c)(1)
-      - Fine: $350 and suspension until compliance
-      - Appearance Required
-~
-
-
-
- 
-
-   (2) Coverage for Vehicles with Seating Capacity of Nine to Fifteen. Each Owner of a For-Hire Vehicle with a seating capacity of at least nine but not more than 15 Passengers must maintain coverage for each Vehicle owned in amounts not less than the following:
-
-      (i) $200,000 per person, payable for those expenses specified in paragraphs 1, 2 and 3 of subdivision a of section 5102 of the New York State Insurance Law
-
-      (ii) $1,500,000 minimum liability for bodily injury and death, as those terms are described and defined in section 370(1) of the Vehicle and Traffic Law 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59A-12(c)(2)
-      - Fine: $350 and suspension until compliance
-      - Appearance Required
-~
-
-
-
- 
-
-   (3) Special Coverage for Luxury Limousines with Seating Capacity of Less than Nine. Each Owner of a Luxury Limousine with a seating capacity of fewer than nine Passengers must maintain coverage for each Vehicle in an amount of not less than:
-
-      (i) $200,000 per person, payable for those expenses specified in paragraphs 1, 2 and 3 of subdivision a of section 5102 of the New York State Insurance Law
-
-      (ii) $500,000 per accident where one person is injured, and
-
-      (iii) $1,000,000 per accident for all persons injured in that accident.
-
-   (4) Coverage for Vehicles with Seating Capacity of Sixteen or More. Each Owner of a Vehicle with a seating capacity of at least 16 Passengers must maintain coverage for each Vehicle owned in amounts not less than the following:
-
-      (i) $200,000 per person, payable for those expenses specified in paragraphs 1, 2 and 3 of subdivision a of section 5102 of the New York State Insurance Law
-
-      (ii) $5,000,000 minimum liability for bodily injury and death, as those terms are described and defined in section 370(1) of the Vehicle and Traffic Law 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59A-12(c)(3)
-      - Fine: $350 and suspension until compliance
-      - Appearance Required
-~
-
-
-
- 
-
-(d) Report of Collisions to Carrier and the Commission.
-
-   (1) Report to Carrier. A For-Hire Vehicle Owner must immediately report in writing to Owner's insurance carrier all Collisions that are required to be reported to the insurance carrier involving Owner's For-Hire Vehicle(s).
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59A-12(d)(1)
-      - Fine: $500-$1,000
-      - Appearance Required
-~
-
-
-
- 
-
-   (2) Report to Commission.
-
-      (i) A For-Hire Vehicle Owner must immediately report in writing to the Commission all Collisions that are required to be reported to the Department of Motor Vehicles (under § 605 of the Vehicle and Traffic Law) involving Owner's Vehicle(s).
-
-      (ii) A copy of the report sent to the Department of Motor Vehicles must also be provided to the Commission within 10 days from the date by which the Owner is required to file the report with the DMV. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59A-12(d)(2)
-      - Fine: $150 and $25 for each day of violation thereafter and suspension until compliance
-      - Appearance Required
-~
-
-
-
- 
-
-
-
-
-
-
-
-
-*§ 59A-13 Compliance with Law – Personal Conduct.* ::
-
-
-(a) Bribery Prohibited.
-
-   (1) Appearance of Bribery. An Applicant or Licensee must not offer or give any gift, gratuity or thing of value to any employee, representative or member of the Commission, or any other public servant. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59A-13(a)(1)
-      - Fine: Revocation and $10,000
-      - Appearance Required
-~
-
-
-
- 
-
-   (2) Demand for Gratuity. A Licensee must immediately report to the Commission any request or demand for a gift, gratuity, or thing of value by any employee, representative, or member of the Commission or any other public servant. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59A-13(a)(2)
-      - Fine: $1,000 up to Revocation
-      - Appearance Required
-~
-
-
-
- 
-
-   (3) Offer of Gift to Airport or Transportation Terminal Staff. A Licensee must not offer or give any gift, gratuity, or thing of value to a person or persons employed at any airport or other transportation terminal to provide ground transportation information services, dispatching service, security services, traffic and parking control, or baggage handling, whether or not the person or persons are employed by the Port Authority of New York and New Jersey, LIRR, Metro-North, or any similar entity. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59A-13(a)(3)
-      - Vehicle Owner Fine: $250 – 1,000
-      - Appearance Required
-~
-
-
-
- 
-
-(b) Fraud, Theft. While performing the duties and responsibilities of a Licensee, a Licensee must not commit or attempt to commit, alone or in concert with another, any act of fraud, misrepresentation or theft. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59A-13(b)
-      - Fine: $350-1,000 and/or suspension up to 60 days or revocation
-      - Appearance Required
-~
-
-
-
- 
-
-(c) Willful Acts of Omission. While performing the duties and responsibilities of a Licensee, a Licensee must not deliberately fail to perform any act where this failure is against the best interests of the public, although not specifically mentioned in these Rules. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59A-13(c)
-      - Fine: $150-$350 and/or suspension up to 30 days or revocation
-      - Appearance Required
-~
-
-
-
- 
-
-(d) Willful Acts of Commission. While performing the duties and responsibilities of a Licensee, a Licensee must not deliberately perform or attempt to perform any act that is against the best interests of the public, although not specifically mentioned in these Rules. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59A-13(d)
-      - Fine: $150 – $350 and/or suspension up to 30 days or revocation
-      - Appearance Required
-~
-
-
-
- 
-
-(e) Threats, Harassment, Abuse. While performing the duties and responsibilities of a Licensee, a Licensee must not threaten, harass, or abuse any person. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59A-13(e)
-      - Fine: $350-1,000 and suspension up to 30 days
-      - Appearance Required
-~
-
-
-
- 
-
-(f) Use or Threat of Physical Force. While performing the duties and responsibilities of a Licensee or any act in connection with those duties, a Licensee must not use or attempt to use any physical force against a person. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59A-13(f)
-      - Fine: $500-1,500 and/or suspension up to 60 days or revocation
-      - Appearance Required
-~
-
-
-
- 
-
-(g) Threat or Harm to Service Animal. A Licensee must not distract, harm or use physical force against or attempt to distract, harm or use physical force against a Service Animal accompanying a person with a disability. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59A-13(g)
-      - Fine: $500-1,500 and/or suspension up to 60 days or revocation
-      - Appearance Required
-~
-
-
-
- 
-
-(h) Notice of Criminal Conviction.
-
-   (1) A Licensee must notify the Commission within 15 calendar days after any felony conviction of the Licensee, or of any of Licensee's officers or members.
-
-   (2) The notice must be in writing and must be accompanied by a certified copy of the certificate of disposition issued by the clerk of the court explaining what happened as a result of the conviction. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59A-13(h)
-      - Fine: $50
-      - Appearance NOT Required
-~
-
-
-
- 
-
-(i) Failure to Cooperate with Law Enforcement.
-
-   (1) A Licensee must cooperate with all law enforcement officers and all authorized representatives of the Commission.
-
-   (2) Cooperation includes, but is not limited to, responding to a request for the Licensee's name, License number, and any documents Licensee is required to have in his or her possession. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59A-13(i)
-      - Fine: $15-$150
-      - Appearance Required
-~
-
-
-
- 
-
-(j) Cooperation with the Commission. A Licensee must comply with the following required actions:
-
-   (1) Answer truthfully all questions and comply as directed with all communications, directives, and summonses from the Commission or its representatives.
-
-   (2) Within ten days following a request from the Commission, produce any Licenses or other documents the Licensee is required to have. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59A-13(j)(1)&amp;(2)
-      - Fine: $300 and Suspension until compliance
-      - Appearance Required
-~
-
-
-
- 
-
-   (3) Within 48 hours, a Licensee must respond to any contact from the Commission, seven days a week. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59A-13(j)(3)
-      - Fine: $500
-      - Appearance NOT Required
-~
-
-
-
- 
-
-(k) Courtesy. A Licensee will be courteous to Passengers. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59A-13(k)
-      - Fine: $150
-      - Appearance NOT Required
-~
-
-
-
- 
-
-(l) Facilitation of Sex Trafficking with a Vehicle. A Licensee must not Facilitate Sex Trafficking with a Vehicle. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59A-13(l)
-      - Fine: $10,000 and revocation.
-      - Appearance NOT Required
-~
-
-
-
- 
-
-(m) Retaliation.
-
-   (1) A For-Hire Vehicle Owner must not retaliate against any Driver for making a good faith complaint against any Owner.
-
-   (2) Retaliation will be broadly construed, and will include imposing any adverse condition or consequence on the Driver or withholding or withdrawing any beneficial condition or consequence from the Driver.
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59A-13(m)
-      - Fine: $1,000 plus restitution to the driver for losses for the first violation and a fine of $10,000 plus restitution to the driver for the second violation within five years.
-      - Appearance NOT Required
-~
-
-
-
- 
-
-
-
-
-
-
-
-
-*§ 59A-14 Compliance with Law – Miscellaneous.* ::
-
-
-(a) Alcohol and Drug Laws. A For-Hire Vehicle Owner must not knowingly allow an affiliated For-Hire Vehicle to be operated by a Driver who is under the influence of any drugs or alcohol or whose driving ability is in any way impaired. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59A-14(a)
-      - Fine: $10,000 and revocation
-      - Appearance Required
-~
-
-
-
- 
-
-(b) Payment of all Fines and Judgments. The holder of a For-Hire Vehicle License issued under this Chapter must satisfy any outstanding judgment and pay any civil penalty owed for a violation relating to traffic in a Qualified Jurisdiction or for a violation of the regulations of a Qualified Jurisdiction. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59A-14(b)
-      - Penalty: Suspension until satisfaction or payment
-      - Appearance NOT Required
-~
-
-
-
- 
-
-(c) Commercial Motor Vehicle Tax.
-
-   (1) An Owner must pay the Commercial Motor Vehicle Tax due as described in paragraphs (2) and (3) of this subdivision on an Owner's Vehicle as and when required by the Commission in these Rules.
-
-   (2) An Owner must pay the amounts required in subdivision (g) of Section 35 RCNY § 59A-07 of this Chapter, including interim payments, if any.
-
-   (3) An Owner must also pay any additional Commercial Motor Vehicle Tax amount for any tax year or period which the New York City Department of Finance has notified the Commission is due and unpaid. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59A-14(c)
-      - Fine: $400 and suspension until compliance
-      - Appearance NOT Required 
-~
-
-
-
- 
-
-
-
-
-
-
-*§ 59A-15 Operations – Base Station Business Premises. [Reserved]* ::
-
-
-(a) No Required Ride-Sharing. An Owner of a For-Hire Vehicle must not require that any prospective Passenger share a ride with another prospective Passenger. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59A-17(a)
-      - Vehicle Fine: $50
-      - Appearance NOT Required
-~
-
-
-
- 
-
-
-
-
-
-
-*§ 59A-18 Operation – Responsibilities with Respect to Drivers.* ::
-
-
-(a) "Restricted Area". For the purposes of this subdivision, "restricted area" is defined as all public streets and sidewalks located on either side of the street on which the Vehicle's affiliated Base is located or within the city block front where the Base is located, including both sides of the street on which the Base is located.
-
-(b) Obey Traffic Rules in Restricted Area. The Owner of a For-Hire Vehicle must make sure that the Driver and Vehicle will obey all applicable traffic and parking regulations within the "restricted area." 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59A-18(b)
-      - Vehicle Owner Fine: $50
-      - Appearance NOT Required
-~
-
-
-
- 
-
-(c) Obey Noise, Littering and General Nuisance Laws. The Owner of a For-Hire Vehicle must make sure that the Driver and the Vehicle will not create a nuisance while stopped at the Base, such as engaging in horn honking, littering, or playing loud audio material within the "restricted area." 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59A-18(c)
-      - Vehicle Owner Fine: $50
-      - Appearance NOT Required
-~
-
-
-
- 
-
-
-
-
-
-
-*§ 59A-19 Operations – Trip Record Information.* ::
-
-
-(a) Record-Keeping with Issuing Jurisdictions. Both of the following entities must ensure the requirements set forth in subdivision (b) below are met:
-
-   (1) The holder of a For-Hire Vehicle License issued by the Commission for a Vehicle used in for hire transportation between New York City and an Issuing Jurisdiction
-
-   (2) The holder of an Issuing Jurisdiction Vehicle License issued by a Qualified Jurisdiction for a vehicle used in For-Hire transportation between New York City and the Qualified Jurisdiction
-
-(b) Issuing Jurisdiction's Trip Record. The entities identified in (a) above must ensure that a record is made of each trip between New York City and the Issuing Jurisdiction. This record must contain:
-
-   (1) A record is made prior to the commencement of the trip in the Trip Record carried in the vehicle.
-
-   (2) The record is kept for a period of no less than one year after the trip.
-
-   (3) The record is written legibly in ink and includes the following information:
-
-      (i) The Passenger's name or other identifier
-
-      (ii) The time of the scheduled pick-up of the Passenger
-
-      (iii) The location of the scheduled pick-up of the Passenger
-
-      (iv) The locations of any intermediate stops at which the Passenger is picked up or dropped off
-
-      (v) The final destination of the Passenger
-
-      (vi) The time the trip was completed. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59A-19(b)
-      - Fine: $300
-      - Appearance NOT Required
-~
-
-
-
- 
-
-
-
-
-
-
-*§ 59A-20 Operations – Current Contact Information.* ::
-
-
-(a) Mailing Address and Email Address.
-
-   (1) A Vehicle Owner must report any change of Mailing Address or Email Address to the Commission in person or by mail within ten days of the change. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59A-20(a)(1)
-      - Vehicle Owner Fine: $100
-      - Appearance NOT Required
-~
-
-
-
- 
-
-   (2) Any communication from the Commission is sufficient if sent to the last Mailing Address provided by the For-Hire Vehicle Owner.
-
-   (3) A Vehicle Owner must have a working Email Address at all times.
-
-(b) Capacity for 24-Hour Access.
-
-   (1) A For-Hire Vehicle Owner must maintain a current telephone number on file with the Commission.
-
-   (2) This number must be connected to an answering machine or must be a pager number, an answering service telephone number, or something similar that allows the Commission to reach the Vehicle Owner on a 24-hour basis. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59A-20(b)
-      - Vehicle Owner Fine: $100
-      - Appearance NOT Required
-~
-
-
-
- 
-
-
-
-
-
-
-*§ 59A-21 Operations – Additional Records to be Maintained. [Reserved]* ::
-
-
-(a) Passenger Trips by Pre-Arrangement Only.
-
-   (1) No For-Hire Vehicle Owner will allow Owner's Vehicle(s) to transport Passengers for hire other than through pre-arrangement with a Base licensed by the Commission.
-
-   (2) A For-Hire Vehicle Owner will be liable for penalties for any violation of this section. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59A-25(a)
-      - Vehicle: during any license term, $100 for the first violation during such term, with the penalty increasing by $100 for each subsequent violation up to a maximum of $10,000.
-      - Appearance Required
-~
-
-
-
- 
-
-(b) [Repealed.]
-
-
-
-
-
-
-
-
-*§ 59A-26 Vehicles – Inspections.* ::
-
-
-(a) Tri-Annual Inspections.
-
-   (1) For-Hire Vehicles must be regularly inspected three times every year, including at least once every four months. 35 RCNY § 59A-04(e)(1) and (f)(1) specifies that inspections required for new and renewal applications must be done at the Commission's Safety and Emissions Division facility, except as specifically set forth in 35 RCNY § 59A-04(e) and (f); the other required inspections can be done at any DMV registered facility.
-
-   (2) Exception for vehicles seating 10 or more passengers (including the driver) and stretched vehicles. A Vehicle which either:
-
-      (i) seats 10 or more passengers and is not exempt from NYS Department of Transportation operating authority and inspection requirements, or
-
-      (ii) has been modified after manufacture and which is not exempt from NYS Department of Transportation operating authority and inspection requirements must be inspected two times a year by the NYS Department of Transportation. Each Inspection will be performed as required by the NYS Department of Transportation and its regulations. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59A-26(a)
-      - Fine: $100 and suspension of the Vehicle Owner License until any defect found is corrected or until the vehicle passes inspection, including any applicable inspection by the NYS DOT.
-      - Appearance Required
-~
-
-
-
- 
-
-(b) On-Street Inspections. Any officer or employee of the Commission designated by the Chairperson or any police officer can conduct on-street inspections of any For-Hire Vehicle operating within New York City to assure compliance with all applicable laws and rules and can order the Vehicle to report to the Commission's inspection facility. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59A-26(b)
-      - Fine: Suspension of For-Hire Vehicle License or recognition of issuing jurisdiction vehicle License until compliance.
-      - Appearance NOT Required
-~
-
-
-
- 
-
-
-
-
-
-
-*§ 59A-27 Vehicles – Meets Safety Standards.* ::
-
-
-(a) Unsafe or Unfit Vehicles.
-
-   (1) No For-Hire Vehicle can be used in a For-Hire Vehicle service when the Commission or the New York State DMV has determined that the vehicle is unsafe or unfit for use as a For-Hire Vehicle and the Owner has been directed to remove the vehicle from service.
-
-   (2) If the Chairperson has determined that the Vehicle is unsafe or unfit, the Decals will be confiscated by the Chairperson.
-
-   (3) If the New York State DMV or a DMV inspection facility other than the Commission has determined that the Vehicle is unsafe or unfit, the Vehicle Owner must return the Decals to the Chairperson within 72 hours of issuance of the determination.
-
-   (4) If the Chairperson has any reason to believe that any For-Hire Vehicle is unsafe or unfit for use, the Chairperson can order the Vehicle to report to the Commission's inspection facility.
-
-   (5) The License of an Owner who operates a vehicle that has been determined to be unsafe or unfit for use will be summarily suspended. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59A-27(a) 
-      - Fine: $100 – 350 and/or suspension up to 30 days; Suspension until compliance.
-      - Appearance Required
-~
-
-
-
- 
-
-(b) Seat and Shoulder Belts. Each For-Hire Vehicle must have all seat belts and shoulder belts clearly visible, accessible, and in good working order. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59A-27(b)
-      - Fine: $100 – 250
-      - Appearance Required
-~
-
-
-
- 
-
-(c) Shoulder Belts Required. In addition to seat belts for each seating position and shoulder belts for both outside front seat positions, all For-Hire Vehicles must be equipped with shoulder belts for both outside Passenger rear seat positions. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59A-27(c) 
-      - Fine: $100 – 250
-      - Appearance Required
-~
-
-
-
- 
-
-(d) Correct Defect Directives. A For-Hire Vehicle Owner must comply with all Commission notices and directives to correct defects in the Vehicle.
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59A-27(d)
-      - Fine: $50 and suspension until the defective condition is corrected
-      - Appearance Required
-~
-
-
-
- 
-
-(e) Daily Personal Inspection by Owner. A For-Hire Vehicle Owner must not permit a For-Hire Vehicle to be operated without daily personal inspection and reasonable determination that all equipment, including brakes, lights, signals, and Passenger seatbelts and shoulder belts, are in good working order and meet all the requirements of the New York State Vehicle and Traffic Law and these Rules. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59A-27(e)
-      - Fine: $150 if plead guilty before a hearing; $200 if found guilty following a hearing.
-      - Appearance NOT Required
-~
-
-
-
- 
-
-
-
-
-
-
-
-
-*§ 59A-28 Vehicles – Miscellaneous Requirements and Vehicle Retirement.* ::
-
-
-(a) Post-Manufacture Alterations.
-
-   (1) No For-Hire Vehicle can be altered after manufacture:
-
-      (i) To increase its length, width, weight or seating capacity, or
-
-      (ii) To modify its chassis and/or body design.
-
-   (2) Exception for all types of Vehicles. A For-Hire Vehicle can also be altered, after manufacture, provided that the Vehicle, as modified, meets all of the following:
-
-      (i) The modification has been made under a program approved in advance by the original vehicle manufacturer, and
-
-      (ii) The alteration has been performed by an entity approved and certified by the vehicle manufacturer to perform such alterations.
-
-      (iii) An original, unaltered, approved vehicle modifier's certification sticker must be affixed to the Vehicle on the left center post or hinge post.
-
-   (3) Exception for Vehicles seating 10 or more passengers (including the driver) and NOT exempt from NYS DOT Requirements.
-
-      A For-Hire Vehicle can be altered, after manufacture, provided that the Vehicle, as modified, meets all of the following:
-
-      (i) The Vehicle, as modified, has been approved by the NYS Commissioner of Motor Vehicles under Section 401(1)(b) of the NYS Vehicle and Traffic Law.
-
-      (ii) The Vehicle has passed inspection by the NYS Department of Transportation under 17 NYCRR § 720.
-
-      (iii) For such modified For-Hire Vehicles, the inspections required by 35 RCNY § 59A-04(e) and (f) and 35 RCNY § 59A-26(a) and the requirement to meet safety standards set forth in 35 RCNY § 59A-27, will be inspections of, and determinations by, the NYS Department of Transportation.
-
-      (iv) A modified For-Hire Vehicle must still pass a visual inspection at the Commission's Safety and Emissions Division at application and renewal as required by 35 RCNY § 59A-04(e) and (f).
-
-      (v) The For-Hire Vehicle must be properly registered with the NYS Department of Motor Vehicles and must have been re-registered after completion of the modification.
-
-      (vi) The Vehicle must carry the modifier's sticker certifying that the modification was conducted in accordance with Federal Motor Vehicle Safety Standards.
-
-      (vii) The modifier of the Vehicle must certify that it is registered with the National Highway Traffic Safety Administration.
-
-      (viii) The modifier of the Vehicle must provide a warranty that the vehicle will be free from defects in material and workmanship, including that the chassis and frame will be free from defects for a period of 3 years or 60,000 miles, whichever comes first.
-
-      (ix) The modifier of the Vehicle must maintain a General Liability Insurance Policy in a minimum amount of $5,000,000.
-
-   (4) Exception for Vehicles seating 10 or more passengers (including the driver) and exempt from NYS DOT Requirements. A For-Hire Vehicle can be altered, after manufacture, provided that the Vehicle, as modified, meets all of the following:
-
-      (i) The For-Hire Vehicle must be properly registered with the NYS Department of Motor Vehicles and must have been re-registered after completion of the modification.
-
-      (ii) The Vehicle must carry the modifier's sticker certifying that the modification was conducted in accordance with Federal Motor Vehicle Safety Standards.
-
-      (iii) The modifier of the Vehicle must certify that it is registered with the National Highway Traffic Safety Administration.
-
-      (iv) The modifier of the Vehicle must provide a warranty that the vehicle will be free from defects in material and workmanship, including that the chassis and frame will be free from defects for a period of 3 years or 60,000 miles, whichever comes first.
-
-      (v) The modifier of the Vehicle must maintain a General Liability Insurance Policy in a minimum amount of $5,000,000.
-
-   (5) Exception for modified Vehicles seating 9 or fewer and exempt from NYS DOT inspection and operating authority requirements.
-
-      A For-Hire Vehicle can be altered, after manufacture, even if the original vehicle manufacturer has not approved the program, provided that the Vehicle, as modified, meets all of the following:
-
-      (i) The For-Hire Vehicle must be properly registered with the NYS Department of Motor Vehicles and must have been re-registered after completion of the modification.
-
-      (ii) The Vehicle must carry the modifier's sticker certifying that the modification was conducted in accordance with Federal Motor Vehicle Safety Standards.
-
-      (iii) The modifier of the Vehicle must certify that it is registered with the National Highway Traffic Safety Administration.
-
-      (iv) The modifier of the Vehicle must provide a warranty that the vehicle will be free from defects in material and workmanship, including that the chassis and frame will be free from defects for a period of 3 years or 60,000 miles, whichever comes first.
-
-      (v) The modifier of the Vehicle must maintain a General Liability Insurance Policy in a minimum amount of $5,000,000.
-
-   (6) Exception for modified Vehicles seating 9 or fewer and NOT exempt from NYS DOT inspection and operating authority requirements.
-
-      A For-Hire Vehicle can be altered, after manufacture, even if the original vehicle manufacturer has not approved the program, provided that the Vehicle, as modified, meets all of the following:
-
-      (i) The Vehicle, as modified, has been approved by the NYS Commissioner of Motor Vehicles under Section 401(1)(b) of the NYS Vehicle and Traffic Law.
-
-      (ii) The Vehicle has passed inspection by the NYS Department of Transportation under 17 NYCRR § 720.
-
-      (iii) For such modified For-Hire Vehicles, the inspections required by 35 RCNY § 59A-04(e) and (f) and 35 RCNY § 59A-26(a) and the requirement to meet safety standards set forth in 35 RCNY § 59A-27, will be inspections of, and determinations by, the NYS Department of Transportation.
-
-      (iv) A modified For-Hire Vehicle must still pass a visual inspection at the Commission's Safety and Emissions Division at application and renewal as required by 35 RCNY § 59A-04(e) and (f).
-
-      (v) The For-Hire Vehicle must be properly registered with the NYS Department of Motor Vehicles and must have been re-registered after completion of the modification.
-
-      (vi) The Vehicle must carry the modifier's sticker certifying that the modification was conducted in accordance with Federal Motor Vehicle Safety Standards.
-
-      (vii) The modifier of the Vehicle must certify that it is registered with the National Highway Traffic Safety Administration.
-
-      (viii) The modifier of the Vehicle must provide a warranty that the vehicle will be free from defects in material and workmanship, including that the chassis and frame will be free from defects for a period of 3 years or 60,000 miles, whichever comes first.
-
-      (ix) The modifier of the Vehicle must maintain a General Liability Insurance Policy in a minimum amount of $5,000,000.
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59A-28(a)
-      - Vehicle Owner Fine: $10,000 and License suspension until compliance if alteration is not approved or revocation if the vehicle is not brought into compliance within 30 days
-      - Appearance Required
-~
-
-
-
- 
-
-(b) Proper Vehicle Identification Required.
-
-   (1) License Plate Number Matches. The license plate number on the motor vehicle tax stamp, on the state registration certificate, and on the Commission Decals must match each other and must match the number on the license plates applied to the Vehicle.
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59A-28(b)(1)
-      - Fine: $200 if plead guilty before a hearing; $300 if found guilty following a hearing.
-      - Appearance NOT Required
-~
-
-
-
- 
-
-   (2) Vehicle Identification Number Matches. The last six digits of the vehicle identification number (VIN) on the Commission Decals must match the last six digits of the VIN on the state registration, and the VIN on the Vehicle.
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59A-28(b)(2) 
-      - Fine: $100 
-      - Appearance NOT Required
-~
-
-
-
- 
-
-   (3) T &amp; LC License Plates. A For-Hire Vehicle that is registered in New York must have New York State license plates affixed to the Vehicle that are embossed with the legend "T &amp; LC."
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59A-28(b)(3) 
-      - Fine: $100 – $350 and Suspension until compliance
-      - Appearance NOT Required
-~
-
-
-
- 
-
-(c) Two-Door Vehicles Prohibited. No For-Hire Vehicle can be a two door vehicle.
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59A-28(c) 
-      - Fine: Suspension of the Vehicle Owner License
-      - Appearance Required
-~
-
-
-
- 
-
-(d) [Repealed.]
-
-
-
-
-
-
-
-
-*§ 59A-29 Vehicles – Markings &amp; Advertising.* ::
-
-
-(a) Valid License Decals.
-
-   (1) Three Valid Commission License Decals must be plainly visible and affixed to the Vehicle in the following locations:
-
-      (i) One Decal must be on the lower front right side of the windshield
-
-      (ii) One Decal must be on the lower rear corner of each of the two rear quarter windows; if there are no rear quarter windows, the Decals must be on the lower rear window just above the rear door.
-
-      (iii) The Decals must be affixed by Commission staff.
-
-   (2) New Decals must be placed on the Vehicle by the Commission Safety and Emissions Division:
-
-      (i) When the License is renewed;
-
-      (ii) If the Vehicle is replaced, changes affiliation, or changes its license plates.
-
-   (3) Exception for Luxury Limousines. Any For-Hire Vehicle that is a Luxury Limousine will only be required to have a single Commission Decal affixed to the lower right side of the front windshield. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59A-29(a)
-      - Failure to have proper Decal(s):$500 for the first offense in 12 months$1,000 for the second and subsequent offenses within a 12-month period and suspension of the For-Hire Vehicle License until compliance.
-      - Appearance NOT Required
-~
-
-
-
- 
-
-(b) Valid Registration Sticker. A Valid registration sticker from an authorized state motor vehicle department must be affixed to the left front windshield so as to be plainly visible. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59A-29(b)
-      - Fine: $100
-      - Appearance NOT Required
-~
-
-
-
- 
-
-(c) Inspection Sticker. A Valid New York State DMV inspection sticker that has no fewer than eight months left before the sticker expires must be plainly visible on the front left side of the front windshield. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59A-29(c)
-      - Vehicle Owner Fine: $100 and suspension of the Vehicle Owner License until any defect found is correctedPenalty Points: 1.
-      - Appearance Required
-~
-
-
-
- 
-
-(d) Prohibited Colors for Vehicle Exteriors. No For-Hire Vehicle can be, in whole or in part, any shade of Taxicab Yellow, and no For-Hire Vehicle not licensed and Valid to operate as a Street Hail Livery can be, in whole or in part, any shade of Apple Green as authorized for use with a Street Hail Livery provided in 35 RCNY Chapter 82 of these Rules. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59A-29(d)
-      - Fine: $350 for the first violation; $500 for the second violation in 24 months; revocation for the third violation in 36 months
-      - Appearance Required
-~
-
-
-
- 
-
-(e) Prohibited Advertising.
-
-   (1) An Owner must not display any advertising on the exterior or the interior of a For-Hire Vehicle unless the advertising has been authorized by the Commission and a License has been issued to the Owner following the provisions of the Administrative Code.
-
-   (2) The Commission will not approve any advertising for the exterior of a For-Hire Vehicle that consists, in whole or in part, of roof top advertising. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59A-29(e)
-      - Fine: $50
-      - Appearance NOT Required
-~
-
-
-
- 
-
-(f) Motor Vehicle Tax Stamp.
-
-   (1) For Vehicles registered with the Department of Motor Vehicles prior to April 30, 1999, a Valid NYC commercial use motor vehicle tax stamp must be affixed to the front right side of the windshield of the Vehicle so as to be plainly visible.
-
-   (2) For Vehicles registered after April 30, 1999, the Owner must show proof that the required commercial use motor vehicle tax for the current tax period has been paid. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59A-29(f)
-      - Fine: $100 
-      - Appearance NOT Required
-~
-
-
-
- 
-
-(g) Base Station Affiliation Signs. For-Hire Vehicles must identify their Affiliated Base Station on the exterior of the Vehicle as follows:
-
-   (1) The name of the Base Station, its License number and telephone number in one of the following ways:
-
-      (i) In letters and numerals at least one-and-one-half inches in height, on the outside of a door or doors on both sides of the Vehicle, below the windows and at least six inches above the bottom of the door(s);
-
-      (ii) In letters and numerals at least one inch in height in one location on the rear of the Vehicle below the rear window, and at least six inches above the bottom of the rear of the Vehicle, or
-
-      (iii) Both on the doors and rear of the Vehicle.
-
-   (2) The letters and numerals must be of a color that contrasts with the color of the body of the Vehicle so that it is easy to see and read.
-
-   (3) Lettering and numbering must be spaced to provide easy legibility and, if placed on doors on both sides of the Vehicle must be identical on both sides of the livery.
-
-   (4) All Decals must be semi-permanent adhesive stickers.
-
-   (5) Exemption. Luxury Limousines and Black Cars are exempt from the requirements of this subdivision. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59A-29(g)
-      - Fine: $25
-      - Appearance NOT Required
-~
-
-
-
- 
-
-(h) Required Signage for Accessible Vehicles. Any Accessible Vehicle licensed by the Commission must display signs that identifies the Vehicle as an Accessible Vehicle. The signs design will be provided by the Commission on its Web site or through other appropriate means as announced on its Web site. The signs must be placed on the Vehicle as follows:
-
-   (1) Must be located on the exterior of the C-pillars of a sedan or an SUV or on the exterior of the D-pillars of a minivan, on both sides of the Vehicle
-
-   (2) Must be visible to Passengers entering the accessible Vehicle 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59A-29(h)
-      - Fine: $75
-      - Appearance NOT Required
-~
-
-
-
- 
-
-(i) Required Signage for Clean-Air Vehicles. Any Clean Air For-Hire Vehicle licensed by the Commission must display signs that identify the Vehicle as a Clean Air Vehicle. The signs design will be provided by the Commission on its Web site or through other appropriate means as announced on its Web site. The signs must be placed on the Vehicle as follows:
-
-   (1) Must be located on the exterior of the C-pillars of a sedan or an SUV or on the exterior of the D-pillars of a minivan, on both sides of the Vehicle
-
-   (2) Must be visible to Passengers entering the clean air vehicle 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59A-29(i)
-      - Fine: $75
-      - Appearance NOT Required
-~
-
-
-
- 
-
-(j) Required Sticker. Each For hire-vehicle must display an internal safety sticker, with the following inscription: "Turning? People are Crossing." The dimensions of the sticker are 3.5 inches wide by 2.5 inches high. The sticker must be obtained pursuant to the instructions on the Commission's website or through other appropriate means announced on the website. The sticker must be placed in the Vehicle as follows:
-
-   (1) On the inside of the front windshield, in the center and adjacent to the top of the windshield directly behind the rearview mirror.
-
-   (2) In such a manner not to obstruct the driver's view. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59A-29(j)(1) and (2)
-      - Fine: $75
-      - Appearance NOT Required
-~
-
-
-
- 
-
-(k) Optional Sticker. For hire-vehicles may display an optional external sticker, with the following inscription: "The choices you make behind the wheel matter." The dimensions of the sticker are 15 inches wide by 4 inches wide. The sticker may be obtained pursuant to the instructions on the Commission's website or through other appropriate means announced on the website. If displayed, the sticker must be placed on the Vehicle as follows:
-
-   (1) On the rear bumper of the vehicle.
-
-(l) Required Sticker. Each For Hire-Vehicle must display an internal safety sticker, with the following inscription: "ATTENTION: Assaulting A Driver Is Punishable By Up to Twenty-Five Years in Prison." The dimensions of the sticker are 8.0 inches wide by 2.0 inches high. The sticker must be obtained pursuant to the instructions on the Commission's website or through other appropriate means announced on the website. The sticker must be placed in the Vehicle as follows:
-
-   (1) Incorporated into the Livery Bill of Rights.
-
-The provisions of this subdivision do not apply to black cars and luxury limousines.
-
-(m) Optional Sticker. Each For Hire-Vehicle may display an external safety sticker, with the following inscription: “Taxi and Limousine Drivers Are Protected By New York State Law ATTENTION: Assaulting A Driver Is Punishable By Up to Twenty-Five Years in Prison.” The dimensions of the sticker are 3.5 inches wide by 3.5 inches high. The sticker may be obtained pursuant to the instructions on the Commission’s website or through other appropriate means announced on the website. The sticker must be placed in the Vehicle as follows:
-
-   (1) On a rear passenger window.
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59A-29(l)(1)
-      - Fine: $50 if plead guilty before a hearing, $75 if found guilty following a hearing
-      - Appearance NOT Required
-~
-
-
-
- 
-
-(n) Required Decal. Each For-Hire Vehicle with Hearing Induction Loop capability must display a Hearing Induction Loop Decal. The decal will feature the International Symbol of Access for Hearing Loss, described as the profile of an ear with a wide diagonal line running from the bottom left to the top right. The symbol contrast shall be light on dark or dark on light. A "T" will be placed in the lower right-hand corner of the decal. The decal will include the language "Induction loop installed. Switch hearing aid to T-coil." The decal will be placed as follows:
-
-   (1) As directed by the Chairperson.
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59A-29(n)(1)
-      - Fine: $50 if plead guilty before a hearing, $75 if found guilty following a hearing
-      - Appearance NOT Required
-~
-
-
-
- 
-
-
-
-
-
-
-
-
-*§ 59A-30 Vehicles – Items Required to be in Vehicle.* ::
-
-
-(a) Required Items. Each For-Hire Vehicle must have:
-
-   (1) On the right visor, on top of the right side of the dashboard, or in the glove compartment:
-
-      (i) The certificate of registration or a legible copy of it
-
-      (ii) The insurance card or a legible copy of it
-
-   (2) A protective holder to display the TLC Driver License attached to the back of the driver’s seat.
-
-   (3) Exception for Black Cars and Luxury Limousines.
-
-      (i) Black Cars and Luxury Limousines must comply with all requirements of this subdivision (a) except that these Vehicles will not be required to have a protective holder mounted behind the driver's seat to display the TLC Driver License.
-
-      (ii) The TLC Driver License must, however, be displayed in the Vehicle in a way so as to be clearly visible from the Passenger seat and available for inspection by the Passenger upon request.
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59A-30(a)(1)-(3)
-      - Fine: $50 for each violation of this rule; however, no fine for a violation of this rule can exceed $100
-      - Appearance Required
-~
-
-
-
- 
-
-   (4) Livery Passengers' Bill of Rights.
-
-      (i) Every Livery Vehicle Owner must post a Livery Passengers' Bill of Rights in a form and format prescribed by the Commission.
-
-      (ii) The Commission will post the proper form and format on its Web site or will provide the information through other appropriate means that will be posted on its Web site.
-
-      (iii) The Livery Passengers' Bill of Rights must be placed in a protective holder attached to the back of the front Passenger's seat. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59A-30(a)(4)
-      - Fine: $100 if plead guilty before a hearing; $150 if found guilty following a hearing.
-      - Appearance NOT Required
-~
-
-
-
- 
-
-   (5) Modified Vehicles. If the Vehicle has been modified after manufacture and IS exempt from NYS Department of Transportation inspection and authorization requirements, a copy of the valid exemption letter from the NYS Department of Transportation must be kept in the Vehicle at all times. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59A-30(a)(5)
-      - Fine: $100.
-      - Appearance NOT Required
-~
-
-
-
- 
-
-   (6) A copy of the receipt issued by the Commission, if any, or other proof of payment of the Commercial Motor Vehicle Tax. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59A-30(a)(6)
-      - Fine: $75
-      - Appearance NOT Required
-~
-
-
-
- 
-
-(b) Trip Record.
-
-   (1) The Trip Record required in § 59A-19(b) of this Chapter must be kept in the Vehicle during any trip between New York City and an Issuing Jurisdiction, including a trip through either New York City or an Issuing Jurisdiction.
-
-   (2) On request, the Trip Record must be presented for inspection to any police officer or peace officer acting in his or her special duties or to other persons authorized by the Commission or by the Issuing Jurisdiction.
-
-   (3) Failure to present the Trip Record as required when requested by an authorized person will be presumptive evidence of an unlicensed operation. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59A-30(b)
-      - Fine: $300
-      - Appearance NOT Required
-~
-
-
-
- 
-
-
-
-
-
-
-
-
-*§ 59A-31 Vehicle – Equipment.* ::
-
-
-(a) Heating and Air Conditioning. The Owner of a For-Hire Vehicle must be responsible for ensuring that the Vehicle is equipped with functioning heating and air conditioning equipment. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59A-31(a)
-      - Fine: $50
-      - Appearance NOT Required
-~
-
-
-
- 
-
-(b) Roof Light. A For-Hire Vehicle must not be equipped with a roof light, except for a Vehicle that operates primarily in Staten Island and is affiliated with a Base located in Staten Island. A roof light on a Staten Island Vehicle must be approved. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59A-31(b)
-      - Fine: $350 – first violation$500 – second violation in 24 months Revocation for third violation in 36 months
-      - Appearance Required
-~
-
-
-
- 
-
-(c) Taximeter. No For-Hire Vehicle can be equipped with a Taximeter except a wheelchair accessible Livery which is participating in the dispatch program as described in 35 RCNY Chapter 3 of this title or a Street Hail Livery pursuant to 35 RCNY § 59B-51.
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59A-31(c)
-      - Fine: $50
-      - Appearance NOT Required
-~
-
-
-
- 
-
-(d) Distress Signaling Light – Livery Vehicle.
-
-   (1) Requirement. The Vehicle must be equipped with a help or distress signaling light system as required by the specifications in 35 RCNY § 59C-03 of these Rules.
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59A-31(d)
-      - Fine: $175 and suspension until the condition is corrected. Respondent must provide a condition corrected form issued by the TLC's Safety and Emissions Division.
-      - Appearance NOT Required
-~
-
-
-
- 
-
-   (2) Exemption. A Vehicle will be exempt from the requirements of this subdivision if the Vehicle is affiliated with a Black Car Base or a Luxury Limousine Base.
-
-(e) Electronic Dispatching Device. In addition to the dispatch equipment required by the Vehicle's affiliated Base pursuant to 35 RCNY § 59B-15(d)(1), a For-Hire Vehicle may be equipped with the following electronic device(s) provided that that the device(s) is mounted in a fixed position and not hand-held and use of the electronic device(s) is limited to either voice or one-touch preprogrammed buttons or keys while the Vehicle is in motion:
-
-   (1) If the dispatch equipment required by the Vehicle's affiliated Base is capable of accepting dispatches from other Bases or Dispatch Service Providers, ONE electronic device that is used to accept dispatches from a Base or Dispatch Service Provider.
-
-   (2) If the dispatch equipment required by the Vehicle's affiliated Base is not capable of accepting dispatches from other Bases or Dispatch Service Providers, TWO electronic devices that are used to accept dispatches from a Base or Dispatch Service Providers.
-
-
-
-
-
-
-
-
-*§ 59A-32 Vehicle Equipment – Partitions for Livery Vehicles.* ::
-
-
-(a) Requirement. A For-Hire Livery Vehicle must be equipped with a partition that isolates the Driver from the rear seat Passengers as described in 35 RCNY § 59C-02 of these Rules. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59A-32(a)
-      - Fine: $350 if plead guilty before a hearing and supply a condition corrected form issued by TLC's Safety and Emissions Division; $450 if found guilty following a hearing. Suspension until the condition is corrected.
-      - Appearance NOT Required
-~
-
-
-
- 
-
-(b) Exemptions.
-
-   (1) A For-Hire Livery Vehicle will be exempt from the requirements of subdivision (a) if the Vehicle is equipped with all of the following safety devices:
-
-      (i) An FCC-licensed commercial two-way radio with an emergency button that would notify the dispatcher that the Driver is in trouble or a cellular telephone that has an emergency dialing feature
-
-      (ii) The distress signaling light required by 35 RCNY § 59A-31(d), above
-
-      (iii) An approved in-vehicle camera system.
-
-   (2) Black Cars and Luxury Limousines are exempt from this requirement.
-
-
-
-
-
-
-*§ 59A-33 Vehicle Equipment – In-Vehicle Camera System (IVCS).* ::
-
-
-(a) Requirements for In-Vehicle Camera System. When an existing in-vehicle camera system is required to be replaced or when the system is installed as one of the three safety devices specified in 35 RCNY § 59A-32, the Livery Vehicle must be equipped with an IVCS that meets the specifications of 35 RCNY § 59C-01; the system must be installed and maintained by the manufacturer's authorized installer or a Taximeter Business that meets the requirements of 35 RCNY § 59C-01 of these Rules; and the IVCS must be functioning and maintained in good working order. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59A-33(a)
-      - Fine: $350 if plead guilty before a hearing and supply a condition corrected form issued by TLC's Safety and Emissions Division; $450 if found guilty following a hearing. Suspension until the condition is corrected.
-      - Appearance NOT Required
-~
-
-
-
- 
-
-(b) Required Signage About In-Vehicle Camera System. Each For-Hire Vehicle equipped with an in-vehicle camera system must display Decals on each rear Passenger window, visible to the outside, that contain the following information in letters at least one-half inch high: "This vehicle is equipped with camera security. You will be photographed." 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59A-33(b)
-      - Fine: $50 if plead guilty before a hearing; $100 if found guilty following a hearing.
-      - Appearance NOT Required
-~
-
-
-
- 
-
-
-
-
-
-
-*§ 59A-34 Taxicab Specific Vehicle Equipment. [Reserved]* ::
-
-
-(a) Four Penalty Points Requires License Revocation. The License of any For-Hire Vehicle that accumulates four penalty points for violations during any License term will be revoked.
-
-(b) Points Accrued but not Assessed Before Renewal.
-
-   (1) If points are imposed after a Vehicle License has been renewed based on a violation that occurred before the renewal, the points will be added to the total points accumulated by the Vehicle before its renewal.
-
-   (2) If the additional Points raise the total number to four or more Points, the Vehicle License will be revoked.
-
-(c) Revocation Process.
-
-   (1) The Chairperson can begin revocation proceedings whenever a Licensee has been assessed four or more points during the current term of that License.
-
-   (2) The Licensee's License can also be revoked as part of the decision imposing the final point necessary for revocation.
-
-   (3) At any time revocation of a Base License is mandated and the last penalty point arises from the same incident that created the For-Hire Vehicle License revocation mandate, separate proceedings must be held for the Base License revocation and the Vehicle License revocation.
-
-(d) The Chairperson will develop a point reduction program applicable to Vehicles and Bases.
-
-(e) No penalty points will be imposed for violations occurring before August 1, 2009.
-
-
-
-
-
-
-
-**Subchapter 59B: For-Hire Base Owners**
-
-
-
-*§ 59B-01 Scope of this Sub-chapter.* ::
-
-
-(a) To establish the procedures, rules and regulations for obtaining and maintaining a For-Hire Base License, specifically for a:
-
-   (1) Livery Base Station
-
-   (2) Black Car Base
-
-   (3) Luxury Limousine Base
-
-(b) To provide penalties for violations of the rules and requirements for maintaining a For-Hire Base License.
-
-
-
-
-
-
-*§ 59B-02 Penalties.* ::
-
-
-(a) Unlicensed Activity.
-
-   (1) Unlicensed Activity is the act of providing or advertising the provision of any Commission-regulated for hire transportation service by:
-
-      (i) Any Licensee whose License is suspended, revoked, or expired and not yet renewed (except as provided in this Sub-chapter), or
-
-      (ii) Any person who does not hold a License or Authorization from the Commission;
-
-   (2) Unlicensed Activity specifically includes the activities listed in § 19-506 and § 19-528 of the Administrative Code, and can subject the violator to the seizure and possible forfeiture of the vehicle involved.
-
-(b) Specific Penalties. If there are specific penalties for violating a Rule, they are shown at the end of the Rule. The penalty section also states whether the violator must attend the Hearing.
-
-(c) Payment of Fines.
-
-   (1) Fines are due not later than 30 days after the Respondent is found guilty of or pleads guilty to the violation, unless:
-
-      (i) the Respondent files an appeal of the decision issued by the Taxi and Limousine Tribunal within the time required by Chapter 5 of Title 48 of the Rules of the City of New York, in which case the payment of the fines will be deferred until 30 days after the date of the appeal decision.
-
-   (2) If the fine is not paid by the close of business on the date due, the Commission will notify the Respondent in writing that the Respondent's License will be suspended in 10 business days of the date of the notification until the fine is paid, unless the Respondent demonstrates to the Commission, in person or in writing, that the fine has been paid.
-
-
-
-
-
-
-*§ 59B-03 Definitions Specific to this Sub-chapter.* ::
-
-
-(a) Applicant in this Sub-chapter means an Applicant for an original or renewal For-Hire Base License.
-
-(b) Black Car is a Vehicle that affiliates with a Black Car Base.
-
-(c) Black Car Base is a "central dispatch facility" (as the term is defined in New York Executive Law, § 160-cc) and For-Hire Base that operates as follows:
-
-   (1) All Black Car Vehicles are dispatched on a pre-arranged basis;
-
-   (2) All Black Car Vehicles are owned by franchisees of the Base or are members of a cooperative that operates the Base; and
-
-   (3) More than ninety percent (90%) of the Base's business is on a payment basis other than direct cash payment by a Passenger.
-
-(d) Black Car Fund is the New York Black Car Operators' Injury Compensation Fund, Inc. established under Article 6-F of the NYS Executive Law.
-
-(e) Driver in this Sub-chapter means a For-Hire Driver.
-
-(f) For-Hire Base (or "Base") is the Commission-licensed business for dispatching For-Hire Vehicles and the physical location from which For-Hire Vehicles are dispatched; a For Hire Base can be any of the following:
-
-   (1) A Black Car Base,
-
-   (2) A Livery Base (or Base Station),
-
-   (3) A Luxury Limousine Base.
-
-(g) For-Hire Driver in this Sub-chapter means a Driver of a For-Hire Vehicle.
-
-(h) For-Hire Vehicle is a motor Vehicle Licensed by the Commission to carry Passengers For-Hire in the City, which:
-
-   (1) Has a seating capacity of 20 or fewer Passengers
-
-   (2) Has three or more doors
-
-   (3) Is not a Taxicab, a Commuter Van, or an authorized bus as defined by NYS law
-
-      (i) Independent Base Station is a Livery Base Station that is designated as an independent livery base under § 18-c of the NYS Workers' Compensation Law because it has joined the Livery Fund.
-
-(j) Independent Livery Driver is the Driver of a Livery which is affiliated with an Independent Base Station.
-
-(k) License in this Sub-Chapter means a For-Hire Base License.
-
-(l) Livery is a For-Hire Vehicle that is affiliated with a Livery Base Station.
-
-(m) Livery Base Station ("Base" or "Base Station") is a For-Hire Base that operates as follows:
-
-   (1) Livery Vehicles are dispatched from the Base on a pre-arranged basis.
-
-   (2) Livery Vehicles are designed to carry fewer than six (6) Passengers.
-
-   (3) Passengers are charged for service on the basis of a flat rate, time, mileage, or zones.
-
-(n) Livery Fund is the independent livery driver benefit fund established under Article 6-G of the NYS Executive Law.
-
-(o) Luxury Limousine is a For-Hire Vehicle that is affiliated with a Luxury Limousine Base.
-
-(p) Luxury Limousine Base is a For-Hire Base that operates as follows:
-
-   (1) All Luxury Limousines are dispatched from the Base by pre-arrangement.
-
-   (2) Luxury Limousine Vehicles have a seating capacity of 20 or fewer Passengers.
-
-   (3) More than ninety percent (90%) of its business is on a payment basis other than direct cash payment by a Passenger.
-
-   (4) Passengers are charged "garage to garage" service on the basis of a flat rate, time or mileage.
-
-(q) Mailing Address for a For-Hire Base will be the Base address.
-
-(r) Owner in this Sub-chapter refers to a For-Hire Base Owner. An Owner can be a Business Entity or a person.
-
-(s) Penalty Point is a non-monetary penalty assessed against either a Base Owner or the Owner of a For-Hire Vehicle if they are convicted of certain violations in this Chapter.
-
-(t) Respondent means an individual or Business Entity who has been noticed and charged with a violation of one or more of these Rules or the Administrative Code, or with being unfit to hold a License.
-
-(u) Vehicle in this Sub-chapter refers to a For-Hire Vehicle.
-
-
-
-
-
-
-*§ 59B-04 Licensing – General Requirements.* ::
-
-
-(a) [Reserved.] Identification.
-
-(b) [Reserved.] Age.
-
-(c) Fingerprinting to Verify Good Moral Character.
-
-   (1) Initial Applicants. An individual or all Limited Business Entity Persons of a Business Entity applying for a Base License must be fingerprinted for the purpose of securing criminal history records from the New York State Division of Criminal Justice Services.
-
-   (2) Review of Criminal History. The criminal history must be reviewed in a manner consistent with Article 23-A of the New York State Correction Law.
-
-   (3) Additions or Changes to Applicant. Before or within five days after any change or addition to the Limited Business Entity Persons of a Business Entity Licensee:
-
-      (i) The Licensee must file an application with the Commission for approval of the change or addition on forms that are prescribed by the Commission.
-
-      (ii) The new Limited Business Entity Person(s) must be fingerprinted as required by this subdivision.
-
-   (4) The Applicant or Licensee must pay any processing fee required.
-
-(d) [Reserved.] Designate Drivers as Agents to Receive Service.
-
-(e) Bond Required.
-
-   (1) Before a For-Hire Base License will be issued or renewed, the Applicant must provide the Commission with a bond in the amount of $5,000 with one or more sureties to be approved by the Commission.
-
-   (2) The bond must be for the benefit of New York City and must guarantee the following:
-
-      (i) The Licensee will dispatch only vehicles that are currently licensed by the Commission and that have a current New York City commercial use motor vehicle tax stamp.
-
-      (ii) The Licensee will pay all civil penalties owed for violating any provision of this Chapter.
-
-   (3) The bond will permit the Commission to draw upon the bond to pay any penalties owed by the Base for any violation of this Chapter that has not been paid when due or after completion of any appeal.
-
-      (i) The Chairperson will give the Base Owner 30 days' notice before drawing upon the bond to pay any penalty.
-
-      (ii) If the Commission has to draw on the bond, the Base Owner will be assessed one Penalty Point.
-
-   (4) The bond must be maintained by the Base Owner for the term of the License. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59B-04(e)
-      - Fine: $250 for failure to post or maintain bond; Penalty Points: One Penalty Point for draw on bond.
-      - Appearance NOT Required 
-~
-
-
-
- 
-
-(f) Payment of Fines and Fees.
-
-   (1) An Applicant, including an applicant for a renewal License, must pay, and provide proof of payment of, any outstanding fines or fees owed by the Applicant to
-
-      (i) the Commission,
-
-      (ii) NYC Department of Finance's Parking Violations Bureau,
-
-      (iii) NYC Department of Finance's Red Light Camera Unit,
-
-      (iv) NYS DMV's Traffic Violations Bureau and
-
-      (v) any of their successor agencies.
-
-   (2) This requirement includes payment of fines and fees owed as of the date of the application by
-
-      (i) any Business Entity Persons of the Applicant
-
-      (ii) any Business Entity of which the Applicant is a Business Entity Person, and
-
-      (iii) any Business Entity of which a Business Entity Person of Applicant is also a Business Entity Person.
-
-   (3) An Applicant, including an Applicant for a renewal License, must pay any fines related to their failure to surrender a previously revoked License (of any type), unless the Applicant can demonstrate in person or in writing that the License has been surrendered.
-
-(g) Business Entities. An Applicant which is a Business Entity must provide the following documents:
-
-   (1) Partnerships. If the Applicant is a partnership, it must file with its application a certified copy of the partnership certificate from the clerk of the county where the partnership's principal place of business is located.
-
-   (2) Corporations. If the Applicant is a corporation, it must file with its application:
-
-      (i) A certified copy of its certificate of incorporation
-
-      (ii) A list of officers and shareholders
-
-      (iii) A certified copy of the minutes of the meeting at which the current officers were elected.
-
-   (3) Limited Liability Companies (LLCs). If the Applicant is a limited liability company, it must file with its application:
-
-      (i) A copy of its articles of organization
-
-      (ii) A copy of its operating agreement
-
-      (iii) A list of the members, with the percentages of the Applicant owned by each.
-
-(h) Address. An Applicant must give the Commission the Applicant's current Mailing Address and Email Address.
-
-(i) Fit to Hold License. An Applicant (including the individual, Business Entity or any Limited Business Entity Persons) must demonstrate that they are Fit to Hold a License.
-
-
-
-
-
-
-*§ 59B-04.1 Licensing – Issuance of Street Hail Livery Base Licenses.* ::
-
-
-(a) Issuance of Licenses. The Commission can issue up to 450 Street Hail Livery Base Licenses. The Commission can re-issue any Street Hail Livery Base Licenses when such licenses are revoked, surrendered, not renewed or otherwise terminated by a holder or the Commission.
-
-(b) Initial Issuance Period.
-
-   (1) Priority to Licensed Bases. During the one month period following issuance of the first Street Hail Livery License which is the Initial Street Hail Livery Base Issuance Period, only a Livery Base that is licensed by the Commission and is in good standing can obtain a Street Hail Livery Base License.
-
-   (2) Good Standing. For purposes of the Street Hail Livery Base Issuance Period Initial, a Livery Base is in good standing and may participate in the issuance if the Base:
-
-      (i) Has been continuously in operation as a Licensed Livery Base for at least three years on the date of Street Hail Livery Base License application and
-
-      (ii) Has no outstanding fines, summonses or suspensions as of the date of the application for the Street Hail Livery Base License.
-
-(c) Second Issuance Period.
-
-   (1) Priority to Licensed Livery and Paratransit Bases. During the Second Street Hail Livery Base Issuance Period (that is, the five month period following the Initial Street Hail Livery Base Issuance Period), a Street Hail Livery Base License can be issued only to the following types of bases and only if those bases are in good standing.
-
-      (i) A Livery Base
-
-      (ii) A Paratransit Base
-
-      (iii) A Commuter Van Service
-
-   (2) Good Standing. For purposes of the Second Street Hail Livery Base Issuance Period, a base is in good standing and may participate in the issuance if that base:
-
-      (i) Has been continuously in operation as a Licensed Livery Base or Paratransit Base or Commuter Van Service for at least three years on the date of Street Hail Livery Base License application and
-
-      (ii) Has no outstanding fines, summonses or suspensions as of the date of the application for the Street Hail Livery Base License.
-
-(d) Issuance following Initial and Second Issuance Periods.
-
-   (1) After the Street Hail Livery Base Initial and Second Issuance Period, any person or Business Entity can apply for a Street Hail Livery Base License.
-
-(e) Each Applicant for a Street Hail Livery Base License must meet all the requirements of this Chapter.
-
-(f) An Applicant which also holds a Paratransit Base License or Commuter Van Service Authorization must continue to comply with requirements applicable to such license for all vehicle dispatched under that license.
-
-
-
-
-
-
-*§ 59B-04.2 Licensing – Street Hail Livery Base Can Act as Representative.* ::
-
-
-(a) Upon notice to the Commission, in a manner prescribed by the Commission, the Owner of a Street Hail Livery License may designate an individual Owner of a Street Hail Livery Base with which such Owner of a Street Hail Livery License is affiliated, or a Limited Business Entity Person of a Business Entity that owns a Street Hail Livery Base with which such Owner of a Street Hail Livery License is affiliated, to appear before the Commission as a representative of such Owner of a Street Hail Livery License. Upon notice to the Commission and in a manner prescribed by the Commission, an applicant for a Street Hail License seeking to affiliate with a Street Hail Livery Base may designate an individual Owner of a Street Hail Livery Base with which such applicant is seeking to affiliate, or a Limited Business Entity Person of a Business Entity that owns a Street Hail Livery Base with which such applicant is seeking to affiliate, to appear before the Commission as a representative of such applicant. The scope of such representation is limited to business transactions related to licensing and transfers of vehicle affiliations with a Street Hail Livery License, and excludes transactions for the initial purchase of a Street Hail Livery License or transfer of ownership of or interests in a Street Hail Livery License.
-
-
-
-
-
-
-
-
-*§ 59B-05 Licensing – Special Requirements for Livery Base Stations and Street Hail Livery Bases.* ::
-
-
-(a) Fitness to Hold a License.
-
-   (1) An Applicant for a License to operate a Livery Base Station must demonstrate to the satisfaction of the Commission that the Applicant is fit to operate a Base Station.
-
-   (2) The Commission will consider:
-
-      (i) The ability of the Applicant to adequately manage the Base Station,
-
-      (ii) The Applicant's financial stability,
-
-      (iii) Whether the Applicant operates or has previously operated a Licensed Base Station and the manner in which that Base Station was operated.
-
-   (3) The Commission will also consider any relevant information maintained in the records of the Department of Motor Vehicles or the Commission.
-
-(b) Off-Street Parking. An Applicant for a License to operate a Livery Base Station must demonstrate to the satisfaction of the Commission that the operator of the Base Station will comply with the provision to provide and use lawful off-street facilities as described in 35 RCNY § 59B-15(j).
-
-(c) Local Review. A determination by the Commission to approve an application for a new or renewal License to operate a Livery Base Station will not become final until the determination has been subject to review by the New York City Council, as follows:
-
-   (1) Upon receipt of an application for a new or renewal Livery Base Station License, the Commission will, within five business days, submit a copy of the application to the City Council and to the district office of the City Council member and the community board for the area in which the Base Station is or would be located.
-
-   (2) Within five days of a decision to approve a new or renewal Base Station License, the Commission will send to the City Council and to the district office of the Council member within whose district that Base Station is or would be located:
-
-      (i) A written copy of the approval decision.
-
-      (ii) Copies of the data, information, and other materials the Commission relied on to make the decision.
-
-   (3) Action by City Council. [;Admin Code § 19-511.1];
-
-      (i) Within 90 days of the first scheduled meeting following receipt of the decision and back-up data, the Council can adopt a resolution to review the decision and can approve or disapprove it.
-
-      (ii) If the Council fails to act within the 90-day period, the Commission's decision will become final.
-
-(d) Submit Business Plan – Livery Base Only. A Livery Base Station must submit a business plan with each application for a new or renewal License or for a change of ownership of the Base Station License. The business plan must include:
-
-   (1) Contact Information. The business name, address, telephone number, email address and 24-hour contact number for the Base Station;
-
-   (2) Plans for Ensuring Compliance with Commission Rules.
-
-      (i) A general description of how the Base Station intends to monitor and ensure that the Base Station itself, its affiliated Vehicle Owners, and the Drivers operating the affiliated Vehicles comply with these Rules;
-
-      (ii) A specific plan for assuring that affiliated Vehicles and their Drivers provide transportation only through pre-arrangement made with the Base
-
-      (iii) A specific description of how the Base plans to prevent its affiliated Vehicles and their Drivers from accepting street hails
-
-   (3) Plans for Preventing Recurrence of Past Violations. A description of how the Base Station intends to prevent a recurrence of any Rule violations that occurred during the current and previous (if any) term(s) of its License.
-
-   (4) Off-Street Parking. Policies and procedures regarding off-street parking, including:
-
-      (i) The address of the Livery Base's off-street parking location
-
-      (ii) How far the off-street parking location is from the Livery Base.
-
-      (iii) How the Base will encourage its affiliated Vehicles to use the Livery Base's off-street parking location, and
-
-      (iv) How the Livery Base will ensure that the affiliated Vehicles not using the off-street parking location do not violate applicable traffic and parking regulations when they are in the area around the Base Station.
-
-   (5) Number of Vehicles.
-
-      (i) Renewal Applicants must include the number of Vehicles currently affiliated with the Base Station
-
-      (ii) New Applicants must include the number of Vehicles they expect to be affiliated with the Base Station when it obtains the License
-
-      (iii) Both new and renewal Applicants must include an estimate of the average number of Vehicles they expect to be affiliated with the Base during the term of the License;
-
-      (iv) A Street Hail Livery Base can affiliate both Street Hail Liveries and other For-Hire Vehicles if it is also a Base or Street Hail Liveries and Paratransit Vehicles if it is a Paratransit Base.
-
-   (6) Number of Trips.
-
-      (i) A renewal Applicant must include the average number of requests currently received and the average number of trips currently dispatched on a daily basis.
-
-      (ii) A new Applicant must include an estimate of average number of requests it expects to receive and the average number of trips it expects to dispatch on a daily basis when it obtains the License.
-
-      (iii) Both new and renewal Applicants must include an estimate of the average requests they expect to receive and the average number of trips they expect to dispatch on a daily basis during the term of the License;
-
-   (7) Customer Service. A description of how calls will be answered, rides dispatched, and complaints handled;
-
-   (8) Hours of Operation.
-
-      (i) The hours during which the Base will be providing transportation,
-
-      (ii) The hours the Base office will be open;
-
-   (9) Rates. A Rate Schedule in a form and format approved by the Chairperson, including, for a Street Hail Livery Base, rates applicable to Street Hail Liveries when dispatched on a Pre-Arranged Trip; provided that a Street Hail Livery Base doing no pre-arranged business is not required to file a Rate Schedule.
-
-   (10) Miscellaneous. Any other matters required by the Chairperson or the Commission as a condition of renewal of a Base Station License in light of the specifics of the Base Station's application and operating history.
-
-
-
-
-
-
-*§ 59B-06 Licensing – Term of License.* ::
-
-
-(a) New Base License Term.
-
-   (1) The term of a new For-Hire Base License will expire three years after the last day of the month in which the new License is issued.
-
-   (2) Example:
-
-      (i) A new Applicant files on October 10, 2009.
-
-      (ii) The Commission approves the application on December 15, 2009.
-
-      (iii) No action is taken by the City Council within its 90-day period , and the Commission issues a License on March 24, 2010.
-
-      (iv) That License would expire on March 30, 2013.
-
-(b) Base License Renewal Term.
-
-   (1) A License issued to a renewing Applicant on or after July 2, 2009 will expire three years after the date on which the previous License expired.
-
-   (2) A License issued prior to July 2, 2009 will expire two years after the date on which the previous License expired.
-
-(c) When to File for Renewal.
-
-   (1) A renewing Applicant must file a completed application at least 60 days before the expiration date of the License.
-
-   (2) Application Submission Date.
-
-      (i) Applications filed online: The date of submission is the date an application is filed online.
-
-      (ii) Applications filed by mail: The date of submission is the postmark date.
-
-      (iii) Applications filed in person: The date of submission is the date an application is filed in person.
-
-   (3) The Commission will not accept a renewal application after the expiration date of the License. If the application is not filed before the expiration date, the License cannot be renewed.
-
-(d) Extensions.
-
-   (1) If a timely application for renewal of a License has been made as required in subdivision (c), above, the Chairperson will extend the effectiveness of the License until review of the renewal application is completed.
-
-   (2) The effectiveness of the License during this extended period applies even if the application is ultimately denied.
-
-   (3) If an extended License renewal application is approved, the renewal License expiration date will be based on the original expiration date of the License and not the extended date.
-
-(e) Suspended Licenses.
-
-   (1) If a License is suspended, the Licensee must apply for renewal as required in (c) above if the Licensee wants to renew the License. Failure to complete the renewal requirements means that the License cannot be renewed.
-
-   (2) A License that is suspended is not Valid and cannot be used until the suspension ends. This is true even if the Applicant has filed an application for a renewal.
-
-   (3) The suspended Base License holder must notify all vehicle owners that are affiliated with the suspended Base of the suspension within five days of the imposition of that suspension.
-
-(f) Street Hail Livery Base Licenses.
-
-   (1) Suspension, Revocation, or Failure to Renew. If an underlying Base License or Paratransit Base License or Commuter Van Service Authorization is suspended or revoked as a result of the imposition of a penalty under this or another Chapter of these Rules, or if the underlying License fails to be renewed for any reason, the suspension, revocation or failure to renew is also applicable to the Street Hail Livery Base License.
-
-   (2) A Street Hail Livery Base License will expire three years after the date it was issued or earlier if it, or the underlying Base License or Paratransit Base License or Commuter Van Service Authorization, is revoked or surrendered or is not renewed.
-
-   (3) Upon issuance of a Street Hail Livery Base License:
-
-      (i) the underlying Base License or Paratransit Base License term will be pro-rated (and the License fee for that License will be pro-rated which means an additional fee will be charged) so that the Base License will expire on the same date that the Street Hail Livery Base License expires. Example. The underlying Base License expires on 6/15/14. A Street Hail Livery Base License is issued to the Base on 6/16/12 and will expire on 6/15/15. The underlying Base License will be extended for one year and an additional 1 year license fee of $500 will be charged. The underlying Base License and the Street Hail Livery Base License will both expire on 6/15/15.
-
-
-
-
-
-
-
-
-*§ 59B-07 Licensing – Fees.* ::
-
-
-(a) Base License Fee.
-
-   (1) The fee for the operation of a For-Hire Base is $500 annually.
-
-   (2) Exception: The fee for the operation of a Street Hail Livery Base is $1000 annually for the Street Hail Livery Base License plus $500 annually for the fee for a For-Hire Base License or Paratransit Base License or $275 for a Commuter Van Service Authorization.
-
-   (3) Upon issuance of a Street Hail Livery Base License:
-
-      (i) an underlying Base License term will be pro-rated (and the License fee for that License will be pro-rated which means an additional fee will be charged) so that the Base License will expire on the same date that the Street Hail Livery Base License expires.
-
-(b) When Fee is Paid. The fee for an original or renewal License must be paid at the time the application is filed.
-
-(c) No Refund if Application Denied. The Commission will not refund fees if it denies the application.
-
-(d) Base License Replacement Fee. The Commission will charge a fee of $25 for each replacement License.
-
-(e) Base Transfer Fee. The fee for the transfer of a Base License or Ownership interest will be $500.
-
-(f) Name Change Fee. The fee to change the name of a Base will be $500.
-
-(g) Relocation Fee. The fee to change the location of a Base will be $500.
-
-
-
-
-
-
-
-
-*§ 59B-08 Licensing – Causes for Denial or Revocation.* ::
-
-
-(a) Material Misrepresentation.
-
-   (1) The Commission can deny an application for a License or its renewal and revoke or suspend any License issued if it finds that an Applicant has made a material misstatement or misrepresentation on an application for a License or its renewal.
-
-   (2) The Commission must send notice and conduct a hearing before revoking or suspending any License already issued.
-
-(b) Violation of NYS Franchise Act.
-
-   (1) The Commission will not grant a License or renew a License when the base owner is offering and selling franchises in violation of the New York Franchise Sales Act (for the purposes of this subdivision, "Act").
-
-   (2) The Commission can also suspend or revoke the License of any Base Owner found to have violated the Act.
-
-   (3) In determining whether a Base Owner is in violation of the Act, the Commission can rely upon the written advice of the New York State Department of Law certifying to the Commission that the Base Owner is in violation of the Act.
-
-(c) In determining whether a Base Owner is in violation of the Act, the Commission can rely upon the written advice of the New York State Department of Law certifying to the Commission that the Base Owner is in violation of the Act.
-
-(d) Livery Base Station-Criteria for Reviewing New Application. In reviewing an application for a License to operate a Livery Base Station, the Commission will examine and consider the following factors:
-
-   (1) Any negative impact on Other Transportation Systems, including:
-
-      (i) The adequacy of existing mass transit and mass transportation facilities to meet the transportation needs of the public
-
-      (ii) Any negative impact that the proposed operation might have on those existing services
-
-      (iii) The extent and quality of service provided by existing, legally operating For-Hire Vehicles and Taxicabs
-
-   (2) Any negative impact on quality of life in the vicinity of the Base Station, including: (i) Traffic congestion
-
-      (ii) Sidewalk congestion
-
-      (iii) Noise.
-
-(e) Livery Base Station – Compliance with Rules.
-
-   (1) In reviewing an application to renew a Base Station License, the Commission will consider whether the Licensee has violated any applicable Rule of the Commission.
-
-   (2) No Livery Base Station will be renewed if the Applicant has been found guilty of violating the off-street parking requirements described in 35 RCNY § 59B-15(j).
-
-(f) Revocation for Livery Fund violations.
-
-   (1) No Livery Base Station License will be issued to an Applicant if a Livery Base Station License previously held by Applicant was revoked for violations of Article 6-G of the NYS Executive Law.
-
-   (2) A Livery Base Station License previously held by an Applicant includes any Livery Base Station License held by any Licensee in which any of Applicant's Limited Business Entity Persons was also a Limited Business Entity Person.
-
-   (3) The ban on issuance will continue for five years following the revocation, and until
-
-      (i) Any money owed to the Livery Fund on the account of the revoked License is paid or
-
-      (ii) The Livery Fund agrees on a payment plan for money owed to it.
-
-(g) Failure to Complete Application Requirements.
-
-   (1) The Chairperson will deny an application for a new Black Car Base or Luxury Limousine Base License if the Applicant has not completed all the requirements of an application within 90 days of the date the application is filed.
-
-   (2) The Chairperson will deny an application for a renewal Black Car Base or Luxury Limousine Base License if the Applicant has not completed all the requirements of an application by the expiration date of the prior License.
-
-   (3) The Chairperson will deny an application for a new or renewal Livery Base Station License if the Applicant has not completed all the requirements of an application and has not completed all the requirements for Licensing as a Livery Base Station set forth in 35 RCNY § 59B-05 within 90 days of Commission approval of the application.
-
-   (4) The Chairperson will not deny an application under this Rule if completion is delayed because the Chairperson has not issued a final decision and the Applicant has complied with any requests made by the Chairperson.
-
-(h) Additional Consideration of an Application. If a review of the application leads the Chairperson to believe that the Applicant may not be Fit to Hold a License to operate a Base Station, the Chairperson may seek additional information from the Applicant. This request for additional information may be an in-person interview, telephone call, letter, e-mail, or other method of communication. This additional consideration may result in the denial of the application. Failure to provide any requested information within the time frame requested, or failure to appear at a scheduled interview will result in a denial of the application.
-
-
-
-
-
-
-*§ 59B-09 Licensing – Transfer of an Ownership Interest in a For Hire Base License.* ::
-
-
-(a) Transfer Requirements for All For-Hire Bases. Any For-Hire Base License or Ownership interest in the Licensee can be transferred to a proposed transferee if all of the following conditions are met:
-
-   (1) The transferee demonstrates to the satisfaction of the Commission the qualifications to assume the duties and obligations of a Base Owner.
-
-   (2) All the outstanding fines, penalties, and other liabilities that the transferor owes to the Commission have been satisfied.
-
-   (3) The Commission approves the transfer and any changes in corporate officers or directors.
-
-   (4) Both the transferor and transferee must appear in person as directed by the Chairperson to complete the transfer:
-
-      (i) A party who is an individual must appear in person
-
-      (ii) A party that is a partnership must be represented by a general partner
-
-      (iii) A party that is a corporation must be represented by a Limited Business Entity Person.
-
-   (5) No transfer or change will be effective until approved and the Chairperson has given notice of the approval to the Licensee.
-
-(b) Additional Requirements for Transfers of a Livery Base Station.
-
-   (1) Additional Bond for Tort Liabilities. The transferor or the transferee files an additional bond to cover the transferor's tort liabilities (if any) that have arisen out of the operation of a Base Station, that remain outstanding and that exceed the amount covered by any bond or insurance policy already in effect.
-
-   (2) Transferee Business Plan. The transferee provides a business plan meeting the requirements in 35 RCNY § 59B-05(d) above.
-
-   (3) Transfer While Judgment Pending. No voluntary transfer of a Base Station License can be made if a judgment docketed with the clerk of court of any county within the City of New York remains unsatisfied against the Licensee and in favor of any Government agency. However, the transfer can be permitted under one of the following conditions:
-
-      (i) A bond is filed in an amount sufficient to satisfy the judgment.
-
-      (ii) All the judgment creditors of a Licensee file written permission for the transfer with the Commission.
-
-      (iii) The proceeds from the transfer are paid into court or held in escrow, on terms and conditions approved by the Commission, to protect the rights of all parties that have a legitimate interest.
-
-   (4) Criteria for Approving Proposed Transferee. In reviewing a proposed transfer of a Base Station License or of the ownership interest in the License, the Commission will consider the following:
-
-      (i) The criminal history of the proposed transferee and of the transferee's Business Entity Persons, if any
-
-      (ii) Any relevant information maintained in the records of the DMV or the Commission
-
-      (iii) The transferee's financial stability
-
-   (5) Criteria for Denying Proposed Transferee. A transfer will not be approved if, in the past two years, the proposed transferee or any Business Entity Person of the proposed transferee, where appropriate, has been found to have violated any law or rule involving any of the following:
-
-      (i) Assault of a Passenger, official, or member of the public in connection with any matter relating to a For-Hire Vehicle
-
-      (ii) Giving or offering an unlawful gratuity to a public servant, as defined in § 10.00 of the NYS Penal Law
-
-      (iii) Providing the Commission with false information
-
-      (iv) Three unexplained failures to respond to an official communication from the Commission or the Department of Investigation that was sent by certified mail, return receipt requested
-
-(c) Street Hail Livery Base Licenses Not Transferrable.
-
-   (1) Street Hail Livery Base Licenses can only be used in connection with the specific entity to which they were initially issued (i.e. the specific Livery Base to which the Street Hail Livery Base License was initially issued) and cannot be transferred for use by any other entity.
-
-   (2) A change in the ownership structure of or an ownership interest in an owner of a Street Hail Livery Base License is valid only if the conditions of 35 RCNY § 59B-09(a) are met.
-
-
-
-
-
-
-*§ 59B-10 Licensing – Care of Licenses. [Reserved]* ::
-
-
-(a) Base License Required. No person or entity is permitted to operate a business as a Livery Base Station, Black Car Base or Luxury Limousine Base without a Valid For-Hire Base License from the Commission. No person or entity is permitted to operate a business as a Street Hail Livery Base without a Valid Street Hail Livery Base License from the Commission. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59B-11(a)
-      - Fine: $200-$1,500Penalty Point: 1Administrative Code Penalties for Unlicensed Activity
-      - Appearance Required 
-~
-
-
-
- 
-
-(b) For-Hire Vehicle License and Commission License Plate.
-
-   (1) A Base Owner must not dispatch any For-Hire Vehicle unless:
-
-      (i) A Vehicle registered in NYS has license plates embossed with the legend "T &amp; LC"
-
-      (ii) A Vehicle registered in a state other than New York has complied with any applicable license plate requirements.
-
-      (iii) The vehicle has a Valid For-Hire Vehicle License.
-
-   (2) The Commission will post a list of Validly Licensed For-Hire Vehicles on its Web site.
-
-   (3) In addition to the other requirements of this Rule, a Street Hail Livery Base Owner must not dispatch a vehicle to engage in the business of being a Street Hail Livery unless the vehicle has a Valid Street Hail Livery License. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59B-11(b)
-      - Base Owner Fine: $300Penalty Points: 1Administrative Code Penalties for Unlicensed Activity
-      - Appearance NOT Required
-~
-
-
-
- 
-
-(c) Valid TLC Driver License Required.
-
-   (1) A Base Owner must not dispatch any Vehicle unless its driver possesses a Valid TLC Drives License.
-
-   (2) The Commission will post on its Web site a list of Drivers holding Valid TLC Driver Licenses.
-
-   (3) In addition to the other requirements of this Rule, a Street Hail Livery Base Owner must not dispatch a Vehicle to engage in the business of being a Street Hail Livery unless the Driver possesses a Valid TLC Driver License or, in the event the Vehicle is an Accessible Street Hail Livery, a Valid License to operate a Paratransit Vehicle.
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59B-11(c)
-      - Base Fine: $500 for the first violation in 12 months;$800 for each subsequent offense within a 12-month period
-      - Appearance NOT Required
-~
-
-
-
- 
-
-(d) Valid Chauffeur's License Required.
-
-   (1) A Base Owner must not dispatch any Vehicle unless it is being driven by a Driver with a Valid Chauffeur's License.
-
-   (2) A Vehicle Owner is responsible for knowing the status of the state-issued driver's license for any Driver dispatched in one of Owner's Vehicles.
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59B-11(d)
-      - Base Fine: $500 except if the DMV status of the driver's license is not available on the Commission's website.
-      - Appearance NOT Required
-~
-
-
-
- 
-
-(e) Advertising of Unlicensed For-Hire Service. A base owner must not hold him or herself out to the public as a for-hire service without a current License issued by the Commission for that activity. "For-Hire" service includes Livery, Black Car, or Luxury Limousine service. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59B-11(e)
-      - Fine: $350 for the first violation;$500 for the second violation;revocation for the third violation within 36 months
-      - Appearance Required
-~
-
-
-
- 
-
-(f) Unapproved Transfer of Base Location. A Base Owner who moves a Base to any location without the prior approval of the Commission is engaging in Unlicensed Activity. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59B-11(f)
-      - Fine: $200-$1,500 and Suspension of Base LicensePenalty Point: 1
-      - Appearance Required
-~
-
-
-
- 
-
-
-
-
-
-
-
-
-*§ 59B-12 Compliance with Law – Workers' Compensation.* ::
-
-
-(a) Livery Base Station.
-
-   (1) Compliance with Workers' Compensation Law.
-
-      (i) Every Livery Base Station must either
-
-         (A) be a member of the Livery Fund or
-
-         (B) maintain coverage under the NYS Workers' Compensation Law for all drivers dispatched.
-
-      (ii) Every Livery Base Station must maintain either Livery Fund membership or workers' compensation insurance coverage at all times.
-
-      (iii) A Livery Base Station that is an Independent Base Station must be a member of Livery Fund. To prove it is a member of the Livery Fund, a Livery Base Station must submit to the Commission:
-
-         (A) A copy of the affirmation given by the Livery Base Station to the Workers' Compensation Board as required by § 18-c(2) of the NYS Workers' Compensation Law and
-
-         (B) A copy of any certificate of membership or similar documentation issued by the Livery Fund.
-
-      (iv) A Livery Base Station that is not an Independent Base Station must buy insurance providing compensation under the NYS Workers' Compensation Law for all drivers dispatched. To prove that it has bought insurance coverage, a Livery Base Station must submit to the Commission:
-
-         (A) a current certificate of insurance and
-
-         (B) proof that the insurer is licensed by the NYS Insurance Department, together with a list of authorized signatories. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59B-12(a)(1)
-      - Fine: $25 for each day of non-compliance up to $5,000 and either suspension until compliance or Livery Base License revocation.
-      - Appearance Required
-~
-
-
-
- 
-
-   (2) Audit of Independent Base Stations. The Commission can audit any Independent Base Station as provided in § 18-c(2)(g) of the NYS Workers' Compensation Law.
-
-   (3) Coercion Prohibited. An Independent Base Station must not coerce any driver or vehicle owner into making false statements or refrain from reporting any violation of Article 6-G of the NYS Executive Law. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59B-12(a)(3)
-      - Fine: $1,000-$5,000 and or suspension of Livery Base License and membership in Livery Fund for up to 2 years.
-      - Appearance Required
-~
-
-
-
- 
-
-   (4) Enforcement on Request. The Commission will enforce the provisions of this paragraph (4) only at the request of the Livery Fund or the NYS Workers' Compensation Board. The Livery Fund or NYS Workers' Compensation Board can ask the Commission to enforce these rules by filing a complaint against a Livery Base. The complaint will include documentation of the violation.
-
-      (i) An Independent Base Station must pay any assessment by the Livery Fund within 30 days of the assessment. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59B-12(a)(4)(i)
-      - Fine: $500 for each 30 days after notice payment is overdue, plus payment of the overdue amount plus interest on such amount at 12% per annum, together with either suspension until compliance or revocation of license and Livery Fund membership.
-      - Appearance Required
-~
-
-
-
- 
-
-      (ii) If an Independent Base Station License is suspended or revoked for failure to pay an assessment, the License cannot be reinstated, and the Independent Base Station cannot apply for a new or renewal license until:
-
-         (A) The Independent Base Station pays any money it owes to the Livery Fund or
-
-         (B) The Livery Fund agrees on a payment plan for money owed to it.
-
-      (iii) An Independent Base Station must not make a materially false statement in the sworn affirmation required by § 18-c(2) of the Workers' Compensation Law. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59B-12(a)(4)(iii)
-      - Fine: $1,000-$10,000 and/or Livery Base License revocation for up to 5 years for first offense and permanent bar to licensure for second.
-      - Appearance Required
-~
-
-
-
- 
-
-      (iv) Any Independent Base Station found to have made a materially false statement under (iii) of this subparagraph on two separate occasions may not apply for or hold a Livery Base Station License.
-
-      (v) An Independent Base Station must not make any material misrepresentation about:
-
-         (A) the number of Vehicles affiliated with the Independent Base Station,
-
-         (B) the number of owners of such Vehicles, or
-
-         (C) the number of drivers dispatched by the Independent Base Station.
-
-         (D) Material misrepresentation includes any temporary alteration of records to reduce the numbers of vehicles or drivers. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59B-12(a)(4)(v)
-      - Fine: $1,000-$5,000 and/or Livery Base License suspension or Livery Base License revocation for up to 2 years.
-      - Appearance Required
-~
-
-
-
- 
-
-   (5) Cessation of Benefits to Drivers. Upon filing with the Workers' Compensation Board to end the payment of benefits to the Driver of an affiliated Vehicle who has recovered from a disability and is ready to return to work, a Base Owner must provide the Driver with documentation that benefits have been stopped in order for the Commission to return that Driver's License. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59B-12(a)(5)
-      - Fine: $100-$250
-      - Appearance Required
-~
-
-
-
- 
-
-(b) Black Car and Luxury Limousine Bases.
-
-   (1) Membership in the Black Car Operators' Injury Compensation Fund.
-
-      (i) Every Black Car Base and Luxury Limousine Base must become and remain a member of the Black Car Fund and must register with the Department of State as a Member of the Black Car Fund.
-
-      (ii) This provision does not apply to a Black Car or Luxury Limousine Base that owns fifty (50%) percent or more of the Vehicles it dispatches. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59B-12(b)(1)
-      - Fine: $25 for each day of non-compliance, to a maximum of $10,000, and either suspension until compliance or Base License revocation
-      - Appearance Required
-~
-
-
-
- 
-
-   (2) Submit Certificate of Registration with the Fund. Every Black Car Base and Luxury Limousine Base must:
-
-      (i) Provide the Commission with a copy of its certificate of registration with the Black Car Fund.
-
-      (ii) Pay to the Department of State all fees due as required by State law. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59B-12(b)(2)
-      - Fine: $25 for each day of non-compliance, to a maximum of $10,000, and either suspension until compliance or Base License revocation
-      - Appearance Required
-~
-
-
-
- 
-
-   (3) Bill and Collect Surcharge. Every Black Car Base and Luxury Limousine Base member of the Black Car Fund must, for every trip dispatched from that Base, bill and collect the surcharge established by the Black Car Fund and required by State law in the manner prescribed by the Black Car Fund and State law. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59B-12(b)(3)
-      - Fine: $25 for each day of non-compliance, to a maximum of $10,000, and either suspension until compliance or Base License revocation, together with revocation of Black Car Fund membership
-      - Appearance Required
-~
-
-
-
- 
-
-   (4) Remit Surcharges. Every Black Car Base and Luxury Limousine Base must forward to the Black Car Fund all surcharges due and owing under paragraph (3), above, no later than the 15th day of the month following the month in which the surcharge is collected. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59B-12(b)(4)
-      - Fine: $500-$5,000 for each 20 days the payment is overdue, and suspension until compliance or revocation, together with restitution to the Black Car Fund of any unpaid amount, together with interest at the rate of 12 percent per annum, together with revocation of Black Car Fund membership.
-      - Appearance Required
-~
-
-
-
- 
-
-   (5) Comply with all Rules of the Black Car Fund. Every Black Car Base and Luxury Limousine Base must comply with all applicable provisions of law governing the Black Car Fund, and all rules and regulations. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59B-12(b)(5)
-      - Fine: $500-$10,000 and suspension until compliance or revocation
-      - Appearance Required
-~
-
-
-
- 
-
-   (6) Enforcement at Black Car Fund's Request. The Black Car Fund can ask the Commission to enforce these rules by filing a complaint against a Black Car Base or Luxury Limousine Base. The complaint will include documentation of the violation.
-
-(c) Street Hail Livery Bases.
-
-   (1) Every Street Hail Livery Base must comply with the NYS Workers' Compensation Law and maintain the coverage required.
-
-
-
-
-
-
-*§ 59B-13 Compliance with Law – Personal Conduct.* ::
-
-
-(a) Bribery Prohibited.
-
-   (1) Appearance of Bribery. An Applicant or Licensee must not offer or give any gift, gratuity or thing of value to any employee, representative or member of the Commission, or any other public servant. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59B-13(a)(1)
-      - Fine: Revocation and $10,000
-      - Appearance Required
-~
-
-
-
- 
-
-   (2) Demand for Gratuity. A Licensee must immediately report to the Commission any request or demand for a gift, gratuity, or thing of value by any employee, representative, or member of the Commission or any other public servant. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59B-13(a)(2)
-      - Fine: $1,000 up to Revocation
-      - Appearance Required
-~
-
-
-
- 
-
-   (3) Prohibited Offer of Gift to Airport or Transportation Terminal Staff. A Licensee must not offer or give any gift, gratuity, or thing of value to a person or persons employed at any airport or other transportation terminal to provide ground transportation information services, dispatching service, security services, traffic and parking control, or baggage handling. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59B-13(a)(3)
-      - Base Fine: $1,000 up to revocation
-      - Appearance Required
-~
-
-
-
- 
-
-(b) Fraud, Theft. While performing the duties and responsibilities of a Licensee, a Licensee must not commit or attempt to commit, alone or in concert with another, any act of fraud, misrepresentation or theft. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59B-13(b)
-      - Fine: $350-1,000 and/or suspension up to 60 days or revocation
-      - Appearance Required
-~
-
-
-
- 
-
-(c) Deliberate Acts of Omission. While performing the duties and responsibilities of a Licensee, a Licensee must not deliberately fail to perform, alone or with another, any act where this failure is against the best interests of the public, although not specifically mentioned in these Rules. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59B-13(c)
-      - Fine: $150 – $350 and/or suspension up to 30 days or revocation
-      - Appearance Required
-~
-
-
-
- 
-
-(d) Deliberate Acts of Commission. While performing the duties and responsibilities of a Licensee, a Licensee must not deliberately perform or attempt to perform, alone or with another, any act that is against the best interests of the public although not specifically mentioned in these Rules. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59B-13(d)
-      - Fine: $150 – $350 and/or suspension up to 30 days or revocation
-      - Appearance Required
-~
-
-
-
- 
-
-(e) Threats, Harassment, Abuse. While performing the duties and responsibilities of a Licensee, a Licensee must not threaten, harass, or abuse any person. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59B-13(e)
-      - Fine: $350-1,000 and suspension up to 30 days
-      - Appearance Required
-~
-
-
-
- 
-
-(f) Use or Threat of Physical Force. While performing the duties and responsibilities of a Licensee or any act in connection with those duties, a Licensee must not use or attempt to use any physical force against a person. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59B-13(f)
-      - Fine: $500-1,500 and/or suspension up to 60 days or revocation
-      - Appearance Required
-~
-
-
-
- 
-
-(g) No Threat or Harm to Service Animal. A Licensee must not distract, harm, or use physical force against or attempt to distract, harm, or use physical force against a Service Animal accompanying a person with a disability. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59B-13(g)
-      - Fine: $500-1,500 and/or suspension up to 60 days or revocation
-      - Appearance Required
-~
-
-
-
- 
-
-(h) Notice of Criminal Conviction.
-
-   (1) A Licensee must notify the Commission within 15 calendar days after any felony conviction of the Licensee or of any of Licensee's officers or members.
-
-   (2) The notice must be in writing and must be accompanied by a certified copy of the certificate of disposition issued by the clerk of the court explaining what happened as a result of the conviction. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59B-13(h)
-      - Fine: $50
-      - Appearance NOT Required
-~
-
-
-
- 
-
-      (i) Failure to Cooperate with Law Enforcement. A Licensee must cooperate with all law enforcement officers and all authorized representatives of the Commission. Cooperation includes, but is not limited to, responding to a request for the Licensee's name, License number, and any documents Licensee is required to have in his or her possession. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59B-13(i)
-      - Fine: $15-$150
-      - Appearance Required
-~
-
-
-
- 
-
-(j) Failure to Cooperate with the Commission.
-
-   (1) A Licensee must truthfully answer all questions and comply with all communications, directives, and summonses from the Commission or its representatives.
-
-   (2) Within ten days following a request from the Commission, a Licensee must produce any Licenses or other documents the Licensee is required to have.
-
-   (3) Licensee must aid the Commission in obtaining information it seeks regarding Drivers or Vehicles affiliated with the Base. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59B-13(j)(1)-(3)
-      - Fine: $200 and suspension until compliance
-      - Appearance Required
-~
-
-
-
- 
-
-   (4) Within 48 hours, a Licensee must respond to any contact from the Commission, seven days a week. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59B-13(j)(4)
-      - Fine: $500
-      - Appearance NOT Required
-~
-
-
-
- 
-
-(k) Courtesy. A Licensee must be courteous to Passengers. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59B-13(k)
-      - Fine: $150
-      - Appearance NOT Required
-~
-
-
-
- 
-
-(l) MTA Tax.
-
-   (1) The MTA Tax must be charged on any Hail Trip in a Street Hail Livery that starts in New York City and ends in any of the following:
-
-      (i) New York City
-
-      (ii) Dutchess County
-
-      (iii) Nassau County
-
-      (iv) Orange County
-
-      (v) Putnam County
-
-      (vi) Rockland County
-
-      (vii) Suffolk County
-
-      (viii) Westchester County
-
-   (2) A Street Hail Livery Base must ensure that the Taximeter in each Street Hail Livery affiliated with the Base is adjusted to properly collect the MTA Tax for Hail Trips.
-
-   (3) A Street Hail Livery Base must collect the MTA Tax due for each Hail Trip made by a Street Hail Livery affiliated with that Base from the Driver of the Street Hail Livery.
-
-   (4) A Street Hail Livery Base must remit all MTA Taxes due to the NYS Department of Taxation and Finance together with such returns as are required by NYS Department of Taxation and Finance as and when such taxes are due. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59B-13(l)
-      - Fine: $1,000 per vehicle and suspension until compliance
-      - Appearance Required
-~
-
-
-
- 
-
-(m) Facilitation of Sex Trafficking with a Vehicle. A Licensee must not Facilitate Sex Trafficking with a Vehicle. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59B-13(m)
-      - Fine: $10,000 and revocation.
-      - Appearance NOT Required
-~
-
-
-
- 
-
-(n) Retaliation.
-
-   (1) A For-Hire Vehicle Base must not retaliate against any Driver for making a good faith complaint against any Base.
-
-   (2)  Retaliation will be broadly construed, and will include imposing any adverse condition or consequence on the Driver or withholding or withdrawing any beneficial condition or consequence from the Driver.
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59B-13(n)
-      - Fine: $1,000 plus restitution to the driver for losses for the first violation and a fine of $10,000 plus restitution to the driver for the second violation within five years.
-      - Appearance NOT Required
-~
-
-
-
- 
-
-
-
-
-
-
-
-
-*§ 59B-14 Compliance with Law – Miscellaneous.* ::
-
-
-(a) Alcohol and Drug Laws. A Base Owner must not knowingly allow an affiliated For-Hire Vehicle to be operated by a Driver who is under the influence of any drugs or alcohol or whose driving ability is in any way impaired. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59B-14(a)
-      - Fine: $10,000 and revocation
-      - Appearance Required
-~
-
-
-
- 
-
-(b) Disability Laws.
-
-   (1) A Base Owner must not instruct, authorize, or permit an affiliated Driver to discriminate unlawfully against people with disabilities.
-
-   (2) Discrimination includes:
-
-      (i) Refusing to serve People with Disabilities,
-
-      (ii) Refusing to load and unload the mobility aids of People with Disabilities,
-
-      (iii) Charge any more than the set rate for the transportation of People with Disabilities, or their Service Animals, wheelchairs, or other mobility aids. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59B-14(b)
-      - Fine: $350-1,000 and/or suspension up to 30 days or revocation
-      - Appearance Required
-~
-
-
-
- 
-
-
-
-
-
-
-*§ 59B-15 Operations – Business Premises.* ::
-
-
-(a) Maintenance of Physical Location. A For-Hire Base Owner must maintain a principal place of business in a commercially zoned area, from which affiliated Vehicles and Drivers can be dispatched. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59B-15(a)
-      - Fine: Suspension until requirement is met.
-      - Appearance Required
-~
-
-
-
- 
-
-(b) Minimum Number of Affiliated Vehicles.
-
-   (1) A Base must have at least ten affiliated Vehicles associated with the Base except when either of the following applies:
-
-      (i) A Base that was first Licensed before January 1, 1988 will only be required to have at least five affiliated Vehicles.
-
-      (ii) A Livery Base that has an affiliated Accessible Vehicle is only required to have at least five affiliated Vehicles.
-
-   (2) A Street Hail Livery Base can meet the requirement of paragraph (1) by affiliating either or both of Street Hail Liveries or other licensed For-Hire Vehicles or, if the Base is also a Paratransit Base, Paratransit Vehicles and Street Hail Liveries. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59B-15(b)
-      - Fine: Suspension until minimum is met
-      - Appearance Required
-~
-
-
-
- 
-
-(c) Working Phone at the Base. A Base Owner must maintain a working telephone at the Base. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59B-15(c)
-      - Fine: Suspension until compliance
-      - Appearance Required
-~
-
-
-
- 
-
-(d) Dispatching of Vehicles from Base.
-
-   (1) A Base Station Owner must provide a device for transmitting trip request information to Drivers of affiliated Vehicles.
-
-   (2) Except for Accessible Vehicles, no For-Hire Vehicle can be dispatched from any location other than the location specified in the Base License. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59B-15(d)
-      - Fine: $250 and Suspension until compliance
-      - Appearance Required
-~
-
-
-
- 
-
-(e) Application to Move Base.
-
-   (1) A Base Owner who moves the Base to a new location must apply for approval of the new location by the Commission.
-
-   (2) The proposed location must comply with all of the requirements for obtaining the particular Base License sought; except that if there has been no change in the Ownership of the Base, the Commission can waive the requirements for:
-
-      (i) Proving fitness to hold License and
-
-      (ii) Posting a bond. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59B-15(e)
-      - Fine: Suspension of Base License.
-      - Appearance Required
-~
-
-
-
- 
-
-(f) Application to Transfer or Assign Base. A Base Owner must not transfer or assign the Base Owner's License to another without obtaining the Commission's written approval as described in 35 RCNY § 59B-09. Note: A Street Hail Livery Base License cannot be transferred. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59B-15(f)
-      - Fine: Suspension of Base License.
-      - Appearance Required
-~
-
-
-
- 
-
-(g) Display Rates. A Base Owner must at all time conspicuously display the current schedule of rates charged by the Base. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59B-15(g)
-      - Fine: $50
-      - Appearance NOT Required
-~
-
-
-
- 
-
-(h) Display Base Information. A Base Owner must conspicuously display the Base name, any trade, business or operating name, and the Base License number on the front or office door of the Base's premises. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59B-15(h)
-      - Fine: $50
-      - Appearance NOT Required
-~
-
-
-
- 
-
-      (i) Black Car Base Affiliation. Only Black Car Bases can dispatch Vehicles to do line work and only For-Hire Vehicles that are affiliated with Black Car Bases can perform line work. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59B-15(i)
-      - Fine: $250 for first violation$500 for second violation within 24 monthsRevocation for third violation within 24 months
-      - Appearance NOT RequiredAppearance NOT RequiredAppearance Required
-~
-
-
-
- 
-
-(j) Off-Street Parking Requirements – Livery Base Stations.
-
-   (1) A Base Station Owner must ensure that the operator of the Base provides and uses legal, off-street facilities for parking and storing the Livery Vehicles that will be dispatched from the Base.
-
-   (2) The available off-street facilities must provide at least one parking space for every two Livery Vehicles (not including Street Hail Liveries) affiliated with the Base.
-
-   (3) The distance between the Base and the off-street parking facilities for Livery Vehicles must be one and one-half miles or less.
-
-   (4) The off-street parking facilities for Livery Vehicles must be in a location zoned for the operation of a parking facility.
-
-   (5) Waiver. The Chairperson can reduce the number of required off-street parking spaces or can waive that requirement entirely upon a determination that:
-
-      (i) There are not enough legal off-street parking facilities in the vicinity of the Base to fulfill these requirements,
-
-      (ii) An Applicant demonstrates to the satisfaction of the Chairperson that complying with the off-street parking requirements in paragraphs (1) and (2) would impose an economic hardship upon the Applicant.
-
-      (iii) The Chairperson will not reduce or waive the off-street parking requirements where it has been determined in an administrative proceeding that the Applicant, or a predecessor in interest, has violated any provision governing the transfer of the Base.
-
-      (iv) The Commission's decision to waive or reduce the off-street parking requirements:
-
-         A. Will be made in writing,
-
-         B. Will contain a detailed statement of the reasons for the decision
-
-         C. Will be made a part of the Commission's approval of the application for the Base Station License.
-
-
-
-
-
-
-*§ 59B-16 Operations – Special Requirements.* ::
-
-
-(a) Occupy Licensed Base Location. All Base Owners must operate the Base on the premises licensed by the Commission. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59B-16(a)
-      - Penalty: Revocation of License
-      -  
-~
-
-
-
- 
-
-(b) Maintain Operations – Livery Base Only.
-
-   (1) A Livery Base Station Owner must not cease operations at the Base Station for a period of 60 or more consecutive days.
-
-   (2) There will be no penalty if the failure to operate for 60 or more days has been caused by strike, riot, war, public catastrophe or other acts beyond the control of the Licensee. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59B-16(b)
-      - Penalty: Revocation of License
-      -  
-~
-
-
-
- 
-
-(c) Use of Temporary Premises – Livery Base Only.
-
-   (1) Where the Commission finds that a particular Livery Base Station cannot be operated due to an act beyond the control of the Licensee, a temporary Base Station License will be issued to the same Licensee for an alternative location, provided that all other requirements for such License are met and provided further that the unexpired term of the original License is six months or more.
-
-   (2) A temporary Base Station License will last no longer than 60 days.
-
-   (3) During the 60-day period, the Base Owner must either:
-
-      (i) File an application to change the Livery Base location or
-
-      (ii) Return operations to the original location and notify the Chairperson of the return.
-
-   (4) The temporary Base Station License will not be extended unless within the 60 day period the Base Station Owner either (1) files an application to change the location and the Commission has not completed its review of the application within the 60 day period or (2) demonstrates that good cause exists for a further extension because the Owner requires additional time to return the Base Station to the original location. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59B-16(c)
-      - Fine: Revocation
-      - Appearance Required
-~
-
-
-
- 
-
-
-
-
-
-
-*§ 59B-17 Operations – Service Requirements (Customers).* ::
-
-
-(a) Customer Complaints. A Base Owner will be responsible for handling customer complaints when directed by the Chairperson and will provide any information requested by the Chairperson regarding such complaints. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59B-17(a)
-      - Fine: $150
-      - Appearance NOT Required
-~
-
-
-
- 
-
-(b) No Required Ride-Sharing. A For-Hire Base Owner must not require that any prospective Passenger share a ride with another prospective Passenger. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59B-17(b)
-      - Base Fine: $50
-      - Appearance NOT Required
-~
-
-
-
- 
-
-(c) Provide Accessible Transportation. A Base Owner must provide transportation service to Persons with Disabilities.
-
-   (1) Requirements for Percentage of all Dispatched Trips Serviced by an Accessible Vehicle:
-
-      (i) At least five (5) percent of a Base’s total trips dispatched between July 1, 2018, and June 30, 2019 must be trips dispatched to and completed by an Accessible Vehicle.
-
-      (ii) At least ten (10) percent of a Base’s total trips dispatched between July 1, 2019, and June 30, 2020 must be trips dispatched to and completed by an Accessible Vehicle.
-
-      (iii) At least fifteen (15) percent of a Base’s total trips dispatched between July 1, 2020, and June 30, 2021 must be trips dispatched to and completed by an Accessible Vehicle.
-
-      (iv) At least twenty (20) percent of a Base’s total trips dispatched between July 1, 2021, and June 30, 2022 must be trips dispatched to and completed by an Accessible Vehicle.
-
-      (v) Beginning July 1, 2022, and continuing each year thereafter, at least twenty-five (25) percent of a Base’s total trips dispatched between the dates of July 1 and June 30 must be trips dispatched to and completed by an Accessible Vehicle.
-
-   (2) For purposes of paragraph (1) of this subdivision, Hail Trips performed by an Accessible Street Hail Livery affiliated with a Base will count toward the total number of trips dispatched by that Base.
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59B-17(c)(1)
-      - Fine: $50 for each 100 trips by which the Base missed the percentage of trips it was required to dispatch to Accessible Vehicles in that calendar year.Example: If Base A dispatches 100,000 trips between July 1, 2018 and June 30, 2019, but only dispatches 2,500 trips to Accessible Vehicles, the base will have missed the 5% requirement by 2,500 trips and be subject to a $1,250 fine.If a Base fails to dispatch enough trips to Accessible Vehicles to meet at least half of its percentage requirement, the Commission may seek suspension of up to 30 days or revocation.
-      - Appearance Required
-~
-
-
-
- 
-
-   (3) Evaluation by the Commission. Every year, beginning July 1, 2019, the Commission will review Base compliance levels, service levels, and any other information it deems relevant to determine if adjustments need to be made to the percentages set forth in paragraph (1) of this subdivision.
-
-   (4) Must Provide "Equivalent Service."
-
-      (i) The Base Owner must provide "equivalent service" to persons with disabilities.
-
-      (ii) "Equivalent Service" means that the service available to Persons with Disabilities, is equivalent to the service provided to other individuals with respect to:
-
-         A. Response time to requests for service
-
-         B. Fares charged
-
-         C. Hours and days of service availability
-
-         D. Ability to accept reservations
-
-         E. Restrictions based on trip purpose
-
-         F. Vehicle types offered
-
-         G. Other limitations on capacity or service availability 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59B-17(c)(4)
-      - Fine: $1000
-      - Appearance Required
-~
-
-
-
- 
-
-(d) Must Dispatch Own Vehicles. A Base Owner must not dispatch a Vehicle that is not affiliated with the Base Owner's Base, unless:
-
-   (1) (i) The Vehicle is affiliated with (i) a Livery Base if the dispatching Base is a Livery Base or (ii) either a Black Car or Luxury Limousine Base if the dispatching Base is a Black Car or Luxury Limousine Base, and
-
-      (ii) The Base Owner provides the customer with the name and license number of both the affiliated Base and the dispatching Base (clearly identifying which Base is the affiliated Base and which Base is the dispatching Base) in all communications with the customer and any materials or receipts provided to the customer; or
-
-   (2) The Base is dispatching an Accessible Vehicle affiliated with a For-Hire Base and the Base Owner provides the customer with the name and license number of both the affiliated Base and the dispatching Base (clearly identifying which Base is the affiliated Base and which Base is the dispatching Base) in all communications with the customer and any materials or receipts provided to the customer.
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59B-17(d)
-      - Fine: $150
-      - Appearance NOT Required
-~
-
-
-
- 
-
-(e) Special Requirements for Street Hail Liveries.
-
-   (1) Credit/Debit Card Rules.
-
-      (i) A Street Hail Livery Base Owner must ensure that each affiliated Street Hail Livery is equipped to accept customer payment by credit and debit card.
-
-      (ii) A Street Hail Livery Base Owner is not permitted to charge a pass along or additional fee to any passenger for debit or credit card transactions in Hail Trips. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59B-17(e)(1)
-      - Fine: First violation: $350 if plead guilty before a hearing; $500 if found guilty following a hearing.Second violation w/in 24 months: $700 if plead guilty before a hearing; $1,000 and possible suspension of License for up to 30 days if found guilty following a hearing.Third violation w/in 36 months: $750 and Revocation of License if plead guilty before a hearing; $1,000 and Revocation of License if found guilty following a hearing.
-      - Appearance Required
-~
-
-
-
- 
-
-   (2) E-Z-Pass® Required. A Street Hail Livery Base Owner must ensure that each affiliated Street Hail Livery is equipped with an E-Z-Pass® tag. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59B-17(e)(2)
-      - Fine: $100 and suspension until compliance
-      - Appearance Required
-~
-
-
-
- 
-
-(f) Exception to the Percentage of all Dispatched Trips Serviced by an Accessible Vehicle Requirement. A Base currently licensed on the effective date of this Subdivision (f) may opt to meet a response time requirement for requests for Accessible Vehicles, in lieu of the requirements contained in 35 RCNY § 59B-17(c)(1), if the Base meets the following requirements:
-
-   (1) A Base will be exempt from the requirements contained in 35 RCNY § 59B-17(c)(1) if it either:
-
-      (i) Is approved by the Commission as an Accessible Vehicle dispatcher, responsible for receiving requests for Accessible Vehicles from associated Bases with which it has entered into an agreement and dispatching Accessible Vehicles on behalf of itself and its associated Bases in accordance with the response time requirements contained in Paragraph (3) below, or
-
-      (ii) Associates with an approved Accessible Vehicle dispatcher by entering into an agreement with an approved Accessible Vehicle dispatcher and sending its requests for Accessible Vehicles to its associated Accessible Vehicle dispatcher.
-
-   (2) Application Requirements to be an Approved Accessible Vehicle Dispatcher. A Base applying to be approved as Accessible Vehicle dispatcher must:
-
-      (i) Submit a list of at least ten (10) Bases, owned by an entity or entities other than the owner(s) of the applicant Base, that have demonstrated an intent to associate with the applicant Base,
-
-      (ii) Submit an outreach and marketing plan outlining the ways it will inform passengers who use wheelchairs about its associated Bases' wheelchair accessible offerings, subject to the approval of the Commission, and
-
-      (iii) Submit a statement outlining the number of Accessible Vehicles it will be able to dispatch in the first three (3) and six (6) months following its approval as an Accessible Vehicle dispatcher, subject to the approval of the Commission.
-
-   (3) Response Time Requirement for Requests for Accessible Vehicles for Accessible Vehicle Dispatchers.
-
-      (i) Between June 1, 2019, and June 30, 2019, the Accessible Vehicle dispatcher must service at least sixty percent (60%) of all the requests for Accessible Vehicles it receives in under fifteen (15) minutes and ninety percent (90%) of those requests in under thirty (30) minutes.
-
-      (ii) Between June 1, 2020, and June 30, 2020, the Accessible Vehicle dispatcher must service at least eighty percent (80%) of all the requests for Accessible Vehicles it receives in under fifteen (15) minutes and ninety percent (90%) of those requests in under thirty (30) minutes.
-
-      (iii) Between June 1, 2021 and June 30, 2021, and continuing each quarter thereafter, the Accessible Vehicle dispatcher must service at least eighty percent (80%) of all the requests for Accessible Vehicles it receives in under ten (10) minutes and ninety percent (90%) of those requests in under fifteen (15) minutes.
-
-      (iv) Between the effective date of Subdivision (f) and June 30, 2020, the percentage of trips that meet the applicable response time criteria must improve each quarter, measured from the effective date of Subdivision (f) for purposes of (i) above and measured from the beginning of the compliance periods for (ii) and (iii) above, until such time as the Accessible Vehicle dispatcher meets the response time requirements contained in (i), (ii), and (iii) above.
-
-      (v) For purposes of (i) and (ii), "requests" will not include requests for Accessible Vehicles that were cancelled by the passenger within fifteen (15) minutes of the requests and for purposes of (iii), "requests" will not include requests for Accessible Vehicles that were cancelled by the passenger within ten (10) minutes of the requests.
-
-      (vi) If an Accessible Vehicle dispatcher fails to meet the requirements contained in (i), (ii), (iii), and (iv) above, the Commission will notify the Accessible Vehicle dispatcher and provide the Accessible Vehicle dispatcher thirty (30) days to come into compliance with the stated response time requirement. Failure to come into compliance within thirty (30) days of notification may result in termination of the Accessible Vehicle dispatcher's approval, immediately subjecting the Accessible Vehicle dispatcher to the requirements contained in 35 RCNY § 59B-17(c)(1), pro-rated for the duration of the compliance period.
-
-   (4) Calculating Response Time. For purposes of Paragraph (3) above, response time will be calculated in the following manner:
-
-      (i) For trips arranged at least one hour in advance, response time will be calculated from the time at which the vehicle was scheduled to arrive at the passenger's pick-up location until the vehicle arrives at the passenger's pick-up location.
-
-      (ii) For all other trip requests, response time will be calculated from when the Accessible Vehicle dispatcher received the request until the vehicle arrived at the passenger's pick-up location.
-
-   (5) Record Collection and Reporting Requirements for Accessible Vehicle Dispatcher. In addition to the trip records an Accessible Vehicle dispatcher must submit pursuant to its licensure as an FHV Base, an approved Accessible Vehicle dispatcher must collect and transmit to the Commission within one week of the end of each calendar month, in a format, layout, and procedure prescribed by the Commission, the following records for each request for an Accessible Vehicle the Accessible Vehicle dispatcher receives:
-
-      (i) the Base License Number of the Base that sent the request to the Accessible Vehicle dispatcher,
-
-      (ii) the date and time that the request was received by the Accessible Vehicle dispatcher,
-
-      (iii) the manner in which the request was received (e.g., via phone call, smartphone app, website),
-
-      (iv) an indicator as to whether each request resulted in a completed trip,
-
-      (v) if the request was fulfilled,
-
-         A. the TLC License number of the vehicle that fulfilled the request, the Base to which the vehicle is affiliated, and the driver who fulfilled the request
-
-         B. the pickup and drop off locations of the trip
-
-         C. the date and time the vehicle arrived at the pickup location, and
-
-         D. the total passenger wait time, calculated pursuant to Paragraph (4) above,
-
-      (vi) if the request was not fulfilled,
-
-         A. the date, time, and location of the requested pickup
-
-         B. the location of the requested drop off (if provided), and
-
-         C. an indicator as to the reason the request was not fulfilled, such as passenger cancellation (including time of cancellation), passenger no-show, driver cancellation, or no vehicles available. Failure to timely provide trip records may result in termination of the Accessible Vehicle dispatcher's approval, immediately subjecting the Accessible Vehicle dispatcher to the requirements contained in 35 RCNY § 59B-17(c)(1), pro-rated for the duration of the compliance period.
-
-   (6) Fares Charged to Passengers. An Accessible Vehicle dispatcher and an associated Base cannot charge a passenger more for a trip request received from an associated Base than that associated Base would charge a passenger requesting a non-Accessible Vehicle for the same trip. Overcharging a passenger may result in an Accessible Vehicle dispatcher or an associated Base being immediately subject to the requirements contained in 35 RCNY § 59B-17(c)(1), pro-rated for the duration of the compliance period.
-
-   (7) Passenger Feedback. Each Accessible Vehicle dispatcher and associated Base must collect and transmit to the Commission within one week of the end of each calendar month, in a format, layout, and procedure prescribed by the Commission, all complaints and compliments the Base and Accessible Vehicle dispatcher received from passengers in the preceding calendar month concerning its provision of wheelchair accessible service, including all driver ratings, where applicable.
-
-   (8) Bases opting to associate with an approved Accessible Vehicle dispatcher must be able to accept requests from passengers for Accessible Vehicles in the same manner(s) in which they accept requests from passengers for non-Accessible Vehicles. Failure to accept requests from passengers for Accessible Vehicles in the same manner(s) in which a base accepts requests from passengers for non-Accessible Vehicles may result in the associated Base being immediately subject to the requirements contained in 35 RCNY § 59B-17(c)(1), pro-rated for the duration of the compliance period.
-
-   (9) In addition to submitting trip records pursuant to 35 RCNY § 59B-19, a Base opting to associate with an approved Accessible Vehicle dispatcher, and Accessible Vehicle dispatchers in their capacity as a Base which accepts trip requests, must submit to the Commission within one week of the end of each calendar month, in a format, layout, and procedure approved by the Commission, records containing the following information:
-
-      (i) For each request for an Accessible Vehicle received by the Base:
-
-         A. the date and time the Base received the request
-
-         B. the date and time the Base forwarded the request to its Accessible Vehicle dispatcher, and
-
-      (ii) For each request for a non-Accessible Vehicle that results in a completed trip
-
-         A. the date and time that the request was received by the Base,
-
-         B. an indicator corresponding to the trip record for the completed trip provided pursuant to 35 RCNY § 59B-19,
-
-      (iii) All complaints and compliments received from passengers concerning its provision of wheelchair accessible service, including all driver ratings, where applicable.
-
-   Failure to timely provide trip records may result in termination of the Accessible Vehicle dispatcher's approval, immediately subjecting the base to the requirements contained in 35 RCNY § 59B-17(c)(1), pro-rated for the duration of the compliance period.
-
-   (10) Good Standing of Associated Bases. An associated Base must remain in good standing with its Accessible Vehicle dispatcher. To remain in good standing with its Accessible Vehicle dispatcher, an associated Base must adhere to the terms of the agreement it entered into with its Accessible Vehicle dispatcher. Failure to remain in good standing with its Accessible Vehicle dispatcher may result in the associated Base being immediately subject to the requirements contained in 35 RCNY § 59B-17(c)(1), pro-rated for the duration of the compliance period, subject to the conditions of Paragraph (12) below.
-
-   (11) Evaluation by the Commission. Every year, beginning July 1, 2019, the Commission will review Base compliance levels, service levels, feedback received pursuant to Paragraph (7) of this subdivision, and any other information it deems relevant to determine if adjustments need to be made to the response time requirements set forth in paragraph (3) of this subdivision or any other requirement contained in this Subdivision (f). Any changes made to the provisions of 35 RCNY § 59B-17(f), resulting from an annual review performed pursuant to this Paragraph (11), will be subject to the City Administrative Procedure Act, Section 1041-1047 of the Charter of the City of New York.
-
-   (12) Consequences of Termination of Approval. If the Commission terminates a Base's associated Accessible Vehicle dispatcher's approval, or if an Accessible Vehicle dispatcher terminates a Base's association, a Base associated with the Accessible Vehicle dispatcher must:
-
-      (i) Associate with a different Accessible Vehicle dispatcher within thirty (30) days following Commission provided notification of the Accessible Vehicle dispatcher's approval termination, or
-
-      (ii) Submit an application to be approved as an Accessible Vehicle dispatcher within thirty (30) days following the Commission provided notification of the Accessible Vehicle dispatcher's termination.
-
-   If a Base that is no longer associated with an Accessible Vehicle dispatcher does not associate with a different approved Accessible Vehicle dispatcher or submit an application to be approved as an Accessible Vehicle dispatcher within thirty (30) days following notification of the termination, the Base may be subject to the requirements contained in 35 RCNY § 59B-17(c)(1) on the thirty-first (31st) day following the notification.
-
-   (13) Base Accessible Service Selection Date.
-
-      (i) A Base currently licensed on the effective date of Subdivision (f) of these Rules must inform in the Commission, as provided below,whether it is opting into the exception to 35 RCNY § 59B-17(c)(1) provided by this 35 RCNY § 59B-17(f).
-
-         A. A Base opting into the exception provided by this 35 RCNY § 59B-17(f) as an Accessible Vehicle dispatcher must submit an application to be approved as an Accessible Vehicle dispatcher within thirty (30) days of the effective date of Subdivision (f).
-
-         B. A Base opting into the exception provided by 35 RCNY § 59B-17(f) must apply with an Accessible Vehicle dispatcher at the time the Base exercises this option and must do so within sixty (60) days of the effective of Subdivision (f).
-
-         C. A Base that does not opt into the exception to 35 RCNY § 59B-17(c)(1) provided by this 35 RCNY § 59B-17(f), either as an approved Accessible Vehicle dispatcher or a Base affiliating with an Accessible Vehicle dispatcher, within the timeframes provided by this subdivision may not apply to opt into such exception until the Base's next renewal License application.
-
-      (ii) A renewing Base Applicant that had previously opted into the exception to 35 RCNY § 59B-17(c)(1) provided by this 35 RCNY § 59B-17(f) must indicate at the time of its renewal application whether it is continuing to opt into the exception to 35 RCNY § 59B-17(c)(1) provided by this 35 RCNY § 59B-17(f).
-
-      (iii) A Base that previously opted into the exception to 35 RCNY § 59B-17(c)(1) provided by this 35 RCNY § 59B-17(f), but failed to comply with the requirements of 35 RCNY § 59B-17(f) and is now subject to the requirements in 35 RCNY § 59B-17(c)(1) may not reapply to opt into the exception provided by 35 RCNY § 59B-17(f) except for good cause shown.
-
-
-
-
-
-
-
-
-*§ 59B-18 Operations – Owners' Responsibilities with Respect to Drivers.* ::
-
-
-(a) Create and Enforce Good Conduct Rules.
-
-   (1) A Base Owner must create, maintain and enforce rules governing the conduct of affiliated Drivers while performing their duty as For-Hire Vehicle Drivers.
-
-   (2) These rules must be submitted in writing to the Commission within seven days of their creation (not including holidays and weekends) and whenever these rules are updated or amended. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59B-18(a)
-      - Fine: $25-$100
-      - Appearance Required
-~
-
-
-
- 
-
-(b) Rules for Conduct in Area Surrounding the Base.
-
-   (1) A Base Owner will be responsible for ensuring that all "Base personnel" comply with the restrictions established in this subsection (b) within the "restricted area."
-
-   (2) For the purposes of this subdivision, "Base personnel" are the Owners of Vehicles affiliated with the Base or dispatched by the Base and their Drivers, whether they are on duty or not.
-
-   (3) For the purposes of this subdivision, "restricted area" is defined as all public streets and sidewalks located on either side of the Base's street or within the city block front where the Base is located, including both sides of the street on which the Base is located.
-
-   (4) In the "restricted area," "Base personnel" must not do any of the following:
-
-      (i) Double park
-
-      (ii) Park on the sidewalk
-
-      (iii) Park across a driveway
-
-      (iv) Park by or at a fire hydrant or bus stop
-
-      (v) Park, stop, or stand in any manner that violates the Vehicle and Traffic Laws of the State of New York and the New York City Traffic Rules
-
-      (vi) Do mechanical maintenance or make repairs on any Vehicle, except to emergency repairs that are necessary to move a disabled Vehicle (Examples of disabling conditions: a dead battery or a flat tire) 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59B-18(b)(1)-(4)
-      - Fine: $50 for first occasion; $100-$250 for the second and subsequent occasions; non-renewal of Base License for violations on six dates within 12 months
-      - Appearance Required
-~
-
-
-
- 
-
-   (5) A Base Owner must ensure that "Base personnel" obey all applicable traffic and parking regulations within the "restricted area." 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59B-18(b)(5)
-      - Fine: $50
-      - Appearance Required
-~
-
-
-
- 
-
-   (6) A Base Owner must ensure that "Base personnel" do not create a nuisance such as engaging in unnecessary horn honking, littering, or playing loud audio material within the "restricted area." 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59B-18(b)(6)
-      - Fine: $50
-      - Appearance Required
-~
-
-
-
- 
-
-(c) Special Requirements for Street Hail Liveries: Credit Cards for Hail Trips.
-
-   (1) A Street Hail Livery Base Owner can deduct from any credit or debit card payments due to a Street Hail Livery Driver any amounts required to be collected for payment of the MTA Tax.
-
-   (2) A Street Hail Livery Base Owner must pay the Street Hail Livery Driver on no less than a weekly basis, the total amount of all credit card payments received during that period. The Base Owner must provide an itemized receipt, showing all deductions, with each payment. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59B-18(c)(2)
-      - Fine: $100
-      - Appearance NOT Required
-~
-
-
-
- 
-
-   (3) A Street Hail Livery Base Owner can withhold from the cash payments to a Street Hail Livery Driver (and all such withholdings must be identified on the receipt) the following:
-
-      (i) the sum of all MTA Tax payments due from the Street Hail Livery Driver; and
-
-      (ii) the sum of all tolls and charges deducted by the MTA Bridges &amp; Tunnels from the E-Z-Pass® account of the Street Hail Livery Base Owner for trips provided by the Street Hail Livery Driver. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59B-18(c)(3)
-      - Fine: First violation: $200Second violation: $300Third violation: $500In addition to the penalty payable to the Commission, the ALJ may order the Base Owner to pay restitution to the Driver, equal to the excess amount that was charged to the Driver.
-      - Appearance Required
-~
-
-
-
- 
-
-(d) A Base is permitted to penalize a Driver who does not pick up a Passenger for a pre-arranged trip.
-
-(e) Limits on Hours of Driving.
-
-   (i) Generally. A Base or Associated Base must not dispatch a Driver to transport any Passenger(s) for hire in excess of the daily and weekly limits detailed in this subdivision.
-
-      A. Daily and weekly driving hours will be calculated by adding up the time that passengers are being transported for hire. Time between trips will not be counted as driving hours.
-
-      B. If any time exceeds the daily limit and serves as the basis for a violation of the daily limit, such time cannot also be counted toward a violation of the weekly limit.
-
-      C. It is a defense to a violation of the limits set forth in this subdivision that any such limit was exceeded because of a single trip that began before the limit was reached.
-
-   (ii) Daily Limit. A Base or Associated Base must not dispatch a Driver to transport any Passenger(s) for hire in more than 10 hours in total in any 24-hour period. Exception: If a Base or Associated Base does not dispatch a Driver to transport Passengers in at least eight consecutive hours, the 10-hour count resets and such Base or Associated Base can resume dispatching such Driver to pick up Passengers for hire.
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59B-18(e)(ii)
-      - Fine: $200 for each dispatch over the limit
-      - Appearance NOT Required
-~
-
-
-
- 
-
-   (iii) Weekly Limit. A Base or Associated Base must not dispatch a Driver to transport any Passenger(s) for hire in more than 60 hours in total in any seven-day period that begins on Monday and ends on Sunday.
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59B-18(e)(iii)
-      - Fine: $200 for each dispatch over the limit
-      - Appearance NOT Required
-~
-
-
-
- 
-
-
-
-
-
-
-
-
-*§ 59B-19 Operations – Trip Record Information.* ::
-
-
-(a) Required Information. A Base Owner must make sure that the following records are collected and transmitted to the Commission in a format, layout, procedure, and frequency prescribed by the Commission:
-
-   (1) With respect to all dispatched calls:
-
-      (i) The date, the time, and the location of the Passenger pickup and drop-off.
-
-      (ii) The Driver's TCL Driver License number.
-
-      (iii) The dispatched Vehicle's License number.
-
-      (iv) The TLC License number of the For-Hire Base that dispatched the Vehicle.
-
-      (v) The TLC License number of the For-Hire Base affiliated to the dispatched Vehicle.
-
-      (vi) Whether the Passenger is sharing the Vehicle for part or all of the trip with a Passenger from another dispatched call.
-
-   (2) With respect to all affiliated Vehicles:
-
-      (i) The Owner's name, mailing address, and home telephone number
-
-      (ii) The Vehicle's registration number
-
-      (iii) The Vehicle's License number
-
-      (iv) The Vehicle's license plate number
-
-      (v) The name of the Vehicle's insurance carrier and the policy number
-
-      (vi) The dates of inspection of the Vehicle and the outcome of each inspection 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59B-19(a)
-      - Fine: $100 if plead guilty before a hearing and suspension until compliance; $150 if found guilty following a hearing and suspension until compliance.
-      - Appearance NOT Required
-~
-
-
-
- 
-
-(b) Maintenance of Required Information.
-
-   (1) A Base Owner must make sure that all required information listed above is kept and made available for inspection by Commission representatives during regular business hours.
-
-   (2) Required operational records must be maintained at the Base for a period of 18 months; inspection records must be kept for 12 months.
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59B-19(b)
-      - Fine: $100 if plead guilty before a hearing; $150 if found guilty following a hearing.
-      - Appearance NOT Required
-~
-
-
-
- 
-
-(c) Special Requirements for Street Hail Liveries – Trip Record Information.
-
-   (1) Trip Record.
-
-      (i) Trip Data must be collected and stored by the LPEP Provider electronically, through the use of the Street Hail Livery Technology System (LPEP).
-
-      (ii) If the LPEP is inoperable, a written Trip Record must be kept by the Driver during the 48-hour period the Street Hail Livery is permitted to operate after timely notification of the malfunction. (See 35 RCNY § 59B-52(c))
-
-      (iii) A written Trip Record, if required, must be kept for eighteen months.
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59B-19(c)(1)
-      - Fine: $100
-      - Appearance NOT Required
-~
-
-
-
- 
-
-   (2) Written Trip Records. A written Trip Record must include the following information:
-
-      (i) The Street Hail Livery License number
-
-      (ii) The TLC Driver License number
-
-      (iii) The location where each passenger is picked up
-
-      (iv) The time each passenger is picked up
-
-      (v) The total number of passengers
-
-      (vi) The location where each passenger is dropped off
-
-      (vii) The time each passenger is dropped off
-
-      (viii) The total trip mileage
-
-      (ix) The itemized metered fare for the trip (fare, tolls, surcharge, and tip, if paid by credit or debit card)
-
-      (x) Method of payment
-
-      (xi) The trip number
-
-      (xii) Whether the trip is a Hail Trip or a Pre-Arranged Trip
-
-      (xiii) Other information required by the Commission
-
-      (xiv) For a Pre-Arranged Trip, the following information is required:
-
-         A. The time of dispatch.
-
-         B. If the dispatch was for a Pre-Arranged Trip to begin with an airport pickup.
-
-   (3) Access to Trip Record and Trip Data.
-
-      (i) Trip Data and Trip Record information must be available as specified in 35 RCNY Chapter 83 to the Commission (in a form and format and delivery method as specified by the Commission), the Street Hail Livery Licensee and the Street Hail Livery Driver.
-
-      (ii) Trip Data and Trip Record information must be available at the end of each shift and/or at the end of a lease or contract term.
-
-      (iii) A Street Hail Livery Base Owner must take possession of any written Trip Records weekly and hold such Trip Records for eighteen months.
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59B-19(c)(3)
-      - Fine: $100
-      - Appearance NOT Required
-~
-
-
-
- 
-
-   (4) Changes and Corrections.
-
-      (i) A Street Hail Livery Base Owner must not knowingly enter false information into the electronic data system for entry onto the electronic Trip Record
-
-      (ii) A Street Hail Livery Base Owner must not make erasures or obliterate information on a written Trip Record, or other record that Owner is required to maintain. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59B-19(c)(4)(i)-(ii)
-      - Fine: $100
-      - Appearance NOT Required
-~
-
-
-
- 
-
-      (iii) If a wrong entry is made on any written Trip Record, the Driver, the Street Hail Livery Licensee or Street Hail Livery Base Owner must correct it and record the date, time, and reason for the change. This record must be kept as long as the written Trip Record must be kept. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59B-19(c)(4)(iii)
-      - Fine: $100
-      - Appearance NOT Required
-~
-
-
-
- 
-
-      (iv) Trip Records, whether electronic or paper, must not be changed either in whole or in part, unless authorized by the Commission. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59B-19(c)(4)(iv)
-      - Fine: $100 – $350 and/or suspension up to 30 days
-      - Appearance Required
-~
-
-
-
- 
-
-
-
-
-
-
-
-
-*§ 59B-20 Operations – Current Contact Information.* ::
-
-
-(a) Base Name.
-
-   (1) File with Commission. A For-Hire Base Owner must file with the Commission a Base name and any public facing name it uses in its branding, operations, promotions or advertising as its trade, business or operating names.
-
-   (2) No "Substantially Similar" Names. The Chairperson can reject any such Base name or trade, business or operating name if, in the judgment of the Chairperson, such name is substantially similar to the trade, business or operating name of another Base.
-
-   (3) Only One Name and One Trade, Business, or Operating Name per Base.
-
-      (i) A Base must use only one Base name and only one trade, business or operating name in its operations, including in its public communications, advertising, promotional activities, and Passenger solicitation activities.
-
-      (ii) A Base can add words such as "premium" or "select" to its approved trade name to promote a different level of service, if the Base offers multiple levels of service.
-
-   (4) Only One Base per Name. Any trade, business or operating name approved by the Chairperson for one Base cannot be used by any other Base, unless both Bases seeking to use the same trade, business or operating name share identical Owners.
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59B-20(a)
-      - Fine: $100
-      - Appearance NOT Required
-~
-
-
-
- 
-
-(b) Mailing and Email Address.
-
-   (1) A For-Hire Base Owner must file the address of its Base with the Commission.
-
-   (2) A For-Hire Base Owner must have a working Email Address at all times.
-
-   (3) A For-Hire Base Owner must report any change of Mailing Address or Email Address to the Commission in person or by mail within ten days.
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59B-20(b)(1)-(3)
-      - Fine: $100
-      - Appearance NOT Required
-~
-
-
-
- 
-
-   (4) Any communication from the Commission is sufficient if sent to the last Mailing Address provided by the For-Hire Base Owner.
-
-   (5) Any communication from the Commission, except notices and summonses for which the manner of service is specified in 35 RCNY § 68-05 of these Rules, is sufficient if sent by email to the last Email Address provided by the For-Hire Base Owner.
-
-(c) Capacity for 24-Hour Access.
-
-   (1) A For-Hire Base Owner must maintain a current telephone number on file with the Commission.
-
-   (2) This number must be connected to an answering machine or must be a pager number, an answering service telephone number, or something similar that allows the Commission to reach the Base Owner on a 24-hour basis. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59B-20(c)
-      - Fine: $100
-      - Appearance NOT Required
-~
-
-
-
- 
-
-
-
-
-
-
-
-
-*§ 59B-21 Operations – Additional Records to be Maintained and Reported.* ::
-
-
-(a) Maintenance of Current Rate Schedule.
-
-   (1) A Base Owner must file a Rate Schedule with the Commission, in a form approved by the Chairperson. This Rate Schedule must include any lawful price multipliers or variable pricing policies, any and all fees associated with E-Dispatching Vehicles, and the Base's rates for rides dispatched by the Base for Pre-Arranged Trips provided by Street Hail Liveries, if the Base dispatches Street Hail Liveries.
-
-   (2) A new Rate Schedule must be filed:
-
-      (i) Whenever rates are changed and also
-
-      (ii) Annually, no later than the anniversary date of the License,
-
-      (iii) With every renewal application
-
-      (iv) With any application to change the Ownership or location of the Base.
-
-   (3) Failure to file a Rate Schedule with a renewal application or an application to change Ownership or location will result in denial of the application by the Chairperson. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59B-21(a)
-      - Fine: $50
-      - Appearance NOT Required
-~
-
-
-
- 
-
-(b) Hours of Operation. A Base Owner must file with the Chairperson the Base's hours of operations, including the hours Passengers may book the Base's affiliated Vehicles through a Dispatch Service Provider, and must notify the Chairperson of any change in the hours of operation.
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59B-21(b)
-      - Fine: $50
-      - Appearance NOT Required
-~
-
-
-
- 
-
-(c) Public Access Information.
-
-   (1) A Base Owner must file with the Chairperson all contact information made available to or offered to the public for purposes of pre-arranging transportation for hire, including but not limited to telephone numbers, smartphone applications, websites, Dispatch Service Providers, and email addresses.
-
-   (2) If the contact information made available to or offered to the public for purposes of pre-arranging transportation for hire cannot be used to contact the Base for trip-related customer service, a Base Owner must file with the Chairperson a working customer service telephone number and/or email address.
-
-   (3) These telephone numbers, smartphone applications, websites, email addresses, Dispatch Service Providers, and other contact information and methods can be used only with the name of the Base or the Base's trade, business or operating name approved under 35 RCNY § 59B-20(a).
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59B-21(c)
-      - Fine: $100
-      - Appearance NOT Required
-~
-
-
-
- 
-
-(d) Affiliated Vehicles and Drivers List.
-
-   (1) A Base Owner must maintain paper or electronic records of all For-Hire Vehicles that are or have been affiliated with or dispatched by the Base during the prior 12-month period, including, as applicable:
-
-      (i) Dates of affiliation,
-
-      (ii) Vehicle identification numbers,
-
-      (iii) Department of Motor Vehicles (or equivalent) registration numbers,
-
-      (iv) For-Hire Vehicle License numbers,
-
-      (v) Inspection records.
-
-      (vi) Copies of forms affiliating and disaffiliating Vehicles.
-
-   (2) A Base Owner must maintain paper or electronic records of all Drivers of these Vehicles including:
-
-      (i) Dates of operation,
-
-      (ii) Department of Motor Vehicles driver's license numbers,
-
-      (iii) TLC Driver License numbers.
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59B-21(d)(1) &amp; (2)
-      - Fine: $50
-      - Appearance NOT Required 
-~
-
-
-
- 
-
-   (3) Filing Notice with the Commission. A Base Owner must send the Commission the list of affiliated Drivers and Vehicles (described in (1) and (2) above) on a quarterly basis. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59B-21(d)(3)
-      - Fine: $100
-      - Appearance NOT Required
-~
-
-
-
- 
-
-   (4) Special Reporting Requirements for Street Hail Livery Bases. A Street Hail Livery Base Owner must maintain and report all information required by this subdivision 59B-21(d) electronically in a format specified by the Commission. All such information must also be maintained by the Street Hail Livery Base Owner for at least 12 months. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59B-21(d)(4)
-      - Fine: $500
-      - Appearance NOT Required
-~
-
-
-
- 
-
-(e) Evidence of Compliance with Off-Street Parking Rules – Livery Base Only. A Livery Base Owner must maintain and have available for inspection at the Base the evidence of compliance with off street parking requirements in the form required by 35 RCNY § 59B-15(J). 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59B-21(e)
-      - Fine: $50
-      - Appearance NOT Required
-~
-
-
-
- 
-
-(f) Compliance with all Record Keeping Rules. A Base Owner must comply with all record-keeping procedures established and required by the Commission. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59B-21(f)
-      - Fine: $50 if plead guilty before a hearing; $100 if found guilty following a hearing.
-      - Appearance NOT Required
-~
-
-
-
- 
-
-(g) Information Security and Use of Personal Information Policy. If the Base collects or maintains passenger "Personal Information," as defined by New York General Business Law §899-aa(1)(a), or if the Base collects or maintains passenger geolocation data, the Base Owner must file with the Commission a current detailed information security and use of personal information policy. Such policy must include, a minimum:
-
-   (1) a statement of internal access policies relating to passenger and driver personal information for employees, contractors, and third party access, if applicable;
-
-   (2) a statement that, except to the extent necessary to provide credit, debit, and prepaid card services and services for any application that provides for electronic payment, personal information will only be collected and used with such passenger's affirmative express consent and that such personal information will not be used, shared, or disclosed, except for lawful purposes;
-
-   (3) procedures for notifying the Commission and affected parties of any breach of the security of the system, pursuant to section 899-aa of the General Business Law;
-
-   (4) a statement that any credit, debit, or prepaid card information collected by the Base or a credit, debit, or prepaid card services provider is processed by the Base or such provider in compliance with applicable payment card industry standards, and;
-
-   (5) a statement of the Base's policies regarding the use of passenger geolocation information, which must include, at a minimum, a prohibition on the use, monitoring, or disclosure of trip information, including the date, time, pick-up location, drop-off location, and real-time vehicle location and any retained vehicle location records, without such passenger's affirmative express consent.
-
-(h) Compliance with Information Security and Use of Personal Information Policy. Any Base that files with the TLC an information security and use of personal information policy must comply with the terms of such policy.
-
-(i) Security Breach. If the Base is required to make disclosures under New York State or Federal law regarding security breaches, including the New York State Information Security Breach and Notification Act (General Business Law §899-aa), the Base Owner must inform the Commission immediately following such disclosure(s).
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59B-21 (h) and (i)
-      - Penalty: $1,000 fine per day and suspension until compliance
-      - Appearance Required
-~
-
-
-
- 
-
-
-
-
-
-
-
-
-*§ 59B-22 Records – Reporting Requirements for Street Hail Liveries.* ::
-
-
-(a) LPEP Required. Every Street Hail Livery must be equipped with LPEP.
-
-(b) Trip Data Collection and Transmission.
-
-   (1) All Trip Data must be transmitted to the Commission in the form and manner specified in Chapter 83.
-
-   (2) To the extent necessary to facilitate data transfer, the Commission may mandate that each Street Hail Livery be equipped with external antennas.
-
-   (3) No equipment designed to comply with the provisions of this section may be installed unless it has been approved by the Commission based on a determination that the equipment conforms to the specifications set herein, is safe, and fulfills the intended purposes for such equipment.
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59B-22(b)(1)-(3)
-      - Fine: $500
-      - Appearance NOT Required
-~
-
-
-
- 
-
-
-
-
-
-
-*§ 59B-23 Operations – Rates and Tolls.* ::
-
-
-(a) Rates Must Not Exceed Scheduled Rates. A Base Owner must not quote or charge a fare, or allow a Dispatch Service Provider to quote or charge a fare, that is more than the fare listed in the Rate Schedule filed with the Commission.
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59B-23(a)
-      - Fine: $200 for Passenger overcharge, whether from any quote or from schedule of fares required to be filed with the Commission.
-      - Appearance NOT Required
-~
-
-
-
- 
-
-(b) Rate Quotes – Livery Base Only.
-
-   (1) Each time a prospective Passenger contacts a Base for transportation, regardless of the means by which the Passenger contacts the Base, the Base Station Owner must ask the Passenger to specify a destination and any intermediate stop(s). If the Passenger specifies a destination and any intermediate stop(s), the Base Station Owner must provide the prospective Passenger with an accurate and binding price quote for travel to the specified destination and any intermediate stop(s). If the Passenger does not specify a destination and any intermediate stop(s), the Base Station Owner must then provide the Passenger with an accurate and binding statement of how the fare is to be calculated, which can be by time, mileage, zones, or other means.
-
-   (2) Disclosure. For requests for transportation made by means other than a telephone call, the Base Station Owner must ask the Passenger to specify a destination and any intermediate stop(s), and must prominently disclose in writing to the Passenger, as the Passenger books the trip, that the Passenger will receive an accurate and binding price quote for the trip upon entering his or her destination.
-
-   (3) Honoring Rate Quotes. If the Passenger agrees to receive the transportation, the Base Owner must honor the price quoted unless the Passenger changes the date, time, or location of the pick up; the destination or number of stops; or the vehicle type requested, if any. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59B-23(b)
-      - Fine: $75 if plead guilty before a hearing; $100 if found guilty following a hearing.
-      - Appearance NOT Required
-~
-
-
-
- 
-
-(c) Special Rule for Street Hail Liveries. Fares for Hail Trips in Street Hail Liveries will be as set forth in 35 RCNY § 82-26.
-
-(d) Transportation by Pre-Arrangement Only.
-
-   (1) A Base Owner must be responsible for ensuring that transportation is provided only by pre-arrangement through the Base.
-
-   (2) A Base Owner must ensure that a For-Hire Vehicle does not accept passengers except by pre-arrangement through the base. Exception: A Street Hail Livery affiliated with a Street Hail Livery Base can provide transportation by accepting hails from passengers in the street in the Hail Zone.
-
-   (3) A Base Owner is responsible and can be issued a summons if Vehicles improperly accept Passenger. A Base Owner's liability will be based on a three month weighted average of total vehicles affiliated with the Base. It will be a defense to any summons issued under this rule that the Base can demonstrate an average of ten Pre-Arranged Trips per affiliated vehicle per day.
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59B-23(d)
-      - Fine: $1,000 if 10% of the Base's affiliated vehicles receive summonses under 35 RCNY § 59A-25(a) $3,000 if 20% of the Base's affiliated vehicles receive summonses under 35 RCNY § 59A-25(a)
-      - Appearance NOT Required
-~
-
-
-
- 
-
-(e) (1) A Street Hail Livery Base Owner must ensure that no Street Hail Livery affiliated with the Street Hail Livery Base, or any other Vehicle affiliated with the Street Hail Livery Base, will provide transportation by accepting hails from passengers in the Hail Exclusionary Zone.
-
-   (2) A Street Hail Livery Base Owner is responsible and can be issued a summons if Vehicles improperly accept Passengers. A Street Hail Livery Base Owner's liability will be based on a three month weighted average of total vehicles affiliated with the Street Hail Livery Base. It will be a defense to any summons issued under this rule that the Base can demonstrate an average of ten Pre-Arranged Trips per affiliated vehicle per day. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59B-23(e)
-      - Fine: $1,000 if 10% of the Base's affiliated Street Hail Livery vehicles receive summonses under 35 RCNY § 82-13(a)$3,000 if 20% of the Base's affiliated Street Hail Livery vehicles receive summonses under 35 RCNY § 82-13(a)
-      - Appearance NOT Required
-~
-
-
-
- 
-
-(f) A Street Hail Livery Base Owner must not dispatch a Street Hail Livery for a Pre-Arranged Trip beginning in the Pre-Arranged Exclusionary Zone. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59B-23(f)
-      - Fine: $500
-      - Appearance NOT Required
-~
-
-
-
- 
-
-(g) For Black Car and Luxury Limousine Bases: Fare Estimates. Each time a prospective Passenger contacts a Base for transportation, regardless of the means by which the Passenger contacts the Base, the Base must provide, upon request, an estimate of the total fare in dollars and cents, inclusive of all fees and any price multiplier, for the specific trip requested, prior to dispatching the trip, subject to the following requirements:
-
-   (1) Each Passenger requesting service must be notified of the passenger's right to receive a fare estimate.
-
-   (2) A Base must ask any Passenger requesting a fare estimate to specify a destination.
-
-   (3) The fare estimate may be expressed in a range in dollar and cents, provided that the higher price in such range shall not be more than 150 percent of the lower price in such range.
-
-   (4) A Base may not charge a Passenger a fare that is more than 120 percent of the fare estimate unless the Passenger takes any action to alter the estimated route, including, but not limited to, changing the location of the pick-up, destination, number of stops, or the vehicle type requested, or requests a route change requiring the payment of a toll.
-
-   (5) If the fare estimate is expressed in a range, a Base may not charge the Passenger more than 120 percent of the highest price included in that range.
-
-   (6) The provisions of this subdivision shall not apply to Black Car Bases while providing line work, as that term is defined in section 19-545 of the Administrative Code.
-
-   (7) Affirmative Defense. A Base can offer an affirmative defense to a summons issued under paragraphs (3) or (4) of this subdivision if the Base can demonstrate that the Base reimbursed the Passenger the portion of the fare charged that exceeded 120 percent of the given fare estimate within 10 business days of receiving a request for reimbursement from the Passenger.
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59B-23(g)
-      - Fine: $500
-      - Appearance NOT Required
-~
-
-
-
-(h) Tips and Gratuities. A Base Owner must provide a means to allow passengers to tip Drivers using the same method of payment that passengers use to pay for the fare. A Base Owner must remit to the Driver the entirety of anything designated as a tip or gratuity collected by the Base Owner from a customer on behalf of the Driver.
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59B-23(h)
-      - Fine: $500
-      - Appearance NOT Required
-~
-
-
-
- 
-
-
-
-
-
-
-
-
-*§ 59B-24 Operations – E-Zpass Required. [Reserved]* ::
-
-
-(a) No Street Hails Permitted. A Base Owner must maintain and enforce rules and policies preventing Vehicles affiliated with the Base or dispatched by the Base and Drivers of these Vehicles from accepting street hails and preventing Street Hail Liveries from accepting Hail Trips in the Hail Exclusionary Zone. NOTE: Street Hail Liveries are permitted to accept street hails in Hail Zone. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59B-25(a)
-      - Fine: Suspension until compliance
-      - Appearance Required
-~
-
-
-
- 
-
-(b) Prohibited Use of "Taxi." A Base Owner must not hold himself out for business as a "taxi" or "taxicab" service or in any way use the word "taxi," "taxicab," "cab," "hack," or "coach" to describe the business. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59B-25(b)
-      - Fine: $250
-      - Appearance NOT Required
-~
-
-
-
- 
-
-(c) Advertising of Commission License.
-
-   (1) A Base Owner must clearly state that the Base is licensed by the Commission in all Passenger-facing advertising, whether print, broadcast, electronic or Internet, and in all handbills, fliers, websites, smartphone applications, or other promotional materials and on all business cards and receipts.
-
-   (2) All of the advertising and materials listed in (1) above must include the For-Hire Base License number. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59B-25(c)
-      - Fine: $100
-      - Appearance NOT Required
-~
-
-
-
- 
-
-(d) Termination of Affiliation.
-
-   (1) Base Owner Termination. A Base Owner can terminate the affiliation of a Vehicle only by:
-
-      (i) Giving the Chairperson an agreement signed and dated by both parties in which the Vehicle Owner consents to the termination, or
-
-      (ii) Sending notice to the Vehicle Owner's Mailing Address by certified mail, return receipt requested, together with proof of mailing, and sending copies of the notice and proof of mailing mailed to the Commission.
-
-      (iii) Termination will become effective either:
-
-         A. The date of the Vehicle Owner's signed agreement, or
-
-         B. The date notice is mailed to the Vehicle Owner.
-
-      (iv) A Base Owner can notify the Commission at any time when a Vehicle is no longer affiliated with Owner's Base; this notification will be a defense to any liability attaching to the Owner for damage to persons or property caused by the Vehicle after the notification.
-
-   (2) Automatic Termination of Affiliation.
-
-      (i) A Vehicle's affiliation with a Base will terminate automatically when any of the following occurs:
-
-         A. The Base License is revoked
-
-         B. The Base License is suspended for more than 30 continuous days;
-
-         C. The Base License expires
-
-      (ii) In addition, a Vehicle's affiliation with a Base will terminate automatically upon expiration or revocation of the Vehicle's License.
-
-(e) Passenger Complaint Notification. Upon receipt of a Passenger complaint related to a Driver, a Base Owner must provide the Passenger with the "311" Commission complaint telephone number and inform the Passenger that only the TLC can suspend or revoke a Driver's TLC License.
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59B-25(e)
-      - Fine: $250
-      - Appearance NOT Required
-~
-
-
-
- 
-
-(f) Dispatching to Vehicles at Airports. A Base Owner must not dispatch a Vehicle parked or otherwise located at Kennedy Airport or La Guardia Airport unless the Vehicle is parked in an area other than the airport's designated passenger pick up locations.
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59B-25(f)
-      - Fine: $250
-      - Appearance NOT Required
-~
-
-
-
- 
-
-(g) Base Name and Rates on Booking Tools. If a Base allows a Passenger to request a dispatch through its own publicly available Passenger-facing booking tool without speaking to a dispatcher, the Passenger-facing booking tool must use only the Base Name or the trade, business, or operating name the Base has on file with the Commission pursuant to 35 RCNY§ 59B-20(a)(1) and must display the Base's rates or fares within the booking tool.
-
-(h) For Black Car and Luxury Limousine Bases: Price Multipliers. If a price multiplier or variable pricing policy is in effect at the time at which a customer requests Black Car service or Luxury Limousine service, a Base must require the customer to affirmatively acknowledge and accept the price multiplier or variable pricing policy prior to dispatching a Vehicle to the customer.
-
-(i) Receipts. If a Base provides a receipt for a trip, the receipt must contain all of the following information:
-
-   (1) The Dispatching Base License number;
-
-   (2) Vehicle License number;
-
-   (3) Vehicle's affiliated Base License number;
-
-   (4) Driver's TLC License number;
-
-   (5) Total amount due;
-
-   (6) Itemized fees charged (if any) including any price multiplier or variable pricing policy in effect for the trip;
-
-   (7) The "311" Commission complaint telephone number; and
-
-   (8) The public access information the Base has on file with the Commission pursuant to 35 RCNY § 59B-21(c).
-
-(j) Electronic Dispatch Requests to Drivers. If a Base sends dispatch requests to Drivers through an electronic, Driver-facing interface, that interface must be available to a Driver ONLY when the Vehicle is standing or stopped, except that the Driver-facing interface can permit a Driver to accept a dispatch with a single touch using pre-programmed buttons or using voice activation while the vehicle is in motion. All other uses of a Driver-facing interface must be velocity gated to prevent its use while the vehicle is in motion.
-
-
-
-
-
-
-
-
-*§ 59B-26 Vehicles – Inspections.* ::
-
-
-(a) Tri-Annual Inspection Required. For-Hire Vehicles must be inspected three times a year at least once every four months and a Base must not dispatch a Vehicle that has missed an inspection until the Vehicle passes inspection. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59B-26(a)
-      - Base Fine: $350
-      - Appearance NOT Required
-~
-
-
-
- 
-
-
-
-
-
-
-*§ 59B-27 Vehicles – Meets Safety Standards.* ::
-
-
-(a) Unsafe or Unfit Vehicles.
-
-   (1) No For-Hire Vehicle can be used in a For-Hire Vehicle service after the Commission or the NYS DMV has determined that the Vehicle is unsafe or unfit for use as a For-Hire Vehicle, and the Owner has been directed to remove the Vehicle from service.
-
-   (2) If the Commission or the Commission's inspection facility determines that the Vehicle is unsafe or unfit, the Decals must be removed by the Commission.
-
-   (3) If the NYS DMV or a DMV inspection facility determines that the Vehicle is unsafe or unfit, the Vehicle Owner must return the Decals to the Chairperson within 72 hours after the determination is made.
-
-   (4) If the Chairperson has any reason to believe that any For-Hire Vehicle is unsafe or unfit for use, the Chairperson can order the Vehicle to report to the Commission's inspection facility.
-
-(b) Seat and Shoulder Belts. Each For-Hire Vehicle must have all seat belts and shoulder belts clearly visible, accessible, and in good working order. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59B-27(b)
-      - Fine: $100 – 250
-      - Appearance Required
-~
-
-
-
- 
-
-(c) Shoulder Belts Required. In addition to seat belts for each seating position and shoulder belts for both outside front seat positions, all For-Hire Vehicles must be equipped with shoulder belts for both outside Passenger rear seat positions. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59B-27(c) 
-      - Fine: $100 – 250
-      - Appearance Required
-~
-
-
-
- 
-
-
-
-
-
-
-*§ 59B-28 Vehicles – Miscellaneous Requirements.* ::
-
-
-(a) Post-Manufacture Alteration.
-
-   (1) No For-Hire Vehicle License can be altered after manufacture:
-
-      (i) To increase its length, width, weight or seating capacity, or
-
-      (ii) To modify its chassis and/or body design.
-
-   (2) Exception for all types of Vehicles. A For-Hire Vehicle can also be altered, after manufacture, provided that the Vehicle, as modified, meets all of the following:
-
-      (i) The modification has been made under a program approved in advance by the original vehicle manufacturer, and
-
-      (ii) The alteration has been performed by an entity approved and certified by the vehicle manufacturer to perform such alterations.
-
-      (iii) An original, unaltered, approved vehicle modifier's certification sticker must be affixed to the Vehicle attached to the left center post or hinge post.
-
-   (3) Exception for Vehicles seating 10 or more passengers and NOT exempt from NYS DOT Requirements. A For-Hire Vehicle can be altered, after manufacture, provided that the Vehicle, as modified, meets all of the following:
-
-      (i) The Vehicle, as modified, has been approved by the NYS Commissioner of Motor Vehicles under Section 401(1)(b) of the NYS Vehicle and Traffic Law.
-
-      (ii) The Vehicle has passed inspection by the NYS Department of Transportation under 17 NYCRR § 720.
-
-      (iii) For such modified For-Hire Vehicles, the inspections required by 35 RCNY § 59A-04(e) and (f) and 35 RCNY § 59A-26(a) and the requirement to meet safety standards set forth in 35 RCNY § 59A-27, will be inspections of, and determinations by, the NYS Department of Transportation.
-
-      (iv) A modified For-Hire Vehicle must still pass a visual inspection at the Commission's Safety and Emissions Division at application and renewal as required by 35 RCNY § 59A-04(e) and (f).
-
-      (v) The For-Hire Vehicle must be properly registered with the NYS Department of Motor Vehicles and must have been re-registered after completion of the modification.
-
-      (vi) The Vehicle must carry the modifier's sticker certifying that the modification was conducted in accordance with Federal Motor Vehicle Safety Standards.
-
-      (vii) The modifier of the Vehicle must certify that it is registered with the National Highway Traffic Safety Administration.
-
-      (viii) The modifier of the Vehicle must provide a warranty that the vehicle will be free from defects in material and workmanship, including that the chassis and frame will be free from defects for a period of 3 years or 60,000 miles, whichever comes first.
-
-      (ix) The modifier of the Vehicle must maintain a General Liability Insurance Policy in a minimum amount of $5,000,000.
-
-   (4) Exception for Vehicles seating 10 or more passengers (including the driver) and exempt from NYS DOT Requirements. A For-Hire Vehicle can be altered, after manufacture, provided that the Vehicle, as modified, meets all of the following:
-
-      (i) The For-Hire Vehicle must be properly registered with the NYS Department of Motor Vehicles and must have been re-registered after completion of the modification.
-
-      (ii) The Vehicle must carry the modifier's sticker certifying that the modification was conducted in accordance with Federal Motor Vehicle Safety Standards.
-
-      (iii) The modifier of the Vehicle must certify that it is registered with the National Highway Traffic Safety Administration.
-
-      (iv) The modifier of the Vehicle must provide a warranty that the vehicle will be free from defects in material and workmanship, including that the chassis and frame will be free from defects for a period of 3 years or 60,000 miles, whichever comes first.
-
-      (v) The modifier of the Vehicle must maintain a General Liability Insurance Policy in a minimum amount of $5,000,000.
-
-   (5) Exception for modified Vehicles seating 9 or fewer and exempt from NYS DOT inspection and operating authority requirements. A For-Hire Vehicle can be altered, after manufacture, even if the original vehicle manufacturer has not approved the program, provided that the Vehicle, as modified, meets all of the following:
-
-      (i) The For-Hire Vehicle must be properly registered with the NYS Department of Motor Vehicles and must have been re-registered after completion of the modification.
-
-      (ii) The Vehicle must carry the modifier's sticker certifying that the modification was conducted in accordance with Federal Motor Vehicle Safety Standards.
-
-      (iii) The modifier of the Vehicle must certify that it is registered with the National Highway Traffic Safety Administration.
-
-      (iv) The modifier of the Vehicle must provide a warranty that the vehicle will be free from defects in material and workmanship, including that the chassis and frame will be free from defects for a period of 3 years or 60,000 miles, whichever comes first.
-
-      (v) The modifier of the Vehicle must maintain a General Liability Insurance Policy in a minimum amount of $5,000,000.
-
-   (6) Exception for modified Vehicles seating 9 or fewer and NOT exempt from NYS DOT inspection and operating authority requirements. A For-Hire Vehicle can be altered, after manufacture, even if the original vehicle manufacturer has not approved the program, provided that the Vehicle, as modified, meets all of the following:
-
-      (i) The Vehicle, as modified, has been approved by the NYS Commissioner of Motor Vehicles under Section 401(1)(b) of the NYS Vehicle and Traffic Law.
-
-      (ii) The Vehicle has passed inspection by the NYS Department of Transportation under 17 NYCRR § 720.
-
-      (iii) For such modified For-Hire Vehicles, the inspections required by 35 RCNY § 59A-04(e) and (f) and 35 RCNY § 59A-26(a) and the requirement to meet safety standards set forth in 35 RCNY § 59A-27, will be inspections of, and determinations by, the NYS Department of Transportation.
-
-      (iv) A modified For-Hire Vehicle must still pass a visual inspection at the Commission's Safety and Emissions Division at application and renewal as required by 35 RCNY § 59A-04(e) and (f).
-
-      (v) The For-Hire Vehicle must be properly registered with the NYS Department of Motor Vehicles and must have been re-registered after completion of the modification.
-
-      (vi) The Vehicle must carry the modifier's sticker certifying that the modification was conducted in accordance with Federal Motor Vehicle Safety Standards.
-
-      (vii) The modifier of the Vehicle must certify that it is registered with the National Highway Traffic Safety Administration.
-
-      (viii) The modifier of the Vehicle must provide a warranty that the vehicle will be free from defects in material and workmanship, including that the chassis and frame will be free from defects for a period of 3 years or 60,000 miles, whichever comes first.
-
-      (ix) The modifier of the Vehicle must maintain a General Liability Insurance Policy in a minimum amount of $5,000,000. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59B-28(a)
-      - Base Owner Fine: $1,000
-      - Appearance Required
-~
-
-
-
- 
-
-(b) Proper Vehicle Identification Required. A Base Owner must not dispatch a Vehicle unless the Vehicle complies with the following requirements:
-
-   (1) License Plate Number Matches. The license plate number on the motor vehicle tax stamp, on the state registration certificate, and on the Commission Decals must match each other and must match the number on the license plates affixed to the Vehicle. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59B-28(b)(1)
-      - Fine: $100 
-      - Appearance NOT Required
-~
-
-
-
- 
-
-   (2) Vehicle Identification Number Matches. The last six digits of the vehicle identification number (VIN) on the Commission Decals must match the last six digits of the VIN on the state registration, and the VIN on the Vehicle. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59B-28(b)(2)
-      - Fine: $100 
-      - Appearance NOT Required
-~
-
-
-
- 
-
-   (3) T &amp; LC License Plates. A For-Hire Vehicle that is registered in New York must have official "T&amp;LC" license plates. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59B-28(b)(3)
-      - Fine: $100 – $350 and Suspension until compliance
-      - Appearance NOT Required
-~
-
-
-
- 
-
-   (4) License Plates for Street Hail Liveries. A Street Hail Livery must be registered in New York and must have license plates issued by the NYS DMV and embossed with the legend "T&amp;LC". No "vanity" plates are permitted for Street Hail Liveries. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59B-28(b)(4)
-      - Fine: $100-$350 and Suspension until compliance
-      - Appearance Required
-~
-
-
-
- 
-
-
-
-
-
-
-*§ 59B-29 Vehicles – Markings &amp; Advertising.* ::
-
-
-A Base Owner must not dispatch a Vehicle unless the Vehicle complies with the following requirements.
-
-(a) Valid License Decals.
-
-   (1) Three Valid Commission License Decals must be plainly visible and affixed to the Vehicle in the following locations:
-
-      (i) One Decal must be on the lower front right side of the windshield.
-
-      (ii) One Decal must be on the lower rear corner of each of the two rear quarter windows; if there are no rear quarter windows, the Decals must be on the lower rear window just above the rear door.
-
-      (iii) The Decals must be affixed by Commission staff.
-
-   (2) When the Vehicle License is renewed or when the Vehicle is replaced, changes affiliation, or changes its license plates, the Vehicle must be brought to the Commission Safety and Emissions Division to have new Decals placed on the Vehicle.
-
-   (3) Exception for Luxury Limousines. Any For-Hire Vehicle that is a Luxury Limousine will only be required to have a single Commission Decal affixed to the lower right side of the front windshield. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59B-29(a)
-      - Failure to have proper Decals: $500 for the first offense in 12 months; $1,000 for the second and subsequent offenses within a 12-month period.
-      - Appearance NOT Required
-~
-
-
-
- 
-
-(b) Valid Registration Sticker. A valid registration sticker from an authorized state motor Vehicle department must be affixed to the left front windshield so as to be plainly visible. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59B-29(b)
-      - Fine: $100
-      - Appearance NOT Required
-~
-
-
-
- 
-
-(c) Inspection Sticker. A Valid New York State DMV inspection sticker that has at least eight months left before the sticker expires must be clearly visible on the left side of the front windshield. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59B-29(c)
-      - Base Owner Fine: $350
-      - Appearance NOT Required
-~
-
-
-
- 
-
-(d) Taxicab Yellow Prohibited. No part of a For-Hire Vehicle can be painted any shade of Taxicab yellow. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59B-29(d)
-      - Fine: $350 for the first violation; $500 for the second violation in 24 months; Revocation for the third violation in 36 months
-      - Appearance Required
-~
-
-
-
- 
-
-(e) Prohibited Advertising.
-
-   (1) A Vehicle must not display advertising on the outside or the inside unless the Commission has authorized the advertising and has given the Vehicle Owner a permit specifying that the advertising complies with the Administrative Code.
-
-   (2) The Commission will not approve any roof top advertising for For-Hire Vehicles, except for Street Hail Liveries.
-
-   (3) Street Hail Liveries: Optional Rooftop Advertising Fixture.
-
-      (i) A Street Hail Livery Licensee may equip a Taxicab with an authorized Rooftop Advertising Fixture in accordance with 35 RCNY § 82-63. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59B-29(e)
-      - Fine: $50
-      - Appearance NOT Required
-~
-
-
-
- 
-
-(f) Motor Vehicle Tax Stamp.
-
-   (1) For Vehicles registered with the Department of Motor Vehicles before April 30, 1999, a Valid NYC commercial use motor vehicle tax stamp must be affixed to the front right side of the windshield of the Vehicle and clearly visible.
-
-   (2) For Vehicles registered after April 30, 1999, the Owner must show proof that the required commercial use motor vehicle tax for the current tax period has been paid. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59B-29(f)
-      - Fine: $100 
-      - Appearance NOT Required
-~
-
-
-
- 
-
-(g) Livery Base Station Affiliation Signs. A For-Hire Livery Vehicle must identify its affiliated Base Station on the outside of the Vehicle as follows:
-
-   (1) The name of the Base Station, its License number and telephone number in one of the following ways:
-
-      (i) In letters and numerals at least one-and-one-half inches in height, on the outside of a door or doors on both sides of the Vehicle, below the windows and at least six inches above the bottom of the door(s);
-
-      (ii) In letters and numerals at least one inch in height in one location on the rear of the Vehicle below the rear window, and at least six inches above the bottom of the rear of the Vehicle, or
-
-      (iii) Both on the doors and rear of the Vehicle.
-
-   (2) The letters and numerals must be of a color that contrasts with the color of the body of the Vehicle so that it is easy to see and read.
-
-   (3) Lettering and numbering must be spaced to provide easy legibility and, if placed on doors on both sides of the Vehicle must be identical on both sides of the livery.
-
-   (4) All Decals must be semi-permanent adhesive stickers.
-
-   (5) Exemption. Luxury Limousines and Black Cars are exempt from the requirements of this subdivision. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59B-29(g)
-      - Fine: $25
-      - Appearance NOT Required
-~
-
-
-
- 
-
-(h) Required Signage for Accessible Vehicles. Any Accessible Vehicle licensed by the Commission must display signs that identify the Vehicle as an Accessible Vehicle. The signs design will be provided by the Commission on its Web site or through other appropriate means as announced on its Web site. The signs must be placed on the Vehicle as follows:
-
-   (1) Must be located on the exterior of the C-pillars of a sedan or an SUV or on the exterior of the D-pillars of a minivan, on both sides of the Vehicle
-
-   (2) Must be visible to Passengers entering the Accessible Vehicle 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59B-29(h)
-      - Fine: $75
-      - Appearance NOT Required
-~
-
-
-
- 
-
-(i) Required Signage for Clean-Air Vehicles. Any Clean Air For-Hire Vehicle licensed by the Commission must display signs that identify the Vehicle as a Clean Air Vehicle. The signs design will be provided by the Commission on its Web site or through other appropriate means as announced on its Web site. The signs must be placed on the Vehicle as follows:
-
-   (1) Must be located on the exterior of the C-pillars of a sedan or an SUV or on the exterior of the D-pillars of a minivan, on both sides of the Vehicle
-
-   (2) Must be visible to Passengers entering the Clean Air Vehicle 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59B-29(i)
-      - Fine: $75
-      - Appearance NOT Required
-~
-
-
-
- 
-
-(j) Markings – Special Requirements for Street Hail Liveries.
-
-   (1) Street Hail Liveries must comply with the markings requirements of 35 RCNY § 82-33 of these Rules.
-
-   (2) A Street Hail Livery Base must not permit a Street Hail Livery affiliated with it to operate unless it has the proper markings. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59B-29(j)(2)
-      - Fine: $100
-      - Appearance NOT Required
-~
-
-
-
- 
-
-(k) Color – Special Requirements for Street Hail Liveries.
-
-   (1) The exterior of the Street Hail Livery vehicle must be painted Street Hail Livery color to be designated, except for the trim. The specifications for Street Hail Livery color to be designated will be posted on the Commission's Web site.
-
-   (2) A Street Hail Livery Base must not permit a Street Hail Livery affiliated with it to operate unless it is painted as required by this section. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59B-29(k)(2)
-      - Fine: $100
-      - Appearance NOT Required
-~
-
-
-
- 
-
-(l) Required Sticker. Each For hire-vehicle must display an internal safety sticker, with the following inscription: "Turning? People are Crossing." The dimensions of the sticker are 3.5 inches wide by 2.5 inches high. The sticker must be obtained pursuant to the instructions on the Commission's website or through other appropriate means announced on the website. If displayed, the sticker must be placed in the Vehicle as follows:
-
-   (1) On the inside of the front windshield, in the center and adjacent to the top of the windshield directly behind the rearview mirror.
-
-   (2) In such a manner not to obstruct the driver's view. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59B-29(l)(1) and (2)
-      - Fine: $75
-      - Appearance NOT Required
-~
-
-
-
- 
-
-(m) Optional Sticker. For hire-vehicles may display an optional external sticker, with the following inscription: "The choices you make behind the wheel matter." The dimensions of the sticker are 15 inches wide by 4 inches wide. The sticker may be obtained pursuant to the instructions on the Commission's website or through other appropriate means announced on the website. If displayed, the sticker must be placed on the Vehicle as follows:
-
-   (1) On the rear bumper of the vehicle.
-
-(n) Required Sticker. Each For Hire-Vehicle must display an internal safety sticker, with the following inscription: "ATTENTION: Assaulting A Driver Is Punishable By Up to Twenty-Five Years in Prison." The dimensions of the sticker are 8.0 inches wide by 2.0 inches high. The sticker must be obtained pursuant to the instructions on the Commission's website or through other appropriate means announced on the website. The sticker must be placed in the Vehicle as follows:
-
-   (1) Incorporated into the Livery Bill of Rights.
-
-The provisions of this subdivision do not apply to black cars and luxury limousines.
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59B-29(n)(1)
-      - Fine: $50 if plead guilty before a hearing, $75 if found guilty following a hearing
-      - Appearance NOT Required
-~
-
-
-
- 
-
-(o) Optional Sticker. Each For Hire-Vehicle may display an external safety sticker, with the following inscription: “Taxi and Limousine Drivers Are Protected By New York State Law ATTENTION: Assaulting A Driver Is Punishable By Up to Twenty-Five Years in Prison.” The dimensions of the sticker are 3.5 inches wide by 3.5 inches high. The sticker may be obtained pursuant to the instructions on the Commission’s website or through other appropriate means announced on the website. The sticker must be placed in the Vehicle as follows:
-
-   (1) On a rear passenger window.
-
-(p) Required Decal. Each For-Hire Vehicle with Hearing Induction Loop capability must display a Hearing Induction Loop Decal. The decal will feature the International Symbol of Access for Hearing Loss, described as the profile of an ear with a wide diagonal line running from the bottom left to the top right. The symbol contrast shall be light on dark or dark on light. A "T" will be placed in the lower right-hand corner of the decal. The decal will be placed as follows:
-
-   (1) As directed by the Chairperson. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59B-29(p)(1)
-      - Fine: $50 if plead guilty before a hearing, $75 if found guilty following a hearing
-      - Appearance NOT Required
-~
-
-
-
- 
-
-
-
-
-
-
-
-
-*§ 59B-30 Vehicles – Items Required to be in Vehicle.* ::
-
-
-(a) Licenses and Certificates. No For-Hire Vehicle can be dispatched by a For-Hire Base unless the Vehicle contains:
-
-   (1) On the right visor, on top of the right side of the dashboard or in the glove compartment:
-
-      (i) The certificate of registration or a legible copy of it
-
-      (ii) The insurance card or a legible copy of it
-
-   (2) In a protective holder attached to the back of the driver's seat in the Vehicle:
-
-      (i) The TLC Driver license of the Driver; and
-
-      (ii) The For-Hire Vehicle License.
-
-   (3) Exception for Black Cars and Luxury Limousines.
-
-      (i) Black Cars and Luxury Limousines must comply with all requirements of this subdivision (a) except that these Vehicles will not be required to have a protective holder mounted behind the driver's seat to display the TLC Driver License.
-
-      (ii) Those items must, however, be displayed in the Vehicle in a way so as to be clearly visible from the Passenger seat and available for inspection by the Passenger upon request. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59B-30(a)(1)-(3)
-      - Fine: $50 for each violation of this rule; however, no fine for a violation of this rule can exceed $100
-      - Appearance Required
-~
-
-
-
- 
-
-   (4) Modified Vehicles. If the Vehicle has been modified after manufacture and IS exempt from NYS Department of Transportation inspection and authorization requirements, a copy of the valid exemption letter from the NYS Department of Transportation must be kept in the Vehicle at all times. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59B-30(a)(4)
-      - Fine: $100.
-      - Appearance NOT Required
-~
-
-
-
- 
-
-(b) Livery Passengers' Bill of Rights.
-
-   (1) Regular Liveries Only: No For-Hire Livery Vehicle can be dispatched by a For-Hire Base unless the Vehicle contains:
-
-      (i) The Livery Passengers' Bill of Rights in a form and format prescribed by the Commission.
-
-      (ii) The Commission will post the proper form and format on its Web site or will provide the information through other appropriate means that will be posted on its Web site.
-
-      (iii) The Livery Passengers' Bill of Rights must be placed in a protective holder attached to the back of the front Passenger's seat.
-
-   (2) Street Hail Liveries Only: No Street Hail Livery Vehicle can be dispatched by a Street Hail Livery Base unless the Vehicle contains:
-
-      (i) The Street Hail Livery Passengers' Bill of Rights in a form and format prescribed by the Commission.
-
-      (ii) The Commission will post the proper form and format on its Web site or will provide the information through other appropriate means that will be posted on its Web site. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59B-30(b)
-      - Fine: $100
-      - Appearance NOT Required
-~
-
-
-
- 
-
-(c) Special Requirements for Street Hail Liveries. In addition to the other requirements of this section, a Street Hail Livery Base Owner must ensure that all Street Hail Liveries dispatched by the Base comply with the following:
-
-   (1) No Street Hail Livery can be dispatched unless the Vehicle contains the Rate Card in a frame next to the TLC Driver License.
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59B-30(c)(1)
-      - Fine: $25
-      - Appearance NOT Required
-~
-
-
-
- 
-
-
-
-
-
-
-
-
-*§ 59B-31 Vehicle – Equipment.* ::
-
-
-A Base Owner must not dispatch a Vehicle from its Base unless the Vehicle is in compliance with all of the following requirements.
-
-(a) Roof Light. A Base Owner must not dispatch a For-Hire Vehicle that is equipped with a roof light, unless the vehicle falls under one of the following categories:
-
-      (i) Staten Island Vehicles: The Vehicle operates primarily in Staten Island and is affiliated with a Base located in Staten Island. A roof light on a Staten Island Vehicle must meet the specifications in the definition of "roof light" in these rules; or 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59B-31(a)(i)
-      - Fine: $350 – first violation$500 – second violation in 24 months Revocation for third violation in 36 months
-      - Appearance Required
-~
-
-
-
- 
-
-      (ii) Street Hail Livery Vehicles: The Vehicle is a Street Hail Livery. A Street Hail Livery vehicle must be equipped with a roof light meeting the requirements of Chapter 82-52 of these Rules. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59B-31(a)(ii)
-      - Fine: $100
-      - Appearance NOT Required
-~
-
-
-
- 
-
-(b) Taximeter. A Base Owner must not dispatch a For-Hire Vehicle that is equipped with a taximeter. Exception: A Street Hail Livery must be equipped with a taximeter. See 35 RCNY § 59B-51.
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59B-31(b)
-      - Fine: $50
-      - Appearance NOT Required
-~
-
-
-
- 
-
-(c) Distress Signal Light – Livery Vehicle.
-
-   (1) Requirement. A Base Owner must not dispatch a Livery Vehicle unless it is equipped with a help or distress signaling light system meeting the specifications in 35 RCNY § 59C-03.
-
-   (2) Exemption. Vehicles affiliated only with a Black Car Base or a Luxury Limousine Base are not subject to this requirement.
-
-   (3) Requirement. A Base Owner must not dispatch a Livery Vehicle unless it is equipped with a help or distress signaling light system meeting the specifications in 35 RCNY § 59C-03. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59B-31(c)
-      - Fine: $175 and suspension of the vehicle license until the condition is corrected. Respondent must provide a condition corrected form issued by the TLC's Safety and Emissions Division.
-      - Appearance NOT Required
-~
-
-
-
- 
-
-(d) Electronic Dispatching Device. A Base Owner must not dispatch a For-Hire Vehicle that is equipped with more than the number of electronic devices used to accept dispatches from a Base or Dispatch Service Provider allowed under 35 RCNY § 59A-31(e).
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59B-31(f)*
-      - Fine: $50
-      - Appearance NOT REQUIRED
-~
-
-
-
- 
-
-* Editor's note: the reference is presented here exactly as promulgated by TLC.
-
-
-
-
-
-
-
-
-*§ 59B-32 Vehicle Equipment – Partitions for Livery Vehicles.* ::
-
-
-(a) Requirement.
-
-   (1) A Base Owner must not dispatch a For-Hire Livery Vehicle unless it is equipped with a partition that isolates the Driver from the rear seat Passengers or is exempt from this requirement as described below.
-
-   (2) The specifications for the required partition is described in 35 RCNY § 59C-02 of these Rules. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59B-32(a)
-      - Fine: $350 and suspension until the condition is corrected
-      - Appearance Required
-~
-
-
-
- 
-
-(b) Exemptions.
-
-   (1) A For-Hire Livery Vehicle will be exempt from the requirements of paragraph(a) (1) if the Vehicle is equipped with all of the following safety devices:
-
-      (i) An FCC-licensed commercial two-way radio with an emergency button that would notify the dispatcher that the Driver is in trouble or a cellular telephone that has an emergency dialing feature
-
-      (ii) The distress signal light required by 35 RCNY § 59B-31(c), above
-
-      (iii) An approved in-vehicle camera system described in 35 RCNY § 59B-33(a) below.
-
-   (2) Vehicles affiliated only with a Black Car Base or a Luxury Limousine Base are not subject to this requirement.
-
-
-
-
-
-
-*§ 59B-33 Vehicle Equipment – In-Vehicle Camera System (IVCS).* ::
-
-
-(a) Requirements for In-Vehicle Camera System. If a Livery Vehicle is equipped with an IVCS as one of the requirements for exemption from installing a partition:
-
-   (1) The IVCS must meet the specifications described in 35 RCNY § 59C-01 of these Rules and must be functioning and maintained in good working order. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59B-33(a)(1)
-      - Fine: $350 if plead guilty before a hearing and supply a condition corrected form issued by TLC's Safety and Emissions Division; $450 if found guilty following a hearing. Suspension until the condition is corrected.
-      - Appearance NOT Required
-~
-
-
-
- 
-
-   (2) Sign. The Vehicle must display signs on each rear Passenger window, clearly visible to the outside that say "This Vehicle is equipped with camera security. You will be photographed." In letters at least one-half inch high. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59B-33(a)(2)
-      - Fine: $50
-      - Appearance NOT Required
-~
-
-
-
- 
-
-
-
-
-
-
-*§ 59B-34 Taxicab Specific Vehicle Equipment. [Reserved]* ::
-
-
-(a) Accumulation of Points. A Base will accumulate Penalty Points as penalties for violation of certain Rules and upon certain violations by the Base's affiliated Vehicles, as specified below.
-
-(b) Notification of Affiliated Vehicle Points. A Base will be notified by the Commission (by USPS to the Base Mailing Address) whenever an affiliated For-Hire Vehicle accumulates a Penalty Point.
-
-(c) Assessment of Point for Revocation of Affiliated Vehicle License. A Base will be assessed one Penalty Point whenever an affiliated For-Hire Vehicle accumulates Penalty Points sufficient in number and time, that the Commission revokes the Vehicle's License.
-
-(d) Six Penalty Points Requires Base License Revocation. The License of any Base that accumulates six or more Penalty Points for occurrences during any License term will be revoked.
-
-(e) Points Accrued but not Assessed Before Renewal.
-
-   (1) If points are imposed after a Base License has been renewed based on a violation that occurred before the renewal, the points will be added to the total points accumulated by the Base before its renewal.
-
-   (2) If the additional Points raise the total number to six or more Points, the Base License will be revoked.
-
-(f) Revoking a License.
-
-   (1) The Chairperson can begin revocation proceedings whenever a Base Licensee has been assessed six or more points during the current term of that License.
-
-   (2) The Licensee's Base License can also be revoked as part of the decision imposing the final point necessary for revocation.
-
-(g) Separate Proceedings for Base License and Vehicle License Revocation. At any time revocation of a Base License is mandated and the last penalty point arises from the same incident that created the For-Hire Vehicle License revocation mandate, separate proceedings must be held for the Base License revocation and the Vehicle License revocation.
-
-(h) Point Reduction Program. The Chairperson will develop a point reduction program applicable to Vehicles and Bases.
-
-(i) Penalty Point Program Start Date. No Penalty Points will be imposed for violations occurring before August 1, 2009.
-
-
-
-
-
-
-*§ 59B-51 Special Requirements for Street Hail Liveries – Taximeters.* ::
-
-
-(a) Taximeter.
-
-   (1) A Street Hail Livery Base Owner must not dispatch a Street Hail Livery unless it is equipped with a Taximeter as required in Section 82-38 and the specifications set forth in Section 82-54 of these Rules.
-
-   (2) A Street Hail Livery Base Owner must not tamper with, alter, repair or attempt to repair any of the following:
-
-      (i) A Taximeter
-
-      (ii) Any Seal affixed to the taximeter by a licensed Taximeter repair shop or other authorized facility.
-
-      (iii) The Street Hail Livery Technology System (LPEP)
-
-      (iv) Any cable mechanism or electrical wiring of a Taximeter or Street Hail Livery Technology System (LPEP)
-
-   (3) A Street Hail Livery Base Owner must not make any change in a vehicle's mechanism or its tires that would affect the operation of the Taximeter or of the Street Hail Livery Technology System (LPEP). 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59B-51(a)
-      - Fine: $250-$1,500 and/or suspension up to 30 days
-      - Appearance Required
-~
-
-
-
- 
-
-
-
-
-
-
-*§ 59B-52 Special Requirements for Street Hail Liveries – Street Hail Livery Technology System (LPEP).* ::
-
-
-(a) Equip Street Hail Liveries with LPEP. A Street Hail Livery Base must ensure that each of its Street Hail Liveries is equipped with the Street Hail Livery Technology System ("LPEP"). The LPEP must comply with the specifications established in § 83 of these Rules. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59B-52(a)
-      - Fine: $1,000 and suspension until compliance
-      - Appearance Required
-~
-
-
-
- 
-
-(b) Good Working Order. The LPEP equipment must be in good working order at all times and each of the five Core Services must be functioning at all times. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59B-52(c)
-      - Fine: $250 and suspension until compliance
-      - Appearance Required
-~
-
-
-
- 
-
-(c) Malfunction or Failure to Operate.
-
-   (1) If the LPEP malfunctions or fails to operate, the Street Hail Livery Base must file an incident report with the authorized provider within two hours following the discovery of the malfunction or as soon as the Street Hail Livery Base reasonably should have known of such malfunction.
-
-   (2) If the Driver or Street Hail Livery Licensee previously filed an incident report, the Street Hail Livery Base will not be required to file a separate incident report. The Street Hail Livery Base must verify that the report has been filed by obtaining the incident report number from the Driver, Street Hail Livery Licensee or LPEP provider.
-
-   (3) The Street Hail Livery Licensee or the Street Hail Livery Base must meet the appointment for repair scheduled by the LPEP provider following the incident report. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59B-52(c)(1)-(3)
-      - Fine: $250 and suspension until compliance
-      - Appearance Required
-~
-
-
-
- 
-
-(d) 48-Hour Repair Deadline. A Street Hail Livery Base must not allow a Street Hail Livery in which any of the five Core Services of the Street Hail Livery Technology System (LPEP) (or any material feature of a Core Service) is not functioning to be operated more than 48 hours for Hail Trips following the timely filing of an incident report. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59B-52(d)
-      - Fine: $250 and suspension until compliance
-      - Appearance Required
-~
-
-
-
- 
-
-(e) Inspection upon Multiple LPEP Malfunctions. For any Street Hail Livery requiring six or more repairs of the vehicle's Street Hail Livery Technology System (LPEP) in any 30-day period, the Street Hail Livery Base with which such vehicle is affiliated must promptly take that vehicle for inspection or schedule an inspection with the Commission's Safety and Emissions Facility. This requirement will not apply to the Street Hail Livery Base if compliance is made by the Street Hail Livery Licensee or Driver of the vehicle. 
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 35 RCNY § 59B-52(e)
-      - Fine: $250
-      - Appearance NOT Required
-~
-
-
-
- 
-
-
-
-
-
-
-
-**Subchapter 59C: For-hire Vehicle Specifications**
-
-
-
-*§ 59C-01 In-Vehicle Camera System ("IVCS").* ::
-
-
-(a) Requirement. When an existing IVCS is required to be replaced or when an IVCS system is installed, it must be functioning and in good working order and meet the specifications and installation requirements below.
-
-(b) Technical Specifications.
-
-   (1) The IVCS must be connected to the vehicle battery, and the fuse for the connection must be concealed in a tamper-resistant housing.
-
-   (2) Wiring between the recording unit and the camera head must use at either end, tamper-resistant registered jack (RJ) style connectors.
-
-   (3) All electrical connections and wiring must be protected from spikes and dips in vehicle voltage.
-
-   (4) The camera head housing and brackets must be tamper-proof and securely mounted to the right of the rear view mirror. The installation must provide unobstructed vision for the driver.
-
-   (5) The camera's field of view must include the full face of all occupants seated in passenger seats and facing forward.
-
-   (6) Images must be recorded and stored in a unit separate from the camera head.
-
-   (7) The recording unit must be concealed from view and fastened securely with tamper-resistant hardware.
-
-   (8) The IVCS must provide a visual indication of system status that is located on the lower left portion of the dashboard and is visible to the driver and to law enforcement personnel inspecting the vehicle from outside of the driver door.
-
-   (9) The IVCS and components must be sufficiently shock-resistant to withstand typical vehicle movement and collisions.
-
-   (10) The IVCS must have an RS-232 connection or other means for secure image retrieval.
-
-   (11) Images must be sharp, undistorted, and clear enough to enable the viewer to identify all passengers under all lighting conditions, including, for example, dark and bright light, daylight, and backlight.
-
-   (12) Sensor resolution must be, at a minimum, 510 by 480 pixels.
-
-   (13) Storage capacity must be, at a minimum, 7,000 images in an encrypted format, and all access to the storage unit must result in the storage of an electronic "tag" including the installer identification number and date of the event.
-
-   (14) The IVCS must have connection ports for a minimum of two (2) cameras.
-
-   (15) The IVCS must have an event flag or panic button accessible to the driver and located in an inconspicuous location.
-
-   (16) The IVCS must record images and the following information for each image:
-
-      (i) Date and time
-
-      (ii) For-Hire Vehicle License number
-
-      (iii) IVCS serial number
-
-      (iv) IVCS indicator for event flags
-
-   (17) Image capture must be linked to the following events:
-
-      (i) Vehicle door openings and closings
-
-      (ii) Event flag button activation
-
-      (iii) Event flag in the test mode when the image(s) are recorded for inspection and test purposes
-
-      (iv) Panic button activation
-
-   (18) In the event of a panic button activation, systems must record to protected memory a total of three events. The recording must include, at a minimum, the 2.5 minutes immediately before and after the button activation, at one frame per second.
-
-   (19) Image access may be provided only to law-enforcement agencies, including the New York City Police Department.
-
-   (20) If the IVCS has a physical port for secure image retrieval, the port must be located on the right side of the dashboard or in the trunk, installed inconspicuously, and accessible to law enforcement personnel.
-
-   (21) When memory storage capacity is reached, the IVCS must overwrite the oldest images as new images are recorded in sequence.
-
-   (22) Installations and repairs of IVCS may be performed only by installers authorized by the manufacturer and currently licensed by the Department of Consumer Affairs. Installations and repairs may also be performed by Taximeter Businesses currently licensed by the Commission under to 35 RCNY Chapter 14.
-
-   (23) A notarized affidavit signed by a manufacturer's authorized installer attesting to the proper functionality of the IVCS must be provided to the Commission by the authorized installer:
-
-      (i) annually, and
-
-      (ii) within 14 calendar days after any installation, repair, or modification of the IVCS.
-
-
-
-
-
-
-*§ 59C-02 Partitions – Livery Vehicles Only.* ::
-
-
-(a) Requirement.
-
-   (1) The vehicle must be equipped with a partition that isolates the driver from the rear seat passengers or all passengers of the vehicle.
-
-   (2) The purpose of the partition is to provide protection to the driver while ensuring passenger safety and enabling rear seat passengers to enjoy a clear and unobstructed view of the For-Hire Driver's License and front windshield.
-
-   (3) A Vehicle Owner can apply for a certificate of exemption from the requirement to install a partition if the Vehicle has a communication device, distress signaling light and IVCS as specified in 35 RCNY § 59A-32(b) of Sub-chapter 59A.
-
-(b) Technical Specifications.
-
-   (1) The partition must extend from the ceiling to a specific point as recommended by the Chairperson and approved by the Commission, based upon the make and model of the vehicle.
-
-   (2) The transparent portion of the partition must be constructed of a mar-resistant polycarbonate not less than 0.375 inches thick that will provide passengers and drivers with maximum visibility.
-
-      (i) For a flat partition and a partition for a For-Hire Vehicle with factory installed curtain airbags, the transparent portion must extend from the ceiling to join or overlap with the protective plate of the partition.
-
-      (ii) For an L shaped partition, on the side that is behind the driver, the transparent portion of the partition must extend from the ceiling to join or overlap with the protective plate of the partition. On the side that extends forward to back between the two front seats, the transparent portion of the partition must extend from the ceiling to join or overlap with the protective plate of the partition on the right side of the center console located between the two front seats.
-
-   (3) The protective plate must join or overlap with the transparent portion of the partition and extend downward to the floor of the vehicle. The protective plate must be a plate of 0.085-inch thick bullet-resistant ballistic steel or its equivalent recommended by the Chairperson and approved by the Commission. The protective plate must be installed inside and covering the front seat's entire backrest.
-
-      (i) The protective plate must extend from the point that the transparent portion joins it downward to the floor of the For-Hire Vehicle.
-
-      (ii) If the transparent portion overlaps the protective plate, the protective plate must extend from the point of joinder with the transparent portion downward to the floor of the For-Hire Vehicle.
-
-      (iii) For an L shaped partition, the protective plate must also cover the right side of the center console between the two front seats.
-
-   (4) The entire protective plate of each partition must have sufficient padding to prevent injury to any rear-seat passenger in case of a Collision or sudden stopping, and all surfaces must be free of sharp and rough edges.
-
-   (5) There must be no opening or gap between the partition and the body of the vehicle larger than one inch, except for vehicles equipped with factory installed curtain airbags. In those vehicles, the partition shall allow a space of six inches on each side, sufficient to permit proper deployment of the curtain airbags.
-
-   (6) In addition to meeting all other technical specifications, a partition may be installed only if it does not impair passenger and driver safety and allows passengers and drivers to communicate with each other.
-
-
-
-
-
-
-
-
-*§ 59C-03 Distress Signal Lights – Livery Vehicles Only.* ::
-
-
-(a) Requirement. An owner must equip all For-Hire Vehicles with a help or distress signaling light system consisting of two turn signal type "lollipop" lights.
-
-(b) Technical Specifications.
-
-   (1) One light must be mounted on the front center of the vehicle, either on top of the bumper or forward or behind the grill. A second light must be mounted on top of the rear bumper, to the left of the license plate.
-
-   (2) Each light must be three to four inches in diameter, have a total rated output of 32 candle power, and be amber-colored or have an amber-colored lens so that the light output of the device is the color amber at 32 candle power.
-
-   (3) The activator must be installed within easy reach of the driver, must be silent when operating, and must be fully solid-state.
-
-   (4) The lights must be able to flash between 60 and 120 times per minute.
-
-
-
-
 Chapter 60: Paratransit Vehicles and Bases
 --------------------------------------------------
 
@@ -21882,6 +9324,5490 @@ NOTE: When the Electronic Trip Record System is operable, the Driver will use th
 
 
  
+
+
+
+
+Chapter 58: Medallion Taxicab Service
+--------------------------------------------------
+
+
+
+*§ 58-01 Scope of this Chapter.* ::
+
+
+(a) To establish the procedures and requirements for obtaining a Taxicab License.
+
+(b) To establish the rules and regulations for operating a Taxicab.
+
+(c) To establish the penalties for violating the Rules.
+
+
+
+
+
+
+*§ 58-02 Penalties.* ::
+
+
+(a) Unlicensed Activity.
+
+   (1) Unlicensed Activity is the act of providing or advertising the provision of any Commission-regulated for hire transportation service by:
+
+      (i) Any Licensee whose License is suspended, revoked, or expired and not yet renewed, or
+
+      (ii) Any person who does not hold a Valid License or Authorization from the Commission as a for hire driver, for the for hire vehicle, or for the for hire service, as applicable.
+
+   (2) Unlicensed Activity specifically includes the activities listed in § 19-506 and § 19-528 of the Administrative Code, and can subject the violator to the seizure and possible forfeiture of the vehicle involved.
+
+(b) Specific Penalties. If there are specific penalties for violating a Rule, they are shown at the end of the Rule. The penalty section also states whether the violator must attend the Hearing.
+
+(c) Payment of Fines.
+
+   (1) Fines are due not later than 30 days after the Respondent is found guilty of or pleads guilty to the violation, unless:
+
+      (i) the Respondent files an appeal of the decision issued by the Taxi and Limousine Tribunal within the time required by 48 RCNY Chapter 5 of the Rules of the City of New York, in which case the payment of the fines will be deferred until 30 days after the date of the appeal decision.
+
+   (2) If the fine is not paid by the close of business on the date due, the Commission will notify the Respondent in writing that the Respondent's License will be suspended in 10 business days of the date of the notification until the fine is paid, unless the Respondent demonstrates to the Commission, in person or in writing, that the fine has been paid.
+
+
+
+
+
+
+*§ 58-03 Definitions Specific to this Chapter.* ::
+
+
+(a) Accessible Conversion Start Date is the date which is the earlier of (1) the date on which there is available an Accessible Taxicab Model that meets the specifications of 35 RCNY § 67-05.2 and the requirements of § 19-533 of the Administrative Code, as certified by the Chairperson, or (2) January 1, 2016. To the extent possible, the Chairperson will place a notice of the Accessible Conversion Start Date on the Commission's Website at least 60 days prior to the Accessible Conversion Start Date.
+
+(b) Accessible Taxi Dispatcher. The Accessible Taxi Dispatcher is the entity which, under contract with the Commission, will convey dispatches, or requests for accessible service to Drivers of Accessible Taxicabs and to Drivers of Accessible Street Hail Liveries to provide transportation for a Passenger or group of Passengers, at least one of whom must be mobility-impaired, for trips that originate in New York City.
+
+(c) Administrator for the purposes of this Chapter, will refer to an executor, administrator, conservator, guardian or any other person or entity legally appointed to act on behalf of an Owner of a Taxicab Medallion due to owner's death or incompetency.
+
+(d) Applicant in this chapter means the individual or Business Entity applying for an original or renewal Taxicab License under this Chapter in whose name the License applied for will be issued.
+
+(e) Business Entity in this Chapter includes corporations, partnerships and limited liability companies.
+
+(f) Claim Letter is a letter asserting a possible Excess Claim against an Owner of a Taxicab Medallion or a Taxicab Medallion.
+
+(g) Dispatch. When used in this Chapter, the term Dispatch refers to an Owner sending out one or more Taxicabs for a particular shift; it does NOT mean sending a Taxicab to pick up a particular passenger by pre-arrangement.
+
+(h) Dispatch Fee is the fee payable to the Driver of an Accessible Taxicab, according to the Dispatch Fee schedule, for completing or attempting to complete a trip dispatched by the Accessible Taxi Dispatcher. The Dispatch Fee schedule, including cancellation fees and passenger no-show fees, will be determined by the Commission, and posted on the Commission's website, every six months based on a review of available funds and the Accessible Taxi Dispatcher's service rates.
+
+(i) Driver in this Chapter means a Taxicab Driver.
+
+(j) Escrow Amount is the amount for which an escrow account is required to be established in order to satisfy one or more Excess Claims.
+
+(k) Excess Claim is a Tort Claim asserted against the Owner of a Taxicab Medallion for more than the amount of insurance covering the Taxicab at the time the claim arose.
+
+(l) Fair Market Value in reference to the transfer of a Taxicab Medallion is the average value of arms-length transactions for similar Medallions during the prior calendar month, as determined by the Commission.
+
+(m) Flat Rate is a definite dollar amount that will be charged to a Taxicab passenger for a specific trip, and is fixed before the trip begins (NOTE: "double the Taximeter" is not a Flat Rate).
+
+(n) Fleet is a Business Entity organized for the purpose of owning or operating Taxicabs that meets the following requirements:
+
+   (1) Controls a minimum of 25 Taxicabs
+
+   (2) has a single business location that is adequate for the storage, maintenance, repair and dispatch of the Fleet Taxicabs and the storage and maintenance of records
+
+   (3) operates with a dispatcher on the premises at least 18 hours every day, who assigns Drivers to Fleet Taxicabs.
+
+(o) Group Ride Program is a program established by the Commission for the transportation of more than one passenger from a common location to destinations within a specified common geographic area.
+
+(p) Legatee means someone to whom the proceeds of an estate are to be distributed.
+
+(q) License in this Chapter means a Taxicab License.
+
+(r) Licensee in this Chapter means the holder of a Taxicab License.
+
+(s) Long Term Driver Affidavit is the document an Owner files with the Commission indicating that a Taxicab will be operated by a Long Term Driver or by Unspecified Drivers.
+
+(t) Market Value in reference to the transfer of a Taxicab Medallion will be the greater of: (i) the actual consideration being paid for the transfer; and (ii) the Fair Market Value.
+
+(u) Maximum Escrow Amount means:
+
+   (1) The Market Value of the Taxicab Medallion being transferred less the value of any debt or liens secured by the Medallion and the Transfer costs PLUS
+
+   (2) The value of any proceeds of any refinancing received by the Owner that was not used to reduce any previously existing debt or liens secured by the Medallion following the date of an occurrence of an alleged tort involving the Taxicab which gives rise to a potential Excess Claim
+
+(v) Medallion is the numbered plate originally issued by the Commission and affixed to the outside of a Taxicab as physical evidence that the Taxicab has been licensed to operate as a Medallion Taxicab.
+
+(w) MTA Tax is the 50 cent tax on taxicab trips imposed by Article 29-A of the NYS Tax Law.
+
+(x) Owner in this Chapter means an individual or Business Entity licensed by the Commission to own and operate one or more Medallion Taxicabs.
+
+(y) Prior Claim Letter is a Claim Letter received by the Commission prior to February 1, 2009.
+
+(z) Secured Lender Escrow Amount means the Market Value of the Taxicab Medallion being transferred less the value of any debt or liens secured by Medallion and the Transfer Costs.
+
+(aa) Secured Lender Recipient means a secured creditor seeking to repossess or foreclose upon a Taxicab Medallion in order to realize the value of its secured interest, but that is not applying to operate the Taxicab Medallion and will not be considered a Transferee provided the Secured Lender Recipient places the Medallion in storage as required in 35 RCNY § 58-46(c).
+
+(bb) Stop-Use Directive is a notice sent to an Owner by the Commission directing the Owner to stop using a designated Agent because that Agent's License has been revoked or suspended.
+
+(cc) Substantial Interest in Taxicab Medallions means direct or indirect ownership of four or more Medallions, that can result from one or more of the following:
+
+   (1) Ownership of 25 percent or more of the stock in one or more corporations that own Medallions
+
+   (2) Ownership of 25 percent or more of the membership interests in one or more LLC's that own Medallions
+
+   (3) A partnership interest in one or more partnerships that own Medallions
+
+   (4) Being an officer in one or more corporations that, in the aggregate, have a direct or indirect equity interest in four or more Medallions.
+
+(dd) Taxicab License is the authority granted by the Commission for an Applicant to own and operate a designated vehicle as a Taxicab within the Commission's jurisdiction, and is evidenced by the Medallion affixed to the hood of the vehicle.
+
+(ee) Taxpayer is a person or Business Entity required to pay the MTA Tax.
+
+(ff) 10% Business Entity Person is a Business Entity Person who owns at least 10% of a Business Entity.
+
+(gg) Tort Letter is a statement from the insurer of a Taxicab stating whether or not the insurer is aware of any Excess Claims against the Taxicab Medallion or its Owner.
+
+(hh) Transfer means the transfer of all or any portion of a Medallion ownership interest, including the transfer of interests in a Business Entity owning Medallions.
+
+(ii) A Transferee is an Applicant seeking approval from or approved by the Chairperson to own and operate a Medallion Taxicab in which Applicant is acquiring an interest, either directly or indirectly, through a transfer described under 35 RCNY § 58-43.
+
+(jj) Transfer Costs means the administrative costs involved in processing a transfer of ownership of a Taxicab Medallion and includes the costs of any foreclosure or similar action and any outstanding fines or fees owed to the Commission or the Parking Violations Bureau.
+
+(kk) Transferor is the Owner of an interest in a Taxicab Medallion being transferred.
+
+(ll) Valid Claim Letter is a Claim Letter which is not a Prior Claim Letter, and which:
+
+   (1) Is dated no more than one year prior to the date documentation is submitted to the Chairperson for a proposed transfer of a Taxicab Medallion,
+
+   (2) Sets forth a minimum claim in an amount sufficient to be an "Excess Claim",
+
+   (3) Includes a copy of the police report regarding the incident in question, and
+
+   (4) Includes a representation by the sender that the party against which the Excess Claim has been asserted has been provided with a copy of the Claim Letter.
+
+(mm) Unspecified Driver is a term that is entered on a Rate Card indicating that the Taxicab can be driven by any Licensed Taxicab Driver whose name (or category) has been filed with the Commission by the Owner of that Taxicab.
+
+(nn) Wheelchair Passenger. A Wheelchair Passenger is a Passenger using a wheel- chair.
+
+
+
+
+
+
+
+
+*§ 58-04 Licensing – General Requirements.* ::
+
+
+(a) Identification. An individual or all Business Entity Persons of a Business Entity applying for a Taxicab License must provide to the Commission:
+
+   (1) A Valid Government-issued photo ID and
+
+   (2) A Valid Social Security Number.
+
+(b) Age. An individual or all Business Entity Persons of a Business Entity applying for a Taxicab License or its renewal must be at least 18 years of age.
+
+(c) Good Moral Character.
+
+   (1) An individual or all Business Entity Persons of a Business Entity applying for a Taxicab License must be fingerprinted and must be of good moral character. Fingerprinting for the purpose of investigating good moral character is also required of the following, unless waived by the Chairperson in his or her discretion:
+
+      (i) Any new Business Entity Persons added by a Licensee
+
+      (ii) Any individual or Business Entity Persons of a Business Entity that provides funds for any Owner, unless the provider is a licensed bank or loan company
+
+   (2) Applicant's criminal history will be considered in a manner consistent with the Corrections Law of the State of New York.
+
+(d) Fit to Hold a License. An individual or Business Entity must demonstrate to the satisfaction of the Commission that the Applicant is Fit to Hold the License of an Owner of a Taxicab License.
+
+(e) Drivers Designated as Agents to Accept Service.
+
+   (1) An Owner must designate each and every Driver who operates one of Owner's Taxicabs as an agent to accept service of Commission notices to correct defects in the Taxicab.
+
+   (2) Delivery of a notice of defect to a Driver will be adequate service of notice to the Owner.
+
+(f) Financial Disclosure.
+
+   (1) An Applicant for a Taxicab License where the Applicant already owns one or more Medallion Taxicabs must provide a financial disclosure statement to the Commission.
+
+   (2) The disclosure statement must be completed on a form provided by the Commission and must include the disclosure of assets, liabilities, income and net worth of all Business Entity Persons of a Business Entity Applicant, as well as any other information required by the Commission.
+
+   (3) The financial disclosure statement must be given under oath and must include all attachments and documentation required by the Commission.
+
+(g) Liability Insurance. The Applicant must have liability insurance coverage by bond or policy as required by the State of New York and these Rules.
+
+(h) Payment of Fines and Fees.
+
+   (1) An Applicant, including an applicant for a renewal License, must pay, and provide proof of payment of, any outstanding fines or fees owed by the Applicant to
+
+      (i) the Commission,
+
+      (ii) NYC Department of Finance's Parking Violations Bureau,
+
+      (iii) NYC Department of Finance's Red Light Camera Unit,
+
+      (iv) NYS DMV's Traffic Violations Bureau and
+
+      (v) any of their successor agencies.
+
+   (2) This requirement includes payment of fines and fees owed as of the date of the application by
+
+      (i) any Business Entity Persons of the Applicant
+
+      (ii) any Business Entity of which the Applicant is a Business Entity Person, and
+
+      (iii) any Business Entity of which a Business Entity Person of Applicant is also a Business Entity Person.
+
+   (3) An Applicant, including an Applicant for a renewal License, must pay any fines related to their failure to surrender a previously revoked License (of any type), unless the Applicant can demonstrate in person or in writing that the License has been surrendered.
+
+(i) Current Address and E-mail Address. An Applicant must give the Commission the Applicant’s current Mailing Address and E-mail Address.
+
+
+
+
+
+
+
+
+*§ 58-05 Licensing – Special Requirements.* ::
+
+
+(a) Commission Approval. All Medallion transfers, including partial transfers, must be approved by the Commission. All Applicants to own a Medallion or an interest in a Medallion must be approved by the Commission.
+
+(b) Concurrent Purchase and Licensing of Medallion. An application to own and operate a Medallion Taxicab must be filed by any individual or Business Entity acquiring a Medallion, including an interest in a Medallion, either:
+
+   (1) As part of the public sale or auction process, if the Applicant is purchasing a Medallion from the Commission
+
+   (2) Jointly, with the current Owner (the "transferor") of the Medallion, if the Applicant is purchasing a Medallion from a private Owner,
+
+   (3) As a transfer of an interest in an Owner,
+
+   (4) By becoming a new Business Entity Person in an Owner, or
+
+   (5) By succeeding to the interest of any Owner or Business Entity Person of any Owner.
+
+(c) Vehicle Ownership Requirements. An Applicant must demonstrate to the satisfaction of the Commission that the Applicant:
+
+   (1) Owns a vehicle that meets all of the requirements set forth in 35 RCNY Chapter 67 (Taxicab Hack-Up) of these Rules, as well as the requirements of all other governmental agencies having concurrent jurisdiction.
+
+   (2) Possesses the certificate of title and the certificate of registration, both of which must be in the name of the Applicant unless title is retained by a lessor or conditional vendor; and
+
+   (3) Has provided the Commission with all information required concerning the financing of the purchase price of the Medallion and/or Taxicab.
+
+(d) Licensing – Special Requirements for Business Entities.
+
+   (1) Partnerships. If the Applicant is a partnership, it must file with its application a certified copy of the partnership certificate from the clerk of the county where the partnership's principal place of business is located.
+
+   (2) Corporations.
+
+      (i) If the Applicant is a corporation it must file the following with its Taxicab License application:
+
+         A. A certified copy of its certificate of incorporation
+
+         B. A list of officers and shareholders
+
+         C. A certified copy of the minutes of the meeting at which the current officers were elected
+
+      (ii) No corporate or trade name will be accepted by the Commission that is similar to a name already in use by another Owner.
+
+      (iii) All officers and shareholders of the corporate Taxicab License Applicant must disclose each and every Medallion in which he or she has any interest whatsoever, including but not limited to, any interest as individual Owner or as a Business Entity Person in a Business Entity that owns other Medallion(s); this disclosure must be made:
+
+         A. Upon original application for the Taxicab License,
+
+         B. Upon application for renewal of a Taxicab License, and
+
+         C. Upon application for transfer of a Taxicab License.
+
+      (iv) All corporate officers and shareholders are subject to the same standards and criteria as individual Owners.
+
+      (v) The Commission will only recognize corporate officers that have been approved by the Commission.
+
+      (vi) It is a violation of these Rules for a corporate Owner to appoint a new officer without the approval of the Commission.
+
+      (vii) Temporary approval contingent on final approval can be permitted in cases where an officer has resigned or died and another individual must be able to continue the regular daily operation of the Owner corporation.
+
+      (viii) The standards and criteria for Ownership are equally applicable when the shares of a corporate Owner are held by another Business Entity.
+
+   (3) Closed Corporations.
+
+      (i) A stockholder in a closed corporation that owns a Medallion will be personally accountable for complying with these Rules and any other laws that relate directly and uniquely to Medallion Ownership.
+
+      (ii) If a closed corporation wants to transfer stock or Medallion(s) to another closed corporation that is already an approved Medallion owner, the stockholders of the transferee corporation must sign an assumption and indemnification agreement in which they agree to assume all of the duties and responsibilities set forth in these Rules and to indemnify the Commission for all unpaid fines or fees regarding the Medallion(s) owned by the transferor corporation.
+
+   (4) Limited Liability Companies (LLCs).
+
+      (i) If the Applicant is a limited liability company it must file the following with its Taxicab License application:
+
+         A. A copy of its articles of organization
+
+         B. A copy of its operating agreement
+
+         C. A list of the members, with the percentages of the Applicant owned by each.
+
+      (ii) No LLC or trade name will be accepted by the Commission that is similar to a name already in use by another Owner.
+
+      (iii) All members of the LLC Taxicab License Applicant must disclose each and every Medallion in which he or she has any interest whatsoever, including, but not limited to, any interest as an individual Owner or any interest as a Business Entity Person in a Business Entity that owns other Medallion(s); this disclosure must be made:
+
+         A. Upon the original application for the Taxicab License,
+
+         B. Upon application for renewal of a Taxicab License, and
+
+         C. Upon application for transfer of a Taxicab License.
+
+      (iv) All members of the Owner are subject to the same standards and criteria as individual Owners.
+
+      (v) The Commission will only recognize members that have been approved by the Commission.
+
+      (vi) It is a violation of these Rules for an Owner that is an LLC to add a new member without the approval of the Commission.
+
+      (vii) The standards and criteria for Ownership are equally applicable when membership interests in a LLC Owner are held by another Business Entity.
+
+
+
+
+
+
+
+
+*§ 58-06 Licensing – Term of License.* ::
+
+
+(a) New License.
+
+   (1) Length of Term. The term of a new Taxicab License is a maximum of two years.
+
+   (2) Expiration Date. The first term of Taxicab License expires on May 31st of the year set by the Commission.
+
+(b) Renewal License.
+
+   (1) Length of Term. Each renewal term is two years and expires on May 31st of the second year of the term.
+
+   (2) Extension. The Chairperson can extend the effectiveness of a Taxicab License until the completion of the next scheduled inspection of the Taxicab, or as the Chairperson believes is appropriate.
+
+(c) Filing for Renewal.
+
+   (1) A renewing Applicant must file a completed application by no later than April 30th of each year in which a License is scheduled to expire.
+
+   (2) Application Submission Date.
+
+      (i) Applications filed online: The date of submission is the date an application is filed online.
+
+      (ii) Applications filed in person: The date of submission is the date an application is filed in person.
+
+   (3) A License for which a renewal application has not been filed by April 30 is not Valid and cannot be used until the renewal is approved. This is in addition to any penalties specified for a violation of this Rule.
+
+   (4) It is the Owner's responsibility to obtain a renewal application in order to comply with the filing deadline.
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 58-06(c)
+      - Fine: $1,000 and suspension up to 30 days for failure to file by April 30.
+      - Appearance NOT Required 
+~
+
+
+
+ 
+
+(d) Suspended Licenses.
+
+   (1) If a License is suspended, the Licensee must apply for renewal as required in (c) above if the Licensee wants to renew the License. Failure to complete the renewal requirements means that the License will be subject to the penalties provided for in (c).
+
+   (2) A License that is suspended is not Valid and cannot be used until the suspension ends. This is true even if the Applicant has filed an application for a renewal.
+
+(e) Advertising Permits. A permit to display exterior advertising runs for one year or less and each permit will expire on the 31st day of August.
+
+
+
+
+
+
+
+
+*§ 58-07 Licensing – Fees.* ::
+
+
+(a) Annual Fee. The fee for each Taxicab License is $550 annually; the fee will be pro-rated if the License will be owned for less than one year by the next May 31st.
+
+(b) Medallion Plate Replacement Fee.
+
+   (1) The fee for a new Medallion "tin" will be $10. This fee will be charged when the Commission issues a new "tin", including when it issues a new model of "tin".
+
+   (2) If a "tin" is lost, stolen or damaged, the replacement fee is $25.
+
+(c) License Plate Replacement Fee. The Commission's fee for replacement of license plates issued by the New York State Department of Motor Vehicles will be $25 per vehicle.
+
+(d) Inspection Fee. The Commission's fee for a required Taxicab Safety and Emissions inspection is $90; this fee includes the certificate of inspection issued when the Taxicab passes the inspection. Inspection fees must be prepaid with each application and renewal application.
+
+(e) Reinspection Fee. There is a reinspection fee only if reinspection is required because the Taxicab failed the component of the inspection required by Section 301 of the New York State Vehicle and Traffic Law. In that case, the reinspection fee is thirty five dollars ($35). If reinspection is required because the Taxicab failed any other component of the inspection, there is no reinspection fee.
+
+(f) Stand-By Vehicle Fee. The fee for each Stand-By Vehicle is $550 annually. Inspection fees are also charged for Stand-By Vehicles.
+
+(g) Advertising Permit Fee. The fee for a permit to display exterior advertising is $50 annually. If a permit is surrendered in less than 6 months, one half of the fee will be refunded.
+
+(h) Vehicle Transfer Fees.
+
+   (1) An Owner can transfer a Medallion from one vehicle to another after approval by the Chairperson and payment of a $50 fee.
+
+   (2) An Owner can replace the license plates on a Taxicab after approval by the Chairperson and payment of a $25 fee.
+
+   (3) An Owner can transfer the license plates from one vehicle to another after approval by the Chairperson and payment of a $25 fee.
+
+   (4) An Owner must pay a separate fee for each separate transfer. This is true even if the Owner wants to do several types of vehicle transfer all at one time.
+
+(i) No Refund if Application Denied. The Commission will not refund fees if it denies or disapproves the application.
+
+(j) Taxi Accessibility Fee. An Owner must pay the Taxi Accessibility Fee for each Medallion owned. The Taxi Accessibility Fee must be paid when charged by the Commission.
+
+
+
+
+
+
+*§ 58-08 Licensing – Causes for Denial.* ::
+
+
+(a) Failure to Meet Requirements. The Commission can deny an application for a License or its renewal of any Applicant who fails to meet the requirements. The Commission will inform the Applicant, in writing, of the specific reason(s) for this denial.
+
+(b) Material Misrepresentation or Falsification. The Commission will deny an application for a License or its renewal, or can impose other sanctions, if any of the following occurs:
+
+   (1) The Applicant makes a material misrepresentation in the application
+
+   (2) The Applicant fails to inform the Commission of a material change in the information contained in the application
+
+   (3) The Applicant attempts to conceal the identity of a party having an interest in the ownership of a Taxicab.
+
+(c) No Longer Meets Requirements. The Commission can deny an application for a License or its renewal and can revoke or suspend any License if the Commission becomes aware of information that the Owner no longer meets the requirements for an Owner's License.
+
+(d) Violation of the Rules. The Commission can deny an application for a License if, within the past two years, the Applicant (or any Business Entity Person of a Business Entity Applicant) has engaged in any of the following:
+
+   (1) Assault of a passenger, official or member of the public in any way relating to a Taxicab
+
+   (2) Any instance of bribery or unlawful gratuity toward a city employee
+
+   (3) Providing the Commission with false information
+
+   (4) Two or more unlawful passenger service refusals
+
+   (5) Two or more incidents of overcharging, as a Driver
+
+   (6) Three failures to respond to an official communication
+
+   (7) Three or more vehicle safety violations for a particular Taxicab
+
+   (8) Whether as an individual has or as a Business Entity Person of a Business Entity that has:
+
+      (i) Ten or more outstanding unexcused failures to appear at scheduled TLC hearings, or
+
+      (ii) Ten or more unsatisfied Commission fines or fines that remained unsatisfied until renewal.
+
+(e) The Applicant's criminal history will be reviewed in a manner consistent with the NYS Corrections Law.
+
+(f) Chronic Disregard of Public Welfare. An Applicant will not be approved to own another Medallion or to be a stockholder or an officer in another corporate Medallion Owner if he or she has evidenced a chronic disregard for the rules and regulations that impact the welfare, safety or security of the riding public.
+
+(g) Failure to Complete Application Requirements.
+
+   (1) The Chairperson will deny an application for a new License if the Applicant has not completed all the requirements of an application within 180 days of the date the application is filed.
+
+   (2) The Chairperson will not deny an application under this Rule if completion is delayed because the Chairperson has not issued a final decision and the Applicant has complied with any requests made by the Chairperson.
+
+(h) Additional Consideration of an Application. If a review of the application leads the Chairperson to believe that the Applicant may not be Fit to Hold a License, the Chairperson may seek additional information from the Applicant. This request for additional information may be an in-person interview, telephone call, letter, e-mail, or other method of communication. This additional consideration may result in the denial of the application. Failure to provide any requested information within the time frame requested, or failure to appear at a scheduled interview will result in a denial of the application.
+
+(i) Commercial Motor Vehicle Tax.
+
+   (1) The Commission will deny an application, including a renewal application, if the following Commercial Motor Vehicle Tax amounts are not paid for any Vehicle subject to the application:
+
+      (i) The Commercial Motor Vehicle Tax amount required under subdivision (k) of 35 RCNY § 58-04, including the interim payment, if any, or
+
+      (ii) Any additional Commercial Motor Vehicle Tax amount for any tax year or period which the New York City Department of Finance has notified the Commission is due and unpaid.
+
+   (2) Payment of the Commercial Motor Vehicle Tax amount described in paragraph (1) of this subdivision is a condition to issuance of a License, including a renewal License, and the maintaining of such License.
+
+   (3) An Applicant applying to renew a vehicle for which the Commercial Motor Vehicle Tax has not been paid at the time that the renewal application is submitted is deemed not to have submitted the application by the required deadline and may be subject to penalties under subdivision (c) of 35 RCNY § 58-06.
+
+
+
+
+
+
+
+
+*§ 58-09 Licensing – Procedures for Approval/Denial. [Reserved]* ::
+
+
+(a) Do Not Alter Rate Card. An Owner must not change, mark, cross out or make any unauthorized entries on a Taxicab's Rate Card, or display a Rate Card that contains wrong information. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 58-11(a)
+      - Fine: $50 if plead guilty before a hearing; $100 if found guilty following a hearing.
+      - Appearance NOT Required
+~
+
+
+
+ 
+
+(b) Replace Damaged Medallion or Rate Card. An Owner must immediately surrender an unreadable Rate Card or a damaged Medallion to the Commission for replacement.
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 58-11(b)
+      - Fine: $200 and suspension until compliance
+      - Appearance Required
+~
+
+
+
+ 
+
+(c) Replace Damaged Medallion or Rate Card. An Owner must immediately surrender an unreadable Rate Card or a damaged Medallion to the Commission for replacement.
+
+   (1) An Owner must notify the Commission and the Police Department of the theft, loss or destruction of any Medallion or Rate Card within 48 hours (not including weekends and holidays) of the loss.
+
+   (2) The Owner must also provide any affidavit or information the Commission requires, including the police receipt number.
+
+   (3) A substitute Medallion and Rate Card will be issued by the Commission. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 58-11(c)(1)-(2)
+      - Fine: $200
+      - Appearance NOT Required
+~
+
+
+
+ 
+
+(d) Report Finding Lost Medallion or Rate Card.
+
+   (1) An Owner must notify the Commission and the Police Department within 24 hours (not including weekends and holidays) after locating any Medallion or Rate Card that was reported as stolen or lost.
+
+   (2) The Owner must also provide any affidavit or information the Commission requires. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 58-11(d)
+      - Fine: $200 for the first violation; $350 - $500 for the second or subsequent violation(s) within 36 months
+      - Appearance NOT Required
+~
+
+
+
+ 
+
+(e) Surrender Medallion and Rate Card. An Owner must surrender Owner's Medallion and Rate Card to the Commission:
+
+   (1) Within 48 hours of notice that Owner's Taxicab License has been suspended or revoked
+
+   (2) Prior to the sale of Owner's Taxicab
+
+   (3) Prior to removal of Owner's Taxicab from service for a period of 30 or more consecutive days 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 58-11(e)
+      - Fine: $200 if plead guilty before a hearing; $300 if found guilty following a hearing.
+      - Appearance NOT Required
+~
+
+
+
+ 
+
+(f) Report Replaced New York License Plates. An Owner must report to the Commission the replacement of any lost or stolen New York State license plates within 48 hours (not including weekends and holidays) after getting the new plates.
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 58-11(f)
+      - Fine: $200 and suspension until compliance
+      - Appearance Required
+~
+
+
+
+ 
+
+
+
+
+
+
+
+
+*§ 58-12 Compliance with Law – No Unlicensed Activity.* ::
+
+
+(a) No Unlicensed Taxicabs.
+
+   (1) An Owner must ensure that all of Owner’s Taxicabs in operation for hire are Validly licensed by the Commission and have a Valid Medallion attached to the vehicle.
+
+   (2) The Commission will post on its website a list of Validly licensed Taxicabs and Medallions.
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 58-12(a)
+      - Fine: $300 and/or suspension up to 30 days
+      - Appearance Required
+~
+
+
+
+ 
+
+(b) No Advertising as "Taxi" if Unlicensed. An Owner who does not have a Valid License must not hold himself or herself out to the public as a "taxi," "Taxicab" or "hack" service. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 58-12(b)
+      - Fine: $50 - $350 and/or suspension up to 30 days
+      - Appearance Required
+~
+
+
+
+ 
+
+(c) No Unregistered Vehicles.
+
+   (1) An Owner must ensure that all of Owner's Taxicabs are operated only while the registration of the vehicle remains Valid.
+
+   (2) Operating a vehicle without a Valid registration will be considered the same as operating without a Valid TLC Driver License. The License of an Owner who operates a vehicle without valid registration will be summarily suspended.
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 58-12(c)
+      - Fine: $100 - $350 and/or suspension up to 30 days; Suspension until compliance
+      - Appearance Required
+~
+
+
+
+ 
+
+(d) No Unlicensed Drivers.
+
+   (1) No Taxicab can be operated for hire unless the driver has in his or her possession a Valid TLC Driver License.
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 58-12(d)(1)
+      - Fine: $400 and/or suspension up to 30 days
+      - Appearance Required
+~
+
+
+
+ 
+
+   (2) Exceptions. An Owner can permit a person who does not possess a TLC Driver License to drive the vehicle only when all of the following limited circumstances are met:
+
+      (i) The vehicle is being driven to or from the Commission's centralized Taxicab inspection facility or a repair facility;
+
+      (ii) The driver has entered the appropriate off duty code in the Technology System;
+
+      (iii) A current Trip Record (written or electronically printed out) is in the Taxicab, indicating the vehicle is "Off-Duty" and why;
+
+      (iv) The rear doors are locked; and
+
+      (v) The person driving the vehicle is licensed to drive a motor vehicle.
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 58-12(d)(2)
+      - Fine: $400 and/or suspension up to 30 days
+      - Appearance Required
+~
+
+
+
+ 
+
+   (3) The Commission will post on its website a list of Drivers holding Valid TLC Driver Licenses.
+
+
+
+
+
+
+
+
+*§ 58-13 Compliance with Laws – Insurance Coverage.* ::
+
+
+(a) Maintain Insurance Coverage.
+
+   (1) Taxicab Owners must ensure that all of their Taxicabs are covered by liability insurance in the form of a bond or an insurance policy that fully complies with the New York State Vehicle and Traffic Law and the New York State Insurance Law.
+
+   (2) Owners must maintain all other forms of insurance required by law. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 58-13(a)
+      - Fine: $150 - $350 and/or suspension up to 30 days
+      - Appearance Required
+~
+
+
+
+ 
+
+(b) Submit Proof of Insurance. Every year in which an Owner files an application to renew the License of one or more Taxicabs, Owner must, at that time, provide the Commission with the name and address of the Owner's insurance carrier and the policy numbers for each of Owner's Taxicabs, along with proof of coverage. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 58-13(b)
+      - Fine: $100
+      - Appearance Required
+~
+
+
+
+ 
+
+(c) Notification of Changes in Insurance Coverage. An Owner must notify the Commission in writing within 72 hours of any of the following:
+
+   (1) Receipt of notice that Owner's required liability insurance has been cancelled;
+
+   (2) A change of insurance carrier;
+
+   (3) A change in the policy number of Owner's liability insurance. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 58-13(c)
+      - Fine: $100
+      - Appearance NOT Required
+~
+
+
+
+ 
+
+(d) Coverage Requirements.
+
+   (1) All Taxicab Owners must, for each of Owner's Taxicabs, maintain liability coverage through an insurance policy or a bond in amounts not less than the following:
+
+      (i) $200,000 per person, payable for those expenses specified in paragraphs 1, 2 and 3 of subdivision "a" of § 5102 of the New York State Insurance Law
+
+      (ii) $100,000 minimum liability and not less than $300,000 maximum liability for bodily injury or death, as these terms are described and defined in § 370(1) of the Vehicle and Traffic Law. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 58-13(d)(1)
+      - Fine: $350 and suspension until compliance
+      - Appearance NOT Required
+~
+
+
+
+ 
+
+   (2) A Taxicab Fleet or Minifleet as well as an Independent Owner operating more than one shift daily must maintain double shift insurance coverage. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 58-13(d)(2)
+      - Fine: $50 - $350 and/or suspension up to 30 days
+      - Appearance Required
+~
+
+
+
+ 
+
+(e) Report of Collisions.
+
+   (1) Report to Insurance Carrier. Any Collision involving one (or more) of Owner's Taxicabs that is required to be reported to the insurance carrier must be immediately reported to the carrier by the Owner, in writing.
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 58-13(e)(1)
+      - Fine: $500 - $1,000
+      - Appearance Required
+~
+
+
+
+ 
+
+   (2) Report to Commission.
+
+      (i) An Owner must immediately report to the Commission in writing all Collisions that are required to be reported to the Department of Motor Vehicles (as required by § 605 of the Vehicle and Traffic Law) that involve any of Owner's Taxicabs.
+
+      (ii) An Owner must also provide to the Commission a copy of any legally required report filed with the NYS Department of Motor Vehicles, within 10 days of the date the report is due to be filed with the Department of Motor Vehicles. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 58-13(e)(2)
+      - Fine: $150 and $25 for each day of violation thereafter and suspension until compliance
+      - Appearance Required
+~
+
+
+
+ 
+
+(f) Surrender Rate Card and Medallion upon Termination of Insurance. An Owner must either:
+
+   (1) Surrender the Taxicab's Rate Card and Medallion to the Commission on or before the termination date of the vehicle's insurance, or
+
+   (2) Submit proof of new insurance effective on the date of termination of the old policy. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 58-13(f)
+      - Fine: $50
+      - Appearance NOT Required
+~
+
+
+
+ 
+
+
+
+
+
+
+
+
+*§ 58-14 Compliance with Laws – Workers' Compensation.* ::
+
+
+(a) Compliance with Law. An Owner must comply with all provisions of the New York State Workers' Compensation Law and regulations with respect to coverage and benefits to eligible persons. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 58-14(a)
+      - Fine: $25 for each day in violation
+      - Appearance Required
+~
+
+
+
+ 
+
+(b) File Certificate of Coverage with the Commission. An Owner must maintain on file with the Commission a current Certificate of Workers' Compensation Coverage, or a Valid exemption. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 58-14(b)
+      - Fine: $200
+      - Appearance NOT Required
+~
+
+
+
+ 
+
+(c) Designate the Commission to Receive Notices. An Owner must designate the Commission as a certificate holder to receive all notices concerning the Workers' Compensation policy. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 58-14(c)
+      - Fine: $200
+      - Appearance NOT Required
+~
+
+
+
+ 
+
+(d) Provide Driver with Proof of Benefits Ending. When a Driver who is receiving Workers Compensation benefits has recovered and is ready to return to work, an Owner must:
+
+   (1) File a notice with the Workers' Compensation Board to end the disbursement of benefits due to the worker's recovery; and
+
+   (2) Provide the Driver with documentation that benefits have ceased in order for the Commission to return the Driver's License. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 58-14(d)
+      - Fine: $100 - $250
+      - Appearance Required
+~
+
+
+
+ 
+
+
+
+
+
+
+*§ 58-15 Compliance with Law – Personal Conduct.* ::
+
+
+(a) Bribery.
+
+   (1) Actual Bribery Attempt. An Owner must not bribe or attempt to bribe or offer any gratuity whatsoever to any employee, representative or member of the Commission in return for favorable or preferential treatment. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 58-15(a)(1)
+      - Fine: Up to $10,000 per Medallion implicated in the violation plus mandatory divestiture of any and all Taxicab Licenses held by the Owner, and any held by a director, officer or stockholder of the Owner.
+      - Appearance Required
+~
+
+
+
+ 
+
+   (2) Appearance of Bribery. An Owner must not offer or give any gift or gratuity or any other thing of value to any employee, representative or member of the Commission, or any public servant or dispatcher employed at a public transportation facility. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 58-15(a)(2)
+      - Fine: $10,000 plus revocation
+      - Appearance: N/A
+~
+
+
+
+ 
+
+   (3) Failure to Report Bribery. An Owner must immediately report to the Commission and the NYC Department of Investigation any request or demand for a gift, gratuity or thing of value by any employee, representative or member of the Commission or any other public servant or dispatcher employed at a public transportation facility or authorized group-ride taxi line. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 58-15(a)(3)
+      - Fine: $1,000 and/or suspension up to 30 days or revocation.
+      - Appearance Required
+~
+
+
+
+ 
+
+   (4) Failure to Remove Cash. When the Taxicab is in Owner's possession, Owner must remove all currency from a Taxicab's interior prior to its inspection by any Commission personnel. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 58-15(a)(4)
+      - Fine: $50
+      - Appearance NOT Required
+~
+
+
+
+ 
+
+(b) Fraud, Theft. While performing the duties and responsibilities of a Licensee, an Owner must not commit or attempt to commit, alone or in concert with another, any act of fraud, misrepresentation or theft. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 58-15(b)
+      - Fine: $350 - $1,000 and suspension up to 60 days or revocation
+      - Appearance Required
+~
+
+
+
+ 
+
+(c) Willful Acts of Omission. While performing the duties and responsibilities of a Licensee, an Owner must not deliberately fail to perform, alone or with another, any act where this failure is against the best interests of the public, although not specifically mentioned in these Rules. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 58-15(c)
+      - Fine: $150 - $350 and/or Suspension up to 30 days or revocation.
+      - Appearance Required
+~
+
+
+
+ 
+
+(d) Willful Acts of Commission. While performing the duties and responsibilities of a Licensee, an Owner must not deliberately perform or attempt to perform, alone or with another, any act that is against the best interests of the public, although not specifically mentioned in these Rules. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 58-15(d)
+      - Fine: $150 - $350 and/or Suspension up to 30 days or revocation.
+      - Appearance Required
+~
+
+
+
+ 
+
+(e) Threats, Harassment, Abuse. While performing the duties and responsibilities of a Licensee, an Owner must not threaten, harass or abuse any person. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 58-15(e)
+      - Fine: $350 - $1,000 and/or suspension up to 30 days or revocation
+      - Appearance Required
+~
+
+
+
+ 
+
+(f) Use or Threat of Physical Force. While performing the duties and responsibilities of a Licensee, an Owner must not use any physical force against any person. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 58-15(f)
+      - Fine: $500 - $1,500 and/or suspension up to 60 days or revocation
+      - Appearance Required
+~
+
+
+
+ 
+
+(g) Reporting of Criminal Conviction.
+
+   (1) A Licensee must immediately notify the Commission of any criminal conviction of the Taxicab Owner, individually or, if the Licensee is a Business Entity, of any Business Entity Person.
+
+   (2) The notice must be in writing and must be accompanied by a certified copy of the certificate of disposition issued by the clerk of the court explaining what happened as a result of the conviction. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 58-15(g)
+      - Fine: $50 - $250
+      - Appearance Required
+~
+
+
+
+ 
+
+(h) Cooperate with Law Enforcement. A Licensee must cooperate with all law enforcement officers, authorized representatives of the Commission and the NYC Department of Investigation. Cooperation includes, but is not limited to, responding to a request for Licensee's name, Licensee's Medallion numbers, Rate Cards, Trip Records, and any other documents required to be maintained by the Taxicab Owner. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 58-15(h)
+      - Fine: $50 - $350
+      - Appearance Required
+~
+
+
+
+ 
+
+(i) Cooperate with the Commission.
+
+   (1) An Owner must promptly answer all questions and comply with all communications, directives and summonses from the Commission or its representatives and the NYC Department of Investigation or its representatives. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 58-15(i)(1)
+      - Fine: $300 and Suspension until compliance
+      - Appearance Required
+~
+
+
+
+ 
+
+   (2) An Owner must respond to any contact from the Commission within 48 hours, seven days a week. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 58-15(i)(2)
+      - Fine: $500
+      - Appearance NOT Required
+~
+
+
+
+ 
+
+(j) Facilitation of Sex Trafficking with a Vehicle. An Owner must not Facilitate Sex Trafficking with a Vehicle. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 58-15(j)
+      - Fine: $10,000 and revocation.
+      - Appearance NOT Required
+~
+
+
+
+ 
+
+
+
+
+
+
+*§ 58-16 Compliance with Law – Miscellaneous.* ::
+
+
+(a) Compliance with Commission Rules and Regulations, Generally and Specifically.
+
+   (1) An Owner must comply with the Commission's Taxicab specifications, the Marking Specifications for Taxicabs, all pertinent provisions of the Administrative Code and other laws, rules or regulations governing Taxicab Owners. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 58-16(a)(1)
+      - Fine: $200 if plead guilty before a hearing; $300 if found guilty following a hearing.
+      - Appearance NOT Required
+~
+
+
+
+ 
+
+   (2) Commercial Advertising and Commercial Sponsorships on the Back of Taximeter Receipts.
+
+      (i) Commercial advertising and commercial sponsorships may be printed on the back of receipts produced by a taximeter.
+
+      (ii) Any such advertising and sponsorships appearing on a receipt must comply with the commercial advertising and commercial sponsorship standards that apply to Passenger-facing content as set forth in 35 RCNY § 66-24(g)(3).
+
+      (iii) Any such advertising and sponsorships appearing on a receipt must not interfere with the readability of the fare information on the face of the receipt. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 58-16(a)(2)(ii) and (iii)
+      - Fine: $200 if plead guilty before a hearing; $300 if found guilty following a hearing.
+      - Appearance NOT Required
+~
+
+
+
+ 
+
+(b) Compliance with Accessible Taxicab Medallion Rules.
+
+   (1) An Owner of an Accessible Taxicab Medallion must comply with 35 RCNY Chapter 53. An Owner of a Taxicab hacked up as an Accessible Taxicab (even if the Medallion is not an Accessible Taxicab Medallion) must also comply with 35 RCNY Chapter 53. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 58-16(b)(1)
+      - Fine: 35 RCNY Chapter 53 penalties apply
+~
+
+
+
+ 
+
+   (2) An Owner of an Accessible Taxicab (whether or not the Owner's Medallion is an Accessible Taxicab Medallion) must ensure that Drivers of an Owner's Accessible Taxicab comply with 35 RCNY Chapter 53 and
+
+      (i) Maintain contact with the Accessible Taxi Dispatcher and
+
+      (ii) Accept dispatches from the Accessible Taxi Dispatcher to provide trips to Passengers in Wheelchairs. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 58-16(b)(2)
+      - Fine: 35 RCNY Chapter 53 penalties apply
+~
+
+
+
+ 
+
+(c) No False Statements.
+
+   (1) An Owner must not file with the Commission any statement required under the Special Requirements for Business Entities provision (35 RCNY § 58-05(e)) that the Owner knows or should know to be false, misleading, deceptive or materially incomplete.
+
+   (2) An Owner must not file with the Commission any statement required under the Financial Disclosure provision (35 RCNY § 58-04(f)) that the Owner knows or should know to be false, misleading, deceptive or materially incomplete. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 58-16(c)(1) and (2)
+      - Fine: Up to $10,000 per Medallion implicated in the violation and/or mandatory divestiture of any and all interests in any Taxicab Licenses held by the Owner, shareholder, officer, director or partner in violation
+      - Appearance Required
+~
+
+
+
+ 
+
+(d) No Unlawful Purpose.
+
+   (1) An Owner must not use or permit any other person to use Owner's Taxicab, garage or office of record for any unlawful purpose. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 58-16(d)(1)
+      - Fine: $350 - 1,000 and/or suspension up to 30 days or revocation
+      - Appearance Required
+~
+
+
+
+ 
+
+   (2) An Owner must not conceal any evidence of a crime connected with Owner's Taxicab, garage or office of record. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 58-16(d)(2)
+      - Fine: $350 - 1,000 and/or suspension up to 30 days or revocation
+      - Appearance Required
+~
+
+
+
+ 
+
+   (3) An Owner must report immediately to the police any attempt to use Owner's Taxicab to commit a crime or to escape from the scene of a crime. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 58-16(d)(3)
+      - Fine: $100 - $350 and/or suspension up to 30 days
+      - Appearance Required
+~
+
+
+
+ 
+
+(e) No False Credentials.
+
+   (1) An Owner must not attempt to avoid inspection of a Licensed vehicle by using false credentials to disguise one vehicle as another or by any other means contrary to law or regulation of the Commission. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 58-16(e)(1)
+      - Fine: Up to $10,000 per Medallion implicated in the violation plus mandatory divestiture of any and all Taxicab Licenses held by the Owner, and any held by a director, officer or stockholder of the Owner
+      - Appearance Required
+~
+
+
+
+ 
+
+   (2) An Owner must not operate or present for inspection a vehicle in which the Vehicle Identification Number has been loosened and reattached, or switched from another vehicle or otherwise altered in a manner not in compliance with Article 17 of the New York State Vehicle and Traffic Law. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 58-16(e)(2)
+      - Fine: Mandatory divestiture of any and all Taxicab Licenses held by the Owner, and any held by a director, officer or stockholder of the Owner, plus a fine of up to $10,000 per Medallion implicated in the violation
+      - Appearance Required
+~
+
+
+
+ 
+
+   (3) An Owner must not present documents to the Commission that falsely indicate compliance with liability insurance and/or Workers' Compensation insurance requirements. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 58-16(e)(3)
+      - Fine: Mandatory divestiture of any and all Taxicab Licenses held by the Owner, and any held by a director, officer or stockholder of the Owner, plus a fine of up to $10,000 per Medallion implicated in the violation
+      - Appearance Required
+~
+
+
+
+ 
+
+(f) Taxi Accessibility Fee.
+
+   (1) An Owner must pay the Taxi Accessibility Fee for each of the Owner's Medallions as required by the Commission.
+
+   (2) The Owner must pay the Taxi Accessibility Fee when required to do so by the Commission. If the Taxi Accessibility Fee is not paid by the time required by the Commission, the Owner will be liable for penalties for non-payment. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 58-16(f)
+      - Fine: $1,000 and suspension until compliance
+      - Appearance Required
+~
+
+
+
+ 
+
+(g) Taxicab Improvement Fund.
+
+   (1) An Owner of a Medallion, or his or her Agent, must pay the entire Taxicab Improvement Surcharge remitted by the Taxicab Driver to the Taxicab Improvement Fund.
+
+   (2) The Owner of any Medallion, or his or her Agent, must pay the Taxicab Improvement Surcharge to the Taxicab Improvement Fund at the time and in the manner required by the Commission.
+
+   (3) If an Owner, or his or her Agent, does not pay the Taxicab Improvement Surcharge to the Taxicab Improvement Fund at the time required, non-payment will be grounds for suspension of the Taxicab License, and/or denial of any renewal application or of any application for another TLC-issued license, as well as monetary penalties.
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 58-16(g)
+      - Fine: $1,000 and suspension until compliance
+      - Appearance Required
+~
+
+
+
+
+
+
+
+
+
+
+*§ 58-17 Operations – Business Premises.* ::
+
+
+(a) Maintenance of Physical Location. The following entities must maintain a business premise in a location zoned for the operation of a business:
+
+   (1) Any Agent;
+
+   (2) Any Owner who leases or otherwise Dispatches one or more Taxicabs for return at the end of a shift;
+
+   (3) Any Owner or Business Entity that has a Substantial Interest in Taxicab Medallions.
+
+(b) Requirements of Premises. The Business Premises must have the following:
+
+   (1) Sufficient off-street space at or near the premises to store the lesser of:
+
+      (i) Twenty-five (25) vehicles, or
+
+      (ii) Fifty percent (50%) of the Taxicabs leased or otherwise Dispatched on a daily or a shift basis, plus five percent (5%) of the Taxicabs leased for longer than one day. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 58-17(b)(1)
+      - Suspension until condition is corrected
+      - Appearance Required
+~
+
+
+
+ 
+
+   (2) Sufficient office space to conduct business, where all records required by the Commission, including Trip Records and Driver records, can be kept. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 58-17(b)(2)
+      - Suspension until condition is corrected
+      - Appearance Required
+~
+
+
+
+ 
+
+   (3) "Driver's Bill of Rights" sign must be posted in a form and format prescribed by the Commission.
+
+      (i) The Commission will post the proper form and format on its Web site.
+
+      (ii) The "Driver's Bill of Rights" sign must be:
+
+         •     conspicuously posted, such as next to a payment window or other place where drivers regularly conduct business within the Business Premises, and,
+
+         •     free of other signage in the immediate area.
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 58-17(b)(3)
+      - Fine: $250 if plead guilty before a hearing; $500 if found guilty following a hearing.
+      - Appearance NOT Required
+~
+
+
+
+ 
+
+(c) Hours of Operation. Owner must keep regular business hours, including the hours of 9:00 a.m. through 5:00 p.m. for every weekday. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 58-17(c)
+      - Fine: $100
+      - Appearance NOT Required
+~
+
+
+
+ 
+
+(d) Contact Information. Owner must maintain the current address and telephone number of the business premises with the Commission. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 58-17(d)
+      - Fine: $100
+      - Appearance NOT Required
+~
+
+
+
+ 
+
+
+
+
+
+
+*§ 58-18 Operations – Management Oversight.* ::
+
+
+(a) Direct Owner Operations. The Commission will hold the Owner of every Taxicab accountable for hands-on operation of the Taxicabs and expects the Owner to be personally responsible for:
+
+   (1) Physically observing the Taxicabs
+
+   (2) Overseeing compliance with Taxicab inspection requirements
+
+   (3) Overseeing compliance with insurance and all other regulatory requirements
+
+   (4) Communicating with Drivers (where the Owners vehicles are driven by Drivers other than him/herself).
+
+(b) Indirect Owner Operations.
+
+   (1) Notwithstanding the provisions in 35 RCNY § 58-18(a) above, an Owner can authorize employees or a Licensed Agent to perform any or all such functions.
+
+   (2) The use of an employee or Agent will not relieve an Owner of any obligation under these rules.
+
+   (3) An Owner remains fully accountable for all violations of Commission rules, committed by any employee or Agent in the operation of Owner's Medallion(s).
+
+(c) Owner's Use of Agents.
+
+   (1) Designation of Agent.
+
+      (i) An Owner can designate an Agent to act on the Owner's behalf to operate a Licensed Taxicab and perform all required functions.
+
+      (ii) The Agent must be licensed by the Commission in under with Chapter 63 of these Rules.
+
+      (iii) The designation will remain in effect until:
+
+         A. The Owner revokes the designation and notifies the Commission, or
+
+         B. The Commission suspends or revokes the Agent's License and notifies the Owner. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 58-18(c)(1)
+      - Fine: $500 - 1,000 and/or suspension up to 30 days
+      - Appearance Required
+~
+
+
+
+ 
+
+   (2) File Designation with the Commission. Prior to the use of an Agent, an Owner must file a designation of the Agent with the Commission. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 58-18(c)(2)
+      - Fine: $200
+      - Appearance NOT Required
+~
+
+
+
+ 
+
+   (3) Owner Can Use Only One Agent. An Owner must not designate or use more than one Agent regardless of the number of Medallions in which Owner has an interest. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 58-18(c)(3)
+      - Fine: $200
+      - Appearance NOT Required
+~
+
+
+
+ 
+
+(d) Limitations on Owner's Use of an Agent.
+
+   (1) Agent's Personal Oversight Required. An Owner can designate or use an Agent, only if the Agent operates the Taxicab(s) through:
+
+      (i) Personal observation of the vehicle(s),
+
+      (ii) Personal oversight of compliance with inspection, insurance and all other regulatory requirements, and
+
+      (iii) Personal communications with Drivers. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 58-18(d)(1)
+      - Fine: $200
+      - Appearance NOT Required
+~
+
+
+
+ 
+
+   (2) Agent Must Not Assign Responsibilities. An Owner can allow an Agent to use employees to assist in fulfilling these functions, however the Owner must NOT permit the Agent to delegate or assign its responsibilities to another party; Owner's designation of an Agent will be ineffective if the Agent delegates to another party. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 58-18(d)(2)
+      - Fine: $200
+      - Appearance NOT Required
+~
+
+
+
+ 
+
+   (3) Must Maintain Business Premises. The Owner must ensure that the Agent maintains business premises meeting the requirements set forth in both 35 RCNY § 58-17 and 35 RCNY § 63-10. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 58-18(d)(3)
+      - Fine: $200
+      - Appearance NOT Required
+~
+
+
+
+ 
+
+   (4) Owner Must Not Use Unlicensed Agent.
+
+      (i) An Owner must not designate or continue to use an Agent if the Commission has notified the Owner that the specified Agent's License is suspended or revoked. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 58-18(d)(4)(i)
+      - Fine: $500 - 1,000 and/or suspension up to 30 days
+      - Appearance Required
+~
+
+
+
+ 
+
+      (ii) The Commission will issue a directive to Owners to discontinue use of a specified Agent (a Stop-Use Directive) by mailing notification to the Owner's personal address.
+
+      (iii) The Commission will maintain a list of all Agents whose Licenses are currently suspended or revoked. This information is available for inspection by the public, and the Commission strongly suggests that Owners review these lists before selecting an Agent.
+
+      (iv) If an Owner seeks to designate an Agent who is the subject of a current Stop-Use Directive, the Commission will reject the designation and inform the Owner that the Agent's License is suspended or revoked.
+
+   (5) Provisions of this Section Cannot be Waived by Contract.
+
+      (i) No contract or other agreement between an Owner and an Agent will include a provision intended to supersede or impair the effectiveness, in whole or in part, of the provisions of this 35 RCNY § 58-18(d).
+
+      (ii) No provision in a contract or other agreement between an Owner and an Agent that attempts to impair the effectiveness of this section will be enforceable.
+
+
+
+
+
+
+*§ 58-19 Operations – Service Requirements (Passengers). [Reserved]* ::
+
+
+(a) Maximum Driving Hours. An Owner must not require a Driver to operate one or more Taxicabs for more than 12 consecutive hours.  
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 58-20(a)
+      - Fine: $50
+      - Appearance NOT Required
+~
+
+
+
+ 
+
+(b) Authorized Drivers.
+
+   (1) Driver Authorization Statement.
+
+      (i) An Owner must maintain on file with the Commission a current Medallion Long Term Driver Affidavit, indicating whether the Taxicab will be operated by Long Term Driver(s) or by "Unspecified Driver," must include the additional information required below for either Unspecified Drivers or Long Term Drivers. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 58-20(b)(1)
+      - Fine: $250 - $500 and suspension until compliance
+      - Appearance Required
+~
+
+
+
+ 
+
+   (2) Long Term Driver Affidavit.
+
+      (i) If an Owner elects to lease to Long Term Driver(s), the Owner must file a Medallion Long Term Driver Affidavit.
+
+      (ii) The Owner must file the Medallion Long Term Driver Affidavit with the Commission in person or by power of attorney each time a new vehicle is presented for hack-up. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 58-20(b)(2)(i)-(ii)
+      - Fine: $250 - $500 and suspension until compliance
+      - Appearance NOT Required
+~
+
+
+
+      If no driver is identified by the Commission as satisfying the Long Term Driver requirements as stipulated to in the Medallion Long Term Driver Affidavit, the Commission may reduce the retirement date of the vehicle attached to the medallion.
+
+      (iii) If any lease (or its renewal) listed in the Medallion Long Term Driver Affidavit is terminated for any reason, the Owner must notify the Commission in writing within 48 hours of such termination, unless exempted by the Commission. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 58-20(b)(2)(iii)
+      - Fine: $100
+      - Appearance Required
+~
+
+
+
+ 
+
+(c) Wheelchair Passenger Assistance Training.
+
+   (1) The Accessible Taxicab Owner must ensure that each of Owner's Accessible Taxicabs is driven only by a Driver who has completed the Wheelchair Passenger Assistance Training. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 58-20(c)
+      - Fine: $100 if plead guilty before a hearing; $150 if found guilty following a hearing.
+      - Appearance NOT Required
+~
+
+
+
+ 
+
+
+
+
+
+
+
+
+*§ 58-21 Leasing a Taxicab or Medallion.* ::
+
+
+(a) An Owner can lease a Taxicab (or a Medallion-only) to a Licensed Driver, or to Licensed Drivers working different shifts or days if the Owner complies with the provision of this section.
+
+   (1) Regardless of the terms of the lease, the Owner is responsible for complying with all laws, rules and regulations governing Owners.
+
+   (2) An Owner must not authorize or allow a lessee of a Taxicab under 35 RCNY §§ 58-21(c)(1) or 58-21(c)(2) of these Rules to sublease the Taxicab to another party.
+
+   (3) Written records required under this section must be provided to Driver and must be maintained in either a hard copy or electronic format. 
+									
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 58-21(a)
+      - Fine: $75 - $150 for the first violation,$150 - $300 for a second violation,$300 - $500 for a third violation within 24 months, andSuspension until compliance
+      - Appearance Required 
+~
+
+
+
+ 
+
+(b) Service and Maintenance of Leased Taxicab Vehicles.
+
+   (1) Service and maintenance of a leased Taxicab (including the vehicle) under 35 RCNY §§ 58-21(c)(1) and (c)(2) is the responsibility of the Owner/lessor, and the cost of the service and maintenance of the Vehicle cannot be charged to the Driver/lessee.
+
+   (2) The lease of a Medallion-only under 35 RCNY § 58-21(c)(3) or a lease under 35 RCNY § 58-21(c)(4) does not include, and does not require, the Medallion Owner/lessor to provide service and maintenance of the vehicle.
+
+   (3) A Medallion-only lessor under 35 RCNY § 58-21(c)(3) or a lessor under 35 RCNY § 58-21(c)(4) must not require the lessee to obtain service and maintenance from any particular provider, including, but not limited to, the Medallion Owner or any agent of the Medallion Owner. A Medallion lessor or Agent who provides services or accommodations outside the lease to a leasing driver must keep records of all transactions with that driver and such records must be available for inspection by the Chairperson. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 58-21(b)
+      - First violation $500Second and subsequent violations: $1000 and/or suspension of the Medallion for up to 30 days. In addition to the penalty payable to the Commission, the administrative law judge must order the owner to pay restitution to the driver, equal to the excess that was charged to the driver.
+      - Appearance Required
+~
+
+
+
+ 
+
+(c) Rate Rules.
+
+   (1) Standard Lease Cap Rates. An Owner of a Taxicab can charge a lease rate to a Driver that is not greater than the following Standard Lease Caps:
+
+      (i) The Standard Lease Cap for a Medallion and vehicle for one shift will not exceed:
+
+         A. $105, for all 12-hour day shifts
+
+         B. $115, for the 12-hour night shift on Sunday, Monday and Tuesday
+
+         C. $120, for the 12-hour night shift on Wednesday
+
+         D. $129, for the 12-hour night shifts on Thursday, Friday and Saturday
+
+         E. $630, for any one-week day shift for one week or longer
+
+         F. $737 for any one week night shift for one week or longer.
+
+      (ii) Except for a driver who meets all of the following:
+
+         (A) the driver pays for the lease on a daily or shift basis and is not required to pay for more than one shift in advance;
+
+         (B) the driver is required to return the vehicle to the owner or operator's business premises or other mutually agreed upon location at the conclusion of each shift; and
+
+         (C) the driver is not required to pay for any shift for which he provides the owner or operator with timely notice that he will not lease the vehicle, so the owner can lease the vehicle to another daily shift driver, no driver leasing a medallion and vehicle under this paragraph 58-21(c)(1) can be charged more than a total of
+
+            A. $630, for six or more day shifts in any seven consecutive day period
+
+            B. $737, for six or more evening shifts or combination of day and evening shifts in any seven consecutive day period.
+
+            C. A Driver who meets all the requirements of (ii)(A)-(C) can be charged for seven shifts if the Driver leases seven shifts.
+
+      (iii) The lease of a medallion and vehicle under this paragraph 35 RCNY § 58-21(c)(1) includes service and maintenance. Service and maintenance of the vehicle is the responsibility of the lessor and the lessor and his or her Agent must not charge the lessee for service and maintenance costs for the vehicle.
+
+      (iv) The lessee of a medallion and vehicle under this paragraph 35 RCNY § 58-21(c)(1) is not responsible for payment of any Commercial Motor Vehicle Tax.
+
+      (v) For a driver with a weekly lease under 35 RCNY § 58-21(c)(1)(i)(E), or 35 RCNY § 58-21(c)(1)(i)(F), if the vehicle is unavailable for use for any reason that is not the lessee's responsibility during any part of any week, the payment of the Lease Cap must be pro-rated.
+
+      (vi) For a driver with a weekly lease under 35 RCNY § 58-21(c)(1)(i)(E) or 35 RCNY § 58-21(c)(1)(i)(F), the lease includes costs for collision and other damage coverage, including repairs of physical damage to the vehicle, except that it shall not be considered an overcharge prohibited under these Rules if the Owner of a Taxicab or his or her Agent and the driver agree in writing that the driver will make payments for damage to the vehicle caused by the driver's negligence and such agreement will remain in effect for only so long as the driver is leasing a medallion from the Owner or the Agent, provided that the lease contains language informing the driver that he or she will be responsible for physical damage to the vehicle caused by his or her negligence if such damage was in fact caused by the negligence of the driver. If the Owner receives compensation for damages to the vehicle incurred from an entity other than the driver, any amount previously paid by the driver as compensation for damages, must be refunded to the driver.
+
+      (vii) For a Driver with a daily lease operating under 35 RCNY § 58-21(c)(1)(i)(A)-(D), the lessor may offer pro-rated leases for shifts of under 12 hours. The lessor must pro-rate the lease if the vehicle is unavailable for use for any reason that is not the lessee’s responsibility during any part of the 12 hour shift, including the return of the vehicle from the previous shift.
+
+   (2) Cost Adjustments for the Lease of Hybrid Electric Taxicabs.
+
+      (i) The Standard Lease Cap for Hybrid Electric Taxicabs and Diesel-Fueled Taxicabs that are hacked-up under 35 RCNY §§ 67-05 or 67-05.1C and that meet the requirements of Section 19-533 of the Administrative Code are raised by $3 per shift ($21 per week), so that the lease amount for one shift must not now exceed:
+
+         A. $108, for all 12-hour day shifts
+
+         B. $118, for the 12-hour night shift on Sunday, Monday and Tuesday
+
+         C. $123, for the 12-hour night shift on Wednesday
+
+         D. $132, for the 12-hour night shifts on Thursday, Friday and Saturday.
+
+         E. $648, for any one-week day shift for one week or longer
+
+         F. $755, for any one week night shift for one week or longer.
+
+      (ii) Except for a driver who meets all of the following:
+
+         (A) the driver pays for the lease on a daily or shift basis and is not required to pay for more than one shift in advance;
+
+         (B) the driver is required to return the vehicle to the owner or operator's business premises or other mutually agreed upon location at the conclusion of each shift; and
+
+         (C) the driver is not required to pay for any shift for which he provides the owner or operator with timely notice that he will not lease the vehicle, so the owner can lease the vehicle to another daily shift driver, no driver leasing a medallion and vehicle under this paragraph 35 RCNY § 58-21(c)(2) can be charged more than a total of
+
+            A. $648, for six or more day shifts in any seven consecutive day period
+
+            B. $755, for six or more evening shifts or combination of day and evening shifts in any seven consecutive day period.
+
+            C. A Driver who meets all the requirements of (ii)(A)-(C) can be charged for seven shifts if the Driver leases seven shifts.
+
+      (iii) The lease of a medallion and vehicle under this paragraph 35 RCNY § 58-21(c)(2) includes service and maintenance. Service and maintenance of the vehicle is the responsibility of the lessor and the lessor and his or her Agent must not charge the lessee for service and maintenance costs for the vehicle.
+
+      (iv) The lessee of a medallion and vehicle under this paragraph 35 RCNY § 58-21(c)(2) is not responsible for payment of any Commercial Motor Vehicle Tax.
+
+      (v) For a driver with a weekly lease under 35 RCNY § 58-21(c)(2)(i)(E) or 35 RCNY § 58-21(c)(2)(i)(F), if the vehicle is unavailable for use for any reason that is not the lessee's responsibility during any part of any week, the payment of the Lease Cap must be pro-rated.
+
+      (vi) For a driver with a weekly lease under 35 RCNY § 58-21(c)(2)(i)(E) or 35 RCNY § 58-21(c)(2)(i)(F), the lease includes costs for collision and other damage coverage, including repairs of physical damage to the vehicle, except that it shall not be considered an overcharge prohibited under these Rules if the Owner of a Taxicab or his or her Agent and the driver agree in writing that the driver will make payments for damage to the vehicle caused by the driver's negligence and such agreement will remain in effect for only so long as the driver is leasing a medallion from the Owner or the Agent, provided that the lease contains language informing the driver that he or she will be responsible for physical damage to the vehicle caused by his or her negligence if such damage was in fact caused by the negligence of the driver. If the Owner receives compensation for damages to the vehicle incurred from an entity other than the driver, any amount previously paid by the driver as compensation for damages, must be refunded to the driver.
+
+      (vii) For a Driver with a daily lease operating under 35 RCNY § 58-21(c)(2)(i)(A)-(D), the lessor may offer pro-rated leases for shifts of under 12 hours. The lessor must pro-rate the lease if the vehicle is unavailable for use for any reason that is not the lessee’s responsibility during any part of the 12 hour shift, including the return of the vehicle from the previous shift.
+
+   (3) The Standard Lease Cap:
+
+      (i) For a Medallion-only Hybrid Taxicab, Hacked-up under 35 RCNY §§ 67-05 or 67-05.1C and that meet the requirements of Section 19-533 of the Administrative Code is $994 weekly.
+
+      (ii) For all other Medallion-only Taxicabs, (including Accessible Taxicabs), is $952 weekly, except that if the Medallion Owner must place an Accessible Taxicab into service as required under subdivisions (a) through (c) or (e) of 35 RCNY § 58-50, or is currently receiving payments under 35 RCNY § 58-50(j)(2), the weekly lease for that Accessible Taxicab shall include a credit to the Driver of $77 per week for the four year period of time required in 35 RCNY § 58-50(f). This reduction is the result of the Medallion Owner’s receipt of payment under 35 RCNY § 58-50(j)(1)(ii) and (j)(2).
+
+      (iii) A medallion lessor or Agent of a lessor must not require a medallion lessee to obtain service, repairs or maintenance of the vehicle from any particular provider, including, but not limited to, a lessor or an Agent of a lessor.
+
+      (iv) A lease, and payment of the Lease Cap under this paragraph includes (and all of the following must be provided to the lessee):
+
+         A. Use of the medallion;
+
+         B. All applicable TLC fees except for TLC vehicle inspection fees (but the lessor is not required to provide vehicle registration or payment of the Commercial Motor Vehicle Tax);
+
+         C. Insurance required by 35 RCNY § 58-13;
+
+         D. Credit card fees or charges;
+
+         E. Up to 3 drivers on a lease at the request of the drivers, which request cannot be unreasonably denied. A lessor must not accept any payment from a lessee for the purchase or lease of a vehicle. A Medallion lessor or Agent can agree with a driver to provide services or accommodations on an arms-length basis outside the lease. A Medallion lessor or Agent who provides services or accommodations outside the lease to a leasing driver must keep records of all transactions with that driver and such records must be available for inspection by the Chairperson. A Medallion lessor may not enter into a lease with any person or entity under this paragraph if such Medallion lessor holds more than 2% of shares in a publicly held corporation that sells, leases or finances vehicles and has accepted a payment from such person or entity related to the sale, lease or finance of the Vehicle of such person or entity.
+
+      (v) The gasoline surcharge option provided in paragraph 35 RCNY § 58-21(c)(6) is not available to Owners/lessors leasing a Medallion-only under this 35 RCNY § 58-21(c)(3)
+
+   (4) Standard Medallion Lease Cap including Long Term Vehicle Lease/Conditional Purchase.
+
+      (i) A Lease is covered by this paragraph 35 RCNY § 58-21(c)(4) if it includes all of the following:
+
+         A. The lease of a Medallion
+
+         B. The conditional purchase agreement for a vehicle; and
+
+         C. The vehicle is being conditionally sold to the driver/lessee by any of
+
+            1. The Owner of the Medallion or any employee of the Owner, and/or
+
+            2. The Owner's Agent or any employee of the Agent, and/or
+
+            3. Any Business Entity of which a Business Entity Person of the Owner or Agent, or an employee of Owner or Agent, is a Business Entity Person
+
+            4. For purposes of this paragraph, an individual, business entity or business entity person covered by subitems one through three of this item C who is leasing a Medallion to a lessee and who holds more than 2% of the shares in a publicly held corporation that sells, leases or finances vehicles and has accepted a payment from such lessee related to the sale, lease or finance of such lessee's vehicle is deemed to be a party to the vehicle financing arrangement. Accordingly, the total amount charged to the lessee for both the lease of the Medallion and for the sale, lease, or financing of the vehicle cannot exceed the amount of the Standard Lease Cap set forth in subparagraph (ii) of this paragraph.
+
+      (ii) The Standard Lease Cap under this section for a Taxicab Medallion and vehicle is
+
+         A. $994 weekly for the lease of the Medallion, if the vehicle complies with the requirements of 35 RCNY §§ 67-05 or 67-05.1C and meets the requirements of Section 19-533 of the Administrative Code, plus $275 weekly for the portion of the lease covering the conditional purchase of the vehicle; or
+
+         B. $952 weekly for the lease of the Medallion, if the vehicle complies with the requirements of 35 RCNY §§ 67-05.1 or 67-05.2, plus $275 weekly for the portion of the lease covering the conditional purchase of the vehicle, except that if the Medallion Owner must place an Accessible Taxicab into service as required under subdivisions (a) through (c) or (e) of 35 RCNY § 58-50, or is currently receiving payments under 35 RCNY § 58-50(j)(2), the weekly lease for that Accessible Taxicab shall include a credit to the driver of $77 per week for the four year period of time required in 35 RCNY § 58-50(f). This reduction is the result of the Medallion Owner’s receipt of payment under 35 RCNY § 58-50(j)(1)(ii) and (j)(2).
+
+         C. This Standard Lease Cap cannot be charged at any time after title to the vehicle passes (or could have passed) to the lessee such that total payments by the lessee for the vehicle shall not exceed $42,900.
+
+      (iii) Title to the leased vehicle must pass to one or more of the lessees, if the lessees request, after all vehicle financing costs have been paid. The conditional seller is not required to transfer title if the lessees have failed to pay all payments due for the vehicle purchase and lease until all such payments have been made.
+
+      (iv) The lease of a Medallion together with a vehicle under this paragraph 35 RCNY § 58-21(c)(4) includes within the payment to the lessor the amount due by the Vehicle owner for the Commercial Motor Vehicle Tax.
+
+      (v) A lease, and payment of the Lease Cap under this section includes (and the following must be provided to the lessee, except that items G and H are optional):
+
+         A. Use of the medallion;
+
+         B. All applicable TLC and NYS DMV fees except for TLC vehicle inspection fees;
+
+         C. Insurance required by 35 RCNY § 58-13;
+
+         D. Credit card fees or charges;
+
+         E. All Vehicle purchase and/or finance costs and vehicle sales tax and related costs;
+
+         F. Up to 3 drivers on a lease at the request of the drivers, which request cannot be unreasonably denied.
+
+         G. A Medallion lessor or Agent can offer coverage for collisions and physical damage to the vehicle to the lessee/purchasers in an amount not to exceed $50 per week, but cannot require that the lessee/purchasers purchase such coverage.
+
+            i. The Medallion lessor or Agent can require that a deductible of up to $250 per incident be met before covering or reimbursing costs identified in item G.
+
+            ii. For any incident for which a driver has paid a deductible amount authorized under this subsection, if the Medallion lessor or Agent of the taxicab which is the subject of the damages claim receives insurance claim proceeds, litigation proceeds or other proceeds to cover the cost of repair, the lessor must reimburse the driver for the amount previously remitted as a deductible.
+
+         H. A Medallion lessor or Agent can agree with a driver to provide services or accommodations on an arm's-length basis outside the lease. A Medallion lessor or Agent who provides services or accommodations outside the lease to a leasing driver must keep records of all transactions with that driver and such records must be available for inspection by the Chairperson or his or her designee.
+
+         I. If the Driver does not opt to receive coverage for collisions and physical damage pursuant to G above, and a Medallion lessor or Agent receives compensation for damages to the vehicle incurred from an entity other than the Driver, any amount previously paid by the Driver as compensation for damages or paid by the Driver in order to repair damages to the vehicle must be refunded to the Driver.
+
+      (vi) The gasoline surcharge option provided in 35 RCNY § 58-21(c)(6) is not available to Owners/lessors leasing a Taxicab and vehicle under this 35 RCNY § 58-21(c)(4).
+
+      (vii) If the vehicle is unavailable for use for any reason that is not the lessee's responsibility during any part of any week, the lessee's payment of the Lease Cap must be pro-rated. As an example, a vehicle is not unavailable for purposes of this rule if the vehicle is undergoing required maintenance, undergoing repairs as a result of not being properly maintained, or required to appear for inspection at the TLC.
+
+   (5) Limits on Additional Charges. In addition to a lease amount no greater than the Standard Lease Cap (as adjusted), an Owner/lessor (as well as any agent or employee of the Owner/lessor) must not request of or accept from any lessee any money or other thing of value, except for the following (this means an Owner/lessor must not charge any tip, tax, surcharge or other fee of any kind above the Standard Lease Cap (as adjusted):
+
+      (i) A gas surcharge of $21 per shift (or $126 for drivers leasing under 35 RCNY § 58-21(c)(1)(i) E or F and 35 RCNY § 58-21(c)(2)(i) E or F (with such surcharge to be adjusted as provided below) provided that the Owner/lessor or his or her agent is providing gasoline to the lessee as provided in 35 RCNY § 58-21(c)(6);
+
+      (ii) A security deposit and deductions from the security deposit no greater than the amount allowed under subdivision (e) below;
+
+      (iii) The discount toll amount for use of the Owner's EZ-Pass® as described in 35 RCNY § 58-27;
+
+      (iv) Late Charges
+
+         A. For any vehicle leased pursuant 35 RCNY § 58-21(c)(1) or 35 RCNY § 58-21(c)(2), a late charge not to exceed $25.00 per hour for the late return of a vehicle. The total late charge for the late return of a vehicle from any one shift may not exceed the cost of one shift.
+
+         B. For any vehicle leased pursuant to 35 RCNY §58-21(c)(3) or 35 RCNY §58-21(c)(4) a late charge not to exceed $50.00 for each weekly lease payment paid late. A late charge can be imposed only if the weekly lease payment is not received within 24 hours of the date and time on which it is due.
+
+      (v) A reasonable cancellation charge, subject to the provisions of subdivision (i)(5) below;
+
+      (vi) Parking tickets and red light violations permitted to be deducted from the security deposit described in subdivision (e) below, provided that the Driver/lessee is allowed to challenge any ticket or violation; and
+
+      (vii) If the Owner (or Owner's Agent) is a Taxpayer, the Taxpayer can collect the MTA Tax collected by the lessee/Driver from the lessee/Driver. The MTA Tax must be collected in the following order:
+
+         A. The MTA Tax must first be deducted from any credit card reimbursements due as required in subdivision (f) below.
+
+         B. The MTA Tax must next be deducted from the security deposit permitted in subdivision (e) below.
+
+         C. If not fully paid, then the MTA Tax must be collected from the lessee/Driver.
+
+      (viii) In addition to these charges, an Owner can deduct from credit card receipts payable to the Driver amounts collected by the Technology System Provider, pursuant to the Technology System Provider's authorization by the Commission, provided that
+
+         A. such amounts are provided by rule of the Commission; and
+
+         B. such amounts are timely remitted to the Owner's Technology System Provider or other recipient as approved by the TLC.
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 58-21(c)(5)(viii)(B)
+      - Fine: $1,000 and suspension until compliance
+      - Appearance Required
+~
+
+
+
+ 
+
+      (ix) State and local sales and rental taxes on vehicle rentals.
+
+      (x) If contained in the lease, a provision for the recovery of reasonable damages for a breach of the lease contract, including attorneys' fees and costs. Fines paid to the Commission by an Owner or Agent cannot be recovered from a driver as reasonable damages, except for
+
+         A. fines incurred as a result of a sublease prohibited by 35 RCNY § 58-21(a)(2), or,
+
+         B. for drivers leasing under 35 RCNY §58-21(c)(3) or (c)(4), fines incurred as a result of unauthorized operation by a suspended or revoked driver, or
+
+         C. fines imposed on the owner for violation of 35 RCNY § 58-29(b), provided that such fine was assessed because of the conduct of the driver and provided the owner is able to show that the driver had notice of the inspection date, or
+
+         D. fines imposed on the owner for violation of 35 RCNY § 58-31(a).
+
+      (xi) Credit Card Processing Surcharge for Leases entered into pursuant to 35 RCNY § 58-21(c)(1), 58-21(c)(2), 58-21(c)(3), or 58-21(c)(4):
+
+         A. For daily leases under 35 RCNY § 58-21(c)(1) and 58-21(c)(2), an Owner of a Taxicab can charge a $7 surcharge per shift for credit card processing.
+
+         B. For weekly leases under 35 RCNY § 58-21(c)(1), 58-21(c)(2), 58-21(c)(3), and 58-21(c)(4), an Owner of a Taxicab can charge a $49 surcharge per week for credit card processing.
+
+      (xii) Beginning on January 1, 2015, the Taxicab Improvement Surcharge, which must be paid as provided in 35 RCNY § 58-16.
+
+   (6) Optional Gasoline Surcharge: An Owner/lessor, or his or her Agent leasing a Taxicab under 35 RCNY § 58-21(c)(1) or 58-21(c)(2), may chose to provide gasoline to a lessee and charge a gas surcharge in an amount as specified in this section in addition to the Lease Cap provided in 35 RCNY § 58-21(c)(1) or 58-21(c)(2), provided that
+
+      (i) Gasoline is provided to the lessee for the entire shift at no additional cost to the lessee.
+
+      (ii) The surcharge will be $126 per week (or $21 per shift) until December 31, 2012
+
+      (iii) After that date the surcharge will be reset based on the trailing 6 month average as of the date the surcharge is calculated of the New York City Gasoline Price Index issued by U.S. Energy Information Agency and published at www.eia.gov.
+
+      (iv) The surcharge will be calculated as of June 30 and November 30 of each year beginning November 30, 2012.
+
+      (v) The Commission will post the new surcharge on its Web site by July 15 and December 15 of each year
+
+      (vi) The new surcharge will take effect on July 31 and December 31 of each year beginning December 31, 2012. If the Commission has not posted a new surcharge, the prior surcharge will remain in effect.
+
+      (vii) Based on the index, the surcharge will be as follows:
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - When the Index is:
+      - The surcharge will be:
+~
+
+
+
+
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - $2.49 or less
+      - $13 per shift (or $78 per week)
+    * - $2.50 to $2.99
+      - $16 per shift (or $96 per week)
+    * - $3.00 to $3.49
+      - $18 per shift (or $108 per week)
+    * - $3.50 to $3.99
+      - $21 per shift (or $126 per week)
+    * - $4.00 to $4.49
+      - $23 per shift (or $138 per week)
+    * - $4.50 to $4.99
+      - $26 per shift (or $156 per week)
+    * - $5.00 or more
+      - $28 per shift (or $168 per week)
+~
+
+ 
+
+      (viii) Nothing in paragraph 35 RCNY § 58-21(c)(6) prohibits an Owner/lessor, or his or her Agent leasing a Taxicab under 35 RCNY § 58-21(c)(1) or 58-21(c)(2) from selling gasoline to a lessee independent of any lease payments made under 35 RCNY § 58-21(c)(1) or 58-21(c)(2) as long as such transactions are recorded and available for inspection as required by 35 RCNY § 58-21(b)(3).
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 58-21(c)
+      - Fine: First violation: $500Second and subsequent violations; $1,000 and/or suspension of the Medallion for up to 30 days.In addition to the penalty payable to the Commission, the ALJ must order the Owner to pay restitution to the Driver, equal to the excess that was charged to the Driver or the extra fuel the driver had to pay for.
+      - Appearance Required
+~
+
+
+
+ 
+
+   (7) Collective Bargaining Exception to the Standard Lease Cap. The provisions of this section do not apply to Owners and lease Drivers whose business relationship is governed by the terms of a collective bargaining agreement that regulates the subject of lease prices.
+
+(d) [Reserved.]
+
+(e) Security Deposit on Taxicab Vehicles.
+
+   (1) Security Deposit Provision Permitted. An Owner can include a lease provision for a security deposit from the Driver, provided it complies with the requirements of this subdivision (e).
+
+   (2) Permitted Withholdings from Security Deposit. At the termination or expiration of a lease an Owner may be reimbursed from the security deposit only for the following:
+
+      (i) Any unpaid but owing lease charges.
+
+      (ii) Damage to the vehicle, if the lease clearly and prominently states that the Driver is responsible for damage.
+
+      (iii) Any parking tickets issued during the lease.
+
+      (iv) Any red light violations issued to the Owner during the lease, under the NYC Department of Transportation's camera surveillance system.
+
+      (v) If the Owner (or Owner's Agent) is a Taxpayer, any MTA Tax remaining due from the Driver after deductions from credit card receipts due to the Driver.
+
+   (3) Deposit Not to be Used for Owner Violations. An Owner must not require a Driver to pay any summons that is written to the Owner as Respondent, other than those specified above.
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 58-21(e)(3)
+      - Fine: First violation: $250;Second violation: $350;Third and subsequent violations $500 and/or suspension of the Medallion for up to thirty days.In addition to the penalty payable to the Commission, the ALJ must order the Owner to pay restitution to the Driver, equal to the excess that was withheld from the Driver, or equal to the amount that the Driver paid, at the requirement of the Owner, to satisfy any summons against the Owner.
+      - Appearance Required
+~
+
+
+
+ 
+
+   (4) Limits on Amount of Deposit. An Owner must not require a Driver to post any security deposit that is greater in amount than the rate for one lease term. However, if the lease term is for more than one week, an Owner must not require a Driver to pay a security deposit in an amount greater than the lease rate for one week. Examples include:
+
+      (i) An Owner who leases a Taxicab for one shift at the rate of $80 per shift can require up to an $80 security deposit.
+
+      (ii) An Owner who leases a Taxicab or Medallion for one week at the rate of $500 a week can require up to a $500 security deposit.
+
+      (iii) An Owner who leases a Taxicab for six months at the rate of $2,000 a month can require up to a $500 security deposit.
+
+      (iv) Special Rule for Long Term leases under 35 RCNY § 58-21(c)(4).
+
+         A. A Lease under 35 RCNY § 58-21(c)(4) can include a refundable deposit of up to $5,000, which may be collected at the beginning of the lease or in scheduled payments over time as specified in the lease. An Owner or an Owner's Agent must not accept any deposit in excess of this amount.
+
+         B. The weekly lease payment specified in 35 RCNY § 58-21(c)(4) must be credited by an amount equal to the prorated value of the refundable deposit, except that until the lease ends, a deposit equal to the deposit that could be required for a lease of a Medallion under 35 RCNY § 58-21(c)(3)(i) or (ii), as applicable, can be retained by the Owner/lessor or his or her Agent.
+
+         C. If the deposit is not fully credited against the lease because of a cancellation, any remaining, uncredited deposit shall be refunded to the lessee/driver within 30 days of termination or cancellation of the lease by the lessor or an Agent of lessor. Note: this does not apply when the driver breaks or terminates the lease prior to the term. The deposit shall be held, and interest shall accrue, in the manner prescribed by 35 RCNY § 58-21(e)(7). 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 58-21(e)(4)
+      - Fine: $200In addition to the penalty payable to the Commission, the Hearing Officer must order the lessor to pay restitution to the Driver, equal to the amount charged to the Driver in violation of this rule.
+      - Appearance NOT Required
+~
+
+
+
+ 
+
+   (5) Provide Driver Written Receipt and Accounting for Security Deposit.
+
+      (i) An Owner must provide written receipts for any security deposits made by a Driver.
+
+      (ii) An Owner must provide a Driver with a written itemization of any items withheld or deducted from a security deposit. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 58-21(e)(5)
+      - Fine: $50
+      - Appearance NOT Required
+~
+
+
+
+ 
+
+   (6) Return Deposit within 30 Days of Lease Termination.
+
+      (i) An Owner must return a security deposit no later than 30 days after the end of the lease term.
+
+      (ii) An Owner must return a security deposit either by check or by cash exchanged for a written receipt from the Driver. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 58-21(e)(6)
+      - Fine: $50In addition to the penalty payable to the Commission, the Hearing Officer must order the lessor to pay restitution to the Driver, equal to the amount not returned to the Driver in violation of this rule.
+      - Appearance NOT Required
+~
+
+
+
+ 
+
+   (7) Interest on Security Deposit.
+
+      (i) An Owner who requires a security deposit must secure the funds in an interest-bearing account in a bank or credit union within the City of New York, in an account devoted to security deposits and not commingled with funds of the Owner.
+
+      (ii) The Owner must indicate in writing provided to the Driver the name and address of the bank or credit union and the applicable account number.
+
+      (iii) Interest on the security deposit must accrue to the benefit of the Driver furnishing the security, except, however, that the Owner can retain one percentage point of any interest, as compensation for bookkeeping expenses. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 58-21(e)(7)
+      - Fine: $50
+      - Appearance NOT Required
+~
+
+
+
+ 
+
+   (8) Collective Bargaining Agreement Exception to Limitations on Security Deposits. The provisions of this section do not apply to Owners and lease Drivers whose business relationship is governed by the terms of a collective bargaining agreement that regulates the subject of security deposits.
+
+(f) Non-Cash Payments.
+
+   (1) For any lease of a Taxicab (vehicle and Medallion) under 35 RCNY § 58-21(c)(1) or 58-21(c)(2), an Owner (or Owner's Agent) must pay a Driver, on a daily basis, the total amount of all non-cash payments, including E-Payments through the Technology System (if any), made during the Driver's shift, less the Taxicab Improvement Surcharge payable to the Taxicab Improvement Fund as set forth in 35 RCNY § 58-16. Drivers leasing a Taxicab on a weekly basis under 35 RCNY § 58-21(c)(1)(i)E, 58-21(c)(1)(i)F, 58-21(c)(2)(i)E or 58-21(c)(2)(i)F may, at the Driver's discretion, be paid on a weekly basis. Payments to a Driver and access to these funds must be provided at no cost to the Driver.
+
+   (2) For any lease not described in paragraph (1), an Owner (or Owner's Agent) must pay the Driver, on no less than a weekly basis, the total amount of all non-cash payments, including E-Payments through the Technology System (if any), made during that period, less the Taxicab Improvement Surcharge payable to the Taxicab Improvement Fund as set forth in 35 RCNY § 58-16. Payments to a Driver and access to these funds must be provided at no cost to the Driver.
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 58-21(f)(1) &amp; (2)
+      - Fine: $100In addition to the penalty payable to the Commission, the ALJ must order the Owner to pay restitution to the Driver, equal to the cost to the Driver.
+      - Appearance NOT Required 
+~
+
+
+
+ 
+
+   (3) An Owner (or Owner's Agent) must not withhold from the payments any credit card pass-along, fees or charges.
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 58-21(f)(3)
+      - Fine: First violation: $200Second violation: $300Third violation: $500In addition to the penalty payable to the Commission, the ALJ must order the Owner to pay restitution to the Driver, equal to the excess amount that was charged to the Driver.
+      - Appearance Required 
+~
+
+
+
+ 
+
+   (4) If an Owner (or Owner's Agent) is a Taxpayer, the Taxpayer can deduct from the credit card receipts payable to the Driver the amount due for the MTA Tax from the Driver's trips.
+
+   (5) An Owner can deduct from credit card receipts payable to the Driver amounts retained by or payable to the the Technology System Provider, provided that such amounts are provided for by rule of the Commission.
+
+(g) Receipts to Drivers for All Payments.
+
+   (1) An Owner (or Owner's Agent) must give a Driver a written receipt for every payment or deduction made under the lease and these Rules.
+
+   (2) The receipt must include the name of the Driver and the number of the Medallion subject to the lease.
+
+   (3) The receipt must clearly state the following information with respect to the payment or deduction:
+
+      (i) The date
+
+      (ii) The name of the recipient
+
+      (iii) The amount
+
+      (iv) The purpose
+
+      (v) The number of the section of this chapter that authorizes the payment or deduction
+
+      (vi) For leases under 35 RCNY § 58-21(c)(4), the following additional information:
+
+         A. The weekly amount received, itemized by the amount paid for the Taxicab Medallion portion of the lease and the amount paid for the conditional purchase of the vehicle;
+
+         B. The cumulative amount paid towards the conditional purchase of the vehicle;
+
+         C. The remaining amount to be paid for the conditional purchase of the vehicle; and
+
+         D. The remaining number of weekly payments for the conditional purchase of the vehicle based on the current contract terms.
+
+         E. For leases of Medallions for which the Medallion Owner must place an Accessible Taxicab into service as required under subdivisions (a) through (c) or (e) of 35 RCNY § 58-50 or is currently receiving payments under 35 RCNY § 58-50(j)(2), a credit to the Driver in the weekly payment in the amount of $77 as a result of the Medallion Owner’s receipt of payment under 35 RCNY § 58-50(j)(1)(ii).
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 58-21(g)
+      - Fine: $200
+~
+
+
+
+ 
+
+(h) Lease Must Be in Writing.
+
+   (1) Every Taxicab operating lease (including any amendments), must be in writing, and must be signed by the Owner (or a person authorized to act on behalf of the Owner), and by the leasing Driver or Drivers. Electronic signatures are permissible for electronic leases.
+
+   (2) A copy of the fully executed lease must be provided to the leasing Driver or Drivers. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 58-21(h)
+      - Fine: $500
+      - Appearance NOT Required
+~
+
+
+
+ 
+
+(i) Terms. Every lease must contain the following terms:
+
+   (1) The type and term of the lease. The lease must state the beginning date and time of the lease and the ending date and time of the lease.
+
+      (i) A weekly lease must run for seven consecutive calendar days.
+
+      (ii) A shift must run for 12 consecutive hours.
+
+   (2) Costs covered by the lease. The lease must state the total lease amount, and must itemize that total cost, including:
+
+      (i) The amount of the lease that applies to the medallion and the amount, if any, that applies to the vehicle
+
+      (ii) The amounts, if any, of the security deposit
+
+      (iii) The gasoline surcharge if there is one
+
+      (iv) For leases under 35 RCNY § 58-21(c)(4), the vehicle sales price and an itemized total of all other fees and costs to be paid before title to the vehicle will be passed to the Driver
+
+      (v) Any other costs that the Driver will be charged.
+
+   (3) Reference Authorizing Rule Sections.
+
+      (i) For each itemized cost listed above (in subparagraph (2)), the lease must include a reference to the Commission Rule authorizing the Owner to charge the cost to the Driver.
+
+      (ii) The lease must either recite the complete text of each Rule or state the address of the Commission's Web page on which the Rule is published.
+
+   (4) Overcharges. Every lease must contain clearly legible notice that overcharging a lessee/Driver is prohibited by the Commission's Rules, and that complaints of overcharges may be made in writing to the Commission or by telephone call to 311.
+
+   (5) Charges Upon Cancellation.
+
+      (i) If an Agent demands the return of a Medallion upon the request of an Owner, the Driver has the right to request the Agent to provide a replacement Medallion and, if the Agent provides another Medallion, the Driver will not be responsible for the costs of hacking up a replacement vehicle.
+
+      (ii) Any cancellation charge contained in the lease must be reasonable, and will not be permitted unless the lease also provides that:
+
+         A. Owner is not permitted to charge a Driver a cancellation charge if the Driver is not late in making lease payments at the time the Owner cancels the lease.
+
+         B. When a cancellation payment is made, the Driver's obligation to make lease payments terminates immediately.
+
+   (6) Deposit information. Each lease must include the information regarding deposits required by 35 RCNY § 58-21(e). 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 58-21(i)
+      - Fine: First violation $500Second and subsequent violations: $1000 and/or suspension of the Medallion for up to thirty days.In addition to the penalty payable to the Commission, the administrative law judge must order the owner to pay restitution to the driver, equal to the excess or non-authorized charge that was charged to the driver.
+      - Appearance Required
+~
+
+
+
+ 
+
+(j) Retaliation.
+
+   (1) An Owner must not retaliate against any Driver for making a good faith complaint against any Owner for violation of the leasing provisions in 35 RCNY § 58-21.
+
+   (2) "Retaliation" will be broadly construed, and will include imposing any adverse condition or consequence on the Driver or withholding or withdrawing any beneficial condition or consequence from the Driver. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 58-21(j)
+      - Fine: $1,000 plus restitution to the driver for losses for the first offense and a fine of $10,000 plus restitution to the driver for the second offense within five years.
+      - Appearance NOT Required
+~
+
+
+
+
+
+
+
+
+
+
+*§ 58-22 Records – Trip Record Information.* ::
+
+
+(a) Record of Passenger Trip Information. The Trip Record is the record of all data collected from every for hire trip made by a Taxicab and must include the following information:
+
+   (1) The Taxicab Medallion number
+
+   (2) The TLC Driver License number
+
+   (3) The location where each passenger is picked up
+
+   (4) The time each passenger is picked up
+
+   (5) The total number of passengers
+
+   (6) The location where each passenger is dropped off
+
+   (7) The time each passenger is dropped off
+
+   (8) The total trip mileage
+
+   (9) The itemized metered fare for the trip (fare, tolls, surcharge, and tip, if paid by credit or debit card)
+
+   (10) Method of payment
+
+   (11) The trip number
+
+   (12) Other information required by the Commission.
+
+(b) Form of Trip Record.
+
+   (1) Trip Records must be collected and stored electronically, through the use of the Technology System.
+
+   (2) If the Technology System is inoperable, a written Trip Record must be kept during the 48-hour period the Taxicab is permitted to operate after timely notification of the malfunction. (See 35 RCNY § 58-41)
+
+(c) Access to Trip Record.
+
+   (1) Trip Record information must be available to the Commission and the Taxicab Driver.
+
+   (2) Trip Record information must be available at the end of each shift and/or at the end of a lease term.
+
+   (3) An Owner must take possession of any written Trip Records weekly. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 58-22(c)(3)
+      - Fine: $25
+      - Appearance NOT Required
+~
+
+
+
+ 
+
+(d) Changes and Corrections.
+
+   (1) An Owner must not knowingly enter false information into the electronic data system for entry onto the electronic Trip Record.
+
+   (2) An Owner must not make erasures or obliterate information on a written Trip Record, or other record that Owner is required to maintain. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 58-22(d)(2)
+      - Fine: $50
+      - Appearance NOT Required
+~
+
+
+
+ 
+
+   (3) If a wrong entry is made on any written Trip Record, the Driver or Owner must correct it and record the date, time, and reason for the change, so long as a record of the manually changed entry exists. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 58-22(d)(3)
+      - Fine: $50
+      - Appearance NOT Required
+~
+
+
+
+ 
+
+   (4) Trip Records must not be changed either in whole or in part, unless authorized by the Commission. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 58-22(d)(4)
+      - Fine: $100 - $350 and/or suspension up to 30 days
+      - Appearance NOT Required
+~
+
+
+
+ 
+
+
+
+
+
+
+
+
+*§ 58-23 Records – Contact Information.* ::
+
+
+(a) Mailing and Email Addresses.
+
+   (1) Each Owner must designate a Mailing Address; this can be the Agent's address but cannot be a post office box number.
+
+   (2) Any communication from the Commission is sufficient if sent to the Mailing Address furnished by the Owner.
+
+   (3) Each individual Owner must also file and maintain with the Commission the Owner's personal mailing address, Email address and a telephone number where the Owner can be reached directly.
+
+   (4) Each Business Entity Owner must also file and maintain with the Commission the personal mailing addresses, Email addresses and telephone numbers of each of Owner's Business Entity Persons.
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 58-23(a)(1)-(4)
+      - Fine: $100
+      - Appearance NOT Required
+~
+
+
+
+ 
+
+   (5) The Commission is not required to send any communication to the Owner's personal address, except when notifying Owner that the License of the Agent designated by Owner has been revoked. Other communications sent to the Owner's personal address are at the discretion of the Commission.
+
+   (6) An Owner must report any change of mailing or Email address to the Commission in person or by registered or certified mail within ten days.
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 58-23(a)(6)
+      - Fine: $100
+      - Appearance NOT Required
+~
+
+
+
+ 
+
+(b) Telephone Number and Immediate Access. An Owner must maintain on file with the Commission a current telephone number connected to an answering machine or recording device, a pager number, an answering service telephone number or a similar means of telephone contact, so that the Commission can reach the Owner on a 24-hour basis.
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 58-23(b)
+      - Fine: $100
+      - Appearance NOT Required
+~
+
+
+
+ 
+
+
+
+
+
+
+
+
+*§ 58-24 Records – Maintenance Requirements.* ::
+
+
+(a) Shift Drivers. An Owner must keep accurate records of the Driver for each shift. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 58-24(a)
+      - Fine: $250
+      - Appearance NOT Required
+~
+
+
+
+ 
+
+(b) Fleet or Minifleet Owner Records. A fleet or minifleet Owner must maintain for a period of three years a written record of every shift providing the following information for each Taxicab:
+
+   (1) Driver's name,
+
+   (2) TLC Driver License number,
+
+   (3) State license plate number,
+
+   (4) Medallion number,
+
+   (5) Time of leaving garage,
+
+   (6) Exact time of return. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 58-24(b)
+      - Fine: $25
+      - Appearance NOT Required
+~
+
+
+
+ 
+
+(c) All Owners must maintain the following additional records for a period of three years:
+
+   (1) Drivers' electronic and written trip records
+
+   (2) Receipts and disbursements from the Taxicab operations
+
+   (3) Payments to Drivers
+
+   (4) Mileage record of each vehicle
+
+   (5) Workers' compensation insurance coverage, if any
+
+   (6) Liability insurance coverage
+
+   (7) Leases entered into pursuant to 35 RCNY § 58-21(c)
+
+   (8) Vehicle purchase agreements entered into pursuant to 35 RCNY § 58-21(c)(4)
+
+   (9) Any other information required by the Commission
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 58-24(c)(1)-(9)
+      - Fine: $100 for each missing item.
+      - Appearance NOT Required
+~
+
+
+
+ 
+
+(d) An Owner must make available to a Driver any records that the Owner is required to maintain, and that the Driver can be required to present to the Commission or any other governmental agency; the Owner can provide photocopies of the records. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 58-24(d)
+      - Fine: $50
+      - Appearance NOT Required
+~
+
+
+
+ 
+
+
+
+
+
+
+
+
+*§ 58-25 Reporting Requirements.* ::
+
+
+(a) Report Change in Status.
+
+   (1) When an Owner has a change of Mailing Address or a change in the office of record, the Owner must personally appear at the Commission to report the changes within 72 hours of such change (not including weekends and holidays).
+
+   (2) The Owner must bring the Rate Cards for all of Owner's Taxicabs. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 58-25(a)
+      - Fine: $100
+      - Appearance NOT Required
+~
+
+
+
+ 
+
+(b) Lost, Stolen, or Damaged Taximeter. If a Taximeter is lost, stolen or damaged beyond repair, the Owner must notify the Commission and the Police Department within 48 hours (not including weekends and holidays) of the loss, theft or destruction, and must provide any affidavit or information that the Commission requires. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 58-25(b)
+      - Fine: $100
+      - Appearance NOT Required
+~
+
+
+
+ 
+
+
+
+
+
+
+*§ 58-26 Operations – Rates and Tolls.* ::
+
+
+(a) Metered Rate of Fare.
+
+   (1) Metered Rate of Fare. The rate of fare for Taxicabs is as follows, regardless of the number of passengers or stops:
+
+      (i) The charge for the initial unit is $2.50 plus, on and after January 1, 2015, the Taxicab Improvement Surcharge of $0.30 for a total of $2.80
+
+      (ii) The charge for each additional unit is $.50
+
+      (iii) The unit of fare is:
+
+         A. One-fifth of a mile, when the Taxicab is traveling at 12 miles an hour or more; or
+
+         B. 60 seconds (at a rate of $.50 per minute), when the Taxicab is traveling at less than 12 miles an hour.
+
+      (iv) The Taximeter must combine fractional measures of distance and time in accruing a unit of fare. Any combination of distance or time specified in paragraph (iii) above must be computed by the Taximeter in accordance with Handbook 44 of the National Institute of Standards and Technology.
+
+      (v) The fare must include pre-assessment of the unit currently being accrued; the amount due can therefore include a full unit charge for a final, fractional unit.
+
+   (2) Surcharges. In addition to the metered rate of fare, Taxicabs will add the following surcharges, except where surcharges are specifically exempted:
+
+      (i) A rush hour surcharge of $1.00 for all trips beginning on a weekday after 4:00 P.M. and before 8:00 P.M.; this surcharge will not be applied on legal holidays
+
+      (ii) A nighttime surcharge of $.50 for all trips beginning after 8:00 P.M. and before 6:00 A.M.
+
+   (3) MTA Tax. The MTA Tax must be charged on any trip that starts in New York City and ends in any of the following:
+
+      (i) New York City
+
+      (ii) Dutchess County
+
+      (iii) Nassau County
+
+      (iv) Orange County
+
+      (v) Putnam County
+
+      (vi) Rockland County
+
+      (vii) Suffolk County
+
+      (viii) Westchester County
+
+(b) Flat Rates between Manhattan and Kennedy Airport.
+
+   (1) Flat Fare Rate between Manhattan and Kennedy Airport. The fare for a trip between Kennedy Airport and Manhattan will be a Flat Rate of $52, plus any tolls and applicable surcharges .
+
+      (i) A rush hour surcharge of $4.50 will be added to this Flat Rate for all trips beginning on a weekday after 4:00 p.m. and before 8:00 p.m. This surcharge will not be applied on legal holidays.
+
+      (ii) The MTA Tax must be charged in addition to the Flat Rate.
+
+      (iii) The Taximeter must reflect that this trip is a Flat Rate fare.
+
+   (2) Calculating Fare for Multiple Stops to Manhattan. If passengers request multiple stops on a trip from Kennedy Airport to Manhattan, the fare will be determined as follows:
+
+      (i) The first stop in Manhattan is paid as required by paragraph (1) of this subdivision.
+
+      (ii) The Taximeter is then turned on as if for a new trip and a new fare is calculated as a regular metered trip.
+
+      (iii) The total metered fare (plus any surcharge) is paid at the last stop by the remaining passenger.
+
+      (iv) No fare is due at the time any other passengers are dropped off between the first and last passenger.
+
+      (v) Example: if three passengers request stops at 42nd St., 18th St. and 4th St.:
+
+         A. $52.00 plus the MTA Tax and any applicable tolls or surcharges will be collected at 42nd St.
+
+         B. The Taximeter will be turned on at that point.
+
+         C. When the second passenger exits at 18th St., the Taximeter remains on and no money is paid to the Driver.
+
+         D. The passenger dropped off at 4th St. must pay the fare on the Taximeter.
+
+   (3) Metered Fare to Boroughs Other Than Manhattan. All trips between Kennedy Airport and a borough other than Manhattan are governed by the metered rate of fare as set forth in 35 RCNY § 58-26(a).
+
+   (4) Chairperson's Right to Suspend this Provision. The Chairperson is authorized to suspend the enforcement of this provision at any time, if in the judgment of the Chairperson such a suspension is necessary to preserve adequate levels of service to and from Kennedy Airport.
+
+(c) Group Ride Fares.
+
+   (1) Group Ride Fare from LaGuardia Airport. [Reserved.]
+
+   (2) Group Ride Fare from York Avenue. The fare for trips made under a Group Riding plan from York Avenue to the Financial District will be $6.00 per passenger. In addition, there can be a fee for dispatch services as the Commission determines.
+
+   (3) Group Ride Fare from the Port Authority Bus Terminal. The fare for trips made under a Group Riding plan from the Port Authority bus terminal at Eighth Avenue between 40th and 42nd Streets to the 59th Street and Sixth Avenue area will be $3.00 per passenger.
+
+   (4) Experimental Group Ride Programs.
+
+      (i) Additional Pickup Locations. The Chairperson can recommend for Commission approval additional Group Riding plan pickup locations on a temporary basis, to determine the effectiveness of each Group Riding plan.
+
+      (ii) Demand-Driven Temporary Group Riding Plans. The Chairperson can also recommend for Commission approval additional Group Riding plans on a temporary basis to respond to demand created by special events or unique circumstances.
+
+      (iii) Duration. Any Group Ride plan established by the Commission under this subdivision will terminate one year after the date the plan was established, unless:
+
+         A. Final rulemaking has been enacted establishing the Group Riding plan location and rate of fare; or
+
+         B. The Commission has determined that it is in the best interest of the Commission to extend the Group Riding plan pilot program for an additional definite period of time not to exceed one year.
+
+      (iv) Termination. The Commission can discontinue any Group Riding plan that has not been the subject of final rulemaking upon a determination that continuation of the plan is not in the best interest of the public.
+
+   (5) MTA Tax. In a group ride, one passenger will pay the MTA Tax. The fare for that passenger will be reduced by the amount of the MTA Tax. All passengers will pay the same total amount. (Example: If three passengers are taking a group ride for which the fare is $6.00 per person, the fare will be adjusted so that the total fare for all three passengers equals $17.50 plus the $.50 MTA Tax.)
+
+(d) Trips Beyond the City.
+
+   (1) For a trip beyond the limits of the City of New York, except for Westchester or Nassau County, or Newark Airport, the fare will be a Flat Rate. The MTA Tax must be added to the Flat Rate for any trip that starts in New York City and ends in any of the following:
+
+      (i) Dutchess County
+
+      (ii) Orange County
+
+      (iii) Putnam County
+
+      (iv) Rockland County
+
+      (v) Suffolk County.
+
+   (2) For a trip to Westchester or Nassau County the fare will be the sum of the following amounts:
+
+      (i) The amount shown on the Taximeter for that portion of the trip that is inside the City limits, plus
+
+      (ii) Twice the amount shown on the Taximeter for that portion of the trip that is outside the City limits, plus
+
+      (iii) All necessary tolls to and from the destination.
+
+      (iv) The MTA Tax must be added to the total fare.
+
+   (3) For a trip to Newark Airport the fare will be the sum of the following amounts:
+
+      (i) The amount shown on the Taximeter, plus
+
+      (ii) A surcharge of $17.50, plus
+
+      (iii) All necessary tolls to and from the destination.
+
+   (4) Any continuous trip where the point of origin and the destination are both within the limits of the City of New York will not be considered a trip beyond the City limits, even though the shortest and most direct route requires traveling outside the City limits but within continuous counties. The Taximeter must be kept in the recording position throughout the trip.
+
+(e) No Charge for Luggage or Mobility Aids. There will be no charge for:
+
+   (1) Steamer trunks or other luggage or belongings;
+
+   (2) Wheelchairs, crutches, three-wheeled motorized scooters and other mobility aids transported in the interior of the Taxicab;
+
+   (3) Use of the Taxicab's trunk.
+
+(f) Tolls – How Tolls are Paid.
+
+   (1) All Taxicabs must be equipped with a New York MTA Bridges &amp; Tunnels EZ-Pass®. (See 35 RCNY § 58-27)
+
+   (2) When a Taxicab drives through a toll plaza with an EZ-Pass®, the MTA Bridges &amp; Tunnels automatically deducts the cost of the toll from an account maintained by the EZ-Pass® tag holder.
+
+   (3) Passengers must pay for the toll, but are only required to pay the actual amount (often a discounted toll) charged to the EZ-Pass®.
+
+   (4) Drivers must collect the proper toll amount from the passenger and forward it to the holder of the EZ-Pass® tag.
+
+(g) Tolls – What Tolls are Paid by Passenger.
+
+   (1) On all trips within the City of New York, the passenger must pay:
+
+      (i) All tolls incurred driving to the passenger's destination
+
+      (ii) No tolls for the Driver's return trip, except for trips over:
+
+         A. The Cross Bay Veterans Bridge
+
+         B. The Marine Parkway – Gil Hodges Memorial Bridge.
+
+   (2) On trips beyond the City of New York, the passenger must pay all necessary tolls to and from the destination.
+
+   (3) A Driver who charges a passenger more than the actual amount of the EZ-Pass® toll is guilty of an overcharge as prohibited by 35 RCNY § 80-17.
+
+   (4) A Driver who fails to reimburse an EZ-Pass® tag holder for all toll charges incurred, including toll charges for which there is no passenger reimbursement, will be subject to the provisions of 35 RCNY § 80-15(d)(4).
+
+   (5) In addition to any other penalty permitted, the Commission can order restitution to a passenger or the EZ-Pass® tag holder.
+
+(h) Credit/Debit Card Rules.
+
+   (1) An Owner who is a merchant is not permitted to charge the Driver a pass-along or deduction from the total credit/debit charges incurred during the Driver's shift. An Owner who is a merchant must pay to a Driver all fares paid by credit card.
+
+   (2) Merchants are not permitted to charge a pass-along to any passenger for credit/debit card transactions.
+
+   (3) An Owner or Agent who or which is collecting the credit card surcharge authorized by 35 RCNY § 58-21(c)(5)(xi) must ensure that a Driver is not charged any additional credit card charges, or must reimburse the driver for any such additional charges, including any credit card charges imposed on the driver by the Technology System Provider.
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 58-26(h) (3)
+      - Fine: $500
+      - Appearance NOT Required
+~
+
+
+
+ 
+
+(i) Beginning on January 1, 2015, the Taxicab Improvement Surcharge must be collected in addition to any fare charged under subdivisions (b) through (d) of this Section.
+
+(j) E-Payments.
+
+   (1) The payment for the fare for any trip paid for using an E-Payment must not exceed Commission-approved rates, plus an optional tip.
+
+   (2) The fare must be calculated as required by these rules and the Taximeter must be used for all trips, including trips paid for by E-Payment. Any fare paid for by E-Payment must be calculated by the Taximeter and not by any other method.
+
+   (3) The itemized fare amount charged to the Passenger must be automatically transmitted to the E-Hail Application from the Technology System or the Taximeter, and relevant payment data necessary to obtain a complete trip record must be transmitted from the E-Hail Application to the Technology System. Manual input of the fare by the Driver or any other person into the E-Hail Application is not permitted.
+
+
+
+
+
+
+
+
+*§ 58-27 Operations – EZ-Pass® Required.* ::
+
+
+EZ-Pass
+									® Required. 
+
+(a) EZ-Pass® Account. All Owners must participate in the EZ-Pass® New York Program by maintaining a current account with the Metropolitan Transportation Authority, Triborough Bridge and Tunnel Authority ("MTA Bridges and Tunnels" or "MTA B&amp;T").
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 58-27(a)
+      - Fine: $100 and suspension until compliance
+      - Appearance Required
+~
+
+
+
+ 
+
+(b) EZ-Pass®Tags Required on all Taxicabs.
+
+   (1) Owners must either:
+
+      (i) Equip all of Owner's Taxicabs with an MTA Bridges and Tunnels EZ-Pass® tag, each of which must be attached as required by MTA B&amp;T, or
+
+      (ii) Allow a Driver to use his or her personal EZ-Pass® tag.
+
+   (2) Owners must have available at least one MTA Bridges and Tunnels tag for each of their Medallions.
+
+   (3) Owners must maintain a sufficient balance in their EZ-Pass® account, according to what is required by the program.
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 58-27(b)
+      - Fine: $100 and suspension until compliance
+      - Appearance Required
+~
+
+
+
+ 
+
+(c) Driver Provides EZ-Pass® Tag.
+
+   (1) A Driver can choose to use his or her own EZ-Pass® tag.
+
+   (2) If a Driver uses his or her own EZ-Pass®, the Driver keeps the toll money paid by the passenger, or is reimbursed the amount of the toll(s) if the passenger pays by credit or debit card.
+
+(d) Owner Provides EZ-Pass® Tag.
+
+   (1) Funds Accrue to Owner. When an Owner provides the EZ-Pass® tag, the Driver must ensure that all of the monies paid by a passenger for toll(s) accrue to the Owner.
+
+      (i) If the customer pays by cash, the Driver will forward the money to the Owner at the end of his or her shift or at the end of his or her lease.
+
+      (ii) If the customer pays by credit or debit card, the Owner will retain any amount paid for toll(s).
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 58-27(d)(1)
+      - Fine: $250
+      - Appearance Required
+~
+
+
+
+ 
+
+   (2) Owner can Require Driver to Maintain a "Replenishment" Account.
+
+      (i) An Owner who is the EZ-Pass® tag holder can require a Driver who is Dispatched in one of Owner's Taxicabs for one or more shifts to maintain an EZ-Pass® replenishment account with the Owner.
+
+      (ii) The Owner can require a Driver to maintain a maximum of $10 for every 12-hour shift included within a lease period, up to a maximum of $100, in the replenishment account for the benefit of Owner.
+
+      (iii) The Owner can collect from this account any tolls paid by the Owner's EZ-Pass® account for a tag assigned to a Taxicab operated by the Driver, for which the Owner has not been reimbursed.
+
+      (iv) Any funds held in the replenishment account that are not used to reimburse the Owner must be returned to a Driver within 30 days after the termination of the Driver's lease with the Owner.
+
+      (v) An Agent has the same rights and obligations as Owner under this 35 RCNY § 58-27(d)(2).
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 58-27(d)(2)
+      - Fine: $250 plus restitution to the Driver of any replenishment account improperly retained by an Owner or Agent
+      - Appearance Required
+~
+
+
+
+ 
+
+
+
+
+
+
+*§ 58-28 Operations – Miscellaneous Requirements.* ::
+
+
+(a) Lost Property – Police Notification. Passenger lost property found in a Taxicab must be taken without delay to the police precinct in which the garage is located unless it can be returned to its rightful owner within a reasonable time.
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 58-28(a)
+      - Fine: $25 - $250
+      - Appearance Required
+~
+
+
+
+ 
+
+(b) Lost Property – Notify the Commission. The Taxicab Owner must promptly inform the Commission of any property that has been taken to a police precinct as required by 35 RCNY § 58-28(a).
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 58-28(b)
+      - Fine: $25
+      - Appearance NOT Required
+~
+
+
+
+ 
+
+(c) No Solicitation.
+
+   (1) When a Taxicab is operating, Owners must not allow any service or merchandise to be sold or advertised to any passenger.
+
+   (2) An Owner must not make any arrangement with an owner, manager or employee of any restaurant, bar, night club, cabaret, dance hall, hotel, or any similar place, in which the Driver agrees to solicit or recommend patronage for such places, without prior written approval of the Commission.
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 58-28(c)
+      - Fine: $50 - $200
+      - Appearance Required
+~
+
+
+
+ 
+
+(d) No Disruption of Pedestrian or Vehicular Traffic. An Owner must not Dispatch a Taxicab from a public street or other public area if the Dispatch will prevent the flow of pedestrians or vehicular traffic, or cause inconvenience or annoyance to the public.
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 58-28(d)
+      - Fine: $100
+      - Appearance NOT Required
+~
+
+
+
+ 
+
+
+
+
+
+
+*§ 58-29 Vehicle Condition – Inspections.* ::
+
+
+(a) Required Inspections. No new or replacement Taxicab can operate for hire unless it has been inspected and approved by the Commission.
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 58-29(a)
+      - Fine: $100 and seizure of the vehicle
+      - Appearance NOT Required
+~
+
+
+
+ 
+
+(b) Tri-Annual Inspection. An Owner must have his Taxicab inspected every four months at a date and time designated by the Commission and at any other time deemed necessary by the Commission. The License of an Owner whose Taxicab is not timely inspected will be summarily suspended.
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 58-29(b)
+      - Fine: (penalties below are cumulative)0 - 30 days past inspection due date:$100 and Suspension until compliance31 - 60 days past inspection due date:$100 - $250 and Suspension until compliance61 - 120 days past inspection due date:$250 - $500 and Suspension until complianceMore than 120 days past inspection due date: $500 and/or revocation.
+      - Appearance Required
+~
+
+
+
+ 
+
+(c) Components of Taxicab Inspections. A Taxicab inspection consists of (1) inspection to verify compliance with the inspection items required by Section 301 of the New York State Vehicle and Traffic Law, (2) visual inspection of the interior and exterior of the Taxicab to verify compliance with these Rules, and (3) inspection to verify compliance with any other applicable laws, rules and requirements. If a Taxicab fails any component of the inspection, it must be reinspected until it passes all components of the inspection.
+
+
+
+
+
+
+*§ 58-30 Vehicle Condition – Meet Safety Standards.* ::
+
+
+(a) While a taxicab is in operation, all equipment, including brakes, tires, lights and signals must be in good working order and meet all requirements of the New York State Vehicle and Traffic Law, and the Rules of the Commission.
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 58-30(a)
+      - Fine: $150 if plead guilty before a hearing; $200 if found guilty following a hearing.
+      - Appearance NOT Required
+~
+
+
+
+ 
+
+(b) An Owner must comply with all notices and directives to correct defects in Taxicabs.
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 58-30(b)
+      - Fine: $50 and suspension until the defective condition is corrected.
+      - Appearance N/A
+~
+
+
+
+ 
+
+(c) An Owner must repair or replace a Taxicab when the Commission determines that the vehicle is unsafe or unfit for use as a Taxicab and directs the Owner to remove it from service. The Owner must surrender the Medallion and Rate Card to the Commission for storage and the License will be summarily suspended.
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 58-30(c)
+      - Fine: $100 - $350 and/or suspension up to 30 daysSuspension until compliance
+      - Appearance N/A
+~
+
+
+
+ 
+
+
+
+
+
+
+*§ 58-31 Vehicle Condition – Miscellaneous.* ::
+
+
+(a) Clean. The Taxicab's exterior and interior must be clean.
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 58-31(a)
+      - Fine: $50 if plead guilty before a hearing; $75 if found guilty following a hearing.
+      - Appearance NOT Required
+~
+
+
+
+ 
+
+(b) Trunk. The trunk compartment must be capable of securely holding passengers' baggage.
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 58-31(b)
+      - Fine: $75
+      - Appearance NOT Required
+~
+
+
+
+ 
+
+(c) Shoulder Belts.
+
+   (1) Every Taxicab must be equipped with shoulder belts for both outside front seat positions and both outside rear seat positions.
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 58-31(c)(1)
+      - Fine: $100 - $250
+      - Appearance Required
+~
+
+
+
+ 
+
+   (2) All seat belts and shoulder belts must be clearly visible, accessible and in good working order. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 58-31(c)(2)
+      - Fine: $100 - $250
+      - Appearance Required
+~
+
+
+
+ 
+
+(d) No Alterations. An Owner will make no structural change in a Taxicab or in an OTV that deviates from the Taxicab specifications set forth in 35 RCNY Chapter 67 without the Commission's written approval.
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 58-31(d)
+      - Fine: $100
+      - Appearance NOT Required
+~
+
+
+
+ 
+
+(e) No Physical Movement of Medallion. An Owner must not affix, remove or transfer a Medallion to a new or replacement vehicle without prior authorization of the Commission, except that an Owner can affix additional bolts to a Medallion in order to further secure it.
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 58-31(e)
+      - Fine: $100 - $350 and/or suspension up to 30 days
+      - Appearance Required
+~
+
+
+
+ 
+
+(f) Medallion Number on Roof Light. The Medallion number on the front and rear of the Roof Light must be clean and unobstructed so that the Medallion number is plainly visible.
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 58-31(f)
+      - Fine: $50 if plead guilty before a hearing; $75 if found guilty following a hearing.
+      - Appearance NOT Required
+~
+
+
+
+ 
+
+(g) Illumination. When a Taxicab is in operation for hire after sunset, the following items must be illuminated so that they are clearly visible from the rear seat:
+
+   (1) The face of the Taximeter
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 58-31(g)(1)
+      - Fine: $25
+      - Appearance NOT Required
+~
+
+
+
+ 
+
+   (2) The TLC Driver License
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 58-31(g)(2)
+      - Fine: $200
+      - Appearance Required
+~
+
+
+
+ 
+
+   (3) The Rate Card
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 58-31(g)(3)
+      - Fine: $200
+      - Appearance Required
+~
+
+
+
+ 
+
+(h) Lighting Control. The dashboard dimmer switch or any other device must not control the candlepower of the Roof Light, Taximeter light, card frame light or interior lighting.
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 58-31(h)
+      - Fine: $50 - $350 and/or suspension up to 30 days
+      - Appearance Required
+~
+
+
+
+ 
+
+
+
+
+
+
+
+
+*§ 58-32 Vehicle – Markings &amp; Advertising.* ::
+
+
+(a) Approved Exterior Markings.
+
+   (1) An Owner of a Taxicab must apply to the exterior of the Taxicab markings approved by the Commission.
+
+   (2) An Owner of a Taxicab must obtain the approved Taxicab markings from a person or entity authorized by the Commission to print and distribute the decals. A depiction of the decals and a list of persons authorized to print and distribute the decals will be available on the Commission's website and/or through other means determined by the Commission and announced on its website.
+
+   (3) Authorized Stand-by vehicles must display SBV number decals in lieu of the Medallion number decals.
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 58-32(a)(1)-(3)
+      - Fine: $75
+      - Appearance NOT Required
+~
+
+
+
+ 
+
+(b) Approved Emblems.
+
+   (1) An Owner must not display emblems on the Taxicab exterior, other than an emblem identifying:
+
+      (i) The Owner
+
+      (ii) An association of Owners
+
+      (iii) A Taxicab Drivers' union
+
+      (iv) The Taxicab manufacturer
+
+   (2) These emblems must conform to the Marking Specifications for Taxicabs and will be subject to the approval of the Commission.
+
+   (3) No more than two of the same emblem can be displayed on a Taxicab, unless otherwise authorized by the Commission.
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 58-32(b)(1)-(3)
+      - Fine: $200
+      - Appearance Required
+~
+
+
+
+ 
+
+(c) Other Approved Markings. An Owner must not display any lettering, emblem, advertising or marking of any kind on the exterior of a Taxicab, including windows and exterior accessories, unless authorized by the Commission, except for the following:
+
+   (1) Markings, inscriptions and/or advertising specifically permitted or authorized by the Commission.
+
+   (2) Advertising that is authorized by the Commission on the Vehicle's Rate Card and for which the Owner has obtained a permit from the Commission
+
+   (3) Accessible Taxicab Insignia.
+
+      (i) The design for insignia that will identify the vehicle as an Accessible Taxicab will be provided by the Commission on its website or through other means presented on its website.
+
+      (ii) These insignia must be located on the exterior of the C-pillars of a sedan or an SUV or on the exterior of the D-pillars of a minivan, on both sides of the accessible Taxicab, and will be visible to passengers entering the accessible Taxicab.
+
+   (4) Clean Air Taxicab Insignia.
+
+      (i) The design for insignia that will identify the vehicle as a Clean Air Vehicle will be provided by the Commission on its website or though other means presented on its website.
+
+      (ii) These insignia must be located on the exterior of the C-pillars of a sedan or an SUV or on the exterior of the D-pillars of a minivan, on both sides of such Taxicab, and will be visible to passengers entering the clean air Taxicab.
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 58-32(c)
+      - Fine: $50 if plead guilty before a hearing; $75 if found guilty following a hearing.
+      - Appearance NOT Required
+~
+
+
+
+ 
+
+(d) Maintain in Good Condition. Required inscriptions and markings must be maintained in good condition.
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 58-32(d)
+      - Fine: $75
+      - Appearance NOT Required
+~
+
+
+
+ 
+
+(e) Commercial Use Tax Stamp. An Owner must affix a current New York City commercial use motor vehicle tax stamp to the lower right side of the Taxicab windshield so as to be plainly visible.
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 58-32(e)
+      - Fine: $200
+      - Appearance Required
+~
+
+
+
+ 
+
+(f) Approved Interior Markings. An Owner must not display inside a Taxicab any advertising or other notice not specifically authorized by these rules or the Commission's Marking Specifications for Taxicabs unless approved by the Commission, except for the following:
+
+   (1) Industry signage/logos of all credit/debit cards accepted by the Technology System, all of equal size; and
+
+   (2) Advertising on the Technology System as set forth below in the Taxicab Marking Specifications table (35 RCNY § 58-32(i)) and in 35 RCNY § 67-15(d). 
+									
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 58-32(f)(2)
+      - Fine: $50
+      - Appearance NOT Required
+~
+
+
+
+ 
+
+(g) Braille and Raised Lettering Plaques. An Owner must equip all Taxicabs with both of the following:
+
+   (1) A Taxicab Identification Braille Plaque.
+
+      (i) This plaque must be made of .040 gauge aluminum with a matte finish and measure 3 1/4 inches in length and 1 3/4 inches in height, with radius corners.
+
+      (ii) The plaque must state, in Raster Braille grade two:
+
+         A. The Medallion number centered on the first line,
+
+         B. The word "COMPLAINTS" centered on the second line, and
+
+         C. The telephone number "212 NYC TAXI" centered on the third line.
+
+      (iii) The plaque must be permanently affixed on the door armrest of the horizontal plane of the right rear door, or another location approved by the Chairperson.
+
+   (2) A Taxicab Identification Raised Lettering Plaque.
+
+      (i) This plaque must be made of 1/8-inch thick black acrylic plastic and measure 11 inches in length and five inches in height, with radius corners and four holes (one in each corner) for attachment with screws.
+
+      (ii) The plaque must state, in one inch high white Helvetica lettering that is permanently affixed:
+
+         A. The Medallion number centered on the first line,
+
+         B. The word "COMPLAINTS" centered on the second line, and
+
+         C. The telephone number "212 NYC TAXI" centered on the third line with appropriate spacing between the three words.
+
+      (iii) The plaque must be permanently affixed on the rear of the front right passenger seat or partition, not more than six inches below the lexan or polycarbonate portion of the partition.
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 58-32(g)(2)
+      - Fine: $100. No penalty for missing plaque, if condition is corrected within forty-eight hours
+      - Appearance N/A
+~
+
+
+
+ 
+
+(h) Special Markings for Clean Air Vehicles. Owners of a Clean Air Taxicab must display on the Taxicab's Personal Information Monitor information provided by the Commission that accomplishes the following:
+
+   (1) Identifies the Taxicab as a Clean Air Vehicle
+
+   (2) Includes the address of the Commission web page(s)
+
+   (3) Includes, to the extent practicable:
+
+      (i) Estimated air quality benefits associated with the use of the vehicle, and
+
+      (ii) The type of fuel used to power the vehicle.
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 58-32(h)
+      - Fine: $200
+      - Appearance Required
+~
+
+
+
+ 
+
+(i) Marking Specifications for Taxicabs.
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - INSCRIPTION* 
+      - LOCATION 
+      - SIZE 
+~
+
+
+
+
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - (a) Rate of fare decals [Reserved]
+      -  
+      -  
+    * - (b) Taxicab logo decals (required) (Non-detachable type only.)
+      - Both front doors centered left to right and located in the upper half of the flat surface between the bottom edge of the door and the door handle.The base line of the Taxicab logo decal must be parallel to the bottom door edge.
+      - The size of the Taxicab logo decals must be determined by the Commission
+    * - (c) Medallion number (required)
+      - Front and rear of roof light.
+      - 2 3/4"to 3"high letters 1/2"thick.
+    * - (d)"Owner-Driver"(optional)
+      - Rear of taxi.
+      - 3"maximum height
+    * - (e) EMBLEMS (Optional) (1) Fleet Owner (2) Owner Association (3) Taxicab Drivers' Union insignia (4) Taxicab manufacturer
+      - On rear baggage compartment in lower right corner of deck lid. Consult the Commission if contour of lid requires another location on the lid.
+      - 2"high letters 1/4"thick. Avoid overcrowding
+    * - (f) Medallion number, interior (required). Can be one-piece decal or a stencil. The number must be of a color contrasting with the seat, to provide for easy legibility.
+      - On the back of the front seat.The top of the number must be located not more than two inches below the top of the front seat.
+      - Numbers and letter must be 3"minimum in height.
+    * - (g) Passenger Information Sign. (required) Must contain the information required by the Chairman or his designee.
+      - On the back of the front seat or on a safety partition, displayed in a manner that is clearly visible to the passengers in the back seat.If the taxi is equipped with a safety partition, the passenger information sign can be placed on the partition behind the Driver's head, but no higher than a headrest would be.
+      - Approximately 12"wide by 6"high.
+    * - (h)"Drivers Wanted"sign. Can include the telephone number of the Owner. (Optional)
+      - Rear of taxi.
+      - No more than 24"wide by 3"high.
+    * - (i)"If this taxi is parked for over 24 hours, please call Owner at (telephone number) .  .  ."(Optional)
+      - Rear of taxi or horizontal on dashboard.
+      - No more than 24"wide by 3"high.
+    * - (j) Telephone available, or similar language or symbol (optional)
+      - Exterior, on a door or a side window.
+      - 4"by 6", or smaller.
+    * - (k) Brand name Technology Service Provider
+      - On the bezel of the Technology System
+      - Not to exceed 1 1/4"in height and 4"in length
+    * - (l)"This vehicle is equipped with camera security. YOU WILL BE PHOTOGRAPHED."(Non-detachable decals only)
+      - On rear passenger window
+      - Letters must be at least one-half inch high.
+    * - (m) Medallion number decals (required). (Non-detachable decals only.)
+      - The decals must be applied to both rear quarter panels, just below the rear windows or following the line created by the bottom edge of the windows.On some vehicles, such as minivans, the Medallion number can be placed at the rear of the sliding door.
+      - The size of the Medallion number decals must be determined by the Commission.
+    * - (n) Checkerboard stripe decals [Reserved]
+      -  
+      -  
+    * - (o)"Drivers are not allowed to use cell phones or handheld electronics."Decal or sticker shall be issued by the Commission
+      - Interior of passenger compartment in a location plainly visible to passengers
+      - As issued by the Commission
+    * - (p)"Turning? People are Crossing."The sticker must be obtained pursuant to instructions posted on the Commission's website or through other appropriate means announced on the website. (required)
+      - On the inside of the front windshield, in the center and adjacent to the top of the windshield directly behind the rearview mirror, placed in such a manner not to obstruct the driver's view.
+      - 3.5"wide by 2.5"high.
+    * - (q)"The choices you make behind the wheel matter."The sticker may be obtained pursuant to instructions posted on the Commission's website or through other appropriate means announced on the website. (optional)
+      - On the rear bumper of the vehicle.
+      - 15"wide by 4"high.
+    * - (r)"ATTENTION: Assaulting A Driver Is Punishable By Up to Twenty-Five Years in Prison."The sticker must be obtained pursuant to instructions posted on the Commission website or through other appropriate means announced on its website. (required)
+      - In Taxicabs with a partition, the sticker will be placed above the braille plaque on the partition. In Taxicabs without a partition, the sticker will be placed in a frame on the passenger seat headrest.
+      - 8.0 x 2.0 inches.
+    * - (s) “Taxi and Limousine Drivers Are Protected By New York State Law ATTENTION: Assaulting a driver is punishable by up to twenty-five years in prison.” The sticker may be obtained pursuant to instructions posted on the Commission website or through other appropriate means announced on its website. (optional)
+      - On a rear passenger window.
+      - 3.5 x 3.5 inches.
+    * - (t) The decal will feature the International Symbol of Access for Hearing Loss, described as the profile of an ear with a wide diagonal line running from the bottom left to the top right. The symbol contrast shall be light on dark or dark on light. A"T"will be placed in the lower right-hand corner of each decal. The internal decal will include the language"Induction loop installed. Switch hearing aid to T-coil."
+      - The decal will be placed on the outside of each OTV on the B-pillar and on the inside of each OTV rear passenger compartment on the partition in a location plainly visible to passengers. For vehicles that are not OTVs but have Hearing Induction Loop technology, place as directed by the Chairperson.
+      - The exterior B-pillar decal will be 3.000 x 3.000 inches; the interior passenger compartment decal dimensions will be as issued by the Commission.
+~
+
+ 
+
+ * Detachable signs suspended from door frames are not permitted.
+
+
+
+
+
+
+
+
+*§ 58-33 Vehicles – Items Required in Vehicle.* ::
+
+
+(a) The following must be present in the Taxicab while it is in operation for hire:
+
+   (1) The Rate Card, in the Driver's License frame
+
+   (2) An insurance card or photocopy, unless the Owner is self insured and has noted this fact on the Rate Card along with any other information required by the Commission
+
+   (3) All other notices required to be posted in the Taxicab
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 58-33(a)(1)-(3)
+      - Fine: $25 for each not in vehicle, not to exceed $75 in the aggregate
+      - Appearance NOT Required 
+~
+
+
+
+ 
+
+   (4) A means of collecting and recording all of the Trip Sheet data.
+
+
+
+
+
+
+
+
+*§ 58-34 Vehicle Equipment.* ::
+
+
+(a) Roof Light. A roof light is required on all Taxicabs, as required by the Hack-Up specifications in Chapter 67; the Taxicab Owner must ensure compliance with the following:
+
+   (1) Controlled by Taximeter. The Taxicab Roof Light must be automatically controlled by the operation of the Taximeter so that it is lighted only when the Taximeter is in an off position and unlighted when the Taximeter is in a recording position. An Owner must not tamper with the operation of the Taxicab's Roof Light.
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 58-34(a)(1)
+      - Fine: $50 - $350 and/or suspension up to 30 days
+      - Appearance Required
+~
+
+
+
+ 
+
+(b) Optional Two-way Radio.
+
+   (1) A Taxicab can be equipped with a two-way radio only in the Citizens Radio Service and only on the forty frequencies, within allowed deviation, specifically authorized under the rules of the Federal Communications Commission.
+
+   (2) Emissions, transmission power and antenna length must comply with limits established by the rules of the Federal Communications Commission.
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 58-34(b)
+      - Fine: $100 - $350 And removal of radio
+      - Appearance N/A
+~
+
+
+
+ 
+
+(c) Air Conditioning. Each Taxicab must be equipped with an operable air conditioning system; when the vehicle is also equipped with a partition, the air conditioning system must be able to provide cool air to the rear passenger area.
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 58-34(c)
+      - Fine: $50
+      - Appearance Required
+~
+
+
+
+ 
+
+(d) Trouble Lights. An Owner must ensure that all Taxicabs bearing such Owner's Medallion(s) are equipped with a help or distress signaling light system meeting the requirements of 35 RCNY § 67-11.
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 58-34(d)
+      - Fine: $175 and suspension until the condition is corrected. Respondent must provide a condition corrected form issued by the TLC's Safety and Emissions Division.
+      - Appearance NOT Required
+~
+
+
+
+ 
+
+(e) Optional Rooftop Advertising Fixture.
+
+   (1) An Owner may equip a Taxicab with an authorized Rooftop Advertising Fixture in accordance with 35 RCNY § 67-16.
+
+   (2) The Owner must remove a Rooftop Advertising Fixture if the TLC terminates such authorization in accordance with 35 RCNY § 67-16(e).
+
+   (3) An Owner must not use any rooftop advertising fixture unless the Owner has obtained a permit to use such a fixture
+
+   (4) An Owner can use only an authorized Rooftop Advertising Fixture.
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 58-34(e)(1)-(4)
+      - Fine: $200
+      - Appearance NOT Required
+~
+
+
+
+ 
+
+   (5) An Owner shall be prohibited from installing any advertising material if a Vehicle Owner reasonably objects to the express or implied content of such material. A Vehicle Owner may, but cannot be compelled to, waive this right to object by providing an Owner a blanket prior written consent to all advertising material. If such Vehicle Owner does not waive this right, and there is a dispute with respect to such advertising, Owner and Vehicle Owner shall name a third party who shall decide any such dispute. If the Owner and Vehicle Owner cannot agree on who shall decide the dispute they may obtain the assistance of any alternate dispute resolution service with offices in the City of New York, the cost of which service will be equally shared by the Owner and the Vehicle Owner. The definition of Vehicle Owner for this paragraph includes the title owner of the Taxicab vehicle, or the long-term lessee of the Taxicab vehicle where the vehicle lease has a conditional purchase agreement for the vehicle.
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 58-34(e)(5)
+      - Fine: $150 for every thirty days the advertising material is posted on the taxicab, if plead guilty before a hearing; $200 for every thirty days the advertising material is posted on the taxicab, if found guilty following a hearing.
+      - Appearance NOT Required
+~
+
+
+
+ 
+
+(f) Operable Rear Windows. An Owner must equip all Taxicabs with an operable rear window that meets the requirements of 35 RCNY § 67-08(c).
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 58-34(f)
+      - Fine: $75
+      - Appearance NOT Required
+~
+
+
+
+ 
+
+(g) E-Hail Application Devices.
+
+   (1) A Taxicab may be equipped with or the Driver may utilize a device with an E-Hail Application installed. A Driver's use of an E-Hail Application is subject to the requirements of subdivision 35 RCNY § 80-14(g) except that a Driver may accept an E-Hail request with a single touch using pre-programmed buttons or using voice activation while the vehicle is in motion. Use of such device by a Driver is optional and an Owner cannot require a Driver to use an E-Hail Application. A Driver may use no more than one electronic device with an E-Hail Application, separate from the Technology System and/or a device provided for the Accessible Dispatch program.
+
+   (2) An Owner must not permit a Taxicab to be equipped with a device that allows a Driver to accept payment electronically other than:
+
+      (i) the Technology System, or
+
+      (ii) A device with a licensed E-Hail Application installed, which may only be used to process payment through the licensed E-Hail Application.
+
+   (3) The installation or mounting of any device with an E-Hail Application installed is subject to Commission approval. The installation or mounting of such device must not obstruct the Driver's view of the road, or the Driver or Passenger's view of the Taximeter. 
+									
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 58-34(g)
+      - Fine: $350 if plead guilty before a hearing; $500 if found guilty following a hearing.
+      - Appearance NOT Required
+~
+
+
+
+ 
+
+(h) Dispatch equipment. An Accessible Taxicab is required to have Dispatch Equipment installed in the Vehicle.
+
+
+
+
+
+
+
+
+*§ 58-35 Vehicle Equipment – Partitions.* ::
+
+
+(a) Partition Required.
+
+   (1) A Taxicab must be equipped with a partition unless exempt from this requirement.
+
+   (2) An Owner must ensure that all Taxicabs, except as provided in subdivision (b) of this section, are equipped with a partition that meets the specifications set forth in 35 RCNY § 67-10, and with provision for air conditioning for the rear passenger compartment, as set forth in 35 RCNY § 67-14.
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 58-35(a)
+      - Fine: $300 and suspension until the condition is corrected
+      - Appearance Required
+~
+
+
+
+ 
+
+(b) Exemption from Partition Requirement. A Taxicab Owner will be exempt from the provisions of subdivision (a) of this section provided the Taxicab is equipped with the following:
+
+   (1) The required Trouble Lights.
+
+   (2) A cellular telephone with an emergency dialing feature.
+
+   (3) An approved In-Vehicle Camera System that meets the requirements of 35 RCNY § 67-12.
+
+(c) Curtain Airbags Modification. (Not Applicable to Official Taxicab Vehicles or Accessible Official Taxicab Vehicles).
+
+   (1) A Taxicab with a partition that is equipped with factory installed curtain airbags will be equipped with a modified partition that does not extend the full width of the interior of the Taxicab.
+
+   (2) The modified partition instead must allow a space of six inches at each side, sufficient to permit proper deployment of the curtain airbags.
+
+   (3) The modified partition must conform in all other respects with the applicable requirements of 35 RCNY § 67-10.
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 58-35(c)
+      - Fine: $300 and suspension until the condition is corrected
+      - Appearance Required
+~
+
+
+
+ 
+
+
+
+
+
+
+
+
+*§ 58-36 Vehicle Equipment – In Vehicle Camera System (IVCS).* ::
+
+
+(a) When an existing in-vehicle camera system is required to be replaced or when the system is installed, the Taxicab must be equipped with an IVCS that meets the specification of 35 RCNY § 67-12; the system must be installed and maintained by the manufacturer's authorized installer or a Taximeter Business that meets the requirements of 35 RCNY § 67-12; and the IVCS must be functioning and maintained in good working order. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 58-36(a)
+      - Fine: $350 if plead guilty before a hearing and supply a condition corrected form issued by TLC's Safety and Emissions Division; $450 if found guilty following a hearing. Suspension until the condition is corrected.
+      - Appearance NOT Required
+~
+
+
+
+ 
+
+(b) Each Taxicab equipped with an IVCS must be equipped with a cellular telephone as set forth in subdivision (b) of this section. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 58-36(b)
+      - Fine: $50
+      - Appearance NOT Required
+~
+
+
+
+ 
+
+(c) Each Taxicab equipped with an IVCS must display decals on each rear passenger window, visible to the outside, that contain the following information: "This vehicle is equipped with camera security. YOU WILL BE PHOTOGRAPHED." 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 58-36(c)
+      - Fine: $50
+      - Appearance NOT Required
+~
+
+
+
+ 
+
+
+
+
+
+
+*§ 58-37 Vehicle Equipment – Taximeters.* ::
+
+
+(a) Taximeter Requirements. An Owner must equip the Taxicab with a Taximeter subject to the following conditions:
+
+   (1) The Taximeter must be of a make and type acceptable to the Commission. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 58-37(a)(1)
+      - Fine: $50
+      - Appearance NOT Required
+~
+
+
+
+ 
+
+   (2) The Taximeter’s fare indicating mechanism must be affixed to the vehicle's dashboard so that it is clearly readable and visible to all passengers in the vehicle. 
+									
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 58-37(a)(2)
+      - Fine: $50
+      - Appearance NOT Required
+~
+
+
+
+ 
+
+   (3) The Taximeter's serial number or software version number must be the same as that shown on the Rate Card assigned to the Taxicab; or entered on the Rate Card by a Licensed Taximeter shop. 
+									
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 58-37(a)(3)
+      - Fine: $500
+      - Appearance NOT Required
+~
+
+
+
+ 
+
+   (4) The Taxicab tire size must be the same as that for which the Taximeter is calibrated, as indicated by the Rate Card. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 58-37(a)(4)
+      - Fine: $50
+      - Appearance NOT Required
+~
+
+
+
+ 
+
+   (5) All Taximeter seals must be installed by a Licensed Taximeter repair shop or agent of the Commission. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 58-37(a)(5)
+      - Fine: $500
+      - Appearance Required
+~
+
+
+
+ 
+
+   (6) The wiring harness leading from the Taximeter to the speed sensor must have no unapproved intervening connectors, splices, "Y" connections, or direct or indirect interruptions or connections of any kind whatsoever. 
+									
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 58-37(a)(6)
+      - Fine: $500
+      - Appearance Required
+~
+
+
+
+ 
+
+(b) Accuracy of Taximeter. A Taxicab must be equipped with a Taximeter that is in good working condition and will accurately compute the rate of fare currently established by the Commission. Penalties for violation are as follows:
+
+   (1) 1% Inaccurate. The penalty is $50, if the Taximeter is found to be at least 52.8 feet (one percent) inaccurate, but less than 264 feet (five percent) inaccurate in computing distance, or more than one percent but less than five percent inaccurate in computing time.
+
+   (2) 5% Inaccurate. The penalty is $200, if the Taximeter is found to be at least 264 feet (five percent) inaccurate but less than 528 feet (ten percent) inaccurate in computing distance, or more than five percent but less than ten percent inaccurate in computing time.
+
+   (3) 10% Inaccurate. The penalty is $300, if the Taximeter is found to be at least 528 feet (ten percent) inaccurate in computing distance or ten percent inaccurate in computing time, for a first violation.
+
+   (4) Repeated 10% Inaccuracy. The penalty is $600, if the Taximeter is found to be at least 528 feet (ten percent) inaccurate in computing distance or ten percent inaccurate in computing time, for a second or subsequent violation within thirty-six months.
+
+
+
+
+
+
+
+
+*§ 58-38 Vehicle Equipment – Taximeter Defects.* ::
+
+
+(a) No Defects in Taximeter or Installation. A Taxicab must not be in service for hire with a defective Taximeter or a Taximeter that has been improperly installed.
+
+(b) Repair or Replace Defective Taximeter. Whenever a Taximeter or its installation is defective or whenever a Taximeter computes an inaccurate rate of fare, the Owner must have the Taximeter:
+
+   (1) Repaired, tested and certified at a licensed Taximeter Business, or
+
+   (2) Replaced by the Taximeter Business with an approved Taximeter that has been inspected, tested and sealed;
+
+(c) Assembly Must be Certified. After repair or replacement of the Taximeter, the Taximeter/vehicle assembly must be tested and certified in compliance with Commission regulations. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 58-38(a)-(c)
+      - Fine: $100
+      - Appearance NOT Required
+~
+
+
+
+ 
+
+(d) Repairs by Licensed Agent. No adjusted, repaired or recalibrated Taximeter or appurtenance of a Taximeter can be installed in a Taxicab unless the adjustment, repair or recalibration was done at a licensed Taximeter repair shop or other authorized facility; the Owner is responsible for any installation that violates this rule. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 58-38(d)
+      - Fine: $75
+      - Appearance NOT Required
+~
+
+
+
+ 
+
+
+
+
+
+
+*§ 58-39 Vehicle Equipment – Taximeter Tampering.* ::
+
+
+(a) Unauthorized Tampering. Unless authorized by the Commission, no person will tamper with, alter, repair or attempt to repair any portion of the Taximeter system that would affect the operation of the Taximeter or the Technology System, including, but not limited to:
+
+   (1) The Taximeter
+
+   (2) The Technology System
+
+   (3) Any seal affixed to the Taxicab by a licensed Taximeter repair shop or other authorized facility
+
+   (4) Any cable connection, cable system electrical wiring, or wireless connections
+
+   (5) The vehicle's mechanism or its tires.
+
+(b) Owner's Responsibility. The Owner is responsible for any tampering, alteration or any unauthorized repair or attempt to repair. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 58-39(a) &amp; (b)
+      - Fine: $250 - 1,500 and/or suspension up to 30 days. suspension until compliance under to 35 RCNY § 68-16
+      - Appearance N/A
+~
+
+
+
+ 
+
+(c) Owner's Defense. It will be an affirmative defense to a violation of this section that the Owner:
+
+   (1) Did not know of or participate in the alleged tampering of the Taximeter or Technology System; and
+
+   (2) Exercised due diligence to ensure that tampering with the Taximeter or Technology System does not occur. Examples of an Owner's due diligence include, but are not limited to:
+
+      (i) Clearly warning Drivers that if they violate the Taximeter or Technology System tampering rules, Owner will:
+
+         A. Immediately terminate any lease agreement Owner has with the Driver; and
+
+         B. Report the tampering violation to the Commission, which will result in the probable revocation of their TLC Driver License;
+
+      (ii) Including the warning against violating the Taximeter and Technology System tampering rules as a provision in any written lease agreement;
+
+      (iii) Stamping the warning against violating the Taximeter and Technology System tampering rules on any written Trip Records whenever paper Trip Records must be issued to one or more Taxicab Drivers;
+
+      (iv) Conducting periodic random comparisons of the odometer and the Taximeter mileage readings of a Taxicab to check for any inappropriate disparities;
+
+      (v) Conducting periodic random inspections of the Taximeter and the Technology System in all the Owner's Taxicabs to detect any evidence of tampering; and
+
+      (vi) Having all of the Owner's Taxicabs inspected by a licensed Taximeter shop once every inspection cycle.
+
+(d) Notify the Commission of Tampered, Unauthorized or Removed Taximeter. An Owner must notify the Commission by telephone immediately, and in writing within 24 hours, upon discovering any of the following:
+
+   (1) Any Taximeter other than the Taximeter approved by the Commission (as indicated on the Rate Card) has been installed in the Owner's Taxicab;
+
+   (2) Any Taximeter seal in the Owner's Taxicab has been removed or tampered with;
+
+   (3) Any unauthorized device has been connected to any Taximeter, any seal, cable connection or electrical wiring, in the Owner's Taxicab, which can affect the operation of the Taximeter;
+
+   (4) Any intervening connections, splices, "Y" connections or direct or indirect interruptions or connections of any kind whatsoever have been discovered on any wiring harness attached to the Taximeter in the Owner's Taxicab. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 58-39(d) (1)-(4)
+      - Fine: $500 - $1,000 and/or suspension up to 60 days or revocation
+      - Appearance Required
+~
+
+
+
+ 
+
+(e) Inspections by Authorized Person.
+
+   (1) A Taxicab's Taximeter must be tested for accuracy over a measured mile course and its installation must be tested for compliance with the rules of the Commission.
+
+   (2) Only personnel authorized by the Commission can perform these tests.
+
+   (3) These two inspections must be completed and the results of the tests indicated on the Rate Card in each of the following circumstances:
+
+      (i) At least once every 12 months. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 58-39(e)(3)(i)
+      - Fine: $150 if plead guilty before a hearing; $200 if found guilty following a hearing.
+      - Appearance NOT Required
+~
+
+
+
+ 
+
+      (ii) Whenever a Taximeter is installed in a vehicle or a Taximeter’s metrological system is updated. 
+									
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 58-39(e)(3)(ii)
+      - Fine: $100
+      - Appearance NOT Required
+~
+
+
+
+ 
+
+      (iii) When the transmission or differential is altered, repaired or replaced 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 58-39(e)(3)(iii)
+      - Fine: $50
+      - Appearance NOT Required
+~
+
+
+
+ 
+
+      (iv) When a change is made in any other part of the Taxicab that can affect the Taximeter reading 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 58-39(e)(3)(iv)
+      - Fine: $50
+      - Appearance NOT Required
+~
+
+
+
+ 
+
+      (v) At any other time required by the Commission. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 58-39(e)(3)(v)
+      - Fine: $100
+      - Appearance NOT Required
+~
+
+
+
+ 
+
+
+
+
+
+
+
+
+*§ 58-40 Vehicle Equipment – Technology System Installation.* ::
+
+
+(a) Required Installation. Owners must ensure that all of their Taxicabs are equipped with a Technology System provided by a licensed Technology System Provider, and otherwise meet the requirements of these provisions.
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 58-40(a)
+      - Fine: $1,000 and suspension until compliance
+      - Appearance Required
+~
+
+
+
+ 
+
+(b) E-Hail Application. Any licensed E-Hail Application that provides for E-Payment used in a Taxicab must integrate with the Technology System or Taximeter. Owner must not allow any E-Hail Application to be used to process payment that is not a licensed E-Hail Application. 
+									
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 58-40(b)
+      - Fine: $350 if plead guilty before a hearing; $500 if found guilty following a hearing.
+      - Appearance NOT Required
+~
+
+
+
+ 
+
+
+
+
+
+
+
+
+*§ 58-41 Vehicle Equipment – Technology System Operation.* ::
+
+
+(a) Good Working Order. Owners must ensure that the Technology System equipment is constantly maintained and is in good working order. 
+									
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 58-41(a)
+      - Fine: $150 if plead guilty before a hearing and supply a condition corrected form issued by TLC’s Safety and Emissions Division; $200 if found guilty following a hearing. Suspension until the condition is corrected.
+      - Appearance NOT Required
+~
+
+
+
+ 
+
+(b) Failure to Operate.
+
+   (1) If the Technology System malfunctions or fails to operate, an incident report must be filed with the licensed Technology System Provider within two hours following the discovery of the malfunction.
+
+   (2) If the Driver or Owner’s Agent filed the incident report, the Owner will not be required to file a separate incident report but must verify the filing by obtaining the incident report number.
+
+   (3) The Owner or Owner’s Agent must meet the appointment for repair scheduled by the Technology System Provider following the incident report.
+
+(c) 48-Hour Repair Deadline. A Taxicab in which any material feature of the Technology System is not functioning must not operate more than 48 hours following the timely filing of an incident report. 
+									
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 58-41(c)
+      - Fine: $250 and suspension until compliance
+      - Appearance Required
+~
+
+
+
+ 
+
+(d) Inspection upon Multiple Technology System Malfunctions. The Owner of any Taxicab requiring six or more repairs of the Technology System in any 30 day period must promptly take the vehicle for inspection to, or schedule an inspection with, the Commission’s Safety and Emissions Facility. This requirement will not apply to the Owner if compliance is made by the Driver or Agent of the vehicle. 
+									
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 58-41(d)
+      - Fine: $250
+      - Appearance Required
+~
+
+
+
+ 
+
+
+
+
+
+
+
+
+*§ 58-42 Vehicles – Use of Stand-by Vehicles (SBV).* ::
+
+
+(a) Who Can Use. Only a Fleet can maintain and use Stand-By Vehicles.
+
+(b) When Used. A Stand-by Vehicle can be used in place of a currently Licensed Taxicab only in the following circumstances and for the length of time indicated below:
+
+   (1) When the currently Licensed Taxicab is out of service for repairs or for required inspection, until the repairs or inspection have been completed
+
+   (2) When a Vehicle has been stolen, for no more than 30 days after the date stolen
+
+   (3) When a vehicle has been permanently retired from service, for no more than 30 days from the date of retirement.
+
+(c) Maximum Number of Stand-By Vehicles. A Fleet can maintain Stand-by Vehicles equal to 10% of the total number of current Medallion Taxicabs owned or operated by the Fleet.
+
+(d) Medallion to be Transferred to Stand-By Vehicle. When a Stand-by Vehicle is Dispatched, the Medallion and Medallion number in the Roof light of the out-of-service Taxicab must be transferred to the Stand-by Vehicle.
+
+(e) Required in the Stand-By Vehicle. A Stand-by Vehicle must not be Dispatched unless the SBV transfer form and the SBV Rate Card are present in the vehicle. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 58-42(a)-(e)
+      - Fine: $50 - 350 and/or suspension up to 30 days.
+      - Appearance Required
+~
+
+
+
+ 
+
+
+
+
+
+
+*§ 58-43 Medallion Transfers – Overview.* ::
+
+
+(a) Applicability of the "Medallion Transfer" Sections.
+
+   (1) The "Medallion Transfers" sections of this Chapter, along with "Licensing" 35 RCNY § 58-04 and 35 RCNY § 58-05, establish the rules for all Transfers of a Taxicab Medallions between/among private parties, either by:
+
+      (i) Purchase
+
+      (ii) Gift
+
+      (iii) Bequest, or
+
+      (iv) Operation of law.
+
+   (2) These provisions do not apply to the sale or resale of Medallions by the Commission, as described in 35 RCNY Chapter 65.
+
+   (3) Except where the provisions specifically reference Secured Lenders, these provisions do not apply to Secured Lender Recipients.
+
+(b) Overview of Requirements to Complete and Effect Transfer. The transfer of an interest in a Taxicab Medallion will be complete and effective upon all of the following:
+
+   (1) Commission Approval. Commission approval of the Transferee's application
+
+   (2) Proper Appearances. All persons described in 35 RCNY § 58-44(a) below must appear before the Commission.
+
+   (3) Transfer Tax Payment. A Transferee of a Taxicab Medallion must satisfy his or her transfer tax liability as determined by the NYC Department of Finance, prior to or at the time of transfer.
+
+   (4) Fulfillment of the Licensing Requirements. The parties to the transfer must fulfill the Licensing requirements set forth in 35 RCNY § 58-04 and 35 RCNY § 58-05.
+
+   (5) Fulfillment of Tort Liability Requirements. The parties to the transfer must fulfill the Tort Claim liability requirements set forth in 35 RCNY § 58-47, below.
+
+   (6) Fulfillment of the Medallion Clearance Requirements. The parties to the transfer must fulfill the applicable Medallion Clearance Requirements set forth in 35 RCNY § 58-46 below.
+
+   (7) Medallion Put into Service. Each Transferee, as well as any Administrator seeking to operate a Medallion under 35 RCNY § 58-48 below, must place the Medallion in service with a Hacked-up Taxicab vehicle within seven days of approval of the approval of the application. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 58-43(b)(7)
+      - Fine: $250
+      - Appearance NOT Required
+~
+
+
+
+ 
+
+(c) Comply with Transfer Provisions.
+
+   (1) No person or entity is permitted to attempt to transfer or participate in the transfer of an interest in any Taxicab Medallion without fulfilling the requirements of subdivision (b) above, as applicable.
+
+   (2) The mere act of submitting a transfer application to the Chairperson will not be considered as a violation of this subdivision. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 58-43(c)
+      - Fine: $10,000 per entity, per Medallion and attempted transfer invalid, applicable to any person or persons (transferor, transferee or both) whose actions constituted a violation;Revocation may be ordered.
+      - Appearance NOT Required
+~
+
+
+
+ 
+
+
+
+
+
+
+*§ 58-44 Medallion Transfers – Special Requirements.* ::
+
+
+(a) Personal Appearance.
+
+   (1) All Transferees or Administrator applicants seeking to operate a transferred Medallion must appear in person as directed by the Chairperson.
+
+   (2) If the Transferee applicant is a Business Entity, the following Business Entity Persons must appear in person before the Commission:
+
+      (i) All individual shareholders of a corporate entity
+
+      (ii) All general partners of a partnership entity
+
+      (iii) All members of a Limited Liability Company.
+
+   (3) Exception to Personal Appearance Requirement. A power of attorney can appear and represent any Applicant or Business Entity Person of a Business Entity Applicant who:
+
+      (i) Holds an existing, continuing License from the Commission, and
+
+      (ii) Has an electronic fingerprint record on file with the Commission, made not earlier than one year prior to the date of the transfer.
+
+(b) Transfers During and After Pending Judgment.
+
+   (1) No voluntary transfer or sale of an interest in a Taxicab License can be made if a judgment docketed with the clerk of court of any county within the City of New York remains unsatisfied against the Licensee and in favor of any state, federal or New York City government agency unless:
+
+      (i) A bond is filed in an amount sufficient to satisfy the judgment,
+
+      (ii) All the judgment creditors of a Licensee file written permission for the transfer, or
+
+      (iii) The proceeds from the transfer are paid into court or held in escrow, on terms and conditions approved by the Commission, to protect the rights of all parties that can have a legitimate interest.
+
+   (2) An Owner's interest a Taxicab License can be transferred involuntarily and disposed of by public or private sale in the same manner as personal property. In that event:
+
+      (i) Owner's License will be immediately cancelled,
+
+      (ii) A new License will be issued to the new owner when the Transfer is properly approved and the transfer is effective, and
+
+      (iii) If the transfer is by reason of a tort judgment against the involuntary Transferor, no bond need be provided with respect to that judgment.
+
+(c) Voluntary Transfer During Revocation Proceedings.
+
+   (1) The Owner must not transfer his Taxicab License after the commencement of revocation proceedings without the written permission of the Chairperson.
+
+   (2) The Chairperson can also require that no relative of the Medallion Owner or any other person or entity affiliated with the Owner receive the Taxicab License.
+
+   (3) The Chairperson can also require an escrow be held in an amount to be determined by the Chairperson after an approved closing in order to satisfy any fines subsequently levied against the Owner.
+
+(d) Preserve Medallion Category.
+
+   (1) A transfer of an Independent Medallion will be made only to an approved individual or Business Entity that does not own any interest in any other Medallion; similarly, the transfer of a Minifleet Medallion will be made only to a Transferee approved to own and operate a Fleet or Minifleet.
+
+   (2) An Independent Medallion Owner must not have a financial interest in any other Taxicab.
+
+   (3) A Minifleet Medallion Owner must not have a financial interest in any Independent Medallion Taxicab.
+
+   (4) For the purpose of this subdivision (d), "financial interest" will mean an ownership interest or an interest received as a pledge or security or subject to a security agreement to secure financing.
+
+(e) Additional Requirements for Transfers Made by Conditional Sales Agreements. Where an interest in a Medallion is acquired through a conditional sales agreement, the following requirements apply:
+
+   (1) The parties must provide the Commission with a disclosure statement indicating the terms of the agreement.
+
+   (2) The seller must remain liable for any fines or penalties imposed against the Taxicab License for violations occurring during the term of the agreement, unless they are paid by the purchaser.
+
+   (3) The seller must notify the Commission in writing if the seller repossesses the Taxicab within 72 hours of the sale (exclusive of weekends and holidays).
+
+   (4) The parties to a conditional sales agreement are subject to the Lease Cap provisions in 35 RCNY § 58-21.
+
+   (5) No conditional transfer shall be effective until the parties have completed all the requirements for transfer required by this Chapter.
+
+
+
+
+
+
+*§ 58-45 Medallion Transfers – Application Documentation and Requirements.* ::
+
+
+(a) Application. An Applicant/Transferee must file a completed application in the form prescribed by the Chairperson.
+
+(b) Payment of Fees. An Applicant/Transferee must pay the following fees:
+
+   (1) A transfer fee of Fifty Dollars ($50).
+
+   (2) An administrative charge of $160.
+
+   (3) The licensing and inspection fees required under 35 RCNY § 58-07.
+
+(c) Proof of Identity. An individual Transferee and all Business Entity Persons of a Business Entity Transferee must:
+
+   (1) Provide proof of identity in the form specified in 35 RCNY § 58-04(a), and
+
+   (2) Disclose any trade name under which the Transferee intends to operate.
+
+(d) Owner-Must-Drive Proof. If the Transferee is acquiring an interest in a Medallion from an Independent Taxicab Owner, Transferee must provide the Valid License number of the person who will fulfill the service requirements of the Owner-Must-Drive Rule in 35 RCNY § 58-05(d).
+
+(e) Proof of Vehicle Ownership. Transferee must provide proof that Transferee has or will have an appropriate vehicle, by providing either:
+
+      (i) A bill of sale of a vehicle eligible to be used as a Taxicab (see 35 RCNY Chapter 67, Taxicab Hack-Up), or
+
+      (ii) An affidavit specifying that the Transferee will have a vehicle to be used as a Taxicab within the seven days following the effective date of the transfer (see 35 RCNY § 58-43(b)(7), above).
+
+(f) Payment of Fines and Fees. An Applicant/Transferee must provide proof of payment of any outstanding fines or fees owed to the Commission, the Parking Violations Bureau (or their successors) by the Transferee or any Business Entity Persons of a Business Entity Transferee.
+
+(g) Source of Funds.
+
+   (1) An Applicant/Transferee must provide documentation in a form satisfactory to the Chairperson detailing the sources of the funds, if any, Transferee is using to purchase the Medallion, including:
+
+      (i) Copies of bank account passbooks or bank statements;
+
+      (ii) Affidavit explaining cash sums and deposits over $10,000 paid to or by the Transferee within six months prior to the date of submission of this documentation;
+
+      (iii) Affidavits from donors of any gifts;
+
+      (iv) Statements from secured and/or unsecured lenders detailing amounts lent, security if any, and terms of payment; and
+
+      (v) Copies of IRS Form 8300 filed by any Broker in connection with funds received in the context of the transaction.
+
+   (2) If the transfer is by gift or is for less than Market Value, the Transferee must produce a waiver letter from the NYC Department of Finance along with any documentation referred to in the waiver.
+
+(h) Additional Documents Required from Corporate Transferee Applicants. Any corporate Applicant/Transferee or any Applicant seeking to purchase an interest in a corporation must provide, for that corporation:
+
+   (1) All newly formed corporations must include a copy of the certificate of incorporation and the filing receipt of the certificate of incorporation.
+
+   (2) Established corporations can include the documents described in (i) above alternatively, they can include a certified copy of the certificate of incorporation.
+
+   (3) All corporations must include a copy of the resolution or action by the incorporators, shareholders or directors electing officers of the corporation.
+
+   (4) All corporations must include a list of stockholders, with the number of shares owned by each.
+
+(i) Additional Documents Required for Partnerships. Any partnership Transferee Applicant or any Applicant seeking to purchase an interest in a partnership must provide for that partnership:
+
+   (1) A copy of the certificate of partnership
+
+   (2) A list of the partners, including the percentage owned by each.
+
+(j) Additional Documents Required for Limited Liability Companies. Any LLC Transferee Applicant or any Applicant seeking to purchase an interest in an LLC must provide for that LLC:
+
+   (1) A copy of the articles of organization
+
+   (2) A copy of the operating agreement
+
+   (3) A list of the members, with the percentage owned by each.
+
+(k) Additional Document Required from a Foreign Business Entity. Any Business Entity not organized under the laws of the State of New York must also provide proof of authorization to operate in New York.
+
+(l) Documents Required from a Secured Lender Recipient. If the transfer is the result of a foreclosure or similar action by a creditor, the following documents must be provided:
+
+   (1) A hypothecation agreement, stock pledge or stock pledge agreement if the transfer is occurring by transfer of, or foreclosure upon, stock;
+
+   (2) A UCC Article 9 Foreclosure "Affidavit of Disbursements" showing that all claims have been satisfied or will be satisfied or acceptable documentation regarding any claims not satisfied;
+
+   (3) Copies of UCC-1 filings (including file stamp or file number) filed against the former Owner or Owner's interest in the Medallion;
+
+   (4) Copies of all security agreements involved in the transfer in respect of the lenders' interests in the Medallion;
+
+   (5) A bill of sale, if any, or proof of other transfer in connection with any security agreement;
+
+   (6) If the Medallion was sold in an auction, proof of advertisement of the auction together with the attendance sheet;
+
+   (7) If the Medallion was sold outright, a copy of the Notice of Sale.
+
+(m) Affidavits Required by the Commission. Transferees must provide:
+
+   (1) An affidavit or affirmation under penalty of perjury, in a form approved by the Chairperson, that the Applicant does not rely upon the actions or determination of the Commission with respect to the Medallion; and
+
+   (2) Any other affidavit or affirmation regarding documentation required by the Chairperson.
+
+(n) Lien Searches. An Applicant/Transferee must submit with the application:
+
+   (1) Copies of a NYS UCC lien search of the Transferor/Owner,
+
+   (2) Copies of a lawsuit and judgment search for all counties in which the transferor has been domiciled for the shorter of (i) five years, or (ii) length of time the transferor has owned the Medallion being transferred,
+
+   (3) Copies of all active records found in the search, and
+
+   (4) An affidavit or affirmation, under penalty of perjury, from the Applicant/Transferee and the transferor warranting that:
+
+      (i) They have reviewed and are familiar with the contents of all of the searches
+
+      (ii) All disclosed liens and judgments will be:
+
+         A. Satisfied prior to or from the proceeds of the transfer
+
+         B. Included in the escrow amount, or
+
+         C. Assumed by the Applicant.
+
+(o) Tort Letters to Establish Escrow Amount. The application of any Transferee subject to the Tort Liabilities rules in 35 RCNY § 58-47 below (and except as excused in 35 RCNY § 58-47(d)) must include all of the following:
+
+   (1) All Tort Letters from the transferor's insurer(s) during the shorter of
+
+      (i) Six years, or
+
+      (ii) The length of time the transferor has owned the Medallion up to and including the date the Medallion is put into storage or the date prior to the effective date of transfer.
+
+   (2) Any documentation that may be required regarding any potential Excess Claims that the Tort Letters may disclose.
+
+   (3) Any information held by the Applicant/Transferee or transferor regarding any potential Excess Claims.
+
+   (4) Any other information held by the Applicant/Transferee or Transferor that might be necessary to determine the Escrow Amount.
+
+(p) Transferring the Technology System. The application must include the following information regarding the Technology System:
+
+   (1) Proof of Notice to the Technology System Provider.
+
+      (i) The Transferor must provide proof that notice of the transfer has been sent to the Technology System Provider that holds the contract to provide the Technology System for the Medallion being transferred.
+
+      (ii) The notice must be:
+
+         A. Sent at least 30 days prior to the proposed date of transfer (NOTE: The Technology System Provider can waive the 30-day requirement by signing the form)
+
+         B. Sent by certified mail, return receipt requested, and
+
+         C. Sent to the address specified in the contract
+
+      (iii) Proof of notice will be:
+
+         A. A copy of the Notice
+
+         B. A copy of the certified mail receipt, and
+
+         C. An affidavit or affirmation under penalty of perjury verifying the mailing
+
+   (2) Transferor's Statement of Intent. The Transferor must use a form approved by the Chairperson to:
+
+      (i) Provide a statement of Transferor's intent to
+
+         A. Cancel the contract with the Technology System Provider or
+
+         B. Assign the contract to the Transferee.
+
+      (ii) Provide a statement of Transferor's intent to:
+
+         A. Return the Technology System to the Technology System Provider,
+
+         B. Retain the Technology System, or
+
+         C. Transfer the Technology System to the Transferee.
+
+   (3) Transferee's Statement of Intent. The Transferee must use a form approved by the Chairperson to provide a statement of Transferee's intent to:
+
+      (i) Assume the Transferor's contract with the Technology System Provider, or
+
+      (ii) Identify the licensed Technology System Provider which the Transferee intends to use to provide the Technology System.
+
+(q) Other Documentation. The Applicant must provide any other documentation required by the Chairperson in order to assist in the Chairman in determining whether the proposed Transferee meets the criteria for licensing and ownership of a Taxicab Medallion.
+
+
+
+
+
+
+
+
+*§ 58-46 Medallion Transfers – Transferor Must Clear the Medallion.* ::
+
+
+(a) Place in Storage. Before a Medallion can be transferred, it must be placed in storage for at least seven days not counting the day it is put in storage or the day the clearance is given. (Exception: A Medallion owned by a corporation or LLC need not be placed in storage if the transfer is to be accomplished by a transfer of stock or membership interests in the company.)
+
+(b) Clear All Open Items. All open items against the Medallion Owner/Transferor (including any Business Entity Person of the Owner) must be cleared, including but not limited to summons issued by the Commission, outstanding fines and penalties owed to the Commission or the Parking Violations Bureau (or their successors), incomplete License renewal requirements, and violations against the TLC Driver License.
+
+(c) Requirements of Secured Lenders. Any secured lender that obtains possession of a Medallion through foreclosure, repossession or in any similar manner, must place the Medallion in storage with the Chairperson.
+
+
+
+
+
+
+
+
+*§ 58-47 Medallion Transfers – Tort Claims.* ::
+
+
+(a) Applicability.
+
+   (1) This 35 RCNY § 58-47 applies:
+
+      (i) To all Transferees other than Administrators and Legatees.
+
+      (ii) To all Transferors other than an Administrator/operator making a distribution to a Legatee.
+
+   (2) This 35 RCNY § 58-47 does not apply to Secured Lender Recipients.
+
+(b) Provisions for Satisfaction of Tort Liabilities.
+
+   (1) The parties to any applicable transfer must prove that provisions have been made to satisfy all outstanding tort claims against the Transferor of the Taxicab Medallion.
+
+   (2) This can be accomplished either by:
+
+      (i) Posting a bond with the Chairperson to cover all outstanding tort liabilities; or
+
+      (ii) Establishing an escrow account in the Escrow Amount (not exceeding the Maximum Escrow Amount), determined as described in subdivision (c) below.
+
+   (3) No transfer of the Taxicab Medallion(s) can occur until:
+
+      (i) The bond is posted
+
+      (ii) The Escrow Amount is established and the escrow agent has given an undertaking to the Chairperson to establish and hold the escrow account on the terms required by this 35 RCNY § 58-47 and to notify the Chairperson within five days after the escrow account has been established, or
+
+      (iii) It is determined by the Chairperson that neither a bond nor an escrow account is required.
+
+   (4) Secured Lender Recipients must create an escrow account in the amount of the Secured Lender Escrow Amount.
+
+(c) Determining the Amount of the Escrow Account.
+
+   (1) Identify Potential Claimants. The Transferor must identify the holders of all potential Excess Claims, by obtaining and reviewing the following sources of information:
+
+      (i) All Valid Claim Letters held in Commission files
+
+      (ii) Prior Claim Letters held in Commission files
+
+      (iii) Tort Letters
+
+      (iv) Potential claims revealed through the lien, judgment and lawsuit searches required under 35 RCNY § 58-45(n), above.
+
+   (2) Notify Potential Claimants.
+
+      (i) The Transferor must provide adequate mail notice, as described in subdivision (3) below, to the holder of each potential Excess Claim. The notice must state the following:
+
+         A. Whether the Transferor believes the holder's claim is a potential Excess Claim and the dollar amount (including $0) that Transferor proposes to establish for that claimant's claim.
+
+         B. That the claimant has 30 days from the date of the notice to object to the amount by sending a written response to the Transferor (with a copy to the Commission, attention Legal Department Transfer Division); the response must state the basis for claimant's objection to the proposed Escrow Amount.
+
+         C. That if the Commission does not receive the claimant's objection within the 30 day period, the Commission will consider the claimant to have accepted the Transferor's proposal regarding the Escrow Amount to be established for the claim.
+
+         D. That claimant's acceptance of or failure to object to the Transferor's proposed Escrow Amount will not affect any rights, claims or remedies the claimant has directly against the Transferor.
+
+      (ii) If the Commission does not receive the claimant's objection within 30 days from the date of the notice, the Commission will consider the claimant to have accepted the Transferor's proposal regarding the Escrow Amount to be established for the claim.
+
+   (3) Adequate Mail Notice to Potential Claimants. Transferor's notice to potential claimants must be sent by certified mail, return receipt requested, with a copy also sent by regular mail and a copy sent to the Commission, attention "Legal Department Transfer Division," as follows:
+
+      (i) For potential claimants disclosed by the lien, judgment and lawsuit searches required under 35 RCNY § 58-45(n) above, adequate notice will be considered given if the following steps are taken:
+
+         A. Notice is sent to the address for the claimant disclosed by the search
+
+         B. If this mailing is returned as non-deliverable, the notice is sent to any other address for the claimant or claimant's attorney of record disclosed by the search.
+
+      (ii) For potential claimants disclosed by a Prior Claim Letter or a Valid Claim Letter, adequate notice will be considered given if the following steps are taken:
+
+         A. Notice is sent to the sender of the letter and
+
+            i. To the claimant at the address disclosed in the letter, or
+
+            ii. If no address for the claimant is disclosed, to whatever address the sender provides in the letter.
+
+         B. If these mailings are returned as non-deliverable, notice must be sent to any subsequent address provide for claimant by:
+
+            i. The sender of the letter, or
+
+            ii. The recipient of the notice at the subsequent address of a further address for claimant.
+
+      (iii) For potential claimants disclosed by a Tort Letter, adequate notice will be considered given if the following steps are taken, as necessary:
+
+         A. Notice is sent to the address disclosed in, by or through the Tort Letter or to any counsel of record disclosed in, by or through the Tort Letter
+
+         B. If neither the claimant's address nor counsel of record is disclosed by the Tort Letter, Transferor must consult with the insurers providing the Tort Letter to ascertain an address for claimant or for claimant's counsel of record and notice must be sent to any address provided by the insurer
+
+         C. If a recipient of the notice at this address (or any subsequent recipient who is neither the claimant or claimant's counsel) provides a subsequent address for claimant or claimant's counsel, notice must be mailed to all subsequently provided addresses
+
+         D. If no address can be obtained for the claimant or claimant's counsel or representative, public notice of the contents of the notice must be placed in the New York Times and The New York Law Journal as a public notice for one business day.
+
+      (iv) The Transferor must provide the Chairperson with proof of all mailings by providing:
+
+         A. A copy of the mailing receipts
+
+         B. An affidavit or affirmation under penalty of perjury verifying the mailings.
+
+   (4) Response to Claimant's Objection. If a claimant sends a timely objection, the Chairperson will refer the matter to OATH to determine the amount of claimant's claim to be included in the Escrow Amount.
+
+      (i) OATH's rules of practice will govern the proceedings and OATH will apply principles of tort law.
+
+      (ii) For the purposes the this proceeding, the OATH terminology will apply as follows:
+
+         A. The claimant will be considered to be the "Petitioner"
+
+         B. The response sent by claimant objecting to the proposed Escrow Amount will be considered to be the "Petition"
+
+         C. Transferor will be considered the "Respondent"
+
+         D. Transferor's original notice to claimant will be considered to be the "Answer."
+
+   (5) Settling the Escrow Amount by Agreement.
+
+      (i) At any time, the Transferor and claimant can agree on the amount of the claim to be used in establishing the Escrow Amount for the claim.
+
+      (ii) If the parties reach an agreement, it must be verified in writing and signed by both parties with a copy provided to the Chairperson.
+
+   (6) Finalizing the Escrow Amount. If the parties have not reached agreement:
+
+      (i) The Chairperson will make a final determination of the required Escrow Amount for each claim, as follows:
+
+         A. Any Escrow Amount determined by OATH will be the Escrow Amount for that claim;
+
+         B. When the claimant has not objected, the Chairperson's determination will be based on the Transferor's proposed Escrow Amount for the claim;
+
+         C. If the claimant and the Transferor have come to a written agreement, the Chairperson's determination will be based on that agreement.
+
+      (ii) The Chairperson's determination will be a final agency determination regarding Escrow Amount(s) for the purpose of transferring the Medallion, but is not and is not intended to determine the actual merits of the claim(s).
+
+(d) When the Escrow Amount Cannot Be Reasonably Determined.
+
+   (1) If Tort Letters cannot be obtained for all or any part of the period for which they are required to be provided (see 35 RCNY § 58-45(o) above) the Escrow Amount will be as follows:
+
+      (i) When a Secured Lender Recipient is foreclosing on a Taxicab License and the transfer is occurring as a result of that action, the escrow account will be established in the amount of the Secured Lender Escrow Amount;
+
+      (ii) For all other applicable Transferors, the escrow account will be established in the Maximum Escrow Amount.
+
+   (2) An escrow account created with either a Secured Lender or Maximum Escrow Amount must be maintained for the shorter of:
+
+      (i) Six years following the date of transfer, or
+
+      (ii) As required by subdivision (e) below, provided that all Tort Letters have been obtained and Transferor has determined the appropriate Escrow Amount under subdivision (c) above.
+
+(e) The Escrow Account When Amount Is Determinable.
+
+   (1) Creating the Escrow Account.
+
+      (i) Once the Escrow Amount has been determined, an escrow account in that amount will be established from the proceeds of the transfer or other resources of the Transferor and maintained until all claims represented in the account are satisfied or released, as described subdivision (2) below.
+
+      (ii) The Escrow Account can be held by either:
+
+         A. Counsel for the claimant,
+
+         B. Counsel for the Transferor, or
+
+         C. Otherwise as the claimant and Transferor agree.
+
+      (iii) The parties must notify the Chairperson as to who is holding the account.
+
+   (2) Releasing Funds from the Escrow Account.
+
+      (i) Any person or entity seeking a release of funds from the escrow account must show that the claim is no longer outstanding by providing one of the following forms of evidence:
+
+         A. Proof of release of the claim
+
+         B. Proof of satisfaction of the claim
+
+         C. Proof of dismissal of the underlying claim
+
+         D. Agreement of the parties settling the claim
+
+         E. A court judgment directing payment of all or part of the Escrow Amount to a party.
+
+      (ii) If the evidence is a court order, it must be a final order, fully executed and, if necessary, filed or entered.
+
+      (iii) No funds will be released from the escrow account without the prior written approval of the Chairperson. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 58-47(e)
+      - Fine: $10,000
+      - Appearance NOT Required
+~
+
+
+
+ 
+
+
+
+
+
+
+*§ 58-48 Medallion Transfers – Special Provisions Regarding Estates and Incompetency.* ::
+
+
+(a) Notice. Notice of the death or the declaration of incompetency of a Medallion Owner must be given to the Chairperson promptly upon the occurrence. A Medallion Owner which is a Business Entity must also give prompt notice upon the death or the declaration of incompetency of a shareholder, partner, or member of a Business Entity. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 58-48(a)
+      - Fine: $250 for failure to notify.
+      - Appearance NOT Required
+~
+
+
+
+ 
+
+(b) Distribution of Interest in Medallion to Legatee.
+
+   (1) To A Legatee. When a Medallion(s) or an interest in a company or corporation that owns a Medallion(s) is distributed from an estate, the Legatee recipient must qualify as a Transferee under the applicable rules in this Chapter 58, and must submit the following additional documents to the Commission:
+
+      (i) A certified copy of the death certificate of the former Owner listed with the Commission;
+
+      (ii) A certified copy of letters testamentary or letters of administration and for an estate not in New York, a certified copy of ancillary letters testamentary or letters of administration covering the estate's New York property, which letters:
+
+         A. Must have been issued no earlier than six months prior to the date of submission
+
+         B. Must be unqualified as to the amount of estate assets that the Executor is authorized to administer and distribute or, if the amount is qualified, it must be in excess of the value of the Medallion(s) to be operated or transferred.
+
+      (iii) A certified copy of the will, if any.
+
+   (2) Additional Requirements for Distribution to a Legatee in Trust.
+
+      (i) An interest in a Medallion Taxicab can only be distributed to a Trust if the distribution is made to a trust for the benefit of a minor and:
+
+         A. The ownership interest is in the stock of a corporation, or
+
+         B. The interest is in membership of an LLC that owns one or more Medallions.
+
+      (ii) The ownership interest in the Taxicab Medallion must be distributed out of the trust within 60 days after the date on which the beneficiary reaches the age for ownership of a Taxicab Medallion (see 35 RCNY § 58-04(b)).
+
+      (iii) The beneficiary must apply and be approved as a Transferee under these Medallion Transfer rules before the transfer will be effective.
+
+      (iv) Notice must be given to the Chairperson promptly upon the beneficiary reaching the age for ownership of a Taxicab Medallion.
+
+(c) Additional Requirements for Temporary Operation of Medallion Taxicab.
+
+   (1) If an Owner of an interest in a Taxicab Medallion dies or is declared incompetent by a court of competent jurisdiction, the Medallion can continue to be operated by an Agent for a period of up to 120 days following the date of death or declaration of incompetency.
+
+   (2) If, during the 120-day period, an Administrator is appointed, the administrator will have 60 days from the date of appointment to apply and be approved under the applicable Medallion Transfer rules to operate the Medallion; an Agent can continue to operate the Medallion during this 60-day period.
+
+   (3) If the decedent or incompetent Owner was an Independent Medallion Owner, the Owner-Must-Drive Rule (see 35 RCNY § 58-05(d)) will be waived for the 120-day period as well as during the 60-day period following the appointment of an Administrator, if the appointment occurs during the 120-day period; the Owner-Must-Drive rule will apply to an Administrator who is approved to operate the Taxicab.
+
+   (4) If no one has been approved by the Commission to operate the Medallion by the end of the 120-day period, the Medallion must be placed in storage until an Administrator or new person has qualified to operate the Medallion.
+
+   (5) If no Administrator, Legatee or other new owner associated with the estate has qualified to operate the Medallion by the end of the 180-day period from the date of the death or declaration of incompetency of the Owner:
+
+      (i) The interest in the Medallion must be transferred to a Transferee who has applied and been approved as a Transferee by the Commission.
+
+      (ii) The Medallion must remain in storage until the transfer is effective. 
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 35 RCNY § 58-48(c)
+      - Revocation may be ordered if medallion operated beyond, or not transferred by, the periods specified.
+      - Appearance NOT Required
+~
+
+
+
+ 
+
+
+
+
+
+
+*§ 58-50 Accessible Vehicle Conversion.* ::
+
+
+(a) Accessible Vehicle Hack-up: Unrestricted and Alternative Fuel Minifleet Medallions.
+
+   (i) Beginning on the Accessible Conversion Start Date, any Unrestricted Medallion which is a Minifleet Medallion for which a new vehicle is placed into service must be Hacked-up with an Accessible Taxicab meeting the requirements of 35 RCNY § 67-05.2 until at least 50 percent of the Unrestricted Minifleet Medallions owned by such Minifleet are Hacked-up with an Accessible Taxicab that meets the requirements of 35 RCNY § 67-05.2.
+
+   (ii) Following the Accessible Conversion Start Date and beginning at such time that there is available a vehicle qualified for use with an Alternative Fuel Medallion that is also qualified as an Accessible Taxicab under 35 RCNY Chapter 67, any Alternative Fuel Minifleet Medallion for which a new vehicle is placed into service must be Hacked-up with a vehicle that is qualified for use with both an Alternative Fuel Medallion and an Accessible Medallion under 35 RCNY Chapter 67, until at least 50 percent of the Alternative Fuel Minifleet Medallions owned by such Minifleet are Hacked-up with such vehicles.
+
+(b) Accessible Vehicles Hacked-up. An Accessible Vehicle, as indicated by vehicle identification number, which is Hacked-up with any Minifleet Medallion in order to comply with Accessible Taxicab Hack-up requirements for a Minifleet Medallion under subdivision (a) of this section can satisfy an Accessible Taxicab Hack-up requirement under subdivision (a) only at the time of first Hack-up.
+
+(c) Accessible Vehicle Hack-up: Unrestricted and Alternative Fuel Independent Medallions.
+
+   (i) Beginning on the Accessible Conversion Start Date, 50 percent of all Unrestricted Medallions which are Independent Medallions for which a new vehicle is placed into service in each calendar year must be Hacked-up with an Accessible Taxicab meeting the requirements of 35 RCNY § 67-05.2.
+
+   (ii) Following the Accessible Conversion Start Date and beginning at such time that there is available a vehicle qualified for use with an Alternative Fuel Medallion that is also qualified as an Accessible Taxicab under 35 RCNY Chapter 67, 50 percent of all Alternative Fuel Independent Medallion for which a new vehicle is placed into service in each calendar year must be Hacked-up with a vehicle that is qualified for use with both an Alternative Fuel Medallion and an Accessible Medallion under 35 RCNY Chapter 67.
+
+   (iii) The TLC will select the Independent Medallions that will be subject to this requirement in a bi-annual lottery. This procedure will also be used for Alternative Fuel Medallions when a qualifying vehicle is available. The lottery will determine accessible vehicle Hack-up requirements for Independent Medallions (including Alternative Fuel Independent Medallions when applicable) until the next following scheduled vehicle replacement for those medallions.
+
+   (iv) The TLC will conduct the lottery on or before January 1 of each year for medallions which must place an Accessible Taxicab into service from July 1 to December 31 of that year. For medallions which must place an Accessible Taxicab into service from January 1 to June 30 of the next calendar year, the lottery will be held on or before July 1 of the preceding year.
+
+   (v) The TLC will post on its Web site which Independent Medallions must be Hacked-up with an Accessible Taxicab meeting the requirements of 35 RCNY § 67-05.2 as soon as practicable following the lottery.
+
+   (vi) Those Medallions that are not selected in the lottery held pursuant to paragraph (iv) of this subdivision to Hack-up an Accessible Taxicab in their next vehicle replacement will be required to place an Accessible Taxicab into service in their next following scheduled vehicle replacement.
+
+(d) Any vehicle valid for use with an Unrestricted Medallion or Alternative Fuel Medallion and Hacked-up prior to the Accessible Conversion Start Date can remain in use as a Taxicab until its scheduled retirement as set forth in 35 RCNY § 67-18, as may be modified by 35 RCNY § 67-19.
+
+(e) Transfer of Accessible Vehicle Conversion Requirement.
+
+   (i) In any calendar year, any Owner or vehicle owner required to Hack-up a Medallion with an Accessible Vehicle under this Rule will be permitted to transfer such requirement to any other Owner or vehicle owner who is not subject to that requirement and is required to Hack-up a vehicle during the same calendar year.
+
+   (ii) Any Owner or vehicle owner wishing to transfer the Accessible Vehicle conversion requirement as provided in paragraph (i) of this subdivision must provide notice to the Chairperson in the form specified by the Chairperson at least 60 days prior to the scheduled retirement date, as set forth in 35 RCNY § 67-18, as may be modified by 35 RCNY § 67-19, of the transferor's vehicle or of the transferee's vehicle, whichever is earlier.
+
+   (iii) Any Owner agreeing to accept the Accessible Vehicle conversion requirement pursuant to paragraph (i) of this subdivision must follow all requirements of this Rule as if such owner were required to Hack-up an Accessible Vehicle pursuant to subdivisions (a) or (c) of this Section.
+
+(f) Conversion through Scheduled Retirement: A Taxicab Medallion required to be placed into service with an Accessible Vehicle under this Section must continuously be Hacked-up with an Accessible Vehicle for a minimum of four years.
+
+(g) Any Owner of a Taxicab Medallion placed into service with an Accessible Taxicab pursuant to this section must comply with all requirements of 35 RCNY Chapter 53.
+
+(h) The TLC will review the Taxicab Improvement Fund annually, by no later than the end of April, beginning in 2017, to assess the adequacy of the Fund, the uses of the Fund, and the surcharge funding the Fund receives, and will produce a report annually with the result of its assessment and recommendations and analysis. Such recommendations and analysis shall include but not be limited to the following: (i) whether the current surcharge should be lowered, raised or kept the same; (ii) a review of possible alternate sources of funding for the Fund other than the surcharge; and (iii) the costs incurred by Owners and Drivers that are required to purchase and operate Accessible Vehicles as opposed to those Owners and Drivers who are not so required. Such report shall be submitted to the Speaker of the NYC Council and posted on TLC's website upon completion of the report.
+
+(i) The provisions of this section do not apply to Accessible Medallions that were originally issued as Accessible Medallions. Owners of taxicabs in service with Accessible Medallions that were originally issued as Accessible Medallions will not receive grants funded by the Taxicab Improvement Fund.
+
+(j) Taxi Improvement Fund Allocations. Owners of Medallions and Drivers of Medallions who have submitted all required forms and documentation as specified by the Chairperson will receive allocations from the Taxi Improvement Fund as follows:
+
+   (1) Owners of Medallions who have placed an Accessible Taxicab into service will receive:
+
+      (i) Hack-up Payment. A one-time subsidy payment of at least $14,000, determined by the Commission and posted on the Commission's website. Such payment will be the same for all eligible Medallion Owners. Such a payment will be allocated to a Medallion only if the Accessible Vehicle operating on such Medallion has not previously received such a payment. This determination will be based on the Vehicle Identification Number (VIN) of the Accessible Vehicle.
+
+      (ii) Accessible Vehicle Operational Payments. A series of equal payments adding up to no less than a total of $16,000. The frequency and amount of such payments will be determined by the Commission and posted on the commission's website, but such payments will be made at least three (3) times per year. Such payments will be the same for all eligible Medallion Owners. Payments will be issued provided that the Accessible Taxicab:
+
+         A. Meets the vehicle inspection requirements of 35 RCNY § 58-29, and
+
+         B. With the exception of the first payment following initial Hack-up, has completed a minimum of 250 Passenger trips since the previous inspection.
+
+         C. Was logged onto the Accessible Taxi Dispatcher system through the Dispatch Equipment while in operation during the period since the previous inspection.
+
+   (2) Drivers of Accessible Taxicabs will receive periodically, a per-trip payment for each Passenger trip while driving an Accessible Taxicab. The per-trip payment amount will be at least 70 percent of the number obtained by dividing the estimated balance of the driver portion of the Taxicab Improvement Fund collected in the previous calendar year by the number of Accessible Taxicab trips estimated for the current calendar year. The per-trip payment amount will be posted on the TLC Web site.
+
+   (3) Allocation amounts provided for in Paragraphs (1) and (2) of this subdivision will be reviewed and adjusted as provided in Subdivision (h) of this section.
+
+
 
 
 
@@ -31159,6 +24085,10 @@ To qualify as a Taxicab Model, a sport utility vehicle must include the manufact
 
    (3) The Taximeter and all connections must be secure and tamper proof. All switches, wiring and caps must meet applicable specifications of the Society of Automotive Engineers.
 
+   (4) Reserved.
+
+   (5) The Taximeter must, at the end of the trip, display the total sum of the fare and any extras, taxes, or surcharges assessed on the trip.
+
 
 
 
@@ -34991,13 +27921,8 @@ No E-Hail Application will be approved by the Commission pursuant to this Chapte
 
 (d) Use Restrictions. An E-Hail Application must conform to the following use restrictions or other specifications:
 
-   (1) The E-Hail Application must not operate:
-
-      (i) At John F. Kennedy International Airport; and
-
-      (ii) At LaGuardia Airport;
-
-   (2) The E-Hail Application must not transmit requests for transportation or Hails to any Driver who is not validly licensed to drive a Taxicab or Street Hail Livery or who is operating a Vehicle that does not have a Valid Taxicab License, per the listings on TLC's Current Licensees webpage. 
+   (1) The E-Hail Application must not transmit requests for transportation or Hails to any Driver who is not validly licensed to drive a Taxicab or Street Hail Livery or who is operating a Vehicle that does not have a Valid Taxicab License, per the listings on TLC's Current Licensees webpage. 
+									
 
  
 
@@ -35005,7 +27930,7 @@ No E-Hail Application will be approved by the Commission pursuant to this Chapte
 .. list-table::
     :header-rows: 1
 
-    * - 35 RCNY § 78-21(d)(1) and (2)
+    * - 35 RCNY § 78-21(d)(1)
       - Penalty: $400 fine and/or suspension up to 30 days
       - Appearance Required
 ~
@@ -35014,11 +27939,11 @@ No E-Hail Application will be approved by the Commission pursuant to this Chapte
 
  
 
-   (3) The E-Hail Application must be available to a Driver ONLY when the Vehicle is standing or stopped, except that an E-Hail App can permit a Driver to accept an E-Hail request with a single touch using pre-programmed buttons or using voice activation while the vehicle is in motion. All other use of the E-Hail Application must be velocity gated by the E-Hail App Provider to prevent its use while the vehicle is in motion.
+   (2) The E-Hail Application must be available to a Driver ONLY when the Vehicle is standing or stopped, except that an E-Hail App can permit a Driver to accept an E-Hail request with a single touch using pre-programmed buttons or using voice activation while the vehicle is in motion. All other use of the E-Hail Application must be velocity gated by the E-Hail App Provider to prevent its use while the vehicle is in motion.
 
-   (4) The E-Hail Application must NOT disclose to a Driver any information about a potential Passenger except the Passenger's pickup location, except that a Passenger's trip identification number or E-Hail App user name may be transmitted to the Driver after the Driver has accepted the Passenger's E-Hail request.
+   (3) The E-Hail Application must NOT disclose to a Driver any information about a potential Passenger except the Passenger's pickup location, except that a Passenger's trip identification number or E-Hail App user name may be transmitted to the Driver after the Driver has accepted the Passenger's E-Hail request.
 
-   (5) A Driver must have to affirmatively opt in to use the E-Hail Application and must be able to opt out of receiving E-Hail requests from Passengers while on duty.
+   (4) A Driver must have to affirmatively opt in to use the E-Hail Application and must be able to opt out of receiving E-Hail requests from Passengers while on duty.
 
 (e) Wheelchair Accessibility. The E-Hail Application must make a wheelchair accessible option available to allow requesting Passengers to indicate that they would like a wheelchair accessible vehicle.
 
@@ -37621,7 +30546,7 @@ The holder of a Valid Paratransit Driver’s License is authorized to drive a St
 
  
 
-   (4) A Driver of a Taxicab must not solicit or cruise for the purpose of soliciting Passengers or accept Passengers for transportation with the use of an E-Hail Application:
+   (4) A Driver of a Taxicab must not solicit or cruise for the purpose of soliciting Passengers:
 
       (i) At Kennedy, La Guardia or Newark Airports.
 
@@ -40705,9 +33630,9 @@ Chapter 82: Street Hail Livery Service
 
 (l) Retaliation.
 
-   (1) A Street Hail Livery Owner must not retaliate against any Driver for making a good faith complaint against any Owner.
+   (1) An Owner of a Street Hail Livery License must not retaliate against any Driver or Vehicle owner for making a good faith complaint against any Street Hail Livery License Owner.
 
-   (2) Retaliation will be broadly construed, and will include imposing any adverse condition or consequence on the Driver or withholding or withdrawing any beneficial condition or consequence from the Driver.
+   (2) Retaliation will be broadly construed, and will include imposing any adverse condition or consequence on the Driver or Vehicle owner or withholding or withdrawing any beneficial condition or consequence from the Driver or Vehicle owner.
 
  
 
@@ -40716,7 +33641,7 @@ Chapter 82: Street Hail Livery Service
     :header-rows: 1
 
     * - 35 RCNY § 82-16(l)
-      - Fine: $1,000 plus restitution to the driver for losses for the first violation and a fine of $10,000 plus restitution to the driver for the second violation within five years.
+      - Fine: $1,000 plus restitution to the driver or vehicle owner for losses for the first violation and a fine of $10,000 plus restitution to the driver or vehicle owner for the second violation within five years.
       - Appearance NOT Required
 ~
 
@@ -43815,7 +36740,7 @@ Chapter 82: Street Hail Livery Service
 
 (a) Grant Amounts.
 
-   (1) Accessible Vehicles. The maximum Grant amount is $30,000. This consists of a single payment of $14,000 to be paid following the successful Hack-up of the Qualified Vehicle, and a maximum of eight (8) subsequent payments of $2,000 to be paid following each successful bi-annual vehicle inspection during the four-year period after Hack-up. This amount will be approved only for Qualified Vehicles which, at the time the Grant application is submitted, meet all of the following:
+   (1) Accessible Vehicles. The Grant consists of a single payment of $14,000 to be paid following the successful Hack-up of the Qualified Vehicle, and subsequent payments of $2,000 to be paid following each successful bi-annual vehicle inspection. The initial payment amount of $14,000 will be approved only for Qualified Vehicles which, at the time the Grant application is submitted, meet all of the following:
 
       (i)  Be of the most recent model year or the next two most recent model years and,
 

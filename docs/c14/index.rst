@@ -1,6 +1,311 @@
 Title 28: Housing Preservation and Development
 ===================================================
 
+Chapter 2: Rules and Regulations Pursuant To Article Viii-a of the Private Housing Finance Law of New York and Title I of the Housing and Community Development Act of 1974
+--------------------------------------------------
+
+
+
+*§ 2-01 General Provisions.* ::
+
+
+(a) Purpose. This chapter (and any applicable regulations promulgated by the governmental authority providing funds for the rehabilitation or improvement) shall govern the making of loans for rehabilitation and improvement pursuant to Article VIII-A of the Private Housing Finance Law of the State of New York.
+
+(b) Definitions. As used in these rules and regulations, the following terms shall have the meanings set forth below:
+
+   Administrative Code. "Administrative Code" shall mean the Administrative Code of the City of New York.
+
+   City. "City" shall mean the City of New York.
+
+   Commissioner. "Commissioner" shall mean the Commissioner (or Acting Commissioner) of the Department or the chief executive officer (or acting chief executive officer) of any successor to the Department.
+
+   Department or Dept. "Department" or "Dept." shall mean the Department of Housing Preservation and Development of the City or any successor thereto.
+
+   Dwelling unit. "Dwelling unit" shall mean any residential accommodation in a multiple dwelling.
+
+   Housing Maintenance Code. "Housing Maintenance Code" shall mean the Housing Maintenance Code of the City constituting Chapter 2 of Title 27 of the Administrative Code.
+
+   Multiple Dwelling Law. "Multiple Dwelling Law" shall mean the Multiple Dwelling Law of the State of New York.
+
+   Multiple dwelling or building. "Multiple dwelling" or "building" shall mean an existing dwelling within the City which is rented or leased to be occupied, or is occupied, as the residence of three or more families living independently of each other, and for which a loan application is made under the program.
+
+   Occupancy by persons or families of low income. "Occupancy by persons or families of low income" shall mean occupancy by persons or families paying rentals or carrying charges not in excess of the average rentals or carrying charges prevailing in local projects of municipally-aided limited-profit housing companies aided under Article II of the Private Housing Finance Law of the State of New York, the occupancy of which commenced on or after May 18, 1970. The rental or carrying charge for any such projects assisted under § 236 of the United States Housing Act of 1937 shall mean the fair market rental or carrying charge determined from time to time in accordance with the provisions of the agreement with the housing company pursuant to said section. Notwithstanding the foregoing, "occupancy by persons or families of low income" in single room occupancy housing shall mean occupancy by persons paying rentals not in excess of seventy-five (75) percent of the Moderate Rehabilitation Fair Market Rents for 0-bedroom units. "Moderate Rehabilitation Fair Market Rent" shall mean one hundred twenty (120) percent of the amount, less tenant utility allowance where applicable, which is indicated for 0-bedroom units on the then current Existing Housing Fair Market Rent Schedule for the § 8 Existing Housing Assistance Payments Program under the administration of the Department. Where the Department determines on the basis of a market survey or other acceptable and documented evidence that the market rents for dwelling units in the immediate neighborhood where the building is located exceeds the applicable Existing Housing Fair Market Rents, the Department may increase said rents by an amount not to exceed ten (10%) percent.
+
+   Owner. "Owner" shall mean an individual, partnership, corporation or other entity, including a non-profit company, a mutual company, or a housing development fund company, which holds record title in fee simple to the premises or is the lessee thereof under a lease having an unexpired term of not less than fifteen years.
+
+   Premises. "Premises" shall mean the multiple dwelling or the building and includes the land upon which it is situated.
+
+   Program. "Program" shall mean the program for the making of loans pursuant to Article VIII-A of the Private Housing Finance Law of the State of New York and this chapter.
+
+   Rehabilitation. "Rehabilitation" or "rehabilitation or improvement" shall mean the curing of any substandard or insanitary condition or conditions, or the replacement, repair or upgrading of heating, plumbing, electrical and related systems.
+
+   Rent or rental. "Rent" or "rental" shall also mean carrying charge whenever the multiple dwelling is cooperatively owned. This definition shall not apply to 28 RCNY § 2-04(a)(2).
+
+   Single room occupancy housing. "Single room occupancy housing" shall mean dwelling units which:
+
+      (1) may be lawfully occupied as the residence of single individuals capable of living independently of each other and do not contain either food preparation facilities or sanitary facilities or both, or
+
+      (2) are otherwise used and maintained for such occupancy in full compliance with the building's certificate of occupancy and the provisions of the New York State Multiple Dwelling Law.
+
+   Useful life of the dwelling. "Useful life of the dwelling" shall mean the period of time, as determined by the Dept., that the multiple dwelling is expected to be habitable at a level of comfort, safety and sanitation compatible with current requirements of state and city statutes, ordinances and administrative regulations, where there is regular maintenance and care of the major building systems by competent mechanics.
+
+   Useful life of the rehabilitation or improvement. "Useful life of the rehabilitation or improvement" shall mean the period of time as determined by the Department that the improvement is expected to function in good condition, with routine maintenance and repair.
+
+
+
+
+
+
+*§ 2-02 Eligibility and General Conditions.* ::
+
+
+(a) Eligible buildings. 
+
+   (1) Loans may be made to an owner of a multiple dwelling located within the City to enable or assist such owner to eliminate a substandard or insanitary condition or conditions in violation of the Multiple Dwelling Law or the Housing Maintenance Code of the City of New York or to provide for the replacement and rehabilitation of the heating, plumbing, electrical and related systems or other improvements as shall be reasonably necessary to prolong the useful life of such dwelling.
+
+   (2) No loan shall be made unless the average rent for dwelling units in the building is not in excess of the average rent prevailing in local projects of municipally-aided limited-profit housing companies aided under Article II of the Private Housing Finance Law of the State of New York, the occupancy of which commenced on or after May 18, 1970, except for loans made to rehabilitate single room occupancy housing, in which cases the average rent for such units in the building shall not exceed seventy-five (75%) percent of the Moderate Rehabilitation Fair Market Rent as defined in 28 RCNY § 2-01(b) "Occupancy by persons or families of low income", for 0-bedroom units.
+
+(b) Allowable costs. At the discretion of the Dept., loan proceeds may be advanced to finance the following items of cost incurred in connection with the rehabilitation or improvement:
+
+   (1) Construction costs and filing fees required by the Department of Buildings and other governmental agencies having jurisdiction.
+
+   (2) Interim interest on the loan proceeds.
+
+   (3) Recording and filing fees and mortgage taxes.
+
+   (4) Payment and Performance Bond(s).
+
+   (5) Fees or charges attributable to the examination and insurance of title.
+
+   (6) Real estate taxes, assessments, water and meter charges and sewer rents.
+
+   (7) Fire insurance premiums.
+
+(c) Maximum amount. The loan amount shall not exceed an average of ten thousand ($10,000) dollars per dwelling unit or the actual cost of the rehabilitation or improvement, whichever is less.
+
+(d) Term. The term of a loan shall not exceed twenty years, except that the term of a loan whose amount exceeds an average of five thousand ($5,000) dollars per dwelling unit shall not exceed thirty (30) years. In no event shall the term of any loan exceed the useful life of the rehabilitation or improvement.
+
+(e) Interest rate. The interest rate shall be three (3%) percent per annum, except where otherwise determined by the Department.
+
+(f) Protection of mortgage lien. Subsequent to the loan closing, the Department at its discretion may pay any liens and charges the priority of which are superior to its mortgage and may pay such other expenses as may be appropriate to protect its loan or to protect the lien of the mortgage relating thereto, provided that such expenditures shall not exceed one-half of the total amount of the loan.
+
+
+
+
+
+
+*§ 2-03 Application Procedure.* ::
+
+
+(a) Application forms. Application forms may be obtained from the Department, 100 Gold Street, New York, N.Y. 10038, Attention: Article VIII-A Loan Program. All applications shall be submitted to the Department for review and approval.
+
+(b) Eligible applicants. Loan applications may be submitted by an owner or his duly authorized agent or by a contract vendee who becomes an owner prior to or simultaneously with the loan closing.
+
+(c) Application submission. The application, in form specified by the Department, shall include the following:
+
+   (1) A description of the rehabilitation or improvement and the estimated cost thereof.
+
+   (2) The name, address and telephone number of the applicant, the owner, the managing agent and the holders of existing mortgages and other liens against the multiple dwelling.
+
+   (3) A statement of income and expenses for a period of time to be determined by the Department.
+
+   (4) A statement of the current monthly rent or carrying charges of each residential and commercial unit, the name of each residential tenant, the number of rooms in each residential unit, and the rent controlled or rent stabilized status of each residential unit.
+
+   (5) A statement of the current non-publicly assisted, rent stabilized market rents of residential units in the building and, if known, a similar statement for comparable apartments in adjacent buildings or buildings in the immediate vicinity.
+
+   (6) Such additional information as the Department may require.
+
+(d) Consultation. The staff of the Department will be available for preapplication consultation.
+
+(e) Certification of inability to obtain financing. With the application, the owner shall submit an affidavit certifying that within the prior six months attempts to obtain financing for the rehabilitation or improvement at prevailing interest rates with the premises as security, from at least two (2) lending institutions which normally provide this type of financing were not successful, and, if known, the reasons for such failure or other factors indicating an inability of the private sector to provide unaided financing. If the multiple dwelling is encumbered by a mortgage held by a lending institution whose deposits are insured by the Federal Deposit Insurance Corporation or the Federal Savings and Loan Insurance Corporation, or their successors, such mortgagee shall be one of the lending institutions to which the applicant made an attempt to obtain such financing.
+
+(f) Application fee. The owner shall pay an application fee in the amount of seventy-five ($75) dollars for each building for which application is made. Payment shall be made no later than the date of the Department's loan closing. The fee shall not be refundable and shall be used to help defray the expenses of the City in administering the Program. In the case of applications covering two or more adjacent buildings the application fee shall be seventy-five ($75) dollars for the first building and fifty ($50) for each additional building.
+
+(g) Loan commitment. No commitment for a loan shall be deemed to have been made unless and until a written letter of commitment shall have been issued by the Department. Any commitment issued shall be conditioned upon full and timely compliance with the requirements of these Rules and Regulations, the availability of funds to make the loan and such other terms and conditions as the Department may require. The acceptance or processing of a loan application by the Department may not be construed to be a commitment for a loan. A commitment may only be issued in writing and no owner, applicant or other party may rely upon any statement or representation made by any official, employee or agent of the Department regarding the loan application.
+
+
+
+
+
+
+*§ 2-04 Determination of Feasibility and Conditions Precedent to Making a Loan.* ::
+
+
+(a) Low income tenancy and rent increases.
+
+   (1) Covenant on low income tenancy. No loan shall be made unless the owner covenants in writing that so long as any part of the loan shall remain unpaid:
+
+      (i) Upon vacancy, each dwelling unit in the multiple dwelling shall be available solely for occupancy by persons or families of low income; and
+
+      (ii) No person living in the multiple dwelling at the time the loan is made shall be required to move because of the rehabilitation or improvement financed by the loan, other than temporarily during the course of construction.
+
+   (2) Rent increases.
+
+      (i) The Department, in its sole discretion, shall have the option to adjust the rent for each rental unit within the multiple dwelling pursuant to authority granted by subdivision 7 of § 452 of the Private Housing Finance Law of the State of New York. The total rental adjustment shall be in an amount not in excess of the debt service (both principal and interest) calculated on that portion of the loan which the Department attributes to the financing of the rehabilitation of the rental units as if such loan were to be repaid over a self-amortizing term to be determined by HPD which shall be not less than ten (10) years for loans averaging five thousand ($5,000) dollars or less per dwelling unit, and not less than fifteen (15) years for loans exceeding five thousand ($5,000) dollars per dwelling unit. The initial rental adjustment for each rental dwelling unit will be calculated by dividing the total rental adjustment by the total number of rental rooms. Such adjustment shall be applied equally on a per room per month basis, except that a greater adjustment may be allowed for vacant units. For loans which closed prior to the effective date of these regulations, unequal adjustments may be allowed if HPD sends notification of such rent adjustment to the tenants prior to the closing of the loan. For rents to be adjusted under the provisions of this subparagraph, the owner(s) of the premises must agree to waive any and all increases which are attributable to the completed rehabilitation work financed by the 8A loan or required pursuant to the Housing Repair and Maintenance Agreement to which he might be entitled under the Administrative Code Chapters 4 and/or 5 of Title 26. Rental adjustments under this subparagraph shall have no effect upon the status of
+
+         (A) rent stabilized units which will remain stabilized with the rental adjustment added to the then current rent and subject to continuing lease increases granted by the appropriate governmental authority, or
+
+         (B) rent controlled units which will remain controlled with the rental adjustment added to the then current maximum base rent and maximum collectible rent and subject to continuing increases in the maximum base rent and maximum collectible rent granted by the appropriate governmental authority. Nothing contained in this subparagraph (2)(i) shall affect the time period for the repayment of the loan as determined by the Department under 28 RCNY § 2-02(d).
+
+      (ii) As an alternative to the rental adjustment provided under the preceding sub- paragraph (2)(i) the Department may in appropriate circumstances restructure the rents under § 33.9 of the New York City Rent and Eviction Regulations provided the rents as restructured do not exceed the average rent prevailing in local projects of municipally-aided limited- profit housing companies aided under Article II of the Private Housing Finance Law of the State of New York, the occupancy of which commenced on or after May 18, 1970, or in the case of a single room occupancy housing, seventy-five (75%) percent of the Moderate Rehabilitation Fair Market Rent, as defined in these regulations, for 0-bedroom units.
+
+   (3) Status of apartments. Loans may be made irrespective of the current status of control, stabilization or decontrol of dwelling units and shall not have any effect upon such present or future status of the units.
+
+   (4) Tenant notification. Prior to final approval of the loan, the owner shall be required to give tenants residing in the multiple dwelling written notification of the proposed rehabilitation or improvement and the possibility of rent increases, in form specified or approved by the Department. The owner shall submit an affidavit to the Department certifying that such written notification has been given to the tenants. The Department shall notify the tenants in writing no later than twenty-eight (28) calendar days prior to the loan closing of the nature of the proposed rehabilitation or improvement and any projected rent increases. The tenants may forward their comments or objections regarding the proposed loan to the Department for consideration of all relevant issues. The Department, in its discretion, may hold or require the owner to hold at least one public meeting with the tenants or their representatives to discuss the proposed rehabilitation or improvement and any projected rent increases. The Department may, as an alternative to its twenty-eight day notification, hold a tenant meeting if at least three (3) business days before the meeting a copy of the Department's notification letter is sent by ordinary mail to all tenants. If rents are to be adjusted pursuant to 28 RCNY § 2-04(a)(2)(i), the Department shall send by ordinary mail a written notice of the approximate expected rent increase after the completion of the rehabilitation or improvement and prior to the establishment of the rental adjustments. After this notification, tenants may again forward their comments or objections to the Department for consideration. The Department shall consider any comments or objections that it considers to be relevant to the rent increases and which are received within ten (10) days after the date of mailing (by deposit in a general or branch post office or other official depository of the United States Postal Service) of the Department's notification.
+
+(b) Real estate taxes, assessments, water and meter charges and sewer rents. The owner shall make full and timely payment of current real estate taxes, assessments, water and meter charges and sewer rents during the term of the loan. At the time of the loan closing real estate taxes, assessments, water and meter charges or sewer rents may, with the consent of the Department, be in arrears, provided all such arrears, including any interest and penalties thereon, shall be discharged by the owner subsequent to the loan closing pursuant to arrangements satisfactory to the Department. The Department may require under terms and provisions as it shall prescribe, that the owner place money in escrow on a monthly basis to cover any outstanding real estate taxes, assessments, water and meter charges and sewer rents, accrued interest and penalties, or payments of principal and interest on the loan and one-twelfth of the prospective annual real estate taxes, assessments, water and meter charges, sewer rents and premiums for insurance. Unless otherwise required by the Department as a condition precedent to the loan and subject to all provisions of this chapter, the owner may apply for any rent adjustment or other benefits, including tax exemption and/or tax abatement, to which he, as a result of the rehabilitation or improvement, may become entitled under the provisions of the Administrative Code and all regulations promulgated thereunder.
+
+(c) Relationship of loan to other mortgages.
+
+   (1) Existing mortgages. Loans may be made with respect to a multiple dwelling encumbered by mortgages provided no mortgage is in default, except by reason of the deteriorated physical condition of the building, if such condition and default shall be remedied by the proposed rehabilitation or improvement.
+
+   (2) Modification agreement. A mortgage modification or extension agreement may be required from the holder of a prior mortgage against the building where such mortgage secures a loan which is not self-liquidating and matures prior to the final payment date of the proposed loan.
+
+   (3) Subordination of existing liens.
+
+      (i) An existing mortgage or other lien held by the owner or a relative of the owner, or an officer, director, stockholder or partner of the owner, or a relative of such persons, or a party which is associated or affiliated with or a subsidiary of the owner shall be subordinated to the lien of the mortgage given to secure the City loan.
+
+      (ii) A secured loan made by a private non-institutional lender, if made in conjunction with a loan made by the City for the partial financing of the rehabilitation, shall be subordinated to the lien of the mortgage given to secure the City loan.
+
+(d) Removal of violations and management.
+
+   (1) Removal of violations. All multiple dwellings assisted under this Program shall be brought into substantial compliance with the Multiple Dwelling Law and the Housing Maintenance Code within a period of time to be determined by the Department but in no event later than one (1) year from the date set forth in the loan documents for the commencement of the payment of principal and interest on the loan.
+
+   (2) Additional work. The Department may require that the owner correct conditions and perform work in the premises in addition to that set forth in the Building Improvement Loan Agreement.
+
+   (3) Management. No loan shall be made unless the Department shall have determined that the owner has evidenced an ability to manage the building in accordance with good real estate industry practice. In appropriate cases, the Department may require a written management plan, acceptable to the Department, to ensure proper procedures for management of the property, including rent collection, supervision of building employees, payment of bills for maintenance and operation and handling tenant complaints.
+
+(e) Agency determination of feasibility.
+
+   (1) Code compliance. No loan shall be made unless the rehabilitation or improvement will result in the elimination of a substandard or unsanitary condition(s) existing in the multiple dwelling in violation of the Multiple Dwelling Law or the Housing Maintenance Code, or will provide for the replacement and rehabilitation of the heating, plumbing, electrical and related systems or other improvements if reasonably necessary to prolong the useful life of the dwelling. In either case, the estimated useful life of the multiple dwelling after rehabilitation shall not be less than the term of the loan.
+
+   (2) Economic viability. No loan shall be approved unless after the rehabilitation or improvement and any restructuring of rents as set forth in 28 RCNY § 2-04(a), or any rent adjustment or other benefits to which the owner may otherwise become entitled under the provisions of the Administrative Code, or otherwise, as a result of the rehabilitation or improvement, the building's projected revenues are sufficient to meet all maintenance and operating expenses, real estate taxes, water rates, sewer rents, vacancy and collection losses, debt service and return on equity.
+
+
+
+
+
+
+*§ 2-05 Contract Terms and Insurance Requirements.* ::
+
+
+(a) Loan documents. Each loan shall be evidenced by a promissory note executed by the owner of the multiple dwelling in form specified by the Department. The Department in its discretion may require that one or more of the shareholders, officers or directors of a corporate owner co-sign the note or otherwise guarantee or pledge security or provide an acceptable surety for the repayment of the loan. The following additional documents may be required:
+
+   (1) Building Loan Contract. A Building Loan Contract between the owner and the City in form specified by the Department.
+
+   (2) Mortgage or financing statement. A mortgage executed by the owner in form specified by the Department, shall be required as security for all loans, except that, if the loan is for thirty-five thousand ($35,000) dollars or less, or for a term of seven (7) years or less, the Department may, in its discretion, accept a financing statement as security.
+
+   (3) Disclosure statement. A sworn disclosure statement, in form specified by the Department, executed by the owner or his duly authorized agent disclosing the identity of all parties involved or to be involved in the ownership, financing and rehabilitation or improvement of the building.
+
+   (4) Such other documents executed by the owner as the City or the Department and its attorneys deem necessary or desirable.
+
+(b) Repayment of the loan by the borrower.
+
+   (1) Method of repayment. Debt service consisting of payments of interest on the unpaid principal balance and repayment of the principal amount shall be paid in equal monthly installments so as to be fully amortized by the maturity date of the loan. At its discretion, the Department may require an alternative schedule of loan payments provided the loan is fully paid by its maturity date.
+
+   (2) Prepayment privileges. The loan may be prepaid only in accordance with the terms specified in the loan documents.
+
+   (3) Refinancing. Any debt in existence prior to the time of the closing of the City loan and secured by a lien against the premises may, without the consent of the Department be refinanced after such closing provided:
+
+      (i) the principal amount of the refinanced debt shall not exceed the unpaid principal balance of the debt at the time of the refinancing, except that if such lien is subordinate to that of the mortgage given to secure the City loan, the principal amount shall not exceed the unpaid balance of the debt at the time of the closing of the City loan;
+
+      (ii) the rate of interest on the refinanced debt shall not exceed the rate prevailing in the private market at the time of the refinancing;
+
+      (iii) after refinancing debt service on the refinanced debt shall be paid in equal and constant periodic installments; and
+
+      (iv) at the time of the refinancing the mortgage given to secure the City loan shall not be in default with respect to any payment of principal or interest or any other payment required under the terms of said mortgage or the note secured thereby.
+
+   (4) Further encumbrances. Except as otherwise provided in 28 RCNY § 2-05(b)(3), an owner shall not at any time further encumber, mortgage or permit any encumbrance or lien of any kind or nature upon the premises without the prior written consent of the Department nor, shall the premises or any part thereof be conveyed without the prior written consent of the Department. On failure to comply with this paragraph (4), the Department, at its option, may declare the entire loan immediately due and payable.
+
+(c) Insurance requirements.
+
+   (1) Fire insurance. Ten days before loan closing the owner shall deliver to the Department prepaid insurance policies issued by companies in form and amounts satisfactory to the Department, insuring the premises against loss or damage by fire, with the usual extended coverage endorsement, and such other hazards as may reasonably be required by the Department. Such policies shall name the City as a mortgagee and provide that losses thereunder shall be payable to the City as its interest may appear.
+
+   (2) Workmen's compensation. Each contractor and sub-contractor, pursuant to the Workmen's Compensation Law, shall provide adequate Workmen's Compensation Insurance for all employees engaged in work on a building who may come within the protection of said law.
+
+   (3) The Department may require the owner or contractor to provide Public Liability, Property Damage and Employer's General Liability insurance.
+
+
+
+
+
+
+*§ 2-06 Construction Requirements and Payment of Loan Proceeds.* ::
+
+
+(a) Cost estimates, construction contract and contractors.
+
+   (1) Scope of work and cost estimates. Applicants shall be required to submit estimates showing the nature and cost of each item of the rehabilitation or improvement. The Department may require the applicant to submit more than one estimate per trade and may prescribe forms on which such estimates shall be prepared or summarized. The plans, specifications, work write-ups or any other description of work to be performed must be approved by the Department prior to the commencement of any rehabilitation work or the making of a loan for same. The technical specifications shall conform to the standards established by the Department and where applicable, shall be subject to the approval of the Department of Buildings or other governmental agencies having jurisdiction.
+
+   (2) Approval of construction contract. The specifications approved by the Department shall be made part of the written construction contract between the owner and the general contractor, and such construction contract shall be subject to the written approval of the Department. If a general contractor is not engaged, the owner shall enter into a written construction contract with each subcontractor. The pertinent specifications approved by the Department shall be made a part of each such contract and each such contract shall be subject to the written approval of the Department.
+
+   (3) Contractors. The Department reserves the right to disapprove any contractor or subcontractor because of previous violation of statutes, rules or regulations relating to discrimination, standards of employment or labor standards, or because of inefficiency, abandonment of duties, or disregard for creditors on prior jobs performed under this Program or other programs of the City.
+
+(b) Payment of loan proceeds.
+
+   (1) Periodic inspections. While rehabilitation is in progress the Department's personnel may conduct periodic inspections of the work and ma- terials.
+
+   (2) Progress payments. Progress payments for work completed shall be made on the basis of sworn statements as hereinafter provided, subject to review, inspection and approval by the Department. At the time of each progress payment, the borrower and the general contractor, if a general contractor has been engaged, or other contractor, shall execute and submit to the Department a sworn statement, in form specified by the Department, certifying that there has been compliance with all labor standards pursuant to 28 RCNY § 2-06(d), that payment has been made or will be made from the proceeds of such progress payments for all labor and services rendered and materials furnished in connection with the work to the date of payment and that any liens placed against the premises subsequent to the closing of the loan have been paid, bonded or otherwise discharged. In the sole discretion of the Department, progress payments shall be made payable directly to the owner, directly to the contractor, or jointly to the owner and contractor.
+
+   (3) Retention. The Department shall withhold an amount equal to ten percent (10%) of the total amount of each approved progress payment to create a retention fund to assure satisfactory progress and completion of the work. Up to fifty percent (50%) of such retention may be released upon the completion of at least fifty per cent (50%) of the work upon written request by the borrower and approval by the Department. The remainder of the retention funds shall be released upon:
+
+      (i) completion of the work to the full satisfaction of the Department;
+
+      (ii) issuance of approvals by governmental agencies having jurisdiction, including, where applicable, a certificate of occupancy or of completion by the Department of Buildings; and
+
+      (iii) proof of payment for all labor and materials provided in connection with the rehabilitation or improvement. In lieu of subparagraph (ii) above, the Department in its discretion may accept from an architect registered with the State of New York or a professional engineer licensed by the State of New York, a certification that the completed work complies with the requirements of the particular governmental agencies having jurisdiction thereof and that applications seeking the approval of certification of such agencies have been properly filed with or submitted to such agencies.
+
+   (4) Escrow provisions. The Department may require the deposit of loan advances in a separate escrow account, in a bank designated by the Department, subject to withdrawal only upon the joint signatures of the borrower and a representative of the Department. The Department may further require that the owner deposit in such escrow account, or in a separate trust account in such bank under such provisions as the Department shall prescribe, all or a designated portion of the rents collected from the multiple dwelling during the period of construction.
+
+   (5) Failure to complete work. If the borrower for any reason fails to diligently pursue or timely complete the rehabilitation to the full satisfaction of the Department, the Department may, after written notice to the borrower, enter upon the premises, effect the completion of the rehabilitation and charge the cost thereof to the borrower.
+
+   (6) Adjustments for interim interest. Any portion of the loan representing interest on advances during construction shall be adjusted upon completion of the rehabilitation as follows. If such portion shall be more than the amount required for interest on advances, the excess shall be credited to the borrower in reduction of the principal of the loan; if less than the amount required for such interest, the difference shall be deducted from the final advance of loan proceeds due borrower and paid to the City.
+
+(c) Non-discrimination and affirmative action.
+
+   (1) Compliance. The owner and any contractor or subcontractor engaged in connection with the rehabilitation or improvement must agree as a condition of such engagement to comply with all applicable federal, state and local statutes, rules and regulations relating to discrimination and standards of employment. The owner shall not exclude any person, including prospective tenants, from participation in, deny any person the benefits of, or subject any person to discrimination under this Program on the grounds of race, color, national origin, creed, age, sex, or sexual orientation. If an owner, contractor or subcontractor fails to comply with the provisions of this paragraph (1), the Department, in its discretion, may, in addition to or as an alternative to any other remedies reserved to the City or the Department in the loan documents, withhold progress payments to the owner or disapprove the contractor or subcontractor for future work under this Program or other programs of the Department.
+
+   (2) Books, records and inspections. In order to assure strict compliance with this subdivision (c), all contractors and subcontractors will be required to sign an agreement, in form specified by the Department, to make their books and records available for inspection by representatives or agents of the Department. In order to determine such compliance the Department reserves the right to interview or confer with any employee at any time, on a rehabilitation site or in the office of the contractor or subcontractor.
+
+(d) Labor standards.
+
+   (1) Compliance with labor standards. The owner and any contractor or subcontractor engaged in connection with the rehabilitation or improvement must agree as a condition of such engagement to comply with all applicable federal, state and local statutes, rules and regulations relating to labor standards, including the payment of prevailing wage rates.
+
+   (2) Enforcement. Each contractor and subcontractor shall be required to submit to the Department for review, copies of their weekly payrolls and such other documentation and reports as may be required by the Department. If the contractor engages a subcontractor, the contractor shall be obligated to obtain such required documentation and reports from the subcontractor. All books and records of the owner, contractors, subcontractors, laborers and materialmen involved in the rehabilitation shall be made available to representatives or agents of the Department and other governmental agencies having jurisdiction, for review or audit. The above parties may be required to submit to oral examination under oath. Such examination may include, but is not limited to, the performance and quality of the work, any and all matters pertaining to the loan and compliance with applicable statutes, rules and regulations.
+
+
+
+
+
+
+*§ 2-07 Supervision by the Department.* ::
+
+
+(a) Power to inspect and investigate. 
+
+   (1) Covenant on inspection and investigation. No loan shall be made unless the owner covenants in writing that so long as any part of the loan shall remain unpaid:
+
+      (i) All persons operating or managing the multiple dwelling will permit the duly authorized officers, employees, agents or inspectors of the Department to enter in or upon and inspect such multiple dwelling at all reasonable hours; and
+
+      (ii) The Department by its duly authorized representatives shall have full power to investigate into and order the owner of the multiple dwelling to furnish such reports and information as the Department may require concerning the rehabilitation or improvement and the management of the multiple dwelling, and shall have full power to audit the books of the owner with respect to such matters.
+
+   (2) Nature of inspection. In addition to any other inspections authorized by law, the Department may make periodic inspections of the building so long as any monies remain unpaid on the loan. Such inspections shall be for the purpose of inspecting the condition and maintenance of the building, including its utilities, fixtures and equipment. Copies of any inspection reports shall be made available to the owner with recommendations for corrective measures where necessary. Representatives of the Department may periodically visit the building for the purpose of conferring with tenants and, where necessary, serving as a liaison or intermediary on landlord-tenant problems.
+
+(b) Annual statement of income and expenses.
+
+   (1) No loan shall be made unless the owner covenants in writing that so long as any part of the loan shall remain unpaid the owner shall submit to the Department annually, in such form as shall be approved by the Department, a statement of the income and expenses of such multiple dwelling. The statement of income shall include, but is not limited to, the monthly rent of each residential apartment and the rent controlled or rent stabilized status of each unit.
+
+   (2) The annual statement shall cover the twelve month period ending June 30th or such other period approved by the Department, and shall be submitted within ninety days after the close of such period. The Department, in its discretion, may require submission of statements of income and expenses on a more frequent basis.
+
+   (3) On five days' notice, the books and records of the owner relative to the premises shall be made available to representatives or agents of the Department for review, examination or audit.
+
+(c) Failure to comply with regulations. Upon failure or refusal of an applicant, owner or mortgagor to comply with this chapter (and all applicable rules and regulations promulgated by the governmental authority providing funds for the rehabilitation or improvement), such applicant, owner or mortgagor in addition to the imposition of any civil or criminal penalties provided by law, may be disqualified by the Department from applying for or receiving a loan under this Program or other programs of the Department for up to three (3) years following the date of any such refusal or failure. These rules and regulations shall be enforceable by the governmental authority providing funds for the rehabilitation or improvement as well as by the City.
+
+(d) Waiver. The Department may waive any of this chapter where the nature of the rehabilitation or improvement or other circumstances warrant such exception. Any waiver to be effective shall require the written approval of the Commissioner or his designee and shall include a specific statement of the reason(s) for such waiver.
+
+
+
+
 Chapter 1: Rules and Regulations
 --------------------------------------------------
 
@@ -532,307 +837,65 @@ The Agency may waive any of this chapter where the nature of the installation, a
 
 
 
-Chapter 2: Rules and Regulations Pursuant To Article Viii-a of the Private Housing Finance Law of New York and Title I of the Housing and Community Development Act of 1974
+Chapter 4: Companies Formed Pursuant To the Redevelopment Companies Law of the State of New York [Repealed]
 --------------------------------------------------
 
 
 
-*§ 2-01 General Provisions.* ::
+*§ 4-01 Reports. [Repealed]* ::
 
 
-(a) Purpose. This chapter (and any applicable regulations promulgated by the governmental authority providing funds for the rehabilitation or improvement) shall govern the making of loans for rehabilitation and improvement pursuant to Article VIII-A of the Private Housing Finance Law of the State of New York.
 
-(b) Definitions. As used in these rules and regulations, the following terms shall have the meanings set forth below:
 
-   Administrative Code. "Administrative Code" shall mean the Administrative Code of the City of New York.
 
-   City. "City" shall mean the City of New York.
 
-   Commissioner. "Commissioner" shall mean the Commissioner (or Acting Commissioner) of the Department or the chief executive officer (or acting chief executive officer) of any successor to the Department.
 
-   Department or Dept. "Department" or "Dept." shall mean the Department of Housing Preservation and Development of the City or any successor thereto.
 
-   Dwelling unit. "Dwelling unit" shall mean any residential accommodation in a multiple dwelling.
 
-   Housing Maintenance Code. "Housing Maintenance Code" shall mean the Housing Maintenance Code of the City constituting Chapter 2 of Title 27 of the Administrative Code.
+*§ 4-02 Limitations. [Repealed]* ::
 
-   Multiple Dwelling Law. "Multiple Dwelling Law" shall mean the Multiple Dwelling Law of the State of New York.
 
-   Multiple dwelling or building. "Multiple dwelling" or "building" shall mean an existing dwelling within the City which is rented or leased to be occupied, or is occupied, as the residence of three or more families living independently of each other, and for which a loan application is made under the program.
 
-   Occupancy by persons or families of low income. "Occupancy by persons or families of low income" shall mean occupancy by persons or families paying rentals or carrying charges not in excess of the average rentals or carrying charges prevailing in local projects of municipally-aided limited-profit housing companies aided under Article II of the Private Housing Finance Law of the State of New York, the occupancy of which commenced on or after May 18, 1970. The rental or carrying charge for any such projects assisted under § 236 of the United States Housing Act of 1937 shall mean the fair market rental or carrying charge determined from time to time in accordance with the provisions of the agreement with the housing company pursuant to said section. Notwithstanding the foregoing, "occupancy by persons or families of low income" in single room occupancy housing shall mean occupancy by persons paying rentals not in excess of seventy-five (75) percent of the Moderate Rehabilitation Fair Market Rents for 0-bedroom units. "Moderate Rehabilitation Fair Market Rent" shall mean one hundred twenty (120) percent of the amount, less tenant utility allowance where applicable, which is indicated for 0-bedroom units on the then current Existing Housing Fair Market Rent Schedule for the § 8 Existing Housing Assistance Payments Program under the administration of the Department. Where the Department determines on the basis of a market survey or other acceptable and documented evidence that the market rents for dwelling units in the immediate neighborhood where the building is located exceeds the applicable Existing Housing Fair Market Rents, the Department may increase said rents by an amount not to exceed ten (10%) percent.
 
-   Owner. "Owner" shall mean an individual, partnership, corporation or other entity, including a non-profit company, a mutual company, or a housing development fund company, which holds record title in fee simple to the premises or is the lessee thereof under a lease having an unexpired term of not less than fifteen years.
 
-   Premises. "Premises" shall mean the multiple dwelling or the building and includes the land upon which it is situated.
 
-   Program. "Program" shall mean the program for the making of loans pursuant to Article VIII-A of the Private Housing Finance Law of the State of New York and this chapter.
 
-   Rehabilitation. "Rehabilitation" or "rehabilitation or improvement" shall mean the curing of any substandard or insanitary condition or conditions, or the replacement, repair or upgrading of heating, plumbing, electrical and related systems.
 
-   Rent or rental. "Rent" or "rental" shall also mean carrying charge whenever the multiple dwelling is cooperatively owned. This definition shall not apply to 28 RCNY § 2-04(a)(2).
 
-   Single room occupancy housing. "Single room occupancy housing" shall mean dwelling units which:
+*§ 4-03 Limitations on Sale of Shares. [Repealed]* ::
 
-      (1) may be lawfully occupied as the residence of single individuals capable of living independently of each other and do not contain either food preparation facilities or sanitary facilities or both, or
 
-      (2) are otherwise used and maintained for such occupancy in full compliance with the building's certificate of occupancy and the provisions of the New York State Multiple Dwelling Law.
 
-   Useful life of the dwelling. "Useful life of the dwelling" shall mean the period of time, as determined by the Dept., that the multiple dwelling is expected to be habitable at a level of comfort, safety and sanitation compatible with current requirements of state and city statutes, ordinances and administrative regulations, where there is regular maintenance and care of the major building systems by competent mechanics.
 
-   Useful life of the rehabilitation or improvement. "Useful life of the rehabilitation or improvement" shall mean the period of time as determined by the Department that the improvement is expected to function in good condition, with routine maintenance and repair.
 
 
 
 
 
+*§ 4-04 Verification of Tenant-Income Limitations. [Repealed]* ::
 
-*§ 2-02 Eligibility and General Conditions.* ::
 
 
-(a) Eligible buildings. 
 
-   (1) Loans may be made to an owner of a multiple dwelling located within the City to enable or assist such owner to eliminate a substandard or insanitary condition or conditions in violation of the Multiple Dwelling Law or the Housing Maintenance Code of the City of New York or to provide for the replacement and rehabilitation of the heating, plumbing, electrical and related systems or other improvements as shall be reasonably necessary to prolong the useful life of such dwelling.
 
-   (2) No loan shall be made unless the average rent for dwelling units in the building is not in excess of the average rent prevailing in local projects of municipally-aided limited-profit housing companies aided under Article II of the Private Housing Finance Law of the State of New York, the occupancy of which commenced on or after May 18, 1970, except for loans made to rehabilitate single room occupancy housing, in which cases the average rent for such units in the building shall not exceed seventy-five (75%) percent of the Moderate Rehabilitation Fair Market Rent as defined in 28 RCNY § 2-01(b) "Occupancy by persons or families of low income", for 0-bedroom units.
 
-(b) Allowable costs. At the discretion of the Dept., loan proceeds may be advanced to finance the following items of cost incurred in connection with the rehabilitation or improvement:
 
-   (1) Construction costs and filing fees required by the Department of Buildings and other governmental agencies having jurisdiction.
 
-   (2) Interim interest on the loan proceeds.
 
-   (3) Recording and filing fees and mortgage taxes.
+*§ 4-05 Surcharges (Rental Procedure). [Repealed]* ::
 
-   (4) Payment and Performance Bond(s).
 
-   (5) Fees or charges attributable to the examination and insurance of title.
 
-   (6) Real estate taxes, assessments, water and meter charges and sewer rents.
 
-   (7) Fire insurance premiums.
 
-(c) Maximum amount. The loan amount shall not exceed an average of ten thousand ($10,000) dollars per dwelling unit or the actual cost of the rehabilitation or improvement, whichever is less.
 
-(d) Term. The term of a loan shall not exceed twenty years, except that the term of a loan whose amount exceeds an average of five thousand ($5,000) dollars per dwelling unit shall not exceed thirty (30) years. In no event shall the term of any loan exceed the useful life of the rehabilitation or improvement.
 
-(e) Interest rate. The interest rate shall be three (3%) percent per annum, except where otherwise determined by the Department.
 
-(f) Protection of mortgage lien. Subsequent to the loan closing, the Department at its discretion may pay any liens and charges the priority of which are superior to its mortgage and may pay such other expenses as may be appropriate to protect its loan or to protect the lien of the mortgage relating thereto, provided that such expenditures shall not exceed one-half of the total amount of the loan.
 
+*§ 4-06 Schedule of Fees. [Repealed]* ::
 
 
 
-
-
-*§ 2-03 Application Procedure.* ::
-
-
-(a) Application forms. Application forms may be obtained from the Department, 100 Gold Street, New York, N.Y. 10038, Attention: Article VIII-A Loan Program. All applications shall be submitted to the Department for review and approval.
-
-(b) Eligible applicants. Loan applications may be submitted by an owner or his duly authorized agent or by a contract vendee who becomes an owner prior to or simultaneously with the loan closing.
-
-(c) Application submission. The application, in form specified by the Department, shall include the following:
-
-   (1) A description of the rehabilitation or improvement and the estimated cost thereof.
-
-   (2) The name, address and telephone number of the applicant, the owner, the managing agent and the holders of existing mortgages and other liens against the multiple dwelling.
-
-   (3) A statement of income and expenses for a period of time to be determined by the Department.
-
-   (4) A statement of the current monthly rent or carrying charges of each residential and commercial unit, the name of each residential tenant, the number of rooms in each residential unit, and the rent controlled or rent stabilized status of each residential unit.
-
-   (5) A statement of the current non-publicly assisted, rent stabilized market rents of residential units in the building and, if known, a similar statement for comparable apartments in adjacent buildings or buildings in the immediate vicinity.
-
-   (6) Such additional information as the Department may require.
-
-(d) Consultation. The staff of the Department will be available for preapplication consultation.
-
-(e) Certification of inability to obtain financing. With the application, the owner shall submit an affidavit certifying that within the prior six months attempts to obtain financing for the rehabilitation or improvement at prevailing interest rates with the premises as security, from at least two (2) lending institutions which normally provide this type of financing were not successful, and, if known, the reasons for such failure or other factors indicating an inability of the private sector to provide unaided financing. If the multiple dwelling is encumbered by a mortgage held by a lending institution whose deposits are insured by the Federal Deposit Insurance Corporation or the Federal Savings and Loan Insurance Corporation, or their successors, such mortgagee shall be one of the lending institutions to which the applicant made an attempt to obtain such financing.
-
-(f) Application fee. The owner shall pay an application fee in the amount of seventy-five ($75) dollars for each building for which application is made. Payment shall be made no later than the date of the Department's loan closing. The fee shall not be refundable and shall be used to help defray the expenses of the City in administering the Program. In the case of applications covering two or more adjacent buildings the application fee shall be seventy-five ($75) dollars for the first building and fifty ($50) for each additional building.
-
-(g) Loan commitment. No commitment for a loan shall be deemed to have been made unless and until a written letter of commitment shall have been issued by the Department. Any commitment issued shall be conditioned upon full and timely compliance with the requirements of these Rules and Regulations, the availability of funds to make the loan and such other terms and conditions as the Department may require. The acceptance or processing of a loan application by the Department may not be construed to be a commitment for a loan. A commitment may only be issued in writing and no owner, applicant or other party may rely upon any statement or representation made by any official, employee or agent of the Department regarding the loan application.
-
-
-
-
-
-
-*§ 2-04 Determination of Feasibility and Conditions Precedent to Making a Loan.* ::
-
-
-(a) Low income tenancy and rent increases.
-
-   (1) Covenant on low income tenancy. No loan shall be made unless the owner covenants in writing that so long as any part of the loan shall remain unpaid:
-
-      (i) Upon vacancy, each dwelling unit in the multiple dwelling shall be available solely for occupancy by persons or families of low income; and
-
-      (ii) No person living in the multiple dwelling at the time the loan is made shall be required to move because of the rehabilitation or improvement financed by the loan, other than temporarily during the course of construction.
-
-   (2) Rent increases.
-
-      (i) The Department, in its sole discretion, shall have the option to adjust the rent for each rental unit within the multiple dwelling pursuant to authority granted by subdivision 7 of § 452 of the Private Housing Finance Law of the State of New York. The total rental adjustment shall be in an amount not in excess of the debt service (both principal and interest) calculated on that portion of the loan which the Department attributes to the financing of the rehabilitation of the rental units as if such loan were to be repaid over a self-amortizing term to be determined by HPD which shall be not less than ten (10) years for loans averaging five thousand ($5,000) dollars or less per dwelling unit, and not less than fifteen (15) years for loans exceeding five thousand ($5,000) dollars per dwelling unit. The initial rental adjustment for each rental dwelling unit will be calculated by dividing the total rental adjustment by the total number of rental rooms. Such adjustment shall be applied equally on a per room per month basis, except that a greater adjustment may be allowed for vacant units. For loans which closed prior to the effective date of these regulations, unequal adjustments may be allowed if HPD sends notification of such rent adjustment to the tenants prior to the closing of the loan. For rents to be adjusted under the provisions of this subparagraph, the owner(s) of the premises must agree to waive any and all increases which are attributable to the completed rehabilitation work financed by the 8A loan or required pursuant to the Housing Repair and Maintenance Agreement to which he might be entitled under the Administrative Code Chapters 4 and/or 5 of Title 26. Rental adjustments under this subparagraph shall have no effect upon the status of
-
-         (A) rent stabilized units which will remain stabilized with the rental adjustment added to the then current rent and subject to continuing lease increases granted by the appropriate governmental authority, or
-
-         (B) rent controlled units which will remain controlled with the rental adjustment added to the then current maximum base rent and maximum collectible rent and subject to continuing increases in the maximum base rent and maximum collectible rent granted by the appropriate governmental authority. Nothing contained in this subparagraph (2)(i) shall affect the time period for the repayment of the loan as determined by the Department under 28 RCNY § 2-02(d).
-
-      (ii) As an alternative to the rental adjustment provided under the preceding sub- paragraph (2)(i) the Department may in appropriate circumstances restructure the rents under § 33.9 of the New York City Rent and Eviction Regulations provided the rents as restructured do not exceed the average rent prevailing in local projects of municipally-aided limited- profit housing companies aided under Article II of the Private Housing Finance Law of the State of New York, the occupancy of which commenced on or after May 18, 1970, or in the case of a single room occupancy housing, seventy-five (75%) percent of the Moderate Rehabilitation Fair Market Rent, as defined in these regulations, for 0-bedroom units.
-
-   (3) Status of apartments. Loans may be made irrespective of the current status of control, stabilization or decontrol of dwelling units and shall not have any effect upon such present or future status of the units.
-
-   (4) Tenant notification. Prior to final approval of the loan, the owner shall be required to give tenants residing in the multiple dwelling written notification of the proposed rehabilitation or improvement and the possibility of rent increases, in form specified or approved by the Department. The owner shall submit an affidavit to the Department certifying that such written notification has been given to the tenants. The Department shall notify the tenants in writing no later than twenty-eight (28) calendar days prior to the loan closing of the nature of the proposed rehabilitation or improvement and any projected rent increases. The tenants may forward their comments or objections regarding the proposed loan to the Department for consideration of all relevant issues. The Department, in its discretion, may hold or require the owner to hold at least one public meeting with the tenants or their representatives to discuss the proposed rehabilitation or improvement and any projected rent increases. The Department may, as an alternative to its twenty-eight day notification, hold a tenant meeting if at least three (3) business days before the meeting a copy of the Department's notification letter is sent by ordinary mail to all tenants. If rents are to be adjusted pursuant to 28 RCNY § 2-04(a)(2)(i), the Department shall send by ordinary mail a written notice of the approximate expected rent increase after the completion of the rehabilitation or improvement and prior to the establishment of the rental adjustments. After this notification, tenants may again forward their comments or objections to the Department for consideration. The Department shall consider any comments or objections that it considers to be relevant to the rent increases and which are received within ten (10) days after the date of mailing (by deposit in a general or branch post office or other official depository of the United States Postal Service) of the Department's notification.
-
-(b) Real estate taxes, assessments, water and meter charges and sewer rents. The owner shall make full and timely payment of current real estate taxes, assessments, water and meter charges and sewer rents during the term of the loan. At the time of the loan closing real estate taxes, assessments, water and meter charges or sewer rents may, with the consent of the Department, be in arrears, provided all such arrears, including any interest and penalties thereon, shall be discharged by the owner subsequent to the loan closing pursuant to arrangements satisfactory to the Department. The Department may require under terms and provisions as it shall prescribe, that the owner place money in escrow on a monthly basis to cover any outstanding real estate taxes, assessments, water and meter charges and sewer rents, accrued interest and penalties, or payments of principal and interest on the loan and one-twelfth of the prospective annual real estate taxes, assessments, water and meter charges, sewer rents and premiums for insurance. Unless otherwise required by the Department as a condition precedent to the loan and subject to all provisions of this chapter, the owner may apply for any rent adjustment or other benefits, including tax exemption and/or tax abatement, to which he, as a result of the rehabilitation or improvement, may become entitled under the provisions of the Administrative Code and all regulations promulgated thereunder.
-
-(c) Relationship of loan to other mortgages.
-
-   (1) Existing mortgages. Loans may be made with respect to a multiple dwelling encumbered by mortgages provided no mortgage is in default, except by reason of the deteriorated physical condition of the building, if such condition and default shall be remedied by the proposed rehabilitation or improvement.
-
-   (2) Modification agreement. A mortgage modification or extension agreement may be required from the holder of a prior mortgage against the building where such mortgage secures a loan which is not self-liquidating and matures prior to the final payment date of the proposed loan.
-
-   (3) Subordination of existing liens.
-
-      (i) An existing mortgage or other lien held by the owner or a relative of the owner, or an officer, director, stockholder or partner of the owner, or a relative of such persons, or a party which is associated or affiliated with or a subsidiary of the owner shall be subordinated to the lien of the mortgage given to secure the City loan.
-
-      (ii) A secured loan made by a private non-institutional lender, if made in conjunction with a loan made by the City for the partial financing of the rehabilitation, shall be subordinated to the lien of the mortgage given to secure the City loan.
-
-(d) Removal of violations and management.
-
-   (1) Removal of violations. All multiple dwellings assisted under this Program shall be brought into substantial compliance with the Multiple Dwelling Law and the Housing Maintenance Code within a period of time to be determined by the Department but in no event later than one (1) year from the date set forth in the loan documents for the commencement of the payment of principal and interest on the loan.
-
-   (2) Additional work. The Department may require that the owner correct conditions and perform work in the premises in addition to that set forth in the Building Improvement Loan Agreement.
-
-   (3) Management. No loan shall be made unless the Department shall have determined that the owner has evidenced an ability to manage the building in accordance with good real estate industry practice. In appropriate cases, the Department may require a written management plan, acceptable to the Department, to ensure proper procedures for management of the property, including rent collection, supervision of building employees, payment of bills for maintenance and operation and handling tenant complaints.
-
-(e) Agency determination of feasibility.
-
-   (1) Code compliance. No loan shall be made unless the rehabilitation or improvement will result in the elimination of a substandard or unsanitary condition(s) existing in the multiple dwelling in violation of the Multiple Dwelling Law or the Housing Maintenance Code, or will provide for the replacement and rehabilitation of the heating, plumbing, electrical and related systems or other improvements if reasonably necessary to prolong the useful life of the dwelling. In either case, the estimated useful life of the multiple dwelling after rehabilitation shall not be less than the term of the loan.
-
-   (2) Economic viability. No loan shall be approved unless after the rehabilitation or improvement and any restructuring of rents as set forth in 28 RCNY § 2-04(a), or any rent adjustment or other benefits to which the owner may otherwise become entitled under the provisions of the Administrative Code, or otherwise, as a result of the rehabilitation or improvement, the building's projected revenues are sufficient to meet all maintenance and operating expenses, real estate taxes, water rates, sewer rents, vacancy and collection losses, debt service and return on equity.
-
-
-
-
-
-
-*§ 2-05 Contract Terms and Insurance Requirements.* ::
-
-
-(a) Loan documents. Each loan shall be evidenced by a promissory note executed by the owner of the multiple dwelling in form specified by the Department. The Department in its discretion may require that one or more of the shareholders, officers or directors of a corporate owner co-sign the note or otherwise guarantee or pledge security or provide an acceptable surety for the repayment of the loan. The following additional documents may be required:
-
-   (1) Building Loan Contract. A Building Loan Contract between the owner and the City in form specified by the Department.
-
-   (2) Mortgage or financing statement. A mortgage executed by the owner in form specified by the Department, shall be required as security for all loans, except that, if the loan is for thirty-five thousand ($35,000) dollars or less, or for a term of seven (7) years or less, the Department may, in its discretion, accept a financing statement as security.
-
-   (3) Disclosure statement. A sworn disclosure statement, in form specified by the Department, executed by the owner or his duly authorized agent disclosing the identity of all parties involved or to be involved in the ownership, financing and rehabilitation or improvement of the building.
-
-   (4) Such other documents executed by the owner as the City or the Department and its attorneys deem necessary or desirable.
-
-(b) Repayment of the loan by the borrower.
-
-   (1) Method of repayment. Debt service consisting of payments of interest on the unpaid principal balance and repayment of the principal amount shall be paid in equal monthly installments so as to be fully amortized by the maturity date of the loan. At its discretion, the Department may require an alternative schedule of loan payments provided the loan is fully paid by its maturity date.
-
-   (2) Prepayment privileges. The loan may be prepaid only in accordance with the terms specified in the loan documents.
-
-   (3) Refinancing. Any debt in existence prior to the time of the closing of the City loan and secured by a lien against the premises may, without the consent of the Department be refinanced after such closing provided:
-
-      (i) the principal amount of the refinanced debt shall not exceed the unpaid principal balance of the debt at the time of the refinancing, except that if such lien is subordinate to that of the mortgage given to secure the City loan, the principal amount shall not exceed the unpaid balance of the debt at the time of the closing of the City loan;
-
-      (ii) the rate of interest on the refinanced debt shall not exceed the rate prevailing in the private market at the time of the refinancing;
-
-      (iii) after refinancing debt service on the refinanced debt shall be paid in equal and constant periodic installments; and
-
-      (iv) at the time of the refinancing the mortgage given to secure the City loan shall not be in default with respect to any payment of principal or interest or any other payment required under the terms of said mortgage or the note secured thereby.
-
-   (4) Further encumbrances. Except as otherwise provided in 28 RCNY § 2-05(b)(3), an owner shall not at any time further encumber, mortgage or permit any encumbrance or lien of any kind or nature upon the premises without the prior written consent of the Department nor, shall the premises or any part thereof be conveyed without the prior written consent of the Department. On failure to comply with this paragraph (4), the Department, at its option, may declare the entire loan immediately due and payable.
-
-(c) Insurance requirements.
-
-   (1) Fire insurance. Ten days before loan closing the owner shall deliver to the Department prepaid insurance policies issued by companies in form and amounts satisfactory to the Department, insuring the premises against loss or damage by fire, with the usual extended coverage endorsement, and such other hazards as may reasonably be required by the Department. Such policies shall name the City as a mortgagee and provide that losses thereunder shall be payable to the City as its interest may appear.
-
-   (2) Workmen's compensation. Each contractor and sub-contractor, pursuant to the Workmen's Compensation Law, shall provide adequate Workmen's Compensation Insurance for all employees engaged in work on a building who may come within the protection of said law.
-
-   (3) The Department may require the owner or contractor to provide Public Liability, Property Damage and Employer's General Liability insurance.
-
-
-
-
-
-
-*§ 2-06 Construction Requirements and Payment of Loan Proceeds.* ::
-
-
-(a) Cost estimates, construction contract and contractors.
-
-   (1) Scope of work and cost estimates. Applicants shall be required to submit estimates showing the nature and cost of each item of the rehabilitation or improvement. The Department may require the applicant to submit more than one estimate per trade and may prescribe forms on which such estimates shall be prepared or summarized. The plans, specifications, work write-ups or any other description of work to be performed must be approved by the Department prior to the commencement of any rehabilitation work or the making of a loan for same. The technical specifications shall conform to the standards established by the Department and where applicable, shall be subject to the approval of the Department of Buildings or other governmental agencies having jurisdiction.
-
-   (2) Approval of construction contract. The specifications approved by the Department shall be made part of the written construction contract between the owner and the general contractor, and such construction contract shall be subject to the written approval of the Department. If a general contractor is not engaged, the owner shall enter into a written construction contract with each subcontractor. The pertinent specifications approved by the Department shall be made a part of each such contract and each such contract shall be subject to the written approval of the Department.
-
-   (3) Contractors. The Department reserves the right to disapprove any contractor or subcontractor because of previous violation of statutes, rules or regulations relating to discrimination, standards of employment or labor standards, or because of inefficiency, abandonment of duties, or disregard for creditors on prior jobs performed under this Program or other programs of the City.
-
-(b) Payment of loan proceeds.
-
-   (1) Periodic inspections. While rehabilitation is in progress the Department's personnel may conduct periodic inspections of the work and ma- terials.
-
-   (2) Progress payments. Progress payments for work completed shall be made on the basis of sworn statements as hereinafter provided, subject to review, inspection and approval by the Department. At the time of each progress payment, the borrower and the general contractor, if a general contractor has been engaged, or other contractor, shall execute and submit to the Department a sworn statement, in form specified by the Department, certifying that there has been compliance with all labor standards pursuant to 28 RCNY § 2-06(d), that payment has been made or will be made from the proceeds of such progress payments for all labor and services rendered and materials furnished in connection with the work to the date of payment and that any liens placed against the premises subsequent to the closing of the loan have been paid, bonded or otherwise discharged. In the sole discretion of the Department, progress payments shall be made payable directly to the owner, directly to the contractor, or jointly to the owner and contractor.
-
-   (3) Retention. The Department shall withhold an amount equal to ten percent (10%) of the total amount of each approved progress payment to create a retention fund to assure satisfactory progress and completion of the work. Up to fifty percent (50%) of such retention may be released upon the completion of at least fifty per cent (50%) of the work upon written request by the borrower and approval by the Department. The remainder of the retention funds shall be released upon:
-
-      (i) completion of the work to the full satisfaction of the Department;
-
-      (ii) issuance of approvals by governmental agencies having jurisdiction, including, where applicable, a certificate of occupancy or of completion by the Department of Buildings; and
-
-      (iii) proof of payment for all labor and materials provided in connection with the rehabilitation or improvement. In lieu of subparagraph (ii) above, the Department in its discretion may accept from an architect registered with the State of New York or a professional engineer licensed by the State of New York, a certification that the completed work complies with the requirements of the particular governmental agencies having jurisdiction thereof and that applications seeking the approval of certification of such agencies have been properly filed with or submitted to such agencies.
-
-   (4) Escrow provisions. The Department may require the deposit of loan advances in a separate escrow account, in a bank designated by the Department, subject to withdrawal only upon the joint signatures of the borrower and a representative of the Department. The Department may further require that the owner deposit in such escrow account, or in a separate trust account in such bank under such provisions as the Department shall prescribe, all or a designated portion of the rents collected from the multiple dwelling during the period of construction.
-
-   (5) Failure to complete work. If the borrower for any reason fails to diligently pursue or timely complete the rehabilitation to the full satisfaction of the Department, the Department may, after written notice to the borrower, enter upon the premises, effect the completion of the rehabilitation and charge the cost thereof to the borrower.
-
-   (6) Adjustments for interim interest. Any portion of the loan representing interest on advances during construction shall be adjusted upon completion of the rehabilitation as follows. If such portion shall be more than the amount required for interest on advances, the excess shall be credited to the borrower in reduction of the principal of the loan; if less than the amount required for such interest, the difference shall be deducted from the final advance of loan proceeds due borrower and paid to the City.
-
-(c) Non-discrimination and affirmative action.
-
-   (1) Compliance. The owner and any contractor or subcontractor engaged in connection with the rehabilitation or improvement must agree as a condition of such engagement to comply with all applicable federal, state and local statutes, rules and regulations relating to discrimination and standards of employment. The owner shall not exclude any person, including prospective tenants, from participation in, deny any person the benefits of, or subject any person to discrimination under this Program on the grounds of race, color, national origin, creed, age, sex, or sexual orientation. If an owner, contractor or subcontractor fails to comply with the provisions of this paragraph (1), the Department, in its discretion, may, in addition to or as an alternative to any other remedies reserved to the City or the Department in the loan documents, withhold progress payments to the owner or disapprove the contractor or subcontractor for future work under this Program or other programs of the Department.
-
-   (2) Books, records and inspections. In order to assure strict compliance with this subdivision (c), all contractors and subcontractors will be required to sign an agreement, in form specified by the Department, to make their books and records available for inspection by representatives or agents of the Department. In order to determine such compliance the Department reserves the right to interview or confer with any employee at any time, on a rehabilitation site or in the office of the contractor or subcontractor.
-
-(d) Labor standards.
-
-   (1) Compliance with labor standards. The owner and any contractor or subcontractor engaged in connection with the rehabilitation or improvement must agree as a condition of such engagement to comply with all applicable federal, state and local statutes, rules and regulations relating to labor standards, including the payment of prevailing wage rates.
-
-   (2) Enforcement. Each contractor and subcontractor shall be required to submit to the Department for review, copies of their weekly payrolls and such other documentation and reports as may be required by the Department. If the contractor engages a subcontractor, the contractor shall be obligated to obtain such required documentation and reports from the subcontractor. All books and records of the owner, contractors, subcontractors, laborers and materialmen involved in the rehabilitation shall be made available to representatives or agents of the Department and other governmental agencies having jurisdiction, for review or audit. The above parties may be required to submit to oral examination under oath. Such examination may include, but is not limited to, the performance and quality of the work, any and all matters pertaining to the loan and compliance with applicable statutes, rules and regulations.
-
-
-
-
-
-
-*§ 2-07 Supervision by the Department.* ::
-
-
-(a) Power to inspect and investigate. 
-
-   (1) Covenant on inspection and investigation. No loan shall be made unless the owner covenants in writing that so long as any part of the loan shall remain unpaid:
-
-      (i) All persons operating or managing the multiple dwelling will permit the duly authorized officers, employees, agents or inspectors of the Department to enter in or upon and inspect such multiple dwelling at all reasonable hours; and
-
-      (ii) The Department by its duly authorized representatives shall have full power to investigate into and order the owner of the multiple dwelling to furnish such reports and information as the Department may require concerning the rehabilitation or improvement and the management of the multiple dwelling, and shall have full power to audit the books of the owner with respect to such matters.
-
-   (2) Nature of inspection. In addition to any other inspections authorized by law, the Department may make periodic inspections of the building so long as any monies remain unpaid on the loan. Such inspections shall be for the purpose of inspecting the condition and maintenance of the building, including its utilities, fixtures and equipment. Copies of any inspection reports shall be made available to the owner with recommendations for corrective measures where necessary. Representatives of the Department may periodically visit the building for the purpose of conferring with tenants and, where necessary, serving as a liaison or intermediary on landlord-tenant problems.
-
-(b) Annual statement of income and expenses.
-
-   (1) No loan shall be made unless the owner covenants in writing that so long as any part of the loan shall remain unpaid the owner shall submit to the Department annually, in such form as shall be approved by the Department, a statement of the income and expenses of such multiple dwelling. The statement of income shall include, but is not limited to, the monthly rent of each residential apartment and the rent controlled or rent stabilized status of each unit.
-
-   (2) The annual statement shall cover the twelve month period ending June 30th or such other period approved by the Department, and shall be submitted within ninety days after the close of such period. The Department, in its discretion, may require submission of statements of income and expenses on a more frequent basis.
-
-   (3) On five days' notice, the books and records of the owner relative to the premises shall be made available to representatives or agents of the Department for review, examination or audit.
-
-(c) Failure to comply with regulations. Upon failure or refusal of an applicant, owner or mortgagor to comply with this chapter (and all applicable rules and regulations promulgated by the governmental authority providing funds for the rehabilitation or improvement), such applicant, owner or mortgagor in addition to the imposition of any civil or criminal penalties provided by law, may be disqualified by the Department from applying for or receiving a loan under this Program or other programs of the Department for up to three (3) years following the date of any such refusal or failure. These rules and regulations shall be enforceable by the governmental authority providing funds for the rehabilitation or improvement as well as by the City.
-
-(d) Waiver. The Department may waive any of this chapter where the nature of the rehabilitation or improvement or other circumstances warrant such exception. Any waiver to be effective shall require the written approval of the Commissioner or his designee and shall include a specific statement of the reason(s) for such waiver.
 
 
 
@@ -2578,69 +2641,6 @@ Notwithstanding any other provisions of this chapter, HPD may authorize special 
 (c) Technical Violations. Provided that there has been a good faith effort to comply with this chapter, technical violations of this chapter by HPD shall not invalidate any action taken pursuant to this chapter, nor shall such technical violations give rise to any rights, claims or causes of action against HPD or the City of New York. The Commissioner, upon good cause shown, may alter the timing or sequence of the actions described in this chapter, provided all affected parties are given reasonable notice.
 
 (d) Severability. If any clause, sentence, paragraph, section or part of this chapter should be adjudged by any court of competent jurisdiction, to be invalid, such judgment shall not affect, impair, or invalidate the remainder thereof, but shall be confined in its operation to the clause, sentence, paragraph, section or part thereof correctly involved in the controversy in which such judgment shall have been rendered.
-
-
-
-
-Chapter 4: Companies Formed Pursuant To the Redevelopment Companies Law of the State of New York [Repealed]
---------------------------------------------------
-
-
-
-*§ 4-01 Reports. [Repealed]* ::
-
-
-
-
-
-
-
-
-
-*§ 4-02 Limitations. [Repealed]* ::
-
-
-
-
-
-
-
-
-
-*§ 4-03 Limitations on Sale of Shares. [Repealed]* ::
-
-
-
-
-
-
-
-
-
-*§ 4-04 Verification of Tenant-Income Limitations. [Repealed]* ::
-
-
-
-
-
-
-
-
-
-*§ 4-05 Surcharges (Rental Procedure). [Repealed]* ::
-
-
-
-
-
-
-
-
-
-*§ 4-06 Schedule of Fees. [Repealed]* ::
-
-
-
 
 
 

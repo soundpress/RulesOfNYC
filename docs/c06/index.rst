@@ -7,7 +7,19 @@ Chapter 1: Asbestos Control Program
 
 
 
-**Subchapter A: Scope, Application, Definitions and Variances***
+**Subchapter A: Purpose, Scope, Application, Definitions and Variances**
+
+
+
+*§ 1-00 Purpose.* ::
+
+
+The purpose of these rules is to protect public health and the environment by minimizing the emission of asbestos fibers into the air of the City when buildings or structures with asbestos-containing material are renovated, altered, repaired, or demolished by ensuring that asbestos-containing material is handled appropriately and by individuals qualified to do so.
+
+
+
+
+
 
 
 
@@ -40,9 +52,11 @@ Chapter 1: Asbestos Control Program
 
 (j) (1)  Any person, including but not limited to contractors, building owners, and air monitoring companies, who is in violation of or fails to comply with any provision of these rules or the terms and conditions of any variance issued pursuant to these rules shall be subject to the issuance of notice(s) of violation and other civil and criminal enforcement actions pursuant to Title 24, Chapter 1, Subchapter 9 of the Administrative Code of the City of New York.
 
-   (2) The maximum civil penalty for any violation of a lettered subsection of these rules, pursuant to a notice of violation returnable before the Environmental Control Board, shall be $10,000, except that a violation of 15 RCNY § 1-26 shall carry a maximum penalty of $15,000.
+   (2) The maximum civil penalty for any violation of a lettered subsection of these rules, pursuant to a notice of violation returnable before the Environmental Control Boardof the Office of Administrative Trials and Hearings, shall be $10,000, except that a violation of 15 RCNY § 1-26 shall carry a maximum penalty of $15,000.
 
-   (3) DEP may deny any application for an asbestos abatement permit pursuant to 15 RCNY § 1-26, or a variance application pursuant to 15 RCNY § 1-03, where any party to the asbestos project, including but not limited to the abatement contractor, building owner, and air monitoring company, has docketed, unpaid civil penalties imposed by the Environmental Control Board for violations of these rules, sections 24-146.1 and 24-146.3 of the Administrative Code, or NYSDOL ICR 56.
+   (3) DEP may block an asbestos investigator from filing an Asbestos Assessment Report (Form ACP5) or deny any application for an asbestos abatement permit pursuant to 15 RCNY § 1-26, or a variance application pursuant to 15 RCNY § 1-03, where any party to the asbestos project, including but not limited to the abatement contractor, building owner, or air monitoring company, has docketed, unpaid civil penalties imposed by the Environmental Control Board of the Office of Administrative Trials and Hearings for violations of these rules, sections 24-136 and 24-138 of the Administrative Code, or NYSDOLICR 56.
+
+
 
 
 
@@ -72,6 +86,8 @@ Ambient air monitoring. "Ambient air monitoring" shall mean measurement or deter
 
 Amended water. "Amended water" shall mean water to which a surfactant has been added.
 
+Amendment. “Amendment” shall mean a form submitted to modify the asbestos project notification (Form ACP7) by changing information that was provided when the ACP7 was originally filed.
+
 ANSI. "ANSI" shall mean the American National Standards Institute.
 
 Area air sampling. "Area air sampling" shall mean any form of air sampling or monitoring where the sampling device is placed at some stationary location.
@@ -100,6 +116,8 @@ ASTM. "ASTM" shall mean the American Society For Testing and Materials.
 
 Authorized visitor. "Authorized visitor" shall mean the building owner and his/her representative, and any representative of a regulatory or other agency having jurisdiction over the project.
 
+Bound Notebook. “Bound notebook” shall mean a notebook manufactured so that the pages cannot be removed without being torn out. A loose-leaf binder is not a bound notebook.
+
 Building owner. "Building owner" shall mean the person in whom legal title to the premises is vested unless the premises are held in land trust, in which instance building owner means the person in whom beneficial title is vested.
 
 Building materials. "Building materials" shall mean any and all materials listed as Presumed Asbestos Containing Materials (PACM) and Suspect Miscellaneous ACM in NYSDOL ICR 56, including but not limited to interior and exterior finishes, equipment, plaster, roofing, flooring, caulking, sealants, tiles, insulation, and mortar and refractory bricks used in the construction of boilers.
@@ -108,13 +126,15 @@ Certified industrial hygienist. "Certified industrial hygienist" (CIH) shall mea
 
 Certified safety professional (CSP). "Certified safety professional" (CSP) shall mean an individual having a bachelor's degree from an accredited college or university and a minimum of four years experience as a safety professional and who has successfully completed both levels of the examination administered by the Board of Certified Safety Professionals and who is currently certified by that Board.
 
-Chain of custody. "Chain of custody" shall mean the form or set of forms that document the collection and transfer of a sample.
+Chain of custody. "Chain of custody" shall mean the form or set of forms that document the collection and transfer of a sample, which must reflect the time and date of all transfers of that sample and identify each person that handles that sample by such person’s printed full name and signature.
 
 Clean room. "Clean room" shall mean an uncontaminated area or room which is part of the worker decontamination enclosure system with provisions for storage of workers' street clothes and protective equipment.
 
 Clearance air monitoring. "Clearance air monitoring" shall mean the employment of aggressive sampling techniques with a volume of air collected to determine the airborne concentration of residual fibers, and shall be performed as the final abatement activity.
 
 Commissioner. "Commissioner" shall mean the Commissioner of the New York City Department of Environmental Protection.
+
+Containerize. “Containerize” shall mean the placing of asbestos-containing material in an acceptable container for disposal, as specified by these rules.
 
 Contractor. "Contractor" shall mean a public authority or any other governmental agency or instrumentality thereof, self-employed person, company, unincorporated association, firm, partnership or corporation and any owner or operator thereof, which engages in an asbestos project or employs persons engaged in an asbestos project.
 
@@ -132,6 +152,8 @@ DOB. "DOB" shall mean the New York City Department of Buildings.
 
 ELAP. "ELAP" shall mean the Environmental Laboratory Approval Program administered by the New York State Department of Health.
 
+Electronic Recordkeeping System. “Electronic recordkeeping system” shall mean an electronic system in which records are collected, organized, and categorized to facilitate their preservation and use, by utilizing a format and a reliable media that enables future retrieval of these records.
+
 Encapsulant (sealant) or encapsulating agent. "Encapsulant (sealant) or encapsulating agent" shall mean liquid material which can be applied to asbestos-containing material which temporarily controls the possible release of asbestos fibers from the material or surface either by creating a membrane over the surface (bridging encapsulant) or by penetrating into the material and binding its components together (penetrating encapsulant). A thin coat of lockdown encapsulant shall be applied to all surfaces in the work area which were not the subject of removal or abatement, including the cleaned layer of the surface barriers, but excepting sprinklers, standpipes, and other active elements of the fire suppression system.
 
 Encapsulation. "Encapsulation" shall mean the coating or spraying of asbestos-containing material with an encapsulant. A thin coat of lockdown encapsulant shall be applied to all surfaces in the work area which were not the subject of removal or abatement, including the cleaned layer of the surface barriers, but excepting sprinklers, standpipes, and other active elements of the fire suppression system.
@@ -143,6 +165,8 @@ EPA. "EPA" or "USEPA" shall mean the United States Environmental Protection Agen
 Equipment room. "Equipment room" shall mean a contaminated area or room which is part of the worker decontamination enclosure system with provisions for the storage of contaminated clothing and equipment.
 
 Exit. "Exit" shall mean that portion of a means of egress system which is separated from other interior spaces of a building or structure by fire-resistance-rated construction to provide a protected path of egress travel between the exit access and the exit discharge.
+
+Exit Passageway. “Exit passageway” shall mean a horizontal extension of a vertical exit, or a passage leading from a yard or court to an open exterior space.
 
 FDNY. "FDNY" shall mean the Fire Department of the City of New York.
 
@@ -188,7 +212,7 @@ NYSDOL ICR 56. "NYSDOL ICR 56" shall mean Part 56 of the Official Compilation of
 
 NYSDOH. "NYSDOH" shall mean the New York State Department of Health.
 
-Obstruction. "Obstruction" shall mean the blocking of a means of egress with any temporary structure or barrier. Polyethylene sheeting shall not be considered an obstruction when it is prominently marked with exit signage or paint and cutting tools (knife, razor) are attached to the work area side of the sheeting for use in the event that the sheeting must be cut to permit egress. A corridor shall not be considered obstructed when there is a clear path measuring at least three (3) feet wide.
+Obstruction. "Obstruction" shall mean the blocking of a means of egress with any temporary structure or barrier. A corridor shall not be considered obstructed when there is a clear path measuring at least three (3) feet wide permitting access to all required vertical exits and/or exit doors. Abatement worker egress from the work area through Polyethylene sheeting covering an egress used only by abatement workers, shall not be considered an obstruction when it is prominently marked with exit signage or paint and cutting tools (knife, razor) are attached to the work area side of the sheeting for use in the event that the sheeting must be cut to permit egress.
 
 Occupied Area. "Occupied area" shall mean an area of the worksite where abatement is not taking place and where personnel or occupants normally function or where workers are not required to use personal protective equipment.
 
@@ -209,6 +233,10 @@ Physician. "Physician" shall mean an individual licensed or otherwise authorized
 Plasticize. "Plasticize" shall mean to cover floors and walls with fire retardant plastic sheeting as herein specified or by using spray plastics as acceptable to the Department.
 
 Polarized light microscopy. "Polarized light microscopy" (PLM) shall mean the measurement protocol for the assessment of the asbestos content of bulk materials. 
+
+Pre-demolition Abatement Activities. “Pre-demolition abatement activities” shall mean any and all asbestos abatement activities required to be performed and completed prior to the partial or total structural demolition of a building or structure, including successful clearance air monitoring.
+
+Presumed Asbestos Containing Material (PACM). “Presumed Asbestos Containing Material” shall mean all Thermal System Insulation and Surfacing Material as described in 15 RCNY § 1-38. PACM is considered to be ACM unless proven otherwise by appropriate bulk sampling and laboratory analyses.
 
 Project designer. "Project designer" shall mean a person who holds a valid Project Designer Certificate issued by the New York State Department of Labor.
 
@@ -236,15 +264,23 @@ Small asbestos project. "Small asbestos project" shall mean an asbestos project 
 
 Staging area. "Staging area" shall mean the work area near the waste transfer airlock where containerized asbestos waste has been placed prior to removal from the work area.
 
+Start date. “Start date” shall mean the date when a worker decontamination enclosure system is installed and functional.
+
 Strip. "Strip" shall mean to remove asbestos materials from any part of the facility.
 
 Structural member. "Structural member" shall mean any load-supporting member of a facility, such as beams and load-supporting walls, or any nonload-supporting member, such as ceiling and nonload-supporting walls.
+
+Substrate. “Substrate” shall mean non-asbestos containing material which is beneath and supports asbestos-containing material.
 
 Surface barriers. "Surface barriers" shall mean the plasticizing of walls, floors, and fixed objects within the work area to prevent contamination from subsequent work.
 
 Surfactant. "Surfactant" shall mean a chemical wetting agent added to water to improve penetration.
 
+Suspect Miscellaneous ACM. “Suspect Miscellaneous ACM” shall mean any building material that is not PACM, such as floor tiles, ceiling tiles, mastics/adhesives, sealants, roofing materials, cementitous materials, etc. All Suspect Miscellaneous ACM must be assumed to be ACM, unless proven otherwise by appropriate bulk sampling and laboratory analyses.
+
 Transmission electron microscopy (TEM). "Transmission electron microscopy (TEM)" shall mean the measurement protocol for the assessment of the asbestos fiber content of air. (Interim Transmission Electron Microscopy Analytical Methods - 40 C.F.R. Part 763, Subpart E, Appendix A)
+
+Variance. “Variance” shall mean relief from specific sections of the rule for a specific project.
 
 Visible emissions. "Visible emissions" shall mean any emissions containing particulate material that are visually detectable without the aid of instruments.
 
@@ -256,17 +292,19 @@ Wet cleaning. "Wet cleaning" shall mean the removal of asbestos fibers from buil
 
 Wet methods. "Wet methods" shall mean the use of amended water or removal encapsulants to minimize the generation of fibers during ACM disturbance.
 
-Work area. "Work area" shall mean designated rooms, spaces, or areas of the building or structure where asbestos abatement activities take place. For glovebag procedures, the work area shall also include the areas contiguous to where the procedure takes place.
-
-Worker. "Worker" shall mean asbestos handler and/or asbestos handler supervisor.
-
-Worker decontamination enclosure system. "Worker decontamination enclosure system" shall mean that portion of a decontamination enclosure system designed for controlled passage of workers, and other individuals and authorized visitors, consisting of a clean room, a shower room, and an equipment room separated from each other and from the work area by airlocks and curtained doorways.
+Work area. "Work area" shall mean designated rooms, spaces, or areas of the building or structure where asbestos abatement activities take place. For glovebag procedures, the work area shall also include the areas contiguous to where the glovebag procedure takes place. For the purpose of the survey of a building for asbestos, the work area is the premises, or those portions of the premises where the renovation or alteration work is to occur, as reflected in the Form ACP 5.
 
 Work place. "Work place" shall mean the work area and the decontamination enclosure system(s).
 
 Work place safety plan. "Work place safety plan" shall mean documents prepared by a registered design professional and submitted for review by DEP in order to obtain an asbestos abatement permit. Such plan shall include, but not be limited to, plans, sections, and details of the work area clearly showing the extent, sequence, and means and methods by which the work is to be performed.
 
 Work site. "Work site" shall mean premises where asbestos abatement activity is taking place, and may be composed of one or more work areas.
+
+Worker. "Worker" shall mean asbestos handler and/or asbestos handler supervisor.
+
+Worker decontamination enclosure system. "Worker decontamination enclosure system" shall mean that portion of a decontamination enclosure system designed for controlled passage of workers, and other individuals and authorized visitors, consisting of a clean room, a shower room, and an equipment room separated from each other and from the work area by airlocks and curtained doorways.
+
+
 
 
 
@@ -276,7 +314,7 @@ Work site. "Work site" shall mean premises where asbestos abatement activity is 
 *§ 1-03 Variances.* ::
 
 
-(a) Application for any variance from these rules or Part 56 of Title 12 of New York Codes, Rules and Regulations (Subparts 56-4 through 56-17) shall be made directly to the Department at least two weeks prior to the commencement of work. Work involving a variance may not commence prior to the receipt of the Department's approval of the application.
+(a) Application for any variance must be made directly to the Department at least two weeks prior to the commencement of work. Work involving a variance may not commence prior to the receipt of the Department’s approval of the application. The applicant must pull an approved variance by entering a start date in the Department’s database, and must print out and post a copy of the variance at the work place.
 
 (b) The Department's "Asbestos Variance Application" (ACP-9) form shall be prepared by a project designer and submitted by the building owner or authorized agent, and shall include the following information:
 
@@ -317,6 +355,16 @@ Work site. "Work site" shall mean premises where asbestos abatement activity is 
     * - CATEGORY
       - NYC Asbestos Control Program Section #s 
       - 12 NYCRR Part 56 Section #s 
+~
+
+
+
+
+
+
+.. list-table::
+    :header-rows: 1
+
     * - Air Monitoring
       - 31-45 
       - 56-4, 6 
@@ -346,6 +394,12 @@ Work site. "Work site" shall mean premises where asbestos abatement activity is 
 
 (g) Any violation of the terms of any variance issued under this section shall be considered a violation of the lettered subdivision modified by the variance.
 
+(h) An approved variance, except for a variance from subdivision b of 15 RCNY § 1-22, is valid for a period of six months from the start date. An application to renew an existing variance must be submitted to DEP two weeks prior to the expiration date of the variance.
+
+(i) If the asbestos abatement contractor was the applicant for a variance, or if the building owner changes asbestos abatement contractors during the project, the variance application, and any written approval of the variance, are automatically canceled.
+
+
+
 
 
 
@@ -359,7 +413,7 @@ Work site. "Work site" shall mean premises where asbestos abatement activity is 
 *§ 1-11 Asbestos Handler Certificate.* ::
 
 
-(a)  No individual shall engage in an asbestos project or in asbestos abatement activities on a minor project, for compensation, unless that individual is certified as an asbestos handler by the department and has an "Asbestos Handler Certificate" issued by the department which shall be available at the work place.
+(a)  No individual shall engage in an asbestos project or in asbestos abatement activities on a minor project, for compensation, unless that individual is certified as an asbestos handler by the department and has an "Asbestos Handler Certificate" issued by the department.
 
 (b) The department shall issue an asbestos handler certificate in the form of a photo identification card which shall be valid for two years from the date of issuance to applicants who meet the following conditions:
 
@@ -378,6 +432,8 @@ Work site. "Work site" shall mean premises where asbestos abatement activity is 
 
 
 
+
+
 *§ 1-12 Renewal of Asbestos Handler Certificate.* ::
 
 
@@ -387,7 +443,9 @@ Work site. "Work site" shall mean premises where asbestos abatement activity is 
 
 (c) An applicant denied a certificate on any grounds other than failure to complete a certificate application or failure to meet the minimum requirements set forth in these rules may request a hearing before the commissioner or his/her designee to contest said denial by submitting a written request for such hearing within ten days of receipt of denial.
 
-(d) In the event that an asbestos handler certificate is lost or stolen, the certificate holder must immediately notify the department. An application for a replacement shall be made in writing and shall include a notarized statement that the certificate was lost or stolen, a statement that the applicant understands that submittal of a false statement shall subject him or her to penalties and other remedies under the law, and a fee of $50.
+(d) If an asbestos handler certificate is lost or stolen, the certificate holder must immediately notify the department. An application for a replacement must be made in writing and must include a notarized statement that the certificate was lost or stolen, a statement that the applicant understands that submittal of a false statement will subject him or her to penalties and other remedies under the law, and a fee of $50. A replacement certificate may only be obtained twice in any two-year validity period.
+
+
 
 
 
@@ -429,7 +487,7 @@ Work site. "Work site" shall mean premises where asbestos abatement activity is 
 
       (iii) A graduate from an accredited college of university possessing an associate's degree in applied science and technology, environmental health science, public health, industrial health or a related science shall submit a copy of the degree, and documentation of six months post- graduate experience in asbestos abatement activities.
 
-      (iv) All other applicants shall submit documentation of one year of experience in asbestos abatement activities. The applicant's experience in asbestos abatement activities shall be listed chronologically and shall include each contractor's name/address/phone number; the number of hours worked per week on asbestos abatement activities; the applicant's job title and a brief description of duties; and
+      (iv) All other applicants must submit documentation of one year of experience in asbestos abatement activities. All such experience must be on small or large asbestos projects, and at least half the experience must be on large projects, except employees of electric utilities, whose full year of experience may be on minor or small projects. The applicant's experience in asbestos abatement activities shall be listed chronologically and shall include each contractor's name, address and phone number; the number of hours worked per week on asbestos abatement activities; the applicant's job title and a brief description of duties; and the size of each project; and
 
    (5) Applicant shall achieve a passing grade on a departmental examination, which shall be given in English.
 
@@ -457,7 +515,9 @@ Work site. "Work site" shall mean premises where asbestos abatement activity is 
 
 (c) An applicant denied a certificate on any grounds other than failure to complete a certificate application or failure to meet the minimum requirements set forth in these rules may request a hearing before the commissioner or his/her designee to contest said denial by submitting a written request for such hearing within ten days of receipt of denial.
 
-(d) In the event that an asbestos handler supervisor certificate is lost or stolen, the certificate holder must immediately notify the department. An application for a replacement shall be made in writing and shall include a notarized statement that the certificate was lost or stolen, a statement that the applicant understands that submittal of a false statement shall subject him or her to penalties and other remedies under the law, and a fee of $50.
+(d) If an asbestos handler supervisor certificate is lost or stolen, the certificate holder must immediately notify the department. An application for a replacement must be made in writing and must include a notarized statement that the certificate was lost or stolen, a statement that the applicant understands that submittal of a false statement will subject him or her to penalties and other remedies under the law, and a fee of $50. A replacement certificate may only be obtained twice in any two-year validity period.
+
+
 
 
 
@@ -467,23 +527,21 @@ Work site. "Work site" shall mean premises where asbestos abatement activity is 
 *§ 1-16 Asbestos Investigator Certificate.* ::
 
 
-(a) (1) No individual shall engage in building survey and hazard assessment for asbestos unless that individual is certified as an asbestos investigator by the department.
+(a) (1) No individual shall engage in a building survey for asbestos unless that individual is certified as an asbestos investigator by the department.
 
-   (2) A non-certified individual may participate in an asbestos survey being conducted by a NYC certified investigator only if such individual works in the presence of the investigator and under his/her direct and continuing supervision.
+   (2) An individual not certified by the department may assist in an asbestos survey being conducted by a NYC certified asbestos investigator only if such individual works in the presence of the investigator and under his/her direct and continuing supervision. Non-certified individuals may not collect bulk samples as described in paragraph 3 of this subdivision.
 
-   (3) The investigator shall assume that some or all of the areas investigated contain ACM, and for each area that is not assumed to contain ACM, collect and submit for analysis bulk samples in accordance with 15 RCNY §§ 1-36, 1-37 and 1-44 and EPA publications 560/5-85-024 and 560/5-85-030A, and 40 C.F.R. Part 763.86.
+(b) The department shall qualify applicants to be asbestos investigators. The applicant must both submit documentation of successful completion of a 8 hour minimum introductory blueprint-reading course or any applicable building design and construction training or certification as established by the department and posted on the DEP website and satisfy one of the following five sets of conditions:
 
-(b) The department shall qualify applicants to be asbestos investigators. The applicant shall satisfy one of the following five sets of conditions:
+   (1) A registered design professional, a certified industrial hygienist or a certified safety professional shall submit a copy of licensing or certification and documentation of six months post-graduate experience in building survey for asbestos.
 
-   (1) A registered design professional, a certified industrial hygienist or a certified safety professional shall submit a copy of licensing credentials or certification.
+   (2) A graduate from an accredited college or university possessing a doctorate or master's degree in architecture, engineering, occupational health and safety, industrial hygiene or related science must submit a copy of the degree and documentation of six months post-graduate experience in building survey for asbestos indicating specific addresses at which the graduate performed such building surveys.
 
-   (2) A graduate from an accredited college or university possessing a doctorate or master's degree in architecture, engineering, environmental science, environmental health science, occupational health and safety, industrial hygiene or related environmental science shall submit a copy of the degree and documentation of six months post-graduate experience in building survey/hazard assessment for asbestos.
+   (3) A graduate from an accredited college or university possessing a bachelor's degree in architecture, engineering, occupational health and safety, industrial hygiene or a related science must submit a copy of the degree and documentation of one year post-graduate experience in building survey for asbestos indicating specific addresses at which the graduate performed such building surveys.
 
-   (3) A graduate from an accredited college or university possessing a bachelor's degree in architecture, engineering, environmental science, environmental health science, occupational health and safety, industrial hygiene or a related environmental science shall submit a copy of the degree and documentation of one year post-graduate experience in building survey/hazard assessment for asbestos.
+   (4) A graduate from an accredited college or university possessing an associate's degree in architecture, engineering, environmental health, public health, industrial health, or a related science must submit a copy of the degree and documentation of two years post-graduate experience in conducting building surveys for asbestos, indicating specific addresses at which the graduate performed such building surveys and an additional two years of experience in any other type of building surveys of a technical nature including structural, mechanical, or electrical, is required.
 
-   (4) A graduate from an accredited college or university possessing an associate's degree in architecture, engineering technology, environmental health, public health, industrial health, applied science and technology or a related environmental science shall submit a copy of the degree and documentation of one year post-graduate experience in building survey/hazard assessment for asbestos and an additional two years of building survey-related experience.
-
-   (5) An individual with extensive experience in asbestos investigation on a professional level shall submit documentation demonstrating two years of experience in building survey/hazard assessment for asbestos and an additional three years of other building survey-related experience.
+   (5) An individual with extensive experience in asbestos investigation on a professional level must submit documentation demonstrating three years of experience conducting building surveys for asbestos indicating specific addresses at which the individual performed such building surveys and an additional three years of other experience in any other type of building surveys of a technical nature including structural, mechanical, or electrical is required. Additionally, such an individual must possess a four-year high school diploma or its educational equivalent, approved by a State's Department of Education.
 
 (c) The department shall issue an asbestos investigator certificate in the form of a photo identification card which shall be valid for two years from the date of issuance to qualified applicants who submit the following:
 
@@ -499,7 +557,7 @@ Work site. "Work site" shall mean premises where asbestos abatement activity is 
 
       (ii) Quantitative fit test shall be performed on all full-face negative pressure respirators.
 
-(d) Applicant shall achieve a passing grade on a departmental examination, which shall be given in English.
+(d) Applicant shall be allowed three attempts to achieve a passing grade on a departmental examination. If an applicant receives a failing grade after the third attempt, the applicant shall retake a New York State Inspector Training course as set forth in paragraph 2 of subdivision (c) of this section before being allowed to retake the departmental examination.
 
 (e) Under special circumstances the department may consider applicants who submit additional credentials which are not identical to the categories specified in subdivision (b)(1) through (5) above.
 
@@ -522,6 +580,28 @@ Work site. "Work site" shall mean premises where asbestos abatement activity is 
    (3) Any plan or report submitted without the investigator's seal and signature shall be considered invalid.
 
    (4) [Repealed.]
+
+(i) Employees of the department’s Asbestos Control Program (ACP) are prohibited from applying for an asbestos investigator certificate. Any ACP employee who holds an asbestos investigator certificate is prohibited from applying for renewal of the certificate.
+
+(j) The department may deny any application submitted under this section where it is determined that the applicant has failed to meet the standards established by these rules, including:
+
+   (1) Failure to demonstrate the ability to comply fully with applicable requirements, standards, and procedures set forth in these rules;
+
+   (2) Submission of false information on an application;
+
+   (3) Failure to submit all required information and documentation with the application;
+
+   (4) Where the department has determined that the applicant’s past history of violation of federal or state asbestos regulations, or of any laws, rules, or regulations relating to occupational or public safety or health, indicates a direct relationship between that history and the license or that issuance of the license would pose unreasonable risks to property or safety;
+
+   (5) Loss of a relevant professional accreditation or license; or
+
+   (6) Any other cause which the commissioner determines to be of such serious and compelling nature as to warrant denial of the application.
+
+(k) A certified asbestos investigator who is issued a notice of violation under this section alleging that the investigator engaged in unprofessional conduct that demonstrates a willful disregard for public health, safety or welfare shall be subject to immediate suspension, provided that the Commissioner serves the investigator with a notice of charges and an opportunity to be heard within 15 calendar days, pursuant to Administrative Code § 24-136(e)(4).
+
+(l) When the commissioner has reasonable cause to believe that an asbestos investigator’s surveys have been performed improperly or fraudulently such that work performed, pursuant to such a survey poses or may pose a threat to human safety, he or she may invalidate any or all ACP-5s filed by that asbestos investigator, and may order the building owner to stop all work, have a new survey performed by a different asbestos investigator, and have a new ACP-5 submitted to the department. The commissioner in his or her discretion may waive the filing fee for such ACP 5.
+
+(m) Applicants to become a certified asbestos investigator shall disclose prior convictions as part of their application to the extent permitted under Section 23-A of the correction law, Section 296(16) of the executive law and Section 8-107 of the administrative code, and once certified, must notify DEP in writing of any criminal conviction, to the extent permitted by such laws, within ten days of occurrence.
 
 
 
@@ -551,7 +631,27 @@ Work site. "Work site" shall mean premises where asbestos abatement activity is 
 
 (c) An applicant denied a certificate on any grounds other than failure to complete a certificate application or failure to meet the minimum requirements set forth in these rules may request a hearing before the commissioner or his/her designee to contest said denial by submitting a written request for such hearing within ten days of receipt of denial.
 
-(d) In the event that an asbestos investigator certificate is lost or stolen, the certificate holder must immediately notify the department. An application for a replacement shall be made in writing and shall include a notarized statement that the certificate was lost or stolen, a statement that the applicant understands that submittal of a false statement shall subject him or her to penalties and other remedies under the law, and a fee of $50.
+(d) If an asbestos investigator certificate is lost or stolen, the certificate holder must immediately notify the department. An application for a replacement must be made in writing and must include a notarized statement that the certificate was lost or stolen, a statement that the applicant understands that submittal of a false statement will subject him or her to penalties and other remedies under the law, and a fee of $50. A replacement certificate may only be obtained twice in any two-year validity period.
+
+
+
+
+
+
+
+
+*§ 1-18 Renewal of Restricted Asbestos Handler Certificate.* ::
+
+
+(a) The restricted asbestos handler must apply for renewal of the certificate at least 60 days prior to the date of its expiration.
+
+(b) Application for renewal must be made on a form approved by the department and must be accompanied by a fee of fifty dollars ($50).
+
+(c) An applicant denied a certificate on any grounds other than failure to complete a certificate application or failure to meet the minimum requirements set forth in these rules may request a hearing before the commissioner or the commissioner’s designee to contest that denial by submitting a written request for such hearing within ten days of receipt of the denial.
+
+(d) If a restricted asbestos handler certificate is lost or stolen, the certificate holder must immediately notify the department. An application for a replacement must be made in writing and must include a notarized statement that the certificate was lost or stolen, a statement that the applicant understands that submittal of a false statement will subject him or her to penalties and other remedies under the law, and a fee of $50. A replacement certificate can only be obtained twice in any two-year validity period.
+
+
 
 
 
@@ -586,17 +686,17 @@ Work site. "Work site" shall mean premises where asbestos abatement activity is 
 
    (2) Alterations, renovations, or modifications.
 
-   (3) Plumbing work, except that applications for limited plumbing alterations shall be subject to this section only when the application is for the installation, alteration, or removal of fuel-burning equipment.
+   (3) Plumbing work, except for the direct replacement of plumbing fixtures.
 
-(b) In accordance with section 28-106.1 of the Administrative Code, the building owner or his/her authorized agent shall submit one of the following certifications to the Department of Buildings except as set forth below:
+(b) In accordance with Section 28-106.1 of the Administrative Code, the building owner or such owner's authorized agent must submit one of the following certifications to the Department of Buildings except as set forth below:
 
-   (1) Asbestos Assessment Report. If the building (or portions thereof) affected by the work are free of asbestos-containing material or the amount of ACM to be abated constitutes a minor project, an asbestos assessment report (Form ACP-5) completed, signed, and sealed by a DEP-certified asbestos investigator, along with a fee of $47.00 shall be submitted to DEP prior to construction document approval and to any amendment of the construction document approval which increases the scope of the project to include (a) work area(s) not previously covered.
+   (1) Asbestos Assessment Report. If the building (or portions thereof) affected by the work are free of asbestos-containing material, ACM will not be disturbed by the work, or the amount of ACM to be abated constitutes a minor project, an asbestos assessment report (Form ACP-5) completed, signed, and sealed by a DEP-certified asbestos investigator, along with a fee of $47.00 must be submitted to DEP prior to construction document approval and to any amendment of the construction document approval which increases the scope of the project to include any surveyed area not previously covered.
 
-   (2) Asbestos Exemption Certification. If the work is exempt pursuant to 15 RCNY § 1-23(b), an asbestos exemption certification (Form ASB4) completed, signed, and sealed by the applicant for a DOB permit shall be submitted to DOB prior to construction document approval and to any amendment of the construction document approval which increases the scope of the project to include (a) work area(s) not previously covered.
+   (2) Asbestos Project Completion Form. If an asbestos project has been performed and satisfactorily completed in accordance with these rules, a copy of the asbestos project completion form (Form ACP21) issued to the building owner or its authorized representative by DEP must be submitted to DOB prior to the issuance of a DOB permit and to any amendment of the underlying construction document approval which increases the scope of the project to include any work area not previously covered.
 
-   (3) Asbestos Project Completion Form. If an asbestos project has been performed and satisfactorily completed in accordance with these rules, a copy of the asbestos project completion form issued to the building owner or its authorized representative by DEP shall be submitted to DOB prior to the issuance of a DOB permit and to any amendment of the underlying construction document approval which increases the scope of the project to include (a) work area(s) not previously covered.
+   (3) Asbestos Project Conditional Completion Form. If an asbestos project has been performed but would be subject to the procedures of 15 RCNY § 1-26(c)(2)(ii), a copy of the asbestos project conditional completion form (Form ACP20) issued to the building owner or its authorized representative by DEP must be submitted to DOB prior to the issuance of a DOB permit and to any amendment of the underlying construction document approval which increases the scope of the project to include any work area not previously covered.
 
-   (4) An Asbestos Project Conditional Completion Form. If an asbestos project has been performed but would be subject to the procedures of 15 RCNY § 1-26(c)(2)(ii), a copy of the asbestos project conditional completion form issued to the building owner or its authorized representative by DEP shall be submitted to DOB prior to the issuance of a DOB permit and to any amendment of the underlying construction document approval which increases the scope of the project to include (a) work area(s) not previously covered.
+
 
 
 
@@ -608,17 +708,19 @@ Work site. "Work site" shall mean premises where asbestos abatement activity is 
 
 (a) As early as possible before an alteration, renovation, modification, demolition, or plumbing work takes place, or changes in such work occur, the building owner shall be responsible for having an asbestos survey performed by a DEP-certified asbestos investigator to determine the absence or presence of asbestos-containing material which may be disturbed during the course of the work. The owner of the building or authorized agent shall comply with the notification requirements of 15 RCNY § 1-25 regarding asbestos-containing material.
 
-(b) Asbestos Exemption Certification (ASB4 Form). Where the work to be performed requires a permit to be issued by the Department of Buildings, an asbestos exemption certification (ASB4 Form) may be submitted to the Department of Buildings in accordance with 15 RCNY § 1-22(b)(2) where the applicant for construction document approval certifies that:
+(b) Asbestos Exemption. Where the work to be performed requires a permit to be issued by the DOB, an asbestos exemption may be claimed by checking the appropriate boxes on the DOB permit application forms PW1 or LAA1, where the applicant for construction document approval certifies that:
 
    (1) the permit sought does not involve the performance of any physical work, such as permits for zoning lot subdivisions, zoning lot reapportionment, or changes in the certificate of occupancy; or
 
-   (2) no existing building materials are to be disturbed by the proposed work; or
+   (2) no existing building materials, as the term "building materials" is defined in these rules, are to be disturbed by the proposed work; or
 
    (3) the activities being performed include work on one of the following: Awnings Cranes not anchored to building or structure Emergency power not involving hard wiring, e.g. battery packs Exterior concrete work (e.g. sidewalks, curb cuts, traffic islands) except if waterproofing compound is present Exterior scaffolding not anchored to building or structure Exterior trenching and drainage Ground-mounted flagpoles New storefronts in existing masonry openings (no disturbance of existing building) Radio antennas (free-standing towers) Relocating free-standing parking lot sheds Replacing rooftop air conditioning (no modification of ductwork or disturbance of building) Roadway asphalt Sealing unsafe or abandoned buildings with cinderblock and mortar Sidewalk sheds, bridges, fences, elevators, hoists and café signs (no penetration of building materials) Street furniture, e.g. candy or newsstands, bus shelters, kiosks Installation of new outdoor swimming pool Free-standing tents Erection of temporary structures (e.g. trailers) with electric/water lines only
 
-(c) Asbestos Assessment Report (ACP-5 Form). If, after a survey performed by a DEP-certified asbestos investigator, it is determined that the building (or portion thereof) affected by the work is free of asbestos-containing material or the amount of ACM to be abated constitutes a minor project, said asbestos investigator shall complete, sign, and affix his or her seal to the asbestos assessment report (ACP-5 Form) which shall be submitted with an fee of $47.00 DEP in accordance with 15 RCNY § 1-22(b)(1).
+(c) Asbestos Assessment Report (ACP-5 Form). If, after a survey performed by a DEP-certified asbestos investigator, it is determined that the building (or portion thereof) affected by the work is free of asbestos-containing material, the ACM present will not be disturbed by the work, or the amount of ACM to be abated constitutes a minor project, said asbestos investigator must complete, sign, and affix his or her seal to the asbestos assessment report (ACP-5 Form) which shall be submitted with a fee of $47.00 to DEP in accordance with 15 RCNY § 1-22(b)(1).
 
 (d) Asbestos Project Completion Form. Where the work to be performed constitutes an asbestos project, an asbestos project notification (ACP-7 Form) shall be submitted to DEP in accordance with the provisions of 15 RCNY § 1-25. Upon completion of the asbestos project and submission of all required documentation to DEP, DEP shall issue an asbestos project completion form to the building owner or its authorized representative.
+
+
 
 
 
@@ -638,7 +740,7 @@ Work site. "Work site" shall mean premises where asbestos abatement activity is 
 
    (4) Other miscellaneous activities not previously exempted.
 
-(b) Work constituting a minor project. If the work is a minor project, no notification or fee payable to the department shall be required, unless notification and fees are otherwise required by these regulations.
+(b) Reserved.
 
 (c) Asbestos Projects. If the cumulative total of all surfaces affected by the work is an asbestos project, the department's asbestos project notification (ACP-7 Form) completed by the building owner or authorized agent, and listing each work area within the building separately, shall be submitted directly to the department one week in advance of the start of the work along with a filing fee in the following amounts:
 
@@ -650,7 +752,9 @@ Work site. "Work site" shall mean premises where asbestos abatement activity is 
 
    (4) For work which will disturb 1,000 linear feet or more, or 1,000 square feet or more, of asbestos-containing materials, the fee shall be $1,200.
 
-(d) Modification of or deviation from the information provided in any notification submitted to the DEP under this section shall immediately be reported in writing directly to DEP if the change refers to the identity of the building owner or ACM removal contractor or the air monitoring firm; or the amount of ACM to be removed; or the dates of the project; or the specific project location. A notification may be modified no more than twice, however, a modification related to the extension or reinstatement of an asbestos abatement permit shall not count towards this total. A modification is valid only if it is received by the DEP prior to the previously filed date of completion, except for start date changes which must be received by the original start date. Thereafter, a new notification submitted directly to the department will be required. Additional work, identified after the completion of the work indicated on the asbestos project notification and successful clearance air monitoring, shall require a new notification. A notification to DEP shall be valid for one year from the date of original filing.
+(d) Modification of or deviation from the information provided in any notification submitted to the DEP under this section must immediately be reported to DEP using the ARTS E-File system if the change refers to the identity of the building owner or ACM removal contractor or the air monitoring firm; or the amount of ACM to be removed; or the dates of the project; or the specific project location. A notification may be modified no more than twice, but a modification related to the extension or reinstatement of an asbestos abatement permit shall not count towards this total. A modification is valid only if it is received by the DEP prior to the previously filed date of completion, except for start date changes which must be received by the original start date. If the modification is received after that date, a new notification submitted directly to the department will be required. Additional work, identified after the completion of the work indicated on the asbestos project notification and successful clearance air monitoring, shall require a new notification. A notification to DEP shall be valid for one year from the date of original filing.
+
+
 
 
 
@@ -686,19 +790,15 @@ Work site. "Work site" shall mean premises where asbestos abatement activity is 
 
    (13) Removal of any fire damper, smoke damper, fire stopping material, fire blocking, or draft stopping within fire-resistance rated assemblies or within concealed spaces;
 
-   (14) [Repealed.]
+   (14) Obstruction of an interior stairway leading to an exit or exit passageway of a building.
 
 (b) Work Place Safety Plan.
 
-   (1) Plan required. For projects requiring an asbestos abatement permit due to one or more of the activities listed in (a)(1) - (9), the building owner or its authorized representative shall submit, together with the asbestos project notification, a work place safety plan (WPSP) and any other applicable construction documents, which shall be prepared by a registered design professional, and a permit fee as specified in subsection (g).
+   (1) Plan required. For projects requiring an asbestos abatement permit due to one or more of the activities listed in (a)(1) - (14), the building owner or its authorized representative must submit, together with the asbestos project notification, a work place safety plan (WPSP) and any other applicable construction documents, which must be prepared by a registered design professional, and a permit fee as specified in subsection (g). If the WPSP is being submitted, pursuant to subsection (a)(9), it must also set forth the sequencing of the proposed work. The WPSP may not be approved unless it provides for a buffer of four floors or an adequate buffer as determined by the commissioner between the abatement and the demolition or floor removal work.
 
-   (2) Plan not required. For projects requiring an asbestos abatement permit due to one or more of the activities listed in (a)(10) - (13), the building owner or its authorized representative shall submit, together with the asbestos project notification, all applicable asbestos abatement permit construction documents, and a permit fee as specified in subsection (g).
+   (2) Work Place Safety Plan requirements. The WPSP must include, but not be limited to, the following items, depending on the size and scope of the asbestos project:
 
-      (i) If the WPSP is being submitted pursuant to subsection (a)(9), it shall also set forth the sequencing of the proposed work. The WPSP shall not be approved unless it provides for a buffer of four floors or an adequate buffer as determined by the commissioner between the abatement and the demolition or floor removal work.
-
-   (3) Plan requirements. The WPSP shall include, but not be limited to, the following items, depending on the size and scope of the asbestos project:
-
-      (i) Floor plans showing the locations of all asbestos project work areas in the building.
+      (i) Floor plans showing the locations of all asbestos project work areas and decontamination enclosure systems in the building.
 
       (ii) Floor plans indicating the locations of any components of the fire alarm system which have been deactivated, and setting forth mitigation measures to be implemented for the duration of the project.
 
@@ -710,15 +810,17 @@ Work site. "Work site" shall mean premises where asbestos abatement activity is 
 
       (vi) A written description of all measures taken to mitigate compromised fire protection systems or means of egress, including but not limited to surveillance by a fire watch and an action plan setting forth procedures to be taken for the safety of building occupants in the event of an emergency.
 
-      (vii) If the asbestos project is being performed in a building where any dwelling unit is to be occupied for the duration of the permit, the WPSP shall include a tenant protection plan as required by chapter 1 of Title 28 of the Administrative Code.
+      (vii) If the asbestos project is being performed in a building where any dwelling unit is to be occupied for the duration of the permit, the WPSP shall include a tenant protection plan as required by Chapter 1 of Title 28 of the Administrative Code.
 
       (viii) A list of all non asbestos contractors who will perform work on the project.
 
-   (4) Approval. The documents submitted pursuant to subsection (b) will be reviewed by DEP's asbestos technical review unit (A-TRU) and by any other relevant city agencies. Upon approval by A-TRU, DEP will issue an asbestos abatement permit to the building owner or its authorized representative.
+   (3) Approval. The documents submitted, pursuant to subsection (b) will be reviewed by DEP's asbestos technical review unit (A-TRU) and by any other relevant city agencies. Upon approval by A-TRU, DEP will issue an asbestos abatement permit to the building owner or its authorized representative, who must retrieve the approved stamped copy of the WPSP from DEP and post that copy at the work place.
+
+   (4) Failure to comply with the approved WPSP is a violation of these rules.
 
 (c) Inspections required.
 
-   (1) All inspections required pursuant to Title 28 of the Administrative Code, including but not limited to special inspections required by Chapter 17 of the Building Code, shall be performed by a registered design professional who is independent of the abatement contractor.
+   (1) All inspections required, pursuant to Title 28 of the Administrative Code, including but not limited to special inspections required by Chapter 17 of the Building Code, must be performed by a registered design professional who is independent of the abatement contractor and hired by the building owner or that owner's authorized representative.
 
    (2) A final inspection shall be performed by a registered design professional after all work authorized by the asbestos abatement permit is completed. The person performing the inspection shall note all failures to comply with the provisions of the Building Code or approved asbestos abatement permit and shall promptly notify the owner in writing. All defects noted in such inspection shall be corrected. The final inspection report shall either:
 
@@ -742,7 +844,7 @@ Work site. "Work site" shall mean premises where asbestos abatement activity is 
 
          (D) that all completed work pursuant to an asbestos abatement permit is in substantial compliance with the approved asbestos abatement permit construction documents.
 
-   (3) Final inspection reports shall be filed with DEP on A-TR1 form. Records of final inspections made by registered design professionals shall be maintained by such persons for a period of six years after final inspection or for such other period as the commissioner shall require and shall be made available to the department upon request.
+   (3) Final inspection reports shall be filed with the DEP on A-TR1 form. Records of final inspections made by registered design professionals shall be maintained by such persons for a period of six years after final inspection, or for such other period as the commissioner shall require, and shall be made available within 72 hours. These records may be maintained in an electronic recordkeeping system instead of in paper form.
 
 (d) Duration of Permit. An asbestos abatement permit shall expire upon the earlier of one year from the date of issuance or when terminated pursuant to either of the following:
 
@@ -774,21 +876,25 @@ Work site. "Work site" shall mean premises where asbestos abatement activity is 
       - $100 
     * - 100 to 259 linear feet or 50 to 159 square feet of ACM
       - $300
-    * - Large projects up to 1000 square/linear feet of ACM
+    * - Large projects up to 1,000 square/linear feet of ACM
       - $500
-    * - 1000 to 4999 square/linear feet of ACM
+    * - 1,000 to 4,999 square/linear feet of ACM
       - $700
-    * - 5000 to 9999 square/linear feet of ACM
-      - $1100
+    * - 5,000 to 9,999 square/linear feet of ACM
+      - $1,100
     * - 10,000 or more square/linear feet of ACM
-      - $1300
+      - $1,300
 ~
 
 
 
  
 
-(h) Work covered by the asbestos abatement permit shall not commence until said permit is issued.
+(h)  Work covered by the asbestos abatement permit shall not commence until said permit is issued with a specified start date and posted with the approved WPSP by the applicant at the work place.
+
+(i) If additional ACM is added to a project that has an approved WPSP, a registered design professional must submit a letter to the Asbestos Technical Review Unit affirming that the professional has visited the work place and that the additional asbestos abatement is consistent with the approved WPSP and that proposed changes will not impact egress or fire protection requirements.
+
+
 
 
 
@@ -798,7 +904,7 @@ Work site. "Work site" shall mean premises where asbestos abatement activity is 
 *§ 1-27 Emergency Asbestos Project Notification.* ::
 
 
-(a) An emergency asbestos project involves the removal, enclosure or encapsulation of asbestos-containing material that was not planned but is undertaken when sudden unexpected event(s) result in a situation in which any delay in abatement would pose an immediate danger to public safety and health.
+(a) An emergency asbestos project involves the removal, enclosure, encapsulation or cleanup of asbestos-containing material that was not planned but is undertaken when sudden unexpected event(s) result in a situation in which any delay in abatement would pose an immediate danger to public safety and health.
 
 (b) When such an emergency asbestos project occurs, immediate telephone notification shall be provided to DEP's asbestos control program. Telephone notification shall include:
 
@@ -831,18 +937,20 @@ Work site. "Work site" shall mean premises where asbestos abatement activity is 
 
 
 
+
+
 *§ 1-28 Record Keeping Requirements for Investigators.* ::
 
 
-(a) The asbestos investigator shall maintain a permanent record as required under this section for every building survey/hazard assessment for asbestos that is conducted pursuant to or submitted in accordance with 15 RCNY §§ 1-22 through 1-27.
+(a) The asbestos investigator must maintain a permanent record as required under this section for every building survey for asbestos that is conducted, pursuant to or submitted in accordance with 15 RCNY §§ 1-22 through 1-27 and 1-38.
 
-(b) For each building survey/hazard assessment conducted prior to preparation of either the asbestos project notification (ACP-7) or asbestos assessment report (ACP-5), the investigator shall compile a record which shall include at a minimum:
+(b) For each building survey conducted prior to preparation of either the asbestos project notification (ACP-7) or asbestos assessment report (ACP-5), the investigator must compile a record which must include at a minimum:
 
-   (1) A survey report that reflects the condition of the work area at the time of the investigator's inspection. The report is to include, at a minimum, the building's address and the name and address of the building owner, as well as the locations, quantities, and condition of all building materials in the affected portion(s) of the building or structure relative to the ACM contained therein; the building or structure's address; and the name and address of the building owner; and
+   (1) A survey report that reflects the condition of the surveyed area at the date and time of the investigator's inspection. The report is to include, at a minimum, the building or structure address and the name and address of the building or structure owner, as well as the locations, quantities, and condition of all building materials in the affected portion(s) of the building or structure and
 
-   (2) A blueprint, diagram, drawing, or written description of each building or portion thereof inspected by the investigator that identifies clearly each location and approximate linear or square footage of any area where material was sampled for ACM, and the exact locations where bulk samples were collected, the date of collection, and location of any areas assumed to have ACM; and
+   (2) A blueprint, diagram, drawing, or written description of each building or portion thereof inspected by the investigator that identifies clearly each location and approximate linear or square footage of all areas affected by the proposed work where material was sampled and/or assumed to be ACM, the exact locations where bulk samples were collected, and the date of collection, and
 
-   (3) The printed name and signature of any and all persons who collect bulk samples for the purpose of determining the presence of ACM, a copy of the current DEP asbestos handler certificate and NYSDOL asbestos handler certificate of each such person, the name of the firm performing the survey and a copy of its current NYSDOL asbestos handling license, the name and address of the laboratory analyzing the samples, the date of analysis, the results of the analysis, the method of analysis and the name and signature of the person performing the analysis; and
+   (3) The printed name and signature of any and all persons who collect bulk samples for the purpose of determining the presence of ACM, a copy of the current New York State asbestos inspector certificate of each such person, the name of the firm performing the survey and a copy of its current NYSDOL asbestos handling license, the name and address of the laboratory analyzing the samples, the date of analysis, the results of the analysis, the method of analysis and the name and signature of the person performing the analysis; and
 
    (4) A detailed written description of any proposed demolition, renovation, alteration or modification work to be performed, including the techniques to be used and a description of affected facility components; and
 
@@ -850,9 +958,13 @@ Work site. "Work site" shall mean premises where asbestos abatement activity is 
 
 (c) The investigator shall indicate in each record all instances in which work was performed by a non-certified individual pursuant to 15 RCNY § 1-16(a)(2), and shall include such individual's name, address, telephone number, and a specific description of all activities performed by such individual.
 
-(d) The investigator shall maintain these records for thirty (30) years.
+(d) The investigator must maintain these records for thirty (30) years. These records may be maintained in an electronic recordkeeping system instead of in paper form. Upon the death of the investigator, records may be destroyed and notification must be sent to the Asbestos Control Program.
 
-(e) The investigator shall make these records available during normal business hours without cost or restriction for inspection by a representative of the Department.
+(e) The investigator shall make these records available during normal business hours, pursuant to an appointment without cost or restriction for inspection by a representative of the Department.
+
+(f) Records must be stored in a manner that minimizes the possibility of damage from water. The investigator must immediately report if any records are damaged, lost or destroyed.
+
+
 
 
 
@@ -874,7 +986,7 @@ Work site. "Work site" shall mean premises where asbestos abatement activity is 
 
    (5) A copy of the air sampling log and all air sampling results;
 
-   (6) A copy of the abatement contractor's daily log book;
+   (6) A copy of the abatement contractor’s and air monitor’s daily log books;
 
    (7) All data related to bulk sampling including the results of any asbestos surveys performed by an asbestos investigator;
 
@@ -882,7 +994,9 @@ Work site. "Work site" shall mean premises where asbestos abatement activity is 
 
    (9) A copy of all project monitor's reports.
 
-(b) In addition to the project record required in subsection (a), the asbestos abatement contractor shall maintain, for at least thirty (30) years after the end of the project, a project summary for each asbestos project in which they engage, consisting of the following: (1)  Name, address, and DEP certificate number of all individuals who worked on the project;
+(b) In addition to the project record required in subsection (a), the asbestos abatement contractor shall maintain, for at least thirty (30) years after the end of the project, a project summary for each asbestos project in which they engage. These records may be maintained in an electronic recordkeeping system instead of in paper form. That project record must consist of the following:
+
+   (1) Name, address, and DEP certificate number of all individuals who worked on the project;
 
    (2) Location and general description of the project;
 
@@ -900,7 +1014,21 @@ Work site. "Work site" shall mean premises where asbestos abatement activity is 
 
    (9) Copy of the project log.
 
-(c) The building owner or contractor, as applicable, must make the project record or project summary required by this section available for inspection by DEP within 72 hours of request, except that during the project the project record must be made available immediately upon request.
+(c) The building owner, contractor or air monitor, as applicable, must make the project record or project summary required by this section available for inspection by DEP within 72 hours of request, except that during the project the project record must be made available upon request.
+
+(d) In addition to the project record required in subdivision (a), the air monitoring company must maintain, for at least thirty (30) years after the end of the project, a project summary for each asbestos project in which the company engages. These records may be maintained in an electronic recordkeeping system instead of in paper form. The project summary must consist of the following:
+
+   (1) The DEP certificate number of all individuals who worked on the project;
+
+   (2) The location and general description of the project;
+
+   (3) The start and completion dates for the project;
+
+   (4) The name, address, and ELAP registration number of the laboratory used for air sample analysis; and
+
+   (5) A copy of the project air sampling log.
+
+
 
 
 
@@ -927,7 +1055,7 @@ Air sampling, monitoring, and analysis on asbestos projects, and bulk sampling a
 
 (a)  Sampling and analysis shall be performed by:
 
-   (1) a third party who is contracted by the building owner, holds a current NYSDOL asbestos handling license, and is completely independent of all parties involved in the asbestos project. The third party who conducts air sampling on an asbestos project shall not be a subcontractor of the abatement contractor, and shall not have any business, personal, or other relationship with the abatement contractor. The building owner shall select and hire the air monitoring firm without recommendation or reference from the abatement contractor. It shall be a violation of this subsection, chargeable against the abatement contractor, the air monitoring firm, and the building owner, for an air monitoring firm to conduct air monitoring on an asbestos project where there is a business or personal relationship between the abatement contractor and the air monitoring firm. It shall be considered prima facie evidence of a business or personal relationship between an abatement contractor and an air monitoring firm when the same firm performs air monitoring on all or virtually all of a given abatement contractor's projects. The person who conducts sampling shall be currently certified as a New York State Asbestos Project Air Sampling Technician when performing air sampling. Failure to produce the certificate upon request shall be a violation chargeable against the individual conducting the sampling; or
+   (1) A third party who is contracted by the building owner, holds a current NYSDOL asbestos handling license, and is completely independent of all parties involved in the asbestos project. The third party who conducts air sampling on an asbestos project shall not be a subcontractor of the abatement contractor, and shall not have any business, personal, or other relationship with the abatement contractor. The building owner shall select and hire the air monitoring firm without recommendation or reference from the abatement contractor. It shall be a violation of this subsection, chargeable against the abatement contractor, the air monitoring firm, and the building owner, for an air monitoring firm to conduct air monitoring on an asbestos project where there is a business or personal relationship between the abatement contractor and the air monitoring firm. It shall be considered prima facie evidence of a business or personal relationship between an abatement contractor and an air monitoring firm when the same firm performs air monitoring on all or virtually all of a given abatement contractor's projects. The person who conducts sampling shall be currently certified as a New York State Asbestos Project Air Sampling Technician when performing air sampling. Failure to have a valid certification based either on office records or upon request shall be a violation chargeable against the individual conducting the sampling; or
 
    (2) Sampling and analysis staff which may not be independent of the building owner but are independent of the abatement contractor involved in the asbestos project, but only if such staff:
 
@@ -939,7 +1067,7 @@ Air sampling, monitoring, and analysis on asbestos projects, and bulk sampling a
 
    (4) Only persons certified by the Department as asbestos investigators or by New York State Department of Labor as Asbestos Inspectors may select and collect bulk samples for analysis.
 
-(b) An air sampling technician shall be present at the work site to observe and maintain air sampling equipment for the duration of the air sample collection.
+(b) One air sampling technician must be present per three work areas in one work site to observe and maintain air sampling equipment for the duration of the air sample collection.
 
 (c) Bulk sample analysis (PLM or gravimetric reduction and TEM analysis) shall be performed by laboratories with the appropriate accreditation in the ELAP.
 
@@ -952,6 +1080,8 @@ Air sampling, monitoring, and analysis on asbestos projects, and bulk sampling a
    (3) Accreditation in ELAP.
 
 (e) Air Sample Analysis (TEM) shall be performed by analysts who possess skills in TEM analysis, are accredited in ELAP, and participate in an in-house quality assurance program using the National Institute of Standards and Technology (NIST SRM 1876 b) or traceable standard.
+
+
 
 
 
@@ -971,21 +1101,59 @@ Air sampling, monitoring, and analysis on asbestos projects, and bulk sampling a
 
 (c) Area air sampling equipment for Transmission Electron Microscopy (TEM) shall be utilized in accordance with the sampling procedures specified within 40 C.F.R. Part 763, Subpart E, Appendix A – Section II Mandatory Transmission Electron Microscopy Method, Subsection B - Sampling.
 
-(d) Air sampling pumps shall have a constant controlled flow and shall have the flow rate capacity to perform sampling as specified in these rules. A properly calibrated rotometer shall be used to check the flow rate. A rotometer shall be available at the work place for the duration of air sample collection. Primary and secondary calibration devices shall be calibrated as per NYSDOH ELAP requirements.
+(d) Air sampling pumps must have a constant controlled flow and must have the flow rate capacity to perform sampling as specified in these rules. A properly calibrated rotometer must be used to check the flow rate. A rotometer, along with its current calibration sheet, must be available at the work place for the duration of air sample collection. Primary and secondary calibration devices must be calibrated as per NYSDOH ELAP requirements.
 
 (e) Sampling pumps, cassettes, and tubing shall be checked before, during and after use. The sampling assembly shall be checked for leaks and occlusions.
 
-(f) A project air sampling log shall be created and maintained in a bound notebook by the air monitoring company. The project air sampling log shall be available at the work site. A copy of the log shall be submitted to the department within 24 hours of request. The log shall contain the following information for all area air samples collected on the asbestos project:
+(f) A project air sampling log must be created and maintained in a bound notebook by the air monitoring company. The project air sampling log must be available at the work site. A copy of the log must be submitted to the department within 72 hours of request. The log must contain the following information for all area air samples collected on the asbestos project:
 
    (1) Name of the firm and the certified air sampling technician performing the project air sampling, per work shift or day for all area air samples collected.
 
    (2) Dates of project air sample collection, per work shift or day of area air samples, with appropriate reference to the work area to which the air samples apply.
 
-   (3) Sample location sketch, identifying all project air sample locations, per work shift or day of area air samples.
+   (3) Sample location sketch, showing the sample ID numbers, identifying all project air sample locations, per work shift or day of area air samples. The sketch must be made within one hour of the beginning of sample collection.
 
    (4) Flow rate primary or secondary calibration device identification number, method of flow rate primary or secondary device calibration and date of last calibration, per work shift or day of area air samples.
 
    (5) Flow rate of sampling pumps with pre and post calibration listed for each area air sample collected.
+
+
+
+
+
+
+
+
+*§ 1-38 Asbestos Assessment Report – Asbestos Survey and Sampling Requirements.* ::
+
+
+(a) The asbestos survey shall at a minimum identify and assess the exact locations and quantities of ACM, PACM, and suspect miscellaneous ACM. The asbestos investigator is responsible for the identification and assessment of all types of ACM, PACM and suspect miscellaneous ACM within each area, as indicated by the proposed scope of work or job description(s) indicated in the DOB permit applications or plans.
+
+(b) The asbestos investigator shall assume that some or all of the areas investigated contain ACM, and for each area that is not assumed to contain ACM, must collect bulk samples and submit for analysis in accordance with 15 RCNY §§ 1-36(c), 1-37(a) and 1-44(c) and EPA publications 560/5-85-024 and 560/5-85-030A, and 40 C.F.R. Part 763.80, 763.85, and 763.86.
+
+   (1) PACM Sampling Requirements.
+
+      (a) Surfacing Material. Surfacing material includes but is not limited to fireproofing, acoustical plaster, finish plasters and skim coats of joints. Surfacing materials must be sampled as follows:
+
+         i. At least 3 samples from each homogeneous area that is 1,000 square feet (sf) or less.
+
+         ii. At least 5 samples from each homogeneous area that is greater than 1,000 sf but that is 5,000 sf or less.
+
+         iii. At least 7 samples from each homogeneous area that is greater than 5,000 sf.
+
+      (b) Thermal System Insulation (TSI). TSI includes, but is not limited to, equipment insulation, boiler, breeching, boiler rope, duct, or tank insulation, cement or mortar used for boilers and refractory brick, piping and fitting insulation including but not limited to wrapped paper, aircell, millboard, rope, cork, preformed plaster, job molded plaster and coverings over fibrous glass insulation. TSI must be sampled as follows:
+
+         i. At least 3 samples from each homogeneous area of TSI.
+
+         ii. At least one sample from each homogeneous area of patched TSI if the patched section is less than 6 linear feet or 6 square feet.
+
+         iii. In a manner sufficient to determine if the material is ACM, for packed fittings such as elbows, valves, tees, etc.
+
+         iv. Samples are not required where the asbestos investigator has determined that the TSI is fiberglass, foam glass, rubber, or other non-asbestos containing building material.
+
+      (c) Suspect Miscellaneous Materials. Other suspect miscellaneous materials including, but not limited to, insulation board, vapor barriers, coatings, non-metallic or non-wood roof decking, felts, cementitious board (transite), pipe (transite), flashing, shingles, galbestos, dust and debris, floor tiles, cove base, floor leveler compound, ceiling tile, vermiculite insulation, gaskets, seals, sealants (including for condensate control), vibration isolators, laboratory tables and hoods, chalkboards, pipe penetration packing and other fire-stopping materials, millboard, electrical wire insulation, fire curtains, fire blankets, fire doors, brakes and clutches, mastics, adhesives, glues, caulks, sheet flooring (linoleum), wallpaper, drywall, plasterboard, spackling/ joint compound, textured paint, grout, glazing compound, and terrazzo. Suspect miscellaneous materials must be sampled as follows: At least 2 samples shall be taken, or samples shall be taken in a manner sufficient to determine if the material is ACM.
+
+
 
 
 
@@ -1004,34 +1172,30 @@ Air sampling, monitoring, and analysis on asbestos projects, and bulk sampling a
     :header-rows: 1
 
     * - Abatement Activity
+      - 
       - Pre-Abatement
       - During Abatement
       - Post-Abatement 
-    * - Equal to or Greater than 10,000 ft.2or 10,000 linear ft. of ACM per work area
-      - PCM 
-      - PCM 
-      - TEM 
-    * - Less than 10,000 ft.2or 10,000 linear ft. of ACM
-      - PCM 
-      - PCM 
-      - PCM 
 ~
 
 
 
- 
 
- 
 
 
 .. list-table::
     :header-rows: 1
 
-    * -  
-      -  
-      - Pre- Abatement 
-      - During Abatement
-      - Post-Abatement 
+    * - Equal to or Greater than 10,000 ft.2or 10,000 linear ft. of ACM per work area
+      - PCM 
+      - PCM 
+      - TEM 
+      - 
+    * - Less than 10,000 ft.2or 10,000 linear ft. of ACM
+      - PCM 
+      - PCM 
+      - PCM 
+      - 
     * - Large Asbestos Projects
       - 
       - 
@@ -1236,15 +1400,15 @@ Note: TEM is acceptable wherever PCM is required.
 
    (1) For small asbestos projects:
 
-      (i) involving full containment or interior foam method, three area samples inside and three outside the work area;
+      (i) involving full containment or interior foam method (if required by 15 RCNY § 1-41(a)), three area samples inside and three outside the work area;
 
       (ii) involving tent procedure (with or without the use of glovebags), three area samples inside each work area or one area sample inside each tent if there are more than three tents;
 
       (iii) involving exterior foam method or removal from vertical surfaces, three area samples inside the restricted area beneath and/or immediately adjacent to the work area, only if visible emissions were detected during the project, or abatement area samples exceeded 0.01 f/cc.
 
-   (2) For large asbestos projects,
+   (2) For large asbestos projects:
 
-      (i) a minimum of five area samples inside and five outside the work area, for projects involving full containment or interior foam method. In addition to the 5 sample minimum, one representative area sample shall be collected both inside and outside the work area for every 5,000 square feet above 25,000 square feet of floor space when ACM has been abated.
+      (i) a minimum of five area samples inside and five outside the work area, for projects involving full containment or interior foam method (if required by 15 RCNY § 1-41(a)). In addition to the five sample minimum, one representative area sample must be collected both inside and outside the work area for every 5,000 square feet above 25,000 square feet of floor space when ACM has been abated.
 
       (ii) a minimum of five area samples inside each tent enclosure where glovebag procedures are being used, or two area samples inside each tent where glovebag procedures are being used if there are more than three tents;
 
@@ -1253,6 +1417,8 @@ Note: TEM is acceptable wherever PCM is required.
    (3) When TEM analysis is employed a minimum of 5 samples from outside the work area shall also be collected.
 
    (4) For minor projects post-abatement clearance air monitoring is not required, unless visible emissions were detected outside the work area and/or levels exceeded 0.01 f/cc during abatement, or the project was conducted inside a school, daycare, or healthcare institution. In such cases, one area sample shall be taken.
+
+
 
 
 
@@ -1282,13 +1448,13 @@ Monitoring requirements and procedures for other than post-abatement clearance a
       - Minimum Volume 
       - Flow Rate 
     * - PCM 25 mm
-      - 560 
+      - 560
       - 5 to 15 liters/min. 
     * - TEM 25 mm
-      - 560 
+      - 560
       - 1 to 10 liters/min. 
     * - TEM 37 mm
-      - 1,250 
+      - 1,250
       - 1 to 10 liters/min. 
 ~
 
@@ -1367,11 +1533,13 @@ Laboratory analyses and reporting shall be considered evidence of compliance wit
 
 (a) PCM area air samples shall be analyzed and reported in accordance with the NIOSH 7400 method using "A" Counting Rules.
 
-(b) TEM area air samples shall be analyzed and reported in accordance with the mandatory or non-mandatory Electron Microscopy Methods set forth at 40 C.F.R. Part 763, Subpart E, Appendix A.
+(b) TEM area air samples must be analyzed and reported in accordance with the mandatory or non-mandatory Electron Microscopy Methods set forth at 40 C.F.R. Part 763, Subpart E.
 
-(c) Bulk samples shall be analyzed and reported in accordance with Interim Method for the Determination of Asbestiform Materials in Bulk Insulation Samples found in 40 C.F.R. Part 763, Subpart F, Appendix A as amended on September 1, 1982, or other methods approved by the National Institute of Standards and Technology, the National Institute of Occupational Safety and Health, the United States Environmental Protection Agency, or New York State Department of Health.
+(c) Bulk samples must be analyzed and reported in accordance with the Method for the Determination of Asbestos in Bulk Building Materials found in 40 C.F.R. Part 763, Subpart E, or other methods approved by the National Institute of Standards and Technology, the National Institute of Occupational Safety and Health, the United States Environmental Protection Agency, or New York State Department of Health.
 
-(d) Bulk and air sampling results/reports shall be submitted directly to the Department upon request within five calendar days.
+(d) Bulk and air sampling results/reports shall be submitted directly to the Department upon request within 72 hours.
+
+
 
 
 
@@ -1405,22 +1573,22 @@ Laboratory analyses and reporting shall be considered evidence of compliance wit
 
 
 
-*§ 1-51 Worker Protection Requirements.* ::
+*§ 1-51 Personnel Protection and Hygiene Requirements.* ::
 
 
 (a)  Prior to project initiation, all workers engaged in abatement activities on an asbestos project or minor project must be certified by DEP.
 
 (b) At least one asbestos handler supervisor shall be present at the work site while abatement activities are being conducted on an asbestos project or minor project, except that during minor projects the supervisor does not have to be physically present at all times but must be readily available.
 
-(c) Personal protective equipment shall be worn by all individuals inside the work place during abatement activities, except that gloves need not be worn during those work place preparation activities which do not involve the disturbance of ACM. Personal protective equipment shall meet the following specifications:
+(c) Personal protective equipment must be worn by all individuals inside the work place during abatement activities, except that gloves need not be worn during those work place preparation activities which do not involve the disturbance of ACM. Personal protective equipment must meet the following specifications:
 
    (1) Disposable clothing including head, hand, foot and full body protection shall be provided by the contractor in sufficient quantities and adequate sizes for all workers and authorized visitors.
 
-   (2) Hard hats, protective eyewear, gloves, rubber boots and/or other footwear shall be provided by the contractor as required for workers and authorized visitors. Safety shoes and hard hats shall be in accordance with ANSI Z89.1 (1969) and ANSI Z41.1 (1967).
+   (2) Hard hats, protective eyewear, gloves, rubber boots and/or other footwear must be provided by the contractor as required for workers and authorized visitors. Safety shoes and hard hats must be in accordance with the most recent ANSI standards.
 
    (3) Contaminated clothing shall be sealed in impermeable bags and the bags shall be appropriately labeled.
 
-(d) Personal air monitoring shall be performed in accordance with current OSHA regulations. Such records shall be made available upon request to authorized Department representatives upon request.
+(d) Personal air monitoring shall be performed in accordance with current OSHA regulations. Such records shall be made available within 72 hours to authorized Department representatives upon request.
 
 (e) Personal Hygiene at the work site shall meet the following requirements:
 
@@ -1436,23 +1604,24 @@ Laboratory analyses and reporting shall be considered evidence of compliance wit
 
    (6) There shall be no lighters or matches in the work place.
 
-(f) The contractor shall have available the following information at the work place:
+(f) The contractor must have available the following information at the work place:
 
    (1) A copy of the U.S. Environmental Protection Agency Regulations for Asbestos, 40 C.F.R. 61 Subparts A and M and a copy of OSHA Asbestos Regulations, 29 C.F.R. § 1926.1101, and 12 NYCRR Part 56; and
 
    (2) A list of telephone numbers for local hospital, location of hospital and/or emergency squad, local fire department, the building owner (or representative) and the N.Y.C. Asbestos Control Program, and
 
-   (3) A copy of these Rules, the most recent Asbestos Abatement Notice (Form ACP-13), permits, any variance application (Form ACP-9) and DEP approval thereof, and
+   (3) A copy of these Rules, the most recent Asbestos Abatement Notice (Form ACP-13), asbestos abatement (ATRU) permits, any variance application (Form ACP-9) and DEP approval thereof, and
 
-   (4) A copy of all Material Safety Data Sheets (MSDS) for chemicals used during the asbestos project, and
+   (4) A copy of all Safety Data Sheets (SDS) for chemicals used during the asbestos project, and
 
-   (5) New York City Asbestos handler and supervisor certificates of all workers in the work site, and
+   (5) Original New York City Asbestos handler and supervisor certificates of all workers in the work site, and
 
    (6) A copy of the current New York State Department of Labor asbestos handling license of the abatement contractor and air monitoring company.
 
    (7) A copy of any asbestos survey performed in the affected building in accordance with these rules.
 
-(g) The contractor shall post signs during all abatement activities. Signs shall be posted at all approaches to the work place including internal doorways which provide access to the work place. These signs shall bear the following information:
+(g) The contractor must post signs during all abatement activities. Signs must be posted at all approaches to the work place including internal doorways which provide access to the work place. These signs must include the following information: 
+										
 
  
 
@@ -1460,14 +1629,15 @@ Laboratory analyses and reporting shall be considered evidence of compliance wit
 .. list-table::
     :header-rows: 1
 
-    * - DANGERASBESTOS CANCER AND LUNG DISEASEHAZARDAUTHORIZED PERSONNEL ONLYRESPIRATORS AND PROTECTIVE CLOTHING ARE REQUIRED IN THIS AREA 
+    * - DANGERASBESTOS MAY CAUSE CANCER, CAUSES DAMAGE TO LUNGSAUTHORIZED PERSONNEL ONLYWEAR RESPIRATORY PROTECTION AND PROTECTIVE CLOTHING IN THIS AREA
 ~
 
 
 
  
 
-(h) Warning labels shall be affixed to all waste containers containing asbestos material in and shall bear the following information: 
+(h) Warning labels must be affixed to all waste containers containing asbestos material and must include the following information: 
+										
 
  
 
@@ -1475,12 +1645,14 @@ Laboratory analyses and reporting shall be considered evidence of compliance wit
 .. list-table::
     :header-rows: 1
 
-    * - DANGERCONTAINS ASBESTOS FIBERSAVOID CREATING DUSTCANCER AND LUNG DISEASE HAZARD 
+    * - DANGERCONTAINS ASBESTOS FIBERSMAY CAUSE CANCER, CAUSES DAMAGE TO LUNGSDO NOT BREATHE DUSTAVOID CREATING DUST
 ~
 
 
 
  
+
+
 
 
 
@@ -1500,7 +1672,7 @@ The materials and equipment used during allabatement activities shall conform wi
 
 (d) Duct tape and selected adhesive shall be capable of sealing joints of adjacent sheets of polyethylene, facilitating attachment of polyethylene sheets to finished or unfinished surfaces, and of adhering under both dry and wet conditions, including during the use of amended water.
 
-(e) Airtight and watertight containers shall be provided to receive and retain any asbestos-containing waste materials. Plastic bags used for waste storage or disposal shall be a minimum of 6-mil in thickness. All containers shall be labeled in accordance with OSHA Regulation 29 C.F.R. § 1926.58K(2)(ii) and (iii).
+(e) Airtight and watertight containers must be provided to receive and retain any asbestos-containing waste materials. Plastic bags used for waste storage or disposal must be a minimum of 6-mil in thickness. All containers must be labeled in accordance with OSHA Regulation 29 C.F.R. 1926.1101.
 
 (f) Materials used to enclose ACM shall be impact resistant and assembled to be airtight Gypsum panels taped at the seams, tongue and groove boards, and boards with spline joints all qualify.
 
@@ -1515,6 +1687,8 @@ The materials and equipment used during allabatement activities shall conform wi
 (k) Plastic sheeting used in the construction of temporary enclosures shall be fire-retardant in accordance with NFPA 701. Wood or other materials used in the construction of temporary enclosures shall be noncombustible or fire-retardant in accordance with NFPA 255, ASTM D-2898, ASTM E84, and UL 723.
 
 (l) Equipment and materials may be substituted for those specified in this chapter only if determined to be equivalent after review by the Department.
+
+
 
 
 
@@ -1541,7 +1715,7 @@ In addition to 15 RCNY §§ 1-01 through 1-61, the following 15 RCNY §§ 1-81 t
 
 The following procedures shall be followed during the conduct of abatement activities on asbestos projects. The procedures set forth in this subdivision shall be performed in the order set forth below:
 
-(a) The building owner or designated representative shall provide notification to all occupants of the work place and immediate adjacent areas of the asbestos project. Information provided in the notification shall include contractor, project location and size, amount and type of ACM, abatement procedure, dates of expected occurrence and the Call Center "311" for government information and services. Postings of this notification shall be in English and Spanish, at eye level, in a conspicuous, well-lit place, at the entrances to the work place and immediate adjacent areas. The notice shall have the following heading: NOTICE OF ASBESTOS ABATEMENT, in a minimum of one inch sans serif, gothic or block style lettering, with the balance of the lettering of the notice to be of the same type lettering in a minimum of one quarter inch size. The notices shall be posted 7 calendar days prior to the start of the project and shall remain posted until clearance air monitoring is satisfactorily concluded. A lessee initiating an asbestos project shall give 10 calendar days notice to the owner of the subject building.
+(a) The building owner or designated representative must provide notification to all occupants of the work place and immediate adjacent areas of the asbestos project. Information provided in the notification must include contractor, project location and size, amount and type of ACM, abatement procedure, dates of expected occurrence and the Call Center "311" for government information and services. Postings of this notification must be in English and Spanish, at eye level, in a conspicuous, well-lit place, at the entrances to the work place and immediate adjacent areas. The notice must have the following heading: NOTICE OF ASBESTOS ABATEMENT, in a minimum of two inch sans serif, gothic or block style lettering, with the balance of the lettering of the notice to be of the same type lettering in a minimum of one inch size. The notices must be posted 7 calendar days prior to the start of the project and must remain posted until clearance air monitoring is satisfactorily concluded. A lessee initiating an asbestos project must give 10 calendar days notice to the owner of the subject building.
 
 (b) A floor plan showing the areas of the building under abatement and the location of all fire exits in said areas shall be prominently posted in the building lobby or comparable location, along with a notice stating the location within the building of the negative air cutoff switch required under 15 RCNY § 1-91(f), if applicable.
 
@@ -1579,7 +1753,7 @@ The following procedures shall be followed during the conduct of abatement activ
 
 (j) All flammable materials shall be removed from the work area and all sources of ignition (including but not limited to pilot lights) shall be extinguished.
 
-(k) Fixed objects which will remain within the proposed work areas shall be pre-cleaned using HEPA filtered vacuum equipment and/or wet cleaning methods as appropriate, and enclosed with two layers of fire retardant 6-mil plastic sheeting sealed to protect from re-contamination. Sprinklers, standpipes, and other fire suppression systems shall remain in service and shall not be plasticized.
+(k) Fixed objects which will remain within the proposed work areas must be pre-cleaned using HEPA filtered vacuum equipment and/or wet cleaning methods as appropriate, and enclosed with two layers of fire retardant 6-mil plastic sheeting sealed to protect from re-contamination. Sprinklers, standpipes, and other fire protection systems must remain in service and must not be plasticized.
 
 (l) Any source of emergency lighting which is temporarily blocked as a result of work place preparation shall be replaced for the duration of the project by battery operated or temporary exit signs, exit lights, or exit path markings.
 
@@ -1615,9 +1789,9 @@ The following procedures shall be followed during the conduct of abatement activ
 
 (w) Floor drains shall be sealed individually with two layers of fire retardant 6-mil plastic sheeting and tape, and then covered as all other floor surfaces. Pits, sumps, etc., shall be covered with adequate fire rated plywood sheeting and secured to floor slabs in a manner which prevents a tripping hazard, prior to required plasticizing.
 
-(x) Elevators running through the work area shall conform to the following:
+(x) Elevators running through the work area must conform to the following:
 
-   (1) The elevator door in the work area shall be enclosed with conventional 2 x 4 stud framing, covered with 3/8" fire rated plywood sheeting and sealed at all edges and seams. The barrier shall be covered and lapped for 8 inches with two layers of fire retardant 6-mil plastic sheeting adhered individually with edges taped for air tightness.
+   (1) The elevator door in the work area must be enclosed with conventional 2 x 4 stud framing, covered with 3/8" fire rated plywood sheeting and sealed at all edges and seams. The barrier must be covered and lapped for 8 inches with two layers of fire retardant 6-mil plastic sheeting adhered individually with edges taped for air tightness. There shall be no more than a six inch clearance between the elevator door and hard wall barrier.
 
    (2) Elevators not remaining in service shall have the fuses removed and the power switch locked in the open position.
 
@@ -1629,11 +1803,15 @@ The following procedures shall be followed during the conduct of abatement activ
 
       (iii) This system shall be smoke tested daily.
 
-   (4) Elevator shafts shall not be used as waste chutes.
+   (4) Elevator shafts shall not be used as waste chutes or to convey any ACM.
 
-(y) Adequate toilet facilities shall be provided in the vicinity of the clean room external to the work place. Where such facilities so not exist, portable service shall be provided.
+   (5) Signage must be posted in the main lobby stating the specific floors where the elevators are out of service due to abatement.
+
+(y) Adequate toilet facilities must be provided in the vicinity of the clean room external to the work place. Where such facilities do not exist, portable service must be provided.
 
 (z) At least one functional fire extinguisher with a minimum rating 2-A:10-B:C shall be required for each work place. In the case of large asbestos projects, at least two such fire extinguishers shall be required.
+
+
 
 
 
@@ -1757,7 +1935,7 @@ The following procedures shall be followed during the conduct of abatement activ
 
 (e) A dedicated power supply for the negative pressure ventilating units shall be utilized. The negative air equipment shall be on a ground fault circuit interrupter (GFCI) protected circuit separate from the remainder of the work area temporary power circuits.
 
-(f) If the containment area of an asbestos project covers the entire floor of the affected building, or an area greater than 15,000 square feet on any given floor, the installation of a negative air cut off switch or switches shall be required at a single location outside the work place, such as inside a stairwell, or at a secured location in the ground floor lobby when conditions warrant. The required switch or switches shall be installed by a licensed electrician pursuant to a permit issued by the Department of Buildings. If negative pressure ventilation equipment is used on multiple floors the cut off switch shall be able to turn off the equipment on all floors.
+(f) If the containment area of an asbestos project covers the entire floor of the affected building, or an area greater than 15,000 square feet on any given floor, the installation of a negative air cut off switch or switches shall be required at a single location outside the work place, such as inside a stairwell one floor below the lowest floor containing a work place, or at a secured location in the ground floor lobby when conditions warrant (such as when the work place is in a basement or below). The required switch or switches must be installed by a licensed electrician, pursuant to a permit issued by the Department of Buildings. If negative pressure ventilation equipment is used on multiple floors the cut off switch must be able to turn off the equipment on all floors.
 
 (g) On loss of negative pressure or electric power to the negative pressure ventilating units, abatement shall stop immediately and shall not resume until power is restored and negative pressure ventilation equipment is operating again. When power failure or loss of negative pressure equipment lasts or is expected to last longer than one-half hour:
 
@@ -1771,7 +1949,7 @@ The following procedures shall be followed during the conduct of abatement activ
 
 (i) Openings made in the isolation barrier to accommodate these units shall be made airtight. The units shall remain within the work area unless located securely outside the building.
 
-(j) Negative air pressure equipment shall be in compliance with ANSI Z9.2 (2006), Local Exhaust Ventilation.
+(j) Negative air pressure equipment shall be in compliance with ANSI Z9.2 (2012), Local Exhaust Ventilation.
 
 (k) Negative air pressure systems shall be operated in accordance with "Specifications and Operating Procedures for the Use of Negative Pressure Systems for Asbestos Abatement, Guidance for Controlling Asbestos-Containing Materials in Buildings", EPA Report Number 560/5-85-024 (1985).
 
@@ -1794,6 +1972,8 @@ The following procedures shall be followed during the conduct of abatement activ
 
 
 
+
+
 *§ 1-92 Work Place Entry and Exit Procedures.* ::
 
 
@@ -1803,7 +1983,7 @@ The following procedures shall be followed during the conduct of abatement activ
 
    (1) All workers and authorized visitors shall enter the work area through the worker decontamination enclosure system.
 
-   (2) All individuals who enter the work area shall sign the log located in the clean room, upon each entry and exit. The log shall be permanently bound and shall identify fully the facility, owner, agents, contractor(s), the project, each work area and worker respiratory protection employed. The log shall be available for examination during abatement activities by the Department, the owner and the workers. A copy of the log shall be submitted directly to the Department within 48 hours of request.
+   (2) All individuals who enter the work area shall sign the log located in the clean room, upon each entry and exit. The log shall be permanently bound and shall identify fully the facility, owner, agents, contractor(s), the project, each work area and worker respiratory protection employed. The log shall be available for examination during abatement activities by the Department, the owner and the workers. A copy of the log shall be submitted directly to the Department within 72 hours of request.
 
    (3) All individuals before entering the work area, shall be familiar with all posted regulations, personal protection requirements and emergency procedures. The log headings shall indicate, and the signatures shall be used to acknowledge, that the regulations and procedures have been reviewed and understood by all persons prior to entering the work area. The postings and log headings shall be in English and in the language of the majority of the asbestos handlers.
 
@@ -1818,6 +1998,8 @@ The following procedures shall be followed during the conduct of abatement activ
    (3) Still wearing a respirator, each person shall proceed to the shower room, clean the outside of the respirator and the exposed face area under running water prior to removal of the respirator, and then fully and vigorously shower and shampoo to remove residual asbestos contamination. Respirators shall be washed thoroughly with soap and water or a suitable sanitizing agent. Various types of respirators may require slight modification of these procedures.
 
    (4) After showering and drying, personnel shall proceed to the clean room and don clean disposable clothing if returning to the work area or street clothing if remaining outside the work area.
+
+
 
 
 
@@ -1895,15 +2077,17 @@ The following procedures shall be followed during the conduct of abatement activ
 
 (a) Abatement of asbestos-containing materials shall be by wet methods. ACM shall not be removed or disturbed without being adequately wet. Dry removal of asbestos-containing material is prohibited, unless EPA approval has been obtained. The EPA-approved alternate removal plan shall be submitted to the Department for approval a minimum of 15 days before work is scheduled to begin or begins. The plan shall explain and justify why ACM must be removed dry and how asbestos fibers will be controlled to prevent their release.
 
-(b) When amended water is used, the ACM shall be sprayed with sufficient frequency and quantity for enhanced penetration. Sufficient time shall be allowed for penetration to occur prior to removal action or other disturbance taking place. Accumulation of standing or free water is prohibited. Fluffy materials shall be saturated. Non-hygroscopic materials, such as tremolite or amosite, shall be thoroughly wetted on all surfaces while work is being conducted.
+(b) When amended water is used, the ACM must be sprayed with sufficient frequency and quantity for enhanced penetration. Sufficient time must be allowed for penetration to occur prior to removal action or other disturbance taking place. Accumulation of standing or free water is prohibited. Soft loosely bound ACM must be saturated. Material that resists wetting, such as tremolite or amosite, must be thoroughly wetted on all surfaces while work is being conducted.
 
 (c) When used, removal encapsulants that minimize fiber generation and enhance penetration, shall be applied per manufacturer's specifications and in accordance with federal guidelines.
 
-(d) ACM on detachment from the substrate is to be bagged directly or dropped onto a flexible catch basin and promptly bagged. Detached ACM is not permitted to lie on the floor for any period of time. Excess air in the bag shall be minimized and the bag shall be sealed. Non-hygroscopic materials shall not be dropped. ACM shall not be dropped from a height greater than 10 feet. Above 10 feet in height dust-free enclosed inclined chutes may be used. Vertical chutes are prohibited. Maximum inclination from horizontal shall be 60 degrees.
+(d) ACM on detachment from the substrate is to be bagged directly or dropped onto a flexible catch basin and promptly bagged. Detached ACM is not permitted to lie on the floor for any period of time. Excess air in the bag must be minimized and the bag must be sealed. Material that resists wetting must not be dropped. ACM must not be dropped from a height greater than 10 feet. Above 10 feet in height dust-free enclosed inclined chutes may be used. Vertical chutes are prohibited. The angle of the chute must not exceed 60 degrees from horizontal.
 
 (e) Large components removed intact that cannot be containerized shall be maintained wet, wrapped (minimizing excess air) in at least one layer of fire retardant 6-mil polyethylene sheeting, and secured by sealing with tape.
 
 (f) After completion of all stripping work, surfaces from which asbestos-containing materials have been removed shall be cleaned (e.g. wet-brushed and/or wet-cleaned) to remove all visible residue.
+
+
 
 
 
@@ -1921,7 +2105,7 @@ The following procedures shall be followed for the encapsulation of ACM:
 
 (c) Only pigmented (non-transparent) encapsulants shown to be ratable as acceptable or marginally acceptable on the basis of Battelle Columbus Laboratory test procedures and rating requirements developed under the 1978 USEPA contract shall be used for encapsulation.
 
-(d) The encapsulant solvent or vehicle shall not contain a volatile hydrocarbon.
+(d) The encapsulant solvent or vehicle must not contain a volatile substance.
 
 (e) Latex Paint with solids content greater than 15 percent may be used as an encapsulant only as follows:
 
@@ -1949,13 +2133,15 @@ The following procedures shall be followed for the encapsulation of ACM:
 
 (k) Encapsulated asbestos-containing materials shall be identified (e.g. using labels, signs or color coding) in order to warn building maintenance personnel in the event encapsulated materials must be disturbed.
 
-(l) The following maintenance procedures are recommended:
+(l) The following maintenance procedures are required, except when the encapsulated material is on utility lines located in the street:
 
    (1) A periodic inspection and maintenance program, consisting of an inspection at least annually to check for damage to all encapsulated surfaces. Recoating and repairs are to be performed according to procedures in this section.
 
    (2) Maintenance of records by the building owner, on the locations and condition of the encapsulated material and on alteration, renovation, modification, or other procedures that resulted in disturbance of the encapsulated material.
 
    (3) When conditions change and encapsulation is no longer an appropriate method, additional abatement methods should be conducted.
+
+
 
 
 
@@ -1975,7 +2161,7 @@ The following procedures shall be followed for the enclosure of ACM:
 
 (d) Enclosed asbestos-containing materials shall be identified (e.g., using a sign, label, or color coding) in order to warn building maintenance personnel in the event that the enclosure must be disturbed.
 
-(e) The following maintenance procedures are recommended:
+(e) The following maintenance procedures are required:
 
    (1) A periodic inspection and maintenance program, consisting of an inspection at least annually to check for damage to all enclosed surfaces. Re-enclosure and repairs are to be performed according to NYC Work Site Procedure regulations.
 
@@ -1988,12 +2174,14 @@ The following procedures shall be followed for the enclosure of ACM:
 
 
 
+
+
 *§ 1-105 Glovebag Procedures.* ::
 
 
 The following procedures shall be followed during the conduct of abatement activities:
 
-(a) Glovebag procedures shall be done using commercially available glovebags of 6-mil clear plastic, appropriately sized for the project. Glovebag procedures may only be used in conjunction with the full containment of the work area (see 15 RCNY § 1-81) or the tent procedure (see 15 RCNY § 1-106). Glovebags may not be shifted and shall not be moved from the initial surface to another surface, or reinstalled on the initial surface once removed.
+(a) Glovebag procedures must be done using commercially available glovebags of 6-mil clear plastic, appropriately sized for the project. Glovebag procedures may only be used in conjunction with the full containment of the work area (see 15 RCNY § 1-81) or the tent procedure (see 15 RCNY § 1-106). Glovebags may not be shifted and must not be moved from the initial surface to another surface, or reinstalled on the initial surface once removed. Glovebag procedures may only be used on horizontal piping.
 
 (b) The glovebag procedure shall be performed in accordance with the following:
 
@@ -2040,18 +2228,20 @@ The following procedures shall be followed during the conduct of abatement activ
 
 
 
+
+
 *§ 1-106 Tent Procedures.* ::
 
 
-Tent Procedures shall be conducted as follows:
+All sections of these rules must be followed in conjunction with this section except 15 RCNY § 1-112(a) - (l). Tent Procedures must be conducted as follows:
 
-(a) Tent procedures shall be limited to the removal of less than 260 linear feet and 160 square feet of ACM and shall not result in disturbance of ACM during tent erection. Tent procedures may be used as part of a large asbestos project only as provided for in 15 RCNY § 1-81(f) or in conjunction with the glovebag procedure set forth in 15 RCNY § 1-105. Multiple tent enclosures may be used as part of a large asbestos project only in conjunction with the use of the glovebag procedure.
+(a) Tent procedures must be limited to the removal of less than 260 linear feet and 160 square feet of ACM on any individual floor and must not result in disturbance of ACM during tent erection. Tent procedures may be used as part of a large asbestos project only as provided for in 15 RCNY § 1-81(f) or in conjunction with the glovebag procedure set forth in 15 RCNY § 1-105. Multiple tent enclosures may be used as part of a large asbestos project on an individual floor only in conjunction with the use of the glovebag procedure set forth in 15 RCNY § 1-105. Multiple tent enclosures without the use of the glovebag procedure on a large asbestos project require a variance for the use of modified tent procedures and a remote worker decontamination enclosure.
 
-(b) Tent procedures shall be accomplished in a constructed or commercially available fire retardant plastic tent, plasticizing and sealing all surfaces not being abated within the tent periphery forming an enclosure. The tent shall be of fire retardant 6-mil plastic at a minimum, with seams heat-sealed, or double-folded, stapled and taped airtight and then taped flush with the adjacent tent wall. This is a single use barrier that shall not be reused once dismantled or collapsed.
+(b) Tent procedures must be conducted in a constructed or commercially available fire retardant plastic tent, plasticizing and sealing all surfaces and fixed objects not being abated within the tent periphery forming an enclosure. The tent must be of fire retardant 6-mil plastic at a minimum, with seams heat-sealed, or double-folded, stapled and taped airtight and then taped flush with the adjacent tent wall. This is a single use barrier that must not be reused once dismantled or collapsed.
 
 (c) There shall be an airlock at the entrance to the tent, unless there is an attached worker or waste decontamination system.
 
-(d) Asbestos handlers involved in the tent procedure shall wear personal protective equipment as specified in 15 RCNY § 1-51(c), plus a second disposable suit. All street clothes shall be removed and stored in a clean room within the work site. The personal protective equipment with two disposable suits shall be used for installation of the tent and throughout the procedure if a decontamination unit with a shower is not contiguous to the work area. If a decontamination unit (with shower and clean room at a minimum) is contiguous to the work area, only one disposable suit shall be required; in this case, prior to exiting the tent the worker shall HEPA vacuum and wet clean the disposable suit.
+(d) Asbestos handlers involved in the tent procedure must wear personal protective equipment as specified in 15 RCNY § 1-51(c), plus a second disposable suit. All street clothes must be removed and stored in a clean room within the work site. The personal protective equipment with two disposable suits must be used for installation of the tent and throughout the procedure if a decontamination unit with a shower is not physically connected to the tent. If a decontamination unit (with shower and clean room at a minimum) is physically connected to the tent, only one disposable suit shall be required; in this case, prior to exiting the tent, the worker must HEPA vacuum and wet clean the disposable suit.
 
 (e) The tent shall be attached to the surface to produce an airtight seal except for an appropriate section to allow for make-up air into the tent.
 
@@ -2067,7 +2257,7 @@ Tent Procedures shall be conducted as follows:
 
    (2) be permitted sufficient time to dry, prior to HEPA vacuuming all substrates; and
 
-   (3) be lightly encapsulated to lockdown residual asbestos.
+   (3) be encapsulated to lockdown residual asbestos.
 
 (j) Upon barrier disturbance, loss of engineering controls, or termination of tent usage, the tent and the enclosed surfaces shall be treated according to subdivision (i) above.
 
@@ -2086,10 +2276,12 @@ Tent Procedures shall be conducted as follows:
 
 
 
+
+
 *§ 1-107 Foam Procedure for Roof Removal.* ::
 
 
-(a) These procedures apply only to the removal of asbestos-containing roofing material (ACRM) from exterior roof surfaces. The work area on the roof shall be cordoned off with clearly visible barriers such as caution tape, and only authorized persons shall have access. All sections of these rules shall be followed in conjunction with this section with the exception of, 15 RCNY § 1-81(m), 15 RCNY § 1-81(p), 15 RCNY § 1-91, 15 RCNY § 1-102(b), 15 RCNY § 1-112(d), and 15 RCNY § 1-112(e).
+(a) These procedures apply only to the removal of asbestos-containing roofing material (ACRM) from exterior roof surfaces. The work area on the roof must be cordoned off with clearly visible barriers such as caution tape, and only authorized persons may have access. All sections of these rules must be followed in conjunction with this section with the exception of 15 RCNY § 1-81(m), 15 RCNY § 1-81(p), 15 RCNY § 1-91, 15 RCNY § 1-102(b), 15 RCNY § 1-112(d), and 15 RCNY § 1-112(g).
 
 (b) The foam or viscous liquid shall be non-toxic, shall not require special respiratory protection for handling, and shall not affect the handling and disposal of the waste.
 
@@ -2097,7 +2289,7 @@ Tent Procedures shall be conducted as follows:
 
 (d) The foam or viscous liquid shall wet the ACRM. The ACRM shall be kept wet through the bagging process.
 
-(e) Persons entering the work area shall wear correctly-fitting, good traction rubber boots.
+(e) Persons entering the work area must wear personal protective equipment as required by 15 RCNY § 1-51 as well as correctly-fitting, good traction rubber boots.
 
 (f) Abatement shall not be carried out during adverse weather conditions (e.g. precipitation, high winds, ambient temperature below 32 degrees Fahrenheit, etc.).
 
@@ -2105,9 +2297,9 @@ Tent Procedures shall be conducted as follows:
 
 (h) Movable objects shall be removed from the work area, or kept in place and wrapped in one sheet of fire retardant 6 mil plastic sheeting.
 
-(i) Provisions shall be made to ensure a safe and adequate air supply to affected building(s). All vents, skylights, air intakes, windows and doors opening onto the roof, and all other openings shall be sealed with 2 layers of fire retardant 6 mil plastic or fitting with HEPA- filters when appropriate. Temporary extensions may be installed to a height of 10 feet to ensure adequate air exchange instead of sealing vents, air intakes, etc, with 2 layers of plastic or HEPA-filters. Drains may be equipped with 5 micron filtering system in lieu of being sealed.
+(i) Provisions must be made to ensure a safe and adequate air supply to any affected building. All vents, skylights, air intakes, windows and doors opening onto the roof, and all other openings must be sealed with 2 layers of fire retardant 6mil plastic or fitted with HEPA filters when appropriate. Vents, air intakes, etc. can be vertically extended temporarily to a height of ten feet instead of sealing them with 2 layers of plastic or HEPA-filters. Drains may be equipped with 5 micron filtering system in lieu of being sealed.
 
-(j) Fixed objects including perimeter walls, bulkheads, cooling towers, ducts and other rooftop appurtenances shall be covered in one sheet of fire retardant 6 mil plastic up to a height of at least six feet.
+(j) Fixed objects including perimeter walls, bulkheads, cooling towers, ducts and other rooftop accessories must be covered in one sheet of fire retardant 6 mil plastic up to a height of at least six feet.
 
 (k) Prior to actual removal, the built-up roofing shall be blanketed and wetted with a minimum 1" coating of the acceptable foam or viscous liquid which shall be maintained for the duration of the removal until the material is bagged. The foam or viscous liquid shall be confined to the work area.
 
@@ -2126,10 +2318,12 @@ Tent Procedures shall be conducted as follows:
 
 
 
+
+
 *§ 1-108 Foam/Viscous Liquid Use in Flooring Removal.* ::
 
 
-(a) These procedures only apply to the removal of surface flooring material including vinyl asbestos floor tiles (VAT), ACM floor coverings (e.g., linoleum) and associated mastics and adhesives, where the only ACM being abated in the work area is flooring material. All sections of these rules shall be followed in conjunction with this section with the exception of 15 RCNY § 1-81(m), 15 RCNY § 1-81(p), 15 RCNY § 1-91(c), 15 RCNY § 1-91(h), 15 RCNY § 1-102(b), 15 RCNY § 1-112(d), and 15 RCNY § 1-112(e).
+(a) These procedures only apply to the removal of surface flooring material including vinyl asbestos floor tiles (VAT), ACM floor coverings (e.g., linoleum) and associated mastics and adhesives, where the only ACM being abated in the work area is flooring material. All sections of these rules must be followed in conjunction with this section with the exception of 15 RCNY § 1-81(m), 15 RCNY § 1-81(p), 15 RCNY § 1-91(c), 15 RCNY § 1-91(h), 15 RCNY § 1-102(b), 15 RCNY § 1-112(d), and 15 RCNY § 1-112(g).
 
 (b) The foam or viscous liquid shall be non-toxic, shall not require special respiratory protection for handling, and shall not affect the handling and disposal of the waste.
 
@@ -2137,7 +2331,7 @@ Tent Procedures shall be conducted as follows:
 
 (d) The foam or viscous liquid shall coat and wet the ACM. The ACM shall be kept wet through the bagging process.
 
-(e) Persons entering the work area shall wear correctly-fitting, good-traction rubber boots.
+(e) Persons entering the work area must wear personal protective equipment as required by 15 RCNY § 1-51 as well as correctly-fitting, good-traction rubber boots.
 
 (f) Baseboards and wall surfaces up to a minimum height of four feet above the floor shall be covered with a layer of fire retardant 6-mil plastic sheeting. If hand power tools are used during the abatement, wall surfaces shall be covered with a layer of 6-mil polyethylene sheeting to a minimum height of six feet.
 
@@ -2150,6 +2344,8 @@ Tent Procedures shall be conducted as follows:
 (j) Upon successful visual inspection, plastic sheeting shall be removed from baseboards and wall surfaces. Isolation barriers shall remain in place.
 
 (k) Air monitoring shall be conducted in accordance with the relevant provisions of subchapter D of these rules.
+
+
 
 
 
@@ -2195,21 +2391,31 @@ Sealants for coping stone caps or clay roofing tiles
 
 (b) A worker/waste decontamination system shall be constructed within the restricted area.
 
-(c) Cleanup Procedure.
+(c) Persons entering the work area must wear personal protective equipment as required by 15 RCNY § 1-51.
 
-   (1) The stripped substrate shall be HEPA vacuumed and wet-wiped.
+(d) Removal Procedure.
 
-   (2) A visual clearance inspection shall be conducted by the asbestos handler supervisor and project monitor after the work area dries, to ensure the absence of ACM residue or debris in the work area.
+   (1) Removal of ACM must be by wet methods in accordance with 15 RCNY § 1-102.
+
+   (2) ACM removed must be placed in a leak-tight container without dropping the ACM into the container.
+
+(e) Cleanup Procedure.
+
+   (1) The stripped substrate must be HEPA vacuumed and wet-wiped.
+
+   (2) A visual clearance inspection must be conducted by the asbestos handler supervisor and project monitor after the work area dries, to ensure the absence of ACM residue or debris in the work area.
 
    (3) After the inspection is completed, the warning tapes and barriers may be removed.
 
-   (4) The clearance inspection shall be documented in the log and the project air sampling log.
+   (4) The clearance inspection must be documented in the log and the project air sampling log.
 
-(d) Air monitoring shall be conducted in accordance with the relevant provisions of subchapter D of these rules.
+(f) Air monitoring must be conducted in accordance with the relevant provisions of subchapter D of these rules.
 
-(e) Abatement shall not be performed under this section during adverse weather conditions (e.g. precipitation, high winds, ambient temperatures below 32 degrees Fahrenheit, etc.).
+(g) Abatement must not be performed under this section during bad weather (e.g. precipitation, high winds, temperatures in the immediate outdoor surroundings below 32 degrees Fahrenheit, etc.).
 
-(f) Power tools used to drill, cut into, or otherwise disturb ACM shall be equipped with HEPA-filtered local exhaust ventilation and operated to prevent potential fiber release.
+(h) Power tools used to drill, cut into, or otherwise disturb ACM must be equipped with HEPA-filtered local exhaust ventilation and operated to prevent potential fiber release.
+
+
 
 
 
@@ -2245,7 +2451,9 @@ The following clean-up requirements shall be followed during the conduct of abat
 
 (c) The worker decontamination enclosure system shall be wet cleaned/HEPA vacuumed, as appropriate, after each shift change and meal break.
 
-(d) Excessive water accumulation or flooding in the work area shall require work to stop until the water is collected and disposed of properly.
+(d) If there is free standing water or if flooding occurs in the work area, work must stop until the water is collected and safely and properly removed.
+
+
 
 
 
@@ -2257,7 +2465,7 @@ The following clean-up requirements shall be followed during the conduct of abat
 
 Additional clean-up procedures shall be performed in the order set forth below prior to commencement of clearance air monitoring.
 
-(a) After removal of visible accumulations of asbestos-containing waste material, a HEPA vacuuming shall be performed on all surfaces. To pick up excess water and gross saturated debris, a wet-dry shop HEPA vacuum, dedicated to asbestos abatement, may be used.
+(a) After removal of visible accumulations of asbestos-containing waste material, all surfaces must be HEPA vacuumed. To pick up excess water and saturated debris, a wet-dry shop HEPA vacuum, dedicated to asbestos abatement, may be used.
 
 (b) All surfaces in the work area shall be wet cleaned (first cleaning).
 
@@ -2273,7 +2481,7 @@ Additional clean-up procedures shall be performed in the order set forth below p
 
 (h) The remaining plastic barriers shall be removed from the walls and floors.
 
-(i) As a prerequisite to commencement of clearance air monitoring, a thorough visual inspection shall verify the absence of asbestos-containing waste material (e.g. dust).
+(i) Before starting clearance air monitoring, a thorough visual inspection must be conducted to verify the absence of asbestos-containing waste material (e.g. dust).
 
 (j) All containerized waste shall be removed from the work area through the decontamination enclosures and the holding area.
 
@@ -2281,7 +2489,9 @@ Additional clean-up procedures shall be performed in the order set forth below p
 
 (l) After successful clearance air monitoring (see 15 RCNY §§ 1-31 et seq.), the isolation barriers shall be removed in conjunction with the use of a HEPA vacuum.
 
-(m) Within 21 days of the completion of all steps set forth above, including successful clearance air monitoring, a project monitor's report shall be submitted to DEP on a DEP-approved form. This report shall be based on an inspection performed after the completion of all steps listed in this section, and shall not be based on the visual inspection performed prior to the commencement of clearance air monitoring. The project monitor who prepares the report shall be independent of the abatement contractor. If a project is being performed on multiple floors of a building, a separate project monitor's report may be submitted as each floor is completed. Failure to comply with this subdivision shall be the responsibility of the building owner.
+(m) Within 21 days of the completion of all steps set forth above, including successful clearance air monitoring, a project monitor's report (Form ACP15) must be submitted to DEP. This report must be based on an inspection performed after the completion of all steps listed in this section, and may not be based on the visual inspection performed prior to the commencement of clearance air monitoring. The project monitor who prepares the report must be independent of the abatement contractor. If a project is being performed on multiple floors of a building, a separate project monitor's report may be submitted as each floor is completed. Compliance with this subdivision is the responsibility of the building owner.
+
+
 
 
 
@@ -2306,6 +2516,8 @@ The following regulations shall apply to pre-demolition abatement activities:
 
     * - 15 RCNY §§ 1-01 through 1-61
       - General Regulations 
+    * - 15 RCNY § 1-81*
+      - Work Place Preparation Requirements
     * - 15 RCNY § 1-82
       - Worker Decontamination Enclosure System
     * - 15 RCNY § 1-83
@@ -2330,6 +2542,10 @@ The following regulations shall apply to pre-demolition abatement activities:
 
  
 
+*Subsections (b), (j), (l), (u), (v) and (z) only.
+
+
+
 
 
 
@@ -2340,7 +2556,7 @@ The following regulations shall apply to pre-demolition abatement activities:
 
 The following work area preparation shall be followed during the conduct of pre-demolition abatement activities:
 
-(a) Prior to the start of abatement activities, the building owner or designated representative shall post a general notification at all main entrances to the structure. Postings of this notification shall be in English and Spanish, at eye level in a conspicuous well-lit place that can be viewed by the public without obstruction. Information provided in the notification shall include contractor, project location, that the project is regulated by NYC DEP, and the Call Center "311" for government information and services. The notice shall have the following heading: NOTICE OF ASBESTOS ABATEMENT, in a minimum of 2 inches sans serif, gothic or block style lettering, with the balance of the lettering of the notice to be of the same type lettering in a minimum of 1 inch size. The notification shall be posted throughout all abatement activities.
+(a) Prior to the start of abatement activities on asbestos projects the building owner or designated representative must post a general notification at all main entrances to the structure. Postings of this notification must be in English and Spanish, at eye level in a conspicuous well-lit place that can be viewed by the public without obstruction. Information provided in the notification must include contractor, project location, that the project is regulated by NYC DEP, and the Call Center "311" for government information and services. The notice must have the following heading: NOTICE OF ASBESTOS ABATEMENT, in a minimum of 2 inches sans serif, gothic or block style lettering, with the balance of the lettering of the notice to be of the same type lettering in a minimum of 1 inch size. The notification must be posted throughout all abatement activities.
 
 (b) The building shall be vacated prior to the start of abatement activities.
 
@@ -2358,13 +2574,13 @@ The following work area preparation shall be followed during the conduct of pre-
 
 (i) The isolation barriers (i.e. sealing off of all openings, including but not limited to windows, corridors, doorways, barriers, skylights, ducts, grills, diffusers, and any other penetrations of the work areas) shall be installed with 2 layers of fire retardant 6-mil plastic sheeting separately sealed with tape. All seams of HVAC or other system components that pass through the work area shall also be sealed. Chimney effects in stacks, columns, flues, shafts, double- walled enclosures, etc., that impact the work area, shall be eliminated by sealing the accesses with solid material covered with a double layer of 6-mil plastic sealed with tape.
 
-(j) Cinderblock and porous construction materials shall be covered with one layer of fire retardant 6-mil plastic sheeting, sealed at edges and seams.
+(j) Cinderblock and porous construction materials, painted or unpainted, must be covered with one layer of fire retardant 6-mil plastic sheeting, sealed at edges and seams.
 
 (k) Flooring within the work area shall be water-tight.
 
 (l) Suspended ceiling tiles and T-grid components in proximity to ACM shall remain in place until the work area has been fully prepared as outlined in this section and electrical and HVAC systems have been shut down. Contaminated suspended ceiling components shall be removed prior to abatement and treated with a penetrating encapsulant.
 
-(m) Required means of egress, including emergency and fire exits, shall be maintained at all times during abatement activities except as otherwise provided pursuant to section 3303 of the New York City Building Code. Exits shall be checked daily against blockage or impediments to exiting.
+(m) Required means of egress, including emergency and fire exits, must be maintained at all times during abatement activities except as otherwise provided, pursuant to the New York City Building and Fire Codes. Exits must be checked daily to ensure that there is no blockage or impediments to exiting.
 
 (n) Entrances to the work area that will be used for worker entry or emergency exits shall be locked against unauthorized entry.
 
@@ -2391,6 +2607,8 @@ The following work area preparation shall be followed during the conduct of pre-
 
 
 
+
+
 *§ 1-126 ACM Procedures: Order of Work.* ::
 
 
@@ -2408,13 +2626,15 @@ The following clean-up procedures shall be followed during conduct of pre-demoli
 
 (a) (1) All waste generated shall be bagged, wrapped, or containerized immediately upon removal. The personal and waste decontamination enclosure systems shall be HEPA vacuumed and wet cleaned at the end of each work shift at a minimum.
 
-   (2) Visible accumulations of asbestos-containing waste material may be containerized utilizing rubber dust pans and rubber squeegees or HEPA vacuums. Metal shovels may also be used EXCEPT in the vicinity of isolation or surface barriers which could be perforated by these tools.
+   (2) Visible accumulations of asbestos-containing waste material may be containerized utilizing rubber dust pans and rubber squeegees or HEPA vacuums. Metal shovels may also be used EXCEPT in the vicinity of plastic sheeting which could be perforated by these tools.
 
 (b) The waste decontamination enclosure system shall be wet cleaned twice using wet cleaning methods upon completion of waste removal. When the worker decontamination enclosure shower room alternates as a waste container wash room, the shower room shall be washed immediately with cloths or mops saturated with a detergent solution prior to wet cleaning.
 
 (c) The worker decontamination enclosure system shall be wet cleaned/HEPA vacuumed, as appropriate, after each shift change and meal break.
 
-(d) Excessive water accumulation or flooding in the area shall require work to stop until the water is collected and disposed of properly.
+(d) If there is free standing water or if flooding occurs in the area, work must stop until the water is collected and safely and properly removed.
+
+
 
 
 
@@ -2432,37 +2652,25 @@ The following final clean-up procedures for pre-demolition abatement shall be pe
 
 (c) All surfaces in the work area shall be wet cleaned using rags or mops. After allowing sufficient time for drying of the work area, HEPA vacuums shall be used to thoroughly clean all surfaces after gross clean-up.
 
-(d) Where porous construction materials or cinder block-like materials have been plasticized for surface barrier containment, the plastic sheeting shall be cleaned as in subdivision (c) above, then sprayed with a lockdown encapsulant and removed when dry.
+(d) The plastic sheeting installed, pursuant to 15 RCNY § 1-125(j), must be cleaned as in subdivision (c) above, then sprayed with a lockdown encapsulant and removed when dry.
 
 (e) All surfaces in the work area which were not the subject of removal or abatement shall be sprayed with a lockdown encapsulant, which upon drying will not dissolve upon rewetting. Sufficient time for drying shall be allowed.
 
 (f) All tools and equipment shall be removed from the work area and decontaminated in the equipment decontamination enclosure system.
 
-(g) After successful clearance air monitoring (see 15 RCNY §§ 1-31 et seq.) the isolation barriers shall be removed in conjunction with the use of a HEPA vacuum.
+(g) After successful clearance air monitoring (see 15 RCNY §§ 1-31 et seq.), a HEPA vacuum must be used to clean up any dust or debris when removing the isolation barriers.
 
-(h) Within 21 days of the completion of all steps set forth above, including successful clearance air monitoring, a project monitor's report shall be submitted to DEP on a DEP-approved form. If a project is being performed on multiple floors of a building, a separate project monitor's report may be filed as each floor is completed.
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - TITLE 15 DEPARTMENT OF ENVIRONMENTAL PROTECTION 
-      - 
-    * - Appendix  B
-      - System Specific Water Quality Characteristics
-    * - Appendix  C
-      - Tests for Analytical Determination of Concentrations of Elements
-    * - Appendix  D
-      - Hazardous Waste and Pesticide Standards
-~
+(h) Within 21 days of the completion of all steps set forth above, including successful clearance air monitoring, a project monitor's report (Form ACP15) must be submitted to DEP. This report must be based on an inspection performed after the completion of all steps listed in this section, and shall not be based on the visual inspection performed prior to the commencement of clearance air monitoring. The project monitor who prepares the report must be independent of the abatement contractor. If a project is being performed on multiple floors of a building, a separate project monitor's report may be filed as each floor is completed. Compliance with this subdivision is the responsibility of the building owner.
 
 
 
- 
 
-ILLUSTRATIONS
+
+
+
+
+*ILLUSTRATIONS* ::
+
 
 
 
