@@ -1365,7 +1365,7 @@ For the purpose of these Rules and Regulations:
 
    (8) Approximate length of time to complete fill, and an estimated completion date.
 
-   (9) The applicant must submit a listing of the names and addresses of all landfill, transfer station, demolition/construction, and sanitation related operations for which he was previously granted City permits, and the dates of operation for these sites. If the applicant is/was a member of a corporation which was granted a permit, the applicant must report the names and addresses of the president, vice president, secretary, treasurer and Board members. If a member of a partnership, which was granted a permit, the applicant must report the names and addresses of his partners. If the applicant previously or currently has any financial interest in a landfill, transfer station, demolition/construction, or other sanitation related operation  he must report this information in his application. The Commissioner reserves the right to disapprove a permit request on the basis of an applicant's past record of compliance with City laws, rules and regulations.
+   (9) The applicant must submit a listing of the names and addresses of all landfill, transfer station, demolition/construction, and sanitation related operations for which he was previously granted City permits, and the dates of operation for these sites. If the applicant is/was a member of a corporation which was granted a permit, the applicant must report the names and addresses of the president, vice president, secretary, treasurer and Board members. If a member of a partnership, which was granted a permit, the applicant must report the names and addresses of his partners. If the applicant previously or currently has any financial interest in a landfill, transfer station, demolition/construction, or other sanitation related operation (i.e., said operation is indebted to the applicant in an amount equal to or greater than $3,000) he must report this information in his application. The Commissioner reserves the right to disapprove a permit request on the basis of an applicant's past record of compliance with City laws, rules and regulations.
 
    (10) Upon request the applicant must submit information on vehicles used in the operation such as a description, type, model, make, year, license and vehicle identification number.
 
@@ -1705,7 +1705,7 @@ No person or public agency other than the Department of Sanitation may conduct, 
 
 (f) A permit issued pursuant to this section shall be for a term not to exceed one year, and shall specify the volume of each type of non-putrescible solid waste permitted to be received, processed and stored by the transfer station.
 
-(g) The annual fee for a permit issued pursuant to this section shall be seven thousand dollars .
+(g) The annual fee for a permit issued pursuant to this section shall be seven thousand dollars ($7,000).
 
 
 
@@ -1935,7 +1935,7 @@ No person or public agency other than the Department of Sanitation may conduct, 
 
 (f) A permit issued pursuant to this section shall be for a term not to exceed one year, and shall specify the volume of fill material permitted to be received, processed and stored by the transfer station.
 
-(g) The annual fee for a permit issued pursuant to this section shall be seven thousand dollars .
+(g) The annual fee for a permit issued pursuant to this section shall be seven thousand dollars ($7,000).
 
 
 
@@ -2922,7 +2922,7 @@ An application for the registration of an intermodal solid waste container facil
 
 (9) A signed and notarized affidavit acknowledging the registrant's liability to the City for the removal, if necessary for public health and safety reasons, of intermodal containers from the intermodal solid waste container facility.
 
-(10) The annual fee to cover the cost of inspection for a registration issued pursuant to this subchapter shall be seven thousand dollars .
+(10) The annual fee to cover the cost of inspection for a registration issued pursuant to this subchapter shall be seven thousand dollars ($7,000).
 
 
 

@@ -2955,7 +2955,7 @@ In addition to any penalties provided for in the chapter, violations of these ru
 
     * - Seasonal Dockage
       - Summer(May 1 to October 31)
-      - $120/linear foot or$3000, whichevershall be greater
+      - $120/linear foot or$3,000, whichevershall be greater
     * -  
       - Winter(November 1 to April 30) – Current Winter permittees only
       - $105/linear foot or $2,625, whichever shall be greater

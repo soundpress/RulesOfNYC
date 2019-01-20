@@ -120,7 +120,7 @@ Chapter 2: Burial Claims
 
 (a) The laws of the state of New York require that New York City be responsible for the burial of poor people who reside here. New York City meets these requirements in two ways. For those deceased persons who do not have a friend or relative who is willing to arrange for burial, the deceased is interred in New York City's burial ground (known as "Potter's Field"). For those deceased persons who have a friend or relative who wishes to arrange for burial through a funeral director, New York City will help pay burial expenses if there is no legally responsible relative living with the deceased at the time of death or prior to the institutionalization of the deceased who is financially able to pay for the burial. These regulations explain when and how much New York City will pay for the burial expenses when the funeral was arranged by a friend or relative.
 
-(b) Benefits will be provided in an amount not to exceed $800 if burial expenses do not exceed $1400. The only exclusions from this $1400 are the cost of the burial plot on behalf of the deceased and the grave opening or the cost of cremation and any costs required by the cemetery. All other costs will be included in determining the total costs of the burial expenses for purposes of determining the $1400 limitation set forth above. Where a burial follows a cremation, only the cost of the cremation shall be excludable. Applications for benefits must be made in person by the individual who authorized the funeral unless the application is made by an "organizational friend" as defined in § 2-02 "Friend" (2). Reasonable proof of indigency of the deceased and the legally responsible relative must be supplied. Proof of burial expenses must be supplied in order for payment to be authorized. The details of these requirements are described in the following sections.
+(b) Benefits will be provided in an amount not to exceed $800 if burial expenses do not exceed $1,400. The only exclusions from this $1,400 are the cost of the burial plot on behalf of the deceased and the grave opening or the cost of cremation and any costs required by the cemetery. All other costs will be included in determining the total costs of the burial expenses for purposes of determining the $1,400 limitation set forth above. Where a burial follows a cremation, only the cost of the cremation shall be excludable. Applications for benefits must be made in person by the individual who authorized the funeral unless the application is made by an "organizational friend" as defined in § 2-02 "Friend" (2). Reasonable proof of indigency of the deceased and the legally responsible relative must be supplied. Proof of burial expenses must be supplied in order for payment to be authorized. The details of these requirements are described in the following sections.
 
 
 
@@ -206,7 +206,7 @@ Supplemental Security Income. Supplemental Security Income, or SSI, means the re
 *§ 2-04 Eligibility of Applicants for a Grant for Burial Expenses.* ::
 
 
-(a)  The Burial Claims Unit may authorize payment of a sum of up to $900 toward burial costs. No payments shall be authorized if the burial expenses, exclusive of the costs of cremation or of the burial plot and the grave opening, exceed $1700.
+(a)  The Burial Claims Unit may authorize payment of a sum of up to $900 toward burial costs. No payments shall be authorized if the burial expenses, exclusive of the costs of cremation or of the burial plot and the grave opening, exceed $1,700.
 
 (b) The value of any resources or income which were available to the deceased shall be deducted from the $800 burial allowance in determining the amount the applicant shall receive.
 
@@ -320,7 +320,7 @@ Notwithstanding any other provision of law or regulation to the contrary, where 
 
 (b) The Burial Claims Unit may authorize payment of a sum of up to $900 toward burial costs, including the cost of transporting the remains of the veteran to the Calverton National Cemetery.
 
-      (i) No payments shall be authorized if the burial expenses, exclusive of the costs of cremation or the burial plot and the grave opening, exceed $1700.
+      (i) No payments shall be authorized if the burial expenses, exclusive of the costs of cremation or the burial plot and the grave opening, exceed $1,700.
 
       (ii) No payments shall be authorized if the veteran is to be buried in a private cemetery other than in the Calverton National Cemetery.
 
@@ -570,105 +570,6 @@ OES shall not approve the application for training related expenses and/or an ex
 (a)  In the event that an employment training program becomes disapproved for failure to pass the employment placement rate review, or for the reasons set forth in subdivisions b or c of section 3-05, a public assistance recipient who is already enrolled in the program at the time it is disapproved shall continue to receive training related expenses and/or be excused from other OES work-related activities until the earlier of the recipient's training completion date, or the date when the recipient withdraws from the program or OES withdraws approval pursuant to paragraph 5 of subdivision b of section 3-07.
 
 (b) In the event that an employment training program becomes disapproved pursuant to subdivision a of section 3-05, a public assistance recipient enrolled in such program shall not receive further training related expenses or continue to be excused from other OES work-related activities. Such a recipient may immediately submit a School Enrollment Form for another employment training program.
-
-
-
-
-Chapter 5: Bill of Rights and Responsibilities For Persons With Clinical/Symptomatic HIV Illness Or With AIDS
---------------------------------------------------
-
-
-
-*§ 5-01 Rights of Persons With Clinical/Symptomatic HIV Illness or with AIDS.* ::
-
-
-(a)  Rights of persons with clinical/symptomatic HIV illness or with AIDS. All persons with clinical/symptomatic HIV illness or persons with AIDS shall have the right to apply for benefits and services as defined in § 21-128(b) of the Administrative Code of the City of New York, and the right to apply for information, referral and assessment services from the HIV/AIDS Services Administration ("HASA"). In addition, such persons shall have the following rights:
-
-   (1) With certain exceptions provided pursuant to applicable federal, state or local law, regulation or rule, you have the right to confidentiality. Your medical condition cannot be revealed to anyone without your permission. Information you give to HASA staff will not be released to any individual or organization without your permission except where required by law.
-
-   (2) You have the right to receive information about and to apply for a variety of benefits and services including, but not limited to, medically appropriate transitional and permanent housing; Medicaid and other health related services; home care and home health services; personal care services; homemaker services; Food Stamps; transportation and nutrition allowances; housing subsidies, including, but not limited to, enhanced rental assistance; financial benefits; and intensive case management. You shall have the right to receive the benefits and services for which you are found eligible.
-
-   (3) If you are homebound (i.e., with physical or mental disabilities, confirmed by medical providers or home care agencies, which prevent you, permanently or temporarily, from visiting the local HASA service center), you have the right to a home or hospital visit from a case manager. These visits may be to determine your eligibility for benefits and services, to assist you in applying for benefits and services, or to maintain eligibility for benefits and services.
-
-   (4) You have the right to refuse any service.
-
-   (5) You have the right to be referred to a community based organization for any service not provided by HASA.
-
-   (6) You have the right to contact a HASA staff member whenever you need services.
-
-   (7) You have the right to receive services from HASA staff without the payment of gratuities in any form.
-
-   (8) You have the right to initiate complaints against HASA staff.
-
-   (9) If you feel that you are being unlawfully discriminated against in any way, you have the right to file a complaint of discrimination with the New York State Division of Human Rights Bias Hotline at (212) 662-2427 or the New York City Commission on Human Rights AIDS Hotline at 1-800-523-AIDS.
-
-   (10) You have the right to be treated fairly and with respect and courtesy.
-
-(b) Additional rights and responsibilities of HASA clients. All persons who are deemed eligible pursuant to § 21-128, subsection (a)(3) of the Administrative Code of the City of New York, have, in addition to all of the rights of persons with clinical/symptomatic HIV illness or with AIDS, the following additional rights and responsibilities:
-
-(c) HASA client rights.
-
-   (1) You have the right to have benefits and services provided in a timely manner after your applications for specific benefits and services have been approved. Once applications for benefits and services are complete, the time frames for the delivery of benefits and services are determined by:
-
-      (i) Federal law or regulations;
-
-      (ii) New York State Social Services Law or regulations; or
-
-      (iii) Local Law and the Rules of the City of New York. If none of the above apply, provision of the benefit or service will be no later than twenty (20) business days following submission of all information or documentation required to determine eligibility.
-
-   (2) If accepted for Public Assistance or Food Stamps, you have the right to review your budget. If accepted or rejected for Public Assistance, Food Stamps, Medicaid, home care, or homemaking service, you have a right to an agency conference and to a New York State Fair Hearing with respect to actions taken to deny, reduce, discontinue, or restrict your benefits. Please consult the back of the notice which advises you of the determination of the agency with respect to your request for benefits and please follow the guidelines on the back of the notice with respect to requesting an agency conference or New York State Fair Hearing.
-
-   (3) If you are a HASA client with one or more children in your care or custody, you have the right to receive information and program referrals on child care options, custody planning, and transitional supports, including the availability of standby guardianship, and referral to legal assistance programs.
-
-   (4) You have the right to participate with HASA staff in the development of a service plan.
-
-   (5) You have the right to be notified in writing of any change in your case status or in benefits or services provided to you.
-
-   (6) You have the right to review your HASA case record and to dispute any information contained therein.
-
-   (7) You have the right to be treated fairly and with respect and courtesy.
-
-(d) HASA client responsibilities.
-
-   (1) You have the responsibility to apply for all benefits for which you may qualify, including, but not limited to, Public Assistance, Medicaid, Food Stamps, Supplemental Security Income ("SSI"), and Social Security Disability ("SSD"), to provide documentation and information necessary to establish eligibility for such benefits, and to comply with application requirements.
-
-   (2) You have the responsibility to maintain your benefits by providing information for recertification, and by reporting changes in your income, address, household composition, or any other aspect of your status that may be a factor in determining your eligibility. You have the responsibility to provide information concerning any members of your household, including, but not limited to, any Associated Case Member (ACM) in your household.
-
-   (3) ACM Employability Assessment and Employment Plan.
-
-      (i) The ACM will receive an appointment notice to report for an Employability Assessment to determine whether the ACM is required to engage in work or other activities.
-
-      (ii) The ACM is responsible for appearing at the scheduled appointment and providing proof of employment income, school attendance or verification of another work activity, if applicable. The ACM is responsible for cooperating with the Employability Assessment process.
-
-      (iii) HASA will determine whether the ACM is required to engage in work or other related activities under federal, state, or local law, regulations, or rules. If HASA determines that the ACM is required to engage in work or other related activities, HASA will provide the ACM with an Employment Plan and refer the ACM to the appropriate work activities, employment opportunities, training, or other necessary services for the ACM to achieve self sufficiency. The ACM is responsible for complying with all the work or other related activities required in the Employment Plan.
-
-      (iv) If an ACM refuses or fails without good cause to cooperate or to comply with the Employability Assessment process or with any activities required in the Employment Plan, the household will be subject to a pro-rated reduction of the household's cash assistance benefit(s) as provided in applicable federal, state, or local law, regulations, or rules.
-
-   (4) If you have a Public Assistance budget that requires co-payment, you are personally responsible for paying such co-payment. For purposes of this paragraph, a co-payment means a responsibility from income or benefits other than Public Assistance for a certain portion of the cost of services (e.g., rent, utilities, Medicaid spend-down).
-
-   (5) You have the responsibility to keep all appointments with HASA staff, including, without limitation, face-to-face recertification interviews, appointments to consider relocation to housing other than temporary housing, or to give notice of change or cancellation in those appointments.
-
-   (6) You have the responsibility to advise HASA staff of any problems that you may have and to cooperate with HASA staff to resolve these problems.
-
-   (7) Depending on whether or not you qualify for Temporary Housing Assistance and/or Public Assistance, Medicaid, Food Stamps and Services, you have to comply with additional responsibilities as set forth in writing on DSS/HRA form number W-897B (7/97) with respect to your application for Temporary Housing Assistance, and/or SDSS form number SDSS-2921 (Rev. 4/96) and SDSS publication number 4148A (Rev. 1/95) entitled "What You Should Know About Your Rights and Responsibilities" with respect to your application for Public Assistance, Medicaid, Food Stamps and Services.
-
-   (8) You have the responsibility to treat HASA staff with respect and courtesy.
-
-
-
-
-
-
-*§ 5-02 Rent Limitation.* ::
-
-
-(a) In accordance with section 131-a(14) of the New York Social Services Law, the New York City Human Resources Administration, in calculating public assistance benefits, shall ensure that each person living with clinical/symptomatic HIV illness or AIDS who is receiving public assistance through its HIV/AIDS Services Administration will not pay more than thirty percent of his or her monthly earned and/or unearned income toward the cost of rent that such person has a direct obligation to pay.
-
-(b) If a person living with clinical/symptomatic HIV illness or AIDS receiving public assistance through HRA's HIV/AIDS Services Administration has or, at any time since April 1, 2014, had a direct obligation to pay rent and paid in excess of thirty percent of his or her monthly earned and/or unearned income towards his or her rent, such person shall be reimbursed in the amount of such excess.
-
-(c) This section does not apply to persons receiving a room and board allowance pursuant to 18 NYCRR § 352.8(b)(1).
-
-(d) This section shall not adversely impact a client's eligibility for other HRA benefits and services.
 
 
 
@@ -1095,6 +996,105 @@ The amount of food and administrative funds allocated to each provider may be ch
 (d) a request from the provider that its allocation be reduced.
 
 (e) other factors dictating the need to reallocate funds, including, but not limited to changing demographics or changed demographic projections, or geographic im- balances.
+
+
+
+
+Chapter 5: Bill of Rights and Responsibilities For Persons With Clinical/Symptomatic HIV Illness Or With AIDS
+--------------------------------------------------
+
+
+
+*§ 5-01 Rights of Persons With Clinical/Symptomatic HIV Illness or with AIDS.* ::
+
+
+(a)  Rights of persons with clinical/symptomatic HIV illness or with AIDS. All persons with clinical/symptomatic HIV illness or persons with AIDS shall have the right to apply for benefits and services as defined in § 21-128(b) of the Administrative Code of the City of New York, and the right to apply for information, referral and assessment services from the HIV/AIDS Services Administration ("HASA"). In addition, such persons shall have the following rights:
+
+   (1) With certain exceptions provided pursuant to applicable federal, state or local law, regulation or rule, you have the right to confidentiality. Your medical condition cannot be revealed to anyone without your permission. Information you give to HASA staff will not be released to any individual or organization without your permission except where required by law.
+
+   (2) You have the right to receive information about and to apply for a variety of benefits and services including, but not limited to, medically appropriate transitional and permanent housing; Medicaid and other health related services; home care and home health services; personal care services; homemaker services; Food Stamps; transportation and nutrition allowances; housing subsidies, including, but not limited to, enhanced rental assistance; financial benefits; and intensive case management. You shall have the right to receive the benefits and services for which you are found eligible.
+
+   (3) If you are homebound (i.e., with physical or mental disabilities, confirmed by medical providers or home care agencies, which prevent you, permanently or temporarily, from visiting the local HASA service center), you have the right to a home or hospital visit from a case manager. These visits may be to determine your eligibility for benefits and services, to assist you in applying for benefits and services, or to maintain eligibility for benefits and services.
+
+   (4) You have the right to refuse any service.
+
+   (5) You have the right to be referred to a community based organization for any service not provided by HASA.
+
+   (6) You have the right to contact a HASA staff member whenever you need services.
+
+   (7) You have the right to receive services from HASA staff without the payment of gratuities in any form.
+
+   (8) You have the right to initiate complaints against HASA staff.
+
+   (9) If you feel that you are being unlawfully discriminated against in any way, you have the right to file a complaint of discrimination with the New York State Division of Human Rights Bias Hotline at (212) 662-2427 or the New York City Commission on Human Rights AIDS Hotline at 1-800-523-AIDS.
+
+   (10) You have the right to be treated fairly and with respect and courtesy.
+
+(b) Additional rights and responsibilities of HASA clients. All persons who are deemed eligible pursuant to § 21-128, subsection (a)(3) of the Administrative Code of the City of New York, have, in addition to all of the rights of persons with clinical/symptomatic HIV illness or with AIDS, the following additional rights and responsibilities:
+
+(c) HASA client rights.
+
+   (1) You have the right to have benefits and services provided in a timely manner after your applications for specific benefits and services have been approved. Once applications for benefits and services are complete, the time frames for the delivery of benefits and services are determined by:
+
+      (i) Federal law or regulations;
+
+      (ii) New York State Social Services Law or regulations; or
+
+      (iii) Local Law and the Rules of the City of New York. If none of the above apply, provision of the benefit or service will be no later than twenty (20) business days following submission of all information or documentation required to determine eligibility.
+
+   (2) If accepted for Public Assistance or Food Stamps, you have the right to review your budget. If accepted or rejected for Public Assistance, Food Stamps, Medicaid, home care, or homemaking service, you have a right to an agency conference and to a New York State Fair Hearing with respect to actions taken to deny, reduce, discontinue, or restrict your benefits. Please consult the back of the notice which advises you of the determination of the agency with respect to your request for benefits and please follow the guidelines on the back of the notice with respect to requesting an agency conference or New York State Fair Hearing.
+
+   (3) If you are a HASA client with one or more children in your care or custody, you have the right to receive information and program referrals on child care options, custody planning, and transitional supports, including the availability of standby guardianship, and referral to legal assistance programs.
+
+   (4) You have the right to participate with HASA staff in the development of a service plan.
+
+   (5) You have the right to be notified in writing of any change in your case status or in benefits or services provided to you.
+
+   (6) You have the right to review your HASA case record and to dispute any information contained therein.
+
+   (7) You have the right to be treated fairly and with respect and courtesy.
+
+(d) HASA client responsibilities.
+
+   (1) You have the responsibility to apply for all benefits for which you may qualify, including, but not limited to, Public Assistance, Medicaid, Food Stamps, Supplemental Security Income ("SSI"), and Social Security Disability ("SSD"), to provide documentation and information necessary to establish eligibility for such benefits, and to comply with application requirements.
+
+   (2) You have the responsibility to maintain your benefits by providing information for recertification, and by reporting changes in your income, address, household composition, or any other aspect of your status that may be a factor in determining your eligibility. You have the responsibility to provide information concerning any members of your household, including, but not limited to, any Associated Case Member (ACM) in your household.
+
+   (3) ACM Employability Assessment and Employment Plan.
+
+      (i) The ACM will receive an appointment notice to report for an Employability Assessment to determine whether the ACM is required to engage in work or other activities.
+
+      (ii) The ACM is responsible for appearing at the scheduled appointment and providing proof of employment income, school attendance or verification of another work activity, if applicable. The ACM is responsible for cooperating with the Employability Assessment process.
+
+      (iii) HASA will determine whether the ACM is required to engage in work or other related activities under federal, state, or local law, regulations, or rules. If HASA determines that the ACM is required to engage in work or other related activities, HASA will provide the ACM with an Employment Plan and refer the ACM to the appropriate work activities, employment opportunities, training, or other necessary services for the ACM to achieve self sufficiency. The ACM is responsible for complying with all the work or other related activities required in the Employment Plan.
+
+      (iv) If an ACM refuses or fails without good cause to cooperate or to comply with the Employability Assessment process or with any activities required in the Employment Plan, the household will be subject to a pro-rated reduction of the household's cash assistance benefit(s) as provided in applicable federal, state, or local law, regulations, or rules.
+
+   (4) If you have a Public Assistance budget that requires co-payment, you are personally responsible for paying such co-payment. For purposes of this paragraph, a co-payment means a responsibility from income or benefits other than Public Assistance for a certain portion of the cost of services (e.g., rent, utilities, Medicaid spend-down).
+
+   (5) You have the responsibility to keep all appointments with HASA staff, including, without limitation, face-to-face recertification interviews, appointments to consider relocation to housing other than temporary housing, or to give notice of change or cancellation in those appointments.
+
+   (6) You have the responsibility to advise HASA staff of any problems that you may have and to cooperate with HASA staff to resolve these problems.
+
+   (7) Depending on whether or not you qualify for Temporary Housing Assistance and/or Public Assistance, Medicaid, Food Stamps and Services, you have to comply with additional responsibilities as set forth in writing on DSS/HRA form number W-897B (7/97) with respect to your application for Temporary Housing Assistance, and/or SDSS form number SDSS-2921 (Rev. 4/96) and SDSS publication number 4148A (Rev. 1/95) entitled "What You Should Know About Your Rights and Responsibilities" with respect to your application for Public Assistance, Medicaid, Food Stamps and Services.
+
+   (8) You have the responsibility to treat HASA staff with respect and courtesy.
+
+
+
+
+
+
+*§ 5-02 Rent Limitation.* ::
+
+
+(a) In accordance with section 131-a(14) of the New York Social Services Law, the New York City Human Resources Administration, in calculating public assistance benefits, shall ensure that each person living with clinical/symptomatic HIV illness or AIDS who is receiving public assistance through its HIV/AIDS Services Administration will not pay more than thirty percent of his or her monthly earned and/or unearned income toward the cost of rent that such person has a direct obligation to pay.
+
+(b) If a person living with clinical/symptomatic HIV illness or AIDS receiving public assistance through HRA's HIV/AIDS Services Administration has or, at any time since April 1, 2014, had a direct obligation to pay rent and paid in excess of thirty percent of his or her monthly earned and/or unearned income towards his or her rent, such person shall be reimbursed in the amount of such excess.
+
+(c) This section does not apply to persons receiving a room and board allowance pursuant to 18 NYCRR § 352.8(b)(1).
+
+(d) This section shall not adversely impact a client's eligibility for other HRA benefits and services.
 
 
 
@@ -4501,299 +4501,6 @@ An applicant or program participant may request an agency review conference and/
 
 
 
-Chapter 11: Pathway Home
---------------------------------------------------
-
-
-
-*§ 11-01 Definitions.* ::
-
-
-(a) The "Commissioner" means the Commissioner of DSS or the Commissioner's designee.
-
-(b) "DHS" means the New York City Department of Homeless Services.
-
-(c) A "DHS family shelter" is a shelter for families with children or adult families operated by or on behalf of DHS.
-
-(d) A "DHS shelter" is a shelter operated by or on behalf of DHS.
-
-(e) A "DHS single adult shelter" means a shelter for single adults operated by or on behalf of DHS.
-
-(f) "Gross income" means the sum of: (1) earned income, as defined in Section 352.17(a) of Title 18 of the New York Codes, Rules and Regulations, except that it shall exclude income earned through SYEP; and (2) unearned income, as defined in Section 387.10(b)(3) of such title, except that it shall exclude PA and shall only include income that is regularly recurring. All other income deductions or exclusions, including those set forth in Sections 387.11 and 387.12 of Title 18 of the New York Codes, Rules and Regulations shall not be applied when calculating a household's gross income.
-
-(g) The "host family" means all individuals, other than the household, who are residing or who intend to reside in the residence towards which the Pathway Home payments will be applied. A host family shall include the primary occupant and may consist of a single individual.
-
-(h) The "household" means the individuals who have applied for assistance from Pathway Home or who are having Pathway Home payments made on their behalf.
-
-(i) "HRA" means the New York City Human Resources Administration.
-
-(j) "HRA Shelter" means a domestic violence shelter operated by or on behalf of HRA pursuant to Part 452 of Title 18 of the New York Codes, Rules and Regulations.
-
-(k) The "New York City Department of Social Services" or "DSS" means the entity consisting of HRA and DHS.
-
-(l) "PA" means public assistance benefits, including monthly grants and shelter allowances, issued under the Family Assistance program pursuant to New York Social Services Law § 349 and/or the Safety Net Assistance program pursuant to New York Social Services Law § 159, and regulations promulgated thereunder.
-
-(m) The "Pathway Home Program" means the program established pursuant to this chapter.
-
-(n) A "primary occupant" is the person who has the primary responsibility for payment of the monthly rent for the host family's residence or the owner of such residence. The primary occupant must reside in such residence.
-
-(o) A "program participant" means an adult household member.
-
-(p) "Street homeless" means individuals who: (1) are living on the street or in a place not meant for human habitation and have received case management services for at least 90 days from a DHS contracted outreach provider; (2) have received case management services for at least 90 days from a DHS contracted outreach provider at a drop in center or transitional housing setting; or (3) received case management services from a DHS contracted outreach provider while living on the street or in a place not meant for human habitation, or at a drop in center or transitional housing setting, were placed in permanent housing and currently receive aftercare services.
-
-(q) The "SYEP Program" means the Summer Youth Employment Program administered by the New York City Department of Youth and Community Development to provide New York City residents between the ages of fourteen and twenty-four with opportunities for paid summer employment.
-
-
-
-
-
-
-
-
-*§ 11-02 Administration of the Pathway Home Program.* ::
-
-
-HRA shall administer the Pathway Home Program, except that HRA shall make initial eligibility determinations, pursuant to 68 RCNY § 11-03 in consultation with DHS.
-
-
-
-
-
-
-
-
-*§ 11-03 Eligibility.* ::
-
-
-(a) To be eligible for Pathway Home, a household must meet the following eligibility requirements:
-
-   (1) The household must meet one of the following conditions:
-
-      (A) The household resides in DHS shelter and
-
-         (i) has a qualifying shelter stay as defined in subdivision (b) of this section;
-
-         (ii) has a CityFHEPS shopping letter pursuant to 68 RCNY § 10-04(c);
-
-      (B) The household is street homeless; or
-
-      (C) The household includes an individual with a significant prior stay in DHS shelter who was discharged from the custody of the New York City Department of Correction, and the Commissioner has determined that Pathway Home is needed to avert the individual's reentry to a DHS shelter.
-
-   (2) The household must have total gross income that does not exceed 200 percent of the federal poverty level as established annually by the United States Department of Health and Human Services.
-
-   (3) If the household is not currently in receipt of PA, the household must apply for any assistance available under Part 352 of Title 18 of the New York Code of Rules and Regulations that HRA has determined the household may be eligible for.
-
-   (4) All members of the household who are eligible for PA must be in receipt of PA.
-
-   (5) If the household is currently in a DHS family shelter, the household must be eligible for shelter as determined by DHS pursuant to Parts 351 and 352 of Title 18 of the New York Codes, Rules and Regulations.
-
-   (6) HRA must not have previously made Pathway Home payments on the household's behalf.
-
-   (7) The household must have identified a host family, consisting of relatives or friends of the household who live in the City of New York, that has agreed to permit the household to reside in its residence and to receive a monthly payment from HRA on the household's behalf that does not exceed the amounts set forth in the table in 68 RCNY § 11-04.
-
-   (8) The host family and the host family's residence must meet the requirements of 68 RCNY § 11-07(h).
-
-(b) Qualifying Shelter Stay and Limitations.
-
-   (1) Qualifying Shelter Stay. A resident of a DHS family shelter will have a qualifying shelter stay for purposes of 68 RCNY § 11-03(a)(1)(A)(i) if the household has resided in an HRA or DHS shelter for at least 90 days prior to approval, excluding gaps of up to ten calendar days. A resident of a DHS single adult shelter will have a qualifying shelter stay for purposes of 68 RCNY § 11-03(a)(1)(A)(i) if the individual has resided in an HRA or DHS shelter for at least 90 of the 365 days prior to approval.
-
-   (2) Qualifying Shelter Stay Limitations. The Commissioner may set a date by which qualifying shelter stays must commence, for purposes of 68 RCNY § 11-03(a)(1)(A)(i), upon an evaluation of: housing market conditions, shelter utilization rates, and the availability of funding, when the Commissioner determines that a limiting date in necessary to maintain the program's viability. The Commissioner may remove such a limiting date upon further review of housing market conditions, shelter utilization rates, and the availability of funding.
-
-(c) Applications must be submitted on a form and in a format established by HRA.
-
-(d) At the time of approval, HRA will calculate the household's Pathway Home payments pursuant to 68 RCNY § 11-04. Payments will be approved for one year and, except as provided in 68 RCNY §§ 11-05 and 11-07(g), the payments will not change during the household's participation in the program.
-
-
-
-
-
-
-
-
-*§ 11-04 Calculation of Monthly Pathway Home Payments to Host Families.* ::
-
-
-(a) Except as provided in subdivisions (b) and (c) of this section or where the host family has requested to receive a lower monthly payment, HRA shall pay the host family the following amounts per month for up to one year for as long as the household continues to reside in the residence:
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - Pathway Home Payments
-      - 
-      - 
-      - 
-    * - Household Size
-      - 1 or 2
-      - 3 or 4
-      - 5+
-    * - Monthly Payment to Host
-      - $1200
-      -  $1500
-      - $1800
-~
-
-
-
- 
-
-(b) Where the primary occupant receives PA, the Pathway Home payments shall not exceed the difference between the primary occupant's payment obligation for the residence and the primary occupant's shelter allowance under Section 352.3 of Title 18 of the New York Codes, Rules and Regulations at the time of the effective date of the household's lease or rental agreement.
-
-(c) Where the host family resides in a rent-stabilized apartment, the Pathway Home payments shall not exceed what the household's proportionate share of the rent would be under Section 2525.7 of Title 9 of the New York Code of Rules and Regulations. Where the host family resides in a rent-controlled apartment, the Pathway Home payments shall not exceed the amount the primary tenant is being charged by the landlord.
-
-
-
-
-
-
-
-
-*§ 11-05 Moves.* ::
-
-
-(a) A household on whose behalf HRA is making Pathway Home payments may not move to a new residence and maintain eligibility for Pathway Home except with the approval of the Commissioner and provided that the move must be to a residence within the City of New York. The program participant must obtain such approval prior to moving to a new residence, provided that the Commissioner may consider a request for approval made after the move if a program participant is unable to obtain such approval prior to the move due to circumstances beyond the program participant's control. If the household is moving with its current host family to a new residence, the Commissioner shall grant approval for the move provided the new residence passes a safety and habitability assessment pursuant to 68 RCNY § 11-07(h). In all other situations, the Commissioner shall grant approval for a move from one residence to another residence only if the program participant shows that there is good cause for the move.
-
-(b) If the Commissioner has approved a move to a new residence, the Commissioner shall, if applicable, recalculate the Pathway Home payments and the payments shall not change for the remainder of the time the household remains eligible for Pathway Home unless there is another move. Any Pathway Home payments made on the household's behalf shall count towards the household's one year limit in the program.
-
-
-
-
-
-
-
-
-*§ 11-06 Agency Review Conference and DSS Administrative Appeal Process.* ::
-
-
-(a) Right to DSS Administrative Review. An applicant or current or former program participant may request an agency review conference and/or a DSS administrative hearing to seek review of any determinations or actions under this subchapter, as well as any failures to act, or failures to act with reasonable promptness, in implementing the provisions of this subchapter.
-
-(b) Agency Review Conference.
-
-   (1) If an individual requests an agency review conference, pursuant to subdivision (a) of this section, HRA shall informally review and attempt to resolve the issues raised.
-
-   (2) An individual may request an agency review conference without also requesting a DSS administrative hearing. Requesting an agency review conference will not prevent an individual from later requesting a DSS administrative hearing.
-
-   (3) An agency review conference must be requested within sixty days after the challenged determination or action, provided further that if an DSS administrative hearing is scheduled, an agency review conference must be requested reasonably in advance of the scheduled hearing date.
-
-   (4) A request for an agency review conference will extend the time period to request an DSS administrative hearing as set forth in paragraph (2) of subdivision (c) of this section to sixty days after the date of the agency review conference.
-
-(c) Request for a DSS Administrative Hearing.
-
-   (1) An administrative hearing must be requested in writing. Such written request must be submitted by mail, electronic means or fax, or other means as DSS may set forth in an appeals notice.
-
-   (2) Except as provided in paragraph (4) of subdivision (b) of this section, a request for an administrative hearing must be made within sixty days after the challenged determination or action.
-
-(d) Authorized Representative.
-
-   (1) Except where impracticable to execute a written authorization, a person or organization seeking to represent an individual who has requested a conference or hearing under this section must have the individual's written authorization to represent him or her at an agency review conference or administrative hearing and to review his or her case record, provided that such written authorization is not required from an attorney retained by such individual. An employee of such attorney will be considered an authorized representative if such employee presents written authorization from the attorney or if such attorney advises DSS by telephone of such employee's authorization.
-
-   (2) Once DSS has been notified that a person or organization has been authorized to represent an individual at an agency review conference or administrative hearing, such representative will receive copies of all correspondence sent by DSS to the individual relating to the conference and hearing.
-
-(e) Aid Continuing.
-
-   (1) If a program participant requests an administrative appeal of a determination that Pathway Home payments are to be reduced, restricted, suspended or discontinued, such program participant shall have the right to continued receipt of Pathway Home payments in the amount in effect at the time of the determination until the hearing decision is issued pursuant to subdivision (l) of this section, provided that:
-
-      (A) The program participant requests the administrative appeal within ten days of the mailing of the notice of such determination; and
-
-      (B) The appeal is based on a claim of incorrect computation or an incorrect factual determination.
-
-   (2) There is no right to continued Pathway Home rental assistance payments pursuant to this subdivision where the sole issue on appeal is one of Local, State or Federal law or policy, or change in Local, State or Federal law.
-
-   (3) Pathway Home rental assistance payments will not continue pending the issuance of a hearing decision when:
-
-      (A) The program participant has voluntarily waived his or her right to the continuation of such assistance in writing; or
-
-      (B) The program participant does not appear at the administrative hearing and does not have a good cause reason for not appearing.
-
-      (C) Twelve months of Pathway Home payments have already been made on behalf of a household.
-
-   (4) If a program participant requests an additional appeal pursuant to subdivision (m) of this section, Pathway Home payments will continue uninterrupted after issuance of the hearing decision until a written decision is issued pursuant to subdivision (l) of this section, unless twelve months of Pathway Home payments have already been made on behalf of a household.
-
-(f) Notice. DSS shall provide the individual who has requested a hearing under this section with notice of the date, time, and location of the administrative hearing no fewer than seven calendar days prior to the scheduled date of the administrative hearing, unless the issue underlying the request for an administrative hearing has been resolved and the individual has withdrawn his or her hearing request.
-
-(g) Examination of Case Record. The individual who has requested a conference or hearing under this section or his or her authorized representative has the right to examine the contents of his or her Pathway Home program case file, if one exists, and all documents and records that HRA intends to use at the administrative hearing. Upon request by telephone or in writing, HRA shall provide such individual with copies of all such documents, and copies of any additional documents in the possession of HRA that the individual identifies and requests for purposes of preparing for the administrative hearing. HRA shall provide such documents at no charge reasonably in advance of the administrative hearing. If the request for such documents is made less than five business days before the administrative hearing, HRA must provide the individual with copies of such documents no later than at the time of the administrative hearing.
-
-(h) Adjournment. The administrative hearing may be adjourned for good cause by the administrative hearing officer on his or her own motion or at the request of the individual who requested the hearing or his or her authorized representative, or HRA.
-
-(i) Conduct of Administrative Hearing.
-
-   (1) The administrative hearing shall be conducted by an impartial hearing officer appointed by DSS who shall have the power to administer oaths and issue subpoenas and who shall have no prior personal knowledge of the facts concerning the challenged determination or action.
-
-   (2) The administrative hearing shall be informal, all relevant and material evidence shall be admissible and the legal rules of evidence shall not apply. The administrative hearing shall be confined to the factual and legal issues raised regarding the specific determination(s) for which the administrative hearing was requested.
-
-   (3) The individual who requested the hearing shall have a right to be represented by counsel or other representative, to testify, to produce witnesses to testify, to offer documentary evidence, to offer evidence in opposition to the evidence presented by HRA, to request that the hearing officer issue subpoenas, and to examine any documents offered by HRA.
-
-   (4) An audio recording, an audio visual recording or written transcript of the administrative hearing shall be made.
-
-(j) Abandonment of Request for Administrative Hearing.
-
-   (1) DSS will consider an administrative hearing request abandoned if neither the individual who requested the hearing nor his or her authorized representative appears at the administrative hearing, unless either the individual or his or her authorized representative has:
-
-      (A) contacted DSS prior to the administrative hearing to request rescheduling of the administrative hearing; or
-
-      (B) within fifteen calendar days of the scheduled administrative hearing date, contacted DSS and provided a good cause reason for failing to appear at the administrative hearing on the scheduled date.
-
-   (2) DSS will restore the case to the calendar if the individual who requested the hearing or his or her authorized representative has met the requirements of paragraph (1) of this subdivision.
-
-(k) Hearing Record. The recording or written transcript of the hearing, all papers and requests filed in connection with the hearing, and the hearing decision collectively constitute the complete and exclusive record of the administrative hearing.
-
-(l) Hearing Decision. The hearing officer shall render a decision based exclusively on the hearing record. The decision must be in writing and must set forth the administrative hearing issues, the relevant facts, and the applicable law, regulations and approved policy, if any, upon which the decision is based. The decision must identify the issues to be determined, make findings of fact, state the reasons for the determinations, and when appropriate, direct HRA to take specific action.
-
-   (1) A copy of the decision will be sent to each of the parties and to their authorized representatives, if any. The decision shall include written notice to the individual who had requested the hearing of the right to further appeal and the procedures for requesting such appeal.
-
-   (2) HRA is not bound by a hearing decision that exceeds the authority of the hearing officer or that is contrary to federal, State, or local law or these rules. If the Commissioner determines that HRA is not bound by a hearing decision, the Commissioner shall promptly notify the individual who had requested the hearing of such determination, and of the reasons for the determination. Such notification shall be in writing and shall also inform the individual of the right to judicial review.
-
-(m) Additional appeal.
-
-   (1) An appeal from a decision of a hearing officer may be made in writing to the Commissioner provided it is received by DSS through the procedures described in the notice accompanying the hearing decision no later than fifteen business days after DSS sends the hearing officer's decision. The record before the Commissioner shall consist of the hearing record, the hearing officer's decision and any affidavits, documentary evidence, or written arguments that the applicant or program participant may wish to submit.
-
-   (2) The Commissioner shall render a written decision based on the hearing record and any additional documents submitted by the applicant or program participant and HRA.
-
-   (3) A copy of the decision, including written notice to the applicant or program participant of the right to judicial review, will be sent to each of the parties and to their authorized representatives, if any.
-
-   (4) Upon issuance, the decision of the Commissioner made pursuant to an appeal under this section is final and binding upon HRA and must be complied with by HRA.
-
-
-
-
-
-
-
-
-*§ 11-07 Additional Provisions.* ::
-
-
-(a) Households in the Pathway Home Program will be referred to service providers who will help connect them to appropriate services in their communities.
-
-(b) Waitlists will not be maintained for the Pathway Home Program.
-
-(c) HRA will only allow a household to move in with a host family residing in a subsidized apartment on a case-by-case basis.
-
-(d) Shelter residents are responsible for identifying potential host families.
-
-(e) A host family who is receiving Pathway Home payments from HRA is prohibited from demanding, requesting, or receiving any monies, goods or services directly from the household. A host family who demands, requests or receives any monies, goods or services other than the Pathway Home payments for hosting will be required to return any Pathway Home payments to HRA.
-
-(f) Both the host family and the program participant must promptly inform HRA if any new person moves into, or if the entire household or any member of the household moves out of, the host family's residence.
-
-(g) If the household moves out of the host family's residence, the host family must return any payments for any period of time in which the household was not residing in the residence. If one or more members of the household moves out of the host family's residence, HRA will recalculate the Pathway Home payments based on the number of people from the original household who still reside in the residence and the host family must return any overpayments.
-
-(h) Any host family residence must pass a safety and habitability inspection. Additionally:
-
-   (1) If the household includes a member who is under eighteen years of age, the host family must pass a clearance that shall include, at a minimum, an evaluation of any information contained in the Statewide Central Register of Child Abuse and Maltreatment concerning any family member and whether any host family member is registered as a sex offender pursuant to Article 6-C of the New York Correction Law.
-
-   (2) If the host family includes a member who is under eighteen years of age, the household must pass a clearance that shall include, at a minimum, an evaluation of any information contained in the Statewide Central Register of Child Abuse and Maltreatment concerning any household member and whether any household member is registered as a sex offender pursuant to Article 6-C of the New York Correction Law
-
-(i) If any member of the household has been determined to be eligible for HRA shelter under Section 452.9 of Title 18 of the New York Codes, Rules and Regulations, the host family must not include the perpetrator of the domestic violence that resulted in such determination.
-
-(j) The number of eligible households that can be approved for Pathway Home payments under this chapter will be limited by the amount of available funding.
-
-
-
-
-
-
 Chapter 10: City Fighting Homelessness and Eviction Prevention Supplement (CityFHEPS)
 --------------------------------------------------
 
@@ -5404,6 +5111,299 @@ The Commissioner shall transfer all households in a qualifying City rental assis
 (g) If HRA offers incentives to landlords to participate in the CityFHEPS program, such incentives shall not be available for the rental of a unit where the previous tenant was receiving CityFHEPS, FHEPS or rental assistance under 68 RCNY Chapter 7 or 68 RCNY Chapter 8, unless the landlord can show good cause for not renewing such tenant, such as serious or repeated violations of the lease. Good cause will generally not be found unless the landlord has provided the tenant with 30 days written notice of the intent to not renew, including the reasons for non-renewal.
 
 (Added City Record 9/28/2018, eff. 10/28/2018)
+
+
+
+
+Chapter 11: Pathway Home
+--------------------------------------------------
+
+
+
+*§ 11-01 Definitions.* ::
+
+
+(a) The "Commissioner" means the Commissioner of DSS or the Commissioner's designee.
+
+(b) "DHS" means the New York City Department of Homeless Services.
+
+(c) A "DHS family shelter" is a shelter for families with children or adult families operated by or on behalf of DHS.
+
+(d) A "DHS shelter" is a shelter operated by or on behalf of DHS.
+
+(e) A "DHS single adult shelter" means a shelter for single adults operated by or on behalf of DHS.
+
+(f) "Gross income" means the sum of: (1) earned income, as defined in Section 352.17(a) of Title 18 of the New York Codes, Rules and Regulations, except that it shall exclude income earned through SYEP; and (2) unearned income, as defined in Section 387.10(b)(3) of such title, except that it shall exclude PA and shall only include income that is regularly recurring. All other income deductions or exclusions, including those set forth in Sections 387.11 and 387.12 of Title 18 of the New York Codes, Rules and Regulations shall not be applied when calculating a household's gross income.
+
+(g) The "host family" means all individuals, other than the household, who are residing or who intend to reside in the residence towards which the Pathway Home payments will be applied. A host family shall include the primary occupant and may consist of a single individual.
+
+(h) The "household" means the individuals who have applied for assistance from Pathway Home or who are having Pathway Home payments made on their behalf.
+
+(i) "HRA" means the New York City Human Resources Administration.
+
+(j) "HRA Shelter" means a domestic violence shelter operated by or on behalf of HRA pursuant to Part 452 of Title 18 of the New York Codes, Rules and Regulations.
+
+(k) The "New York City Department of Social Services" or "DSS" means the entity consisting of HRA and DHS.
+
+(l) "PA" means public assistance benefits, including monthly grants and shelter allowances, issued under the Family Assistance program pursuant to New York Social Services Law § 349 and/or the Safety Net Assistance program pursuant to New York Social Services Law § 159, and regulations promulgated thereunder.
+
+(m) The "Pathway Home Program" means the program established pursuant to this chapter.
+
+(n) A "primary occupant" is the person who has the primary responsibility for payment of the monthly rent for the host family's residence or the owner of such residence. The primary occupant must reside in such residence.
+
+(o) A "program participant" means an adult household member.
+
+(p) "Street homeless" means individuals who: (1) are living on the street or in a place not meant for human habitation and have received case management services for at least 90 days from a DHS contracted outreach provider; (2) have received case management services for at least 90 days from a DHS contracted outreach provider at a drop in center or transitional housing setting; or (3) received case management services from a DHS contracted outreach provider while living on the street or in a place not meant for human habitation, or at a drop in center or transitional housing setting, were placed in permanent housing and currently receive aftercare services.
+
+(q) The "SYEP Program" means the Summer Youth Employment Program administered by the New York City Department of Youth and Community Development to provide New York City residents between the ages of fourteen and twenty-four with opportunities for paid summer employment.
+
+
+
+
+
+
+
+
+*§ 11-02 Administration of the Pathway Home Program.* ::
+
+
+HRA shall administer the Pathway Home Program, except that HRA shall make initial eligibility determinations, pursuant to 68 RCNY § 11-03 in consultation with DHS.
+
+
+
+
+
+
+
+
+*§ 11-03 Eligibility.* ::
+
+
+(a) To be eligible for Pathway Home, a household must meet the following eligibility requirements:
+
+   (1) The household must meet one of the following conditions:
+
+      (A) The household resides in DHS shelter and
+
+         (i) has a qualifying shelter stay as defined in subdivision (b) of this section;
+
+         (ii) has a CityFHEPS shopping letter pursuant to 68 RCNY § 10-04(c);
+
+      (B) The household is street homeless; or
+
+      (C) The household includes an individual with a significant prior stay in DHS shelter who was discharged from the custody of the New York City Department of Correction, and the Commissioner has determined that Pathway Home is needed to avert the individual's reentry to a DHS shelter.
+
+   (2) The household must have total gross income that does not exceed 200 percent of the federal poverty level as established annually by the United States Department of Health and Human Services.
+
+   (3) If the household is not currently in receipt of PA, the household must apply for any assistance available under Part 352 of Title 18 of the New York Code of Rules and Regulations that HRA has determined the household may be eligible for.
+
+   (4) All members of the household who are eligible for PA must be in receipt of PA.
+
+   (5) If the household is currently in a DHS family shelter, the household must be eligible for shelter as determined by DHS pursuant to Parts 351 and 352 of Title 18 of the New York Codes, Rules and Regulations.
+
+   (6) HRA must not have previously made Pathway Home payments on the household's behalf.
+
+   (7) The household must have identified a host family, consisting of relatives or friends of the household who live in the City of New York, that has agreed to permit the household to reside in its residence and to receive a monthly payment from HRA on the household's behalf that does not exceed the amounts set forth in the table in 68 RCNY § 11-04.
+
+   (8) The host family and the host family's residence must meet the requirements of 68 RCNY § 11-07(h).
+
+(b) Qualifying Shelter Stay and Limitations.
+
+   (1) Qualifying Shelter Stay. A resident of a DHS family shelter will have a qualifying shelter stay for purposes of 68 RCNY § 11-03(a)(1)(A)(i) if the household has resided in an HRA or DHS shelter for at least 90 days prior to approval, excluding gaps of up to ten calendar days. A resident of a DHS single adult shelter will have a qualifying shelter stay for purposes of 68 RCNY § 11-03(a)(1)(A)(i) if the individual has resided in an HRA or DHS shelter for at least 90 of the 365 days prior to approval.
+
+   (2) Qualifying Shelter Stay Limitations. The Commissioner may set a date by which qualifying shelter stays must commence, for purposes of 68 RCNY § 11-03(a)(1)(A)(i), upon an evaluation of: housing market conditions, shelter utilization rates, and the availability of funding, when the Commissioner determines that a limiting date in necessary to maintain the program's viability. The Commissioner may remove such a limiting date upon further review of housing market conditions, shelter utilization rates, and the availability of funding.
+
+(c) Applications must be submitted on a form and in a format established by HRA.
+
+(d) At the time of approval, HRA will calculate the household's Pathway Home payments pursuant to 68 RCNY § 11-04. Payments will be approved for one year and, except as provided in 68 RCNY §§ 11-05 and 11-07(g), the payments will not change during the household's participation in the program.
+
+
+
+
+
+
+
+
+*§ 11-04 Calculation of Monthly Pathway Home Payments to Host Families.* ::
+
+
+(a) Except as provided in subdivisions (b) and (c) of this section or where the host family has requested to receive a lower monthly payment, HRA shall pay the host family the following amounts per month for up to one year for as long as the household continues to reside in the residence:
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - Pathway Home Payments
+      - 
+      - 
+      - 
+    * - Household Size
+      - 1 or 2
+      - 3 or 4
+      - 5+
+    * - Monthly Payment to Host
+      - $1,200
+      -  $1,500
+      - $1,800
+~
+
+
+
+ 
+
+(b) Where the primary occupant receives PA, the Pathway Home payments shall not exceed the difference between the primary occupant's payment obligation for the residence and the primary occupant's shelter allowance under Section 352.3 of Title 18 of the New York Codes, Rules and Regulations at the time of the effective date of the household's lease or rental agreement.
+
+(c) Where the host family resides in a rent-stabilized apartment, the Pathway Home payments shall not exceed what the household's proportionate share of the rent would be under Section 2525.7 of Title 9 of the New York Code of Rules and Regulations. Where the host family resides in a rent-controlled apartment, the Pathway Home payments shall not exceed the amount the primary tenant is being charged by the landlord.
+
+
+
+
+
+
+
+
+*§ 11-05 Moves.* ::
+
+
+(a) A household on whose behalf HRA is making Pathway Home payments may not move to a new residence and maintain eligibility for Pathway Home except with the approval of the Commissioner and provided that the move must be to a residence within the City of New York. The program participant must obtain such approval prior to moving to a new residence, provided that the Commissioner may consider a request for approval made after the move if a program participant is unable to obtain such approval prior to the move due to circumstances beyond the program participant's control. If the household is moving with its current host family to a new residence, the Commissioner shall grant approval for the move provided the new residence passes a safety and habitability assessment pursuant to 68 RCNY § 11-07(h). In all other situations, the Commissioner shall grant approval for a move from one residence to another residence only if the program participant shows that there is good cause for the move.
+
+(b) If the Commissioner has approved a move to a new residence, the Commissioner shall, if applicable, recalculate the Pathway Home payments and the payments shall not change for the remainder of the time the household remains eligible for Pathway Home unless there is another move. Any Pathway Home payments made on the household's behalf shall count towards the household's one year limit in the program.
+
+
+
+
+
+
+
+
+*§ 11-06 Agency Review Conference and DSS Administrative Appeal Process.* ::
+
+
+(a) Right to DSS Administrative Review. An applicant or current or former program participant may request an agency review conference and/or a DSS administrative hearing to seek review of any determinations or actions under this subchapter, as well as any failures to act, or failures to act with reasonable promptness, in implementing the provisions of this subchapter.
+
+(b) Agency Review Conference.
+
+   (1) If an individual requests an agency review conference, pursuant to subdivision (a) of this section, HRA shall informally review and attempt to resolve the issues raised.
+
+   (2) An individual may request an agency review conference without also requesting a DSS administrative hearing. Requesting an agency review conference will not prevent an individual from later requesting a DSS administrative hearing.
+
+   (3) An agency review conference must be requested within sixty days after the challenged determination or action, provided further that if an DSS administrative hearing is scheduled, an agency review conference must be requested reasonably in advance of the scheduled hearing date.
+
+   (4) A request for an agency review conference will extend the time period to request an DSS administrative hearing as set forth in paragraph (2) of subdivision (c) of this section to sixty days after the date of the agency review conference.
+
+(c) Request for a DSS Administrative Hearing.
+
+   (1) An administrative hearing must be requested in writing. Such written request must be submitted by mail, electronic means or fax, or other means as DSS may set forth in an appeals notice.
+
+   (2) Except as provided in paragraph (4) of subdivision (b) of this section, a request for an administrative hearing must be made within sixty days after the challenged determination or action.
+
+(d) Authorized Representative.
+
+   (1) Except where impracticable to execute a written authorization, a person or organization seeking to represent an individual who has requested a conference or hearing under this section must have the individual's written authorization to represent him or her at an agency review conference or administrative hearing and to review his or her case record, provided that such written authorization is not required from an attorney retained by such individual. An employee of such attorney will be considered an authorized representative if such employee presents written authorization from the attorney or if such attorney advises DSS by telephone of such employee's authorization.
+
+   (2) Once DSS has been notified that a person or organization has been authorized to represent an individual at an agency review conference or administrative hearing, such representative will receive copies of all correspondence sent by DSS to the individual relating to the conference and hearing.
+
+(e) Aid Continuing.
+
+   (1) If a program participant requests an administrative appeal of a determination that Pathway Home payments are to be reduced, restricted, suspended or discontinued, such program participant shall have the right to continued receipt of Pathway Home payments in the amount in effect at the time of the determination until the hearing decision is issued pursuant to subdivision (l) of this section, provided that:
+
+      (A) The program participant requests the administrative appeal within ten days of the mailing of the notice of such determination; and
+
+      (B) The appeal is based on a claim of incorrect computation or an incorrect factual determination.
+
+   (2) There is no right to continued Pathway Home rental assistance payments pursuant to this subdivision where the sole issue on appeal is one of Local, State or Federal law or policy, or change in Local, State or Federal law.
+
+   (3) Pathway Home rental assistance payments will not continue pending the issuance of a hearing decision when:
+
+      (A) The program participant has voluntarily waived his or her right to the continuation of such assistance in writing; or
+
+      (B) The program participant does not appear at the administrative hearing and does not have a good cause reason for not appearing.
+
+      (C) Twelve months of Pathway Home payments have already been made on behalf of a household.
+
+   (4) If a program participant requests an additional appeal pursuant to subdivision (m) of this section, Pathway Home payments will continue uninterrupted after issuance of the hearing decision until a written decision is issued pursuant to subdivision (l) of this section, unless twelve months of Pathway Home payments have already been made on behalf of a household.
+
+(f) Notice. DSS shall provide the individual who has requested a hearing under this section with notice of the date, time, and location of the administrative hearing no fewer than seven calendar days prior to the scheduled date of the administrative hearing, unless the issue underlying the request for an administrative hearing has been resolved and the individual has withdrawn his or her hearing request.
+
+(g) Examination of Case Record. The individual who has requested a conference or hearing under this section or his or her authorized representative has the right to examine the contents of his or her Pathway Home program case file, if one exists, and all documents and records that HRA intends to use at the administrative hearing. Upon request by telephone or in writing, HRA shall provide such individual with copies of all such documents, and copies of any additional documents in the possession of HRA that the individual identifies and requests for purposes of preparing for the administrative hearing. HRA shall provide such documents at no charge reasonably in advance of the administrative hearing. If the request for such documents is made less than five business days before the administrative hearing, HRA must provide the individual with copies of such documents no later than at the time of the administrative hearing.
+
+(h) Adjournment. The administrative hearing may be adjourned for good cause by the administrative hearing officer on his or her own motion or at the request of the individual who requested the hearing or his or her authorized representative, or HRA.
+
+(i) Conduct of Administrative Hearing.
+
+   (1) The administrative hearing shall be conducted by an impartial hearing officer appointed by DSS who shall have the power to administer oaths and issue subpoenas and who shall have no prior personal knowledge of the facts concerning the challenged determination or action.
+
+   (2) The administrative hearing shall be informal, all relevant and material evidence shall be admissible and the legal rules of evidence shall not apply. The administrative hearing shall be confined to the factual and legal issues raised regarding the specific determination(s) for which the administrative hearing was requested.
+
+   (3) The individual who requested the hearing shall have a right to be represented by counsel or other representative, to testify, to produce witnesses to testify, to offer documentary evidence, to offer evidence in opposition to the evidence presented by HRA, to request that the hearing officer issue subpoenas, and to examine any documents offered by HRA.
+
+   (4) An audio recording, an audio visual recording or written transcript of the administrative hearing shall be made.
+
+(j) Abandonment of Request for Administrative Hearing.
+
+   (1) DSS will consider an administrative hearing request abandoned if neither the individual who requested the hearing nor his or her authorized representative appears at the administrative hearing, unless either the individual or his or her authorized representative has:
+
+      (A) contacted DSS prior to the administrative hearing to request rescheduling of the administrative hearing; or
+
+      (B) within fifteen calendar days of the scheduled administrative hearing date, contacted DSS and provided a good cause reason for failing to appear at the administrative hearing on the scheduled date.
+
+   (2) DSS will restore the case to the calendar if the individual who requested the hearing or his or her authorized representative has met the requirements of paragraph (1) of this subdivision.
+
+(k) Hearing Record. The recording or written transcript of the hearing, all papers and requests filed in connection with the hearing, and the hearing decision collectively constitute the complete and exclusive record of the administrative hearing.
+
+(l) Hearing Decision. The hearing officer shall render a decision based exclusively on the hearing record. The decision must be in writing and must set forth the administrative hearing issues, the relevant facts, and the applicable law, regulations and approved policy, if any, upon which the decision is based. The decision must identify the issues to be determined, make findings of fact, state the reasons for the determinations, and when appropriate, direct HRA to take specific action.
+
+   (1) A copy of the decision will be sent to each of the parties and to their authorized representatives, if any. The decision shall include written notice to the individual who had requested the hearing of the right to further appeal and the procedures for requesting such appeal.
+
+   (2) HRA is not bound by a hearing decision that exceeds the authority of the hearing officer or that is contrary to federal, State, or local law or these rules. If the Commissioner determines that HRA is not bound by a hearing decision, the Commissioner shall promptly notify the individual who had requested the hearing of such determination, and of the reasons for the determination. Such notification shall be in writing and shall also inform the individual of the right to judicial review.
+
+(m) Additional appeal.
+
+   (1) An appeal from a decision of a hearing officer may be made in writing to the Commissioner provided it is received by DSS through the procedures described in the notice accompanying the hearing decision no later than fifteen business days after DSS sends the hearing officer's decision. The record before the Commissioner shall consist of the hearing record, the hearing officer's decision and any affidavits, documentary evidence, or written arguments that the applicant or program participant may wish to submit.
+
+   (2) The Commissioner shall render a written decision based on the hearing record and any additional documents submitted by the applicant or program participant and HRA.
+
+   (3) A copy of the decision, including written notice to the applicant or program participant of the right to judicial review, will be sent to each of the parties and to their authorized representatives, if any.
+
+   (4) Upon issuance, the decision of the Commissioner made pursuant to an appeal under this section is final and binding upon HRA and must be complied with by HRA.
+
+
+
+
+
+
+
+
+*§ 11-07 Additional Provisions.* ::
+
+
+(a) Households in the Pathway Home Program will be referred to service providers who will help connect them to appropriate services in their communities.
+
+(b) Waitlists will not be maintained for the Pathway Home Program.
+
+(c) HRA will only allow a household to move in with a host family residing in a subsidized apartment on a case-by-case basis.
+
+(d) Shelter residents are responsible for identifying potential host families.
+
+(e) A host family who is receiving Pathway Home payments from HRA is prohibited from demanding, requesting, or receiving any monies, goods or services directly from the household. A host family who demands, requests or receives any monies, goods or services other than the Pathway Home payments for hosting will be required to return any Pathway Home payments to HRA.
+
+(f) Both the host family and the program participant must promptly inform HRA if any new person moves into, or if the entire household or any member of the household moves out of, the host family's residence.
+
+(g) If the household moves out of the host family's residence, the host family must return any payments for any period of time in which the household was not residing in the residence. If one or more members of the household moves out of the host family's residence, HRA will recalculate the Pathway Home payments based on the number of people from the original household who still reside in the residence and the host family must return any overpayments.
+
+(h) Any host family residence must pass a safety and habitability inspection. Additionally:
+
+   (1) If the household includes a member who is under eighteen years of age, the host family must pass a clearance that shall include, at a minimum, an evaluation of any information contained in the Statewide Central Register of Child Abuse and Maltreatment concerning any family member and whether any host family member is registered as a sex offender pursuant to Article 6-C of the New York Correction Law.
+
+   (2) If the host family includes a member who is under eighteen years of age, the household must pass a clearance that shall include, at a minimum, an evaluation of any information contained in the Statewide Central Register of Child Abuse and Maltreatment concerning any household member and whether any household member is registered as a sex offender pursuant to Article 6-C of the New York Correction Law
+
+(i) If any member of the household has been determined to be eligible for HRA shelter under Section 452.9 of Title 18 of the New York Codes, Rules and Regulations, the host family must not include the perpetrator of the domestic violence that resulted in such determination.
+
+(j) The number of eligible households that can be approved for Pathway Home payments under this chapter will be limited by the amount of available funding.
+
+
 
 
 

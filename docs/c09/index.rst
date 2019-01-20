@@ -7185,13 +7185,13 @@ Example 1: The taxpayer's holdings of X corporation's common stock, and the fair
 
 Example 2: The taxpayers inventories, during the period covered by the report, on a quarterly basis, were as follows:
 
-(1) end of first quarter, 1000 tons of the fair market value of $2 a ton – $2,000;
+(1) end of first quarter, 1,000 tons of the fair market value of $2 a ton – $2,000;
 
-(2) end of second quarter, 2000 tons of the fair market value of $2 a ton – $4,000;
+(2) end of second quarter, 2,000 tons of the fair market value of $2 a ton – $4,000;
 
-(3) end of third quarter, 2000 tons of the fair market value of $3 a ton – $6,000;
+(3) end of third quarter, 2,000 tons of the fair market value of $3 a ton – $6,000;
 
-(4) end of fourth quarter, 1000 tons of the fair market value of $2 a ton – $2,000. The average fair market value of the taxpayer's inventories during the period covered by the report, computed on a quarterly basis, would be:
+(4) end of fourth quarter, 1,000 tons of the fair market value of $2 a ton – $2,000. The average fair market value of the taxpayer's inventories during the period covered by the report, computed on a quarterly basis, would be:
 
    $2,000 + $4,000 + $6,000 + $2,000 = $14,000 ÷ 4 = $3,500.
 
@@ -8048,11 +8048,11 @@ Investment Income. (§ 11-602(5), Administrative Code.)
 
 Example 1: Taxpayer's entire net income for 1966 is $200,000, consisting of $50,000 of investment income and $150,000 of business income. Its investment allocation percentage is 15 percent. Its business allocation percentage is 100 percent. It has an allowable net operating loss deduction of $100,000 for a loss sustained in 1967. Its investment income is $25,000
 
-([$50,000 - $50,000 × $100,000]),    $200,000
+([$50,000 - $50,000 × $100,000]), $200,000
 
 which is allocable 15 percent to New York City. Its business income is $75,000
 
-([$150,000 - $150,000 × $100,000]),        $200,000
+([$150,000 - $150,000 × $100,000]),  $200,000
 
 which is allocable 100 percent to New York City. Thus, 25 percent of the net operating loss deduction is allocated on the basis of the investment allocation percentage of the current year and 75 percent is allocated on the basis of the business allocation percentage of the current year.
 
@@ -8060,11 +8060,11 @@ which is allocable 100 percent to New York City. Thus, 25 percent of the net ope
 
 Example 2: If the investment allocation percentage of the taxpayer in Example 1 was zero and $30,000 of its investment income was from United States government bonds, its investment income after allowance of the net operating loss deduction is $10,000
 
-([$20,000 - $20,000 × $100,000]),    $200,000
+([$20,000 - $20,000 × $100,000]), $200,000
 
 none of which is allocable to New York City. Its business income after allowance of the net operating loss deduction is $90,000
 
-([$180,000 - $180,000 × $100,000]),        $200,000
+([$180,000 - $180,000 × $100,000]),  $200,000
 
 100 percent of which is allocable to New York City.
 
@@ -8703,7 +8703,7 @@ Place of assembly. A "place of assembly" is an enclosed room or space in which 7
 
 (2) the room has been certified as a "place of assembly" by the Department of Buildings. To illustrate:
 
-Illustration (i) Hotel B has a ballroom, adjacent to which is a reception room and two small foyers. The four rooms, by use of folding doors, can be converted into one large space accommodating a maximum of 2500 persons. Under certain circumstances the ballroom may be rented for a function for 1000 persons, the reception room for 250 persons, and either one or both of the foyer rooms to groups of from 25 to 50 persons, by closing the folding doors and thus providing four separate units. Accordingly, the tax would not apply where the ballroom is rented for a function for 1000 persons, or the reception room for 250, or for either or both rooms where rented for 75 or more persons. However, the tax does apply where one or both of the foyer rooms (which are not "certified" as places of assembly) may be rented to groups of from 25 to 50 persons.
+Illustration (i) Hotel B has a ballroom, adjacent to which is a reception room and two small foyers. The four rooms, by use of folding doors, can be converted into one large space accommodating a maximum of 2,500 persons. Under certain circumstances the ballroom may be rented for a function for 1,000 persons, the reception room for 250 persons, and either one or both of the foyer rooms to groups of from 25 to 50 persons, by closing the folding doors and thus providing four separate units. Accordingly, the tax would not apply where the ballroom is rented for a function for 1,000 persons, or the reception room for 250, or for either or both rooms where rented for 75 or more persons. However, the tax does apply where one or both of the foyer rooms (which are not "certified" as places of assembly) may be rented to groups of from 25 to 50 persons.
 
 Illustration (ii) Hotel B has a meeting room which has been certified as a "place of assembly" by the Department of Buildings. The rental of such room (regardless of the expected or actual attendance) shall be exempt from the tax.
 
@@ -11314,7 +11314,7 @@ Illustration D: X Corporation owns real property in New York City (Parcel A) wit
 
 Illustration A: The sole asset of X Corporation is 100% of the stock of Y Corporation. Y owns unencumbered real property in New York City with a fair market value of $1,000,000. On January 1, 1995, X Corporation transfers all of its assets to its two stockholders, A and B, in complete liquidation. A and B each own 50% of X Corporation stock and receive equal shares of X's assets upon liquidation. The measure of the tax on the distribution of the Y stock is the fair market value of Y's real property ($1,000,000). However, because A and B each had a 50% beneficial interest in the Y stock prior to the liquidation and each retained that interest, the transfer of the stock is fully exempt from tax as a mere change of identity or form of ownership or organization.
 
-Illustration B: Same facts as above except that X Corporation also has cash of $500,000 and A receives this cash and 25% of the Y stock in the liquidation. B receives the other 75% interest in Y stock. The distribution of 100% of the Y stock to A and B represents a transfer of a 100% economic interest in real property. The measure of tax for the distribution of 100% of the Y stock is $1,00,000. Because A owned a 50% interest in Y stock prior to the distribution and retains a 25% interest while B owned a 50% interest in the Y stock prior to the distribution and has a 75% interest following the distribution, the distribution of the Y stock is exempt from tax as a mere change of identity or form of ownership or organization to the extent of 75% (25% + 50%) and only 25% of the measure of tax for the distribution, or $250,000, is subject to tax. The tax due is $6,562.50 (2.625% × $250,000). The higher tax rate applies because the total measure of tax for the distribution exceeded $500,000.
+Illustration B: Same facts as above except that X Corporation also has cash of $500,000 and A receives this cash and 25% of the Y stock in the liquidation. B receives the other 75% interest in Y stock. The distribution of 100% of the Y stock to A and B represents a transfer of a 100% economic interest in real property. The measure of tax for the distribution of 100% of the Y stock is $1,000,000. Because A owned a 50% interest in Y stock prior to the distribution and retains a 25% interest while B owned a 50% interest in the Y stock prior to the distribution and has a 75% interest following the distribution, the distribution of the Y stock is exempt from tax as a mere change of identity or form of ownership or organization to the extent of 75% (25% + 50%) and only 25% of the measure of tax for the distribution, or $250,000, is subject to tax. The tax due is $6,562.50 (2.625% × $250,000). The higher tax rate applies because the total measure of tax for the distribution exceeded $500,000.
 
    (3) A distribution of realty or an economic interest therein within 12 months of the liquidation of the distributing entity will be presumed to be a distribution in liquidation.
 
@@ -11457,7 +11457,7 @@ The tax is calculated at the rate applicable to a sale of an individual cooperat
 Credit = A ×
 									N          T
 
-Where:  
+Where:
 
    A = Amount of tax paid upon the conveyance to the cooperative housing corporation.
 
@@ -12259,13 +12259,13 @@ Tax year. "Tax year" shall mean June first of any calendar year through May thir
 
 (c) The amount of the tax required to be paid is determined by applying the tax rate, viz: 25% of the annual license fees, or summer or winter license fees, as the case may be, payable under the New York State Alcoholic Beverage Control Law by such retail licensee for the license year in effect at the commencement of the tax year under the law. Where a retail licensee obtains a license subsequent to the commencement of a tax year, the amount of tax required to be paid to the City by such licensee shall be determined by taking that portion of 25% of the annual license fee payable under such law which the remaining number of days in the tax year bears to the total number of days in said tax year, but in no event shall the tax be less than the amount determined by applying such percentage to 25% of the annual license fee payable under the New York State Alcoholic Beverage Control Law, as the minimum license fee payable thereunder bears to the annual license fee payable thereunder for such license; and, in the case of summer or winter licenses issued under the New York State Alcoholic Beverage Control Law, by taking that portion of 25% of the summer or winter license fee payable under said law which the number of days in the remaining calendar months of the tax year for which summer or winter license is issued bears to the number of days in the total calendar months of the tax year for which summer or winter licenses may be issued, but in no event shall the tax be less than the amount determined by applying such percentage to 25% of the summer or winter license fee payable under said law as the minimum license fee payable thereunder bears to the maximum license fee payable thereunder for such license. In the case of licenses issued under the New York State Alcoholic Beverage Control Law for periods of more than one year, the tax required to be paid shall be determined by the license fee payable on a yearly basis. The following will illustrate the above:
 
-Illustration 1: A retail licensee obtains a license on March 1, 1980, for the license year commencing March 1, 1980, and expiring February 28, 1981, and pays the annual license fee of $1200, the amount payable under the New York State Alcoholic Beverage Control Law. He continues in business as a retail licensee to or beyond June 1, 1980. Since the license fee payable for the license year in effect on June 1, 1980 (the date of the commencement of the tax year) is $1200, the tax payable to the City is 25% thereof, or $300.
+Illustration 1: A retail licensee obtains a license on March 1, 1980, for the license year commencing March 1, 1980, and expiring February 28, 1981, and pays the annual license fee of $1,200, the amount payable under the New York State Alcoholic Beverage Control Law. He continues in business as a retail licensee to or beyond June 1, 1980. Since the license fee payable for the license year in effect on June 1, 1980 (the date of the commencement of the tax year) is $1,200, the tax payable to the City is 25% thereof, or $300.
 
-Illustration 2: Assume that the amount of the annual license fee payable under the New York State Alcoholic Beverage Control Law by the retail licensee for the license year in effect at the time such license is issued is $1200, and the retail licensee obtains the license on April 1, 1981.
+Illustration 2: Assume that the amount of the annual license fee payable under the New York State Alcoholic Beverage Control Law by the retail licensee for the license year in effect at the time such license is issued is $1,200, and the retail licensee obtains the license on April 1, 1981.
 
-(i) $1200 × 25% = $300.
+(i) $1,200 × 25% = $300.
 
-   Where:   $1200 = annual license fee payable under the New York State Alcoholic Beverage Control Law.
+   Where:   $1,200 = annual license fee payable under the New York State Alcoholic Beverage Control Law.
 
 (ii) 61  × $300 = $50.14    365
 
@@ -12279,9 +12279,9 @@ Illustration 2: Assume that the amount of the annual license fee payable under t
 
 Illustration 3: Assume the same facts as in illustration (2) above except that the retail license was obtained August 1, 1981.
 
-(i) $1200 × 25% = $300.
+(i) $1,200 × 25% = $300.
 
-   Where:   $1200 = annual license fee payable under the New York State Beverage Control Law.
+   Where:   $1,200 = annual license fee payable under the New York State Beverage Control Law.
 
 (ii) 304 × $300 = $249.86    365
 
@@ -12293,9 +12293,9 @@ Illustration 3: Assume the same facts as in illustration (2) above except that t
 
 Since the tax in item (ii) $249.86 is more than $150, the tax required to be paid to the City is $249.86.
 
-Illustration 4: X obtains a summer liquor license under the New York State Alcoholic Beverage Control Law on April 1, 1980 covering the period April 1, 1980 to October 31, 1980 for which he is required to pay $700, although the annual license fee for a yearly liquor license is $1200. Since the license fee payable for a summer liquor licensee for the license year in effect on June, 1, 1980 (the date of the commencement of the tax year) is $700, the tax payable to the City for such tax year is 25% thereof, or $175. In this illustration it is assumed that the retail licensee intends to and actually obtains another license in 1981 for the period from April 1, 1981 to October 31, 1981. If such retail licensee does not obtain a license forthe months of April and May, 1981, he will be deemed to have ceased doing business as a retail licensee not later than October 31, 1980. In such event, he may avail himself of the provisions for refund of the tax paid as prescribed in 19 RCNY § 25-08.
+Illustration 4: X obtains a summer liquor license under the New York State Alcoholic Beverage Control Law on April 1, 1980 covering the period April 1, 1980 to October 31, 1980 for which he is required to pay $700, although the annual license fee for a yearly liquor license is $1,200. Since the license fee payable for a summer liquor licensee for the license year in effect on June, 1, 1980 (the date of the commencement of the tax year) is $700, the tax payable to the City for such tax year is 25% thereof, or $175. In this illustration it is assumed that the retail licensee intends to and actually obtains another license in 1981 for the period from April 1, 1981 to October 31, 1981. If such retail licensee does not obtain a license forthe months of April and May, 1981, he will be deemed to have ceased doing business as a retail licensee not later than October 31, 1980. In such event, he may avail himself of the provisions for refund of the tax paid as prescribed in 19 RCNY § 25-08.
 
-Illustration 5: A obtains a summer liquor license under the New York State Alcoholic Beverage Control Law on April 1, 1981 covering the period April 1, 1981 to October 31, 1981 for which he is required to pay $700, although the annual license fee for a yearly liquor license is $1200.
+Illustration 5: A obtains a summer liquor license under the New York State Alcoholic Beverage Control Law on April 1, 1981 covering the period April 1, 1981 to October 31, 1981 for which he is required to pay $700, although the annual license fee for a yearly liquor license is $1,200.
 
 (i) $700 × 25% = $175.
 
@@ -12307,11 +12307,11 @@ Where:   $700 = the summer liquor license fee payable under the New York Stat
 
    214 = number of days in total calendar months of tax year for which summer license may be issued – June 1, 1980 to October 31, 1980 and April 1, 1981 to May 31, 1981.
 
-(iii) $600 or half of $175 = $87.50    $1200
+(iii) $600 or half of $175 = $87.50    $1,200
 
    Where:   $600 = minimum license fee payable under the New York State Alcoholic Beverage Control Law.
 
-   $1200 = the maximum license fee payable under the New York State Alcoholic Beverage Control Law.
+   $1,200 = the maximum license fee payable under the New York State Alcoholic Beverage Control Law.
 
 Since the tax of $49.88 in item (ii) is less than one-half of $175, the minimum tax required to be paid for the tax year ending May 31, 1981 is $87.50 (item (iii)). For the tax year commencing June 1, 1981, A is required to pay a tax of $175 ; provided, however, if A does not obtain another summer liquor license for the months of April and May, 1982 he will be deemed to have ceased doing business as a retail licensee not later than October 31, 1981, in which event he may avail himself of the provisions for refund of the tax so paid as prescribed in 19 RCNY § 25-08 as amended.
 
@@ -13316,9 +13316,9 @@ Example (4): The facts are the same as in example 3 except that the sign at the 
 
       (i) If the tax computed under such section is $800 or less, the amount of the credit is the entire amount of the tax.
 
-      (ii) If the tax computed under such section exceeds $800 but is less than $1000, the credit is an amount determined by multiplying the tax by a fraction the numerator of which is $1000 less the amount of the tax and the denominator of which is $200.
+      (ii) If the tax computed under such section exceeds $800 but is less than $1,000, the credit is an amount determined by multiplying the tax by a fraction the numerator of which is $1,000 less the amount of the tax and the denominator of which is $200.
 
-      (iii) If the tax computed under such section is $1000 or more, no credit is allowed.
+      (iii) If the tax computed under such section is $1,000 or more, no credit is allowed.
 
    (3) A credit is allowed against the tax computed under 19 RCNY § 28-03(a) for taxable years beginning after 1996 determined in the following manner:
 
@@ -14429,10 +14429,10 @@ Example: Y Co. partnership operated by individuals A, B, C, E and G sustained a 
       - X
       - 25%
     * - *G 
-      -   X  
-      -   X  
-      -   20%  
-      -   X  
+      -  X 
+      -  X 
+      -  20% 
+      -  X 
     * -  
       -  100%
       -  100%
@@ -15727,11 +15727,11 @@ Mr C's proportionate interest in the excess of U.B. gross income over U.B. deduc
       - $0
       - 
     * - Pro rata share of the distributable balance (1/3 of $135,000)
-      -   $45,000
+      -  $45,000
       - 
     * -  
       - $45,000
-      -   $45,000
+      -  $45,000
     * - Total of all proportionate interests in the excess of U.B. gross income over U.B. deductions
       - 
       - $435,000
@@ -15823,11 +15823,11 @@ Mr. C's proportionate interest in the excess of U.B. gross income over U.B. dedu
       - $0 
       - 
     * - Pro rata share of the distributable balance
-      -  $0
+      -  $0
       - 
     * -  
       - $0 
-      -            $0
+      -  $0
     * - Total of all proportionate interests in the excess of U.B. gross income over U.B. deductions
       - 
       - $135,000
@@ -16572,7 +16572,7 @@ Where the State Tax Commission changes or corrects a taxpayer's sales and compen
 
    (5) Tax reduced by carryback. If the amount of tax for any taxable year is reduced by reason of a carryback of a net operating loss, such reduction in tax shall not affect the computation of interest under this subdivision (a) for the period ending with the filing date for the taxable year in which the net operating loss arises, determined without regard to extensions of time to file.
 
-Example: Partnership ABC has an unincorporated business tax deficiency of $1000 for its taxable year ended December 31, 1983, due April 15, 1984. It sustains a loss for the year ended December 31, 1984, which when carried back to tax year 1983 reduces the deficiency for that year to $600. Interest accrues at the statutory rate (compounded) on $1000 to April 15, 1985 (the filing date for the year of loss) and then on $600 to the date of payment.
+Example: Partnership ABC has an unincorporated business tax deficiency of $1,000 for its taxable year ended December 31, 1983, due April 15, 1984. It sustains a loss for the year ended December 31, 1984, which when carried back to tax year 1983 reduces the deficiency for that year to $600. Interest accrues at the statutory rate (compounded) on $1,000 to April 15, 1985 (the filing date for the year of loss) and then on $600 to the date of payment.
 
    (6) Interest on penalties or additions to tax. Interest shall be imposed under paragraph (1) of this subdivision (a) in respect to any assessable penalty or addition to tax only if such assessable penalty or addition to tax is not paid within ten days from the date of the notice and demand therefor under subdivision (b) of § 11-532 of the Administrative Code, and in such case interest shall be imposed only for the period from the date of the notice and demand to the date of payment.
 
@@ -16760,13 +16760,13 @@ Example 2: A taxpayer files his tax return for the year January 1, 1983 to Decem
 
       (ii) Any person who, with intent to evade any tax imposed, files a false or fraudulent return or report and, with such intent, substantially understates on such return or report his tax liability shall be guilty of a class E felony.
 
-      (iii) For purposes of subparagraph (ii) of this paragraph (2) the term "substantially understates" refers to the excess amount of the tax required to be shown on the return or report for the taxable year or other applicable taxable period over the amount of the tax imposed which is shown on the return or report, provided that the excess is more than $1500, and provided that the taxpayer, acting without reasonable ground for belief that his conduct is lawful, intended to evade at least said amount of such excess.
+      (iii) For purposes of subparagraph (ii) of this paragraph (2) the term "substantially understates" refers to the excess amount of the tax required to be shown on the return or report for the taxable year or other applicable taxable period over the amount of the tax imposed which is shown on the return or report, provided that the excess is more than $1,500, and provided that the taxpayer, acting without reasonable ground for belief that his conduct is lawful, intended to evade at least said amount of such excess.
 
    (3) Aiding or assisting in the giving of fraudulent returns, reports, statements or other documents. .
 
       (i) Any person who, with the intent that any tax imposed, or any lawful requirement of the Commissioner of Finance be evaded, shall, for a fee or other compensation or as an incident to the performance of other services for which such person receives compensation, aid or assist in, or procure, counsel, or advise the preparation or presentation under, or in connection with any matter arising under the law of any return, report, declaration, statement or other document which is fraudulent or false as to any material matter, or supply any false or fraudulent information, whether or not such falsity or fraud is with the knowledge or consent of the person authorized or required to present such return, report, declaration, statement or other document shall be guilty of a misdemeanor.
 
-      (ii) Any person who, with the intent that any tax imposed be evaded, shall, for a fee or other compensation or as an incident to the performance of other services for which such person receives compensation, aid or assist in, or procure, counsel, or advise the preparation of any return or report, which is filed, and which is fraudulent or false as to any material matter, whether or not such falsity or fraud is with the knowledge or consent of the person authorized or required to present such return, and thereby causes, by means of a common scheme or plan, an under statement of tax liability of one or more persons of more than $1500 in the aggregate, shall be guilty of a class E felony. The term "under statement" shall mean the excess of the amount of the tax required to be shown on the return or report over the amount of the tax imposed which is shown on the return or report.
+      (ii) Any person who, with the intent that any tax imposed be evaded, shall, for a fee or other compensation or as an incident to the performance of other services for which such person receives compensation, aid or assist in, or procure, counsel, or advise the preparation of any return or report, which is filed, and which is fraudulent or false as to any material matter, whether or not such falsity or fraud is with the knowledge or consent of the person authorized or required to present such return, and thereby causes, by means of a common scheme or plan, an under statement of tax liability of one or more persons of more than $1,500 in the aggregate, shall be guilty of a class E felony. The term "under statement" shall mean the excess of the amount of the tax required to be shown on the return or report over the amount of the tax imposed which is shown on the return or report.
 
    (4) Failure to pay tax. . Any person, who, with intent to evade any tax imposed or any requirement of law or any lawful requirement of the Commissioner of Finance, shall fail to pay the tax, shall be guilty of a misdemeanor.
 
@@ -17439,7 +17439,7 @@ P2 55 aggregate employment shares (number in year 5), less 0 shares (number at p
 
 Sum of the limitations for P1 and P2 = 130 Since this sum is greater than the 115 shares determined in the basic computation (Step 1), it does not reduce the number of eligible aggregate employment shares. However, it is used for the apportionment of the eligible aggregate employment shares.
 
-Step (3) – Limitation 3 19 RCNY § 30-01 "Aggregate employment shares" (1)(ii)(c). Limitation 3 equals 2000 shares and is, therefore, not applicable.
+Step (3) – Limitation 3 19 RCNY § 30-01 "Aggregate employment shares" (1)(ii)(c). Limitation 3 equals 2,000 shares and is, therefore, not applicable.
 
 Step (4) – Apportionment The 115 eligible aggregate employment shares are apportioned to the two premises in the same ratio as the maximum number of eligible aggregate employment shares for each premises bears to the sum of the maximum number of such shares for all premises. Thus, the number of shares apportioned to P1 is computed as follows: 75/130 × 115 = 66.35 shares. The number of shares apportioned to P2 is computed as follows: 55/130 × 115 = 48.65 shares.
 

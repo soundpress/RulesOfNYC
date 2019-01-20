@@ -833,7 +833,7 @@ Table 2. Volume of Coarse Lightweight Aggregate per Cubic Yard of Concrete***
 
 
 
-Chapter 6: Cranes
+Chapter 6: Cranes [Repealed]
 --------------------------------------------------
 
 
@@ -846,7 +846,7 @@ Chapter 6: Cranes
 
 
 
-Chapter 8: Demolition
+Chapter 8: Demolition [Repealed]
 --------------------------------------------------
 
 
@@ -859,7 +859,7 @@ Chapter 8: Demolition
 
 
 
-Chapter 9: Rigging Operations
+Chapter 9: Rigging Operations [Repealed]
 --------------------------------------------------
 
 
@@ -1470,7 +1470,7 @@ The communication and alarm system, acceptable to the Commissioner of Buildings,
 
    (3) A combination of small scale, half scale or full size tests representative of the actual fire exposure of the occupancy and engineering evaluations, all acceptable to the commissioner.
 
-(c) When metal decks have been approved for use where a fire resistive floor or roof is required without any fire protection below the metal deck, they shall not be authorized in connection with composite beam design unless the approval specifies that the decks have been tested in accordance with both floor and beam requirements; or, alternatively, fire protection is applied below the metal deck having the same thickness as that applied to the beam, for that width of slab acting as part of the composite beam, except that no such fire protection need be applied below the metal deck when the floor or roof slab and deck have a fire resistive rating at least equal to that of the supporting beams, ef'c of the concrete fill-in is equal to or greater than 3000 p.s.i.
+(c) When metal decks have been approved for use where a fire resistive floor or roof is required without any fire protection below the metal deck, they shall not be authorized in connection with composite beam design unless the approval specifies that the decks have been tested in accordance with both floor and beam requirements; or, alternatively, fire protection is applied below the metal deck having the same thickness as that applied to the beam, for that width of slab acting as part of the composite beam, except that no such fire protection need be applied below the metal deck when the floor or roof slab and deck have a fire resistive rating at least equal to that of the supporting beams, ef'c of the concrete fill-in is equal to or greater than 3,000 p.s.i.
 
 (d) Where the structural design is in accordance with load tests referred to in a board approval, the load carrying capacity can be accepted provided that design criteria for all structural elements are specified in the resolution of the board. Where the approval of the board simply makes general reference to other criteria, the following structural guidelines are to be adhered to, with respect to composite construction:
 
@@ -1968,19 +1968,6 @@ Chapter 16: Inspection of Existing Structures During Construction Operations
 
 
 
-Chapter 18: Resistance To Progressive Collapse Under Extreme Local Loads
---------------------------------------------------
-
-
-
-*§ 18-01 Considerations and Evaluation. [Repealed]* ::
-
-
-
-
-
-
-
 Chapter 17: Testing Laboratories and Testing Services
 --------------------------------------------------
 
@@ -2014,6 +2001,19 @@ Chapter 17: Testing Laboratories and Testing Services
 (l) Accepted laboratories and testing services shall be permitted to advertise the fact of their acceptance by the Department of Buildings of the City of New York for the testing of materials or equipment only in the field or trade for which they have established their competence.
 
 (m) Any violation of these rules or misrepresentation of facts in any required report or misrepresentation in advertising shall constitute cause for revocation or suspension of acceptance by the Commissioner.
+
+
+
+
+Chapter 18: Resistance To Progressive Collapse Under Extreme Local Loads [Repealed]
+--------------------------------------------------
+
+
+
+*§ 18-01 Considerations and Evaluation. [Repealed]* ::
+
+
+
 
 
 
@@ -2300,55 +2300,6 @@ However, if in the opinion of the engineer responsible for Controlled Inspection
 
 
 
-Chapter 22: Pressure Tanks
---------------------------------------------------
-
-
-
-*§ 22-01 Installation and Maintenance of Pressure Tanks Operating at a Pressure in Excess of 15 PSI and Their Proximity to Gas Supply or Service Lines.* ::
-
-
-(a) Applicability. These regulations shall apply to tanks containing water and air in combination, under pressure exceeding 15 psi above atmospheric pressure, where the pressure is supplied and maintained by pumps connected directly to the tanks.
-
-(b) Design. The system shall be designed by a registered Architect or a Licensed Professional Engineer. An application and plans shall be filed and the approval of the department obtained. The plans and application shall contain, but not be limited to:
-
-   (1) Size and location of high pressure tanks.
-
-   (2) The operating pressures and temperatures.
-
-   (3) The location, type and specifications of pressure relief valves.
-
-(c) Location. 
-
-   (1) All high pressure tanks shall be located a clear distance of at least five feet horizontally from a gas service or distribution line or its vertical projection upon the floor.
-
-   (2) All new high pressure tanks installations shall be located in rooms separated from gas service or distribution lines.
-
-   (3) In cases where the spatial relationship between tanks and gas services does not comply with the regulations, it shall be the responsibility of the party responsible for the last installation to correct the violation.
-
-(d) Installation. 
-
-   (1) Installation with the exception of welding, shall be under controlled inspection by the engineer responsible for the design, or by a Professional Engineer acceptable to him.
-
-   (2) The welding shall be under controlled inspection of an Engineer, supervising a welding inspection agency acceptable to the Department of Buildings.
-
-   (3) Welders shall be qualified for all pipe sizes, wall thicknesses and positions in accordance with either the American Petroleum Institute, 1801 K Street, N.W., Washington, D.C. 20006, Standard for Welding Pipelines and Related Facilities, Fourteenth Edition, January 1977, , or the American Society of Mechanical Engineers, Welding and Brazing Qualification, Section VIII, Boiler and Pressure Vessel Code, 1980, , and requalified on an annual basis.
-
-   (4) The qualification testing shall be performed by an agency listed with the Department of Buildings, and the inspector shall have a minimum radiography qualification of Level II in accordance with the American Society for Nondestructive Testing, 3200 Riverside Drive, Columbus, Ohio 43221, Recommended Practice, Document No. SNT-TC-1A-1980.
-
-   (5) Copies of the certified welder qualification reports shall be maintained by the responsible welding agency and shall be made available upon request to the Department of Buildings.
-
-   (6) No reports from any welding inspection agency shall be accepted unless such agency has first requested and obtained approval from this Office, in accordance with Rule 2511(G)(1) of the Board of Standards and Appeals Welding Rules.
-
-   (7) All welded piping shall be butt welded.
-
-   (8) Radiography shall be performed on all butt welds in accordance with API STD 1104-1977 or ANSI/ASTM BPV-IX-1980.
-
-   (9) Testing – A hydrostatic test of the completed installation at 150 percent of the design pressure adjusted to compensate for the difference in gas or fluid pressure and the ambient temperature shall be conducted. Where the changes in an existing system incorporating high pressure tanks involves less than 30 percent of the piping system, the testing may be in accordance with Standard Power Piping, ANSI B31.1-1980.
-
-
-
-
 Chapter 21: Plans
 --------------------------------------------------
 
@@ -2472,6 +2423,55 @@ Chapter 21: Plans
 
 
 
+Chapter 22: Pressure Tanks
+--------------------------------------------------
+
+
+
+*§ 22-01 Installation and Maintenance of Pressure Tanks Operating at a Pressure in Excess of 15 PSI and Their Proximity to Gas Supply or Service Lines.* ::
+
+
+(a) Applicability. These regulations shall apply to tanks containing water and air in combination, under pressure exceeding 15 psi above atmospheric pressure, where the pressure is supplied and maintained by pumps connected directly to the tanks.
+
+(b) Design. The system shall be designed by a registered Architect or a Licensed Professional Engineer. An application and plans shall be filed and the approval of the department obtained. The plans and application shall contain, but not be limited to:
+
+   (1) Size and location of high pressure tanks.
+
+   (2) The operating pressures and temperatures.
+
+   (3) The location, type and specifications of pressure relief valves.
+
+(c) Location. 
+
+   (1) All high pressure tanks shall be located a clear distance of at least five feet horizontally from a gas service or distribution line or its vertical projection upon the floor.
+
+   (2) All new high pressure tanks installations shall be located in rooms separated from gas service or distribution lines.
+
+   (3) In cases where the spatial relationship between tanks and gas services does not comply with the regulations, it shall be the responsibility of the party responsible for the last installation to correct the violation.
+
+(d) Installation. 
+
+   (1) Installation with the exception of welding, shall be under controlled inspection by the engineer responsible for the design, or by a Professional Engineer acceptable to him.
+
+   (2) The welding shall be under controlled inspection of an Engineer, supervising a welding inspection agency acceptable to the Department of Buildings.
+
+   (3) Welders shall be qualified for all pipe sizes, wall thicknesses and positions in accordance with either the American Petroleum Institute, 1801 K Street, N.W., Washington, D.C. 20006, Standard for Welding Pipelines and Related Facilities, Fourteenth Edition, January 1977, , or the American Society of Mechanical Engineers, Welding and Brazing Qualification, Section VIII, Boiler and Pressure Vessel Code, 1980, , and requalified on an annual basis.
+
+   (4) The qualification testing shall be performed by an agency listed with the Department of Buildings, and the inspector shall have a minimum radiography qualification of Level II in accordance with the American Society for Nondestructive Testing, 3200 Riverside Drive, Columbus, Ohio 43221, Recommended Practice, Document No. SNT-TC-1A-1980.
+
+   (5) Copies of the certified welder qualification reports shall be maintained by the responsible welding agency and shall be made available upon request to the Department of Buildings.
+
+   (6) No reports from any welding inspection agency shall be accepted unless such agency has first requested and obtained approval from this Office, in accordance with Rule 2511(G)(1) of the Board of Standards and Appeals Welding Rules.
+
+   (7) All welded piping shall be butt welded.
+
+   (8) Radiography shall be performed on all butt welds in accordance with API STD 1104-1977 or ANSI/ASTM BPV-IX-1980.
+
+   (9) Testing – A hydrostatic test of the completed installation at 150 percent of the design pressure adjusted to compensate for the difference in gas or fluid pressure and the ambient temperature shall be conducted. Where the changes in an existing system incorporating high pressure tanks involves less than 30 percent of the piping system, the testing may be in accordance with Standard Power Piping, ANSI B31.1-1980.
+
+
+
+
 Chapter 23: Noncommercial Greenhouses
 --------------------------------------------------
 
@@ -2566,7 +2566,7 @@ Chapter 24: Refuse Chutes and Refuse Rooms
 
 
 
-Chapter 25: Climber and Tower Crane Riggers
+Chapter 25: Climber and Tower Crane Riggers [Repealed]
 --------------------------------------------------
 
 
@@ -2716,7 +2716,7 @@ Chapter 27: Signs
 
 
 
-Chapter 28: Smoke Detecting Devices and Systems and Carbon Monoxide Detecting Devices and Systems
+Chapter 28: Smoke Detecting Devices and Systems and Carbon Monoxide Detecting Devices and Systems [Repealed]
 --------------------------------------------------
 
 
@@ -2753,7 +2753,7 @@ Chapter 29: Sprinkler Systems
 
 (c) Water supply from public water mains will be acceptable when such supply will provide a minimum static pressure at the highest sprinkler head or heads of not less than 15 pounds per square inch. Taps connecting to public water mains must be equal in size to the main pipe line, except that: A two-inch (2") tap connecting to the public water main and immediately increased to two-and-one-half inches (2 1/2") direct connection to the public water main and, A one-and-one-half inch (1 1/2") tap connecting to the public water main and immediately increased to two inches (2") in diameter, with piping of the same diameter extending into the building, shall be considered the same as a two-inch (2") direct connection to the public water main. The sprinkler system of each building shall have a separate and independent source of supply. When a sprinkler system is supplied direct from a public water main, it shall be separately and independently connected to the public water main. However, a house service water supply connection may be taken from the sprinkler water supply connection to the public main, on the house side of the main shut-off valve for the building, provided the diameter of the house service water supply connection does not exceed one-half of the diameter of the sprinkler water supply connection. Only one connection of the domestic water supply to the sprinkler water supply line shall be permitted and no shut-off valve shall be placed on the sprinkler supply line other than the main shut-off valve for the building on the street side of the house service water supply connection.
 
-(d) A gravity tank upon the roof will be required when the normal minimum water pressure from the public mains is insufficient, or, in lieu of a gravity tank, a pressure tank may be installed in the basement or cellar in accordance with the requirements hereafter specified in these rules. The bottom of each gravity tank supplying the sprinkler system shall be elevated at least 20 feet above the roof. Each gravity tank shall be filled through a fixed water supply tank of at least one-and-one-half inch (1 1/2") diameter and independent of the sprinkler pipe system, by means of an automatically controlled pump of a discharge capacity of at least 65 gallons per minute against the total head, including friction at the discharge nozzle of the pump. The tank fill line shall be standard weight pipe, galvanized steel, or brass or copper pipe. A gravity tank, if used exclusively to supply the sprinkler system, shall have an effective capacity of not less than 1500 gallons. Gravity tanks which serve both the house supply and the sprinkler system shall have a capacity of not less than 2500 gallons. All exposed water supply piping connecting with roof gravity tanks shall be properly protected against frost action by four layers of one inch (1") high-grade hair felt, and each layer of hair felt shall be covered with a layer of heavy tar paper. Each wrapping must be securely fastened with heavy twine, and wrapping joints shall have a lap of not less than two inches (2"), staggered with the laps of adjacent layers. All coverings shall be finally covered with heavy canvas, and painted with two coats of water-proof paint. In lieu of the foregoing, three inch thick fiberglass in a metal shield may be used.
+(d) A gravity tank upon the roof will be required when the normal minimum water pressure from the public mains is insufficient, or, in lieu of a gravity tank, a pressure tank may be installed in the basement or cellar in accordance with the requirements hereafter specified in these rules. The bottom of each gravity tank supplying the sprinkler system shall be elevated at least 20 feet above the roof. Each gravity tank shall be filled through a fixed water supply tank of at least one-and-one-half inch (1 1/2") diameter and independent of the sprinkler pipe system, by means of an automatically controlled pump of a discharge capacity of at least 65 gallons per minute against the total head, including friction at the discharge nozzle of the pump. The tank fill line shall be standard weight pipe, galvanized steel, or brass or copper pipe. A gravity tank, if used exclusively to supply the sprinkler system, shall have an effective capacity of not less than 1,500 gallons. Gravity tanks which serve both the house supply and the sprinkler system shall have a capacity of not less than 2,500 gallons. All exposed water supply piping connecting with roof gravity tanks shall be properly protected against frost action by four layers of one inch (1") high-grade hair felt, and each layer of hair felt shall be covered with a layer of heavy tar paper. Each wrapping must be securely fastened with heavy twine, and wrapping joints shall have a lap of not less than two inches (2"), staggered with the laps of adjacent layers. All coverings shall be finally covered with heavy canvas, and painted with two coats of water-proof paint. In lieu of the foregoing, three inch thick fiberglass in a metal shield may be used.
 
 (e) Pressure tanks when used shall be capable of supplying actual water volume as required in subdivision (j) of this section of these rules. The required water volume shall be two-thirds of the tank capacity and that air pressure one-third. For the pressure to be maintained, pressure tanks shall be constructed and tested in accordance with the requirements of the ANSI/NFiPA 22 of Reference Standard RS 17-10 of the Administrative (Building) Code. At the end of each pressure tank there shall be a glass water level gauge, and the pressure tank must also be provided with a pressure gauge and manhole for access to the tank. The filing pump for the pressure tank shall have a capacity of 65 gallons per minute with sufficient strength to pump water into the pressure tank against full air pressure. The air compressor for the pressure tank must be capable of delivering ten cubic feet of air per minute for the permanent maintenance of the required maximum air pressure in the tank. The filling pipe from pump to air compressor must be provided with a relief valve set at 15 pounds in excess of the maximum air pressure carried in the tank.
 
@@ -2833,7 +2833,7 @@ Effective February 25, 1949, automatic wet-pipe sprinklers used in certain Class
 
    (5) The size of the domestic water supply line is at least equal to the size of the main sprinkler connection. Note: The provisions of Paragraph c of § 27-964 shall not apply to sprinklers installed in conformity with the provisions of 1 RCNY § 29-02(a).
 
-(b) The capacity of gravity tanks for sprinklers shall be in conformity with the provisions of § 27-965 or such tank may be supplied by an automatic filing pump of at least 65 gallons per minute capacity, which shall be sufficient to supply 25 percent of the sprinkler heads in the largest sprinkler area for 20 minutes. The capacity of such tank shall be not less than 1000 gallons. The bottom of the gravity tank or sprinkler supply pipe shall be not less than 20 feet above the highest supplied sprinkler line. When such elevation is not practicable, an automatic booster pump may be installed in the main sprinkler supply line in conformity with 1 RCNY § 29-02(a)(2).
+(b) The capacity of gravity tanks for sprinklers shall be in conformity with the provisions of § 27-965 or such tank may be supplied by an automatic filing pump of at least 65 gallons per minute capacity, which shall be sufficient to supply 25 percent of the sprinkler heads in the largest sprinkler area for 20 minutes. The capacity of such tank shall be not less than 1,000 gallons. The bottom of the gravity tank or sprinkler supply pipe shall be not less than 20 feet above the highest supplied sprinkler line. When such elevation is not practicable, an automatic booster pump may be installed in the main sprinkler supply line in conformity with 1 RCNY § 29-02(a)(2).
 
 (c) In lieu of complying with the provisions of § 27-965, a pressure tank located not more than one story below the highest supplied sprinkler line, filled by an automatic pump, and with a supply of water, all as described in 1 RCNY § 29-02(b) may be installed. In addition, a high-and-low air alarm shall be provided.
 
@@ -2895,9 +2895,9 @@ Effective February 25, 1949, automatic wet-pipe sprinklers used in certain Class
 
    (2) Acceptable automatic sources of water supply shall be any one of the following:
 
-      (i) Elevated gravity tank having a minimum capacity of 5000 gallons and installed in accordance with § 27-965 of the Administrative (Building) Code. Effective capacity shall be determined by the largest number of heads in any floor area multiplied by 75 gallons, and shall never be less than 5000 gallons.
+      (i) Elevated gravity tank having a minimum capacity of 5,000 gallons and installed in accordance with § 27-965 of the Administrative (Building) Code. Effective capacity shall be determined by the largest number of heads in any floor area multiplied by 75 gallons, and shall never be less than 5,000 gallons.
 
-      (ii) Pressure tank having a minimum capacity of 2500 gallons and installed in accordance with § 27-965 of the Administrative (Building) Code. Effective water capacity shall be determined by the largest number of heads in any floor area multiplied by 37.5 gallons, and shall never be less than 2500 gallons.
+      (ii) Pressure tank having a minimum capacity of 2,500 gallons and installed in accordance with § 27-965 of the Administrative (Building) Code. Effective water capacity shall be determined by the largest number of heads in any floor area multiplied by 37.5 gallons, and shall never be less than 2,500 gallons.
 
       (iii) Automatic fire pump having a capacity of not less than 250 gallons per minute and installed in accordance with § 27-964 of the Administrative (Building) Code.
 
@@ -2969,7 +2969,7 @@ Branch lines should not exceed eight sprinkler heads on either side of a cross m
 
    (7) A separate riser shall be provided in each required stair enclosure, separately controlled.
 
-(c) The capacity of gravity tanks for sprinklers shall be in conformity with the provisions of § 27-965, or such tank may be supplied by an automatic filling pump capable of delivering at least 65 gallons per minute to the tank and shall have sufficient capacity to supply 25 percent of the sprinkler heads in the largest sprinkler area for 20 minutes, at 20 gallons per minute. The capacity of such tank shall not be less than 1500 gallons. The bottom of the gravity tank, or the sprinkler supply pipe shall not be less than 20 feet above the highest supplied sprinkler line. When such elevation is not practicable, an automatic booster pump may be installed in the main sprinkler supply line in conformity with 1 RCNY § 29-05(b)(2).
+(c) The capacity of gravity tanks for sprinklers shall be in conformity with the provisions of § 27-965, or such tank may be supplied by an automatic filling pump capable of delivering at least 65 gallons per minute to the tank and shall have sufficient capacity to supply 25 percent of the sprinkler heads in the largest sprinkler area for 20 minutes, at 20 gallons per minute. The capacity of such tank shall not be less than 1,500 gallons. The bottom of the gravity tank, or the sprinkler supply pipe shall not be less than 20 feet above the highest supplied sprinkler line. When such elevation is not practicable, an automatic booster pump may be installed in the main sprinkler supply line in conformity with 1 RCNY § 29-05(b)(2).
 
 (d) In lieu of complying with provisions of § 27-965, a pressure tank located not more than one story below the highest supplied sprinkler line, filled by an automatic pump, and with a supply of water, all as described in 1 RCNY § 29-05(c) may be installed. In addition, a high-and-low air-alarm shall be provided.
 
@@ -3019,7 +3019,7 @@ Branch lines should not exceed eight sprinkler heads on either side of a cross m
 
    (7) A variation of not more than two pounds per square inch, in the minimum pressure, in the street supply below the required pressure for the sprinkler system without the introduction of a booster pump or increased size in piping may be accepted by the Superintendent if in his opinion the supply is adequate. There shall be sufficient actual water volume to supply 25 percent of the heads for a period of 20 minutes at 20 gallons per minute.
 
-(e) Roof tanks. Except as otherwise specifically provided in 1 RCNY § 29-06(d), a gravity tank upon the roof will be required when the normal minimum water pressure from the public water main is insufficient. The bottom of each gravity tank supplying a sprinkler system shall be elevated at least 20 feet above the roof. Each gravity tank shall be filled through a fixed water supply pipe of at least one and one-half inch diameter and independent of the sprinkler pipe system, by means of an automatically controlled pump of a capacity at the discharge nozzle of the pump of at least 65 gallons per minute against the total head, including friction. The tank fill line shall be standard weight pipe, galvanized steel, brass or copper pipe. The pump shall be equipped with control apparatus which will automatically start operation when the effective capacity of the tank falls below the minimum reserve supply for the sprinkler system. A gravity tank, if used exclusively to supply the sprinkler system, shall have an effective capacity of not less than fifteen hundred (1500) gallons. Gravity tanks which serve both the house supply and the sprinkler system shall have an effective capacity of not less than twenty-five hundred (2500) gallons with a minimum of fifteen hundred (1500) gallons reserved for the sprinkler system. All exposed water supply piping connecting with roof gravity tanks shall be properly protected against freezing by four layers of one inch high-grade hair felt, and each layer of hair felt shall be covered with a layer of heavy tar paper. Each wrapping shall be securely fastened with heavy twine, and wrapping joints shall have a lap of not less than two inches staggered into the laps of the adjacent layers. All coverings shall be finally covered with heavy canvas sewed at seams and painted with two coats of waterproof paint. In lieu of the foregoing, three inch thick fiberglass in a metal shield may be used. Exposed gravity tanks on the roof shall be protected against freezing by means of an approved enclosure, insulation, heating coil or other means acceptable to the Super- intendent. Gravity tanks shall be supported in accordance with the provisions of § P107.8 of Reference Standard RS-16 of the Administrative (Building) Code. Gravity tanks shall be provided with emergency outlets in conformity with § P107.8 of Reference Standard RS-16 of the Administrative (Building) Code.
+(e) Roof tanks. Except as otherwise specifically provided in 1 RCNY § 29-06(d), a gravity tank upon the roof will be required when the normal minimum water pressure from the public water main is insufficient. The bottom of each gravity tank supplying a sprinkler system shall be elevated at least 20 feet above the roof. Each gravity tank shall be filled through a fixed water supply pipe of at least one and one-half inch diameter and independent of the sprinkler pipe system, by means of an automatically controlled pump of a capacity at the discharge nozzle of the pump of at least 65 gallons per minute against the total head, including friction. The tank fill line shall be standard weight pipe, galvanized steel, brass or copper pipe. The pump shall be equipped with control apparatus which will automatically start operation when the effective capacity of the tank falls below the minimum reserve supply for the sprinkler system. A gravity tank, if used exclusively to supply the sprinkler system, shall have an effective capacity of not less than fifteen hundred (1,500) gallons. Gravity tanks which serve both the house supply and the sprinkler system shall have an effective capacity of not less than twenty-five hundred (2,500) gallons with a minimum of fifteen hundred (1,500) gallons reserved for the sprinkler system. All exposed water supply piping connecting with roof gravity tanks shall be properly protected against freezing by four layers of one inch high-grade hair felt, and each layer of hair felt shall be covered with a layer of heavy tar paper. Each wrapping shall be securely fastened with heavy twine, and wrapping joints shall have a lap of not less than two inches staggered into the laps of the adjacent layers. All coverings shall be finally covered with heavy canvas sewed at seams and painted with two coats of waterproof paint. In lieu of the foregoing, three inch thick fiberglass in a metal shield may be used. Exposed gravity tanks on the roof shall be protected against freezing by means of an approved enclosure, insulation, heating coil or other means acceptable to the Super- intendent. Gravity tanks shall be supported in accordance with the provisions of § P107.8 of Reference Standard RS-16 of the Administrative (Building) Code. Gravity tanks shall be provided with emergency outlets in conformity with § P107.8 of Reference Standard RS-16 of the Administrative (Building) Code.
 
 (f) Pressure tanks. Except as otherwise specifically provided in 1 RCNY §§ 29-06(d) and (e), a pressure tank will be required when the normal minimum water pressure from the public main is insufficient. Such pressure tank may be installed in the basement or cellar. Pressure tanks when used shall be capable of supplying actual water volume as required in 1 RCNY § 29-06(d) at a pressure of not less than 15 pounds per square inch. Pressure tanks shall be constructed and tested in accordance with the requirements of ANSI/NFiPA 22 of Reference Standard RS 17-10 of the Administrative (Building) Code. Pressure tanks shall be at least two-thirds filled with water and an air pressure by gauge shall be maintained in the tank of not less than 75 pounds plus the pressure caused by the column of water in the sprinkler system above the bottom of the tank. At the end of each pressure tank there shall be a glass water-level gauge, and the pressure tank shall also be provided with a pressure gauge and a manhole for access to the interior of the tank. The filling pump for the pressure tank shall have a capacity of not less than 65 gallons per minute against the total head including friction and air pressure of the tank. The compressor shall be powered by an electric motor which shall be equipped with control apparatus, which will automatically start the motor when the pressure in the tank drops to 75 pounds per square inch and will cut out the motor when the pressure in the tank reaches the total required pressure. The air compressor shall be capable of delivering not less than 10 cubic feet of air per minute. The filling pipe from the pump or air compressor shall be provided with a relief valve set to open at 15 pounds in excess of the maximum air pressure required in the tank.
 
@@ -3538,17 +3538,17 @@ b. Electrical advisory board review shall be required in the following circumsta
 
    (1) Electrical installations.
 
-      (a) Electrical advisory board review shall be required where service equipment totals 1000 Kilo-Volt Amperes ("KVA") or greater, or where any new alteration or addition to an electric service installation causes the altered installation to total 1000 KVA or greater, as further detailed below:
+      (a) Electrical advisory board review shall be required where service equipment totals 1,000 Kilo-Volt Amperes ("KVA") or greater, or where any new alteration or addition to an electric service installation causes the altered installation to total 1,000 KVA or greater, as further detailed below:
 
-         (A) A new installation of equipment totaling 1000 KVA or higher;
+         (A) A new installation of equipment totaling 1,000 KVA or higher;
 
-         (B) Any change in an installation with a rating of 1000 KVA or higher, up to and including the second level overcurrent protection, unless it was fully described and approved as "future" on the original approved plan.
+         (B) Any change in an installation with a rating of 1,000 KVA or higher, up to and including the second level overcurrent protection, unless it was fully described and approved as "future" on the original approved plan.
 
-         (C) Any addition to an existing installation which would bring the total to 1000 KVA or higher.
+         (C) Any addition to an existing installation which would bring the total to 1,000 KVA or higher.
 
          (D) A new installation or revised installation above 600 volts, irrespective of KVA rating.
 
-         (E) The addition of any equipment in a room, which would affect clearances around the equipment of a 1000 KVA installation.
+         (E) The addition of any equipment in a room, which would affect clearances around the equipment of a 1,000 KVA installation.
 
       (b) Electrical advisory board review shall be required where proposed electrical installations involve appliances and materials not covered by the Electrical Code Technical Standards.
 
@@ -3556,7 +3556,7 @@ b. Electrical advisory board review shall be required in the following circumsta
 
 c. Filing requirements for electrical advisory board review.
 
-   (1) Filing requirements for Electrical Installations 1000 KVA or Greater, or New or Revised Installations above 600 Volts:
+   (1) Filing requirements for Electrical Installations 1,000 KVA or Greater, or New or Revised Installations above 600 Volts:
 
       (a) A cover letter, payment as specified in (d) below, and 2 sets of complete drawings shall be filed at:
 
@@ -3568,7 +3568,7 @@ c. Filing requirements for electrical advisory board review.
 
       (d) Payment shall be made by a money order or corporate/business check, a bank check or a certified check, and shall be made payable to "Department of Buildings."
 
-      (e) Requirements for plans and drawings. All submissions for electrical advisory board review for service equipment totaling 1000 KVA or more or above 600 Volts shall include the following plans/drawings:
+      (e) Requirements for plans and drawings. All submissions for electrical advisory board review for service equipment totaling 1,000 KVA or more or above 600 Volts shall include the following plans/drawings:
 
             -  One line diagram
 
@@ -3600,7 +3600,7 @@ c. Filing requirements for electrical advisory board review.
 
          (L) The drawing shall show grouping of service equipment at the point of service entrance.
 
-         (M) The drawing shall show ventilation of the room when the service equipment totals 2000 KVA or larger (this may be in the form of a note on the drawing).
+         (M) The drawing shall show ventilation of the room when the service equipment totals 2,000 KVA or larger (this may be in the form of a note on the drawing).
 
          (N) The drawing shall show the available short circuit current at the point of service entrance and at the point of change in the interrupting rating of the overcurrent protection. Where used, series ratings shall be indicated.
 
@@ -3616,7 +3616,7 @@ c. Filing requirements for electrical advisory board review.
 
          (T) The physical size of the vertical bus in the distribution panels (second level equipment) shall be shown. The overcurrent devices, bus, barriers, and gutter space layout shall be shown. Layouts of previously approved panels (to be so noted on plans) need not be submitted.
 
-         (U) When a generator (or other non-utility source) is part of a 1000 KVA submission and the generator itself is rated below 1000 KVA, a one line diagram shall be submitted showing how the generator is connected to the normal service. The drawings shall include the grounding of the generator frame and neutral bonding if needed (four pole transfer device). If the generator is rated 1000 KVA or larger, a room layout shall be submitted along with a one line diagram, and physical drawings shall show a section view of the emergency switchboard. Also, the Advisory Board calendar number for the normal service shall be specified.
+         (U) When a generator (or other non-utility source) is part of a 1,000 KVA submission and the generator itself is rated below 1,000 KVA, a one line diagram shall be submitted showing how the generator is connected to the normal service. The drawings shall include the grounding of the generator frame and neutral bonding if needed (four pole transfer device). If the generator is rated 1,000 KVA or larger, a room layout shall be submitted along with a one line diagram, and physical drawings shall show a section view of the emergency switchboard. Also, the Advisory Board calendar number for the normal service shall be specified.
 
          (V) Physical detail drawings for switchboard equipment shall show front and section views and shall be drawn by the switchboard manufacturer. Elevation detail shall show access to the bus connections, the size and location of the main bonding jumper (ground strap), the disconnect link in the neutral, all the barriers and how load cables leave the cabinet. Side section views shall clarify bus details.
 
@@ -3782,7 +3782,7 @@ Chapter 36: Electrical Contractors
 
 (a) Applicability. Pursuant to New York City Administrative Code § 27-3010, any applicant for a master or special electrician's license shall have had, immediately preceding his or her application, at least seven and one-half (71/2) years of experience in the installation, alteration and repair of wiring and appliances for electric light, heat and power in or on buildings. In evaluating this experience, the Department recognizes that periods of unemployment may make continuous employment for the seven and one-half (71/2) years preceding his or her application impossible. Thus, in evaluating whether a master or special electrician's license applicant has sufficient work experience, the Department may exclude periods of unemployment when considering whether work experience immediately preceded the application date, as set forth in this rule.
 
-(b) In accordance with the above, the Commissioner may grant a master or special electrician's license application where the applicant's work experience has occurred within the ten years immediately preceding the application date, if: (i) the applicant has had at least seven and one-half years of such experience, and during such time, a minimum of seventy-five hundred (7500) hours or the equivalent experience in the legal installation, alteration and repair of wiring and appliances for electric light, heat and power in or on buildings in such ten years immediately preceding the application date; and (ii) during the two calendar years immediately preceding the application date, the applicant has been employed in the legal installation, alteration and repair of wiring and appliances for electric light, heat and power in or on buildings for at least a total of twelve months.
+(b) In accordance with the above, the Commissioner may grant a master or special electrician's license application where the applicant's work experience has occurred within the ten years immediately preceding the application date, if: (i) the applicant has had at least seven and one-half years of such experience, and during such time, a minimum of seventy-five hundred (7,500) hours or the equivalent experience in the legal installation, alteration and repair of wiring and appliances for electric light, heat and power in or on buildings in such ten years immediately preceding the application date; and (ii) during the two calendar years immediately preceding the application date, the applicant has been employed in the legal installation, alteration and repair of wiring and appliances for electric light, heat and power in or on buildings for at least a total of twelve months.
 
 (c) Subdivision (b) shall not apply to electrician's license applicants whose work experience includes electrical work that was not supervised by a licensed electrician, or that was otherwise illegal.
 
@@ -3791,7 +3791,7 @@ Chapter 36: Electrical Contractors
 
 
 
-Chapter 37: Reference Standards
+Chapter 37: Reference Standards [Repealed]
 --------------------------------------------------
 
 
@@ -3821,7 +3821,7 @@ Chapter 38: Ventilation
 
 
 
-Chapter 39: Cooling Towers and Evaporative Condensers
+Chapter 39: Cooling Towers and Evaporative Condensers [Repealed]
 --------------------------------------------------
 
 
@@ -4435,139 +4435,6 @@ Chapter 48: Construction Superintendents [Repealed]
 
 
 
-Chapter 50: Distributed Energy Resource Standards
---------------------------------------------------
-
-
-
-*§ 50-01 Requirements for the Installation of High-Pressure Natural Gas-Fired Microturbine Systems.* ::
-
-
-(a) General requirements. All microturbine systems shall comply with the following general requirements:
-
-   (1) Description.
-
-      (i) The Microturbine System shall include one or more combustion-based turbine-driven electrical generators with 500 kW or less capacity, natural gas compressing equipment, heat recovery devices, electrical power distribution devices, gas vents or chimneys and associated appurtenances.
-
-      (ii) Microturbine systems shall utilize natural gas at an inlet pressure to the system of not greater than 3 psig, and shall boost the gas pressure to an inlet pressure to the combustion device of greater than 15 psig within the unit or room enclosure.
-
-      (iii) The total nominal electrical capacity at standardized operating conditions of all microturbine systems located within a single building shall not exceed 2,000 kW.
-
-   (2) Listing or MEA approval. For microturbines with external compressors, the compressor shall be MEA-approved and all components of the compressor and the microturbine shall be listed by a nationally recognized testing laboratory approved by the Commissioner. For microturbines with the compressor integrated with other elements into the unit, the integrated unit as well as each of its components shall be listed by a nationally recognized testing laboratory approved by the Commissioner.
-
-   (3) Utility ruling. The applicant shall consult the appropriate utility company regarding the characteristics of existing gas and electrical service to the site before installing the microturbine system. The applicant shall provide to the Department prior to plan approval either documentation from the utility company confirming that the electrical interconnection requirements have been preliminarily satisfied or an affidavit from the owner that there will be no interconnection with the electrical grid.
-
-   (4) Filing and permit. Plans for the complete microturbine system installation shall be approved by the New York City Department of Buildings and a work permit shall be obtained. A set of the approved plans shall be provided to the Fire Department.
-
-   (5) Installation.
-
-      (i) Regulation. Installation of microturbine systems shall be in accordance with all applicable requirements of the New York City Building Code, the New York City Electrical Code, and Reference Standards. NFPA 37 shall also apply, except where the Codes or these Rules are more restrictive. Such regulations include, but are not limited to the following: fuel gas piping, egress, fire protection, fire detection, electrical power, ventilation, and gas vent or chimney.
-
-      (ii) External compressor. For microturbines with an external compressor, the following requirements shall be satisfied:
-
-         A. Gas connections between the compressor and the turbine shall be solid-welded; no threaded joints shall be permitted.
-
-         B. A flame arrestor shall be installed upstream of the gas compressor to prevent flame propagating to the natural gas fuel distribution lines.
-
-         C. The length of gas piping connecting the gas compressor with the combustion device, both of which shall be in the same room, shall not exceed 12 feet.
-
-      (iii) Annunciation. All annunciations shall be provided locally and remotely to indicate any abnormal conditions in the system. The remote panel shall be located in a continuously supervised area on the premises.
-
-      (iv) Automatic gas shut-off. Gas supply to the microturbine shall be provided with an automatic shut-off valve that is activated by a malfunction alarm from any component of the microturbine system.
-
-      (v) Remotely and manually controlled emergency gas shut-off. A normally closed solenoid gas shut-off valve shall be located immediately after the branch connection providing dedicated service to the microturbine installation. The valve shall be manually controlled at the valve and remotely controlled both outside the door(s) to the microturbine room and at a supervised location. The gas shut-off valve and the controls shall each be clearly identified with signage indicating "emergency gas shut-off to microturbine."
-
-      (vi) Fuel shut-off valve diagram. A diagram shall be conspicuously posted on any door or gate leading to a microturbine indicating the locations of all manual and automatic fuel shut-off valves.
-
-      (vii) Security. The microturbine shall be provided with adequate protection from theft, tampering and unauthorized use. Access to microturbine systems shall be restricted by locked doors but shall be readily accessible for maintenance, repair and Fire Department access. Microturbines shall be adequately protected from vehicle impact.
-
-      (viii) Manufacturer's requirements. All manufacturer's requirements and recommendations shall be satisfied.
-
-      (ix) Signage. Signage clearly stating "HIGH PRESSURE GAS" shall be posted on or in front of the microturbine or microturbine system, and on the outside of all doors accessing any microturbine room.
-
-      (x) Existing buildings. For installation of microturbines in existing buildings, a structural evaluation of the method of support of the microturbine system shall be performed by a licensed engineer. Vibration isolation shall be provided for the microturbine system as required to mitigate vibration impact on the building structure.
-
-   (6) Inspection. Gas piping serving the microturbine shall be inspected by the Department. No self-certification of inspection shall be permitted. The inspection shall include a pipe integrity pressure test of all distribution piping. Installation and assembly of all system components shall be subject to a controlled inspection, in accordance with Section 27-132 of the New York City Building Code. Gas will be turned on only after successful completion of all testing.
-
-   (7) Fire Department permit. A Fire Department permit is required to operate the equipment.
-
-   (8) Fire Department Certificate of Fitness. A certificate of fitness ("C of F") holder, as authorized by the Fire Department, shall be required on the premises during regular business hours. The C of F holder shall be trained by the manufacturer or his authorized agent to shut down the equipment in an emergency.
-
-   (9) Service contract. The owner shall obtain a service contract from the microturbine manufacturer or a service company qualified by the manufacturer upon approval of the microturbine installation, and shall maintain it during the life of the installation.
-
-(b) Permitted locations.
-
-   (1) Outdoors at grade, on a roof or on a roof setback, within an integral weatherproof or lightweight enclosure acceptable to the manufacturer, subject to the following:
-
-      (i) Clearances. All components of the microturbine system shall be located a minimum of 4 feet from a wall or parapet, 8 feet from any building opening, including any door, operable window or intake opening and 5 feet from any exhaust termination or chimney. All microturbine systems located at grade shall satisfy the following clearances:
-
-         A. 50 feet from any subway entrance, exit, vent or other opening;
-
-         B. 20 feet from any above-ground flammable or combustible liquid storage tank;
-
-         C. 10 feet from any lot line, except 4 feet from any lot line in and adjacent to a manufacturing district;
-
-         D. 5 feet from any vent or fill line of any flammable or combustible liquid storage tank;
-
-         E. 5 feet from any parked motor vehicle.
-
-      (ii) Enclosure. All microturbine system components shall be contained within integral weather-proof enclosures pursuant to the listing of the device. The unit enclosure or the lightweight constructed enclosure shall be provided with a gas detection system with an alarm that annunciates in a supervised location. Equipment not directly associated with the microturbine system shall not be permitted in the same enclosure.
-
-   (2) Within a dedicated Mechanical Equipment Penthouse classified as Occupancy Group D-2, and subject to the following:
-
-      (i) Enclosure. The mechanical equipment penthouse shall be enclosed within 2-hour fire-resistance rated walls.
-
-      (ii) Fire suppression. The equipment room shall be fully sprinklered or provided with an equivalent fire suppression system acceptable to the Commissioner.
-
-      (iii) Mechanical ventilation. Mechanical ventilation shall be provided for the mechanical equipment penthouse at a rate sufficient to dissipate sensible heat released from the microturbine system in accordance with the manufacturer's recommendations, at a rate adequate to dilute the microturbine system rated flow rate of fuel gas below 25 percent of the lower flammability limit (LFL) of the fuel gas, or at an exhaust and make-up air rate of 80 times the maximum leakage rate of natural gas from the high-pressure system within the room at standard temperature and pressure based on the rated capacity of the gas compressor, whichever is greater. The ventilation rate shall not be less than required to maintain the ambient room temperature within the manufacturer's recommendations but shall not exceed 104 degrees Fahrenheit. Proper distribution of exhaust and make-up air must be provided to prevent pockets of increased gas concentration, including exhaust points high in the room to address the lighter-than-air properties of natural gas. Mechanical ventilation shall operate continuously.
-
-      (iv) Gas detection and alarm. The mechanical equipment penthouse shall be provided with a gas detection system with an alarm that annunciates in a supervised location. The gas detection system shall also trip the microturbine.
-
-      (v) Lighting. The mechanical equipment penthouse shall be provided with adequate lighting in accordance with the New York City Building Code.
-
-      (vi) Other equipment. Equipment not directly associated with the microturbine system, including but not limited to gas meters, shall not be permitted within the mechanical equipment penthouse.
-
-      (vii) Storage. No combustible materials shall be stored in the mechanical equipment penthouse.
-
-   (3) Within a dedicated room in a building, subject to the following:
-
-      (i) Capacity. The total installed rated capacity of the microturbine system in the room shall not exceed 1,000 kW.
-
-      (ii) Enclosure. The microturbine room shall be enclosed within 2-hour fire-resistance rated walls.
-
-      (iii) Fire suppression. The equipment room shall be fully sprinklered or provided with an equivalent fire suppression system acceptable to the Commissioner.
-
-      (iv) Mechanical ventilation. Mechanical ventilation shall be provided for the microturbine room at a rate sufficient to dissipate sensible heat released from the microturbine system in accordance with the manufacturer's recommendations, at a rate adequate to dilute the microturbine system rated flow rate of fuel gas below 25 percent of the lower flammability limit (LFL) of the fuel gas, or at an exhaust and make-up air rate of 80 times the maximum leakage rate of natural gas from the high-pressure system within the room at standard temperature and pressure based on the rated capacity of the gas compressor, whichever is greater. The ventilation rate shall not be less than required to maintain the ambient room temperature within manufacturer's recommendations but not to exceed 104 degrees Fahrenheit. Proper distribution of exhaust and make-up air must be provided to prevent pockets of increased gas concentration, including exhaust points high in the room, to address the lighter-than-air properties of natural gas. Mechanical ventilation shall operate continuously.
-
-      (v) Gas detection and alarm. The microturbine room shall be provided with a gas detection system with an alarm that annunciates in a supervised location. The gas detection system shall also trip the microturbine.
-
-      (vi) Lighting. The microturbine room shall be provided with adequate lighting in accordance with the New York City Building Code.
-
-      (vii) Other equipment. Equipment not directly associated with the microturbine system, including but not limited to gas meters, shall not be permitted within the microturbine room.
-
-      (viii) Storage. No combustible materials shall be stored in the microturbine room.
-
-   (4) Within a boiler or other mechanical equipment room of a building, subject to the following:
-
-      (i) Capacity. The total installed rated capacity of the microturbine system in this room shall not exceed 500 kW.
-
-      (ii) Enclosure. The mechanical equipment room shall be enclosed within 2-hour fire-resistance rated walls.
-
-      (iii) Fire suppression. The mechanical equipment room shall be fully sprinklered or provided with an equivalent fire suppression system acceptable to the Commissioner.
-
-      (iv) Mechanical ventilation. Mechanical ventilation shall be provided for the mechanical equipment room at the rate sufficient to dissipate sensible heat released from all gas-burning equipment located within the mechanical equipment room in accordance with the microturbine manufacturer's recommendations, at a rate adequate to dilute the microturbine system rated flow rate of fuel gas below 25 percent of the lower flammability limit (LFL) of the fuel gas, or at an exhaust and make-up air rate of 80 times the maximum leakage rate of natural gas from the high-pressure system within the room at standard temperature and pressure based on the rated capacity of the gas compressor, whichever is greater. The ventilation rate shall not be less than required to maintain the ambient room temperature within the manufacturer's recommendations but shall not exceed 104 degrees Fahrenheit. Proper distribution of exhaust and make-up air must be provided to prevent pockets of increased gas concentration, including exhaust points high in the room, to address the lighter-than-air properties of natural gas. Mechanical ventilation shall operate continuously.
-
-      (v) Gas detection and alarm. The mechanical equipment room shall be provided with a gas detection system with an alarm that annunciates in a supervised location. The gas detection system shall also trip the microturbine.
-
-      (vi) Lighting. The mechanical equipment room shall be provided with adequate lighting in accordance with the New York City Building Code.
-
-      (vii) Gas meters shall not be permitted within the mechanical equipment room.
-
-      (viii) Storage. No combustible materials, including fuels, shall be stored in the mechanical equipment room.
-
-
-
-
 Chapter 49: Outdoor Signs
 --------------------------------------------------
 
@@ -4724,7 +4591,7 @@ If any clause, sentence, paragraph, section or part of this rule or the applicat
 
 (a) The term of the registration shall be for two years commencing on the date of issuance of an OAC registration number. The fee for the initial registration shall be $1,500 per applicant, plus $125 for each: sign; sign structure vacant of signage; and tax lot vacant of both signage and sign structures, listed in the sign inventory. The biennial registration renewal fee shall be $750 per applicant, plus $50 for each: sign; sign structure vacant of signage; and tax lot vacant of both signage and sign structures, listed in the sign inventory. The fee per material change shall be $25.
 
-(b) A registration renewal application shall be filed no sooner than 90 or later than 60 days prior to the expiration date of the current term of the registration. Notwithstanding the renewal fee set forth in subdivision (a), where a registration renewal application is submitted later than 60 days before the expiration of the current term of the registration, the renewal fee shall be $1500 per applicant OAC, plus $125 for each: sign; sign structure vacant of signage; and tax lot vacant of both signage and sign structures, listed in the sign inventory. A registration renewal application may not be submitted after the expiration of the current term of the registration. Nothing in this section shall prohibit an OAC with an expired registration from filing a new application for registration, subject to the filing requirements and fees of an initial registration application.
+(b) A registration renewal application shall be filed no sooner than 90 or later than 60 days prior to the expiration date of the current term of the registration. Notwithstanding the renewal fee set forth in subdivision (a), where a registration renewal application is submitted later than 60 days before the expiration of the current term of the registration, the renewal fee shall be $1,500 per applicant OAC, plus $125 for each: sign; sign structure vacant of signage; and tax lot vacant of both signage and sign structures, listed in the sign inventory. A registration renewal application may not be submitted after the expiration of the current term of the registration. Nothing in this section shall prohibit an OAC with an expired registration from filing a new application for registration, subject to the filing requirements and fees of an initial registration application.
 
 
 
@@ -4976,6 +4843,139 @@ Absent evidence that revenue from the sign is clearly incidental to the revenue 
 
 
 
+Chapter 50: Distributed Energy Resource Standards
+--------------------------------------------------
+
+
+
+*§ 50-01 Requirements for the Installation of High-Pressure Natural Gas-Fired Microturbine Systems.* ::
+
+
+(a) General requirements. All microturbine systems shall comply with the following general requirements:
+
+   (1) Description.
+
+      (i) The Microturbine System shall include one or more combustion-based turbine-driven electrical generators with 500 kW or less capacity, natural gas compressing equipment, heat recovery devices, electrical power distribution devices, gas vents or chimneys and associated appurtenances.
+
+      (ii) Microturbine systems shall utilize natural gas at an inlet pressure to the system of not greater than 3 psig, and shall boost the gas pressure to an inlet pressure to the combustion device of greater than 15 psig within the unit or room enclosure.
+
+      (iii) The total nominal electrical capacity at standardized operating conditions of all microturbine systems located within a single building shall not exceed 2,000 kW.
+
+   (2) Listing or MEA approval. For microturbines with external compressors, the compressor shall be MEA-approved and all components of the compressor and the microturbine shall be listed by a nationally recognized testing laboratory approved by the Commissioner. For microturbines with the compressor integrated with other elements into the unit, the integrated unit as well as each of its components shall be listed by a nationally recognized testing laboratory approved by the Commissioner.
+
+   (3) Utility ruling. The applicant shall consult the appropriate utility company regarding the characteristics of existing gas and electrical service to the site before installing the microturbine system. The applicant shall provide to the Department prior to plan approval either documentation from the utility company confirming that the electrical interconnection requirements have been preliminarily satisfied or an affidavit from the owner that there will be no interconnection with the electrical grid.
+
+   (4) Filing and permit. Plans for the complete microturbine system installation shall be approved by the New York City Department of Buildings and a work permit shall be obtained. A set of the approved plans shall be provided to the Fire Department.
+
+   (5) Installation.
+
+      (i) Regulation. Installation of microturbine systems shall be in accordance with all applicable requirements of the New York City Building Code, the New York City Electrical Code, and Reference Standards. NFPA 37 shall also apply, except where the Codes or these Rules are more restrictive. Such regulations include, but are not limited to the following: fuel gas piping, egress, fire protection, fire detection, electrical power, ventilation, and gas vent or chimney.
+
+      (ii) External compressor. For microturbines with an external compressor, the following requirements shall be satisfied:
+
+         A. Gas connections between the compressor and the turbine shall be solid-welded; no threaded joints shall be permitted.
+
+         B. A flame arrestor shall be installed upstream of the gas compressor to prevent flame propagating to the natural gas fuel distribution lines.
+
+         C. The length of gas piping connecting the gas compressor with the combustion device, both of which shall be in the same room, shall not exceed 12 feet.
+
+      (iii) Annunciation. All annunciations shall be provided locally and remotely to indicate any abnormal conditions in the system. The remote panel shall be located in a continuously supervised area on the premises.
+
+      (iv) Automatic gas shut-off. Gas supply to the microturbine shall be provided with an automatic shut-off valve that is activated by a malfunction alarm from any component of the microturbine system.
+
+      (v) Remotely and manually controlled emergency gas shut-off. A normally closed solenoid gas shut-off valve shall be located immediately after the branch connection providing dedicated service to the microturbine installation. The valve shall be manually controlled at the valve and remotely controlled both outside the door(s) to the microturbine room and at a supervised location. The gas shut-off valve and the controls shall each be clearly identified with signage indicating "emergency gas shut-off to microturbine."
+
+      (vi) Fuel shut-off valve diagram. A diagram shall be conspicuously posted on any door or gate leading to a microturbine indicating the locations of all manual and automatic fuel shut-off valves.
+
+      (vii) Security. The microturbine shall be provided with adequate protection from theft, tampering and unauthorized use. Access to microturbine systems shall be restricted by locked doors but shall be readily accessible for maintenance, repair and Fire Department access. Microturbines shall be adequately protected from vehicle impact.
+
+      (viii) Manufacturer's requirements. All manufacturer's requirements and recommendations shall be satisfied.
+
+      (ix) Signage. Signage clearly stating "HIGH PRESSURE GAS" shall be posted on or in front of the microturbine or microturbine system, and on the outside of all doors accessing any microturbine room.
+
+      (x) Existing buildings. For installation of microturbines in existing buildings, a structural evaluation of the method of support of the microturbine system shall be performed by a licensed engineer. Vibration isolation shall be provided for the microturbine system as required to mitigate vibration impact on the building structure.
+
+   (6) Inspection. Gas piping serving the microturbine shall be inspected by the Department. No self-certification of inspection shall be permitted. The inspection shall include a pipe integrity pressure test of all distribution piping. Installation and assembly of all system components shall be subject to a controlled inspection, in accordance with Section 27-132 of the New York City Building Code. Gas will be turned on only after successful completion of all testing.
+
+   (7) Fire Department permit. A Fire Department permit is required to operate the equipment.
+
+   (8) Fire Department Certificate of Fitness. A certificate of fitness ("C of F") holder, as authorized by the Fire Department, shall be required on the premises during regular business hours. The C of F holder shall be trained by the manufacturer or his authorized agent to shut down the equipment in an emergency.
+
+   (9) Service contract. The owner shall obtain a service contract from the microturbine manufacturer or a service company qualified by the manufacturer upon approval of the microturbine installation, and shall maintain it during the life of the installation.
+
+(b) Permitted locations.
+
+   (1) Outdoors at grade, on a roof or on a roof setback, within an integral weatherproof or lightweight enclosure acceptable to the manufacturer, subject to the following:
+
+      (i) Clearances. All components of the microturbine system shall be located a minimum of 4 feet from a wall or parapet, 8 feet from any building opening, including any door, operable window or intake opening and 5 feet from any exhaust termination or chimney. All microturbine systems located at grade shall satisfy the following clearances:
+
+         A. 50 feet from any subway entrance, exit, vent or other opening;
+
+         B. 20 feet from any above-ground flammable or combustible liquid storage tank;
+
+         C. 10 feet from any lot line, except 4 feet from any lot line in and adjacent to a manufacturing district;
+
+         D. 5 feet from any vent or fill line of any flammable or combustible liquid storage tank;
+
+         E. 5 feet from any parked motor vehicle.
+
+      (ii) Enclosure. All microturbine system components shall be contained within integral weather-proof enclosures pursuant to the listing of the device. The unit enclosure or the lightweight constructed enclosure shall be provided with a gas detection system with an alarm that annunciates in a supervised location. Equipment not directly associated with the microturbine system shall not be permitted in the same enclosure.
+
+   (2) Within a dedicated Mechanical Equipment Penthouse classified as Occupancy Group D-2, and subject to the following:
+
+      (i) Enclosure. The mechanical equipment penthouse shall be enclosed within 2-hour fire-resistance rated walls.
+
+      (ii) Fire suppression. The equipment room shall be fully sprinklered or provided with an equivalent fire suppression system acceptable to the Commissioner.
+
+      (iii) Mechanical ventilation. Mechanical ventilation shall be provided for the mechanical equipment penthouse at a rate sufficient to dissipate sensible heat released from the microturbine system in accordance with the manufacturer's recommendations, at a rate adequate to dilute the microturbine system rated flow rate of fuel gas below 25 percent of the lower flammability limit (LFL) of the fuel gas, or at an exhaust and make-up air rate of 80 times the maximum leakage rate of natural gas from the high-pressure system within the room at standard temperature and pressure based on the rated capacity of the gas compressor, whichever is greater. The ventilation rate shall not be less than required to maintain the ambient room temperature within the manufacturer's recommendations but shall not exceed 104 degrees Fahrenheit. Proper distribution of exhaust and make-up air must be provided to prevent pockets of increased gas concentration, including exhaust points high in the room to address the lighter-than-air properties of natural gas. Mechanical ventilation shall operate continuously.
+
+      (iv) Gas detection and alarm. The mechanical equipment penthouse shall be provided with a gas detection system with an alarm that annunciates in a supervised location. The gas detection system shall also trip the microturbine.
+
+      (v) Lighting. The mechanical equipment penthouse shall be provided with adequate lighting in accordance with the New York City Building Code.
+
+      (vi) Other equipment. Equipment not directly associated with the microturbine system, including but not limited to gas meters, shall not be permitted within the mechanical equipment penthouse.
+
+      (vii) Storage. No combustible materials shall be stored in the mechanical equipment penthouse.
+
+   (3) Within a dedicated room in a building, subject to the following:
+
+      (i) Capacity. The total installed rated capacity of the microturbine system in the room shall not exceed 1,000 kW.
+
+      (ii) Enclosure. The microturbine room shall be enclosed within 2-hour fire-resistance rated walls.
+
+      (iii) Fire suppression. The equipment room shall be fully sprinklered or provided with an equivalent fire suppression system acceptable to the Commissioner.
+
+      (iv) Mechanical ventilation. Mechanical ventilation shall be provided for the microturbine room at a rate sufficient to dissipate sensible heat released from the microturbine system in accordance with the manufacturer's recommendations, at a rate adequate to dilute the microturbine system rated flow rate of fuel gas below 25 percent of the lower flammability limit (LFL) of the fuel gas, or at an exhaust and make-up air rate of 80 times the maximum leakage rate of natural gas from the high-pressure system within the room at standard temperature and pressure based on the rated capacity of the gas compressor, whichever is greater. The ventilation rate shall not be less than required to maintain the ambient room temperature within manufacturer's recommendations but not to exceed 104 degrees Fahrenheit. Proper distribution of exhaust and make-up air must be provided to prevent pockets of increased gas concentration, including exhaust points high in the room, to address the lighter-than-air properties of natural gas. Mechanical ventilation shall operate continuously.
+
+      (v) Gas detection and alarm. The microturbine room shall be provided with a gas detection system with an alarm that annunciates in a supervised location. The gas detection system shall also trip the microturbine.
+
+      (vi) Lighting. The microturbine room shall be provided with adequate lighting in accordance with the New York City Building Code.
+
+      (vii) Other equipment. Equipment not directly associated with the microturbine system, including but not limited to gas meters, shall not be permitted within the microturbine room.
+
+      (viii) Storage. No combustible materials shall be stored in the microturbine room.
+
+   (4) Within a boiler or other mechanical equipment room of a building, subject to the following:
+
+      (i) Capacity. The total installed rated capacity of the microturbine system in this room shall not exceed 500 kW.
+
+      (ii) Enclosure. The mechanical equipment room shall be enclosed within 2-hour fire-resistance rated walls.
+
+      (iii) Fire suppression. The mechanical equipment room shall be fully sprinklered or provided with an equivalent fire suppression system acceptable to the Commissioner.
+
+      (iv) Mechanical ventilation. Mechanical ventilation shall be provided for the mechanical equipment room at the rate sufficient to dissipate sensible heat released from all gas-burning equipment located within the mechanical equipment room in accordance with the microturbine manufacturer's recommendations, at a rate adequate to dilute the microturbine system rated flow rate of fuel gas below 25 percent of the lower flammability limit (LFL) of the fuel gas, or at an exhaust and make-up air rate of 80 times the maximum leakage rate of natural gas from the high-pressure system within the room at standard temperature and pressure based on the rated capacity of the gas compressor, whichever is greater. The ventilation rate shall not be less than required to maintain the ambient room temperature within the manufacturer's recommendations but shall not exceed 104 degrees Fahrenheit. Proper distribution of exhaust and make-up air must be provided to prevent pockets of increased gas concentration, including exhaust points high in the room, to address the lighter-than-air properties of natural gas. Mechanical ventilation shall operate continuously.
+
+      (v) Gas detection and alarm. The mechanical equipment room shall be provided with a gas detection system with an alarm that annunciates in a supervised location. The gas detection system shall also trip the microturbine.
+
+      (vi) Lighting. The mechanical equipment room shall be provided with adequate lighting in accordance with the New York City Building Code.
+
+      (vii) Gas meters shall not be permitted within the mechanical equipment room.
+
+      (viii) Storage. No combustible materials, including fuels, shall be stored in the mechanical equipment room.
+
+
+
+
 Chapter 51: Dormitories
 --------------------------------------------------
 
@@ -5137,7 +5137,7 @@ Figure 1 Summary chart of fire safety requirements
 
 
 
-Chapter 400: Special Detailed Requirements Based On Use and Occupancy
+Chapter 400: Special Detailed Requirements Based On Use and Occupancy [Repealed]
 --------------------------------------------------
 
 
@@ -6264,7 +6264,7 @@ Construction superintendents must be registered with the Department, in accordan
 *§ 3310-01 Site Safety.* ::
 
 
-(a) Site safety inspections for construction, alteration, or demolition projects. The primary site safety manager or coordinator for a construction, alteration, or demolition project must, at all times such site safety manager or coordinator is required to be present, perform the site safety inspections detailed in Tables 1 through 9, below, at the intervals prescribed in the tables, or ensure such inspections are performed by a site safety manager or coordinator. The requirements of this subdivision do not apply to a project whose scope is limited to façade work.
+(a) Site safety inspections for construction, alteration, or demolition projects. The primary site safety manager or coordinator for a construction, alteration, or demolition project must, at all times such site safety manager or coordinator is required to be present, perform the site safety inspections detailed in Tables 1 through 9, below, at the intervals prescribed in the tables, or ensure such inspections are performed by a site safety manager or coordinator. The requirements of this subdivision do not apply to a project whose scope is limited to facade work.
 
 Table 1General Inspections 
 
@@ -6488,7 +6488,7 @@ Table 6 Protection of Sidewalks Inspections
       - Verify that when the building exceeds 100 feet (30.48 m) in height, the sidewalk sheds extend 20 feet (6.096 m) beyond the property line.
       - Once
     * - (6)
-      - Verify that required sidewalk sheds remain in place until the structure is enclosed, all exterior work completed, the sash is gazed above the second story, the exterior façade is cleaned down, all outside handling of material equipment and machinery is completed, and dismantling of a hoist, crane, or the use of a derrick in their removal above the second story has been completed.
+      - Verify that required sidewalk sheds remain in place until the structure is enclosed, all exterior work completed, the sash is gazed above the second story, the exterior facade is cleaned down, all outside handling of material equipment and machinery is completed, and dismantling of a hoist, crane, or the use of a derrick in their removal above the second story has been completed.
       - Weekly
     * - (7)
       - Verify that all openings in sidewalk sheds, fences and railings for loading purposes are kept closed, barricaded, protected, or guarded at all times.
@@ -6607,9 +6607,9 @@ Table 9 Material Handling and Hoisting Equipment Inspections
 
    Demolition. For the purposes of this section, the term "demolition" shall have the same meaning as set forth in section 3302.1 of the Building Code.
 
-   Façade work (façade project). The restoration of an existing façade to a safe and like new condition following decay, wear, or damage; the modification of an existing façade; or the recladding of a façade.
+   Facade work (facade project). The restoration of an existing facade to a safe and like new condition following decay, wear, or damage; the modification of an existing facade; or the recladding of a facade.
 
-   Façade recladding (recladding of a façade). The removal of the exterior building envelope and replacement with a new exterior building envelope; or the installation of a new exterior building envelope over the existing façade.
+   Facade recladding (recladding of a facade). The removal of the exterior building envelope and replacement with a new exterior building envelope; or the installation of a new exterior building envelope over the existing facçade.
 
    Primary site safety manager or coordinator. The site safety manager or coordinator who has been designated as the primary site safety manager in accordance with the provisions of section 3310.5 of the Building Code.
 
@@ -6623,13 +6623,13 @@ Table 9 Material Handling and Hoisting Equipment Inspections
 
    Site safety manager. An individual who holds a valid site safety manager certificate from the department.
 
-(c) Site safety inspections for façade project. For a project whose scope is limited to façade work:
+(c) Site safety inspections for facade project. For a project whose scope is limited to facade work:
 
    (1) The primary or alternate site safety manager must, whenever he or she is present at the project site, perform the site safety inspections detailed in Table 10, below, at the intervals prescribed in the table.
 
    (2) At all times when paragraph (1) of subdivision (e) of this section requires the presence of a qualified person, and the primary or alternate site safety manager is not present at the site, the qualified person as described by subdivision (e) must perform the site safety inspections detailed in Table 10, below, at the intervals prescribed in the table.
 
-Table 10 Façade project inspections 
+Table 10 Facade project inspections 
 
  
 
@@ -6803,9 +6803,9 @@ Table 10 Façade project inspections
 
  
 
-(d) Site safety manager requirements for a façade project.
+(d) Site safety manager requirements for a facade project.
 
-   (1) Site safety manager presence at a façade project which does not constitute façade recladding. For a project that is limited in scope to façade work, and which does not constitute façade recladding:
+   (1) Site safety manager presence at a facade project which does not constitute facade recladding. For a project that is limited in scope to facade work, and which does not constitute facade recladding:
 
       (i) The primary site safety manager must, at a minimum, visit the site after required sidewalk sheds, fences, pedestrian protection, and roof and adjoining property protection have been installed, but prior to the commencement of the project.
 
@@ -6827,7 +6827,7 @@ Table 10 Façade project inspections
 
          (C) Hoisting machine installation/assembly/erection, climbing/jumping, removal/disassembly, or a relocation requiring modifications to tie-backs, counterweights, or connections to the base building/structure.
 
-   (2) Façade recladding. For a project that is limited in scope to façade work, and which constitutes façade recladding, the primary or alternate site safety manager is required to be present at the site during all times active work is occurring, through all phases of work, beginning with the commencement of the façade work and continuing until the building is enclosed and the sidewalk shed is removed, except that, the primary or alternate site safety manager is not required to be present at the site during the following activities, provided no other work is in progress:
+   (2) Facade recladding. For a project that is limited in scope to facade work, and which constitutes facade recladding, the primary or alternate site safety manager is required to be present at the site during all times active work is occurring, through all phases of work, beginning with the commencement of the facade work and continuing until the building is enclosed and the sidewalk shed is removed, except that, the primary or alternate site safety manager is not required to be present at the site during the following activities, provided no other work is in progress:
 
       (i) Surveying that does not involve the disturbance of material, structure, or earth;
 
@@ -6841,7 +6841,7 @@ Table 10 Façade project inspections
 
       (vi) Truck deliveries to the site where the sidewalk is closed and the entrance gate is within that closed sidewalk area.
 
-   (3) Multiple façade jobs. A site safety manager may serve as the primary or alternate site safety manager at multiple projects whose scope is limited to façade work, and which does not constitute façade recladding, provided such site safety manager is not contemporaneously the primary or alternate site safety manager for any construction, alteration, or demolition project, or any façade recladding project, and further provided that the site safety manager is able to fulfill all duties imposed upon the site safety manager by law and these rules.
+   (3) Multiple facade jobs. A site safety manager may serve as the primary or alternate site safety manager at multiple projects whose scope is limited to facade work, and which does not constitute facade recladding, provided such site safety manager is not contemporaneously the primary or alternate site safety manager for any construction, alteration, or demolition project, or any facade recladding project, and further provided that the site safety manager is able to fulfill all duties imposed upon the site safety manager by law and these rules.
 
    (4) Site safety log. In addition to the requirements of subdivisions (f) and (g) of this section, the primary or alternate site safety manager working pursuant to this subdivision must:
 
@@ -6849,9 +6849,9 @@ Table 10 Façade project inspections
 
       (ii) Record the results of inspections required by subdivision (c) of this section prior to leaving the site for the day.
 
-(e) Qualified person for façade project.
+(e) Qualified person for facade project.
 
-   (1) Qualified person to be present. For a project that is limited in scope to façade work, and which does not constitute façade recladding, a qualified person, who meets the requirements of paragraphs (2) and (3) of this subdivision, must be present at the site during all times active work is occurring, continuing through all phases of work, beginning with the installation of the sidewalk shed and continuing until the building is enclosed and the sidewalk shed is removed, except that such qualified person is not required to be present at the site during the following activities, provided no other work is in progress:
+   (1) Qualified person to be present. For a project that is limited in scope to facade work, and which does not constitute facade recladding, a qualified person, who meets the requirements of paragraphs (2) and (3) of this subdivision, must be present at the site during all times active work is occurring, continuing through all phases of work, beginning with the installation of the sidewalk shed and continuing until the building is enclosed and the sidewalk shed is removed, except that such qualified person is not required to be present at the site during the following activities, provided no other work is in progress:
 
       (i) Surveying that does not involve the disturbance of material, structure, or earth;
 
@@ -9859,9 +9859,9 @@ Table A – Minimum Clear Distances
 
       Exceptions:
 
-         1. For power lines at or below 1000 kV, wherever the distance "20 feet (6.1 m)" is specified in subparagraphs (i) or (ii) above, the distance "50 feet" (15.24 m) must be substituted.
+         1. For power lines at or below 1,000 kV, wherever the distance "20 feet (6.1 m)" is specified in subparagraphs (i) or (ii) above, the distance "50 feet" (15.24 m) must be substituted.
 
-         2. For power lines over 1000 kV, the minimum clearance distance must be established by the utility owner/operator or an engineer, licensed and registered to practice the profession of engineering under the education law of the state of New York, who is also a qualified person with respect to electrical power transmission and distribution.
+         2. For power lines over 1,000 kV, the minimum clearance distance must be established by the utility owner/operator or an engineer, licensed and registered to practice the profession of engineering under the education law of the state of New York, who is also a qualified person with respect to electrical power transmission and distribution.
 
       (iv) Power line safety (all voltages) – equipment operations closer than the Table A zone. Equipment operations in which any part of the equipment, load line, or load (including rigging and lifting accessories) is closer than the minimum approach distance under Table A of this paragraph to an energized power line is prohibited, except where the equipment user demonstrates that all of the following requirements are met:
 
@@ -10461,19 +10461,6 @@ Table 2
 
 
  
-
-
-
-
-Chapter 4000: Electrical Code
---------------------------------------------------
-
-
-
-*§ 4000-06 Fire Alarm Wiring and Power Sources. [Repealed]* ::
-
-
-
 
 
 
@@ -11668,13 +11655,26 @@ Chapter 29 – Single- and Multiple-Station Alarms and Household Fire Alarm Syst
 
 
 
-Chapter 6000: Fuel Gas Code
+Chapter 4000: Electrical Code [Repealed]
+--------------------------------------------------
+
+
+
+*§ 4000-06 Fire Alarm Wiring and Power Sources. [Repealed]* ::
+
+
+
+
+
+
+
+Chapter 6000: Fuel Gas Code [Repealed]
 --------------------------------------------------
 
 
 
 
-**Subchapter H: Referenced Standards**
+**Subchapter H: Referenced Standards [Repealed]**
 
 
 
@@ -11686,7 +11686,7 @@ Chapter 6000: Fuel Gas Code
 
 
 
-Chapter 7000: Mechanical Code
+Chapter 7000: Mechanical Code [Repealed]
 --------------------------------------------------
 
 
@@ -12066,7 +12066,7 @@ Table 2Seepage Pits – Required Absorptive Area for Seepage Pit Systems (Square
       - 750
       - 780
       - 900
-      - &lt;1000
+      - &lt;1,000
       - 
     * - 1-5
       - 183
@@ -12101,7 +12101,7 @@ Table 2Seepage Pits – Required Absorptive Area for Seepage Pit Systems (Square
       - 750
       - 780
       - 900
-      - 1020
+      - 1,020
     * - 8-10
       - 244
       - 289
@@ -12117,8 +12117,8 @@ Table 2Seepage Pits – Required Absorptive Area for Seepage Pit Systems (Square
       - 733
       - 833
       - 867
-      - 1000
-      - 1130
+      - 1,000
+      - 1,130
     * - 11-15
       - 275
       - 325
@@ -12134,8 +12134,8 @@ Table 2Seepage Pits – Required Absorptive Area for Seepage Pit Systems (Square
       - 825
       - 938
       - 975
-      - 1125
-      - 1275
+      - 1,125
+      - 1,275
     * - 16-20
       - 314
       - 371
@@ -12149,10 +12149,10 @@ Table 2Seepage Pits – Required Absorptive Area for Seepage Pit Systems (Square
       - 857
       - 929
       - 943
-      - 1071
-      - 1114
-      - 1280
-      - 1450
+      - 1,071
+      - 1,114
+      - 1,280
+      - 1,450
     * - 21-30
       - 367
       - 433
@@ -12163,13 +12163,13 @@ Table 2Seepage Pits – Required Absorptive Area for Seepage Pit Systems (Square
       - 750
       - 867
       - 917
-      - 1000
-      - 1083
-      - 1100
-      - 1250
-      - 1300
-      - 1500
-      - 1690
+      - 1,000
+      - 1,083
+      - 1,100
+      - 1,250
+      - 1,300
+      - 1,500
+      - 1,690
     * - 31-45
       - 440
       - 520
@@ -12178,15 +12178,15 @@ Table 2Seepage Pits – Required Absorptive Area for Seepage Pit Systems (Square
       - 780
       - 880
       - 900
-      - 1040
-      - 1100
-      - 1200
-      - 1300
-      - 1320
-      - 1500
-      - 1560
-      - 1800
-      - 2030
+      - 1,040
+      - 1,100
+      - 1,200
+      - 1,300
+      - 1,320
+      - 1,500
+      - 1,560
+      - 1,800
+      - 2,030
     * - 46-60
       - 489
       - 578
@@ -12194,16 +12194,16 @@ Table 2Seepage Pits – Required Absorptive Area for Seepage Pit Systems (Square
       - 733
       - 867
       - 978
-      - 1000
-      - 1156
-      - 1222
-      - 1333
-      - 1444
-      - 1467
-      - 1667
-      - 1733
-      - 2000
-      - 2255
+      - 1,000
+      - 1,156
+      - 1,222
+      - 1,333
+      - 1,444
+      - 1,467
+      - 1,667
+      - 1,733
+      - 2,000
+      - 2,255
     * - Over 60
       - Unsuitable
 ~
@@ -12802,7 +12802,7 @@ Table 6Sand Filter Field Design Flow
       - 750
       - 780
       - 900
-      - &lt;1000
+      - &lt;1,000
       - 
     * - 1.15
       - 191
@@ -12837,7 +12837,7 @@ Table 6Sand Filter Field Design Flow
       - 750
       - 780
       - 900
-      - 1015
+      - 1,015
 ~
 
 

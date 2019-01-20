@@ -1714,10 +1714,10 @@ Table 8-1. Corrective actions required for Legionella culture results.
       - ≥10 CFU/ml to &lt;100 CFU/ml
       - Initiate immediate disinfection by increasing biocide concentration or using a different biocide within 24 hours; review treatment program; and retest water within 3 - 7 days. Subsequent test results must be interpreted in accordance with this Table until level 1 is reached.
     * - 3 
-      - ≥ 100 CFU/ml to &lt;1000 CFU/ml
+      - ≥ 100 CFU/ml to &lt;1,000 CFU/ml
       - Initiate immediate disinfection by increasing biocide concentration or using a different biocide (within 24 hours), reviewing treatment program, performing visual inspection to evaluate need to perform cleaning and further disinfection. Retest water within 3 - 7 days. Subsequent test results must be interpreted in accordance with this Table until level 1 is reached.
     * - 4
-      - ≥ 1000 CFU/ml
+      - ≥ 1,000 CFU/ml
       - Initiate immediate disinfection by increasing biocides within 24 hours. Within 48 hours perform full remediation of the tower by hyperhalogenating2, draining, cleaning, and flushing. Review treatment program, retest water within 3 - 7 days. Subsequent test results must be interpreted in accordance with this Table until level 1 is reached. For Legionella results at this level, notify Department within 24 hours of receiving test result.3
 ~
 
@@ -1850,120 +1850,120 @@ The following penalties shall be imposed for sustained initial and repeat violat
 
     * - 24 RCNY § 8-03
       - No maintenance program and plan
-      - $1000 
-      - $2000
+      - $1,000 
+      - $2,000
     * - 24 RCNY § 8-03
       - Maintenance program and plan incomplete or not on premises 
       - $500 
-      - $1000
+      - $1,000
     * - 24 RCNY § 8-04(a)
       - Routine monitoring not conducted, documented at least once a week when tower is in use
       - $500 
-      - $1000
+      - $1,000
     * - 24 RCNY § 8-04(b)
       - Compliance inspections not conducted, documented at least once every 90 days when the tower is in use
       - $500
-      - $1000
+      - $1,000
     * - 24 RCNY § 8-04(c)
       - Routine maintenance according to maintenance program and plan not conducted or documented 
       - $500 
-      - $1000
+      - $1,000
     * - 24 RCNY § 8-04(d)
       - Twice yearly or other required cleaning not conducted or documented
       - $500
-      -  $1000
+      -  $1,000
     * - 24 RCNY § 8-04(e)
       - Aerosol control do not meet manufacturer's design specifications or drift loss reduction requirements in new or existing towers when required
-      - $1000 
-      - $2000
+      - $1,000 
+      - $2,000
     * - 24 RCNY § 8-05(a)
       - Daily automatic or approved alternative water treatment plan not provided 
       - $500
-      - $1000
+      - $1,000
     * - 24 RCNY § 8-05(b)
       - Cooling water system not continually recirculated and no acceptable alternative 
       - $500 
-      - $1000
+      - $1,000
     * - 24 RCNY § 8-05(c)(1)
       - Use of an unqualified biocide applicator 
       - $500 
-      - $1000
+      - $1,000
     * - 24 RCNY § 8-05(c)(2)
       - Use of an unregistered biocide product 
       - $500 
-      - $1000
+      - $1,000
     * - 24 RCNY § 8-05(c)(3)
       - No records of all chemicals and biocides added
       - $500 
-      - $1000
+      - $1,000
     * - 24 RCNY § 8-05(c)(4)
       - Sufficient quantities and combinations of chemicals not added as specified in the maintenance program and plan
       - $500 
-      - $1000
+      - $1,000
     * - 24 RCNY § 8-05(d)
       - Using unacceptable alternative nonchemical water treatment device 
       - $500
-      - $1000
+      - $1,000
     * - 24 RCNY § 8-05(e)
       - Use of captured rainwater or recycled water as makeup water not in accordance with approved alternative water source plan
-      - $1000 
-      - $2000
+      - $1,000 
+      - $2,000
     * - 24 RCNY § 8-05(f)(1)
       - Minimum daily water quality measurements not taken or recorded
       - $500 
-      - $1000
+      - $1,000
     * - 24 RCNY § 8-05(f)(2)
       - Failure to collect, analyze or record weekly biological process control indicators
       - $500 
-      - $1000
+      - $1,000
     * - 24 RCNY § 8-05(f)(3)
       - Legionella samples not collected or analyzed, or results not recorded or reported to the Department as required
-      - $1000 
-      - $2000
+      - $1,000 
+      - $2,000
     * - 24 RCNY § 8-05(f)(4)
       - Failure to monitor and sample from representative locations and times 
       - $500 
-      - $1000
+      - $1,000
     * - 24 RCNY § 8-05(f)(5)
       - Required corrective actions not taken based on bacteriological results
-      - $1000 
-      - $2000
+      - $1,000 
+      - $2,000
     * - 24 RCNY § 8-06(a)
       - Improper or inadequate shutdown procedures
       - $500 
-      - $1000
+      - $1,000
     * - 24 RCNY § 8-06(b)(1)
       - Improper or inadequate start-up procedures
       - $500 
-      - $1000
+      - $1,000
     * - 24 RCNY § 8-06(b)(2)
       - Legionella samples not collected, analyzed before system start-up 
       - $500
-      - $1000
+      - $1,000
     * - 24 RCNY § 8-06(c)
       - New cooling tower not or inadequately cleaned and disinfected prior to operating 
       - $500 
-      - $1000
+      - $1,000
     * - 24 RCNY § 8-07(a)
       - Failure to document all inspections, logs, tests, cleaning, and disinfection in accordance with the maintenance program and plan 
       - $500 
-      - $1000
+      - $1,000
     * - 24 RCNY § 8-07(a)
       - Failure to retain records for at least 3 years
       - $500 
-      - $1000
+      - $1,000
     * - 24 RCNY § 8-07(a)
       - Required records not kept at the cooling tower premises
       - $500 
-      - $1000
+      - $1,000
     * - 24 RCNY § 8-07(c)
       - Department of Buildings Cooling Tower Registration Number not posted as required
       - $500
-      - $1000
+      - $1,000
     * - 24 RCNY § 8-07(d)
       - Records not made immediately available to Department upon request 
       - $500
-      - $1000
+      - $1,000
     * - State Sanitary Code Part 4
       - Miscellaneous provisions
       - $250
@@ -3782,7 +3782,7 @@ Not less than 45 days after the Notice required by 24 RCNY § 19-04 is published
 *§ 19-07 Number of Positions on the Waiting Lists.* ::
 
 
-The maximum number of positions on the full-term permit waiting list shall be determined by the Department's Permits Division so as to provide a reasonable number of potential applicants to fill vacancies as they arise, but in no event shall such list exceed two thousand five hundred (2,500) positions. The maximum number of positions on the temporary permit waiting list shall be determined by the Department's Permits Division so as to provide a reasonable number of potential applicants to fill vacancies as they arise, but in no event shall such waiting list exceed one thousand (1000) positions. When the number of potential applicants on either the full-term or temporary permit waiting lists falls below two hundred (200), the Permits Division shall supplement such waiting lists with additional names pursuant to the procedure specified in 24 RCNY §§ 19-03 through 19-05. The maximum number of positions on each of the four waiting lists for full-term permits to be used exclusively for vending in the specified boroughs of the Bronx, Brooklyn, Queens and Staten Island shall also be determined by the Department's Permits Division so as to provide a reasonable number of potential applicants to fill future vacancies as they arise. In no event shall any of these borough-specific permit waiting lists exceed one hundred (100) positions or four hundred (400) for all borough-specific list positions combined. When the number of potential applicants on any of the borough-specific permit waiting lists falls below twenty-five (25), the Permits Division shall seek to supplement such waiting list with additional names pursuant to the procedure specified in 24 RCNY §§ 19-03 through 19-05.
+The maximum number of positions on the full-term permit waiting list shall be determined by the Department's Permits Division so as to provide a reasonable number of potential applicants to fill vacancies as they arise, but in no event shall such list exceed two thousand five hundred (2,500) positions. The maximum number of positions on the temporary permit waiting list shall be determined by the Department's Permits Division so as to provide a reasonable number of potential applicants to fill vacancies as they arise, but in no event shall such waiting list exceed one thousand (1,000) positions. When the number of potential applicants on either the full-term or temporary permit waiting lists falls below two hundred (200), the Permits Division shall supplement such waiting lists with additional names pursuant to the procedure specified in 24 RCNY §§ 19-03 through 19-05. The maximum number of positions on each of the four waiting lists for full-term permits to be used exclusively for vending in the specified boroughs of the Bronx, Brooklyn, Queens and Staten Island shall also be determined by the Department's Permits Division so as to provide a reasonable number of potential applicants to fill future vacancies as they arise. In no event shall any of these borough-specific permit waiting lists exceed one hundred (100) positions or four hundred (400) for all borough-specific list positions combined. When the number of potential applicants on any of the borough-specific permit waiting lists falls below twenty-five (25), the Permits Division shall seek to supplement such waiting list with additional names pursuant to the procedure specified in 24 RCNY §§ 19-03 through 19-05.
 
 
 
@@ -3812,7 +3812,7 @@ A person may submit waiting list applications for positions on the following spe
 *§ 19-10 Selection of Applicants From a Waiting List.* ::
 
 
-When the number of outstanding full-term mobile food unit permits falls below two thousand eight hundred (2,800), the statutory maximum of three thousand (3000) imposed by § 17-307(b)(2)(a) of the New York City Administrative Code less the two hundred (200) designated exclusively for use in specified boroughs by § 17-307(b)(2)(b)(i), and at such time as the Department in its discretion may determine based upon a consideration of the number of vacancies, a number of persons on the waiting list equal to the number of vacancies shall be notified by the Department, in waiting list order, of their eligibility to apply for a full-term mobile food unit permit and shall form a pool of prospective applicants. When the number of temporary mobile food unit permits outstanding falls below the statutory maximum of one thousand (1,000) imposed by § 17-307(f)(3)(a) of the Administrative Code, and at such time as the Department in its discretion may determine based upon a consideration of the number of vacancies, a sufficient number of persons on the waiting list equal to the number of vacancies shall be notified by the Department, in waiting list order, of their eligibility to apply for a temporary mobile food unit permit and shall form a pool of prospective applicants. When the number of borough-specific full-term mobile food unit permits outstanding for a particular borough falls below the statutory maximum of fifty (50) imposed by § 17-307(b)(2)(b)(i) of the Administrative Code and at such time as the Department in its discretion may determine based upon a consideration of the number of vacancies, a sufficient number of persons on the waiting list for that borough equal to the number of vacancies shall be notified in waiting list order of their eligibility to apply for a permit to be used exclusively in the specific borough and shall form a pool of prospective applicants. Only one permit shall be issued for each eligible waiting list position or applicant.
+When the number of outstanding full-term mobile food unit permits falls below two thousand eight hundred (2,800), the statutory maximum of three thousand (3,000) imposed by § 17-307(b)(2)(a) of the New York City Administrative Code less the two hundred (200) designated exclusively for use in specified boroughs by § 17-307(b)(2)(b)(i), and at such time as the Department in its discretion may determine based upon a consideration of the number of vacancies, a number of persons on the waiting list equal to the number of vacancies shall be notified by the Department, in waiting list order, of their eligibility to apply for a full-term mobile food unit permit and shall form a pool of prospective applicants. When the number of temporary mobile food unit permits outstanding falls below the statutory maximum of one thousand (1,000) imposed by § 17-307(f)(3)(a) of the Administrative Code, and at such time as the Department in its discretion may determine based upon a consideration of the number of vacancies, a sufficient number of persons on the waiting list equal to the number of vacancies shall be notified by the Department, in waiting list order, of their eligibility to apply for a temporary mobile food unit permit and shall form a pool of prospective applicants. When the number of borough-specific full-term mobile food unit permits outstanding for a particular borough falls below the statutory maximum of fifty (50) imposed by § 17-307(b)(2)(b)(i) of the Administrative Code and at such time as the Department in its discretion may determine based upon a consideration of the number of vacancies, a sufficient number of persons on the waiting list for that borough equal to the number of vacancies shall be notified in waiting list order of their eligibility to apply for a permit to be used exclusively in the specific borough and shall form a pool of prospective applicants. Only one permit shall be issued for each eligible waiting list position or applicant.
 
 
 

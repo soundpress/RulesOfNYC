@@ -328,21 +328,21 @@ Worker decontamination enclosure system. "Worker decontamination enclosure syste
 
    (5) A sketch or drawing illustrating the proposed modification.
 
-(c) For each variance application where the combined amount (total of both square and linear feet on the ACP-7) of ACM is less than 5000 feet, payment of the variance processing fee shall accompany the application and shall conform with the payment schedule as follows:
+(c) For each variance application where the combined amount (total of both square and linear feet on the ACP-7) of ACM is less than 5,000 feet, payment of the variance processing fee shall accompany the application and shall conform with the payment schedule as follows:
 
    (1) Request to modify no more than one lettered subsection in any section category listed in subsection (e) below: $400 fee.
 
    (2) For each additional subsection in any category listed in subsection (e): $200 fee.
 
-   (3) The maximum fee: $1200.
+   (3) The maximum fee: $1,200.
 
-(d) For each variance application where the combined amount (total of both square and linear feet on the ACP-7) of ACM is greater than or equal to 5000 feet, payment of the variance processing fee shall accompany the application and shall conform with the payment schedule as follows:
+(d) For each variance application where the combined amount (total of both square and linear feet on the ACP-7) of ACM is greater than or equal to 5,000 feet, payment of the variance processing fee shall accompany the application and shall conform with the payment schedule as follows:
 
    (1) Request to modify no more than one lettered subsection in any section category listed in subsection (e): $600.
 
    (2) For each additional subsection in any category listed in subsection (e): $300.
 
-   (3) The maximum fee: $1800.
+   (3) The maximum fee: $1,800.
 
 (e) Section categories shall be as follows: 
 
@@ -6064,7 +6064,7 @@ Pursuant to section 24-163.4 of the Code, any diesel fuel-powered motor vehicle 
 
 City agencies must select BART for their diesel fuel-powered motor vehicles in accordance with 15 RCNY § 15-05. City agencies must notify the Department of their selections, and the Department will make a determination as to whether the BART selected may be utilized for the vehicle, engine and application for which it was selected. The Department will notify the selecting agency of its determination. City agencies are not required to select BART for their diesel fuel-powered motor vehicles in the following circumstances:
 
-(1) If a vehicle will be retired within the next 12 months, the vehicle does not have to be retrofitted if vehicle usage is limited to 2000 miles; if the agency does not limit such usage to 2,000 miles, a DOC must be installed; and
+(1) If a vehicle will be retired within the next 12 months, the vehicle does not have to be retrofitted if vehicle usage is limited to 2,000 miles; if the agency does not limit such usage to 2,000 miles, a DOC must be installed; and
 
 (2) If a vehicle will be retired within the next 36 months, the vehicle must have a DOC installed, and vehicle usage must be limited to yearly mileage of 3,000 miles or 30% of the mileage averaged over the last three years, whichever is less. Agencies that are retiring their vehicles pursuant to this section must provide the odometer or hour-meter reading and date it was taken to the Department and must maintain a mileage log for the vehicle(s).
 
@@ -8094,7 +8094,7 @@ These rules and regulations are promulgated pursuant to Article 11 of the New Yo
 
    (125) Wastewater treatment plant means any facility which treats sewage or discharges treated effluent not intended to receive further treatment in the watershed, and which requires a permit under Titles 7 or 8 of Article 17 of the Environmental Conservation Law. A wastewater treatment plant is installed for the purpose of treating, neutralizing, stabilizing or disposing of sewage by removal of contaminants accomplished by unit operations or processes or by a combination of such operations and processes as may be applicable to a given design for a wastewater treatment plant. Wastewater treatment plants shall not include intermediate sized sewage treatment systems as defined in these rules and regulations.
 
-   (126) Water Quality Volume (WQv) means the storage needed to capture and treat 90% of the average annual stormwater runoff volume. WQv is calculated as follows:      WQv = (P)(Rv)(A)            12
+   (126) Water Quality Volume (WQv) means the storage needed to capture and treat 90% of the average annual stormwater runoff volume. WQv is calculated as follows:      WQv = (P)(Rv)(A)         12
 
       where:
 
@@ -9134,7 +9134,7 @@ Unless otherwise permitted by these rules and regulations, a discharge, or stora
 *§ 18-41 Solid Waste.* ::
 
 
-(a)  Siting or horizontal expansion of a junkyard or a municipal solid waste landfill, within the limiting distance of 250 feet of a watercourse or wetland, or the siting or horizontal expansion of a junkyard or a solid waste management facility within the limiting distance of 1000 feet of a reservoir, reservoir stem or controlled lake is prohibited except for:
+(a)  Siting or horizontal expansion of a junkyard or a municipal solid waste landfill, within the limiting distance of 250 feet of a watercourse or wetland, or the siting or horizontal expansion of a junkyard or a solid waste management facility within the limiting distance of 1,000 feet of a reservoir, reservoir stem or controlled lake is prohibited except for:
 
    (1) Recyclable handling and recovery facilities that handle non-putrescible solid waste, such as newspapers, magazines, corrugated boxes, glass, cans and plastic, but not non-putrescible solid waste such as batteries, car batteries, and waste oil;
 
@@ -9206,7 +9206,7 @@ Unless otherwise permitted by these rules and regulations, the discharge or use,
 
 (c) Commercial, industrial, governmental, or institutional entities shall be restricted to the use of the substances defined in these rules and regulations as winter highway maintenance materials and to the use of the minimum amount needed of such substances in order to protect the public safety. In determining the minimum amount needed for public safety, such entities should consider best management practices developed by the New York State Department of Transportation.
 
-(d) (1)  Commercial, industrial, governmental, or institutional entities that store winter highway maintenance materials in quantities of 1000 pounds or more that contain greater than eight percent chloride compounds shall store such materials in structures constructed on low permeability storage pads.
+(d) (1)  Commercial, industrial, governmental, or institutional entities that store winter highway maintenance materials in quantities of 1,000 pounds or more that contain greater than eight percent chloride compounds shall store such materials in structures constructed on low permeability storage pads.
 
    (2) Any outdoor areas used for loading, handling or mixing of winter highway maintenance materials shall be constructed and maintained to prevent seepage and runoff from entering any watercourse, wetland, reservoir, reservoir stem or controlled lake.
 
@@ -10280,7 +10280,7 @@ Water separator. "Water separator" shall mean a vessel that uses gravity to phys
 
       (vi) keep all measurements and records required by this section at their facility for at least one year from the date such records and measurements are made.
 
-   (2) Discharges of 100 up to but not including 1000 gallons per day. Any person that discharges from 100 up to but not including 1000 gallons per day of total silver halide process wastewater shall:
+   (2) Discharges of 100 up to but not including 1,000 gallons per day. Any person that discharges from 100 up to but not including 1,000 gallons per day of total silver halide process wastewater shall:
 
       (i) install and continually operate one of the following pretreatment technologies designed to recover at least 90% of the silver from the Silver-Rich Solutions processed:
 
@@ -15888,7 +15888,7 @@ For higher outputs, see subdivision (i) of 15 RCNY § 34-04.
 
     * - Emission in CFM
       - Fee
-    * - 100 To 2000
+    * - 100 To 2,000
       - $250
 ~
 
@@ -15996,7 +15996,7 @@ For boiler using both fuel oil and natural gas, the fee imposed will be based on
 
     * - Emission in CFM
       - Fee
-    * - 2,001 thru 5000
+    * - 2,001 thru 5,000
       - $250
     * - 5,001 Thru 20,000
       - $470
@@ -16114,22 +16114,22 @@ For boiler using both fuel oil and natural gas, the fee imposed will be based on
 
     * - Output in KW
       - Fee
-    * - 450 to less than 1000
+    * - 450 to less than 1,000
       - $345
-    * - 1000 to less than 2000
+    * - 1,000 to less than 2,000
       - $470
-    * - 2000 to less than 3500
+    * - 2,000 to less than 3,500
       - $595
-    * - 3500 to less than 5000
+    * - 3,500 to less than 5,000
       - $700
-    * - 5000 to less than 7000
+    * - 5,000 to less than 7,000
       - $830
-    * - 7000 to less than 10,000
+    * - 7,000 to less than 10,000
       - $940
     * - 10,000 to less than 14,000
       - $1,440
     * - Over 14,000
-      - $1,440 plus $125 per additional 1000 KW Or Fraction Thereof Not To Exceed $10,000.
+      - $1,440 plus $125 per additional 1,000 KW Or Fraction Thereof Not To Exceed $10,000.
 ~
 
  
@@ -16146,22 +16146,22 @@ For boiler using both fuel oil and natural gas, the fee imposed will be based on
 
     * - Output in HP
       - Fee
-    * - 600 to less than 1340
+    * - 600 to less than 1,340
       - $345
-    * - 1340 to less than 2680
+    * - 1,340 to less than 2,680
       - $470
-    * - 2680 to less than 4695
+    * - 2,680 to less than 4,695
       - $595
-    * - 4695 to less than 6705
+    * - 4,695 to less than 6,705
       - $700
-    * - 6705 to less than 9385
+    * - 6,705 to less than 9,385
       - $830
-    * - 9385 to less than 13,410
+    * - 9,385 to less than 13,410
       - $940
     * - 13,410 to less than 18,775
       - $1,440
     * - Over 18,775
-      - $1,440 plus $125 per additional 1350 HP Or Fraction Thereof Not To Exceed $10,000.
+      - $1,440 plus $125 per additional 1,350 HP Or Fraction Thereof Not To Exceed $10,000.
 ~
 
  
@@ -16252,7 +16252,7 @@ The fees for equipment approvals are as follows:
       - $400
     * - 260 to 999 LF or 160 to 999 SF
       - $800
-    * - 1000 LF or 1000 SF or more
+    * - 1,000 LF or 1,000 SF or more
       - $1,200
 ~
 
@@ -16276,11 +16276,11 @@ The fees for equipment approvals are as follows:
       - $100
     * - 100 to 259 LF or 50 to 159 SF
       - $300
-    * - Large projects up to 1000 LF or SF
+    * - Large projects up to 1,000 LF or SF
       - $500
-    * - 1000 to 4999 LF or SF
+    * - 1,000 to 4,999 LF or SF
       - $700
-    * - 5000 to 9,999 LF or SF
+    * - 5,000 to 9,999 LF or SF
       - $1,100
     * - 10,000 or More LF or SF
       - $1,300
@@ -16316,21 +16316,21 @@ The fees for equipment approvals are as follows:
 
  
 
-(d) For each variance application where the combined amount (total of both square and linear feet on the ACP-7) of ACM is less than 5000 feet, payment of the variance processing fee shall accompany the application and shall conform with the payment schedule as follows:
+(d) For each variance application where the combined amount (total of both square and linear feet on the ACP-7) of ACM is less than 5,000 feet, payment of the variance processing fee shall accompany the application and shall conform with the payment schedule as follows:
 
    (1) Request to modify no more than one lettered subsection in any section category listed in subsection (e) below: $400 fee.
 
    (2) For each additional subsection in any category listed in subsection (e): $200 fee.
 
-   (3) The maximum fee: $1200.
+   (3) The maximum fee: $1,200.
 
-(e) For each variance application where the combined amount (total of both square and linear feet on the ACP-7) of ACM is greater than or equal to 5000 feet, payment of the variance processing fee shall accompany the application and shall conform with the payment schedule as follows:
+(e) For each variance application where the combined amount (total of both square and linear feet on the ACP-7) of ACM is greater than or equal to 5,000 feet, payment of the variance processing fee shall accompany the application and shall conform with the payment schedule as follows:
 
    (1) Request to modify no more than one lettered subsection in any section category listed in subsection (e): $600.
 
    (2) For each additional subsection in any category listed in subsection (e): $300.
 
-   (3) The maximum fee: $1800.
+   (3) The maximum fee: $1,800.
 
 (e) Section categories shall be as follows:
 

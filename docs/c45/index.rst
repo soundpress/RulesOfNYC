@@ -422,7 +422,7 @@ Smoking, possessing or throwing away lighted material or tobacco is prohibited. 
 
    (3) That the surface of the airport intended for the takeoff, landing and taxiing of aircraft is firm and suitable.
 
-   (4) The markings, each constructed and painted so as to be readily discernible from the air at a minimum height of 3000 feet, to be in conformity with Federal Aviation Administration standards.
+   (4) The markings, each constructed and painted so as to be readily discernible from the air at a minimum height of 3,000 feet, to be in conformity with Federal Aviation Administration standards.
 
    (5) That the location of the proposed airport, and the volume, character and direction of the traffic thereat will not endanger the lives and property of persons operating aircraft on or near existing airports and of occupants of land in their vicinity, nor tend to destroy or impair the utility of such airports and the investment therein; and that, in relation to existing airports, the proposed airport conforms to all spacing requirements and safety standards of applicable Federal and State laws and regulations.
 
@@ -562,7 +562,7 @@ In order to afford better relief and protection to the public from unnecessary s
 
    (1) An altitude allowing, if a power unit fails, an emergency landing in the waterways of the City.
 
-   (2) An altitude of 1000 feet above the highest obstacle or within a horizontal radius of 1000 feet of the aircraft, except over open water.
+   (2) An altitude of 1,000 feet above the highest obstacle or within a horizontal radius of 1,000 feet of the aircraft, except over open water.
 
 
 

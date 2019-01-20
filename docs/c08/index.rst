@@ -1926,7 +1926,7 @@ Wholesaler or wholesale business. "Wholesaler" or "wholesale business" shall mea
 
 (a) A registration shall be valid for three (3) years and may be renewed for three (3) year periods thereafter.
 
-(b) The fee for registration shall be four thousand dollars , and the fee for renewal of such registration shall be four thousand dollars .
+(b) The fee for registration shall be four thousand dollars ($4,000), and the fee for renewal of such registration shall be four thousand dollars ($4,000).
 
 (c) The fee for a permanent photo identification card shall be one hundred dollars ($100), and the fee for the replacement of a photo identification card that has been lost or stolen shall be twenty dollars ($20). The Chairperson may waive the fee for a permanent photo identification card if the applicant has applied for and paid the fee for a photo identification within the last six (6) months.
 
@@ -2814,7 +2814,7 @@ Wholesaler or wholesale seafood business. "Wholesaler" or "wholesale seafood bus
 
    (1) License term. An unloading or loading license issued pursuant to this subchapter shall be valid for two (2) years and may be extended for an additional (1) year at the discretion of the Commission. A temporary license issued pursuant to subdivision 22-204(g) or 22-206(g) shall be valid for a period not to exceed one (1) year, provided that such license shall not extend beyond the remainder of the term of the original license.
 
-   (2) License fee. The fee for an unloading or loading license shall be seven thousand five hundred dollars  and the fee for extension of such license for an additional year shall be three thousand seven hundred and fifty dollars . The fee for a temporary license shall be prorated to the term of an original license.
+   (2) License fee. The fee for an unloading or loading license shall be seven thousand five hundred dollars ($7,500) and the fee for extension of such license for an additional year shall be three thousand seven hundred and fifty dollars . The fee for a temporary license shall be prorated to the term of an original license.
 
    (3) Disclosure fee for principals of license applicants. The fee for each principal disclosure in connection with an unloading or loading license shall be six hundred dollars ($600).
 
@@ -2822,7 +2822,7 @@ Wholesaler or wholesale seafood business. "Wholesaler" or "wholesale seafood bus
 
    (1) Registration term. A wholesale seafood business or a seafood delivery business registration issued pursuant to this subchapter shall be valid for two (2) years, and may be renewed for two (2)-year periods thereafter.
 
-   (2) Registration fee. The fee for registration of a wholesale seafood business or a seafood delivery business shall be four thousand dollars  and the fee for renewal of such registration shall be four thousand dollars .
+   (2) Registration fee. The fee for registration of a wholesale seafood business or a seafood delivery business shall be four thousand dollars ($4,000) and the fee for renewal of such registration shall be four thousand dollars ($4,000).
 
 (c) Stand permits.
 
@@ -4090,7 +4090,7 @@ Unless otherwise provided in this subchapter, the terms used herein shall have t
 
 (a) Registration term. A wholesale seafood business registration issued pursuant to this subchapter shall be valid for two years, and may be renewed for two-year periods thereafter.
 
-(b) Registration fee. The fee for registration of a wholesale seafood business shall be four thousand dollars  and the fee for renewal of such registration shall be four thousand dollars .
+(b) Registration fee. The fee for registration of a wholesale seafood business shall be four thousand dollars ($4,000) and the fee for renewal of such registration shall be four thousand dollars ($4,000).
 
 
 
@@ -4287,7 +4287,7 @@ The Commission may designate the cooperative association of any market area to i
 
 (a) A registration issued pursuant to this subchapter shall be valid for three (3) years, and may be renewed for three (3)-year periods thereafter.
 
-(b) The fee for registration of a market business shall be four thousand dollars , and the fee for renewal of such registration shall be four thousand dollars .
+(b) The fee for registration of a market business shall be four thousand dollars ($4,000), and the fee for renewal of such registration shall be four thousand dollars ($4,000).
 
 (c) The fee for photo identification cards and temporary photo identification cards shall be one hundred dollars ($100).
 
@@ -4381,7 +4381,7 @@ Notwithstanding the foregoing provisions, the Chairperson may, if he or she has 
 
 (b) A registration issued pursuant to this chapter shall be valid for three (3) years, and may be renewed for three (3)-year periods thereafter.
 
-(c) The fee for registration of a labor union or labor organization shall be four thousand dollars  and the fee for renewal of such registration shall be four thousand dollars .
+(c) The fee for registration of a labor union or labor organization shall be four thousand dollars ($4,000) and the fee for renewal of such registration shall be four thousand dollars ($4,000).
 
 
 
