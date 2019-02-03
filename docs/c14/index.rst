@@ -4849,7 +4849,7 @@ Maximum Allowance for All Buildings
       - sq. ft.
       - 4.00
       - 4.00
-    * -    *
+    * -  *
       - (11)
       - Abatement of lead-based paint hazards6
       -  
@@ -4867,19 +4867,19 @@ Maximum Allowance for All Buildings
       -  
       -  
       -  
-    * -    *
+    * -  *
       - (13)
       -  Main entrance and lobby
       - set
       - 4,000.00
       - 4,000.00
-    * -    *
+    * -  *
       - (14)
       -  Hollow metal
       - doors
       - 475.00
       - 475.00
-    * -    **
+    * -  **
       - (15)
       -  Storm
       - doors
@@ -4897,7 +4897,7 @@ Maximum Allowance for All Buildings
       - risers
       - 225.00
       - 225.00
-    * -    *
+    * -  *
       - (18)
       - Fire escapes
       - flights
@@ -4909,7 +4909,7 @@ Maximum Allowance for All Buildings
       - joists
       - 165.00
       - 165.00
-    * -    **
+    * -  **
       - (20)
       - Insulation, wall (thermal only)
       - sq. ft.
@@ -4921,7 +4921,7 @@ Maximum Allowance for All Buildings
       - floors
       - 40.00
       - 72.10
-    * -    *
+    * -  *
       - (22)
       - Lintel replacement
       - units
@@ -4963,7 +4963,7 @@ Maximum Allowance for All Buildings
       - lin. ft.
       - 25.00
       - 30.14
-    * -    *
+    * -  *
       - (29)
       - Refuse chute, complete
       - floors
@@ -4993,31 +4993,31 @@ Maximum Allowance for All Buildings
       - lbs.
       - 1.50
       - 1.50
-    * -    **
+    * -  **
       - (34)
       - Window, insulating glass
       - units
       - 175.00
       - 367.50
-    * -    **
+    * -  **
       - (35)
       - Window, insulating glass over 24 sf
       - sq. ft.
       - 10.00
       - 21.00
-    * -    **
+    * -  **
       - (36)
       - Window, storm with screen
       - units
       - 65.00
       - 65.00
-    * -    *
+    * -  *
       - (37)
       - Window guards, approved security
       - units
       - 175.00
       - 175.00
-    * -    *
+    * -  *
       - (38)
       - Window guards, childproof
       - units
@@ -5047,13 +5047,13 @@ Maximum Allowance for All Buildings
       - 
       - 
       - 
-    * -    *
+    * -  *
       - (1)
       - New elevator, complete
       - units + floors
       - 45,000.00 + 7,000.00 
       - 45,000.00 + 7,000.00
-    * -    *
+    * -  *
       - (2)
       - Convert manual to automatic10
       - units
@@ -5065,55 +5065,55 @@ Maximum Allowance for All Buildings
       -  
       -  
       -  
-    * -    *
+    * -  *
       - (3)
       -  Motor11
       - motor
       - 3,500.00
       - 3,500.00
-    * -    *
+    * -  *
       - (4)
       -  Traction machine11
       - units
       - 10,000.00
       - 10,000.00
-    * -    *
+    * -  *
       - (5)
       -  Two-speed or variable controller11
       - each
       - 8,000.00
       - 8,000.00
-    * -    *
+    * -  *
       - (6)
       -  Cables
       - floors
       - 400.00
       - 400.00
-    * -    *
+    * -  *
       - (7)
       -  Shaftway floor
       - doors
       - 800.00
       - 800.00
-    * -    *
+    * -  *
       - (8)
       -  Floor call station
       - floors
       - 200.00
       - 200.00
-    * -    *
+    * -  *
       - (9)
       -  Interlocks
       - each
       - 280.00
       - 280.00
-    * -    *
+    * -  *
       - (10)
       -  Door operator
       - units
       - 2,500.00
       - 2,500.00
-    * -    *
+    * -  *
       - (11)
       - Car reline cab
       - units
@@ -5161,13 +5161,13 @@ Maximum Allowance for All Buildings
       -  
       -  
       -  
-    * -    *
+    * -  *
       - (3)
       -  Water main, risers, branches
       - d.u.
       - 1,700.00
       - 3,570.00
-    * -    *
+    * -  *
       - (4)
       -  Waste and vent (complete)
       - d.u.
@@ -5185,13 +5185,13 @@ Maximum Allowance for All Buildings
       - lin. ft.
       - 200.00
       - 200.00
-    * -    *
+    * -  *
       - (7)
       -  Gas, risers and connections
       - d.u.
       - 275.00
       - 287.70
-    * -    *
+    * -  *
       - (8)
       - Sprinklers, piping and heads
       - heads
@@ -5203,7 +5203,7 @@ Maximum Allowance for All Buildings
       - floor
       - 600.00
       - 1,260.00
-    * -    *
+    * -  *
       - (10)
       - Tank, water storage
       - gallon
@@ -5275,7 +5275,7 @@ Maximum Allowance for All Buildings
       - gallon
       - See table
       - See table
-    * -    *
+    * -  *
       - (8)
       - Piping, heat mains, risers, branch
       - rooms
@@ -5305,19 +5305,19 @@ Maximum Allowance for All Buildings
       - 
       - 
       - 
-    * -    *
+    * -  *
       -  (1)
       - All new apartment wiring
       - d.u. + room
       - 400.00 + 420.00* 
       - 400.00 + 420.00*
-    * -    *
+    * -  *
       -  (2)
       - Apartment wiring only, adequate(risers and meters separate)
       - d.u.
       - 370.00
       - 370.00
-    * -    *
+    * -  *
       -  (3)
       - Service equipment and risers
       -  
@@ -5325,23 +5325,23 @@ Maximum Allowance for All Buildings
       -  
     * -  
       -  
-      -   Electric service equipment
+      -  Electric service equipment
       -  
       -  
       -  
-    * -    *
+    * -  *
       -  
       -     with individual meter
       - entry + d.u.
       - 1,500.00 + 160.00
       - 1,500.00 + 160.00
-    * -    *
+    * -  *
       -  
       -     with master meter
       - entry + d.u.
       - 1,500.00 + 110.00
       - 1,500.00 + 110.00
-    * -    *
+    * -  *
       -  
       -   Apartment panel
       - d.u.
@@ -5353,13 +5353,13 @@ Maximum Allowance for All Buildings
       -  
       -  
       -  
-    * -    *
+    * -  *
       -  
       -     with individual meter
       - d.u.
       - 500.00
       - 500.00
-    * -    *
+    * -  *
       -  
       -     with master meter
       - d.u.
@@ -5371,13 +5371,13 @@ Maximum Allowance for All Buildings
       - circuit
       - 100.00
       - 100.00
-    * -    *
+    * -  *
       -  (5)
       - Smoke / carbon monoxide detector combination (hard wired)
       - d.u.
       - 100.00
       - 100.00
-    * -    *
+    * -  *
       -  (6)
       - Submetering installation14
       - d.u.
@@ -5578,151 +5578,151 @@ Items of work listed on this schedule only per 28 RCNY § 5-03(a)(5)
       - 
       - 
       - 
-    * -    *
+    * -  *
       - (1)
       - Inspection for Lead-Based Paint Hazards16
       - d.u. common area17
       - 400.00
       - 400.00 
-    * -    *
+    * -  *
       - (2)
       - Risk Assessment of Lead-Based Paint Hazards16
       - d.u. common area18
       - 250.00
       - 250.00
-    * -    *
+    * -  *
       - (3)
       - Ceilings, lamination
       - rooms
       - 320.00
       - 420.00
-    * -    *
+    * -  *
       - (4)
       - Ceilings, common area, lamination
       - sq. ft.
       - 1.80
       - 2.50
-    * -    *
+    * -  *
       - (5)
       - Doors (incl. frame and hardware), main entrance and lobby
       - set
       - 4,600.00
       - 5,000.00
-    * -    *
+    * -  *
       - (6)
       - Doors (incl. frame and hardware), hollow metal
       - doors
       - 550.00
       - 800.00
-    * -    *
+    * -  *
       - (7)
       - Doors (incl. frame and hardware), wood swing
       - doors
       - 155.00
       - 350.00
-    * -    *
+    * -  *
       - (8)
       - Doors (incl. frame and hardware), bi- fold closet
       - bi-fold
       - 125.00
       - 300.00
-    * -    *
+    * -  *
       - (9)
       - Sliding closet (2 doors, incl. frame and hardware)
       - set
       - 145.00
       - 300.00
-    * -    *
+    * -  *
       - (10)
       - Flooring, finished wood
       - rooms
       - 575.00
       - 1,250.00
-    * -    *
+    * -  *
       - (11)
       - Flooring, resilient w/underlayment
       - rooms
       - 515.00
       - 585.00
-    * -    *
+    * -  *
       - (12)
       - Partitions, gypsum board or plaster
       - rooms
       - 690.00
       - 1,170.00
-    * -    *
+    * -  *
       - (13)
       - Partitions, common area
       - sq. ft.
       - 1.80
       - 2.50
-    * -    *
+    * -  *
       - (14)
       - Stairs, steel (incl. risers, pans, railings, stringers, &amp; newel posts), stripped
       - steps
       - 45.00
       - 60.00
-    * -    *
+    * -  *
       - (15)
       - Window, insulating glass
       - units
       - 200.00
       - 425.00
-    * -    *
+    * -  *
       - (16)
       - Window, insulating glass over 24 sf
       - sq. ft.
       - 12.00
       - 30.00
-    * -    *
+    * -  *
       - (17)
       - Convectors or radiators, new
       - units
       - 260.00
       - 275.00
-    * -    *
+    * -  *
       - (18)
       - Convectors or radiators, stripped
       - units
       - 115.00
       - 150.00
-    * -    *
+    * -  *
       - (19)
       - Risers, stripped
       - lin. ft.
       - 15.00
       - 20.00
-    * -    *
+    * -  *
       - (20)
       - Kitchen cabinets19
       - lin. ft.
       - 65.00
       - 75.00
-    * -    *
+    * -  *
       - (21)
       - Kitchen cabinets, base &amp; counter19
       - lin. ft.
       - 80.00
       - 105.00
-    * -    *
+    * -  *
       - (22)
       - Medicine cabinets (incl. mirror)20
       - units
       - 95.00
       - 125.00
-    * -    *
+    * -  *
       - (23)
       - Remove and install window sill
       - units
       - 115.00
       - 150.00
-    * -    *
+    * -  *
       - (24)
       - Remove and install baseboard, wood molding
       - lin. ft.
       - 2.50
       - 3.50
-    * -    *
+    * -  *
       - (25)
       - Remove and install closet shelf and pole
       - set

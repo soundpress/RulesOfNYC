@@ -3413,83 +3413,6 @@ This subchapter applies to claims for personal property recovered in the vicinit
 
 
 
-Chapter 14: Fees
---------------------------------------------------
-
-
-
-*§ 14-01 Vehicle Accident Photograph Request.* ::
-
-
-The fee for provision of authorized persons with motor vehicle accident photographs shall be fifteen dollars ($15) for each set of photographs requested.
-
-
-
-
-
-
-*§ 14-02 Vehicles or Boats in Police Custody.* ::
-
-
-(a) Definition. Vehicle or boat in police custody. A motor vehicle or boat abandoned, involved in an accident, or an unoccupied boat found adrift which has been taken to a department facility. (Does not include motor vehicles or boats impounded as evidence.)
-
-(b) Collection of fees. When the owner or person lawfully entitled to possession appears at a Police Department facility to claim a vehicle or boat; the following fees will be collected:
-
-   (1) A fee of $25.00 if department tow or launch removes a vehicle or boat in police custody.
-
-   (2) A storage fee of $5.00 per day or part of day for an abandoned vehicle or boat or a vehicle or boat involved in accident. (No storage fee will be imposed for the day a vehicle or boat is delivered to a department facility.)
-
-   (3) A $5.00 charge per day or part of day commencing three (3) days after notice to owner by registered mail for an unoccupied boat found adrift or a stolen vehicle or boat.
-
-
-
-
-
-
-*§ 14-03 Removal and Storage Fees for Licensed Vendors Equipment and Goods.* ::
-
-
-When the owner or person lawfully entitled to possession of a peddler's vehicle, cart, stand or goods appears at a Police Department facility to claim property, the following fees shall be collected:
-
-(a) 1) Vehicle, cart, stand removed by Department vehicle – $65.00
-
-   (2) Vehicle, cart, stand not removed by Department vehicle – $20.00
-
-   (3) Goods taken into custody with vendor's vehicle, cart, stand – $10.00
-
-   (4) Goods only seized – $20.00.
-
-(b) If goods/food and vehicle, carts, stand, etc., are stored separately, a separate storage fee will be charged for each: a storage fee of $5.00 per day or part of day.
-
-(c) Storage fee will not be imposed for the day the vehicle, cart, stand or goods/food are initially delivered to the station house.
-
-(d) Return of seized property. 
-
-   (1) A vehicle, cart, stand, or goods will not be released to an owner or his representative who alleges it was stolen and refuses to pay removal/storage charges.
-
-   (2) The seized property of a licensed general vendor will be returned upon demand and without the payment of any fee, when the vendor produces a valid general vendors license. An appropriate entry will be made in the "Remarks" section of the Property Clerk's Invoice.
-
-(e) Retention of seized property. Pushcarts, stands, and/or merchandise removed from an unlicensed peddler will not be returned to the claimant upon payment of removal and storage fees, but will become the subject of forfeiture proceedings per Patrol Guide procedure 113-41, "Unlicensed Peddler Forfeiture Program."
-
-
-
-
-
-
-*§ 14-04 Fees For Non-Criminal Fingerprinting.* ::
-
-
-When a person requests a member of the Department to take his or her fingerprints for purposes not related to criminal proceedings, the following fees shall be collected:
-
-(a) Twenty-five ($25.00) dollars for first set of fingerprints.
-
-(b) One ($1.00) dollar for each additional set of prints taken at the time the first set of fingerprints is taken.
-
-(c) The above fees shall be tendered at the time of fingerprinting by Money Order or Certified Check made payable to the New York City Police Department, or a valid credit card.
-
-
-
-
 Chapter 13: Special Patrolmen
 --------------------------------------------------
 
@@ -3683,135 +3606,79 @@ Chapter 13: Special Patrolmen
 
 
 
-Chapter 16: Transport Or Delivery of Weapons
+Chapter 14: Fees
 --------------------------------------------------
 
 
 
-*§ 16-01 Definitions.* ::
+*§ 14-01 Vehicle Accident Photograph Request.* ::
 
 
-License Division. The term "License Division" shall mean the License Division of the New York City Police Department.
+The fee for provision of authorized persons with motor vehicle accident photographs shall be fifteen dollars ($15) for each set of photographs requested.
 
-Person. The term "person" shall mean an individual, firm, partnership, corporation, company or other business entity, and shall include any common or contract carrier, shipper, transport company, weapons manufacturer, distributor or dealer.
 
-Police Commissioner. The term "Police Commissioner" shall mean the Police Commissioner of the City of New York or her/his designee(s).
 
-Transitory Shipment. For purposes of this chapter, the term "transitory shipment" shall mean a shipment which begins outside of the City of New York, and moves continuously and without interruption through the City of New York to a final destination outside of the City of New York. A shipment which is within the City of New York and involves any off-loading of the weapons from one means of transportation, followed by subsequent on-loading of the weapons to another means of transportation, shall not be considered a transitory shipment.
 
-Unanticipated Delay. For purposes of this chapter, the term "unanticipated delay" is an event involving the operator of a vehicle who intended to make a transitory shipment of weapons when s/he entered the City of New York with a shipment of weapons, and having done so, has experienced an unexpected mechanical problem, or other unexpected condition or set of circumstances which causes the operator to remain within the City, and off of a limited access highway, for a period of greater than one hour.
 
-Weapon. For purposes of this chapter, the term "weapon" shall mean a "firearm," "rifle," "shotgun," or "machine-gun," as those terms are defined in § 265.00 of the New York State Penal Law and shall also include anything that is defined as an "assault weapon" in § 10-301 of the New York City Administrative Code.
 
-Weapons Dealer. For purposes of this chapter, the term "weapons dealer" shall mean any person, firm, partnership, corporation or company who engages in the business of purchasing, selling, keeping for sale, loaning, leasing, or in any manner disposing of any weapon as defined in this chapter and who is licensed by the Police Commissioner pursuant to Article 400 of the New York State Penal Law and/or § 10-302 of the New York City Administrative Code.
+*§ 14-02 Vehicles or Boats in Police Custody.* ::
 
 
+(a) Definition. Vehicle or boat in police custody. A motor vehicle or boat abandoned, involved in an accident, or an unoccupied boat found adrift which has been taken to a department facility. (Does not include motor vehicles or boats impounded as evidence.)
 
+(b) Collection of fees. When the owner or person lawfully entitled to possession appears at a Police Department facility to claim a vehicle or boat; the following fees will be collected:
 
+   (1) A fee of $25.00 if department tow or launch removes a vehicle or boat in police custody.
 
+   (2) A storage fee of $5.00 per day or part of day for an abandoned vehicle or boat or a vehicle or boat involved in accident. (No storage fee will be imposed for the day a vehicle or boat is delivered to a department facility.)
 
-*§ 16-02 Applicability.* ::
+   (3) A $5.00 charge per day or part of day commencing three (3) days after notice to owner by registered mail for an unoccupied boat found adrift or a stolen vehicle or boat.
 
 
-This chapter shall apply to all persons who transport or deliver one or more weapons into or within any location in the City of New York, except that it shall not apply to:
 
-(a) the transitory shipment of weapons through New York City to a final destination outside of New York City. However, if the operator of the vehicle containing a transitory shipment of weapons experiences an unanticipated delay as that term is defined in 38 RCNY § 16-01, such operator shall immediately report to the nearest Police Department facility the following information:
 
-   (1) her/his current location;
 
-   (2) the location of the transporting vehicle;
 
-   (3) the cause of the unanticipated delay;
+*§ 14-03 Removal and Storage Fees for Licensed Vendors Equipment and Goods.* ::
 
-   (4) the expected duration of the shipment's presence in the City; and
 
-   (5) how the shipment shall be secured during its stay in the City. In the case of such delay, the officer receiving such notice may direct the vehicle operator to take reasonably necessary measures to secure the weapons shipment, or the officer may seize and secure the weapons until such time that the shipper makes alternative arrangements which are acceptable to the officer.
+When the owner or person lawfully entitled to possession of a peddler's vehicle, cart, stand or goods appears at a Police Department facility to claim property, the following fees shall be collected:
 
-(b) the shipment or delivery of five (5) or fewer weapons from one licensed weapons dealer located in New York City directly to another licensed weapons dealer located in New York City. However, the manner of storage of such weapons during their transportation shall be in compliance with 38 RCNY § 16-05.
+(a) 1) Vehicle, cart, stand removed by Department vehicle – $65.00
 
+   (2) Vehicle, cart, stand not removed by Department vehicle – $20.00
 
+   (3) Goods taken into custody with vendor's vehicle, cart, stand – $10.00
 
+   (4) Goods only seized – $20.00.
 
+(b) If goods/food and vehicle, carts, stand, etc., are stored separately, a separate storage fee will be charged for each: a storage fee of $5.00 per day or part of day.
 
+(c) Storage fee will not be imposed for the day the vehicle, cart, stand or goods/food are initially delivered to the station house.
 
-*§ 16-03 Authorization to Transport or Deliver Firearms.* ::
+(d) Return of seized property. 
 
+   (1) A vehicle, cart, stand, or goods will not be released to an owner or his representative who alleges it was stolen and refuses to pay removal/storage charges.
 
-(a) No person shall transport or deliver, or cause to be transported or delivered, weapons into or within the City of New York where s/he knows or has reasonable means of ascertaining what s/he is transporting, without first obtaining written authorization to do so from the Police Commissioner.
+   (2) The seized property of a licensed general vendor will be returned upon demand and without the payment of any fee, when the vendor produces a valid general vendors license. An appropriate entry will be made in the "Remarks" section of the Property Clerk's Invoice.
 
-(b) A request by any person for authorization to transport or deliver weapons shall be made in writing to the Commanding Officer, License Division, New York City Police Department, One Police Plaza, Room 110A, New York, New York 10038, or by Facsimile transmission (212) 374-2828, so as to be received by the License Division at least ten (10) calendar days prior to the transportation within the City of New York. Such request shall include the following information:
+(e) Retention of seized property. Pushcarts, stands, and/or merchandise removed from an unlicensed peddler will not be returned to the claimant upon payment of removal and storage fees, but will become the subject of forfeiture proceedings per Patrol Guide procedure 113-41, "Unlicensed Peddler Forfeiture Program."
 
-   (1) The name and address of the source of the shipment of weapons. If the source is a corporation, the name of the president or authorized representative of such corporation shall be included.
 
-   (2) The number of weapons, including the manufacturer's name, caliber, and model identification, for each type of weapon being transported.
 
-   (3) The name of the shipping company, if different from the source of the shipment, including the address and telephone number of the company's headquarters.
 
-   (4) The day, date, and the estimated time and place of arrival of the shipment into New York City.
 
-   (5) The name, address, and weapons dealer's or gunsmith's license number of the person authorized to receive the shipment in New York City.
 
-   (6) The type of vehicle to be used by the source of the shipment, or the shipping company, including any distinctive company logos or markings on the vehicle.
+*§ 14-04 Fees For Non-Criminal Fingerprinting.* ::
 
-   (7) A photocopy of the driver's license of the person scheduled to make the delivery, and a photocopy of the driver's license of an alternate driver who may be required by the source of the shipment, or the shipping company, to substitute for the principally scheduled delivery person.
 
-   (8) The application for permission to transport weapons shall contain the following statement, subscribed and sworn to by the applicant before a notary public, commissioner of deeds, or other comparable official: "I, __________, the applicant for permission to transport weapons within or through the City of New York, state that such weapons shall be transported in an unloaded condition, and in a manner that conforms with 38 RCNY § 16-05, and if upon inspection of the contents of the transporting vehicle it is discovered that such weapons are not secured in a manner conforming with said section, then any permission issued by virtue of this application shall be void and deemed to have never been granted, and it is understood that I and any of my agents, employees, or assignees, may be prosecuted for transporting weapons without permission pursuant to the New York State Penal Law and the New York City Administrative Code, and that the property being transported as well as the means of transport may be seized and forfeited pursuant to law."
+When a person requests a member of the Department to take his or her fingerprints for purposes not related to criminal proceedings, the following fees shall be collected:
 
-(c) If a person seeking permission to transport a weapon pursuant to this section is utilizing a shipping company or other delivery service and is unable to provide information relevant to paragraphs (4), (6) or (7) of subdivision (b) of this section, a separate request for permission to transport shall be submitted by the shipping company or delivery service, which shall include the required information.
+(a) Twenty-five ($25.00) dollars for first set of fingerprints.
 
-(d) Upon receiving a request for authorization to transport or deliver weapons, the Police Commissioner shall cause to be conducted a review of Police Department records to ascertain whether the intended recipient of the weapons shipment or delivery is an authorized person, and whether there exists any information which would otherwise provide a basis for denying authorization to receive such weapons shipment. The Police Commissioner or her/his designee shall then notify the requesting person that such authorization has or has not been granted.
+(b) One ($1.00) dollar for each additional set of prints taken at the time the first set of fingerprints is taken.
 
-(e) In addition to any other applicable penalties, the Police Commissioner may deny an application submitted pursuant to this chapter if the applicant has previously failed to comply with the provisions of this chapter.
-
-
-
-
-
-
-*§ 16-04 Surrender of Firearms Not Authorized for Transportation or Delivery.* ::
-
-
-Any person who transports or delivers weapons without obtaining authorization pursuant to the requirements of this chapter shall be liable for the penalties set forth in Article 265 of the New York State Penal Law and the New York City Administrative Code, and shall further be directed by any member of the Police Department to surrender the weapons to the Police Department. In addition, the property being transported, as well as the means of transport, may be seized and forfeited pursuant to law.
-
-
-
-
-
-
-*§ 16-05 Required Security Measures for Weapons Shipments in Transit.* ::
-
-
-Any person, corporation, partnership, or other business entity using a vehicle to transport weapons within or through the City of New York shall, at a minimum, employ the following security measures while such weapons are in transit:
-
-(a) All weapons shall be transported unloaded.
-
-(b) All weapons shall be placed in one or more containers located within the vehicle used for transportation of the weapons. Such containers shall be constructed of materials of such a sturdy character that when the container is closed and locked, it cannot be forced open by hands alone, or sliced open with a common tool such as a knife or box cutter.
-
-(c) The above referenced container(s) shall be securely fastened, with a combination or key locking device, to the interior body structure of the transporting vehicle, in such a manner that the containers cannot be manually removed without releasing the locks.
-
-(d) Such containers, while in transit and carrying weapons, shall be closed and locked with a heavy-duty combination or key-type lock.
-
-(e) Ammunition shall not be stored in the same container as weapons.
-
-(f) At all times other than loading and unloading, the cargo area of the transporting vehicle in which all of the above referenced containers shall be stored shall be closed and locked with a heavy-duty combination or key-type lock.
-
-(g) The driver of the transporting vehicle shall carry a manifest which declares the numbers and types of weapons being transported, and the intended point of delivery. Such manifest shall not be considered valid unless it shall have written upon it the permission serial number issued by the New York City Police Department License Division.
-
-(h) 1) The Police Commissioner may require, as a condition of the authorization to transport or deliver weapons, that shipments of weapons which will be off-loaded from one means of transportation and subsequently on-loaded to the same means or another means of transportation within the city of New York, be escorted by a uniformed member of the New York City Police Department, from the time of on-loading until such point that the shipment has left the jurisdictional boundaries of the City of New York.
-
-   (2) If the Police Commissioner elects to impose the escort requirement as a condition of the authorization to transport or deliver weapons, the applicant shall notify the Commanding Officer, License Division, of the day, date, estimated time and place of on-loading of the shipment to the second means of transportation. The escort requirement shall be deemed waived if the escort is not present at the place within the City of New York where the weapons will be on-loaded within thirty minutes of the shipment's estimated time of on-loading and departure.
-
-
-
-
-
-
-*§ 16-06 Requirement to Report Theft, Loss or Misdelivery.* ::
-
-
-(a)  Any person, firm, corporation, or other business entity who has received permission to transport weapons pursuant to the provisions of this chapter, and who suffers a loss or theft of any part of her/his weapons shipment while it is located within New York City, shall forthwith report such loss or theft to the nearest Police Department facility and shall comply with all reasonable requests for assistance by police officers who investigate the circumstances of the loss or theft.
-
-(b) Any person, firm, corporation or other business entity who has received permission to transport weapons pursuant to the provisions of this chapter, and who knows or reasonably should know that any part of her/his weapons shipment was delivered to a person other than the person designated in 38 RCNY § 16-03(b)(5), shall forthwith report such misdelivery to the Police Department's Operations Unit, at (212) 374-5580.
+(c) The above fees shall be tendered at the time of fingerprinting by Money Order or Certified Check made payable to the New York City Police Department, or a valid credit card.
 
 
 
@@ -4276,6 +4143,139 @@ Suspension. The term "Suspension" shall mean temporary removal of a license and 
 
 
 Appropriate penalties may be imposed upon a licensee including suspension or revocation of the license.
+
+
+
+
+Chapter 16: Transport Or Delivery of Weapons
+--------------------------------------------------
+
+
+
+*§ 16-01 Definitions.* ::
+
+
+License Division. The term "License Division" shall mean the License Division of the New York City Police Department.
+
+Person. The term "person" shall mean an individual, firm, partnership, corporation, company or other business entity, and shall include any common or contract carrier, shipper, transport company, weapons manufacturer, distributor or dealer.
+
+Police Commissioner. The term "Police Commissioner" shall mean the Police Commissioner of the City of New York or her/his designee(s).
+
+Transitory Shipment. For purposes of this chapter, the term "transitory shipment" shall mean a shipment which begins outside of the City of New York, and moves continuously and without interruption through the City of New York to a final destination outside of the City of New York. A shipment which is within the City of New York and involves any off-loading of the weapons from one means of transportation, followed by subsequent on-loading of the weapons to another means of transportation, shall not be considered a transitory shipment.
+
+Unanticipated Delay. For purposes of this chapter, the term "unanticipated delay" is an event involving the operator of a vehicle who intended to make a transitory shipment of weapons when s/he entered the City of New York with a shipment of weapons, and having done so, has experienced an unexpected mechanical problem, or other unexpected condition or set of circumstances which causes the operator to remain within the City, and off of a limited access highway, for a period of greater than one hour.
+
+Weapon. For purposes of this chapter, the term "weapon" shall mean a "firearm," "rifle," "shotgun," or "machine-gun," as those terms are defined in § 265.00 of the New York State Penal Law and shall also include anything that is defined as an "assault weapon" in § 10-301 of the New York City Administrative Code.
+
+Weapons Dealer. For purposes of this chapter, the term "weapons dealer" shall mean any person, firm, partnership, corporation or company who engages in the business of purchasing, selling, keeping for sale, loaning, leasing, or in any manner disposing of any weapon as defined in this chapter and who is licensed by the Police Commissioner pursuant to Article 400 of the New York State Penal Law and/or § 10-302 of the New York City Administrative Code.
+
+
+
+
+
+
+*§ 16-02 Applicability.* ::
+
+
+This chapter shall apply to all persons who transport or deliver one or more weapons into or within any location in the City of New York, except that it shall not apply to:
+
+(a) the transitory shipment of weapons through New York City to a final destination outside of New York City. However, if the operator of the vehicle containing a transitory shipment of weapons experiences an unanticipated delay as that term is defined in 38 RCNY § 16-01, such operator shall immediately report to the nearest Police Department facility the following information:
+
+   (1) her/his current location;
+
+   (2) the location of the transporting vehicle;
+
+   (3) the cause of the unanticipated delay;
+
+   (4) the expected duration of the shipment's presence in the City; and
+
+   (5) how the shipment shall be secured during its stay in the City. In the case of such delay, the officer receiving such notice may direct the vehicle operator to take reasonably necessary measures to secure the weapons shipment, or the officer may seize and secure the weapons until such time that the shipper makes alternative arrangements which are acceptable to the officer.
+
+(b) the shipment or delivery of five (5) or fewer weapons from one licensed weapons dealer located in New York City directly to another licensed weapons dealer located in New York City. However, the manner of storage of such weapons during their transportation shall be in compliance with 38 RCNY § 16-05.
+
+
+
+
+
+
+*§ 16-03 Authorization to Transport or Deliver Firearms.* ::
+
+
+(a) No person shall transport or deliver, or cause to be transported or delivered, weapons into or within the City of New York where s/he knows or has reasonable means of ascertaining what s/he is transporting, without first obtaining written authorization to do so from the Police Commissioner.
+
+(b) A request by any person for authorization to transport or deliver weapons shall be made in writing to the Commanding Officer, License Division, New York City Police Department, One Police Plaza, Room 110A, New York, New York 10038, or by Facsimile transmission (212) 374-2828, so as to be received by the License Division at least ten (10) calendar days prior to the transportation within the City of New York. Such request shall include the following information:
+
+   (1) The name and address of the source of the shipment of weapons. If the source is a corporation, the name of the president or authorized representative of such corporation shall be included.
+
+   (2) The number of weapons, including the manufacturer's name, caliber, and model identification, for each type of weapon being transported.
+
+   (3) The name of the shipping company, if different from the source of the shipment, including the address and telephone number of the company's headquarters.
+
+   (4) The day, date, and the estimated time and place of arrival of the shipment into New York City.
+
+   (5) The name, address, and weapons dealer's or gunsmith's license number of the person authorized to receive the shipment in New York City.
+
+   (6) The type of vehicle to be used by the source of the shipment, or the shipping company, including any distinctive company logos or markings on the vehicle.
+
+   (7) A photocopy of the driver's license of the person scheduled to make the delivery, and a photocopy of the driver's license of an alternate driver who may be required by the source of the shipment, or the shipping company, to substitute for the principally scheduled delivery person.
+
+   (8) The application for permission to transport weapons shall contain the following statement, subscribed and sworn to by the applicant before a notary public, commissioner of deeds, or other comparable official: "I, __________, the applicant for permission to transport weapons within or through the City of New York, state that such weapons shall be transported in an unloaded condition, and in a manner that conforms with 38 RCNY § 16-05, and if upon inspection of the contents of the transporting vehicle it is discovered that such weapons are not secured in a manner conforming with said section, then any permission issued by virtue of this application shall be void and deemed to have never been granted, and it is understood that I and any of my agents, employees, or assignees, may be prosecuted for transporting weapons without permission pursuant to the New York State Penal Law and the New York City Administrative Code, and that the property being transported as well as the means of transport may be seized and forfeited pursuant to law."
+
+(c) If a person seeking permission to transport a weapon pursuant to this section is utilizing a shipping company or other delivery service and is unable to provide information relevant to paragraphs (4), (6) or (7) of subdivision (b) of this section, a separate request for permission to transport shall be submitted by the shipping company or delivery service, which shall include the required information.
+
+(d) Upon receiving a request for authorization to transport or deliver weapons, the Police Commissioner shall cause to be conducted a review of Police Department records to ascertain whether the intended recipient of the weapons shipment or delivery is an authorized person, and whether there exists any information which would otherwise provide a basis for denying authorization to receive such weapons shipment. The Police Commissioner or her/his designee shall then notify the requesting person that such authorization has or has not been granted.
+
+(e) In addition to any other applicable penalties, the Police Commissioner may deny an application submitted pursuant to this chapter if the applicant has previously failed to comply with the provisions of this chapter.
+
+
+
+
+
+
+*§ 16-04 Surrender of Firearms Not Authorized for Transportation or Delivery.* ::
+
+
+Any person who transports or delivers weapons without obtaining authorization pursuant to the requirements of this chapter shall be liable for the penalties set forth in Article 265 of the New York State Penal Law and the New York City Administrative Code, and shall further be directed by any member of the Police Department to surrender the weapons to the Police Department. In addition, the property being transported, as well as the means of transport, may be seized and forfeited pursuant to law.
+
+
+
+
+
+
+*§ 16-05 Required Security Measures for Weapons Shipments in Transit.* ::
+
+
+Any person, corporation, partnership, or other business entity using a vehicle to transport weapons within or through the City of New York shall, at a minimum, employ the following security measures while such weapons are in transit:
+
+(a) All weapons shall be transported unloaded.
+
+(b) All weapons shall be placed in one or more containers located within the vehicle used for transportation of the weapons. Such containers shall be constructed of materials of such a sturdy character that when the container is closed and locked, it cannot be forced open by hands alone, or sliced open with a common tool such as a knife or box cutter.
+
+(c) The above referenced container(s) shall be securely fastened, with a combination or key locking device, to the interior body structure of the transporting vehicle, in such a manner that the containers cannot be manually removed without releasing the locks.
+
+(d) Such containers, while in transit and carrying weapons, shall be closed and locked with a heavy-duty combination or key-type lock.
+
+(e) Ammunition shall not be stored in the same container as weapons.
+
+(f) At all times other than loading and unloading, the cargo area of the transporting vehicle in which all of the above referenced containers shall be stored shall be closed and locked with a heavy-duty combination or key-type lock.
+
+(g) The driver of the transporting vehicle shall carry a manifest which declares the numbers and types of weapons being transported, and the intended point of delivery. Such manifest shall not be considered valid unless it shall have written upon it the permission serial number issued by the New York City Police Department License Division.
+
+(h) 1) The Police Commissioner may require, as a condition of the authorization to transport or deliver weapons, that shipments of weapons which will be off-loaded from one means of transportation and subsequently on-loaded to the same means or another means of transportation within the city of New York, be escorted by a uniformed member of the New York City Police Department, from the time of on-loading until such point that the shipment has left the jurisdictional boundaries of the City of New York.
+
+   (2) If the Police Commissioner elects to impose the escort requirement as a condition of the authorization to transport or deliver weapons, the applicant shall notify the Commanding Officer, License Division, of the day, date, estimated time and place of on-loading of the shipment to the second means of transportation. The escort requirement shall be deemed waived if the escort is not present at the place within the City of New York where the weapons will be on-loaded within thirty minutes of the shipment's estimated time of on-loading and departure.
+
+
+
+
+
+
+*§ 16-06 Requirement to Report Theft, Loss or Misdelivery.* ::
+
+
+(a)  Any person, firm, corporation, or other business entity who has received permission to transport weapons pursuant to the provisions of this chapter, and who suffers a loss or theft of any part of her/his weapons shipment while it is located within New York City, shall forthwith report such loss or theft to the nearest Police Department facility and shall comply with all reasonable requests for assistance by police officers who investigate the circumstances of the loss or theft.
+
+(b) Any person, firm, corporation or other business entity who has received permission to transport weapons pursuant to the provisions of this chapter, and who knows or reasonably should know that any part of her/his weapons shipment was delivered to a person other than the person designated in 38 RCNY § 16-03(b)(5), shall forthwith report such misdelivery to the Police Department's Operations Unit, at (212) 374-5580.
 
 
 
