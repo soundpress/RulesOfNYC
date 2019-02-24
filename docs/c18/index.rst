@@ -382,7 +382,7 @@ Chapter 4: Traffic Rules and Regulations
 
    Holidays. "Holiday" when used on traffic control devices means the days on which the following holidays are officially celebrated: New Year's Day, Memorial Day, Independence Day, Labor Day, Thanksgiving Day and Christmas Day.
 
-   Horse drawn vehicle. The term "horse drawn vehicle" means a vehicle drawn by a horse and used for the carriage of passengers for compensation. Where signs limit parking to horse drawn vehicles, only those vehicles licensed by the New York City Department of Consumer Affairs will be permitted.
+   Horse drawn cab. The term "horse drawn cab" shall mean a vehicle drawn by a horse and used for the carriage of passengers for compensation in conformance with a New York City Department of Consumer Affairs license. Where signs limit parking to horse drawn cabs, only those cabs licensed by the New York City Department of Consumer Affairs will be permitted.
 
    Impounded vehicle. A vehicle is considered "impounded" when the City of New York takes it into custody by taking any action preventing the free use of the vehicle by the motorist, including, but not limited to, beginning to attach to the vehicle an immobilization device such as a "boot" or a hook on a Department of Transportation tow truck.
 
@@ -1714,7 +1714,9 @@ Chapter 4: Traffic Rules and Regulations
 
 (c) Colored lights prohibited. No operator of a motorcycle or motor vehicle, other than authorized emergency vehicles, shall operate said vehicle when displaying other than white or yellow lights visible from in front of the vehicle. No operator of an authorized emergency vehicle shall operate said vehicle when displaying other than white or yellow lights visible from in front of the vehicle except when actually engaged in emergency service.
 
-(d) Lights on horse-drawn vehicles and pushcarts. No person shall drive a horse-drawn vehicle or propel a pushcart in the roadway between sunset and sunrise unless such vehicle or cart displays a white or yellow light visible from 200 feet directly in front and a red light visible from 200 feet directly to the rear.
+(d) Lights on horse-drawn cabs and pushcarts. No person shall drive a horse-drawn cab or propel a pushcart in the roadway between sunset and sunrise unless such horse drawn cab or pushcart displays a white or yellow light visible from 200 feet directly in front and a red light visible from 200 feet directly to the rear.
+
+
 
 
 
@@ -1934,7 +1936,7 @@ Chapter 4: Traffic Rules and Regulations
 
    (6) Within a bicycle lane.
 
-   (7) Within horse-drawn carriage boarding areas.
+   (7) Within horse-drawn cab passenger boarding areas.
 
 (d) Pickup and discharge of passengers by certain diplomatic and consular vehicles. A vehicle bearing "A", "C" or "D" series license plates issued by the U.S. Department of State and displaying a valid non-transferable service vehicle decal issued by the City of New York that is affixed to the inside of the operator's side of the windshield shall be treated like a for-hire vehicle while actively engaged in and for the purpose of expeditiously picking up or discharging passengers, in a manner that does not obstruct traffic, provided that the operator of such vehicle bearing such "A" "C" or "D" series license plates and displaying such non-transferable service vehicle decal:
 
@@ -2190,6 +2192,25 @@ Chapter 4: Traffic Rules and Regulations
 
 
 .. image:: http://library.amlegal.com/nxt/gateway.dll?f=id$id=rules0-0-0-302-img$3.0$p=
+
+(t) Horse drawn cab passenger boarding areas.
+
+   (1) No person operating a horse drawn cab shall solicit, pick up or discharge passengers at any location other than a location described in paragraph (2) of this subdivision or a location designated by the department by a posted sign as a horse drawn cab passenger boarding area. This subdivision shall not apply to a horse drawn cab ride that is prearranged as described in section 19-174 of the New York City Administrative Code.
+
+   (2) Except as otherwise indicated by a posted sign, operators of horse drawn cabs must expeditiously pick up or discharge passengers only at locations within Central Park indicated by sign and on the map below:
+
+      (i) Grand Army Plaza. In the center lane at the Grand Army Plaza entrance to Central Park.
+
+      (ii) Seventh Avenue Entrance. On the east curb, approximately 20 feet north of Central Park South.
+
+      (iii) Sixth Avenue. Between 59th Street and Center Drive.
+
+
+
+
+.. image:: http://library.amlegal.com/nxt/gateway.dll?f=id$id=rules0-0-0-15765-img$3.0$p=
+
+   (3) Temporary relocation or suspension of horse drawn cab passenger boarding areas in parks. In exceptional circumstances, the Commissioner of Parks and Recreation or the commissioner, subject to approval of the Commissioner of Parks and Recreation, may temporarily relocate or suspend horse drawn cab passenger boarding areas. For purposes of this paragraph, exceptional circumstances shall include, but not be limited to construction, maintenance, unusually heavy pedestrian or bicycle traffic, existence of any obstructions, a parade, demonstration, special event, or other such similar event or occurrence at or near such location. Temporarily relocated horse drawn cab passenger boarding areas shall be located in Central Park and denoted by appropriate signage.
 
 
 

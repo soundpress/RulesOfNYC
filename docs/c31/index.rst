@@ -2071,7 +2071,7 @@ As used in this chapter:
       - 1
     * - Admin. Code § 16-118(1)(a), (b)
       - Littering, Sweep-out, throw-out, spitting
-      - 1st - $752nd - $2503rd - $350
+      - 1st - $752nd - $3003rd - $400
       - 1st – 12nd – 23rd – 3
     * - 56 RCNY § 1-04(c)(1)
       - Littering or unlawful use of park waste receptacle
@@ -2157,11 +2157,11 @@ As used in this chapter:
       - Unauthorized feeding of animals
       - $50
       - 1
-    * - 56 RCNY § 1-04(1)
+    * - 56 RCNY § 1-04(i)
       - Unleashed/uncontroll ed animals in park
       - $100
       - 1
-    * - 56 RCNY § 1-04(1)
+    * - 56 RCNY § 1-04(i)
       - Unleashed/uncontroll ed animals in park – second or subsequent violation within one year
       - $250
       - 2

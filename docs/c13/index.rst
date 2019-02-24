@@ -5321,3 +5321,304 @@ Violations of this Chapter shall be cited and shall have the same penalties impo
 
 
 
+Chapter 33: Operation of Body Scanners in Correctional Facilities
+--------------------------------------------------
+
+
+
+*§ 33-01 Applicability and communications.* ::
+
+
+This chapter applies to body scanners used by the New York City Department of Correction at any correctional facility and must be read in conjunction with New York State Public Health Law section 3502(6) and 24 RCNY Health Code Article 175.
+
+
+
+
+
+
+
+
+*§ 33-02 Definitions.* ::
+
+
+(a) Terms that are defined in 24 RCNY Health Code Article 175 have the same meaning when used in this Chapter unless defined otherwise.
+
+(b) In addition, the following definitions apply:
+
+   "ANSI Standard 42.47" means the American National Standards Institute American National Standard for Measuring the Imaging Performance of X-ray and Gamma Ray Systems for Security Screening of Humans N42.47-2010 or any successor to such standard.
+
+   "ANSI Standard 43.17" means the American National Standards Institute American National Standard Radiation Safety for Personnel Security Screening Systems Using X-Ray or Gamma Radiation, ANSI/HSP N43.17-2009 or any successor to such standard.
+
+   "Body scanner" means a limited-use system or equipment that utilizes a low dose of ionizing radiation to create an anatomical image capable of detecting objects placed on, attached to, or secreted within a person's body.
+
+   "Department" means the New York City Department of Health and Mental Hygiene.
+
+   "Detainee" means an individual in the custody of the New York City Department of Correction.
+
+   "DOC" means the New York City Department of Correction.
+
+   "Health Code" means the New York City Health Code.
+
+   "Minor" means an individual under the age of 18.
+
+   "Occupational dose" means the dose received by an individual in the course of employment in which the individual's assigned duties involve exposure to radiation or to radioactive material from licensed and unlicensed sources of radiation, whether in the possession of the licensee, registrant, or another person. "Occupational dose" does not include a dose received from background radiation, from any medical administration the individual has received, from exposure to individuals administered radioactive material as part of medical treatment, from voluntary participation in medical research programs, or as a member of the public.
+
+   "Public" means any person other than a worker or a subject.
+
+   "Qualified Physicist" means a medical physicist certified by the American Board of Radiology, a New York State-licensed Medical Physicist, or a health physicist certified by the American Board of Health Physics and/or licensed by New York State in medical health physics, all with demonstrated relevant experience in diagnostic subspecialties involving human imaging equipment.
+
+   "Radiation safety manual" means a manual for each body scanner maintained by DOC and available to the Department at any time that contains all documents related to the administration and operational aspects of DOC's radiation safety program, including the documents submitted to register each piece of scanning equipment and any mandated reports and test results.
+
+   "Radiation Safety Officer" means the individual responsible for administrating the radiation protection program for the body scanner described in 24 RCNY § 33-04, the qualifications for which position are the same as for the Qualified Physicist.
+
+   "Reference effective dose" means a quantity based on measureable parameters used by ANSI Standard 43.17 for setting dose limits. It is obtained from air kerma (or exposure) and HVL measurements as described in Section 6.1.3 of ANSI Standard 43.17.
+
+   "Scan" means the operation necessary to produce one image (e.g., front view) from one radiation source. One radiation source simultaneously producing multiple images also constitutes one scan. Two sources simultaneously producing two images constitute two scans. In some cases, several scans may be required for a single screening of a subject.
+
+   "Screening" means the sum of radiation exposures or scans necessary to image objects concealed on all sides of the body as intended by the system design under normal conditions.
+
+   "Subject" means a person being scanned by a body scanner.
+
+   "Technique factors" means the conditions of operating radiation equipment, including the following: (1) the peak kilovoltage applied to the x-ray tube, (2) the electric current passing through the x-ray tube, and (3) the scan time.
+
+   "Worker" means any DOC employee or contracted person whose responsibilities include at least one of the following: initiating or stopping a scan; verifying that body scanner equipment is operating correctly; providing information and instructions to individuals being screened; controlling access to the inspection zone; and interpreting results of scans.
+
+
+
+
+
+
+
+
+*§ 33-03 Registration and Inspections.* ::
+
+
+(a) Registration. Prior to being maintained or operated in a correctional facility, a body scanner must be registered with the Department. A body scanner may be installed at a correctional facility prior to registration solely for the purpose of conducting the testing required for registration. Registrations are valid for two years and may be renewed upon expiration.
+
+(b) Application for registration or renewal. An application to register or renew any body scanner must be made to, and in a manner prescribed by, the Department and must include:
+
+   (1) The name, model number, body scanner technique factors and any other identifying information about the particular piece of body imaging scanning equipment;
+
+   (2) The building and location where the body scanner will be used;
+
+   (3) The security conditions under which the body scanner will be used to ensure that individuals other than the subject are not exposed to radiation; and
+
+   (4) Submission of results of the following tests performed by a qualified physicist:
+
+      (A) A protection survey to demonstrate the radiation level in the immediate surrounding areas including the operators' position. These measurements along with the projected maximum workload, occupancy and other factors must be used to demonstrate compliance with 24 RCNY Health Code § 175.03(c), (d), and (f) standards for protection against ionizing radiation, or any successor regulation. The radiation protection survey must be conducted from different locations in all directions from the body scanner to a location of the point where the radiation level rate is equal or greater than 0.05 mrem in any hour under maximum workload conditions. The radiation protection survey report must be signed by the Qualified Physicist and the individual conducting the survey, and must have an attached calibration report for all instruments used to conduct the radiation survey.
+
+      (B) The estimate of the reference effective dose must be determined according to the relevant sections of Section 6.1.3 of ANSI Standard 43.17 and must demonstrate that during a single scan, an individual will not receive a total reference effective dose greater than 10 uSv.
+
+      (C) All imaging tests conducted by a Qualified Physicist as mandated in 24 RCNY § 33-04 and, if such tests indicate compliance limits are exceeded, then service reports indicating any corrective action conducted on the body scanner and the results of retesting conducted by a Qualified Physicist must be also submitted.
+
+      (D) Any additional documentation requested by the Department.
+
+(c) Inspections.
+
+   (1) Any body scanner subject to the registration requirements of this Chapter will be inspected by the Department to monitor compliance with the provisions of this Chapter. Inspections will be conducted at least annually.
+
+   (2) Re-inspections or other appropriate follow-up activities will be conducted at a frequency determined by the Department to monitor correction of any violation found during an initial inspection and remaining uncorrected at the conclusion thereof.
+
+(d) Orders. The Department may order that a body scanner be immediately shutdown if its operation threatens public health or puts anyone's safety at risk.
+
+
+
+
+
+
+
+
+*§ 33-04 Radiation protection program.* ::
+
+
+DOC must develop, document and implement a radiation protection program commensurate with the scope and extent of operations and sufficient to ensure compliance with the provisions of this Chapter and applicable sections of 24 RCNY Health Code Article 175, or any successor regulation. DOC must follow ANSI Standard 43.17, ANSI Standard 42.47, and the requirements of this section to develop and implement an appropriate safety program for the use of body scanners in a correctional environment. DOC's radiation safety program must address and document each of the following aspects of such program:
+
+(a) Designate a Radiation Safety Officer (RSO) who must be a Qualified Physicist and who has the authority to ensure the implementation of the radiation protection program. The Radiation Safety Officer must report directly to the Radiation Safety Committee as defined in section (b) below.
+
+(b) Provide for a Radiation Safety Committee to administer the radiation protection program. The radiation safety committee must include the DOC facility commander or a person with the authority to act on behalf of the facility commander, the Radiation Safety Officer, representation from all relevant DOC personnel within the facility where radiation sources are used, and a representative of the Qualified Physicist. The committee shall oversee all uses of body scanning equipment within the facility, review the activities of the Radiation Safety Officer, and review the radiation safety program at least annually and the administration of the required quality control testing described in subdivision (e) of this section. The report of DOC's annual review of the radiation safety program shall be retained in DOC's radiation safety manual.
+
+(c) All documents pertaining to the Radiation Protection Program must be placed in the radiation safety manual, which must be made available for the Department to inspect at any time. Information in the radiation safety manual must include but not be limited to:
+
+   (1) The radiation safety committee names along with all minutes of the meetings of this committee;
+
+   (2) Name and contact information for the RSO, including appropriate information to contact the RSO immediately in case of an emergency;
+
+   (3) Copies of all documents that were submitted to obtain a certificate of registration including all technical documents such as acceptance testing and commissioning report prepared by the Qualified Physicist;
+
+   (4) All information as supplied by the body scanner manufacturer and all documents relating to either routine preventive maintenance and repair of the body scanner;
+
+   (5) Documents pertaining to training of DOC personnel who operate the body scanners including the outline of the training, attendance sheet with date and signatures of attendees; and
+
+   (6) The results of the decision to address individual monitoring needs for operators of body scanners pursuant to 24 RCNY Health Code § 175.03, or any successor regulation. If DOC decides not to procure individual monitoring badges for body scanner operators, DOC must obtain a report from DOC's qualified physicist to provide evidence that the requirements of 24 RCNY Health Code § 175.03, or any successor regulation, are satisfied and this report must be maintained in the radiation safety manual.
+
+   (7) Copies of all relevant ANSI standards and location of 24 RCNY Health Code Article 175, or any successor regulation.
+
+(d) DOC must utilize ANSI Standard 42.47 to establish imaging tests to measure and assess the image resolution of the body scanner over time, which scanners are defined by ANSI Standard 42.47 as "whole body field of view". To do this, DOC must:
+
+   (1) Utilize a phantom, as described in Section 5.4 et seq. of ANSI Standard 42.47, or an alternate imaging device approved by the Department, to conduct the following imaging tests as described in the following sections of that Standard:
+
+      (A) the spatial resolution test as described in Section 5.5;
+
+      (B) the wire detection test as described in Section 5.6;
+
+      (C) the material detection on body test as described in Section 5.7; and
+
+      (D) the penetration tests as described in Section 5.9.
+
+   (2) DOC must adopt the tolerances for the imaging tests described in paragraph (1) above as stated in ANSI Standard 42.47 Table 4 under the heading for "whole body field of view."
+
+   (3) The imaging tests as described in paragraph (1) above must be conducted with the following frequency:
+
+      (A) To assess image degradation with body mass, the penetration tests must be conducted quarterly for each body scanner;
+
+      (B) The spatial resolution test, wire detection test, and material detection on body test must be conducted semiannually; and
+
+      (C) All imaging tests must be evaluated after any software upgrade to the body scanner and after any repairs on the imaging chain, e.g., repairs done on the detector.
+
+   (4) The following documents must be maintained in the radiation safety manual:
+
+      (A) The imaging tests, the frequency of such tests, and the title of the individual who will conduct the imaging tests; and
+
+      (B) The results of all imaging tests conducted.
+
+(e) A Qualified Physicist must conduct an annual evaluation and prepare a report on the body scanners to determine the reference effective dose for a typical scan. Any significant variations from manufacturer's specification or from previous reports must be investigated and a report of the discrepancy must be documented within 30 days. All reports created pursuant to this subdivision must be placed in the radiation safety manual.
+
+(f) Radiation surveys must be conducted by a Qualified Physicist to determine radiation levels to workers, subjects, and the public in all areas around the body scanner to any location that the radiation level rate is equal or greater than 0.05 mrem in any hour under maximum workload conditions as defined in the radiation protection manual. A radiation protection survey must be conducted prior to initiating scanning of any individuals in the areas around a body scanner and:
+
+   (1) After any maintenance that affects the radiation shielding, shutter mechanism, or x-ray production components;
+
+   (2) After any incident that may have damaged the system in such a way that unintended radiation emission occurs; and
+
+   (3) Upon installation of any new body scanner.
+
+(g) DOC must follow the manufacturer's recommended preventive maintenance schedule and all service records of preventive maintenance must be documented and maintained in the radiation safety manual.
+
+
+
+
+
+
+
+
+*§ 33-05 Annual scanning limitations.* ::
+
+
+(a) For males and non-pregnant women age 18 and over: A maximum annual exposure must be half the limit set by ANSI Standard 43.17.
+
+(b) For males and non-pregnant women under the age of 18: DOC must engage a medical physicist to conduct an analysis to determine the effective dose for this non-adult population and, using the results of that analysis, the annual exposure may not be more than five percent of ANSI Standard 43.17.
+
+(c) Pregnant women must not be scanned.
+
+(d) Reduced annual dose limits must be established on a case-by-case basis when scanning conducted pursuant to this Chapter is contraindicated for a particular individual for any medical or mental health reason.
+
+
+
+
+
+
+
+
+*§ 33-06 Training and instruction of personnel.* ::
+
+
+(a) In accordance with Public Health Law section 3502(6), DOC must develop and implement a documented in-service training program for workers operating a body scanning system.
+
+(b) The training must be provided before any DOC employee, subcontractor, or agent begins to act as a worker, as defined in this Chapter, and must receive additional training annually thereafter.
+
+(c) The training must be designed by a Qualified Physicist and may be presented through lectures or any presentation media. The training must address quality of imaging and radiation safety procedures, including but not limited to:
+
+   (1) The basics on the types and sources of radiation, units of measurement, biological effects of radiation, measurement of radiation, radiation protection principles including methods of radiation dose reduction with time, distance and shielding, and using survey instruments.
+
+   (2) The operation of the body scan system and emergency procedures to demonstrate familiarity with precautions and procedures to minimize exposure.
+
+   (3) Relevant regulatory requirements on dose limits, rights of pregnant women and minors.
+
+(d) DOC must instruct workers to:
+
+   (1) Observe all safety rules pertaining to radiation and other hazards;
+
+   (2) Promptly report any condition which may lead to the violation of this rule or any unnecessary exposure to radiation;
+
+   (3) Appropriately respond to warnings or malfunctions; and
+
+   (4) Obtain radiation exposure reports compiled by DOC when requested.
+
+
+
+
+
+
+
+
+*§ 33-07 Recordkeeping and reporting.* ::
+
+
+(a) Any complaint made to DOC pertaining to the performance and operation of the system must be reported to the Department within seven (7) days.
+
+(b) DOC must maintain the following records electronically, if possible, or in hard copy:
+
+   (1) The name, date of birth, and New York State Identification (NYSID) number of the person scanned;
+
+   (2) The time and date that each individual is scanned;
+
+   (3) The reason each scan is conducted if not upon intake;
+
+   (4) Documentation of the number of scans of each individual subjected to scanning that allows the tracking of inmates across different periods of incarceration during a 365-day period in order to certify compliance with annual scanning limits for each individual;
+
+   (5) Any investigation into complaints about body scanner operations; and
+
+   (6) The daily number of scans conducted by each piece of equipment.
+
+(c) DOC must maintain records of training and make available the records to the Department during inspection including training materials, syllabus, attendance list and other documented information.
+
+(d) DOC must maintain records of safety instructions including but not limited to:
+
+   (1) Pertinent regulations, written radiation safety program, and any other relevant non-radiological safety instructions;
+
+   (2) Radiation monitoring reports of workers obtained through methods chosen by DOC and approved by the Department;
+
+   (3) Documents related to installation, maintenance, adjustment, testing, repair and preventive maintenance of the body scan system;
+
+   (4) Periodic area radiation surveys;
+
+   (5) Calibration of radiation survey instruments;
+
+   (6) Periodic image quality tests described in this Chapter; and
+
+   (7) Any other information required by NYS Public Health Law Section 3602(6).
+
+(e)  All records must be maintained for at least seven (7) years.
+
+(f) All records must be available for the Department when requested or for review during inspections by the Department.
+
+(g) Information obtained from body scanners and records maintained under this Chapter in relation to the identities of detainees scanned shall only be used for the purposes of this Chapter and as permitted and authorized by applicable law, regulation, and policy.
+
+
+
+
+
+
+
+
+*§ 33-08 Signage and information to be provided to screened individuals.* ::
+
+
+(a) Signage.
+
+   (1) Signs indicating that radiation is being applied must be conspicuously posted and must indicate that all members of the public must stand behind designated locations during scanning operation.
+
+   (2) DOC must post conspicuous signage indicating where individuals should stand in areas adjacent to body scanner usage, e.g., signs indicating that detainees should not proceed beyond "this point" while scanners are in use.
+
+   (3) A sign must be posted in an area visible to an individual immediately prior to being screened that compares the dose of a commonly known source of radiation to the dose to be delivered.
+
+   (4) A sign must be posted that advises pregnant and potentially pregnant females that they should not be screened and that they should inform DOC personnel of such status.
+
+   (5) Signs required by paragraphs (2) - (4) must be in English and Spanish, and any other languages deemed by DOC to be appropriate or necessary. For all detainees unable to read these languages, a written copy in their native language must be made available to them and/or explained to them by persons who speak their native language.
+
+(b) Information to be provided to screened individuals. Each detainee upon release from a DOC facility has the right to be provided by DOC on request the total accumulated radiation exposure from all body scans so conducted during that individual's incarceration. DOC must apprise each detainee of this right.
+
+
+
+
+
+

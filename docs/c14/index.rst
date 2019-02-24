@@ -5325,7 +5325,7 @@ Maximum Allowance for All Buildings
       -  
     * -  
       -  
-      -  Electric service equipment
+      -   Electric service equipment
       -  
       -  
       -  
