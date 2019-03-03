@@ -83,7 +83,7 @@ Minutes of open and Executive sessions and all records of the Board available un
 
    (2) Affected Parties.
 
-      (i) Affected parties for coverage , harassment and hardship claims shall include: owners, all tenants of record in the building, including residential, commercial and manufacturing tenants, and all occupants of the building, if different from tenants of record.
+      (i) Affected parties for coverage, harassment and hardship claims shall include: owners, all tenants of record in the building, including residential, commercial and manufacturing tenants, and all occupants of the building, if different from tenants of record.
 
       (ii) In addition to the parties listed in (i) above, affected parties for abandonment claims pursuant to 29 RCNY § 2-10 shall also include the current occupant of the unit alleged to be abandoned, the previous occupant alleged to have abandoned, and the unit and the previous occupant's beneficiary to the estate, if applicable. (iii) For all other categories of applications, affected parties shall include the owner and such occupants as are necessary for a final resolution of the claim asserted in the application.
 

@@ -167,7 +167,7 @@ Storage permit. The term "storage permit" shall mean the permit for the storage 
 
 (l) The Rifle/Shotgun Section advises all dealers that certain ammunition calibres are considered to be interchangeable between rifles and handguns. Sales of ammunition in these calibres shall be recorded by dealers. The following list includes most of the calibres likely to be sold as pistol, revolver, or interchangeable ammunition; however, it is not necessarily inclusive:
 
- .4mm Rimfire
+.4mm Rimfire
 
 .17 Bumble Bee and Ackley Bee
 

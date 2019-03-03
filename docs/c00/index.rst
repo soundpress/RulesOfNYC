@@ -6085,7 +6085,7 @@ Chapter 3300: Safeguards During Construction and Demolition
 
 (c) Project information panels at government-owned sites and at sites with government funding. Project information panels at government-owned sites and at sites with government funding must conform to all requirements set forth in BC Section 3301.9 except as provided in this section.
 
-   (1) Content of project information panels at government-owned sites and at sites with government funding. Project information panels at government-owned sites and at sites with government funding must include the following information (see Figures 1, 2 , and 3):
+   (1) Content of project information panels at government-owned sites and at sites with government funding. Project information panels at government-owned sites and at sites with government funding must include the following information (see Figures 1, 2, and 3):
 
       (i) A rendering, elevation drawing, site plan, or zoning diagram of the building exterior that does not contain logos or commercially recognizable symbols; Exception: A rendering, elevation drawing, site plan or zoning diagram of the building exterior is not required for demolition projects.
 
@@ -9967,7 +9967,7 @@ Table T – Minimum Clearance Distances While Traveling with No Load
       - While traveling – minimum clearance distance(feet)
     * - up to 0.75
       - 4
-    * - over .75 to 50
+    * - over 0.75 to 50
       - 6
     * - over 50 to 345
       - 10
@@ -10960,7 +10960,7 @@ Note: See also Nonmandatory Appendix V for additional information.
 
    When the elevators are not on Occupant Evacuation Operation or Firefighters' Emergency Operation, the variable message signs shall not display other elevator system status messages.
 
-2.27.11.3 Where hoistway pressurization is provided, a car on Phase I Emergency Recall, after completing the requirements of 2.27.3.1.6,, shall conform to the following:
+2.27.11.3 Where hoistway pressurization is provided, a car on Phase I Emergency Recall, after completing the requirements of 2.27.3.1.6, shall conform to the following:
 
 (a) A car shall close its doors after 15 seconds.
 

@@ -843,7 +843,7 @@ To the best of my knowledge, information and belief, neither I nor any member of
 
       (i) The agency shall comply with 12 RCNY § 1-12(a)(2) of these rules; provided however, that if a concession is determined to be a major concession, the concession may not be awarded pursuant to this rule.
 
-      (ii) Agencies shall use a written request for bids for each small concession awarded pursuant to this section , which shall contain, at a minimum:
+      (ii) Agencies shall use a written request for bids for each small concession awarded pursuant to this section, which shall contain, at a minimum:
 
          (A) A description of the type of concession requested;
 
@@ -887,7 +887,7 @@ To the best of my knowledge, information and belief, neither I nor any member of
 *§ 1-16 Committee Approval of Different Procedures.* ::
 
 
-(a)  No agency shall enter into a concession agreement other than through the processes set forth in 12 RCNY §§ 1-12, 1-13, 1-14 , and 1-15 of this Chapter unless the Committee reviews and approves a different procedure. Agencies that wish to enter into Agreements such as Not-for-Profit Concession Agreements and Sole Source Concession Agreements must therefore obtain prior Committee approval of different procedures.
+(a)  No agency shall enter into a concession agreement other than through the processes set forth in 12 RCNY §§ 1-12, 1-13, 1-14, and 1-15 of this Chapter unless the Committee reviews and approves a different procedure. Agencies that wish to enter into Agreements such as Not-for-Profit Concession Agreements and Sole Source Concession Agreements must therefore obtain prior Committee approval of different procedures.
 
 (b) Requests for approval of a different procedure shall be forwarded to the Committee and shall include:
 

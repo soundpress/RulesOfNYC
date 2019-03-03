@@ -962,7 +962,7 @@ Where the Commission requires, pursuant to Subdivision b of Section 16-511 of th
 
       (C) the name of the disposal facility or vehicle or recycling facility,
 
-      (D) the type of disposal or recycling facilities used ( e.g., landfill, transfer station, or recycling center),
+      (D) the type of disposal or recycling facilities used (e.g., landfill, transfer station, or recycling center),
 
       (E) the complete address of each disposal facility or vehicle or recycling facility,
 

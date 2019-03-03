@@ -1895,7 +1895,7 @@ Further resolved, that this resolution shall remain in full force and effect unl
 
 (i) Voluntary dissolution.
 
-   (1) Subdivisions two and three of section 35 of the Private Housing Finance Law, with respect to City-aided limited-profit housing companies, provides as follows: "A company aided by a loan made after [;May 1, 1959]; may voluntarily be dissolved, without the consent of [;HPD];, not less than twenty [;(20)]; years after the occupancy date upon payment in full of the remaining balance of principal and interest due and unpaid upon the mortgage or mortgages and of any and all expenses incurred in effecting such voluntary dissolution. Upon such dissolution, title to the project may be conveyed in fee to the owner or owners of its capital stock or to any corporation designated by it or them for the purpose, or the company may be reconstituted pursuant to appropriate laws relating to the formation and conduct of corporations, provided, however, that prior to any such dissolution and conveyance or reconstitution, payment shall be made of all current operating expenses, taxes, indebtedness and all accrued interest thereon and the par value of and accrued dividends on the outstanding stock of such company. If after making such payments, and after conveyance of the project, a surplus remains in the treasury of the company, such surplus .  .  . shall upon dissolution, be paid into the general fund of the [;City of New York];. After such dissolution and conveyance, or such reconstitution, the provisions of [;Article II of the Private Housing Finance Law]; shall become and be inapplicable to any such project and its owner or owners and any tax exemption granted with respect to such project pursuant to [;§ 33 of the Private Housing Finance Law]; shall cease and terminate."
+   (1) Subdivisions two and three of section 35 of the Private Housing Finance Law, with respect to City-aided limited-profit housing companies, provides as follows: "A company aided by a loan made after [;May 1, 1959]; may voluntarily be dissolved, without the consent of [;HPD];, not less than twenty [;(20)]; years after the occupancy date upon payment in full of the remaining balance of principal and interest due and unpaid upon the mortgage or mortgages and of any and all expenses incurred in effecting such voluntary dissolution. Upon such dissolution, title to the project may be conveyed in fee to the owner or owners of its capital stock or to any corporation designated by it or them for the purpose, or the company may be reconstituted pursuant to appropriate laws relating to the formation and conduct of corporations, provided, however, that prior to any such dissolution and conveyance or reconstitution, payment shall be made of all current operating expenses, taxes, indebtedness and all accrued interest thereon and the par value of and accrued dividends on the outstanding stock of such company. If after making such payments, and after conveyance of the project, a surplus remains in the treasury of the company, such surplus . . . shall upon dissolution, be paid into the general fund of the [;City of New York];. After such dissolution and conveyance, or such reconstitution, the provisions of [;Article II of the Private Housing Finance Law]; shall become and be inapplicable to any such project and its owner or owners and any tax exemption granted with respect to such project pursuant to [;§ 33 of the Private Housing Finance Law]; shall cease and terminate."
 
    (2) Notice of Intent for Rental Companies. A rental housing company intending to dissolve and/or reconstitute pursuant to § 35, shall submit to HPD no later than 365 days prior to the anticipated date of dissolution and/or reconstitution, a notice of such intention ("Notice of Intent") which shall contain the following information and supporting documents:
 
@@ -5325,43 +5325,43 @@ Maximum Allowance for All Buildings
       -  
     * -  
       -  
-      -   Electric service equipment
+      -     Electric service equipment
       -  
       -  
       -  
     * -  *
       -  
-      -     with individual meter
+      - with individual meter
       - entry + d.u.
       - 1,500.00 + 160.00
       - 1,500.00 + 160.00
     * -  *
       -  
-      -     with master meter
+      - with master meter
       - entry + d.u.
       - 1,500.00 + 110.00
       - 1,500.00 + 110.00
     * -  *
       -  
-      -   Apartment panel
+      -     Apartment panel
       - d.u.
       - 300.00
       - 300.00
     * -  
       -  
-      -   Risers
+      -     Risers
       -  
       -  
       -  
     * -  *
       -  
-      -     with individual meter
+      - with individual meter
       - d.u.
       - 500.00
       - 500.00
     * -  *
       -  
-      -     with master meter
+      - with master meter
       - d.u.
       - 350.00
       - 350.00
@@ -7405,7 +7405,7 @@ Reconstruction. "Reconstruction" means reconstruction, alteration or improvement
 
 (g) All applicants for a Preliminary or Final Certificate of Eligibility must, in addition to the timely filing of an application, provide all of the required documentation for such application on or before December 31, 2011.
 
-(h) Notwithstanding anything to the contrary contained in this section, the Department may waive the filing deadlines for an application for a Final Certificate of Eligibility set forth in 28 RCNY § 7-05(d) and (e) if (1) the Department, in its sole discretion, determines that the owner of such private dwelling reasonably relied upon a representation by the seller of such private dwelling that the seller would file or had filed the application for the Final Certificate of Eligibility , and (2) the owner of such private dwelling provides all of the required documentation for such application on or before December 31, 2011.
+(h) Notwithstanding anything to the contrary contained in this section, the Department may waive the filing deadlines for an application for a Final Certificate of Eligibility set forth in 28 RCNY § 7-05(d) and (e) if (1) the Department, in its sole discretion, determines that the owner of such private dwelling reasonably relied upon a representation by the seller of such private dwelling that the seller would file or had filed the application for the Final Certificate of Eligibility, and (2) the owner of such private dwelling provides all of the required documentation for such application on or before December 31, 2011.
 
 
 
@@ -17904,7 +17904,7 @@ Monitoring Contract. "Monitoring Contract" means a contract between the applican
 
    (i) require the fee owner to provide monthly rent rolls to the Marketing Monitor and to notify the Marketing Monitor no more than seven business days after an Affordable Housing Unit becomes vacant;
 
-   (ii) require the Marketing Monitor to ensure that any Affordable Housing Unit which becomes vacant during the Extended Afford ability Period (a) is not held off the market for a period that is longer than is reasonably necessary to perform needed repairs, (b) is promptly marketed pursuant to such requirements as are established by the Agency, (c) is rented to a household identified on the log established pursuant to Housing Connect , or where applicable, on an HFA or HDC waiting list, that meets the applicable income and occupancy requirements for such Affordable Housing Unit and that has been approved by the Agency prior to execution of a lease, (d) is not offered to or rented by a corporation, partnership or other entity, and (e) is offered for occupancy pursuant to a rent stabilized lease for a term of one or two years, at the option of the tenant; and
+   (ii) require the Marketing Monitor to ensure that any Affordable Housing Unit which becomes vacant during the Extended Afford ability Period (a) is not held off the market for a period that is longer than is reasonably necessary to perform needed repairs, (b) is promptly marketed pursuant to such requirements as are established by the Agency, (c) is rented to a household identified on the log established pursuant to Housing Connect, or where applicable, on an HFA or HDC waiting list, that meets the applicable income and occupancy requirements for such Affordable Housing Unit and that has been approved by the Agency prior to execution of a lease, (d) is not offered to or rented by a corporation, partnership or other entity, and (e) is offered for occupancy pursuant to a rent stabilized lease for a term of one or two years, at the option of the tenant; and
 
    (iii) require the Marketing Monitor to submit quarterly rent rolls for all Affordable Housing Units in the Extended Affordability Property to the Agency.
 
@@ -17912,7 +17912,7 @@ Permitted Rent. "Permitted Rent" means a rent that does not exceed, for any leas
 
 Post-Construction Benefits. "Post-Construction Benefits" means benefits pursuant to Real Property Tax Law Section 421-a for the period after which a Twenty Year Benefit Property or Twenty-five Year Benefit Property was issued either a permanent certificate of occupancy for the entire building or a temporary certificate of occupancy for all of the residential areas contained therein.
 
-Rent Stabilization. "Rent Stabilization'' means, collectively, the rent stabilization law of nineteen hundred sixty-nine , the rent stabilization code, and the emergency tenant protection act of nineteen seventy-four, all as in effect on June 15, 2015 or as amended thereafter, together with any successor statutes or regulations addressing substantially the same subject matter.
+Rent Stabilization. "Rent Stabilization'' means, collectively, the rent stabilization law of nineteen hundred sixty-nine, the rent stabilization code, and the emergency tenant protection act of nineteen seventy-four, all as in effect on June 15, 2015 or as amended thereafter, together with any successor statutes or regulations addressing substantially the same subject matter.
 
 Utility Allowance. "Utility Allowance" means an allowance established by the Agency for the payment of utilities wl1ere the tenant of an Affordable Housing Unit is required to pay all or a portion of the utility costs with respect to such unit in addition to any payments of rent.
 
@@ -18624,7 +18624,7 @@ Rent Regulated Institutional Residence. The term "Rent Regulated Institutional R
 
    (b) Buildings where a full vacate order has been issued by the Department or by the Department of Buildings within the five-year period prior to July 24. 2018;
 
-   (c) Buildings where there has been active participation in the Department's alternative enforcement program pursuant to an order issued by the Department for more than four months since February 1, 2016 and the Department has determined that an order will be issued . A building will be added to the Pilot Program List and included on the Pilot Program List on the Department's website within 30 days after it is identified for issuance of an order by the Department; and
+   (c) Buildings where there has been active participation in the Department's alternative enforcement program pursuant to an order issued by the Department for more than four months since February 1, 2016 and the Department has determined that an order will be issued. A building will be added to the Pilot Program List and included on the Pilot Program List on the Department's website within 30 days after it is identified for issuance of an order by the Department; and
 
    (d) Buildings where there has been a final determination by New York State Homes and Community Renewal or any court having jurisdiction that one or more acts of Harassment were committed at such building after September 27, 2013. A building will be added to the Pilot Program List and included on the Pilot Program List on the Department's website within 30 days after it is identified as having been the subject of such determination, provided, however that where such final determination was made on default judgment, and such default is opened by the court having jurisdiction, such building will be removed from the Pilot Program List within 30 days of notification by the owner unless such building meets other criteria for inclusion on such list.
 

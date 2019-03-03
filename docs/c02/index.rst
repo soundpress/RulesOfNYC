@@ -12285,7 +12285,7 @@ Figure 2. Ratio of dike height to liquid level.
 
             (i) five (5) feet of any building opening, including any door, openable window or intake or exhaust vent;
 
-            (ii) five (5) feet of the nearest lot line, sidewalk or building on an adjoining lot . . . . . ;
+            (ii) five (5) feet of the nearest lot line, sidewalk or building on an adjoining lot . . . . .;
 
             (iii) five (5) feet of any parked motor vehicle;
 

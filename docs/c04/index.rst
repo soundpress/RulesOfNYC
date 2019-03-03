@@ -774,7 +774,7 @@ Prior to vendor selection, the ACCO shall determine that the contract price is f
 
    (3) Late filing of information: when permitted. The VENDEX questionnaire may be submitted within thirty days after registration of the contract as provided in paragraph (4) of this subdivision in the following circumstances:
 
-      (i) emergency procurements as defined by 9 RCNY § 3-06 ;
+      (i) emergency procurements as defined by 9 RCNY § 3-06;
 
       (ii) accelerated purchases as defined by 9 RCNY § 3-07;
 
@@ -3344,7 +3344,7 @@ The CCPO (in the case of construction and certain services), and the DCAS (in th
 
    Invoice Received or Acceptance Date ("IRA Date") – Goods and Services.
 
-      (i) For purposes of determining a payment due date for goods and services and the date on which interest will begin to accrue and for no other purpose, an invoice received or acceptance date ("IRA date") is defined as the later of :
+      (i) For purposes of determining a payment due date for goods and services and the date on which interest will begin to accrue and for no other purpose, an invoice received or acceptance date ("IRA date") is defined as the later of:
 
          (A) the date a proper invoice is actually received by the designated billing office if the agency annotates the invoice with the date of receipt at the time of receipt, or
 

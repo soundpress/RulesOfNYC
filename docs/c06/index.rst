@@ -13904,7 +13904,7 @@ a. Impact Equipment.
 
          iii. In accordance with the noise mitigation criteria outlined in 15 RCNY § 28-101(b), an impact pile driver shall be equipped with a well maintained exhaust muffler in order to mitigate the amount of noise escaping out with the diesel exhaust.
 
-         iv. The responsible party shall select the type of pile being driven based on structural and/or geotechnical performance requirements. In order of loudness , wooden piles shall be preferred first, followed by concrete piles, and then steel piles.
+         iv. The responsible party shall select the type of pile being driven based on structural and/or geotechnical performance requirements. In order of loudness, wooden piles shall be preferred first, followed by concrete piles, and then steel piles.
 
          v. The responsible party shall pre-auger or pre-trench the pile holes to soften the underlying ground, reduce ground resistance, and thus reduce pile driving noise based upon geotechnical conditions at the location. Auger drill rigs may be mounted to the same crane as the pile driver or alternatively, an excavator with a long bucket arm may pre-trench as deep as 25 feet below grade.
 

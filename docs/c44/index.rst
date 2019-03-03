@@ -3199,7 +3199,7 @@ Permit. The term "permit" means an approval, other than a Notice to Proceed, iss
 
 (a) Upon expiration of any permit, such permit will terminate and be of no further effect, except if the permit is renewed or reinstated pursuant to 63 RCNY § 7-03 or otherwise complies with the provisions of 63 RCNY § 7-02(a)(3). Work done after an approval has expired, except for reasonable and necessary work undertaken to stabilize and secure the site pending application for and issuance of a renewed or reinstated approval subject to 63 RCNY § 7-03, or a new approval, will constitute a violation of the Landmarks Law and may be subject to enforcement proceedings. A renewed or reinstated permit will not be a defense against any enforcement proceedings related to work occurring after the expiration and before such renewal or reinstatement.
 
-(b) An applicant may apply for a new permit for work which is the subject of an expired permit. The Commission will treat such application as a new application in all respects and it will be subject to all applicable procedures, rules and guidelines in effect at the time of such application .
+(b) An applicant may apply for a new permit for work which is the subject of an expired permit. The Commission will treat such application as a new application in all respects and it will be subject to all applicable procedures, rules and guidelines in effect at the time of such application.
 
 
 

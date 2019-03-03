@@ -4562,7 +4562,7 @@ Local Truck Route Network
 
       (iv) In the event that a notice or sign, in violation of paragraph (i) above, is posted or displayed in, on, or above the surface of any pedestrian plaza, there shall be a rebuttable presumption that any person whose name, telephone number, or other identifying information appears on such notice or sign has violated paragraph (i) by either:
 
-         (A) Pasting, posting, painting , printing or nailing such notice or sign, or
+         (A) Pasting, posting, painting, printing or nailing such notice or sign, or
 
          (B) Directing or permitting a servant, agent, employee or other individual under such person's control to engage in such activity; provided, however, that such rebuttable presumption shall not apply with respect to criminal prosecutions brought pursuant to this subparagraph (iv).
 

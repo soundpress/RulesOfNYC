@@ -479,7 +479,7 @@ Violation of any paragraph or subparagraph of this section shall subject the vio
 
    (1) No person shall throw, catch, kick or strike any baseball, football, basketball, soccer, golf or tennis ball, or similar object, nor shall any person engage in any sport or other athletic competition except in areas designated and maintained therefore. No such use will be allowed without a permit if the desired area has been allotted by permit issued, pursuant to the provisions of these rules.
 
-   (2) No person shall engage in any toy or model aviation, model boating , model automobiling, or activity involving other similar devices except at such times and at such places designated or maintained for such purposes. Violation of this paragraph constitutes a misdemeanor.
+   (2) No person shall engage in any toy or model aviation, model boating, model automobiling, or activity involving other similar devices except at such times and at such places designated or maintained for such purposes. Violation of this paragraph constitutes a misdemeanor.
 
    (3) (i) No person shall roller skate, ski, skateboard, sled or coast, or ride on any similar device outside areas designated and maintained for such use in a manner that endangers any other person or property. Violation of this subparagraph constitutes a misdemeanor.
 

@@ -448,107 +448,6 @@ Worker Notice Poster. “Worker Notice Poster” means a notice in the form prov
 
 
 
-Chapter 5: Rules For Petitioning
---------------------------------------------------
-
-
-
-*§ 5-01 Scope.* ::
-
-
-These Rules and Regulations shall govern the procedures by which the public may submit petitions for rulemaking to the Comptroller pursuant to § 1043(f) of the New York City Charter (City Administrative Procedures Act).
-
-
-
-
-
-
-
-
-*§ 5-02 Definitions.* ::
-
-
-Person. "Person" shall mean an individual, partnership, corporation or other legal entity, and any individual or entity acting in a fiduciary or representative capacity.
-
-Petition. "Petition" shall mean a request or application for any agency to adopt a rule.
-
-Petitioner. "Petitioner" shall mean the person who files a petition.
-
-Rule. "Rule" shall have the meaning set forth in § 1041(5) of the City Administrative Procedure Act and shall mean generally any statement or communication of general applicability that
-
-(i) implements or applies law or policy or
-
-(ii) prescribes the procedural requirements of an agency, including an amendment, suspension, or repeal of any such statement or communication.
-
-
-
-
-
-
-
-
-*§ 5-03 Procedures for Submitting Petitions; Responses to Petitions.* ::
-
-
-(a) Any person may petition the Comptroller to consider the adoption of a rule. The petition must contain the following information:
-
-   (1) The rule to be considered, with proposed language for adoption;
-
-   (2) A statement of the Comptroller's authority to promulgate the rule and its purpose; (3) Petitioner's argument(s) in support of adoption of the rule;
-
-   (4) The period of time the rule should be in effect;
-
-   (5) The name, address and telephone number of the petitioner or his or her authorized representative;
-
-   (6) The signature of petitioner or his or her representative.
-
-(b) Any change in the information provided pursuant 44 RCNY § 5-03(a)(5) must be communicated promptly in writing to the Comptroller.
-
-(c) All petitions should be typewritten, if possible, but handwritten petitions will be accepted, provided they are legible.
-
-(d) The petition shall be filed in duplicate on plain white paper.
-
-(e) Petitions shall be mailed or delivered to the agency's Deputy General Counsel, Sue Ellen Dodell, at 1 Centre Street, Room 518, New York, NY 10007.
-
-(f) Upon receipt of a petition submitted in the proper form, the Deputy General Counsel will stamp the petition with the date it was received and will assign the petition a number.
-
-(g) Within sixty days from the date the petition was received by the Comptroller, the Comptroller shall either deny such petition in a written statement containing the reasons for denial, or shall state in writing the Comptroller's intention to grant the petition and to initiate rulemaking by a specified date. In proceeding with such rulemaking, the Comptroller shall not be bound by the language proposed by petitioner, but may amend or modify such proposed language at the Comptroller's discretion. The Comptroller's decision to grant or deny a petition is final.
-
-
-
-
-
-
-
-
-*§ 5-04 Public Notice; Promulgation of Rules and Regulations.* ::
-
-
-(a) The Comptroller shall publicize by posting in a conspicuous location:
-
-   (1) these procedures for submitting petitions for rulemaking and
-
-   (2) the name, title, business address and telephone number of the officer designated to receive petitions, who shall be Sue Ellen Dodell, Deputy General Counsel, 1 Centre Street, Room 518, New York, NY 10007, (212) 669-7778.
-
-(b) The Comptroller shall forthwith submit for publication in The City Record notice of the name, title, business address and telephone number of the officer designated to receive petitions. Notice of any change in the above information shall be published as soon as practicable in The City Record. Such notice shall not constitute a rule as defined in the City Charter, § 1041, subd. 5.
-
-
-
-
-
-
-
-
-*§ 5-05 Severability.* ::
-
-
-If any provision of these Rules and Regulations or the application thereof to any person or circumstances is adjudged invalid by a court of competent jurisdiction, such determination shall not affect or impair the validity of the other provisions of these Rules and Regulations or the application thereof to other persons and circumstances.
-
-
-
-
-
-
 Chapter 4: Hospital Audits
 --------------------------------------------------
 
@@ -720,6 +619,107 @@ An individual, other than an attorney, representing the hospital, shall have wri
 
 
 Upon determination that overpayments have been made, the BFA shall transmit a "Withholding Request for Provider Recoupment Initiated by the Local District" to NYSDSS. NYSDSS' fiscal agent shall recover overpayments by withholding against the hospital's current or future payments on claims submitted or a percentage of payments otherwise payable on such claims, at the option of NYSDSS. Such withholding may be made at any time after the issuance of a decision after hearing or, if a hearing has not been requested in accordance with this chapter, at any time after expiration of the time period allowed (30 days) for the making of such request.
+
+
+
+
+
+
+Chapter 5: Rules For Petitioning
+--------------------------------------------------
+
+
+
+*§ 5-01 Scope.* ::
+
+
+These Rules and Regulations shall govern the procedures by which the public may submit petitions for rulemaking to the Comptroller pursuant to § 1043(f) of the New York City Charter (City Administrative Procedures Act).
+
+
+
+
+
+
+
+
+*§ 5-02 Definitions.* ::
+
+
+Person. "Person" shall mean an individual, partnership, corporation or other legal entity, and any individual or entity acting in a fiduciary or representative capacity.
+
+Petition. "Petition" shall mean a request or application for any agency to adopt a rule.
+
+Petitioner. "Petitioner" shall mean the person who files a petition.
+
+Rule. "Rule" shall have the meaning set forth in § 1041(5) of the City Administrative Procedure Act and shall mean generally any statement or communication of general applicability that
+
+(i) implements or applies law or policy or
+
+(ii) prescribes the procedural requirements of an agency, including an amendment, suspension, or repeal of any such statement or communication.
+
+
+
+
+
+
+
+
+*§ 5-03 Procedures for Submitting Petitions; Responses to Petitions.* ::
+
+
+(a) Any person may petition the Comptroller to consider the adoption of a rule. The petition must contain the following information:
+
+   (1) The rule to be considered, with proposed language for adoption;
+
+   (2) A statement of the Comptroller's authority to promulgate the rule and its purpose; (3) Petitioner's argument(s) in support of adoption of the rule;
+
+   (4) The period of time the rule should be in effect;
+
+   (5) The name, address and telephone number of the petitioner or his or her authorized representative;
+
+   (6) The signature of petitioner or his or her representative.
+
+(b) Any change in the information provided pursuant 44 RCNY § 5-03(a)(5) must be communicated promptly in writing to the Comptroller.
+
+(c) All petitions should be typewritten, if possible, but handwritten petitions will be accepted, provided they are legible.
+
+(d) The petition shall be filed in duplicate on plain white paper.
+
+(e) Petitions shall be mailed or delivered to the agency's Deputy General Counsel, Sue Ellen Dodell, at 1 Centre Street, Room 518, New York, NY 10007.
+
+(f) Upon receipt of a petition submitted in the proper form, the Deputy General Counsel will stamp the petition with the date it was received and will assign the petition a number.
+
+(g) Within sixty days from the date the petition was received by the Comptroller, the Comptroller shall either deny such petition in a written statement containing the reasons for denial, or shall state in writing the Comptroller's intention to grant the petition and to initiate rulemaking by a specified date. In proceeding with such rulemaking, the Comptroller shall not be bound by the language proposed by petitioner, but may amend or modify such proposed language at the Comptroller's discretion. The Comptroller's decision to grant or deny a petition is final.
+
+
+
+
+
+
+
+
+*§ 5-04 Public Notice; Promulgation of Rules and Regulations.* ::
+
+
+(a) The Comptroller shall publicize by posting in a conspicuous location:
+
+   (1) these procedures for submitting petitions for rulemaking and
+
+   (2) the name, title, business address and telephone number of the officer designated to receive petitions, who shall be Sue Ellen Dodell, Deputy General Counsel, 1 Centre Street, Room 518, New York, NY 10007, (212) 669-7778.
+
+(b) The Comptroller shall forthwith submit for publication in The City Record notice of the name, title, business address and telephone number of the officer designated to receive petitions. Notice of any change in the above information shall be published as soon as practicable in The City Record. Such notice shall not constitute a rule as defined in the City Charter, § 1041, subd. 5.
+
+
+
+
+
+
+
+
+*§ 5-05 Severability.* ::
+
+
+If any provision of these Rules and Regulations or the application thereof to any person or circumstances is adjudged invalid by a court of competent jurisdiction, such determination shall not affect or impair the validity of the other provisions of these Rules and Regulations or the application thereof to other persons and circumstances.
 
 
 

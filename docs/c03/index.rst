@@ -45,6 +45,10 @@ Chapter 1: License Enforcement
 
 (b) No applicant for a license or renewal thereof shall conceal any information, make a false statement or falsify or allow to be falsified any certificate, form, signed statement, application or report required to be filed with an application for a license that is to be issued by the department or for a renewal thereof.
 
+(c) Unless otherwise provided by law or rule, no applicant for a license or renewal thereof, or licensee, including the general partners, officers, directors, and principal stockholders of such applicant or licensee, whose application or renewal thereof is denied or whose license is revoked by the Department may submit a new application for the same license for a period of 12 months from the date the initial application or renewal was denied or the license was revoked. This subsection shall only apply if the initial application or renewal was denied, or the license was revoked, because the applicant or licensee concealed information, made a false statement, or falsified or allowed to be falsified any certificate, form, signed statement, application or report required to be filed with an application for a license that is to be issued by the department or for a renewal thereof.
+
+
+
 
 
 
@@ -362,6 +366,46 @@ Whenever any licensee has not renewed a license upon its expiration, such former
 (c) Regardless of the date specified by the Department in the notice, if the Department presents at the hearing a copy of a decision or order from a prior proceeding finding that the business or individual engaged in the same unlicensed activity, or a copy of a settlement from a prior proceeding resolving a charge of the same unlicensed activity, there shall be a rebuttable presumption that the unlicensed activity continued every day, without interruption, from the date of the decision, order or settlement through the date of the hearing, unless the decision, order or settlement specifically provides otherwise.
 
 (d) A party may present credible evidence at the hearing to rebut the presumption of continued unlicensed activity, such as written proof that the party obtained a license; receipts or other documentation indicating that merchandise was returned to distributors; written termination of leases or agreements; or photographs demonstrating the discontinuance of the unlicensed activity.
+
+
+
+
+
+
+
+
+*§ 1-20 Non-Payment of Civil Penalties.* ::
+
+
+(a) The Commissioner may deny a new or renewal application for any license, permit or registration, and may revoke, suspend, cancel, or terminate any license, permit or registration, if (i) the applicant, licensee, permittee or registrant has failed to timely pay civil penalties imposed by a tribunal of the New York City Office of Administrative Trials and Hearings (OATH), and (ii) an agency has provided the Commissioner with the following information: the name, address, Department license number and license category, where applicable, and information sufficient to determine the delinquency and monetary amount of the outstanding civil penalties owed by the applicant, licensee, permittee or registrant.
+
+(b) In determining whether to exercise the power granted by paragraph (a) of this section, the Commissioner shall consider the amount of time that has passed since the applicant, licensee, permittee or registrant failed to satisfy a final judgment, order or decision imposing civil penalties from OATH, the amount of the outstanding civil penalties, whether the applicant, licensee, permittee or registrant has committed a series of violations, and any such other matters as justice may require, as follows:
+
+   1. New applications for licenses, permits or registrations may be denied where there is an outstanding final judgment, order, or decision of any amount older than thirty (30) days.
+
+   2. Licenses, permits or registrations may be suspended, and renewal applications denied, where outstanding final judgments, orders, or decisions are:
+
+      A. Older than sixty (60) days; and
+
+      B. Five hundred dollars ($500) or more.
+
+   3. Licenses, permits or registrations may be revoked or cancelled where outstanding final judgments, orders, or decisions are:
+
+      A. Older than ninety (90) days; and
+
+      B. One thousand dollars ($1,000) or more; and
+
+      C. The applicant, licensee, permittee or registrant violated any provision the enforcement of which is within the jurisdiction of the Department in the previous five (5) years.
+
+(c) If the applicant, licensee, permittee or registrant breaches the terms of a settlement agreement or payment plan reached with the City for satisfaction of a final judgment, order or decision imposing civil penalties, time will be calculated from the date of the breach or first missed payment, unless otherwise set forth in the agreement.
+
+(d) For purposes of this subsection, a judgment, order or decision imposing civil penalties from OATH is considered “final” when:
+
+   1. An appeal or motion to vacate challenging the judgment, order, or decision has been resolved;
+
+   2. The entity or legal representative against whom the judgment, order or decision was imposed fails to appeal within the time allotted by OATH; or
+
+   3. The entity or legal representative against whom the judgment, order or decision was entered on default fails to move to vacate the judgment, order or decision within sixty (60) of the date entered.
 
 
 
@@ -4040,7 +4084,7 @@ or other similar terms implying that the purchaser is paying a lower price than 
 
 (a) Immediately preceding price. If an advertiser uses the words:
 
-   "percent off" "formerly .., now ..." "reduced" "reduced to" "regularly..., now ..." "now only" "save $ ..." "was ..., now ..., "item now $ ..."
+   "percent off" "formerly ..., now ..." "reduced" "reduced to" "regularly..., now ..." "now only" "save $ ..." "was ..., now ..., "item now $ ..."
 
    or any similar term implying a reduction from a prior price charged by the advertiser, the price to which the reduced offering price is being compared must be the advertiser's bona fide selling price for that item or service unless the advertiser clearly discloses another basis of comparison or qualification.
 
@@ -4150,7 +4194,7 @@ or other similar term implying comparison with non-identical merchandise is used
 
       Complies if at least 15 percent of all models of Brand Y Cassette tape recorders available are selling at 30 percent off and the remaining models are offered at various points representatively scattered throughout the range below 30 percent or the majority of the remaining models are offered at points in the higher portion of the range. If the range is 0-30 percent, the majority of the remaining models would have to be offered above 15 percent; if the range is 10-30 percent, the majority would have to be offered above 20 percent.
 
-(c) If terms such as "formerly $ ..... to $ ..... ; now $ ....." are used, the maximum price in the range of advertised former prices must represent the advertiser's bona fide selling price for at least 15 percent of all the types, models or services advertised. Bona fide selling prices for the other items or services must have been at levels representatively scattered through the range of advertised former prices.
+(c) If terms such as "formerly $ ..... to $ .....; now $ ....." are used, the maximum price in the range of advertised former prices must represent the advertiser's bona fide selling price for at least 15 percent of all the types, models or services advertised. Bona fide selling prices for the other items or services must have been at levels representatively scattered through the range of advertised former prices.
 
 
 

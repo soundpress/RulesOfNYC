@@ -2569,7 +2569,7 @@ Any of the following dioxin producing products purchased or leased by any agency
 *§ 11-09 Minimum recycled material content.* ::
 
 
-(a) Any of the following products listed in the CPG , that can be procured at a reasonably competitive price, and for which the United States environmental protection agency has issued a recovered materials advisory notice, shall contain no less recovered material and postconsumer material than the minimum amount recommended in the most recent such notice:
+(a) Any of the following products listed in the CPG, that can be procured at a reasonably competitive price, and for which the United States environmental protection agency has issued a recovered materials advisory notice, shall contain no less recovered material and postconsumer material than the minimum amount recommended in the most recent such notice:
 
 •     reprographic paper,
 
