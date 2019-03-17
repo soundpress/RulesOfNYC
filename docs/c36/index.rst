@@ -345,7 +345,21 @@ Effective as of January 1, 2018, the dollar amount in the definition of "Ownersh
 
    (2) agree with one or more persons to engage in or cause the performance of conduct that violates any provision of City Charter § 2604.
 
-(e) Nothing contained in this section shall preclude the Conflicts of Interest Board from finding that conduct other than that proscribed by subdivisions (a) through (d) of this section violates City Charter § 2604(b)(2), although the Board may impose a fine for a violation of City Charter § 2604(b)(2) only if the conduct violates subdivision (a), (b), (c), or (d) of this section. The Board may not impose a fine for violation of subdivision (d) where the public servant induced or caused another public servant to engage in conduct that violates City Charter § 2604(b)(2), unless such other public servant violated subdivision (a), (b), or (c) of this section.
+(e) (1) An agency head may designate a public servant to perform work on behalf of a not-for-profit corporation, association, or other such entity that operates on a not-for-profit basis, including serving as a board member or other position with fiduciary responsibilities provided that:
+
+      (i) there is a demonstrated nexus between the proposed activity, the public servant’s City job, and the mission of the public servant’s agency; and such work furthers the agency’s mission and is not undertaken primarily for the benefit or interests of the not-for-profit;
+
+      (ii) the designated public servant takes no part in the entity’s business dealings with the City at the entity or at his or her agency, except that Council Members may sponsor and vote on discretionary funding for the entity; and
+
+      (iii) within 30 days the written designation is disclosed to the Conflicts of Interest Board and will be posted on the Board’s website.
+
+   (2) A public servant designated in accordance with Paragraph (1) of this subdivision may take part in such entity’s business dealings with the City at the entity and/or at his or her agency if, after written approval of the agency head, the Board determines that there is a demonstrated nexus between the proposed participation, the public servant’s City job, and the mission of the public servant’s agency; and that such participation furthers the agency’s mission and is not undertaken primarily for the benefit or interests of the not-for-profit entity.
+
+   (3) The designation made pursuant to Paragraph (1) and approval made pursuant to Paragraph (2) of this subdivision must be by the head of the agency served by the public servant, or by a deputy mayor if the public servant is an agency head. A public servant who is an elected official, including a district attorney, is the agency head for the public servants employed by the official’s agency or office. A public servant who is an elected official, including a district attorney, may provide the designation, pursuant to Paragraph (1) and the agency head approval, pursuant to Paragraph (2) for him or herself.
+
+(f) Nothing contained in this section shall preclude the Conflicts of Interest Board from finding that conduct other than that proscribed by subdivisions (a) through (d) of this section violates City Charter § 2604(b)(2), although the Board may impose a fine for a violation of City Charter § 2604(b)(2) only if the conduct violates subdivision (a), (b), (c), or (d) of this section. The Board may not impose a fine for violation of subdivision (d) where the public servant induced or caused another public servant to engage in conduct that violates City Charter § 2604(b)(2), unless such other public servant violated subdivision (a), (b), or (c) of this section.
+
+
 
 
 

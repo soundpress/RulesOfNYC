@@ -2228,6 +2228,1215 @@ Contract documents may be obtained at the Department of Business Services, 110 W
 
 
 
+Chapter 5: New York City Energy Cost Savings Program
+--------------------------------------------------
+
+
+
+
+**Subchapter A: General Provisions**
+
+
+
+*§ 5-01 Authority; Purpose.* ::
+
+
+(a)  These rules are promulgated pursuant to Local Law 54 of the Laws of 1985 of the City of New York, as amended, as authorized by Chapter 551 of the Laws of 1985 of the State of New York, as amended, to effectuate the purposes of the New York City Energy Cost Savings Program (the "Program").
+
+(b) The purpose of the Program is to encourage industrial and commercial development, by encouraging businesses to relocate to targeted areas of the City and providing incentives to business already located in such areas to expand or improve their industrial and commercial space. The Program provides a reduction of certain energy costs related to the transmission and distribution of electricity and natural gas for a period of twelve (12) years, including reductions in the cost of energy services purchased from the New York City Public Utility Service.
+
+(c) These rules set forth the requirements for applications, the standards and criteria to determine eligibility for reduced energy costs and the amount available for** reductions in energy costs, as well as procedures for review of determinations made in connection with the Program.
+
+
+
+
+
+
+*§ 5-02 Definitions.* ::
+
+
+As used in these rules, the following terms shall have the respective meanings set forth below:
+
+Act. "Act means Chapter 6 of Title 22 of the Administrative Code of the City of New York, as enacted by Local Law 54 of the Laws of 1985 of the City of New York, as amended by Local Law 56 of the Laws of 1989 of the City of New York, Chapters 256 and 257 of the Laws of 1991, Chapter 154 of the Laws of 1999, Chapters 103 and 472 of the Laws of 2000, and Chapter 107 of the Laws of 2003 of the State of New York, as authorized by Chapter 551 of the Laws of 1985 of the State of New York, as amended by Chapters 59 and 825 of the Laws of 1986, Chapter 760 of the Laws of 1988, Chapters 256 and 257 of the Laws of 1991, Chapter 154 of the Laws of 1999, Chapters 103 and 472 of the Laws of 2000, and Chapter 107 of the Laws of 2003 of the State of New York.
+
+Applicant. "Applicant" means any person applying individually or jointly for benefits under ECSP, or a holding company, parent corporation, or subsidiary or affiliated corporation so applying on behalf of any of the foregoing.
+
+Application. "Application" means the application for a certificate of eligibility and shall include all supporting exhibits submitted, and statements made, by an applicant to the commissioner for the purpose of determining such applicant's eligibility for benefits under ECSP.
+
+Assessed value. "Assessed value" means the assessed value of the real property and buildings thereon as assessed for tax purposes during the tax year in which improvements to such real property and buildings thereon commenced, as required by and referred to in the Act and these rules.
+
+Average monthly consumption. "Average monthly consumption" means, for each natural gas account, the average number of therms of natural gas consumed per month during the preceding twelve billing monthly or six bimonthly billing cycles.
+
+Average monthly load factor. "Average monthly load factor" means, for each electric account, the average monthly load factor for the preceding 12-month period, determined once annually using the most recently available twelve months of load factor data.
+
+Benefit period. "Benefit period" means the number of months a recipient is eligible to receive a special rebate, which period shall not exceed one hundred and forty-four (144) consecutive months, beginning on the effective date of the recipient's certificate of eligibility.
+
+Building. "Building" means articles, structures, substructures and superstructures erected upon, under, or above real property, or affixed thereto, and fixtures (other than trade fixtures) and other improvements erected or situated thereon.
+
+Building permit. "Building permit" means a permit approving proposed construction work issued by the New York City Department of Buildings, DBS or other agency of the City authorized by law to receive and approve plans for construction work. A building permit shall include permits or a new building, alteration, foundation, plumbing, sign or equipment work and may, at the option of the applicant, include a permit for partial demolition or earthwork.
+
+Category I on-site cogenerator. "Category I on-site cogenerator" shall mean an on-site cogenerator that produces electricity for an eligible energy user that was certified before July 1st, 2003.
+
+Category II on-site cogenerator. "Category II on-site cogenerator" shall mean an on-site cogenerator, other than a clean on-site cogenerator, that was certified after June 30, 2003.
+
+Certificate of eligibility. "Certificate of eligibility" means the document or documents issued by the commissioner evidencing the eligibility and qualification of an applicant to receive a special rebate. The certificate of eligibility shall include such information as is required pursuant to § 5-42(b) of these rules.
+
+Charter. "Charter" means the New York City Charter, as amended.
+
+City. "City" means The City of New York.
+
+Clean on-site cogenerator. "Clean on-site cogenerator" shall mean an on-site cogenerator, the electricity generating facility of which has an emission rate for nitrous oxides of no more than three tenths of one pound per megawatthour. For purposes of determining the emissions of such electricity generating facility, the emissions for such facility shall be reduced by the amount of any nitrous oxide emissions by boiler plants and/or other generators located on the same site as the on-site cogenerator that were or will be avoided by virtue of the electricity generating facility's production of thermal products used by an eligible energy user(s) for productive purposes.
+
+Code. "Code" means the Administrative Code of the City of New York, as amended.
+
+Commercial development pressure area. "Commercial development pressure area" means those areas of the City as set forth in subdivision (a) of § 22-601 of the code.
+
+Commissioner. "Commissioner" means the Commissioner of DBS or his or her designee or his or her successor in function.
+
+Competitive transition charge. "Competitive transition charge" means a charge that is regulated by the PSC, associated with charges for transmission and distribution, and designed to enable a utility to mitigate or recover its above-market costs of generating electricity.
+
+Con Edison. "Con Edison" means the Consolidated Edison Company of New York, Inc.
+
+DBS or DSBS. "DBS" or "DSBS" shall mean the New York City Department of Small Business Services, formerly known as the Department of Business Services, or its successor in function.
+
+DOF. "DOF" means the New York City Department of Finance or its successor in function.
+
+Discount. "Discount" means the amount of a reduction in a bill for energy services rendered to a vendor or NYCPUS by a utility, or to a vendor by NYCPUS, in accordance with the requirements of § 5-15 of these rules, equal to the special rebates made by such vendor or NYCPUS to eligible energy users, eligible owners or qualified eligible energy users.
+
+ECSP or Program. "ECSP" or the "Program" means the Program described in the Act and these rules.
+
+Effective date. "Effective date" means the effective date of a certificate of eligibility, which date is the first day of the first billing cycle after a certificate of eligibility is issued.
+
+Eligible charges. "Eligible charges" mean charges for energy services, system benefits charges and competitive transition charges, including service discounts, by a utility determined in accordance with § 5-13(a) of these rules, to which charges the applicable percentages in § 5-16 or § 5-18 of these rules are applied to determine the amount of a special rebate.
+
+Eligible energy user. "Eligible energy user" means any non-residential user of energy services, that purchases such energy services directly from a utility, a vendor, NYCPUS or an on-site cogenerator, and that satisfies the applicable criteria set forth in Subchapter B of these rules.
+
+Eligible move-in area. "Eligible move-in area" means:
+
+   (1) with respect to an applicant that relocates from (i) areas lying south of the center line of 96th Street in the Borough of Manhattan, or (ii) all areas outside of the City, to replacement premises, all areas within the City, except those areas lying south of the center line of 96th Street in the Borough of Manhattan;
+
+   (2) with respect to an applicant that relocates from premises within a commercial development pressure area to replacement premises, all areas within the City except (i) those areas lying south of the center line of 96th Street in the Borough of Manhattan and (ii) commercial development pressure areas;
+
+   (3) with respect to an applicant that occupies premises that meet the criteria of § 5-12(b) (specially eligible premises) of these rules, all areas within the City except those areas lying south of the center line of 96th Street in the Borough of Manhattan; and
+
+   (4) with respect to an applicant that occupies premises that meet the criteria of § 5-12(c) (manufacturing) of these rules, those areas lying south of the center line of 96th Street in the Borough of Manhattan.
+
+Eligible move-out area. "Eligible move-out area" means with respect to an applicant that relocates and occupies replacement premises:
+
+   (1) areas lying south of the center line of 96th Street in the Borough of Manhattan;
+
+   (2) all areas outside of the City; or
+
+   (3) a commercial development pressure area.
+
+Eligible on-site cogenerator charges. "Eligible on-site cogenerator charges" shall mean charges for energy services purchases from a utility related to the delivery of natural gas to a category II on-site cogenerator determined in accordance with § 5-13(d).
+
+Eligible owner. "Eligible owner" means an owner, manager or operator of a specially eligible premises that satisfies the applicable criteria of Subchapter B of these rules.
+
+Eligible premises. "Eligible premises" mean those premises that are: (1) replacement premises; or (2) specially eligible premises.
+
+Eligible public utility service charges. "Eligible public utility service charges" mean charges for energy services purchased from NYCPUS, determined in accordance with § 5-13(b) of these rules, to which the applicable percentage in § 5-16 or § 5-18 of these rules are applied to determine the amount of a special rebate.
+
+Employee. "Employee" shall mean any full-time or part-time employee (as provided herein) of an eligible energy user, an affiliate of an eligible energy user, and any contractor working exclusively at an eligible site for operations of an eligible energy user (or an affiliate of an eligible energy user) eligible to receive special rebates. The number of part-time employees and contractors shall be calculated by dividing (i) the number of hours worked by employees, other than full-time employees, and contractors at the eligible energy user's eligible premises, during the applicable period; by (ii) the number of weeks in the applicable period; and then by (iii) 35 person-hours.
+
+Energy conservation measures. "Energy conservation measures" shall have the meaning set forth in subdivision (p) of § 22-601 of the code.
+
+Energy services. "Energy services" shall mean (i) the transportation of electric or natural gas commodity within the franchised service territory of a utility through such utility's local transmission or distribution assets, (ii) metering of a user's consumption, including meter reading, and (iii) billing services related to the preparation and collection of the user's utility bill. Energy services shall not include the provision of gas or electric commodity, transmission-related functions for which charges are rendered by the New York Independent System Operator, nor shall they include transportation of gas or electric commodity to a utility system, except that gas pipeline services shall be considered energy services for purposes of calculating rebates for users eligible to receive rebates under § 5-18(b)(5) of these rules. Energy services shall not include transportation of natural gas to the extent the gas transported is used by a category I on-site cogenerator or a clean on-site cogenerator in the production of electricity that is eligible for special rebates under § 5-14(f).
+
+Energy services bill. "Energy services bill" means the statement of charges for energy services rendered to a recipient by: (i) a utility; (ii) a vendor; or (iii) NYCPUS.
+
+FERC. "FERC" shall mean the Federal Energy Regulatory Commission.
+
+Hotel. "Hotel" means a building or portion thereof that is regularly used and kept open as such for the lodging of guests including an apartment hotel, a motel, boarding house or club or any other facility whose principal use is residential accommodation, whether or not meals are served.
+
+ICIP. "ICIP" means the New York City Industrial and Commercial Incentive Program as codified in Title 11, Chapter 247, Part 3 of the Code, as amended.
+
+IDA. "IDA" means the New York City Industrial Development Agency established pursuant to § 850 of the General Municipal Law of the State of New York, as amended.
+
+Keyspan. "Keyspan" means the Keyspan Energy Delivery New York.
+
+LIPA. "LIPA" shall mean the Long Island Power Authority, or its subsidiary.
+
+Manufacturing activity. "Manufacturing activity" means an activity involving the assembly of goods to create a different article or the processing, fabrication, or packaging of goods.
+
+Monthly load factor. "Monthly load factor" means, for each electric account, the number determined by dividing (a) the account's energy consumption, measured in kilowatt hours, for a monthly billing period, by (b) the peak electric demand, measured in kilowatts, for such billing period multiplied by the number of billing days in the period multiplied by 24 hours.
+
+NYCPUS. "NYCPUS" means the New York City Public Utility Service established by Local Law No. 78 of 1982, codified in part as Title 22, Chapter 3 of the Code.
+
+On-site cogenerator. A person, other than a utility, that owns an electric generating facility that simultaneously or sequentially produces electricity and useful thermal energy, provided that substantially all of such electricity shall be used by one or more eligible energy users that occupy the same site as such generating facility. An on-site cogenerator may be the same or a separate person as such eligible energy user.
+
+Person. "Person" means any individual, partnership, association, corporation, limited liability company, estate or trust, and any combination of the foregoing.
+
+Premises. "Premises" mean any building or portion thereof that, for purposes of these rules is, or has been, occupied in whole or in part by an applicant pursuant to a deed, contract of sale, lease or otherwise.
+
+Public Service Commission or PSC. "Public Service Commission" or "PSC" means the Public Service Commission of the State of New York, created by and defined in § 2 of the Public Service Law of the State of New York.
+
+Qualified eligible energy user. "Qualified eligible energy user" shall have the meaning ascribed to such term in subdivision (r) of § 22-601 of the code.
+
+Real property. "Real property" means land and articles, structures, substructures and superstructures erected upon, under or above the land or affixed thereto and articles of equipment, as described by, and subject to assessment for taxation pursuant to subdivision (a), (b), (f) or (i) of § 102(12) of the Real Property Tax Law of the State of New York, but not including any incorporeal right, franchise or special franchise.
+
+Recipient. "Recipient" means an applicant that has satisfied the eligibility criteria of Subchapter B of these rules and has been certified by the commissioner as: (1) an eligible energy user; (2) an eligible owner; (3) a qualified eligible energy user; or (4) a category I on-site cogenerator, a category II on-site cogenerator, or a clean on-site cogenerator.
+
+Replacement premises. "Replacement premises" mean premises occupied by an applicant in replacement of previously occupied premises from which the applicant has relocated, provided the premises satisfy the criteria set forth in § 5-12(a) of these rules.
+
+Retail vendor. "Retail vendor" means any applicant that:
+
+   (1) is predominantly engaged in the sale, as defined in § 1101(b)(4) of the Tax Law of the State of New York, other than through the mail or by the telephone or other means of electronic communication, of tangible personal property to any person, for any purpose unrelated to the trade or business of such person; or
+
+   (2) is predominantly engaged in selling services to persons which services generally involve the physical, mental and/or spiritual care of such persons for any purpose unrelated to the trade or business of such persons; or
+
+   (3) is predominantly engaged in selling services to persons for any purpose which services generally involve the physical care of the personal property of such persons for any purpose unrelated to the trade or business of such persons; provided, however, where such sale of tangible personal property or services described herein is performed by only one or more operating units, divisions or subdivisions of the applicant, or at only one or more locations, only such operating units, divisions, or subdivisions, or such locations, shall come within the definition contained herein.
+
+Service classification. "Service classification" means the classification used by a utility in its rate schedule that sets forth the particular rates charged for energy services that are applicable to particular kinds of customers.
+
+Site visit. "Site visit" means an on-site inspection performed by or at the direction of DBS to determine the use of energy services or occupancy of certain buildings, real property or any portion of such building or real property.
+
+Special rebate. "Special rebate" means the amount of reduction in an energy services bill rendered by a utility, a vendor or NYCPUS for energy services to an eligible energy user, a qualified eligible energy user, an eligible owner, or an agent of any of these, or a category I, II or clean on-site cogenerator, and calculated in accordance with the provisions set forth in § 5-14 of these rules.
+
+Specially eligible premises. "Specially eligible premises" means non-residential premises that meet the requirements set forth in subdivision (i) of § 22-601 of the code and § 5-12(b) of these rules.
+
+Survey. "Survey" means a study or report based on on-site field inspections, professional surveys by a licensed professional engineer, data collection or meter readings or other actions to determine the use, consumption and application of energy services or the occupancy of certain buildings or real property, or portions thereof.
+
+Systems benefit charge. "Systems benefit charge" means a charge that is regulated by the PSC and that a utility is required to collect from its customers for the purposes of funding public benefit programs.
+
+Targeted eligible premises. "Targeted eligible premises" shall have the meaning set forth in subdivision (s) of § 22-601 of the code.
+
+UDC. "UDC" means the New York State Urban Development Corporation or any subsidiary thereof created and defined by § 6254 of the Unconsolidated Laws of the State of New York.
+
+Utility. "Utility" means any provider of energy services within the City that is subject both to the jurisdiction and general supervision of the PSC and to a tax imposed pursuant to chapter 11 of title 11 of the code, and for purposes of this chapter 5, shall include LIPA, or its subsidiary, to the extent that LIPA provides energy services within the City of New York and makes payment to such City that is equivalent to the tax imposed on utilities pursuant to chapter 11 of title 11 of the code.
+
+Utility credit. "Utility credit" means a credit to which a utility is entitled, in accordance with the rules promulgated by DOF, against the tax imposed under Chapter 11 of Title 11 of the code, and equal to the aggregate amount of all special rebates and/or discounts granted by such utility in accordance with the requirements of the Act and these rules.
+
+Vendor. "Vendor" means a vendor of energy services, as defined in subdivision (k) of § 22-601 of the code, including any person, corporation or other entity not subject to the jurisdiction and general supervision of the PSC, that furnishes or sells energy services to an eligible energy user, eligible owner, qualified eligible energy user or an on-site cogenerator that is submetered as an incident to leasing, subleasing, licensing or otherwise permitting such user to rent or occupy premises of such vendor.
+
+
+
+
+
+
+*§ 5-03 Law Governing Applications.* ::
+
+
+Applications pending as of the effective date of these rules and applications filed subsequently shall be governed by these rules. Persons that have been certified as eligible for special rebates or discounts under provisions of law in effect before November 1, 2000, are not required to reapply in order to receive benefits under provisions of Chapter 472 of the Laws of 2000.
+
+
+
+
+
+
+*§ 5-04 Rules of Construction.* ::
+
+
+(a)  These rules shall be interpreted and enforced in accordance with the General Construction Law of the State of New York except where the context otherwise requires or a different rule is provided by these rules.
+
+(b) These rules shall be construed consistently with the applicable state and local law cited in this Subchapter of these rules including any amendments thereto.
+
+(c) Provisions of these rules that restate the Act and that do not provide rules or procedures for the exercise of regulatory authority shall not be construed as increasing or diminishing any rights or duties created by the Act, but may be used to assist in the interpretation of the Act.
+
+(d) When the interpretation or application of a provision of these rules in a particular case is uncertain, the description of the purpose and objectives of ECSP set forth in § 5-01 of these rules shall be used to assist in the interpretation and application of such provision.
+
+(e) Reference to particular provisions of law in these rules shall be deemed to refer to such provisions as interpreted by the applicable decisions of Federal and New York State courts.
+
+
+
+
+
+
+*§ 5-05 Material Misrepresentations, Misstatements and Omissions.* ::
+
+
+(a)  An applicant's or recipient's refusal to provide factual information or to cooperate with the commissioner or his or her staff in the review of the facts and circumstances upon which a determination of eligibility or of continued eligibility is to be based shall constitute grounds for denial of an applicant's eligibility, or for suspension or revocation of a recipient's certificate of eligibility.
+
+(b) The commissioner may deny an application for a certificate of eligibility if the application is found to contain material misrepresentations, misstatements or omissions.
+
+(c) The commissioner may suspend or revoke a certificate of eligibility if a recipient is found to have made material misrepresentations or misstatements or omissions concerning the prior, current or future status of its continued eligibility under ECSP.
+
+(d) Denial of an application for a certificate of eligibility or the suspension or revocation of a certificate of eligibility pursuant to the provisions of this Subchapter shall be subject to an opportunity to be heard pursuant to §§ 5-45, 5-46 and 5-47 of these rules.
+
+
+
+
+
+
+*§ 5-06 Actions of City Employees.* ::
+
+
+Employees and agents of the City whose duties require them to take actions in connection with ECSP shall perform such duties, subject to the lawful direction of their supervisors and appropriate public officers, in accordance with these rules. However, noncompliance by such employees or agents with the requirements of these rules shall not be deemed to void any obligation of, or to waive any requirement imposed on, an applicant or recipient, or to excuse any noncompliance by an applicant or recipient with the provisions hereof or of any law. Such noncompliance shall not create any right of relief from the City or its employees or agents in favor of any person adversely affected thereby.
+
+
+
+
+
+
+*§ 5-07 Separability.* ::
+
+
+If any provision of these rules or their application shall be adjudged by any court of competent jurisdiction to be invalid, such judgment shall not affect, impair or invalidate the remaining provisions of these rules, but shall be confined in its operation to the provision thereof directly involved.
+
+
+
+
+
+
+*§ 5-08 Effective Date of Rules. [Repealed]* ::
+
+
+(a)  Only eligible energy users, eligible owners, qualified eligible energy users and on-site cogenerators, as described in, and to the extent permitted by, the Act and these rules are eligible for special rebates under ECSP.
+
+(b) Eligible energy users, eligible owners, qualified eligible energy users and on-site cogenerators shall not include the following users of electricity and/or natural gas:
+
+   (1) residential users;
+
+   (2) government agencies;
+
+   (3) public benefit corporations, or instrumentalities thereof;
+
+   (4) hotels; and
+
+   (5) retail vendors.
+
+(c) An eligible energy user is an applicant or recipient that meets the criteria in paragraph (1) of this subdivision or is an eligible owner that meets the criteria in paragraph (2) of this subdivision:
+
+   (1) Such applicant or recipient: (i) purchases energy services from a utility, vendor or NYCPUS; (ii) relocates to and occupies premises that qualify as replacement premises or occupies premises that are specially eligible premises or a portion of such premises; and (iii) otherwise complies with all requirements of the Act and these rules applicable to an eligible energy user or
+
+   (2) Such applicant or recipient, referred to as an eligible owner, (i) purchases energy services from a utility or NYCPUS; (ii) owns, operates or manages real property and/or a building, which building and/or real property qualifies as a specially eligible premises; and (iii) otherwise complies with all requirements of the Act and these rules applicable to an eligible owner.
+
+   (3) An applicant or recipient may, if all requirements are met, qualify as both (i) an eligible owner and (ii) an eligible energy user and/or qualified eligible energy user. In such cases, the applicant or recipient may be an eligible owner with respect to the specially eligible premises as a whole and therefore may be entitled to a special rebate applied against certain eligible charges with respect to common areas and/or equipment, as provided in § 5-13(c) of these rules. Such an applicant or recipient may also be an eligible energy user or qualified eligible energy user with respect to the premises it occupies within such specially eligible premises or targeted eligible premises, as the case may be, and therefore may be entitled to a special rebate applied against certain other eligible charges or eligible public utility charges with respect to such premises, as provided in these rules. Provided, however, that no portion of energy services used by such an applicant or recipient shall be the basis for more than one special rebate.
+
+(d) A qualified eligible energy user is a recipient that: (i) has been certified as a qualified eligible energy user in accordance with the Act prior to November 1, 2000; (ii) purchases energy services from NYCPUS or a vendor that purchases such services from NYCPUS; and (iii) otherwise complies with all requirements of the Act and these rules applicable to a qualified eligible energy user.
+
+(e) 1)  An on-site cogenerator is an applicant or recipient that: (i) meets the definition of a category I or category II on-site cogenerator or a clean on-site cogenerator in § 5-02 of these rules; (ii) purchases energy services relating to natural gas from a utility; (iii) otherwise complies with all requirements of the Act and these rules applicable to a category I or category II on-site cogenerator or a clean on-site cogenerator, respectively, and (iv) sells substantially all its electricity output to eligible energy users on the same site.
+
+   (2) A category I or clean on-site cogenerator may, if all requirements are met, qualify as an eligible energy user with respect to charges for energy services that are not used in the production of electricity, including charges for the production of thermal product, provided, however, that no portion of energy services, or natural gas energy services in the case of a category I on-site cogenerator or a clean on-site cogenerator, used by such on-site cogenerator shall be the basis for more than one special rebate.
+
+(f) Notwithstanding the foregoing provisions of this section, an occupant of replacement premises, specially eligible premises, or targeted eligible premises shall not be an eligible energy user or qualified eligible energy user unless:
+
+      (i) the energy services used and electricity and natural gas consumed by such occupant at such premises are individually and accurately metered or submetered and billed so as to enable a determination of the occupant's usage of and charges for energy services, natural gas and electricity; and
+
+      (ii) for any occupant purchasing energy services, natural gas or electricity from a vendor, the price charged by such vendor shall be no higher than the price that the occupant would have been charged directly by a utility for energy services pursuant to the applicable tariffs of the PSC or FERC, provided that an additional fee, not exceeding 12% may be charged by such vendor; and
+
+      (iii) such vendor shall separately state in each bill for such services, electricity and natural gas the price, charges and fees (if any) that are included in such bill and the amount of the special rebate made to such occupant or that no special rebate has been made.
+
+
+
+
+
+
+*§ 5-12 Premises.* ::
+
+
+(a)  Criteria for replacement premises.
+
+   (1) In order for an applicant's premises to qualify as replacement premises:
+
+      (i) the applicant must take occupancy of such premises after May 3, 1985;
+
+      (ii) the applicant must continue such occupancy while a special rebate is received;
+
+      (iii) the premises must:
+
+(A) be non-residential;
+
+(B) be premises for which an applicant has entered into a written agreement to buy and/or lease after May 3, 1985;
+
+(C) be located in an eligible move-in area;
+
+(D) except as otherwise provided in subparagraph (E) of this paragraph, be premises with provisions to receive energy services either: (I) from a utility; (II) a vendor; or (III) NYCPUS; and
+
+(E) if such premises receive electricity from an on-site cogenerator, such on-site cogenerator shall occupy the same site as such premises;
+
+      (iv) the premises such applicant previously occupied must have been located in an eligible move-out area, and the applicant must have occupied such premises for a continuous period of twenty-four (24) months during the thirty (30) month period immediately preceding the applicant taking occupancy of its new premises.
+
+   (2) An applicant's new premises shall not be considered replacement premises if the new premises are occupied as the result of a merger of the applicant with or into any other person, firm or entity, or the acquisition, by the applicant, of all or substantially all of the capital stock or assets and properties of any other person, firm or entity, unless:
+
+      (i) the new premises were formerly occupied by such other person, firm or entity;
+
+      (ii) such other person, firm or entity: (i) had substantially ceased business operations at the new premises prior to occupancy by the applicant; and (ii) had either: (A) filed or acquiesced in the filing against it of a petition for any relief under any bankruptcy or similar law for the protection of debtors, prior to occupancy by the applicant; or (B) applied for or acquiesced in the appointment of a trustee or receiver for all or a substantial portion of its assets and properties, prior to occupancy by the applicant;
+
+      (iii) the applicant transfers or relocates, from its previously occupied premises to the new premises, a substantial amount of personnel, and/or machinery or equipment, and/or other tangible assets, and/or executory contracts (contracts not yet performed in whole or in part, and which will be performed at the new premises); and
+
+      (iv) the applicant conducts, at the new premises, the same type of business conducted at its previously occupied premises and/or a type of business reasonably related thereto or constituting a reasonable expansion or growth therefrom.
+
+(b) Criteria for specially eligible premises.
+
+   (1) Specially eligible premises shall meet the applicable requirements of subdivision (i) of § 22-601 of the code and:
+
+      (i) the real property and/or building in which such premises are located shall be substantially improved by construction or renovation as described or identified in either:
+
+(A) an ICIP pre-application or application filed by the owner, manager or operator of the real property and/or building; or
+
+(B) an IDA application filed by such owner, operator or manager; or
+
+(C) a lease for the real property submitted for approval to UDC or to the City in accordance with the applicable Charter provisions (provided that such lease need not describe or identify buildings located or to be located on such real property), whichever is applicable;
+
+      (ii) the expenditures for such construction or renovation required by subdivision (i) of § 22-601 of the code shall occur either:
+
+(A) subsequent to the filing of such final application or preliminary application with ICIP, and the issuance of a building permit, if required, for such construction or renovation; or
+
+(B) subsequent to the receipt of an inducement resolution from IDA for the project described in such IDA application; or
+
+(C) subsequent to the approval of the lease described in subparagraph (4) or (5) of subdivision (i) of § 22-601 of the code by UDC or by the City in accordance with the applicable Charter provisions;
+
+      (iii) for applications made after the effective date of these rules, the expenditures made for such construction or renovation described in paragraph (1) of this subdivision (b) of this § 5-12, must be in excess of ten percent (10%) of the assessed value of the real property and building in the tax year in which such construction or renovation commenced;
+
+      (iv) the real property and building are located in an eligible move-in area;
+
+      (v) the premises have provisions to receive energy services either: (I) directly from a utility; or (II) from a vendor; or (III) from NYCPUS;
+
+      (vi) the applicant must take occupancy of such premises and continue in such occupancy while benefits are received;
+
+      (vii) if such premises receive electricity from an on-site cogenerator, such on-site cogenerator shall occupy the same site as such premises; and
+
+      (viii) if the applicant's premises are contained in a newly constructed building, such building must meet the requirements of the New York State Energy Conservation Construction.
+
+   (2) Notwithstanding the provisions set forth in subparagraph (A), paragraph (1) of this subdivision (b), an applicant that occupies premises within a building that would otherwise qualify as eligible to receive benefits under ICIP except that the real property on which such building is located is exempt from real property taxation, may be eligible as an occupant of premises within specially eligible premises, if all other applicable requirements of eligibility of this Subchapter B are met and such applicant receives a certification from DOF stating that the premises are within a building for which expenditures for improvements have been made in compliance with the applicable provisions of subdivision (i) of § 22-601 of the code and this paragraph (b).
+
+(c) Special criteria applicable to manufacturing premises located in Manhattan below 96th Street. Non-residential premises contained in real property located in the area lying south of the center line of 96th Street in the Borough of Manhattan may qualify as specially eligible premises if the criteria in paragraph (4) of subdivision (i) of § 22-601 of the code and the provisions of subdivision (b) of this § 5-12 for specially eligible premises are otherwise satisfied where such premises are used primarily for manufacturing activities, provided such premises shall be improved as a result of expenditures in an amount in excess of ten per centum of the assessed value of such real property attributable to such premises at which such real property was assessed for tax purposes for the tax year in which such improvements commenced.
+
+
+
+
+
+
+*§ 5-13 Charges.* ::
+
+
+(a)  Eligible charges.
+
+   (1) Eligible charges are charges for energy services purchased by an eligible energy user, an eligible owner, or a qualified eligible energy user from a utility or from a vendor at a rate or rates established pursuant to an order or rule of the PSC or FERC, other than charges for the purchase of the commodity of natural gas or electricity, and shall include applicable rate reductions for economic development or similar purposes, and all taxes payable thereon and shall exclude charges in accordance with paragraph (2) of this subdivision (a).
+
+   (2) Eligible charges shall not include the following charges:
+
+      (i) any special charges on such bills relating to energy services, including, but not limited to, collection charges, late payment charges, excess distribution charges, or any additional fee charged by a vendor to an eligible energy user for energy services, as authorized by paragraph § 5-11(f)(ii) of these rules;
+
+      (ii) charges for energy services that are resold; and
+
+      (iii) charges for energy services used in the production of electricity or for heating the premises.
+
+(b) Eligible public utility service charges.
+
+   (1) Eligible public utility service charges are actual charges for energy services provided by a public utility service, including charges for public utility service administrative services, and shall include all taxes payable thereon, and shall exclude charges in accordance with paragraph (2) of this subdivision (b).
+
+   (2) Eligible public utility service charges shall not include the following charges:
+
+      (i) any special charges on such bills relating to energy services, including, but not limited to, collection charges, late payment charges, excess distribution charges, or any additional fee charged by a vendor to an eligible energy user or qualified eligible energy user for energy services, as authorized by paragraph § 5-11(f)(ii) of these rules;
+
+      (ii) charges for such energy services that are resold; and
+
+      (iii) charges for energy services used in the production of electricity or for heating the premises.
+
+(c) Eligible charges for common areas in specially eligible premises.
+
+   (1) With respect to an eligible owner that owns, operates or manages specially eligible premises or targeted eligible premises in which at least fifty percent (50%) of the square footage of such specially eligible premises is occupied by recipients, eligible charges or eligible public utility service charges shall include the following:
+
+      (i) eligible charges or eligible public utility charges for any common areas within the specially eligible premises, including but not limited to, the elevators, roof, parking garages, lobby, and vestibules; and
+
+      (ii) eligible charges or eligible public utility charges for the office space that is reasonably required for use by the eligible owner for the operation or management of the specially eligible premises, as determined by the commissioner, if applicable.
+
+(d) Eligible on-site cogenerator charges.
+
+   (1) Eligible on-site cogenerator charges are charges for energy services purchased by a category II on-site cogenerator from a utility related to the delivery of natural gas to such co-generator at rates established pursuant to an order or rule of the PSC or the FERC, and shall include applicable rate reductions for economic development or similar purposes, and all taxes payable thereon and shall exclude charges in accordance with paragraph (2) of this subdivision.
+
+   (2) Eligible on-site cogenerator charges shall not include the following charges:
+
+      (i) any special charges on such bills relating to energy services, including, but not limited to, collection charges, late payment charges, excess distribution charges, or any additional fee charged by a vendor to an eligible energy user for energy services, as authorized by paragraph § 5-11(f)(ii) of these rules;
+
+      (ii) charges for energy services that are resold;
+
+      (iii) charges for energy services used for heating the premises; and
+
+      (iv) any charges that qualify as eligible charges and for which special rebates are provided under other provisions of ECSP.
+
+(e) Determination of eligible charges, eligible public utility service charges, and eligible on-site cogenerator charges by the commissioner.
+
+   (1) The commissioner shall base his or her determination of which charges are eligible charges, eligible public utility charges, or eligible on-site cogenerator charges based upon:
+
+      (i) representations and/or certifications made by the applicant in its application to ECSP;
+
+      (ii) a review of the applicant's prior energy services bills;
+
+      (iii) a site visit; and/or
+
+      (iv) any other relevant factors relating to use and occupancy that is deemed by the commissioner to be relevant in making such a determination.
+
+   (2) An eligible energy user, qualified eligible energy user, or category II on-site co-generator has the burden of demonstrating to the commissioner that charges for energy services are eligible charges, eligible public utility service charges, or eligible on-site cogenerator charges, respectively. If a determination of eligible charges, eligible public utility service charges, or eligible on-site cogenerator charges cannot be ascertained by the commissioner without a survey or the eligible energy user, qualified eligible energy user, or category II on-site cogenerator is not satisfied with the commissioner's determination of such charges, such user may request that the commissioner cause a survey to be conducted by a licensed professional engineer satisfactory to DSBS at such user's expense, of the applicant's usage of energy services. Upon completion of the survey, the professional who prepares such survey shall submit the report, together with a certification as to the amount of eligible charges or eligible public utility service charges to the commissioner for his or her review.
+
+   (3) The commissioner, after reviewing all relevant documentation submitted by the applicant, shall, in his or her sole discretion, determine those charges that constitute the eligible energy user's, qualified eligible energy user's, or category II on-site cogenerator's eligible charges, eligible public utility service charges, or eligible on-site cogenerator charges to which a special rebate may be applied. If such user disagrees with the commissioner's findings, such user may request an opportunity to be heard in accordance with §§ 5-45, 5-46 and 5-47 of these rules.
+
+
+
+
+
+
+*§ 5-14 Special Rebates.* ::
+
+
+(a)(1)  A utility that sells energy services to an eligible energy user or eligible owner that applied for ECSP benefits after October 31, 2000, shall be required to make a special rebate to such user equal to the product of the applicable percentage specified for special rebates in the schedule contained in § 5-16 of these rules and the eligible charges for such energy services.
+
+   (2) A utility other than LIPA that sells energy services to an eligible energy user or eligible owner that applied for ECSP benefits prior to November 1, 2000 shall be required to make a special rebate to such user equal to the product of the applicable percentage specified for special rebates in the schedule contained in § 5-18 of these rules and the eligible charges for such energy services.
+
+   (3) A utility that sells energy services to a category II on-site cogenerator shall be required to make a special rebate to such cogenerator equal to the product of the applicable percentage specified for special rebates in the schedule contained in § 5-16 of these rules and the eligible on-site cogenerator charges for such energy services.
+
+(b) Where, pursuant to a written agreement between NYCPUS and the power authority of the state of New York, NYCPUS sells energy services to an eligible energy user or eligible owner that has been individually approved by such power authority and certified as an eligible energy user or eligible owner pursuant to § 22-602(c) of the Code prior to November 1, 2000, NYCPUS shall make such special rebate to such user in the amount or amounts derived by calculating the full amount of the special rebate to which such eligible energy user or eligible owner would have been entitled pursuant to the schedule contained in § 5-18 of these rules for eligible charges relating to the purchase of such energy services had such user purchased such energy services directly from the utility, and subtracting from such full amount the difference between the eligible charges relating to the purchase of such energy services had such eligible energy user or eligible owner purchased the energy services directly from the utility and the eligible public utility service charges relating to the purchase of such energy services actually charged to such eligible energy user by NYCPUS for actual purchases of energy services from NYCPUS; except that (i) in no event shall the amount of such special rebate exceed the amount of the special rebate to which such eligible energy user would have been entitled pursuant to the schedule contained in § 5-18 of these rules had such eligible energy user or eligible owner purchased the energy services directly from the utility at the price charged by such utility, and (ii) for any monthly billing period where the calculation of such special rebate results in a negative number, the amount of such special rebate shall be deemed to be zero.
+
+(c) 1)  Where, pursuant to a written agreement between NYCPUS and the power authority of the state of New York, NYCPUS sells energy services to an eligible energy user or eligible owner that has been individually approved by such power authority, has applied for ECSP benefits after October 31, 2000, NYCPUS shall make such special rebate in the amount of the product of the applicable percentage for special rebates specified in the schedule contained in § 5-16 of these rules and the eligible public utility service charges for such energy services.
+
+   (2) Where, pursuant to such an agreement, NYCPUS sells energy services to a qualified eligible energy user that has been individually approved by such power authority, applied for ECSP benefits prior to November 1, 2000, regardless of the date of certification, NYCPUS shall make such special rebate in the amount of the product of the applicable percentage for special rebates specified in the schedule contained in § 5-18 of these rules and the eligible public utility service charges for such energy services.
+
+   (3) A user or owner that applied for ECSP benefits as a qualified eligible energy user before November 1, 2000, but was not certified pursuant to § 5-36 of these rules as such prior to such date, may be certified as an eligible energy user after such date and the special rebates to which such user or owner is eligible shall be determined pursuant to § 5-18 in accordance with these rules.
+
+(d) 1)  A vendor that sells energy services provided by a utility to an eligible energy user, eligible owner, or on-site cogenerator that applied for ECSP benefits after October 31, 2000, may elect to provide a special rebate that shall be the product of the applicable percentage for special rebates specified in the schedule contained in § 5-16 of these rules and the eligible charges or eligible on-site cogenerator charges for such sales of energy services made by such vendor.
+
+   (2) A vendor that sells energy services provided by a utility to an eligible energy user, eligible owner, or on-site cogenerator that applied for ECSP benefits prior to November 1, 2000, may elect to provide a special rebate that shall be the product of the applicable percentage for special rebates specified in the schedule contained in § 5-18 of these rules and the eligible charges or eligible on-site cogenerator charges for such sales of energy services made by such vendor.
+
+(e) 1)  A vendor that sells energy services provided by NYCPUS to an eligible energy user or eligible owner that applied for ECSP benefits after October 31, 2000, may elect to provide a special rebate that shall be the product of the applicable percentage specified for special rebates in the schedule contained in § 5-16 of these rules and the eligible public utility service charges for sales of energy services made by such vendor.
+
+   (2) A vendor that sells energy services provided by NYCPUS to a qualified eligible energy user that was certified pursuant to § 22-602(c) of the Code prior to November 1, 2000, or to an eligible energy user or eligible owner that applied for ECSP benefits prior to November 1, 2000 and was certified pursuant to § 5-36 of these rules after October 31, 2000 may elect to provide a special rebate that shall be the product of the applicable percentage specified for special rebates in the schedule contained in § 5-18 of these rules and the eligible public utility service charges for sales of energy services made by such vendor.
+
+(f) 1)  A utility that delivers natural gas to a category I on-site cogenerator that produces electricity for an eligible energy user or eligible owner certified before July 1, 2003, and a utility that delivers natural gas to a clean on-site cogenerator that produces electricity for an eligible energy user and is certified after June 30, 2003, shall be required to make special rebates against the energy bill rendered to such on-site cogenerator by such utility for the sale or delivery, or both, of such gas in the amount or amounts derived by taking the product of 4.44 cents multiplied by an eligibility factor, multiplied by the number of kilowatt hours of electricity produced by such on-site cogenerator and used by such eligible energy user or eligible owner during the billing period, excluding the charges for electricity used for heating any premises, any special charges on such bill, including but not limited to, collection charges, late payment charges, or excess distribution charges, and charges for energy that is resold; where the eligibility factor shall equal 100 percent during the first eight years after initial certification as an eligible energy user, 80 percent during the 9th such year, 60 percent during the 10th such year, 40 percent during the 11th such year and 20 percent during the 12th and final such year, such years to be calculated in accordance with the provisions of § 5-19 of these rules. Provided, however, that the number of kilowatt hours of electricity on which the total of the special rebates payable to a clean on-site cogenerator is based in any calendar or fiscal year as specified by the commissioner pursuant to the formula set forth in this paragraph shall not exceed 13,140,000.
+
+   (2) i)  A category I on-site cogenerator and a clean on-site cogenerator may be eligible to receive special rebates based on eligible charges for transportation of natural gas that is not used in the production of electricity. If eligible, such special rebate for a category I cogenerator providing electricity to an eligible energy user that applied before November 1, 2000, shall be equal to the product of such eligible charges and the rebate percentage determined in accordance with § 5-18. If eligible, such special rebate for a clean on-site cogenerator or a category I on-site cogenerator providing electricity to an eligible energy user that applied after October 31, 2000, shall be equal to the product of such eligible charges and the rebate percentage determined in accordance with § 5-16.
+
+(g) Determination of special rebates payable to category I on-site cogenerators and clean on-site cogenerators by the commissioner. (1) The commissioner shall have the authority to determine the information he or she requires to review and determine appropriate special rebates payable under this section. He or she may require electric and/or thermal production to be metered in a reliable manner and that site visits be made to verify meter readings.
+
+   (2) A category I on-site co-generator or clean on-site cogenerator has the burden of demonstrating to the commissioner the amount of electricity generated by the cogenerator and the purposes for which such electricity is used. If a determination of such amount or use cannot be made by the commissioner without a survey or such cogenerator is not satisfied with the commissioner's determination, the commissioner may require, or such user may request, that a survey of the applicant's production and usage of energy services be conducted by a person with experience in conducting such surveys satisfactory to DSBS at such user's expense. Upon completion of the survey, the person who prepares such survey shall submit his or her report, together with a certification as to the amount electricity produced and its use to the commissioner for his or her review.
+
+   (3) A clean on-site cogenerator shall have the burden of demonstrating to the commissioner that its nitrous oxide emissions will not exceed the emissions threshold described herein. If a determination of such amount or use cannot be made by the commissioner without a survey or such cogenerator is not satisfied with the commissioner's determination, the commissioner may require, or such user may request, that a survey of the applicant's production and usage of energy services be conducted by a person with experience in conducting such surveys satisfactory to DSBS at such user's expense. Upon completion of the survey, the person who prepares such survey shall submit his or her report, together with a certification as to the plant's emissions.
+
+   (4) The commissioner, after reviewing all relevant documentation submitted by the applicant, shall, in his or her sole discretion, determine the special rebate to which such category I cogenerator or clean on-site cogenerator is entitled. If such user disagrees or with the commissioner's findings, such user may request an opportunity to be heard in accordance with §§ 5-45, 5-46 and 5-47 of these rules.
+
+
+
+
+
+
+*§ 5-15 Discounts.* ::
+
+
+(a)  A utility that sells energy services to a vendor of energy services shall be required to make a discount to such vendor in an amount equal to the sum of the special rebates certified to such utility by such vendor as having been made by such vendor to eligible energy users and eligible owners in accordance with § 5-14 of these rules.
+
+(b) A utility that sells energy services to a public utility service shall be required to make a discount to such public utility service in an amount equal to the sum of the special rebates and discounts certified to such utility by such public utility service as having been made by such public utility service in accordance with § 5-14 of these rules.
+
+(c) NYCPUS shall be required to make a discount to a vendor to which it sells energy services equal to the sum of the special rebates certified to NYCPUS by such vendor as having been made by such vendor to eligible energy users, eligible owners or qualified eligible energy users to which such vendor of energy services has resold such energy.
+
+
+
+
+
+
+*§ 5-16 Table of Percentages Applicable to the Calculation of Special Rebates for Users that Applied for ECSP Benefits After October 31, 2000.* ::
+
+
+Schedule of Special Rebates 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 
+~
+
+
+
+  
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - Months During Benefit Period 
+      - 
+      - Applicable % for Natural Gas 
+      - 
+      - Applicable % for Electricity 
+~
+
+
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 
+~
+
+
+
+  
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - First through ninety-sixty
+      - 
+      - 35% 
+      - 
+      - 45% 
+    * - Ninety-seventh through one hundred eighth
+      - 
+      - 28% 
+      - 
+      - 36% 
+    * - One hundred ninth through one hundred twentieth
+      - 
+      - 21% 
+      - 
+      - 27% 
+    * - One hundred twenty-first through one hundred thirty-second
+      - 
+      - 14% 
+      - 
+      - 18% 
+    * - One hundred thirty-third through one hundred forty-fourth
+      - 
+      -   7% 
+      - 
+      -   9% 
+~
+
+
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 
+~
+
+
+
+
+
+
+
+
+
+
+*§ 5-17 Special Rebates for Those that Applied for ECSP Benefits Prior to November 1, 2000 and are Certified Prior to July 1, 2001. [Repealed]* ::
+
+
+(a)  Paragraph (4) of subdivision (a) of § 22-602 of the code states that the commissioner may increase the applicable percentages set forth in § 5-16 of these rules "in order to maintain the special rebate at levels comparable to those historically provided under the program, pursuant to rules that are generally applicable to distinct classes of energy users." In accordance with this provision, the percentages set forth in § 5-18(b) of these rules shall be applicable to the calculations of special rebates for all eligible energy users, eligible owners, and qualified eligible energy users that applied for ECSP benefits prior to November 1, 2000. These percentages shall be in place from the first billing cycle beginning on or after April 30, 2003.
+
+(b) For all billing cycles prior to the ninety-seventh month of each of the above-noted eligible energy user's, eligible owner's and qualified eligible energy user's benefit period occurring during the period beginning on or after April 30, 2003, each such user shall receive rebates on eligible charges as specified in this paragraph; provided that the applicable rebate percentages shall not, for any affected electric or natural gas account, exceed 100% of the eligible charges or eligible public utility service charges charged in any billing cycle.
+
+   (1) The rebate percentage to be applied to eligible charges for electrical-related energy services provided by Con Edison pursuant to its "PSC No. 9 – Electricity Rate Schedule" or "PSC No. 2 – Retail Access Rate Schedule" shall equal the percentages specified in Attachment A of Appendix A to these rules, which shall vary depending on such user's average monthly load factor, applicable service classification and the applicable rate, and whether such user receives discounts on service pursuant to a service rider. If, for any affected user, eligible charges for electrical-related energy services were rendered at more than one service classification and/or at more than one rate for a service classification, the rebate percentages specified in Attachment A of Appendix A to these rules shall apply to the extent that each applicable service classification and/or rate and/or service rider applies to such user. To the extent that any user is served under Con Edison's "PSC No. 9 – Electricity Rate Schedule" its rebate percentages shall be determined as if such user were served under Con Edison's PSC No. 2 – Retail Access Rate Schedule.
+
+   (2) The rebate percentage to be applied to eligible charges for natural gas-related energy services provided by Con Edison pursuant to its "PSC No. 9 – Gas Rate Schedule" shall equal the percentages specified in Attachment C of Appendix A to these rules, which shall vary depending on such user's average monthly consumption, applicable service classification and the applicable rate, and whether such user receives discounts on energy services rates pursuant to a service rider or other tariff provision. If, for any affected user, eligible charges for natural gas-related energy services were rendered at more than one service classification and/or at more than one rate for a service classification or if discounted service was provided to part of the consumption rendered through an account pursuant to a service rider or tariff provision, the rebate percentages specified in Attachment C of Appendix A to these rules shall apply to the extent that each applicable service classification and/or rate and/or service rider applies to such user. To the extent that such user is served under "PSC No. 9 – Gas Rate Schedule," its rebate percentages shall be determined as if such user were served under the corresponding full-service rate and service classification and rate.
+
+   (3) A)  Except as otherwise provided in subparagraph (B) of this paragraph (3), the rebate percentage to be applied to eligible charges for natural gas-related energy services provided by Keyspan pursuant to its "PSC No. 12 – Gas Rate Schedule" shall equal the percentages specified in Attachment D of Appendix A to these rules, which shall vary depending on the user's average monthly consumption, the applicable service classification and the applicable rate, and whether the user receives discounts on energy services rates pursuant to a service rider or other tariff provisions. If, for any affected user, eligible charges for natural gas-related energy services were rendered at more than one service classification and/or at more than one rate for a service classification or if discounted service was provided to part of the consumption rendered through an account pursuant to a service rider or tariff provision, the rebate percentages specified in Attachment D of Appendix A to these rules shall apply to the extent that each applicable service classification and/or rate and/or service rider or other tariff discount applies to such user.
+
+(B) The special rebate levels applicable, pursuant to this paragraph (3), to eligible charges for energy services procured by an eligible energy user from KeySpan pursuant to service classification 4A (High Load Factor service) of its "PSC No. 12 – Natural Gas Rate Schedule" shall be increased during the period beginning on or after April 30, 2003 and ending no later than October 31, 2004, by the amounts set forth in Schedule D-1 of Appendix A of these rules, depending on the user's average monthly consumption, for all eligible energy users that applied for ECSP benefits prior to November 1, 2000 and were certified before February 1, 2001. The special rebate levels applicable, pursuant to this paragraph (3), to eligible charges for energy services procured by an eligible energy user from KeySpan pursuant to service classification 4A (High Load Factor service) of its "PSC No. 12 – Natural Gas Rate Schedule" shall be increased during the period beginning on April 30, 2003 and ending no later than October 31, 2004, by the amount equal to half the amount set forth in such Schedule D-1, depending on the user's average monthly consumption, for all eligible energy users that applied for ECSP benefits prior to November 1, 2000 and were certified during the period beginning on or after January 31, 2001 and ending on or before September 30, 2002.
+
+   (4) The rebate percentage to be applied to eligible public utility service charges for electrical-related energy services provided by NYCPUS pursuant to its "Service Tariff No. 4 Rate Schedule" shall equal the percentages specified in Attachment B of Appendix A to these rules, which shall vary depending on the user's average monthly load factor, the applicable service classification and the applicable rate, and whether the user receives discounts on service pursuant to a service rider. If, for any affected user, eligible public utility service charges for electrical-related energy services were rendered at more than one service classification and/or at more than one rate for a service classification, the rebate percentages specified in Attachment B of Appendix A to these rules shall apply to the extent that each applicable service classification and/or rate and/or service rider applies to the user.
+
+   (5) The rebate percentage to be applied to eligible charges for natural gas-related energy services provided by a local distribution utility pursuant to an individually-negotiated natural gas sales contract entered into prior to November 1, 2001 and having a transportation price of less than $1.50 per dekatherm, shall be 100%.
+
+   (6) The rebate percentage to be applied to eligible charges for energy services provided by LIPA to an eligible energy user or eligible owner that applied for ECSP benefits before November 11, 2000 shall be 49% to the extent services are received through the Power for Jobs program and 57% to the extent energy services are provided by LIPA under its other commercial rates.
+
+(c) For all billing cycles after the ninety-sixth month of each of the above-noted user's benefit period and thereafter during the period beginning with the first billing cycle following June 1, 2001, the applicable rebate percentages on eligible charges, determined as specified in § 5-18(b) of these rules, shall be multiplied by an adjustment factor, depending on the month of the benefit period in which the energy services were rendered; provided that the applicable rebate percentages shall not, for any affected electric or natural gas account, exceed 100% of the eligible charges charged in any billing cycle. The adjustment factors are as follows:  
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 
+~
+
+
+
+  
+
+
+.. list-table::
+    :header-rows: 1
+
+    * -  
+      - Month of Benefit Period
+      -  
+      -  Adjustment Factor
+      - 
+    * -  
+      -  
+      -  
+      -  
+      - 
+~
+
+
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 
+~
+
+
+
+  
+
+
+.. list-table::
+    :header-rows: 1
+
+    * -  
+      - 97 through 108
+      -  
+      - 0.8 
+      -  
+    * -  
+      -  
+      -  
+      -  
+      - 
+~
+
+
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 
+~
+
+
+
+  
+
+
+.. list-table::
+    :header-rows: 1
+
+    * -  
+      - 109 through 120
+      -  
+      - 0.6 
+      -  
+    * -  
+      -  
+      -  
+      -  
+      - 
+~
+
+
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 
+~
+
+
+
+  
+
+
+.. list-table::
+    :header-rows: 1
+
+    * -  
+      - 121 through 132
+      -  
+      - 0.4 
+      -  
+    * -  
+      -  
+      -  
+      -  
+      - 
+~
+
+
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 
+~
+
+
+
+  
+
+
+.. list-table::
+    :header-rows: 1
+
+    * -  
+      - 133 through 144
+      -  
+      - 0.2 
+      -  
+    * -  
+      -  
+      -  
+      -  
+      - 
+~
+
+
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 
+~
+
+
+
+  
+
+
+.. list-table::
+    :header-rows: 1
+
+    * -  
+      - 145 and thereafter
+      -  
+      - 0.0 
+      -  
+    * -  
+      -  
+      -  
+      -  
+      - 
+~
+
+
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - 
+~
+
+
+
+ 
+
+
+
+
+
+
+*§ 5-19 Benefit Period.* ::
+
+
+(a)  Except as set forth in (b) of this § 5-19, all recipients shall be eligible to receive a special rebate for a period not to exceed one hundred and forty-four (144) consecutive months commencing at the beginning of the month immediately following the effective date of their certificate of eligibility.
+
+(b) A recipient that occupies premises within specially eligible premises after the effective date on which an initial certificate of eligibility of the first eligible energy user occupying such premises is eligible to receive a special rebate for the remaining portion of the benefit period prescribed in such certificate of eligibility for such premises.
+
+
+
+
+
+
+
+**Subchapter C: Method of Granting Special Rebates, Utility Credits And/or Discounts**
+
+
+
+*§ 5-21 Granting of Special Rebates to Eligible Energy Users, Eligible Owners, Qualified Eligible Energy Users and On-Site Cogenerators.* ::
+
+
+(a)(1)  A utility and NYCPUS shall reduce their monthly bills for energy services to eligible energy users, eligible owners, qualified eligible energy users and on-site cogenerators that are eligible to receive a special rebate pursuant to § 5-14 of these rules during their respective benefit periods by the applicable special rebate calculated in accordance with such § 5-14.
+
+   (2) A utility and NYCPUS shall commence reducing each such monthly bill in accordance with this subdivision (a) of this § 5-21 within thirty (30) days of receipt of the executed certificate of eligibility, or upon the effective date of the certificate of eligibility, whichever is later. The special rebate provided by a utility or public utility service shall be separately stated and shown on each such bill.
+
+(b) 1)  A vendor that elects to provide an eligible energy user, eligible owner or qualified eligible energy user with special rebates pursuant to § 5-14 of these rules shall provide such user or owner with a monthly bill for submetered energy services reduced during its benefit period by the applicable special rebate calculated in accordance with such § 5-14.
+
+   (2) Such vendor shall commence reducing each such monthly submetered bill for energy services upon the effective date of the certificate of eligibility by the full amount of the special rebate that is calculated in accordance with the applicable provisions of § 5-14 of these rules. The special rebate shall be provided to such eligible energy user, eligible owner or qualified eligible energy user by the vendor on a monthly basis during the benefit period and such amount shall be separately stated and shown on each bill.
+
+   (3) Such eligible energy user, eligible owner or qualified eligible energy user, upon receipt of its reduced bill from the vendor, must remit payment in accordance with the written agreement between such user or owner and such vendor together with an executed remittance form, in accordance with § 5-22 of these rules, setting forth the dollar amount of the special rebate such user or owner has received from its vendor for the applicable monthly billing cycle.
+
+   (4) The vendor shall execute and forward the remittance form to the utility or NYCPUS, whichever entity supplied such vendor with energy services, together with payment for the balance of the bill for such energy services in order to receive a discount from the utility or NYCPUS. The amount on such remittance form shall be credited on its bill for the monthly billing cycle during which the special rebate was made to the eligible energy user, eligible owner or qualified eligible energy user, or for such subsequent monthly billing cycle where payment by the vendor to the utility or NYCPUS was not timely made.
+
+
+
+
+
+
+*§ 5-22 Remittance Form.* ::
+
+
+(a)  Where special rebates are provided by a vendor of energy services, a remittance form, which shall be a form approved by the commissioner, shall be signed by the recipient and the vendor, submitted to the utility or NYCPUS, and the commissioner, and shall include, but not be limited to, the following information:
+
+   (1) the name of the recipient who receives submetered energy services;
+
+   (2) the vendor's utility or NYCPUS customer account name;
+
+   (3) the vendor's utility or NYCPUS customer account number;
+
+   (4) the amount of the special rebate granted by the vendor to a recipient for the billing period covered by the remittance form;
+
+   (5) the amount of the recipient's eligible charges for the applicable billing period;
+
+   (6) the billing period for which the recipient has received a special rebate from a vendor;
+
+   (7) the recipient's certificate of eligibility number and effective date;
+
+   (8) the schedule of special rebates the recipient may receive for the benefit period pursuant to Subchapter B of these rules;
+
+   (9) the amount of any additional fee charged by the vendor pursuant to paragraph 5-11(f)(ii) of these rules;
+
+   (10) such other information as may be requested by the commissioner.
+
+(b) Remittance forms submitted in accordance with subdivision (a) of this section must be submitted to the commissioner within ninety (90) days of the closing meter reading date for which special rebates are sought. The commissioner may decline to approve a discount to a vendor of energy services based on submissions received after the expiration of such period.
+
+
+
+
+
+
+*§ 5-22.1 Cogenerator Credit Form.* ::
+
+
+(a)  A cogenerator credit form shall consist of a form approved by the commissioner.
+
+(b) A category I or clean on-site cogenerator shall submit a cogenerator credit form to the commissioner and to the utility within ninety (90) days of the end of the billing period for which special rebates are sought.
+
+
+
+
+
+
+*§ 5-23 Granting of Discount to Vendors.* ::
+
+
+(a)  Vendors that have granted special rebates to eligible energy user or eligible owners in accordance with § 5-14 of these rules, shall submit executed remittance forms to the utility or NYCPUS, as applicable. Each remittance form shall be limited to a single monthly billing cycle.
+
+(b) A utility or NYCPUS shall grant a discount to a vendor equal to the monthly aggregate amount of all remittance forms reflecting special rebates granted by a vendor to eligible energy user, eligible owners or qualified eligible energy users in accordance with § 5-15 of these rules, provided, however, that the discount granted by the utility or NYCPUS shall not exceed the bill(s) for the energy services supplied to such vendor by such utility or NYCPUS, respectively. At no time shall a utility or NYCPUS be required to carry forward on its books and records any discounts not fully made to a vendor to reduce bills for subsequent billing cycles.
+
+
+
+
+
+
+*§ 5-24 Granting of Discounts to NYCPUS.* ::
+
+
+(a)  A utility shall provide NYCPUS with a discount against its monthly bill upon proper and timely submission of executed remittance forms to the utility. Each remittance form shall be limited to a single monthly billing cycle.
+
+(b) The utility shall grant a discount to NYCPUS equal to the monthly aggregate amount of all remittance forms reflecting special rebates granted by NYCPUS to eligible energy users, eligible owners or qualified eligible energy users in accordance with § 5-15 of these rules and discounts granted to vendors that, in turn, granted special rebates to eligible energy users, eligible owners or qualified eligible energy users in accordance with § 5-14 of these rules, provided, however, that the discount granted by the utility shall not be in an amount that exceeds the bill(s) for energy services supplied to NYCPUS by such utility. At no time shall a utility be required to carry forward on its books and records any discounts not fully made to NYCPUS to reduce bills for subsequent billing cycles.
+
+
+
+
+
+
+*§ 5-25 Granting of Utility Credit to Utilities; Audit.* ::
+
+
+(a)  Utilities that have granted special rebates to eligible energy users, eligible owners or on-site cogenerators in accordance with § 5-14 of these rules or discounts to vendors or NYCPUS in accordance with § 5-15 of these rules shall be entitled to a utility credit equal to the aggregate amount of all such special rebates and discounts it has provided to eligible energy users, eligible owners, qualified eligible energy users, on-site cogenerators, vendors and/or NYCPUS, whichever is applicable.
+
+(b) Such utility credit may be taken only as provided for in the code, these rules and the rules promulgated by the commissioner of DOF, for the purpose of permitting utilities a deduction against certain taxes.
+
+(c) The utility credit to which utility is entitled under ECSP will be provided by DOF in accordance with rules promulgated by the commissioner of DOF.
+
+(d) DOF may audit, among other things, the utility credit taken by a utility to offset the special rebates and discounts such utility granted under ECSP to recipients, vendors and NYCPUS.
+
+
+
+
+
+
+
+**Subchapter D: Applications**
+
+
+
+*§ 5-31 Forms and Filing of Application.* ::
+
+
+(a)  All application forms may be obtained from DBS and, upon completion, shall be submitted to DBS. Only completed applications shall be considered by DBS in determining the applicant's eligibility, or ineligibility, under the Act and these rules.
+
+(b) A check for the non-refundable application filing fee specified in § 5-34 of these rules shall be submitted by the applicant to the commissioner together with an executed original copy of the application.
+
+
+
+
+
+
+*§ 5-32 Submission of an Application.* ::
+
+
+(a)  An applicant that applies after the effective date of these rules must comply with the following application procedures to be considered for eligibility under ECSP:
+
+   (1) An applicant that is relocating to premises that may qualify as replacement premises must file an application prior to taking occupancy of such premises or the signing of a lease or contract of sale for such premises, whichever is earlier (except in the case of a contract of sale entered into subject to the approval of public or private financing).
+
+   (2) An applicant that owns and occupies, manages or operates real property or a building that may qualify as specially eligible premises must file an application within the following time constraints, whichever is applicable:
+
+      (i) prior to the approval of an inducement resolution by IDA to finance in whole or in part an applicant's IDA project; or
+
+      (ii) prior to the signing of a lease approved by UDC or by the City in accordance with the applicable Charter provisions for premises contained on or within real property owned by the City or UDC; or
+
+      (iii) after the filing of a preliminary application or final application with DOF for construction or renovation in connection with an ICIP project eligible to obtain ICIP benefits from DOF.
+
+   (3) An applicant that is occupying premises within a building that it does not own, operate or manage and which building is the subject of an application for an initial certificate of eligibility as specially eligible premises must file an application within one hundred twenty (120) days of the effective date of the initial certificate of eligibility for such building to obtain a certificate of eligibility for such premises.
+
+   (4) An applicant that takes occupancy of premises within a building that has previously qualified as specially eligible premises must file an application within one hundred twenty (120) days of taking occupancy of such premises, or of the signing of a lease or contract of sale for such premises, whichever is earlier.
+
+   (5) No applicant shall be certified as eligible more than 5 years after the initial submission by such applicant pursuant to paragraphs (1) or (2) of subdivision (a) of this section, except where the approval of the application has been delayed by the actions or inactions of the City of New York and/or the applicant demonstrates to the commissioner that it has made substantial progress toward obtaining certification. An applicant that cannot make such demonstration will be given the opportunity to renew its application by updating its application with current information and by paying a new application fee according to the fee schedule currently in effect.
+
+
+
+
+
+
+*§ 5-33 Contents of Application.* ::
+
+
+(a)  The applicant shall have the affirmative burden of proving its eligibility to the satisfaction of the commissioner as to each and every fact contained in the application. The applicant shall provide DSBS with all information required in the application and deemed necessary or useful for the administration of ECSP, including but not limited to, the following:
+
+   (1) applicant's name; telephone number; address at its current and previously occupied premises, where applicable; employer identification number; name of utility and utility customer number at the eligible premises, if available, and for the previously occupied premises, where applicable; number of present employees to be relocated or located at the eligible premises; length of time at the previously occupied premises, where applicable; names and addresses of any parent, subsidiaries, or affiliated companies; and the name and title of an individual authorized to complete the application on behalf of the applicant; and
+
+   (2) a lease, contract of sale or deed for the eligible premises, whichever is applicable; copies of utility bills for the previously occupied premises and the eligible premises, where applicable; federal and state tax returns, as may be requested by the commissioner to verify among other things, occupancy at the eligible premises and the previously occupied premises, where applicable;
+
+   (3) any other information, documentary or otherwise, including, but not limited to, sworn statements and other data, that the commissioner deems relevant to evaluate the applicant's application; and
+
+   (4) a sworn statement agreeing to return all special rebates in excess of $10,000 per employee received during any calendar year, with interest calculated at the prime rate as specified in The New York Times published on the last day of that calendar year, compounded monthly.
+
+(b) In addition to the requirements of subdivision (a) of this § 5-33, an applicant that purchases energy services from a vendor shall submit as part of its application in form and substance satisfactory to the commissioner, the following:
+
+   (1) a written contract or lease agreement between the applicant and the vendor setting forth an agreement by such vendor to provide individual and accurate submetering of the applicant's premises, and stating as conditions for the sale of energy services from such vendor to the applicant that:
+
+      (i) the applicant will be separately billed for its usage of energy services; and
+
+      (ii) the price charged by such vendor for such energy services, electricity and/or natural gas, shall not exceed the limits set forth in § 5-11(f)(ii) of these rules; and
+
+   (2) a written confirmation by such applicant's vendor to the commissioner stating the vendor's agreement to participate in ECSP by providing a special rebate to the applicant and by complying with the terms of the agreement referred to in paragraph (b)(1) of this § 5-33. Pursuant to such written confirmation, the vendor shall agree to provide separate monthly bills to the applicant itemizing all charges for energy services consumed and separately state the applicable ECSP benefit.
+
+(c) In addition to the requirements of subdivision (a) and (b) of this section, an applicant seeking to be certified as a clean on-sight cogenerator shall provide evidence, acceptable to the commissioner, that the electricity generating facility seeking certification has an emission rate for nitrous oxides required of clean on-site cogenerators.
+
+
+
+
+
+
+*§ 5-34 Application Filing Fee.* ::
+
+
+(a)  For commercial buildings seeking designation as a specially eligible premises and commercial firms qualifying for ECSP by virtue of a relocation, the application fee shall be determined as set forth below:  
+
+
+.. list-table::
+    :header-rows: 1
+
+    * -  
+      - Gross Square Footage of Applicant's Premises
+      -  
+      - Fee
+    * -  
+      - Less than 10,000 square feet
+      -  
+      - $500
+    * -  
+      - 10,001 to 25,000 square feet
+      -  
+      - $1,000
+    * -  
+      - 25,001 to 50,000 square feet
+      -  
+      - $1,250
+    * -  
+      - 50,001 to 100,000 square feet
+      -  
+      - $1,500
+    * -  
+      - 100,001 to 250,000 square feet
+      -  
+      - $2,500
+    * -  
+      - Over 250,000 square feet
+      -  
+      - $5,000
+~
+
+
+
+ In the case of an eligible owner (for example, a landlord) applying for ECSP benefits for a building, gross square footage for purposes of the filing fee is limited to square footage that is not or will not be occupied by tenants (i.e., common areas, equipment rooms etc.).
+
+(b) In addition to the filing fee, an applicant shall pay for all costs incurred as a result of any survey conducted by or at the request of the commissioner to develop or verify any factual matters relating to the application.
+
+(c) All fees shall be made payable by check or money order to the "New York City Department of Small Business Services".
+
+
+
+
+
+
+*§ 5-35 Representations and Warranties.* ::
+
+
+(a)  As part of the application and reports required by the Act or these rules, the applicant shall certify and make such representations and warranties as may, from time to time, be deemed necessary to ensure compliance with the provisions of all applicable laws and these rules, including, but not limited to, the following:
+
+   (1) that all statements made by or on behalf of the applicant in connection with the application are made by a person authorized by the applicant to make such statements and having actual knowledge or documentary information sufficient to make informed and accurate statements, and that such person believes all such statements to be true;
+
+   (2) that the applicant and its employees and agents will comply with and be in compliance with all provisions of federal, state and local laws, all local rules and executive orders, and these rules;
+
+   (3) that the applicant is applying for a special rebate only to the extent described in the application and permitted by the Act and these rules;
+
+   (4) That the applicant represents, acknowledges, covenants and agrees that it bears sole responsibility for paying the full amount of energy services costs to the appropriate utility, vendor or NYCPUS until such time as the special rebate (if any) granted to the applicant under ECSP is reflected on the applicant's bill;
+
+   (5) that the applicant agrees to permit or cause permission to be granted to the City and its agents to inspect its premises and, in the case of an applicant relocating to replacement premises, the premises from which such applicant is relocating, upon notice during regular business hours; and
+
+   (6) any other representations or warranties as may be required in the application or requested by the commissioner.
+
+(b) In addition to the requirements of subdivision (a) of this § 5-35, the applicant shall covenant and agree to repay with interest at the prime rate, as reported in The New York Times (or similar periodical selected by the commissioner), on the effective date of its certificate of eligibility accrued from the date of receipt, the full amount of any special rebate that the applicant has received if subsequently it is determined by the commissioner that the applicant was ineligible to receive a special rebate for any reason.
+
+
+
+
+
+
+*§ 5-36 Commissioner's Review; Certification of Eligibility Procedure.* ::
+
+
+(a)  The commissioner shall review the application and grant or deny an applicant's application for a certificate of eligibility.
+
+(b) The commissioner shall consider the application submitted with supporting documentation, and any surveys conducted, and any other information pertaining to the application.
+
+(c) The commissioner shall execute and provide a certificate of eligibility to eligible applicants in accordance with Subchapter E of these rules.
+
+
+
+
+
+
+
+**Subchapter E: Notification of Eligibility, Commencement of Eligibility and Opportunities To Be Heard**
+
+
+
+*§ 5-41 Notification to Applicant.* ::
+
+
+If the commissioner grants an applicant's application for a certificate of eligibility, his or her staff shall forward an executed certificate of eligibility to the applicant. If the commissioner denies an applicant's application for a certificate of eligibility, the commissioner shall promptly notify the applicant in writing, of the reason for such denial.
+
+
+
+
+
+
+*§ 5-42 Certificate of Eligibility.* ::
+
+
+(a)  The commissioner's staff will coordinate with the recipient, the utility, the vendor, NYCPUS and DOF, where applicable, to establish the effective date of the certificate of eligibility, which shall in no event be on or after July 1, 2005.
+
+(b) The certificate of eligibility shall include the following information:
+
+   (1) the benefit period the recipient is qualified for;
+
+   (2) the special rebate a recipient is qualified for;
+
+   (3) its date of issuance;
+
+   (4) its effective date; and
+
+   (5) its termination date.
+
+(c) An applicant must execute the certificate of eligibility and return it to the commissioner within six (6) months of the issuance date stated on the certificate of eligibility or before July 1, 2005, whichever is earlier. Failure of the applicant to comply with this subsection may result in a revocation of the certificate of eligibility.
+
+(d) Subsequent to establishing the effective date of the certificate of eligibility, the commissioner's staff shall affix such date to the applicant's certificate of eligibility and forward a copy of the fully completed and executed certificate of eligibility to the applicant and any other necessary party.
+
+(e) The effective date of a certificate of eligibility issued by the commissioner after June 30, 2003, and before July 1, 2005, to an on-site cogenerator serving an eligible energy user that was certified before July 1, 2003 shall be the effective date of the first certificate of eligibility issued to such eligible energy user.
+
+(f) The commissioner is authorized to certify an applicant as an on-site cogenerator as of a date prior to July 1, 2003, regardless of the date of such applicant's application for certification, provided the applicant demonstrates to the satisfaction of the commissioner that the applicant had fulfilled all eligibility and filing requirements prior to July 1, 2003, and was not certified prior to such date due to the actions or inaction of the City.
+
+
+
+
+
+
+*§ 5-43 Notification to Utilities, Vendors and/or NYCPUS.* ::
+
+
+(a)  DBS shall notify the utility, the vendor, and/or NYCPUS, whichever is appropriate, of an applicant's eligibility to receive a special rebate by forwarding to them a certified copy of an applicant's certificate of eligibility executed in accordance with § 5-52 of these rules.
+
+(b) DBS shall notify, in writing, the utility, the vendor and/or NYCPUS, whichever is appropriate, of any changes in an applicant's certificate of eligibility.
+
+
+
+
+
+
+*§ 5-44 Reporting and Inspection Requirements.* ::
+
+
+(a)  During the term of the benefit period, a recipient shall promptly notify the commissioner of any material changes that may affect a recipient's eligibility under ECSP, including but not limited to changes in: (1) the use or type of operations conducted at the eligible premises; (2) recipient's energy usage; (3) the type of metering or method of billing for energy usage at the eligible premises; (4) the occupancy and/or ownership of the eligible premises including, without limitation, the entering into of any leases or subleases at such eligible premises; (5) the number of employees performing work for the recipient and its affiliates or other persons at the premises during each month of the preceding twelve month period.
+
+(b) During the term of the benefit period, a recipient shall annually submit to the commissioner a reporting form, within thirty (30) days of the end of each calendar year, to document the current status of the recipient's continued eligibility under ECSP. Failure of a recipient to submit the annual reporting form may result in the commissioner's discontinuance of the recipient's special rebate.
+
+(c) The commissioner may require a recipient to submit such supporting documentation, including payroll, unemployment insurance filings and the like, as may be needed to verify the accuracy of the submissions of recipients in accordance with subdivision (a) of this section and carry out the purpose and functions of ECSP.
+
+(d) Information received by the commissioner pursuant to this section or otherwise may be used by him or her to determine that a recipient does not satisfy the applicable eligibility criteria in the act or these rules. The commissioner may, among other things, suspend a recipient's certificate of eligibility until a final determination of eligibility can be made, or revise, terminate or revoke such recipient's certificate of eligibility, on the basis of such information or failure to submit requested information.
+
+(e) During the term of the benefit period, a clean on-site cogenerator shall annually submit to the commissioner a report of its nitrous oxide emissions, thermal output used productively, and electric output used by eligible energy users, on a form approved by the commissioner, within thirty (30) days of the end of each calendar year, to document such cogenerator's continued eligibility under ECSP as a clean on-site cogenerators. Failure of an on-site cogenerator to submit such annual emissions reporting form may result in the discontinuance or reduction by the commissioner of the recipient's special rebate. In addition, users shall repay any special rebates received in excess of $10,000 per employee in any calendar year, within ninety (90) days of receiving a written request from the commissioner.
+
+(f) The commissioner and his or her designated agents shall have the right to inspect any premises and operations for which an applicant claims special rebates to verify compliance with the statutes and rules governing the Energy Cost Savings Program, including emissions and space heating restrictions.
+
+
+
+
+
+
+*§ 5-45 Requests for an Opportunity to be Heard.* ::
+
+
+Within thirty (30) days after the mailing of a written determination by the commissioner or his or her designee pursuant to the Act or these rules, an applicant or recipient that wants to contest such determination may submit documentation supporting its position to the commissioner or his or her designee and may request an opportunity to be heard.
+
+
+
+
+
+
+*§ 5-46 Opportunity to be Heard.* ::
+
+
+If an opportunity to be heard is requested in accordance with § 5-45 of these rules, the commissioner or his or her designee shall, within a reasonable period of time, review the application, all supporting documentation relating to the application and the documentation submitted by the applicant or recipient relating to the determination and schedule a date for a meeting with such applicant or recipient. At such meeting the applicant or recipient may present its arguments and discuss its supporting documentation with the commissioner or his or her representative.
+
+
+
+
+
+
+*§ 5-47 Final Determination; Notification.* ::
+
+
+(a)  After review of the documentation and arguments submitted by the applicant or recipient the commissioner or his or her designee shall make a final agency deter- mination.
+
+(b) The commissioner or his or her designee shall notify the applicant or recipient in writing within a reasonable period of time of his or her final determination on the issue or issues presented by such applicant or recipient pursuant to § 5-46 of these rules.
+
+(c) The commissioner or his or her designee shall notify the applicant or recipient, the appropriate utility, NYCPUS, the vendor and DOF, whichever is applicable, of a final determination to issue, deny, revise, suspend or revoke a certificate of eligibility.
+
+  
+
+
+
+
 Chapter 5-a: New York City Lower Manhattan Energy Program
 --------------------------------------------------
 
@@ -3516,1215 +4725,6 @@ If an opportunity to be heard is requested in accordance with § 5-91 of these r
 (a)  After review of the documentation and arguments submitted by the applicant or recipient the commissioner or his or her designee shall make a final agency deter- mination.
 
 (b) The commissioner or his or her designee shall notify the applicant or recipient in writing within a reasonable period of time of his or her final determination on the issue or issues presented by such applicant or recipient pursuant to § 5-92 of these rules.
-
-(c) The commissioner or his or her designee shall notify the applicant or recipient, the appropriate utility, NYCPUS, the vendor and DOF, whichever is applicable, of a final determination to issue, deny, revise, suspend or revoke a certificate of eligibility.
-
-  
-
-
-
-
-Chapter 5: New York City Energy Cost Savings Program
---------------------------------------------------
-
-
-
-
-**Subchapter A: General Provisions**
-
-
-
-*§ 5-01 Authority; Purpose.* ::
-
-
-(a)  These rules are promulgated pursuant to Local Law 54 of the Laws of 1985 of the City of New York, as amended, as authorized by Chapter 551 of the Laws of 1985 of the State of New York, as amended, to effectuate the purposes of the New York City Energy Cost Savings Program (the "Program").
-
-(b) The purpose of the Program is to encourage industrial and commercial development, by encouraging businesses to relocate to targeted areas of the City and providing incentives to business already located in such areas to expand or improve their industrial and commercial space. The Program provides a reduction of certain energy costs related to the transmission and distribution of electricity and natural gas for a period of twelve (12) years, including reductions in the cost of energy services purchased from the New York City Public Utility Service.
-
-(c) These rules set forth the requirements for applications, the standards and criteria to determine eligibility for reduced energy costs and the amount available for** reductions in energy costs, as well as procedures for review of determinations made in connection with the Program.
-
-
-
-
-
-
-*§ 5-02 Definitions.* ::
-
-
-As used in these rules, the following terms shall have the respective meanings set forth below:
-
-Act. "Act means Chapter 6 of Title 22 of the Administrative Code of the City of New York, as enacted by Local Law 54 of the Laws of 1985 of the City of New York, as amended by Local Law 56 of the Laws of 1989 of the City of New York, Chapters 256 and 257 of the Laws of 1991, Chapter 154 of the Laws of 1999, Chapters 103 and 472 of the Laws of 2000, and Chapter 107 of the Laws of 2003 of the State of New York, as authorized by Chapter 551 of the Laws of 1985 of the State of New York, as amended by Chapters 59 and 825 of the Laws of 1986, Chapter 760 of the Laws of 1988, Chapters 256 and 257 of the Laws of 1991, Chapter 154 of the Laws of 1999, Chapters 103 and 472 of the Laws of 2000, and Chapter 107 of the Laws of 2003 of the State of New York.
-
-Applicant. "Applicant" means any person applying individually or jointly for benefits under ECSP, or a holding company, parent corporation, or subsidiary or affiliated corporation so applying on behalf of any of the foregoing.
-
-Application. "Application" means the application for a certificate of eligibility and shall include all supporting exhibits submitted, and statements made, by an applicant to the commissioner for the purpose of determining such applicant's eligibility for benefits under ECSP.
-
-Assessed value. "Assessed value" means the assessed value of the real property and buildings thereon as assessed for tax purposes during the tax year in which improvements to such real property and buildings thereon commenced, as required by and referred to in the Act and these rules.
-
-Average monthly consumption. "Average monthly consumption" means, for each natural gas account, the average number of therms of natural gas consumed per month during the preceding twelve billing monthly or six bimonthly billing cycles.
-
-Average monthly load factor. "Average monthly load factor" means, for each electric account, the average monthly load factor for the preceding 12-month period, determined once annually using the most recently available twelve months of load factor data.
-
-Benefit period. "Benefit period" means the number of months a recipient is eligible to receive a special rebate, which period shall not exceed one hundred and forty-four (144) consecutive months, beginning on the effective date of the recipient's certificate of eligibility.
-
-Building. "Building" means articles, structures, substructures and superstructures erected upon, under, or above real property, or affixed thereto, and fixtures (other than trade fixtures) and other improvements erected or situated thereon.
-
-Building permit. "Building permit" means a permit approving proposed construction work issued by the New York City Department of Buildings, DBS or other agency of the City authorized by law to receive and approve plans for construction work. A building permit shall include permits or a new building, alteration, foundation, plumbing, sign or equipment work and may, at the option of the applicant, include a permit for partial demolition or earthwork.
-
-Category I on-site cogenerator. "Category I on-site cogenerator" shall mean an on-site cogenerator that produces electricity for an eligible energy user that was certified before July 1st, 2003.
-
-Category II on-site cogenerator. "Category II on-site cogenerator" shall mean an on-site cogenerator, other than a clean on-site cogenerator, that was certified after June 30, 2003.
-
-Certificate of eligibility. "Certificate of eligibility" means the document or documents issued by the commissioner evidencing the eligibility and qualification of an applicant to receive a special rebate. The certificate of eligibility shall include such information as is required pursuant to § 5-42(b) of these rules.
-
-Charter. "Charter" means the New York City Charter, as amended.
-
-City. "City" means The City of New York.
-
-Clean on-site cogenerator. "Clean on-site cogenerator" shall mean an on-site cogenerator, the electricity generating facility of which has an emission rate for nitrous oxides of no more than three tenths of one pound per megawatthour. For purposes of determining the emissions of such electricity generating facility, the emissions for such facility shall be reduced by the amount of any nitrous oxide emissions by boiler plants and/or other generators located on the same site as the on-site cogenerator that were or will be avoided by virtue of the electricity generating facility's production of thermal products used by an eligible energy user(s) for productive purposes.
-
-Code. "Code" means the Administrative Code of the City of New York, as amended.
-
-Commercial development pressure area. "Commercial development pressure area" means those areas of the City as set forth in subdivision (a) of § 22-601 of the code.
-
-Commissioner. "Commissioner" means the Commissioner of DBS or his or her designee or his or her successor in function.
-
-Competitive transition charge. "Competitive transition charge" means a charge that is regulated by the PSC, associated with charges for transmission and distribution, and designed to enable a utility to mitigate or recover its above-market costs of generating electricity.
-
-Con Edison. "Con Edison" means the Consolidated Edison Company of New York, Inc.
-
-DBS or DSBS. "DBS" or "DSBS" shall mean the New York City Department of Small Business Services, formerly known as the Department of Business Services, or its successor in function.
-
-DOF. "DOF" means the New York City Department of Finance or its successor in function.
-
-Discount. "Discount" means the amount of a reduction in a bill for energy services rendered to a vendor or NYCPUS by a utility, or to a vendor by NYCPUS, in accordance with the requirements of § 5-15 of these rules, equal to the special rebates made by such vendor or NYCPUS to eligible energy users, eligible owners or qualified eligible energy users.
-
-ECSP or Program. "ECSP" or the "Program" means the Program described in the Act and these rules.
-
-Effective date. "Effective date" means the effective date of a certificate of eligibility, which date is the first day of the first billing cycle after a certificate of eligibility is issued.
-
-Eligible charges. "Eligible charges" mean charges for energy services, system benefits charges and competitive transition charges, including service discounts, by a utility determined in accordance with § 5-13(a) of these rules, to which charges the applicable percentages in § 5-16 or § 5-18 of these rules are applied to determine the amount of a special rebate.
-
-Eligible energy user. "Eligible energy user" means any non-residential user of energy services, that purchases such energy services directly from a utility, a vendor, NYCPUS or an on-site cogenerator, and that satisfies the applicable criteria set forth in Subchapter B of these rules.
-
-Eligible move-in area. "Eligible move-in area" means:
-
-   (1) with respect to an applicant that relocates from (i) areas lying south of the center line of 96th Street in the Borough of Manhattan, or (ii) all areas outside of the City, to replacement premises, all areas within the City, except those areas lying south of the center line of 96th Street in the Borough of Manhattan;
-
-   (2) with respect to an applicant that relocates from premises within a commercial development pressure area to replacement premises, all areas within the City except (i) those areas lying south of the center line of 96th Street in the Borough of Manhattan and (ii) commercial development pressure areas;
-
-   (3) with respect to an applicant that occupies premises that meet the criteria of § 5-12(b) (specially eligible premises) of these rules, all areas within the City except those areas lying south of the center line of 96th Street in the Borough of Manhattan; and
-
-   (4) with respect to an applicant that occupies premises that meet the criteria of § 5-12(c) (manufacturing) of these rules, those areas lying south of the center line of 96th Street in the Borough of Manhattan.
-
-Eligible move-out area. "Eligible move-out area" means with respect to an applicant that relocates and occupies replacement premises:
-
-   (1) areas lying south of the center line of 96th Street in the Borough of Manhattan;
-
-   (2) all areas outside of the City; or
-
-   (3) a commercial development pressure area.
-
-Eligible on-site cogenerator charges. "Eligible on-site cogenerator charges" shall mean charges for energy services purchases from a utility related to the delivery of natural gas to a category II on-site cogenerator determined in accordance with § 5-13(d).
-
-Eligible owner. "Eligible owner" means an owner, manager or operator of a specially eligible premises that satisfies the applicable criteria of Subchapter B of these rules.
-
-Eligible premises. "Eligible premises" mean those premises that are: (1) replacement premises; or (2) specially eligible premises.
-
-Eligible public utility service charges. "Eligible public utility service charges" mean charges for energy services purchased from NYCPUS, determined in accordance with § 5-13(b) of these rules, to which the applicable percentage in § 5-16 or § 5-18 of these rules are applied to determine the amount of a special rebate.
-
-Employee. "Employee" shall mean any full-time or part-time employee (as provided herein) of an eligible energy user, an affiliate of an eligible energy user, and any contractor working exclusively at an eligible site for operations of an eligible energy user (or an affiliate of an eligible energy user) eligible to receive special rebates. The number of part-time employees and contractors shall be calculated by dividing (i) the number of hours worked by employees, other than full-time employees, and contractors at the eligible energy user's eligible premises, during the applicable period; by (ii) the number of weeks in the applicable period; and then by (iii) 35 person-hours.
-
-Energy conservation measures. "Energy conservation measures" shall have the meaning set forth in subdivision (p) of § 22-601 of the code.
-
-Energy services. "Energy services" shall mean (i) the transportation of electric or natural gas commodity within the franchised service territory of a utility through such utility's local transmission or distribution assets, (ii) metering of a user's consumption, including meter reading, and (iii) billing services related to the preparation and collection of the user's utility bill. Energy services shall not include the provision of gas or electric commodity, transmission-related functions for which charges are rendered by the New York Independent System Operator, nor shall they include transportation of gas or electric commodity to a utility system, except that gas pipeline services shall be considered energy services for purposes of calculating rebates for users eligible to receive rebates under § 5-18(b)(5) of these rules. Energy services shall not include transportation of natural gas to the extent the gas transported is used by a category I on-site cogenerator or a clean on-site cogenerator in the production of electricity that is eligible for special rebates under § 5-14(f).
-
-Energy services bill. "Energy services bill" means the statement of charges for energy services rendered to a recipient by: (i) a utility; (ii) a vendor; or (iii) NYCPUS.
-
-FERC. "FERC" shall mean the Federal Energy Regulatory Commission.
-
-Hotel. "Hotel" means a building or portion thereof that is regularly used and kept open as such for the lodging of guests including an apartment hotel, a motel, boarding house or club or any other facility whose principal use is residential accommodation, whether or not meals are served.
-
-ICIP. "ICIP" means the New York City Industrial and Commercial Incentive Program as codified in Title 11, Chapter 247, Part 3 of the Code, as amended.
-
-IDA. "IDA" means the New York City Industrial Development Agency established pursuant to § 850 of the General Municipal Law of the State of New York, as amended.
-
-Keyspan. "Keyspan" means the Keyspan Energy Delivery New York.
-
-LIPA. "LIPA" shall mean the Long Island Power Authority, or its subsidiary.
-
-Manufacturing activity. "Manufacturing activity" means an activity involving the assembly of goods to create a different article or the processing, fabrication, or packaging of goods.
-
-Monthly load factor. "Monthly load factor" means, for each electric account, the number determined by dividing (a) the account's energy consumption, measured in kilowatt hours, for a monthly billing period, by (b) the peak electric demand, measured in kilowatts, for such billing period multiplied by the number of billing days in the period multiplied by 24 hours.
-
-NYCPUS. "NYCPUS" means the New York City Public Utility Service established by Local Law No. 78 of 1982, codified in part as Title 22, Chapter 3 of the Code.
-
-On-site cogenerator. A person, other than a utility, that owns an electric generating facility that simultaneously or sequentially produces electricity and useful thermal energy, provided that substantially all of such electricity shall be used by one or more eligible energy users that occupy the same site as such generating facility. An on-site cogenerator may be the same or a separate person as such eligible energy user.
-
-Person. "Person" means any individual, partnership, association, corporation, limited liability company, estate or trust, and any combination of the foregoing.
-
-Premises. "Premises" mean any building or portion thereof that, for purposes of these rules is, or has been, occupied in whole or in part by an applicant pursuant to a deed, contract of sale, lease or otherwise.
-
-Public Service Commission or PSC. "Public Service Commission" or "PSC" means the Public Service Commission of the State of New York, created by and defined in § 2 of the Public Service Law of the State of New York.
-
-Qualified eligible energy user. "Qualified eligible energy user" shall have the meaning ascribed to such term in subdivision (r) of § 22-601 of the code.
-
-Real property. "Real property" means land and articles, structures, substructures and superstructures erected upon, under or above the land or affixed thereto and articles of equipment, as described by, and subject to assessment for taxation pursuant to subdivision (a), (b), (f) or (i) of § 102(12) of the Real Property Tax Law of the State of New York, but not including any incorporeal right, franchise or special franchise.
-
-Recipient. "Recipient" means an applicant that has satisfied the eligibility criteria of Subchapter B of these rules and has been certified by the commissioner as: (1) an eligible energy user; (2) an eligible owner; (3) a qualified eligible energy user; or (4) a category I on-site cogenerator, a category II on-site cogenerator, or a clean on-site cogenerator.
-
-Replacement premises. "Replacement premises" mean premises occupied by an applicant in replacement of previously occupied premises from which the applicant has relocated, provided the premises satisfy the criteria set forth in § 5-12(a) of these rules.
-
-Retail vendor. "Retail vendor" means any applicant that:
-
-   (1) is predominantly engaged in the sale, as defined in § 1101(b)(4) of the Tax Law of the State of New York, other than through the mail or by the telephone or other means of electronic communication, of tangible personal property to any person, for any purpose unrelated to the trade or business of such person; or
-
-   (2) is predominantly engaged in selling services to persons which services generally involve the physical, mental and/or spiritual care of such persons for any purpose unrelated to the trade or business of such persons; or
-
-   (3) is predominantly engaged in selling services to persons for any purpose which services generally involve the physical care of the personal property of such persons for any purpose unrelated to the trade or business of such persons; provided, however, where such sale of tangible personal property or services described herein is performed by only one or more operating units, divisions or subdivisions of the applicant, or at only one or more locations, only such operating units, divisions, or subdivisions, or such locations, shall come within the definition contained herein.
-
-Service classification. "Service classification" means the classification used by a utility in its rate schedule that sets forth the particular rates charged for energy services that are applicable to particular kinds of customers.
-
-Site visit. "Site visit" means an on-site inspection performed by or at the direction of DBS to determine the use of energy services or occupancy of certain buildings, real property or any portion of such building or real property.
-
-Special rebate. "Special rebate" means the amount of reduction in an energy services bill rendered by a utility, a vendor or NYCPUS for energy services to an eligible energy user, a qualified eligible energy user, an eligible owner, or an agent of any of these, or a category I, II or clean on-site cogenerator, and calculated in accordance with the provisions set forth in § 5-14 of these rules.
-
-Specially eligible premises. "Specially eligible premises" means non-residential premises that meet the requirements set forth in subdivision (i) of § 22-601 of the code and § 5-12(b) of these rules.
-
-Survey. "Survey" means a study or report based on on-site field inspections, professional surveys by a licensed professional engineer, data collection or meter readings or other actions to determine the use, consumption and application of energy services or the occupancy of certain buildings or real property, or portions thereof.
-
-Systems benefit charge. "Systems benefit charge" means a charge that is regulated by the PSC and that a utility is required to collect from its customers for the purposes of funding public benefit programs.
-
-Targeted eligible premises. "Targeted eligible premises" shall have the meaning set forth in subdivision (s) of § 22-601 of the code.
-
-UDC. "UDC" means the New York State Urban Development Corporation or any subsidiary thereof created and defined by § 6254 of the Unconsolidated Laws of the State of New York.
-
-Utility. "Utility" means any provider of energy services within the City that is subject both to the jurisdiction and general supervision of the PSC and to a tax imposed pursuant to chapter 11 of title 11 of the code, and for purposes of this chapter 5, shall include LIPA, or its subsidiary, to the extent that LIPA provides energy services within the City of New York and makes payment to such City that is equivalent to the tax imposed on utilities pursuant to chapter 11 of title 11 of the code.
-
-Utility credit. "Utility credit" means a credit to which a utility is entitled, in accordance with the rules promulgated by DOF, against the tax imposed under Chapter 11 of Title 11 of the code, and equal to the aggregate amount of all special rebates and/or discounts granted by such utility in accordance with the requirements of the Act and these rules.
-
-Vendor. "Vendor" means a vendor of energy services, as defined in subdivision (k) of § 22-601 of the code, including any person, corporation or other entity not subject to the jurisdiction and general supervision of the PSC, that furnishes or sells energy services to an eligible energy user, eligible owner, qualified eligible energy user or an on-site cogenerator that is submetered as an incident to leasing, subleasing, licensing or otherwise permitting such user to rent or occupy premises of such vendor.
-
-
-
-
-
-
-*§ 5-03 Law Governing Applications.* ::
-
-
-Applications pending as of the effective date of these rules and applications filed subsequently shall be governed by these rules. Persons that have been certified as eligible for special rebates or discounts under provisions of law in effect before November 1, 2000, are not required to reapply in order to receive benefits under provisions of Chapter 472 of the Laws of 2000.
-
-
-
-
-
-
-*§ 5-04 Rules of Construction.* ::
-
-
-(a)  These rules shall be interpreted and enforced in accordance with the General Construction Law of the State of New York except where the context otherwise requires or a different rule is provided by these rules.
-
-(b) These rules shall be construed consistently with the applicable state and local law cited in this Subchapter of these rules including any amendments thereto.
-
-(c) Provisions of these rules that restate the Act and that do not provide rules or procedures for the exercise of regulatory authority shall not be construed as increasing or diminishing any rights or duties created by the Act, but may be used to assist in the interpretation of the Act.
-
-(d) When the interpretation or application of a provision of these rules in a particular case is uncertain, the description of the purpose and objectives of ECSP set forth in § 5-01 of these rules shall be used to assist in the interpretation and application of such provision.
-
-(e) Reference to particular provisions of law in these rules shall be deemed to refer to such provisions as interpreted by the applicable decisions of Federal and New York State courts.
-
-
-
-
-
-
-*§ 5-05 Material Misrepresentations, Misstatements and Omissions.* ::
-
-
-(a)  An applicant's or recipient's refusal to provide factual information or to cooperate with the commissioner or his or her staff in the review of the facts and circumstances upon which a determination of eligibility or of continued eligibility is to be based shall constitute grounds for denial of an applicant's eligibility, or for suspension or revocation of a recipient's certificate of eligibility.
-
-(b) The commissioner may deny an application for a certificate of eligibility if the application is found to contain material misrepresentations, misstatements or omissions.
-
-(c) The commissioner may suspend or revoke a certificate of eligibility if a recipient is found to have made material misrepresentations or misstatements or omissions concerning the prior, current or future status of its continued eligibility under ECSP.
-
-(d) Denial of an application for a certificate of eligibility or the suspension or revocation of a certificate of eligibility pursuant to the provisions of this Subchapter shall be subject to an opportunity to be heard pursuant to §§ 5-45, 5-46 and 5-47 of these rules.
-
-
-
-
-
-
-*§ 5-06 Actions of City Employees.* ::
-
-
-Employees and agents of the City whose duties require them to take actions in connection with ECSP shall perform such duties, subject to the lawful direction of their supervisors and appropriate public officers, in accordance with these rules. However, noncompliance by such employees or agents with the requirements of these rules shall not be deemed to void any obligation of, or to waive any requirement imposed on, an applicant or recipient, or to excuse any noncompliance by an applicant or recipient with the provisions hereof or of any law. Such noncompliance shall not create any right of relief from the City or its employees or agents in favor of any person adversely affected thereby.
-
-
-
-
-
-
-*§ 5-07 Separability.* ::
-
-
-If any provision of these rules or their application shall be adjudged by any court of competent jurisdiction to be invalid, such judgment shall not affect, impair or invalidate the remaining provisions of these rules, but shall be confined in its operation to the provision thereof directly involved.
-
-
-
-
-
-
-*§ 5-08 Effective Date of Rules. [Repealed]* ::
-
-
-(a)  Only eligible energy users, eligible owners, qualified eligible energy users and on-site cogenerators, as described in, and to the extent permitted by, the Act and these rules are eligible for special rebates under ECSP.
-
-(b) Eligible energy users, eligible owners, qualified eligible energy users and on-site cogenerators shall not include the following users of electricity and/or natural gas:
-
-   (1) residential users;
-
-   (2) government agencies;
-
-   (3) public benefit corporations, or instrumentalities thereof;
-
-   (4) hotels; and
-
-   (5) retail vendors.
-
-(c) An eligible energy user is an applicant or recipient that meets the criteria in paragraph (1) of this subdivision or is an eligible owner that meets the criteria in paragraph (2) of this subdivision:
-
-   (1) Such applicant or recipient: (i) purchases energy services from a utility, vendor or NYCPUS; (ii) relocates to and occupies premises that qualify as replacement premises or occupies premises that are specially eligible premises or a portion of such premises; and (iii) otherwise complies with all requirements of the Act and these rules applicable to an eligible energy user or
-
-   (2) Such applicant or recipient, referred to as an eligible owner, (i) purchases energy services from a utility or NYCPUS; (ii) owns, operates or manages real property and/or a building, which building and/or real property qualifies as a specially eligible premises; and (iii) otherwise complies with all requirements of the Act and these rules applicable to an eligible owner.
-
-   (3) An applicant or recipient may, if all requirements are met, qualify as both (i) an eligible owner and (ii) an eligible energy user and/or qualified eligible energy user. In such cases, the applicant or recipient may be an eligible owner with respect to the specially eligible premises as a whole and therefore may be entitled to a special rebate applied against certain eligible charges with respect to common areas and/or equipment, as provided in § 5-13(c) of these rules. Such an applicant or recipient may also be an eligible energy user or qualified eligible energy user with respect to the premises it occupies within such specially eligible premises or targeted eligible premises, as the case may be, and therefore may be entitled to a special rebate applied against certain other eligible charges or eligible public utility charges with respect to such premises, as provided in these rules. Provided, however, that no portion of energy services used by such an applicant or recipient shall be the basis for more than one special rebate.
-
-(d) A qualified eligible energy user is a recipient that: (i) has been certified as a qualified eligible energy user in accordance with the Act prior to November 1, 2000; (ii) purchases energy services from NYCPUS or a vendor that purchases such services from NYCPUS; and (iii) otherwise complies with all requirements of the Act and these rules applicable to a qualified eligible energy user.
-
-(e) 1)  An on-site cogenerator is an applicant or recipient that: (i) meets the definition of a category I or category II on-site cogenerator or a clean on-site cogenerator in § 5-02 of these rules; (ii) purchases energy services relating to natural gas from a utility; (iii) otherwise complies with all requirements of the Act and these rules applicable to a category I or category II on-site cogenerator or a clean on-site cogenerator, respectively, and (iv) sells substantially all its electricity output to eligible energy users on the same site.
-
-   (2) A category I or clean on-site cogenerator may, if all requirements are met, qualify as an eligible energy user with respect to charges for energy services that are not used in the production of electricity, including charges for the production of thermal product, provided, however, that no portion of energy services, or natural gas energy services in the case of a category I on-site cogenerator or a clean on-site cogenerator, used by such on-site cogenerator shall be the basis for more than one special rebate.
-
-(f) Notwithstanding the foregoing provisions of this section, an occupant of replacement premises, specially eligible premises, or targeted eligible premises shall not be an eligible energy user or qualified eligible energy user unless:
-
-      (i) the energy services used and electricity and natural gas consumed by such occupant at such premises are individually and accurately metered or submetered and billed so as to enable a determination of the occupant's usage of and charges for energy services, natural gas and electricity; and
-
-      (ii) for any occupant purchasing energy services, natural gas or electricity from a vendor, the price charged by such vendor shall be no higher than the price that the occupant would have been charged directly by a utility for energy services pursuant to the applicable tariffs of the PSC or FERC, provided that an additional fee, not exceeding 12% may be charged by such vendor; and
-
-      (iii) such vendor shall separately state in each bill for such services, electricity and natural gas the price, charges and fees (if any) that are included in such bill and the amount of the special rebate made to such occupant or that no special rebate has been made.
-
-
-
-
-
-
-*§ 5-12 Premises.* ::
-
-
-(a)  Criteria for replacement premises.
-
-   (1) In order for an applicant's premises to qualify as replacement premises:
-
-      (i) the applicant must take occupancy of such premises after May 3, 1985;
-
-      (ii) the applicant must continue such occupancy while a special rebate is received;
-
-      (iii) the premises must:
-
-(A) be non-residential;
-
-(B) be premises for which an applicant has entered into a written agreement to buy and/or lease after May 3, 1985;
-
-(C) be located in an eligible move-in area;
-
-(D) except as otherwise provided in subparagraph (E) of this paragraph, be premises with provisions to receive energy services either: (I) from a utility; (II) a vendor; or (III) NYCPUS; and
-
-(E) if such premises receive electricity from an on-site cogenerator, such on-site cogenerator shall occupy the same site as such premises;
-
-      (iv) the premises such applicant previously occupied must have been located in an eligible move-out area, and the applicant must have occupied such premises for a continuous period of twenty-four (24) months during the thirty (30) month period immediately preceding the applicant taking occupancy of its new premises.
-
-   (2) An applicant's new premises shall not be considered replacement premises if the new premises are occupied as the result of a merger of the applicant with or into any other person, firm or entity, or the acquisition, by the applicant, of all or substantially all of the capital stock or assets and properties of any other person, firm or entity, unless:
-
-      (i) the new premises were formerly occupied by such other person, firm or entity;
-
-      (ii) such other person, firm or entity: (i) had substantially ceased business operations at the new premises prior to occupancy by the applicant; and (ii) had either: (A) filed or acquiesced in the filing against it of a petition for any relief under any bankruptcy or similar law for the protection of debtors, prior to occupancy by the applicant; or (B) applied for or acquiesced in the appointment of a trustee or receiver for all or a substantial portion of its assets and properties, prior to occupancy by the applicant;
-
-      (iii) the applicant transfers or relocates, from its previously occupied premises to the new premises, a substantial amount of personnel, and/or machinery or equipment, and/or other tangible assets, and/or executory contracts (contracts not yet performed in whole or in part, and which will be performed at the new premises); and
-
-      (iv) the applicant conducts, at the new premises, the same type of business conducted at its previously occupied premises and/or a type of business reasonably related thereto or constituting a reasonable expansion or growth therefrom.
-
-(b) Criteria for specially eligible premises.
-
-   (1) Specially eligible premises shall meet the applicable requirements of subdivision (i) of § 22-601 of the code and:
-
-      (i) the real property and/or building in which such premises are located shall be substantially improved by construction or renovation as described or identified in either:
-
-(A) an ICIP pre-application or application filed by the owner, manager or operator of the real property and/or building; or
-
-(B) an IDA application filed by such owner, operator or manager; or
-
-(C) a lease for the real property submitted for approval to UDC or to the City in accordance with the applicable Charter provisions (provided that such lease need not describe or identify buildings located or to be located on such real property), whichever is applicable;
-
-      (ii) the expenditures for such construction or renovation required by subdivision (i) of § 22-601 of the code shall occur either:
-
-(A) subsequent to the filing of such final application or preliminary application with ICIP, and the issuance of a building permit, if required, for such construction or renovation; or
-
-(B) subsequent to the receipt of an inducement resolution from IDA for the project described in such IDA application; or
-
-(C) subsequent to the approval of the lease described in subparagraph (4) or (5) of subdivision (i) of § 22-601 of the code by UDC or by the City in accordance with the applicable Charter provisions;
-
-      (iii) for applications made after the effective date of these rules, the expenditures made for such construction or renovation described in paragraph (1) of this subdivision (b) of this § 5-12, must be in excess of ten percent (10%) of the assessed value of the real property and building in the tax year in which such construction or renovation commenced;
-
-      (iv) the real property and building are located in an eligible move-in area;
-
-      (v) the premises have provisions to receive energy services either: (I) directly from a utility; or (II) from a vendor; or (III) from NYCPUS;
-
-      (vi) the applicant must take occupancy of such premises and continue in such occupancy while benefits are received;
-
-      (vii) if such premises receive electricity from an on-site cogenerator, such on-site cogenerator shall occupy the same site as such premises; and
-
-      (viii) if the applicant's premises are contained in a newly constructed building, such building must meet the requirements of the New York State Energy Conservation Construction.
-
-   (2) Notwithstanding the provisions set forth in subparagraph (A), paragraph (1) of this subdivision (b), an applicant that occupies premises within a building that would otherwise qualify as eligible to receive benefits under ICIP except that the real property on which such building is located is exempt from real property taxation, may be eligible as an occupant of premises within specially eligible premises, if all other applicable requirements of eligibility of this Subchapter B are met and such applicant receives a certification from DOF stating that the premises are within a building for which expenditures for improvements have been made in compliance with the applicable provisions of subdivision (i) of § 22-601 of the code and this paragraph (b).
-
-(c) Special criteria applicable to manufacturing premises located in Manhattan below 96th Street. Non-residential premises contained in real property located in the area lying south of the center line of 96th Street in the Borough of Manhattan may qualify as specially eligible premises if the criteria in paragraph (4) of subdivision (i) of § 22-601 of the code and the provisions of subdivision (b) of this § 5-12 for specially eligible premises are otherwise satisfied where such premises are used primarily for manufacturing activities, provided such premises shall be improved as a result of expenditures in an amount in excess of ten per centum of the assessed value of such real property attributable to such premises at which such real property was assessed for tax purposes for the tax year in which such improvements commenced.
-
-
-
-
-
-
-*§ 5-13 Charges.* ::
-
-
-(a)  Eligible charges.
-
-   (1) Eligible charges are charges for energy services purchased by an eligible energy user, an eligible owner, or a qualified eligible energy user from a utility or from a vendor at a rate or rates established pursuant to an order or rule of the PSC or FERC, other than charges for the purchase of the commodity of natural gas or electricity, and shall include applicable rate reductions for economic development or similar purposes, and all taxes payable thereon and shall exclude charges in accordance with paragraph (2) of this subdivision (a).
-
-   (2) Eligible charges shall not include the following charges:
-
-      (i) any special charges on such bills relating to energy services, including, but not limited to, collection charges, late payment charges, excess distribution charges, or any additional fee charged by a vendor to an eligible energy user for energy services, as authorized by paragraph § 5-11(f)(ii) of these rules;
-
-      (ii) charges for energy services that are resold; and
-
-      (iii) charges for energy services used in the production of electricity or for heating the premises.
-
-(b) Eligible public utility service charges.
-
-   (1) Eligible public utility service charges are actual charges for energy services provided by a public utility service, including charges for public utility service administrative services, and shall include all taxes payable thereon, and shall exclude charges in accordance with paragraph (2) of this subdivision (b).
-
-   (2) Eligible public utility service charges shall not include the following charges:
-
-      (i) any special charges on such bills relating to energy services, including, but not limited to, collection charges, late payment charges, excess distribution charges, or any additional fee charged by a vendor to an eligible energy user or qualified eligible energy user for energy services, as authorized by paragraph § 5-11(f)(ii) of these rules;
-
-      (ii) charges for such energy services that are resold; and
-
-      (iii) charges for energy services used in the production of electricity or for heating the premises.
-
-(c) Eligible charges for common areas in specially eligible premises.
-
-   (1) With respect to an eligible owner that owns, operates or manages specially eligible premises or targeted eligible premises in which at least fifty percent (50%) of the square footage of such specially eligible premises is occupied by recipients, eligible charges or eligible public utility service charges shall include the following:
-
-      (i) eligible charges or eligible public utility charges for any common areas within the specially eligible premises, including but not limited to, the elevators, roof, parking garages, lobby, and vestibules; and
-
-      (ii) eligible charges or eligible public utility charges for the office space that is reasonably required for use by the eligible owner for the operation or management of the specially eligible premises, as determined by the commissioner, if applicable.
-
-(d) Eligible on-site cogenerator charges.
-
-   (1) Eligible on-site cogenerator charges are charges for energy services purchased by a category II on-site cogenerator from a utility related to the delivery of natural gas to such co-generator at rates established pursuant to an order or rule of the PSC or the FERC, and shall include applicable rate reductions for economic development or similar purposes, and all taxes payable thereon and shall exclude charges in accordance with paragraph (2) of this subdivision.
-
-   (2) Eligible on-site cogenerator charges shall not include the following charges:
-
-      (i) any special charges on such bills relating to energy services, including, but not limited to, collection charges, late payment charges, excess distribution charges, or any additional fee charged by a vendor to an eligible energy user for energy services, as authorized by paragraph § 5-11(f)(ii) of these rules;
-
-      (ii) charges for energy services that are resold;
-
-      (iii) charges for energy services used for heating the premises; and
-
-      (iv) any charges that qualify as eligible charges and for which special rebates are provided under other provisions of ECSP.
-
-(e) Determination of eligible charges, eligible public utility service charges, and eligible on-site cogenerator charges by the commissioner.
-
-   (1) The commissioner shall base his or her determination of which charges are eligible charges, eligible public utility charges, or eligible on-site cogenerator charges based upon:
-
-      (i) representations and/or certifications made by the applicant in its application to ECSP;
-
-      (ii) a review of the applicant's prior energy services bills;
-
-      (iii) a site visit; and/or
-
-      (iv) any other relevant factors relating to use and occupancy that is deemed by the commissioner to be relevant in making such a determination.
-
-   (2) An eligible energy user, qualified eligible energy user, or category II on-site co-generator has the burden of demonstrating to the commissioner that charges for energy services are eligible charges, eligible public utility service charges, or eligible on-site cogenerator charges, respectively. If a determination of eligible charges, eligible public utility service charges, or eligible on-site cogenerator charges cannot be ascertained by the commissioner without a survey or the eligible energy user, qualified eligible energy user, or category II on-site cogenerator is not satisfied with the commissioner's determination of such charges, such user may request that the commissioner cause a survey to be conducted by a licensed professional engineer satisfactory to DSBS at such user's expense, of the applicant's usage of energy services. Upon completion of the survey, the professional who prepares such survey shall submit the report, together with a certification as to the amount of eligible charges or eligible public utility service charges to the commissioner for his or her review.
-
-   (3) The commissioner, after reviewing all relevant documentation submitted by the applicant, shall, in his or her sole discretion, determine those charges that constitute the eligible energy user's, qualified eligible energy user's, or category II on-site cogenerator's eligible charges, eligible public utility service charges, or eligible on-site cogenerator charges to which a special rebate may be applied. If such user disagrees with the commissioner's findings, such user may request an opportunity to be heard in accordance with §§ 5-45, 5-46 and 5-47 of these rules.
-
-
-
-
-
-
-*§ 5-14 Special Rebates.* ::
-
-
-(a)(1)  A utility that sells energy services to an eligible energy user or eligible owner that applied for ECSP benefits after October 31, 2000, shall be required to make a special rebate to such user equal to the product of the applicable percentage specified for special rebates in the schedule contained in § 5-16 of these rules and the eligible charges for such energy services.
-
-   (2) A utility other than LIPA that sells energy services to an eligible energy user or eligible owner that applied for ECSP benefits prior to November 1, 2000 shall be required to make a special rebate to such user equal to the product of the applicable percentage specified for special rebates in the schedule contained in § 5-18 of these rules and the eligible charges for such energy services.
-
-   (3) A utility that sells energy services to a category II on-site cogenerator shall be required to make a special rebate to such cogenerator equal to the product of the applicable percentage specified for special rebates in the schedule contained in § 5-16 of these rules and the eligible on-site cogenerator charges for such energy services.
-
-(b) Where, pursuant to a written agreement between NYCPUS and the power authority of the state of New York, NYCPUS sells energy services to an eligible energy user or eligible owner that has been individually approved by such power authority and certified as an eligible energy user or eligible owner pursuant to § 22-602(c) of the Code prior to November 1, 2000, NYCPUS shall make such special rebate to such user in the amount or amounts derived by calculating the full amount of the special rebate to which such eligible energy user or eligible owner would have been entitled pursuant to the schedule contained in § 5-18 of these rules for eligible charges relating to the purchase of such energy services had such user purchased such energy services directly from the utility, and subtracting from such full amount the difference between the eligible charges relating to the purchase of such energy services had such eligible energy user or eligible owner purchased the energy services directly from the utility and the eligible public utility service charges relating to the purchase of such energy services actually charged to such eligible energy user by NYCPUS for actual purchases of energy services from NYCPUS; except that (i) in no event shall the amount of such special rebate exceed the amount of the special rebate to which such eligible energy user would have been entitled pursuant to the schedule contained in § 5-18 of these rules had such eligible energy user or eligible owner purchased the energy services directly from the utility at the price charged by such utility, and (ii) for any monthly billing period where the calculation of such special rebate results in a negative number, the amount of such special rebate shall be deemed to be zero.
-
-(c) 1)  Where, pursuant to a written agreement between NYCPUS and the power authority of the state of New York, NYCPUS sells energy services to an eligible energy user or eligible owner that has been individually approved by such power authority, has applied for ECSP benefits after October 31, 2000, NYCPUS shall make such special rebate in the amount of the product of the applicable percentage for special rebates specified in the schedule contained in § 5-16 of these rules and the eligible public utility service charges for such energy services.
-
-   (2) Where, pursuant to such an agreement, NYCPUS sells energy services to a qualified eligible energy user that has been individually approved by such power authority, applied for ECSP benefits prior to November 1, 2000, regardless of the date of certification, NYCPUS shall make such special rebate in the amount of the product of the applicable percentage for special rebates specified in the schedule contained in § 5-18 of these rules and the eligible public utility service charges for such energy services.
-
-   (3) A user or owner that applied for ECSP benefits as a qualified eligible energy user before November 1, 2000, but was not certified pursuant to § 5-36 of these rules as such prior to such date, may be certified as an eligible energy user after such date and the special rebates to which such user or owner is eligible shall be determined pursuant to § 5-18 in accordance with these rules.
-
-(d) 1)  A vendor that sells energy services provided by a utility to an eligible energy user, eligible owner, or on-site cogenerator that applied for ECSP benefits after October 31, 2000, may elect to provide a special rebate that shall be the product of the applicable percentage for special rebates specified in the schedule contained in § 5-16 of these rules and the eligible charges or eligible on-site cogenerator charges for such sales of energy services made by such vendor.
-
-   (2) A vendor that sells energy services provided by a utility to an eligible energy user, eligible owner, or on-site cogenerator that applied for ECSP benefits prior to November 1, 2000, may elect to provide a special rebate that shall be the product of the applicable percentage for special rebates specified in the schedule contained in § 5-18 of these rules and the eligible charges or eligible on-site cogenerator charges for such sales of energy services made by such vendor.
-
-(e) 1)  A vendor that sells energy services provided by NYCPUS to an eligible energy user or eligible owner that applied for ECSP benefits after October 31, 2000, may elect to provide a special rebate that shall be the product of the applicable percentage specified for special rebates in the schedule contained in § 5-16 of these rules and the eligible public utility service charges for sales of energy services made by such vendor.
-
-   (2) A vendor that sells energy services provided by NYCPUS to a qualified eligible energy user that was certified pursuant to § 22-602(c) of the Code prior to November 1, 2000, or to an eligible energy user or eligible owner that applied for ECSP benefits prior to November 1, 2000 and was certified pursuant to § 5-36 of these rules after October 31, 2000 may elect to provide a special rebate that shall be the product of the applicable percentage specified for special rebates in the schedule contained in § 5-18 of these rules and the eligible public utility service charges for sales of energy services made by such vendor.
-
-(f) 1)  A utility that delivers natural gas to a category I on-site cogenerator that produces electricity for an eligible energy user or eligible owner certified before July 1, 2003, and a utility that delivers natural gas to a clean on-site cogenerator that produces electricity for an eligible energy user and is certified after June 30, 2003, shall be required to make special rebates against the energy bill rendered to such on-site cogenerator by such utility for the sale or delivery, or both, of such gas in the amount or amounts derived by taking the product of 4.44 cents multiplied by an eligibility factor, multiplied by the number of kilowatt hours of electricity produced by such on-site cogenerator and used by such eligible energy user or eligible owner during the billing period, excluding the charges for electricity used for heating any premises, any special charges on such bill, including but not limited to, collection charges, late payment charges, or excess distribution charges, and charges for energy that is resold; where the eligibility factor shall equal 100 percent during the first eight years after initial certification as an eligible energy user, 80 percent during the 9th such year, 60 percent during the 10th such year, 40 percent during the 11th such year and 20 percent during the 12th and final such year, such years to be calculated in accordance with the provisions of § 5-19 of these rules. Provided, however, that the number of kilowatt hours of electricity on which the total of the special rebates payable to a clean on-site cogenerator is based in any calendar or fiscal year as specified by the commissioner pursuant to the formula set forth in this paragraph shall not exceed 13,140,000.
-
-   (2) i)  A category I on-site cogenerator and a clean on-site cogenerator may be eligible to receive special rebates based on eligible charges for transportation of natural gas that is not used in the production of electricity. If eligible, such special rebate for a category I cogenerator providing electricity to an eligible energy user that applied before November 1, 2000, shall be equal to the product of such eligible charges and the rebate percentage determined in accordance with § 5-18. If eligible, such special rebate for a clean on-site cogenerator or a category I on-site cogenerator providing electricity to an eligible energy user that applied after October 31, 2000, shall be equal to the product of such eligible charges and the rebate percentage determined in accordance with § 5-16.
-
-(g) Determination of special rebates payable to category I on-site cogenerators and clean on-site cogenerators by the commissioner. (1) The commissioner shall have the authority to determine the information he or she requires to review and determine appropriate special rebates payable under this section. He or she may require electric and/or thermal production to be metered in a reliable manner and that site visits be made to verify meter readings.
-
-   (2) A category I on-site co-generator or clean on-site cogenerator has the burden of demonstrating to the commissioner the amount of electricity generated by the cogenerator and the purposes for which such electricity is used. If a determination of such amount or use cannot be made by the commissioner without a survey or such cogenerator is not satisfied with the commissioner's determination, the commissioner may require, or such user may request, that a survey of the applicant's production and usage of energy services be conducted by a person with experience in conducting such surveys satisfactory to DSBS at such user's expense. Upon completion of the survey, the person who prepares such survey shall submit his or her report, together with a certification as to the amount electricity produced and its use to the commissioner for his or her review.
-
-   (3) A clean on-site cogenerator shall have the burden of demonstrating to the commissioner that its nitrous oxide emissions will not exceed the emissions threshold described herein. If a determination of such amount or use cannot be made by the commissioner without a survey or such cogenerator is not satisfied with the commissioner's determination, the commissioner may require, or such user may request, that a survey of the applicant's production and usage of energy services be conducted by a person with experience in conducting such surveys satisfactory to DSBS at such user's expense. Upon completion of the survey, the person who prepares such survey shall submit his or her report, together with a certification as to the plant's emissions.
-
-   (4) The commissioner, after reviewing all relevant documentation submitted by the applicant, shall, in his or her sole discretion, determine the special rebate to which such category I cogenerator or clean on-site cogenerator is entitled. If such user disagrees or with the commissioner's findings, such user may request an opportunity to be heard in accordance with §§ 5-45, 5-46 and 5-47 of these rules.
-
-
-
-
-
-
-*§ 5-15 Discounts.* ::
-
-
-(a)  A utility that sells energy services to a vendor of energy services shall be required to make a discount to such vendor in an amount equal to the sum of the special rebates certified to such utility by such vendor as having been made by such vendor to eligible energy users and eligible owners in accordance with § 5-14 of these rules.
-
-(b) A utility that sells energy services to a public utility service shall be required to make a discount to such public utility service in an amount equal to the sum of the special rebates and discounts certified to such utility by such public utility service as having been made by such public utility service in accordance with § 5-14 of these rules.
-
-(c) NYCPUS shall be required to make a discount to a vendor to which it sells energy services equal to the sum of the special rebates certified to NYCPUS by such vendor as having been made by such vendor to eligible energy users, eligible owners or qualified eligible energy users to which such vendor of energy services has resold such energy.
-
-
-
-
-
-
-*§ 5-16 Table of Percentages Applicable to the Calculation of Special Rebates for Users that Applied for ECSP Benefits After October 31, 2000.* ::
-
-
-Schedule of Special Rebates 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 
-~
-
-
-
-  
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - Months During Benefit Period 
-      - 
-      - Applicable % for Natural Gas 
-      - 
-      - Applicable % for Electricity 
-~
-
-
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 
-~
-
-
-
-  
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - First through ninety-sixty
-      - 
-      - 35% 
-      - 
-      - 45% 
-    * - Ninety-seventh through one hundred eighth
-      - 
-      - 28% 
-      - 
-      - 36% 
-    * - One hundred ninth through one hundred twentieth
-      - 
-      - 21% 
-      - 
-      - 27% 
-    * - One hundred twenty-first through one hundred thirty-second
-      - 
-      - 14% 
-      - 
-      - 18% 
-    * - One hundred thirty-third through one hundred forty-fourth
-      - 
-      -   7% 
-      - 
-      -   9% 
-~
-
-
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 
-~
-
-
-
-
-
-
-
-
-
-
-*§ 5-17 Special Rebates for Those that Applied for ECSP Benefits Prior to November 1, 2000 and are Certified Prior to July 1, 2001. [Repealed]* ::
-
-
-(a)  Paragraph (4) of subdivision (a) of § 22-602 of the code states that the commissioner may increase the applicable percentages set forth in § 5-16 of these rules "in order to maintain the special rebate at levels comparable to those historically provided under the program, pursuant to rules that are generally applicable to distinct classes of energy users." In accordance with this provision, the percentages set forth in § 5-18(b) of these rules shall be applicable to the calculations of special rebates for all eligible energy users, eligible owners, and qualified eligible energy users that applied for ECSP benefits prior to November 1, 2000. These percentages shall be in place from the first billing cycle beginning on or after April 30, 2003.
-
-(b) For all billing cycles prior to the ninety-seventh month of each of the above-noted eligible energy user's, eligible owner's and qualified eligible energy user's benefit period occurring during the period beginning on or after April 30, 2003, each such user shall receive rebates on eligible charges as specified in this paragraph; provided that the applicable rebate percentages shall not, for any affected electric or natural gas account, exceed 100% of the eligible charges or eligible public utility service charges charged in any billing cycle.
-
-   (1) The rebate percentage to be applied to eligible charges for electrical-related energy services provided by Con Edison pursuant to its "PSC No. 9 – Electricity Rate Schedule" or "PSC No. 2 – Retail Access Rate Schedule" shall equal the percentages specified in Attachment A of Appendix A to these rules, which shall vary depending on such user's average monthly load factor, applicable service classification and the applicable rate, and whether such user receives discounts on service pursuant to a service rider. If, for any affected user, eligible charges for electrical-related energy services were rendered at more than one service classification and/or at more than one rate for a service classification, the rebate percentages specified in Attachment A of Appendix A to these rules shall apply to the extent that each applicable service classification and/or rate and/or service rider applies to such user. To the extent that any user is served under Con Edison's "PSC No. 9 – Electricity Rate Schedule" its rebate percentages shall be determined as if such user were served under Con Edison's PSC No. 2 – Retail Access Rate Schedule.
-
-   (2) The rebate percentage to be applied to eligible charges for natural gas-related energy services provided by Con Edison pursuant to its "PSC No. 9 – Gas Rate Schedule" shall equal the percentages specified in Attachment C of Appendix A to these rules, which shall vary depending on such user's average monthly consumption, applicable service classification and the applicable rate, and whether such user receives discounts on energy services rates pursuant to a service rider or other tariff provision. If, for any affected user, eligible charges for natural gas-related energy services were rendered at more than one service classification and/or at more than one rate for a service classification or if discounted service was provided to part of the consumption rendered through an account pursuant to a service rider or tariff provision, the rebate percentages specified in Attachment C of Appendix A to these rules shall apply to the extent that each applicable service classification and/or rate and/or service rider applies to such user. To the extent that such user is served under "PSC No. 9 – Gas Rate Schedule," its rebate percentages shall be determined as if such user were served under the corresponding full-service rate and service classification and rate.
-
-   (3) A)  Except as otherwise provided in subparagraph (B) of this paragraph (3), the rebate percentage to be applied to eligible charges for natural gas-related energy services provided by Keyspan pursuant to its "PSC No. 12 – Gas Rate Schedule" shall equal the percentages specified in Attachment D of Appendix A to these rules, which shall vary depending on the user's average monthly consumption, the applicable service classification and the applicable rate, and whether the user receives discounts on energy services rates pursuant to a service rider or other tariff provisions. If, for any affected user, eligible charges for natural gas-related energy services were rendered at more than one service classification and/or at more than one rate for a service classification or if discounted service was provided to part of the consumption rendered through an account pursuant to a service rider or tariff provision, the rebate percentages specified in Attachment D of Appendix A to these rules shall apply to the extent that each applicable service classification and/or rate and/or service rider or other tariff discount applies to such user.
-
-(B) The special rebate levels applicable, pursuant to this paragraph (3), to eligible charges for energy services procured by an eligible energy user from KeySpan pursuant to service classification 4A (High Load Factor service) of its "PSC No. 12 – Natural Gas Rate Schedule" shall be increased during the period beginning on or after April 30, 2003 and ending no later than October 31, 2004, by the amounts set forth in Schedule D-1 of Appendix A of these rules, depending on the user's average monthly consumption, for all eligible energy users that applied for ECSP benefits prior to November 1, 2000 and were certified before February 1, 2001. The special rebate levels applicable, pursuant to this paragraph (3), to eligible charges for energy services procured by an eligible energy user from KeySpan pursuant to service classification 4A (High Load Factor service) of its "PSC No. 12 – Natural Gas Rate Schedule" shall be increased during the period beginning on April 30, 2003 and ending no later than October 31, 2004, by the amount equal to half the amount set forth in such Schedule D-1, depending on the user's average monthly consumption, for all eligible energy users that applied for ECSP benefits prior to November 1, 2000 and were certified during the period beginning on or after January 31, 2001 and ending on or before September 30, 2002.
-
-   (4) The rebate percentage to be applied to eligible public utility service charges for electrical-related energy services provided by NYCPUS pursuant to its "Service Tariff No. 4 Rate Schedule" shall equal the percentages specified in Attachment B of Appendix A to these rules, which shall vary depending on the user's average monthly load factor, the applicable service classification and the applicable rate, and whether the user receives discounts on service pursuant to a service rider. If, for any affected user, eligible public utility service charges for electrical-related energy services were rendered at more than one service classification and/or at more than one rate for a service classification, the rebate percentages specified in Attachment B of Appendix A to these rules shall apply to the extent that each applicable service classification and/or rate and/or service rider applies to the user.
-
-   (5) The rebate percentage to be applied to eligible charges for natural gas-related energy services provided by a local distribution utility pursuant to an individually-negotiated natural gas sales contract entered into prior to November 1, 2001 and having a transportation price of less than $1.50 per dekatherm, shall be 100%.
-
-   (6) The rebate percentage to be applied to eligible charges for energy services provided by LIPA to an eligible energy user or eligible owner that applied for ECSP benefits before November 11, 2000 shall be 49% to the extent services are received through the Power for Jobs program and 57% to the extent energy services are provided by LIPA under its other commercial rates.
-
-(c) For all billing cycles after the ninety-sixth month of each of the above-noted user's benefit period and thereafter during the period beginning with the first billing cycle following June 1, 2001, the applicable rebate percentages on eligible charges, determined as specified in § 5-18(b) of these rules, shall be multiplied by an adjustment factor, depending on the month of the benefit period in which the energy services were rendered; provided that the applicable rebate percentages shall not, for any affected electric or natural gas account, exceed 100% of the eligible charges charged in any billing cycle. The adjustment factors are as follows:  
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 
-~
-
-
-
-  
-
-
-.. list-table::
-    :header-rows: 1
-
-    * -  
-      - Month of Benefit Period
-      -  
-      -  Adjustment Factor
-      - 
-    * -  
-      -  
-      -  
-      -  
-      - 
-~
-
-
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 
-~
-
-
-
-  
-
-
-.. list-table::
-    :header-rows: 1
-
-    * -  
-      - 97 through 108
-      -  
-      - 0.8 
-      -  
-    * -  
-      -  
-      -  
-      -  
-      - 
-~
-
-
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 
-~
-
-
-
-  
-
-
-.. list-table::
-    :header-rows: 1
-
-    * -  
-      - 109 through 120
-      -  
-      - 0.6 
-      -  
-    * -  
-      -  
-      -  
-      -  
-      - 
-~
-
-
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 
-~
-
-
-
-  
-
-
-.. list-table::
-    :header-rows: 1
-
-    * -  
-      - 121 through 132
-      -  
-      - 0.4 
-      -  
-    * -  
-      -  
-      -  
-      -  
-      - 
-~
-
-
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 
-~
-
-
-
-  
-
-
-.. list-table::
-    :header-rows: 1
-
-    * -  
-      - 133 through 144
-      -  
-      - 0.2 
-      -  
-    * -  
-      -  
-      -  
-      -  
-      - 
-~
-
-
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 
-~
-
-
-
-  
-
-
-.. list-table::
-    :header-rows: 1
-
-    * -  
-      - 145 and thereafter
-      -  
-      - 0.0 
-      -  
-    * -  
-      -  
-      -  
-      -  
-      - 
-~
-
-
-
- 
-
-
-.. list-table::
-    :header-rows: 1
-
-    * - 
-~
-
-
-
- 
-
-
-
-
-
-
-*§ 5-19 Benefit Period.* ::
-
-
-(a)  Except as set forth in (b) of this § 5-19, all recipients shall be eligible to receive a special rebate for a period not to exceed one hundred and forty-four (144) consecutive months commencing at the beginning of the month immediately following the effective date of their certificate of eligibility.
-
-(b) A recipient that occupies premises within specially eligible premises after the effective date on which an initial certificate of eligibility of the first eligible energy user occupying such premises is eligible to receive a special rebate for the remaining portion of the benefit period prescribed in such certificate of eligibility for such premises.
-
-
-
-
-
-
-
-**Subchapter C: Method of Granting Special Rebates, Utility Credits And/or Discounts**
-
-
-
-*§ 5-21 Granting of Special Rebates to Eligible Energy Users, Eligible Owners, Qualified Eligible Energy Users and On-Site Cogenerators.* ::
-
-
-(a)(1)  A utility and NYCPUS shall reduce their monthly bills for energy services to eligible energy users, eligible owners, qualified eligible energy users and on-site cogenerators that are eligible to receive a special rebate pursuant to § 5-14 of these rules during their respective benefit periods by the applicable special rebate calculated in accordance with such § 5-14.
-
-   (2) A utility and NYCPUS shall commence reducing each such monthly bill in accordance with this subdivision (a) of this § 5-21 within thirty (30) days of receipt of the executed certificate of eligibility, or upon the effective date of the certificate of eligibility, whichever is later. The special rebate provided by a utility or public utility service shall be separately stated and shown on each such bill.
-
-(b) 1)  A vendor that elects to provide an eligible energy user, eligible owner or qualified eligible energy user with special rebates pursuant to § 5-14 of these rules shall provide such user or owner with a monthly bill for submetered energy services reduced during its benefit period by the applicable special rebate calculated in accordance with such § 5-14.
-
-   (2) Such vendor shall commence reducing each such monthly submetered bill for energy services upon the effective date of the certificate of eligibility by the full amount of the special rebate that is calculated in accordance with the applicable provisions of § 5-14 of these rules. The special rebate shall be provided to such eligible energy user, eligible owner or qualified eligible energy user by the vendor on a monthly basis during the benefit period and such amount shall be separately stated and shown on each bill.
-
-   (3) Such eligible energy user, eligible owner or qualified eligible energy user, upon receipt of its reduced bill from the vendor, must remit payment in accordance with the written agreement between such user or owner and such vendor together with an executed remittance form, in accordance with § 5-22 of these rules, setting forth the dollar amount of the special rebate such user or owner has received from its vendor for the applicable monthly billing cycle.
-
-   (4) The vendor shall execute and forward the remittance form to the utility or NYCPUS, whichever entity supplied such vendor with energy services, together with payment for the balance of the bill for such energy services in order to receive a discount from the utility or NYCPUS. The amount on such remittance form shall be credited on its bill for the monthly billing cycle during which the special rebate was made to the eligible energy user, eligible owner or qualified eligible energy user, or for such subsequent monthly billing cycle where payment by the vendor to the utility or NYCPUS was not timely made.
-
-
-
-
-
-
-*§ 5-22 Remittance Form.* ::
-
-
-(a)  Where special rebates are provided by a vendor of energy services, a remittance form, which shall be a form approved by the commissioner, shall be signed by the recipient and the vendor, submitted to the utility or NYCPUS, and the commissioner, and shall include, but not be limited to, the following information:
-
-   (1) the name of the recipient who receives submetered energy services;
-
-   (2) the vendor's utility or NYCPUS customer account name;
-
-   (3) the vendor's utility or NYCPUS customer account number;
-
-   (4) the amount of the special rebate granted by the vendor to a recipient for the billing period covered by the remittance form;
-
-   (5) the amount of the recipient's eligible charges for the applicable billing period;
-
-   (6) the billing period for which the recipient has received a special rebate from a vendor;
-
-   (7) the recipient's certificate of eligibility number and effective date;
-
-   (8) the schedule of special rebates the recipient may receive for the benefit period pursuant to Subchapter B of these rules;
-
-   (9) the amount of any additional fee charged by the vendor pursuant to paragraph 5-11(f)(ii) of these rules;
-
-   (10) such other information as may be requested by the commissioner.
-
-(b) Remittance forms submitted in accordance with subdivision (a) of this section must be submitted to the commissioner within ninety (90) days of the closing meter reading date for which special rebates are sought. The commissioner may decline to approve a discount to a vendor of energy services based on submissions received after the expiration of such period.
-
-
-
-
-
-
-*§ 5-22.1 Cogenerator Credit Form.* ::
-
-
-(a)  A cogenerator credit form shall consist of a form approved by the commissioner.
-
-(b) A category I or clean on-site cogenerator shall submit a cogenerator credit form to the commissioner and to the utility within ninety (90) days of the end of the billing period for which special rebates are sought.
-
-
-
-
-
-
-*§ 5-23 Granting of Discount to Vendors.* ::
-
-
-(a)  Vendors that have granted special rebates to eligible energy user or eligible owners in accordance with § 5-14 of these rules, shall submit executed remittance forms to the utility or NYCPUS, as applicable. Each remittance form shall be limited to a single monthly billing cycle.
-
-(b) A utility or NYCPUS shall grant a discount to a vendor equal to the monthly aggregate amount of all remittance forms reflecting special rebates granted by a vendor to eligible energy user, eligible owners or qualified eligible energy users in accordance with § 5-15 of these rules, provided, however, that the discount granted by the utility or NYCPUS shall not exceed the bill(s) for the energy services supplied to such vendor by such utility or NYCPUS, respectively. At no time shall a utility or NYCPUS be required to carry forward on its books and records any discounts not fully made to a vendor to reduce bills for subsequent billing cycles.
-
-
-
-
-
-
-*§ 5-24 Granting of Discounts to NYCPUS.* ::
-
-
-(a)  A utility shall provide NYCPUS with a discount against its monthly bill upon proper and timely submission of executed remittance forms to the utility. Each remittance form shall be limited to a single monthly billing cycle.
-
-(b) The utility shall grant a discount to NYCPUS equal to the monthly aggregate amount of all remittance forms reflecting special rebates granted by NYCPUS to eligible energy users, eligible owners or qualified eligible energy users in accordance with § 5-15 of these rules and discounts granted to vendors that, in turn, granted special rebates to eligible energy users, eligible owners or qualified eligible energy users in accordance with § 5-14 of these rules, provided, however, that the discount granted by the utility shall not be in an amount that exceeds the bill(s) for energy services supplied to NYCPUS by such utility. At no time shall a utility be required to carry forward on its books and records any discounts not fully made to NYCPUS to reduce bills for subsequent billing cycles.
-
-
-
-
-
-
-*§ 5-25 Granting of Utility Credit to Utilities; Audit.* ::
-
-
-(a)  Utilities that have granted special rebates to eligible energy users, eligible owners or on-site cogenerators in accordance with § 5-14 of these rules or discounts to vendors or NYCPUS in accordance with § 5-15 of these rules shall be entitled to a utility credit equal to the aggregate amount of all such special rebates and discounts it has provided to eligible energy users, eligible owners, qualified eligible energy users, on-site cogenerators, vendors and/or NYCPUS, whichever is applicable.
-
-(b) Such utility credit may be taken only as provided for in the code, these rules and the rules promulgated by the commissioner of DOF, for the purpose of permitting utilities a deduction against certain taxes.
-
-(c) The utility credit to which utility is entitled under ECSP will be provided by DOF in accordance with rules promulgated by the commissioner of DOF.
-
-(d) DOF may audit, among other things, the utility credit taken by a utility to offset the special rebates and discounts such utility granted under ECSP to recipients, vendors and NYCPUS.
-
-
-
-
-
-
-
-**Subchapter D: Applications**
-
-
-
-*§ 5-31 Forms and Filing of Application.* ::
-
-
-(a)  All application forms may be obtained from DBS and, upon completion, shall be submitted to DBS. Only completed applications shall be considered by DBS in determining the applicant's eligibility, or ineligibility, under the Act and these rules.
-
-(b) A check for the non-refundable application filing fee specified in § 5-34 of these rules shall be submitted by the applicant to the commissioner together with an executed original copy of the application.
-
-
-
-
-
-
-*§ 5-32 Submission of an Application.* ::
-
-
-(a)  An applicant that applies after the effective date of these rules must comply with the following application procedures to be considered for eligibility under ECSP:
-
-   (1) An applicant that is relocating to premises that may qualify as replacement premises must file an application prior to taking occupancy of such premises or the signing of a lease or contract of sale for such premises, whichever is earlier (except in the case of a contract of sale entered into subject to the approval of public or private financing).
-
-   (2) An applicant that owns and occupies, manages or operates real property or a building that may qualify as specially eligible premises must file an application within the following time constraints, whichever is applicable:
-
-      (i) prior to the approval of an inducement resolution by IDA to finance in whole or in part an applicant's IDA project; or
-
-      (ii) prior to the signing of a lease approved by UDC or by the City in accordance with the applicable Charter provisions for premises contained on or within real property owned by the City or UDC; or
-
-      (iii) after the filing of a preliminary application or final application with DOF for construction or renovation in connection with an ICIP project eligible to obtain ICIP benefits from DOF.
-
-   (3) An applicant that is occupying premises within a building that it does not own, operate or manage and which building is the subject of an application for an initial certificate of eligibility as specially eligible premises must file an application within one hundred twenty (120) days of the effective date of the initial certificate of eligibility for such building to obtain a certificate of eligibility for such premises.
-
-   (4) An applicant that takes occupancy of premises within a building that has previously qualified as specially eligible premises must file an application within one hundred twenty (120) days of taking occupancy of such premises, or of the signing of a lease or contract of sale for such premises, whichever is earlier.
-
-   (5) No applicant shall be certified as eligible more than 5 years after the initial submission by such applicant pursuant to paragraphs (1) or (2) of subdivision (a) of this section, except where the approval of the application has been delayed by the actions or inactions of the City of New York and/or the applicant demonstrates to the commissioner that it has made substantial progress toward obtaining certification. An applicant that cannot make such demonstration will be given the opportunity to renew its application by updating its application with current information and by paying a new application fee according to the fee schedule currently in effect.
-
-
-
-
-
-
-*§ 5-33 Contents of Application.* ::
-
-
-(a)  The applicant shall have the affirmative burden of proving its eligibility to the satisfaction of the commissioner as to each and every fact contained in the application. The applicant shall provide DSBS with all information required in the application and deemed necessary or useful for the administration of ECSP, including but not limited to, the following:
-
-   (1) applicant's name; telephone number; address at its current and previously occupied premises, where applicable; employer identification number; name of utility and utility customer number at the eligible premises, if available, and for the previously occupied premises, where applicable; number of present employees to be relocated or located at the eligible premises; length of time at the previously occupied premises, where applicable; names and addresses of any parent, subsidiaries, or affiliated companies; and the name and title of an individual authorized to complete the application on behalf of the applicant; and
-
-   (2) a lease, contract of sale or deed for the eligible premises, whichever is applicable; copies of utility bills for the previously occupied premises and the eligible premises, where applicable; federal and state tax returns, as may be requested by the commissioner to verify among other things, occupancy at the eligible premises and the previously occupied premises, where applicable;
-
-   (3) any other information, documentary or otherwise, including, but not limited to, sworn statements and other data, that the commissioner deems relevant to evaluate the applicant's application; and
-
-   (4) a sworn statement agreeing to return all special rebates in excess of $10,000 per employee received during any calendar year, with interest calculated at the prime rate as specified in The New York Times published on the last day of that calendar year, compounded monthly.
-
-(b) In addition to the requirements of subdivision (a) of this § 5-33, an applicant that purchases energy services from a vendor shall submit as part of its application in form and substance satisfactory to the commissioner, the following:
-
-   (1) a written contract or lease agreement between the applicant and the vendor setting forth an agreement by such vendor to provide individual and accurate submetering of the applicant's premises, and stating as conditions for the sale of energy services from such vendor to the applicant that:
-
-      (i) the applicant will be separately billed for its usage of energy services; and
-
-      (ii) the price charged by such vendor for such energy services, electricity and/or natural gas, shall not exceed the limits set forth in § 5-11(f)(ii) of these rules; and
-
-   (2) a written confirmation by such applicant's vendor to the commissioner stating the vendor's agreement to participate in ECSP by providing a special rebate to the applicant and by complying with the terms of the agreement referred to in paragraph (b)(1) of this § 5-33. Pursuant to such written confirmation, the vendor shall agree to provide separate monthly bills to the applicant itemizing all charges for energy services consumed and separately state the applicable ECSP benefit.
-
-(c) In addition to the requirements of subdivision (a) and (b) of this section, an applicant seeking to be certified as a clean on-sight cogenerator shall provide evidence, acceptable to the commissioner, that the electricity generating facility seeking certification has an emission rate for nitrous oxides required of clean on-site cogenerators.
-
-
-
-
-
-
-*§ 5-34 Application Filing Fee.* ::
-
-
-(a)  For commercial buildings seeking designation as a specially eligible premises and commercial firms qualifying for ECSP by virtue of a relocation, the application fee shall be determined as set forth below:  
-
-
-.. list-table::
-    :header-rows: 1
-
-    * -  
-      - Gross Square Footage of Applicant's Premises
-      -  
-      - Fee
-    * -  
-      - Less than 10,000 square feet
-      -  
-      - $500
-    * -  
-      - 10,001 to 25,000 square feet
-      -  
-      - $1,000
-    * -  
-      - 25,001 to 50,000 square feet
-      -  
-      - $1,250
-    * -  
-      - 50,001 to 100,000 square feet
-      -  
-      - $1,500
-    * -  
-      - 100,001 to 250,000 square feet
-      -  
-      - $2,500
-    * -  
-      - Over 250,000 square feet
-      -  
-      - $5,000
-~
-
-
-
- In the case of an eligible owner (for example, a landlord) applying for ECSP benefits for a building, gross square footage for purposes of the filing fee is limited to square footage that is not or will not be occupied by tenants (i.e., common areas, equipment rooms etc.).
-
-(b) In addition to the filing fee, an applicant shall pay for all costs incurred as a result of any survey conducted by or at the request of the commissioner to develop or verify any factual matters relating to the application.
-
-(c) All fees shall be made payable by check or money order to the "New York City Department of Small Business Services".
-
-
-
-
-
-
-*§ 5-35 Representations and Warranties.* ::
-
-
-(a)  As part of the application and reports required by the Act or these rules, the applicant shall certify and make such representations and warranties as may, from time to time, be deemed necessary to ensure compliance with the provisions of all applicable laws and these rules, including, but not limited to, the following:
-
-   (1) that all statements made by or on behalf of the applicant in connection with the application are made by a person authorized by the applicant to make such statements and having actual knowledge or documentary information sufficient to make informed and accurate statements, and that such person believes all such statements to be true;
-
-   (2) that the applicant and its employees and agents will comply with and be in compliance with all provisions of federal, state and local laws, all local rules and executive orders, and these rules;
-
-   (3) that the applicant is applying for a special rebate only to the extent described in the application and permitted by the Act and these rules;
-
-   (4) That the applicant represents, acknowledges, covenants and agrees that it bears sole responsibility for paying the full amount of energy services costs to the appropriate utility, vendor or NYCPUS until such time as the special rebate (if any) granted to the applicant under ECSP is reflected on the applicant's bill;
-
-   (5) that the applicant agrees to permit or cause permission to be granted to the City and its agents to inspect its premises and, in the case of an applicant relocating to replacement premises, the premises from which such applicant is relocating, upon notice during regular business hours; and
-
-   (6) any other representations or warranties as may be required in the application or requested by the commissioner.
-
-(b) In addition to the requirements of subdivision (a) of this § 5-35, the applicant shall covenant and agree to repay with interest at the prime rate, as reported in The New York Times (or similar periodical selected by the commissioner), on the effective date of its certificate of eligibility accrued from the date of receipt, the full amount of any special rebate that the applicant has received if subsequently it is determined by the commissioner that the applicant was ineligible to receive a special rebate for any reason.
-
-
-
-
-
-
-*§ 5-36 Commissioner's Review; Certification of Eligibility Procedure.* ::
-
-
-(a)  The commissioner shall review the application and grant or deny an applicant's application for a certificate of eligibility.
-
-(b) The commissioner shall consider the application submitted with supporting documentation, and any surveys conducted, and any other information pertaining to the application.
-
-(c) The commissioner shall execute and provide a certificate of eligibility to eligible applicants in accordance with Subchapter E of these rules.
-
-
-
-
-
-
-
-**Subchapter E: Notification of Eligibility, Commencement of Eligibility and Opportunities To Be Heard**
-
-
-
-*§ 5-41 Notification to Applicant.* ::
-
-
-If the commissioner grants an applicant's application for a certificate of eligibility, his or her staff shall forward an executed certificate of eligibility to the applicant. If the commissioner denies an applicant's application for a certificate of eligibility, the commissioner shall promptly notify the applicant in writing, of the reason for such denial.
-
-
-
-
-
-
-*§ 5-42 Certificate of Eligibility.* ::
-
-
-(a)  The commissioner's staff will coordinate with the recipient, the utility, the vendor, NYCPUS and DOF, where applicable, to establish the effective date of the certificate of eligibility, which shall in no event be on or after July 1, 2005.
-
-(b) The certificate of eligibility shall include the following information:
-
-   (1) the benefit period the recipient is qualified for;
-
-   (2) the special rebate a recipient is qualified for;
-
-   (3) its date of issuance;
-
-   (4) its effective date; and
-
-   (5) its termination date.
-
-(c) An applicant must execute the certificate of eligibility and return it to the commissioner within six (6) months of the issuance date stated on the certificate of eligibility or before July 1, 2005, whichever is earlier. Failure of the applicant to comply with this subsection may result in a revocation of the certificate of eligibility.
-
-(d) Subsequent to establishing the effective date of the certificate of eligibility, the commissioner's staff shall affix such date to the applicant's certificate of eligibility and forward a copy of the fully completed and executed certificate of eligibility to the applicant and any other necessary party.
-
-(e) The effective date of a certificate of eligibility issued by the commissioner after June 30, 2003, and before July 1, 2005, to an on-site cogenerator serving an eligible energy user that was certified before July 1, 2003 shall be the effective date of the first certificate of eligibility issued to such eligible energy user.
-
-(f) The commissioner is authorized to certify an applicant as an on-site cogenerator as of a date prior to July 1, 2003, regardless of the date of such applicant's application for certification, provided the applicant demonstrates to the satisfaction of the commissioner that the applicant had fulfilled all eligibility and filing requirements prior to July 1, 2003, and was not certified prior to such date due to the actions or inaction of the City.
-
-
-
-
-
-
-*§ 5-43 Notification to Utilities, Vendors and/or NYCPUS.* ::
-
-
-(a)  DBS shall notify the utility, the vendor, and/or NYCPUS, whichever is appropriate, of an applicant's eligibility to receive a special rebate by forwarding to them a certified copy of an applicant's certificate of eligibility executed in accordance with § 5-52 of these rules.
-
-(b) DBS shall notify, in writing, the utility, the vendor and/or NYCPUS, whichever is appropriate, of any changes in an applicant's certificate of eligibility.
-
-
-
-
-
-
-*§ 5-44 Reporting and Inspection Requirements.* ::
-
-
-(a)  During the term of the benefit period, a recipient shall promptly notify the commissioner of any material changes that may affect a recipient's eligibility under ECSP, including but not limited to changes in: (1) the use or type of operations conducted at the eligible premises; (2) recipient's energy usage; (3) the type of metering or method of billing for energy usage at the eligible premises; (4) the occupancy and/or ownership of the eligible premises including, without limitation, the entering into of any leases or subleases at such eligible premises; (5) the number of employees performing work for the recipient and its affiliates or other persons at the premises during each month of the preceding twelve month period.
-
-(b) During the term of the benefit period, a recipient shall annually submit to the commissioner a reporting form, within thirty (30) days of the end of each calendar year, to document the current status of the recipient's continued eligibility under ECSP. Failure of a recipient to submit the annual reporting form may result in the commissioner's discontinuance of the recipient's special rebate.
-
-(c) The commissioner may require a recipient to submit such supporting documentation, including payroll, unemployment insurance filings and the like, as may be needed to verify the accuracy of the submissions of recipients in accordance with subdivision (a) of this section and carry out the purpose and functions of ECSP.
-
-(d) Information received by the commissioner pursuant to this section or otherwise may be used by him or her to determine that a recipient does not satisfy the applicable eligibility criteria in the act or these rules. The commissioner may, among other things, suspend a recipient's certificate of eligibility until a final determination of eligibility can be made, or revise, terminate or revoke such recipient's certificate of eligibility, on the basis of such information or failure to submit requested information.
-
-(e) During the term of the benefit period, a clean on-site cogenerator shall annually submit to the commissioner a report of its nitrous oxide emissions, thermal output used productively, and electric output used by eligible energy users, on a form approved by the commissioner, within thirty (30) days of the end of each calendar year, to document such cogenerator's continued eligibility under ECSP as a clean on-site cogenerators. Failure of an on-site cogenerator to submit such annual emissions reporting form may result in the discontinuance or reduction by the commissioner of the recipient's special rebate. In addition, users shall repay any special rebates received in excess of $10,000 per employee in any calendar year, within ninety (90) days of receiving a written request from the commissioner.
-
-(f) The commissioner and his or her designated agents shall have the right to inspect any premises and operations for which an applicant claims special rebates to verify compliance with the statutes and rules governing the Energy Cost Savings Program, including emissions and space heating restrictions.
-
-
-
-
-
-
-*§ 5-45 Requests for an Opportunity to be Heard.* ::
-
-
-Within thirty (30) days after the mailing of a written determination by the commissioner or his or her designee pursuant to the Act or these rules, an applicant or recipient that wants to contest such determination may submit documentation supporting its position to the commissioner or his or her designee and may request an opportunity to be heard.
-
-
-
-
-
-
-*§ 5-46 Opportunity to be Heard.* ::
-
-
-If an opportunity to be heard is requested in accordance with § 5-45 of these rules, the commissioner or his or her designee shall, within a reasonable period of time, review the application, all supporting documentation relating to the application and the documentation submitted by the applicant or recipient relating to the determination and schedule a date for a meeting with such applicant or recipient. At such meeting the applicant or recipient may present its arguments and discuss its supporting documentation with the commissioner or his or her representative.
-
-
-
-
-
-
-*§ 5-47 Final Determination; Notification.* ::
-
-
-(a)  After review of the documentation and arguments submitted by the applicant or recipient the commissioner or his or her designee shall make a final agency deter- mination.
-
-(b) The commissioner or his or her designee shall notify the applicant or recipient in writing within a reasonable period of time of his or her final determination on the issue or issues presented by such applicant or recipient pursuant to § 5-46 of these rules.
 
 (c) The commissioner or his or her designee shall notify the applicant or recipient, the appropriate utility, NYCPUS, the vendor and DOF, whichever is applicable, of a final determination to issue, deny, revise, suspend or revoke a certificate of eligibility.
 

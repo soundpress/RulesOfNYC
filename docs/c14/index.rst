@@ -18007,15 +18007,17 @@ Apprenticeship Program. "Apprenticeship Program" shall mean an apprenticeship pr
 
 Benefits. "Benefits" shall mean real property tax exemption benefits pursuant to Section 421-a of the Real Property Tax Law.
 
+Benefits Ineligibility Letter. “Benefits Ineligibility Letter” shall mean the letter that the Agency issues to the Applicant indicating that such Applicant is ineligible for any real property tax exemption benefits, pursuant to the Act, the new 421-a Act, or the Extended Affordability Act, as applicable.
+
 Comptroller. "Comptroller" shall mean the comptroller of the city of New York or his or her designee.
 
-Comptroller Schedule. "Comptroller Schedule" shall mean the annual Labor Law Section 230 Prevailing Wage Schedules for Building Service Employees that are in effect at the time the relevant Building Service Employee performs the work and that are published at    www.comptroller.nyc.gov/prevailingwage.
+Comptroller Schedule. "Comptroller Schedule" shall mean the annual Labor Law Section 230 Prevailing Wage Schedules for Building Service Employees that are in effect at the time the relevant Building Service Employee performs the work and that are published at www.comptroller.nyc.gov/prevailingwage.
 
 Construction Benefits. "Construction Benefits" shall mean Benefits for the period before issuance of either a permanent certificate of occupancy for the entire building or a temporary certificate of occupancy for all of the residential areas contained therein.
 
 Extended Affordability Act. “Extended Affordability Act” shall mean paragraph (g) of Subdivision 17 of Section 421-a of the Real Property Tax Law.
 
-Final Certificate of Eligibility. "Final Certificate of Eligibility" shall mean either (a) the document issued by the Agency in accordance with 28 RCNY Chapter 6 that provides for Post-Construction Benefits, or (b) the document issued by the Agency in accordance with 28 RCNY Chapter 51 that provides for Affordable New York Housing Program Benefits.
+Final Certificate of Eligibility. "Final Certificate of Eligibility" shall mean either (a) the document issued by the Agency in accordance with 28 RCNY Chapter 6 that provides for Post-Construction Benefits, (b) the document issued by the Agency in accordance with 28 RCNY Chapter 49 which provides the Extended Benefit; or (c) the document issued by the Agency in accordance with 28 RCNY Chapter 51 that provides for Affordable New York Housing Program Benefits.
 
 Minimum Average Hourly Wage Act. “Minimum Average Hourly Wage Act” shall mean subdivision 16(c) of Section 421-a of the Real Property Tax Law.
 
@@ -18023,7 +18025,7 @@ Mortgage Rate. "Mortgage Rate" shall mean the single family mortgage rate for a 
 
 New 421-a Act. “New 421-a Act” shall mean paragraph (h) of subdivision 16 of Section 421-a of the Real Property Tax Law.
 
-Order. "Order" shall mean an order issued by the Agency pursuant to paragraph (f) of the Act or subparagraph (iv) of the New 421-a Act, respectively, that either (a) adopts, in whole or in part, or rejects a Report and Recommendation, or (b) approves any Stipulation of Settlement between the Comptroller and the Applicant.
+Order. "Order" shall mean an order issued by the Agency, pursuant to paragraph (d) of the Act, subparagraph (iv) of the New 421-a Act or subparagraph (iv) of the Extended Affordability Act, respectively, that either (a) adopts, in whole or in part, or rejects a Report and Recommendation, or (b) approves any Stipulation of Settlement between the Comptroller and the Applicant.
 
 Owner. "Owner" shall mean the fee owner of the real property receiving Benefits and any ground lessee of such real property.
 
@@ -18033,7 +18035,7 @@ Post-Construction Benefits. "Post-Construction Benefits" shall mean Benefits for
 
 Prevailing Wage. "Prevailing Wage" shall mean the prevailing wage and supplement rates for the various classifications set forth in the Comptroller Schedule.
 
-Prevailing Wage Requirement. "Prevailing Wage Requirement" shall mean the requirements under the Act or the New 421-a Act, respectively, and this chapter that are applicable to any Multiple Dwelling whose construction began on or after December 28, 2007, except as otherwise provided in paragraph (e) of the Act or subparagraph (v) of the New 421-a Act, as applicable, that all Building Service Employees receive the Prevailing Wage for the duration of the applicable Benefits period.
+Prevailing Wage Requirement. "Prevailing Wage Requirement" shall mean the requirements under the Act, the New 421-a Act or the Extended Affordability Act, respectively, and this chapter that are applicable, with respect to the Act or the New 421-a Act, to any Multiple Dwelling whose construction began on or after December 28, 2007, and with respect to the Extended Affordability Act, to any Extended Affordability Property, except as otherwise provided in paragraph (e) of the Act, subparagraph (v) of the New 421-a Act, or subparagraph (v) of the Extended Affordability Act, as applicable, that all Building Service Employees receive the Prevailing Wage for the duration of the applicable Benefits period.
 
 Report and Recommendation. "Report and Recommendation" shall mean a report and recommendation issued by the Comptroller or the Comptroller's designee after a hearing is conducted regarding an alleged violation of the Prevailing Wage Requirement.
 
@@ -18079,7 +18081,7 @@ a. An Applicant found to have violated the Prevailing Wage Requirement shall be 
 
 b. An Applicant found to have violated the Prevailing Wage Requirement shall be liable for interest on the underpayment of the Prevailing Wage at a rate of not less than six percent per year and not more than the rate of interest then in effect as prescribed by the superintendent of banks pursuant to Section 14-a of the Banking Law per annum from the time such Prevailing Wage should have been paid. The rate of interest on such underpayment shall be calculated with due consideration to the number of persons employed by the Applicant, the good faith of the Applicant, the gravity of the Prevailing Wage violation, the history of the Applicant's previous Prevailing Wage violations and the Applicant's failure to comply with recordkeeping or other non-wage requirements.
 
-c. An Owner shall be jointly liable for any violation of the Act or the New 421-a Act, as applicable, at the property receiving Benefits without regard to whether the Building Service Employees were directly employed by such Owner.
+c. An Owner shall be jointly liable for any violation of the Act, the New 421-a Act or the Extended Affordability Act, as applicable, at the property receiving Benefits without regard to whether the Building Service Employees were directly employed by such Owner.
 
 
 
@@ -18088,7 +18090,7 @@ c. An Owner shall be jointly liable for any violation of the Act or the New 421-
 
 
 
-*§ 50-05 Prevailing Wage Requirement Orders.** ::
+*§ 50-05 Prevailing Wage Requirement Orders.* ::
 
 
 a. After receiving from the Comptroller a Report and Recommendation with a summary of the underpayment setting forth the respective amounts of Prevailing Wage underpayment and interest due to each Building Service Employee and the complete hearing record, the Agency shall issue an Order, which shall include instructions for payment of any such respective amounts of Prevailing Wage underpayment and interest to the Comptroller.
@@ -18104,7 +18106,7 @@ c. The Agency shall mail an Order to all parties named in such Order. The Order 
 
 
 
-*§ 50-05 Benefit Revocation.** ::
+*§ 50-06 Benefit Revocation.* ::
 
 
 The Agency shall commence benefit revocation proceedings pursuant to 28 RCNY Chapter 39 if: (a) an Applicant fails to make the payments to the Comptroller required by an Order within 120 calendar days of receiving the Order, in which the sole cause for such revocation shall be the failure to make such payments on or before the prescribed deadline, (b) two Orders determining a willful failure to pay the Prevailing Wage for the same multiple dwelling have been issued within a six-year period, or (c) an Order determines a willful failure to pay the Prevailing Wage that involves a falsification of payroll records or the kickback of wages or supplements.
@@ -18116,25 +18118,27 @@ The Agency shall commence benefit revocation proceedings pursuant to 28 RCNY Cha
 
 
 
-*§ 50-06 Agency Determination of Prevailing Wage Exemption.* ::
+*§ 50-07 Agency Determination of Prevailing Wage Exemption.* ::
 
 
-An Applicant who requests a determination of exemption from the Prevailing Wage Requirement, pursuant to the Act, the New 421-a Act, or the Extended Affordability Act, as applicable, must submit all of the documentation necessary to prove that:
+1. An Applicant who requests a determination of exemption from the Prevailing Wage Requirement, pursuant to the Act, the New 421-a Act, or the Extended Affordability Act, as applicable, must submit all of the documentation necessary to prove that:
 
-(a) with respect to a multiple dwelling that is not receiving benefits, pursuant to subdivisions sixteen or seventeen of Real Property Tax Law § 421-a, at least fifty percent of the dwelling units in such Applicant's building are 125% Units, including, but not limited to, (i) with respect to a multiple dwelling owned and operated as a rental, the initial rents for such 125% Units, the income certifications for the initial occupants of such 125% Units, and proof that the building is required to maintain such 125% Units during the entire period of Post-Construction Benefits, and, (ii) with respect to 125% Units in a multiple dwelling owned and operated as a condominium or cooperative development by individual condominium unit owners or shareholders, the initial unit sale prices and the income certifications for all of the initial purchasers of such 125% Units;
+   (a) with respect to a multiple dwelling that is not receiving benefits, pursuant to subdivisions sixteen or seventeen of Real Property Tax Law § 421-a, at least fifty percent of the dwelling units in such Applicant's building are 125% Units, including, but not limited to, (i) with respect to a multiple dwelling owned and operated as a rental, the initial rents for such 125% Units, the income certifications for the initial occupants of such 125% Units, and proof that the building is required to maintain such 125% Units during the entire period of Post-Construction Benefits, and, (ii) with respect to 125% Units in a multiple dwelling owned and operated as a condominium or cooperative development by individual condominium unit owners or shareholders, the initial unit sale prices and the income certifications for all of the initial purchasers of such 125% Units;
 
-(b) with respect to an Eligible Multiple Dwelling that is receiving benefits, pursuant to subdivision sixteen of Real Property Tax Law § 421-a, all of the dwelling units in such Eligible Multiple Dwelling are Affordable Housing Units, and at least fifty percent of the Affordable Housing Units, upon initial rental and upon each subsequent rental after a vacancy during the Restriction Period or the Extended Restriction Period, are 125% Units, including, but not limited to, the initial rents for such Affordable Housing Units and 125% Units, the income certifications for the initial occupants of such Affordable Housing Units and 125% Units, and proof that the Eligible Multiple Dwelling is required to maintain such Affordable Housing Units and 125% Units during the entire Restriction Period or Extended Restriction Period, as applicable; or
+   (b) with respect to an Eligible Multiple Dwelling that is receiving benefits, pursuant to subdivision sixteen of Real Property Tax Law § 421-a, all of the dwelling units in such Eligible Multiple Dwelling are Affordable Housing Units, and at least fifty percent of the Affordable Housing Units, upon initial rental and upon each subsequent rental after a vacancy during the Restriction Period or the Extended Restriction Period, are 125% Units, including, but not limited to, the initial rents for such Affordable Housing Units and 125% Units, the income certifications for the initial occupants of such Affordable Housing Units and 125% Units, and proof that the Eligible Multiple Dwelling is required to maintain such Affordable Housing Units and 125% Units during the entire Restriction Period or Extended Restriction Period, as applicable; or
 
-(c) with respect to an Extended Affordability Property that is receiving benefits, pursuant to subdivision seventeen of Real Property Tax Law § 421-a, all of the dwelling units in such Extended Affordability Property are Affordable Housing Units, and at least fifty percent of the Affordable Housing Units, upon initial rental and upon each subsequent rental after a vacancy during the Extended Affordability Period, are 125% Units, including, but not limited to, the initial rents for such Affordable Housing Units and 125% Units, the income certifications for the initial occupants of such Affordable Housing Units and 125% Units, and proof that the Extended Affordability Property is required to maintain such Affordable Housing Units and 125% Units during the entire Extended Affordability Period.
+   (c) with respect to an Extended Affordability Property that is receiving benefits, pursuant to subdivision seventeen of Real Property Tax Law § 421-a, all of the dwelling units in such Extended Affordability Property are Affordable Housing Units, and at least fifty percent of the Affordable Housing Units, upon initial rental and upon each subsequent rental after a vacancy during the Extended Affordability Period, are 125% Units, including, but not limited to, the initial rents for such Affordable Housing Units and 125% Units, the income certifications for the initial occupants of such Affordable Housing Units and 125% Units, and proof that the Extended Affordability Property is required to maintain such Affordable Housing Units and 125% Units during the entire Extended Affordability Period.
 
-
-
-
-
+2. An Agency determination of ineligibility for an exemption from the Prevailing Wage Requirement is deemed a final determination when the Agency issues either an Order or a Benefits Ineligibility Letter, after which the only review available to the Applicant is, pursuant to Article 78 of the Civil Practice Law and Rules.
 
 
 
-*§ 50-07 Contractor Certified Payroll Report.* ::
+
+
+
+
+
+*§ 50-08 Contractor Certified Payroll Report.* ::
 
 
 a. Eligible Multiple Dwellings that are required to submit a Contractor Certified Payroll Report pursuant to paragraph (vi) of the Minimum Average Hourly Wage Act shall use the form provided on the Comptroller’s website at www.comptroller.nyc.gov/prevailingwage, and shall identify all Construction Workers employed by the contractor or subcontractor and set forth the dates for all hours worked, the hourly wage and benefit rates, and the weekly gross and net pay amounts for each such Construction Worker. The Contractor Certified Payroll Report shall be accompanied by employee daily sign-in logs in the form provided on the Comptroller’s website at www.comptroller.nyc.gov/prevailingwage, and shall identify all Construction Workers employed by the contractor or subcontractor, set forth the daily start and end times of work for each such Construction Worker, and include each such Construction Worker’s original signature.
@@ -18148,7 +18152,7 @@ b. Notwithstanding anything to the contrary contained in subdivision a of this s
 
 
 
-*§ 50-08 Failure to Submit Required Reports, Failure to Submit Accurate Reports or Failure to Pay Minimum Average Hourly Wages in Accordance with the Minimum Average Hourly Wage Act.* ::
+*§ 50-09 Failure to Submit Required Reports, Failure to Submit Accurate Reports or Failure to Pay Minimum Average Hourly Wages in Accordance with the Minimum Average Hourly Wage Act.* ::
 
 
 a. The Comptroller shall only approve a plan submitted by the Third Party Fund Administrator pursuant to paragraph (vii) of the Minimum Average Hourly Wage Act if distribution of the deficiency is limited to all Construction Workers whose wages equal less than the minimum average hourly wage applicable to such Eligible Site.

@@ -477,6 +477,8 @@ Article 23-A factors. "Article 23-A factors" refers to the factors that employer
 
 Business day. "Business day" means any day except for Saturdays, Sundays, and all legal holidays of the City of New York.
 
+Cisgender. “Cisgender” is a term used to describe a person whose gender identity conforms with their sex assigned at birth.
+
 Commission. "Commission" means the New York City Commission on Human Rights.
 
 Conditional offer of employment. "Conditional offer of employment," as used in Section 8-107(11-a) of the Administrative Code and 47 RCNY § 2-04 for purposes of establishing when an applicant's criminal history can be considered by an employer, refers to an offer of employment, promotion or transfer. A conditional offer of employment can only be revoked based on one of the following:
@@ -511,6 +513,14 @@ Employer. "Employer" refers to an employer as defined by Section 8-102(5) of the
 
 Fair Chance Process. "Fair Chance Process" refers to the postconditional offer process mandated by Section 8-107(11-a) of the Administrative Code when employers elect to withdraw a conditional offer of employment or deny a promotion or transfer based on an applicant's conviction history.
 
+Gender. “Gender” includes actual or perceived sex, gender identity, and gender expression including a person’s actual or perceived genderrelated self-image, appearance, behavior, expression, or other genderrelated characteristic, regardless of the sex assigned to that person at birth.
+
+Gender expression. “Gender expression” is the representation of gender as expressed through one’s name, pronouns, clothing, hairstyle, behavior, voice, or similar characteristics. Gender expression may or may not conform to gender stereotypes, norms, and expectations in a given culture or historical period. Terms associated with gender expression include, but are not limited to, androgynous, butch, female/woman/feminine, femme, gender non-conforming, male/man/masculine, or non-binary.
+
+Gender identity. “Gender identity” is the internal deeply-held sense of one’s gender which may be the same as or different from one’s sex assigned at birth. A person’s gender identity may be male, female, neither or both, i.e., non-binary. Terms associated with gender identity include, but are not limited to, agender, bigender, female/woman/womxn/feminine, female to male (FTM), gender diverse, gender fluid, gender queer, male/man/masculine, male to female (MTF), man of trans experience, pangender, or woman of trans experience.
+
+Gender non-conforming. “Gender non-conforming” is a term used to describe a person whose gender expression differs from gender stereotypes, norms, and expectations in a given culture and historical period. Terms associated with gender non-conforming include, but are not limited to, androgynous, gender expansive, gender variant, or gender diverse.
+
 High degree of public trust. “High degree of public trust” as used in 47 RCNY § 2-05 refers only to the following City agency positions: (i) agency heads and directors; (ii) Commissioner titles, including Assistant, Associate, and Deputy Commissioners; (iii) Counsel titles, including General Counsel, Special Counsel, Deputy General Counsel, and Assistant General Counsel, that involve high-level decision-making authority; (iv) Chief Information Officer and Chief Technology Officer titles; and (v) any position reporting directly to the head of an agency.
 
 Human Rights Law. "Human Rights Law" refers to Title 8 of the Administrative Code.
@@ -519,11 +529,15 @@ Intelligence information. “Intelligence information” means records and data 
 
 Inquiry. "Inquiry," when used in connection with criminal history, refers to any oral or written question asked for the purpose of obtaining a person's criminal history, including without limitation, questions in a job interview about an applicant's criminal history, and any search for a person's criminal history, including through the services of a third party, such as a consumer reporting agency.
 
+Intersex. “Intersex” is a term used to refer to a person whose sex characteristics (chromosomes, hormones, gonads, genitalia, etc.) do not conform with a binary construction of sex as either male or female.
+
 Licensing agency. "Licensing agency" refers to any agency or employee thereof that is authorized to issue any certificate, license, registration, permit or grant of permission required by the law of this state, its political subdivisions or instrumentalities as a condition for the lawful practice of any occupation, employment, trade, vocation, business or profession.
 
 Members. "Members" means individuals belonging to any class of membership offered by the institution, club, or place of accommodation including, but not limited to, full membership, resident membership, nonresident membership, temporary membership, family membership, honorary membership, associate membership, membership limited to use of dining or athletic facilities, and membership of members' minor children or spouses or domestic partners.
 
 National security information. “National security information” means any knowledge relating to the national defense or foreign relations of the United States, regardless of its physical form or characteristics, that is owned by, produced by or for, or is under the control of the United States government and is defined as such by the United States government and its agencies and departments.
+
+Non-binary. “Non-binary” is a term used to describe a person whose gender identity is not exclusively male or female. For example, some people have a gender identity that blends elements of being a man or a woman or a gender identity that is neither male nor female.
 
 Non-conviction. "Non-conviction" means any arrest or criminal accusation, not currently pending, that was concluded in one of the following ways:
 
@@ -551,6 +565,8 @@ Regular meal service. "Regular meal service" means the provision, either directl
 
 Regularly receives payment. An institution, club or place of accommodation "regularly receives payment for dues, fees, use of space, facilities, services, meals or beverages directly or indirectly from or on behalf of nonmembers for the furtherance of trade or business" if it receives as many such payments during the course of a year as the number of weeks any part of which the institution, club or place of accommodation is available for use by members or non members per year.
 
+Sex. “Sex” is a combination of several characteristics, including but not limited to, chromosomes, hormones, internal and external reproductive organs, facial hair, vocal pitch, development of breasts, and gender identity.
+
 Statement. "Statement," when used in connection with criminal history, refers to any communications made, orally or in writing, to a person for the purpose of obtaining criminal history, including, without limitation, stating that a background check is required for a position.
 
 Stop Credit Discrimination in Employment Act. “Stop Credit Discrimination in Employment Act” refers to Local Law No. 37 of 2015, codified in Sections 8-102(29) and 8-107(9)(d), (24) of the administrative code of the City of New York.
@@ -560,6 +576,8 @@ Temporary help firms. "Temporary help firms" are businesses that recruit, hire, 
 Terms and conditions. "Terms and conditions" means conditions of employment, including but not limited to hiring, termination, transfers, promotions, privileges, compensation, benefits, professional development and training opportunities, and job duties.
 
 Trade secret. “Trade secret” means information that: (i) derives significant independent economic value, actual or potential, from not being generally known to, and not being readily ascertainable by proper means by other persons who can obtain economic value from its disclosure or use; (ii) is the subject of efforts that are reasonable under the circumstances to maintain its secrecy, both within the workplace and in the public; and (iii) can reasonably be said to be the end product of significant innovation. The term “trade secret” does not include general proprietary company information such as the information contained in handbooks and policies. The term “regular access to trade secrets” does not include access to or the use of client, customer, or mailing lists or other information regularly collected in the course of business. In considering whether information constitutes a trade secret for the purposes of an exemption under Section 8-107(24)(b)(2)(E) of the administrative code, the Commission will consider various factors, including: (1) efforts made by the employer to protect and develop such information for the purpose of increasing competitive advantage; (2) whether the information was regularly shared with entry level and non-salaried employees and supervisors or managers of such employees; (3) what efforts would be required to replicate such information by someone knowledgeable within the field; (4) the value of the information to competitors; and (5) the amount of money and effort expended by the employer to develop the information.
+
+Transgender. “Transgender” – sometimes shortened to “trans” – is a term used to describe a person whose gender identity does not conform with the sex assigned at birth.
 
 
 
@@ -973,6 +991,84 @@ If any provision of these Regulations or the application thereof is held invalid
       (ii) If a respondent fails to respond to a complaint accompanied by an Early Resolution Notice within 90 days, the Law Enforcement Bureau may refer the case to the Office of Administrative Trials and Hearings pursuant to 47 RCNY § 1-71 and, in a written motion pursuant to 48 RCNY § 1-50, seek an expedited trial and issuance of a report and recommendation that finds respondent in default and recommends the affirmative relief and penalties requested by the Law Enforcement Bureau. The motion papers will include all supporting evidence, a copy of the complaint, the Early Resolution Notice, and proof of service.
 
    (9) Relief From Default in an Early Resolution Case. At any time prior to the issuance of a decision and order, the respondent may move for relief from default.
+
+
+
+
+
+
+
+
+*§ 2-06 Prohibition on Discrimination Based on Gender.* ::
+
+
+The following requirements apply with respect to Title 8 of the Administrative Code’s prohibition on unlawful discriminatory practices based on gender:
+
+(a) Deliberate Refusal to Use an Individual’s Self-Identified Name, Pronoun or Title. A covered entity’s deliberate refusal to use an individual’s self-identified name, pronoun and gendered title constitutes a violation of § 8-107 of the Administrative Code where the refusal is motivated by the individual’s gender. This is the case regardless of the individual’s sex assigned at birth, anatomy, gender, medical history, appearance, or the sex indicated on the individual’s identification except in the limited circumstance where Federal, State, or Local law requires otherwise (e.g., for purposes of employment eligibility verification with the Federal government). Asking someone in good faith their name or which pronoun they use is not a violation of the Human Rights Law.
+
+   a. Examples of violations.
+
+      i. Deliberately calling a transgender woman “Mr.” after she has made clear that she uses female titles. Deliberately using the pronoun “he” for a non-binary person who is perceived as male but has indicated that they identify as non-binary and use the pronouns “they,” “them,” and “theirs.”
+
+      ii. Conditioning an individual’s use of their self-identified name on obtaining a court-ordered name change or providing identification in that name. For example, a covered entity may not refuse to call a transgender student by her self-identified name because her selfidentified name does not appear on her birth certificate.
+
+      iii. Asking or requiring an individual to provide information about their medical history or proof of having undergone medical procedures to use their self-identified name, pronoun, or title.
+
+      iv. Refusing to use an employee’s self-identified name in their email account.
+
+      v. Failing or refusing to include a patient’s self-identified name and self-reported gender in their medical record, resulting in the patient being misgendered by staff, even if a patient’s sex assigned at birth or gender transition may be recorded for the purpose of providing medical care.
+
+(b) Refusing to Allow Individuals to Use Single-Gender Facilities or Participate in Single-Gender Programs Consistent with their Gender Identity. Covered entities must allow individuals to use single-gender facilities – such as bathrooms, locker rooms, or hospital rooms – and participate in single-gender programs consistent with their gender identity, regardless of their sex assigned at birth, anatomy, medical history, appearance, or the sex indicated on their identification.
+
+   a. It is not a defense to a charge of violating the Human Rights Law that some people, including, for example, customers, other program participants, tenants, or employees, may object to sharing a facility or participating in a program with a transgender, non-binary, or gender non-conforming person. Such objections are not a lawful reason to deny access to that transgender, non-binary, or gender non-conforming individual.
+
+   b. Examples of violations.
+
+      i. Prohibiting a person from participating in the singlegender program consistent with their gender identity or expression because they do not conform to gender stereotypes.
+
+      ii. Requiring a gender non-conforming person to provide proof of their gender to access the single-gender program or facility corresponding to their gender.
+
+      iii. Requiring a non-binary person to use a single-occupancy restroom instead of a shared bathroom.
+
+      iv. Barring a transgender girl from participating in a singlegender after-school program out of concern that she will make other students uncomfortable.
+
+      v. Forbidding a transgender person from sharing a room with people of the same gender in a residential treatment facility with single-gender shared rooms.
+
+(c) Imposing Different Dress or Grooming Standards Based on Gender. Covered entities may not require dress codes or uniforms, or apply grooming or appearance standards, that impose different requirements for individuals based on their gender.
+
+   a. It is not a defense to a charge of discrimination that a covered entity has a violative dress code because it is catering to the preferences of its customers or clients.
+
+   b. Examples of violations.
+
+      i. Requiring different uniforms for men and women. While covered entities may provide different uniform options that are typically associated with men and women, it is unlawful to require an employee to wear one style instead of the other.
+
+      ii. Permitting only female students to wear makeup or jewelry to school.
+
+      iii. Requiring only men to wear ties to dine at a restaurant.
+
+   c. Actors may be required to wear gender-specific costumes if required by a role.
+
+(d) Covered Entities Must Provide Equal Employee Benefits Regardless of Gender. Subject to § 8-107(1)(e), covered entities offering benefit plans must offer benefits equally to all employees regardless of gender and may not provide health benefit plans that deny, limit or exclude services based on gender. To be nondiscriminatory with respect to gender, health benefit plans may not exclude coverage for transgender care, also known as transition-related care or gender-affirming care.
+
+   a. Examples of violations.
+
+      i. Offering health benefits that exclude coverage for procedures based on gender. For example, offering health benefits that cover prostate cancer screening for cisgender men but not for transgender women or nonbinary individuals.
+
+      ii. Offering health benefits that exclude from coverage, or limit coverage for, health care related to gender transition, including, but not limited to, hormone replacement therapy, psychological or psychiatric treatment, hormone suppressers, voice training, or surgery.
+
+      iii. Giving twelve weeks of paid parental leave to mothers but only two weeks to fathers. While a differential in parental leave may be permissible if based on physical recovery from childbirth, it may not be premised on a parent’s gender.
+
+      iv. Employers selected benefit plan offering health benefits that deem certain medical procedures available to only one sex, thereby excluding intersex people who may be registered under another.
+
+(e) Gender May Not Be the Basis for Refusing a Request for Accommodation. Gender may not be the basis for a covered entity to refuse, withhold, or deny a request for accommodation for disability or other request for changes to the terms and conditions of an individual’s employment, participation in a program, or use of a public accommodation, which may include additional medical or personal leave or schedule changes. Covered entities must treat leave requests to address medical or health care needs related to an individual’s gender identity in the same manner as requests for all other medical conditions. Covered entities must provide reasonable accommodations to individuals undergoing gender transition, including medical leave for medical and counseling appointments, surgery and recovery from gender affirming procedures, surgeries and treatments as they would for any other medical condition.
+
+   a. Examples of violations.
+
+      i. Providing a reasonable accommodation for a cisgender woman undergoing medically necessary reconstructive breast surgery but refusing to provide the same accommodation to a transgender woman undergoing the same medically necessary surgery.
+
+      ii. Requesting medical documentation to verify leave time from transgender or non-binary employees or participants, but not cisgender employees or participants.
+
+(f)  Places or providers of public accommodation may be granted an exemption to the provisions of this subdivision relating to unlawful discriminatory practices based on gender under § 8-107(4)(b) of the Administrative Code.
 
 
 
