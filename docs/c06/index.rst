@@ -17663,3 +17663,139 @@ Chapter 52: After Hours Noise Complaints
 
 
 
+Chapter 54: Community Right-To-Know Law Penalty Schedule
+--------------------------------------------------
+
+
+
+*§ 54-01 General.* ::
+
+
+(a) For the purposes of this chapter, the term Extremely Hazardous Substance (EHS) has the same meaning as provided by Section 24-702(h) of the administrative code.
+
+(b) Whenever a respondent is found in violation of any of the following provisions of the administrative code or the rules of the City of New York, any civil penalties recommended by a hearing officer, pursuant to 48 RCNY § 6-17(a) in accordance with § 1049-a(d)(1)(d) of the Charter and/or any civil penalties imposed for admissions of violations pursuant to 48 RCNY § 6-09(a) or late admissions pursuant to 48 RCNY § 3-17 will be imposed pursuant to the penalty schedule set forth below.
+
+(c) A second or subsequent offense is a violation by the same respondent of the same section within five years of the prior violation.
+
+(d) Mitigating and Aggravating Factors:
+
+   (1) All additions and subtractions are cumulative, except that factors J and K cannot be applied together, and factors A, B, and L may only be applied when at least one aggravating factor is also present (i.e., they cannot be used to reduce the penalty to less than the legal minimum).
+
+   (2) Where the application of multiple aggravating factors would cause the legal maximum penalty to be exceeded, the legal maximum penalty (same as the default penalty) shall be imposed.
+
+      A. Subtract $1,750 for compliance by first hearing date.
+
+      B. Subtract $3,750 for compliance by first hearing date.
+
+      C. Add $250 if there are any EHS stored at the facility.
+
+      D. Add $1,750 if there are any EHS stored at the facility.
+
+      E. Add $3,750 if there are any EHS stored at the facility.
+
+      F. Add $100 for each unlabeled non-EHS hazardous substance more than one; add $2,000 for each unlabeled EHS.
+
+      G. Add $1,000 if there are 25 or more hazardous substances stored at the facility; add $5,000 if there are more than 50 hazardous substances stored at the facility or if any EHS are stored at the facility. NOTE: This factor may only be applied until the legal maximum penalty has been reached.
+
+      H. Add $5,000 for willful refusal to allow access to the facility, or physical interference with or obstruction of the inspection.
+
+      I. Add $1,000 if there was an emergency response to the facility.
+
+      J. Add $2,500 if there was a release of a hazardous substance at the facility.
+
+      K. Add $4,500 if release of a hazardous substance at the facility resulted in injury to any person, or injury to plant or animal life, or damage to property or business.
+
+      L. Subtract $250 where the existence of the violation was voluntarily disclosed to DEP by respondent.
+
+      M. Mitigate to zero where correction certified within 30 days of summons issuance.
+
+
+
+
+
+
+
+
+*§ 54-02 Community Right-to-Know Law Penalty Schedule.* ::
+
+
+
+
+ 
+
+
+.. list-table::
+    :header-rows: 1
+
+    * - Section
+      - Description
+      - Offense
+      - Penalty
+      - Default
+      - Stipulation
+      - Mit/Agg
+    * - Admin. § 24-706(a)
+      - Failed to file a completed Facility Inventory Form
+      - 1st2nd3rd
+      - $500$3,500$7,500
+      - $5,000$10,000$20,000
+      - YesNoNo
+      - C I J K LA D I J K LB E I J K L
+    * -  
+      - Failed to file a facility inventory update
+      - 1st2nd3rd
+      - $500$3,500$7,500
+      - $5,000$10,000$20,000
+      - YesNoNo
+      - C I J K LA D I J K LB E I J K L
+    * - Admin. § 24-706(b)
+      - Failed to submit a Material Safety Data Sheet
+      - 1st2nd3rd
+      - $500$3,500$7,500
+      - $5,000$10,000$20,000
+      - YesNoNo
+      - I J K LA I J K LB I J K L
+    * - Admin. § 24-706(c)
+      - Failed to make copy of FIF or MSDS available at facility
+      - 1st2nd3rd
+      - $500$3,500$7,500
+      - $5,000$10,000$20,000
+      - NoNoNo
+      - I J K LI J K LI J K L
+    * - Admin. § 24-711
+      - Failed to properly label hazardous substance
+      - 1st2nd3rd
+      - $500$3,500$7,500
+      - $5,000$10,000$20,000
+      - NoNoNo
+      - F I J K LF I J K LF I J K L
+    * - Admin. § 24-712
+      - Failed to give access to inspect facility
+      - 1st2nd
+      - $2,500$5,000
+      - $20,000$20,000
+      - NoNo
+      - G HG H
+    * - Admin. § 24-718
+      - Failed to properly file risk management plan
+      - 1st2nd3rd
+      - $1,000$3,500$7,500
+      - $5,000$10,000$20,000
+      - NoNoNo
+      - I J K LA I J K LB I J K L
+    * - 15 RCNY § 41-14
+      - Failed to properly site/ store hazardous substances stored in portable containers
+      - 1st2nd3rd
+      - $500$3,500$7,500
+      - $5,000$10,000$10,000
+      - YesNoNo
+      - MMM
+~
+
+
+
+
+
+
+
+

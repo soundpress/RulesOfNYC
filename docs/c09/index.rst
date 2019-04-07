@@ -20547,7 +20547,7 @@ Scheduled fines. The following schedule of fines shall apply to violations liste
       - $80.00
     * - (e) Stopping, standing or parking in violation of 34 RCNY § 4-08(e)(11)
       - $50.00
-    * - (f) Standing or parking in violation of 34 RCNY § 4-08(b)(4), (c)(1), (c)(8), (f)(2), (3), (5), or (k)(2)
+    * - (f) Standing or parking in violation of 34 RCNY § 4-08(b)(4), (c)(8), (f)(2), (3), (5), or (k)(2)
       - $80.00 
     * - (g) Standing or parking in violation of 34 RCNY § 4-08(j)
       - $50.00 
